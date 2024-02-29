@@ -5,6 +5,6 @@ channels:
 dependencies:
   - python=3.9
   - jupyterlab
-  - pandas=2.21
+  - pandas=2.2.0
   - altair=5.2.0
   - scikit-learn=1.4.0
