@@ -1,0 +1,10 @@
+name: dsci310_group11
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - jupyterlab
+  - pandas
+  - altair
+prefix: C:\Users\eric.zhao\miniconda3\envs\dsci310_group11
