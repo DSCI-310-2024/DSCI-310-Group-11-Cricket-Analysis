@@ -1,0 +1,249 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+255954,2006/07,South Africa,0,GC Smith,72861603,Z Khan,91a4a398,LE Bosman,73e749e1,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,South Africa,0,GC Smith,72861603,Z Khan,91a4a398,LE Bosman,73e749e1,0,0,0,0,0,,,,,,1,0,1
+255954,2006/07,South Africa,0,LE Bosman,73e749e1,Z Khan,91a4a398,GC Smith,72861603,1,0,0,0,0,,,,,,0,1,1
+255954,2006/07,South Africa,0,LE Bosman,73e749e1,Z Khan,91a4a398,GC Smith,72861603,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,South Africa,0,LE Bosman,73e749e1,Z Khan,91a4a398,GC Smith,72861603,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,South Africa,0,LE Bosman,73e749e1,Z Khan,91a4a398,GC Smith,72861603,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,South Africa,0,LE Bosman,73e749e1,Z Khan,91a4a398,GC Smith,72861603,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,South Africa,1,GC Smith,72861603,S Sreesanth,6b8eb6e5,LE Bosman,73e749e1,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,South Africa,1,GC Smith,72861603,S Sreesanth,6b8eb6e5,LE Bosman,73e749e1,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,South Africa,1,GC Smith,72861603,S Sreesanth,6b8eb6e5,LE Bosman,73e749e1,5,0,0,0,0,,,,,,0,5,5
+255954,2006/07,South Africa,1,GC Smith,72861603,S Sreesanth,6b8eb6e5,LE Bosman,73e749e1,0,0,0,0,0,,,,,,4,0,4
+255954,2006/07,South Africa,1,GC Smith,72861603,S Sreesanth,6b8eb6e5,LE Bosman,73e749e1,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,South Africa,1,GC Smith,72861603,S Sreesanth,6b8eb6e5,LE Bosman,73e749e1,0,0,0,0,0,,,,,,4,0,4
+255954,2006/07,South Africa,1,GC Smith,72861603,S Sreesanth,6b8eb6e5,LE Bosman,73e749e1,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,South Africa,2,LE Bosman,73e749e1,Z Khan,91a4a398,GC Smith,72861603,0,0,1,0,0,,,,,,0,1,1
+255954,2006/07,South Africa,2,GC Smith,72861603,Z Khan,91a4a398,LE Bosman,73e749e1,0,0,0,0,0,,,,,,1,0,1
+255954,2006/07,South Africa,2,LE Bosman,73e749e1,Z Khan,91a4a398,GC Smith,72861603,0,0,0,0,0,,,,,,1,0,1
+255954,2006/07,South Africa,2,GC Smith,72861603,Z Khan,91a4a398,LE Bosman,73e749e1,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,South Africa,2,GC Smith,72861603,Z Khan,91a4a398,LE Bosman,73e749e1,0,0,0,0,0,,,,,,1,0,1
+255954,2006/07,South Africa,2,LE Bosman,73e749e1,Z Khan,91a4a398,GC Smith,72861603,0,0,0,0,1,LE Bosman,73e749e1,SR Tendulkar,d2c2b2d5,caught,0,0,0
+255954,2006/07,South Africa,3,GC Smith,72861603,S Sreesanth,6b8eb6e5,HH Gibbs,e1d1b294,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,South Africa,3,GC Smith,72861603,S Sreesanth,6b8eb6e5,HH Gibbs,e1d1b294,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,South Africa,3,GC Smith,72861603,S Sreesanth,6b8eb6e5,HH Gibbs,e1d1b294,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,South Africa,3,GC Smith,72861603,S Sreesanth,6b8eb6e5,HH Gibbs,e1d1b294,1,0,0,0,0,,,,,,0,1,1
+255954,2006/07,South Africa,3,GC Smith,72861603,S Sreesanth,6b8eb6e5,HH Gibbs,e1d1b294,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,South Africa,3,GC Smith,72861603,S Sreesanth,6b8eb6e5,HH Gibbs,e1d1b294,0,0,0,0,0,,,,,,4,0,4
+255954,2006/07,South Africa,3,GC Smith,72861603,S Sreesanth,6b8eb6e5,HH Gibbs,e1d1b294,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,South Africa,4,HH Gibbs,e1d1b294,Z Khan,91a4a398,GC Smith,72861603,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,South Africa,4,HH Gibbs,e1d1b294,Z Khan,91a4a398,GC Smith,72861603,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,South Africa,4,HH Gibbs,e1d1b294,Z Khan,91a4a398,GC Smith,72861603,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,South Africa,4,HH Gibbs,e1d1b294,Z Khan,91a4a398,GC Smith,72861603,0,0,0,0,0,,,,,,2,0,2
+255954,2006/07,South Africa,4,HH Gibbs,e1d1b294,Z Khan,91a4a398,GC Smith,72861603,0,0,0,0,0,,,,,,4,0,4
+255954,2006/07,South Africa,4,HH Gibbs,e1d1b294,Z Khan,91a4a398,GC Smith,72861603,0,0,0,0,0,,,,,,1,0,1
+255954,2006/07,South Africa,5,HH Gibbs,e1d1b294,AB Agarkar,fa463154,GC Smith,72861603,0,0,0,0,1,HH Gibbs,e1d1b294,SK Raina,1dc12ab9,caught,0,0,0
+255954,2006/07,South Africa,5,JM Kemp,6581d753,AB Agarkar,fa463154,GC Smith,72861603,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,South Africa,5,JM Kemp,6581d753,AB Agarkar,fa463154,GC Smith,72861603,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,South Africa,5,JM Kemp,6581d753,AB Agarkar,fa463154,GC Smith,72861603,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,South Africa,5,JM Kemp,6581d753,AB Agarkar,fa463154,GC Smith,72861603,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,South Africa,5,JM Kemp,6581d753,AB Agarkar,fa463154,GC Smith,72861603,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,South Africa,6,GC Smith,72861603,Z Khan,91a4a398,JM Kemp,6581d753,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,South Africa,6,GC Smith,72861603,Z Khan,91a4a398,JM Kemp,6581d753,1,0,0,0,0,,,,,,0,1,1
+255954,2006/07,South Africa,6,GC Smith,72861603,Z Khan,91a4a398,JM Kemp,6581d753,0,0,0,0,0,,,,,,1,0,1
+255954,2006/07,South Africa,6,JM Kemp,6581d753,Z Khan,91a4a398,GC Smith,72861603,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,South Africa,6,JM Kemp,6581d753,Z Khan,91a4a398,GC Smith,72861603,0,0,0,0,0,,,,,,1,0,1
+255954,2006/07,South Africa,6,GC Smith,72861603,Z Khan,91a4a398,JM Kemp,6581d753,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,South Africa,6,GC Smith,72861603,Z Khan,91a4a398,JM Kemp,6581d753,0,0,0,0,1,GC Smith,72861603,,,lbw,0,0,0
+255954,2006/07,South Africa,7,JM Kemp,6581d753,AB Agarkar,fa463154,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,South Africa,7,JM Kemp,6581d753,AB Agarkar,fa463154,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,1,0,1
+255954,2006/07,South Africa,7,AB de Villiers,c4487b84,AB Agarkar,fa463154,JM Kemp,6581d753,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,South Africa,7,AB de Villiers,c4487b84,AB Agarkar,fa463154,JM Kemp,6581d753,0,0,0,0,0,,,,,,6,0,6
+255954,2006/07,South Africa,7,AB de Villiers,c4487b84,AB Agarkar,fa463154,JM Kemp,6581d753,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,South Africa,7,AB de Villiers,c4487b84,AB Agarkar,fa463154,JM Kemp,6581d753,0,0,0,0,1,AB de Villiers,c4487b84,MS Dhoni,4a8a2e3b,caught,0,0,0
+255954,2006/07,South Africa,8,JM Kemp,6581d753,IK Pathan,5fa06777,JA Morkel,c3d35165,0,0,0,0,0,,,,,,4,0,4
+255954,2006/07,South Africa,8,JM Kemp,6581d753,IK Pathan,5fa06777,JA Morkel,c3d35165,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,South Africa,8,JM Kemp,6581d753,IK Pathan,5fa06777,JA Morkel,c3d35165,0,0,0,0,0,,,,,,4,0,4
+255954,2006/07,South Africa,8,JM Kemp,6581d753,IK Pathan,5fa06777,JA Morkel,c3d35165,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,South Africa,8,JM Kemp,6581d753,IK Pathan,5fa06777,JA Morkel,c3d35165,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,South Africa,8,JM Kemp,6581d753,IK Pathan,5fa06777,JA Morkel,c3d35165,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,South Africa,9,JA Morkel,c3d35165,AB Agarkar,fa463154,JM Kemp,6581d753,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,South Africa,9,JA Morkel,c3d35165,AB Agarkar,fa463154,JM Kemp,6581d753,0,0,0,0,0,,,,,,1,0,1
+255954,2006/07,South Africa,9,JM Kemp,6581d753,AB Agarkar,fa463154,JA Morkel,c3d35165,0,0,0,0,0,,,,,,2,0,2
+255954,2006/07,South Africa,9,JM Kemp,6581d753,SR Tendulkar,d2c2b2d5,JA Morkel,c3d35165,0,0,0,0,0,,,,,,4,0,4
+255954,2006/07,South Africa,9,JM Kemp,6581d753,SR Tendulkar,d2c2b2d5,JA Morkel,c3d35165,0,0,0,0,0,,,,,,1,0,1
+255954,2006/07,South Africa,9,JA Morkel,c3d35165,SR Tendulkar,d2c2b2d5,JM Kemp,6581d753,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,South Africa,10,JM Kemp,6581d753,IK Pathan,5fa06777,JA Morkel,c3d35165,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,South Africa,10,JM Kemp,6581d753,IK Pathan,5fa06777,JA Morkel,c3d35165,0,0,0,0,0,,,,,,2,0,2
+255954,2006/07,South Africa,10,JM Kemp,6581d753,IK Pathan,5fa06777,JA Morkel,c3d35165,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,South Africa,10,JM Kemp,6581d753,IK Pathan,5fa06777,JA Morkel,c3d35165,0,0,0,0,0,,,,,,1,0,1
+255954,2006/07,South Africa,10,JA Morkel,c3d35165,IK Pathan,5fa06777,JM Kemp,6581d753,0,0,0,0,0,,,,,,1,0,1
+255954,2006/07,South Africa,10,JM Kemp,6581d753,IK Pathan,5fa06777,JA Morkel,c3d35165,0,0,0,0,0,,,,,,1,0,1
+255954,2006/07,South Africa,11,JM Kemp,6581d753,SR Tendulkar,d2c2b2d5,JA Morkel,c3d35165,0,0,0,0,0,,,,,,1,0,1
+255954,2006/07,South Africa,11,JA Morkel,c3d35165,SR Tendulkar,d2c2b2d5,JM Kemp,6581d753,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,South Africa,11,JA Morkel,c3d35165,SR Tendulkar,d2c2b2d5,JM Kemp,6581d753,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,South Africa,11,JA Morkel,c3d35165,SR Tendulkar,d2c2b2d5,JM Kemp,6581d753,0,0,0,0,0,,,,,,1,0,1
+255954,2006/07,South Africa,11,JM Kemp,6581d753,SR Tendulkar,d2c2b2d5,JA Morkel,c3d35165,0,0,0,0,1,JM Kemp,6581d753,,,lbw,0,0,0
+255954,2006/07,South Africa,11,JJ van der Wath,6821ac10,SR Tendulkar,d2c2b2d5,JA Morkel,c3d35165,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,South Africa,12,JA Morkel,c3d35165,IK Pathan,5fa06777,JJ van der Wath,6821ac10,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,South Africa,12,JA Morkel,c3d35165,IK Pathan,5fa06777,JJ van der Wath,6821ac10,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,South Africa,12,JA Morkel,c3d35165,IK Pathan,5fa06777,JJ van der Wath,6821ac10,0,0,0,0,0,,,,,,4,0,4
+255954,2006/07,South Africa,12,JA Morkel,c3d35165,IK Pathan,5fa06777,JJ van der Wath,6821ac10,0,0,0,0,0,,,,,,6,0,6
+255954,2006/07,South Africa,12,JA Morkel,c3d35165,IK Pathan,5fa06777,JJ van der Wath,6821ac10,0,0,0,0,0,,,,,,1,0,1
+255954,2006/07,South Africa,12,JJ van der Wath,6821ac10,IK Pathan,5fa06777,JA Morkel,c3d35165,0,0,0,0,0,,,,,,1,0,1
+255954,2006/07,South Africa,13,JJ van der Wath,6821ac10,S Sreesanth,6b8eb6e5,JA Morkel,c3d35165,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,South Africa,13,JJ van der Wath,6821ac10,S Sreesanth,6b8eb6e5,JA Morkel,c3d35165,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,South Africa,13,JJ van der Wath,6821ac10,S Sreesanth,6b8eb6e5,JA Morkel,c3d35165,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,South Africa,13,JJ van der Wath,6821ac10,S Sreesanth,6b8eb6e5,JA Morkel,c3d35165,0,0,1,0,0,,,,,,0,1,1
+255954,2006/07,South Africa,13,JA Morkel,c3d35165,S Sreesanth,6b8eb6e5,JJ van der Wath,6821ac10,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,South Africa,13,JA Morkel,c3d35165,S Sreesanth,6b8eb6e5,JJ van der Wath,6821ac10,0,0,0,0,0,,,,,,6,0,6
+255954,2006/07,South Africa,14,JJ van der Wath,6821ac10,Harbhajan Singh,8b5b6769,JA Morkel,c3d35165,0,0,0,0,0,,,,,,1,0,1
+255954,2006/07,South Africa,14,JA Morkel,c3d35165,Harbhajan Singh,8b5b6769,JJ van der Wath,6821ac10,0,0,1,0,0,,,,,,0,1,1
+255954,2006/07,South Africa,14,JJ van der Wath,6821ac10,Harbhajan Singh,8b5b6769,JA Morkel,c3d35165,0,0,0,0,0,,,,,,1,0,1
+255954,2006/07,South Africa,14,JA Morkel,c3d35165,Harbhajan Singh,8b5b6769,JJ van der Wath,6821ac10,0,0,0,0,0,,,,,,6,0,6
+255954,2006/07,South Africa,14,JA Morkel,c3d35165,Harbhajan Singh,8b5b6769,JJ van der Wath,6821ac10,0,0,0,0,0,,,,,,1,0,1
+255954,2006/07,South Africa,14,JJ van der Wath,6821ac10,Harbhajan Singh,8b5b6769,JA Morkel,c3d35165,0,0,0,0,0,,,,,,1,0,1
+255954,2006/07,South Africa,15,JJ van der Wath,6821ac10,S Sreesanth,6b8eb6e5,JA Morkel,c3d35165,0,0,0,0,0,,,,,,4,0,4
+255954,2006/07,South Africa,15,JJ van der Wath,6821ac10,S Sreesanth,6b8eb6e5,JA Morkel,c3d35165,0,0,0,0,0,,,,,,2,0,2
+255954,2006/07,South Africa,15,JJ van der Wath,6821ac10,S Sreesanth,6b8eb6e5,JA Morkel,c3d35165,0,0,0,0,0,,,,,,1,0,1
+255954,2006/07,South Africa,15,JA Morkel,c3d35165,S Sreesanth,6b8eb6e5,JJ van der Wath,6821ac10,0,0,0,0,1,JA Morkel,c3d35165,D Mongia,99663fa5,caught,0,0,0
+255954,2006/07,South Africa,15,JJ van der Wath,6821ac10,S Sreesanth,6b8eb6e5,RJ Peterson,26ff4c29,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,South Africa,15,JJ van der Wath,6821ac10,S Sreesanth,6b8eb6e5,RJ Peterson,26ff4c29,0,0,0,0,0,,,,,,2,0,2
+255954,2006/07,South Africa,16,RJ Peterson,26ff4c29,Harbhajan Singh,8b5b6769,JJ van der Wath,6821ac10,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,South Africa,16,RJ Peterson,26ff4c29,Harbhajan Singh,8b5b6769,JJ van der Wath,6821ac10,0,0,0,0,0,,,,,,1,0,1
+255954,2006/07,South Africa,16,JJ van der Wath,6821ac10,Harbhajan Singh,8b5b6769,RJ Peterson,26ff4c29,0,0,0,0,0,,,,,,1,0,1
+255954,2006/07,South Africa,16,RJ Peterson,26ff4c29,Harbhajan Singh,8b5b6769,JJ van der Wath,6821ac10,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,South Africa,16,RJ Peterson,26ff4c29,Harbhajan Singh,8b5b6769,JJ van der Wath,6821ac10,0,0,0,0,0,,,,,,2,0,2
+255954,2006/07,South Africa,16,RJ Peterson,26ff4c29,Harbhajan Singh,8b5b6769,JJ van der Wath,6821ac10,0,0,0,0,0,,,,,,1,0,1
+255954,2006/07,South Africa,17,RJ Peterson,26ff4c29,IK Pathan,5fa06777,JJ van der Wath,6821ac10,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,South Africa,17,RJ Peterson,26ff4c29,IK Pathan,5fa06777,JJ van der Wath,6821ac10,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,South Africa,17,RJ Peterson,26ff4c29,IK Pathan,5fa06777,JJ van der Wath,6821ac10,0,0,0,0,0,,,,,,1,0,1
+255954,2006/07,South Africa,17,JJ van der Wath,6821ac10,IK Pathan,5fa06777,RJ Peterson,26ff4c29,0,0,0,0,0,,,,,,1,0,1
+255954,2006/07,South Africa,17,RJ Peterson,26ff4c29,IK Pathan,5fa06777,JJ van der Wath,6821ac10,0,0,0,0,0,,,,,,1,0,1
+255954,2006/07,South Africa,17,JJ van der Wath,6821ac10,IK Pathan,5fa06777,RJ Peterson,26ff4c29,0,0,0,0,0,,,,,,2,0,2
+255954,2006/07,South Africa,18,RJ Peterson,26ff4c29,Harbhajan Singh,8b5b6769,JJ van der Wath,6821ac10,0,0,0,0,0,,,,,,1,0,1
+255954,2006/07,South Africa,18,JJ van der Wath,6821ac10,Harbhajan Singh,8b5b6769,RJ Peterson,26ff4c29,0,0,0,0,0,,,,,,1,0,1
+255954,2006/07,South Africa,18,RJ Peterson,26ff4c29,Harbhajan Singh,8b5b6769,JJ van der Wath,6821ac10,0,0,0,0,0,,,,,,1,0,1
+255954,2006/07,South Africa,18,JJ van der Wath,6821ac10,Harbhajan Singh,8b5b6769,RJ Peterson,26ff4c29,0,0,0,0,0,,,,,,2,0,2
+255954,2006/07,South Africa,18,JJ van der Wath,6821ac10,Harbhajan Singh,8b5b6769,RJ Peterson,26ff4c29,0,1,0,0,0,,,,,,1,1,2
+255954,2006/07,South Africa,18,RJ Peterson,26ff4c29,Harbhajan Singh,8b5b6769,JJ van der Wath,6821ac10,0,0,0,0,1,RJ Peterson,26ff4c29,KD Karthik,c03f1114,run out,0,0,0
+255954,2006/07,South Africa,18,JJ van der Wath,6821ac10,Harbhajan Singh,8b5b6769,T Henderson,0a4ebc61,0,0,0,0,1,JJ van der Wath,6821ac10,SK Raina,1dc12ab9,caught,0,0,0
+255954,2006/07,South Africa,19,R Telemachus,543b4a1f,SR Tendulkar,d2c2b2d5,T Henderson,0a4ebc61,0,0,0,0,0,,,,,,2,0,2
+255954,2006/07,South Africa,19,R Telemachus,543b4a1f,SR Tendulkar,d2c2b2d5,T Henderson,0a4ebc61,0,0,0,0,0,,,,,,1,0,1
+255954,2006/07,South Africa,19,T Henderson,0a4ebc61,SR Tendulkar,d2c2b2d5,R Telemachus,543b4a1f,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,South Africa,19,T Henderson,0a4ebc61,SR Tendulkar,d2c2b2d5,R Telemachus,543b4a1f,0,0,0,0,1,T Henderson,0a4ebc61,MS Dhoni,4a8a2e3b,run out,0,0,0
+255954,2006/07,South Africa,19,CK Langeveldt,d1c94b25,SR Tendulkar,d2c2b2d5,R Telemachus,543b4a1f,0,0,1,0,0,,,,,,0,1,1
+255954,2006/07,South Africa,19,R Telemachus,543b4a1f,SR Tendulkar,d2c2b2d5,CK Langeveldt,d1c94b25,0,0,0,0,0,,,,,,2,0,2
+255954,2006/07,India,0,V Sehwag,8ba8195d,JJ van der Wath,6821ac10,SR Tendulkar,d2c2b2d5,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,India,0,V Sehwag,8ba8195d,JJ van der Wath,6821ac10,SR Tendulkar,d2c2b2d5,0,0,0,0,0,,,,,,4,0,4
+255954,2006/07,India,0,V Sehwag,8ba8195d,JJ van der Wath,6821ac10,SR Tendulkar,d2c2b2d5,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,India,0,V Sehwag,8ba8195d,JJ van der Wath,6821ac10,SR Tendulkar,d2c2b2d5,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,India,0,V Sehwag,8ba8195d,JJ van der Wath,6821ac10,SR Tendulkar,d2c2b2d5,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,India,0,V Sehwag,8ba8195d,JJ van der Wath,6821ac10,SR Tendulkar,d2c2b2d5,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,India,1,SR Tendulkar,d2c2b2d5,CK Langeveldt,d1c94b25,V Sehwag,8ba8195d,1,0,0,0,0,,,,,,0,1,1
+255954,2006/07,India,1,SR Tendulkar,d2c2b2d5,CK Langeveldt,d1c94b25,V Sehwag,8ba8195d,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,India,1,SR Tendulkar,d2c2b2d5,CK Langeveldt,d1c94b25,V Sehwag,8ba8195d,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,India,1,SR Tendulkar,d2c2b2d5,CK Langeveldt,d1c94b25,V Sehwag,8ba8195d,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,India,1,SR Tendulkar,d2c2b2d5,CK Langeveldt,d1c94b25,V Sehwag,8ba8195d,0,0,0,0,0,,,,,,2,0,2
+255954,2006/07,India,1,SR Tendulkar,d2c2b2d5,CK Langeveldt,d1c94b25,V Sehwag,8ba8195d,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,India,1,SR Tendulkar,d2c2b2d5,CK Langeveldt,d1c94b25,V Sehwag,8ba8195d,0,1,0,0,0,,,,,,0,1,1
+255954,2006/07,India,1,SR Tendulkar,d2c2b2d5,CK Langeveldt,d1c94b25,V Sehwag,8ba8195d,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,India,2,V Sehwag,8ba8195d,JJ van der Wath,6821ac10,SR Tendulkar,d2c2b2d5,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,India,2,V Sehwag,8ba8195d,JJ van der Wath,6821ac10,SR Tendulkar,d2c2b2d5,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,India,2,V Sehwag,8ba8195d,JJ van der Wath,6821ac10,SR Tendulkar,d2c2b2d5,1,0,0,0,0,,,,,,0,1,1
+255954,2006/07,India,2,V Sehwag,8ba8195d,JJ van der Wath,6821ac10,SR Tendulkar,d2c2b2d5,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,India,2,V Sehwag,8ba8195d,JJ van der Wath,6821ac10,SR Tendulkar,d2c2b2d5,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,India,2,V Sehwag,8ba8195d,JJ van der Wath,6821ac10,SR Tendulkar,d2c2b2d5,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,India,2,V Sehwag,8ba8195d,JJ van der Wath,6821ac10,SR Tendulkar,d2c2b2d5,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,India,3,SR Tendulkar,d2c2b2d5,CK Langeveldt,d1c94b25,V Sehwag,8ba8195d,0,0,0,0,0,,,,,,4,0,4
+255954,2006/07,India,3,SR Tendulkar,d2c2b2d5,CK Langeveldt,d1c94b25,V Sehwag,8ba8195d,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,India,3,SR Tendulkar,d2c2b2d5,CK Langeveldt,d1c94b25,V Sehwag,8ba8195d,0,0,0,0,0,,,,,,4,0,4
+255954,2006/07,India,3,SR Tendulkar,d2c2b2d5,CK Langeveldt,d1c94b25,V Sehwag,8ba8195d,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,India,3,SR Tendulkar,d2c2b2d5,CK Langeveldt,d1c94b25,V Sehwag,8ba8195d,0,0,0,0,1,SR Tendulkar,d2c2b2d5,,,bowled,0,0,0
+255954,2006/07,India,3,D Mongia,99663fa5,CK Langeveldt,d1c94b25,V Sehwag,8ba8195d,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,India,4,V Sehwag,8ba8195d,JJ van der Wath,6821ac10,D Mongia,99663fa5,0,0,0,0,0,,,,,,4,0,4
+255954,2006/07,India,4,V Sehwag,8ba8195d,JJ van der Wath,6821ac10,D Mongia,99663fa5,0,0,1,0,0,,,,,,0,1,1
+255954,2006/07,India,4,D Mongia,99663fa5,JJ van der Wath,6821ac10,V Sehwag,8ba8195d,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,India,4,D Mongia,99663fa5,JJ van der Wath,6821ac10,V Sehwag,8ba8195d,0,0,0,0,0,,,,,,2,0,2
+255954,2006/07,India,4,D Mongia,99663fa5,JJ van der Wath,6821ac10,V Sehwag,8ba8195d,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,India,4,D Mongia,99663fa5,JJ van der Wath,6821ac10,V Sehwag,8ba8195d,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,India,5,V Sehwag,8ba8195d,R Telemachus,543b4a1f,D Mongia,99663fa5,0,0,0,0,0,,,,,,1,0,1
+255954,2006/07,India,5,D Mongia,99663fa5,R Telemachus,543b4a1f,V Sehwag,8ba8195d,0,0,0,0,0,,,,,,4,0,4
+255954,2006/07,India,5,D Mongia,99663fa5,R Telemachus,543b4a1f,V Sehwag,8ba8195d,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,India,5,D Mongia,99663fa5,R Telemachus,543b4a1f,V Sehwag,8ba8195d,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,India,5,D Mongia,99663fa5,R Telemachus,543b4a1f,V Sehwag,8ba8195d,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,India,5,D Mongia,99663fa5,R Telemachus,543b4a1f,V Sehwag,8ba8195d,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,India,6,V Sehwag,8ba8195d,T Henderson,0a4ebc61,D Mongia,99663fa5,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,India,6,V Sehwag,8ba8195d,T Henderson,0a4ebc61,D Mongia,99663fa5,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,India,6,V Sehwag,8ba8195d,T Henderson,0a4ebc61,D Mongia,99663fa5,0,0,0,0,0,,,,,,6,0,6
+255954,2006/07,India,6,V Sehwag,8ba8195d,T Henderson,0a4ebc61,D Mongia,99663fa5,0,0,0,0,0,,,,,,4,0,4
+255954,2006/07,India,6,V Sehwag,8ba8195d,T Henderson,0a4ebc61,D Mongia,99663fa5,0,0,0,0,0,,,,,,1,0,1
+255954,2006/07,India,6,D Mongia,99663fa5,T Henderson,0a4ebc61,V Sehwag,8ba8195d,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,India,7,V Sehwag,8ba8195d,R Telemachus,543b4a1f,D Mongia,99663fa5,0,0,0,0,0,,,,,,4,0,4
+255954,2006/07,India,7,V Sehwag,8ba8195d,R Telemachus,543b4a1f,D Mongia,99663fa5,0,0,0,0,0,,,,,,2,0,2
+255954,2006/07,India,7,V Sehwag,8ba8195d,R Telemachus,543b4a1f,D Mongia,99663fa5,0,0,4,0,0,,,,,,0,4,4
+255954,2006/07,India,7,V Sehwag,8ba8195d,R Telemachus,543b4a1f,D Mongia,99663fa5,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,India,7,V Sehwag,8ba8195d,R Telemachus,543b4a1f,D Mongia,99663fa5,1,0,0,0,0,,,,,,0,1,1
+255954,2006/07,India,7,V Sehwag,8ba8195d,R Telemachus,543b4a1f,D Mongia,99663fa5,0,0,0,0,0,,,,,,1,0,1
+255954,2006/07,India,7,D Mongia,99663fa5,R Telemachus,543b4a1f,V Sehwag,8ba8195d,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,India,8,V Sehwag,8ba8195d,T Henderson,0a4ebc61,D Mongia,99663fa5,0,0,0,0,0,,,,,,2,0,2
+255954,2006/07,India,8,V Sehwag,8ba8195d,T Henderson,0a4ebc61,D Mongia,99663fa5,0,0,0,0,0,,,,,,4,0,4
+255954,2006/07,India,8,V Sehwag,8ba8195d,T Henderson,0a4ebc61,D Mongia,99663fa5,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,India,8,V Sehwag,8ba8195d,T Henderson,0a4ebc61,D Mongia,99663fa5,0,0,0,0,0,,,,,,1,0,1
+255954,2006/07,India,8,D Mongia,99663fa5,T Henderson,0a4ebc61,V Sehwag,8ba8195d,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,India,8,D Mongia,99663fa5,T Henderson,0a4ebc61,V Sehwag,8ba8195d,0,0,0,0,0,,,,,,1,0,1
+255954,2006/07,India,9,D Mongia,99663fa5,CK Langeveldt,d1c94b25,V Sehwag,8ba8195d,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,India,9,D Mongia,99663fa5,CK Langeveldt,d1c94b25,V Sehwag,8ba8195d,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,India,9,D Mongia,99663fa5,CK Langeveldt,d1c94b25,V Sehwag,8ba8195d,0,0,0,0,1,V Sehwag,8ba8195d,CK Langeveldt,d1c94b25,run out,0,0,0
+255954,2006/07,India,9,D Mongia,99663fa5,CK Langeveldt,d1c94b25,MS Dhoni,4a8a2e3b,0,0,0,0,0,,,,,,4,0,4
+255954,2006/07,India,9,D Mongia,99663fa5,CK Langeveldt,d1c94b25,MS Dhoni,4a8a2e3b,0,0,0,0,0,,,,,,1,0,1
+255954,2006/07,India,9,MS Dhoni,4a8a2e3b,CK Langeveldt,d1c94b25,D Mongia,99663fa5,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,India,10,D Mongia,99663fa5,T Henderson,0a4ebc61,MS Dhoni,4a8a2e3b,0,0,0,0,0,,,,,,2,0,2
+255954,2006/07,India,10,D Mongia,99663fa5,T Henderson,0a4ebc61,MS Dhoni,4a8a2e3b,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,India,10,D Mongia,99663fa5,T Henderson,0a4ebc61,MS Dhoni,4a8a2e3b,0,0,0,0,0,,,,,,4,0,4
+255954,2006/07,India,10,D Mongia,99663fa5,T Henderson,0a4ebc61,MS Dhoni,4a8a2e3b,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,India,10,D Mongia,99663fa5,T Henderson,0a4ebc61,MS Dhoni,4a8a2e3b,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,India,10,D Mongia,99663fa5,T Henderson,0a4ebc61,MS Dhoni,4a8a2e3b,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,India,11,MS Dhoni,4a8a2e3b,CK Langeveldt,d1c94b25,D Mongia,99663fa5,0,0,0,0,1,MS Dhoni,4a8a2e3b,,,bowled,0,0,0
+255954,2006/07,India,11,KD Karthik,c03f1114,CK Langeveldt,d1c94b25,D Mongia,99663fa5,0,0,1,0,0,,,,,,0,1,1
+255954,2006/07,India,11,D Mongia,99663fa5,CK Langeveldt,d1c94b25,KD Karthik,c03f1114,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,India,11,D Mongia,99663fa5,CK Langeveldt,d1c94b25,KD Karthik,c03f1114,0,0,0,0,0,,,,,,2,0,2
+255954,2006/07,India,11,D Mongia,99663fa5,CK Langeveldt,d1c94b25,KD Karthik,c03f1114,0,0,0,0,0,,,,,,1,0,1
+255954,2006/07,India,11,KD Karthik,c03f1114,CK Langeveldt,d1c94b25,D Mongia,99663fa5,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,India,12,D Mongia,99663fa5,T Henderson,0a4ebc61,KD Karthik,c03f1114,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,India,12,D Mongia,99663fa5,T Henderson,0a4ebc61,KD Karthik,c03f1114,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,India,12,D Mongia,99663fa5,T Henderson,0a4ebc61,KD Karthik,c03f1114,0,0,0,0,0,,,,,,1,0,1
+255954,2006/07,India,12,KD Karthik,c03f1114,T Henderson,0a4ebc61,D Mongia,99663fa5,0,0,0,0,0,,,,,,1,0,1
+255954,2006/07,India,12,D Mongia,99663fa5,T Henderson,0a4ebc61,KD Karthik,c03f1114,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,India,12,D Mongia,99663fa5,T Henderson,0a4ebc61,KD Karthik,c03f1114,0,0,0,0,0,,,,,,4,0,4
+255954,2006/07,India,13,KD Karthik,c03f1114,JA Morkel,c3d35165,D Mongia,99663fa5,0,0,0,0,0,,,,,,1,0,1
+255954,2006/07,India,13,D Mongia,99663fa5,JA Morkel,c3d35165,KD Karthik,c03f1114,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,India,13,D Mongia,99663fa5,JA Morkel,c3d35165,KD Karthik,c03f1114,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,India,13,D Mongia,99663fa5,JA Morkel,c3d35165,KD Karthik,c03f1114,0,0,0,0,0,,,,,,6,0,6
+255954,2006/07,India,13,D Mongia,99663fa5,JA Morkel,c3d35165,KD Karthik,c03f1114,0,0,0,0,0,,,,,,1,0,1
+255954,2006/07,India,13,KD Karthik,c03f1114,JA Morkel,c3d35165,D Mongia,99663fa5,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,India,14,D Mongia,99663fa5,R Telemachus,543b4a1f,KD Karthik,c03f1114,0,0,0,0,0,,,,,,1,0,1
+255954,2006/07,India,14,KD Karthik,c03f1114,R Telemachus,543b4a1f,D Mongia,99663fa5,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,India,14,KD Karthik,c03f1114,R Telemachus,543b4a1f,D Mongia,99663fa5,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,India,14,KD Karthik,c03f1114,R Telemachus,543b4a1f,D Mongia,99663fa5,0,0,0,0,0,,,,,,4,0,4
+255954,2006/07,India,14,KD Karthik,c03f1114,R Telemachus,543b4a1f,D Mongia,99663fa5,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,India,14,KD Karthik,c03f1114,R Telemachus,543b4a1f,D Mongia,99663fa5,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,India,15,D Mongia,99663fa5,JA Morkel,c3d35165,KD Karthik,c03f1114,0,0,0,0,0,,,,,,1,0,1
+255954,2006/07,India,15,KD Karthik,c03f1114,JA Morkel,c3d35165,D Mongia,99663fa5,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,India,15,KD Karthik,c03f1114,JA Morkel,c3d35165,D Mongia,99663fa5,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,India,15,KD Karthik,c03f1114,JA Morkel,c3d35165,D Mongia,99663fa5,0,0,0,0,0,,,,,,1,0,1
+255954,2006/07,India,15,D Mongia,99663fa5,JA Morkel,c3d35165,KD Karthik,c03f1114,0,0,0,0,0,,,,,,1,0,1
+255954,2006/07,India,15,KD Karthik,c03f1114,JA Morkel,c3d35165,D Mongia,99663fa5,0,0,0,0,0,,,,,,1,0,1
+255954,2006/07,India,16,KD Karthik,c03f1114,R Telemachus,543b4a1f,D Mongia,99663fa5,0,0,0,0,0,,,,,,4,0,4
+255954,2006/07,India,16,KD Karthik,c03f1114,R Telemachus,543b4a1f,D Mongia,99663fa5,0,0,0,0,0,,,,,,1,0,1
+255954,2006/07,India,16,D Mongia,99663fa5,R Telemachus,543b4a1f,KD Karthik,c03f1114,0,0,0,0,0,,,,,,1,0,1
+255954,2006/07,India,16,KD Karthik,c03f1114,R Telemachus,543b4a1f,D Mongia,99663fa5,0,0,0,0,0,,,,,,1,0,1
+255954,2006/07,India,16,D Mongia,99663fa5,R Telemachus,543b4a1f,KD Karthik,c03f1114,0,0,0,0,0,,,,,,1,0,1
+255954,2006/07,India,16,KD Karthik,c03f1114,R Telemachus,543b4a1f,D Mongia,99663fa5,0,0,0,0,0,,,,,,2,0,2
+255954,2006/07,India,17,D Mongia,99663fa5,RJ Peterson,26ff4c29,KD Karthik,c03f1114,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,India,17,D Mongia,99663fa5,RJ Peterson,26ff4c29,KD Karthik,c03f1114,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,India,17,D Mongia,99663fa5,RJ Peterson,26ff4c29,KD Karthik,c03f1114,0,0,0,0,1,D Mongia,99663fa5,CK Langeveldt,d1c94b25,caught,0,0,0
+255954,2006/07,India,17,KD Karthik,c03f1114,RJ Peterson,26ff4c29,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,1,0,1
+255954,2006/07,India,17,SK Raina,1dc12ab9,RJ Peterson,26ff4c29,KD Karthik,c03f1114,0,0,0,0,0,,,,,,1,0,1
+255954,2006/07,India,17,KD Karthik,c03f1114,RJ Peterson,26ff4c29,SK Raina,1dc12ab9,0,0,1,0,0,,,,,,0,1,1
+255954,2006/07,India,18,KD Karthik,c03f1114,JJ van der Wath,6821ac10,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,4,0,4
+255954,2006/07,India,18,KD Karthik,c03f1114,JJ van der Wath,6821ac10,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,1,0,1
+255954,2006/07,India,18,SK Raina,1dc12ab9,JJ van der Wath,6821ac10,KD Karthik,c03f1114,0,0,0,0,0,,,,,,1,0,1
+255954,2006/07,India,18,KD Karthik,c03f1114,JJ van der Wath,6821ac10,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,India,18,KD Karthik,c03f1114,JJ van der Wath,6821ac10,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,1,0,1
+255954,2006/07,India,18,SK Raina,1dc12ab9,JJ van der Wath,6821ac10,KD Karthik,c03f1114,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,India,19,KD Karthik,c03f1114,RJ Peterson,26ff4c29,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,6,0,6
+255954,2006/07,India,19,KD Karthik,c03f1114,RJ Peterson,26ff4c29,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,0,0,0
+255954,2006/07,India,19,KD Karthik,c03f1114,RJ Peterson,26ff4c29,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,1,0,1
+255954,2006/07,India,19,SK Raina,1dc12ab9,RJ Peterson,26ff4c29,KD Karthik,c03f1114,0,0,0,0,0,,,,,,1,0,1
+255954,2006/07,India,19,KD Karthik,c03f1114,RJ Peterson,26ff4c29,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,1,0,1

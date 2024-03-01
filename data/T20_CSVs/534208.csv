@@ -1,0 +1,248 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+534208,2012,West Indies,0,DR Smith,35205dfc,ST Finn,ccdd8308,CH Gayle,db584dad,0,0,0,0,0,,,,,,1,0,1
+534208,2012,West Indies,0,CH Gayle,db584dad,ST Finn,ccdd8308,DR Smith,35205dfc,0,0,0,0,0,,,,,,0,0,0
+534208,2012,West Indies,0,CH Gayle,db584dad,ST Finn,ccdd8308,DR Smith,35205dfc,3,0,0,0,0,,,,,,0,3,3
+534208,2012,West Indies,0,CH Gayle,db584dad,ST Finn,ccdd8308,DR Smith,35205dfc,0,0,0,0,0,,,,,,0,0,0
+534208,2012,West Indies,0,CH Gayle,db584dad,ST Finn,ccdd8308,DR Smith,35205dfc,0,0,0,0,0,,,,,,0,0,0
+534208,2012,West Indies,0,CH Gayle,db584dad,ST Finn,ccdd8308,DR Smith,35205dfc,0,0,0,0,0,,,,,,1,0,1
+534208,2012,West Indies,0,DR Smith,35205dfc,ST Finn,ccdd8308,CH Gayle,db584dad,0,0,0,0,0,,,,,,0,0,0
+534208,2012,West Indies,1,CH Gayle,db584dad,JW Dernbach,7be8a0ed,DR Smith,35205dfc,0,0,0,0,0,,,,,,0,0,0
+534208,2012,West Indies,1,CH Gayle,db584dad,JW Dernbach,7be8a0ed,DR Smith,35205dfc,0,0,0,0,0,,,,,,1,0,1
+534208,2012,West Indies,1,DR Smith,35205dfc,JW Dernbach,7be8a0ed,CH Gayle,db584dad,0,0,0,0,0,,,,,,0,0,0
+534208,2012,West Indies,1,DR Smith,35205dfc,JW Dernbach,7be8a0ed,CH Gayle,db584dad,0,0,0,0,0,,,,,,0,0,0
+534208,2012,West Indies,1,DR Smith,35205dfc,JW Dernbach,7be8a0ed,CH Gayle,db584dad,0,0,0,0,0,,,,,,4,0,4
+534208,2012,West Indies,1,DR Smith,35205dfc,JW Dernbach,7be8a0ed,CH Gayle,db584dad,0,0,0,0,0,,,,,,0,0,0
+534208,2012,West Indies,2,CH Gayle,db584dad,ST Finn,ccdd8308,DR Smith,35205dfc,0,0,0,0,0,,,,,,0,0,0
+534208,2012,West Indies,2,CH Gayle,db584dad,ST Finn,ccdd8308,DR Smith,35205dfc,0,0,0,0,1,CH Gayle,db584dad,JM Bairstow,abb83e27,caught,0,0,0
+534208,2012,West Indies,2,DR Smith,35205dfc,ST Finn,ccdd8308,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,1,0,1
+534208,2012,West Indies,2,LMP Simmons,89f64c19,ST Finn,ccdd8308,DR Smith,35205dfc,0,0,0,0,0,,,,,,0,0,0
+534208,2012,West Indies,2,LMP Simmons,89f64c19,ST Finn,ccdd8308,DR Smith,35205dfc,0,0,0,0,0,,,,,,1,0,1
+534208,2012,West Indies,2,DR Smith,35205dfc,ST Finn,ccdd8308,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,1,0,1
+534208,2012,West Indies,3,DR Smith,35205dfc,JW Dernbach,7be8a0ed,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,4,0,4
+534208,2012,West Indies,3,DR Smith,35205dfc,JW Dernbach,7be8a0ed,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,0,0,0
+534208,2012,West Indies,3,DR Smith,35205dfc,JW Dernbach,7be8a0ed,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,0,0,0
+534208,2012,West Indies,3,DR Smith,35205dfc,JW Dernbach,7be8a0ed,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,0,0,0
+534208,2012,West Indies,3,DR Smith,35205dfc,JW Dernbach,7be8a0ed,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,0,0,0
+534208,2012,West Indies,3,DR Smith,35205dfc,JW Dernbach,7be8a0ed,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,1,0,1
+534208,2012,West Indies,4,DR Smith,35205dfc,ST Finn,ccdd8308,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,0,0,0
+534208,2012,West Indies,4,DR Smith,35205dfc,ST Finn,ccdd8308,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,1,0,1
+534208,2012,West Indies,4,LMP Simmons,89f64c19,ST Finn,ccdd8308,DR Smith,35205dfc,0,0,0,0,0,,,,,,4,0,4
+534208,2012,West Indies,4,LMP Simmons,89f64c19,ST Finn,ccdd8308,DR Smith,35205dfc,0,0,0,0,0,,,,,,1,0,1
+534208,2012,West Indies,4,DR Smith,35205dfc,ST Finn,ccdd8308,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,0,0,0
+534208,2012,West Indies,4,DR Smith,35205dfc,ST Finn,ccdd8308,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,0,0,0
+534208,2012,West Indies,5,LMP Simmons,89f64c19,SCJ Broad,eba6a852,DR Smith,35205dfc,0,0,0,0,1,LMP Simmons,89f64c19,JM Bairstow,abb83e27,caught,0,0,0
+534208,2012,West Indies,5,DR Smith,35205dfc,SCJ Broad,eba6a852,MN Samuels,f846de6a,0,0,0,0,0,,,,,,0,0,0
+534208,2012,West Indies,5,DR Smith,35205dfc,SCJ Broad,eba6a852,MN Samuels,f846de6a,0,0,0,0,0,,,,,,1,0,1
+534208,2012,West Indies,5,MN Samuels,f846de6a,SCJ Broad,eba6a852,DR Smith,35205dfc,0,0,0,0,0,,,,,,0,0,0
+534208,2012,West Indies,5,MN Samuels,f846de6a,SCJ Broad,eba6a852,DR Smith,35205dfc,0,0,0,0,0,,,,,,4,0,4
+534208,2012,West Indies,5,MN Samuels,f846de6a,SCJ Broad,eba6a852,DR Smith,35205dfc,0,0,0,0,0,,,,,,0,0,0
+534208,2012,West Indies,6,DR Smith,35205dfc,GP Swann,221ad9d9,MN Samuels,f846de6a,0,0,0,0,0,,,,,,1,0,1
+534208,2012,West Indies,6,MN Samuels,f846de6a,GP Swann,221ad9d9,DR Smith,35205dfc,0,0,0,0,1,MN Samuels,f846de6a,C Kieswetter,1e960f2a,caught,0,0,0
+534208,2012,West Indies,6,DJ Bravo,87e562a9,GP Swann,221ad9d9,DR Smith,35205dfc,0,0,0,0,0,,,,,,0,0,0
+534208,2012,West Indies,6,DJ Bravo,87e562a9,GP Swann,221ad9d9,DR Smith,35205dfc,0,0,0,0,0,,,,,,1,0,1
+534208,2012,West Indies,6,DR Smith,35205dfc,GP Swann,221ad9d9,DJ Bravo,87e562a9,0,0,0,0,0,,,,,,1,0,1
+534208,2012,West Indies,6,DJ Bravo,87e562a9,GP Swann,221ad9d9,DR Smith,35205dfc,0,0,0,0,0,,,,,,1,0,1
+534208,2012,West Indies,7,DJ Bravo,87e562a9,SR Patel,18fac429,DR Smith,35205dfc,0,0,1,0,0,,,,,,0,1,1
+534208,2012,West Indies,7,DR Smith,35205dfc,SR Patel,18fac429,DJ Bravo,87e562a9,0,0,0,0,0,,,,,,0,0,0
+534208,2012,West Indies,7,DR Smith,35205dfc,SR Patel,18fac429,DJ Bravo,87e562a9,0,0,0,0,0,,,,,,2,0,2
+534208,2012,West Indies,7,DR Smith,35205dfc,SR Patel,18fac429,DJ Bravo,87e562a9,0,0,0,0,0,,,,,,0,0,0
+534208,2012,West Indies,7,DR Smith,35205dfc,SR Patel,18fac429,DJ Bravo,87e562a9,0,0,0,0,0,,,,,,0,0,0
+534208,2012,West Indies,7,DR Smith,35205dfc,SR Patel,18fac429,DJ Bravo,87e562a9,0,0,0,0,0,,,,,,2,0,2
+534208,2012,West Indies,8,DJ Bravo,87e562a9,GP Swann,221ad9d9,DR Smith,35205dfc,0,0,0,0,0,,,,,,1,0,1
+534208,2012,West Indies,8,DR Smith,35205dfc,GP Swann,221ad9d9,DJ Bravo,87e562a9,0,0,0,0,0,,,,,,0,0,0
+534208,2012,West Indies,8,DR Smith,35205dfc,GP Swann,221ad9d9,DJ Bravo,87e562a9,0,0,0,0,0,,,,,,4,0,4
+534208,2012,West Indies,8,DR Smith,35205dfc,GP Swann,221ad9d9,DJ Bravo,87e562a9,0,0,0,0,0,,,,,,4,0,4
+534208,2012,West Indies,8,DR Smith,35205dfc,GP Swann,221ad9d9,DJ Bravo,87e562a9,0,0,0,0,0,,,,,,1,0,1
+534208,2012,West Indies,8,DJ Bravo,87e562a9,GP Swann,221ad9d9,DR Smith,35205dfc,0,0,0,0,0,,,,,,1,0,1
+534208,2012,West Indies,9,DJ Bravo,87e562a9,SR Patel,18fac429,DR Smith,35205dfc,0,0,0,0,0,,,,,,1,0,1
+534208,2012,West Indies,9,DR Smith,35205dfc,SR Patel,18fac429,DJ Bravo,87e562a9,0,0,0,0,0,,,,,,0,0,0
+534208,2012,West Indies,9,DR Smith,35205dfc,SR Patel,18fac429,DJ Bravo,87e562a9,0,0,0,0,0,,,,,,0,0,0
+534208,2012,West Indies,9,DR Smith,35205dfc,SR Patel,18fac429,DJ Bravo,87e562a9,0,0,0,0,0,,,,,,6,0,6
+534208,2012,West Indies,9,DR Smith,35205dfc,SR Patel,18fac429,DJ Bravo,87e562a9,0,0,0,0,0,,,,,,0,0,0
+534208,2012,West Indies,9,DR Smith,35205dfc,SR Patel,18fac429,DJ Bravo,87e562a9,0,0,0,0,0,,,,,,1,0,1
+534208,2012,West Indies,10,DR Smith,35205dfc,GP Swann,221ad9d9,DJ Bravo,87e562a9,0,0,0,0,0,,,,,,0,0,0
+534208,2012,West Indies,10,DR Smith,35205dfc,GP Swann,221ad9d9,DJ Bravo,87e562a9,0,0,0,0,0,,,,,,1,0,1
+534208,2012,West Indies,10,DJ Bravo,87e562a9,GP Swann,221ad9d9,DR Smith,35205dfc,0,0,0,0,0,,,,,,0,0,0
+534208,2012,West Indies,10,DJ Bravo,87e562a9,GP Swann,221ad9d9,DR Smith,35205dfc,0,0,0,0,0,,,,,,0,0,0
+534208,2012,West Indies,10,DJ Bravo,87e562a9,GP Swann,221ad9d9,DR Smith,35205dfc,0,0,0,0,0,,,,,,2,0,2
+534208,2012,West Indies,10,DJ Bravo,87e562a9,GP Swann,221ad9d9,DR Smith,35205dfc,0,0,0,0,0,,,,,,3,0,3
+534208,2012,West Indies,11,DJ Bravo,87e562a9,SCJ Broad,eba6a852,DR Smith,35205dfc,0,0,0,0,0,,,,,,1,0,1
+534208,2012,West Indies,11,DR Smith,35205dfc,SCJ Broad,eba6a852,DJ Bravo,87e562a9,0,0,0,0,0,,,,,,0,0,0
+534208,2012,West Indies,11,DR Smith,35205dfc,SCJ Broad,eba6a852,DJ Bravo,87e562a9,0,0,0,0,0,,,,,,0,0,0
+534208,2012,West Indies,11,DR Smith,35205dfc,SCJ Broad,eba6a852,DJ Bravo,87e562a9,0,0,0,0,0,,,,,,0,0,0
+534208,2012,West Indies,11,DR Smith,35205dfc,SCJ Broad,eba6a852,DJ Bravo,87e562a9,0,0,0,0,0,,,,,,1,0,1
+534208,2012,West Indies,11,DJ Bravo,87e562a9,SCJ Broad,eba6a852,DR Smith,35205dfc,0,0,0,0,0,,,,,,0,0,0
+534208,2012,West Indies,12,DR Smith,35205dfc,GP Swann,221ad9d9,DJ Bravo,87e562a9,0,0,1,0,0,,,,,,0,1,1
+534208,2012,West Indies,12,DJ Bravo,87e562a9,GP Swann,221ad9d9,DR Smith,35205dfc,0,0,0,0,0,,,,,,1,0,1
+534208,2012,West Indies,12,DR Smith,35205dfc,GP Swann,221ad9d9,DJ Bravo,87e562a9,0,0,0,0,0,,,,,,6,0,6
+534208,2012,West Indies,12,DR Smith,35205dfc,GP Swann,221ad9d9,DJ Bravo,87e562a9,0,0,0,0,0,,,,,,1,0,1
+534208,2012,West Indies,12,DJ Bravo,87e562a9,GP Swann,221ad9d9,DR Smith,35205dfc,0,0,0,0,0,,,,,,2,0,2
+534208,2012,West Indies,12,DJ Bravo,87e562a9,GP Swann,221ad9d9,DR Smith,35205dfc,0,0,0,0,0,,,,,,1,0,1
+534208,2012,West Indies,13,DJ Bravo,87e562a9,SCJ Broad,eba6a852,DR Smith,35205dfc,0,0,0,0,0,,,,,,1,0,1
+534208,2012,West Indies,13,DR Smith,35205dfc,SCJ Broad,eba6a852,DJ Bravo,87e562a9,0,0,0,0,0,,,,,,6,0,6
+534208,2012,West Indies,13,DR Smith,35205dfc,SCJ Broad,eba6a852,DJ Bravo,87e562a9,0,0,0,0,0,,,,,,1,0,1
+534208,2012,West Indies,13,DJ Bravo,87e562a9,SCJ Broad,eba6a852,DR Smith,35205dfc,0,0,0,0,0,,,,,,1,0,1
+534208,2012,West Indies,13,DR Smith,35205dfc,SCJ Broad,eba6a852,DJ Bravo,87e562a9,1,0,0,0,0,,,,,,0,1,1
+534208,2012,West Indies,13,DR Smith,35205dfc,SCJ Broad,eba6a852,DJ Bravo,87e562a9,0,0,0,0,0,,,,,,6,0,6
+534208,2012,West Indies,13,DR Smith,35205dfc,SCJ Broad,eba6a852,DJ Bravo,87e562a9,0,0,0,0,0,,,,,,0,0,0
+534208,2012,West Indies,14,DJ Bravo,87e562a9,SR Patel,18fac429,DR Smith,35205dfc,0,0,0,0,0,,,,,,1,0,1
+534208,2012,West Indies,14,DR Smith,35205dfc,SR Patel,18fac429,DJ Bravo,87e562a9,0,0,0,0,0,,,,,,1,0,1
+534208,2012,West Indies,14,DJ Bravo,87e562a9,SR Patel,18fac429,DR Smith,35205dfc,0,0,0,0,0,,,,,,0,0,0
+534208,2012,West Indies,14,DJ Bravo,87e562a9,SR Patel,18fac429,DR Smith,35205dfc,0,0,0,0,0,,,,,,1,0,1
+534208,2012,West Indies,14,DR Smith,35205dfc,SR Patel,18fac429,DJ Bravo,87e562a9,0,0,0,0,0,,,,,,4,0,4
+534208,2012,West Indies,14,DR Smith,35205dfc,SR Patel,18fac429,DJ Bravo,87e562a9,0,0,0,0,0,,,,,,1,0,1
+534208,2012,West Indies,15,DR Smith,35205dfc,ST Finn,ccdd8308,DJ Bravo,87e562a9,0,0,0,0,0,,,,,,6,0,6
+534208,2012,West Indies,15,DR Smith,35205dfc,ST Finn,ccdd8308,DJ Bravo,87e562a9,0,0,0,0,1,DR Smith,35205dfc,C Kieswetter,1e960f2a,caught,0,0,0
+534208,2012,West Indies,15,KA Pollard,a757b0d8,ST Finn,ccdd8308,DJ Bravo,87e562a9,0,0,0,0,0,,,,,,0,0,0
+534208,2012,West Indies,15,KA Pollard,a757b0d8,ST Finn,ccdd8308,DJ Bravo,87e562a9,0,0,0,0,0,,,,,,0,0,0
+534208,2012,West Indies,15,KA Pollard,a757b0d8,ST Finn,ccdd8308,DJ Bravo,87e562a9,0,0,0,0,0,,,,,,1,0,1
+534208,2012,West Indies,15,DJ Bravo,87e562a9,ST Finn,ccdd8308,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,1,0,1
+534208,2012,West Indies,16,DJ Bravo,87e562a9,SR Patel,18fac429,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,1,0,1
+534208,2012,West Indies,16,KA Pollard,a757b0d8,SR Patel,18fac429,DJ Bravo,87e562a9,0,0,0,0,0,,,,,,4,0,4
+534208,2012,West Indies,16,KA Pollard,a757b0d8,SR Patel,18fac429,DJ Bravo,87e562a9,0,0,0,0,0,,,,,,1,0,1
+534208,2012,West Indies,16,DJ Bravo,87e562a9,SR Patel,18fac429,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,1,0,1
+534208,2012,West Indies,16,KA Pollard,a757b0d8,SR Patel,18fac429,DJ Bravo,87e562a9,0,0,0,0,0,,,,,,6,0,6
+534208,2012,West Indies,16,KA Pollard,a757b0d8,SR Patel,18fac429,DJ Bravo,87e562a9,0,0,0,0,0,,,,,,1,0,1
+534208,2012,West Indies,17,KA Pollard,a757b0d8,JW Dernbach,7be8a0ed,DJ Bravo,87e562a9,0,0,0,0,0,,,,,,1,0,1
+534208,2012,West Indies,17,DJ Bravo,87e562a9,JW Dernbach,7be8a0ed,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,6,0,6
+534208,2012,West Indies,17,DJ Bravo,87e562a9,JW Dernbach,7be8a0ed,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,6,0,6
+534208,2012,West Indies,17,DJ Bravo,87e562a9,JW Dernbach,7be8a0ed,KA Pollard,a757b0d8,1,0,0,0,0,,,,,,0,1,1
+534208,2012,West Indies,17,DJ Bravo,87e562a9,JW Dernbach,7be8a0ed,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,1,0,1
+534208,2012,West Indies,17,KA Pollard,a757b0d8,JW Dernbach,7be8a0ed,DJ Bravo,87e562a9,0,0,0,0,0,,,,,,1,0,1
+534208,2012,West Indies,17,DJ Bravo,87e562a9,JW Dernbach,7be8a0ed,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,2,0,2
+534208,2012,West Indies,18,KA Pollard,a757b0d8,SCJ Broad,eba6a852,DJ Bravo,87e562a9,0,0,1,0,0,,,,,,0,1,1
+534208,2012,West Indies,18,DJ Bravo,87e562a9,SCJ Broad,eba6a852,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,0,0,0
+534208,2012,West Indies,18,DJ Bravo,87e562a9,SCJ Broad,eba6a852,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,2,0,2
+534208,2012,West Indies,18,DJ Bravo,87e562a9,SCJ Broad,eba6a852,KA Pollard,a757b0d8,0,0,1,0,0,,,,,,0,1,1
+534208,2012,West Indies,18,KA Pollard,a757b0d8,SCJ Broad,eba6a852,DJ Bravo,87e562a9,0,0,0,0,0,,,,,,6,0,6
+534208,2012,West Indies,18,KA Pollard,a757b0d8,SCJ Broad,eba6a852,DJ Bravo,87e562a9,0,0,0,0,0,,,,,,2,0,2
+534208,2012,West Indies,19,DJ Bravo,87e562a9,JW Dernbach,7be8a0ed,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,4,0,4
+534208,2012,West Indies,19,DJ Bravo,87e562a9,JW Dernbach,7be8a0ed,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,6,0,6
+534208,2012,West Indies,19,DJ Bravo,87e562a9,JW Dernbach,7be8a0ed,KA Pollard,a757b0d8,1,0,0,0,0,,,,,,0,1,1
+534208,2012,West Indies,19,DJ Bravo,87e562a9,JW Dernbach,7be8a0ed,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,1,0,1
+534208,2012,West Indies,19,KA Pollard,a757b0d8,JW Dernbach,7be8a0ed,DJ Bravo,87e562a9,0,0,0,1,0,,,,,,0,1,1
+534208,2012,West Indies,19,DJ Bravo,87e562a9,JW Dernbach,7be8a0ed,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,1,0,1
+534208,2012,West Indies,19,KA Pollard,a757b0d8,JW Dernbach,7be8a0ed,DJ Bravo,87e562a9,2,0,0,0,0,,,,,,0,2,2
+534208,2012,West Indies,19,DJ Bravo,87e562a9,JW Dernbach,7be8a0ed,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,3,0,3
+534208,2012,England,0,C Kieswetter,1e960f2a,R Rampaul,d68e7f48,AD Hales,92aeac25,1,0,0,0,0,,,,,,0,1,1
+534208,2012,England,0,C Kieswetter,1e960f2a,R Rampaul,d68e7f48,AD Hales,92aeac25,0,0,0,0,0,,,,,,0,0,0
+534208,2012,England,0,C Kieswetter,1e960f2a,R Rampaul,d68e7f48,AD Hales,92aeac25,0,0,0,0,0,,,,,,0,0,0
+534208,2012,England,0,C Kieswetter,1e960f2a,R Rampaul,d68e7f48,AD Hales,92aeac25,0,0,0,0,0,,,,,,1,0,1
+534208,2012,England,0,AD Hales,92aeac25,R Rampaul,d68e7f48,C Kieswetter,1e960f2a,0,0,0,0,0,,,,,,1,0,1
+534208,2012,England,0,C Kieswetter,1e960f2a,R Rampaul,d68e7f48,AD Hales,92aeac25,0,0,0,0,0,,,,,,1,0,1
+534208,2012,England,0,AD Hales,92aeac25,R Rampaul,d68e7f48,C Kieswetter,1e960f2a,0,0,0,0,0,,,,,,1,0,1
+534208,2012,England,1,AD Hales,92aeac25,FH Edwards,a7c226e1,C Kieswetter,1e960f2a,0,0,0,0,0,,,,,,0,0,0
+534208,2012,England,1,AD Hales,92aeac25,FH Edwards,a7c226e1,C Kieswetter,1e960f2a,0,1,0,0,0,,,,,,0,1,1
+534208,2012,England,1,AD Hales,92aeac25,FH Edwards,a7c226e1,C Kieswetter,1e960f2a,0,0,0,0,0,,,,,,0,0,0
+534208,2012,England,1,AD Hales,92aeac25,FH Edwards,a7c226e1,C Kieswetter,1e960f2a,0,0,0,0,0,,,,,,0,0,0
+534208,2012,England,1,AD Hales,92aeac25,FH Edwards,a7c226e1,C Kieswetter,1e960f2a,0,0,0,0,0,,,,,,3,0,3
+534208,2012,England,1,C Kieswetter,1e960f2a,FH Edwards,a7c226e1,AD Hales,92aeac25,0,0,0,0,0,,,,,,0,0,0
+534208,2012,England,1,C Kieswetter,1e960f2a,FH Edwards,a7c226e1,AD Hales,92aeac25,0,0,0,0,0,,,,,,1,0,1
+534208,2012,England,2,C Kieswetter,1e960f2a,R Rampaul,d68e7f48,AD Hales,92aeac25,0,0,0,0,1,C Kieswetter,1e960f2a,DR Smith,35205dfc,caught,0,0,0
+534208,2012,England,2,RS Bopara,7ca5e05d,R Rampaul,d68e7f48,AD Hales,92aeac25,1,0,0,0,0,,,,,,0,1,1
+534208,2012,England,2,RS Bopara,7ca5e05d,R Rampaul,d68e7f48,AD Hales,92aeac25,0,0,0,0,0,,,,,,0,0,0
+534208,2012,England,2,RS Bopara,7ca5e05d,R Rampaul,d68e7f48,AD Hales,92aeac25,0,0,0,0,0,,,,,,1,0,1
+534208,2012,England,2,AD Hales,92aeac25,R Rampaul,d68e7f48,RS Bopara,7ca5e05d,0,0,0,0,0,,,,,,6,0,6
+534208,2012,England,2,AD Hales,92aeac25,R Rampaul,d68e7f48,RS Bopara,7ca5e05d,0,0,0,0,0,,,,,,0,0,0
+534208,2012,England,2,AD Hales,92aeac25,R Rampaul,d68e7f48,RS Bopara,7ca5e05d,0,0,0,0,0,,,,,,2,0,2
+534208,2012,England,3,RS Bopara,7ca5e05d,FH Edwards,a7c226e1,AD Hales,92aeac25,0,0,0,0,0,,,,,,1,0,1
+534208,2012,England,3,AD Hales,92aeac25,FH Edwards,a7c226e1,RS Bopara,7ca5e05d,0,0,0,0,0,,,,,,1,0,1
+534208,2012,England,3,RS Bopara,7ca5e05d,FH Edwards,a7c226e1,AD Hales,92aeac25,0,0,0,0,0,,,,,,1,0,1
+534208,2012,England,3,AD Hales,92aeac25,FH Edwards,a7c226e1,RS Bopara,7ca5e05d,0,0,0,0,0,,,,,,0,0,0
+534208,2012,England,3,AD Hales,92aeac25,FH Edwards,a7c226e1,RS Bopara,7ca5e05d,0,0,0,0,0,,,,,,2,0,2
+534208,2012,England,3,AD Hales,92aeac25,FH Edwards,a7c226e1,RS Bopara,7ca5e05d,0,0,0,0,0,,,,,,1,0,1
+534208,2012,England,4,AD Hales,92aeac25,R Rampaul,d68e7f48,RS Bopara,7ca5e05d,0,0,0,0,0,,,,,,1,0,1
+534208,2012,England,4,RS Bopara,7ca5e05d,R Rampaul,d68e7f48,AD Hales,92aeac25,0,0,0,0,0,,,,,,1,0,1
+534208,2012,England,4,AD Hales,92aeac25,R Rampaul,d68e7f48,RS Bopara,7ca5e05d,0,0,0,0,0,,,,,,0,0,0
+534208,2012,England,4,AD Hales,92aeac25,R Rampaul,d68e7f48,RS Bopara,7ca5e05d,0,0,0,0,0,,,,,,6,0,6
+534208,2012,England,4,AD Hales,92aeac25,R Rampaul,d68e7f48,RS Bopara,7ca5e05d,0,0,0,0,0,,,,,,0,0,0
+534208,2012,England,4,AD Hales,92aeac25,R Rampaul,d68e7f48,RS Bopara,7ca5e05d,0,0,0,0,0,,,,,,1,0,1
+534208,2012,England,5,AD Hales,92aeac25,SP Narine,9d430b40,RS Bopara,7ca5e05d,0,0,0,0,0,,,,,,4,0,4
+534208,2012,England,5,AD Hales,92aeac25,SP Narine,9d430b40,RS Bopara,7ca5e05d,0,0,0,0,0,,,,,,1,0,1
+534208,2012,England,5,RS Bopara,7ca5e05d,SP Narine,9d430b40,AD Hales,92aeac25,0,0,0,0,0,,,,,,0,0,0
+534208,2012,England,5,RS Bopara,7ca5e05d,SP Narine,9d430b40,AD Hales,92aeac25,0,0,0,0,0,,,,,,0,0,0
+534208,2012,England,5,RS Bopara,7ca5e05d,SP Narine,9d430b40,AD Hales,92aeac25,0,0,0,0,0,,,,,,1,0,1
+534208,2012,England,5,AD Hales,92aeac25,SP Narine,9d430b40,RS Bopara,7ca5e05d,0,0,0,0,0,,,,,,1,0,1
+534208,2012,England,6,AD Hales,92aeac25,DJ Bravo,87e562a9,RS Bopara,7ca5e05d,0,0,0,0,0,,,,,,4,0,4
+534208,2012,England,6,AD Hales,92aeac25,DJ Bravo,87e562a9,RS Bopara,7ca5e05d,0,0,0,0,0,,,,,,0,0,0
+534208,2012,England,6,AD Hales,92aeac25,DJ Bravo,87e562a9,RS Bopara,7ca5e05d,0,0,0,0,0,,,,,,1,0,1
+534208,2012,England,6,RS Bopara,7ca5e05d,DJ Bravo,87e562a9,AD Hales,92aeac25,0,0,0,0,0,,,,,,2,0,2
+534208,2012,England,6,RS Bopara,7ca5e05d,DJ Bravo,87e562a9,AD Hales,92aeac25,0,0,0,0,0,,,,,,1,0,1
+534208,2012,England,6,AD Hales,92aeac25,DJ Bravo,87e562a9,RS Bopara,7ca5e05d,0,0,0,0,0,,,,,,2,0,2
+534208,2012,England,7,RS Bopara,7ca5e05d,SP Narine,9d430b40,AD Hales,92aeac25,0,0,0,0,0,,,,,,1,0,1
+534208,2012,England,7,AD Hales,92aeac25,SP Narine,9d430b40,RS Bopara,7ca5e05d,0,0,0,0,0,,,,,,0,0,0
+534208,2012,England,7,AD Hales,92aeac25,SP Narine,9d430b40,RS Bopara,7ca5e05d,0,0,0,0,0,,,,,,1,0,1
+534208,2012,England,7,RS Bopara,7ca5e05d,SP Narine,9d430b40,AD Hales,92aeac25,0,0,0,0,0,,,,,,1,0,1
+534208,2012,England,7,AD Hales,92aeac25,SP Narine,9d430b40,RS Bopara,7ca5e05d,0,0,0,0,0,,,,,,0,0,0
+534208,2012,England,7,AD Hales,92aeac25,SP Narine,9d430b40,RS Bopara,7ca5e05d,0,0,0,0,0,,,,,,2,0,2
+534208,2012,England,8,RS Bopara,7ca5e05d,DJ Bravo,87e562a9,AD Hales,92aeac25,0,0,0,0,0,,,,,,1,0,1
+534208,2012,England,8,AD Hales,92aeac25,DJ Bravo,87e562a9,RS Bopara,7ca5e05d,0,0,0,0,0,,,,,,2,0,2
+534208,2012,England,8,AD Hales,92aeac25,DJ Bravo,87e562a9,RS Bopara,7ca5e05d,0,0,0,0,0,,,,,,1,0,1
+534208,2012,England,8,RS Bopara,7ca5e05d,DJ Bravo,87e562a9,AD Hales,92aeac25,0,0,0,0,0,,,,,,1,0,1
+534208,2012,England,8,AD Hales,92aeac25,DJ Bravo,87e562a9,RS Bopara,7ca5e05d,0,0,0,0,0,,,,,,6,0,6
+534208,2012,England,8,AD Hales,92aeac25,DJ Bravo,87e562a9,RS Bopara,7ca5e05d,0,0,0,0,0,,,,,,0,0,0
+534208,2012,England,9,RS Bopara,7ca5e05d,DJG Sammy,c03c6200,AD Hales,92aeac25,0,0,1,0,0,,,,,,0,1,1
+534208,2012,England,9,AD Hales,92aeac25,DJG Sammy,c03c6200,RS Bopara,7ca5e05d,0,0,0,0,0,,,,,,0,0,0
+534208,2012,England,9,AD Hales,92aeac25,DJG Sammy,c03c6200,RS Bopara,7ca5e05d,0,0,0,0,0,,,,,,1,0,1
+534208,2012,England,9,RS Bopara,7ca5e05d,DJG Sammy,c03c6200,AD Hales,92aeac25,0,0,0,0,0,,,,,,1,0,1
+534208,2012,England,9,AD Hales,92aeac25,DJG Sammy,c03c6200,RS Bopara,7ca5e05d,0,0,0,0,0,,,,,,0,0,0
+534208,2012,England,9,AD Hales,92aeac25,DJG Sammy,c03c6200,RS Bopara,7ca5e05d,0,0,0,0,0,,,,,,1,0,1
+534208,2012,England,10,AD Hales,92aeac25,KA Pollard,a757b0d8,RS Bopara,7ca5e05d,0,0,0,0,0,,,,,,2,0,2
+534208,2012,England,10,AD Hales,92aeac25,KA Pollard,a757b0d8,RS Bopara,7ca5e05d,0,0,0,0,0,,,,,,4,0,4
+534208,2012,England,10,AD Hales,92aeac25,KA Pollard,a757b0d8,RS Bopara,7ca5e05d,0,0,0,0,0,,,,,,1,0,1
+534208,2012,England,10,RS Bopara,7ca5e05d,KA Pollard,a757b0d8,AD Hales,92aeac25,0,0,0,0,0,,,,,,6,0,6
+534208,2012,England,10,RS Bopara,7ca5e05d,KA Pollard,a757b0d8,AD Hales,92aeac25,0,0,0,0,0,,,,,,1,0,1
+534208,2012,England,10,AD Hales,92aeac25,KA Pollard,a757b0d8,RS Bopara,7ca5e05d,0,0,0,0,0,,,,,,1,0,1
+534208,2012,England,11,AD Hales,92aeac25,DJG Sammy,c03c6200,RS Bopara,7ca5e05d,0,0,0,0,0,,,,,,1,0,1
+534208,2012,England,11,RS Bopara,7ca5e05d,DJG Sammy,c03c6200,AD Hales,92aeac25,0,0,0,0,0,,,,,,2,0,2
+534208,2012,England,11,RS Bopara,7ca5e05d,DJG Sammy,c03c6200,AD Hales,92aeac25,0,0,0,0,0,,,,,,1,0,1
+534208,2012,England,11,AD Hales,92aeac25,DJG Sammy,c03c6200,RS Bopara,7ca5e05d,0,0,0,0,0,,,,,,4,0,4
+534208,2012,England,11,AD Hales,92aeac25,DJG Sammy,c03c6200,RS Bopara,7ca5e05d,0,0,0,0,0,,,,,,1,0,1
+534208,2012,England,11,RS Bopara,7ca5e05d,DJG Sammy,c03c6200,AD Hales,92aeac25,0,0,0,0,0,,,,,,0,0,0
+534208,2012,England,12,AD Hales,92aeac25,SP Narine,9d430b40,RS Bopara,7ca5e05d,0,0,0,0,0,,,,,,1,0,1
+534208,2012,England,12,RS Bopara,7ca5e05d,SP Narine,9d430b40,AD Hales,92aeac25,0,0,0,0,0,,,,,,2,0,2
+534208,2012,England,12,RS Bopara,7ca5e05d,SP Narine,9d430b40,AD Hales,92aeac25,0,0,0,0,0,,,,,,1,0,1
+534208,2012,England,12,AD Hales,92aeac25,SP Narine,9d430b40,RS Bopara,7ca5e05d,0,0,0,0,0,,,,,,4,0,4
+534208,2012,England,12,AD Hales,92aeac25,SP Narine,9d430b40,RS Bopara,7ca5e05d,0,0,0,0,0,,,,,,2,0,2
+534208,2012,England,12,AD Hales,92aeac25,SP Narine,9d430b40,RS Bopara,7ca5e05d,0,0,0,0,0,,,,,,0,0,0
+534208,2012,England,13,RS Bopara,7ca5e05d,DJG Sammy,c03c6200,AD Hales,92aeac25,0,0,0,0,0,,,,,,1,0,1
+534208,2012,England,13,AD Hales,92aeac25,DJG Sammy,c03c6200,RS Bopara,7ca5e05d,0,0,0,0,0,,,,,,4,0,4
+534208,2012,England,13,AD Hales,92aeac25,DJG Sammy,c03c6200,RS Bopara,7ca5e05d,0,0,0,0,0,,,,,,2,0,2
+534208,2012,England,13,AD Hales,92aeac25,DJG Sammy,c03c6200,RS Bopara,7ca5e05d,0,0,0,0,0,,,,,,1,0,1
+534208,2012,England,13,RS Bopara,7ca5e05d,DJG Sammy,c03c6200,AD Hales,92aeac25,0,0,0,0,0,,,,,,1,0,1
+534208,2012,England,13,AD Hales,92aeac25,DJG Sammy,c03c6200,RS Bopara,7ca5e05d,0,0,0,0,0,,,,,,1,0,1
+534208,2012,England,14,AD Hales,92aeac25,FH Edwards,a7c226e1,RS Bopara,7ca5e05d,0,0,1,0,0,,,,,,0,1,1
+534208,2012,England,14,RS Bopara,7ca5e05d,FH Edwards,a7c226e1,AD Hales,92aeac25,0,0,0,0,0,,,,,,1,0,1
+534208,2012,England,14,AD Hales,92aeac25,FH Edwards,a7c226e1,RS Bopara,7ca5e05d,0,0,0,0,0,,,,,,0,0,0
+534208,2012,England,14,AD Hales,92aeac25,FH Edwards,a7c226e1,RS Bopara,7ca5e05d,0,0,0,0,0,,,,,,2,0,2
+534208,2012,England,14,AD Hales,92aeac25,FH Edwards,a7c226e1,RS Bopara,7ca5e05d,0,0,0,0,0,,,,,,6,0,6
+534208,2012,England,14,AD Hales,92aeac25,FH Edwards,a7c226e1,RS Bopara,7ca5e05d,0,0,0,0,0,,,,,,1,0,1
+534208,2012,England,15,AD Hales,92aeac25,MN Samuels,f846de6a,RS Bopara,7ca5e05d,0,0,0,0,0,,,,,,1,0,1
+534208,2012,England,15,RS Bopara,7ca5e05d,MN Samuels,f846de6a,AD Hales,92aeac25,0,0,0,0,0,,,,,,2,0,2
+534208,2012,England,15,RS Bopara,7ca5e05d,MN Samuels,f846de6a,AD Hales,92aeac25,0,0,0,0,0,,,,,,4,0,4
+534208,2012,England,15,RS Bopara,7ca5e05d,MN Samuels,f846de6a,AD Hales,92aeac25,0,0,0,0,0,,,,,,0,0,0
+534208,2012,England,15,RS Bopara,7ca5e05d,MN Samuels,f846de6a,AD Hales,92aeac25,0,0,0,0,0,,,,,,4,0,4
+534208,2012,England,15,RS Bopara,7ca5e05d,MN Samuels,f846de6a,AD Hales,92aeac25,0,0,0,0,0,,,,,,0,0,0
+534208,2012,England,16,AD Hales,92aeac25,FH Edwards,a7c226e1,RS Bopara,7ca5e05d,0,5,0,0,0,,,,,,0,5,5
+534208,2012,England,16,AD Hales,92aeac25,FH Edwards,a7c226e1,RS Bopara,7ca5e05d,0,0,0,0,0,,,,,,1,0,1
+534208,2012,England,16,RS Bopara,7ca5e05d,FH Edwards,a7c226e1,AD Hales,92aeac25,0,0,0,0,0,,,,,,1,0,1
+534208,2012,England,16,AD Hales,92aeac25,FH Edwards,a7c226e1,RS Bopara,7ca5e05d,0,0,0,0,0,,,,,,1,0,1
+534208,2012,England,16,RS Bopara,7ca5e05d,FH Edwards,a7c226e1,AD Hales,92aeac25,0,0,0,0,0,,,,,,2,0,2
+534208,2012,England,16,RS Bopara,7ca5e05d,FH Edwards,a7c226e1,AD Hales,92aeac25,0,0,0,0,0,,,,,,0,0,0
+534208,2012,England,16,RS Bopara,7ca5e05d,FH Edwards,a7c226e1,AD Hales,92aeac25,0,0,0,0,0,,,,,,2,0,2
+534208,2012,England,17,AD Hales,92aeac25,SP Narine,9d430b40,RS Bopara,7ca5e05d,0,0,0,0,0,,,,,,1,0,1
+534208,2012,England,17,RS Bopara,7ca5e05d,SP Narine,9d430b40,AD Hales,92aeac25,0,0,0,0,0,,,,,,1,0,1
+534208,2012,England,17,AD Hales,92aeac25,SP Narine,9d430b40,RS Bopara,7ca5e05d,0,0,0,0,0,,,,,,1,0,1
+534208,2012,England,17,RS Bopara,7ca5e05d,SP Narine,9d430b40,AD Hales,92aeac25,0,0,0,0,0,,,,,,2,0,2
+534208,2012,England,17,RS Bopara,7ca5e05d,SP Narine,9d430b40,AD Hales,92aeac25,0,0,0,0,0,,,,,,1,0,1
+534208,2012,England,17,AD Hales,92aeac25,SP Narine,9d430b40,RS Bopara,7ca5e05d,0,0,0,0,0,,,,,,0,0,0
+534208,2012,England,18,RS Bopara,7ca5e05d,R Rampaul,d68e7f48,AD Hales,92aeac25,0,0,0,0,0,,,,,,4,0,4
+534208,2012,England,18,RS Bopara,7ca5e05d,R Rampaul,d68e7f48,AD Hales,92aeac25,0,0,0,0,0,,,,,,4,0,4
+534208,2012,England,18,RS Bopara,7ca5e05d,R Rampaul,d68e7f48,AD Hales,92aeac25,0,0,0,0,0,,,,,,1,0,1
+534208,2012,England,18,AD Hales,92aeac25,R Rampaul,d68e7f48,RS Bopara,7ca5e05d,0,0,0,0,0,,,,,,2,0,2
+534208,2012,England,18,AD Hales,92aeac25,R Rampaul,d68e7f48,RS Bopara,7ca5e05d,0,0,0,0,0,,,,,,2,0,2
+534208,2012,England,18,AD Hales,92aeac25,R Rampaul,d68e7f48,RS Bopara,7ca5e05d,0,0,0,0,1,AD Hales,92aeac25,,,bowled,0,0,0
+534208,2012,England,19,RS Bopara,7ca5e05d,MN Samuels,f846de6a,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,0,0,0
+534208,2012,England,19,RS Bopara,7ca5e05d,MN Samuels,f846de6a,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,2,0,2
+534208,2012,England,19,RS Bopara,7ca5e05d,MN Samuels,f846de6a,EJG Morgan,d2a6c0e6,0,0,0,0,1,RS Bopara,7ca5e05d,FH Edwards,a7c226e1,caught,0,0,0
+534208,2012,England,19,EJG Morgan,d2a6c0e6,MN Samuels,f846de6a,JC Buttler,99b75528,0,0,0,0,0,,,,,,2,0,2

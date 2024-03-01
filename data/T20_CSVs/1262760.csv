@@ -1,0 +1,216 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1262760,2021,India,0,RD Gaikwad,45a43fe2,PVD Chameera,327b58d3,S Dhawan,0a476045,0,0,0,0,0,,,,,,0,0,0
+1262760,2021,India,0,RD Gaikwad,45a43fe2,PVD Chameera,327b58d3,S Dhawan,0a476045,0,0,0,0,0,,,,,,4,0,4
+1262760,2021,India,0,RD Gaikwad,45a43fe2,PVD Chameera,327b58d3,S Dhawan,0a476045,0,0,0,0,0,,,,,,1,0,1
+1262760,2021,India,0,S Dhawan,0a476045,PVD Chameera,327b58d3,RD Gaikwad,45a43fe2,0,0,0,0,1,S Dhawan,0a476045,DM de Silva,7d608e12,caught,0,0,0
+1262760,2021,India,0,D Padikkal,2c25d4f5,PVD Chameera,327b58d3,RD Gaikwad,45a43fe2,0,0,0,0,0,,,,,,0,0,0
+1262760,2021,India,0,D Padikkal,2c25d4f5,PVD Chameera,327b58d3,RD Gaikwad,45a43fe2,0,0,0,0,0,,,,,,0,0,0
+1262760,2021,India,1,RD Gaikwad,45a43fe2,C Karunaratne,fb3e0d39,D Padikkal,2c25d4f5,0,0,0,0,0,,,,,,1,0,1
+1262760,2021,India,1,D Padikkal,2c25d4f5,C Karunaratne,fb3e0d39,RD Gaikwad,45a43fe2,0,0,0,0,0,,,,,,4,0,4
+1262760,2021,India,1,D Padikkal,2c25d4f5,C Karunaratne,fb3e0d39,RD Gaikwad,45a43fe2,0,0,0,0,0,,,,,,1,0,1
+1262760,2021,India,1,RD Gaikwad,45a43fe2,C Karunaratne,fb3e0d39,D Padikkal,2c25d4f5,0,0,0,0,0,,,,,,1,0,1
+1262760,2021,India,1,D Padikkal,2c25d4f5,C Karunaratne,fb3e0d39,RD Gaikwad,45a43fe2,0,0,0,0,0,,,,,,0,0,0
+1262760,2021,India,1,D Padikkal,2c25d4f5,C Karunaratne,fb3e0d39,RD Gaikwad,45a43fe2,0,0,0,0,0,,,,,,0,0,0
+1262760,2021,India,2,RD Gaikwad,45a43fe2,PVD Chameera,327b58d3,D Padikkal,2c25d4f5,0,0,0,0,0,,,,,,1,0,1
+1262760,2021,India,2,D Padikkal,2c25d4f5,PVD Chameera,327b58d3,RD Gaikwad,45a43fe2,0,0,0,0,0,,,,,,0,0,0
+1262760,2021,India,2,D Padikkal,2c25d4f5,PVD Chameera,327b58d3,RD Gaikwad,45a43fe2,0,0,0,0,0,,,,,,0,0,0
+1262760,2021,India,2,D Padikkal,2c25d4f5,PVD Chameera,327b58d3,RD Gaikwad,45a43fe2,0,0,0,0,0,,,,,,0,0,0
+1262760,2021,India,2,D Padikkal,2c25d4f5,PVD Chameera,327b58d3,RD Gaikwad,45a43fe2,0,0,0,0,0,,,,,,0,0,0
+1262760,2021,India,2,D Padikkal,2c25d4f5,PVD Chameera,327b58d3,RD Gaikwad,45a43fe2,0,0,0,0,0,,,,,,1,0,1
+1262760,2021,India,3,D Padikkal,2c25d4f5,RTM Mendis,1be67d37,RD Gaikwad,45a43fe2,0,0,0,0,0,,,,,,0,0,0
+1262760,2021,India,3,D Padikkal,2c25d4f5,RTM Mendis,1be67d37,RD Gaikwad,45a43fe2,0,0,0,0,0,,,,,,1,0,1
+1262760,2021,India,3,RD Gaikwad,45a43fe2,RTM Mendis,1be67d37,D Padikkal,2c25d4f5,0,0,0,0,0,,,,,,4,0,4
+1262760,2021,India,3,RD Gaikwad,45a43fe2,RTM Mendis,1be67d37,D Padikkal,2c25d4f5,1,0,0,0,0,,,,,,0,1,1
+1262760,2021,India,3,RD Gaikwad,45a43fe2,RTM Mendis,1be67d37,D Padikkal,2c25d4f5,0,0,0,0,0,,,,,,1,0,1
+1262760,2021,India,3,D Padikkal,2c25d4f5,RTM Mendis,1be67d37,RD Gaikwad,45a43fe2,0,0,0,0,0,,,,,,2,0,2
+1262760,2021,India,3,D Padikkal,2c25d4f5,RTM Mendis,1be67d37,RD Gaikwad,45a43fe2,0,0,0,0,1,D Padikkal,2c25d4f5,,,lbw,0,0,0
+1262760,2021,India,4,RD Gaikwad,45a43fe2,PWH de Silva,a97c8ec2,SV Samson,a4cc73aa,0,0,0,0,0,,,,,,1,0,1
+1262760,2021,India,4,SV Samson,a4cc73aa,PWH de Silva,a97c8ec2,RD Gaikwad,45a43fe2,0,0,0,0,0,,,,,,0,0,0
+1262760,2021,India,4,SV Samson,a4cc73aa,PWH de Silva,a97c8ec2,RD Gaikwad,45a43fe2,0,0,0,0,0,,,,,,0,0,0
+1262760,2021,India,4,SV Samson,a4cc73aa,PWH de Silva,a97c8ec2,RD Gaikwad,45a43fe2,0,0,0,0,1,SV Samson,a4cc73aa,,,lbw,0,0,0
+1262760,2021,India,4,N Rana,fb2d1dda,PWH de Silva,a97c8ec2,RD Gaikwad,45a43fe2,0,0,0,0,0,,,,,,1,0,1
+1262760,2021,India,4,RD Gaikwad,45a43fe2,PWH de Silva,a97c8ec2,N Rana,fb2d1dda,0,0,0,0,1,RD Gaikwad,45a43fe2,,,lbw,0,0,0
+1262760,2021,India,5,N Rana,fb2d1dda,RTM Mendis,1be67d37,B Kumar,2e81a32d,0,0,0,0,0,,,,,,0,0,0
+1262760,2021,India,5,N Rana,fb2d1dda,RTM Mendis,1be67d37,B Kumar,2e81a32d,0,0,0,0,0,,,,,,1,0,1
+1262760,2021,India,5,B Kumar,2e81a32d,RTM Mendis,1be67d37,N Rana,fb2d1dda,0,0,0,0,0,,,,,,0,0,0
+1262760,2021,India,5,B Kumar,2e81a32d,RTM Mendis,1be67d37,N Rana,fb2d1dda,0,0,0,0,0,,,,,,1,0,1
+1262760,2021,India,5,N Rana,fb2d1dda,RTM Mendis,1be67d37,B Kumar,2e81a32d,0,0,0,0,0,,,,,,1,0,1
+1262760,2021,India,5,B Kumar,2e81a32d,RTM Mendis,1be67d37,N Rana,fb2d1dda,0,0,0,0,0,,,,,,1,0,1
+1262760,2021,India,6,B Kumar,2e81a32d,PWH de Silva,a97c8ec2,N Rana,fb2d1dda,0,0,0,0,0,,,,,,0,0,0
+1262760,2021,India,6,B Kumar,2e81a32d,PWH de Silva,a97c8ec2,N Rana,fb2d1dda,0,0,0,0,0,,,,,,1,0,1
+1262760,2021,India,6,N Rana,fb2d1dda,PWH de Silva,a97c8ec2,B Kumar,2e81a32d,0,0,0,0,0,,,,,,0,0,0
+1262760,2021,India,6,N Rana,fb2d1dda,PWH de Silva,a97c8ec2,B Kumar,2e81a32d,0,0,0,0,0,,,,,,1,0,1
+1262760,2021,India,6,B Kumar,2e81a32d,PWH de Silva,a97c8ec2,N Rana,fb2d1dda,0,0,0,0,0,,,,,,1,0,1
+1262760,2021,India,6,N Rana,fb2d1dda,PWH de Silva,a97c8ec2,B Kumar,2e81a32d,0,0,0,0,0,,,,,,1,0,1
+1262760,2021,India,7,N Rana,fb2d1dda,A Dananjaya,5b16a806,B Kumar,2e81a32d,0,0,0,0,0,,,,,,0,0,0
+1262760,2021,India,7,N Rana,fb2d1dda,A Dananjaya,5b16a806,B Kumar,2e81a32d,0,0,0,0,0,,,,,,1,0,1
+1262760,2021,India,7,B Kumar,2e81a32d,A Dananjaya,5b16a806,N Rana,fb2d1dda,0,0,0,0,0,,,,,,1,0,1
+1262760,2021,India,7,N Rana,fb2d1dda,A Dananjaya,5b16a806,B Kumar,2e81a32d,0,0,0,0,0,,,,,,0,0,0
+1262760,2021,India,7,N Rana,fb2d1dda,A Dananjaya,5b16a806,B Kumar,2e81a32d,0,0,0,0,0,,,,,,0,0,0
+1262760,2021,India,7,N Rana,fb2d1dda,A Dananjaya,5b16a806,B Kumar,2e81a32d,0,0,0,0,0,,,,,,0,0,0
+1262760,2021,India,8,B Kumar,2e81a32d,MD Shanaka,3ff033bb,N Rana,fb2d1dda,0,0,0,0,0,,,,,,0,0,0
+1262760,2021,India,8,B Kumar,2e81a32d,MD Shanaka,3ff033bb,N Rana,fb2d1dda,0,0,0,0,0,,,,,,0,0,0
+1262760,2021,India,8,B Kumar,2e81a32d,MD Shanaka,3ff033bb,N Rana,fb2d1dda,0,0,0,0,0,,,,,,1,0,1
+1262760,2021,India,8,N Rana,fb2d1dda,MD Shanaka,3ff033bb,B Kumar,2e81a32d,0,0,0,0,0,,,,,,0,0,0
+1262760,2021,India,8,N Rana,fb2d1dda,MD Shanaka,3ff033bb,B Kumar,2e81a32d,0,0,0,0,0,,,,,,0,0,0
+1262760,2021,India,8,N Rana,fb2d1dda,MD Shanaka,3ff033bb,B Kumar,2e81a32d,0,0,0,0,1,N Rana,fb2d1dda,,,caught and bowled,0,0,0
+1262760,2021,India,9,B Kumar,2e81a32d,A Dananjaya,5b16a806,Kuldeep Yadav,8d2c70ad,0,0,0,0,0,,,,,,0,0,0
+1262760,2021,India,9,B Kumar,2e81a32d,A Dananjaya,5b16a806,Kuldeep Yadav,8d2c70ad,0,0,0,0,0,,,,,,1,0,1
+1262760,2021,India,9,Kuldeep Yadav,8d2c70ad,A Dananjaya,5b16a806,B Kumar,2e81a32d,0,0,0,0,0,,,,,,0,0,0
+1262760,2021,India,9,Kuldeep Yadav,8d2c70ad,A Dananjaya,5b16a806,B Kumar,2e81a32d,0,0,0,0,0,,,,,,0,0,0
+1262760,2021,India,9,Kuldeep Yadav,8d2c70ad,A Dananjaya,5b16a806,B Kumar,2e81a32d,0,0,0,0,0,,,,,,1,0,1
+1262760,2021,India,9,B Kumar,2e81a32d,A Dananjaya,5b16a806,Kuldeep Yadav,8d2c70ad,0,0,0,0,0,,,,,,1,0,1
+1262760,2021,India,10,B Kumar,2e81a32d,MD Shanaka,3ff033bb,Kuldeep Yadav,8d2c70ad,0,0,0,0,0,,,,,,0,0,0
+1262760,2021,India,10,B Kumar,2e81a32d,MD Shanaka,3ff033bb,Kuldeep Yadav,8d2c70ad,0,0,0,0,0,,,,,,1,0,1
+1262760,2021,India,10,Kuldeep Yadav,8d2c70ad,MD Shanaka,3ff033bb,B Kumar,2e81a32d,0,0,0,0,0,,,,,,0,0,0
+1262760,2021,India,10,Kuldeep Yadav,8d2c70ad,MD Shanaka,3ff033bb,B Kumar,2e81a32d,0,0,0,0,0,,,,,,1,0,1
+1262760,2021,India,10,B Kumar,2e81a32d,MD Shanaka,3ff033bb,Kuldeep Yadav,8d2c70ad,0,0,0,0,0,,,,,,0,0,0
+1262760,2021,India,10,B Kumar,2e81a32d,MD Shanaka,3ff033bb,Kuldeep Yadav,8d2c70ad,0,0,0,0,0,,,,,,1,0,1
+1262760,2021,India,11,B Kumar,2e81a32d,A Dananjaya,5b16a806,Kuldeep Yadav,8d2c70ad,0,0,0,0,0,,,,,,0,0,0
+1262760,2021,India,11,B Kumar,2e81a32d,A Dananjaya,5b16a806,Kuldeep Yadav,8d2c70ad,0,0,0,0,0,,,,,,0,0,0
+1262760,2021,India,11,B Kumar,2e81a32d,A Dananjaya,5b16a806,Kuldeep Yadav,8d2c70ad,0,0,0,0,0,,,,,,0,0,0
+1262760,2021,India,11,B Kumar,2e81a32d,A Dananjaya,5b16a806,Kuldeep Yadav,8d2c70ad,0,0,0,0,0,,,,,,0,0,0
+1262760,2021,India,11,B Kumar,2e81a32d,A Dananjaya,5b16a806,Kuldeep Yadav,8d2c70ad,0,0,0,0,0,,,,,,0,0,0
+1262760,2021,India,11,B Kumar,2e81a32d,A Dananjaya,5b16a806,Kuldeep Yadav,8d2c70ad,0,0,0,0,0,,,,,,1,0,1
+1262760,2021,India,12,B Kumar,2e81a32d,C Karunaratne,fb3e0d39,Kuldeep Yadav,8d2c70ad,0,0,0,0,0,,,,,,1,0,1
+1262760,2021,India,12,Kuldeep Yadav,8d2c70ad,C Karunaratne,fb3e0d39,B Kumar,2e81a32d,0,0,0,0,0,,,,,,1,0,1
+1262760,2021,India,12,B Kumar,2e81a32d,C Karunaratne,fb3e0d39,Kuldeep Yadav,8d2c70ad,0,0,0,0,0,,,,,,0,0,0
+1262760,2021,India,12,B Kumar,2e81a32d,C Karunaratne,fb3e0d39,Kuldeep Yadav,8d2c70ad,0,0,0,0,0,,,,,,1,0,1
+1262760,2021,India,12,Kuldeep Yadav,8d2c70ad,C Karunaratne,fb3e0d39,B Kumar,2e81a32d,0,0,0,0,0,,,,,,2,0,2
+1262760,2021,India,12,Kuldeep Yadav,8d2c70ad,C Karunaratne,fb3e0d39,B Kumar,2e81a32d,0,0,0,0,0,,,,,,0,0,0
+1262760,2021,India,13,B Kumar,2e81a32d,A Dananjaya,5b16a806,Kuldeep Yadav,8d2c70ad,0,0,0,0,0,,,,,,1,0,1
+1262760,2021,India,13,Kuldeep Yadav,8d2c70ad,A Dananjaya,5b16a806,B Kumar,2e81a32d,0,0,0,0,0,,,,,,0,0,0
+1262760,2021,India,13,Kuldeep Yadav,8d2c70ad,A Dananjaya,5b16a806,B Kumar,2e81a32d,0,0,0,0,0,,,,,,1,0,1
+1262760,2021,India,13,B Kumar,2e81a32d,A Dananjaya,5b16a806,Kuldeep Yadav,8d2c70ad,0,0,0,0,0,,,,,,0,0,0
+1262760,2021,India,13,B Kumar,2e81a32d,A Dananjaya,5b16a806,Kuldeep Yadav,8d2c70ad,0,0,0,0,0,,,,,,1,0,1
+1262760,2021,India,13,Kuldeep Yadav,8d2c70ad,A Dananjaya,5b16a806,B Kumar,2e81a32d,0,0,0,0,0,,,,,,2,0,2
+1262760,2021,India,14,B Kumar,2e81a32d,PWH de Silva,a97c8ec2,Kuldeep Yadav,8d2c70ad,0,0,0,0,0,,,,,,0,0,0
+1262760,2021,India,14,B Kumar,2e81a32d,PWH de Silva,a97c8ec2,Kuldeep Yadav,8d2c70ad,0,0,0,0,0,,,,,,1,0,1
+1262760,2021,India,14,Kuldeep Yadav,8d2c70ad,PWH de Silva,a97c8ec2,B Kumar,2e81a32d,0,0,0,0,0,,,,,,0,0,0
+1262760,2021,India,14,Kuldeep Yadav,8d2c70ad,PWH de Silva,a97c8ec2,B Kumar,2e81a32d,0,0,0,0,0,,,,,,1,0,1
+1262760,2021,India,14,B Kumar,2e81a32d,PWH de Silva,a97c8ec2,Kuldeep Yadav,8d2c70ad,0,0,0,0,1,B Kumar,2e81a32d,MD Shanaka,3ff033bb,caught,0,0,0
+1262760,2021,India,14,RD Chahar,2ed569a0,PWH de Silva,a97c8ec2,Kuldeep Yadav,8d2c70ad,0,0,0,0,0,,,,,,0,0,0
+1262760,2021,India,15,Kuldeep Yadav,8d2c70ad,MD Shanaka,3ff033bb,RD Chahar,2ed569a0,0,0,0,0,0,,,,,,1,0,1
+1262760,2021,India,15,RD Chahar,2ed569a0,MD Shanaka,3ff033bb,Kuldeep Yadav,8d2c70ad,0,0,0,0,0,,,,,,4,0,4
+1262760,2021,India,15,RD Chahar,2ed569a0,MD Shanaka,3ff033bb,Kuldeep Yadav,8d2c70ad,0,0,0,0,0,,,,,,0,0,0
+1262760,2021,India,15,RD Chahar,2ed569a0,MD Shanaka,3ff033bb,Kuldeep Yadav,8d2c70ad,0,0,0,0,0,,,,,,1,0,1
+1262760,2021,India,15,Kuldeep Yadav,8d2c70ad,MD Shanaka,3ff033bb,RD Chahar,2ed569a0,0,0,0,0,0,,,,,,1,0,1
+1262760,2021,India,15,RD Chahar,2ed569a0,MD Shanaka,3ff033bb,Kuldeep Yadav,8d2c70ad,0,0,0,0,1,RD Chahar,2ed569a0,M Bhanuka,684d21d7,caught,0,0,0
+1262760,2021,India,16,Kuldeep Yadav,8d2c70ad,PWH de Silva,a97c8ec2,CV Varun,5b7ab5a9,0,0,0,0,0,,,,,,0,0,0
+1262760,2021,India,16,Kuldeep Yadav,8d2c70ad,PWH de Silva,a97c8ec2,CV Varun,5b7ab5a9,0,0,0,0,0,,,,,,1,0,1
+1262760,2021,India,16,CV Varun,5b7ab5a9,PWH de Silva,a97c8ec2,Kuldeep Yadav,8d2c70ad,0,0,0,0,0,,,,,,0,0,0
+1262760,2021,India,16,CV Varun,5b7ab5a9,PWH de Silva,a97c8ec2,Kuldeep Yadav,8d2c70ad,0,0,0,0,1,CV Varun,5b7ab5a9,C Karunaratne,fb3e0d39,caught,0,0,0
+1262760,2021,India,16,C Sakariya,2cdce1be,PWH de Silva,a97c8ec2,Kuldeep Yadav,8d2c70ad,0,0,0,0,0,,,,,,0,0,0
+1262760,2021,India,16,C Sakariya,2cdce1be,PWH de Silva,a97c8ec2,Kuldeep Yadav,8d2c70ad,0,0,0,0,0,,,,,,0,0,0
+1262760,2021,India,17,Kuldeep Yadav,8d2c70ad,PVD Chameera,327b58d3,C Sakariya,2cdce1be,0,0,0,0,0,,,,,,1,0,1
+1262760,2021,India,17,C Sakariya,2cdce1be,PVD Chameera,327b58d3,Kuldeep Yadav,8d2c70ad,0,0,0,0,0,,,,,,0,0,0
+1262760,2021,India,17,C Sakariya,2cdce1be,PVD Chameera,327b58d3,Kuldeep Yadav,8d2c70ad,0,0,0,0,0,,,,,,1,0,1
+1262760,2021,India,17,Kuldeep Yadav,8d2c70ad,PVD Chameera,327b58d3,C Sakariya,2cdce1be,0,0,0,0,0,,,,,,0,0,0
+1262760,2021,India,17,Kuldeep Yadav,8d2c70ad,PVD Chameera,327b58d3,C Sakariya,2cdce1be,0,0,0,0,0,,,,,,0,0,0
+1262760,2021,India,17,Kuldeep Yadav,8d2c70ad,PVD Chameera,327b58d3,C Sakariya,2cdce1be,0,0,0,0,0,,,,,,1,0,1
+1262760,2021,India,18,Kuldeep Yadav,8d2c70ad,MD Shanaka,3ff033bb,C Sakariya,2cdce1be,1,0,0,0,0,,,,,,0,1,1
+1262760,2021,India,18,Kuldeep Yadav,8d2c70ad,MD Shanaka,3ff033bb,C Sakariya,2cdce1be,0,0,0,0,0,,,,,,0,0,0
+1262760,2021,India,18,Kuldeep Yadav,8d2c70ad,MD Shanaka,3ff033bb,C Sakariya,2cdce1be,0,0,0,0,0,,,,,,2,0,2
+1262760,2021,India,18,Kuldeep Yadav,8d2c70ad,MD Shanaka,3ff033bb,C Sakariya,2cdce1be,0,0,0,0,0,,,,,,3,0,3
+1262760,2021,India,18,C Sakariya,2cdce1be,MD Shanaka,3ff033bb,Kuldeep Yadav,8d2c70ad,0,0,0,0,0,,,,,,1,0,1
+1262760,2021,India,18,Kuldeep Yadav,8d2c70ad,MD Shanaka,3ff033bb,C Sakariya,2cdce1be,0,0,0,0,0,,,,,,1,0,1
+1262760,2021,India,18,C Sakariya,2cdce1be,MD Shanaka,3ff033bb,Kuldeep Yadav,8d2c70ad,0,0,0,0,0,,,,,,1,0,1
+1262760,2021,India,19,C Sakariya,2cdce1be,PVD Chameera,327b58d3,Kuldeep Yadav,8d2c70ad,1,0,0,0,0,,,,,,0,1,1
+1262760,2021,India,19,C Sakariya,2cdce1be,PVD Chameera,327b58d3,Kuldeep Yadav,8d2c70ad,0,0,0,0,0,,,,,,0,0,0
+1262760,2021,India,19,C Sakariya,2cdce1be,PVD Chameera,327b58d3,Kuldeep Yadav,8d2c70ad,0,0,0,0,0,,,,,,1,0,1
+1262760,2021,India,19,Kuldeep Yadav,8d2c70ad,PVD Chameera,327b58d3,C Sakariya,2cdce1be,0,0,0,0,0,,,,,,1,0,1
+1262760,2021,India,19,C Sakariya,2cdce1be,PVD Chameera,327b58d3,Kuldeep Yadav,8d2c70ad,0,0,0,0,0,,,,,,1,0,1
+1262760,2021,India,19,Kuldeep Yadav,8d2c70ad,PVD Chameera,327b58d3,C Sakariya,2cdce1be,0,0,0,0,0,,,,,,0,0,0
+1262760,2021,India,19,Kuldeep Yadav,8d2c70ad,PVD Chameera,327b58d3,C Sakariya,2cdce1be,0,0,0,0,0,,,,,,2,0,2
+1262760,2021,Sri Lanka,0,WIA Fernando,9550470d,B Kumar,2e81a32d,M Bhanuka,684d21d7,0,0,0,0,0,,,,,,0,0,0
+1262760,2021,Sri Lanka,0,WIA Fernando,9550470d,B Kumar,2e81a32d,M Bhanuka,684d21d7,0,0,0,0,0,,,,,,1,0,1
+1262760,2021,Sri Lanka,0,M Bhanuka,684d21d7,B Kumar,2e81a32d,WIA Fernando,9550470d,0,0,0,0,0,,,,,,0,0,0
+1262760,2021,Sri Lanka,0,M Bhanuka,684d21d7,B Kumar,2e81a32d,WIA Fernando,9550470d,1,0,0,0,0,,,,,,0,1,1
+1262760,2021,Sri Lanka,0,M Bhanuka,684d21d7,B Kumar,2e81a32d,WIA Fernando,9550470d,0,0,0,0,0,,,,,,0,0,0
+1262760,2021,Sri Lanka,0,M Bhanuka,684d21d7,B Kumar,2e81a32d,WIA Fernando,9550470d,0,0,0,0,0,,,,,,0,0,0
+1262760,2021,Sri Lanka,0,M Bhanuka,684d21d7,B Kumar,2e81a32d,WIA Fernando,9550470d,0,0,1,0,0,,,,,,0,1,1
+1262760,2021,Sri Lanka,1,M Bhanuka,684d21d7,CV Varun,5b7ab5a9,WIA Fernando,9550470d,0,0,0,0,0,,,,,,1,0,1
+1262760,2021,Sri Lanka,1,WIA Fernando,9550470d,CV Varun,5b7ab5a9,M Bhanuka,684d21d7,0,0,0,0,0,,,,,,0,0,0
+1262760,2021,Sri Lanka,1,WIA Fernando,9550470d,CV Varun,5b7ab5a9,M Bhanuka,684d21d7,0,0,0,0,0,,,,,,0,0,0
+1262760,2021,Sri Lanka,1,WIA Fernando,9550470d,CV Varun,5b7ab5a9,M Bhanuka,684d21d7,0,0,0,0,0,,,,,,0,0,0
+1262760,2021,Sri Lanka,1,WIA Fernando,9550470d,CV Varun,5b7ab5a9,M Bhanuka,684d21d7,0,0,0,0,0,,,,,,0,0,0
+1262760,2021,Sri Lanka,1,WIA Fernando,9550470d,CV Varun,5b7ab5a9,M Bhanuka,684d21d7,0,0,0,0,0,,,,,,1,0,1
+1262760,2021,Sri Lanka,2,WIA Fernando,9550470d,B Kumar,2e81a32d,M Bhanuka,684d21d7,0,0,0,0,0,,,,,,0,0,0
+1262760,2021,Sri Lanka,2,WIA Fernando,9550470d,B Kumar,2e81a32d,M Bhanuka,684d21d7,0,0,0,0,0,,,,,,3,0,3
+1262760,2021,Sri Lanka,2,M Bhanuka,684d21d7,B Kumar,2e81a32d,WIA Fernando,9550470d,0,0,0,0,0,,,,,,0,0,0
+1262760,2021,Sri Lanka,2,M Bhanuka,684d21d7,B Kumar,2e81a32d,WIA Fernando,9550470d,0,0,0,0,0,,,,,,2,0,2
+1262760,2021,Sri Lanka,2,M Bhanuka,684d21d7,B Kumar,2e81a32d,WIA Fernando,9550470d,1,0,0,0,0,,,,,,0,1,1
+1262760,2021,Sri Lanka,2,M Bhanuka,684d21d7,B Kumar,2e81a32d,WIA Fernando,9550470d,0,0,0,0,0,,,,,,1,0,1
+1262760,2021,Sri Lanka,2,WIA Fernando,9550470d,B Kumar,2e81a32d,M Bhanuka,684d21d7,0,0,0,0,0,,,,,,0,0,0
+1262760,2021,Sri Lanka,3,M Bhanuka,684d21d7,CV Varun,5b7ab5a9,WIA Fernando,9550470d,0,0,0,0,0,,,,,,1,0,1
+1262760,2021,Sri Lanka,3,WIA Fernando,9550470d,CV Varun,5b7ab5a9,M Bhanuka,684d21d7,0,0,0,0,0,,,,,,4,0,4
+1262760,2021,Sri Lanka,3,WIA Fernando,9550470d,CV Varun,5b7ab5a9,M Bhanuka,684d21d7,0,0,0,0,0,,,,,,0,0,0
+1262760,2021,Sri Lanka,3,WIA Fernando,9550470d,CV Varun,5b7ab5a9,M Bhanuka,684d21d7,0,0,0,0,0,,,,,,1,0,1
+1262760,2021,Sri Lanka,3,M Bhanuka,684d21d7,CV Varun,5b7ab5a9,WIA Fernando,9550470d,0,0,0,0,0,,,,,,1,0,1
+1262760,2021,Sri Lanka,3,WIA Fernando,9550470d,CV Varun,5b7ab5a9,M Bhanuka,684d21d7,0,0,0,0,0,,,,,,1,0,1
+1262760,2021,Sri Lanka,4,WIA Fernando,9550470d,S Sandeep Warrier,cdc6bdba,M Bhanuka,684d21d7,0,0,0,0,0,,,,,,0,0,0
+1262760,2021,Sri Lanka,4,WIA Fernando,9550470d,S Sandeep Warrier,cdc6bdba,M Bhanuka,684d21d7,0,0,0,0,0,,,,,,1,0,1
+1262760,2021,Sri Lanka,4,M Bhanuka,684d21d7,S Sandeep Warrier,cdc6bdba,WIA Fernando,9550470d,0,0,0,0,0,,,,,,0,0,0
+1262760,2021,Sri Lanka,4,M Bhanuka,684d21d7,S Sandeep Warrier,cdc6bdba,WIA Fernando,9550470d,0,0,0,0,0,,,,,,0,0,0
+1262760,2021,Sri Lanka,4,M Bhanuka,684d21d7,S Sandeep Warrier,cdc6bdba,WIA Fernando,9550470d,0,0,0,0,0,,,,,,1,0,1
+1262760,2021,Sri Lanka,4,WIA Fernando,9550470d,S Sandeep Warrier,cdc6bdba,M Bhanuka,684d21d7,0,0,0,0,0,,,,,,0,0,0
+1262760,2021,Sri Lanka,5,M Bhanuka,684d21d7,RD Chahar,2ed569a0,WIA Fernando,9550470d,0,0,0,0,0,,,,,,0,0,0
+1262760,2021,Sri Lanka,5,M Bhanuka,684d21d7,RD Chahar,2ed569a0,WIA Fernando,9550470d,0,0,0,0,0,,,,,,0,0,0
+1262760,2021,Sri Lanka,5,M Bhanuka,684d21d7,RD Chahar,2ed569a0,WIA Fernando,9550470d,0,0,0,0,0,,,,,,0,0,0
+1262760,2021,Sri Lanka,5,M Bhanuka,684d21d7,RD Chahar,2ed569a0,WIA Fernando,9550470d,0,0,0,0,0,,,,,,1,0,1
+1262760,2021,Sri Lanka,5,WIA Fernando,9550470d,RD Chahar,2ed569a0,M Bhanuka,684d21d7,0,0,0,0,1,WIA Fernando,9550470d,,,caught and bowled,0,0,0
+1262760,2021,Sri Lanka,5,S Samarawickrama,9ab2914d,RD Chahar,2ed569a0,M Bhanuka,684d21d7,0,0,0,0,0,,,,,,0,0,0
+1262760,2021,Sri Lanka,6,M Bhanuka,684d21d7,S Sandeep Warrier,cdc6bdba,S Samarawickrama,9ab2914d,0,0,0,0,0,,,,,,0,0,0
+1262760,2021,Sri Lanka,6,M Bhanuka,684d21d7,S Sandeep Warrier,cdc6bdba,S Samarawickrama,9ab2914d,0,0,0,0,0,,,,,,2,0,2
+1262760,2021,Sri Lanka,6,M Bhanuka,684d21d7,S Sandeep Warrier,cdc6bdba,S Samarawickrama,9ab2914d,0,0,0,0,0,,,,,,4,0,4
+1262760,2021,Sri Lanka,6,M Bhanuka,684d21d7,S Sandeep Warrier,cdc6bdba,S Samarawickrama,9ab2914d,1,0,0,0,0,,,,,,0,1,1
+1262760,2021,Sri Lanka,6,M Bhanuka,684d21d7,S Sandeep Warrier,cdc6bdba,S Samarawickrama,9ab2914d,0,0,0,0,0,,,,,,2,0,2
+1262760,2021,Sri Lanka,6,M Bhanuka,684d21d7,S Sandeep Warrier,cdc6bdba,S Samarawickrama,9ab2914d,0,0,0,0,0,,,,,,0,0,0
+1262760,2021,Sri Lanka,6,M Bhanuka,684d21d7,S Sandeep Warrier,cdc6bdba,S Samarawickrama,9ab2914d,0,0,0,0,0,,,,,,1,0,1
+1262760,2021,Sri Lanka,7,M Bhanuka,684d21d7,RD Chahar,2ed569a0,S Samarawickrama,9ab2914d,0,0,0,0,0,,,,,,1,0,1
+1262760,2021,Sri Lanka,7,S Samarawickrama,9ab2914d,RD Chahar,2ed569a0,M Bhanuka,684d21d7,0,0,0,0,0,,,,,,0,0,0
+1262760,2021,Sri Lanka,7,S Samarawickrama,9ab2914d,RD Chahar,2ed569a0,M Bhanuka,684d21d7,0,0,0,0,0,,,,,,1,0,1
+1262760,2021,Sri Lanka,7,M Bhanuka,684d21d7,RD Chahar,2ed569a0,S Samarawickrama,9ab2914d,0,0,0,0,0,,,,,,0,0,0
+1262760,2021,Sri Lanka,7,M Bhanuka,684d21d7,RD Chahar,2ed569a0,S Samarawickrama,9ab2914d,0,0,0,0,0,,,,,,0,0,0
+1262760,2021,Sri Lanka,7,M Bhanuka,684d21d7,RD Chahar,2ed569a0,S Samarawickrama,9ab2914d,0,0,0,0,1,M Bhanuka,684d21d7,,,lbw,0,0,0
+1262760,2021,Sri Lanka,8,S Samarawickrama,9ab2914d,CV Varun,5b7ab5a9,DM de Silva,7d608e12,0,0,0,0,0,,,,,,1,0,1
+1262760,2021,Sri Lanka,8,DM de Silva,7d608e12,CV Varun,5b7ab5a9,S Samarawickrama,9ab2914d,0,0,0,0,0,,,,,,0,0,0
+1262760,2021,Sri Lanka,8,DM de Silva,7d608e12,CV Varun,5b7ab5a9,S Samarawickrama,9ab2914d,0,0,0,0,0,,,,,,0,0,0
+1262760,2021,Sri Lanka,8,DM de Silva,7d608e12,CV Varun,5b7ab5a9,S Samarawickrama,9ab2914d,0,0,0,0,0,,,,,,1,0,1
+1262760,2021,Sri Lanka,8,S Samarawickrama,9ab2914d,CV Varun,5b7ab5a9,DM de Silva,7d608e12,0,0,0,0,0,,,,,,0,0,0
+1262760,2021,Sri Lanka,8,S Samarawickrama,9ab2914d,CV Varun,5b7ab5a9,DM de Silva,7d608e12,0,0,0,0,0,,,,,,0,0,0
+1262760,2021,Sri Lanka,9,DM de Silva,7d608e12,RD Chahar,2ed569a0,S Samarawickrama,9ab2914d,0,0,0,0,0,,,,,,1,0,1
+1262760,2021,Sri Lanka,9,S Samarawickrama,9ab2914d,RD Chahar,2ed569a0,DM de Silva,7d608e12,0,0,1,0,0,,,,,,0,1,1
+1262760,2021,Sri Lanka,9,DM de Silva,7d608e12,RD Chahar,2ed569a0,S Samarawickrama,9ab2914d,0,0,0,0,0,,,,,,1,0,1
+1262760,2021,Sri Lanka,9,S Samarawickrama,9ab2914d,RD Chahar,2ed569a0,DM de Silva,7d608e12,0,0,0,0,0,,,,,,1,0,1
+1262760,2021,Sri Lanka,9,DM de Silva,7d608e12,RD Chahar,2ed569a0,S Samarawickrama,9ab2914d,0,0,0,0,0,,,,,,1,0,1
+1262760,2021,Sri Lanka,9,S Samarawickrama,9ab2914d,RD Chahar,2ed569a0,DM de Silva,7d608e12,0,0,0,0,0,,,,,,0,0,0
+1262760,2021,Sri Lanka,10,DM de Silva,7d608e12,Kuldeep Yadav,8d2c70ad,S Samarawickrama,9ab2914d,0,0,0,0,0,,,,,,0,0,0
+1262760,2021,Sri Lanka,10,DM de Silva,7d608e12,Kuldeep Yadav,8d2c70ad,S Samarawickrama,9ab2914d,0,0,0,0,0,,,,,,1,0,1
+1262760,2021,Sri Lanka,10,S Samarawickrama,9ab2914d,Kuldeep Yadav,8d2c70ad,DM de Silva,7d608e12,0,0,0,0,0,,,,,,1,0,1
+1262760,2021,Sri Lanka,10,DM de Silva,7d608e12,Kuldeep Yadav,8d2c70ad,S Samarawickrama,9ab2914d,0,0,0,0,0,,,,,,2,0,2
+1262760,2021,Sri Lanka,10,DM de Silva,7d608e12,Kuldeep Yadav,8d2c70ad,S Samarawickrama,9ab2914d,0,0,0,0,0,,,,,,1,0,1
+1262760,2021,Sri Lanka,10,S Samarawickrama,9ab2914d,Kuldeep Yadav,8d2c70ad,DM de Silva,7d608e12,0,0,0,0,0,,,,,,1,0,1
+1262760,2021,Sri Lanka,11,S Samarawickrama,9ab2914d,RD Chahar,2ed569a0,DM de Silva,7d608e12,0,0,0,0,0,,,,,,1,0,1
+1262760,2021,Sri Lanka,11,DM de Silva,7d608e12,RD Chahar,2ed569a0,S Samarawickrama,9ab2914d,0,0,0,0,0,,,,,,4,0,4
+1262760,2021,Sri Lanka,11,DM de Silva,7d608e12,RD Chahar,2ed569a0,S Samarawickrama,9ab2914d,0,0,0,0,0,,,,,,0,0,0
+1262760,2021,Sri Lanka,11,DM de Silva,7d608e12,RD Chahar,2ed569a0,S Samarawickrama,9ab2914d,0,0,0,0,0,,,,,,2,0,2
+1262760,2021,Sri Lanka,11,DM de Silva,7d608e12,RD Chahar,2ed569a0,S Samarawickrama,9ab2914d,0,0,0,0,0,,,,,,1,0,1
+1262760,2021,Sri Lanka,11,S Samarawickrama,9ab2914d,RD Chahar,2ed569a0,DM de Silva,7d608e12,0,0,0,0,1,S Samarawickrama,9ab2914d,,,bowled,0,0,0
+1262760,2021,Sri Lanka,12,DM de Silva,7d608e12,Kuldeep Yadav,8d2c70ad,PWH de Silva,a97c8ec2,1,0,0,0,0,,,,,,0,1,1
+1262760,2021,Sri Lanka,12,DM de Silva,7d608e12,Kuldeep Yadav,8d2c70ad,PWH de Silva,a97c8ec2,0,0,0,0,0,,,,,,1,0,1
+1262760,2021,Sri Lanka,12,PWH de Silva,a97c8ec2,Kuldeep Yadav,8d2c70ad,DM de Silva,7d608e12,0,0,0,0,0,,,,,,0,0,0
+1262760,2021,Sri Lanka,12,PWH de Silva,a97c8ec2,Kuldeep Yadav,8d2c70ad,DM de Silva,7d608e12,0,0,0,0,0,,,,,,2,0,2
+1262760,2021,Sri Lanka,12,PWH de Silva,a97c8ec2,Kuldeep Yadav,8d2c70ad,DM de Silva,7d608e12,0,0,0,0,0,,,,,,2,0,2
+1262760,2021,Sri Lanka,12,PWH de Silva,a97c8ec2,Kuldeep Yadav,8d2c70ad,DM de Silva,7d608e12,0,0,0,0,0,,,,,,0,0,0
+1262760,2021,Sri Lanka,12,PWH de Silva,a97c8ec2,Kuldeep Yadav,8d2c70ad,DM de Silva,7d608e12,0,0,0,0,0,,,,,,4,0,4
+1262760,2021,Sri Lanka,13,DM de Silva,7d608e12,S Sandeep Warrier,cdc6bdba,PWH de Silva,a97c8ec2,0,0,0,0,0,,,,,,4,0,4
+1262760,2021,Sri Lanka,13,DM de Silva,7d608e12,S Sandeep Warrier,cdc6bdba,PWH de Silva,a97c8ec2,0,0,0,0,0,,,,,,1,0,1
+1262760,2021,Sri Lanka,13,PWH de Silva,a97c8ec2,S Sandeep Warrier,cdc6bdba,DM de Silva,7d608e12,0,0,0,0,0,,,,,,5,0,5
+1262760,2021,Sri Lanka,13,DM de Silva,7d608e12,S Sandeep Warrier,cdc6bdba,PWH de Silva,a97c8ec2,0,0,0,0,0,,,,,,1,0,1
+1262760,2021,Sri Lanka,13,PWH de Silva,a97c8ec2,S Sandeep Warrier,cdc6bdba,DM de Silva,7d608e12,0,0,0,0,0,,,,,,0,0,0
+1262760,2021,Sri Lanka,13,PWH de Silva,a97c8ec2,S Sandeep Warrier,cdc6bdba,DM de Silva,7d608e12,0,0,0,0,0,,,,,,0,0,0
+1262760,2021,Sri Lanka,14,DM de Silva,7d608e12,CV Varun,5b7ab5a9,PWH de Silva,a97c8ec2,0,0,0,0,0,,,,,,1,0,1
+1262760,2021,Sri Lanka,14,PWH de Silva,a97c8ec2,CV Varun,5b7ab5a9,DM de Silva,7d608e12,0,0,0,0,0,,,,,,1,0,1
+1262760,2021,Sri Lanka,14,DM de Silva,7d608e12,CV Varun,5b7ab5a9,PWH de Silva,a97c8ec2,0,0,2,0,0,,,,,,0,2,2
+1262760,2021,Sri Lanka,14,DM de Silva,7d608e12,CV Varun,5b7ab5a9,PWH de Silva,a97c8ec2,1,0,0,0,0,,,,,,0,1,1

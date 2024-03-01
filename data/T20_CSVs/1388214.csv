@@ -1,0 +1,67 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1388214,2023/24,New Zealand,0,FH Allen,bf74b130,Mahedi Hasan,9dad0f2e,TL Seifert,4663bd23,0,0,0,0,0,,,,,,1,0,1
+1388214,2023/24,New Zealand,0,TL Seifert,4663bd23,Mahedi Hasan,9dad0f2e,FH Allen,bf74b130,0,0,0,0,0,,,,,,1,0,1
+1388214,2023/24,New Zealand,0,FH Allen,bf74b130,Mahedi Hasan,9dad0f2e,TL Seifert,4663bd23,0,0,0,0,0,,,,,,0,0,0
+1388214,2023/24,New Zealand,0,FH Allen,bf74b130,Mahedi Hasan,9dad0f2e,TL Seifert,4663bd23,0,0,0,0,0,,,,,,1,0,1
+1388214,2023/24,New Zealand,0,TL Seifert,4663bd23,Mahedi Hasan,9dad0f2e,FH Allen,bf74b130,0,0,0,0,0,,,,,,4,0,4
+1388214,2023/24,New Zealand,0,TL Seifert,4663bd23,Mahedi Hasan,9dad0f2e,FH Allen,bf74b130,0,0,0,0,0,,,,,,2,0,2
+1388214,2023/24,New Zealand,1,FH Allen,bf74b130,Shoriful Islam,bb34fd31,TL Seifert,4663bd23,0,0,0,0,0,,,,,,0,0,0
+1388214,2023/24,New Zealand,1,FH Allen,bf74b130,Shoriful Islam,bb34fd31,TL Seifert,4663bd23,0,0,0,0,1,FH Allen,bf74b130,Rishad Hossain,5935d694,caught,0,0,0
+1388214,2023/24,New Zealand,1,DJ Mitchell,eade4650,Shoriful Islam,bb34fd31,TL Seifert,4663bd23,0,0,0,0,0,,,,,,1,0,1
+1388214,2023/24,New Zealand,1,TL Seifert,4663bd23,Shoriful Islam,bb34fd31,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,1,0,1
+1388214,2023/24,New Zealand,1,DJ Mitchell,eade4650,Shoriful Islam,bb34fd31,TL Seifert,4663bd23,0,0,0,0,0,,,,,,0,0,0
+1388214,2023/24,New Zealand,1,DJ Mitchell,eade4650,Shoriful Islam,bb34fd31,TL Seifert,4663bd23,0,0,0,0,0,,,,,,1,0,1
+1388214,2023/24,New Zealand,2,DJ Mitchell,eade4650,Mahedi Hasan,9dad0f2e,TL Seifert,4663bd23,0,0,0,0,0,,,,,,0,0,0
+1388214,2023/24,New Zealand,2,DJ Mitchell,eade4650,Mahedi Hasan,9dad0f2e,TL Seifert,4663bd23,0,0,0,0,0,,,,,,0,0,0
+1388214,2023/24,New Zealand,2,DJ Mitchell,eade4650,Mahedi Hasan,9dad0f2e,TL Seifert,4663bd23,0,0,0,0,0,,,,,,0,0,0
+1388214,2023/24,New Zealand,2,DJ Mitchell,eade4650,Mahedi Hasan,9dad0f2e,TL Seifert,4663bd23,0,0,0,0,0,,,,,,1,0,1
+1388214,2023/24,New Zealand,2,TL Seifert,4663bd23,Mahedi Hasan,9dad0f2e,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,1,0,1
+1388214,2023/24,New Zealand,2,DJ Mitchell,eade4650,Mahedi Hasan,9dad0f2e,TL Seifert,4663bd23,0,0,0,0,0,,,,,,4,0,4
+1388214,2023/24,New Zealand,3,TL Seifert,4663bd23,Tanzim Hasan Sakib,0b0cc297,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,4,0,4
+1388214,2023/24,New Zealand,3,TL Seifert,4663bd23,Tanzim Hasan Sakib,0b0cc297,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,4,0,4
+1388214,2023/24,New Zealand,3,TL Seifert,4663bd23,Tanzim Hasan Sakib,0b0cc297,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,1,0,1
+1388214,2023/24,New Zealand,3,DJ Mitchell,eade4650,Tanzim Hasan Sakib,0b0cc297,TL Seifert,4663bd23,0,0,0,0,0,,,,,,0,0,0
+1388214,2023/24,New Zealand,3,DJ Mitchell,eade4650,Tanzim Hasan Sakib,0b0cc297,TL Seifert,4663bd23,0,0,0,0,0,,,,,,1,0,1
+1388214,2023/24,New Zealand,3,TL Seifert,4663bd23,Tanzim Hasan Sakib,0b0cc297,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,1,0,1
+1388214,2023/24,New Zealand,4,TL Seifert,4663bd23,Shoriful Islam,bb34fd31,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,0,0,0
+1388214,2023/24,New Zealand,4,TL Seifert,4663bd23,Shoriful Islam,bb34fd31,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,6,0,6
+1388214,2023/24,New Zealand,4,TL Seifert,4663bd23,Shoriful Islam,bb34fd31,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,1,0,1
+1388214,2023/24,New Zealand,4,DJ Mitchell,eade4650,Shoriful Islam,bb34fd31,TL Seifert,4663bd23,0,0,0,0,0,,,,,,1,0,1
+1388214,2023/24,New Zealand,4,TL Seifert,4663bd23,Shoriful Islam,bb34fd31,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,4,0,4
+1388214,2023/24,New Zealand,4,TL Seifert,4663bd23,Shoriful Islam,bb34fd31,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,1,0,1
+1388214,2023/24,New Zealand,5,TL Seifert,4663bd23,Mustafizur Rahman,0a8fce53,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,0,0,0
+1388214,2023/24,New Zealand,5,TL Seifert,4663bd23,Mustafizur Rahman,0a8fce53,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,4,0,4
+1388214,2023/24,New Zealand,5,TL Seifert,4663bd23,Mustafizur Rahman,0a8fce53,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,4,0,4
+1388214,2023/24,New Zealand,5,TL Seifert,4663bd23,Mustafizur Rahman,0a8fce53,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,3,0,3
+1388214,2023/24,New Zealand,5,DJ Mitchell,eade4650,Mustafizur Rahman,0a8fce53,TL Seifert,4663bd23,0,0,0,0,0,,,,,,1,0,1
+1388214,2023/24,New Zealand,5,TL Seifert,4663bd23,Mustafizur Rahman,0a8fce53,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,0,0,0
+1388214,2023/24,New Zealand,6,DJ Mitchell,eade4650,Rishad Hossain,5935d694,TL Seifert,4663bd23,0,0,0,0,0,,,,,,1,0,1
+1388214,2023/24,New Zealand,6,TL Seifert,4663bd23,Rishad Hossain,5935d694,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,0,0,0
+1388214,2023/24,New Zealand,6,TL Seifert,4663bd23,Rishad Hossain,5935d694,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,1,0,1
+1388214,2023/24,New Zealand,6,DJ Mitchell,eade4650,Rishad Hossain,5935d694,TL Seifert,4663bd23,0,0,0,0,0,,,,,,0,0,0
+1388214,2023/24,New Zealand,6,DJ Mitchell,eade4650,Rishad Hossain,5935d694,TL Seifert,4663bd23,0,0,0,0,0,,,,,,1,0,1
+1388214,2023/24,New Zealand,6,TL Seifert,4663bd23,Rishad Hossain,5935d694,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,0,0,0
+1388214,2023/24,New Zealand,7,DJ Mitchell,eade4650,Tanzim Hasan Sakib,0b0cc297,TL Seifert,4663bd23,0,0,0,0,0,,,,,,1,0,1
+1388214,2023/24,New Zealand,7,TL Seifert,4663bd23,Tanzim Hasan Sakib,0b0cc297,DJ Mitchell,eade4650,0,0,0,0,1,TL Seifert,4663bd23,Nazmul Hossain Shanto,1274d7ab,caught,0,0,0
+1388214,2023/24,New Zealand,7,GD Phillips,9a46c4e5,Tanzim Hasan Sakib,0b0cc297,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,1,0,1
+1388214,2023/24,New Zealand,7,DJ Mitchell,eade4650,Tanzim Hasan Sakib,0b0cc297,GD Phillips,9a46c4e5,0,0,0,0,0,,,,,,1,0,1
+1388214,2023/24,New Zealand,7,GD Phillips,9a46c4e5,Tanzim Hasan Sakib,0b0cc297,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,1,0,1
+1388214,2023/24,New Zealand,7,DJ Mitchell,eade4650,Tanzim Hasan Sakib,0b0cc297,GD Phillips,9a46c4e5,0,0,0,0,0,,,,,,0,0,0
+1388214,2023/24,New Zealand,8,GD Phillips,9a46c4e5,Rishad Hossain,5935d694,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,1,0,1
+1388214,2023/24,New Zealand,8,DJ Mitchell,eade4650,Rishad Hossain,5935d694,GD Phillips,9a46c4e5,0,0,0,0,0,,,,,,0,0,0
+1388214,2023/24,New Zealand,8,DJ Mitchell,eade4650,Rishad Hossain,5935d694,GD Phillips,9a46c4e5,0,0,0,0,0,,,,,,1,0,1
+1388214,2023/24,New Zealand,8,GD Phillips,9a46c4e5,Rishad Hossain,5935d694,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,0,0,0
+1388214,2023/24,New Zealand,8,GD Phillips,9a46c4e5,Rishad Hossain,5935d694,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,0,0,0
+1388214,2023/24,New Zealand,8,GD Phillips,9a46c4e5,Rishad Hossain,5935d694,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,0,0,0
+1388214,2023/24,New Zealand,9,DJ Mitchell,eade4650,Mustafizur Rahman,0a8fce53,GD Phillips,9a46c4e5,0,0,0,0,0,,,,,,1,0,1
+1388214,2023/24,New Zealand,9,GD Phillips,9a46c4e5,Mustafizur Rahman,0a8fce53,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,0,0,0
+1388214,2023/24,New Zealand,9,GD Phillips,9a46c4e5,Mustafizur Rahman,0a8fce53,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,0,0,0
+1388214,2023/24,New Zealand,9,GD Phillips,9a46c4e5,Mustafizur Rahman,0a8fce53,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,1,0,1
+1388214,2023/24,New Zealand,9,DJ Mitchell,eade4650,Mustafizur Rahman,0a8fce53,GD Phillips,9a46c4e5,0,0,0,0,0,,,,,,1,0,1
+1388214,2023/24,New Zealand,9,GD Phillips,9a46c4e5,Mustafizur Rahman,0a8fce53,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,1,0,1
+1388214,2023/24,New Zealand,10,GD Phillips,9a46c4e5,Rishad Hossain,5935d694,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,2,0,2
+1388214,2023/24,New Zealand,10,GD Phillips,9a46c4e5,Rishad Hossain,5935d694,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,0,0,0
+1388214,2023/24,New Zealand,10,GD Phillips,9a46c4e5,Rishad Hossain,5935d694,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,1,0,1
+1388214,2023/24,New Zealand,10,DJ Mitchell,eade4650,Rishad Hossain,5935d694,GD Phillips,9a46c4e5,0,0,0,0,0,,,,,,0,0,0
+1388214,2023/24,New Zealand,10,DJ Mitchell,eade4650,Rishad Hossain,5935d694,GD Phillips,9a46c4e5,0,0,0,0,0,,,,,,1,0,1
+1388214,2023/24,New Zealand,10,GD Phillips,9a46c4e5,Rishad Hossain,5935d694,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,1,0,1

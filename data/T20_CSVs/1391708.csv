@@ -1,0 +1,268 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1391708,2023,Netherlands,0,IJR Zwilling,47b32a5a,CM Greechan,569bbcbb,HDJ Siegers,6d48df01,0,0,0,0,0,,,,,,1,0,1
+1391708,2023,Netherlands,0,HDJ Siegers,6d48df01,CM Greechan,569bbcbb,IJR Zwilling,47b32a5a,0,0,0,0,0,,,,,,0,0,0
+1391708,2023,Netherlands,0,HDJ Siegers,6d48df01,CM Greechan,569bbcbb,IJR Zwilling,47b32a5a,0,0,0,0,0,,,,,,4,0,4
+1391708,2023,Netherlands,0,HDJ Siegers,6d48df01,CM Greechan,569bbcbb,IJR Zwilling,47b32a5a,0,0,0,0,0,,,,,,2,0,2
+1391708,2023,Netherlands,0,HDJ Siegers,6d48df01,CM Greechan,569bbcbb,IJR Zwilling,47b32a5a,0,0,0,0,1,HDJ Siegers,6d48df01,,,bowled,0,0,0
+1391708,2023,Netherlands,0,R Rijke,42e4b276,CM Greechan,569bbcbb,IJR Zwilling,47b32a5a,0,0,0,0,0,,,,,,0,0,0
+1391708,2023,Netherlands,1,IJR Zwilling,47b32a5a,E Duffy,52bbb9e5,R Rijke,42e4b276,0,0,0,0,0,,,,,,0,0,0
+1391708,2023,Netherlands,1,IJR Zwilling,47b32a5a,E Duffy,52bbb9e5,R Rijke,42e4b276,0,0,0,0,0,,,,,,0,0,0
+1391708,2023,Netherlands,1,IJR Zwilling,47b32a5a,E Duffy,52bbb9e5,R Rijke,42e4b276,0,0,0,0,0,,,,,,2,0,2
+1391708,2023,Netherlands,1,IJR Zwilling,47b32a5a,E Duffy,52bbb9e5,R Rijke,42e4b276,0,0,0,0,0,,,,,,1,0,1
+1391708,2023,Netherlands,1,R Rijke,42e4b276,E Duffy,52bbb9e5,IJR Zwilling,47b32a5a,0,0,0,0,0,,,,,,0,0,0
+1391708,2023,Netherlands,1,R Rijke,42e4b276,E Duffy,52bbb9e5,IJR Zwilling,47b32a5a,0,0,0,0,0,,,,,,4,0,4
+1391708,2023,Netherlands,2,IJR Zwilling,47b32a5a,CM Greechan,569bbcbb,R Rijke,42e4b276,0,0,0,0,0,,,,,,1,0,1
+1391708,2023,Netherlands,2,R Rijke,42e4b276,CM Greechan,569bbcbb,IJR Zwilling,47b32a5a,0,0,0,0,0,,,,,,0,0,0
+1391708,2023,Netherlands,2,R Rijke,42e4b276,CM Greechan,569bbcbb,IJR Zwilling,47b32a5a,0,0,0,0,0,,,,,,1,0,1
+1391708,2023,Netherlands,2,IJR Zwilling,47b32a5a,CM Greechan,569bbcbb,R Rijke,42e4b276,0,0,0,0,0,,,,,,1,0,1
+1391708,2023,Netherlands,2,R Rijke,42e4b276,CM Greechan,569bbcbb,IJR Zwilling,47b32a5a,0,0,0,0,0,,,,,,0,0,0
+1391708,2023,Netherlands,2,R Rijke,42e4b276,CM Greechan,569bbcbb,IJR Zwilling,47b32a5a,0,0,0,0,0,,,,,,1,0,1
+1391708,2023,Netherlands,3,R Rijke,42e4b276,E Duffy,52bbb9e5,IJR Zwilling,47b32a5a,0,0,0,0,0,,,,,,3,0,3
+1391708,2023,Netherlands,3,IJR Zwilling,47b32a5a,E Duffy,52bbb9e5,R Rijke,42e4b276,0,0,0,0,0,,,,,,2,0,2
+1391708,2023,Netherlands,3,IJR Zwilling,47b32a5a,E Duffy,52bbb9e5,R Rijke,42e4b276,0,0,0,0,0,,,,,,0,0,0
+1391708,2023,Netherlands,3,IJR Zwilling,47b32a5a,E Duffy,52bbb9e5,R Rijke,42e4b276,0,0,0,0,0,,,,,,1,0,1
+1391708,2023,Netherlands,3,R Rijke,42e4b276,E Duffy,52bbb9e5,IJR Zwilling,47b32a5a,0,0,0,0,0,,,,,,0,0,0
+1391708,2023,Netherlands,3,R Rijke,42e4b276,E Duffy,52bbb9e5,IJR Zwilling,47b32a5a,0,0,0,0,0,,,,,,1,0,1
+1391708,2023,Netherlands,4,R Rijke,42e4b276,G Mallett,95bf6b2a,IJR Zwilling,47b32a5a,0,0,0,0,0,,,,,,2,0,2
+1391708,2023,Netherlands,4,R Rijke,42e4b276,G Mallett,95bf6b2a,IJR Zwilling,47b32a5a,0,0,0,0,0,,,,,,1,0,1
+1391708,2023,Netherlands,4,IJR Zwilling,47b32a5a,G Mallett,95bf6b2a,R Rijke,42e4b276,0,0,0,0,0,,,,,,2,0,2
+1391708,2023,Netherlands,4,IJR Zwilling,47b32a5a,G Mallett,95bf6b2a,R Rijke,42e4b276,0,0,0,0,0,,,,,,1,0,1
+1391708,2023,Netherlands,4,R Rijke,42e4b276,G Mallett,95bf6b2a,IJR Zwilling,47b32a5a,0,0,0,0,0,,,,,,2,0,2
+1391708,2023,Netherlands,4,R Rijke,42e4b276,G Mallett,95bf6b2a,IJR Zwilling,47b32a5a,0,0,0,0,0,,,,,,1,0,1
+1391708,2023,Netherlands,5,R Rijke,42e4b276,A Merritt,4c87bd01,IJR Zwilling,47b32a5a,0,0,0,0,0,,,,,,0,0,0
+1391708,2023,Netherlands,5,R Rijke,42e4b276,A Merritt,4c87bd01,IJR Zwilling,47b32a5a,0,0,0,0,0,,,,,,1,0,1
+1391708,2023,Netherlands,5,IJR Zwilling,47b32a5a,A Merritt,4c87bd01,R Rijke,42e4b276,0,0,0,0,0,,,,,,1,0,1
+1391708,2023,Netherlands,5,R Rijke,42e4b276,A Merritt,4c87bd01,IJR Zwilling,47b32a5a,0,0,0,0,0,,,,,,0,0,0
+1391708,2023,Netherlands,5,R Rijke,42e4b276,A Merritt,4c87bd01,IJR Zwilling,47b32a5a,0,0,0,0,0,,,,,,1,0,1
+1391708,2023,Netherlands,5,IJR Zwilling,47b32a5a,A Merritt,4c87bd01,R Rijke,42e4b276,0,0,0,0,0,,,,,,2,0,2
+1391708,2023,Netherlands,6,R Rijke,42e4b276,G Mallett,95bf6b2a,IJR Zwilling,47b32a5a,0,0,0,0,0,,,,,,0,0,0
+1391708,2023,Netherlands,6,R Rijke,42e4b276,G Mallett,95bf6b2a,IJR Zwilling,47b32a5a,0,0,0,0,0,,,,,,1,0,1
+1391708,2023,Netherlands,6,IJR Zwilling,47b32a5a,G Mallett,95bf6b2a,R Rijke,42e4b276,0,1,0,0,0,,,,,,2,1,3
+1391708,2023,Netherlands,6,IJR Zwilling,47b32a5a,G Mallett,95bf6b2a,R Rijke,42e4b276,0,0,0,0,0,,,,,,2,0,2
+1391708,2023,Netherlands,6,IJR Zwilling,47b32a5a,G Mallett,95bf6b2a,R Rijke,42e4b276,1,0,0,0,0,,,,,,0,1,1
+1391708,2023,Netherlands,6,IJR Zwilling,47b32a5a,G Mallett,95bf6b2a,R Rijke,42e4b276,0,0,0,0,0,,,,,,1,0,1
+1391708,2023,Netherlands,6,R Rijke,42e4b276,G Mallett,95bf6b2a,IJR Zwilling,47b32a5a,0,0,0,0,0,,,,,,1,0,1
+1391708,2023,Netherlands,6,IJR Zwilling,47b32a5a,G Mallett,95bf6b2a,R Rijke,42e4b276,0,0,0,0,0,,,,,,1,0,1
+1391708,2023,Netherlands,7,IJR Zwilling,47b32a5a,A Merritt,4c87bd01,R Rijke,42e4b276,0,0,0,0,0,,,,,,0,0,0
+1391708,2023,Netherlands,7,IJR Zwilling,47b32a5a,A Merritt,4c87bd01,R Rijke,42e4b276,0,0,0,0,0,,,,,,1,0,1
+1391708,2023,Netherlands,7,R Rijke,42e4b276,A Merritt,4c87bd01,IJR Zwilling,47b32a5a,0,0,0,0,0,,,,,,1,0,1
+1391708,2023,Netherlands,7,IJR Zwilling,47b32a5a,A Merritt,4c87bd01,R Rijke,42e4b276,0,0,0,0,0,,,,,,0,0,0
+1391708,2023,Netherlands,7,IJR Zwilling,47b32a5a,A Merritt,4c87bd01,R Rijke,42e4b276,0,0,0,0,0,,,,,,1,0,1
+1391708,2023,Netherlands,7,R Rijke,42e4b276,A Merritt,4c87bd01,IJR Zwilling,47b32a5a,0,1,0,0,0,,,,,,0,1,1
+1391708,2023,Netherlands,7,R Rijke,42e4b276,A Merritt,4c87bd01,IJR Zwilling,47b32a5a,0,0,0,0,0,,,,,,4,0,4
+1391708,2023,Netherlands,8,IJR Zwilling,47b32a5a,E Gouge,e01e17ee,R Rijke,42e4b276,0,0,0,0,0,,,,,,0,0,0
+1391708,2023,Netherlands,8,IJR Zwilling,47b32a5a,E Gouge,e01e17ee,R Rijke,42e4b276,0,0,0,0,0,,,,,,1,0,1
+1391708,2023,Netherlands,8,R Rijke,42e4b276,E Gouge,e01e17ee,IJR Zwilling,47b32a5a,0,0,0,0,0,,,,,,0,0,0
+1391708,2023,Netherlands,8,R Rijke,42e4b276,E Gouge,e01e17ee,IJR Zwilling,47b32a5a,0,0,0,0,0,,,,,,2,0,2
+1391708,2023,Netherlands,8,R Rijke,42e4b276,E Gouge,e01e17ee,IJR Zwilling,47b32a5a,0,0,0,0,0,,,,,,0,0,0
+1391708,2023,Netherlands,8,R Rijke,42e4b276,E Gouge,e01e17ee,IJR Zwilling,47b32a5a,0,0,0,0,0,,,,,,0,0,0
+1391708,2023,Netherlands,9,IJR Zwilling,47b32a5a,G Wetherall,5c77d7cb,R Rijke,42e4b276,0,0,0,0,0,,,,,,0,0,0
+1391708,2023,Netherlands,9,IJR Zwilling,47b32a5a,G Wetherall,5c77d7cb,R Rijke,42e4b276,0,0,0,0,0,,,,,,1,0,1
+1391708,2023,Netherlands,9,R Rijke,42e4b276,G Wetherall,5c77d7cb,IJR Zwilling,47b32a5a,0,0,0,0,0,,,,,,2,0,2
+1391708,2023,Netherlands,9,R Rijke,42e4b276,G Wetherall,5c77d7cb,IJR Zwilling,47b32a5a,0,0,0,0,0,,,,,,1,0,1
+1391708,2023,Netherlands,9,IJR Zwilling,47b32a5a,G Wetherall,5c77d7cb,R Rijke,42e4b276,0,1,0,0,0,,,,,,2,1,3
+1391708,2023,Netherlands,9,IJR Zwilling,47b32a5a,G Wetherall,5c77d7cb,R Rijke,42e4b276,0,0,0,0,0,,,,,,1,0,1
+1391708,2023,Netherlands,9,R Rijke,42e4b276,G Wetherall,5c77d7cb,IJR Zwilling,47b32a5a,0,0,0,0,0,,,,,,1,0,1
+1391708,2023,Netherlands,10,R Rijke,42e4b276,E Gouge,e01e17ee,IJR Zwilling,47b32a5a,0,0,0,0,0,,,,,,1,0,1
+1391708,2023,Netherlands,10,IJR Zwilling,47b32a5a,E Gouge,e01e17ee,R Rijke,42e4b276,0,0,0,0,0,,,,,,1,0,1
+1391708,2023,Netherlands,10,R Rijke,42e4b276,E Gouge,e01e17ee,IJR Zwilling,47b32a5a,0,0,0,0,0,,,,,,1,0,1
+1391708,2023,Netherlands,10,IJR Zwilling,47b32a5a,E Gouge,e01e17ee,R Rijke,42e4b276,0,0,0,0,0,,,,,,0,0,0
+1391708,2023,Netherlands,10,IJR Zwilling,47b32a5a,E Gouge,e01e17ee,R Rijke,42e4b276,1,0,0,0,0,,,,,,0,1,1
+1391708,2023,Netherlands,10,IJR Zwilling,47b32a5a,E Gouge,e01e17ee,R Rijke,42e4b276,0,0,0,0,0,,,,,,2,0,2
+1391708,2023,Netherlands,10,IJR Zwilling,47b32a5a,E Gouge,e01e17ee,R Rijke,42e4b276,0,0,0,0,0,,,,,,0,0,0
+1391708,2023,Netherlands,11,R Rijke,42e4b276,G Wetherall,5c77d7cb,IJR Zwilling,47b32a5a,1,0,0,0,0,,,,,,0,1,1
+1391708,2023,Netherlands,11,R Rijke,42e4b276,G Wetherall,5c77d7cb,IJR Zwilling,47b32a5a,0,0,0,0,1,R Rijke,42e4b276,,,bowled,0,0,0
+1391708,2023,Netherlands,11,F Overdijk,022745d5,G Wetherall,5c77d7cb,IJR Zwilling,47b32a5a,0,0,0,0,0,,,,,,0,0,0
+1391708,2023,Netherlands,11,F Overdijk,022745d5,G Wetherall,5c77d7cb,IJR Zwilling,47b32a5a,0,0,0,0,0,,,,,,0,0,0
+1391708,2023,Netherlands,11,F Overdijk,022745d5,G Wetherall,5c77d7cb,IJR Zwilling,47b32a5a,0,0,0,0,0,,,,,,0,0,0
+1391708,2023,Netherlands,11,F Overdijk,022745d5,G Wetherall,5c77d7cb,IJR Zwilling,47b32a5a,0,0,0,0,0,,,,,,0,0,0
+1391708,2023,Netherlands,11,F Overdijk,022745d5,G Wetherall,5c77d7cb,IJR Zwilling,47b32a5a,1,0,0,0,0,,,,,,0,1,1
+1391708,2023,Netherlands,11,F Overdijk,022745d5,G Wetherall,5c77d7cb,IJR Zwilling,47b32a5a,0,0,0,0,0,,,,,,1,0,1
+1391708,2023,Netherlands,12,F Overdijk,022745d5,E Gouge,e01e17ee,IJR Zwilling,47b32a5a,0,0,0,0,0,,,,,,1,0,1
+1391708,2023,Netherlands,12,IJR Zwilling,47b32a5a,E Gouge,e01e17ee,F Overdijk,022745d5,0,0,0,0,0,,,,,,1,0,1
+1391708,2023,Netherlands,12,F Overdijk,022745d5,E Gouge,e01e17ee,IJR Zwilling,47b32a5a,0,0,0,0,0,,,,,,1,0,1
+1391708,2023,Netherlands,12,IJR Zwilling,47b32a5a,E Gouge,e01e17ee,F Overdijk,022745d5,0,0,0,0,0,,,,,,2,0,2
+1391708,2023,Netherlands,12,IJR Zwilling,47b32a5a,E Gouge,e01e17ee,F Overdijk,022745d5,1,0,0,0,0,,,,,,0,1,1
+1391708,2023,Netherlands,12,IJR Zwilling,47b32a5a,E Gouge,e01e17ee,F Overdijk,022745d5,0,0,0,0,0,,,,,,2,0,2
+1391708,2023,Netherlands,12,IJR Zwilling,47b32a5a,E Gouge,e01e17ee,F Overdijk,022745d5,0,0,0,0,0,,,,,,2,0,2
+1391708,2023,Netherlands,13,F Overdijk,022745d5,A Merritt,4c87bd01,IJR Zwilling,47b32a5a,0,0,0,0,0,,,,,,0,0,0
+1391708,2023,Netherlands,13,F Overdijk,022745d5,A Merritt,4c87bd01,IJR Zwilling,47b32a5a,0,0,0,0,0,,,,,,1,0,1
+1391708,2023,Netherlands,13,IJR Zwilling,47b32a5a,A Merritt,4c87bd01,F Overdijk,022745d5,1,0,0,0,0,,,,,,0,1,1
+1391708,2023,Netherlands,13,IJR Zwilling,47b32a5a,A Merritt,4c87bd01,F Overdijk,022745d5,0,0,0,0,1,IJR Zwilling,47b32a5a,E Duffy,52bbb9e5,caught,0,0,0
+1391708,2023,Netherlands,13,P Molkenboer,fa9db243,A Merritt,4c87bd01,F Overdijk,022745d5,1,0,0,0,0,,,,,,0,1,1
+1391708,2023,Netherlands,13,P Molkenboer,fa9db243,A Merritt,4c87bd01,F Overdijk,022745d5,0,0,0,0,0,,,,,,1,0,1
+1391708,2023,Netherlands,13,F Overdijk,022745d5,A Merritt,4c87bd01,P Molkenboer,fa9db243,0,0,0,0,0,,,,,,0,0,0
+1391708,2023,Netherlands,13,F Overdijk,022745d5,A Merritt,4c87bd01,P Molkenboer,fa9db243,0,0,0,0,0,,,,,,1,0,1
+1391708,2023,Netherlands,14,F Overdijk,022745d5,E Gouge,e01e17ee,P Molkenboer,fa9db243,0,0,0,0,0,,,,,,1,0,1
+1391708,2023,Netherlands,14,P Molkenboer,fa9db243,E Gouge,e01e17ee,F Overdijk,022745d5,0,0,0,0,0,,,,,,1,0,1
+1391708,2023,Netherlands,14,F Overdijk,022745d5,E Gouge,e01e17ee,P Molkenboer,fa9db243,0,0,0,0,0,,,,,,1,0,1
+1391708,2023,Netherlands,14,P Molkenboer,fa9db243,E Gouge,e01e17ee,F Overdijk,022745d5,0,0,0,0,0,,,,,,1,0,1
+1391708,2023,Netherlands,14,F Overdijk,022745d5,E Gouge,e01e17ee,P Molkenboer,fa9db243,0,0,0,0,0,,,,,,1,0,1
+1391708,2023,Netherlands,14,P Molkenboer,fa9db243,E Gouge,e01e17ee,F Overdijk,022745d5,0,0,0,0,0,,,,,,2,0,2
+1391708,2023,Netherlands,15,F Overdijk,022745d5,G Wetherall,5c77d7cb,P Molkenboer,fa9db243,1,0,0,0,0,,,,,,0,1,1
+1391708,2023,Netherlands,15,F Overdijk,022745d5,G Wetherall,5c77d7cb,P Molkenboer,fa9db243,0,0,0,0,0,,,,,,2,0,2
+1391708,2023,Netherlands,15,F Overdijk,022745d5,G Wetherall,5c77d7cb,P Molkenboer,fa9db243,0,0,0,0,0,,,,,,1,0,1
+1391708,2023,Netherlands,15,P Molkenboer,fa9db243,G Wetherall,5c77d7cb,F Overdijk,022745d5,1,0,0,0,0,,,,,,0,1,1
+1391708,2023,Netherlands,15,P Molkenboer,fa9db243,G Wetherall,5c77d7cb,F Overdijk,022745d5,0,0,0,0,0,,,,,,1,0,1
+1391708,2023,Netherlands,15,F Overdijk,022745d5,G Wetherall,5c77d7cb,P Molkenboer,fa9db243,0,0,0,0,0,,,,,,1,0,1
+1391708,2023,Netherlands,15,P Molkenboer,fa9db243,G Wetherall,5c77d7cb,F Overdijk,022745d5,0,0,0,0,0,,,,,,1,0,1
+1391708,2023,Netherlands,15,F Overdijk,022745d5,G Wetherall,5c77d7cb,P Molkenboer,fa9db243,0,0,0,0,0,,,,,,2,0,2
+1391708,2023,Netherlands,16,P Molkenboer,fa9db243,CM Greechan,569bbcbb,F Overdijk,022745d5,0,0,0,0,0,,,,,,0,0,0
+1391708,2023,Netherlands,16,P Molkenboer,fa9db243,CM Greechan,569bbcbb,F Overdijk,022745d5,0,0,0,0,0,,,,,,0,0,0
+1391708,2023,Netherlands,16,P Molkenboer,fa9db243,CM Greechan,569bbcbb,F Overdijk,022745d5,0,0,0,0,0,,,,,,1,0,1
+1391708,2023,Netherlands,16,F Overdijk,022745d5,CM Greechan,569bbcbb,P Molkenboer,fa9db243,0,0,0,0,0,,,,,,1,0,1
+1391708,2023,Netherlands,16,P Molkenboer,fa9db243,CM Greechan,569bbcbb,F Overdijk,022745d5,0,0,0,0,0,,,,,,1,0,1
+1391708,2023,Netherlands,16,F Overdijk,022745d5,CM Greechan,569bbcbb,P Molkenboer,fa9db243,0,0,0,0,0,,,,,,0,0,0
+1391708,2023,Netherlands,17,P Molkenboer,fa9db243,E Duffy,52bbb9e5,F Overdijk,022745d5,0,0,0,0,0,,,,,,4,0,4
+1391708,2023,Netherlands,17,P Molkenboer,fa9db243,E Duffy,52bbb9e5,F Overdijk,022745d5,1,0,0,0,0,,,,,,0,1,1
+1391708,2023,Netherlands,17,P Molkenboer,fa9db243,E Duffy,52bbb9e5,F Overdijk,022745d5,0,0,0,0,0,,,,,,1,0,1
+1391708,2023,Netherlands,17,F Overdijk,022745d5,E Duffy,52bbb9e5,P Molkenboer,fa9db243,0,0,0,0,0,,,,,,0,0,0
+1391708,2023,Netherlands,17,F Overdijk,022745d5,E Duffy,52bbb9e5,P Molkenboer,fa9db243,0,0,0,0,0,,,,,,2,0,2
+1391708,2023,Netherlands,17,F Overdijk,022745d5,E Duffy,52bbb9e5,P Molkenboer,fa9db243,0,0,0,0,0,,,,,,4,0,4
+1391708,2023,Netherlands,17,F Overdijk,022745d5,E Duffy,52bbb9e5,P Molkenboer,fa9db243,0,0,0,0,0,,,,,,0,0,0
+1391708,2023,Netherlands,18,P Molkenboer,fa9db243,CM Greechan,569bbcbb,F Overdijk,022745d5,0,0,0,0,0,,,,,,1,0,1
+1391708,2023,Netherlands,18,F Overdijk,022745d5,CM Greechan,569bbcbb,P Molkenboer,fa9db243,0,0,0,0,0,,,,,,2,0,2
+1391708,2023,Netherlands,18,F Overdijk,022745d5,CM Greechan,569bbcbb,P Molkenboer,fa9db243,0,0,0,0,0,,,,,,1,0,1
+1391708,2023,Netherlands,18,P Molkenboer,fa9db243,CM Greechan,569bbcbb,F Overdijk,022745d5,0,0,0,0,0,,,,,,1,0,1
+1391708,2023,Netherlands,18,F Overdijk,022745d5,CM Greechan,569bbcbb,P Molkenboer,fa9db243,0,0,0,0,0,,,,,,1,0,1
+1391708,2023,Netherlands,18,P Molkenboer,fa9db243,CM Greechan,569bbcbb,F Overdijk,022745d5,0,0,0,0,0,,,,,,1,0,1
+1391708,2023,Netherlands,19,P Molkenboer,fa9db243,E Duffy,52bbb9e5,F Overdijk,022745d5,0,0,0,0,0,,,,,,1,0,1
+1391708,2023,Netherlands,19,F Overdijk,022745d5,E Duffy,52bbb9e5,P Molkenboer,fa9db243,0,0,0,0,1,F Overdijk,022745d5,,,bowled,0,0,0
+1391708,2023,Netherlands,19,EN Lynch,4d35d0b3,E Duffy,52bbb9e5,P Molkenboer,fa9db243,0,0,1,0,0,,,,,,0,1,1
+1391708,2023,Netherlands,19,P Molkenboer,fa9db243,E Duffy,52bbb9e5,EN Lynch,4d35d0b3,0,0,0,0,0,,,,,,1,0,1
+1391708,2023,Netherlands,19,EN Lynch,4d35d0b3,E Duffy,52bbb9e5,P Molkenboer,fa9db243,0,0,0,0,0,,,,,,4,0,4
+1391708,2023,Netherlands,19,EN Lynch,4d35d0b3,E Duffy,52bbb9e5,P Molkenboer,fa9db243,0,0,0,0,0,,,,,,3,0,3
+1391708,2023,Jersey,0,R Bowley,a42406e2,IJR Zwilling,47b32a5a,A Aikenhead,007f121f,0,0,0,0,0,,,,,,1,0,1
+1391708,2023,Jersey,0,A Aikenhead,007f121f,IJR Zwilling,47b32a5a,R Bowley,a42406e2,0,0,0,0,0,,,,,,0,0,0
+1391708,2023,Jersey,0,A Aikenhead,007f121f,IJR Zwilling,47b32a5a,R Bowley,a42406e2,0,0,0,0,0,,,,,,0,0,0
+1391708,2023,Jersey,0,A Aikenhead,007f121f,IJR Zwilling,47b32a5a,R Bowley,a42406e2,0,0,0,0,0,,,,,,0,0,0
+1391708,2023,Jersey,0,A Aikenhead,007f121f,IJR Zwilling,47b32a5a,R Bowley,a42406e2,0,0,0,0,0,,,,,,0,0,0
+1391708,2023,Jersey,0,A Aikenhead,007f121f,IJR Zwilling,47b32a5a,R Bowley,a42406e2,0,0,0,0,0,,,,,,1,0,1
+1391708,2023,Jersey,1,A Aikenhead,007f121f,EN Lynch,4d35d0b3,R Bowley,a42406e2,0,0,0,0,0,,,,,,1,0,1
+1391708,2023,Jersey,1,R Bowley,a42406e2,EN Lynch,4d35d0b3,A Aikenhead,007f121f,0,0,0,0,0,,,,,,0,0,0
+1391708,2023,Jersey,1,R Bowley,a42406e2,EN Lynch,4d35d0b3,A Aikenhead,007f121f,0,0,0,0,1,R Bowley,a42406e2,F Vermeire,a7ed8026,stumped,0,0,0
+1391708,2023,Jersey,1,G Wetherall,5c77d7cb,EN Lynch,4d35d0b3,A Aikenhead,007f121f,0,0,0,0,0,,,,,,0,0,0
+1391708,2023,Jersey,1,G Wetherall,5c77d7cb,EN Lynch,4d35d0b3,A Aikenhead,007f121f,0,0,0,0,0,,,,,,0,0,0
+1391708,2023,Jersey,1,G Wetherall,5c77d7cb,EN Lynch,4d35d0b3,A Aikenhead,007f121f,0,0,0,0,0,,,,,,0,0,0
+1391708,2023,Jersey,2,A Aikenhead,007f121f,IJR Zwilling,47b32a5a,G Wetherall,5c77d7cb,0,0,0,0,0,,,,,,0,0,0
+1391708,2023,Jersey,2,A Aikenhead,007f121f,IJR Zwilling,47b32a5a,G Wetherall,5c77d7cb,0,0,0,0,0,,,,,,1,0,1
+1391708,2023,Jersey,2,G Wetherall,5c77d7cb,IJR Zwilling,47b32a5a,A Aikenhead,007f121f,0,0,0,0,0,,,,,,0,0,0
+1391708,2023,Jersey,2,G Wetherall,5c77d7cb,IJR Zwilling,47b32a5a,A Aikenhead,007f121f,0,0,0,0,1,G Wetherall,5c77d7cb,HDJ Siegers,6d48df01,caught,0,0,0
+1391708,2023,Jersey,2,M Maguire,0441a1f5,IJR Zwilling,47b32a5a,A Aikenhead,007f121f,0,0,0,0,0,,,,,,1,0,1
+1391708,2023,Jersey,2,A Aikenhead,007f121f,IJR Zwilling,47b32a5a,M Maguire,0441a1f5,0,0,0,0,0,,,,,,2,0,2
+1391708,2023,Jersey,3,M Maguire,0441a1f5,EN Lynch,4d35d0b3,A Aikenhead,007f121f,0,0,0,0,0,,,,,,0,0,0
+1391708,2023,Jersey,3,M Maguire,0441a1f5,EN Lynch,4d35d0b3,A Aikenhead,007f121f,0,0,0,0,0,,,,,,0,0,0
+1391708,2023,Jersey,3,M Maguire,0441a1f5,EN Lynch,4d35d0b3,A Aikenhead,007f121f,0,0,0,0,0,,,,,,0,0,0
+1391708,2023,Jersey,3,M Maguire,0441a1f5,EN Lynch,4d35d0b3,A Aikenhead,007f121f,0,0,0,0,0,,,,,,1,0,1
+1391708,2023,Jersey,3,A Aikenhead,007f121f,EN Lynch,4d35d0b3,M Maguire,0441a1f5,0,0,0,0,0,,,,,,0,0,0
+1391708,2023,Jersey,3,A Aikenhead,007f121f,EN Lynch,4d35d0b3,M Maguire,0441a1f5,0,0,0,0,0,,,,,,1,0,1
+1391708,2023,Jersey,4,A Aikenhead,007f121f,IJR Zwilling,47b32a5a,M Maguire,0441a1f5,0,0,0,0,0,,,,,,0,0,0
+1391708,2023,Jersey,4,A Aikenhead,007f121f,IJR Zwilling,47b32a5a,M Maguire,0441a1f5,0,0,0,0,0,,,,,,1,0,1
+1391708,2023,Jersey,4,M Maguire,0441a1f5,IJR Zwilling,47b32a5a,A Aikenhead,007f121f,0,0,0,0,0,,,,,,2,0,2
+1391708,2023,Jersey,4,M Maguire,0441a1f5,IJR Zwilling,47b32a5a,A Aikenhead,007f121f,0,0,0,0,0,,,,,,2,0,2
+1391708,2023,Jersey,4,M Maguire,0441a1f5,IJR Zwilling,47b32a5a,A Aikenhead,007f121f,0,0,0,0,0,,,,,,0,0,0
+1391708,2023,Jersey,4,M Maguire,0441a1f5,IJR Zwilling,47b32a5a,A Aikenhead,007f121f,0,0,0,0,0,,,,,,0,0,0
+1391708,2023,Jersey,5,A Aikenhead,007f121f,EN Lynch,4d35d0b3,M Maguire,0441a1f5,0,0,0,0,0,,,,,,1,0,1
+1391708,2023,Jersey,5,M Maguire,0441a1f5,EN Lynch,4d35d0b3,A Aikenhead,007f121f,0,0,0,0,0,,,,,,0,0,0
+1391708,2023,Jersey,5,M Maguire,0441a1f5,EN Lynch,4d35d0b3,A Aikenhead,007f121f,0,0,0,0,0,,,,,,0,0,0
+1391708,2023,Jersey,5,M Maguire,0441a1f5,EN Lynch,4d35d0b3,A Aikenhead,007f121f,0,0,0,0,0,,,,,,1,0,1
+1391708,2023,Jersey,5,A Aikenhead,007f121f,EN Lynch,4d35d0b3,M Maguire,0441a1f5,0,0,0,0,0,,,,,,0,0,0
+1391708,2023,Jersey,5,A Aikenhead,007f121f,EN Lynch,4d35d0b3,M Maguire,0441a1f5,0,0,0,0,0,,,,,,0,0,0
+1391708,2023,Jersey,6,M Maguire,0441a1f5,IJR Zwilling,47b32a5a,A Aikenhead,007f121f,0,0,0,0,0,,,,,,0,0,0
+1391708,2023,Jersey,6,M Maguire,0441a1f5,IJR Zwilling,47b32a5a,A Aikenhead,007f121f,0,0,0,0,0,,,,,,0,0,0
+1391708,2023,Jersey,6,M Maguire,0441a1f5,IJR Zwilling,47b32a5a,A Aikenhead,007f121f,0,0,0,0,0,,,,,,0,0,0
+1391708,2023,Jersey,6,M Maguire,0441a1f5,IJR Zwilling,47b32a5a,A Aikenhead,007f121f,0,0,0,0,0,,,,,,2,0,2
+1391708,2023,Jersey,6,M Maguire,0441a1f5,IJR Zwilling,47b32a5a,A Aikenhead,007f121f,0,0,0,0,0,,,,,,0,0,0
+1391708,2023,Jersey,6,M Maguire,0441a1f5,IJR Zwilling,47b32a5a,A Aikenhead,007f121f,0,0,0,0,0,,,,,,1,0,1
+1391708,2023,Jersey,7,M Maguire,0441a1f5,EN Lynch,4d35d0b3,A Aikenhead,007f121f,0,0,0,0,0,,,,,,0,0,0
+1391708,2023,Jersey,7,M Maguire,0441a1f5,EN Lynch,4d35d0b3,A Aikenhead,007f121f,0,0,0,0,0,,,,,,0,0,0
+1391708,2023,Jersey,7,M Maguire,0441a1f5,EN Lynch,4d35d0b3,A Aikenhead,007f121f,0,0,0,0,0,,,,,,1,0,1
+1391708,2023,Jersey,7,A Aikenhead,007f121f,EN Lynch,4d35d0b3,M Maguire,0441a1f5,0,0,0,0,0,,,,,,1,0,1
+1391708,2023,Jersey,7,M Maguire,0441a1f5,EN Lynch,4d35d0b3,A Aikenhead,007f121f,0,0,0,0,0,,,,,,1,0,1
+1391708,2023,Jersey,7,A Aikenhead,007f121f,EN Lynch,4d35d0b3,M Maguire,0441a1f5,0,0,0,0,0,,,,,,0,0,0
+1391708,2023,Jersey,8,M Maguire,0441a1f5,P Molkenboer,fa9db243,A Aikenhead,007f121f,0,0,0,0,0,,,,,,1,0,1
+1391708,2023,Jersey,8,A Aikenhead,007f121f,P Molkenboer,fa9db243,M Maguire,0441a1f5,0,0,0,0,0,,,,,,0,0,0
+1391708,2023,Jersey,8,A Aikenhead,007f121f,P Molkenboer,fa9db243,M Maguire,0441a1f5,0,0,0,0,0,,,,,,1,0,1
+1391708,2023,Jersey,8,M Maguire,0441a1f5,P Molkenboer,fa9db243,A Aikenhead,007f121f,0,0,0,0,0,,,,,,1,0,1
+1391708,2023,Jersey,8,A Aikenhead,007f121f,P Molkenboer,fa9db243,M Maguire,0441a1f5,0,0,0,0,0,,,,,,0,0,0
+1391708,2023,Jersey,8,A Aikenhead,007f121f,P Molkenboer,fa9db243,M Maguire,0441a1f5,0,0,0,0,0,,,,,,2,0,2
+1391708,2023,Jersey,9,M Maguire,0441a1f5,MM Dekeling,983a0c34,A Aikenhead,007f121f,0,0,0,0,0,,,,,,1,0,1
+1391708,2023,Jersey,9,A Aikenhead,007f121f,MM Dekeling,983a0c34,M Maguire,0441a1f5,0,0,0,0,0,,,,,,0,0,0
+1391708,2023,Jersey,9,A Aikenhead,007f121f,MM Dekeling,983a0c34,M Maguire,0441a1f5,0,0,0,0,1,A Aikenhead,007f121f,HWA Landheer,a6ec88f4,caught,0,0,0
+1391708,2023,Jersey,9,A Merritt,4c87bd01,MM Dekeling,983a0c34,M Maguire,0441a1f5,0,0,0,0,0,,,,,,2,0,2
+1391708,2023,Jersey,9,A Merritt,4c87bd01,MM Dekeling,983a0c34,M Maguire,0441a1f5,0,0,0,0,0,,,,,,0,0,0
+1391708,2023,Jersey,9,A Merritt,4c87bd01,MM Dekeling,983a0c34,M Maguire,0441a1f5,0,0,0,0,0,,,,,,4,0,4
+1391708,2023,Jersey,10,M Maguire,0441a1f5,P Molkenboer,fa9db243,A Merritt,4c87bd01,0,0,0,0,1,M Maguire,0441a1f5,HDJ Siegers,6d48df01,caught,0,0,0
+1391708,2023,Jersey,10,T Smith,f24ffaab,P Molkenboer,fa9db243,A Merritt,4c87bd01,0,0,0,0,0,,,,,,2,0,2
+1391708,2023,Jersey,10,T Smith,f24ffaab,P Molkenboer,fa9db243,A Merritt,4c87bd01,0,0,0,0,0,,,,,,0,0,0
+1391708,2023,Jersey,10,T Smith,f24ffaab,P Molkenboer,fa9db243,A Merritt,4c87bd01,0,0,0,0,0,,,,,,0,0,0
+1391708,2023,Jersey,10,T Smith,f24ffaab,P Molkenboer,fa9db243,A Merritt,4c87bd01,0,0,0,0,0,,,,,,0,0,0
+1391708,2023,Jersey,10,T Smith,f24ffaab,P Molkenboer,fa9db243,A Merritt,4c87bd01,0,0,0,0,0,,,,,,0,0,0
+1391708,2023,Jersey,11,A Merritt,4c87bd01,MM Dekeling,983a0c34,T Smith,f24ffaab,0,0,0,0,0,,,,,,1,0,1
+1391708,2023,Jersey,11,T Smith,f24ffaab,MM Dekeling,983a0c34,A Merritt,4c87bd01,0,0,0,0,1,A Merritt,4c87bd01,MM Dekeling,983a0c34,run out,0,0,0
+1391708,2023,Jersey,11,T Smith,f24ffaab,MM Dekeling,983a0c34,CM Greechan,569bbcbb,1,0,0,0,0,,,,,,0,1,1
+1391708,2023,Jersey,11,T Smith,f24ffaab,MM Dekeling,983a0c34,CM Greechan,569bbcbb,0,0,0,0,1,T Smith,f24ffaab,F Vermeire,a7ed8026,caught,0,0,0
+1391708,2023,Jersey,11,E Duffy,52bbb9e5,MM Dekeling,983a0c34,CM Greechan,569bbcbb,1,0,0,0,0,,,,,,0,1,1
+1391708,2023,Jersey,11,E Duffy,52bbb9e5,MM Dekeling,983a0c34,CM Greechan,569bbcbb,0,0,0,0,0,,,,,,0,0,0
+1391708,2023,Jersey,11,E Duffy,52bbb9e5,MM Dekeling,983a0c34,CM Greechan,569bbcbb,0,0,0,0,0,,,,,,3,0,3
+1391708,2023,Jersey,11,CM Greechan,569bbcbb,MM Dekeling,983a0c34,E Duffy,52bbb9e5,1,0,0,0,0,,,,,,0,1,1
+1391708,2023,Jersey,11,CM Greechan,569bbcbb,MM Dekeling,983a0c34,E Duffy,52bbb9e5,1,0,0,0,0,,,,,,0,1,1
+1391708,2023,Jersey,11,CM Greechan,569bbcbb,MM Dekeling,983a0c34,E Duffy,52bbb9e5,0,0,0,0,0,,,,,,0,0,0
+1391708,2023,Jersey,12,E Duffy,52bbb9e5,M Zwilling,560ef10a,CM Greechan,569bbcbb,0,0,0,0,0,,,,,,0,0,0
+1391708,2023,Jersey,12,E Duffy,52bbb9e5,M Zwilling,560ef10a,CM Greechan,569bbcbb,0,0,0,0,0,,,,,,0,0,0
+1391708,2023,Jersey,12,E Duffy,52bbb9e5,M Zwilling,560ef10a,CM Greechan,569bbcbb,0,0,0,0,0,,,,,,2,0,2
+1391708,2023,Jersey,12,E Duffy,52bbb9e5,M Zwilling,560ef10a,CM Greechan,569bbcbb,0,0,1,0,0,,,,,,0,1,1
+1391708,2023,Jersey,12,CM Greechan,569bbcbb,M Zwilling,560ef10a,E Duffy,52bbb9e5,0,0,0,0,0,,,,,,1,0,1
+1391708,2023,Jersey,12,E Duffy,52bbb9e5,M Zwilling,560ef10a,CM Greechan,569bbcbb,0,0,0,0,0,,,,,,1,0,1
+1391708,2023,Jersey,13,E Duffy,52bbb9e5,C de Lange,c6a019f5,CM Greechan,569bbcbb,0,0,0,0,0,,,,,,1,0,1
+1391708,2023,Jersey,13,CM Greechan,569bbcbb,C de Lange,c6a019f5,E Duffy,52bbb9e5,0,0,0,0,0,,,,,,1,0,1
+1391708,2023,Jersey,13,E Duffy,52bbb9e5,C de Lange,c6a019f5,CM Greechan,569bbcbb,0,0,0,0,0,,,,,,0,0,0
+1391708,2023,Jersey,13,E Duffy,52bbb9e5,C de Lange,c6a019f5,CM Greechan,569bbcbb,0,0,0,0,0,,,,,,1,0,1
+1391708,2023,Jersey,13,CM Greechan,569bbcbb,C de Lange,c6a019f5,E Duffy,52bbb9e5,0,0,0,0,0,,,,,,0,0,0
+1391708,2023,Jersey,13,CM Greechan,569bbcbb,C de Lange,c6a019f5,E Duffy,52bbb9e5,0,0,0,0,0,,,,,,1,0,1
+1391708,2023,Jersey,14,CM Greechan,569bbcbb,M Zwilling,560ef10a,E Duffy,52bbb9e5,0,0,0,0,0,,,,,,0,0,0
+1391708,2023,Jersey,14,CM Greechan,569bbcbb,M Zwilling,560ef10a,E Duffy,52bbb9e5,0,0,0,0,0,,,,,,0,0,0
+1391708,2023,Jersey,14,CM Greechan,569bbcbb,M Zwilling,560ef10a,E Duffy,52bbb9e5,0,0,0,0,0,,,,,,0,0,0
+1391708,2023,Jersey,14,CM Greechan,569bbcbb,M Zwilling,560ef10a,E Duffy,52bbb9e5,0,0,0,0,0,,,,,,1,0,1
+1391708,2023,Jersey,14,E Duffy,52bbb9e5,M Zwilling,560ef10a,CM Greechan,569bbcbb,0,0,0,0,0,,,,,,0,0,0
+1391708,2023,Jersey,14,E Duffy,52bbb9e5,M Zwilling,560ef10a,CM Greechan,569bbcbb,0,0,0,0,0,,,,,,0,0,0
+1391708,2023,Jersey,15,CM Greechan,569bbcbb,C de Lange,c6a019f5,E Duffy,52bbb9e5,0,0,0,0,0,,,,,,0,0,0
+1391708,2023,Jersey,15,CM Greechan,569bbcbb,C de Lange,c6a019f5,E Duffy,52bbb9e5,0,0,0,0,0,,,,,,1,0,1
+1391708,2023,Jersey,15,E Duffy,52bbb9e5,C de Lange,c6a019f5,CM Greechan,569bbcbb,0,0,0,0,0,,,,,,0,0,0
+1391708,2023,Jersey,15,E Duffy,52bbb9e5,C de Lange,c6a019f5,CM Greechan,569bbcbb,0,0,0,0,0,,,,,,1,0,1
+1391708,2023,Jersey,15,CM Greechan,569bbcbb,C de Lange,c6a019f5,E Duffy,52bbb9e5,0,0,0,0,0,,,,,,1,0,1
+1391708,2023,Jersey,15,E Duffy,52bbb9e5,C de Lange,c6a019f5,CM Greechan,569bbcbb,0,0,0,0,0,,,,,,1,0,1
+1391708,2023,Jersey,16,E Duffy,52bbb9e5,M Zwilling,560ef10a,CM Greechan,569bbcbb,0,0,0,0,0,,,,,,1,0,1
+1391708,2023,Jersey,16,CM Greechan,569bbcbb,M Zwilling,560ef10a,E Duffy,52bbb9e5,0,0,0,0,0,,,,,,0,0,0
+1391708,2023,Jersey,16,CM Greechan,569bbcbb,M Zwilling,560ef10a,E Duffy,52bbb9e5,1,0,0,0,0,,,,,,0,1,1
+1391708,2023,Jersey,16,CM Greechan,569bbcbb,M Zwilling,560ef10a,E Duffy,52bbb9e5,0,0,1,0,0,,,,,,0,1,1
+1391708,2023,Jersey,16,E Duffy,52bbb9e5,M Zwilling,560ef10a,CM Greechan,569bbcbb,0,0,0,0,0,,,,,,0,0,0
+1391708,2023,Jersey,16,E Duffy,52bbb9e5,M Zwilling,560ef10a,CM Greechan,569bbcbb,0,0,0,0,0,,,,,,1,0,1
+1391708,2023,Jersey,16,CM Greechan,569bbcbb,M Zwilling,560ef10a,E Duffy,52bbb9e5,0,0,0,0,0,,,,,,1,0,1
+1391708,2023,Jersey,17,CM Greechan,569bbcbb,C de Lange,c6a019f5,E Duffy,52bbb9e5,0,0,0,0,0,,,,,,1,0,1
+1391708,2023,Jersey,17,E Duffy,52bbb9e5,C de Lange,c6a019f5,CM Greechan,569bbcbb,0,0,0,0,0,,,,,,0,0,0
+1391708,2023,Jersey,17,E Duffy,52bbb9e5,C de Lange,c6a019f5,CM Greechan,569bbcbb,0,0,0,0,0,,,,,,2,0,2
+1391708,2023,Jersey,17,E Duffy,52bbb9e5,C de Lange,c6a019f5,CM Greechan,569bbcbb,0,0,0,0,0,,,,,,1,0,1
+1391708,2023,Jersey,17,CM Greechan,569bbcbb,C de Lange,c6a019f5,E Duffy,52bbb9e5,1,0,0,0,0,,,,,,0,1,1
+1391708,2023,Jersey,17,CM Greechan,569bbcbb,C de Lange,c6a019f5,E Duffy,52bbb9e5,0,0,0,0,0,,,,,,1,0,1
+1391708,2023,Jersey,17,E Duffy,52bbb9e5,C de Lange,c6a019f5,CM Greechan,569bbcbb,0,0,0,0,0,,,,,,1,0,1
+1391708,2023,Jersey,18,E Duffy,52bbb9e5,M Zwilling,560ef10a,CM Greechan,569bbcbb,0,0,0,0,0,,,,,,3,0,3
+1391708,2023,Jersey,18,CM Greechan,569bbcbb,M Zwilling,560ef10a,E Duffy,52bbb9e5,0,0,0,0,0,,,,,,0,0,0
+1391708,2023,Jersey,18,CM Greechan,569bbcbb,M Zwilling,560ef10a,E Duffy,52bbb9e5,0,0,0,0,0,,,,,,1,0,1
+1391708,2023,Jersey,18,E Duffy,52bbb9e5,M Zwilling,560ef10a,CM Greechan,569bbcbb,0,1,0,0,0,,,,,,1,1,2
+1391708,2023,Jersey,18,CM Greechan,569bbcbb,M Zwilling,560ef10a,E Duffy,52bbb9e5,1,0,0,0,0,,,,,,0,1,1
+1391708,2023,Jersey,18,CM Greechan,569bbcbb,M Zwilling,560ef10a,E Duffy,52bbb9e5,0,0,0,0,0,,,,,,1,0,1
+1391708,2023,Jersey,18,E Duffy,52bbb9e5,M Zwilling,560ef10a,CM Greechan,569bbcbb,0,0,0,0,0,,,,,,2,0,2
+1391708,2023,Jersey,18,E Duffy,52bbb9e5,M Zwilling,560ef10a,CM Greechan,569bbcbb,1,0,0,0,0,,,,,,0,1,1
+1391708,2023,Jersey,18,E Duffy,52bbb9e5,M Zwilling,560ef10a,CM Greechan,569bbcbb,3,0,0,0,0,,,,,,0,3,3
+1391708,2023,Jersey,18,E Duffy,52bbb9e5,M Zwilling,560ef10a,CM Greechan,569bbcbb,0,0,0,0,0,,,,,,0,0,0
+1391708,2023,Jersey,19,CM Greechan,569bbcbb,HWA Landheer,a6ec88f4,E Duffy,52bbb9e5,0,0,0,0,1,CM Greechan,569bbcbb,,,bowled,0,0,0
+1391708,2023,Jersey,19,E Gouge,e01e17ee,HWA Landheer,a6ec88f4,E Duffy,52bbb9e5,0,0,0,0,0,,,,,,0,0,0
+1391708,2023,Jersey,19,E Gouge,e01e17ee,HWA Landheer,a6ec88f4,E Duffy,52bbb9e5,0,0,0,0,0,,,,,,0,0,0
+1391708,2023,Jersey,19,E Gouge,e01e17ee,HWA Landheer,a6ec88f4,E Duffy,52bbb9e5,1,0,0,0,0,,,,,,0,1,1
+1391708,2023,Jersey,19,E Gouge,e01e17ee,HWA Landheer,a6ec88f4,E Duffy,52bbb9e5,1,0,0,0,0,,,,,,0,1,1
+1391708,2023,Jersey,19,E Gouge,e01e17ee,HWA Landheer,a6ec88f4,E Duffy,52bbb9e5,2,0,0,0,0,,,,,,0,2,2
+1391708,2023,Jersey,19,E Duffy,52bbb9e5,HWA Landheer,a6ec88f4,E Gouge,e01e17ee,0,0,0,0,0,,,,,,1,0,1
+1391708,2023,Jersey,19,E Gouge,e01e17ee,HWA Landheer,a6ec88f4,E Duffy,52bbb9e5,0,0,0,0,0,,,,,,0,0,0
+1391708,2023,Jersey,19,E Gouge,e01e17ee,HWA Landheer,a6ec88f4,E Duffy,52bbb9e5,0,1,0,2,0,,,,,,0,3,3
+1391708,2023,Jersey,19,E Gouge,e01e17ee,HWA Landheer,a6ec88f4,E Duffy,52bbb9e5,0,0,0,0,0,,,,,,0,0,0

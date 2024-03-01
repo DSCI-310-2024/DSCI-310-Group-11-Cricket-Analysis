@@ -1,0 +1,212 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1298170,2022/23,Pakistan,0,Mohammad Rizwan,2f26ac1a,WD Parnell,3a60e0b5,Babar Azam,8a75e999,0,0,0,0,0,,,,,,0,0,0
+1298170,2022/23,Pakistan,0,Mohammad Rizwan,2f26ac1a,WD Parnell,3a60e0b5,Babar Azam,8a75e999,0,0,0,0,0,,,,,,4,0,4
+1298170,2022/23,Pakistan,0,Mohammad Rizwan,2f26ac1a,WD Parnell,3a60e0b5,Babar Azam,8a75e999,0,0,0,0,0,,,,,,0,0,0
+1298170,2022/23,Pakistan,0,Mohammad Rizwan,2f26ac1a,WD Parnell,3a60e0b5,Babar Azam,8a75e999,0,0,0,0,1,Mohammad Rizwan,2f26ac1a,,,bowled,0,0,0
+1298170,2022/23,Pakistan,0,Mohammad Haris,ff3f6fc1,WD Parnell,3a60e0b5,Babar Azam,8a75e999,0,0,0,0,0,,,,,,0,0,0
+1298170,2022/23,Pakistan,0,Mohammad Haris,ff3f6fc1,WD Parnell,3a60e0b5,Babar Azam,8a75e999,0,0,0,0,0,,,,,,0,0,0
+1298170,2022/23,Pakistan,1,Babar Azam,8a75e999,K Rabada,e62dd25d,Mohammad Haris,ff3f6fc1,0,0,0,0,0,,,,,,0,0,0
+1298170,2022/23,Pakistan,1,Babar Azam,8a75e999,K Rabada,e62dd25d,Mohammad Haris,ff3f6fc1,0,0,0,0,0,,,,,,0,0,0
+1298170,2022/23,Pakistan,1,Babar Azam,8a75e999,K Rabada,e62dd25d,Mohammad Haris,ff3f6fc1,0,0,0,0,0,,,,,,1,0,1
+1298170,2022/23,Pakistan,1,Mohammad Haris,ff3f6fc1,K Rabada,e62dd25d,Babar Azam,8a75e999,0,0,0,0,0,,,,,,6,0,6
+1298170,2022/23,Pakistan,1,Mohammad Haris,ff3f6fc1,K Rabada,e62dd25d,Babar Azam,8a75e999,0,0,0,0,0,,,,,,6,0,6
+1298170,2022/23,Pakistan,1,Mohammad Haris,ff3f6fc1,K Rabada,e62dd25d,Babar Azam,8a75e999,0,0,0,0,0,,,,,,4,0,4
+1298170,2022/23,Pakistan,2,Babar Azam,8a75e999,WD Parnell,3a60e0b5,Mohammad Haris,ff3f6fc1,0,0,0,0,0,,,,,,0,0,0
+1298170,2022/23,Pakistan,2,Babar Azam,8a75e999,WD Parnell,3a60e0b5,Mohammad Haris,ff3f6fc1,0,0,0,0,0,,,,,,0,0,0
+1298170,2022/23,Pakistan,2,Babar Azam,8a75e999,WD Parnell,3a60e0b5,Mohammad Haris,ff3f6fc1,0,0,0,0,0,,,,,,0,0,0
+1298170,2022/23,Pakistan,2,Babar Azam,8a75e999,WD Parnell,3a60e0b5,Mohammad Haris,ff3f6fc1,0,0,0,0,0,,,,,,1,0,1
+1298170,2022/23,Pakistan,2,Mohammad Haris,ff3f6fc1,WD Parnell,3a60e0b5,Babar Azam,8a75e999,0,0,0,0,0,,,,,,4,0,4
+1298170,2022/23,Pakistan,2,Mohammad Haris,ff3f6fc1,WD Parnell,3a60e0b5,Babar Azam,8a75e999,0,0,0,0,0,,,,,,1,0,1
+1298170,2022/23,Pakistan,3,Mohammad Haris,ff3f6fc1,L Ngidi,f834dcfc,Babar Azam,8a75e999,0,0,0,0,0,,,,,,1,0,1
+1298170,2022/23,Pakistan,3,Babar Azam,8a75e999,L Ngidi,f834dcfc,Mohammad Haris,ff3f6fc1,0,0,0,0,0,,,,,,0,0,0
+1298170,2022/23,Pakistan,3,Babar Azam,8a75e999,L Ngidi,f834dcfc,Mohammad Haris,ff3f6fc1,0,0,0,0,0,,,,,,0,0,0
+1298170,2022/23,Pakistan,3,Babar Azam,8a75e999,L Ngidi,f834dcfc,Mohammad Haris,ff3f6fc1,0,0,0,0,0,,,,,,2,0,2
+1298170,2022/23,Pakistan,3,Babar Azam,8a75e999,L Ngidi,f834dcfc,Mohammad Haris,ff3f6fc1,0,0,0,0,0,,,,,,0,0,0
+1298170,2022/23,Pakistan,3,Babar Azam,8a75e999,L Ngidi,f834dcfc,Mohammad Haris,ff3f6fc1,0,0,0,0,0,,,,,,1,0,1
+1298170,2022/23,Pakistan,4,Babar Azam,8a75e999,A Nortje,acdc62f5,Mohammad Haris,ff3f6fc1,0,0,0,0,0,,,,,,1,0,1
+1298170,2022/23,Pakistan,4,Mohammad Haris,ff3f6fc1,A Nortje,acdc62f5,Babar Azam,8a75e999,0,0,0,0,0,,,,,,0,0,0
+1298170,2022/23,Pakistan,4,Mohammad Haris,ff3f6fc1,A Nortje,acdc62f5,Babar Azam,8a75e999,0,0,0,0,0,,,,,,6,0,6
+1298170,2022/23,Pakistan,4,Mohammad Haris,ff3f6fc1,A Nortje,acdc62f5,Babar Azam,8a75e999,0,0,0,0,1,Mohammad Haris,ff3f6fc1,,,lbw,0,0,0
+1298170,2022/23,Pakistan,4,Shan Masood,6843a783,A Nortje,acdc62f5,Babar Azam,8a75e999,0,0,0,0,0,,,,,,0,0,0
+1298170,2022/23,Pakistan,4,Shan Masood,6843a783,A Nortje,acdc62f5,Babar Azam,8a75e999,0,0,0,0,0,,,,,,2,0,2
+1298170,2022/23,Pakistan,5,Babar Azam,8a75e999,L Ngidi,f834dcfc,Shan Masood,6843a783,0,0,0,0,0,,,,,,0,0,0
+1298170,2022/23,Pakistan,5,Babar Azam,8a75e999,L Ngidi,f834dcfc,Shan Masood,6843a783,0,0,0,0,1,Babar Azam,8a75e999,K Rabada,e62dd25d,caught,0,0,0
+1298170,2022/23,Pakistan,5,Iftikhar Ahmed,29e253dd,L Ngidi,f834dcfc,Shan Masood,6843a783,0,0,0,0,0,,,,,,0,0,0
+1298170,2022/23,Pakistan,5,Iftikhar Ahmed,29e253dd,L Ngidi,f834dcfc,Shan Masood,6843a783,0,0,0,0,0,,,,,,1,0,1
+1298170,2022/23,Pakistan,5,Shan Masood,6843a783,L Ngidi,f834dcfc,Iftikhar Ahmed,29e253dd,1,0,0,0,0,,,,,,0,1,1
+1298170,2022/23,Pakistan,5,Shan Masood,6843a783,L Ngidi,f834dcfc,Iftikhar Ahmed,29e253dd,0,0,0,0,0,,,,,,0,0,0
+1298170,2022/23,Pakistan,5,Shan Masood,6843a783,L Ngidi,f834dcfc,Iftikhar Ahmed,29e253dd,0,0,0,0,0,,,,,,0,0,0
+1298170,2022/23,Pakistan,6,Iftikhar Ahmed,29e253dd,A Nortje,acdc62f5,Shan Masood,6843a783,0,0,0,0,0,,,,,,1,0,1
+1298170,2022/23,Pakistan,6,Shan Masood,6843a783,A Nortje,acdc62f5,Iftikhar Ahmed,29e253dd,0,0,0,0,0,,,,,,0,0,0
+1298170,2022/23,Pakistan,6,Shan Masood,6843a783,A Nortje,acdc62f5,Iftikhar Ahmed,29e253dd,0,0,0,0,1,Shan Masood,6843a783,T Bavuma,9ffd1ac1,caught,0,0,0
+1298170,2022/23,Pakistan,6,Mohammad Nawaz,3086f7a4,A Nortje,acdc62f5,Iftikhar Ahmed,29e253dd,0,0,0,0,0,,,,,,0,0,0
+1298170,2022/23,Pakistan,6,Mohammad Nawaz,3086f7a4,A Nortje,acdc62f5,Iftikhar Ahmed,29e253dd,0,0,0,0,0,,,,,,0,0,0
+1298170,2022/23,Pakistan,6,Mohammad Nawaz,3086f7a4,A Nortje,acdc62f5,Iftikhar Ahmed,29e253dd,0,0,0,0,0,,,,,,0,0,0
+1298170,2022/23,Pakistan,7,Iftikhar Ahmed,29e253dd,K Rabada,e62dd25d,Mohammad Nawaz,3086f7a4,0,0,0,0,0,,,,,,1,0,1
+1298170,2022/23,Pakistan,7,Mohammad Nawaz,3086f7a4,K Rabada,e62dd25d,Iftikhar Ahmed,29e253dd,0,0,0,0,0,,,,,,0,0,0
+1298170,2022/23,Pakistan,7,Mohammad Nawaz,3086f7a4,K Rabada,e62dd25d,Iftikhar Ahmed,29e253dd,0,0,0,0,0,,,,,,4,0,4
+1298170,2022/23,Pakistan,7,Mohammad Nawaz,3086f7a4,K Rabada,e62dd25d,Iftikhar Ahmed,29e253dd,0,0,0,0,0,,,,,,1,0,1
+1298170,2022/23,Pakistan,7,Iftikhar Ahmed,29e253dd,K Rabada,e62dd25d,Mohammad Nawaz,3086f7a4,0,0,0,0,0,,,,,,1,0,1
+1298170,2022/23,Pakistan,7,Mohammad Nawaz,3086f7a4,K Rabada,e62dd25d,Iftikhar Ahmed,29e253dd,0,0,0,0,0,,,,,,0,0,0
+1298170,2022/23,Pakistan,8,Iftikhar Ahmed,29e253dd,T Shamsi,a03bba42,Mohammad Nawaz,3086f7a4,0,0,0,0,0,,,,,,0,0,0
+1298170,2022/23,Pakistan,8,Iftikhar Ahmed,29e253dd,T Shamsi,a03bba42,Mohammad Nawaz,3086f7a4,0,0,0,0,0,,,,,,1,0,1
+1298170,2022/23,Pakistan,8,Mohammad Nawaz,3086f7a4,T Shamsi,a03bba42,Iftikhar Ahmed,29e253dd,0,0,0,0,0,,,,,,1,0,1
+1298170,2022/23,Pakistan,8,Iftikhar Ahmed,29e253dd,T Shamsi,a03bba42,Mohammad Nawaz,3086f7a4,0,0,0,0,0,,,,,,1,0,1
+1298170,2022/23,Pakistan,8,Mohammad Nawaz,3086f7a4,T Shamsi,a03bba42,Iftikhar Ahmed,29e253dd,0,0,0,0,0,,,,,,1,0,1
+1298170,2022/23,Pakistan,8,Iftikhar Ahmed,29e253dd,T Shamsi,a03bba42,Mohammad Nawaz,3086f7a4,0,0,0,0,0,,,,,,1,0,1
+1298170,2022/23,Pakistan,9,Iftikhar Ahmed,29e253dd,K Rabada,e62dd25d,Mohammad Nawaz,3086f7a4,0,0,0,0,0,,,,,,4,0,4
+1298170,2022/23,Pakistan,9,Iftikhar Ahmed,29e253dd,K Rabada,e62dd25d,Mohammad Nawaz,3086f7a4,0,0,0,0,0,,,,,,2,0,2
+1298170,2022/23,Pakistan,9,Iftikhar Ahmed,29e253dd,K Rabada,e62dd25d,Mohammad Nawaz,3086f7a4,0,0,0,0,0,,,,,,4,0,4
+1298170,2022/23,Pakistan,9,Iftikhar Ahmed,29e253dd,K Rabada,e62dd25d,Mohammad Nawaz,3086f7a4,0,0,0,0,0,,,,,,1,0,1
+1298170,2022/23,Pakistan,9,Mohammad Nawaz,3086f7a4,K Rabada,e62dd25d,Iftikhar Ahmed,29e253dd,0,0,1,0,0,,,,,,0,1,1
+1298170,2022/23,Pakistan,9,Iftikhar Ahmed,29e253dd,K Rabada,e62dd25d,Mohammad Nawaz,3086f7a4,0,0,0,0,0,,,,,,1,0,1
+1298170,2022/23,Pakistan,10,Iftikhar Ahmed,29e253dd,T Shamsi,a03bba42,Mohammad Nawaz,3086f7a4,0,0,0,0,0,,,,,,1,0,1
+1298170,2022/23,Pakistan,10,Mohammad Nawaz,3086f7a4,T Shamsi,a03bba42,Iftikhar Ahmed,29e253dd,0,0,0,0,0,,,,,,0,0,0
+1298170,2022/23,Pakistan,10,Mohammad Nawaz,3086f7a4,T Shamsi,a03bba42,Iftikhar Ahmed,29e253dd,0,0,0,0,0,,,,,,1,0,1
+1298170,2022/23,Pakistan,10,Iftikhar Ahmed,29e253dd,T Shamsi,a03bba42,Mohammad Nawaz,3086f7a4,0,0,0,0,0,,,,,,0,0,0
+1298170,2022/23,Pakistan,10,Iftikhar Ahmed,29e253dd,T Shamsi,a03bba42,Mohammad Nawaz,3086f7a4,0,0,0,0,0,,,,,,0,0,0
+1298170,2022/23,Pakistan,10,Iftikhar Ahmed,29e253dd,T Shamsi,a03bba42,Mohammad Nawaz,3086f7a4,0,0,0,0,0,,,,,,1,0,1
+1298170,2022/23,Pakistan,11,Iftikhar Ahmed,29e253dd,L Ngidi,f834dcfc,Mohammad Nawaz,3086f7a4,0,0,0,0,0,,,,,,1,0,1
+1298170,2022/23,Pakistan,11,Mohammad Nawaz,3086f7a4,L Ngidi,f834dcfc,Iftikhar Ahmed,29e253dd,0,0,0,0,0,,,,,,0,0,0
+1298170,2022/23,Pakistan,11,Mohammad Nawaz,3086f7a4,L Ngidi,f834dcfc,Iftikhar Ahmed,29e253dd,0,0,0,0,0,,,,,,0,0,0
+1298170,2022/23,Pakistan,11,Mohammad Nawaz,3086f7a4,L Ngidi,f834dcfc,Iftikhar Ahmed,29e253dd,0,0,0,0,0,,,,,,2,0,2
+1298170,2022/23,Pakistan,11,Mohammad Nawaz,3086f7a4,L Ngidi,f834dcfc,Iftikhar Ahmed,29e253dd,0,0,0,0,0,,,,,,4,0,4
+1298170,2022/23,Pakistan,11,Mohammad Nawaz,3086f7a4,L Ngidi,f834dcfc,Iftikhar Ahmed,29e253dd,0,0,0,0,0,,,,,,4,0,4
+1298170,2022/23,Pakistan,12,Iftikhar Ahmed,29e253dd,T Shamsi,a03bba42,Mohammad Nawaz,3086f7a4,1,0,0,0,0,,,,,,0,1,1
+1298170,2022/23,Pakistan,12,Iftikhar Ahmed,29e253dd,T Shamsi,a03bba42,Mohammad Nawaz,3086f7a4,0,0,0,0,0,,,,,,1,0,1
+1298170,2022/23,Pakistan,12,Mohammad Nawaz,3086f7a4,T Shamsi,a03bba42,Iftikhar Ahmed,29e253dd,0,0,0,0,0,,,,,,0,0,0
+1298170,2022/23,Pakistan,12,Mohammad Nawaz,3086f7a4,T Shamsi,a03bba42,Iftikhar Ahmed,29e253dd,0,0,0,0,0,,,,,,4,0,4
+1298170,2022/23,Pakistan,12,Mohammad Nawaz,3086f7a4,T Shamsi,a03bba42,Iftikhar Ahmed,29e253dd,1,0,0,0,0,,,,,,0,1,1
+1298170,2022/23,Pakistan,12,Mohammad Nawaz,3086f7a4,T Shamsi,a03bba42,Iftikhar Ahmed,29e253dd,0,0,0,0,0,,,,,,0,0,0
+1298170,2022/23,Pakistan,12,Mohammad Nawaz,3086f7a4,T Shamsi,a03bba42,Iftikhar Ahmed,29e253dd,0,0,0,0,0,,,,,,6,0,6
+1298170,2022/23,Pakistan,12,Mohammad Nawaz,3086f7a4,T Shamsi,a03bba42,Iftikhar Ahmed,29e253dd,0,0,0,0,1,Mohammad Nawaz,3086f7a4,,,lbw,0,0,0
+1298170,2022/23,Pakistan,13,Iftikhar Ahmed,29e253dd,WD Parnell,3a60e0b5,Shadab Khan,9de62878,0,0,0,0,0,,,,,,6,0,6
+1298170,2022/23,Pakistan,13,Iftikhar Ahmed,29e253dd,WD Parnell,3a60e0b5,Shadab Khan,9de62878,0,0,0,0,0,,,,,,1,0,1
+1298170,2022/23,Pakistan,13,Shadab Khan,9de62878,WD Parnell,3a60e0b5,Iftikhar Ahmed,29e253dd,0,0,0,0,0,,,,,,1,0,1
+1298170,2022/23,Pakistan,13,Iftikhar Ahmed,29e253dd,WD Parnell,3a60e0b5,Shadab Khan,9de62878,0,0,0,0,0,,,,,,1,0,1
+1298170,2022/23,Pakistan,13,Shadab Khan,9de62878,WD Parnell,3a60e0b5,Iftikhar Ahmed,29e253dd,0,0,0,0,0,,,,,,0,0,0
+1298170,2022/23,Pakistan,13,Shadab Khan,9de62878,WD Parnell,3a60e0b5,Iftikhar Ahmed,29e253dd,0,0,0,0,0,,,,,,1,0,1
+1298170,2022/23,Pakistan,14,Shadab Khan,9de62878,T Shamsi,a03bba42,Iftikhar Ahmed,29e253dd,0,0,0,0,0,,,,,,4,0,4
+1298170,2022/23,Pakistan,14,Shadab Khan,9de62878,T Shamsi,a03bba42,Iftikhar Ahmed,29e253dd,0,0,0,0,0,,,,,,0,0,0
+1298170,2022/23,Pakistan,14,Shadab Khan,9de62878,T Shamsi,a03bba42,Iftikhar Ahmed,29e253dd,0,0,0,0,0,,,,,,2,0,2
+1298170,2022/23,Pakistan,14,Shadab Khan,9de62878,T Shamsi,a03bba42,Iftikhar Ahmed,29e253dd,0,0,0,0,0,,,,,,6,0,6
+1298170,2022/23,Pakistan,14,Shadab Khan,9de62878,T Shamsi,a03bba42,Iftikhar Ahmed,29e253dd,0,0,0,0,0,,,,,,1,0,1
+1298170,2022/23,Pakistan,14,Iftikhar Ahmed,29e253dd,T Shamsi,a03bba42,Shadab Khan,9de62878,0,0,0,0,0,,,,,,2,0,2
+1298170,2022/23,Pakistan,15,Shadab Khan,9de62878,L Ngidi,f834dcfc,Iftikhar Ahmed,29e253dd,0,0,0,0,0,,,,,,2,0,2
+1298170,2022/23,Pakistan,15,Shadab Khan,9de62878,L Ngidi,f834dcfc,Iftikhar Ahmed,29e253dd,0,0,0,0,0,,,,,,1,0,1
+1298170,2022/23,Pakistan,15,Iftikhar Ahmed,29e253dd,L Ngidi,f834dcfc,Shadab Khan,9de62878,0,0,0,0,0,,,,,,0,0,0
+1298170,2022/23,Pakistan,15,Iftikhar Ahmed,29e253dd,L Ngidi,f834dcfc,Shadab Khan,9de62878,0,0,0,0,0,,,,,,6,0,6
+1298170,2022/23,Pakistan,15,Iftikhar Ahmed,29e253dd,L Ngidi,f834dcfc,Shadab Khan,9de62878,1,0,0,0,0,,,,,,0,1,1
+1298170,2022/23,Pakistan,15,Iftikhar Ahmed,29e253dd,L Ngidi,f834dcfc,Shadab Khan,9de62878,0,0,0,0,0,,,,,,1,0,1
+1298170,2022/23,Pakistan,15,Shadab Khan,9de62878,L Ngidi,f834dcfc,Iftikhar Ahmed,29e253dd,0,0,0,0,0,,,,,,4,0,4
+1298170,2022/23,Pakistan,16,Iftikhar Ahmed,29e253dd,A Nortje,acdc62f5,Shadab Khan,9de62878,0,0,0,0,0,,,,,,1,0,1
+1298170,2022/23,Pakistan,16,Shadab Khan,9de62878,A Nortje,acdc62f5,Iftikhar Ahmed,29e253dd,0,0,0,0,0,,,,,,0,0,0
+1298170,2022/23,Pakistan,16,Shadab Khan,9de62878,A Nortje,acdc62f5,Iftikhar Ahmed,29e253dd,0,0,0,0,0,,,,,,4,0,4
+1298170,2022/23,Pakistan,16,Shadab Khan,9de62878,A Nortje,acdc62f5,Iftikhar Ahmed,29e253dd,0,0,0,0,0,,,,,,6,0,6
+1298170,2022/23,Pakistan,16,Shadab Khan,9de62878,A Nortje,acdc62f5,Iftikhar Ahmed,29e253dd,0,0,0,0,0,,,,,,1,0,1
+1298170,2022/23,Pakistan,16,Iftikhar Ahmed,29e253dd,A Nortje,acdc62f5,Shadab Khan,9de62878,0,0,0,0,0,,,,,,1,0,1
+1298170,2022/23,Pakistan,17,Iftikhar Ahmed,29e253dd,WD Parnell,3a60e0b5,Shadab Khan,9de62878,0,0,0,0,0,,,,,,4,0,4
+1298170,2022/23,Pakistan,17,Iftikhar Ahmed,29e253dd,WD Parnell,3a60e0b5,Shadab Khan,9de62878,0,0,0,0,0,,,,,,1,0,1
+1298170,2022/23,Pakistan,17,Shadab Khan,9de62878,WD Parnell,3a60e0b5,Iftikhar Ahmed,29e253dd,0,0,0,0,0,,,,,,2,0,2
+1298170,2022/23,Pakistan,17,Shadab Khan,9de62878,WD Parnell,3a60e0b5,Iftikhar Ahmed,29e253dd,0,0,0,0,0,,,,,,0,0,0
+1298170,2022/23,Pakistan,17,Shadab Khan,9de62878,WD Parnell,3a60e0b5,Iftikhar Ahmed,29e253dd,0,0,0,0,0,,,,,,3,0,3
+1298170,2022/23,Pakistan,17,Iftikhar Ahmed,29e253dd,WD Parnell,3a60e0b5,Shadab Khan,9de62878,0,0,0,0,0,,,,,,1,0,1
+1298170,2022/23,Pakistan,18,Iftikhar Ahmed,29e253dd,A Nortje,acdc62f5,Shadab Khan,9de62878,0,0,0,0,0,,,,,,2,0,2
+1298170,2022/23,Pakistan,18,Iftikhar Ahmed,29e253dd,A Nortje,acdc62f5,Shadab Khan,9de62878,0,0,0,0,0,,,,,,1,0,1
+1298170,2022/23,Pakistan,18,Shadab Khan,9de62878,A Nortje,acdc62f5,Iftikhar Ahmed,29e253dd,0,1,0,0,0,,,,,,6,1,7
+1298170,2022/23,Pakistan,18,Shadab Khan,9de62878,A Nortje,acdc62f5,Iftikhar Ahmed,29e253dd,0,0,0,0,0,,,,,,6,0,6
+1298170,2022/23,Pakistan,18,Shadab Khan,9de62878,A Nortje,acdc62f5,Iftikhar Ahmed,29e253dd,0,0,0,0,0,,,,,,2,0,2
+1298170,2022/23,Pakistan,18,Shadab Khan,9de62878,A Nortje,acdc62f5,Iftikhar Ahmed,29e253dd,0,0,0,0,1,Shadab Khan,9de62878,T Stubbs,85b3fab2,caught,0,0,0
+1298170,2022/23,Pakistan,18,Mohammad Wasim,9e9af5f2,A Nortje,acdc62f5,Iftikhar Ahmed,29e253dd,0,0,0,0,1,Mohammad Wasim,9e9af5f2,T Bavuma,9ffd1ac1,caught,0,0,0
+1298170,2022/23,Pakistan,19,Iftikhar Ahmed,29e253dd,K Rabada,e62dd25d,Naseem Shah,9c9af282,0,0,0,0,1,Iftikhar Ahmed,29e253dd,RR Rossouw,cad00a4d,caught,0,0,0
+1298170,2022/23,Pakistan,19,Haris Rauf,24bb1c2f,K Rabada,e62dd25d,Naseem Shah,9c9af282,0,0,0,0,0,,,,,,1,0,1
+1298170,2022/23,Pakistan,19,Naseem Shah,9c9af282,K Rabada,e62dd25d,Haris Rauf,24bb1c2f,0,0,0,0,0,,,,,,2,0,2
+1298170,2022/23,Pakistan,19,Naseem Shah,9c9af282,K Rabada,e62dd25d,Haris Rauf,24bb1c2f,0,0,0,0,0,,,,,,0,0,0
+1298170,2022/23,Pakistan,19,Naseem Shah,9c9af282,K Rabada,e62dd25d,Haris Rauf,24bb1c2f,0,0,0,0,0,,,,,,3,0,3
+1298170,2022/23,Pakistan,19,Haris Rauf,24bb1c2f,K Rabada,e62dd25d,Naseem Shah,9c9af282,0,0,0,0,1,Haris Rauf,24bb1c2f,T Bavuma,9ffd1ac1,run out,2,0,2
+1298170,2022/23,South Africa,0,T Bavuma,9ffd1ac1,Shaheen Shah Afridi,45a7e761,Q de Kock,372455c4,0,0,0,0,0,,,,,,1,0,1
+1298170,2022/23,South Africa,0,Q de Kock,372455c4,Shaheen Shah Afridi,45a7e761,T Bavuma,9ffd1ac1,0,0,0,0,0,,,,,,0,0,0
+1298170,2022/23,South Africa,0,Q de Kock,372455c4,Shaheen Shah Afridi,45a7e761,T Bavuma,9ffd1ac1,0,0,0,0,0,,,,,,0,0,0
+1298170,2022/23,South Africa,0,Q de Kock,372455c4,Shaheen Shah Afridi,45a7e761,T Bavuma,9ffd1ac1,0,0,0,0,0,,,,,,0,0,0
+1298170,2022/23,South Africa,0,Q de Kock,372455c4,Shaheen Shah Afridi,45a7e761,T Bavuma,9ffd1ac1,0,0,0,0,0,,,,,,0,0,0
+1298170,2022/23,South Africa,0,Q de Kock,372455c4,Shaheen Shah Afridi,45a7e761,T Bavuma,9ffd1ac1,0,0,0,0,1,Q de Kock,372455c4,Mohammad Haris,ff3f6fc1,caught,0,0,0
+1298170,2022/23,South Africa,1,T Bavuma,9ffd1ac1,Naseem Shah,9c9af282,RR Rossouw,cad00a4d,1,0,0,0,0,,,,,,0,1,1
+1298170,2022/23,South Africa,1,T Bavuma,9ffd1ac1,Naseem Shah,9c9af282,RR Rossouw,cad00a4d,0,0,0,0,0,,,,,,1,0,1
+1298170,2022/23,South Africa,1,RR Rossouw,cad00a4d,Naseem Shah,9c9af282,T Bavuma,9ffd1ac1,0,0,0,0,0,,,,,,0,0,0
+1298170,2022/23,South Africa,1,RR Rossouw,cad00a4d,Naseem Shah,9c9af282,T Bavuma,9ffd1ac1,0,0,0,0,0,,,,,,6,0,6
+1298170,2022/23,South Africa,1,RR Rossouw,cad00a4d,Naseem Shah,9c9af282,T Bavuma,9ffd1ac1,0,0,0,0,0,,,,,,1,0,1
+1298170,2022/23,South Africa,1,T Bavuma,9ffd1ac1,Naseem Shah,9c9af282,RR Rossouw,cad00a4d,0,0,0,0,0,,,,,,4,0,4
+1298170,2022/23,South Africa,1,T Bavuma,9ffd1ac1,Naseem Shah,9c9af282,RR Rossouw,cad00a4d,0,0,0,0,0,,,,,,1,0,1
+1298170,2022/23,South Africa,2,T Bavuma,9ffd1ac1,Shaheen Shah Afridi,45a7e761,RR Rossouw,cad00a4d,0,0,0,0,0,,,,,,1,0,1
+1298170,2022/23,South Africa,2,RR Rossouw,cad00a4d,Shaheen Shah Afridi,45a7e761,T Bavuma,9ffd1ac1,0,0,0,0,0,,,,,,0,0,0
+1298170,2022/23,South Africa,2,RR Rossouw,cad00a4d,Shaheen Shah Afridi,45a7e761,T Bavuma,9ffd1ac1,0,0,0,0,0,,,,,,0,0,0
+1298170,2022/23,South Africa,2,RR Rossouw,cad00a4d,Shaheen Shah Afridi,45a7e761,T Bavuma,9ffd1ac1,0,0,0,0,1,RR Rossouw,cad00a4d,Naseem Shah,9c9af282,caught,0,0,0
+1298170,2022/23,South Africa,2,AK Markram,6a26221c,Shaheen Shah Afridi,45a7e761,T Bavuma,9ffd1ac1,0,0,0,0,0,,,,,,0,0,0
+1298170,2022/23,South Africa,2,AK Markram,6a26221c,Shaheen Shah Afridi,45a7e761,T Bavuma,9ffd1ac1,0,0,0,0,0,,,,,,0,0,0
+1298170,2022/23,South Africa,3,T Bavuma,9ffd1ac1,Haris Rauf,24bb1c2f,AK Markram,6a26221c,0,0,0,0,0,,,,,,4,0,4
+1298170,2022/23,South Africa,3,T Bavuma,9ffd1ac1,Haris Rauf,24bb1c2f,AK Markram,6a26221c,0,0,0,0,0,,,,,,2,0,2
+1298170,2022/23,South Africa,3,T Bavuma,9ffd1ac1,Haris Rauf,24bb1c2f,AK Markram,6a26221c,1,0,0,0,0,,,,,,0,1,1
+1298170,2022/23,South Africa,3,T Bavuma,9ffd1ac1,Haris Rauf,24bb1c2f,AK Markram,6a26221c,0,0,0,0,0,,,,,,4,0,4
+1298170,2022/23,South Africa,3,T Bavuma,9ffd1ac1,Haris Rauf,24bb1c2f,AK Markram,6a26221c,0,0,0,0,0,,,,,,1,0,1
+1298170,2022/23,South Africa,3,AK Markram,6a26221c,Haris Rauf,24bb1c2f,T Bavuma,9ffd1ac1,0,0,0,0,0,,,,,,4,0,4
+1298170,2022/23,South Africa,3,AK Markram,6a26221c,Haris Rauf,24bb1c2f,T Bavuma,9ffd1ac1,0,0,0,0,0,,,,,,4,0,4
+1298170,2022/23,South Africa,4,T Bavuma,9ffd1ac1,Naseem Shah,9c9af282,AK Markram,6a26221c,0,0,0,0,0,,,,,,1,0,1
+1298170,2022/23,South Africa,4,AK Markram,6a26221c,Naseem Shah,9c9af282,T Bavuma,9ffd1ac1,0,0,0,0,0,,,,,,0,0,0
+1298170,2022/23,South Africa,4,AK Markram,6a26221c,Naseem Shah,9c9af282,T Bavuma,9ffd1ac1,0,0,0,0,0,,,,,,0,0,0
+1298170,2022/23,South Africa,4,AK Markram,6a26221c,Naseem Shah,9c9af282,T Bavuma,9ffd1ac1,0,0,0,0,0,,,,,,2,0,2
+1298170,2022/23,South Africa,4,AK Markram,6a26221c,Naseem Shah,9c9af282,T Bavuma,9ffd1ac1,0,0,0,0,0,,,,,,0,0,0
+1298170,2022/23,South Africa,4,AK Markram,6a26221c,Naseem Shah,9c9af282,T Bavuma,9ffd1ac1,0,0,0,0,0,,,,,,0,0,0
+1298170,2022/23,South Africa,5,T Bavuma,9ffd1ac1,Mohammad Wasim,9e9af5f2,AK Markram,6a26221c,0,0,0,0,0,,,,,,4,0,4
+1298170,2022/23,South Africa,5,T Bavuma,9ffd1ac1,Mohammad Wasim,9e9af5f2,AK Markram,6a26221c,0,0,0,0,0,,,,,,0,0,0
+1298170,2022/23,South Africa,5,T Bavuma,9ffd1ac1,Mohammad Wasim,9e9af5f2,AK Markram,6a26221c,0,0,0,0,0,,,,,,1,0,1
+1298170,2022/23,South Africa,5,AK Markram,6a26221c,Mohammad Wasim,9e9af5f2,T Bavuma,9ffd1ac1,0,0,0,0,0,,,,,,1,0,1
+1298170,2022/23,South Africa,5,T Bavuma,9ffd1ac1,Mohammad Wasim,9e9af5f2,AK Markram,6a26221c,0,0,0,0,0,,,,,,2,0,2
+1298170,2022/23,South Africa,5,T Bavuma,9ffd1ac1,Mohammad Wasim,9e9af5f2,AK Markram,6a26221c,0,0,0,0,0,,,,,,1,0,1
+1298170,2022/23,South Africa,6,T Bavuma,9ffd1ac1,Haris Rauf,24bb1c2f,AK Markram,6a26221c,0,0,0,0,0,,,,,,6,0,6
+1298170,2022/23,South Africa,6,T Bavuma,9ffd1ac1,Haris Rauf,24bb1c2f,AK Markram,6a26221c,0,0,0,0,0,,,,,,1,0,1
+1298170,2022/23,South Africa,6,AK Markram,6a26221c,Haris Rauf,24bb1c2f,T Bavuma,9ffd1ac1,0,0,0,0,0,,,,,,4,0,4
+1298170,2022/23,South Africa,6,AK Markram,6a26221c,Haris Rauf,24bb1c2f,T Bavuma,9ffd1ac1,0,0,0,0,0,,,,,,1,0,1
+1298170,2022/23,South Africa,6,T Bavuma,9ffd1ac1,Haris Rauf,24bb1c2f,AK Markram,6a26221c,0,0,0,0,0,,,,,,1,0,1
+1298170,2022/23,South Africa,6,AK Markram,6a26221c,Haris Rauf,24bb1c2f,T Bavuma,9ffd1ac1,0,0,0,0,0,,,,,,4,0,4
+1298170,2022/23,South Africa,7,T Bavuma,9ffd1ac1,Shadab Khan,9de62878,AK Markram,6a26221c,0,0,0,0,1,T Bavuma,9ffd1ac1,Mohammad Rizwan,2f26ac1a,caught,0,0,0
+1298170,2022/23,South Africa,7,H Klaasen,235c2bb6,Shadab Khan,9de62878,AK Markram,6a26221c,0,0,0,0,0,,,,,,1,0,1
+1298170,2022/23,South Africa,7,AK Markram,6a26221c,Shadab Khan,9de62878,H Klaasen,235c2bb6,0,0,0,0,1,AK Markram,6a26221c,,,bowled,0,0,0
+1298170,2022/23,South Africa,7,T Stubbs,85b3fab2,Shadab Khan,9de62878,H Klaasen,235c2bb6,0,0,0,0,0,,,,,,0,0,0
+1298170,2022/23,South Africa,7,T Stubbs,85b3fab2,Shadab Khan,9de62878,H Klaasen,235c2bb6,0,0,0,0,0,,,,,,1,0,1
+1298170,2022/23,South Africa,7,H Klaasen,235c2bb6,Shadab Khan,9de62878,T Stubbs,85b3fab2,0,0,0,0,0,,,,,,0,0,0
+1298170,2022/23,South Africa,8,T Stubbs,85b3fab2,Mohammad Nawaz,3086f7a4,H Klaasen,235c2bb6,0,0,0,0,0,,,,,,1,0,1
+1298170,2022/23,South Africa,8,H Klaasen,235c2bb6,Mohammad Nawaz,3086f7a4,T Stubbs,85b3fab2,0,0,0,0,0,,,,,,0,0,0
+1298170,2022/23,South Africa,8,H Klaasen,235c2bb6,Mohammad Nawaz,3086f7a4,T Stubbs,85b3fab2,0,0,0,0,0,,,,,,1,0,1
+1298170,2022/23,South Africa,8,T Stubbs,85b3fab2,Mohammad Nawaz,3086f7a4,H Klaasen,235c2bb6,0,0,0,0,0,,,,,,0,0,0
+1298170,2022/23,South Africa,8,T Stubbs,85b3fab2,Mohammad Nawaz,3086f7a4,H Klaasen,235c2bb6,0,0,0,0,0,,,,,,0,0,0
+1298170,2022/23,South Africa,8,T Stubbs,85b3fab2,Mohammad Nawaz,3086f7a4,H Klaasen,235c2bb6,0,0,0,0,0,,,,,,0,0,0
+1298170,2022/23,South Africa,9,H Klaasen,235c2bb6,Shadab Khan,9de62878,T Stubbs,85b3fab2,0,0,0,0,0,,,,,,1,0,1
+1298170,2022/23,South Africa,9,T Stubbs,85b3fab2,Shadab Khan,9de62878,H Klaasen,235c2bb6,0,0,0,0,0,,,,,,6,0,6
+1298170,2022/23,South Africa,9,T Stubbs,85b3fab2,Shadab Khan,9de62878,H Klaasen,235c2bb6,0,0,0,0,0,,,,,,2,0,2
+1298170,2022/23,South Africa,9,T Stubbs,85b3fab2,Shadab Khan,9de62878,H Klaasen,235c2bb6,0,0,0,0,0,,,,,,0,0,0
+1298170,2022/23,South Africa,9,T Stubbs,85b3fab2,Shadab Khan,9de62878,H Klaasen,235c2bb6,0,0,0,0,0,,,,,,1,0,1
+1298170,2022/23,South Africa,9,H Klaasen,235c2bb6,Shadab Khan,9de62878,T Stubbs,85b3fab2,0,0,0,0,0,,,,,,4,0,4
+1298170,2022/23,South Africa,10,T Stubbs,85b3fab2,Shaheen Shah Afridi,45a7e761,H Klaasen,235c2bb6,0,0,0,0,0,,,,,,2,0,2
+1298170,2022/23,South Africa,10,T Stubbs,85b3fab2,Shaheen Shah Afridi,45a7e761,H Klaasen,235c2bb6,0,0,0,0,0,,,,,,1,0,1
+1298170,2022/23,South Africa,10,H Klaasen,235c2bb6,Shaheen Shah Afridi,45a7e761,T Stubbs,85b3fab2,0,0,0,0,0,,,,,,4,0,4
+1298170,2022/23,South Africa,10,H Klaasen,235c2bb6,Shaheen Shah Afridi,45a7e761,T Stubbs,85b3fab2,0,0,0,0,0,,,,,,4,0,4
+1298170,2022/23,South Africa,10,H Klaasen,235c2bb6,Shaheen Shah Afridi,45a7e761,T Stubbs,85b3fab2,0,0,0,0,1,H Klaasen,235c2bb6,Mohammad Wasim,9e9af5f2,caught,0,0,0
+1298170,2022/23,South Africa,10,WD Parnell,3a60e0b5,Shaheen Shah Afridi,45a7e761,T Stubbs,85b3fab2,0,0,0,0,0,,,,,,1,0,1
+1298170,2022/23,South Africa,11,WD Parnell,3a60e0b5,Mohammad Wasim,9e9af5f2,T Stubbs,85b3fab2,0,0,0,0,0,,,,,,1,0,1
+1298170,2022/23,South Africa,11,T Stubbs,85b3fab2,Mohammad Wasim,9e9af5f2,WD Parnell,3a60e0b5,0,0,0,0,0,,,,,,1,0,1
+1298170,2022/23,South Africa,11,WD Parnell,3a60e0b5,Mohammad Wasim,9e9af5f2,T Stubbs,85b3fab2,0,0,0,0,0,,,,,,1,0,1
+1298170,2022/23,South Africa,11,T Stubbs,85b3fab2,Mohammad Wasim,9e9af5f2,WD Parnell,3a60e0b5,0,0,0,0,0,,,,,,1,0,1
+1298170,2022/23,South Africa,11,WD Parnell,3a60e0b5,Mohammad Wasim,9e9af5f2,T Stubbs,85b3fab2,0,0,0,0,1,WD Parnell,3a60e0b5,,,lbw,0,0,0
+1298170,2022/23,South Africa,11,K Rabada,e62dd25d,Mohammad Wasim,9e9af5f2,T Stubbs,85b3fab2,0,0,0,0,0,,,,,,0,0,0
+1298170,2022/23,South Africa,12,T Stubbs,85b3fab2,Naseem Shah,9c9af282,K Rabada,e62dd25d,0,0,0,0,0,,,,,,2,0,2
+1298170,2022/23,South Africa,12,T Stubbs,85b3fab2,Naseem Shah,9c9af282,K Rabada,e62dd25d,0,0,0,0,0,,,,,,0,0,0
+1298170,2022/23,South Africa,12,T Stubbs,85b3fab2,Naseem Shah,9c9af282,K Rabada,e62dd25d,0,0,0,0,0,,,,,,0,0,0
+1298170,2022/23,South Africa,12,T Stubbs,85b3fab2,Naseem Shah,9c9af282,K Rabada,e62dd25d,0,0,0,0,1,T Stubbs,85b3fab2,Mohammad Nawaz,3086f7a4,caught,0,0,0
+1298170,2022/23,South Africa,12,A Nortje,acdc62f5,Naseem Shah,9c9af282,K Rabada,e62dd25d,0,0,0,0,0,,,,,,0,0,0
+1298170,2022/23,South Africa,12,A Nortje,acdc62f5,Naseem Shah,9c9af282,K Rabada,e62dd25d,0,0,0,0,0,,,,,,0,0,0
+1298170,2022/23,South Africa,13,K Rabada,e62dd25d,Haris Rauf,24bb1c2f,A Nortje,acdc62f5,0,0,0,0,0,,,,,,1,0,1
+1298170,2022/23,South Africa,13,A Nortje,acdc62f5,Haris Rauf,24bb1c2f,K Rabada,e62dd25d,0,0,0,0,1,K Rabada,e62dd25d,Mohammad Nawaz,3086f7a4,run out,1,0,1
+1298170,2022/23,South Africa,13,A Nortje,acdc62f5,Haris Rauf,24bb1c2f,L Ngidi,f834dcfc,0,0,0,0,0,,,,,,0,0,0
+1298170,2022/23,South Africa,13,A Nortje,acdc62f5,Haris Rauf,24bb1c2f,L Ngidi,f834dcfc,0,0,0,0,1,A Nortje,acdc62f5,Mohammad Haris,ff3f6fc1,caught,0,0,0
+1298170,2022/23,South Africa,13,T Shamsi,a03bba42,Haris Rauf,24bb1c2f,L Ngidi,f834dcfc,0,0,0,0,0,,,,,,1,0,1
+1298170,2022/23,South Africa,13,L Ngidi,f834dcfc,Haris Rauf,24bb1c2f,T Shamsi,a03bba42,0,0,0,0,0,,,,,,4,0,4

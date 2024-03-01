@@ -1,0 +1,255 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1263155,2021,South Africa,0,T Bavuma,9ffd1ac1,FH Edwards,a7c226e1,Q de Kock,372455c4,0,0,0,0,0,,,,,,0,0,0
+1263155,2021,South Africa,0,T Bavuma,9ffd1ac1,FH Edwards,a7c226e1,Q de Kock,372455c4,0,0,0,0,0,,,,,,0,0,0
+1263155,2021,South Africa,0,T Bavuma,9ffd1ac1,FH Edwards,a7c226e1,Q de Kock,372455c4,0,0,0,0,1,T Bavuma,9ffd1ac1,CH Gayle,db584dad,caught,0,0,0
+1263155,2021,South Africa,0,AK Markram,6a26221c,FH Edwards,a7c226e1,Q de Kock,372455c4,1,0,0,0,0,,,,,,0,1,1
+1263155,2021,South Africa,0,AK Markram,6a26221c,FH Edwards,a7c226e1,Q de Kock,372455c4,0,0,0,0,0,,,,,,0,0,0
+1263155,2021,South Africa,0,AK Markram,6a26221c,FH Edwards,a7c226e1,Q de Kock,372455c4,0,0,0,0,0,,,,,,2,0,2
+1263155,2021,South Africa,0,AK Markram,6a26221c,FH Edwards,a7c226e1,Q de Kock,372455c4,0,0,0,0,0,,,,,,0,0,0
+1263155,2021,South Africa,1,Q de Kock,372455c4,CH Gayle,db584dad,AK Markram,6a26221c,0,0,0,0,0,,,,,,2,0,2
+1263155,2021,South Africa,1,Q de Kock,372455c4,CH Gayle,db584dad,AK Markram,6a26221c,0,0,0,0,0,,,,,,0,0,0
+1263155,2021,South Africa,1,Q de Kock,372455c4,CH Gayle,db584dad,AK Markram,6a26221c,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,South Africa,1,AK Markram,6a26221c,CH Gayle,db584dad,Q de Kock,372455c4,0,0,0,0,0,,,,,,0,0,0
+1263155,2021,South Africa,1,AK Markram,6a26221c,CH Gayle,db584dad,Q de Kock,372455c4,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,South Africa,1,Q de Kock,372455c4,CH Gayle,db584dad,AK Markram,6a26221c,0,0,0,0,0,,,,,,0,0,0
+1263155,2021,South Africa,2,AK Markram,6a26221c,FH Edwards,a7c226e1,Q de Kock,372455c4,0,0,0,0,0,,,,,,0,0,0
+1263155,2021,South Africa,2,AK Markram,6a26221c,FH Edwards,a7c226e1,Q de Kock,372455c4,0,0,0,0,0,,,,,,2,0,2
+1263155,2021,South Africa,2,AK Markram,6a26221c,FH Edwards,a7c226e1,Q de Kock,372455c4,0,0,0,0,0,,,,,,0,0,0
+1263155,2021,South Africa,2,AK Markram,6a26221c,FH Edwards,a7c226e1,Q de Kock,372455c4,0,0,0,0,0,,,,,,4,0,4
+1263155,2021,South Africa,2,AK Markram,6a26221c,FH Edwards,a7c226e1,Q de Kock,372455c4,0,0,0,0,0,,,,,,2,0,2
+1263155,2021,South Africa,2,AK Markram,6a26221c,FH Edwards,a7c226e1,Q de Kock,372455c4,0,0,0,0,0,,,,,,0,0,0
+1263155,2021,South Africa,3,Q de Kock,372455c4,DJ Bravo,87e562a9,AK Markram,6a26221c,1,0,0,0,0,,,,,,0,1,1
+1263155,2021,South Africa,3,Q de Kock,372455c4,DJ Bravo,87e562a9,AK Markram,6a26221c,1,0,0,0,0,,,,,,0,1,1
+1263155,2021,South Africa,3,Q de Kock,372455c4,DJ Bravo,87e562a9,AK Markram,6a26221c,0,0,0,0,0,,,,,,0,0,0
+1263155,2021,South Africa,3,Q de Kock,372455c4,DJ Bravo,87e562a9,AK Markram,6a26221c,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,South Africa,3,AK Markram,6a26221c,DJ Bravo,87e562a9,Q de Kock,372455c4,0,0,0,0,0,,,,,,0,0,0
+1263155,2021,South Africa,3,AK Markram,6a26221c,DJ Bravo,87e562a9,Q de Kock,372455c4,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,South Africa,3,Q de Kock,372455c4,DJ Bravo,87e562a9,AK Markram,6a26221c,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,South Africa,3,AK Markram,6a26221c,DJ Bravo,87e562a9,Q de Kock,372455c4,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,South Africa,4,AK Markram,6a26221c,OC McCoy,529eb9e0,Q de Kock,372455c4,0,0,0,0,0,,,,,,6,0,6
+1263155,2021,South Africa,4,AK Markram,6a26221c,OC McCoy,529eb9e0,Q de Kock,372455c4,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,South Africa,4,Q de Kock,372455c4,OC McCoy,529eb9e0,AK Markram,6a26221c,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,South Africa,4,AK Markram,6a26221c,OC McCoy,529eb9e0,Q de Kock,372455c4,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,South Africa,4,Q de Kock,372455c4,OC McCoy,529eb9e0,AK Markram,6a26221c,0,0,0,0,0,,,,,,2,0,2
+1263155,2021,South Africa,4,Q de Kock,372455c4,OC McCoy,529eb9e0,AK Markram,6a26221c,0,0,0,0,0,,,,,,2,0,2
+1263155,2021,South Africa,5,AK Markram,6a26221c,AD Russell,bbd41817,Q de Kock,372455c4,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,South Africa,5,Q de Kock,372455c4,AD Russell,bbd41817,AK Markram,6a26221c,0,0,0,0,0,,,,,,4,0,4
+1263155,2021,South Africa,5,Q de Kock,372455c4,AD Russell,bbd41817,AK Markram,6a26221c,0,0,0,0,0,,,,,,6,0,6
+1263155,2021,South Africa,5,Q de Kock,372455c4,AD Russell,bbd41817,AK Markram,6a26221c,0,0,0,0,0,,,,,,4,0,4
+1263155,2021,South Africa,5,Q de Kock,372455c4,AD Russell,bbd41817,AK Markram,6a26221c,0,0,0,0,0,,,,,,0,0,0
+1263155,2021,South Africa,5,Q de Kock,372455c4,AD Russell,bbd41817,AK Markram,6a26221c,0,0,0,0,0,,,,,,0,0,0
+1263155,2021,South Africa,6,AK Markram,6a26221c,AJ Hosein,4d7f517e,Q de Kock,372455c4,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,South Africa,6,Q de Kock,372455c4,AJ Hosein,4d7f517e,AK Markram,6a26221c,0,0,0,0,0,,,,,,6,0,6
+1263155,2021,South Africa,6,Q de Kock,372455c4,AJ Hosein,4d7f517e,AK Markram,6a26221c,0,0,0,0,0,,,,,,0,0,0
+1263155,2021,South Africa,6,Q de Kock,372455c4,AJ Hosein,4d7f517e,AK Markram,6a26221c,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,South Africa,6,AK Markram,6a26221c,AJ Hosein,4d7f517e,Q de Kock,372455c4,0,0,0,0,0,,,,,,2,0,2
+1263155,2021,South Africa,6,AK Markram,6a26221c,AJ Hosein,4d7f517e,Q de Kock,372455c4,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,South Africa,7,AK Markram,6a26221c,CH Gayle,db584dad,Q de Kock,372455c4,1,0,0,0,0,,,,,,0,1,1
+1263155,2021,South Africa,7,AK Markram,6a26221c,CH Gayle,db584dad,Q de Kock,372455c4,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,South Africa,7,Q de Kock,372455c4,CH Gayle,db584dad,AK Markram,6a26221c,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,South Africa,7,AK Markram,6a26221c,CH Gayle,db584dad,Q de Kock,372455c4,0,0,0,0,0,,,,,,0,0,0
+1263155,2021,South Africa,7,AK Markram,6a26221c,CH Gayle,db584dad,Q de Kock,372455c4,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,South Africa,7,Q de Kock,372455c4,CH Gayle,db584dad,AK Markram,6a26221c,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,South Africa,7,AK Markram,6a26221c,CH Gayle,db584dad,Q de Kock,372455c4,0,0,0,0,0,,,,,,6,0,6
+1263155,2021,South Africa,8,Q de Kock,372455c4,KA Pollard,a757b0d8,AK Markram,6a26221c,0,0,0,0,0,,,,,,0,0,0
+1263155,2021,South Africa,8,Q de Kock,372455c4,KA Pollard,a757b0d8,AK Markram,6a26221c,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,South Africa,8,AK Markram,6a26221c,KA Pollard,a757b0d8,Q de Kock,372455c4,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,South Africa,8,Q de Kock,372455c4,KA Pollard,a757b0d8,AK Markram,6a26221c,0,0,0,0,0,,,,,,2,0,2
+1263155,2021,South Africa,8,Q de Kock,372455c4,KA Pollard,a757b0d8,AK Markram,6a26221c,0,0,0,0,0,,,,,,2,0,2
+1263155,2021,South Africa,8,Q de Kock,372455c4,KA Pollard,a757b0d8,AK Markram,6a26221c,0,0,0,0,0,,,,,,0,0,0
+1263155,2021,South Africa,9,AK Markram,6a26221c,DJ Bravo,87e562a9,Q de Kock,372455c4,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,South Africa,9,Q de Kock,372455c4,DJ Bravo,87e562a9,AK Markram,6a26221c,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,South Africa,9,AK Markram,6a26221c,DJ Bravo,87e562a9,Q de Kock,372455c4,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,South Africa,9,Q de Kock,372455c4,DJ Bravo,87e562a9,AK Markram,6a26221c,0,0,0,0,0,,,,,,4,0,4
+1263155,2021,South Africa,9,Q de Kock,372455c4,DJ Bravo,87e562a9,AK Markram,6a26221c,0,0,0,0,0,,,,,,2,0,2
+1263155,2021,South Africa,9,Q de Kock,372455c4,DJ Bravo,87e562a9,AK Markram,6a26221c,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,South Africa,10,Q de Kock,372455c4,KA Pollard,a757b0d8,AK Markram,6a26221c,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,South Africa,10,AK Markram,6a26221c,KA Pollard,a757b0d8,Q de Kock,372455c4,0,0,0,0,0,,,,,,6,0,6
+1263155,2021,South Africa,10,AK Markram,6a26221c,KA Pollard,a757b0d8,Q de Kock,372455c4,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,South Africa,10,Q de Kock,372455c4,KA Pollard,a757b0d8,AK Markram,6a26221c,0,0,0,0,0,,,,,,0,0,0
+1263155,2021,South Africa,10,Q de Kock,372455c4,KA Pollard,a757b0d8,AK Markram,6a26221c,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,South Africa,10,AK Markram,6a26221c,KA Pollard,a757b0d8,Q de Kock,372455c4,1,0,0,0,0,,,,,,0,1,1
+1263155,2021,South Africa,10,AK Markram,6a26221c,KA Pollard,a757b0d8,Q de Kock,372455c4,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,South Africa,11,AK Markram,6a26221c,AJ Hosein,4d7f517e,Q de Kock,372455c4,0,0,0,1,0,,,,,,0,1,1
+1263155,2021,South Africa,11,Q de Kock,372455c4,AJ Hosein,4d7f517e,AK Markram,6a26221c,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,South Africa,11,AK Markram,6a26221c,AJ Hosein,4d7f517e,Q de Kock,372455c4,0,0,0,0,0,,,,,,0,0,0
+1263155,2021,South Africa,11,AK Markram,6a26221c,AJ Hosein,4d7f517e,Q de Kock,372455c4,0,0,0,0,0,,,,,,6,0,6
+1263155,2021,South Africa,11,AK Markram,6a26221c,AJ Hosein,4d7f517e,Q de Kock,372455c4,0,0,0,0,0,,,,,,4,0,4
+1263155,2021,South Africa,11,AK Markram,6a26221c,AJ Hosein,4d7f517e,Q de Kock,372455c4,0,0,0,0,0,,,,,,2,0,2
+1263155,2021,South Africa,12,Q de Kock,372455c4,OC McCoy,529eb9e0,AK Markram,6a26221c,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,South Africa,12,AK Markram,6a26221c,OC McCoy,529eb9e0,Q de Kock,372455c4,1,0,0,0,0,,,,,,0,1,1
+1263155,2021,South Africa,12,AK Markram,6a26221c,OC McCoy,529eb9e0,Q de Kock,372455c4,1,0,0,0,0,,,,,,0,1,1
+1263155,2021,South Africa,12,AK Markram,6a26221c,OC McCoy,529eb9e0,Q de Kock,372455c4,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,South Africa,12,Q de Kock,372455c4,OC McCoy,529eb9e0,AK Markram,6a26221c,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,South Africa,12,AK Markram,6a26221c,OC McCoy,529eb9e0,Q de Kock,372455c4,0,0,0,0,0,,,,,,0,0,0
+1263155,2021,South Africa,12,AK Markram,6a26221c,OC McCoy,529eb9e0,Q de Kock,372455c4,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,South Africa,12,Q de Kock,372455c4,OC McCoy,529eb9e0,AK Markram,6a26221c,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,South Africa,13,Q de Kock,372455c4,AD Russell,bbd41817,AK Markram,6a26221c,0,0,0,0,0,,,,,,0,0,0
+1263155,2021,South Africa,13,Q de Kock,372455c4,AD Russell,bbd41817,AK Markram,6a26221c,0,0,0,0,0,,,,,,4,0,4
+1263155,2021,South Africa,13,Q de Kock,372455c4,AD Russell,bbd41817,AK Markram,6a26221c,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,South Africa,13,AK Markram,6a26221c,AD Russell,bbd41817,Q de Kock,372455c4,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,South Africa,13,Q de Kock,372455c4,AD Russell,bbd41817,AK Markram,6a26221c,0,0,0,0,0,,,,,,2,0,2
+1263155,2021,South Africa,13,Q de Kock,372455c4,AD Russell,bbd41817,AK Markram,6a26221c,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,South Africa,14,Q de Kock,372455c4,FH Edwards,a7c226e1,AK Markram,6a26221c,0,0,0,0,1,Q de Kock,372455c4,AD Russell,bbd41817,caught,0,0,0
+1263155,2021,South Africa,14,AK Markram,6a26221c,FH Edwards,a7c226e1,DA Miller,d67d5f00,0,0,0,0,0,,,,,,4,0,4
+1263155,2021,South Africa,14,AK Markram,6a26221c,FH Edwards,a7c226e1,DA Miller,d67d5f00,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,South Africa,14,DA Miller,d67d5f00,FH Edwards,a7c226e1,AK Markram,6a26221c,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,South Africa,14,AK Markram,6a26221c,FH Edwards,a7c226e1,DA Miller,d67d5f00,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,South Africa,14,DA Miller,d67d5f00,FH Edwards,a7c226e1,AK Markram,6a26221c,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,South Africa,15,DA Miller,d67d5f00,DJ Bravo,87e562a9,AK Markram,6a26221c,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,South Africa,15,AK Markram,6a26221c,DJ Bravo,87e562a9,DA Miller,d67d5f00,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,South Africa,15,DA Miller,d67d5f00,DJ Bravo,87e562a9,AK Markram,6a26221c,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,South Africa,15,AK Markram,6a26221c,DJ Bravo,87e562a9,DA Miller,d67d5f00,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,South Africa,15,DA Miller,d67d5f00,DJ Bravo,87e562a9,AK Markram,6a26221c,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,South Africa,15,AK Markram,6a26221c,DJ Bravo,87e562a9,DA Miller,d67d5f00,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,South Africa,16,AK Markram,6a26221c,OC McCoy,529eb9e0,DA Miller,d67d5f00,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,South Africa,16,DA Miller,d67d5f00,OC McCoy,529eb9e0,AK Markram,6a26221c,0,0,1,0,0,,,,,,0,1,1
+1263155,2021,South Africa,16,AK Markram,6a26221c,OC McCoy,529eb9e0,DA Miller,d67d5f00,0,0,0,0,1,AK Markram,6a26221c,LMP Simmons,89f64c19,caught,0,0,0
+1263155,2021,South Africa,16,DA Miller,d67d5f00,OC McCoy,529eb9e0,HE van der Dussen,9948e262,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,South Africa,16,HE van der Dussen,9948e262,OC McCoy,529eb9e0,DA Miller,d67d5f00,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,South Africa,16,DA Miller,d67d5f00,OC McCoy,529eb9e0,HE van der Dussen,9948e262,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,South Africa,17,DA Miller,d67d5f00,DJ Bravo,87e562a9,HE van der Dussen,9948e262,1,0,0,0,0,,,,,,0,1,1
+1263155,2021,South Africa,17,DA Miller,d67d5f00,DJ Bravo,87e562a9,HE van der Dussen,9948e262,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,South Africa,17,HE van der Dussen,9948e262,DJ Bravo,87e562a9,DA Miller,d67d5f00,0,0,0,0,1,HE van der Dussen,9948e262,,,caught and bowled,0,0,0
+1263155,2021,South Africa,17,PWA Mulder,c96f6ac5,DJ Bravo,87e562a9,DA Miller,d67d5f00,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,South Africa,17,DA Miller,d67d5f00,DJ Bravo,87e562a9,PWA Mulder,c96f6ac5,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,South Africa,17,PWA Mulder,c96f6ac5,DJ Bravo,87e562a9,DA Miller,d67d5f00,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,South Africa,17,DA Miller,d67d5f00,DJ Bravo,87e562a9,PWA Mulder,c96f6ac5,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,South Africa,18,DA Miller,d67d5f00,OC McCoy,529eb9e0,PWA Mulder,c96f6ac5,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,South Africa,18,PWA Mulder,c96f6ac5,OC McCoy,529eb9e0,DA Miller,d67d5f00,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,South Africa,18,DA Miller,d67d5f00,OC McCoy,529eb9e0,PWA Mulder,c96f6ac5,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,South Africa,18,PWA Mulder,c96f6ac5,OC McCoy,529eb9e0,DA Miller,d67d5f00,0,0,0,0,0,,,,,,0,0,0
+1263155,2021,South Africa,18,PWA Mulder,c96f6ac5,OC McCoy,529eb9e0,DA Miller,d67d5f00,0,0,0,0,0,,,,,,4,0,4
+1263155,2021,South Africa,18,PWA Mulder,c96f6ac5,OC McCoy,529eb9e0,DA Miller,d67d5f00,0,0,0,0,0,,,,,,0,0,0
+1263155,2021,South Africa,19,DA Miller,d67d5f00,AD Russell,bbd41817,PWA Mulder,c96f6ac5,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,South Africa,19,PWA Mulder,c96f6ac5,AD Russell,bbd41817,DA Miller,d67d5f00,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,South Africa,19,DA Miller,d67d5f00,AD Russell,bbd41817,PWA Mulder,c96f6ac5,0,0,0,0,0,,,,,,4,0,4
+1263155,2021,South Africa,19,DA Miller,d67d5f00,AD Russell,bbd41817,PWA Mulder,c96f6ac5,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,South Africa,19,PWA Mulder,c96f6ac5,AD Russell,bbd41817,DA Miller,d67d5f00,0,0,0,0,0,,,,,,0,0,0
+1263155,2021,South Africa,19,PWA Mulder,c96f6ac5,AD Russell,bbd41817,DA Miller,d67d5f00,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,West Indies,0,LMP Simmons,89f64c19,BC Fortuin,9a2fc964,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,West Indies,0,E Lewis,0ebfb1ad,BC Fortuin,9a2fc964,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,2,0,2
+1263155,2021,West Indies,0,E Lewis,0ebfb1ad,BC Fortuin,9a2fc964,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,6,0,6
+1263155,2021,West Indies,0,E Lewis,0ebfb1ad,BC Fortuin,9a2fc964,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,West Indies,0,LMP Simmons,89f64c19,BC Fortuin,9a2fc964,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,0,0,0
+1263155,2021,West Indies,0,LMP Simmons,89f64c19,BC Fortuin,9a2fc964,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,West Indies,1,LMP Simmons,89f64c19,K Rabada,e62dd25d,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,0,0,0
+1263155,2021,West Indies,1,LMP Simmons,89f64c19,K Rabada,e62dd25d,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,West Indies,1,E Lewis,0ebfb1ad,K Rabada,e62dd25d,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,4,0,4
+1263155,2021,West Indies,1,E Lewis,0ebfb1ad,K Rabada,e62dd25d,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,0,0,0
+1263155,2021,West Indies,1,E Lewis,0ebfb1ad,K Rabada,e62dd25d,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,4,0,4
+1263155,2021,West Indies,1,E Lewis,0ebfb1ad,K Rabada,e62dd25d,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,0,0,0
+1263155,2021,West Indies,2,LMP Simmons,89f64c19,GF Linde,e5437608,E Lewis,0ebfb1ad,0,0,0,0,1,LMP Simmons,89f64c19,,,lbw,0,0,0
+1263155,2021,West Indies,2,CH Gayle,db584dad,GF Linde,e5437608,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,West Indies,2,E Lewis,0ebfb1ad,GF Linde,e5437608,CH Gayle,db584dad,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,West Indies,2,CH Gayle,db584dad,GF Linde,e5437608,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,West Indies,2,E Lewis,0ebfb1ad,GF Linde,e5437608,CH Gayle,db584dad,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,West Indies,2,CH Gayle,db584dad,GF Linde,e5437608,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,0,0,0
+1263155,2021,West Indies,3,E Lewis,0ebfb1ad,K Rabada,e62dd25d,CH Gayle,db584dad,0,1,0,0,0,,,,,,0,1,1
+1263155,2021,West Indies,3,E Lewis,0ebfb1ad,K Rabada,e62dd25d,CH Gayle,db584dad,0,0,0,0,0,,,,,,4,0,4
+1263155,2021,West Indies,3,E Lewis,0ebfb1ad,K Rabada,e62dd25d,CH Gayle,db584dad,0,0,0,0,0,,,,,,0,0,0
+1263155,2021,West Indies,3,E Lewis,0ebfb1ad,K Rabada,e62dd25d,CH Gayle,db584dad,0,0,0,0,0,,,,,,2,0,2
+1263155,2021,West Indies,3,E Lewis,0ebfb1ad,K Rabada,e62dd25d,CH Gayle,db584dad,0,0,0,0,0,,,,,,0,0,0
+1263155,2021,West Indies,3,E Lewis,0ebfb1ad,K Rabada,e62dd25d,CH Gayle,db584dad,0,0,0,0,0,,,,,,0,0,0
+1263155,2021,West Indies,3,E Lewis,0ebfb1ad,K Rabada,e62dd25d,CH Gayle,db584dad,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,West Indies,4,E Lewis,0ebfb1ad,L Ngidi,f834dcfc,CH Gayle,db584dad,0,0,0,0,0,,,,,,0,0,0
+1263155,2021,West Indies,4,E Lewis,0ebfb1ad,L Ngidi,f834dcfc,CH Gayle,db584dad,0,0,0,0,0,,,,,,2,0,2
+1263155,2021,West Indies,4,E Lewis,0ebfb1ad,L Ngidi,f834dcfc,CH Gayle,db584dad,1,0,0,0,0,,,,,,0,1,1
+1263155,2021,West Indies,4,E Lewis,0ebfb1ad,L Ngidi,f834dcfc,CH Gayle,db584dad,0,0,0,0,0,,,,,,6,0,6
+1263155,2021,West Indies,4,E Lewis,0ebfb1ad,L Ngidi,f834dcfc,CH Gayle,db584dad,0,0,0,0,0,,,,,,0,0,0
+1263155,2021,West Indies,4,E Lewis,0ebfb1ad,L Ngidi,f834dcfc,CH Gayle,db584dad,0,0,0,0,0,,,,,,4,0,4
+1263155,2021,West Indies,4,E Lewis,0ebfb1ad,L Ngidi,f834dcfc,CH Gayle,db584dad,0,0,0,0,0,,,,,,0,0,0
+1263155,2021,West Indies,5,CH Gayle,db584dad,T Shamsi,a03bba42,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,0,0,0
+1263155,2021,West Indies,5,CH Gayle,db584dad,T Shamsi,a03bba42,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,West Indies,5,E Lewis,0ebfb1ad,T Shamsi,a03bba42,CH Gayle,db584dad,0,0,0,0,0,,,,,,0,0,0
+1263155,2021,West Indies,5,E Lewis,0ebfb1ad,T Shamsi,a03bba42,CH Gayle,db584dad,0,0,0,0,0,,,,,,4,0,4
+1263155,2021,West Indies,5,E Lewis,0ebfb1ad,T Shamsi,a03bba42,CH Gayle,db584dad,0,0,0,0,0,,,,,,0,0,0
+1263155,2021,West Indies,5,E Lewis,0ebfb1ad,T Shamsi,a03bba42,CH Gayle,db584dad,0,0,0,0,0,,,,,,0,0,0
+1263155,2021,West Indies,6,CH Gayle,db584dad,GF Linde,e5437608,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,West Indies,6,E Lewis,0ebfb1ad,GF Linde,e5437608,CH Gayle,db584dad,0,0,0,0,0,,,,,,6,0,6
+1263155,2021,West Indies,6,E Lewis,0ebfb1ad,GF Linde,e5437608,CH Gayle,db584dad,0,0,0,0,0,,,,,,0,0,0
+1263155,2021,West Indies,6,E Lewis,0ebfb1ad,GF Linde,e5437608,CH Gayle,db584dad,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,West Indies,6,CH Gayle,db584dad,GF Linde,e5437608,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,6,0,6
+1263155,2021,West Indies,6,CH Gayle,db584dad,GF Linde,e5437608,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,West Indies,7,CH Gayle,db584dad,T Shamsi,a03bba42,E Lewis,0ebfb1ad,0,0,0,0,1,CH Gayle,db584dad,Q de Kock,372455c4,caught,0,0,0
+1263155,2021,West Indies,7,SO Hetmyer,48a1d7b7,T Shamsi,a03bba42,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,West Indies,7,E Lewis,0ebfb1ad,T Shamsi,a03bba42,SO Hetmyer,48a1d7b7,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,West Indies,7,SO Hetmyer,48a1d7b7,T Shamsi,a03bba42,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,0,0,0
+1263155,2021,West Indies,7,SO Hetmyer,48a1d7b7,T Shamsi,a03bba42,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,0,0,0
+1263155,2021,West Indies,7,SO Hetmyer,48a1d7b7,T Shamsi,a03bba42,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,West Indies,8,SO Hetmyer,48a1d7b7,PWA Mulder,c96f6ac5,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,West Indies,8,E Lewis,0ebfb1ad,PWA Mulder,c96f6ac5,SO Hetmyer,48a1d7b7,1,0,0,0,0,,,,,,0,1,1
+1263155,2021,West Indies,8,E Lewis,0ebfb1ad,PWA Mulder,c96f6ac5,SO Hetmyer,48a1d7b7,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,West Indies,8,SO Hetmyer,48a1d7b7,PWA Mulder,c96f6ac5,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,West Indies,8,E Lewis,0ebfb1ad,PWA Mulder,c96f6ac5,SO Hetmyer,48a1d7b7,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,West Indies,8,SO Hetmyer,48a1d7b7,PWA Mulder,c96f6ac5,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,0,0,0
+1263155,2021,West Indies,8,SO Hetmyer,48a1d7b7,PWA Mulder,c96f6ac5,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,West Indies,9,SO Hetmyer,48a1d7b7,L Ngidi,f834dcfc,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,West Indies,9,E Lewis,0ebfb1ad,L Ngidi,f834dcfc,SO Hetmyer,48a1d7b7,0,0,0,0,0,,,,,,0,0,0
+1263155,2021,West Indies,9,E Lewis,0ebfb1ad,L Ngidi,f834dcfc,SO Hetmyer,48a1d7b7,0,0,0,0,1,E Lewis,0ebfb1ad,AK Markram,6a26221c,caught,0,0,0
+1263155,2021,West Indies,9,KA Pollard,a757b0d8,L Ngidi,f834dcfc,SO Hetmyer,48a1d7b7,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,West Indies,9,SO Hetmyer,48a1d7b7,L Ngidi,f834dcfc,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,0,0,0
+1263155,2021,West Indies,9,SO Hetmyer,48a1d7b7,L Ngidi,f834dcfc,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,West Indies,10,SO Hetmyer,48a1d7b7,PWA Mulder,c96f6ac5,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,West Indies,10,KA Pollard,a757b0d8,PWA Mulder,c96f6ac5,SO Hetmyer,48a1d7b7,0,0,0,0,0,,,,,,0,0,0
+1263155,2021,West Indies,10,KA Pollard,a757b0d8,PWA Mulder,c96f6ac5,SO Hetmyer,48a1d7b7,1,0,0,0,0,,,,,,0,1,1
+1263155,2021,West Indies,10,KA Pollard,a757b0d8,PWA Mulder,c96f6ac5,SO Hetmyer,48a1d7b7,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,West Indies,10,SO Hetmyer,48a1d7b7,PWA Mulder,c96f6ac5,KA Pollard,a757b0d8,1,0,0,0,0,,,,,,0,1,1
+1263155,2021,West Indies,10,SO Hetmyer,48a1d7b7,PWA Mulder,c96f6ac5,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,0,0,0
+1263155,2021,West Indies,10,SO Hetmyer,48a1d7b7,PWA Mulder,c96f6ac5,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,West Indies,10,KA Pollard,a757b0d8,PWA Mulder,c96f6ac5,SO Hetmyer,48a1d7b7,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,West Indies,11,KA Pollard,a757b0d8,T Shamsi,a03bba42,SO Hetmyer,48a1d7b7,0,0,0,0,0,,,,,,0,0,0
+1263155,2021,West Indies,11,KA Pollard,a757b0d8,T Shamsi,a03bba42,SO Hetmyer,48a1d7b7,0,0,0,0,0,,,,,,0,0,0
+1263155,2021,West Indies,11,KA Pollard,a757b0d8,T Shamsi,a03bba42,SO Hetmyer,48a1d7b7,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,West Indies,11,SO Hetmyer,48a1d7b7,T Shamsi,a03bba42,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,0,0,0
+1263155,2021,West Indies,11,SO Hetmyer,48a1d7b7,T Shamsi,a03bba42,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,0,0,0
+1263155,2021,West Indies,11,SO Hetmyer,48a1d7b7,T Shamsi,a03bba42,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,0,0,0
+1263155,2021,West Indies,12,KA Pollard,a757b0d8,GF Linde,e5437608,SO Hetmyer,48a1d7b7,0,0,0,0,0,,,,,,6,0,6
+1263155,2021,West Indies,12,KA Pollard,a757b0d8,GF Linde,e5437608,SO Hetmyer,48a1d7b7,0,0,0,0,0,,,,,,0,0,0
+1263155,2021,West Indies,12,KA Pollard,a757b0d8,GF Linde,e5437608,SO Hetmyer,48a1d7b7,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,West Indies,12,SO Hetmyer,48a1d7b7,GF Linde,e5437608,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,6,0,6
+1263155,2021,West Indies,12,SO Hetmyer,48a1d7b7,GF Linde,e5437608,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,West Indies,12,KA Pollard,a757b0d8,GF Linde,e5437608,SO Hetmyer,48a1d7b7,0,0,1,0,0,,,,,,0,1,1
+1263155,2021,West Indies,13,KA Pollard,a757b0d8,K Rabada,e62dd25d,SO Hetmyer,48a1d7b7,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,West Indies,13,SO Hetmyer,48a1d7b7,K Rabada,e62dd25d,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,West Indies,13,KA Pollard,a757b0d8,K Rabada,e62dd25d,SO Hetmyer,48a1d7b7,0,0,0,0,0,,,,,,0,0,0
+1263155,2021,West Indies,13,KA Pollard,a757b0d8,K Rabada,e62dd25d,SO Hetmyer,48a1d7b7,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,West Indies,13,SO Hetmyer,48a1d7b7,K Rabada,e62dd25d,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,0,0,0
+1263155,2021,West Indies,13,SO Hetmyer,48a1d7b7,K Rabada,e62dd25d,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,West Indies,14,SO Hetmyer,48a1d7b7,PWA Mulder,c96f6ac5,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,6,0,6
+1263155,2021,West Indies,14,SO Hetmyer,48a1d7b7,PWA Mulder,c96f6ac5,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,West Indies,14,KA Pollard,a757b0d8,PWA Mulder,c96f6ac5,SO Hetmyer,48a1d7b7,0,0,0,0,1,KA Pollard,a757b0d8,AK Markram,6a26221c,caught,0,0,0
+1263155,2021,West Indies,14,AD Russell,bbd41817,PWA Mulder,c96f6ac5,SO Hetmyer,48a1d7b7,0,0,0,0,1,AD Russell,bbd41817,L Ngidi,f834dcfc,caught,0,0,0
+1263155,2021,West Indies,14,N Pooran,3241e3fd,PWA Mulder,c96f6ac5,SO Hetmyer,48a1d7b7,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,West Indies,14,SO Hetmyer,48a1d7b7,PWA Mulder,c96f6ac5,N Pooran,3241e3fd,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,West Indies,15,SO Hetmyer,48a1d7b7,T Shamsi,a03bba42,N Pooran,3241e3fd,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,West Indies,15,N Pooran,3241e3fd,T Shamsi,a03bba42,SO Hetmyer,48a1d7b7,0,0,0,0,0,,,,,,0,0,0
+1263155,2021,West Indies,15,N Pooran,3241e3fd,T Shamsi,a03bba42,SO Hetmyer,48a1d7b7,0,0,0,0,0,,,,,,0,0,0
+1263155,2021,West Indies,15,N Pooran,3241e3fd,T Shamsi,a03bba42,SO Hetmyer,48a1d7b7,0,0,0,0,0,,,,,,0,0,0
+1263155,2021,West Indies,15,N Pooran,3241e3fd,T Shamsi,a03bba42,SO Hetmyer,48a1d7b7,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,West Indies,15,SO Hetmyer,48a1d7b7,T Shamsi,a03bba42,N Pooran,3241e3fd,0,0,0,0,0,,,,,,0,0,0
+1263155,2021,West Indies,16,N Pooran,3241e3fd,PWA Mulder,c96f6ac5,SO Hetmyer,48a1d7b7,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,West Indies,16,SO Hetmyer,48a1d7b7,PWA Mulder,c96f6ac5,N Pooran,3241e3fd,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,West Indies,16,N Pooran,3241e3fd,PWA Mulder,c96f6ac5,SO Hetmyer,48a1d7b7,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,West Indies,16,SO Hetmyer,48a1d7b7,PWA Mulder,c96f6ac5,N Pooran,3241e3fd,0,0,0,0,0,,,,,,4,0,4
+1263155,2021,West Indies,16,SO Hetmyer,48a1d7b7,PWA Mulder,c96f6ac5,N Pooran,3241e3fd,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,West Indies,16,N Pooran,3241e3fd,PWA Mulder,c96f6ac5,SO Hetmyer,48a1d7b7,1,0,0,0,0,,,,,,0,1,1
+1263155,2021,West Indies,16,N Pooran,3241e3fd,PWA Mulder,c96f6ac5,SO Hetmyer,48a1d7b7,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,West Indies,17,N Pooran,3241e3fd,L Ngidi,f834dcfc,SO Hetmyer,48a1d7b7,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,West Indies,17,SO Hetmyer,48a1d7b7,L Ngidi,f834dcfc,N Pooran,3241e3fd,0,0,0,0,1,SO Hetmyer,48a1d7b7,DA Miller,d67d5f00,caught,0,0,0
+1263155,2021,West Indies,17,DJ Bravo,87e562a9,L Ngidi,f834dcfc,N Pooran,3241e3fd,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,West Indies,17,N Pooran,3241e3fd,L Ngidi,f834dcfc,DJ Bravo,87e562a9,0,0,0,0,0,,,,,,6,0,6
+1263155,2021,West Indies,17,N Pooran,3241e3fd,L Ngidi,f834dcfc,DJ Bravo,87e562a9,0,0,0,0,0,,,,,,6,0,6
+1263155,2021,West Indies,17,N Pooran,3241e3fd,L Ngidi,f834dcfc,DJ Bravo,87e562a9,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,West Indies,18,N Pooran,3241e3fd,K Rabada,e62dd25d,DJ Bravo,87e562a9,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,West Indies,18,DJ Bravo,87e562a9,K Rabada,e62dd25d,N Pooran,3241e3fd,0,0,0,0,1,DJ Bravo,87e562a9,T Bavuma,9ffd1ac1,caught,0,0,0
+1263155,2021,West Indies,18,N Pooran,3241e3fd,K Rabada,e62dd25d,AJ Hosein,4d7f517e,0,0,0,0,1,N Pooran,3241e3fd,Q de Kock,372455c4,caught,0,0,0
+1263155,2021,West Indies,18,AJ Hosein,4d7f517e,K Rabada,e62dd25d,OC McCoy,529eb9e0,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,West Indies,18,OC McCoy,529eb9e0,K Rabada,e62dd25d,AJ Hosein,4d7f517e,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,West Indies,18,AJ Hosein,4d7f517e,K Rabada,e62dd25d,OC McCoy,529eb9e0,0,0,0,0,0,,,,,,0,0,0
+1263155,2021,West Indies,19,OC McCoy,529eb9e0,L Ngidi,f834dcfc,AJ Hosein,4d7f517e,0,0,0,0,0,,,,,,0,0,0
+1263155,2021,West Indies,19,OC McCoy,529eb9e0,L Ngidi,f834dcfc,AJ Hosein,4d7f517e,0,0,0,0,1,OC McCoy,529eb9e0,PWA Mulder,c96f6ac5,caught,0,0,0
+1263155,2021,West Indies,19,AJ Hosein,4d7f517e,L Ngidi,f834dcfc,FH Edwards,a7c226e1,0,0,0,0,0,,,,,,1,0,1
+1263155,2021,West Indies,19,FH Edwards,a7c226e1,L Ngidi,f834dcfc,AJ Hosein,4d7f517e,0,0,0,0,0,,,,,,0,0,0
+1263155,2021,West Indies,19,FH Edwards,a7c226e1,L Ngidi,f834dcfc,AJ Hosein,4d7f517e,0,0,0,0,0,,,,,,0,0,0
+1263155,2021,West Indies,19,FH Edwards,a7c226e1,L Ngidi,f834dcfc,AJ Hosein,4d7f517e,0,0,0,0,0,,,,,,0,0,0

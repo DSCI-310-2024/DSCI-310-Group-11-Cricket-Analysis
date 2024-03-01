@@ -1,0 +1,196 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+963701,2015/16,Sri Lanka,0,N Dickwella,45963d9e,R Ashwin,495d42a5,TM Dilshan,5bdcdb72,0,0,0,0,0,,,,,,1,0,1
+963701,2015/16,Sri Lanka,0,TM Dilshan,5bdcdb72,R Ashwin,495d42a5,N Dickwella,45963d9e,0,0,0,0,0,,,,,,1,0,1
+963701,2015/16,Sri Lanka,0,N Dickwella,45963d9e,R Ashwin,495d42a5,TM Dilshan,5bdcdb72,0,0,0,0,1,N Dickwella,45963d9e,MS Dhoni,4a8a2e3b,stumped,0,0,0
+963701,2015/16,Sri Lanka,0,LD Chandimal,8dd02a98,R Ashwin,495d42a5,TM Dilshan,5bdcdb72,0,0,0,0,0,,,,,,0,0,0
+963701,2015/16,Sri Lanka,0,LD Chandimal,8dd02a98,R Ashwin,495d42a5,TM Dilshan,5bdcdb72,0,0,1,0,0,,,,,,0,1,1
+963701,2015/16,Sri Lanka,0,TM Dilshan,5bdcdb72,R Ashwin,495d42a5,LD Chandimal,8dd02a98,0,0,0,0,1,TM Dilshan,5bdcdb72,,,lbw,0,0,0
+963701,2015/16,Sri Lanka,1,LD Chandimal,8dd02a98,A Nehra,96fd40ae,DAS Gunaratne,770494eb,0,0,0,0,0,,,,,,0,0,0
+963701,2015/16,Sri Lanka,1,LD Chandimal,8dd02a98,A Nehra,96fd40ae,DAS Gunaratne,770494eb,0,0,0,0,0,,,,,,0,0,0
+963701,2015/16,Sri Lanka,1,LD Chandimal,8dd02a98,A Nehra,96fd40ae,DAS Gunaratne,770494eb,0,0,0,0,0,,,,,,4,0,4
+963701,2015/16,Sri Lanka,1,LD Chandimal,8dd02a98,A Nehra,96fd40ae,DAS Gunaratne,770494eb,0,0,0,0,0,,,,,,0,0,0
+963701,2015/16,Sri Lanka,1,LD Chandimal,8dd02a98,A Nehra,96fd40ae,DAS Gunaratne,770494eb,0,0,0,0,0,,,,,,4,0,4
+963701,2015/16,Sri Lanka,1,LD Chandimal,8dd02a98,A Nehra,96fd40ae,DAS Gunaratne,770494eb,0,0,1,0,0,,,,,,0,1,1
+963701,2015/16,Sri Lanka,2,LD Chandimal,8dd02a98,R Ashwin,495d42a5,DAS Gunaratne,770494eb,0,0,0,0,1,LD Chandimal,8dd02a98,HH Pandya,dbe50b21,caught,0,0,0
+963701,2015/16,Sri Lanka,2,DAS Gunaratne,770494eb,R Ashwin,495d42a5,TAM Siriwardana,bf7842c9,0,0,0,0,0,,,,,,0,0,0
+963701,2015/16,Sri Lanka,2,DAS Gunaratne,770494eb,R Ashwin,495d42a5,TAM Siriwardana,bf7842c9,0,0,0,0,0,,,,,,0,0,0
+963701,2015/16,Sri Lanka,2,DAS Gunaratne,770494eb,R Ashwin,495d42a5,TAM Siriwardana,bf7842c9,0,0,0,0,0,,,,,,0,0,0
+963701,2015/16,Sri Lanka,2,DAS Gunaratne,770494eb,R Ashwin,495d42a5,TAM Siriwardana,bf7842c9,0,0,0,0,0,,,,,,2,0,2
+963701,2015/16,Sri Lanka,2,DAS Gunaratne,770494eb,R Ashwin,495d42a5,TAM Siriwardana,bf7842c9,0,0,0,0,0,,,,,,1,0,1
+963701,2015/16,Sri Lanka,3,DAS Gunaratne,770494eb,JJ Bumrah,462411b3,TAM Siriwardana,bf7842c9,0,0,0,0,0,,,,,,0,0,0
+963701,2015/16,Sri Lanka,3,DAS Gunaratne,770494eb,JJ Bumrah,462411b3,TAM Siriwardana,bf7842c9,0,0,0,0,0,,,,,,0,0,0
+963701,2015/16,Sri Lanka,3,DAS Gunaratne,770494eb,JJ Bumrah,462411b3,TAM Siriwardana,bf7842c9,0,0,0,0,0,,,,,,0,0,0
+963701,2015/16,Sri Lanka,3,DAS Gunaratne,770494eb,JJ Bumrah,462411b3,TAM Siriwardana,bf7842c9,0,0,0,0,0,,,,,,0,0,0
+963701,2015/16,Sri Lanka,3,DAS Gunaratne,770494eb,JJ Bumrah,462411b3,TAM Siriwardana,bf7842c9,0,0,0,0,0,,,,,,1,0,1
+963701,2015/16,Sri Lanka,3,TAM Siriwardana,bf7842c9,JJ Bumrah,462411b3,DAS Gunaratne,770494eb,0,0,0,0,0,,,,,,4,0,4
+963701,2015/16,Sri Lanka,4,DAS Gunaratne,770494eb,R Ashwin,495d42a5,TAM Siriwardana,bf7842c9,0,0,0,0,0,,,,,,0,0,0
+963701,2015/16,Sri Lanka,4,DAS Gunaratne,770494eb,R Ashwin,495d42a5,TAM Siriwardana,bf7842c9,0,0,0,0,1,DAS Gunaratne,770494eb,SK Raina,1dc12ab9,caught,0,0,0
+963701,2015/16,Sri Lanka,4,MD Shanaka,3ff033bb,R Ashwin,495d42a5,TAM Siriwardana,bf7842c9,0,0,0,0,0,,,,,,0,0,0
+963701,2015/16,Sri Lanka,4,MD Shanaka,3ff033bb,R Ashwin,495d42a5,TAM Siriwardana,bf7842c9,0,0,0,0,0,,,,,,0,0,0
+963701,2015/16,Sri Lanka,4,MD Shanaka,3ff033bb,R Ashwin,495d42a5,TAM Siriwardana,bf7842c9,0,0,0,0,0,,,,,,0,0,0
+963701,2015/16,Sri Lanka,4,MD Shanaka,3ff033bb,R Ashwin,495d42a5,TAM Siriwardana,bf7842c9,0,0,0,0,0,,,,,,0,0,0
+963701,2015/16,Sri Lanka,5,TAM Siriwardana,bf7842c9,A Nehra,96fd40ae,MD Shanaka,3ff033bb,1,0,0,0,0,,,,,,0,1,1
+963701,2015/16,Sri Lanka,5,TAM Siriwardana,bf7842c9,A Nehra,96fd40ae,MD Shanaka,3ff033bb,0,0,0,0,1,TAM Siriwardana,bf7842c9,,,bowled,0,0,0
+963701,2015/16,Sri Lanka,5,S Prasanna,f78e7113,A Nehra,96fd40ae,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,0,0,0
+963701,2015/16,Sri Lanka,5,S Prasanna,f78e7113,A Nehra,96fd40ae,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,0,0,0
+963701,2015/16,Sri Lanka,5,S Prasanna,f78e7113,A Nehra,96fd40ae,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,4,0,4
+963701,2015/16,Sri Lanka,5,S Prasanna,f78e7113,A Nehra,96fd40ae,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,0,0,0
+963701,2015/16,Sri Lanka,5,S Prasanna,f78e7113,A Nehra,96fd40ae,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,4,0,4
+963701,2015/16,Sri Lanka,6,MD Shanaka,3ff033bb,RA Jadeja,fe93fd9d,S Prasanna,f78e7113,0,0,0,0,0,,,,,,0,0,0
+963701,2015/16,Sri Lanka,6,MD Shanaka,3ff033bb,RA Jadeja,fe93fd9d,S Prasanna,f78e7113,0,0,0,0,0,,,,,,4,0,4
+963701,2015/16,Sri Lanka,6,MD Shanaka,3ff033bb,RA Jadeja,fe93fd9d,S Prasanna,f78e7113,0,0,0,0,0,,,,,,0,0,0
+963701,2015/16,Sri Lanka,6,MD Shanaka,3ff033bb,RA Jadeja,fe93fd9d,S Prasanna,f78e7113,0,0,0,0,0,,,,,,0,0,0
+963701,2015/16,Sri Lanka,6,MD Shanaka,3ff033bb,RA Jadeja,fe93fd9d,S Prasanna,f78e7113,0,0,0,0,0,,,,,,0,0,0
+963701,2015/16,Sri Lanka,6,MD Shanaka,3ff033bb,RA Jadeja,fe93fd9d,S Prasanna,f78e7113,0,0,0,0,0,,,,,,0,0,0
+963701,2015/16,Sri Lanka,7,S Prasanna,f78e7113,Yuvraj Singh,1c914163,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,1,0,1
+963701,2015/16,Sri Lanka,7,MD Shanaka,3ff033bb,Yuvraj Singh,1c914163,S Prasanna,f78e7113,0,0,0,0,0,,,,,,0,0,0
+963701,2015/16,Sri Lanka,7,MD Shanaka,3ff033bb,Yuvraj Singh,1c914163,S Prasanna,f78e7113,0,1,0,0,0,,,,,,6,1,7
+963701,2015/16,Sri Lanka,7,MD Shanaka,3ff033bb,Yuvraj Singh,1c914163,S Prasanna,f78e7113,0,0,0,0,0,,,,,,6,0,6
+963701,2015/16,Sri Lanka,7,MD Shanaka,3ff033bb,Yuvraj Singh,1c914163,S Prasanna,f78e7113,0,0,0,0,0,,,,,,1,0,1
+963701,2015/16,Sri Lanka,7,S Prasanna,f78e7113,Yuvraj Singh,1c914163,MD Shanaka,3ff033bb,0,0,0,0,1,S Prasanna,f78e7113,RA Jadeja,fe93fd9d,run out,0,0,0
+963701,2015/16,Sri Lanka,7,MD Shanaka,3ff033bb,Yuvraj Singh,1c914163,NLTC Perera,0f12f9df,0,0,0,0,0,,,,,,0,0,0
+963701,2015/16,Sri Lanka,8,NLTC Perera,0f12f9df,RA Jadeja,fe93fd9d,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,0,0,0
+963701,2015/16,Sri Lanka,8,NLTC Perera,0f12f9df,RA Jadeja,fe93fd9d,MD Shanaka,3ff033bb,1,0,0,0,0,,,,,,0,1,1
+963701,2015/16,Sri Lanka,8,NLTC Perera,0f12f9df,RA Jadeja,fe93fd9d,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,1,0,1
+963701,2015/16,Sri Lanka,8,MD Shanaka,3ff033bb,RA Jadeja,fe93fd9d,NLTC Perera,0f12f9df,0,0,0,0,0,,,,,,0,0,0
+963701,2015/16,Sri Lanka,8,MD Shanaka,3ff033bb,RA Jadeja,fe93fd9d,NLTC Perera,0f12f9df,0,0,0,0,0,,,,,,0,0,0
+963701,2015/16,Sri Lanka,8,MD Shanaka,3ff033bb,RA Jadeja,fe93fd9d,NLTC Perera,0f12f9df,0,0,0,0,0,,,,,,0,0,0
+963701,2015/16,Sri Lanka,8,MD Shanaka,3ff033bb,RA Jadeja,fe93fd9d,NLTC Perera,0f12f9df,0,0,0,0,0,,,,,,0,0,0
+963701,2015/16,Sri Lanka,9,NLTC Perera,0f12f9df,HH Pandya,dbe50b21,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,1,0,1
+963701,2015/16,Sri Lanka,9,MD Shanaka,3ff033bb,HH Pandya,dbe50b21,NLTC Perera,0f12f9df,0,0,0,0,0,,,,,,1,0,1
+963701,2015/16,Sri Lanka,9,NLTC Perera,0f12f9df,HH Pandya,dbe50b21,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,1,0,1
+963701,2015/16,Sri Lanka,9,MD Shanaka,3ff033bb,HH Pandya,dbe50b21,NLTC Perera,0f12f9df,0,0,0,0,0,,,,,,1,0,1
+963701,2015/16,Sri Lanka,9,NLTC Perera,0f12f9df,HH Pandya,dbe50b21,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,0,0,0
+963701,2015/16,Sri Lanka,9,NLTC Perera,0f12f9df,HH Pandya,dbe50b21,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,0,0,0
+963701,2015/16,Sri Lanka,10,MD Shanaka,3ff033bb,RA Jadeja,fe93fd9d,NLTC Perera,0f12f9df,0,0,0,0,0,,,,,,0,0,0
+963701,2015/16,Sri Lanka,10,MD Shanaka,3ff033bb,RA Jadeja,fe93fd9d,NLTC Perera,0f12f9df,0,0,0,0,0,,,,,,0,0,0
+963701,2015/16,Sri Lanka,10,MD Shanaka,3ff033bb,RA Jadeja,fe93fd9d,NLTC Perera,0f12f9df,0,0,0,0,1,MD Shanaka,3ff033bb,,,bowled,0,0,0
+963701,2015/16,Sri Lanka,10,SMSM Senanayake,4c4fa80b,RA Jadeja,fe93fd9d,NLTC Perera,0f12f9df,0,0,0,0,0,,,,,,0,0,0
+963701,2015/16,Sri Lanka,10,SMSM Senanayake,4c4fa80b,RA Jadeja,fe93fd9d,NLTC Perera,0f12f9df,0,0,0,0,0,,,,,,0,0,0
+963701,2015/16,Sri Lanka,10,SMSM Senanayake,4c4fa80b,RA Jadeja,fe93fd9d,NLTC Perera,0f12f9df,0,0,0,0,0,,,,,,0,0,0
+963701,2015/16,Sri Lanka,11,NLTC Perera,0f12f9df,HH Pandya,dbe50b21,SMSM Senanayake,4c4fa80b,0,0,0,0,0,,,,,,1,0,1
+963701,2015/16,Sri Lanka,11,SMSM Senanayake,4c4fa80b,HH Pandya,dbe50b21,NLTC Perera,0f12f9df,0,0,0,0,0,,,,,,1,0,1
+963701,2015/16,Sri Lanka,11,NLTC Perera,0f12f9df,HH Pandya,dbe50b21,SMSM Senanayake,4c4fa80b,0,0,0,0,0,,,,,,4,0,4
+963701,2015/16,Sri Lanka,11,NLTC Perera,0f12f9df,HH Pandya,dbe50b21,SMSM Senanayake,4c4fa80b,0,0,0,0,0,,,,,,1,0,1
+963701,2015/16,Sri Lanka,11,SMSM Senanayake,4c4fa80b,HH Pandya,dbe50b21,NLTC Perera,0f12f9df,1,0,0,0,0,,,,,,0,1,1
+963701,2015/16,Sri Lanka,11,SMSM Senanayake,4c4fa80b,HH Pandya,dbe50b21,NLTC Perera,0f12f9df,0,0,0,0,0,,,,,,0,0,0
+963701,2015/16,Sri Lanka,11,SMSM Senanayake,4c4fa80b,HH Pandya,dbe50b21,NLTC Perera,0f12f9df,0,0,0,0,0,,,,,,1,0,1
+963701,2015/16,Sri Lanka,12,SMSM Senanayake,4c4fa80b,SK Raina,1dc12ab9,NLTC Perera,0f12f9df,0,0,0,0,0,,,,,,0,0,0
+963701,2015/16,Sri Lanka,12,SMSM Senanayake,4c4fa80b,SK Raina,1dc12ab9,NLTC Perera,0f12f9df,0,0,0,0,0,,,,,,0,0,0
+963701,2015/16,Sri Lanka,12,SMSM Senanayake,4c4fa80b,SK Raina,1dc12ab9,NLTC Perera,0f12f9df,0,0,0,0,0,,,,,,2,0,2
+963701,2015/16,Sri Lanka,12,SMSM Senanayake,4c4fa80b,SK Raina,1dc12ab9,NLTC Perera,0f12f9df,0,0,0,0,0,,,,,,0,0,0
+963701,2015/16,Sri Lanka,12,SMSM Senanayake,4c4fa80b,SK Raina,1dc12ab9,NLTC Perera,0f12f9df,0,0,0,0,0,,,,,,1,0,1
+963701,2015/16,Sri Lanka,12,NLTC Perera,0f12f9df,SK Raina,1dc12ab9,SMSM Senanayake,4c4fa80b,0,0,0,0,0,,,,,,0,0,0
+963701,2015/16,Sri Lanka,13,SMSM Senanayake,4c4fa80b,R Ashwin,495d42a5,NLTC Perera,0f12f9df,0,0,0,0,0,,,,,,1,0,1
+963701,2015/16,Sri Lanka,13,NLTC Perera,0f12f9df,R Ashwin,495d42a5,SMSM Senanayake,4c4fa80b,0,0,0,0,0,,,,,,0,0,0
+963701,2015/16,Sri Lanka,13,NLTC Perera,0f12f9df,R Ashwin,495d42a5,SMSM Senanayake,4c4fa80b,0,0,0,0,0,,,,,,1,0,1
+963701,2015/16,Sri Lanka,13,SMSM Senanayake,4c4fa80b,R Ashwin,495d42a5,NLTC Perera,0f12f9df,0,0,0,0,0,,,,,,1,0,1
+963701,2015/16,Sri Lanka,13,NLTC Perera,0f12f9df,R Ashwin,495d42a5,SMSM Senanayake,4c4fa80b,0,0,0,0,0,,,,,,0,0,0
+963701,2015/16,Sri Lanka,13,NLTC Perera,0f12f9df,R Ashwin,495d42a5,SMSM Senanayake,4c4fa80b,0,0,0,0,0,,,,,,0,0,0
+963701,2015/16,Sri Lanka,14,SMSM Senanayake,4c4fa80b,JJ Bumrah,462411b3,NLTC Perera,0f12f9df,0,0,0,0,0,,,,,,1,0,1
+963701,2015/16,Sri Lanka,14,NLTC Perera,0f12f9df,JJ Bumrah,462411b3,SMSM Senanayake,4c4fa80b,0,0,0,0,0,,,,,,0,0,0
+963701,2015/16,Sri Lanka,14,NLTC Perera,0f12f9df,JJ Bumrah,462411b3,SMSM Senanayake,4c4fa80b,0,0,0,0,0,,,,,,0,0,0
+963701,2015/16,Sri Lanka,14,NLTC Perera,0f12f9df,JJ Bumrah,462411b3,SMSM Senanayake,4c4fa80b,0,0,0,0,0,,,,,,0,0,0
+963701,2015/16,Sri Lanka,14,NLTC Perera,0f12f9df,JJ Bumrah,462411b3,SMSM Senanayake,4c4fa80b,0,0,0,0,0,,,,,,1,0,1
+963701,2015/16,Sri Lanka,14,SMSM Senanayake,4c4fa80b,JJ Bumrah,462411b3,NLTC Perera,0f12f9df,0,0,0,0,0,,,,,,0,0,0
+963701,2015/16,Sri Lanka,15,NLTC Perera,0f12f9df,SK Raina,1dc12ab9,SMSM Senanayake,4c4fa80b,0,0,0,0,0,,,,,,1,0,1
+963701,2015/16,Sri Lanka,15,SMSM Senanayake,4c4fa80b,SK Raina,1dc12ab9,NLTC Perera,0f12f9df,0,0,0,0,1,SMSM Senanayake,4c4fa80b,MS Dhoni,4a8a2e3b,caught,0,0,0
+963701,2015/16,Sri Lanka,15,PVD Chameera,327b58d3,SK Raina,1dc12ab9,NLTC Perera,0f12f9df,0,0,0,0,0,,,,,,1,0,1
+963701,2015/16,Sri Lanka,15,NLTC Perera,0f12f9df,SK Raina,1dc12ab9,PVD Chameera,327b58d3,0,0,0,0,1,NLTC Perera,0f12f9df,RA Jadeja,fe93fd9d,caught,0,0,0
+963701,2015/16,Sri Lanka,15,PVD Chameera,327b58d3,SK Raina,1dc12ab9,CRD Fernando,342d8ade,0,0,0,0,0,,,,,,1,0,1
+963701,2015/16,Sri Lanka,15,CRD Fernando,342d8ade,SK Raina,1dc12ab9,PVD Chameera,327b58d3,0,0,0,0,0,,,,,,0,0,0
+963701,2015/16,Sri Lanka,16,PVD Chameera,327b58d3,RA Jadeja,fe93fd9d,CRD Fernando,342d8ade,0,0,0,0,0,,,,,,0,0,0
+963701,2015/16,Sri Lanka,16,PVD Chameera,327b58d3,RA Jadeja,fe93fd9d,CRD Fernando,342d8ade,0,0,0,0,0,,,,,,0,0,0
+963701,2015/16,Sri Lanka,16,PVD Chameera,327b58d3,RA Jadeja,fe93fd9d,CRD Fernando,342d8ade,0,0,0,0,0,,,,,,0,0,0
+963701,2015/16,Sri Lanka,16,PVD Chameera,327b58d3,RA Jadeja,fe93fd9d,CRD Fernando,342d8ade,0,0,0,0,0,,,,,,4,0,4
+963701,2015/16,Sri Lanka,16,PVD Chameera,327b58d3,RA Jadeja,fe93fd9d,CRD Fernando,342d8ade,0,0,0,0,0,,,,,,1,0,1
+963701,2015/16,Sri Lanka,16,CRD Fernando,342d8ade,RA Jadeja,fe93fd9d,PVD Chameera,327b58d3,0,0,0,0,0,,,,,,0,0,0
+963701,2015/16,Sri Lanka,17,PVD Chameera,327b58d3,JJ Bumrah,462411b3,CRD Fernando,342d8ade,0,0,0,0,0,,,,,,1,0,1
+963701,2015/16,Sri Lanka,17,CRD Fernando,342d8ade,JJ Bumrah,462411b3,PVD Chameera,327b58d3,0,0,0,0,0,,,,,,0,0,0
+963701,2015/16,Sri Lanka,17,CRD Fernando,342d8ade,JJ Bumrah,462411b3,PVD Chameera,327b58d3,0,0,0,0,0,,,,,,0,0,0
+963701,2015/16,Sri Lanka,17,CRD Fernando,342d8ade,JJ Bumrah,462411b3,PVD Chameera,327b58d3,0,0,0,0,0,,,,,,1,0,1
+963701,2015/16,Sri Lanka,17,PVD Chameera,327b58d3,JJ Bumrah,462411b3,CRD Fernando,342d8ade,0,0,0,0,0,,,,,,1,0,1
+963701,2015/16,Sri Lanka,17,CRD Fernando,342d8ade,JJ Bumrah,462411b3,PVD Chameera,327b58d3,0,0,0,0,1,CRD Fernando,342d8ade,,,bowled,0,0,0
+963701,2015/16,India,0,RG Sharma,740742ef,SMSM Senanayake,4c4fa80b,S Dhawan,0a476045,0,0,0,0,0,,,,,,1,0,1
+963701,2015/16,India,0,S Dhawan,0a476045,SMSM Senanayake,4c4fa80b,RG Sharma,740742ef,0,0,0,0,0,,,,,,0,0,0
+963701,2015/16,India,0,S Dhawan,0a476045,SMSM Senanayake,4c4fa80b,RG Sharma,740742ef,0,0,0,0,0,,,,,,0,0,0
+963701,2015/16,India,0,S Dhawan,0a476045,SMSM Senanayake,4c4fa80b,RG Sharma,740742ef,0,0,0,0,0,,,,,,0,0,0
+963701,2015/16,India,0,S Dhawan,0a476045,SMSM Senanayake,4c4fa80b,RG Sharma,740742ef,0,0,0,0,0,,,,,,4,0,4
+963701,2015/16,India,0,S Dhawan,0a476045,SMSM Senanayake,4c4fa80b,RG Sharma,740742ef,0,0,0,0,0,,,,,,0,0,0
+963701,2015/16,India,1,RG Sharma,740742ef,CRD Fernando,342d8ade,S Dhawan,0a476045,0,0,0,0,0,,,,,,0,0,0
+963701,2015/16,India,1,RG Sharma,740742ef,CRD Fernando,342d8ade,S Dhawan,0a476045,0,0,0,0,0,,,,,,0,0,0
+963701,2015/16,India,1,RG Sharma,740742ef,CRD Fernando,342d8ade,S Dhawan,0a476045,0,0,0,0,0,,,,,,0,0,0
+963701,2015/16,India,1,RG Sharma,740742ef,CRD Fernando,342d8ade,S Dhawan,0a476045,0,0,0,0,0,,,,,,1,0,1
+963701,2015/16,India,1,S Dhawan,0a476045,CRD Fernando,342d8ade,RG Sharma,740742ef,0,0,0,0,0,,,,,,1,0,1
+963701,2015/16,India,1,RG Sharma,740742ef,CRD Fernando,342d8ade,S Dhawan,0a476045,0,0,0,0,0,,,,,,0,0,0
+963701,2015/16,India,2,S Dhawan,0a476045,SMSM Senanayake,4c4fa80b,RG Sharma,740742ef,0,0,0,0,0,,,,,,0,0,0
+963701,2015/16,India,2,S Dhawan,0a476045,SMSM Senanayake,4c4fa80b,RG Sharma,740742ef,0,0,0,0,0,,,,,,4,0,4
+963701,2015/16,India,2,S Dhawan,0a476045,SMSM Senanayake,4c4fa80b,RG Sharma,740742ef,0,0,0,0,0,,,,,,1,0,1
+963701,2015/16,India,2,RG Sharma,740742ef,SMSM Senanayake,4c4fa80b,S Dhawan,0a476045,0,0,0,0,0,,,,,,0,0,0
+963701,2015/16,India,2,RG Sharma,740742ef,SMSM Senanayake,4c4fa80b,S Dhawan,0a476045,0,0,0,0,0,,,,,,0,0,0
+963701,2015/16,India,2,RG Sharma,740742ef,SMSM Senanayake,4c4fa80b,S Dhawan,0a476045,0,0,0,0,0,,,,,,0,0,0
+963701,2015/16,India,3,S Dhawan,0a476045,CRD Fernando,342d8ade,RG Sharma,740742ef,0,0,0,0,0,,,,,,0,0,0
+963701,2015/16,India,3,S Dhawan,0a476045,CRD Fernando,342d8ade,RG Sharma,740742ef,0,0,0,0,0,,,,,,0,0,0
+963701,2015/16,India,3,S Dhawan,0a476045,CRD Fernando,342d8ade,RG Sharma,740742ef,0,0,0,0,0,,,,,,0,0,0
+963701,2015/16,India,3,S Dhawan,0a476045,CRD Fernando,342d8ade,RG Sharma,740742ef,0,0,0,0,0,,,,,,4,0,4
+963701,2015/16,India,3,S Dhawan,0a476045,CRD Fernando,342d8ade,RG Sharma,740742ef,0,0,0,0,0,,,,,,0,0,0
+963701,2015/16,India,3,S Dhawan,0a476045,CRD Fernando,342d8ade,RG Sharma,740742ef,0,0,0,0,0,,,,,,1,0,1
+963701,2015/16,India,4,S Dhawan,0a476045,SMSM Senanayake,4c4fa80b,RG Sharma,740742ef,0,0,0,0,0,,,,,,1,0,1
+963701,2015/16,India,4,RG Sharma,740742ef,SMSM Senanayake,4c4fa80b,S Dhawan,0a476045,0,0,0,0,0,,,,,,6,0,6
+963701,2015/16,India,4,RG Sharma,740742ef,SMSM Senanayake,4c4fa80b,S Dhawan,0a476045,0,0,0,0,0,,,,,,1,0,1
+963701,2015/16,India,4,S Dhawan,0a476045,SMSM Senanayake,4c4fa80b,RG Sharma,740742ef,0,0,0,0,0,,,,,,0,0,0
+963701,2015/16,India,4,S Dhawan,0a476045,SMSM Senanayake,4c4fa80b,RG Sharma,740742ef,0,0,0,0,0,,,,,,0,0,0
+963701,2015/16,India,4,S Dhawan,0a476045,SMSM Senanayake,4c4fa80b,RG Sharma,740742ef,0,0,0,0,0,,,,,,0,0,0
+963701,2015/16,India,5,RG Sharma,740742ef,PVD Chameera,327b58d3,S Dhawan,0a476045,0,0,0,0,0,,,,,,4,0,4
+963701,2015/16,India,5,RG Sharma,740742ef,PVD Chameera,327b58d3,S Dhawan,0a476045,0,0,0,0,1,RG Sharma,740742ef,,,lbw,0,0,0
+963701,2015/16,India,5,AM Rahane,29e95537,PVD Chameera,327b58d3,S Dhawan,0a476045,0,0,0,0,0,,,,,,0,0,0
+963701,2015/16,India,5,AM Rahane,29e95537,PVD Chameera,327b58d3,S Dhawan,0a476045,0,0,2,0,0,,,,,,0,2,2
+963701,2015/16,India,5,AM Rahane,29e95537,PVD Chameera,327b58d3,S Dhawan,0a476045,0,0,0,0,0,,,,,,4,0,4
+963701,2015/16,India,5,AM Rahane,29e95537,PVD Chameera,327b58d3,S Dhawan,0a476045,0,0,0,0,0,,,,,,0,0,0
+963701,2015/16,India,6,S Dhawan,0a476045,S Prasanna,f78e7113,AM Rahane,29e95537,0,0,0,0,0,,,,,,0,0,0
+963701,2015/16,India,6,S Dhawan,0a476045,S Prasanna,f78e7113,AM Rahane,29e95537,0,0,0,0,0,,,,,,1,0,1
+963701,2015/16,India,6,AM Rahane,29e95537,S Prasanna,f78e7113,S Dhawan,0a476045,0,0,0,0,0,,,,,,1,0,1
+963701,2015/16,India,6,S Dhawan,0a476045,S Prasanna,f78e7113,AM Rahane,29e95537,0,0,1,0,0,,,,,,0,1,1
+963701,2015/16,India,6,AM Rahane,29e95537,S Prasanna,f78e7113,S Dhawan,0a476045,0,0,0,0,0,,,,,,1,0,1
+963701,2015/16,India,6,S Dhawan,0a476045,S Prasanna,f78e7113,AM Rahane,29e95537,0,0,0,0,0,,,,,,0,0,0
+963701,2015/16,India,7,AM Rahane,29e95537,PVD Chameera,327b58d3,S Dhawan,0a476045,0,0,0,0,0,,,,,,0,0,0
+963701,2015/16,India,7,AM Rahane,29e95537,PVD Chameera,327b58d3,S Dhawan,0a476045,0,0,0,0,0,,,,,,2,0,2
+963701,2015/16,India,7,AM Rahane,29e95537,PVD Chameera,327b58d3,S Dhawan,0a476045,0,0,0,0,0,,,,,,1,0,1
+963701,2015/16,India,7,S Dhawan,0a476045,PVD Chameera,327b58d3,AM Rahane,29e95537,0,0,0,0,0,,,,,,1,0,1
+963701,2015/16,India,7,AM Rahane,29e95537,PVD Chameera,327b58d3,S Dhawan,0a476045,0,0,0,0,0,,,,,,1,0,1
+963701,2015/16,India,7,S Dhawan,0a476045,PVD Chameera,327b58d3,AM Rahane,29e95537,0,0,0,0,0,,,,,,1,0,1
+963701,2015/16,India,8,S Dhawan,0a476045,TAM Siriwardana,bf7842c9,AM Rahane,29e95537,0,0,0,0,0,,,,,,1,0,1
+963701,2015/16,India,8,AM Rahane,29e95537,TAM Siriwardana,bf7842c9,S Dhawan,0a476045,0,0,0,0,0,,,,,,1,0,1
+963701,2015/16,India,8,S Dhawan,0a476045,TAM Siriwardana,bf7842c9,AM Rahane,29e95537,0,0,0,0,0,,,,,,4,0,4
+963701,2015/16,India,8,S Dhawan,0a476045,TAM Siriwardana,bf7842c9,AM Rahane,29e95537,0,0,0,0,0,,,,,,1,0,1
+963701,2015/16,India,8,AM Rahane,29e95537,TAM Siriwardana,bf7842c9,S Dhawan,0a476045,0,0,0,0,0,,,,,,1,0,1
+963701,2015/16,India,8,S Dhawan,0a476045,TAM Siriwardana,bf7842c9,AM Rahane,29e95537,0,0,0,0,0,,,,,,1,0,1
+963701,2015/16,India,9,S Dhawan,0a476045,DAS Gunaratne,770494eb,AM Rahane,29e95537,0,0,0,0,0,,,,,,1,0,1
+963701,2015/16,India,9,AM Rahane,29e95537,DAS Gunaratne,770494eb,S Dhawan,0a476045,0,0,0,0,0,,,,,,0,0,0
+963701,2015/16,India,9,AM Rahane,29e95537,DAS Gunaratne,770494eb,S Dhawan,0a476045,0,0,0,0,0,,,,,,1,0,1
+963701,2015/16,India,9,S Dhawan,0a476045,DAS Gunaratne,770494eb,AM Rahane,29e95537,0,0,0,0,0,,,,,,1,0,1
+963701,2015/16,India,9,AM Rahane,29e95537,DAS Gunaratne,770494eb,S Dhawan,0a476045,0,0,0,0,0,,,,,,0,0,0
+963701,2015/16,India,9,AM Rahane,29e95537,DAS Gunaratne,770494eb,S Dhawan,0a476045,0,0,0,0,0,,,,,,1,0,1
+963701,2015/16,India,10,AM Rahane,29e95537,SMSM Senanayake,4c4fa80b,S Dhawan,0a476045,0,0,0,0,0,,,,,,1,0,1
+963701,2015/16,India,10,S Dhawan,0a476045,SMSM Senanayake,4c4fa80b,AM Rahane,29e95537,0,0,0,0,0,,,,,,0,0,0
+963701,2015/16,India,10,S Dhawan,0a476045,SMSM Senanayake,4c4fa80b,AM Rahane,29e95537,0,0,0,0,0,,,,,,1,0,1
+963701,2015/16,India,10,AM Rahane,29e95537,SMSM Senanayake,4c4fa80b,S Dhawan,0a476045,0,0,0,0,0,,,,,,1,0,1
+963701,2015/16,India,10,S Dhawan,0a476045,SMSM Senanayake,4c4fa80b,AM Rahane,29e95537,0,0,0,0,0,,,,,,0,0,0
+963701,2015/16,India,10,S Dhawan,0a476045,SMSM Senanayake,4c4fa80b,AM Rahane,29e95537,0,0,0,0,0,,,,,,1,0,1
+963701,2015/16,India,11,S Dhawan,0a476045,DAS Gunaratne,770494eb,AM Rahane,29e95537,0,0,0,0,0,,,,,,0,0,0
+963701,2015/16,India,11,S Dhawan,0a476045,DAS Gunaratne,770494eb,AM Rahane,29e95537,0,0,0,0,0,,,,,,1,0,1
+963701,2015/16,India,11,AM Rahane,29e95537,DAS Gunaratne,770494eb,S Dhawan,0a476045,0,0,0,0,0,,,,,,0,0,0
+963701,2015/16,India,11,AM Rahane,29e95537,DAS Gunaratne,770494eb,S Dhawan,0a476045,0,0,0,0,0,,,,,,1,0,1
+963701,2015/16,India,11,S Dhawan,0a476045,DAS Gunaratne,770494eb,AM Rahane,29e95537,0,0,0,0,0,,,,,,0,0,0
+963701,2015/16,India,11,S Dhawan,0a476045,DAS Gunaratne,770494eb,AM Rahane,29e95537,0,0,0,0,0,,,,,,1,0,1
+963701,2015/16,India,12,S Dhawan,0a476045,TM Dilshan,5bdcdb72,AM Rahane,29e95537,0,0,0,0,0,,,,,,1,0,1
+963701,2015/16,India,12,AM Rahane,29e95537,TM Dilshan,5bdcdb72,S Dhawan,0a476045,0,0,0,0,0,,,,,,1,0,1
+963701,2015/16,India,12,S Dhawan,0a476045,TM Dilshan,5bdcdb72,AM Rahane,29e95537,0,0,0,0,0,,,,,,0,0,0
+963701,2015/16,India,12,S Dhawan,0a476045,TM Dilshan,5bdcdb72,AM Rahane,29e95537,0,0,0,0,0,,,,,,0,0,0
+963701,2015/16,India,12,S Dhawan,0a476045,TM Dilshan,5bdcdb72,AM Rahane,29e95537,0,0,0,0,0,,,,,,1,0,1
+963701,2015/16,India,12,AM Rahane,29e95537,TM Dilshan,5bdcdb72,S Dhawan,0a476045,0,0,0,0,0,,,,,,1,0,1
+963701,2015/16,India,13,AM Rahane,29e95537,DAS Gunaratne,770494eb,S Dhawan,0a476045,0,0,0,0,0,,,,,,2,0,2
+963701,2015/16,India,13,AM Rahane,29e95537,DAS Gunaratne,770494eb,S Dhawan,0a476045,0,0,0,0,0,,,,,,1,0,1
+963701,2015/16,India,13,S Dhawan,0a476045,DAS Gunaratne,770494eb,AM Rahane,29e95537,0,0,0,0,0,,,,,,2,0,2
+963701,2015/16,India,13,S Dhawan,0a476045,DAS Gunaratne,770494eb,AM Rahane,29e95537,0,0,0,0,0,,,,,,6,0,6
+963701,2015/16,India,13,S Dhawan,0a476045,DAS Gunaratne,770494eb,AM Rahane,29e95537,0,0,0,0,0,,,,,,4,0,4

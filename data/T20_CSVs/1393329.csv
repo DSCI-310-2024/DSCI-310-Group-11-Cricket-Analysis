@@ -1,0 +1,253 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1393329,2023,Uganda,0,RG Mukasa,011f6b42,M Yunusu Issa,bbab35a3,S Sesazi,c2c975f9,0,0,0,0,1,RG Mukasa,011f6b42,AP Rajeevan,63d6f031,caught,0,0,0
+1393329,2023,Uganda,0,R Lutaaya,04e0cdec,M Yunusu Issa,bbab35a3,S Sesazi,c2c975f9,0,0,0,0,0,,,,,,1,0,1
+1393329,2023,Uganda,0,S Sesazi,c2c975f9,M Yunusu Issa,bbab35a3,R Lutaaya,04e0cdec,0,0,0,0,0,,,,,,2,0,2
+1393329,2023,Uganda,0,S Sesazi,c2c975f9,M Yunusu Issa,bbab35a3,R Lutaaya,04e0cdec,0,0,0,0,0,,,,,,4,0,4
+1393329,2023,Uganda,0,S Sesazi,c2c975f9,M Yunusu Issa,bbab35a3,R Lutaaya,04e0cdec,0,0,0,0,0,,,,,,0,0,0
+1393329,2023,Uganda,0,S Sesazi,c2c975f9,M Yunusu Issa,bbab35a3,R Lutaaya,04e0cdec,0,0,0,0,0,,,,,,1,0,1
+1393329,2023,Uganda,1,S Sesazi,c2c975f9,SA Jumbe,91056862,R Lutaaya,04e0cdec,1,0,0,0,0,,,,,,0,1,1
+1393329,2023,Uganda,1,S Sesazi,c2c975f9,SA Jumbe,91056862,R Lutaaya,04e0cdec,1,0,0,0,0,,,,,,0,1,1
+1393329,2023,Uganda,1,S Sesazi,c2c975f9,SA Jumbe,91056862,R Lutaaya,04e0cdec,0,0,0,0,0,,,,,,4,0,4
+1393329,2023,Uganda,1,S Sesazi,c2c975f9,SA Jumbe,91056862,R Lutaaya,04e0cdec,0,0,0,0,0,,,,,,1,0,1
+1393329,2023,Uganda,1,R Lutaaya,04e0cdec,SA Jumbe,91056862,S Sesazi,c2c975f9,0,0,0,0,0,,,,,,4,0,4
+1393329,2023,Uganda,1,R Lutaaya,04e0cdec,SA Jumbe,91056862,S Sesazi,c2c975f9,0,0,1,0,0,,,,,,0,1,1
+1393329,2023,Uganda,1,S Sesazi,c2c975f9,SA Jumbe,91056862,R Lutaaya,04e0cdec,0,0,0,0,0,,,,,,0,0,0
+1393329,2023,Uganda,1,S Sesazi,c2c975f9,SA Jumbe,91056862,R Lutaaya,04e0cdec,0,0,0,0,0,,,,,,1,0,1
+1393329,2023,Uganda,2,S Sesazi,c2c975f9,M Yunusu Issa,bbab35a3,R Lutaaya,04e0cdec,0,0,0,0,0,,,,,,4,0,4
+1393329,2023,Uganda,2,S Sesazi,c2c975f9,M Yunusu Issa,bbab35a3,R Lutaaya,04e0cdec,0,0,0,0,0,,,,,,4,0,4
+1393329,2023,Uganda,2,S Sesazi,c2c975f9,M Yunusu Issa,bbab35a3,R Lutaaya,04e0cdec,0,0,0,0,0,,,,,,0,0,0
+1393329,2023,Uganda,2,S Sesazi,c2c975f9,M Yunusu Issa,bbab35a3,R Lutaaya,04e0cdec,0,0,0,0,0,,,,,,0,0,0
+1393329,2023,Uganda,2,S Sesazi,c2c975f9,M Yunusu Issa,bbab35a3,R Lutaaya,04e0cdec,0,0,0,0,0,,,,,,0,0,0
+1393329,2023,Uganda,2,S Sesazi,c2c975f9,M Yunusu Issa,bbab35a3,R Lutaaya,04e0cdec,0,0,0,0,0,,,,,,0,0,0
+1393329,2023,Uganda,3,R Lutaaya,04e0cdec,AM Kimote,34e36b65,S Sesazi,c2c975f9,0,0,0,0,0,,,,,,0,0,0
+1393329,2023,Uganda,3,R Lutaaya,04e0cdec,AM Kimote,34e36b65,S Sesazi,c2c975f9,0,0,0,0,0,,,,,,6,0,6
+1393329,2023,Uganda,3,R Lutaaya,04e0cdec,AM Kimote,34e36b65,S Sesazi,c2c975f9,0,0,0,0,0,,,,,,4,0,4
+1393329,2023,Uganda,3,R Lutaaya,04e0cdec,AM Kimote,34e36b65,S Sesazi,c2c975f9,0,0,0,0,0,,,,,,0,0,0
+1393329,2023,Uganda,3,R Lutaaya,04e0cdec,AM Kimote,34e36b65,S Sesazi,c2c975f9,0,0,0,0,0,,,,,,6,0,6
+1393329,2023,Uganda,3,R Lutaaya,04e0cdec,AM Kimote,34e36b65,S Sesazi,c2c975f9,0,0,0,0,0,,,,,,1,0,1
+1393329,2023,Uganda,4,R Lutaaya,04e0cdec,SA Jumbe,91056862,S Sesazi,c2c975f9,0,0,0,0,0,,,,,,0,0,0
+1393329,2023,Uganda,4,R Lutaaya,04e0cdec,SA Jumbe,91056862,S Sesazi,c2c975f9,0,0,0,0,1,R Lutaaya,04e0cdec,DA Mehta,61a7d6e9,caught,0,0,0
+1393329,2023,Uganda,4,RB Patel,f88dc8de,SA Jumbe,91056862,S Sesazi,c2c975f9,1,0,0,0,0,,,,,,0,1,1
+1393329,2023,Uganda,4,RB Patel,f88dc8de,SA Jumbe,91056862,S Sesazi,c2c975f9,0,0,0,0,1,RB Patel,f88dc8de,,,retired hurt,0,0,0
+1393329,2023,Uganda,4,AR Ramjani,30d8136b,SA Jumbe,91056862,S Sesazi,c2c975f9,0,0,0,0,0,,,,,,0,0,0
+1393329,2023,Uganda,4,AR Ramjani,30d8136b,SA Jumbe,91056862,S Sesazi,c2c975f9,1,0,0,0,0,,,,,,0,1,1
+1393329,2023,Uganda,4,AR Ramjani,30d8136b,SA Jumbe,91056862,S Sesazi,c2c975f9,0,0,0,0,0,,,,,,0,0,0
+1393329,2023,Uganda,4,AR Ramjani,30d8136b,SA Jumbe,91056862,S Sesazi,c2c975f9,0,0,0,0,0,,,,,,0,0,0
+1393329,2023,Uganda,5,S Sesazi,c2c975f9,AM Kimote,34e36b65,AR Ramjani,30d8136b,0,0,0,0,0,,,,,,0,0,0
+1393329,2023,Uganda,5,S Sesazi,c2c975f9,AM Kimote,34e36b65,AR Ramjani,30d8136b,0,0,0,0,0,,,,,,1,0,1
+1393329,2023,Uganda,5,AR Ramjani,30d8136b,AM Kimote,34e36b65,S Sesazi,c2c975f9,0,0,0,0,0,,,,,,2,0,2
+1393329,2023,Uganda,5,AR Ramjani,30d8136b,AM Kimote,34e36b65,S Sesazi,c2c975f9,0,0,0,0,0,,,,,,0,0,0
+1393329,2023,Uganda,5,AR Ramjani,30d8136b,AM Kimote,34e36b65,S Sesazi,c2c975f9,0,0,0,0,0,,,,,,0,0,0
+1393329,2023,Uganda,5,AR Ramjani,30d8136b,AM Kimote,34e36b65,S Sesazi,c2c975f9,0,0,0,0,0,,,,,,0,0,0
+1393329,2023,Uganda,6,S Sesazi,c2c975f9,JJ Nyambo,ffb3b559,AR Ramjani,30d8136b,0,0,0,0,1,S Sesazi,c2c975f9,M Yunusu Issa,bbab35a3,caught,0,0,0
+1393329,2023,Uganda,6,K Waiswa,a3a275ec,JJ Nyambo,ffb3b559,AR Ramjani,30d8136b,0,0,0,0,0,,,,,,0,0,0
+1393329,2023,Uganda,6,K Waiswa,a3a275ec,JJ Nyambo,ffb3b559,AR Ramjani,30d8136b,0,0,0,0,0,,,,,,0,0,0
+1393329,2023,Uganda,6,K Waiswa,a3a275ec,JJ Nyambo,ffb3b559,AR Ramjani,30d8136b,0,0,0,4,0,,,,,,0,4,4
+1393329,2023,Uganda,6,K Waiswa,a3a275ec,JJ Nyambo,ffb3b559,AR Ramjani,30d8136b,0,0,0,0,0,,,,,,0,0,0
+1393329,2023,Uganda,6,K Waiswa,a3a275ec,JJ Nyambo,ffb3b559,AR Ramjani,30d8136b,0,0,0,0,0,,,,,,1,0,1
+1393329,2023,Uganda,7,K Waiswa,a3a275ec,YM Nkanya,9238dd92,AR Ramjani,30d8136b,0,0,0,0,0,,,,,,2,0,2
+1393329,2023,Uganda,7,K Waiswa,a3a275ec,YM Nkanya,9238dd92,AR Ramjani,30d8136b,0,0,0,0,0,,,,,,1,0,1
+1393329,2023,Uganda,7,AR Ramjani,30d8136b,YM Nkanya,9238dd92,K Waiswa,a3a275ec,0,0,0,0,0,,,,,,1,0,1
+1393329,2023,Uganda,7,K Waiswa,a3a275ec,YM Nkanya,9238dd92,AR Ramjani,30d8136b,0,0,0,0,0,,,,,,3,0,3
+1393329,2023,Uganda,7,AR Ramjani,30d8136b,YM Nkanya,9238dd92,K Waiswa,a3a275ec,0,0,0,0,0,,,,,,2,0,2
+1393329,2023,Uganda,7,AR Ramjani,30d8136b,YM Nkanya,9238dd92,K Waiswa,a3a275ec,0,0,0,0,0,,,,,,1,0,1
+1393329,2023,Uganda,8,AR Ramjani,30d8136b,JJ Nyambo,ffb3b559,K Waiswa,a3a275ec,0,0,0,0,0,,,,,,0,0,0
+1393329,2023,Uganda,8,AR Ramjani,30d8136b,JJ Nyambo,ffb3b559,K Waiswa,a3a275ec,0,0,0,0,0,,,,,,0,0,0
+1393329,2023,Uganda,8,AR Ramjani,30d8136b,JJ Nyambo,ffb3b559,K Waiswa,a3a275ec,0,0,0,0,0,,,,,,1,0,1
+1393329,2023,Uganda,8,K Waiswa,a3a275ec,JJ Nyambo,ffb3b559,AR Ramjani,30d8136b,0,0,0,0,0,,,,,,0,0,0
+1393329,2023,Uganda,8,K Waiswa,a3a275ec,JJ Nyambo,ffb3b559,AR Ramjani,30d8136b,0,0,0,0,0,,,,,,1,0,1
+1393329,2023,Uganda,8,AR Ramjani,30d8136b,JJ Nyambo,ffb3b559,K Waiswa,a3a275ec,0,0,0,0,0,,,,,,4,0,4
+1393329,2023,Uganda,9,K Waiswa,a3a275ec,YM Nkanya,9238dd92,AR Ramjani,30d8136b,0,0,0,0,0,,,,,,0,0,0
+1393329,2023,Uganda,9,K Waiswa,a3a275ec,YM Nkanya,9238dd92,AR Ramjani,30d8136b,0,0,0,0,0,,,,,,1,0,1
+1393329,2023,Uganda,9,AR Ramjani,30d8136b,YM Nkanya,9238dd92,K Waiswa,a3a275ec,0,0,0,0,0,,,,,,1,0,1
+1393329,2023,Uganda,9,K Waiswa,a3a275ec,YM Nkanya,9238dd92,AR Ramjani,30d8136b,1,0,0,0,0,,,,,,0,1,1
+1393329,2023,Uganda,9,K Waiswa,a3a275ec,YM Nkanya,9238dd92,AR Ramjani,30d8136b,0,0,0,0,0,,,,,,0,0,0
+1393329,2023,Uganda,9,K Waiswa,a3a275ec,YM Nkanya,9238dd92,AR Ramjani,30d8136b,0,0,0,0,0,,,,,,2,0,2
+1393329,2023,Uganda,9,K Waiswa,a3a275ec,YM Nkanya,9238dd92,AR Ramjani,30d8136b,0,0,0,0,0,,,,,,0,0,0
+1393329,2023,Uganda,10,AR Ramjani,30d8136b,JJ Nyambo,ffb3b559,K Waiswa,a3a275ec,0,0,0,0,0,,,,,,1,0,1
+1393329,2023,Uganda,10,K Waiswa,a3a275ec,JJ Nyambo,ffb3b559,AR Ramjani,30d8136b,0,0,1,0,0,,,,,,0,1,1
+1393329,2023,Uganda,10,AR Ramjani,30d8136b,JJ Nyambo,ffb3b559,K Waiswa,a3a275ec,0,0,0,0,0,,,,,,0,0,0
+1393329,2023,Uganda,10,AR Ramjani,30d8136b,JJ Nyambo,ffb3b559,K Waiswa,a3a275ec,0,0,0,0,0,,,,,,1,0,1
+1393329,2023,Uganda,10,K Waiswa,a3a275ec,JJ Nyambo,ffb3b559,AR Ramjani,30d8136b,0,0,1,0,0,,,,,,0,1,1
+1393329,2023,Uganda,10,AR Ramjani,30d8136b,JJ Nyambo,ffb3b559,K Waiswa,a3a275ec,0,0,0,0,0,,,,,,1,0,1
+1393329,2023,Uganda,11,AR Ramjani,30d8136b,YM Nkanya,9238dd92,K Waiswa,a3a275ec,0,0,0,0,0,,,,,,4,0,4
+1393329,2023,Uganda,11,AR Ramjani,30d8136b,YM Nkanya,9238dd92,K Waiswa,a3a275ec,0,0,0,0,0,,,,,,3,0,3
+1393329,2023,Uganda,11,K Waiswa,a3a275ec,YM Nkanya,9238dd92,AR Ramjani,30d8136b,0,0,0,0,0,,,,,,1,0,1
+1393329,2023,Uganda,11,AR Ramjani,30d8136b,YM Nkanya,9238dd92,K Waiswa,a3a275ec,0,0,0,0,0,,,,,,1,0,1
+1393329,2023,Uganda,11,K Waiswa,a3a275ec,YM Nkanya,9238dd92,AR Ramjani,30d8136b,0,0,0,0,0,,,,,,1,0,1
+1393329,2023,Uganda,11,AR Ramjani,30d8136b,YM Nkanya,9238dd92,K Waiswa,a3a275ec,0,0,0,0,0,,,,,,4,0,4
+1393329,2023,Uganda,12,K Waiswa,a3a275ec,JJ Nyambo,ffb3b559,AR Ramjani,30d8136b,0,0,0,0,0,,,,,,4,0,4
+1393329,2023,Uganda,12,K Waiswa,a3a275ec,JJ Nyambo,ffb3b559,AR Ramjani,30d8136b,0,0,0,0,0,,,,,,6,0,6
+1393329,2023,Uganda,12,K Waiswa,a3a275ec,JJ Nyambo,ffb3b559,AR Ramjani,30d8136b,0,0,0,0,0,,,,,,2,0,2
+1393329,2023,Uganda,12,K Waiswa,a3a275ec,JJ Nyambo,ffb3b559,AR Ramjani,30d8136b,0,0,0,0,0,,,,,,0,0,0
+1393329,2023,Uganda,12,K Waiswa,a3a275ec,JJ Nyambo,ffb3b559,AR Ramjani,30d8136b,0,0,0,0,0,,,,,,1,0,1
+1393329,2023,Uganda,12,AR Ramjani,30d8136b,JJ Nyambo,ffb3b559,K Waiswa,a3a275ec,0,0,0,0,0,,,,,,1,0,1
+1393329,2023,Uganda,13,AR Ramjani,30d8136b,S Thakor,0848ac5f,K Waiswa,a3a275ec,0,0,0,0,0,,,,,,4,0,4
+1393329,2023,Uganda,13,AR Ramjani,30d8136b,S Thakor,0848ac5f,K Waiswa,a3a275ec,0,0,0,0,0,,,,,,1,0,1
+1393329,2023,Uganda,13,K Waiswa,a3a275ec,S Thakor,0848ac5f,AR Ramjani,30d8136b,0,0,0,0,0,,,,,,1,0,1
+1393329,2023,Uganda,13,AR Ramjani,30d8136b,S Thakor,0848ac5f,K Waiswa,a3a275ec,0,0,0,0,0,,,,,,2,0,2
+1393329,2023,Uganda,13,AR Ramjani,30d8136b,S Thakor,0848ac5f,K Waiswa,a3a275ec,0,0,0,0,0,,,,,,0,0,0
+1393329,2023,Uganda,13,AR Ramjani,30d8136b,S Thakor,0848ac5f,K Waiswa,a3a275ec,0,0,0,0,0,,,,,,4,0,4
+1393329,2023,Uganda,14,K Waiswa,a3a275ec,AM Kimote,34e36b65,AR Ramjani,30d8136b,0,0,0,0,0,,,,,,4,0,4
+1393329,2023,Uganda,14,K Waiswa,a3a275ec,AM Kimote,34e36b65,AR Ramjani,30d8136b,0,0,0,0,0,,,,,,4,0,4
+1393329,2023,Uganda,14,K Waiswa,a3a275ec,AM Kimote,34e36b65,AR Ramjani,30d8136b,0,0,0,0,0,,,,,,1,0,1
+1393329,2023,Uganda,14,AR Ramjani,30d8136b,AM Kimote,34e36b65,K Waiswa,a3a275ec,0,0,0,0,0,,,,,,1,0,1
+1393329,2023,Uganda,14,K Waiswa,a3a275ec,AM Kimote,34e36b65,AR Ramjani,30d8136b,0,0,0,0,1,K Waiswa,a3a275ec,,,bowled,0,0,0
+1393329,2023,Uganda,14,B Masaba,f33cfd25,AM Kimote,34e36b65,AR Ramjani,30d8136b,0,0,0,0,0,,,,,,0,0,0
+1393329,2023,Uganda,15,AR Ramjani,30d8136b,M Yunusu Issa,bbab35a3,B Masaba,f33cfd25,0,0,0,0,0,,,,,,1,0,1
+1393329,2023,Uganda,15,B Masaba,f33cfd25,M Yunusu Issa,bbab35a3,AR Ramjani,30d8136b,1,0,0,0,0,,,,,,0,1,1
+1393329,2023,Uganda,15,B Masaba,f33cfd25,M Yunusu Issa,bbab35a3,AR Ramjani,30d8136b,0,0,0,0,0,,,,,,0,0,0
+1393329,2023,Uganda,15,B Masaba,f33cfd25,M Yunusu Issa,bbab35a3,AR Ramjani,30d8136b,0,0,0,0,1,B Masaba,f33cfd25,AR Patwa,b43f7a6a,caught,0,0,0
+1393329,2023,Uganda,15,CN Kakuru,f6aed283,M Yunusu Issa,bbab35a3,AR Ramjani,30d8136b,0,0,0,0,0,,,,,,1,0,1
+1393329,2023,Uganda,15,AR Ramjani,30d8136b,M Yunusu Issa,bbab35a3,CN Kakuru,f6aed283,0,0,0,0,0,,,,,,0,0,0
+1393329,2023,Uganda,15,AR Ramjani,30d8136b,M Yunusu Issa,bbab35a3,CN Kakuru,f6aed283,0,0,0,0,0,,,,,,1,0,1
+1393329,2023,Uganda,16,AR Ramjani,30d8136b,SA Jumbe,91056862,CN Kakuru,f6aed283,0,0,0,0,0,,,,,,1,0,1
+1393329,2023,Uganda,16,CN Kakuru,f6aed283,SA Jumbe,91056862,AR Ramjani,30d8136b,0,0,0,0,0,,,,,,1,0,1
+1393329,2023,Uganda,16,AR Ramjani,30d8136b,SA Jumbe,91056862,CN Kakuru,f6aed283,0,0,0,0,0,,,,,,4,0,4
+1393329,2023,Uganda,16,AR Ramjani,30d8136b,SA Jumbe,91056862,CN Kakuru,f6aed283,0,0,0,0,0,,,,,,0,0,0
+1393329,2023,Uganda,16,AR Ramjani,30d8136b,SA Jumbe,91056862,CN Kakuru,f6aed283,0,0,0,0,0,,,,,,1,0,1
+1393329,2023,Uganda,16,CN Kakuru,f6aed283,SA Jumbe,91056862,AR Ramjani,30d8136b,0,0,0,0,0,,,,,,0,0,0
+1393329,2023,Uganda,17,AR Ramjani,30d8136b,M Yunusu Issa,bbab35a3,CN Kakuru,f6aed283,0,0,0,0,0,,,,,,2,0,2
+1393329,2023,Uganda,17,AR Ramjani,30d8136b,M Yunusu Issa,bbab35a3,CN Kakuru,f6aed283,0,0,0,0,0,,,,,,4,0,4
+1393329,2023,Uganda,17,AR Ramjani,30d8136b,M Yunusu Issa,bbab35a3,CN Kakuru,f6aed283,0,0,0,0,0,,,,,,1,0,1
+1393329,2023,Uganda,17,CN Kakuru,f6aed283,M Yunusu Issa,bbab35a3,AR Ramjani,30d8136b,0,0,0,0,0,,,,,,1,0,1
+1393329,2023,Uganda,17,AR Ramjani,30d8136b,M Yunusu Issa,bbab35a3,CN Kakuru,f6aed283,0,0,1,0,0,,,,,,0,1,1
+1393329,2023,Uganda,17,CN Kakuru,f6aed283,M Yunusu Issa,bbab35a3,AR Ramjani,30d8136b,0,0,0,0,0,,,,,,1,0,1
+1393329,2023,Uganda,18,CN Kakuru,f6aed283,AM Kimote,34e36b65,AR Ramjani,30d8136b,0,0,0,0,0,,,,,,0,0,0
+1393329,2023,Uganda,18,CN Kakuru,f6aed283,AM Kimote,34e36b65,AR Ramjani,30d8136b,0,0,0,0,1,CN Kakuru,f6aed283,DA Mehta,61a7d6e9,caught,0,0,0
+1393329,2023,Uganda,18,P Murungi,fbdc5ab1,AM Kimote,34e36b65,AR Ramjani,30d8136b,0,0,0,0,1,AR Ramjani,30d8136b,AP Rajeevan,63d6f031,run out,0,0,0
+1393329,2023,Uganda,18,P Murungi,fbdc5ab1,AM Kimote,34e36b65,Bilal Hassun,1a9e9efe,1,0,0,0,0,,,,,,0,1,1
+1393329,2023,Uganda,18,P Murungi,fbdc5ab1,AM Kimote,34e36b65,Bilal Hassun,1a9e9efe,0,0,0,0,0,,,,,,4,0,4
+1393329,2023,Uganda,18,P Murungi,fbdc5ab1,AM Kimote,34e36b65,Bilal Hassun,1a9e9efe,0,0,0,0,0,,,,,,0,0,0
+1393329,2023,Uganda,18,P Murungi,fbdc5ab1,AM Kimote,34e36b65,Bilal Hassun,1a9e9efe,0,0,0,0,0,,,,,,0,0,0
+1393329,2023,Uganda,19,Bilal Hassun,1a9e9efe,SA Jumbe,91056862,P Murungi,fbdc5ab1,0,0,0,0,0,,,,,,2,0,2
+1393329,2023,Uganda,19,Bilal Hassun,1a9e9efe,SA Jumbe,91056862,P Murungi,fbdc5ab1,0,0,0,0,1,Bilal Hassun,1a9e9efe,AR Patwa,b43f7a6a,caught,0,0,0
+1393329,2023,Uganda,19,J Sebanja,1e78c51c,SA Jumbe,91056862,P Murungi,fbdc5ab1,0,0,0,0,0,,,,,,1,0,1
+1393329,2023,Uganda,19,P Murungi,fbdc5ab1,SA Jumbe,91056862,J Sebanja,1e78c51c,0,0,0,0,0,,,,,,0,0,0
+1393329,2023,Uganda,19,P Murungi,fbdc5ab1,SA Jumbe,91056862,J Sebanja,1e78c51c,0,0,0,0,1,P Murungi,fbdc5ab1,,,bowled,0,0,0
+1393329,2023,Uganda,19,H Ssenyondo,2b7609f1,SA Jumbe,91056862,J Sebanja,1e78c51c,0,0,0,0,0,,,,,,0,0,0
+1393329,2023,Tanzania,0,AR Patwa,b43f7a6a,J Sebanja,1e78c51c,II Selemani,b2dadc51,0,0,0,0,0,,,,,,0,0,0
+1393329,2023,Tanzania,0,AR Patwa,b43f7a6a,J Sebanja,1e78c51c,II Selemani,b2dadc51,0,0,0,0,0,,,,,,0,0,0
+1393329,2023,Tanzania,0,AR Patwa,b43f7a6a,J Sebanja,1e78c51c,II Selemani,b2dadc51,0,0,0,0,0,,,,,,0,0,0
+1393329,2023,Tanzania,0,AR Patwa,b43f7a6a,J Sebanja,1e78c51c,II Selemani,b2dadc51,0,0,0,0,0,,,,,,0,0,0
+1393329,2023,Tanzania,0,AR Patwa,b43f7a6a,J Sebanja,1e78c51c,II Selemani,b2dadc51,0,0,0,0,0,,,,,,0,0,0
+1393329,2023,Tanzania,0,AR Patwa,b43f7a6a,J Sebanja,1e78c51c,II Selemani,b2dadc51,0,0,0,0,0,,,,,,1,0,1
+1393329,2023,Tanzania,1,AR Patwa,b43f7a6a,Bilal Hassun,1a9e9efe,II Selemani,b2dadc51,0,0,0,0,0,,,,,,0,0,0
+1393329,2023,Tanzania,1,AR Patwa,b43f7a6a,Bilal Hassun,1a9e9efe,II Selemani,b2dadc51,0,0,0,0,0,,,,,,0,0,0
+1393329,2023,Tanzania,1,AR Patwa,b43f7a6a,Bilal Hassun,1a9e9efe,II Selemani,b2dadc51,0,0,0,0,0,,,,,,4,0,4
+1393329,2023,Tanzania,1,AR Patwa,b43f7a6a,Bilal Hassun,1a9e9efe,II Selemani,b2dadc51,0,0,0,0,0,,,,,,0,0,0
+1393329,2023,Tanzania,1,AR Patwa,b43f7a6a,Bilal Hassun,1a9e9efe,II Selemani,b2dadc51,0,0,0,0,0,,,,,,1,0,1
+1393329,2023,Tanzania,1,II Selemani,b2dadc51,Bilal Hassun,1a9e9efe,AR Patwa,b43f7a6a,0,0,0,0,0,,,,,,4,0,4
+1393329,2023,Tanzania,2,AR Patwa,b43f7a6a,J Sebanja,1e78c51c,II Selemani,b2dadc51,0,0,0,0,0,,,,,,1,0,1
+1393329,2023,Tanzania,2,II Selemani,b2dadc51,J Sebanja,1e78c51c,AR Patwa,b43f7a6a,0,0,0,0,0,,,,,,0,0,0
+1393329,2023,Tanzania,2,II Selemani,b2dadc51,J Sebanja,1e78c51c,AR Patwa,b43f7a6a,0,0,0,0,1,II Selemani,b2dadc51,CN Kakuru,f6aed283,caught,0,0,0
+1393329,2023,Tanzania,2,AP Rajeevan,63d6f031,J Sebanja,1e78c51c,AR Patwa,b43f7a6a,0,0,0,0,0,,,,,,4,0,4
+1393329,2023,Tanzania,2,AP Rajeevan,63d6f031,J Sebanja,1e78c51c,AR Patwa,b43f7a6a,0,0,0,0,0,,,,,,1,0,1
+1393329,2023,Tanzania,2,AR Patwa,b43f7a6a,J Sebanja,1e78c51c,AP Rajeevan,63d6f031,0,0,0,0,0,,,,,,1,0,1
+1393329,2023,Tanzania,3,AR Patwa,b43f7a6a,Bilal Hassun,1a9e9efe,AP Rajeevan,63d6f031,0,0,0,0,0,,,,,,4,0,4
+1393329,2023,Tanzania,3,AR Patwa,b43f7a6a,Bilal Hassun,1a9e9efe,AP Rajeevan,63d6f031,0,0,0,0,0,,,,,,4,0,4
+1393329,2023,Tanzania,3,AR Patwa,b43f7a6a,Bilal Hassun,1a9e9efe,AP Rajeevan,63d6f031,0,0,0,0,0,,,,,,1,0,1
+1393329,2023,Tanzania,3,AP Rajeevan,63d6f031,Bilal Hassun,1a9e9efe,AR Patwa,b43f7a6a,1,0,0,0,0,,,,,,0,1,1
+1393329,2023,Tanzania,3,AP Rajeevan,63d6f031,Bilal Hassun,1a9e9efe,AR Patwa,b43f7a6a,0,0,0,0,0,,,,,,0,0,0
+1393329,2023,Tanzania,3,AP Rajeevan,63d6f031,Bilal Hassun,1a9e9efe,AR Patwa,b43f7a6a,0,0,0,0,0,,,,,,1,0,1
+1393329,2023,Tanzania,3,AR Patwa,b43f7a6a,Bilal Hassun,1a9e9efe,AP Rajeevan,63d6f031,0,1,0,0,0,,,,,,0,1,1
+1393329,2023,Tanzania,3,AR Patwa,b43f7a6a,Bilal Hassun,1a9e9efe,AP Rajeevan,63d6f031,0,0,0,0,0,,,,,,0,0,0
+1393329,2023,Tanzania,4,AP Rajeevan,63d6f031,J Sebanja,1e78c51c,AR Patwa,b43f7a6a,0,0,0,0,0,,,,,,1,0,1
+1393329,2023,Tanzania,4,AR Patwa,b43f7a6a,J Sebanja,1e78c51c,AP Rajeevan,63d6f031,0,0,0,0,0,,,,,,0,0,0
+1393329,2023,Tanzania,4,AR Patwa,b43f7a6a,J Sebanja,1e78c51c,AP Rajeevan,63d6f031,5,0,0,0,0,,,,,,0,5,5
+1393329,2023,Tanzania,4,AR Patwa,b43f7a6a,J Sebanja,1e78c51c,AP Rajeevan,63d6f031,0,0,0,0,1,AR Patwa,b43f7a6a,,,bowled,0,0,0
+1393329,2023,Tanzania,4,DA Mehta,61a7d6e9,J Sebanja,1e78c51c,AP Rajeevan,63d6f031,0,0,0,0,0,,,,,,0,0,0
+1393329,2023,Tanzania,4,DA Mehta,61a7d6e9,J Sebanja,1e78c51c,AP Rajeevan,63d6f031,0,0,0,0,0,,,,,,2,0,2
+1393329,2023,Tanzania,4,DA Mehta,61a7d6e9,J Sebanja,1e78c51c,AP Rajeevan,63d6f031,0,0,0,0,0,,,,,,0,0,0
+1393329,2023,Tanzania,5,AP Rajeevan,63d6f031,AR Ramjani,30d8136b,DA Mehta,61a7d6e9,0,0,0,0,0,,,,,,0,0,0
+1393329,2023,Tanzania,5,AP Rajeevan,63d6f031,AR Ramjani,30d8136b,DA Mehta,61a7d6e9,0,0,0,0,0,,,,,,0,0,0
+1393329,2023,Tanzania,5,AP Rajeevan,63d6f031,AR Ramjani,30d8136b,DA Mehta,61a7d6e9,0,0,0,0,0,,,,,,4,0,4
+1393329,2023,Tanzania,5,AP Rajeevan,63d6f031,AR Ramjani,30d8136b,DA Mehta,61a7d6e9,0,0,0,0,0,,,,,,1,0,1
+1393329,2023,Tanzania,5,DA Mehta,61a7d6e9,AR Ramjani,30d8136b,AP Rajeevan,63d6f031,0,0,0,0,0,,,,,,0,0,0
+1393329,2023,Tanzania,5,DA Mehta,61a7d6e9,AR Ramjani,30d8136b,AP Rajeevan,63d6f031,0,0,0,0,0,,,,,,4,0,4
+1393329,2023,Tanzania,6,AP Rajeevan,63d6f031,K Waiswa,a3a275ec,DA Mehta,61a7d6e9,0,0,0,0,0,,,,,,2,0,2
+1393329,2023,Tanzania,6,AP Rajeevan,63d6f031,K Waiswa,a3a275ec,DA Mehta,61a7d6e9,0,0,0,0,0,,,,,,1,0,1
+1393329,2023,Tanzania,6,DA Mehta,61a7d6e9,K Waiswa,a3a275ec,AP Rajeevan,63d6f031,0,0,0,0,0,,,,,,1,0,1
+1393329,2023,Tanzania,6,AP Rajeevan,63d6f031,K Waiswa,a3a275ec,DA Mehta,61a7d6e9,0,0,1,0,0,,,,,,0,1,1
+1393329,2023,Tanzania,6,DA Mehta,61a7d6e9,K Waiswa,a3a275ec,AP Rajeevan,63d6f031,0,0,1,0,0,,,,,,0,1,1
+1393329,2023,Tanzania,6,AP Rajeevan,63d6f031,K Waiswa,a3a275ec,DA Mehta,61a7d6e9,0,0,0,0,0,,,,,,4,0,4
+1393329,2023,Tanzania,7,DA Mehta,61a7d6e9,AR Ramjani,30d8136b,AP Rajeevan,63d6f031,0,0,0,0,0,,,,,,0,0,0
+1393329,2023,Tanzania,7,DA Mehta,61a7d6e9,AR Ramjani,30d8136b,AP Rajeevan,63d6f031,0,0,0,0,0,,,,,,0,0,0
+1393329,2023,Tanzania,7,DA Mehta,61a7d6e9,AR Ramjani,30d8136b,AP Rajeevan,63d6f031,0,0,0,0,1,DA Mehta,61a7d6e9,,,bowled,0,0,0
+1393329,2023,Tanzania,7,MO Kitunda,badef0dc,AR Ramjani,30d8136b,AP Rajeevan,63d6f031,0,0,0,0,0,,,,,,0,0,0
+1393329,2023,Tanzania,7,MO Kitunda,badef0dc,AR Ramjani,30d8136b,AP Rajeevan,63d6f031,0,0,0,0,0,,,,,,0,0,0
+1393329,2023,Tanzania,7,MO Kitunda,badef0dc,AR Ramjani,30d8136b,AP Rajeevan,63d6f031,0,0,0,0,0,,,,,,0,0,0
+1393329,2023,Tanzania,8,AP Rajeevan,63d6f031,K Waiswa,a3a275ec,MO Kitunda,badef0dc,0,0,0,0,0,,,,,,4,0,4
+1393329,2023,Tanzania,8,AP Rajeevan,63d6f031,K Waiswa,a3a275ec,MO Kitunda,badef0dc,0,0,0,0,0,,,,,,0,0,0
+1393329,2023,Tanzania,8,AP Rajeevan,63d6f031,K Waiswa,a3a275ec,MO Kitunda,badef0dc,1,0,0,0,0,,,,,,0,1,1
+1393329,2023,Tanzania,8,AP Rajeevan,63d6f031,K Waiswa,a3a275ec,MO Kitunda,badef0dc,0,0,0,0,0,,,,,,0,0,0
+1393329,2023,Tanzania,8,AP Rajeevan,63d6f031,K Waiswa,a3a275ec,MO Kitunda,badef0dc,0,0,0,0,0,,,,,,0,0,0
+1393329,2023,Tanzania,8,AP Rajeevan,63d6f031,K Waiswa,a3a275ec,MO Kitunda,badef0dc,0,0,0,0,0,,,,,,0,0,0
+1393329,2023,Tanzania,8,AP Rajeevan,63d6f031,K Waiswa,a3a275ec,MO Kitunda,badef0dc,0,0,0,0,0,,,,,,0,0,0
+1393329,2023,Tanzania,9,MO Kitunda,badef0dc,AR Ramjani,30d8136b,AP Rajeevan,63d6f031,0,0,0,0,0,,,,,,0,0,0
+1393329,2023,Tanzania,9,MO Kitunda,badef0dc,AR Ramjani,30d8136b,AP Rajeevan,63d6f031,0,0,2,0,0,,,,,,0,2,2
+1393329,2023,Tanzania,9,MO Kitunda,badef0dc,AR Ramjani,30d8136b,AP Rajeevan,63d6f031,0,0,0,0,0,,,,,,0,0,0
+1393329,2023,Tanzania,9,MO Kitunda,badef0dc,AR Ramjani,30d8136b,AP Rajeevan,63d6f031,0,0,0,0,0,,,,,,0,0,0
+1393329,2023,Tanzania,9,MO Kitunda,badef0dc,AR Ramjani,30d8136b,AP Rajeevan,63d6f031,0,0,0,0,0,,,,,,1,0,1
+1393329,2023,Tanzania,9,AP Rajeevan,63d6f031,AR Ramjani,30d8136b,MO Kitunda,badef0dc,0,0,0,0,0,,,,,,4,0,4
+1393329,2023,Tanzania,10,MO Kitunda,badef0dc,K Waiswa,a3a275ec,AP Rajeevan,63d6f031,0,0,0,0,0,,,,,,1,0,1
+1393329,2023,Tanzania,10,AP Rajeevan,63d6f031,K Waiswa,a3a275ec,MO Kitunda,badef0dc,0,0,0,0,0,,,,,,1,0,1
+1393329,2023,Tanzania,10,MO Kitunda,badef0dc,K Waiswa,a3a275ec,AP Rajeevan,63d6f031,0,0,0,0,0,,,,,,4,0,4
+1393329,2023,Tanzania,10,MO Kitunda,badef0dc,K Waiswa,a3a275ec,AP Rajeevan,63d6f031,0,0,0,0,0,,,,,,0,0,0
+1393329,2023,Tanzania,10,MO Kitunda,badef0dc,K Waiswa,a3a275ec,AP Rajeevan,63d6f031,0,0,0,0,0,,,,,,0,0,0
+1393329,2023,Tanzania,10,MO Kitunda,badef0dc,K Waiswa,a3a275ec,AP Rajeevan,63d6f031,0,0,0,0,0,,,,,,0,0,0
+1393329,2023,Tanzania,11,AP Rajeevan,63d6f031,H Ssenyondo,2b7609f1,MO Kitunda,badef0dc,0,0,0,0,0,,,,,,4,0,4
+1393329,2023,Tanzania,11,AP Rajeevan,63d6f031,H Ssenyondo,2b7609f1,MO Kitunda,badef0dc,0,0,0,0,0,,,,,,1,0,1
+1393329,2023,Tanzania,11,MO Kitunda,badef0dc,H Ssenyondo,2b7609f1,AP Rajeevan,63d6f031,0,0,0,0,0,,,,,,1,0,1
+1393329,2023,Tanzania,11,AP Rajeevan,63d6f031,H Ssenyondo,2b7609f1,MO Kitunda,badef0dc,0,0,2,0,0,,,,,,0,2,2
+1393329,2023,Tanzania,11,AP Rajeevan,63d6f031,H Ssenyondo,2b7609f1,MO Kitunda,badef0dc,0,0,0,0,0,,,,,,1,0,1
+1393329,2023,Tanzania,11,MO Kitunda,badef0dc,H Ssenyondo,2b7609f1,AP Rajeevan,63d6f031,0,0,0,0,0,,,,,,1,0,1
+1393329,2023,Tanzania,12,MO Kitunda,badef0dc,P Murungi,fbdc5ab1,AP Rajeevan,63d6f031,0,0,0,0,0,,,,,,6,0,6
+1393329,2023,Tanzania,12,MO Kitunda,badef0dc,P Murungi,fbdc5ab1,AP Rajeevan,63d6f031,0,0,0,0,0,,,,,,4,0,4
+1393329,2023,Tanzania,12,MO Kitunda,badef0dc,P Murungi,fbdc5ab1,AP Rajeevan,63d6f031,0,0,0,0,0,,,,,,1,0,1
+1393329,2023,Tanzania,12,AP Rajeevan,63d6f031,P Murungi,fbdc5ab1,MO Kitunda,badef0dc,0,0,0,0,0,,,,,,2,0,2
+1393329,2023,Tanzania,12,AP Rajeevan,63d6f031,P Murungi,fbdc5ab1,MO Kitunda,badef0dc,0,0,0,0,0,,,,,,0,0,0
+1393329,2023,Tanzania,12,AP Rajeevan,63d6f031,P Murungi,fbdc5ab1,MO Kitunda,badef0dc,0,0,0,0,0,,,,,,2,0,2
+1393329,2023,Tanzania,13,MO Kitunda,badef0dc,AR Ramjani,30d8136b,AP Rajeevan,63d6f031,0,0,0,0,0,,,,,,1,0,1
+1393329,2023,Tanzania,13,AP Rajeevan,63d6f031,AR Ramjani,30d8136b,MO Kitunda,badef0dc,0,0,0,0,0,,,,,,0,0,0
+1393329,2023,Tanzania,13,AP Rajeevan,63d6f031,AR Ramjani,30d8136b,MO Kitunda,badef0dc,0,0,0,0,0,,,,,,0,0,0
+1393329,2023,Tanzania,13,AP Rajeevan,63d6f031,AR Ramjani,30d8136b,MO Kitunda,badef0dc,0,0,0,0,0,,,,,,1,0,1
+1393329,2023,Tanzania,13,MO Kitunda,badef0dc,AR Ramjani,30d8136b,AP Rajeevan,63d6f031,0,0,0,0,0,,,,,,0,0,0
+1393329,2023,Tanzania,13,MO Kitunda,badef0dc,AR Ramjani,30d8136b,AP Rajeevan,63d6f031,0,0,0,0,0,,,,,,0,0,0
+1393329,2023,Tanzania,14,AP Rajeevan,63d6f031,Bilal Hassun,1a9e9efe,MO Kitunda,badef0dc,0,0,0,0,0,,,,,,4,0,4
+1393329,2023,Tanzania,14,AP Rajeevan,63d6f031,Bilal Hassun,1a9e9efe,MO Kitunda,badef0dc,0,0,0,0,0,,,,,,0,0,0
+1393329,2023,Tanzania,14,AP Rajeevan,63d6f031,Bilal Hassun,1a9e9efe,MO Kitunda,badef0dc,0,0,0,0,0,,,,,,0,0,0
+1393329,2023,Tanzania,14,AP Rajeevan,63d6f031,Bilal Hassun,1a9e9efe,MO Kitunda,badef0dc,0,0,0,0,0,,,,,,6,0,6
+1393329,2023,Tanzania,14,AP Rajeevan,63d6f031,Bilal Hassun,1a9e9efe,MO Kitunda,badef0dc,0,0,0,0,0,,,,,,1,0,1
+1393329,2023,Tanzania,14,MO Kitunda,badef0dc,Bilal Hassun,1a9e9efe,AP Rajeevan,63d6f031,0,0,0,0,0,,,,,,4,0,4
+1393329,2023,Tanzania,15,AP Rajeevan,63d6f031,H Ssenyondo,2b7609f1,MO Kitunda,badef0dc,0,0,0,0,1,AP Rajeevan,63d6f031,,,lbw,0,0,0
+1393329,2023,Tanzania,15,AM Kimote,34e36b65,H Ssenyondo,2b7609f1,MO Kitunda,badef0dc,0,0,0,0,0,,,,,,1,0,1
+1393329,2023,Tanzania,15,MO Kitunda,badef0dc,H Ssenyondo,2b7609f1,AM Kimote,34e36b65,0,0,0,0,0,,,,,,0,0,0
+1393329,2023,Tanzania,15,MO Kitunda,badef0dc,H Ssenyondo,2b7609f1,AM Kimote,34e36b65,0,0,0,0,0,,,,,,0,0,0
+1393329,2023,Tanzania,15,MO Kitunda,badef0dc,H Ssenyondo,2b7609f1,AM Kimote,34e36b65,0,0,0,0,0,,,,,,1,0,1
+1393329,2023,Tanzania,15,AM Kimote,34e36b65,H Ssenyondo,2b7609f1,MO Kitunda,badef0dc,0,0,0,0,0,,,,,,1,0,1
+1393329,2023,Tanzania,16,AM Kimote,34e36b65,K Waiswa,a3a275ec,MO Kitunda,badef0dc,0,0,0,0,0,,,,,,0,0,0
+1393329,2023,Tanzania,16,AM Kimote,34e36b65,K Waiswa,a3a275ec,MO Kitunda,badef0dc,0,0,0,0,0,,,,,,0,0,0
+1393329,2023,Tanzania,16,AM Kimote,34e36b65,K Waiswa,a3a275ec,MO Kitunda,badef0dc,0,0,0,0,0,,,,,,1,0,1
+1393329,2023,Tanzania,16,MO Kitunda,badef0dc,K Waiswa,a3a275ec,AM Kimote,34e36b65,0,0,0,0,0,,,,,,1,0,1
+1393329,2023,Tanzania,16,AM Kimote,34e36b65,K Waiswa,a3a275ec,MO Kitunda,badef0dc,0,0,0,0,1,AM Kimote,34e36b65,,,bowled,0,0,0
+1393329,2023,Tanzania,16,S Thakor,0848ac5f,K Waiswa,a3a275ec,MO Kitunda,badef0dc,0,0,0,0,1,S Thakor,0848ac5f,,,bowled,0,0,0
+1393329,2023,Tanzania,17,MO Kitunda,badef0dc,H Ssenyondo,2b7609f1,SA Jumbe,91056862,0,0,0,0,0,,,,,,0,0,0
+1393329,2023,Tanzania,17,MO Kitunda,badef0dc,H Ssenyondo,2b7609f1,SA Jumbe,91056862,0,0,0,0,0,,,,,,1,0,1
+1393329,2023,Tanzania,17,SA Jumbe,91056862,H Ssenyondo,2b7609f1,MO Kitunda,badef0dc,0,0,0,0,0,,,,,,2,0,2
+1393329,2023,Tanzania,17,SA Jumbe,91056862,H Ssenyondo,2b7609f1,MO Kitunda,badef0dc,0,0,0,0,0,,,,,,1,0,1
+1393329,2023,Tanzania,17,MO Kitunda,badef0dc,H Ssenyondo,2b7609f1,SA Jumbe,91056862,0,0,0,0,0,,,,,,0,0,0
+1393329,2023,Tanzania,17,MO Kitunda,badef0dc,H Ssenyondo,2b7609f1,SA Jumbe,91056862,0,0,0,0,0,,,,,,1,0,1
+1393329,2023,Tanzania,18,MO Kitunda,badef0dc,J Sebanja,1e78c51c,SA Jumbe,91056862,0,0,0,0,0,,,,,,4,0,4
+1393329,2023,Tanzania,18,MO Kitunda,badef0dc,J Sebanja,1e78c51c,SA Jumbe,91056862,0,0,0,0,0,,,,,,0,0,0
+1393329,2023,Tanzania,18,MO Kitunda,badef0dc,J Sebanja,1e78c51c,SA Jumbe,91056862,0,0,0,0,0,,,,,,0,0,0
+1393329,2023,Tanzania,18,MO Kitunda,badef0dc,J Sebanja,1e78c51c,SA Jumbe,91056862,0,0,0,0,0,,,,,,2,0,2
+1393329,2023,Tanzania,18,MO Kitunda,badef0dc,J Sebanja,1e78c51c,SA Jumbe,91056862,1,0,0,0,0,,,,,,0,1,1
+1393329,2023,Tanzania,18,MO Kitunda,badef0dc,J Sebanja,1e78c51c,SA Jumbe,91056862,0,0,0,0,0,,,,,,0,0,0
+1393329,2023,Tanzania,18,MO Kitunda,badef0dc,J Sebanja,1e78c51c,SA Jumbe,91056862,0,0,0,0,0,,,,,,0,0,0
+1393329,2023,Tanzania,19,SA Jumbe,91056862,Bilal Hassun,1a9e9efe,MO Kitunda,badef0dc,0,0,0,0,0,,,,,,0,0,0
+1393329,2023,Tanzania,19,SA Jumbe,91056862,Bilal Hassun,1a9e9efe,MO Kitunda,badef0dc,0,0,0,0,0,,,,,,4,0,4
+1393329,2023,Tanzania,19,SA Jumbe,91056862,Bilal Hassun,1a9e9efe,MO Kitunda,badef0dc,0,0,0,0,0,,,,,,0,0,0
+1393329,2023,Tanzania,19,SA Jumbe,91056862,Bilal Hassun,1a9e9efe,MO Kitunda,badef0dc,0,0,0,0,0,,,,,,0,0,0
+1393329,2023,Tanzania,19,SA Jumbe,91056862,Bilal Hassun,1a9e9efe,MO Kitunda,badef0dc,0,0,0,0,0,,,,,,1,0,1
+1393329,2023,Tanzania,19,MO Kitunda,badef0dc,Bilal Hassun,1a9e9efe,SA Jumbe,91056862,0,0,0,0,0,,,,,,4,0,4

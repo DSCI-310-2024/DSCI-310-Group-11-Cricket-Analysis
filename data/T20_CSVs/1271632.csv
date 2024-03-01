@@ -1,0 +1,213 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1271632,2021,Sri Lanka,0,MDKJ Perera,f21043a5,BC Fortuin,9a2fc964,WIA Fernando,9550470d,0,0,0,0,0,,,,,,1,0,1
+1271632,2021,Sri Lanka,0,WIA Fernando,9550470d,BC Fortuin,9a2fc964,MDKJ Perera,f21043a5,1,0,0,0,0,,,,,,0,1,1
+1271632,2021,Sri Lanka,0,WIA Fernando,9550470d,BC Fortuin,9a2fc964,MDKJ Perera,f21043a5,2,0,0,0,0,,,,,,0,2,2
+1271632,2021,Sri Lanka,0,MDKJ Perera,f21043a5,BC Fortuin,9a2fc964,WIA Fernando,9550470d,0,0,0,0,0,,,,,,1,0,1
+1271632,2021,Sri Lanka,0,WIA Fernando,9550470d,BC Fortuin,9a2fc964,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,2,0,2
+1271632,2021,Sri Lanka,0,WIA Fernando,9550470d,BC Fortuin,9a2fc964,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,0,0,0
+1271632,2021,Sri Lanka,0,WIA Fernando,9550470d,BC Fortuin,9a2fc964,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,4,0,4
+1271632,2021,Sri Lanka,0,WIA Fernando,9550470d,BC Fortuin,9a2fc964,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,0,0,0
+1271632,2021,Sri Lanka,1,MDKJ Perera,f21043a5,K Rabada,e62dd25d,WIA Fernando,9550470d,0,0,0,0,0,,,,,,1,0,1
+1271632,2021,Sri Lanka,1,WIA Fernando,9550470d,K Rabada,e62dd25d,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,0,0,0
+1271632,2021,Sri Lanka,1,WIA Fernando,9550470d,K Rabada,e62dd25d,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,4,0,4
+1271632,2021,Sri Lanka,1,WIA Fernando,9550470d,K Rabada,e62dd25d,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,2,0,2
+1271632,2021,Sri Lanka,1,WIA Fernando,9550470d,K Rabada,e62dd25d,MDKJ Perera,f21043a5,0,0,0,0,1,WIA Fernando,9550470d,,,caught and bowled,0,0,0
+1271632,2021,Sri Lanka,1,DM de Silva,7d608e12,K Rabada,e62dd25d,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,1,0,1
+1271632,2021,Sri Lanka,2,DM de Silva,7d608e12,BC Fortuin,9a2fc964,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,0,0,0
+1271632,2021,Sri Lanka,2,DM de Silva,7d608e12,BC Fortuin,9a2fc964,MDKJ Perera,f21043a5,0,0,0,0,1,DM de Silva,7d608e12,Q de Kock,372455c4,stumped,0,0,0
+1271632,2021,Sri Lanka,2,PBB Rajapaksa,6c882e9a,BC Fortuin,9a2fc964,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,0,0,0
+1271632,2021,Sri Lanka,2,PBB Rajapaksa,6c882e9a,BC Fortuin,9a2fc964,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,1,0,1
+1271632,2021,Sri Lanka,2,MDKJ Perera,f21043a5,BC Fortuin,9a2fc964,PBB Rajapaksa,6c882e9a,0,0,0,0,0,,,,,,1,0,1
+1271632,2021,Sri Lanka,2,PBB Rajapaksa,6c882e9a,BC Fortuin,9a2fc964,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,0,0,0
+1271632,2021,Sri Lanka,3,MDKJ Perera,f21043a5,K Rabada,e62dd25d,PBB Rajapaksa,6c882e9a,0,0,0,0,0,,,,,,2,0,2
+1271632,2021,Sri Lanka,3,MDKJ Perera,f21043a5,K Rabada,e62dd25d,PBB Rajapaksa,6c882e9a,0,0,0,0,0,,,,,,0,0,0
+1271632,2021,Sri Lanka,3,MDKJ Perera,f21043a5,K Rabada,e62dd25d,PBB Rajapaksa,6c882e9a,0,0,0,0,0,,,,,,1,0,1
+1271632,2021,Sri Lanka,3,PBB Rajapaksa,6c882e9a,K Rabada,e62dd25d,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,0,0,0
+1271632,2021,Sri Lanka,3,PBB Rajapaksa,6c882e9a,K Rabada,e62dd25d,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,4,0,4
+1271632,2021,Sri Lanka,3,PBB Rajapaksa,6c882e9a,K Rabada,e62dd25d,MDKJ Perera,f21043a5,0,0,0,0,1,PBB Rajapaksa,6c882e9a,,,bowled,0,0,0
+1271632,2021,Sri Lanka,4,MDKJ Perera,f21043a5,D Pretorius,11614d87,PHKD Mendis,08548b13,0,0,0,0,0,,,,,,4,0,4
+1271632,2021,Sri Lanka,4,MDKJ Perera,f21043a5,D Pretorius,11614d87,PHKD Mendis,08548b13,0,0,0,0,0,,,,,,4,0,4
+1271632,2021,Sri Lanka,4,MDKJ Perera,f21043a5,D Pretorius,11614d87,PHKD Mendis,08548b13,0,0,0,0,0,,,,,,0,0,0
+1271632,2021,Sri Lanka,4,MDKJ Perera,f21043a5,D Pretorius,11614d87,PHKD Mendis,08548b13,0,0,0,0,0,,,,,,2,0,2
+1271632,2021,Sri Lanka,4,MDKJ Perera,f21043a5,D Pretorius,11614d87,PHKD Mendis,08548b13,0,0,0,0,0,,,,,,1,0,1
+1271632,2021,Sri Lanka,4,PHKD Mendis,08548b13,D Pretorius,11614d87,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,0,0,0
+1271632,2021,Sri Lanka,5,MDKJ Perera,f21043a5,K Rabada,e62dd25d,PHKD Mendis,08548b13,0,0,0,0,0,,,,,,1,0,1
+1271632,2021,Sri Lanka,5,PHKD Mendis,08548b13,K Rabada,e62dd25d,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,0,0,0
+1271632,2021,Sri Lanka,5,PHKD Mendis,08548b13,K Rabada,e62dd25d,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,2,0,2
+1271632,2021,Sri Lanka,5,PHKD Mendis,08548b13,K Rabada,e62dd25d,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,1,0,1
+1271632,2021,Sri Lanka,5,MDKJ Perera,f21043a5,K Rabada,e62dd25d,PHKD Mendis,08548b13,0,0,0,0,0,,,,,,4,0,4
+1271632,2021,Sri Lanka,5,MDKJ Perera,f21043a5,K Rabada,e62dd25d,PHKD Mendis,08548b13,0,0,0,0,0,,,,,,0,0,0
+1271632,2021,Sri Lanka,6,PHKD Mendis,08548b13,T Shamsi,a03bba42,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,1,0,1
+1271632,2021,Sri Lanka,6,MDKJ Perera,f21043a5,T Shamsi,a03bba42,PHKD Mendis,08548b13,0,0,0,0,0,,,,,,1,0,1
+1271632,2021,Sri Lanka,6,PHKD Mendis,08548b13,T Shamsi,a03bba42,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,0,0,0
+1271632,2021,Sri Lanka,6,PHKD Mendis,08548b13,T Shamsi,a03bba42,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,1,0,1
+1271632,2021,Sri Lanka,6,MDKJ Perera,f21043a5,T Shamsi,a03bba42,PHKD Mendis,08548b13,0,0,0,0,0,,,,,,1,0,1
+1271632,2021,Sri Lanka,6,PHKD Mendis,08548b13,T Shamsi,a03bba42,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,1,0,1
+1271632,2021,Sri Lanka,7,PHKD Mendis,08548b13,AK Markram,6a26221c,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,0,0,0
+1271632,2021,Sri Lanka,7,PHKD Mendis,08548b13,AK Markram,6a26221c,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,1,0,1
+1271632,2021,Sri Lanka,7,MDKJ Perera,f21043a5,AK Markram,6a26221c,PHKD Mendis,08548b13,0,0,0,0,0,,,,,,0,0,0
+1271632,2021,Sri Lanka,7,MDKJ Perera,f21043a5,AK Markram,6a26221c,PHKD Mendis,08548b13,0,0,0,0,0,,,,,,1,0,1
+1271632,2021,Sri Lanka,7,PHKD Mendis,08548b13,AK Markram,6a26221c,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,1,0,1
+1271632,2021,Sri Lanka,7,MDKJ Perera,f21043a5,AK Markram,6a26221c,PHKD Mendis,08548b13,0,0,0,0,0,,,,,,0,0,0
+1271632,2021,Sri Lanka,8,PHKD Mendis,08548b13,T Shamsi,a03bba42,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,1,0,1
+1271632,2021,Sri Lanka,8,MDKJ Perera,f21043a5,T Shamsi,a03bba42,PHKD Mendis,08548b13,0,0,0,0,0,,,,,,1,0,1
+1271632,2021,Sri Lanka,8,PHKD Mendis,08548b13,T Shamsi,a03bba42,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,1,0,1
+1271632,2021,Sri Lanka,8,MDKJ Perera,f21043a5,T Shamsi,a03bba42,PHKD Mendis,08548b13,0,0,0,0,0,,,,,,2,0,2
+1271632,2021,Sri Lanka,8,MDKJ Perera,f21043a5,T Shamsi,a03bba42,PHKD Mendis,08548b13,0,0,0,0,0,,,,,,1,0,1
+1271632,2021,Sri Lanka,8,PHKD Mendis,08548b13,T Shamsi,a03bba42,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,0,0,0
+1271632,2021,Sri Lanka,9,MDKJ Perera,f21043a5,AK Markram,6a26221c,PHKD Mendis,08548b13,0,0,0,0,0,,,,,,1,0,1
+1271632,2021,Sri Lanka,9,PHKD Mendis,08548b13,AK Markram,6a26221c,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,0,0,0
+1271632,2021,Sri Lanka,9,PHKD Mendis,08548b13,AK Markram,6a26221c,MDKJ Perera,f21043a5,0,0,0,0,1,PHKD Mendis,08548b13,KA Maharaj,0b60eb09,caught,0,0,0
+1271632,2021,Sri Lanka,9,MD Shanaka,3ff033bb,AK Markram,6a26221c,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,0,0,0
+1271632,2021,Sri Lanka,9,MD Shanaka,3ff033bb,AK Markram,6a26221c,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,0,0,0
+1271632,2021,Sri Lanka,9,MD Shanaka,3ff033bb,AK Markram,6a26221c,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,0,0,0
+1271632,2021,Sri Lanka,10,MDKJ Perera,f21043a5,KA Maharaj,0b60eb09,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,1,0,1
+1271632,2021,Sri Lanka,10,MD Shanaka,3ff033bb,KA Maharaj,0b60eb09,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,0,0,0
+1271632,2021,Sri Lanka,10,MD Shanaka,3ff033bb,KA Maharaj,0b60eb09,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,1,0,1
+1271632,2021,Sri Lanka,10,MDKJ Perera,f21043a5,KA Maharaj,0b60eb09,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,1,0,1
+1271632,2021,Sri Lanka,10,MD Shanaka,3ff033bb,KA Maharaj,0b60eb09,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,0,0,0
+1271632,2021,Sri Lanka,10,MD Shanaka,3ff033bb,KA Maharaj,0b60eb09,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,1,0,1
+1271632,2021,Sri Lanka,11,MD Shanaka,3ff033bb,D Pretorius,11614d87,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,1,0,1
+1271632,2021,Sri Lanka,11,MDKJ Perera,f21043a5,D Pretorius,11614d87,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,0,0,0
+1271632,2021,Sri Lanka,11,MDKJ Perera,f21043a5,D Pretorius,11614d87,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,1,0,1
+1271632,2021,Sri Lanka,11,MD Shanaka,3ff033bb,D Pretorius,11614d87,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,1,0,1
+1271632,2021,Sri Lanka,11,MDKJ Perera,f21043a5,D Pretorius,11614d87,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,1,0,1
+1271632,2021,Sri Lanka,11,MD Shanaka,3ff033bb,D Pretorius,11614d87,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,4,0,4
+1271632,2021,Sri Lanka,12,MDKJ Perera,f21043a5,KA Maharaj,0b60eb09,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,1,0,1
+1271632,2021,Sri Lanka,12,MD Shanaka,3ff033bb,KA Maharaj,0b60eb09,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,1,0,1
+1271632,2021,Sri Lanka,12,MDKJ Perera,f21043a5,KA Maharaj,0b60eb09,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,1,0,1
+1271632,2021,Sri Lanka,12,MD Shanaka,3ff033bb,KA Maharaj,0b60eb09,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,1,0,1
+1271632,2021,Sri Lanka,12,MDKJ Perera,f21043a5,KA Maharaj,0b60eb09,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,2,0,2
+1271632,2021,Sri Lanka,12,MDKJ Perera,f21043a5,KA Maharaj,0b60eb09,MD Shanaka,3ff033bb,0,0,0,0,1,MDKJ Perera,f21043a5,,,lbw,0,0,0
+1271632,2021,Sri Lanka,13,MD Shanaka,3ff033bb,BC Fortuin,9a2fc964,PWH de Silva,a97c8ec2,0,0,0,0,0,,,,,,1,0,1
+1271632,2021,Sri Lanka,13,PWH de Silva,a97c8ec2,BC Fortuin,9a2fc964,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,0,0,0
+1271632,2021,Sri Lanka,13,PWH de Silva,a97c8ec2,BC Fortuin,9a2fc964,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,2,0,2
+1271632,2021,Sri Lanka,13,PWH de Silva,a97c8ec2,BC Fortuin,9a2fc964,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,2,0,2
+1271632,2021,Sri Lanka,13,PWH de Silva,a97c8ec2,BC Fortuin,9a2fc964,MD Shanaka,3ff033bb,0,0,0,0,1,PWH de Silva,a97c8ec2,KA Maharaj,0b60eb09,caught,0,0,0
+1271632,2021,Sri Lanka,13,LD Madushanka,de063a39,BC Fortuin,9a2fc964,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,1,0,1
+1271632,2021,Sri Lanka,14,LD Madushanka,de063a39,KA Maharaj,0b60eb09,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,0,0,0
+1271632,2021,Sri Lanka,14,LD Madushanka,de063a39,KA Maharaj,0b60eb09,MD Shanaka,3ff033bb,0,0,0,0,1,LD Madushanka,de063a39,Q de Kock,372455c4,run out,0,0,0
+1271632,2021,Sri Lanka,14,C Karunaratne,fb3e0d39,KA Maharaj,0b60eb09,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,0,0,0
+1271632,2021,Sri Lanka,14,C Karunaratne,fb3e0d39,KA Maharaj,0b60eb09,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,0,0,0
+1271632,2021,Sri Lanka,14,C Karunaratne,fb3e0d39,KA Maharaj,0b60eb09,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,0,0,0
+1271632,2021,Sri Lanka,14,C Karunaratne,fb3e0d39,KA Maharaj,0b60eb09,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,0,0,0
+1271632,2021,Sri Lanka,15,MD Shanaka,3ff033bb,BC Fortuin,9a2fc964,C Karunaratne,fb3e0d39,0,0,0,0,0,,,,,,0,0,0
+1271632,2021,Sri Lanka,15,MD Shanaka,3ff033bb,BC Fortuin,9a2fc964,C Karunaratne,fb3e0d39,0,0,0,0,0,,,,,,1,0,1
+1271632,2021,Sri Lanka,15,C Karunaratne,fb3e0d39,BC Fortuin,9a2fc964,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,0,0,0
+1271632,2021,Sri Lanka,15,C Karunaratne,fb3e0d39,BC Fortuin,9a2fc964,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,1,0,1
+1271632,2021,Sri Lanka,15,MD Shanaka,3ff033bb,BC Fortuin,9a2fc964,C Karunaratne,fb3e0d39,0,0,0,0,0,,,,,,0,0,0
+1271632,2021,Sri Lanka,15,MD Shanaka,3ff033bb,BC Fortuin,9a2fc964,C Karunaratne,fb3e0d39,0,0,1,0,0,,,,,,0,1,1
+1271632,2021,Sri Lanka,16,MD Shanaka,3ff033bb,KA Maharaj,0b60eb09,C Karunaratne,fb3e0d39,0,0,0,0,0,,,,,,1,0,1
+1271632,2021,Sri Lanka,16,C Karunaratne,fb3e0d39,KA Maharaj,0b60eb09,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,2,0,2
+1271632,2021,Sri Lanka,16,C Karunaratne,fb3e0d39,KA Maharaj,0b60eb09,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,1,0,1
+1271632,2021,Sri Lanka,16,MD Shanaka,3ff033bb,KA Maharaj,0b60eb09,C Karunaratne,fb3e0d39,0,0,0,0,0,,,,,,0,0,0
+1271632,2021,Sri Lanka,16,MD Shanaka,3ff033bb,KA Maharaj,0b60eb09,C Karunaratne,fb3e0d39,0,0,0,0,0,,,,,,0,0,0
+1271632,2021,Sri Lanka,16,MD Shanaka,3ff033bb,KA Maharaj,0b60eb09,C Karunaratne,fb3e0d39,0,0,0,0,0,,,,,,0,0,0
+1271632,2021,Sri Lanka,17,C Karunaratne,fb3e0d39,T Shamsi,a03bba42,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,1,0,1
+1271632,2021,Sri Lanka,17,MD Shanaka,3ff033bb,T Shamsi,a03bba42,C Karunaratne,fb3e0d39,0,0,0,0,0,,,,,,0,0,0
+1271632,2021,Sri Lanka,17,MD Shanaka,3ff033bb,T Shamsi,a03bba42,C Karunaratne,fb3e0d39,0,0,0,0,0,,,,,,1,0,1
+1271632,2021,Sri Lanka,17,C Karunaratne,fb3e0d39,T Shamsi,a03bba42,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,1,0,1
+1271632,2021,Sri Lanka,17,MD Shanaka,3ff033bb,T Shamsi,a03bba42,C Karunaratne,fb3e0d39,0,0,0,0,0,,,,,,4,0,4
+1271632,2021,Sri Lanka,17,MD Shanaka,3ff033bb,T Shamsi,a03bba42,C Karunaratne,fb3e0d39,0,0,0,0,0,,,,,,0,0,0
+1271632,2021,Sri Lanka,18,C Karunaratne,fb3e0d39,PWA Mulder,c96f6ac5,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,1,0,1
+1271632,2021,Sri Lanka,18,MD Shanaka,3ff033bb,PWA Mulder,c96f6ac5,C Karunaratne,fb3e0d39,0,0,0,0,1,MD Shanaka,3ff033bb,HE van der Dussen,9948e262,caught,0,0,0
+1271632,2021,Sri Lanka,18,C Karunaratne,fb3e0d39,PWA Mulder,c96f6ac5,PVD Chameera,327b58d3,0,0,0,0,0,,,,,,2,0,2
+1271632,2021,Sri Lanka,18,C Karunaratne,fb3e0d39,PWA Mulder,c96f6ac5,PVD Chameera,327b58d3,0,0,0,0,0,,,,,,6,0,6
+1271632,2021,Sri Lanka,18,C Karunaratne,fb3e0d39,PWA Mulder,c96f6ac5,PVD Chameera,327b58d3,0,0,0,0,0,,,,,,1,0,1
+1271632,2021,Sri Lanka,18,PVD Chameera,327b58d3,PWA Mulder,c96f6ac5,C Karunaratne,fb3e0d39,0,0,0,0,0,,,,,,1,0,1
+1271632,2021,Sri Lanka,19,PVD Chameera,327b58d3,T Shamsi,a03bba42,C Karunaratne,fb3e0d39,0,0,0,0,0,,,,,,1,0,1
+1271632,2021,Sri Lanka,19,C Karunaratne,fb3e0d39,T Shamsi,a03bba42,PVD Chameera,327b58d3,0,0,0,0,0,,,,,,0,0,0
+1271632,2021,Sri Lanka,19,C Karunaratne,fb3e0d39,T Shamsi,a03bba42,PVD Chameera,327b58d3,0,0,0,0,0,,,,,,0,0,0
+1271632,2021,Sri Lanka,19,C Karunaratne,fb3e0d39,T Shamsi,a03bba42,PVD Chameera,327b58d3,0,0,0,0,0,,,,,,0,0,0
+1271632,2021,Sri Lanka,19,C Karunaratne,fb3e0d39,T Shamsi,a03bba42,PVD Chameera,327b58d3,0,0,0,0,0,,,,,,2,0,2
+1271632,2021,Sri Lanka,19,C Karunaratne,fb3e0d39,T Shamsi,a03bba42,PVD Chameera,327b58d3,0,0,0,0,0,,,,,,6,0,6
+1271632,2021,South Africa,0,RR Hendricks,b8cc58c9,M Theekshana,f24c6701,Q de Kock,372455c4,1,0,0,0,0,,,,,,0,1,1
+1271632,2021,South Africa,0,RR Hendricks,b8cc58c9,M Theekshana,f24c6701,Q de Kock,372455c4,0,0,0,0,0,,,,,,0,0,0
+1271632,2021,South Africa,0,RR Hendricks,b8cc58c9,M Theekshana,f24c6701,Q de Kock,372455c4,0,0,0,0,0,,,,,,1,0,1
+1271632,2021,South Africa,0,Q de Kock,372455c4,M Theekshana,f24c6701,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,0,0,0
+1271632,2021,South Africa,0,Q de Kock,372455c4,M Theekshana,f24c6701,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,0,0,0
+1271632,2021,South Africa,0,Q de Kock,372455c4,M Theekshana,f24c6701,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,0,0,0
+1271632,2021,South Africa,0,Q de Kock,372455c4,M Theekshana,f24c6701,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,0,0,0
+1271632,2021,South Africa,1,RR Hendricks,b8cc58c9,PWH de Silva,a97c8ec2,Q de Kock,372455c4,0,0,0,0,0,,,,,,1,0,1
+1271632,2021,South Africa,1,Q de Kock,372455c4,PWH de Silva,a97c8ec2,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,0,0,0
+1271632,2021,South Africa,1,Q de Kock,372455c4,PWH de Silva,a97c8ec2,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,0,0,0
+1271632,2021,South Africa,1,Q de Kock,372455c4,PWH de Silva,a97c8ec2,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,0,0,0
+1271632,2021,South Africa,1,Q de Kock,372455c4,PWH de Silva,a97c8ec2,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,1,0,1
+1271632,2021,South Africa,1,RR Hendricks,b8cc58c9,PWH de Silva,a97c8ec2,Q de Kock,372455c4,0,0,0,0,0,,,,,,4,0,4
+1271632,2021,South Africa,2,Q de Kock,372455c4,M Theekshana,f24c6701,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,4,0,4
+1271632,2021,South Africa,2,Q de Kock,372455c4,M Theekshana,f24c6701,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,0,0,0
+1271632,2021,South Africa,2,Q de Kock,372455c4,M Theekshana,f24c6701,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,4,0,4
+1271632,2021,South Africa,2,Q de Kock,372455c4,M Theekshana,f24c6701,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,1,0,1
+1271632,2021,South Africa,2,RR Hendricks,b8cc58c9,M Theekshana,f24c6701,Q de Kock,372455c4,0,0,0,0,0,,,,,,0,0,0
+1271632,2021,South Africa,2,RR Hendricks,b8cc58c9,M Theekshana,f24c6701,Q de Kock,372455c4,0,0,0,0,0,,,,,,1,0,1
+1271632,2021,South Africa,3,RR Hendricks,b8cc58c9,PWH de Silva,a97c8ec2,Q de Kock,372455c4,0,0,0,0,0,,,,,,1,0,1
+1271632,2021,South Africa,3,Q de Kock,372455c4,PWH de Silva,a97c8ec2,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,4,0,4
+1271632,2021,South Africa,3,Q de Kock,372455c4,PWH de Silva,a97c8ec2,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,4,0,4
+1271632,2021,South Africa,3,Q de Kock,372455c4,PWH de Silva,a97c8ec2,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,2,0,2
+1271632,2021,South Africa,3,Q de Kock,372455c4,PWH de Silva,a97c8ec2,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,0,0,0
+1271632,2021,South Africa,3,Q de Kock,372455c4,PWH de Silva,a97c8ec2,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,2,0,2
+1271632,2021,South Africa,4,RR Hendricks,b8cc58c9,PHKD Mendis,08548b13,Q de Kock,372455c4,0,0,0,0,0,,,,,,0,0,0
+1271632,2021,South Africa,4,RR Hendricks,b8cc58c9,PHKD Mendis,08548b13,Q de Kock,372455c4,0,0,0,0,0,,,,,,6,0,6
+1271632,2021,South Africa,4,RR Hendricks,b8cc58c9,PHKD Mendis,08548b13,Q de Kock,372455c4,0,0,0,0,0,,,,,,2,0,2
+1271632,2021,South Africa,4,RR Hendricks,b8cc58c9,PHKD Mendis,08548b13,Q de Kock,372455c4,0,0,0,0,0,,,,,,0,0,0
+1271632,2021,South Africa,4,RR Hendricks,b8cc58c9,PHKD Mendis,08548b13,Q de Kock,372455c4,0,0,0,0,0,,,,,,0,0,0
+1271632,2021,South Africa,4,RR Hendricks,b8cc58c9,PHKD Mendis,08548b13,Q de Kock,372455c4,0,0,0,0,0,,,,,,0,0,0
+1271632,2021,South Africa,5,Q de Kock,372455c4,M Theekshana,f24c6701,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,0,0,0
+1271632,2021,South Africa,5,Q de Kock,372455c4,M Theekshana,f24c6701,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,2,0,2
+1271632,2021,South Africa,5,Q de Kock,372455c4,M Theekshana,f24c6701,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,1,0,1
+1271632,2021,South Africa,5,RR Hendricks,b8cc58c9,M Theekshana,f24c6701,Q de Kock,372455c4,0,0,0,0,0,,,,,,4,0,4
+1271632,2021,South Africa,5,RR Hendricks,b8cc58c9,M Theekshana,f24c6701,Q de Kock,372455c4,0,0,0,0,0,,,,,,0,0,0
+1271632,2021,South Africa,5,RR Hendricks,b8cc58c9,M Theekshana,f24c6701,Q de Kock,372455c4,0,0,0,0,0,,,,,,0,0,0
+1271632,2021,South Africa,6,Q de Kock,372455c4,PHKD Mendis,08548b13,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,1,0,1
+1271632,2021,South Africa,6,RR Hendricks,b8cc58c9,PHKD Mendis,08548b13,Q de Kock,372455c4,0,0,0,0,0,,,,,,1,0,1
+1271632,2021,South Africa,6,Q de Kock,372455c4,PHKD Mendis,08548b13,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,0,0,0
+1271632,2021,South Africa,6,Q de Kock,372455c4,PHKD Mendis,08548b13,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,1,0,1
+1271632,2021,South Africa,6,RR Hendricks,b8cc58c9,PHKD Mendis,08548b13,Q de Kock,372455c4,0,0,0,0,0,,,,,,2,0,2
+1271632,2021,South Africa,6,RR Hendricks,b8cc58c9,PHKD Mendis,08548b13,Q de Kock,372455c4,0,0,0,0,0,,,,,,4,0,4
+1271632,2021,South Africa,7,Q de Kock,372455c4,PVD Chameera,327b58d3,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,1,0,1
+1271632,2021,South Africa,7,RR Hendricks,b8cc58c9,PVD Chameera,327b58d3,Q de Kock,372455c4,0,0,0,0,0,,,,,,1,0,1
+1271632,2021,South Africa,7,Q de Kock,372455c4,PVD Chameera,327b58d3,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,1,0,1
+1271632,2021,South Africa,7,RR Hendricks,b8cc58c9,PVD Chameera,327b58d3,Q de Kock,372455c4,0,0,0,0,0,,,,,,0,0,0
+1271632,2021,South Africa,7,RR Hendricks,b8cc58c9,PVD Chameera,327b58d3,Q de Kock,372455c4,5,0,0,0,0,,,,,,0,5,5
+1271632,2021,South Africa,7,RR Hendricks,b8cc58c9,PVD Chameera,327b58d3,Q de Kock,372455c4,0,0,0,0,0,,,,,,0,0,0
+1271632,2021,South Africa,7,RR Hendricks,b8cc58c9,PVD Chameera,327b58d3,Q de Kock,372455c4,0,0,0,0,0,,,,,,1,0,1
+1271632,2021,South Africa,8,RR Hendricks,b8cc58c9,PWH de Silva,a97c8ec2,Q de Kock,372455c4,0,0,0,0,0,,,,,,0,0,0
+1271632,2021,South Africa,8,RR Hendricks,b8cc58c9,PWH de Silva,a97c8ec2,Q de Kock,372455c4,0,0,0,0,0,,,,,,4,0,4
+1271632,2021,South Africa,8,RR Hendricks,b8cc58c9,PWH de Silva,a97c8ec2,Q de Kock,372455c4,0,0,0,0,0,,,,,,0,0,0
+1271632,2021,South Africa,8,RR Hendricks,b8cc58c9,PWH de Silva,a97c8ec2,Q de Kock,372455c4,0,0,0,0,0,,,,,,2,0,2
+1271632,2021,South Africa,8,RR Hendricks,b8cc58c9,PWH de Silva,a97c8ec2,Q de Kock,372455c4,0,0,0,0,0,,,,,,1,0,1
+1271632,2021,South Africa,8,Q de Kock,372455c4,PWH de Silva,a97c8ec2,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,1,0,1
+1271632,2021,South Africa,9,Q de Kock,372455c4,M Theekshana,f24c6701,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,1,0,1
+1271632,2021,South Africa,9,RR Hendricks,b8cc58c9,M Theekshana,f24c6701,Q de Kock,372455c4,0,0,0,0,0,,,,,,1,0,1
+1271632,2021,South Africa,9,Q de Kock,372455c4,M Theekshana,f24c6701,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,1,0,1
+1271632,2021,South Africa,9,RR Hendricks,b8cc58c9,M Theekshana,f24c6701,Q de Kock,372455c4,0,0,0,0,0,,,,,,1,0,1
+1271632,2021,South Africa,9,Q de Kock,372455c4,M Theekshana,f24c6701,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,4,0,4
+1271632,2021,South Africa,9,Q de Kock,372455c4,M Theekshana,f24c6701,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,1,0,1
+1271632,2021,South Africa,10,Q de Kock,372455c4,C Karunaratne,fb3e0d39,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,2,0,2
+1271632,2021,South Africa,10,Q de Kock,372455c4,C Karunaratne,fb3e0d39,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,1,0,1
+1271632,2021,South Africa,10,RR Hendricks,b8cc58c9,C Karunaratne,fb3e0d39,Q de Kock,372455c4,0,0,0,0,0,,,,,,1,0,1
+1271632,2021,South Africa,10,Q de Kock,372455c4,C Karunaratne,fb3e0d39,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,0,0,0
+1271632,2021,South Africa,10,Q de Kock,372455c4,C Karunaratne,fb3e0d39,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,1,0,1
+1271632,2021,South Africa,10,RR Hendricks,b8cc58c9,C Karunaratne,fb3e0d39,Q de Kock,372455c4,0,0,0,0,0,,,,,,1,0,1
+1271632,2021,South Africa,11,RR Hendricks,b8cc58c9,PWH de Silva,a97c8ec2,Q de Kock,372455c4,0,0,0,0,0,,,,,,1,0,1
+1271632,2021,South Africa,11,Q de Kock,372455c4,PWH de Silva,a97c8ec2,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,0,0,0
+1271632,2021,South Africa,11,Q de Kock,372455c4,PWH de Silva,a97c8ec2,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,1,0,1
+1271632,2021,South Africa,11,RR Hendricks,b8cc58c9,PWH de Silva,a97c8ec2,Q de Kock,372455c4,0,0,0,0,0,,,,,,1,0,1
+1271632,2021,South Africa,11,Q de Kock,372455c4,PWH de Silva,a97c8ec2,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,4,0,4
+1271632,2021,South Africa,11,Q de Kock,372455c4,PWH de Silva,a97c8ec2,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,1,0,1
+1271632,2021,South Africa,12,Q de Kock,372455c4,MD Shanaka,3ff033bb,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,2,0,2
+1271632,2021,South Africa,12,Q de Kock,372455c4,MD Shanaka,3ff033bb,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,1,0,1
+1271632,2021,South Africa,12,RR Hendricks,b8cc58c9,MD Shanaka,3ff033bb,Q de Kock,372455c4,0,0,0,0,0,,,,,,4,0,4
+1271632,2021,South Africa,12,RR Hendricks,b8cc58c9,MD Shanaka,3ff033bb,Q de Kock,372455c4,0,0,0,0,0,,,,,,1,0,1
+1271632,2021,South Africa,12,Q de Kock,372455c4,MD Shanaka,3ff033bb,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,2,0,2
+1271632,2021,South Africa,12,Q de Kock,372455c4,MD Shanaka,3ff033bb,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,4,0,4
+1271632,2021,South Africa,13,RR Hendricks,b8cc58c9,PHKD Mendis,08548b13,Q de Kock,372455c4,0,0,0,0,0,,,,,,1,0,1
+1271632,2021,South Africa,13,Q de Kock,372455c4,PHKD Mendis,08548b13,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,1,0,1
+1271632,2021,South Africa,13,RR Hendricks,b8cc58c9,PHKD Mendis,08548b13,Q de Kock,372455c4,0,0,0,0,0,,,,,,2,0,2
+1271632,2021,South Africa,13,RR Hendricks,b8cc58c9,PHKD Mendis,08548b13,Q de Kock,372455c4,0,0,0,0,0,,,,,,1,0,1
+1271632,2021,South Africa,13,Q de Kock,372455c4,PHKD Mendis,08548b13,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,0,0,0
+1271632,2021,South Africa,13,Q de Kock,372455c4,PHKD Mendis,08548b13,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,0,0,0
+1271632,2021,South Africa,14,RR Hendricks,b8cc58c9,C Karunaratne,fb3e0d39,Q de Kock,372455c4,0,0,0,0,0,,,,,,2,0,2
+1271632,2021,South Africa,14,RR Hendricks,b8cc58c9,C Karunaratne,fb3e0d39,Q de Kock,372455c4,0,0,0,0,0,,,,,,2,0,2
+1271632,2021,South Africa,14,RR Hendricks,b8cc58c9,C Karunaratne,fb3e0d39,Q de Kock,372455c4,0,0,0,0,0,,,,,,1,0,1
+1271632,2021,South Africa,14,Q de Kock,372455c4,C Karunaratne,fb3e0d39,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,2,0,2

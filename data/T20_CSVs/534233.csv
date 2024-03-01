@@ -1,0 +1,236 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+534233,2012,England,0,C Kieswetter,1e960f2a,RJ Peterson,26ff4c29,AD Hales,92aeac25,0,0,0,0,0,,,,,,0,0,0
+534233,2012,England,0,C Kieswetter,1e960f2a,RJ Peterson,26ff4c29,AD Hales,92aeac25,0,0,0,0,0,,,,,,0,0,0
+534233,2012,England,0,C Kieswetter,1e960f2a,RJ Peterson,26ff4c29,AD Hales,92aeac25,0,0,0,0,0,,,,,,1,0,1
+534233,2012,England,0,AD Hales,92aeac25,RJ Peterson,26ff4c29,C Kieswetter,1e960f2a,0,0,0,0,0,,,,,,0,0,0
+534233,2012,England,0,AD Hales,92aeac25,RJ Peterson,26ff4c29,C Kieswetter,1e960f2a,0,0,0,0,0,,,,,,4,0,4
+534233,2012,England,0,AD Hales,92aeac25,RJ Peterson,26ff4c29,C Kieswetter,1e960f2a,0,0,0,0,0,,,,,,4,0,4
+534233,2012,England,1,C Kieswetter,1e960f2a,DW Steyn,8fd1a8f5,AD Hales,92aeac25,0,0,0,0,0,,,,,,0,0,0
+534233,2012,England,1,C Kieswetter,1e960f2a,DW Steyn,8fd1a8f5,AD Hales,92aeac25,0,0,0,0,0,,,,,,0,0,0
+534233,2012,England,1,C Kieswetter,1e960f2a,DW Steyn,8fd1a8f5,AD Hales,92aeac25,0,0,0,0,0,,,,,,0,0,0
+534233,2012,England,1,C Kieswetter,1e960f2a,DW Steyn,8fd1a8f5,AD Hales,92aeac25,0,0,0,0,0,,,,,,0,0,0
+534233,2012,England,1,C Kieswetter,1e960f2a,DW Steyn,8fd1a8f5,AD Hales,92aeac25,0,0,0,0,0,,,,,,1,0,1
+534233,2012,England,1,AD Hales,92aeac25,DW Steyn,8fd1a8f5,C Kieswetter,1e960f2a,0,0,0,0,0,,,,,,0,0,0
+534233,2012,England,2,C Kieswetter,1e960f2a,LL Tsotsobe,12bffe91,AD Hales,92aeac25,0,0,0,0,0,,,,,,0,0,0
+534233,2012,England,2,C Kieswetter,1e960f2a,LL Tsotsobe,12bffe91,AD Hales,92aeac25,0,0,0,0,0,,,,,,0,0,0
+534233,2012,England,2,C Kieswetter,1e960f2a,LL Tsotsobe,12bffe91,AD Hales,92aeac25,0,0,0,0,0,,,,,,4,0,4
+534233,2012,England,2,C Kieswetter,1e960f2a,LL Tsotsobe,12bffe91,AD Hales,92aeac25,0,0,0,0,0,,,,,,4,0,4
+534233,2012,England,2,C Kieswetter,1e960f2a,LL Tsotsobe,12bffe91,AD Hales,92aeac25,0,0,0,0,0,,,,,,0,0,0
+534233,2012,England,2,C Kieswetter,1e960f2a,LL Tsotsobe,12bffe91,AD Hales,92aeac25,0,0,0,0,0,,,,,,6,0,6
+534233,2012,England,3,AD Hales,92aeac25,JA Morkel,c3d35165,C Kieswetter,1e960f2a,0,0,0,0,0,,,,,,2,0,2
+534233,2012,England,3,AD Hales,92aeac25,JA Morkel,c3d35165,C Kieswetter,1e960f2a,0,0,0,0,0,,,,,,1,0,1
+534233,2012,England,3,C Kieswetter,1e960f2a,JA Morkel,c3d35165,AD Hales,92aeac25,0,0,0,0,0,,,,,,0,0,0
+534233,2012,England,3,C Kieswetter,1e960f2a,JA Morkel,c3d35165,AD Hales,92aeac25,0,0,0,0,1,AD Hales,92aeac25,JH Kallis,86dc8f2e,run out,0,0,0
+534233,2012,England,3,C Kieswetter,1e960f2a,JA Morkel,c3d35165,RS Bopara,7ca5e05d,0,0,0,0,0,,,,,,1,0,1
+534233,2012,England,3,RS Bopara,7ca5e05d,JA Morkel,c3d35165,C Kieswetter,1e960f2a,0,0,0,0,0,,,,,,0,0,0
+534233,2012,England,4,C Kieswetter,1e960f2a,LL Tsotsobe,12bffe91,RS Bopara,7ca5e05d,0,0,0,0,0,,,,,,0,0,0
+534233,2012,England,4,C Kieswetter,1e960f2a,LL Tsotsobe,12bffe91,RS Bopara,7ca5e05d,0,0,0,0,0,,,,,,0,0,0
+534233,2012,England,4,C Kieswetter,1e960f2a,LL Tsotsobe,12bffe91,RS Bopara,7ca5e05d,0,0,0,0,0,,,,,,1,0,1
+534233,2012,England,4,RS Bopara,7ca5e05d,LL Tsotsobe,12bffe91,C Kieswetter,1e960f2a,0,0,0,0,0,,,,,,1,0,1
+534233,2012,England,4,C Kieswetter,1e960f2a,LL Tsotsobe,12bffe91,RS Bopara,7ca5e05d,0,0,0,0,0,,,,,,4,0,4
+534233,2012,England,4,C Kieswetter,1e960f2a,LL Tsotsobe,12bffe91,RS Bopara,7ca5e05d,0,0,0,0,0,,,,,,2,0,2
+534233,2012,England,5,RS Bopara,7ca5e05d,JA Morkel,c3d35165,C Kieswetter,1e960f2a,0,0,0,0,0,,,,,,0,0,0
+534233,2012,England,5,RS Bopara,7ca5e05d,JA Morkel,c3d35165,C Kieswetter,1e960f2a,0,0,0,0,0,,,,,,0,0,0
+534233,2012,England,5,RS Bopara,7ca5e05d,JA Morkel,c3d35165,C Kieswetter,1e960f2a,0,0,0,0,0,,,,,,0,0,0
+534233,2012,England,5,RS Bopara,7ca5e05d,JA Morkel,c3d35165,C Kieswetter,1e960f2a,0,0,0,0,0,,,,,,1,0,1
+534233,2012,England,5,C Kieswetter,1e960f2a,JA Morkel,c3d35165,RS Bopara,7ca5e05d,0,0,0,0,0,,,,,,1,0,1
+534233,2012,England,5,RS Bopara,7ca5e05d,JA Morkel,c3d35165,C Kieswetter,1e960f2a,0,0,0,0,0,,,,,,2,0,2
+534233,2012,England,6,C Kieswetter,1e960f2a,J Botha,7c503806,RS Bopara,7ca5e05d,0,0,0,0,1,C Kieswetter,1e960f2a,,,lbw,0,0,0
+534233,2012,England,6,EJG Morgan,d2a6c0e6,J Botha,7c503806,RS Bopara,7ca5e05d,0,0,0,0,0,,,,,,1,0,1
+534233,2012,England,6,RS Bopara,7ca5e05d,J Botha,7c503806,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,1,0,1
+534233,2012,England,6,EJG Morgan,d2a6c0e6,J Botha,7c503806,RS Bopara,7ca5e05d,0,0,0,0,0,,,,,,4,0,4
+534233,2012,England,6,EJG Morgan,d2a6c0e6,J Botha,7c503806,RS Bopara,7ca5e05d,0,0,0,0,0,,,,,,1,0,1
+534233,2012,England,6,RS Bopara,7ca5e05d,J Botha,7c503806,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,0,0,0
+534233,2012,England,7,EJG Morgan,d2a6c0e6,DW Steyn,8fd1a8f5,RS Bopara,7ca5e05d,0,0,1,0,0,,,,,,0,1,1
+534233,2012,England,7,RS Bopara,7ca5e05d,DW Steyn,8fd1a8f5,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,1,0,1
+534233,2012,England,7,EJG Morgan,d2a6c0e6,DW Steyn,8fd1a8f5,RS Bopara,7ca5e05d,0,0,0,0,0,,,,,,1,0,1
+534233,2012,England,7,RS Bopara,7ca5e05d,DW Steyn,8fd1a8f5,EJG Morgan,d2a6c0e6,0,0,0,0,1,RS Bopara,7ca5e05d,J Botha,7c503806,caught,0,0,0
+534233,2012,England,7,JM Bairstow,abb83e27,DW Steyn,8fd1a8f5,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,0,0,0
+534233,2012,England,7,JM Bairstow,abb83e27,DW Steyn,8fd1a8f5,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,0,0,0
+534233,2012,England,8,EJG Morgan,d2a6c0e6,J Botha,7c503806,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,1,0,1
+534233,2012,England,8,JM Bairstow,abb83e27,J Botha,7c503806,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,0,0,0
+534233,2012,England,8,JM Bairstow,abb83e27,J Botha,7c503806,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,4,0,4
+534233,2012,England,8,JM Bairstow,abb83e27,J Botha,7c503806,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,1,0,1
+534233,2012,England,8,EJG Morgan,d2a6c0e6,J Botha,7c503806,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,1,0,1
+534233,2012,England,8,JM Bairstow,abb83e27,J Botha,7c503806,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,2,0,2
+534233,2012,England,9,EJG Morgan,d2a6c0e6,JH Kallis,86dc8f2e,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,1,0,1
+534233,2012,England,9,JM Bairstow,abb83e27,JH Kallis,86dc8f2e,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,0,0,0
+534233,2012,England,9,JM Bairstow,abb83e27,JH Kallis,86dc8f2e,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,0,0,0
+534233,2012,England,9,JM Bairstow,abb83e27,JH Kallis,86dc8f2e,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,1,0,1
+534233,2012,England,9,EJG Morgan,d2a6c0e6,JH Kallis,86dc8f2e,JM Bairstow,abb83e27,0,0,1,0,0,,,,,,0,1,1
+534233,2012,England,9,JM Bairstow,abb83e27,JH Kallis,86dc8f2e,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,2,0,2
+534233,2012,England,10,EJG Morgan,d2a6c0e6,J Botha,7c503806,JM Bairstow,abb83e27,0,0,0,2,0,,,,,,0,2,2
+534233,2012,England,10,EJG Morgan,d2a6c0e6,J Botha,7c503806,JM Bairstow,abb83e27,0,0,0,0,1,EJG Morgan,d2a6c0e6,,,bowled,0,0,0
+534233,2012,England,10,JC Buttler,99b75528,J Botha,7c503806,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,0,0,0
+534233,2012,England,10,JC Buttler,99b75528,J Botha,7c503806,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,0,0,0
+534233,2012,England,10,JC Buttler,99b75528,J Botha,7c503806,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,0,0,0
+534233,2012,England,10,JC Buttler,99b75528,J Botha,7c503806,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,1,0,1
+534233,2012,England,11,JC Buttler,99b75528,JH Kallis,86dc8f2e,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,2,0,2
+534233,2012,England,11,JC Buttler,99b75528,JH Kallis,86dc8f2e,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,1,0,1
+534233,2012,England,11,JM Bairstow,abb83e27,JH Kallis,86dc8f2e,JC Buttler,99b75528,0,0,0,0,0,,,,,,2,0,2
+534233,2012,England,11,JM Bairstow,abb83e27,JH Kallis,86dc8f2e,JC Buttler,99b75528,0,0,0,0,0,,,,,,1,0,1
+534233,2012,England,11,JC Buttler,99b75528,JH Kallis,86dc8f2e,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,1,0,1
+534233,2012,England,11,JM Bairstow,abb83e27,JH Kallis,86dc8f2e,JC Buttler,99b75528,0,0,0,0,0,,,,,,0,0,0
+534233,2012,England,12,JC Buttler,99b75528,RJ Peterson,26ff4c29,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,1,0,1
+534233,2012,England,12,JM Bairstow,abb83e27,RJ Peterson,26ff4c29,JC Buttler,99b75528,0,0,0,0,0,,,,,,1,0,1
+534233,2012,England,12,JC Buttler,99b75528,RJ Peterson,26ff4c29,JM Bairstow,abb83e27,0,0,0,0,1,JC Buttler,99b75528,,,bowled,0,0,0
+534233,2012,England,12,SR Patel,18fac429,RJ Peterson,26ff4c29,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,0,0,0
+534233,2012,England,12,SR Patel,18fac429,RJ Peterson,26ff4c29,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,1,0,1
+534233,2012,England,12,JM Bairstow,abb83e27,RJ Peterson,26ff4c29,SR Patel,18fac429,0,0,0,0,0,,,,,,0,0,0
+534233,2012,England,13,SR Patel,18fac429,JA Morkel,c3d35165,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,1,0,1
+534233,2012,England,13,JM Bairstow,abb83e27,JA Morkel,c3d35165,SR Patel,18fac429,0,0,0,0,0,,,,,,1,0,1
+534233,2012,England,13,SR Patel,18fac429,JA Morkel,c3d35165,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,1,0,1
+534233,2012,England,13,JM Bairstow,abb83e27,JA Morkel,c3d35165,SR Patel,18fac429,0,0,0,0,1,JM Bairstow,abb83e27,J Botha,7c503806,caught,0,0,0
+534233,2012,England,13,SCJ Broad,eba6a852,JA Morkel,c3d35165,SR Patel,18fac429,0,0,0,0,0,,,,,,1,0,1
+534233,2012,England,13,SR Patel,18fac429,JA Morkel,c3d35165,SCJ Broad,eba6a852,0,0,0,0,0,,,,,,0,0,0
+534233,2012,England,14,SCJ Broad,eba6a852,J Botha,7c503806,SR Patel,18fac429,0,0,0,0,0,,,,,,0,0,0
+534233,2012,England,14,SCJ Broad,eba6a852,J Botha,7c503806,SR Patel,18fac429,0,0,0,0,0,,,,,,2,0,2
+534233,2012,England,14,SCJ Broad,eba6a852,J Botha,7c503806,SR Patel,18fac429,0,0,0,0,0,,,,,,0,0,0
+534233,2012,England,14,SCJ Broad,eba6a852,J Botha,7c503806,SR Patel,18fac429,0,0,0,0,0,,,,,,0,0,0
+534233,2012,England,14,SCJ Broad,eba6a852,J Botha,7c503806,SR Patel,18fac429,0,0,0,0,0,,,,,,0,0,0
+534233,2012,England,14,SCJ Broad,eba6a852,J Botha,7c503806,SR Patel,18fac429,0,0,0,0,0,,,,,,0,0,0
+534233,2012,England,15,SR Patel,18fac429,RJ Peterson,26ff4c29,SCJ Broad,eba6a852,0,0,0,0,0,,,,,,1,0,1
+534233,2012,England,15,SCJ Broad,eba6a852,RJ Peterson,26ff4c29,SR Patel,18fac429,0,0,0,0,0,,,,,,1,0,1
+534233,2012,England,15,SR Patel,18fac429,RJ Peterson,26ff4c29,SCJ Broad,eba6a852,0,0,0,0,1,SR Patel,18fac429,JH Kallis,86dc8f2e,caught,0,0,0
+534233,2012,England,15,SCJ Broad,eba6a852,RJ Peterson,26ff4c29,GP Swann,221ad9d9,0,0,0,0,0,,,,,,0,0,0
+534233,2012,England,15,SCJ Broad,eba6a852,RJ Peterson,26ff4c29,GP Swann,221ad9d9,0,0,0,0,0,,,,,,1,0,1
+534233,2012,England,15,GP Swann,221ad9d9,RJ Peterson,26ff4c29,SCJ Broad,eba6a852,0,0,0,0,0,,,,,,0,0,0
+534233,2012,England,16,SCJ Broad,eba6a852,DW Steyn,8fd1a8f5,GP Swann,221ad9d9,0,0,0,0,0,,,,,,1,0,1
+534233,2012,England,16,GP Swann,221ad9d9,DW Steyn,8fd1a8f5,SCJ Broad,eba6a852,0,0,0,0,0,,,,,,0,0,0
+534233,2012,England,16,GP Swann,221ad9d9,DW Steyn,8fd1a8f5,SCJ Broad,eba6a852,0,0,0,0,0,,,,,,0,0,0
+534233,2012,England,16,GP Swann,221ad9d9,DW Steyn,8fd1a8f5,SCJ Broad,eba6a852,0,0,0,0,0,,,,,,0,0,0
+534233,2012,England,16,GP Swann,221ad9d9,DW Steyn,8fd1a8f5,SCJ Broad,eba6a852,0,0,0,0,0,,,,,,1,0,1
+534233,2012,England,16,SCJ Broad,eba6a852,DW Steyn,8fd1a8f5,GP Swann,221ad9d9,0,0,0,0,0,,,,,,1,0,1
+534233,2012,England,17,SCJ Broad,eba6a852,RJ Peterson,26ff4c29,GP Swann,221ad9d9,0,0,0,0,0,,,,,,2,0,2
+534233,2012,England,17,SCJ Broad,eba6a852,RJ Peterson,26ff4c29,GP Swann,221ad9d9,0,0,0,0,0,,,,,,1,0,1
+534233,2012,England,17,GP Swann,221ad9d9,RJ Peterson,26ff4c29,SCJ Broad,eba6a852,0,0,0,0,0,,,,,,4,0,4
+534233,2012,England,17,GP Swann,221ad9d9,RJ Peterson,26ff4c29,SCJ Broad,eba6a852,0,0,0,0,0,,,,,,1,0,1
+534233,2012,England,17,SCJ Broad,eba6a852,RJ Peterson,26ff4c29,GP Swann,221ad9d9,0,0,0,0,0,,,,,,0,0,0
+534233,2012,England,17,SCJ Broad,eba6a852,RJ Peterson,26ff4c29,GP Swann,221ad9d9,0,0,0,0,0,,,,,,4,0,4
+534233,2012,England,18,GP Swann,221ad9d9,JH Kallis,86dc8f2e,SCJ Broad,eba6a852,0,0,0,0,0,,,,,,4,0,4
+534233,2012,England,18,GP Swann,221ad9d9,JH Kallis,86dc8f2e,SCJ Broad,eba6a852,0,0,0,0,0,,,,,,1,0,1
+534233,2012,England,18,SCJ Broad,eba6a852,JH Kallis,86dc8f2e,GP Swann,221ad9d9,0,0,0,0,0,,,,,,1,0,1
+534233,2012,England,18,GP Swann,221ad9d9,JH Kallis,86dc8f2e,SCJ Broad,eba6a852,0,0,0,0,0,,,,,,1,0,1
+534233,2012,England,18,SCJ Broad,eba6a852,JH Kallis,86dc8f2e,GP Swann,221ad9d9,0,0,0,0,0,,,,,,2,0,2
+534233,2012,England,18,SCJ Broad,eba6a852,JH Kallis,86dc8f2e,GP Swann,221ad9d9,0,0,0,0,0,,,,,,0,0,0
+534233,2012,England,19,GP Swann,221ad9d9,DW Steyn,8fd1a8f5,SCJ Broad,eba6a852,0,0,0,0,0,,,,,,4,0,4
+534233,2012,England,19,GP Swann,221ad9d9,DW Steyn,8fd1a8f5,SCJ Broad,eba6a852,0,0,0,0,0,,,,,,1,0,1
+534233,2012,England,19,SCJ Broad,eba6a852,DW Steyn,8fd1a8f5,GP Swann,221ad9d9,0,0,0,0,0,,,,,,0,0,0
+534233,2012,England,19,SCJ Broad,eba6a852,DW Steyn,8fd1a8f5,GP Swann,221ad9d9,0,0,0,0,0,,,,,,1,0,1
+534233,2012,England,19,GP Swann,221ad9d9,DW Steyn,8fd1a8f5,SCJ Broad,eba6a852,0,0,0,0,0,,,,,,1,0,1
+534233,2012,England,19,SCJ Broad,eba6a852,DW Steyn,8fd1a8f5,GP Swann,221ad9d9,0,0,0,1,0,,,,,,0,1,1
+534233,2012,South Africa,0,RE Levi,18c78b11,ST Finn,ccdd8308,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,0,0,0
+534233,2012,South Africa,0,RE Levi,18c78b11,ST Finn,ccdd8308,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,0,0,0
+534233,2012,South Africa,0,RE Levi,18c78b11,ST Finn,ccdd8308,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,4,0,4
+534233,2012,South Africa,0,RE Levi,18c78b11,ST Finn,ccdd8308,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,4,0,4
+534233,2012,South Africa,0,RE Levi,18c78b11,ST Finn,ccdd8308,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,0,0,0
+534233,2012,South Africa,0,RE Levi,18c78b11,ST Finn,ccdd8308,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,0,0,0
+534233,2012,South Africa,1,JH Kallis,86dc8f2e,JW Dernbach,7be8a0ed,RE Levi,18c78b11,0,0,0,0,0,,,,,,0,0,0
+534233,2012,South Africa,1,JH Kallis,86dc8f2e,JW Dernbach,7be8a0ed,RE Levi,18c78b11,0,0,0,0,0,,,,,,0,0,0
+534233,2012,South Africa,1,JH Kallis,86dc8f2e,JW Dernbach,7be8a0ed,RE Levi,18c78b11,0,0,0,0,0,,,,,,1,0,1
+534233,2012,South Africa,1,RE Levi,18c78b11,JW Dernbach,7be8a0ed,JH Kallis,86dc8f2e,0,0,0,0,1,RE Levi,18c78b11,GP Swann,221ad9d9,caught,0,0,0
+534233,2012,South Africa,1,F du Plessis,3355b542,JW Dernbach,7be8a0ed,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,2,0,2
+534233,2012,South Africa,1,F du Plessis,3355b542,JW Dernbach,7be8a0ed,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,2,0,2
+534233,2012,South Africa,2,JH Kallis,86dc8f2e,ST Finn,ccdd8308,F du Plessis,3355b542,0,0,0,0,0,,,,,,0,0,0
+534233,2012,South Africa,2,JH Kallis,86dc8f2e,ST Finn,ccdd8308,F du Plessis,3355b542,0,0,0,0,0,,,,,,0,0,0
+534233,2012,South Africa,2,JH Kallis,86dc8f2e,ST Finn,ccdd8308,F du Plessis,3355b542,0,0,0,0,0,,,,,,1,0,1
+534233,2012,South Africa,2,F du Plessis,3355b542,ST Finn,ccdd8308,JH Kallis,86dc8f2e,0,0,0,0,1,F du Plessis,3355b542,,,lbw,0,0,0
+534233,2012,South Africa,2,AB de Villiers,c4487b84,ST Finn,ccdd8308,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,0,0,0
+534233,2012,South Africa,2,AB de Villiers,c4487b84,ST Finn,ccdd8308,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,0,0,0
+534233,2012,South Africa,3,JH Kallis,86dc8f2e,JW Dernbach,7be8a0ed,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,4,0,4
+534233,2012,South Africa,3,JH Kallis,86dc8f2e,JW Dernbach,7be8a0ed,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,1,0,1
+534233,2012,South Africa,3,AB de Villiers,c4487b84,JW Dernbach,7be8a0ed,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,4,0,4
+534233,2012,South Africa,3,AB de Villiers,c4487b84,JW Dernbach,7be8a0ed,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,2,0,2
+534233,2012,South Africa,3,AB de Villiers,c4487b84,JW Dernbach,7be8a0ed,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,4,0,4
+534233,2012,South Africa,3,AB de Villiers,c4487b84,JW Dernbach,7be8a0ed,JH Kallis,86dc8f2e,0,0,0,0,1,AB de Villiers,c4487b84,C Kieswetter,1e960f2a,caught,0,0,0
+534233,2012,South Africa,4,JH Kallis,86dc8f2e,ST Finn,ccdd8308,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,1,0,1
+534233,2012,South Africa,4,JP Duminy,2e8994e7,ST Finn,ccdd8308,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,0,0,0
+534233,2012,South Africa,4,JP Duminy,2e8994e7,ST Finn,ccdd8308,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,0,0,0
+534233,2012,South Africa,4,JP Duminy,2e8994e7,ST Finn,ccdd8308,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,4,0,4
+534233,2012,South Africa,4,JP Duminy,2e8994e7,ST Finn,ccdd8308,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,0,0,0
+534233,2012,South Africa,4,JP Duminy,2e8994e7,ST Finn,ccdd8308,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,0,0,0
+534233,2012,South Africa,5,JH Kallis,86dc8f2e,SCJ Broad,eba6a852,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,1,0,1
+534233,2012,South Africa,5,JP Duminy,2e8994e7,SCJ Broad,eba6a852,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,1,0,1
+534233,2012,South Africa,5,JH Kallis,86dc8f2e,SCJ Broad,eba6a852,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,0,0,0
+534233,2012,South Africa,5,JH Kallis,86dc8f2e,SCJ Broad,eba6a852,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,0,0,0
+534233,2012,South Africa,5,JH Kallis,86dc8f2e,SCJ Broad,eba6a852,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,4,0,4
+534233,2012,South Africa,5,JH Kallis,86dc8f2e,SCJ Broad,eba6a852,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,0,0,0
+534233,2012,South Africa,6,JP Duminy,2e8994e7,RS Bopara,7ca5e05d,JH Kallis,86dc8f2e,1,0,0,0,0,,,,,,0,1,1
+534233,2012,South Africa,6,JP Duminy,2e8994e7,RS Bopara,7ca5e05d,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,0,0,0
+534233,2012,South Africa,6,JP Duminy,2e8994e7,RS Bopara,7ca5e05d,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,1,0,1
+534233,2012,South Africa,6,JH Kallis,86dc8f2e,RS Bopara,7ca5e05d,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,0,0,0
+534233,2012,South Africa,6,JH Kallis,86dc8f2e,RS Bopara,7ca5e05d,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,4,0,4
+534233,2012,South Africa,6,JH Kallis,86dc8f2e,RS Bopara,7ca5e05d,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,4,0,4
+534233,2012,South Africa,6,JH Kallis,86dc8f2e,RS Bopara,7ca5e05d,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,0,0,0
+534233,2012,South Africa,7,JP Duminy,2e8994e7,GP Swann,221ad9d9,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,0,0,0
+534233,2012,South Africa,7,JP Duminy,2e8994e7,GP Swann,221ad9d9,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,1,0,1
+534233,2012,South Africa,7,JH Kallis,86dc8f2e,GP Swann,221ad9d9,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,1,0,1
+534233,2012,South Africa,7,JP Duminy,2e8994e7,GP Swann,221ad9d9,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,0,0,0
+534233,2012,South Africa,7,JP Duminy,2e8994e7,GP Swann,221ad9d9,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,1,0,1
+534233,2012,South Africa,7,JH Kallis,86dc8f2e,GP Swann,221ad9d9,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,0,0,0
+534233,2012,South Africa,8,JP Duminy,2e8994e7,SCJ Broad,eba6a852,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,0,0,0
+534233,2012,South Africa,8,JP Duminy,2e8994e7,SCJ Broad,eba6a852,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,0,0,0
+534233,2012,South Africa,8,JP Duminy,2e8994e7,SCJ Broad,eba6a852,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,0,0,0
+534233,2012,South Africa,8,JP Duminy,2e8994e7,SCJ Broad,eba6a852,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,1,0,1
+534233,2012,South Africa,8,JH Kallis,86dc8f2e,SCJ Broad,eba6a852,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,0,0,0
+534233,2012,South Africa,8,JH Kallis,86dc8f2e,SCJ Broad,eba6a852,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,0,0,0
+534233,2012,South Africa,9,JP Duminy,2e8994e7,GP Swann,221ad9d9,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,0,0,0
+534233,2012,South Africa,9,JP Duminy,2e8994e7,GP Swann,221ad9d9,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,3,0,3
+534233,2012,South Africa,9,JH Kallis,86dc8f2e,GP Swann,221ad9d9,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,1,0,1
+534233,2012,South Africa,9,JP Duminy,2e8994e7,GP Swann,221ad9d9,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,1,0,1
+534233,2012,South Africa,9,JH Kallis,86dc8f2e,GP Swann,221ad9d9,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,1,0,1
+534233,2012,South Africa,9,JP Duminy,2e8994e7,GP Swann,221ad9d9,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,1,0,1
+534233,2012,South Africa,10,JP Duminy,2e8994e7,SR Patel,18fac429,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,4,0,4
+534233,2012,South Africa,10,JP Duminy,2e8994e7,SR Patel,18fac429,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,4,0,4
+534233,2012,South Africa,10,JP Duminy,2e8994e7,SR Patel,18fac429,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,1,0,1
+534233,2012,South Africa,10,JH Kallis,86dc8f2e,SR Patel,18fac429,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,0,0,0
+534233,2012,South Africa,10,JH Kallis,86dc8f2e,SR Patel,18fac429,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,1,0,1
+534233,2012,South Africa,10,JP Duminy,2e8994e7,SR Patel,18fac429,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,1,0,1
+534233,2012,South Africa,11,JP Duminy,2e8994e7,GP Swann,221ad9d9,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,0,0,0
+534233,2012,South Africa,11,JP Duminy,2e8994e7,GP Swann,221ad9d9,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,1,0,1
+534233,2012,South Africa,11,JH Kallis,86dc8f2e,GP Swann,221ad9d9,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,0,0,0
+534233,2012,South Africa,11,JH Kallis,86dc8f2e,GP Swann,221ad9d9,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,1,0,1
+534233,2012,South Africa,11,JP Duminy,2e8994e7,GP Swann,221ad9d9,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,0,0,0
+534233,2012,South Africa,11,JP Duminy,2e8994e7,GP Swann,221ad9d9,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,2,0,2
+534233,2012,South Africa,12,JH Kallis,86dc8f2e,ST Finn,ccdd8308,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,0,0,0
+534233,2012,South Africa,12,JH Kallis,86dc8f2e,ST Finn,ccdd8308,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,1,0,1
+534233,2012,South Africa,12,JP Duminy,2e8994e7,ST Finn,ccdd8308,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,4,0,4
+534233,2012,South Africa,12,JP Duminy,2e8994e7,ST Finn,ccdd8308,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,1,0,1
+534233,2012,South Africa,12,JH Kallis,86dc8f2e,ST Finn,ccdd8308,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,1,0,1
+534233,2012,South Africa,12,JP Duminy,2e8994e7,ST Finn,ccdd8308,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,1,0,1
+534233,2012,South Africa,13,JP Duminy,2e8994e7,GP Swann,221ad9d9,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,0,0,0
+534233,2012,South Africa,13,JP Duminy,2e8994e7,GP Swann,221ad9d9,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,0,0,0
+534233,2012,South Africa,13,JP Duminy,2e8994e7,GP Swann,221ad9d9,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,1,0,1
+534233,2012,South Africa,13,JH Kallis,86dc8f2e,GP Swann,221ad9d9,JP Duminy,2e8994e7,0,0,1,0,0,,,,,,0,1,1
+534233,2012,South Africa,13,JP Duminy,2e8994e7,GP Swann,221ad9d9,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,0,0,0
+534233,2012,South Africa,13,JP Duminy,2e8994e7,GP Swann,221ad9d9,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,1,0,1
+534233,2012,South Africa,14,JP Duminy,2e8994e7,SCJ Broad,eba6a852,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,1,0,1
+534233,2012,South Africa,14,JH Kallis,86dc8f2e,SCJ Broad,eba6a852,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,0,0,0
+534233,2012,South Africa,14,JH Kallis,86dc8f2e,SCJ Broad,eba6a852,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,1,0,1
+534233,2012,South Africa,14,JP Duminy,2e8994e7,SCJ Broad,eba6a852,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,2,0,2
+534233,2012,South Africa,14,JP Duminy,2e8994e7,SCJ Broad,eba6a852,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,0,0,0
+534233,2012,South Africa,14,JP Duminy,2e8994e7,SCJ Broad,eba6a852,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,1,0,1
+534233,2012,South Africa,15,JP Duminy,2e8994e7,JW Dernbach,7be8a0ed,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,1,0,1
+534233,2012,South Africa,15,JH Kallis,86dc8f2e,JW Dernbach,7be8a0ed,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,1,0,1
+534233,2012,South Africa,15,JP Duminy,2e8994e7,JW Dernbach,7be8a0ed,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,0,0,0
+534233,2012,South Africa,15,JP Duminy,2e8994e7,JW Dernbach,7be8a0ed,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,0,0,0
+534233,2012,South Africa,15,JP Duminy,2e8994e7,JW Dernbach,7be8a0ed,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,1,0,1
+534233,2012,South Africa,15,JH Kallis,86dc8f2e,JW Dernbach,7be8a0ed,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,4,0,4
+534233,2012,South Africa,16,JP Duminy,2e8994e7,SCJ Broad,eba6a852,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,0,0,0
+534233,2012,South Africa,16,JP Duminy,2e8994e7,SCJ Broad,eba6a852,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,0,0,0
+534233,2012,South Africa,16,JP Duminy,2e8994e7,SCJ Broad,eba6a852,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,1,0,1
+534233,2012,South Africa,16,JH Kallis,86dc8f2e,SCJ Broad,eba6a852,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,4,0,4
+534233,2012,South Africa,16,JH Kallis,86dc8f2e,SCJ Broad,eba6a852,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,1,0,1
+534233,2012,South Africa,16,JP Duminy,2e8994e7,SCJ Broad,eba6a852,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,0,0,0
+534233,2012,South Africa,17,JH Kallis,86dc8f2e,RS Bopara,7ca5e05d,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,4,0,4
+534233,2012,South Africa,17,JH Kallis,86dc8f2e,RS Bopara,7ca5e05d,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,2,0,2
+534233,2012,South Africa,17,JH Kallis,86dc8f2e,RS Bopara,7ca5e05d,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,1,0,1
+534233,2012,South Africa,17,JP Duminy,2e8994e7,RS Bopara,7ca5e05d,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,0,0,0
+534233,2012,South Africa,17,JP Duminy,2e8994e7,RS Bopara,7ca5e05d,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,2,0,2
+534233,2012,South Africa,17,JP Duminy,2e8994e7,RS Bopara,7ca5e05d,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,1,0,1
+534233,2012,South Africa,18,JP Duminy,2e8994e7,JW Dernbach,7be8a0ed,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,0,0,0
+534233,2012,South Africa,18,JP Duminy,2e8994e7,JW Dernbach,7be8a0ed,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,1,0,1
+534233,2012,South Africa,18,JH Kallis,86dc8f2e,JW Dernbach,7be8a0ed,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,1,0,1
+534233,2012,South Africa,18,JP Duminy,2e8994e7,JW Dernbach,7be8a0ed,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,1,0,1
+534233,2012,South Africa,18,JH Kallis,86dc8f2e,JW Dernbach,7be8a0ed,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,0,0,0
+534233,2012,South Africa,18,JH Kallis,86dc8f2e,JW Dernbach,7be8a0ed,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,1,0,1

@@ -1,0 +1,210 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+698983,2013/14,South Africa,0,L Lee,7b01ce83,Asmavia Iqbal,98dfe425,T Chetty,53a5767d,0,0,0,0,0,,,,,,1,0,1
+698983,2013/14,South Africa,0,T Chetty,53a5767d,Asmavia Iqbal,98dfe425,L Lee,7b01ce83,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,South Africa,0,T Chetty,53a5767d,Asmavia Iqbal,98dfe425,L Lee,7b01ce83,1,0,0,0,0,,,,,,0,1,1
+698983,2013/14,South Africa,0,T Chetty,53a5767d,Asmavia Iqbal,98dfe425,L Lee,7b01ce83,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,South Africa,0,T Chetty,53a5767d,Asmavia Iqbal,98dfe425,L Lee,7b01ce83,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,South Africa,0,T Chetty,53a5767d,Asmavia Iqbal,98dfe425,L Lee,7b01ce83,0,0,0,0,1,T Chetty,53a5767d,Batool Fatima,b1e5dade,caught,0,0,0
+698983,2013/14,South Africa,0,M du Preez,e219f17a,Asmavia Iqbal,98dfe425,L Lee,7b01ce83,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,South Africa,1,L Lee,7b01ce83,Sania Khan,e5be2427,M du Preez,e219f17a,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,South Africa,1,L Lee,7b01ce83,Sania Khan,e5be2427,M du Preez,e219f17a,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,South Africa,1,L Lee,7b01ce83,Sania Khan,e5be2427,M du Preez,e219f17a,1,0,0,0,0,,,,,,0,1,1
+698983,2013/14,South Africa,1,L Lee,7b01ce83,Sania Khan,e5be2427,M du Preez,e219f17a,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,South Africa,1,L Lee,7b01ce83,Sania Khan,e5be2427,M du Preez,e219f17a,0,0,0,0,0,,,,,,3,0,3
+698983,2013/14,South Africa,1,M du Preez,e219f17a,Sania Khan,e5be2427,L Lee,7b01ce83,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,South Africa,1,M du Preez,e219f17a,Sania Khan,e5be2427,L Lee,7b01ce83,0,0,0,0,0,,,,,,1,0,1
+698983,2013/14,South Africa,2,M du Preez,e219f17a,Asmavia Iqbal,98dfe425,L Lee,7b01ce83,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,South Africa,2,M du Preez,e219f17a,Asmavia Iqbal,98dfe425,L Lee,7b01ce83,0,0,0,0,0,,,,,,1,0,1
+698983,2013/14,South Africa,2,L Lee,7b01ce83,Asmavia Iqbal,98dfe425,M du Preez,e219f17a,0,0,0,0,0,,,,,,1,0,1
+698983,2013/14,South Africa,2,M du Preez,e219f17a,Asmavia Iqbal,98dfe425,L Lee,7b01ce83,0,0,0,0,0,,,,,,1,0,1
+698983,2013/14,South Africa,2,L Lee,7b01ce83,Asmavia Iqbal,98dfe425,M du Preez,e219f17a,0,0,0,0,0,,,,,,1,0,1
+698983,2013/14,South Africa,2,M du Preez,e219f17a,Asmavia Iqbal,98dfe425,L Lee,7b01ce83,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,South Africa,3,L Lee,7b01ce83,Sania Khan,e5be2427,M du Preez,e219f17a,0,0,0,0,0,,,,,,1,0,1
+698983,2013/14,South Africa,3,M du Preez,e219f17a,Sania Khan,e5be2427,L Lee,7b01ce83,0,0,0,0,0,,,,,,1,0,1
+698983,2013/14,South Africa,3,L Lee,7b01ce83,Sania Khan,e5be2427,M du Preez,e219f17a,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,South Africa,3,L Lee,7b01ce83,Sania Khan,e5be2427,M du Preez,e219f17a,0,0,0,0,1,L Lee,7b01ce83,Nain Abidi,5486d41f,caught,0,0,0
+698983,2013/14,South Africa,3,M Kapp,63e3b6b3,Sania Khan,e5be2427,M du Preez,e219f17a,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,South Africa,3,M Kapp,63e3b6b3,Sania Khan,e5be2427,M du Preez,e219f17a,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,South Africa,4,M du Preez,e219f17a,Asmavia Iqbal,98dfe425,M Kapp,63e3b6b3,0,0,0,0,0,,,,,,2,0,2
+698983,2013/14,South Africa,4,M du Preez,e219f17a,Asmavia Iqbal,98dfe425,M Kapp,63e3b6b3,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,South Africa,4,M du Preez,e219f17a,Asmavia Iqbal,98dfe425,M Kapp,63e3b6b3,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,South Africa,4,M du Preez,e219f17a,Asmavia Iqbal,98dfe425,M Kapp,63e3b6b3,0,0,0,0,0,,,,,,1,0,1
+698983,2013/14,South Africa,4,M Kapp,63e3b6b3,Asmavia Iqbal,98dfe425,M du Preez,e219f17a,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,South Africa,4,M Kapp,63e3b6b3,Asmavia Iqbal,98dfe425,M du Preez,e219f17a,0,0,0,0,0,,,,,,2,0,2
+698983,2013/14,South Africa,5,M du Preez,e219f17a,Sania Khan,e5be2427,M Kapp,63e3b6b3,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,South Africa,5,M du Preez,e219f17a,Sania Khan,e5be2427,M Kapp,63e3b6b3,0,0,0,0,0,,,,,,4,0,4
+698983,2013/14,South Africa,5,M du Preez,e219f17a,Sania Khan,e5be2427,M Kapp,63e3b6b3,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,South Africa,5,M du Preez,e219f17a,Sania Khan,e5be2427,M Kapp,63e3b6b3,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,South Africa,5,M du Preez,e219f17a,Sania Khan,e5be2427,M Kapp,63e3b6b3,0,0,0,0,0,,,,,,1,0,1
+698983,2013/14,South Africa,5,M Kapp,63e3b6b3,Sania Khan,e5be2427,M du Preez,e219f17a,0,0,0,0,0,,,,,,1,0,1
+698983,2013/14,South Africa,6,M Kapp,63e3b6b3,Sana Mir,b287e7b1,M du Preez,e219f17a,0,0,0,0,0,,,,,,2,0,2
+698983,2013/14,South Africa,6,M Kapp,63e3b6b3,Sana Mir,b287e7b1,M du Preez,e219f17a,0,0,0,0,0,,,,,,1,0,1
+698983,2013/14,South Africa,6,M du Preez,e219f17a,Sana Mir,b287e7b1,M Kapp,63e3b6b3,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,South Africa,6,M du Preez,e219f17a,Sana Mir,b287e7b1,M Kapp,63e3b6b3,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,South Africa,6,M du Preez,e219f17a,Sana Mir,b287e7b1,M Kapp,63e3b6b3,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,South Africa,6,M du Preez,e219f17a,Sana Mir,b287e7b1,M Kapp,63e3b6b3,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,South Africa,7,M Kapp,63e3b6b3,Sadia Yousuf,3cfbddce,M du Preez,e219f17a,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,South Africa,7,M Kapp,63e3b6b3,Sadia Yousuf,3cfbddce,M du Preez,e219f17a,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,South Africa,7,M Kapp,63e3b6b3,Sadia Yousuf,3cfbddce,M du Preez,e219f17a,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,South Africa,7,M Kapp,63e3b6b3,Sadia Yousuf,3cfbddce,M du Preez,e219f17a,0,0,0,0,0,,,,,,1,0,1
+698983,2013/14,South Africa,7,M du Preez,e219f17a,Sadia Yousuf,3cfbddce,M Kapp,63e3b6b3,0,0,0,0,0,,,,,,1,0,1
+698983,2013/14,South Africa,7,M Kapp,63e3b6b3,Sadia Yousuf,3cfbddce,M du Preez,e219f17a,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,South Africa,8,M du Preez,e219f17a,Sana Mir,b287e7b1,M Kapp,63e3b6b3,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,South Africa,8,M du Preez,e219f17a,Sana Mir,b287e7b1,M Kapp,63e3b6b3,0,0,0,0,0,,,,,,1,0,1
+698983,2013/14,South Africa,8,M Kapp,63e3b6b3,Sana Mir,b287e7b1,M du Preez,e219f17a,0,0,0,0,0,,,,,,4,0,4
+698983,2013/14,South Africa,8,M Kapp,63e3b6b3,Sana Mir,b287e7b1,M du Preez,e219f17a,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,South Africa,8,M Kapp,63e3b6b3,Sana Mir,b287e7b1,M du Preez,e219f17a,0,0,0,0,1,M Kapp,63e3b6b3,Asmavia Iqbal,98dfe425,caught,0,0,0
+698983,2013/14,South Africa,8,M du Preez,e219f17a,Sana Mir,b287e7b1,SA Fritz,d15e60c8,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,South Africa,9,SA Fritz,d15e60c8,Sadia Yousuf,3cfbddce,M du Preez,e219f17a,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,South Africa,9,SA Fritz,d15e60c8,Sadia Yousuf,3cfbddce,M du Preez,e219f17a,0,0,0,0,0,,,,,,2,0,2
+698983,2013/14,South Africa,9,SA Fritz,d15e60c8,Sadia Yousuf,3cfbddce,M du Preez,e219f17a,0,0,0,0,1,SA Fritz,d15e60c8,Qanita Jalil,2ea9b32c,caught,0,0,0
+698983,2013/14,South Africa,9,S Loubser,386f410e,Sadia Yousuf,3cfbddce,M du Preez,e219f17a,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,South Africa,9,S Loubser,386f410e,Sadia Yousuf,3cfbddce,M du Preez,e219f17a,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,South Africa,9,S Loubser,386f410e,Sadia Yousuf,3cfbddce,M du Preez,e219f17a,0,0,0,0,0,,,,,,1,0,1
+698983,2013/14,South Africa,10,S Loubser,386f410e,Nida Dar,ed840f44,M du Preez,e219f17a,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,South Africa,10,S Loubser,386f410e,Nida Dar,ed840f44,M du Preez,e219f17a,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,South Africa,10,S Loubser,386f410e,Nida Dar,ed840f44,M du Preez,e219f17a,0,0,0,0,0,,,,,,1,0,1
+698983,2013/14,South Africa,10,M du Preez,e219f17a,Nida Dar,ed840f44,S Loubser,386f410e,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,South Africa,10,M du Preez,e219f17a,Nida Dar,ed840f44,S Loubser,386f410e,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,South Africa,10,M du Preez,e219f17a,Nida Dar,ed840f44,S Loubser,386f410e,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,South Africa,11,S Loubser,386f410e,Sadia Yousuf,3cfbddce,M du Preez,e219f17a,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,South Africa,11,S Loubser,386f410e,Sadia Yousuf,3cfbddce,M du Preez,e219f17a,0,0,0,0,1,S Loubser,386f410e,,,bowled,0,0,0
+698983,2013/14,South Africa,11,CL Tryon,4d4605e6,Sadia Yousuf,3cfbddce,M du Preez,e219f17a,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,South Africa,11,CL Tryon,4d4605e6,Sadia Yousuf,3cfbddce,M du Preez,e219f17a,0,0,0,0,0,,,,,,1,0,1
+698983,2013/14,South Africa,11,M du Preez,e219f17a,Sadia Yousuf,3cfbddce,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,South Africa,11,M du Preez,e219f17a,Sadia Yousuf,3cfbddce,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,South Africa,12,CL Tryon,4d4605e6,Nida Dar,ed840f44,M du Preez,e219f17a,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,South Africa,12,CL Tryon,4d4605e6,Nida Dar,ed840f44,M du Preez,e219f17a,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,South Africa,12,CL Tryon,4d4605e6,Nida Dar,ed840f44,M du Preez,e219f17a,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,South Africa,12,CL Tryon,4d4605e6,Nida Dar,ed840f44,M du Preez,e219f17a,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,South Africa,12,CL Tryon,4d4605e6,Nida Dar,ed840f44,M du Preez,e219f17a,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,South Africa,12,CL Tryon,4d4605e6,Nida Dar,ed840f44,M du Preez,e219f17a,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,South Africa,13,M du Preez,e219f17a,Qanita Jalil,2ea9b32c,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,South Africa,13,M du Preez,e219f17a,Qanita Jalil,2ea9b32c,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,South Africa,13,M du Preez,e219f17a,Qanita Jalil,2ea9b32c,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,South Africa,13,M du Preez,e219f17a,Qanita Jalil,2ea9b32c,CL Tryon,4d4605e6,0,0,0,0,1,M du Preez,e219f17a,,,bowled,0,0,0
+698983,2013/14,South Africa,13,S Luus,6d76bc23,Qanita Jalil,2ea9b32c,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,South Africa,13,S Luus,6d76bc23,Qanita Jalil,2ea9b32c,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,1,0,1
+698983,2013/14,South Africa,14,S Luus,6d76bc23,Nida Dar,ed840f44,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,South Africa,14,S Luus,6d76bc23,Nida Dar,ed840f44,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,South Africa,14,S Luus,6d76bc23,Nida Dar,ed840f44,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,South Africa,14,S Luus,6d76bc23,Nida Dar,ed840f44,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,1,0,1
+698983,2013/14,South Africa,14,CL Tryon,4d4605e6,Nida Dar,ed840f44,S Luus,6d76bc23,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,South Africa,14,CL Tryon,4d4605e6,Nida Dar,ed840f44,S Luus,6d76bc23,0,0,0,0,0,,,,,,1,0,1
+698983,2013/14,South Africa,15,CL Tryon,4d4605e6,Qanita Jalil,2ea9b32c,S Luus,6d76bc23,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,South Africa,15,CL Tryon,4d4605e6,Qanita Jalil,2ea9b32c,S Luus,6d76bc23,0,0,0,0,0,,,,,,1,0,1
+698983,2013/14,South Africa,15,S Luus,6d76bc23,Qanita Jalil,2ea9b32c,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,4,0,4
+698983,2013/14,South Africa,15,S Luus,6d76bc23,Qanita Jalil,2ea9b32c,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,South Africa,15,S Luus,6d76bc23,Qanita Jalil,2ea9b32c,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,2,0,2
+698983,2013/14,South Africa,15,S Luus,6d76bc23,Qanita Jalil,2ea9b32c,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,1,0,1
+698983,2013/14,South Africa,16,S Luus,6d76bc23,Nida Dar,ed840f44,CL Tryon,4d4605e6,0,0,0,0,1,S Luus,6d76bc23,Batool Fatima,b1e5dade,stumped,0,0,0
+698983,2013/14,South Africa,16,S Ismail,108c4c09,Nida Dar,ed840f44,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,South Africa,16,S Ismail,108c4c09,Nida Dar,ed840f44,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,South Africa,16,S Ismail,108c4c09,Nida Dar,ed840f44,CL Tryon,4d4605e6,0,0,0,0,1,S Ismail,108c4c09,,,lbw,0,0,0
+698983,2013/14,South Africa,16,M Daniels,16443d2f,Nida Dar,ed840f44,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,South Africa,16,M Daniels,16443d2f,Nida Dar,ed840f44,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,South Africa,17,CL Tryon,4d4605e6,Bismah Maroof,3b770527,M Daniels,16443d2f,0,0,0,0,0,,,,,,1,0,1
+698983,2013/14,South Africa,17,M Daniels,16443d2f,Bismah Maroof,3b770527,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,South Africa,17,M Daniels,16443d2f,Bismah Maroof,3b770527,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,South Africa,17,M Daniels,16443d2f,Bismah Maroof,3b770527,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,South Africa,17,M Daniels,16443d2f,Bismah Maroof,3b770527,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,South Africa,17,M Daniels,16443d2f,Bismah Maroof,3b770527,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,1,0,1
+698983,2013/14,South Africa,18,M Daniels,16443d2f,Sana Mir,b287e7b1,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,South Africa,18,M Daniels,16443d2f,Sana Mir,b287e7b1,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,South Africa,18,M Daniels,16443d2f,Sana Mir,b287e7b1,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,South Africa,18,M Daniels,16443d2f,Sana Mir,b287e7b1,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,South Africa,18,M Daniels,16443d2f,Sana Mir,b287e7b1,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,South Africa,18,M Daniels,16443d2f,Sana Mir,b287e7b1,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,1,0,1
+698983,2013/14,South Africa,19,M Daniels,16443d2f,Sadia Yousuf,3cfbddce,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,2,0,2
+698983,2013/14,South Africa,19,M Daniels,16443d2f,Sadia Yousuf,3cfbddce,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,1,0,1
+698983,2013/14,South Africa,19,CL Tryon,4d4605e6,Sadia Yousuf,3cfbddce,M Daniels,16443d2f,0,0,0,0,0,,,,,,4,0,4
+698983,2013/14,South Africa,19,CL Tryon,4d4605e6,Sadia Yousuf,3cfbddce,M Daniels,16443d2f,0,0,0,0,0,,,,,,1,0,1
+698983,2013/14,South Africa,19,M Daniels,16443d2f,Sadia Yousuf,3cfbddce,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,2,0,2
+698983,2013/14,South Africa,19,M Daniels,16443d2f,Sadia Yousuf,3cfbddce,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,1,0,1
+698983,2013/14,Pakistan,0,Nain Abidi,5486d41f,M Daniels,16443d2f,Javeria Rauf,bf8c8572,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,Pakistan,0,Nain Abidi,5486d41f,M Daniels,16443d2f,Javeria Rauf,bf8c8572,0,0,0,0,0,,,,,,2,0,2
+698983,2013/14,Pakistan,0,Nain Abidi,5486d41f,M Daniels,16443d2f,Javeria Rauf,bf8c8572,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,Pakistan,0,Nain Abidi,5486d41f,M Daniels,16443d2f,Javeria Rauf,bf8c8572,0,0,0,0,0,,,,,,4,0,4
+698983,2013/14,Pakistan,0,Nain Abidi,5486d41f,M Daniels,16443d2f,Javeria Rauf,bf8c8572,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,Pakistan,0,Nain Abidi,5486d41f,M Daniels,16443d2f,Javeria Rauf,bf8c8572,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,Pakistan,1,Javeria Rauf,bf8c8572,S Ismail,108c4c09,Nain Abidi,5486d41f,0,0,0,0,0,,,,,,2,0,2
+698983,2013/14,Pakistan,1,Javeria Rauf,bf8c8572,S Ismail,108c4c09,Nain Abidi,5486d41f,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,Pakistan,1,Javeria Rauf,bf8c8572,S Ismail,108c4c09,Nain Abidi,5486d41f,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,Pakistan,1,Javeria Rauf,bf8c8572,S Ismail,108c4c09,Nain Abidi,5486d41f,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,Pakistan,1,Javeria Rauf,bf8c8572,S Ismail,108c4c09,Nain Abidi,5486d41f,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,Pakistan,1,Javeria Rauf,bf8c8572,S Ismail,108c4c09,Nain Abidi,5486d41f,0,0,0,0,0,,,,,,1,0,1
+698983,2013/14,Pakistan,2,Javeria Rauf,bf8c8572,CL Tryon,4d4605e6,Nain Abidi,5486d41f,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,Pakistan,2,Javeria Rauf,bf8c8572,CL Tryon,4d4605e6,Nain Abidi,5486d41f,0,0,0,0,1,Javeria Rauf,bf8c8572,,,lbw,0,0,0
+698983,2013/14,Pakistan,2,Sidra Ameen,72c9ad99,CL Tryon,4d4605e6,Nain Abidi,5486d41f,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,Pakistan,2,Sidra Ameen,72c9ad99,CL Tryon,4d4605e6,Nain Abidi,5486d41f,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,Pakistan,2,Sidra Ameen,72c9ad99,CL Tryon,4d4605e6,Nain Abidi,5486d41f,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,Pakistan,2,Sidra Ameen,72c9ad99,CL Tryon,4d4605e6,Nain Abidi,5486d41f,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,Pakistan,3,Nain Abidi,5486d41f,M Kapp,63e3b6b3,Sidra Ameen,72c9ad99,0,0,0,0,0,,,,,,1,0,1
+698983,2013/14,Pakistan,3,Sidra Ameen,72c9ad99,M Kapp,63e3b6b3,Nain Abidi,5486d41f,0,0,0,0,0,,,,,,1,0,1
+698983,2013/14,Pakistan,3,Nain Abidi,5486d41f,M Kapp,63e3b6b3,Sidra Ameen,72c9ad99,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,Pakistan,3,Nain Abidi,5486d41f,M Kapp,63e3b6b3,Sidra Ameen,72c9ad99,0,0,0,0,0,,,,,,3,0,3
+698983,2013/14,Pakistan,3,Sidra Ameen,72c9ad99,M Kapp,63e3b6b3,Nain Abidi,5486d41f,0,0,0,0,0,,,,,,1,0,1
+698983,2013/14,Pakistan,3,Nain Abidi,5486d41f,M Kapp,63e3b6b3,Sidra Ameen,72c9ad99,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,Pakistan,4,Sidra Ameen,72c9ad99,CL Tryon,4d4605e6,Nain Abidi,5486d41f,0,0,0,0,0,,,,,,1,0,1
+698983,2013/14,Pakistan,4,Nain Abidi,5486d41f,CL Tryon,4d4605e6,Sidra Ameen,72c9ad99,0,1,0,0,0,,,,,,1,1,2
+698983,2013/14,Pakistan,4,Sidra Ameen,72c9ad99,CL Tryon,4d4605e6,Nain Abidi,5486d41f,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,Pakistan,4,Sidra Ameen,72c9ad99,CL Tryon,4d4605e6,Nain Abidi,5486d41f,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,Pakistan,4,Sidra Ameen,72c9ad99,CL Tryon,4d4605e6,Nain Abidi,5486d41f,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,Pakistan,4,Sidra Ameen,72c9ad99,CL Tryon,4d4605e6,Nain Abidi,5486d41f,0,0,0,0,0,,,,,,1,0,1
+698983,2013/14,Pakistan,4,Nain Abidi,5486d41f,CL Tryon,4d4605e6,Sidra Ameen,72c9ad99,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,Pakistan,5,Sidra Ameen,72c9ad99,S Ismail,108c4c09,Nain Abidi,5486d41f,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,Pakistan,5,Sidra Ameen,72c9ad99,S Ismail,108c4c09,Nain Abidi,5486d41f,0,0,0,0,0,,,,,,1,0,1
+698983,2013/14,Pakistan,5,Nain Abidi,5486d41f,S Ismail,108c4c09,Sidra Ameen,72c9ad99,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,Pakistan,5,Nain Abidi,5486d41f,S Ismail,108c4c09,Sidra Ameen,72c9ad99,0,0,0,0,0,,,,,,4,0,4
+698983,2013/14,Pakistan,5,Nain Abidi,5486d41f,S Ismail,108c4c09,Sidra Ameen,72c9ad99,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,Pakistan,5,Nain Abidi,5486d41f,S Ismail,108c4c09,Sidra Ameen,72c9ad99,1,0,0,0,0,,,,,,0,1,1
+698983,2013/14,Pakistan,5,Nain Abidi,5486d41f,S Ismail,108c4c09,Sidra Ameen,72c9ad99,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,Pakistan,6,Sidra Ameen,72c9ad99,S Loubser,386f410e,Nain Abidi,5486d41f,1,0,0,0,0,,,,,,0,1,1
+698983,2013/14,Pakistan,6,Sidra Ameen,72c9ad99,S Loubser,386f410e,Nain Abidi,5486d41f,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,Pakistan,6,Sidra Ameen,72c9ad99,S Loubser,386f410e,Nain Abidi,5486d41f,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,Pakistan,6,Sidra Ameen,72c9ad99,S Loubser,386f410e,Nain Abidi,5486d41f,0,0,0,0,1,Sidra Ameen,72c9ad99,S Ismail,108c4c09,caught,0,0,0
+698983,2013/14,Pakistan,6,Qanita Jalil,2ea9b32c,S Loubser,386f410e,Nain Abidi,5486d41f,0,0,0,0,0,,,,,,1,0,1
+698983,2013/14,Pakistan,6,Nain Abidi,5486d41f,S Loubser,386f410e,Qanita Jalil,2ea9b32c,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,Pakistan,6,Nain Abidi,5486d41f,S Loubser,386f410e,Qanita Jalil,2ea9b32c,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,Pakistan,7,Qanita Jalil,2ea9b32c,MM Letsoalo,7544bf30,Nain Abidi,5486d41f,0,0,0,0,0,,,,,,1,0,1
+698983,2013/14,Pakistan,7,Nain Abidi,5486d41f,MM Letsoalo,7544bf30,Qanita Jalil,2ea9b32c,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,Pakistan,7,Nain Abidi,5486d41f,MM Letsoalo,7544bf30,Qanita Jalil,2ea9b32c,0,0,0,0,0,,,,,,2,0,2
+698983,2013/14,Pakistan,7,Nain Abidi,5486d41f,MM Letsoalo,7544bf30,Qanita Jalil,2ea9b32c,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,Pakistan,7,Nain Abidi,5486d41f,MM Letsoalo,7544bf30,Qanita Jalil,2ea9b32c,0,0,0,0,0,,,,,,4,0,4
+698983,2013/14,Pakistan,7,Nain Abidi,5486d41f,MM Letsoalo,7544bf30,Qanita Jalil,2ea9b32c,0,0,0,0,0,,,,,,2,0,2
+698983,2013/14,Pakistan,8,Qanita Jalil,2ea9b32c,S Loubser,386f410e,Nain Abidi,5486d41f,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,Pakistan,8,Qanita Jalil,2ea9b32c,S Loubser,386f410e,Nain Abidi,5486d41f,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,Pakistan,8,Qanita Jalil,2ea9b32c,S Loubser,386f410e,Nain Abidi,5486d41f,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,Pakistan,8,Qanita Jalil,2ea9b32c,S Loubser,386f410e,Nain Abidi,5486d41f,0,0,0,0,0,,,,,,4,0,4
+698983,2013/14,Pakistan,8,Qanita Jalil,2ea9b32c,S Loubser,386f410e,Nain Abidi,5486d41f,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,Pakistan,8,Qanita Jalil,2ea9b32c,S Loubser,386f410e,Nain Abidi,5486d41f,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,Pakistan,9,Nain Abidi,5486d41f,S Luus,6d76bc23,Qanita Jalil,2ea9b32c,0,0,0,0,0,,,,,,1,0,1
+698983,2013/14,Pakistan,9,Qanita Jalil,2ea9b32c,S Luus,6d76bc23,Nain Abidi,5486d41f,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,Pakistan,9,Qanita Jalil,2ea9b32c,S Luus,6d76bc23,Nain Abidi,5486d41f,0,0,0,0,0,,,,,,4,0,4
+698983,2013/14,Pakistan,9,Qanita Jalil,2ea9b32c,S Luus,6d76bc23,Nain Abidi,5486d41f,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,Pakistan,9,Qanita Jalil,2ea9b32c,S Luus,6d76bc23,Nain Abidi,5486d41f,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,Pakistan,9,Qanita Jalil,2ea9b32c,S Luus,6d76bc23,Nain Abidi,5486d41f,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,Pakistan,10,Nain Abidi,5486d41f,S Loubser,386f410e,Qanita Jalil,2ea9b32c,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,Pakistan,10,Nain Abidi,5486d41f,S Loubser,386f410e,Qanita Jalil,2ea9b32c,0,0,0,0,0,,,,,,1,0,1
+698983,2013/14,Pakistan,10,Qanita Jalil,2ea9b32c,S Loubser,386f410e,Nain Abidi,5486d41f,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,Pakistan,10,Qanita Jalil,2ea9b32c,S Loubser,386f410e,Nain Abidi,5486d41f,0,0,0,0,0,,,,,,2,0,2
+698983,2013/14,Pakistan,10,Qanita Jalil,2ea9b32c,S Loubser,386f410e,Nain Abidi,5486d41f,0,0,0,0,0,,,,,,2,0,2
+698983,2013/14,Pakistan,10,Qanita Jalil,2ea9b32c,S Loubser,386f410e,Nain Abidi,5486d41f,0,0,0,0,0,,,,,,2,0,2
+698983,2013/14,Pakistan,11,Nain Abidi,5486d41f,S Luus,6d76bc23,Qanita Jalil,2ea9b32c,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,Pakistan,11,Nain Abidi,5486d41f,S Luus,6d76bc23,Qanita Jalil,2ea9b32c,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,Pakistan,11,Nain Abidi,5486d41f,S Luus,6d76bc23,Qanita Jalil,2ea9b32c,0,0,0,0,0,,,,,,1,0,1
+698983,2013/14,Pakistan,11,Qanita Jalil,2ea9b32c,S Luus,6d76bc23,Nain Abidi,5486d41f,0,0,0,0,0,,,,,,4,0,4
+698983,2013/14,Pakistan,11,Qanita Jalil,2ea9b32c,S Luus,6d76bc23,Nain Abidi,5486d41f,0,0,0,0,0,,,,,,1,0,1
+698983,2013/14,Pakistan,11,Nain Abidi,5486d41f,S Luus,6d76bc23,Qanita Jalil,2ea9b32c,0,0,0,0,0,,,,,,2,0,2
+698983,2013/14,Pakistan,12,Qanita Jalil,2ea9b32c,CL Tryon,4d4605e6,Nain Abidi,5486d41f,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,Pakistan,12,Qanita Jalil,2ea9b32c,CL Tryon,4d4605e6,Nain Abidi,5486d41f,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,Pakistan,12,Qanita Jalil,2ea9b32c,CL Tryon,4d4605e6,Nain Abidi,5486d41f,0,0,0,0,1,Qanita Jalil,2ea9b32c,M du Preez,e219f17a,caught,0,0,0
+698983,2013/14,Pakistan,12,Bismah Maroof,3b770527,CL Tryon,4d4605e6,Nain Abidi,5486d41f,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,Pakistan,12,Bismah Maroof,3b770527,CL Tryon,4d4605e6,Nain Abidi,5486d41f,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,Pakistan,12,Bismah Maroof,3b770527,CL Tryon,4d4605e6,Nain Abidi,5486d41f,0,0,0,0,0,,,,,,4,0,4
+698983,2013/14,Pakistan,13,Nain Abidi,5486d41f,M Kapp,63e3b6b3,Bismah Maroof,3b770527,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,Pakistan,13,Nain Abidi,5486d41f,M Kapp,63e3b6b3,Bismah Maroof,3b770527,0,0,0,0,1,Nain Abidi,5486d41f,MM Letsoalo,7544bf30,caught,0,0,0
+698983,2013/14,Pakistan,13,Sana Mir,b287e7b1,M Kapp,63e3b6b3,Bismah Maroof,3b770527,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,Pakistan,13,Sana Mir,b287e7b1,M Kapp,63e3b6b3,Bismah Maroof,3b770527,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,Pakistan,13,Sana Mir,b287e7b1,M Kapp,63e3b6b3,Bismah Maroof,3b770527,0,0,0,0,0,,,,,,0,0,0
+698983,2013/14,Pakistan,13,Sana Mir,b287e7b1,M Kapp,63e3b6b3,Bismah Maroof,3b770527,0,0,0,0,0,,,,,,1,0,1

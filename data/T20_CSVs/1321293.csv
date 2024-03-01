@@ -1,0 +1,160 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1321293,2022,Norway,0,Raza Iqbal,eee46f77,Ashwin Vinod,8a99caa9,Aminullah Tanha,4fde9ae6,0,0,0,0,0,,,,,,0,0,0
+1321293,2022,Norway,0,Raza Iqbal,eee46f77,Ashwin Vinod,8a99caa9,Aminullah Tanha,4fde9ae6,0,0,0,0,0,,,,,,0,0,0
+1321293,2022,Norway,0,Raza Iqbal,eee46f77,Ashwin Vinod,8a99caa9,Aminullah Tanha,4fde9ae6,2,0,0,0,0,,,,,,0,2,2
+1321293,2022,Norway,0,Aminullah Tanha,4fde9ae6,Ashwin Vinod,8a99caa9,Raza Iqbal,eee46f77,0,0,0,0,0,,,,,,0,0,0
+1321293,2022,Norway,0,Aminullah Tanha,4fde9ae6,Ashwin Vinod,8a99caa9,Raza Iqbal,eee46f77,0,0,0,0,0,,,,,,4,0,4
+1321293,2022,Norway,0,Aminullah Tanha,4fde9ae6,Ashwin Vinod,8a99caa9,Raza Iqbal,eee46f77,0,0,0,0,1,Aminullah Tanha,4fde9ae6,,,bowled,0,0,0
+1321293,2022,Norway,0,Sher Sahak,8299b9a2,Ashwin Vinod,8a99caa9,Raza Iqbal,eee46f77,0,0,0,0,0,,,,,,4,0,4
+1321293,2022,Norway,1,Raza Iqbal,eee46f77,K Fletcher,443d1fd8,Sher Sahak,8299b9a2,1,0,0,0,0,,,,,,0,1,1
+1321293,2022,Norway,1,Raza Iqbal,eee46f77,K Fletcher,443d1fd8,Sher Sahak,8299b9a2,0,0,0,0,0,,,,,,1,0,1
+1321293,2022,Norway,1,Sher Sahak,8299b9a2,K Fletcher,443d1fd8,Raza Iqbal,eee46f77,0,0,0,0,0,,,,,,1,0,1
+1321293,2022,Norway,1,Raza Iqbal,eee46f77,K Fletcher,443d1fd8,Sher Sahak,8299b9a2,0,0,1,0,0,,,,,,0,1,1
+1321293,2022,Norway,1,Sher Sahak,8299b9a2,K Fletcher,443d1fd8,Raza Iqbal,eee46f77,0,0,0,0,0,,,,,,2,0,2
+1321293,2022,Norway,1,Sher Sahak,8299b9a2,K Fletcher,443d1fd8,Raza Iqbal,eee46f77,0,0,0,0,0,,,,,,0,0,0
+1321293,2022,Norway,1,Sher Sahak,8299b9a2,K Fletcher,443d1fd8,Raza Iqbal,eee46f77,0,0,0,0,0,,,,,,0,0,0
+1321293,2022,Norway,2,Raza Iqbal,eee46f77,Ashwin Vinod,8a99caa9,Sher Sahak,8299b9a2,0,0,0,0,0,,,,,,1,0,1
+1321293,2022,Norway,2,Sher Sahak,8299b9a2,Ashwin Vinod,8a99caa9,Raza Iqbal,eee46f77,0,0,2,0,0,,,,,,0,2,2
+1321293,2022,Norway,2,Sher Sahak,8299b9a2,Ashwin Vinod,8a99caa9,Raza Iqbal,eee46f77,0,0,0,0,0,,,,,,0,0,0
+1321293,2022,Norway,2,Sher Sahak,8299b9a2,Ashwin Vinod,8a99caa9,Raza Iqbal,eee46f77,0,0,0,0,0,,,,,,6,0,6
+1321293,2022,Norway,2,Sher Sahak,8299b9a2,Ashwin Vinod,8a99caa9,Raza Iqbal,eee46f77,0,0,0,0,0,,,,,,6,0,6
+1321293,2022,Norway,2,Sher Sahak,8299b9a2,Ashwin Vinod,8a99caa9,Raza Iqbal,eee46f77,0,0,0,0,0,,,,,,1,0,1
+1321293,2022,Norway,3,Sher Sahak,8299b9a2,K Fletcher,443d1fd8,Raza Iqbal,eee46f77,0,0,0,0,1,Sher Sahak,8299b9a2,Azeem Nazir,9f3f532a,caught,0,0,0
+1321293,2022,Norway,3,RHO Saunders,60bb8160,K Fletcher,443d1fd8,Raza Iqbal,eee46f77,0,0,0,0,0,,,,,,0,0,0
+1321293,2022,Norway,3,RHO Saunders,60bb8160,K Fletcher,443d1fd8,Raza Iqbal,eee46f77,0,0,0,0,0,,,,,,1,0,1
+1321293,2022,Norway,3,Raza Iqbal,eee46f77,K Fletcher,443d1fd8,RHO Saunders,60bb8160,1,0,0,0,0,,,,,,0,1,1
+1321293,2022,Norway,3,Raza Iqbal,eee46f77,K Fletcher,443d1fd8,RHO Saunders,60bb8160,0,0,0,0,0,,,,,,1,0,1
+1321293,2022,Norway,3,RHO Saunders,60bb8160,K Fletcher,443d1fd8,Raza Iqbal,eee46f77,0,0,0,0,0,,,,,,0,0,0
+1321293,2022,Norway,3,RHO Saunders,60bb8160,K Fletcher,443d1fd8,Raza Iqbal,eee46f77,0,0,0,0,0,,,,,,1,0,1
+1321293,2022,Norway,4,RHO Saunders,60bb8160,Ali Nayyer,4ec0443d,Raza Iqbal,eee46f77,0,0,0,0,0,,,,,,1,0,1
+1321293,2022,Norway,4,Raza Iqbal,eee46f77,Ali Nayyer,4ec0443d,RHO Saunders,60bb8160,0,0,0,0,0,,,,,,0,0,0
+1321293,2022,Norway,4,Raza Iqbal,eee46f77,Ali Nayyer,4ec0443d,RHO Saunders,60bb8160,0,0,0,0,1,Raza Iqbal,eee46f77,Sathya Narayanan,8ae49076,caught,0,0,0
+1321293,2022,Norway,4,Ansar Iqbal,9a08a863,Ali Nayyer,4ec0443d,RHO Saunders,60bb8160,0,0,0,0,0,,,,,,4,0,4
+1321293,2022,Norway,4,Ansar Iqbal,9a08a863,Ali Nayyer,4ec0443d,RHO Saunders,60bb8160,0,0,0,0,0,,,,,,1,0,1
+1321293,2022,Norway,4,RHO Saunders,60bb8160,Ali Nayyer,4ec0443d,Ansar Iqbal,9a08a863,0,0,0,0,0,,,,,,0,0,0
+1321293,2022,Norway,5,Ansar Iqbal,9a08a863,K Fletcher,443d1fd8,RHO Saunders,60bb8160,0,0,0,0,0,,,,,,0,0,0
+1321293,2022,Norway,5,Ansar Iqbal,9a08a863,K Fletcher,443d1fd8,RHO Saunders,60bb8160,0,0,0,0,0,,,,,,0,0,0
+1321293,2022,Norway,5,Ansar Iqbal,9a08a863,K Fletcher,443d1fd8,RHO Saunders,60bb8160,0,0,0,0,0,,,,,,1,0,1
+1321293,2022,Norway,5,RHO Saunders,60bb8160,K Fletcher,443d1fd8,Ansar Iqbal,9a08a863,0,0,0,0,0,,,,,,4,0,4
+1321293,2022,Norway,5,RHO Saunders,60bb8160,K Fletcher,443d1fd8,Ansar Iqbal,9a08a863,0,0,0,0,0,,,,,,1,0,1
+1321293,2022,Norway,5,Ansar Iqbal,9a08a863,K Fletcher,443d1fd8,RHO Saunders,60bb8160,0,0,0,0,0,,,,,,0,0,0
+1321293,2022,Norway,6,RHO Saunders,60bb8160,Ali Nayyer,4ec0443d,Ansar Iqbal,9a08a863,0,0,0,0,0,,,,,,0,0,0
+1321293,2022,Norway,6,RHO Saunders,60bb8160,Ali Nayyer,4ec0443d,Ansar Iqbal,9a08a863,0,0,0,0,0,,,,,,2,0,2
+1321293,2022,Norway,6,RHO Saunders,60bb8160,Ali Nayyer,4ec0443d,Ansar Iqbal,9a08a863,0,0,0,0,0,,,,,,0,0,0
+1321293,2022,Norway,6,RHO Saunders,60bb8160,Ali Nayyer,4ec0443d,Ansar Iqbal,9a08a863,0,0,0,0,0,,,,,,0,0,0
+1321293,2022,Norway,6,RHO Saunders,60bb8160,Ali Nayyer,4ec0443d,Ansar Iqbal,9a08a863,0,0,0,0,0,,,,,,0,0,0
+1321293,2022,Norway,6,RHO Saunders,60bb8160,Ali Nayyer,4ec0443d,Ansar Iqbal,9a08a863,0,0,1,0,0,,,,,,0,1,1
+1321293,2022,Norway,7,RHO Saunders,60bb8160,K Fletcher,443d1fd8,Ansar Iqbal,9a08a863,0,0,0,0,0,,,,,,4,0,4
+1321293,2022,Norway,7,RHO Saunders,60bb8160,K Fletcher,443d1fd8,Ansar Iqbal,9a08a863,0,0,0,0,0,,,,,,0,0,0
+1321293,2022,Norway,7,RHO Saunders,60bb8160,K Fletcher,443d1fd8,Ansar Iqbal,9a08a863,0,0,0,0,0,,,,,,0,0,0
+1321293,2022,Norway,7,RHO Saunders,60bb8160,K Fletcher,443d1fd8,Ansar Iqbal,9a08a863,0,0,0,0,0,,,,,,0,0,0
+1321293,2022,Norway,7,RHO Saunders,60bb8160,K Fletcher,443d1fd8,Ansar Iqbal,9a08a863,0,0,0,0,1,RHO Saunders,60bb8160,Ashwin Vinod,8a99caa9,caught,0,0,0
+1321293,2022,Norway,7,Ansar Iqbal,9a08a863,K Fletcher,443d1fd8,M Shahbaz Butt,5ef3c310,0,0,0,0,0,,,,,,0,0,0
+1321293,2022,Norway,8,M Shahbaz Butt,5ef3c310,Faheem Nazir,7e00711f,Ansar Iqbal,9a08a863,0,0,0,0,0,,,,,,1,0,1
+1321293,2022,Norway,8,Ansar Iqbal,9a08a863,Faheem Nazir,7e00711f,M Shahbaz Butt,5ef3c310,0,0,0,0,0,,,,,,6,0,6
+1321293,2022,Norway,8,Ansar Iqbal,9a08a863,Faheem Nazir,7e00711f,M Shahbaz Butt,5ef3c310,0,0,0,0,0,,,,,,0,0,0
+1321293,2022,Norway,8,Ansar Iqbal,9a08a863,Faheem Nazir,7e00711f,M Shahbaz Butt,5ef3c310,0,0,0,0,0,,,,,,0,0,0
+1321293,2022,Norway,8,Ansar Iqbal,9a08a863,Faheem Nazir,7e00711f,M Shahbaz Butt,5ef3c310,0,0,0,0,0,,,,,,0,0,0
+1321293,2022,Norway,8,Ansar Iqbal,9a08a863,Faheem Nazir,7e00711f,M Shahbaz Butt,5ef3c310,0,0,0,0,0,,,,,,0,0,0
+1321293,2022,Norway,9,M Shahbaz Butt,5ef3c310,NK Aneesh Kumar,e23da78c,Ansar Iqbal,9a08a863,0,0,0,0,0,,,,,,1,0,1
+1321293,2022,Norway,9,Ansar Iqbal,9a08a863,NK Aneesh Kumar,e23da78c,M Shahbaz Butt,5ef3c310,0,0,0,0,0,,,,,,0,0,0
+1321293,2022,Norway,9,Ansar Iqbal,9a08a863,NK Aneesh Kumar,e23da78c,M Shahbaz Butt,5ef3c310,0,0,0,0,1,Ansar Iqbal,9a08a863,Jai Sinh,10ae134c,caught,0,0,0
+1321293,2022,Norway,9,M Shahbaz Butt,5ef3c310,NK Aneesh Kumar,e23da78c,Ali Saleem,661e8a03,0,0,0,0,0,,,,,,0,0,0
+1321293,2022,Norway,9,M Shahbaz Butt,5ef3c310,NK Aneesh Kumar,e23da78c,Ali Saleem,661e8a03,0,0,0,0,0,,,,,,1,0,1
+1321293,2022,Norway,9,Ali Saleem,661e8a03,NK Aneesh Kumar,e23da78c,M Shahbaz Butt,5ef3c310,0,0,0,0,0,,,,,,0,0,0
+1321293,2022,Norway,10,M Shahbaz Butt,5ef3c310,Faheem Nazir,7e00711f,Ali Saleem,661e8a03,0,0,0,0,0,,,,,,0,0,0
+1321293,2022,Norway,10,M Shahbaz Butt,5ef3c310,Faheem Nazir,7e00711f,Ali Saleem,661e8a03,0,0,0,0,0,,,,,,2,0,2
+1321293,2022,Norway,10,M Shahbaz Butt,5ef3c310,Faheem Nazir,7e00711f,Ali Saleem,661e8a03,0,0,0,0,0,,,,,,1,0,1
+1321293,2022,Norway,10,Ali Saleem,661e8a03,Faheem Nazir,7e00711f,M Shahbaz Butt,5ef3c310,0,0,0,0,0,,,,,,2,0,2
+1321293,2022,Norway,10,Ali Saleem,661e8a03,Faheem Nazir,7e00711f,M Shahbaz Butt,5ef3c310,0,0,0,0,0,,,,,,0,0,0
+1321293,2022,Norway,10,Ali Saleem,661e8a03,Faheem Nazir,7e00711f,M Shahbaz Butt,5ef3c310,0,0,0,0,0,,,,,,0,0,0
+1321293,2022,Norway,11,M Shahbaz Butt,5ef3c310,NK Aneesh Kumar,e23da78c,Ali Saleem,661e8a03,0,0,0,0,0,,,,,,1,0,1
+1321293,2022,Norway,11,Ali Saleem,661e8a03,NK Aneesh Kumar,e23da78c,M Shahbaz Butt,5ef3c310,0,0,0,0,0,,,,,,0,0,0
+1321293,2022,Norway,11,Ali Saleem,661e8a03,NK Aneesh Kumar,e23da78c,M Shahbaz Butt,5ef3c310,0,0,0,0,0,,,,,,1,0,1
+1321293,2022,Norway,11,M Shahbaz Butt,5ef3c310,NK Aneesh Kumar,e23da78c,Ali Saleem,661e8a03,0,0,0,0,0,,,,,,0,0,0
+1321293,2022,Norway,11,M Shahbaz Butt,5ef3c310,NK Aneesh Kumar,e23da78c,Ali Saleem,661e8a03,0,0,0,0,1,M Shahbaz Butt,5ef3c310,,,lbw,0,0,0
+1321293,2022,Norway,11,Usman Arif,fccc2d5a,NK Aneesh Kumar,e23da78c,Ali Saleem,661e8a03,0,0,0,0,0,,,,,,0,0,0
+1321293,2022,Norway,12,Ali Saleem,661e8a03,Faheem Nazir,7e00711f,Usman Arif,fccc2d5a,0,0,0,0,0,,,,,,1,0,1
+1321293,2022,Norway,12,Usman Arif,fccc2d5a,Faheem Nazir,7e00711f,Ali Saleem,661e8a03,0,0,0,0,0,,,,,,1,0,1
+1321293,2022,Norway,12,Ali Saleem,661e8a03,Faheem Nazir,7e00711f,Usman Arif,fccc2d5a,0,0,0,0,0,,,,,,0,0,0
+1321293,2022,Norway,12,Ali Saleem,661e8a03,Faheem Nazir,7e00711f,Usman Arif,fccc2d5a,0,0,0,0,0,,,,,,0,0,0
+1321293,2022,Norway,12,Ali Saleem,661e8a03,Faheem Nazir,7e00711f,Usman Arif,fccc2d5a,1,0,0,0,0,,,,,,0,1,1
+1321293,2022,Norway,12,Ali Saleem,661e8a03,Faheem Nazir,7e00711f,Usman Arif,fccc2d5a,0,0,0,0,0,,,,,,1,0,1
+1321293,2022,Norway,12,Usman Arif,fccc2d5a,Faheem Nazir,7e00711f,Ali Saleem,661e8a03,0,0,0,0,0,,,,,,6,0,6
+1321293,2022,Norway,13,Ali Saleem,661e8a03,NK Aneesh Kumar,e23da78c,Usman Arif,fccc2d5a,0,0,0,0,0,,,,,,0,0,0
+1321293,2022,Norway,13,Ali Saleem,661e8a03,NK Aneesh Kumar,e23da78c,Usman Arif,fccc2d5a,0,0,0,0,0,,,,,,4,0,4
+1321293,2022,Norway,13,Ali Saleem,661e8a03,NK Aneesh Kumar,e23da78c,Usman Arif,fccc2d5a,0,0,0,0,0,,,,,,1,0,1
+1321293,2022,Norway,13,Usman Arif,fccc2d5a,NK Aneesh Kumar,e23da78c,Ali Saleem,661e8a03,0,0,0,0,0,,,,,,0,0,0
+1321293,2022,Norway,13,Usman Arif,fccc2d5a,NK Aneesh Kumar,e23da78c,Ali Saleem,661e8a03,0,0,0,0,0,,,,,,1,0,1
+1321293,2022,Norway,13,Ali Saleem,661e8a03,NK Aneesh Kumar,e23da78c,Usman Arif,fccc2d5a,0,0,0,0,0,,,,,,0,0,0
+1321293,2022,Norway,14,Usman Arif,fccc2d5a,Arjun Vinod,033e9d59,Ali Saleem,661e8a03,0,0,0,0,0,,,,,,0,0,0
+1321293,2022,Norway,14,Usman Arif,fccc2d5a,Arjun Vinod,033e9d59,Ali Saleem,661e8a03,0,0,0,0,0,,,,,,6,0,6
+1321293,2022,Norway,14,Usman Arif,fccc2d5a,Arjun Vinod,033e9d59,Ali Saleem,661e8a03,0,0,0,0,0,,,,,,6,0,6
+1321293,2022,Norway,14,Usman Arif,fccc2d5a,Arjun Vinod,033e9d59,Ali Saleem,661e8a03,0,0,0,0,0,,,,,,4,0,4
+1321293,2022,Norway,14,Usman Arif,fccc2d5a,Arjun Vinod,033e9d59,Ali Saleem,661e8a03,0,0,0,0,0,,,,,,6,0,6
+1321293,2022,Norway,14,Usman Arif,fccc2d5a,Arjun Vinod,033e9d59,Ali Saleem,661e8a03,0,0,0,0,0,,,,,,6,0,6
+1321293,2022,Norway,15,Ali Saleem,661e8a03,NK Aneesh Kumar,e23da78c,Usman Arif,fccc2d5a,0,0,0,0,0,,,,,,0,0,0
+1321293,2022,Norway,15,Ali Saleem,661e8a03,NK Aneesh Kumar,e23da78c,Usman Arif,fccc2d5a,0,0,0,0,0,,,,,,0,0,0
+1321293,2022,Norway,15,Ali Saleem,661e8a03,NK Aneesh Kumar,e23da78c,Usman Arif,fccc2d5a,0,0,0,0,0,,,,,,0,0,0
+1321293,2022,Norway,15,Ali Saleem,661e8a03,NK Aneesh Kumar,e23da78c,Usman Arif,fccc2d5a,0,0,0,0,0,,,,,,0,0,0
+1321293,2022,Norway,15,Ali Saleem,661e8a03,NK Aneesh Kumar,e23da78c,Usman Arif,fccc2d5a,0,0,0,0,0,,,,,,0,0,0
+1321293,2022,Norway,15,Ali Saleem,661e8a03,NK Aneesh Kumar,e23da78c,Usman Arif,fccc2d5a,0,0,0,0,0,,,,,,0,0,0
+1321293,2022,Norway,16,Usman Arif,fccc2d5a,Ali Nayyer,4ec0443d,Ali Saleem,661e8a03,0,0,0,0,0,,,,,,2,0,2
+1321293,2022,Norway,16,Usman Arif,fccc2d5a,Ali Nayyer,4ec0443d,Ali Saleem,661e8a03,1,0,0,0,0,,,,,,0,1,1
+1321293,2022,Norway,16,Usman Arif,fccc2d5a,Ali Nayyer,4ec0443d,Ali Saleem,661e8a03,0,0,0,0,0,,,,,,6,0,6
+1321293,2022,Norway,16,Usman Arif,fccc2d5a,Ali Nayyer,4ec0443d,Ali Saleem,661e8a03,0,0,0,0,1,Usman Arif,fccc2d5a,Ashwin Vinod,8a99caa9,caught,0,0,0
+1321293,2022,Norway,16,Ali Saleem,661e8a03,Ali Nayyer,4ec0443d,Qamar Mushtaque,fc362c5d,1,0,0,0,0,,,,,,0,1,1
+1321293,2022,Norway,16,Ali Saleem,661e8a03,Ali Nayyer,4ec0443d,Qamar Mushtaque,fc362c5d,0,0,0,0,0,,,,,,2,0,2
+1321293,2022,Norway,16,Ali Saleem,661e8a03,Ali Nayyer,4ec0443d,Qamar Mushtaque,fc362c5d,1,0,0,0,0,,,,,,0,1,1
+1321293,2022,Norway,16,Ali Saleem,661e8a03,Ali Nayyer,4ec0443d,Qamar Mushtaque,fc362c5d,0,0,0,0,0,,,,,,1,0,1
+1321293,2022,Norway,16,Qamar Mushtaque,fc362c5d,Ali Nayyer,4ec0443d,Ali Saleem,661e8a03,0,0,0,0,0,,,,,,2,0,2
+1321293,2022,Norway,17,Ali Saleem,661e8a03,Ashwin Vinod,8a99caa9,Qamar Mushtaque,fc362c5d,0,0,0,0,0,,,,,,0,0,0
+1321293,2022,Norway,17,Ali Saleem,661e8a03,Ashwin Vinod,8a99caa9,Qamar Mushtaque,fc362c5d,0,0,0,0,0,,,,,,6,0,6
+1321293,2022,Norway,17,Ali Saleem,661e8a03,Ashwin Vinod,8a99caa9,Qamar Mushtaque,fc362c5d,0,0,0,0,0,,,,,,2,0,2
+1321293,2022,Norway,17,Ali Saleem,661e8a03,Ashwin Vinod,8a99caa9,Qamar Mushtaque,fc362c5d,0,0,0,0,0,,,,,,4,0,4
+1321293,2022,Norway,17,Ali Saleem,661e8a03,Ashwin Vinod,8a99caa9,Qamar Mushtaque,fc362c5d,0,0,0,0,0,,,,,,1,0,1
+1321293,2022,Norway,17,Qamar Mushtaque,fc362c5d,Ashwin Vinod,8a99caa9,Ali Saleem,661e8a03,0,0,0,0,0,,,,,,0,0,0
+1321293,2022,Norway,18,Ali Saleem,661e8a03,Faheem Nazir,7e00711f,Qamar Mushtaque,fc362c5d,0,0,0,0,0,,,,,,6,0,6
+1321293,2022,Norway,18,Ali Saleem,661e8a03,Faheem Nazir,7e00711f,Qamar Mushtaque,fc362c5d,0,0,0,0,0,,,,,,6,0,6
+1321293,2022,Norway,18,Ali Saleem,661e8a03,Faheem Nazir,7e00711f,Qamar Mushtaque,fc362c5d,0,0,0,0,0,,,,,,0,0,0
+1321293,2022,Norway,18,Ali Saleem,661e8a03,Faheem Nazir,7e00711f,Qamar Mushtaque,fc362c5d,0,0,0,0,0,,,,,,0,0,0
+1321293,2022,Norway,18,Ali Saleem,661e8a03,Faheem Nazir,7e00711f,Qamar Mushtaque,fc362c5d,0,0,0,0,0,,,,,,1,0,1
+1321293,2022,Norway,18,Qamar Mushtaque,fc362c5d,Faheem Nazir,7e00711f,Ali Saleem,661e8a03,0,0,0,0,0,,,,,,1,0,1
+1321293,2022,Norway,19,Qamar Mushtaque,fc362c5d,Ali Nayyer,4ec0443d,Ali Saleem,661e8a03,0,0,0,0,0,,,,,,1,0,1
+1321293,2022,Norway,19,Ali Saleem,661e8a03,Ali Nayyer,4ec0443d,Qamar Mushtaque,fc362c5d,0,0,0,0,0,,,,,,2,0,2
+1321293,2022,Norway,19,Ali Saleem,661e8a03,Ali Nayyer,4ec0443d,Qamar Mushtaque,fc362c5d,0,0,0,0,0,,,,,,2,0,2
+1321293,2022,Norway,19,Ali Saleem,661e8a03,Ali Nayyer,4ec0443d,Qamar Mushtaque,fc362c5d,0,0,0,0,0,,,,,,6,0,6
+1321293,2022,Norway,19,Ali Saleem,661e8a03,Ali Nayyer,4ec0443d,Qamar Mushtaque,fc362c5d,0,0,0,0,0,,,,,,4,0,4
+1321293,2022,Norway,19,Ali Saleem,661e8a03,Ali Nayyer,4ec0443d,Qamar Mushtaque,fc362c5d,0,0,1,0,0,,,,,,0,1,1
+1321293,2022,Switzerland,0,Faheem Nazir,7e00711f,Ahmadullah Shinwari,e068d48e,Sathya Narayanan,8ae49076,0,0,0,0,0,,,,,,0,0,0
+1321293,2022,Switzerland,0,Faheem Nazir,7e00711f,Ahmadullah Shinwari,e068d48e,Sathya Narayanan,8ae49076,1,0,0,0,0,,,,,,0,1,1
+1321293,2022,Switzerland,0,Faheem Nazir,7e00711f,Ahmadullah Shinwari,e068d48e,Sathya Narayanan,8ae49076,0,0,0,0,0,,,,,,0,0,0
+1321293,2022,Switzerland,0,Faheem Nazir,7e00711f,Ahmadullah Shinwari,e068d48e,Sathya Narayanan,8ae49076,0,0,0,0,0,,,,,,0,0,0
+1321293,2022,Switzerland,0,Faheem Nazir,7e00711f,Ahmadullah Shinwari,e068d48e,Sathya Narayanan,8ae49076,0,0,0,0,0,,,,,,4,0,4
+1321293,2022,Switzerland,0,Faheem Nazir,7e00711f,Ahmadullah Shinwari,e068d48e,Sathya Narayanan,8ae49076,0,0,0,0,0,,,,,,0,0,0
+1321293,2022,Switzerland,0,Faheem Nazir,7e00711f,Ahmadullah Shinwari,e068d48e,Sathya Narayanan,8ae49076,0,0,0,0,0,,,,,,6,0,6
+1321293,2022,Switzerland,1,Sathya Narayanan,8ae49076,Vinay Ravi,9c181b99,Faheem Nazir,7e00711f,0,0,0,0,0,,,,,,0,0,0
+1321293,2022,Switzerland,1,Sathya Narayanan,8ae49076,Vinay Ravi,9c181b99,Faheem Nazir,7e00711f,0,0,0,0,0,,,,,,1,0,1
+1321293,2022,Switzerland,1,Faheem Nazir,7e00711f,Vinay Ravi,9c181b99,Sathya Narayanan,8ae49076,0,0,0,0,0,,,,,,1,0,1
+1321293,2022,Switzerland,1,Sathya Narayanan,8ae49076,Vinay Ravi,9c181b99,Faheem Nazir,7e00711f,0,0,0,0,0,,,,,,1,0,1
+1321293,2022,Switzerland,1,Faheem Nazir,7e00711f,Vinay Ravi,9c181b99,Sathya Narayanan,8ae49076,0,0,0,0,0,,,,,,1,0,1
+1321293,2022,Switzerland,1,Sathya Narayanan,8ae49076,Vinay Ravi,9c181b99,Faheem Nazir,7e00711f,0,0,1,0,0,,,,,,0,1,1
+1321293,2022,Switzerland,2,Sathya Narayanan,8ae49076,Ahmadullah Shinwari,e068d48e,Faheem Nazir,7e00711f,0,0,0,0,0,,,,,,0,0,0
+1321293,2022,Switzerland,2,Sathya Narayanan,8ae49076,Ahmadullah Shinwari,e068d48e,Faheem Nazir,7e00711f,0,0,0,0,0,,,,,,1,0,1
+1321293,2022,Switzerland,2,Faheem Nazir,7e00711f,Ahmadullah Shinwari,e068d48e,Sathya Narayanan,8ae49076,0,0,0,0,1,Faheem Nazir,7e00711f,Sher Sahak,8299b9a2,caught,0,0,0
+1321293,2022,Switzerland,2,Arjun Vinod,033e9d59,Ahmadullah Shinwari,e068d48e,Sathya Narayanan,8ae49076,0,0,0,0,0,,,,,,1,0,1
+1321293,2022,Switzerland,2,Sathya Narayanan,8ae49076,Ahmadullah Shinwari,e068d48e,Arjun Vinod,033e9d59,0,0,0,0,0,,,,,,0,0,0
+1321293,2022,Switzerland,2,Sathya Narayanan,8ae49076,Ahmadullah Shinwari,e068d48e,Arjun Vinod,033e9d59,0,0,0,0,0,,,,,,0,0,0
+1321293,2022,Switzerland,3,Arjun Vinod,033e9d59,Vinay Ravi,9c181b99,Sathya Narayanan,8ae49076,0,0,0,0,0,,,,,,0,0,0
+1321293,2022,Switzerland,3,Arjun Vinod,033e9d59,Vinay Ravi,9c181b99,Sathya Narayanan,8ae49076,0,0,0,0,0,,,,,,0,0,0
+1321293,2022,Switzerland,3,Arjun Vinod,033e9d59,Vinay Ravi,9c181b99,Sathya Narayanan,8ae49076,1,0,0,0,0,,,,,,0,1,1
+1321293,2022,Switzerland,3,Arjun Vinod,033e9d59,Vinay Ravi,9c181b99,Sathya Narayanan,8ae49076,0,0,0,0,0,,,,,,0,0,0
+1321293,2022,Switzerland,3,Arjun Vinod,033e9d59,Vinay Ravi,9c181b99,Sathya Narayanan,8ae49076,0,0,0,0,0,,,,,,0,0,0
+1321293,2022,Switzerland,3,Arjun Vinod,033e9d59,Vinay Ravi,9c181b99,Sathya Narayanan,8ae49076,0,0,0,0,0,,,,,,4,0,4
+1321293,2022,Switzerland,3,Arjun Vinod,033e9d59,Vinay Ravi,9c181b99,Sathya Narayanan,8ae49076,0,0,0,0,0,,,,,,0,0,0
+1321293,2022,Switzerland,4,Sathya Narayanan,8ae49076,Ahmadullah Shinwari,e068d48e,Arjun Vinod,033e9d59,0,0,0,0,0,,,,,,0,0,0
+1321293,2022,Switzerland,4,Sathya Narayanan,8ae49076,Ahmadullah Shinwari,e068d48e,Arjun Vinod,033e9d59,0,0,0,0,0,,,,,,1,0,1
+1321293,2022,Switzerland,4,Arjun Vinod,033e9d59,Ahmadullah Shinwari,e068d48e,Sathya Narayanan,8ae49076,0,0,0,0,0,,,,,,0,0,0
+1321293,2022,Switzerland,4,Arjun Vinod,033e9d59,Ahmadullah Shinwari,e068d48e,Sathya Narayanan,8ae49076,0,0,0,0,0,,,,,,0,0,0
+1321293,2022,Switzerland,4,Arjun Vinod,033e9d59,Ahmadullah Shinwari,e068d48e,Sathya Narayanan,8ae49076,0,0,0,0,0,,,,,,0,0,0
+1321293,2022,Switzerland,4,Arjun Vinod,033e9d59,Ahmadullah Shinwari,e068d48e,Sathya Narayanan,8ae49076,0,0,0,0,0,,,,,,1,0,1

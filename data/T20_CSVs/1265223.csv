@@ -1,0 +1,253 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1265223,2021,Namibia,0,A van der Merwe,02610bad,B Etim,11d0079f,SA Wittmann,531aef3b,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Namibia,0,A van der Merwe,02610bad,B Etim,11d0079f,SA Wittmann,531aef3b,0,0,0,0,0,,,,,,2,0,2
+1265223,2021,Namibia,0,A van der Merwe,02610bad,B Etim,11d0079f,SA Wittmann,531aef3b,0,0,0,0,0,,,,,,1,0,1
+1265223,2021,Namibia,0,SA Wittmann,531aef3b,B Etim,11d0079f,A van der Merwe,02610bad,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Namibia,0,SA Wittmann,531aef3b,B Etim,11d0079f,A van der Merwe,02610bad,0,0,0,0,0,,,,,,1,0,1
+1265223,2021,Namibia,0,A van der Merwe,02610bad,B Etim,11d0079f,SA Wittmann,531aef3b,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Namibia,1,SA Wittmann,531aef3b,J Efosa,8a0ba257,A van der Merwe,02610bad,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Namibia,1,SA Wittmann,531aef3b,J Efosa,8a0ba257,A van der Merwe,02610bad,0,0,0,0,0,,,,,,2,0,2
+1265223,2021,Namibia,1,SA Wittmann,531aef3b,J Efosa,8a0ba257,A van der Merwe,02610bad,0,0,0,0,0,,,,,,1,0,1
+1265223,2021,Namibia,1,A van der Merwe,02610bad,J Efosa,8a0ba257,SA Wittmann,531aef3b,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Namibia,1,A van der Merwe,02610bad,J Efosa,8a0ba257,SA Wittmann,531aef3b,0,0,0,0,0,,,,,,2,0,2
+1265223,2021,Namibia,1,A van der Merwe,02610bad,J Efosa,8a0ba257,SA Wittmann,531aef3b,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Namibia,2,SA Wittmann,531aef3b,B Etim,11d0079f,A van der Merwe,02610bad,0,0,0,0,0,,,,,,1,0,1
+1265223,2021,Namibia,2,A van der Merwe,02610bad,B Etim,11d0079f,SA Wittmann,531aef3b,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Namibia,2,A van der Merwe,02610bad,B Etim,11d0079f,SA Wittmann,531aef3b,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Namibia,2,A van der Merwe,02610bad,B Etim,11d0079f,SA Wittmann,531aef3b,0,0,0,0,0,,,,,,1,0,1
+1265223,2021,Namibia,2,SA Wittmann,531aef3b,B Etim,11d0079f,A van der Merwe,02610bad,0,0,0,0,0,,,,,,1,0,1
+1265223,2021,Namibia,2,A van der Merwe,02610bad,B Etim,11d0079f,SA Wittmann,531aef3b,0,0,0,0,0,,,,,,1,0,1
+1265223,2021,Namibia,3,A van der Merwe,02610bad,J Efosa,8a0ba257,SA Wittmann,531aef3b,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Namibia,3,A van der Merwe,02610bad,J Efosa,8a0ba257,SA Wittmann,531aef3b,0,0,0,0,0,,,,,,1,0,1
+1265223,2021,Namibia,3,SA Wittmann,531aef3b,J Efosa,8a0ba257,A van der Merwe,02610bad,0,0,0,0,1,SA Wittmann,531aef3b,,,bowled,0,0,0
+1265223,2021,Namibia,3,Yasmeen Khan,ade5c0c0,J Efosa,8a0ba257,A van der Merwe,02610bad,0,0,0,0,0,,,,,,4,0,4
+1265223,2021,Namibia,3,Yasmeen Khan,ade5c0c0,J Efosa,8a0ba257,A van der Merwe,02610bad,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Namibia,3,Yasmeen Khan,ade5c0c0,J Efosa,8a0ba257,A van der Merwe,02610bad,0,0,0,0,0,,,,,,1,0,1
+1265223,2021,Namibia,4,Yasmeen Khan,ade5c0c0,B Etim,11d0079f,A van der Merwe,02610bad,0,0,0,0,0,,,,,,4,0,4
+1265223,2021,Namibia,4,Yasmeen Khan,ade5c0c0,B Etim,11d0079f,A van der Merwe,02610bad,0,0,0,0,0,,,,,,2,0,2
+1265223,2021,Namibia,4,Yasmeen Khan,ade5c0c0,B Etim,11d0079f,A van der Merwe,02610bad,0,0,0,0,0,,,,,,1,0,1
+1265223,2021,Namibia,4,A van der Merwe,02610bad,B Etim,11d0079f,Yasmeen Khan,ade5c0c0,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Namibia,4,A van der Merwe,02610bad,B Etim,11d0079f,Yasmeen Khan,ade5c0c0,0,0,0,0,0,,,,,,1,0,1
+1265223,2021,Namibia,4,Yasmeen Khan,ade5c0c0,B Etim,11d0079f,A van der Merwe,02610bad,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Namibia,5,A van der Merwe,02610bad,J Efosa,8a0ba257,Yasmeen Khan,ade5c0c0,0,0,0,0,0,,,,,,1,0,1
+1265223,2021,Namibia,5,Yasmeen Khan,ade5c0c0,J Efosa,8a0ba257,A van der Merwe,02610bad,0,0,0,0,0,,,,,,1,0,1
+1265223,2021,Namibia,5,A van der Merwe,02610bad,J Efosa,8a0ba257,Yasmeen Khan,ade5c0c0,0,0,0,0,0,,,,,,2,0,2
+1265223,2021,Namibia,5,A van der Merwe,02610bad,J Efosa,8a0ba257,Yasmeen Khan,ade5c0c0,0,0,0,0,0,,,,,,1,0,1
+1265223,2021,Namibia,5,Yasmeen Khan,ade5c0c0,J Efosa,8a0ba257,A van der Merwe,02610bad,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Namibia,5,Yasmeen Khan,ade5c0c0,J Efosa,8a0ba257,A van der Merwe,02610bad,0,0,0,0,0,,,,,,1,0,1
+1265223,2021,Namibia,6,Yasmeen Khan,ade5c0c0,R Samson,e63c08e9,A van der Merwe,02610bad,0,0,0,0,0,,,,,,2,0,2
+1265223,2021,Namibia,6,Yasmeen Khan,ade5c0c0,R Samson,e63c08e9,A van der Merwe,02610bad,0,0,0,0,0,,,,,,1,0,1
+1265223,2021,Namibia,6,A van der Merwe,02610bad,R Samson,e63c08e9,Yasmeen Khan,ade5c0c0,0,0,0,0,0,,,,,,2,0,2
+1265223,2021,Namibia,6,A van der Merwe,02610bad,R Samson,e63c08e9,Yasmeen Khan,ade5c0c0,0,0,0,0,0,,,,,,1,0,1
+1265223,2021,Namibia,6,Yasmeen Khan,ade5c0c0,R Samson,e63c08e9,A van der Merwe,02610bad,0,0,0,0,0,,,,,,2,0,2
+1265223,2021,Namibia,6,Yasmeen Khan,ade5c0c0,R Samson,e63c08e9,A van der Merwe,02610bad,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Namibia,7,A van der Merwe,02610bad,M Desmond,7ec52f4a,Yasmeen Khan,ade5c0c0,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Namibia,7,A van der Merwe,02610bad,M Desmond,7ec52f4a,Yasmeen Khan,ade5c0c0,0,0,0,0,0,,,,,,1,0,1
+1265223,2021,Namibia,7,Yasmeen Khan,ade5c0c0,M Desmond,7ec52f4a,A van der Merwe,02610bad,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Namibia,7,Yasmeen Khan,ade5c0c0,M Desmond,7ec52f4a,A van der Merwe,02610bad,0,0,0,0,0,,,,,,3,0,3
+1265223,2021,Namibia,7,A van der Merwe,02610bad,M Desmond,7ec52f4a,Yasmeen Khan,ade5c0c0,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Namibia,7,A van der Merwe,02610bad,M Desmond,7ec52f4a,Yasmeen Khan,ade5c0c0,0,0,0,0,0,,,,,,1,0,1
+1265223,2021,Namibia,8,A van der Merwe,02610bad,R Samson,e63c08e9,Yasmeen Khan,ade5c0c0,0,0,0,0,0,,,,,,1,0,1
+1265223,2021,Namibia,8,Yasmeen Khan,ade5c0c0,R Samson,e63c08e9,A van der Merwe,02610bad,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Namibia,8,Yasmeen Khan,ade5c0c0,R Samson,e63c08e9,A van der Merwe,02610bad,0,0,0,0,0,,,,,,4,0,4
+1265223,2021,Namibia,8,Yasmeen Khan,ade5c0c0,R Samson,e63c08e9,A van der Merwe,02610bad,0,0,0,0,0,,,,,,1,0,1
+1265223,2021,Namibia,8,A van der Merwe,02610bad,R Samson,e63c08e9,Yasmeen Khan,ade5c0c0,0,0,0,0,0,,,,,,1,0,1
+1265223,2021,Namibia,8,Yasmeen Khan,ade5c0c0,R Samson,e63c08e9,A van der Merwe,02610bad,0,0,0,0,0,,,,,,1,0,1
+1265223,2021,Namibia,9,Yasmeen Khan,ade5c0c0,M Desmond,7ec52f4a,A van der Merwe,02610bad,0,0,0,0,0,,,,,,1,0,1
+1265223,2021,Namibia,9,A van der Merwe,02610bad,M Desmond,7ec52f4a,Yasmeen Khan,ade5c0c0,0,0,0,0,0,,,,,,1,0,1
+1265223,2021,Namibia,9,Yasmeen Khan,ade5c0c0,M Desmond,7ec52f4a,A van der Merwe,02610bad,0,0,0,0,0,,,,,,2,0,2
+1265223,2021,Namibia,9,Yasmeen Khan,ade5c0c0,M Desmond,7ec52f4a,A van der Merwe,02610bad,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Namibia,9,Yasmeen Khan,ade5c0c0,M Desmond,7ec52f4a,A van der Merwe,02610bad,1,0,0,0,0,,,,,,0,1,1
+1265223,2021,Namibia,9,Yasmeen Khan,ade5c0c0,M Desmond,7ec52f4a,A van der Merwe,02610bad,0,0,0,0,0,,,,,,1,0,1
+1265223,2021,Namibia,9,A van der Merwe,02610bad,M Desmond,7ec52f4a,Yasmeen Khan,ade5c0c0,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Namibia,10,Yasmeen Khan,ade5c0c0,R Samson,e63c08e9,A van der Merwe,02610bad,0,0,0,0,0,,,,,,2,0,2
+1265223,2021,Namibia,10,Yasmeen Khan,ade5c0c0,R Samson,e63c08e9,A van der Merwe,02610bad,0,0,0,0,0,,,,,,2,0,2
+1265223,2021,Namibia,10,Yasmeen Khan,ade5c0c0,R Samson,e63c08e9,A van der Merwe,02610bad,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Namibia,10,Yasmeen Khan,ade5c0c0,R Samson,e63c08e9,A van der Merwe,02610bad,0,0,0,0,0,,,,,,1,0,1
+1265223,2021,Namibia,10,A van der Merwe,02610bad,R Samson,e63c08e9,Yasmeen Khan,ade5c0c0,0,0,0,0,0,,,,,,2,0,2
+1265223,2021,Namibia,10,A van der Merwe,02610bad,R Samson,e63c08e9,Yasmeen Khan,ade5c0c0,0,0,0,0,0,,,,,,3,0,3
+1265223,2021,Namibia,11,A van der Merwe,02610bad,M Desmond,7ec52f4a,Yasmeen Khan,ade5c0c0,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Namibia,11,A van der Merwe,02610bad,M Desmond,7ec52f4a,Yasmeen Khan,ade5c0c0,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Namibia,11,A van der Merwe,02610bad,M Desmond,7ec52f4a,Yasmeen Khan,ade5c0c0,0,0,0,0,0,,,,,,2,0,2
+1265223,2021,Namibia,11,A van der Merwe,02610bad,M Desmond,7ec52f4a,Yasmeen Khan,ade5c0c0,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Namibia,11,A van der Merwe,02610bad,M Desmond,7ec52f4a,Yasmeen Khan,ade5c0c0,1,0,0,0,0,,,,,,0,1,1
+1265223,2021,Namibia,11,A van der Merwe,02610bad,M Desmond,7ec52f4a,Yasmeen Khan,ade5c0c0,0,0,0,0,1,A van der Merwe,02610bad,,,bowled,0,0,0
+1265223,2021,Namibia,11,KA Green,fa9fdefa,M Desmond,7ec52f4a,Yasmeen Khan,ade5c0c0,1,0,0,0,0,,,,,,0,1,1
+1265223,2021,Namibia,11,KA Green,fa9fdefa,M Desmond,7ec52f4a,Yasmeen Khan,ade5c0c0,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Namibia,12,Yasmeen Khan,ade5c0c0,F Eseigbe,292d11ee,KA Green,fa9fdefa,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Namibia,12,Yasmeen Khan,ade5c0c0,F Eseigbe,292d11ee,KA Green,fa9fdefa,0,0,0,0,0,,,,,,1,0,1
+1265223,2021,Namibia,12,KA Green,fa9fdefa,F Eseigbe,292d11ee,Yasmeen Khan,ade5c0c0,0,0,0,0,0,,,,,,1,0,1
+1265223,2021,Namibia,12,Yasmeen Khan,ade5c0c0,F Eseigbe,292d11ee,KA Green,fa9fdefa,0,0,0,0,0,,,,,,1,0,1
+1265223,2021,Namibia,12,KA Green,fa9fdefa,F Eseigbe,292d11ee,Yasmeen Khan,ade5c0c0,0,0,0,0,0,,,,,,1,0,1
+1265223,2021,Namibia,12,Yasmeen Khan,ade5c0c0,F Eseigbe,292d11ee,KA Green,fa9fdefa,0,0,0,0,0,,,,,,4,0,4
+1265223,2021,Namibia,13,KA Green,fa9fdefa,J Efosa,8a0ba257,Yasmeen Khan,ade5c0c0,5,0,0,0,0,,,,,,0,5,5
+1265223,2021,Namibia,13,KA Green,fa9fdefa,J Efosa,8a0ba257,Yasmeen Khan,ade5c0c0,0,0,0,0,0,,,,,,1,0,1
+1265223,2021,Namibia,13,Yasmeen Khan,ade5c0c0,J Efosa,8a0ba257,KA Green,fa9fdefa,0,0,0,0,0,,,,,,1,0,1
+1265223,2021,Namibia,13,KA Green,fa9fdefa,J Efosa,8a0ba257,Yasmeen Khan,ade5c0c0,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Namibia,13,KA Green,fa9fdefa,J Efosa,8a0ba257,Yasmeen Khan,ade5c0c0,0,1,0,0,0,,,,,,2,1,3
+1265223,2021,Namibia,13,KA Green,fa9fdefa,J Efosa,8a0ba257,Yasmeen Khan,ade5c0c0,0,0,0,0,0,,,,,,1,0,1
+1265223,2021,Namibia,13,Yasmeen Khan,ade5c0c0,J Efosa,8a0ba257,KA Green,fa9fdefa,0,0,0,0,0,,,,,,1,0,1
+1265223,2021,Namibia,13,KA Green,fa9fdefa,J Efosa,8a0ba257,Yasmeen Khan,ade5c0c0,0,0,0,0,0,,,,,,1,0,1
+1265223,2021,Namibia,14,KA Green,fa9fdefa,F Eseigbe,292d11ee,Yasmeen Khan,ade5c0c0,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Namibia,14,KA Green,fa9fdefa,F Eseigbe,292d11ee,Yasmeen Khan,ade5c0c0,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Namibia,14,KA Green,fa9fdefa,F Eseigbe,292d11ee,Yasmeen Khan,ade5c0c0,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Namibia,14,KA Green,fa9fdefa,F Eseigbe,292d11ee,Yasmeen Khan,ade5c0c0,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Namibia,14,KA Green,fa9fdefa,F Eseigbe,292d11ee,Yasmeen Khan,ade5c0c0,0,0,0,0,0,,,,,,1,0,1
+1265223,2021,Namibia,14,Yasmeen Khan,ade5c0c0,F Eseigbe,292d11ee,KA Green,fa9fdefa,0,0,0,0,0,,,,,,1,0,1
+1265223,2021,Namibia,15,Yasmeen Khan,ade5c0c0,M Desmond,7ec52f4a,KA Green,fa9fdefa,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Namibia,15,Yasmeen Khan,ade5c0c0,M Desmond,7ec52f4a,KA Green,fa9fdefa,0,0,0,0,0,,,,,,2,0,2
+1265223,2021,Namibia,15,Yasmeen Khan,ade5c0c0,M Desmond,7ec52f4a,KA Green,fa9fdefa,1,0,0,0,0,,,,,,0,1,1
+1265223,2021,Namibia,15,Yasmeen Khan,ade5c0c0,M Desmond,7ec52f4a,KA Green,fa9fdefa,0,0,0,0,0,,,,,,1,0,1
+1265223,2021,Namibia,15,KA Green,fa9fdefa,M Desmond,7ec52f4a,Yasmeen Khan,ade5c0c0,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Namibia,15,KA Green,fa9fdefa,M Desmond,7ec52f4a,Yasmeen Khan,ade5c0c0,0,0,0,0,0,,,,,,1,0,1
+1265223,2021,Namibia,15,Yasmeen Khan,ade5c0c0,M Desmond,7ec52f4a,KA Green,fa9fdefa,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Namibia,16,KA Green,fa9fdefa,F Eseigbe,292d11ee,Yasmeen Khan,ade5c0c0,0,0,0,0,0,,,,,,4,0,4
+1265223,2021,Namibia,16,KA Green,fa9fdefa,F Eseigbe,292d11ee,Yasmeen Khan,ade5c0c0,0,0,0,0,0,,,,,,1,0,1
+1265223,2021,Namibia,16,Yasmeen Khan,ade5c0c0,F Eseigbe,292d11ee,KA Green,fa9fdefa,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Namibia,16,Yasmeen Khan,ade5c0c0,F Eseigbe,292d11ee,KA Green,fa9fdefa,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Namibia,16,Yasmeen Khan,ade5c0c0,F Eseigbe,292d11ee,KA Green,fa9fdefa,0,0,0,0,0,,,,,,6,0,6
+1265223,2021,Namibia,16,Yasmeen Khan,ade5c0c0,F Eseigbe,292d11ee,KA Green,fa9fdefa,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Namibia,17,KA Green,fa9fdefa,R Samson,e63c08e9,Yasmeen Khan,ade5c0c0,0,0,1,0,0,,,,,,0,1,1
+1265223,2021,Namibia,17,Yasmeen Khan,ade5c0c0,R Samson,e63c08e9,KA Green,fa9fdefa,0,0,0,0,0,,,,,,1,0,1
+1265223,2021,Namibia,17,Yasmeen Khan,ade5c0c0,R Samson,e63c08e9,KA Green,fa9fdefa,2,0,0,0,0,,,,,,0,2,2
+1265223,2021,Namibia,17,KA Green,fa9fdefa,R Samson,e63c08e9,Yasmeen Khan,ade5c0c0,0,0,0,0,0,,,,,,4,0,4
+1265223,2021,Namibia,17,KA Green,fa9fdefa,R Samson,e63c08e9,Yasmeen Khan,ade5c0c0,0,0,1,0,0,,,,,,0,1,1
+1265223,2021,Namibia,17,Yasmeen Khan,ade5c0c0,R Samson,e63c08e9,KA Green,fa9fdefa,0,0,0,0,0,,,,,,2,0,2
+1265223,2021,Namibia,17,Yasmeen Khan,ade5c0c0,R Samson,e63c08e9,KA Green,fa9fdefa,0,0,0,0,0,,,,,,6,0,6
+1265223,2021,Namibia,18,KA Green,fa9fdefa,F Eseigbe,292d11ee,Yasmeen Khan,ade5c0c0,0,0,0,0,0,,,,,,1,0,1
+1265223,2021,Namibia,18,Yasmeen Khan,ade5c0c0,F Eseigbe,292d11ee,KA Green,fa9fdefa,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Namibia,18,Yasmeen Khan,ade5c0c0,F Eseigbe,292d11ee,KA Green,fa9fdefa,0,0,0,0,0,,,,,,2,0,2
+1265223,2021,Namibia,18,Yasmeen Khan,ade5c0c0,F Eseigbe,292d11ee,KA Green,fa9fdefa,0,0,0,0,0,,,,,,4,0,4
+1265223,2021,Namibia,18,Yasmeen Khan,ade5c0c0,F Eseigbe,292d11ee,KA Green,fa9fdefa,0,0,0,0,0,,,,,,4,0,4
+1265223,2021,Namibia,18,Yasmeen Khan,ade5c0c0,F Eseigbe,292d11ee,KA Green,fa9fdefa,0,0,0,0,0,,,,,,1,0,1
+1265223,2021,Namibia,19,Yasmeen Khan,ade5c0c0,B Etim,11d0079f,KA Green,fa9fdefa,1,0,0,0,0,,,,,,0,1,1
+1265223,2021,Namibia,19,Yasmeen Khan,ade5c0c0,B Etim,11d0079f,KA Green,fa9fdefa,0,0,0,0,0,,,,,,2,0,2
+1265223,2021,Namibia,19,Yasmeen Khan,ade5c0c0,B Etim,11d0079f,KA Green,fa9fdefa,0,0,0,0,0,,,,,,1,0,1
+1265223,2021,Namibia,19,KA Green,fa9fdefa,B Etim,11d0079f,Yasmeen Khan,ade5c0c0,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Namibia,19,KA Green,fa9fdefa,B Etim,11d0079f,Yasmeen Khan,ade5c0c0,0,0,0,0,0,,,,,,4,0,4
+1265223,2021,Namibia,19,KA Green,fa9fdefa,B Etim,11d0079f,Yasmeen Khan,ade5c0c0,0,0,0,0,0,,,,,,4,0,4
+1265223,2021,Namibia,19,KA Green,fa9fdefa,B Etim,11d0079f,Yasmeen Khan,ade5c0c0,0,0,0,0,0,,,,,,2,0,2
+1265223,2021,Nigeria,0,F Eseigbe,292d11ee,W Mwatile,5728635a,O Asika,b03285bf,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Nigeria,0,F Eseigbe,292d11ee,W Mwatile,5728635a,O Asika,b03285bf,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Nigeria,0,F Eseigbe,292d11ee,W Mwatile,5728635a,O Asika,b03285bf,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Nigeria,0,F Eseigbe,292d11ee,W Mwatile,5728635a,O Asika,b03285bf,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Nigeria,0,F Eseigbe,292d11ee,W Mwatile,5728635a,O Asika,b03285bf,0,0,0,0,0,,,,,,1,0,1
+1265223,2021,Nigeria,0,O Asika,b03285bf,W Mwatile,5728635a,F Eseigbe,292d11ee,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Nigeria,1,F Eseigbe,292d11ee,KA Green,fa9fdefa,O Asika,b03285bf,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Nigeria,1,F Eseigbe,292d11ee,KA Green,fa9fdefa,O Asika,b03285bf,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Nigeria,1,F Eseigbe,292d11ee,KA Green,fa9fdefa,O Asika,b03285bf,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Nigeria,1,F Eseigbe,292d11ee,KA Green,fa9fdefa,O Asika,b03285bf,0,0,0,0,0,,,,,,1,0,1
+1265223,2021,Nigeria,1,O Asika,b03285bf,KA Green,fa9fdefa,F Eseigbe,292d11ee,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Nigeria,1,O Asika,b03285bf,KA Green,fa9fdefa,F Eseigbe,292d11ee,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Nigeria,2,F Eseigbe,292d11ee,W Mwatile,5728635a,O Asika,b03285bf,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Nigeria,2,F Eseigbe,292d11ee,W Mwatile,5728635a,O Asika,b03285bf,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Nigeria,2,F Eseigbe,292d11ee,W Mwatile,5728635a,O Asika,b03285bf,1,0,0,0,0,,,,,,0,1,1
+1265223,2021,Nigeria,2,F Eseigbe,292d11ee,W Mwatile,5728635a,O Asika,b03285bf,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Nigeria,2,F Eseigbe,292d11ee,W Mwatile,5728635a,O Asika,b03285bf,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Nigeria,2,F Eseigbe,292d11ee,W Mwatile,5728635a,O Asika,b03285bf,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Nigeria,2,F Eseigbe,292d11ee,W Mwatile,5728635a,O Asika,b03285bf,0,0,0,0,0,,,,,,2,0,2
+1265223,2021,Nigeria,3,O Asika,b03285bf,KA Green,fa9fdefa,F Eseigbe,292d11ee,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Nigeria,3,O Asika,b03285bf,KA Green,fa9fdefa,F Eseigbe,292d11ee,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Nigeria,3,O Asika,b03285bf,KA Green,fa9fdefa,F Eseigbe,292d11ee,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Nigeria,3,O Asika,b03285bf,KA Green,fa9fdefa,F Eseigbe,292d11ee,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Nigeria,3,O Asika,b03285bf,KA Green,fa9fdefa,F Eseigbe,292d11ee,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Nigeria,3,O Asika,b03285bf,KA Green,fa9fdefa,F Eseigbe,292d11ee,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Nigeria,4,F Eseigbe,292d11ee,W Mwatile,5728635a,O Asika,b03285bf,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Nigeria,4,F Eseigbe,292d11ee,W Mwatile,5728635a,O Asika,b03285bf,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Nigeria,4,F Eseigbe,292d11ee,W Mwatile,5728635a,O Asika,b03285bf,0,0,0,0,0,,,,,,4,0,4
+1265223,2021,Nigeria,4,F Eseigbe,292d11ee,W Mwatile,5728635a,O Asika,b03285bf,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Nigeria,4,F Eseigbe,292d11ee,W Mwatile,5728635a,O Asika,b03285bf,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Nigeria,4,F Eseigbe,292d11ee,W Mwatile,5728635a,O Asika,b03285bf,2,0,0,0,0,,,,,,0,2,2
+1265223,2021,Nigeria,4,O Asika,b03285bf,W Mwatile,5728635a,F Eseigbe,292d11ee,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Nigeria,5,F Eseigbe,292d11ee,KA Green,fa9fdefa,O Asika,b03285bf,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Nigeria,5,F Eseigbe,292d11ee,KA Green,fa9fdefa,O Asika,b03285bf,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Nigeria,5,F Eseigbe,292d11ee,KA Green,fa9fdefa,O Asika,b03285bf,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Nigeria,5,F Eseigbe,292d11ee,KA Green,fa9fdefa,O Asika,b03285bf,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Nigeria,5,F Eseigbe,292d11ee,KA Green,fa9fdefa,O Asika,b03285bf,0,0,0,0,0,,,,,,1,0,1
+1265223,2021,Nigeria,5,O Asika,b03285bf,KA Green,fa9fdefa,F Eseigbe,292d11ee,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Nigeria,6,F Eseigbe,292d11ee,I van Zyl,44c3cb6d,O Asika,b03285bf,0,0,0,0,0,,,,,,1,0,1
+1265223,2021,Nigeria,6,O Asika,b03285bf,I van Zyl,44c3cb6d,F Eseigbe,292d11ee,0,0,0,0,0,,,,,,1,0,1
+1265223,2021,Nigeria,6,F Eseigbe,292d11ee,I van Zyl,44c3cb6d,O Asika,b03285bf,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Nigeria,6,F Eseigbe,292d11ee,I van Zyl,44c3cb6d,O Asika,b03285bf,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Nigeria,6,F Eseigbe,292d11ee,I van Zyl,44c3cb6d,O Asika,b03285bf,0,0,0,0,1,F Eseigbe,292d11ee,Yasmeen Khan,ade5c0c0,run out,0,0,0
+1265223,2021,Nigeria,6,B Etim,11d0079f,I van Zyl,44c3cb6d,O Asika,b03285bf,0,0,0,0,0,,,,,,1,0,1
+1265223,2021,Nigeria,7,B Etim,11d0079f,KA Green,fa9fdefa,O Asika,b03285bf,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Nigeria,7,B Etim,11d0079f,KA Green,fa9fdefa,O Asika,b03285bf,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Nigeria,7,B Etim,11d0079f,KA Green,fa9fdefa,O Asika,b03285bf,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Nigeria,7,B Etim,11d0079f,KA Green,fa9fdefa,O Asika,b03285bf,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Nigeria,7,B Etim,11d0079f,KA Green,fa9fdefa,O Asika,b03285bf,0,0,0,0,0,,,,,,2,0,2
+1265223,2021,Nigeria,7,B Etim,11d0079f,KA Green,fa9fdefa,O Asika,b03285bf,0,0,0,0,0,,,,,,1,0,1
+1265223,2021,Nigeria,8,B Etim,11d0079f,SN Shihepo,1b3f7dbb,O Asika,b03285bf,0,0,0,0,1,B Etim,11d0079f,SA Wittmann,531aef3b,caught,0,0,0
+1265223,2021,Nigeria,8,E Sandy,59063d6b,SN Shihepo,1b3f7dbb,O Asika,b03285bf,0,0,0,0,0,,,,,,4,0,4
+1265223,2021,Nigeria,8,E Sandy,59063d6b,SN Shihepo,1b3f7dbb,O Asika,b03285bf,0,0,0,0,0,,,,,,1,0,1
+1265223,2021,Nigeria,8,O Asika,b03285bf,SN Shihepo,1b3f7dbb,E Sandy,59063d6b,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Nigeria,8,O Asika,b03285bf,SN Shihepo,1b3f7dbb,E Sandy,59063d6b,0,0,0,0,0,,,,,,1,0,1
+1265223,2021,Nigeria,8,E Sandy,59063d6b,SN Shihepo,1b3f7dbb,O Asika,b03285bf,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Nigeria,9,O Asika,b03285bf,V Hamunyela,d758a366,E Sandy,59063d6b,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Nigeria,9,O Asika,b03285bf,V Hamunyela,d758a366,E Sandy,59063d6b,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Nigeria,9,O Asika,b03285bf,V Hamunyela,d758a366,E Sandy,59063d6b,0,0,0,0,1,O Asika,b03285bf,Yasmeen Khan,ade5c0c0,stumped,0,0,0
+1265223,2021,Nigeria,9,J Efosa,8a0ba257,V Hamunyela,d758a366,E Sandy,59063d6b,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Nigeria,9,J Efosa,8a0ba257,V Hamunyela,d758a366,E Sandy,59063d6b,1,0,0,0,0,,,,,,0,1,1
+1265223,2021,Nigeria,9,J Efosa,8a0ba257,V Hamunyela,d758a366,E Sandy,59063d6b,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Nigeria,9,J Efosa,8a0ba257,V Hamunyela,d758a366,E Sandy,59063d6b,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Nigeria,10,E Sandy,59063d6b,SN Shihepo,1b3f7dbb,J Efosa,8a0ba257,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Nigeria,10,E Sandy,59063d6b,SN Shihepo,1b3f7dbb,J Efosa,8a0ba257,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Nigeria,10,E Sandy,59063d6b,SN Shihepo,1b3f7dbb,J Efosa,8a0ba257,0,0,0,0,0,,,,,,1,0,1
+1265223,2021,Nigeria,10,J Efosa,8a0ba257,SN Shihepo,1b3f7dbb,E Sandy,59063d6b,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Nigeria,10,J Efosa,8a0ba257,SN Shihepo,1b3f7dbb,E Sandy,59063d6b,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Nigeria,10,J Efosa,8a0ba257,SN Shihepo,1b3f7dbb,E Sandy,59063d6b,0,0,0,0,0,,,,,,1,0,1
+1265223,2021,Nigeria,11,J Efosa,8a0ba257,V Hamunyela,d758a366,E Sandy,59063d6b,0,0,0,0,0,,,,,,4,0,4
+1265223,2021,Nigeria,11,J Efosa,8a0ba257,V Hamunyela,d758a366,E Sandy,59063d6b,0,0,0,0,0,,,,,,1,0,1
+1265223,2021,Nigeria,11,E Sandy,59063d6b,V Hamunyela,d758a366,J Efosa,8a0ba257,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Nigeria,11,E Sandy,59063d6b,V Hamunyela,d758a366,J Efosa,8a0ba257,0,0,0,0,0,,,,,,3,0,3
+1265223,2021,Nigeria,11,J Efosa,8a0ba257,V Hamunyela,d758a366,E Sandy,59063d6b,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Nigeria,11,J Efosa,8a0ba257,V Hamunyela,d758a366,E Sandy,59063d6b,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Nigeria,12,E Sandy,59063d6b,SN Shihepo,1b3f7dbb,J Efosa,8a0ba257,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Nigeria,12,E Sandy,59063d6b,SN Shihepo,1b3f7dbb,J Efosa,8a0ba257,0,0,0,0,0,,,,,,1,0,1
+1265223,2021,Nigeria,12,J Efosa,8a0ba257,SN Shihepo,1b3f7dbb,E Sandy,59063d6b,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Nigeria,12,J Efosa,8a0ba257,SN Shihepo,1b3f7dbb,E Sandy,59063d6b,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Nigeria,12,J Efosa,8a0ba257,SN Shihepo,1b3f7dbb,E Sandy,59063d6b,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Nigeria,12,J Efosa,8a0ba257,SN Shihepo,1b3f7dbb,E Sandy,59063d6b,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Nigeria,13,E Sandy,59063d6b,V Hamunyela,d758a366,J Efosa,8a0ba257,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Nigeria,13,E Sandy,59063d6b,V Hamunyela,d758a366,J Efosa,8a0ba257,0,0,0,0,0,,,,,,2,0,2
+1265223,2021,Nigeria,13,E Sandy,59063d6b,V Hamunyela,d758a366,J Efosa,8a0ba257,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Nigeria,13,E Sandy,59063d6b,V Hamunyela,d758a366,J Efosa,8a0ba257,0,0,0,0,0,,,,,,1,0,1
+1265223,2021,Nigeria,13,J Efosa,8a0ba257,V Hamunyela,d758a366,E Sandy,59063d6b,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Nigeria,13,J Efosa,8a0ba257,V Hamunyela,d758a366,E Sandy,59063d6b,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Nigeria,14,E Sandy,59063d6b,SN Shihepo,1b3f7dbb,J Efosa,8a0ba257,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Nigeria,14,E Sandy,59063d6b,SN Shihepo,1b3f7dbb,J Efosa,8a0ba257,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Nigeria,14,E Sandy,59063d6b,SN Shihepo,1b3f7dbb,J Efosa,8a0ba257,0,0,0,0,1,E Sandy,59063d6b,D Foerster,5596d5bf,caught,0,0,0
+1265223,2021,Nigeria,14,J Efosa,8a0ba257,SN Shihepo,1b3f7dbb,S Sunday,594a0dec,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Nigeria,14,J Efosa,8a0ba257,SN Shihepo,1b3f7dbb,S Sunday,594a0dec,0,0,0,0,0,,,,,,2,0,2
+1265223,2021,Nigeria,14,J Efosa,8a0ba257,SN Shihepo,1b3f7dbb,S Sunday,594a0dec,0,0,0,0,0,,,,,,1,0,1
+1265223,2021,Nigeria,15,J Efosa,8a0ba257,V Hamunyela,d758a366,S Sunday,594a0dec,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Nigeria,15,J Efosa,8a0ba257,V Hamunyela,d758a366,S Sunday,594a0dec,0,0,0,0,0,,,,,,4,0,4
+1265223,2021,Nigeria,15,J Efosa,8a0ba257,V Hamunyela,d758a366,S Sunday,594a0dec,0,0,0,0,1,J Efosa,8a0ba257,Yasmeen Khan,ade5c0c0,caught,0,0,0
+1265223,2021,Nigeria,15,A Obulor,abba64cd,V Hamunyela,d758a366,S Sunday,594a0dec,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Nigeria,15,A Obulor,abba64cd,V Hamunyela,d758a366,S Sunday,594a0dec,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Nigeria,15,A Obulor,abba64cd,V Hamunyela,d758a366,S Sunday,594a0dec,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Nigeria,16,S Sunday,594a0dec,I van Zyl,44c3cb6d,A Obulor,abba64cd,0,0,0,0,0,,,,,,2,0,2
+1265223,2021,Nigeria,16,S Sunday,594a0dec,I van Zyl,44c3cb6d,A Obulor,abba64cd,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Nigeria,16,S Sunday,594a0dec,I van Zyl,44c3cb6d,A Obulor,abba64cd,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Nigeria,16,S Sunday,594a0dec,I van Zyl,44c3cb6d,A Obulor,abba64cd,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Nigeria,16,S Sunday,594a0dec,I van Zyl,44c3cb6d,A Obulor,abba64cd,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Nigeria,16,S Sunday,594a0dec,I van Zyl,44c3cb6d,A Obulor,abba64cd,0,0,0,0,0,,,,,,1,0,1
+1265223,2021,Nigeria,17,S Sunday,594a0dec,W Mwatile,5728635a,A Obulor,abba64cd,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Nigeria,17,S Sunday,594a0dec,W Mwatile,5728635a,A Obulor,abba64cd,0,0,0,0,0,,,,,,1,0,1
+1265223,2021,Nigeria,17,A Obulor,abba64cd,W Mwatile,5728635a,S Sunday,594a0dec,1,0,0,0,0,,,,,,0,1,1
+1265223,2021,Nigeria,17,A Obulor,abba64cd,W Mwatile,5728635a,S Sunday,594a0dec,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Nigeria,17,A Obulor,abba64cd,W Mwatile,5728635a,S Sunday,594a0dec,0,0,0,0,1,A Obulor,abba64cd,W Mwatile,5728635a,run out,0,0,0
+1265223,2021,Nigeria,17,S Sunday,594a0dec,W Mwatile,5728635a,A Igbobie,8e75f2c7,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Nigeria,17,S Sunday,594a0dec,W Mwatile,5728635a,A Igbobie,8e75f2c7,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Nigeria,18,A Igbobie,8e75f2c7,M Gorases,d034d60a,S Sunday,594a0dec,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Nigeria,18,A Igbobie,8e75f2c7,M Gorases,d034d60a,S Sunday,594a0dec,0,0,0,0,0,,,,,,1,0,1
+1265223,2021,Nigeria,18,S Sunday,594a0dec,M Gorases,d034d60a,A Igbobie,8e75f2c7,0,0,0,0,0,,,,,,4,0,4
+1265223,2021,Nigeria,18,S Sunday,594a0dec,M Gorases,d034d60a,A Igbobie,8e75f2c7,0,0,0,0,0,,,,,,1,0,1
+1265223,2021,Nigeria,18,A Igbobie,8e75f2c7,M Gorases,d034d60a,S Sunday,594a0dec,0,0,0,0,1,S Sunday,594a0dec,M Gorases,d034d60a,run out,0,0,0
+1265223,2021,Nigeria,18,A Igbobie,8e75f2c7,M Gorases,d034d60a,R Samson,e63c08e9,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Nigeria,19,R Samson,e63c08e9,I van Zyl,44c3cb6d,A Igbobie,8e75f2c7,0,0,0,0,0,,,,,,1,0,1
+1265223,2021,Nigeria,19,A Igbobie,8e75f2c7,I van Zyl,44c3cb6d,R Samson,e63c08e9,0,0,0,0,0,,,,,,1,0,1
+1265223,2021,Nigeria,19,R Samson,e63c08e9,I van Zyl,44c3cb6d,A Igbobie,8e75f2c7,0,0,0,0,0,,,,,,4,0,4
+1265223,2021,Nigeria,19,R Samson,e63c08e9,I van Zyl,44c3cb6d,A Igbobie,8e75f2c7,0,0,0,0,1,R Samson,e63c08e9,,,lbw,0,0,0
+1265223,2021,Nigeria,19,M Desmond,7ec52f4a,I van Zyl,44c3cb6d,A Igbobie,8e75f2c7,0,0,0,0,0,,,,,,0,0,0
+1265223,2021,Nigeria,19,M Desmond,7ec52f4a,I van Zyl,44c3cb6d,A Igbobie,8e75f2c7,0,0,0,0,0,,,,,,2,0,2

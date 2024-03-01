@@ -1,0 +1,244 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1289265,2022,England,0,DN Wyatt,a139c379,N Mlaba,686362af,SIR Dunkley,3a9e9cb2,0,0,0,0,0,,,,,,0,0,0
+1289265,2022,England,0,DN Wyatt,a139c379,N Mlaba,686362af,SIR Dunkley,3a9e9cb2,0,0,0,0,0,,,,,,0,0,0
+1289265,2022,England,0,DN Wyatt,a139c379,N Mlaba,686362af,SIR Dunkley,3a9e9cb2,0,0,0,0,0,,,,,,4,0,4
+1289265,2022,England,0,DN Wyatt,a139c379,N Mlaba,686362af,SIR Dunkley,3a9e9cb2,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,England,0,SIR Dunkley,3a9e9cb2,N Mlaba,686362af,DN Wyatt,a139c379,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,England,0,DN Wyatt,a139c379,N Mlaba,686362af,SIR Dunkley,3a9e9cb2,0,0,0,0,0,,,,,,4,0,4
+1289265,2022,England,1,SIR Dunkley,3a9e9cb2,S Ismail,108c4c09,DN Wyatt,a139c379,0,0,0,0,1,SIR Dunkley,3a9e9cb2,,,bowled,0,0,0
+1289265,2022,England,1,A Capsey,910dd54e,S Ismail,108c4c09,DN Wyatt,a139c379,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,England,1,DN Wyatt,a139c379,S Ismail,108c4c09,A Capsey,910dd54e,0,0,0,0,0,,,,,,0,0,0
+1289265,2022,England,1,DN Wyatt,a139c379,S Ismail,108c4c09,A Capsey,910dd54e,0,0,0,0,0,,,,,,0,0,0
+1289265,2022,England,1,DN Wyatt,a139c379,S Ismail,108c4c09,A Capsey,910dd54e,0,0,0,0,0,,,,,,0,0,0
+1289265,2022,England,1,DN Wyatt,a139c379,S Ismail,108c4c09,A Capsey,910dd54e,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,England,2,DN Wyatt,a139c379,A Khaka,0d518f89,A Capsey,910dd54e,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,England,2,A Capsey,910dd54e,A Khaka,0d518f89,DN Wyatt,a139c379,0,0,0,0,0,,,,,,0,0,0
+1289265,2022,England,2,A Capsey,910dd54e,A Khaka,0d518f89,DN Wyatt,a139c379,0,0,0,0,0,,,,,,0,0,0
+1289265,2022,England,2,A Capsey,910dd54e,A Khaka,0d518f89,DN Wyatt,a139c379,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,England,2,DN Wyatt,a139c379,A Khaka,0d518f89,A Capsey,910dd54e,0,0,0,0,0,,,,,,0,0,0
+1289265,2022,England,2,DN Wyatt,a139c379,A Khaka,0d518f89,A Capsey,910dd54e,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,England,3,DN Wyatt,a139c379,N de Klerk,ea544967,A Capsey,910dd54e,0,0,0,0,0,,,,,,4,0,4
+1289265,2022,England,3,DN Wyatt,a139c379,N de Klerk,ea544967,A Capsey,910dd54e,0,0,0,0,0,,,,,,4,0,4
+1289265,2022,England,3,DN Wyatt,a139c379,N de Klerk,ea544967,A Capsey,910dd54e,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,England,3,A Capsey,910dd54e,N de Klerk,ea544967,DN Wyatt,a139c379,0,0,0,0,0,,,,,,4,0,4
+1289265,2022,England,3,A Capsey,910dd54e,N de Klerk,ea544967,DN Wyatt,a139c379,0,0,0,0,0,,,,,,4,0,4
+1289265,2022,England,3,A Capsey,910dd54e,N de Klerk,ea544967,DN Wyatt,a139c379,0,0,0,0,0,,,,,,4,0,4
+1289265,2022,England,4,DN Wyatt,a139c379,A Khaka,0d518f89,A Capsey,910dd54e,0,0,0,0,0,,,,,,0,0,0
+1289265,2022,England,4,DN Wyatt,a139c379,A Khaka,0d518f89,A Capsey,910dd54e,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,England,4,A Capsey,910dd54e,A Khaka,0d518f89,DN Wyatt,a139c379,0,0,0,0,0,,,,,,0,0,0
+1289265,2022,England,4,A Capsey,910dd54e,A Khaka,0d518f89,DN Wyatt,a139c379,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,England,4,DN Wyatt,a139c379,A Khaka,0d518f89,A Capsey,910dd54e,0,0,0,0,0,,,,,,4,0,4
+1289265,2022,England,4,DN Wyatt,a139c379,A Khaka,0d518f89,A Capsey,910dd54e,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,England,5,DN Wyatt,a139c379,S Ismail,108c4c09,A Capsey,910dd54e,0,0,0,0,1,DN Wyatt,a139c379,S Jafta,34304210,caught,0,0,0
+1289265,2022,England,5,NR Sciver,f3a18a0c,S Ismail,108c4c09,A Capsey,910dd54e,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,England,5,A Capsey,910dd54e,S Ismail,108c4c09,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,0,0,0
+1289265,2022,England,5,A Capsey,910dd54e,S Ismail,108c4c09,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,4,0,4
+1289265,2022,England,5,A Capsey,910dd54e,S Ismail,108c4c09,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,England,5,NR Sciver,f3a18a0c,S Ismail,108c4c09,A Capsey,910dd54e,0,0,0,0,0,,,,,,0,0,0
+1289265,2022,England,6,A Capsey,910dd54e,CL Tryon,4d4605e6,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,England,6,NR Sciver,f3a18a0c,CL Tryon,4d4605e6,A Capsey,910dd54e,0,0,0,0,0,,,,,,0,0,0
+1289265,2022,England,6,NR Sciver,f3a18a0c,CL Tryon,4d4605e6,A Capsey,910dd54e,0,0,0,0,0,,,,,,0,0,0
+1289265,2022,England,6,NR Sciver,f3a18a0c,CL Tryon,4d4605e6,A Capsey,910dd54e,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,England,6,A Capsey,910dd54e,CL Tryon,4d4605e6,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,0,0,0
+1289265,2022,England,6,A Capsey,910dd54e,CL Tryon,4d4605e6,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,0,0,0
+1289265,2022,England,7,NR Sciver,f3a18a0c,N de Klerk,ea544967,A Capsey,910dd54e,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,England,7,A Capsey,910dd54e,N de Klerk,ea544967,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,4,0,4
+1289265,2022,England,7,A Capsey,910dd54e,N de Klerk,ea544967,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,England,7,NR Sciver,f3a18a0c,N de Klerk,ea544967,A Capsey,910dd54e,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,England,7,A Capsey,910dd54e,N de Klerk,ea544967,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,2,0,2
+1289265,2022,England,7,A Capsey,910dd54e,N de Klerk,ea544967,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,4,0,4
+1289265,2022,England,8,NR Sciver,f3a18a0c,CL Tryon,4d4605e6,A Capsey,910dd54e,0,0,0,0,0,,,,,,4,0,4
+1289265,2022,England,8,NR Sciver,f3a18a0c,CL Tryon,4d4605e6,A Capsey,910dd54e,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,England,8,A Capsey,910dd54e,CL Tryon,4d4605e6,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,0,0,0
+1289265,2022,England,8,A Capsey,910dd54e,CL Tryon,4d4605e6,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,0,0,0
+1289265,2022,England,8,A Capsey,910dd54e,CL Tryon,4d4605e6,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,4,0,4
+1289265,2022,England,8,A Capsey,910dd54e,CL Tryon,4d4605e6,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,0,0,0
+1289265,2022,England,9,NR Sciver,f3a18a0c,A Bosch,dcf0e8f4,A Capsey,910dd54e,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,England,9,A Capsey,910dd54e,A Bosch,dcf0e8f4,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,England,9,NR Sciver,f3a18a0c,A Bosch,dcf0e8f4,A Capsey,910dd54e,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,England,9,A Capsey,910dd54e,A Bosch,dcf0e8f4,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,2,0,2
+1289265,2022,England,9,A Capsey,910dd54e,A Bosch,dcf0e8f4,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,0,0,0
+1289265,2022,England,9,A Capsey,910dd54e,A Bosch,dcf0e8f4,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,England,10,A Capsey,910dd54e,N Mlaba,686362af,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,0,0,0
+1289265,2022,England,10,A Capsey,910dd54e,N Mlaba,686362af,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,0,0,0
+1289265,2022,England,10,A Capsey,910dd54e,N Mlaba,686362af,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,England,10,NR Sciver,f3a18a0c,N Mlaba,686362af,A Capsey,910dd54e,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,England,10,A Capsey,910dd54e,N Mlaba,686362af,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,0,0,0
+1289265,2022,England,10,A Capsey,910dd54e,N Mlaba,686362af,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,England,11,A Capsey,910dd54e,A Bosch,dcf0e8f4,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,6,0,6
+1289265,2022,England,11,A Capsey,910dd54e,A Bosch,dcf0e8f4,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,England,11,NR Sciver,f3a18a0c,A Bosch,dcf0e8f4,A Capsey,910dd54e,0,0,0,0,0,,,,,,0,0,0
+1289265,2022,England,11,NR Sciver,f3a18a0c,A Bosch,dcf0e8f4,A Capsey,910dd54e,0,0,0,0,1,NR Sciver,f3a18a0c,S Jafta,34304210,caught,0,0,0
+1289265,2022,England,11,AE Jones,b05e45e4,A Bosch,dcf0e8f4,A Capsey,910dd54e,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,England,11,A Capsey,910dd54e,A Bosch,dcf0e8f4,AE Jones,b05e45e4,0,0,0,0,0,,,,,,0,0,0
+1289265,2022,England,12,AE Jones,b05e45e4,N Mlaba,686362af,A Capsey,910dd54e,0,0,0,0,0,,,,,,0,0,0
+1289265,2022,England,12,AE Jones,b05e45e4,N Mlaba,686362af,A Capsey,910dd54e,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,England,12,A Capsey,910dd54e,N Mlaba,686362af,AE Jones,b05e45e4,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,England,12,AE Jones,b05e45e4,N Mlaba,686362af,A Capsey,910dd54e,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,England,12,A Capsey,910dd54e,N Mlaba,686362af,AE Jones,b05e45e4,0,0,0,0,1,A Capsey,910dd54e,,,caught and bowled,0,0,0
+1289265,2022,England,12,ME Bouchier,c2554b59,N Mlaba,686362af,AE Jones,b05e45e4,0,0,0,0,1,ME Bouchier,c2554b59,N de Klerk,ea544967,run out,1,0,1
+1289265,2022,England,13,AE Jones,b05e45e4,S Ismail,108c4c09,KH Brunt,6a434bd3,0,0,0,0,0,,,,,,0,0,0
+1289265,2022,England,13,AE Jones,b05e45e4,S Ismail,108c4c09,KH Brunt,6a434bd3,1,0,0,0,0,,,,,,0,1,1
+1289265,2022,England,13,AE Jones,b05e45e4,S Ismail,108c4c09,KH Brunt,6a434bd3,0,0,0,0,0,,,,,,4,0,4
+1289265,2022,England,13,AE Jones,b05e45e4,S Ismail,108c4c09,KH Brunt,6a434bd3,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,England,13,KH Brunt,6a434bd3,S Ismail,108c4c09,AE Jones,b05e45e4,0,0,0,0,0,,,,,,2,0,2
+1289265,2022,England,13,KH Brunt,6a434bd3,S Ismail,108c4c09,AE Jones,b05e45e4,0,0,0,0,0,,,,,,0,0,0
+1289265,2022,England,13,KH Brunt,6a434bd3,S Ismail,108c4c09,AE Jones,b05e45e4,0,0,0,0,0,,,,,,0,0,0
+1289265,2022,England,14,AE Jones,b05e45e4,CL Tryon,4d4605e6,KH Brunt,6a434bd3,0,0,0,0,0,,,,,,2,0,2
+1289265,2022,England,14,AE Jones,b05e45e4,CL Tryon,4d4605e6,KH Brunt,6a434bd3,0,0,0,0,0,,,,,,0,0,0
+1289265,2022,England,14,AE Jones,b05e45e4,CL Tryon,4d4605e6,KH Brunt,6a434bd3,0,0,0,0,0,,,,,,4,0,4
+1289265,2022,England,14,AE Jones,b05e45e4,CL Tryon,4d4605e6,KH Brunt,6a434bd3,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,England,14,KH Brunt,6a434bd3,CL Tryon,4d4605e6,AE Jones,b05e45e4,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,England,14,AE Jones,b05e45e4,CL Tryon,4d4605e6,KH Brunt,6a434bd3,0,0,0,0,0,,,,,,4,0,4
+1289265,2022,England,15,KH Brunt,6a434bd3,A Bosch,dcf0e8f4,AE Jones,b05e45e4,0,0,0,0,0,,,,,,0,0,0
+1289265,2022,England,15,KH Brunt,6a434bd3,A Bosch,dcf0e8f4,AE Jones,b05e45e4,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,England,15,AE Jones,b05e45e4,A Bosch,dcf0e8f4,KH Brunt,6a434bd3,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,England,15,KH Brunt,6a434bd3,A Bosch,dcf0e8f4,AE Jones,b05e45e4,0,0,0,0,0,,,,,,6,0,6
+1289265,2022,England,15,KH Brunt,6a434bd3,A Bosch,dcf0e8f4,AE Jones,b05e45e4,0,0,0,0,0,,,,,,4,0,4
+1289265,2022,England,15,KH Brunt,6a434bd3,A Bosch,dcf0e8f4,AE Jones,b05e45e4,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,England,16,KH Brunt,6a434bd3,A Khaka,0d518f89,AE Jones,b05e45e4,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,England,16,AE Jones,b05e45e4,A Khaka,0d518f89,KH Brunt,6a434bd3,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,England,16,KH Brunt,6a434bd3,A Khaka,0d518f89,AE Jones,b05e45e4,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,England,16,AE Jones,b05e45e4,A Khaka,0d518f89,KH Brunt,6a434bd3,0,0,0,0,0,,,,,,2,0,2
+1289265,2022,England,16,AE Jones,b05e45e4,A Khaka,0d518f89,KH Brunt,6a434bd3,0,0,0,0,0,,,,,,4,0,4
+1289265,2022,England,16,AE Jones,b05e45e4,A Khaka,0d518f89,KH Brunt,6a434bd3,0,0,0,0,0,,,,,,0,0,0
+1289265,2022,England,17,KH Brunt,6a434bd3,N Mlaba,686362af,AE Jones,b05e45e4,0,0,0,0,0,,,,,,0,0,0
+1289265,2022,England,17,KH Brunt,6a434bd3,N Mlaba,686362af,AE Jones,b05e45e4,0,0,0,0,0,,,,,,2,0,2
+1289265,2022,England,17,KH Brunt,6a434bd3,N Mlaba,686362af,AE Jones,b05e45e4,0,0,0,0,0,,,,,,0,0,0
+1289265,2022,England,17,KH Brunt,6a434bd3,N Mlaba,686362af,AE Jones,b05e45e4,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,England,17,AE Jones,b05e45e4,N Mlaba,686362af,KH Brunt,6a434bd3,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,England,17,KH Brunt,6a434bd3,N Mlaba,686362af,AE Jones,b05e45e4,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,England,18,KH Brunt,6a434bd3,S Ismail,108c4c09,AE Jones,b05e45e4,0,0,0,0,0,,,,,,4,0,4
+1289265,2022,England,18,KH Brunt,6a434bd3,S Ismail,108c4c09,AE Jones,b05e45e4,0,0,0,0,0,,,,,,4,0,4
+1289265,2022,England,18,KH Brunt,6a434bd3,S Ismail,108c4c09,AE Jones,b05e45e4,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,England,18,AE Jones,b05e45e4,S Ismail,108c4c09,KH Brunt,6a434bd3,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,England,18,KH Brunt,6a434bd3,S Ismail,108c4c09,AE Jones,b05e45e4,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,England,18,AE Jones,b05e45e4,S Ismail,108c4c09,KH Brunt,6a434bd3,0,0,1,0,0,,,,,,0,1,1
+1289265,2022,England,19,AE Jones,b05e45e4,A Khaka,0d518f89,KH Brunt,6a434bd3,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,England,19,KH Brunt,6a434bd3,A Khaka,0d518f89,AE Jones,b05e45e4,0,0,0,0,0,,,,,,4,0,4
+1289265,2022,England,19,KH Brunt,6a434bd3,A Khaka,0d518f89,AE Jones,b05e45e4,0,0,0,0,0,,,,,,2,0,2
+1289265,2022,England,19,KH Brunt,6a434bd3,A Khaka,0d518f89,AE Jones,b05e45e4,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,England,19,AE Jones,b05e45e4,A Khaka,0d518f89,KH Brunt,6a434bd3,0,0,0,0,0,,,,,,0,0,0
+1289265,2022,England,19,AE Jones,b05e45e4,A Khaka,0d518f89,KH Brunt,6a434bd3,0,0,0,0,0,,,,,,6,0,6
+1289265,2022,South Africa,0,A Bosch,dcf0e8f4,KH Brunt,6a434bd3,T Brits,06659caa,0,0,0,0,0,,,,,,2,0,2
+1289265,2022,South Africa,0,A Bosch,dcf0e8f4,KH Brunt,6a434bd3,T Brits,06659caa,0,0,0,0,0,,,,,,0,0,0
+1289265,2022,South Africa,0,A Bosch,dcf0e8f4,KH Brunt,6a434bd3,T Brits,06659caa,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,South Africa,0,T Brits,06659caa,KH Brunt,6a434bd3,A Bosch,dcf0e8f4,0,0,0,0,0,,,,,,0,0,0
+1289265,2022,South Africa,0,T Brits,06659caa,KH Brunt,6a434bd3,A Bosch,dcf0e8f4,0,0,0,0,0,,,,,,0,0,0
+1289265,2022,South Africa,0,T Brits,06659caa,KH Brunt,6a434bd3,A Bosch,dcf0e8f4,0,0,1,0,0,,,,,,0,1,1
+1289265,2022,South Africa,1,T Brits,06659caa,IECM Wong,e5b17517,A Bosch,dcf0e8f4,0,0,0,0,0,,,,,,0,0,0
+1289265,2022,South Africa,1,T Brits,06659caa,IECM Wong,e5b17517,A Bosch,dcf0e8f4,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,South Africa,1,A Bosch,dcf0e8f4,IECM Wong,e5b17517,T Brits,06659caa,0,0,0,0,0,,,,,,0,0,0
+1289265,2022,South Africa,1,A Bosch,dcf0e8f4,IECM Wong,e5b17517,T Brits,06659caa,1,0,0,0,0,,,,,,0,1,1
+1289265,2022,South Africa,1,A Bosch,dcf0e8f4,IECM Wong,e5b17517,T Brits,06659caa,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,South Africa,1,T Brits,06659caa,IECM Wong,e5b17517,A Bosch,dcf0e8f4,0,0,0,0,0,,,,,,0,0,0
+1289265,2022,South Africa,1,T Brits,06659caa,IECM Wong,e5b17517,A Bosch,dcf0e8f4,0,0,0,0,0,,,,,,4,0,4
+1289265,2022,South Africa,2,A Bosch,dcf0e8f4,KH Brunt,6a434bd3,T Brits,06659caa,0,0,0,0,0,,,,,,4,0,4
+1289265,2022,South Africa,2,A Bosch,dcf0e8f4,KH Brunt,6a434bd3,T Brits,06659caa,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,South Africa,2,T Brits,06659caa,KH Brunt,6a434bd3,A Bosch,dcf0e8f4,0,0,0,0,0,,,,,,0,0,0
+1289265,2022,South Africa,2,T Brits,06659caa,KH Brunt,6a434bd3,A Bosch,dcf0e8f4,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,South Africa,2,A Bosch,dcf0e8f4,KH Brunt,6a434bd3,T Brits,06659caa,0,0,0,0,0,,,,,,0,0,0
+1289265,2022,South Africa,2,A Bosch,dcf0e8f4,KH Brunt,6a434bd3,T Brits,06659caa,0,0,0,0,0,,,,,,4,0,4
+1289265,2022,South Africa,3,T Brits,06659caa,FG Kemp,abc9f8a4,A Bosch,dcf0e8f4,0,0,0,0,0,,,,,,0,0,0
+1289265,2022,South Africa,3,T Brits,06659caa,FG Kemp,abc9f8a4,A Bosch,dcf0e8f4,0,0,0,0,0,,,,,,4,0,4
+1289265,2022,South Africa,3,T Brits,06659caa,FG Kemp,abc9f8a4,A Bosch,dcf0e8f4,0,0,0,0,0,,,,,,0,0,0
+1289265,2022,South Africa,3,T Brits,06659caa,FG Kemp,abc9f8a4,A Bosch,dcf0e8f4,0,0,0,0,0,,,,,,0,0,0
+1289265,2022,South Africa,3,T Brits,06659caa,FG Kemp,abc9f8a4,A Bosch,dcf0e8f4,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,South Africa,3,A Bosch,dcf0e8f4,FG Kemp,abc9f8a4,T Brits,06659caa,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,South Africa,4,A Bosch,dcf0e8f4,NR Sciver,f3a18a0c,T Brits,06659caa,0,0,0,0,0,,,,,,0,0,0
+1289265,2022,South Africa,4,A Bosch,dcf0e8f4,NR Sciver,f3a18a0c,T Brits,06659caa,0,0,0,0,0,,,,,,0,0,0
+1289265,2022,South Africa,4,A Bosch,dcf0e8f4,NR Sciver,f3a18a0c,T Brits,06659caa,0,0,0,0,0,,,,,,2,0,2
+1289265,2022,South Africa,4,A Bosch,dcf0e8f4,NR Sciver,f3a18a0c,T Brits,06659caa,0,0,0,0,0,,,,,,0,0,0
+1289265,2022,South Africa,4,A Bosch,dcf0e8f4,NR Sciver,f3a18a0c,T Brits,06659caa,0,0,0,0,0,,,,,,4,0,4
+1289265,2022,South Africa,4,A Bosch,dcf0e8f4,NR Sciver,f3a18a0c,T Brits,06659caa,0,0,0,0,0,,,,,,0,0,0
+1289265,2022,South Africa,5,T Brits,06659caa,S Ecclestone,cdb82f1c,A Bosch,dcf0e8f4,0,0,0,0,0,,,,,,4,0,4
+1289265,2022,South Africa,5,T Brits,06659caa,S Ecclestone,cdb82f1c,A Bosch,dcf0e8f4,0,0,0,0,0,,,,,,0,0,0
+1289265,2022,South Africa,5,T Brits,06659caa,S Ecclestone,cdb82f1c,A Bosch,dcf0e8f4,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,South Africa,5,A Bosch,dcf0e8f4,S Ecclestone,cdb82f1c,T Brits,06659caa,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,South Africa,5,T Brits,06659caa,S Ecclestone,cdb82f1c,A Bosch,dcf0e8f4,0,0,0,0,0,,,,,,0,0,0
+1289265,2022,South Africa,5,T Brits,06659caa,S Ecclestone,cdb82f1c,A Bosch,dcf0e8f4,0,0,0,0,0,,,,,,0,0,0
+1289265,2022,South Africa,6,A Bosch,dcf0e8f4,S Glenn,b34e0c77,T Brits,06659caa,0,0,0,0,0,,,,,,0,0,0
+1289265,2022,South Africa,6,A Bosch,dcf0e8f4,S Glenn,b34e0c77,T Brits,06659caa,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,South Africa,6,T Brits,06659caa,S Glenn,b34e0c77,A Bosch,dcf0e8f4,0,0,0,0,0,,,,,,0,0,0
+1289265,2022,South Africa,6,T Brits,06659caa,S Glenn,b34e0c77,A Bosch,dcf0e8f4,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,South Africa,6,A Bosch,dcf0e8f4,S Glenn,b34e0c77,T Brits,06659caa,0,0,0,0,0,,,,,,4,0,4
+1289265,2022,South Africa,6,A Bosch,dcf0e8f4,S Glenn,b34e0c77,T Brits,06659caa,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,South Africa,7,A Bosch,dcf0e8f4,IECM Wong,e5b17517,T Brits,06659caa,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,South Africa,7,T Brits,06659caa,IECM Wong,e5b17517,A Bosch,dcf0e8f4,0,0,0,0,0,,,,,,2,0,2
+1289265,2022,South Africa,7,T Brits,06659caa,IECM Wong,e5b17517,A Bosch,dcf0e8f4,0,0,0,0,0,,,,,,4,0,4
+1289265,2022,South Africa,7,T Brits,06659caa,IECM Wong,e5b17517,A Bosch,dcf0e8f4,0,0,0,0,0,,,,,,4,0,4
+1289265,2022,South Africa,7,T Brits,06659caa,IECM Wong,e5b17517,A Bosch,dcf0e8f4,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,South Africa,7,A Bosch,dcf0e8f4,IECM Wong,e5b17517,T Brits,06659caa,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,South Africa,8,A Bosch,dcf0e8f4,NR Sciver,f3a18a0c,T Brits,06659caa,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,South Africa,8,T Brits,06659caa,NR Sciver,f3a18a0c,A Bosch,dcf0e8f4,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,South Africa,8,A Bosch,dcf0e8f4,NR Sciver,f3a18a0c,T Brits,06659caa,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,South Africa,8,T Brits,06659caa,NR Sciver,f3a18a0c,A Bosch,dcf0e8f4,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,South Africa,8,A Bosch,dcf0e8f4,NR Sciver,f3a18a0c,T Brits,06659caa,0,0,0,0,0,,,,,,0,0,0
+1289265,2022,South Africa,8,A Bosch,dcf0e8f4,NR Sciver,f3a18a0c,T Brits,06659caa,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,South Africa,9,A Bosch,dcf0e8f4,S Ecclestone,cdb82f1c,T Brits,06659caa,0,0,0,0,1,A Bosch,dcf0e8f4,,,bowled,0,0,0
+1289265,2022,South Africa,9,L Wolvaardt,e60f81c9,S Ecclestone,cdb82f1c,T Brits,06659caa,0,0,0,0,0,,,,,,0,0,0
+1289265,2022,South Africa,9,L Wolvaardt,e60f81c9,S Ecclestone,cdb82f1c,T Brits,06659caa,0,0,0,0,0,,,,,,0,0,0
+1289265,2022,South Africa,9,L Wolvaardt,e60f81c9,S Ecclestone,cdb82f1c,T Brits,06659caa,0,0,0,0,0,,,,,,0,0,0
+1289265,2022,South Africa,9,L Wolvaardt,e60f81c9,S Ecclestone,cdb82f1c,T Brits,06659caa,0,0,0,0,0,,,,,,4,0,4
+1289265,2022,South Africa,9,L Wolvaardt,e60f81c9,S Ecclestone,cdb82f1c,T Brits,06659caa,0,0,1,0,0,,,,,,0,1,1
+1289265,2022,South Africa,10,L Wolvaardt,e60f81c9,S Glenn,b34e0c77,T Brits,06659caa,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,South Africa,10,T Brits,06659caa,S Glenn,b34e0c77,L Wolvaardt,e60f81c9,0,0,0,0,0,,,,,,2,0,2
+1289265,2022,South Africa,10,T Brits,06659caa,S Glenn,b34e0c77,L Wolvaardt,e60f81c9,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,South Africa,10,L Wolvaardt,e60f81c9,S Glenn,b34e0c77,T Brits,06659caa,0,0,0,0,0,,,,,,2,0,2
+1289265,2022,South Africa,10,L Wolvaardt,e60f81c9,S Glenn,b34e0c77,T Brits,06659caa,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,South Africa,10,T Brits,06659caa,S Glenn,b34e0c77,L Wolvaardt,e60f81c9,0,0,0,0,0,,,,,,0,0,0
+1289265,2022,South Africa,11,L Wolvaardt,e60f81c9,A Capsey,910dd54e,T Brits,06659caa,0,0,0,0,0,,,,,,0,0,0
+1289265,2022,South Africa,11,L Wolvaardt,e60f81c9,A Capsey,910dd54e,T Brits,06659caa,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,South Africa,11,T Brits,06659caa,A Capsey,910dd54e,L Wolvaardt,e60f81c9,0,0,0,0,0,,,,,,2,0,2
+1289265,2022,South Africa,11,T Brits,06659caa,A Capsey,910dd54e,L Wolvaardt,e60f81c9,0,0,0,0,0,,,,,,0,0,0
+1289265,2022,South Africa,11,T Brits,06659caa,A Capsey,910dd54e,L Wolvaardt,e60f81c9,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,South Africa,11,L Wolvaardt,e60f81c9,A Capsey,910dd54e,T Brits,06659caa,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,South Africa,12,L Wolvaardt,e60f81c9,S Glenn,b34e0c77,T Brits,06659caa,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,South Africa,12,T Brits,06659caa,S Glenn,b34e0c77,L Wolvaardt,e60f81c9,0,0,0,0,0,,,,,,0,0,0
+1289265,2022,South Africa,12,T Brits,06659caa,S Glenn,b34e0c77,L Wolvaardt,e60f81c9,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,South Africa,12,L Wolvaardt,e60f81c9,S Glenn,b34e0c77,T Brits,06659caa,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,South Africa,12,T Brits,06659caa,S Glenn,b34e0c77,L Wolvaardt,e60f81c9,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,South Africa,12,L Wolvaardt,e60f81c9,S Glenn,b34e0c77,T Brits,06659caa,0,0,0,0,0,,,,,,2,0,2
+1289265,2022,South Africa,13,T Brits,06659caa,FG Kemp,abc9f8a4,L Wolvaardt,e60f81c9,0,0,0,0,1,T Brits,06659caa,AE Jones,b05e45e4,stumped,0,0,0
+1289265,2022,South Africa,13,CL Tryon,4d4605e6,FG Kemp,abc9f8a4,L Wolvaardt,e60f81c9,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,South Africa,13,L Wolvaardt,e60f81c9,FG Kemp,abc9f8a4,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,South Africa,13,CL Tryon,4d4605e6,FG Kemp,abc9f8a4,L Wolvaardt,e60f81c9,0,0,0,0,0,,,,,,4,0,4
+1289265,2022,South Africa,13,CL Tryon,4d4605e6,FG Kemp,abc9f8a4,L Wolvaardt,e60f81c9,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,South Africa,13,L Wolvaardt,e60f81c9,FG Kemp,abc9f8a4,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,South Africa,14,L Wolvaardt,e60f81c9,S Glenn,b34e0c77,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,4,0,4
+1289265,2022,South Africa,14,L Wolvaardt,e60f81c9,S Glenn,b34e0c77,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,South Africa,14,CL Tryon,4d4605e6,S Glenn,b34e0c77,L Wolvaardt,e60f81c9,0,0,0,0,0,,,,,,4,0,4
+1289265,2022,South Africa,14,CL Tryon,4d4605e6,S Glenn,b34e0c77,L Wolvaardt,e60f81c9,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,South Africa,14,L Wolvaardt,e60f81c9,S Glenn,b34e0c77,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,South Africa,14,CL Tryon,4d4605e6,S Glenn,b34e0c77,L Wolvaardt,e60f81c9,0,0,0,0,0,,,,,,4,0,4
+1289265,2022,South Africa,15,L Wolvaardt,e60f81c9,S Ecclestone,cdb82f1c,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,2,0,2
+1289265,2022,South Africa,15,L Wolvaardt,e60f81c9,S Ecclestone,cdb82f1c,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,South Africa,15,CL Tryon,4d4605e6,S Ecclestone,cdb82f1c,L Wolvaardt,e60f81c9,0,0,0,0,0,,,,,,0,0,0
+1289265,2022,South Africa,15,CL Tryon,4d4605e6,S Ecclestone,cdb82f1c,L Wolvaardt,e60f81c9,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,South Africa,15,L Wolvaardt,e60f81c9,S Ecclestone,cdb82f1c,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,2,0,2
+1289265,2022,South Africa,15,L Wolvaardt,e60f81c9,S Ecclestone,cdb82f1c,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,South Africa,16,L Wolvaardt,e60f81c9,KH Brunt,6a434bd3,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,South Africa,16,CL Tryon,4d4605e6,KH Brunt,6a434bd3,L Wolvaardt,e60f81c9,0,0,0,0,0,,,,,,0,0,0
+1289265,2022,South Africa,16,CL Tryon,4d4605e6,KH Brunt,6a434bd3,L Wolvaardt,e60f81c9,0,0,0,0,0,,,,,,0,0,0
+1289265,2022,South Africa,16,CL Tryon,4d4605e6,KH Brunt,6a434bd3,L Wolvaardt,e60f81c9,0,0,0,0,1,CL Tryon,4d4605e6,FG Kemp,abc9f8a4,caught,0,0,0
+1289265,2022,South Africa,16,M du Preez,e219f17a,KH Brunt,6a434bd3,L Wolvaardt,e60f81c9,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,South Africa,16,L Wolvaardt,e60f81c9,KH Brunt,6a434bd3,M du Preez,e219f17a,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,South Africa,17,L Wolvaardt,e60f81c9,NR Sciver,f3a18a0c,M du Preez,e219f17a,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,South Africa,17,M du Preez,e219f17a,NR Sciver,f3a18a0c,L Wolvaardt,e60f81c9,0,0,0,0,1,M du Preez,e219f17a,SIR Dunkley,3a9e9cb2,caught,0,0,0
+1289265,2022,South Africa,17,L Wolvaardt,e60f81c9,NR Sciver,f3a18a0c,S Luus,6d76bc23,0,0,0,0,0,,,,,,4,0,4
+1289265,2022,South Africa,17,L Wolvaardt,e60f81c9,NR Sciver,f3a18a0c,S Luus,6d76bc23,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,South Africa,17,S Luus,6d76bc23,NR Sciver,f3a18a0c,L Wolvaardt,e60f81c9,0,0,0,0,0,,,,,,0,0,0
+1289265,2022,South Africa,17,S Luus,6d76bc23,NR Sciver,f3a18a0c,L Wolvaardt,e60f81c9,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,South Africa,18,S Luus,6d76bc23,S Ecclestone,cdb82f1c,L Wolvaardt,e60f81c9,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,South Africa,18,L Wolvaardt,e60f81c9,S Ecclestone,cdb82f1c,S Luus,6d76bc23,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,South Africa,18,S Luus,6d76bc23,S Ecclestone,cdb82f1c,L Wolvaardt,e60f81c9,0,0,0,0,0,,,,,,0,0,0
+1289265,2022,South Africa,18,S Luus,6d76bc23,S Ecclestone,cdb82f1c,L Wolvaardt,e60f81c9,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,South Africa,18,L Wolvaardt,e60f81c9,S Ecclestone,cdb82f1c,S Luus,6d76bc23,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,South Africa,18,S Luus,6d76bc23,S Ecclestone,cdb82f1c,L Wolvaardt,e60f81c9,0,0,0,0,0,,,,,,0,0,0
+1289265,2022,South Africa,19,L Wolvaardt,e60f81c9,FG Kemp,abc9f8a4,S Luus,6d76bc23,1,0,0,0,0,,,,,,0,1,1
+1289265,2022,South Africa,19,L Wolvaardt,e60f81c9,FG Kemp,abc9f8a4,S Luus,6d76bc23,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,South Africa,19,S Luus,6d76bc23,FG Kemp,abc9f8a4,L Wolvaardt,e60f81c9,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,South Africa,19,L Wolvaardt,e60f81c9,FG Kemp,abc9f8a4,S Luus,6d76bc23,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,South Africa,19,S Luus,6d76bc23,FG Kemp,abc9f8a4,L Wolvaardt,e60f81c9,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,South Africa,19,L Wolvaardt,e60f81c9,FG Kemp,abc9f8a4,S Luus,6d76bc23,0,0,0,0,0,,,,,,1,0,1
+1289265,2022,South Africa,19,S Luus,6d76bc23,FG Kemp,abc9f8a4,L Wolvaardt,e60f81c9,0,0,0,0,0,,,,,,4,0,4

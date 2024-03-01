@@ -1,0 +1,247 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+894293,2015,New Zealand,0,MJ Guptill,2be41edb,P Utseya,9de271ef,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,1,0,1
+894293,2015,New Zealand,0,KS Williamson,d027ba9f,P Utseya,9de271ef,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,0,0,0
+894293,2015,New Zealand,0,KS Williamson,d027ba9f,P Utseya,9de271ef,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,2,0,2
+894293,2015,New Zealand,0,KS Williamson,d027ba9f,P Utseya,9de271ef,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,4,0,4
+894293,2015,New Zealand,0,KS Williamson,d027ba9f,P Utseya,9de271ef,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,4,0,4
+894293,2015,New Zealand,0,KS Williamson,d027ba9f,P Utseya,9de271ef,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,4,0,4
+894293,2015,New Zealand,1,MJ Guptill,2be41edb,T Muzarabani,a945bb28,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,0,0,0
+894293,2015,New Zealand,1,MJ Guptill,2be41edb,T Muzarabani,a945bb28,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,4,0,4
+894293,2015,New Zealand,1,MJ Guptill,2be41edb,T Muzarabani,a945bb28,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,1,0,1
+894293,2015,New Zealand,1,KS Williamson,d027ba9f,T Muzarabani,a945bb28,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,4,0,4
+894293,2015,New Zealand,1,KS Williamson,d027ba9f,T Muzarabani,a945bb28,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,0,0,0
+894293,2015,New Zealand,1,KS Williamson,d027ba9f,T Muzarabani,a945bb28,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,1,0,1
+894293,2015,New Zealand,2,KS Williamson,d027ba9f,CB Mpofu,49691d7a,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,0,0,0
+894293,2015,New Zealand,2,KS Williamson,d027ba9f,CB Mpofu,49691d7a,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,0,0,0
+894293,2015,New Zealand,2,KS Williamson,d027ba9f,CB Mpofu,49691d7a,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,1,0,1
+894293,2015,New Zealand,2,MJ Guptill,2be41edb,CB Mpofu,49691d7a,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,0,0,0
+894293,2015,New Zealand,2,MJ Guptill,2be41edb,CB Mpofu,49691d7a,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,0,0,0
+894293,2015,New Zealand,2,MJ Guptill,2be41edb,CB Mpofu,49691d7a,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,0,0,0
+894293,2015,New Zealand,3,KS Williamson,d027ba9f,T Muzarabani,a945bb28,MJ Guptill,2be41edb,0,0,0,0,1,KS Williamson,d027ba9f,CR Ervine,c96311d4,caught,0,0,0
+894293,2015,New Zealand,3,MJ Guptill,2be41edb,T Muzarabani,a945bb28,GH Worker,51a36d3e,0,0,0,0,0,,,,,,4,0,4
+894293,2015,New Zealand,3,MJ Guptill,2be41edb,T Muzarabani,a945bb28,GH Worker,51a36d3e,0,0,0,0,0,,,,,,0,0,0
+894293,2015,New Zealand,3,MJ Guptill,2be41edb,T Muzarabani,a945bb28,GH Worker,51a36d3e,0,0,0,0,0,,,,,,4,0,4
+894293,2015,New Zealand,3,MJ Guptill,2be41edb,T Muzarabani,a945bb28,GH Worker,51a36d3e,0,0,0,0,0,,,,,,3,0,3
+894293,2015,New Zealand,3,GH Worker,51a36d3e,T Muzarabani,a945bb28,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,0,0,0
+894293,2015,New Zealand,4,MJ Guptill,2be41edb,CB Mpofu,49691d7a,GH Worker,51a36d3e,0,0,0,0,0,,,,,,4,0,4
+894293,2015,New Zealand,4,MJ Guptill,2be41edb,CB Mpofu,49691d7a,GH Worker,51a36d3e,0,0,0,0,0,,,,,,2,0,2
+894293,2015,New Zealand,4,MJ Guptill,2be41edb,CB Mpofu,49691d7a,GH Worker,51a36d3e,0,0,0,0,0,,,,,,0,0,0
+894293,2015,New Zealand,4,MJ Guptill,2be41edb,CB Mpofu,49691d7a,GH Worker,51a36d3e,0,0,0,0,0,,,,,,0,0,0
+894293,2015,New Zealand,4,MJ Guptill,2be41edb,CB Mpofu,49691d7a,GH Worker,51a36d3e,0,0,0,0,0,,,,,,1,0,1
+894293,2015,New Zealand,4,GH Worker,51a36d3e,CB Mpofu,49691d7a,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,0,0,0
+894293,2015,New Zealand,5,MJ Guptill,2be41edb,CJ Chibhabha,f32dbc84,GH Worker,51a36d3e,0,0,4,0,0,,,,,,0,4,4
+894293,2015,New Zealand,5,MJ Guptill,2be41edb,CJ Chibhabha,f32dbc84,GH Worker,51a36d3e,0,0,0,0,0,,,,,,1,0,1
+894293,2015,New Zealand,5,GH Worker,51a36d3e,CJ Chibhabha,f32dbc84,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,0,0,0
+894293,2015,New Zealand,5,GH Worker,51a36d3e,CJ Chibhabha,f32dbc84,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,0,0,0
+894293,2015,New Zealand,5,GH Worker,51a36d3e,CJ Chibhabha,f32dbc84,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,0,0,0
+894293,2015,New Zealand,5,GH Worker,51a36d3e,CJ Chibhabha,f32dbc84,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,0,0,0
+894293,2015,New Zealand,6,MJ Guptill,2be41edb,SC Williams,afe57f7a,GH Worker,51a36d3e,0,0,0,0,0,,,,,,1,0,1
+894293,2015,New Zealand,6,GH Worker,51a36d3e,SC Williams,afe57f7a,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,0,0,0
+894293,2015,New Zealand,6,GH Worker,51a36d3e,SC Williams,afe57f7a,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,4,0,4
+894293,2015,New Zealand,6,GH Worker,51a36d3e,SC Williams,afe57f7a,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,1,0,1
+894293,2015,New Zealand,6,MJ Guptill,2be41edb,SC Williams,afe57f7a,GH Worker,51a36d3e,0,0,0,0,0,,,,,,1,0,1
+894293,2015,New Zealand,6,GH Worker,51a36d3e,SC Williams,afe57f7a,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,0,0,0
+894293,2015,New Zealand,7,MJ Guptill,2be41edb,CJ Chibhabha,f32dbc84,GH Worker,51a36d3e,0,0,0,0,0,,,,,,4,0,4
+894293,2015,New Zealand,7,MJ Guptill,2be41edb,CJ Chibhabha,f32dbc84,GH Worker,51a36d3e,0,0,0,0,0,,,,,,1,0,1
+894293,2015,New Zealand,7,GH Worker,51a36d3e,CJ Chibhabha,f32dbc84,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,0,0,0
+894293,2015,New Zealand,7,GH Worker,51a36d3e,CJ Chibhabha,f32dbc84,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,6,0,6
+894293,2015,New Zealand,7,GH Worker,51a36d3e,CJ Chibhabha,f32dbc84,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,2,0,2
+894293,2015,New Zealand,7,GH Worker,51a36d3e,CJ Chibhabha,f32dbc84,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,4,0,4
+894293,2015,New Zealand,8,MJ Guptill,2be41edb,SC Williams,afe57f7a,GH Worker,51a36d3e,0,0,0,0,0,,,,,,1,0,1
+894293,2015,New Zealand,8,GH Worker,51a36d3e,SC Williams,afe57f7a,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,0,0,0
+894293,2015,New Zealand,8,GH Worker,51a36d3e,SC Williams,afe57f7a,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,1,0,1
+894293,2015,New Zealand,8,MJ Guptill,2be41edb,SC Williams,afe57f7a,GH Worker,51a36d3e,0,0,0,0,1,MJ Guptill,2be41edb,Sikandar Raza,26d041c4,caught,0,0,0
+894293,2015,New Zealand,8,GH Worker,51a36d3e,SC Williams,afe57f7a,GD Elliott,c03449e0,0,0,0,0,0,,,,,,1,0,1
+894293,2015,New Zealand,8,GD Elliott,c03449e0,SC Williams,afe57f7a,GH Worker,51a36d3e,0,0,0,0,0,,,,,,1,0,1
+894293,2015,New Zealand,9,GD Elliott,c03449e0,AG Cremer,9f0270e0,GH Worker,51a36d3e,0,0,0,0,0,,,,,,2,0,2
+894293,2015,New Zealand,9,GD Elliott,c03449e0,AG Cremer,9f0270e0,GH Worker,51a36d3e,0,0,0,0,0,,,,,,1,0,1
+894293,2015,New Zealand,9,GH Worker,51a36d3e,AG Cremer,9f0270e0,GD Elliott,c03449e0,0,0,0,0,0,,,,,,0,0,0
+894293,2015,New Zealand,9,GH Worker,51a36d3e,AG Cremer,9f0270e0,GD Elliott,c03449e0,0,0,0,0,0,,,,,,6,0,6
+894293,2015,New Zealand,9,GH Worker,51a36d3e,AG Cremer,9f0270e0,GD Elliott,c03449e0,0,0,0,0,0,,,,,,0,0,0
+894293,2015,New Zealand,9,GH Worker,51a36d3e,AG Cremer,9f0270e0,GD Elliott,c03449e0,0,0,0,0,0,,,,,,1,0,1
+894293,2015,New Zealand,10,GH Worker,51a36d3e,Sikandar Raza,26d041c4,GD Elliott,c03449e0,0,0,0,0,0,,,,,,1,0,1
+894293,2015,New Zealand,10,GD Elliott,c03449e0,Sikandar Raza,26d041c4,GH Worker,51a36d3e,0,0,0,0,0,,,,,,2,0,2
+894293,2015,New Zealand,10,GD Elliott,c03449e0,Sikandar Raza,26d041c4,GH Worker,51a36d3e,0,0,0,0,0,,,,,,0,0,0
+894293,2015,New Zealand,10,GD Elliott,c03449e0,Sikandar Raza,26d041c4,GH Worker,51a36d3e,0,0,0,0,0,,,,,,1,0,1
+894293,2015,New Zealand,10,GH Worker,51a36d3e,Sikandar Raza,26d041c4,GD Elliott,c03449e0,0,0,0,0,0,,,,,,1,0,1
+894293,2015,New Zealand,10,GD Elliott,c03449e0,Sikandar Raza,26d041c4,GH Worker,51a36d3e,0,0,0,0,0,,,,,,1,0,1
+894293,2015,New Zealand,11,GD Elliott,c03449e0,AG Cremer,9f0270e0,GH Worker,51a36d3e,0,0,0,0,0,,,,,,0,0,0
+894293,2015,New Zealand,11,GD Elliott,c03449e0,AG Cremer,9f0270e0,GH Worker,51a36d3e,0,0,0,0,1,GD Elliott,c03449e0,H Masakadza,31fbf891,caught,0,0,0
+894293,2015,New Zealand,11,GH Worker,51a36d3e,AG Cremer,9f0270e0,L Ronchi,0fa5042b,1,0,0,0,0,,,,,,0,1,1
+894293,2015,New Zealand,11,GH Worker,51a36d3e,AG Cremer,9f0270e0,L Ronchi,0fa5042b,0,0,0,0,0,,,,,,1,0,1
+894293,2015,New Zealand,11,L Ronchi,0fa5042b,AG Cremer,9f0270e0,GH Worker,51a36d3e,0,0,0,0,0,,,,,,1,0,1
+894293,2015,New Zealand,11,GH Worker,51a36d3e,AG Cremer,9f0270e0,L Ronchi,0fa5042b,0,0,0,0,0,,,,,,0,0,0
+894293,2015,New Zealand,11,GH Worker,51a36d3e,AG Cremer,9f0270e0,L Ronchi,0fa5042b,0,0,0,0,0,,,,,,1,0,1
+894293,2015,New Zealand,12,GH Worker,51a36d3e,P Utseya,9de271ef,L Ronchi,0fa5042b,0,0,0,0,0,,,,,,4,0,4
+894293,2015,New Zealand,12,GH Worker,51a36d3e,P Utseya,9de271ef,L Ronchi,0fa5042b,0,0,0,0,0,,,,,,6,0,6
+894293,2015,New Zealand,12,GH Worker,51a36d3e,P Utseya,9de271ef,L Ronchi,0fa5042b,0,0,0,0,0,,,,,,1,0,1
+894293,2015,New Zealand,12,L Ronchi,0fa5042b,P Utseya,9de271ef,GH Worker,51a36d3e,0,0,0,0,0,,,,,,1,0,1
+894293,2015,New Zealand,12,GH Worker,51a36d3e,P Utseya,9de271ef,L Ronchi,0fa5042b,0,0,0,0,0,,,,,,2,0,2
+894293,2015,New Zealand,12,GH Worker,51a36d3e,P Utseya,9de271ef,L Ronchi,0fa5042b,0,0,0,0,0,,,,,,1,0,1
+894293,2015,New Zealand,13,GH Worker,51a36d3e,AG Cremer,9f0270e0,L Ronchi,0fa5042b,0,0,0,0,0,,,,,,1,0,1
+894293,2015,New Zealand,13,L Ronchi,0fa5042b,AG Cremer,9f0270e0,GH Worker,51a36d3e,0,0,0,0,0,,,,,,1,0,1
+894293,2015,New Zealand,13,GH Worker,51a36d3e,AG Cremer,9f0270e0,L Ronchi,0fa5042b,0,0,0,0,0,,,,,,6,0,6
+894293,2015,New Zealand,13,GH Worker,51a36d3e,AG Cremer,9f0270e0,L Ronchi,0fa5042b,0,0,0,0,0,,,,,,1,0,1
+894293,2015,New Zealand,13,L Ronchi,0fa5042b,AG Cremer,9f0270e0,GH Worker,51a36d3e,0,0,0,0,0,,,,,,4,0,4
+894293,2015,New Zealand,13,L Ronchi,0fa5042b,AG Cremer,9f0270e0,GH Worker,51a36d3e,0,0,0,0,0,,,,,,1,0,1
+894293,2015,New Zealand,14,L Ronchi,0fa5042b,Sikandar Raza,26d041c4,GH Worker,51a36d3e,0,0,0,0,0,,,,,,1,0,1
+894293,2015,New Zealand,14,GH Worker,51a36d3e,Sikandar Raza,26d041c4,L Ronchi,0fa5042b,0,0,0,0,0,,,,,,7,0,7
+894293,2015,New Zealand,14,L Ronchi,0fa5042b,Sikandar Raza,26d041c4,GH Worker,51a36d3e,0,0,0,0,0,,,,,,0,0,0
+894293,2015,New Zealand,14,L Ronchi,0fa5042b,Sikandar Raza,26d041c4,GH Worker,51a36d3e,0,0,0,0,0,,,,,,1,0,1
+894293,2015,New Zealand,14,GH Worker,51a36d3e,Sikandar Raza,26d041c4,L Ronchi,0fa5042b,0,0,0,0,0,,,,,,1,0,1
+894293,2015,New Zealand,14,L Ronchi,0fa5042b,Sikandar Raza,26d041c4,GH Worker,51a36d3e,0,0,0,0,0,,,,,,1,0,1
+894293,2015,New Zealand,15,L Ronchi,0fa5042b,SC Williams,afe57f7a,GH Worker,51a36d3e,0,0,0,0,0,,,,,,2,0,2
+894293,2015,New Zealand,15,L Ronchi,0fa5042b,SC Williams,afe57f7a,GH Worker,51a36d3e,0,0,0,0,0,,,,,,1,0,1
+894293,2015,New Zealand,15,GH Worker,51a36d3e,SC Williams,afe57f7a,L Ronchi,0fa5042b,0,0,0,0,0,,,,,,2,0,2
+894293,2015,New Zealand,15,GH Worker,51a36d3e,SC Williams,afe57f7a,L Ronchi,0fa5042b,0,0,0,0,1,GH Worker,51a36d3e,,,bowled,0,0,0
+894293,2015,New Zealand,15,C Munro,af2c687b,SC Williams,afe57f7a,L Ronchi,0fa5042b,0,0,0,0,0,,,,,,0,0,0
+894293,2015,New Zealand,15,C Munro,af2c687b,SC Williams,afe57f7a,L Ronchi,0fa5042b,0,0,0,0,0,,,,,,0,0,0
+894293,2015,New Zealand,16,L Ronchi,0fa5042b,Sikandar Raza,26d041c4,C Munro,af2c687b,0,0,0,0,0,,,,,,4,0,4
+894293,2015,New Zealand,16,L Ronchi,0fa5042b,Sikandar Raza,26d041c4,C Munro,af2c687b,0,0,0,0,0,,,,,,6,0,6
+894293,2015,New Zealand,16,L Ronchi,0fa5042b,Sikandar Raza,26d041c4,C Munro,af2c687b,0,0,0,0,0,,,,,,2,0,2
+894293,2015,New Zealand,16,L Ronchi,0fa5042b,Sikandar Raza,26d041c4,C Munro,af2c687b,0,0,0,0,0,,,,,,2,0,2
+894293,2015,New Zealand,16,L Ronchi,0fa5042b,Sikandar Raza,26d041c4,C Munro,af2c687b,0,0,0,0,0,,,,,,0,0,0
+894293,2015,New Zealand,16,L Ronchi,0fa5042b,Sikandar Raza,26d041c4,C Munro,af2c687b,0,0,0,0,0,,,,,,1,0,1
+894293,2015,New Zealand,17,L Ronchi,0fa5042b,SC Williams,afe57f7a,C Munro,af2c687b,0,0,0,0,0,,,,,,0,0,0
+894293,2015,New Zealand,17,L Ronchi,0fa5042b,SC Williams,afe57f7a,C Munro,af2c687b,0,0,0,0,1,L Ronchi,0fa5042b,CR Ervine,c96311d4,caught,0,0,0
+894293,2015,New Zealand,17,C Munro,af2c687b,SC Williams,afe57f7a,NL McCullum,5673a3fc,0,0,0,0,0,,,,,,1,0,1
+894293,2015,New Zealand,17,NL McCullum,5673a3fc,SC Williams,afe57f7a,C Munro,af2c687b,0,0,0,0,0,,,,,,1,0,1
+894293,2015,New Zealand,17,C Munro,af2c687b,SC Williams,afe57f7a,NL McCullum,5673a3fc,0,0,0,0,0,,,,,,4,0,4
+894293,2015,New Zealand,17,C Munro,af2c687b,SC Williams,afe57f7a,NL McCullum,5673a3fc,0,0,0,0,0,,,,,,6,0,6
+894293,2015,New Zealand,18,NL McCullum,5673a3fc,T Muzarabani,a945bb28,C Munro,af2c687b,0,0,0,0,0,,,,,,1,0,1
+894293,2015,New Zealand,18,C Munro,af2c687b,T Muzarabani,a945bb28,NL McCullum,5673a3fc,0,0,0,0,0,,,,,,2,0,2
+894293,2015,New Zealand,18,C Munro,af2c687b,T Muzarabani,a945bb28,NL McCullum,5673a3fc,0,0,0,0,0,,,,,,1,0,1
+894293,2015,New Zealand,18,NL McCullum,5673a3fc,T Muzarabani,a945bb28,C Munro,af2c687b,0,0,0,0,0,,,,,,1,0,1
+894293,2015,New Zealand,18,C Munro,af2c687b,T Muzarabani,a945bb28,NL McCullum,5673a3fc,0,0,0,0,0,,,,,,4,0,4
+894293,2015,New Zealand,18,C Munro,af2c687b,T Muzarabani,a945bb28,NL McCullum,5673a3fc,0,0,0,0,0,,,,,,4,0,4
+894293,2015,New Zealand,19,NL McCullum,5673a3fc,CB Mpofu,49691d7a,C Munro,af2c687b,0,0,0,0,0,,,,,,4,0,4
+894293,2015,New Zealand,19,NL McCullum,5673a3fc,CB Mpofu,49691d7a,C Munro,af2c687b,0,0,0,0,0,,,,,,6,0,6
+894293,2015,New Zealand,19,NL McCullum,5673a3fc,CB Mpofu,49691d7a,C Munro,af2c687b,0,0,0,0,0,,,,,,4,0,4
+894293,2015,New Zealand,19,NL McCullum,5673a3fc,CB Mpofu,49691d7a,C Munro,af2c687b,0,0,0,0,0,,,,,,1,0,1
+894293,2015,New Zealand,19,C Munro,af2c687b,CB Mpofu,49691d7a,NL McCullum,5673a3fc,0,0,0,0,0,,,,,,0,0,0
+894293,2015,New Zealand,19,C Munro,af2c687b,CB Mpofu,49691d7a,NL McCullum,5673a3fc,0,0,0,0,0,,,,,,1,0,1
+894293,2015,Zimbabwe,0,H Masakadza,31fbf891,AF Milne,350bb1b1,CJ Chibhabha,f32dbc84,0,0,0,0,0,,,,,,0,0,0
+894293,2015,Zimbabwe,0,H Masakadza,31fbf891,AF Milne,350bb1b1,CJ Chibhabha,f32dbc84,0,0,0,0,0,,,,,,0,0,0
+894293,2015,Zimbabwe,0,H Masakadza,31fbf891,AF Milne,350bb1b1,CJ Chibhabha,f32dbc84,0,0,0,0,0,,,,,,0,0,0
+894293,2015,Zimbabwe,0,H Masakadza,31fbf891,AF Milne,350bb1b1,CJ Chibhabha,f32dbc84,0,0,0,0,0,,,,,,0,0,0
+894293,2015,Zimbabwe,0,H Masakadza,31fbf891,AF Milne,350bb1b1,CJ Chibhabha,f32dbc84,0,0,0,0,0,,,,,,1,0,1
+894293,2015,Zimbabwe,0,CJ Chibhabha,f32dbc84,AF Milne,350bb1b1,H Masakadza,31fbf891,0,0,0,0,0,,,,,,0,0,0
+894293,2015,Zimbabwe,1,H Masakadza,31fbf891,MJ McClenaghan,51a3c5ef,CJ Chibhabha,f32dbc84,0,0,0,0,0,,,,,,0,0,0
+894293,2015,Zimbabwe,1,H Masakadza,31fbf891,MJ McClenaghan,51a3c5ef,CJ Chibhabha,f32dbc84,0,0,0,0,0,,,,,,1,0,1
+894293,2015,Zimbabwe,1,CJ Chibhabha,f32dbc84,MJ McClenaghan,51a3c5ef,H Masakadza,31fbf891,0,0,0,0,0,,,,,,0,0,0
+894293,2015,Zimbabwe,1,CJ Chibhabha,f32dbc84,MJ McClenaghan,51a3c5ef,H Masakadza,31fbf891,0,0,0,0,0,,,,,,2,0,2
+894293,2015,Zimbabwe,1,CJ Chibhabha,f32dbc84,MJ McClenaghan,51a3c5ef,H Masakadza,31fbf891,0,0,0,0,0,,,,,,0,0,0
+894293,2015,Zimbabwe,1,CJ Chibhabha,f32dbc84,MJ McClenaghan,51a3c5ef,H Masakadza,31fbf891,0,0,0,0,0,,,,,,4,0,4
+894293,2015,Zimbabwe,2,H Masakadza,31fbf891,AF Milne,350bb1b1,CJ Chibhabha,f32dbc84,0,0,0,0,0,,,,,,0,0,0
+894293,2015,Zimbabwe,2,H Masakadza,31fbf891,AF Milne,350bb1b1,CJ Chibhabha,f32dbc84,0,0,0,0,0,,,,,,4,0,4
+894293,2015,Zimbabwe,2,H Masakadza,31fbf891,AF Milne,350bb1b1,CJ Chibhabha,f32dbc84,0,0,0,0,1,H Masakadza,31fbf891,L Ronchi,0fa5042b,caught,0,0,0
+894293,2015,Zimbabwe,2,CR Ervine,c96311d4,AF Milne,350bb1b1,CJ Chibhabha,f32dbc84,0,0,0,0,0,,,,,,0,0,0
+894293,2015,Zimbabwe,2,CR Ervine,c96311d4,AF Milne,350bb1b1,CJ Chibhabha,f32dbc84,0,0,0,0,0,,,,,,0,0,0
+894293,2015,Zimbabwe,2,CR Ervine,c96311d4,AF Milne,350bb1b1,CJ Chibhabha,f32dbc84,0,0,0,0,0,,,,,,0,0,0
+894293,2015,Zimbabwe,3,CJ Chibhabha,f32dbc84,JDS Neesham,9219eff0,CR Ervine,c96311d4,0,0,0,0,1,CJ Chibhabha,f32dbc84,,,bowled,0,0,0
+894293,2015,Zimbabwe,3,Sikandar Raza,26d041c4,JDS Neesham,9219eff0,CR Ervine,c96311d4,0,0,0,0,0,,,,,,0,0,0
+894293,2015,Zimbabwe,3,Sikandar Raza,26d041c4,JDS Neesham,9219eff0,CR Ervine,c96311d4,0,0,0,0,0,,,,,,0,0,0
+894293,2015,Zimbabwe,3,Sikandar Raza,26d041c4,JDS Neesham,9219eff0,CR Ervine,c96311d4,0,0,0,0,0,,,,,,0,0,0
+894293,2015,Zimbabwe,3,Sikandar Raza,26d041c4,JDS Neesham,9219eff0,CR Ervine,c96311d4,0,0,0,0,0,,,,,,4,0,4
+894293,2015,Zimbabwe,3,Sikandar Raza,26d041c4,JDS Neesham,9219eff0,CR Ervine,c96311d4,0,0,0,0,0,,,,,,0,0,0
+894293,2015,Zimbabwe,4,CR Ervine,c96311d4,AF Milne,350bb1b1,Sikandar Raza,26d041c4,0,0,0,0,0,,,,,,2,0,2
+894293,2015,Zimbabwe,4,CR Ervine,c96311d4,AF Milne,350bb1b1,Sikandar Raza,26d041c4,0,0,0,0,0,,,,,,0,0,0
+894293,2015,Zimbabwe,4,CR Ervine,c96311d4,AF Milne,350bb1b1,Sikandar Raza,26d041c4,0,0,0,0,0,,,,,,0,0,0
+894293,2015,Zimbabwe,4,CR Ervine,c96311d4,AF Milne,350bb1b1,Sikandar Raza,26d041c4,0,0,1,0,0,,,,,,0,1,1
+894293,2015,Zimbabwe,4,Sikandar Raza,26d041c4,AF Milne,350bb1b1,CR Ervine,c96311d4,0,0,0,0,0,,,,,,0,0,0
+894293,2015,Zimbabwe,4,Sikandar Raza,26d041c4,AF Milne,350bb1b1,CR Ervine,c96311d4,0,0,0,0,0,,,,,,0,0,0
+894293,2015,Zimbabwe,5,CR Ervine,c96311d4,MJ McClenaghan,51a3c5ef,Sikandar Raza,26d041c4,0,0,0,0,0,,,,,,1,0,1
+894293,2015,Zimbabwe,5,Sikandar Raza,26d041c4,MJ McClenaghan,51a3c5ef,CR Ervine,c96311d4,0,0,0,0,0,,,,,,0,0,0
+894293,2015,Zimbabwe,5,Sikandar Raza,26d041c4,MJ McClenaghan,51a3c5ef,CR Ervine,c96311d4,1,0,0,0,0,,,,,,0,1,1
+894293,2015,Zimbabwe,5,Sikandar Raza,26d041c4,MJ McClenaghan,51a3c5ef,CR Ervine,c96311d4,0,0,0,0,0,,,,,,4,0,4
+894293,2015,Zimbabwe,5,Sikandar Raza,26d041c4,MJ McClenaghan,51a3c5ef,CR Ervine,c96311d4,0,0,0,0,1,Sikandar Raza,26d041c4,L Ronchi,0fa5042b,caught,0,0,0
+894293,2015,Zimbabwe,5,E Chigumbura,d2babdd5,MJ McClenaghan,51a3c5ef,CR Ervine,c96311d4,1,0,0,0,0,,,,,,0,1,1
+894293,2015,Zimbabwe,5,E Chigumbura,d2babdd5,MJ McClenaghan,51a3c5ef,CR Ervine,c96311d4,0,0,0,0,0,,,,,,1,0,1
+894293,2015,Zimbabwe,5,CR Ervine,c96311d4,MJ McClenaghan,51a3c5ef,E Chigumbura,d2babdd5,0,0,0,0,0,,,,,,1,0,1
+894293,2015,Zimbabwe,6,CR Ervine,c96311d4,NL McCullum,5673a3fc,E Chigumbura,d2babdd5,0,0,0,0,0,,,,,,1,0,1
+894293,2015,Zimbabwe,6,E Chigumbura,d2babdd5,NL McCullum,5673a3fc,CR Ervine,c96311d4,0,0,1,0,0,,,,,,0,1,1
+894293,2015,Zimbabwe,6,CR Ervine,c96311d4,NL McCullum,5673a3fc,E Chigumbura,d2babdd5,0,0,0,0,0,,,,,,1,0,1
+894293,2015,Zimbabwe,6,E Chigumbura,d2babdd5,NL McCullum,5673a3fc,CR Ervine,c96311d4,0,0,0,0,0,,,,,,1,0,1
+894293,2015,Zimbabwe,6,CR Ervine,c96311d4,NL McCullum,5673a3fc,E Chigumbura,d2babdd5,0,0,0,0,0,,,,,,1,0,1
+894293,2015,Zimbabwe,6,E Chigumbura,d2babdd5,NL McCullum,5673a3fc,CR Ervine,c96311d4,1,0,0,0,0,,,,,,0,1,1
+894293,2015,Zimbabwe,6,E Chigumbura,d2babdd5,NL McCullum,5673a3fc,CR Ervine,c96311d4,0,0,0,0,1,E Chigumbura,d2babdd5,JDS Neesham,9219eff0,caught,0,0,0
+894293,2015,Zimbabwe,7,SC Williams,afe57f7a,IS Sodhi,641ac5ff,CR Ervine,c96311d4,0,0,0,0,0,,,,,,1,0,1
+894293,2015,Zimbabwe,7,CR Ervine,c96311d4,IS Sodhi,641ac5ff,SC Williams,afe57f7a,0,0,0,0,0,,,,,,0,0,0
+894293,2015,Zimbabwe,7,CR Ervine,c96311d4,IS Sodhi,641ac5ff,SC Williams,afe57f7a,0,0,0,0,0,,,,,,0,0,0
+894293,2015,Zimbabwe,7,CR Ervine,c96311d4,IS Sodhi,641ac5ff,SC Williams,afe57f7a,0,0,0,0,0,,,,,,1,0,1
+894293,2015,Zimbabwe,7,SC Williams,afe57f7a,IS Sodhi,641ac5ff,CR Ervine,c96311d4,0,0,0,0,0,,,,,,0,0,0
+894293,2015,Zimbabwe,7,SC Williams,afe57f7a,IS Sodhi,641ac5ff,CR Ervine,c96311d4,0,0,0,0,0,,,,,,2,0,2
+894293,2015,Zimbabwe,8,CR Ervine,c96311d4,NL McCullum,5673a3fc,SC Williams,afe57f7a,0,0,0,0,0,,,,,,1,0,1
+894293,2015,Zimbabwe,8,SC Williams,afe57f7a,NL McCullum,5673a3fc,CR Ervine,c96311d4,0,0,0,0,0,,,,,,1,0,1
+894293,2015,Zimbabwe,8,CR Ervine,c96311d4,NL McCullum,5673a3fc,SC Williams,afe57f7a,0,0,0,0,0,,,,,,1,0,1
+894293,2015,Zimbabwe,8,SC Williams,afe57f7a,NL McCullum,5673a3fc,CR Ervine,c96311d4,0,0,0,0,0,,,,,,2,0,2
+894293,2015,Zimbabwe,8,SC Williams,afe57f7a,NL McCullum,5673a3fc,CR Ervine,c96311d4,0,0,0,0,0,,,,,,1,0,1
+894293,2015,Zimbabwe,8,CR Ervine,c96311d4,NL McCullum,5673a3fc,SC Williams,afe57f7a,0,0,0,0,0,,,,,,2,0,2
+894293,2015,Zimbabwe,9,SC Williams,afe57f7a,IS Sodhi,641ac5ff,CR Ervine,c96311d4,0,0,0,0,0,,,,,,2,0,2
+894293,2015,Zimbabwe,9,SC Williams,afe57f7a,IS Sodhi,641ac5ff,CR Ervine,c96311d4,0,0,0,0,0,,,,,,0,0,0
+894293,2015,Zimbabwe,9,SC Williams,afe57f7a,IS Sodhi,641ac5ff,CR Ervine,c96311d4,0,0,0,0,0,,,,,,0,0,0
+894293,2015,Zimbabwe,9,SC Williams,afe57f7a,IS Sodhi,641ac5ff,CR Ervine,c96311d4,0,0,0,0,0,,,,,,1,0,1
+894293,2015,Zimbabwe,9,CR Ervine,c96311d4,IS Sodhi,641ac5ff,SC Williams,afe57f7a,0,0,0,0,0,,,,,,1,0,1
+894293,2015,Zimbabwe,9,SC Williams,afe57f7a,IS Sodhi,641ac5ff,CR Ervine,c96311d4,0,0,0,0,0,,,,,,0,0,0
+894293,2015,Zimbabwe,10,CR Ervine,c96311d4,NL McCullum,5673a3fc,SC Williams,afe57f7a,0,0,0,0,0,,,,,,1,0,1
+894293,2015,Zimbabwe,10,SC Williams,afe57f7a,NL McCullum,5673a3fc,CR Ervine,c96311d4,0,0,0,0,0,,,,,,1,0,1
+894293,2015,Zimbabwe,10,CR Ervine,c96311d4,NL McCullum,5673a3fc,SC Williams,afe57f7a,0,0,0,0,0,,,,,,0,0,0
+894293,2015,Zimbabwe,10,CR Ervine,c96311d4,NL McCullum,5673a3fc,SC Williams,afe57f7a,0,0,0,0,0,,,,,,0,0,0
+894293,2015,Zimbabwe,10,CR Ervine,c96311d4,NL McCullum,5673a3fc,SC Williams,afe57f7a,0,0,0,0,0,,,,,,4,0,4
+894293,2015,Zimbabwe,10,CR Ervine,c96311d4,NL McCullum,5673a3fc,SC Williams,afe57f7a,0,0,0,0,0,,,,,,2,0,2
+894293,2015,Zimbabwe,11,SC Williams,afe57f7a,IS Sodhi,641ac5ff,CR Ervine,c96311d4,0,0,0,0,0,,,,,,1,0,1
+894293,2015,Zimbabwe,11,CR Ervine,c96311d4,IS Sodhi,641ac5ff,SC Williams,afe57f7a,0,0,0,0,0,,,,,,0,0,0
+894293,2015,Zimbabwe,11,CR Ervine,c96311d4,IS Sodhi,641ac5ff,SC Williams,afe57f7a,0,0,0,0,0,,,,,,1,0,1
+894293,2015,Zimbabwe,11,SC Williams,afe57f7a,IS Sodhi,641ac5ff,CR Ervine,c96311d4,0,0,0,0,0,,,,,,4,0,4
+894293,2015,Zimbabwe,11,SC Williams,afe57f7a,IS Sodhi,641ac5ff,CR Ervine,c96311d4,0,0,0,0,1,SC Williams,afe57f7a,,,caught and bowled,0,0,0
+894293,2015,Zimbabwe,11,RW Chakabva,2f0d7e4a,IS Sodhi,641ac5ff,CR Ervine,c96311d4,0,0,0,0,0,,,,,,0,0,0
+894293,2015,Zimbabwe,12,CR Ervine,c96311d4,NL McCullum,5673a3fc,RW Chakabva,2f0d7e4a,0,0,0,0,0,,,,,,0,0,0
+894293,2015,Zimbabwe,12,CR Ervine,c96311d4,NL McCullum,5673a3fc,RW Chakabva,2f0d7e4a,0,0,0,0,0,,,,,,1,0,1
+894293,2015,Zimbabwe,12,RW Chakabva,2f0d7e4a,NL McCullum,5673a3fc,CR Ervine,c96311d4,0,0,0,0,0,,,,,,1,0,1
+894293,2015,Zimbabwe,12,CR Ervine,c96311d4,NL McCullum,5673a3fc,RW Chakabva,2f0d7e4a,0,0,0,0,0,,,,,,1,0,1
+894293,2015,Zimbabwe,12,RW Chakabva,2f0d7e4a,NL McCullum,5673a3fc,CR Ervine,c96311d4,0,0,0,0,0,,,,,,1,0,1
+894293,2015,Zimbabwe,12,CR Ervine,c96311d4,NL McCullum,5673a3fc,RW Chakabva,2f0d7e4a,0,0,0,0,0,,,,,,0,0,0
+894293,2015,Zimbabwe,13,RW Chakabva,2f0d7e4a,JDS Neesham,9219eff0,CR Ervine,c96311d4,0,0,0,0,0,,,,,,0,0,0
+894293,2015,Zimbabwe,13,RW Chakabva,2f0d7e4a,JDS Neesham,9219eff0,CR Ervine,c96311d4,0,0,0,0,0,,,,,,0,0,0
+894293,2015,Zimbabwe,13,RW Chakabva,2f0d7e4a,JDS Neesham,9219eff0,CR Ervine,c96311d4,1,0,0,0,0,,,,,,0,1,1
+894293,2015,Zimbabwe,13,RW Chakabva,2f0d7e4a,JDS Neesham,9219eff0,CR Ervine,c96311d4,0,0,0,0,0,,,,,,1,0,1
+894293,2015,Zimbabwe,13,CR Ervine,c96311d4,JDS Neesham,9219eff0,RW Chakabva,2f0d7e4a,0,0,0,0,0,,,,,,1,0,1
+894293,2015,Zimbabwe,13,RW Chakabva,2f0d7e4a,JDS Neesham,9219eff0,CR Ervine,c96311d4,1,0,0,0,0,,,,,,0,1,1
+894293,2015,Zimbabwe,13,RW Chakabva,2f0d7e4a,JDS Neesham,9219eff0,CR Ervine,c96311d4,0,0,0,0,0,,,,,,1,0,1
+894293,2015,Zimbabwe,13,CR Ervine,c96311d4,JDS Neesham,9219eff0,RW Chakabva,2f0d7e4a,0,0,0,0,0,,,,,,0,0,0
+894293,2015,Zimbabwe,14,RW Chakabva,2f0d7e4a,MJ McClenaghan,51a3c5ef,CR Ervine,c96311d4,0,0,0,0,0,,,,,,1,0,1
+894293,2015,Zimbabwe,14,CR Ervine,c96311d4,MJ McClenaghan,51a3c5ef,RW Chakabva,2f0d7e4a,0,0,0,0,0,,,,,,4,0,4
+894293,2015,Zimbabwe,14,CR Ervine,c96311d4,MJ McClenaghan,51a3c5ef,RW Chakabva,2f0d7e4a,0,0,0,0,0,,,,,,1,0,1
+894293,2015,Zimbabwe,14,RW Chakabva,2f0d7e4a,MJ McClenaghan,51a3c5ef,CR Ervine,c96311d4,0,0,0,0,0,,,,,,0,0,0
+894293,2015,Zimbabwe,14,RW Chakabva,2f0d7e4a,MJ McClenaghan,51a3c5ef,CR Ervine,c96311d4,0,0,0,0,0,,,,,,4,0,4
+894293,2015,Zimbabwe,14,RW Chakabva,2f0d7e4a,MJ McClenaghan,51a3c5ef,CR Ervine,c96311d4,0,0,0,0,0,,,,,,1,0,1
+894293,2015,Zimbabwe,15,RW Chakabva,2f0d7e4a,IS Sodhi,641ac5ff,CR Ervine,c96311d4,0,0,0,0,0,,,,,,1,0,1
+894293,2015,Zimbabwe,15,CR Ervine,c96311d4,IS Sodhi,641ac5ff,RW Chakabva,2f0d7e4a,0,0,0,0,0,,,,,,0,0,0
+894293,2015,Zimbabwe,15,CR Ervine,c96311d4,IS Sodhi,641ac5ff,RW Chakabva,2f0d7e4a,0,0,0,1,0,,,,,,0,1,1
+894293,2015,Zimbabwe,15,RW Chakabva,2f0d7e4a,IS Sodhi,641ac5ff,CR Ervine,c96311d4,0,0,0,0,0,,,,,,0,0,0
+894293,2015,Zimbabwe,15,RW Chakabva,2f0d7e4a,IS Sodhi,641ac5ff,CR Ervine,c96311d4,0,0,0,0,0,,,,,,0,0,0
+894293,2015,Zimbabwe,15,RW Chakabva,2f0d7e4a,IS Sodhi,641ac5ff,CR Ervine,c96311d4,0,0,0,0,0,,,,,,0,0,0
+894293,2015,Zimbabwe,16,CR Ervine,c96311d4,AF Milne,350bb1b1,RW Chakabva,2f0d7e4a,0,0,0,0,0,,,,,,1,0,1
+894293,2015,Zimbabwe,16,RW Chakabva,2f0d7e4a,AF Milne,350bb1b1,CR Ervine,c96311d4,0,0,0,0,0,,,,,,2,0,2
+894293,2015,Zimbabwe,16,RW Chakabva,2f0d7e4a,AF Milne,350bb1b1,CR Ervine,c96311d4,0,0,0,0,1,RW Chakabva,2f0d7e4a,L Ronchi,0fa5042b,caught,0,0,0
+894293,2015,Zimbabwe,16,AG Cremer,9f0270e0,AF Milne,350bb1b1,CR Ervine,c96311d4,0,0,0,0,0,,,,,,0,0,0
+894293,2015,Zimbabwe,16,AG Cremer,9f0270e0,AF Milne,350bb1b1,CR Ervine,c96311d4,0,0,0,0,0,,,,,,0,0,0
+894293,2015,Zimbabwe,16,AG Cremer,9f0270e0,AF Milne,350bb1b1,CR Ervine,c96311d4,0,0,0,0,0,,,,,,0,0,0
+894293,2015,Zimbabwe,17,CR Ervine,c96311d4,JDS Neesham,9219eff0,AG Cremer,9f0270e0,0,0,0,0,0,,,,,,4,0,4
+894293,2015,Zimbabwe,17,CR Ervine,c96311d4,JDS Neesham,9219eff0,AG Cremer,9f0270e0,0,0,0,0,0,,,,,,1,0,1
+894293,2015,Zimbabwe,17,AG Cremer,9f0270e0,JDS Neesham,9219eff0,CR Ervine,c96311d4,0,0,0,0,0,,,,,,2,0,2
+894293,2015,Zimbabwe,17,AG Cremer,9f0270e0,JDS Neesham,9219eff0,CR Ervine,c96311d4,0,0,0,0,0,,,,,,2,0,2
+894293,2015,Zimbabwe,17,AG Cremer,9f0270e0,JDS Neesham,9219eff0,CR Ervine,c96311d4,0,0,0,0,0,,,,,,1,0,1
+894293,2015,Zimbabwe,17,CR Ervine,c96311d4,JDS Neesham,9219eff0,AG Cremer,9f0270e0,0,0,0,0,0,,,,,,2,0,2
+894293,2015,Zimbabwe,18,AG Cremer,9f0270e0,MJ McClenaghan,51a3c5ef,CR Ervine,c96311d4,0,0,0,0,1,AG Cremer,9f0270e0,JDS Neesham,9219eff0,caught,0,0,0
+894293,2015,Zimbabwe,18,CR Ervine,c96311d4,MJ McClenaghan,51a3c5ef,P Utseya,9de271ef,0,0,0,0,0,,,,,,0,0,0
+894293,2015,Zimbabwe,18,CR Ervine,c96311d4,MJ McClenaghan,51a3c5ef,P Utseya,9de271ef,0,0,0,0,0,,,,,,1,0,1
+894293,2015,Zimbabwe,18,P Utseya,9de271ef,MJ McClenaghan,51a3c5ef,CR Ervine,c96311d4,0,0,0,0,0,,,,,,1,0,1
+894293,2015,Zimbabwe,18,CR Ervine,c96311d4,MJ McClenaghan,51a3c5ef,P Utseya,9de271ef,0,0,0,0,0,,,,,,0,0,0
+894293,2015,Zimbabwe,18,CR Ervine,c96311d4,MJ McClenaghan,51a3c5ef,P Utseya,9de271ef,0,0,0,0,0,,,,,,4,0,4
+894293,2015,Zimbabwe,19,P Utseya,9de271ef,GD Elliott,c03449e0,CR Ervine,c96311d4,0,0,0,0,0,,,,,,1,0,1
+894293,2015,Zimbabwe,19,CR Ervine,c96311d4,GD Elliott,c03449e0,P Utseya,9de271ef,0,0,0,0,0,,,,,,0,0,0
+894293,2015,Zimbabwe,19,CR Ervine,c96311d4,GD Elliott,c03449e0,P Utseya,9de271ef,0,0,0,0,1,CR Ervine,c96311d4,,,bowled,0,0,0
+894293,2015,Zimbabwe,19,CB Mpofu,49691d7a,GD Elliott,c03449e0,P Utseya,9de271ef,0,0,0,4,0,,,,,,0,4,4
+894293,2015,Zimbabwe,19,CB Mpofu,49691d7a,GD Elliott,c03449e0,P Utseya,9de271ef,0,0,0,0,0,,,,,,0,0,0
+894293,2015,Zimbabwe,19,CB Mpofu,49691d7a,GD Elliott,c03449e0,P Utseya,9de271ef,0,0,0,0,0,,,,,,6,0,6

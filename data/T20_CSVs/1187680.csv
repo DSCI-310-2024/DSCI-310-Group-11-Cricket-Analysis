@@ -1,0 +1,262 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1187680,2019/20,India,0,KL Rahul,b17e2f24,TG Southee,13c35c9e,SV Samson,a4cc73aa,1,0,0,0,0,,,,,,0,1,1
+1187680,2019/20,India,0,KL Rahul,b17e2f24,TG Southee,13c35c9e,SV Samson,a4cc73aa,0,0,0,0,0,,,,,,2,0,2
+1187680,2019/20,India,0,KL Rahul,b17e2f24,TG Southee,13c35c9e,SV Samson,a4cc73aa,0,0,0,0,0,,,,,,1,0,1
+1187680,2019/20,India,0,SV Samson,a4cc73aa,TG Southee,13c35c9e,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,1,0,1
+1187680,2019/20,India,0,KL Rahul,b17e2f24,TG Southee,13c35c9e,SV Samson,a4cc73aa,0,0,0,0,0,,,,,,0,0,0
+1187680,2019/20,India,0,KL Rahul,b17e2f24,TG Southee,13c35c9e,SV Samson,a4cc73aa,0,0,0,0,0,,,,,,1,0,1
+1187680,2019/20,India,0,SV Samson,a4cc73aa,TG Southee,13c35c9e,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,1,0,1
+1187680,2019/20,India,1,SV Samson,a4cc73aa,SC Kuggeleijn,fef92afc,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,6,0,6
+1187680,2019/20,India,1,SV Samson,a4cc73aa,SC Kuggeleijn,fef92afc,KL Rahul,b17e2f24,1,0,0,0,0,,,,,,0,1,1
+1187680,2019/20,India,1,SV Samson,a4cc73aa,SC Kuggeleijn,fef92afc,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,0,0,0
+1187680,2019/20,India,1,SV Samson,a4cc73aa,SC Kuggeleijn,fef92afc,KL Rahul,b17e2f24,0,0,0,0,1,SV Samson,a4cc73aa,MJ Santner,e4a0deae,caught,0,0,0
+1187680,2019/20,India,1,KL Rahul,b17e2f24,SC Kuggeleijn,fef92afc,V Kohli,ba607b88,0,0,0,0,0,,,,,,0,0,0
+1187680,2019/20,India,1,KL Rahul,b17e2f24,SC Kuggeleijn,fef92afc,V Kohli,ba607b88,0,1,0,0,0,,,,,,0,1,1
+1187680,2019/20,India,1,KL Rahul,b17e2f24,SC Kuggeleijn,fef92afc,V Kohli,ba607b88,1,0,0,0,0,,,,,,0,1,1
+1187680,2019/20,India,1,KL Rahul,b17e2f24,SC Kuggeleijn,fef92afc,V Kohli,ba607b88,0,0,0,0,0,,,,,,6,0,6
+1187680,2019/20,India,1,KL Rahul,b17e2f24,SC Kuggeleijn,fef92afc,V Kohli,ba607b88,0,0,0,0,0,,,,,,0,0,0
+1187680,2019/20,India,2,V Kohli,ba607b88,MJ Santner,e4a0deae,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,1,0,1
+1187680,2019/20,India,2,KL Rahul,b17e2f24,MJ Santner,e4a0deae,V Kohli,ba607b88,0,0,0,0,0,,,,,,1,0,1
+1187680,2019/20,India,2,V Kohli,ba607b88,MJ Santner,e4a0deae,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,0,0,0
+1187680,2019/20,India,2,V Kohli,ba607b88,MJ Santner,e4a0deae,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,1,0,1
+1187680,2019/20,India,2,KL Rahul,b17e2f24,MJ Santner,e4a0deae,V Kohli,ba607b88,0,0,0,0,0,,,,,,6,0,6
+1187680,2019/20,India,2,KL Rahul,b17e2f24,MJ Santner,e4a0deae,V Kohli,ba607b88,0,0,0,0,0,,,,,,4,0,4
+1187680,2019/20,India,3,V Kohli,ba607b88,TG Southee,13c35c9e,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,0,0,0
+1187680,2019/20,India,3,V Kohli,ba607b88,TG Southee,13c35c9e,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,1,0,1
+1187680,2019/20,India,3,KL Rahul,b17e2f24,TG Southee,13c35c9e,V Kohli,ba607b88,0,0,0,0,0,,,,,,2,0,2
+1187680,2019/20,India,3,KL Rahul,b17e2f24,TG Southee,13c35c9e,V Kohli,ba607b88,0,0,0,0,0,,,,,,1,0,1
+1187680,2019/20,India,3,V Kohli,ba607b88,TG Southee,13c35c9e,KL Rahul,b17e2f24,0,0,1,0,0,,,,,,0,1,1
+1187680,2019/20,India,3,KL Rahul,b17e2f24,TG Southee,13c35c9e,V Kohli,ba607b88,0,0,0,0,0,,,,,,0,0,0
+1187680,2019/20,India,4,V Kohli,ba607b88,HK Bennett,94238673,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,4,0,4
+1187680,2019/20,India,4,V Kohli,ba607b88,HK Bennett,94238673,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,4,0,4
+1187680,2019/20,India,4,V Kohli,ba607b88,HK Bennett,94238673,KL Rahul,b17e2f24,0,0,0,0,1,V Kohli,ba607b88,MJ Santner,e4a0deae,caught,0,0,0
+1187680,2019/20,India,4,SS Iyer,85ec8e33,HK Bennett,94238673,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,1,0,1
+1187680,2019/20,India,4,KL Rahul,b17e2f24,HK Bennett,94238673,SS Iyer,85ec8e33,0,0,0,0,0,,,,,,1,0,1
+1187680,2019/20,India,4,SS Iyer,85ec8e33,HK Bennett,94238673,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,0,0,0
+1187680,2019/20,India,5,KL Rahul,b17e2f24,SC Kuggeleijn,fef92afc,SS Iyer,85ec8e33,0,0,0,0,0,,,,,,0,0,0
+1187680,2019/20,India,5,KL Rahul,b17e2f24,SC Kuggeleijn,fef92afc,SS Iyer,85ec8e33,0,0,0,0,0,,,,,,0,0,0
+1187680,2019/20,India,5,KL Rahul,b17e2f24,SC Kuggeleijn,fef92afc,SS Iyer,85ec8e33,0,0,0,0,0,,,,,,1,0,1
+1187680,2019/20,India,5,SS Iyer,85ec8e33,SC Kuggeleijn,fef92afc,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,0,0,0
+1187680,2019/20,India,5,SS Iyer,85ec8e33,SC Kuggeleijn,fef92afc,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,0,0,0
+1187680,2019/20,India,5,SS Iyer,85ec8e33,SC Kuggeleijn,fef92afc,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,0,0,0
+1187680,2019/20,India,6,KL Rahul,b17e2f24,IS Sodhi,641ac5ff,SS Iyer,85ec8e33,0,0,0,0,0,,,,,,1,0,1
+1187680,2019/20,India,6,SS Iyer,85ec8e33,IS Sodhi,641ac5ff,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,0,0,0
+1187680,2019/20,India,6,SS Iyer,85ec8e33,IS Sodhi,641ac5ff,KL Rahul,b17e2f24,0,0,0,0,1,SS Iyer,85ec8e33,TL Seifert,4663bd23,caught,0,0,0
+1187680,2019/20,India,6,S Dube,a4e37e47,IS Sodhi,641ac5ff,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,1,0,1
+1187680,2019/20,India,6,KL Rahul,b17e2f24,IS Sodhi,641ac5ff,S Dube,a4e37e47,0,0,0,0,0,,,,,,2,0,2
+1187680,2019/20,India,6,KL Rahul,b17e2f24,IS Sodhi,641ac5ff,S Dube,a4e37e47,0,0,0,0,0,,,,,,0,0,0
+1187680,2019/20,India,7,S Dube,a4e37e47,SC Kuggeleijn,fef92afc,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,1,0,1
+1187680,2019/20,India,7,KL Rahul,b17e2f24,SC Kuggeleijn,fef92afc,S Dube,a4e37e47,0,0,0,0,0,,,,,,4,0,4
+1187680,2019/20,India,7,KL Rahul,b17e2f24,SC Kuggeleijn,fef92afc,S Dube,a4e37e47,0,0,0,0,0,,,,,,1,0,1
+1187680,2019/20,India,7,S Dube,a4e37e47,SC Kuggeleijn,fef92afc,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,4,0,4
+1187680,2019/20,India,7,S Dube,a4e37e47,SC Kuggeleijn,fef92afc,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,0,0,0
+1187680,2019/20,India,7,S Dube,a4e37e47,SC Kuggeleijn,fef92afc,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,4,0,4
+1187680,2019/20,India,8,KL Rahul,b17e2f24,IS Sodhi,641ac5ff,S Dube,a4e37e47,0,0,0,0,0,,,,,,4,0,4
+1187680,2019/20,India,8,KL Rahul,b17e2f24,IS Sodhi,641ac5ff,S Dube,a4e37e47,0,0,0,0,0,,,,,,1,0,1
+1187680,2019/20,India,8,S Dube,a4e37e47,IS Sodhi,641ac5ff,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,1,0,1
+1187680,2019/20,India,8,KL Rahul,b17e2f24,IS Sodhi,641ac5ff,S Dube,a4e37e47,0,0,0,0,1,KL Rahul,b17e2f24,MJ Santner,e4a0deae,caught,0,0,0
+1187680,2019/20,India,8,MK Pandey,93b4fc78,IS Sodhi,641ac5ff,S Dube,a4e37e47,0,0,0,0,0,,,,,,2,0,2
+1187680,2019/20,India,8,MK Pandey,93b4fc78,IS Sodhi,641ac5ff,S Dube,a4e37e47,0,0,0,0,0,,,,,,1,0,1
+1187680,2019/20,India,9,MK Pandey,93b4fc78,MJ Santner,e4a0deae,S Dube,a4e37e47,0,0,0,0,0,,,,,,1,0,1
+1187680,2019/20,India,9,S Dube,a4e37e47,MJ Santner,e4a0deae,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,0,0,0
+1187680,2019/20,India,9,S Dube,a4e37e47,MJ Santner,e4a0deae,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,1,0,1
+1187680,2019/20,India,9,MK Pandey,93b4fc78,MJ Santner,e4a0deae,S Dube,a4e37e47,0,0,0,0,0,,,,,,0,0,0
+1187680,2019/20,India,9,MK Pandey,93b4fc78,MJ Santner,e4a0deae,S Dube,a4e37e47,0,0,0,0,0,,,,,,0,0,0
+1187680,2019/20,India,9,MK Pandey,93b4fc78,MJ Santner,e4a0deae,S Dube,a4e37e47,0,0,0,0,0,,,,,,3,0,3
+1187680,2019/20,India,10,MK Pandey,93b4fc78,IS Sodhi,641ac5ff,S Dube,a4e37e47,0,0,0,0,0,,,,,,1,0,1
+1187680,2019/20,India,10,S Dube,a4e37e47,IS Sodhi,641ac5ff,MK Pandey,93b4fc78,0,0,0,0,1,S Dube,a4e37e47,TC Bruce,f92c9151,caught,0,0,0
+1187680,2019/20,India,10,MK Pandey,93b4fc78,IS Sodhi,641ac5ff,Washington Sundar,f19ccfad,0,0,0,0,0,,,,,,2,0,2
+1187680,2019/20,India,10,MK Pandey,93b4fc78,IS Sodhi,641ac5ff,Washington Sundar,f19ccfad,0,0,0,0,0,,,,,,0,0,0
+1187680,2019/20,India,10,MK Pandey,93b4fc78,IS Sodhi,641ac5ff,Washington Sundar,f19ccfad,0,0,0,0,0,,,,,,1,0,1
+1187680,2019/20,India,10,Washington Sundar,f19ccfad,IS Sodhi,641ac5ff,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,0,0,0
+1187680,2019/20,India,11,MK Pandey,93b4fc78,MJ Santner,e4a0deae,Washington Sundar,f19ccfad,0,0,0,0,0,,,,,,1,0,1
+1187680,2019/20,India,11,Washington Sundar,f19ccfad,MJ Santner,e4a0deae,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,0,0,0
+1187680,2019/20,India,11,Washington Sundar,f19ccfad,MJ Santner,e4a0deae,MK Pandey,93b4fc78,0,0,0,0,1,Washington Sundar,f19ccfad,,,bowled,0,0,0
+1187680,2019/20,India,11,SN Thakur,1abb78f8,MJ Santner,e4a0deae,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,0,0,0
+1187680,2019/20,India,11,SN Thakur,1abb78f8,MJ Santner,e4a0deae,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,0,0,0
+1187680,2019/20,India,11,SN Thakur,1abb78f8,MJ Santner,e4a0deae,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,0,0,0
+1187680,2019/20,India,12,MK Pandey,93b4fc78,IS Sodhi,641ac5ff,SN Thakur,1abb78f8,0,0,0,0,0,,,,,,1,0,1
+1187680,2019/20,India,12,SN Thakur,1abb78f8,IS Sodhi,641ac5ff,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,0,0,0
+1187680,2019/20,India,12,SN Thakur,1abb78f8,IS Sodhi,641ac5ff,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,1,0,1
+1187680,2019/20,India,12,MK Pandey,93b4fc78,IS Sodhi,641ac5ff,SN Thakur,1abb78f8,0,0,0,0,0,,,,,,1,0,1
+1187680,2019/20,India,12,SN Thakur,1abb78f8,IS Sodhi,641ac5ff,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,2,0,2
+1187680,2019/20,India,12,SN Thakur,1abb78f8,IS Sodhi,641ac5ff,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,4,0,4
+1187680,2019/20,India,13,MK Pandey,93b4fc78,MJ Santner,e4a0deae,SN Thakur,1abb78f8,0,0,0,0,0,,,,,,3,0,3
+1187680,2019/20,India,13,SN Thakur,1abb78f8,MJ Santner,e4a0deae,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,1,0,1
+1187680,2019/20,India,13,MK Pandey,93b4fc78,MJ Santner,e4a0deae,SN Thakur,1abb78f8,0,0,0,0,0,,,,,,0,0,0
+1187680,2019/20,India,13,MK Pandey,93b4fc78,MJ Santner,e4a0deae,SN Thakur,1abb78f8,0,0,0,0,0,,,,,,0,0,0
+1187680,2019/20,India,13,MK Pandey,93b4fc78,MJ Santner,e4a0deae,SN Thakur,1abb78f8,0,0,0,0,0,,,,,,1,0,1
+1187680,2019/20,India,13,SN Thakur,1abb78f8,MJ Santner,e4a0deae,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,2,0,2
+1187680,2019/20,India,14,MK Pandey,93b4fc78,HK Bennett,94238673,SN Thakur,1abb78f8,0,0,0,0,0,,,,,,1,0,1
+1187680,2019/20,India,14,SN Thakur,1abb78f8,HK Bennett,94238673,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,1,0,1
+1187680,2019/20,India,14,MK Pandey,93b4fc78,HK Bennett,94238673,SN Thakur,1abb78f8,0,0,0,0,0,,,,,,2,0,2
+1187680,2019/20,India,14,MK Pandey,93b4fc78,HK Bennett,94238673,SN Thakur,1abb78f8,0,0,0,0,0,,,,,,0,0,0
+1187680,2019/20,India,14,MK Pandey,93b4fc78,HK Bennett,94238673,SN Thakur,1abb78f8,0,0,0,0,0,,,,,,2,0,2
+1187680,2019/20,India,14,MK Pandey,93b4fc78,HK Bennett,94238673,SN Thakur,1abb78f8,1,0,0,0,0,,,,,,0,1,1
+1187680,2019/20,India,14,MK Pandey,93b4fc78,HK Bennett,94238673,SN Thakur,1abb78f8,0,0,0,0,0,,,,,,1,0,1
+1187680,2019/20,India,15,MK Pandey,93b4fc78,TG Southee,13c35c9e,SN Thakur,1abb78f8,0,0,0,0,0,,,,,,1,0,1
+1187680,2019/20,India,15,SN Thakur,1abb78f8,TG Southee,13c35c9e,MK Pandey,93b4fc78,0,0,1,0,0,,,,,,0,1,1
+1187680,2019/20,India,15,MK Pandey,93b4fc78,TG Southee,13c35c9e,SN Thakur,1abb78f8,0,0,0,0,0,,,,,,4,0,4
+1187680,2019/20,India,15,MK Pandey,93b4fc78,TG Southee,13c35c9e,SN Thakur,1abb78f8,0,0,0,0,0,,,,,,2,0,2
+1187680,2019/20,India,15,MK Pandey,93b4fc78,TG Southee,13c35c9e,SN Thakur,1abb78f8,1,0,0,0,0,,,,,,0,1,1
+1187680,2019/20,India,15,MK Pandey,93b4fc78,TG Southee,13c35c9e,SN Thakur,1abb78f8,0,0,1,0,0,,,,,,0,1,1
+1187680,2019/20,India,15,SN Thakur,1abb78f8,TG Southee,13c35c9e,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,3,0,3
+1187680,2019/20,India,16,SN Thakur,1abb78f8,HK Bennett,94238673,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,4,0,4
+1187680,2019/20,India,16,SN Thakur,1abb78f8,HK Bennett,94238673,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,2,0,2
+1187680,2019/20,India,16,SN Thakur,1abb78f8,HK Bennett,94238673,MK Pandey,93b4fc78,0,0,0,0,1,SN Thakur,1abb78f8,TG Southee,13c35c9e,caught,0,0,0
+1187680,2019/20,India,16,MK Pandey,93b4fc78,HK Bennett,94238673,YS Chahal,57ee1fde,0,0,0,0,0,,,,,,4,0,4
+1187680,2019/20,India,16,MK Pandey,93b4fc78,HK Bennett,94238673,YS Chahal,57ee1fde,0,0,0,0,0,,,,,,2,0,2
+1187680,2019/20,India,16,MK Pandey,93b4fc78,HK Bennett,94238673,YS Chahal,57ee1fde,0,0,0,0,0,,,,,,1,0,1
+1187680,2019/20,India,17,MK Pandey,93b4fc78,TG Southee,13c35c9e,YS Chahal,57ee1fde,0,0,0,0,0,,,,,,1,0,1
+1187680,2019/20,India,17,YS Chahal,57ee1fde,TG Southee,13c35c9e,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,1,0,1
+1187680,2019/20,India,17,MK Pandey,93b4fc78,TG Southee,13c35c9e,YS Chahal,57ee1fde,0,0,0,0,0,,,,,,2,0,2
+1187680,2019/20,India,17,MK Pandey,93b4fc78,TG Southee,13c35c9e,YS Chahal,57ee1fde,0,0,0,0,0,,,,,,1,0,1
+1187680,2019/20,India,17,YS Chahal,57ee1fde,TG Southee,13c35c9e,MK Pandey,93b4fc78,0,0,0,0,1,YS Chahal,57ee1fde,TL Seifert,4663bd23,caught,0,0,0
+1187680,2019/20,India,17,Navdeep Saini,21d4e29b,TG Southee,13c35c9e,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,1,0,1
+1187680,2019/20,India,18,Navdeep Saini,21d4e29b,HK Bennett,94238673,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,0,0,0
+1187680,2019/20,India,18,Navdeep Saini,21d4e29b,HK Bennett,94238673,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,0,0,0
+1187680,2019/20,India,18,Navdeep Saini,21d4e29b,HK Bennett,94238673,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,4,0,4
+1187680,2019/20,India,18,Navdeep Saini,21d4e29b,HK Bennett,94238673,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,0,0,0
+1187680,2019/20,India,18,Navdeep Saini,21d4e29b,HK Bennett,94238673,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,4,0,4
+1187680,2019/20,India,18,Navdeep Saini,21d4e29b,HK Bennett,94238673,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,2,0,2
+1187680,2019/20,India,19,MK Pandey,93b4fc78,SC Kuggeleijn,fef92afc,Navdeep Saini,21d4e29b,0,0,0,0,0,,,,,,4,0,4
+1187680,2019/20,India,19,MK Pandey,93b4fc78,SC Kuggeleijn,fef92afc,Navdeep Saini,21d4e29b,0,0,0,0,0,,,,,,1,0,1
+1187680,2019/20,India,19,Navdeep Saini,21d4e29b,SC Kuggeleijn,fef92afc,MK Pandey,93b4fc78,0,0,0,1,0,,,,,,0,1,1
+1187680,2019/20,India,19,MK Pandey,93b4fc78,SC Kuggeleijn,fef92afc,Navdeep Saini,21d4e29b,1,0,0,0,0,,,,,,0,1,1
+1187680,2019/20,India,19,MK Pandey,93b4fc78,SC Kuggeleijn,fef92afc,Navdeep Saini,21d4e29b,0,0,0,0,0,,,,,,2,0,2
+1187680,2019/20,India,19,MK Pandey,93b4fc78,SC Kuggeleijn,fef92afc,Navdeep Saini,21d4e29b,0,0,0,0,0,,,,,,1,0,1
+1187680,2019/20,India,19,Navdeep Saini,21d4e29b,SC Kuggeleijn,fef92afc,MK Pandey,93b4fc78,0,0,0,1,0,,,,,,0,1,1
+1187680,2019/20,New Zealand,0,MJ Guptill,2be41edb,SN Thakur,1abb78f8,C Munro,af2c687b,0,0,0,0,0,,,,,,1,0,1
+1187680,2019/20,New Zealand,0,C Munro,af2c687b,SN Thakur,1abb78f8,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,0,0,0
+1187680,2019/20,New Zealand,0,C Munro,af2c687b,SN Thakur,1abb78f8,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,1,0,1
+1187680,2019/20,New Zealand,0,MJ Guptill,2be41edb,SN Thakur,1abb78f8,C Munro,af2c687b,0,0,0,0,0,,,,,,0,0,0
+1187680,2019/20,New Zealand,0,MJ Guptill,2be41edb,SN Thakur,1abb78f8,C Munro,af2c687b,0,0,0,0,0,,,,,,1,0,1
+1187680,2019/20,New Zealand,0,C Munro,af2c687b,SN Thakur,1abb78f8,MJ Guptill,2be41edb,0,0,1,0,0,,,,,,0,1,1
+1187680,2019/20,New Zealand,1,C Munro,af2c687b,Navdeep Saini,21d4e29b,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,0,0,0
+1187680,2019/20,New Zealand,1,C Munro,af2c687b,Navdeep Saini,21d4e29b,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,0,0,0
+1187680,2019/20,New Zealand,1,C Munro,af2c687b,Navdeep Saini,21d4e29b,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,4,0,4
+1187680,2019/20,New Zealand,1,C Munro,af2c687b,Navdeep Saini,21d4e29b,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,0,0,0
+1187680,2019/20,New Zealand,1,C Munro,af2c687b,Navdeep Saini,21d4e29b,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,0,0,0
+1187680,2019/20,New Zealand,1,C Munro,af2c687b,Navdeep Saini,21d4e29b,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,1,0,1
+1187680,2019/20,New Zealand,2,C Munro,af2c687b,JJ Bumrah,462411b3,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,0,0,0
+1187680,2019/20,New Zealand,2,C Munro,af2c687b,JJ Bumrah,462411b3,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,1,0,1
+1187680,2019/20,New Zealand,2,MJ Guptill,2be41edb,JJ Bumrah,462411b3,C Munro,af2c687b,0,0,1,0,0,,,,,,0,1,1
+1187680,2019/20,New Zealand,2,C Munro,af2c687b,JJ Bumrah,462411b3,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,0,0,0
+1187680,2019/20,New Zealand,2,C Munro,af2c687b,JJ Bumrah,462411b3,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,1,0,1
+1187680,2019/20,New Zealand,2,MJ Guptill,2be41edb,JJ Bumrah,462411b3,C Munro,af2c687b,0,0,0,0,0,,,,,,0,0,0
+1187680,2019/20,New Zealand,3,C Munro,af2c687b,Navdeep Saini,21d4e29b,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,0,0,0
+1187680,2019/20,New Zealand,3,C Munro,af2c687b,Navdeep Saini,21d4e29b,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,0,0,0
+1187680,2019/20,New Zealand,3,C Munro,af2c687b,Navdeep Saini,21d4e29b,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,6,0,6
+1187680,2019/20,New Zealand,3,C Munro,af2c687b,Navdeep Saini,21d4e29b,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,1,0,1
+1187680,2019/20,New Zealand,3,MJ Guptill,2be41edb,Navdeep Saini,21d4e29b,C Munro,af2c687b,0,0,0,0,0,,,,,,0,0,0
+1187680,2019/20,New Zealand,3,MJ Guptill,2be41edb,Navdeep Saini,21d4e29b,C Munro,af2c687b,0,0,0,0,0,,,,,,2,0,2
+1187680,2019/20,New Zealand,4,C Munro,af2c687b,JJ Bumrah,462411b3,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,1,0,1
+1187680,2019/20,New Zealand,4,MJ Guptill,2be41edb,JJ Bumrah,462411b3,C Munro,af2c687b,0,0,0,0,1,MJ Guptill,2be41edb,KL Rahul,b17e2f24,caught,0,0,0
+1187680,2019/20,New Zealand,4,C Munro,af2c687b,JJ Bumrah,462411b3,TL Seifert,4663bd23,0,0,0,0,0,,,,,,0,0,0
+1187680,2019/20,New Zealand,4,C Munro,af2c687b,JJ Bumrah,462411b3,TL Seifert,4663bd23,0,0,0,0,0,,,,,,0,0,0
+1187680,2019/20,New Zealand,4,C Munro,af2c687b,JJ Bumrah,462411b3,TL Seifert,4663bd23,0,0,0,0,0,,,,,,1,0,1
+1187680,2019/20,New Zealand,4,TL Seifert,4663bd23,JJ Bumrah,462411b3,C Munro,af2c687b,0,0,0,0,0,,,,,,0,0,0
+1187680,2019/20,New Zealand,5,C Munro,af2c687b,SN Thakur,1abb78f8,TL Seifert,4663bd23,0,0,0,0,0,,,,,,6,0,6
+1187680,2019/20,New Zealand,5,C Munro,af2c687b,SN Thakur,1abb78f8,TL Seifert,4663bd23,0,0,0,0,0,,,,,,4,0,4
+1187680,2019/20,New Zealand,5,C Munro,af2c687b,SN Thakur,1abb78f8,TL Seifert,4663bd23,0,0,0,0,0,,,,,,4,0,4
+1187680,2019/20,New Zealand,5,C Munro,af2c687b,SN Thakur,1abb78f8,TL Seifert,4663bd23,1,0,0,0,0,,,,,,0,1,1
+1187680,2019/20,New Zealand,5,C Munro,af2c687b,SN Thakur,1abb78f8,TL Seifert,4663bd23,0,0,0,0,0,,,,,,1,0,1
+1187680,2019/20,New Zealand,5,TL Seifert,4663bd23,SN Thakur,1abb78f8,C Munro,af2c687b,0,0,0,0,0,,,,,,0,0,0
+1187680,2019/20,New Zealand,5,TL Seifert,4663bd23,SN Thakur,1abb78f8,C Munro,af2c687b,0,0,0,0,0,,,,,,0,0,0
+1187680,2019/20,New Zealand,6,C Munro,af2c687b,YS Chahal,57ee1fde,TL Seifert,4663bd23,0,0,0,0,0,,,,,,0,0,0
+1187680,2019/20,New Zealand,6,C Munro,af2c687b,YS Chahal,57ee1fde,TL Seifert,4663bd23,0,0,0,0,0,,,,,,1,0,1
+1187680,2019/20,New Zealand,6,TL Seifert,4663bd23,YS Chahal,57ee1fde,C Munro,af2c687b,0,0,0,0,0,,,,,,1,0,1
+1187680,2019/20,New Zealand,6,C Munro,af2c687b,YS Chahal,57ee1fde,TL Seifert,4663bd23,0,0,0,0,0,,,,,,0,0,0
+1187680,2019/20,New Zealand,6,C Munro,af2c687b,YS Chahal,57ee1fde,TL Seifert,4663bd23,0,0,0,0,0,,,,,,1,0,1
+1187680,2019/20,New Zealand,6,TL Seifert,4663bd23,YS Chahal,57ee1fde,C Munro,af2c687b,0,0,0,0,0,,,,,,1,0,1
+1187680,2019/20,New Zealand,7,TL Seifert,4663bd23,Washington Sundar,f19ccfad,C Munro,af2c687b,0,0,0,0,0,,,,,,4,0,4
+1187680,2019/20,New Zealand,7,TL Seifert,4663bd23,Washington Sundar,f19ccfad,C Munro,af2c687b,0,0,0,0,0,,,,,,1,0,1
+1187680,2019/20,New Zealand,7,C Munro,af2c687b,Washington Sundar,f19ccfad,TL Seifert,4663bd23,0,0,0,0,0,,,,,,0,0,0
+1187680,2019/20,New Zealand,7,C Munro,af2c687b,Washington Sundar,f19ccfad,TL Seifert,4663bd23,0,0,0,0,0,,,,,,6,0,6
+1187680,2019/20,New Zealand,7,C Munro,af2c687b,Washington Sundar,f19ccfad,TL Seifert,4663bd23,0,0,0,0,0,,,,,,1,0,1
+1187680,2019/20,New Zealand,7,TL Seifert,4663bd23,Washington Sundar,f19ccfad,C Munro,af2c687b,0,0,0,0,0,,,,,,1,0,1
+1187680,2019/20,New Zealand,8,TL Seifert,4663bd23,YS Chahal,57ee1fde,C Munro,af2c687b,0,0,0,0,0,,,,,,1,0,1
+1187680,2019/20,New Zealand,8,C Munro,af2c687b,YS Chahal,57ee1fde,TL Seifert,4663bd23,0,0,0,0,0,,,,,,2,0,2
+1187680,2019/20,New Zealand,8,C Munro,af2c687b,YS Chahal,57ee1fde,TL Seifert,4663bd23,0,0,0,0,0,,,,,,0,0,0
+1187680,2019/20,New Zealand,8,C Munro,af2c687b,YS Chahal,57ee1fde,TL Seifert,4663bd23,0,0,0,0,0,,,,,,2,0,2
+1187680,2019/20,New Zealand,8,C Munro,af2c687b,YS Chahal,57ee1fde,TL Seifert,4663bd23,0,0,0,0,0,,,,,,1,0,1
+1187680,2019/20,New Zealand,8,TL Seifert,4663bd23,YS Chahal,57ee1fde,C Munro,af2c687b,0,0,0,0,0,,,,,,6,0,6
+1187680,2019/20,New Zealand,9,C Munro,af2c687b,Washington Sundar,f19ccfad,TL Seifert,4663bd23,0,0,0,0,0,,,,,,0,0,0
+1187680,2019/20,New Zealand,9,C Munro,af2c687b,Washington Sundar,f19ccfad,TL Seifert,4663bd23,0,0,0,0,0,,,,,,4,0,4
+1187680,2019/20,New Zealand,9,C Munro,af2c687b,Washington Sundar,f19ccfad,TL Seifert,4663bd23,0,0,0,0,0,,,,,,4,0,4
+1187680,2019/20,New Zealand,9,C Munro,af2c687b,Washington Sundar,f19ccfad,TL Seifert,4663bd23,0,0,0,0,0,,,,,,2,0,2
+1187680,2019/20,New Zealand,9,C Munro,af2c687b,Washington Sundar,f19ccfad,TL Seifert,4663bd23,0,0,0,0,0,,,,,,0,0,0
+1187680,2019/20,New Zealand,9,C Munro,af2c687b,Washington Sundar,f19ccfad,TL Seifert,4663bd23,0,0,0,0,0,,,,,,1,0,1
+1187680,2019/20,New Zealand,10,C Munro,af2c687b,Navdeep Saini,21d4e29b,TL Seifert,4663bd23,1,0,0,0,0,,,,,,0,1,1
+1187680,2019/20,New Zealand,10,C Munro,af2c687b,Navdeep Saini,21d4e29b,TL Seifert,4663bd23,0,0,0,0,0,,,,,,1,0,1
+1187680,2019/20,New Zealand,10,TL Seifert,4663bd23,Navdeep Saini,21d4e29b,C Munro,af2c687b,0,0,0,0,0,,,,,,4,0,4
+1187680,2019/20,New Zealand,10,TL Seifert,4663bd23,Navdeep Saini,21d4e29b,C Munro,af2c687b,0,0,2,0,0,,,,,,0,2,2
+1187680,2019/20,New Zealand,10,TL Seifert,4663bd23,Navdeep Saini,21d4e29b,C Munro,af2c687b,0,0,0,0,0,,,,,,1,0,1
+1187680,2019/20,New Zealand,10,C Munro,af2c687b,Navdeep Saini,21d4e29b,TL Seifert,4663bd23,0,0,0,0,0,,,,,,4,0,4
+1187680,2019/20,New Zealand,10,C Munro,af2c687b,Navdeep Saini,21d4e29b,TL Seifert,4663bd23,0,0,0,0,0,,,,,,0,0,0
+1187680,2019/20,New Zealand,11,TL Seifert,4663bd23,S Dube,a4e37e47,C Munro,af2c687b,0,0,0,0,0,,,,,,1,0,1
+1187680,2019/20,New Zealand,11,C Munro,af2c687b,S Dube,a4e37e47,TL Seifert,4663bd23,0,0,0,0,0,,,,,,1,0,1
+1187680,2019/20,New Zealand,11,TL Seifert,4663bd23,S Dube,a4e37e47,C Munro,af2c687b,0,0,1,0,0,,,,,,0,1,1
+1187680,2019/20,New Zealand,11,C Munro,af2c687b,S Dube,a4e37e47,TL Seifert,4663bd23,0,0,0,0,1,C Munro,af2c687b,,,run out,1,0,1
+1187680,2019/20,New Zealand,11,TC Bruce,f92c9151,S Dube,a4e37e47,TL Seifert,4663bd23,0,0,0,0,0,,,,,,0,0,0
+1187680,2019/20,New Zealand,11,TC Bruce,f92c9151,S Dube,a4e37e47,TL Seifert,4663bd23,0,0,1,0,0,,,,,,0,1,1
+1187680,2019/20,New Zealand,12,TC Bruce,f92c9151,YS Chahal,57ee1fde,TL Seifert,4663bd23,0,0,0,0,1,TC Bruce,f92c9151,,,bowled,0,0,0
+1187680,2019/20,New Zealand,12,LRPL Taylor,b61a3e1a,YS Chahal,57ee1fde,TL Seifert,4663bd23,0,0,0,0,0,,,,,,1,0,1
+1187680,2019/20,New Zealand,12,TL Seifert,4663bd23,YS Chahal,57ee1fde,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,1,0,1
+1187680,2019/20,New Zealand,12,LRPL Taylor,b61a3e1a,YS Chahal,57ee1fde,TL Seifert,4663bd23,0,0,0,0,0,,,,,,1,0,1
+1187680,2019/20,New Zealand,12,TL Seifert,4663bd23,YS Chahal,57ee1fde,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,1,0,1
+1187680,2019/20,New Zealand,12,LRPL Taylor,b61a3e1a,YS Chahal,57ee1fde,TL Seifert,4663bd23,0,0,0,0,0,,,,,,1,0,1
+1187680,2019/20,New Zealand,13,LRPL Taylor,b61a3e1a,S Dube,a4e37e47,TL Seifert,4663bd23,0,0,0,0,0,,,,,,1,0,1
+1187680,2019/20,New Zealand,13,TL Seifert,4663bd23,S Dube,a4e37e47,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,1,0,1
+1187680,2019/20,New Zealand,13,LRPL Taylor,b61a3e1a,S Dube,a4e37e47,TL Seifert,4663bd23,0,0,0,0,0,,,,,,1,0,1
+1187680,2019/20,New Zealand,13,TL Seifert,4663bd23,S Dube,a4e37e47,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,1,0,1
+1187680,2019/20,New Zealand,13,LRPL Taylor,b61a3e1a,S Dube,a4e37e47,TL Seifert,4663bd23,0,0,0,0,0,,,,,,1,0,1
+1187680,2019/20,New Zealand,13,TL Seifert,4663bd23,S Dube,a4e37e47,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,6,0,6
+1187680,2019/20,New Zealand,14,LRPL Taylor,b61a3e1a,YS Chahal,57ee1fde,TL Seifert,4663bd23,0,0,0,0,0,,,,,,1,0,1
+1187680,2019/20,New Zealand,14,TL Seifert,4663bd23,YS Chahal,57ee1fde,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,6,0,6
+1187680,2019/20,New Zealand,14,TL Seifert,4663bd23,YS Chahal,57ee1fde,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,1,0,1
+1187680,2019/20,New Zealand,14,LRPL Taylor,b61a3e1a,YS Chahal,57ee1fde,TL Seifert,4663bd23,0,0,0,0,0,,,,,,2,0,2
+1187680,2019/20,New Zealand,14,LRPL Taylor,b61a3e1a,YS Chahal,57ee1fde,TL Seifert,4663bd23,0,0,0,0,0,,,,,,2,0,2
+1187680,2019/20,New Zealand,14,LRPL Taylor,b61a3e1a,YS Chahal,57ee1fde,TL Seifert,4663bd23,1,0,0,0,0,,,,,,0,1,1
+1187680,2019/20,New Zealand,14,LRPL Taylor,b61a3e1a,YS Chahal,57ee1fde,TL Seifert,4663bd23,0,0,0,0,0,,,,,,4,0,4
+1187680,2019/20,New Zealand,15,TL Seifert,4663bd23,JJ Bumrah,462411b3,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,1,0,1
+1187680,2019/20,New Zealand,15,LRPL Taylor,b61a3e1a,JJ Bumrah,462411b3,TL Seifert,4663bd23,0,0,1,0,0,,,,,,0,1,1
+1187680,2019/20,New Zealand,15,TL Seifert,4663bd23,JJ Bumrah,462411b3,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,2,0,2
+1187680,2019/20,New Zealand,15,TL Seifert,4663bd23,JJ Bumrah,462411b3,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,4,0,4
+1187680,2019/20,New Zealand,15,TL Seifert,4663bd23,JJ Bumrah,462411b3,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,1,0,1
+1187680,2019/20,New Zealand,15,LRPL Taylor,b61a3e1a,JJ Bumrah,462411b3,TL Seifert,4663bd23,0,0,0,0,0,,,,,,1,0,1
+1187680,2019/20,New Zealand,16,LRPL Taylor,b61a3e1a,SN Thakur,1abb78f8,TL Seifert,4663bd23,0,0,0,0,0,,,,,,4,0,4
+1187680,2019/20,New Zealand,16,LRPL Taylor,b61a3e1a,SN Thakur,1abb78f8,TL Seifert,4663bd23,0,0,0,0,0,,,,,,1,0,1
+1187680,2019/20,New Zealand,16,TL Seifert,4663bd23,SN Thakur,1abb78f8,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,1,0,1
+1187680,2019/20,New Zealand,16,LRPL Taylor,b61a3e1a,SN Thakur,1abb78f8,TL Seifert,4663bd23,0,0,0,0,0,,,,,,1,0,1
+1187680,2019/20,New Zealand,16,TL Seifert,4663bd23,SN Thakur,1abb78f8,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,0,0,0
+1187680,2019/20,New Zealand,16,TL Seifert,4663bd23,SN Thakur,1abb78f8,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,1,0,1
+1187680,2019/20,New Zealand,17,TL Seifert,4663bd23,JJ Bumrah,462411b3,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,0,0,0
+1187680,2019/20,New Zealand,17,TL Seifert,4663bd23,JJ Bumrah,462411b3,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,1,0,1
+1187680,2019/20,New Zealand,17,LRPL Taylor,b61a3e1a,JJ Bumrah,462411b3,TL Seifert,4663bd23,0,0,0,0,0,,,,,,1,0,1
+1187680,2019/20,New Zealand,17,TL Seifert,4663bd23,JJ Bumrah,462411b3,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,4,0,4
+1187680,2019/20,New Zealand,17,TL Seifert,4663bd23,JJ Bumrah,462411b3,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,0,0,0
+1187680,2019/20,New Zealand,17,TL Seifert,4663bd23,JJ Bumrah,462411b3,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,1,0,1
+1187680,2019/20,New Zealand,18,TL Seifert,4663bd23,Navdeep Saini,21d4e29b,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,0,0,0
+1187680,2019/20,New Zealand,18,TL Seifert,4663bd23,Navdeep Saini,21d4e29b,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,2,0,2
+1187680,2019/20,New Zealand,18,TL Seifert,4663bd23,Navdeep Saini,21d4e29b,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,0,0,0
+1187680,2019/20,New Zealand,18,TL Seifert,4663bd23,Navdeep Saini,21d4e29b,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,0,0,0
+1187680,2019/20,New Zealand,18,TL Seifert,4663bd23,Navdeep Saini,21d4e29b,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,1,0,1
+1187680,2019/20,New Zealand,18,LRPL Taylor,b61a3e1a,Navdeep Saini,21d4e29b,TL Seifert,4663bd23,0,0,0,0,0,,,,,,1,0,1
+1187680,2019/20,New Zealand,19,LRPL Taylor,b61a3e1a,SN Thakur,1abb78f8,TL Seifert,4663bd23,0,0,0,0,1,LRPL Taylor,b61a3e1a,SS Iyer,85ec8e33,caught,0,0,0
+1187680,2019/20,New Zealand,19,DJ Mitchell,eade4650,SN Thakur,1abb78f8,TL Seifert,4663bd23,0,0,0,0,0,,,,,,4,0,4
+1187680,2019/20,New Zealand,19,DJ Mitchell,eade4650,SN Thakur,1abb78f8,TL Seifert,4663bd23,0,0,0,0,1,TL Seifert,4663bd23,,,run out,0,0,0
+1187680,2019/20,New Zealand,19,MJ Santner,e4a0deae,SN Thakur,1abb78f8,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,1,0,1
+1187680,2019/20,New Zealand,19,DJ Mitchell,eade4650,SN Thakur,1abb78f8,MJ Santner,e4a0deae,0,0,0,0,1,DJ Mitchell,eade4650,S Dube,a4e37e47,caught,0,0,0
+1187680,2019/20,New Zealand,19,MJ Santner,e4a0deae,SN Thakur,1abb78f8,SC Kuggeleijn,fef92afc,0,0,0,0,1,MJ Santner,e4a0deae,,,run out,1,0,1
+1187680,2019/20,New Zealand,0,TL Seifert,4663bd23,JJ Bumrah,462411b3,C Munro,af2c687b,0,0,0,0,0,,,,,,2,0,2
+1187680,2019/20,New Zealand,0,TL Seifert,4663bd23,JJ Bumrah,462411b3,C Munro,af2c687b,0,0,0,0,0,,,,,,4,0,4
+1187680,2019/20,New Zealand,0,TL Seifert,4663bd23,JJ Bumrah,462411b3,C Munro,af2c687b,0,0,0,0,0,,,,,,2,0,2
+1187680,2019/20,New Zealand,0,TL Seifert,4663bd23,JJ Bumrah,462411b3,C Munro,af2c687b,0,0,0,0,1,TL Seifert,4663bd23,Washington Sundar,f19ccfad,caught,0,0,0
+1187680,2019/20,New Zealand,0,C Munro,af2c687b,JJ Bumrah,462411b3,SC Kuggeleijn,fef92afc,0,0,0,0,0,,,,,,4,0,4
+1187680,2019/20,New Zealand,0,C Munro,af2c687b,JJ Bumrah,462411b3,SC Kuggeleijn,fef92afc,0,0,0,0,0,,,,,,1,0,1
+1187680,2019/20,India,0,KL Rahul,b17e2f24,TG Southee,13c35c9e,V Kohli,ba607b88,0,0,0,0,0,,,,,,6,0,6
+1187680,2019/20,India,0,KL Rahul,b17e2f24,TG Southee,13c35c9e,V Kohli,ba607b88,0,0,0,0,0,,,,,,4,0,4
+1187680,2019/20,India,0,KL Rahul,b17e2f24,TG Southee,13c35c9e,V Kohli,ba607b88,0,0,0,0,1,KL Rahul,b17e2f24,SC Kuggeleijn,fef92afc,caught,0,0,0
+1187680,2019/20,India,0,V Kohli,ba607b88,TG Southee,13c35c9e,SV Samson,a4cc73aa,0,0,0,0,0,,,,,,2,0,2
+1187680,2019/20,India,0,V Kohli,ba607b88,TG Southee,13c35c9e,SV Samson,a4cc73aa,0,0,0,0,0,,,,,,4,0,4

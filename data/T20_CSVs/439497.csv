@@ -1,0 +1,243 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+439497,2009/10,Canada,0,Rizwan Cheema,3a026eb4,E Schiferli,cefe0886,JM Davison,5471024e,0,0,0,0,0,,,,,,2,0,2
+439497,2009/10,Canada,0,Rizwan Cheema,3a026eb4,E Schiferli,cefe0886,JM Davison,5471024e,1,0,0,0,0,,,,,,0,1,1
+439497,2009/10,Canada,0,Rizwan Cheema,3a026eb4,E Schiferli,cefe0886,JM Davison,5471024e,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Canada,0,JM Davison,5471024e,E Schiferli,cefe0886,Rizwan Cheema,3a026eb4,0,0,0,0,0,,,,,,0,0,0
+439497,2009/10,Canada,0,JM Davison,5471024e,E Schiferli,cefe0886,Rizwan Cheema,3a026eb4,0,0,0,0,0,,,,,,0,0,0
+439497,2009/10,Canada,0,JM Davison,5471024e,E Schiferli,cefe0886,Rizwan Cheema,3a026eb4,0,0,0,0,1,JM Davison,5471024e,TN de Grooth,52980a48,caught,0,0,0
+439497,2009/10,Canada,0,H Patel,c4ff0618,E Schiferli,cefe0886,Rizwan Cheema,3a026eb4,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Canada,1,H Patel,c4ff0618,Mudassar Bukhari,37312a74,Rizwan Cheema,3a026eb4,0,0,0,0,0,,,,,,0,0,0
+439497,2009/10,Canada,1,H Patel,c4ff0618,Mudassar Bukhari,37312a74,Rizwan Cheema,3a026eb4,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Canada,1,Rizwan Cheema,3a026eb4,Mudassar Bukhari,37312a74,H Patel,c4ff0618,0,0,0,0,1,Rizwan Cheema,3a026eb4,,,retired hurt,0,0,0
+439497,2009/10,Canada,1,GEF Barnett,b7646e8c,Mudassar Bukhari,37312a74,H Patel,c4ff0618,0,0,1,0,0,,,,,,0,1,1
+439497,2009/10,Canada,1,H Patel,c4ff0618,Mudassar Bukhari,37312a74,GEF Barnett,b7646e8c,0,0,0,0,0,,,,,,0,0,0
+439497,2009/10,Canada,1,H Patel,c4ff0618,Mudassar Bukhari,37312a74,GEF Barnett,b7646e8c,0,0,0,0,0,,,,,,4,0,4
+439497,2009/10,Canada,2,GEF Barnett,b7646e8c,E Schiferli,cefe0886,H Patel,c4ff0618,0,0,0,0,0,,,,,,0,0,0
+439497,2009/10,Canada,2,GEF Barnett,b7646e8c,E Schiferli,cefe0886,H Patel,c4ff0618,0,0,0,0,0,,,,,,4,0,4
+439497,2009/10,Canada,2,GEF Barnett,b7646e8c,E Schiferli,cefe0886,H Patel,c4ff0618,0,0,0,0,0,,,,,,4,0,4
+439497,2009/10,Canada,2,GEF Barnett,b7646e8c,E Schiferli,cefe0886,H Patel,c4ff0618,0,0,0,0,0,,,,,,4,0,4
+439497,2009/10,Canada,2,GEF Barnett,b7646e8c,E Schiferli,cefe0886,H Patel,c4ff0618,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Canada,2,H Patel,c4ff0618,E Schiferli,cefe0886,GEF Barnett,b7646e8c,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Canada,3,H Patel,c4ff0618,Mudassar Bukhari,37312a74,GEF Barnett,b7646e8c,0,0,0,0,0,,,,,,2,0,2
+439497,2009/10,Canada,3,H Patel,c4ff0618,Mudassar Bukhari,37312a74,GEF Barnett,b7646e8c,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Canada,3,GEF Barnett,b7646e8c,Mudassar Bukhari,37312a74,H Patel,c4ff0618,0,0,0,0,0,,,,,,0,0,0
+439497,2009/10,Canada,3,GEF Barnett,b7646e8c,Mudassar Bukhari,37312a74,H Patel,c4ff0618,0,0,0,0,0,,,,,,3,0,3
+439497,2009/10,Canada,3,H Patel,c4ff0618,Mudassar Bukhari,37312a74,GEF Barnett,b7646e8c,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Canada,3,GEF Barnett,b7646e8c,Mudassar Bukhari,37312a74,H Patel,c4ff0618,0,0,0,0,0,,,,,,0,0,0
+439497,2009/10,Canada,4,H Patel,c4ff0618,RN ten Doeschate,4ec07775,GEF Barnett,b7646e8c,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Canada,4,GEF Barnett,b7646e8c,RN ten Doeschate,4ec07775,H Patel,c4ff0618,0,0,0,0,0,,,,,,4,0,4
+439497,2009/10,Canada,4,GEF Barnett,b7646e8c,RN ten Doeschate,4ec07775,H Patel,c4ff0618,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Canada,4,H Patel,c4ff0618,RN ten Doeschate,4ec07775,GEF Barnett,b7646e8c,0,0,0,0,0,,,,,,3,0,3
+439497,2009/10,Canada,4,GEF Barnett,b7646e8c,RN ten Doeschate,4ec07775,H Patel,c4ff0618,0,0,0,0,0,,,,,,0,0,0
+439497,2009/10,Canada,4,GEF Barnett,b7646e8c,RN ten Doeschate,4ec07775,H Patel,c4ff0618,0,0,0,0,0,,,,,,4,0,4
+439497,2009/10,Canada,5,H Patel,c4ff0618,E Schiferli,cefe0886,GEF Barnett,b7646e8c,0,0,0,0,0,,,,,,2,0,2
+439497,2009/10,Canada,5,H Patel,c4ff0618,E Schiferli,cefe0886,GEF Barnett,b7646e8c,0,0,0,0,0,,,,,,0,0,0
+439497,2009/10,Canada,5,H Patel,c4ff0618,E Schiferli,cefe0886,GEF Barnett,b7646e8c,0,0,0,0,0,,,,,,0,0,0
+439497,2009/10,Canada,5,H Patel,c4ff0618,E Schiferli,cefe0886,GEF Barnett,b7646e8c,0,0,0,0,0,,,,,,2,0,2
+439497,2009/10,Canada,5,H Patel,c4ff0618,E Schiferli,cefe0886,GEF Barnett,b7646e8c,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Canada,5,GEF Barnett,b7646e8c,E Schiferli,cefe0886,H Patel,c4ff0618,0,0,0,0,0,,,,,,3,0,3
+439497,2009/10,Canada,6,GEF Barnett,b7646e8c,PW Borren,91052c96,H Patel,c4ff0618,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Canada,6,H Patel,c4ff0618,PW Borren,91052c96,GEF Barnett,b7646e8c,0,0,0,0,0,,,,,,2,0,2
+439497,2009/10,Canada,6,H Patel,c4ff0618,PW Borren,91052c96,GEF Barnett,b7646e8c,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Canada,6,GEF Barnett,b7646e8c,PW Borren,91052c96,H Patel,c4ff0618,0,0,0,0,0,,,,,,2,0,2
+439497,2009/10,Canada,6,GEF Barnett,b7646e8c,PW Borren,91052c96,H Patel,c4ff0618,0,0,0,0,0,,,,,,4,0,4
+439497,2009/10,Canada,6,GEF Barnett,b7646e8c,PW Borren,91052c96,H Patel,c4ff0618,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Canada,7,GEF Barnett,b7646e8c,PM Seelaar,abbdca1a,H Patel,c4ff0618,0,0,0,0,0,,,,,,0,0,0
+439497,2009/10,Canada,7,GEF Barnett,b7646e8c,PM Seelaar,abbdca1a,H Patel,c4ff0618,0,0,0,0,1,GEF Barnett,b7646e8c,TN de Grooth,52980a48,caught,0,0,0
+439497,2009/10,Canada,7,H Patel,c4ff0618,PM Seelaar,abbdca1a,A Bagai,112959b2,0,0,0,0,0,,,,,,0,0,0
+439497,2009/10,Canada,7,H Patel,c4ff0618,PM Seelaar,abbdca1a,A Bagai,112959b2,0,0,0,0,0,,,,,,0,0,0
+439497,2009/10,Canada,7,H Patel,c4ff0618,PM Seelaar,abbdca1a,A Bagai,112959b2,0,0,0,0,0,,,,,,0,0,0
+439497,2009/10,Canada,7,H Patel,c4ff0618,PM Seelaar,abbdca1a,A Bagai,112959b2,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Canada,8,H Patel,c4ff0618,DLS van Bunge,3185266a,A Bagai,112959b2,0,0,0,0,0,,,,,,0,0,0
+439497,2009/10,Canada,8,H Patel,c4ff0618,DLS van Bunge,3185266a,A Bagai,112959b2,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Canada,8,A Bagai,112959b2,DLS van Bunge,3185266a,H Patel,c4ff0618,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Canada,8,H Patel,c4ff0618,DLS van Bunge,3185266a,A Bagai,112959b2,0,0,0,0,1,H Patel,c4ff0618,,,caught and bowled,0,0,0
+439497,2009/10,Canada,8,IS Billcliff,1fb2f362,DLS van Bunge,3185266a,A Bagai,112959b2,0,0,0,0,0,,,,,,0,0,0
+439497,2009/10,Canada,8,IS Billcliff,1fb2f362,DLS van Bunge,3185266a,A Bagai,112959b2,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Canada,9,IS Billcliff,1fb2f362,PM Seelaar,abbdca1a,A Bagai,112959b2,0,0,0,0,0,,,,,,0,0,0
+439497,2009/10,Canada,9,IS Billcliff,1fb2f362,PM Seelaar,abbdca1a,A Bagai,112959b2,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Canada,9,A Bagai,112959b2,PM Seelaar,abbdca1a,IS Billcliff,1fb2f362,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Canada,9,IS Billcliff,1fb2f362,PM Seelaar,abbdca1a,A Bagai,112959b2,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Canada,9,A Bagai,112959b2,PM Seelaar,abbdca1a,IS Billcliff,1fb2f362,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Canada,9,IS Billcliff,1fb2f362,PM Seelaar,abbdca1a,A Bagai,112959b2,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Canada,10,IS Billcliff,1fb2f362,RN ten Doeschate,4ec07775,A Bagai,112959b2,0,0,1,0,0,,,,,,0,1,1
+439497,2009/10,Canada,10,A Bagai,112959b2,RN ten Doeschate,4ec07775,IS Billcliff,1fb2f362,0,0,0,0,0,,,,,,2,0,2
+439497,2009/10,Canada,10,A Bagai,112959b2,RN ten Doeschate,4ec07775,IS Billcliff,1fb2f362,1,0,0,0,0,,,,,,0,1,1
+439497,2009/10,Canada,10,A Bagai,112959b2,RN ten Doeschate,4ec07775,IS Billcliff,1fb2f362,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Canada,10,IS Billcliff,1fb2f362,RN ten Doeschate,4ec07775,A Bagai,112959b2,0,0,0,0,0,,,,,,0,0,0
+439497,2009/10,Canada,10,IS Billcliff,1fb2f362,RN ten Doeschate,4ec07775,A Bagai,112959b2,0,0,0,0,0,,,,,,4,0,4
+439497,2009/10,Canada,10,IS Billcliff,1fb2f362,RN ten Doeschate,4ec07775,A Bagai,112959b2,0,0,0,0,0,,,,,,0,0,0
+439497,2009/10,Canada,11,A Bagai,112959b2,PM Seelaar,abbdca1a,IS Billcliff,1fb2f362,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Canada,11,IS Billcliff,1fb2f362,PM Seelaar,abbdca1a,A Bagai,112959b2,0,0,0,0,0,,,,,,4,0,4
+439497,2009/10,Canada,11,IS Billcliff,1fb2f362,PM Seelaar,abbdca1a,A Bagai,112959b2,0,0,0,0,0,,,,,,0,0,0
+439497,2009/10,Canada,11,IS Billcliff,1fb2f362,PM Seelaar,abbdca1a,A Bagai,112959b2,0,0,0,0,0,,,,,,2,0,2
+439497,2009/10,Canada,11,IS Billcliff,1fb2f362,PM Seelaar,abbdca1a,A Bagai,112959b2,0,0,0,0,0,,,,,,0,0,0
+439497,2009/10,Canada,11,IS Billcliff,1fb2f362,PM Seelaar,abbdca1a,A Bagai,112959b2,0,0,0,0,0,,,,,,0,0,0
+439497,2009/10,Canada,12,A Bagai,112959b2,PW Borren,91052c96,IS Billcliff,1fb2f362,0,0,0,0,0,,,,,,0,0,0
+439497,2009/10,Canada,12,A Bagai,112959b2,PW Borren,91052c96,IS Billcliff,1fb2f362,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Canada,12,IS Billcliff,1fb2f362,PW Borren,91052c96,A Bagai,112959b2,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Canada,12,A Bagai,112959b2,PW Borren,91052c96,IS Billcliff,1fb2f362,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Canada,12,IS Billcliff,1fb2f362,PW Borren,91052c96,A Bagai,112959b2,0,0,0,0,0,,,,,,4,0,4
+439497,2009/10,Canada,12,IS Billcliff,1fb2f362,PW Borren,91052c96,A Bagai,112959b2,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Canada,13,IS Billcliff,1fb2f362,DLS van Bunge,3185266a,A Bagai,112959b2,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Canada,13,A Bagai,112959b2,DLS van Bunge,3185266a,IS Billcliff,1fb2f362,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Canada,13,IS Billcliff,1fb2f362,DLS van Bunge,3185266a,A Bagai,112959b2,0,0,0,0,0,,,,,,6,0,6
+439497,2009/10,Canada,13,IS Billcliff,1fb2f362,DLS van Bunge,3185266a,A Bagai,112959b2,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Canada,13,A Bagai,112959b2,DLS van Bunge,3185266a,IS Billcliff,1fb2f362,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Canada,13,IS Billcliff,1fb2f362,DLS van Bunge,3185266a,A Bagai,112959b2,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Canada,14,IS Billcliff,1fb2f362,PW Borren,91052c96,A Bagai,112959b2,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Canada,14,A Bagai,112959b2,PW Borren,91052c96,IS Billcliff,1fb2f362,0,0,0,0,0,,,,,,0,0,0
+439497,2009/10,Canada,14,A Bagai,112959b2,PW Borren,91052c96,IS Billcliff,1fb2f362,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Canada,14,IS Billcliff,1fb2f362,PW Borren,91052c96,A Bagai,112959b2,0,0,0,0,0,,,,,,2,0,2
+439497,2009/10,Canada,14,IS Billcliff,1fb2f362,PW Borren,91052c96,A Bagai,112959b2,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Canada,14,A Bagai,112959b2,PW Borren,91052c96,IS Billcliff,1fb2f362,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Canada,15,A Bagai,112959b2,PM Seelaar,abbdca1a,IS Billcliff,1fb2f362,0,0,0,0,0,,,,,,0,0,0
+439497,2009/10,Canada,15,A Bagai,112959b2,PM Seelaar,abbdca1a,IS Billcliff,1fb2f362,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Canada,15,IS Billcliff,1fb2f362,PM Seelaar,abbdca1a,A Bagai,112959b2,0,0,0,0,0,,,,,,2,0,2
+439497,2009/10,Canada,15,IS Billcliff,1fb2f362,PM Seelaar,abbdca1a,A Bagai,112959b2,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Canada,15,A Bagai,112959b2,PM Seelaar,abbdca1a,IS Billcliff,1fb2f362,0,0,0,0,1,A Bagai,112959b2,,,bowled,0,0,0
+439497,2009/10,Canada,15,S Dhaniram,123e663a,PM Seelaar,abbdca1a,IS Billcliff,1fb2f362,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Canada,16,S Dhaniram,123e663a,RN ten Doeschate,4ec07775,IS Billcliff,1fb2f362,0,0,0,0,0,,,,,,0,0,0
+439497,2009/10,Canada,16,S Dhaniram,123e663a,RN ten Doeschate,4ec07775,IS Billcliff,1fb2f362,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Canada,16,IS Billcliff,1fb2f362,RN ten Doeschate,4ec07775,S Dhaniram,123e663a,0,0,0,0,0,,,,,,0,0,0
+439497,2009/10,Canada,16,IS Billcliff,1fb2f362,RN ten Doeschate,4ec07775,S Dhaniram,123e663a,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Canada,16,S Dhaniram,123e663a,RN ten Doeschate,4ec07775,IS Billcliff,1fb2f362,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Canada,16,IS Billcliff,1fb2f362,RN ten Doeschate,4ec07775,S Dhaniram,123e663a,0,0,0,0,1,IS Billcliff,1fb2f362,,,bowled,0,0,0
+439497,2009/10,Canada,17,S Dhaniram,123e663a,Mudassar Bukhari,37312a74,U Bhatti,c66d9486,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Canada,17,U Bhatti,c66d9486,Mudassar Bukhari,37312a74,S Dhaniram,123e663a,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Canada,17,S Dhaniram,123e663a,Mudassar Bukhari,37312a74,U Bhatti,c66d9486,0,0,0,0,1,S Dhaniram,123e663a,ES Szwarczynski,6a7239a7,caught,0,0,0
+439497,2009/10,Canada,17,U Bhatti,c66d9486,Mudassar Bukhari,37312a74,Khurram Chohan,796e4140,0,0,0,0,0,,,,,,0,0,0
+439497,2009/10,Canada,17,U Bhatti,c66d9486,Mudassar Bukhari,37312a74,Khurram Chohan,796e4140,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Canada,17,Khurram Chohan,796e4140,Mudassar Bukhari,37312a74,U Bhatti,c66d9486,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Canada,18,Khurram Chohan,796e4140,RN ten Doeschate,4ec07775,U Bhatti,c66d9486,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Canada,18,U Bhatti,c66d9486,RN ten Doeschate,4ec07775,Khurram Chohan,796e4140,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Canada,18,Khurram Chohan,796e4140,RN ten Doeschate,4ec07775,U Bhatti,c66d9486,0,0,1,0,0,,,,,,0,1,1
+439497,2009/10,Canada,18,U Bhatti,c66d9486,RN ten Doeschate,4ec07775,Khurram Chohan,796e4140,0,0,0,0,0,,,,,,0,0,0
+439497,2009/10,Canada,18,U Bhatti,c66d9486,RN ten Doeschate,4ec07775,Khurram Chohan,796e4140,0,0,0,0,0,,,,,,2,0,2
+439497,2009/10,Canada,18,U Bhatti,c66d9486,RN ten Doeschate,4ec07775,Khurram Chohan,796e4140,0,0,0,0,0,,,,,,2,0,2
+439497,2009/10,Canada,19,Khurram Chohan,796e4140,Mudassar Bukhari,37312a74,U Bhatti,c66d9486,0,0,0,0,0,,,,,,0,0,0
+439497,2009/10,Canada,19,Khurram Chohan,796e4140,Mudassar Bukhari,37312a74,U Bhatti,c66d9486,0,0,0,0,1,U Bhatti,c66d9486,AF Buurman,03d3dd8e,run out,0,0,0
+439497,2009/10,Canada,19,HS Baidwan,7839bf3a,Mudassar Bukhari,37312a74,Khurram Chohan,796e4140,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Canada,19,Khurram Chohan,796e4140,Mudassar Bukhari,37312a74,HS Baidwan,7839bf3a,0,0,0,0,0,,,,,,4,0,4
+439497,2009/10,Canada,19,Khurram Chohan,796e4140,Mudassar Bukhari,37312a74,HS Baidwan,7839bf3a,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Canada,19,HS Baidwan,7839bf3a,Mudassar Bukhari,37312a74,Khurram Chohan,796e4140,0,0,0,0,0,,,,,,3,0,3
+439497,2009/10,Netherlands,0,AN Kervezee,dc36a6a5,HS Baidwan,7839bf3a,ES Szwarczynski,6a7239a7,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Netherlands,0,ES Szwarczynski,6a7239a7,HS Baidwan,7839bf3a,AN Kervezee,dc36a6a5,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Netherlands,0,AN Kervezee,dc36a6a5,HS Baidwan,7839bf3a,ES Szwarczynski,6a7239a7,0,0,0,0,0,,,,,,0,0,0
+439497,2009/10,Netherlands,0,AN Kervezee,dc36a6a5,HS Baidwan,7839bf3a,ES Szwarczynski,6a7239a7,0,0,0,0,0,,,,,,0,0,0
+439497,2009/10,Netherlands,0,AN Kervezee,dc36a6a5,HS Baidwan,7839bf3a,ES Szwarczynski,6a7239a7,0,0,0,0,0,,,,,,4,0,4
+439497,2009/10,Netherlands,0,AN Kervezee,dc36a6a5,HS Baidwan,7839bf3a,ES Szwarczynski,6a7239a7,0,0,0,0,0,,,,,,4,0,4
+439497,2009/10,Netherlands,1,ES Szwarczynski,6a7239a7,Khurram Chohan,796e4140,AN Kervezee,dc36a6a5,0,0,0,0,0,,,,,,4,0,4
+439497,2009/10,Netherlands,1,ES Szwarczynski,6a7239a7,Khurram Chohan,796e4140,AN Kervezee,dc36a6a5,0,0,0,0,0,,,,,,0,0,0
+439497,2009/10,Netherlands,1,ES Szwarczynski,6a7239a7,Khurram Chohan,796e4140,AN Kervezee,dc36a6a5,0,0,0,0,0,,,,,,0,0,0
+439497,2009/10,Netherlands,1,ES Szwarczynski,6a7239a7,Khurram Chohan,796e4140,AN Kervezee,dc36a6a5,0,0,0,0,0,,,,,,2,0,2
+439497,2009/10,Netherlands,1,ES Szwarczynski,6a7239a7,Khurram Chohan,796e4140,AN Kervezee,dc36a6a5,0,0,0,0,0,,,,,,4,0,4
+439497,2009/10,Netherlands,1,ES Szwarczynski,6a7239a7,Khurram Chohan,796e4140,AN Kervezee,dc36a6a5,0,0,0,0,0,,,,,,4,0,4
+439497,2009/10,Netherlands,2,AN Kervezee,dc36a6a5,HS Baidwan,7839bf3a,ES Szwarczynski,6a7239a7,0,0,0,0,0,,,,,,4,0,4
+439497,2009/10,Netherlands,2,AN Kervezee,dc36a6a5,HS Baidwan,7839bf3a,ES Szwarczynski,6a7239a7,0,0,0,0,0,,,,,,0,0,0
+439497,2009/10,Netherlands,2,AN Kervezee,dc36a6a5,HS Baidwan,7839bf3a,ES Szwarczynski,6a7239a7,0,0,0,0,0,,,,,,2,0,2
+439497,2009/10,Netherlands,2,AN Kervezee,dc36a6a5,HS Baidwan,7839bf3a,ES Szwarczynski,6a7239a7,0,0,0,0,0,,,,,,0,0,0
+439497,2009/10,Netherlands,2,AN Kervezee,dc36a6a5,HS Baidwan,7839bf3a,ES Szwarczynski,6a7239a7,0,0,0,0,0,,,,,,0,0,0
+439497,2009/10,Netherlands,2,AN Kervezee,dc36a6a5,HS Baidwan,7839bf3a,ES Szwarczynski,6a7239a7,0,0,0,0,0,,,,,,0,0,0
+439497,2009/10,Netherlands,3,ES Szwarczynski,6a7239a7,U Bhatti,c66d9486,AN Kervezee,dc36a6a5,0,0,0,0,0,,,,,,0,0,0
+439497,2009/10,Netherlands,3,ES Szwarczynski,6a7239a7,U Bhatti,c66d9486,AN Kervezee,dc36a6a5,0,0,0,0,0,,,,,,0,0,0
+439497,2009/10,Netherlands,3,ES Szwarczynski,6a7239a7,U Bhatti,c66d9486,AN Kervezee,dc36a6a5,1,0,0,0,0,,,,,,0,1,1
+439497,2009/10,Netherlands,3,ES Szwarczynski,6a7239a7,U Bhatti,c66d9486,AN Kervezee,dc36a6a5,0,0,0,0,0,,,,,,4,0,4
+439497,2009/10,Netherlands,3,ES Szwarczynski,6a7239a7,U Bhatti,c66d9486,AN Kervezee,dc36a6a5,0,0,0,0,0,,,,,,0,0,0
+439497,2009/10,Netherlands,3,ES Szwarczynski,6a7239a7,U Bhatti,c66d9486,AN Kervezee,dc36a6a5,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Netherlands,3,AN Kervezee,dc36a6a5,U Bhatti,c66d9486,ES Szwarczynski,6a7239a7,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Netherlands,4,AN Kervezee,dc36a6a5,Khurram Chohan,796e4140,ES Szwarczynski,6a7239a7,0,0,0,0,0,,,,,,4,0,4
+439497,2009/10,Netherlands,4,AN Kervezee,dc36a6a5,Khurram Chohan,796e4140,ES Szwarczynski,6a7239a7,0,0,4,0,0,,,,,,0,4,4
+439497,2009/10,Netherlands,4,AN Kervezee,dc36a6a5,Khurram Chohan,796e4140,ES Szwarczynski,6a7239a7,0,0,0,0,0,,,,,,0,0,0
+439497,2009/10,Netherlands,4,AN Kervezee,dc36a6a5,Khurram Chohan,796e4140,ES Szwarczynski,6a7239a7,0,0,0,0,0,,,,,,4,0,4
+439497,2009/10,Netherlands,4,AN Kervezee,dc36a6a5,Khurram Chohan,796e4140,ES Szwarczynski,6a7239a7,0,0,0,0,0,,,,,,2,0,2
+439497,2009/10,Netherlands,4,AN Kervezee,dc36a6a5,Khurram Chohan,796e4140,ES Szwarczynski,6a7239a7,0,0,0,0,0,,,,,,0,0,0
+439497,2009/10,Netherlands,5,ES Szwarczynski,6a7239a7,U Bhatti,c66d9486,AN Kervezee,dc36a6a5,0,0,0,0,0,,,,,,0,0,0
+439497,2009/10,Netherlands,5,ES Szwarczynski,6a7239a7,U Bhatti,c66d9486,AN Kervezee,dc36a6a5,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Netherlands,5,AN Kervezee,dc36a6a5,U Bhatti,c66d9486,ES Szwarczynski,6a7239a7,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Netherlands,5,ES Szwarczynski,6a7239a7,U Bhatti,c66d9486,AN Kervezee,dc36a6a5,0,0,0,0,0,,,,,,4,0,4
+439497,2009/10,Netherlands,5,ES Szwarczynski,6a7239a7,U Bhatti,c66d9486,AN Kervezee,dc36a6a5,0,0,0,0,0,,,,,,0,0,0
+439497,2009/10,Netherlands,5,ES Szwarczynski,6a7239a7,U Bhatti,c66d9486,AN Kervezee,dc36a6a5,0,0,0,0,1,ES Szwarczynski,6a7239a7,Khurram Chohan,796e4140,caught,0,0,0
+439497,2009/10,Netherlands,6,AN Kervezee,dc36a6a5,S Dhaniram,123e663a,B Zuiderent,d953ed6a,0,0,1,0,0,,,,,,0,1,1
+439497,2009/10,Netherlands,6,B Zuiderent,d953ed6a,S Dhaniram,123e663a,AN Kervezee,dc36a6a5,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Netherlands,6,AN Kervezee,dc36a6a5,S Dhaniram,123e663a,B Zuiderent,d953ed6a,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Netherlands,6,B Zuiderent,d953ed6a,S Dhaniram,123e663a,AN Kervezee,dc36a6a5,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Netherlands,6,AN Kervezee,dc36a6a5,S Dhaniram,123e663a,B Zuiderent,d953ed6a,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Netherlands,6,B Zuiderent,d953ed6a,S Dhaniram,123e663a,AN Kervezee,dc36a6a5,0,0,0,0,0,,,,,,0,0,0
+439497,2009/10,Netherlands,7,AN Kervezee,dc36a6a5,JM Davison,5471024e,B Zuiderent,d953ed6a,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Netherlands,7,B Zuiderent,d953ed6a,JM Davison,5471024e,AN Kervezee,dc36a6a5,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Netherlands,7,AN Kervezee,dc36a6a5,JM Davison,5471024e,B Zuiderent,d953ed6a,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Netherlands,7,B Zuiderent,d953ed6a,JM Davison,5471024e,AN Kervezee,dc36a6a5,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Netherlands,7,AN Kervezee,dc36a6a5,JM Davison,5471024e,B Zuiderent,d953ed6a,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Netherlands,7,B Zuiderent,d953ed6a,JM Davison,5471024e,AN Kervezee,dc36a6a5,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Netherlands,8,B Zuiderent,d953ed6a,S Dhaniram,123e663a,AN Kervezee,dc36a6a5,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Netherlands,8,AN Kervezee,dc36a6a5,S Dhaniram,123e663a,B Zuiderent,d953ed6a,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Netherlands,8,B Zuiderent,d953ed6a,S Dhaniram,123e663a,AN Kervezee,dc36a6a5,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Netherlands,8,AN Kervezee,dc36a6a5,S Dhaniram,123e663a,B Zuiderent,d953ed6a,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Netherlands,8,B Zuiderent,d953ed6a,S Dhaniram,123e663a,AN Kervezee,dc36a6a5,0,0,0,0,0,,,,,,0,0,0
+439497,2009/10,Netherlands,8,B Zuiderent,d953ed6a,S Dhaniram,123e663a,AN Kervezee,dc36a6a5,0,0,0,0,0,,,,,,6,0,6
+439497,2009/10,Netherlands,9,AN Kervezee,dc36a6a5,JM Davison,5471024e,B Zuiderent,d953ed6a,0,0,0,0,0,,,,,,0,0,0
+439497,2009/10,Netherlands,9,AN Kervezee,dc36a6a5,JM Davison,5471024e,B Zuiderent,d953ed6a,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Netherlands,9,B Zuiderent,d953ed6a,JM Davison,5471024e,AN Kervezee,dc36a6a5,0,0,0,0,0,,,,,,2,0,2
+439497,2009/10,Netherlands,9,B Zuiderent,d953ed6a,JM Davison,5471024e,AN Kervezee,dc36a6a5,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Netherlands,9,AN Kervezee,dc36a6a5,JM Davison,5471024e,B Zuiderent,d953ed6a,0,0,0,0,0,,,,,,4,0,4
+439497,2009/10,Netherlands,9,AN Kervezee,dc36a6a5,JM Davison,5471024e,B Zuiderent,d953ed6a,0,0,0,0,1,AN Kervezee,dc36a6a5,A Bagai,112959b2,stumped,0,0,0
+439497,2009/10,Netherlands,10,B Zuiderent,d953ed6a,U Bhatti,c66d9486,PW Borren,91052c96,0,0,0,0,0,,,,,,0,0,0
+439497,2009/10,Netherlands,10,B Zuiderent,d953ed6a,U Bhatti,c66d9486,PW Borren,91052c96,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Netherlands,10,PW Borren,91052c96,U Bhatti,c66d9486,B Zuiderent,d953ed6a,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Netherlands,10,B Zuiderent,d953ed6a,U Bhatti,c66d9486,PW Borren,91052c96,0,0,0,0,0,,,,,,2,0,2
+439497,2009/10,Netherlands,10,B Zuiderent,d953ed6a,U Bhatti,c66d9486,PW Borren,91052c96,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Netherlands,10,PW Borren,91052c96,U Bhatti,c66d9486,B Zuiderent,d953ed6a,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Netherlands,11,PW Borren,91052c96,JM Davison,5471024e,B Zuiderent,d953ed6a,0,0,0,0,0,,,,,,0,0,0
+439497,2009/10,Netherlands,11,PW Borren,91052c96,JM Davison,5471024e,B Zuiderent,d953ed6a,0,0,0,0,0,,,,,,0,0,0
+439497,2009/10,Netherlands,11,PW Borren,91052c96,JM Davison,5471024e,B Zuiderent,d953ed6a,0,0,0,0,0,,,,,,2,0,2
+439497,2009/10,Netherlands,11,PW Borren,91052c96,JM Davison,5471024e,B Zuiderent,d953ed6a,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Netherlands,11,B Zuiderent,d953ed6a,JM Davison,5471024e,PW Borren,91052c96,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Netherlands,11,PW Borren,91052c96,JM Davison,5471024e,B Zuiderent,d953ed6a,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Netherlands,12,PW Borren,91052c96,H Patel,c4ff0618,B Zuiderent,d953ed6a,0,0,0,0,0,,,,,,2,0,2
+439497,2009/10,Netherlands,12,PW Borren,91052c96,H Patel,c4ff0618,B Zuiderent,d953ed6a,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Netherlands,12,B Zuiderent,d953ed6a,H Patel,c4ff0618,PW Borren,91052c96,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Netherlands,12,PW Borren,91052c96,H Patel,c4ff0618,B Zuiderent,d953ed6a,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Netherlands,12,B Zuiderent,d953ed6a,H Patel,c4ff0618,PW Borren,91052c96,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Netherlands,12,PW Borren,91052c96,H Patel,c4ff0618,B Zuiderent,d953ed6a,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Netherlands,13,PW Borren,91052c96,JM Davison,5471024e,B Zuiderent,d953ed6a,0,0,0,0,1,PW Borren,91052c96,A Bagai,112959b2,run out,1,0,1
+439497,2009/10,Netherlands,13,RN ten Doeschate,4ec07775,JM Davison,5471024e,B Zuiderent,d953ed6a,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Netherlands,13,B Zuiderent,d953ed6a,JM Davison,5471024e,RN ten Doeschate,4ec07775,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Netherlands,13,RN ten Doeschate,4ec07775,JM Davison,5471024e,B Zuiderent,d953ed6a,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Netherlands,13,B Zuiderent,d953ed6a,JM Davison,5471024e,RN ten Doeschate,4ec07775,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Netherlands,13,RN ten Doeschate,4ec07775,JM Davison,5471024e,B Zuiderent,d953ed6a,0,0,0,0,0,,,,,,0,0,0
+439497,2009/10,Netherlands,14,B Zuiderent,d953ed6a,HS Baidwan,7839bf3a,RN ten Doeschate,4ec07775,1,0,0,0,0,,,,,,0,1,1
+439497,2009/10,Netherlands,14,B Zuiderent,d953ed6a,HS Baidwan,7839bf3a,RN ten Doeschate,4ec07775,1,0,0,0,0,,,,,,0,1,1
+439497,2009/10,Netherlands,14,B Zuiderent,d953ed6a,HS Baidwan,7839bf3a,RN ten Doeschate,4ec07775,0,0,0,0,0,,,,,,0,0,0
+439497,2009/10,Netherlands,14,B Zuiderent,d953ed6a,HS Baidwan,7839bf3a,RN ten Doeschate,4ec07775,0,0,0,0,0,,,,,,0,0,0
+439497,2009/10,Netherlands,14,B Zuiderent,d953ed6a,HS Baidwan,7839bf3a,RN ten Doeschate,4ec07775,0,0,0,0,0,,,,,,0,0,0
+439497,2009/10,Netherlands,14,B Zuiderent,d953ed6a,HS Baidwan,7839bf3a,RN ten Doeschate,4ec07775,0,0,0,0,0,,,,,,0,0,0
+439497,2009/10,Netherlands,14,B Zuiderent,d953ed6a,HS Baidwan,7839bf3a,RN ten Doeschate,4ec07775,0,0,0,0,0,,,,,,0,0,0
+439497,2009/10,Netherlands,14,B Zuiderent,d953ed6a,HS Baidwan,7839bf3a,RN ten Doeschate,4ec07775,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Netherlands,15,B Zuiderent,d953ed6a,U Bhatti,c66d9486,RN ten Doeschate,4ec07775,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Netherlands,15,RN ten Doeschate,4ec07775,U Bhatti,c66d9486,B Zuiderent,d953ed6a,0,0,0,0,0,,,,,,2,0,2
+439497,2009/10,Netherlands,15,RN ten Doeschate,4ec07775,U Bhatti,c66d9486,B Zuiderent,d953ed6a,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Netherlands,15,B Zuiderent,d953ed6a,U Bhatti,c66d9486,RN ten Doeschate,4ec07775,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Netherlands,15,RN ten Doeschate,4ec07775,U Bhatti,c66d9486,B Zuiderent,d953ed6a,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Netherlands,15,B Zuiderent,d953ed6a,U Bhatti,c66d9486,RN ten Doeschate,4ec07775,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Netherlands,16,B Zuiderent,d953ed6a,Khurram Chohan,796e4140,RN ten Doeschate,4ec07775,0,0,0,0,0,,,,,,0,0,0
+439497,2009/10,Netherlands,16,B Zuiderent,d953ed6a,Khurram Chohan,796e4140,RN ten Doeschate,4ec07775,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Netherlands,16,RN ten Doeschate,4ec07775,Khurram Chohan,796e4140,B Zuiderent,d953ed6a,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Netherlands,16,B Zuiderent,d953ed6a,Khurram Chohan,796e4140,RN ten Doeschate,4ec07775,0,0,0,0,0,,,,,,0,0,0
+439497,2009/10,Netherlands,16,B Zuiderent,d953ed6a,Khurram Chohan,796e4140,RN ten Doeschate,4ec07775,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Netherlands,16,RN ten Doeschate,4ec07775,Khurram Chohan,796e4140,B Zuiderent,d953ed6a,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Netherlands,17,RN ten Doeschate,4ec07775,GEF Barnett,b7646e8c,B Zuiderent,d953ed6a,0,0,0,0,0,,,,,,4,0,4
+439497,2009/10,Netherlands,17,RN ten Doeschate,4ec07775,GEF Barnett,b7646e8c,B Zuiderent,d953ed6a,0,0,0,0,0,,,,,,2,0,2
+439497,2009/10,Netherlands,17,RN ten Doeschate,4ec07775,GEF Barnett,b7646e8c,B Zuiderent,d953ed6a,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Netherlands,17,B Zuiderent,d953ed6a,GEF Barnett,b7646e8c,RN ten Doeschate,4ec07775,1,0,0,0,0,,,,,,0,1,1
+439497,2009/10,Netherlands,17,B Zuiderent,d953ed6a,GEF Barnett,b7646e8c,RN ten Doeschate,4ec07775,0,0,0,0,0,,,,,,0,0,0
+439497,2009/10,Netherlands,17,B Zuiderent,d953ed6a,GEF Barnett,b7646e8c,RN ten Doeschate,4ec07775,0,0,0,0,0,,,,,,2,0,2
+439497,2009/10,Netherlands,17,B Zuiderent,d953ed6a,GEF Barnett,b7646e8c,RN ten Doeschate,4ec07775,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Netherlands,18,B Zuiderent,d953ed6a,HS Baidwan,7839bf3a,RN ten Doeschate,4ec07775,0,0,0,0,0,,,,,,0,0,0
+439497,2009/10,Netherlands,18,B Zuiderent,d953ed6a,HS Baidwan,7839bf3a,RN ten Doeschate,4ec07775,0,0,0,0,0,,,,,,4,0,4
+439497,2009/10,Netherlands,18,B Zuiderent,d953ed6a,HS Baidwan,7839bf3a,RN ten Doeschate,4ec07775,0,0,0,0,0,,,,,,1,0,1
+439497,2009/10,Netherlands,18,RN ten Doeschate,4ec07775,HS Baidwan,7839bf3a,B Zuiderent,d953ed6a,0,0,0,0,0,,,,,,0,0,0
+439497,2009/10,Netherlands,18,RN ten Doeschate,4ec07775,HS Baidwan,7839bf3a,B Zuiderent,d953ed6a,0,0,0,0,0,,,,,,2,0,2
+439497,2009/10,Netherlands,18,RN ten Doeschate,4ec07775,HS Baidwan,7839bf3a,B Zuiderent,d953ed6a,1,0,0,0,0,,,,,,0,1,1
+439497,2009/10,Netherlands,18,RN ten Doeschate,4ec07775,HS Baidwan,7839bf3a,B Zuiderent,d953ed6a,0,0,0,0,1,RN ten Doeschate,4ec07775,A Bagai,112959b2,caught,0,0,0
+439497,2009/10,Netherlands,19,B Zuiderent,d953ed6a,Khurram Chohan,796e4140,DLS van Bunge,3185266a,0,0,0,0,0,,,,,,4,0,4

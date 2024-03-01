@@ -1,0 +1,229 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1173049,2019/20,Thailand,0,N Chantam,b5626ff7,CA Henry,75820733,N Boochatham,58acb320,0,0,0,0,0,,,,,,1,0,1
+1173049,2019/20,Thailand,0,N Boochatham,58acb320,CA Henry,75820733,N Chantam,b5626ff7,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,Thailand,0,N Boochatham,58acb320,CA Henry,75820733,N Chantam,b5626ff7,0,0,0,0,0,,,,,,1,0,1
+1173049,2019/20,Thailand,0,N Chantam,b5626ff7,CA Henry,75820733,N Boochatham,58acb320,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,Thailand,0,N Chantam,b5626ff7,CA Henry,75820733,N Boochatham,58acb320,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,Thailand,0,N Chantam,b5626ff7,CA Henry,75820733,N Boochatham,58acb320,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,Thailand,1,N Boochatham,58acb320,SS Connell,2f9a6bd1,N Chantam,b5626ff7,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,Thailand,1,N Boochatham,58acb320,SS Connell,2f9a6bd1,N Chantam,b5626ff7,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,Thailand,1,N Boochatham,58acb320,SS Connell,2f9a6bd1,N Chantam,b5626ff7,0,0,0,0,0,,,,,,1,0,1
+1173049,2019/20,Thailand,1,N Chantam,b5626ff7,SS Connell,2f9a6bd1,N Boochatham,58acb320,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,Thailand,1,N Chantam,b5626ff7,SS Connell,2f9a6bd1,N Boochatham,58acb320,0,0,0,0,0,,,,,,4,0,4
+1173049,2019/20,Thailand,1,N Chantam,b5626ff7,SS Connell,2f9a6bd1,N Boochatham,58acb320,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,Thailand,2,N Boochatham,58acb320,CA Henry,75820733,N Chantam,b5626ff7,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,Thailand,2,N Boochatham,58acb320,CA Henry,75820733,N Chantam,b5626ff7,0,0,0,0,1,N Boochatham,58acb320,DJS Dottin,53bee17f,caught,0,0,0
+1173049,2019/20,Thailand,2,N Koncharoenkai,82c78412,CA Henry,75820733,N Chantam,b5626ff7,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,Thailand,2,N Koncharoenkai,82c78412,CA Henry,75820733,N Chantam,b5626ff7,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,Thailand,2,N Koncharoenkai,82c78412,CA Henry,75820733,N Chantam,b5626ff7,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,Thailand,2,N Koncharoenkai,82c78412,CA Henry,75820733,N Chantam,b5626ff7,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,Thailand,3,N Chantam,b5626ff7,SS Connell,2f9a6bd1,N Koncharoenkai,82c78412,0,0,0,0,0,,,,,,4,0,4
+1173049,2019/20,Thailand,3,N Chantam,b5626ff7,SS Connell,2f9a6bd1,N Koncharoenkai,82c78412,0,0,0,0,1,N Chantam,b5626ff7,SA Campbelle,a7cd72b2,caught,0,0,0
+1173049,2019/20,Thailand,3,N Chaiwai,0825e4b3,SS Connell,2f9a6bd1,N Koncharoenkai,82c78412,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,Thailand,3,N Chaiwai,0825e4b3,SS Connell,2f9a6bd1,N Koncharoenkai,82c78412,0,0,0,0,0,,,,,,1,0,1
+1173049,2019/20,Thailand,3,N Koncharoenkai,82c78412,SS Connell,2f9a6bd1,N Chaiwai,0825e4b3,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,Thailand,3,N Koncharoenkai,82c78412,SS Connell,2f9a6bd1,N Chaiwai,0825e4b3,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,Thailand,4,N Chaiwai,0825e4b3,CA Henry,75820733,N Koncharoenkai,82c78412,0,0,0,0,0,,,,,,2,0,2
+1173049,2019/20,Thailand,4,N Chaiwai,0825e4b3,CA Henry,75820733,N Koncharoenkai,82c78412,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,Thailand,4,N Chaiwai,0825e4b3,CA Henry,75820733,N Koncharoenkai,82c78412,0,0,0,0,0,,,,,,1,0,1
+1173049,2019/20,Thailand,4,N Koncharoenkai,82c78412,CA Henry,75820733,N Chaiwai,0825e4b3,0,0,0,0,0,,,,,,2,0,2
+1173049,2019/20,Thailand,4,N Koncharoenkai,82c78412,CA Henry,75820733,N Chaiwai,0825e4b3,0,1,0,0,0,,,,,,4,1,5
+1173049,2019/20,Thailand,4,N Koncharoenkai,82c78412,CA Henry,75820733,N Chaiwai,0825e4b3,0,0,0,0,0,,,,,,1,0,1
+1173049,2019/20,Thailand,4,N Chaiwai,0825e4b3,CA Henry,75820733,N Koncharoenkai,82c78412,0,0,0,0,0,,,,,,1,0,1
+1173049,2019/20,Thailand,5,N Chaiwai,0825e4b3,SS Connell,2f9a6bd1,N Koncharoenkai,82c78412,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,Thailand,5,N Chaiwai,0825e4b3,SS Connell,2f9a6bd1,N Koncharoenkai,82c78412,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,Thailand,5,N Chaiwai,0825e4b3,SS Connell,2f9a6bd1,N Koncharoenkai,82c78412,1,0,0,0,0,,,,,,0,1,1
+1173049,2019/20,Thailand,5,N Chaiwai,0825e4b3,SS Connell,2f9a6bd1,N Koncharoenkai,82c78412,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,Thailand,5,N Chaiwai,0825e4b3,SS Connell,2f9a6bd1,N Koncharoenkai,82c78412,0,0,0,0,0,,,,,,1,0,1
+1173049,2019/20,Thailand,5,N Koncharoenkai,82c78412,SS Connell,2f9a6bd1,N Chaiwai,0825e4b3,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,Thailand,5,N Koncharoenkai,82c78412,SS Connell,2f9a6bd1,N Chaiwai,0825e4b3,0,0,0,0,0,,,,,,1,0,1
+1173049,2019/20,Thailand,6,N Koncharoenkai,82c78412,ASS Fletcher,42d9dd09,N Chaiwai,0825e4b3,0,0,0,0,0,,,,,,1,0,1
+1173049,2019/20,Thailand,6,N Chaiwai,0825e4b3,ASS Fletcher,42d9dd09,N Koncharoenkai,82c78412,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,Thailand,6,N Chaiwai,0825e4b3,ASS Fletcher,42d9dd09,N Koncharoenkai,82c78412,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,Thailand,6,N Chaiwai,0825e4b3,ASS Fletcher,42d9dd09,N Koncharoenkai,82c78412,0,0,0,0,0,,,,,,1,0,1
+1173049,2019/20,Thailand,6,N Koncharoenkai,82c78412,ASS Fletcher,42d9dd09,N Chaiwai,0825e4b3,0,0,0,0,0,,,,,,1,0,1
+1173049,2019/20,Thailand,6,N Chaiwai,0825e4b3,ASS Fletcher,42d9dd09,N Koncharoenkai,82c78412,0,0,0,0,0,,,,,,1,0,1
+1173049,2019/20,Thailand,7,N Chaiwai,0825e4b3,A Mohammed,a49985e6,N Koncharoenkai,82c78412,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,Thailand,7,N Chaiwai,0825e4b3,A Mohammed,a49985e6,N Koncharoenkai,82c78412,0,0,0,0,0,,,,,,1,0,1
+1173049,2019/20,Thailand,7,N Koncharoenkai,82c78412,A Mohammed,a49985e6,N Chaiwai,0825e4b3,0,0,0,0,0,,,,,,1,0,1
+1173049,2019/20,Thailand,7,N Chaiwai,0825e4b3,A Mohammed,a49985e6,N Koncharoenkai,82c78412,0,0,0,0,0,,,,,,1,0,1
+1173049,2019/20,Thailand,7,N Koncharoenkai,82c78412,A Mohammed,a49985e6,N Chaiwai,0825e4b3,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,Thailand,7,N Koncharoenkai,82c78412,A Mohammed,a49985e6,N Chaiwai,0825e4b3,0,0,0,0,0,,,,,,2,0,2
+1173049,2019/20,Thailand,8,N Chaiwai,0825e4b3,ASS Fletcher,42d9dd09,N Koncharoenkai,82c78412,0,0,0,0,0,,,,,,1,0,1
+1173049,2019/20,Thailand,8,N Koncharoenkai,82c78412,ASS Fletcher,42d9dd09,N Chaiwai,0825e4b3,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,Thailand,8,N Koncharoenkai,82c78412,ASS Fletcher,42d9dd09,N Chaiwai,0825e4b3,1,0,0,0,0,,,,,,0,1,1
+1173049,2019/20,Thailand,8,N Koncharoenkai,82c78412,ASS Fletcher,42d9dd09,N Chaiwai,0825e4b3,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,Thailand,8,N Koncharoenkai,82c78412,ASS Fletcher,42d9dd09,N Chaiwai,0825e4b3,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,Thailand,8,N Koncharoenkai,82c78412,ASS Fletcher,42d9dd09,N Chaiwai,0825e4b3,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,Thailand,8,N Koncharoenkai,82c78412,ASS Fletcher,42d9dd09,N Chaiwai,0825e4b3,0,0,0,0,0,,,,,,1,0,1
+1173049,2019/20,Thailand,9,N Koncharoenkai,82c78412,A Mohammed,a49985e6,N Chaiwai,0825e4b3,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,Thailand,9,N Koncharoenkai,82c78412,A Mohammed,a49985e6,N Chaiwai,0825e4b3,0,0,0,0,0,,,,,,1,0,1
+1173049,2019/20,Thailand,9,N Chaiwai,0825e4b3,A Mohammed,a49985e6,N Koncharoenkai,82c78412,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,Thailand,9,N Chaiwai,0825e4b3,A Mohammed,a49985e6,N Koncharoenkai,82c78412,0,0,0,0,0,,,,,,1,0,1
+1173049,2019/20,Thailand,9,N Koncharoenkai,82c78412,A Mohammed,a49985e6,N Chaiwai,0825e4b3,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,Thailand,9,N Koncharoenkai,82c78412,A Mohammed,a49985e6,N Chaiwai,0825e4b3,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,Thailand,10,N Chaiwai,0825e4b3,HK Matthews,d32cf49a,N Koncharoenkai,82c78412,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,Thailand,10,N Chaiwai,0825e4b3,HK Matthews,d32cf49a,N Koncharoenkai,82c78412,0,0,0,0,0,,,,,,1,0,1
+1173049,2019/20,Thailand,10,N Koncharoenkai,82c78412,HK Matthews,d32cf49a,N Chaiwai,0825e4b3,0,0,0,0,0,,,,,,2,0,2
+1173049,2019/20,Thailand,10,N Koncharoenkai,82c78412,HK Matthews,d32cf49a,N Chaiwai,0825e4b3,0,0,0,0,0,,,,,,1,0,1
+1173049,2019/20,Thailand,10,N Chaiwai,0825e4b3,HK Matthews,d32cf49a,N Koncharoenkai,82c78412,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,Thailand,10,N Chaiwai,0825e4b3,HK Matthews,d32cf49a,N Koncharoenkai,82c78412,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,Thailand,11,N Koncharoenkai,82c78412,A Mohammed,a49985e6,N Chaiwai,0825e4b3,0,0,0,0,0,,,,,,1,0,1
+1173049,2019/20,Thailand,11,N Chaiwai,0825e4b3,A Mohammed,a49985e6,N Koncharoenkai,82c78412,0,0,0,0,1,N Chaiwai,0825e4b3,AA Alleyne,4b0e3049,caught,0,0,0
+1173049,2019/20,Thailand,11,N Koncharoenkai,82c78412,A Mohammed,a49985e6,C Sutthiruang,f6ddfe08,0,0,0,0,0,,,,,,1,0,1
+1173049,2019/20,Thailand,11,C Sutthiruang,f6ddfe08,A Mohammed,a49985e6,N Koncharoenkai,82c78412,0,0,0,0,0,,,,,,1,0,1
+1173049,2019/20,Thailand,11,N Koncharoenkai,82c78412,A Mohammed,a49985e6,C Sutthiruang,f6ddfe08,0,0,0,0,0,,,,,,1,0,1
+1173049,2019/20,Thailand,11,C Sutthiruang,f6ddfe08,A Mohammed,a49985e6,N Koncharoenkai,82c78412,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,Thailand,12,N Koncharoenkai,82c78412,HK Matthews,d32cf49a,C Sutthiruang,f6ddfe08,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,Thailand,12,N Koncharoenkai,82c78412,HK Matthews,d32cf49a,C Sutthiruang,f6ddfe08,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,Thailand,12,N Koncharoenkai,82c78412,HK Matthews,d32cf49a,C Sutthiruang,f6ddfe08,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,Thailand,12,N Koncharoenkai,82c78412,HK Matthews,d32cf49a,C Sutthiruang,f6ddfe08,0,0,0,0,0,,,,,,1,0,1
+1173049,2019/20,Thailand,12,C Sutthiruang,f6ddfe08,HK Matthews,d32cf49a,N Koncharoenkai,82c78412,0,0,0,0,0,,,,,,1,0,1
+1173049,2019/20,Thailand,12,N Koncharoenkai,82c78412,HK Matthews,d32cf49a,C Sutthiruang,f6ddfe08,0,0,0,0,0,,,,,,1,0,1
+1173049,2019/20,Thailand,13,N Koncharoenkai,82c78412,A Mohammed,a49985e6,C Sutthiruang,f6ddfe08,0,0,0,0,0,,,,,,2,0,2
+1173049,2019/20,Thailand,13,N Koncharoenkai,82c78412,A Mohammed,a49985e6,C Sutthiruang,f6ddfe08,0,0,0,0,0,,,,,,1,0,1
+1173049,2019/20,Thailand,13,C Sutthiruang,f6ddfe08,A Mohammed,a49985e6,N Koncharoenkai,82c78412,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,Thailand,13,C Sutthiruang,f6ddfe08,A Mohammed,a49985e6,N Koncharoenkai,82c78412,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,Thailand,13,C Sutthiruang,f6ddfe08,A Mohammed,a49985e6,N Koncharoenkai,82c78412,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,Thailand,13,C Sutthiruang,f6ddfe08,A Mohammed,a49985e6,N Koncharoenkai,82c78412,0,0,0,0,0,,,,,,1,0,1
+1173049,2019/20,Thailand,14,C Sutthiruang,f6ddfe08,HK Matthews,d32cf49a,N Koncharoenkai,82c78412,0,0,0,0,1,C Sutthiruang,f6ddfe08,,,caught and bowled,0,0,0
+1173049,2019/20,Thailand,14,S Tippoch,9c4b58db,HK Matthews,d32cf49a,N Koncharoenkai,82c78412,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,Thailand,14,S Tippoch,9c4b58db,HK Matthews,d32cf49a,N Koncharoenkai,82c78412,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,Thailand,14,S Tippoch,9c4b58db,HK Matthews,d32cf49a,N Koncharoenkai,82c78412,0,0,0,0,0,,,,,,1,0,1
+1173049,2019/20,Thailand,14,N Koncharoenkai,82c78412,HK Matthews,d32cf49a,S Tippoch,9c4b58db,0,0,0,0,0,,,,,,1,0,1
+1173049,2019/20,Thailand,14,S Tippoch,9c4b58db,HK Matthews,d32cf49a,N Koncharoenkai,82c78412,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,Thailand,15,N Koncharoenkai,82c78412,SR Taylor,92cf79a8,S Tippoch,9c4b58db,1,0,0,0,0,,,,,,0,1,1
+1173049,2019/20,Thailand,15,N Koncharoenkai,82c78412,SR Taylor,92cf79a8,S Tippoch,9c4b58db,0,0,0,0,0,,,,,,1,0,1
+1173049,2019/20,Thailand,15,S Tippoch,9c4b58db,SR Taylor,92cf79a8,N Koncharoenkai,82c78412,0,0,0,0,1,S Tippoch,9c4b58db,,,bowled,0,0,0
+1173049,2019/20,Thailand,15,O Kamchomphu,519b872a,SR Taylor,92cf79a8,N Koncharoenkai,82c78412,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,Thailand,15,O Kamchomphu,519b872a,SR Taylor,92cf79a8,N Koncharoenkai,82c78412,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,Thailand,15,O Kamchomphu,519b872a,SR Taylor,92cf79a8,N Koncharoenkai,82c78412,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,Thailand,15,O Kamchomphu,519b872a,SR Taylor,92cf79a8,N Koncharoenkai,82c78412,0,0,0,0,1,O Kamchomphu,519b872a,LAGL Kirby,fe6d2da9,caught,0,0,0
+1173049,2019/20,Thailand,16,N Koncharoenkai,82c78412,HK Matthews,d32cf49a,W Liengprasert,4dabe716,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,Thailand,16,N Koncharoenkai,82c78412,HK Matthews,d32cf49a,W Liengprasert,4dabe716,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,Thailand,16,N Koncharoenkai,82c78412,HK Matthews,d32cf49a,W Liengprasert,4dabe716,0,0,0,0,0,,,,,,1,0,1
+1173049,2019/20,Thailand,16,W Liengprasert,4dabe716,HK Matthews,d32cf49a,N Koncharoenkai,82c78412,0,0,0,0,0,,,,,,1,0,1
+1173049,2019/20,Thailand,16,N Koncharoenkai,82c78412,HK Matthews,d32cf49a,W Liengprasert,4dabe716,0,0,0,0,0,,,,,,1,0,1
+1173049,2019/20,Thailand,16,W Liengprasert,4dabe716,HK Matthews,d32cf49a,N Koncharoenkai,82c78412,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,Thailand,17,N Koncharoenkai,82c78412,SR Taylor,92cf79a8,W Liengprasert,4dabe716,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,Thailand,17,N Koncharoenkai,82c78412,SR Taylor,92cf79a8,W Liengprasert,4dabe716,0,0,0,0,0,,,,,,1,0,1
+1173049,2019/20,Thailand,17,W Liengprasert,4dabe716,SR Taylor,92cf79a8,N Koncharoenkai,82c78412,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,Thailand,17,W Liengprasert,4dabe716,SR Taylor,92cf79a8,N Koncharoenkai,82c78412,0,0,0,0,0,,,,,,1,0,1
+1173049,2019/20,Thailand,17,N Koncharoenkai,82c78412,SR Taylor,92cf79a8,W Liengprasert,4dabe716,0,0,0,0,0,,,,,,1,0,1
+1173049,2019/20,Thailand,17,W Liengprasert,4dabe716,SR Taylor,92cf79a8,N Koncharoenkai,82c78412,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,Thailand,18,N Koncharoenkai,82c78412,ASS Fletcher,42d9dd09,W Liengprasert,4dabe716,0,0,0,0,0,,,,,,1,0,1
+1173049,2019/20,Thailand,18,W Liengprasert,4dabe716,ASS Fletcher,42d9dd09,N Koncharoenkai,82c78412,0,0,0,0,0,,,,,,1,0,1
+1173049,2019/20,Thailand,18,N Koncharoenkai,82c78412,ASS Fletcher,42d9dd09,W Liengprasert,4dabe716,0,0,0,0,1,N Koncharoenkai,82c78412,LAGL Kirby,fe6d2da9,caught,0,0,0
+1173049,2019/20,Thailand,18,W Liengprasert,4dabe716,ASS Fletcher,42d9dd09,R Padunglerd,8b6c33d0,0,0,0,0,1,W Liengprasert,4dabe716,,,run out,1,0,1
+1173049,2019/20,Thailand,18,S Laomi,4b15618c,ASS Fletcher,42d9dd09,R Padunglerd,8b6c33d0,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,Thailand,18,S Laomi,4b15618c,ASS Fletcher,42d9dd09,R Padunglerd,8b6c33d0,0,0,0,0,0,,,,,,1,0,1
+1173049,2019/20,Thailand,19,S Laomi,4b15618c,SR Taylor,92cf79a8,R Padunglerd,8b6c33d0,0,0,0,0,0,,,,,,1,0,1
+1173049,2019/20,Thailand,19,R Padunglerd,8b6c33d0,SR Taylor,92cf79a8,S Laomi,4b15618c,0,0,0,0,0,,,,,,1,0,1
+1173049,2019/20,Thailand,19,S Laomi,4b15618c,SR Taylor,92cf79a8,R Padunglerd,8b6c33d0,0,0,0,0,0,,,,,,1,0,1
+1173049,2019/20,Thailand,19,R Padunglerd,8b6c33d0,SR Taylor,92cf79a8,S Laomi,4b15618c,0,0,0,0,0,,,,,,1,0,1
+1173049,2019/20,Thailand,19,S Laomi,4b15618c,SR Taylor,92cf79a8,R Padunglerd,8b6c33d0,0,0,0,0,0,,,,,,4,0,4
+1173049,2019/20,Thailand,19,S Laomi,4b15618c,SR Taylor,92cf79a8,R Padunglerd,8b6c33d0,0,0,0,0,1,S Laomi,4b15618c,SA Campbelle,a7cd72b2,stumped,0,0,0
+1173049,2019/20,West Indies,0,HK Matthews,d32cf49a,N Boochatham,58acb320,LAGL Kirby,fe6d2da9,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,West Indies,0,HK Matthews,d32cf49a,N Boochatham,58acb320,LAGL Kirby,fe6d2da9,0,0,0,0,0,,,,,,1,0,1
+1173049,2019/20,West Indies,0,LAGL Kirby,fe6d2da9,N Boochatham,58acb320,HK Matthews,d32cf49a,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,West Indies,0,LAGL Kirby,fe6d2da9,N Boochatham,58acb320,HK Matthews,d32cf49a,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,West Indies,0,LAGL Kirby,fe6d2da9,N Boochatham,58acb320,HK Matthews,d32cf49a,0,0,0,0,0,,,,,,1,0,1
+1173049,2019/20,West Indies,0,HK Matthews,d32cf49a,N Boochatham,58acb320,LAGL Kirby,fe6d2da9,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,West Indies,1,LAGL Kirby,fe6d2da9,S Lateh,5ab09885,HK Matthews,d32cf49a,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,West Indies,1,LAGL Kirby,fe6d2da9,S Lateh,5ab09885,HK Matthews,d32cf49a,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,West Indies,1,LAGL Kirby,fe6d2da9,S Lateh,5ab09885,HK Matthews,d32cf49a,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,West Indies,1,LAGL Kirby,fe6d2da9,S Lateh,5ab09885,HK Matthews,d32cf49a,3,0,0,0,0,,,,,,0,3,3
+1173049,2019/20,West Indies,1,LAGL Kirby,fe6d2da9,S Lateh,5ab09885,HK Matthews,d32cf49a,0,0,0,0,0,,,,,,1,0,1
+1173049,2019/20,West Indies,1,HK Matthews,d32cf49a,S Lateh,5ab09885,LAGL Kirby,fe6d2da9,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,West Indies,1,HK Matthews,d32cf49a,S Lateh,5ab09885,LAGL Kirby,fe6d2da9,0,0,0,0,0,,,,,,4,0,4
+1173049,2019/20,West Indies,2,LAGL Kirby,fe6d2da9,R Padunglerd,8b6c33d0,HK Matthews,d32cf49a,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,West Indies,2,LAGL Kirby,fe6d2da9,R Padunglerd,8b6c33d0,HK Matthews,d32cf49a,0,0,0,0,0,,,,,,1,0,1
+1173049,2019/20,West Indies,2,HK Matthews,d32cf49a,R Padunglerd,8b6c33d0,LAGL Kirby,fe6d2da9,0,0,0,0,0,,,,,,4,0,4
+1173049,2019/20,West Indies,2,HK Matthews,d32cf49a,R Padunglerd,8b6c33d0,LAGL Kirby,fe6d2da9,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,West Indies,2,HK Matthews,d32cf49a,R Padunglerd,8b6c33d0,LAGL Kirby,fe6d2da9,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,West Indies,2,HK Matthews,d32cf49a,R Padunglerd,8b6c33d0,LAGL Kirby,fe6d2da9,0,0,0,0,0,,,,,,2,0,2
+1173049,2019/20,West Indies,3,LAGL Kirby,fe6d2da9,N Boochatham,58acb320,HK Matthews,d32cf49a,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,West Indies,3,LAGL Kirby,fe6d2da9,N Boochatham,58acb320,HK Matthews,d32cf49a,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,West Indies,3,LAGL Kirby,fe6d2da9,N Boochatham,58acb320,HK Matthews,d32cf49a,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,West Indies,3,LAGL Kirby,fe6d2da9,N Boochatham,58acb320,HK Matthews,d32cf49a,1,0,0,0,0,,,,,,0,1,1
+1173049,2019/20,West Indies,3,LAGL Kirby,fe6d2da9,N Boochatham,58acb320,HK Matthews,d32cf49a,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,West Indies,3,LAGL Kirby,fe6d2da9,N Boochatham,58acb320,HK Matthews,d32cf49a,0,0,1,0,0,,,,,,0,1,1
+1173049,2019/20,West Indies,3,HK Matthews,d32cf49a,N Boochatham,58acb320,LAGL Kirby,fe6d2da9,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,West Indies,4,LAGL Kirby,fe6d2da9,R Padunglerd,8b6c33d0,HK Matthews,d32cf49a,0,0,0,0,1,LAGL Kirby,fe6d2da9,,,run out,0,0,0
+1173049,2019/20,West Indies,4,HK Matthews,d32cf49a,R Padunglerd,8b6c33d0,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,West Indies,4,HK Matthews,d32cf49a,R Padunglerd,8b6c33d0,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,West Indies,4,HK Matthews,d32cf49a,R Padunglerd,8b6c33d0,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,West Indies,4,HK Matthews,d32cf49a,R Padunglerd,8b6c33d0,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,4,0,4
+1173049,2019/20,West Indies,4,HK Matthews,d32cf49a,R Padunglerd,8b6c33d0,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,1,0,1
+1173049,2019/20,West Indies,5,HK Matthews,d32cf49a,S Lateh,5ab09885,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,West Indies,5,HK Matthews,d32cf49a,S Lateh,5ab09885,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,West Indies,5,HK Matthews,d32cf49a,S Lateh,5ab09885,SR Taylor,92cf79a8,0,0,0,0,1,HK Matthews,d32cf49a,,,bowled,0,0,0
+1173049,2019/20,West Indies,5,DJS Dottin,53bee17f,S Lateh,5ab09885,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,West Indies,5,DJS Dottin,53bee17f,S Lateh,5ab09885,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,1,0,1
+1173049,2019/20,West Indies,5,SR Taylor,92cf79a8,S Lateh,5ab09885,DJS Dottin,53bee17f,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,West Indies,6,DJS Dottin,53bee17f,C Sutthiruang,f6ddfe08,SR Taylor,92cf79a8,1,0,0,0,0,,,,,,0,1,1
+1173049,2019/20,West Indies,6,DJS Dottin,53bee17f,C Sutthiruang,f6ddfe08,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,1,0,1
+1173049,2019/20,West Indies,6,SR Taylor,92cf79a8,C Sutthiruang,f6ddfe08,DJS Dottin,53bee17f,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,West Indies,6,SR Taylor,92cf79a8,C Sutthiruang,f6ddfe08,DJS Dottin,53bee17f,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,West Indies,6,SR Taylor,92cf79a8,C Sutthiruang,f6ddfe08,DJS Dottin,53bee17f,0,0,0,0,1,DJS Dottin,53bee17f,,,run out,0,0,0
+1173049,2019/20,West Indies,6,SA Campbelle,a7cd72b2,C Sutthiruang,f6ddfe08,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,West Indies,6,SA Campbelle,a7cd72b2,C Sutthiruang,f6ddfe08,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,West Indies,7,SR Taylor,92cf79a8,S Laomi,4b15618c,SA Campbelle,a7cd72b2,0,0,0,0,0,,,,,,1,0,1
+1173049,2019/20,West Indies,7,SA Campbelle,a7cd72b2,S Laomi,4b15618c,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,West Indies,7,SA Campbelle,a7cd72b2,S Laomi,4b15618c,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,West Indies,7,SA Campbelle,a7cd72b2,S Laomi,4b15618c,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,1,0,1
+1173049,2019/20,West Indies,7,SR Taylor,92cf79a8,S Laomi,4b15618c,SA Campbelle,a7cd72b2,0,0,0,0,0,,,,,,1,0,1
+1173049,2019/20,West Indies,7,SA Campbelle,a7cd72b2,S Laomi,4b15618c,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,West Indies,8,SR Taylor,92cf79a8,C Sutthiruang,f6ddfe08,SA Campbelle,a7cd72b2,0,0,0,0,0,,,,,,4,0,4
+1173049,2019/20,West Indies,8,SR Taylor,92cf79a8,C Sutthiruang,f6ddfe08,SA Campbelle,a7cd72b2,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,West Indies,8,SR Taylor,92cf79a8,C Sutthiruang,f6ddfe08,SA Campbelle,a7cd72b2,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,West Indies,8,SR Taylor,92cf79a8,C Sutthiruang,f6ddfe08,SA Campbelle,a7cd72b2,0,0,0,0,0,,,,,,1,0,1
+1173049,2019/20,West Indies,8,SA Campbelle,a7cd72b2,C Sutthiruang,f6ddfe08,SR Taylor,92cf79a8,0,0,1,0,0,,,,,,0,1,1
+1173049,2019/20,West Indies,8,SR Taylor,92cf79a8,C Sutthiruang,f6ddfe08,SA Campbelle,a7cd72b2,0,0,0,0,0,,,,,,1,0,1
+1173049,2019/20,West Indies,9,SR Taylor,92cf79a8,S Laomi,4b15618c,SA Campbelle,a7cd72b2,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,West Indies,9,SR Taylor,92cf79a8,S Laomi,4b15618c,SA Campbelle,a7cd72b2,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,West Indies,9,SR Taylor,92cf79a8,S Laomi,4b15618c,SA Campbelle,a7cd72b2,0,0,0,0,0,,,,,,1,0,1
+1173049,2019/20,West Indies,9,SA Campbelle,a7cd72b2,S Laomi,4b15618c,SR Taylor,92cf79a8,1,0,0,0,0,,,,,,0,1,1
+1173049,2019/20,West Indies,9,SA Campbelle,a7cd72b2,S Laomi,4b15618c,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,1,0,1
+1173049,2019/20,West Indies,9,SR Taylor,92cf79a8,S Laomi,4b15618c,SA Campbelle,a7cd72b2,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,West Indies,9,SR Taylor,92cf79a8,S Laomi,4b15618c,SA Campbelle,a7cd72b2,0,0,0,0,0,,,,,,1,0,1
+1173049,2019/20,West Indies,10,SR Taylor,92cf79a8,S Tippoch,9c4b58db,SA Campbelle,a7cd72b2,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,West Indies,10,SR Taylor,92cf79a8,S Tippoch,9c4b58db,SA Campbelle,a7cd72b2,0,0,0,0,0,,,,,,4,0,4
+1173049,2019/20,West Indies,10,SR Taylor,92cf79a8,S Tippoch,9c4b58db,SA Campbelle,a7cd72b2,0,0,0,0,0,,,,,,2,0,2
+1173049,2019/20,West Indies,10,SR Taylor,92cf79a8,S Tippoch,9c4b58db,SA Campbelle,a7cd72b2,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,West Indies,10,SR Taylor,92cf79a8,S Tippoch,9c4b58db,SA Campbelle,a7cd72b2,0,0,0,0,0,,,,,,1,0,1
+1173049,2019/20,West Indies,10,SA Campbelle,a7cd72b2,S Tippoch,9c4b58db,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,West Indies,11,SR Taylor,92cf79a8,S Laomi,4b15618c,SA Campbelle,a7cd72b2,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,West Indies,11,SR Taylor,92cf79a8,S Laomi,4b15618c,SA Campbelle,a7cd72b2,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,West Indies,11,SR Taylor,92cf79a8,S Laomi,4b15618c,SA Campbelle,a7cd72b2,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,West Indies,11,SR Taylor,92cf79a8,S Laomi,4b15618c,SA Campbelle,a7cd72b2,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,West Indies,11,SR Taylor,92cf79a8,S Laomi,4b15618c,SA Campbelle,a7cd72b2,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,West Indies,11,SR Taylor,92cf79a8,S Laomi,4b15618c,SA Campbelle,a7cd72b2,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,West Indies,12,SA Campbelle,a7cd72b2,O Kamchomphu,519b872a,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,1,0,1
+1173049,2019/20,West Indies,12,SR Taylor,92cf79a8,O Kamchomphu,519b872a,SA Campbelle,a7cd72b2,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,West Indies,12,SR Taylor,92cf79a8,O Kamchomphu,519b872a,SA Campbelle,a7cd72b2,0,0,0,0,0,,,,,,4,0,4
+1173049,2019/20,West Indies,12,SR Taylor,92cf79a8,O Kamchomphu,519b872a,SA Campbelle,a7cd72b2,0,0,0,0,0,,,,,,1,0,1
+1173049,2019/20,West Indies,12,SA Campbelle,a7cd72b2,O Kamchomphu,519b872a,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,1,0,1
+1173049,2019/20,West Indies,12,SR Taylor,92cf79a8,O Kamchomphu,519b872a,SA Campbelle,a7cd72b2,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,West Indies,13,SA Campbelle,a7cd72b2,S Laomi,4b15618c,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,West Indies,13,SA Campbelle,a7cd72b2,S Laomi,4b15618c,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,4,0,4
+1173049,2019/20,West Indies,13,SA Campbelle,a7cd72b2,S Laomi,4b15618c,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,West Indies,13,SA Campbelle,a7cd72b2,S Laomi,4b15618c,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,2,0,2
+1173049,2019/20,West Indies,13,SA Campbelle,a7cd72b2,S Laomi,4b15618c,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,1,0,1
+1173049,2019/20,West Indies,13,SR Taylor,92cf79a8,S Laomi,4b15618c,SA Campbelle,a7cd72b2,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,West Indies,14,SA Campbelle,a7cd72b2,N Boochatham,58acb320,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,West Indies,14,SA Campbelle,a7cd72b2,N Boochatham,58acb320,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,West Indies,14,SA Campbelle,a7cd72b2,N Boochatham,58acb320,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,West Indies,14,SA Campbelle,a7cd72b2,N Boochatham,58acb320,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,1,0,1
+1173049,2019/20,West Indies,14,SR Taylor,92cf79a8,N Boochatham,58acb320,SA Campbelle,a7cd72b2,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,West Indies,14,SR Taylor,92cf79a8,N Boochatham,58acb320,SA Campbelle,a7cd72b2,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,West Indies,15,SA Campbelle,a7cd72b2,S Lateh,5ab09885,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,1,0,1
+1173049,2019/20,West Indies,15,SR Taylor,92cf79a8,S Lateh,5ab09885,SA Campbelle,a7cd72b2,0,0,0,0,0,,,,,,3,0,3
+1173049,2019/20,West Indies,15,SA Campbelle,a7cd72b2,S Lateh,5ab09885,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,West Indies,15,SA Campbelle,a7cd72b2,S Lateh,5ab09885,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,4,0,4
+1173049,2019/20,West Indies,15,SA Campbelle,a7cd72b2,S Lateh,5ab09885,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,4,0,4
+1173049,2019/20,West Indies,15,SA Campbelle,a7cd72b2,S Lateh,5ab09885,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,West Indies,16,SR Taylor,92cf79a8,N Boochatham,58acb320,SA Campbelle,a7cd72b2,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,West Indies,16,SR Taylor,92cf79a8,N Boochatham,58acb320,SA Campbelle,a7cd72b2,0,0,0,0,0,,,,,,1,0,1
+1173049,2019/20,West Indies,16,SA Campbelle,a7cd72b2,N Boochatham,58acb320,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,0,0,0
+1173049,2019/20,West Indies,16,SA Campbelle,a7cd72b2,N Boochatham,58acb320,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,4,0,4

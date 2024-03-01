@@ -1,0 +1,238 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+474466,2011,England,0,MJ Lumb,11df3dc8,KMDN Kulasekara,469ea22b,C Kieswetter,1e960f2a,0,0,0,0,0,,,,,,0,0,0
+474466,2011,England,0,MJ Lumb,11df3dc8,KMDN Kulasekara,469ea22b,C Kieswetter,1e960f2a,0,0,0,0,0,,,,,,1,0,1
+474466,2011,England,0,C Kieswetter,1e960f2a,KMDN Kulasekara,469ea22b,MJ Lumb,11df3dc8,0,0,0,0,0,,,,,,0,0,0
+474466,2011,England,0,C Kieswetter,1e960f2a,KMDN Kulasekara,469ea22b,MJ Lumb,11df3dc8,0,0,0,0,0,,,,,,0,0,0
+474466,2011,England,0,C Kieswetter,1e960f2a,KMDN Kulasekara,469ea22b,MJ Lumb,11df3dc8,0,0,0,0,0,,,,,,1,0,1
+474466,2011,England,0,MJ Lumb,11df3dc8,KMDN Kulasekara,469ea22b,C Kieswetter,1e960f2a,0,0,0,0,0,,,,,,1,0,1
+474466,2011,England,1,MJ Lumb,11df3dc8,RAS Lakmal,2f28dc94,C Kieswetter,1e960f2a,0,0,0,0,0,,,,,,0,0,0
+474466,2011,England,1,MJ Lumb,11df3dc8,RAS Lakmal,2f28dc94,C Kieswetter,1e960f2a,0,0,0,0,0,,,,,,0,0,0
+474466,2011,England,1,MJ Lumb,11df3dc8,RAS Lakmal,2f28dc94,C Kieswetter,1e960f2a,0,0,0,0,1,MJ Lumb,11df3dc8,SL Malinga,a12e1d51,caught,0,0,0
+474466,2011,England,1,C Kieswetter,1e960f2a,RAS Lakmal,2f28dc94,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,1,0,1
+474466,2011,England,1,KP Pietersen,39f01cdb,RAS Lakmal,2f28dc94,C Kieswetter,1e960f2a,0,0,0,0,0,,,,,,1,0,1
+474466,2011,England,1,C Kieswetter,1e960f2a,RAS Lakmal,2f28dc94,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,1,0,1
+474466,2011,England,2,C Kieswetter,1e960f2a,KMDN Kulasekara,469ea22b,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,1,0,1
+474466,2011,England,2,KP Pietersen,39f01cdb,KMDN Kulasekara,469ea22b,C Kieswetter,1e960f2a,0,0,0,0,0,,,,,,4,0,4
+474466,2011,England,2,KP Pietersen,39f01cdb,KMDN Kulasekara,469ea22b,C Kieswetter,1e960f2a,0,0,0,0,0,,,,,,1,0,1
+474466,2011,England,2,C Kieswetter,1e960f2a,KMDN Kulasekara,469ea22b,KP Pietersen,39f01cdb,0,0,0,0,1,C Kieswetter,1e960f2a,SHT Kandamby,488b7e1b,caught,0,0,0
+474466,2011,England,2,EJG Morgan,d2a6c0e6,KMDN Kulasekara,469ea22b,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,0,0,0
+474466,2011,England,2,EJG Morgan,d2a6c0e6,KMDN Kulasekara,469ea22b,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,0,0,0
+474466,2011,England,3,KP Pietersen,39f01cdb,RAS Lakmal,2f28dc94,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,1,0,1
+474466,2011,England,3,EJG Morgan,d2a6c0e6,RAS Lakmal,2f28dc94,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,6,0,6
+474466,2011,England,3,EJG Morgan,d2a6c0e6,RAS Lakmal,2f28dc94,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,4,0,4
+474466,2011,England,3,EJG Morgan,d2a6c0e6,RAS Lakmal,2f28dc94,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,0,0,0
+474466,2011,England,3,EJG Morgan,d2a6c0e6,RAS Lakmal,2f28dc94,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,1,0,1
+474466,2011,England,3,KP Pietersen,39f01cdb,RAS Lakmal,2f28dc94,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,0,0,0
+474466,2011,England,4,EJG Morgan,d2a6c0e6,KMDN Kulasekara,469ea22b,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,4,0,4
+474466,2011,England,4,EJG Morgan,d2a6c0e6,KMDN Kulasekara,469ea22b,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,1,0,1
+474466,2011,England,4,KP Pietersen,39f01cdb,KMDN Kulasekara,469ea22b,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,1,0,1
+474466,2011,England,4,EJG Morgan,d2a6c0e6,KMDN Kulasekara,469ea22b,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,0,0,0
+474466,2011,England,4,EJG Morgan,d2a6c0e6,KMDN Kulasekara,469ea22b,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,0,0,0
+474466,2011,England,4,EJG Morgan,d2a6c0e6,KMDN Kulasekara,469ea22b,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,0,0,0
+474466,2011,England,5,KP Pietersen,39f01cdb,SL Malinga,a12e1d51,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,0,0,0
+474466,2011,England,5,KP Pietersen,39f01cdb,SL Malinga,a12e1d51,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,2,0,2
+474466,2011,England,5,KP Pietersen,39f01cdb,SL Malinga,a12e1d51,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,1,0,1
+474466,2011,England,5,EJG Morgan,d2a6c0e6,SL Malinga,a12e1d51,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,0,0,0
+474466,2011,England,5,EJG Morgan,d2a6c0e6,SL Malinga,a12e1d51,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,0,0,0
+474466,2011,England,5,EJG Morgan,d2a6c0e6,SL Malinga,a12e1d51,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,0,0,0
+474466,2011,England,6,KP Pietersen,39f01cdb,NLTC Perera,0f12f9df,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,1,0,1
+474466,2011,England,6,EJG Morgan,d2a6c0e6,NLTC Perera,0f12f9df,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,1,0,1
+474466,2011,England,6,KP Pietersen,39f01cdb,NLTC Perera,0f12f9df,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,4,0,4
+474466,2011,England,6,KP Pietersen,39f01cdb,NLTC Perera,0f12f9df,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,4,0,4
+474466,2011,England,6,KP Pietersen,39f01cdb,NLTC Perera,0f12f9df,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,1,0,1
+474466,2011,England,6,EJG Morgan,d2a6c0e6,NLTC Perera,0f12f9df,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,0,0,0
+474466,2011,England,7,KP Pietersen,39f01cdb,S Randiv,f5f18a18,EJG Morgan,d2a6c0e6,1,0,0,0,0,,,,,,0,1,1
+474466,2011,England,7,KP Pietersen,39f01cdb,S Randiv,f5f18a18,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,0,0,0
+474466,2011,England,7,KP Pietersen,39f01cdb,S Randiv,f5f18a18,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,1,0,1
+474466,2011,England,7,EJG Morgan,d2a6c0e6,S Randiv,f5f18a18,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,1,0,1
+474466,2011,England,7,KP Pietersen,39f01cdb,S Randiv,f5f18a18,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,0,0,0
+474466,2011,England,7,KP Pietersen,39f01cdb,S Randiv,f5f18a18,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,6,0,6
+474466,2011,England,7,KP Pietersen,39f01cdb,S Randiv,f5f18a18,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,0,0,0
+474466,2011,England,8,EJG Morgan,d2a6c0e6,RAS Lakmal,2f28dc94,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,0,0,0
+474466,2011,England,8,EJG Morgan,d2a6c0e6,RAS Lakmal,2f28dc94,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,1,0,1
+474466,2011,England,8,KP Pietersen,39f01cdb,RAS Lakmal,2f28dc94,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,0,0,0
+474466,2011,England,8,KP Pietersen,39f01cdb,RAS Lakmal,2f28dc94,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,1,0,1
+474466,2011,England,8,EJG Morgan,d2a6c0e6,RAS Lakmal,2f28dc94,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,4,0,4
+474466,2011,England,8,EJG Morgan,d2a6c0e6,RAS Lakmal,2f28dc94,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,1,0,1
+474466,2011,England,9,EJG Morgan,d2a6c0e6,S Randiv,f5f18a18,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,2,0,2
+474466,2011,England,9,EJG Morgan,d2a6c0e6,S Randiv,f5f18a18,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,1,0,1
+474466,2011,England,9,KP Pietersen,39f01cdb,S Randiv,f5f18a18,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,1,0,1
+474466,2011,England,9,EJG Morgan,d2a6c0e6,S Randiv,f5f18a18,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,1,0,1
+474466,2011,England,9,KP Pietersen,39f01cdb,S Randiv,f5f18a18,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,1,0,1
+474466,2011,England,9,EJG Morgan,d2a6c0e6,S Randiv,f5f18a18,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,1,0,1
+474466,2011,England,10,EJG Morgan,d2a6c0e6,NLTC Perera,0f12f9df,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,1,0,1
+474466,2011,England,10,KP Pietersen,39f01cdb,NLTC Perera,0f12f9df,EJG Morgan,d2a6c0e6,0,1,0,0,0,,,,,,1,1,2
+474466,2011,England,10,EJG Morgan,d2a6c0e6,NLTC Perera,0f12f9df,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,6,0,6
+474466,2011,England,10,EJG Morgan,d2a6c0e6,NLTC Perera,0f12f9df,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,6,0,6
+474466,2011,England,10,EJG Morgan,d2a6c0e6,NLTC Perera,0f12f9df,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,1,0,1
+474466,2011,England,10,KP Pietersen,39f01cdb,NLTC Perera,0f12f9df,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,2,0,2
+474466,2011,England,10,KP Pietersen,39f01cdb,NLTC Perera,0f12f9df,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,6,0,6
+474466,2011,England,11,EJG Morgan,d2a6c0e6,SL Malinga,a12e1d51,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,4,0,4
+474466,2011,England,11,EJG Morgan,d2a6c0e6,SL Malinga,a12e1d51,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,0,0,0
+474466,2011,England,11,EJG Morgan,d2a6c0e6,SL Malinga,a12e1d51,KP Pietersen,39f01cdb,0,0,0,0,1,EJG Morgan,d2a6c0e6,DPMD Jayawardene,d18f9182,caught,0,0,0
+474466,2011,England,11,KP Pietersen,39f01cdb,SL Malinga,a12e1d51,RS Bopara,7ca5e05d,0,0,0,0,0,,,,,,1,0,1
+474466,2011,England,11,RS Bopara,7ca5e05d,SL Malinga,a12e1d51,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,0,0,0
+474466,2011,England,11,RS Bopara,7ca5e05d,SL Malinga,a12e1d51,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,1,0,1
+474466,2011,England,12,RS Bopara,7ca5e05d,ST Jayasuriya,f233bbb4,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,0,0,0
+474466,2011,England,12,RS Bopara,7ca5e05d,ST Jayasuriya,f233bbb4,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,0,0,0
+474466,2011,England,12,RS Bopara,7ca5e05d,ST Jayasuriya,f233bbb4,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,1,0,1
+474466,2011,England,12,KP Pietersen,39f01cdb,ST Jayasuriya,f233bbb4,RS Bopara,7ca5e05d,2,0,0,0,0,,,,,,0,2,2
+474466,2011,England,12,RS Bopara,7ca5e05d,ST Jayasuriya,f233bbb4,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,1,0,1
+474466,2011,England,12,KP Pietersen,39f01cdb,ST Jayasuriya,f233bbb4,RS Bopara,7ca5e05d,0,0,0,0,1,KP Pietersen,39f01cdb,,,bowled,0,0,0
+474466,2011,England,12,SR Patel,18fac429,ST Jayasuriya,f233bbb4,RS Bopara,7ca5e05d,0,0,0,0,0,,,,,,0,0,0
+474466,2011,England,13,RS Bopara,7ca5e05d,S Randiv,f5f18a18,SR Patel,18fac429,0,0,0,0,0,,,,,,0,0,0
+474466,2011,England,13,RS Bopara,7ca5e05d,S Randiv,f5f18a18,SR Patel,18fac429,0,0,0,0,0,,,,,,1,0,1
+474466,2011,England,13,SR Patel,18fac429,S Randiv,f5f18a18,RS Bopara,7ca5e05d,0,0,0,0,0,,,,,,0,0,0
+474466,2011,England,13,SR Patel,18fac429,S Randiv,f5f18a18,RS Bopara,7ca5e05d,0,0,0,0,1,SR Patel,18fac429,DPMD Jayawardene,d18f9182,run out,0,0,0
+474466,2011,England,13,LJ Wright,cca50cd6,S Randiv,f5f18a18,RS Bopara,7ca5e05d,0,0,0,0,0,,,,,,1,0,1
+474466,2011,England,13,RS Bopara,7ca5e05d,S Randiv,f5f18a18,LJ Wright,cca50cd6,0,0,0,0,0,,,,,,1,0,1
+474466,2011,England,14,RS Bopara,7ca5e05d,ST Jayasuriya,f233bbb4,LJ Wright,cca50cd6,0,0,0,0,0,,,,,,1,0,1
+474466,2011,England,14,LJ Wright,cca50cd6,ST Jayasuriya,f233bbb4,RS Bopara,7ca5e05d,0,0,0,0,0,,,,,,1,0,1
+474466,2011,England,14,RS Bopara,7ca5e05d,ST Jayasuriya,f233bbb4,LJ Wright,cca50cd6,0,0,0,0,0,,,,,,1,0,1
+474466,2011,England,14,LJ Wright,cca50cd6,ST Jayasuriya,f233bbb4,RS Bopara,7ca5e05d,0,0,0,0,0,,,,,,1,0,1
+474466,2011,England,14,RS Bopara,7ca5e05d,ST Jayasuriya,f233bbb4,LJ Wright,cca50cd6,0,0,0,0,0,,,,,,0,0,0
+474466,2011,England,14,RS Bopara,7ca5e05d,ST Jayasuriya,f233bbb4,LJ Wright,cca50cd6,0,0,0,0,0,,,,,,1,0,1
+474466,2011,England,15,RS Bopara,7ca5e05d,S Randiv,f5f18a18,LJ Wright,cca50cd6,0,0,0,0,0,,,,,,1,0,1
+474466,2011,England,15,LJ Wright,cca50cd6,S Randiv,f5f18a18,RS Bopara,7ca5e05d,0,0,0,0,0,,,,,,0,0,0
+474466,2011,England,15,LJ Wright,cca50cd6,S Randiv,f5f18a18,RS Bopara,7ca5e05d,0,0,0,0,0,,,,,,2,0,2
+474466,2011,England,15,LJ Wright,cca50cd6,S Randiv,f5f18a18,RS Bopara,7ca5e05d,0,0,0,0,0,,,,,,1,0,1
+474466,2011,England,15,RS Bopara,7ca5e05d,S Randiv,f5f18a18,LJ Wright,cca50cd6,0,0,0,0,0,,,,,,1,0,1
+474466,2011,England,15,LJ Wright,cca50cd6,S Randiv,f5f18a18,RS Bopara,7ca5e05d,0,0,0,0,0,,,,,,0,0,0
+474466,2011,England,16,RS Bopara,7ca5e05d,SL Malinga,a12e1d51,LJ Wright,cca50cd6,0,0,0,0,0,,,,,,1,0,1
+474466,2011,England,16,LJ Wright,cca50cd6,SL Malinga,a12e1d51,RS Bopara,7ca5e05d,0,0,0,0,0,,,,,,1,0,1
+474466,2011,England,16,RS Bopara,7ca5e05d,SL Malinga,a12e1d51,LJ Wright,cca50cd6,0,0,0,0,0,,,,,,1,0,1
+474466,2011,England,16,LJ Wright,cca50cd6,SL Malinga,a12e1d51,RS Bopara,7ca5e05d,0,0,0,0,0,,,,,,1,0,1
+474466,2011,England,16,RS Bopara,7ca5e05d,SL Malinga,a12e1d51,LJ Wright,cca50cd6,0,0,0,0,0,,,,,,1,0,1
+474466,2011,England,16,LJ Wright,cca50cd6,SL Malinga,a12e1d51,RS Bopara,7ca5e05d,0,0,0,0,0,,,,,,0,0,0
+474466,2011,England,17,RS Bopara,7ca5e05d,ST Jayasuriya,f233bbb4,LJ Wright,cca50cd6,0,0,0,0,0,,,,,,0,0,0
+474466,2011,England,17,RS Bopara,7ca5e05d,ST Jayasuriya,f233bbb4,LJ Wright,cca50cd6,0,0,0,0,0,,,,,,2,0,2
+474466,2011,England,17,RS Bopara,7ca5e05d,ST Jayasuriya,f233bbb4,LJ Wright,cca50cd6,0,0,0,0,0,,,,,,4,0,4
+474466,2011,England,17,RS Bopara,7ca5e05d,ST Jayasuriya,f233bbb4,LJ Wright,cca50cd6,0,0,0,0,1,RS Bopara,7ca5e05d,,,bowled,0,0,0
+474466,2011,England,17,CR Woakes,4c5d73db,ST Jayasuriya,f233bbb4,LJ Wright,cca50cd6,0,0,0,0,0,,,,,,2,0,2
+474466,2011,England,17,CR Woakes,4c5d73db,ST Jayasuriya,f233bbb4,LJ Wright,cca50cd6,0,0,0,0,0,,,,,,1,0,1
+474466,2011,England,18,CR Woakes,4c5d73db,RAS Lakmal,2f28dc94,LJ Wright,cca50cd6,0,0,0,0,0,,,,,,0,0,0
+474466,2011,England,18,CR Woakes,4c5d73db,RAS Lakmal,2f28dc94,LJ Wright,cca50cd6,0,0,0,0,0,,,,,,1,0,1
+474466,2011,England,18,LJ Wright,cca50cd6,RAS Lakmal,2f28dc94,CR Woakes,4c5d73db,0,0,0,0,0,,,,,,1,0,1
+474466,2011,England,18,CR Woakes,4c5d73db,RAS Lakmal,2f28dc94,LJ Wright,cca50cd6,0,0,0,0,0,,,,,,1,0,1
+474466,2011,England,18,LJ Wright,cca50cd6,RAS Lakmal,2f28dc94,CR Woakes,4c5d73db,0,0,0,0,1,LJ Wright,cca50cd6,NLTC Perera,0f12f9df,caught,0,0,0
+474466,2011,England,18,CR Woakes,4c5d73db,RAS Lakmal,2f28dc94,SCJ Broad,eba6a852,0,0,0,0,0,,,,,,1,0,1
+474466,2011,England,19,CR Woakes,4c5d73db,SL Malinga,a12e1d51,SCJ Broad,eba6a852,0,0,0,0,0,,,,,,1,0,1
+474466,2011,England,19,SCJ Broad,eba6a852,SL Malinga,a12e1d51,CR Woakes,4c5d73db,0,0,0,1,0,,,,,,0,1,1
+474466,2011,England,19,CR Woakes,4c5d73db,SL Malinga,a12e1d51,SCJ Broad,eba6a852,0,0,0,1,0,,,,,,0,1,1
+474466,2011,England,19,SCJ Broad,eba6a852,SL Malinga,a12e1d51,CR Woakes,4c5d73db,0,0,0,1,0,,,,,,0,1,1
+474466,2011,England,19,CR Woakes,4c5d73db,SL Malinga,a12e1d51,SCJ Broad,eba6a852,0,0,0,0,1,CR Woakes,4c5d73db,AD Mathews,896d78ad,caught,0,0,0
+474466,2011,England,19,SCJ Broad,eba6a852,SL Malinga,a12e1d51,GP Swann,221ad9d9,0,0,0,0,1,SCJ Broad,eba6a852,KC Sangakkara,6b71e6cf,run out,0,0,0
+474466,2011,Sri Lanka,0,DPMD Jayawardene,d18f9182,CR Woakes,4c5d73db,ST Jayasuriya,f233bbb4,1,0,0,0,0,,,,,,0,1,1
+474466,2011,Sri Lanka,0,DPMD Jayawardene,d18f9182,CR Woakes,4c5d73db,ST Jayasuriya,f233bbb4,0,0,0,0,0,,,,,,0,0,0
+474466,2011,Sri Lanka,0,DPMD Jayawardene,d18f9182,CR Woakes,4c5d73db,ST Jayasuriya,f233bbb4,0,0,0,0,0,,,,,,0,0,0
+474466,2011,Sri Lanka,0,DPMD Jayawardene,d18f9182,CR Woakes,4c5d73db,ST Jayasuriya,f233bbb4,0,0,0,0,0,,,,,,0,0,0
+474466,2011,Sri Lanka,0,DPMD Jayawardene,d18f9182,CR Woakes,4c5d73db,ST Jayasuriya,f233bbb4,0,0,0,0,0,,,,,,4,0,4
+474466,2011,Sri Lanka,0,DPMD Jayawardene,d18f9182,CR Woakes,4c5d73db,ST Jayasuriya,f233bbb4,0,0,0,0,0,,,,,,0,0,0
+474466,2011,Sri Lanka,0,DPMD Jayawardene,d18f9182,CR Woakes,4c5d73db,ST Jayasuriya,f233bbb4,0,0,0,0,0,,,,,,1,0,1
+474466,2011,Sri Lanka,1,DPMD Jayawardene,d18f9182,JW Dernbach,7be8a0ed,ST Jayasuriya,f233bbb4,1,0,0,0,0,,,,,,0,1,1
+474466,2011,Sri Lanka,1,DPMD Jayawardene,d18f9182,JW Dernbach,7be8a0ed,ST Jayasuriya,f233bbb4,0,0,0,0,0,,,,,,2,0,2
+474466,2011,Sri Lanka,1,DPMD Jayawardene,d18f9182,JW Dernbach,7be8a0ed,ST Jayasuriya,f233bbb4,0,0,0,0,0,,,,,,0,0,0
+474466,2011,Sri Lanka,1,DPMD Jayawardene,d18f9182,JW Dernbach,7be8a0ed,ST Jayasuriya,f233bbb4,0,0,0,0,0,,,,,,0,0,0
+474466,2011,Sri Lanka,1,DPMD Jayawardene,d18f9182,JW Dernbach,7be8a0ed,ST Jayasuriya,f233bbb4,0,0,0,0,0,,,,,,4,0,4
+474466,2011,Sri Lanka,1,DPMD Jayawardene,d18f9182,JW Dernbach,7be8a0ed,ST Jayasuriya,f233bbb4,0,0,0,0,0,,,,,,1,0,1
+474466,2011,Sri Lanka,1,ST Jayasuriya,f233bbb4,JW Dernbach,7be8a0ed,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,0,0,0
+474466,2011,Sri Lanka,2,DPMD Jayawardene,d18f9182,CR Woakes,4c5d73db,ST Jayasuriya,f233bbb4,0,0,0,0,0,,,,,,4,0,4
+474466,2011,Sri Lanka,2,DPMD Jayawardene,d18f9182,CR Woakes,4c5d73db,ST Jayasuriya,f233bbb4,0,0,0,0,0,,,,,,6,0,6
+474466,2011,Sri Lanka,2,DPMD Jayawardene,d18f9182,CR Woakes,4c5d73db,ST Jayasuriya,f233bbb4,0,0,0,0,0,,,,,,4,0,4
+474466,2011,Sri Lanka,2,DPMD Jayawardene,d18f9182,CR Woakes,4c5d73db,ST Jayasuriya,f233bbb4,0,0,0,0,0,,,,,,1,0,1
+474466,2011,Sri Lanka,2,ST Jayasuriya,f233bbb4,CR Woakes,4c5d73db,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,2,0,2
+474466,2011,Sri Lanka,2,ST Jayasuriya,f233bbb4,CR Woakes,4c5d73db,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,0,0,0
+474466,2011,Sri Lanka,3,DPMD Jayawardene,d18f9182,SCJ Broad,eba6a852,ST Jayasuriya,f233bbb4,0,0,0,0,0,,,,,,1,0,1
+474466,2011,Sri Lanka,3,ST Jayasuriya,f233bbb4,SCJ Broad,eba6a852,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,4,0,4
+474466,2011,Sri Lanka,3,ST Jayasuriya,f233bbb4,SCJ Broad,eba6a852,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,0,0,0
+474466,2011,Sri Lanka,3,ST Jayasuriya,f233bbb4,SCJ Broad,eba6a852,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,1,0,1
+474466,2011,Sri Lanka,3,DPMD Jayawardene,d18f9182,SCJ Broad,eba6a852,ST Jayasuriya,f233bbb4,0,0,0,0,0,,,,,,1,0,1
+474466,2011,Sri Lanka,3,ST Jayasuriya,f233bbb4,SCJ Broad,eba6a852,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,1,0,1
+474466,2011,Sri Lanka,4,ST Jayasuriya,f233bbb4,JW Dernbach,7be8a0ed,DPMD Jayawardene,d18f9182,1,0,0,0,0,,,,,,0,1,1
+474466,2011,Sri Lanka,4,ST Jayasuriya,f233bbb4,JW Dernbach,7be8a0ed,DPMD Jayawardene,d18f9182,0,0,0,0,1,ST Jayasuriya,f233bbb4,KP Pietersen,39f01cdb,caught,0,0,0
+474466,2011,Sri Lanka,4,KC Sangakkara,6b71e6cf,JW Dernbach,7be8a0ed,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,1,0,1
+474466,2011,Sri Lanka,4,DPMD Jayawardene,d18f9182,JW Dernbach,7be8a0ed,KC Sangakkara,6b71e6cf,1,0,0,0,0,,,,,,0,1,1
+474466,2011,Sri Lanka,4,DPMD Jayawardene,d18f9182,JW Dernbach,7be8a0ed,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,0,0,0
+474466,2011,Sri Lanka,4,DPMD Jayawardene,d18f9182,JW Dernbach,7be8a0ed,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,1,0,1
+474466,2011,Sri Lanka,4,KC Sangakkara,6b71e6cf,JW Dernbach,7be8a0ed,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,1,0,1
+474466,2011,Sri Lanka,4,DPMD Jayawardene,d18f9182,JW Dernbach,7be8a0ed,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,0,0,0
+474466,2011,Sri Lanka,5,KC Sangakkara,6b71e6cf,SCJ Broad,eba6a852,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,1,0,1
+474466,2011,Sri Lanka,5,DPMD Jayawardene,d18f9182,SCJ Broad,eba6a852,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,2,0,2
+474466,2011,Sri Lanka,5,DPMD Jayawardene,d18f9182,SCJ Broad,eba6a852,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,0,0,0
+474466,2011,Sri Lanka,5,DPMD Jayawardene,d18f9182,SCJ Broad,eba6a852,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,4,0,4
+474466,2011,Sri Lanka,5,DPMD Jayawardene,d18f9182,SCJ Broad,eba6a852,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,2,0,2
+474466,2011,Sri Lanka,5,DPMD Jayawardene,d18f9182,SCJ Broad,eba6a852,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,1,0,1
+474466,2011,Sri Lanka,6,DPMD Jayawardene,d18f9182,SR Patel,18fac429,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,0,0,0
+474466,2011,Sri Lanka,6,DPMD Jayawardene,d18f9182,SR Patel,18fac429,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,0,0,0
+474466,2011,Sri Lanka,6,DPMD Jayawardene,d18f9182,SR Patel,18fac429,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,4,0,4
+474466,2011,Sri Lanka,6,DPMD Jayawardene,d18f9182,SR Patel,18fac429,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,1,0,1
+474466,2011,Sri Lanka,6,KC Sangakkara,6b71e6cf,SR Patel,18fac429,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,0,0,0
+474466,2011,Sri Lanka,6,KC Sangakkara,6b71e6cf,SR Patel,18fac429,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,1,0,1
+474466,2011,Sri Lanka,7,KC Sangakkara,6b71e6cf,GP Swann,221ad9d9,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,1,0,1
+474466,2011,Sri Lanka,7,DPMD Jayawardene,d18f9182,GP Swann,221ad9d9,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,1,0,1
+474466,2011,Sri Lanka,7,KC Sangakkara,6b71e6cf,GP Swann,221ad9d9,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,1,0,1
+474466,2011,Sri Lanka,7,DPMD Jayawardene,d18f9182,GP Swann,221ad9d9,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,1,0,1
+474466,2011,Sri Lanka,7,KC Sangakkara,6b71e6cf,GP Swann,221ad9d9,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,0,0,0
+474466,2011,Sri Lanka,7,KC Sangakkara,6b71e6cf,GP Swann,221ad9d9,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,1,0,1
+474466,2011,Sri Lanka,8,KC Sangakkara,6b71e6cf,SR Patel,18fac429,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,4,0,4
+474466,2011,Sri Lanka,8,KC Sangakkara,6b71e6cf,SR Patel,18fac429,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,1,0,1
+474466,2011,Sri Lanka,8,DPMD Jayawardene,d18f9182,SR Patel,18fac429,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,1,0,1
+474466,2011,Sri Lanka,8,KC Sangakkara,6b71e6cf,SR Patel,18fac429,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,4,0,4
+474466,2011,Sri Lanka,8,KC Sangakkara,6b71e6cf,SR Patel,18fac429,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,1,0,1
+474466,2011,Sri Lanka,8,DPMD Jayawardene,d18f9182,SR Patel,18fac429,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,1,0,1
+474466,2011,Sri Lanka,9,DPMD Jayawardene,d18f9182,GP Swann,221ad9d9,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,0,0,0
+474466,2011,Sri Lanka,9,DPMD Jayawardene,d18f9182,GP Swann,221ad9d9,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,0,0,0
+474466,2011,Sri Lanka,9,DPMD Jayawardene,d18f9182,GP Swann,221ad9d9,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,0,0,0
+474466,2011,Sri Lanka,9,DPMD Jayawardene,d18f9182,GP Swann,221ad9d9,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,1,0,1
+474466,2011,Sri Lanka,9,KC Sangakkara,6b71e6cf,GP Swann,221ad9d9,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,1,0,1
+474466,2011,Sri Lanka,9,DPMD Jayawardene,d18f9182,GP Swann,221ad9d9,KC Sangakkara,6b71e6cf,1,0,0,0,0,,,,,,0,1,1
+474466,2011,Sri Lanka,9,DPMD Jayawardene,d18f9182,GP Swann,221ad9d9,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,0,0,0
+474466,2011,Sri Lanka,10,KC Sangakkara,6b71e6cf,RS Bopara,7ca5e05d,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,0,0,0
+474466,2011,Sri Lanka,10,KC Sangakkara,6b71e6cf,RS Bopara,7ca5e05d,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,0,0,0
+474466,2011,Sri Lanka,10,KC Sangakkara,6b71e6cf,RS Bopara,7ca5e05d,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,1,0,1
+474466,2011,Sri Lanka,10,DPMD Jayawardene,d18f9182,RS Bopara,7ca5e05d,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,0,0,0
+474466,2011,Sri Lanka,10,DPMD Jayawardene,d18f9182,RS Bopara,7ca5e05d,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,1,0,1
+474466,2011,Sri Lanka,10,KC Sangakkara,6b71e6cf,RS Bopara,7ca5e05d,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,1,0,1
+474466,2011,Sri Lanka,11,KC Sangakkara,6b71e6cf,GP Swann,221ad9d9,DPMD Jayawardene,d18f9182,1,0,0,0,0,,,,,,0,1,1
+474466,2011,Sri Lanka,11,KC Sangakkara,6b71e6cf,GP Swann,221ad9d9,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,4,0,4
+474466,2011,Sri Lanka,11,KC Sangakkara,6b71e6cf,GP Swann,221ad9d9,DPMD Jayawardene,d18f9182,1,0,0,0,0,,,,,,0,1,1
+474466,2011,Sri Lanka,11,KC Sangakkara,6b71e6cf,GP Swann,221ad9d9,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,1,0,1
+474466,2011,Sri Lanka,11,DPMD Jayawardene,d18f9182,GP Swann,221ad9d9,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,1,0,1
+474466,2011,Sri Lanka,11,KC Sangakkara,6b71e6cf,GP Swann,221ad9d9,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,1,0,1
+474466,2011,Sri Lanka,11,DPMD Jayawardene,d18f9182,GP Swann,221ad9d9,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,2,0,2
+474466,2011,Sri Lanka,11,DPMD Jayawardene,d18f9182,GP Swann,221ad9d9,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,0,0,0
+474466,2011,Sri Lanka,12,KC Sangakkara,6b71e6cf,JW Dernbach,7be8a0ed,DPMD Jayawardene,d18f9182,1,0,0,0,0,,,,,,0,1,1
+474466,2011,Sri Lanka,12,KC Sangakkara,6b71e6cf,JW Dernbach,7be8a0ed,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,0,0,0
+474466,2011,Sri Lanka,12,KC Sangakkara,6b71e6cf,JW Dernbach,7be8a0ed,DPMD Jayawardene,d18f9182,0,0,2,0,0,,,,,,0,2,2
+474466,2011,Sri Lanka,12,KC Sangakkara,6b71e6cf,JW Dernbach,7be8a0ed,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,0,0,0
+474466,2011,Sri Lanka,12,KC Sangakkara,6b71e6cf,JW Dernbach,7be8a0ed,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,1,0,1
+474466,2011,Sri Lanka,12,DPMD Jayawardene,d18f9182,JW Dernbach,7be8a0ed,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,1,0,1
+474466,2011,Sri Lanka,12,KC Sangakkara,6b71e6cf,JW Dernbach,7be8a0ed,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,2,0,2
+474466,2011,Sri Lanka,13,DPMD Jayawardene,d18f9182,SCJ Broad,eba6a852,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,1,0,1
+474466,2011,Sri Lanka,13,KC Sangakkara,6b71e6cf,SCJ Broad,eba6a852,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,1,0,1
+474466,2011,Sri Lanka,13,DPMD Jayawardene,d18f9182,SCJ Broad,eba6a852,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,1,0,1
+474466,2011,Sri Lanka,13,KC Sangakkara,6b71e6cf,SCJ Broad,eba6a852,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,2,0,2
+474466,2011,Sri Lanka,13,KC Sangakkara,6b71e6cf,SCJ Broad,eba6a852,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,0,0,0
+474466,2011,Sri Lanka,13,KC Sangakkara,6b71e6cf,SCJ Broad,eba6a852,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,0,0,0
+474466,2011,Sri Lanka,14,DPMD Jayawardene,d18f9182,GP Swann,221ad9d9,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,1,0,1
+474466,2011,Sri Lanka,14,KC Sangakkara,6b71e6cf,GP Swann,221ad9d9,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,0,0,0
+474466,2011,Sri Lanka,14,KC Sangakkara,6b71e6cf,GP Swann,221ad9d9,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,1,0,1
+474466,2011,Sri Lanka,14,DPMD Jayawardene,d18f9182,GP Swann,221ad9d9,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,1,0,1
+474466,2011,Sri Lanka,14,KC Sangakkara,6b71e6cf,GP Swann,221ad9d9,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,4,0,4
+474466,2011,Sri Lanka,14,KC Sangakkara,6b71e6cf,GP Swann,221ad9d9,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,0,0,0
+474466,2011,Sri Lanka,15,DPMD Jayawardene,d18f9182,CR Woakes,4c5d73db,KC Sangakkara,6b71e6cf,1,0,0,0,0,,,,,,0,1,1
+474466,2011,Sri Lanka,15,DPMD Jayawardene,d18f9182,CR Woakes,4c5d73db,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,1,0,1
+474466,2011,Sri Lanka,15,KC Sangakkara,6b71e6cf,CR Woakes,4c5d73db,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,1,0,1
+474466,2011,Sri Lanka,15,DPMD Jayawardene,d18f9182,CR Woakes,4c5d73db,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,1,0,1
+474466,2011,Sri Lanka,15,KC Sangakkara,6b71e6cf,CR Woakes,4c5d73db,DPMD Jayawardene,d18f9182,0,0,1,0,0,,,,,,0,1,1
+474466,2011,Sri Lanka,15,DPMD Jayawardene,d18f9182,CR Woakes,4c5d73db,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,4,0,4
+474466,2011,Sri Lanka,15,DPMD Jayawardene,d18f9182,CR Woakes,4c5d73db,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,0,0,0
+474466,2011,Sri Lanka,16,KC Sangakkara,6b71e6cf,RS Bopara,7ca5e05d,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,0,0,0
+474466,2011,Sri Lanka,16,KC Sangakkara,6b71e6cf,RS Bopara,7ca5e05d,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,1,0,1
+474466,2011,Sri Lanka,16,DPMD Jayawardene,d18f9182,RS Bopara,7ca5e05d,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,0,0,0
+474466,2011,Sri Lanka,16,DPMD Jayawardene,d18f9182,RS Bopara,7ca5e05d,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,1,0,1
+474466,2011,Sri Lanka,16,KC Sangakkara,6b71e6cf,RS Bopara,7ca5e05d,DPMD Jayawardene,d18f9182,2,0,0,0,0,,,,,,0,2,2
+474466,2011,Sri Lanka,16,DPMD Jayawardene,d18f9182,RS Bopara,7ca5e05d,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,1,0,1
+474466,2011,Sri Lanka,16,KC Sangakkara,6b71e6cf,RS Bopara,7ca5e05d,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,4,0,4
+474466,2011,Sri Lanka,17,DPMD Jayawardene,d18f9182,SCJ Broad,eba6a852,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,2,0,2
+474466,2011,Sri Lanka,17,DPMD Jayawardene,d18f9182,SCJ Broad,eba6a852,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,4,0,4

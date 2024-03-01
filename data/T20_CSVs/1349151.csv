@@ -1,0 +1,255 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1349151,2022/23,Tanzania,0,S Mtae,bb641155,Aysha,37ceee4e,FO Kibasu,1c726c76,1,0,0,0,0,,,,,,0,1,1
+1349151,2022/23,Tanzania,0,S Mtae,bb641155,Aysha,37ceee4e,FO Kibasu,1c726c76,0,0,0,0,0,,,,,,4,0,4
+1349151,2022/23,Tanzania,0,S Mtae,bb641155,Aysha,37ceee4e,FO Kibasu,1c726c76,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Tanzania,0,S Mtae,bb641155,Aysha,37ceee4e,FO Kibasu,1c726c76,0,0,0,0,0,,,,,,2,0,2
+1349151,2022/23,Tanzania,0,S Mtae,bb641155,Aysha,37ceee4e,FO Kibasu,1c726c76,0,0,0,0,1,S Mtae,bb641155,S Dhadwal,7e2c16a3,caught,0,0,0
+1349151,2022/23,Tanzania,0,SH Mohamedi,10ab6a37,Aysha,37ceee4e,FO Kibasu,1c726c76,0,0,0,0,0,,,,,,1,0,1
+1349151,2022/23,Tanzania,0,FO Kibasu,1c726c76,Aysha,37ceee4e,SH Mohamedi,10ab6a37,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Tanzania,1,SH Mohamedi,10ab6a37,H Agarwal,3f886270,FO Kibasu,1c726c76,1,0,0,0,0,,,,,,0,1,1
+1349151,2022/23,Tanzania,1,SH Mohamedi,10ab6a37,H Agarwal,3f886270,FO Kibasu,1c726c76,0,0,0,0,0,,,,,,4,0,4
+1349151,2022/23,Tanzania,1,SH Mohamedi,10ab6a37,H Agarwal,3f886270,FO Kibasu,1c726c76,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Tanzania,1,SH Mohamedi,10ab6a37,H Agarwal,3f886270,FO Kibasu,1c726c76,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Tanzania,1,SH Mohamedi,10ab6a37,H Agarwal,3f886270,FO Kibasu,1c726c76,0,0,0,0,1,SH Mohamedi,10ab6a37,,,bowled,0,0,0
+1349151,2022/23,Tanzania,1,HM Omary,2cbe5db1,H Agarwal,3f886270,FO Kibasu,1c726c76,1,0,0,0,0,,,,,,0,1,1
+1349151,2022/23,Tanzania,1,HM Omary,2cbe5db1,H Agarwal,3f886270,FO Kibasu,1c726c76,0,0,0,0,0,,,,,,1,0,1
+1349151,2022/23,Tanzania,1,FO Kibasu,1c726c76,H Agarwal,3f886270,HM Omary,2cbe5db1,0,0,0,0,0,,,,,,2,0,2
+1349151,2022/23,Tanzania,2,HM Omary,2cbe5db1,Aysha,37ceee4e,FO Kibasu,1c726c76,0,0,0,0,0,,,,,,1,0,1
+1349151,2022/23,Tanzania,2,FO Kibasu,1c726c76,Aysha,37ceee4e,HM Omary,2cbe5db1,0,0,0,0,0,,,,,,1,0,1
+1349151,2022/23,Tanzania,2,HM Omary,2cbe5db1,Aysha,37ceee4e,FO Kibasu,1c726c76,0,0,0,0,0,,,,,,1,0,1
+1349151,2022/23,Tanzania,2,FO Kibasu,1c726c76,Aysha,37ceee4e,HM Omary,2cbe5db1,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Tanzania,2,FO Kibasu,1c726c76,Aysha,37ceee4e,HM Omary,2cbe5db1,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Tanzania,2,FO Kibasu,1c726c76,Aysha,37ceee4e,HM Omary,2cbe5db1,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Tanzania,3,HM Omary,2cbe5db1,H Agarwal,3f886270,FO Kibasu,1c726c76,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Tanzania,3,HM Omary,2cbe5db1,H Agarwal,3f886270,FO Kibasu,1c726c76,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Tanzania,3,HM Omary,2cbe5db1,H Agarwal,3f886270,FO Kibasu,1c726c76,0,0,0,0,0,,,,,,1,0,1
+1349151,2022/23,Tanzania,3,FO Kibasu,1c726c76,H Agarwal,3f886270,HM Omary,2cbe5db1,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Tanzania,3,FO Kibasu,1c726c76,H Agarwal,3f886270,HM Omary,2cbe5db1,0,0,0,0,0,,,,,,1,0,1
+1349151,2022/23,Tanzania,3,HM Omary,2cbe5db1,H Agarwal,3f886270,FO Kibasu,1c726c76,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Tanzania,4,FO Kibasu,1c726c76,Aysha,37ceee4e,HM Omary,2cbe5db1,0,0,0,0,0,,,,,,4,0,4
+1349151,2022/23,Tanzania,4,FO Kibasu,1c726c76,Aysha,37ceee4e,HM Omary,2cbe5db1,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Tanzania,4,FO Kibasu,1c726c76,Aysha,37ceee4e,HM Omary,2cbe5db1,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Tanzania,4,FO Kibasu,1c726c76,Aysha,37ceee4e,HM Omary,2cbe5db1,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Tanzania,4,FO Kibasu,1c726c76,Aysha,37ceee4e,HM Omary,2cbe5db1,0,0,0,0,0,,,,,,4,0,4
+1349151,2022/23,Tanzania,4,FO Kibasu,1c726c76,Aysha,37ceee4e,HM Omary,2cbe5db1,0,0,0,0,0,,,,,,1,0,1
+1349151,2022/23,Tanzania,5,FO Kibasu,1c726c76,H Agarwal,3f886270,HM Omary,2cbe5db1,0,0,0,0,0,,,,,,2,0,2
+1349151,2022/23,Tanzania,5,FO Kibasu,1c726c76,H Agarwal,3f886270,HM Omary,2cbe5db1,0,0,0,0,0,,,,,,1,0,1
+1349151,2022/23,Tanzania,5,HM Omary,2cbe5db1,H Agarwal,3f886270,FO Kibasu,1c726c76,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Tanzania,5,HM Omary,2cbe5db1,H Agarwal,3f886270,FO Kibasu,1c726c76,0,0,0,0,0,,,,,,1,0,1
+1349151,2022/23,Tanzania,5,FO Kibasu,1c726c76,H Agarwal,3f886270,HM Omary,2cbe5db1,0,0,0,1,0,,,,,,0,1,1
+1349151,2022/23,Tanzania,5,HM Omary,2cbe5db1,H Agarwal,3f886270,FO Kibasu,1c726c76,0,0,0,0,0,,,,,,1,0,1
+1349151,2022/23,Tanzania,6,HM Omary,2cbe5db1,Aysha,37ceee4e,FO Kibasu,1c726c76,0,0,0,0,0,,,,,,2,0,2
+1349151,2022/23,Tanzania,6,HM Omary,2cbe5db1,Aysha,37ceee4e,FO Kibasu,1c726c76,0,0,0,0,0,,,,,,4,0,4
+1349151,2022/23,Tanzania,6,HM Omary,2cbe5db1,Aysha,37ceee4e,FO Kibasu,1c726c76,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Tanzania,6,HM Omary,2cbe5db1,Aysha,37ceee4e,FO Kibasu,1c726c76,0,0,0,0,1,HM Omary,2cbe5db1,,,bowled,0,0,0
+1349151,2022/23,Tanzania,6,Rahima Yahaya,d75bec48,Aysha,37ceee4e,FO Kibasu,1c726c76,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Tanzania,6,Rahima Yahaya,d75bec48,Aysha,37ceee4e,FO Kibasu,1c726c76,0,0,0,0,1,Rahima Yahaya,d75bec48,,,bowled,0,0,0
+1349151,2022/23,Tanzania,7,FO Kibasu,1c726c76,H Agarwal,3f886270,AS Qwele,26b3df21,0,0,0,0,0,,,,,,1,0,1
+1349151,2022/23,Tanzania,7,AS Qwele,26b3df21,H Agarwal,3f886270,FO Kibasu,1c726c76,0,0,0,0,0,,,,,,4,0,4
+1349151,2022/23,Tanzania,7,AS Qwele,26b3df21,H Agarwal,3f886270,FO Kibasu,1c726c76,0,0,0,0,0,,,,,,3,0,3
+1349151,2022/23,Tanzania,7,FO Kibasu,1c726c76,H Agarwal,3f886270,AS Qwele,26b3df21,1,0,0,0,0,,,,,,0,1,1
+1349151,2022/23,Tanzania,7,FO Kibasu,1c726c76,H Agarwal,3f886270,AS Qwele,26b3df21,0,0,0,0,0,,,,,,1,0,1
+1349151,2022/23,Tanzania,7,AS Qwele,26b3df21,H Agarwal,3f886270,FO Kibasu,1c726c76,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Tanzania,7,AS Qwele,26b3df21,H Agarwal,3f886270,FO Kibasu,1c726c76,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Tanzania,8,FO Kibasu,1c726c76,RS Quyn,41721f6b,AS Qwele,26b3df21,0,0,0,0,0,,,,,,1,0,1
+1349151,2022/23,Tanzania,8,AS Qwele,26b3df21,RS Quyn,41721f6b,FO Kibasu,1c726c76,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Tanzania,8,AS Qwele,26b3df21,RS Quyn,41721f6b,FO Kibasu,1c726c76,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Tanzania,8,AS Qwele,26b3df21,RS Quyn,41721f6b,FO Kibasu,1c726c76,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Tanzania,8,AS Qwele,26b3df21,RS Quyn,41721f6b,FO Kibasu,1c726c76,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Tanzania,8,AS Qwele,26b3df21,RS Quyn,41721f6b,FO Kibasu,1c726c76,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Tanzania,9,FO Kibasu,1c726c76,Aleena Khan,97f2faf0,AS Qwele,26b3df21,0,0,0,0,0,,,,,,1,0,1
+1349151,2022/23,Tanzania,9,AS Qwele,26b3df21,Aleena Khan,97f2faf0,FO Kibasu,1c726c76,0,0,0,0,1,AS Qwele,26b3df21,SA Panayan,cad60789,caught,0,0,0
+1349151,2022/23,Tanzania,9,A Mohamed,86a68879,Aleena Khan,97f2faf0,FO Kibasu,1c726c76,0,0,0,0,0,,,,,,4,0,4
+1349151,2022/23,Tanzania,9,A Mohamed,86a68879,Aleena Khan,97f2faf0,FO Kibasu,1c726c76,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Tanzania,9,A Mohamed,86a68879,Aleena Khan,97f2faf0,FO Kibasu,1c726c76,0,0,0,0,0,,,,,,4,0,4
+1349151,2022/23,Tanzania,9,A Mohamed,86a68879,Aleena Khan,97f2faf0,FO Kibasu,1c726c76,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Tanzania,10,FO Kibasu,1c726c76,RS Quyn,41721f6b,A Mohamed,86a68879,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Tanzania,10,FO Kibasu,1c726c76,RS Quyn,41721f6b,A Mohamed,86a68879,0,0,0,0,0,,,,,,1,0,1
+1349151,2022/23,Tanzania,10,A Mohamed,86a68879,RS Quyn,41721f6b,FO Kibasu,1c726c76,0,0,0,0,1,A Mohamed,86a68879,,,lbw,0,0,0
+1349151,2022/23,Tanzania,10,PZ Kamunya,6e60bbe2,RS Quyn,41721f6b,FO Kibasu,1c726c76,0,0,0,0,0,,,,,,1,0,1
+1349151,2022/23,Tanzania,10,FO Kibasu,1c726c76,RS Quyn,41721f6b,PZ Kamunya,6e60bbe2,0,0,0,0,0,,,,,,1,0,1
+1349151,2022/23,Tanzania,10,PZ Kamunya,6e60bbe2,RS Quyn,41721f6b,FO Kibasu,1c726c76,0,0,0,0,0,,,,,,1,0,1
+1349151,2022/23,Tanzania,11,PZ Kamunya,6e60bbe2,Aleena Khan,97f2faf0,FO Kibasu,1c726c76,0,0,0,0,0,,,,,,4,0,4
+1349151,2022/23,Tanzania,11,PZ Kamunya,6e60bbe2,Aleena Khan,97f2faf0,FO Kibasu,1c726c76,0,0,0,0,0,,,,,,1,0,1
+1349151,2022/23,Tanzania,11,FO Kibasu,1c726c76,Aleena Khan,97f2faf0,PZ Kamunya,6e60bbe2,0,0,0,0,0,,,,,,4,0,4
+1349151,2022/23,Tanzania,11,FO Kibasu,1c726c76,Aleena Khan,97f2faf0,PZ Kamunya,6e60bbe2,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Tanzania,11,FO Kibasu,1c726c76,Aleena Khan,97f2faf0,PZ Kamunya,6e60bbe2,0,0,0,0,0,,,,,,2,0,2
+1349151,2022/23,Tanzania,11,FO Kibasu,1c726c76,Aleena Khan,97f2faf0,PZ Kamunya,6e60bbe2,0,0,0,0,0,,,,,,2,0,2
+1349151,2022/23,Tanzania,12,PZ Kamunya,6e60bbe2,RS Quyn,41721f6b,FO Kibasu,1c726c76,0,0,0,0,0,,,,,,1,0,1
+1349151,2022/23,Tanzania,12,FO Kibasu,1c726c76,RS Quyn,41721f6b,PZ Kamunya,6e60bbe2,0,0,0,0,1,FO Kibasu,1c726c76,,,lbw,0,0,0
+1349151,2022/23,Tanzania,12,LM Massawe,4f5a53e3,RS Quyn,41721f6b,PZ Kamunya,6e60bbe2,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Tanzania,12,LM Massawe,4f5a53e3,RS Quyn,41721f6b,PZ Kamunya,6e60bbe2,0,0,0,0,0,,,,,,2,0,2
+1349151,2022/23,Tanzania,12,LM Massawe,4f5a53e3,RS Quyn,41721f6b,PZ Kamunya,6e60bbe2,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Tanzania,12,LM Massawe,4f5a53e3,RS Quyn,41721f6b,PZ Kamunya,6e60bbe2,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Tanzania,13,PZ Kamunya,6e60bbe2,SA Panayan,cad60789,LM Massawe,4f5a53e3,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Tanzania,13,PZ Kamunya,6e60bbe2,SA Panayan,cad60789,LM Massawe,4f5a53e3,0,0,0,0,0,,,,,,1,0,1
+1349151,2022/23,Tanzania,13,LM Massawe,4f5a53e3,SA Panayan,cad60789,PZ Kamunya,6e60bbe2,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Tanzania,13,LM Massawe,4f5a53e3,SA Panayan,cad60789,PZ Kamunya,6e60bbe2,0,0,0,0,0,,,,,,1,0,1
+1349151,2022/23,Tanzania,13,PZ Kamunya,6e60bbe2,SA Panayan,cad60789,LM Massawe,4f5a53e3,0,0,0,0,0,,,,,,1,0,1
+1349151,2022/23,Tanzania,13,LM Massawe,4f5a53e3,SA Panayan,cad60789,PZ Kamunya,6e60bbe2,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Tanzania,14,PZ Kamunya,6e60bbe2,RS Quyn,41721f6b,LM Massawe,4f5a53e3,0,0,0,0,0,,,,,,4,0,4
+1349151,2022/23,Tanzania,14,PZ Kamunya,6e60bbe2,RS Quyn,41721f6b,LM Massawe,4f5a53e3,0,0,0,0,0,,,,,,1,0,1
+1349151,2022/23,Tanzania,14,LM Massawe,4f5a53e3,RS Quyn,41721f6b,PZ Kamunya,6e60bbe2,0,0,0,0,0,,,,,,2,0,2
+1349151,2022/23,Tanzania,14,LM Massawe,4f5a53e3,RS Quyn,41721f6b,PZ Kamunya,6e60bbe2,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Tanzania,14,LM Massawe,4f5a53e3,RS Quyn,41721f6b,PZ Kamunya,6e60bbe2,0,0,0,0,0,,,,,,4,0,4
+1349151,2022/23,Tanzania,14,LM Massawe,4f5a53e3,RS Quyn,41721f6b,PZ Kamunya,6e60bbe2,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Tanzania,15,PZ Kamunya,6e60bbe2,SA Panayan,cad60789,LM Massawe,4f5a53e3,0,0,0,0,0,,,,,,1,0,1
+1349151,2022/23,Tanzania,15,LM Massawe,4f5a53e3,SA Panayan,cad60789,PZ Kamunya,6e60bbe2,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Tanzania,15,LM Massawe,4f5a53e3,SA Panayan,cad60789,PZ Kamunya,6e60bbe2,0,0,0,0,0,,,,,,1,0,1
+1349151,2022/23,Tanzania,15,PZ Kamunya,6e60bbe2,SA Panayan,cad60789,LM Massawe,4f5a53e3,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Tanzania,15,PZ Kamunya,6e60bbe2,SA Panayan,cad60789,LM Massawe,4f5a53e3,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Tanzania,15,PZ Kamunya,6e60bbe2,SA Panayan,cad60789,LM Massawe,4f5a53e3,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Tanzania,16,LM Massawe,4f5a53e3,A Mare,57a25400,PZ Kamunya,6e60bbe2,1,0,0,0,0,,,,,,0,1,1
+1349151,2022/23,Tanzania,16,LM Massawe,4f5a53e3,A Mare,57a25400,PZ Kamunya,6e60bbe2,0,0,0,0,0,,,,,,2,0,2
+1349151,2022/23,Tanzania,16,LM Massawe,4f5a53e3,A Mare,57a25400,PZ Kamunya,6e60bbe2,0,0,0,0,0,,,,,,2,0,2
+1349151,2022/23,Tanzania,16,LM Massawe,4f5a53e3,A Mare,57a25400,PZ Kamunya,6e60bbe2,0,0,0,0,0,,,,,,1,0,1
+1349151,2022/23,Tanzania,16,PZ Kamunya,6e60bbe2,A Mare,57a25400,LM Massawe,4f5a53e3,0,0,0,1,0,,,,,,0,1,1
+1349151,2022/23,Tanzania,16,LM Massawe,4f5a53e3,A Mare,57a25400,PZ Kamunya,6e60bbe2,0,0,0,0,0,,,,,,1,0,1
+1349151,2022/23,Tanzania,16,PZ Kamunya,6e60bbe2,A Mare,57a25400,LM Massawe,4f5a53e3,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Tanzania,17,LM Massawe,4f5a53e3,SA Panayan,cad60789,PZ Kamunya,6e60bbe2,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Tanzania,17,LM Massawe,4f5a53e3,SA Panayan,cad60789,PZ Kamunya,6e60bbe2,0,0,0,0,0,,,,,,1,0,1
+1349151,2022/23,Tanzania,17,PZ Kamunya,6e60bbe2,SA Panayan,cad60789,LM Massawe,4f5a53e3,0,0,0,0,0,,,,,,2,0,2
+1349151,2022/23,Tanzania,17,PZ Kamunya,6e60bbe2,SA Panayan,cad60789,LM Massawe,4f5a53e3,0,0,0,1,0,,,,,,0,1,1
+1349151,2022/23,Tanzania,17,LM Massawe,4f5a53e3,SA Panayan,cad60789,PZ Kamunya,6e60bbe2,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Tanzania,17,LM Massawe,4f5a53e3,SA Panayan,cad60789,PZ Kamunya,6e60bbe2,0,0,0,0,0,,,,,,1,0,1
+1349151,2022/23,Tanzania,18,LM Massawe,4f5a53e3,S Dhadwal,7e2c16a3,PZ Kamunya,6e60bbe2,0,0,0,0,0,,,,,,2,0,2
+1349151,2022/23,Tanzania,18,LM Massawe,4f5a53e3,S Dhadwal,7e2c16a3,PZ Kamunya,6e60bbe2,0,0,0,1,0,,,,,,0,1,1
+1349151,2022/23,Tanzania,18,PZ Kamunya,6e60bbe2,S Dhadwal,7e2c16a3,LM Massawe,4f5a53e3,0,0,0,0,0,,,,,,1,0,1
+1349151,2022/23,Tanzania,18,LM Massawe,4f5a53e3,S Dhadwal,7e2c16a3,PZ Kamunya,6e60bbe2,0,0,0,0,0,,,,,,2,0,2
+1349151,2022/23,Tanzania,18,LM Massawe,4f5a53e3,S Dhadwal,7e2c16a3,PZ Kamunya,6e60bbe2,1,0,0,0,0,,,,,,0,1,1
+1349151,2022/23,Tanzania,18,LM Massawe,4f5a53e3,S Dhadwal,7e2c16a3,PZ Kamunya,6e60bbe2,0,1,0,0,0,,,,,,1,1,2
+1349151,2022/23,Tanzania,18,PZ Kamunya,6e60bbe2,S Dhadwal,7e2c16a3,LM Massawe,4f5a53e3,0,0,0,0,0,,,,,,1,0,1
+1349151,2022/23,Tanzania,18,LM Massawe,4f5a53e3,S Dhadwal,7e2c16a3,PZ Kamunya,6e60bbe2,0,0,0,0,0,,,,,,1,0,1
+1349151,2022/23,Tanzania,19,LM Massawe,4f5a53e3,SA Panayan,cad60789,PZ Kamunya,6e60bbe2,0,0,0,0,0,,,,,,1,0,1
+1349151,2022/23,Tanzania,19,PZ Kamunya,6e60bbe2,SA Panayan,cad60789,LM Massawe,4f5a53e3,0,0,0,0,0,,,,,,2,0,2
+1349151,2022/23,Tanzania,19,PZ Kamunya,6e60bbe2,SA Panayan,cad60789,LM Massawe,4f5a53e3,0,0,0,0,1,PZ Kamunya,6e60bbe2,Aysha,37ceee4e,run out,0,0,0
+1349151,2022/23,Tanzania,19,MH Ushanga,0286eabe,SA Panayan,cad60789,LM Massawe,4f5a53e3,0,0,0,1,0,,,,,,0,1,1
+1349151,2022/23,Tanzania,19,LM Massawe,4f5a53e3,SA Panayan,cad60789,MH Ushanga,0286eabe,0,0,0,0,0,,,,,,1,0,1
+1349151,2022/23,Tanzania,19,MH Ushanga,0286eabe,SA Panayan,cad60789,LM Massawe,4f5a53e3,0,0,0,0,0,,,,,,1,0,1
+1349151,2022/23,Qatar,0,Shahreeennawab,faa8843f,PZ Kamunya,6e60bbe2,SK Rana,47884f8e,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Qatar,0,Shahreeennawab,faa8843f,PZ Kamunya,6e60bbe2,SK Rana,47884f8e,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Qatar,0,Shahreeennawab,faa8843f,PZ Kamunya,6e60bbe2,SK Rana,47884f8e,0,0,0,0,0,,,,,,4,0,4
+1349151,2022/23,Qatar,0,Shahreeennawab,faa8843f,PZ Kamunya,6e60bbe2,SK Rana,47884f8e,0,0,0,4,0,,,,,,0,4,4
+1349151,2022/23,Qatar,0,Shahreeennawab,faa8843f,PZ Kamunya,6e60bbe2,SK Rana,47884f8e,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Qatar,0,Shahreeennawab,faa8843f,PZ Kamunya,6e60bbe2,SK Rana,47884f8e,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Qatar,1,SK Rana,47884f8e,AS Qwele,26b3df21,Shahreeennawab,faa8843f,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Qatar,1,SK Rana,47884f8e,AS Qwele,26b3df21,Shahreeennawab,faa8843f,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Qatar,1,SK Rana,47884f8e,AS Qwele,26b3df21,Shahreeennawab,faa8843f,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Qatar,1,SK Rana,47884f8e,AS Qwele,26b3df21,Shahreeennawab,faa8843f,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Qatar,1,SK Rana,47884f8e,AS Qwele,26b3df21,Shahreeennawab,faa8843f,0,0,0,0,0,,,,,,4,0,4
+1349151,2022/23,Qatar,1,SK Rana,47884f8e,AS Qwele,26b3df21,Shahreeennawab,faa8843f,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Qatar,2,Shahreeennawab,faa8843f,PZ Kamunya,6e60bbe2,SK Rana,47884f8e,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Qatar,2,Shahreeennawab,faa8843f,PZ Kamunya,6e60bbe2,SK Rana,47884f8e,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Qatar,2,Shahreeennawab,faa8843f,PZ Kamunya,6e60bbe2,SK Rana,47884f8e,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Qatar,2,Shahreeennawab,faa8843f,PZ Kamunya,6e60bbe2,SK Rana,47884f8e,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Qatar,2,Shahreeennawab,faa8843f,PZ Kamunya,6e60bbe2,SK Rana,47884f8e,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Qatar,2,Shahreeennawab,faa8843f,PZ Kamunya,6e60bbe2,SK Rana,47884f8e,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Qatar,3,SK Rana,47884f8e,AS Qwele,26b3df21,Shahreeennawab,faa8843f,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Qatar,3,SK Rana,47884f8e,AS Qwele,26b3df21,Shahreeennawab,faa8843f,0,0,0,0,0,,,,,,4,0,4
+1349151,2022/23,Qatar,3,SK Rana,47884f8e,AS Qwele,26b3df21,Shahreeennawab,faa8843f,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Qatar,3,SK Rana,47884f8e,AS Qwele,26b3df21,Shahreeennawab,faa8843f,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Qatar,3,SK Rana,47884f8e,AS Qwele,26b3df21,Shahreeennawab,faa8843f,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Qatar,3,SK Rana,47884f8e,AS Qwele,26b3df21,Shahreeennawab,faa8843f,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Qatar,4,Shahreeennawab,faa8843f,MH Ushanga,0286eabe,SK Rana,47884f8e,1,0,0,0,0,,,,,,0,1,1
+1349151,2022/23,Qatar,4,Shahreeennawab,faa8843f,MH Ushanga,0286eabe,SK Rana,47884f8e,0,0,0,0,0,,,,,,4,0,4
+1349151,2022/23,Qatar,4,Shahreeennawab,faa8843f,MH Ushanga,0286eabe,SK Rana,47884f8e,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Qatar,4,Shahreeennawab,faa8843f,MH Ushanga,0286eabe,SK Rana,47884f8e,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Qatar,4,Shahreeennawab,faa8843f,MH Ushanga,0286eabe,SK Rana,47884f8e,0,0,0,0,1,Shahreeennawab,faa8843f,,,lbw,0,0,0
+1349151,2022/23,Qatar,4,S Dhadwal,7e2c16a3,MH Ushanga,0286eabe,SK Rana,47884f8e,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Qatar,4,S Dhadwal,7e2c16a3,MH Ushanga,0286eabe,SK Rana,47884f8e,1,0,0,0,0,,,,,,0,1,1
+1349151,2022/23,Qatar,4,S Dhadwal,7e2c16a3,MH Ushanga,0286eabe,SK Rana,47884f8e,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Qatar,5,SK Rana,47884f8e,J Ulrik,ac9c2a35,S Dhadwal,7e2c16a3,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Qatar,5,SK Rana,47884f8e,J Ulrik,ac9c2a35,S Dhadwal,7e2c16a3,1,0,0,0,0,,,,,,0,1,1
+1349151,2022/23,Qatar,5,SK Rana,47884f8e,J Ulrik,ac9c2a35,S Dhadwal,7e2c16a3,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Qatar,5,SK Rana,47884f8e,J Ulrik,ac9c2a35,S Dhadwal,7e2c16a3,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Qatar,5,SK Rana,47884f8e,J Ulrik,ac9c2a35,S Dhadwal,7e2c16a3,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Qatar,5,SK Rana,47884f8e,J Ulrik,ac9c2a35,S Dhadwal,7e2c16a3,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Qatar,5,SK Rana,47884f8e,J Ulrik,ac9c2a35,S Dhadwal,7e2c16a3,0,0,0,0,0,,,,,,1,0,1
+1349151,2022/23,Qatar,6,SK Rana,47884f8e,MH Ushanga,0286eabe,S Dhadwal,7e2c16a3,0,0,0,0,0,,,,,,1,0,1
+1349151,2022/23,Qatar,6,S Dhadwal,7e2c16a3,MH Ushanga,0286eabe,SK Rana,47884f8e,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Qatar,6,S Dhadwal,7e2c16a3,MH Ushanga,0286eabe,SK Rana,47884f8e,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Qatar,6,S Dhadwal,7e2c16a3,MH Ushanga,0286eabe,SK Rana,47884f8e,0,0,0,0,0,,,,,,1,0,1
+1349151,2022/23,Qatar,6,SK Rana,47884f8e,MH Ushanga,0286eabe,S Dhadwal,7e2c16a3,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Qatar,6,SK Rana,47884f8e,MH Ushanga,0286eabe,S Dhadwal,7e2c16a3,0,0,0,0,0,,,,,,1,0,1
+1349151,2022/23,Qatar,7,SK Rana,47884f8e,J Ulrik,ac9c2a35,S Dhadwal,7e2c16a3,0,0,0,0,0,,,,,,1,0,1
+1349151,2022/23,Qatar,7,S Dhadwal,7e2c16a3,J Ulrik,ac9c2a35,SK Rana,47884f8e,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Qatar,7,S Dhadwal,7e2c16a3,J Ulrik,ac9c2a35,SK Rana,47884f8e,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Qatar,7,S Dhadwal,7e2c16a3,J Ulrik,ac9c2a35,SK Rana,47884f8e,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Qatar,7,S Dhadwal,7e2c16a3,J Ulrik,ac9c2a35,SK Rana,47884f8e,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Qatar,7,S Dhadwal,7e2c16a3,J Ulrik,ac9c2a35,SK Rana,47884f8e,0,0,0,0,0,,,,,,1,0,1
+1349151,2022/23,Qatar,8,S Dhadwal,7e2c16a3,MH Ushanga,0286eabe,SK Rana,47884f8e,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Qatar,8,S Dhadwal,7e2c16a3,MH Ushanga,0286eabe,SK Rana,47884f8e,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Qatar,8,S Dhadwal,7e2c16a3,MH Ushanga,0286eabe,SK Rana,47884f8e,0,0,0,0,0,,,,,,1,0,1
+1349151,2022/23,Qatar,8,SK Rana,47884f8e,MH Ushanga,0286eabe,S Dhadwal,7e2c16a3,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Qatar,8,SK Rana,47884f8e,MH Ushanga,0286eabe,S Dhadwal,7e2c16a3,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Qatar,8,SK Rana,47884f8e,MH Ushanga,0286eabe,S Dhadwal,7e2c16a3,0,0,0,0,0,,,,,,4,0,4
+1349151,2022/23,Qatar,9,S Dhadwal,7e2c16a3,J Ulrik,ac9c2a35,SK Rana,47884f8e,1,0,0,0,0,,,,,,0,1,1
+1349151,2022/23,Qatar,9,S Dhadwal,7e2c16a3,J Ulrik,ac9c2a35,SK Rana,47884f8e,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Qatar,9,S Dhadwal,7e2c16a3,J Ulrik,ac9c2a35,SK Rana,47884f8e,0,0,0,0,0,,,,,,1,0,1
+1349151,2022/23,Qatar,9,SK Rana,47884f8e,J Ulrik,ac9c2a35,S Dhadwal,7e2c16a3,0,0,0,0,1,SK Rana,47884f8e,LM Massawe,4f5a53e3,stumped,0,0,0
+1349151,2022/23,Qatar,9,Aysha,37ceee4e,J Ulrik,ac9c2a35,S Dhadwal,7e2c16a3,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Qatar,9,Aysha,37ceee4e,J Ulrik,ac9c2a35,S Dhadwal,7e2c16a3,0,0,0,0,0,,,,,,4,0,4
+1349151,2022/23,Qatar,9,Aysha,37ceee4e,J Ulrik,ac9c2a35,S Dhadwal,7e2c16a3,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Qatar,10,S Dhadwal,7e2c16a3,MH Ushanga,0286eabe,Aysha,37ceee4e,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Qatar,10,S Dhadwal,7e2c16a3,MH Ushanga,0286eabe,Aysha,37ceee4e,0,0,0,0,0,,,,,,1,0,1
+1349151,2022/23,Qatar,10,Aysha,37ceee4e,MH Ushanga,0286eabe,S Dhadwal,7e2c16a3,0,0,0,0,0,,,,,,1,0,1
+1349151,2022/23,Qatar,10,S Dhadwal,7e2c16a3,MH Ushanga,0286eabe,Aysha,37ceee4e,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Qatar,10,S Dhadwal,7e2c16a3,MH Ushanga,0286eabe,Aysha,37ceee4e,0,0,0,0,0,,,,,,4,0,4
+1349151,2022/23,Qatar,10,S Dhadwal,7e2c16a3,MH Ushanga,0286eabe,Aysha,37ceee4e,0,0,0,0,0,,,,,,2,0,2
+1349151,2022/23,Qatar,11,Aysha,37ceee4e,J Ulrik,ac9c2a35,S Dhadwal,7e2c16a3,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Qatar,11,Aysha,37ceee4e,J Ulrik,ac9c2a35,S Dhadwal,7e2c16a3,0,0,0,0,0,,,,,,1,0,1
+1349151,2022/23,Qatar,11,S Dhadwal,7e2c16a3,J Ulrik,ac9c2a35,Aysha,37ceee4e,0,0,0,0,0,,,,,,1,0,1
+1349151,2022/23,Qatar,11,Aysha,37ceee4e,J Ulrik,ac9c2a35,S Dhadwal,7e2c16a3,0,0,0,0,0,,,,,,1,0,1
+1349151,2022/23,Qatar,11,S Dhadwal,7e2c16a3,J Ulrik,ac9c2a35,Aysha,37ceee4e,0,0,0,0,1,S Dhadwal,7e2c16a3,HM Omary,2cbe5db1,caught,0,0,0
+1349151,2022/23,Qatar,11,A Mare,57a25400,J Ulrik,ac9c2a35,Aysha,37ceee4e,0,0,0,0,0,,,,,,1,0,1
+1349151,2022/23,Qatar,12,A Mare,57a25400,A Mohamed,86a68879,Aysha,37ceee4e,0,0,0,0,1,A Mare,57a25400,,,bowled,0,0,0
+1349151,2022/23,Qatar,12,Aleena Khan,97f2faf0,A Mohamed,86a68879,Aysha,37ceee4e,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Qatar,12,Aleena Khan,97f2faf0,A Mohamed,86a68879,Aysha,37ceee4e,0,0,0,0,0,,,,,,1,0,1
+1349151,2022/23,Qatar,12,Aysha,37ceee4e,A Mohamed,86a68879,Aleena Khan,97f2faf0,0,0,0,0,0,,,,,,1,0,1
+1349151,2022/23,Qatar,12,Aleena Khan,97f2faf0,A Mohamed,86a68879,Aysha,37ceee4e,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Qatar,12,Aleena Khan,97f2faf0,A Mohamed,86a68879,Aysha,37ceee4e,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Qatar,13,Aysha,37ceee4e,S Mtae,bb641155,Aleena Khan,97f2faf0,0,0,0,0,0,,,,,,2,0,2
+1349151,2022/23,Qatar,13,Aysha,37ceee4e,S Mtae,bb641155,Aleena Khan,97f2faf0,0,0,0,0,0,,,,,,1,0,1
+1349151,2022/23,Qatar,13,Aleena Khan,97f2faf0,S Mtae,bb641155,Aysha,37ceee4e,1,0,0,0,0,,,,,,0,1,1
+1349151,2022/23,Qatar,13,Aleena Khan,97f2faf0,S Mtae,bb641155,Aysha,37ceee4e,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Qatar,13,Aleena Khan,97f2faf0,S Mtae,bb641155,Aysha,37ceee4e,0,0,0,0,0,,,,,,1,0,1
+1349151,2022/23,Qatar,13,Aysha,37ceee4e,S Mtae,bb641155,Aleena Khan,97f2faf0,0,0,0,0,0,,,,,,4,0,4
+1349151,2022/23,Qatar,13,Aysha,37ceee4e,S Mtae,bb641155,Aleena Khan,97f2faf0,1,0,0,0,0,,,,,,0,1,1
+1349151,2022/23,Qatar,13,Aysha,37ceee4e,S Mtae,bb641155,Aleena Khan,97f2faf0,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Qatar,14,Aleena Khan,97f2faf0,A Mohamed,86a68879,Aysha,37ceee4e,1,0,0,0,0,,,,,,0,1,1
+1349151,2022/23,Qatar,14,Aleena Khan,97f2faf0,A Mohamed,86a68879,Aysha,37ceee4e,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Qatar,14,Aleena Khan,97f2faf0,A Mohamed,86a68879,Aysha,37ceee4e,0,0,0,0,0,,,,,,1,0,1
+1349151,2022/23,Qatar,14,Aysha,37ceee4e,A Mohamed,86a68879,Aleena Khan,97f2faf0,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Qatar,14,Aysha,37ceee4e,A Mohamed,86a68879,Aleena Khan,97f2faf0,0,0,0,0,0,,,,,,4,0,4
+1349151,2022/23,Qatar,14,Aysha,37ceee4e,A Mohamed,86a68879,Aleena Khan,97f2faf0,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Qatar,14,Aysha,37ceee4e,A Mohamed,86a68879,Aleena Khan,97f2faf0,0,0,0,0,0,,,,,,2,0,2
+1349151,2022/23,Qatar,15,Aleena Khan,97f2faf0,S Mtae,bb641155,Aysha,37ceee4e,0,0,0,0,1,Aleena Khan,97f2faf0,LM Massawe,4f5a53e3,stumped,0,0,0
+1349151,2022/23,Qatar,15,H Agarwal,3f886270,S Mtae,bb641155,Aysha,37ceee4e,0,0,0,0,0,,,,,,1,0,1
+1349151,2022/23,Qatar,15,Aysha,37ceee4e,S Mtae,bb641155,H Agarwal,3f886270,0,0,0,0,0,,,,,,2,0,2
+1349151,2022/23,Qatar,15,Aysha,37ceee4e,S Mtae,bb641155,H Agarwal,3f886270,0,0,0,0,0,,,,,,1,0,1
+1349151,2022/23,Qatar,15,H Agarwal,3f886270,S Mtae,bb641155,Aysha,37ceee4e,0,0,0,0,0,,,,,,2,0,2
+1349151,2022/23,Qatar,15,H Agarwal,3f886270,S Mtae,bb641155,Aysha,37ceee4e,0,0,0,0,0,,,,,,1,0,1
+1349151,2022/23,Qatar,16,H Agarwal,3f886270,PZ Kamunya,6e60bbe2,Aysha,37ceee4e,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Qatar,16,H Agarwal,3f886270,PZ Kamunya,6e60bbe2,Aysha,37ceee4e,0,0,0,0,0,,,,,,1,0,1
+1349151,2022/23,Qatar,16,Aysha,37ceee4e,PZ Kamunya,6e60bbe2,H Agarwal,3f886270,0,0,0,0,0,,,,,,4,0,4
+1349151,2022/23,Qatar,16,Aysha,37ceee4e,PZ Kamunya,6e60bbe2,H Agarwal,3f886270,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Qatar,16,Aysha,37ceee4e,PZ Kamunya,6e60bbe2,H Agarwal,3f886270,0,0,0,0,0,,,,,,1,0,1
+1349151,2022/23,Qatar,16,H Agarwal,3f886270,PZ Kamunya,6e60bbe2,Aysha,37ceee4e,0,0,0,0,0,,,,,,1,0,1
+1349151,2022/23,Qatar,17,H Agarwal,3f886270,AS Qwele,26b3df21,Aysha,37ceee4e,0,0,0,0,0,,,,,,1,0,1
+1349151,2022/23,Qatar,17,Aysha,37ceee4e,AS Qwele,26b3df21,H Agarwal,3f886270,0,0,0,0,0,,,,,,1,0,1
+1349151,2022/23,Qatar,17,H Agarwal,3f886270,AS Qwele,26b3df21,Aysha,37ceee4e,0,0,0,0,0,,,,,,1,0,1
+1349151,2022/23,Qatar,17,Aysha,37ceee4e,AS Qwele,26b3df21,H Agarwal,3f886270,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Qatar,17,Aysha,37ceee4e,AS Qwele,26b3df21,H Agarwal,3f886270,0,0,0,0,1,H Agarwal,3f886270,Rahima Yahaya,d75bec48,run out,1,0,1
+1349151,2022/23,Qatar,17,Aysha,37ceee4e,AS Qwele,26b3df21,Khadija Imtiaz,1438d928,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Qatar,18,Khadija Imtiaz,1438d928,PZ Kamunya,6e60bbe2,Aysha,37ceee4e,0,0,0,0,0,,,,,,0,0,0
+1349151,2022/23,Qatar,18,Khadija Imtiaz,1438d928,PZ Kamunya,6e60bbe2,Aysha,37ceee4e,0,0,0,0,0,,,,,,1,0,1
+1349151,2022/23,Qatar,18,Aysha,37ceee4e,PZ Kamunya,6e60bbe2,Khadija Imtiaz,1438d928,0,0,0,0,0,,,,,,1,0,1
+1349151,2022/23,Qatar,18,Khadija Imtiaz,1438d928,PZ Kamunya,6e60bbe2,Aysha,37ceee4e,0,0,0,0,0,,,,,,1,0,1
+1349151,2022/23,Qatar,18,Aysha,37ceee4e,PZ Kamunya,6e60bbe2,Khadija Imtiaz,1438d928,0,0,0,0,0,,,,,,4,0,4
+1349151,2022/23,Qatar,18,Aysha,37ceee4e,PZ Kamunya,6e60bbe2,Khadija Imtiaz,1438d928,0,0,0,0,1,Aysha,37ceee4e,,,bowled,0,0,0
+1349151,2022/23,Qatar,19,Khadija Imtiaz,1438d928,AS Qwele,26b3df21,RS Quyn,41721f6b,1,0,0,0,0,,,,,,0,1,1
+1349151,2022/23,Qatar,19,Khadija Imtiaz,1438d928,AS Qwele,26b3df21,RS Quyn,41721f6b,0,0,0,0,0,,,,,,1,0,1
+1349151,2022/23,Qatar,19,RS Quyn,41721f6b,AS Qwele,26b3df21,Khadija Imtiaz,1438d928,0,0,0,0,0,,,,,,2,0,2
+1349151,2022/23,Qatar,19,RS Quyn,41721f6b,AS Qwele,26b3df21,Khadija Imtiaz,1438d928,0,0,0,0,1,RS Quyn,41721f6b,LM Massawe,4f5a53e3,caught,0,0,0
+1349151,2022/23,Qatar,19,T Kale,bc9bd4c6,AS Qwele,26b3df21,Khadija Imtiaz,1438d928,0,0,0,0,1,Khadija Imtiaz,1438d928,S Mtae,bb641155,run out,0,0,0
+1349151,2022/23,Qatar,19,T Kale,bc9bd4c6,AS Qwele,26b3df21,SA Panayan,cad60789,0,0,0,0,1,SA Panayan,cad60789,S Mtae,bb641155,run out,0,0,0

@@ -1,0 +1,256 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1122285,2017/18,India,0,RG Sharma,740742ef,D Paterson,462d7c62,S Dhawan,0a476045,0,0,0,0,0,,,,,,0,0,0
+1122285,2017/18,India,0,RG Sharma,740742ef,D Paterson,462d7c62,S Dhawan,0a476045,0,0,0,0,0,,,,,,6,0,6
+1122285,2017/18,India,0,RG Sharma,740742ef,D Paterson,462d7c62,S Dhawan,0a476045,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,India,0,S Dhawan,0a476045,D Paterson,462d7c62,RG Sharma,740742ef,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,India,0,RG Sharma,740742ef,D Paterson,462d7c62,S Dhawan,0a476045,0,0,0,0,0,,,,,,6,0,6
+1122285,2017/18,India,0,RG Sharma,740742ef,D Paterson,462d7c62,S Dhawan,0a476045,0,0,0,0,0,,,,,,4,0,4
+1122285,2017/18,India,1,S Dhawan,0a476045,CJ Dala,1cb14aa4,RG Sharma,740742ef,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,India,1,RG Sharma,740742ef,CJ Dala,1cb14aa4,S Dhawan,0a476045,0,0,0,0,0,,,,,,4,0,4
+1122285,2017/18,India,1,RG Sharma,740742ef,CJ Dala,1cb14aa4,S Dhawan,0a476045,0,0,0,0,0,,,,,,0,0,0
+1122285,2017/18,India,1,RG Sharma,740742ef,CJ Dala,1cb14aa4,S Dhawan,0a476045,0,0,0,0,0,,,,,,0,0,0
+1122285,2017/18,India,1,RG Sharma,740742ef,CJ Dala,1cb14aa4,S Dhawan,0a476045,0,0,0,0,1,RG Sharma,740742ef,H Klaasen,235c2bb6,caught,0,0,0
+1122285,2017/18,India,1,SK Raina,1dc12ab9,CJ Dala,1cb14aa4,S Dhawan,0a476045,1,0,0,0,0,,,,,,0,1,1
+1122285,2017/18,India,1,SK Raina,1dc12ab9,CJ Dala,1cb14aa4,S Dhawan,0a476045,0,0,0,0,0,,,,,,0,0,0
+1122285,2017/18,India,2,S Dhawan,0a476045,D Paterson,462d7c62,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,0,0,0
+1122285,2017/18,India,2,S Dhawan,0a476045,D Paterson,462d7c62,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,India,2,SK Raina,1dc12ab9,D Paterson,462d7c62,S Dhawan,0a476045,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,India,2,S Dhawan,0a476045,D Paterson,462d7c62,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,India,2,SK Raina,1dc12ab9,D Paterson,462d7c62,S Dhawan,0a476045,0,0,0,0,0,,,,,,6,0,6
+1122285,2017/18,India,2,SK Raina,1dc12ab9,D Paterson,462d7c62,S Dhawan,0a476045,0,0,0,0,0,,,,,,4,0,4
+1122285,2017/18,India,3,S Dhawan,0a476045,CJ Dala,1cb14aa4,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,6,0,6
+1122285,2017/18,India,3,S Dhawan,0a476045,CJ Dala,1cb14aa4,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,0,0,0
+1122285,2017/18,India,3,S Dhawan,0a476045,CJ Dala,1cb14aa4,SK Raina,1dc12ab9,1,0,0,0,0,,,,,,0,1,1
+1122285,2017/18,India,3,S Dhawan,0a476045,CJ Dala,1cb14aa4,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,India,3,SK Raina,1dc12ab9,CJ Dala,1cb14aa4,S Dhawan,0a476045,0,0,0,0,0,,,,,,0,0,0
+1122285,2017/18,India,3,SK Raina,1dc12ab9,CJ Dala,1cb14aa4,S Dhawan,0a476045,0,0,0,0,0,,,,,,4,0,4
+1122285,2017/18,India,3,SK Raina,1dc12ab9,CJ Dala,1cb14aa4,S Dhawan,0a476045,0,0,0,0,1,SK Raina,1dc12ab9,,,caught and bowled,0,0,0
+1122285,2017/18,India,4,V Kohli,ba607b88,CH Morris,fb66ce1f,S Dhawan,0a476045,0,0,0,0,0,,,,,,0,0,0
+1122285,2017/18,India,4,V Kohli,ba607b88,CH Morris,fb66ce1f,S Dhawan,0a476045,0,0,0,0,0,,,,,,0,0,0
+1122285,2017/18,India,4,V Kohli,ba607b88,CH Morris,fb66ce1f,S Dhawan,0a476045,0,0,0,0,0,,,,,,2,0,2
+1122285,2017/18,India,4,V Kohli,ba607b88,CH Morris,fb66ce1f,S Dhawan,0a476045,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,India,4,S Dhawan,0a476045,CH Morris,fb66ce1f,V Kohli,ba607b88,0,0,0,0,0,,,,,,4,0,4
+1122285,2017/18,India,4,S Dhawan,0a476045,CH Morris,fb66ce1f,V Kohli,ba607b88,0,0,0,0,0,,,,,,4,0,4
+1122285,2017/18,India,5,V Kohli,ba607b88,CJ Dala,1cb14aa4,S Dhawan,0a476045,0,0,0,0,0,,,,,,4,0,4
+1122285,2017/18,India,5,V Kohli,ba607b88,CJ Dala,1cb14aa4,S Dhawan,0a476045,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,India,5,S Dhawan,0a476045,CJ Dala,1cb14aa4,V Kohli,ba607b88,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,India,5,V Kohli,ba607b88,CJ Dala,1cb14aa4,S Dhawan,0a476045,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,India,5,S Dhawan,0a476045,CJ Dala,1cb14aa4,V Kohli,ba607b88,0,0,0,0,0,,,,,,6,0,6
+1122285,2017/18,India,5,S Dhawan,0a476045,CJ Dala,1cb14aa4,V Kohli,ba607b88,1,0,0,0,0,,,,,,0,1,1
+1122285,2017/18,India,5,S Dhawan,0a476045,CJ Dala,1cb14aa4,V Kohli,ba607b88,0,0,0,0,0,,,,,,4,0,4
+1122285,2017/18,India,6,V Kohli,ba607b88,CH Morris,fb66ce1f,S Dhawan,0a476045,0,0,0,0,0,,,,,,0,0,0
+1122285,2017/18,India,6,V Kohli,ba607b88,CH Morris,fb66ce1f,S Dhawan,0a476045,1,0,0,0,0,,,,,,0,1,1
+1122285,2017/18,India,6,V Kohli,ba607b88,CH Morris,fb66ce1f,S Dhawan,0a476045,0,0,0,0,0,,,,,,0,0,0
+1122285,2017/18,India,6,V Kohli,ba607b88,CH Morris,fb66ce1f,S Dhawan,0a476045,0,0,0,0,0,,,,,,0,0,0
+1122285,2017/18,India,6,V Kohli,ba607b88,CH Morris,fb66ce1f,S Dhawan,0a476045,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,India,6,S Dhawan,0a476045,CH Morris,fb66ce1f,V Kohli,ba607b88,0,0,0,0,0,,,,,,0,0,0
+1122285,2017/18,India,6,S Dhawan,0a476045,CH Morris,fb66ce1f,V Kohli,ba607b88,0,0,0,0,0,,,,,,4,0,4
+1122285,2017/18,India,7,V Kohli,ba607b88,T Shamsi,a03bba42,S Dhawan,0a476045,0,0,0,0,0,,,,,,0,0,0
+1122285,2017/18,India,7,V Kohli,ba607b88,T Shamsi,a03bba42,S Dhawan,0a476045,0,0,0,0,0,,,,,,4,0,4
+1122285,2017/18,India,7,V Kohli,ba607b88,T Shamsi,a03bba42,S Dhawan,0a476045,0,0,0,0,0,,,,,,2,0,2
+1122285,2017/18,India,7,V Kohli,ba607b88,T Shamsi,a03bba42,S Dhawan,0a476045,0,0,0,0,0,,,,,,6,0,6
+1122285,2017/18,India,7,V Kohli,ba607b88,T Shamsi,a03bba42,S Dhawan,0a476045,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,India,7,S Dhawan,0a476045,T Shamsi,a03bba42,V Kohli,ba607b88,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,India,8,S Dhawan,0a476045,JT Smuts,42172c3c,V Kohli,ba607b88,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,India,8,V Kohli,ba607b88,JT Smuts,42172c3c,S Dhawan,0a476045,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,India,8,S Dhawan,0a476045,JT Smuts,42172c3c,V Kohli,ba607b88,0,0,0,0,0,,,,,,0,0,0
+1122285,2017/18,India,8,S Dhawan,0a476045,JT Smuts,42172c3c,V Kohli,ba607b88,0,0,0,0,0,,,,,,4,0,4
+1122285,2017/18,India,8,S Dhawan,0a476045,JT Smuts,42172c3c,V Kohli,ba607b88,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,India,8,V Kohli,ba607b88,JT Smuts,42172c3c,S Dhawan,0a476045,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,India,9,V Kohli,ba607b88,T Shamsi,a03bba42,S Dhawan,0a476045,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,India,9,S Dhawan,0a476045,T Shamsi,a03bba42,V Kohli,ba607b88,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,India,9,V Kohli,ba607b88,T Shamsi,a03bba42,S Dhawan,0a476045,0,0,0,0,1,V Kohli,ba607b88,,,lbw,0,0,0
+1122285,2017/18,India,9,MK Pandey,93b4fc78,T Shamsi,a03bba42,S Dhawan,0a476045,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,India,9,S Dhawan,0a476045,T Shamsi,a03bba42,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,0,0,0
+1122285,2017/18,India,9,S Dhawan,0a476045,T Shamsi,a03bba42,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,India,10,S Dhawan,0a476045,JT Smuts,42172c3c,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,India,10,MK Pandey,93b4fc78,JT Smuts,42172c3c,S Dhawan,0a476045,0,0,0,0,0,,,,,,0,0,0
+1122285,2017/18,India,10,MK Pandey,93b4fc78,JT Smuts,42172c3c,S Dhawan,0a476045,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,India,10,S Dhawan,0a476045,JT Smuts,42172c3c,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,2,0,2
+1122285,2017/18,India,10,S Dhawan,0a476045,JT Smuts,42172c3c,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,India,10,MK Pandey,93b4fc78,JT Smuts,42172c3c,S Dhawan,0a476045,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,India,11,MK Pandey,93b4fc78,T Shamsi,a03bba42,S Dhawan,0a476045,0,0,0,0,0,,,,,,6,0,6
+1122285,2017/18,India,11,MK Pandey,93b4fc78,T Shamsi,a03bba42,S Dhawan,0a476045,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,India,11,S Dhawan,0a476045,T Shamsi,a03bba42,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,4,0,4
+1122285,2017/18,India,11,S Dhawan,0a476045,T Shamsi,a03bba42,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,India,11,MK Pandey,93b4fc78,T Shamsi,a03bba42,S Dhawan,0a476045,0,0,0,0,0,,,,,,0,0,0
+1122285,2017/18,India,11,MK Pandey,93b4fc78,T Shamsi,a03bba42,S Dhawan,0a476045,0,0,0,0,0,,,,,,0,0,0
+1122285,2017/18,India,12,S Dhawan,0a476045,AL Phehlukwayo,ab6b1c45,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,0,0,0
+1122285,2017/18,India,12,S Dhawan,0a476045,AL Phehlukwayo,ab6b1c45,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,4,0,4
+1122285,2017/18,India,12,S Dhawan,0a476045,AL Phehlukwayo,ab6b1c45,MK Pandey,93b4fc78,0,0,2,0,0,,,,,,0,2,2
+1122285,2017/18,India,12,S Dhawan,0a476045,AL Phehlukwayo,ab6b1c45,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,2,0,2
+1122285,2017/18,India,12,S Dhawan,0a476045,AL Phehlukwayo,ab6b1c45,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,India,12,MK Pandey,93b4fc78,AL Phehlukwayo,ab6b1c45,S Dhawan,0a476045,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,India,13,MK Pandey,93b4fc78,CJ Dala,1cb14aa4,S Dhawan,0a476045,0,0,0,0,0,,,,,,0,0,0
+1122285,2017/18,India,13,MK Pandey,93b4fc78,CJ Dala,1cb14aa4,S Dhawan,0a476045,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,India,13,S Dhawan,0a476045,CJ Dala,1cb14aa4,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,4,0,4
+1122285,2017/18,India,13,S Dhawan,0a476045,CJ Dala,1cb14aa4,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,India,13,MK Pandey,93b4fc78,CJ Dala,1cb14aa4,S Dhawan,0a476045,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,India,13,S Dhawan,0a476045,CJ Dala,1cb14aa4,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,4,0,4
+1122285,2017/18,India,14,MK Pandey,93b4fc78,AL Phehlukwayo,ab6b1c45,S Dhawan,0a476045,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,India,14,S Dhawan,0a476045,AL Phehlukwayo,ab6b1c45,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,0,0,0
+1122285,2017/18,India,14,S Dhawan,0a476045,AL Phehlukwayo,ab6b1c45,MK Pandey,93b4fc78,1,0,0,0,0,,,,,,0,1,1
+1122285,2017/18,India,14,S Dhawan,0a476045,AL Phehlukwayo,ab6b1c45,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,4,0,4
+1122285,2017/18,India,14,S Dhawan,0a476045,AL Phehlukwayo,ab6b1c45,MK Pandey,93b4fc78,0,0,0,0,1,S Dhawan,0a476045,H Klaasen,235c2bb6,caught,0,0,0
+1122285,2017/18,India,14,MS Dhoni,4a8a2e3b,AL Phehlukwayo,ab6b1c45,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,India,14,MK Pandey,93b4fc78,AL Phehlukwayo,ab6b1c45,MS Dhoni,4a8a2e3b,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,India,15,MK Pandey,93b4fc78,T Shamsi,a03bba42,MS Dhoni,4a8a2e3b,0,0,0,0,0,,,,,,3,0,3
+1122285,2017/18,India,15,MS Dhoni,4a8a2e3b,T Shamsi,a03bba42,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,0,0,0
+1122285,2017/18,India,15,MS Dhoni,4a8a2e3b,T Shamsi,a03bba42,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,India,15,MK Pandey,93b4fc78,T Shamsi,a03bba42,MS Dhoni,4a8a2e3b,0,0,0,0,0,,,,,,2,0,2
+1122285,2017/18,India,15,MK Pandey,93b4fc78,T Shamsi,a03bba42,MS Dhoni,4a8a2e3b,1,0,0,0,0,,,,,,0,1,1
+1122285,2017/18,India,15,MK Pandey,93b4fc78,T Shamsi,a03bba42,MS Dhoni,4a8a2e3b,0,0,0,0,0,,,,,,0,0,0
+1122285,2017/18,India,15,MK Pandey,93b4fc78,T Shamsi,a03bba42,MS Dhoni,4a8a2e3b,0,0,0,0,0,,,,,,0,0,0
+1122285,2017/18,India,16,MS Dhoni,4a8a2e3b,CH Morris,fb66ce1f,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,2,0,2
+1122285,2017/18,India,16,MS Dhoni,4a8a2e3b,CH Morris,fb66ce1f,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,India,16,MK Pandey,93b4fc78,CH Morris,fb66ce1f,MS Dhoni,4a8a2e3b,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,India,16,MS Dhoni,4a8a2e3b,CH Morris,fb66ce1f,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,India,16,MK Pandey,93b4fc78,CH Morris,fb66ce1f,MS Dhoni,4a8a2e3b,1,0,0,0,0,,,,,,0,1,1
+1122285,2017/18,India,16,MK Pandey,93b4fc78,CH Morris,fb66ce1f,MS Dhoni,4a8a2e3b,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,India,16,MS Dhoni,4a8a2e3b,CH Morris,fb66ce1f,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,4,0,4
+1122285,2017/18,India,17,MK Pandey,93b4fc78,D Paterson,462d7c62,MS Dhoni,4a8a2e3b,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,India,17,MS Dhoni,4a8a2e3b,D Paterson,462d7c62,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,4,0,4
+1122285,2017/18,India,17,MS Dhoni,4a8a2e3b,D Paterson,462d7c62,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,India,17,MK Pandey,93b4fc78,D Paterson,462d7c62,MS Dhoni,4a8a2e3b,0,0,0,0,0,,,,,,0,0,0
+1122285,2017/18,India,17,MK Pandey,93b4fc78,D Paterson,462d7c62,MS Dhoni,4a8a2e3b,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,India,17,MS Dhoni,4a8a2e3b,D Paterson,462d7c62,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,India,18,MS Dhoni,4a8a2e3b,CH Morris,fb66ce1f,MK Pandey,93b4fc78,0,0,0,0,1,MS Dhoni,4a8a2e3b,,,bowled,0,0,0
+1122285,2017/18,India,18,HH Pandya,dbe50b21,CH Morris,fb66ce1f,MK Pandey,93b4fc78,1,0,0,0,0,,,,,,0,1,1
+1122285,2017/18,India,18,HH Pandya,dbe50b21,CH Morris,fb66ce1f,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,0,0,0
+1122285,2017/18,India,18,HH Pandya,dbe50b21,CH Morris,fb66ce1f,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,4,0,4
+1122285,2017/18,India,18,HH Pandya,dbe50b21,CH Morris,fb66ce1f,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,4,0,4
+1122285,2017/18,India,18,HH Pandya,dbe50b21,CH Morris,fb66ce1f,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,India,18,MK Pandey,93b4fc78,CH Morris,fb66ce1f,HH Pandya,dbe50b21,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,India,19,MK Pandey,93b4fc78,D Paterson,462d7c62,HH Pandya,dbe50b21,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,India,19,HH Pandya,dbe50b21,D Paterson,462d7c62,MK Pandey,93b4fc78,1,0,0,0,0,,,,,,0,1,1
+1122285,2017/18,India,19,HH Pandya,dbe50b21,D Paterson,462d7c62,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,2,0,2
+1122285,2017/18,India,19,HH Pandya,dbe50b21,D Paterson,462d7c62,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,India,19,MK Pandey,93b4fc78,D Paterson,462d7c62,HH Pandya,dbe50b21,0,0,0,0,0,,,,,,2,0,2
+1122285,2017/18,India,19,MK Pandey,93b4fc78,D Paterson,462d7c62,HH Pandya,dbe50b21,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,India,19,HH Pandya,dbe50b21,D Paterson,462d7c62,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,South Africa,0,JT Smuts,42172c3c,B Kumar,2e81a32d,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,4,0,4
+1122285,2017/18,South Africa,0,JT Smuts,42172c3c,B Kumar,2e81a32d,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,South Africa,0,RR Hendricks,b8cc58c9,B Kumar,2e81a32d,JT Smuts,42172c3c,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,South Africa,0,JT Smuts,42172c3c,B Kumar,2e81a32d,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,0,0,0
+1122285,2017/18,South Africa,0,JT Smuts,42172c3c,B Kumar,2e81a32d,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,0,0,0
+1122285,2017/18,South Africa,0,JT Smuts,42172c3c,B Kumar,2e81a32d,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,0,0,0
+1122285,2017/18,South Africa,1,RR Hendricks,b8cc58c9,JD Unadkat,1e66c162,JT Smuts,42172c3c,0,0,0,0,0,,,,,,0,0,0
+1122285,2017/18,South Africa,1,RR Hendricks,b8cc58c9,JD Unadkat,1e66c162,JT Smuts,42172c3c,0,0,0,0,0,,,,,,4,0,4
+1122285,2017/18,South Africa,1,RR Hendricks,b8cc58c9,JD Unadkat,1e66c162,JT Smuts,42172c3c,1,0,0,0,0,,,,,,0,1,1
+1122285,2017/18,South Africa,1,RR Hendricks,b8cc58c9,JD Unadkat,1e66c162,JT Smuts,42172c3c,0,0,0,0,0,,,,,,0,0,0
+1122285,2017/18,South Africa,1,RR Hendricks,b8cc58c9,JD Unadkat,1e66c162,JT Smuts,42172c3c,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,South Africa,1,JT Smuts,42172c3c,JD Unadkat,1e66c162,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,4,0,4
+1122285,2017/18,South Africa,1,JT Smuts,42172c3c,JD Unadkat,1e66c162,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,4,0,4
+1122285,2017/18,South Africa,2,RR Hendricks,b8cc58c9,B Kumar,2e81a32d,JT Smuts,42172c3c,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,South Africa,2,JT Smuts,42172c3c,B Kumar,2e81a32d,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,South Africa,2,RR Hendricks,b8cc58c9,B Kumar,2e81a32d,JT Smuts,42172c3c,0,0,0,0,0,,,,,,6,0,6
+1122285,2017/18,South Africa,2,RR Hendricks,b8cc58c9,B Kumar,2e81a32d,JT Smuts,42172c3c,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,South Africa,2,JT Smuts,42172c3c,B Kumar,2e81a32d,RR Hendricks,b8cc58c9,0,0,0,0,1,JT Smuts,42172c3c,S Dhawan,0a476045,caught,0,0,0
+1122285,2017/18,South Africa,2,RR Hendricks,b8cc58c9,B Kumar,2e81a32d,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,South Africa,3,RR Hendricks,b8cc58c9,JD Unadkat,1e66c162,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,South Africa,3,JP Duminy,2e8994e7,JD Unadkat,1e66c162,RR Hendricks,b8cc58c9,0,0,1,0,0,,,,,,0,1,1
+1122285,2017/18,South Africa,3,RR Hendricks,b8cc58c9,JD Unadkat,1e66c162,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,0,0,0
+1122285,2017/18,South Africa,3,RR Hendricks,b8cc58c9,JD Unadkat,1e66c162,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,South Africa,3,JP Duminy,2e8994e7,JD Unadkat,1e66c162,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,0,0,0
+1122285,2017/18,South Africa,3,JP Duminy,2e8994e7,JD Unadkat,1e66c162,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,2,0,2
+1122285,2017/18,South Africa,4,RR Hendricks,b8cc58c9,B Kumar,2e81a32d,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,South Africa,4,JP Duminy,2e8994e7,B Kumar,2e81a32d,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,0,0,0
+1122285,2017/18,South Africa,4,JP Duminy,2e8994e7,B Kumar,2e81a32d,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,0,0,0
+1122285,2017/18,South Africa,4,JP Duminy,2e8994e7,B Kumar,2e81a32d,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,South Africa,4,RR Hendricks,b8cc58c9,B Kumar,2e81a32d,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,South Africa,4,JP Duminy,2e8994e7,B Kumar,2e81a32d,RR Hendricks,b8cc58c9,0,0,0,0,1,JP Duminy,2e8994e7,SK Raina,1dc12ab9,caught,0,0,0
+1122285,2017/18,South Africa,5,DA Miller,d67d5f00,JJ Bumrah,462411b3,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,0,0,0
+1122285,2017/18,South Africa,5,DA Miller,d67d5f00,JJ Bumrah,462411b3,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,2,0,2
+1122285,2017/18,South Africa,5,DA Miller,d67d5f00,JJ Bumrah,462411b3,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,South Africa,5,RR Hendricks,b8cc58c9,JJ Bumrah,462411b3,DA Miller,d67d5f00,0,0,0,0,0,,,,,,0,0,0
+1122285,2017/18,South Africa,5,RR Hendricks,b8cc58c9,JJ Bumrah,462411b3,DA Miller,d67d5f00,0,0,0,0,0,,,,,,0,0,0
+1122285,2017/18,South Africa,5,RR Hendricks,b8cc58c9,JJ Bumrah,462411b3,DA Miller,d67d5f00,0,0,0,0,0,,,,,,0,0,0
+1122285,2017/18,South Africa,6,DA Miller,d67d5f00,HH Pandya,dbe50b21,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,6,0,6
+1122285,2017/18,South Africa,6,DA Miller,d67d5f00,HH Pandya,dbe50b21,RR Hendricks,b8cc58c9,1,0,0,0,0,,,,,,0,1,1
+1122285,2017/18,South Africa,6,DA Miller,d67d5f00,HH Pandya,dbe50b21,RR Hendricks,b8cc58c9,0,0,0,0,1,DA Miller,d67d5f00,S Dhawan,0a476045,caught,0,0,0
+1122285,2017/18,South Africa,6,RR Hendricks,b8cc58c9,HH Pandya,dbe50b21,F Behardien,dce2019b,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,South Africa,6,F Behardien,dce2019b,HH Pandya,dbe50b21,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,South Africa,6,RR Hendricks,b8cc58c9,HH Pandya,dbe50b21,F Behardien,dce2019b,1,0,0,0,0,,,,,,0,1,1
+1122285,2017/18,South Africa,6,RR Hendricks,b8cc58c9,HH Pandya,dbe50b21,F Behardien,dce2019b,0,0,0,0,0,,,,,,4,0,4
+1122285,2017/18,South Africa,6,RR Hendricks,b8cc58c9,HH Pandya,dbe50b21,F Behardien,dce2019b,0,0,0,0,0,,,,,,0,0,0
+1122285,2017/18,South Africa,7,F Behardien,dce2019b,YS Chahal,57ee1fde,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,South Africa,7,RR Hendricks,b8cc58c9,YS Chahal,57ee1fde,F Behardien,dce2019b,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,South Africa,7,F Behardien,dce2019b,YS Chahal,57ee1fde,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,South Africa,7,RR Hendricks,b8cc58c9,YS Chahal,57ee1fde,F Behardien,dce2019b,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,South Africa,7,F Behardien,dce2019b,YS Chahal,57ee1fde,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,South Africa,7,RR Hendricks,b8cc58c9,YS Chahal,57ee1fde,F Behardien,dce2019b,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,South Africa,8,RR Hendricks,b8cc58c9,HH Pandya,dbe50b21,F Behardien,dce2019b,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,South Africa,8,F Behardien,dce2019b,HH Pandya,dbe50b21,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,0,0,0
+1122285,2017/18,South Africa,8,F Behardien,dce2019b,HH Pandya,dbe50b21,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,South Africa,8,RR Hendricks,b8cc58c9,HH Pandya,dbe50b21,F Behardien,dce2019b,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,South Africa,8,F Behardien,dce2019b,HH Pandya,dbe50b21,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,4,0,4
+1122285,2017/18,South Africa,8,F Behardien,dce2019b,HH Pandya,dbe50b21,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,0,0,0
+1122285,2017/18,South Africa,9,RR Hendricks,b8cc58c9,YS Chahal,57ee1fde,F Behardien,dce2019b,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,South Africa,9,F Behardien,dce2019b,YS Chahal,57ee1fde,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,6,0,6
+1122285,2017/18,South Africa,9,F Behardien,dce2019b,YS Chahal,57ee1fde,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,2,0,2
+1122285,2017/18,South Africa,9,F Behardien,dce2019b,YS Chahal,57ee1fde,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,South Africa,9,RR Hendricks,b8cc58c9,YS Chahal,57ee1fde,F Behardien,dce2019b,0,0,0,0,0,,,,,,0,0,0
+1122285,2017/18,South Africa,9,RR Hendricks,b8cc58c9,YS Chahal,57ee1fde,F Behardien,dce2019b,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,South Africa,10,RR Hendricks,b8cc58c9,HH Pandya,dbe50b21,F Behardien,dce2019b,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,South Africa,10,F Behardien,dce2019b,HH Pandya,dbe50b21,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,South Africa,10,RR Hendricks,b8cc58c9,HH Pandya,dbe50b21,F Behardien,dce2019b,0,0,0,0,0,,,,,,2,0,2
+1122285,2017/18,South Africa,10,RR Hendricks,b8cc58c9,HH Pandya,dbe50b21,F Behardien,dce2019b,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,South Africa,10,F Behardien,dce2019b,HH Pandya,dbe50b21,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,South Africa,10,RR Hendricks,b8cc58c9,HH Pandya,dbe50b21,F Behardien,dce2019b,0,0,0,0,0,,,,,,4,0,4
+1122285,2017/18,South Africa,11,F Behardien,dce2019b,YS Chahal,57ee1fde,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,0,0,0
+1122285,2017/18,South Africa,11,F Behardien,dce2019b,YS Chahal,57ee1fde,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,4,0,4
+1122285,2017/18,South Africa,11,F Behardien,dce2019b,YS Chahal,57ee1fde,RR Hendricks,b8cc58c9,1,0,0,0,0,,,,,,0,1,1
+1122285,2017/18,South Africa,11,F Behardien,dce2019b,YS Chahal,57ee1fde,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,South Africa,11,RR Hendricks,b8cc58c9,YS Chahal,57ee1fde,F Behardien,dce2019b,0,0,0,0,0,,,,,,4,0,4
+1122285,2017/18,South Africa,11,RR Hendricks,b8cc58c9,YS Chahal,57ee1fde,F Behardien,dce2019b,0,0,0,0,0,,,,,,4,0,4
+1122285,2017/18,South Africa,11,RR Hendricks,b8cc58c9,YS Chahal,57ee1fde,F Behardien,dce2019b,0,0,0,0,0,,,,,,0,0,0
+1122285,2017/18,South Africa,12,F Behardien,dce2019b,JD Unadkat,1e66c162,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,0,0,0
+1122285,2017/18,South Africa,12,F Behardien,dce2019b,JD Unadkat,1e66c162,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,4,0,4
+1122285,2017/18,South Africa,12,F Behardien,dce2019b,JD Unadkat,1e66c162,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,0,0,0
+1122285,2017/18,South Africa,12,F Behardien,dce2019b,JD Unadkat,1e66c162,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,South Africa,12,RR Hendricks,b8cc58c9,JD Unadkat,1e66c162,F Behardien,dce2019b,0,0,0,0,0,,,,,,2,0,2
+1122285,2017/18,South Africa,12,RR Hendricks,b8cc58c9,JD Unadkat,1e66c162,F Behardien,dce2019b,0,0,0,0,0,,,,,,2,0,2
+1122285,2017/18,South Africa,13,F Behardien,dce2019b,JJ Bumrah,462411b3,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,6,0,6
+1122285,2017/18,South Africa,13,F Behardien,dce2019b,JJ Bumrah,462411b3,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,South Africa,13,RR Hendricks,b8cc58c9,JJ Bumrah,462411b3,F Behardien,dce2019b,0,0,0,0,0,,,,,,0,0,0
+1122285,2017/18,South Africa,13,RR Hendricks,b8cc58c9,JJ Bumrah,462411b3,F Behardien,dce2019b,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,South Africa,13,F Behardien,dce2019b,JJ Bumrah,462411b3,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,0,0,0
+1122285,2017/18,South Africa,13,F Behardien,dce2019b,JJ Bumrah,462411b3,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,South Africa,14,F Behardien,dce2019b,YS Chahal,57ee1fde,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,0,0,0
+1122285,2017/18,South Africa,14,F Behardien,dce2019b,YS Chahal,57ee1fde,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,South Africa,14,RR Hendricks,b8cc58c9,YS Chahal,57ee1fde,F Behardien,dce2019b,0,0,0,0,0,,,,,,2,0,2
+1122285,2017/18,South Africa,14,RR Hendricks,b8cc58c9,YS Chahal,57ee1fde,F Behardien,dce2019b,0,0,0,0,0,,,,,,4,0,4
+1122285,2017/18,South Africa,14,RR Hendricks,b8cc58c9,YS Chahal,57ee1fde,F Behardien,dce2019b,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,South Africa,14,F Behardien,dce2019b,YS Chahal,57ee1fde,RR Hendricks,b8cc58c9,0,0,0,0,1,F Behardien,dce2019b,MK Pandey,93b4fc78,caught,0,0,0
+1122285,2017/18,South Africa,15,RR Hendricks,b8cc58c9,JJ Bumrah,462411b3,H Klaasen,235c2bb6,0,0,0,0,0,,,,,,0,0,0
+1122285,2017/18,South Africa,15,RR Hendricks,b8cc58c9,JJ Bumrah,462411b3,H Klaasen,235c2bb6,0,0,0,0,0,,,,,,4,0,4
+1122285,2017/18,South Africa,15,RR Hendricks,b8cc58c9,JJ Bumrah,462411b3,H Klaasen,235c2bb6,0,0,0,0,0,,,,,,0,0,0
+1122285,2017/18,South Africa,15,RR Hendricks,b8cc58c9,JJ Bumrah,462411b3,H Klaasen,235c2bb6,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,South Africa,15,H Klaasen,235c2bb6,JJ Bumrah,462411b3,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,South Africa,15,RR Hendricks,b8cc58c9,JJ Bumrah,462411b3,H Klaasen,235c2bb6,0,0,0,0,0,,,,,,4,0,4
+1122285,2017/18,South Africa,16,H Klaasen,235c2bb6,HH Pandya,dbe50b21,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,South Africa,16,RR Hendricks,b8cc58c9,HH Pandya,dbe50b21,H Klaasen,235c2bb6,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,South Africa,16,H Klaasen,235c2bb6,HH Pandya,dbe50b21,RR Hendricks,b8cc58c9,1,0,0,0,0,,,,,,0,1,1
+1122285,2017/18,South Africa,16,H Klaasen,235c2bb6,HH Pandya,dbe50b21,RR Hendricks,b8cc58c9,0,0,0,1,0,,,,,,0,1,1
+1122285,2017/18,South Africa,16,RR Hendricks,b8cc58c9,HH Pandya,dbe50b21,H Klaasen,235c2bb6,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,South Africa,16,H Klaasen,235c2bb6,HH Pandya,dbe50b21,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,6,0,6
+1122285,2017/18,South Africa,16,H Klaasen,235c2bb6,HH Pandya,dbe50b21,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,4,0,4
+1122285,2017/18,South Africa,17,RR Hendricks,b8cc58c9,B Kumar,2e81a32d,H Klaasen,235c2bb6,0,0,0,0,1,RR Hendricks,b8cc58c9,MS Dhoni,4a8a2e3b,caught,0,0,0
+1122285,2017/18,South Africa,17,H Klaasen,235c2bb6,B Kumar,2e81a32d,AL Phehlukwayo,ab6b1c45,0,0,0,0,0,,,,,,2,0,2
+1122285,2017/18,South Africa,17,H Klaasen,235c2bb6,B Kumar,2e81a32d,AL Phehlukwayo,ab6b1c45,0,0,0,0,0,,,,,,2,0,2
+1122285,2017/18,South Africa,17,H Klaasen,235c2bb6,B Kumar,2e81a32d,AL Phehlukwayo,ab6b1c45,0,0,0,0,1,H Klaasen,235c2bb6,SK Raina,1dc12ab9,caught,0,0,0
+1122285,2017/18,South Africa,17,CH Morris,fb66ce1f,B Kumar,2e81a32d,AL Phehlukwayo,ab6b1c45,0,0,0,0,1,CH Morris,fb66ce1f,SK Raina,1dc12ab9,caught,0,0,0
+1122285,2017/18,South Africa,17,D Paterson,462d7c62,B Kumar,2e81a32d,AL Phehlukwayo,ab6b1c45,0,0,0,0,1,D Paterson,462d7c62,,,run out,1,0,1
+1122285,2017/18,South Africa,18,AL Phehlukwayo,ab6b1c45,JJ Bumrah,462411b3,CJ Dala,1cb14aa4,0,1,0,0,0,,,,,,4,1,5
+1122285,2017/18,South Africa,18,AL Phehlukwayo,ab6b1c45,JJ Bumrah,462411b3,CJ Dala,1cb14aa4,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,South Africa,18,CJ Dala,1cb14aa4,JJ Bumrah,462411b3,AL Phehlukwayo,ab6b1c45,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,South Africa,18,AL Phehlukwayo,ab6b1c45,JJ Bumrah,462411b3,CJ Dala,1cb14aa4,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,South Africa,18,CJ Dala,1cb14aa4,JJ Bumrah,462411b3,AL Phehlukwayo,ab6b1c45,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,South Africa,18,AL Phehlukwayo,ab6b1c45,JJ Bumrah,462411b3,CJ Dala,1cb14aa4,0,0,0,0,0,,,,,,1,0,1
+1122285,2017/18,South Africa,18,CJ Dala,1cb14aa4,JJ Bumrah,462411b3,AL Phehlukwayo,ab6b1c45,0,0,0,0,0,,,,,,0,0,0
+1122285,2017/18,South Africa,19,AL Phehlukwayo,ab6b1c45,JD Unadkat,1e66c162,CJ Dala,1cb14aa4,0,0,0,0,0,,,,,,4,0,4
+1122285,2017/18,South Africa,19,AL Phehlukwayo,ab6b1c45,JD Unadkat,1e66c162,CJ Dala,1cb14aa4,0,0,0,0,0,,,,,,0,0,0
+1122285,2017/18,South Africa,19,AL Phehlukwayo,ab6b1c45,JD Unadkat,1e66c162,CJ Dala,1cb14aa4,0,0,0,0,0,,,,,,2,0,2
+1122285,2017/18,South Africa,19,AL Phehlukwayo,ab6b1c45,JD Unadkat,1e66c162,CJ Dala,1cb14aa4,0,0,0,0,1,AL Phehlukwayo,ab6b1c45,YS Chahal,57ee1fde,caught,0,0,0
+1122285,2017/18,South Africa,19,T Shamsi,a03bba42,JD Unadkat,1e66c162,CJ Dala,1cb14aa4,0,0,0,0,0,,,,,,0,0,0
+1122285,2017/18,South Africa,19,T Shamsi,a03bba42,JD Unadkat,1e66c162,CJ Dala,1cb14aa4,0,0,0,0,0,,,,,,0,0,0

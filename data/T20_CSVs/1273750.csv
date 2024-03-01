@@ -1,0 +1,248 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1273750,2021/22,South Africa,0,RR Hendricks,b8cc58c9,MM Ali,bb351c23,Q de Kock,372455c4,0,0,0,0,0,,,,,,0,0,0
+1273750,2021/22,South Africa,0,RR Hendricks,b8cc58c9,MM Ali,bb351c23,Q de Kock,372455c4,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,South Africa,0,Q de Kock,372455c4,MM Ali,bb351c23,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,0,0,0
+1273750,2021/22,South Africa,0,Q de Kock,372455c4,MM Ali,bb351c23,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,4,0,4
+1273750,2021/22,South Africa,0,Q de Kock,372455c4,MM Ali,bb351c23,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,South Africa,0,RR Hendricks,b8cc58c9,MM Ali,bb351c23,Q de Kock,372455c4,0,0,0,0,0,,,,,,0,0,0
+1273750,2021/22,South Africa,1,Q de Kock,372455c4,CR Woakes,4c5d73db,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,0,0,0
+1273750,2021/22,South Africa,1,Q de Kock,372455c4,CR Woakes,4c5d73db,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,South Africa,1,RR Hendricks,b8cc58c9,CR Woakes,4c5d73db,Q de Kock,372455c4,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,South Africa,1,Q de Kock,372455c4,CR Woakes,4c5d73db,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,0,0,0
+1273750,2021/22,South Africa,1,Q de Kock,372455c4,CR Woakes,4c5d73db,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,South Africa,1,RR Hendricks,b8cc58c9,CR Woakes,4c5d73db,Q de Kock,372455c4,0,0,0,0,0,,,,,,0,0,0
+1273750,2021/22,South Africa,2,Q de Kock,372455c4,MM Ali,bb351c23,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,4,0,4
+1273750,2021/22,South Africa,2,Q de Kock,372455c4,MM Ali,bb351c23,RR Hendricks,b8cc58c9,2,0,0,0,0,,,,,,0,2,2
+1273750,2021/22,South Africa,2,RR Hendricks,b8cc58c9,MM Ali,bb351c23,Q de Kock,372455c4,0,0,0,0,0,,,,,,0,0,0
+1273750,2021/22,South Africa,2,RR Hendricks,b8cc58c9,MM Ali,bb351c23,Q de Kock,372455c4,0,0,0,0,0,,,,,,0,0,0
+1273750,2021/22,South Africa,2,RR Hendricks,b8cc58c9,MM Ali,bb351c23,Q de Kock,372455c4,0,0,0,0,1,RR Hendricks,b8cc58c9,,,bowled,0,0,0
+1273750,2021/22,South Africa,2,HE van der Dussen,9948e262,MM Ali,bb351c23,Q de Kock,372455c4,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,South Africa,2,Q de Kock,372455c4,MM Ali,bb351c23,HE van der Dussen,9948e262,0,0,0,0,0,,,,,,0,0,0
+1273750,2021/22,South Africa,3,HE van der Dussen,9948e262,CR Woakes,4c5d73db,Q de Kock,372455c4,0,0,0,0,0,,,,,,4,0,4
+1273750,2021/22,South Africa,3,HE van der Dussen,9948e262,CR Woakes,4c5d73db,Q de Kock,372455c4,0,0,0,0,0,,,,,,0,0,0
+1273750,2021/22,South Africa,3,HE van der Dussen,9948e262,CR Woakes,4c5d73db,Q de Kock,372455c4,0,0,0,0,0,,,,,,0,0,0
+1273750,2021/22,South Africa,3,HE van der Dussen,9948e262,CR Woakes,4c5d73db,Q de Kock,372455c4,0,0,0,0,0,,,,,,0,0,0
+1273750,2021/22,South Africa,3,HE van der Dussen,9948e262,CR Woakes,4c5d73db,Q de Kock,372455c4,0,0,0,0,0,,,,,,0,0,0
+1273750,2021/22,South Africa,3,HE van der Dussen,9948e262,CR Woakes,4c5d73db,Q de Kock,372455c4,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,South Africa,4,HE van der Dussen,9948e262,MM Ali,bb351c23,Q de Kock,372455c4,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,South Africa,4,Q de Kock,372455c4,MM Ali,bb351c23,HE van der Dussen,9948e262,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,South Africa,4,HE van der Dussen,9948e262,MM Ali,bb351c23,Q de Kock,372455c4,0,0,0,0,0,,,,,,0,0,0
+1273750,2021/22,South Africa,4,HE van der Dussen,9948e262,MM Ali,bb351c23,Q de Kock,372455c4,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,South Africa,4,Q de Kock,372455c4,MM Ali,bb351c23,HE van der Dussen,9948e262,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,South Africa,4,HE van der Dussen,9948e262,MM Ali,bb351c23,Q de Kock,372455c4,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,South Africa,5,HE van der Dussen,9948e262,CR Woakes,4c5d73db,Q de Kock,372455c4,0,0,0,0,0,,,,,,4,0,4
+1273750,2021/22,South Africa,5,HE van der Dussen,9948e262,CR Woakes,4c5d73db,Q de Kock,372455c4,0,0,0,0,0,,,,,,6,0,6
+1273750,2021/22,South Africa,5,HE van der Dussen,9948e262,CR Woakes,4c5d73db,Q de Kock,372455c4,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,South Africa,5,Q de Kock,372455c4,CR Woakes,4c5d73db,HE van der Dussen,9948e262,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,South Africa,5,HE van der Dussen,9948e262,CR Woakes,4c5d73db,Q de Kock,372455c4,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,South Africa,5,Q de Kock,372455c4,CR Woakes,4c5d73db,HE van der Dussen,9948e262,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,South Africa,6,Q de Kock,372455c4,MM Ali,bb351c23,HE van der Dussen,9948e262,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,South Africa,6,HE van der Dussen,9948e262,MM Ali,bb351c23,Q de Kock,372455c4,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,South Africa,6,Q de Kock,372455c4,MM Ali,bb351c23,HE van der Dussen,9948e262,0,0,0,0,0,,,,,,4,0,4
+1273750,2021/22,South Africa,6,Q de Kock,372455c4,MM Ali,bb351c23,HE van der Dussen,9948e262,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,South Africa,6,HE van der Dussen,9948e262,MM Ali,bb351c23,Q de Kock,372455c4,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,South Africa,6,Q de Kock,372455c4,MM Ali,bb351c23,HE van der Dussen,9948e262,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,South Africa,7,Q de Kock,372455c4,AU Rashid,249d60c9,HE van der Dussen,9948e262,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,South Africa,7,HE van der Dussen,9948e262,AU Rashid,249d60c9,Q de Kock,372455c4,0,0,0,0,0,,,,,,4,0,4
+1273750,2021/22,South Africa,7,HE van der Dussen,9948e262,AU Rashid,249d60c9,Q de Kock,372455c4,0,0,0,0,0,,,,,,0,0,0
+1273750,2021/22,South Africa,7,HE van der Dussen,9948e262,AU Rashid,249d60c9,Q de Kock,372455c4,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,South Africa,7,Q de Kock,372455c4,AU Rashid,249d60c9,HE van der Dussen,9948e262,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,South Africa,7,HE van der Dussen,9948e262,AU Rashid,249d60c9,Q de Kock,372455c4,0,0,0,0,0,,,,,,0,0,0
+1273750,2021/22,South Africa,8,Q de Kock,372455c4,CJ Jordan,ffe699c0,HE van der Dussen,9948e262,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,South Africa,8,HE van der Dussen,9948e262,CJ Jordan,ffe699c0,Q de Kock,372455c4,0,0,0,0,0,,,,,,0,0,0
+1273750,2021/22,South Africa,8,HE van der Dussen,9948e262,CJ Jordan,ffe699c0,Q de Kock,372455c4,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,South Africa,8,Q de Kock,372455c4,CJ Jordan,ffe699c0,HE van der Dussen,9948e262,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,South Africa,8,HE van der Dussen,9948e262,CJ Jordan,ffe699c0,Q de Kock,372455c4,0,0,2,0,0,,,,,,0,2,2
+1273750,2021/22,South Africa,8,HE van der Dussen,9948e262,CJ Jordan,ffe699c0,Q de Kock,372455c4,0,0,0,0,0,,,,,,4,0,4
+1273750,2021/22,South Africa,9,Q de Kock,372455c4,AU Rashid,249d60c9,HE van der Dussen,9948e262,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,South Africa,9,HE van der Dussen,9948e262,AU Rashid,249d60c9,Q de Kock,372455c4,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,South Africa,9,Q de Kock,372455c4,AU Rashid,249d60c9,HE van der Dussen,9948e262,0,0,0,0,0,,,,,,4,0,4
+1273750,2021/22,South Africa,9,Q de Kock,372455c4,AU Rashid,249d60c9,HE van der Dussen,9948e262,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,South Africa,9,HE van der Dussen,9948e262,AU Rashid,249d60c9,Q de Kock,372455c4,0,0,0,0,0,,,,,,0,0,0
+1273750,2021/22,South Africa,9,HE van der Dussen,9948e262,AU Rashid,249d60c9,Q de Kock,372455c4,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,South Africa,10,HE van der Dussen,9948e262,MA Wood,8d92a2c3,Q de Kock,372455c4,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,South Africa,10,Q de Kock,372455c4,MA Wood,8d92a2c3,HE van der Dussen,9948e262,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,South Africa,10,HE van der Dussen,9948e262,MA Wood,8d92a2c3,Q de Kock,372455c4,0,0,0,0,0,,,,,,6,0,6
+1273750,2021/22,South Africa,10,HE van der Dussen,9948e262,MA Wood,8d92a2c3,Q de Kock,372455c4,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,South Africa,10,Q de Kock,372455c4,MA Wood,8d92a2c3,HE van der Dussen,9948e262,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,South Africa,10,HE van der Dussen,9948e262,MA Wood,8d92a2c3,Q de Kock,372455c4,1,0,0,0,0,,,,,,0,1,1
+1273750,2021/22,South Africa,10,HE van der Dussen,9948e262,MA Wood,8d92a2c3,Q de Kock,372455c4,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,South Africa,11,HE van der Dussen,9948e262,AU Rashid,249d60c9,Q de Kock,372455c4,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,South Africa,11,Q de Kock,372455c4,AU Rashid,249d60c9,HE van der Dussen,9948e262,0,0,0,0,1,Q de Kock,372455c4,JJ Roy,d1c36f5c,caught,0,0,0
+1273750,2021/22,South Africa,11,HE van der Dussen,9948e262,AU Rashid,249d60c9,AK Markram,6a26221c,0,0,0,0,0,,,,,,2,0,2
+1273750,2021/22,South Africa,11,HE van der Dussen,9948e262,AU Rashid,249d60c9,AK Markram,6a26221c,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,South Africa,11,AK Markram,6a26221c,AU Rashid,249d60c9,HE van der Dussen,9948e262,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,South Africa,11,HE van der Dussen,9948e262,AU Rashid,249d60c9,AK Markram,6a26221c,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,South Africa,12,HE van der Dussen,9948e262,MA Wood,8d92a2c3,AK Markram,6a26221c,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,South Africa,12,AK Markram,6a26221c,MA Wood,8d92a2c3,HE van der Dussen,9948e262,0,0,1,0,0,,,,,,0,1,1
+1273750,2021/22,South Africa,12,HE van der Dussen,9948e262,MA Wood,8d92a2c3,AK Markram,6a26221c,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,South Africa,12,AK Markram,6a26221c,MA Wood,8d92a2c3,HE van der Dussen,9948e262,0,0,0,0,0,,,,,,2,0,2
+1273750,2021/22,South Africa,12,AK Markram,6a26221c,MA Wood,8d92a2c3,HE van der Dussen,9948e262,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,South Africa,12,HE van der Dussen,9948e262,MA Wood,8d92a2c3,AK Markram,6a26221c,0,0,0,0,0,,,,,,6,0,6
+1273750,2021/22,South Africa,13,AK Markram,6a26221c,AU Rashid,249d60c9,HE van der Dussen,9948e262,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,South Africa,13,HE van der Dussen,9948e262,AU Rashid,249d60c9,AK Markram,6a26221c,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,South Africa,13,AK Markram,6a26221c,AU Rashid,249d60c9,HE van der Dussen,9948e262,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,South Africa,13,HE van der Dussen,9948e262,AU Rashid,249d60c9,AK Markram,6a26221c,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,South Africa,13,AK Markram,6a26221c,AU Rashid,249d60c9,HE van der Dussen,9948e262,0,0,0,0,0,,,,,,6,0,6
+1273750,2021/22,South Africa,13,AK Markram,6a26221c,AU Rashid,249d60c9,HE van der Dussen,9948e262,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,South Africa,14,AK Markram,6a26221c,CJ Jordan,ffe699c0,HE van der Dussen,9948e262,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,South Africa,14,HE van der Dussen,9948e262,CJ Jordan,ffe699c0,AK Markram,6a26221c,0,0,0,0,0,,,,,,0,0,0
+1273750,2021/22,South Africa,14,HE van der Dussen,9948e262,CJ Jordan,ffe699c0,AK Markram,6a26221c,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,South Africa,14,AK Markram,6a26221c,CJ Jordan,ffe699c0,HE van der Dussen,9948e262,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,South Africa,14,HE van der Dussen,9948e262,CJ Jordan,ffe699c0,AK Markram,6a26221c,0,0,0,0,0,,,,,,0,0,0
+1273750,2021/22,South Africa,14,HE van der Dussen,9948e262,CJ Jordan,ffe699c0,AK Markram,6a26221c,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,South Africa,15,HE van der Dussen,9948e262,CR Woakes,4c5d73db,AK Markram,6a26221c,0,0,0,0,0,,,,,,6,0,6
+1273750,2021/22,South Africa,15,HE van der Dussen,9948e262,CR Woakes,4c5d73db,AK Markram,6a26221c,0,0,0,0,0,,,,,,6,0,6
+1273750,2021/22,South Africa,15,HE van der Dussen,9948e262,CR Woakes,4c5d73db,AK Markram,6a26221c,0,0,0,0,0,,,,,,2,0,2
+1273750,2021/22,South Africa,15,HE van der Dussen,9948e262,CR Woakes,4c5d73db,AK Markram,6a26221c,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,South Africa,15,AK Markram,6a26221c,CR Woakes,4c5d73db,HE van der Dussen,9948e262,0,0,0,0,0,,,,,,6,0,6
+1273750,2021/22,South Africa,15,AK Markram,6a26221c,CR Woakes,4c5d73db,HE van der Dussen,9948e262,0,0,0,0,0,,,,,,0,0,0
+1273750,2021/22,South Africa,16,HE van der Dussen,9948e262,MA Wood,8d92a2c3,AK Markram,6a26221c,0,0,0,0,0,,,,,,0,0,0
+1273750,2021/22,South Africa,16,HE van der Dussen,9948e262,MA Wood,8d92a2c3,AK Markram,6a26221c,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,South Africa,16,AK Markram,6a26221c,MA Wood,8d92a2c3,HE van der Dussen,9948e262,0,0,0,0,0,,,,,,4,0,4
+1273750,2021/22,South Africa,16,AK Markram,6a26221c,MA Wood,8d92a2c3,HE van der Dussen,9948e262,0,0,0,0,0,,,,,,0,0,0
+1273750,2021/22,South Africa,16,AK Markram,6a26221c,MA Wood,8d92a2c3,HE van der Dussen,9948e262,0,0,0,0,0,,,,,,2,0,2
+1273750,2021/22,South Africa,16,AK Markram,6a26221c,MA Wood,8d92a2c3,HE van der Dussen,9948e262,0,0,0,0,0,,,,,,4,0,4
+1273750,2021/22,South Africa,17,HE van der Dussen,9948e262,CJ Jordan,ffe699c0,AK Markram,6a26221c,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,South Africa,17,AK Markram,6a26221c,CJ Jordan,ffe699c0,HE van der Dussen,9948e262,0,0,0,0,0,,,,,,3,0,3
+1273750,2021/22,South Africa,17,HE van der Dussen,9948e262,CJ Jordan,ffe699c0,AK Markram,6a26221c,0,0,0,0,0,,,,,,0,0,0
+1273750,2021/22,South Africa,17,HE van der Dussen,9948e262,CJ Jordan,ffe699c0,AK Markram,6a26221c,0,0,0,1,0,,,,,,0,1,1
+1273750,2021/22,South Africa,17,AK Markram,6a26221c,CJ Jordan,ffe699c0,HE van der Dussen,9948e262,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,South Africa,17,HE van der Dussen,9948e262,CJ Jordan,ffe699c0,AK Markram,6a26221c,0,0,0,0,0,,,,,,4,0,4
+1273750,2021/22,South Africa,18,AK Markram,6a26221c,MA Wood,8d92a2c3,HE van der Dussen,9948e262,0,0,0,0,0,,,,,,0,0,0
+1273750,2021/22,South Africa,18,AK Markram,6a26221c,MA Wood,8d92a2c3,HE van der Dussen,9948e262,0,0,0,0,0,,,,,,2,0,2
+1273750,2021/22,South Africa,18,AK Markram,6a26221c,MA Wood,8d92a2c3,HE van der Dussen,9948e262,0,0,0,0,0,,,,,,6,0,6
+1273750,2021/22,South Africa,18,AK Markram,6a26221c,MA Wood,8d92a2c3,HE van der Dussen,9948e262,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,South Africa,18,HE van der Dussen,9948e262,MA Wood,8d92a2c3,AK Markram,6a26221c,0,0,0,0,0,,,,,,2,0,2
+1273750,2021/22,South Africa,18,HE van der Dussen,9948e262,MA Wood,8d92a2c3,AK Markram,6a26221c,0,0,0,0,0,,,,,,2,0,2
+1273750,2021/22,South Africa,19,AK Markram,6a26221c,CJ Jordan,ffe699c0,HE van der Dussen,9948e262,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,South Africa,19,HE van der Dussen,9948e262,CJ Jordan,ffe699c0,AK Markram,6a26221c,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,South Africa,19,AK Markram,6a26221c,CJ Jordan,ffe699c0,HE van der Dussen,9948e262,0,0,0,0,0,,,,,,6,0,6
+1273750,2021/22,South Africa,19,AK Markram,6a26221c,CJ Jordan,ffe699c0,HE van der Dussen,9948e262,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,South Africa,19,HE van der Dussen,9948e262,CJ Jordan,ffe699c0,AK Markram,6a26221c,0,0,0,0,0,,,,,,6,0,6
+1273750,2021/22,South Africa,19,HE van der Dussen,9948e262,CJ Jordan,ffe699c0,AK Markram,6a26221c,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,England,0,JJ Roy,d1c36f5c,KA Maharaj,0b60eb09,JC Buttler,99b75528,0,0,0,0,0,,,,,,0,0,0
+1273750,2021/22,England,0,JJ Roy,d1c36f5c,KA Maharaj,0b60eb09,JC Buttler,99b75528,0,0,0,0,0,,,,,,0,0,0
+1273750,2021/22,England,0,JJ Roy,d1c36f5c,KA Maharaj,0b60eb09,JC Buttler,99b75528,0,0,0,0,0,,,,,,0,0,0
+1273750,2021/22,England,0,JJ Roy,d1c36f5c,KA Maharaj,0b60eb09,JC Buttler,99b75528,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,England,0,JC Buttler,99b75528,KA Maharaj,0b60eb09,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,0,0,0
+1273750,2021/22,England,0,JC Buttler,99b75528,KA Maharaj,0b60eb09,JJ Roy,d1c36f5c,0,0,1,0,0,,,,,,0,1,1
+1273750,2021/22,England,1,JC Buttler,99b75528,A Nortje,acdc62f5,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,England,1,JJ Roy,d1c36f5c,A Nortje,acdc62f5,JC Buttler,99b75528,0,0,0,0,0,,,,,,0,0,0
+1273750,2021/22,England,1,JJ Roy,d1c36f5c,A Nortje,acdc62f5,JC Buttler,99b75528,0,0,0,0,0,,,,,,0,0,0
+1273750,2021/22,England,1,JJ Roy,d1c36f5c,A Nortje,acdc62f5,JC Buttler,99b75528,0,0,0,0,0,,,,,,4,0,4
+1273750,2021/22,England,1,JJ Roy,d1c36f5c,A Nortje,acdc62f5,JC Buttler,99b75528,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,England,1,JC Buttler,99b75528,A Nortje,acdc62f5,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,4,0,4
+1273750,2021/22,England,2,JJ Roy,d1c36f5c,KA Maharaj,0b60eb09,JC Buttler,99b75528,0,0,0,0,0,,,,,,4,0,4
+1273750,2021/22,England,2,JJ Roy,d1c36f5c,KA Maharaj,0b60eb09,JC Buttler,99b75528,0,0,0,0,0,,,,,,0,0,0
+1273750,2021/22,England,2,JJ Roy,d1c36f5c,KA Maharaj,0b60eb09,JC Buttler,99b75528,0,0,0,0,0,,,,,,0,0,0
+1273750,2021/22,England,2,JJ Roy,d1c36f5c,KA Maharaj,0b60eb09,JC Buttler,99b75528,0,0,0,0,0,,,,,,4,0,4
+1273750,2021/22,England,2,JJ Roy,d1c36f5c,KA Maharaj,0b60eb09,JC Buttler,99b75528,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,England,2,JC Buttler,99b75528,KA Maharaj,0b60eb09,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,England,3,JC Buttler,99b75528,K Rabada,e62dd25d,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,4,0,4
+1273750,2021/22,England,3,JC Buttler,99b75528,K Rabada,e62dd25d,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,4,0,4
+1273750,2021/22,England,3,JC Buttler,99b75528,K Rabada,e62dd25d,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,England,3,JJ Roy,d1c36f5c,K Rabada,e62dd25d,JC Buttler,99b75528,0,0,0,0,0,,,,,,4,0,4
+1273750,2021/22,England,3,JJ Roy,d1c36f5c,K Rabada,e62dd25d,JC Buttler,99b75528,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,England,3,JC Buttler,99b75528,K Rabada,e62dd25d,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,England,4,JC Buttler,99b75528,KA Maharaj,0b60eb09,JJ Roy,d1c36f5c,0,0,0,0,1,JJ Roy,d1c36f5c,,,retired hurt,1,0,1
+1273750,2021/22,England,4,MM Ali,bb351c23,KA Maharaj,0b60eb09,JC Buttler,99b75528,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,England,4,JC Buttler,99b75528,KA Maharaj,0b60eb09,MM Ali,bb351c23,0,0,1,0,0,,,,,,0,1,1
+1273750,2021/22,England,4,MM Ali,bb351c23,KA Maharaj,0b60eb09,JC Buttler,99b75528,1,0,0,0,0,,,,,,0,1,1
+1273750,2021/22,England,4,MM Ali,bb351c23,KA Maharaj,0b60eb09,JC Buttler,99b75528,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,England,4,JC Buttler,99b75528,KA Maharaj,0b60eb09,MM Ali,bb351c23,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,England,4,MM Ali,bb351c23,KA Maharaj,0b60eb09,JC Buttler,99b75528,0,1,0,0,0,,,,,,4,1,5
+1273750,2021/22,England,4,MM Ali,bb351c23,KA Maharaj,0b60eb09,JC Buttler,99b75528,0,0,0,0,0,,,,,,2,0,2
+1273750,2021/22,England,5,JC Buttler,99b75528,A Nortje,acdc62f5,MM Ali,bb351c23,0,0,0,0,0,,,,,,6,0,6
+1273750,2021/22,England,5,JC Buttler,99b75528,A Nortje,acdc62f5,MM Ali,bb351c23,0,0,0,0,0,,,,,,2,0,2
+1273750,2021/22,England,5,JC Buttler,99b75528,A Nortje,acdc62f5,MM Ali,bb351c23,0,0,0,0,1,JC Buttler,99b75528,T Bavuma,9ffd1ac1,caught,0,0,0
+1273750,2021/22,England,5,JM Bairstow,abb83e27,A Nortje,acdc62f5,MM Ali,bb351c23,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,England,5,MM Ali,bb351c23,A Nortje,acdc62f5,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,0,0,0
+1273750,2021/22,England,5,MM Ali,bb351c23,A Nortje,acdc62f5,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,0,0,0
+1273750,2021/22,England,6,JM Bairstow,abb83e27,T Shamsi,a03bba42,MM Ali,bb351c23,0,0,0,0,0,,,,,,0,0,0
+1273750,2021/22,England,6,JM Bairstow,abb83e27,T Shamsi,a03bba42,MM Ali,bb351c23,0,0,0,0,1,JM Bairstow,abb83e27,,,lbw,0,0,0
+1273750,2021/22,England,6,DJ Malan,ad9c32a2,T Shamsi,a03bba42,MM Ali,bb351c23,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,England,6,MM Ali,bb351c23,T Shamsi,a03bba42,DJ Malan,ad9c32a2,0,0,0,0,0,,,,,,0,0,0
+1273750,2021/22,England,6,MM Ali,bb351c23,T Shamsi,a03bba42,DJ Malan,ad9c32a2,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,England,6,DJ Malan,ad9c32a2,T Shamsi,a03bba42,MM Ali,bb351c23,0,0,0,0,0,,,,,,0,0,0
+1273750,2021/22,England,7,MM Ali,bb351c23,AK Markram,6a26221c,DJ Malan,ad9c32a2,0,0,0,0,0,,,,,,0,0,0
+1273750,2021/22,England,7,MM Ali,bb351c23,AK Markram,6a26221c,DJ Malan,ad9c32a2,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,England,7,DJ Malan,ad9c32a2,AK Markram,6a26221c,MM Ali,bb351c23,0,0,0,0,0,,,,,,0,0,0
+1273750,2021/22,England,7,DJ Malan,ad9c32a2,AK Markram,6a26221c,MM Ali,bb351c23,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,England,7,MM Ali,bb351c23,AK Markram,6a26221c,DJ Malan,ad9c32a2,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,England,7,DJ Malan,ad9c32a2,AK Markram,6a26221c,MM Ali,bb351c23,0,0,0,0,0,,,,,,0,0,0
+1273750,2021/22,England,8,MM Ali,bb351c23,T Shamsi,a03bba42,DJ Malan,ad9c32a2,0,0,0,0,0,,,,,,0,0,0
+1273750,2021/22,England,8,MM Ali,bb351c23,T Shamsi,a03bba42,DJ Malan,ad9c32a2,0,0,0,0,0,,,,,,4,0,4
+1273750,2021/22,England,8,MM Ali,bb351c23,T Shamsi,a03bba42,DJ Malan,ad9c32a2,0,0,0,0,0,,,,,,0,0,0
+1273750,2021/22,England,8,MM Ali,bb351c23,T Shamsi,a03bba42,DJ Malan,ad9c32a2,0,0,0,0,0,,,,,,2,0,2
+1273750,2021/22,England,8,MM Ali,bb351c23,T Shamsi,a03bba42,DJ Malan,ad9c32a2,0,0,0,0,0,,,,,,0,0,0
+1273750,2021/22,England,8,MM Ali,bb351c23,T Shamsi,a03bba42,DJ Malan,ad9c32a2,0,0,0,0,0,,,,,,0,0,0
+1273750,2021/22,England,9,DJ Malan,ad9c32a2,K Rabada,e62dd25d,MM Ali,bb351c23,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,England,9,MM Ali,bb351c23,K Rabada,e62dd25d,DJ Malan,ad9c32a2,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,England,9,DJ Malan,ad9c32a2,K Rabada,e62dd25d,MM Ali,bb351c23,0,0,0,0,0,,,,,,4,0,4
+1273750,2021/22,England,9,DJ Malan,ad9c32a2,K Rabada,e62dd25d,MM Ali,bb351c23,0,0,0,0,0,,,,,,4,0,4
+1273750,2021/22,England,9,DJ Malan,ad9c32a2,K Rabada,e62dd25d,MM Ali,bb351c23,0,0,0,0,0,,,,,,0,0,0
+1273750,2021/22,England,9,DJ Malan,ad9c32a2,K Rabada,e62dd25d,MM Ali,bb351c23,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,England,10,DJ Malan,ad9c32a2,T Shamsi,a03bba42,MM Ali,bb351c23,0,0,0,0,0,,,,,,2,0,2
+1273750,2021/22,England,10,DJ Malan,ad9c32a2,T Shamsi,a03bba42,MM Ali,bb351c23,0,0,0,0,0,,,,,,3,0,3
+1273750,2021/22,England,10,MM Ali,bb351c23,T Shamsi,a03bba42,DJ Malan,ad9c32a2,0,0,0,0,0,,,,,,0,0,0
+1273750,2021/22,England,10,MM Ali,bb351c23,T Shamsi,a03bba42,DJ Malan,ad9c32a2,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,England,10,DJ Malan,ad9c32a2,T Shamsi,a03bba42,MM Ali,bb351c23,0,0,0,0,0,,,,,,0,0,0
+1273750,2021/22,England,10,DJ Malan,ad9c32a2,T Shamsi,a03bba42,MM Ali,bb351c23,0,0,0,0,0,,,,,,2,0,2
+1273750,2021/22,England,11,MM Ali,bb351c23,AK Markram,6a26221c,DJ Malan,ad9c32a2,0,0,0,0,0,,,,,,0,0,0
+1273750,2021/22,England,11,MM Ali,bb351c23,AK Markram,6a26221c,DJ Malan,ad9c32a2,0,0,0,0,0,,,,,,6,0,6
+1273750,2021/22,England,11,MM Ali,bb351c23,AK Markram,6a26221c,DJ Malan,ad9c32a2,0,0,0,0,0,,,,,,4,0,4
+1273750,2021/22,England,11,MM Ali,bb351c23,AK Markram,6a26221c,DJ Malan,ad9c32a2,1,0,0,0,0,,,,,,0,1,1
+1273750,2021/22,England,11,MM Ali,bb351c23,AK Markram,6a26221c,DJ Malan,ad9c32a2,1,0,0,0,0,,,,,,0,1,1
+1273750,2021/22,England,11,MM Ali,bb351c23,AK Markram,6a26221c,DJ Malan,ad9c32a2,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,England,11,DJ Malan,ad9c32a2,AK Markram,6a26221c,MM Ali,bb351c23,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,England,11,MM Ali,bb351c23,AK Markram,6a26221c,DJ Malan,ad9c32a2,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,England,12,MM Ali,bb351c23,T Shamsi,a03bba42,DJ Malan,ad9c32a2,0,0,0,0,0,,,,,,6,0,6
+1273750,2021/22,England,12,MM Ali,bb351c23,T Shamsi,a03bba42,DJ Malan,ad9c32a2,0,0,0,0,1,MM Ali,bb351c23,DA Miller,d67d5f00,caught,0,0,0
+1273750,2021/22,England,12,LS Livingstone,50c6bc2b,T Shamsi,a03bba42,DJ Malan,ad9c32a2,0,0,0,0,0,,,,,,0,0,0
+1273750,2021/22,England,12,LS Livingstone,50c6bc2b,T Shamsi,a03bba42,DJ Malan,ad9c32a2,0,0,0,0,0,,,,,,0,0,0
+1273750,2021/22,England,12,LS Livingstone,50c6bc2b,T Shamsi,a03bba42,DJ Malan,ad9c32a2,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,England,12,DJ Malan,ad9c32a2,T Shamsi,a03bba42,LS Livingstone,50c6bc2b,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,England,13,DJ Malan,ad9c32a2,A Nortje,acdc62f5,LS Livingstone,50c6bc2b,0,0,0,0,0,,,,,,0,0,0
+1273750,2021/22,England,13,DJ Malan,ad9c32a2,A Nortje,acdc62f5,LS Livingstone,50c6bc2b,0,0,0,0,0,,,,,,0,0,0
+1273750,2021/22,England,13,DJ Malan,ad9c32a2,A Nortje,acdc62f5,LS Livingstone,50c6bc2b,0,0,0,0,0,,,,,,4,0,4
+1273750,2021/22,England,13,DJ Malan,ad9c32a2,A Nortje,acdc62f5,LS Livingstone,50c6bc2b,0,0,0,0,0,,,,,,0,0,0
+1273750,2021/22,England,13,DJ Malan,ad9c32a2,A Nortje,acdc62f5,LS Livingstone,50c6bc2b,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,England,13,LS Livingstone,50c6bc2b,A Nortje,acdc62f5,DJ Malan,ad9c32a2,0,0,0,0,0,,,,,,0,0,0
+1273750,2021/22,England,14,DJ Malan,ad9c32a2,D Pretorius,11614d87,LS Livingstone,50c6bc2b,0,0,0,0,0,,,,,,0,0,0
+1273750,2021/22,England,14,DJ Malan,ad9c32a2,D Pretorius,11614d87,LS Livingstone,50c6bc2b,0,0,0,0,0,,,,,,0,0,0
+1273750,2021/22,England,14,DJ Malan,ad9c32a2,D Pretorius,11614d87,LS Livingstone,50c6bc2b,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,England,14,LS Livingstone,50c6bc2b,D Pretorius,11614d87,DJ Malan,ad9c32a2,0,0,0,0,0,,,,,,0,0,0
+1273750,2021/22,England,14,LS Livingstone,50c6bc2b,D Pretorius,11614d87,DJ Malan,ad9c32a2,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,England,14,DJ Malan,ad9c32a2,D Pretorius,11614d87,LS Livingstone,50c6bc2b,0,0,0,0,0,,,,,,6,0,6
+1273750,2021/22,England,15,LS Livingstone,50c6bc2b,K Rabada,e62dd25d,DJ Malan,ad9c32a2,0,0,0,0,0,,,,,,6,0,6
+1273750,2021/22,England,15,LS Livingstone,50c6bc2b,K Rabada,e62dd25d,DJ Malan,ad9c32a2,0,0,0,0,0,,,,,,6,0,6
+1273750,2021/22,England,15,LS Livingstone,50c6bc2b,K Rabada,e62dd25d,DJ Malan,ad9c32a2,0,0,0,0,0,,,,,,6,0,6
+1273750,2021/22,England,15,LS Livingstone,50c6bc2b,K Rabada,e62dd25d,DJ Malan,ad9c32a2,0,0,0,0,0,,,,,,0,0,0
+1273750,2021/22,England,15,LS Livingstone,50c6bc2b,K Rabada,e62dd25d,DJ Malan,ad9c32a2,0,0,0,0,0,,,,,,0,0,0
+1273750,2021/22,England,15,LS Livingstone,50c6bc2b,K Rabada,e62dd25d,DJ Malan,ad9c32a2,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,England,16,LS Livingstone,50c6bc2b,D Pretorius,11614d87,DJ Malan,ad9c32a2,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,England,16,DJ Malan,ad9c32a2,D Pretorius,11614d87,LS Livingstone,50c6bc2b,0,0,0,0,1,DJ Malan,ad9c32a2,K Rabada,e62dd25d,caught,0,0,0
+1273750,2021/22,England,16,LS Livingstone,50c6bc2b,D Pretorius,11614d87,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,England,16,EJG Morgan,d2a6c0e6,D Pretorius,11614d87,LS Livingstone,50c6bc2b,0,0,0,0,0,,,,,,4,0,4
+1273750,2021/22,England,16,EJG Morgan,d2a6c0e6,D Pretorius,11614d87,LS Livingstone,50c6bc2b,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,England,16,LS Livingstone,50c6bc2b,D Pretorius,11614d87,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,4,0,4
+1273750,2021/22,England,17,EJG Morgan,d2a6c0e6,A Nortje,acdc62f5,LS Livingstone,50c6bc2b,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,England,17,LS Livingstone,50c6bc2b,A Nortje,acdc62f5,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,England,17,EJG Morgan,d2a6c0e6,A Nortje,acdc62f5,LS Livingstone,50c6bc2b,0,0,0,0,0,,,,,,4,0,4
+1273750,2021/22,England,17,EJG Morgan,d2a6c0e6,A Nortje,acdc62f5,LS Livingstone,50c6bc2b,0,0,0,0,0,,,,,,0,0,0
+1273750,2021/22,England,17,EJG Morgan,d2a6c0e6,A Nortje,acdc62f5,LS Livingstone,50c6bc2b,0,0,0,0,0,,,,,,4,0,4
+1273750,2021/22,England,17,EJG Morgan,d2a6c0e6,A Nortje,acdc62f5,LS Livingstone,50c6bc2b,0,0,0,0,0,,,,,,0,0,0
+1273750,2021/22,England,18,LS Livingstone,50c6bc2b,D Pretorius,11614d87,EJG Morgan,d2a6c0e6,0,0,0,0,1,LS Livingstone,50c6bc2b,DA Miller,d67d5f00,caught,0,0,0
+1273750,2021/22,England,18,EJG Morgan,d2a6c0e6,D Pretorius,11614d87,CR Woakes,4c5d73db,0,0,0,0,0,,,,,,0,0,0
+1273750,2021/22,England,18,EJG Morgan,d2a6c0e6,D Pretorius,11614d87,CR Woakes,4c5d73db,0,1,0,0,0,,,,,,1,1,2
+1273750,2021/22,England,18,CR Woakes,4c5d73db,D Pretorius,11614d87,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,6,0,6
+1273750,2021/22,England,18,CR Woakes,4c5d73db,D Pretorius,11614d87,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,England,18,EJG Morgan,d2a6c0e6,D Pretorius,11614d87,CR Woakes,4c5d73db,0,0,0,0,0,,,,,,0,0,0
+1273750,2021/22,England,18,EJG Morgan,d2a6c0e6,D Pretorius,11614d87,CR Woakes,4c5d73db,0,0,0,0,0,,,,,,2,0,2
+1273750,2021/22,England,19,CR Woakes,4c5d73db,K Rabada,e62dd25d,EJG Morgan,d2a6c0e6,0,0,0,0,1,CR Woakes,4c5d73db,A Nortje,acdc62f5,caught,0,0,0
+1273750,2021/22,England,19,EJG Morgan,d2a6c0e6,K Rabada,e62dd25d,CJ Jordan,ffe699c0,0,0,0,0,1,EJG Morgan,d2a6c0e6,KA Maharaj,0b60eb09,caught,0,0,0
+1273750,2021/22,England,19,CJ Jordan,ffe699c0,K Rabada,e62dd25d,AU Rashid,249d60c9,0,0,0,0,1,CJ Jordan,ffe699c0,DA Miller,d67d5f00,caught,0,0,0
+1273750,2021/22,England,19,AU Rashid,249d60c9,K Rabada,e62dd25d,MA Wood,8d92a2c3,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,England,19,MA Wood,8d92a2c3,K Rabada,e62dd25d,AU Rashid,249d60c9,0,0,0,0,0,,,,,,1,0,1
+1273750,2021/22,England,19,AU Rashid,249d60c9,K Rabada,e62dd25d,MA Wood,8d92a2c3,0,0,0,0,0,,,,,,1,0,1

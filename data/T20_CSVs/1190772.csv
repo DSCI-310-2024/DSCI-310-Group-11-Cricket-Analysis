@@ -1,0 +1,251 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1190772,2019,Kuwait,0,R Sandaruwan,cf6acc0d,Mohammed Awais,34b8b1b5,Meet Bhavsar,b25a3800,0,0,0,0,0,,,,,,0,0,0
+1190772,2019,Kuwait,0,R Sandaruwan,cf6acc0d,Mohammed Awais,34b8b1b5,Meet Bhavsar,b25a3800,0,0,0,0,0,,,,,,0,0,0
+1190772,2019,Kuwait,0,R Sandaruwan,cf6acc0d,Mohammed Awais,34b8b1b5,Meet Bhavsar,b25a3800,0,0,0,0,0,,,,,,1,0,1
+1190772,2019,Kuwait,0,Meet Bhavsar,b25a3800,Mohammed Awais,34b8b1b5,R Sandaruwan,cf6acc0d,0,0,0,0,0,,,,,,3,0,3
+1190772,2019,Kuwait,0,R Sandaruwan,cf6acc0d,Mohammed Awais,34b8b1b5,Meet Bhavsar,b25a3800,0,0,0,0,0,,,,,,0,0,0
+1190772,2019,Kuwait,0,R Sandaruwan,cf6acc0d,Mohammed Awais,34b8b1b5,Meet Bhavsar,b25a3800,0,0,0,0,0,,,,,,4,0,4
+1190772,2019,Kuwait,1,Meet Bhavsar,b25a3800,Inam-ul-Haq,15c766c3,R Sandaruwan,cf6acc0d,0,0,0,0,0,,,,,,0,0,0
+1190772,2019,Kuwait,1,Meet Bhavsar,b25a3800,Inam-ul-Haq,15c766c3,R Sandaruwan,cf6acc0d,0,0,0,0,0,,,,,,1,0,1
+1190772,2019,Kuwait,1,R Sandaruwan,cf6acc0d,Inam-ul-Haq,15c766c3,Meet Bhavsar,b25a3800,0,0,0,0,0,,,,,,4,0,4
+1190772,2019,Kuwait,1,R Sandaruwan,cf6acc0d,Inam-ul-Haq,15c766c3,Meet Bhavsar,b25a3800,0,0,0,0,0,,,,,,0,0,0
+1190772,2019,Kuwait,1,R Sandaruwan,cf6acc0d,Inam-ul-Haq,15c766c3,Meet Bhavsar,b25a3800,0,0,0,0,0,,,,,,1,0,1
+1190772,2019,Kuwait,1,Meet Bhavsar,b25a3800,Inam-ul-Haq,15c766c3,R Sandaruwan,cf6acc0d,0,0,0,0,0,,,,,,1,0,1
+1190772,2019,Kuwait,2,Meet Bhavsar,b25a3800,Mohammed Awais,34b8b1b5,R Sandaruwan,cf6acc0d,0,0,0,0,0,,,,,,4,0,4
+1190772,2019,Kuwait,2,Meet Bhavsar,b25a3800,Mohammed Awais,34b8b1b5,R Sandaruwan,cf6acc0d,0,0,0,0,0,,,,,,0,0,0
+1190772,2019,Kuwait,2,Meet Bhavsar,b25a3800,Mohammed Awais,34b8b1b5,R Sandaruwan,cf6acc0d,0,0,0,0,0,,,,,,1,0,1
+1190772,2019,Kuwait,2,R Sandaruwan,cf6acc0d,Mohammed Awais,34b8b1b5,Meet Bhavsar,b25a3800,0,0,0,0,0,,,,,,2,0,2
+1190772,2019,Kuwait,2,R Sandaruwan,cf6acc0d,Mohammed Awais,34b8b1b5,Meet Bhavsar,b25a3800,0,0,0,0,0,,,,,,6,0,6
+1190772,2019,Kuwait,2,R Sandaruwan,cf6acc0d,Mohammed Awais,34b8b1b5,Meet Bhavsar,b25a3800,0,0,0,0,0,,,,,,4,0,4
+1190772,2019,Kuwait,3,Meet Bhavsar,b25a3800,Inam-ul-Haq,15c766c3,R Sandaruwan,cf6acc0d,0,0,0,0,0,,,,,,1,0,1
+1190772,2019,Kuwait,3,R Sandaruwan,cf6acc0d,Inam-ul-Haq,15c766c3,Meet Bhavsar,b25a3800,0,0,0,0,0,,,,,,4,0,4
+1190772,2019,Kuwait,3,R Sandaruwan,cf6acc0d,Inam-ul-Haq,15c766c3,Meet Bhavsar,b25a3800,0,0,0,0,1,R Sandaruwan,cf6acc0d,,,caught and bowled,0,0,0
+1190772,2019,Kuwait,3,Adnan Idrees,0e34c23a,Inam-ul-Haq,15c766c3,Meet Bhavsar,b25a3800,0,0,0,0,0,,,,,,0,0,0
+1190772,2019,Kuwait,3,Adnan Idrees,0e34c23a,Inam-ul-Haq,15c766c3,Meet Bhavsar,b25a3800,0,0,0,0,0,,,,,,1,0,1
+1190772,2019,Kuwait,3,Meet Bhavsar,b25a3800,Inam-ul-Haq,15c766c3,Adnan Idrees,0e34c23a,0,0,0,0,0,,,,,,1,0,1
+1190772,2019,Kuwait,4,Meet Bhavsar,b25a3800,Nouman Sarwar,6adabee6,Adnan Idrees,0e34c23a,0,0,0,0,0,,,,,,4,0,4
+1190772,2019,Kuwait,4,Meet Bhavsar,b25a3800,Nouman Sarwar,6adabee6,Adnan Idrees,0e34c23a,0,0,0,0,0,,,,,,0,0,0
+1190772,2019,Kuwait,4,Meet Bhavsar,b25a3800,Nouman Sarwar,6adabee6,Adnan Idrees,0e34c23a,0,0,0,0,0,,,,,,0,0,0
+1190772,2019,Kuwait,4,Meet Bhavsar,b25a3800,Nouman Sarwar,6adabee6,Adnan Idrees,0e34c23a,0,0,0,0,0,,,,,,1,0,1
+1190772,2019,Kuwait,4,Adnan Idrees,0e34c23a,Nouman Sarwar,6adabee6,Meet Bhavsar,b25a3800,0,0,0,0,0,,,,,,4,0,4
+1190772,2019,Kuwait,4,Adnan Idrees,0e34c23a,Nouman Sarwar,6adabee6,Meet Bhavsar,b25a3800,0,0,0,0,0,,,,,,1,0,1
+1190772,2019,Kuwait,5,Adnan Idrees,0e34c23a,Inam-ul-Haq,15c766c3,Meet Bhavsar,b25a3800,0,0,0,0,0,,,,,,2,0,2
+1190772,2019,Kuwait,5,Adnan Idrees,0e34c23a,Inam-ul-Haq,15c766c3,Meet Bhavsar,b25a3800,0,0,0,0,0,,,,,,0,0,0
+1190772,2019,Kuwait,5,Adnan Idrees,0e34c23a,Inam-ul-Haq,15c766c3,Meet Bhavsar,b25a3800,0,0,0,0,0,,,,,,4,0,4
+1190772,2019,Kuwait,5,Adnan Idrees,0e34c23a,Inam-ul-Haq,15c766c3,Meet Bhavsar,b25a3800,0,0,0,0,0,,,,,,0,0,0
+1190772,2019,Kuwait,5,Adnan Idrees,0e34c23a,Inam-ul-Haq,15c766c3,Meet Bhavsar,b25a3800,0,0,0,0,0,,,,,,4,0,4
+1190772,2019,Kuwait,5,Adnan Idrees,0e34c23a,Inam-ul-Haq,15c766c3,Meet Bhavsar,b25a3800,0,0,0,0,0,,,,,,4,0,4
+1190772,2019,Kuwait,6,Meet Bhavsar,b25a3800,Tamoor Sajjad,7bb926a7,Adnan Idrees,0e34c23a,0,0,0,0,0,,,,,,0,0,0
+1190772,2019,Kuwait,6,Meet Bhavsar,b25a3800,Tamoor Sajjad,7bb926a7,Adnan Idrees,0e34c23a,0,0,0,0,0,,,,,,0,0,0
+1190772,2019,Kuwait,6,Meet Bhavsar,b25a3800,Tamoor Sajjad,7bb926a7,Adnan Idrees,0e34c23a,0,0,0,0,0,,,,,,0,0,0
+1190772,2019,Kuwait,6,Meet Bhavsar,b25a3800,Tamoor Sajjad,7bb926a7,Adnan Idrees,0e34c23a,0,0,0,0,0,,,,,,0,0,0
+1190772,2019,Kuwait,6,Meet Bhavsar,b25a3800,Tamoor Sajjad,7bb926a7,Adnan Idrees,0e34c23a,0,0,0,0,0,,,,,,1,0,1
+1190772,2019,Kuwait,6,Adnan Idrees,0e34c23a,Tamoor Sajjad,7bb926a7,Meet Bhavsar,b25a3800,0,0,0,0,0,,,,,,6,0,6
+1190772,2019,Kuwait,7,Meet Bhavsar,b25a3800,Mohammed Nadeem,856cbb1e,Adnan Idrees,0e34c23a,1,0,0,0,0,,,,,,0,1,1
+1190772,2019,Kuwait,7,Meet Bhavsar,b25a3800,Mohammed Nadeem,856cbb1e,Adnan Idrees,0e34c23a,0,0,0,0,0,,,,,,1,0,1
+1190772,2019,Kuwait,7,Adnan Idrees,0e34c23a,Mohammed Nadeem,856cbb1e,Meet Bhavsar,b25a3800,0,0,0,0,0,,,,,,4,0,4
+1190772,2019,Kuwait,7,Adnan Idrees,0e34c23a,Mohammed Nadeem,856cbb1e,Meet Bhavsar,b25a3800,0,0,0,0,0,,,,,,4,0,4
+1190772,2019,Kuwait,7,Adnan Idrees,0e34c23a,Mohammed Nadeem,856cbb1e,Meet Bhavsar,b25a3800,0,0,0,0,0,,,,,,0,0,0
+1190772,2019,Kuwait,7,Adnan Idrees,0e34c23a,Mohammed Nadeem,856cbb1e,Meet Bhavsar,b25a3800,0,0,0,0,0,,,,,,1,0,1
+1190772,2019,Kuwait,7,Meet Bhavsar,b25a3800,Mohammed Nadeem,856cbb1e,Adnan Idrees,0e34c23a,0,0,0,0,0,,,,,,4,0,4
+1190772,2019,Kuwait,8,Adnan Idrees,0e34c23a,Tamoor Sajjad,7bb926a7,Meet Bhavsar,b25a3800,0,0,0,0,0,,,,,,0,0,0
+1190772,2019,Kuwait,8,Adnan Idrees,0e34c23a,Tamoor Sajjad,7bb926a7,Meet Bhavsar,b25a3800,0,0,0,0,0,,,,,,4,0,4
+1190772,2019,Kuwait,8,Adnan Idrees,0e34c23a,Tamoor Sajjad,7bb926a7,Meet Bhavsar,b25a3800,0,0,0,0,0,,,,,,0,0,0
+1190772,2019,Kuwait,8,Adnan Idrees,0e34c23a,Tamoor Sajjad,7bb926a7,Meet Bhavsar,b25a3800,0,0,0,0,0,,,,,,1,0,1
+1190772,2019,Kuwait,8,Meet Bhavsar,b25a3800,Tamoor Sajjad,7bb926a7,Adnan Idrees,0e34c23a,0,0,0,0,0,,,,,,2,0,2
+1190772,2019,Kuwait,8,Meet Bhavsar,b25a3800,Tamoor Sajjad,7bb926a7,Adnan Idrees,0e34c23a,0,0,0,0,0,,,,,,1,0,1
+1190772,2019,Kuwait,9,Meet Bhavsar,b25a3800,Mohammed Nadeem,856cbb1e,Adnan Idrees,0e34c23a,0,0,0,0,0,,,,,,0,0,0
+1190772,2019,Kuwait,9,Meet Bhavsar,b25a3800,Mohammed Nadeem,856cbb1e,Adnan Idrees,0e34c23a,0,0,0,0,0,,,,,,1,0,1
+1190772,2019,Kuwait,9,Adnan Idrees,0e34c23a,Mohammed Nadeem,856cbb1e,Meet Bhavsar,b25a3800,0,0,0,0,0,,,,,,1,0,1
+1190772,2019,Kuwait,9,Meet Bhavsar,b25a3800,Mohammed Nadeem,856cbb1e,Adnan Idrees,0e34c23a,0,0,0,0,0,,,,,,1,0,1
+1190772,2019,Kuwait,9,Adnan Idrees,0e34c23a,Mohammed Nadeem,856cbb1e,Meet Bhavsar,b25a3800,0,0,0,0,0,,,,,,0,0,0
+1190772,2019,Kuwait,9,Adnan Idrees,0e34c23a,Mohammed Nadeem,856cbb1e,Meet Bhavsar,b25a3800,0,0,0,0,0,,,,,,1,0,1
+1190772,2019,Kuwait,10,Adnan Idrees,0e34c23a,Tamoor Sajjad,7bb926a7,Meet Bhavsar,b25a3800,0,0,0,0,0,,,,,,1,0,1
+1190772,2019,Kuwait,10,Meet Bhavsar,b25a3800,Tamoor Sajjad,7bb926a7,Adnan Idrees,0e34c23a,0,0,0,0,0,,,,,,1,0,1
+1190772,2019,Kuwait,10,Adnan Idrees,0e34c23a,Tamoor Sajjad,7bb926a7,Meet Bhavsar,b25a3800,0,0,0,0,0,,,,,,1,0,1
+1190772,2019,Kuwait,10,Meet Bhavsar,b25a3800,Tamoor Sajjad,7bb926a7,Adnan Idrees,0e34c23a,0,0,0,0,0,,,,,,0,0,0
+1190772,2019,Kuwait,10,Meet Bhavsar,b25a3800,Tamoor Sajjad,7bb926a7,Adnan Idrees,0e34c23a,0,0,0,0,0,,,,,,4,0,4
+1190772,2019,Kuwait,10,Meet Bhavsar,b25a3800,Tamoor Sajjad,7bb926a7,Adnan Idrees,0e34c23a,0,0,0,0,0,,,,,,2,0,2
+1190772,2019,Kuwait,11,Adnan Idrees,0e34c23a,Mohammed Nadeem,856cbb1e,Meet Bhavsar,b25a3800,0,0,0,0,0,,,,,,1,0,1
+1190772,2019,Kuwait,11,Meet Bhavsar,b25a3800,Mohammed Nadeem,856cbb1e,Adnan Idrees,0e34c23a,0,0,0,0,1,Meet Bhavsar,b25a3800,Faisal Javed,b0ef0346,caught,0,0,0
+1190772,2019,Kuwait,11,Adnan Idrees,0e34c23a,Mohammed Nadeem,856cbb1e,Bilal Tahir,3cf06094,0,0,0,0,0,,,,,,0,0,0
+1190772,2019,Kuwait,11,Adnan Idrees,0e34c23a,Mohammed Nadeem,856cbb1e,Bilal Tahir,3cf06094,0,0,0,0,0,,,,,,4,0,4
+1190772,2019,Kuwait,11,Adnan Idrees,0e34c23a,Mohammed Nadeem,856cbb1e,Bilal Tahir,3cf06094,0,0,0,0,0,,,,,,0,0,0
+1190772,2019,Kuwait,11,Adnan Idrees,0e34c23a,Mohammed Nadeem,856cbb1e,Bilal Tahir,3cf06094,0,0,0,0,0,,,,,,1,0,1
+1190772,2019,Kuwait,12,Adnan Idrees,0e34c23a,Iqbal Hussain,b9fd3959,Bilal Tahir,3cf06094,0,0,0,0,0,,,,,,0,0,0
+1190772,2019,Kuwait,12,Adnan Idrees,0e34c23a,Iqbal Hussain,b9fd3959,Bilal Tahir,3cf06094,0,0,0,0,0,,,,,,6,0,6
+1190772,2019,Kuwait,12,Adnan Idrees,0e34c23a,Iqbal Hussain,b9fd3959,Bilal Tahir,3cf06094,0,0,0,0,1,Adnan Idrees,0e34c23a,Mohammed Nadeem,856cbb1e,caught,0,0,0
+1190772,2019,Kuwait,12,Bilal Tahir,3cf06094,Iqbal Hussain,b9fd3959,Muhammad Kashif,e7458e4b,0,0,0,0,0,,,,,,0,0,0
+1190772,2019,Kuwait,12,Bilal Tahir,3cf06094,Iqbal Hussain,b9fd3959,Muhammad Kashif,e7458e4b,0,0,0,0,1,Bilal Tahir,3cf06094,,,run out,0,0,0
+1190772,2019,Kuwait,12,Usman Waheed,910584a7,Iqbal Hussain,b9fd3959,Muhammad Kashif,e7458e4b,0,0,0,0,0,,,,,,1,0,1
+1190772,2019,Kuwait,13,Usman Waheed,910584a7,Mohammed Nadeem,856cbb1e,Muhammad Kashif,e7458e4b,0,0,0,0,0,,,,,,4,0,4
+1190772,2019,Kuwait,13,Usman Waheed,910584a7,Mohammed Nadeem,856cbb1e,Muhammad Kashif,e7458e4b,0,0,0,0,0,,,,,,1,0,1
+1190772,2019,Kuwait,13,Muhammad Kashif,e7458e4b,Mohammed Nadeem,856cbb1e,Usman Waheed,910584a7,0,0,0,0,0,,,,,,6,0,6
+1190772,2019,Kuwait,13,Muhammad Kashif,e7458e4b,Mohammed Nadeem,856cbb1e,Usman Waheed,910584a7,0,0,0,0,0,,,,,,0,0,0
+1190772,2019,Kuwait,13,Muhammad Kashif,e7458e4b,Mohammed Nadeem,856cbb1e,Usman Waheed,910584a7,0,0,0,0,0,,,,,,0,0,0
+1190772,2019,Kuwait,13,Muhammad Kashif,e7458e4b,Mohammed Nadeem,856cbb1e,Usman Waheed,910584a7,0,0,0,0,0,,,,,,1,0,1
+1190772,2019,Kuwait,14,Muhammad Kashif,e7458e4b,Iqbal Hussain,b9fd3959,Usman Waheed,910584a7,0,0,0,0,0,,,,,,1,0,1
+1190772,2019,Kuwait,14,Usman Waheed,910584a7,Iqbal Hussain,b9fd3959,Muhammad Kashif,e7458e4b,0,0,0,0,0,,,,,,0,0,0
+1190772,2019,Kuwait,14,Usman Waheed,910584a7,Iqbal Hussain,b9fd3959,Muhammad Kashif,e7458e4b,0,0,0,0,0,,,,,,1,0,1
+1190772,2019,Kuwait,14,Muhammad Kashif,e7458e4b,Iqbal Hussain,b9fd3959,Usman Waheed,910584a7,0,0,0,0,0,,,,,,1,0,1
+1190772,2019,Kuwait,14,Usman Waheed,910584a7,Iqbal Hussain,b9fd3959,Muhammad Kashif,e7458e4b,0,0,0,0,0,,,,,,0,0,0
+1190772,2019,Kuwait,14,Usman Waheed,910584a7,Iqbal Hussain,b9fd3959,Muhammad Kashif,e7458e4b,0,0,0,0,0,,,,,,0,0,0
+1190772,2019,Kuwait,15,Muhammad Kashif,e7458e4b,Tamoor Sajjad,7bb926a7,Usman Waheed,910584a7,0,0,0,0,0,,,,,,1,0,1
+1190772,2019,Kuwait,15,Usman Waheed,910584a7,Tamoor Sajjad,7bb926a7,Muhammad Kashif,e7458e4b,0,0,0,0,0,,,,,,1,0,1
+1190772,2019,Kuwait,15,Muhammad Kashif,e7458e4b,Tamoor Sajjad,7bb926a7,Usman Waheed,910584a7,0,0,0,0,0,,,,,,0,0,0
+1190772,2019,Kuwait,15,Muhammad Kashif,e7458e4b,Tamoor Sajjad,7bb926a7,Usman Waheed,910584a7,0,0,0,0,0,,,,,,1,0,1
+1190772,2019,Kuwait,15,Usman Waheed,910584a7,Tamoor Sajjad,7bb926a7,Muhammad Kashif,e7458e4b,0,0,0,0,0,,,,,,1,0,1
+1190772,2019,Kuwait,15,Muhammad Kashif,e7458e4b,Tamoor Sajjad,7bb926a7,Usman Waheed,910584a7,0,0,0,0,0,,,,,,0,0,0
+1190772,2019,Kuwait,16,Usman Waheed,910584a7,Iqbal Hussain,b9fd3959,Muhammad Kashif,e7458e4b,0,0,0,0,0,,,,,,4,0,4
+1190772,2019,Kuwait,16,Usman Waheed,910584a7,Iqbal Hussain,b9fd3959,Muhammad Kashif,e7458e4b,0,0,0,0,0,,,,,,4,0,4
+1190772,2019,Kuwait,16,Usman Waheed,910584a7,Iqbal Hussain,b9fd3959,Muhammad Kashif,e7458e4b,0,0,0,0,0,,,,,,1,0,1
+1190772,2019,Kuwait,16,Muhammad Kashif,e7458e4b,Iqbal Hussain,b9fd3959,Usman Waheed,910584a7,0,0,0,0,0,,,,,,6,0,6
+1190772,2019,Kuwait,16,Muhammad Kashif,e7458e4b,Iqbal Hussain,b9fd3959,Usman Waheed,910584a7,0,0,0,0,0,,,,,,1,0,1
+1190772,2019,Kuwait,16,Usman Waheed,910584a7,Iqbal Hussain,b9fd3959,Muhammad Kashif,e7458e4b,0,0,0,0,0,,,,,,1,0,1
+1190772,2019,Kuwait,17,Usman Waheed,910584a7,Nouman Sarwar,6adabee6,Muhammad Kashif,e7458e4b,0,0,0,0,0,,,,,,1,0,1
+1190772,2019,Kuwait,17,Muhammad Kashif,e7458e4b,Nouman Sarwar,6adabee6,Usman Waheed,910584a7,0,0,0,0,0,,,,,,1,0,1
+1190772,2019,Kuwait,17,Usman Waheed,910584a7,Nouman Sarwar,6adabee6,Muhammad Kashif,e7458e4b,0,0,0,0,0,,,,,,1,0,1
+1190772,2019,Kuwait,17,Muhammad Kashif,e7458e4b,Nouman Sarwar,6adabee6,Usman Waheed,910584a7,0,0,0,0,0,,,,,,2,0,2
+1190772,2019,Kuwait,17,Muhammad Kashif,e7458e4b,Nouman Sarwar,6adabee6,Usman Waheed,910584a7,0,0,0,0,0,,,,,,6,0,6
+1190772,2019,Kuwait,17,Muhammad Kashif,e7458e4b,Nouman Sarwar,6adabee6,Usman Waheed,910584a7,0,0,0,0,0,,,,,,4,0,4
+1190772,2019,Kuwait,18,Usman Waheed,910584a7,Iqbal Hussain,b9fd3959,Muhammad Kashif,e7458e4b,0,0,0,0,0,,,,,,1,0,1
+1190772,2019,Kuwait,18,Muhammad Kashif,e7458e4b,Iqbal Hussain,b9fd3959,Usman Waheed,910584a7,1,0,0,0,0,,,,,,0,1,1
+1190772,2019,Kuwait,18,Muhammad Kashif,e7458e4b,Iqbal Hussain,b9fd3959,Usman Waheed,910584a7,0,0,0,0,0,,,,,,6,0,6
+1190772,2019,Kuwait,18,Muhammad Kashif,e7458e4b,Iqbal Hussain,b9fd3959,Usman Waheed,910584a7,0,0,0,0,0,,,,,,0,0,0
+1190772,2019,Kuwait,18,Muhammad Kashif,e7458e4b,Iqbal Hussain,b9fd3959,Usman Waheed,910584a7,0,0,0,0,0,,,,,,6,0,6
+1190772,2019,Kuwait,18,Muhammad Kashif,e7458e4b,Iqbal Hussain,b9fd3959,Usman Waheed,910584a7,0,0,0,0,1,Muhammad Kashif,e7458e4b,Tamoor Sajjad,7bb926a7,caught,0,0,0
+1190772,2019,Kuwait,18,Shiraz Khan,f310704c,Iqbal Hussain,b9fd3959,Usman Waheed,910584a7,0,0,0,0,0,,,,,,1,0,1
+1190772,2019,Kuwait,19,Shiraz Khan,f310704c,Nouman Sarwar,6adabee6,Usman Waheed,910584a7,0,0,0,0,0,,,,,,4,0,4
+1190772,2019,Kuwait,19,Shiraz Khan,f310704c,Nouman Sarwar,6adabee6,Usman Waheed,910584a7,0,0,0,0,0,,,,,,1,0,1
+1190772,2019,Kuwait,19,Usman Waheed,910584a7,Nouman Sarwar,6adabee6,Shiraz Khan,f310704c,0,0,0,0,0,,,,,,6,0,6
+1190772,2019,Kuwait,19,Usman Waheed,910584a7,Nouman Sarwar,6adabee6,Shiraz Khan,f310704c,0,0,0,1,0,,,,,,0,1,1
+1190772,2019,Kuwait,19,Shiraz Khan,f310704c,Nouman Sarwar,6adabee6,Usman Waheed,910584a7,0,0,0,0,1,Shiraz Khan,f310704c,,,bowled,0,0,0
+1190772,2019,Kuwait,19,MNM Aslam,20481563,Nouman Sarwar,6adabee6,Usman Waheed,910584a7,0,0,0,0,1,MNM Aslam,20481563,Zaheer Ibrahim,d754fde8,caught,0,0,0
+1190772,2019,Qatar,0,Faisal Javed,b0ef0346,Ilyas Ahmed,42a01b52,Kamran Khan,922e3dcc,1,0,0,0,0,,,,,,0,1,1
+1190772,2019,Qatar,0,Faisal Javed,b0ef0346,Ilyas Ahmed,42a01b52,Kamran Khan,922e3dcc,0,0,0,0,0,,,,,,0,0,0
+1190772,2019,Qatar,0,Faisal Javed,b0ef0346,Ilyas Ahmed,42a01b52,Kamran Khan,922e3dcc,0,0,0,0,0,,,,,,4,0,4
+1190772,2019,Qatar,0,Faisal Javed,b0ef0346,Ilyas Ahmed,42a01b52,Kamran Khan,922e3dcc,0,0,0,0,0,,,,,,6,0,6
+1190772,2019,Qatar,0,Faisal Javed,b0ef0346,Ilyas Ahmed,42a01b52,Kamran Khan,922e3dcc,0,0,0,0,0,,,,,,4,0,4
+1190772,2019,Qatar,0,Faisal Javed,b0ef0346,Ilyas Ahmed,42a01b52,Kamran Khan,922e3dcc,0,0,0,0,0,,,,,,0,0,0
+1190772,2019,Qatar,0,Faisal Javed,b0ef0346,Ilyas Ahmed,42a01b52,Kamran Khan,922e3dcc,0,0,0,0,0,,,,,,4,0,4
+1190772,2019,Qatar,1,Kamran Khan,922e3dcc,Muhammad Kashif,e7458e4b,Faisal Javed,b0ef0346,5,0,0,0,0,,,,,,0,5,5
+1190772,2019,Qatar,1,Kamran Khan,922e3dcc,Muhammad Kashif,e7458e4b,Faisal Javed,b0ef0346,0,0,0,0,0,,,,,,0,0,0
+1190772,2019,Qatar,1,Kamran Khan,922e3dcc,Muhammad Kashif,e7458e4b,Faisal Javed,b0ef0346,0,0,0,0,0,,,,,,0,0,0
+1190772,2019,Qatar,1,Kamran Khan,922e3dcc,Muhammad Kashif,e7458e4b,Faisal Javed,b0ef0346,0,0,0,0,0,,,,,,4,0,4
+1190772,2019,Qatar,1,Kamran Khan,922e3dcc,Muhammad Kashif,e7458e4b,Faisal Javed,b0ef0346,0,0,0,0,0,,,,,,0,0,0
+1190772,2019,Qatar,1,Kamran Khan,922e3dcc,Muhammad Kashif,e7458e4b,Faisal Javed,b0ef0346,0,0,0,0,0,,,,,,4,0,4
+1190772,2019,Qatar,1,Kamran Khan,922e3dcc,Muhammad Kashif,e7458e4b,Faisal Javed,b0ef0346,0,0,0,0,0,,,,,,0,0,0
+1190772,2019,Qatar,2,Faisal Javed,b0ef0346,Jandu Hamoud,324edd0c,Kamran Khan,922e3dcc,0,0,0,0,0,,,,,,6,0,6
+1190772,2019,Qatar,2,Faisal Javed,b0ef0346,Jandu Hamoud,324edd0c,Kamran Khan,922e3dcc,0,0,0,0,1,Faisal Javed,b0ef0346,Shiraz Khan,f310704c,caught,0,0,0
+1190772,2019,Qatar,2,Inam-ul-Haq,15c766c3,Jandu Hamoud,324edd0c,Kamran Khan,922e3dcc,0,0,0,0,0,,,,,,1,0,1
+1190772,2019,Qatar,2,Kamran Khan,922e3dcc,Jandu Hamoud,324edd0c,Inam-ul-Haq,15c766c3,0,0,4,0,0,,,,,,0,4,4
+1190772,2019,Qatar,2,Kamran Khan,922e3dcc,Jandu Hamoud,324edd0c,Inam-ul-Haq,15c766c3,1,0,0,0,0,,,,,,0,1,1
+1190772,2019,Qatar,2,Kamran Khan,922e3dcc,Jandu Hamoud,324edd0c,Inam-ul-Haq,15c766c3,0,0,0,0,1,Kamran Khan,922e3dcc,Bilal Tahir,3cf06094,caught,0,0,0
+1190772,2019,Qatar,2,Inam-ul-Haq,15c766c3,Jandu Hamoud,324edd0c,Muhammad Tanveer,aef39fe4,0,0,0,0,0,,,,,,4,0,4
+1190772,2019,Qatar,3,Muhammad Tanveer,aef39fe4,Mohammad Ahsan,62474838,Inam-ul-Haq,15c766c3,0,0,0,0,0,,,,,,1,0,1
+1190772,2019,Qatar,3,Inam-ul-Haq,15c766c3,Mohammad Ahsan,62474838,Muhammad Tanveer,aef39fe4,0,0,0,0,0,,,,,,1,0,1
+1190772,2019,Qatar,3,Muhammad Tanveer,aef39fe4,Mohammad Ahsan,62474838,Inam-ul-Haq,15c766c3,0,0,0,0,0,,,,,,1,0,1
+1190772,2019,Qatar,3,Inam-ul-Haq,15c766c3,Mohammad Ahsan,62474838,Muhammad Tanveer,aef39fe4,0,0,0,0,0,,,,,,0,0,0
+1190772,2019,Qatar,3,Inam-ul-Haq,15c766c3,Mohammad Ahsan,62474838,Muhammad Tanveer,aef39fe4,0,0,0,0,0,,,,,,4,0,4
+1190772,2019,Qatar,3,Inam-ul-Haq,15c766c3,Mohammad Ahsan,62474838,Muhammad Tanveer,aef39fe4,0,0,0,0,0,,,,,,1,0,1
+1190772,2019,Qatar,4,Inam-ul-Haq,15c766c3,Ilyas Ahmed,42a01b52,Muhammad Tanveer,aef39fe4,0,0,0,0,0,,,,,,4,0,4
+1190772,2019,Qatar,4,Inam-ul-Haq,15c766c3,Ilyas Ahmed,42a01b52,Muhammad Tanveer,aef39fe4,0,0,0,0,0,,,,,,4,0,4
+1190772,2019,Qatar,4,Inam-ul-Haq,15c766c3,Ilyas Ahmed,42a01b52,Muhammad Tanveer,aef39fe4,0,0,0,0,0,,,,,,0,0,0
+1190772,2019,Qatar,4,Inam-ul-Haq,15c766c3,Ilyas Ahmed,42a01b52,Muhammad Tanveer,aef39fe4,0,0,0,0,0,,,,,,0,0,0
+1190772,2019,Qatar,4,Inam-ul-Haq,15c766c3,Ilyas Ahmed,42a01b52,Muhammad Tanveer,aef39fe4,0,0,0,0,0,,,,,,0,0,0
+1190772,2019,Qatar,4,Inam-ul-Haq,15c766c3,Ilyas Ahmed,42a01b52,Muhammad Tanveer,aef39fe4,0,0,0,0,0,,,,,,0,0,0
+1190772,2019,Qatar,5,Muhammad Tanveer,aef39fe4,Mohammad Ahsan,62474838,Inam-ul-Haq,15c766c3,0,0,0,0,0,,,,,,0,0,0
+1190772,2019,Qatar,5,Muhammad Tanveer,aef39fe4,Mohammad Ahsan,62474838,Inam-ul-Haq,15c766c3,0,0,0,0,0,,,,,,4,0,4
+1190772,2019,Qatar,5,Muhammad Tanveer,aef39fe4,Mohammad Ahsan,62474838,Inam-ul-Haq,15c766c3,0,0,0,0,0,,,,,,0,0,0
+1190772,2019,Qatar,5,Muhammad Tanveer,aef39fe4,Mohammad Ahsan,62474838,Inam-ul-Haq,15c766c3,0,0,0,0,0,,,,,,1,0,1
+1190772,2019,Qatar,5,Inam-ul-Haq,15c766c3,Mohammad Ahsan,62474838,Muhammad Tanveer,aef39fe4,0,0,0,0,0,,,,,,1,0,1
+1190772,2019,Qatar,5,Muhammad Tanveer,aef39fe4,Mohammad Ahsan,62474838,Inam-ul-Haq,15c766c3,0,0,0,0,0,,,,,,0,0,0
+1190772,2019,Qatar,6,Inam-ul-Haq,15c766c3,Jandu Hamoud,324edd0c,Muhammad Tanveer,aef39fe4,0,0,0,0,0,,,,,,0,0,0
+1190772,2019,Qatar,6,Inam-ul-Haq,15c766c3,Jandu Hamoud,324edd0c,Muhammad Tanveer,aef39fe4,1,0,0,0,0,,,,,,0,1,1
+1190772,2019,Qatar,6,Inam-ul-Haq,15c766c3,Jandu Hamoud,324edd0c,Muhammad Tanveer,aef39fe4,0,0,0,0,0,,,,,,0,0,0
+1190772,2019,Qatar,6,Inam-ul-Haq,15c766c3,Jandu Hamoud,324edd0c,Muhammad Tanveer,aef39fe4,0,0,0,0,0,,,,,,0,0,0
+1190772,2019,Qatar,6,Inam-ul-Haq,15c766c3,Jandu Hamoud,324edd0c,Muhammad Tanveer,aef39fe4,0,0,0,0,0,,,,,,1,0,1
+1190772,2019,Qatar,6,Muhammad Tanveer,aef39fe4,Jandu Hamoud,324edd0c,Inam-ul-Haq,15c766c3,0,0,0,0,0,,,,,,4,0,4
+1190772,2019,Qatar,6,Muhammad Tanveer,aef39fe4,Jandu Hamoud,324edd0c,Inam-ul-Haq,15c766c3,0,0,0,0,0,,,,,,0,0,0
+1190772,2019,Qatar,7,Inam-ul-Haq,15c766c3,MNM Aslam,20481563,Muhammad Tanveer,aef39fe4,0,0,0,0,0,,,,,,0,0,0
+1190772,2019,Qatar,7,Inam-ul-Haq,15c766c3,MNM Aslam,20481563,Muhammad Tanveer,aef39fe4,0,0,0,0,0,,,,,,0,0,0
+1190772,2019,Qatar,7,Inam-ul-Haq,15c766c3,MNM Aslam,20481563,Muhammad Tanveer,aef39fe4,0,0,0,0,0,,,,,,1,0,1
+1190772,2019,Qatar,7,Muhammad Tanveer,aef39fe4,MNM Aslam,20481563,Inam-ul-Haq,15c766c3,0,0,0,0,0,,,,,,1,0,1
+1190772,2019,Qatar,7,Inam-ul-Haq,15c766c3,MNM Aslam,20481563,Muhammad Tanveer,aef39fe4,0,0,0,0,0,,,,,,0,0,0
+1190772,2019,Qatar,7,Inam-ul-Haq,15c766c3,MNM Aslam,20481563,Muhammad Tanveer,aef39fe4,0,0,0,0,0,,,,,,0,0,0
+1190772,2019,Qatar,8,Muhammad Tanveer,aef39fe4,Jandu Hamoud,324edd0c,Inam-ul-Haq,15c766c3,0,0,0,0,0,,,,,,1,0,1
+1190772,2019,Qatar,8,Inam-ul-Haq,15c766c3,Jandu Hamoud,324edd0c,Muhammad Tanveer,aef39fe4,1,0,0,0,0,,,,,,0,1,1
+1190772,2019,Qatar,8,Inam-ul-Haq,15c766c3,Jandu Hamoud,324edd0c,Muhammad Tanveer,aef39fe4,0,0,0,0,0,,,,,,1,0,1
+1190772,2019,Qatar,8,Muhammad Tanveer,aef39fe4,Jandu Hamoud,324edd0c,Inam-ul-Haq,15c766c3,0,0,0,0,0,,,,,,1,0,1
+1190772,2019,Qatar,8,Inam-ul-Haq,15c766c3,Jandu Hamoud,324edd0c,Muhammad Tanveer,aef39fe4,0,0,0,0,0,,,,,,1,0,1
+1190772,2019,Qatar,8,Muhammad Tanveer,aef39fe4,Jandu Hamoud,324edd0c,Inam-ul-Haq,15c766c3,0,0,0,0,0,,,,,,0,0,0
+1190772,2019,Qatar,8,Muhammad Tanveer,aef39fe4,Jandu Hamoud,324edd0c,Inam-ul-Haq,15c766c3,0,1,0,0,0,,,,,,1,1,2
+1190772,2019,Qatar,8,Inam-ul-Haq,15c766c3,Jandu Hamoud,324edd0c,Muhammad Tanveer,aef39fe4,0,0,0,0,0,,,,,,0,0,0
+1190772,2019,Qatar,9,Muhammad Tanveer,aef39fe4,MNM Aslam,20481563,Inam-ul-Haq,15c766c3,0,0,0,0,0,,,,,,1,0,1
+1190772,2019,Qatar,9,Inam-ul-Haq,15c766c3,MNM Aslam,20481563,Muhammad Tanveer,aef39fe4,0,0,0,0,0,,,,,,0,0,0
+1190772,2019,Qatar,9,Inam-ul-Haq,15c766c3,MNM Aslam,20481563,Muhammad Tanveer,aef39fe4,0,0,0,0,0,,,,,,1,0,1
+1190772,2019,Qatar,9,Muhammad Tanveer,aef39fe4,MNM Aslam,20481563,Inam-ul-Haq,15c766c3,0,0,0,0,0,,,,,,0,0,0
+1190772,2019,Qatar,9,Muhammad Tanveer,aef39fe4,MNM Aslam,20481563,Inam-ul-Haq,15c766c3,0,0,0,0,1,Muhammad Tanveer,aef39fe4,,,lbw,0,0,0
+1190772,2019,Qatar,9,Tamoor Sajjad,7bb926a7,MNM Aslam,20481563,Inam-ul-Haq,15c766c3,0,0,0,0,0,,,,,,0,0,0
+1190772,2019,Qatar,10,Inam-ul-Haq,15c766c3,Shiraz Khan,f310704c,Tamoor Sajjad,7bb926a7,0,0,0,0,0,,,,,,1,0,1
+1190772,2019,Qatar,10,Tamoor Sajjad,7bb926a7,Shiraz Khan,f310704c,Inam-ul-Haq,15c766c3,0,0,0,0,0,,,,,,0,0,0
+1190772,2019,Qatar,10,Tamoor Sajjad,7bb926a7,Shiraz Khan,f310704c,Inam-ul-Haq,15c766c3,0,0,0,0,0,,,,,,1,0,1
+1190772,2019,Qatar,10,Inam-ul-Haq,15c766c3,Shiraz Khan,f310704c,Tamoor Sajjad,7bb926a7,0,0,0,0,0,,,,,,2,0,2
+1190772,2019,Qatar,10,Inam-ul-Haq,15c766c3,Shiraz Khan,f310704c,Tamoor Sajjad,7bb926a7,0,0,0,0,0,,,,,,0,0,0
+1190772,2019,Qatar,10,Inam-ul-Haq,15c766c3,Shiraz Khan,f310704c,Tamoor Sajjad,7bb926a7,0,0,0,0,1,Inam-ul-Haq,15c766c3,Ilyas Ahmed,42a01b52,caught,0,0,0
+1190772,2019,Qatar,11,Tamoor Sajjad,7bb926a7,MNM Aslam,20481563,Mohammad Rizlan,82afc034,0,0,0,0,0,,,,,,1,0,1
+1190772,2019,Qatar,11,Mohammad Rizlan,82afc034,MNM Aslam,20481563,Tamoor Sajjad,7bb926a7,0,0,0,0,0,,,,,,0,0,0
+1190772,2019,Qatar,11,Mohammad Rizlan,82afc034,MNM Aslam,20481563,Tamoor Sajjad,7bb926a7,0,0,0,0,0,,,,,,1,0,1
+1190772,2019,Qatar,11,Tamoor Sajjad,7bb926a7,MNM Aslam,20481563,Mohammad Rizlan,82afc034,0,0,2,0,0,,,,,,0,2,2
+1190772,2019,Qatar,11,Tamoor Sajjad,7bb926a7,MNM Aslam,20481563,Mohammad Rizlan,82afc034,0,0,0,0,0,,,,,,0,0,0
+1190772,2019,Qatar,11,Tamoor Sajjad,7bb926a7,MNM Aslam,20481563,Mohammad Rizlan,82afc034,0,0,0,0,0,,,,,,1,0,1
+1190772,2019,Qatar,12,Tamoor Sajjad,7bb926a7,Shiraz Khan,f310704c,Mohammad Rizlan,82afc034,0,0,0,0,0,,,,,,1,0,1
+1190772,2019,Qatar,12,Mohammad Rizlan,82afc034,Shiraz Khan,f310704c,Tamoor Sajjad,7bb926a7,0,0,0,0,0,,,,,,0,0,0
+1190772,2019,Qatar,12,Mohammad Rizlan,82afc034,Shiraz Khan,f310704c,Tamoor Sajjad,7bb926a7,0,0,0,0,0,,,,,,1,0,1
+1190772,2019,Qatar,12,Tamoor Sajjad,7bb926a7,Shiraz Khan,f310704c,Mohammad Rizlan,82afc034,0,0,0,0,0,,,,,,6,0,6
+1190772,2019,Qatar,12,Tamoor Sajjad,7bb926a7,Shiraz Khan,f310704c,Mohammad Rizlan,82afc034,0,0,0,0,0,,,,,,1,0,1
+1190772,2019,Qatar,12,Mohammad Rizlan,82afc034,Shiraz Khan,f310704c,Tamoor Sajjad,7bb926a7,0,0,0,0,0,,,,,,6,0,6
+1190772,2019,Qatar,13,Tamoor Sajjad,7bb926a7,MNM Aslam,20481563,Mohammad Rizlan,82afc034,0,0,0,0,0,,,,,,1,0,1
+1190772,2019,Qatar,13,Mohammad Rizlan,82afc034,MNM Aslam,20481563,Tamoor Sajjad,7bb926a7,0,0,0,0,0,,,,,,1,0,1
+1190772,2019,Qatar,13,Tamoor Sajjad,7bb926a7,MNM Aslam,20481563,Mohammad Rizlan,82afc034,0,0,0,0,0,,,,,,1,0,1
+1190772,2019,Qatar,13,Mohammad Rizlan,82afc034,MNM Aslam,20481563,Tamoor Sajjad,7bb926a7,0,0,0,0,0,,,,,,0,0,0
+1190772,2019,Qatar,13,Mohammad Rizlan,82afc034,MNM Aslam,20481563,Tamoor Sajjad,7bb926a7,0,0,0,0,0,,,,,,1,0,1
+1190772,2019,Qatar,13,Tamoor Sajjad,7bb926a7,MNM Aslam,20481563,Mohammad Rizlan,82afc034,0,0,0,0,0,,,,,,2,0,2
+1190772,2019,Qatar,14,Mohammad Rizlan,82afc034,Muhammad Kashif,e7458e4b,Tamoor Sajjad,7bb926a7,0,0,0,0,0,,,,,,1,0,1
+1190772,2019,Qatar,14,Tamoor Sajjad,7bb926a7,Muhammad Kashif,e7458e4b,Mohammad Rizlan,82afc034,0,0,0,0,0,,,,,,1,0,1
+1190772,2019,Qatar,14,Mohammad Rizlan,82afc034,Muhammad Kashif,e7458e4b,Tamoor Sajjad,7bb926a7,0,0,0,0,0,,,,,,1,0,1
+1190772,2019,Qatar,14,Tamoor Sajjad,7bb926a7,Muhammad Kashif,e7458e4b,Mohammad Rizlan,82afc034,0,0,0,0,0,,,,,,1,0,1
+1190772,2019,Qatar,14,Mohammad Rizlan,82afc034,Muhammad Kashif,e7458e4b,Tamoor Sajjad,7bb926a7,0,0,0,0,0,,,,,,1,0,1
+1190772,2019,Qatar,14,Tamoor Sajjad,7bb926a7,Muhammad Kashif,e7458e4b,Mohammad Rizlan,82afc034,0,0,0,0,0,,,,,,1,0,1
+1190772,2019,Qatar,15,Tamoor Sajjad,7bb926a7,Shiraz Khan,f310704c,Mohammad Rizlan,82afc034,0,0,0,0,0,,,,,,4,0,4
+1190772,2019,Qatar,15,Tamoor Sajjad,7bb926a7,Shiraz Khan,f310704c,Mohammad Rizlan,82afc034,0,0,0,0,0,,,,,,1,0,1
+1190772,2019,Qatar,15,Mohammad Rizlan,82afc034,Shiraz Khan,f310704c,Tamoor Sajjad,7bb926a7,0,0,0,0,1,Mohammad Rizlan,82afc034,Adnan Idrees,0e34c23a,caught,0,0,0
+1190772,2019,Qatar,15,Tamoor Sajjad,7bb926a7,Shiraz Khan,f310704c,Nouman Sarwar,6adabee6,0,0,0,0,0,,,,,,0,0,0
+1190772,2019,Qatar,15,Tamoor Sajjad,7bb926a7,Shiraz Khan,f310704c,Nouman Sarwar,6adabee6,1,0,0,0,0,,,,,,0,1,1
+1190772,2019,Qatar,15,Tamoor Sajjad,7bb926a7,Shiraz Khan,f310704c,Nouman Sarwar,6adabee6,0,0,0,0,0,,,,,,1,0,1
+1190772,2019,Qatar,15,Nouman Sarwar,6adabee6,Shiraz Khan,f310704c,Tamoor Sajjad,7bb926a7,0,0,0,0,0,,,,,,0,0,0
+1190772,2019,Qatar,16,Tamoor Sajjad,7bb926a7,Mohammad Ahsan,62474838,Nouman Sarwar,6adabee6,0,0,0,0,0,,,,,,1,0,1
+1190772,2019,Qatar,16,Nouman Sarwar,6adabee6,Mohammad Ahsan,62474838,Tamoor Sajjad,7bb926a7,0,0,0,0,0,,,,,,1,0,1
+1190772,2019,Qatar,16,Tamoor Sajjad,7bb926a7,Mohammad Ahsan,62474838,Nouman Sarwar,6adabee6,0,0,0,0,0,,,,,,0,0,0
+1190772,2019,Qatar,16,Tamoor Sajjad,7bb926a7,Mohammad Ahsan,62474838,Nouman Sarwar,6adabee6,0,0,0,0,0,,,,,,6,0,6
+1190772,2019,Qatar,16,Tamoor Sajjad,7bb926a7,Mohammad Ahsan,62474838,Nouman Sarwar,6adabee6,0,0,0,0,0,,,,,,1,0,1
+1190772,2019,Qatar,16,Nouman Sarwar,6adabee6,Mohammad Ahsan,62474838,Tamoor Sajjad,7bb926a7,1,0,0,0,0,,,,,,0,1,1
+1190772,2019,Qatar,16,Nouman Sarwar,6adabee6,Mohammad Ahsan,62474838,Tamoor Sajjad,7bb926a7,0,0,0,0,0,,,,,,4,0,4
+1190772,2019,Qatar,17,Tamoor Sajjad,7bb926a7,Shiraz Khan,f310704c,Nouman Sarwar,6adabee6,0,0,0,0,0,,,,,,1,0,1
+1190772,2019,Qatar,17,Nouman Sarwar,6adabee6,Shiraz Khan,f310704c,Tamoor Sajjad,7bb926a7,0,0,0,0,0,,,,,,1,0,1
+1190772,2019,Qatar,17,Tamoor Sajjad,7bb926a7,Shiraz Khan,f310704c,Nouman Sarwar,6adabee6,0,0,0,0,0,,,,,,2,0,2
+1190772,2019,Qatar,17,Tamoor Sajjad,7bb926a7,Shiraz Khan,f310704c,Nouman Sarwar,6adabee6,0,0,0,0,0,,,,,,0,0,0
+1190772,2019,Qatar,17,Tamoor Sajjad,7bb926a7,Shiraz Khan,f310704c,Nouman Sarwar,6adabee6,0,0,0,0,0,,,,,,4,0,4
+1190772,2019,Qatar,17,Tamoor Sajjad,7bb926a7,Shiraz Khan,f310704c,Nouman Sarwar,6adabee6,0,0,0,0,0,,,,,,1,0,1
+1190772,2019,Qatar,18,Tamoor Sajjad,7bb926a7,Ilyas Ahmed,42a01b52,Nouman Sarwar,6adabee6,0,0,0,0,0,,,,,,4,0,4
+1190772,2019,Qatar,18,Tamoor Sajjad,7bb926a7,Ilyas Ahmed,42a01b52,Nouman Sarwar,6adabee6,0,0,0,0,0,,,,,,1,0,1
+1190772,2019,Qatar,18,Nouman Sarwar,6adabee6,Ilyas Ahmed,42a01b52,Tamoor Sajjad,7bb926a7,0,0,0,0,0,,,,,,4,0,4
+1190772,2019,Qatar,18,Nouman Sarwar,6adabee6,Ilyas Ahmed,42a01b52,Tamoor Sajjad,7bb926a7,0,0,0,0,0,,,,,,4,0,4
+1190772,2019,Qatar,18,Nouman Sarwar,6adabee6,Ilyas Ahmed,42a01b52,Tamoor Sajjad,7bb926a7,0,0,0,0,0,,,,,,0,0,0
+1190772,2019,Qatar,18,Nouman Sarwar,6adabee6,Ilyas Ahmed,42a01b52,Tamoor Sajjad,7bb926a7,0,0,0,0,0,,,,,,1,0,1
+1190772,2019,Qatar,19,Nouman Sarwar,6adabee6,Mohammad Ahsan,62474838,Tamoor Sajjad,7bb926a7,0,0,0,0,0,,,,,,4,0,4
+1190772,2019,Qatar,19,Nouman Sarwar,6adabee6,Mohammad Ahsan,62474838,Tamoor Sajjad,7bb926a7,0,0,0,0,0,,,,,,4,0,4
+1190772,2019,Qatar,19,Nouman Sarwar,6adabee6,Mohammad Ahsan,62474838,Tamoor Sajjad,7bb926a7,0,0,0,0,0,,,,,,6,0,6
+1190772,2019,Qatar,19,Nouman Sarwar,6adabee6,Mohammad Ahsan,62474838,Tamoor Sajjad,7bb926a7,0,0,0,0,0,,,,,,1,0,1
+1190772,2019,Qatar,19,Tamoor Sajjad,7bb926a7,Mohammad Ahsan,62474838,Nouman Sarwar,6adabee6,0,0,0,0,0,,,,,,1,0,1
+1190772,2019,Qatar,19,Nouman Sarwar,6adabee6,Mohammad Ahsan,62474838,Tamoor Sajjad,7bb926a7,0,0,0,0,0,,,,,,4,0,4

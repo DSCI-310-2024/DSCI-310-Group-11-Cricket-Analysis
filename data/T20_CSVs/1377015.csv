@@ -1,0 +1,247 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1377015,2023,Afghanistan,0,Hazratullah,5ea51c25,Nasum Ahmed,37654b75,Rahmanullah Gurbaz,0bacade8,0,0,0,0,0,,,,,,1,0,1
+1377015,2023,Afghanistan,0,Rahmanullah Gurbaz,0bacade8,Nasum Ahmed,37654b75,Hazratullah,5ea51c25,0,0,0,0,0,,,,,,1,0,1
+1377015,2023,Afghanistan,0,Hazratullah,5ea51c25,Nasum Ahmed,37654b75,Rahmanullah Gurbaz,0bacade8,0,0,0,0,0,,,,,,0,0,0
+1377015,2023,Afghanistan,0,Hazratullah,5ea51c25,Nasum Ahmed,37654b75,Rahmanullah Gurbaz,0bacade8,0,0,0,0,0,,,,,,0,0,0
+1377015,2023,Afghanistan,0,Hazratullah,5ea51c25,Nasum Ahmed,37654b75,Rahmanullah Gurbaz,0bacade8,0,0,0,0,0,,,,,,0,0,0
+1377015,2023,Afghanistan,0,Hazratullah,5ea51c25,Nasum Ahmed,37654b75,Rahmanullah Gurbaz,0bacade8,0,0,0,0,0,,,,,,0,0,0
+1377015,2023,Afghanistan,1,Rahmanullah Gurbaz,0bacade8,Taskin Ahmed,ef18b66e,Hazratullah,5ea51c25,0,0,0,0,0,,,,,,0,0,0
+1377015,2023,Afghanistan,1,Rahmanullah Gurbaz,0bacade8,Taskin Ahmed,ef18b66e,Hazratullah,5ea51c25,0,0,0,0,0,,,,,,1,0,1
+1377015,2023,Afghanistan,1,Hazratullah,5ea51c25,Taskin Ahmed,ef18b66e,Rahmanullah Gurbaz,0bacade8,0,0,0,0,0,,,,,,0,0,0
+1377015,2023,Afghanistan,1,Hazratullah,5ea51c25,Taskin Ahmed,ef18b66e,Rahmanullah Gurbaz,0bacade8,0,0,0,0,0,,,,,,0,0,0
+1377015,2023,Afghanistan,1,Hazratullah,5ea51c25,Taskin Ahmed,ef18b66e,Rahmanullah Gurbaz,0bacade8,0,0,0,0,0,,,,,,1,0,1
+1377015,2023,Afghanistan,1,Rahmanullah Gurbaz,0bacade8,Taskin Ahmed,ef18b66e,Hazratullah,5ea51c25,0,0,0,0,0,,,,,,6,0,6
+1377015,2023,Afghanistan,2,Hazratullah,5ea51c25,Nasum Ahmed,37654b75,Rahmanullah Gurbaz,0bacade8,0,0,0,0,0,,,,,,6,0,6
+1377015,2023,Afghanistan,2,Hazratullah,5ea51c25,Nasum Ahmed,37654b75,Rahmanullah Gurbaz,0bacade8,0,0,0,0,1,Hazratullah,5ea51c25,Towhid Hridoy,9e52a414,caught,0,0,0
+1377015,2023,Afghanistan,2,Ibrahim Zadran,d4550956,Nasum Ahmed,37654b75,Rahmanullah Gurbaz,0bacade8,0,0,0,0,0,,,,,,1,0,1
+1377015,2023,Afghanistan,2,Rahmanullah Gurbaz,0bacade8,Nasum Ahmed,37654b75,Ibrahim Zadran,d4550956,0,0,0,0,0,,,,,,0,0,0
+1377015,2023,Afghanistan,2,Rahmanullah Gurbaz,0bacade8,Nasum Ahmed,37654b75,Ibrahim Zadran,d4550956,0,0,0,0,0,,,,,,0,0,0
+1377015,2023,Afghanistan,2,Rahmanullah Gurbaz,0bacade8,Nasum Ahmed,37654b75,Ibrahim Zadran,d4550956,0,0,0,0,0,,,,,,4,0,4
+1377015,2023,Afghanistan,3,Ibrahim Zadran,d4550956,Taskin Ahmed,ef18b66e,Rahmanullah Gurbaz,0bacade8,0,0,0,0,0,,,,,,1,0,1
+1377015,2023,Afghanistan,3,Rahmanullah Gurbaz,0bacade8,Taskin Ahmed,ef18b66e,Ibrahim Zadran,d4550956,0,0,0,0,0,,,,,,0,0,0
+1377015,2023,Afghanistan,3,Rahmanullah Gurbaz,0bacade8,Taskin Ahmed,ef18b66e,Ibrahim Zadran,d4550956,0,0,0,0,0,,,,,,4,0,4
+1377015,2023,Afghanistan,3,Rahmanullah Gurbaz,0bacade8,Taskin Ahmed,ef18b66e,Ibrahim Zadran,d4550956,0,0,0,0,0,,,,,,0,0,0
+1377015,2023,Afghanistan,3,Rahmanullah Gurbaz,0bacade8,Taskin Ahmed,ef18b66e,Ibrahim Zadran,d4550956,0,0,0,0,1,Rahmanullah Gurbaz,0bacade8,Mehedi Hasan Miraz,c58b0108,caught,0,0,0
+1377015,2023,Afghanistan,3,Karim Janat,62175638,Taskin Ahmed,ef18b66e,Ibrahim Zadran,d4550956,0,0,0,0,0,,,,,,0,0,0
+1377015,2023,Afghanistan,4,Ibrahim Zadran,d4550956,Shoriful Islam,bb34fd31,Karim Janat,62175638,0,0,0,0,0,,,,,,0,0,0
+1377015,2023,Afghanistan,4,Ibrahim Zadran,d4550956,Shoriful Islam,bb34fd31,Karim Janat,62175638,0,0,0,0,0,,,,,,0,0,0
+1377015,2023,Afghanistan,4,Ibrahim Zadran,d4550956,Shoriful Islam,bb34fd31,Karim Janat,62175638,0,0,0,0,0,,,,,,6,0,6
+1377015,2023,Afghanistan,4,Ibrahim Zadran,d4550956,Shoriful Islam,bb34fd31,Karim Janat,62175638,0,0,0,0,1,Ibrahim Zadran,d4550956,Liton Das,0404d43c,caught,0,0,0
+1377015,2023,Afghanistan,4,Mohammad Nabi,62af8546,Shoriful Islam,bb34fd31,Karim Janat,62175638,0,0,0,0,0,,,,,,4,0,4
+1377015,2023,Afghanistan,4,Mohammad Nabi,62af8546,Shoriful Islam,bb34fd31,Karim Janat,62175638,0,0,0,0,0,,,,,,1,0,1
+1377015,2023,Afghanistan,5,Mohammad Nabi,62af8546,Taskin Ahmed,ef18b66e,Karim Janat,62175638,0,0,0,0,0,,,,,,0,0,0
+1377015,2023,Afghanistan,5,Mohammad Nabi,62af8546,Taskin Ahmed,ef18b66e,Karim Janat,62175638,0,0,0,0,0,,,,,,1,0,1
+1377015,2023,Afghanistan,5,Karim Janat,62175638,Taskin Ahmed,ef18b66e,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,1,0,1
+1377015,2023,Afghanistan,5,Mohammad Nabi,62af8546,Taskin Ahmed,ef18b66e,Karim Janat,62175638,0,0,0,0,0,,,,,,1,0,1
+1377015,2023,Afghanistan,5,Karim Janat,62175638,Taskin Ahmed,ef18b66e,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,0,0,0
+1377015,2023,Afghanistan,5,Karim Janat,62175638,Taskin Ahmed,ef18b66e,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,0,0,0
+1377015,2023,Afghanistan,6,Mohammad Nabi,62af8546,Shoriful Islam,bb34fd31,Karim Janat,62175638,0,0,0,0,0,,,,,,4,0,4
+1377015,2023,Afghanistan,6,Mohammad Nabi,62af8546,Shoriful Islam,bb34fd31,Karim Janat,62175638,0,0,0,0,0,,,,,,4,0,4
+1377015,2023,Afghanistan,6,Mohammad Nabi,62af8546,Shoriful Islam,bb34fd31,Karim Janat,62175638,0,0,0,0,0,,,,,,1,0,1
+1377015,2023,Afghanistan,6,Karim Janat,62175638,Shoriful Islam,bb34fd31,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,0,0,0
+1377015,2023,Afghanistan,6,Karim Janat,62175638,Shoriful Islam,bb34fd31,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,0,0,0
+1377015,2023,Afghanistan,6,Karim Janat,62175638,Shoriful Islam,bb34fd31,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,1,0,1
+1377015,2023,Afghanistan,7,Karim Janat,62175638,Shakib Al Hasan,7dc35884,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,1,0,1
+1377015,2023,Afghanistan,7,Mohammad Nabi,62af8546,Shakib Al Hasan,7dc35884,Karim Janat,62175638,0,0,0,0,0,,,,,,0,0,0
+1377015,2023,Afghanistan,7,Mohammad Nabi,62af8546,Shakib Al Hasan,7dc35884,Karim Janat,62175638,0,0,0,0,0,,,,,,1,0,1
+1377015,2023,Afghanistan,7,Karim Janat,62175638,Shakib Al Hasan,7dc35884,Mohammad Nabi,62af8546,0,0,0,0,1,Karim Janat,62175638,Nazmul Hossain Shanto,1274d7ab,caught,0,0,0
+1377015,2023,Afghanistan,7,Najibullah Zadran,1212cbec,Shakib Al Hasan,7dc35884,Mohammad Nabi,62af8546,0,0,1,0,0,,,,,,0,1,1
+1377015,2023,Afghanistan,7,Mohammad Nabi,62af8546,Shakib Al Hasan,7dc35884,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,0,0,0
+1377015,2023,Afghanistan,8,Najibullah Zadran,1212cbec,Mustafizur Rahman,0a8fce53,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,1,0,1
+1377015,2023,Afghanistan,8,Mohammad Nabi,62af8546,Mustafizur Rahman,0a8fce53,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,0,0,0
+1377015,2023,Afghanistan,8,Mohammad Nabi,62af8546,Mustafizur Rahman,0a8fce53,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,1,0,1
+1377015,2023,Afghanistan,8,Najibullah Zadran,1212cbec,Mustafizur Rahman,0a8fce53,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,0,0,0
+1377015,2023,Afghanistan,8,Najibullah Zadran,1212cbec,Mustafizur Rahman,0a8fce53,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,0,0,0
+1377015,2023,Afghanistan,8,Najibullah Zadran,1212cbec,Mustafizur Rahman,0a8fce53,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,2,0,2
+1377015,2023,Afghanistan,9,Mohammad Nabi,62af8546,Shakib Al Hasan,7dc35884,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,0,0,0
+1377015,2023,Afghanistan,9,Mohammad Nabi,62af8546,Shakib Al Hasan,7dc35884,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,1,0,1
+1377015,2023,Afghanistan,9,Najibullah Zadran,1212cbec,Shakib Al Hasan,7dc35884,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,1,0,1
+1377015,2023,Afghanistan,9,Mohammad Nabi,62af8546,Shakib Al Hasan,7dc35884,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,2,0,2
+1377015,2023,Afghanistan,9,Mohammad Nabi,62af8546,Shakib Al Hasan,7dc35884,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,0,0,0
+1377015,2023,Afghanistan,9,Mohammad Nabi,62af8546,Shakib Al Hasan,7dc35884,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,1,0,1
+1377015,2023,Afghanistan,10,Mohammad Nabi,62af8546,Mustafizur Rahman,0a8fce53,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,1,0,1
+1377015,2023,Afghanistan,10,Najibullah Zadran,1212cbec,Mustafizur Rahman,0a8fce53,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,1,0,1
+1377015,2023,Afghanistan,10,Mohammad Nabi,62af8546,Mustafizur Rahman,0a8fce53,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,0,0,0
+1377015,2023,Afghanistan,10,Mohammad Nabi,62af8546,Mustafizur Rahman,0a8fce53,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,1,0,1
+1377015,2023,Afghanistan,10,Najibullah Zadran,1212cbec,Mustafizur Rahman,0a8fce53,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,0,0,0
+1377015,2023,Afghanistan,10,Najibullah Zadran,1212cbec,Mustafizur Rahman,0a8fce53,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,1,0,1
+1377015,2023,Afghanistan,11,Najibullah Zadran,1212cbec,Mehedi Hasan Miraz,c58b0108,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,4,0,4
+1377015,2023,Afghanistan,11,Najibullah Zadran,1212cbec,Mehedi Hasan Miraz,c58b0108,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,0,0,0
+1377015,2023,Afghanistan,11,Najibullah Zadran,1212cbec,Mehedi Hasan Miraz,c58b0108,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,1,0,1
+1377015,2023,Afghanistan,11,Mohammad Nabi,62af8546,Mehedi Hasan Miraz,c58b0108,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,1,0,1
+1377015,2023,Afghanistan,11,Najibullah Zadran,1212cbec,Mehedi Hasan Miraz,c58b0108,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,0,0,0
+1377015,2023,Afghanistan,11,Najibullah Zadran,1212cbec,Mehedi Hasan Miraz,c58b0108,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,0,0,0
+1377015,2023,Afghanistan,12,Mohammad Nabi,62af8546,Shoriful Islam,bb34fd31,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,1,0,1
+1377015,2023,Afghanistan,12,Najibullah Zadran,1212cbec,Shoriful Islam,bb34fd31,Mohammad Nabi,62af8546,1,0,0,0,0,,,,,,0,1,1
+1377015,2023,Afghanistan,12,Najibullah Zadran,1212cbec,Shoriful Islam,bb34fd31,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,4,0,4
+1377015,2023,Afghanistan,12,Najibullah Zadran,1212cbec,Shoriful Islam,bb34fd31,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,1,0,1
+1377015,2023,Afghanistan,12,Mohammad Nabi,62af8546,Shoriful Islam,bb34fd31,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,1,0,1
+1377015,2023,Afghanistan,12,Najibullah Zadran,1212cbec,Shoriful Islam,bb34fd31,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,0,0,0
+1377015,2023,Afghanistan,12,Najibullah Zadran,1212cbec,Shoriful Islam,bb34fd31,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,1,0,1
+1377015,2023,Afghanistan,13,Najibullah Zadran,1212cbec,Mehedi Hasan Miraz,c58b0108,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,0,0,0
+1377015,2023,Afghanistan,13,Najibullah Zadran,1212cbec,Mehedi Hasan Miraz,c58b0108,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,0,0,0
+1377015,2023,Afghanistan,13,Najibullah Zadran,1212cbec,Mehedi Hasan Miraz,c58b0108,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,2,0,2
+1377015,2023,Afghanistan,13,Najibullah Zadran,1212cbec,Mehedi Hasan Miraz,c58b0108,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,4,0,4
+1377015,2023,Afghanistan,13,Najibullah Zadran,1212cbec,Mehedi Hasan Miraz,c58b0108,Mohammad Nabi,62af8546,0,0,0,0,1,Najibullah Zadran,1212cbec,Liton Das,0404d43c,caught,0,0,0
+1377015,2023,Afghanistan,13,Azmatullah Omarzai,8f6dd463,Mehedi Hasan Miraz,c58b0108,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,1,0,1
+1377015,2023,Afghanistan,14,Azmatullah Omarzai,8f6dd463,Shakib Al Hasan,7dc35884,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,1,0,1
+1377015,2023,Afghanistan,14,Mohammad Nabi,62af8546,Shakib Al Hasan,7dc35884,Azmatullah Omarzai,8f6dd463,0,0,0,0,0,,,,,,2,0,2
+1377015,2023,Afghanistan,14,Mohammad Nabi,62af8546,Shakib Al Hasan,7dc35884,Azmatullah Omarzai,8f6dd463,0,0,0,0,0,,,,,,1,0,1
+1377015,2023,Afghanistan,14,Azmatullah Omarzai,8f6dd463,Shakib Al Hasan,7dc35884,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,0,0,0
+1377015,2023,Afghanistan,14,Azmatullah Omarzai,8f6dd463,Shakib Al Hasan,7dc35884,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,2,0,2
+1377015,2023,Afghanistan,14,Azmatullah Omarzai,8f6dd463,Shakib Al Hasan,7dc35884,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,0,0,0
+1377015,2023,Afghanistan,15,Mohammad Nabi,62af8546,Nasum Ahmed,37654b75,Azmatullah Omarzai,8f6dd463,0,0,0,0,0,,,,,,4,0,4
+1377015,2023,Afghanistan,15,Mohammad Nabi,62af8546,Nasum Ahmed,37654b75,Azmatullah Omarzai,8f6dd463,0,0,0,0,0,,,,,,0,0,0
+1377015,2023,Afghanistan,15,Mohammad Nabi,62af8546,Nasum Ahmed,37654b75,Azmatullah Omarzai,8f6dd463,0,0,0,0,0,,,,,,1,0,1
+1377015,2023,Afghanistan,15,Azmatullah Omarzai,8f6dd463,Nasum Ahmed,37654b75,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,1,0,1
+1377015,2023,Afghanistan,15,Mohammad Nabi,62af8546,Nasum Ahmed,37654b75,Azmatullah Omarzai,8f6dd463,0,0,0,0,0,,,,,,0,0,0
+1377015,2023,Afghanistan,15,Mohammad Nabi,62af8546,Nasum Ahmed,37654b75,Azmatullah Omarzai,8f6dd463,0,0,0,0,0,,,,,,1,0,1
+1377015,2023,Afghanistan,16,Mohammad Nabi,62af8546,Taskin Ahmed,ef18b66e,Azmatullah Omarzai,8f6dd463,0,0,0,0,0,,,,,,6,0,6
+1377015,2023,Afghanistan,16,Mohammad Nabi,62af8546,Taskin Ahmed,ef18b66e,Azmatullah Omarzai,8f6dd463,0,0,1,0,0,,,,,,0,1,1
+1377015,2023,Afghanistan,16,Azmatullah Omarzai,8f6dd463,Taskin Ahmed,ef18b66e,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,6,0,6
+1377015,2023,Afghanistan,16,Azmatullah Omarzai,8f6dd463,Taskin Ahmed,ef18b66e,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,0,0,0
+1377015,2023,Afghanistan,16,Azmatullah Omarzai,8f6dd463,Taskin Ahmed,ef18b66e,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,1,0,1
+1377015,2023,Afghanistan,16,Mohammad Nabi,62af8546,Taskin Ahmed,ef18b66e,Azmatullah Omarzai,8f6dd463,0,0,0,0,0,,,,,,0,0,0
+1377015,2023,Afghanistan,17,Azmatullah Omarzai,8f6dd463,Mustafizur Rahman,0a8fce53,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,6,0,6
+1377015,2023,Afghanistan,17,Azmatullah Omarzai,8f6dd463,Mustafizur Rahman,0a8fce53,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,0,0,0
+1377015,2023,Afghanistan,17,Azmatullah Omarzai,8f6dd463,Mustafizur Rahman,0a8fce53,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,1,0,1
+1377015,2023,Afghanistan,17,Mohammad Nabi,62af8546,Mustafizur Rahman,0a8fce53,Azmatullah Omarzai,8f6dd463,0,0,0,0,0,,,,,,4,0,4
+1377015,2023,Afghanistan,17,Mohammad Nabi,62af8546,Mustafizur Rahman,0a8fce53,Azmatullah Omarzai,8f6dd463,0,0,0,0,0,,,,,,0,0,0
+1377015,2023,Afghanistan,17,Mohammad Nabi,62af8546,Mustafizur Rahman,0a8fce53,Azmatullah Omarzai,8f6dd463,1,0,0,0,0,,,,,,0,1,1
+1377015,2023,Afghanistan,17,Mohammad Nabi,62af8546,Mustafizur Rahman,0a8fce53,Azmatullah Omarzai,8f6dd463,0,0,0,0,0,,,,,,2,0,2
+1377015,2023,Afghanistan,18,Azmatullah Omarzai,8f6dd463,Shakib Al Hasan,7dc35884,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,6,0,6
+1377015,2023,Afghanistan,18,Azmatullah Omarzai,8f6dd463,Shakib Al Hasan,7dc35884,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,6,0,6
+1377015,2023,Afghanistan,18,Azmatullah Omarzai,8f6dd463,Shakib Al Hasan,7dc35884,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,2,0,2
+1377015,2023,Afghanistan,18,Azmatullah Omarzai,8f6dd463,Shakib Al Hasan,7dc35884,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,0,0,0
+1377015,2023,Afghanistan,18,Azmatullah Omarzai,8f6dd463,Shakib Al Hasan,7dc35884,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,0,0,0
+1377015,2023,Afghanistan,18,Azmatullah Omarzai,8f6dd463,Shakib Al Hasan,7dc35884,Mohammad Nabi,62af8546,0,0,0,0,1,Azmatullah Omarzai,8f6dd463,Taskin Ahmed,ef18b66e,caught,0,0,0
+1377015,2023,Afghanistan,19,Mohammad Nabi,62af8546,Mustafizur Rahman,0a8fce53,Rashid Khan,5f547c8b,0,0,0,0,0,,,,,,1,0,1
+1377015,2023,Afghanistan,19,Rashid Khan,5f547c8b,Mustafizur Rahman,0a8fce53,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,3,0,3
+1377015,2023,Afghanistan,19,Mohammad Nabi,62af8546,Mustafizur Rahman,0a8fce53,Rashid Khan,5f547c8b,0,0,0,0,0,,,,,,4,0,4
+1377015,2023,Afghanistan,19,Mohammad Nabi,62af8546,Mustafizur Rahman,0a8fce53,Rashid Khan,5f547c8b,0,0,0,0,0,,,,,,1,0,1
+1377015,2023,Afghanistan,19,Rashid Khan,5f547c8b,Mustafizur Rahman,0a8fce53,Mohammad Nabi,62af8546,0,0,0,0,1,Rashid Khan,5f547c8b,Nazmul Hossain Shanto,1274d7ab,caught,0,0,0
+1377015,2023,Afghanistan,19,Mujeeb Ur Rahman,7d92277a,Mustafizur Rahman,0a8fce53,Mohammad Nabi,62af8546,0,0,0,2,0,,,,,,0,2,2
+1377015,2023,Bangladesh,0,Liton Das,0404d43c,Fazalhaq Farooqi,e9c7f0d0,Rony Talukdar,8bd614b2,0,0,0,0,0,,,,,,1,0,1
+1377015,2023,Bangladesh,0,Rony Talukdar,8bd614b2,Fazalhaq Farooqi,e9c7f0d0,Liton Das,0404d43c,0,0,0,0,0,,,,,,0,0,0
+1377015,2023,Bangladesh,0,Rony Talukdar,8bd614b2,Fazalhaq Farooqi,e9c7f0d0,Liton Das,0404d43c,0,0,0,0,0,,,,,,0,0,0
+1377015,2023,Bangladesh,0,Rony Talukdar,8bd614b2,Fazalhaq Farooqi,e9c7f0d0,Liton Das,0404d43c,0,0,0,0,0,,,,,,4,0,4
+1377015,2023,Bangladesh,0,Rony Talukdar,8bd614b2,Fazalhaq Farooqi,e9c7f0d0,Liton Das,0404d43c,0,0,0,0,0,,,,,,0,0,0
+1377015,2023,Bangladesh,0,Rony Talukdar,8bd614b2,Fazalhaq Farooqi,e9c7f0d0,Liton Das,0404d43c,0,0,0,0,1,Rony Talukdar,8bd614b2,,,bowled,0,0,0
+1377015,2023,Bangladesh,1,Liton Das,0404d43c,Mujeeb Ur Rahman,7d92277a,Nazmul Hossain Shanto,1274d7ab,0,0,0,0,0,,,,,,0,0,0
+1377015,2023,Bangladesh,1,Liton Das,0404d43c,Mujeeb Ur Rahman,7d92277a,Nazmul Hossain Shanto,1274d7ab,0,0,0,0,0,,,,,,2,0,2
+1377015,2023,Bangladesh,1,Liton Das,0404d43c,Mujeeb Ur Rahman,7d92277a,Nazmul Hossain Shanto,1274d7ab,0,0,0,0,0,,,,,,1,0,1
+1377015,2023,Bangladesh,1,Nazmul Hossain Shanto,1274d7ab,Mujeeb Ur Rahman,7d92277a,Liton Das,0404d43c,0,0,0,0,0,,,,,,0,0,0
+1377015,2023,Bangladesh,1,Nazmul Hossain Shanto,1274d7ab,Mujeeb Ur Rahman,7d92277a,Liton Das,0404d43c,0,0,0,0,0,,,,,,1,0,1
+1377015,2023,Bangladesh,1,Liton Das,0404d43c,Mujeeb Ur Rahman,7d92277a,Nazmul Hossain Shanto,1274d7ab,0,0,0,0,0,,,,,,0,0,0
+1377015,2023,Bangladesh,2,Nazmul Hossain Shanto,1274d7ab,Fazalhaq Farooqi,e9c7f0d0,Liton Das,0404d43c,0,0,0,0,0,,,,,,1,0,1
+1377015,2023,Bangladesh,2,Liton Das,0404d43c,Fazalhaq Farooqi,e9c7f0d0,Nazmul Hossain Shanto,1274d7ab,0,0,0,0,0,,,,,,2,0,2
+1377015,2023,Bangladesh,2,Liton Das,0404d43c,Fazalhaq Farooqi,e9c7f0d0,Nazmul Hossain Shanto,1274d7ab,0,0,0,0,0,,,,,,0,0,0
+1377015,2023,Bangladesh,2,Liton Das,0404d43c,Fazalhaq Farooqi,e9c7f0d0,Nazmul Hossain Shanto,1274d7ab,0,0,0,0,0,,,,,,0,0,0
+1377015,2023,Bangladesh,2,Liton Das,0404d43c,Fazalhaq Farooqi,e9c7f0d0,Nazmul Hossain Shanto,1274d7ab,0,0,0,0,0,,,,,,0,0,0
+1377015,2023,Bangladesh,2,Liton Das,0404d43c,Fazalhaq Farooqi,e9c7f0d0,Nazmul Hossain Shanto,1274d7ab,0,0,0,0,0,,,,,,4,0,4
+1377015,2023,Bangladesh,3,Nazmul Hossain Shanto,1274d7ab,Mujeeb Ur Rahman,7d92277a,Liton Das,0404d43c,0,0,0,0,0,,,,,,2,0,2
+1377015,2023,Bangladesh,3,Nazmul Hossain Shanto,1274d7ab,Mujeeb Ur Rahman,7d92277a,Liton Das,0404d43c,0,0,0,0,0,,,,,,1,0,1
+1377015,2023,Bangladesh,3,Liton Das,0404d43c,Mujeeb Ur Rahman,7d92277a,Nazmul Hossain Shanto,1274d7ab,0,0,0,0,0,,,,,,0,0,0
+1377015,2023,Bangladesh,3,Liton Das,0404d43c,Mujeeb Ur Rahman,7d92277a,Nazmul Hossain Shanto,1274d7ab,0,0,0,0,0,,,,,,1,0,1
+1377015,2023,Bangladesh,3,Nazmul Hossain Shanto,1274d7ab,Mujeeb Ur Rahman,7d92277a,Liton Das,0404d43c,0,0,0,0,0,,,,,,1,0,1
+1377015,2023,Bangladesh,3,Liton Das,0404d43c,Mujeeb Ur Rahman,7d92277a,Nazmul Hossain Shanto,1274d7ab,0,0,0,0,0,,,,,,0,0,0
+1377015,2023,Bangladesh,4,Nazmul Hossain Shanto,1274d7ab,Azmatullah Omarzai,8f6dd463,Liton Das,0404d43c,0,0,0,0,0,,,,,,0,0,0
+1377015,2023,Bangladesh,4,Nazmul Hossain Shanto,1274d7ab,Azmatullah Omarzai,8f6dd463,Liton Das,0404d43c,0,0,0,0,0,,,,,,0,0,0
+1377015,2023,Bangladesh,4,Nazmul Hossain Shanto,1274d7ab,Azmatullah Omarzai,8f6dd463,Liton Das,0404d43c,0,0,0,0,0,,,,,,6,0,6
+1377015,2023,Bangladesh,4,Nazmul Hossain Shanto,1274d7ab,Azmatullah Omarzai,8f6dd463,Liton Das,0404d43c,0,0,0,0,0,,,,,,1,0,1
+1377015,2023,Bangladesh,4,Liton Das,0404d43c,Azmatullah Omarzai,8f6dd463,Nazmul Hossain Shanto,1274d7ab,0,0,0,0,0,,,,,,1,0,1
+1377015,2023,Bangladesh,4,Nazmul Hossain Shanto,1274d7ab,Azmatullah Omarzai,8f6dd463,Liton Das,0404d43c,0,0,0,0,0,,,,,,1,0,1
+1377015,2023,Bangladesh,5,Nazmul Hossain Shanto,1274d7ab,Mujeeb Ur Rahman,7d92277a,Liton Das,0404d43c,0,0,0,0,1,Nazmul Hossain Shanto,1274d7ab,,,bowled,0,0,0
+1377015,2023,Bangladesh,5,Shakib Al Hasan,7dc35884,Mujeeb Ur Rahman,7d92277a,Liton Das,0404d43c,0,0,1,0,0,,,,,,0,1,1
+1377015,2023,Bangladesh,5,Liton Das,0404d43c,Mujeeb Ur Rahman,7d92277a,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,2,0,2
+1377015,2023,Bangladesh,5,Liton Das,0404d43c,Mujeeb Ur Rahman,7d92277a,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+1377015,2023,Bangladesh,5,Liton Das,0404d43c,Mujeeb Ur Rahman,7d92277a,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+1377015,2023,Bangladesh,5,Liton Das,0404d43c,Mujeeb Ur Rahman,7d92277a,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,4,0,4
+1377015,2023,Bangladesh,6,Shakib Al Hasan,7dc35884,Azmatullah Omarzai,8f6dd463,Liton Das,0404d43c,0,0,0,0,0,,,,,,0,0,0
+1377015,2023,Bangladesh,6,Shakib Al Hasan,7dc35884,Azmatullah Omarzai,8f6dd463,Liton Das,0404d43c,0,0,0,0,0,,,,,,1,0,1
+1377015,2023,Bangladesh,6,Liton Das,0404d43c,Azmatullah Omarzai,8f6dd463,Shakib Al Hasan,7dc35884,1,0,0,0,0,,,,,,0,1,1
+1377015,2023,Bangladesh,6,Liton Das,0404d43c,Azmatullah Omarzai,8f6dd463,Shakib Al Hasan,7dc35884,0,0,0,0,1,Liton Das,0404d43c,Rashid Khan,5f547c8b,caught,0,0,0
+1377015,2023,Bangladesh,6,Towhid Hridoy,9e52a414,Azmatullah Omarzai,8f6dd463,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+1377015,2023,Bangladesh,6,Towhid Hridoy,9e52a414,Azmatullah Omarzai,8f6dd463,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+1377015,2023,Bangladesh,6,Towhid Hridoy,9e52a414,Azmatullah Omarzai,8f6dd463,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,2,0,2
+1377015,2023,Bangladesh,7,Shakib Al Hasan,7dc35884,Rashid Khan,5f547c8b,Towhid Hridoy,9e52a414,0,0,0,0,0,,,,,,0,0,0
+1377015,2023,Bangladesh,7,Shakib Al Hasan,7dc35884,Rashid Khan,5f547c8b,Towhid Hridoy,9e52a414,0,0,0,0,0,,,,,,0,0,0
+1377015,2023,Bangladesh,7,Shakib Al Hasan,7dc35884,Rashid Khan,5f547c8b,Towhid Hridoy,9e52a414,0,0,0,0,0,,,,,,1,0,1
+1377015,2023,Bangladesh,7,Towhid Hridoy,9e52a414,Rashid Khan,5f547c8b,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+1377015,2023,Bangladesh,7,Shakib Al Hasan,7dc35884,Rashid Khan,5f547c8b,Towhid Hridoy,9e52a414,0,0,0,0,0,,,,,,1,0,1
+1377015,2023,Bangladesh,7,Towhid Hridoy,9e52a414,Rashid Khan,5f547c8b,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+1377015,2023,Bangladesh,8,Towhid Hridoy,9e52a414,Fareed Ahmad,67b7bad4,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+1377015,2023,Bangladesh,8,Shakib Al Hasan,7dc35884,Fareed Ahmad,67b7bad4,Towhid Hridoy,9e52a414,0,0,0,0,0,,,,,,4,0,4
+1377015,2023,Bangladesh,8,Shakib Al Hasan,7dc35884,Fareed Ahmad,67b7bad4,Towhid Hridoy,9e52a414,0,0,0,0,0,,,,,,0,0,0
+1377015,2023,Bangladesh,8,Shakib Al Hasan,7dc35884,Fareed Ahmad,67b7bad4,Towhid Hridoy,9e52a414,0,0,0,0,0,,,,,,4,0,4
+1377015,2023,Bangladesh,8,Shakib Al Hasan,7dc35884,Fareed Ahmad,67b7bad4,Towhid Hridoy,9e52a414,0,0,0,0,0,,,,,,0,0,0
+1377015,2023,Bangladesh,8,Shakib Al Hasan,7dc35884,Fareed Ahmad,67b7bad4,Towhid Hridoy,9e52a414,0,0,0,0,0,,,,,,1,0,1
+1377015,2023,Bangladesh,9,Shakib Al Hasan,7dc35884,Rashid Khan,5f547c8b,Towhid Hridoy,9e52a414,0,0,0,0,0,,,,,,1,0,1
+1377015,2023,Bangladesh,9,Towhid Hridoy,9e52a414,Rashid Khan,5f547c8b,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+1377015,2023,Bangladesh,9,Shakib Al Hasan,7dc35884,Rashid Khan,5f547c8b,Towhid Hridoy,9e52a414,0,0,0,0,0,,,,,,4,0,4
+1377015,2023,Bangladesh,9,Shakib Al Hasan,7dc35884,Rashid Khan,5f547c8b,Towhid Hridoy,9e52a414,0,0,0,0,0,,,,,,1,0,1
+1377015,2023,Bangladesh,9,Towhid Hridoy,9e52a414,Rashid Khan,5f547c8b,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+1377015,2023,Bangladesh,9,Shakib Al Hasan,7dc35884,Rashid Khan,5f547c8b,Towhid Hridoy,9e52a414,0,0,0,0,0,,,,,,1,0,1
+1377015,2023,Bangladesh,10,Shakib Al Hasan,7dc35884,Fareed Ahmad,67b7bad4,Towhid Hridoy,9e52a414,0,0,0,0,1,Shakib Al Hasan,7dc35884,Karim Janat,62175638,caught,0,0,0
+1377015,2023,Bangladesh,10,Shamim Hossain,711249d1,Fareed Ahmad,67b7bad4,Towhid Hridoy,9e52a414,0,0,0,0,0,,,,,,0,0,0
+1377015,2023,Bangladesh,10,Shamim Hossain,711249d1,Fareed Ahmad,67b7bad4,Towhid Hridoy,9e52a414,0,0,0,0,0,,,,,,0,0,0
+1377015,2023,Bangladesh,10,Shamim Hossain,711249d1,Fareed Ahmad,67b7bad4,Towhid Hridoy,9e52a414,0,0,0,0,0,,,,,,1,0,1
+1377015,2023,Bangladesh,10,Towhid Hridoy,9e52a414,Fareed Ahmad,67b7bad4,Shamim Hossain,711249d1,0,0,0,0,0,,,,,,0,0,0
+1377015,2023,Bangladesh,10,Towhid Hridoy,9e52a414,Fareed Ahmad,67b7bad4,Shamim Hossain,711249d1,0,0,0,0,0,,,,,,6,0,6
+1377015,2023,Bangladesh,11,Shamim Hossain,711249d1,Mohammad Nabi,62af8546,Towhid Hridoy,9e52a414,0,0,0,0,0,,,,,,1,0,1
+1377015,2023,Bangladesh,11,Towhid Hridoy,9e52a414,Mohammad Nabi,62af8546,Shamim Hossain,711249d1,0,0,0,0,0,,,,,,0,0,0
+1377015,2023,Bangladesh,11,Towhid Hridoy,9e52a414,Mohammad Nabi,62af8546,Shamim Hossain,711249d1,0,0,0,0,0,,,,,,1,0,1
+1377015,2023,Bangladesh,11,Shamim Hossain,711249d1,Mohammad Nabi,62af8546,Towhid Hridoy,9e52a414,0,0,0,0,0,,,,,,1,0,1
+1377015,2023,Bangladesh,11,Towhid Hridoy,9e52a414,Mohammad Nabi,62af8546,Shamim Hossain,711249d1,0,0,0,0,0,,,,,,1,0,1
+1377015,2023,Bangladesh,11,Shamim Hossain,711249d1,Mohammad Nabi,62af8546,Towhid Hridoy,9e52a414,0,0,0,0,0,,,,,,4,0,4
+1377015,2023,Bangladesh,12,Towhid Hridoy,9e52a414,Azmatullah Omarzai,8f6dd463,Shamim Hossain,711249d1,0,0,0,0,0,,,,,,4,0,4
+1377015,2023,Bangladesh,12,Towhid Hridoy,9e52a414,Azmatullah Omarzai,8f6dd463,Shamim Hossain,711249d1,0,0,0,0,0,,,,,,4,0,4
+1377015,2023,Bangladesh,12,Towhid Hridoy,9e52a414,Azmatullah Omarzai,8f6dd463,Shamim Hossain,711249d1,0,0,0,0,0,,,,,,1,0,1
+1377015,2023,Bangladesh,12,Shamim Hossain,711249d1,Azmatullah Omarzai,8f6dd463,Towhid Hridoy,9e52a414,5,0,0,0,0,,,,,,0,5,5
+1377015,2023,Bangladesh,12,Shamim Hossain,711249d1,Azmatullah Omarzai,8f6dd463,Towhid Hridoy,9e52a414,0,0,0,0,0,,,,,,4,0,4
+1377015,2023,Bangladesh,12,Shamim Hossain,711249d1,Azmatullah Omarzai,8f6dd463,Towhid Hridoy,9e52a414,0,0,0,0,0,,,,,,2,0,2
+1377015,2023,Bangladesh,12,Shamim Hossain,711249d1,Azmatullah Omarzai,8f6dd463,Towhid Hridoy,9e52a414,0,0,0,0,0,,,,,,1,0,1
+1377015,2023,Bangladesh,13,Shamim Hossain,711249d1,Rashid Khan,5f547c8b,Towhid Hridoy,9e52a414,0,0,0,0,0,,,,,,0,0,0
+1377015,2023,Bangladesh,13,Shamim Hossain,711249d1,Rashid Khan,5f547c8b,Towhid Hridoy,9e52a414,0,0,0,0,0,,,,,,4,0,4
+1377015,2023,Bangladesh,13,Shamim Hossain,711249d1,Rashid Khan,5f547c8b,Towhid Hridoy,9e52a414,0,0,0,0,0,,,,,,1,0,1
+1377015,2023,Bangladesh,13,Towhid Hridoy,9e52a414,Rashid Khan,5f547c8b,Shamim Hossain,711249d1,0,0,0,0,0,,,,,,1,0,1
+1377015,2023,Bangladesh,13,Shamim Hossain,711249d1,Rashid Khan,5f547c8b,Towhid Hridoy,9e52a414,0,0,0,0,0,,,,,,0,0,0
+1377015,2023,Bangladesh,13,Shamim Hossain,711249d1,Rashid Khan,5f547c8b,Towhid Hridoy,9e52a414,0,0,0,0,0,,,,,,0,0,0
+1377015,2023,Bangladesh,14,Towhid Hridoy,9e52a414,Karim Janat,62175638,Shamim Hossain,711249d1,1,0,0,0,0,,,,,,0,1,1
+1377015,2023,Bangladesh,14,Towhid Hridoy,9e52a414,Karim Janat,62175638,Shamim Hossain,711249d1,0,0,0,0,0,,,,,,1,0,1
+1377015,2023,Bangladesh,14,Shamim Hossain,711249d1,Karim Janat,62175638,Towhid Hridoy,9e52a414,0,0,0,0,0,,,,,,0,0,0
+1377015,2023,Bangladesh,14,Shamim Hossain,711249d1,Karim Janat,62175638,Towhid Hridoy,9e52a414,0,0,0,0,0,,,,,,1,0,1
+1377015,2023,Bangladesh,14,Towhid Hridoy,9e52a414,Karim Janat,62175638,Shamim Hossain,711249d1,0,0,0,0,0,,,,,,1,0,1
+1377015,2023,Bangladesh,14,Shamim Hossain,711249d1,Karim Janat,62175638,Towhid Hridoy,9e52a414,0,0,0,0,0,,,,,,2,0,2
+1377015,2023,Bangladesh,14,Shamim Hossain,711249d1,Karim Janat,62175638,Towhid Hridoy,9e52a414,0,0,0,0,0,,,,,,1,0,1
+1377015,2023,Bangladesh,15,Shamim Hossain,711249d1,Mujeeb Ur Rahman,7d92277a,Towhid Hridoy,9e52a414,1,0,0,0,0,,,,,,0,1,1
+1377015,2023,Bangladesh,15,Shamim Hossain,711249d1,Mujeeb Ur Rahman,7d92277a,Towhid Hridoy,9e52a414,0,0,0,0,0,,,,,,1,0,1
+1377015,2023,Bangladesh,15,Towhid Hridoy,9e52a414,Mujeeb Ur Rahman,7d92277a,Shamim Hossain,711249d1,0,0,0,0,0,,,,,,1,0,1
+1377015,2023,Bangladesh,15,Shamim Hossain,711249d1,Mujeeb Ur Rahman,7d92277a,Towhid Hridoy,9e52a414,0,0,0,0,0,,,,,,1,0,1
+1377015,2023,Bangladesh,15,Towhid Hridoy,9e52a414,Mujeeb Ur Rahman,7d92277a,Shamim Hossain,711249d1,0,0,0,0,0,,,,,,1,0,1
+1377015,2023,Bangladesh,15,Shamim Hossain,711249d1,Mujeeb Ur Rahman,7d92277a,Towhid Hridoy,9e52a414,0,0,0,0,0,,,,,,1,0,1
+1377015,2023,Bangladesh,15,Towhid Hridoy,9e52a414,Mujeeb Ur Rahman,7d92277a,Shamim Hossain,711249d1,0,0,0,0,0,,,,,,1,0,1
+1377015,2023,Bangladesh,16,Towhid Hridoy,9e52a414,Fazalhaq Farooqi,e9c7f0d0,Shamim Hossain,711249d1,0,0,0,0,0,,,,,,1,0,1
+1377015,2023,Bangladesh,16,Shamim Hossain,711249d1,Fazalhaq Farooqi,e9c7f0d0,Towhid Hridoy,9e52a414,0,0,0,0,0,,,,,,1,0,1
+1377015,2023,Bangladesh,16,Towhid Hridoy,9e52a414,Fazalhaq Farooqi,e9c7f0d0,Shamim Hossain,711249d1,0,0,0,0,0,,,,,,6,0,6
+1377015,2023,Bangladesh,16,Towhid Hridoy,9e52a414,Fazalhaq Farooqi,e9c7f0d0,Shamim Hossain,711249d1,0,0,0,0,0,,,,,,1,0,1
+1377015,2023,Bangladesh,16,Shamim Hossain,711249d1,Fazalhaq Farooqi,e9c7f0d0,Towhid Hridoy,9e52a414,0,0,0,0,0,,,,,,4,0,4
+1377015,2023,Bangladesh,16,Shamim Hossain,711249d1,Fazalhaq Farooqi,e9c7f0d0,Towhid Hridoy,9e52a414,1,0,0,0,0,,,,,,0,1,1
+1377015,2023,Bangladesh,16,Shamim Hossain,711249d1,Fazalhaq Farooqi,e9c7f0d0,Towhid Hridoy,9e52a414,0,0,0,0,0,,,,,,2,0,2
+1377015,2023,Bangladesh,17,Towhid Hridoy,9e52a414,Rashid Khan,5f547c8b,Shamim Hossain,711249d1,0,0,0,0,0,,,,,,1,0,1
+1377015,2023,Bangladesh,17,Shamim Hossain,711249d1,Rashid Khan,5f547c8b,Towhid Hridoy,9e52a414,0,0,0,0,1,Shamim Hossain,711249d1,Rahmanullah Gurbaz,0bacade8,caught,0,0,0
+1377015,2023,Bangladesh,17,Mehedi Hasan Miraz,c58b0108,Rashid Khan,5f547c8b,Towhid Hridoy,9e52a414,0,0,0,0,0,,,,,,1,0,1
+1377015,2023,Bangladesh,17,Towhid Hridoy,9e52a414,Rashid Khan,5f547c8b,Mehedi Hasan Miraz,c58b0108,0,0,0,0,0,,,,,,1,0,1
+1377015,2023,Bangladesh,17,Mehedi Hasan Miraz,c58b0108,Rashid Khan,5f547c8b,Towhid Hridoy,9e52a414,0,0,0,0,0,,,,,,1,0,1
+1377015,2023,Bangladesh,17,Towhid Hridoy,9e52a414,Rashid Khan,5f547c8b,Mehedi Hasan Miraz,c58b0108,0,0,0,0,0,,,,,,1,0,1
+1377015,2023,Bangladesh,18,Towhid Hridoy,9e52a414,Fazalhaq Farooqi,e9c7f0d0,Mehedi Hasan Miraz,c58b0108,0,0,0,0,0,,,,,,1,0,1
+1377015,2023,Bangladesh,18,Mehedi Hasan Miraz,c58b0108,Fazalhaq Farooqi,e9c7f0d0,Towhid Hridoy,9e52a414,0,0,0,0,0,,,,,,1,0,1
+1377015,2023,Bangladesh,18,Towhid Hridoy,9e52a414,Fazalhaq Farooqi,e9c7f0d0,Mehedi Hasan Miraz,c58b0108,0,0,0,0,0,,,,,,4,0,4
+1377015,2023,Bangladesh,18,Towhid Hridoy,9e52a414,Fazalhaq Farooqi,e9c7f0d0,Mehedi Hasan Miraz,c58b0108,0,0,0,0,0,,,,,,1,0,1
+1377015,2023,Bangladesh,18,Mehedi Hasan Miraz,c58b0108,Fazalhaq Farooqi,e9c7f0d0,Towhid Hridoy,9e52a414,0,0,0,0,0,,,,,,1,0,1
+1377015,2023,Bangladesh,18,Towhid Hridoy,9e52a414,Fazalhaq Farooqi,e9c7f0d0,Mehedi Hasan Miraz,c58b0108,0,0,0,0,0,,,,,,0,0,0
+1377015,2023,Bangladesh,19,Mehedi Hasan Miraz,c58b0108,Karim Janat,62175638,Towhid Hridoy,9e52a414,0,0,0,0,0,,,,,,4,0,4
+1377015,2023,Bangladesh,19,Mehedi Hasan Miraz,c58b0108,Karim Janat,62175638,Towhid Hridoy,9e52a414,0,0,0,0,1,Mehedi Hasan Miraz,c58b0108,Mohammad Nabi,62af8546,caught,0,0,0
+1377015,2023,Bangladesh,19,Taskin Ahmed,ef18b66e,Karim Janat,62175638,Towhid Hridoy,9e52a414,0,0,0,0,1,Taskin Ahmed,ef18b66e,Rahmanullah Gurbaz,0bacade8,caught,0,0,0
+1377015,2023,Bangladesh,19,Nasum Ahmed,37654b75,Karim Janat,62175638,Towhid Hridoy,9e52a414,0,0,0,0,1,Nasum Ahmed,37654b75,Fareed Ahmad,67b7bad4,caught,0,0,0
+1377015,2023,Bangladesh,19,Shoriful Islam,bb34fd31,Karim Janat,62175638,Towhid Hridoy,9e52a414,0,0,0,0,0,,,,,,4,0,4

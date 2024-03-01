@@ -1,0 +1,64 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1230859,2020,West Indies,0,DJS Dottin,53bee17f,FR Davies,2479daa6,HK Matthews,d32cf49a,0,0,0,0,0,,,,,,0,0,0
+1230859,2020,West Indies,0,DJS Dottin,53bee17f,FR Davies,2479daa6,HK Matthews,d32cf49a,0,0,0,0,0,,,,,,0,0,0
+1230859,2020,West Indies,0,DJS Dottin,53bee17f,FR Davies,2479daa6,HK Matthews,d32cf49a,0,0,0,0,0,,,,,,4,0,4
+1230859,2020,West Indies,0,DJS Dottin,53bee17f,FR Davies,2479daa6,HK Matthews,d32cf49a,0,0,0,0,0,,,,,,6,0,6
+1230859,2020,West Indies,0,DJS Dottin,53bee17f,FR Davies,2479daa6,HK Matthews,d32cf49a,0,0,0,0,0,,,,,,1,0,1
+1230859,2020,West Indies,0,HK Matthews,d32cf49a,FR Davies,2479daa6,DJS Dottin,53bee17f,0,0,0,0,1,HK Matthews,d32cf49a,MK Villiers,cd62f670,caught,0,0,0
+1230859,2020,West Indies,1,SR Taylor,92cf79a8,KH Brunt,6a434bd3,DJS Dottin,53bee17f,0,0,0,0,0,,,,,,0,0,0
+1230859,2020,West Indies,1,SR Taylor,92cf79a8,KH Brunt,6a434bd3,DJS Dottin,53bee17f,0,0,0,0,0,,,,,,1,0,1
+1230859,2020,West Indies,1,DJS Dottin,53bee17f,KH Brunt,6a434bd3,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,0,0,0
+1230859,2020,West Indies,1,DJS Dottin,53bee17f,KH Brunt,6a434bd3,SR Taylor,92cf79a8,1,0,0,0,0,,,,,,0,1,1
+1230859,2020,West Indies,1,DJS Dottin,53bee17f,KH Brunt,6a434bd3,SR Taylor,92cf79a8,0,0,0,0,1,DJS Dottin,53bee17f,FR Davies,2479daa6,caught,0,0,0
+1230859,2020,West Indies,1,SR Taylor,92cf79a8,KH Brunt,6a434bd3,CN Nation,639000b6,0,0,0,0,0,,,,,,1,0,1
+1230859,2020,West Indies,1,CN Nation,639000b6,KH Brunt,6a434bd3,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,0,0,0
+1230859,2020,West Indies,2,SR Taylor,92cf79a8,S Ecclestone,cdb82f1c,CN Nation,639000b6,0,0,0,0,0,,,,,,2,0,2
+1230859,2020,West Indies,2,SR Taylor,92cf79a8,S Ecclestone,cdb82f1c,CN Nation,639000b6,0,0,0,0,0,,,,,,1,0,1
+1230859,2020,West Indies,2,CN Nation,639000b6,S Ecclestone,cdb82f1c,SR Taylor,92cf79a8,0,0,0,0,1,CN Nation,639000b6,,,bowled,0,0,0
+1230859,2020,West Indies,2,NY McLean,1d39dc61,S Ecclestone,cdb82f1c,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,2,0,2
+1230859,2020,West Indies,2,NY McLean,1d39dc61,S Ecclestone,cdb82f1c,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,1,0,1
+1230859,2020,West Indies,2,SR Taylor,92cf79a8,S Ecclestone,cdb82f1c,NY McLean,1d39dc61,0,0,0,0,0,,,,,,0,0,0
+1230859,2020,West Indies,3,NY McLean,1d39dc61,KH Brunt,6a434bd3,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,0,0,0
+1230859,2020,West Indies,3,NY McLean,1d39dc61,KH Brunt,6a434bd3,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,0,0,0
+1230859,2020,West Indies,3,NY McLean,1d39dc61,KH Brunt,6a434bd3,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,2,0,2
+1230859,2020,West Indies,3,NY McLean,1d39dc61,KH Brunt,6a434bd3,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,1,0,1
+1230859,2020,West Indies,3,SR Taylor,92cf79a8,KH Brunt,6a434bd3,NY McLean,1d39dc61,0,0,0,0,0,,,,,,4,0,4
+1230859,2020,West Indies,3,SR Taylor,92cf79a8,KH Brunt,6a434bd3,NY McLean,1d39dc61,0,0,0,0,0,,,,,,4,0,4
+1230859,2020,West Indies,4,NY McLean,1d39dc61,S Ecclestone,cdb82f1c,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,1,0,1
+1230859,2020,West Indies,4,SR Taylor,92cf79a8,S Ecclestone,cdb82f1c,NY McLean,1d39dc61,0,0,0,0,0,,,,,,1,0,1
+1230859,2020,West Indies,4,NY McLean,1d39dc61,S Ecclestone,cdb82f1c,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,0,0,0
+1230859,2020,West Indies,4,NY McLean,1d39dc61,S Ecclestone,cdb82f1c,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,1,0,1
+1230859,2020,West Indies,4,SR Taylor,92cf79a8,S Ecclestone,cdb82f1c,NY McLean,1d39dc61,0,0,0,0,0,,,,,,1,0,1
+1230859,2020,West Indies,4,NY McLean,1d39dc61,S Ecclestone,cdb82f1c,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,6,0,6
+1230859,2020,England,0,HC Knight,4ba0289e,SS Connell,2f9a6bd1,NR Sciver,f3a18a0c,1,0,0,0,0,,,,,,0,1,1
+1230859,2020,England,0,HC Knight,4ba0289e,SS Connell,2f9a6bd1,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,4,0,4
+1230859,2020,England,0,HC Knight,4ba0289e,SS Connell,2f9a6bd1,NR Sciver,f3a18a0c,0,0,0,0,1,HC Knight,4ba0289e,SR Taylor,92cf79a8,caught,0,0,0
+1230859,2020,England,0,AE Jones,b05e45e4,SS Connell,2f9a6bd1,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,0,0,0
+1230859,2020,England,0,AE Jones,b05e45e4,SS Connell,2f9a6bd1,NR Sciver,f3a18a0c,0,0,0,0,1,AE Jones,b05e45e4,NY McLean,1d39dc61,caught,0,0,0
+1230859,2020,England,0,NR Sciver,f3a18a0c,SS Connell,2f9a6bd1,TT Beaumont,b2664905,0,0,0,0,0,,,,,,0,0,0
+1230859,2020,England,0,NR Sciver,f3a18a0c,SS Connell,2f9a6bd1,TT Beaumont,b2664905,0,0,0,0,0,,,,,,0,0,0
+1230859,2020,England,1,TT Beaumont,b2664905,SC Selman,c29ada99,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,1,0,1
+1230859,2020,England,1,NR Sciver,f3a18a0c,SC Selman,c29ada99,TT Beaumont,b2664905,0,0,0,0,0,,,,,,1,0,1
+1230859,2020,England,1,TT Beaumont,b2664905,SC Selman,c29ada99,NR Sciver,f3a18a0c,0,1,0,0,0,,,,,,0,1,1
+1230859,2020,England,1,TT Beaumont,b2664905,SC Selman,c29ada99,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,4,0,4
+1230859,2020,England,1,TT Beaumont,b2664905,SC Selman,c29ada99,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,4,0,4
+1230859,2020,England,1,TT Beaumont,b2664905,SC Selman,c29ada99,NR Sciver,f3a18a0c,1,0,0,0,0,,,,,,0,1,1
+1230859,2020,England,1,TT Beaumont,b2664905,SC Selman,c29ada99,NR Sciver,f3a18a0c,0,0,0,0,1,TT Beaumont,b2664905,CN Nation,639000b6,caught,0,0,0
+1230859,2020,England,1,NR Sciver,f3a18a0c,SC Selman,c29ada99,KH Brunt,6a434bd3,0,0,0,0,0,,,,,,1,0,1
+1230859,2020,England,2,NR Sciver,f3a18a0c,SS Connell,2f9a6bd1,KH Brunt,6a434bd3,0,0,0,0,0,,,,,,4,0,4
+1230859,2020,England,2,NR Sciver,f3a18a0c,SS Connell,2f9a6bd1,KH Brunt,6a434bd3,0,0,0,0,0,,,,,,1,0,1
+1230859,2020,England,2,KH Brunt,6a434bd3,SS Connell,2f9a6bd1,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,2,0,2
+1230859,2020,England,2,KH Brunt,6a434bd3,SS Connell,2f9a6bd1,NR Sciver,f3a18a0c,0,0,0,0,1,NR Sciver,f3a18a0c,,,run out,0,0,0
+1230859,2020,England,2,KH Brunt,6a434bd3,SS Connell,2f9a6bd1,SIR Dunkley,3a9e9cb2,0,0,0,0,1,KH Brunt,6a434bd3,SR Taylor,92cf79a8,caught,0,0,0
+1230859,2020,England,2,S Glenn,b34e0c77,SS Connell,2f9a6bd1,SIR Dunkley,3a9e9cb2,0,0,0,0,0,,,,,,2,0,2
+1230859,2020,England,3,SIR Dunkley,3a9e9cb2,DJS Dottin,53bee17f,S Glenn,b34e0c77,0,0,1,0,0,,,,,,0,1,1
+1230859,2020,England,3,S Glenn,b34e0c77,DJS Dottin,53bee17f,SIR Dunkley,3a9e9cb2,0,0,0,0,0,,,,,,2,0,2
+1230859,2020,England,3,S Glenn,b34e0c77,DJS Dottin,53bee17f,SIR Dunkley,3a9e9cb2,0,0,1,0,0,,,,,,0,1,1
+1230859,2020,England,3,SIR Dunkley,3a9e9cb2,DJS Dottin,53bee17f,S Glenn,b34e0c77,0,0,0,0,0,,,,,,2,0,2
+1230859,2020,England,3,SIR Dunkley,3a9e9cb2,DJS Dottin,53bee17f,S Glenn,b34e0c77,0,0,0,0,0,,,,,,1,0,1
+1230859,2020,England,3,S Glenn,b34e0c77,DJS Dottin,53bee17f,SIR Dunkley,3a9e9cb2,0,0,0,0,0,,,,,,1,0,1
+1230859,2020,England,4,S Glenn,b34e0c77,SC Selman,c29ada99,SIR Dunkley,3a9e9cb2,0,0,0,0,0,,,,,,2,0,2
+1230859,2020,England,4,S Glenn,b34e0c77,SC Selman,c29ada99,SIR Dunkley,3a9e9cb2,0,0,0,0,1,S Glenn,b34e0c77,,,run out,1,0,1
+1230859,2020,England,4,FC Wilson,a28132bd,SC Selman,c29ada99,SIR Dunkley,3a9e9cb2,0,0,0,0,1,FC Wilson,a28132bd,,,run out,1,0,1
+1230859,2020,England,4,S Ecclestone,cdb82f1c,SC Selman,c29ada99,SIR Dunkley,3a9e9cb2,0,1,0,0,0,,,,,,1,1,2
+1230859,2020,England,4,SIR Dunkley,3a9e9cb2,SC Selman,c29ada99,S Ecclestone,cdb82f1c,0,1,0,0,0,,,,,,0,1,1

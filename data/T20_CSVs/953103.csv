@@ -1,0 +1,101 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+953103,2015/16,Scotland,0,HG Munsey,ff014c34,Haseeb Amjad,fb0abc20,KJ Coetzer,85d8110a,0,1,0,0,0,,,,,,0,1,1
+953103,2015/16,Scotland,0,HG Munsey,ff014c34,Haseeb Amjad,fb0abc20,KJ Coetzer,85d8110a,0,0,0,0,0,,,,,,1,0,1
+953103,2015/16,Scotland,0,KJ Coetzer,85d8110a,Haseeb Amjad,fb0abc20,HG Munsey,ff014c34,0,0,0,0,0,,,,,,0,0,0
+953103,2015/16,Scotland,0,KJ Coetzer,85d8110a,Haseeb Amjad,fb0abc20,HG Munsey,ff014c34,0,0,0,0,0,,,,,,0,0,0
+953103,2015/16,Scotland,0,KJ Coetzer,85d8110a,Haseeb Amjad,fb0abc20,HG Munsey,ff014c34,0,0,0,0,1,KJ Coetzer,85d8110a,JJ Atkinson,bf2d865c,caught,0,0,0
+953103,2015/16,Scotland,0,HG Munsey,ff014c34,Haseeb Amjad,fb0abc20,MH Cross,8b261d84,0,0,0,0,0,,,,,,0,0,0
+953103,2015/16,Scotland,0,HG Munsey,ff014c34,Haseeb Amjad,fb0abc20,MH Cross,8b261d84,0,0,0,0,0,,,,,,0,0,0
+953103,2015/16,Scotland,1,MH Cross,8b261d84,Tanwir Afzal,5f5ca1a7,HG Munsey,ff014c34,0,0,0,0,0,,,,,,4,0,4
+953103,2015/16,Scotland,1,MH Cross,8b261d84,Tanwir Afzal,5f5ca1a7,HG Munsey,ff014c34,0,0,0,0,0,,,,,,0,0,0
+953103,2015/16,Scotland,1,MH Cross,8b261d84,Tanwir Afzal,5f5ca1a7,HG Munsey,ff014c34,0,0,0,0,0,,,,,,2,0,2
+953103,2015/16,Scotland,1,MH Cross,8b261d84,Tanwir Afzal,5f5ca1a7,HG Munsey,ff014c34,0,0,0,0,0,,,,,,1,0,1
+953103,2015/16,Scotland,1,HG Munsey,ff014c34,Tanwir Afzal,5f5ca1a7,MH Cross,8b261d84,0,0,0,0,0,,,,,,4,0,4
+953103,2015/16,Scotland,1,HG Munsey,ff014c34,Tanwir Afzal,5f5ca1a7,MH Cross,8b261d84,0,0,0,0,0,,,,,,6,0,6
+953103,2015/16,Scotland,2,MH Cross,8b261d84,Aizaz Khan,f6c2659d,HG Munsey,ff014c34,0,0,0,0,1,MH Cross,8b261d84,JJ Atkinson,bf2d865c,caught,0,0,0
+953103,2015/16,Scotland,2,MW Machan,8c7d6cbe,Aizaz Khan,f6c2659d,HG Munsey,ff014c34,0,0,0,0,0,,,,,,2,0,2
+953103,2015/16,Scotland,2,MW Machan,8c7d6cbe,Aizaz Khan,f6c2659d,HG Munsey,ff014c34,0,0,0,0,0,,,,,,1,0,1
+953103,2015/16,Scotland,2,HG Munsey,ff014c34,Aizaz Khan,f6c2659d,MW Machan,8c7d6cbe,0,0,0,0,0,,,,,,1,0,1
+953103,2015/16,Scotland,2,MW Machan,8c7d6cbe,Aizaz Khan,f6c2659d,HG Munsey,ff014c34,0,0,0,0,0,,,,,,1,0,1
+953103,2015/16,Scotland,2,HG Munsey,ff014c34,Aizaz Khan,f6c2659d,MW Machan,8c7d6cbe,0,0,0,0,0,,,,,,4,0,4
+953103,2015/16,Scotland,3,MW Machan,8c7d6cbe,Tanwir Afzal,5f5ca1a7,HG Munsey,ff014c34,0,0,0,0,0,,,,,,0,0,0
+953103,2015/16,Scotland,3,MW Machan,8c7d6cbe,Tanwir Afzal,5f5ca1a7,HG Munsey,ff014c34,0,0,0,0,0,,,,,,1,0,1
+953103,2015/16,Scotland,3,HG Munsey,ff014c34,Tanwir Afzal,5f5ca1a7,MW Machan,8c7d6cbe,0,0,0,0,0,,,,,,1,0,1
+953103,2015/16,Scotland,3,MW Machan,8c7d6cbe,Tanwir Afzal,5f5ca1a7,HG Munsey,ff014c34,0,0,0,0,0,,,,,,1,0,1
+953103,2015/16,Scotland,3,HG Munsey,ff014c34,Tanwir Afzal,5f5ca1a7,MW Machan,8c7d6cbe,0,0,0,0,1,HG Munsey,ff014c34,Babar Hayat,fbb657bb,caught,0,0,0
+953103,2015/16,Scotland,3,MW Machan,8c7d6cbe,Tanwir Afzal,5f5ca1a7,RD Berrington,e21bc7f3,0,0,0,0,0,,,,,,4,0,4
+953103,2015/16,Scotland,4,RD Berrington,e21bc7f3,Nadeem Ahmed,023f6b02,MW Machan,8c7d6cbe,0,0,0,0,0,,,,,,0,0,0
+953103,2015/16,Scotland,4,RD Berrington,e21bc7f3,Nadeem Ahmed,023f6b02,MW Machan,8c7d6cbe,0,0,0,0,0,,,,,,0,0,0
+953103,2015/16,Scotland,4,RD Berrington,e21bc7f3,Nadeem Ahmed,023f6b02,MW Machan,8c7d6cbe,0,0,0,0,1,MW Machan,8c7d6cbe,KD Shah,d5ae21a2,run out,2,0,2
+953103,2015/16,Scotland,4,PL Mommsen,a56f4b65,Nadeem Ahmed,023f6b02,RD Berrington,e21bc7f3,0,0,0,0,0,,,,,,1,0,1
+953103,2015/16,Scotland,4,RD Berrington,e21bc7f3,Nadeem Ahmed,023f6b02,PL Mommsen,a56f4b65,0,0,0,0,0,,,,,,1,0,1
+953103,2015/16,Scotland,4,PL Mommsen,a56f4b65,Nadeem Ahmed,023f6b02,RD Berrington,e21bc7f3,0,0,0,0,0,,,,,,0,0,0
+953103,2015/16,Scotland,5,RD Berrington,e21bc7f3,Anshuman Rath,552b228c,PL Mommsen,a56f4b65,0,0,0,0,0,,,,,,0,0,0
+953103,2015/16,Scotland,5,RD Berrington,e21bc7f3,Anshuman Rath,552b228c,PL Mommsen,a56f4b65,0,0,0,0,0,,,,,,0,0,0
+953103,2015/16,Scotland,5,RD Berrington,e21bc7f3,Anshuman Rath,552b228c,PL Mommsen,a56f4b65,0,0,0,0,0,,,,,,1,0,1
+953103,2015/16,Scotland,5,PL Mommsen,a56f4b65,Anshuman Rath,552b228c,RD Berrington,e21bc7f3,0,0,0,0,0,,,,,,0,0,0
+953103,2015/16,Scotland,5,PL Mommsen,a56f4b65,Anshuman Rath,552b228c,RD Berrington,e21bc7f3,0,0,0,0,0,,,,,,1,0,1
+953103,2015/16,Scotland,5,RD Berrington,e21bc7f3,Anshuman Rath,552b228c,PL Mommsen,a56f4b65,0,0,0,0,0,,,,,,1,0,1
+953103,2015/16,Scotland,6,RD Berrington,e21bc7f3,Nadeem Ahmed,023f6b02,PL Mommsen,a56f4b65,0,0,0,0,1,RD Berrington,e21bc7f3,Waqas Barkat,a2eac9df,caught,0,0,0
+953103,2015/16,Scotland,6,CS MacLeod,9c376401,Nadeem Ahmed,023f6b02,PL Mommsen,a56f4b65,0,0,0,0,0,,,,,,1,0,1
+953103,2015/16,Scotland,6,PL Mommsen,a56f4b65,Nadeem Ahmed,023f6b02,CS MacLeod,9c376401,0,0,0,0,0,,,,,,1,0,1
+953103,2015/16,Scotland,6,CS MacLeod,9c376401,Nadeem Ahmed,023f6b02,PL Mommsen,a56f4b65,0,0,0,0,0,,,,,,1,0,1
+953103,2015/16,Scotland,6,PL Mommsen,a56f4b65,Nadeem Ahmed,023f6b02,CS MacLeod,9c376401,0,0,0,0,0,,,,,,1,0,1
+953103,2015/16,Scotland,6,CS MacLeod,9c376401,Nadeem Ahmed,023f6b02,PL Mommsen,a56f4b65,0,0,0,0,0,,,,,,1,0,1
+953103,2015/16,Scotland,7,CS MacLeod,9c376401,Anshuman Rath,552b228c,PL Mommsen,a56f4b65,0,0,0,0,0,,,,,,1,0,1
+953103,2015/16,Scotland,7,PL Mommsen,a56f4b65,Anshuman Rath,552b228c,CS MacLeod,9c376401,0,0,0,0,1,PL Mommsen,a56f4b65,JJ Atkinson,bf2d865c,run out,0,0,0
+953103,2015/16,Scotland,7,CS MacLeod,9c376401,Anshuman Rath,552b228c,RML Taylor,7fa2ab1f,0,0,0,0,0,,,,,,0,0,0
+953103,2015/16,Scotland,7,CS MacLeod,9c376401,Anshuman Rath,552b228c,RML Taylor,7fa2ab1f,0,0,0,0,0,,,,,,1,0,1
+953103,2015/16,Scotland,7,RML Taylor,7fa2ab1f,Anshuman Rath,552b228c,CS MacLeod,9c376401,0,0,0,0,0,,,,,,1,0,1
+953103,2015/16,Scotland,7,CS MacLeod,9c376401,Anshuman Rath,552b228c,RML Taylor,7fa2ab1f,0,0,0,0,0,,,,,,6,0,6
+953103,2015/16,Scotland,8,RML Taylor,7fa2ab1f,Haseeb Amjad,fb0abc20,CS MacLeod,9c376401,0,0,0,0,0,,,,,,1,0,1
+953103,2015/16,Scotland,8,CS MacLeod,9c376401,Haseeb Amjad,fb0abc20,RML Taylor,7fa2ab1f,0,0,0,0,0,,,,,,1,0,1
+953103,2015/16,Scotland,8,RML Taylor,7fa2ab1f,Haseeb Amjad,fb0abc20,CS MacLeod,9c376401,0,0,0,0,0,,,,,,1,0,1
+953103,2015/16,Scotland,8,CS MacLeod,9c376401,Haseeb Amjad,fb0abc20,RML Taylor,7fa2ab1f,0,0,0,0,0,,,,,,1,0,1
+953103,2015/16,Scotland,8,RML Taylor,7fa2ab1f,Haseeb Amjad,fb0abc20,CS MacLeod,9c376401,0,0,0,0,0,,,,,,2,0,2
+953103,2015/16,Scotland,8,RML Taylor,7fa2ab1f,Haseeb Amjad,fb0abc20,CS MacLeod,9c376401,0,0,0,0,0,,,,,,0,0,0
+953103,2015/16,Scotland,9,CS MacLeod,9c376401,Aizaz Khan,f6c2659d,RML Taylor,7fa2ab1f,0,0,0,0,0,,,,,,0,0,0
+953103,2015/16,Scotland,9,CS MacLeod,9c376401,Aizaz Khan,f6c2659d,RML Taylor,7fa2ab1f,0,0,0,0,0,,,,,,2,0,2
+953103,2015/16,Scotland,9,CS MacLeod,9c376401,Aizaz Khan,f6c2659d,RML Taylor,7fa2ab1f,0,0,0,0,0,,,,,,0,0,0
+953103,2015/16,Scotland,9,CS MacLeod,9c376401,Aizaz Khan,f6c2659d,RML Taylor,7fa2ab1f,0,0,0,0,0,,,,,,1,0,1
+953103,2015/16,Scotland,9,RML Taylor,7fa2ab1f,Aizaz Khan,f6c2659d,CS MacLeod,9c376401,0,0,0,0,0,,,,,,1,0,1
+953103,2015/16,Scotland,9,CS MacLeod,9c376401,Aizaz Khan,f6c2659d,RML Taylor,7fa2ab1f,0,0,0,0,1,CS MacLeod,9c376401,Aizaz Khan,f6c2659d,run out,0,0,0
+953103,2015/16,Hong Kong,0,JJ Atkinson,bf2d865c,RML Taylor,7fa2ab1f,Anshuman Rath,552b228c,0,0,0,0,0,,,,,,4,0,4
+953103,2015/16,Hong Kong,0,JJ Atkinson,bf2d865c,RML Taylor,7fa2ab1f,Anshuman Rath,552b228c,0,0,0,0,0,,,,,,1,0,1
+953103,2015/16,Hong Kong,0,Anshuman Rath,552b228c,RML Taylor,7fa2ab1f,JJ Atkinson,bf2d865c,0,0,0,0,0,,,,,,0,0,0
+953103,2015/16,Hong Kong,0,Anshuman Rath,552b228c,RML Taylor,7fa2ab1f,JJ Atkinson,bf2d865c,0,0,0,0,0,,,,,,0,0,0
+953103,2015/16,Hong Kong,0,Anshuman Rath,552b228c,RML Taylor,7fa2ab1f,JJ Atkinson,bf2d865c,0,0,0,0,0,,,,,,4,0,4
+953103,2015/16,Hong Kong,0,Anshuman Rath,552b228c,RML Taylor,7fa2ab1f,JJ Atkinson,bf2d865c,0,0,0,0,0,,,,,,4,0,4
+953103,2015/16,Hong Kong,1,JJ Atkinson,bf2d865c,BTJ Wheal,3f61a062,Anshuman Rath,552b228c,0,0,0,0,0,,,,,,3,0,3
+953103,2015/16,Hong Kong,1,Anshuman Rath,552b228c,BTJ Wheal,3f61a062,JJ Atkinson,bf2d865c,0,0,0,0,0,,,,,,2,0,2
+953103,2015/16,Hong Kong,1,Anshuman Rath,552b228c,BTJ Wheal,3f61a062,JJ Atkinson,bf2d865c,0,0,0,0,0,,,,,,0,0,0
+953103,2015/16,Hong Kong,1,Anshuman Rath,552b228c,BTJ Wheal,3f61a062,JJ Atkinson,bf2d865c,0,0,4,0,0,,,,,,0,4,4
+953103,2015/16,Hong Kong,1,Anshuman Rath,552b228c,BTJ Wheal,3f61a062,JJ Atkinson,bf2d865c,0,0,0,0,0,,,,,,0,0,0
+953103,2015/16,Hong Kong,1,Anshuman Rath,552b228c,BTJ Wheal,3f61a062,JJ Atkinson,bf2d865c,0,0,0,0,0,,,,,,1,0,1
+953103,2015/16,Hong Kong,2,Anshuman Rath,552b228c,SM Sharif,f43dd8c2,JJ Atkinson,bf2d865c,0,0,0,0,0,,,,,,1,0,1
+953103,2015/16,Hong Kong,2,JJ Atkinson,bf2d865c,SM Sharif,f43dd8c2,Anshuman Rath,552b228c,0,0,0,0,0,,,,,,4,0,4
+953103,2015/16,Hong Kong,2,JJ Atkinson,bf2d865c,SM Sharif,f43dd8c2,Anshuman Rath,552b228c,0,0,0,0,0,,,,,,6,0,6
+953103,2015/16,Hong Kong,2,JJ Atkinson,bf2d865c,SM Sharif,f43dd8c2,Anshuman Rath,552b228c,0,0,0,0,0,,,,,,2,0,2
+953103,2015/16,Hong Kong,2,JJ Atkinson,bf2d865c,SM Sharif,f43dd8c2,Anshuman Rath,552b228c,0,0,0,0,1,JJ Atkinson,bf2d865c,MW Machan,8c7d6cbe,caught,0,0,0
+953103,2015/16,Hong Kong,2,Anshuman Rath,552b228c,SM Sharif,f43dd8c2,Babar Hayat,fbb657bb,0,0,0,0,0,,,,,,2,0,2
+953103,2015/16,Hong Kong,3,Babar Hayat,fbb657bb,MRJ Watt,1252f71a,Anshuman Rath,552b228c,0,0,0,0,0,,,,,,1,0,1
+953103,2015/16,Hong Kong,3,Anshuman Rath,552b228c,MRJ Watt,1252f71a,Babar Hayat,fbb657bb,0,0,0,0,0,,,,,,1,0,1
+953103,2015/16,Hong Kong,3,Babar Hayat,fbb657bb,MRJ Watt,1252f71a,Anshuman Rath,552b228c,0,0,0,0,0,,,,,,1,0,1
+953103,2015/16,Hong Kong,3,Anshuman Rath,552b228c,MRJ Watt,1252f71a,Babar Hayat,fbb657bb,0,0,0,1,0,,,,,,0,1,1
+953103,2015/16,Hong Kong,3,Babar Hayat,fbb657bb,MRJ Watt,1252f71a,Anshuman Rath,552b228c,0,0,0,0,0,,,,,,0,0,0
+953103,2015/16,Hong Kong,3,Babar Hayat,fbb657bb,MRJ Watt,1252f71a,Anshuman Rath,552b228c,0,0,0,0,0,,,,,,1,0,1
+953103,2015/16,Hong Kong,4,Babar Hayat,fbb657bb,CS MacLeod,9c376401,Anshuman Rath,552b228c,0,0,0,0,0,,,,,,6,0,6
+953103,2015/16,Hong Kong,4,Babar Hayat,fbb657bb,CS MacLeod,9c376401,Anshuman Rath,552b228c,0,0,0,0,0,,,,,,0,0,0
+953103,2015/16,Hong Kong,4,Babar Hayat,fbb657bb,CS MacLeod,9c376401,Anshuman Rath,552b228c,0,0,0,0,0,,,,,,4,0,4
+953103,2015/16,Hong Kong,4,Babar Hayat,fbb657bb,CS MacLeod,9c376401,Anshuman Rath,552b228c,0,0,0,0,0,,,,,,0,0,0
+953103,2015/16,Hong Kong,4,Babar Hayat,fbb657bb,CS MacLeod,9c376401,Anshuman Rath,552b228c,0,0,0,0,0,,,,,,4,0,4
+953103,2015/16,Hong Kong,4,Babar Hayat,fbb657bb,CS MacLeod,9c376401,Anshuman Rath,552b228c,0,0,0,0,0,,,,,,1,0,1
+953103,2015/16,Hong Kong,5,Babar Hayat,fbb657bb,MRJ Watt,1252f71a,Anshuman Rath,552b228c,0,0,0,0,0,,,,,,1,0,1
+953103,2015/16,Hong Kong,5,Anshuman Rath,552b228c,MRJ Watt,1252f71a,Babar Hayat,fbb657bb,0,0,0,0,0,,,,,,2,0,2
+953103,2015/16,Hong Kong,5,Anshuman Rath,552b228c,MRJ Watt,1252f71a,Babar Hayat,fbb657bb,0,0,0,0,0,,,,,,1,0,1
+953103,2015/16,Hong Kong,5,Babar Hayat,fbb657bb,MRJ Watt,1252f71a,Anshuman Rath,552b228c,0,0,0,0,0,,,,,,1,0,1
+953103,2015/16,Hong Kong,5,Anshuman Rath,552b228c,MRJ Watt,1252f71a,Babar Hayat,fbb657bb,0,0,0,0,0,,,,,,1,0,1
+953103,2015/16,Hong Kong,5,Babar Hayat,fbb657bb,MRJ Watt,1252f71a,Anshuman Rath,552b228c,1,0,0,0,0,,,,,,0,1,1
+953103,2015/16,Hong Kong,5,Babar Hayat,fbb657bb,MRJ Watt,1252f71a,Anshuman Rath,552b228c,0,0,0,0,0,,,,,,0,0,0
+953103,2015/16,Hong Kong,6,Anshuman Rath,552b228c,BTJ Wheal,3f61a062,Babar Hayat,fbb657bb,0,0,0,0,0,,,,,,1,0,1
+953103,2015/16,Hong Kong,6,Babar Hayat,fbb657bb,BTJ Wheal,3f61a062,Anshuman Rath,552b228c,0,0,0,0,0,,,,,,6,0,6

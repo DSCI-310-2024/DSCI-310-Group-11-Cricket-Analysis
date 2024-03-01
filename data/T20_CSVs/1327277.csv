@@ -1,0 +1,251 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1327277,2022,India,0,KL Rahul,b17e2f24,D Madushanka,de7d833e,RG Sharma,740742ef,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,India,0,RG Sharma,740742ef,D Madushanka,de7d833e,KL Rahul,b17e2f24,1,0,0,0,0,,,,,,0,1,1
+1327277,2022,India,0,RG Sharma,740742ef,D Madushanka,de7d833e,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,0,0,0
+1327277,2022,India,0,RG Sharma,740742ef,D Madushanka,de7d833e,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,India,0,KL Rahul,b17e2f24,D Madushanka,de7d833e,RG Sharma,740742ef,1,0,0,0,0,,,,,,0,1,1
+1327277,2022,India,0,KL Rahul,b17e2f24,D Madushanka,de7d833e,RG Sharma,740742ef,0,0,0,0,0,,,,,,0,0,0
+1327277,2022,India,0,KL Rahul,b17e2f24,D Madushanka,de7d833e,RG Sharma,740742ef,0,0,0,0,0,,,,,,0,0,0
+1327277,2022,India,0,KL Rahul,b17e2f24,D Madushanka,de7d833e,RG Sharma,740742ef,0,0,0,0,0,,,,,,0,0,0
+1327277,2022,India,1,RG Sharma,740742ef,M Theekshana,f24c6701,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,India,1,KL Rahul,b17e2f24,M Theekshana,f24c6701,RG Sharma,740742ef,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,India,1,RG Sharma,740742ef,M Theekshana,f24c6701,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,India,1,KL Rahul,b17e2f24,M Theekshana,f24c6701,RG Sharma,740742ef,0,0,0,0,0,,,,,,4,0,4
+1327277,2022,India,1,KL Rahul,b17e2f24,M Theekshana,f24c6701,RG Sharma,740742ef,0,0,0,0,1,KL Rahul,b17e2f24,,,lbw,0,0,0
+1327277,2022,India,1,V Kohli,ba607b88,M Theekshana,f24c6701,RG Sharma,740742ef,0,0,0,0,0,,,,,,0,0,0
+1327277,2022,India,2,RG Sharma,740742ef,D Madushanka,de7d833e,V Kohli,ba607b88,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,India,2,V Kohli,ba607b88,D Madushanka,de7d833e,RG Sharma,740742ef,0,0,0,0,0,,,,,,0,0,0
+1327277,2022,India,2,V Kohli,ba607b88,D Madushanka,de7d833e,RG Sharma,740742ef,0,0,0,0,0,,,,,,0,0,0
+1327277,2022,India,2,V Kohli,ba607b88,D Madushanka,de7d833e,RG Sharma,740742ef,1,0,0,0,0,,,,,,0,1,1
+1327277,2022,India,2,V Kohli,ba607b88,D Madushanka,de7d833e,RG Sharma,740742ef,0,0,0,0,1,V Kohli,ba607b88,,,bowled,0,0,0
+1327277,2022,India,2,SA Yadav,271f83cd,D Madushanka,de7d833e,RG Sharma,740742ef,0,0,0,0,0,,,,,,2,0,2
+1327277,2022,India,2,SA Yadav,271f83cd,D Madushanka,de7d833e,RG Sharma,740742ef,0,0,0,0,0,,,,,,0,0,0
+1327277,2022,India,3,RG Sharma,740742ef,C Karunaratne,fb3e0d39,SA Yadav,271f83cd,0,0,0,0,0,,,,,,0,0,0
+1327277,2022,India,3,RG Sharma,740742ef,C Karunaratne,fb3e0d39,SA Yadav,271f83cd,0,0,0,0,0,,,,,,4,0,4
+1327277,2022,India,3,RG Sharma,740742ef,C Karunaratne,fb3e0d39,SA Yadav,271f83cd,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,India,3,SA Yadav,271f83cd,C Karunaratne,fb3e0d39,RG Sharma,740742ef,0,0,0,0,0,,,,,,0,0,0
+1327277,2022,India,3,SA Yadav,271f83cd,C Karunaratne,fb3e0d39,RG Sharma,740742ef,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,India,3,RG Sharma,740742ef,C Karunaratne,fb3e0d39,SA Yadav,271f83cd,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,India,4,RG Sharma,740742ef,AM Fernando,de3d549a,SA Yadav,271f83cd,0,0,0,0,0,,,,,,0,0,0
+1327277,2022,India,4,RG Sharma,740742ef,AM Fernando,de3d549a,SA Yadav,271f83cd,0,0,0,0,0,,,,,,6,0,6
+1327277,2022,India,4,RG Sharma,740742ef,AM Fernando,de3d549a,SA Yadav,271f83cd,0,0,0,0,0,,,,,,4,0,4
+1327277,2022,India,4,RG Sharma,740742ef,AM Fernando,de3d549a,SA Yadav,271f83cd,0,0,0,0,0,,,,,,2,0,2
+1327277,2022,India,4,RG Sharma,740742ef,AM Fernando,de3d549a,SA Yadav,271f83cd,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,India,4,SA Yadav,271f83cd,AM Fernando,de3d549a,RG Sharma,740742ef,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,India,5,SA Yadav,271f83cd,M Theekshana,f24c6701,RG Sharma,740742ef,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,India,5,RG Sharma,740742ef,M Theekshana,f24c6701,SA Yadav,271f83cd,0,0,0,0,0,,,,,,4,0,4
+1327277,2022,India,5,RG Sharma,740742ef,M Theekshana,f24c6701,SA Yadav,271f83cd,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,India,5,SA Yadav,271f83cd,M Theekshana,f24c6701,RG Sharma,740742ef,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,India,5,RG Sharma,740742ef,M Theekshana,f24c6701,SA Yadav,271f83cd,0,0,0,0,0,,,,,,0,0,0
+1327277,2022,India,5,RG Sharma,740742ef,M Theekshana,f24c6701,SA Yadav,271f83cd,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,India,6,RG Sharma,740742ef,PWH de Silva,a97c8ec2,SA Yadav,271f83cd,0,0,0,0,0,,,,,,0,0,0
+1327277,2022,India,6,RG Sharma,740742ef,PWH de Silva,a97c8ec2,SA Yadav,271f83cd,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,India,6,SA Yadav,271f83cd,PWH de Silva,a97c8ec2,RG Sharma,740742ef,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,India,6,RG Sharma,740742ef,PWH de Silva,a97c8ec2,SA Yadav,271f83cd,0,0,0,0,0,,,,,,0,0,0
+1327277,2022,India,6,RG Sharma,740742ef,PWH de Silva,a97c8ec2,SA Yadav,271f83cd,0,0,0,0,0,,,,,,2,0,2
+1327277,2022,India,6,RG Sharma,740742ef,PWH de Silva,a97c8ec2,SA Yadav,271f83cd,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,India,7,RG Sharma,740742ef,C Karunaratne,fb3e0d39,SA Yadav,271f83cd,0,0,0,0,0,,,,,,2,0,2
+1327277,2022,India,7,RG Sharma,740742ef,C Karunaratne,fb3e0d39,SA Yadav,271f83cd,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,India,7,SA Yadav,271f83cd,C Karunaratne,fb3e0d39,RG Sharma,740742ef,0,0,0,0,0,,,,,,0,0,0
+1327277,2022,India,7,SA Yadav,271f83cd,C Karunaratne,fb3e0d39,RG Sharma,740742ef,0,0,0,0,0,,,,,,0,0,0
+1327277,2022,India,7,SA Yadav,271f83cd,C Karunaratne,fb3e0d39,RG Sharma,740742ef,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,India,7,RG Sharma,740742ef,C Karunaratne,fb3e0d39,SA Yadav,271f83cd,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,India,8,RG Sharma,740742ef,PWH de Silva,a97c8ec2,SA Yadav,271f83cd,0,0,0,0,0,,,,,,2,0,2
+1327277,2022,India,8,RG Sharma,740742ef,PWH de Silva,a97c8ec2,SA Yadav,271f83cd,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,India,8,SA Yadav,271f83cd,PWH de Silva,a97c8ec2,RG Sharma,740742ef,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,India,8,RG Sharma,740742ef,PWH de Silva,a97c8ec2,SA Yadav,271f83cd,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,India,8,SA Yadav,271f83cd,PWH de Silva,a97c8ec2,RG Sharma,740742ef,0,0,0,0,0,,,,,,4,0,4
+1327277,2022,India,8,SA Yadav,271f83cd,PWH de Silva,a97c8ec2,RG Sharma,740742ef,0,0,0,0,0,,,,,,2,0,2
+1327277,2022,India,9,RG Sharma,740742ef,AM Fernando,de3d549a,SA Yadav,271f83cd,0,0,0,0,0,,,,,,6,0,6
+1327277,2022,India,9,RG Sharma,740742ef,AM Fernando,de3d549a,SA Yadav,271f83cd,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,India,9,SA Yadav,271f83cd,AM Fernando,de3d549a,RG Sharma,740742ef,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,India,9,RG Sharma,740742ef,AM Fernando,de3d549a,SA Yadav,271f83cd,0,0,0,0,0,,,,,,4,0,4
+1327277,2022,India,9,RG Sharma,740742ef,AM Fernando,de3d549a,SA Yadav,271f83cd,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,India,9,SA Yadav,271f83cd,AM Fernando,de3d549a,RG Sharma,740742ef,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,India,10,SA Yadav,271f83cd,D Madushanka,de7d833e,RG Sharma,740742ef,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,India,10,RG Sharma,740742ef,D Madushanka,de7d833e,SA Yadav,271f83cd,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,India,10,SA Yadav,271f83cd,D Madushanka,de7d833e,RG Sharma,740742ef,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,India,10,RG Sharma,740742ef,D Madushanka,de7d833e,SA Yadav,271f83cd,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,India,10,SA Yadav,271f83cd,D Madushanka,de7d833e,RG Sharma,740742ef,0,0,0,0,0,,,,,,6,0,6
+1327277,2022,India,10,SA Yadav,271f83cd,D Madushanka,de7d833e,RG Sharma,740742ef,0,0,0,0,0,,,,,,2,0,2
+1327277,2022,India,11,RG Sharma,740742ef,PWH de Silva,a97c8ec2,SA Yadav,271f83cd,0,0,0,0,0,,,,,,0,0,0
+1327277,2022,India,11,RG Sharma,740742ef,PWH de Silva,a97c8ec2,SA Yadav,271f83cd,0,0,0,0,0,,,,,,6,0,6
+1327277,2022,India,11,RG Sharma,740742ef,PWH de Silva,a97c8ec2,SA Yadav,271f83cd,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,India,11,SA Yadav,271f83cd,PWH de Silva,a97c8ec2,RG Sharma,740742ef,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,India,11,RG Sharma,740742ef,PWH de Silva,a97c8ec2,SA Yadav,271f83cd,0,0,0,0,0,,,,,,4,0,4
+1327277,2022,India,11,RG Sharma,740742ef,PWH de Silva,a97c8ec2,SA Yadav,271f83cd,0,0,0,0,0,,,,,,6,0,6
+1327277,2022,India,12,SA Yadav,271f83cd,C Karunaratne,fb3e0d39,RG Sharma,740742ef,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,India,12,RG Sharma,740742ef,C Karunaratne,fb3e0d39,SA Yadav,271f83cd,0,0,0,0,1,RG Sharma,740742ef,P Nissanka,8ee36b18,caught,0,0,0
+1327277,2022,India,12,HH Pandya,dbe50b21,C Karunaratne,fb3e0d39,SA Yadav,271f83cd,0,0,0,0,0,,,,,,0,0,0
+1327277,2022,India,12,HH Pandya,dbe50b21,C Karunaratne,fb3e0d39,SA Yadav,271f83cd,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,India,12,SA Yadav,271f83cd,C Karunaratne,fb3e0d39,HH Pandya,dbe50b21,0,0,0,0,0,,,,,,0,0,0
+1327277,2022,India,12,SA Yadav,271f83cd,C Karunaratne,fb3e0d39,HH Pandya,dbe50b21,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,India,13,SA Yadav,271f83cd,M Theekshana,f24c6701,HH Pandya,dbe50b21,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,India,13,HH Pandya,dbe50b21,M Theekshana,f24c6701,SA Yadav,271f83cd,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,India,13,SA Yadav,271f83cd,M Theekshana,f24c6701,HH Pandya,dbe50b21,0,0,0,0,0,,,,,,2,0,2
+1327277,2022,India,13,SA Yadav,271f83cd,M Theekshana,f24c6701,HH Pandya,dbe50b21,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,India,13,HH Pandya,dbe50b21,M Theekshana,f24c6701,SA Yadav,271f83cd,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,India,13,SA Yadav,271f83cd,M Theekshana,f24c6701,HH Pandya,dbe50b21,0,0,0,0,0,,,,,,0,0,0
+1327277,2022,India,14,HH Pandya,dbe50b21,MD Shanaka,3ff033bb,SA Yadav,271f83cd,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,India,14,SA Yadav,271f83cd,MD Shanaka,3ff033bb,HH Pandya,dbe50b21,0,0,0,0,1,SA Yadav,271f83cd,M Theekshana,f24c6701,caught,0,0,0
+1327277,2022,India,14,RR Pant,919a3be2,MD Shanaka,3ff033bb,HH Pandya,dbe50b21,0,0,0,0,0,,,,,,0,0,0
+1327277,2022,India,14,RR Pant,919a3be2,MD Shanaka,3ff033bb,HH Pandya,dbe50b21,0,0,0,0,0,,,,,,4,0,4
+1327277,2022,India,14,RR Pant,919a3be2,MD Shanaka,3ff033bb,HH Pandya,dbe50b21,0,0,0,0,0,,,,,,0,0,0
+1327277,2022,India,14,RR Pant,919a3be2,MD Shanaka,3ff033bb,HH Pandya,dbe50b21,0,0,0,0,0,,,,,,4,0,4
+1327277,2022,India,15,HH Pandya,dbe50b21,M Theekshana,f24c6701,RR Pant,919a3be2,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,India,15,RR Pant,919a3be2,M Theekshana,f24c6701,HH Pandya,dbe50b21,1,0,0,0,0,,,,,,0,1,1
+1327277,2022,India,15,RR Pant,919a3be2,M Theekshana,f24c6701,HH Pandya,dbe50b21,0,0,0,0,0,,,,,,4,0,4
+1327277,2022,India,15,RR Pant,919a3be2,M Theekshana,f24c6701,HH Pandya,dbe50b21,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,India,15,HH Pandya,dbe50b21,M Theekshana,f24c6701,RR Pant,919a3be2,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,India,15,RR Pant,919a3be2,M Theekshana,f24c6701,HH Pandya,dbe50b21,0,0,0,0,0,,,,,,0,0,0
+1327277,2022,India,15,RR Pant,919a3be2,M Theekshana,f24c6701,HH Pandya,dbe50b21,0,0,0,0,0,,,,,,0,0,0
+1327277,2022,India,16,HH Pandya,dbe50b21,PWH de Silva,a97c8ec2,RR Pant,919a3be2,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,India,16,RR Pant,919a3be2,PWH de Silva,a97c8ec2,HH Pandya,dbe50b21,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,India,16,HH Pandya,dbe50b21,PWH de Silva,a97c8ec2,RR Pant,919a3be2,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,India,16,RR Pant,919a3be2,PWH de Silva,a97c8ec2,HH Pandya,dbe50b21,0,0,0,0,0,,,,,,0,0,0
+1327277,2022,India,16,RR Pant,919a3be2,PWH de Silva,a97c8ec2,HH Pandya,dbe50b21,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,India,16,HH Pandya,dbe50b21,PWH de Silva,a97c8ec2,RR Pant,919a3be2,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,India,17,HH Pandya,dbe50b21,MD Shanaka,3ff033bb,RR Pant,919a3be2,0,0,0,0,0,,,,,,6,0,6
+1327277,2022,India,17,HH Pandya,dbe50b21,MD Shanaka,3ff033bb,RR Pant,919a3be2,1,0,0,0,0,,,,,,0,1,1
+1327277,2022,India,17,HH Pandya,dbe50b21,MD Shanaka,3ff033bb,RR Pant,919a3be2,0,0,0,0,0,,,,,,2,0,2
+1327277,2022,India,17,HH Pandya,dbe50b21,MD Shanaka,3ff033bb,RR Pant,919a3be2,0,0,0,0,1,HH Pandya,dbe50b21,P Nissanka,8ee36b18,caught,0,0,0
+1327277,2022,India,17,DJ Hooda,73ad96ed,MD Shanaka,3ff033bb,RR Pant,919a3be2,1,0,0,0,0,,,,,,0,1,1
+1327277,2022,India,17,DJ Hooda,73ad96ed,MD Shanaka,3ff033bb,RR Pant,919a3be2,0,1,0,0,0,,,,,,0,1,1
+1327277,2022,India,17,DJ Hooda,73ad96ed,MD Shanaka,3ff033bb,RR Pant,919a3be2,0,0,0,0,0,,,,,,2,0,2
+1327277,2022,India,17,DJ Hooda,73ad96ed,MD Shanaka,3ff033bb,RR Pant,919a3be2,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,India,17,RR Pant,919a3be2,MD Shanaka,3ff033bb,DJ Hooda,73ad96ed,1,0,0,0,0,,,,,,0,1,1
+1327277,2022,India,17,RR Pant,919a3be2,MD Shanaka,3ff033bb,DJ Hooda,73ad96ed,0,0,0,0,0,,,,,,2,0,2
+1327277,2022,India,18,DJ Hooda,73ad96ed,D Madushanka,de7d833e,RR Pant,919a3be2,0,0,0,0,1,DJ Hooda,73ad96ed,,,bowled,0,0,0
+1327277,2022,India,18,R Ashwin,495d42a5,D Madushanka,de7d833e,RR Pant,919a3be2,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,India,18,RR Pant,919a3be2,D Madushanka,de7d833e,R Ashwin,495d42a5,0,0,0,0,1,RR Pant,919a3be2,P Nissanka,8ee36b18,caught,0,0,0
+1327277,2022,India,18,R Ashwin,495d42a5,D Madushanka,de7d833e,B Kumar,2e81a32d,0,0,0,0,0,,,,,,2,0,2
+1327277,2022,India,18,R Ashwin,495d42a5,D Madushanka,de7d833e,B Kumar,2e81a32d,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,India,18,B Kumar,2e81a32d,D Madushanka,de7d833e,R Ashwin,495d42a5,0,0,0,0,0,,,,,,0,0,0
+1327277,2022,India,19,R Ashwin,495d42a5,C Karunaratne,fb3e0d39,B Kumar,2e81a32d,0,0,0,0,0,,,,,,2,0,2
+1327277,2022,India,19,R Ashwin,495d42a5,C Karunaratne,fb3e0d39,B Kumar,2e81a32d,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,India,19,B Kumar,2e81a32d,C Karunaratne,fb3e0d39,R Ashwin,495d42a5,0,0,0,0,1,B Kumar,2e81a32d,,,bowled,0,0,0
+1327277,2022,India,19,Arshdeep Singh,244048f6,C Karunaratne,fb3e0d39,R Ashwin,495d42a5,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,India,19,R Ashwin,495d42a5,C Karunaratne,fb3e0d39,Arshdeep Singh,244048f6,0,0,0,0,0,,,,,,6,0,6
+1327277,2022,India,19,R Ashwin,495d42a5,C Karunaratne,fb3e0d39,Arshdeep Singh,244048f6,0,0,0,0,0,,,,,,2,0,2
+1327277,2022,Sri Lanka,0,P Nissanka,8ee36b18,B Kumar,2e81a32d,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,0,0,0
+1327277,2022,Sri Lanka,0,P Nissanka,8ee36b18,B Kumar,2e81a32d,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,0,0,0
+1327277,2022,Sri Lanka,0,P Nissanka,8ee36b18,B Kumar,2e81a32d,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,0,0,0
+1327277,2022,Sri Lanka,0,P Nissanka,8ee36b18,B Kumar,2e81a32d,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,0,0,0
+1327277,2022,Sri Lanka,0,P Nissanka,8ee36b18,B Kumar,2e81a32d,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,0,0,0
+1327277,2022,Sri Lanka,0,P Nissanka,8ee36b18,B Kumar,2e81a32d,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,Sri Lanka,1,P Nissanka,8ee36b18,Arshdeep Singh,244048f6,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,2,0,2
+1327277,2022,Sri Lanka,1,P Nissanka,8ee36b18,Arshdeep Singh,244048f6,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,Sri Lanka,1,BKG Mendis,5d1e7582,Arshdeep Singh,244048f6,P Nissanka,8ee36b18,0,0,0,0,0,,,,,,0,0,0
+1327277,2022,Sri Lanka,1,BKG Mendis,5d1e7582,Arshdeep Singh,244048f6,P Nissanka,8ee36b18,0,0,0,0,0,,,,,,0,0,0
+1327277,2022,Sri Lanka,1,BKG Mendis,5d1e7582,Arshdeep Singh,244048f6,P Nissanka,8ee36b18,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,Sri Lanka,1,P Nissanka,8ee36b18,Arshdeep Singh,244048f6,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,4,0,4
+1327277,2022,Sri Lanka,2,BKG Mendis,5d1e7582,B Kumar,2e81a32d,P Nissanka,8ee36b18,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,Sri Lanka,2,P Nissanka,8ee36b18,B Kumar,2e81a32d,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,Sri Lanka,2,BKG Mendis,5d1e7582,B Kumar,2e81a32d,P Nissanka,8ee36b18,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,Sri Lanka,2,P Nissanka,8ee36b18,B Kumar,2e81a32d,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,4,0,4
+1327277,2022,Sri Lanka,2,P Nissanka,8ee36b18,B Kumar,2e81a32d,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,0,0,0
+1327277,2022,Sri Lanka,2,P Nissanka,8ee36b18,B Kumar,2e81a32d,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,Sri Lanka,3,P Nissanka,8ee36b18,HH Pandya,dbe50b21,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,0,0,0
+1327277,2022,Sri Lanka,3,P Nissanka,8ee36b18,HH Pandya,dbe50b21,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,6,0,6
+1327277,2022,Sri Lanka,3,P Nissanka,8ee36b18,HH Pandya,dbe50b21,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,2,0,2
+1327277,2022,Sri Lanka,3,P Nissanka,8ee36b18,HH Pandya,dbe50b21,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,Sri Lanka,3,BKG Mendis,5d1e7582,HH Pandya,dbe50b21,P Nissanka,8ee36b18,0,0,0,0,0,,,,,,0,0,0
+1327277,2022,Sri Lanka,3,BKG Mendis,5d1e7582,HH Pandya,dbe50b21,P Nissanka,8ee36b18,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,Sri Lanka,4,BKG Mendis,5d1e7582,Arshdeep Singh,244048f6,P Nissanka,8ee36b18,0,0,0,0,0,,,,,,4,0,4
+1327277,2022,Sri Lanka,4,BKG Mendis,5d1e7582,Arshdeep Singh,244048f6,P Nissanka,8ee36b18,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,Sri Lanka,4,P Nissanka,8ee36b18,Arshdeep Singh,244048f6,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,4,0,4
+1327277,2022,Sri Lanka,4,P Nissanka,8ee36b18,Arshdeep Singh,244048f6,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,Sri Lanka,4,BKG Mendis,5d1e7582,Arshdeep Singh,244048f6,P Nissanka,8ee36b18,0,0,0,0,0,,,,,,6,0,6
+1327277,2022,Sri Lanka,4,BKG Mendis,5d1e7582,Arshdeep Singh,244048f6,P Nissanka,8ee36b18,0,0,0,0,0,,,,,,2,0,2
+1327277,2022,Sri Lanka,5,P Nissanka,8ee36b18,YS Chahal,57ee1fde,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,4,0,4
+1327277,2022,Sri Lanka,5,P Nissanka,8ee36b18,YS Chahal,57ee1fde,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,Sri Lanka,5,BKG Mendis,5d1e7582,YS Chahal,57ee1fde,P Nissanka,8ee36b18,0,0,0,0,0,,,,,,0,0,0
+1327277,2022,Sri Lanka,5,BKG Mendis,5d1e7582,YS Chahal,57ee1fde,P Nissanka,8ee36b18,0,0,0,0,0,,,,,,6,0,6
+1327277,2022,Sri Lanka,5,BKG Mendis,5d1e7582,YS Chahal,57ee1fde,P Nissanka,8ee36b18,0,0,0,0,0,,,,,,0,0,0
+1327277,2022,Sri Lanka,5,BKG Mendis,5d1e7582,YS Chahal,57ee1fde,P Nissanka,8ee36b18,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,Sri Lanka,6,BKG Mendis,5d1e7582,HH Pandya,dbe50b21,P Nissanka,8ee36b18,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,Sri Lanka,6,P Nissanka,8ee36b18,HH Pandya,dbe50b21,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,Sri Lanka,6,BKG Mendis,5d1e7582,HH Pandya,dbe50b21,P Nissanka,8ee36b18,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,Sri Lanka,6,P Nissanka,8ee36b18,HH Pandya,dbe50b21,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,Sri Lanka,6,BKG Mendis,5d1e7582,HH Pandya,dbe50b21,P Nissanka,8ee36b18,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,Sri Lanka,6,P Nissanka,8ee36b18,HH Pandya,dbe50b21,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,Sri Lanka,7,P Nissanka,8ee36b18,R Ashwin,495d42a5,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,Sri Lanka,7,BKG Mendis,5d1e7582,R Ashwin,495d42a5,P Nissanka,8ee36b18,0,0,0,0,0,,,,,,6,0,6
+1327277,2022,Sri Lanka,7,BKG Mendis,5d1e7582,R Ashwin,495d42a5,P Nissanka,8ee36b18,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,Sri Lanka,7,P Nissanka,8ee36b18,R Ashwin,495d42a5,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,Sri Lanka,7,BKG Mendis,5d1e7582,R Ashwin,495d42a5,P Nissanka,8ee36b18,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,Sri Lanka,7,P Nissanka,8ee36b18,R Ashwin,495d42a5,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,Sri Lanka,8,P Nissanka,8ee36b18,YS Chahal,57ee1fde,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,Sri Lanka,8,BKG Mendis,5d1e7582,YS Chahal,57ee1fde,P Nissanka,8ee36b18,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,Sri Lanka,8,P Nissanka,8ee36b18,YS Chahal,57ee1fde,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,6,0,6
+1327277,2022,Sri Lanka,8,P Nissanka,8ee36b18,YS Chahal,57ee1fde,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,Sri Lanka,8,BKG Mendis,5d1e7582,YS Chahal,57ee1fde,P Nissanka,8ee36b18,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,Sri Lanka,8,P Nissanka,8ee36b18,YS Chahal,57ee1fde,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,Sri Lanka,9,P Nissanka,8ee36b18,R Ashwin,495d42a5,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,Sri Lanka,9,BKG Mendis,5d1e7582,R Ashwin,495d42a5,P Nissanka,8ee36b18,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,Sri Lanka,9,P Nissanka,8ee36b18,R Ashwin,495d42a5,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,Sri Lanka,9,BKG Mendis,5d1e7582,R Ashwin,495d42a5,P Nissanka,8ee36b18,0,0,0,0,0,,,,,,0,0,0
+1327277,2022,Sri Lanka,9,BKG Mendis,5d1e7582,R Ashwin,495d42a5,P Nissanka,8ee36b18,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,Sri Lanka,9,P Nissanka,8ee36b18,R Ashwin,495d42a5,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,0,0,0
+1327277,2022,Sri Lanka,10,BKG Mendis,5d1e7582,HH Pandya,dbe50b21,P Nissanka,8ee36b18,0,0,0,0,0,,,,,,4,0,4
+1327277,2022,Sri Lanka,10,BKG Mendis,5d1e7582,HH Pandya,dbe50b21,P Nissanka,8ee36b18,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,Sri Lanka,10,P Nissanka,8ee36b18,HH Pandya,dbe50b21,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,Sri Lanka,10,BKG Mendis,5d1e7582,HH Pandya,dbe50b21,P Nissanka,8ee36b18,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,Sri Lanka,10,P Nissanka,8ee36b18,HH Pandya,dbe50b21,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,Sri Lanka,10,BKG Mendis,5d1e7582,HH Pandya,dbe50b21,P Nissanka,8ee36b18,0,0,0,0,0,,,,,,0,0,0
+1327277,2022,Sri Lanka,11,P Nissanka,8ee36b18,YS Chahal,57ee1fde,BKG Mendis,5d1e7582,0,0,0,0,1,P Nissanka,8ee36b18,RG Sharma,740742ef,caught,0,0,0
+1327277,2022,Sri Lanka,11,KIC Asalanka,732c038e,YS Chahal,57ee1fde,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,0,0,0
+1327277,2022,Sri Lanka,11,KIC Asalanka,732c038e,YS Chahal,57ee1fde,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,0,0,0
+1327277,2022,Sri Lanka,11,KIC Asalanka,732c038e,YS Chahal,57ee1fde,BKG Mendis,5d1e7582,0,0,0,0,1,KIC Asalanka,732c038e,SA Yadav,271f83cd,caught,0,0,0
+1327277,2022,Sri Lanka,11,BKG Mendis,5d1e7582,YS Chahal,57ee1fde,MD Gunathilaka,509a7ca1,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,Sri Lanka,11,MD Gunathilaka,509a7ca1,YS Chahal,57ee1fde,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,0,0,0
+1327277,2022,Sri Lanka,12,BKG Mendis,5d1e7582,B Kumar,2e81a32d,MD Gunathilaka,509a7ca1,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,Sri Lanka,12,MD Gunathilaka,509a7ca1,B Kumar,2e81a32d,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,0,0,0
+1327277,2022,Sri Lanka,12,MD Gunathilaka,509a7ca1,B Kumar,2e81a32d,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,Sri Lanka,12,BKG Mendis,5d1e7582,B Kumar,2e81a32d,MD Gunathilaka,509a7ca1,0,0,0,0,0,,,,,,4,0,4
+1327277,2022,Sri Lanka,12,BKG Mendis,5d1e7582,B Kumar,2e81a32d,MD Gunathilaka,509a7ca1,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,Sri Lanka,12,MD Gunathilaka,509a7ca1,B Kumar,2e81a32d,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,0,0,0
+1327277,2022,Sri Lanka,13,BKG Mendis,5d1e7582,R Ashwin,495d42a5,MD Gunathilaka,509a7ca1,0,0,0,0,0,,,,,,4,0,4
+1327277,2022,Sri Lanka,13,BKG Mendis,5d1e7582,R Ashwin,495d42a5,MD Gunathilaka,509a7ca1,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,Sri Lanka,13,MD Gunathilaka,509a7ca1,R Ashwin,495d42a5,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,0,0,0
+1327277,2022,Sri Lanka,13,MD Gunathilaka,509a7ca1,R Ashwin,495d42a5,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,0,0,0
+1327277,2022,Sri Lanka,13,MD Gunathilaka,509a7ca1,R Ashwin,495d42a5,BKG Mendis,5d1e7582,0,0,0,0,1,MD Gunathilaka,509a7ca1,KL Rahul,b17e2f24,caught,0,0,0
+1327277,2022,Sri Lanka,13,PBB Rajapaksa,6c882e9a,R Ashwin,495d42a5,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,0,0,0
+1327277,2022,Sri Lanka,14,BKG Mendis,5d1e7582,YS Chahal,57ee1fde,PBB Rajapaksa,6c882e9a,0,0,0,0,1,BKG Mendis,5d1e7582,,,lbw,0,0,0
+1327277,2022,Sri Lanka,14,MD Shanaka,3ff033bb,YS Chahal,57ee1fde,PBB Rajapaksa,6c882e9a,1,0,0,0,0,,,,,,0,1,1
+1327277,2022,Sri Lanka,14,MD Shanaka,3ff033bb,YS Chahal,57ee1fde,PBB Rajapaksa,6c882e9a,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,Sri Lanka,14,PBB Rajapaksa,6c882e9a,YS Chahal,57ee1fde,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,Sri Lanka,14,MD Shanaka,3ff033bb,YS Chahal,57ee1fde,PBB Rajapaksa,6c882e9a,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,Sri Lanka,14,PBB Rajapaksa,6c882e9a,YS Chahal,57ee1fde,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,6,0,6
+1327277,2022,Sri Lanka,14,PBB Rajapaksa,6c882e9a,YS Chahal,57ee1fde,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,0,0,0
+1327277,2022,Sri Lanka,15,MD Shanaka,3ff033bb,R Ashwin,495d42a5,PBB Rajapaksa,6c882e9a,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,Sri Lanka,15,PBB Rajapaksa,6c882e9a,R Ashwin,495d42a5,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,6,0,6
+1327277,2022,Sri Lanka,15,PBB Rajapaksa,6c882e9a,R Ashwin,495d42a5,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,Sri Lanka,15,MD Shanaka,3ff033bb,R Ashwin,495d42a5,PBB Rajapaksa,6c882e9a,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,Sri Lanka,15,PBB Rajapaksa,6c882e9a,R Ashwin,495d42a5,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,2,0,2
+1327277,2022,Sri Lanka,15,PBB Rajapaksa,6c882e9a,R Ashwin,495d42a5,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,Sri Lanka,16,PBB Rajapaksa,6c882e9a,Arshdeep Singh,244048f6,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,Sri Lanka,16,MD Shanaka,3ff033bb,Arshdeep Singh,244048f6,PBB Rajapaksa,6c882e9a,0,0,0,0,0,,,,,,4,0,4
+1327277,2022,Sri Lanka,16,MD Shanaka,3ff033bb,Arshdeep Singh,244048f6,PBB Rajapaksa,6c882e9a,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,Sri Lanka,16,PBB Rajapaksa,6c882e9a,Arshdeep Singh,244048f6,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,Sri Lanka,16,MD Shanaka,3ff033bb,Arshdeep Singh,244048f6,PBB Rajapaksa,6c882e9a,0,0,0,0,0,,,,,,2,0,2
+1327277,2022,Sri Lanka,16,MD Shanaka,3ff033bb,Arshdeep Singh,244048f6,PBB Rajapaksa,6c882e9a,0,0,0,0,0,,,,,,0,0,0
+1327277,2022,Sri Lanka,17,PBB Rajapaksa,6c882e9a,HH Pandya,dbe50b21,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,0,0,0
+1327277,2022,Sri Lanka,17,PBB Rajapaksa,6c882e9a,HH Pandya,dbe50b21,MD Shanaka,3ff033bb,0,0,1,0,0,,,,,,0,1,1
+1327277,2022,Sri Lanka,17,MD Shanaka,3ff033bb,HH Pandya,dbe50b21,PBB Rajapaksa,6c882e9a,0,0,0,0,0,,,,,,4,0,4
+1327277,2022,Sri Lanka,17,MD Shanaka,3ff033bb,HH Pandya,dbe50b21,PBB Rajapaksa,6c882e9a,0,0,0,0,0,,,,,,0,0,0
+1327277,2022,Sri Lanka,17,MD Shanaka,3ff033bb,HH Pandya,dbe50b21,PBB Rajapaksa,6c882e9a,0,0,0,0,0,,,,,,6,0,6
+1327277,2022,Sri Lanka,17,MD Shanaka,3ff033bb,HH Pandya,dbe50b21,PBB Rajapaksa,6c882e9a,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,Sri Lanka,18,MD Shanaka,3ff033bb,B Kumar,2e81a32d,PBB Rajapaksa,6c882e9a,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,Sri Lanka,18,PBB Rajapaksa,6c882e9a,B Kumar,2e81a32d,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,Sri Lanka,18,MD Shanaka,3ff033bb,B Kumar,2e81a32d,PBB Rajapaksa,6c882e9a,1,0,0,0,0,,,,,,0,1,1
+1327277,2022,Sri Lanka,18,MD Shanaka,3ff033bb,B Kumar,2e81a32d,PBB Rajapaksa,6c882e9a,1,0,0,0,0,,,,,,0,1,1
+1327277,2022,Sri Lanka,18,MD Shanaka,3ff033bb,B Kumar,2e81a32d,PBB Rajapaksa,6c882e9a,0,0,0,0,0,,,,,,4,0,4
+1327277,2022,Sri Lanka,18,MD Shanaka,3ff033bb,B Kumar,2e81a32d,PBB Rajapaksa,6c882e9a,0,0,0,0,0,,,,,,4,0,4
+1327277,2022,Sri Lanka,18,MD Shanaka,3ff033bb,B Kumar,2e81a32d,PBB Rajapaksa,6c882e9a,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,Sri Lanka,18,PBB Rajapaksa,6c882e9a,B Kumar,2e81a32d,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,Sri Lanka,19,PBB Rajapaksa,6c882e9a,Arshdeep Singh,244048f6,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,Sri Lanka,19,MD Shanaka,3ff033bb,Arshdeep Singh,244048f6,PBB Rajapaksa,6c882e9a,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,Sri Lanka,19,PBB Rajapaksa,6c882e9a,Arshdeep Singh,244048f6,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,2,0,2
+1327277,2022,Sri Lanka,19,PBB Rajapaksa,6c882e9a,Arshdeep Singh,244048f6,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,1,0,1
+1327277,2022,Sri Lanka,19,MD Shanaka,3ff033bb,Arshdeep Singh,244048f6,PBB Rajapaksa,6c882e9a,0,0,0,2,0,,,,,,0,2,2

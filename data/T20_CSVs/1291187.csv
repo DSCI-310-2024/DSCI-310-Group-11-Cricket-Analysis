@@ -1,0 +1,251 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1291187,2021/22,United States of America,0,MD Patel,25d7f1ac,BJ McCarthy,3766056b,RM Scott,7febdb69,0,0,0,0,0,,,,,,2,0,2
+1291187,2021/22,United States of America,0,MD Patel,25d7f1ac,BJ McCarthy,3766056b,RM Scott,7febdb69,0,0,0,0,1,MD Patel,25d7f1ac,NA Rock,43f4087c,caught,0,0,0
+1291187,2021/22,United States of America,0,XM Marshall,ffb504b1,BJ McCarthy,3766056b,RM Scott,7febdb69,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,United States of America,0,RM Scott,7febdb69,BJ McCarthy,3766056b,XM Marshall,ffb504b1,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,United States of America,0,XM Marshall,ffb504b1,BJ McCarthy,3766056b,RM Scott,7febdb69,0,0,0,0,0,,,,,,0,0,0
+1291187,2021/22,United States of America,0,XM Marshall,ffb504b1,BJ McCarthy,3766056b,RM Scott,7febdb69,0,0,1,0,0,,,,,,0,1,1
+1291187,2021/22,United States of America,1,XM Marshall,ffb504b1,MR Adair,fc55ec67,RM Scott,7febdb69,0,0,0,0,0,,,,,,0,0,0
+1291187,2021/22,United States of America,1,XM Marshall,ffb504b1,MR Adair,fc55ec67,RM Scott,7febdb69,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,United States of America,1,RM Scott,7febdb69,MR Adair,fc55ec67,XM Marshall,ffb504b1,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,United States of America,1,XM Marshall,ffb504b1,MR Adair,fc55ec67,RM Scott,7febdb69,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,United States of America,1,RM Scott,7febdb69,MR Adair,fc55ec67,XM Marshall,ffb504b1,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,United States of America,1,XM Marshall,ffb504b1,MR Adair,fc55ec67,RM Scott,7febdb69,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,United States of America,2,XM Marshall,ffb504b1,BJ McCarthy,3766056b,RM Scott,7febdb69,0,0,0,0,0,,,,,,0,0,0
+1291187,2021/22,United States of America,2,XM Marshall,ffb504b1,BJ McCarthy,3766056b,RM Scott,7febdb69,0,0,0,0,0,,,,,,0,0,0
+1291187,2021/22,United States of America,2,XM Marshall,ffb504b1,BJ McCarthy,3766056b,RM Scott,7febdb69,0,0,0,0,0,,,,,,0,0,0
+1291187,2021/22,United States of America,2,XM Marshall,ffb504b1,BJ McCarthy,3766056b,RM Scott,7febdb69,0,0,0,0,1,XM Marshall,ffb504b1,,,bowled,0,0,0
+1291187,2021/22,United States of America,2,RR Behera,e0672ff4,BJ McCarthy,3766056b,RM Scott,7febdb69,1,0,0,0,0,,,,,,0,1,1
+1291187,2021/22,United States of America,2,RR Behera,e0672ff4,BJ McCarthy,3766056b,RM Scott,7febdb69,0,0,0,0,0,,,,,,0,0,0
+1291187,2021/22,United States of America,2,RR Behera,e0672ff4,BJ McCarthy,3766056b,RM Scott,7febdb69,0,0,0,0,0,,,,,,0,0,0
+1291187,2021/22,United States of America,3,RM Scott,7febdb69,Simi Singh,c9945bdf,RR Behera,e0672ff4,0,0,0,0,0,,,,,,0,0,0
+1291187,2021/22,United States of America,3,RM Scott,7febdb69,Simi Singh,c9945bdf,RR Behera,e0672ff4,0,0,0,0,0,,,,,,0,0,0
+1291187,2021/22,United States of America,3,RM Scott,7febdb69,Simi Singh,c9945bdf,RR Behera,e0672ff4,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,United States of America,3,RR Behera,e0672ff4,Simi Singh,c9945bdf,RM Scott,7febdb69,0,0,0,0,0,,,,,,0,0,0
+1291187,2021/22,United States of America,3,RR Behera,e0672ff4,Simi Singh,c9945bdf,RM Scott,7febdb69,0,0,0,0,1,RR Behera,e0672ff4,,,lbw,0,0,0
+1291187,2021/22,United States of America,3,SJ Modani,290cba17,Simi Singh,c9945bdf,RM Scott,7febdb69,0,0,0,0,0,,,,,,0,0,0
+1291187,2021/22,United States of America,4,RM Scott,7febdb69,BJ McCarthy,3766056b,SJ Modani,290cba17,0,0,0,0,0,,,,,,4,0,4
+1291187,2021/22,United States of America,4,RM Scott,7febdb69,BJ McCarthy,3766056b,SJ Modani,290cba17,0,0,0,0,1,RM Scott,7febdb69,L Tucker,3979b5e0,caught,0,0,0
+1291187,2021/22,United States of America,4,G Singh,e93b6c95,BJ McCarthy,3766056b,SJ Modani,290cba17,0,0,0,0,0,,,,,,0,0,0
+1291187,2021/22,United States of America,4,G Singh,e93b6c95,BJ McCarthy,3766056b,SJ Modani,290cba17,0,0,0,0,0,,,,,,4,0,4
+1291187,2021/22,United States of America,4,G Singh,e93b6c95,BJ McCarthy,3766056b,SJ Modani,290cba17,0,0,0,0,0,,,,,,2,0,2
+1291187,2021/22,United States of America,4,G Singh,e93b6c95,BJ McCarthy,3766056b,SJ Modani,290cba17,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,United States of America,5,G Singh,e93b6c95,Simi Singh,c9945bdf,SJ Modani,290cba17,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,United States of America,5,SJ Modani,290cba17,Simi Singh,c9945bdf,G Singh,e93b6c95,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,United States of America,5,G Singh,e93b6c95,Simi Singh,c9945bdf,SJ Modani,290cba17,0,0,0,0,0,,,,,,0,0,0
+1291187,2021/22,United States of America,5,G Singh,e93b6c95,Simi Singh,c9945bdf,SJ Modani,290cba17,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,United States of America,5,SJ Modani,290cba17,Simi Singh,c9945bdf,G Singh,e93b6c95,0,0,0,0,0,,,,,,0,0,0
+1291187,2021/22,United States of America,5,SJ Modani,290cba17,Simi Singh,c9945bdf,G Singh,e93b6c95,0,0,0,0,0,,,,,,0,0,0
+1291187,2021/22,United States of America,6,G Singh,e93b6c95,C Campher,478a63e7,SJ Modani,290cba17,0,0,0,0,0,,,,,,0,0,0
+1291187,2021/22,United States of America,6,G Singh,e93b6c95,C Campher,478a63e7,SJ Modani,290cba17,0,0,0,0,0,,,,,,0,0,0
+1291187,2021/22,United States of America,6,G Singh,e93b6c95,C Campher,478a63e7,SJ Modani,290cba17,0,0,0,0,0,,,,,,0,0,0
+1291187,2021/22,United States of America,6,G Singh,e93b6c95,C Campher,478a63e7,SJ Modani,290cba17,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,United States of America,6,SJ Modani,290cba17,C Campher,478a63e7,G Singh,e93b6c95,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,United States of America,6,G Singh,e93b6c95,C Campher,478a63e7,SJ Modani,290cba17,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,United States of America,7,G Singh,e93b6c95,B White,1a448be0,SJ Modani,290cba17,0,0,1,0,0,,,,,,0,1,1
+1291187,2021/22,United States of America,7,SJ Modani,290cba17,B White,1a448be0,G Singh,e93b6c95,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,United States of America,7,G Singh,e93b6c95,B White,1a448be0,SJ Modani,290cba17,0,0,0,0,0,,,,,,2,0,2
+1291187,2021/22,United States of America,7,G Singh,e93b6c95,B White,1a448be0,SJ Modani,290cba17,0,0,0,0,0,,,,,,0,0,0
+1291187,2021/22,United States of America,7,G Singh,e93b6c95,B White,1a448be0,SJ Modani,290cba17,0,0,0,0,0,,,,,,0,0,0
+1291187,2021/22,United States of America,7,G Singh,e93b6c95,B White,1a448be0,SJ Modani,290cba17,0,0,0,0,0,,,,,,0,0,0
+1291187,2021/22,United States of America,8,SJ Modani,290cba17,C Campher,478a63e7,G Singh,e93b6c95,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,United States of America,8,G Singh,e93b6c95,C Campher,478a63e7,SJ Modani,290cba17,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,United States of America,8,SJ Modani,290cba17,C Campher,478a63e7,G Singh,e93b6c95,0,0,0,0,0,,,,,,0,0,0
+1291187,2021/22,United States of America,8,SJ Modani,290cba17,C Campher,478a63e7,G Singh,e93b6c95,0,0,0,0,0,,,,,,2,0,2
+1291187,2021/22,United States of America,8,SJ Modani,290cba17,C Campher,478a63e7,G Singh,e93b6c95,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,United States of America,8,G Singh,e93b6c95,C Campher,478a63e7,SJ Modani,290cba17,0,1,0,0,0,,,,,,2,1,3
+1291187,2021/22,United States of America,8,G Singh,e93b6c95,C Campher,478a63e7,SJ Modani,290cba17,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,United States of America,9,G Singh,e93b6c95,B White,1a448be0,SJ Modani,290cba17,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,United States of America,9,SJ Modani,290cba17,B White,1a448be0,G Singh,e93b6c95,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,United States of America,9,G Singh,e93b6c95,B White,1a448be0,SJ Modani,290cba17,5,0,0,0,0,,,,,,0,5,5
+1291187,2021/22,United States of America,9,G Singh,e93b6c95,B White,1a448be0,SJ Modani,290cba17,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,United States of America,9,SJ Modani,290cba17,B White,1a448be0,G Singh,e93b6c95,0,0,0,0,0,,,,,,0,0,0
+1291187,2021/22,United States of America,9,SJ Modani,290cba17,B White,1a448be0,G Singh,e93b6c95,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,United States of America,9,G Singh,e93b6c95,B White,1a448be0,SJ Modani,290cba17,0,0,0,0,0,,,,,,0,0,0
+1291187,2021/22,United States of America,10,SJ Modani,290cba17,MR Adair,fc55ec67,G Singh,e93b6c95,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,United States of America,10,G Singh,e93b6c95,MR Adair,fc55ec67,SJ Modani,290cba17,0,0,1,0,0,,,,,,0,1,1
+1291187,2021/22,United States of America,10,SJ Modani,290cba17,MR Adair,fc55ec67,G Singh,e93b6c95,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,United States of America,10,G Singh,e93b6c95,MR Adair,fc55ec67,SJ Modani,290cba17,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,United States of America,10,SJ Modani,290cba17,MR Adair,fc55ec67,G Singh,e93b6c95,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,United States of America,10,G Singh,e93b6c95,MR Adair,fc55ec67,SJ Modani,290cba17,0,0,0,0,0,,,,,,0,0,0
+1291187,2021/22,United States of America,11,SJ Modani,290cba17,Simi Singh,c9945bdf,G Singh,e93b6c95,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,United States of America,11,G Singh,e93b6c95,Simi Singh,c9945bdf,SJ Modani,290cba17,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,United States of America,11,SJ Modani,290cba17,Simi Singh,c9945bdf,G Singh,e93b6c95,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,United States of America,11,G Singh,e93b6c95,Simi Singh,c9945bdf,SJ Modani,290cba17,0,0,0,0,0,,,,,,6,0,6
+1291187,2021/22,United States of America,11,G Singh,e93b6c95,Simi Singh,c9945bdf,SJ Modani,290cba17,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,United States of America,11,SJ Modani,290cba17,Simi Singh,c9945bdf,G Singh,e93b6c95,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,United States of America,12,SJ Modani,290cba17,C Campher,478a63e7,G Singh,e93b6c95,0,0,0,0,0,,,,,,2,0,2
+1291187,2021/22,United States of America,12,SJ Modani,290cba17,C Campher,478a63e7,G Singh,e93b6c95,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,United States of America,12,G Singh,e93b6c95,C Campher,478a63e7,SJ Modani,290cba17,0,0,0,0,0,,,,,,6,0,6
+1291187,2021/22,United States of America,12,G Singh,e93b6c95,C Campher,478a63e7,SJ Modani,290cba17,1,0,0,0,0,,,,,,0,1,1
+1291187,2021/22,United States of America,12,G Singh,e93b6c95,C Campher,478a63e7,SJ Modani,290cba17,0,0,0,0,0,,,,,,6,0,6
+1291187,2021/22,United States of America,12,G Singh,e93b6c95,C Campher,478a63e7,SJ Modani,290cba17,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,United States of America,12,SJ Modani,290cba17,C Campher,478a63e7,G Singh,e93b6c95,0,0,0,0,0,,,,,,3,0,3
+1291187,2021/22,United States of America,13,SJ Modani,290cba17,B White,1a448be0,G Singh,e93b6c95,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,United States of America,13,G Singh,e93b6c95,B White,1a448be0,SJ Modani,290cba17,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,United States of America,13,SJ Modani,290cba17,B White,1a448be0,G Singh,e93b6c95,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,United States of America,13,G Singh,e93b6c95,B White,1a448be0,SJ Modani,290cba17,0,0,0,0,0,,,,,,6,0,6
+1291187,2021/22,United States of America,13,G Singh,e93b6c95,B White,1a448be0,SJ Modani,290cba17,0,0,4,0,0,,,,,,0,4,4
+1291187,2021/22,United States of America,13,G Singh,e93b6c95,B White,1a448be0,SJ Modani,290cba17,0,0,0,0,0,,,,,,4,0,4
+1291187,2021/22,United States of America,14,SJ Modani,290cba17,Simi Singh,c9945bdf,G Singh,e93b6c95,1,0,0,0,0,,,,,,0,1,1
+1291187,2021/22,United States of America,14,SJ Modani,290cba17,Simi Singh,c9945bdf,G Singh,e93b6c95,0,0,0,0,0,,,,,,4,0,4
+1291187,2021/22,United States of America,14,SJ Modani,290cba17,Simi Singh,c9945bdf,G Singh,e93b6c95,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,United States of America,14,G Singh,e93b6c95,Simi Singh,c9945bdf,SJ Modani,290cba17,0,0,0,0,0,,,,,,4,0,4
+1291187,2021/22,United States of America,14,G Singh,e93b6c95,Simi Singh,c9945bdf,SJ Modani,290cba17,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,United States of America,14,SJ Modani,290cba17,Simi Singh,c9945bdf,G Singh,e93b6c95,0,0,0,0,0,,,,,,0,0,0
+1291187,2021/22,United States of America,14,SJ Modani,290cba17,Simi Singh,c9945bdf,G Singh,e93b6c95,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,United States of America,15,SJ Modani,290cba17,B White,1a448be0,G Singh,e93b6c95,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,United States of America,15,G Singh,e93b6c95,B White,1a448be0,SJ Modani,290cba17,0,0,0,0,0,,,,,,6,0,6
+1291187,2021/22,United States of America,15,G Singh,e93b6c95,B White,1a448be0,SJ Modani,290cba17,0,0,0,0,0,,,,,,2,0,2
+1291187,2021/22,United States of America,15,G Singh,e93b6c95,B White,1a448be0,SJ Modani,290cba17,0,0,0,0,0,,,,,,0,0,0
+1291187,2021/22,United States of America,15,G Singh,e93b6c95,B White,1a448be0,SJ Modani,290cba17,1,0,0,0,0,,,,,,0,1,1
+1291187,2021/22,United States of America,15,G Singh,e93b6c95,B White,1a448be0,SJ Modani,290cba17,0,0,0,0,1,G Singh,e93b6c95,NA Rock,43f4087c,caught,0,0,0
+1291187,2021/22,United States of America,15,MO Kain,60b46ad1,B White,1a448be0,SJ Modani,290cba17,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,United States of America,16,MO Kain,60b46ad1,MR Adair,fc55ec67,SJ Modani,290cba17,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,United States of America,16,SJ Modani,290cba17,MR Adair,fc55ec67,MO Kain,60b46ad1,0,0,0,0,0,,,,,,6,0,6
+1291187,2021/22,United States of America,16,SJ Modani,290cba17,MR Adair,fc55ec67,MO Kain,60b46ad1,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,United States of America,16,MO Kain,60b46ad1,MR Adair,fc55ec67,SJ Modani,290cba17,0,0,0,0,0,,,,,,4,0,4
+1291187,2021/22,United States of America,16,MO Kain,60b46ad1,MR Adair,fc55ec67,SJ Modani,290cba17,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,United States of America,16,SJ Modani,290cba17,MR Adair,fc55ec67,MO Kain,60b46ad1,1,0,0,0,0,,,,,,0,1,1
+1291187,2021/22,United States of America,16,SJ Modani,290cba17,MR Adair,fc55ec67,MO Kain,60b46ad1,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,United States of America,17,SJ Modani,290cba17,C Campher,478a63e7,MO Kain,60b46ad1,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,United States of America,17,MO Kain,60b46ad1,C Campher,478a63e7,SJ Modani,290cba17,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,United States of America,17,SJ Modani,290cba17,C Campher,478a63e7,MO Kain,60b46ad1,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,United States of America,17,MO Kain,60b46ad1,C Campher,478a63e7,SJ Modani,290cba17,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,United States of America,17,SJ Modani,290cba17,C Campher,478a63e7,MO Kain,60b46ad1,0,0,0,0,0,,,,,,4,0,4
+1291187,2021/22,United States of America,17,SJ Modani,290cba17,C Campher,478a63e7,MO Kain,60b46ad1,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,United States of America,18,SJ Modani,290cba17,BJ McCarthy,3766056b,MO Kain,60b46ad1,0,0,0,0,0,,,,,,4,0,4
+1291187,2021/22,United States of America,18,SJ Modani,290cba17,BJ McCarthy,3766056b,MO Kain,60b46ad1,1,0,0,0,0,,,,,,0,1,1
+1291187,2021/22,United States of America,18,SJ Modani,290cba17,BJ McCarthy,3766056b,MO Kain,60b46ad1,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,United States of America,18,MO Kain,60b46ad1,BJ McCarthy,3766056b,SJ Modani,290cba17,0,0,0,0,0,,,,,,6,0,6
+1291187,2021/22,United States of America,18,MO Kain,60b46ad1,BJ McCarthy,3766056b,SJ Modani,290cba17,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,United States of America,18,SJ Modani,290cba17,BJ McCarthy,3766056b,MO Kain,60b46ad1,0,0,0,0,1,SJ Modani,290cba17,Simi Singh,c9945bdf,caught,0,0,0
+1291187,2021/22,United States of America,18,MO Kain,60b46ad1,BJ McCarthy,3766056b,NK Patel,c6e10e5c,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,United States of America,19,MO Kain,60b46ad1,MR Adair,fc55ec67,NK Patel,c6e10e5c,0,0,0,0,0,,,,,,4,0,4
+1291187,2021/22,United States of America,19,MO Kain,60b46ad1,MR Adair,fc55ec67,NK Patel,c6e10e5c,0,0,0,0,0,,,,,,4,0,4
+1291187,2021/22,United States of America,19,MO Kain,60b46ad1,MR Adair,fc55ec67,NK Patel,c6e10e5c,0,0,0,0,0,,,,,,6,0,6
+1291187,2021/22,United States of America,19,MO Kain,60b46ad1,MR Adair,fc55ec67,NK Patel,c6e10e5c,0,0,0,0,0,,,,,,6,0,6
+1291187,2021/22,United States of America,19,MO Kain,60b46ad1,MR Adair,fc55ec67,NK Patel,c6e10e5c,0,0,0,0,0,,,,,,2,0,2
+1291187,2021/22,United States of America,19,MO Kain,60b46ad1,MR Adair,fc55ec67,NK Patel,c6e10e5c,0,0,1,0,0,,,,,,0,1,1
+1291187,2021/22,Ireland,0,PR Stirling,cf494ffe,SN Netravalkar,c8a3f688,A Balbirnie,6ef13460,0,0,0,0,0,,,,,,0,0,0
+1291187,2021/22,Ireland,0,PR Stirling,cf494ffe,SN Netravalkar,c8a3f688,A Balbirnie,6ef13460,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,Ireland,0,A Balbirnie,6ef13460,SN Netravalkar,c8a3f688,PR Stirling,cf494ffe,0,0,0,0,0,,,,,,4,0,4
+1291187,2021/22,Ireland,0,A Balbirnie,6ef13460,SN Netravalkar,c8a3f688,PR Stirling,cf494ffe,0,0,0,0,0,,,,,,0,0,0
+1291187,2021/22,Ireland,0,A Balbirnie,6ef13460,SN Netravalkar,c8a3f688,PR Stirling,cf494ffe,0,0,0,0,0,,,,,,0,0,0
+1291187,2021/22,Ireland,0,A Balbirnie,6ef13460,SN Netravalkar,c8a3f688,PR Stirling,cf494ffe,0,0,0,0,0,,,,,,0,0,0
+1291187,2021/22,Ireland,1,PR Stirling,cf494ffe,Ali Khan,b0eaaac6,A Balbirnie,6ef13460,0,0,0,0,0,,,,,,2,0,2
+1291187,2021/22,Ireland,1,PR Stirling,cf494ffe,Ali Khan,b0eaaac6,A Balbirnie,6ef13460,0,0,0,0,0,,,,,,4,0,4
+1291187,2021/22,Ireland,1,PR Stirling,cf494ffe,Ali Khan,b0eaaac6,A Balbirnie,6ef13460,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,Ireland,1,A Balbirnie,6ef13460,Ali Khan,b0eaaac6,PR Stirling,cf494ffe,0,0,0,0,1,A Balbirnie,6ef13460,Yasir Mohammad,fe5175ce,caught,0,0,0
+1291187,2021/22,Ireland,1,L Tucker,3979b5e0,Ali Khan,b0eaaac6,PR Stirling,cf494ffe,0,0,0,0,0,,,,,,0,0,0
+1291187,2021/22,Ireland,1,L Tucker,3979b5e0,Ali Khan,b0eaaac6,PR Stirling,cf494ffe,0,0,0,0,0,,,,,,0,0,0
+1291187,2021/22,Ireland,2,PR Stirling,cf494ffe,MO Kain,60b46ad1,L Tucker,3979b5e0,0,0,0,0,0,,,,,,0,0,0
+1291187,2021/22,Ireland,2,PR Stirling,cf494ffe,MO Kain,60b46ad1,L Tucker,3979b5e0,0,0,0,0,0,,,,,,4,0,4
+1291187,2021/22,Ireland,2,PR Stirling,cf494ffe,MO Kain,60b46ad1,L Tucker,3979b5e0,0,0,0,0,0,,,,,,4,0,4
+1291187,2021/22,Ireland,2,PR Stirling,cf494ffe,MO Kain,60b46ad1,L Tucker,3979b5e0,0,0,0,0,0,,,,,,2,0,2
+1291187,2021/22,Ireland,2,PR Stirling,cf494ffe,MO Kain,60b46ad1,L Tucker,3979b5e0,0,0,0,0,0,,,,,,4,0,4
+1291187,2021/22,Ireland,2,PR Stirling,cf494ffe,MO Kain,60b46ad1,L Tucker,3979b5e0,0,0,0,0,0,,,,,,0,0,0
+1291187,2021/22,Ireland,3,L Tucker,3979b5e0,Ali Khan,b0eaaac6,PR Stirling,cf494ffe,1,0,0,0,0,,,,,,0,1,1
+1291187,2021/22,Ireland,3,L Tucker,3979b5e0,Ali Khan,b0eaaac6,PR Stirling,cf494ffe,0,0,0,0,0,,,,,,0,0,0
+1291187,2021/22,Ireland,3,L Tucker,3979b5e0,Ali Khan,b0eaaac6,PR Stirling,cf494ffe,0,0,0,0,0,,,,,,0,0,0
+1291187,2021/22,Ireland,3,L Tucker,3979b5e0,Ali Khan,b0eaaac6,PR Stirling,cf494ffe,0,0,0,0,0,,,,,,4,0,4
+1291187,2021/22,Ireland,3,L Tucker,3979b5e0,Ali Khan,b0eaaac6,PR Stirling,cf494ffe,0,0,0,0,0,,,,,,0,0,0
+1291187,2021/22,Ireland,3,L Tucker,3979b5e0,Ali Khan,b0eaaac6,PR Stirling,cf494ffe,0,0,0,0,0,,,,,,0,0,0
+1291187,2021/22,Ireland,3,L Tucker,3979b5e0,Ali Khan,b0eaaac6,PR Stirling,cf494ffe,0,0,0,0,0,,,,,,0,0,0
+1291187,2021/22,Ireland,4,PR Stirling,cf494ffe,SN Netravalkar,c8a3f688,L Tucker,3979b5e0,0,0,0,0,0,,,,,,4,0,4
+1291187,2021/22,Ireland,4,PR Stirling,cf494ffe,SN Netravalkar,c8a3f688,L Tucker,3979b5e0,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,Ireland,4,L Tucker,3979b5e0,SN Netravalkar,c8a3f688,PR Stirling,cf494ffe,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,Ireland,4,PR Stirling,cf494ffe,SN Netravalkar,c8a3f688,L Tucker,3979b5e0,0,0,0,0,0,,,,,,4,0,4
+1291187,2021/22,Ireland,4,PR Stirling,cf494ffe,SN Netravalkar,c8a3f688,L Tucker,3979b5e0,0,0,0,0,1,PR Stirling,cf494ffe,,,bowled,0,0,0
+1291187,2021/22,Ireland,4,C Campher,478a63e7,SN Netravalkar,c8a3f688,L Tucker,3979b5e0,0,0,1,0,0,,,,,,0,1,1
+1291187,2021/22,Ireland,5,C Campher,478a63e7,Yasir Mohammad,fe5175ce,L Tucker,3979b5e0,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,Ireland,5,L Tucker,3979b5e0,Yasir Mohammad,fe5175ce,C Campher,478a63e7,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,Ireland,5,C Campher,478a63e7,Yasir Mohammad,fe5175ce,L Tucker,3979b5e0,0,0,0,0,0,,,,,,4,0,4
+1291187,2021/22,Ireland,5,C Campher,478a63e7,Yasir Mohammad,fe5175ce,L Tucker,3979b5e0,0,0,0,0,0,,,,,,2,0,2
+1291187,2021/22,Ireland,5,C Campher,478a63e7,Yasir Mohammad,fe5175ce,L Tucker,3979b5e0,0,0,0,0,0,,,,,,2,0,2
+1291187,2021/22,Ireland,5,C Campher,478a63e7,Yasir Mohammad,fe5175ce,L Tucker,3979b5e0,0,0,0,0,0,,,,,,2,0,2
+1291187,2021/22,Ireland,6,L Tucker,3979b5e0,MO Kain,60b46ad1,C Campher,478a63e7,0,0,0,0,0,,,,,,4,0,4
+1291187,2021/22,Ireland,6,L Tucker,3979b5e0,MO Kain,60b46ad1,C Campher,478a63e7,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,Ireland,6,C Campher,478a63e7,MO Kain,60b46ad1,L Tucker,3979b5e0,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,Ireland,6,L Tucker,3979b5e0,MO Kain,60b46ad1,C Campher,478a63e7,0,0,0,0,0,,,,,,0,0,0
+1291187,2021/22,Ireland,6,L Tucker,3979b5e0,MO Kain,60b46ad1,C Campher,478a63e7,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,Ireland,6,C Campher,478a63e7,MO Kain,60b46ad1,L Tucker,3979b5e0,0,0,0,0,0,,,,,,0,0,0
+1291187,2021/22,Ireland,7,L Tucker,3979b5e0,NK Patel,c6e10e5c,C Campher,478a63e7,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,Ireland,7,C Campher,478a63e7,NK Patel,c6e10e5c,L Tucker,3979b5e0,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,Ireland,7,L Tucker,3979b5e0,NK Patel,c6e10e5c,C Campher,478a63e7,0,0,0,0,0,,,,,,3,0,3
+1291187,2021/22,Ireland,7,C Campher,478a63e7,NK Patel,c6e10e5c,L Tucker,3979b5e0,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,Ireland,7,L Tucker,3979b5e0,NK Patel,c6e10e5c,C Campher,478a63e7,0,0,0,0,0,,,,,,0,0,0
+1291187,2021/22,Ireland,7,L Tucker,3979b5e0,NK Patel,c6e10e5c,C Campher,478a63e7,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,Ireland,8,L Tucker,3979b5e0,MO Kain,60b46ad1,C Campher,478a63e7,0,0,0,0,0,,,,,,0,0,0
+1291187,2021/22,Ireland,8,L Tucker,3979b5e0,MO Kain,60b46ad1,C Campher,478a63e7,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,Ireland,8,C Campher,478a63e7,MO Kain,60b46ad1,L Tucker,3979b5e0,0,0,1,0,0,,,,,,0,1,1
+1291187,2021/22,Ireland,8,L Tucker,3979b5e0,MO Kain,60b46ad1,C Campher,478a63e7,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,Ireland,8,C Campher,478a63e7,MO Kain,60b46ad1,L Tucker,3979b5e0,0,0,0,0,0,,,,,,2,0,2
+1291187,2021/22,Ireland,8,C Campher,478a63e7,MO Kain,60b46ad1,L Tucker,3979b5e0,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,Ireland,9,C Campher,478a63e7,NK Patel,c6e10e5c,L Tucker,3979b5e0,0,0,0,0,0,,,,,,0,0,0
+1291187,2021/22,Ireland,9,C Campher,478a63e7,NK Patel,c6e10e5c,L Tucker,3979b5e0,0,0,0,0,1,C Campher,478a63e7,MD Patel,25d7f1ac,stumped,0,0,0
+1291187,2021/22,Ireland,9,SC Getkate,c8065f31,NK Patel,c6e10e5c,L Tucker,3979b5e0,0,0,0,0,0,,,,,,0,0,0
+1291187,2021/22,Ireland,9,SC Getkate,c8065f31,NK Patel,c6e10e5c,L Tucker,3979b5e0,0,0,0,0,0,,,,,,0,0,0
+1291187,2021/22,Ireland,9,SC Getkate,c8065f31,NK Patel,c6e10e5c,L Tucker,3979b5e0,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,Ireland,9,L Tucker,3979b5e0,NK Patel,c6e10e5c,SC Getkate,c8065f31,0,0,0,0,0,,,,,,0,0,0
+1291187,2021/22,Ireland,10,SC Getkate,c8065f31,MO Kain,60b46ad1,L Tucker,3979b5e0,0,0,0,0,0,,,,,,0,0,0
+1291187,2021/22,Ireland,10,SC Getkate,c8065f31,MO Kain,60b46ad1,L Tucker,3979b5e0,0,0,0,0,0,,,,,,6,0,6
+1291187,2021/22,Ireland,10,SC Getkate,c8065f31,MO Kain,60b46ad1,L Tucker,3979b5e0,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,Ireland,10,L Tucker,3979b5e0,MO Kain,60b46ad1,SC Getkate,c8065f31,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,Ireland,10,SC Getkate,c8065f31,MO Kain,60b46ad1,L Tucker,3979b5e0,0,0,0,0,0,,,,,,2,0,2
+1291187,2021/22,Ireland,10,SC Getkate,c8065f31,MO Kain,60b46ad1,L Tucker,3979b5e0,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,Ireland,11,SC Getkate,c8065f31,NK Patel,c6e10e5c,L Tucker,3979b5e0,0,0,0,0,0,,,,,,0,0,0
+1291187,2021/22,Ireland,11,SC Getkate,c8065f31,NK Patel,c6e10e5c,L Tucker,3979b5e0,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,Ireland,11,L Tucker,3979b5e0,NK Patel,c6e10e5c,SC Getkate,c8065f31,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,Ireland,11,SC Getkate,c8065f31,NK Patel,c6e10e5c,L Tucker,3979b5e0,0,0,0,0,0,,,,,,6,0,6
+1291187,2021/22,Ireland,11,SC Getkate,c8065f31,NK Patel,c6e10e5c,L Tucker,3979b5e0,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,Ireland,11,L Tucker,3979b5e0,NK Patel,c6e10e5c,SC Getkate,c8065f31,0,0,0,0,0,,,,,,2,0,2
+1291187,2021/22,Ireland,12,SC Getkate,c8065f31,SN Netravalkar,c8a3f688,L Tucker,3979b5e0,0,0,0,0,1,SC Getkate,c8065f31,RR Behera,e0672ff4,caught,0,0,0
+1291187,2021/22,Ireland,12,L Tucker,3979b5e0,SN Netravalkar,c8a3f688,NA Rock,43f4087c,0,0,0,0,0,,,,,,0,0,0
+1291187,2021/22,Ireland,12,L Tucker,3979b5e0,SN Netravalkar,c8a3f688,NA Rock,43f4087c,0,0,0,0,0,,,,,,0,0,0
+1291187,2021/22,Ireland,12,L Tucker,3979b5e0,SN Netravalkar,c8a3f688,NA Rock,43f4087c,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,Ireland,12,NA Rock,43f4087c,SN Netravalkar,c8a3f688,L Tucker,3979b5e0,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,Ireland,12,L Tucker,3979b5e0,SN Netravalkar,c8a3f688,NA Rock,43f4087c,0,0,0,0,0,,,,,,6,0,6
+1291187,2021/22,Ireland,13,NA Rock,43f4087c,NK Patel,c6e10e5c,L Tucker,3979b5e0,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,Ireland,13,L Tucker,3979b5e0,NK Patel,c6e10e5c,NA Rock,43f4087c,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,Ireland,13,NA Rock,43f4087c,NK Patel,c6e10e5c,L Tucker,3979b5e0,0,0,0,0,0,,,,,,4,0,4
+1291187,2021/22,Ireland,13,NA Rock,43f4087c,NK Patel,c6e10e5c,L Tucker,3979b5e0,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,Ireland,13,L Tucker,3979b5e0,NK Patel,c6e10e5c,NA Rock,43f4087c,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,Ireland,13,NA Rock,43f4087c,NK Patel,c6e10e5c,L Tucker,3979b5e0,0,0,0,0,1,NA Rock,43f4087c,RR Behera,e0672ff4,caught,0,0,0
+1291187,2021/22,Ireland,14,L Tucker,3979b5e0,SN Netravalkar,c8a3f688,W McClintock,b16ddb79,0,0,0,0,0,,,,,,0,0,0
+1291187,2021/22,Ireland,14,L Tucker,3979b5e0,SN Netravalkar,c8a3f688,W McClintock,b16ddb79,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,Ireland,14,W McClintock,b16ddb79,SN Netravalkar,c8a3f688,L Tucker,3979b5e0,0,0,1,0,0,,,,,,0,1,1
+1291187,2021/22,Ireland,14,L Tucker,3979b5e0,SN Netravalkar,c8a3f688,W McClintock,b16ddb79,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,Ireland,14,W McClintock,b16ddb79,SN Netravalkar,c8a3f688,L Tucker,3979b5e0,0,0,0,0,0,,,,,,0,0,0
+1291187,2021/22,Ireland,14,W McClintock,b16ddb79,SN Netravalkar,c8a3f688,L Tucker,3979b5e0,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,Ireland,15,W McClintock,b16ddb79,Yasir Mohammad,fe5175ce,L Tucker,3979b5e0,0,0,0,0,0,,,,,,2,0,2
+1291187,2021/22,Ireland,15,W McClintock,b16ddb79,Yasir Mohammad,fe5175ce,L Tucker,3979b5e0,0,0,0,0,0,,,,,,2,0,2
+1291187,2021/22,Ireland,15,W McClintock,b16ddb79,Yasir Mohammad,fe5175ce,L Tucker,3979b5e0,0,0,0,0,0,,,,,,0,0,0
+1291187,2021/22,Ireland,15,W McClintock,b16ddb79,Yasir Mohammad,fe5175ce,L Tucker,3979b5e0,0,0,0,0,0,,,,,,0,0,0
+1291187,2021/22,Ireland,15,W McClintock,b16ddb79,Yasir Mohammad,fe5175ce,L Tucker,3979b5e0,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,Ireland,15,L Tucker,3979b5e0,Yasir Mohammad,fe5175ce,W McClintock,b16ddb79,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,Ireland,16,L Tucker,3979b5e0,Ali Khan,b0eaaac6,W McClintock,b16ddb79,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,Ireland,16,W McClintock,b16ddb79,Ali Khan,b0eaaac6,L Tucker,3979b5e0,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,Ireland,16,L Tucker,3979b5e0,Ali Khan,b0eaaac6,W McClintock,b16ddb79,0,0,0,0,0,,,,,,4,0,4
+1291187,2021/22,Ireland,16,L Tucker,3979b5e0,Ali Khan,b0eaaac6,W McClintock,b16ddb79,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,Ireland,16,W McClintock,b16ddb79,Ali Khan,b0eaaac6,L Tucker,3979b5e0,0,0,0,1,0,,,,,,0,1,1
+1291187,2021/22,Ireland,16,L Tucker,3979b5e0,Ali Khan,b0eaaac6,W McClintock,b16ddb79,0,0,0,0,0,,,,,,2,0,2
+1291187,2021/22,Ireland,17,W McClintock,b16ddb79,Yasir Mohammad,fe5175ce,L Tucker,3979b5e0,1,0,0,0,0,,,,,,0,1,1
+1291187,2021/22,Ireland,17,W McClintock,b16ddb79,Yasir Mohammad,fe5175ce,L Tucker,3979b5e0,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,Ireland,17,L Tucker,3979b5e0,Yasir Mohammad,fe5175ce,W McClintock,b16ddb79,0,0,0,0,0,,,,,,0,0,0
+1291187,2021/22,Ireland,17,L Tucker,3979b5e0,Yasir Mohammad,fe5175ce,W McClintock,b16ddb79,0,0,1,0,0,,,,,,0,1,1
+1291187,2021/22,Ireland,17,W McClintock,b16ddb79,Yasir Mohammad,fe5175ce,L Tucker,3979b5e0,0,0,0,0,0,,,,,,0,0,0
+1291187,2021/22,Ireland,17,W McClintock,b16ddb79,Yasir Mohammad,fe5175ce,L Tucker,3979b5e0,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,Ireland,17,L Tucker,3979b5e0,Yasir Mohammad,fe5175ce,W McClintock,b16ddb79,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,Ireland,18,L Tucker,3979b5e0,Ali Khan,b0eaaac6,W McClintock,b16ddb79,0,0,0,0,0,,,,,,2,0,2
+1291187,2021/22,Ireland,18,L Tucker,3979b5e0,Ali Khan,b0eaaac6,W McClintock,b16ddb79,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,Ireland,18,W McClintock,b16ddb79,Ali Khan,b0eaaac6,L Tucker,3979b5e0,0,0,0,0,1,W McClintock,b16ddb79,,,bowled,0,0,0
+1291187,2021/22,Ireland,18,MR Adair,fc55ec67,Ali Khan,b0eaaac6,L Tucker,3979b5e0,0,0,1,0,0,,,,,,0,1,1
+1291187,2021/22,Ireland,18,L Tucker,3979b5e0,Ali Khan,b0eaaac6,MR Adair,fc55ec67,0,0,0,0,0,,,,,,6,0,6
+1291187,2021/22,Ireland,18,L Tucker,3979b5e0,Ali Khan,b0eaaac6,MR Adair,fc55ec67,0,0,1,0,0,,,,,,0,1,1
+1291187,2021/22,Ireland,19,L Tucker,3979b5e0,Yasir Mohammad,fe5175ce,MR Adair,fc55ec67,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,Ireland,19,MR Adair,fc55ec67,Yasir Mohammad,fe5175ce,L Tucker,3979b5e0,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,Ireland,19,L Tucker,3979b5e0,Yasir Mohammad,fe5175ce,MR Adair,fc55ec67,0,0,0,0,0,,,,,,2,0,2
+1291187,2021/22,Ireland,19,L Tucker,3979b5e0,Yasir Mohammad,fe5175ce,MR Adair,fc55ec67,0,0,0,0,0,,,,,,1,0,1
+1291187,2021/22,Ireland,19,MR Adair,fc55ec67,Yasir Mohammad,fe5175ce,L Tucker,3979b5e0,0,0,0,0,0,,,,,,2,0,2
+1291187,2021/22,Ireland,19,MR Adair,fc55ec67,Yasir Mohammad,fe5175ce,L Tucker,3979b5e0,0,0,0,0,0,,,,,,6,0,6

@@ -1,0 +1,258 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1317150,2022,West Indies,0,BA King,7fca84b7,Taskin Ahmed,ef18b66e,KR Mayers,73c18486,0,0,0,0,0,,,,,,0,0,0
+1317150,2022,West Indies,0,BA King,7fca84b7,Taskin Ahmed,ef18b66e,KR Mayers,73c18486,0,0,0,0,0,,,,,,1,0,1
+1317150,2022,West Indies,0,KR Mayers,73c18486,Taskin Ahmed,ef18b66e,BA King,7fca84b7,0,0,0,0,0,,,,,,4,0,4
+1317150,2022,West Indies,0,KR Mayers,73c18486,Taskin Ahmed,ef18b66e,BA King,7fca84b7,0,0,0,0,0,,,,,,2,0,2
+1317150,2022,West Indies,0,KR Mayers,73c18486,Taskin Ahmed,ef18b66e,BA King,7fca84b7,0,0,0,0,0,,,,,,6,0,6
+1317150,2022,West Indies,0,KR Mayers,73c18486,Taskin Ahmed,ef18b66e,BA King,7fca84b7,0,0,0,0,0,,,,,,1,0,1
+1317150,2022,West Indies,1,KR Mayers,73c18486,Mahedi Hasan,9dad0f2e,BA King,7fca84b7,0,0,0,0,0,,,,,,4,0,4
+1317150,2022,West Indies,1,KR Mayers,73c18486,Mahedi Hasan,9dad0f2e,BA King,7fca84b7,0,0,0,0,0,,,,,,0,0,0
+1317150,2022,West Indies,1,KR Mayers,73c18486,Mahedi Hasan,9dad0f2e,BA King,7fca84b7,0,0,0,0,0,,,,,,0,0,0
+1317150,2022,West Indies,1,KR Mayers,73c18486,Mahedi Hasan,9dad0f2e,BA King,7fca84b7,0,0,0,0,0,,,,,,0,0,0
+1317150,2022,West Indies,1,KR Mayers,73c18486,Mahedi Hasan,9dad0f2e,BA King,7fca84b7,0,0,0,0,1,KR Mayers,73c18486,,,bowled,0,0,0
+1317150,2022,West Indies,1,SSJ Brooks,977b841a,Mahedi Hasan,9dad0f2e,BA King,7fca84b7,0,0,0,0,0,,,,,,0,0,0
+1317150,2022,West Indies,2,BA King,7fca84b7,Mustafizur Rahman,0a8fce53,SSJ Brooks,977b841a,0,0,0,0,0,,,,,,0,0,0
+1317150,2022,West Indies,2,BA King,7fca84b7,Mustafizur Rahman,0a8fce53,SSJ Brooks,977b841a,0,0,0,0,0,,,,,,0,0,0
+1317150,2022,West Indies,2,BA King,7fca84b7,Mustafizur Rahman,0a8fce53,SSJ Brooks,977b841a,0,0,0,0,0,,,,,,0,0,0
+1317150,2022,West Indies,2,BA King,7fca84b7,Mustafizur Rahman,0a8fce53,SSJ Brooks,977b841a,0,0,0,0,0,,,,,,0,0,0
+1317150,2022,West Indies,2,BA King,7fca84b7,Mustafizur Rahman,0a8fce53,SSJ Brooks,977b841a,0,0,0,0,0,,,,,,4,0,4
+1317150,2022,West Indies,2,BA King,7fca84b7,Mustafizur Rahman,0a8fce53,SSJ Brooks,977b841a,0,0,0,0,0,,,,,,4,0,4
+1317150,2022,West Indies,3,SSJ Brooks,977b841a,Shakib Al Hasan,7dc35884,BA King,7fca84b7,0,0,0,0,0,,,,,,0,0,0
+1317150,2022,West Indies,3,SSJ Brooks,977b841a,Shakib Al Hasan,7dc35884,BA King,7fca84b7,0,0,0,0,1,SSJ Brooks,977b841a,Mahmudullah,bf1d7d3e,caught,0,0,0
+1317150,2022,West Indies,3,BA King,7fca84b7,Shakib Al Hasan,7dc35884,N Pooran,3241e3fd,0,0,0,0,0,,,,,,0,0,0
+1317150,2022,West Indies,3,BA King,7fca84b7,Shakib Al Hasan,7dc35884,N Pooran,3241e3fd,0,0,0,0,0,,,,,,0,0,0
+1317150,2022,West Indies,3,BA King,7fca84b7,Shakib Al Hasan,7dc35884,N Pooran,3241e3fd,0,0,0,0,0,,,,,,1,0,1
+1317150,2022,West Indies,3,N Pooran,3241e3fd,Shakib Al Hasan,7dc35884,BA King,7fca84b7,0,0,0,0,0,,,,,,0,0,0
+1317150,2022,West Indies,4,BA King,7fca84b7,Shoriful Islam,bb34fd31,N Pooran,3241e3fd,0,0,0,0,0,,,,,,0,0,0
+1317150,2022,West Indies,4,BA King,7fca84b7,Shoriful Islam,bb34fd31,N Pooran,3241e3fd,0,0,0,0,0,,,,,,4,0,4
+1317150,2022,West Indies,4,BA King,7fca84b7,Shoriful Islam,bb34fd31,N Pooran,3241e3fd,0,0,0,0,0,,,,,,4,0,4
+1317150,2022,West Indies,4,BA King,7fca84b7,Shoriful Islam,bb34fd31,N Pooran,3241e3fd,0,0,0,0,0,,,,,,1,0,1
+1317150,2022,West Indies,4,N Pooran,3241e3fd,Shoriful Islam,bb34fd31,BA King,7fca84b7,0,0,0,0,0,,,,,,2,0,2
+1317150,2022,West Indies,4,N Pooran,3241e3fd,Shoriful Islam,bb34fd31,BA King,7fca84b7,0,0,0,0,0,,,,,,0,0,0
+1317150,2022,West Indies,5,BA King,7fca84b7,Mahedi Hasan,9dad0f2e,N Pooran,3241e3fd,0,0,0,0,0,,,,,,1,0,1
+1317150,2022,West Indies,5,N Pooran,3241e3fd,Mahedi Hasan,9dad0f2e,BA King,7fca84b7,0,0,0,0,0,,,,,,0,0,0
+1317150,2022,West Indies,5,N Pooran,3241e3fd,Mahedi Hasan,9dad0f2e,BA King,7fca84b7,0,0,0,0,0,,,,,,0,0,0
+1317150,2022,West Indies,5,N Pooran,3241e3fd,Mahedi Hasan,9dad0f2e,BA King,7fca84b7,1,0,0,0,0,,,,,,0,1,1
+1317150,2022,West Indies,5,N Pooran,3241e3fd,Mahedi Hasan,9dad0f2e,BA King,7fca84b7,0,0,0,0,0,,,,,,4,0,4
+1317150,2022,West Indies,5,N Pooran,3241e3fd,Mahedi Hasan,9dad0f2e,BA King,7fca84b7,0,0,0,0,0,,,,,,0,0,0
+1317150,2022,West Indies,5,N Pooran,3241e3fd,Mahedi Hasan,9dad0f2e,BA King,7fca84b7,0,0,0,0,0,,,,,,2,0,2
+1317150,2022,West Indies,6,BA King,7fca84b7,Taskin Ahmed,ef18b66e,N Pooran,3241e3fd,0,0,0,0,0,,,,,,1,0,1
+1317150,2022,West Indies,6,N Pooran,3241e3fd,Taskin Ahmed,ef18b66e,BA King,7fca84b7,0,0,0,0,0,,,,,,6,0,6
+1317150,2022,West Indies,6,N Pooran,3241e3fd,Taskin Ahmed,ef18b66e,BA King,7fca84b7,0,0,0,0,0,,,,,,2,0,2
+1317150,2022,West Indies,6,N Pooran,3241e3fd,Taskin Ahmed,ef18b66e,BA King,7fca84b7,0,0,0,0,0,,,,,,1,0,1
+1317150,2022,West Indies,6,BA King,7fca84b7,Taskin Ahmed,ef18b66e,N Pooran,3241e3fd,0,0,0,0,0,,,,,,0,0,0
+1317150,2022,West Indies,6,BA King,7fca84b7,Taskin Ahmed,ef18b66e,N Pooran,3241e3fd,0,0,0,0,0,,,,,,1,0,1
+1317150,2022,West Indies,7,BA King,7fca84b7,Mahedi Hasan,9dad0f2e,N Pooran,3241e3fd,0,0,0,0,0,,,,,,1,0,1
+1317150,2022,West Indies,7,N Pooran,3241e3fd,Mahedi Hasan,9dad0f2e,BA King,7fca84b7,0,0,0,0,0,,,,,,4,0,4
+1317150,2022,West Indies,7,N Pooran,3241e3fd,Mahedi Hasan,9dad0f2e,BA King,7fca84b7,0,0,0,0,0,,,,,,0,0,0
+1317150,2022,West Indies,7,N Pooran,3241e3fd,Mahedi Hasan,9dad0f2e,BA King,7fca84b7,0,0,0,0,0,,,,,,1,0,1
+1317150,2022,West Indies,7,BA King,7fca84b7,Mahedi Hasan,9dad0f2e,N Pooran,3241e3fd,0,0,0,0,0,,,,,,3,0,3
+1317150,2022,West Indies,7,N Pooran,3241e3fd,Mahedi Hasan,9dad0f2e,BA King,7fca84b7,0,0,0,0,0,,,,,,0,0,0
+1317150,2022,West Indies,8,BA King,7fca84b7,Mustafizur Rahman,0a8fce53,N Pooran,3241e3fd,0,0,0,0,0,,,,,,1,0,1
+1317150,2022,West Indies,8,N Pooran,3241e3fd,Mustafizur Rahman,0a8fce53,BA King,7fca84b7,0,0,0,0,0,,,,,,1,0,1
+1317150,2022,West Indies,8,BA King,7fca84b7,Mustafizur Rahman,0a8fce53,N Pooran,3241e3fd,0,0,0,0,0,,,,,,2,0,2
+1317150,2022,West Indies,8,BA King,7fca84b7,Mustafizur Rahman,0a8fce53,N Pooran,3241e3fd,0,0,0,0,0,,,,,,4,0,4
+1317150,2022,West Indies,8,BA King,7fca84b7,Mustafizur Rahman,0a8fce53,N Pooran,3241e3fd,0,0,0,0,0,,,,,,0,0,0
+1317150,2022,West Indies,8,BA King,7fca84b7,Mustafizur Rahman,0a8fce53,N Pooran,3241e3fd,0,0,0,0,0,,,,,,1,0,1
+1317150,2022,West Indies,9,BA King,7fca84b7,Mahedi Hasan,9dad0f2e,N Pooran,3241e3fd,0,0,0,0,0,,,,,,0,0,0
+1317150,2022,West Indies,9,BA King,7fca84b7,Mahedi Hasan,9dad0f2e,N Pooran,3241e3fd,0,0,0,0,0,,,,,,1,0,1
+1317150,2022,West Indies,9,N Pooran,3241e3fd,Mahedi Hasan,9dad0f2e,BA King,7fca84b7,0,0,0,0,0,,,,,,1,0,1
+1317150,2022,West Indies,9,BA King,7fca84b7,Mahedi Hasan,9dad0f2e,N Pooran,3241e3fd,0,0,0,0,0,,,,,,6,0,6
+1317150,2022,West Indies,9,BA King,7fca84b7,Mahedi Hasan,9dad0f2e,N Pooran,3241e3fd,0,0,0,0,0,,,,,,1,0,1
+1317150,2022,West Indies,9,N Pooran,3241e3fd,Mahedi Hasan,9dad0f2e,BA King,7fca84b7,0,0,0,0,0,,,,,,1,0,1
+1317150,2022,West Indies,10,N Pooran,3241e3fd,Shoriful Islam,bb34fd31,BA King,7fca84b7,0,0,0,0,0,,,,,,4,0,4
+1317150,2022,West Indies,10,N Pooran,3241e3fd,Shoriful Islam,bb34fd31,BA King,7fca84b7,1,0,0,0,0,,,,,,0,1,1
+1317150,2022,West Indies,10,N Pooran,3241e3fd,Shoriful Islam,bb34fd31,BA King,7fca84b7,1,0,0,0,0,,,,,,0,1,1
+1317150,2022,West Indies,10,N Pooran,3241e3fd,Shoriful Islam,bb34fd31,BA King,7fca84b7,0,0,0,0,0,,,,,,0,0,0
+1317150,2022,West Indies,10,N Pooran,3241e3fd,Shoriful Islam,bb34fd31,BA King,7fca84b7,0,0,0,0,0,,,,,,1,0,1
+1317150,2022,West Indies,10,BA King,7fca84b7,Shoriful Islam,bb34fd31,N Pooran,3241e3fd,0,0,0,0,0,,,,,,0,0,0
+1317150,2022,West Indies,10,BA King,7fca84b7,Shoriful Islam,bb34fd31,N Pooran,3241e3fd,0,0,0,0,0,,,,,,1,0,1
+1317150,2022,West Indies,10,N Pooran,3241e3fd,Shoriful Islam,bb34fd31,BA King,7fca84b7,0,0,0,0,0,,,,,,1,0,1
+1317150,2022,West Indies,11,N Pooran,3241e3fd,Shakib Al Hasan,7dc35884,BA King,7fca84b7,0,0,0,0,0,,,,,,0,0,0
+1317150,2022,West Indies,11,N Pooran,3241e3fd,Shakib Al Hasan,7dc35884,BA King,7fca84b7,0,0,0,0,0,,,,,,0,0,0
+1317150,2022,West Indies,11,N Pooran,3241e3fd,Shakib Al Hasan,7dc35884,BA King,7fca84b7,0,1,0,0,0,,,,,,1,1,2
+1317150,2022,West Indies,11,BA King,7fca84b7,Shakib Al Hasan,7dc35884,N Pooran,3241e3fd,0,0,0,0,0,,,,,,1,0,1
+1317150,2022,West Indies,11,N Pooran,3241e3fd,Shakib Al Hasan,7dc35884,BA King,7fca84b7,0,0,0,0,0,,,,,,1,0,1
+1317150,2022,West Indies,11,BA King,7fca84b7,Shakib Al Hasan,7dc35884,N Pooran,3241e3fd,0,0,0,0,0,,,,,,1,0,1
+1317150,2022,West Indies,11,N Pooran,3241e3fd,Shakib Al Hasan,7dc35884,BA King,7fca84b7,0,0,0,0,0,,,,,,1,0,1
+1317150,2022,West Indies,12,N Pooran,3241e3fd,Mosaddek Hossain,8919756f,BA King,7fca84b7,0,0,0,0,0,,,,,,0,0,0
+1317150,2022,West Indies,12,N Pooran,3241e3fd,Mosaddek Hossain,8919756f,BA King,7fca84b7,0,0,0,0,0,,,,,,0,0,0
+1317150,2022,West Indies,12,N Pooran,3241e3fd,Mosaddek Hossain,8919756f,BA King,7fca84b7,0,0,0,0,1,N Pooran,3241e3fd,,,lbw,0,0,0
+1317150,2022,West Indies,12,R Powell,650d5e49,Mosaddek Hossain,8919756f,BA King,7fca84b7,0,0,0,0,0,,,,,,0,0,0
+1317150,2022,West Indies,12,R Powell,650d5e49,Mosaddek Hossain,8919756f,BA King,7fca84b7,0,0,0,0,0,,,,,,0,0,0
+1317150,2022,West Indies,12,R Powell,650d5e49,Mosaddek Hossain,8919756f,BA King,7fca84b7,0,0,0,0,0,,,,,,0,0,0
+1317150,2022,West Indies,13,BA King,7fca84b7,Shakib Al Hasan,7dc35884,R Powell,650d5e49,0,0,0,0,0,,,,,,1,0,1
+1317150,2022,West Indies,13,R Powell,650d5e49,Shakib Al Hasan,7dc35884,BA King,7fca84b7,0,0,0,0,0,,,,,,0,0,0
+1317150,2022,West Indies,13,R Powell,650d5e49,Shakib Al Hasan,7dc35884,BA King,7fca84b7,0,0,0,0,0,,,,,,1,0,1
+1317150,2022,West Indies,13,BA King,7fca84b7,Shakib Al Hasan,7dc35884,R Powell,650d5e49,0,0,0,0,0,,,,,,4,0,4
+1317150,2022,West Indies,13,BA King,7fca84b7,Shakib Al Hasan,7dc35884,R Powell,650d5e49,0,0,0,0,0,,,,,,1,0,1
+1317150,2022,West Indies,13,R Powell,650d5e49,Shakib Al Hasan,7dc35884,BA King,7fca84b7,0,0,0,0,0,,,,,,1,0,1
+1317150,2022,West Indies,14,R Powell,650d5e49,Mustafizur Rahman,0a8fce53,BA King,7fca84b7,0,0,0,0,0,,,,,,3,0,3
+1317150,2022,West Indies,14,BA King,7fca84b7,Mustafizur Rahman,0a8fce53,R Powell,650d5e49,0,0,1,0,0,,,,,,0,1,1
+1317150,2022,West Indies,14,R Powell,650d5e49,Mustafizur Rahman,0a8fce53,BA King,7fca84b7,0,0,0,0,0,,,,,,1,0,1
+1317150,2022,West Indies,14,BA King,7fca84b7,Mustafizur Rahman,0a8fce53,R Powell,650d5e49,0,0,0,0,0,,,,,,4,0,4
+1317150,2022,West Indies,14,BA King,7fca84b7,Mustafizur Rahman,0a8fce53,R Powell,650d5e49,0,0,0,0,0,,,,,,1,0,1
+1317150,2022,West Indies,14,R Powell,650d5e49,Mustafizur Rahman,0a8fce53,BA King,7fca84b7,0,0,0,0,0,,,,,,1,0,1
+1317150,2022,West Indies,15,R Powell,650d5e49,Shakib Al Hasan,7dc35884,BA King,7fca84b7,0,0,0,0,0,,,,,,6,0,6
+1317150,2022,West Indies,15,R Powell,650d5e49,Shakib Al Hasan,7dc35884,BA King,7fca84b7,0,0,0,0,0,,,,,,4,0,4
+1317150,2022,West Indies,15,R Powell,650d5e49,Shakib Al Hasan,7dc35884,BA King,7fca84b7,0,0,0,0,0,,,,,,6,0,6
+1317150,2022,West Indies,15,R Powell,650d5e49,Shakib Al Hasan,7dc35884,BA King,7fca84b7,0,0,0,0,0,,,,,,6,0,6
+1317150,2022,West Indies,15,R Powell,650d5e49,Shakib Al Hasan,7dc35884,BA King,7fca84b7,0,0,0,0,0,,,,,,1,0,1
+1317150,2022,West Indies,15,BA King,7fca84b7,Shakib Al Hasan,7dc35884,R Powell,650d5e49,0,0,0,0,0,,,,,,0,0,0
+1317150,2022,West Indies,16,R Powell,650d5e49,Taskin Ahmed,ef18b66e,BA King,7fca84b7,0,0,0,0,0,,,,,,6,0,6
+1317150,2022,West Indies,16,R Powell,650d5e49,Taskin Ahmed,ef18b66e,BA King,7fca84b7,0,0,0,0,0,,,,,,6,0,6
+1317150,2022,West Indies,16,R Powell,650d5e49,Taskin Ahmed,ef18b66e,BA King,7fca84b7,1,0,0,0,0,,,,,,0,1,1
+1317150,2022,West Indies,16,R Powell,650d5e49,Taskin Ahmed,ef18b66e,BA King,7fca84b7,0,0,0,0,0,,,,,,1,0,1
+1317150,2022,West Indies,16,BA King,7fca84b7,Taskin Ahmed,ef18b66e,R Powell,650d5e49,0,0,0,0,0,,,,,,1,0,1
+1317150,2022,West Indies,16,R Powell,650d5e49,Taskin Ahmed,ef18b66e,BA King,7fca84b7,0,0,0,0,0,,,,,,2,0,2
+1317150,2022,West Indies,16,R Powell,650d5e49,Taskin Ahmed,ef18b66e,BA King,7fca84b7,0,0,0,0,0,,,,,,4,0,4
+1317150,2022,West Indies,17,BA King,7fca84b7,Shoriful Islam,bb34fd31,R Powell,650d5e49,0,0,0,0,1,BA King,7fca84b7,Shakib Al Hasan,7dc35884,caught,0,0,0
+1317150,2022,West Indies,17,R Powell,650d5e49,Shoriful Islam,bb34fd31,R Shepherd,c5aef772,0,0,0,0,0,,,,,,1,0,1
+1317150,2022,West Indies,17,R Shepherd,c5aef772,Shoriful Islam,bb34fd31,R Powell,650d5e49,0,0,0,0,0,,,,,,0,0,0
+1317150,2022,West Indies,17,R Shepherd,c5aef772,Shoriful Islam,bb34fd31,R Powell,650d5e49,0,0,0,0,0,,,,,,1,0,1
+1317150,2022,West Indies,17,R Powell,650d5e49,Shoriful Islam,bb34fd31,R Shepherd,c5aef772,0,0,0,0,0,,,,,,0,0,0
+1317150,2022,West Indies,17,R Powell,650d5e49,Shoriful Islam,bb34fd31,R Shepherd,c5aef772,0,0,0,0,0,,,,,,1,0,1
+1317150,2022,West Indies,18,R Powell,650d5e49,Mustafizur Rahman,0a8fce53,R Shepherd,c5aef772,0,0,0,0,0,,,,,,0,0,0
+1317150,2022,West Indies,18,R Powell,650d5e49,Mustafizur Rahman,0a8fce53,R Shepherd,c5aef772,1,0,0,0,0,,,,,,0,1,1
+1317150,2022,West Indies,18,R Powell,650d5e49,Mustafizur Rahman,0a8fce53,R Shepherd,c5aef772,1,0,0,0,0,,,,,,0,1,1
+1317150,2022,West Indies,18,R Powell,650d5e49,Mustafizur Rahman,0a8fce53,R Shepherd,c5aef772,0,0,0,0,0,,,,,,0,0,0
+1317150,2022,West Indies,18,R Powell,650d5e49,Mustafizur Rahman,0a8fce53,R Shepherd,c5aef772,0,0,0,0,0,,,,,,2,0,2
+1317150,2022,West Indies,18,R Powell,650d5e49,Mustafizur Rahman,0a8fce53,R Shepherd,c5aef772,1,0,0,0,0,,,,,,0,1,1
+1317150,2022,West Indies,18,R Powell,650d5e49,Mustafizur Rahman,0a8fce53,R Shepherd,c5aef772,0,0,0,0,0,,,,,,1,0,1
+1317150,2022,West Indies,18,R Shepherd,c5aef772,Mustafizur Rahman,0a8fce53,R Powell,650d5e49,0,0,0,0,0,,,,,,1,0,1
+1317150,2022,West Indies,18,R Powell,650d5e49,Mustafizur Rahman,0a8fce53,R Shepherd,c5aef772,0,1,0,0,0,,,,,,1,1,2
+1317150,2022,West Indies,18,R Shepherd,c5aef772,Mustafizur Rahman,0a8fce53,R Powell,650d5e49,0,0,0,0,0,,,,,,1,0,1
+1317150,2022,West Indies,19,R Shepherd,c5aef772,Shoriful Islam,bb34fd31,R Powell,650d5e49,0,0,0,0,1,R Shepherd,c5aef772,Mahedi Hasan,9dad0f2e,caught,0,0,0
+1317150,2022,West Indies,19,OF Smith,23cca426,Shoriful Islam,bb34fd31,R Powell,650d5e49,0,0,0,0,0,,,,,,2,0,2
+1317150,2022,West Indies,19,OF Smith,23cca426,Shoriful Islam,bb34fd31,R Powell,650d5e49,0,0,0,0,0,,,,,,6,0,6
+1317150,2022,West Indies,19,OF Smith,23cca426,Shoriful Islam,bb34fd31,R Powell,650d5e49,0,0,0,0,0,,,,,,2,0,2
+1317150,2022,West Indies,19,OF Smith,23cca426,Shoriful Islam,bb34fd31,R Powell,650d5e49,0,0,0,0,0,,,,,,1,0,1
+1317150,2022,West Indies,19,R Powell,650d5e49,Shoriful Islam,bb34fd31,OF Smith,23cca426,0,0,0,0,0,,,,,,6,0,6
+1317150,2022,Bangladesh,0,Anamul Haque,72b245dd,AJ Hosein,4d7f517e,Liton Das,0404d43c,0,0,0,0,0,,,,,,2,0,2
+1317150,2022,Bangladesh,0,Anamul Haque,72b245dd,AJ Hosein,4d7f517e,Liton Das,0404d43c,0,0,0,0,0,,,,,,1,0,1
+1317150,2022,Bangladesh,0,Liton Das,0404d43c,AJ Hosein,4d7f517e,Anamul Haque,72b245dd,0,0,0,0,0,,,,,,4,0,4
+1317150,2022,Bangladesh,0,Liton Das,0404d43c,AJ Hosein,4d7f517e,Anamul Haque,72b245dd,0,0,0,0,0,,,,,,0,0,0
+1317150,2022,Bangladesh,0,Liton Das,0404d43c,AJ Hosein,4d7f517e,Anamul Haque,72b245dd,0,0,0,0,0,,,,,,1,0,1
+1317150,2022,Bangladesh,0,Anamul Haque,72b245dd,AJ Hosein,4d7f517e,Liton Das,0404d43c,0,0,0,0,0,,,,,,0,0,0
+1317150,2022,Bangladesh,1,Liton Das,0404d43c,OC McCoy,529eb9e0,Anamul Haque,72b245dd,0,0,0,0,1,Liton Das,0404d43c,SSJ Brooks,977b841a,caught,0,0,0
+1317150,2022,Bangladesh,1,Anamul Haque,72b245dd,OC McCoy,529eb9e0,Shakib Al Hasan,7dc35884,0,0,0,0,1,Anamul Haque,72b245dd,,,bowled,0,0,0
+1317150,2022,Bangladesh,1,Mahmudullah,bf1d7d3e,OC McCoy,529eb9e0,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+1317150,2022,Bangladesh,1,Mahmudullah,bf1d7d3e,OC McCoy,529eb9e0,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+1317150,2022,Bangladesh,1,Shakib Al Hasan,7dc35884,OC McCoy,529eb9e0,Mahmudullah,bf1d7d3e,0,0,0,0,0,,,,,,0,0,0
+1317150,2022,Bangladesh,1,Shakib Al Hasan,7dc35884,OC McCoy,529eb9e0,Mahmudullah,bf1d7d3e,0,0,0,0,0,,,,,,1,0,1
+1317150,2022,Bangladesh,2,Shakib Al Hasan,7dc35884,OF Smith,23cca426,Mahmudullah,bf1d7d3e,0,0,1,0,0,,,,,,0,1,1
+1317150,2022,Bangladesh,2,Mahmudullah,bf1d7d3e,OF Smith,23cca426,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+1317150,2022,Bangladesh,2,Mahmudullah,bf1d7d3e,OF Smith,23cca426,Shakib Al Hasan,7dc35884,1,0,0,0,0,,,,,,0,1,1
+1317150,2022,Bangladesh,2,Mahmudullah,bf1d7d3e,OF Smith,23cca426,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,6,0,6
+1317150,2022,Bangladesh,2,Mahmudullah,bf1d7d3e,OF Smith,23cca426,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,4,0,4
+1317150,2022,Bangladesh,2,Mahmudullah,bf1d7d3e,OF Smith,23cca426,Shakib Al Hasan,7dc35884,1,0,0,0,0,,,,,,0,1,1
+1317150,2022,Bangladesh,2,Mahmudullah,bf1d7d3e,OF Smith,23cca426,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+1317150,2022,Bangladesh,2,Mahmudullah,bf1d7d3e,OF Smith,23cca426,Shakib Al Hasan,7dc35884,0,0,0,0,1,Mahmudullah,bf1d7d3e,OC McCoy,529eb9e0,caught,0,0,0
+1317150,2022,Bangladesh,3,Shakib Al Hasan,7dc35884,OC McCoy,529eb9e0,Afif Hossain,37138918,0,0,0,0,0,,,,,,0,0,0
+1317150,2022,Bangladesh,3,Shakib Al Hasan,7dc35884,OC McCoy,529eb9e0,Afif Hossain,37138918,0,0,0,0,0,,,,,,4,0,4
+1317150,2022,Bangladesh,3,Shakib Al Hasan,7dc35884,OC McCoy,529eb9e0,Afif Hossain,37138918,0,0,0,0,0,,,,,,0,0,0
+1317150,2022,Bangladesh,3,Shakib Al Hasan,7dc35884,OC McCoy,529eb9e0,Afif Hossain,37138918,0,0,0,0,0,,,,,,0,0,0
+1317150,2022,Bangladesh,3,Shakib Al Hasan,7dc35884,OC McCoy,529eb9e0,Afif Hossain,37138918,0,0,0,0,0,,,,,,0,0,0
+1317150,2022,Bangladesh,3,Shakib Al Hasan,7dc35884,OC McCoy,529eb9e0,Afif Hossain,37138918,0,0,0,0,0,,,,,,1,0,1
+1317150,2022,Bangladesh,4,Shakib Al Hasan,7dc35884,OF Smith,23cca426,Afif Hossain,37138918,0,0,0,0,0,,,,,,0,0,0
+1317150,2022,Bangladesh,4,Shakib Al Hasan,7dc35884,OF Smith,23cca426,Afif Hossain,37138918,0,0,0,0,0,,,,,,4,0,4
+1317150,2022,Bangladesh,4,Shakib Al Hasan,7dc35884,OF Smith,23cca426,Afif Hossain,37138918,0,0,0,0,0,,,,,,1,0,1
+1317150,2022,Bangladesh,4,Afif Hossain,37138918,OF Smith,23cca426,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+1317150,2022,Bangladesh,4,Afif Hossain,37138918,OF Smith,23cca426,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+1317150,2022,Bangladesh,4,Afif Hossain,37138918,OF Smith,23cca426,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+1317150,2022,Bangladesh,5,Afif Hossain,37138918,R Shepherd,c5aef772,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+1317150,2022,Bangladesh,5,Afif Hossain,37138918,R Shepherd,c5aef772,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+1317150,2022,Bangladesh,5,Afif Hossain,37138918,R Shepherd,c5aef772,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+1317150,2022,Bangladesh,5,Afif Hossain,37138918,R Shepherd,c5aef772,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,2,0,2
+1317150,2022,Bangladesh,5,Afif Hossain,37138918,R Shepherd,c5aef772,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,4,0,4
+1317150,2022,Bangladesh,5,Afif Hossain,37138918,R Shepherd,c5aef772,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,4,0,4
+1317150,2022,Bangladesh,6,Shakib Al Hasan,7dc35884,KMA Paul,75224f22,Afif Hossain,37138918,0,0,0,0,0,,,,,,0,0,0
+1317150,2022,Bangladesh,6,Shakib Al Hasan,7dc35884,KMA Paul,75224f22,Afif Hossain,37138918,1,0,0,0,0,,,,,,0,1,1
+1317150,2022,Bangladesh,6,Shakib Al Hasan,7dc35884,KMA Paul,75224f22,Afif Hossain,37138918,0,0,0,0,0,,,,,,4,0,4
+1317150,2022,Bangladesh,6,Shakib Al Hasan,7dc35884,KMA Paul,75224f22,Afif Hossain,37138918,0,0,0,0,0,,,,,,1,0,1
+1317150,2022,Bangladesh,6,Afif Hossain,37138918,KMA Paul,75224f22,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+1317150,2022,Bangladesh,6,Afif Hossain,37138918,KMA Paul,75224f22,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,2,0,2
+1317150,2022,Bangladesh,6,Afif Hossain,37138918,KMA Paul,75224f22,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+1317150,2022,Bangladesh,7,Afif Hossain,37138918,HR Walsh,1ac2a995,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,2,0,2
+1317150,2022,Bangladesh,7,Afif Hossain,37138918,HR Walsh,1ac2a995,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+1317150,2022,Bangladesh,7,Afif Hossain,37138918,HR Walsh,1ac2a995,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,4,0,4
+1317150,2022,Bangladesh,7,Afif Hossain,37138918,HR Walsh,1ac2a995,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+1317150,2022,Bangladesh,7,Shakib Al Hasan,7dc35884,HR Walsh,1ac2a995,Afif Hossain,37138918,0,0,0,0,0,,,,,,1,0,1
+1317150,2022,Bangladesh,7,Afif Hossain,37138918,HR Walsh,1ac2a995,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+1317150,2022,Bangladesh,8,Afif Hossain,37138918,AJ Hosein,4d7f517e,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+1317150,2022,Bangladesh,8,Shakib Al Hasan,7dc35884,AJ Hosein,4d7f517e,Afif Hossain,37138918,0,0,1,0,0,,,,,,0,1,1
+1317150,2022,Bangladesh,8,Afif Hossain,37138918,AJ Hosein,4d7f517e,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+1317150,2022,Bangladesh,8,Afif Hossain,37138918,AJ Hosein,4d7f517e,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,2,0,2
+1317150,2022,Bangladesh,8,Afif Hossain,37138918,AJ Hosein,4d7f517e,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,6,0,6
+1317150,2022,Bangladesh,8,Afif Hossain,37138918,AJ Hosein,4d7f517e,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+1317150,2022,Bangladesh,9,Shakib Al Hasan,7dc35884,HR Walsh,1ac2a995,Afif Hossain,37138918,0,0,0,0,0,,,,,,1,0,1
+1317150,2022,Bangladesh,9,Afif Hossain,37138918,HR Walsh,1ac2a995,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+1317150,2022,Bangladesh,9,Afif Hossain,37138918,HR Walsh,1ac2a995,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+1317150,2022,Bangladesh,9,Shakib Al Hasan,7dc35884,HR Walsh,1ac2a995,Afif Hossain,37138918,0,0,0,0,0,,,,,,1,0,1
+1317150,2022,Bangladesh,9,Afif Hossain,37138918,HR Walsh,1ac2a995,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+1317150,2022,Bangladesh,9,Afif Hossain,37138918,HR Walsh,1ac2a995,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,2,0,2
+1317150,2022,Bangladesh,10,Shakib Al Hasan,7dc35884,R Shepherd,c5aef772,Afif Hossain,37138918,0,0,0,0,0,,,,,,1,0,1
+1317150,2022,Bangladesh,10,Afif Hossain,37138918,R Shepherd,c5aef772,Shakib Al Hasan,7dc35884,0,0,0,0,1,Afif Hossain,37138918,N Pooran,3241e3fd,caught,0,0,0
+1317150,2022,Bangladesh,10,Nurul Hasan,d365d463,R Shepherd,c5aef772,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+1317150,2022,Bangladesh,10,Nurul Hasan,d365d463,R Shepherd,c5aef772,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+1317150,2022,Bangladesh,10,Shakib Al Hasan,7dc35884,R Shepherd,c5aef772,Nurul Hasan,d365d463,0,0,0,0,0,,,,,,1,0,1
+1317150,2022,Bangladesh,10,Nurul Hasan,d365d463,R Shepherd,c5aef772,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+1317150,2022,Bangladesh,11,Shakib Al Hasan,7dc35884,HR Walsh,1ac2a995,Nurul Hasan,d365d463,0,0,0,0,0,,,,,,1,0,1
+1317150,2022,Bangladesh,11,Nurul Hasan,d365d463,HR Walsh,1ac2a995,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+1317150,2022,Bangladesh,11,Shakib Al Hasan,7dc35884,HR Walsh,1ac2a995,Nurul Hasan,d365d463,0,0,0,0,0,,,,,,1,0,1
+1317150,2022,Bangladesh,11,Nurul Hasan,d365d463,HR Walsh,1ac2a995,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+1317150,2022,Bangladesh,11,Nurul Hasan,d365d463,HR Walsh,1ac2a995,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+1317150,2022,Bangladesh,11,Shakib Al Hasan,7dc35884,HR Walsh,1ac2a995,Nurul Hasan,d365d463,0,0,0,0,0,,,,,,1,0,1
+1317150,2022,Bangladesh,12,Shakib Al Hasan,7dc35884,AJ Hosein,4d7f517e,Nurul Hasan,d365d463,0,0,0,0,0,,,,,,2,0,2
+1317150,2022,Bangladesh,12,Shakib Al Hasan,7dc35884,AJ Hosein,4d7f517e,Nurul Hasan,d365d463,0,0,0,0,0,,,,,,0,0,0
+1317150,2022,Bangladesh,12,Shakib Al Hasan,7dc35884,AJ Hosein,4d7f517e,Nurul Hasan,d365d463,0,0,0,0,0,,,,,,1,0,1
+1317150,2022,Bangladesh,12,Nurul Hasan,d365d463,AJ Hosein,4d7f517e,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+1317150,2022,Bangladesh,12,Shakib Al Hasan,7dc35884,AJ Hosein,4d7f517e,Nurul Hasan,d365d463,0,0,0,0,0,,,,,,1,0,1
+1317150,2022,Bangladesh,12,Nurul Hasan,d365d463,AJ Hosein,4d7f517e,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+1317150,2022,Bangladesh,13,Shakib Al Hasan,7dc35884,HR Walsh,1ac2a995,Nurul Hasan,d365d463,0,0,0,0,0,,,,,,0,0,0
+1317150,2022,Bangladesh,13,Shakib Al Hasan,7dc35884,HR Walsh,1ac2a995,Nurul Hasan,d365d463,0,0,0,0,0,,,,,,1,0,1
+1317150,2022,Bangladesh,13,Nurul Hasan,d365d463,HR Walsh,1ac2a995,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+1317150,2022,Bangladesh,13,Nurul Hasan,d365d463,HR Walsh,1ac2a995,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+1317150,2022,Bangladesh,13,Shakib Al Hasan,7dc35884,HR Walsh,1ac2a995,Nurul Hasan,d365d463,0,0,0,0,0,,,,,,1,0,1
+1317150,2022,Bangladesh,13,Nurul Hasan,d365d463,HR Walsh,1ac2a995,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+1317150,2022,Bangladesh,14,Nurul Hasan,d365d463,AJ Hosein,4d7f517e,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+1317150,2022,Bangladesh,14,Shakib Al Hasan,7dc35884,AJ Hosein,4d7f517e,Nurul Hasan,d365d463,1,0,0,0,0,,,,,,0,1,1
+1317150,2022,Bangladesh,14,Shakib Al Hasan,7dc35884,AJ Hosein,4d7f517e,Nurul Hasan,d365d463,0,0,0,0,0,,,,,,1,0,1
+1317150,2022,Bangladesh,14,Nurul Hasan,d365d463,AJ Hosein,4d7f517e,Shakib Al Hasan,7dc35884,0,0,0,0,1,Nurul Hasan,d365d463,BA King,7fca84b7,caught,0,0,0
+1317150,2022,Bangladesh,14,Mosaddek Hossain,8919756f,AJ Hosein,4d7f517e,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+1317150,2022,Bangladesh,14,Mosaddek Hossain,8919756f,AJ Hosein,4d7f517e,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+1317150,2022,Bangladesh,14,Shakib Al Hasan,7dc35884,AJ Hosein,4d7f517e,Mosaddek Hossain,8919756f,0,0,0,0,0,,,,,,1,0,1
+1317150,2022,Bangladesh,15,Shakib Al Hasan,7dc35884,R Shepherd,c5aef772,Mosaddek Hossain,8919756f,0,0,0,0,0,,,,,,1,0,1
+1317150,2022,Bangladesh,15,Mosaddek Hossain,8919756f,R Shepherd,c5aef772,Shakib Al Hasan,7dc35884,1,0,0,0,0,,,,,,0,1,1
+1317150,2022,Bangladesh,15,Mosaddek Hossain,8919756f,R Shepherd,c5aef772,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+1317150,2022,Bangladesh,15,Shakib Al Hasan,7dc35884,R Shepherd,c5aef772,Mosaddek Hossain,8919756f,0,0,0,0,0,,,,,,1,0,1
+1317150,2022,Bangladesh,15,Mosaddek Hossain,8919756f,R Shepherd,c5aef772,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+1317150,2022,Bangladesh,15,Shakib Al Hasan,7dc35884,R Shepherd,c5aef772,Mosaddek Hossain,8919756f,0,0,0,0,0,,,,,,1,0,1
+1317150,2022,Bangladesh,15,Mosaddek Hossain,8919756f,R Shepherd,c5aef772,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+1317150,2022,Bangladesh,16,Mosaddek Hossain,8919756f,OC McCoy,529eb9e0,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+1317150,2022,Bangladesh,16,Shakib Al Hasan,7dc35884,OC McCoy,529eb9e0,Mosaddek Hossain,8919756f,0,0,0,0,0,,,,,,0,0,0
+1317150,2022,Bangladesh,16,Shakib Al Hasan,7dc35884,OC McCoy,529eb9e0,Mosaddek Hossain,8919756f,0,0,0,0,0,,,,,,6,0,6
+1317150,2022,Bangladesh,16,Shakib Al Hasan,7dc35884,OC McCoy,529eb9e0,Mosaddek Hossain,8919756f,0,0,0,0,0,,,,,,1,0,1
+1317150,2022,Bangladesh,16,Mosaddek Hossain,8919756f,OC McCoy,529eb9e0,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+1317150,2022,Bangladesh,16,Shakib Al Hasan,7dc35884,OC McCoy,529eb9e0,Mosaddek Hossain,8919756f,0,0,0,0,0,,,,,,1,0,1
+1317150,2022,Bangladesh,17,Shakib Al Hasan,7dc35884,OF Smith,23cca426,Mosaddek Hossain,8919756f,0,0,0,0,0,,,,,,0,0,0
+1317150,2022,Bangladesh,17,Shakib Al Hasan,7dc35884,OF Smith,23cca426,Mosaddek Hossain,8919756f,0,0,0,0,0,,,,,,0,0,0
+1317150,2022,Bangladesh,17,Shakib Al Hasan,7dc35884,OF Smith,23cca426,Mosaddek Hossain,8919756f,0,0,0,0,0,,,,,,4,0,4
+1317150,2022,Bangladesh,17,Shakib Al Hasan,7dc35884,OF Smith,23cca426,Mosaddek Hossain,8919756f,0,0,0,0,0,,,,,,1,0,1
+1317150,2022,Bangladesh,17,Mosaddek Hossain,8919756f,OF Smith,23cca426,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,2,0,2
+1317150,2022,Bangladesh,17,Mosaddek Hossain,8919756f,OF Smith,23cca426,Shakib Al Hasan,7dc35884,1,0,0,0,0,,,,,,0,1,1
+1317150,2022,Bangladesh,17,Mosaddek Hossain,8919756f,OF Smith,23cca426,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,6,0,6
+1317150,2022,Bangladesh,18,Shakib Al Hasan,7dc35884,OC McCoy,529eb9e0,Mosaddek Hossain,8919756f,0,0,0,0,0,,,,,,2,0,2
+1317150,2022,Bangladesh,18,Shakib Al Hasan,7dc35884,OC McCoy,529eb9e0,Mosaddek Hossain,8919756f,0,0,0,0,0,,,,,,6,0,6
+1317150,2022,Bangladesh,18,Shakib Al Hasan,7dc35884,OC McCoy,529eb9e0,Mosaddek Hossain,8919756f,0,0,0,0,0,,,,,,1,0,1
+1317150,2022,Bangladesh,18,Mosaddek Hossain,8919756f,OC McCoy,529eb9e0,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+1317150,2022,Bangladesh,18,Shakib Al Hasan,7dc35884,OC McCoy,529eb9e0,Mosaddek Hossain,8919756f,0,0,0,0,0,,,,,,4,0,4
+1317150,2022,Bangladesh,18,Shakib Al Hasan,7dc35884,OC McCoy,529eb9e0,Mosaddek Hossain,8919756f,0,0,0,0,0,,,,,,6,0,6
+1317150,2022,Bangladesh,19,Mosaddek Hossain,8919756f,R Shepherd,c5aef772,Shakib Al Hasan,7dc35884,0,0,0,0,1,Mosaddek Hossain,8919756f,N Pooran,3241e3fd,caught,0,0,0
+1317150,2022,Bangladesh,19,Mahedi Hasan,9dad0f2e,R Shepherd,c5aef772,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,4,0,4
+1317150,2022,Bangladesh,19,Mahedi Hasan,9dad0f2e,R Shepherd,c5aef772,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+1317150,2022,Bangladesh,19,Shakib Al Hasan,7dc35884,R Shepherd,c5aef772,Mahedi Hasan,9dad0f2e,1,0,0,0,0,,,,,,0,1,1
+1317150,2022,Bangladesh,19,Shakib Al Hasan,7dc35884,R Shepherd,c5aef772,Mahedi Hasan,9dad0f2e,0,0,0,0,0,,,,,,0,0,0
+1317150,2022,Bangladesh,19,Shakib Al Hasan,7dc35884,R Shepherd,c5aef772,Mahedi Hasan,9dad0f2e,1,0,0,0,0,,,,,,0,1,1
+1317150,2022,Bangladesh,19,Shakib Al Hasan,7dc35884,R Shepherd,c5aef772,Mahedi Hasan,9dad0f2e,0,0,0,0,0,,,,,,0,0,0
+1317150,2022,Bangladesh,19,Shakib Al Hasan,7dc35884,R Shepherd,c5aef772,Mahedi Hasan,9dad0f2e,0,0,0,0,0,,,,,,1,0,1

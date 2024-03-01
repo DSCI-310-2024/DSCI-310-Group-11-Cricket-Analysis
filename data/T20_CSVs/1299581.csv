@@ -1,0 +1,234 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1299581,2021/22,Ireland,0,PR Stirling,cf494ffe,Bilal Khan,dcdb87f2,A Balbirnie,6ef13460,0,0,0,0,0,,,,,,1,0,1
+1299581,2021/22,Ireland,0,A Balbirnie,6ef13460,Bilal Khan,dcdb87f2,PR Stirling,cf494ffe,0,0,0,0,0,,,,,,4,0,4
+1299581,2021/22,Ireland,0,A Balbirnie,6ef13460,Bilal Khan,dcdb87f2,PR Stirling,cf494ffe,0,0,0,0,0,,,,,,0,0,0
+1299581,2021/22,Ireland,0,A Balbirnie,6ef13460,Bilal Khan,dcdb87f2,PR Stirling,cf494ffe,0,0,0,0,0,,,,,,4,0,4
+1299581,2021/22,Ireland,0,A Balbirnie,6ef13460,Bilal Khan,dcdb87f2,PR Stirling,cf494ffe,0,0,0,0,0,,,,,,0,0,0
+1299581,2021/22,Ireland,0,A Balbirnie,6ef13460,Bilal Khan,dcdb87f2,PR Stirling,cf494ffe,0,0,0,0,0,,,,,,0,0,0
+1299581,2021/22,Ireland,1,PR Stirling,cf494ffe,Kaleemullah,72253b87,A Balbirnie,6ef13460,0,0,0,0,0,,,,,,1,0,1
+1299581,2021/22,Ireland,1,A Balbirnie,6ef13460,Kaleemullah,72253b87,PR Stirling,cf494ffe,0,0,0,0,0,,,,,,4,0,4
+1299581,2021/22,Ireland,1,A Balbirnie,6ef13460,Kaleemullah,72253b87,PR Stirling,cf494ffe,0,0,1,0,0,,,,,,0,1,1
+1299581,2021/22,Ireland,1,PR Stirling,cf494ffe,Kaleemullah,72253b87,A Balbirnie,6ef13460,0,0,0,0,0,,,,,,0,0,0
+1299581,2021/22,Ireland,1,PR Stirling,cf494ffe,Kaleemullah,72253b87,A Balbirnie,6ef13460,0,0,0,0,0,,,,,,4,0,4
+1299581,2021/22,Ireland,1,PR Stirling,cf494ffe,Kaleemullah,72253b87,A Balbirnie,6ef13460,0,0,0,0,0,,,,,,0,0,0
+1299581,2021/22,Ireland,2,A Balbirnie,6ef13460,Bilal Khan,dcdb87f2,PR Stirling,cf494ffe,0,0,0,0,0,,,,,,0,0,0
+1299581,2021/22,Ireland,2,A Balbirnie,6ef13460,Bilal Khan,dcdb87f2,PR Stirling,cf494ffe,0,0,0,0,1,A Balbirnie,6ef13460,Khurram Nawaz,07ff32f5,caught,0,0,0
+1299581,2021/22,Ireland,2,PR Stirling,cf494ffe,Bilal Khan,dcdb87f2,GJ Delany,33b3d2df,0,0,0,0,0,,,,,,0,0,0
+1299581,2021/22,Ireland,2,PR Stirling,cf494ffe,Bilal Khan,dcdb87f2,GJ Delany,33b3d2df,0,0,0,0,0,,,,,,0,0,0
+1299581,2021/22,Ireland,2,PR Stirling,cf494ffe,Bilal Khan,dcdb87f2,GJ Delany,33b3d2df,0,0,0,0,1,PR Stirling,cf494ffe,Khawar Ali,934b36a6,caught,0,0,0
+1299581,2021/22,Ireland,2,HT Tector,59ea70a4,Bilal Khan,dcdb87f2,GJ Delany,33b3d2df,0,0,0,0,0,,,,,,0,0,0
+1299581,2021/22,Ireland,3,GJ Delany,33b3d2df,Kaleemullah,72253b87,HT Tector,59ea70a4,0,0,0,0,0,,,,,,4,0,4
+1299581,2021/22,Ireland,3,GJ Delany,33b3d2df,Kaleemullah,72253b87,HT Tector,59ea70a4,0,0,0,0,0,,,,,,0,0,0
+1299581,2021/22,Ireland,3,GJ Delany,33b3d2df,Kaleemullah,72253b87,HT Tector,59ea70a4,0,0,0,0,0,,,,,,1,0,1
+1299581,2021/22,Ireland,3,HT Tector,59ea70a4,Kaleemullah,72253b87,GJ Delany,33b3d2df,0,0,0,0,0,,,,,,0,0,0
+1299581,2021/22,Ireland,3,HT Tector,59ea70a4,Kaleemullah,72253b87,GJ Delany,33b3d2df,0,0,0,0,0,,,,,,4,0,4
+1299581,2021/22,Ireland,3,HT Tector,59ea70a4,Kaleemullah,72253b87,GJ Delany,33b3d2df,0,0,0,0,0,,,,,,2,0,2
+1299581,2021/22,Ireland,4,GJ Delany,33b3d2df,Fayyaz Butt,bd9fbd51,HT Tector,59ea70a4,0,0,0,0,0,,,,,,0,0,0
+1299581,2021/22,Ireland,4,GJ Delany,33b3d2df,Fayyaz Butt,bd9fbd51,HT Tector,59ea70a4,0,0,0,0,0,,,,,,1,0,1
+1299581,2021/22,Ireland,4,HT Tector,59ea70a4,Fayyaz Butt,bd9fbd51,GJ Delany,33b3d2df,0,0,0,0,0,,,,,,0,0,0
+1299581,2021/22,Ireland,4,HT Tector,59ea70a4,Fayyaz Butt,bd9fbd51,GJ Delany,33b3d2df,0,0,0,0,0,,,,,,1,0,1
+1299581,2021/22,Ireland,4,GJ Delany,33b3d2df,Fayyaz Butt,bd9fbd51,HT Tector,59ea70a4,0,0,0,0,0,,,,,,1,0,1
+1299581,2021/22,Ireland,4,HT Tector,59ea70a4,Fayyaz Butt,bd9fbd51,GJ Delany,33b3d2df,0,0,0,0,0,,,,,,1,0,1
+1299581,2021/22,Ireland,5,HT Tector,59ea70a4,Aamir Kaleem,7ecb9a14,GJ Delany,33b3d2df,0,0,0,0,0,,,,,,1,0,1
+1299581,2021/22,Ireland,5,GJ Delany,33b3d2df,Aamir Kaleem,7ecb9a14,HT Tector,59ea70a4,0,0,0,0,0,,,,,,0,0,0
+1299581,2021/22,Ireland,5,GJ Delany,33b3d2df,Aamir Kaleem,7ecb9a14,HT Tector,59ea70a4,0,0,0,0,0,,,,,,4,0,4
+1299581,2021/22,Ireland,5,GJ Delany,33b3d2df,Aamir Kaleem,7ecb9a14,HT Tector,59ea70a4,0,0,0,0,0,,,,,,4,0,4
+1299581,2021/22,Ireland,5,GJ Delany,33b3d2df,Aamir Kaleem,7ecb9a14,HT Tector,59ea70a4,0,0,0,0,0,,,,,,1,0,1
+1299581,2021/22,Ireland,5,HT Tector,59ea70a4,Aamir Kaleem,7ecb9a14,GJ Delany,33b3d2df,0,0,1,0,0,,,,,,0,1,1
+1299581,2021/22,Ireland,6,HT Tector,59ea70a4,Fayyaz Butt,bd9fbd51,GJ Delany,33b3d2df,0,0,0,0,0,,,,,,6,0,6
+1299581,2021/22,Ireland,6,HT Tector,59ea70a4,Fayyaz Butt,bd9fbd51,GJ Delany,33b3d2df,0,0,0,0,0,,,,,,1,0,1
+1299581,2021/22,Ireland,6,GJ Delany,33b3d2df,Fayyaz Butt,bd9fbd51,HT Tector,59ea70a4,0,0,0,0,0,,,,,,0,0,0
+1299581,2021/22,Ireland,6,GJ Delany,33b3d2df,Fayyaz Butt,bd9fbd51,HT Tector,59ea70a4,0,0,0,0,0,,,,,,0,0,0
+1299581,2021/22,Ireland,6,GJ Delany,33b3d2df,Fayyaz Butt,bd9fbd51,HT Tector,59ea70a4,0,0,0,0,0,,,,,,0,0,0
+1299581,2021/22,Ireland,6,GJ Delany,33b3d2df,Fayyaz Butt,bd9fbd51,HT Tector,59ea70a4,0,0,0,0,0,,,,,,2,0,2
+1299581,2021/22,Ireland,7,HT Tector,59ea70a4,Aamir Kaleem,7ecb9a14,GJ Delany,33b3d2df,0,0,0,0,0,,,,,,0,0,0
+1299581,2021/22,Ireland,7,HT Tector,59ea70a4,Aamir Kaleem,7ecb9a14,GJ Delany,33b3d2df,0,0,0,0,0,,,,,,0,0,0
+1299581,2021/22,Ireland,7,HT Tector,59ea70a4,Aamir Kaleem,7ecb9a14,GJ Delany,33b3d2df,0,0,0,0,0,,,,,,1,0,1
+1299581,2021/22,Ireland,7,GJ Delany,33b3d2df,Aamir Kaleem,7ecb9a14,HT Tector,59ea70a4,0,0,0,0,0,,,,,,2,0,2
+1299581,2021/22,Ireland,7,GJ Delany,33b3d2df,Aamir Kaleem,7ecb9a14,HT Tector,59ea70a4,0,0,0,0,0,,,,,,1,0,1
+1299581,2021/22,Ireland,7,HT Tector,59ea70a4,Aamir Kaleem,7ecb9a14,GJ Delany,33b3d2df,0,0,0,0,0,,,,,,1,0,1
+1299581,2021/22,Ireland,8,HT Tector,59ea70a4,Fayyaz Butt,bd9fbd51,GJ Delany,33b3d2df,0,0,0,0,0,,,,,,6,0,6
+1299581,2021/22,Ireland,8,HT Tector,59ea70a4,Fayyaz Butt,bd9fbd51,GJ Delany,33b3d2df,0,0,0,0,0,,,,,,4,0,4
+1299581,2021/22,Ireland,8,HT Tector,59ea70a4,Fayyaz Butt,bd9fbd51,GJ Delany,33b3d2df,0,0,0,0,0,,,,,,2,0,2
+1299581,2021/22,Ireland,8,HT Tector,59ea70a4,Fayyaz Butt,bd9fbd51,GJ Delany,33b3d2df,0,0,0,0,0,,,,,,1,0,1
+1299581,2021/22,Ireland,8,GJ Delany,33b3d2df,Fayyaz Butt,bd9fbd51,HT Tector,59ea70a4,0,0,0,0,0,,,,,,1,0,1
+1299581,2021/22,Ireland,8,HT Tector,59ea70a4,Fayyaz Butt,bd9fbd51,GJ Delany,33b3d2df,0,0,0,0,0,,,,,,0,0,0
+1299581,2021/22,Ireland,9,GJ Delany,33b3d2df,Khawar Ali,934b36a6,HT Tector,59ea70a4,0,0,0,0,0,,,,,,0,0,0
+1299581,2021/22,Ireland,9,GJ Delany,33b3d2df,Khawar Ali,934b36a6,HT Tector,59ea70a4,0,0,0,0,0,,,,,,1,0,1
+1299581,2021/22,Ireland,9,HT Tector,59ea70a4,Khawar Ali,934b36a6,GJ Delany,33b3d2df,0,0,0,0,0,,,,,,1,0,1
+1299581,2021/22,Ireland,9,GJ Delany,33b3d2df,Khawar Ali,934b36a6,HT Tector,59ea70a4,0,0,0,0,0,,,,,,1,0,1
+1299581,2021/22,Ireland,9,HT Tector,59ea70a4,Khawar Ali,934b36a6,GJ Delany,33b3d2df,0,0,0,0,0,,,,,,1,0,1
+1299581,2021/22,Ireland,9,GJ Delany,33b3d2df,Khawar Ali,934b36a6,HT Tector,59ea70a4,0,0,0,0,0,,,,,,0,0,0
+1299581,2021/22,Ireland,10,HT Tector,59ea70a4,Zeeshan Maqsood,34464143,GJ Delany,33b3d2df,0,0,0,0,0,,,,,,0,0,0
+1299581,2021/22,Ireland,10,HT Tector,59ea70a4,Zeeshan Maqsood,34464143,GJ Delany,33b3d2df,0,0,0,0,0,,,,,,1,0,1
+1299581,2021/22,Ireland,10,GJ Delany,33b3d2df,Zeeshan Maqsood,34464143,HT Tector,59ea70a4,0,0,0,0,0,,,,,,6,0,6
+1299581,2021/22,Ireland,10,GJ Delany,33b3d2df,Zeeshan Maqsood,34464143,HT Tector,59ea70a4,0,0,0,0,0,,,,,,6,0,6
+1299581,2021/22,Ireland,10,GJ Delany,33b3d2df,Zeeshan Maqsood,34464143,HT Tector,59ea70a4,0,0,0,0,0,,,,,,6,0,6
+1299581,2021/22,Ireland,10,GJ Delany,33b3d2df,Zeeshan Maqsood,34464143,HT Tector,59ea70a4,0,0,0,0,0,,,,,,0,0,0
+1299581,2021/22,Ireland,11,HT Tector,59ea70a4,Khawar Ali,934b36a6,GJ Delany,33b3d2df,0,0,0,0,0,,,,,,1,0,1
+1299581,2021/22,Ireland,11,GJ Delany,33b3d2df,Khawar Ali,934b36a6,HT Tector,59ea70a4,0,0,0,0,0,,,,,,0,0,0
+1299581,2021/22,Ireland,11,GJ Delany,33b3d2df,Khawar Ali,934b36a6,HT Tector,59ea70a4,0,0,0,0,0,,,,,,2,0,2
+1299581,2021/22,Ireland,11,GJ Delany,33b3d2df,Khawar Ali,934b36a6,HT Tector,59ea70a4,0,0,0,0,0,,,,,,0,0,0
+1299581,2021/22,Ireland,11,GJ Delany,33b3d2df,Khawar Ali,934b36a6,HT Tector,59ea70a4,0,0,0,0,0,,,,,,1,0,1
+1299581,2021/22,Ireland,11,HT Tector,59ea70a4,Khawar Ali,934b36a6,GJ Delany,33b3d2df,0,0,0,0,0,,,,,,0,0,0
+1299581,2021/22,Ireland,12,GJ Delany,33b3d2df,Kaleemullah,72253b87,HT Tector,59ea70a4,0,0,0,0,0,,,,,,1,0,1
+1299581,2021/22,Ireland,12,HT Tector,59ea70a4,Kaleemullah,72253b87,GJ Delany,33b3d2df,0,0,0,0,1,HT Tector,59ea70a4,Khawar Ali,934b36a6,caught,0,0,0
+1299581,2021/22,Ireland,12,L Tucker,3979b5e0,Kaleemullah,72253b87,GJ Delany,33b3d2df,0,0,0,0,1,L Tucker,3979b5e0,,,bowled,0,0,0
+1299581,2021/22,Ireland,12,GH Dockrell,99cddc5e,Kaleemullah,72253b87,GJ Delany,33b3d2df,0,0,0,0,0,,,,,,1,0,1
+1299581,2021/22,Ireland,12,GJ Delany,33b3d2df,Kaleemullah,72253b87,GH Dockrell,99cddc5e,0,0,0,0,0,,,,,,1,0,1
+1299581,2021/22,Ireland,12,GH Dockrell,99cddc5e,Kaleemullah,72253b87,GJ Delany,33b3d2df,0,0,0,0,0,,,,,,1,0,1
+1299581,2021/22,Ireland,13,GH Dockrell,99cddc5e,Khawar Ali,934b36a6,GJ Delany,33b3d2df,0,0,0,0,0,,,,,,0,0,0
+1299581,2021/22,Ireland,13,GH Dockrell,99cddc5e,Khawar Ali,934b36a6,GJ Delany,33b3d2df,0,0,0,0,0,,,,,,1,0,1
+1299581,2021/22,Ireland,13,GJ Delany,33b3d2df,Khawar Ali,934b36a6,GH Dockrell,99cddc5e,0,0,0,0,1,GJ Delany,33b3d2df,Bilal Khan,dcdb87f2,caught,0,0,0
+1299581,2021/22,Ireland,13,GH Dockrell,99cddc5e,Khawar Ali,934b36a6,AR McBrine,e957b38f,0,0,0,0,0,,,,,,0,0,0
+1299581,2021/22,Ireland,13,GH Dockrell,99cddc5e,Khawar Ali,934b36a6,AR McBrine,e957b38f,0,0,0,0,0,,,,,,0,0,0
+1299581,2021/22,Ireland,13,GH Dockrell,99cddc5e,Khawar Ali,934b36a6,AR McBrine,e957b38f,0,0,0,0,0,,,,,,1,0,1
+1299581,2021/22,Ireland,14,GH Dockrell,99cddc5e,Kaleemullah,72253b87,AR McBrine,e957b38f,0,0,0,0,0,,,,,,6,0,6
+1299581,2021/22,Ireland,14,GH Dockrell,99cddc5e,Kaleemullah,72253b87,AR McBrine,e957b38f,0,0,0,0,0,,,,,,1,0,1
+1299581,2021/22,Ireland,14,AR McBrine,e957b38f,Kaleemullah,72253b87,GH Dockrell,99cddc5e,0,0,0,0,0,,,,,,4,0,4
+1299581,2021/22,Ireland,14,AR McBrine,e957b38f,Kaleemullah,72253b87,GH Dockrell,99cddc5e,0,0,0,0,0,,,,,,1,0,1
+1299581,2021/22,Ireland,14,GH Dockrell,99cddc5e,Kaleemullah,72253b87,AR McBrine,e957b38f,0,0,0,0,0,,,,,,4,0,4
+1299581,2021/22,Ireland,14,GH Dockrell,99cddc5e,Kaleemullah,72253b87,AR McBrine,e957b38f,0,0,0,0,0,,,,,,0,0,0
+1299581,2021/22,Ireland,15,AR McBrine,e957b38f,Khawar Ali,934b36a6,GH Dockrell,99cddc5e,0,0,0,0,0,,,,,,0,0,0
+1299581,2021/22,Ireland,15,AR McBrine,e957b38f,Khawar Ali,934b36a6,GH Dockrell,99cddc5e,0,0,0,0,0,,,,,,1,0,1
+1299581,2021/22,Ireland,15,GH Dockrell,99cddc5e,Khawar Ali,934b36a6,AR McBrine,e957b38f,0,0,0,0,0,,,,,,1,0,1
+1299581,2021/22,Ireland,15,AR McBrine,e957b38f,Khawar Ali,934b36a6,GH Dockrell,99cddc5e,0,0,0,0,0,,,,,,1,0,1
+1299581,2021/22,Ireland,15,GH Dockrell,99cddc5e,Khawar Ali,934b36a6,AR McBrine,e957b38f,0,0,0,0,0,,,,,,0,0,0
+1299581,2021/22,Ireland,15,GH Dockrell,99cddc5e,Khawar Ali,934b36a6,AR McBrine,e957b38f,0,0,0,0,0,,,,,,0,0,0
+1299581,2021/22,Ireland,16,AR McBrine,e957b38f,Bilal Khan,dcdb87f2,GH Dockrell,99cddc5e,0,0,0,0,0,,,,,,2,0,2
+1299581,2021/22,Ireland,16,AR McBrine,e957b38f,Bilal Khan,dcdb87f2,GH Dockrell,99cddc5e,0,0,0,0,0,,,,,,1,0,1
+1299581,2021/22,Ireland,16,GH Dockrell,99cddc5e,Bilal Khan,dcdb87f2,AR McBrine,e957b38f,0,0,0,0,0,,,,,,2,0,2
+1299581,2021/22,Ireland,16,GH Dockrell,99cddc5e,Bilal Khan,dcdb87f2,AR McBrine,e957b38f,0,0,0,0,1,GH Dockrell,99cddc5e,KH Prajapati,c4e73ff1,caught,0,0,0
+1299581,2021/22,Ireland,16,AR McBrine,e957b38f,Bilal Khan,dcdb87f2,Simi Singh,c9945bdf,0,0,0,0,0,,,,,,1,0,1
+1299581,2021/22,Ireland,16,Simi Singh,c9945bdf,Bilal Khan,dcdb87f2,AR McBrine,e957b38f,0,0,0,0,0,,,,,,2,0,2
+1299581,2021/22,Ireland,17,AR McBrine,e957b38f,Aamir Kaleem,7ecb9a14,Simi Singh,c9945bdf,0,0,0,0,0,,,,,,6,0,6
+1299581,2021/22,Ireland,17,AR McBrine,e957b38f,Aamir Kaleem,7ecb9a14,Simi Singh,c9945bdf,0,0,0,0,0,,,,,,0,0,0
+1299581,2021/22,Ireland,17,AR McBrine,e957b38f,Aamir Kaleem,7ecb9a14,Simi Singh,c9945bdf,0,0,0,0,0,,,,,,6,0,6
+1299581,2021/22,Ireland,17,AR McBrine,e957b38f,Aamir Kaleem,7ecb9a14,Simi Singh,c9945bdf,0,0,0,0,0,,,,,,1,0,1
+1299581,2021/22,Ireland,17,Simi Singh,c9945bdf,Aamir Kaleem,7ecb9a14,AR McBrine,e957b38f,0,0,0,0,0,,,,,,1,0,1
+1299581,2021/22,Ireland,17,AR McBrine,e957b38f,Aamir Kaleem,7ecb9a14,Simi Singh,c9945bdf,0,0,0,0,0,,,,,,0,0,0
+1299581,2021/22,Ireland,18,Simi Singh,c9945bdf,Bilal Khan,dcdb87f2,AR McBrine,e957b38f,0,0,0,0,0,,,,,,1,0,1
+1299581,2021/22,Ireland,18,AR McBrine,e957b38f,Bilal Khan,dcdb87f2,Simi Singh,c9945bdf,0,0,0,0,0,,,,,,1,0,1
+1299581,2021/22,Ireland,18,Simi Singh,c9945bdf,Bilal Khan,dcdb87f2,AR McBrine,e957b38f,0,0,0,0,0,,,,,,1,0,1
+1299581,2021/22,Ireland,18,AR McBrine,e957b38f,Bilal Khan,dcdb87f2,Simi Singh,c9945bdf,0,0,0,0,0,,,,,,1,0,1
+1299581,2021/22,Ireland,18,Simi Singh,c9945bdf,Bilal Khan,dcdb87f2,AR McBrine,e957b38f,0,0,0,0,0,,,,,,1,0,1
+1299581,2021/22,Ireland,18,AR McBrine,e957b38f,Bilal Khan,dcdb87f2,Simi Singh,c9945bdf,0,0,0,0,0,,,,,,1,0,1
+1299581,2021/22,Ireland,19,AR McBrine,e957b38f,Fayyaz Butt,bd9fbd51,Simi Singh,c9945bdf,0,0,0,0,0,,,,,,1,0,1
+1299581,2021/22,Ireland,19,Simi Singh,c9945bdf,Fayyaz Butt,bd9fbd51,AR McBrine,e957b38f,0,0,0,0,0,,,,,,3,0,3
+1299581,2021/22,Ireland,19,AR McBrine,e957b38f,Fayyaz Butt,bd9fbd51,Simi Singh,c9945bdf,0,0,0,0,0,,,,,,4,0,4
+1299581,2021/22,Ireland,19,AR McBrine,e957b38f,Fayyaz Butt,bd9fbd51,Simi Singh,c9945bdf,0,0,0,0,0,,,,,,0,0,0
+1299581,2021/22,Ireland,19,AR McBrine,e957b38f,Fayyaz Butt,bd9fbd51,Simi Singh,c9945bdf,0,0,0,0,0,,,,,,4,0,4
+1299581,2021/22,Ireland,19,AR McBrine,e957b38f,Fayyaz Butt,bd9fbd51,Simi Singh,c9945bdf,0,0,0,0,1,AR McBrine,e957b38f,Naseem Khushi,c63671e9,caught,0,0,0
+1299581,2021/22,Oman,0,Jatinder Singh,b80dd12c,MR Adair,fc55ec67,KH Prajapati,c4e73ff1,0,0,0,0,0,,,,,,2,0,2
+1299581,2021/22,Oman,0,Jatinder Singh,b80dd12c,MR Adair,fc55ec67,KH Prajapati,c4e73ff1,0,0,0,0,0,,,,,,0,0,0
+1299581,2021/22,Oman,0,Jatinder Singh,b80dd12c,MR Adair,fc55ec67,KH Prajapati,c4e73ff1,0,0,0,0,0,,,,,,1,0,1
+1299581,2021/22,Oman,0,KH Prajapati,c4e73ff1,MR Adair,fc55ec67,Jatinder Singh,b80dd12c,0,0,0,0,0,,,,,,0,0,0
+1299581,2021/22,Oman,0,KH Prajapati,c4e73ff1,MR Adair,fc55ec67,Jatinder Singh,b80dd12c,0,0,0,0,0,,,,,,4,0,4
+1299581,2021/22,Oman,0,KH Prajapati,c4e73ff1,MR Adair,fc55ec67,Jatinder Singh,b80dd12c,0,0,0,0,0,,,,,,1,0,1
+1299581,2021/22,Oman,1,KH Prajapati,c4e73ff1,J Little,9061a703,Jatinder Singh,b80dd12c,0,0,0,0,0,,,,,,0,0,0
+1299581,2021/22,Oman,1,KH Prajapati,c4e73ff1,J Little,9061a703,Jatinder Singh,b80dd12c,0,0,0,0,0,,,,,,0,0,0
+1299581,2021/22,Oman,1,KH Prajapati,c4e73ff1,J Little,9061a703,Jatinder Singh,b80dd12c,0,0,0,0,0,,,,,,0,0,0
+1299581,2021/22,Oman,1,KH Prajapati,c4e73ff1,J Little,9061a703,Jatinder Singh,b80dd12c,0,0,0,0,0,,,,,,1,0,1
+1299581,2021/22,Oman,1,Jatinder Singh,b80dd12c,J Little,9061a703,KH Prajapati,c4e73ff1,0,0,0,0,0,,,,,,0,0,0
+1299581,2021/22,Oman,1,Jatinder Singh,b80dd12c,J Little,9061a703,KH Prajapati,c4e73ff1,0,0,2,0,0,,,,,,0,2,2
+1299581,2021/22,Oman,2,KH Prajapati,c4e73ff1,MR Adair,fc55ec67,Jatinder Singh,b80dd12c,0,0,0,0,0,,,,,,0,0,0
+1299581,2021/22,Oman,2,KH Prajapati,c4e73ff1,MR Adair,fc55ec67,Jatinder Singh,b80dd12c,0,0,0,0,0,,,,,,1,0,1
+1299581,2021/22,Oman,2,Jatinder Singh,b80dd12c,MR Adair,fc55ec67,KH Prajapati,c4e73ff1,0,0,0,0,0,,,,,,0,0,0
+1299581,2021/22,Oman,2,Jatinder Singh,b80dd12c,MR Adair,fc55ec67,KH Prajapati,c4e73ff1,0,0,0,0,0,,,,,,1,0,1
+1299581,2021/22,Oman,2,KH Prajapati,c4e73ff1,MR Adair,fc55ec67,Jatinder Singh,b80dd12c,0,0,0,0,1,KH Prajapati,c4e73ff1,CA Young,bd0a4a7d,caught,0,0,0
+1299581,2021/22,Oman,2,Jatinder Singh,b80dd12c,MR Adair,fc55ec67,Shoaib Khan,21afb939,0,0,0,0,0,,,,,,0,0,0
+1299581,2021/22,Oman,3,Shoaib Khan,21afb939,J Little,9061a703,Jatinder Singh,b80dd12c,0,0,0,0,0,,,,,,1,0,1
+1299581,2021/22,Oman,3,Jatinder Singh,b80dd12c,J Little,9061a703,Shoaib Khan,21afb939,0,0,0,0,0,,,,,,1,0,1
+1299581,2021/22,Oman,3,Shoaib Khan,21afb939,J Little,9061a703,Jatinder Singh,b80dd12c,0,0,0,0,0,,,,,,0,0,0
+1299581,2021/22,Oman,3,Shoaib Khan,21afb939,J Little,9061a703,Jatinder Singh,b80dd12c,0,0,0,0,0,,,,,,2,0,2
+1299581,2021/22,Oman,3,Shoaib Khan,21afb939,J Little,9061a703,Jatinder Singh,b80dd12c,0,0,0,0,0,,,,,,4,0,4
+1299581,2021/22,Oman,3,Shoaib Khan,21afb939,J Little,9061a703,Jatinder Singh,b80dd12c,0,0,0,0,0,,,,,,0,0,0
+1299581,2021/22,Oman,4,Jatinder Singh,b80dd12c,CA Young,bd0a4a7d,Shoaib Khan,21afb939,0,0,0,0,0,,,,,,1,0,1
+1299581,2021/22,Oman,4,Shoaib Khan,21afb939,CA Young,bd0a4a7d,Jatinder Singh,b80dd12c,0,0,0,0,0,,,,,,0,0,0
+1299581,2021/22,Oman,4,Shoaib Khan,21afb939,CA Young,bd0a4a7d,Jatinder Singh,b80dd12c,0,0,0,0,0,,,,,,1,0,1
+1299581,2021/22,Oman,4,Jatinder Singh,b80dd12c,CA Young,bd0a4a7d,Shoaib Khan,21afb939,0,0,0,0,0,,,,,,0,0,0
+1299581,2021/22,Oman,4,Jatinder Singh,b80dd12c,CA Young,bd0a4a7d,Shoaib Khan,21afb939,0,0,0,0,0,,,,,,1,0,1
+1299581,2021/22,Oman,4,Shoaib Khan,21afb939,CA Young,bd0a4a7d,Jatinder Singh,b80dd12c,0,0,0,0,0,,,,,,4,0,4
+1299581,2021/22,Oman,5,Jatinder Singh,b80dd12c,Simi Singh,c9945bdf,Shoaib Khan,21afb939,0,0,0,0,1,Jatinder Singh,b80dd12c,,,lbw,0,0,0
+1299581,2021/22,Oman,5,Zeeshan Maqsood,34464143,Simi Singh,c9945bdf,Shoaib Khan,21afb939,0,0,0,0,0,,,,,,0,0,0
+1299581,2021/22,Oman,5,Zeeshan Maqsood,34464143,Simi Singh,c9945bdf,Shoaib Khan,21afb939,0,0,0,0,0,,,,,,1,0,1
+1299581,2021/22,Oman,5,Shoaib Khan,21afb939,Simi Singh,c9945bdf,Zeeshan Maqsood,34464143,0,0,0,0,0,,,,,,4,0,4
+1299581,2021/22,Oman,5,Shoaib Khan,21afb939,Simi Singh,c9945bdf,Zeeshan Maqsood,34464143,0,0,0,0,0,,,,,,4,0,4
+1299581,2021/22,Oman,5,Shoaib Khan,21afb939,Simi Singh,c9945bdf,Zeeshan Maqsood,34464143,0,0,0,0,0,,,,,,0,0,0
+1299581,2021/22,Oman,6,Zeeshan Maqsood,34464143,AR McBrine,e957b38f,Shoaib Khan,21afb939,0,0,0,0,0,,,,,,1,0,1
+1299581,2021/22,Oman,6,Shoaib Khan,21afb939,AR McBrine,e957b38f,Zeeshan Maqsood,34464143,0,0,0,0,0,,,,,,1,0,1
+1299581,2021/22,Oman,6,Zeeshan Maqsood,34464143,AR McBrine,e957b38f,Shoaib Khan,21afb939,0,0,0,0,0,,,,,,1,0,1
+1299581,2021/22,Oman,6,Shoaib Khan,21afb939,AR McBrine,e957b38f,Zeeshan Maqsood,34464143,0,0,0,0,0,,,,,,1,0,1
+1299581,2021/22,Oman,6,Zeeshan Maqsood,34464143,AR McBrine,e957b38f,Shoaib Khan,21afb939,0,0,0,0,0,,,,,,0,0,0
+1299581,2021/22,Oman,6,Zeeshan Maqsood,34464143,AR McBrine,e957b38f,Shoaib Khan,21afb939,0,0,0,0,0,,,,,,0,0,0
+1299581,2021/22,Oman,7,Shoaib Khan,21afb939,Simi Singh,c9945bdf,Zeeshan Maqsood,34464143,0,0,0,0,0,,,,,,1,0,1
+1299581,2021/22,Oman,7,Zeeshan Maqsood,34464143,Simi Singh,c9945bdf,Shoaib Khan,21afb939,0,0,0,0,0,,,,,,4,0,4
+1299581,2021/22,Oman,7,Zeeshan Maqsood,34464143,Simi Singh,c9945bdf,Shoaib Khan,21afb939,0,0,0,0,0,,,,,,1,0,1
+1299581,2021/22,Oman,7,Shoaib Khan,21afb939,Simi Singh,c9945bdf,Zeeshan Maqsood,34464143,0,0,0,0,0,,,,,,1,0,1
+1299581,2021/22,Oman,7,Zeeshan Maqsood,34464143,Simi Singh,c9945bdf,Shoaib Khan,21afb939,0,0,0,0,0,,,,,,1,0,1
+1299581,2021/22,Oman,7,Shoaib Khan,21afb939,Simi Singh,c9945bdf,Zeeshan Maqsood,34464143,0,0,0,0,0,,,,,,1,0,1
+1299581,2021/22,Oman,8,Shoaib Khan,21afb939,CA Young,bd0a4a7d,Zeeshan Maqsood,34464143,0,0,0,0,0,,,,,,1,0,1
+1299581,2021/22,Oman,8,Zeeshan Maqsood,34464143,CA Young,bd0a4a7d,Shoaib Khan,21afb939,0,0,0,0,0,,,,,,1,0,1
+1299581,2021/22,Oman,8,Shoaib Khan,21afb939,CA Young,bd0a4a7d,Zeeshan Maqsood,34464143,0,0,0,0,0,,,,,,1,0,1
+1299581,2021/22,Oman,8,Zeeshan Maqsood,34464143,CA Young,bd0a4a7d,Shoaib Khan,21afb939,0,0,0,0,0,,,,,,4,0,4
+1299581,2021/22,Oman,8,Zeeshan Maqsood,34464143,CA Young,bd0a4a7d,Shoaib Khan,21afb939,0,0,0,0,0,,,,,,4,0,4
+1299581,2021/22,Oman,8,Zeeshan Maqsood,34464143,CA Young,bd0a4a7d,Shoaib Khan,21afb939,0,0,0,0,0,,,,,,1,0,1
+1299581,2021/22,Oman,9,Zeeshan Maqsood,34464143,AR McBrine,e957b38f,Shoaib Khan,21afb939,0,0,0,0,0,,,,,,1,0,1
+1299581,2021/22,Oman,9,Shoaib Khan,21afb939,AR McBrine,e957b38f,Zeeshan Maqsood,34464143,0,0,0,0,0,,,,,,1,0,1
+1299581,2021/22,Oman,9,Zeeshan Maqsood,34464143,AR McBrine,e957b38f,Shoaib Khan,21afb939,0,0,0,0,0,,,,,,1,0,1
+1299581,2021/22,Oman,9,Shoaib Khan,21afb939,AR McBrine,e957b38f,Zeeshan Maqsood,34464143,0,0,0,0,0,,,,,,1,0,1
+1299581,2021/22,Oman,9,Zeeshan Maqsood,34464143,AR McBrine,e957b38f,Shoaib Khan,21afb939,0,0,0,0,0,,,,,,1,0,1
+1299581,2021/22,Oman,9,Shoaib Khan,21afb939,AR McBrine,e957b38f,Zeeshan Maqsood,34464143,0,0,0,0,0,,,,,,1,0,1
+1299581,2021/22,Oman,10,Shoaib Khan,21afb939,J Little,9061a703,Zeeshan Maqsood,34464143,0,0,0,0,1,Shoaib Khan,21afb939,L Tucker,3979b5e0,caught,0,0,0
+1299581,2021/22,Oman,10,Khurram Nawaz,07ff32f5,J Little,9061a703,Zeeshan Maqsood,34464143,0,0,0,0,0,,,,,,0,0,0
+1299581,2021/22,Oman,10,Khurram Nawaz,07ff32f5,J Little,9061a703,Zeeshan Maqsood,34464143,0,0,0,0,0,,,,,,0,0,0
+1299581,2021/22,Oman,10,Khurram Nawaz,07ff32f5,J Little,9061a703,Zeeshan Maqsood,34464143,0,0,0,0,1,Khurram Nawaz,07ff32f5,L Tucker,3979b5e0,caught,0,0,0
+1299581,2021/22,Oman,10,Khawar Ali,934b36a6,J Little,9061a703,Zeeshan Maqsood,34464143,0,0,0,0,0,,,,,,0,0,0
+1299581,2021/22,Oman,10,Khawar Ali,934b36a6,J Little,9061a703,Zeeshan Maqsood,34464143,0,0,0,0,0,,,,,,1,0,1
+1299581,2021/22,Oman,11,Khawar Ali,934b36a6,AR McBrine,e957b38f,Zeeshan Maqsood,34464143,0,0,0,0,0,,,,,,0,0,0
+1299581,2021/22,Oman,11,Khawar Ali,934b36a6,AR McBrine,e957b38f,Zeeshan Maqsood,34464143,0,0,0,0,0,,,,,,1,0,1
+1299581,2021/22,Oman,11,Zeeshan Maqsood,34464143,AR McBrine,e957b38f,Khawar Ali,934b36a6,0,0,0,0,0,,,,,,1,0,1
+1299581,2021/22,Oman,11,Khawar Ali,934b36a6,AR McBrine,e957b38f,Zeeshan Maqsood,34464143,0,0,0,0,0,,,,,,1,0,1
+1299581,2021/22,Oman,11,Zeeshan Maqsood,34464143,AR McBrine,e957b38f,Khawar Ali,934b36a6,0,0,0,0,0,,,,,,0,0,0
+1299581,2021/22,Oman,11,Zeeshan Maqsood,34464143,AR McBrine,e957b38f,Khawar Ali,934b36a6,0,0,0,0,0,,,,,,1,0,1
+1299581,2021/22,Oman,12,Zeeshan Maqsood,34464143,CA Young,bd0a4a7d,Khawar Ali,934b36a6,0,0,0,0,0,,,,,,1,0,1
+1299581,2021/22,Oman,12,Khawar Ali,934b36a6,CA Young,bd0a4a7d,Zeeshan Maqsood,34464143,0,0,0,0,0,,,,,,0,0,0
+1299581,2021/22,Oman,12,Khawar Ali,934b36a6,CA Young,bd0a4a7d,Zeeshan Maqsood,34464143,0,0,0,0,0,,,,,,1,0,1
+1299581,2021/22,Oman,12,Zeeshan Maqsood,34464143,CA Young,bd0a4a7d,Khawar Ali,934b36a6,0,0,0,0,0,,,,,,1,0,1
+1299581,2021/22,Oman,12,Khawar Ali,934b36a6,CA Young,bd0a4a7d,Zeeshan Maqsood,34464143,0,0,0,0,0,,,,,,6,0,6
+1299581,2021/22,Oman,12,Khawar Ali,934b36a6,CA Young,bd0a4a7d,Zeeshan Maqsood,34464143,2,0,0,0,0,,,,,,0,2,2
+1299581,2021/22,Oman,12,Zeeshan Maqsood,34464143,CA Young,bd0a4a7d,Khawar Ali,934b36a6,0,0,0,0,0,,,,,,0,0,0
+1299581,2021/22,Oman,13,Khawar Ali,934b36a6,Simi Singh,c9945bdf,Zeeshan Maqsood,34464143,0,0,0,0,0,,,,,,0,0,0
+1299581,2021/22,Oman,13,Khawar Ali,934b36a6,Simi Singh,c9945bdf,Zeeshan Maqsood,34464143,0,0,0,0,1,Khawar Ali,934b36a6,,,lbw,0,0,0
+1299581,2021/22,Oman,13,Naseem Khushi,c63671e9,Simi Singh,c9945bdf,Zeeshan Maqsood,34464143,0,0,0,0,0,,,,,,0,0,0
+1299581,2021/22,Oman,13,Naseem Khushi,c63671e9,Simi Singh,c9945bdf,Zeeshan Maqsood,34464143,0,0,0,0,0,,,,,,0,0,0
+1299581,2021/22,Oman,13,Naseem Khushi,c63671e9,Simi Singh,c9945bdf,Zeeshan Maqsood,34464143,0,0,0,0,0,,,,,,1,0,1
+1299581,2021/22,Oman,13,Zeeshan Maqsood,34464143,Simi Singh,c9945bdf,Naseem Khushi,c63671e9,0,0,0,0,0,,,,,,1,0,1
+1299581,2021/22,Oman,14,Zeeshan Maqsood,34464143,CA Young,bd0a4a7d,Naseem Khushi,c63671e9,0,0,0,0,0,,,,,,1,0,1
+1299581,2021/22,Oman,14,Naseem Khushi,c63671e9,CA Young,bd0a4a7d,Zeeshan Maqsood,34464143,0,0,0,0,0,,,,,,0,0,0
+1299581,2021/22,Oman,14,Naseem Khushi,c63671e9,CA Young,bd0a4a7d,Zeeshan Maqsood,34464143,0,0,0,0,1,Naseem Khushi,c63671e9,AR McBrine,e957b38f,caught,0,0,0
+1299581,2021/22,Oman,14,Zeeshan Maqsood,34464143,CA Young,bd0a4a7d,Aamir Kaleem,7ecb9a14,0,0,0,0,1,Zeeshan Maqsood,34464143,Simi Singh,c9945bdf,caught,0,0,0
+1299581,2021/22,Oman,14,Fayyaz Butt,bd9fbd51,CA Young,bd0a4a7d,Aamir Kaleem,7ecb9a14,0,0,0,0,0,,,,,,1,0,1
+1299581,2021/22,Oman,14,Aamir Kaleem,7ecb9a14,CA Young,bd0a4a7d,Fayyaz Butt,bd9fbd51,0,0,0,0,0,,,,,,0,0,0
+1299581,2021/22,Oman,15,Fayyaz Butt,bd9fbd51,AR McBrine,e957b38f,Aamir Kaleem,7ecb9a14,0,0,0,0,0,,,,,,1,0,1
+1299581,2021/22,Oman,15,Aamir Kaleem,7ecb9a14,AR McBrine,e957b38f,Fayyaz Butt,bd9fbd51,0,0,0,0,1,Aamir Kaleem,7ecb9a14,L Tucker,3979b5e0,stumped,0,0,0
+1299581,2021/22,Oman,15,Kaleemullah,72253b87,AR McBrine,e957b38f,Fayyaz Butt,bd9fbd51,0,0,0,0,0,,,,,,2,0,2
+1299581,2021/22,Oman,15,Kaleemullah,72253b87,AR McBrine,e957b38f,Fayyaz Butt,bd9fbd51,0,0,0,0,0,,,,,,6,0,6
+1299581,2021/22,Oman,15,Kaleemullah,72253b87,AR McBrine,e957b38f,Fayyaz Butt,bd9fbd51,0,0,0,0,1,Kaleemullah,72253b87,MR Adair,fc55ec67,caught,0,0,0
+1299581,2021/22,Oman,15,Fayyaz Butt,bd9fbd51,AR McBrine,e957b38f,Bilal Khan,dcdb87f2,0,0,0,0,0,,,,,,1,0,1
+1299581,2021/22,Oman,16,Fayyaz Butt,bd9fbd51,J Little,9061a703,Bilal Khan,dcdb87f2,0,0,0,0,0,,,,,,0,0,0
+1299581,2021/22,Oman,16,Fayyaz Butt,bd9fbd51,J Little,9061a703,Bilal Khan,dcdb87f2,0,0,0,0,0,,,,,,0,0,0
+1299581,2021/22,Oman,16,Fayyaz Butt,bd9fbd51,J Little,9061a703,Bilal Khan,dcdb87f2,0,0,0,0,0,,,,,,0,0,0
+1299581,2021/22,Oman,16,Fayyaz Butt,bd9fbd51,J Little,9061a703,Bilal Khan,dcdb87f2,0,0,0,0,0,,,,,,0,0,0
+1299581,2021/22,Oman,16,Fayyaz Butt,bd9fbd51,J Little,9061a703,Bilal Khan,dcdb87f2,0,0,0,0,0,,,,,,4,0,4
+1299581,2021/22,Oman,16,Fayyaz Butt,bd9fbd51,J Little,9061a703,Bilal Khan,dcdb87f2,0,0,0,0,0,,,,,,0,0,0
+1299581,2021/22,Oman,17,Bilal Khan,dcdb87f2,MR Adair,fc55ec67,Fayyaz Butt,bd9fbd51,1,0,0,0,0,,,,,,0,1,1
+1299581,2021/22,Oman,17,Bilal Khan,dcdb87f2,MR Adair,fc55ec67,Fayyaz Butt,bd9fbd51,0,0,0,0,0,,,,,,1,0,1
+1299581,2021/22,Oman,17,Fayyaz Butt,bd9fbd51,MR Adair,fc55ec67,Bilal Khan,dcdb87f2,0,0,0,0,0,,,,,,0,0,0
+1299581,2021/22,Oman,17,Fayyaz Butt,bd9fbd51,MR Adair,fc55ec67,Bilal Khan,dcdb87f2,0,0,0,0,0,,,,,,0,0,0
+1299581,2021/22,Oman,17,Fayyaz Butt,bd9fbd51,MR Adair,fc55ec67,Bilal Khan,dcdb87f2,0,0,0,0,0,,,,,,4,0,4
+1299581,2021/22,Oman,17,Fayyaz Butt,bd9fbd51,MR Adair,fc55ec67,Bilal Khan,dcdb87f2,0,0,0,0,0,,,,,,1,0,1
+1299581,2021/22,Oman,17,Bilal Khan,dcdb87f2,MR Adair,fc55ec67,Fayyaz Butt,bd9fbd51,0,0,0,0,0,,,,,,0,0,0
+1299581,2021/22,Oman,18,Fayyaz Butt,bd9fbd51,Simi Singh,c9945bdf,Bilal Khan,dcdb87f2,0,0,0,0,0,,,,,,0,0,0
+1299581,2021/22,Oman,18,Fayyaz Butt,bd9fbd51,Simi Singh,c9945bdf,Bilal Khan,dcdb87f2,0,0,0,0,0,,,,,,0,0,0
+1299581,2021/22,Oman,18,Fayyaz Butt,bd9fbd51,Simi Singh,c9945bdf,Bilal Khan,dcdb87f2,0,0,0,0,1,Fayyaz Butt,bd9fbd51,MR Adair,fc55ec67,caught,0,0,0

@@ -1,0 +1,103 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1141835,2018,Netherlands,0,TP Visee,881b3f8e,Sompal Kami,1adb8ee8,MP O'Dowd,b699df47,0,0,0,0,0,,,,,,0,0,0
+1141835,2018,Netherlands,0,TP Visee,881b3f8e,Sompal Kami,1adb8ee8,MP O'Dowd,b699df47,0,0,0,0,0,,,,,,4,0,4
+1141835,2018,Netherlands,0,TP Visee,881b3f8e,Sompal Kami,1adb8ee8,MP O'Dowd,b699df47,0,0,0,0,0,,,,,,0,0,0
+1141835,2018,Netherlands,0,TP Visee,881b3f8e,Sompal Kami,1adb8ee8,MP O'Dowd,b699df47,0,0,0,0,0,,,,,,2,0,2
+1141835,2018,Netherlands,0,TP Visee,881b3f8e,Sompal Kami,1adb8ee8,MP O'Dowd,b699df47,0,0,0,0,0,,,,,,0,0,0
+1141835,2018,Netherlands,0,TP Visee,881b3f8e,Sompal Kami,1adb8ee8,MP O'Dowd,b699df47,1,0,0,0,0,,,,,,0,1,1
+1141835,2018,Netherlands,0,TP Visee,881b3f8e,Sompal Kami,1adb8ee8,MP O'Dowd,b699df47,0,0,0,0,0,,,,,,4,0,4
+1141835,2018,Netherlands,1,MP O'Dowd,b699df47,B Regmi,98d05440,TP Visee,881b3f8e,0,0,0,0,0,,,,,,1,0,1
+1141835,2018,Netherlands,1,TP Visee,881b3f8e,B Regmi,98d05440,MP O'Dowd,b699df47,0,0,0,0,0,,,,,,1,0,1
+1141835,2018,Netherlands,1,MP O'Dowd,b699df47,B Regmi,98d05440,TP Visee,881b3f8e,0,0,0,0,0,,,,,,0,0,0
+1141835,2018,Netherlands,1,MP O'Dowd,b699df47,B Regmi,98d05440,TP Visee,881b3f8e,0,0,0,0,0,,,,,,1,0,1
+1141835,2018,Netherlands,1,TP Visee,881b3f8e,B Regmi,98d05440,MP O'Dowd,b699df47,0,0,0,0,1,TP Visee,881b3f8e,,,bowled,0,0,0
+1141835,2018,Netherlands,1,W Barresi,0d677597,B Regmi,98d05440,MP O'Dowd,b699df47,0,0,0,0,0,,,,,,0,0,0
+1141835,2018,Netherlands,2,MP O'Dowd,b699df47,Karan KC,f53b3e1d,W Barresi,0d677597,0,0,0,0,0,,,,,,3,0,3
+1141835,2018,Netherlands,2,W Barresi,0d677597,Karan KC,f53b3e1d,MP O'Dowd,b699df47,0,0,0,0,0,,,,,,4,0,4
+1141835,2018,Netherlands,2,W Barresi,0d677597,Karan KC,f53b3e1d,MP O'Dowd,b699df47,0,0,0,0,0,,,,,,2,0,2
+1141835,2018,Netherlands,2,W Barresi,0d677597,Karan KC,f53b3e1d,MP O'Dowd,b699df47,0,0,0,0,0,,,,,,1,0,1
+1141835,2018,Netherlands,2,MP O'Dowd,b699df47,Karan KC,f53b3e1d,W Barresi,0d677597,0,0,0,0,1,MP O'Dowd,b699df47,Aarif Sheikh,cd4d7695,caught,0,0,0
+1141835,2018,Netherlands,2,W Barresi,0d677597,Karan KC,f53b3e1d,RN ten Doeschate,4ec07775,0,0,0,0,0,,,,,,0,0,0
+1141835,2018,Netherlands,3,RN ten Doeschate,4ec07775,S Lamichhane,b410bd3d,W Barresi,0d677597,0,0,0,0,0,,,,,,0,0,0
+1141835,2018,Netherlands,3,RN ten Doeschate,4ec07775,S Lamichhane,b410bd3d,W Barresi,0d677597,0,0,0,0,0,,,,,,0,0,0
+1141835,2018,Netherlands,3,RN ten Doeschate,4ec07775,S Lamichhane,b410bd3d,W Barresi,0d677597,0,0,0,0,0,,,,,,1,0,1
+1141835,2018,Netherlands,3,W Barresi,0d677597,S Lamichhane,b410bd3d,RN ten Doeschate,4ec07775,0,0,0,0,0,,,,,,0,0,0
+1141835,2018,Netherlands,3,W Barresi,0d677597,S Lamichhane,b410bd3d,RN ten Doeschate,4ec07775,0,0,0,0,0,,,,,,4,0,4
+1141835,2018,Netherlands,3,W Barresi,0d677597,S Lamichhane,b410bd3d,RN ten Doeschate,4ec07775,0,0,0,0,0,,,,,,1,0,1
+1141835,2018,Netherlands,4,W Barresi,0d677597,Sompal Kami,1adb8ee8,RN ten Doeschate,4ec07775,0,0,0,0,0,,,,,,4,0,4
+1141835,2018,Netherlands,4,W Barresi,0d677597,Sompal Kami,1adb8ee8,RN ten Doeschate,4ec07775,0,0,0,0,0,,,,,,6,0,6
+1141835,2018,Netherlands,4,W Barresi,0d677597,Sompal Kami,1adb8ee8,RN ten Doeschate,4ec07775,0,0,0,0,0,,,,,,1,0,1
+1141835,2018,Netherlands,4,RN ten Doeschate,4ec07775,Sompal Kami,1adb8ee8,W Barresi,0d677597,0,0,1,0,0,,,,,,0,1,1
+1141835,2018,Netherlands,4,W Barresi,0d677597,Sompal Kami,1adb8ee8,RN ten Doeschate,4ec07775,0,0,0,0,0,,,,,,1,0,1
+1141835,2018,Netherlands,4,RN ten Doeschate,4ec07775,Sompal Kami,1adb8ee8,W Barresi,0d677597,0,0,0,0,0,,,,,,1,0,1
+1141835,2018,Netherlands,5,RN ten Doeschate,4ec07775,B Regmi,98d05440,W Barresi,0d677597,0,0,0,0,0,,,,,,6,0,6
+1141835,2018,Netherlands,5,RN ten Doeschate,4ec07775,B Regmi,98d05440,W Barresi,0d677597,0,0,0,0,0,,,,,,1,0,1
+1141835,2018,Netherlands,5,W Barresi,0d677597,B Regmi,98d05440,RN ten Doeschate,4ec07775,0,0,0,0,0,,,,,,3,0,3
+1141835,2018,Netherlands,5,RN ten Doeschate,4ec07775,B Regmi,98d05440,W Barresi,0d677597,0,0,0,0,0,,,,,,1,0,1
+1141835,2018,Netherlands,5,W Barresi,0d677597,B Regmi,98d05440,RN ten Doeschate,4ec07775,0,0,0,0,0,,,,,,4,0,4
+1141835,2018,Netherlands,5,W Barresi,0d677597,B Regmi,98d05440,RN ten Doeschate,4ec07775,0,0,0,0,0,,,,,,1,0,1
+1141835,2018,Netherlands,6,W Barresi,0d677597,S Lamichhane,b410bd3d,RN ten Doeschate,4ec07775,0,0,0,0,0,,,,,,1,0,1
+1141835,2018,Netherlands,6,RN ten Doeschate,4ec07775,S Lamichhane,b410bd3d,W Barresi,0d677597,0,0,0,0,0,,,,,,1,0,1
+1141835,2018,Netherlands,6,W Barresi,0d677597,S Lamichhane,b410bd3d,RN ten Doeschate,4ec07775,0,0,0,0,0,,,,,,0,0,0
+1141835,2018,Netherlands,6,W Barresi,0d677597,S Lamichhane,b410bd3d,RN ten Doeschate,4ec07775,0,0,0,0,0,,,,,,4,0,4
+1141835,2018,Netherlands,6,W Barresi,0d677597,S Lamichhane,b410bd3d,RN ten Doeschate,4ec07775,0,0,0,0,0,,,,,,0,0,0
+1141835,2018,Netherlands,6,W Barresi,0d677597,S Lamichhane,b410bd3d,RN ten Doeschate,4ec07775,0,0,0,0,0,,,,,,4,0,4
+1141835,2018,Netherlands,7,RN ten Doeschate,4ec07775,LN Rajbanshi,6ad2d5f7,W Barresi,0d677597,0,0,0,0,0,,,,,,1,0,1
+1141835,2018,Netherlands,7,W Barresi,0d677597,LN Rajbanshi,6ad2d5f7,RN ten Doeschate,4ec07775,2,0,0,0,0,,,,,,0,2,2
+1141835,2018,Netherlands,7,RN ten Doeschate,4ec07775,LN Rajbanshi,6ad2d5f7,W Barresi,0d677597,0,0,0,0,0,,,,,,0,0,0
+1141835,2018,Netherlands,7,RN ten Doeschate,4ec07775,LN Rajbanshi,6ad2d5f7,W Barresi,0d677597,0,0,0,0,0,,,,,,0,0,0
+1141835,2018,Netherlands,7,RN ten Doeschate,4ec07775,LN Rajbanshi,6ad2d5f7,W Barresi,0d677597,0,0,0,0,0,,,,,,1,0,1
+1141835,2018,Netherlands,7,W Barresi,0d677597,LN Rajbanshi,6ad2d5f7,RN ten Doeschate,4ec07775,0,0,0,0,0,,,,,,1,0,1
+1141835,2018,Netherlands,7,RN ten Doeschate,4ec07775,LN Rajbanshi,6ad2d5f7,W Barresi,0d677597,0,0,0,0,0,,,,,,0,0,0
+1141835,2018,Netherlands,8,W Barresi,0d677597,Sompal Kami,1adb8ee8,RN ten Doeschate,4ec07775,0,0,0,0,0,,,,,,1,0,1
+1141835,2018,Netherlands,8,RN ten Doeschate,4ec07775,Sompal Kami,1adb8ee8,W Barresi,0d677597,0,0,0,0,0,,,,,,1,0,1
+1141835,2018,Netherlands,8,W Barresi,0d677597,Sompal Kami,1adb8ee8,RN ten Doeschate,4ec07775,0,0,0,0,0,,,,,,1,0,1
+1141835,2018,Netherlands,8,RN ten Doeschate,4ec07775,Sompal Kami,1adb8ee8,W Barresi,0d677597,0,0,0,0,0,,,,,,1,0,1
+1141835,2018,Netherlands,8,W Barresi,0d677597,Sompal Kami,1adb8ee8,RN ten Doeschate,4ec07775,0,0,0,0,1,W Barresi,0d677597,,,bowled,0,0,0
+1141835,2018,Netherlands,8,MJG Rippon,b03db6fa,Sompal Kami,1adb8ee8,RN ten Doeschate,4ec07775,0,0,0,0,0,,,,,,1,0,1
+1141835,2018,Netherlands,9,MJG Rippon,b03db6fa,LN Rajbanshi,6ad2d5f7,RN ten Doeschate,4ec07775,0,0,0,0,0,,,,,,1,0,1
+1141835,2018,Netherlands,9,RN ten Doeschate,4ec07775,LN Rajbanshi,6ad2d5f7,MJG Rippon,b03db6fa,0,0,0,0,0,,,,,,1,0,1
+1141835,2018,Netherlands,9,MJG Rippon,b03db6fa,LN Rajbanshi,6ad2d5f7,RN ten Doeschate,4ec07775,0,0,0,0,0,,,,,,0,0,0
+1141835,2018,Netherlands,9,MJG Rippon,b03db6fa,LN Rajbanshi,6ad2d5f7,RN ten Doeschate,4ec07775,0,0,0,0,0,,,,,,0,0,0
+1141835,2018,Netherlands,9,MJG Rippon,b03db6fa,LN Rajbanshi,6ad2d5f7,RN ten Doeschate,4ec07775,0,0,0,0,0,,,,,,2,0,2
+1141835,2018,Netherlands,9,MJG Rippon,b03db6fa,LN Rajbanshi,6ad2d5f7,RN ten Doeschate,4ec07775,0,0,0,0,0,,,,,,2,0,2
+1141835,2018,Netherlands,10,RN ten Doeschate,4ec07775,P Khadka,12c3ba4d,MJG Rippon,b03db6fa,0,0,0,0,0,,,,,,2,0,2
+1141835,2018,Netherlands,10,RN ten Doeschate,4ec07775,P Khadka,12c3ba4d,MJG Rippon,b03db6fa,0,0,0,0,0,,,,,,2,0,2
+1141835,2018,Netherlands,10,RN ten Doeschate,4ec07775,P Khadka,12c3ba4d,MJG Rippon,b03db6fa,0,0,0,0,0,,,,,,6,0,6
+1141835,2018,Netherlands,10,RN ten Doeschate,4ec07775,P Khadka,12c3ba4d,MJG Rippon,b03db6fa,0,0,0,0,0,,,,,,1,0,1
+1141835,2018,Netherlands,10,MJG Rippon,b03db6fa,P Khadka,12c3ba4d,RN ten Doeschate,4ec07775,0,0,0,0,0,,,,,,0,0,0
+1141835,2018,Netherlands,10,MJG Rippon,b03db6fa,P Khadka,12c3ba4d,RN ten Doeschate,4ec07775,0,0,0,0,0,,,,,,4,0,4
+1141835,2018,Netherlands,11,RN ten Doeschate,4ec07775,B Regmi,98d05440,MJG Rippon,b03db6fa,0,0,0,0,0,,,,,,0,0,0
+1141835,2018,Netherlands,11,RN ten Doeschate,4ec07775,B Regmi,98d05440,MJG Rippon,b03db6fa,0,0,0,0,0,,,,,,2,0,2
+1141835,2018,Netherlands,11,RN ten Doeschate,4ec07775,B Regmi,98d05440,MJG Rippon,b03db6fa,0,0,0,0,0,,,,,,4,0,4
+1141835,2018,Netherlands,11,RN ten Doeschate,4ec07775,B Regmi,98d05440,MJG Rippon,b03db6fa,0,0,0,0,0,,,,,,1,0,1
+1141835,2018,Netherlands,11,MJG Rippon,b03db6fa,B Regmi,98d05440,RN ten Doeschate,4ec07775,0,0,0,0,0,,,,,,1,0,1
+1141835,2018,Netherlands,11,RN ten Doeschate,4ec07775,B Regmi,98d05440,MJG Rippon,b03db6fa,0,0,0,0,0,,,,,,3,0,3
+1141835,2018,Netherlands,12,RN ten Doeschate,4ec07775,S Lamichhane,b410bd3d,MJG Rippon,b03db6fa,0,0,0,0,0,,,,,,1,0,1
+1141835,2018,Netherlands,12,MJG Rippon,b03db6fa,S Lamichhane,b410bd3d,RN ten Doeschate,4ec07775,0,0,0,0,1,RN ten Doeschate,4ec07775,,,run out,0,0,0
+1141835,2018,Netherlands,12,SA Edwards,b59db04f,S Lamichhane,b410bd3d,MJG Rippon,b03db6fa,0,0,0,0,0,,,,,,2,0,2
+1141835,2018,Netherlands,12,SA Edwards,b59db04f,S Lamichhane,b410bd3d,MJG Rippon,b03db6fa,0,0,0,0,0,,,,,,2,0,2
+1141835,2018,Netherlands,12,SA Edwards,b59db04f,S Lamichhane,b410bd3d,MJG Rippon,b03db6fa,0,0,0,0,0,,,,,,4,0,4
+1141835,2018,Netherlands,12,SA Edwards,b59db04f,S Lamichhane,b410bd3d,MJG Rippon,b03db6fa,0,0,0,0,0,,,,,,1,0,1
+1141835,2018,Netherlands,13,SA Edwards,b59db04f,LN Rajbanshi,6ad2d5f7,MJG Rippon,b03db6fa,0,0,0,0,0,,,,,,1,0,1
+1141835,2018,Netherlands,13,MJG Rippon,b03db6fa,LN Rajbanshi,6ad2d5f7,SA Edwards,b59db04f,0,0,0,0,0,,,,,,6,0,6
+1141835,2018,Netherlands,13,MJG Rippon,b03db6fa,LN Rajbanshi,6ad2d5f7,SA Edwards,b59db04f,0,0,0,0,0,,,,,,1,0,1
+1141835,2018,Netherlands,13,SA Edwards,b59db04f,LN Rajbanshi,6ad2d5f7,MJG Rippon,b03db6fa,0,0,0,0,0,,,,,,4,0,4
+1141835,2018,Netherlands,13,SA Edwards,b59db04f,LN Rajbanshi,6ad2d5f7,MJG Rippon,b03db6fa,0,0,0,0,0,,,,,,1,0,1
+1141835,2018,Netherlands,13,MJG Rippon,b03db6fa,LN Rajbanshi,6ad2d5f7,SA Edwards,b59db04f,0,0,0,0,0,,,,,,1,0,1
+1141835,2018,Netherlands,14,MJG Rippon,b03db6fa,Sompal Kami,1adb8ee8,SA Edwards,b59db04f,0,0,0,0,0,,,,,,2,0,2
+1141835,2018,Netherlands,14,MJG Rippon,b03db6fa,Sompal Kami,1adb8ee8,SA Edwards,b59db04f,0,0,0,0,0,,,,,,1,0,1
+1141835,2018,Netherlands,14,SA Edwards,b59db04f,Sompal Kami,1adb8ee8,MJG Rippon,b03db6fa,0,0,0,0,0,,,,,,0,0,0
+1141835,2018,Netherlands,14,SA Edwards,b59db04f,Sompal Kami,1adb8ee8,MJG Rippon,b03db6fa,0,0,0,0,0,,,,,,4,0,4
+1141835,2018,Netherlands,14,SA Edwards,b59db04f,Sompal Kami,1adb8ee8,MJG Rippon,b03db6fa,0,0,0,0,0,,,,,,1,0,1
+1141835,2018,Netherlands,14,MJG Rippon,b03db6fa,Sompal Kami,1adb8ee8,SA Edwards,b59db04f,0,0,0,0,0,,,,,,6,0,6
+1141835,2018,Netherlands,15,SA Edwards,b59db04f,S Lamichhane,b410bd3d,MJG Rippon,b03db6fa,0,0,0,0,0,,,,,,6,0,6
+1141835,2018,Netherlands,15,SA Edwards,b59db04f,S Lamichhane,b410bd3d,MJG Rippon,b03db6fa,0,0,0,0,0,,,,,,6,0,6
+1141835,2018,Netherlands,15,SA Edwards,b59db04f,S Lamichhane,b410bd3d,MJG Rippon,b03db6fa,0,0,0,0,0,,,,,,1,0,1
+1141835,2018,Netherlands,15,MJG Rippon,b03db6fa,S Lamichhane,b410bd3d,SA Edwards,b59db04f,0,0,0,0,0,,,,,,4,0,4
+1141835,2018,Netherlands,15,MJG Rippon,b03db6fa,S Lamichhane,b410bd3d,SA Edwards,b59db04f,0,0,0,0,0,,,,,,0,0,0
+1141835,2018,Netherlands,15,MJG Rippon,b03db6fa,S Lamichhane,b410bd3d,SA Edwards,b59db04f,0,0,0,0,0,,,,,,0,0,0
+1141835,2018,Netherlands,16,SA Edwards,b59db04f,Karan KC,f53b3e1d,MJG Rippon,b03db6fa,0,0,0,0,0,,,,,,1,0,1
+1141835,2018,Netherlands,16,MJG Rippon,b03db6fa,Karan KC,f53b3e1d,SA Edwards,b59db04f,0,0,0,0,0,,,,,,4,0,4
+1141835,2018,Netherlands,16,MJG Rippon,b03db6fa,Karan KC,f53b3e1d,SA Edwards,b59db04f,0,0,0,0,0,,,,,,0,0,0
+1141835,2018,Netherlands,16,MJG Rippon,b03db6fa,Karan KC,f53b3e1d,SA Edwards,b59db04f,0,0,0,0,0,,,,,,2,0,2

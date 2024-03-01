@@ -1,0 +1,245 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1158358,2018,Botswana,0,L Mophakedi,c8cdbb92,SN Shihepo,1b3f7dbb,O Batisani,7ff6c967,1,0,0,0,0,,,,,,0,1,1
+1158358,2018,Botswana,0,L Mophakedi,c8cdbb92,SN Shihepo,1b3f7dbb,O Batisani,7ff6c967,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Botswana,0,L Mophakedi,c8cdbb92,SN Shihepo,1b3f7dbb,O Batisani,7ff6c967,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Botswana,0,L Mophakedi,c8cdbb92,SN Shihepo,1b3f7dbb,O Batisani,7ff6c967,0,0,0,0,1,L Mophakedi,c8cdbb92,,,lbw,0,0,0
+1158358,2018,Botswana,0,S Mosweu,10726a80,SN Shihepo,1b3f7dbb,O Batisani,7ff6c967,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Botswana,0,S Mosweu,10726a80,SN Shihepo,1b3f7dbb,O Batisani,7ff6c967,0,0,0,0,0,,,,,,1,0,1
+1158358,2018,Botswana,0,O Batisani,7ff6c967,SN Shihepo,1b3f7dbb,S Mosweu,10726a80,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Botswana,1,S Mosweu,10726a80,S Namusha,ba0e04b2,O Batisani,7ff6c967,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Botswana,1,S Mosweu,10726a80,S Namusha,ba0e04b2,O Batisani,7ff6c967,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Botswana,1,S Mosweu,10726a80,S Namusha,ba0e04b2,O Batisani,7ff6c967,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Botswana,1,S Mosweu,10726a80,S Namusha,ba0e04b2,O Batisani,7ff6c967,0,0,0,0,0,,,,,,2,0,2
+1158358,2018,Botswana,1,S Mosweu,10726a80,S Namusha,ba0e04b2,O Batisani,7ff6c967,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Botswana,1,S Mosweu,10726a80,S Namusha,ba0e04b2,O Batisani,7ff6c967,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Botswana,2,O Batisani,7ff6c967,SN Shihepo,1b3f7dbb,S Mosweu,10726a80,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Botswana,2,O Batisani,7ff6c967,SN Shihepo,1b3f7dbb,S Mosweu,10726a80,0,0,0,0,0,,,,,,4,0,4
+1158358,2018,Botswana,2,O Batisani,7ff6c967,SN Shihepo,1b3f7dbb,S Mosweu,10726a80,0,0,0,0,0,,,,,,1,0,1
+1158358,2018,Botswana,2,S Mosweu,10726a80,SN Shihepo,1b3f7dbb,O Batisani,7ff6c967,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Botswana,2,S Mosweu,10726a80,SN Shihepo,1b3f7dbb,O Batisani,7ff6c967,0,0,0,0,0,,,,,,4,0,4
+1158358,2018,Botswana,2,S Mosweu,10726a80,SN Shihepo,1b3f7dbb,O Batisani,7ff6c967,0,0,0,0,1,S Mosweu,10726a80,Yasmeen Khan,ade5c0c0,caught,0,0,0
+1158358,2018,Botswana,3,O Batisani,7ff6c967,S Namusha,ba0e04b2,F Samanyika,c42eed38,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Botswana,3,O Batisani,7ff6c967,S Namusha,ba0e04b2,F Samanyika,c42eed38,1,0,0,0,0,,,,,,0,1,1
+1158358,2018,Botswana,3,O Batisani,7ff6c967,S Namusha,ba0e04b2,F Samanyika,c42eed38,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Botswana,3,O Batisani,7ff6c967,S Namusha,ba0e04b2,F Samanyika,c42eed38,0,0,0,0,1,O Batisani,7ff6c967,Yasmeen Khan,ade5c0c0,caught,0,0,0
+1158358,2018,Botswana,3,F Samanyika,c42eed38,S Namusha,ba0e04b2,T Legaabile,c7e59109,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Botswana,3,F Samanyika,c42eed38,S Namusha,ba0e04b2,T Legaabile,c7e59109,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Botswana,3,F Samanyika,c42eed38,S Namusha,ba0e04b2,T Legaabile,c7e59109,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Botswana,4,T Legaabile,c7e59109,SN Shihepo,1b3f7dbb,F Samanyika,c42eed38,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Botswana,4,T Legaabile,c7e59109,SN Shihepo,1b3f7dbb,F Samanyika,c42eed38,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Botswana,4,T Legaabile,c7e59109,SN Shihepo,1b3f7dbb,F Samanyika,c42eed38,1,0,0,0,0,,,,,,0,1,1
+1158358,2018,Botswana,4,T Legaabile,c7e59109,SN Shihepo,1b3f7dbb,F Samanyika,c42eed38,0,0,0,0,1,T Legaabile,c7e59109,,,caught and bowled,0,0,0
+1158358,2018,Botswana,4,G Matome,a6898f7a,SN Shihepo,1b3f7dbb,F Samanyika,c42eed38,0,1,0,1,0,,,,,,0,2,2
+1158358,2018,Botswana,4,F Samanyika,c42eed38,SN Shihepo,1b3f7dbb,G Matome,a6898f7a,0,1,0,0,0,,,,,,2,1,3
+1158358,2018,Botswana,4,F Samanyika,c42eed38,SN Shihepo,1b3f7dbb,G Matome,a6898f7a,0,0,0,0,0,,,,,,1,0,1
+1158358,2018,Botswana,4,G Matome,a6898f7a,SN Shihepo,1b3f7dbb,F Samanyika,c42eed38,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Botswana,4,G Matome,a6898f7a,SN Shihepo,1b3f7dbb,F Samanyika,c42eed38,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Botswana,5,F Samanyika,c42eed38,S Namusha,ba0e04b2,G Matome,a6898f7a,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Botswana,5,F Samanyika,c42eed38,S Namusha,ba0e04b2,G Matome,a6898f7a,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Botswana,5,F Samanyika,c42eed38,S Namusha,ba0e04b2,G Matome,a6898f7a,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Botswana,5,F Samanyika,c42eed38,S Namusha,ba0e04b2,G Matome,a6898f7a,0,0,0,0,0,,,,,,1,0,1
+1158358,2018,Botswana,5,G Matome,a6898f7a,S Namusha,ba0e04b2,F Samanyika,c42eed38,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Botswana,5,G Matome,a6898f7a,S Namusha,ba0e04b2,F Samanyika,c42eed38,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Botswana,6,F Samanyika,c42eed38,W Mwatile,5728635a,G Matome,a6898f7a,0,0,0,0,0,,,,,,1,0,1
+1158358,2018,Botswana,6,G Matome,a6898f7a,W Mwatile,5728635a,F Samanyika,c42eed38,0,0,0,0,0,,,,,,1,0,1
+1158358,2018,Botswana,6,F Samanyika,c42eed38,W Mwatile,5728635a,G Matome,a6898f7a,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Botswana,6,F Samanyika,c42eed38,W Mwatile,5728635a,G Matome,a6898f7a,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Botswana,6,F Samanyika,c42eed38,W Mwatile,5728635a,G Matome,a6898f7a,0,0,0,0,0,,,,,,1,0,1
+1158358,2018,Botswana,6,G Matome,a6898f7a,W Mwatile,5728635a,F Samanyika,c42eed38,0,0,0,0,0,,,,,,4,0,4
+1158358,2018,Botswana,7,F Samanyika,c42eed38,JA Diergaardt,b72a8938,G Matome,a6898f7a,0,0,0,0,0,,,,,,4,0,4
+1158358,2018,Botswana,7,F Samanyika,c42eed38,JA Diergaardt,b72a8938,G Matome,a6898f7a,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Botswana,7,F Samanyika,c42eed38,JA Diergaardt,b72a8938,G Matome,a6898f7a,0,0,0,0,0,,,,,,1,0,1
+1158358,2018,Botswana,7,G Matome,a6898f7a,JA Diergaardt,b72a8938,F Samanyika,c42eed38,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Botswana,7,G Matome,a6898f7a,JA Diergaardt,b72a8938,F Samanyika,c42eed38,0,0,0,0,0,,,,,,4,0,4
+1158358,2018,Botswana,7,G Matome,a6898f7a,JA Diergaardt,b72a8938,F Samanyika,c42eed38,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Botswana,8,F Samanyika,c42eed38,W Mwatile,5728635a,G Matome,a6898f7a,1,0,0,0,0,,,,,,0,1,1
+1158358,2018,Botswana,8,F Samanyika,c42eed38,W Mwatile,5728635a,G Matome,a6898f7a,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Botswana,8,F Samanyika,c42eed38,W Mwatile,5728635a,G Matome,a6898f7a,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Botswana,8,F Samanyika,c42eed38,W Mwatile,5728635a,G Matome,a6898f7a,0,0,0,0,0,,,,,,1,0,1
+1158358,2018,Botswana,8,G Matome,a6898f7a,W Mwatile,5728635a,F Samanyika,c42eed38,1,0,0,0,0,,,,,,0,1,1
+1158358,2018,Botswana,8,G Matome,a6898f7a,W Mwatile,5728635a,F Samanyika,c42eed38,0,0,0,0,0,,,,,,1,0,1
+1158358,2018,Botswana,8,F Samanyika,c42eed38,W Mwatile,5728635a,G Matome,a6898f7a,1,0,0,0,0,,,,,,0,1,1
+1158358,2018,Botswana,8,F Samanyika,c42eed38,W Mwatile,5728635a,G Matome,a6898f7a,0,0,0,0,0,,,,,,1,0,1
+1158358,2018,Botswana,8,G Matome,a6898f7a,W Mwatile,5728635a,F Samanyika,c42eed38,0,0,0,0,0,,,,,,2,0,2
+1158358,2018,Botswana,9,F Samanyika,c42eed38,KA Green,fa9fdefa,G Matome,a6898f7a,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Botswana,9,F Samanyika,c42eed38,KA Green,fa9fdefa,G Matome,a6898f7a,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Botswana,9,F Samanyika,c42eed38,KA Green,fa9fdefa,G Matome,a6898f7a,0,0,0,0,0,,,,,,1,0,1
+1158358,2018,Botswana,9,G Matome,a6898f7a,KA Green,fa9fdefa,F Samanyika,c42eed38,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Botswana,9,G Matome,a6898f7a,KA Green,fa9fdefa,F Samanyika,c42eed38,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Botswana,9,G Matome,a6898f7a,KA Green,fa9fdefa,F Samanyika,c42eed38,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Botswana,10,F Samanyika,c42eed38,Reehana Khan,4cf05de9,G Matome,a6898f7a,1,0,0,0,0,,,,,,0,1,1
+1158358,2018,Botswana,10,F Samanyika,c42eed38,Reehana Khan,4cf05de9,G Matome,a6898f7a,0,0,0,0,0,,,,,,1,0,1
+1158358,2018,Botswana,10,G Matome,a6898f7a,Reehana Khan,4cf05de9,F Samanyika,c42eed38,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Botswana,10,G Matome,a6898f7a,Reehana Khan,4cf05de9,F Samanyika,c42eed38,0,0,0,0,0,,,,,,1,0,1
+1158358,2018,Botswana,10,F Samanyika,c42eed38,Reehana Khan,4cf05de9,G Matome,a6898f7a,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Botswana,10,F Samanyika,c42eed38,Reehana Khan,4cf05de9,G Matome,a6898f7a,1,0,0,0,0,,,,,,0,1,1
+1158358,2018,Botswana,10,F Samanyika,c42eed38,Reehana Khan,4cf05de9,G Matome,a6898f7a,0,0,0,0,0,,,,,,1,0,1
+1158358,2018,Botswana,10,G Matome,a6898f7a,Reehana Khan,4cf05de9,F Samanyika,c42eed38,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Botswana,11,F Samanyika,c42eed38,KA Green,fa9fdefa,G Matome,a6898f7a,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Botswana,11,F Samanyika,c42eed38,KA Green,fa9fdefa,G Matome,a6898f7a,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Botswana,11,F Samanyika,c42eed38,KA Green,fa9fdefa,G Matome,a6898f7a,0,0,0,0,0,,,,,,1,0,1
+1158358,2018,Botswana,11,G Matome,a6898f7a,KA Green,fa9fdefa,F Samanyika,c42eed38,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Botswana,11,G Matome,a6898f7a,KA Green,fa9fdefa,F Samanyika,c42eed38,1,0,0,0,0,,,,,,0,1,1
+1158358,2018,Botswana,11,G Matome,a6898f7a,KA Green,fa9fdefa,F Samanyika,c42eed38,0,0,0,0,0,,,,,,1,0,1
+1158358,2018,Botswana,11,F Samanyika,c42eed38,KA Green,fa9fdefa,G Matome,a6898f7a,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Botswana,12,G Matome,a6898f7a,S Namusha,ba0e04b2,F Samanyika,c42eed38,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Botswana,12,G Matome,a6898f7a,S Namusha,ba0e04b2,F Samanyika,c42eed38,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Botswana,12,G Matome,a6898f7a,S Namusha,ba0e04b2,F Samanyika,c42eed38,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Botswana,12,G Matome,a6898f7a,S Namusha,ba0e04b2,F Samanyika,c42eed38,0,0,0,0,0,,,,,,1,0,1
+1158358,2018,Botswana,12,F Samanyika,c42eed38,S Namusha,ba0e04b2,G Matome,a6898f7a,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Botswana,12,F Samanyika,c42eed38,S Namusha,ba0e04b2,G Matome,a6898f7a,0,0,0,0,0,,,,,,1,0,1
+1158358,2018,Botswana,13,F Samanyika,c42eed38,KA Green,fa9fdefa,G Matome,a6898f7a,0,0,0,0,0,,,,,,1,0,1
+1158358,2018,Botswana,13,G Matome,a6898f7a,KA Green,fa9fdefa,F Samanyika,c42eed38,0,0,0,0,0,,,,,,1,0,1
+1158358,2018,Botswana,13,F Samanyika,c42eed38,KA Green,fa9fdefa,G Matome,a6898f7a,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Botswana,13,F Samanyika,c42eed38,KA Green,fa9fdefa,G Matome,a6898f7a,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Botswana,13,F Samanyika,c42eed38,KA Green,fa9fdefa,G Matome,a6898f7a,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Botswana,13,F Samanyika,c42eed38,KA Green,fa9fdefa,G Matome,a6898f7a,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Botswana,14,G Matome,a6898f7a,JA Diergaardt,b72a8938,F Samanyika,c42eed38,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Botswana,14,G Matome,a6898f7a,JA Diergaardt,b72a8938,F Samanyika,c42eed38,0,0,0,0,0,,,,,,1,0,1
+1158358,2018,Botswana,14,F Samanyika,c42eed38,JA Diergaardt,b72a8938,G Matome,a6898f7a,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Botswana,14,F Samanyika,c42eed38,JA Diergaardt,b72a8938,G Matome,a6898f7a,0,0,0,0,0,,,,,,1,0,1
+1158358,2018,Botswana,14,G Matome,a6898f7a,JA Diergaardt,b72a8938,F Samanyika,c42eed38,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Botswana,14,G Matome,a6898f7a,JA Diergaardt,b72a8938,F Samanyika,c42eed38,0,0,0,0,0,,,,,,4,0,4
+1158358,2018,Botswana,15,F Samanyika,c42eed38,KA Green,fa9fdefa,G Matome,a6898f7a,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Botswana,15,F Samanyika,c42eed38,KA Green,fa9fdefa,G Matome,a6898f7a,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Botswana,15,F Samanyika,c42eed38,KA Green,fa9fdefa,G Matome,a6898f7a,0,0,0,0,0,,,,,,1,0,1
+1158358,2018,Botswana,15,G Matome,a6898f7a,KA Green,fa9fdefa,F Samanyika,c42eed38,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Botswana,15,G Matome,a6898f7a,KA Green,fa9fdefa,F Samanyika,c42eed38,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Botswana,15,G Matome,a6898f7a,KA Green,fa9fdefa,F Samanyika,c42eed38,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Botswana,16,F Samanyika,c42eed38,JA Diergaardt,b72a8938,G Matome,a6898f7a,0,0,0,0,0,,,,,,1,0,1
+1158358,2018,Botswana,16,G Matome,a6898f7a,JA Diergaardt,b72a8938,F Samanyika,c42eed38,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Botswana,16,G Matome,a6898f7a,JA Diergaardt,b72a8938,F Samanyika,c42eed38,0,1,0,0,0,,,,,,4,1,5
+1158358,2018,Botswana,16,G Matome,a6898f7a,JA Diergaardt,b72a8938,F Samanyika,c42eed38,0,0,0,0,0,,,,,,1,0,1
+1158358,2018,Botswana,16,F Samanyika,c42eed38,JA Diergaardt,b72a8938,G Matome,a6898f7a,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Botswana,16,F Samanyika,c42eed38,JA Diergaardt,b72a8938,G Matome,a6898f7a,0,0,0,0,0,,,,,,4,0,4
+1158358,2018,Botswana,16,F Samanyika,c42eed38,JA Diergaardt,b72a8938,G Matome,a6898f7a,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Botswana,17,G Matome,a6898f7a,D Foerster,5596d5bf,F Samanyika,c42eed38,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Botswana,17,G Matome,a6898f7a,D Foerster,5596d5bf,F Samanyika,c42eed38,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Botswana,17,G Matome,a6898f7a,D Foerster,5596d5bf,F Samanyika,c42eed38,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Botswana,17,G Matome,a6898f7a,D Foerster,5596d5bf,F Samanyika,c42eed38,0,0,0,0,0,,,,,,2,0,2
+1158358,2018,Botswana,17,G Matome,a6898f7a,D Foerster,5596d5bf,F Samanyika,c42eed38,0,0,0,0,0,,,,,,1,0,1
+1158358,2018,Botswana,17,F Samanyika,c42eed38,D Foerster,5596d5bf,G Matome,a6898f7a,0,0,0,0,0,,,,,,1,0,1
+1158358,2018,Botswana,18,F Samanyika,c42eed38,SN Shihepo,1b3f7dbb,G Matome,a6898f7a,0,0,0,0,0,,,,,,1,0,1
+1158358,2018,Botswana,18,G Matome,a6898f7a,SN Shihepo,1b3f7dbb,F Samanyika,c42eed38,1,0,0,0,0,,,,,,0,1,1
+1158358,2018,Botswana,18,G Matome,a6898f7a,SN Shihepo,1b3f7dbb,F Samanyika,c42eed38,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Botswana,18,G Matome,a6898f7a,SN Shihepo,1b3f7dbb,F Samanyika,c42eed38,1,0,0,0,0,,,,,,0,1,1
+1158358,2018,Botswana,18,G Matome,a6898f7a,SN Shihepo,1b3f7dbb,F Samanyika,c42eed38,0,0,0,0,0,,,,,,1,0,1
+1158358,2018,Botswana,18,F Samanyika,c42eed38,SN Shihepo,1b3f7dbb,G Matome,a6898f7a,0,0,0,0,0,,,,,,2,0,2
+1158358,2018,Botswana,18,F Samanyika,c42eed38,SN Shihepo,1b3f7dbb,G Matome,a6898f7a,0,0,0,0,0,,,,,,1,0,1
+1158358,2018,Botswana,18,G Matome,a6898f7a,SN Shihepo,1b3f7dbb,F Samanyika,c42eed38,0,0,0,0,0,,,,,,1,0,1
+1158358,2018,Botswana,19,G Matome,a6898f7a,D Foerster,5596d5bf,F Samanyika,c42eed38,0,0,0,0,0,,,,,,1,0,1
+1158358,2018,Botswana,19,F Samanyika,c42eed38,D Foerster,5596d5bf,G Matome,a6898f7a,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Botswana,19,F Samanyika,c42eed38,D Foerster,5596d5bf,G Matome,a6898f7a,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Botswana,19,F Samanyika,c42eed38,D Foerster,5596d5bf,G Matome,a6898f7a,0,0,0,0,0,,,,,,1,0,1
+1158358,2018,Botswana,19,G Matome,a6898f7a,D Foerster,5596d5bf,F Samanyika,c42eed38,0,0,0,0,0,,,,,,1,0,1
+1158358,2018,Botswana,19,F Samanyika,c42eed38,D Foerster,5596d5bf,G Matome,a6898f7a,0,0,0,0,0,,,,,,1,0,1
+1158358,2018,Namibia,0,Yasmeen Khan,ade5c0c0,G Matome,a6898f7a,JA Diergaardt,b72a8938,0,0,0,0,0,,,,,,1,0,1
+1158358,2018,Namibia,0,JA Diergaardt,b72a8938,G Matome,a6898f7a,Yasmeen Khan,ade5c0c0,1,0,0,0,0,,,,,,0,1,1
+1158358,2018,Namibia,0,JA Diergaardt,b72a8938,G Matome,a6898f7a,Yasmeen Khan,ade5c0c0,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Namibia,0,JA Diergaardt,b72a8938,G Matome,a6898f7a,Yasmeen Khan,ade5c0c0,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Namibia,0,JA Diergaardt,b72a8938,G Matome,a6898f7a,Yasmeen Khan,ade5c0c0,0,0,0,0,0,,,,,,1,0,1
+1158358,2018,Namibia,0,Yasmeen Khan,ade5c0c0,G Matome,a6898f7a,JA Diergaardt,b72a8938,0,0,0,0,0,,,,,,4,0,4
+1158358,2018,Namibia,0,Yasmeen Khan,ade5c0c0,G Matome,a6898f7a,JA Diergaardt,b72a8938,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Namibia,1,JA Diergaardt,b72a8938,T Legaabile,c7e59109,Yasmeen Khan,ade5c0c0,1,0,0,0,0,,,,,,0,1,1
+1158358,2018,Namibia,1,JA Diergaardt,b72a8938,T Legaabile,c7e59109,Yasmeen Khan,ade5c0c0,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Namibia,1,JA Diergaardt,b72a8938,T Legaabile,c7e59109,Yasmeen Khan,ade5c0c0,0,0,0,0,0,,,,,,1,0,1
+1158358,2018,Namibia,1,Yasmeen Khan,ade5c0c0,T Legaabile,c7e59109,JA Diergaardt,b72a8938,0,0,0,0,0,,,,,,1,0,1
+1158358,2018,Namibia,1,JA Diergaardt,b72a8938,T Legaabile,c7e59109,Yasmeen Khan,ade5c0c0,0,0,0,0,1,JA Diergaardt,b72a8938,A Mokgotlhe,781f1a40,caught,0,0,0
+1158358,2018,Namibia,1,A van der Merwe,02610bad,T Legaabile,c7e59109,Yasmeen Khan,ade5c0c0,1,0,0,0,0,,,,,,0,1,1
+1158358,2018,Namibia,1,A van der Merwe,02610bad,T Legaabile,c7e59109,Yasmeen Khan,ade5c0c0,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Namibia,1,A van der Merwe,02610bad,T Legaabile,c7e59109,Yasmeen Khan,ade5c0c0,0,0,0,0,0,,,,,,1,0,1
+1158358,2018,Namibia,2,A van der Merwe,02610bad,G Matome,a6898f7a,Yasmeen Khan,ade5c0c0,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Namibia,2,A van der Merwe,02610bad,G Matome,a6898f7a,Yasmeen Khan,ade5c0c0,1,0,0,0,0,,,,,,0,1,1
+1158358,2018,Namibia,2,A van der Merwe,02610bad,G Matome,a6898f7a,Yasmeen Khan,ade5c0c0,0,0,0,0,0,,,,,,1,0,1
+1158358,2018,Namibia,2,Yasmeen Khan,ade5c0c0,G Matome,a6898f7a,A van der Merwe,02610bad,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Namibia,2,Yasmeen Khan,ade5c0c0,G Matome,a6898f7a,A van der Merwe,02610bad,0,0,0,0,0,,,,,,4,0,4
+1158358,2018,Namibia,2,Yasmeen Khan,ade5c0c0,G Matome,a6898f7a,A van der Merwe,02610bad,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Namibia,2,Yasmeen Khan,ade5c0c0,G Matome,a6898f7a,A van der Merwe,02610bad,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Namibia,3,A van der Merwe,02610bad,T Legaabile,c7e59109,Yasmeen Khan,ade5c0c0,0,0,0,0,0,,,,,,2,0,2
+1158358,2018,Namibia,3,A van der Merwe,02610bad,T Legaabile,c7e59109,Yasmeen Khan,ade5c0c0,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Namibia,3,A van der Merwe,02610bad,T Legaabile,c7e59109,Yasmeen Khan,ade5c0c0,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Namibia,3,A van der Merwe,02610bad,T Legaabile,c7e59109,Yasmeen Khan,ade5c0c0,0,0,0,0,0,,,,,,1,0,1
+1158358,2018,Namibia,3,Yasmeen Khan,ade5c0c0,T Legaabile,c7e59109,A van der Merwe,02610bad,0,0,0,0,0,,,,,,1,0,1
+1158358,2018,Namibia,3,A van der Merwe,02610bad,T Legaabile,c7e59109,Yasmeen Khan,ade5c0c0,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Namibia,4,Yasmeen Khan,ade5c0c0,B Mpedi,8c712051,A van der Merwe,02610bad,0,0,0,0,1,Yasmeen Khan,ade5c0c0,L Mophakedi,c8cdbb92,caught,0,0,0
+1158358,2018,Namibia,4,W Mwatile,5728635a,B Mpedi,8c712051,A van der Merwe,02610bad,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Namibia,4,W Mwatile,5728635a,B Mpedi,8c712051,A van der Merwe,02610bad,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Namibia,4,W Mwatile,5728635a,B Mpedi,8c712051,A van der Merwe,02610bad,1,0,0,0,0,,,,,,0,1,1
+1158358,2018,Namibia,4,W Mwatile,5728635a,B Mpedi,8c712051,A van der Merwe,02610bad,0,0,0,0,0,,,,,,4,0,4
+1158358,2018,Namibia,4,W Mwatile,5728635a,B Mpedi,8c712051,A van der Merwe,02610bad,0,0,0,0,0,,,,,,1,0,1
+1158358,2018,Namibia,4,A van der Merwe,02610bad,B Mpedi,8c712051,W Mwatile,5728635a,0,0,0,0,0,,,,,,1,0,1
+1158358,2018,Namibia,5,A van der Merwe,02610bad,T Legaabile,c7e59109,W Mwatile,5728635a,0,0,0,0,0,,,,,,1,0,1
+1158358,2018,Namibia,5,W Mwatile,5728635a,T Legaabile,c7e59109,A van der Merwe,02610bad,0,0,0,0,0,,,,,,3,0,3
+1158358,2018,Namibia,5,A van der Merwe,02610bad,T Legaabile,c7e59109,W Mwatile,5728635a,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Namibia,5,A van der Merwe,02610bad,T Legaabile,c7e59109,W Mwatile,5728635a,0,0,0,0,0,,,,,,1,0,1
+1158358,2018,Namibia,5,W Mwatile,5728635a,T Legaabile,c7e59109,A van der Merwe,02610bad,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Namibia,5,W Mwatile,5728635a,T Legaabile,c7e59109,A van der Merwe,02610bad,0,0,0,0,0,,,,,,1,0,1
+1158358,2018,Namibia,6,W Mwatile,5728635a,B Mpedi,8c712051,A van der Merwe,02610bad,1,0,0,0,0,,,,,,0,1,1
+1158358,2018,Namibia,6,W Mwatile,5728635a,B Mpedi,8c712051,A van der Merwe,02610bad,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Namibia,6,W Mwatile,5728635a,B Mpedi,8c712051,A van der Merwe,02610bad,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Namibia,6,W Mwatile,5728635a,B Mpedi,8c712051,A van der Merwe,02610bad,0,0,0,0,0,,,,,,1,0,1
+1158358,2018,Namibia,6,A van der Merwe,02610bad,B Mpedi,8c712051,W Mwatile,5728635a,0,0,0,0,0,,,,,,1,0,1
+1158358,2018,Namibia,6,W Mwatile,5728635a,B Mpedi,8c712051,A van der Merwe,02610bad,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Namibia,6,W Mwatile,5728635a,B Mpedi,8c712051,A van der Merwe,02610bad,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Namibia,7,A van der Merwe,02610bad,A Mokgotlhe,781f1a40,W Mwatile,5728635a,0,0,0,0,0,,,,,,2,0,2
+1158358,2018,Namibia,7,A van der Merwe,02610bad,A Mokgotlhe,781f1a40,W Mwatile,5728635a,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Namibia,7,A van der Merwe,02610bad,A Mokgotlhe,781f1a40,W Mwatile,5728635a,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Namibia,7,A van der Merwe,02610bad,A Mokgotlhe,781f1a40,W Mwatile,5728635a,0,0,0,0,0,,,,,,1,0,1
+1158358,2018,Namibia,7,W Mwatile,5728635a,A Mokgotlhe,781f1a40,A van der Merwe,02610bad,1,0,0,0,0,,,,,,0,1,1
+1158358,2018,Namibia,7,W Mwatile,5728635a,A Mokgotlhe,781f1a40,A van der Merwe,02610bad,0,0,0,0,0,,,,,,1,0,1
+1158358,2018,Namibia,7,A van der Merwe,02610bad,A Mokgotlhe,781f1a40,W Mwatile,5728635a,0,0,0,0,0,,,,,,1,0,1
+1158358,2018,Namibia,8,A van der Merwe,02610bad,M Ramafifi,40d1b7bd,W Mwatile,5728635a,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Namibia,8,A van der Merwe,02610bad,M Ramafifi,40d1b7bd,W Mwatile,5728635a,0,0,0,0,0,,,,,,4,0,4
+1158358,2018,Namibia,8,A van der Merwe,02610bad,M Ramafifi,40d1b7bd,W Mwatile,5728635a,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Namibia,8,A van der Merwe,02610bad,M Ramafifi,40d1b7bd,W Mwatile,5728635a,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Namibia,8,A van der Merwe,02610bad,M Ramafifi,40d1b7bd,W Mwatile,5728635a,0,0,0,0,0,,,,,,1,0,1
+1158358,2018,Namibia,8,W Mwatile,5728635a,M Ramafifi,40d1b7bd,A van der Merwe,02610bad,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Namibia,9,A van der Merwe,02610bad,A Mokgotlhe,781f1a40,W Mwatile,5728635a,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Namibia,9,A van der Merwe,02610bad,A Mokgotlhe,781f1a40,W Mwatile,5728635a,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Namibia,9,A van der Merwe,02610bad,A Mokgotlhe,781f1a40,W Mwatile,5728635a,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Namibia,9,A van der Merwe,02610bad,A Mokgotlhe,781f1a40,W Mwatile,5728635a,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Namibia,9,A van der Merwe,02610bad,A Mokgotlhe,781f1a40,W Mwatile,5728635a,1,0,0,0,0,,,,,,0,1,1
+1158358,2018,Namibia,9,A van der Merwe,02610bad,A Mokgotlhe,781f1a40,W Mwatile,5728635a,1,0,0,0,0,,,,,,0,1,1
+1158358,2018,Namibia,9,A van der Merwe,02610bad,A Mokgotlhe,781f1a40,W Mwatile,5728635a,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Namibia,9,A van der Merwe,02610bad,A Mokgotlhe,781f1a40,W Mwatile,5728635a,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Namibia,10,W Mwatile,5728635a,M Ramafifi,40d1b7bd,A van der Merwe,02610bad,0,0,0,0,0,,,,,,1,0,1
+1158358,2018,Namibia,10,A van der Merwe,02610bad,M Ramafifi,40d1b7bd,W Mwatile,5728635a,0,0,0,0,0,,,,,,2,0,2
+1158358,2018,Namibia,10,A van der Merwe,02610bad,M Ramafifi,40d1b7bd,W Mwatile,5728635a,0,0,0,0,0,,,,,,4,0,4
+1158358,2018,Namibia,10,A van der Merwe,02610bad,M Ramafifi,40d1b7bd,W Mwatile,5728635a,0,0,0,0,0,,,,,,1,0,1
+1158358,2018,Namibia,10,W Mwatile,5728635a,M Ramafifi,40d1b7bd,A van der Merwe,02610bad,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Namibia,10,W Mwatile,5728635a,M Ramafifi,40d1b7bd,A van der Merwe,02610bad,0,0,0,0,0,,,,,,4,0,4
+1158358,2018,Namibia,11,A van der Merwe,02610bad,A Mokgotlhe,781f1a40,W Mwatile,5728635a,0,0,0,0,0,,,,,,1,0,1
+1158358,2018,Namibia,11,W Mwatile,5728635a,A Mokgotlhe,781f1a40,A van der Merwe,02610bad,1,0,0,0,0,,,,,,0,1,1
+1158358,2018,Namibia,11,W Mwatile,5728635a,A Mokgotlhe,781f1a40,A van der Merwe,02610bad,0,0,0,0,0,,,,,,4,0,4
+1158358,2018,Namibia,11,W Mwatile,5728635a,A Mokgotlhe,781f1a40,A van der Merwe,02610bad,1,0,0,0,0,,,,,,0,1,1
+1158358,2018,Namibia,11,W Mwatile,5728635a,A Mokgotlhe,781f1a40,A van der Merwe,02610bad,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Namibia,11,W Mwatile,5728635a,A Mokgotlhe,781f1a40,A van der Merwe,02610bad,1,0,0,0,0,,,,,,0,1,1
+1158358,2018,Namibia,11,W Mwatile,5728635a,A Mokgotlhe,781f1a40,A van der Merwe,02610bad,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Namibia,11,W Mwatile,5728635a,A Mokgotlhe,781f1a40,A van der Merwe,02610bad,0,0,0,0,0,,,,,,1,0,1
+1158358,2018,Namibia,11,A van der Merwe,02610bad,A Mokgotlhe,781f1a40,W Mwatile,5728635a,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Namibia,12,W Mwatile,5728635a,G Matome,a6898f7a,A van der Merwe,02610bad,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Namibia,12,W Mwatile,5728635a,G Matome,a6898f7a,A van der Merwe,02610bad,0,0,0,0,0,,,,,,4,0,4
+1158358,2018,Namibia,12,W Mwatile,5728635a,G Matome,a6898f7a,A van der Merwe,02610bad,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Namibia,12,W Mwatile,5728635a,G Matome,a6898f7a,A van der Merwe,02610bad,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Namibia,12,W Mwatile,5728635a,G Matome,a6898f7a,A van der Merwe,02610bad,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Namibia,12,W Mwatile,5728635a,G Matome,a6898f7a,A van der Merwe,02610bad,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Namibia,13,A van der Merwe,02610bad,M Ramafifi,40d1b7bd,W Mwatile,5728635a,0,0,0,0,0,,,,,,1,0,1
+1158358,2018,Namibia,13,W Mwatile,5728635a,M Ramafifi,40d1b7bd,A van der Merwe,02610bad,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Namibia,13,W Mwatile,5728635a,M Ramafifi,40d1b7bd,A van der Merwe,02610bad,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Namibia,13,W Mwatile,5728635a,M Ramafifi,40d1b7bd,A van der Merwe,02610bad,0,0,0,0,1,W Mwatile,5728635a,B Gaanamong,73d19a42,caught,0,0,0
+1158358,2018,Namibia,13,A van der Merwe,02610bad,M Ramafifi,40d1b7bd,KA Green,fa9fdefa,0,0,0,0,0,,,,,,1,0,1
+1158358,2018,Namibia,13,KA Green,fa9fdefa,M Ramafifi,40d1b7bd,A van der Merwe,02610bad,0,0,0,0,0,,,,,,4,0,4
+1158358,2018,Namibia,14,A van der Merwe,02610bad,B Mpedi,8c712051,KA Green,fa9fdefa,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Namibia,14,A van der Merwe,02610bad,B Mpedi,8c712051,KA Green,fa9fdefa,0,0,0,0,1,A van der Merwe,02610bad,G Matome,a6898f7a,caught,0,0,0
+1158358,2018,Namibia,14,Reehana Khan,4cf05de9,B Mpedi,8c712051,KA Green,fa9fdefa,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Namibia,14,Reehana Khan,4cf05de9,B Mpedi,8c712051,KA Green,fa9fdefa,0,0,0,0,0,,,,,,2,0,2
+1158358,2018,Namibia,14,Reehana Khan,4cf05de9,B Mpedi,8c712051,KA Green,fa9fdefa,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Namibia,14,Reehana Khan,4cf05de9,B Mpedi,8c712051,KA Green,fa9fdefa,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Namibia,15,KA Green,fa9fdefa,M Ramafifi,40d1b7bd,Reehana Khan,4cf05de9,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Namibia,15,KA Green,fa9fdefa,M Ramafifi,40d1b7bd,Reehana Khan,4cf05de9,0,0,0,0,0,,,,,,4,0,4
+1158358,2018,Namibia,15,KA Green,fa9fdefa,M Ramafifi,40d1b7bd,Reehana Khan,4cf05de9,0,0,0,0,0,,,,,,1,0,1
+1158358,2018,Namibia,15,Reehana Khan,4cf05de9,M Ramafifi,40d1b7bd,KA Green,fa9fdefa,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Namibia,15,Reehana Khan,4cf05de9,M Ramafifi,40d1b7bd,KA Green,fa9fdefa,1,0,0,0,0,,,,,,0,1,1
+1158358,2018,Namibia,15,Reehana Khan,4cf05de9,M Ramafifi,40d1b7bd,KA Green,fa9fdefa,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Namibia,15,Reehana Khan,4cf05de9,M Ramafifi,40d1b7bd,KA Green,fa9fdefa,0,0,0,0,0,,,,,,0,0,0
+1158358,2018,Namibia,16,KA Green,fa9fdefa,B Mpedi,8c712051,Reehana Khan,4cf05de9,0,0,0,0,0,,,,,,4,0,4

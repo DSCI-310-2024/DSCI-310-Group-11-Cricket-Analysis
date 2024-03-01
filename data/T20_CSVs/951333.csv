@@ -1,0 +1,247 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+951333,2015/16,Pakistan,0,Sharjeel Khan,193ef196,Taskin Ahmed,ef18b66e,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,0,0,0
+951333,2015/16,Pakistan,0,Sharjeel Khan,193ef196,Taskin Ahmed,ef18b66e,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,1,0,1
+951333,2015/16,Pakistan,0,Ahmed Shehzad,f8fd6e3f,Taskin Ahmed,ef18b66e,Sharjeel Khan,193ef196,0,0,0,0,0,,,,,,0,0,0
+951333,2015/16,Pakistan,0,Ahmed Shehzad,f8fd6e3f,Taskin Ahmed,ef18b66e,Sharjeel Khan,193ef196,0,0,0,0,0,,,,,,4,0,4
+951333,2015/16,Pakistan,0,Ahmed Shehzad,f8fd6e3f,Taskin Ahmed,ef18b66e,Sharjeel Khan,193ef196,0,0,0,0,0,,,,,,1,0,1
+951333,2015/16,Pakistan,0,Sharjeel Khan,193ef196,Taskin Ahmed,ef18b66e,Ahmed Shehzad,f8fd6e3f,0,0,1,0,0,,,,,,0,1,1
+951333,2015/16,Pakistan,1,Sharjeel Khan,193ef196,Al-Amin Hossain,3f5f39cd,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,6,0,6
+951333,2015/16,Pakistan,1,Sharjeel Khan,193ef196,Al-Amin Hossain,3f5f39cd,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,0,0,0
+951333,2015/16,Pakistan,1,Sharjeel Khan,193ef196,Al-Amin Hossain,3f5f39cd,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,6,0,6
+951333,2015/16,Pakistan,1,Sharjeel Khan,193ef196,Al-Amin Hossain,3f5f39cd,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,1,0,1
+951333,2015/16,Pakistan,1,Ahmed Shehzad,f8fd6e3f,Al-Amin Hossain,3f5f39cd,Sharjeel Khan,193ef196,0,0,0,0,0,,,,,,1,0,1
+951333,2015/16,Pakistan,1,Sharjeel Khan,193ef196,Al-Amin Hossain,3f5f39cd,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,4,0,4
+951333,2015/16,Pakistan,2,Ahmed Shehzad,f8fd6e3f,Arafat Sunny,1f7adc8a,Sharjeel Khan,193ef196,0,0,0,0,0,,,,,,1,0,1
+951333,2015/16,Pakistan,2,Sharjeel Khan,193ef196,Arafat Sunny,1f7adc8a,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,0,0,0
+951333,2015/16,Pakistan,2,Sharjeel Khan,193ef196,Arafat Sunny,1f7adc8a,Ahmed Shehzad,f8fd6e3f,0,0,0,0,1,Sharjeel Khan,193ef196,,,bowled,0,0,0
+951333,2015/16,Pakistan,2,Mohammad Hafeez,9ab63e7b,Arafat Sunny,1f7adc8a,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,0,0,0
+951333,2015/16,Pakistan,2,Mohammad Hafeez,9ab63e7b,Arafat Sunny,1f7adc8a,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,6,0,6
+951333,2015/16,Pakistan,2,Mohammad Hafeez,9ab63e7b,Arafat Sunny,1f7adc8a,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,0,0,0
+951333,2015/16,Pakistan,3,Ahmed Shehzad,f8fd6e3f,Taskin Ahmed,ef18b66e,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,4,0,4
+951333,2015/16,Pakistan,3,Ahmed Shehzad,f8fd6e3f,Taskin Ahmed,ef18b66e,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,0,0,0
+951333,2015/16,Pakistan,3,Ahmed Shehzad,f8fd6e3f,Taskin Ahmed,ef18b66e,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,0,0,0
+951333,2015/16,Pakistan,3,Ahmed Shehzad,f8fd6e3f,Taskin Ahmed,ef18b66e,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,0,0,0
+951333,2015/16,Pakistan,3,Ahmed Shehzad,f8fd6e3f,Taskin Ahmed,ef18b66e,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,1,0,1
+951333,2015/16,Pakistan,3,Mohammad Hafeez,9ab63e7b,Taskin Ahmed,ef18b66e,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,1,0,1
+951333,2015/16,Pakistan,4,Mohammad Hafeez,9ab63e7b,Arafat Sunny,1f7adc8a,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,1,0,1
+951333,2015/16,Pakistan,4,Ahmed Shehzad,f8fd6e3f,Arafat Sunny,1f7adc8a,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,0,0,0
+951333,2015/16,Pakistan,4,Ahmed Shehzad,f8fd6e3f,Arafat Sunny,1f7adc8a,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,4,0,4
+951333,2015/16,Pakistan,4,Ahmed Shehzad,f8fd6e3f,Arafat Sunny,1f7adc8a,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,1,0,1
+951333,2015/16,Pakistan,4,Mohammad Hafeez,9ab63e7b,Arafat Sunny,1f7adc8a,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,0,0,0
+951333,2015/16,Pakistan,4,Mohammad Hafeez,9ab63e7b,Arafat Sunny,1f7adc8a,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,0,0,0
+951333,2015/16,Pakistan,5,Ahmed Shehzad,f8fd6e3f,Shakib Al Hasan,7dc35884,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,0,0,0
+951333,2015/16,Pakistan,5,Ahmed Shehzad,f8fd6e3f,Shakib Al Hasan,7dc35884,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,1,0,1
+951333,2015/16,Pakistan,5,Mohammad Hafeez,9ab63e7b,Shakib Al Hasan,7dc35884,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,4,0,4
+951333,2015/16,Pakistan,5,Mohammad Hafeez,9ab63e7b,Shakib Al Hasan,7dc35884,Ahmed Shehzad,f8fd6e3f,1,0,0,0,0,,,,,,0,1,1
+951333,2015/16,Pakistan,5,Mohammad Hafeez,9ab63e7b,Shakib Al Hasan,7dc35884,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,0,0,0
+951333,2015/16,Pakistan,5,Mohammad Hafeez,9ab63e7b,Shakib Al Hasan,7dc35884,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,4,0,4
+951333,2015/16,Pakistan,5,Mohammad Hafeez,9ab63e7b,Shakib Al Hasan,7dc35884,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,1,0,1
+951333,2015/16,Pakistan,6,Mohammad Hafeez,9ab63e7b,Arafat Sunny,1f7adc8a,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,1,0,1
+951333,2015/16,Pakistan,6,Ahmed Shehzad,f8fd6e3f,Arafat Sunny,1f7adc8a,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,1,0,1
+951333,2015/16,Pakistan,6,Mohammad Hafeez,9ab63e7b,Arafat Sunny,1f7adc8a,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,0,0,0
+951333,2015/16,Pakistan,6,Mohammad Hafeez,9ab63e7b,Arafat Sunny,1f7adc8a,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,1,0,1
+951333,2015/16,Pakistan,6,Ahmed Shehzad,f8fd6e3f,Arafat Sunny,1f7adc8a,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,1,0,1
+951333,2015/16,Pakistan,6,Mohammad Hafeez,9ab63e7b,Arafat Sunny,1f7adc8a,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,6,0,6
+951333,2015/16,Pakistan,7,Ahmed Shehzad,f8fd6e3f,Mashrafe Mortaza,e186f49c,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,1,0,1
+951333,2015/16,Pakistan,7,Mohammad Hafeez,9ab63e7b,Mashrafe Mortaza,e186f49c,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,1,0,1
+951333,2015/16,Pakistan,7,Ahmed Shehzad,f8fd6e3f,Mashrafe Mortaza,e186f49c,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,4,0,4
+951333,2015/16,Pakistan,7,Ahmed Shehzad,f8fd6e3f,Mashrafe Mortaza,e186f49c,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,1,0,1
+951333,2015/16,Pakistan,7,Mohammad Hafeez,9ab63e7b,Mashrafe Mortaza,e186f49c,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,1,0,1
+951333,2015/16,Pakistan,7,Ahmed Shehzad,f8fd6e3f,Mashrafe Mortaza,e186f49c,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,4,0,4
+951333,2015/16,Pakistan,8,Mohammad Hafeez,9ab63e7b,Shakib Al Hasan,7dc35884,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,1,0,1
+951333,2015/16,Pakistan,8,Ahmed Shehzad,f8fd6e3f,Shakib Al Hasan,7dc35884,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,1,0,1
+951333,2015/16,Pakistan,8,Mohammad Hafeez,9ab63e7b,Shakib Al Hasan,7dc35884,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,1,0,1
+951333,2015/16,Pakistan,8,Ahmed Shehzad,f8fd6e3f,Shakib Al Hasan,7dc35884,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,1,0,1
+951333,2015/16,Pakistan,8,Mohammad Hafeez,9ab63e7b,Shakib Al Hasan,7dc35884,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,1,0,1
+951333,2015/16,Pakistan,8,Ahmed Shehzad,f8fd6e3f,Shakib Al Hasan,7dc35884,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,1,0,1
+951333,2015/16,Pakistan,9,Ahmed Shehzad,f8fd6e3f,Sabbir Rahman,7147f314,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,4,0,4
+951333,2015/16,Pakistan,9,Ahmed Shehzad,f8fd6e3f,Sabbir Rahman,7147f314,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,0,0,0
+951333,2015/16,Pakistan,9,Ahmed Shehzad,f8fd6e3f,Sabbir Rahman,7147f314,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,1,0,1
+951333,2015/16,Pakistan,9,Mohammad Hafeez,9ab63e7b,Sabbir Rahman,7147f314,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,0,0,0
+951333,2015/16,Pakistan,9,Mohammad Hafeez,9ab63e7b,Sabbir Rahman,7147f314,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,0,0,0
+951333,2015/16,Pakistan,9,Mohammad Hafeez,9ab63e7b,Sabbir Rahman,7147f314,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,2,0,2
+951333,2015/16,Pakistan,10,Ahmed Shehzad,f8fd6e3f,Shakib Al Hasan,7dc35884,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,0,0,0
+951333,2015/16,Pakistan,10,Ahmed Shehzad,f8fd6e3f,Shakib Al Hasan,7dc35884,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,1,0,1
+951333,2015/16,Pakistan,10,Mohammad Hafeez,9ab63e7b,Shakib Al Hasan,7dc35884,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,2,0,2
+951333,2015/16,Pakistan,10,Mohammad Hafeez,9ab63e7b,Shakib Al Hasan,7dc35884,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,4,0,4
+951333,2015/16,Pakistan,10,Mohammad Hafeez,9ab63e7b,Shakib Al Hasan,7dc35884,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,0,0,0
+951333,2015/16,Pakistan,10,Mohammad Hafeez,9ab63e7b,Shakib Al Hasan,7dc35884,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,2,0,2
+951333,2015/16,Pakistan,11,Ahmed Shehzad,f8fd6e3f,Al-Amin Hossain,3f5f39cd,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,0,0,0
+951333,2015/16,Pakistan,11,Ahmed Shehzad,f8fd6e3f,Al-Amin Hossain,3f5f39cd,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,4,0,4
+951333,2015/16,Pakistan,11,Ahmed Shehzad,f8fd6e3f,Al-Amin Hossain,3f5f39cd,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,1,0,1
+951333,2015/16,Pakistan,11,Mohammad Hafeez,9ab63e7b,Al-Amin Hossain,3f5f39cd,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,0,0,0
+951333,2015/16,Pakistan,11,Mohammad Hafeez,9ab63e7b,Al-Amin Hossain,3f5f39cd,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,1,0,1
+951333,2015/16,Pakistan,11,Ahmed Shehzad,f8fd6e3f,Al-Amin Hossain,3f5f39cd,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,1,0,1
+951333,2015/16,Pakistan,12,Ahmed Shehzad,f8fd6e3f,Mashrafe Mortaza,e186f49c,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,4,0,4
+951333,2015/16,Pakistan,12,Ahmed Shehzad,f8fd6e3f,Mashrafe Mortaza,e186f49c,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,1,0,1
+951333,2015/16,Pakistan,12,Mohammad Hafeez,9ab63e7b,Mashrafe Mortaza,e186f49c,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,0,0,0
+951333,2015/16,Pakistan,12,Mohammad Hafeez,9ab63e7b,Mashrafe Mortaza,e186f49c,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,4,0,4
+951333,2015/16,Pakistan,12,Mohammad Hafeez,9ab63e7b,Mashrafe Mortaza,e186f49c,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,1,0,1
+951333,2015/16,Pakistan,12,Ahmed Shehzad,f8fd6e3f,Mashrafe Mortaza,e186f49c,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,1,0,1
+951333,2015/16,Pakistan,13,Ahmed Shehzad,f8fd6e3f,Sabbir Rahman,7147f314,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,1,0,1
+951333,2015/16,Pakistan,13,Mohammad Hafeez,9ab63e7b,Sabbir Rahman,7147f314,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,2,0,2
+951333,2015/16,Pakistan,13,Mohammad Hafeez,9ab63e7b,Sabbir Rahman,7147f314,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,1,0,1
+951333,2015/16,Pakistan,13,Ahmed Shehzad,f8fd6e3f,Sabbir Rahman,7147f314,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,0,0,0
+951333,2015/16,Pakistan,13,Ahmed Shehzad,f8fd6e3f,Sabbir Rahman,7147f314,Mohammad Hafeez,9ab63e7b,0,0,0,0,1,Ahmed Shehzad,f8fd6e3f,Mahmudullah,bf1d7d3e,caught,0,0,0
+951333,2015/16,Pakistan,13,Mohammad Hafeez,9ab63e7b,Sabbir Rahman,7147f314,Shahid Afridi,0dc00542,0,0,0,0,0,,,,,,0,0,0
+951333,2015/16,Pakistan,14,Shahid Afridi,0dc00542,Mashrafe Mortaza,e186f49c,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,1,0,1
+951333,2015/16,Pakistan,14,Mohammad Hafeez,9ab63e7b,Mashrafe Mortaza,e186f49c,Shahid Afridi,0dc00542,0,0,0,0,0,,,,,,1,0,1
+951333,2015/16,Pakistan,14,Shahid Afridi,0dc00542,Mashrafe Mortaza,e186f49c,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,4,0,4
+951333,2015/16,Pakistan,14,Shahid Afridi,0dc00542,Mashrafe Mortaza,e186f49c,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,4,0,4
+951333,2015/16,Pakistan,14,Shahid Afridi,0dc00542,Mashrafe Mortaza,e186f49c,Mohammad Hafeez,9ab63e7b,0,1,0,0,0,,,,,,6,1,7
+951333,2015/16,Pakistan,14,Shahid Afridi,0dc00542,Mashrafe Mortaza,e186f49c,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,0,0,0
+951333,2015/16,Pakistan,14,Shahid Afridi,0dc00542,Mashrafe Mortaza,e186f49c,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,1,0,1
+951333,2015/16,Pakistan,15,Shahid Afridi,0dc00542,Al-Amin Hossain,3f5f39cd,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,2,0,2
+951333,2015/16,Pakistan,15,Shahid Afridi,0dc00542,Al-Amin Hossain,3f5f39cd,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,1,0,1
+951333,2015/16,Pakistan,15,Mohammad Hafeez,9ab63e7b,Al-Amin Hossain,3f5f39cd,Shahid Afridi,0dc00542,0,0,0,0,0,,,,,,4,0,4
+951333,2015/16,Pakistan,15,Mohammad Hafeez,9ab63e7b,Al-Amin Hossain,3f5f39cd,Shahid Afridi,0dc00542,0,0,0,0,0,,,,,,4,0,4
+951333,2015/16,Pakistan,15,Mohammad Hafeez,9ab63e7b,Al-Amin Hossain,3f5f39cd,Shahid Afridi,0dc00542,0,0,0,0,0,,,,,,1,0,1
+951333,2015/16,Pakistan,15,Shahid Afridi,0dc00542,Al-Amin Hossain,3f5f39cd,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,6,0,6
+951333,2015/16,Pakistan,16,Mohammad Hafeez,9ab63e7b,Arafat Sunny,1f7adc8a,Shahid Afridi,0dc00542,0,0,0,0,0,,,,,,1,0,1
+951333,2015/16,Pakistan,16,Shahid Afridi,0dc00542,Arafat Sunny,1f7adc8a,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,1,0,1
+951333,2015/16,Pakistan,16,Mohammad Hafeez,9ab63e7b,Arafat Sunny,1f7adc8a,Shahid Afridi,0dc00542,0,0,0,0,0,,,,,,4,0,4
+951333,2015/16,Pakistan,16,Mohammad Hafeez,9ab63e7b,Arafat Sunny,1f7adc8a,Shahid Afridi,0dc00542,0,0,0,0,1,Mohammad Hafeez,9ab63e7b,Soumya Sarkar,4d9f9686,caught,0,0,0
+951333,2015/16,Pakistan,16,Shahid Afridi,0dc00542,Arafat Sunny,1f7adc8a,Umar Akmal,fd2bf2a0,0,0,0,0,0,,,,,,4,0,4
+951333,2015/16,Pakistan,16,Shahid Afridi,0dc00542,Arafat Sunny,1f7adc8a,Umar Akmal,fd2bf2a0,0,0,0,0,0,,,,,,1,0,1
+951333,2015/16,Pakistan,17,Shahid Afridi,0dc00542,Taskin Ahmed,ef18b66e,Umar Akmal,fd2bf2a0,0,0,0,0,0,,,,,,6,0,6
+951333,2015/16,Pakistan,17,Shahid Afridi,0dc00542,Taskin Ahmed,ef18b66e,Umar Akmal,fd2bf2a0,0,0,0,0,0,,,,,,0,0,0
+951333,2015/16,Pakistan,17,Shahid Afridi,0dc00542,Taskin Ahmed,ef18b66e,Umar Akmal,fd2bf2a0,0,0,0,0,0,,,,,,1,0,1
+951333,2015/16,Pakistan,17,Umar Akmal,fd2bf2a0,Taskin Ahmed,ef18b66e,Shahid Afridi,0dc00542,0,0,0,0,0,,,,,,0,0,0
+951333,2015/16,Pakistan,17,Umar Akmal,fd2bf2a0,Taskin Ahmed,ef18b66e,Shahid Afridi,0dc00542,0,0,0,0,1,Umar Akmal,fd2bf2a0,Shakib Al Hasan,7dc35884,caught,0,0,0
+951333,2015/16,Pakistan,17,Shoaib Malik,64c34cd0,Taskin Ahmed,ef18b66e,Shahid Afridi,0dc00542,0,0,0,0,0,,,,,,1,0,1
+951333,2015/16,Pakistan,18,Shoaib Malik,64c34cd0,Shakib Al Hasan,7dc35884,Shahid Afridi,0dc00542,0,0,0,0,0,,,,,,1,0,1
+951333,2015/16,Pakistan,18,Shahid Afridi,0dc00542,Shakib Al Hasan,7dc35884,Shoaib Malik,64c34cd0,0,0,0,0,0,,,,,,4,0,4
+951333,2015/16,Pakistan,18,Shahid Afridi,0dc00542,Shakib Al Hasan,7dc35884,Shoaib Malik,64c34cd0,0,0,0,0,0,,,,,,1,0,1
+951333,2015/16,Pakistan,18,Shoaib Malik,64c34cd0,Shakib Al Hasan,7dc35884,Shahid Afridi,0dc00542,0,0,0,0,0,,,,,,0,0,0
+951333,2015/16,Pakistan,18,Shoaib Malik,64c34cd0,Shakib Al Hasan,7dc35884,Shahid Afridi,0dc00542,0,0,0,0,0,,,,,,1,0,1
+951333,2015/16,Pakistan,18,Shahid Afridi,0dc00542,Shakib Al Hasan,7dc35884,Shoaib Malik,64c34cd0,0,0,0,0,0,,,,,,6,0,6
+951333,2015/16,Pakistan,19,Shoaib Malik,64c34cd0,Taskin Ahmed,ef18b66e,Shahid Afridi,0dc00542,0,0,0,0,0,,,,,,4,0,4
+951333,2015/16,Pakistan,19,Shoaib Malik,64c34cd0,Taskin Ahmed,ef18b66e,Shahid Afridi,0dc00542,0,0,0,0,0,,,,,,4,0,4
+951333,2015/16,Pakistan,19,Shoaib Malik,64c34cd0,Taskin Ahmed,ef18b66e,Shahid Afridi,0dc00542,0,0,0,0,0,,,,,,1,0,1
+951333,2015/16,Pakistan,19,Shahid Afridi,0dc00542,Taskin Ahmed,ef18b66e,Shoaib Malik,64c34cd0,0,0,0,0,1,Shahid Afridi,0dc00542,Mahmudullah,bf1d7d3e,caught,0,0,0
+951333,2015/16,Pakistan,19,Shoaib Malik,64c34cd0,Taskin Ahmed,ef18b66e,Imad Wasim,9cb8d7a6,0,0,0,0,0,,,,,,2,0,2
+951333,2015/16,Pakistan,19,Shoaib Malik,64c34cd0,Taskin Ahmed,ef18b66e,Imad Wasim,9cb8d7a6,0,0,0,0,0,,,,,,1,0,1
+951333,2015/16,Bangladesh,0,Tamim Iqbal,3b041a12,Mohammad Amir,e174dadd,Soumya Sarkar,4d9f9686,0,0,0,0,0,,,,,,1,0,1
+951333,2015/16,Bangladesh,0,Soumya Sarkar,4d9f9686,Mohammad Amir,e174dadd,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,0,0,0
+951333,2015/16,Bangladesh,0,Soumya Sarkar,4d9f9686,Mohammad Amir,e174dadd,Tamim Iqbal,3b041a12,0,0,0,0,1,Soumya Sarkar,4d9f9686,,,bowled,0,0,0
+951333,2015/16,Bangladesh,0,Sabbir Rahman,7147f314,Mohammad Amir,e174dadd,Tamim Iqbal,3b041a12,1,0,0,0,0,,,,,,0,1,1
+951333,2015/16,Bangladesh,0,Sabbir Rahman,7147f314,Mohammad Amir,e174dadd,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,4,0,4
+951333,2015/16,Bangladesh,0,Sabbir Rahman,7147f314,Mohammad Amir,e174dadd,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,0,0,0
+951333,2015/16,Bangladesh,0,Sabbir Rahman,7147f314,Mohammad Amir,e174dadd,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,0,0,0
+951333,2015/16,Bangladesh,1,Tamim Iqbal,3b041a12,Mohammad Irfan,a8e3170f,Sabbir Rahman,7147f314,0,0,0,0,0,,,,,,0,0,0
+951333,2015/16,Bangladesh,1,Tamim Iqbal,3b041a12,Mohammad Irfan,a8e3170f,Sabbir Rahman,7147f314,0,0,1,0,0,,,,,,0,1,1
+951333,2015/16,Bangladesh,1,Sabbir Rahman,7147f314,Mohammad Irfan,a8e3170f,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,4,0,4
+951333,2015/16,Bangladesh,1,Sabbir Rahman,7147f314,Mohammad Irfan,a8e3170f,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,1,0,1
+951333,2015/16,Bangladesh,1,Tamim Iqbal,3b041a12,Mohammad Irfan,a8e3170f,Sabbir Rahman,7147f314,0,0,0,0,0,,,,,,2,0,2
+951333,2015/16,Bangladesh,1,Tamim Iqbal,3b041a12,Mohammad Irfan,a8e3170f,Sabbir Rahman,7147f314,0,0,0,0,0,,,,,,1,0,1
+951333,2015/16,Bangladesh,2,Tamim Iqbal,3b041a12,Mohammad Amir,e174dadd,Sabbir Rahman,7147f314,0,0,0,0,0,,,,,,1,0,1
+951333,2015/16,Bangladesh,2,Sabbir Rahman,7147f314,Mohammad Amir,e174dadd,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,4,0,4
+951333,2015/16,Bangladesh,2,Sabbir Rahman,7147f314,Mohammad Amir,e174dadd,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,0,0,0
+951333,2015/16,Bangladesh,2,Sabbir Rahman,7147f314,Mohammad Amir,e174dadd,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,0,0,0
+951333,2015/16,Bangladesh,2,Sabbir Rahman,7147f314,Mohammad Amir,e174dadd,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,1,0,1
+951333,2015/16,Bangladesh,2,Tamim Iqbal,3b041a12,Mohammad Amir,e174dadd,Sabbir Rahman,7147f314,0,0,0,0,0,,,,,,0,0,0
+951333,2015/16,Bangladesh,3,Sabbir Rahman,7147f314,Mohammad Irfan,a8e3170f,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,0,0,0
+951333,2015/16,Bangladesh,3,Sabbir Rahman,7147f314,Mohammad Irfan,a8e3170f,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,1,0,1
+951333,2015/16,Bangladesh,3,Tamim Iqbal,3b041a12,Mohammad Irfan,a8e3170f,Sabbir Rahman,7147f314,1,0,0,0,0,,,,,,0,1,1
+951333,2015/16,Bangladesh,3,Tamim Iqbal,3b041a12,Mohammad Irfan,a8e3170f,Sabbir Rahman,7147f314,0,0,0,0,0,,,,,,1,0,1
+951333,2015/16,Bangladesh,3,Sabbir Rahman,7147f314,Mohammad Irfan,a8e3170f,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,1,0,1
+951333,2015/16,Bangladesh,3,Tamim Iqbal,3b041a12,Mohammad Irfan,a8e3170f,Sabbir Rahman,7147f314,0,0,0,0,0,,,,,,1,0,1
+951333,2015/16,Bangladesh,3,Sabbir Rahman,7147f314,Mohammad Irfan,a8e3170f,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,0,0,0
+951333,2015/16,Bangladesh,4,Tamim Iqbal,3b041a12,Wahab Riaz,b3118300,Sabbir Rahman,7147f314,0,0,1,0,0,,,,,,0,1,1
+951333,2015/16,Bangladesh,4,Sabbir Rahman,7147f314,Wahab Riaz,b3118300,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,4,0,4
+951333,2015/16,Bangladesh,4,Sabbir Rahman,7147f314,Wahab Riaz,b3118300,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,0,0,0
+951333,2015/16,Bangladesh,4,Sabbir Rahman,7147f314,Wahab Riaz,b3118300,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,1,0,1
+951333,2015/16,Bangladesh,4,Tamim Iqbal,3b041a12,Wahab Riaz,b3118300,Sabbir Rahman,7147f314,0,0,0,0,0,,,,,,0,0,0
+951333,2015/16,Bangladesh,4,Tamim Iqbal,3b041a12,Wahab Riaz,b3118300,Sabbir Rahman,7147f314,0,0,0,0,0,,,,,,1,0,1
+951333,2015/16,Bangladesh,5,Tamim Iqbal,3b041a12,Shahid Afridi,0dc00542,Sabbir Rahman,7147f314,0,0,0,0,0,,,,,,6,0,6
+951333,2015/16,Bangladesh,5,Tamim Iqbal,3b041a12,Shahid Afridi,0dc00542,Sabbir Rahman,7147f314,0,0,0,0,0,,,,,,1,0,1
+951333,2015/16,Bangladesh,5,Sabbir Rahman,7147f314,Shahid Afridi,0dc00542,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,0,0,0
+951333,2015/16,Bangladesh,5,Sabbir Rahman,7147f314,Shahid Afridi,0dc00542,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,4,0,4
+951333,2015/16,Bangladesh,5,Sabbir Rahman,7147f314,Shahid Afridi,0dc00542,Tamim Iqbal,3b041a12,0,0,0,0,1,Sabbir Rahman,7147f314,,,bowled,0,0,0
+951333,2015/16,Bangladesh,5,Shakib Al Hasan,7dc35884,Shahid Afridi,0dc00542,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,1,0,1
+951333,2015/16,Bangladesh,6,Shakib Al Hasan,7dc35884,Shoaib Malik,64c34cd0,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,1,0,1
+951333,2015/16,Bangladesh,6,Tamim Iqbal,3b041a12,Shoaib Malik,64c34cd0,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,6,0,6
+951333,2015/16,Bangladesh,6,Tamim Iqbal,3b041a12,Shoaib Malik,64c34cd0,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+951333,2015/16,Bangladesh,6,Shakib Al Hasan,7dc35884,Shoaib Malik,64c34cd0,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,1,0,1
+951333,2015/16,Bangladesh,6,Tamim Iqbal,3b041a12,Shoaib Malik,64c34cd0,Shakib Al Hasan,7dc35884,1,0,0,0,0,,,,,,0,1,1
+951333,2015/16,Bangladesh,6,Tamim Iqbal,3b041a12,Shoaib Malik,64c34cd0,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+951333,2015/16,Bangladesh,6,Tamim Iqbal,3b041a12,Shoaib Malik,64c34cd0,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+951333,2015/16,Bangladesh,7,Tamim Iqbal,3b041a12,Shahid Afridi,0dc00542,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+951333,2015/16,Bangladesh,7,Shakib Al Hasan,7dc35884,Shahid Afridi,0dc00542,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,0,0,0
+951333,2015/16,Bangladesh,7,Shakib Al Hasan,7dc35884,Shahid Afridi,0dc00542,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,0,0,0
+951333,2015/16,Bangladesh,7,Shakib Al Hasan,7dc35884,Shahid Afridi,0dc00542,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,0,0,0
+951333,2015/16,Bangladesh,7,Shakib Al Hasan,7dc35884,Shahid Afridi,0dc00542,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,1,0,1
+951333,2015/16,Bangladesh,7,Tamim Iqbal,3b041a12,Shahid Afridi,0dc00542,Shakib Al Hasan,7dc35884,0,0,0,0,1,Tamim Iqbal,3b041a12,Imad Wasim,9cb8d7a6,caught,0,0,0
+951333,2015/16,Bangladesh,8,Shakib Al Hasan,7dc35884,Shoaib Malik,64c34cd0,Mahmudullah,bf1d7d3e,0,0,0,0,0,,,,,,0,0,0
+951333,2015/16,Bangladesh,8,Shakib Al Hasan,7dc35884,Shoaib Malik,64c34cd0,Mahmudullah,bf1d7d3e,0,0,0,0,0,,,,,,0,0,0
+951333,2015/16,Bangladesh,8,Shakib Al Hasan,7dc35884,Shoaib Malik,64c34cd0,Mahmudullah,bf1d7d3e,0,0,0,0,0,,,,,,0,0,0
+951333,2015/16,Bangladesh,8,Shakib Al Hasan,7dc35884,Shoaib Malik,64c34cd0,Mahmudullah,bf1d7d3e,0,0,0,0,0,,,,,,1,0,1
+951333,2015/16,Bangladesh,8,Mahmudullah,bf1d7d3e,Shoaib Malik,64c34cd0,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+951333,2015/16,Bangladesh,8,Shakib Al Hasan,7dc35884,Shoaib Malik,64c34cd0,Mahmudullah,bf1d7d3e,0,0,0,0,0,,,,,,1,0,1
+951333,2015/16,Bangladesh,9,Shakib Al Hasan,7dc35884,Shahid Afridi,0dc00542,Mahmudullah,bf1d7d3e,0,0,0,0,0,,,,,,1,0,1
+951333,2015/16,Bangladesh,9,Mahmudullah,bf1d7d3e,Shahid Afridi,0dc00542,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+951333,2015/16,Bangladesh,9,Mahmudullah,bf1d7d3e,Shahid Afridi,0dc00542,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+951333,2015/16,Bangladesh,9,Shakib Al Hasan,7dc35884,Shahid Afridi,0dc00542,Mahmudullah,bf1d7d3e,0,0,0,0,0,,,,,,4,0,4
+951333,2015/16,Bangladesh,9,Shakib Al Hasan,7dc35884,Shahid Afridi,0dc00542,Mahmudullah,bf1d7d3e,0,0,0,0,0,,,,,,2,0,2
+951333,2015/16,Bangladesh,9,Shakib Al Hasan,7dc35884,Shahid Afridi,0dc00542,Mahmudullah,bf1d7d3e,0,0,0,0,0,,,,,,0,0,0
+951333,2015/16,Bangladesh,10,Mahmudullah,bf1d7d3e,Imad Wasim,9cb8d7a6,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,2,0,2
+951333,2015/16,Bangladesh,10,Mahmudullah,bf1d7d3e,Imad Wasim,9cb8d7a6,Shakib Al Hasan,7dc35884,0,0,0,0,1,Mahmudullah,bf1d7d3e,Sharjeel Khan,193ef196,caught,0,0,0
+951333,2015/16,Bangladesh,10,Shakib Al Hasan,7dc35884,Imad Wasim,9cb8d7a6,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,1,0,1
+951333,2015/16,Bangladesh,10,Mushfiqur Rahim,a94e08ea,Imad Wasim,9cb8d7a6,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+951333,2015/16,Bangladesh,10,Shakib Al Hasan,7dc35884,Imad Wasim,9cb8d7a6,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,0,0,0
+951333,2015/16,Bangladesh,10,Shakib Al Hasan,7dc35884,Imad Wasim,9cb8d7a6,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,1,0,1
+951333,2015/16,Bangladesh,11,Shakib Al Hasan,7dc35884,Shahid Afridi,0dc00542,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,4,0,4
+951333,2015/16,Bangladesh,11,Shakib Al Hasan,7dc35884,Shahid Afridi,0dc00542,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,1,0,1
+951333,2015/16,Bangladesh,11,Mushfiqur Rahim,a94e08ea,Shahid Afridi,0dc00542,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+951333,2015/16,Bangladesh,11,Mushfiqur Rahim,a94e08ea,Shahid Afridi,0dc00542,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+951333,2015/16,Bangladesh,11,Mushfiqur Rahim,a94e08ea,Shahid Afridi,0dc00542,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+951333,2015/16,Bangladesh,11,Mushfiqur Rahim,a94e08ea,Shahid Afridi,0dc00542,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+951333,2015/16,Bangladesh,12,Shakib Al Hasan,7dc35884,Imad Wasim,9cb8d7a6,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,1,0,1
+951333,2015/16,Bangladesh,12,Mushfiqur Rahim,a94e08ea,Imad Wasim,9cb8d7a6,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,4,0,4
+951333,2015/16,Bangladesh,12,Mushfiqur Rahim,a94e08ea,Imad Wasim,9cb8d7a6,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,2,0,2
+951333,2015/16,Bangladesh,12,Mushfiqur Rahim,a94e08ea,Imad Wasim,9cb8d7a6,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+951333,2015/16,Bangladesh,12,Mushfiqur Rahim,a94e08ea,Imad Wasim,9cb8d7a6,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+951333,2015/16,Bangladesh,12,Shakib Al Hasan,7dc35884,Imad Wasim,9cb8d7a6,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,0,0,0
+951333,2015/16,Bangladesh,13,Mushfiqur Rahim,a94e08ea,Wahab Riaz,b3118300,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,2,0,2
+951333,2015/16,Bangladesh,13,Mushfiqur Rahim,a94e08ea,Wahab Riaz,b3118300,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+951333,2015/16,Bangladesh,13,Mushfiqur Rahim,a94e08ea,Wahab Riaz,b3118300,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+951333,2015/16,Bangladesh,13,Mushfiqur Rahim,a94e08ea,Wahab Riaz,b3118300,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+951333,2015/16,Bangladesh,13,Mushfiqur Rahim,a94e08ea,Wahab Riaz,b3118300,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,4,0,4
+951333,2015/16,Bangladesh,13,Mushfiqur Rahim,a94e08ea,Wahab Riaz,b3118300,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+951333,2015/16,Bangladesh,14,Shakib Al Hasan,7dc35884,Mohammad Irfan,a8e3170f,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,4,0,4
+951333,2015/16,Bangladesh,14,Shakib Al Hasan,7dc35884,Mohammad Irfan,a8e3170f,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,1,0,1
+951333,2015/16,Bangladesh,14,Mushfiqur Rahim,a94e08ea,Mohammad Irfan,a8e3170f,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+951333,2015/16,Bangladesh,14,Mushfiqur Rahim,a94e08ea,Mohammad Irfan,a8e3170f,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+951333,2015/16,Bangladesh,14,Mushfiqur Rahim,a94e08ea,Mohammad Irfan,a8e3170f,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+951333,2015/16,Bangladesh,14,Mushfiqur Rahim,a94e08ea,Mohammad Irfan,a8e3170f,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+951333,2015/16,Bangladesh,15,Shakib Al Hasan,7dc35884,Wahab Riaz,b3118300,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,0,0,0
+951333,2015/16,Bangladesh,15,Shakib Al Hasan,7dc35884,Wahab Riaz,b3118300,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,2,0,2
+951333,2015/16,Bangladesh,15,Shakib Al Hasan,7dc35884,Wahab Riaz,b3118300,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,0,0,0
+951333,2015/16,Bangladesh,15,Shakib Al Hasan,7dc35884,Wahab Riaz,b3118300,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,0,0,0
+951333,2015/16,Bangladesh,15,Shakib Al Hasan,7dc35884,Wahab Riaz,b3118300,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,4,0,4
+951333,2015/16,Bangladesh,15,Shakib Al Hasan,7dc35884,Wahab Riaz,b3118300,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,1,0,1
+951333,2015/16,Bangladesh,16,Shakib Al Hasan,7dc35884,Mohammad Amir,e174dadd,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,0,0,0
+951333,2015/16,Bangladesh,16,Shakib Al Hasan,7dc35884,Mohammad Amir,e174dadd,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,1,0,1
+951333,2015/16,Bangladesh,16,Mushfiqur Rahim,a94e08ea,Mohammad Amir,e174dadd,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,4,0,4
+951333,2015/16,Bangladesh,16,Mushfiqur Rahim,a94e08ea,Mohammad Amir,e174dadd,Shakib Al Hasan,7dc35884,0,0,0,0,1,Mushfiqur Rahim,a94e08ea,Sarfraz Ahmed,2254ab79,caught,0,0,0
+951333,2015/16,Bangladesh,16,Mohammad Mithun,77191792,Mohammad Amir,e174dadd,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+951333,2015/16,Bangladesh,16,Mohammad Mithun,77191792,Mohammad Amir,e174dadd,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+951333,2015/16,Bangladesh,17,Mohammad Mithun,77191792,Mohammad Irfan,a8e3170f,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+951333,2015/16,Bangladesh,17,Shakib Al Hasan,7dc35884,Mohammad Irfan,a8e3170f,Mohammad Mithun,77191792,0,0,0,0,0,,,,,,4,0,4
+951333,2015/16,Bangladesh,17,Shakib Al Hasan,7dc35884,Mohammad Irfan,a8e3170f,Mohammad Mithun,77191792,0,0,0,0,0,,,,,,1,0,1
+951333,2015/16,Bangladesh,17,Mohammad Mithun,77191792,Mohammad Irfan,a8e3170f,Shakib Al Hasan,7dc35884,0,0,0,0,1,Mohammad Mithun,77191792,Mohammad Amir,e174dadd,caught,0,0,0
+951333,2015/16,Bangladesh,17,Mashrafe Mortaza,e186f49c,Mohammad Irfan,a8e3170f,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+951333,2015/16,Bangladesh,17,Mashrafe Mortaza,e186f49c,Mohammad Irfan,a8e3170f,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,6,0,6
+951333,2015/16,Bangladesh,18,Shakib Al Hasan,7dc35884,Mohammad Amir,e174dadd,Mashrafe Mortaza,e186f49c,0,0,0,0,0,,,,,,1,0,1
+951333,2015/16,Bangladesh,18,Mashrafe Mortaza,e186f49c,Mohammad Amir,e174dadd,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,4,0,4
+951333,2015/16,Bangladesh,18,Mashrafe Mortaza,e186f49c,Mohammad Amir,e174dadd,Shakib Al Hasan,7dc35884,0,0,1,0,0,,,,,,0,1,1
+951333,2015/16,Bangladesh,18,Shakib Al Hasan,7dc35884,Mohammad Amir,e174dadd,Mashrafe Mortaza,e186f49c,0,0,0,0,0,,,,,,1,0,1
+951333,2015/16,Bangladesh,18,Mashrafe Mortaza,e186f49c,Mohammad Amir,e174dadd,Shakib Al Hasan,7dc35884,1,0,0,0,0,,,,,,0,1,1
+951333,2015/16,Bangladesh,18,Mashrafe Mortaza,e186f49c,Mohammad Amir,e174dadd,Shakib Al Hasan,7dc35884,0,0,1,0,0,,,,,,0,1,1
+951333,2015/16,Bangladesh,18,Shakib Al Hasan,7dc35884,Mohammad Amir,e174dadd,Mashrafe Mortaza,e186f49c,0,0,0,0,0,,,,,,2,0,2
+951333,2015/16,Bangladesh,19,Mashrafe Mortaza,e186f49c,Wahab Riaz,b3118300,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,4,0,4
+951333,2015/16,Bangladesh,19,Mashrafe Mortaza,e186f49c,Wahab Riaz,b3118300,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+951333,2015/16,Bangladesh,19,Shakib Al Hasan,7dc35884,Wahab Riaz,b3118300,Mashrafe Mortaza,e186f49c,0,0,0,0,0,,,,,,6,0,6
+951333,2015/16,Bangladesh,19,Shakib Al Hasan,7dc35884,Wahab Riaz,b3118300,Mashrafe Mortaza,e186f49c,0,0,0,0,0,,,,,,1,0,1
+951333,2015/16,Bangladesh,19,Mashrafe Mortaza,e186f49c,Wahab Riaz,b3118300,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+951333,2015/16,Bangladesh,19,Mashrafe Mortaza,e186f49c,Wahab Riaz,b3118300,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0

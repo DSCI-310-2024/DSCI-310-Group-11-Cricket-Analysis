@@ -1,0 +1,248 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+569237,2012/13,England,0,MJ Lumb,11df3dc8,MJ McClenaghan,51a3c5ef,AD Hales,92aeac25,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,England,0,AD Hales,92aeac25,MJ McClenaghan,51a3c5ef,MJ Lumb,11df3dc8,0,0,0,0,0,,,,,,3,0,3
+569237,2012/13,England,0,MJ Lumb,11df3dc8,MJ McClenaghan,51a3c5ef,AD Hales,92aeac25,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,England,0,AD Hales,92aeac25,MJ McClenaghan,51a3c5ef,MJ Lumb,11df3dc8,0,0,0,0,0,,,,,,0,0,0
+569237,2012/13,England,0,AD Hales,92aeac25,MJ McClenaghan,51a3c5ef,MJ Lumb,11df3dc8,0,0,0,0,0,,,,,,0,0,0
+569237,2012/13,England,0,AD Hales,92aeac25,MJ McClenaghan,51a3c5ef,MJ Lumb,11df3dc8,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,England,1,AD Hales,92aeac25,TA Boult,a818c1be,MJ Lumb,11df3dc8,5,0,0,0,0,,,,,,0,5,5
+569237,2012/13,England,1,AD Hales,92aeac25,TA Boult,a818c1be,MJ Lumb,11df3dc8,0,0,0,0,0,,,,,,0,0,0
+569237,2012/13,England,1,AD Hales,92aeac25,TA Boult,a818c1be,MJ Lumb,11df3dc8,0,0,0,0,0,,,,,,2,0,2
+569237,2012/13,England,1,AD Hales,92aeac25,TA Boult,a818c1be,MJ Lumb,11df3dc8,0,0,0,0,0,,,,,,6,0,6
+569237,2012/13,England,1,AD Hales,92aeac25,TA Boult,a818c1be,MJ Lumb,11df3dc8,0,0,0,0,0,,,,,,0,0,0
+569237,2012/13,England,1,AD Hales,92aeac25,TA Boult,a818c1be,MJ Lumb,11df3dc8,0,0,0,0,0,,,,,,0,0,0
+569237,2012/13,England,1,AD Hales,92aeac25,TA Boult,a818c1be,MJ Lumb,11df3dc8,0,0,0,0,0,,,,,,0,0,0
+569237,2012/13,England,2,MJ Lumb,11df3dc8,MJ McClenaghan,51a3c5ef,AD Hales,92aeac25,0,0,0,0,0,,,,,,0,0,0
+569237,2012/13,England,2,MJ Lumb,11df3dc8,MJ McClenaghan,51a3c5ef,AD Hales,92aeac25,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,England,2,AD Hales,92aeac25,MJ McClenaghan,51a3c5ef,MJ Lumb,11df3dc8,0,0,0,0,0,,,,,,4,0,4
+569237,2012/13,England,2,AD Hales,92aeac25,MJ McClenaghan,51a3c5ef,MJ Lumb,11df3dc8,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,England,2,MJ Lumb,11df3dc8,MJ McClenaghan,51a3c5ef,AD Hales,92aeac25,0,0,0,0,0,,,,,,0,0,0
+569237,2012/13,England,2,MJ Lumb,11df3dc8,MJ McClenaghan,51a3c5ef,AD Hales,92aeac25,0,0,0,0,0,,,,,,0,0,0
+569237,2012/13,England,3,AD Hales,92aeac25,RM Hira,2e966563,MJ Lumb,11df3dc8,0,0,0,0,0,,,,,,0,0,0
+569237,2012/13,England,3,AD Hales,92aeac25,RM Hira,2e966563,MJ Lumb,11df3dc8,0,0,0,0,0,,,,,,0,0,0
+569237,2012/13,England,3,AD Hales,92aeac25,RM Hira,2e966563,MJ Lumb,11df3dc8,0,0,0,0,0,,,,,,4,0,4
+569237,2012/13,England,3,AD Hales,92aeac25,RM Hira,2e966563,MJ Lumb,11df3dc8,0,0,0,0,1,AD Hales,92aeac25,BB McCullum,b8a55852,stumped,0,0,0
+569237,2012/13,England,3,LJ Wright,cca50cd6,RM Hira,2e966563,MJ Lumb,11df3dc8,0,0,0,0,0,,,,,,0,0,0
+569237,2012/13,England,3,LJ Wright,cca50cd6,RM Hira,2e966563,MJ Lumb,11df3dc8,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,England,4,LJ Wright,cca50cd6,TA Boult,a818c1be,MJ Lumb,11df3dc8,0,0,0,0,0,,,,,,0,0,0
+569237,2012/13,England,4,LJ Wright,cca50cd6,TA Boult,a818c1be,MJ Lumb,11df3dc8,0,0,0,0,0,,,,,,0,0,0
+569237,2012/13,England,4,LJ Wright,cca50cd6,TA Boult,a818c1be,MJ Lumb,11df3dc8,0,0,0,0,0,,,,,,4,0,4
+569237,2012/13,England,4,LJ Wright,cca50cd6,TA Boult,a818c1be,MJ Lumb,11df3dc8,0,0,0,0,0,,,,,,0,0,0
+569237,2012/13,England,4,LJ Wright,cca50cd6,TA Boult,a818c1be,MJ Lumb,11df3dc8,0,0,0,0,0,,,,,,6,0,6
+569237,2012/13,England,4,LJ Wright,cca50cd6,TA Boult,a818c1be,MJ Lumb,11df3dc8,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,England,5,LJ Wright,cca50cd6,RM Hira,2e966563,MJ Lumb,11df3dc8,0,0,0,0,0,,,,,,0,0,0
+569237,2012/13,England,5,LJ Wright,cca50cd6,RM Hira,2e966563,MJ Lumb,11df3dc8,0,0,0,0,0,,,,,,6,0,6
+569237,2012/13,England,5,LJ Wright,cca50cd6,RM Hira,2e966563,MJ Lumb,11df3dc8,0,0,0,0,0,,,,,,4,0,4
+569237,2012/13,England,5,LJ Wright,cca50cd6,RM Hira,2e966563,MJ Lumb,11df3dc8,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,England,5,MJ Lumb,11df3dc8,RM Hira,2e966563,LJ Wright,cca50cd6,0,0,0,0,0,,,,,,4,0,4
+569237,2012/13,England,5,MJ Lumb,11df3dc8,RM Hira,2e966563,LJ Wright,cca50cd6,0,0,0,0,0,,,,,,6,0,6
+569237,2012/13,England,6,LJ Wright,cca50cd6,NL McCullum,5673a3fc,MJ Lumb,11df3dc8,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,England,6,MJ Lumb,11df3dc8,NL McCullum,5673a3fc,LJ Wright,cca50cd6,0,0,0,0,0,,,,,,0,0,0
+569237,2012/13,England,6,MJ Lumb,11df3dc8,NL McCullum,5673a3fc,LJ Wright,cca50cd6,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,England,6,LJ Wright,cca50cd6,NL McCullum,5673a3fc,MJ Lumb,11df3dc8,0,0,0,0,0,,,,,,0,0,0
+569237,2012/13,England,6,LJ Wright,cca50cd6,NL McCullum,5673a3fc,MJ Lumb,11df3dc8,0,0,0,0,0,,,,,,6,0,6
+569237,2012/13,England,6,LJ Wright,cca50cd6,NL McCullum,5673a3fc,MJ Lumb,11df3dc8,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,England,7,LJ Wright,cca50cd6,AM Ellis,f987245c,MJ Lumb,11df3dc8,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,England,7,MJ Lumb,11df3dc8,AM Ellis,f987245c,LJ Wright,cca50cd6,0,0,0,0,0,,,,,,6,0,6
+569237,2012/13,England,7,MJ Lumb,11df3dc8,AM Ellis,f987245c,LJ Wright,cca50cd6,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,England,7,LJ Wright,cca50cd6,AM Ellis,f987245c,MJ Lumb,11df3dc8,0,0,0,0,0,,,,,,4,0,4
+569237,2012/13,England,7,LJ Wright,cca50cd6,AM Ellis,f987245c,MJ Lumb,11df3dc8,0,0,0,0,0,,,,,,6,0,6
+569237,2012/13,England,7,LJ Wright,cca50cd6,AM Ellis,f987245c,MJ Lumb,11df3dc8,0,0,0,0,1,LJ Wright,cca50cd6,RM Hira,2e966563,caught,0,0,0
+569237,2012/13,England,8,MJ Lumb,11df3dc8,MJ McClenaghan,51a3c5ef,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,England,8,EJG Morgan,d2a6c0e6,MJ McClenaghan,51a3c5ef,MJ Lumb,11df3dc8,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,England,8,MJ Lumb,11df3dc8,MJ McClenaghan,51a3c5ef,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,0,0,0
+569237,2012/13,England,8,MJ Lumb,11df3dc8,MJ McClenaghan,51a3c5ef,EJG Morgan,d2a6c0e6,0,0,0,0,1,MJ Lumb,11df3dc8,HD Rutherford,0605de92,caught,0,0,0
+569237,2012/13,England,8,JM Bairstow,abb83e27,MJ McClenaghan,51a3c5ef,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,0,0,0
+569237,2012/13,England,8,JM Bairstow,abb83e27,MJ McClenaghan,51a3c5ef,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,4,0,4
+569237,2012/13,England,9,EJG Morgan,d2a6c0e6,JEC Franklin,cf73ad76,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,4,0,4
+569237,2012/13,England,9,EJG Morgan,d2a6c0e6,JEC Franklin,cf73ad76,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,4,0,4
+569237,2012/13,England,9,EJG Morgan,d2a6c0e6,JEC Franklin,cf73ad76,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,0,0,0
+569237,2012/13,England,9,EJG Morgan,d2a6c0e6,JEC Franklin,cf73ad76,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,0,0,0
+569237,2012/13,England,9,EJG Morgan,d2a6c0e6,JEC Franklin,cf73ad76,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,0,0,0
+569237,2012/13,England,9,EJG Morgan,d2a6c0e6,JEC Franklin,cf73ad76,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,6,0,6
+569237,2012/13,England,10,JM Bairstow,abb83e27,NL McCullum,5673a3fc,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,England,10,EJG Morgan,d2a6c0e6,NL McCullum,5673a3fc,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,0,0,0
+569237,2012/13,England,10,EJG Morgan,d2a6c0e6,NL McCullum,5673a3fc,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,England,10,JM Bairstow,abb83e27,NL McCullum,5673a3fc,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,0,0,0
+569237,2012/13,England,10,JM Bairstow,abb83e27,NL McCullum,5673a3fc,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,6,0,6
+569237,2012/13,England,10,JM Bairstow,abb83e27,NL McCullum,5673a3fc,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,England,11,JM Bairstow,abb83e27,AM Ellis,f987245c,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,6,0,6
+569237,2012/13,England,11,JM Bairstow,abb83e27,AM Ellis,f987245c,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,4,0,4
+569237,2012/13,England,11,JM Bairstow,abb83e27,AM Ellis,f987245c,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,England,11,EJG Morgan,d2a6c0e6,AM Ellis,f987245c,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,England,11,JM Bairstow,abb83e27,AM Ellis,f987245c,EJG Morgan,d2a6c0e6,1,0,0,0,0,,,,,,0,1,1
+569237,2012/13,England,11,JM Bairstow,abb83e27,AM Ellis,f987245c,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,England,11,EJG Morgan,d2a6c0e6,AM Ellis,f987245c,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,England,12,EJG Morgan,d2a6c0e6,MJ McClenaghan,51a3c5ef,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,England,12,JM Bairstow,abb83e27,MJ McClenaghan,51a3c5ef,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,0,0,0
+569237,2012/13,England,12,JM Bairstow,abb83e27,MJ McClenaghan,51a3c5ef,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,2,0,2
+569237,2012/13,England,12,JM Bairstow,abb83e27,MJ McClenaghan,51a3c5ef,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,England,12,EJG Morgan,d2a6c0e6,MJ McClenaghan,51a3c5ef,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,6,0,6
+569237,2012/13,England,12,EJG Morgan,d2a6c0e6,MJ McClenaghan,51a3c5ef,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,England,13,EJG Morgan,d2a6c0e6,RM Hira,2e966563,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,England,13,JM Bairstow,abb83e27,RM Hira,2e966563,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,England,13,EJG Morgan,d2a6c0e6,RM Hira,2e966563,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,4,0,4
+569237,2012/13,England,13,EJG Morgan,d2a6c0e6,RM Hira,2e966563,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,England,13,JM Bairstow,abb83e27,RM Hira,2e966563,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,England,13,EJG Morgan,d2a6c0e6,RM Hira,2e966563,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,England,14,EJG Morgan,d2a6c0e6,NL McCullum,5673a3fc,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,4,0,4
+569237,2012/13,England,14,EJG Morgan,d2a6c0e6,NL McCullum,5673a3fc,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,6,0,6
+569237,2012/13,England,14,EJG Morgan,d2a6c0e6,NL McCullum,5673a3fc,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,England,14,JM Bairstow,abb83e27,NL McCullum,5673a3fc,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,England,14,EJG Morgan,d2a6c0e6,NL McCullum,5673a3fc,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,0,0,0
+569237,2012/13,England,14,EJG Morgan,d2a6c0e6,NL McCullum,5673a3fc,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,England,15,EJG Morgan,d2a6c0e6,RM Hira,2e966563,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,England,15,JM Bairstow,abb83e27,RM Hira,2e966563,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,4,0,4
+569237,2012/13,England,15,JM Bairstow,abb83e27,RM Hira,2e966563,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,England,15,EJG Morgan,d2a6c0e6,RM Hira,2e966563,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,0,0,0
+569237,2012/13,England,15,EJG Morgan,d2a6c0e6,RM Hira,2e966563,JM Bairstow,abb83e27,0,0,0,0,1,EJG Morgan,d2a6c0e6,LRPL Taylor,b61a3e1a,caught,0,0,0
+569237,2012/13,England,15,JM Bairstow,abb83e27,RM Hira,2e966563,JC Buttler,99b75528,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,England,16,JM Bairstow,abb83e27,NL McCullum,5673a3fc,JC Buttler,99b75528,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,England,16,JC Buttler,99b75528,NL McCullum,5673a3fc,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,0,0,0
+569237,2012/13,England,16,JC Buttler,99b75528,NL McCullum,5673a3fc,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,6,0,6
+569237,2012/13,England,16,JC Buttler,99b75528,NL McCullum,5673a3fc,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,6,0,6
+569237,2012/13,England,16,JC Buttler,99b75528,NL McCullum,5673a3fc,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,4,0,4
+569237,2012/13,England,16,JC Buttler,99b75528,NL McCullum,5673a3fc,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,England,17,JC Buttler,99b75528,TA Boult,a818c1be,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,0,0,0
+569237,2012/13,England,17,JC Buttler,99b75528,TA Boult,a818c1be,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,England,17,JM Bairstow,abb83e27,TA Boult,a818c1be,JC Buttler,99b75528,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,England,17,JC Buttler,99b75528,TA Boult,a818c1be,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,England,17,JM Bairstow,abb83e27,TA Boult,a818c1be,JC Buttler,99b75528,0,0,0,0,1,JM Bairstow,abb83e27,MJ Guptill,2be41edb,caught,0,0,0
+569237,2012/13,England,17,SR Patel,18fac429,TA Boult,a818c1be,JC Buttler,99b75528,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,England,18,SR Patel,18fac429,AM Ellis,f987245c,JC Buttler,99b75528,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,England,18,JC Buttler,99b75528,AM Ellis,f987245c,SR Patel,18fac429,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,England,18,SR Patel,18fac429,AM Ellis,f987245c,JC Buttler,99b75528,0,0,0,0,1,SR Patel,18fac429,BB McCullum,b8a55852,caught,0,0,0
+569237,2012/13,England,18,JC Buttler,99b75528,AM Ellis,f987245c,SCJ Broad,eba6a852,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,England,18,SCJ Broad,eba6a852,AM Ellis,f987245c,JC Buttler,99b75528,0,0,0,0,0,,,,,,0,0,0
+569237,2012/13,England,18,SCJ Broad,eba6a852,AM Ellis,f987245c,JC Buttler,99b75528,0,0,0,0,0,,,,,,4,0,4
+569237,2012/13,England,19,JC Buttler,99b75528,TA Boult,a818c1be,SCJ Broad,eba6a852,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,England,19,SCJ Broad,eba6a852,TA Boult,a818c1be,JC Buttler,99b75528,0,0,0,0,1,SCJ Broad,eba6a852,BB McCullum,b8a55852,caught,0,0,0
+569237,2012/13,England,19,JC Buttler,99b75528,TA Boult,a818c1be,JC Tredwell,49b6c09f,0,0,0,0,0,,,,,,0,0,0
+569237,2012/13,England,19,JC Buttler,99b75528,TA Boult,a818c1be,JC Tredwell,49b6c09f,0,0,0,0,0,,,,,,0,0,0
+569237,2012/13,England,19,JC Buttler,99b75528,TA Boult,a818c1be,JC Tredwell,49b6c09f,0,0,0,0,0,,,,,,6,0,6
+569237,2012/13,England,19,JC Buttler,99b75528,TA Boult,a818c1be,JC Tredwell,49b6c09f,0,1,0,0,0,,,,,,4,1,5
+569237,2012/13,England,19,JC Buttler,99b75528,TA Boult,a818c1be,JC Tredwell,49b6c09f,0,0,0,0,0,,,,,,0,0,0
+569237,2012/13,New Zealand,0,HD Rutherford,0605de92,ST Finn,ccdd8308,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,New Zealand,0,MJ Guptill,2be41edb,ST Finn,ccdd8308,HD Rutherford,0605de92,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,New Zealand,0,HD Rutherford,0605de92,ST Finn,ccdd8308,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,4,0,4
+569237,2012/13,New Zealand,0,HD Rutherford,0605de92,ST Finn,ccdd8308,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,4,0,4
+569237,2012/13,New Zealand,0,HD Rutherford,0605de92,ST Finn,ccdd8308,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,New Zealand,0,MJ Guptill,2be41edb,ST Finn,ccdd8308,HD Rutherford,0605de92,0,0,0,0,0,,,,,,2,0,2
+569237,2012/13,New Zealand,1,HD Rutherford,0605de92,SCJ Broad,eba6a852,MJ Guptill,2be41edb,0,0,1,0,0,,,,,,0,1,1
+569237,2012/13,New Zealand,1,MJ Guptill,2be41edb,SCJ Broad,eba6a852,HD Rutherford,0605de92,0,0,0,0,0,,,,,,0,0,0
+569237,2012/13,New Zealand,1,MJ Guptill,2be41edb,SCJ Broad,eba6a852,HD Rutherford,0605de92,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,New Zealand,1,HD Rutherford,0605de92,SCJ Broad,eba6a852,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,New Zealand,1,MJ Guptill,2be41edb,SCJ Broad,eba6a852,HD Rutherford,0605de92,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,New Zealand,1,HD Rutherford,0605de92,SCJ Broad,eba6a852,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,New Zealand,2,HD Rutherford,0605de92,JW Dernbach,7be8a0ed,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,0,0,0
+569237,2012/13,New Zealand,2,HD Rutherford,0605de92,JW Dernbach,7be8a0ed,MJ Guptill,2be41edb,0,0,1,0,0,,,,,,0,1,1
+569237,2012/13,New Zealand,2,MJ Guptill,2be41edb,JW Dernbach,7be8a0ed,HD Rutherford,0605de92,0,0,0,0,0,,,,,,0,0,0
+569237,2012/13,New Zealand,2,MJ Guptill,2be41edb,JW Dernbach,7be8a0ed,HD Rutherford,0605de92,0,0,0,0,0,,,,,,0,0,0
+569237,2012/13,New Zealand,2,MJ Guptill,2be41edb,JW Dernbach,7be8a0ed,HD Rutherford,0605de92,0,0,0,0,0,,,,,,2,0,2
+569237,2012/13,New Zealand,2,MJ Guptill,2be41edb,JW Dernbach,7be8a0ed,HD Rutherford,0605de92,0,0,0,0,0,,,,,,4,0,4
+569237,2012/13,New Zealand,3,HD Rutherford,0605de92,SCJ Broad,eba6a852,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,6,0,6
+569237,2012/13,New Zealand,3,HD Rutherford,0605de92,SCJ Broad,eba6a852,MJ Guptill,2be41edb,0,0,0,0,1,HD Rutherford,0605de92,JC Tredwell,49b6c09f,caught,0,0,0
+569237,2012/13,New Zealand,3,MJ Guptill,2be41edb,SCJ Broad,eba6a852,BB McCullum,b8a55852,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,New Zealand,3,BB McCullum,b8a55852,SCJ Broad,eba6a852,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,4,0,4
+569237,2012/13,New Zealand,3,BB McCullum,b8a55852,SCJ Broad,eba6a852,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,New Zealand,3,MJ Guptill,2be41edb,SCJ Broad,eba6a852,BB McCullum,b8a55852,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,New Zealand,4,MJ Guptill,2be41edb,ST Finn,ccdd8308,BB McCullum,b8a55852,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,New Zealand,4,BB McCullum,b8a55852,ST Finn,ccdd8308,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,New Zealand,4,MJ Guptill,2be41edb,ST Finn,ccdd8308,BB McCullum,b8a55852,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,New Zealand,4,BB McCullum,b8a55852,ST Finn,ccdd8308,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,4,0,4
+569237,2012/13,New Zealand,4,BB McCullum,b8a55852,ST Finn,ccdd8308,MJ Guptill,2be41edb,1,0,0,0,0,,,,,,0,1,1
+569237,2012/13,New Zealand,4,BB McCullum,b8a55852,ST Finn,ccdd8308,MJ Guptill,2be41edb,0,0,0,0,1,BB McCullum,b8a55852,EJG Morgan,d2a6c0e6,caught,0,0,0
+569237,2012/13,New Zealand,4,MJ Guptill,2be41edb,ST Finn,ccdd8308,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,0,0,0
+569237,2012/13,New Zealand,5,LRPL Taylor,b61a3e1a,JW Dernbach,7be8a0ed,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,New Zealand,5,MJ Guptill,2be41edb,JW Dernbach,7be8a0ed,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,New Zealand,5,LRPL Taylor,b61a3e1a,JW Dernbach,7be8a0ed,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,0,0,0
+569237,2012/13,New Zealand,5,LRPL Taylor,b61a3e1a,JW Dernbach,7be8a0ed,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,New Zealand,5,MJ Guptill,2be41edb,JW Dernbach,7be8a0ed,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,New Zealand,5,LRPL Taylor,b61a3e1a,JW Dernbach,7be8a0ed,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,4,0,4
+569237,2012/13,New Zealand,6,MJ Guptill,2be41edb,LJ Wright,cca50cd6,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,New Zealand,6,LRPL Taylor,b61a3e1a,LJ Wright,cca50cd6,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,2,0,2
+569237,2012/13,New Zealand,6,LRPL Taylor,b61a3e1a,LJ Wright,cca50cd6,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,New Zealand,6,MJ Guptill,2be41edb,LJ Wright,cca50cd6,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,6,0,6
+569237,2012/13,New Zealand,6,MJ Guptill,2be41edb,LJ Wright,cca50cd6,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,0,0,0
+569237,2012/13,New Zealand,6,MJ Guptill,2be41edb,LJ Wright,cca50cd6,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,0,0,0
+569237,2012/13,New Zealand,7,LRPL Taylor,b61a3e1a,SR Patel,18fac429,MJ Guptill,2be41edb,1,0,0,0,0,,,,,,0,1,1
+569237,2012/13,New Zealand,7,LRPL Taylor,b61a3e1a,SR Patel,18fac429,MJ Guptill,2be41edb,1,0,0,0,0,,,,,,0,1,1
+569237,2012/13,New Zealand,7,LRPL Taylor,b61a3e1a,SR Patel,18fac429,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,0,0,0
+569237,2012/13,New Zealand,7,LRPL Taylor,b61a3e1a,SR Patel,18fac429,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,2,0,2
+569237,2012/13,New Zealand,7,LRPL Taylor,b61a3e1a,SR Patel,18fac429,MJ Guptill,2be41edb,0,0,1,0,0,,,,,,0,1,1
+569237,2012/13,New Zealand,7,MJ Guptill,2be41edb,SR Patel,18fac429,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,0,0,0
+569237,2012/13,New Zealand,7,MJ Guptill,2be41edb,SR Patel,18fac429,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,New Zealand,7,LRPL Taylor,b61a3e1a,SR Patel,18fac429,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,New Zealand,8,LRPL Taylor,b61a3e1a,ST Finn,ccdd8308,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,0,0,0
+569237,2012/13,New Zealand,8,LRPL Taylor,b61a3e1a,ST Finn,ccdd8308,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,New Zealand,8,MJ Guptill,2be41edb,ST Finn,ccdd8308,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,4,0,4
+569237,2012/13,New Zealand,8,MJ Guptill,2be41edb,ST Finn,ccdd8308,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,New Zealand,8,LRPL Taylor,b61a3e1a,ST Finn,ccdd8308,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,0,0,0
+569237,2012/13,New Zealand,8,LRPL Taylor,b61a3e1a,ST Finn,ccdd8308,MJ Guptill,2be41edb,0,0,0,0,1,LRPL Taylor,b61a3e1a,JM Bairstow,abb83e27,caught,0,0,0
+569237,2012/13,New Zealand,9,C Munro,af2c687b,SR Patel,18fac429,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,New Zealand,9,MJ Guptill,2be41edb,SR Patel,18fac429,C Munro,af2c687b,0,0,0,0,0,,,,,,6,0,6
+569237,2012/13,New Zealand,9,MJ Guptill,2be41edb,SR Patel,18fac429,C Munro,af2c687b,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,New Zealand,9,C Munro,af2c687b,SR Patel,18fac429,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,New Zealand,9,MJ Guptill,2be41edb,SR Patel,18fac429,C Munro,af2c687b,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,New Zealand,9,C Munro,af2c687b,SR Patel,18fac429,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,New Zealand,10,C Munro,af2c687b,LJ Wright,cca50cd6,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,0,0,0
+569237,2012/13,New Zealand,10,C Munro,af2c687b,LJ Wright,cca50cd6,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,0,0,0
+569237,2012/13,New Zealand,10,C Munro,af2c687b,LJ Wright,cca50cd6,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,0,0,0
+569237,2012/13,New Zealand,10,C Munro,af2c687b,LJ Wright,cca50cd6,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,0,0,0
+569237,2012/13,New Zealand,10,C Munro,af2c687b,LJ Wright,cca50cd6,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,2,0,2
+569237,2012/13,New Zealand,10,C Munro,af2c687b,LJ Wright,cca50cd6,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,6,0,6
+569237,2012/13,New Zealand,11,MJ Guptill,2be41edb,JC Tredwell,49b6c09f,C Munro,af2c687b,0,0,0,0,0,,,,,,0,0,0
+569237,2012/13,New Zealand,11,MJ Guptill,2be41edb,JC Tredwell,49b6c09f,C Munro,af2c687b,0,0,0,0,0,,,,,,4,0,4
+569237,2012/13,New Zealand,11,MJ Guptill,2be41edb,JC Tredwell,49b6c09f,C Munro,af2c687b,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,New Zealand,11,C Munro,af2c687b,JC Tredwell,49b6c09f,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,New Zealand,11,MJ Guptill,2be41edb,JC Tredwell,49b6c09f,C Munro,af2c687b,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,New Zealand,11,C Munro,af2c687b,JC Tredwell,49b6c09f,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,New Zealand,12,C Munro,af2c687b,LJ Wright,cca50cd6,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,0,0,0
+569237,2012/13,New Zealand,12,C Munro,af2c687b,LJ Wright,cca50cd6,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,6,0,6
+569237,2012/13,New Zealand,12,C Munro,af2c687b,LJ Wright,cca50cd6,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,0,0,0
+569237,2012/13,New Zealand,12,C Munro,af2c687b,LJ Wright,cca50cd6,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,New Zealand,12,MJ Guptill,2be41edb,LJ Wright,cca50cd6,C Munro,af2c687b,0,0,0,0,1,MJ Guptill,2be41edb,SCJ Broad,eba6a852,caught,0,0,0
+569237,2012/13,New Zealand,12,JEC Franklin,cf73ad76,LJ Wright,cca50cd6,C Munro,af2c687b,0,0,0,0,0,,,,,,0,0,0
+569237,2012/13,New Zealand,13,C Munro,af2c687b,JC Tredwell,49b6c09f,JEC Franklin,cf73ad76,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,New Zealand,13,JEC Franklin,cf73ad76,JC Tredwell,49b6c09f,C Munro,af2c687b,0,0,0,0,0,,,,,,6,0,6
+569237,2012/13,New Zealand,13,JEC Franklin,cf73ad76,JC Tredwell,49b6c09f,C Munro,af2c687b,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,New Zealand,13,C Munro,af2c687b,JC Tredwell,49b6c09f,JEC Franklin,cf73ad76,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,New Zealand,13,JEC Franklin,cf73ad76,JC Tredwell,49b6c09f,C Munro,af2c687b,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,New Zealand,13,C Munro,af2c687b,JC Tredwell,49b6c09f,JEC Franklin,cf73ad76,0,0,0,0,0,,,,,,6,0,6
+569237,2012/13,New Zealand,14,JEC Franklin,cf73ad76,SCJ Broad,eba6a852,C Munro,af2c687b,0,0,0,0,1,JEC Franklin,cf73ad76,JC Buttler,99b75528,caught,0,0,0
+569237,2012/13,New Zealand,14,NL McCullum,5673a3fc,SCJ Broad,eba6a852,C Munro,af2c687b,0,0,0,0,0,,,,,,0,0,0
+569237,2012/13,New Zealand,14,NL McCullum,5673a3fc,SCJ Broad,eba6a852,C Munro,af2c687b,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,New Zealand,14,C Munro,af2c687b,SCJ Broad,eba6a852,NL McCullum,5673a3fc,0,0,0,0,1,C Munro,af2c687b,,,bowled,0,0,0
+569237,2012/13,New Zealand,14,AM Ellis,f987245c,SCJ Broad,eba6a852,NL McCullum,5673a3fc,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,New Zealand,14,NL McCullum,5673a3fc,SCJ Broad,eba6a852,AM Ellis,f987245c,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,New Zealand,15,NL McCullum,5673a3fc,LJ Wright,cca50cd6,AM Ellis,f987245c,0,0,1,0,0,,,,,,0,1,1
+569237,2012/13,New Zealand,15,AM Ellis,f987245c,LJ Wright,cca50cd6,NL McCullum,5673a3fc,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,New Zealand,15,NL McCullum,5673a3fc,LJ Wright,cca50cd6,AM Ellis,f987245c,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,New Zealand,15,AM Ellis,f987245c,LJ Wright,cca50cd6,NL McCullum,5673a3fc,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,New Zealand,15,NL McCullum,5673a3fc,LJ Wright,cca50cd6,AM Ellis,f987245c,0,0,0,0,1,NL McCullum,5673a3fc,JC Buttler,99b75528,caught,0,0,0
+569237,2012/13,New Zealand,15,AM Ellis,f987245c,LJ Wright,cca50cd6,RM Hira,2e966563,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,New Zealand,16,AM Ellis,f987245c,ST Finn,ccdd8308,RM Hira,2e966563,0,0,0,0,1,AM Ellis,f987245c,LJ Wright,cca50cd6,caught,0,0,0
+569237,2012/13,New Zealand,16,RM Hira,2e966563,ST Finn,ccdd8308,TA Boult,a818c1be,0,0,0,0,0,,,,,,4,0,4
+569237,2012/13,New Zealand,16,RM Hira,2e966563,ST Finn,ccdd8308,TA Boult,a818c1be,0,0,0,0,0,,,,,,0,0,0
+569237,2012/13,New Zealand,16,RM Hira,2e966563,ST Finn,ccdd8308,TA Boult,a818c1be,0,0,0,0,0,,,,,,6,0,6
+569237,2012/13,New Zealand,16,RM Hira,2e966563,ST Finn,ccdd8308,TA Boult,a818c1be,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,New Zealand,16,TA Boult,a818c1be,ST Finn,ccdd8308,RM Hira,2e966563,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,New Zealand,17,TA Boult,a818c1be,JW Dernbach,7be8a0ed,RM Hira,2e966563,0,0,0,0,0,,,,,,2,0,2
+569237,2012/13,New Zealand,17,TA Boult,a818c1be,JW Dernbach,7be8a0ed,RM Hira,2e966563,0,0,0,0,0,,,,,,0,0,0
+569237,2012/13,New Zealand,17,TA Boult,a818c1be,JW Dernbach,7be8a0ed,RM Hira,2e966563,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,New Zealand,17,RM Hira,2e966563,JW Dernbach,7be8a0ed,TA Boult,a818c1be,0,0,0,0,0,,,,,,4,0,4
+569237,2012/13,New Zealand,17,RM Hira,2e966563,JW Dernbach,7be8a0ed,TA Boult,a818c1be,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,New Zealand,17,TA Boult,a818c1be,JW Dernbach,7be8a0ed,RM Hira,2e966563,0,0,0,0,0,,,,,,0,0,0
+569237,2012/13,New Zealand,18,RM Hira,2e966563,SCJ Broad,eba6a852,TA Boult,a818c1be,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,New Zealand,18,TA Boult,a818c1be,SCJ Broad,eba6a852,RM Hira,2e966563,0,0,0,0,1,TA Boult,a818c1be,SR Patel,18fac429,caught,0,0,0
+569237,2012/13,New Zealand,18,RM Hira,2e966563,SCJ Broad,eba6a852,MJ McClenaghan,51a3c5ef,0,0,0,0,0,,,,,,0,0,0
+569237,2012/13,New Zealand,18,RM Hira,2e966563,SCJ Broad,eba6a852,MJ McClenaghan,51a3c5ef,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,New Zealand,18,MJ McClenaghan,51a3c5ef,SCJ Broad,eba6a852,RM Hira,2e966563,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,New Zealand,18,RM Hira,2e966563,SCJ Broad,eba6a852,MJ McClenaghan,51a3c5ef,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,New Zealand,19,RM Hira,2e966563,JW Dernbach,7be8a0ed,MJ McClenaghan,51a3c5ef,0,0,0,0,0,,,,,,1,0,1
+569237,2012/13,New Zealand,19,MJ McClenaghan,51a3c5ef,JW Dernbach,7be8a0ed,RM Hira,2e966563,0,0,0,0,0,,,,,,0,0,0
+569237,2012/13,New Zealand,19,MJ McClenaghan,51a3c5ef,JW Dernbach,7be8a0ed,RM Hira,2e966563,0,0,4,0,0,,,,,,0,4,4
+569237,2012/13,New Zealand,19,MJ McClenaghan,51a3c5ef,JW Dernbach,7be8a0ed,RM Hira,2e966563,0,0,0,0,0,,,,,,0,0,0
+569237,2012/13,New Zealand,19,MJ McClenaghan,51a3c5ef,JW Dernbach,7be8a0ed,RM Hira,2e966563,0,0,0,0,0,,,,,,4,0,4
+569237,2012/13,New Zealand,19,MJ McClenaghan,51a3c5ef,JW Dernbach,7be8a0ed,RM Hira,2e966563,0,5,0,0,0,,,,,,0,5,5
+569237,2012/13,New Zealand,19,MJ McClenaghan,51a3c5ef,JW Dernbach,7be8a0ed,RM Hira,2e966563,0,0,0,0,0,,,,,,1,0,1

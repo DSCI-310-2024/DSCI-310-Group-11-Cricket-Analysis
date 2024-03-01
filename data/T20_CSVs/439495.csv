@@ -1,0 +1,246 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+439495,2009/10,Afghanistan,0,Noor Ali Zadran,72e46d30,PC Connell,5500c675,Karim Sadiq,13e5908b,0,0,0,0,0,,,,,,0,0,0
+439495,2009/10,Afghanistan,0,Noor Ali Zadran,72e46d30,PC Connell,5500c675,Karim Sadiq,13e5908b,0,0,0,0,0,,,,,,0,0,0
+439495,2009/10,Afghanistan,0,Noor Ali Zadran,72e46d30,PC Connell,5500c675,Karim Sadiq,13e5908b,0,0,0,0,0,,,,,,1,0,1
+439495,2009/10,Afghanistan,0,Karim Sadiq,13e5908b,PC Connell,5500c675,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,0,0,0
+439495,2009/10,Afghanistan,0,Karim Sadiq,13e5908b,PC Connell,5500c675,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,0,0,0
+439495,2009/10,Afghanistan,0,Karim Sadiq,13e5908b,PC Connell,5500c675,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,4,0,4
+439495,2009/10,Afghanistan,1,Noor Ali Zadran,72e46d30,DT Johnston,e01895bb,Karim Sadiq,13e5908b,0,0,0,1,0,,,,,,0,1,1
+439495,2009/10,Afghanistan,1,Karim Sadiq,13e5908b,DT Johnston,e01895bb,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,0,0,0
+439495,2009/10,Afghanistan,1,Karim Sadiq,13e5908b,DT Johnston,e01895bb,Noor Ali Zadran,72e46d30,0,0,0,0,1,Karim Sadiq,13e5908b,,,bowled,0,0,0
+439495,2009/10,Afghanistan,1,Shafiqullah,ba4d600a,DT Johnston,e01895bb,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,1,0,1
+439495,2009/10,Afghanistan,1,Noor Ali Zadran,72e46d30,DT Johnston,e01895bb,Shafiqullah,ba4d600a,0,0,0,0,0,,,,,,0,0,0
+439495,2009/10,Afghanistan,1,Noor Ali Zadran,72e46d30,DT Johnston,e01895bb,Shafiqullah,ba4d600a,0,0,0,0,0,,,,,,0,0,0
+439495,2009/10,Afghanistan,2,Shafiqullah,ba4d600a,PC Connell,5500c675,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,1,0,1
+439495,2009/10,Afghanistan,2,Noor Ali Zadran,72e46d30,PC Connell,5500c675,Shafiqullah,ba4d600a,0,0,0,0,0,,,,,,0,0,0
+439495,2009/10,Afghanistan,2,Noor Ali Zadran,72e46d30,PC Connell,5500c675,Shafiqullah,ba4d600a,0,0,0,0,0,,,,,,0,0,0
+439495,2009/10,Afghanistan,2,Noor Ali Zadran,72e46d30,PC Connell,5500c675,Shafiqullah,ba4d600a,0,0,0,0,0,,,,,,0,0,0
+439495,2009/10,Afghanistan,2,Noor Ali Zadran,72e46d30,PC Connell,5500c675,Shafiqullah,ba4d600a,0,0,0,0,0,,,,,,2,0,2
+439495,2009/10,Afghanistan,2,Noor Ali Zadran,72e46d30,PC Connell,5500c675,Shafiqullah,ba4d600a,0,0,0,0,0,,,,,,1,0,1
+439495,2009/10,Afghanistan,3,Noor Ali Zadran,72e46d30,DT Johnston,e01895bb,Shafiqullah,ba4d600a,0,0,0,0,0,,,,,,1,0,1
+439495,2009/10,Afghanistan,3,Shafiqullah,ba4d600a,DT Johnston,e01895bb,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,1,0,1
+439495,2009/10,Afghanistan,3,Noor Ali Zadran,72e46d30,DT Johnston,e01895bb,Shafiqullah,ba4d600a,0,0,0,0,0,,,,,,1,0,1
+439495,2009/10,Afghanistan,3,Shafiqullah,ba4d600a,DT Johnston,e01895bb,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,0,0,0
+439495,2009/10,Afghanistan,3,Shafiqullah,ba4d600a,DT Johnston,e01895bb,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,0,0,0
+439495,2009/10,Afghanistan,3,Shafiqullah,ba4d600a,DT Johnston,e01895bb,Noor Ali Zadran,72e46d30,0,0,0,0,1,Shafiqullah,ba4d600a,JF Mooney,aae9ce90,caught,0,0,0
+439495,2009/10,Afghanistan,4,Mohammad Shahzad,d6dcb0c9,PC Connell,5500c675,Noor Ali Zadran,72e46d30,2,0,0,0,0,,,,,,0,2,2
+439495,2009/10,Afghanistan,4,Noor Ali Zadran,72e46d30,PC Connell,5500c675,Mohammad Shahzad,d6dcb0c9,0,0,0,0,0,,,,,,4,0,4
+439495,2009/10,Afghanistan,4,Noor Ali Zadran,72e46d30,PC Connell,5500c675,Mohammad Shahzad,d6dcb0c9,0,0,0,0,0,,,,,,1,0,1
+439495,2009/10,Afghanistan,4,Mohammad Shahzad,d6dcb0c9,PC Connell,5500c675,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,1,0,1
+439495,2009/10,Afghanistan,4,Noor Ali Zadran,72e46d30,PC Connell,5500c675,Mohammad Shahzad,d6dcb0c9,0,0,0,0,0,,,,,,0,0,0
+439495,2009/10,Afghanistan,4,Noor Ali Zadran,72e46d30,PC Connell,5500c675,Mohammad Shahzad,d6dcb0c9,0,0,0,0,0,,,,,,0,0,0
+439495,2009/10,Afghanistan,4,Noor Ali Zadran,72e46d30,PC Connell,5500c675,Mohammad Shahzad,d6dcb0c9,0,0,0,0,0,,,,,,1,0,1
+439495,2009/10,Afghanistan,5,Noor Ali Zadran,72e46d30,DT Johnston,e01895bb,Mohammad Shahzad,d6dcb0c9,0,0,0,0,0,,,,,,0,0,0
+439495,2009/10,Afghanistan,5,Noor Ali Zadran,72e46d30,DT Johnston,e01895bb,Mohammad Shahzad,d6dcb0c9,0,0,0,0,0,,,,,,1,0,1
+439495,2009/10,Afghanistan,5,Mohammad Shahzad,d6dcb0c9,DT Johnston,e01895bb,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,1,0,1
+439495,2009/10,Afghanistan,5,Noor Ali Zadran,72e46d30,DT Johnston,e01895bb,Mohammad Shahzad,d6dcb0c9,0,0,0,0,0,,,,,,4,0,4
+439495,2009/10,Afghanistan,5,Noor Ali Zadran,72e46d30,DT Johnston,e01895bb,Mohammad Shahzad,d6dcb0c9,0,0,0,0,0,,,,,,4,0,4
+439495,2009/10,Afghanistan,5,Noor Ali Zadran,72e46d30,DT Johnston,e01895bb,Mohammad Shahzad,d6dcb0c9,0,0,0,0,0,,,,,,0,0,0
+439495,2009/10,Afghanistan,6,Mohammad Shahzad,d6dcb0c9,PC Connell,5500c675,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,0,0,0
+439495,2009/10,Afghanistan,6,Mohammad Shahzad,d6dcb0c9,PC Connell,5500c675,Noor Ali Zadran,72e46d30,1,0,0,0,0,,,,,,0,1,1
+439495,2009/10,Afghanistan,6,Mohammad Shahzad,d6dcb0c9,PC Connell,5500c675,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,0,0,0
+439495,2009/10,Afghanistan,6,Mohammad Shahzad,d6dcb0c9,PC Connell,5500c675,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,0,0,0
+439495,2009/10,Afghanistan,6,Mohammad Shahzad,d6dcb0c9,PC Connell,5500c675,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,1,0,1
+439495,2009/10,Afghanistan,6,Noor Ali Zadran,72e46d30,PC Connell,5500c675,Mohammad Shahzad,d6dcb0c9,0,0,0,0,0,,,,,,0,0,0
+439495,2009/10,Afghanistan,6,Noor Ali Zadran,72e46d30,PC Connell,5500c675,Mohammad Shahzad,d6dcb0c9,0,0,0,0,0,,,,,,0,0,0
+439495,2009/10,Afghanistan,7,Mohammad Shahzad,d6dcb0c9,DT Johnston,e01895bb,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,0,0,0
+439495,2009/10,Afghanistan,7,Mohammad Shahzad,d6dcb0c9,DT Johnston,e01895bb,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,1,0,1
+439495,2009/10,Afghanistan,7,Noor Ali Zadran,72e46d30,DT Johnston,e01895bb,Mohammad Shahzad,d6dcb0c9,0,0,0,0,0,,,,,,1,0,1
+439495,2009/10,Afghanistan,7,Mohammad Shahzad,d6dcb0c9,DT Johnston,e01895bb,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,0,0,0
+439495,2009/10,Afghanistan,7,Mohammad Shahzad,d6dcb0c9,DT Johnston,e01895bb,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,1,0,1
+439495,2009/10,Afghanistan,7,Noor Ali Zadran,72e46d30,DT Johnston,e01895bb,Mohammad Shahzad,d6dcb0c9,0,0,0,0,0,,,,,,1,0,1
+439495,2009/10,Afghanistan,8,Noor Ali Zadran,72e46d30,KJ O'Brien,243431b5,Mohammad Shahzad,d6dcb0c9,0,0,0,0,0,,,,,,0,0,0
+439495,2009/10,Afghanistan,8,Noor Ali Zadran,72e46d30,KJ O'Brien,243431b5,Mohammad Shahzad,d6dcb0c9,0,0,0,0,0,,,,,,4,0,4
+439495,2009/10,Afghanistan,8,Noor Ali Zadran,72e46d30,KJ O'Brien,243431b5,Mohammad Shahzad,d6dcb0c9,0,0,0,0,0,,,,,,1,0,1
+439495,2009/10,Afghanistan,8,Mohammad Shahzad,d6dcb0c9,KJ O'Brien,243431b5,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,1,0,1
+439495,2009/10,Afghanistan,8,Noor Ali Zadran,72e46d30,KJ O'Brien,243431b5,Mohammad Shahzad,d6dcb0c9,0,0,0,0,0,,,,,,1,0,1
+439495,2009/10,Afghanistan,8,Mohammad Shahzad,d6dcb0c9,KJ O'Brien,243431b5,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,2,0,2
+439495,2009/10,Afghanistan,9,Noor Ali Zadran,72e46d30,AC Botha,d8e79af0,Mohammad Shahzad,d6dcb0c9,0,0,0,0,0,,,,,,1,0,1
+439495,2009/10,Afghanistan,9,Mohammad Shahzad,d6dcb0c9,AC Botha,d8e79af0,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,1,0,1
+439495,2009/10,Afghanistan,9,Noor Ali Zadran,72e46d30,AC Botha,d8e79af0,Mohammad Shahzad,d6dcb0c9,0,0,0,0,0,,,,,,4,0,4
+439495,2009/10,Afghanistan,9,Noor Ali Zadran,72e46d30,AC Botha,d8e79af0,Mohammad Shahzad,d6dcb0c9,0,0,0,0,0,,,,,,1,0,1
+439495,2009/10,Afghanistan,9,Mohammad Shahzad,d6dcb0c9,AC Botha,d8e79af0,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,2,0,2
+439495,2009/10,Afghanistan,9,Mohammad Shahzad,d6dcb0c9,AC Botha,d8e79af0,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,0,0,0
+439495,2009/10,Afghanistan,10,Noor Ali Zadran,72e46d30,GH Dockrell,99cddc5e,Mohammad Shahzad,d6dcb0c9,0,0,0,0,0,,,,,,2,0,2
+439495,2009/10,Afghanistan,10,Noor Ali Zadran,72e46d30,GH Dockrell,99cddc5e,Mohammad Shahzad,d6dcb0c9,0,0,0,0,0,,,,,,1,0,1
+439495,2009/10,Afghanistan,10,Mohammad Shahzad,d6dcb0c9,GH Dockrell,99cddc5e,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,0,0,0
+439495,2009/10,Afghanistan,10,Mohammad Shahzad,d6dcb0c9,GH Dockrell,99cddc5e,Noor Ali Zadran,72e46d30,0,0,0,0,1,Mohammad Shahzad,d6dcb0c9,JF Mooney,aae9ce90,run out,1,0,1
+439495,2009/10,Afghanistan,10,Nawroz Mangal,0503ae22,GH Dockrell,99cddc5e,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,1,0,1
+439495,2009/10,Afghanistan,10,Noor Ali Zadran,72e46d30,GH Dockrell,99cddc5e,Nawroz Mangal,0503ae22,0,0,0,0,0,,,,,,0,0,0
+439495,2009/10,Afghanistan,11,Nawroz Mangal,0503ae22,AC Botha,d8e79af0,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,0,0,0
+439495,2009/10,Afghanistan,11,Nawroz Mangal,0503ae22,AC Botha,d8e79af0,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,0,0,0
+439495,2009/10,Afghanistan,11,Nawroz Mangal,0503ae22,AC Botha,d8e79af0,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,1,0,1
+439495,2009/10,Afghanistan,11,Noor Ali Zadran,72e46d30,AC Botha,d8e79af0,Nawroz Mangal,0503ae22,0,0,0,0,0,,,,,,1,0,1
+439495,2009/10,Afghanistan,11,Nawroz Mangal,0503ae22,AC Botha,d8e79af0,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,1,0,1
+439495,2009/10,Afghanistan,11,Noor Ali Zadran,72e46d30,AC Botha,d8e79af0,Nawroz Mangal,0503ae22,0,0,0,0,0,,,,,,1,0,1
+439495,2009/10,Afghanistan,12,Noor Ali Zadran,72e46d30,GH Dockrell,99cddc5e,Nawroz Mangal,0503ae22,0,0,0,0,0,,,,,,0,0,0
+439495,2009/10,Afghanistan,12,Noor Ali Zadran,72e46d30,GH Dockrell,99cddc5e,Nawroz Mangal,0503ae22,0,0,0,0,0,,,,,,0,0,0
+439495,2009/10,Afghanistan,12,Noor Ali Zadran,72e46d30,GH Dockrell,99cddc5e,Nawroz Mangal,0503ae22,0,0,0,0,0,,,,,,0,0,0
+439495,2009/10,Afghanistan,12,Noor Ali Zadran,72e46d30,GH Dockrell,99cddc5e,Nawroz Mangal,0503ae22,0,0,0,0,0,,,,,,1,0,1
+439495,2009/10,Afghanistan,12,Nawroz Mangal,0503ae22,GH Dockrell,99cddc5e,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,1,0,1
+439495,2009/10,Afghanistan,12,Noor Ali Zadran,72e46d30,GH Dockrell,99cddc5e,Nawroz Mangal,0503ae22,0,0,0,0,0,,,,,,1,0,1
+439495,2009/10,Afghanistan,13,Noor Ali Zadran,72e46d30,AC Botha,d8e79af0,Nawroz Mangal,0503ae22,0,0,0,0,1,Noor Ali Zadran,72e46d30,PR Stirling,cf494ffe,caught,0,0,0
+439495,2009/10,Afghanistan,13,Nawroz Mangal,0503ae22,AC Botha,d8e79af0,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,1,0,1
+439495,2009/10,Afghanistan,13,Mohammad Nabi,62af8546,AC Botha,d8e79af0,Nawroz Mangal,0503ae22,0,0,0,0,0,,,,,,1,0,1
+439495,2009/10,Afghanistan,13,Nawroz Mangal,0503ae22,AC Botha,d8e79af0,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,1,0,1
+439495,2009/10,Afghanistan,13,Mohammad Nabi,62af8546,AC Botha,d8e79af0,Nawroz Mangal,0503ae22,0,0,0,0,0,,,,,,0,0,0
+439495,2009/10,Afghanistan,13,Mohammad Nabi,62af8546,AC Botha,d8e79af0,Nawroz Mangal,0503ae22,0,0,0,0,0,,,,,,0,0,0
+439495,2009/10,Afghanistan,14,Nawroz Mangal,0503ae22,GH Dockrell,99cddc5e,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,1,0,1
+439495,2009/10,Afghanistan,14,Mohammad Nabi,62af8546,GH Dockrell,99cddc5e,Nawroz Mangal,0503ae22,0,0,0,0,0,,,,,,6,0,6
+439495,2009/10,Afghanistan,14,Mohammad Nabi,62af8546,GH Dockrell,99cddc5e,Nawroz Mangal,0503ae22,0,0,0,0,0,,,,,,6,0,6
+439495,2009/10,Afghanistan,14,Mohammad Nabi,62af8546,GH Dockrell,99cddc5e,Nawroz Mangal,0503ae22,2,0,0,0,0,,,,,,0,2,2
+439495,2009/10,Afghanistan,14,Nawroz Mangal,0503ae22,GH Dockrell,99cddc5e,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,6,0,6
+439495,2009/10,Afghanistan,14,Nawroz Mangal,0503ae22,GH Dockrell,99cddc5e,Mohammad Nabi,62af8546,0,0,0,0,1,Nawroz Mangal,0503ae22,NJ O'Brien,84826f48,stumped,0,0,0
+439495,2009/10,Afghanistan,14,Samiullah Shenwari,61646132,GH Dockrell,99cddc5e,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,2,0,2
+439495,2009/10,Afghanistan,15,Mohammad Nabi,62af8546,AR Cusack,568e5a4a,Samiullah Shenwari,61646132,1,0,0,0,0,,,,,,0,1,1
+439495,2009/10,Afghanistan,15,Mohammad Nabi,62af8546,AR Cusack,568e5a4a,Samiullah Shenwari,61646132,0,0,0,0,0,,,,,,1,0,1
+439495,2009/10,Afghanistan,15,Samiullah Shenwari,61646132,AR Cusack,568e5a4a,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,0,0,0
+439495,2009/10,Afghanistan,15,Samiullah Shenwari,61646132,AR Cusack,568e5a4a,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,0,0,0
+439495,2009/10,Afghanistan,15,Samiullah Shenwari,61646132,AR Cusack,568e5a4a,Mohammad Nabi,62af8546,0,0,0,0,1,Samiullah Shenwari,61646132,AR Cusack,568e5a4a,run out,0,0,0
+439495,2009/10,Afghanistan,15,Mohammad Nabi,62af8546,AR Cusack,568e5a4a,Raees Ahmadzai,cffce71d,0,0,0,0,0,,,,,,4,0,4
+439495,2009/10,Afghanistan,15,Mohammad Nabi,62af8546,AR Cusack,568e5a4a,Raees Ahmadzai,cffce71d,0,0,0,0,0,,,,,,1,0,1
+439495,2009/10,Afghanistan,16,Mohammad Nabi,62af8546,KJ O'Brien,243431b5,Raees Ahmadzai,cffce71d,0,0,0,0,0,,,,,,0,0,0
+439495,2009/10,Afghanistan,16,Mohammad Nabi,62af8546,KJ O'Brien,243431b5,Raees Ahmadzai,cffce71d,0,0,0,0,0,,,,,,1,0,1
+439495,2009/10,Afghanistan,16,Raees Ahmadzai,cffce71d,KJ O'Brien,243431b5,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,1,0,1
+439495,2009/10,Afghanistan,16,Mohammad Nabi,62af8546,KJ O'Brien,243431b5,Raees Ahmadzai,cffce71d,0,0,0,0,0,,,,,,2,0,2
+439495,2009/10,Afghanistan,16,Mohammad Nabi,62af8546,KJ O'Brien,243431b5,Raees Ahmadzai,cffce71d,0,0,0,0,0,,,,,,1,0,1
+439495,2009/10,Afghanistan,16,Raees Ahmadzai,cffce71d,KJ O'Brien,243431b5,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,6,0,6
+439495,2009/10,Afghanistan,17,Mohammad Nabi,62af8546,AR Cusack,568e5a4a,Raees Ahmadzai,cffce71d,0,0,0,0,0,,,,,,1,0,1
+439495,2009/10,Afghanistan,17,Raees Ahmadzai,cffce71d,AR Cusack,568e5a4a,Mohammad Nabi,62af8546,0,0,1,0,0,,,,,,0,1,1
+439495,2009/10,Afghanistan,17,Mohammad Nabi,62af8546,AR Cusack,568e5a4a,Raees Ahmadzai,cffce71d,0,0,0,0,0,,,,,,4,0,4
+439495,2009/10,Afghanistan,17,Mohammad Nabi,62af8546,AR Cusack,568e5a4a,Raees Ahmadzai,cffce71d,0,0,0,0,0,,,,,,0,0,0
+439495,2009/10,Afghanistan,17,Mohammad Nabi,62af8546,AR Cusack,568e5a4a,Raees Ahmadzai,cffce71d,0,0,0,0,0,,,,,,1,0,1
+439495,2009/10,Afghanistan,17,Raees Ahmadzai,cffce71d,AR Cusack,568e5a4a,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,2,0,2
+439495,2009/10,Afghanistan,18,Mohammad Nabi,62af8546,AC Botha,d8e79af0,Raees Ahmadzai,cffce71d,0,0,0,0,0,,,,,,2,0,2
+439495,2009/10,Afghanistan,18,Mohammad Nabi,62af8546,AC Botha,d8e79af0,Raees Ahmadzai,cffce71d,1,0,0,0,0,,,,,,0,1,1
+439495,2009/10,Afghanistan,18,Mohammad Nabi,62af8546,AC Botha,d8e79af0,Raees Ahmadzai,cffce71d,0,0,0,0,0,,,,,,2,0,2
+439495,2009/10,Afghanistan,18,Mohammad Nabi,62af8546,AC Botha,d8e79af0,Raees Ahmadzai,cffce71d,0,0,0,0,0,,,,,,2,0,2
+439495,2009/10,Afghanistan,18,Mohammad Nabi,62af8546,AC Botha,d8e79af0,Raees Ahmadzai,cffce71d,0,0,0,0,0,,,,,,1,0,1
+439495,2009/10,Afghanistan,18,Raees Ahmadzai,cffce71d,AC Botha,d8e79af0,Mohammad Nabi,62af8546,0,0,0,0,1,Raees Ahmadzai,cffce71d,NJ O'Brien,84826f48,stumped,0,0,0
+439495,2009/10,Afghanistan,18,Mirwais Ashraf,bdd985f2,AC Botha,d8e79af0,Mohammad Nabi,62af8546,0,0,0,0,1,Mirwais Ashraf,bdd985f2,KJ O'Brien,243431b5,run out,1,0,1
+439495,2009/10,Afghanistan,19,Mohammad Nabi,62af8546,AR Cusack,568e5a4a,Hamid Hassan,093ae70b,0,0,0,0,0,,,,,,0,0,0
+439495,2009/10,Afghanistan,19,Mohammad Nabi,62af8546,AR Cusack,568e5a4a,Hamid Hassan,093ae70b,0,0,0,0,0,,,,,,2,0,2
+439495,2009/10,Afghanistan,19,Mohammad Nabi,62af8546,AR Cusack,568e5a4a,Hamid Hassan,093ae70b,0,0,0,0,0,,,,,,0,0,0
+439495,2009/10,Afghanistan,19,Mohammad Nabi,62af8546,AR Cusack,568e5a4a,Hamid Hassan,093ae70b,0,0,0,0,0,,,,,,1,0,1
+439495,2009/10,Afghanistan,19,Hamid Hassan,093ae70b,AR Cusack,568e5a4a,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,1,0,1
+439495,2009/10,Afghanistan,19,Mohammad Nabi,62af8546,AR Cusack,568e5a4a,Hamid Hassan,093ae70b,0,0,0,0,0,,,,,,4,0,4
+439495,2009/10,Ireland,0,WTS Porterfield,ec02b798,Shapoor Zadran,fccebff9,NJ O'Brien,84826f48,0,0,0,0,0,,,,,,0,0,0
+439495,2009/10,Ireland,0,WTS Porterfield,ec02b798,Shapoor Zadran,fccebff9,NJ O'Brien,84826f48,0,0,0,0,0,,,,,,1,0,1
+439495,2009/10,Ireland,0,NJ O'Brien,84826f48,Shapoor Zadran,fccebff9,WTS Porterfield,ec02b798,0,0,0,0,0,,,,,,1,0,1
+439495,2009/10,Ireland,0,WTS Porterfield,ec02b798,Shapoor Zadran,fccebff9,NJ O'Brien,84826f48,0,0,0,0,0,,,,,,4,0,4
+439495,2009/10,Ireland,0,WTS Porterfield,ec02b798,Shapoor Zadran,fccebff9,NJ O'Brien,84826f48,0,0,0,0,0,,,,,,0,0,0
+439495,2009/10,Ireland,0,WTS Porterfield,ec02b798,Shapoor Zadran,fccebff9,NJ O'Brien,84826f48,0,0,0,0,0,,,,,,0,0,0
+439495,2009/10,Ireland,1,NJ O'Brien,84826f48,Mirwais Ashraf,bdd985f2,WTS Porterfield,ec02b798,0,0,0,0,0,,,,,,0,0,0
+439495,2009/10,Ireland,1,NJ O'Brien,84826f48,Mirwais Ashraf,bdd985f2,WTS Porterfield,ec02b798,0,0,0,0,0,,,,,,1,0,1
+439495,2009/10,Ireland,1,WTS Porterfield,ec02b798,Mirwais Ashraf,bdd985f2,NJ O'Brien,84826f48,0,0,0,0,0,,,,,,0,0,0
+439495,2009/10,Ireland,1,WTS Porterfield,ec02b798,Mirwais Ashraf,bdd985f2,NJ O'Brien,84826f48,0,0,0,0,0,,,,,,0,0,0
+439495,2009/10,Ireland,1,WTS Porterfield,ec02b798,Mirwais Ashraf,bdd985f2,NJ O'Brien,84826f48,0,0,0,0,0,,,,,,0,0,0
+439495,2009/10,Ireland,1,WTS Porterfield,ec02b798,Mirwais Ashraf,bdd985f2,NJ O'Brien,84826f48,0,0,0,0,0,,,,,,1,0,1
+439495,2009/10,Ireland,2,WTS Porterfield,ec02b798,Shapoor Zadran,fccebff9,NJ O'Brien,84826f48,0,0,0,0,0,,,,,,6,0,6
+439495,2009/10,Ireland,2,WTS Porterfield,ec02b798,Shapoor Zadran,fccebff9,NJ O'Brien,84826f48,0,0,0,0,0,,,,,,6,0,6
+439495,2009/10,Ireland,2,WTS Porterfield,ec02b798,Shapoor Zadran,fccebff9,NJ O'Brien,84826f48,0,0,0,1,0,,,,,,0,1,1
+439495,2009/10,Ireland,2,NJ O'Brien,84826f48,Shapoor Zadran,fccebff9,WTS Porterfield,ec02b798,1,0,0,0,0,,,,,,0,1,1
+439495,2009/10,Ireland,2,NJ O'Brien,84826f48,Shapoor Zadran,fccebff9,WTS Porterfield,ec02b798,0,0,0,0,0,,,,,,0,0,0
+439495,2009/10,Ireland,2,NJ O'Brien,84826f48,Shapoor Zadran,fccebff9,WTS Porterfield,ec02b798,0,0,0,0,0,,,,,,0,0,0
+439495,2009/10,Ireland,2,NJ O'Brien,84826f48,Shapoor Zadran,fccebff9,WTS Porterfield,ec02b798,0,0,0,0,1,NJ O'Brien,84826f48,Noor Ali Zadran,72e46d30,caught,0,0,0
+439495,2009/10,Ireland,3,PR Stirling,cf494ffe,Mirwais Ashraf,bdd985f2,WTS Porterfield,ec02b798,0,0,0,0,0,,,,,,0,0,0
+439495,2009/10,Ireland,3,PR Stirling,cf494ffe,Mirwais Ashraf,bdd985f2,WTS Porterfield,ec02b798,0,0,0,0,0,,,,,,0,0,0
+439495,2009/10,Ireland,3,PR Stirling,cf494ffe,Mirwais Ashraf,bdd985f2,WTS Porterfield,ec02b798,0,0,0,0,0,,,,,,1,0,1
+439495,2009/10,Ireland,3,WTS Porterfield,ec02b798,Mirwais Ashraf,bdd985f2,PR Stirling,cf494ffe,0,0,0,0,0,,,,,,0,0,0
+439495,2009/10,Ireland,3,WTS Porterfield,ec02b798,Mirwais Ashraf,bdd985f2,PR Stirling,cf494ffe,0,0,0,0,0,,,,,,4,0,4
+439495,2009/10,Ireland,3,WTS Porterfield,ec02b798,Mirwais Ashraf,bdd985f2,PR Stirling,cf494ffe,0,0,0,0,0,,,,,,2,0,2
+439495,2009/10,Ireland,4,PR Stirling,cf494ffe,Shapoor Zadran,fccebff9,WTS Porterfield,ec02b798,0,0,0,0,0,,,,,,4,0,4
+439495,2009/10,Ireland,4,PR Stirling,cf494ffe,Shapoor Zadran,fccebff9,WTS Porterfield,ec02b798,0,0,0,0,0,,,,,,4,0,4
+439495,2009/10,Ireland,4,PR Stirling,cf494ffe,Shapoor Zadran,fccebff9,WTS Porterfield,ec02b798,0,0,0,0,0,,,,,,1,0,1
+439495,2009/10,Ireland,4,WTS Porterfield,ec02b798,Shapoor Zadran,fccebff9,PR Stirling,cf494ffe,0,0,0,0,0,,,,,,1,0,1
+439495,2009/10,Ireland,4,PR Stirling,cf494ffe,Shapoor Zadran,fccebff9,WTS Porterfield,ec02b798,0,0,0,0,0,,,,,,1,0,1
+439495,2009/10,Ireland,4,WTS Porterfield,ec02b798,Shapoor Zadran,fccebff9,PR Stirling,cf494ffe,0,0,0,0,0,,,,,,1,0,1
+439495,2009/10,Ireland,5,WTS Porterfield,ec02b798,Mirwais Ashraf,bdd985f2,PR Stirling,cf494ffe,0,0,0,0,0,,,,,,2,0,2
+439495,2009/10,Ireland,5,WTS Porterfield,ec02b798,Mirwais Ashraf,bdd985f2,PR Stirling,cf494ffe,0,0,0,0,0,,,,,,4,0,4
+439495,2009/10,Ireland,5,WTS Porterfield,ec02b798,Mirwais Ashraf,bdd985f2,PR Stirling,cf494ffe,0,0,0,0,0,,,,,,1,0,1
+439495,2009/10,Ireland,5,PR Stirling,cf494ffe,Mirwais Ashraf,bdd985f2,WTS Porterfield,ec02b798,0,0,0,0,0,,,,,,0,0,0
+439495,2009/10,Ireland,5,PR Stirling,cf494ffe,Mirwais Ashraf,bdd985f2,WTS Porterfield,ec02b798,0,0,0,0,0,,,,,,0,0,0
+439495,2009/10,Ireland,5,PR Stirling,cf494ffe,Mirwais Ashraf,bdd985f2,WTS Porterfield,ec02b798,0,0,0,0,0,,,,,,1,0,1
+439495,2009/10,Ireland,6,PR Stirling,cf494ffe,Karim Sadiq,13e5908b,WTS Porterfield,ec02b798,0,0,0,0,0,,,,,,1,0,1
+439495,2009/10,Ireland,6,WTS Porterfield,ec02b798,Karim Sadiq,13e5908b,PR Stirling,cf494ffe,0,0,0,0,0,,,,,,0,0,0
+439495,2009/10,Ireland,6,WTS Porterfield,ec02b798,Karim Sadiq,13e5908b,PR Stirling,cf494ffe,0,0,0,0,0,,,,,,2,0,2
+439495,2009/10,Ireland,6,WTS Porterfield,ec02b798,Karim Sadiq,13e5908b,PR Stirling,cf494ffe,0,0,0,0,1,WTS Porterfield,ec02b798,,,bowled,0,0,0
+439495,2009/10,Ireland,6,AC Botha,d8e79af0,Karim Sadiq,13e5908b,PR Stirling,cf494ffe,0,0,0,0,0,,,,,,0,0,0
+439495,2009/10,Ireland,6,AC Botha,d8e79af0,Karim Sadiq,13e5908b,PR Stirling,cf494ffe,0,0,0,0,1,AC Botha,d8e79af0,,,bowled,0,0,0
+439495,2009/10,Ireland,7,PR Stirling,cf494ffe,Mirwais Ashraf,bdd985f2,KJ O'Brien,243431b5,0,0,0,0,0,,,,,,1,0,1
+439495,2009/10,Ireland,7,KJ O'Brien,243431b5,Mirwais Ashraf,bdd985f2,PR Stirling,cf494ffe,0,0,0,0,0,,,,,,0,0,0
+439495,2009/10,Ireland,7,KJ O'Brien,243431b5,Mirwais Ashraf,bdd985f2,PR Stirling,cf494ffe,0,0,0,0,0,,,,,,0,0,0
+439495,2009/10,Ireland,7,KJ O'Brien,243431b5,Mirwais Ashraf,bdd985f2,PR Stirling,cf494ffe,0,0,0,0,0,,,,,,0,0,0
+439495,2009/10,Ireland,7,KJ O'Brien,243431b5,Mirwais Ashraf,bdd985f2,PR Stirling,cf494ffe,0,0,0,0,0,,,,,,0,0,0
+439495,2009/10,Ireland,7,KJ O'Brien,243431b5,Mirwais Ashraf,bdd985f2,PR Stirling,cf494ffe,0,0,0,0,0,,,,,,2,0,2
+439495,2009/10,Ireland,8,PR Stirling,cf494ffe,Karim Sadiq,13e5908b,KJ O'Brien,243431b5,0,0,0,0,0,,,,,,1,0,1
+439495,2009/10,Ireland,8,KJ O'Brien,243431b5,Karim Sadiq,13e5908b,PR Stirling,cf494ffe,0,0,0,0,0,,,,,,2,0,2
+439495,2009/10,Ireland,8,KJ O'Brien,243431b5,Karim Sadiq,13e5908b,PR Stirling,cf494ffe,0,0,0,0,0,,,,,,1,0,1
+439495,2009/10,Ireland,8,PR Stirling,cf494ffe,Karim Sadiq,13e5908b,KJ O'Brien,243431b5,1,0,0,0,0,,,,,,0,1,1
+439495,2009/10,Ireland,8,PR Stirling,cf494ffe,Karim Sadiq,13e5908b,KJ O'Brien,243431b5,0,0,0,0,0,,,,,,1,0,1
+439495,2009/10,Ireland,8,KJ O'Brien,243431b5,Karim Sadiq,13e5908b,PR Stirling,cf494ffe,0,0,0,0,0,,,,,,2,0,2
+439495,2009/10,Ireland,8,KJ O'Brien,243431b5,Karim Sadiq,13e5908b,PR Stirling,cf494ffe,0,0,0,0,1,KJ O'Brien,243431b5,Nawroz Mangal,0503ae22,caught,0,0,0
+439495,2009/10,Ireland,9,AR Cusack,568e5a4a,Samiullah Shenwari,61646132,PR Stirling,cf494ffe,0,0,0,0,0,,,,,,1,0,1
+439495,2009/10,Ireland,9,PR Stirling,cf494ffe,Samiullah Shenwari,61646132,AR Cusack,568e5a4a,0,0,0,0,0,,,,,,0,0,0
+439495,2009/10,Ireland,9,PR Stirling,cf494ffe,Samiullah Shenwari,61646132,AR Cusack,568e5a4a,0,0,1,0,0,,,,,,0,1,1
+439495,2009/10,Ireland,9,AR Cusack,568e5a4a,Samiullah Shenwari,61646132,PR Stirling,cf494ffe,0,0,0,0,0,,,,,,1,0,1
+439495,2009/10,Ireland,9,PR Stirling,cf494ffe,Samiullah Shenwari,61646132,AR Cusack,568e5a4a,0,0,0,0,0,,,,,,1,0,1
+439495,2009/10,Ireland,9,AR Cusack,568e5a4a,Samiullah Shenwari,61646132,PR Stirling,cf494ffe,0,0,0,0,0,,,,,,1,0,1
+439495,2009/10,Ireland,10,AR Cusack,568e5a4a,Karim Sadiq,13e5908b,PR Stirling,cf494ffe,0,0,0,0,0,,,,,,2,0,2
+439495,2009/10,Ireland,10,AR Cusack,568e5a4a,Karim Sadiq,13e5908b,PR Stirling,cf494ffe,0,0,0,0,0,,,,,,1,0,1
+439495,2009/10,Ireland,10,PR Stirling,cf494ffe,Karim Sadiq,13e5908b,AR Cusack,568e5a4a,0,0,0,0,0,,,,,,1,0,1
+439495,2009/10,Ireland,10,AR Cusack,568e5a4a,Karim Sadiq,13e5908b,PR Stirling,cf494ffe,0,0,1,0,0,,,,,,0,1,1
+439495,2009/10,Ireland,10,PR Stirling,cf494ffe,Karim Sadiq,13e5908b,AR Cusack,568e5a4a,0,0,0,0,0,,,,,,1,0,1
+439495,2009/10,Ireland,10,AR Cusack,568e5a4a,Karim Sadiq,13e5908b,PR Stirling,cf494ffe,0,0,0,0,0,,,,,,1,0,1
+439495,2009/10,Ireland,11,AR Cusack,568e5a4a,Hamid Hassan,093ae70b,PR Stirling,cf494ffe,0,0,0,0,0,,,,,,1,0,1
+439495,2009/10,Ireland,11,PR Stirling,cf494ffe,Hamid Hassan,093ae70b,AR Cusack,568e5a4a,0,0,0,0,0,,,,,,0,0,0
+439495,2009/10,Ireland,11,PR Stirling,cf494ffe,Hamid Hassan,093ae70b,AR Cusack,568e5a4a,0,0,0,0,0,,,,,,0,0,0
+439495,2009/10,Ireland,11,PR Stirling,cf494ffe,Hamid Hassan,093ae70b,AR Cusack,568e5a4a,0,0,0,0,0,,,,,,2,0,2
+439495,2009/10,Ireland,11,PR Stirling,cf494ffe,Hamid Hassan,093ae70b,AR Cusack,568e5a4a,0,0,0,0,1,PR Stirling,cf494ffe,Nawroz Mangal,0503ae22,caught,0,0,0
+439495,2009/10,Ireland,11,GC Wilson,05de1a5a,Hamid Hassan,093ae70b,AR Cusack,568e5a4a,0,0,0,0,0,,,,,,0,0,0
+439495,2009/10,Ireland,12,AR Cusack,568e5a4a,Mohammad Nabi,62af8546,GC Wilson,05de1a5a,0,0,0,0,0,,,,,,1,0,1
+439495,2009/10,Ireland,12,GC Wilson,05de1a5a,Mohammad Nabi,62af8546,AR Cusack,568e5a4a,0,0,0,0,0,,,,,,1,0,1
+439495,2009/10,Ireland,12,AR Cusack,568e5a4a,Mohammad Nabi,62af8546,GC Wilson,05de1a5a,0,0,0,0,0,,,,,,1,0,1
+439495,2009/10,Ireland,12,GC Wilson,05de1a5a,Mohammad Nabi,62af8546,AR Cusack,568e5a4a,0,0,0,0,0,,,,,,3,0,3
+439495,2009/10,Ireland,12,AR Cusack,568e5a4a,Mohammad Nabi,62af8546,GC Wilson,05de1a5a,0,0,0,0,0,,,,,,2,0,2
+439495,2009/10,Ireland,12,AR Cusack,568e5a4a,Mohammad Nabi,62af8546,GC Wilson,05de1a5a,0,0,0,0,0,,,,,,2,0,2
+439495,2009/10,Ireland,13,GC Wilson,05de1a5a,Hamid Hassan,093ae70b,AR Cusack,568e5a4a,0,0,0,0,0,,,,,,0,0,0
+439495,2009/10,Ireland,13,GC Wilson,05de1a5a,Hamid Hassan,093ae70b,AR Cusack,568e5a4a,0,0,0,0,0,,,,,,1,0,1
+439495,2009/10,Ireland,13,AR Cusack,568e5a4a,Hamid Hassan,093ae70b,GC Wilson,05de1a5a,0,1,0,0,0,,,,,,1,1,2
+439495,2009/10,Ireland,13,GC Wilson,05de1a5a,Hamid Hassan,093ae70b,AR Cusack,568e5a4a,0,0,0,0,1,AR Cusack,568e5a4a,Nawroz Mangal,0503ae22,run out,0,0,0
+439495,2009/10,Ireland,13,GC Wilson,05de1a5a,Hamid Hassan,093ae70b,DT Johnston,e01895bb,0,0,0,0,0,,,,,,2,0,2
+439495,2009/10,Ireland,13,GC Wilson,05de1a5a,Hamid Hassan,093ae70b,DT Johnston,e01895bb,0,0,1,0,0,,,,,,0,1,1
+439495,2009/10,Ireland,13,DT Johnston,e01895bb,Hamid Hassan,093ae70b,GC Wilson,05de1a5a,0,0,0,0,0,,,,,,2,0,2
+439495,2009/10,Ireland,14,GC Wilson,05de1a5a,Mohammad Nabi,62af8546,DT Johnston,e01895bb,0,0,0,0,0,,,,,,1,0,1
+439495,2009/10,Ireland,14,DT Johnston,e01895bb,Mohammad Nabi,62af8546,GC Wilson,05de1a5a,0,0,0,0,0,,,,,,1,0,1
+439495,2009/10,Ireland,14,GC Wilson,05de1a5a,Mohammad Nabi,62af8546,DT Johnston,e01895bb,0,0,0,0,1,GC Wilson,05de1a5a,Mohammad Shahzad,d6dcb0c9,caught,0,0,0
+439495,2009/10,Ireland,14,JF Mooney,aae9ce90,Mohammad Nabi,62af8546,DT Johnston,e01895bb,0,0,0,0,0,,,,,,0,0,0
+439495,2009/10,Ireland,14,JF Mooney,aae9ce90,Mohammad Nabi,62af8546,DT Johnston,e01895bb,0,0,1,0,0,,,,,,0,1,1
+439495,2009/10,Ireland,14,DT Johnston,e01895bb,Mohammad Nabi,62af8546,JF Mooney,aae9ce90,0,0,0,0,0,,,,,,1,0,1
+439495,2009/10,Ireland,15,DT Johnston,e01895bb,Hamid Hassan,093ae70b,JF Mooney,aae9ce90,0,0,0,0,0,,,,,,4,0,4
+439495,2009/10,Ireland,15,DT Johnston,e01895bb,Hamid Hassan,093ae70b,JF Mooney,aae9ce90,0,0,0,0,0,,,,,,1,0,1
+439495,2009/10,Ireland,15,JF Mooney,aae9ce90,Hamid Hassan,093ae70b,DT Johnston,e01895bb,0,0,1,0,0,,,,,,0,1,1
+439495,2009/10,Ireland,15,DT Johnston,e01895bb,Hamid Hassan,093ae70b,JF Mooney,aae9ce90,0,0,0,0,0,,,,,,2,0,2
+439495,2009/10,Ireland,15,DT Johnston,e01895bb,Hamid Hassan,093ae70b,JF Mooney,aae9ce90,0,0,0,0,0,,,,,,1,0,1
+439495,2009/10,Ireland,15,JF Mooney,aae9ce90,Hamid Hassan,093ae70b,DT Johnston,e01895bb,0,0,0,0,0,,,,,,1,0,1
+439495,2009/10,Ireland,16,JF Mooney,aae9ce90,Mohammad Nabi,62af8546,DT Johnston,e01895bb,0,0,0,0,0,,,,,,1,0,1
+439495,2009/10,Ireland,16,DT Johnston,e01895bb,Mohammad Nabi,62af8546,JF Mooney,aae9ce90,0,0,0,0,0,,,,,,2,0,2
+439495,2009/10,Ireland,16,DT Johnston,e01895bb,Mohammad Nabi,62af8546,JF Mooney,aae9ce90,0,0,0,0,0,,,,,,0,0,0
+439495,2009/10,Ireland,16,DT Johnston,e01895bb,Mohammad Nabi,62af8546,JF Mooney,aae9ce90,0,0,0,0,0,,,,,,1,0,1
+439495,2009/10,Ireland,16,JF Mooney,aae9ce90,Mohammad Nabi,62af8546,DT Johnston,e01895bb,0,0,0,0,0,,,,,,1,0,1
+439495,2009/10,Ireland,16,DT Johnston,e01895bb,Mohammad Nabi,62af8546,JF Mooney,aae9ce90,0,0,0,0,0,,,,,,2,0,2
+439495,2009/10,Ireland,17,JF Mooney,aae9ce90,Samiullah Shenwari,61646132,DT Johnston,e01895bb,0,0,0,0,0,,,,,,1,0,1
+439495,2009/10,Ireland,17,DT Johnston,e01895bb,Samiullah Shenwari,61646132,JF Mooney,aae9ce90,0,0,0,0,0,,,,,,1,0,1
+439495,2009/10,Ireland,17,JF Mooney,aae9ce90,Samiullah Shenwari,61646132,DT Johnston,e01895bb,0,0,0,0,0,,,,,,0,0,0
+439495,2009/10,Ireland,17,JF Mooney,aae9ce90,Samiullah Shenwari,61646132,DT Johnston,e01895bb,0,0,0,0,0,,,,,,1,0,1
+439495,2009/10,Ireland,17,DT Johnston,e01895bb,Samiullah Shenwari,61646132,JF Mooney,aae9ce90,0,0,0,0,0,,,,,,0,0,0
+439495,2009/10,Ireland,17,DT Johnston,e01895bb,Samiullah Shenwari,61646132,JF Mooney,aae9ce90,0,0,0,0,0,,,,,,0,0,0
+439495,2009/10,Ireland,18,JF Mooney,aae9ce90,Mohammad Nabi,62af8546,DT Johnston,e01895bb,0,0,0,0,0,,,,,,4,0,4
+439495,2009/10,Ireland,18,JF Mooney,aae9ce90,Mohammad Nabi,62af8546,DT Johnston,e01895bb,0,0,1,0,0,,,,,,0,1,1
+439495,2009/10,Ireland,18,DT Johnston,e01895bb,Mohammad Nabi,62af8546,JF Mooney,aae9ce90,0,0,0,0,0,,,,,,0,0,0
+439495,2009/10,Ireland,18,DT Johnston,e01895bb,Mohammad Nabi,62af8546,JF Mooney,aae9ce90,0,0,0,0,0,,,,,,0,0,0
+439495,2009/10,Ireland,18,DT Johnston,e01895bb,Mohammad Nabi,62af8546,JF Mooney,aae9ce90,0,0,0,0,1,DT Johnston,e01895bb,Samiullah Shenwari,61646132,caught,0,0,0
+439495,2009/10,Ireland,18,JF Mooney,aae9ce90,Mohammad Nabi,62af8546,PC Connell,5500c675,1,0,0,0,0,,,,,,0,1,1
+439495,2009/10,Ireland,18,JF Mooney,aae9ce90,Mohammad Nabi,62af8546,PC Connell,5500c675,0,0,0,0,0,,,,,,0,0,0
+439495,2009/10,Ireland,19,PC Connell,5500c675,Hamid Hassan,093ae70b,JF Mooney,aae9ce90,0,0,0,0,1,PC Connell,5500c675,Hamid Hassan,093ae70b,run out,0,0,0
+439495,2009/10,Ireland,19,JF Mooney,aae9ce90,Hamid Hassan,093ae70b,GH Dockrell,99cddc5e,0,0,0,0,1,JF Mooney,aae9ce90,,,bowled,0,0,0

@@ -1,0 +1,199 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1190773,2019,Malaysia,0,Virandeep Singh,415d30b6,V Baskaran,dd5a9067,Anwar Arudin,6d24561a,0,0,0,0,0,,,,,,1,0,1
+1190773,2019,Malaysia,0,Anwar Arudin,6d24561a,V Baskaran,dd5a9067,Virandeep Singh,415d30b6,0,0,0,0,0,,,,,,0,0,0
+1190773,2019,Malaysia,0,Anwar Arudin,6d24561a,V Baskaran,dd5a9067,Virandeep Singh,415d30b6,0,0,0,0,0,,,,,,0,0,0
+1190773,2019,Malaysia,0,Anwar Arudin,6d24561a,V Baskaran,dd5a9067,Virandeep Singh,415d30b6,0,0,0,0,0,,,,,,0,0,0
+1190773,2019,Malaysia,0,Anwar Arudin,6d24561a,V Baskaran,dd5a9067,Virandeep Singh,415d30b6,0,0,0,0,0,,,,,,1,0,1
+1190773,2019,Malaysia,0,Virandeep Singh,415d30b6,V Baskaran,dd5a9067,Anwar Arudin,6d24561a,0,0,0,0,0,,,,,,1,0,1
+1190773,2019,Malaysia,1,Virandeep Singh,415d30b6,Amjad Mahboob,48f25627,Anwar Arudin,6d24561a,0,0,0,0,0,,,,,,0,0,0
+1190773,2019,Malaysia,1,Virandeep Singh,415d30b6,Amjad Mahboob,48f25627,Anwar Arudin,6d24561a,0,0,0,0,0,,,,,,1,0,1
+1190773,2019,Malaysia,1,Anwar Arudin,6d24561a,Amjad Mahboob,48f25627,Virandeep Singh,415d30b6,1,0,0,0,0,,,,,,0,1,1
+1190773,2019,Malaysia,1,Anwar Arudin,6d24561a,Amjad Mahboob,48f25627,Virandeep Singh,415d30b6,0,0,0,0,0,,,,,,0,0,0
+1190773,2019,Malaysia,1,Anwar Arudin,6d24561a,Amjad Mahboob,48f25627,Virandeep Singh,415d30b6,0,0,0,0,1,Anwar Arudin,6d24561a,Janak Prakash,f092b4c7,caught,0,0,0
+1190773,2019,Malaysia,1,Virandeep Singh,415d30b6,Amjad Mahboob,48f25627,Syed Aziz,6667067e,0,0,0,0,0,,,,,,0,0,0
+1190773,2019,Malaysia,1,Virandeep Singh,415d30b6,Amjad Mahboob,48f25627,Syed Aziz,6667067e,0,0,0,0,0,,,,,,0,0,0
+1190773,2019,Malaysia,2,Syed Aziz,6667067e,S Vijayakumar,44c69e2b,Virandeep Singh,415d30b6,0,0,0,0,0,,,,,,0,0,0
+1190773,2019,Malaysia,2,Syed Aziz,6667067e,S Vijayakumar,44c69e2b,Virandeep Singh,415d30b6,0,0,0,0,0,,,,,,0,0,0
+1190773,2019,Malaysia,2,Syed Aziz,6667067e,S Vijayakumar,44c69e2b,Virandeep Singh,415d30b6,0,0,0,0,1,Syed Aziz,6667067e,Janak Prakash,f092b4c7,caught,0,0,0
+1190773,2019,Malaysia,2,Shafiq Sharif,033ac24e,S Vijayakumar,44c69e2b,Virandeep Singh,415d30b6,0,0,0,0,0,,,,,,0,0,0
+1190773,2019,Malaysia,2,Shafiq Sharif,033ac24e,S Vijayakumar,44c69e2b,Virandeep Singh,415d30b6,0,0,0,0,0,,,,,,0,0,0
+1190773,2019,Malaysia,2,Shafiq Sharif,033ac24e,S Vijayakumar,44c69e2b,Virandeep Singh,415d30b6,0,0,0,0,0,,,,,,0,0,0
+1190773,2019,Malaysia,3,Virandeep Singh,415d30b6,Amjad Mahboob,48f25627,Shafiq Sharif,033ac24e,0,0,0,0,0,,,,,,1,0,1
+1190773,2019,Malaysia,3,Shafiq Sharif,033ac24e,Amjad Mahboob,48f25627,Virandeep Singh,415d30b6,0,0,0,0,0,,,,,,0,0,0
+1190773,2019,Malaysia,3,Shafiq Sharif,033ac24e,Amjad Mahboob,48f25627,Virandeep Singh,415d30b6,0,0,0,0,0,,,,,,0,0,0
+1190773,2019,Malaysia,3,Shafiq Sharif,033ac24e,Amjad Mahboob,48f25627,Virandeep Singh,415d30b6,0,0,0,0,0,,,,,,1,0,1
+1190773,2019,Malaysia,3,Virandeep Singh,415d30b6,Amjad Mahboob,48f25627,Shafiq Sharif,033ac24e,0,0,0,0,0,,,,,,4,0,4
+1190773,2019,Malaysia,3,Virandeep Singh,415d30b6,Amjad Mahboob,48f25627,Shafiq Sharif,033ac24e,0,0,0,0,0,,,,,,1,0,1
+1190773,2019,Malaysia,4,Virandeep Singh,415d30b6,V Baskaran,dd5a9067,Shafiq Sharif,033ac24e,0,0,0,0,0,,,,,,1,0,1
+1190773,2019,Malaysia,4,Shafiq Sharif,033ac24e,V Baskaran,dd5a9067,Virandeep Singh,415d30b6,0,0,0,0,0,,,,,,4,0,4
+1190773,2019,Malaysia,4,Shafiq Sharif,033ac24e,V Baskaran,dd5a9067,Virandeep Singh,415d30b6,0,0,0,0,0,,,,,,0,0,0
+1190773,2019,Malaysia,4,Shafiq Sharif,033ac24e,V Baskaran,dd5a9067,Virandeep Singh,415d30b6,0,0,0,0,0,,,,,,1,0,1
+1190773,2019,Malaysia,4,Virandeep Singh,415d30b6,V Baskaran,dd5a9067,Shafiq Sharif,033ac24e,0,0,0,0,0,,,,,,1,0,1
+1190773,2019,Malaysia,4,Shafiq Sharif,033ac24e,V Baskaran,dd5a9067,Virandeep Singh,415d30b6,0,0,0,0,0,,,,,,4,0,4
+1190773,2019,Malaysia,5,Virandeep Singh,415d30b6,Janak Prakash,f092b4c7,Shafiq Sharif,033ac24e,2,0,0,0,0,,,,,,0,2,2
+1190773,2019,Malaysia,5,Shafiq Sharif,033ac24e,Janak Prakash,f092b4c7,Virandeep Singh,415d30b6,0,0,0,0,0,,,,,,1,0,1
+1190773,2019,Malaysia,5,Virandeep Singh,415d30b6,Janak Prakash,f092b4c7,Shafiq Sharif,033ac24e,0,0,0,0,0,,,,,,0,0,0
+1190773,2019,Malaysia,5,Virandeep Singh,415d30b6,Janak Prakash,f092b4c7,Shafiq Sharif,033ac24e,0,0,0,0,0,,,,,,0,0,0
+1190773,2019,Malaysia,5,Virandeep Singh,415d30b6,Janak Prakash,f092b4c7,Shafiq Sharif,033ac24e,0,0,0,0,0,,,,,,0,0,0
+1190773,2019,Malaysia,5,Virandeep Singh,415d30b6,Janak Prakash,f092b4c7,Shafiq Sharif,033ac24e,0,0,0,0,0,,,,,,1,0,1
+1190773,2019,Malaysia,5,Shafiq Sharif,033ac24e,Janak Prakash,f092b4c7,Virandeep Singh,415d30b6,0,0,0,0,0,,,,,,1,0,1
+1190773,2019,Malaysia,6,Shafiq Sharif,033ac24e,S Vijayakumar,44c69e2b,Virandeep Singh,415d30b6,0,0,0,0,0,,,,,,0,0,0
+1190773,2019,Malaysia,6,Shafiq Sharif,033ac24e,S Vijayakumar,44c69e2b,Virandeep Singh,415d30b6,0,0,0,0,1,Shafiq Sharif,033ac24e,S Chandramohan,2a6ccc1c,caught,0,0,0
+1190773,2019,Malaysia,6,Ahmed Faiz,f6b4f746,S Vijayakumar,44c69e2b,Virandeep Singh,415d30b6,0,0,0,0,0,,,,,,1,0,1
+1190773,2019,Malaysia,6,Virandeep Singh,415d30b6,S Vijayakumar,44c69e2b,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,1,0,1
+1190773,2019,Malaysia,6,Ahmed Faiz,f6b4f746,S Vijayakumar,44c69e2b,Virandeep Singh,415d30b6,0,0,0,0,0,,,,,,0,0,0
+1190773,2019,Malaysia,6,Ahmed Faiz,f6b4f746,S Vijayakumar,44c69e2b,Virandeep Singh,415d30b6,0,0,0,0,0,,,,,,0,0,0
+1190773,2019,Malaysia,7,Virandeep Singh,415d30b6,A Krishna,13598ebc,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,1,0,1
+1190773,2019,Malaysia,7,Ahmed Faiz,f6b4f746,A Krishna,13598ebc,Virandeep Singh,415d30b6,0,0,0,0,0,,,,,,0,0,0
+1190773,2019,Malaysia,7,Ahmed Faiz,f6b4f746,A Krishna,13598ebc,Virandeep Singh,415d30b6,0,0,0,0,0,,,,,,1,0,1
+1190773,2019,Malaysia,7,Virandeep Singh,415d30b6,A Krishna,13598ebc,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,1,0,1
+1190773,2019,Malaysia,7,Ahmed Faiz,f6b4f746,A Krishna,13598ebc,Virandeep Singh,415d30b6,0,0,0,0,0,,,,,,1,0,1
+1190773,2019,Malaysia,7,Virandeep Singh,415d30b6,A Krishna,13598ebc,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,0,0,0
+1190773,2019,Malaysia,8,Ahmed Faiz,f6b4f746,S Vijayakumar,44c69e2b,Virandeep Singh,415d30b6,0,0,0,0,0,,,,,,1,0,1
+1190773,2019,Malaysia,8,Virandeep Singh,415d30b6,S Vijayakumar,44c69e2b,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,0,0,0
+1190773,2019,Malaysia,8,Virandeep Singh,415d30b6,S Vijayakumar,44c69e2b,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,0,0,0
+1190773,2019,Malaysia,8,Virandeep Singh,415d30b6,S Vijayakumar,44c69e2b,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,1,0,1
+1190773,2019,Malaysia,8,Ahmed Faiz,f6b4f746,S Vijayakumar,44c69e2b,Virandeep Singh,415d30b6,0,0,0,0,0,,,,,,1,0,1
+1190773,2019,Malaysia,8,Virandeep Singh,415d30b6,S Vijayakumar,44c69e2b,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,1,0,1
+1190773,2019,Malaysia,9,Virandeep Singh,415d30b6,A Krishna,13598ebc,Ahmed Faiz,f6b4f746,0,0,0,0,1,Virandeep Singh,415d30b6,Janak Prakash,f092b4c7,caught,0,0,0
+1190773,2019,Malaysia,9,Ahmed Faiz,f6b4f746,A Krishna,13598ebc,M Syahadat Ramli,5efa8af3,0,0,0,0,0,,,,,,0,0,0
+1190773,2019,Malaysia,9,Ahmed Faiz,f6b4f746,A Krishna,13598ebc,M Syahadat Ramli,5efa8af3,0,0,0,0,0,,,,,,1,0,1
+1190773,2019,Malaysia,9,M Syahadat Ramli,5efa8af3,A Krishna,13598ebc,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,0,0,0
+1190773,2019,Malaysia,9,M Syahadat Ramli,5efa8af3,A Krishna,13598ebc,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,6,0,6
+1190773,2019,Malaysia,9,M Syahadat Ramli,5efa8af3,A Krishna,13598ebc,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,1,0,1
+1190773,2019,Malaysia,10,M Syahadat Ramli,5efa8af3,V Baskaran,dd5a9067,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,0,0,0
+1190773,2019,Malaysia,10,M Syahadat Ramli,5efa8af3,V Baskaran,dd5a9067,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,1,0,1
+1190773,2019,Malaysia,10,Ahmed Faiz,f6b4f746,V Baskaran,dd5a9067,M Syahadat Ramli,5efa8af3,0,0,0,0,0,,,,,,0,0,0
+1190773,2019,Malaysia,10,Ahmed Faiz,f6b4f746,V Baskaran,dd5a9067,M Syahadat Ramli,5efa8af3,0,0,0,0,0,,,,,,1,0,1
+1190773,2019,Malaysia,10,M Syahadat Ramli,5efa8af3,V Baskaran,dd5a9067,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,0,0,0
+1190773,2019,Malaysia,10,M Syahadat Ramli,5efa8af3,V Baskaran,dd5a9067,Ahmed Faiz,f6b4f746,1,0,0,0,0,,,,,,0,1,1
+1190773,2019,Malaysia,10,M Syahadat Ramli,5efa8af3,V Baskaran,dd5a9067,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,1,0,1
+1190773,2019,Malaysia,11,M Syahadat Ramli,5efa8af3,A Krishna,13598ebc,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,0,0,0
+1190773,2019,Malaysia,11,M Syahadat Ramli,5efa8af3,A Krishna,13598ebc,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,6,0,6
+1190773,2019,Malaysia,11,M Syahadat Ramli,5efa8af3,A Krishna,13598ebc,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,0,0,0
+1190773,2019,Malaysia,11,M Syahadat Ramli,5efa8af3,A Krishna,13598ebc,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,0,0,0
+1190773,2019,Malaysia,11,M Syahadat Ramli,5efa8af3,A Krishna,13598ebc,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,1,0,1
+1190773,2019,Malaysia,11,Ahmed Faiz,f6b4f746,A Krishna,13598ebc,M Syahadat Ramli,5efa8af3,0,0,0,0,1,Ahmed Faiz,f6b4f746,Manpreet Singh,e9d6a2ce,stumped,0,0,0
+1190773,2019,Malaysia,12,M Syahadat Ramli,5efa8af3,S Vijayakumar,44c69e2b,Aminuddin Ramly,8cae5b48,0,0,0,0,0,,,,,,1,0,1
+1190773,2019,Malaysia,12,Aminuddin Ramly,8cae5b48,S Vijayakumar,44c69e2b,M Syahadat Ramli,5efa8af3,0,0,0,0,0,,,,,,1,0,1
+1190773,2019,Malaysia,12,M Syahadat Ramli,5efa8af3,S Vijayakumar,44c69e2b,Aminuddin Ramly,8cae5b48,0,0,0,0,0,,,,,,0,0,0
+1190773,2019,Malaysia,12,M Syahadat Ramli,5efa8af3,S Vijayakumar,44c69e2b,Aminuddin Ramly,8cae5b48,0,0,0,0,0,,,,,,2,0,2
+1190773,2019,Malaysia,12,M Syahadat Ramli,5efa8af3,S Vijayakumar,44c69e2b,Aminuddin Ramly,8cae5b48,0,0,0,0,0,,,,,,0,0,0
+1190773,2019,Malaysia,12,M Syahadat Ramli,5efa8af3,S Vijayakumar,44c69e2b,Aminuddin Ramly,8cae5b48,0,0,0,0,0,,,,,,1,0,1
+1190773,2019,Malaysia,13,M Syahadat Ramli,5efa8af3,Janak Prakash,f092b4c7,Aminuddin Ramly,8cae5b48,0,0,0,0,0,,,,,,1,0,1
+1190773,2019,Malaysia,13,Aminuddin Ramly,8cae5b48,Janak Prakash,f092b4c7,M Syahadat Ramli,5efa8af3,0,0,0,0,0,,,,,,0,0,0
+1190773,2019,Malaysia,13,Aminuddin Ramly,8cae5b48,Janak Prakash,f092b4c7,M Syahadat Ramli,5efa8af3,0,0,0,0,0,,,,,,0,0,0
+1190773,2019,Malaysia,13,Aminuddin Ramly,8cae5b48,Janak Prakash,f092b4c7,M Syahadat Ramli,5efa8af3,0,0,0,0,0,,,,,,1,0,1
+1190773,2019,Malaysia,13,M Syahadat Ramli,5efa8af3,Janak Prakash,f092b4c7,Aminuddin Ramly,8cae5b48,0,0,0,0,0,,,,,,1,0,1
+1190773,2019,Malaysia,13,Aminuddin Ramly,8cae5b48,Janak Prakash,f092b4c7,M Syahadat Ramli,5efa8af3,0,0,0,0,0,,,,,,1,0,1
+1190773,2019,Malaysia,14,Aminuddin Ramly,8cae5b48,V Baskaran,dd5a9067,M Syahadat Ramli,5efa8af3,0,0,0,0,0,,,,,,0,0,0
+1190773,2019,Malaysia,14,Aminuddin Ramly,8cae5b48,V Baskaran,dd5a9067,M Syahadat Ramli,5efa8af3,0,0,0,0,0,,,,,,1,0,1
+1190773,2019,Malaysia,14,M Syahadat Ramli,5efa8af3,V Baskaran,dd5a9067,Aminuddin Ramly,8cae5b48,0,0,0,0,1,M Syahadat Ramli,5efa8af3,TH David,f1f99156,caught,0,0,0
+1190773,2019,Malaysia,14,S Muniandy,57fcfd3b,V Baskaran,dd5a9067,Aminuddin Ramly,8cae5b48,0,0,0,0,0,,,,,,1,0,1
+1190773,2019,Malaysia,14,Aminuddin Ramly,8cae5b48,V Baskaran,dd5a9067,S Muniandy,57fcfd3b,0,0,0,0,0,,,,,,2,0,2
+1190773,2019,Malaysia,14,Aminuddin Ramly,8cae5b48,V Baskaran,dd5a9067,S Muniandy,57fcfd3b,0,0,0,0,0,,,,,,0,0,0
+1190773,2019,Malaysia,15,S Muniandy,57fcfd3b,Amjad Mahboob,48f25627,Aminuddin Ramly,8cae5b48,0,0,0,0,0,,,,,,0,0,0
+1190773,2019,Malaysia,15,S Muniandy,57fcfd3b,Amjad Mahboob,48f25627,Aminuddin Ramly,8cae5b48,0,0,0,0,0,,,,,,1,0,1
+1190773,2019,Malaysia,15,Aminuddin Ramly,8cae5b48,Amjad Mahboob,48f25627,S Muniandy,57fcfd3b,0,0,0,0,0,,,,,,6,0,6
+1190773,2019,Malaysia,15,Aminuddin Ramly,8cae5b48,Amjad Mahboob,48f25627,S Muniandy,57fcfd3b,0,0,0,0,1,Aminuddin Ramly,8cae5b48,TH David,f1f99156,caught,0,0,0
+1190773,2019,Malaysia,15,S Muniandy,57fcfd3b,Amjad Mahboob,48f25627,Fitri Sham,d2ec068c,0,0,0,0,0,,,,,,1,0,1
+1190773,2019,Malaysia,15,Fitri Sham,d2ec068c,Amjad Mahboob,48f25627,S Muniandy,57fcfd3b,0,0,0,0,0,,,,,,0,0,0
+1190773,2019,Malaysia,16,S Muniandy,57fcfd3b,A Krishna,13598ebc,Fitri Sham,d2ec068c,0,0,0,0,1,S Muniandy,57fcfd3b,Amjad Mahboob,48f25627,caught,0,0,0
+1190773,2019,Malaysia,16,NCK Liyanage,d1b5efdf,A Krishna,13598ebc,Fitri Sham,d2ec068c,0,0,0,0,0,,,,,,1,0,1
+1190773,2019,Malaysia,16,Fitri Sham,d2ec068c,A Krishna,13598ebc,NCK Liyanage,d1b5efdf,0,0,0,0,0,,,,,,1,0,1
+1190773,2019,Malaysia,16,NCK Liyanage,d1b5efdf,A Krishna,13598ebc,Fitri Sham,d2ec068c,0,0,0,0,0,,,,,,4,0,4
+1190773,2019,Malaysia,16,NCK Liyanage,d1b5efdf,A Krishna,13598ebc,Fitri Sham,d2ec068c,0,0,0,0,0,,,,,,1,0,1
+1190773,2019,Malaysia,16,Fitri Sham,d2ec068c,A Krishna,13598ebc,NCK Liyanage,d1b5efdf,0,0,0,0,0,,,,,,1,0,1
+1190773,2019,Malaysia,17,Fitri Sham,d2ec068c,Janak Prakash,f092b4c7,NCK Liyanage,d1b5efdf,0,0,0,0,0,,,,,,1,0,1
+1190773,2019,Malaysia,17,NCK Liyanage,d1b5efdf,Janak Prakash,f092b4c7,Fitri Sham,d2ec068c,0,0,0,0,0,,,,,,0,0,0
+1190773,2019,Malaysia,17,NCK Liyanage,d1b5efdf,Janak Prakash,f092b4c7,Fitri Sham,d2ec068c,0,0,0,0,0,,,,,,1,0,1
+1190773,2019,Malaysia,17,Fitri Sham,d2ec068c,Janak Prakash,f092b4c7,NCK Liyanage,d1b5efdf,0,0,0,0,0,,,,,,0,0,0
+1190773,2019,Malaysia,17,Fitri Sham,d2ec068c,Janak Prakash,f092b4c7,NCK Liyanage,d1b5efdf,0,0,0,0,1,Fitri Sham,d2ec068c,,,bowled,0,0,0
+1190773,2019,Malaysia,17,Anwar Rahman,28adcce9,Janak Prakash,f092b4c7,NCK Liyanage,d1b5efdf,0,0,0,0,0,,,,,,1,0,1
+1190773,2019,Malaysia,18,Anwar Rahman,28adcce9,Amjad Mahboob,48f25627,NCK Liyanage,d1b5efdf,0,0,0,0,0,,,,,,1,0,1
+1190773,2019,Malaysia,18,NCK Liyanage,d1b5efdf,Amjad Mahboob,48f25627,Anwar Rahman,28adcce9,0,0,0,0,0,,,,,,1,0,1
+1190773,2019,Malaysia,18,Anwar Rahman,28adcce9,Amjad Mahboob,48f25627,NCK Liyanage,d1b5efdf,0,0,0,0,0,,,,,,1,0,1
+1190773,2019,Malaysia,18,NCK Liyanage,d1b5efdf,Amjad Mahboob,48f25627,Anwar Rahman,28adcce9,0,0,0,0,1,NCK Liyanage,d1b5efdf,CR Suryawanshi,8a3756a0,caught,0,0,0
+1190773,2019,Singapore,0,R Rohan,baf0fc26,NCK Liyanage,d1b5efdf,S Chandramohan,2a6ccc1c,0,0,0,0,0,,,,,,0,0,0
+1190773,2019,Singapore,0,R Rohan,baf0fc26,NCK Liyanage,d1b5efdf,S Chandramohan,2a6ccc1c,0,0,0,0,0,,,,,,0,0,0
+1190773,2019,Singapore,0,R Rohan,baf0fc26,NCK Liyanage,d1b5efdf,S Chandramohan,2a6ccc1c,0,0,0,0,1,R Rohan,baf0fc26,,,bowled,0,0,0
+1190773,2019,Singapore,0,TH David,f1f99156,NCK Liyanage,d1b5efdf,S Chandramohan,2a6ccc1c,0,0,0,0,0,,,,,,4,0,4
+1190773,2019,Singapore,0,TH David,f1f99156,NCK Liyanage,d1b5efdf,S Chandramohan,2a6ccc1c,0,0,0,0,0,,,,,,0,0,0
+1190773,2019,Singapore,0,TH David,f1f99156,NCK Liyanage,d1b5efdf,S Chandramohan,2a6ccc1c,0,0,0,0,0,,,,,,0,0,0
+1190773,2019,Singapore,1,S Chandramohan,2a6ccc1c,Syed Aziz,6667067e,TH David,f1f99156,0,0,0,0,0,,,,,,0,0,0
+1190773,2019,Singapore,1,S Chandramohan,2a6ccc1c,Syed Aziz,6667067e,TH David,f1f99156,0,0,0,0,0,,,,,,0,0,0
+1190773,2019,Singapore,1,S Chandramohan,2a6ccc1c,Syed Aziz,6667067e,TH David,f1f99156,0,0,0,0,0,,,,,,0,0,0
+1190773,2019,Singapore,1,S Chandramohan,2a6ccc1c,Syed Aziz,6667067e,TH David,f1f99156,0,0,0,0,0,,,,,,1,0,1
+1190773,2019,Singapore,1,TH David,f1f99156,Syed Aziz,6667067e,S Chandramohan,2a6ccc1c,0,0,0,0,0,,,,,,1,0,1
+1190773,2019,Singapore,1,S Chandramohan,2a6ccc1c,Syed Aziz,6667067e,TH David,f1f99156,0,0,0,0,0,,,,,,0,0,0
+1190773,2019,Singapore,2,TH David,f1f99156,NCK Liyanage,d1b5efdf,S Chandramohan,2a6ccc1c,0,0,0,0,0,,,,,,4,0,4
+1190773,2019,Singapore,2,TH David,f1f99156,NCK Liyanage,d1b5efdf,S Chandramohan,2a6ccc1c,0,0,0,0,0,,,,,,0,0,0
+1190773,2019,Singapore,2,TH David,f1f99156,NCK Liyanage,d1b5efdf,S Chandramohan,2a6ccc1c,0,1,0,0,0,,,,,,4,1,5
+1190773,2019,Singapore,2,TH David,f1f99156,NCK Liyanage,d1b5efdf,S Chandramohan,2a6ccc1c,0,0,0,0,0,,,,,,1,0,1
+1190773,2019,Singapore,2,S Chandramohan,2a6ccc1c,NCK Liyanage,d1b5efdf,TH David,f1f99156,0,0,0,0,0,,,,,,2,0,2
+1190773,2019,Singapore,2,S Chandramohan,2a6ccc1c,NCK Liyanage,d1b5efdf,TH David,f1f99156,0,0,0,0,1,TH David,f1f99156,,,run out,0,0,0
+1190773,2019,Singapore,2,S Chandramohan,2a6ccc1c,NCK Liyanage,d1b5efdf,Manpreet Singh,e9d6a2ce,0,0,0,0,0,,,,,,0,0,0
+1190773,2019,Singapore,3,Manpreet Singh,e9d6a2ce,Fitri Sham,d2ec068c,S Chandramohan,2a6ccc1c,0,0,0,0,0,,,,,,1,0,1
+1190773,2019,Singapore,3,S Chandramohan,2a6ccc1c,Fitri Sham,d2ec068c,Manpreet Singh,e9d6a2ce,0,0,0,0,0,,,,,,0,0,0
+1190773,2019,Singapore,3,S Chandramohan,2a6ccc1c,Fitri Sham,d2ec068c,Manpreet Singh,e9d6a2ce,0,0,0,0,0,,,,,,4,0,4
+1190773,2019,Singapore,3,S Chandramohan,2a6ccc1c,Fitri Sham,d2ec068c,Manpreet Singh,e9d6a2ce,0,0,0,0,0,,,,,,1,0,1
+1190773,2019,Singapore,3,Manpreet Singh,e9d6a2ce,Fitri Sham,d2ec068c,S Chandramohan,2a6ccc1c,0,0,0,0,0,,,,,,1,0,1
+1190773,2019,Singapore,3,S Chandramohan,2a6ccc1c,Fitri Sham,d2ec068c,Manpreet Singh,e9d6a2ce,0,0,0,0,0,,,,,,1,0,1
+1190773,2019,Singapore,4,S Chandramohan,2a6ccc1c,NCK Liyanage,d1b5efdf,Manpreet Singh,e9d6a2ce,2,0,0,0,0,,,,,,0,2,2
+1190773,2019,Singapore,4,Manpreet Singh,e9d6a2ce,NCK Liyanage,d1b5efdf,S Chandramohan,2a6ccc1c,0,0,0,0,0,,,,,,1,0,1
+1190773,2019,Singapore,4,S Chandramohan,2a6ccc1c,NCK Liyanage,d1b5efdf,Manpreet Singh,e9d6a2ce,0,0,0,0,0,,,,,,0,0,0
+1190773,2019,Singapore,4,S Chandramohan,2a6ccc1c,NCK Liyanage,d1b5efdf,Manpreet Singh,e9d6a2ce,0,0,1,0,0,,,,,,0,1,1
+1190773,2019,Singapore,4,Manpreet Singh,e9d6a2ce,NCK Liyanage,d1b5efdf,S Chandramohan,2a6ccc1c,0,0,0,0,0,,,,,,0,0,0
+1190773,2019,Singapore,4,Manpreet Singh,e9d6a2ce,NCK Liyanage,d1b5efdf,S Chandramohan,2a6ccc1c,0,0,0,0,0,,,,,,0,0,0
+1190773,2019,Singapore,4,Manpreet Singh,e9d6a2ce,NCK Liyanage,d1b5efdf,S Chandramohan,2a6ccc1c,0,0,0,0,0,,,,,,0,0,0
+1190773,2019,Singapore,5,S Chandramohan,2a6ccc1c,Syed Aziz,6667067e,Manpreet Singh,e9d6a2ce,0,0,0,0,0,,,,,,1,0,1
+1190773,2019,Singapore,5,Manpreet Singh,e9d6a2ce,Syed Aziz,6667067e,S Chandramohan,2a6ccc1c,0,0,0,0,0,,,,,,0,0,0
+1190773,2019,Singapore,5,Manpreet Singh,e9d6a2ce,Syed Aziz,6667067e,S Chandramohan,2a6ccc1c,0,0,0,0,0,,,,,,1,0,1
+1190773,2019,Singapore,5,S Chandramohan,2a6ccc1c,Syed Aziz,6667067e,Manpreet Singh,e9d6a2ce,0,0,0,0,0,,,,,,0,0,0
+1190773,2019,Singapore,5,S Chandramohan,2a6ccc1c,Syed Aziz,6667067e,Manpreet Singh,e9d6a2ce,0,0,0,0,0,,,,,,6,0,6
+1190773,2019,Singapore,5,S Chandramohan,2a6ccc1c,Syed Aziz,6667067e,Manpreet Singh,e9d6a2ce,0,0,0,0,0,,,,,,0,0,0
+1190773,2019,Singapore,6,Manpreet Singh,e9d6a2ce,Anwar Rahman,28adcce9,S Chandramohan,2a6ccc1c,0,0,0,0,0,,,,,,0,0,0
+1190773,2019,Singapore,6,Manpreet Singh,e9d6a2ce,Anwar Rahman,28adcce9,S Chandramohan,2a6ccc1c,0,0,0,0,0,,,,,,0,0,0
+1190773,2019,Singapore,6,Manpreet Singh,e9d6a2ce,Anwar Rahman,28adcce9,S Chandramohan,2a6ccc1c,0,0,0,0,0,,,,,,0,0,0
+1190773,2019,Singapore,6,Manpreet Singh,e9d6a2ce,Anwar Rahman,28adcce9,S Chandramohan,2a6ccc1c,0,0,0,0,0,,,,,,1,0,1
+1190773,2019,Singapore,6,S Chandramohan,2a6ccc1c,Anwar Rahman,28adcce9,Manpreet Singh,e9d6a2ce,0,0,0,0,0,,,,,,0,0,0
+1190773,2019,Singapore,6,S Chandramohan,2a6ccc1c,Anwar Rahman,28adcce9,Manpreet Singh,e9d6a2ce,0,0,0,0,0,,,,,,0,0,0
+1190773,2019,Singapore,7,Manpreet Singh,e9d6a2ce,M Syahadat Ramli,5efa8af3,S Chandramohan,2a6ccc1c,0,0,0,0,0,,,,,,1,0,1
+1190773,2019,Singapore,7,S Chandramohan,2a6ccc1c,M Syahadat Ramli,5efa8af3,Manpreet Singh,e9d6a2ce,0,0,0,0,0,,,,,,1,0,1
+1190773,2019,Singapore,7,Manpreet Singh,e9d6a2ce,M Syahadat Ramli,5efa8af3,S Chandramohan,2a6ccc1c,0,0,0,0,0,,,,,,1,0,1
+1190773,2019,Singapore,7,S Chandramohan,2a6ccc1c,M Syahadat Ramli,5efa8af3,Manpreet Singh,e9d6a2ce,0,0,1,0,0,,,,,,0,1,1
+1190773,2019,Singapore,7,Manpreet Singh,e9d6a2ce,M Syahadat Ramli,5efa8af3,S Chandramohan,2a6ccc1c,0,0,0,0,0,,,,,,1,0,1
+1190773,2019,Singapore,7,S Chandramohan,2a6ccc1c,M Syahadat Ramli,5efa8af3,Manpreet Singh,e9d6a2ce,0,0,0,0,0,,,,,,0,0,0
+1190773,2019,Singapore,8,Manpreet Singh,e9d6a2ce,Anwar Rahman,28adcce9,S Chandramohan,2a6ccc1c,0,0,0,0,0,,,,,,2,0,2
+1190773,2019,Singapore,8,Manpreet Singh,e9d6a2ce,Anwar Rahman,28adcce9,S Chandramohan,2a6ccc1c,0,0,0,0,0,,,,,,1,0,1
+1190773,2019,Singapore,8,S Chandramohan,2a6ccc1c,Anwar Rahman,28adcce9,Manpreet Singh,e9d6a2ce,0,0,0,0,0,,,,,,0,0,0
+1190773,2019,Singapore,8,S Chandramohan,2a6ccc1c,Anwar Rahman,28adcce9,Manpreet Singh,e9d6a2ce,0,0,0,0,0,,,,,,1,0,1
+1190773,2019,Singapore,8,Manpreet Singh,e9d6a2ce,Anwar Rahman,28adcce9,S Chandramohan,2a6ccc1c,0,0,0,0,0,,,,,,0,0,0
+1190773,2019,Singapore,8,Manpreet Singh,e9d6a2ce,Anwar Rahman,28adcce9,S Chandramohan,2a6ccc1c,0,0,0,0,0,,,,,,0,0,0
+1190773,2019,Singapore,9,S Chandramohan,2a6ccc1c,Virandeep Singh,415d30b6,Manpreet Singh,e9d6a2ce,0,0,0,0,0,,,,,,1,0,1
+1190773,2019,Singapore,9,Manpreet Singh,e9d6a2ce,Virandeep Singh,415d30b6,S Chandramohan,2a6ccc1c,0,0,0,0,0,,,,,,1,0,1
+1190773,2019,Singapore,9,S Chandramohan,2a6ccc1c,Virandeep Singh,415d30b6,Manpreet Singh,e9d6a2ce,0,0,0,0,0,,,,,,0,0,0
+1190773,2019,Singapore,9,S Chandramohan,2a6ccc1c,Virandeep Singh,415d30b6,Manpreet Singh,e9d6a2ce,0,0,0,0,0,,,,,,1,0,1
+1190773,2019,Singapore,9,Manpreet Singh,e9d6a2ce,Virandeep Singh,415d30b6,S Chandramohan,2a6ccc1c,0,0,0,0,0,,,,,,2,0,2
+1190773,2019,Singapore,9,Manpreet Singh,e9d6a2ce,Virandeep Singh,415d30b6,S Chandramohan,2a6ccc1c,0,0,0,0,0,,,,,,4,0,4
+1190773,2019,Singapore,10,S Chandramohan,2a6ccc1c,M Syahadat Ramli,5efa8af3,Manpreet Singh,e9d6a2ce,0,0,0,0,0,,,,,,4,0,4
+1190773,2019,Singapore,10,S Chandramohan,2a6ccc1c,M Syahadat Ramli,5efa8af3,Manpreet Singh,e9d6a2ce,0,0,0,0,0,,,,,,0,0,0
+1190773,2019,Singapore,10,S Chandramohan,2a6ccc1c,M Syahadat Ramli,5efa8af3,Manpreet Singh,e9d6a2ce,0,0,0,0,0,,,,,,6,0,6
+1190773,2019,Singapore,10,S Chandramohan,2a6ccc1c,M Syahadat Ramli,5efa8af3,Manpreet Singh,e9d6a2ce,0,0,0,0,0,,,,,,0,0,0
+1190773,2019,Singapore,10,S Chandramohan,2a6ccc1c,M Syahadat Ramli,5efa8af3,Manpreet Singh,e9d6a2ce,0,0,0,0,0,,,,,,0,0,0
+1190773,2019,Singapore,10,S Chandramohan,2a6ccc1c,M Syahadat Ramli,5efa8af3,Manpreet Singh,e9d6a2ce,0,0,0,0,0,,,,,,1,0,1
+1190773,2019,Singapore,11,S Chandramohan,2a6ccc1c,Fitri Sham,d2ec068c,Manpreet Singh,e9d6a2ce,0,0,0,0,0,,,,,,4,0,4
+1190773,2019,Singapore,11,S Chandramohan,2a6ccc1c,Fitri Sham,d2ec068c,Manpreet Singh,e9d6a2ce,0,0,0,0,0,,,,,,1,0,1
+1190773,2019,Singapore,11,Manpreet Singh,e9d6a2ce,Fitri Sham,d2ec068c,S Chandramohan,2a6ccc1c,0,0,0,0,0,,,,,,0,0,0
+1190773,2019,Singapore,11,Manpreet Singh,e9d6a2ce,Fitri Sham,d2ec068c,S Chandramohan,2a6ccc1c,0,0,0,0,0,,,,,,1,0,1
+1190773,2019,Singapore,11,S Chandramohan,2a6ccc1c,Fitri Sham,d2ec068c,Manpreet Singh,e9d6a2ce,0,0,0,0,0,,,,,,4,0,4
+1190773,2019,Singapore,11,S Chandramohan,2a6ccc1c,Fitri Sham,d2ec068c,Manpreet Singh,e9d6a2ce,0,0,0,0,0,,,,,,1,0,1
+1190773,2019,Singapore,12,S Chandramohan,2a6ccc1c,S Muniandy,57fcfd3b,Manpreet Singh,e9d6a2ce,1,0,0,0,0,,,,,,0,1,1
+1190773,2019,Singapore,12,S Chandramohan,2a6ccc1c,S Muniandy,57fcfd3b,Manpreet Singh,e9d6a2ce,0,0,0,0,0,,,,,,6,0,6
+1190773,2019,Singapore,12,S Chandramohan,2a6ccc1c,S Muniandy,57fcfd3b,Manpreet Singh,e9d6a2ce,0,0,0,0,0,,,,,,1,0,1
+1190773,2019,Singapore,12,Manpreet Singh,e9d6a2ce,S Muniandy,57fcfd3b,S Chandramohan,2a6ccc1c,0,0,0,0,0,,,,,,1,0,1
+1190773,2019,Singapore,12,S Chandramohan,2a6ccc1c,S Muniandy,57fcfd3b,Manpreet Singh,e9d6a2ce,0,0,0,0,0,,,,,,1,0,1
+1190773,2019,Singapore,12,Manpreet Singh,e9d6a2ce,S Muniandy,57fcfd3b,S Chandramohan,2a6ccc1c,0,0,0,0,0,,,,,,0,0,0
+1190773,2019,Singapore,12,Manpreet Singh,e9d6a2ce,S Muniandy,57fcfd3b,S Chandramohan,2a6ccc1c,0,0,0,0,0,,,,,,2,0,2
+1190773,2019,Singapore,13,S Chandramohan,2a6ccc1c,Syed Aziz,6667067e,Manpreet Singh,e9d6a2ce,0,0,0,0,0,,,,,,1,0,1
+1190773,2019,Singapore,13,Manpreet Singh,e9d6a2ce,Syed Aziz,6667067e,S Chandramohan,2a6ccc1c,0,0,0,0,0,,,,,,4,0,4

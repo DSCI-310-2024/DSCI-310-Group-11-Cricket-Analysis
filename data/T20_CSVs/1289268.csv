@@ -1,0 +1,253 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1289268,2022,India,0,S Mandhana,5d2eda89,SS Connell,2f9a6bd1,Shafali Verma,d8f59089,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,India,0,S Mandhana,5d2eda89,SS Connell,2f9a6bd1,Shafali Verma,d8f59089,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,India,0,S Mandhana,5d2eda89,SS Connell,2f9a6bd1,Shafali Verma,d8f59089,0,0,0,0,0,,,,,,4,0,4
+1289268,2022,India,0,S Mandhana,5d2eda89,SS Connell,2f9a6bd1,Shafali Verma,d8f59089,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,India,0,S Mandhana,5d2eda89,SS Connell,2f9a6bd1,Shafali Verma,d8f59089,0,0,0,0,0,,,,,,1,0,1
+1289268,2022,India,0,Shafali Verma,d8f59089,SS Connell,2f9a6bd1,S Mandhana,5d2eda89,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,India,1,S Mandhana,5d2eda89,SJ Bruce,aeccf5cc,Shafali Verma,d8f59089,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,India,1,S Mandhana,5d2eda89,SJ Bruce,aeccf5cc,Shafali Verma,d8f59089,0,0,0,0,1,S Mandhana,5d2eda89,,,lbw,0,0,0
+1289268,2022,India,1,JI Rodrigues,cb08b611,SJ Bruce,aeccf5cc,Shafali Verma,d8f59089,3,0,0,0,0,,,,,,0,3,3
+1289268,2022,India,1,JI Rodrigues,cb08b611,SJ Bruce,aeccf5cc,Shafali Verma,d8f59089,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,India,1,JI Rodrigues,cb08b611,SJ Bruce,aeccf5cc,Shafali Verma,d8f59089,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,India,1,JI Rodrigues,cb08b611,SJ Bruce,aeccf5cc,Shafali Verma,d8f59089,0,0,0,0,0,,,,,,4,0,4
+1289268,2022,India,1,JI Rodrigues,cb08b611,SJ Bruce,aeccf5cc,Shafali Verma,d8f59089,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,India,2,Shafali Verma,d8f59089,SS Connell,2f9a6bd1,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,1,0,1
+1289268,2022,India,2,JI Rodrigues,cb08b611,SS Connell,2f9a6bd1,Shafali Verma,d8f59089,0,0,0,0,0,,,,,,4,0,4
+1289268,2022,India,2,JI Rodrigues,cb08b611,SS Connell,2f9a6bd1,Shafali Verma,d8f59089,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,India,2,JI Rodrigues,cb08b611,SS Connell,2f9a6bd1,Shafali Verma,d8f59089,0,0,0,0,0,,,,,,1,0,1
+1289268,2022,India,2,Shafali Verma,d8f59089,SS Connell,2f9a6bd1,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,4,0,4
+1289268,2022,India,2,Shafali Verma,d8f59089,SS Connell,2f9a6bd1,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,2,0,2
+1289268,2022,India,3,JI Rodrigues,cb08b611,SJ Bruce,aeccf5cc,Shafali Verma,d8f59089,0,0,0,0,0,,,,,,1,0,1
+1289268,2022,India,3,Shafali Verma,d8f59089,SJ Bruce,aeccf5cc,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,India,3,Shafali Verma,d8f59089,SJ Bruce,aeccf5cc,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,4,0,4
+1289268,2022,India,3,Shafali Verma,d8f59089,SJ Bruce,aeccf5cc,JI Rodrigues,cb08b611,1,0,0,0,0,,,,,,0,1,1
+1289268,2022,India,3,Shafali Verma,d8f59089,SJ Bruce,aeccf5cc,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,4,0,4
+1289268,2022,India,3,Shafali Verma,d8f59089,SJ Bruce,aeccf5cc,JI Rodrigues,cb08b611,0,0,0,4,0,,,,,,0,4,4
+1289268,2022,India,3,Shafali Verma,d8f59089,SJ Bruce,aeccf5cc,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,India,4,JI Rodrigues,cb08b611,SS Connell,2f9a6bd1,Shafali Verma,d8f59089,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,India,4,JI Rodrigues,cb08b611,SS Connell,2f9a6bd1,Shafali Verma,d8f59089,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,India,4,JI Rodrigues,cb08b611,SS Connell,2f9a6bd1,Shafali Verma,d8f59089,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,India,4,JI Rodrigues,cb08b611,SS Connell,2f9a6bd1,Shafali Verma,d8f59089,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,India,4,JI Rodrigues,cb08b611,SS Connell,2f9a6bd1,Shafali Verma,d8f59089,0,0,0,0,0,,,,,,1,0,1
+1289268,2022,India,4,Shafali Verma,d8f59089,SS Connell,2f9a6bd1,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,India,5,JI Rodrigues,cb08b611,AA Alleyne,4b0e3049,Shafali Verma,d8f59089,0,0,0,0,0,,,,,,1,0,1
+1289268,2022,India,5,Shafali Verma,d8f59089,AA Alleyne,4b0e3049,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,India,5,Shafali Verma,d8f59089,AA Alleyne,4b0e3049,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,India,5,Shafali Verma,d8f59089,AA Alleyne,4b0e3049,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,4,0,4
+1289268,2022,India,5,Shafali Verma,d8f59089,AA Alleyne,4b0e3049,JI Rodrigues,cb08b611,1,0,0,0,0,,,,,,0,1,1
+1289268,2022,India,5,Shafali Verma,d8f59089,AA Alleyne,4b0e3049,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,4,0,4
+1289268,2022,India,5,Shafali Verma,d8f59089,AA Alleyne,4b0e3049,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,1,0,1
+1289268,2022,India,6,Shafali Verma,d8f59089,SS Connell,2f9a6bd1,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,6,0,6
+1289268,2022,India,6,Shafali Verma,d8f59089,SS Connell,2f9a6bd1,JI Rodrigues,cb08b611,1,0,0,0,0,,,,,,0,1,1
+1289268,2022,India,6,Shafali Verma,d8f59089,SS Connell,2f9a6bd1,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,India,6,Shafali Verma,d8f59089,SS Connell,2f9a6bd1,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,4,0,4
+1289268,2022,India,6,Shafali Verma,d8f59089,SS Connell,2f9a6bd1,JI Rodrigues,cb08b611,1,0,0,0,0,,,,,,0,1,1
+1289268,2022,India,6,Shafali Verma,d8f59089,SS Connell,2f9a6bd1,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,India,6,Shafali Verma,d8f59089,SS Connell,2f9a6bd1,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,1,0,1
+1289268,2022,India,6,JI Rodrigues,cb08b611,SS Connell,2f9a6bd1,Shafali Verma,d8f59089,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,India,7,Shafali Verma,d8f59089,AA Alleyne,4b0e3049,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,1,0,1
+1289268,2022,India,7,JI Rodrigues,cb08b611,AA Alleyne,4b0e3049,Shafali Verma,d8f59089,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,India,7,JI Rodrigues,cb08b611,AA Alleyne,4b0e3049,Shafali Verma,d8f59089,0,0,0,0,0,,,,,,1,0,1
+1289268,2022,India,7,Shafali Verma,d8f59089,AA Alleyne,4b0e3049,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,1,0,1
+1289268,2022,India,7,JI Rodrigues,cb08b611,AA Alleyne,4b0e3049,Shafali Verma,d8f59089,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,India,7,JI Rodrigues,cb08b611,AA Alleyne,4b0e3049,Shafali Verma,d8f59089,0,0,0,0,0,,,,,,2,0,2
+1289268,2022,India,8,Shafali Verma,d8f59089,HK Matthews,d32cf49a,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,India,8,Shafali Verma,d8f59089,HK Matthews,d32cf49a,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,1,0,1
+1289268,2022,India,8,JI Rodrigues,cb08b611,HK Matthews,d32cf49a,Shafali Verma,d8f59089,0,0,0,0,0,,,,,,1,0,1
+1289268,2022,India,8,Shafali Verma,d8f59089,HK Matthews,d32cf49a,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,4,0,4
+1289268,2022,India,8,Shafali Verma,d8f59089,HK Matthews,d32cf49a,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,1,0,1
+1289268,2022,India,8,JI Rodrigues,cb08b611,HK Matthews,d32cf49a,Shafali Verma,d8f59089,0,0,0,0,1,Shafali Verma,d8f59089,Kycia A Knight,552f664a,run out,1,0,1
+1289268,2022,India,9,JI Rodrigues,cb08b611,SC Selman,c29ada99,H Kaur,53cd8da6,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,India,9,JI Rodrigues,cb08b611,SC Selman,c29ada99,H Kaur,53cd8da6,0,0,0,0,0,,,,,,1,0,1
+1289268,2022,India,9,H Kaur,53cd8da6,SC Selman,c29ada99,JI Rodrigues,cb08b611,0,0,0,0,1,H Kaur,53cd8da6,,,lbw,0,0,0
+1289268,2022,India,9,T Bhatia,211dc1ce,SC Selman,c29ada99,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,1,0,1
+1289268,2022,India,9,JI Rodrigues,cb08b611,SC Selman,c29ada99,T Bhatia,211dc1ce,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,India,9,JI Rodrigues,cb08b611,SC Selman,c29ada99,T Bhatia,211dc1ce,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,India,10,T Bhatia,211dc1ce,HK Matthews,d32cf49a,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,India,10,T Bhatia,211dc1ce,HK Matthews,d32cf49a,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,India,10,T Bhatia,211dc1ce,HK Matthews,d32cf49a,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,1,0,1
+1289268,2022,India,10,JI Rodrigues,cb08b611,HK Matthews,d32cf49a,T Bhatia,211dc1ce,0,0,0,0,0,,,,,,1,0,1
+1289268,2022,India,10,T Bhatia,211dc1ce,HK Matthews,d32cf49a,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,1,0,1
+1289268,2022,India,10,JI Rodrigues,cb08b611,HK Matthews,d32cf49a,T Bhatia,211dc1ce,0,0,0,0,0,,,,,,1,0,1
+1289268,2022,India,11,JI Rodrigues,cb08b611,SC Selman,c29ada99,T Bhatia,211dc1ce,0,0,0,0,0,,,,,,1,0,1
+1289268,2022,India,11,T Bhatia,211dc1ce,SC Selman,c29ada99,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,India,11,T Bhatia,211dc1ce,SC Selman,c29ada99,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,India,11,T Bhatia,211dc1ce,SC Selman,c29ada99,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,India,11,T Bhatia,211dc1ce,SC Selman,c29ada99,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,India,11,T Bhatia,211dc1ce,SC Selman,c29ada99,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,1,0,1
+1289268,2022,India,12,T Bhatia,211dc1ce,HK Matthews,d32cf49a,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,1,0,1
+1289268,2022,India,12,JI Rodrigues,cb08b611,HK Matthews,d32cf49a,T Bhatia,211dc1ce,0,0,0,0,0,,,,,,4,0,4
+1289268,2022,India,12,JI Rodrigues,cb08b611,HK Matthews,d32cf49a,T Bhatia,211dc1ce,0,0,0,0,0,,,,,,1,0,1
+1289268,2022,India,12,T Bhatia,211dc1ce,HK Matthews,d32cf49a,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,1,0,1
+1289268,2022,India,12,JI Rodrigues,cb08b611,HK Matthews,d32cf49a,T Bhatia,211dc1ce,0,0,0,0,0,,,,,,1,0,1
+1289268,2022,India,12,T Bhatia,211dc1ce,HK Matthews,d32cf49a,JI Rodrigues,cb08b611,0,0,0,0,1,T Bhatia,211dc1ce,DJS Dottin,53bee17f,caught,0,0,0
+1289268,2022,India,13,DB Sharma,201fef33,SC Selman,c29ada99,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,1,0,1
+1289268,2022,India,13,JI Rodrigues,cb08b611,SC Selman,c29ada99,DB Sharma,201fef33,0,0,0,0,0,,,,,,1,0,1
+1289268,2022,India,13,DB Sharma,201fef33,SC Selman,c29ada99,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,India,13,DB Sharma,201fef33,SC Selman,c29ada99,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,India,13,DB Sharma,201fef33,SC Selman,c29ada99,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,India,13,DB Sharma,201fef33,SC Selman,c29ada99,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,1,0,1
+1289268,2022,India,14,DB Sharma,201fef33,HK Matthews,d32cf49a,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,1,0,1
+1289268,2022,India,14,JI Rodrigues,cb08b611,HK Matthews,d32cf49a,DB Sharma,201fef33,0,0,0,0,0,,,,,,1,0,1
+1289268,2022,India,14,DB Sharma,201fef33,HK Matthews,d32cf49a,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,1,0,1
+1289268,2022,India,14,JI Rodrigues,cb08b611,HK Matthews,d32cf49a,DB Sharma,201fef33,0,0,0,0,0,,,,,,4,0,4
+1289268,2022,India,14,JI Rodrigues,cb08b611,HK Matthews,d32cf49a,DB Sharma,201fef33,0,0,0,0,0,,,,,,1,0,1
+1289268,2022,India,14,DB Sharma,201fef33,HK Matthews,d32cf49a,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,1,0,1
+1289268,2022,India,15,DB Sharma,201fef33,SC Selman,c29ada99,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,1,0,1
+1289268,2022,India,15,JI Rodrigues,cb08b611,SC Selman,c29ada99,DB Sharma,201fef33,0,0,0,0,0,,,,,,6,0,6
+1289268,2022,India,15,JI Rodrigues,cb08b611,SC Selman,c29ada99,DB Sharma,201fef33,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,India,15,JI Rodrigues,cb08b611,SC Selman,c29ada99,DB Sharma,201fef33,0,0,0,0,0,,,,,,4,0,4
+1289268,2022,India,15,JI Rodrigues,cb08b611,SC Selman,c29ada99,DB Sharma,201fef33,0,0,0,0,0,,,,,,1,0,1
+1289268,2022,India,15,DB Sharma,201fef33,SC Selman,c29ada99,JI Rodrigues,cb08b611,1,0,0,0,0,,,,,,0,1,1
+1289268,2022,India,15,DB Sharma,201fef33,SC Selman,c29ada99,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,India,16,JI Rodrigues,cb08b611,DJS Dottin,53bee17f,DB Sharma,201fef33,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,India,16,JI Rodrigues,cb08b611,DJS Dottin,53bee17f,DB Sharma,201fef33,2,0,0,0,0,,,,,,0,2,2
+1289268,2022,India,16,DB Sharma,201fef33,DJS Dottin,53bee17f,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,India,16,DB Sharma,201fef33,DJS Dottin,53bee17f,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,4,0,4
+1289268,2022,India,16,DB Sharma,201fef33,DJS Dottin,53bee17f,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,India,16,DB Sharma,201fef33,DJS Dottin,53bee17f,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,2,0,2
+1289268,2022,India,16,DB Sharma,201fef33,DJS Dottin,53bee17f,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,India,17,JI Rodrigues,cb08b611,AA Alleyne,4b0e3049,DB Sharma,201fef33,0,0,0,0,0,,,,,,1,0,1
+1289268,2022,India,17,DB Sharma,201fef33,AA Alleyne,4b0e3049,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,India,17,DB Sharma,201fef33,AA Alleyne,4b0e3049,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,6,0,6
+1289268,2022,India,17,DB Sharma,201fef33,AA Alleyne,4b0e3049,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,2,0,2
+1289268,2022,India,17,DB Sharma,201fef33,AA Alleyne,4b0e3049,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,1,0,1
+1289268,2022,India,17,JI Rodrigues,cb08b611,AA Alleyne,4b0e3049,DB Sharma,201fef33,0,0,0,0,0,,,,,,2,0,2
+1289268,2022,India,18,DB Sharma,201fef33,DJS Dottin,53bee17f,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,2,0,2
+1289268,2022,India,18,DB Sharma,201fef33,DJS Dottin,53bee17f,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,1,0,1
+1289268,2022,India,18,JI Rodrigues,cb08b611,DJS Dottin,53bee17f,DB Sharma,201fef33,0,0,0,0,0,,,,,,1,0,1
+1289268,2022,India,18,DB Sharma,201fef33,DJS Dottin,53bee17f,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,2,0,2
+1289268,2022,India,18,DB Sharma,201fef33,DJS Dottin,53bee17f,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,India,18,DB Sharma,201fef33,DJS Dottin,53bee17f,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,1,0,1
+1289268,2022,India,19,DB Sharma,201fef33,AA Alleyne,4b0e3049,JI Rodrigues,cb08b611,1,0,0,0,0,,,,,,0,1,1
+1289268,2022,India,19,DB Sharma,201fef33,AA Alleyne,4b0e3049,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,4,0,4
+1289268,2022,India,19,DB Sharma,201fef33,AA Alleyne,4b0e3049,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,2,0,2
+1289268,2022,India,19,DB Sharma,201fef33,AA Alleyne,4b0e3049,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,1,0,1
+1289268,2022,India,19,JI Rodrigues,cb08b611,AA Alleyne,4b0e3049,DB Sharma,201fef33,1,0,0,0,0,,,,,,0,1,1
+1289268,2022,India,19,JI Rodrigues,cb08b611,AA Alleyne,4b0e3049,DB Sharma,201fef33,0,1,0,0,0,,,,,,1,1,2
+1289268,2022,India,19,DB Sharma,201fef33,AA Alleyne,4b0e3049,JI Rodrigues,cb08b611,0,0,1,0,0,,,,,,0,1,1
+1289268,2022,India,19,JI Rodrigues,cb08b611,AA Alleyne,4b0e3049,DB Sharma,201fef33,0,0,0,0,0,,,,,,2,0,2
+1289268,2022,India,19,JI Rodrigues,cb08b611,AA Alleyne,4b0e3049,DB Sharma,201fef33,0,0,0,0,0,,,,,,4,0,4
+1289268,2022,Barbados,0,DJS Dottin,53bee17f,Renuka Singh,7298db76,HK Matthews,d32cf49a,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,Barbados,0,DJS Dottin,53bee17f,Renuka Singh,7298db76,HK Matthews,d32cf49a,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,Barbados,0,DJS Dottin,53bee17f,Renuka Singh,7298db76,HK Matthews,d32cf49a,0,0,0,0,1,DJS Dottin,53bee17f,,,bowled,0,0,0
+1289268,2022,Barbados,0,Kycia A Knight,552f664a,Renuka Singh,7298db76,HK Matthews,d32cf49a,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,Barbados,0,Kycia A Knight,552f664a,Renuka Singh,7298db76,HK Matthews,d32cf49a,1,0,0,0,0,,,,,,0,1,1
+1289268,2022,Barbados,0,Kycia A Knight,552f664a,Renuka Singh,7298db76,HK Matthews,d32cf49a,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,Barbados,0,Kycia A Knight,552f664a,Renuka Singh,7298db76,HK Matthews,d32cf49a,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,Barbados,1,HK Matthews,d32cf49a,Meghna Singh,f176e421,Kycia A Knight,552f664a,0,0,0,0,0,,,,,,4,0,4
+1289268,2022,Barbados,1,HK Matthews,d32cf49a,Meghna Singh,f176e421,Kycia A Knight,552f664a,0,0,0,0,0,,,,,,4,0,4
+1289268,2022,Barbados,1,HK Matthews,d32cf49a,Meghna Singh,f176e421,Kycia A Knight,552f664a,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,Barbados,1,HK Matthews,d32cf49a,Meghna Singh,f176e421,Kycia A Knight,552f664a,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,Barbados,1,HK Matthews,d32cf49a,Meghna Singh,f176e421,Kycia A Knight,552f664a,0,0,0,0,0,,,,,,1,0,1
+1289268,2022,Barbados,1,Kycia A Knight,552f664a,Meghna Singh,f176e421,HK Matthews,d32cf49a,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,Barbados,2,HK Matthews,d32cf49a,Renuka Singh,7298db76,Kycia A Knight,552f664a,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,Barbados,2,HK Matthews,d32cf49a,Renuka Singh,7298db76,Kycia A Knight,552f664a,0,0,0,0,1,HK Matthews,d32cf49a,Shafali Verma,d8f59089,caught,0,0,0
+1289268,2022,Barbados,2,Kyshona A Knight,d85a1960,Renuka Singh,7298db76,Kycia A Knight,552f664a,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,Barbados,2,Kyshona A Knight,d85a1960,Renuka Singh,7298db76,Kycia A Knight,552f664a,0,0,0,0,0,,,,,,1,0,1
+1289268,2022,Barbados,2,Kycia A Knight,552f664a,Renuka Singh,7298db76,Kyshona A Knight,d85a1960,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,Barbados,2,Kycia A Knight,552f664a,Renuka Singh,7298db76,Kyshona A Knight,d85a1960,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,Barbados,3,Kyshona A Knight,d85a1960,DB Sharma,201fef33,Kycia A Knight,552f664a,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,Barbados,3,Kyshona A Knight,d85a1960,DB Sharma,201fef33,Kycia A Knight,552f664a,0,0,0,0,0,,,,,,1,0,1
+1289268,2022,Barbados,3,Kycia A Knight,552f664a,DB Sharma,201fef33,Kyshona A Knight,d85a1960,0,0,0,0,0,,,,,,1,0,1
+1289268,2022,Barbados,3,Kyshona A Knight,d85a1960,DB Sharma,201fef33,Kycia A Knight,552f664a,0,0,0,0,0,,,,,,1,0,1
+1289268,2022,Barbados,3,Kycia A Knight,552f664a,DB Sharma,201fef33,Kyshona A Knight,d85a1960,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,Barbados,3,Kycia A Knight,552f664a,DB Sharma,201fef33,Kyshona A Knight,d85a1960,0,0,0,0,0,,,,,,2,0,2
+1289268,2022,Barbados,4,Kyshona A Knight,d85a1960,Renuka Singh,7298db76,Kycia A Knight,552f664a,0,0,0,0,0,,,,,,3,0,3
+1289268,2022,Barbados,4,Kycia A Knight,552f664a,Renuka Singh,7298db76,Kyshona A Knight,d85a1960,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,Barbados,4,Kycia A Knight,552f664a,Renuka Singh,7298db76,Kyshona A Knight,d85a1960,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,Barbados,4,Kycia A Knight,552f664a,Renuka Singh,7298db76,Kyshona A Knight,d85a1960,0,0,0,0,1,Kycia A Knight,552f664a,,,bowled,0,0,0
+1289268,2022,Barbados,4,AA Alleyne,4b0e3049,Renuka Singh,7298db76,Kyshona A Knight,d85a1960,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,Barbados,4,AA Alleyne,4b0e3049,Renuka Singh,7298db76,Kyshona A Knight,d85a1960,0,0,0,0,1,AA Alleyne,4b0e3049,,,bowled,0,0,0
+1289268,2022,Barbados,5,Kyshona A Knight,d85a1960,DB Sharma,201fef33,T Holder,41fd2907,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,Barbados,5,Kyshona A Knight,d85a1960,DB Sharma,201fef33,T Holder,41fd2907,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,Barbados,5,Kyshona A Knight,d85a1960,DB Sharma,201fef33,T Holder,41fd2907,0,0,0,0,0,,,,,,1,0,1
+1289268,2022,Barbados,5,T Holder,41fd2907,DB Sharma,201fef33,Kyshona A Knight,d85a1960,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,Barbados,5,T Holder,41fd2907,DB Sharma,201fef33,Kyshona A Knight,d85a1960,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,Barbados,5,T Holder,41fd2907,DB Sharma,201fef33,Kyshona A Knight,d85a1960,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,Barbados,6,Kyshona A Knight,d85a1960,Renuka Singh,7298db76,T Holder,41fd2907,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,Barbados,6,Kyshona A Knight,d85a1960,Renuka Singh,7298db76,T Holder,41fd2907,0,0,0,0,0,,,,,,1,0,1
+1289268,2022,Barbados,6,T Holder,41fd2907,Renuka Singh,7298db76,Kyshona A Knight,d85a1960,0,0,0,0,0,,,,,,1,0,1
+1289268,2022,Barbados,6,Kyshona A Knight,d85a1960,Renuka Singh,7298db76,T Holder,41fd2907,0,0,0,0,0,,,,,,2,0,2
+1289268,2022,Barbados,6,Kyshona A Knight,d85a1960,Renuka Singh,7298db76,T Holder,41fd2907,0,0,0,0,0,,,,,,1,0,1
+1289268,2022,Barbados,6,T Holder,41fd2907,Renuka Singh,7298db76,Kyshona A Knight,d85a1960,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,Barbados,7,Kyshona A Knight,d85a1960,P Vastrakar,8026ea72,T Holder,41fd2907,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,Barbados,7,Kyshona A Knight,d85a1960,P Vastrakar,8026ea72,T Holder,41fd2907,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,Barbados,7,Kyshona A Knight,d85a1960,P Vastrakar,8026ea72,T Holder,41fd2907,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,Barbados,7,Kyshona A Knight,d85a1960,P Vastrakar,8026ea72,T Holder,41fd2907,0,0,0,0,0,,,,,,1,0,1
+1289268,2022,Barbados,7,T Holder,41fd2907,P Vastrakar,8026ea72,Kyshona A Knight,d85a1960,0,0,0,0,0,,,,,,1,0,1
+1289268,2022,Barbados,7,Kyshona A Knight,d85a1960,P Vastrakar,8026ea72,T Holder,41fd2907,0,0,0,0,0,,,,,,4,0,4
+1289268,2022,Barbados,8,T Holder,41fd2907,S Rana,c4c374d9,Kyshona A Knight,d85a1960,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,Barbados,8,T Holder,41fd2907,S Rana,c4c374d9,Kyshona A Knight,d85a1960,0,0,0,0,0,,,,,,1,0,1
+1289268,2022,Barbados,8,Kyshona A Knight,d85a1960,S Rana,c4c374d9,T Holder,41fd2907,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,Barbados,8,Kyshona A Knight,d85a1960,S Rana,c4c374d9,T Holder,41fd2907,0,0,0,0,1,Kyshona A Knight,d85a1960,,,bowled,0,0,0
+1289268,2022,Barbados,8,A Scantlebury,99aec976,S Rana,c4c374d9,T Holder,41fd2907,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,Barbados,8,A Scantlebury,99aec976,S Rana,c4c374d9,T Holder,41fd2907,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,Barbados,9,T Holder,41fd2907,P Vastrakar,8026ea72,A Scantlebury,99aec976,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,Barbados,9,T Holder,41fd2907,P Vastrakar,8026ea72,A Scantlebury,99aec976,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,Barbados,9,T Holder,41fd2907,P Vastrakar,8026ea72,A Scantlebury,99aec976,0,0,1,0,0,,,,,,0,1,1
+1289268,2022,Barbados,9,A Scantlebury,99aec976,P Vastrakar,8026ea72,T Holder,41fd2907,1,0,0,0,0,,,,,,0,1,1
+1289268,2022,Barbados,9,A Scantlebury,99aec976,P Vastrakar,8026ea72,T Holder,41fd2907,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,Barbados,9,A Scantlebury,99aec976,P Vastrakar,8026ea72,T Holder,41fd2907,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,Barbados,9,A Scantlebury,99aec976,P Vastrakar,8026ea72,T Holder,41fd2907,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,Barbados,10,T Holder,41fd2907,S Rana,c4c374d9,A Scantlebury,99aec976,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,Barbados,10,T Holder,41fd2907,S Rana,c4c374d9,A Scantlebury,99aec976,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,Barbados,10,T Holder,41fd2907,S Rana,c4c374d9,A Scantlebury,99aec976,0,0,0,0,0,,,,,,1,0,1
+1289268,2022,Barbados,10,A Scantlebury,99aec976,S Rana,c4c374d9,T Holder,41fd2907,0,0,0,0,0,,,,,,4,0,4
+1289268,2022,Barbados,10,A Scantlebury,99aec976,S Rana,c4c374d9,T Holder,41fd2907,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,Barbados,10,A Scantlebury,99aec976,S Rana,c4c374d9,T Holder,41fd2907,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,Barbados,11,T Holder,41fd2907,Meghna Singh,f176e421,A Scantlebury,99aec976,0,0,0,0,0,,,,,,1,0,1
+1289268,2022,Barbados,11,A Scantlebury,99aec976,Meghna Singh,f176e421,T Holder,41fd2907,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,Barbados,11,A Scantlebury,99aec976,Meghna Singh,f176e421,T Holder,41fd2907,0,0,0,0,0,,,,,,1,0,1
+1289268,2022,Barbados,11,T Holder,41fd2907,Meghna Singh,f176e421,A Scantlebury,99aec976,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,Barbados,11,T Holder,41fd2907,Meghna Singh,f176e421,A Scantlebury,99aec976,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,Barbados,11,T Holder,41fd2907,Meghna Singh,f176e421,A Scantlebury,99aec976,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,Barbados,12,A Scantlebury,99aec976,RP Yadav,6c3aef71,T Holder,41fd2907,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,Barbados,12,A Scantlebury,99aec976,RP Yadav,6c3aef71,T Holder,41fd2907,0,0,0,0,0,,,,,,1,0,1
+1289268,2022,Barbados,12,T Holder,41fd2907,RP Yadav,6c3aef71,A Scantlebury,99aec976,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,Barbados,12,T Holder,41fd2907,RP Yadav,6c3aef71,A Scantlebury,99aec976,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,Barbados,12,T Holder,41fd2907,RP Yadav,6c3aef71,A Scantlebury,99aec976,0,0,0,0,0,,,,,,1,0,1
+1289268,2022,Barbados,12,A Scantlebury,99aec976,RP Yadav,6c3aef71,T Holder,41fd2907,0,0,0,0,0,,,,,,1,0,1
+1289268,2022,Barbados,13,A Scantlebury,99aec976,Meghna Singh,f176e421,T Holder,41fd2907,0,0,0,0,0,,,,,,1,0,1
+1289268,2022,Barbados,13,T Holder,41fd2907,Meghna Singh,f176e421,A Scantlebury,99aec976,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,Barbados,13,T Holder,41fd2907,Meghna Singh,f176e421,A Scantlebury,99aec976,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,Barbados,13,T Holder,41fd2907,Meghna Singh,f176e421,A Scantlebury,99aec976,0,0,0,0,1,T Holder,41fd2907,H Kaur,53cd8da6,caught,0,0,0
+1289268,2022,Barbados,13,S Carrington,9087d74c,Meghna Singh,f176e421,A Scantlebury,99aec976,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,Barbados,13,S Carrington,9087d74c,Meghna Singh,f176e421,A Scantlebury,99aec976,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,Barbados,14,A Scantlebury,99aec976,RP Yadav,6c3aef71,S Carrington,9087d74c,0,0,0,0,1,A Scantlebury,99aec976,DB Sharma,201fef33,caught,0,0,0
+1289268,2022,Barbados,14,SC Selman,c29ada99,RP Yadav,6c3aef71,S Carrington,9087d74c,0,0,0,0,0,,,,,,4,0,4
+1289268,2022,Barbados,14,SC Selman,c29ada99,RP Yadav,6c3aef71,S Carrington,9087d74c,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,Barbados,14,SC Selman,c29ada99,RP Yadav,6c3aef71,S Carrington,9087d74c,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,Barbados,14,SC Selman,c29ada99,RP Yadav,6c3aef71,S Carrington,9087d74c,0,0,0,0,0,,,,,,1,0,1
+1289268,2022,Barbados,14,S Carrington,9087d74c,RP Yadav,6c3aef71,SC Selman,c29ada99,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,Barbados,15,SC Selman,c29ada99,H Kaur,53cd8da6,S Carrington,9087d74c,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,Barbados,15,SC Selman,c29ada99,H Kaur,53cd8da6,S Carrington,9087d74c,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,Barbados,15,SC Selman,c29ada99,H Kaur,53cd8da6,S Carrington,9087d74c,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,Barbados,15,SC Selman,c29ada99,H Kaur,53cd8da6,S Carrington,9087d74c,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,Barbados,15,SC Selman,c29ada99,H Kaur,53cd8da6,S Carrington,9087d74c,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,Barbados,15,SC Selman,c29ada99,H Kaur,53cd8da6,S Carrington,9087d74c,0,0,0,0,0,,,,,,4,0,4
+1289268,2022,Barbados,16,S Carrington,9087d74c,Shafali Verma,d8f59089,SC Selman,c29ada99,0,0,0,0,0,,,,,,1,0,1
+1289268,2022,Barbados,16,SC Selman,c29ada99,Shafali Verma,d8f59089,S Carrington,9087d74c,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,Barbados,16,SC Selman,c29ada99,Shafali Verma,d8f59089,S Carrington,9087d74c,0,0,0,0,0,,,,,,1,0,1
+1289268,2022,Barbados,16,S Carrington,9087d74c,Shafali Verma,d8f59089,SC Selman,c29ada99,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,Barbados,16,S Carrington,9087d74c,Shafali Verma,d8f59089,SC Selman,c29ada99,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,Barbados,16,S Carrington,9087d74c,Shafali Verma,d8f59089,SC Selman,c29ada99,0,0,0,0,0,,,,,,1,0,1
+1289268,2022,Barbados,17,S Carrington,9087d74c,H Kaur,53cd8da6,SC Selman,c29ada99,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,Barbados,17,S Carrington,9087d74c,H Kaur,53cd8da6,SC Selman,c29ada99,0,0,0,0,0,,,,,,1,0,1
+1289268,2022,Barbados,17,SC Selman,c29ada99,H Kaur,53cd8da6,S Carrington,9087d74c,0,0,0,0,0,,,,,,1,0,1
+1289268,2022,Barbados,17,S Carrington,9087d74c,H Kaur,53cd8da6,SC Selman,c29ada99,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,Barbados,17,S Carrington,9087d74c,H Kaur,53cd8da6,SC Selman,c29ada99,0,0,0,0,1,S Carrington,9087d74c,RP Yadav,6c3aef71,caught,0,0,0
+1289268,2022,Barbados,17,SS Connell,2f9a6bd1,H Kaur,53cd8da6,SC Selman,c29ada99,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,Barbados,18,SC Selman,c29ada99,RP Yadav,6c3aef71,SS Connell,2f9a6bd1,0,0,0,0,0,,,,,,1,0,1
+1289268,2022,Barbados,18,SS Connell,2f9a6bd1,RP Yadav,6c3aef71,SC Selman,c29ada99,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,Barbados,18,SS Connell,2f9a6bd1,RP Yadav,6c3aef71,SC Selman,c29ada99,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,Barbados,18,SS Connell,2f9a6bd1,RP Yadav,6c3aef71,SC Selman,c29ada99,0,0,0,0,0,,,,,,1,0,1
+1289268,2022,Barbados,18,SC Selman,c29ada99,RP Yadav,6c3aef71,SS Connell,2f9a6bd1,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,Barbados,18,SC Selman,c29ada99,RP Yadav,6c3aef71,SS Connell,2f9a6bd1,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,Barbados,19,SS Connell,2f9a6bd1,H Kaur,53cd8da6,SC Selman,c29ada99,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,Barbados,19,SS Connell,2f9a6bd1,H Kaur,53cd8da6,SC Selman,c29ada99,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,Barbados,19,SS Connell,2f9a6bd1,H Kaur,53cd8da6,SC Selman,c29ada99,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,Barbados,19,SS Connell,2f9a6bd1,H Kaur,53cd8da6,SC Selman,c29ada99,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,Barbados,19,SS Connell,2f9a6bd1,H Kaur,53cd8da6,SC Selman,c29ada99,0,0,0,0,0,,,,,,0,0,0
+1289268,2022,Barbados,19,SS Connell,2f9a6bd1,H Kaur,53cd8da6,SC Selman,c29ada99,0,0,0,0,0,,,,,,1,0,1

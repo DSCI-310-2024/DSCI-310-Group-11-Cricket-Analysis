@@ -1,0 +1,231 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1133820,2017/18,Sri Lanka,0,MD Gunathilaka,509a7ca1,JD Unadkat,1e66c162,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,5,0,5
+1133820,2017/18,Sri Lanka,0,BKG Mendis,5d1e7582,JD Unadkat,1e66c162,MD Gunathilaka,509a7ca1,0,0,0,0,0,,,,,,6,0,6
+1133820,2017/18,Sri Lanka,0,BKG Mendis,5d1e7582,JD Unadkat,1e66c162,MD Gunathilaka,509a7ca1,0,0,0,0,0,,,,,,0,0,0
+1133820,2017/18,Sri Lanka,0,BKG Mendis,5d1e7582,JD Unadkat,1e66c162,MD Gunathilaka,509a7ca1,0,0,0,0,0,,,,,,1,0,1
+1133820,2017/18,Sri Lanka,0,MD Gunathilaka,509a7ca1,JD Unadkat,1e66c162,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,2,0,2
+1133820,2017/18,Sri Lanka,0,MD Gunathilaka,509a7ca1,JD Unadkat,1e66c162,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,1,0,1
+1133820,2017/18,Sri Lanka,1,MD Gunathilaka,509a7ca1,Washington Sundar,f19ccfad,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,6,0,6
+1133820,2017/18,Sri Lanka,1,MD Gunathilaka,509a7ca1,Washington Sundar,f19ccfad,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,0,0,0
+1133820,2017/18,Sri Lanka,1,MD Gunathilaka,509a7ca1,Washington Sundar,f19ccfad,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,2,0,2
+1133820,2017/18,Sri Lanka,1,MD Gunathilaka,509a7ca1,Washington Sundar,f19ccfad,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,1,0,1
+1133820,2017/18,Sri Lanka,1,BKG Mendis,5d1e7582,Washington Sundar,f19ccfad,MD Gunathilaka,509a7ca1,0,0,0,0,0,,,,,,0,0,0
+1133820,2017/18,Sri Lanka,1,BKG Mendis,5d1e7582,Washington Sundar,f19ccfad,MD Gunathilaka,509a7ca1,0,0,0,0,0,,,,,,0,0,0
+1133820,2017/18,Sri Lanka,2,MD Gunathilaka,509a7ca1,SN Thakur,1abb78f8,BKG Mendis,5d1e7582,1,0,0,0,0,,,,,,0,1,1
+1133820,2017/18,Sri Lanka,2,MD Gunathilaka,509a7ca1,SN Thakur,1abb78f8,BKG Mendis,5d1e7582,0,0,0,0,1,MD Gunathilaka,509a7ca1,SK Raina,1dc12ab9,caught,0,0,0
+1133820,2017/18,Sri Lanka,2,MDKJ Perera,f21043a5,SN Thakur,1abb78f8,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,0,0,0
+1133820,2017/18,Sri Lanka,2,MDKJ Perera,f21043a5,SN Thakur,1abb78f8,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,2,0,2
+1133820,2017/18,Sri Lanka,2,MDKJ Perera,f21043a5,SN Thakur,1abb78f8,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,1,0,1
+1133820,2017/18,Sri Lanka,2,BKG Mendis,5d1e7582,SN Thakur,1abb78f8,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,4,0,4
+1133820,2017/18,Sri Lanka,2,BKG Mendis,5d1e7582,SN Thakur,1abb78f8,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,2,0,2
+1133820,2017/18,Sri Lanka,3,MDKJ Perera,f21043a5,Washington Sundar,f19ccfad,BKG Mendis,5d1e7582,0,0,0,0,1,MDKJ Perera,f21043a5,,,bowled,0,0,0
+1133820,2017/18,Sri Lanka,3,WU Tharanga,7ed9fd56,Washington Sundar,f19ccfad,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,0,0,0
+1133820,2017/18,Sri Lanka,3,WU Tharanga,7ed9fd56,Washington Sundar,f19ccfad,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,0,0,0
+1133820,2017/18,Sri Lanka,3,WU Tharanga,7ed9fd56,Washington Sundar,f19ccfad,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,0,0,0
+1133820,2017/18,Sri Lanka,3,WU Tharanga,7ed9fd56,Washington Sundar,f19ccfad,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,1,0,1
+1133820,2017/18,Sri Lanka,3,BKG Mendis,5d1e7582,Washington Sundar,f19ccfad,WU Tharanga,7ed9fd56,0,0,0,0,0,,,,,,1,0,1
+1133820,2017/18,Sri Lanka,4,BKG Mendis,5d1e7582,YS Chahal,57ee1fde,WU Tharanga,7ed9fd56,0,0,0,0,0,,,,,,0,0,0
+1133820,2017/18,Sri Lanka,4,BKG Mendis,5d1e7582,YS Chahal,57ee1fde,WU Tharanga,7ed9fd56,0,0,0,0,0,,,,,,2,0,2
+1133820,2017/18,Sri Lanka,4,BKG Mendis,5d1e7582,YS Chahal,57ee1fde,WU Tharanga,7ed9fd56,0,0,0,0,0,,,,,,4,0,4
+1133820,2017/18,Sri Lanka,4,BKG Mendis,5d1e7582,YS Chahal,57ee1fde,WU Tharanga,7ed9fd56,0,1,0,0,0,,,,,,1,1,2
+1133820,2017/18,Sri Lanka,4,WU Tharanga,7ed9fd56,YS Chahal,57ee1fde,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,1,0,1
+1133820,2017/18,Sri Lanka,4,BKG Mendis,5d1e7582,YS Chahal,57ee1fde,WU Tharanga,7ed9fd56,0,0,0,0,0,,,,,,0,0,0
+1133820,2017/18,Sri Lanka,4,BKG Mendis,5d1e7582,YS Chahal,57ee1fde,WU Tharanga,7ed9fd56,0,0,0,0,0,,,,,,1,0,1
+1133820,2017/18,Sri Lanka,5,BKG Mendis,5d1e7582,Washington Sundar,f19ccfad,WU Tharanga,7ed9fd56,0,0,0,0,0,,,,,,4,0,4
+1133820,2017/18,Sri Lanka,5,BKG Mendis,5d1e7582,Washington Sundar,f19ccfad,WU Tharanga,7ed9fd56,0,0,0,0,0,,,,,,1,0,1
+1133820,2017/18,Sri Lanka,5,WU Tharanga,7ed9fd56,Washington Sundar,f19ccfad,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,1,0,1
+1133820,2017/18,Sri Lanka,5,BKG Mendis,5d1e7582,Washington Sundar,f19ccfad,WU Tharanga,7ed9fd56,0,0,0,0,0,,,,,,1,0,1
+1133820,2017/18,Sri Lanka,5,WU Tharanga,7ed9fd56,Washington Sundar,f19ccfad,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,0,0,0
+1133820,2017/18,Sri Lanka,5,WU Tharanga,7ed9fd56,Washington Sundar,f19ccfad,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,0,0,0
+1133820,2017/18,Sri Lanka,6,BKG Mendis,5d1e7582,V Shankar,0994d0ae,WU Tharanga,7ed9fd56,0,0,0,0,0,,,,,,1,0,1
+1133820,2017/18,Sri Lanka,6,WU Tharanga,7ed9fd56,V Shankar,0994d0ae,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,0,0,0
+1133820,2017/18,Sri Lanka,6,WU Tharanga,7ed9fd56,V Shankar,0994d0ae,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,1,0,1
+1133820,2017/18,Sri Lanka,6,BKG Mendis,5d1e7582,V Shankar,0994d0ae,WU Tharanga,7ed9fd56,0,0,0,0,0,,,,,,1,0,1
+1133820,2017/18,Sri Lanka,6,WU Tharanga,7ed9fd56,V Shankar,0994d0ae,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,1,0,1
+1133820,2017/18,Sri Lanka,6,BKG Mendis,5d1e7582,V Shankar,0994d0ae,WU Tharanga,7ed9fd56,0,0,0,0,0,,,,,,1,0,1
+1133820,2017/18,Sri Lanka,7,BKG Mendis,5d1e7582,YS Chahal,57ee1fde,WU Tharanga,7ed9fd56,0,0,0,0,0,,,,,,1,0,1
+1133820,2017/18,Sri Lanka,7,WU Tharanga,7ed9fd56,YS Chahal,57ee1fde,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,6,0,6
+1133820,2017/18,Sri Lanka,7,WU Tharanga,7ed9fd56,YS Chahal,57ee1fde,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,1,0,1
+1133820,2017/18,Sri Lanka,7,BKG Mendis,5d1e7582,YS Chahal,57ee1fde,WU Tharanga,7ed9fd56,0,0,0,0,0,,,,,,1,0,1
+1133820,2017/18,Sri Lanka,7,WU Tharanga,7ed9fd56,YS Chahal,57ee1fde,BKG Mendis,5d1e7582,2,0,0,0,0,,,,,,0,2,2
+1133820,2017/18,Sri Lanka,7,BKG Mendis,5d1e7582,YS Chahal,57ee1fde,WU Tharanga,7ed9fd56,0,0,0,0,0,,,,,,6,0,6
+1133820,2017/18,Sri Lanka,7,BKG Mendis,5d1e7582,YS Chahal,57ee1fde,WU Tharanga,7ed9fd56,0,0,0,0,0,,,,,,0,0,0
+1133820,2017/18,Sri Lanka,8,WU Tharanga,7ed9fd56,V Shankar,0994d0ae,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,1,0,1
+1133820,2017/18,Sri Lanka,8,BKG Mendis,5d1e7582,V Shankar,0994d0ae,WU Tharanga,7ed9fd56,0,0,0,0,0,,,,,,2,0,2
+1133820,2017/18,Sri Lanka,8,BKG Mendis,5d1e7582,V Shankar,0994d0ae,WU Tharanga,7ed9fd56,0,0,0,0,0,,,,,,0,0,0
+1133820,2017/18,Sri Lanka,8,BKG Mendis,5d1e7582,V Shankar,0994d0ae,WU Tharanga,7ed9fd56,2,0,0,0,0,,,,,,0,2,2
+1133820,2017/18,Sri Lanka,8,WU Tharanga,7ed9fd56,V Shankar,0994d0ae,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,0,0,0
+1133820,2017/18,Sri Lanka,8,WU Tharanga,7ed9fd56,V Shankar,0994d0ae,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,4,0,4
+1133820,2017/18,Sri Lanka,8,WU Tharanga,7ed9fd56,V Shankar,0994d0ae,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,2,0,2
+1133820,2017/18,Sri Lanka,9,BKG Mendis,5d1e7582,JD Unadkat,1e66c162,WU Tharanga,7ed9fd56,0,0,0,0,0,,,,,,0,0,0
+1133820,2017/18,Sri Lanka,9,BKG Mendis,5d1e7582,JD Unadkat,1e66c162,WU Tharanga,7ed9fd56,0,0,0,0,0,,,,,,1,0,1
+1133820,2017/18,Sri Lanka,9,WU Tharanga,7ed9fd56,JD Unadkat,1e66c162,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,0,0,0
+1133820,2017/18,Sri Lanka,9,WU Tharanga,7ed9fd56,JD Unadkat,1e66c162,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,0,0,0
+1133820,2017/18,Sri Lanka,9,WU Tharanga,7ed9fd56,JD Unadkat,1e66c162,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,1,0,1
+1133820,2017/18,Sri Lanka,9,BKG Mendis,5d1e7582,JD Unadkat,1e66c162,WU Tharanga,7ed9fd56,0,0,0,0,0,,,,,,6,0,6
+1133820,2017/18,Sri Lanka,10,WU Tharanga,7ed9fd56,V Shankar,0994d0ae,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,2,0,2
+1133820,2017/18,Sri Lanka,10,WU Tharanga,7ed9fd56,V Shankar,0994d0ae,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,0,0,0
+1133820,2017/18,Sri Lanka,10,WU Tharanga,7ed9fd56,V Shankar,0994d0ae,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,0,0,0
+1133820,2017/18,Sri Lanka,10,WU Tharanga,7ed9fd56,V Shankar,0994d0ae,BKG Mendis,5d1e7582,0,0,0,0,1,WU Tharanga,7ed9fd56,,,bowled,0,0,0
+1133820,2017/18,Sri Lanka,10,NLTC Perera,0f12f9df,V Shankar,0994d0ae,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,6,0,6
+1133820,2017/18,Sri Lanka,10,NLTC Perera,0f12f9df,V Shankar,0994d0ae,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,6,0,6
+1133820,2017/18,Sri Lanka,11,BKG Mendis,5d1e7582,SN Thakur,1abb78f8,NLTC Perera,0f12f9df,0,0,0,0,0,,,,,,1,0,1
+1133820,2017/18,Sri Lanka,11,NLTC Perera,0f12f9df,SN Thakur,1abb78f8,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,2,0,2
+1133820,2017/18,Sri Lanka,11,NLTC Perera,0f12f9df,SN Thakur,1abb78f8,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,0,0,0
+1133820,2017/18,Sri Lanka,11,NLTC Perera,0f12f9df,SN Thakur,1abb78f8,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,1,0,1
+1133820,2017/18,Sri Lanka,11,BKG Mendis,5d1e7582,SN Thakur,1abb78f8,NLTC Perera,0f12f9df,0,0,0,0,0,,,,,,1,0,1
+1133820,2017/18,Sri Lanka,11,NLTC Perera,0f12f9df,SN Thakur,1abb78f8,BKG Mendis,5d1e7582,0,0,0,0,1,NLTC Perera,0f12f9df,YS Chahal,57ee1fde,caught,0,0,0
+1133820,2017/18,Sri Lanka,12,BMAJ Mendis,9868bc75,YS Chahal,57ee1fde,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,0,0,0
+1133820,2017/18,Sri Lanka,12,BMAJ Mendis,9868bc75,YS Chahal,57ee1fde,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,1,0,1
+1133820,2017/18,Sri Lanka,12,BKG Mendis,5d1e7582,YS Chahal,57ee1fde,BMAJ Mendis,9868bc75,0,0,0,0,0,,,,,,0,0,0
+1133820,2017/18,Sri Lanka,12,BKG Mendis,5d1e7582,YS Chahal,57ee1fde,BMAJ Mendis,9868bc75,0,0,0,0,0,,,,,,2,0,2
+1133820,2017/18,Sri Lanka,12,BKG Mendis,5d1e7582,YS Chahal,57ee1fde,BMAJ Mendis,9868bc75,0,0,0,0,0,,,,,,0,0,0
+1133820,2017/18,Sri Lanka,12,BKG Mendis,5d1e7582,YS Chahal,57ee1fde,BMAJ Mendis,9868bc75,0,0,0,0,0,,,,,,1,0,1
+1133820,2017/18,Sri Lanka,13,BKG Mendis,5d1e7582,Washington Sundar,f19ccfad,BMAJ Mendis,9868bc75,0,0,0,0,0,,,,,,1,0,1
+1133820,2017/18,Sri Lanka,13,BMAJ Mendis,9868bc75,Washington Sundar,f19ccfad,BKG Mendis,5d1e7582,0,0,0,0,1,BMAJ Mendis,9868bc75,,,bowled,0,0,0
+1133820,2017/18,Sri Lanka,13,MD Shanaka,3ff033bb,Washington Sundar,f19ccfad,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,0,0,0
+1133820,2017/18,Sri Lanka,13,MD Shanaka,3ff033bb,Washington Sundar,f19ccfad,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,0,0,0
+1133820,2017/18,Sri Lanka,13,MD Shanaka,3ff033bb,Washington Sundar,f19ccfad,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,1,0,1
+1133820,2017/18,Sri Lanka,13,BKG Mendis,5d1e7582,Washington Sundar,f19ccfad,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,1,0,1
+1133820,2017/18,Sri Lanka,14,BKG Mendis,5d1e7582,YS Chahal,57ee1fde,MD Shanaka,3ff033bb,0,0,0,0,1,BKG Mendis,5d1e7582,RG Sharma,740742ef,caught,0,0,0
+1133820,2017/18,Sri Lanka,14,A Dananjaya,5b16a806,YS Chahal,57ee1fde,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,0,0,0
+1133820,2017/18,Sri Lanka,14,A Dananjaya,5b16a806,YS Chahal,57ee1fde,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,1,0,1
+1133820,2017/18,Sri Lanka,14,MD Shanaka,3ff033bb,YS Chahal,57ee1fde,A Dananjaya,5b16a806,1,0,0,0,0,,,,,,0,1,1
+1133820,2017/18,Sri Lanka,14,MD Shanaka,3ff033bb,YS Chahal,57ee1fde,A Dananjaya,5b16a806,0,0,0,0,0,,,,,,1,0,1
+1133820,2017/18,Sri Lanka,14,A Dananjaya,5b16a806,YS Chahal,57ee1fde,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,0,0,0
+1133820,2017/18,Sri Lanka,14,A Dananjaya,5b16a806,YS Chahal,57ee1fde,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,0,0,0
+1133820,2017/18,Sri Lanka,15,MD Shanaka,3ff033bb,SK Raina,1dc12ab9,A Dananjaya,5b16a806,1,0,0,0,0,,,,,,0,1,1
+1133820,2017/18,Sri Lanka,15,MD Shanaka,3ff033bb,SK Raina,1dc12ab9,A Dananjaya,5b16a806,0,0,0,0,0,,,,,,1,0,1
+1133820,2017/18,Sri Lanka,15,A Dananjaya,5b16a806,SK Raina,1dc12ab9,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,1,0,1
+1133820,2017/18,Sri Lanka,15,MD Shanaka,3ff033bb,SK Raina,1dc12ab9,A Dananjaya,5b16a806,0,0,0,0,0,,,,,,1,0,1
+1133820,2017/18,Sri Lanka,15,A Dananjaya,5b16a806,SK Raina,1dc12ab9,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,0,0,0
+1133820,2017/18,Sri Lanka,15,A Dananjaya,5b16a806,SK Raina,1dc12ab9,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,1,0,1
+1133820,2017/18,Sri Lanka,15,MD Shanaka,3ff033bb,SK Raina,1dc12ab9,A Dananjaya,5b16a806,0,0,0,0,0,,,,,,1,0,1
+1133820,2017/18,Sri Lanka,16,MD Shanaka,3ff033bb,SN Thakur,1abb78f8,A Dananjaya,5b16a806,0,0,0,0,0,,,,,,4,0,4
+1133820,2017/18,Sri Lanka,16,MD Shanaka,3ff033bb,SN Thakur,1abb78f8,A Dananjaya,5b16a806,0,0,0,0,0,,,,,,1,0,1
+1133820,2017/18,Sri Lanka,16,A Dananjaya,5b16a806,SN Thakur,1abb78f8,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,1,0,1
+1133820,2017/18,Sri Lanka,16,MD Shanaka,3ff033bb,SN Thakur,1abb78f8,A Dananjaya,5b16a806,0,0,0,0,0,,,,,,0,0,0
+1133820,2017/18,Sri Lanka,16,MD Shanaka,3ff033bb,SN Thakur,1abb78f8,A Dananjaya,5b16a806,0,0,0,0,0,,,,,,0,0,0
+1133820,2017/18,Sri Lanka,16,MD Shanaka,3ff033bb,SN Thakur,1abb78f8,A Dananjaya,5b16a806,0,0,0,0,0,,,,,,1,0,1
+1133820,2017/18,Sri Lanka,17,MD Shanaka,3ff033bb,JD Unadkat,1e66c162,A Dananjaya,5b16a806,0,0,0,0,0,,,,,,1,0,1
+1133820,2017/18,Sri Lanka,17,A Dananjaya,5b16a806,JD Unadkat,1e66c162,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,1,0,1
+1133820,2017/18,Sri Lanka,17,MD Shanaka,3ff033bb,JD Unadkat,1e66c162,A Dananjaya,5b16a806,1,0,0,0,0,,,,,,0,1,1
+1133820,2017/18,Sri Lanka,17,MD Shanaka,3ff033bb,JD Unadkat,1e66c162,A Dananjaya,5b16a806,0,0,0,0,0,,,,,,6,0,6
+1133820,2017/18,Sri Lanka,17,MD Shanaka,3ff033bb,JD Unadkat,1e66c162,A Dananjaya,5b16a806,0,0,0,0,0,,,,,,1,0,1
+1133820,2017/18,Sri Lanka,17,A Dananjaya,5b16a806,JD Unadkat,1e66c162,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,0,0,0
+1133820,2017/18,Sri Lanka,17,A Dananjaya,5b16a806,JD Unadkat,1e66c162,MD Shanaka,3ff033bb,0,0,0,0,1,A Dananjaya,5b16a806,KL Rahul,b17e2f24,caught,0,0,0
+1133820,2017/18,Sri Lanka,18,RAS Lakmal,2f28dc94,SN Thakur,1abb78f8,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,4,0,4
+1133820,2017/18,Sri Lanka,18,RAS Lakmal,2f28dc94,SN Thakur,1abb78f8,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,0,0,0
+1133820,2017/18,Sri Lanka,18,RAS Lakmal,2f28dc94,SN Thakur,1abb78f8,MD Shanaka,3ff033bb,0,0,1,0,0,,,,,,0,1,1
+1133820,2017/18,Sri Lanka,18,MD Shanaka,3ff033bb,SN Thakur,1abb78f8,RAS Lakmal,2f28dc94,0,0,0,0,1,MD Shanaka,3ff033bb,KD Karthik,c03f1114,caught,0,0,0
+1133820,2017/18,Sri Lanka,18,PVD Chameera,327b58d3,SN Thakur,1abb78f8,RAS Lakmal,2f28dc94,0,0,0,0,1,PVD Chameera,327b58d3,JD Unadkat,1e66c162,caught,0,0,0
+1133820,2017/18,Sri Lanka,18,RAS Lakmal,2f28dc94,SN Thakur,1abb78f8,N Pradeep,2af838ee,0,0,0,0,0,,,,,,1,0,1
+1133820,2017/18,India,0,RG Sharma,740742ef,RAS Lakmal,2f28dc94,S Dhawan,0a476045,0,0,0,0,0,,,,,,0,0,0
+1133820,2017/18,India,0,RG Sharma,740742ef,RAS Lakmal,2f28dc94,S Dhawan,0a476045,0,0,0,0,0,,,,,,6,0,6
+1133820,2017/18,India,0,RG Sharma,740742ef,RAS Lakmal,2f28dc94,S Dhawan,0a476045,0,0,0,0,0,,,,,,4,0,4
+1133820,2017/18,India,0,RG Sharma,740742ef,RAS Lakmal,2f28dc94,S Dhawan,0a476045,0,0,1,0,0,,,,,,0,1,1
+1133820,2017/18,India,0,S Dhawan,0a476045,RAS Lakmal,2f28dc94,RG Sharma,740742ef,0,0,0,0,0,,,,,,0,0,0
+1133820,2017/18,India,0,S Dhawan,0a476045,RAS Lakmal,2f28dc94,RG Sharma,740742ef,0,0,0,0,0,,,,,,0,0,0
+1133820,2017/18,India,1,RG Sharma,740742ef,A Dananjaya,5b16a806,S Dhawan,0a476045,0,0,0,0,0,,,,,,1,0,1
+1133820,2017/18,India,1,S Dhawan,0a476045,A Dananjaya,5b16a806,RG Sharma,740742ef,0,0,0,0,0,,,,,,0,0,0
+1133820,2017/18,India,1,S Dhawan,0a476045,A Dananjaya,5b16a806,RG Sharma,740742ef,0,0,0,0,0,,,,,,0,0,0
+1133820,2017/18,India,1,S Dhawan,0a476045,A Dananjaya,5b16a806,RG Sharma,740742ef,0,0,0,0,0,,,,,,1,0,1
+1133820,2017/18,India,1,RG Sharma,740742ef,A Dananjaya,5b16a806,S Dhawan,0a476045,0,0,0,0,0,,,,,,0,0,0
+1133820,2017/18,India,1,RG Sharma,740742ef,A Dananjaya,5b16a806,S Dhawan,0a476045,0,0,0,0,1,RG Sharma,740742ef,BKG Mendis,5d1e7582,caught,0,0,0
+1133820,2017/18,India,2,S Dhawan,0a476045,RAS Lakmal,2f28dc94,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,1,0,1
+1133820,2017/18,India,2,KL Rahul,b17e2f24,RAS Lakmal,2f28dc94,S Dhawan,0a476045,0,0,0,0,0,,,,,,1,0,1
+1133820,2017/18,India,2,S Dhawan,0a476045,RAS Lakmal,2f28dc94,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,1,0,1
+1133820,2017/18,India,2,KL Rahul,b17e2f24,RAS Lakmal,2f28dc94,S Dhawan,0a476045,0,0,0,0,0,,,,,,1,0,1
+1133820,2017/18,India,2,S Dhawan,0a476045,RAS Lakmal,2f28dc94,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,4,0,4
+1133820,2017/18,India,2,S Dhawan,0a476045,RAS Lakmal,2f28dc94,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,1,0,1
+1133820,2017/18,India,3,S Dhawan,0a476045,A Dananjaya,5b16a806,KL Rahul,b17e2f24,0,0,0,0,1,S Dhawan,0a476045,NLTC Perera,0f12f9df,caught,0,0,0
+1133820,2017/18,India,3,KL Rahul,b17e2f24,A Dananjaya,5b16a806,SK Raina,1dc12ab9,4,0,0,0,0,,,,,,0,4,4
+1133820,2017/18,India,3,SK Raina,1dc12ab9,A Dananjaya,5b16a806,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,1,0,1
+1133820,2017/18,India,3,KL Rahul,b17e2f24,A Dananjaya,5b16a806,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,0,0,0
+1133820,2017/18,India,3,KL Rahul,b17e2f24,A Dananjaya,5b16a806,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,1,0,1
+1133820,2017/18,India,3,SK Raina,1dc12ab9,A Dananjaya,5b16a806,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,0,0,0
+1133820,2017/18,India,3,SK Raina,1dc12ab9,A Dananjaya,5b16a806,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,2,0,2
+1133820,2017/18,India,4,KL Rahul,b17e2f24,PVD Chameera,327b58d3,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,1,0,1
+1133820,2017/18,India,4,SK Raina,1dc12ab9,PVD Chameera,327b58d3,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,4,0,4
+1133820,2017/18,India,4,SK Raina,1dc12ab9,PVD Chameera,327b58d3,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,0,0,0
+1133820,2017/18,India,4,SK Raina,1dc12ab9,PVD Chameera,327b58d3,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,4,0,4
+1133820,2017/18,India,4,SK Raina,1dc12ab9,PVD Chameera,327b58d3,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,6,0,6
+1133820,2017/18,India,4,SK Raina,1dc12ab9,PVD Chameera,327b58d3,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,1,0,1
+1133820,2017/18,India,5,SK Raina,1dc12ab9,A Dananjaya,5b16a806,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,0,0,0
+1133820,2017/18,India,5,SK Raina,1dc12ab9,A Dananjaya,5b16a806,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,1,0,1
+1133820,2017/18,India,5,KL Rahul,b17e2f24,A Dananjaya,5b16a806,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,0,0,0
+1133820,2017/18,India,5,KL Rahul,b17e2f24,A Dananjaya,5b16a806,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,1,0,1
+1133820,2017/18,India,5,SK Raina,1dc12ab9,A Dananjaya,5b16a806,KL Rahul,b17e2f24,1,0,0,0,0,,,,,,0,1,1
+1133820,2017/18,India,5,SK Raina,1dc12ab9,A Dananjaya,5b16a806,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,0,0,0
+1133820,2017/18,India,5,SK Raina,1dc12ab9,A Dananjaya,5b16a806,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,1,0,1
+1133820,2017/18,India,6,SK Raina,1dc12ab9,N Pradeep,2af838ee,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,1,0,1
+1133820,2017/18,India,6,KL Rahul,b17e2f24,N Pradeep,2af838ee,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,4,0,4
+1133820,2017/18,India,6,KL Rahul,b17e2f24,N Pradeep,2af838ee,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,1,0,1
+1133820,2017/18,India,6,SK Raina,1dc12ab9,N Pradeep,2af838ee,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,6,0,6
+1133820,2017/18,India,6,SK Raina,1dc12ab9,N Pradeep,2af838ee,KL Rahul,b17e2f24,0,0,0,0,1,SK Raina,1dc12ab9,NLTC Perera,0f12f9df,caught,0,0,0
+1133820,2017/18,India,6,MK Pandey,93b4fc78,N Pradeep,2af838ee,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,1,0,1
+1133820,2017/18,India,7,MK Pandey,93b4fc78,BMAJ Mendis,9868bc75,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,1,0,1
+1133820,2017/18,India,7,KL Rahul,b17e2f24,BMAJ Mendis,9868bc75,MK Pandey,93b4fc78,1,0,0,0,0,,,,,,0,1,1
+1133820,2017/18,India,7,KL Rahul,b17e2f24,BMAJ Mendis,9868bc75,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,1,0,1
+1133820,2017/18,India,7,MK Pandey,93b4fc78,BMAJ Mendis,9868bc75,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,4,0,4
+1133820,2017/18,India,7,MK Pandey,93b4fc78,BMAJ Mendis,9868bc75,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,1,0,1
+1133820,2017/18,India,7,KL Rahul,b17e2f24,BMAJ Mendis,9868bc75,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,2,0,2
+1133820,2017/18,India,7,KL Rahul,b17e2f24,BMAJ Mendis,9868bc75,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,2,0,2
+1133820,2017/18,India,8,MK Pandey,93b4fc78,NLTC Perera,0f12f9df,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,4,0,4
+1133820,2017/18,India,8,MK Pandey,93b4fc78,NLTC Perera,0f12f9df,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,0,0,0
+1133820,2017/18,India,8,MK Pandey,93b4fc78,NLTC Perera,0f12f9df,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,1,0,1
+1133820,2017/18,India,8,KL Rahul,b17e2f24,NLTC Perera,0f12f9df,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,1,0,1
+1133820,2017/18,India,8,MK Pandey,93b4fc78,NLTC Perera,0f12f9df,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,1,0,1
+1133820,2017/18,India,8,KL Rahul,b17e2f24,NLTC Perera,0f12f9df,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,1,0,1
+1133820,2017/18,India,9,KL Rahul,b17e2f24,BMAJ Mendis,9868bc75,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,0,0,0
+1133820,2017/18,India,9,KL Rahul,b17e2f24,BMAJ Mendis,9868bc75,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,1,0,1
+1133820,2017/18,India,9,MK Pandey,93b4fc78,BMAJ Mendis,9868bc75,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,0,0,0
+1133820,2017/18,India,9,MK Pandey,93b4fc78,BMAJ Mendis,9868bc75,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,1,0,1
+1133820,2017/18,India,9,KL Rahul,b17e2f24,BMAJ Mendis,9868bc75,MK Pandey,93b4fc78,0,0,0,0,1,KL Rahul,b17e2f24,,,hit wicket,0,0,0
+1133820,2017/18,India,9,KD Karthik,c03f1114,BMAJ Mendis,9868bc75,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,0,0,0
+1133820,2017/18,India,10,MK Pandey,93b4fc78,PVD Chameera,327b58d3,KD Karthik,c03f1114,0,0,0,0,0,,,,,,1,0,1
+1133820,2017/18,India,10,KD Karthik,c03f1114,PVD Chameera,327b58d3,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,1,0,1
+1133820,2017/18,India,10,MK Pandey,93b4fc78,PVD Chameera,327b58d3,KD Karthik,c03f1114,0,0,0,0,0,,,,,,0,0,0
+1133820,2017/18,India,10,MK Pandey,93b4fc78,PVD Chameera,327b58d3,KD Karthik,c03f1114,0,0,0,0,0,,,,,,2,0,2
+1133820,2017/18,India,10,MK Pandey,93b4fc78,PVD Chameera,327b58d3,KD Karthik,c03f1114,0,0,0,0,0,,,,,,2,0,2
+1133820,2017/18,India,10,MK Pandey,93b4fc78,PVD Chameera,327b58d3,KD Karthik,c03f1114,0,0,0,0,0,,,,,,1,0,1
+1133820,2017/18,India,11,MK Pandey,93b4fc78,BMAJ Mendis,9868bc75,KD Karthik,c03f1114,0,0,0,0,0,,,,,,1,0,1
+1133820,2017/18,India,11,KD Karthik,c03f1114,BMAJ Mendis,9868bc75,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,4,0,4
+1133820,2017/18,India,11,KD Karthik,c03f1114,BMAJ Mendis,9868bc75,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,1,0,1
+1133820,2017/18,India,11,MK Pandey,93b4fc78,BMAJ Mendis,9868bc75,KD Karthik,c03f1114,0,0,0,0,0,,,,,,1,0,1
+1133820,2017/18,India,11,KD Karthik,c03f1114,BMAJ Mendis,9868bc75,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,2,0,2
+1133820,2017/18,India,11,KD Karthik,c03f1114,BMAJ Mendis,9868bc75,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,0,0,0
+1133820,2017/18,India,12,MK Pandey,93b4fc78,N Pradeep,2af838ee,KD Karthik,c03f1114,0,0,0,0,0,,,,,,4,0,4
+1133820,2017/18,India,12,MK Pandey,93b4fc78,N Pradeep,2af838ee,KD Karthik,c03f1114,0,0,0,0,0,,,,,,1,0,1
+1133820,2017/18,India,12,KD Karthik,c03f1114,N Pradeep,2af838ee,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,1,0,1
+1133820,2017/18,India,12,MK Pandey,93b4fc78,N Pradeep,2af838ee,KD Karthik,c03f1114,0,0,0,0,0,,,,,,0,0,0
+1133820,2017/18,India,12,MK Pandey,93b4fc78,N Pradeep,2af838ee,KD Karthik,c03f1114,0,0,0,0,0,,,,,,1,0,1
+1133820,2017/18,India,12,KD Karthik,c03f1114,N Pradeep,2af838ee,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,1,0,1
+1133820,2017/18,India,13,KD Karthik,c03f1114,A Dananjaya,5b16a806,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,1,0,1
+1133820,2017/18,India,13,MK Pandey,93b4fc78,A Dananjaya,5b16a806,KD Karthik,c03f1114,0,0,0,0,0,,,,,,1,0,1
+1133820,2017/18,India,13,KD Karthik,c03f1114,A Dananjaya,5b16a806,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,0,0,0
+1133820,2017/18,India,13,KD Karthik,c03f1114,A Dananjaya,5b16a806,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,1,0,1
+1133820,2017/18,India,13,MK Pandey,93b4fc78,A Dananjaya,5b16a806,KD Karthik,c03f1114,0,0,0,0,0,,,,,,1,0,1
+1133820,2017/18,India,13,KD Karthik,c03f1114,A Dananjaya,5b16a806,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,1,0,1
+1133820,2017/18,India,14,KD Karthik,c03f1114,NLTC Perera,0f12f9df,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,1,0,1
+1133820,2017/18,India,14,MK Pandey,93b4fc78,NLTC Perera,0f12f9df,KD Karthik,c03f1114,0,0,0,0,0,,,,,,0,0,0
+1133820,2017/18,India,14,MK Pandey,93b4fc78,NLTC Perera,0f12f9df,KD Karthik,c03f1114,0,0,0,0,0,,,,,,6,0,6
+1133820,2017/18,India,14,MK Pandey,93b4fc78,NLTC Perera,0f12f9df,KD Karthik,c03f1114,0,0,0,0,0,,,,,,0,0,0
+1133820,2017/18,India,14,MK Pandey,93b4fc78,NLTC Perera,0f12f9df,KD Karthik,c03f1114,0,0,0,0,0,,,,,,1,0,1
+1133820,2017/18,India,14,KD Karthik,c03f1114,NLTC Perera,0f12f9df,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,1,0,1
+1133820,2017/18,India,15,KD Karthik,c03f1114,BMAJ Mendis,9868bc75,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,4,0,4
+1133820,2017/18,India,15,KD Karthik,c03f1114,BMAJ Mendis,9868bc75,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,2,0,2
+1133820,2017/18,India,15,KD Karthik,c03f1114,BMAJ Mendis,9868bc75,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,1,0,1
+1133820,2017/18,India,15,MK Pandey,93b4fc78,BMAJ Mendis,9868bc75,KD Karthik,c03f1114,0,0,0,0,0,,,,,,1,0,1
+1133820,2017/18,India,15,KD Karthik,c03f1114,BMAJ Mendis,9868bc75,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,1,0,1
+1133820,2017/18,India,15,MK Pandey,93b4fc78,BMAJ Mendis,9868bc75,KD Karthik,c03f1114,0,0,0,0,0,,,,,,2,0,2
+1133820,2017/18,India,16,KD Karthik,c03f1114,PVD Chameera,327b58d3,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,1,0,1
+1133820,2017/18,India,16,MK Pandey,93b4fc78,PVD Chameera,327b58d3,KD Karthik,c03f1114,1,0,0,0,0,,,,,,0,1,1
+1133820,2017/18,India,16,MK Pandey,93b4fc78,PVD Chameera,327b58d3,KD Karthik,c03f1114,0,0,0,0,0,,,,,,1,0,1
+1133820,2017/18,India,16,KD Karthik,c03f1114,PVD Chameera,327b58d3,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,4,0,4
+1133820,2017/18,India,16,KD Karthik,c03f1114,PVD Chameera,327b58d3,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,1,0,1
+1133820,2017/18,India,16,MK Pandey,93b4fc78,PVD Chameera,327b58d3,KD Karthik,c03f1114,0,0,0,0,0,,,,,,1,0,1
+1133820,2017/18,India,16,KD Karthik,c03f1114,PVD Chameera,327b58d3,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,1,0,1
+1133820,2017/18,India,17,KD Karthik,c03f1114,N Pradeep,2af838ee,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,4,0,4
+1133820,2017/18,India,17,KD Karthik,c03f1114,N Pradeep,2af838ee,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,4,0,4
+1133820,2017/18,India,17,KD Karthik,c03f1114,N Pradeep,2af838ee,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,1,0,1

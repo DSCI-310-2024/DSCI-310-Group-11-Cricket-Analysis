@@ -1,0 +1,237 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1177018,2019,South Africa,0,L Lee,7b01ce83,Sana Mir,b287e7b1,T Brits,06659caa,0,0,0,0,0,,,,,,0,0,0
+1177018,2019,South Africa,0,L Lee,7b01ce83,Sana Mir,b287e7b1,T Brits,06659caa,0,0,0,0,1,L Lee,7b01ce83,Sidra Nawaz,ca3ded6f,caught,0,0,0
+1177018,2019,South Africa,0,M Kapp,63e3b6b3,Sana Mir,b287e7b1,T Brits,06659caa,0,0,0,0,0,,,,,,1,0,1
+1177018,2019,South Africa,0,T Brits,06659caa,Sana Mir,b287e7b1,M Kapp,63e3b6b3,0,0,0,0,0,,,,,,0,0,0
+1177018,2019,South Africa,0,T Brits,06659caa,Sana Mir,b287e7b1,M Kapp,63e3b6b3,0,0,0,0,1,T Brits,06659caa,Sidra Nawaz,ca3ded6f,caught,0,0,0
+1177018,2019,South Africa,0,S Luus,6d76bc23,Sana Mir,b287e7b1,M Kapp,63e3b6b3,0,0,0,0,0,,,,,,0,0,0
+1177018,2019,South Africa,1,M Kapp,63e3b6b3,Aliya Riaz,2904b4b6,S Luus,6d76bc23,0,0,0,0,0,,,,,,0,0,0
+1177018,2019,South Africa,1,M Kapp,63e3b6b3,Aliya Riaz,2904b4b6,S Luus,6d76bc23,0,0,0,0,0,,,,,,0,0,0
+1177018,2019,South Africa,1,M Kapp,63e3b6b3,Aliya Riaz,2904b4b6,S Luus,6d76bc23,0,0,0,0,0,,,,,,1,0,1
+1177018,2019,South Africa,1,S Luus,6d76bc23,Aliya Riaz,2904b4b6,M Kapp,63e3b6b3,0,0,0,0,0,,,,,,1,0,1
+1177018,2019,South Africa,1,M Kapp,63e3b6b3,Aliya Riaz,2904b4b6,S Luus,6d76bc23,0,0,0,0,0,,,,,,0,0,0
+1177018,2019,South Africa,1,M Kapp,63e3b6b3,Aliya Riaz,2904b4b6,S Luus,6d76bc23,0,0,0,0,0,,,,,,1,0,1
+1177018,2019,South Africa,2,M Kapp,63e3b6b3,Sana Mir,b287e7b1,S Luus,6d76bc23,0,0,0,0,0,,,,,,0,0,0
+1177018,2019,South Africa,2,M Kapp,63e3b6b3,Sana Mir,b287e7b1,S Luus,6d76bc23,0,0,0,0,0,,,,,,0,0,0
+1177018,2019,South Africa,2,M Kapp,63e3b6b3,Sana Mir,b287e7b1,S Luus,6d76bc23,0,0,0,0,0,,,,,,0,0,0
+1177018,2019,South Africa,2,M Kapp,63e3b6b3,Sana Mir,b287e7b1,S Luus,6d76bc23,0,0,0,0,0,,,,,,1,0,1
+1177018,2019,South Africa,2,S Luus,6d76bc23,Sana Mir,b287e7b1,M Kapp,63e3b6b3,0,0,0,0,0,,,,,,0,0,0
+1177018,2019,South Africa,2,S Luus,6d76bc23,Sana Mir,b287e7b1,M Kapp,63e3b6b3,0,0,0,0,0,,,,,,0,0,0
+1177018,2019,South Africa,3,M Kapp,63e3b6b3,Nashra Sandhu,c981d3c2,S Luus,6d76bc23,0,0,0,0,0,,,,,,0,0,0
+1177018,2019,South Africa,3,M Kapp,63e3b6b3,Nashra Sandhu,c981d3c2,S Luus,6d76bc23,0,0,0,0,0,,,,,,1,0,1
+1177018,2019,South Africa,3,S Luus,6d76bc23,Nashra Sandhu,c981d3c2,M Kapp,63e3b6b3,0,0,0,0,0,,,,,,0,0,0
+1177018,2019,South Africa,3,S Luus,6d76bc23,Nashra Sandhu,c981d3c2,M Kapp,63e3b6b3,0,0,0,0,0,,,,,,1,0,1
+1177018,2019,South Africa,3,M Kapp,63e3b6b3,Nashra Sandhu,c981d3c2,S Luus,6d76bc23,0,0,0,0,0,,,,,,1,0,1
+1177018,2019,South Africa,3,S Luus,6d76bc23,Nashra Sandhu,c981d3c2,M Kapp,63e3b6b3,0,0,0,0,0,,,,,,0,0,0
+1177018,2019,South Africa,4,M Kapp,63e3b6b3,Nida Dar,ed840f44,S Luus,6d76bc23,0,0,0,0,0,,,,,,0,0,0
+1177018,2019,South Africa,4,M Kapp,63e3b6b3,Nida Dar,ed840f44,S Luus,6d76bc23,0,0,0,0,0,,,,,,4,0,4
+1177018,2019,South Africa,4,M Kapp,63e3b6b3,Nida Dar,ed840f44,S Luus,6d76bc23,0,0,0,0,1,M Kapp,63e3b6b3,,,bowled,0,0,0
+1177018,2019,South Africa,4,M du Preez,e219f17a,Nida Dar,ed840f44,S Luus,6d76bc23,0,0,0,0,0,,,,,,0,0,0
+1177018,2019,South Africa,4,M du Preez,e219f17a,Nida Dar,ed840f44,S Luus,6d76bc23,0,0,0,0,0,,,,,,0,0,0
+1177018,2019,South Africa,4,M du Preez,e219f17a,Nida Dar,ed840f44,S Luus,6d76bc23,0,0,0,0,0,,,,,,2,0,2
+1177018,2019,South Africa,5,S Luus,6d76bc23,Aliya Riaz,2904b4b6,M du Preez,e219f17a,1,0,0,0,0,,,,,,0,1,1
+1177018,2019,South Africa,5,S Luus,6d76bc23,Aliya Riaz,2904b4b6,M du Preez,e219f17a,0,0,0,0,0,,,,,,0,0,0
+1177018,2019,South Africa,5,S Luus,6d76bc23,Aliya Riaz,2904b4b6,M du Preez,e219f17a,0,0,0,0,0,,,,,,1,0,1
+1177018,2019,South Africa,5,M du Preez,e219f17a,Aliya Riaz,2904b4b6,S Luus,6d76bc23,0,0,0,0,0,,,,,,2,0,2
+1177018,2019,South Africa,5,M du Preez,e219f17a,Aliya Riaz,2904b4b6,S Luus,6d76bc23,0,0,0,0,0,,,,,,1,0,1
+1177018,2019,South Africa,5,S Luus,6d76bc23,Aliya Riaz,2904b4b6,M du Preez,e219f17a,0,0,0,0,0,,,,,,0,0,0
+1177018,2019,South Africa,5,S Luus,6d76bc23,Aliya Riaz,2904b4b6,M du Preez,e219f17a,0,0,0,0,0,,,,,,0,0,0
+1177018,2019,South Africa,6,M du Preez,e219f17a,Nida Dar,ed840f44,S Luus,6d76bc23,0,0,0,0,0,,,,,,0,0,0
+1177018,2019,South Africa,6,M du Preez,e219f17a,Nida Dar,ed840f44,S Luus,6d76bc23,0,0,0,0,0,,,,,,0,0,0
+1177018,2019,South Africa,6,M du Preez,e219f17a,Nida Dar,ed840f44,S Luus,6d76bc23,0,0,0,0,0,,,,,,1,0,1
+1177018,2019,South Africa,6,S Luus,6d76bc23,Nida Dar,ed840f44,M du Preez,e219f17a,0,0,0,0,0,,,,,,1,0,1
+1177018,2019,South Africa,6,M du Preez,e219f17a,Nida Dar,ed840f44,S Luus,6d76bc23,0,0,0,0,0,,,,,,6,0,6
+1177018,2019,South Africa,6,M du Preez,e219f17a,Nida Dar,ed840f44,S Luus,6d76bc23,0,0,0,0,0,,,,,,0,0,0
+1177018,2019,South Africa,7,S Luus,6d76bc23,Fatima Sana,ea9c54de,M du Preez,e219f17a,0,0,0,0,0,,,,,,1,0,1
+1177018,2019,South Africa,7,M du Preez,e219f17a,Fatima Sana,ea9c54de,S Luus,6d76bc23,0,0,0,0,0,,,,,,2,0,2
+1177018,2019,South Africa,7,M du Preez,e219f17a,Fatima Sana,ea9c54de,S Luus,6d76bc23,0,0,0,0,0,,,,,,0,0,0
+1177018,2019,South Africa,7,M du Preez,e219f17a,Fatima Sana,ea9c54de,S Luus,6d76bc23,0,0,0,0,0,,,,,,0,0,0
+1177018,2019,South Africa,7,M du Preez,e219f17a,Fatima Sana,ea9c54de,S Luus,6d76bc23,0,0,0,0,0,,,,,,0,0,0
+1177018,2019,South Africa,7,M du Preez,e219f17a,Fatima Sana,ea9c54de,S Luus,6d76bc23,0,0,0,0,0,,,,,,1,0,1
+1177018,2019,South Africa,8,M du Preez,e219f17a,Umaima Sohail,821d7d46,S Luus,6d76bc23,1,0,0,0,0,,,,,,0,1,1
+1177018,2019,South Africa,8,M du Preez,e219f17a,Umaima Sohail,821d7d46,S Luus,6d76bc23,0,0,0,0,0,,,,,,0,0,0
+1177018,2019,South Africa,8,M du Preez,e219f17a,Umaima Sohail,821d7d46,S Luus,6d76bc23,0,0,0,0,0,,,,,,2,0,2
+1177018,2019,South Africa,8,M du Preez,e219f17a,Umaima Sohail,821d7d46,S Luus,6d76bc23,0,0,0,0,0,,,,,,2,0,2
+1177018,2019,South Africa,8,M du Preez,e219f17a,Umaima Sohail,821d7d46,S Luus,6d76bc23,0,0,0,0,0,,,,,,0,0,0
+1177018,2019,South Africa,8,M du Preez,e219f17a,Umaima Sohail,821d7d46,S Luus,6d76bc23,0,0,0,0,0,,,,,,4,0,4
+1177018,2019,South Africa,8,M du Preez,e219f17a,Umaima Sohail,821d7d46,S Luus,6d76bc23,0,0,0,0,0,,,,,,0,0,0
+1177018,2019,South Africa,9,S Luus,6d76bc23,Nashra Sandhu,c981d3c2,M du Preez,e219f17a,0,0,0,0,0,,,,,,1,0,1
+1177018,2019,South Africa,9,M du Preez,e219f17a,Nashra Sandhu,c981d3c2,S Luus,6d76bc23,0,0,0,0,1,M du Preez,e219f17a,Aliya Riaz,2904b4b6,caught,0,0,0
+1177018,2019,South Africa,9,CL Tryon,4d4605e6,Nashra Sandhu,c981d3c2,S Luus,6d76bc23,0,0,0,0,0,,,,,,0,0,0
+1177018,2019,South Africa,9,CL Tryon,4d4605e6,Nashra Sandhu,c981d3c2,S Luus,6d76bc23,0,0,0,0,0,,,,,,0,0,0
+1177018,2019,South Africa,9,CL Tryon,4d4605e6,Nashra Sandhu,c981d3c2,S Luus,6d76bc23,0,0,0,0,0,,,,,,1,0,1
+1177018,2019,South Africa,9,S Luus,6d76bc23,Nashra Sandhu,c981d3c2,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,1,0,1
+1177018,2019,South Africa,10,S Luus,6d76bc23,Fatima Sana,ea9c54de,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,1,0,1
+1177018,2019,South Africa,10,CL Tryon,4d4605e6,Fatima Sana,ea9c54de,S Luus,6d76bc23,0,0,0,0,0,,,,,,1,0,1
+1177018,2019,South Africa,10,S Luus,6d76bc23,Fatima Sana,ea9c54de,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,1,0,1
+1177018,2019,South Africa,10,CL Tryon,4d4605e6,Fatima Sana,ea9c54de,S Luus,6d76bc23,0,0,0,0,0,,,,,,0,0,0
+1177018,2019,South Africa,10,CL Tryon,4d4605e6,Fatima Sana,ea9c54de,S Luus,6d76bc23,0,0,0,0,0,,,,,,1,0,1
+1177018,2019,South Africa,10,S Luus,6d76bc23,Fatima Sana,ea9c54de,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,0,0,0
+1177018,2019,South Africa,11,CL Tryon,4d4605e6,Nida Dar,ed840f44,S Luus,6d76bc23,0,0,0,0,0,,,,,,1,0,1
+1177018,2019,South Africa,11,S Luus,6d76bc23,Nida Dar,ed840f44,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,0,0,0
+1177018,2019,South Africa,11,S Luus,6d76bc23,Nida Dar,ed840f44,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,0,0,0
+1177018,2019,South Africa,11,S Luus,6d76bc23,Nida Dar,ed840f44,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,0,0,0
+1177018,2019,South Africa,11,S Luus,6d76bc23,Nida Dar,ed840f44,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,1,0,1
+1177018,2019,South Africa,11,CL Tryon,4d4605e6,Nida Dar,ed840f44,S Luus,6d76bc23,0,0,0,0,0,,,,,,0,0,0
+1177018,2019,South Africa,12,S Luus,6d76bc23,Sana Mir,b287e7b1,CL Tryon,4d4605e6,0,0,0,0,1,S Luus,6d76bc23,,,bowled,0,0,0
+1177018,2019,South Africa,12,S Jafta,34304210,Sana Mir,b287e7b1,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,0,0,0
+1177018,2019,South Africa,12,S Jafta,34304210,Sana Mir,b287e7b1,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,2,0,2
+1177018,2019,South Africa,12,S Jafta,34304210,Sana Mir,b287e7b1,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,0,0,0
+1177018,2019,South Africa,12,S Jafta,34304210,Sana Mir,b287e7b1,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,3,0,3
+1177018,2019,South Africa,12,CL Tryon,4d4605e6,Sana Mir,b287e7b1,S Jafta,34304210,1,0,0,0,0,,,,,,0,1,1
+1177018,2019,South Africa,12,CL Tryon,4d4605e6,Sana Mir,b287e7b1,S Jafta,34304210,0,0,0,0,0,,,,,,1,0,1
+1177018,2019,South Africa,13,CL Tryon,4d4605e6,Aliya Riaz,2904b4b6,S Jafta,34304210,0,0,0,0,0,,,,,,2,0,2
+1177018,2019,South Africa,13,CL Tryon,4d4605e6,Aliya Riaz,2904b4b6,S Jafta,34304210,0,0,0,0,0,,,,,,1,0,1
+1177018,2019,South Africa,13,S Jafta,34304210,Aliya Riaz,2904b4b6,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,0,0,0
+1177018,2019,South Africa,13,S Jafta,34304210,Aliya Riaz,2904b4b6,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,1,0,1
+1177018,2019,South Africa,13,CL Tryon,4d4605e6,Aliya Riaz,2904b4b6,S Jafta,34304210,0,0,0,0,0,,,,,,1,0,1
+1177018,2019,South Africa,13,S Jafta,34304210,Aliya Riaz,2904b4b6,CL Tryon,4d4605e6,0,0,0,0,1,S Jafta,34304210,Sidra Nawaz,ca3ded6f,caught,0,0,0
+1177018,2019,South Africa,14,CL Tryon,4d4605e6,Nashra Sandhu,c981d3c2,S Ismail,108c4c09,0,0,0,0,0,,,,,,4,0,4
+1177018,2019,South Africa,14,CL Tryon,4d4605e6,Nashra Sandhu,c981d3c2,S Ismail,108c4c09,0,0,0,0,0,,,,,,1,0,1
+1177018,2019,South Africa,14,S Ismail,108c4c09,Nashra Sandhu,c981d3c2,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,0,0,0
+1177018,2019,South Africa,14,S Ismail,108c4c09,Nashra Sandhu,c981d3c2,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,4,0,4
+1177018,2019,South Africa,14,S Ismail,108c4c09,Nashra Sandhu,c981d3c2,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,0,0,0
+1177018,2019,South Africa,14,S Ismail,108c4c09,Nashra Sandhu,c981d3c2,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,0,0,0
+1177018,2019,South Africa,15,CL Tryon,4d4605e6,Fatima Sana,ea9c54de,S Ismail,108c4c09,0,0,0,0,0,,,,,,2,0,2
+1177018,2019,South Africa,15,CL Tryon,4d4605e6,Fatima Sana,ea9c54de,S Ismail,108c4c09,0,0,0,0,0,,,,,,1,0,1
+1177018,2019,South Africa,15,S Ismail,108c4c09,Fatima Sana,ea9c54de,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,4,0,4
+1177018,2019,South Africa,15,S Ismail,108c4c09,Fatima Sana,ea9c54de,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,1,0,1
+1177018,2019,South Africa,15,CL Tryon,4d4605e6,Fatima Sana,ea9c54de,S Ismail,108c4c09,0,0,0,0,0,,,,,,2,0,2
+1177018,2019,South Africa,15,CL Tryon,4d4605e6,Fatima Sana,ea9c54de,S Ismail,108c4c09,0,0,0,0,0,,,,,,0,0,0
+1177018,2019,South Africa,16,S Ismail,108c4c09,Sana Mir,b287e7b1,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,0,0,0
+1177018,2019,South Africa,16,S Ismail,108c4c09,Sana Mir,b287e7b1,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,0,0,0
+1177018,2019,South Africa,16,S Ismail,108c4c09,Sana Mir,b287e7b1,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,1,0,1
+1177018,2019,South Africa,16,CL Tryon,4d4605e6,Sana Mir,b287e7b1,S Ismail,108c4c09,0,0,0,0,0,,,,,,1,0,1
+1177018,2019,South Africa,16,S Ismail,108c4c09,Sana Mir,b287e7b1,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,1,0,1
+1177018,2019,South Africa,16,CL Tryon,4d4605e6,Sana Mir,b287e7b1,S Ismail,108c4c09,0,0,0,0,0,,,,,,2,0,2
+1177018,2019,South Africa,17,S Ismail,108c4c09,Aliya Riaz,2904b4b6,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,0,0,0
+1177018,2019,South Africa,17,S Ismail,108c4c09,Aliya Riaz,2904b4b6,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,4,0,4
+1177018,2019,South Africa,17,S Ismail,108c4c09,Aliya Riaz,2904b4b6,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,1,0,1
+1177018,2019,South Africa,17,CL Tryon,4d4605e6,Aliya Riaz,2904b4b6,S Ismail,108c4c09,0,0,0,0,0,,,,,,0,0,0
+1177018,2019,South Africa,17,CL Tryon,4d4605e6,Aliya Riaz,2904b4b6,S Ismail,108c4c09,0,0,0,0,0,,,,,,4,0,4
+1177018,2019,South Africa,17,CL Tryon,4d4605e6,Aliya Riaz,2904b4b6,S Ismail,108c4c09,0,0,0,0,0,,,,,,1,0,1
+1177018,2019,South Africa,18,CL Tryon,4d4605e6,Nashra Sandhu,c981d3c2,S Ismail,108c4c09,1,0,0,0,0,,,,,,0,1,1
+1177018,2019,South Africa,18,CL Tryon,4d4605e6,Nashra Sandhu,c981d3c2,S Ismail,108c4c09,0,0,0,0,0,,,,,,1,0,1
+1177018,2019,South Africa,18,S Ismail,108c4c09,Nashra Sandhu,c981d3c2,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,1,0,1
+1177018,2019,South Africa,18,CL Tryon,4d4605e6,Nashra Sandhu,c981d3c2,S Ismail,108c4c09,0,0,0,0,0,,,,,,4,0,4
+1177018,2019,South Africa,18,CL Tryon,4d4605e6,Nashra Sandhu,c981d3c2,S Ismail,108c4c09,0,0,0,0,0,,,,,,0,0,0
+1177018,2019,South Africa,18,CL Tryon,4d4605e6,Nashra Sandhu,c981d3c2,S Ismail,108c4c09,0,0,0,0,0,,,,,,2,0,2
+1177018,2019,South Africa,18,CL Tryon,4d4605e6,Nashra Sandhu,c981d3c2,S Ismail,108c4c09,0,0,0,0,0,,,,,,1,0,1
+1177018,2019,South Africa,19,CL Tryon,4d4605e6,Nida Dar,ed840f44,S Ismail,108c4c09,1,0,0,0,0,,,,,,0,1,1
+1177018,2019,South Africa,19,CL Tryon,4d4605e6,Nida Dar,ed840f44,S Ismail,108c4c09,0,0,0,0,0,,,,,,2,0,2
+1177018,2019,South Africa,19,CL Tryon,4d4605e6,Nida Dar,ed840f44,S Ismail,108c4c09,0,0,0,0,0,,,,,,6,0,6
+1177018,2019,South Africa,19,CL Tryon,4d4605e6,Nida Dar,ed840f44,S Ismail,108c4c09,1,0,0,0,0,,,,,,0,1,1
+1177018,2019,South Africa,19,CL Tryon,4d4605e6,Nida Dar,ed840f44,S Ismail,108c4c09,0,0,0,0,1,CL Tryon,4d4605e6,Fatima Sana,ea9c54de,caught,0,0,0
+1177018,2019,South Africa,19,S Ismail,108c4c09,Nida Dar,ed840f44,M Daniels,16443d2f,0,0,0,0,0,,,,,,2,0,2
+1177018,2019,South Africa,19,S Ismail,108c4c09,Nida Dar,ed840f44,M Daniels,16443d2f,0,0,0,0,0,,,,,,1,0,1
+1177018,2019,South Africa,19,M Daniels,16443d2f,Nida Dar,ed840f44,S Ismail,108c4c09,0,0,0,0,0,,,,,,1,0,1
+1177018,2019,Pakistan,0,Umaima Sohail,821d7d46,M Kapp,63e3b6b3,Javeria Rauf,bf8c8572,0,0,0,0,0,,,,,,1,0,1
+1177018,2019,Pakistan,0,Javeria Rauf,bf8c8572,M Kapp,63e3b6b3,Umaima Sohail,821d7d46,0,0,0,0,0,,,,,,0,0,0
+1177018,2019,Pakistan,0,Javeria Rauf,bf8c8572,M Kapp,63e3b6b3,Umaima Sohail,821d7d46,0,0,0,0,1,Javeria Rauf,bf8c8572,S Jafta,34304210,caught,0,0,0
+1177018,2019,Pakistan,0,Bismah Maroof,3b770527,M Kapp,63e3b6b3,Umaima Sohail,821d7d46,0,0,0,0,0,,,,,,0,0,0
+1177018,2019,Pakistan,0,Bismah Maroof,3b770527,M Kapp,63e3b6b3,Umaima Sohail,821d7d46,0,0,0,0,0,,,,,,0,0,0
+1177018,2019,Pakistan,0,Bismah Maroof,3b770527,M Kapp,63e3b6b3,Umaima Sohail,821d7d46,0,0,0,0,0,,,,,,0,0,0
+1177018,2019,Pakistan,1,Umaima Sohail,821d7d46,S Ismail,108c4c09,Bismah Maroof,3b770527,0,0,0,0,0,,,,,,0,0,0
+1177018,2019,Pakistan,1,Umaima Sohail,821d7d46,S Ismail,108c4c09,Bismah Maroof,3b770527,0,0,0,0,0,,,,,,0,0,0
+1177018,2019,Pakistan,1,Umaima Sohail,821d7d46,S Ismail,108c4c09,Bismah Maroof,3b770527,0,0,0,0,0,,,,,,1,0,1
+1177018,2019,Pakistan,1,Bismah Maroof,3b770527,S Ismail,108c4c09,Umaima Sohail,821d7d46,0,0,0,0,0,,,,,,0,0,0
+1177018,2019,Pakistan,1,Bismah Maroof,3b770527,S Ismail,108c4c09,Umaima Sohail,821d7d46,0,0,0,0,0,,,,,,2,0,2
+1177018,2019,Pakistan,1,Bismah Maroof,3b770527,S Ismail,108c4c09,Umaima Sohail,821d7d46,0,0,0,0,0,,,,,,1,0,1
+1177018,2019,Pakistan,2,Bismah Maroof,3b770527,M Klaas,ce85fcaf,Umaima Sohail,821d7d46,0,0,0,0,0,,,,,,4,0,4
+1177018,2019,Pakistan,2,Bismah Maroof,3b770527,M Klaas,ce85fcaf,Umaima Sohail,821d7d46,0,0,0,0,0,,,,,,0,0,0
+1177018,2019,Pakistan,2,Bismah Maroof,3b770527,M Klaas,ce85fcaf,Umaima Sohail,821d7d46,0,0,0,0,0,,,,,,4,0,4
+1177018,2019,Pakistan,2,Bismah Maroof,3b770527,M Klaas,ce85fcaf,Umaima Sohail,821d7d46,0,0,0,0,0,,,,,,1,0,1
+1177018,2019,Pakistan,2,Umaima Sohail,821d7d46,M Klaas,ce85fcaf,Bismah Maroof,3b770527,0,0,0,0,0,,,,,,0,0,0
+1177018,2019,Pakistan,2,Umaima Sohail,821d7d46,M Klaas,ce85fcaf,Bismah Maroof,3b770527,0,0,0,0,0,,,,,,1,0,1
+1177018,2019,Pakistan,3,Umaima Sohail,821d7d46,M Daniels,16443d2f,Bismah Maroof,3b770527,0,0,0,0,0,,,,,,1,0,1
+1177018,2019,Pakistan,3,Bismah Maroof,3b770527,M Daniels,16443d2f,Umaima Sohail,821d7d46,0,0,0,0,0,,,,,,0,0,0
+1177018,2019,Pakistan,3,Bismah Maroof,3b770527,M Daniels,16443d2f,Umaima Sohail,821d7d46,0,0,0,0,0,,,,,,0,0,0
+1177018,2019,Pakistan,3,Bismah Maroof,3b770527,M Daniels,16443d2f,Umaima Sohail,821d7d46,0,0,0,0,0,,,,,,2,0,2
+1177018,2019,Pakistan,3,Bismah Maroof,3b770527,M Daniels,16443d2f,Umaima Sohail,821d7d46,0,0,0,0,0,,,,,,2,0,2
+1177018,2019,Pakistan,3,Bismah Maroof,3b770527,M Daniels,16443d2f,Umaima Sohail,821d7d46,0,0,0,0,0,,,,,,0,0,0
+1177018,2019,Pakistan,4,Umaima Sohail,821d7d46,M Kapp,63e3b6b3,Bismah Maroof,3b770527,0,0,0,0,0,,,,,,6,0,6
+1177018,2019,Pakistan,4,Umaima Sohail,821d7d46,M Kapp,63e3b6b3,Bismah Maroof,3b770527,0,0,1,0,0,,,,,,0,1,1
+1177018,2019,Pakistan,4,Bismah Maroof,3b770527,M Kapp,63e3b6b3,Umaima Sohail,821d7d46,0,0,0,0,0,,,,,,0,0,0
+1177018,2019,Pakistan,4,Bismah Maroof,3b770527,M Kapp,63e3b6b3,Umaima Sohail,821d7d46,0,0,0,0,0,,,,,,0,0,0
+1177018,2019,Pakistan,4,Bismah Maroof,3b770527,M Kapp,63e3b6b3,Umaima Sohail,821d7d46,0,0,0,0,0,,,,,,2,0,2
+1177018,2019,Pakistan,4,Bismah Maroof,3b770527,M Kapp,63e3b6b3,Umaima Sohail,821d7d46,0,0,0,0,0,,,,,,0,0,0
+1177018,2019,Pakistan,5,Umaima Sohail,821d7d46,TS Sekhukhune,6e28e586,Bismah Maroof,3b770527,0,0,0,0,0,,,,,,0,0,0
+1177018,2019,Pakistan,5,Umaima Sohail,821d7d46,TS Sekhukhune,6e28e586,Bismah Maroof,3b770527,0,0,0,0,1,Umaima Sohail,821d7d46,,,caught and bowled,0,0,0
+1177018,2019,Pakistan,5,Nida Dar,ed840f44,TS Sekhukhune,6e28e586,Bismah Maroof,3b770527,1,0,0,0,0,,,,,,0,1,1
+1177018,2019,Pakistan,5,Nida Dar,ed840f44,TS Sekhukhune,6e28e586,Bismah Maroof,3b770527,0,0,0,0,0,,,,,,0,0,0
+1177018,2019,Pakistan,5,Nida Dar,ed840f44,TS Sekhukhune,6e28e586,Bismah Maroof,3b770527,0,0,0,0,0,,,,,,4,0,4
+1177018,2019,Pakistan,5,Nida Dar,ed840f44,TS Sekhukhune,6e28e586,Bismah Maroof,3b770527,0,0,0,0,0,,,,,,0,0,0
+1177018,2019,Pakistan,5,Nida Dar,ed840f44,TS Sekhukhune,6e28e586,Bismah Maroof,3b770527,0,0,0,0,0,,,,,,0,0,0
+1177018,2019,Pakistan,6,Bismah Maroof,3b770527,M Klaas,ce85fcaf,Nida Dar,ed840f44,0,0,0,0,0,,,,,,0,0,0
+1177018,2019,Pakistan,6,Bismah Maroof,3b770527,M Klaas,ce85fcaf,Nida Dar,ed840f44,0,0,0,0,0,,,,,,1,0,1
+1177018,2019,Pakistan,6,Nida Dar,ed840f44,M Klaas,ce85fcaf,Bismah Maroof,3b770527,0,0,0,0,0,,,,,,0,0,0
+1177018,2019,Pakistan,6,Nida Dar,ed840f44,M Klaas,ce85fcaf,Bismah Maroof,3b770527,0,0,0,0,0,,,,,,0,0,0
+1177018,2019,Pakistan,6,Nida Dar,ed840f44,M Klaas,ce85fcaf,Bismah Maroof,3b770527,0,0,0,0,0,,,,,,4,0,4
+1177018,2019,Pakistan,6,Nida Dar,ed840f44,M Klaas,ce85fcaf,Bismah Maroof,3b770527,0,0,0,0,0,,,,,,1,0,1
+1177018,2019,Pakistan,7,Nida Dar,ed840f44,S Ismail,108c4c09,Bismah Maroof,3b770527,0,0,0,0,0,,,,,,1,0,1
+1177018,2019,Pakistan,7,Bismah Maroof,3b770527,S Ismail,108c4c09,Nida Dar,ed840f44,0,0,0,0,0,,,,,,0,0,0
+1177018,2019,Pakistan,7,Bismah Maroof,3b770527,S Ismail,108c4c09,Nida Dar,ed840f44,0,0,0,0,0,,,,,,1,0,1
+1177018,2019,Pakistan,7,Nida Dar,ed840f44,S Ismail,108c4c09,Bismah Maroof,3b770527,0,0,0,0,0,,,,,,1,0,1
+1177018,2019,Pakistan,7,Bismah Maroof,3b770527,S Ismail,108c4c09,Nida Dar,ed840f44,0,0,0,0,0,,,,,,0,0,0
+1177018,2019,Pakistan,7,Bismah Maroof,3b770527,S Ismail,108c4c09,Nida Dar,ed840f44,0,0,0,0,0,,,,,,1,0,1
+1177018,2019,Pakistan,8,Bismah Maroof,3b770527,S Luus,6d76bc23,Nida Dar,ed840f44,0,0,0,0,0,,,,,,4,0,4
+1177018,2019,Pakistan,8,Bismah Maroof,3b770527,S Luus,6d76bc23,Nida Dar,ed840f44,0,0,0,0,0,,,,,,0,0,0
+1177018,2019,Pakistan,8,Bismah Maroof,3b770527,S Luus,6d76bc23,Nida Dar,ed840f44,0,0,0,0,0,,,,,,0,0,0
+1177018,2019,Pakistan,8,Bismah Maroof,3b770527,S Luus,6d76bc23,Nida Dar,ed840f44,0,0,0,0,0,,,,,,1,0,1
+1177018,2019,Pakistan,8,Nida Dar,ed840f44,S Luus,6d76bc23,Bismah Maroof,3b770527,0,0,0,0,0,,,,,,1,0,1
+1177018,2019,Pakistan,8,Bismah Maroof,3b770527,S Luus,6d76bc23,Nida Dar,ed840f44,0,0,0,0,0,,,,,,1,0,1
+1177018,2019,Pakistan,9,Bismah Maroof,3b770527,M Daniels,16443d2f,Nida Dar,ed840f44,0,0,0,0,0,,,,,,1,0,1
+1177018,2019,Pakistan,9,Nida Dar,ed840f44,M Daniels,16443d2f,Bismah Maroof,3b770527,0,0,0,0,0,,,,,,0,0,0
+1177018,2019,Pakistan,9,Nida Dar,ed840f44,M Daniels,16443d2f,Bismah Maroof,3b770527,0,0,0,0,0,,,,,,0,0,0
+1177018,2019,Pakistan,9,Nida Dar,ed840f44,M Daniels,16443d2f,Bismah Maroof,3b770527,0,0,0,0,0,,,,,,0,0,0
+1177018,2019,Pakistan,9,Nida Dar,ed840f44,M Daniels,16443d2f,Bismah Maroof,3b770527,0,0,0,0,0,,,,,,0,0,0
+1177018,2019,Pakistan,9,Nida Dar,ed840f44,M Daniels,16443d2f,Bismah Maroof,3b770527,0,0,0,0,0,,,,,,4,0,4
+1177018,2019,Pakistan,10,Bismah Maroof,3b770527,S Luus,6d76bc23,Nida Dar,ed840f44,0,0,0,0,0,,,,,,1,0,1
+1177018,2019,Pakistan,10,Nida Dar,ed840f44,S Luus,6d76bc23,Bismah Maroof,3b770527,0,0,0,0,0,,,,,,2,0,2
+1177018,2019,Pakistan,10,Nida Dar,ed840f44,S Luus,6d76bc23,Bismah Maroof,3b770527,0,0,0,0,0,,,,,,4,0,4
+1177018,2019,Pakistan,10,Nida Dar,ed840f44,S Luus,6d76bc23,Bismah Maroof,3b770527,0,0,0,0,0,,,,,,1,0,1
+1177018,2019,Pakistan,10,Bismah Maroof,3b770527,S Luus,6d76bc23,Nida Dar,ed840f44,0,0,0,0,0,,,,,,1,0,1
+1177018,2019,Pakistan,10,Nida Dar,ed840f44,S Luus,6d76bc23,Bismah Maroof,3b770527,0,0,0,0,0,,,,,,4,0,4
+1177018,2019,Pakistan,11,Bismah Maroof,3b770527,TS Sekhukhune,6e28e586,Nida Dar,ed840f44,0,0,0,0,0,,,,,,2,0,2
+1177018,2019,Pakistan,11,Bismah Maroof,3b770527,TS Sekhukhune,6e28e586,Nida Dar,ed840f44,0,0,0,0,0,,,,,,2,0,2
+1177018,2019,Pakistan,11,Bismah Maroof,3b770527,TS Sekhukhune,6e28e586,Nida Dar,ed840f44,0,0,0,0,0,,,,,,1,0,1
+1177018,2019,Pakistan,11,Nida Dar,ed840f44,TS Sekhukhune,6e28e586,Bismah Maroof,3b770527,0,0,0,0,0,,,,,,6,0,6
+1177018,2019,Pakistan,11,Nida Dar,ed840f44,TS Sekhukhune,6e28e586,Bismah Maroof,3b770527,0,0,0,0,0,,,,,,2,0,2
+1177018,2019,Pakistan,11,Nida Dar,ed840f44,TS Sekhukhune,6e28e586,Bismah Maroof,3b770527,0,0,0,0,0,,,,,,0,0,0
+1177018,2019,Pakistan,12,Bismah Maroof,3b770527,CL Tryon,4d4605e6,Nida Dar,ed840f44,0,0,0,0,0,,,,,,2,0,2
+1177018,2019,Pakistan,12,Bismah Maroof,3b770527,CL Tryon,4d4605e6,Nida Dar,ed840f44,0,0,0,0,0,,,,,,1,0,1
+1177018,2019,Pakistan,12,Nida Dar,ed840f44,CL Tryon,4d4605e6,Bismah Maroof,3b770527,0,0,0,0,0,,,,,,0,0,0
+1177018,2019,Pakistan,12,Nida Dar,ed840f44,CL Tryon,4d4605e6,Bismah Maroof,3b770527,0,0,0,0,0,,,,,,1,0,1
+1177018,2019,Pakistan,12,Bismah Maroof,3b770527,CL Tryon,4d4605e6,Nida Dar,ed840f44,0,0,0,0,0,,,,,,2,0,2
+1177018,2019,Pakistan,12,Bismah Maroof,3b770527,CL Tryon,4d4605e6,Nida Dar,ed840f44,0,0,0,0,0,,,,,,2,0,2
+1177018,2019,Pakistan,13,Nida Dar,ed840f44,S Ismail,108c4c09,Bismah Maroof,3b770527,0,0,0,0,0,,,,,,1,0,1
+1177018,2019,Pakistan,13,Bismah Maroof,3b770527,S Ismail,108c4c09,Nida Dar,ed840f44,0,0,0,0,0,,,,,,0,0,0
+1177018,2019,Pakistan,13,Bismah Maroof,3b770527,S Ismail,108c4c09,Nida Dar,ed840f44,0,0,0,0,0,,,,,,2,0,2
+1177018,2019,Pakistan,13,Bismah Maroof,3b770527,S Ismail,108c4c09,Nida Dar,ed840f44,0,0,0,0,0,,,,,,1,0,1
+1177018,2019,Pakistan,13,Nida Dar,ed840f44,S Ismail,108c4c09,Bismah Maroof,3b770527,0,0,0,0,0,,,,,,0,0,0
+1177018,2019,Pakistan,13,Nida Dar,ed840f44,S Ismail,108c4c09,Bismah Maroof,3b770527,0,0,0,0,0,,,,,,4,0,4
+1177018,2019,Pakistan,14,Bismah Maroof,3b770527,M Kapp,63e3b6b3,Nida Dar,ed840f44,0,0,0,0,0,,,,,,1,0,1
+1177018,2019,Pakistan,14,Nida Dar,ed840f44,M Kapp,63e3b6b3,Bismah Maroof,3b770527,1,0,0,0,0,,,,,,0,1,1
+1177018,2019,Pakistan,14,Nida Dar,ed840f44,M Kapp,63e3b6b3,Bismah Maroof,3b770527,0,0,0,0,0,,,,,,0,0,0
+1177018,2019,Pakistan,14,Nida Dar,ed840f44,M Kapp,63e3b6b3,Bismah Maroof,3b770527,0,0,0,0,0,,,,,,1,0,1
+1177018,2019,Pakistan,14,Bismah Maroof,3b770527,M Kapp,63e3b6b3,Nida Dar,ed840f44,0,0,0,0,0,,,,,,1,0,1
+1177018,2019,Pakistan,14,Nida Dar,ed840f44,M Kapp,63e3b6b3,Bismah Maroof,3b770527,0,0,0,0,0,,,,,,4,0,4
+1177018,2019,Pakistan,14,Nida Dar,ed840f44,M Kapp,63e3b6b3,Bismah Maroof,3b770527,0,0,0,0,0,,,,,,0,0,0
+1177018,2019,Pakistan,15,Bismah Maroof,3b770527,M Daniels,16443d2f,Nida Dar,ed840f44,0,0,0,0,0,,,,,,1,0,1
+1177018,2019,Pakistan,15,Nida Dar,ed840f44,M Daniels,16443d2f,Bismah Maroof,3b770527,0,0,0,0,0,,,,,,0,0,0
+1177018,2019,Pakistan,15,Nida Dar,ed840f44,M Daniels,16443d2f,Bismah Maroof,3b770527,0,0,0,0,0,,,,,,6,0,6
+1177018,2019,Pakistan,15,Nida Dar,ed840f44,M Daniels,16443d2f,Bismah Maroof,3b770527,0,0,0,0,0,,,,,,0,0,0
+1177018,2019,Pakistan,15,Nida Dar,ed840f44,M Daniels,16443d2f,Bismah Maroof,3b770527,0,0,0,0,0,,,,,,1,0,1
+1177018,2019,Pakistan,15,Bismah Maroof,3b770527,M Daniels,16443d2f,Nida Dar,ed840f44,0,0,0,0,0,,,,,,4,0,4
+1177018,2019,Pakistan,16,Nida Dar,ed840f44,M Klaas,ce85fcaf,Bismah Maroof,3b770527,0,0,0,0,1,Nida Dar,ed840f44,,,bowled,0,0,0
+1177018,2019,Pakistan,16,Iram Javed,dc596fac,M Klaas,ce85fcaf,Bismah Maroof,3b770527,0,0,0,0,0,,,,,,0,0,0
+1177018,2019,Pakistan,16,Iram Javed,dc596fac,M Klaas,ce85fcaf,Bismah Maroof,3b770527,0,0,0,0,0,,,,,,0,0,0
+1177018,2019,Pakistan,16,Iram Javed,dc596fac,M Klaas,ce85fcaf,Bismah Maroof,3b770527,0,0,0,0,0,,,,,,0,0,0
+1177018,2019,Pakistan,16,Iram Javed,dc596fac,M Klaas,ce85fcaf,Bismah Maroof,3b770527,0,0,0,0,0,,,,,,0,0,0
+1177018,2019,Pakistan,16,Iram Javed,dc596fac,M Klaas,ce85fcaf,Bismah Maroof,3b770527,0,0,0,0,0,,,,,,0,0,0
+1177018,2019,Pakistan,17,Bismah Maroof,3b770527,M Daniels,16443d2f,Iram Javed,dc596fac,0,0,0,0,0,,,,,,1,0,1
+1177018,2019,Pakistan,17,Iram Javed,dc596fac,M Daniels,16443d2f,Bismah Maroof,3b770527,0,0,0,0,0,,,,,,0,0,0
+1177018,2019,Pakistan,17,Iram Javed,dc596fac,M Daniels,16443d2f,Bismah Maroof,3b770527,0,0,0,0,0,,,,,,0,0,0
+1177018,2019,Pakistan,17,Iram Javed,dc596fac,M Daniels,16443d2f,Bismah Maroof,3b770527,0,0,0,0,0,,,,,,0,0,0
+1177018,2019,Pakistan,17,Iram Javed,dc596fac,M Daniels,16443d2f,Bismah Maroof,3b770527,0,0,0,0,0,,,,,,0,0,0
+1177018,2019,Pakistan,17,Iram Javed,dc596fac,M Daniels,16443d2f,Bismah Maroof,3b770527,0,0,0,0,0,,,,,,1,0,1

@@ -1,0 +1,72 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1275104,2021,Mozambique,0,O Matsolo,3c4a62c4,I Muhawenimana,2f37396f,C Murrombe,2cf802eb,1,0,0,0,0,,,,,,0,1,1
+1275104,2021,Mozambique,0,O Matsolo,3c4a62c4,I Muhawenimana,2f37396f,C Murrombe,2cf802eb,0,0,0,0,1,O Matsolo,3c4a62c4,,,bowled,0,0,0
+1275104,2021,Mozambique,0,P Cuinica,efca38df,I Muhawenimana,2f37396f,C Murrombe,2cf802eb,0,0,0,0,0,,,,,,0,0,0
+1275104,2021,Mozambique,0,P Cuinica,efca38df,I Muhawenimana,2f37396f,C Murrombe,2cf802eb,0,0,0,0,0,,,,,,0,0,0
+1275104,2021,Mozambique,0,P Cuinica,efca38df,I Muhawenimana,2f37396f,C Murrombe,2cf802eb,0,0,1,0,0,,,,,,0,1,1
+1275104,2021,Mozambique,0,C Murrombe,2cf802eb,I Muhawenimana,2f37396f,P Cuinica,efca38df,0,0,0,0,0,,,,,,0,0,0
+1275104,2021,Mozambique,0,C Murrombe,2cf802eb,I Muhawenimana,2f37396f,P Cuinica,efca38df,0,0,0,0,0,,,,,,0,0,0
+1275104,2021,Mozambique,1,P Cuinica,efca38df,B Murekatete,2d4317da,C Murrombe,2cf802eb,2,0,0,0,0,,,,,,0,2,2
+1275104,2021,Mozambique,1,C Murrombe,2cf802eb,B Murekatete,2d4317da,P Cuinica,efca38df,0,0,0,0,0,,,,,,0,0,0
+1275104,2021,Mozambique,1,C Murrombe,2cf802eb,B Murekatete,2d4317da,P Cuinica,efca38df,0,0,0,0,0,,,,,,0,0,0
+1275104,2021,Mozambique,1,C Murrombe,2cf802eb,B Murekatete,2d4317da,P Cuinica,efca38df,0,0,0,0,1,C Murrombe,2cf802eb,,,caught and bowled,0,0,0
+1275104,2021,Mozambique,1,C Magaia,bb4d1237,B Murekatete,2d4317da,P Cuinica,efca38df,1,0,0,0,0,,,,,,0,1,1
+1275104,2021,Mozambique,1,C Magaia,bb4d1237,B Murekatete,2d4317da,P Cuinica,efca38df,0,0,0,0,0,,,,,,0,0,0
+1275104,2021,Mozambique,1,C Magaia,bb4d1237,B Murekatete,2d4317da,P Cuinica,efca38df,0,0,0,0,0,,,,,,0,0,0
+1275104,2021,Mozambique,1,C Magaia,bb4d1237,B Murekatete,2d4317da,P Cuinica,efca38df,0,0,0,0,0,,,,,,0,0,0
+1275104,2021,Mozambique,2,P Cuinica,efca38df,I Muhawenimana,2f37396f,C Magaia,bb4d1237,0,0,0,0,0,,,,,,0,0,0
+1275104,2021,Mozambique,2,P Cuinica,efca38df,I Muhawenimana,2f37396f,C Magaia,bb4d1237,0,0,0,0,0,,,,,,0,0,0
+1275104,2021,Mozambique,2,P Cuinica,efca38df,I Muhawenimana,2f37396f,C Magaia,bb4d1237,0,0,0,0,0,,,,,,1,0,1
+1275104,2021,Mozambique,2,C Magaia,bb4d1237,I Muhawenimana,2f37396f,P Cuinica,efca38df,0,0,0,0,1,C Magaia,bb4d1237,,,lbw,0,0,0
+1275104,2021,Mozambique,2,TJE Chiracheque,078c4e60,I Muhawenimana,2f37396f,P Cuinica,efca38df,0,1,0,0,0,,,,,,0,1,1
+1275104,2021,Mozambique,2,TJE Chiracheque,078c4e60,I Muhawenimana,2f37396f,P Cuinica,efca38df,0,0,0,0,0,,,,,,0,0,0
+1275104,2021,Mozambique,2,TJE Chiracheque,078c4e60,I Muhawenimana,2f37396f,P Cuinica,efca38df,0,1,0,0,0,,,,,,0,1,1
+1275104,2021,Mozambique,2,TJE Chiracheque,078c4e60,I Muhawenimana,2f37396f,P Cuinica,efca38df,0,0,0,0,0,,,,,,0,0,0
+1275104,2021,Mozambique,3,P Cuinica,efca38df,B Murekatete,2d4317da,TJE Chiracheque,078c4e60,0,0,0,0,0,,,,,,0,0,0
+1275104,2021,Mozambique,3,P Cuinica,efca38df,B Murekatete,2d4317da,TJE Chiracheque,078c4e60,0,0,0,0,1,P Cuinica,efca38df,,,bowled,0,0,0
+1275104,2021,Mozambique,3,A Cossa,ef160d73,B Murekatete,2d4317da,TJE Chiracheque,078c4e60,0,0,0,0,0,,,,,,0,0,0
+1275104,2021,Mozambique,3,A Cossa,ef160d73,B Murekatete,2d4317da,TJE Chiracheque,078c4e60,0,0,0,0,0,,,,,,0,0,0
+1275104,2021,Mozambique,3,A Cossa,ef160d73,B Murekatete,2d4317da,TJE Chiracheque,078c4e60,0,0,0,0,0,,,,,,1,0,1
+1275104,2021,Mozambique,3,TJE Chiracheque,078c4e60,B Murekatete,2d4317da,A Cossa,ef160d73,0,0,0,0,0,,,,,,0,0,0
+1275104,2021,Mozambique,4,A Cossa,ef160d73,I Muhawenimana,2f37396f,TJE Chiracheque,078c4e60,0,0,0,0,0,,,,,,0,0,0
+1275104,2021,Mozambique,4,A Cossa,ef160d73,I Muhawenimana,2f37396f,TJE Chiracheque,078c4e60,0,0,0,0,0,,,,,,0,0,0
+1275104,2021,Mozambique,4,A Cossa,ef160d73,I Muhawenimana,2f37396f,TJE Chiracheque,078c4e60,0,0,0,0,1,A Cossa,ef160d73,,,bowled,0,0,0
+1275104,2021,Mozambique,4,I Chuma,b1021056,I Muhawenimana,2f37396f,TJE Chiracheque,078c4e60,0,0,0,0,0,,,,,,1,0,1
+1275104,2021,Mozambique,4,TJE Chiracheque,078c4e60,I Muhawenimana,2f37396f,I Chuma,b1021056,1,0,0,0,0,,,,,,0,1,1
+1275104,2021,Mozambique,4,TJE Chiracheque,078c4e60,I Muhawenimana,2f37396f,I Chuma,b1021056,0,0,0,0,1,TJE Chiracheque,078c4e60,,,lbw,0,0,0
+1275104,2021,Mozambique,4,R Haiong,2832fbba,I Muhawenimana,2f37396f,I Chuma,b1021056,0,0,0,0,1,I Chuma,b1021056,G Ishimwe,b5ae57ee,run out,0,0,0
+1275104,2021,Mozambique,5,R Haiong,2832fbba,B Murekatete,2d4317da,OC Moiane,b74a1124,0,0,0,0,0,,,,,,0,0,0
+1275104,2021,Mozambique,5,R Haiong,2832fbba,B Murekatete,2d4317da,OC Moiane,b74a1124,0,0,0,0,0,,,,,,0,0,0
+1275104,2021,Mozambique,5,R Haiong,2832fbba,B Murekatete,2d4317da,OC Moiane,b74a1124,0,0,0,0,0,,,,,,1,0,1
+1275104,2021,Mozambique,5,OC Moiane,b74a1124,B Murekatete,2d4317da,R Haiong,2832fbba,0,0,0,0,0,,,,,,0,0,0
+1275104,2021,Mozambique,5,OC Moiane,b74a1124,B Murekatete,2d4317da,R Haiong,2832fbba,1,0,0,0,0,,,,,,0,1,1
+1275104,2021,Mozambique,5,OC Moiane,b74a1124,B Murekatete,2d4317da,R Haiong,2832fbba,0,0,0,0,0,,,,,,2,0,2
+1275104,2021,Mozambique,5,OC Moiane,b74a1124,B Murekatete,2d4317da,R Haiong,2832fbba,0,0,0,0,1,OC Moiane,b74a1124,S Uwera,1ef174b8,run out,1,0,1
+1275104,2021,Mozambique,6,R Haiong,2832fbba,H Ishimwe,ffa296f7,HR Ponja,6114eaf4,0,0,0,0,1,R Haiong,2832fbba,S Uwera,1ef174b8,caught,0,0,0
+1275104,2021,Mozambique,6,HR Ponja,6114eaf4,H Ishimwe,ffa296f7,AL Mangue,7e8cd083,0,0,0,0,0,,,,,,0,0,0
+1275104,2021,Mozambique,6,HR Ponja,6114eaf4,H Ishimwe,ffa296f7,AL Mangue,7e8cd083,0,0,0,0,0,,,,,,0,0,0
+1275104,2021,Mozambique,6,HR Ponja,6114eaf4,H Ishimwe,ffa296f7,AL Mangue,7e8cd083,0,0,0,0,0,,,,,,0,0,0
+1275104,2021,Mozambique,6,HR Ponja,6114eaf4,H Ishimwe,ffa296f7,AL Mangue,7e8cd083,0,0,0,0,0,,,,,,0,0,0
+1275104,2021,Mozambique,6,HR Ponja,6114eaf4,H Ishimwe,ffa296f7,AL Mangue,7e8cd083,0,0,0,0,0,,,,,,0,0,0
+1275104,2021,Mozambique,7,AL Mangue,7e8cd083,A Ikuzwe,6762a445,HR Ponja,6114eaf4,0,0,0,0,0,,,,,,0,0,0
+1275104,2021,Mozambique,7,AL Mangue,7e8cd083,A Ikuzwe,6762a445,HR Ponja,6114eaf4,1,0,0,0,0,,,,,,0,1,1
+1275104,2021,Mozambique,7,AL Mangue,7e8cd083,A Ikuzwe,6762a445,HR Ponja,6114eaf4,0,0,0,0,0,,,,,,0,0,0
+1275104,2021,Mozambique,7,AL Mangue,7e8cd083,A Ikuzwe,6762a445,HR Ponja,6114eaf4,0,0,0,0,1,AL Mangue,7e8cd083,,,bowled,0,0,0
+1275104,2021,Rwanda,0,S Uwera,1ef174b8,O Matsolo,3c4a62c4,G Ishimwe,b5ae57ee,1,0,0,0,0,,,,,,0,1,1
+1275104,2021,Rwanda,0,S Uwera,1ef174b8,O Matsolo,3c4a62c4,G Ishimwe,b5ae57ee,0,0,0,0,0,,,,,,1,0,1
+1275104,2021,Rwanda,0,G Ishimwe,b5ae57ee,O Matsolo,3c4a62c4,S Uwera,1ef174b8,1,0,0,0,0,,,,,,0,1,1
+1275104,2021,Rwanda,0,G Ishimwe,b5ae57ee,O Matsolo,3c4a62c4,S Uwera,1ef174b8,1,0,0,0,0,,,,,,0,1,1
+1275104,2021,Rwanda,0,G Ishimwe,b5ae57ee,O Matsolo,3c4a62c4,S Uwera,1ef174b8,1,0,0,0,0,,,,,,0,1,1
+1275104,2021,Rwanda,0,G Ishimwe,b5ae57ee,O Matsolo,3c4a62c4,S Uwera,1ef174b8,0,0,0,0,0,,,,,,0,0,0
+1275104,2021,Rwanda,0,G Ishimwe,b5ae57ee,O Matsolo,3c4a62c4,S Uwera,1ef174b8,0,0,0,0,0,,,,,,4,0,4
+1275104,2021,Rwanda,0,G Ishimwe,b5ae57ee,O Matsolo,3c4a62c4,S Uwera,1ef174b8,0,0,0,0,0,,,,,,0,0,0
+1275104,2021,Rwanda,0,G Ishimwe,b5ae57ee,O Matsolo,3c4a62c4,S Uwera,1ef174b8,0,0,0,0,0,,,,,,0,0,0
+1275104,2021,Rwanda,0,G Ishimwe,b5ae57ee,O Matsolo,3c4a62c4,S Uwera,1ef174b8,0,0,0,0,0,,,,,,2,0,2
+1275104,2021,Rwanda,1,S Uwera,1ef174b8,I Chuma,b1021056,G Ishimwe,b5ae57ee,0,0,0,0,0,,,,,,0,0,0
+1275104,2021,Rwanda,1,S Uwera,1ef174b8,I Chuma,b1021056,G Ishimwe,b5ae57ee,0,0,0,0,0,,,,,,0,0,0
+1275104,2021,Rwanda,1,S Uwera,1ef174b8,I Chuma,b1021056,G Ishimwe,b5ae57ee,0,0,0,0,0,,,,,,0,0,0
+1275104,2021,Rwanda,1,S Uwera,1ef174b8,I Chuma,b1021056,G Ishimwe,b5ae57ee,0,0,0,0,0,,,,,,4,0,4
+1275104,2021,Rwanda,1,S Uwera,1ef174b8,I Chuma,b1021056,G Ishimwe,b5ae57ee,0,0,0,0,0,,,,,,2,0,2
+1275104,2021,Rwanda,1,S Uwera,1ef174b8,I Chuma,b1021056,G Ishimwe,b5ae57ee,0,0,0,0,0,,,,,,0,0,0
+1275104,2021,Rwanda,2,G Ishimwe,b5ae57ee,A Cossa,ef160d73,S Uwera,1ef174b8,0,0,0,0,0,,,,,,0,0,0
+1275104,2021,Rwanda,2,G Ishimwe,b5ae57ee,A Cossa,ef160d73,S Uwera,1ef174b8,1,0,0,0,0,,,,,,0,1,1

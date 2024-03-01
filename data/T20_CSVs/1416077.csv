@@ -1,0 +1,245 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1416077,2023/24,Sri Lanka,0,P Nissanka,8ee36b18,Fazalhaq Farooqi,e9c7f0d0,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,0,0,0
+1416077,2023/24,Sri Lanka,0,P Nissanka,8ee36b18,Fazalhaq Farooqi,e9c7f0d0,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,2,0,2
+1416077,2023/24,Sri Lanka,0,P Nissanka,8ee36b18,Fazalhaq Farooqi,e9c7f0d0,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,4,0,4
+1416077,2023/24,Sri Lanka,0,P Nissanka,8ee36b18,Fazalhaq Farooqi,e9c7f0d0,BKG Mendis,5d1e7582,1,0,0,0,0,,,,,,0,1,1
+1416077,2023/24,Sri Lanka,0,P Nissanka,8ee36b18,Fazalhaq Farooqi,e9c7f0d0,BKG Mendis,5d1e7582,0,0,0,0,1,P Nissanka,8ee36b18,Rahmanullah Gurbaz,0bacade8,caught,0,0,0
+1416077,2023/24,Sri Lanka,0,DM de Silva,7d608e12,Fazalhaq Farooqi,e9c7f0d0,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,0,0,0
+1416077,2023/24,Sri Lanka,0,DM de Silva,7d608e12,Fazalhaq Farooqi,e9c7f0d0,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,1,0,1
+1416077,2023/24,Sri Lanka,1,DM de Silva,7d608e12,Naveen-ul-Haq,c0c411cb,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,0,0,0
+1416077,2023/24,Sri Lanka,1,DM de Silva,7d608e12,Naveen-ul-Haq,c0c411cb,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,2,0,2
+1416077,2023/24,Sri Lanka,1,DM de Silva,7d608e12,Naveen-ul-Haq,c0c411cb,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,2,0,2
+1416077,2023/24,Sri Lanka,1,DM de Silva,7d608e12,Naveen-ul-Haq,c0c411cb,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,4,0,4
+1416077,2023/24,Sri Lanka,1,DM de Silva,7d608e12,Naveen-ul-Haq,c0c411cb,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,1,0,1
+1416077,2023/24,Sri Lanka,1,BKG Mendis,5d1e7582,Naveen-ul-Haq,c0c411cb,DM de Silva,7d608e12,0,0,0,0,0,,,,,,1,0,1
+1416077,2023/24,Sri Lanka,2,BKG Mendis,5d1e7582,Fazalhaq Farooqi,e9c7f0d0,DM de Silva,7d608e12,0,0,0,0,0,,,,,,1,0,1
+1416077,2023/24,Sri Lanka,2,DM de Silva,7d608e12,Fazalhaq Farooqi,e9c7f0d0,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,2,0,2
+1416077,2023/24,Sri Lanka,2,DM de Silva,7d608e12,Fazalhaq Farooqi,e9c7f0d0,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,1,0,1
+1416077,2023/24,Sri Lanka,2,BKG Mendis,5d1e7582,Fazalhaq Farooqi,e9c7f0d0,DM de Silva,7d608e12,0,0,1,0,0,,,,,,0,1,1
+1416077,2023/24,Sri Lanka,2,DM de Silva,7d608e12,Fazalhaq Farooqi,e9c7f0d0,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,0,0,0
+1416077,2023/24,Sri Lanka,2,DM de Silva,7d608e12,Fazalhaq Farooqi,e9c7f0d0,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,4,0,4
+1416077,2023/24,Sri Lanka,3,BKG Mendis,5d1e7582,Azmatullah Omarzai,8f6dd463,DM de Silva,7d608e12,0,0,0,0,0,,,,,,0,0,0
+1416077,2023/24,Sri Lanka,3,BKG Mendis,5d1e7582,Azmatullah Omarzai,8f6dd463,DM de Silva,7d608e12,0,0,0,0,0,,,,,,6,0,6
+1416077,2023/24,Sri Lanka,3,BKG Mendis,5d1e7582,Azmatullah Omarzai,8f6dd463,DM de Silva,7d608e12,0,0,0,0,0,,,,,,1,0,1
+1416077,2023/24,Sri Lanka,3,DM de Silva,7d608e12,Azmatullah Omarzai,8f6dd463,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,1,0,1
+1416077,2023/24,Sri Lanka,3,BKG Mendis,5d1e7582,Azmatullah Omarzai,8f6dd463,DM de Silva,7d608e12,0,0,0,0,0,,,,,,1,0,1
+1416077,2023/24,Sri Lanka,3,DM de Silva,7d608e12,Azmatullah Omarzai,8f6dd463,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,0,0,0
+1416077,2023/24,Sri Lanka,4,BKG Mendis,5d1e7582,Fazalhaq Farooqi,e9c7f0d0,DM de Silva,7d608e12,0,0,0,0,1,BKG Mendis,5d1e7582,Azmatullah Omarzai,8f6dd463,caught,0,0,0
+1416077,2023/24,Sri Lanka,4,S Samarawickrama,9ab2914d,Fazalhaq Farooqi,e9c7f0d0,DM de Silva,7d608e12,0,0,0,0,0,,,,,,0,0,0
+1416077,2023/24,Sri Lanka,4,S Samarawickrama,9ab2914d,Fazalhaq Farooqi,e9c7f0d0,DM de Silva,7d608e12,0,0,0,0,0,,,,,,1,0,1
+1416077,2023/24,Sri Lanka,4,DM de Silva,7d608e12,Fazalhaq Farooqi,e9c7f0d0,S Samarawickrama,9ab2914d,0,0,0,0,0,,,,,,0,0,0
+1416077,2023/24,Sri Lanka,4,DM de Silva,7d608e12,Fazalhaq Farooqi,e9c7f0d0,S Samarawickrama,9ab2914d,0,0,0,0,0,,,,,,6,0,6
+1416077,2023/24,Sri Lanka,4,DM de Silva,7d608e12,Fazalhaq Farooqi,e9c7f0d0,S Samarawickrama,9ab2914d,0,0,0,0,0,,,,,,0,0,0
+1416077,2023/24,Sri Lanka,5,S Samarawickrama,9ab2914d,Naveen-ul-Haq,c0c411cb,DM de Silva,7d608e12,0,0,0,0,0,,,,,,4,0,4
+1416077,2023/24,Sri Lanka,5,S Samarawickrama,9ab2914d,Naveen-ul-Haq,c0c411cb,DM de Silva,7d608e12,0,0,0,0,0,,,,,,0,0,0
+1416077,2023/24,Sri Lanka,5,S Samarawickrama,9ab2914d,Naveen-ul-Haq,c0c411cb,DM de Silva,7d608e12,0,0,0,0,0,,,,,,1,0,1
+1416077,2023/24,Sri Lanka,5,DM de Silva,7d608e12,Naveen-ul-Haq,c0c411cb,S Samarawickrama,9ab2914d,0,0,0,0,1,DM de Silva,7d608e12,Noor Ahmad,efc04be7,caught,0,0,0
+1416077,2023/24,Sri Lanka,5,KIC Asalanka,732c038e,Naveen-ul-Haq,c0c411cb,S Samarawickrama,9ab2914d,1,0,0,0,0,,,,,,0,1,1
+1416077,2023/24,Sri Lanka,5,KIC Asalanka,732c038e,Naveen-ul-Haq,c0c411cb,S Samarawickrama,9ab2914d,0,0,0,0,0,,,,,,1,0,1
+1416077,2023/24,Sri Lanka,5,S Samarawickrama,9ab2914d,Naveen-ul-Haq,c0c411cb,KIC Asalanka,732c038e,0,0,0,0,0,,,,,,1,0,1
+1416077,2023/24,Sri Lanka,6,S Samarawickrama,9ab2914d,Azmatullah Omarzai,8f6dd463,KIC Asalanka,732c038e,0,0,1,0,0,,,,,,0,1,1
+1416077,2023/24,Sri Lanka,6,KIC Asalanka,732c038e,Azmatullah Omarzai,8f6dd463,S Samarawickrama,9ab2914d,0,0,0,0,0,,,,,,1,0,1
+1416077,2023/24,Sri Lanka,6,S Samarawickrama,9ab2914d,Azmatullah Omarzai,8f6dd463,KIC Asalanka,732c038e,0,0,1,0,0,,,,,,0,1,1
+1416077,2023/24,Sri Lanka,6,KIC Asalanka,732c038e,Azmatullah Omarzai,8f6dd463,S Samarawickrama,9ab2914d,0,0,0,0,0,,,,,,0,0,0
+1416077,2023/24,Sri Lanka,6,KIC Asalanka,732c038e,Azmatullah Omarzai,8f6dd463,S Samarawickrama,9ab2914d,0,0,0,0,0,,,,,,0,0,0
+1416077,2023/24,Sri Lanka,6,KIC Asalanka,732c038e,Azmatullah Omarzai,8f6dd463,S Samarawickrama,9ab2914d,0,0,0,0,0,,,,,,1,0,1
+1416077,2023/24,Sri Lanka,7,KIC Asalanka,732c038e,Noor Ahmad,efc04be7,S Samarawickrama,9ab2914d,0,0,0,0,0,,,,,,0,0,0
+1416077,2023/24,Sri Lanka,7,KIC Asalanka,732c038e,Noor Ahmad,efc04be7,S Samarawickrama,9ab2914d,0,0,0,0,1,KIC Asalanka,732c038e,Rahmanullah Gurbaz,0bacade8,caught,0,0,0
+1416077,2023/24,Sri Lanka,7,PWH de Silva,a97c8ec2,Noor Ahmad,efc04be7,S Samarawickrama,9ab2914d,0,0,0,0,0,,,,,,0,0,0
+1416077,2023/24,Sri Lanka,7,PWH de Silva,a97c8ec2,Noor Ahmad,efc04be7,S Samarawickrama,9ab2914d,0,0,0,0,0,,,,,,4,0,4
+1416077,2023/24,Sri Lanka,7,PWH de Silva,a97c8ec2,Noor Ahmad,efc04be7,S Samarawickrama,9ab2914d,0,0,0,0,0,,,,,,4,0,4
+1416077,2023/24,Sri Lanka,7,PWH de Silva,a97c8ec2,Noor Ahmad,efc04be7,S Samarawickrama,9ab2914d,0,0,0,0,0,,,,,,0,0,0
+1416077,2023/24,Sri Lanka,8,S Samarawickrama,9ab2914d,Azmatullah Omarzai,8f6dd463,PWH de Silva,a97c8ec2,0,0,0,0,0,,,,,,1,0,1
+1416077,2023/24,Sri Lanka,8,PWH de Silva,a97c8ec2,Azmatullah Omarzai,8f6dd463,S Samarawickrama,9ab2914d,0,0,0,0,0,,,,,,2,0,2
+1416077,2023/24,Sri Lanka,8,PWH de Silva,a97c8ec2,Azmatullah Omarzai,8f6dd463,S Samarawickrama,9ab2914d,0,0,0,0,0,,,,,,4,0,4
+1416077,2023/24,Sri Lanka,8,PWH de Silva,a97c8ec2,Azmatullah Omarzai,8f6dd463,S Samarawickrama,9ab2914d,0,0,0,0,0,,,,,,2,0,2
+1416077,2023/24,Sri Lanka,8,PWH de Silva,a97c8ec2,Azmatullah Omarzai,8f6dd463,S Samarawickrama,9ab2914d,0,0,0,0,0,,,,,,1,0,1
+1416077,2023/24,Sri Lanka,8,S Samarawickrama,9ab2914d,Azmatullah Omarzai,8f6dd463,PWH de Silva,a97c8ec2,0,0,0,0,0,,,,,,4,0,4
+1416077,2023/24,Sri Lanka,9,PWH de Silva,a97c8ec2,Qais Ahmad,8d5d991e,S Samarawickrama,9ab2914d,0,0,0,0,0,,,,,,1,0,1
+1416077,2023/24,Sri Lanka,9,S Samarawickrama,9ab2914d,Qais Ahmad,8d5d991e,PWH de Silva,a97c8ec2,0,0,0,0,0,,,,,,1,0,1
+1416077,2023/24,Sri Lanka,9,PWH de Silva,a97c8ec2,Qais Ahmad,8d5d991e,S Samarawickrama,9ab2914d,0,0,0,0,0,,,,,,1,0,1
+1416077,2023/24,Sri Lanka,9,S Samarawickrama,9ab2914d,Qais Ahmad,8d5d991e,PWH de Silva,a97c8ec2,0,0,0,0,0,,,,,,0,0,0
+1416077,2023/24,Sri Lanka,9,S Samarawickrama,9ab2914d,Qais Ahmad,8d5d991e,PWH de Silva,a97c8ec2,0,0,0,0,0,,,,,,1,0,1
+1416077,2023/24,Sri Lanka,9,PWH de Silva,a97c8ec2,Qais Ahmad,8d5d991e,S Samarawickrama,9ab2914d,0,0,0,0,0,,,,,,1,0,1
+1416077,2023/24,Sri Lanka,10,PWH de Silva,a97c8ec2,Noor Ahmad,efc04be7,S Samarawickrama,9ab2914d,0,0,0,0,0,,,,,,2,0,2
+1416077,2023/24,Sri Lanka,10,PWH de Silva,a97c8ec2,Noor Ahmad,efc04be7,S Samarawickrama,9ab2914d,0,0,0,0,0,,,,,,1,0,1
+1416077,2023/24,Sri Lanka,10,S Samarawickrama,9ab2914d,Noor Ahmad,efc04be7,PWH de Silva,a97c8ec2,0,0,0,0,0,,,,,,1,0,1
+1416077,2023/24,Sri Lanka,10,PWH de Silva,a97c8ec2,Noor Ahmad,efc04be7,S Samarawickrama,9ab2914d,0,0,0,0,0,,,,,,2,0,2
+1416077,2023/24,Sri Lanka,10,PWH de Silva,a97c8ec2,Noor Ahmad,efc04be7,S Samarawickrama,9ab2914d,0,0,0,0,0,,,,,,0,0,0
+1416077,2023/24,Sri Lanka,10,PWH de Silva,a97c8ec2,Noor Ahmad,efc04be7,S Samarawickrama,9ab2914d,0,0,0,0,0,,,,,,4,0,4
+1416077,2023/24,Sri Lanka,11,S Samarawickrama,9ab2914d,Qais Ahmad,8d5d991e,PWH de Silva,a97c8ec2,0,0,0,0,0,,,,,,4,0,4
+1416077,2023/24,Sri Lanka,11,S Samarawickrama,9ab2914d,Qais Ahmad,8d5d991e,PWH de Silva,a97c8ec2,0,0,0,0,0,,,,,,1,0,1
+1416077,2023/24,Sri Lanka,11,PWH de Silva,a97c8ec2,Qais Ahmad,8d5d991e,S Samarawickrama,9ab2914d,0,0,0,0,0,,,,,,1,0,1
+1416077,2023/24,Sri Lanka,11,S Samarawickrama,9ab2914d,Qais Ahmad,8d5d991e,PWH de Silva,a97c8ec2,0,0,0,0,0,,,,,,1,0,1
+1416077,2023/24,Sri Lanka,11,PWH de Silva,a97c8ec2,Qais Ahmad,8d5d991e,S Samarawickrama,9ab2914d,0,0,0,0,0,,,,,,1,0,1
+1416077,2023/24,Sri Lanka,11,S Samarawickrama,9ab2914d,Qais Ahmad,8d5d991e,PWH de Silva,a97c8ec2,0,0,0,0,0,,,,,,1,0,1
+1416077,2023/24,Sri Lanka,12,S Samarawickrama,9ab2914d,Karim Janat,62175638,PWH de Silva,a97c8ec2,0,0,0,0,0,,,,,,0,0,0
+1416077,2023/24,Sri Lanka,12,S Samarawickrama,9ab2914d,Karim Janat,62175638,PWH de Silva,a97c8ec2,0,0,0,0,0,,,,,,0,0,0
+1416077,2023/24,Sri Lanka,12,S Samarawickrama,9ab2914d,Karim Janat,62175638,PWH de Silva,a97c8ec2,0,0,0,0,0,,,,,,1,0,1
+1416077,2023/24,Sri Lanka,12,PWH de Silva,a97c8ec2,Karim Janat,62175638,S Samarawickrama,9ab2914d,0,0,0,0,0,,,,,,1,0,1
+1416077,2023/24,Sri Lanka,12,S Samarawickrama,9ab2914d,Karim Janat,62175638,PWH de Silva,a97c8ec2,0,0,0,0,0,,,,,,1,0,1
+1416077,2023/24,Sri Lanka,12,PWH de Silva,a97c8ec2,Karim Janat,62175638,S Samarawickrama,9ab2914d,0,0,0,0,0,,,,,,1,0,1
+1416077,2023/24,Sri Lanka,13,PWH de Silva,a97c8ec2,Qais Ahmad,8d5d991e,S Samarawickrama,9ab2914d,0,0,0,0,0,,,,,,4,0,4
+1416077,2023/24,Sri Lanka,13,PWH de Silva,a97c8ec2,Qais Ahmad,8d5d991e,S Samarawickrama,9ab2914d,0,0,0,0,0,,,,,,6,0,6
+1416077,2023/24,Sri Lanka,13,PWH de Silva,a97c8ec2,Qais Ahmad,8d5d991e,S Samarawickrama,9ab2914d,0,0,0,0,0,,,,,,6,0,6
+1416077,2023/24,Sri Lanka,13,PWH de Silva,a97c8ec2,Qais Ahmad,8d5d991e,S Samarawickrama,9ab2914d,0,0,0,0,0,,,,,,4,0,4
+1416077,2023/24,Sri Lanka,13,PWH de Silva,a97c8ec2,Qais Ahmad,8d5d991e,S Samarawickrama,9ab2914d,0,0,0,0,0,,,,,,1,0,1
+1416077,2023/24,Sri Lanka,13,S Samarawickrama,9ab2914d,Qais Ahmad,8d5d991e,PWH de Silva,a97c8ec2,0,0,0,0,0,,,,,,1,0,1
+1416077,2023/24,Sri Lanka,14,S Samarawickrama,9ab2914d,Karim Janat,62175638,PWH de Silva,a97c8ec2,0,0,0,0,1,S Samarawickrama,9ab2914d,Ibrahim Zadran,d4550956,run out,0,0,0
+1416077,2023/24,Sri Lanka,14,AD Mathews,896d78ad,Karim Janat,62175638,PWH de Silva,a97c8ec2,0,0,0,0,0,,,,,,1,0,1
+1416077,2023/24,Sri Lanka,14,PWH de Silva,a97c8ec2,Karim Janat,62175638,AD Mathews,896d78ad,0,0,0,0,0,,,,,,0,0,0
+1416077,2023/24,Sri Lanka,14,PWH de Silva,a97c8ec2,Karim Janat,62175638,AD Mathews,896d78ad,0,0,0,0,0,,,,,,6,0,6
+1416077,2023/24,Sri Lanka,14,PWH de Silva,a97c8ec2,Karim Janat,62175638,AD Mathews,896d78ad,0,0,0,0,0,,,,,,4,0,4
+1416077,2023/24,Sri Lanka,14,PWH de Silva,a97c8ec2,Karim Janat,62175638,AD Mathews,896d78ad,0,0,0,0,0,,,,,,1,0,1
+1416077,2023/24,Sri Lanka,15,PWH de Silva,a97c8ec2,Naveen-ul-Haq,c0c411cb,AD Mathews,896d78ad,0,0,0,0,0,,,,,,1,0,1
+1416077,2023/24,Sri Lanka,15,AD Mathews,896d78ad,Naveen-ul-Haq,c0c411cb,PWH de Silva,a97c8ec2,0,0,0,0,0,,,,,,1,0,1
+1416077,2023/24,Sri Lanka,15,PWH de Silva,a97c8ec2,Naveen-ul-Haq,c0c411cb,AD Mathews,896d78ad,1,0,0,0,0,,,,,,0,1,1
+1416077,2023/24,Sri Lanka,15,PWH de Silva,a97c8ec2,Naveen-ul-Haq,c0c411cb,AD Mathews,896d78ad,0,0,0,0,0,,,,,,1,0,1
+1416077,2023/24,Sri Lanka,15,AD Mathews,896d78ad,Naveen-ul-Haq,c0c411cb,PWH de Silva,a97c8ec2,0,0,0,0,0,,,,,,2,0,2
+1416077,2023/24,Sri Lanka,15,AD Mathews,896d78ad,Naveen-ul-Haq,c0c411cb,PWH de Silva,a97c8ec2,0,0,0,0,0,,,,,,1,0,1
+1416077,2023/24,Sri Lanka,15,PWH de Silva,a97c8ec2,Naveen-ul-Haq,c0c411cb,AD Mathews,896d78ad,0,0,0,0,1,PWH de Silva,a97c8ec2,Ibrahim Zadran,d4550956,caught,0,0,0
+1416077,2023/24,Sri Lanka,16,AD Mathews,896d78ad,Karim Janat,62175638,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,1,0,1
+1416077,2023/24,Sri Lanka,16,MD Shanaka,3ff033bb,Karim Janat,62175638,AD Mathews,896d78ad,0,0,0,0,0,,,,,,4,0,4
+1416077,2023/24,Sri Lanka,16,MD Shanaka,3ff033bb,Karim Janat,62175638,AD Mathews,896d78ad,0,0,0,0,0,,,,,,1,0,1
+1416077,2023/24,Sri Lanka,16,AD Mathews,896d78ad,Karim Janat,62175638,MD Shanaka,3ff033bb,0,0,0,0,1,AD Mathews,896d78ad,,,lbw,0,0,0
+1416077,2023/24,Sri Lanka,16,M Theekshana,f24c6701,Karim Janat,62175638,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,0,0,0
+1416077,2023/24,Sri Lanka,16,M Theekshana,f24c6701,Karim Janat,62175638,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,1,0,1
+1416077,2023/24,Sri Lanka,17,M Theekshana,f24c6701,Fazalhaq Farooqi,e9c7f0d0,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,0,0,0
+1416077,2023/24,Sri Lanka,17,M Theekshana,f24c6701,Fazalhaq Farooqi,e9c7f0d0,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,1,0,1
+1416077,2023/24,Sri Lanka,17,MD Shanaka,3ff033bb,Fazalhaq Farooqi,e9c7f0d0,M Theekshana,f24c6701,0,0,0,0,0,,,,,,1,0,1
+1416077,2023/24,Sri Lanka,17,M Theekshana,f24c6701,Fazalhaq Farooqi,e9c7f0d0,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,0,0,0
+1416077,2023/24,Sri Lanka,17,M Theekshana,f24c6701,Fazalhaq Farooqi,e9c7f0d0,MD Shanaka,3ff033bb,0,0,0,0,1,M Theekshana,f24c6701,Mohammad Nabi,62af8546,caught,0,0,0
+1416077,2023/24,Sri Lanka,17,B Fernando,dabbd0ae,Fazalhaq Farooqi,e9c7f0d0,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,0,0,0
+1416077,2023/24,Sri Lanka,18,MD Shanaka,3ff033bb,Azmatullah Omarzai,8f6dd463,B Fernando,dabbd0ae,0,0,0,0,1,MD Shanaka,3ff033bb,Gulbadin Naib,9f77963a,caught,0,0,0
+1416077,2023/24,Sri Lanka,18,M Pathirana,64839cb3,Azmatullah Omarzai,8f6dd463,B Fernando,dabbd0ae,0,0,0,0,0,,,,,,0,0,0
+1416077,2023/24,Sri Lanka,18,M Pathirana,64839cb3,Azmatullah Omarzai,8f6dd463,B Fernando,dabbd0ae,0,0,0,0,0,,,,,,0,0,0
+1416077,2023/24,Sri Lanka,18,M Pathirana,64839cb3,Azmatullah Omarzai,8f6dd463,B Fernando,dabbd0ae,0,0,0,0,0,,,,,,4,0,4
+1416077,2023/24,Sri Lanka,18,M Pathirana,64839cb3,Azmatullah Omarzai,8f6dd463,B Fernando,dabbd0ae,0,0,0,0,0,,,,,,1,0,1
+1416077,2023/24,Sri Lanka,18,B Fernando,dabbd0ae,Azmatullah Omarzai,8f6dd463,M Pathirana,64839cb3,0,0,0,0,1,B Fernando,dabbd0ae,,,bowled,0,0,0
+1416077,2023/24,Afghanistan,0,Ibrahim Zadran,d4550956,AD Mathews,896d78ad,Rahmanullah Gurbaz,0bacade8,0,0,0,0,0,,,,,,0,0,0
+1416077,2023/24,Afghanistan,0,Ibrahim Zadran,d4550956,AD Mathews,896d78ad,Rahmanullah Gurbaz,0bacade8,0,0,0,0,0,,,,,,0,0,0
+1416077,2023/24,Afghanistan,0,Ibrahim Zadran,d4550956,AD Mathews,896d78ad,Rahmanullah Gurbaz,0bacade8,0,0,0,0,0,,,,,,1,0,1
+1416077,2023/24,Afghanistan,0,Rahmanullah Gurbaz,0bacade8,AD Mathews,896d78ad,Ibrahim Zadran,d4550956,0,0,0,0,0,,,,,,0,0,0
+1416077,2023/24,Afghanistan,0,Rahmanullah Gurbaz,0bacade8,AD Mathews,896d78ad,Ibrahim Zadran,d4550956,0,0,0,0,0,,,,,,1,0,1
+1416077,2023/24,Afghanistan,0,Ibrahim Zadran,d4550956,AD Mathews,896d78ad,Rahmanullah Gurbaz,0bacade8,0,0,0,0,0,,,,,,1,0,1
+1416077,2023/24,Afghanistan,1,Ibrahim Zadran,d4550956,B Fernando,dabbd0ae,Rahmanullah Gurbaz,0bacade8,0,0,0,0,0,,,,,,0,0,0
+1416077,2023/24,Afghanistan,1,Ibrahim Zadran,d4550956,B Fernando,dabbd0ae,Rahmanullah Gurbaz,0bacade8,0,0,0,0,0,,,,,,4,0,4
+1416077,2023/24,Afghanistan,1,Ibrahim Zadran,d4550956,B Fernando,dabbd0ae,Rahmanullah Gurbaz,0bacade8,0,0,0,0,0,,,,,,0,0,0
+1416077,2023/24,Afghanistan,1,Ibrahim Zadran,d4550956,B Fernando,dabbd0ae,Rahmanullah Gurbaz,0bacade8,0,0,0,0,0,,,,,,4,0,4
+1416077,2023/24,Afghanistan,1,Ibrahim Zadran,d4550956,B Fernando,dabbd0ae,Rahmanullah Gurbaz,0bacade8,0,0,0,0,0,,,,,,0,0,0
+1416077,2023/24,Afghanistan,1,Ibrahim Zadran,d4550956,B Fernando,dabbd0ae,Rahmanullah Gurbaz,0bacade8,0,0,0,0,0,,,,,,1,0,1
+1416077,2023/24,Afghanistan,2,Ibrahim Zadran,d4550956,AD Mathews,896d78ad,Rahmanullah Gurbaz,0bacade8,0,0,0,0,0,,,,,,1,0,1
+1416077,2023/24,Afghanistan,2,Rahmanullah Gurbaz,0bacade8,AD Mathews,896d78ad,Ibrahim Zadran,d4550956,0,0,0,0,0,,,,,,2,0,2
+1416077,2023/24,Afghanistan,2,Rahmanullah Gurbaz,0bacade8,AD Mathews,896d78ad,Ibrahim Zadran,d4550956,0,0,0,0,0,,,,,,6,0,6
+1416077,2023/24,Afghanistan,2,Rahmanullah Gurbaz,0bacade8,AD Mathews,896d78ad,Ibrahim Zadran,d4550956,0,0,0,0,0,,,,,,4,0,4
+1416077,2023/24,Afghanistan,2,Rahmanullah Gurbaz,0bacade8,AD Mathews,896d78ad,Ibrahim Zadran,d4550956,0,0,0,0,1,Rahmanullah Gurbaz,0bacade8,M Pathirana,64839cb3,caught,0,0,0
+1416077,2023/24,Afghanistan,2,Gulbadin Naib,9f77963a,AD Mathews,896d78ad,Ibrahim Zadran,d4550956,0,0,0,0,0,,,,,,0,0,0
+1416077,2023/24,Afghanistan,3,Ibrahim Zadran,d4550956,M Theekshana,f24c6701,Gulbadin Naib,9f77963a,0,0,0,0,0,,,,,,1,0,1
+1416077,2023/24,Afghanistan,3,Gulbadin Naib,9f77963a,M Theekshana,f24c6701,Ibrahim Zadran,d4550956,0,0,0,0,0,,,,,,1,0,1
+1416077,2023/24,Afghanistan,3,Ibrahim Zadran,d4550956,M Theekshana,f24c6701,Gulbadin Naib,9f77963a,0,0,0,4,0,,,,,,0,4,4
+1416077,2023/24,Afghanistan,3,Ibrahim Zadran,d4550956,M Theekshana,f24c6701,Gulbadin Naib,9f77963a,0,0,0,0,0,,,,,,4,0,4
+1416077,2023/24,Afghanistan,3,Ibrahim Zadran,d4550956,M Theekshana,f24c6701,Gulbadin Naib,9f77963a,0,0,0,0,0,,,,,,1,0,1
+1416077,2023/24,Afghanistan,3,Gulbadin Naib,9f77963a,M Theekshana,f24c6701,Ibrahim Zadran,d4550956,0,0,0,0,0,,,,,,0,0,0
+1416077,2023/24,Afghanistan,4,Ibrahim Zadran,d4550956,B Fernando,dabbd0ae,Gulbadin Naib,9f77963a,0,0,0,0,0,,,,,,1,0,1
+1416077,2023/24,Afghanistan,4,Gulbadin Naib,9f77963a,B Fernando,dabbd0ae,Ibrahim Zadran,d4550956,0,0,0,0,0,,,,,,1,0,1
+1416077,2023/24,Afghanistan,4,Ibrahim Zadran,d4550956,B Fernando,dabbd0ae,Gulbadin Naib,9f77963a,0,0,0,0,0,,,,,,4,0,4
+1416077,2023/24,Afghanistan,4,Ibrahim Zadran,d4550956,B Fernando,dabbd0ae,Gulbadin Naib,9f77963a,0,0,0,0,0,,,,,,5,0,5
+1416077,2023/24,Afghanistan,4,Gulbadin Naib,9f77963a,B Fernando,dabbd0ae,Ibrahim Zadran,d4550956,0,0,0,0,0,,,,,,1,0,1
+1416077,2023/24,Afghanistan,4,Ibrahim Zadran,d4550956,B Fernando,dabbd0ae,Gulbadin Naib,9f77963a,0,0,0,0,0,,,,,,4,0,4
+1416077,2023/24,Afghanistan,5,Gulbadin Naib,9f77963a,PWH de Silva,a97c8ec2,Ibrahim Zadran,d4550956,0,0,0,0,0,,,,,,0,0,0
+1416077,2023/24,Afghanistan,5,Gulbadin Naib,9f77963a,PWH de Silva,a97c8ec2,Ibrahim Zadran,d4550956,0,0,0,0,0,,,,,,4,0,4
+1416077,2023/24,Afghanistan,5,Gulbadin Naib,9f77963a,PWH de Silva,a97c8ec2,Ibrahim Zadran,d4550956,0,0,0,0,0,,,,,,0,0,0
+1416077,2023/24,Afghanistan,5,Gulbadin Naib,9f77963a,PWH de Silva,a97c8ec2,Ibrahim Zadran,d4550956,0,0,0,0,0,,,,,,1,0,1
+1416077,2023/24,Afghanistan,5,Ibrahim Zadran,d4550956,PWH de Silva,a97c8ec2,Gulbadin Naib,9f77963a,0,0,0,0,0,,,,,,0,0,0
+1416077,2023/24,Afghanistan,5,Ibrahim Zadran,d4550956,PWH de Silva,a97c8ec2,Gulbadin Naib,9f77963a,0,0,0,0,0,,,,,,0,0,0
+1416077,2023/24,Afghanistan,6,Gulbadin Naib,9f77963a,M Theekshana,f24c6701,Ibrahim Zadran,d4550956,0,0,0,0,0,,,,,,4,0,4
+1416077,2023/24,Afghanistan,6,Gulbadin Naib,9f77963a,M Theekshana,f24c6701,Ibrahim Zadran,d4550956,0,0,0,0,0,,,,,,1,0,1
+1416077,2023/24,Afghanistan,6,Ibrahim Zadran,d4550956,M Theekshana,f24c6701,Gulbadin Naib,9f77963a,0,0,0,0,0,,,,,,1,0,1
+1416077,2023/24,Afghanistan,6,Gulbadin Naib,9f77963a,M Theekshana,f24c6701,Ibrahim Zadran,d4550956,0,0,0,0,0,,,,,,1,0,1
+1416077,2023/24,Afghanistan,6,Ibrahim Zadran,d4550956,M Theekshana,f24c6701,Gulbadin Naib,9f77963a,0,0,0,0,0,,,,,,1,0,1
+1416077,2023/24,Afghanistan,6,Gulbadin Naib,9f77963a,M Theekshana,f24c6701,Ibrahim Zadran,d4550956,0,0,0,0,0,,,,,,1,0,1
+1416077,2023/24,Afghanistan,7,Gulbadin Naib,9f77963a,PWH de Silva,a97c8ec2,Ibrahim Zadran,d4550956,0,0,0,0,0,,,,,,1,0,1
+1416077,2023/24,Afghanistan,7,Ibrahim Zadran,d4550956,PWH de Silva,a97c8ec2,Gulbadin Naib,9f77963a,0,0,0,0,0,,,,,,1,0,1
+1416077,2023/24,Afghanistan,7,Gulbadin Naib,9f77963a,PWH de Silva,a97c8ec2,Ibrahim Zadran,d4550956,0,0,0,0,0,,,,,,0,0,0
+1416077,2023/24,Afghanistan,7,Gulbadin Naib,9f77963a,PWH de Silva,a97c8ec2,Ibrahim Zadran,d4550956,0,0,0,0,0,,,,,,0,0,0
+1416077,2023/24,Afghanistan,7,Gulbadin Naib,9f77963a,PWH de Silva,a97c8ec2,Ibrahim Zadran,d4550956,0,0,0,0,1,Gulbadin Naib,9f77963a,,,bowled,0,0,0
+1416077,2023/24,Afghanistan,7,Azmatullah Omarzai,8f6dd463,PWH de Silva,a97c8ec2,Ibrahim Zadran,d4550956,0,0,0,0,0,,,,,,1,0,1
+1416077,2023/24,Afghanistan,8,Azmatullah Omarzai,8f6dd463,M Pathirana,64839cb3,Ibrahim Zadran,d4550956,0,0,0,0,0,,,,,,1,0,1
+1416077,2023/24,Afghanistan,8,Ibrahim Zadran,d4550956,M Pathirana,64839cb3,Azmatullah Omarzai,8f6dd463,0,0,0,0,0,,,,,,0,0,0
+1416077,2023/24,Afghanistan,8,Ibrahim Zadran,d4550956,M Pathirana,64839cb3,Azmatullah Omarzai,8f6dd463,0,0,0,0,0,,,,,,1,0,1
+1416077,2023/24,Afghanistan,8,Azmatullah Omarzai,8f6dd463,M Pathirana,64839cb3,Ibrahim Zadran,d4550956,0,0,0,0,0,,,,,,0,0,0
+1416077,2023/24,Afghanistan,8,Azmatullah Omarzai,8f6dd463,M Pathirana,64839cb3,Ibrahim Zadran,d4550956,0,0,0,0,0,,,,,,0,0,0
+1416077,2023/24,Afghanistan,8,Azmatullah Omarzai,8f6dd463,M Pathirana,64839cb3,Ibrahim Zadran,d4550956,0,0,0,0,1,Azmatullah Omarzai,8f6dd463,MD Shanaka,3ff033bb,caught,0,0,0
+1416077,2023/24,Afghanistan,9,Ibrahim Zadran,d4550956,M Theekshana,f24c6701,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,0,0,0
+1416077,2023/24,Afghanistan,9,Ibrahim Zadran,d4550956,M Theekshana,f24c6701,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,1,0,1
+1416077,2023/24,Afghanistan,9,Mohammad Nabi,62af8546,M Theekshana,f24c6701,Ibrahim Zadran,d4550956,0,0,0,0,0,,,,,,0,0,0
+1416077,2023/24,Afghanistan,9,Mohammad Nabi,62af8546,M Theekshana,f24c6701,Ibrahim Zadran,d4550956,0,0,0,0,0,,,,,,1,0,1
+1416077,2023/24,Afghanistan,9,Ibrahim Zadran,d4550956,M Theekshana,f24c6701,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,1,0,1
+1416077,2023/24,Afghanistan,9,Mohammad Nabi,62af8546,M Theekshana,f24c6701,Ibrahim Zadran,d4550956,0,0,0,0,0,,,,,,2,0,2
+1416077,2023/24,Afghanistan,10,Ibrahim Zadran,d4550956,M Pathirana,64839cb3,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,1,0,1
+1416077,2023/24,Afghanistan,10,Mohammad Nabi,62af8546,M Pathirana,64839cb3,Ibrahim Zadran,d4550956,0,0,0,0,0,,,,,,2,0,2
+1416077,2023/24,Afghanistan,10,Mohammad Nabi,62af8546,M Pathirana,64839cb3,Ibrahim Zadran,d4550956,0,0,0,0,0,,,,,,1,0,1
+1416077,2023/24,Afghanistan,10,Ibrahim Zadran,d4550956,M Pathirana,64839cb3,Mohammad Nabi,62af8546,1,0,0,0,0,,,,,,0,1,1
+1416077,2023/24,Afghanistan,10,Ibrahim Zadran,d4550956,M Pathirana,64839cb3,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,0,0,0
+1416077,2023/24,Afghanistan,10,Ibrahim Zadran,d4550956,M Pathirana,64839cb3,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,1,0,1
+1416077,2023/24,Afghanistan,10,Mohammad Nabi,62af8546,M Pathirana,64839cb3,Ibrahim Zadran,d4550956,0,0,0,0,0,,,,,,1,0,1
+1416077,2023/24,Afghanistan,11,Mohammad Nabi,62af8546,MD Shanaka,3ff033bb,Ibrahim Zadran,d4550956,0,0,0,0,0,,,,,,2,0,2
+1416077,2023/24,Afghanistan,11,Mohammad Nabi,62af8546,MD Shanaka,3ff033bb,Ibrahim Zadran,d4550956,0,0,0,0,1,Mohammad Nabi,62af8546,PWH de Silva,a97c8ec2,caught,0,0,0
+1416077,2023/24,Afghanistan,11,Najibullah Zadran,1212cbec,MD Shanaka,3ff033bb,Ibrahim Zadran,d4550956,1,0,0,0,0,,,,,,0,1,1
+1416077,2023/24,Afghanistan,11,Najibullah Zadran,1212cbec,MD Shanaka,3ff033bb,Ibrahim Zadran,d4550956,0,0,0,0,1,Najibullah Zadran,1212cbec,DM de Silva,7d608e12,caught,0,0,0
+1416077,2023/24,Afghanistan,11,Karim Janat,62175638,MD Shanaka,3ff033bb,Ibrahim Zadran,d4550956,0,0,0,0,0,,,,,,1,0,1
+1416077,2023/24,Afghanistan,11,Ibrahim Zadran,d4550956,MD Shanaka,3ff033bb,Karim Janat,62175638,0,0,0,0,0,,,,,,2,0,2
+1416077,2023/24,Afghanistan,11,Ibrahim Zadran,d4550956,MD Shanaka,3ff033bb,Karim Janat,62175638,0,0,0,0,0,,,,,,0,0,0
+1416077,2023/24,Afghanistan,12,Karim Janat,62175638,PWH de Silva,a97c8ec2,Ibrahim Zadran,d4550956,0,0,0,0,0,,,,,,1,0,1
+1416077,2023/24,Afghanistan,12,Ibrahim Zadran,d4550956,PWH de Silva,a97c8ec2,Karim Janat,62175638,0,0,0,0,0,,,,,,1,0,1
+1416077,2023/24,Afghanistan,12,Karim Janat,62175638,PWH de Silva,a97c8ec2,Ibrahim Zadran,d4550956,0,0,0,0,0,,,,,,0,0,0
+1416077,2023/24,Afghanistan,12,Karim Janat,62175638,PWH de Silva,a97c8ec2,Ibrahim Zadran,d4550956,0,0,0,0,0,,,,,,1,0,1
+1416077,2023/24,Afghanistan,12,Ibrahim Zadran,d4550956,PWH de Silva,a97c8ec2,Karim Janat,62175638,0,0,0,0,0,,,,,,1,0,1
+1416077,2023/24,Afghanistan,12,Karim Janat,62175638,PWH de Silva,a97c8ec2,Ibrahim Zadran,d4550956,0,0,0,0,0,,,,,,0,0,0
+1416077,2023/24,Afghanistan,13,Ibrahim Zadran,d4550956,MD Shanaka,3ff033bb,Karim Janat,62175638,0,0,0,0,0,,,,,,4,0,4
+1416077,2023/24,Afghanistan,13,Ibrahim Zadran,d4550956,MD Shanaka,3ff033bb,Karim Janat,62175638,0,0,0,0,0,,,,,,1,0,1
+1416077,2023/24,Afghanistan,13,Karim Janat,62175638,MD Shanaka,3ff033bb,Ibrahim Zadran,d4550956,1,0,0,0,0,,,,,,0,1,1
+1416077,2023/24,Afghanistan,13,Karim Janat,62175638,MD Shanaka,3ff033bb,Ibrahim Zadran,d4550956,0,0,0,0,0,,,,,,1,0,1
+1416077,2023/24,Afghanistan,13,Ibrahim Zadran,d4550956,MD Shanaka,3ff033bb,Karim Janat,62175638,0,0,0,0,0,,,,,,1,0,1
+1416077,2023/24,Afghanistan,13,Karim Janat,62175638,MD Shanaka,3ff033bb,Ibrahim Zadran,d4550956,0,0,0,0,0,,,,,,2,0,2
+1416077,2023/24,Afghanistan,13,Karim Janat,62175638,MD Shanaka,3ff033bb,Ibrahim Zadran,d4550956,0,0,0,0,0,,,,,,1,0,1
+1416077,2023/24,Afghanistan,14,Karim Janat,62175638,B Fernando,dabbd0ae,Ibrahim Zadran,d4550956,1,0,0,0,0,,,,,,0,1,1
+1416077,2023/24,Afghanistan,14,Karim Janat,62175638,B Fernando,dabbd0ae,Ibrahim Zadran,d4550956,0,0,0,0,0,,,,,,0,0,0
+1416077,2023/24,Afghanistan,14,Karim Janat,62175638,B Fernando,dabbd0ae,Ibrahim Zadran,d4550956,0,0,0,0,0,,,,,,4,0,4
+1416077,2023/24,Afghanistan,14,Karim Janat,62175638,B Fernando,dabbd0ae,Ibrahim Zadran,d4550956,0,0,0,0,0,,,,,,2,0,2
+1416077,2023/24,Afghanistan,14,Karim Janat,62175638,B Fernando,dabbd0ae,Ibrahim Zadran,d4550956,0,0,0,0,0,,,,,,0,0,0
+1416077,2023/24,Afghanistan,14,Karim Janat,62175638,B Fernando,dabbd0ae,Ibrahim Zadran,d4550956,0,0,0,0,0,,,,,,2,0,2
+1416077,2023/24,Afghanistan,14,Karim Janat,62175638,B Fernando,dabbd0ae,Ibrahim Zadran,d4550956,0,0,0,0,0,,,,,,4,0,4
+1416077,2023/24,Afghanistan,15,Ibrahim Zadran,d4550956,PWH de Silva,a97c8ec2,Karim Janat,62175638,0,0,0,0,0,,,,,,1,0,1
+1416077,2023/24,Afghanistan,15,Karim Janat,62175638,PWH de Silva,a97c8ec2,Ibrahim Zadran,d4550956,0,0,0,0,0,,,,,,1,0,1
+1416077,2023/24,Afghanistan,15,Ibrahim Zadran,d4550956,PWH de Silva,a97c8ec2,Karim Janat,62175638,0,0,0,0,0,,,,,,0,0,0
+1416077,2023/24,Afghanistan,15,Ibrahim Zadran,d4550956,PWH de Silva,a97c8ec2,Karim Janat,62175638,0,0,0,0,0,,,,,,4,0,4
+1416077,2023/24,Afghanistan,15,Ibrahim Zadran,d4550956,PWH de Silva,a97c8ec2,Karim Janat,62175638,0,0,0,0,0,,,,,,0,0,0
+1416077,2023/24,Afghanistan,15,Ibrahim Zadran,d4550956,PWH de Silva,a97c8ec2,Karim Janat,62175638,0,0,0,0,0,,,,,,2,0,2
+1416077,2023/24,Afghanistan,16,Karim Janat,62175638,M Pathirana,64839cb3,Ibrahim Zadran,d4550956,0,0,0,0,1,Karim Janat,62175638,,,lbw,0,0,0
+1416077,2023/24,Afghanistan,16,Qais Ahmad,8d5d991e,M Pathirana,64839cb3,Ibrahim Zadran,d4550956,0,0,0,0,0,,,,,,4,0,4
+1416077,2023/24,Afghanistan,16,Qais Ahmad,8d5d991e,M Pathirana,64839cb3,Ibrahim Zadran,d4550956,2,0,0,0,0,,,,,,0,2,2
+1416077,2023/24,Afghanistan,16,Ibrahim Zadran,d4550956,M Pathirana,64839cb3,Qais Ahmad,8d5d991e,0,0,0,0,0,,,,,,1,0,1
+1416077,2023/24,Afghanistan,16,Qais Ahmad,8d5d991e,M Pathirana,64839cb3,Ibrahim Zadran,d4550956,1,0,0,0,0,,,,,,0,1,1
+1416077,2023/24,Afghanistan,16,Qais Ahmad,8d5d991e,M Pathirana,64839cb3,Ibrahim Zadran,d4550956,1,0,0,0,0,,,,,,0,1,1
+1416077,2023/24,Afghanistan,16,Qais Ahmad,8d5d991e,M Pathirana,64839cb3,Ibrahim Zadran,d4550956,0,0,0,0,0,,,,,,0,0,0
+1416077,2023/24,Afghanistan,16,Qais Ahmad,8d5d991e,M Pathirana,64839cb3,Ibrahim Zadran,d4550956,0,0,0,0,0,,,,,,3,0,3
+1416077,2023/24,Afghanistan,16,Ibrahim Zadran,d4550956,M Pathirana,64839cb3,Qais Ahmad,8d5d991e,0,0,0,0,0,,,,,,0,0,0
+1416077,2023/24,Afghanistan,17,Qais Ahmad,8d5d991e,M Theekshana,f24c6701,Ibrahim Zadran,d4550956,0,0,0,0,1,Qais Ahmad,8d5d991e,PHKD Mendis,08548b13,caught,0,0,0
+1416077,2023/24,Afghanistan,17,Noor Ahmad,efc04be7,M Theekshana,f24c6701,Ibrahim Zadran,d4550956,0,0,0,0,0,,,,,,0,0,0
+1416077,2023/24,Afghanistan,17,Noor Ahmad,efc04be7,M Theekshana,f24c6701,Ibrahim Zadran,d4550956,0,0,0,0,0,,,,,,6,0,6
+1416077,2023/24,Afghanistan,17,Noor Ahmad,efc04be7,M Theekshana,f24c6701,Ibrahim Zadran,d4550956,0,0,0,0,0,,,,,,1,0,1
+1416077,2023/24,Afghanistan,17,Ibrahim Zadran,d4550956,M Theekshana,f24c6701,Noor Ahmad,efc04be7,0,0,0,0,0,,,,,,1,0,1
+1416077,2023/24,Afghanistan,17,Noor Ahmad,efc04be7,M Theekshana,f24c6701,Ibrahim Zadran,d4550956,0,0,0,0,0,,,,,,2,0,2
+1416077,2023/24,Afghanistan,18,Ibrahim Zadran,d4550956,M Pathirana,64839cb3,Noor Ahmad,efc04be7,0,0,0,0,0,,,,,,1,0,1
+1416077,2023/24,Afghanistan,18,Noor Ahmad,efc04be7,M Pathirana,64839cb3,Ibrahim Zadran,d4550956,0,0,0,0,0,,,,,,0,0,0
+1416077,2023/24,Afghanistan,18,Noor Ahmad,efc04be7,M Pathirana,64839cb3,Ibrahim Zadran,d4550956,0,0,0,0,1,Noor Ahmad,efc04be7,,,bowled,0,0,0
+1416077,2023/24,Afghanistan,18,Naveen-ul-Haq,c0c411cb,M Pathirana,64839cb3,Ibrahim Zadran,d4550956,0,0,0,0,0,,,,,,1,0,1
+1416077,2023/24,Afghanistan,18,Ibrahim Zadran,d4550956,M Pathirana,64839cb3,Naveen-ul-Haq,c0c411cb,0,0,0,0,0,,,,,,1,0,1
+1416077,2023/24,Afghanistan,18,Naveen-ul-Haq,c0c411cb,M Pathirana,64839cb3,Ibrahim Zadran,d4550956,0,0,0,0,1,Naveen-ul-Haq,c0c411cb,,,bowled,0,0,0
+1416077,2023/24,Afghanistan,19,Ibrahim Zadran,d4550956,B Fernando,dabbd0ae,Fazalhaq Farooqi,e9c7f0d0,0,0,0,0,0,,,,,,0,0,0
+1416077,2023/24,Afghanistan,19,Ibrahim Zadran,d4550956,B Fernando,dabbd0ae,Fazalhaq Farooqi,e9c7f0d0,0,0,0,0,0,,,,,,0,0,0
+1416077,2023/24,Afghanistan,19,Ibrahim Zadran,d4550956,B Fernando,dabbd0ae,Fazalhaq Farooqi,e9c7f0d0,0,0,0,0,0,,,,,,0,0,0
+1416077,2023/24,Afghanistan,19,Ibrahim Zadran,d4550956,B Fernando,dabbd0ae,Fazalhaq Farooqi,e9c7f0d0,0,0,0,0,0,,,,,,0,0,0
+1416077,2023/24,Afghanistan,19,Ibrahim Zadran,d4550956,B Fernando,dabbd0ae,Fazalhaq Farooqi,e9c7f0d0,0,0,0,0,0,,,,,,2,0,2
+1416077,2023/24,Afghanistan,19,Ibrahim Zadran,d4550956,B Fernando,dabbd0ae,Fazalhaq Farooqi,e9c7f0d0,0,0,0,0,0,,,,,,4,0,4

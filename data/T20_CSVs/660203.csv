@@ -1,0 +1,237 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+660203,2013/14,Afghanistan,0,Mohammad Shahzad,d6dcb0c9,NN Odhiambo,753b5a2d,Karim Sadiq,13e5908b,0,1,0,0,0,,,,,,0,1,1
+660203,2013/14,Afghanistan,0,Mohammad Shahzad,d6dcb0c9,NN Odhiambo,753b5a2d,Karim Sadiq,13e5908b,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Afghanistan,0,Karim Sadiq,13e5908b,NN Odhiambo,753b5a2d,Mohammad Shahzad,d6dcb0c9,0,1,0,0,0,,,,,,0,1,1
+660203,2013/14,Afghanistan,0,Karim Sadiq,13e5908b,NN Odhiambo,753b5a2d,Mohammad Shahzad,d6dcb0c9,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Afghanistan,0,Mohammad Shahzad,d6dcb0c9,NN Odhiambo,753b5a2d,Karim Sadiq,13e5908b,0,0,0,0,1,Mohammad Shahzad,d6dcb0c9,RG Aga,2fdd16fe,caught,0,0,0
+660203,2013/14,Afghanistan,0,Noor Ali Zadran,72e46d30,NN Odhiambo,753b5a2d,Karim Sadiq,13e5908b,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Afghanistan,0,Karim Sadiq,13e5908b,NN Odhiambo,753b5a2d,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,0,0,0
+660203,2013/14,Afghanistan,0,Karim Sadiq,13e5908b,NN Odhiambo,753b5a2d,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,0,0,0
+660203,2013/14,Afghanistan,1,Noor Ali Zadran,72e46d30,RG Aga,2fdd16fe,Karim Sadiq,13e5908b,0,0,0,0,0,,,,,,0,0,0
+660203,2013/14,Afghanistan,1,Noor Ali Zadran,72e46d30,RG Aga,2fdd16fe,Karim Sadiq,13e5908b,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Afghanistan,1,Karim Sadiq,13e5908b,RG Aga,2fdd16fe,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Afghanistan,1,Noor Ali Zadran,72e46d30,RG Aga,2fdd16fe,Karim Sadiq,13e5908b,0,0,0,0,0,,,,,,4,0,4
+660203,2013/14,Afghanistan,1,Noor Ali Zadran,72e46d30,RG Aga,2fdd16fe,Karim Sadiq,13e5908b,2,0,0,0,0,,,,,,0,2,2
+660203,2013/14,Afghanistan,1,Karim Sadiq,13e5908b,RG Aga,2fdd16fe,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,4,0,4
+660203,2013/14,Afghanistan,1,Karim Sadiq,13e5908b,RG Aga,2fdd16fe,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,0,0,0
+660203,2013/14,Afghanistan,2,Noor Ali Zadran,72e46d30,NN Odhiambo,753b5a2d,Karim Sadiq,13e5908b,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Afghanistan,2,Karim Sadiq,13e5908b,NN Odhiambo,753b5a2d,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,2,0,2
+660203,2013/14,Afghanistan,2,Karim Sadiq,13e5908b,NN Odhiambo,753b5a2d,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,4,0,4
+660203,2013/14,Afghanistan,2,Karim Sadiq,13e5908b,NN Odhiambo,753b5a2d,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Afghanistan,2,Noor Ali Zadran,72e46d30,NN Odhiambo,753b5a2d,Karim Sadiq,13e5908b,0,2,0,0,0,,,,,,0,2,2
+660203,2013/14,Afghanistan,2,Karim Sadiq,13e5908b,NN Odhiambo,753b5a2d,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,4,0,4
+660203,2013/14,Afghanistan,2,Karim Sadiq,13e5908b,NN Odhiambo,753b5a2d,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Afghanistan,3,Karim Sadiq,13e5908b,SO Ngoche,49118dc7,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,4,0,4
+660203,2013/14,Afghanistan,3,Karim Sadiq,13e5908b,SO Ngoche,49118dc7,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,0,0,0
+660203,2013/14,Afghanistan,3,Karim Sadiq,13e5908b,SO Ngoche,49118dc7,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Afghanistan,3,Noor Ali Zadran,72e46d30,SO Ngoche,49118dc7,Karim Sadiq,13e5908b,0,0,0,0,0,,,,,,2,0,2
+660203,2013/14,Afghanistan,3,Noor Ali Zadran,72e46d30,SO Ngoche,49118dc7,Karim Sadiq,13e5908b,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Afghanistan,3,Karim Sadiq,13e5908b,SO Ngoche,49118dc7,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,0,0,0
+660203,2013/14,Afghanistan,4,Noor Ali Zadran,72e46d30,HA Varaiya,eeeebf82,Karim Sadiq,13e5908b,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Afghanistan,4,Karim Sadiq,13e5908b,HA Varaiya,eeeebf82,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,4,0,4
+660203,2013/14,Afghanistan,4,Karim Sadiq,13e5908b,HA Varaiya,eeeebf82,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,0,0,0
+660203,2013/14,Afghanistan,4,Karim Sadiq,13e5908b,HA Varaiya,eeeebf82,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,2,0,2
+660203,2013/14,Afghanistan,4,Karim Sadiq,13e5908b,HA Varaiya,eeeebf82,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Afghanistan,4,Noor Ali Zadran,72e46d30,HA Varaiya,eeeebf82,Karim Sadiq,13e5908b,0,0,0,0,0,,,,,,4,0,4
+660203,2013/14,Afghanistan,5,Karim Sadiq,13e5908b,SO Ngoche,49118dc7,Noor Ali Zadran,72e46d30,0,0,0,0,1,Karim Sadiq,13e5908b,CO Obuya,5680f1ad,caught,0,0,0
+660203,2013/14,Afghanistan,5,Nawroz Mangal,0503ae22,SO Ngoche,49118dc7,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,0,0,0
+660203,2013/14,Afghanistan,5,Nawroz Mangal,0503ae22,SO Ngoche,49118dc7,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,0,0,0
+660203,2013/14,Afghanistan,5,Nawroz Mangal,0503ae22,SO Ngoche,49118dc7,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Afghanistan,5,Noor Ali Zadran,72e46d30,SO Ngoche,49118dc7,Nawroz Mangal,0503ae22,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Afghanistan,5,Nawroz Mangal,0503ae22,SO Ngoche,49118dc7,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,6,0,6
+660203,2013/14,Afghanistan,6,Noor Ali Zadran,72e46d30,TM Odoyo,2c13defe,Nawroz Mangal,0503ae22,0,0,0,0,0,,,,,,0,0,0
+660203,2013/14,Afghanistan,6,Noor Ali Zadran,72e46d30,TM Odoyo,2c13defe,Nawroz Mangal,0503ae22,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Afghanistan,6,Nawroz Mangal,0503ae22,TM Odoyo,2c13defe,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,0,0,0
+660203,2013/14,Afghanistan,6,Nawroz Mangal,0503ae22,TM Odoyo,2c13defe,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,0,0,0
+660203,2013/14,Afghanistan,6,Nawroz Mangal,0503ae22,TM Odoyo,2c13defe,Noor Ali Zadran,72e46d30,0,0,0,0,1,Nawroz Mangal,0503ae22,HA Varaiya,eeeebf82,caught,0,0,0
+660203,2013/14,Afghanistan,6,Noor Ali Zadran,72e46d30,TM Odoyo,2c13defe,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Afghanistan,7,Noor Ali Zadran,72e46d30,RG Aga,2fdd16fe,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,0,0,0
+660203,2013/14,Afghanistan,7,Noor Ali Zadran,72e46d30,RG Aga,2fdd16fe,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Afghanistan,7,Mohammad Nabi,62af8546,RG Aga,2fdd16fe,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Afghanistan,7,Noor Ali Zadran,72e46d30,RG Aga,2fdd16fe,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Afghanistan,7,Mohammad Nabi,62af8546,RG Aga,2fdd16fe,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,0,0,0
+660203,2013/14,Afghanistan,7,Mohammad Nabi,62af8546,RG Aga,2fdd16fe,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,0,0,0
+660203,2013/14,Afghanistan,8,Noor Ali Zadran,72e46d30,TM Odoyo,2c13defe,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Afghanistan,8,Mohammad Nabi,62af8546,TM Odoyo,2c13defe,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,2,0,2
+660203,2013/14,Afghanistan,8,Mohammad Nabi,62af8546,TM Odoyo,2c13defe,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Afghanistan,8,Noor Ali Zadran,72e46d30,TM Odoyo,2c13defe,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Afghanistan,8,Mohammad Nabi,62af8546,TM Odoyo,2c13defe,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Afghanistan,8,Noor Ali Zadran,72e46d30,TM Odoyo,2c13defe,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,0,0,0
+660203,2013/14,Afghanistan,9,Mohammad Nabi,62af8546,RG Aga,2fdd16fe,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,0,0,0
+660203,2013/14,Afghanistan,9,Mohammad Nabi,62af8546,RG Aga,2fdd16fe,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Afghanistan,9,Noor Ali Zadran,72e46d30,RG Aga,2fdd16fe,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Afghanistan,9,Mohammad Nabi,62af8546,RG Aga,2fdd16fe,Noor Ali Zadran,72e46d30,0,0,0,0,1,Mohammad Nabi,62af8546,AA Obanda,7081491e,caught,0,0,0
+660203,2013/14,Afghanistan,9,Samiullah Shenwari,61646132,RG Aga,2fdd16fe,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Afghanistan,9,Noor Ali Zadran,72e46d30,RG Aga,2fdd16fe,Samiullah Shenwari,61646132,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Afghanistan,10,Noor Ali Zadran,72e46d30,TM Odoyo,2c13defe,Samiullah Shenwari,61646132,0,0,0,0,0,,,,,,0,0,0
+660203,2013/14,Afghanistan,10,Noor Ali Zadran,72e46d30,TM Odoyo,2c13defe,Samiullah Shenwari,61646132,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Afghanistan,10,Samiullah Shenwari,61646132,TM Odoyo,2c13defe,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Afghanistan,10,Noor Ali Zadran,72e46d30,TM Odoyo,2c13defe,Samiullah Shenwari,61646132,0,0,0,0,0,,,,,,0,0,0
+660203,2013/14,Afghanistan,10,Noor Ali Zadran,72e46d30,TM Odoyo,2c13defe,Samiullah Shenwari,61646132,0,0,0,0,0,,,,,,0,0,0
+660203,2013/14,Afghanistan,10,Noor Ali Zadran,72e46d30,TM Odoyo,2c13defe,Samiullah Shenwari,61646132,0,0,0,0,1,Samiullah Shenwari,61646132,RR Patel,7fa6bd8e,run out,1,0,1
+660203,2013/14,Afghanistan,11,Najibullah Zadran,1212cbec,SO Tikolo,00d69fa4,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Afghanistan,11,Noor Ali Zadran,72e46d30,SO Tikolo,00d69fa4,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,0,0,0
+660203,2013/14,Afghanistan,11,Noor Ali Zadran,72e46d30,SO Tikolo,00d69fa4,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,0,0,0
+660203,2013/14,Afghanistan,11,Noor Ali Zadran,72e46d30,SO Tikolo,00d69fa4,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,0,0,0
+660203,2013/14,Afghanistan,11,Noor Ali Zadran,72e46d30,SO Tikolo,00d69fa4,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Afghanistan,11,Najibullah Zadran,1212cbec,SO Tikolo,00d69fa4,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,0,0,0
+660203,2013/14,Afghanistan,12,Noor Ali Zadran,72e46d30,TM Odoyo,2c13defe,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,0,0,0
+660203,2013/14,Afghanistan,12,Noor Ali Zadran,72e46d30,TM Odoyo,2c13defe,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,0,0,0
+660203,2013/14,Afghanistan,12,Noor Ali Zadran,72e46d30,TM Odoyo,2c13defe,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,6,0,6
+660203,2013/14,Afghanistan,12,Noor Ali Zadran,72e46d30,TM Odoyo,2c13defe,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,0,0,0
+660203,2013/14,Afghanistan,12,Noor Ali Zadran,72e46d30,TM Odoyo,2c13defe,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Afghanistan,12,Najibullah Zadran,1212cbec,TM Odoyo,2c13defe,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Afghanistan,13,Najibullah Zadran,1212cbec,SO Tikolo,00d69fa4,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Afghanistan,13,Noor Ali Zadran,72e46d30,SO Tikolo,00d69fa4,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Afghanistan,13,Najibullah Zadran,1212cbec,SO Tikolo,00d69fa4,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,6,0,6
+660203,2013/14,Afghanistan,13,Najibullah Zadran,1212cbec,SO Tikolo,00d69fa4,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,2,0,2
+660203,2013/14,Afghanistan,13,Najibullah Zadran,1212cbec,SO Tikolo,00d69fa4,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Afghanistan,13,Noor Ali Zadran,72e46d30,SO Tikolo,00d69fa4,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,0,0,0
+660203,2013/14,Afghanistan,14,Najibullah Zadran,1212cbec,DI Allan,5208c0a1,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,0,0,0
+660203,2013/14,Afghanistan,14,Najibullah Zadran,1212cbec,DI Allan,5208c0a1,Noor Ali Zadran,72e46d30,0,0,0,1,0,,,,,,0,1,1
+660203,2013/14,Afghanistan,14,Noor Ali Zadran,72e46d30,DI Allan,5208c0a1,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Afghanistan,14,Najibullah Zadran,1212cbec,DI Allan,5208c0a1,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Afghanistan,14,Noor Ali Zadran,72e46d30,DI Allan,5208c0a1,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Afghanistan,14,Najibullah Zadran,1212cbec,DI Allan,5208c0a1,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Afghanistan,15,Najibullah Zadran,1212cbec,RG Aga,2fdd16fe,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Afghanistan,15,Noor Ali Zadran,72e46d30,RG Aga,2fdd16fe,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Afghanistan,15,Najibullah Zadran,1212cbec,RG Aga,2fdd16fe,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,0,0,0
+660203,2013/14,Afghanistan,15,Najibullah Zadran,1212cbec,RG Aga,2fdd16fe,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Afghanistan,15,Noor Ali Zadran,72e46d30,RG Aga,2fdd16fe,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Afghanistan,15,Najibullah Zadran,1212cbec,RG Aga,2fdd16fe,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Afghanistan,16,Najibullah Zadran,1212cbec,SO Ngoche,49118dc7,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,3,0,3
+660203,2013/14,Afghanistan,16,Noor Ali Zadran,72e46d30,SO Ngoche,49118dc7,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Afghanistan,16,Najibullah Zadran,1212cbec,SO Ngoche,49118dc7,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Afghanistan,16,Noor Ali Zadran,72e46d30,SO Ngoche,49118dc7,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,4,0,4
+660203,2013/14,Afghanistan,16,Noor Ali Zadran,72e46d30,SO Ngoche,49118dc7,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Afghanistan,16,Najibullah Zadran,1212cbec,SO Ngoche,49118dc7,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Afghanistan,17,Najibullah Zadran,1212cbec,NN Odhiambo,753b5a2d,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,4,0,4
+660203,2013/14,Afghanistan,17,Najibullah Zadran,1212cbec,NN Odhiambo,753b5a2d,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,2,0,2
+660203,2013/14,Afghanistan,17,Najibullah Zadran,1212cbec,NN Odhiambo,753b5a2d,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Afghanistan,17,Noor Ali Zadran,72e46d30,NN Odhiambo,753b5a2d,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,4,0,4
+660203,2013/14,Afghanistan,17,Noor Ali Zadran,72e46d30,NN Odhiambo,753b5a2d,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Afghanistan,17,Najibullah Zadran,1212cbec,NN Odhiambo,753b5a2d,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Afghanistan,18,Najibullah Zadran,1212cbec,CO Obuya,5680f1ad,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Afghanistan,18,Noor Ali Zadran,72e46d30,CO Obuya,5680f1ad,Najibullah Zadran,1212cbec,0,0,0,0,1,Noor Ali Zadran,72e46d30,,,lbw,0,0,0
+660203,2013/14,Afghanistan,18,Shafiqullah,ba4d600a,CO Obuya,5680f1ad,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Afghanistan,18,Najibullah Zadran,1212cbec,CO Obuya,5680f1ad,Shafiqullah,ba4d600a,0,0,0,0,0,,,,,,2,0,2
+660203,2013/14,Afghanistan,18,Najibullah Zadran,1212cbec,CO Obuya,5680f1ad,Shafiqullah,ba4d600a,1,0,0,0,0,,,,,,0,1,1
+660203,2013/14,Afghanistan,18,Najibullah Zadran,1212cbec,CO Obuya,5680f1ad,Shafiqullah,ba4d600a,0,0,0,0,1,Najibullah Zadran,1212cbec,DI Allan,5208c0a1,caught,0,0,0
+660203,2013/14,Afghanistan,18,Shafiqullah,ba4d600a,CO Obuya,5680f1ad,Mirwais Ashraf,bdd985f2,0,0,0,0,0,,,,,,6,0,6
+660203,2013/14,Afghanistan,19,Mirwais Ashraf,bdd985f2,DI Allan,5208c0a1,Shafiqullah,ba4d600a,0,0,0,0,1,Mirwais Ashraf,bdd985f2,NN Odhiambo,753b5a2d,caught,0,0,0
+660203,2013/14,Afghanistan,19,Shafiqullah,ba4d600a,DI Allan,5208c0a1,Amir Hamza,dca1ac2e,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Afghanistan,19,Amir Hamza,dca1ac2e,DI Allan,5208c0a1,Shafiqullah,ba4d600a,0,0,0,0,0,,,,,,2,0,2
+660203,2013/14,Afghanistan,19,Amir Hamza,dca1ac2e,DI Allan,5208c0a1,Shafiqullah,ba4d600a,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Afghanistan,19,Shafiqullah,ba4d600a,DI Allan,5208c0a1,Amir Hamza,dca1ac2e,0,0,0,0,0,,,,,,0,0,0
+660203,2013/14,Afghanistan,19,Shafiqullah,ba4d600a,DI Allan,5208c0a1,Amir Hamza,dca1ac2e,0,0,0,0,1,Shafiqullah,ba4d600a,HA Varaiya,eeeebf82,caught,0,0,0
+660203,2013/14,Kenya,0,SO Tikolo,00d69fa4,Karim Sadiq,13e5908b,NN Odhiambo,753b5a2d,0,0,0,0,0,,,,,,0,0,0
+660203,2013/14,Kenya,0,SO Tikolo,00d69fa4,Karim Sadiq,13e5908b,NN Odhiambo,753b5a2d,0,0,0,0,0,,,,,,0,0,0
+660203,2013/14,Kenya,0,SO Tikolo,00d69fa4,Karim Sadiq,13e5908b,NN Odhiambo,753b5a2d,0,0,0,0,0,,,,,,2,0,2
+660203,2013/14,Kenya,0,SO Tikolo,00d69fa4,Karim Sadiq,13e5908b,NN Odhiambo,753b5a2d,0,0,0,0,0,,,,,,4,0,4
+660203,2013/14,Kenya,0,SO Tikolo,00d69fa4,Karim Sadiq,13e5908b,NN Odhiambo,753b5a2d,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Kenya,0,NN Odhiambo,753b5a2d,Karim Sadiq,13e5908b,SO Tikolo,00d69fa4,0,0,0,0,0,,,,,,6,0,6
+660203,2013/14,Kenya,1,SO Tikolo,00d69fa4,Shapoor Zadran,fccebff9,NN Odhiambo,753b5a2d,0,0,0,0,0,,,,,,4,0,4
+660203,2013/14,Kenya,1,SO Tikolo,00d69fa4,Shapoor Zadran,fccebff9,NN Odhiambo,753b5a2d,0,0,0,0,0,,,,,,4,0,4
+660203,2013/14,Kenya,1,SO Tikolo,00d69fa4,Shapoor Zadran,fccebff9,NN Odhiambo,753b5a2d,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Kenya,1,NN Odhiambo,753b5a2d,Shapoor Zadran,fccebff9,SO Tikolo,00d69fa4,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Kenya,1,SO Tikolo,00d69fa4,Shapoor Zadran,fccebff9,NN Odhiambo,753b5a2d,0,0,0,0,0,,,,,,4,0,4
+660203,2013/14,Kenya,1,SO Tikolo,00d69fa4,Shapoor Zadran,fccebff9,NN Odhiambo,753b5a2d,0,0,0,0,0,,,,,,4,0,4
+660203,2013/14,Kenya,2,NN Odhiambo,753b5a2d,Samiullah Shenwari,61646132,SO Tikolo,00d69fa4,0,0,0,0,0,,,,,,0,0,0
+660203,2013/14,Kenya,2,NN Odhiambo,753b5a2d,Samiullah Shenwari,61646132,SO Tikolo,00d69fa4,0,0,0,0,1,NN Odhiambo,753b5a2d,Mohammad Shahzad,d6dcb0c9,stumped,0,0,0
+660203,2013/14,Kenya,2,AA Obanda,7081491e,Samiullah Shenwari,61646132,SO Tikolo,00d69fa4,0,0,0,0,1,AA Obanda,7081491e,Mohammad Nabi,62af8546,caught,0,0,0
+660203,2013/14,Kenya,2,DI Allan,5208c0a1,Samiullah Shenwari,61646132,SO Tikolo,00d69fa4,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Kenya,2,SO Tikolo,00d69fa4,Samiullah Shenwari,61646132,DI Allan,5208c0a1,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Kenya,2,DI Allan,5208c0a1,Samiullah Shenwari,61646132,SO Tikolo,00d69fa4,0,0,0,0,0,,,,,,0,0,0
+660203,2013/14,Kenya,3,SO Tikolo,00d69fa4,Amir Hamza,dca1ac2e,DI Allan,5208c0a1,0,0,0,0,0,,,,,,0,0,0
+660203,2013/14,Kenya,3,SO Tikolo,00d69fa4,Amir Hamza,dca1ac2e,DI Allan,5208c0a1,0,0,0,0,0,,,,,,0,0,0
+660203,2013/14,Kenya,3,SO Tikolo,00d69fa4,Amir Hamza,dca1ac2e,DI Allan,5208c0a1,0,0,0,0,0,,,,,,0,0,0
+660203,2013/14,Kenya,3,SO Tikolo,00d69fa4,Amir Hamza,dca1ac2e,DI Allan,5208c0a1,0,0,0,0,0,,,,,,0,0,0
+660203,2013/14,Kenya,3,SO Tikolo,00d69fa4,Amir Hamza,dca1ac2e,DI Allan,5208c0a1,0,0,0,0,1,SO Tikolo,00d69fa4,,,bowled,0,0,0
+660203,2013/14,Kenya,3,CO Obuya,5680f1ad,Amir Hamza,dca1ac2e,DI Allan,5208c0a1,0,0,0,0,0,,,,,,0,0,0
+660203,2013/14,Kenya,4,DI Allan,5208c0a1,Samiullah Shenwari,61646132,CO Obuya,5680f1ad,0,0,0,0,0,,,,,,0,0,0
+660203,2013/14,Kenya,4,DI Allan,5208c0a1,Samiullah Shenwari,61646132,CO Obuya,5680f1ad,0,0,0,0,1,DI Allan,5208c0a1,,,lbw,0,0,0
+660203,2013/14,Kenya,4,RR Patel,7fa6bd8e,Samiullah Shenwari,61646132,CO Obuya,5680f1ad,0,0,0,0,0,,,,,,0,0,0
+660203,2013/14,Kenya,4,RR Patel,7fa6bd8e,Samiullah Shenwari,61646132,CO Obuya,5680f1ad,0,0,0,0,0,,,,,,0,0,0
+660203,2013/14,Kenya,4,RR Patel,7fa6bd8e,Samiullah Shenwari,61646132,CO Obuya,5680f1ad,0,0,0,0,0,,,,,,0,0,0
+660203,2013/14,Kenya,4,RR Patel,7fa6bd8e,Samiullah Shenwari,61646132,CO Obuya,5680f1ad,0,0,0,0,0,,,,,,4,0,4
+660203,2013/14,Kenya,5,CO Obuya,5680f1ad,Amir Hamza,dca1ac2e,RR Patel,7fa6bd8e,0,0,0,0,0,,,,,,0,0,0
+660203,2013/14,Kenya,5,CO Obuya,5680f1ad,Amir Hamza,dca1ac2e,RR Patel,7fa6bd8e,0,0,0,0,0,,,,,,0,0,0
+660203,2013/14,Kenya,5,CO Obuya,5680f1ad,Amir Hamza,dca1ac2e,RR Patel,7fa6bd8e,0,0,0,0,0,,,,,,0,0,0
+660203,2013/14,Kenya,5,CO Obuya,5680f1ad,Amir Hamza,dca1ac2e,RR Patel,7fa6bd8e,0,0,0,0,0,,,,,,0,0,0
+660203,2013/14,Kenya,5,CO Obuya,5680f1ad,Amir Hamza,dca1ac2e,RR Patel,7fa6bd8e,0,0,0,0,0,,,,,,0,0,0
+660203,2013/14,Kenya,5,CO Obuya,5680f1ad,Amir Hamza,dca1ac2e,RR Patel,7fa6bd8e,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Kenya,6,CO Obuya,5680f1ad,Mohammad Nabi,62af8546,RR Patel,7fa6bd8e,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Kenya,6,RR Patel,7fa6bd8e,Mohammad Nabi,62af8546,CO Obuya,5680f1ad,0,0,0,0,0,,,,,,0,0,0
+660203,2013/14,Kenya,6,RR Patel,7fa6bd8e,Mohammad Nabi,62af8546,CO Obuya,5680f1ad,0,0,0,0,0,,,,,,0,0,0
+660203,2013/14,Kenya,6,RR Patel,7fa6bd8e,Mohammad Nabi,62af8546,CO Obuya,5680f1ad,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Kenya,6,CO Obuya,5680f1ad,Mohammad Nabi,62af8546,RR Patel,7fa6bd8e,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Kenya,6,RR Patel,7fa6bd8e,Mohammad Nabi,62af8546,CO Obuya,5680f1ad,0,0,0,0,0,,,,,,0,0,0
+660203,2013/14,Kenya,7,CO Obuya,5680f1ad,Karim Sadiq,13e5908b,RR Patel,7fa6bd8e,0,0,0,0,0,,,,,,0,0,0
+660203,2013/14,Kenya,7,CO Obuya,5680f1ad,Karim Sadiq,13e5908b,RR Patel,7fa6bd8e,0,0,0,0,0,,,,,,0,0,0
+660203,2013/14,Kenya,7,CO Obuya,5680f1ad,Karim Sadiq,13e5908b,RR Patel,7fa6bd8e,0,0,0,0,0,,,,,,0,0,0
+660203,2013/14,Kenya,7,CO Obuya,5680f1ad,Karim Sadiq,13e5908b,RR Patel,7fa6bd8e,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Kenya,7,RR Patel,7fa6bd8e,Karim Sadiq,13e5908b,CO Obuya,5680f1ad,0,0,0,0,0,,,,,,6,0,6
+660203,2013/14,Kenya,7,RR Patel,7fa6bd8e,Karim Sadiq,13e5908b,CO Obuya,5680f1ad,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Kenya,8,RR Patel,7fa6bd8e,Mohammad Nabi,62af8546,CO Obuya,5680f1ad,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Kenya,8,CO Obuya,5680f1ad,Mohammad Nabi,62af8546,RR Patel,7fa6bd8e,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Kenya,8,RR Patel,7fa6bd8e,Mohammad Nabi,62af8546,CO Obuya,5680f1ad,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Kenya,8,CO Obuya,5680f1ad,Mohammad Nabi,62af8546,RR Patel,7fa6bd8e,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Kenya,8,RR Patel,7fa6bd8e,Mohammad Nabi,62af8546,CO Obuya,5680f1ad,0,0,0,0,0,,,,,,0,0,0
+660203,2013/14,Kenya,8,RR Patel,7fa6bd8e,Mohammad Nabi,62af8546,CO Obuya,5680f1ad,0,0,0,0,0,,,,,,2,0,2
+660203,2013/14,Kenya,9,CO Obuya,5680f1ad,Mirwais Ashraf,bdd985f2,RR Patel,7fa6bd8e,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Kenya,9,RR Patel,7fa6bd8e,Mirwais Ashraf,bdd985f2,CO Obuya,5680f1ad,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Kenya,9,CO Obuya,5680f1ad,Mirwais Ashraf,bdd985f2,RR Patel,7fa6bd8e,0,0,0,0,0,,,,,,0,0,0
+660203,2013/14,Kenya,9,CO Obuya,5680f1ad,Mirwais Ashraf,bdd985f2,RR Patel,7fa6bd8e,0,0,1,0,0,,,,,,0,1,1
+660203,2013/14,Kenya,9,RR Patel,7fa6bd8e,Mirwais Ashraf,bdd985f2,CO Obuya,5680f1ad,0,0,0,0,0,,,,,,0,0,0
+660203,2013/14,Kenya,9,RR Patel,7fa6bd8e,Mirwais Ashraf,bdd985f2,CO Obuya,5680f1ad,0,0,0,0,0,,,,,,6,0,6
+660203,2013/14,Kenya,10,CO Obuya,5680f1ad,Mohammad Nabi,62af8546,RR Patel,7fa6bd8e,0,0,0,0,0,,,,,,0,0,0
+660203,2013/14,Kenya,10,CO Obuya,5680f1ad,Mohammad Nabi,62af8546,RR Patel,7fa6bd8e,0,0,0,0,0,,,,,,0,0,0
+660203,2013/14,Kenya,10,CO Obuya,5680f1ad,Mohammad Nabi,62af8546,RR Patel,7fa6bd8e,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Kenya,10,RR Patel,7fa6bd8e,Mohammad Nabi,62af8546,CO Obuya,5680f1ad,0,0,0,0,0,,,,,,0,0,0
+660203,2013/14,Kenya,10,RR Patel,7fa6bd8e,Mohammad Nabi,62af8546,CO Obuya,5680f1ad,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Kenya,10,CO Obuya,5680f1ad,Mohammad Nabi,62af8546,RR Patel,7fa6bd8e,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Kenya,11,CO Obuya,5680f1ad,Amir Hamza,dca1ac2e,RR Patel,7fa6bd8e,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Kenya,11,RR Patel,7fa6bd8e,Amir Hamza,dca1ac2e,CO Obuya,5680f1ad,1,0,0,0,0,,,,,,0,1,1
+660203,2013/14,Kenya,11,RR Patel,7fa6bd8e,Amir Hamza,dca1ac2e,CO Obuya,5680f1ad,0,0,0,0,0,,,,,,2,0,2
+660203,2013/14,Kenya,11,RR Patel,7fa6bd8e,Amir Hamza,dca1ac2e,CO Obuya,5680f1ad,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Kenya,11,CO Obuya,5680f1ad,Amir Hamza,dca1ac2e,RR Patel,7fa6bd8e,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Kenya,11,RR Patel,7fa6bd8e,Amir Hamza,dca1ac2e,CO Obuya,5680f1ad,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Kenya,11,CO Obuya,5680f1ad,Amir Hamza,dca1ac2e,RR Patel,7fa6bd8e,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Kenya,12,CO Obuya,5680f1ad,Samiullah Shenwari,61646132,RR Patel,7fa6bd8e,0,0,0,0,1,CO Obuya,5680f1ad,Mohammad Shahzad,d6dcb0c9,stumped,0,0,0
+660203,2013/14,Kenya,12,IA Karim,ca92a578,Samiullah Shenwari,61646132,RR Patel,7fa6bd8e,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Kenya,12,RR Patel,7fa6bd8e,Samiullah Shenwari,61646132,IA Karim,ca92a578,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Kenya,12,IA Karim,ca92a578,Samiullah Shenwari,61646132,RR Patel,7fa6bd8e,0,0,0,0,0,,,,,,0,0,0
+660203,2013/14,Kenya,12,IA Karim,ca92a578,Samiullah Shenwari,61646132,RR Patel,7fa6bd8e,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Kenya,12,RR Patel,7fa6bd8e,Samiullah Shenwari,61646132,IA Karim,ca92a578,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Kenya,13,RR Patel,7fa6bd8e,Mirwais Ashraf,bdd985f2,IA Karim,ca92a578,0,0,0,0,0,,,,,,2,0,2
+660203,2013/14,Kenya,13,RR Patel,7fa6bd8e,Mirwais Ashraf,bdd985f2,IA Karim,ca92a578,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Kenya,13,IA Karim,ca92a578,Mirwais Ashraf,bdd985f2,RR Patel,7fa6bd8e,0,0,0,0,0,,,,,,0,0,0
+660203,2013/14,Kenya,13,IA Karim,ca92a578,Mirwais Ashraf,bdd985f2,RR Patel,7fa6bd8e,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Kenya,13,RR Patel,7fa6bd8e,Mirwais Ashraf,bdd985f2,IA Karim,ca92a578,0,0,0,0,0,,,,,,0,0,0
+660203,2013/14,Kenya,13,RR Patel,7fa6bd8e,Mirwais Ashraf,bdd985f2,IA Karim,ca92a578,0,0,0,0,0,,,,,,0,0,0
+660203,2013/14,Kenya,14,IA Karim,ca92a578,Samiullah Shenwari,61646132,RR Patel,7fa6bd8e,0,0,0,0,1,IA Karim,ca92a578,Mirwais Ashraf,bdd985f2,caught,0,0,0
+660203,2013/14,Kenya,14,RR Patel,7fa6bd8e,Samiullah Shenwari,61646132,TM Odoyo,2c13defe,0,0,0,0,0,,,,,,0,0,0
+660203,2013/14,Kenya,14,RR Patel,7fa6bd8e,Samiullah Shenwari,61646132,TM Odoyo,2c13defe,0,0,0,0,0,,,,,,2,0,2
+660203,2013/14,Kenya,14,RR Patel,7fa6bd8e,Samiullah Shenwari,61646132,TM Odoyo,2c13defe,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Kenya,14,TM Odoyo,2c13defe,Samiullah Shenwari,61646132,RR Patel,7fa6bd8e,0,0,0,0,0,,,,,,0,0,0
+660203,2013/14,Kenya,14,TM Odoyo,2c13defe,Samiullah Shenwari,61646132,RR Patel,7fa6bd8e,0,0,0,0,0,,,,,,0,0,0
+660203,2013/14,Kenya,15,RR Patel,7fa6bd8e,Mirwais Ashraf,bdd985f2,TM Odoyo,2c13defe,0,0,0,0,0,,,,,,6,0,6
+660203,2013/14,Kenya,15,RR Patel,7fa6bd8e,Mirwais Ashraf,bdd985f2,TM Odoyo,2c13defe,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Kenya,15,TM Odoyo,2c13defe,Mirwais Ashraf,bdd985f2,RR Patel,7fa6bd8e,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Kenya,15,RR Patel,7fa6bd8e,Mirwais Ashraf,bdd985f2,TM Odoyo,2c13defe,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Kenya,15,TM Odoyo,2c13defe,Mirwais Ashraf,bdd985f2,RR Patel,7fa6bd8e,0,0,0,0,0,,,,,,6,0,6
+660203,2013/14,Kenya,15,TM Odoyo,2c13defe,Mirwais Ashraf,bdd985f2,RR Patel,7fa6bd8e,0,0,0,0,1,TM Odoyo,2c13defe,,,bowled,0,0,0
+660203,2013/14,Kenya,16,RR Patel,7fa6bd8e,Mohammad Nabi,62af8546,RG Aga,2fdd16fe,0,0,0,0,0,,,,,,3,0,3
+660203,2013/14,Kenya,16,RG Aga,2fdd16fe,Mohammad Nabi,62af8546,RR Patel,7fa6bd8e,0,0,0,0,0,,,,,,0,0,0
+660203,2013/14,Kenya,16,RG Aga,2fdd16fe,Mohammad Nabi,62af8546,RR Patel,7fa6bd8e,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Kenya,16,RR Patel,7fa6bd8e,Mohammad Nabi,62af8546,RG Aga,2fdd16fe,0,0,0,0,0,,,,,,4,0,4
+660203,2013/14,Kenya,16,RR Patel,7fa6bd8e,Mohammad Nabi,62af8546,RG Aga,2fdd16fe,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Kenya,16,RG Aga,2fdd16fe,Mohammad Nabi,62af8546,RR Patel,7fa6bd8e,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Kenya,17,RG Aga,2fdd16fe,Shapoor Zadran,fccebff9,RR Patel,7fa6bd8e,0,0,0,0,1,RG Aga,2fdd16fe,Karim Sadiq,13e5908b,caught,0,0,0
+660203,2013/14,Kenya,17,RR Patel,7fa6bd8e,Shapoor Zadran,fccebff9,SO Ngoche,49118dc7,0,0,0,0,1,RR Patel,7fa6bd8e,Najibullah Zadran,1212cbec,caught,0,0,0
+660203,2013/14,Kenya,17,HA Varaiya,eeeebf82,Shapoor Zadran,fccebff9,SO Ngoche,49118dc7,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Kenya,17,SO Ngoche,49118dc7,Shapoor Zadran,fccebff9,HA Varaiya,eeeebf82,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Kenya,17,HA Varaiya,eeeebf82,Shapoor Zadran,fccebff9,SO Ngoche,49118dc7,0,0,0,0,0,,,,,,1,0,1
+660203,2013/14,Kenya,17,SO Ngoche,49118dc7,Shapoor Zadran,fccebff9,HA Varaiya,eeeebf82,0,0,0,0,0,,,,,,0,0,0
+660203,2013/14,Kenya,18,HA Varaiya,eeeebf82,Mirwais Ashraf,bdd985f2,SO Ngoche,49118dc7,0,0,0,0,0,,,,,,0,0,0
+660203,2013/14,Kenya,18,HA Varaiya,eeeebf82,Mirwais Ashraf,bdd985f2,SO Ngoche,49118dc7,0,0,0,0,1,HA Varaiya,eeeebf82,Mohammad Nabi,62af8546,caught,0,0,0

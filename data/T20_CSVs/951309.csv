@@ -1,0 +1,245 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+951309,2015/16,Bangladesh,0,Tamim Iqbal,3b041a12,Mudassar Bukhari,37312a74,Soumya Sarkar,4d9f9686,0,0,0,0,0,,,,,,1,0,1
+951309,2015/16,Bangladesh,0,Soumya Sarkar,4d9f9686,Mudassar Bukhari,37312a74,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,0,0,0
+951309,2015/16,Bangladesh,0,Soumya Sarkar,4d9f9686,Mudassar Bukhari,37312a74,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,0,0,0
+951309,2015/16,Bangladesh,0,Soumya Sarkar,4d9f9686,Mudassar Bukhari,37312a74,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,2,0,2
+951309,2015/16,Bangladesh,0,Soumya Sarkar,4d9f9686,Mudassar Bukhari,37312a74,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,4,0,4
+951309,2015/16,Bangladesh,0,Soumya Sarkar,4d9f9686,Mudassar Bukhari,37312a74,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,1,0,1
+951309,2015/16,Bangladesh,1,Soumya Sarkar,4d9f9686,T van der Gugten,d99cc23a,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,0,0,0
+951309,2015/16,Bangladesh,1,Soumya Sarkar,4d9f9686,T van der Gugten,d99cc23a,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,4,0,4
+951309,2015/16,Bangladesh,1,Soumya Sarkar,4d9f9686,T van der Gugten,d99cc23a,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,0,0,0
+951309,2015/16,Bangladesh,1,Soumya Sarkar,4d9f9686,T van der Gugten,d99cc23a,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,0,0,0
+951309,2015/16,Bangladesh,1,Soumya Sarkar,4d9f9686,T van der Gugten,d99cc23a,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,1,0,1
+951309,2015/16,Bangladesh,1,Tamim Iqbal,3b041a12,T van der Gugten,d99cc23a,Soumya Sarkar,4d9f9686,0,0,0,0,0,,,,,,1,0,1
+951309,2015/16,Bangladesh,2,Tamim Iqbal,3b041a12,Mudassar Bukhari,37312a74,Soumya Sarkar,4d9f9686,0,0,0,0,0,,,,,,0,0,0
+951309,2015/16,Bangladesh,2,Tamim Iqbal,3b041a12,Mudassar Bukhari,37312a74,Soumya Sarkar,4d9f9686,0,0,0,0,0,,,,,,0,0,0
+951309,2015/16,Bangladesh,2,Tamim Iqbal,3b041a12,Mudassar Bukhari,37312a74,Soumya Sarkar,4d9f9686,0,0,0,0,0,,,,,,1,0,1
+951309,2015/16,Bangladesh,2,Soumya Sarkar,4d9f9686,Mudassar Bukhari,37312a74,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,2,0,2
+951309,2015/16,Bangladesh,2,Soumya Sarkar,4d9f9686,Mudassar Bukhari,37312a74,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,1,0,1
+951309,2015/16,Bangladesh,2,Tamim Iqbal,3b041a12,Mudassar Bukhari,37312a74,Soumya Sarkar,4d9f9686,0,0,0,0,0,,,,,,0,0,0
+951309,2015/16,Bangladesh,3,Soumya Sarkar,4d9f9686,PA van Meekeren,4557dc54,Tamim Iqbal,3b041a12,0,0,0,0,1,Soumya Sarkar,4d9f9686,W Barresi,0d677597,caught,0,0,0
+951309,2015/16,Bangladesh,3,Sabbir Rahman,7147f314,PA van Meekeren,4557dc54,Tamim Iqbal,3b041a12,0,0,1,0,0,,,,,,0,1,1
+951309,2015/16,Bangladesh,3,Tamim Iqbal,3b041a12,PA van Meekeren,4557dc54,Sabbir Rahman,7147f314,0,0,0,0,0,,,,,,0,0,0
+951309,2015/16,Bangladesh,3,Tamim Iqbal,3b041a12,PA van Meekeren,4557dc54,Sabbir Rahman,7147f314,0,0,0,0,0,,,,,,0,0,0
+951309,2015/16,Bangladesh,3,Tamim Iqbal,3b041a12,PA van Meekeren,4557dc54,Sabbir Rahman,7147f314,0,0,0,0,0,,,,,,2,0,2
+951309,2015/16,Bangladesh,3,Tamim Iqbal,3b041a12,PA van Meekeren,4557dc54,Sabbir Rahman,7147f314,0,0,0,0,0,,,,,,2,0,2
+951309,2015/16,Bangladesh,4,Sabbir Rahman,7147f314,T van der Gugten,d99cc23a,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,1,0,1
+951309,2015/16,Bangladesh,4,Tamim Iqbal,3b041a12,T van der Gugten,d99cc23a,Sabbir Rahman,7147f314,0,0,0,0,0,,,,,,1,0,1
+951309,2015/16,Bangladesh,4,Sabbir Rahman,7147f314,T van der Gugten,d99cc23a,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,0,0,0
+951309,2015/16,Bangladesh,4,Sabbir Rahman,7147f314,T van der Gugten,d99cc23a,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,0,0,0
+951309,2015/16,Bangladesh,4,Sabbir Rahman,7147f314,T van der Gugten,d99cc23a,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,0,0,0
+951309,2015/16,Bangladesh,4,Sabbir Rahman,7147f314,T van der Gugten,d99cc23a,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,1,0,1
+951309,2015/16,Bangladesh,5,Sabbir Rahman,7147f314,PA van Meekeren,4557dc54,Tamim Iqbal,3b041a12,1,0,0,0,0,,,,,,0,1,1
+951309,2015/16,Bangladesh,5,Sabbir Rahman,7147f314,PA van Meekeren,4557dc54,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,1,0,1
+951309,2015/16,Bangladesh,5,Tamim Iqbal,3b041a12,PA van Meekeren,4557dc54,Sabbir Rahman,7147f314,0,0,0,0,0,,,,,,4,0,4
+951309,2015/16,Bangladesh,5,Tamim Iqbal,3b041a12,PA van Meekeren,4557dc54,Sabbir Rahman,7147f314,0,0,0,0,0,,,,,,0,0,0
+951309,2015/16,Bangladesh,5,Tamim Iqbal,3b041a12,PA van Meekeren,4557dc54,Sabbir Rahman,7147f314,0,0,0,0,0,,,,,,0,0,0
+951309,2015/16,Bangladesh,5,Tamim Iqbal,3b041a12,PA van Meekeren,4557dc54,Sabbir Rahman,7147f314,0,0,0,0,0,,,,,,1,0,1
+951309,2015/16,Bangladesh,5,Sabbir Rahman,7147f314,PA van Meekeren,4557dc54,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,0,0,0
+951309,2015/16,Bangladesh,6,Tamim Iqbal,3b041a12,RE van der Merwe,05c2ca46,Sabbir Rahman,7147f314,0,0,0,0,0,,,,,,1,0,1
+951309,2015/16,Bangladesh,6,Sabbir Rahman,7147f314,RE van der Merwe,05c2ca46,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,0,0,0
+951309,2015/16,Bangladesh,6,Sabbir Rahman,7147f314,RE van der Merwe,05c2ca46,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,1,0,1
+951309,2015/16,Bangladesh,6,Tamim Iqbal,3b041a12,RE van der Merwe,05c2ca46,Sabbir Rahman,7147f314,0,0,0,0,0,,,,,,0,0,0
+951309,2015/16,Bangladesh,6,Tamim Iqbal,3b041a12,RE van der Merwe,05c2ca46,Sabbir Rahman,7147f314,0,0,0,0,0,,,,,,0,0,0
+951309,2015/16,Bangladesh,6,Tamim Iqbal,3b041a12,RE van der Merwe,05c2ca46,Sabbir Rahman,7147f314,0,0,0,0,0,,,,,,6,0,6
+951309,2015/16,Bangladesh,7,Sabbir Rahman,7147f314,Mudassar Bukhari,37312a74,Tamim Iqbal,3b041a12,0,0,1,0,0,,,,,,0,1,1
+951309,2015/16,Bangladesh,7,Tamim Iqbal,3b041a12,Mudassar Bukhari,37312a74,Sabbir Rahman,7147f314,0,0,0,0,0,,,,,,4,0,4
+951309,2015/16,Bangladesh,7,Tamim Iqbal,3b041a12,Mudassar Bukhari,37312a74,Sabbir Rahman,7147f314,0,0,0,0,0,,,,,,1,0,1
+951309,2015/16,Bangladesh,7,Sabbir Rahman,7147f314,Mudassar Bukhari,37312a74,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,4,0,4
+951309,2015/16,Bangladesh,7,Sabbir Rahman,7147f314,Mudassar Bukhari,37312a74,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,1,0,1
+951309,2015/16,Bangladesh,7,Tamim Iqbal,3b041a12,Mudassar Bukhari,37312a74,Sabbir Rahman,7147f314,0,0,0,0,0,,,,,,1,0,1
+951309,2015/16,Bangladesh,8,Tamim Iqbal,3b041a12,RE van der Merwe,05c2ca46,Sabbir Rahman,7147f314,0,0,0,0,0,,,,,,1,0,1
+951309,2015/16,Bangladesh,8,Sabbir Rahman,7147f314,RE van der Merwe,05c2ca46,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,6,0,6
+951309,2015/16,Bangladesh,8,Sabbir Rahman,7147f314,RE van der Merwe,05c2ca46,Tamim Iqbal,3b041a12,0,0,0,0,1,Sabbir Rahman,7147f314,,,lbw,0,0,0
+951309,2015/16,Bangladesh,8,Shakib Al Hasan,7dc35884,RE van der Merwe,05c2ca46,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,1,0,1
+951309,2015/16,Bangladesh,8,Tamim Iqbal,3b041a12,RE van der Merwe,05c2ca46,Shakib Al Hasan,7dc35884,0,0,1,0,0,,,,,,0,1,1
+951309,2015/16,Bangladesh,8,Shakib Al Hasan,7dc35884,RE van der Merwe,05c2ca46,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,0,0,0
+951309,2015/16,Bangladesh,9,Tamim Iqbal,3b041a12,LV van Beek,782fb776,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,3,0,3
+951309,2015/16,Bangladesh,9,Shakib Al Hasan,7dc35884,LV van Beek,782fb776,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,1,0,1
+951309,2015/16,Bangladesh,9,Tamim Iqbal,3b041a12,LV van Beek,782fb776,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+951309,2015/16,Bangladesh,9,Shakib Al Hasan,7dc35884,LV van Beek,782fb776,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,1,0,1
+951309,2015/16,Bangladesh,9,Tamim Iqbal,3b041a12,LV van Beek,782fb776,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+951309,2015/16,Bangladesh,9,Shakib Al Hasan,7dc35884,LV van Beek,782fb776,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,1,0,1
+951309,2015/16,Bangladesh,10,Shakib Al Hasan,7dc35884,PW Borren,91052c96,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,1,0,1
+951309,2015/16,Bangladesh,10,Tamim Iqbal,3b041a12,PW Borren,91052c96,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,2,0,2
+951309,2015/16,Bangladesh,10,Tamim Iqbal,3b041a12,PW Borren,91052c96,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,4,0,4
+951309,2015/16,Bangladesh,10,Tamim Iqbal,3b041a12,PW Borren,91052c96,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+951309,2015/16,Bangladesh,10,Shakib Al Hasan,7dc35884,PW Borren,91052c96,Tamim Iqbal,3b041a12,0,0,0,0,1,Shakib Al Hasan,7dc35884,SJ Myburgh,18261c22,caught,0,0,0
+951309,2015/16,Bangladesh,10,Mahmudullah,bf1d7d3e,PW Borren,91052c96,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,1,0,1
+951309,2015/16,Bangladesh,11,Mahmudullah,bf1d7d3e,Mudassar Bukhari,37312a74,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,0,0,0
+951309,2015/16,Bangladesh,11,Mahmudullah,bf1d7d3e,Mudassar Bukhari,37312a74,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,4,0,4
+951309,2015/16,Bangladesh,11,Mahmudullah,bf1d7d3e,Mudassar Bukhari,37312a74,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,0,0,0
+951309,2015/16,Bangladesh,11,Mahmudullah,bf1d7d3e,Mudassar Bukhari,37312a74,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,2,0,2
+951309,2015/16,Bangladesh,11,Mahmudullah,bf1d7d3e,Mudassar Bukhari,37312a74,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,1,0,1
+951309,2015/16,Bangladesh,11,Tamim Iqbal,3b041a12,Mudassar Bukhari,37312a74,Mahmudullah,bf1d7d3e,0,0,0,0,0,,,,,,1,0,1
+951309,2015/16,Bangladesh,12,Tamim Iqbal,3b041a12,RE van der Merwe,05c2ca46,Mahmudullah,bf1d7d3e,0,0,0,0,0,,,,,,6,0,6
+951309,2015/16,Bangladesh,12,Tamim Iqbal,3b041a12,RE van der Merwe,05c2ca46,Mahmudullah,bf1d7d3e,0,0,0,0,0,,,,,,0,0,0
+951309,2015/16,Bangladesh,12,Tamim Iqbal,3b041a12,RE van der Merwe,05c2ca46,Mahmudullah,bf1d7d3e,1,0,0,0,0,,,,,,0,1,1
+951309,2015/16,Bangladesh,12,Tamim Iqbal,3b041a12,RE van der Merwe,05c2ca46,Mahmudullah,bf1d7d3e,0,0,0,0,0,,,,,,2,0,2
+951309,2015/16,Bangladesh,12,Tamim Iqbal,3b041a12,RE van der Merwe,05c2ca46,Mahmudullah,bf1d7d3e,0,0,0,0,0,,,,,,0,0,0
+951309,2015/16,Bangladesh,12,Tamim Iqbal,3b041a12,RE van der Merwe,05c2ca46,Mahmudullah,bf1d7d3e,0,0,0,0,0,,,,,,2,0,2
+951309,2015/16,Bangladesh,12,Tamim Iqbal,3b041a12,RE van der Merwe,05c2ca46,Mahmudullah,bf1d7d3e,0,0,0,0,0,,,,,,1,0,1
+951309,2015/16,Bangladesh,13,Tamim Iqbal,3b041a12,LV van Beek,782fb776,Mahmudullah,bf1d7d3e,0,0,0,0,0,,,,,,4,0,4
+951309,2015/16,Bangladesh,13,Tamim Iqbal,3b041a12,LV van Beek,782fb776,Mahmudullah,bf1d7d3e,0,0,0,0,0,,,,,,0,0,0
+951309,2015/16,Bangladesh,13,Tamim Iqbal,3b041a12,LV van Beek,782fb776,Mahmudullah,bf1d7d3e,0,0,0,0,0,,,,,,0,0,0
+951309,2015/16,Bangladesh,13,Tamim Iqbal,3b041a12,LV van Beek,782fb776,Mahmudullah,bf1d7d3e,0,0,0,0,0,,,,,,4,0,4
+951309,2015/16,Bangladesh,13,Tamim Iqbal,3b041a12,LV van Beek,782fb776,Mahmudullah,bf1d7d3e,0,0,0,0,0,,,,,,1,0,1
+951309,2015/16,Bangladesh,13,Mahmudullah,bf1d7d3e,LV van Beek,782fb776,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,1,0,1
+951309,2015/16,Bangladesh,14,Mahmudullah,bf1d7d3e,T van der Gugten,d99cc23a,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,1,0,1
+951309,2015/16,Bangladesh,14,Tamim Iqbal,3b041a12,T van der Gugten,d99cc23a,Mahmudullah,bf1d7d3e,0,0,0,0,0,,,,,,1,0,1
+951309,2015/16,Bangladesh,14,Mahmudullah,bf1d7d3e,T van der Gugten,d99cc23a,Tamim Iqbal,3b041a12,0,0,0,0,1,Mahmudullah,bf1d7d3e,,,bowled,0,0,0
+951309,2015/16,Bangladesh,14,Mushfiqur Rahim,a94e08ea,T van der Gugten,d99cc23a,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,0,0,0
+951309,2015/16,Bangladesh,14,Mushfiqur Rahim,a94e08ea,T van der Gugten,d99cc23a,Tamim Iqbal,3b041a12,1,0,0,0,0,,,,,,0,1,1
+951309,2015/16,Bangladesh,14,Mushfiqur Rahim,a94e08ea,T van der Gugten,d99cc23a,Tamim Iqbal,3b041a12,0,0,0,0,1,Mushfiqur Rahim,a94e08ea,,,bowled,0,0,0
+951309,2015/16,Bangladesh,14,Nasir Hossain,6eea0b32,T van der Gugten,d99cc23a,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,0,0,0
+951309,2015/16,Bangladesh,15,Tamim Iqbal,3b041a12,PA van Meekeren,4557dc54,Nasir Hossain,6eea0b32,0,0,0,0,0,,,,,,0,0,0
+951309,2015/16,Bangladesh,15,Tamim Iqbal,3b041a12,PA van Meekeren,4557dc54,Nasir Hossain,6eea0b32,0,0,0,0,0,,,,,,1,0,1
+951309,2015/16,Bangladesh,15,Nasir Hossain,6eea0b32,PA van Meekeren,4557dc54,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,0,0,0
+951309,2015/16,Bangladesh,15,Nasir Hossain,6eea0b32,PA van Meekeren,4557dc54,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,0,0,0
+951309,2015/16,Bangladesh,15,Nasir Hossain,6eea0b32,PA van Meekeren,4557dc54,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,1,0,1
+951309,2015/16,Bangladesh,15,Tamim Iqbal,3b041a12,PA van Meekeren,4557dc54,Nasir Hossain,6eea0b32,0,0,0,0,0,,,,,,1,0,1
+951309,2015/16,Bangladesh,16,Tamim Iqbal,3b041a12,LV van Beek,782fb776,Nasir Hossain,6eea0b32,0,0,0,0,0,,,,,,4,0,4
+951309,2015/16,Bangladesh,16,Tamim Iqbal,3b041a12,LV van Beek,782fb776,Nasir Hossain,6eea0b32,0,0,0,0,0,,,,,,0,0,0
+951309,2015/16,Bangladesh,16,Tamim Iqbal,3b041a12,LV van Beek,782fb776,Nasir Hossain,6eea0b32,0,0,0,0,0,,,,,,2,0,2
+951309,2015/16,Bangladesh,16,Tamim Iqbal,3b041a12,LV van Beek,782fb776,Nasir Hossain,6eea0b32,0,0,0,0,0,,,,,,1,0,1
+951309,2015/16,Bangladesh,16,Nasir Hossain,6eea0b32,LV van Beek,782fb776,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,1,0,1
+951309,2015/16,Bangladesh,16,Tamim Iqbal,3b041a12,LV van Beek,782fb776,Nasir Hossain,6eea0b32,0,0,0,0,0,,,,,,2,0,2
+951309,2015/16,Bangladesh,17,Nasir Hossain,6eea0b32,PA van Meekeren,4557dc54,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,1,0,1
+951309,2015/16,Bangladesh,17,Tamim Iqbal,3b041a12,PA van Meekeren,4557dc54,Nasir Hossain,6eea0b32,0,0,0,0,0,,,,,,0,0,0
+951309,2015/16,Bangladesh,17,Tamim Iqbal,3b041a12,PA van Meekeren,4557dc54,Nasir Hossain,6eea0b32,0,0,0,0,0,,,,,,1,0,1
+951309,2015/16,Bangladesh,17,Nasir Hossain,6eea0b32,PA van Meekeren,4557dc54,Tamim Iqbal,3b041a12,0,0,0,0,1,Nasir Hossain,6eea0b32,Mudassar Bukhari,37312a74,caught,0,0,0
+951309,2015/16,Bangladesh,17,Tamim Iqbal,3b041a12,PA van Meekeren,4557dc54,Mashrafe Mortaza,e186f49c,0,0,0,0,0,,,,,,1,0,1
+951309,2015/16,Bangladesh,17,Mashrafe Mortaza,e186f49c,PA van Meekeren,4557dc54,Tamim Iqbal,3b041a12,0,0,1,0,0,,,,,,0,1,1
+951309,2015/16,Bangladesh,18,Mashrafe Mortaza,e186f49c,T van der Gugten,d99cc23a,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,1,0,1
+951309,2015/16,Bangladesh,18,Tamim Iqbal,3b041a12,T van der Gugten,d99cc23a,Mashrafe Mortaza,e186f49c,0,0,0,0,0,,,,,,1,0,1
+951309,2015/16,Bangladesh,18,Mashrafe Mortaza,e186f49c,T van der Gugten,d99cc23a,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,0,0,0
+951309,2015/16,Bangladesh,18,Mashrafe Mortaza,e186f49c,T van der Gugten,d99cc23a,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,6,0,6
+951309,2015/16,Bangladesh,18,Mashrafe Mortaza,e186f49c,T van der Gugten,d99cc23a,Tamim Iqbal,3b041a12,0,0,0,0,1,Mashrafe Mortaza,e186f49c,TLW Cooper,2318ba22,caught,0,0,0
+951309,2015/16,Bangladesh,18,Tamim Iqbal,3b041a12,T van der Gugten,d99cc23a,Arafat Sunny,1f7adc8a,0,0,0,0,0,,,,,,1,0,1
+951309,2015/16,Bangladesh,19,Tamim Iqbal,3b041a12,LV van Beek,782fb776,Arafat Sunny,1f7adc8a,0,0,0,0,0,,,,,,6,0,6
+951309,2015/16,Bangladesh,19,Tamim Iqbal,3b041a12,LV van Beek,782fb776,Arafat Sunny,1f7adc8a,0,0,0,0,0,,,,,,1,0,1
+951309,2015/16,Bangladesh,19,Arafat Sunny,1f7adc8a,LV van Beek,782fb776,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,0,0,0
+951309,2015/16,Bangladesh,19,Arafat Sunny,1f7adc8a,LV van Beek,782fb776,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,0,0,0
+951309,2015/16,Bangladesh,19,Arafat Sunny,1f7adc8a,LV van Beek,782fb776,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,6,0,6
+951309,2015/16,Bangladesh,19,Arafat Sunny,1f7adc8a,LV van Beek,782fb776,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,2,0,2
+951309,2015/16,Netherlands,0,SJ Myburgh,18261c22,Taskin Ahmed,ef18b66e,W Barresi,0d677597,0,0,0,0,0,,,,,,0,0,0
+951309,2015/16,Netherlands,0,SJ Myburgh,18261c22,Taskin Ahmed,ef18b66e,W Barresi,0d677597,0,0,0,0,0,,,,,,0,0,0
+951309,2015/16,Netherlands,0,SJ Myburgh,18261c22,Taskin Ahmed,ef18b66e,W Barresi,0d677597,0,0,0,0,0,,,,,,4,0,4
+951309,2015/16,Netherlands,0,SJ Myburgh,18261c22,Taskin Ahmed,ef18b66e,W Barresi,0d677597,0,0,0,0,0,,,,,,0,0,0
+951309,2015/16,Netherlands,0,SJ Myburgh,18261c22,Taskin Ahmed,ef18b66e,W Barresi,0d677597,0,0,0,0,0,,,,,,0,0,0
+951309,2015/16,Netherlands,0,SJ Myburgh,18261c22,Taskin Ahmed,ef18b66e,W Barresi,0d677597,0,0,0,0,0,,,,,,0,0,0
+951309,2015/16,Netherlands,1,W Barresi,0d677597,Al-Amin Hossain,3f5f39cd,SJ Myburgh,18261c22,0,0,0,0,0,,,,,,1,0,1
+951309,2015/16,Netherlands,1,SJ Myburgh,18261c22,Al-Amin Hossain,3f5f39cd,W Barresi,0d677597,0,0,0,0,0,,,,,,1,0,1
+951309,2015/16,Netherlands,1,W Barresi,0d677597,Al-Amin Hossain,3f5f39cd,SJ Myburgh,18261c22,0,0,0,0,0,,,,,,1,0,1
+951309,2015/16,Netherlands,1,SJ Myburgh,18261c22,Al-Amin Hossain,3f5f39cd,W Barresi,0d677597,0,0,0,0,0,,,,,,0,0,0
+951309,2015/16,Netherlands,1,SJ Myburgh,18261c22,Al-Amin Hossain,3f5f39cd,W Barresi,0d677597,0,0,0,0,0,,,,,,1,0,1
+951309,2015/16,Netherlands,1,W Barresi,0d677597,Al-Amin Hossain,3f5f39cd,SJ Myburgh,18261c22,0,0,0,0,0,,,,,,0,0,0
+951309,2015/16,Netherlands,2,SJ Myburgh,18261c22,Taskin Ahmed,ef18b66e,W Barresi,0d677597,0,0,0,0,0,,,,,,1,0,1
+951309,2015/16,Netherlands,2,W Barresi,0d677597,Taskin Ahmed,ef18b66e,SJ Myburgh,18261c22,0,0,0,0,0,,,,,,4,0,4
+951309,2015/16,Netherlands,2,W Barresi,0d677597,Taskin Ahmed,ef18b66e,SJ Myburgh,18261c22,0,0,0,0,0,,,,,,1,0,1
+951309,2015/16,Netherlands,2,SJ Myburgh,18261c22,Taskin Ahmed,ef18b66e,W Barresi,0d677597,0,0,0,0,0,,,,,,0,0,0
+951309,2015/16,Netherlands,2,SJ Myburgh,18261c22,Taskin Ahmed,ef18b66e,W Barresi,0d677597,0,0,0,0,0,,,,,,0,0,0
+951309,2015/16,Netherlands,2,SJ Myburgh,18261c22,Taskin Ahmed,ef18b66e,W Barresi,0d677597,0,0,0,0,0,,,,,,0,0,0
+951309,2015/16,Netherlands,3,W Barresi,0d677597,Arafat Sunny,1f7adc8a,SJ Myburgh,18261c22,0,0,0,0,0,,,,,,0,0,0
+951309,2015/16,Netherlands,3,W Barresi,0d677597,Arafat Sunny,1f7adc8a,SJ Myburgh,18261c22,0,0,0,0,0,,,,,,1,0,1
+951309,2015/16,Netherlands,3,SJ Myburgh,18261c22,Arafat Sunny,1f7adc8a,W Barresi,0d677597,0,0,0,0,0,,,,,,4,0,4
+951309,2015/16,Netherlands,3,SJ Myburgh,18261c22,Arafat Sunny,1f7adc8a,W Barresi,0d677597,0,0,1,0,0,,,,,,0,1,1
+951309,2015/16,Netherlands,3,W Barresi,0d677597,Arafat Sunny,1f7adc8a,SJ Myburgh,18261c22,0,0,0,0,0,,,,,,1,0,1
+951309,2015/16,Netherlands,3,SJ Myburgh,18261c22,Arafat Sunny,1f7adc8a,W Barresi,0d677597,0,0,0,0,0,,,,,,0,0,0
+951309,2015/16,Netherlands,4,W Barresi,0d677597,Al-Amin Hossain,3f5f39cd,SJ Myburgh,18261c22,0,0,0,0,0,,,,,,0,0,0
+951309,2015/16,Netherlands,4,W Barresi,0d677597,Al-Amin Hossain,3f5f39cd,SJ Myburgh,18261c22,0,0,0,0,0,,,,,,0,0,0
+951309,2015/16,Netherlands,4,W Barresi,0d677597,Al-Amin Hossain,3f5f39cd,SJ Myburgh,18261c22,0,0,0,0,1,W Barresi,0d677597,Sabbir Rahman,7147f314,caught,0,0,0
+951309,2015/16,Netherlands,4,SJ Myburgh,18261c22,Al-Amin Hossain,3f5f39cd,BN Cooper,634a7b21,0,0,0,0,0,,,,,,4,0,4
+951309,2015/16,Netherlands,4,SJ Myburgh,18261c22,Al-Amin Hossain,3f5f39cd,BN Cooper,634a7b21,0,0,0,0,0,,,,,,0,0,0
+951309,2015/16,Netherlands,4,SJ Myburgh,18261c22,Al-Amin Hossain,3f5f39cd,BN Cooper,634a7b21,0,0,0,0,0,,,,,,0,0,0
+951309,2015/16,Netherlands,5,BN Cooper,634a7b21,Nasir Hossain,6eea0b32,SJ Myburgh,18261c22,0,0,0,0,0,,,,,,1,0,1
+951309,2015/16,Netherlands,5,SJ Myburgh,18261c22,Nasir Hossain,6eea0b32,BN Cooper,634a7b21,0,0,0,0,0,,,,,,4,0,4
+951309,2015/16,Netherlands,5,SJ Myburgh,18261c22,Nasir Hossain,6eea0b32,BN Cooper,634a7b21,0,0,0,0,0,,,,,,1,0,1
+951309,2015/16,Netherlands,5,BN Cooper,634a7b21,Nasir Hossain,6eea0b32,SJ Myburgh,18261c22,0,0,0,0,0,,,,,,4,0,4
+951309,2015/16,Netherlands,5,BN Cooper,634a7b21,Nasir Hossain,6eea0b32,SJ Myburgh,18261c22,0,0,0,0,0,,,,,,0,0,0
+951309,2015/16,Netherlands,5,BN Cooper,634a7b21,Nasir Hossain,6eea0b32,SJ Myburgh,18261c22,0,0,0,0,0,,,,,,4,0,4
+951309,2015/16,Netherlands,6,SJ Myburgh,18261c22,Mahmudullah,bf1d7d3e,BN Cooper,634a7b21,0,0,0,0,0,,,,,,2,0,2
+951309,2015/16,Netherlands,6,SJ Myburgh,18261c22,Mahmudullah,bf1d7d3e,BN Cooper,634a7b21,0,0,0,0,0,,,,,,0,0,0
+951309,2015/16,Netherlands,6,SJ Myburgh,18261c22,Mahmudullah,bf1d7d3e,BN Cooper,634a7b21,0,0,0,0,0,,,,,,4,0,4
+951309,2015/16,Netherlands,6,SJ Myburgh,18261c22,Mahmudullah,bf1d7d3e,BN Cooper,634a7b21,0,0,0,0,0,,,,,,2,0,2
+951309,2015/16,Netherlands,6,SJ Myburgh,18261c22,Mahmudullah,bf1d7d3e,BN Cooper,634a7b21,0,0,0,0,0,,,,,,0,0,0
+951309,2015/16,Netherlands,6,SJ Myburgh,18261c22,Mahmudullah,bf1d7d3e,BN Cooper,634a7b21,0,0,0,0,0,,,,,,0,0,0
+951309,2015/16,Netherlands,7,BN Cooper,634a7b21,Mashrafe Mortaza,e186f49c,SJ Myburgh,18261c22,0,0,0,0,0,,,,,,0,0,0
+951309,2015/16,Netherlands,7,BN Cooper,634a7b21,Mashrafe Mortaza,e186f49c,SJ Myburgh,18261c22,0,0,0,0,0,,,,,,0,0,0
+951309,2015/16,Netherlands,7,BN Cooper,634a7b21,Mashrafe Mortaza,e186f49c,SJ Myburgh,18261c22,0,0,0,0,0,,,,,,1,0,1
+951309,2015/16,Netherlands,7,SJ Myburgh,18261c22,Mashrafe Mortaza,e186f49c,BN Cooper,634a7b21,0,0,0,0,0,,,,,,1,0,1
+951309,2015/16,Netherlands,7,BN Cooper,634a7b21,Mashrafe Mortaza,e186f49c,SJ Myburgh,18261c22,0,0,0,0,0,,,,,,4,0,4
+951309,2015/16,Netherlands,7,BN Cooper,634a7b21,Mashrafe Mortaza,e186f49c,SJ Myburgh,18261c22,0,0,0,0,0,,,,,,0,0,0
+951309,2015/16,Netherlands,8,SJ Myburgh,18261c22,Nasir Hossain,6eea0b32,BN Cooper,634a7b21,0,0,0,0,1,SJ Myburgh,18261c22,,,bowled,0,0,0
+951309,2015/16,Netherlands,8,PW Borren,91052c96,Nasir Hossain,6eea0b32,BN Cooper,634a7b21,0,0,0,0,0,,,,,,1,0,1
+951309,2015/16,Netherlands,8,BN Cooper,634a7b21,Nasir Hossain,6eea0b32,PW Borren,91052c96,0,0,0,0,0,,,,,,1,0,1
+951309,2015/16,Netherlands,8,PW Borren,91052c96,Nasir Hossain,6eea0b32,BN Cooper,634a7b21,0,0,0,0,0,,,,,,4,0,4
+951309,2015/16,Netherlands,8,PW Borren,91052c96,Nasir Hossain,6eea0b32,BN Cooper,634a7b21,0,0,0,0,0,,,,,,0,0,0
+951309,2015/16,Netherlands,8,PW Borren,91052c96,Nasir Hossain,6eea0b32,BN Cooper,634a7b21,0,0,0,0,0,,,,,,4,0,4
+951309,2015/16,Netherlands,9,BN Cooper,634a7b21,Shakib Al Hasan,7dc35884,PW Borren,91052c96,0,0,0,0,0,,,,,,1,0,1
+951309,2015/16,Netherlands,9,PW Borren,91052c96,Shakib Al Hasan,7dc35884,BN Cooper,634a7b21,0,0,4,0,0,,,,,,0,4,4
+951309,2015/16,Netherlands,9,PW Borren,91052c96,Shakib Al Hasan,7dc35884,BN Cooper,634a7b21,0,0,0,0,0,,,,,,1,0,1
+951309,2015/16,Netherlands,9,BN Cooper,634a7b21,Shakib Al Hasan,7dc35884,PW Borren,91052c96,0,0,0,0,0,,,,,,1,0,1
+951309,2015/16,Netherlands,9,PW Borren,91052c96,Shakib Al Hasan,7dc35884,BN Cooper,634a7b21,0,0,0,0,0,,,,,,0,0,0
+951309,2015/16,Netherlands,9,PW Borren,91052c96,Shakib Al Hasan,7dc35884,BN Cooper,634a7b21,0,0,0,0,0,,,,,,1,0,1
+951309,2015/16,Netherlands,10,PW Borren,91052c96,Mashrafe Mortaza,e186f49c,BN Cooper,634a7b21,0,0,0,0,0,,,,,,0,0,0
+951309,2015/16,Netherlands,10,PW Borren,91052c96,Mashrafe Mortaza,e186f49c,BN Cooper,634a7b21,0,0,0,0,0,,,,,,0,0,0
+951309,2015/16,Netherlands,10,PW Borren,91052c96,Mashrafe Mortaza,e186f49c,BN Cooper,634a7b21,0,0,0,0,0,,,,,,1,0,1
+951309,2015/16,Netherlands,10,BN Cooper,634a7b21,Mashrafe Mortaza,e186f49c,PW Borren,91052c96,0,0,0,0,0,,,,,,1,0,1
+951309,2015/16,Netherlands,10,PW Borren,91052c96,Mashrafe Mortaza,e186f49c,BN Cooper,634a7b21,0,0,1,0,0,,,,,,0,1,1
+951309,2015/16,Netherlands,10,BN Cooper,634a7b21,Mashrafe Mortaza,e186f49c,PW Borren,91052c96,0,0,0,0,0,,,,,,2,0,2
+951309,2015/16,Netherlands,11,PW Borren,91052c96,Shakib Al Hasan,7dc35884,BN Cooper,634a7b21,0,0,0,0,0,,,,,,1,0,1
+951309,2015/16,Netherlands,11,BN Cooper,634a7b21,Shakib Al Hasan,7dc35884,PW Borren,91052c96,0,0,0,0,1,BN Cooper,634a7b21,,,bowled,0,0,0
+951309,2015/16,Netherlands,11,TLW Cooper,2318ba22,Shakib Al Hasan,7dc35884,PW Borren,91052c96,0,0,0,0,0,,,,,,1,0,1
+951309,2015/16,Netherlands,11,PW Borren,91052c96,Shakib Al Hasan,7dc35884,TLW Cooper,2318ba22,0,0,0,0,0,,,,,,1,0,1
+951309,2015/16,Netherlands,11,TLW Cooper,2318ba22,Shakib Al Hasan,7dc35884,PW Borren,91052c96,0,0,0,0,0,,,,,,0,0,0
+951309,2015/16,Netherlands,11,TLW Cooper,2318ba22,Shakib Al Hasan,7dc35884,PW Borren,91052c96,0,0,0,0,0,,,,,,0,0,0
+951309,2015/16,Netherlands,12,PW Borren,91052c96,Arafat Sunny,1f7adc8a,TLW Cooper,2318ba22,0,0,0,0,0,,,,,,1,0,1
+951309,2015/16,Netherlands,12,TLW Cooper,2318ba22,Arafat Sunny,1f7adc8a,PW Borren,91052c96,0,0,0,0,0,,,,,,0,0,0
+951309,2015/16,Netherlands,12,TLW Cooper,2318ba22,Arafat Sunny,1f7adc8a,PW Borren,91052c96,0,0,0,0,0,,,,,,1,0,1
+951309,2015/16,Netherlands,12,PW Borren,91052c96,Arafat Sunny,1f7adc8a,TLW Cooper,2318ba22,0,0,0,0,0,,,,,,1,0,1
+951309,2015/16,Netherlands,12,TLW Cooper,2318ba22,Arafat Sunny,1f7adc8a,PW Borren,91052c96,0,0,0,0,0,,,,,,1,0,1
+951309,2015/16,Netherlands,12,PW Borren,91052c96,Arafat Sunny,1f7adc8a,TLW Cooper,2318ba22,0,0,0,0,0,,,,,,0,0,0
+951309,2015/16,Netherlands,13,TLW Cooper,2318ba22,Shakib Al Hasan,7dc35884,PW Borren,91052c96,0,0,0,0,0,,,,,,0,0,0
+951309,2015/16,Netherlands,13,TLW Cooper,2318ba22,Shakib Al Hasan,7dc35884,PW Borren,91052c96,0,0,0,0,0,,,,,,0,0,0
+951309,2015/16,Netherlands,13,TLW Cooper,2318ba22,Shakib Al Hasan,7dc35884,PW Borren,91052c96,0,0,0,0,0,,,,,,4,0,4
+951309,2015/16,Netherlands,13,TLW Cooper,2318ba22,Shakib Al Hasan,7dc35884,PW Borren,91052c96,0,0,0,0,0,,,,,,1,0,1
+951309,2015/16,Netherlands,13,PW Borren,91052c96,Shakib Al Hasan,7dc35884,TLW Cooper,2318ba22,0,0,0,0,0,,,,,,1,0,1
+951309,2015/16,Netherlands,13,TLW Cooper,2318ba22,Shakib Al Hasan,7dc35884,PW Borren,91052c96,0,0,0,0,0,,,,,,4,0,4
+951309,2015/16,Netherlands,14,PW Borren,91052c96,Mashrafe Mortaza,e186f49c,TLW Cooper,2318ba22,0,0,0,0,0,,,,,,0,0,0
+951309,2015/16,Netherlands,14,PW Borren,91052c96,Mashrafe Mortaza,e186f49c,TLW Cooper,2318ba22,0,0,0,4,0,,,,,,0,4,4
+951309,2015/16,Netherlands,14,PW Borren,91052c96,Mashrafe Mortaza,e186f49c,TLW Cooper,2318ba22,0,0,0,1,0,,,,,,0,1,1
+951309,2015/16,Netherlands,14,TLW Cooper,2318ba22,Mashrafe Mortaza,e186f49c,PW Borren,91052c96,0,0,0,0,0,,,,,,0,0,0
+951309,2015/16,Netherlands,14,TLW Cooper,2318ba22,Mashrafe Mortaza,e186f49c,PW Borren,91052c96,0,0,1,0,0,,,,,,0,1,1
+951309,2015/16,Netherlands,14,PW Borren,91052c96,Mashrafe Mortaza,e186f49c,TLW Cooper,2318ba22,0,0,0,0,0,,,,,,1,0,1
+951309,2015/16,Netherlands,15,PW Borren,91052c96,Shakib Al Hasan,7dc35884,TLW Cooper,2318ba22,0,0,0,0,0,,,,,,2,0,2
+951309,2015/16,Netherlands,15,PW Borren,91052c96,Shakib Al Hasan,7dc35884,TLW Cooper,2318ba22,0,0,0,0,0,,,,,,4,0,4
+951309,2015/16,Netherlands,15,PW Borren,91052c96,Shakib Al Hasan,7dc35884,TLW Cooper,2318ba22,0,0,0,0,0,,,,,,2,0,2
+951309,2015/16,Netherlands,15,PW Borren,91052c96,Shakib Al Hasan,7dc35884,TLW Cooper,2318ba22,0,0,0,0,0,,,,,,2,0,2
+951309,2015/16,Netherlands,15,PW Borren,91052c96,Shakib Al Hasan,7dc35884,TLW Cooper,2318ba22,0,0,0,0,0,,,,,,2,0,2
+951309,2015/16,Netherlands,15,PW Borren,91052c96,Shakib Al Hasan,7dc35884,TLW Cooper,2318ba22,0,0,0,0,1,PW Borren,91052c96,Nasir Hossain,6eea0b32,caught,0,0,0
+951309,2015/16,Netherlands,16,RE van der Merwe,05c2ca46,Mashrafe Mortaza,e186f49c,TLW Cooper,2318ba22,0,0,0,0,0,,,,,,1,0,1
+951309,2015/16,Netherlands,16,TLW Cooper,2318ba22,Mashrafe Mortaza,e186f49c,RE van der Merwe,05c2ca46,0,0,0,0,0,,,,,,1,0,1
+951309,2015/16,Netherlands,16,RE van der Merwe,05c2ca46,Mashrafe Mortaza,e186f49c,TLW Cooper,2318ba22,0,0,0,0,0,,,,,,0,0,0
+951309,2015/16,Netherlands,16,RE van der Merwe,05c2ca46,Mashrafe Mortaza,e186f49c,TLW Cooper,2318ba22,0,0,0,0,1,RE van der Merwe,05c2ca46,Mushfiqur Rahim,a94e08ea,caught,0,0,0
+951309,2015/16,Netherlands,16,PM Seelaar,abbdca1a,Mashrafe Mortaza,e186f49c,TLW Cooper,2318ba22,0,0,0,0,0,,,,,,0,0,0
+951309,2015/16,Netherlands,16,PM Seelaar,abbdca1a,Mashrafe Mortaza,e186f49c,TLW Cooper,2318ba22,0,0,0,0,0,,,,,,1,0,1
+951309,2015/16,Netherlands,17,PM Seelaar,abbdca1a,Taskin Ahmed,ef18b66e,TLW Cooper,2318ba22,0,0,0,0,0,,,,,,1,0,1
+951309,2015/16,Netherlands,17,TLW Cooper,2318ba22,Taskin Ahmed,ef18b66e,PM Seelaar,abbdca1a,0,0,1,0,0,,,,,,0,1,1
+951309,2015/16,Netherlands,17,PM Seelaar,abbdca1a,Taskin Ahmed,ef18b66e,TLW Cooper,2318ba22,0,0,1,0,0,,,,,,0,1,1
+951309,2015/16,Netherlands,17,TLW Cooper,2318ba22,Taskin Ahmed,ef18b66e,PM Seelaar,abbdca1a,0,0,0,0,0,,,,,,1,0,1
+951309,2015/16,Netherlands,17,PM Seelaar,abbdca1a,Taskin Ahmed,ef18b66e,TLW Cooper,2318ba22,0,0,0,0,0,,,,,,1,0,1
+951309,2015/16,Netherlands,17,TLW Cooper,2318ba22,Taskin Ahmed,ef18b66e,PM Seelaar,abbdca1a,0,0,0,0,0,,,,,,1,0,1
+951309,2015/16,Netherlands,18,TLW Cooper,2318ba22,Al-Amin Hossain,3f5f39cd,PM Seelaar,abbdca1a,0,0,0,0,1,TLW Cooper,2318ba22,Arafat Sunny,1f7adc8a,caught,0,0,0
+951309,2015/16,Netherlands,18,Mudassar Bukhari,37312a74,Al-Amin Hossain,3f5f39cd,PM Seelaar,abbdca1a,0,0,0,0,0,,,,,,4,0,4
+951309,2015/16,Netherlands,18,Mudassar Bukhari,37312a74,Al-Amin Hossain,3f5f39cd,PM Seelaar,abbdca1a,0,0,0,0,0,,,,,,6,0,6
+951309,2015/16,Netherlands,18,Mudassar Bukhari,37312a74,Al-Amin Hossain,3f5f39cd,PM Seelaar,abbdca1a,1,0,0,0,0,,,,,,0,1,1
+951309,2015/16,Netherlands,18,Mudassar Bukhari,37312a74,Al-Amin Hossain,3f5f39cd,PM Seelaar,abbdca1a,0,0,0,0,0,,,,,,1,0,1
+951309,2015/16,Netherlands,18,PM Seelaar,abbdca1a,Al-Amin Hossain,3f5f39cd,Mudassar Bukhari,37312a74,0,0,0,0,0,,,,,,4,0,4
+951309,2015/16,Netherlands,18,PM Seelaar,abbdca1a,Al-Amin Hossain,3f5f39cd,Mudassar Bukhari,37312a74,0,0,0,0,0,,,,,,0,0,0
+951309,2015/16,Netherlands,19,Mudassar Bukhari,37312a74,Taskin Ahmed,ef18b66e,PM Seelaar,abbdca1a,0,0,0,0,0,,,,,,2,0,2
+951309,2015/16,Netherlands,19,Mudassar Bukhari,37312a74,Taskin Ahmed,ef18b66e,PM Seelaar,abbdca1a,0,0,0,0,1,Mudassar Bukhari,37312a74,Mushfiqur Rahim,a94e08ea,run out,1,0,1
+951309,2015/16,Netherlands,19,LV van Beek,782fb776,Taskin Ahmed,ef18b66e,PM Seelaar,abbdca1a,0,0,0,0,0,,,,,,2,0,2
+951309,2015/16,Netherlands,19,LV van Beek,782fb776,Taskin Ahmed,ef18b66e,PM Seelaar,abbdca1a,0,0,0,0,0,,,,,,1,0,1
+951309,2015/16,Netherlands,19,PM Seelaar,abbdca1a,Taskin Ahmed,ef18b66e,LV van Beek,782fb776,0,0,1,0,0,,,,,,0,1,1
+951309,2015/16,Netherlands,19,LV van Beek,782fb776,Taskin Ahmed,ef18b66e,PM Seelaar,abbdca1a,0,0,0,0,0,,,,,,1,0,1

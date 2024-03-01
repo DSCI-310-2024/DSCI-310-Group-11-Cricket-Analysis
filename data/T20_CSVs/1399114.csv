@@ -1,0 +1,242 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1399114,2023,Pakistan,0,Omair Yousuf,f8e3c0f8,A Shukla,a1e80d06,Mirza Baig,96ce6752,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Pakistan,0,Omair Yousuf,f8e3c0f8,A Shukla,a1e80d06,Mirza Baig,96ce6752,0,0,0,0,0,,,,,,1,0,1
+1399114,2023,Pakistan,0,Mirza Baig,96ce6752,A Shukla,a1e80d06,Omair Yousuf,f8e3c0f8,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Pakistan,0,Mirza Baig,96ce6752,A Shukla,a1e80d06,Omair Yousuf,f8e3c0f8,0,0,0,0,1,Mirza Baig,96ce6752,Babar Hayat,fbb657bb,caught,0,0,0
+1399114,2023,Pakistan,0,Rohail Nazir,522bea89,A Shukla,a1e80d06,Omair Yousuf,f8e3c0f8,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Pakistan,0,Rohail Nazir,522bea89,A Shukla,a1e80d06,Omair Yousuf,f8e3c0f8,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Pakistan,1,Omair Yousuf,f8e3c0f8,Ehsan Khan,d3851cd8,Rohail Nazir,522bea89,0,0,0,0,0,,,,,,1,0,1
+1399114,2023,Pakistan,1,Rohail Nazir,522bea89,Ehsan Khan,d3851cd8,Omair Yousuf,f8e3c0f8,0,0,0,0,0,,,,,,1,0,1
+1399114,2023,Pakistan,1,Omair Yousuf,f8e3c0f8,Ehsan Khan,d3851cd8,Rohail Nazir,522bea89,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Pakistan,1,Omair Yousuf,f8e3c0f8,Ehsan Khan,d3851cd8,Rohail Nazir,522bea89,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Pakistan,1,Omair Yousuf,f8e3c0f8,Ehsan Khan,d3851cd8,Rohail Nazir,522bea89,0,0,0,0,0,,,,,,4,0,4
+1399114,2023,Pakistan,1,Omair Yousuf,f8e3c0f8,Ehsan Khan,d3851cd8,Rohail Nazir,522bea89,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Pakistan,2,Rohail Nazir,522bea89,A Shukla,a1e80d06,Omair Yousuf,f8e3c0f8,0,0,0,0,0,,,,,,6,0,6
+1399114,2023,Pakistan,2,Rohail Nazir,522bea89,A Shukla,a1e80d06,Omair Yousuf,f8e3c0f8,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Pakistan,2,Rohail Nazir,522bea89,A Shukla,a1e80d06,Omair Yousuf,f8e3c0f8,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Pakistan,2,Rohail Nazir,522bea89,A Shukla,a1e80d06,Omair Yousuf,f8e3c0f8,0,0,0,0,0,,,,,,6,0,6
+1399114,2023,Pakistan,2,Rohail Nazir,522bea89,A Shukla,a1e80d06,Omair Yousuf,f8e3c0f8,0,0,0,0,1,Rohail Nazir,522bea89,Muhammad Khan,f17ac7d0,caught,0,0,0
+1399114,2023,Pakistan,2,Haider Ali,c13e34f4,A Shukla,a1e80d06,Omair Yousuf,f8e3c0f8,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Pakistan,3,Omair Yousuf,f8e3c0f8,Ehsan Khan,d3851cd8,Haider Ali,c13e34f4,0,0,1,0,0,,,,,,0,1,1
+1399114,2023,Pakistan,3,Haider Ali,c13e34f4,Ehsan Khan,d3851cd8,Omair Yousuf,f8e3c0f8,0,0,0,0,0,,,,,,4,0,4
+1399114,2023,Pakistan,3,Haider Ali,c13e34f4,Ehsan Khan,d3851cd8,Omair Yousuf,f8e3c0f8,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Pakistan,3,Haider Ali,c13e34f4,Ehsan Khan,d3851cd8,Omair Yousuf,f8e3c0f8,0,0,0,0,1,Haider Ali,c13e34f4,,,lbw,0,0,0
+1399114,2023,Pakistan,3,Qasim Akram,b6359668,Ehsan Khan,d3851cd8,Omair Yousuf,f8e3c0f8,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Pakistan,3,Qasim Akram,b6359668,Ehsan Khan,d3851cd8,Omair Yousuf,f8e3c0f8,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Pakistan,4,Omair Yousuf,f8e3c0f8,A Shukla,a1e80d06,Qasim Akram,b6359668,0,0,0,0,0,,,,,,1,0,1
+1399114,2023,Pakistan,4,Qasim Akram,b6359668,A Shukla,a1e80d06,Omair Yousuf,f8e3c0f8,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Pakistan,4,Qasim Akram,b6359668,A Shukla,a1e80d06,Omair Yousuf,f8e3c0f8,0,0,0,0,0,,,,,,4,0,4
+1399114,2023,Pakistan,4,Qasim Akram,b6359668,A Shukla,a1e80d06,Omair Yousuf,f8e3c0f8,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Pakistan,4,Qasim Akram,b6359668,A Shukla,a1e80d06,Omair Yousuf,f8e3c0f8,0,0,0,0,0,,,,,,1,0,1
+1399114,2023,Pakistan,4,Omair Yousuf,f8e3c0f8,A Shukla,a1e80d06,Qasim Akram,b6359668,0,0,0,0,0,,,,,,4,0,4
+1399114,2023,Pakistan,5,Qasim Akram,b6359668,Niaz Ali,e33a357d,Omair Yousuf,f8e3c0f8,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Pakistan,5,Qasim Akram,b6359668,Niaz Ali,e33a357d,Omair Yousuf,f8e3c0f8,0,0,1,0,0,,,,,,0,1,1
+1399114,2023,Pakistan,5,Omair Yousuf,f8e3c0f8,Niaz Ali,e33a357d,Qasim Akram,b6359668,0,0,0,0,0,,,,,,1,0,1
+1399114,2023,Pakistan,5,Qasim Akram,b6359668,Niaz Ali,e33a357d,Omair Yousuf,f8e3c0f8,0,0,0,0,0,,,,,,1,0,1
+1399114,2023,Pakistan,5,Omair Yousuf,f8e3c0f8,Niaz Ali,e33a357d,Qasim Akram,b6359668,0,0,0,0,0,,,,,,1,0,1
+1399114,2023,Pakistan,5,Qasim Akram,b6359668,Niaz Ali,e33a357d,Omair Yousuf,f8e3c0f8,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Pakistan,6,Omair Yousuf,f8e3c0f8,Anas Khan,66a7f213,Qasim Akram,b6359668,0,0,0,0,0,,,,,,1,0,1
+1399114,2023,Pakistan,6,Qasim Akram,b6359668,Anas Khan,66a7f213,Omair Yousuf,f8e3c0f8,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Pakistan,6,Qasim Akram,b6359668,Anas Khan,66a7f213,Omair Yousuf,f8e3c0f8,0,0,0,0,0,,,,,,4,0,4
+1399114,2023,Pakistan,6,Qasim Akram,b6359668,Anas Khan,66a7f213,Omair Yousuf,f8e3c0f8,0,0,0,0,0,,,,,,1,0,1
+1399114,2023,Pakistan,6,Omair Yousuf,f8e3c0f8,Anas Khan,66a7f213,Qasim Akram,b6359668,0,0,0,0,0,,,,,,1,0,1
+1399114,2023,Pakistan,6,Qasim Akram,b6359668,Anas Khan,66a7f213,Omair Yousuf,f8e3c0f8,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Pakistan,7,Omair Yousuf,f8e3c0f8,Nasrulla Rana,9ffb7550,Qasim Akram,b6359668,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Pakistan,7,Omair Yousuf,f8e3c0f8,Nasrulla Rana,9ffb7550,Qasim Akram,b6359668,0,0,0,0,0,,,,,,4,0,4
+1399114,2023,Pakistan,7,Omair Yousuf,f8e3c0f8,Nasrulla Rana,9ffb7550,Qasim Akram,b6359668,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Pakistan,7,Omair Yousuf,f8e3c0f8,Nasrulla Rana,9ffb7550,Qasim Akram,b6359668,0,0,0,0,0,,,,,,1,0,1
+1399114,2023,Pakistan,7,Qasim Akram,b6359668,Nasrulla Rana,9ffb7550,Omair Yousuf,f8e3c0f8,0,0,0,0,0,,,,,,1,0,1
+1399114,2023,Pakistan,7,Omair Yousuf,f8e3c0f8,Nasrulla Rana,9ffb7550,Qasim Akram,b6359668,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Pakistan,8,Qasim Akram,b6359668,Anas Khan,66a7f213,Omair Yousuf,f8e3c0f8,0,0,0,0,1,Qasim Akram,b6359668,Nizakat Khan,e3eb9e46,caught,0,0,0
+1399114,2023,Pakistan,8,Khushdil Shah,fce581b5,Anas Khan,66a7f213,Omair Yousuf,f8e3c0f8,0,0,0,0,0,,,,,,1,0,1
+1399114,2023,Pakistan,8,Omair Yousuf,f8e3c0f8,Anas Khan,66a7f213,Khushdil Shah,fce581b5,0,0,0,0,0,,,,,,1,0,1
+1399114,2023,Pakistan,8,Khushdil Shah,fce581b5,Anas Khan,66a7f213,Omair Yousuf,f8e3c0f8,0,0,0,0,0,,,,,,1,0,1
+1399114,2023,Pakistan,8,Omair Yousuf,f8e3c0f8,Anas Khan,66a7f213,Khushdil Shah,fce581b5,0,0,0,0,1,Omair Yousuf,f8e3c0f8,,,bowled,0,0,0
+1399114,2023,Pakistan,8,Asif Ali,0a4736eb,Anas Khan,66a7f213,Khushdil Shah,fce581b5,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Pakistan,9,Khushdil Shah,fce581b5,Nasrulla Rana,9ffb7550,Asif Ali,0a4736eb,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Pakistan,9,Khushdil Shah,fce581b5,Nasrulla Rana,9ffb7550,Asif Ali,0a4736eb,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Pakistan,9,Khushdil Shah,fce581b5,Niaz Ali,e33a357d,Asif Ali,0a4736eb,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Pakistan,9,Khushdil Shah,fce581b5,Niaz Ali,e33a357d,Asif Ali,0a4736eb,0,0,0,0,0,,,,,,1,0,1
+1399114,2023,Pakistan,9,Asif Ali,0a4736eb,Niaz Ali,e33a357d,Khushdil Shah,fce581b5,0,0,0,0,0,,,,,,4,0,4
+1399114,2023,Pakistan,9,Asif Ali,0a4736eb,Niaz Ali,e33a357d,Khushdil Shah,fce581b5,0,0,0,0,0,,,,,,1,0,1
+1399114,2023,Pakistan,10,Asif Ali,0a4736eb,Anas Khan,66a7f213,Khushdil Shah,fce581b5,0,0,0,0,0,,,,,,1,0,1
+1399114,2023,Pakistan,10,Khushdil Shah,fce581b5,Anas Khan,66a7f213,Asif Ali,0a4736eb,0,0,0,0,0,,,,,,6,0,6
+1399114,2023,Pakistan,10,Khushdil Shah,fce581b5,Anas Khan,66a7f213,Asif Ali,0a4736eb,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Pakistan,10,Khushdil Shah,fce581b5,Anas Khan,66a7f213,Asif Ali,0a4736eb,0,0,0,0,0,,,,,,1,0,1
+1399114,2023,Pakistan,10,Asif Ali,0a4736eb,Anas Khan,66a7f213,Khushdil Shah,fce581b5,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Pakistan,10,Asif Ali,0a4736eb,Anas Khan,66a7f213,Khushdil Shah,fce581b5,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Pakistan,11,Khushdil Shah,fce581b5,Niaz Ali,e33a357d,Asif Ali,0a4736eb,0,0,0,0,0,,,,,,1,0,1
+1399114,2023,Pakistan,11,Asif Ali,0a4736eb,Niaz Ali,e33a357d,Khushdil Shah,fce581b5,0,0,0,0,0,,,,,,1,0,1
+1399114,2023,Pakistan,11,Khushdil Shah,fce581b5,Niaz Ali,e33a357d,Asif Ali,0a4736eb,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Pakistan,11,Khushdil Shah,fce581b5,Niaz Ali,e33a357d,Asif Ali,0a4736eb,0,0,0,0,0,,,,,,1,0,1
+1399114,2023,Pakistan,11,Asif Ali,0a4736eb,Niaz Ali,e33a357d,Khushdil Shah,fce581b5,0,0,0,0,0,,,,,,1,0,1
+1399114,2023,Pakistan,11,Khushdil Shah,fce581b5,Niaz Ali,e33a357d,Asif Ali,0a4736eb,0,0,0,0,0,,,,,,1,0,1
+1399114,2023,Pakistan,12,Khushdil Shah,fce581b5,Mohammad Ghazanfar,00321fff,Asif Ali,0a4736eb,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Pakistan,12,Khushdil Shah,fce581b5,Mohammad Ghazanfar,00321fff,Asif Ali,0a4736eb,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Pakistan,12,Khushdil Shah,fce581b5,Mohammad Ghazanfar,00321fff,Asif Ali,0a4736eb,0,0,0,0,1,Khushdil Shah,fce581b5,Babar Hayat,fbb657bb,caught,0,0,0
+1399114,2023,Pakistan,12,Arafat Minhas,f2e8b37c,Mohammad Ghazanfar,00321fff,Asif Ali,0a4736eb,0,0,0,0,0,,,,,,1,0,1
+1399114,2023,Pakistan,12,Asif Ali,0a4736eb,Mohammad Ghazanfar,00321fff,Arafat Minhas,f2e8b37c,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Pakistan,12,Asif Ali,0a4736eb,Mohammad Ghazanfar,00321fff,Arafat Minhas,f2e8b37c,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Pakistan,13,Arafat Minhas,f2e8b37c,Niaz Ali,e33a357d,Asif Ali,0a4736eb,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Pakistan,13,Arafat Minhas,f2e8b37c,Niaz Ali,e33a357d,Asif Ali,0a4736eb,0,0,0,0,0,,,,,,1,0,1
+1399114,2023,Pakistan,13,Asif Ali,0a4736eb,Niaz Ali,e33a357d,Arafat Minhas,f2e8b37c,0,0,0,0,0,,,,,,1,0,1
+1399114,2023,Pakistan,13,Arafat Minhas,f2e8b37c,Niaz Ali,e33a357d,Asif Ali,0a4736eb,0,0,0,0,0,,,,,,4,0,4
+1399114,2023,Pakistan,13,Arafat Minhas,f2e8b37c,Niaz Ali,e33a357d,Asif Ali,0a4736eb,0,1,0,0,0,,,,,,0,1,1
+1399114,2023,Pakistan,13,Arafat Minhas,f2e8b37c,Niaz Ali,e33a357d,Asif Ali,0a4736eb,0,0,0,0,0,,,,,,6,0,6
+1399114,2023,Pakistan,13,Arafat Minhas,f2e8b37c,Niaz Ali,e33a357d,Asif Ali,0a4736eb,0,0,0,0,0,,,,,,4,0,4
+1399114,2023,Pakistan,14,Asif Ali,0a4736eb,Mohammad Ghazanfar,00321fff,Arafat Minhas,f2e8b37c,0,0,0,0,0,,,,,,1,0,1
+1399114,2023,Pakistan,14,Arafat Minhas,f2e8b37c,Mohammad Ghazanfar,00321fff,Asif Ali,0a4736eb,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Pakistan,14,Arafat Minhas,f2e8b37c,Mohammad Ghazanfar,00321fff,Asif Ali,0a4736eb,0,0,0,0,0,,,,,,1,0,1
+1399114,2023,Pakistan,14,Asif Ali,0a4736eb,Mohammad Ghazanfar,00321fff,Arafat Minhas,f2e8b37c,0,0,0,0,0,,,,,,6,0,6
+1399114,2023,Pakistan,14,Asif Ali,0a4736eb,Mohammad Ghazanfar,00321fff,Arafat Minhas,f2e8b37c,0,0,0,0,0,,,,,,2,0,2
+1399114,2023,Pakistan,14,Asif Ali,0a4736eb,Mohammad Ghazanfar,00321fff,Arafat Minhas,f2e8b37c,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Pakistan,15,Arafat Minhas,f2e8b37c,Ehsan Khan,d3851cd8,Asif Ali,0a4736eb,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Pakistan,15,Arafat Minhas,f2e8b37c,Ehsan Khan,d3851cd8,Asif Ali,0a4736eb,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Pakistan,15,Arafat Minhas,f2e8b37c,Ehsan Khan,d3851cd8,Asif Ali,0a4736eb,0,0,0,0,0,,,,,,1,0,1
+1399114,2023,Pakistan,15,Asif Ali,0a4736eb,Ehsan Khan,d3851cd8,Arafat Minhas,f2e8b37c,0,0,0,0,0,,,,,,6,0,6
+1399114,2023,Pakistan,15,Asif Ali,0a4736eb,Ehsan Khan,d3851cd8,Arafat Minhas,f2e8b37c,0,0,0,0,0,,,,,,1,0,1
+1399114,2023,Pakistan,15,Arafat Minhas,f2e8b37c,Ehsan Khan,d3851cd8,Asif Ali,0a4736eb,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Pakistan,16,Asif Ali,0a4736eb,Mohammad Ghazanfar,00321fff,Arafat Minhas,f2e8b37c,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Pakistan,16,Asif Ali,0a4736eb,Mohammad Ghazanfar,00321fff,Arafat Minhas,f2e8b37c,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Pakistan,16,Asif Ali,0a4736eb,Mohammad Ghazanfar,00321fff,Arafat Minhas,f2e8b37c,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Pakistan,16,Asif Ali,0a4736eb,Mohammad Ghazanfar,00321fff,Arafat Minhas,f2e8b37c,0,0,0,0,1,Asif Ali,0a4736eb,Hamed Khan,0e4843d2,caught,0,0,0
+1399114,2023,Pakistan,16,Aamer Jamal,a8e54ef4,Mohammad Ghazanfar,00321fff,Arafat Minhas,f2e8b37c,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Pakistan,16,Aamer Jamal,a8e54ef4,Mohammad Ghazanfar,00321fff,Arafat Minhas,f2e8b37c,0,0,0,0,0,,,,,,2,0,2
+1399114,2023,Pakistan,17,Arafat Minhas,f2e8b37c,Ehsan Khan,d3851cd8,Aamer Jamal,a8e54ef4,0,0,0,0,0,,,,,,1,0,1
+1399114,2023,Pakistan,17,Aamer Jamal,a8e54ef4,Ehsan Khan,d3851cd8,Arafat Minhas,f2e8b37c,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Pakistan,17,Aamer Jamal,a8e54ef4,Ehsan Khan,d3851cd8,Arafat Minhas,f2e8b37c,0,0,0,0,0,,,,,,2,0,2
+1399114,2023,Pakistan,17,Aamer Jamal,a8e54ef4,Ehsan Khan,d3851cd8,Arafat Minhas,f2e8b37c,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Pakistan,17,Aamer Jamal,a8e54ef4,Ehsan Khan,d3851cd8,Arafat Minhas,f2e8b37c,0,0,0,0,0,,,,,,1,0,1
+1399114,2023,Pakistan,17,Arafat Minhas,f2e8b37c,Ehsan Khan,d3851cd8,Aamer Jamal,a8e54ef4,0,0,0,0,0,,,,,,6,0,6
+1399114,2023,Pakistan,18,Aamer Jamal,a8e54ef4,Mohammad Ghazanfar,00321fff,Arafat Minhas,f2e8b37c,0,0,0,0,0,,,,,,4,0,4
+1399114,2023,Pakistan,18,Aamer Jamal,a8e54ef4,Mohammad Ghazanfar,00321fff,Arafat Minhas,f2e8b37c,0,0,0,0,0,,,,,,1,0,1
+1399114,2023,Pakistan,18,Arafat Minhas,f2e8b37c,Mohammad Ghazanfar,00321fff,Aamer Jamal,a8e54ef4,0,0,0,0,1,Arafat Minhas,f2e8b37c,Babar Hayat,fbb657bb,caught,0,0,0
+1399114,2023,Pakistan,18,Sufiyan Muqeem,4277234d,Mohammad Ghazanfar,00321fff,Aamer Jamal,a8e54ef4,0,0,0,0,0,,,,,,1,0,1
+1399114,2023,Pakistan,18,Aamer Jamal,a8e54ef4,Mohammad Ghazanfar,00321fff,Sufiyan Muqeem,4277234d,0,0,0,0,0,,,,,,6,0,6
+1399114,2023,Pakistan,18,Aamer Jamal,a8e54ef4,Mohammad Ghazanfar,00321fff,Sufiyan Muqeem,4277234d,0,0,0,0,0,,,,,,1,0,1
+1399114,2023,Pakistan,19,Aamer Jamal,a8e54ef4,A Shukla,a1e80d06,Sufiyan Muqeem,4277234d,0,0,0,0,0,,,,,,6,0,6
+1399114,2023,Pakistan,19,Aamer Jamal,a8e54ef4,A Shukla,a1e80d06,Sufiyan Muqeem,4277234d,0,0,0,0,0,,,,,,4,0,4
+1399114,2023,Pakistan,19,Aamer Jamal,a8e54ef4,A Shukla,a1e80d06,Sufiyan Muqeem,4277234d,1,0,0,0,0,,,,,,0,1,1
+1399114,2023,Pakistan,19,Aamer Jamal,a8e54ef4,A Shukla,a1e80d06,Sufiyan Muqeem,4277234d,0,1,0,0,0,,,,,,6,1,7
+1399114,2023,Pakistan,19,Aamer Jamal,a8e54ef4,A Shukla,a1e80d06,Sufiyan Muqeem,4277234d,0,0,0,0,0,,,,,,6,0,6
+1399114,2023,Pakistan,19,Aamer Jamal,a8e54ef4,A Shukla,a1e80d06,Sufiyan Muqeem,4277234d,0,0,0,0,0,,,,,,2,0,2
+1399114,2023,Pakistan,19,Aamer Jamal,a8e54ef4,A Shukla,a1e80d06,Sufiyan Muqeem,4277234d,0,0,0,0,1,Aamer Jamal,a8e54ef4,Ehsan Khan,d3851cd8,caught,0,0,0
+1399114,2023,Pakistan,19,Arshad Iqbal,ed031922,A Shukla,a1e80d06,Sufiyan Muqeem,4277234d,0,0,0,0,1,Arshad Iqbal,ed031922,Mohammad Ghazanfar,00321fff,caught,0,0,0
+1399114,2023,Hong Kong,0,Nizakat Khan,e3eb9e46,Arshad Iqbal,ed031922,Muhammad Khan,f17ac7d0,0,0,0,0,0,,,,,,4,0,4
+1399114,2023,Hong Kong,0,Nizakat Khan,e3eb9e46,Arshad Iqbal,ed031922,Muhammad Khan,f17ac7d0,0,0,0,0,0,,,,,,4,0,4
+1399114,2023,Hong Kong,0,Nizakat Khan,e3eb9e46,Arshad Iqbal,ed031922,Muhammad Khan,f17ac7d0,0,0,0,0,0,,,,,,1,0,1
+1399114,2023,Hong Kong,0,Muhammad Khan,f17ac7d0,Arshad Iqbal,ed031922,Nizakat Khan,e3eb9e46,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Hong Kong,0,Muhammad Khan,f17ac7d0,Arshad Iqbal,ed031922,Nizakat Khan,e3eb9e46,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Hong Kong,0,Muhammad Khan,f17ac7d0,Arshad Iqbal,ed031922,Nizakat Khan,e3eb9e46,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Hong Kong,1,Nizakat Khan,e3eb9e46,Arafat Minhas,f2e8b37c,Muhammad Khan,f17ac7d0,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Hong Kong,1,Nizakat Khan,e3eb9e46,Arafat Minhas,f2e8b37c,Muhammad Khan,f17ac7d0,0,0,0,0,0,,,,,,1,0,1
+1399114,2023,Hong Kong,1,Muhammad Khan,f17ac7d0,Arafat Minhas,f2e8b37c,Nizakat Khan,e3eb9e46,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Hong Kong,1,Muhammad Khan,f17ac7d0,Arafat Minhas,f2e8b37c,Nizakat Khan,e3eb9e46,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Hong Kong,1,Muhammad Khan,f17ac7d0,Arafat Minhas,f2e8b37c,Nizakat Khan,e3eb9e46,0,0,0,0,1,Muhammad Khan,f17ac7d0,Rohail Nazir,522bea89,caught,0,0,0
+1399114,2023,Hong Kong,1,Babar Hayat,fbb657bb,Arafat Minhas,f2e8b37c,Nizakat Khan,e3eb9e46,0,0,0,0,0,,,,,,4,0,4
+1399114,2023,Hong Kong,2,Nizakat Khan,e3eb9e46,Arshad Iqbal,ed031922,Babar Hayat,fbb657bb,0,0,0,0,0,,,,,,1,0,1
+1399114,2023,Hong Kong,2,Babar Hayat,fbb657bb,Arshad Iqbal,ed031922,Nizakat Khan,e3eb9e46,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Hong Kong,2,Babar Hayat,fbb657bb,Arshad Iqbal,ed031922,Nizakat Khan,e3eb9e46,1,0,0,0,0,,,,,,0,1,1
+1399114,2023,Hong Kong,2,Babar Hayat,fbb657bb,Arshad Iqbal,ed031922,Nizakat Khan,e3eb9e46,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Hong Kong,2,Babar Hayat,fbb657bb,Arshad Iqbal,ed031922,Nizakat Khan,e3eb9e46,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Hong Kong,2,Babar Hayat,fbb657bb,Arshad Iqbal,ed031922,Nizakat Khan,e3eb9e46,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Hong Kong,2,Babar Hayat,fbb657bb,Arshad Iqbal,ed031922,Nizakat Khan,e3eb9e46,0,0,0,0,0,,,,,,1,0,1
+1399114,2023,Hong Kong,3,Babar Hayat,fbb657bb,Arafat Minhas,f2e8b37c,Nizakat Khan,e3eb9e46,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Hong Kong,3,Babar Hayat,fbb657bb,Arafat Minhas,f2e8b37c,Nizakat Khan,e3eb9e46,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Hong Kong,3,Babar Hayat,fbb657bb,Arafat Minhas,f2e8b37c,Nizakat Khan,e3eb9e46,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Hong Kong,3,Babar Hayat,fbb657bb,Arafat Minhas,f2e8b37c,Nizakat Khan,e3eb9e46,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Hong Kong,3,Babar Hayat,fbb657bb,Arafat Minhas,f2e8b37c,Nizakat Khan,e3eb9e46,0,0,0,0,0,,,,,,2,0,2
+1399114,2023,Hong Kong,3,Babar Hayat,fbb657bb,Arafat Minhas,f2e8b37c,Nizakat Khan,e3eb9e46,0,0,0,0,0,,,,,,4,0,4
+1399114,2023,Hong Kong,4,Nizakat Khan,e3eb9e46,Aamer Jamal,a8e54ef4,Babar Hayat,fbb657bb,1,0,0,0,0,,,,,,0,1,1
+1399114,2023,Hong Kong,4,Nizakat Khan,e3eb9e46,Aamer Jamal,a8e54ef4,Babar Hayat,fbb657bb,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Hong Kong,4,Nizakat Khan,e3eb9e46,Aamer Jamal,a8e54ef4,Babar Hayat,fbb657bb,0,0,1,0,0,,,,,,0,1,1
+1399114,2023,Hong Kong,4,Babar Hayat,fbb657bb,Aamer Jamal,a8e54ef4,Nizakat Khan,e3eb9e46,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Hong Kong,4,Babar Hayat,fbb657bb,Aamer Jamal,a8e54ef4,Nizakat Khan,e3eb9e46,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Hong Kong,4,Babar Hayat,fbb657bb,Aamer Jamal,a8e54ef4,Nizakat Khan,e3eb9e46,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Hong Kong,4,Babar Hayat,fbb657bb,Aamer Jamal,a8e54ef4,Nizakat Khan,e3eb9e46,0,0,0,0,0,,,,,,4,0,4
+1399114,2023,Hong Kong,5,Nizakat Khan,e3eb9e46,Arafat Minhas,f2e8b37c,Babar Hayat,fbb657bb,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Hong Kong,5,Nizakat Khan,e3eb9e46,Arafat Minhas,f2e8b37c,Babar Hayat,fbb657bb,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Hong Kong,5,Nizakat Khan,e3eb9e46,Arafat Minhas,f2e8b37c,Babar Hayat,fbb657bb,0,0,0,0,1,Nizakat Khan,e3eb9e46,,,bowled,0,0,0
+1399114,2023,Hong Kong,5,S Mathur,11378dda,Arafat Minhas,f2e8b37c,Babar Hayat,fbb657bb,1,0,0,0,0,,,,,,0,1,1
+1399114,2023,Hong Kong,5,S Mathur,11378dda,Arafat Minhas,f2e8b37c,Babar Hayat,fbb657bb,0,0,0,0,0,,,,,,1,0,1
+1399114,2023,Hong Kong,5,Babar Hayat,fbb657bb,Arafat Minhas,f2e8b37c,S Mathur,11378dda,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Hong Kong,5,Babar Hayat,fbb657bb,Arafat Minhas,f2e8b37c,S Mathur,11378dda,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Hong Kong,6,S Mathur,11378dda,Aamer Jamal,a8e54ef4,Babar Hayat,fbb657bb,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Hong Kong,6,S Mathur,11378dda,Aamer Jamal,a8e54ef4,Babar Hayat,fbb657bb,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Hong Kong,6,S Mathur,11378dda,Aamer Jamal,a8e54ef4,Babar Hayat,fbb657bb,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Hong Kong,6,S Mathur,11378dda,Aamer Jamal,a8e54ef4,Babar Hayat,fbb657bb,0,0,0,0,0,,,,,,1,0,1
+1399114,2023,Hong Kong,6,Babar Hayat,fbb657bb,Aamer Jamal,a8e54ef4,S Mathur,11378dda,0,0,0,0,0,,,,,,6,0,6
+1399114,2023,Hong Kong,6,Babar Hayat,fbb657bb,Aamer Jamal,a8e54ef4,S Mathur,11378dda,0,0,0,0,0,,,,,,6,0,6
+1399114,2023,Hong Kong,7,S Mathur,11378dda,Sufiyan Muqeem,4277234d,Babar Hayat,fbb657bb,0,0,0,0,0,,,,,,1,0,1
+1399114,2023,Hong Kong,7,Babar Hayat,fbb657bb,Sufiyan Muqeem,4277234d,S Mathur,11378dda,0,0,0,0,0,,,,,,1,0,1
+1399114,2023,Hong Kong,7,S Mathur,11378dda,Sufiyan Muqeem,4277234d,Babar Hayat,fbb657bb,0,0,0,0,0,,,,,,1,0,1
+1399114,2023,Hong Kong,7,Babar Hayat,fbb657bb,Sufiyan Muqeem,4277234d,S Mathur,11378dda,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Hong Kong,7,Babar Hayat,fbb657bb,Sufiyan Muqeem,4277234d,S Mathur,11378dda,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Hong Kong,7,Babar Hayat,fbb657bb,Sufiyan Muqeem,4277234d,S Mathur,11378dda,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Hong Kong,8,S Mathur,11378dda,Khushdil Shah,fce581b5,Babar Hayat,fbb657bb,0,0,0,0,0,,,,,,1,0,1
+1399114,2023,Hong Kong,8,Babar Hayat,fbb657bb,Khushdil Shah,fce581b5,S Mathur,11378dda,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Hong Kong,8,Babar Hayat,fbb657bb,Khushdil Shah,fce581b5,S Mathur,11378dda,0,0,0,0,0,,,,,,1,0,1
+1399114,2023,Hong Kong,8,S Mathur,11378dda,Khushdil Shah,fce581b5,Babar Hayat,fbb657bb,0,0,0,0,0,,,,,,4,0,4
+1399114,2023,Hong Kong,8,S Mathur,11378dda,Khushdil Shah,fce581b5,Babar Hayat,fbb657bb,0,0,0,0,0,,,,,,1,0,1
+1399114,2023,Hong Kong,8,Babar Hayat,fbb657bb,Khushdil Shah,fce581b5,S Mathur,11378dda,0,0,0,0,1,Babar Hayat,fbb657bb,,,bowled,0,0,0
+1399114,2023,Hong Kong,8,Akbar Khan,6113433c,Khushdil Shah,fce581b5,S Mathur,11378dda,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Hong Kong,9,S Mathur,11378dda,Sufiyan Muqeem,4277234d,Akbar Khan,6113433c,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Hong Kong,9,S Mathur,11378dda,Sufiyan Muqeem,4277234d,Akbar Khan,6113433c,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Hong Kong,9,S Mathur,11378dda,Sufiyan Muqeem,4277234d,Akbar Khan,6113433c,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Hong Kong,9,S Mathur,11378dda,Sufiyan Muqeem,4277234d,Akbar Khan,6113433c,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Hong Kong,9,S Mathur,11378dda,Sufiyan Muqeem,4277234d,Akbar Khan,6113433c,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Hong Kong,9,S Mathur,11378dda,Sufiyan Muqeem,4277234d,Akbar Khan,6113433c,0,0,0,0,1,S Mathur,11378dda,Asif Ali,0a4736eb,caught,0,0,0
+1399114,2023,Hong Kong,10,Akbar Khan,6113433c,Khushdil Shah,fce581b5,Nasrulla Rana,9ffb7550,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Hong Kong,10,Akbar Khan,6113433c,Khushdil Shah,fce581b5,Nasrulla Rana,9ffb7550,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Hong Kong,10,Akbar Khan,6113433c,Khushdil Shah,fce581b5,Nasrulla Rana,9ffb7550,0,0,0,0,0,,,,,,1,0,1
+1399114,2023,Hong Kong,10,Nasrulla Rana,9ffb7550,Khushdil Shah,fce581b5,Akbar Khan,6113433c,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Hong Kong,10,Nasrulla Rana,9ffb7550,Khushdil Shah,fce581b5,Akbar Khan,6113433c,0,0,0,0,1,Nasrulla Rana,9ffb7550,,,bowled,0,0,0
+1399114,2023,Hong Kong,10,Anas Khan,66a7f213,Khushdil Shah,fce581b5,Akbar Khan,6113433c,1,0,0,0,0,,,,,,0,1,1
+1399114,2023,Hong Kong,10,Anas Khan,66a7f213,Khushdil Shah,fce581b5,Akbar Khan,6113433c,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Hong Kong,11,Akbar Khan,6113433c,Sufiyan Muqeem,4277234d,Anas Khan,66a7f213,0,0,0,0,1,Anas Khan,66a7f213,Haider Ali,c13e34f4,run out,1,0,1
+1399114,2023,Hong Kong,11,Akbar Khan,6113433c,Sufiyan Muqeem,4277234d,Ehsan Khan,d3851cd8,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Hong Kong,11,Akbar Khan,6113433c,Sufiyan Muqeem,4277234d,Ehsan Khan,d3851cd8,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Hong Kong,11,Akbar Khan,6113433c,Sufiyan Muqeem,4277234d,Ehsan Khan,d3851cd8,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Hong Kong,11,Akbar Khan,6113433c,Sufiyan Muqeem,4277234d,Ehsan Khan,d3851cd8,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Hong Kong,11,Akbar Khan,6113433c,Sufiyan Muqeem,4277234d,Ehsan Khan,d3851cd8,0,0,0,0,0,,,,,,4,0,4
+1399114,2023,Hong Kong,12,Ehsan Khan,d3851cd8,Khushdil Shah,fce581b5,Akbar Khan,6113433c,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Hong Kong,12,Ehsan Khan,d3851cd8,Khushdil Shah,fce581b5,Akbar Khan,6113433c,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Hong Kong,12,Ehsan Khan,d3851cd8,Khushdil Shah,fce581b5,Akbar Khan,6113433c,0,0,0,0,0,,,,,,1,0,1
+1399114,2023,Hong Kong,12,Akbar Khan,6113433c,Khushdil Shah,fce581b5,Ehsan Khan,d3851cd8,0,0,0,0,1,Akbar Khan,6113433c,Rohail Nazir,522bea89,caught,0,0,0
+1399114,2023,Hong Kong,12,A Shukla,a1e80d06,Khushdil Shah,fce581b5,Ehsan Khan,d3851cd8,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Hong Kong,12,A Shukla,a1e80d06,Khushdil Shah,fce581b5,Ehsan Khan,d3851cd8,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Hong Kong,13,Ehsan Khan,d3851cd8,Sufiyan Muqeem,4277234d,A Shukla,a1e80d06,0,0,0,0,0,,,,,,1,0,1
+1399114,2023,Hong Kong,13,A Shukla,a1e80d06,Sufiyan Muqeem,4277234d,Ehsan Khan,d3851cd8,0,0,0,0,1,A Shukla,a1e80d06,Qasim Akram,b6359668,caught,0,0,0
+1399114,2023,Hong Kong,13,Mohammad Ghazanfar,00321fff,Sufiyan Muqeem,4277234d,Ehsan Khan,d3851cd8,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Hong Kong,13,Mohammad Ghazanfar,00321fff,Sufiyan Muqeem,4277234d,Ehsan Khan,d3851cd8,0,0,0,0,0,,,,,,1,0,1
+1399114,2023,Hong Kong,13,Ehsan Khan,d3851cd8,Sufiyan Muqeem,4277234d,Mohammad Ghazanfar,00321fff,0,0,0,0,0,,,,,,1,0,1
+1399114,2023,Hong Kong,13,Mohammad Ghazanfar,00321fff,Sufiyan Muqeem,4277234d,Ehsan Khan,d3851cd8,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Hong Kong,14,Ehsan Khan,d3851cd8,Khushdil Shah,fce581b5,Mohammad Ghazanfar,00321fff,0,0,0,0,0,,,,,,1,0,1
+1399114,2023,Hong Kong,14,Mohammad Ghazanfar,00321fff,Khushdil Shah,fce581b5,Ehsan Khan,d3851cd8,0,0,0,0,0,,,,,,1,0,1
+1399114,2023,Hong Kong,14,Ehsan Khan,d3851cd8,Khushdil Shah,fce581b5,Mohammad Ghazanfar,00321fff,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Hong Kong,14,Ehsan Khan,d3851cd8,Khushdil Shah,fce581b5,Mohammad Ghazanfar,00321fff,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Hong Kong,14,Ehsan Khan,d3851cd8,Khushdil Shah,fce581b5,Mohammad Ghazanfar,00321fff,0,0,0,0,0,,,,,,1,0,1
+1399114,2023,Hong Kong,14,Mohammad Ghazanfar,00321fff,Khushdil Shah,fce581b5,Ehsan Khan,d3851cd8,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Hong Kong,15,Ehsan Khan,d3851cd8,Arafat Minhas,f2e8b37c,Mohammad Ghazanfar,00321fff,0,0,0,0,0,,,,,,1,0,1
+1399114,2023,Hong Kong,15,Mohammad Ghazanfar,00321fff,Arafat Minhas,f2e8b37c,Ehsan Khan,d3851cd8,0,0,0,1,0,,,,,,0,1,1
+1399114,2023,Hong Kong,15,Ehsan Khan,d3851cd8,Arafat Minhas,f2e8b37c,Mohammad Ghazanfar,00321fff,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Hong Kong,15,Ehsan Khan,d3851cd8,Arafat Minhas,f2e8b37c,Mohammad Ghazanfar,00321fff,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Hong Kong,15,Ehsan Khan,d3851cd8,Arafat Minhas,f2e8b37c,Mohammad Ghazanfar,00321fff,0,0,0,0,0,,,,,,4,0,4
+1399114,2023,Hong Kong,15,Ehsan Khan,d3851cd8,Arafat Minhas,f2e8b37c,Mohammad Ghazanfar,00321fff,0,0,0,0,0,,,,,,1,0,1
+1399114,2023,Hong Kong,16,Ehsan Khan,d3851cd8,Qasim Akram,b6359668,Mohammad Ghazanfar,00321fff,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Hong Kong,16,Ehsan Khan,d3851cd8,Qasim Akram,b6359668,Mohammad Ghazanfar,00321fff,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Hong Kong,16,Ehsan Khan,d3851cd8,Qasim Akram,b6359668,Mohammad Ghazanfar,00321fff,0,0,0,0,0,,,,,,1,0,1
+1399114,2023,Hong Kong,16,Mohammad Ghazanfar,00321fff,Qasim Akram,b6359668,Ehsan Khan,d3851cd8,0,0,0,0,1,Mohammad Ghazanfar,00321fff,,,bowled,0,0,0
+1399114,2023,Hong Kong,16,Niaz Ali,e33a357d,Qasim Akram,b6359668,Ehsan Khan,d3851cd8,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Hong Kong,16,Niaz Ali,e33a357d,Qasim Akram,b6359668,Ehsan Khan,d3851cd8,0,0,0,0,0,,,,,,4,0,4
+1399114,2023,Hong Kong,17,Ehsan Khan,d3851cd8,Arshad Iqbal,ed031922,Niaz Ali,e33a357d,0,0,0,0,0,,,,,,1,0,1
+1399114,2023,Hong Kong,17,Niaz Ali,e33a357d,Arshad Iqbal,ed031922,Ehsan Khan,d3851cd8,0,0,0,0,0,,,,,,6,0,6
+1399114,2023,Hong Kong,17,Niaz Ali,e33a357d,Arshad Iqbal,ed031922,Ehsan Khan,d3851cd8,0,0,0,0,0,,,,,,1,0,1
+1399114,2023,Hong Kong,17,Ehsan Khan,d3851cd8,Arshad Iqbal,ed031922,Niaz Ali,e33a357d,0,0,0,0,0,,,,,,1,0,1
+1399114,2023,Hong Kong,17,Niaz Ali,e33a357d,Arshad Iqbal,ed031922,Ehsan Khan,d3851cd8,0,0,0,0,0,,,,,,1,0,1
+1399114,2023,Hong Kong,17,Ehsan Khan,d3851cd8,Arshad Iqbal,ed031922,Niaz Ali,e33a357d,0,0,0,0,0,,,,,,1,0,1
+1399114,2023,Hong Kong,18,Ehsan Khan,d3851cd8,Qasim Akram,b6359668,Niaz Ali,e33a357d,0,0,1,0,0,,,,,,0,1,1
+1399114,2023,Hong Kong,18,Niaz Ali,e33a357d,Qasim Akram,b6359668,Ehsan Khan,d3851cd8,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Hong Kong,18,Niaz Ali,e33a357d,Qasim Akram,b6359668,Ehsan Khan,d3851cd8,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Hong Kong,18,Niaz Ali,e33a357d,Qasim Akram,b6359668,Ehsan Khan,d3851cd8,0,0,0,0,0,,,,,,0,0,0
+1399114,2023,Hong Kong,18,Niaz Ali,e33a357d,Qasim Akram,b6359668,Ehsan Khan,d3851cd8,0,0,0,0,1,Niaz Ali,e33a357d,Khushdil Shah,fce581b5,caught,0,0,0

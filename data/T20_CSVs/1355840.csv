@@ -1,0 +1,131 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1355840,2022/23,Cambodia,0,Hor Siv na,05d1964e,GK Diviya,992979fa,Dok Da Nit,d6ca2714,0,0,0,0,0,,,,,,0,0,0
+1355840,2022/23,Cambodia,0,Hor Siv na,05d1964e,GK Diviya,992979fa,Dok Da Nit,d6ca2714,1,0,0,0,0,,,,,,0,1,1
+1355840,2022/23,Cambodia,0,Hor Siv na,05d1964e,GK Diviya,992979fa,Dok Da Nit,d6ca2714,0,0,0,0,0,,,,,,1,0,1
+1355840,2022/23,Cambodia,0,Dok Da Nit,d6ca2714,GK Diviya,992979fa,Hor Siv na,05d1964e,1,0,0,0,0,,,,,,0,1,1
+1355840,2022/23,Cambodia,0,Dok Da Nit,d6ca2714,GK Diviya,992979fa,Hor Siv na,05d1964e,0,0,0,0,0,,,,,,0,0,0
+1355840,2022/23,Cambodia,0,Dok Da Nit,d6ca2714,GK Diviya,992979fa,Hor Siv na,05d1964e,0,0,0,0,0,,,,,,1,0,1
+1355840,2022/23,Cambodia,0,Hor Siv na,05d1964e,GK Diviya,992979fa,Dok Da Nit,d6ca2714,0,0,0,0,1,Hor Siv na,05d1964e,,,bowled,0,0,0
+1355840,2022/23,Cambodia,0,Pen Samon,caa4444c,GK Diviya,992979fa,Dok Da Nit,d6ca2714,0,0,0,0,0,,,,,,0,0,0
+1355840,2022/23,Cambodia,1,Dok Da Nit,d6ca2714,Shafina Mahesh,0c40b02d,Pen Samon,caa4444c,0,0,0,0,0,,,,,,0,0,0
+1355840,2022/23,Cambodia,1,Dok Da Nit,d6ca2714,Shafina Mahesh,0c40b02d,Pen Samon,caa4444c,0,0,0,0,0,,,,,,0,0,0
+1355840,2022/23,Cambodia,1,Dok Da Nit,d6ca2714,Shafina Mahesh,0c40b02d,Pen Samon,caa4444c,0,0,0,0,0,,,,,,0,0,0
+1355840,2022/23,Cambodia,1,Dok Da Nit,d6ca2714,Shafina Mahesh,0c40b02d,Pen Samon,caa4444c,0,0,0,0,0,,,,,,0,0,0
+1355840,2022/23,Cambodia,1,Dok Da Nit,d6ca2714,Shafina Mahesh,0c40b02d,Pen Samon,caa4444c,1,0,0,0,0,,,,,,0,1,1
+1355840,2022/23,Cambodia,1,Dok Da Nit,d6ca2714,Shafina Mahesh,0c40b02d,Pen Samon,caa4444c,0,0,0,0,0,,,,,,0,0,0
+1355840,2022/23,Cambodia,1,Dok Da Nit,d6ca2714,Shafina Mahesh,0c40b02d,Pen Samon,caa4444c,0,0,0,0,0,,,,,,0,0,0
+1355840,2022/23,Cambodia,2,Pen Samon,caa4444c,GK Diviya,992979fa,Dok Da Nit,d6ca2714,0,0,0,0,0,,,,,,0,0,0
+1355840,2022/23,Cambodia,2,Pen Samon,caa4444c,GK Diviya,992979fa,Dok Da Nit,d6ca2714,0,0,0,0,0,,,,,,0,0,0
+1355840,2022/23,Cambodia,2,Pen Samon,caa4444c,GK Diviya,992979fa,Dok Da Nit,d6ca2714,0,0,0,0,1,Pen Samon,caa4444c,,,bowled,0,0,0
+1355840,2022/23,Cambodia,2,LY Loch Srey,a994e18f,GK Diviya,992979fa,Dok Da Nit,d6ca2714,0,0,0,0,0,,,,,,0,0,0
+1355840,2022/23,Cambodia,2,LY Loch Srey,a994e18f,GK Diviya,992979fa,Dok Da Nit,d6ca2714,0,0,0,0,0,,,,,,1,0,1
+1355840,2022/23,Cambodia,2,Dok Da Nit,d6ca2714,GK Diviya,992979fa,LY Loch Srey,a994e18f,0,0,0,0,0,,,,,,0,0,0
+1355840,2022/23,Cambodia,3,LY Loch Srey,a994e18f,Shafina Mahesh,0c40b02d,Dok Da Nit,d6ca2714,0,0,0,0,0,,,,,,1,0,1
+1355840,2022/23,Cambodia,3,Dok Da Nit,d6ca2714,Shafina Mahesh,0c40b02d,LY Loch Srey,a994e18f,0,0,0,0,1,Dok Da Nit,d6ca2714,,,bowled,0,0,0
+1355840,2022/23,Cambodia,3,Pech Pisa,c7eb3b9c,Shafina Mahesh,0c40b02d,LY Loch Srey,a994e18f,0,0,0,0,0,,,,,,0,0,0
+1355840,2022/23,Cambodia,3,Pech Pisa,c7eb3b9c,Shafina Mahesh,0c40b02d,LY Loch Srey,a994e18f,0,0,0,0,0,,,,,,0,0,0
+1355840,2022/23,Cambodia,3,Pech Pisa,c7eb3b9c,Shafina Mahesh,0c40b02d,LY Loch Srey,a994e18f,0,0,0,0,1,Pech Pisa,c7eb3b9c,JS Pooranakaran,417bde96,caught,0,0,0
+1355840,2022/23,Cambodia,3,Sean Chan Boromey,4c84d883,Shafina Mahesh,0c40b02d,LY Loch Srey,a994e18f,0,0,0,0,0,,,,,,0,0,0
+1355840,2022/23,Cambodia,4,LY Loch Srey,a994e18f,Vinu Kumar,3775b9f9,Sean Chan Boromey,4c84d883,0,0,0,0,0,,,,,,0,0,0
+1355840,2022/23,Cambodia,4,LY Loch Srey,a994e18f,Vinu Kumar,3775b9f9,Sean Chan Boromey,4c84d883,0,0,0,0,0,,,,,,0,0,0
+1355840,2022/23,Cambodia,4,LY Loch Srey,a994e18f,Vinu Kumar,3775b9f9,Sean Chan Boromey,4c84d883,0,0,0,0,0,,,,,,0,0,0
+1355840,2022/23,Cambodia,4,LY Loch Srey,a994e18f,Vinu Kumar,3775b9f9,Sean Chan Boromey,4c84d883,0,0,0,0,0,,,,,,0,0,0
+1355840,2022/23,Cambodia,4,LY Loch Srey,a994e18f,Vinu Kumar,3775b9f9,Sean Chan Boromey,4c84d883,0,0,0,0,0,,,,,,0,0,0
+1355840,2022/23,Cambodia,4,LY Loch Srey,a994e18f,Vinu Kumar,3775b9f9,Sean Chan Boromey,4c84d883,0,0,0,0,0,,,,,,0,0,0
+1355840,2022/23,Cambodia,5,Sean Chan Boromey,4c84d883,Riyaa Bhasin,3ff26cea,LY Loch Srey,a994e18f,0,0,0,0,1,Sean Chan Boromey,4c84d883,,,bowled,0,0,0
+1355840,2022/23,Cambodia,5,Ly Saomakara,a9668b5f,Riyaa Bhasin,3ff26cea,LY Loch Srey,a994e18f,0,0,0,0,0,,,,,,0,0,0
+1355840,2022/23,Cambodia,5,Ly Saomakara,a9668b5f,Riyaa Bhasin,3ff26cea,LY Loch Srey,a994e18f,0,0,0,0,1,Ly Saomakara,a9668b5f,,,bowled,0,0,0
+1355840,2022/23,Cambodia,5,Ouen Sophy,4477b556,Riyaa Bhasin,3ff26cea,LY Loch Srey,a994e18f,0,0,0,0,0,,,,,,0,0,0
+1355840,2022/23,Cambodia,5,Ouen Sophy,4477b556,Riyaa Bhasin,3ff26cea,LY Loch Srey,a994e18f,0,0,0,0,0,,,,,,0,0,0
+1355840,2022/23,Cambodia,5,Ouen Sophy,4477b556,Riyaa Bhasin,3ff26cea,LY Loch Srey,a994e18f,0,0,0,0,0,,,,,,0,0,0
+1355840,2022/23,Cambodia,6,LY Loch Srey,a994e18f,H Dhavina,cd12f384,Ouen Sophy,4477b556,0,0,0,0,1,LY Loch Srey,a994e18f,JS Pooranakaran,417bde96,caught,0,0,0
+1355840,2022/23,Cambodia,6,Phoup Srey Pheak,8c73dff5,H Dhavina,cd12f384,Ouen Sophy,4477b556,0,0,0,0,0,,,,,,0,0,0
+1355840,2022/23,Cambodia,6,Phoup Srey Pheak,8c73dff5,H Dhavina,cd12f384,Ouen Sophy,4477b556,0,0,0,0,0,,,,,,0,0,0
+1355840,2022/23,Cambodia,6,Phoup Srey Pheak,8c73dff5,H Dhavina,cd12f384,Ouen Sophy,4477b556,0,0,0,0,0,,,,,,0,0,0
+1355840,2022/23,Cambodia,6,Phoup Srey Pheak,8c73dff5,H Dhavina,cd12f384,Ouen Sophy,4477b556,0,0,0,0,0,,,,,,0,0,0
+1355840,2022/23,Cambodia,6,Phoup Srey Pheak,8c73dff5,H Dhavina,cd12f384,Ouen Sophy,4477b556,0,0,0,0,0,,,,,,0,0,0
+1355840,2022/23,Cambodia,7,Ouen Sophy,4477b556,JS Pooranakaran,417bde96,Phoup Srey Pheak,8c73dff5,0,0,0,0,0,,,,,,1,0,1
+1355840,2022/23,Cambodia,7,Phoup Srey Pheak,8c73dff5,JS Pooranakaran,417bde96,Ouen Sophy,4477b556,0,0,0,0,0,,,,,,0,0,0
+1355840,2022/23,Cambodia,7,Phoup Srey Pheak,8c73dff5,JS Pooranakaran,417bde96,Ouen Sophy,4477b556,0,1,0,0,0,,,,,,0,1,1
+1355840,2022/23,Cambodia,7,Phoup Srey Pheak,8c73dff5,JS Pooranakaran,417bde96,Ouen Sophy,4477b556,0,0,0,0,0,,,,,,1,0,1
+1355840,2022/23,Cambodia,7,Ouen Sophy,4477b556,JS Pooranakaran,417bde96,Phoup Srey Pheak,8c73dff5,0,1,0,0,0,,,,,,1,1,2
+1355840,2022/23,Cambodia,7,Phoup Srey Pheak,8c73dff5,JS Pooranakaran,417bde96,Ouen Sophy,4477b556,0,0,0,0,0,,,,,,0,0,0
+1355840,2022/23,Cambodia,7,Phoup Srey Pheak,8c73dff5,JS Pooranakaran,417bde96,Ouen Sophy,4477b556,1,0,0,0,0,,,,,,0,1,1
+1355840,2022/23,Cambodia,7,Phoup Srey Pheak,8c73dff5,JS Pooranakaran,417bde96,Ouen Sophy,4477b556,1,0,0,0,0,,,,,,0,1,1
+1355840,2022/23,Cambodia,7,Phoup Srey Pheak,8c73dff5,JS Pooranakaran,417bde96,Ouen Sophy,4477b556,1,0,0,0,0,,,,,,0,1,1
+1355840,2022/23,Cambodia,7,Phoup Srey Pheak,8c73dff5,JS Pooranakaran,417bde96,Ouen Sophy,4477b556,0,0,0,0,1,Phoup Srey Pheak,8c73dff5,,,bowled,0,0,0
+1355840,2022/23,Cambodia,7,Heal Theara,aae7b7f0,JS Pooranakaran,417bde96,Ouen Sophy,4477b556,0,0,0,0,0,,,,,,0,0,0
+1355840,2022/23,Cambodia,8,Ouen Sophy,4477b556,H Dhavina,cd12f384,Heal Theara,aae7b7f0,0,0,0,0,0,,,,,,0,0,0
+1355840,2022/23,Cambodia,8,Ouen Sophy,4477b556,H Dhavina,cd12f384,Heal Theara,aae7b7f0,0,0,0,0,0,,,,,,4,0,4
+1355840,2022/23,Cambodia,8,Ouen Sophy,4477b556,H Dhavina,cd12f384,Heal Theara,aae7b7f0,0,0,0,0,0,,,,,,0,0,0
+1355840,2022/23,Cambodia,8,Ouen Sophy,4477b556,H Dhavina,cd12f384,Heal Theara,aae7b7f0,0,0,0,0,0,,,,,,1,0,1
+1355840,2022/23,Cambodia,8,Heal Theara,aae7b7f0,H Dhavina,cd12f384,Ouen Sophy,4477b556,0,0,0,0,0,,,,,,0,0,0
+1355840,2022/23,Cambodia,8,Heal Theara,aae7b7f0,H Dhavina,cd12f384,Ouen Sophy,4477b556,0,0,0,0,0,,,,,,0,0,0
+1355840,2022/23,Cambodia,9,Ouen Sophy,4477b556,JS Pooranakaran,417bde96,Heal Theara,aae7b7f0,1,0,0,0,0,,,,,,0,1,1
+1355840,2022/23,Cambodia,9,Ouen Sophy,4477b556,JS Pooranakaran,417bde96,Heal Theara,aae7b7f0,0,0,0,0,0,,,,,,0,0,0
+1355840,2022/23,Cambodia,9,Ouen Sophy,4477b556,JS Pooranakaran,417bde96,Heal Theara,aae7b7f0,0,0,0,0,0,,,,,,0,0,0
+1355840,2022/23,Cambodia,9,Ouen Sophy,4477b556,JS Pooranakaran,417bde96,Heal Theara,aae7b7f0,0,0,0,0,1,Ouen Sophy,4477b556,,,bowled,0,0,0
+1355840,2022/23,Cambodia,9,Sok Srey Maov,c5e3fe3c,JS Pooranakaran,417bde96,Heal Theara,aae7b7f0,0,0,0,0,0,,,,,,0,0,0
+1355840,2022/23,Cambodia,9,Sok Srey Maov,c5e3fe3c,JS Pooranakaran,417bde96,Heal Theara,aae7b7f0,1,0,0,0,0,,,,,,0,1,1
+1355840,2022/23,Cambodia,9,Sok Srey Maov,c5e3fe3c,JS Pooranakaran,417bde96,Heal Theara,aae7b7f0,0,0,0,0,0,,,,,,0,0,0
+1355840,2022/23,Cambodia,9,Sok Srey Maov,c5e3fe3c,JS Pooranakaran,417bde96,Heal Theara,aae7b7f0,0,0,0,0,0,,,,,,0,0,0
+1355840,2022/23,Cambodia,10,Heal Theara,aae7b7f0,Damini Ramesh,c4480b25,Sok Srey Maov,c5e3fe3c,1,0,0,0,0,,,,,,0,1,1
+1355840,2022/23,Cambodia,10,Heal Theara,aae7b7f0,Damini Ramesh,c4480b25,Sok Srey Maov,c5e3fe3c,0,0,0,0,0,,,,,,0,0,0
+1355840,2022/23,Cambodia,10,Heal Theara,aae7b7f0,Damini Ramesh,c4480b25,Sok Srey Maov,c5e3fe3c,0,0,0,0,0,,,,,,0,0,0
+1355840,2022/23,Cambodia,10,Heal Theara,aae7b7f0,Damini Ramesh,c4480b25,Sok Srey Maov,c5e3fe3c,0,0,0,0,0,,,,,,0,0,0
+1355840,2022/23,Cambodia,10,Heal Theara,aae7b7f0,Damini Ramesh,c4480b25,Sok Srey Maov,c5e3fe3c,0,1,0,0,0,,,,,,0,1,1
+1355840,2022/23,Cambodia,10,Heal Theara,aae7b7f0,Damini Ramesh,c4480b25,Sok Srey Maov,c5e3fe3c,0,0,0,0,0,,,,,,0,0,0
+1355840,2022/23,Cambodia,10,Heal Theara,aae7b7f0,Damini Ramesh,c4480b25,Sok Srey Maov,c5e3fe3c,0,0,0,0,0,,,,,,1,0,1
+1355840,2022/23,Cambodia,10,Sok Srey Maov,c5e3fe3c,Damini Ramesh,c4480b25,Heal Theara,aae7b7f0,1,0,0,0,0,,,,,,0,1,1
+1355840,2022/23,Cambodia,10,Sok Srey Maov,c5e3fe3c,Damini Ramesh,c4480b25,Heal Theara,aae7b7f0,0,0,0,0,0,,,,,,0,0,0
+1355840,2022/23,Cambodia,11,Heal Theara,aae7b7f0,H Dhavina,cd12f384,Sok Srey Maov,c5e3fe3c,0,0,0,0,0,,,,,,0,0,0
+1355840,2022/23,Cambodia,11,Heal Theara,aae7b7f0,H Dhavina,cd12f384,Sok Srey Maov,c5e3fe3c,0,0,0,0,1,Heal Theara,aae7b7f0,,,bowled,0,0,0
+1355840,2022/23,Singapore,0,DA Galia,ae0b5b95,LY Loch Srey,a994e18f,Vathana Sreemurugavel,eb2d1983,0,0,0,0,0,,,,,,0,0,0
+1355840,2022/23,Singapore,0,DA Galia,ae0b5b95,LY Loch Srey,a994e18f,Vathana Sreemurugavel,eb2d1983,1,0,0,0,0,,,,,,0,1,1
+1355840,2022/23,Singapore,0,DA Galia,ae0b5b95,LY Loch Srey,a994e18f,Vathana Sreemurugavel,eb2d1983,1,0,0,0,0,,,,,,0,1,1
+1355840,2022/23,Singapore,0,DA Galia,ae0b5b95,LY Loch Srey,a994e18f,Vathana Sreemurugavel,eb2d1983,1,0,0,0,0,,,,,,0,1,1
+1355840,2022/23,Singapore,0,DA Galia,ae0b5b95,LY Loch Srey,a994e18f,Vathana Sreemurugavel,eb2d1983,0,0,0,0,0,,,,,,0,0,0
+1355840,2022/23,Singapore,0,DA Galia,ae0b5b95,LY Loch Srey,a994e18f,Vathana Sreemurugavel,eb2d1983,1,0,0,0,0,,,,,,0,1,1
+1355840,2022/23,Singapore,0,DA Galia,ae0b5b95,LY Loch Srey,a994e18f,Vathana Sreemurugavel,eb2d1983,1,0,0,0,0,,,,,,0,1,1
+1355840,2022/23,Singapore,0,DA Galia,ae0b5b95,LY Loch Srey,a994e18f,Vathana Sreemurugavel,eb2d1983,1,0,0,0,0,,,,,,0,1,1
+1355840,2022/23,Singapore,0,DA Galia,ae0b5b95,LY Loch Srey,a994e18f,Vathana Sreemurugavel,eb2d1983,0,0,0,0,0,,,,,,1,0,1
+1355840,2022/23,Singapore,0,Vathana Sreemurugavel,eb2d1983,LY Loch Srey,a994e18f,DA Galia,ae0b5b95,0,0,0,0,0,,,,,,0,0,0
+1355840,2022/23,Singapore,0,Vathana Sreemurugavel,eb2d1983,LY Loch Srey,a994e18f,DA Galia,ae0b5b95,0,0,0,0,0,,,,,,0,0,0
+1355840,2022/23,Singapore,0,Vathana Sreemurugavel,eb2d1983,LY Loch Srey,a994e18f,DA Galia,ae0b5b95,1,0,0,0,0,,,,,,0,1,1
+1355840,2022/23,Singapore,0,Vathana Sreemurugavel,eb2d1983,LY Loch Srey,a994e18f,DA Galia,ae0b5b95,0,0,0,0,0,,,,,,0,0,0
+1355840,2022/23,Singapore,1,DA Galia,ae0b5b95,Phoup Srey Pheak,8c73dff5,Vathana Sreemurugavel,eb2d1983,1,0,0,0,0,,,,,,0,1,1
+1355840,2022/23,Singapore,1,DA Galia,ae0b5b95,Phoup Srey Pheak,8c73dff5,Vathana Sreemurugavel,eb2d1983,0,0,0,0,0,,,,,,0,0,0
+1355840,2022/23,Singapore,1,DA Galia,ae0b5b95,Phoup Srey Pheak,8c73dff5,Vathana Sreemurugavel,eb2d1983,0,0,0,0,0,,,,,,0,0,0
+1355840,2022/23,Singapore,1,DA Galia,ae0b5b95,Phoup Srey Pheak,8c73dff5,Vathana Sreemurugavel,eb2d1983,0,0,0,0,0,,,,,,1,0,1
+1355840,2022/23,Singapore,1,Vathana Sreemurugavel,eb2d1983,Phoup Srey Pheak,8c73dff5,DA Galia,ae0b5b95,1,0,0,0,0,,,,,,0,1,1
+1355840,2022/23,Singapore,1,Vathana Sreemurugavel,eb2d1983,Phoup Srey Pheak,8c73dff5,DA Galia,ae0b5b95,0,0,0,0,0,,,,,,1,0,1
+1355840,2022/23,Singapore,1,DA Galia,ae0b5b95,Phoup Srey Pheak,8c73dff5,Vathana Sreemurugavel,eb2d1983,1,0,0,0,0,,,,,,0,1,1
+1355840,2022/23,Singapore,1,DA Galia,ae0b5b95,Phoup Srey Pheak,8c73dff5,Vathana Sreemurugavel,eb2d1983,0,0,0,0,0,,,,,,0,0,0
+1355840,2022/23,Singapore,1,DA Galia,ae0b5b95,Phoup Srey Pheak,8c73dff5,Vathana Sreemurugavel,eb2d1983,0,0,1,0,0,,,,,,0,1,1
+1355840,2022/23,Singapore,2,DA Galia,ae0b5b95,LY Loch Srey,a994e18f,Vathana Sreemurugavel,eb2d1983,0,0,0,0,0,,,,,,0,0,0
+1355840,2022/23,Singapore,2,DA Galia,ae0b5b95,LY Loch Srey,a994e18f,Vathana Sreemurugavel,eb2d1983,0,0,0,0,0,,,,,,1,0,1
+1355840,2022/23,Singapore,2,Vathana Sreemurugavel,eb2d1983,LY Loch Srey,a994e18f,DA Galia,ae0b5b95,0,0,0,0,0,,,,,,0,0,0
+1355840,2022/23,Singapore,2,Vathana Sreemurugavel,eb2d1983,LY Loch Srey,a994e18f,DA Galia,ae0b5b95,0,0,0,0,0,,,,,,4,0,4
+1355840,2022/23,Singapore,2,Vathana Sreemurugavel,eb2d1983,LY Loch Srey,a994e18f,DA Galia,ae0b5b95,0,0,0,0,0,,,,,,0,0,0
+1355840,2022/23,Singapore,2,Vathana Sreemurugavel,eb2d1983,LY Loch Srey,a994e18f,DA Galia,ae0b5b95,0,0,0,0,0,,,,,,0,0,0
+1355840,2022/23,Singapore,3,DA Galia,ae0b5b95,Sok Srey Maov,c5e3fe3c,Vathana Sreemurugavel,eb2d1983,1,0,0,0,0,,,,,,0,1,1
+1355840,2022/23,Singapore,3,DA Galia,ae0b5b95,Sok Srey Maov,c5e3fe3c,Vathana Sreemurugavel,eb2d1983,1,0,0,0,0,,,,,,0,1,1
+1355840,2022/23,Singapore,3,DA Galia,ae0b5b95,Sok Srey Maov,c5e3fe3c,Vathana Sreemurugavel,eb2d1983,0,0,0,0,0,,,,,,0,0,0
+1355840,2022/23,Singapore,3,DA Galia,ae0b5b95,Sok Srey Maov,c5e3fe3c,Vathana Sreemurugavel,eb2d1983,0,0,0,0,0,,,,,,0,0,0
+1355840,2022/23,Singapore,3,DA Galia,ae0b5b95,Sok Srey Maov,c5e3fe3c,Vathana Sreemurugavel,eb2d1983,0,0,0,0,0,,,,,,0,0,0
+1355840,2022/23,Singapore,3,DA Galia,ae0b5b95,Sok Srey Maov,c5e3fe3c,Vathana Sreemurugavel,eb2d1983,0,0,0,1,0,,,,,,0,1,1
+1355840,2022/23,Singapore,3,Vathana Sreemurugavel,eb2d1983,Sok Srey Maov,c5e3fe3c,DA Galia,ae0b5b95,0,0,0,0,0,,,,,,0,0,0
+1355840,2022/23,Singapore,3,Vathana Sreemurugavel,eb2d1983,Sok Srey Maov,c5e3fe3c,DA Galia,ae0b5b95,0,0,0,0,0,,,,,,0,0,0
+1355840,2022/23,Singapore,4,DA Galia,ae0b5b95,Phoup Srey Pheak,8c73dff5,Vathana Sreemurugavel,eb2d1983,0,0,0,0,0,,,,,,0,0,0
+1355840,2022/23,Singapore,4,DA Galia,ae0b5b95,Phoup Srey Pheak,8c73dff5,Vathana Sreemurugavel,eb2d1983,0,0,0,0,0,,,,,,0,0,0
+1355840,2022/23,Singapore,4,DA Galia,ae0b5b95,Phoup Srey Pheak,8c73dff5,Vathana Sreemurugavel,eb2d1983,0,0,0,0,0,,,,,,0,0,0
+1355840,2022/23,Singapore,4,DA Galia,ae0b5b95,Phoup Srey Pheak,8c73dff5,Vathana Sreemurugavel,eb2d1983,0,0,0,0,0,,,,,,0,0,0
+1355840,2022/23,Singapore,4,DA Galia,ae0b5b95,Phoup Srey Pheak,8c73dff5,Vathana Sreemurugavel,eb2d1983,0,0,0,0,1,DA Galia,ae0b5b95,,,caught and bowled,0,0,0
+1355840,2022/23,Singapore,4,Shafina Mahesh,0c40b02d,Phoup Srey Pheak,8c73dff5,Vathana Sreemurugavel,eb2d1983,0,0,0,0,0,,,,,,0,0,0
+1355840,2022/23,Singapore,5,Vathana Sreemurugavel,eb2d1983,Sok Srey Maov,c5e3fe3c,Shafina Mahesh,0c40b02d,0,0,0,0,0,,,,,,0,0,0
+1355840,2022/23,Singapore,5,Vathana Sreemurugavel,eb2d1983,Sok Srey Maov,c5e3fe3c,Shafina Mahesh,0c40b02d,0,0,0,0,0,,,,,,0,0,0
+1355840,2022/23,Singapore,5,Vathana Sreemurugavel,eb2d1983,Sok Srey Maov,c5e3fe3c,Shafina Mahesh,0c40b02d,0,0,0,0,0,,,,,,0,0,0
+1355840,2022/23,Singapore,5,Vathana Sreemurugavel,eb2d1983,Sok Srey Maov,c5e3fe3c,Shafina Mahesh,0c40b02d,0,0,0,0,0,,,,,,0,0,0
+1355840,2022/23,Singapore,5,Vathana Sreemurugavel,eb2d1983,Sok Srey Maov,c5e3fe3c,Shafina Mahesh,0c40b02d,0,0,0,0,0,,,,,,0,0,0
+1355840,2022/23,Singapore,5,Vathana Sreemurugavel,eb2d1983,Sok Srey Maov,c5e3fe3c,Shafina Mahesh,0c40b02d,0,0,0,0,0,,,,,,0,0,0
+1355840,2022/23,Singapore,6,Shafina Mahesh,0c40b02d,Phoup Srey Pheak,8c73dff5,Vathana Sreemurugavel,eb2d1983,0,0,0,0,0,,,,,,6,0,6

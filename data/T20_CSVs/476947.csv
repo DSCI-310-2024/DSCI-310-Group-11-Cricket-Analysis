@@ -1,0 +1,240 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+476947,2010/11,New Zealand,0,AL Watkins,d395e33c,EA Perry,be150fc8,SJ Tsukigawa,c8f378cc,0,0,0,0,0,,,,,,2,0,2
+476947,2010/11,New Zealand,0,AL Watkins,d395e33c,EA Perry,be150fc8,SJ Tsukigawa,c8f378cc,0,0,0,0,0,,,,,,1,0,1
+476947,2010/11,New Zealand,0,SJ Tsukigawa,c8f378cc,EA Perry,be150fc8,AL Watkins,d395e33c,0,0,0,0,0,,,,,,0,0,0
+476947,2010/11,New Zealand,0,SJ Tsukigawa,c8f378cc,EA Perry,be150fc8,AL Watkins,d395e33c,0,0,0,0,0,,,,,,0,0,0
+476947,2010/11,New Zealand,0,SJ Tsukigawa,c8f378cc,EA Perry,be150fc8,AL Watkins,d395e33c,0,0,0,0,0,,,,,,0,0,0
+476947,2010/11,New Zealand,0,SJ Tsukigawa,c8f378cc,EA Perry,be150fc8,AL Watkins,d395e33c,0,0,0,0,0,,,,,,4,0,4
+476947,2010/11,New Zealand,1,AL Watkins,d395e33c,RM Farrell,4ed7d23f,SJ Tsukigawa,c8f378cc,0,0,0,0,0,,,,,,2,0,2
+476947,2010/11,New Zealand,1,AL Watkins,d395e33c,RM Farrell,4ed7d23f,SJ Tsukigawa,c8f378cc,0,0,0,0,0,,,,,,4,0,4
+476947,2010/11,New Zealand,1,AL Watkins,d395e33c,RM Farrell,4ed7d23f,SJ Tsukigawa,c8f378cc,0,0,0,0,0,,,,,,0,0,0
+476947,2010/11,New Zealand,1,AL Watkins,d395e33c,RM Farrell,4ed7d23f,SJ Tsukigawa,c8f378cc,0,0,0,0,0,,,,,,0,0,0
+476947,2010/11,New Zealand,1,AL Watkins,d395e33c,RM Farrell,4ed7d23f,SJ Tsukigawa,c8f378cc,0,0,0,0,0,,,,,,4,0,4
+476947,2010/11,New Zealand,1,AL Watkins,d395e33c,RM Farrell,4ed7d23f,SJ Tsukigawa,c8f378cc,0,0,0,0,0,,,,,,1,0,1
+476947,2010/11,New Zealand,2,AL Watkins,d395e33c,EA Perry,be150fc8,SJ Tsukigawa,c8f378cc,0,0,0,0,0,,,,,,0,0,0
+476947,2010/11,New Zealand,2,AL Watkins,d395e33c,EA Perry,be150fc8,SJ Tsukigawa,c8f378cc,0,0,0,0,0,,,,,,1,0,1
+476947,2010/11,New Zealand,2,SJ Tsukigawa,c8f378cc,EA Perry,be150fc8,AL Watkins,d395e33c,0,0,0,0,0,,,,,,0,0,0
+476947,2010/11,New Zealand,2,SJ Tsukigawa,c8f378cc,EA Perry,be150fc8,AL Watkins,d395e33c,0,0,0,0,0,,,,,,2,0,2
+476947,2010/11,New Zealand,2,SJ Tsukigawa,c8f378cc,EA Perry,be150fc8,AL Watkins,d395e33c,0,0,0,0,1,SJ Tsukigawa,c8f378cc,S Nitschke,3032933c,caught,0,0,0
+476947,2010/11,New Zealand,2,AL Watkins,d395e33c,EA Perry,be150fc8,SW Bates,89bbc67a,0,0,0,0,0,,,,,,0,0,0
+476947,2010/11,New Zealand,3,SW Bates,89bbc67a,RM Farrell,4ed7d23f,AL Watkins,d395e33c,0,0,0,0,0,,,,,,1,0,1
+476947,2010/11,New Zealand,3,AL Watkins,d395e33c,RM Farrell,4ed7d23f,SW Bates,89bbc67a,0,0,0,0,0,,,,,,0,0,0
+476947,2010/11,New Zealand,3,AL Watkins,d395e33c,RM Farrell,4ed7d23f,SW Bates,89bbc67a,0,0,0,0,0,,,,,,4,0,4
+476947,2010/11,New Zealand,3,AL Watkins,d395e33c,RM Farrell,4ed7d23f,SW Bates,89bbc67a,0,0,0,0,0,,,,,,4,0,4
+476947,2010/11,New Zealand,3,AL Watkins,d395e33c,RM Farrell,4ed7d23f,SW Bates,89bbc67a,0,0,0,0,0,,,,,,0,0,0
+476947,2010/11,New Zealand,3,AL Watkins,d395e33c,RM Farrell,4ed7d23f,SW Bates,89bbc67a,0,0,0,0,0,,,,,,0,0,0
+476947,2010/11,New Zealand,4,SW Bates,89bbc67a,EA Perry,be150fc8,AL Watkins,d395e33c,0,0,0,0,0,,,,,,0,0,0
+476947,2010/11,New Zealand,4,SW Bates,89bbc67a,EA Perry,be150fc8,AL Watkins,d395e33c,0,0,0,0,0,,,,,,1,0,1
+476947,2010/11,New Zealand,4,AL Watkins,d395e33c,EA Perry,be150fc8,SW Bates,89bbc67a,0,0,0,0,0,,,,,,2,0,2
+476947,2010/11,New Zealand,4,AL Watkins,d395e33c,EA Perry,be150fc8,SW Bates,89bbc67a,0,0,0,0,0,,,,,,0,0,0
+476947,2010/11,New Zealand,4,AL Watkins,d395e33c,EA Perry,be150fc8,SW Bates,89bbc67a,0,0,0,0,0,,,,,,0,0,0
+476947,2010/11,New Zealand,4,AL Watkins,d395e33c,EA Perry,be150fc8,SW Bates,89bbc67a,0,0,0,0,0,,,,,,0,0,0
+476947,2010/11,New Zealand,5,SW Bates,89bbc67a,LC Sthalekar,6bb7a785,AL Watkins,d395e33c,0,0,0,0,0,,,,,,0,0,0
+476947,2010/11,New Zealand,5,SW Bates,89bbc67a,LC Sthalekar,6bb7a785,AL Watkins,d395e33c,0,0,0,0,1,SW Bates,89bbc67a,JE Cameron,5ebc3941,run out,0,0,0
+476947,2010/11,New Zealand,5,SJ McGlashan,af71535d,LC Sthalekar,6bb7a785,AL Watkins,d395e33c,0,0,0,0,0,,,,,,4,0,4
+476947,2010/11,New Zealand,5,SJ McGlashan,af71535d,LC Sthalekar,6bb7a785,AL Watkins,d395e33c,0,0,0,0,0,,,,,,1,0,1
+476947,2010/11,New Zealand,5,AL Watkins,d395e33c,LC Sthalekar,6bb7a785,SJ McGlashan,af71535d,0,0,0,0,0,,,,,,0,0,0
+476947,2010/11,New Zealand,5,AL Watkins,d395e33c,LC Sthalekar,6bb7a785,SJ McGlashan,af71535d,0,0,0,0,0,,,,,,4,0,4
+476947,2010/11,New Zealand,6,SJ McGlashan,af71535d,EA Perry,be150fc8,AL Watkins,d395e33c,0,0,0,0,0,,,,,,2,0,2
+476947,2010/11,New Zealand,6,SJ McGlashan,af71535d,EA Perry,be150fc8,AL Watkins,d395e33c,0,0,0,0,0,,,,,,0,0,0
+476947,2010/11,New Zealand,6,SJ McGlashan,af71535d,EA Perry,be150fc8,AL Watkins,d395e33c,0,0,0,0,0,,,,,,2,0,2
+476947,2010/11,New Zealand,6,SJ McGlashan,af71535d,EA Perry,be150fc8,AL Watkins,d395e33c,0,0,0,0,0,,,,,,0,0,0
+476947,2010/11,New Zealand,6,SJ McGlashan,af71535d,EA Perry,be150fc8,AL Watkins,d395e33c,0,0,0,0,0,,,,,,0,0,0
+476947,2010/11,New Zealand,6,SJ McGlashan,af71535d,EA Perry,be150fc8,AL Watkins,d395e33c,0,0,0,0,0,,,,,,1,0,1
+476947,2010/11,New Zealand,7,SJ McGlashan,af71535d,LC Sthalekar,6bb7a785,AL Watkins,d395e33c,0,0,0,0,0,,,,,,1,0,1
+476947,2010/11,New Zealand,7,AL Watkins,d395e33c,LC Sthalekar,6bb7a785,SJ McGlashan,af71535d,0,0,0,0,0,,,,,,0,0,0
+476947,2010/11,New Zealand,7,AL Watkins,d395e33c,LC Sthalekar,6bb7a785,SJ McGlashan,af71535d,0,0,0,0,0,,,,,,0,0,0
+476947,2010/11,New Zealand,7,AL Watkins,d395e33c,LC Sthalekar,6bb7a785,SJ McGlashan,af71535d,0,0,0,0,0,,,,,,2,0,2
+476947,2010/11,New Zealand,7,AL Watkins,d395e33c,LC Sthalekar,6bb7a785,SJ McGlashan,af71535d,0,0,0,0,0,,,,,,4,0,4
+476947,2010/11,New Zealand,7,AL Watkins,d395e33c,LC Sthalekar,6bb7a785,SJ McGlashan,af71535d,0,0,0,0,0,,,,,,0,0,0
+476947,2010/11,New Zealand,8,SJ McGlashan,af71535d,SJ Coyte,a5f488bc,AL Watkins,d395e33c,0,0,0,0,0,,,,,,1,0,1
+476947,2010/11,New Zealand,8,AL Watkins,d395e33c,SJ Coyte,a5f488bc,SJ McGlashan,af71535d,0,0,0,0,0,,,,,,0,0,0
+476947,2010/11,New Zealand,8,AL Watkins,d395e33c,SJ Coyte,a5f488bc,SJ McGlashan,af71535d,0,0,0,0,0,,,,,,0,0,0
+476947,2010/11,New Zealand,8,AL Watkins,d395e33c,SJ Coyte,a5f488bc,SJ McGlashan,af71535d,0,0,0,0,0,,,,,,1,0,1
+476947,2010/11,New Zealand,8,SJ McGlashan,af71535d,SJ Coyte,a5f488bc,AL Watkins,d395e33c,0,0,0,0,0,,,,,,2,0,2
+476947,2010/11,New Zealand,8,SJ McGlashan,af71535d,SJ Coyte,a5f488bc,AL Watkins,d395e33c,0,0,0,0,0,,,,,,0,0,0
+476947,2010/11,New Zealand,9,AL Watkins,d395e33c,S Nitschke,3032933c,SJ McGlashan,af71535d,0,0,0,0,0,,,,,,1,0,1
+476947,2010/11,New Zealand,9,SJ McGlashan,af71535d,S Nitschke,3032933c,AL Watkins,d395e33c,0,0,0,0,0,,,,,,1,0,1
+476947,2010/11,New Zealand,9,AL Watkins,d395e33c,S Nitschke,3032933c,SJ McGlashan,af71535d,0,0,0,0,0,,,,,,0,0,0
+476947,2010/11,New Zealand,9,AL Watkins,d395e33c,S Nitschke,3032933c,SJ McGlashan,af71535d,0,0,0,0,0,,,,,,0,0,0
+476947,2010/11,New Zealand,9,AL Watkins,d395e33c,S Nitschke,3032933c,SJ McGlashan,af71535d,0,0,0,0,0,,,,,,2,0,2
+476947,2010/11,New Zealand,9,AL Watkins,d395e33c,S Nitschke,3032933c,SJ McGlashan,af71535d,0,0,0,0,1,AL Watkins,d395e33c,AJ Healy,321644de,stumped,0,0,0
+476947,2010/11,New Zealand,10,SJ McGlashan,af71535d,SJ Coyte,a5f488bc,EC Perry,0de3060f,0,0,0,0,0,,,,,,1,0,1
+476947,2010/11,New Zealand,10,EC Perry,0de3060f,SJ Coyte,a5f488bc,SJ McGlashan,af71535d,0,0,0,0,0,,,,,,1,0,1
+476947,2010/11,New Zealand,10,SJ McGlashan,af71535d,SJ Coyte,a5f488bc,EC Perry,0de3060f,0,0,0,0,0,,,,,,4,0,4
+476947,2010/11,New Zealand,10,SJ McGlashan,af71535d,SJ Coyte,a5f488bc,EC Perry,0de3060f,0,0,0,0,0,,,,,,1,0,1
+476947,2010/11,New Zealand,10,EC Perry,0de3060f,SJ Coyte,a5f488bc,SJ McGlashan,af71535d,0,0,0,0,1,EC Perry,0de3060f,,,bowled,0,0,0
+476947,2010/11,New Zealand,10,NJ Browne,a6aac76b,SJ Coyte,a5f488bc,SJ McGlashan,af71535d,0,0,0,0,1,NJ Browne,a6aac76b,,,lbw,0,0,0
+476947,2010/11,New Zealand,11,SJ McGlashan,af71535d,S Nitschke,3032933c,AE Satterthwaite,72b7ed1e,0,0,0,0,0,,,,,,1,0,1
+476947,2010/11,New Zealand,11,AE Satterthwaite,72b7ed1e,S Nitschke,3032933c,SJ McGlashan,af71535d,0,0,0,0,0,,,,,,1,0,1
+476947,2010/11,New Zealand,11,SJ McGlashan,af71535d,S Nitschke,3032933c,AE Satterthwaite,72b7ed1e,0,0,0,0,0,,,,,,2,0,2
+476947,2010/11,New Zealand,11,SJ McGlashan,af71535d,S Nitschke,3032933c,AE Satterthwaite,72b7ed1e,0,0,0,0,0,,,,,,0,0,0
+476947,2010/11,New Zealand,11,SJ McGlashan,af71535d,S Nitschke,3032933c,AE Satterthwaite,72b7ed1e,0,0,0,0,0,,,,,,1,0,1
+476947,2010/11,New Zealand,11,AE Satterthwaite,72b7ed1e,S Nitschke,3032933c,SJ McGlashan,af71535d,0,0,0,0,0,,,,,,1,0,1
+476947,2010/11,New Zealand,12,AE Satterthwaite,72b7ed1e,SJ Coyte,a5f488bc,SJ McGlashan,af71535d,0,0,0,0,0,,,,,,1,0,1
+476947,2010/11,New Zealand,12,SJ McGlashan,af71535d,SJ Coyte,a5f488bc,AE Satterthwaite,72b7ed1e,0,0,0,0,0,,,,,,0,0,0
+476947,2010/11,New Zealand,12,SJ McGlashan,af71535d,SJ Coyte,a5f488bc,AE Satterthwaite,72b7ed1e,0,0,0,0,0,,,,,,1,0,1
+476947,2010/11,New Zealand,12,AE Satterthwaite,72b7ed1e,SJ Coyte,a5f488bc,SJ McGlashan,af71535d,0,0,0,0,0,,,,,,0,0,0
+476947,2010/11,New Zealand,12,AE Satterthwaite,72b7ed1e,SJ Coyte,a5f488bc,SJ McGlashan,af71535d,0,0,0,0,0,,,,,,0,0,0
+476947,2010/11,New Zealand,12,AE Satterthwaite,72b7ed1e,SJ Coyte,a5f488bc,SJ McGlashan,af71535d,0,0,0,0,0,,,,,,0,0,0
+476947,2010/11,New Zealand,13,SJ McGlashan,af71535d,S Nitschke,3032933c,AE Satterthwaite,72b7ed1e,0,0,0,0,0,,,,,,1,0,1
+476947,2010/11,New Zealand,13,AE Satterthwaite,72b7ed1e,S Nitschke,3032933c,SJ McGlashan,af71535d,0,0,0,0,0,,,,,,4,0,4
+476947,2010/11,New Zealand,13,AE Satterthwaite,72b7ed1e,S Nitschke,3032933c,SJ McGlashan,af71535d,0,0,0,0,1,AE Satterthwaite,72b7ed1e,,,lbw,0,0,0
+476947,2010/11,New Zealand,13,LR Doolan,4ab6d138,S Nitschke,3032933c,SJ McGlashan,af71535d,0,0,0,0,0,,,,,,0,0,0
+476947,2010/11,New Zealand,13,LR Doolan,4ab6d138,S Nitschke,3032933c,SJ McGlashan,af71535d,0,0,0,0,0,,,,,,1,0,1
+476947,2010/11,New Zealand,13,SJ McGlashan,af71535d,S Nitschke,3032933c,LR Doolan,4ab6d138,0,0,0,0,0,,,,,,0,0,0
+476947,2010/11,New Zealand,14,LR Doolan,4ab6d138,SJ Coyte,a5f488bc,SJ McGlashan,af71535d,0,0,0,0,0,,,,,,0,0,0
+476947,2010/11,New Zealand,14,LR Doolan,4ab6d138,SJ Coyte,a5f488bc,SJ McGlashan,af71535d,0,0,0,0,0,,,,,,0,0,0
+476947,2010/11,New Zealand,14,LR Doolan,4ab6d138,SJ Coyte,a5f488bc,SJ McGlashan,af71535d,0,0,0,0,0,,,,,,1,0,1
+476947,2010/11,New Zealand,14,SJ McGlashan,af71535d,SJ Coyte,a5f488bc,LR Doolan,4ab6d138,0,0,0,0,0,,,,,,4,0,4
+476947,2010/11,New Zealand,14,SJ McGlashan,af71535d,SJ Coyte,a5f488bc,LR Doolan,4ab6d138,0,0,0,0,0,,,,,,0,0,0
+476947,2010/11,New Zealand,14,SJ McGlashan,af71535d,SJ Coyte,a5f488bc,LR Doolan,4ab6d138,0,0,0,0,0,,,,,,0,0,0
+476947,2010/11,New Zealand,15,LR Doolan,4ab6d138,S Nitschke,3032933c,SJ McGlashan,af71535d,0,0,0,0,0,,,,,,0,0,0
+476947,2010/11,New Zealand,15,LR Doolan,4ab6d138,S Nitschke,3032933c,SJ McGlashan,af71535d,0,0,0,0,0,,,,,,1,0,1
+476947,2010/11,New Zealand,15,SJ McGlashan,af71535d,S Nitschke,3032933c,LR Doolan,4ab6d138,0,0,0,0,0,,,,,,1,0,1
+476947,2010/11,New Zealand,15,LR Doolan,4ab6d138,S Nitschke,3032933c,SJ McGlashan,af71535d,0,0,0,0,0,,,,,,1,0,1
+476947,2010/11,New Zealand,15,SJ McGlashan,af71535d,S Nitschke,3032933c,LR Doolan,4ab6d138,0,0,0,0,0,,,,,,1,0,1
+476947,2010/11,New Zealand,15,LR Doolan,4ab6d138,S Nitschke,3032933c,SJ McGlashan,af71535d,0,0,0,0,0,,,,,,0,0,0
+476947,2010/11,New Zealand,16,SJ McGlashan,af71535d,EA Osborne,fe731c62,LR Doolan,4ab6d138,0,0,0,0,0,,,,,,4,0,4
+476947,2010/11,New Zealand,16,SJ McGlashan,af71535d,EA Osborne,fe731c62,LR Doolan,4ab6d138,0,0,0,0,0,,,,,,0,0,0
+476947,2010/11,New Zealand,16,SJ McGlashan,af71535d,EA Osborne,fe731c62,LR Doolan,4ab6d138,0,0,0,0,0,,,,,,4,0,4
+476947,2010/11,New Zealand,16,SJ McGlashan,af71535d,EA Osborne,fe731c62,LR Doolan,4ab6d138,0,0,0,0,0,,,,,,1,0,1
+476947,2010/11,New Zealand,16,LR Doolan,4ab6d138,EA Osborne,fe731c62,SJ McGlashan,af71535d,0,0,0,0,0,,,,,,1,0,1
+476947,2010/11,New Zealand,16,SJ McGlashan,af71535d,EA Osborne,fe731c62,LR Doolan,4ab6d138,0,0,0,0,0,,,,,,2,0,2
+476947,2010/11,New Zealand,17,LR Doolan,4ab6d138,LC Sthalekar,6bb7a785,SJ McGlashan,af71535d,0,0,0,0,0,,,,,,1,0,1
+476947,2010/11,New Zealand,17,SJ McGlashan,af71535d,LC Sthalekar,6bb7a785,LR Doolan,4ab6d138,0,0,0,0,0,,,,,,1,0,1
+476947,2010/11,New Zealand,17,LR Doolan,4ab6d138,LC Sthalekar,6bb7a785,SJ McGlashan,af71535d,0,0,0,0,0,,,,,,2,0,2
+476947,2010/11,New Zealand,17,LR Doolan,4ab6d138,LC Sthalekar,6bb7a785,SJ McGlashan,af71535d,0,0,0,0,0,,,,,,0,0,0
+476947,2010/11,New Zealand,17,LR Doolan,4ab6d138,LC Sthalekar,6bb7a785,SJ McGlashan,af71535d,0,0,0,0,0,,,,,,2,0,2
+476947,2010/11,New Zealand,17,LR Doolan,4ab6d138,LC Sthalekar,6bb7a785,SJ McGlashan,af71535d,0,0,0,0,0,,,,,,0,0,0
+476947,2010/11,New Zealand,18,SJ McGlashan,af71535d,EA Osborne,fe731c62,LR Doolan,4ab6d138,0,0,0,0,0,,,,,,2,0,2
+476947,2010/11,New Zealand,18,SJ McGlashan,af71535d,EA Osborne,fe731c62,LR Doolan,4ab6d138,0,0,0,0,0,,,,,,1,0,1
+476947,2010/11,New Zealand,18,LR Doolan,4ab6d138,EA Osborne,fe731c62,SJ McGlashan,af71535d,0,0,0,0,0,,,,,,1,0,1
+476947,2010/11,New Zealand,18,SJ McGlashan,af71535d,EA Osborne,fe731c62,LR Doolan,4ab6d138,0,0,0,0,1,SJ McGlashan,af71535d,MM Lanning,27e003ce,caught,0,0,0
+476947,2010/11,New Zealand,18,EM Bermingham,180240d4,EA Osborne,fe731c62,LR Doolan,4ab6d138,0,0,0,0,0,,,,,,1,0,1
+476947,2010/11,New Zealand,18,LR Doolan,4ab6d138,EA Osborne,fe731c62,EM Bermingham,180240d4,0,0,0,0,0,,,,,,1,0,1
+476947,2010/11,New Zealand,19,LR Doolan,4ab6d138,LC Sthalekar,6bb7a785,EM Bermingham,180240d4,0,0,0,0,0,,,,,,1,0,1
+476947,2010/11,New Zealand,19,EM Bermingham,180240d4,LC Sthalekar,6bb7a785,LR Doolan,4ab6d138,0,0,0,0,1,EM Bermingham,180240d4,SJ Coyte,a5f488bc,run out,1,0,1
+476947,2010/11,New Zealand,19,KJ Martin,cf75a839,LC Sthalekar,6bb7a785,LR Doolan,4ab6d138,0,0,0,0,0,,,,,,1,0,1
+476947,2010/11,New Zealand,19,LR Doolan,4ab6d138,LC Sthalekar,6bb7a785,KJ Martin,cf75a839,0,0,0,0,0,,,,,,1,0,1
+476947,2010/11,New Zealand,19,KJ Martin,cf75a839,LC Sthalekar,6bb7a785,LR Doolan,4ab6d138,0,0,0,0,0,,,,,,1,0,1
+476947,2010/11,New Zealand,19,LR Doolan,4ab6d138,LC Sthalekar,6bb7a785,KJ Martin,cf75a839,0,0,0,0,1,LR Doolan,4ab6d138,AJ Healy,321644de,run out,1,0,1
+476947,2010/11,Australia,0,S Nitschke,3032933c,SEA Ruck,8879d882,MM Lanning,27e003ce,0,0,0,0,0,,,,,,0,0,0
+476947,2010/11,Australia,0,S Nitschke,3032933c,SEA Ruck,8879d882,MM Lanning,27e003ce,0,0,0,0,0,,,,,,2,0,2
+476947,2010/11,Australia,0,S Nitschke,3032933c,SEA Ruck,8879d882,MM Lanning,27e003ce,0,0,0,0,0,,,,,,3,0,3
+476947,2010/11,Australia,0,MM Lanning,27e003ce,SEA Ruck,8879d882,S Nitschke,3032933c,0,0,0,0,0,,,,,,0,0,0
+476947,2010/11,Australia,0,MM Lanning,27e003ce,SEA Ruck,8879d882,S Nitschke,3032933c,0,0,0,0,0,,,,,,1,0,1
+476947,2010/11,Australia,0,S Nitschke,3032933c,SEA Ruck,8879d882,MM Lanning,27e003ce,0,0,0,0,0,,,,,,0,0,0
+476947,2010/11,Australia,1,MM Lanning,27e003ce,EM Bermingham,180240d4,S Nitschke,3032933c,0,0,0,0,0,,,,,,6,0,6
+476947,2010/11,Australia,1,MM Lanning,27e003ce,EM Bermingham,180240d4,S Nitschke,3032933c,0,0,0,0,0,,,,,,1,0,1
+476947,2010/11,Australia,1,S Nitschke,3032933c,EM Bermingham,180240d4,MM Lanning,27e003ce,0,0,0,0,0,,,,,,1,0,1
+476947,2010/11,Australia,1,MM Lanning,27e003ce,EM Bermingham,180240d4,S Nitschke,3032933c,0,0,0,0,0,,,,,,0,0,0
+476947,2010/11,Australia,1,MM Lanning,27e003ce,EM Bermingham,180240d4,S Nitschke,3032933c,0,0,0,0,0,,,,,,1,0,1
+476947,2010/11,Australia,1,S Nitschke,3032933c,EM Bermingham,180240d4,MM Lanning,27e003ce,0,0,0,0,0,,,,,,0,0,0
+476947,2010/11,Australia,2,MM Lanning,27e003ce,SEA Ruck,8879d882,S Nitschke,3032933c,0,0,0,0,0,,,,,,1,0,1
+476947,2010/11,Australia,2,S Nitschke,3032933c,SEA Ruck,8879d882,MM Lanning,27e003ce,0,0,0,0,0,,,,,,2,0,2
+476947,2010/11,Australia,2,S Nitschke,3032933c,SEA Ruck,8879d882,MM Lanning,27e003ce,0,0,0,0,0,,,,,,1,0,1
+476947,2010/11,Australia,2,MM Lanning,27e003ce,SEA Ruck,8879d882,S Nitschke,3032933c,0,0,0,0,1,MM Lanning,27e003ce,KJ Martin,cf75a839,caught,0,0,0
+476947,2010/11,Australia,2,LJ Poulton,4f4f283c,SEA Ruck,8879d882,S Nitschke,3032933c,0,0,0,0,0,,,,,,4,0,4
+476947,2010/11,Australia,2,LJ Poulton,4f4f283c,SEA Ruck,8879d882,S Nitschke,3032933c,0,0,0,0,0,,,,,,1,0,1
+476947,2010/11,Australia,3,LJ Poulton,4f4f283c,EM Bermingham,180240d4,S Nitschke,3032933c,0,0,0,0,0,,,,,,0,0,0
+476947,2010/11,Australia,3,LJ Poulton,4f4f283c,EM Bermingham,180240d4,S Nitschke,3032933c,0,0,0,0,0,,,,,,0,0,0
+476947,2010/11,Australia,3,LJ Poulton,4f4f283c,EM Bermingham,180240d4,S Nitschke,3032933c,0,0,0,0,0,,,,,,0,0,0
+476947,2010/11,Australia,3,LJ Poulton,4f4f283c,EM Bermingham,180240d4,S Nitschke,3032933c,0,0,0,0,0,,,,,,1,0,1
+476947,2010/11,Australia,3,S Nitschke,3032933c,EM Bermingham,180240d4,LJ Poulton,4f4f283c,0,0,0,0,0,,,,,,1,0,1
+476947,2010/11,Australia,3,LJ Poulton,4f4f283c,EM Bermingham,180240d4,S Nitschke,3032933c,0,0,0,0,0,,,,,,0,0,0
+476947,2010/11,Australia,4,S Nitschke,3032933c,SEA Ruck,8879d882,LJ Poulton,4f4f283c,0,0,0,0,0,,,,,,4,0,4
+476947,2010/11,Australia,4,S Nitschke,3032933c,SEA Ruck,8879d882,LJ Poulton,4f4f283c,0,0,0,0,0,,,,,,0,0,0
+476947,2010/11,Australia,4,S Nitschke,3032933c,SEA Ruck,8879d882,LJ Poulton,4f4f283c,0,0,1,0,0,,,,,,0,1,1
+476947,2010/11,Australia,4,LJ Poulton,4f4f283c,SEA Ruck,8879d882,S Nitschke,3032933c,0,0,0,0,0,,,,,,4,0,4
+476947,2010/11,Australia,4,LJ Poulton,4f4f283c,SEA Ruck,8879d882,S Nitschke,3032933c,0,0,0,0,0,,,,,,0,0,0
+476947,2010/11,Australia,4,LJ Poulton,4f4f283c,SEA Ruck,8879d882,S Nitschke,3032933c,0,0,0,0,0,,,,,,0,0,0
+476947,2010/11,Australia,5,S Nitschke,3032933c,EM Bermingham,180240d4,LJ Poulton,4f4f283c,0,0,0,0,0,,,,,,2,0,2
+476947,2010/11,Australia,5,S Nitschke,3032933c,EM Bermingham,180240d4,LJ Poulton,4f4f283c,0,0,0,0,0,,,,,,1,0,1
+476947,2010/11,Australia,5,LJ Poulton,4f4f283c,EM Bermingham,180240d4,S Nitschke,3032933c,0,0,0,0,0,,,,,,0,0,0
+476947,2010/11,Australia,5,LJ Poulton,4f4f283c,EM Bermingham,180240d4,S Nitschke,3032933c,0,0,0,0,1,S Nitschke,3032933c,AL Watkins,d395e33c,run out,0,0,0
+476947,2010/11,Australia,5,AJ Blackwell,b9164a9b,EM Bermingham,180240d4,LJ Poulton,4f4f283c,1,0,0,0,0,,,,,,0,1,1
+476947,2010/11,Australia,5,AJ Blackwell,b9164a9b,EM Bermingham,180240d4,LJ Poulton,4f4f283c,0,0,0,0,0,,,,,,0,0,0
+476947,2010/11,Australia,5,AJ Blackwell,b9164a9b,EM Bermingham,180240d4,LJ Poulton,4f4f283c,0,0,0,0,0,,,,,,0,0,0
+476947,2010/11,Australia,6,LJ Poulton,4f4f283c,SEA Ruck,8879d882,AJ Blackwell,b9164a9b,0,0,0,0,0,,,,,,1,0,1
+476947,2010/11,Australia,6,AJ Blackwell,b9164a9b,SEA Ruck,8879d882,LJ Poulton,4f4f283c,0,0,0,0,0,,,,,,1,0,1
+476947,2010/11,Australia,6,LJ Poulton,4f4f283c,SEA Ruck,8879d882,AJ Blackwell,b9164a9b,0,0,0,0,0,,,,,,1,0,1
+476947,2010/11,Australia,6,AJ Blackwell,b9164a9b,SEA Ruck,8879d882,LJ Poulton,4f4f283c,0,0,0,0,0,,,,,,1,0,1
+476947,2010/11,Australia,6,LJ Poulton,4f4f283c,SEA Ruck,8879d882,AJ Blackwell,b9164a9b,0,0,0,0,0,,,,,,0,0,0
+476947,2010/11,Australia,6,LJ Poulton,4f4f283c,SEA Ruck,8879d882,AJ Blackwell,b9164a9b,0,0,0,0,1,LJ Poulton,4f4f283c,EC Perry,0de3060f,caught,0,0,0
+476947,2010/11,Australia,7,LC Sthalekar,6bb7a785,EM Bermingham,180240d4,AJ Blackwell,b9164a9b,0,0,0,0,1,LC Sthalekar,6bb7a785,,,lbw,0,0,0
+476947,2010/11,Australia,7,JE Cameron,5ebc3941,EM Bermingham,180240d4,AJ Blackwell,b9164a9b,0,0,0,0,0,,,,,,0,0,0
+476947,2010/11,Australia,7,JE Cameron,5ebc3941,EM Bermingham,180240d4,AJ Blackwell,b9164a9b,0,0,0,0,0,,,,,,0,0,0
+476947,2010/11,Australia,7,JE Cameron,5ebc3941,EM Bermingham,180240d4,AJ Blackwell,b9164a9b,0,0,0,0,0,,,,,,0,0,0
+476947,2010/11,Australia,7,JE Cameron,5ebc3941,EM Bermingham,180240d4,AJ Blackwell,b9164a9b,0,0,0,0,0,,,,,,0,0,0
+476947,2010/11,Australia,7,JE Cameron,5ebc3941,EM Bermingham,180240d4,AJ Blackwell,b9164a9b,0,0,0,0,0,,,,,,1,0,1
+476947,2010/11,Australia,8,JE Cameron,5ebc3941,LR Doolan,4ab6d138,AJ Blackwell,b9164a9b,0,0,0,0,0,,,,,,0,0,0
+476947,2010/11,Australia,8,JE Cameron,5ebc3941,LR Doolan,4ab6d138,AJ Blackwell,b9164a9b,0,0,0,0,0,,,,,,0,0,0
+476947,2010/11,Australia,8,JE Cameron,5ebc3941,LR Doolan,4ab6d138,AJ Blackwell,b9164a9b,0,0,0,0,0,,,,,,0,0,0
+476947,2010/11,Australia,8,JE Cameron,5ebc3941,LR Doolan,4ab6d138,AJ Blackwell,b9164a9b,0,0,0,0,0,,,,,,1,0,1
+476947,2010/11,Australia,8,AJ Blackwell,b9164a9b,LR Doolan,4ab6d138,JE Cameron,5ebc3941,0,0,0,0,0,,,,,,1,0,1
+476947,2010/11,Australia,8,JE Cameron,5ebc3941,LR Doolan,4ab6d138,AJ Blackwell,b9164a9b,0,0,0,0,0,,,,,,1,0,1
+476947,2010/11,Australia,9,JE Cameron,5ebc3941,NJ Browne,a6aac76b,AJ Blackwell,b9164a9b,0,0,0,0,0,,,,,,1,0,1
+476947,2010/11,Australia,9,AJ Blackwell,b9164a9b,NJ Browne,a6aac76b,JE Cameron,5ebc3941,0,0,0,0,0,,,,,,0,0,0
+476947,2010/11,Australia,9,AJ Blackwell,b9164a9b,NJ Browne,a6aac76b,JE Cameron,5ebc3941,0,0,0,0,0,,,,,,1,0,1
+476947,2010/11,Australia,9,JE Cameron,5ebc3941,NJ Browne,a6aac76b,AJ Blackwell,b9164a9b,0,0,0,0,0,,,,,,1,0,1
+476947,2010/11,Australia,9,AJ Blackwell,b9164a9b,NJ Browne,a6aac76b,JE Cameron,5ebc3941,0,0,0,0,0,,,,,,0,0,0
+476947,2010/11,Australia,9,AJ Blackwell,b9164a9b,NJ Browne,a6aac76b,JE Cameron,5ebc3941,0,0,1,0,0,,,,,,0,1,1
+476947,2010/11,Australia,10,AJ Blackwell,b9164a9b,LR Doolan,4ab6d138,JE Cameron,5ebc3941,0,0,0,0,0,,,,,,0,0,0
+476947,2010/11,Australia,10,AJ Blackwell,b9164a9b,LR Doolan,4ab6d138,JE Cameron,5ebc3941,0,0,0,0,0,,,,,,1,0,1
+476947,2010/11,Australia,10,JE Cameron,5ebc3941,LR Doolan,4ab6d138,AJ Blackwell,b9164a9b,0,0,0,0,0,,,,,,1,0,1
+476947,2010/11,Australia,10,AJ Blackwell,b9164a9b,LR Doolan,4ab6d138,JE Cameron,5ebc3941,0,0,0,0,0,,,,,,1,0,1
+476947,2010/11,Australia,10,JE Cameron,5ebc3941,LR Doolan,4ab6d138,AJ Blackwell,b9164a9b,0,0,0,0,0,,,,,,1,0,1
+476947,2010/11,Australia,10,AJ Blackwell,b9164a9b,LR Doolan,4ab6d138,JE Cameron,5ebc3941,0,0,0,0,0,,,,,,1,0,1
+476947,2010/11,Australia,11,AJ Blackwell,b9164a9b,NJ Browne,a6aac76b,JE Cameron,5ebc3941,0,0,0,0,0,,,,,,0,0,0
+476947,2010/11,Australia,11,AJ Blackwell,b9164a9b,NJ Browne,a6aac76b,JE Cameron,5ebc3941,0,0,0,0,0,,,,,,1,0,1
+476947,2010/11,Australia,11,JE Cameron,5ebc3941,NJ Browne,a6aac76b,AJ Blackwell,b9164a9b,0,0,1,0,0,,,,,,0,1,1
+476947,2010/11,Australia,11,AJ Blackwell,b9164a9b,NJ Browne,a6aac76b,JE Cameron,5ebc3941,0,0,0,0,0,,,,,,1,0,1
+476947,2010/11,Australia,11,JE Cameron,5ebc3941,NJ Browne,a6aac76b,AJ Blackwell,b9164a9b,0,0,0,0,0,,,,,,1,0,1
+476947,2010/11,Australia,11,AJ Blackwell,b9164a9b,NJ Browne,a6aac76b,JE Cameron,5ebc3941,0,0,0,0,0,,,,,,1,0,1
+476947,2010/11,Australia,12,AJ Blackwell,b9164a9b,LR Doolan,4ab6d138,JE Cameron,5ebc3941,0,0,0,0,0,,,,,,4,0,4
+476947,2010/11,Australia,12,AJ Blackwell,b9164a9b,LR Doolan,4ab6d138,JE Cameron,5ebc3941,0,0,0,0,0,,,,,,1,0,1
+476947,2010/11,Australia,12,JE Cameron,5ebc3941,LR Doolan,4ab6d138,AJ Blackwell,b9164a9b,0,0,0,0,0,,,,,,0,0,0
+476947,2010/11,Australia,12,JE Cameron,5ebc3941,LR Doolan,4ab6d138,AJ Blackwell,b9164a9b,0,0,0,0,0,,,,,,4,0,4
+476947,2010/11,Australia,12,JE Cameron,5ebc3941,LR Doolan,4ab6d138,AJ Blackwell,b9164a9b,0,0,0,0,0,,,,,,2,0,2
+476947,2010/11,Australia,12,JE Cameron,5ebc3941,LR Doolan,4ab6d138,AJ Blackwell,b9164a9b,0,0,0,0,0,,,,,,4,0,4
+476947,2010/11,Australia,13,AJ Blackwell,b9164a9b,NJ Browne,a6aac76b,JE Cameron,5ebc3941,0,0,0,0,1,AJ Blackwell,b9164a9b,,,lbw,0,0,0
+476947,2010/11,Australia,13,AJ Healy,321644de,NJ Browne,a6aac76b,JE Cameron,5ebc3941,0,0,0,0,0,,,,,,1,0,1
+476947,2010/11,Australia,13,JE Cameron,5ebc3941,NJ Browne,a6aac76b,AJ Healy,321644de,0,0,0,0,0,,,,,,2,0,2
+476947,2010/11,Australia,13,JE Cameron,5ebc3941,NJ Browne,a6aac76b,AJ Healy,321644de,0,0,0,0,1,JE Cameron,5ebc3941,,,bowled,0,0,0
+476947,2010/11,Australia,13,SJ Coyte,a5f488bc,NJ Browne,a6aac76b,AJ Healy,321644de,0,0,1,0,0,,,,,,0,1,1
+476947,2010/11,Australia,13,AJ Healy,321644de,NJ Browne,a6aac76b,SJ Coyte,a5f488bc,0,0,0,0,0,,,,,,2,0,2
+476947,2010/11,Australia,14,SJ Coyte,a5f488bc,SW Bates,89bbc67a,AJ Healy,321644de,0,0,0,0,0,,,,,,2,0,2
+476947,2010/11,Australia,14,SJ Coyte,a5f488bc,SW Bates,89bbc67a,AJ Healy,321644de,0,0,0,0,0,,,,,,0,0,0
+476947,2010/11,Australia,14,SJ Coyte,a5f488bc,SW Bates,89bbc67a,AJ Healy,321644de,0,0,1,0,0,,,,,,0,1,1
+476947,2010/11,Australia,14,AJ Healy,321644de,SW Bates,89bbc67a,SJ Coyte,a5f488bc,0,0,0,0,0,,,,,,0,0,0
+476947,2010/11,Australia,14,AJ Healy,321644de,SW Bates,89bbc67a,SJ Coyte,a5f488bc,0,0,0,0,0,,,,,,1,0,1
+476947,2010/11,Australia,14,SJ Coyte,a5f488bc,SW Bates,89bbc67a,AJ Healy,321644de,0,0,0,0,0,,,,,,1,0,1
+476947,2010/11,Australia,15,SJ Coyte,a5f488bc,NJ Browne,a6aac76b,AJ Healy,321644de,0,0,0,0,0,,,,,,1,0,1
+476947,2010/11,Australia,15,AJ Healy,321644de,NJ Browne,a6aac76b,SJ Coyte,a5f488bc,0,0,0,0,0,,,,,,2,0,2
+476947,2010/11,Australia,15,AJ Healy,321644de,NJ Browne,a6aac76b,SJ Coyte,a5f488bc,0,0,0,0,0,,,,,,4,0,4
+476947,2010/11,Australia,15,AJ Healy,321644de,NJ Browne,a6aac76b,SJ Coyte,a5f488bc,0,0,0,0,0,,,,,,1,0,1
+476947,2010/11,Australia,15,SJ Coyte,a5f488bc,NJ Browne,a6aac76b,AJ Healy,321644de,0,0,1,0,0,,,,,,0,1,1
+476947,2010/11,Australia,15,AJ Healy,321644de,NJ Browne,a6aac76b,SJ Coyte,a5f488bc,0,0,0,0,0,,,,,,1,0,1
+476947,2010/11,Australia,16,AJ Healy,321644de,SW Bates,89bbc67a,SJ Coyte,a5f488bc,0,0,0,0,0,,,,,,1,0,1
+476947,2010/11,Australia,16,SJ Coyte,a5f488bc,SW Bates,89bbc67a,AJ Healy,321644de,0,0,0,0,0,,,,,,1,0,1
+476947,2010/11,Australia,16,AJ Healy,321644de,SW Bates,89bbc67a,SJ Coyte,a5f488bc,0,0,0,0,0,,,,,,1,0,1
+476947,2010/11,Australia,16,SJ Coyte,a5f488bc,SW Bates,89bbc67a,AJ Healy,321644de,0,0,0,0,0,,,,,,2,0,2
+476947,2010/11,Australia,16,SJ Coyte,a5f488bc,SW Bates,89bbc67a,AJ Healy,321644de,0,0,0,0,0,,,,,,0,0,0
+476947,2010/11,Australia,16,SJ Coyte,a5f488bc,SW Bates,89bbc67a,AJ Healy,321644de,0,0,0,0,0,,,,,,0,0,0
+476947,2010/11,Australia,17,AJ Healy,321644de,AE Satterthwaite,72b7ed1e,SJ Coyte,a5f488bc,0,0,0,0,0,,,,,,3,0,3
+476947,2010/11,Australia,17,SJ Coyte,a5f488bc,AE Satterthwaite,72b7ed1e,AJ Healy,321644de,0,0,0,0,0,,,,,,2,0,2
+476947,2010/11,Australia,17,SJ Coyte,a5f488bc,AE Satterthwaite,72b7ed1e,AJ Healy,321644de,0,0,0,0,0,,,,,,1,0,1
+476947,2010/11,Australia,17,AJ Healy,321644de,AE Satterthwaite,72b7ed1e,SJ Coyte,a5f488bc,0,0,0,0,0,,,,,,1,0,1
+476947,2010/11,Australia,17,SJ Coyte,a5f488bc,AE Satterthwaite,72b7ed1e,AJ Healy,321644de,0,0,0,0,0,,,,,,1,0,1
+476947,2010/11,Australia,17,AJ Healy,321644de,AE Satterthwaite,72b7ed1e,SJ Coyte,a5f488bc,0,0,0,0,0,,,,,,1,0,1
+476947,2010/11,Australia,18,AJ Healy,321644de,SW Bates,89bbc67a,SJ Coyte,a5f488bc,0,0,0,0,0,,,,,,0,0,0
+476947,2010/11,Australia,18,AJ Healy,321644de,SW Bates,89bbc67a,SJ Coyte,a5f488bc,0,0,0,0,0,,,,,,1,0,1
+476947,2010/11,Australia,18,SJ Coyte,a5f488bc,SW Bates,89bbc67a,AJ Healy,321644de,0,0,0,0,0,,,,,,2,0,2
+476947,2010/11,Australia,18,SJ Coyte,a5f488bc,SW Bates,89bbc67a,AJ Healy,321644de,0,0,0,0,0,,,,,,1,0,1
+476947,2010/11,Australia,18,AJ Healy,321644de,SW Bates,89bbc67a,SJ Coyte,a5f488bc,0,0,0,0,0,,,,,,1,0,1
+476947,2010/11,Australia,18,SJ Coyte,a5f488bc,SW Bates,89bbc67a,AJ Healy,321644de,0,0,0,0,0,,,,,,0,0,0
+476947,2010/11,Australia,19,AJ Healy,321644de,AE Satterthwaite,72b7ed1e,SJ Coyte,a5f488bc,0,0,0,0,0,,,,,,2,0,2
+476947,2010/11,Australia,19,AJ Healy,321644de,AE Satterthwaite,72b7ed1e,SJ Coyte,a5f488bc,0,0,0,0,0,,,,,,4,0,4
+476947,2010/11,Australia,19,AJ Healy,321644de,AE Satterthwaite,72b7ed1e,SJ Coyte,a5f488bc,0,0,0,0,0,,,,,,0,0,0
+476947,2010/11,Australia,19,AJ Healy,321644de,AE Satterthwaite,72b7ed1e,SJ Coyte,a5f488bc,0,0,0,0,0,,,,,,1,0,1

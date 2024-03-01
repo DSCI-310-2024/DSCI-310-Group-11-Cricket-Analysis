@@ -1,0 +1,241 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1182905,2019,Japan,0,Erika Oda,4c8a1197,NMP Suwandewi,52b57a65,A Kitayama,34c205b1,0,0,0,0,0,,,,,,0,0,0
+1182905,2019,Japan,0,Erika Oda,4c8a1197,NMP Suwandewi,52b57a65,A Kitayama,34c205b1,0,0,0,0,0,,,,,,0,0,0
+1182905,2019,Japan,0,Erika Oda,4c8a1197,NMP Suwandewi,52b57a65,A Kitayama,34c205b1,0,0,0,0,0,,,,,,1,0,1
+1182905,2019,Japan,0,A Kitayama,34c205b1,NMP Suwandewi,52b57a65,Erika Oda,4c8a1197,0,0,0,0,0,,,,,,2,0,2
+1182905,2019,Japan,0,A Kitayama,34c205b1,NMP Suwandewi,52b57a65,Erika Oda,4c8a1197,0,0,0,0,0,,,,,,0,0,0
+1182905,2019,Japan,0,A Kitayama,34c205b1,NMP Suwandewi,52b57a65,Erika Oda,4c8a1197,0,0,0,0,0,,,,,,1,0,1
+1182905,2019,Japan,1,A Kitayama,34c205b1,N Sitompul,016f6267,Erika Oda,4c8a1197,0,0,0,0,0,,,,,,0,0,0
+1182905,2019,Japan,1,A Kitayama,34c205b1,N Sitompul,016f6267,Erika Oda,4c8a1197,1,0,0,0,0,,,,,,0,1,1
+1182905,2019,Japan,1,A Kitayama,34c205b1,N Sitompul,016f6267,Erika Oda,4c8a1197,0,0,0,0,1,A Kitayama,34c205b1,,,bowled,0,0,0
+1182905,2019,Japan,1,R Endo,9235396c,N Sitompul,016f6267,Erika Oda,4c8a1197,0,0,0,0,0,,,,,,0,0,0
+1182905,2019,Japan,1,R Endo,9235396c,N Sitompul,016f6267,Erika Oda,4c8a1197,0,0,0,0,0,,,,,,0,0,0
+1182905,2019,Japan,1,R Endo,9235396c,N Sitompul,016f6267,Erika Oda,4c8a1197,0,0,0,0,0,,,,,,0,0,0
+1182905,2019,Japan,1,R Endo,9235396c,N Sitompul,016f6267,Erika Oda,4c8a1197,0,0,0,0,0,,,,,,0,0,0
+1182905,2019,Japan,2,Erika Oda,4c8a1197,NMP Suwandewi,52b57a65,R Endo,9235396c,0,0,0,0,0,,,,,,0,0,0
+1182905,2019,Japan,2,Erika Oda,4c8a1197,NMP Suwandewi,52b57a65,R Endo,9235396c,0,0,1,0,0,,,,,,0,1,1
+1182905,2019,Japan,2,R Endo,9235396c,NMP Suwandewi,52b57a65,Erika Oda,4c8a1197,0,0,0,0,0,,,,,,1,0,1
+1182905,2019,Japan,2,Erika Oda,4c8a1197,NMP Suwandewi,52b57a65,R Endo,9235396c,0,0,0,0,0,,,,,,0,0,0
+1182905,2019,Japan,2,Erika Oda,4c8a1197,NMP Suwandewi,52b57a65,R Endo,9235396c,0,0,0,0,0,,,,,,0,0,0
+1182905,2019,Japan,2,Erika Oda,4c8a1197,NMP Suwandewi,52b57a65,R Endo,9235396c,0,0,0,0,0,,,,,,0,0,0
+1182905,2019,Japan,3,R Endo,9235396c,N Sitompul,016f6267,Erika Oda,4c8a1197,0,0,0,0,0,,,,,,0,0,0
+1182905,2019,Japan,3,R Endo,9235396c,N Sitompul,016f6267,Erika Oda,4c8a1197,0,0,0,0,0,,,,,,1,0,1
+1182905,2019,Japan,3,Erika Oda,4c8a1197,N Sitompul,016f6267,R Endo,9235396c,0,0,0,0,0,,,,,,1,0,1
+1182905,2019,Japan,3,R Endo,9235396c,N Sitompul,016f6267,Erika Oda,4c8a1197,0,0,0,0,0,,,,,,4,0,4
+1182905,2019,Japan,3,R Endo,9235396c,N Sitompul,016f6267,Erika Oda,4c8a1197,0,0,0,0,0,,,,,,0,0,0
+1182905,2019,Japan,3,R Endo,9235396c,N Sitompul,016f6267,Erika Oda,4c8a1197,0,0,0,0,1,R Endo,9235396c,NPAN Sakarini,72b5decf,caught,0,0,0
+1182905,2019,Japan,4,Erika Oda,4c8a1197,NMP Suwandewi,52b57a65,Eri Iko,657dbd65,0,0,0,0,0,,,,,,1,0,1
+1182905,2019,Japan,4,Eri Iko,657dbd65,NMP Suwandewi,52b57a65,Erika Oda,4c8a1197,0,0,0,0,0,,,,,,0,0,0
+1182905,2019,Japan,4,Eri Iko,657dbd65,NMP Suwandewi,52b57a65,Erika Oda,4c8a1197,0,0,0,0,0,,,,,,0,0,0
+1182905,2019,Japan,4,Eri Iko,657dbd65,NMP Suwandewi,52b57a65,Erika Oda,4c8a1197,0,0,0,0,0,,,,,,0,0,0
+1182905,2019,Japan,4,Eri Iko,657dbd65,NMP Suwandewi,52b57a65,Erika Oda,4c8a1197,0,0,0,0,0,,,,,,0,0,0
+1182905,2019,Japan,4,Eri Iko,657dbd65,NMP Suwandewi,52b57a65,Erika Oda,4c8a1197,0,0,0,0,0,,,,,,0,0,0
+1182905,2019,Japan,5,Erika Oda,4c8a1197,N Sitompul,016f6267,Eri Iko,657dbd65,0,0,0,0,0,,,,,,1,0,1
+1182905,2019,Japan,5,Eri Iko,657dbd65,N Sitompul,016f6267,Erika Oda,4c8a1197,0,0,0,0,0,,,,,,0,0,0
+1182905,2019,Japan,5,Eri Iko,657dbd65,N Sitompul,016f6267,Erika Oda,4c8a1197,0,0,0,0,0,,,,,,1,0,1
+1182905,2019,Japan,5,Erika Oda,4c8a1197,N Sitompul,016f6267,Eri Iko,657dbd65,0,0,0,0,0,,,,,,0,0,0
+1182905,2019,Japan,5,Erika Oda,4c8a1197,N Sitompul,016f6267,Eri Iko,657dbd65,0,0,0,0,0,,,,,,1,0,1
+1182905,2019,Japan,5,Eri Iko,657dbd65,N Sitompul,016f6267,Erika Oda,4c8a1197,1,0,0,0,0,,,,,,0,1,1
+1182905,2019,Japan,5,Eri Iko,657dbd65,N Sitompul,016f6267,Erika Oda,4c8a1197,1,0,0,0,0,,,,,,0,1,1
+1182905,2019,Japan,5,Eri Iko,657dbd65,N Sitompul,016f6267,Erika Oda,4c8a1197,0,0,1,0,0,,,,,,0,1,1
+1182905,2019,Japan,6,Eri Iko,657dbd65,T Hanum,7d668c73,Erika Oda,4c8a1197,0,0,0,0,0,,,,,,0,0,0
+1182905,2019,Japan,6,Eri Iko,657dbd65,T Hanum,7d668c73,Erika Oda,4c8a1197,0,0,0,0,0,,,,,,0,0,0
+1182905,2019,Japan,6,Eri Iko,657dbd65,T Hanum,7d668c73,Erika Oda,4c8a1197,0,0,0,0,1,Eri Iko,657dbd65,,,run out,0,0,0
+1182905,2019,Japan,6,Erika Oda,4c8a1197,T Hanum,7d668c73,M Yanagida,f20e7e23,0,0,0,0,0,,,,,,0,0,0
+1182905,2019,Japan,6,Erika Oda,4c8a1197,T Hanum,7d668c73,M Yanagida,f20e7e23,0,0,0,0,0,,,,,,1,0,1
+1182905,2019,Japan,6,M Yanagida,f20e7e23,T Hanum,7d668c73,Erika Oda,4c8a1197,0,0,0,0,0,,,,,,0,0,0
+1182905,2019,Japan,7,Erika Oda,4c8a1197,NKF Rada Rani,39f4084c,M Yanagida,f20e7e23,0,0,0,0,0,,,,,,1,0,1
+1182905,2019,Japan,7,M Yanagida,f20e7e23,NKF Rada Rani,39f4084c,Erika Oda,4c8a1197,0,0,0,0,0,,,,,,0,0,0
+1182905,2019,Japan,7,M Yanagida,f20e7e23,NKF Rada Rani,39f4084c,Erika Oda,4c8a1197,0,0,0,0,0,,,,,,1,0,1
+1182905,2019,Japan,7,Erika Oda,4c8a1197,NKF Rada Rani,39f4084c,M Yanagida,f20e7e23,0,0,0,0,0,,,,,,1,0,1
+1182905,2019,Japan,7,M Yanagida,f20e7e23,NKF Rada Rani,39f4084c,Erika Oda,4c8a1197,0,0,0,0,0,,,,,,1,0,1
+1182905,2019,Japan,7,Erika Oda,4c8a1197,NKF Rada Rani,39f4084c,M Yanagida,f20e7e23,0,1,0,0,0,,,,,,1,1,2
+1182905,2019,Japan,7,M Yanagida,f20e7e23,NKF Rada Rani,39f4084c,Erika Oda,4c8a1197,0,0,0,0,0,,,,,,2,0,2
+1182905,2019,Japan,8,Erika Oda,4c8a1197,T Hanum,7d668c73,M Yanagida,f20e7e23,0,0,0,0,0,,,,,,1,0,1
+1182905,2019,Japan,8,M Yanagida,f20e7e23,T Hanum,7d668c73,Erika Oda,4c8a1197,0,0,0,0,0,,,,,,4,0,4
+1182905,2019,Japan,8,M Yanagida,f20e7e23,T Hanum,7d668c73,Erika Oda,4c8a1197,0,0,0,0,0,,,,,,0,0,0
+1182905,2019,Japan,8,M Yanagida,f20e7e23,T Hanum,7d668c73,Erika Oda,4c8a1197,1,0,0,0,1,M Yanagida,f20e7e23,NPAN Sakarini,72b5decf,stumped,0,1,1
+1182905,2019,Japan,8,M Kanno,97fc39fd,T Hanum,7d668c73,Erika Oda,4c8a1197,0,0,0,0,0,,,,,,0,0,0
+1182905,2019,Japan,8,M Kanno,97fc39fd,T Hanum,7d668c73,Erika Oda,4c8a1197,0,0,0,0,0,,,,,,0,0,0
+1182905,2019,Japan,8,M Kanno,97fc39fd,T Hanum,7d668c73,Erika Oda,4c8a1197,0,0,0,0,0,,,,,,1,0,1
+1182905,2019,Japan,9,M Kanno,97fc39fd,NKF Rada Rani,39f4084c,Erika Oda,4c8a1197,1,0,0,0,0,,,,,,0,1,1
+1182905,2019,Japan,9,M Kanno,97fc39fd,NKF Rada Rani,39f4084c,Erika Oda,4c8a1197,0,0,0,0,0,,,,,,1,0,1
+1182905,2019,Japan,9,Erika Oda,4c8a1197,NKF Rada Rani,39f4084c,M Kanno,97fc39fd,0,0,0,0,0,,,,,,1,0,1
+1182905,2019,Japan,9,M Kanno,97fc39fd,NKF Rada Rani,39f4084c,Erika Oda,4c8a1197,0,0,0,0,0,,,,,,1,0,1
+1182905,2019,Japan,9,Erika Oda,4c8a1197,NKF Rada Rani,39f4084c,M Kanno,97fc39fd,0,0,0,0,0,,,,,,1,0,1
+1182905,2019,Japan,9,M Kanno,97fc39fd,NKF Rada Rani,39f4084c,Erika Oda,4c8a1197,0,0,0,0,0,,,,,,0,0,0
+1182905,2019,Japan,9,M Kanno,97fc39fd,NKF Rada Rani,39f4084c,Erika Oda,4c8a1197,0,0,0,0,0,,,,,,4,0,4
+1182905,2019,Japan,10,Erika Oda,4c8a1197,K Winda Prastini,bd6f7c24,M Kanno,97fc39fd,0,0,0,0,0,,,,,,2,0,2
+1182905,2019,Japan,10,Erika Oda,4c8a1197,K Winda Prastini,bd6f7c24,M Kanno,97fc39fd,0,0,0,0,0,,,,,,1,0,1
+1182905,2019,Japan,10,M Kanno,97fc39fd,K Winda Prastini,bd6f7c24,Erika Oda,4c8a1197,0,0,0,0,0,,,,,,4,0,4
+1182905,2019,Japan,10,M Kanno,97fc39fd,K Winda Prastini,bd6f7c24,Erika Oda,4c8a1197,0,0,0,0,0,,,,,,1,0,1
+1182905,2019,Japan,10,Erika Oda,4c8a1197,K Winda Prastini,bd6f7c24,M Kanno,97fc39fd,0,0,0,0,0,,,,,,1,0,1
+1182905,2019,Japan,10,M Kanno,97fc39fd,K Winda Prastini,bd6f7c24,Erika Oda,4c8a1197,0,0,0,0,0,,,,,,0,0,0
+1182905,2019,Japan,11,Erika Oda,4c8a1197,T Hanum,7d668c73,M Kanno,97fc39fd,0,0,0,0,0,,,,,,1,0,1
+1182905,2019,Japan,11,M Kanno,97fc39fd,T Hanum,7d668c73,Erika Oda,4c8a1197,0,0,0,0,1,M Kanno,97fc39fd,,,bowled,0,0,0
+1182905,2019,Japan,11,M Shiraishi,79b4af2d,T Hanum,7d668c73,Erika Oda,4c8a1197,0,0,0,0,0,,,,,,0,0,0
+1182905,2019,Japan,11,M Shiraishi,79b4af2d,T Hanum,7d668c73,Erika Oda,4c8a1197,0,0,0,0,0,,,,,,1,0,1
+1182905,2019,Japan,11,Erika Oda,4c8a1197,T Hanum,7d668c73,M Shiraishi,79b4af2d,1,0,0,0,0,,,,,,0,1,1
+1182905,2019,Japan,11,Erika Oda,4c8a1197,T Hanum,7d668c73,M Shiraishi,79b4af2d,0,0,0,0,0,,,,,,0,0,0
+1182905,2019,Japan,11,Erika Oda,4c8a1197,T Hanum,7d668c73,M Shiraishi,79b4af2d,0,0,0,0,0,,,,,,2,0,2
+1182905,2019,Japan,12,M Shiraishi,79b4af2d,NKF Rada Rani,39f4084c,Erika Oda,4c8a1197,0,0,0,0,0,,,,,,0,0,0
+1182905,2019,Japan,12,M Shiraishi,79b4af2d,NKF Rada Rani,39f4084c,Erika Oda,4c8a1197,0,0,0,0,0,,,,,,2,0,2
+1182905,2019,Japan,12,M Shiraishi,79b4af2d,NKF Rada Rani,39f4084c,Erika Oda,4c8a1197,0,0,0,0,0,,,,,,0,0,0
+1182905,2019,Japan,12,M Shiraishi,79b4af2d,NKF Rada Rani,39f4084c,Erika Oda,4c8a1197,0,0,1,0,0,,,,,,0,1,1
+1182905,2019,Japan,12,Erika Oda,4c8a1197,NKF Rada Rani,39f4084c,M Shiraishi,79b4af2d,0,0,0,0,0,,,,,,1,0,1
+1182905,2019,Japan,12,M Shiraishi,79b4af2d,NKF Rada Rani,39f4084c,Erika Oda,4c8a1197,0,0,0,0,0,,,,,,0,0,0
+1182905,2019,Japan,13,Erika Oda,4c8a1197,K Winda Prastini,bd6f7c24,M Shiraishi,79b4af2d,0,0,0,0,0,,,,,,0,0,0
+1182905,2019,Japan,13,Erika Oda,4c8a1197,K Winda Prastini,bd6f7c24,M Shiraishi,79b4af2d,0,0,0,0,0,,,,,,1,0,1
+1182905,2019,Japan,13,M Shiraishi,79b4af2d,K Winda Prastini,bd6f7c24,Erika Oda,4c8a1197,0,0,0,0,0,,,,,,1,0,1
+1182905,2019,Japan,13,Erika Oda,4c8a1197,K Winda Prastini,bd6f7c24,M Shiraishi,79b4af2d,0,0,0,0,0,,,,,,1,0,1
+1182905,2019,Japan,13,M Shiraishi,79b4af2d,K Winda Prastini,bd6f7c24,Erika Oda,4c8a1197,0,0,0,0,1,M Shiraishi,79b4af2d,P Haryanti,af0aac77,caught,0,0,0
+1182905,2019,Japan,13,S Miyaji,3aca2ed5,K Winda Prastini,bd6f7c24,Erika Oda,4c8a1197,1,0,0,0,0,,,,,,0,1,1
+1182905,2019,Japan,13,S Miyaji,3aca2ed5,K Winda Prastini,bd6f7c24,Erika Oda,4c8a1197,0,0,0,0,0,,,,,,1,0,1
+1182905,2019,Japan,14,S Miyaji,3aca2ed5,NMP Suwandewi,52b57a65,Erika Oda,4c8a1197,0,0,0,0,0,,,,,,0,0,0
+1182905,2019,Japan,14,S Miyaji,3aca2ed5,NMP Suwandewi,52b57a65,Erika Oda,4c8a1197,0,0,0,0,0,,,,,,1,0,1
+1182905,2019,Japan,14,Erika Oda,4c8a1197,NMP Suwandewi,52b57a65,S Miyaji,3aca2ed5,0,0,0,0,0,,,,,,1,0,1
+1182905,2019,Japan,14,S Miyaji,3aca2ed5,NMP Suwandewi,52b57a65,Erika Oda,4c8a1197,0,0,0,0,0,,,,,,1,0,1
+1182905,2019,Japan,14,Erika Oda,4c8a1197,NMP Suwandewi,52b57a65,S Miyaji,3aca2ed5,0,0,0,0,0,,,,,,1,0,1
+1182905,2019,Japan,14,S Miyaji,3aca2ed5,NMP Suwandewi,52b57a65,Erika Oda,4c8a1197,0,0,0,0,0,,,,,,0,0,0
+1182905,2019,Japan,15,Erika Oda,4c8a1197,K Winda Prastini,bd6f7c24,S Miyaji,3aca2ed5,0,0,0,0,0,,,,,,0,0,0
+1182905,2019,Japan,15,Erika Oda,4c8a1197,K Winda Prastini,bd6f7c24,S Miyaji,3aca2ed5,0,0,0,0,0,,,,,,1,0,1
+1182905,2019,Japan,15,S Miyaji,3aca2ed5,K Winda Prastini,bd6f7c24,Erika Oda,4c8a1197,0,0,0,1,0,,,,,,0,1,1
+1182905,2019,Japan,15,Erika Oda,4c8a1197,K Winda Prastini,bd6f7c24,S Miyaji,3aca2ed5,0,0,0,0,0,,,,,,1,0,1
+1182905,2019,Japan,15,S Miyaji,3aca2ed5,K Winda Prastini,bd6f7c24,Erika Oda,4c8a1197,0,0,0,0,0,,,,,,1,0,1
+1182905,2019,Japan,15,Erika Oda,4c8a1197,K Winda Prastini,bd6f7c24,S Miyaji,3aca2ed5,0,0,0,0,0,,,,,,0,0,0
+1182905,2019,Japan,16,S Miyaji,3aca2ed5,T Hanum,7d668c73,Erika Oda,4c8a1197,0,0,0,0,0,,,,,,1,0,1
+1182905,2019,Japan,16,Erika Oda,4c8a1197,T Hanum,7d668c73,S Miyaji,3aca2ed5,0,0,0,0,0,,,,,,0,0,0
+1182905,2019,Japan,16,Erika Oda,4c8a1197,T Hanum,7d668c73,S Miyaji,3aca2ed5,0,0,0,0,0,,,,,,1,0,1
+1182905,2019,Japan,16,S Miyaji,3aca2ed5,T Hanum,7d668c73,Erika Oda,4c8a1197,0,0,0,0,0,,,,,,1,0,1
+1182905,2019,Japan,16,Erika Oda,4c8a1197,T Hanum,7d668c73,S Miyaji,3aca2ed5,0,0,0,0,0,,,,,,1,0,1
+1182905,2019,Japan,16,S Miyaji,3aca2ed5,T Hanum,7d668c73,Erika Oda,4c8a1197,0,0,0,0,0,,,,,,1,0,1
+1182905,2019,Japan,17,S Miyaji,3aca2ed5,K Winda Prastini,bd6f7c24,Erika Oda,4c8a1197,0,0,0,0,0,,,,,,1,0,1
+1182905,2019,Japan,17,Erika Oda,4c8a1197,K Winda Prastini,bd6f7c24,S Miyaji,3aca2ed5,0,0,0,0,0,,,,,,1,0,1
+1182905,2019,Japan,17,S Miyaji,3aca2ed5,K Winda Prastini,bd6f7c24,Erika Oda,4c8a1197,0,0,0,0,0,,,,,,0,0,0
+1182905,2019,Japan,17,S Miyaji,3aca2ed5,K Winda Prastini,bd6f7c24,Erika Oda,4c8a1197,0,0,0,0,0,,,,,,1,0,1
+1182905,2019,Japan,17,Erika Oda,4c8a1197,K Winda Prastini,bd6f7c24,S Miyaji,3aca2ed5,0,0,0,0,0,,,,,,1,0,1
+1182905,2019,Japan,17,S Miyaji,3aca2ed5,K Winda Prastini,bd6f7c24,Erika Oda,4c8a1197,0,0,0,0,0,,,,,,2,0,2
+1182905,2019,Japan,18,Erika Oda,4c8a1197,NKF Rada Rani,39f4084c,S Miyaji,3aca2ed5,0,0,0,0,0,,,,,,2,0,2
+1182905,2019,Japan,18,Erika Oda,4c8a1197,NKF Rada Rani,39f4084c,S Miyaji,3aca2ed5,0,0,0,0,0,,,,,,0,0,0
+1182905,2019,Japan,18,Erika Oda,4c8a1197,NKF Rada Rani,39f4084c,S Miyaji,3aca2ed5,0,0,0,0,0,,,,,,1,0,1
+1182905,2019,Japan,18,S Miyaji,3aca2ed5,NKF Rada Rani,39f4084c,Erika Oda,4c8a1197,0,0,0,0,0,,,,,,1,0,1
+1182905,2019,Japan,18,Erika Oda,4c8a1197,NKF Rada Rani,39f4084c,S Miyaji,3aca2ed5,0,0,0,0,0,,,,,,1,0,1
+1182905,2019,Japan,18,S Miyaji,3aca2ed5,NKF Rada Rani,39f4084c,Erika Oda,4c8a1197,0,0,0,0,0,,,,,,1,0,1
+1182905,2019,Japan,19,S Miyaji,3aca2ed5,N Sitompul,016f6267,Erika Oda,4c8a1197,0,0,0,0,0,,,,,,1,0,1
+1182905,2019,Japan,19,Erika Oda,4c8a1197,N Sitompul,016f6267,S Miyaji,3aca2ed5,0,0,0,0,0,,,,,,1,0,1
+1182905,2019,Japan,19,S Miyaji,3aca2ed5,N Sitompul,016f6267,Erika Oda,4c8a1197,0,0,1,0,0,,,,,,0,1,1
+1182905,2019,Japan,19,Erika Oda,4c8a1197,N Sitompul,016f6267,S Miyaji,3aca2ed5,0,0,0,0,0,,,,,,1,0,1
+1182905,2019,Japan,19,S Miyaji,3aca2ed5,N Sitompul,016f6267,Erika Oda,4c8a1197,0,0,0,0,0,,,,,,0,0,0
+1182905,2019,Japan,19,S Miyaji,3aca2ed5,N Sitompul,016f6267,Erika Oda,4c8a1197,0,0,0,0,0,,,,,,4,0,4
+1182905,2019,Indonesia,0,Y Anggraeni,acf8da70,N Tokizawa,0e818f80,K Winda Prastini,bd6f7c24,0,0,0,0,0,,,,,,0,0,0
+1182905,2019,Indonesia,0,Y Anggraeni,acf8da70,N Tokizawa,0e818f80,K Winda Prastini,bd6f7c24,0,0,0,0,0,,,,,,4,0,4
+1182905,2019,Indonesia,0,Y Anggraeni,acf8da70,N Tokizawa,0e818f80,K Winda Prastini,bd6f7c24,0,0,0,0,0,,,,,,0,0,0
+1182905,2019,Indonesia,0,Y Anggraeni,acf8da70,N Tokizawa,0e818f80,K Winda Prastini,bd6f7c24,0,0,0,0,0,,,,,,0,0,0
+1182905,2019,Indonesia,0,Y Anggraeni,acf8da70,N Tokizawa,0e818f80,K Winda Prastini,bd6f7c24,0,0,0,0,0,,,,,,0,0,0
+1182905,2019,Indonesia,0,Y Anggraeni,acf8da70,N Tokizawa,0e818f80,K Winda Prastini,bd6f7c24,1,0,0,0,0,,,,,,0,1,1
+1182905,2019,Indonesia,0,Y Anggraeni,acf8da70,N Tokizawa,0e818f80,K Winda Prastini,bd6f7c24,0,0,0,0,0,,,,,,1,0,1
+1182905,2019,Indonesia,1,Y Anggraeni,acf8da70,M Kanno,97fc39fd,K Winda Prastini,bd6f7c24,0,0,0,0,0,,,,,,0,0,0
+1182905,2019,Indonesia,1,Y Anggraeni,acf8da70,M Kanno,97fc39fd,K Winda Prastini,bd6f7c24,1,0,0,0,0,,,,,,0,1,1
+1182905,2019,Indonesia,1,Y Anggraeni,acf8da70,M Kanno,97fc39fd,K Winda Prastini,bd6f7c24,0,0,0,0,0,,,,,,1,0,1
+1182905,2019,Indonesia,1,K Winda Prastini,bd6f7c24,M Kanno,97fc39fd,Y Anggraeni,acf8da70,0,0,0,0,0,,,,,,0,0,0
+1182905,2019,Indonesia,1,K Winda Prastini,bd6f7c24,M Kanno,97fc39fd,Y Anggraeni,acf8da70,0,0,0,0,0,,,,,,0,0,0
+1182905,2019,Indonesia,1,K Winda Prastini,bd6f7c24,M Kanno,97fc39fd,Y Anggraeni,acf8da70,0,0,0,0,0,,,,,,0,0,0
+1182905,2019,Indonesia,1,K Winda Prastini,bd6f7c24,M Kanno,97fc39fd,Y Anggraeni,acf8da70,0,1,0,0,0,,,,,,1,1,2
+1182905,2019,Indonesia,1,Y Anggraeni,acf8da70,M Kanno,97fc39fd,K Winda Prastini,bd6f7c24,0,0,0,0,0,,,,,,1,0,1
+1182905,2019,Indonesia,2,Y Anggraeni,acf8da70,N Tokizawa,0e818f80,K Winda Prastini,bd6f7c24,0,0,0,0,0,,,,,,4,0,4
+1182905,2019,Indonesia,2,Y Anggraeni,acf8da70,N Tokizawa,0e818f80,K Winda Prastini,bd6f7c24,0,0,0,0,0,,,,,,2,0,2
+1182905,2019,Indonesia,2,Y Anggraeni,acf8da70,N Tokizawa,0e818f80,K Winda Prastini,bd6f7c24,0,0,0,0,0,,,,,,2,0,2
+1182905,2019,Indonesia,2,Y Anggraeni,acf8da70,N Tokizawa,0e818f80,K Winda Prastini,bd6f7c24,0,0,0,0,0,,,,,,1,0,1
+1182905,2019,Indonesia,2,K Winda Prastini,bd6f7c24,N Tokizawa,0e818f80,Y Anggraeni,acf8da70,0,0,0,0,0,,,,,,1,0,1
+1182905,2019,Indonesia,2,Y Anggraeni,acf8da70,N Tokizawa,0e818f80,K Winda Prastini,bd6f7c24,0,0,0,0,0,,,,,,1,0,1
+1182905,2019,Indonesia,3,Y Anggraeni,acf8da70,M Kanno,97fc39fd,K Winda Prastini,bd6f7c24,0,0,0,0,0,,,,,,1,0,1
+1182905,2019,Indonesia,3,K Winda Prastini,bd6f7c24,M Kanno,97fc39fd,Y Anggraeni,acf8da70,0,0,0,1,0,,,,,,0,1,1
+1182905,2019,Indonesia,3,Y Anggraeni,acf8da70,M Kanno,97fc39fd,K Winda Prastini,bd6f7c24,0,0,0,0,0,,,,,,4,0,4
+1182905,2019,Indonesia,3,Y Anggraeni,acf8da70,M Kanno,97fc39fd,K Winda Prastini,bd6f7c24,0,0,0,0,0,,,,,,1,0,1
+1182905,2019,Indonesia,3,K Winda Prastini,bd6f7c24,M Kanno,97fc39fd,Y Anggraeni,acf8da70,0,0,0,0,0,,,,,,1,0,1
+1182905,2019,Indonesia,3,Y Anggraeni,acf8da70,M Kanno,97fc39fd,K Winda Prastini,bd6f7c24,0,0,0,0,0,,,,,,1,0,1
+1182905,2019,Indonesia,4,Y Anggraeni,acf8da70,S Miyaji,3aca2ed5,K Winda Prastini,bd6f7c24,0,0,0,0,0,,,,,,4,0,4
+1182905,2019,Indonesia,4,Y Anggraeni,acf8da70,S Miyaji,3aca2ed5,K Winda Prastini,bd6f7c24,0,0,0,0,0,,,,,,0,0,0
+1182905,2019,Indonesia,4,Y Anggraeni,acf8da70,S Miyaji,3aca2ed5,K Winda Prastini,bd6f7c24,0,0,0,0,0,,,,,,0,0,0
+1182905,2019,Indonesia,4,Y Anggraeni,acf8da70,S Miyaji,3aca2ed5,K Winda Prastini,bd6f7c24,0,0,0,0,0,,,,,,0,0,0
+1182905,2019,Indonesia,4,Y Anggraeni,acf8da70,S Miyaji,3aca2ed5,K Winda Prastini,bd6f7c24,0,0,0,0,0,,,,,,1,0,1
+1182905,2019,Indonesia,4,K Winda Prastini,bd6f7c24,S Miyaji,3aca2ed5,Y Anggraeni,acf8da70,0,0,0,0,0,,,,,,1,0,1
+1182905,2019,Indonesia,5,K Winda Prastini,bd6f7c24,M Yanagida,f20e7e23,Y Anggraeni,acf8da70,0,0,0,0,0,,,,,,4,0,4
+1182905,2019,Indonesia,5,K Winda Prastini,bd6f7c24,M Yanagida,f20e7e23,Y Anggraeni,acf8da70,0,0,0,0,0,,,,,,1,0,1
+1182905,2019,Indonesia,5,Y Anggraeni,acf8da70,M Yanagida,f20e7e23,K Winda Prastini,bd6f7c24,0,0,0,0,0,,,,,,0,0,0
+1182905,2019,Indonesia,5,Y Anggraeni,acf8da70,M Yanagida,f20e7e23,K Winda Prastini,bd6f7c24,0,0,0,0,0,,,,,,4,0,4
+1182905,2019,Indonesia,5,Y Anggraeni,acf8da70,M Yanagida,f20e7e23,K Winda Prastini,bd6f7c24,0,0,0,0,0,,,,,,1,0,1
+1182905,2019,Indonesia,5,K Winda Prastini,bd6f7c24,M Yanagida,f20e7e23,Y Anggraeni,acf8da70,0,0,0,0,0,,,,,,1,0,1
+1182905,2019,Indonesia,6,K Winda Prastini,bd6f7c24,S Miyaji,3aca2ed5,Y Anggraeni,acf8da70,0,0,0,0,0,,,,,,0,0,0
+1182905,2019,Indonesia,6,K Winda Prastini,bd6f7c24,S Miyaji,3aca2ed5,Y Anggraeni,acf8da70,0,0,0,0,0,,,,,,0,0,0
+1182905,2019,Indonesia,6,K Winda Prastini,bd6f7c24,S Miyaji,3aca2ed5,Y Anggraeni,acf8da70,0,0,0,0,0,,,,,,1,0,1
+1182905,2019,Indonesia,6,Y Anggraeni,acf8da70,S Miyaji,3aca2ed5,K Winda Prastini,bd6f7c24,0,0,0,0,0,,,,,,4,0,4
+1182905,2019,Indonesia,6,Y Anggraeni,acf8da70,S Miyaji,3aca2ed5,K Winda Prastini,bd6f7c24,0,0,0,0,0,,,,,,0,0,0
+1182905,2019,Indonesia,6,Y Anggraeni,acf8da70,S Miyaji,3aca2ed5,K Winda Prastini,bd6f7c24,0,0,0,0,0,,,,,,0,0,0
+1182905,2019,Indonesia,7,K Winda Prastini,bd6f7c24,M Yanagida,f20e7e23,Y Anggraeni,acf8da70,0,0,0,0,0,,,,,,0,0,0
+1182905,2019,Indonesia,7,K Winda Prastini,bd6f7c24,M Yanagida,f20e7e23,Y Anggraeni,acf8da70,0,0,0,0,0,,,,,,0,0,0
+1182905,2019,Indonesia,7,K Winda Prastini,bd6f7c24,M Yanagida,f20e7e23,Y Anggraeni,acf8da70,0,0,0,0,0,,,,,,1,0,1
+1182905,2019,Indonesia,7,Y Anggraeni,acf8da70,M Yanagida,f20e7e23,K Winda Prastini,bd6f7c24,0,0,0,0,0,,,,,,0,0,0
+1182905,2019,Indonesia,7,Y Anggraeni,acf8da70,M Yanagida,f20e7e23,K Winda Prastini,bd6f7c24,0,0,0,0,0,,,,,,0,0,0
+1182905,2019,Indonesia,7,Y Anggraeni,acf8da70,M Yanagida,f20e7e23,K Winda Prastini,bd6f7c24,0,0,0,0,0,,,,,,1,0,1
+1182905,2019,Indonesia,8,Y Anggraeni,acf8da70,R Endo,9235396c,K Winda Prastini,bd6f7c24,0,0,0,0,0,,,,,,0,0,0
+1182905,2019,Indonesia,8,Y Anggraeni,acf8da70,R Endo,9235396c,K Winda Prastini,bd6f7c24,1,0,0,0,0,,,,,,0,1,1
+1182905,2019,Indonesia,8,Y Anggraeni,acf8da70,R Endo,9235396c,K Winda Prastini,bd6f7c24,0,0,0,0,0,,,,,,1,0,1
+1182905,2019,Indonesia,8,K Winda Prastini,bd6f7c24,R Endo,9235396c,Y Anggraeni,acf8da70,0,0,0,0,0,,,,,,1,0,1
+1182905,2019,Indonesia,8,Y Anggraeni,acf8da70,R Endo,9235396c,K Winda Prastini,bd6f7c24,0,0,0,0,1,Y Anggraeni,acf8da70,A Kano,e92841c0,stumped,0,0,0
+1182905,2019,Indonesia,8,T Wigradianti,a9496add,R Endo,9235396c,K Winda Prastini,bd6f7c24,0,0,0,0,0,,,,,,0,0,0
+1182905,2019,Indonesia,8,T Wigradianti,a9496add,R Endo,9235396c,K Winda Prastini,bd6f7c24,0,0,0,0,0,,,,,,0,0,0
+1182905,2019,Indonesia,9,K Winda Prastini,bd6f7c24,K Nanno,09c30c43,T Wigradianti,a9496add,0,0,0,0,0,,,,,,0,0,0
+1182905,2019,Indonesia,9,K Winda Prastini,bd6f7c24,K Nanno,09c30c43,T Wigradianti,a9496add,0,0,0,0,0,,,,,,0,0,0
+1182905,2019,Indonesia,9,K Winda Prastini,bd6f7c24,K Nanno,09c30c43,T Wigradianti,a9496add,0,0,0,0,0,,,,,,2,0,2
+1182905,2019,Indonesia,9,K Winda Prastini,bd6f7c24,K Nanno,09c30c43,T Wigradianti,a9496add,0,0,0,0,0,,,,,,0,0,0
+1182905,2019,Indonesia,9,K Winda Prastini,bd6f7c24,K Nanno,09c30c43,T Wigradianti,a9496add,0,0,0,0,0,,,,,,1,0,1
+1182905,2019,Indonesia,9,T Wigradianti,a9496add,K Nanno,09c30c43,K Winda Prastini,bd6f7c24,1,0,0,0,0,,,,,,0,1,1
+1182905,2019,Indonesia,9,T Wigradianti,a9496add,K Nanno,09c30c43,K Winda Prastini,bd6f7c24,0,0,0,0,0,,,,,,0,0,0
+1182905,2019,Indonesia,10,K Winda Prastini,bd6f7c24,R Endo,9235396c,T Wigradianti,a9496add,0,0,0,0,0,,,,,,1,0,1
+1182905,2019,Indonesia,10,T Wigradianti,a9496add,R Endo,9235396c,K Winda Prastini,bd6f7c24,0,1,0,0,0,,,,,,0,1,1
+1182905,2019,Indonesia,10,T Wigradianti,a9496add,R Endo,9235396c,K Winda Prastini,bd6f7c24,0,0,0,0,0,,,,,,4,0,4
+1182905,2019,Indonesia,10,T Wigradianti,a9496add,R Endo,9235396c,K Winda Prastini,bd6f7c24,0,0,0,0,1,T Wigradianti,a9496add,,,bowled,0,0,0
+1182905,2019,Indonesia,10,NPAN Sakarini,72b5decf,R Endo,9235396c,K Winda Prastini,bd6f7c24,0,0,0,0,0,,,,,,1,0,1
+1182905,2019,Indonesia,10,K Winda Prastini,bd6f7c24,R Endo,9235396c,NPAN Sakarini,72b5decf,0,0,0,0,0,,,,,,1,0,1
+1182905,2019,Indonesia,10,NPAN Sakarini,72b5decf,R Endo,9235396c,K Winda Prastini,bd6f7c24,0,0,0,0,0,,,,,,1,0,1
+1182905,2019,Indonesia,11,NPAN Sakarini,72b5decf,K Nanno,09c30c43,K Winda Prastini,bd6f7c24,0,0,0,0,0,,,,,,1,0,1
+1182905,2019,Indonesia,11,K Winda Prastini,bd6f7c24,K Nanno,09c30c43,NPAN Sakarini,72b5decf,0,0,0,0,0,,,,,,2,0,2
+1182905,2019,Indonesia,11,K Winda Prastini,bd6f7c24,K Nanno,09c30c43,NPAN Sakarini,72b5decf,0,0,0,0,0,,,,,,1,0,1
+1182905,2019,Indonesia,11,NPAN Sakarini,72b5decf,K Nanno,09c30c43,K Winda Prastini,bd6f7c24,0,0,0,0,0,,,,,,0,0,0
+1182905,2019,Indonesia,11,NPAN Sakarini,72b5decf,K Nanno,09c30c43,K Winda Prastini,bd6f7c24,0,0,0,0,0,,,,,,1,0,1
+1182905,2019,Indonesia,11,K Winda Prastini,bd6f7c24,K Nanno,09c30c43,NPAN Sakarini,72b5decf,0,0,0,0,0,,,,,,1,0,1
+1182905,2019,Indonesia,12,K Winda Prastini,bd6f7c24,R Endo,9235396c,NPAN Sakarini,72b5decf,0,0,0,0,0,,,,,,0,0,0
+1182905,2019,Indonesia,12,K Winda Prastini,bd6f7c24,R Endo,9235396c,NPAN Sakarini,72b5decf,0,1,0,0,0,,,,,,1,1,2
+1182905,2019,Indonesia,12,NPAN Sakarini,72b5decf,N Tokizawa,0e818f80,K Winda Prastini,bd6f7c24,0,0,0,0,0,,,,,,0,0,0
+1182905,2019,Indonesia,12,NPAN Sakarini,72b5decf,N Tokizawa,0e818f80,K Winda Prastini,bd6f7c24,0,0,0,0,0,,,,,,0,0,0
+1182905,2019,Indonesia,12,NPAN Sakarini,72b5decf,N Tokizawa,0e818f80,K Winda Prastini,bd6f7c24,0,0,0,0,0,,,,,,1,0,1
+1182905,2019,Indonesia,12,K Winda Prastini,bd6f7c24,N Tokizawa,0e818f80,NPAN Sakarini,72b5decf,0,0,0,0,0,,,,,,0,0,0
+1182905,2019,Indonesia,12,K Winda Prastini,bd6f7c24,N Tokizawa,0e818f80,NPAN Sakarini,72b5decf,0,0,0,0,0,,,,,,0,0,0
+1182905,2019,Indonesia,13,NPAN Sakarini,72b5decf,M Yanagida,f20e7e23,K Winda Prastini,bd6f7c24,0,0,0,0,0,,,,,,1,0,1
+1182905,2019,Indonesia,13,K Winda Prastini,bd6f7c24,M Yanagida,f20e7e23,NPAN Sakarini,72b5decf,0,0,0,0,0,,,,,,1,0,1
+1182905,2019,Indonesia,13,NPAN Sakarini,72b5decf,M Yanagida,f20e7e23,K Winda Prastini,bd6f7c24,0,0,0,0,0,,,,,,0,0,0
+1182905,2019,Indonesia,13,NPAN Sakarini,72b5decf,M Yanagida,f20e7e23,K Winda Prastini,bd6f7c24,0,0,0,0,0,,,,,,1,0,1
+1182905,2019,Indonesia,13,K Winda Prastini,bd6f7c24,M Yanagida,f20e7e23,NPAN Sakarini,72b5decf,0,0,0,0,0,,,,,,0,0,0
+1182905,2019,Indonesia,13,K Winda Prastini,bd6f7c24,M Yanagida,f20e7e23,NPAN Sakarini,72b5decf,0,0,0,0,0,,,,,,0,0,0
+1182905,2019,Indonesia,14,NPAN Sakarini,72b5decf,S Miyaji,3aca2ed5,K Winda Prastini,bd6f7c24,0,0,0,0,0,,,,,,0,0,0
+1182905,2019,Indonesia,14,NPAN Sakarini,72b5decf,S Miyaji,3aca2ed5,K Winda Prastini,bd6f7c24,0,0,0,0,0,,,,,,1,0,1
+1182905,2019,Indonesia,14,K Winda Prastini,bd6f7c24,S Miyaji,3aca2ed5,NPAN Sakarini,72b5decf,0,0,0,0,0,,,,,,0,0,0
+1182905,2019,Indonesia,14,K Winda Prastini,bd6f7c24,S Miyaji,3aca2ed5,NPAN Sakarini,72b5decf,0,0,0,0,0,,,,,,0,0,0
+1182905,2019,Indonesia,14,K Winda Prastini,bd6f7c24,S Miyaji,3aca2ed5,NPAN Sakarini,72b5decf,0,0,0,0,0,,,,,,0,0,0
+1182905,2019,Indonesia,14,K Winda Prastini,bd6f7c24,S Miyaji,3aca2ed5,NPAN Sakarini,72b5decf,0,0,0,0,0,,,,,,1,0,1
+1182905,2019,Indonesia,15,K Winda Prastini,bd6f7c24,M Kanno,97fc39fd,NPAN Sakarini,72b5decf,0,0,0,0,0,,,,,,0,0,0
+1182905,2019,Indonesia,15,K Winda Prastini,bd6f7c24,M Kanno,97fc39fd,NPAN Sakarini,72b5decf,0,0,0,0,1,K Winda Prastini,bd6f7c24,,,bowled,0,0,0
+1182905,2019,Indonesia,15,Yuliana,928310d3,M Kanno,97fc39fd,NPAN Sakarini,72b5decf,0,0,0,0,0,,,,,,0,0,0
+1182905,2019,Indonesia,15,Yuliana,928310d3,M Kanno,97fc39fd,NPAN Sakarini,72b5decf,0,0,0,0,0,,,,,,1,0,1
+1182905,2019,Indonesia,15,NPAN Sakarini,72b5decf,M Kanno,97fc39fd,Yuliana,928310d3,0,0,0,0,0,,,,,,4,0,4
+1182905,2019,Indonesia,15,NPAN Sakarini,72b5decf,M Kanno,97fc39fd,Yuliana,928310d3,0,0,0,0,0,,,,,,2,0,2
+1182905,2019,Indonesia,16,Yuliana,928310d3,S Miyaji,3aca2ed5,NPAN Sakarini,72b5decf,0,0,0,0,0,,,,,,0,0,0
+1182905,2019,Indonesia,16,Yuliana,928310d3,S Miyaji,3aca2ed5,NPAN Sakarini,72b5decf,0,0,0,0,0,,,,,,1,0,1
+1182905,2019,Indonesia,16,NPAN Sakarini,72b5decf,S Miyaji,3aca2ed5,Yuliana,928310d3,0,0,0,0,0,,,,,,1,0,1
+1182905,2019,Indonesia,16,Yuliana,928310d3,S Miyaji,3aca2ed5,NPAN Sakarini,72b5decf,0,0,0,0,0,,,,,,0,0,0
+1182905,2019,Indonesia,16,Yuliana,928310d3,S Miyaji,3aca2ed5,NPAN Sakarini,72b5decf,0,0,0,0,0,,,,,,0,0,0
+1182905,2019,Indonesia,16,Yuliana,928310d3,S Miyaji,3aca2ed5,NPAN Sakarini,72b5decf,0,0,0,0,0,,,,,,1,0,1
+1182905,2019,Indonesia,17,Yuliana,928310d3,M Yanagida,f20e7e23,NPAN Sakarini,72b5decf,0,1,0,0,0,,,,,,1,1,2
+1182905,2019,Indonesia,17,NPAN Sakarini,72b5decf,M Yanagida,f20e7e23,Yuliana,928310d3,0,0,0,0,0,,,,,,4,0,4
+1182905,2019,Indonesia,17,NPAN Sakarini,72b5decf,M Yanagida,f20e7e23,Yuliana,928310d3,0,0,0,0,0,,,,,,1,0,1

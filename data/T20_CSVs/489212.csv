@@ -1,0 +1,253 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+489212,2011,West Indies,0,LMP Simmons,89f64c19,Junaid Khan,086f5984,ADS Fletcher,1bae756b,0,0,0,0,0,,,,,,1,0,1
+489212,2011,West Indies,0,ADS Fletcher,1bae756b,Junaid Khan,086f5984,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,0,0,0
+489212,2011,West Indies,0,ADS Fletcher,1bae756b,Junaid Khan,086f5984,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,0,0,0
+489212,2011,West Indies,0,ADS Fletcher,1bae756b,Junaid Khan,086f5984,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,0,0,0
+489212,2011,West Indies,0,ADS Fletcher,1bae756b,Junaid Khan,086f5984,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,1,0,1
+489212,2011,West Indies,0,LMP Simmons,89f64c19,Junaid Khan,086f5984,ADS Fletcher,1bae756b,0,0,0,0,0,,,,,,0,0,0
+489212,2011,West Indies,1,ADS Fletcher,1bae756b,Abdur Rehman,d094e7d1,LMP Simmons,89f64c19,0,0,0,0,1,ADS Fletcher,1bae756b,,,lbw,0,0,0
+489212,2011,West Indies,1,DM Bravo,14b14cd8,Abdur Rehman,d094e7d1,LMP Simmons,89f64c19,1,0,0,0,0,,,,,,0,1,1
+489212,2011,West Indies,1,DM Bravo,14b14cd8,Abdur Rehman,d094e7d1,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,1,0,1
+489212,2011,West Indies,1,LMP Simmons,89f64c19,Abdur Rehman,d094e7d1,DM Bravo,14b14cd8,0,0,0,0,0,,,,,,0,0,0
+489212,2011,West Indies,1,LMP Simmons,89f64c19,Abdur Rehman,d094e7d1,DM Bravo,14b14cd8,0,0,0,0,0,,,,,,0,0,0
+489212,2011,West Indies,1,LMP Simmons,89f64c19,Abdur Rehman,d094e7d1,DM Bravo,14b14cd8,0,0,0,0,0,,,,,,1,0,1
+489212,2011,West Indies,1,DM Bravo,14b14cd8,Abdur Rehman,d094e7d1,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,0,0,0
+489212,2011,West Indies,2,LMP Simmons,89f64c19,Junaid Khan,086f5984,DM Bravo,14b14cd8,0,0,0,0,0,,,,,,4,0,4
+489212,2011,West Indies,2,LMP Simmons,89f64c19,Junaid Khan,086f5984,DM Bravo,14b14cd8,0,0,0,0,0,,,,,,6,0,6
+489212,2011,West Indies,2,LMP Simmons,89f64c19,Junaid Khan,086f5984,DM Bravo,14b14cd8,0,0,0,0,0,,,,,,0,0,0
+489212,2011,West Indies,2,LMP Simmons,89f64c19,Junaid Khan,086f5984,DM Bravo,14b14cd8,0,0,0,0,0,,,,,,1,0,1
+489212,2011,West Indies,2,DM Bravo,14b14cd8,Junaid Khan,086f5984,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,1,0,1
+489212,2011,West Indies,2,LMP Simmons,89f64c19,Junaid Khan,086f5984,DM Bravo,14b14cd8,0,0,0,0,0,,,,,,1,0,1
+489212,2011,West Indies,3,LMP Simmons,89f64c19,Abdur Rehman,d094e7d1,DM Bravo,14b14cd8,0,0,0,0,0,,,,,,6,0,6
+489212,2011,West Indies,3,LMP Simmons,89f64c19,Abdur Rehman,d094e7d1,DM Bravo,14b14cd8,0,0,0,0,0,,,,,,1,0,1
+489212,2011,West Indies,3,DM Bravo,14b14cd8,Abdur Rehman,d094e7d1,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,0,0,0
+489212,2011,West Indies,3,DM Bravo,14b14cd8,Abdur Rehman,d094e7d1,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,1,0,1
+489212,2011,West Indies,3,LMP Simmons,89f64c19,Abdur Rehman,d094e7d1,DM Bravo,14b14cd8,0,0,0,0,0,,,,,,0,0,0
+489212,2011,West Indies,3,LMP Simmons,89f64c19,Abdur Rehman,d094e7d1,DM Bravo,14b14cd8,0,0,0,0,0,,,,,,0,0,0
+489212,2011,West Indies,4,DM Bravo,14b14cd8,Saeed Ajmal,05d74535,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,0,0,0
+489212,2011,West Indies,4,DM Bravo,14b14cd8,Saeed Ajmal,05d74535,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,1,0,1
+489212,2011,West Indies,4,LMP Simmons,89f64c19,Saeed Ajmal,05d74535,DM Bravo,14b14cd8,0,0,0,0,0,,,,,,4,0,4
+489212,2011,West Indies,4,LMP Simmons,89f64c19,Saeed Ajmal,05d74535,DM Bravo,14b14cd8,0,0,0,0,0,,,,,,1,0,1
+489212,2011,West Indies,4,DM Bravo,14b14cd8,Saeed Ajmal,05d74535,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,1,0,1
+489212,2011,West Indies,4,LMP Simmons,89f64c19,Saeed Ajmal,05d74535,DM Bravo,14b14cd8,0,0,0,0,0,,,,,,4,0,4
+489212,2011,West Indies,5,DM Bravo,14b14cd8,Wahab Riaz,b3118300,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,0,0,0
+489212,2011,West Indies,5,DM Bravo,14b14cd8,Wahab Riaz,b3118300,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,1,0,1
+489212,2011,West Indies,5,LMP Simmons,89f64c19,Wahab Riaz,b3118300,DM Bravo,14b14cd8,0,0,0,0,0,,,,,,0,0,0
+489212,2011,West Indies,5,LMP Simmons,89f64c19,Wahab Riaz,b3118300,DM Bravo,14b14cd8,0,0,0,0,0,,,,,,1,0,1
+489212,2011,West Indies,5,DM Bravo,14b14cd8,Wahab Riaz,b3118300,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,4,0,4
+489212,2011,West Indies,5,DM Bravo,14b14cd8,Wahab Riaz,b3118300,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,4,0,4
+489212,2011,West Indies,6,LMP Simmons,89f64c19,Shahid Afridi,0dc00542,DM Bravo,14b14cd8,0,0,0,0,0,,,,,,1,0,1
+489212,2011,West Indies,6,DM Bravo,14b14cd8,Shahid Afridi,0dc00542,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,1,0,1
+489212,2011,West Indies,6,LMP Simmons,89f64c19,Shahid Afridi,0dc00542,DM Bravo,14b14cd8,0,0,0,0,0,,,,,,1,0,1
+489212,2011,West Indies,6,DM Bravo,14b14cd8,Shahid Afridi,0dc00542,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,6,0,6
+489212,2011,West Indies,6,DM Bravo,14b14cd8,Shahid Afridi,0dc00542,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,1,0,1
+489212,2011,West Indies,6,LMP Simmons,89f64c19,Shahid Afridi,0dc00542,DM Bravo,14b14cd8,0,0,0,0,0,,,,,,0,0,0
+489212,2011,West Indies,7,DM Bravo,14b14cd8,Mohammad Hafeez,9ab63e7b,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,0,0,0
+489212,2011,West Indies,7,DM Bravo,14b14cd8,Mohammad Hafeez,9ab63e7b,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,1,0,1
+489212,2011,West Indies,7,LMP Simmons,89f64c19,Mohammad Hafeez,9ab63e7b,DM Bravo,14b14cd8,0,0,0,0,0,,,,,,1,0,1
+489212,2011,West Indies,7,DM Bravo,14b14cd8,Mohammad Hafeez,9ab63e7b,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,0,0,0
+489212,2011,West Indies,7,DM Bravo,14b14cd8,Mohammad Hafeez,9ab63e7b,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,1,0,1
+489212,2011,West Indies,7,LMP Simmons,89f64c19,Mohammad Hafeez,9ab63e7b,DM Bravo,14b14cd8,0,0,0,0,0,,,,,,4,0,4
+489212,2011,West Indies,8,DM Bravo,14b14cd8,Shahid Afridi,0dc00542,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,4,0,4
+489212,2011,West Indies,8,DM Bravo,14b14cd8,Shahid Afridi,0dc00542,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,1,0,1
+489212,2011,West Indies,8,LMP Simmons,89f64c19,Shahid Afridi,0dc00542,DM Bravo,14b14cd8,0,0,0,0,0,,,,,,2,0,2
+489212,2011,West Indies,8,LMP Simmons,89f64c19,Shahid Afridi,0dc00542,DM Bravo,14b14cd8,0,0,0,0,0,,,,,,1,0,1
+489212,2011,West Indies,8,DM Bravo,14b14cd8,Shahid Afridi,0dc00542,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,0,0,0
+489212,2011,West Indies,8,DM Bravo,14b14cd8,Shahid Afridi,0dc00542,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,0,0,0
+489212,2011,West Indies,9,LMP Simmons,89f64c19,Mohammad Hafeez,9ab63e7b,DM Bravo,14b14cd8,0,0,0,0,0,,,,,,1,0,1
+489212,2011,West Indies,9,DM Bravo,14b14cd8,Mohammad Hafeez,9ab63e7b,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,0,0,0
+489212,2011,West Indies,9,DM Bravo,14b14cd8,Mohammad Hafeez,9ab63e7b,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,0,0,0
+489212,2011,West Indies,9,DM Bravo,14b14cd8,Mohammad Hafeez,9ab63e7b,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,0,0,0
+489212,2011,West Indies,9,DM Bravo,14b14cd8,Mohammad Hafeez,9ab63e7b,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,1,0,1
+489212,2011,West Indies,9,LMP Simmons,89f64c19,Mohammad Hafeez,9ab63e7b,DM Bravo,14b14cd8,0,0,0,0,0,,,,,,1,0,1
+489212,2011,West Indies,10,LMP Simmons,89f64c19,Shahid Afridi,0dc00542,DM Bravo,14b14cd8,0,0,0,0,0,,,,,,2,0,2
+489212,2011,West Indies,10,LMP Simmons,89f64c19,Shahid Afridi,0dc00542,DM Bravo,14b14cd8,0,0,0,0,0,,,,,,4,0,4
+489212,2011,West Indies,10,LMP Simmons,89f64c19,Shahid Afridi,0dc00542,DM Bravo,14b14cd8,0,0,0,0,0,,,,,,1,0,1
+489212,2011,West Indies,10,DM Bravo,14b14cd8,Shahid Afridi,0dc00542,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,1,0,1
+489212,2011,West Indies,10,LMP Simmons,89f64c19,Shahid Afridi,0dc00542,DM Bravo,14b14cd8,0,0,0,0,0,,,,,,0,0,0
+489212,2011,West Indies,10,LMP Simmons,89f64c19,Shahid Afridi,0dc00542,DM Bravo,14b14cd8,0,0,0,0,0,,,,,,4,0,4
+489212,2011,West Indies,11,DM Bravo,14b14cd8,Mohammad Hafeez,9ab63e7b,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,4,0,4
+489212,2011,West Indies,11,DM Bravo,14b14cd8,Mohammad Hafeez,9ab63e7b,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,6,0,6
+489212,2011,West Indies,11,DM Bravo,14b14cd8,Mohammad Hafeez,9ab63e7b,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,1,0,1
+489212,2011,West Indies,11,LMP Simmons,89f64c19,Mohammad Hafeez,9ab63e7b,DM Bravo,14b14cd8,1,0,0,0,0,,,,,,0,1,1
+489212,2011,West Indies,11,LMP Simmons,89f64c19,Mohammad Hafeez,9ab63e7b,DM Bravo,14b14cd8,0,0,0,0,0,,,,,,0,0,0
+489212,2011,West Indies,11,LMP Simmons,89f64c19,Mohammad Hafeez,9ab63e7b,DM Bravo,14b14cd8,0,0,0,0,0,,,,,,1,0,1
+489212,2011,West Indies,11,DM Bravo,14b14cd8,Mohammad Hafeez,9ab63e7b,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,0,0,0
+489212,2011,West Indies,12,LMP Simmons,89f64c19,Abdur Rehman,d094e7d1,DM Bravo,14b14cd8,0,0,0,0,0,,,,,,1,0,1
+489212,2011,West Indies,12,DM Bravo,14b14cd8,Abdur Rehman,d094e7d1,LMP Simmons,89f64c19,0,0,0,0,1,DM Bravo,14b14cd8,Umar Akmal,fd2bf2a0,caught,0,0,0
+489212,2011,West Indies,12,LMP Simmons,89f64c19,Abdur Rehman,d094e7d1,MN Samuels,f846de6a,0,0,0,0,0,,,,,,0,0,0
+489212,2011,West Indies,12,LMP Simmons,89f64c19,Abdur Rehman,d094e7d1,MN Samuels,f846de6a,0,0,0,0,0,,,,,,0,0,0
+489212,2011,West Indies,12,LMP Simmons,89f64c19,Abdur Rehman,d094e7d1,MN Samuels,f846de6a,0,0,0,0,0,,,,,,4,0,4
+489212,2011,West Indies,12,LMP Simmons,89f64c19,Abdur Rehman,d094e7d1,MN Samuels,f846de6a,0,0,0,0,0,,,,,,1,0,1
+489212,2011,West Indies,13,LMP Simmons,89f64c19,Saeed Ajmal,05d74535,MN Samuels,f846de6a,0,0,0,0,0,,,,,,1,0,1
+489212,2011,West Indies,13,MN Samuels,f846de6a,Saeed Ajmal,05d74535,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,2,0,2
+489212,2011,West Indies,13,MN Samuels,f846de6a,Saeed Ajmal,05d74535,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,1,0,1
+489212,2011,West Indies,13,LMP Simmons,89f64c19,Saeed Ajmal,05d74535,MN Samuels,f846de6a,0,0,0,0,0,,,,,,1,0,1
+489212,2011,West Indies,13,MN Samuels,f846de6a,Saeed Ajmal,05d74535,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,1,0,1
+489212,2011,West Indies,13,LMP Simmons,89f64c19,Saeed Ajmal,05d74535,MN Samuels,f846de6a,0,0,0,0,0,,,,,,1,0,1
+489212,2011,West Indies,14,LMP Simmons,89f64c19,Abdur Rehman,d094e7d1,MN Samuels,f846de6a,0,0,0,0,0,,,,,,1,0,1
+489212,2011,West Indies,14,MN Samuels,f846de6a,Abdur Rehman,d094e7d1,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,0,0,0
+489212,2011,West Indies,14,MN Samuels,f846de6a,Abdur Rehman,d094e7d1,LMP Simmons,89f64c19,0,0,0,0,1,LMP Simmons,89f64c19,Wahab Riaz,b3118300,run out,0,0,0
+489212,2011,West Indies,14,DP Hyatt,2e2fe3e8,Abdur Rehman,d094e7d1,MN Samuels,f846de6a,0,0,0,0,0,,,,,,0,0,0
+489212,2011,West Indies,14,DP Hyatt,2e2fe3e8,Abdur Rehman,d094e7d1,MN Samuels,f846de6a,0,0,0,0,0,,,,,,4,0,4
+489212,2011,West Indies,14,DP Hyatt,2e2fe3e8,Abdur Rehman,d094e7d1,MN Samuels,f846de6a,0,0,0,0,0,,,,,,0,0,0
+489212,2011,West Indies,15,MN Samuels,f846de6a,Wahab Riaz,b3118300,DP Hyatt,2e2fe3e8,0,0,0,0,0,,,,,,0,0,0
+489212,2011,West Indies,15,MN Samuels,f846de6a,Wahab Riaz,b3118300,DP Hyatt,2e2fe3e8,0,0,0,0,0,,,,,,0,0,0
+489212,2011,West Indies,15,MN Samuels,f846de6a,Wahab Riaz,b3118300,DP Hyatt,2e2fe3e8,0,0,0,0,0,,,,,,0,0,0
+489212,2011,West Indies,15,MN Samuels,f846de6a,Wahab Riaz,b3118300,DP Hyatt,2e2fe3e8,0,0,0,0,0,,,,,,0,0,0
+489212,2011,West Indies,15,MN Samuels,f846de6a,Wahab Riaz,b3118300,DP Hyatt,2e2fe3e8,0,0,0,0,0,,,,,,0,0,0
+489212,2011,West Indies,15,MN Samuels,f846de6a,Wahab Riaz,b3118300,DP Hyatt,2e2fe3e8,0,0,0,0,0,,,,,,0,0,0
+489212,2011,West Indies,16,DP Hyatt,2e2fe3e8,Saeed Ajmal,05d74535,MN Samuels,f846de6a,0,0,0,0,0,,,,,,0,0,0
+489212,2011,West Indies,16,DP Hyatt,2e2fe3e8,Saeed Ajmal,05d74535,MN Samuels,f846de6a,0,0,0,0,0,,,,,,6,0,6
+489212,2011,West Indies,16,DP Hyatt,2e2fe3e8,Saeed Ajmal,05d74535,MN Samuels,f846de6a,0,0,0,0,0,,,,,,0,0,0
+489212,2011,West Indies,16,DP Hyatt,2e2fe3e8,Saeed Ajmal,05d74535,MN Samuels,f846de6a,0,0,1,0,0,,,,,,0,1,1
+489212,2011,West Indies,16,MN Samuels,f846de6a,Saeed Ajmal,05d74535,DP Hyatt,2e2fe3e8,0,0,0,0,1,MN Samuels,f846de6a,Mohammad Salman,9eea360c,stumped,0,0,0
+489212,2011,West Indies,16,DJG Sammy,c03c6200,Saeed Ajmal,05d74535,DP Hyatt,2e2fe3e8,0,0,0,0,0,,,,,,1,0,1
+489212,2011,West Indies,17,DJG Sammy,c03c6200,Wahab Riaz,b3118300,DP Hyatt,2e2fe3e8,0,0,0,0,1,DJG Sammy,c03c6200,Mohammad Salman,9eea360c,caught,0,0,0
+489212,2011,West Indies,17,CD Barnwell,0d51e658,Wahab Riaz,b3118300,DP Hyatt,2e2fe3e8,0,0,0,0,0,,,,,,0,0,0
+489212,2011,West Indies,17,CD Barnwell,0d51e658,Wahab Riaz,b3118300,DP Hyatt,2e2fe3e8,0,0,0,0,0,,,,,,0,0,0
+489212,2011,West Indies,17,CD Barnwell,0d51e658,Wahab Riaz,b3118300,DP Hyatt,2e2fe3e8,0,0,0,0,0,,,,,,1,0,1
+489212,2011,West Indies,17,DP Hyatt,2e2fe3e8,Wahab Riaz,b3118300,CD Barnwell,0d51e658,0,0,0,0,0,,,,,,1,0,1
+489212,2011,West Indies,17,CD Barnwell,0d51e658,Wahab Riaz,b3118300,DP Hyatt,2e2fe3e8,1,0,0,0,0,,,,,,0,1,1
+489212,2011,West Indies,17,CD Barnwell,0d51e658,Wahab Riaz,b3118300,DP Hyatt,2e2fe3e8,0,0,0,0,0,,,,,,2,0,2
+489212,2011,West Indies,18,DP Hyatt,2e2fe3e8,Saeed Ajmal,05d74535,CD Barnwell,0d51e658,0,0,0,0,0,,,,,,2,0,2
+489212,2011,West Indies,18,DP Hyatt,2e2fe3e8,Saeed Ajmal,05d74535,CD Barnwell,0d51e658,0,0,0,0,0,,,,,,1,0,1
+489212,2011,West Indies,18,CD Barnwell,0d51e658,Saeed Ajmal,05d74535,DP Hyatt,2e2fe3e8,0,0,0,0,0,,,,,,0,0,0
+489212,2011,West Indies,18,CD Barnwell,0d51e658,Saeed Ajmal,05d74535,DP Hyatt,2e2fe3e8,0,0,0,0,0,,,,,,6,0,6
+489212,2011,West Indies,18,CD Barnwell,0d51e658,Saeed Ajmal,05d74535,DP Hyatt,2e2fe3e8,0,0,0,0,0,,,,,,1,0,1
+489212,2011,West Indies,18,DP Hyatt,2e2fe3e8,Saeed Ajmal,05d74535,CD Barnwell,0d51e658,0,0,0,0,1,DP Hyatt,2e2fe3e8,Umar Akmal,fd2bf2a0,caught,0,0,0
+489212,2011,West Indies,19,AD Russell,bbd41817,Wahab Riaz,b3118300,CD Barnwell,0d51e658,0,0,0,0,0,,,,,,0,0,0
+489212,2011,West Indies,19,AD Russell,bbd41817,Wahab Riaz,b3118300,CD Barnwell,0d51e658,0,0,0,0,0,,,,,,0,0,0
+489212,2011,West Indies,19,AD Russell,bbd41817,Wahab Riaz,b3118300,CD Barnwell,0d51e658,0,0,0,0,1,AD Russell,bbd41817,Abdur Rehman,d094e7d1,caught,0,0,0
+489212,2011,West Indies,19,CD Barnwell,0d51e658,Wahab Riaz,b3118300,AR Nurse,4a745f65,1,0,0,0,0,,,,,,0,1,1
+489212,2011,West Indies,19,CD Barnwell,0d51e658,Wahab Riaz,b3118300,AR Nurse,4a745f65,0,0,0,0,0,,,,,,1,0,1
+489212,2011,West Indies,19,AR Nurse,4a745f65,Wahab Riaz,b3118300,CD Barnwell,0d51e658,0,0,0,0,0,,,,,,4,0,4
+489212,2011,West Indies,19,AR Nurse,4a745f65,Wahab Riaz,b3118300,CD Barnwell,0d51e658,0,1,0,0,0,,,,,,0,1,1
+489212,2011,West Indies,19,AR Nurse,4a745f65,Wahab Riaz,b3118300,CD Barnwell,0d51e658,0,0,0,0,0,,,,,,2,0,2
+489212,2011,Pakistan,0,Ahmed Shehzad,f8fd6e3f,R Rampaul,d68e7f48,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,1,0,1
+489212,2011,Pakistan,0,Mohammad Hafeez,9ab63e7b,R Rampaul,d68e7f48,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,3,0,3
+489212,2011,Pakistan,0,Ahmed Shehzad,f8fd6e3f,R Rampaul,d68e7f48,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,0,0,0
+489212,2011,Pakistan,0,Ahmed Shehzad,f8fd6e3f,R Rampaul,d68e7f48,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,0,0,0
+489212,2011,Pakistan,0,Ahmed Shehzad,f8fd6e3f,R Rampaul,d68e7f48,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,1,0,1
+489212,2011,Pakistan,0,Mohammad Hafeez,9ab63e7b,R Rampaul,d68e7f48,Ahmed Shehzad,f8fd6e3f,0,1,0,0,0,,,,,,0,1,1
+489212,2011,Pakistan,0,Mohammad Hafeez,9ab63e7b,R Rampaul,d68e7f48,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,0,0,0
+489212,2011,Pakistan,1,Ahmed Shehzad,f8fd6e3f,DJG Sammy,c03c6200,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,0,0,0
+489212,2011,Pakistan,1,Ahmed Shehzad,f8fd6e3f,DJG Sammy,c03c6200,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,0,0,0
+489212,2011,Pakistan,1,Ahmed Shehzad,f8fd6e3f,DJG Sammy,c03c6200,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,1,0,1
+489212,2011,Pakistan,1,Mohammad Hafeez,9ab63e7b,DJG Sammy,c03c6200,Ahmed Shehzad,f8fd6e3f,0,0,0,0,1,Mohammad Hafeez,9ab63e7b,AR Nurse,4a745f65,caught,0,0,0
+489212,2011,Pakistan,1,Asad Shafiq,50250426,DJG Sammy,c03c6200,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,0,0,0
+489212,2011,Pakistan,1,Asad Shafiq,50250426,DJG Sammy,c03c6200,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,4,0,4
+489212,2011,Pakistan,2,Ahmed Shehzad,f8fd6e3f,AD Russell,bbd41817,Asad Shafiq,50250426,0,0,0,0,0,,,,,,0,0,0
+489212,2011,Pakistan,2,Ahmed Shehzad,f8fd6e3f,AD Russell,bbd41817,Asad Shafiq,50250426,0,0,0,0,0,,,,,,0,0,0
+489212,2011,Pakistan,2,Ahmed Shehzad,f8fd6e3f,AD Russell,bbd41817,Asad Shafiq,50250426,0,0,0,0,0,,,,,,0,0,0
+489212,2011,Pakistan,2,Ahmed Shehzad,f8fd6e3f,AD Russell,bbd41817,Asad Shafiq,50250426,0,0,0,0,0,,,,,,4,0,4
+489212,2011,Pakistan,2,Ahmed Shehzad,f8fd6e3f,AD Russell,bbd41817,Asad Shafiq,50250426,0,0,0,0,0,,,,,,4,0,4
+489212,2011,Pakistan,2,Ahmed Shehzad,f8fd6e3f,AD Russell,bbd41817,Asad Shafiq,50250426,0,0,0,0,0,,,,,,1,0,1
+489212,2011,Pakistan,3,Ahmed Shehzad,f8fd6e3f,R Rampaul,d68e7f48,Asad Shafiq,50250426,0,0,0,0,0,,,,,,0,0,0
+489212,2011,Pakistan,3,Ahmed Shehzad,f8fd6e3f,R Rampaul,d68e7f48,Asad Shafiq,50250426,0,0,0,0,1,Ahmed Shehzad,f8fd6e3f,CD Barnwell,0d51e658,caught,0,0,0
+489212,2011,Pakistan,3,Umar Akmal,fd2bf2a0,R Rampaul,d68e7f48,Asad Shafiq,50250426,0,0,0,0,0,,,,,,1,0,1
+489212,2011,Pakistan,3,Asad Shafiq,50250426,R Rampaul,d68e7f48,Umar Akmal,fd2bf2a0,0,0,0,0,0,,,,,,0,0,0
+489212,2011,Pakistan,3,Asad Shafiq,50250426,R Rampaul,d68e7f48,Umar Akmal,fd2bf2a0,0,0,0,0,0,,,,,,0,0,0
+489212,2011,Pakistan,3,Asad Shafiq,50250426,R Rampaul,d68e7f48,Umar Akmal,fd2bf2a0,0,0,0,0,0,,,,,,1,0,1
+489212,2011,Pakistan,4,Asad Shafiq,50250426,DJG Sammy,c03c6200,Umar Akmal,fd2bf2a0,0,0,0,0,0,,,,,,2,0,2
+489212,2011,Pakistan,4,Asad Shafiq,50250426,DJG Sammy,c03c6200,Umar Akmal,fd2bf2a0,0,0,0,0,0,,,,,,1,0,1
+489212,2011,Pakistan,4,Umar Akmal,fd2bf2a0,DJG Sammy,c03c6200,Asad Shafiq,50250426,0,0,0,0,0,,,,,,0,0,0
+489212,2011,Pakistan,4,Umar Akmal,fd2bf2a0,DJG Sammy,c03c6200,Asad Shafiq,50250426,0,0,0,0,0,,,,,,4,0,4
+489212,2011,Pakistan,4,Umar Akmal,fd2bf2a0,DJG Sammy,c03c6200,Asad Shafiq,50250426,0,0,0,0,0,,,,,,1,0,1
+489212,2011,Pakistan,4,Asad Shafiq,50250426,DJG Sammy,c03c6200,Umar Akmal,fd2bf2a0,0,0,0,0,0,,,,,,6,0,6
+489212,2011,Pakistan,5,Umar Akmal,fd2bf2a0,AD Russell,bbd41817,Asad Shafiq,50250426,0,0,0,0,0,,,,,,1,0,1
+489212,2011,Pakistan,5,Asad Shafiq,50250426,AD Russell,bbd41817,Umar Akmal,fd2bf2a0,0,1,0,0,0,,,,,,4,1,5
+489212,2011,Pakistan,5,Asad Shafiq,50250426,AD Russell,bbd41817,Umar Akmal,fd2bf2a0,0,0,0,0,0,,,,,,0,0,0
+489212,2011,Pakistan,5,Asad Shafiq,50250426,AD Russell,bbd41817,Umar Akmal,fd2bf2a0,0,0,0,0,0,,,,,,4,0,4
+489212,2011,Pakistan,5,Asad Shafiq,50250426,AD Russell,bbd41817,Umar Akmal,fd2bf2a0,0,0,0,0,0,,,,,,0,0,0
+489212,2011,Pakistan,5,Asad Shafiq,50250426,AD Russell,bbd41817,Umar Akmal,fd2bf2a0,0,0,0,0,0,,,,,,1,0,1
+489212,2011,Pakistan,5,Umar Akmal,fd2bf2a0,AD Russell,bbd41817,Asad Shafiq,50250426,0,0,0,0,0,,,,,,0,0,0
+489212,2011,Pakistan,6,Asad Shafiq,50250426,D Bishoo,7a80ddf2,Umar Akmal,fd2bf2a0,0,0,0,0,0,,,,,,0,0,0
+489212,2011,Pakistan,6,Asad Shafiq,50250426,D Bishoo,7a80ddf2,Umar Akmal,fd2bf2a0,0,0,0,0,0,,,,,,2,0,2
+489212,2011,Pakistan,6,Asad Shafiq,50250426,D Bishoo,7a80ddf2,Umar Akmal,fd2bf2a0,0,0,0,0,0,,,,,,0,0,0
+489212,2011,Pakistan,6,Asad Shafiq,50250426,D Bishoo,7a80ddf2,Umar Akmal,fd2bf2a0,0,0,0,0,1,Asad Shafiq,50250426,DP Hyatt,2e2fe3e8,caught,0,0,0
+489212,2011,Pakistan,6,Misbah-ul-Haq,7eae4418,D Bishoo,7a80ddf2,Umar Akmal,fd2bf2a0,0,0,0,0,1,Misbah-ul-Haq,7eae4418,,,hit wicket,0,0,0
+489212,2011,Pakistan,6,Shahid Afridi,0dc00542,D Bishoo,7a80ddf2,Umar Akmal,fd2bf2a0,0,0,0,0,0,,,,,,0,0,0
+489212,2011,Pakistan,7,Umar Akmal,fd2bf2a0,CD Barnwell,0d51e658,Shahid Afridi,0dc00542,0,0,0,0,0,,,,,,1,0,1
+489212,2011,Pakistan,7,Shahid Afridi,0dc00542,CD Barnwell,0d51e658,Umar Akmal,fd2bf2a0,0,0,0,0,0,,,,,,1,0,1
+489212,2011,Pakistan,7,Umar Akmal,fd2bf2a0,CD Barnwell,0d51e658,Shahid Afridi,0dc00542,0,0,0,0,0,,,,,,1,0,1
+489212,2011,Pakistan,7,Shahid Afridi,0dc00542,CD Barnwell,0d51e658,Umar Akmal,fd2bf2a0,0,0,0,0,0,,,,,,2,0,2
+489212,2011,Pakistan,7,Shahid Afridi,0dc00542,CD Barnwell,0d51e658,Umar Akmal,fd2bf2a0,0,0,0,0,0,,,,,,1,0,1
+489212,2011,Pakistan,7,Umar Akmal,fd2bf2a0,CD Barnwell,0d51e658,Shahid Afridi,0dc00542,0,0,0,0,0,,,,,,1,0,1
+489212,2011,Pakistan,8,Umar Akmal,fd2bf2a0,D Bishoo,7a80ddf2,Shahid Afridi,0dc00542,0,0,0,0,0,,,,,,0,0,0
+489212,2011,Pakistan,8,Umar Akmal,fd2bf2a0,D Bishoo,7a80ddf2,Shahid Afridi,0dc00542,0,1,0,0,0,,,,,,2,1,3
+489212,2011,Pakistan,8,Umar Akmal,fd2bf2a0,D Bishoo,7a80ddf2,Shahid Afridi,0dc00542,0,0,0,0,0,,,,,,0,0,0
+489212,2011,Pakistan,8,Umar Akmal,fd2bf2a0,D Bishoo,7a80ddf2,Shahid Afridi,0dc00542,0,0,0,0,0,,,,,,0,0,0
+489212,2011,Pakistan,8,Umar Akmal,fd2bf2a0,D Bishoo,7a80ddf2,Shahid Afridi,0dc00542,0,0,0,0,0,,,,,,0,0,0
+489212,2011,Pakistan,8,Umar Akmal,fd2bf2a0,D Bishoo,7a80ddf2,Shahid Afridi,0dc00542,0,0,0,0,0,,,,,,1,0,1
+489212,2011,Pakistan,8,Shahid Afridi,0dc00542,D Bishoo,7a80ddf2,Umar Akmal,fd2bf2a0,0,0,0,0,0,,,,,,0,0,0
+489212,2011,Pakistan,9,Umar Akmal,fd2bf2a0,AR Nurse,4a745f65,Shahid Afridi,0dc00542,0,0,0,0,0,,,,,,2,0,2
+489212,2011,Pakistan,9,Umar Akmal,fd2bf2a0,AR Nurse,4a745f65,Shahid Afridi,0dc00542,0,0,0,0,0,,,,,,4,0,4
+489212,2011,Pakistan,9,Umar Akmal,fd2bf2a0,AR Nurse,4a745f65,Shahid Afridi,0dc00542,0,0,0,0,0,,,,,,0,0,0
+489212,2011,Pakistan,9,Umar Akmal,fd2bf2a0,AR Nurse,4a745f65,Shahid Afridi,0dc00542,0,0,0,0,0,,,,,,1,0,1
+489212,2011,Pakistan,9,Shahid Afridi,0dc00542,AR Nurse,4a745f65,Umar Akmal,fd2bf2a0,0,0,0,0,0,,,,,,1,0,1
+489212,2011,Pakistan,9,Umar Akmal,fd2bf2a0,AR Nurse,4a745f65,Shahid Afridi,0dc00542,0,0,0,0,0,,,,,,1,0,1
+489212,2011,Pakistan,10,Umar Akmal,fd2bf2a0,D Bishoo,7a80ddf2,Shahid Afridi,0dc00542,0,0,0,0,0,,,,,,1,0,1
+489212,2011,Pakistan,10,Shahid Afridi,0dc00542,D Bishoo,7a80ddf2,Umar Akmal,fd2bf2a0,0,0,0,0,0,,,,,,2,0,2
+489212,2011,Pakistan,10,Shahid Afridi,0dc00542,D Bishoo,7a80ddf2,Umar Akmal,fd2bf2a0,0,0,0,0,0,,,,,,1,0,1
+489212,2011,Pakistan,10,Umar Akmal,fd2bf2a0,D Bishoo,7a80ddf2,Shahid Afridi,0dc00542,0,0,0,0,0,,,,,,1,0,1
+489212,2011,Pakistan,10,Shahid Afridi,0dc00542,D Bishoo,7a80ddf2,Umar Akmal,fd2bf2a0,0,0,0,0,0,,,,,,4,0,4
+489212,2011,Pakistan,10,Shahid Afridi,0dc00542,D Bishoo,7a80ddf2,Umar Akmal,fd2bf2a0,0,0,0,0,1,Shahid Afridi,0dc00542,DJG Sammy,c03c6200,caught,0,0,0
+489212,2011,Pakistan,11,Umar Akmal,fd2bf2a0,DJG Sammy,c03c6200,Mohammad Salman,9eea360c,0,0,0,0,0,,,,,,1,0,1
+489212,2011,Pakistan,11,Mohammad Salman,9eea360c,DJG Sammy,c03c6200,Umar Akmal,fd2bf2a0,0,0,0,0,0,,,,,,1,0,1
+489212,2011,Pakistan,11,Umar Akmal,fd2bf2a0,DJG Sammy,c03c6200,Mohammad Salman,9eea360c,0,0,0,0,0,,,,,,0,0,0
+489212,2011,Pakistan,11,Umar Akmal,fd2bf2a0,DJG Sammy,c03c6200,Mohammad Salman,9eea360c,0,0,0,0,0,,,,,,4,0,4
+489212,2011,Pakistan,11,Umar Akmal,fd2bf2a0,DJG Sammy,c03c6200,Mohammad Salman,9eea360c,0,0,0,0,0,,,,,,0,0,0
+489212,2011,Pakistan,11,Umar Akmal,fd2bf2a0,DJG Sammy,c03c6200,Mohammad Salman,9eea360c,0,0,0,0,0,,,,,,1,0,1
+489212,2011,Pakistan,12,Umar Akmal,fd2bf2a0,AR Nurse,4a745f65,Mohammad Salman,9eea360c,0,0,0,0,0,,,,,,1,0,1
+489212,2011,Pakistan,12,Mohammad Salman,9eea360c,AR Nurse,4a745f65,Umar Akmal,fd2bf2a0,0,0,0,0,0,,,,,,1,0,1
+489212,2011,Pakistan,12,Umar Akmal,fd2bf2a0,AR Nurse,4a745f65,Mohammad Salman,9eea360c,0,0,0,0,0,,,,,,1,0,1
+489212,2011,Pakistan,12,Mohammad Salman,9eea360c,AR Nurse,4a745f65,Umar Akmal,fd2bf2a0,0,0,0,0,0,,,,,,0,0,0
+489212,2011,Pakistan,12,Mohammad Salman,9eea360c,AR Nurse,4a745f65,Umar Akmal,fd2bf2a0,0,0,0,0,0,,,,,,1,0,1
+489212,2011,Pakistan,12,Umar Akmal,fd2bf2a0,AR Nurse,4a745f65,Mohammad Salman,9eea360c,0,0,0,0,0,,,,,,1,0,1
+489212,2011,Pakistan,13,Umar Akmal,fd2bf2a0,AD Russell,bbd41817,Mohammad Salman,9eea360c,0,0,0,0,0,,,,,,0,0,0
+489212,2011,Pakistan,13,Umar Akmal,fd2bf2a0,AD Russell,bbd41817,Mohammad Salman,9eea360c,0,0,0,0,0,,,,,,0,0,0
+489212,2011,Pakistan,13,Umar Akmal,fd2bf2a0,AD Russell,bbd41817,Mohammad Salman,9eea360c,0,0,0,0,0,,,,,,0,0,0
+489212,2011,Pakistan,13,Umar Akmal,fd2bf2a0,AD Russell,bbd41817,Mohammad Salman,9eea360c,0,0,0,0,0,,,,,,1,0,1
+489212,2011,Pakistan,13,Mohammad Salman,9eea360c,AD Russell,bbd41817,Umar Akmal,fd2bf2a0,0,0,0,0,0,,,,,,2,0,2
+489212,2011,Pakistan,13,Mohammad Salman,9eea360c,AD Russell,bbd41817,Umar Akmal,fd2bf2a0,0,0,0,0,1,Mohammad Salman,9eea360c,DJG Sammy,c03c6200,run out,0,0,0
+489212,2011,Pakistan,14,Abdur Rehman,d094e7d1,AR Nurse,4a745f65,Umar Akmal,fd2bf2a0,0,0,0,0,0,,,,,,1,0,1
+489212,2011,Pakistan,14,Umar Akmal,fd2bf2a0,AR Nurse,4a745f65,Abdur Rehman,d094e7d1,0,0,0,0,0,,,,,,2,0,2
+489212,2011,Pakistan,14,Umar Akmal,fd2bf2a0,AR Nurse,4a745f65,Abdur Rehman,d094e7d1,0,0,0,0,0,,,,,,4,0,4
+489212,2011,Pakistan,14,Umar Akmal,fd2bf2a0,AR Nurse,4a745f65,Abdur Rehman,d094e7d1,0,0,0,0,0,,,,,,1,0,1
+489212,2011,Pakistan,14,Abdur Rehman,d094e7d1,AR Nurse,4a745f65,Umar Akmal,fd2bf2a0,0,0,0,0,0,,,,,,1,0,1
+489212,2011,Pakistan,14,Umar Akmal,fd2bf2a0,AR Nurse,4a745f65,Abdur Rehman,d094e7d1,0,0,0,0,0,,,,,,0,0,0
+489212,2011,Pakistan,15,Abdur Rehman,d094e7d1,R Rampaul,d68e7f48,Umar Akmal,fd2bf2a0,0,0,0,0,0,,,,,,2,0,2
+489212,2011,Pakistan,15,Abdur Rehman,d094e7d1,R Rampaul,d68e7f48,Umar Akmal,fd2bf2a0,0,0,0,0,0,,,,,,1,0,1
+489212,2011,Pakistan,15,Umar Akmal,fd2bf2a0,R Rampaul,d68e7f48,Abdur Rehman,d094e7d1,0,1,0,0,0,,,,,,1,1,2
+489212,2011,Pakistan,15,Abdur Rehman,d094e7d1,R Rampaul,d68e7f48,Umar Akmal,fd2bf2a0,0,0,0,0,0,,,,,,1,0,1
+489212,2011,Pakistan,15,Umar Akmal,fd2bf2a0,R Rampaul,d68e7f48,Abdur Rehman,d094e7d1,0,1,0,0,0,,,,,,0,1,1
+489212,2011,Pakistan,15,Umar Akmal,fd2bf2a0,R Rampaul,d68e7f48,Abdur Rehman,d094e7d1,0,0,0,0,1,Umar Akmal,fd2bf2a0,MN Samuels,f846de6a,caught,0,0,0
+489212,2011,Pakistan,15,Abdur Rehman,d094e7d1,R Rampaul,d68e7f48,Wahab Riaz,b3118300,0,0,0,0,0,,,,,,0,0,0
+489212,2011,Pakistan,15,Abdur Rehman,d094e7d1,R Rampaul,d68e7f48,Wahab Riaz,b3118300,0,0,0,0,0,,,,,,1,0,1
+489212,2011,Pakistan,16,Abdur Rehman,d094e7d1,D Bishoo,7a80ddf2,Wahab Riaz,b3118300,0,0,0,0,1,Abdur Rehman,d094e7d1,,,bowled,0,0,0
+489212,2011,Pakistan,16,Saeed Ajmal,05d74535,D Bishoo,7a80ddf2,Wahab Riaz,b3118300,0,0,0,0,0,,,,,,0,0,0
+489212,2011,Pakistan,16,Saeed Ajmal,05d74535,D Bishoo,7a80ddf2,Wahab Riaz,b3118300,0,0,0,0,0,,,,,,0,0,0
+489212,2011,Pakistan,16,Saeed Ajmal,05d74535,D Bishoo,7a80ddf2,Wahab Riaz,b3118300,0,0,0,0,0,,,,,,1,0,1
+489212,2011,Pakistan,16,Wahab Riaz,b3118300,D Bishoo,7a80ddf2,Saeed Ajmal,05d74535,0,0,0,0,0,,,,,,0,0,0
+489212,2011,Pakistan,16,Wahab Riaz,b3118300,D Bishoo,7a80ddf2,Saeed Ajmal,05d74535,0,0,0,0,0,,,,,,1,0,1
+489212,2011,Pakistan,17,Wahab Riaz,b3118300,AR Nurse,4a745f65,Saeed Ajmal,05d74535,0,0,0,0,0,,,,,,1,0,1
+489212,2011,Pakistan,17,Saeed Ajmal,05d74535,AR Nurse,4a745f65,Wahab Riaz,b3118300,0,0,0,0,0,,,,,,2,0,2
+489212,2011,Pakistan,17,Saeed Ajmal,05d74535,AR Nurse,4a745f65,Wahab Riaz,b3118300,0,0,0,0,0,,,,,,2,0,2
+489212,2011,Pakistan,17,Saeed Ajmal,05d74535,AR Nurse,4a745f65,Wahab Riaz,b3118300,0,0,0,0,0,,,,,,1,0,1
+489212,2011,Pakistan,17,Wahab Riaz,b3118300,AR Nurse,4a745f65,Saeed Ajmal,05d74535,0,0,0,0,0,,,,,,2,0,2
+489212,2011,Pakistan,17,Wahab Riaz,b3118300,AR Nurse,4a745f65,Saeed Ajmal,05d74535,0,0,0,0,0,,,,,,2,0,2
+489212,2011,Pakistan,18,Saeed Ajmal,05d74535,R Rampaul,d68e7f48,Wahab Riaz,b3118300,0,0,0,0,0,,,,,,1,0,1
+489212,2011,Pakistan,18,Wahab Riaz,b3118300,R Rampaul,d68e7f48,Saeed Ajmal,05d74535,0,0,0,0,1,Wahab Riaz,b3118300,DJG Sammy,c03c6200,caught,0,0,0
+489212,2011,Pakistan,18,Saeed Ajmal,05d74535,R Rampaul,d68e7f48,Junaid Khan,086f5984,0,0,0,0,0,,,,,,2,0,2
+489212,2011,Pakistan,18,Saeed Ajmal,05d74535,R Rampaul,d68e7f48,Junaid Khan,086f5984,0,0,0,0,0,,,,,,4,0,4
+489212,2011,Pakistan,18,Saeed Ajmal,05d74535,R Rampaul,d68e7f48,Junaid Khan,086f5984,0,0,0,0,0,,,,,,4,0,4
+489212,2011,Pakistan,18,Saeed Ajmal,05d74535,R Rampaul,d68e7f48,Junaid Khan,086f5984,0,1,0,0,0,,,,,,1,1,2
+489212,2011,Pakistan,18,Junaid Khan,086f5984,R Rampaul,d68e7f48,Saeed Ajmal,05d74535,0,0,0,0,0,,,,,,2,0,2
+489212,2011,Pakistan,19,Saeed Ajmal,05d74535,AD Russell,bbd41817,Junaid Khan,086f5984,1,0,0,0,0,,,,,,0,1,1
+489212,2011,Pakistan,19,Saeed Ajmal,05d74535,AD Russell,bbd41817,Junaid Khan,086f5984,0,0,0,0,0,,,,,,1,0,1
+489212,2011,Pakistan,19,Junaid Khan,086f5984,AD Russell,bbd41817,Saeed Ajmal,05d74535,0,0,0,0,0,,,,,,0,0,0
+489212,2011,Pakistan,19,Junaid Khan,086f5984,AD Russell,bbd41817,Saeed Ajmal,05d74535,0,0,0,0,0,,,,,,1,0,1
+489212,2011,Pakistan,19,Saeed Ajmal,05d74535,AD Russell,bbd41817,Junaid Khan,086f5984,0,0,0,0,0,,,,,,1,0,1
+489212,2011,Pakistan,19,Junaid Khan,086f5984,AD Russell,bbd41817,Saeed Ajmal,05d74535,0,0,0,1,0,,,,,,0,1,1
+489212,2011,Pakistan,19,Saeed Ajmal,05d74535,AD Russell,bbd41817,Junaid Khan,086f5984,0,0,0,0,0,,,,,,1,0,1

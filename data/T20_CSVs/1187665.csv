@@ -1,0 +1,234 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1187665,2019/20,New Zealand,0,MJ Guptill,2be41edb,SM Curran,e94915e6,C Munro,af2c687b,0,0,0,0,0,,,,,,0,0,0
+1187665,2019/20,New Zealand,0,MJ Guptill,2be41edb,SM Curran,e94915e6,C Munro,af2c687b,0,0,0,0,0,,,,,,0,0,0
+1187665,2019/20,New Zealand,0,MJ Guptill,2be41edb,SM Curran,e94915e6,C Munro,af2c687b,0,0,1,0,0,,,,,,0,1,1
+1187665,2019/20,New Zealand,0,C Munro,af2c687b,SM Curran,e94915e6,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,New Zealand,0,MJ Guptill,2be41edb,SM Curran,e94915e6,C Munro,af2c687b,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,New Zealand,0,C Munro,af2c687b,SM Curran,e94915e6,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,New Zealand,1,C Munro,af2c687b,TK Curran,e86754b2,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,0,0,0
+1187665,2019/20,New Zealand,1,C Munro,af2c687b,TK Curran,e86754b2,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,0,0,0
+1187665,2019/20,New Zealand,1,C Munro,af2c687b,TK Curran,e86754b2,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,0,0,0
+1187665,2019/20,New Zealand,1,C Munro,af2c687b,TK Curran,e86754b2,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,0,0,0
+1187665,2019/20,New Zealand,1,C Munro,af2c687b,TK Curran,e86754b2,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,0,0,0
+1187665,2019/20,New Zealand,1,C Munro,af2c687b,TK Curran,e86754b2,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,0,0,0
+1187665,2019/20,New Zealand,2,MJ Guptill,2be41edb,SM Curran,e94915e6,C Munro,af2c687b,0,0,0,0,0,,,,,,0,0,0
+1187665,2019/20,New Zealand,2,MJ Guptill,2be41edb,SM Curran,e94915e6,C Munro,af2c687b,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,New Zealand,2,C Munro,af2c687b,SM Curran,e94915e6,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,0,0,0
+1187665,2019/20,New Zealand,2,C Munro,af2c687b,SM Curran,e94915e6,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,New Zealand,2,MJ Guptill,2be41edb,SM Curran,e94915e6,C Munro,af2c687b,0,0,0,0,1,MJ Guptill,2be41edb,,,bowled,0,0,0
+1187665,2019/20,New Zealand,2,TL Seifert,4663bd23,SM Curran,e94915e6,C Munro,af2c687b,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,New Zealand,3,TL Seifert,4663bd23,TK Curran,e86754b2,C Munro,af2c687b,0,0,0,0,0,,,,,,0,0,0
+1187665,2019/20,New Zealand,3,TL Seifert,4663bd23,TK Curran,e86754b2,C Munro,af2c687b,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,New Zealand,3,C Munro,af2c687b,TK Curran,e86754b2,TL Seifert,4663bd23,1,0,0,0,0,,,,,,0,1,1
+1187665,2019/20,New Zealand,3,C Munro,af2c687b,TK Curran,e86754b2,TL Seifert,4663bd23,0,0,0,0,0,,,,,,4,0,4
+1187665,2019/20,New Zealand,3,C Munro,af2c687b,TK Curran,e86754b2,TL Seifert,4663bd23,0,0,0,0,0,,,,,,0,0,0
+1187665,2019/20,New Zealand,3,C Munro,af2c687b,TK Curran,e86754b2,TL Seifert,4663bd23,0,0,1,0,0,,,,,,0,1,1
+1187665,2019/20,New Zealand,3,TL Seifert,4663bd23,TK Curran,e86754b2,C Munro,af2c687b,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,New Zealand,4,TL Seifert,4663bd23,SM Curran,e94915e6,C Munro,af2c687b,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,New Zealand,4,C Munro,af2c687b,SM Curran,e94915e6,TL Seifert,4663bd23,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,New Zealand,4,TL Seifert,4663bd23,SM Curran,e94915e6,C Munro,af2c687b,0,0,0,0,0,,,,,,6,0,6
+1187665,2019/20,New Zealand,4,TL Seifert,4663bd23,SM Curran,e94915e6,C Munro,af2c687b,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,New Zealand,4,C Munro,af2c687b,SM Curran,e94915e6,TL Seifert,4663bd23,0,0,0,0,0,,,,,,6,0,6
+1187665,2019/20,New Zealand,4,C Munro,af2c687b,SM Curran,e94915e6,TL Seifert,4663bd23,0,0,0,0,0,,,,,,6,0,6
+1187665,2019/20,New Zealand,5,TL Seifert,4663bd23,CJ Jordan,ffe699c0,C Munro,af2c687b,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,New Zealand,5,C Munro,af2c687b,CJ Jordan,ffe699c0,TL Seifert,4663bd23,0,0,0,0,0,,,,,,0,0,0
+1187665,2019/20,New Zealand,5,C Munro,af2c687b,CJ Jordan,ffe699c0,TL Seifert,4663bd23,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,New Zealand,5,TL Seifert,4663bd23,CJ Jordan,ffe699c0,C Munro,af2c687b,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,New Zealand,5,C Munro,af2c687b,CJ Jordan,ffe699c0,TL Seifert,4663bd23,0,0,0,0,0,,,,,,0,0,0
+1187665,2019/20,New Zealand,5,C Munro,af2c687b,CJ Jordan,ffe699c0,TL Seifert,4663bd23,0,0,0,0,1,C Munro,af2c687b,EJG Morgan,d2a6c0e6,caught,0,0,0
+1187665,2019/20,New Zealand,6,TL Seifert,4663bd23,AU Rashid,249d60c9,C de Grandhomme,94d7f855,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,New Zealand,6,C de Grandhomme,94d7f855,AU Rashid,249d60c9,TL Seifert,4663bd23,0,0,0,0,0,,,,,,4,0,4
+1187665,2019/20,New Zealand,6,C de Grandhomme,94d7f855,AU Rashid,249d60c9,TL Seifert,4663bd23,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,New Zealand,6,TL Seifert,4663bd23,AU Rashid,249d60c9,C de Grandhomme,94d7f855,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,New Zealand,6,C de Grandhomme,94d7f855,AU Rashid,249d60c9,TL Seifert,4663bd23,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,New Zealand,6,TL Seifert,4663bd23,AU Rashid,249d60c9,C de Grandhomme,94d7f855,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,New Zealand,7,TL Seifert,4663bd23,PR Brown,1efd12d1,C de Grandhomme,94d7f855,0,0,0,0,0,,,,,,3,0,3
+1187665,2019/20,New Zealand,7,C de Grandhomme,94d7f855,PR Brown,1efd12d1,TL Seifert,4663bd23,0,0,0,0,0,,,,,,0,0,0
+1187665,2019/20,New Zealand,7,C de Grandhomme,94d7f855,PR Brown,1efd12d1,TL Seifert,4663bd23,0,0,0,0,0,,,,,,0,0,0
+1187665,2019/20,New Zealand,7,C de Grandhomme,94d7f855,PR Brown,1efd12d1,TL Seifert,4663bd23,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,New Zealand,7,TL Seifert,4663bd23,PR Brown,1efd12d1,C de Grandhomme,94d7f855,0,0,0,0,0,,,,,,0,0,0
+1187665,2019/20,New Zealand,7,TL Seifert,4663bd23,PR Brown,1efd12d1,C de Grandhomme,94d7f855,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,New Zealand,8,TL Seifert,4663bd23,AU Rashid,249d60c9,C de Grandhomme,94d7f855,0,0,0,0,0,,,,,,4,0,4
+1187665,2019/20,New Zealand,8,TL Seifert,4663bd23,AU Rashid,249d60c9,C de Grandhomme,94d7f855,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,New Zealand,8,C de Grandhomme,94d7f855,AU Rashid,249d60c9,TL Seifert,4663bd23,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,New Zealand,8,TL Seifert,4663bd23,AU Rashid,249d60c9,C de Grandhomme,94d7f855,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,New Zealand,8,C de Grandhomme,94d7f855,AU Rashid,249d60c9,TL Seifert,4663bd23,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,New Zealand,8,TL Seifert,4663bd23,AU Rashid,249d60c9,C de Grandhomme,94d7f855,0,0,0,0,0,,,,,,0,0,0
+1187665,2019/20,New Zealand,9,C de Grandhomme,94d7f855,PR Brown,1efd12d1,TL Seifert,4663bd23,0,0,0,0,0,,,,,,2,0,2
+1187665,2019/20,New Zealand,9,C de Grandhomme,94d7f855,PR Brown,1efd12d1,TL Seifert,4663bd23,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,New Zealand,9,TL Seifert,4663bd23,PR Brown,1efd12d1,C de Grandhomme,94d7f855,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,New Zealand,9,C de Grandhomme,94d7f855,PR Brown,1efd12d1,TL Seifert,4663bd23,0,0,0,0,0,,,,,,0,0,0
+1187665,2019/20,New Zealand,9,C de Grandhomme,94d7f855,PR Brown,1efd12d1,TL Seifert,4663bd23,0,0,0,0,0,,,,,,6,0,6
+1187665,2019/20,New Zealand,9,C de Grandhomme,94d7f855,PR Brown,1efd12d1,TL Seifert,4663bd23,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,New Zealand,10,C de Grandhomme,94d7f855,AU Rashid,249d60c9,TL Seifert,4663bd23,0,0,0,0,1,C de Grandhomme,94d7f855,JM Vince,a15618fe,caught,0,0,0
+1187665,2019/20,New Zealand,10,TL Seifert,4663bd23,AU Rashid,249d60c9,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,New Zealand,10,LRPL Taylor,b61a3e1a,AU Rashid,249d60c9,TL Seifert,4663bd23,0,0,0,0,0,,,,,,0,0,0
+1187665,2019/20,New Zealand,10,LRPL Taylor,b61a3e1a,AU Rashid,249d60c9,TL Seifert,4663bd23,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,New Zealand,10,TL Seifert,4663bd23,AU Rashid,249d60c9,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,New Zealand,10,LRPL Taylor,b61a3e1a,AU Rashid,249d60c9,TL Seifert,4663bd23,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,New Zealand,11,LRPL Taylor,b61a3e1a,SM Curran,e94915e6,TL Seifert,4663bd23,0,0,0,0,0,,,,,,2,0,2
+1187665,2019/20,New Zealand,11,LRPL Taylor,b61a3e1a,SM Curran,e94915e6,TL Seifert,4663bd23,0,0,0,0,0,,,,,,0,0,0
+1187665,2019/20,New Zealand,11,LRPL Taylor,b61a3e1a,SM Curran,e94915e6,TL Seifert,4663bd23,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,New Zealand,11,TL Seifert,4663bd23,SM Curran,e94915e6,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,New Zealand,11,LRPL Taylor,b61a3e1a,SM Curran,e94915e6,TL Seifert,4663bd23,0,0,0,0,0,,,,,,2,0,2
+1187665,2019/20,New Zealand,11,LRPL Taylor,b61a3e1a,SM Curran,e94915e6,TL Seifert,4663bd23,0,0,1,0,0,,,,,,0,1,1
+1187665,2019/20,New Zealand,12,LRPL Taylor,b61a3e1a,AU Rashid,249d60c9,TL Seifert,4663bd23,0,0,0,0,0,,,,,,2,0,2
+1187665,2019/20,New Zealand,12,LRPL Taylor,b61a3e1a,AU Rashid,249d60c9,TL Seifert,4663bd23,0,0,0,0,0,,,,,,4,0,4
+1187665,2019/20,New Zealand,12,LRPL Taylor,b61a3e1a,AU Rashid,249d60c9,TL Seifert,4663bd23,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,New Zealand,12,TL Seifert,4663bd23,AU Rashid,249d60c9,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,New Zealand,12,LRPL Taylor,b61a3e1a,AU Rashid,249d60c9,TL Seifert,4663bd23,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,New Zealand,12,TL Seifert,4663bd23,AU Rashid,249d60c9,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,New Zealand,13,TL Seifert,4663bd23,CJ Jordan,ffe699c0,LRPL Taylor,b61a3e1a,0,0,0,0,1,TL Seifert,4663bd23,JM Bairstow,abb83e27,caught,0,0,0
+1187665,2019/20,New Zealand,13,LRPL Taylor,b61a3e1a,CJ Jordan,ffe699c0,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,New Zealand,13,DJ Mitchell,eade4650,CJ Jordan,ffe699c0,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,New Zealand,13,LRPL Taylor,b61a3e1a,CJ Jordan,ffe699c0,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,0,0,0
+1187665,2019/20,New Zealand,13,LRPL Taylor,b61a3e1a,CJ Jordan,ffe699c0,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,New Zealand,13,DJ Mitchell,eade4650,CJ Jordan,ffe699c0,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,0,0,0
+1187665,2019/20,New Zealand,14,LRPL Taylor,b61a3e1a,TK Curran,e86754b2,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,New Zealand,14,DJ Mitchell,eade4650,TK Curran,e86754b2,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,New Zealand,14,LRPL Taylor,b61a3e1a,TK Curran,e86754b2,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,4,0,4
+1187665,2019/20,New Zealand,14,LRPL Taylor,b61a3e1a,TK Curran,e86754b2,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,New Zealand,14,DJ Mitchell,eade4650,TK Curran,e86754b2,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,2,0,2
+1187665,2019/20,New Zealand,14,DJ Mitchell,eade4650,TK Curran,e86754b2,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,0,0,0
+1187665,2019/20,New Zealand,15,LRPL Taylor,b61a3e1a,PR Brown,1efd12d1,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,New Zealand,15,DJ Mitchell,eade4650,PR Brown,1efd12d1,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,New Zealand,15,LRPL Taylor,b61a3e1a,PR Brown,1efd12d1,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,New Zealand,15,DJ Mitchell,eade4650,PR Brown,1efd12d1,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,New Zealand,15,LRPL Taylor,b61a3e1a,PR Brown,1efd12d1,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,New Zealand,15,DJ Mitchell,eade4650,PR Brown,1efd12d1,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,6,0,6
+1187665,2019/20,New Zealand,16,LRPL Taylor,b61a3e1a,CJ Jordan,ffe699c0,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,0,0,0
+1187665,2019/20,New Zealand,16,LRPL Taylor,b61a3e1a,CJ Jordan,ffe699c0,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,New Zealand,16,DJ Mitchell,eade4650,CJ Jordan,ffe699c0,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,New Zealand,16,LRPL Taylor,b61a3e1a,CJ Jordan,ffe699c0,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,4,0,4
+1187665,2019/20,New Zealand,16,LRPL Taylor,b61a3e1a,CJ Jordan,ffe699c0,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,New Zealand,16,DJ Mitchell,eade4650,CJ Jordan,ffe699c0,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,6,0,6
+1187665,2019/20,New Zealand,17,LRPL Taylor,b61a3e1a,TK Curran,e86754b2,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,New Zealand,17,DJ Mitchell,eade4650,TK Curran,e86754b2,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,New Zealand,17,LRPL Taylor,b61a3e1a,TK Curran,e86754b2,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,New Zealand,17,DJ Mitchell,eade4650,TK Curran,e86754b2,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,4,0,4
+1187665,2019/20,New Zealand,17,DJ Mitchell,eade4650,TK Curran,e86754b2,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,New Zealand,17,LRPL Taylor,b61a3e1a,TK Curran,e86754b2,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,New Zealand,18,LRPL Taylor,b61a3e1a,CJ Jordan,ffe699c0,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,0,0,0
+1187665,2019/20,New Zealand,18,LRPL Taylor,b61a3e1a,CJ Jordan,ffe699c0,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,New Zealand,18,DJ Mitchell,eade4650,CJ Jordan,ffe699c0,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,New Zealand,18,LRPL Taylor,b61a3e1a,CJ Jordan,ffe699c0,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,6,0,6
+1187665,2019/20,New Zealand,18,LRPL Taylor,b61a3e1a,CJ Jordan,ffe699c0,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,0,0,0
+1187665,2019/20,New Zealand,18,LRPL Taylor,b61a3e1a,CJ Jordan,ffe699c0,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,New Zealand,19,LRPL Taylor,b61a3e1a,PR Brown,1efd12d1,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,New Zealand,19,DJ Mitchell,eade4650,PR Brown,1efd12d1,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,New Zealand,19,LRPL Taylor,b61a3e1a,PR Brown,1efd12d1,DJ Mitchell,eade4650,0,0,0,0,1,LRPL Taylor,b61a3e1a,JM Bairstow,abb83e27,caught,0,0,0
+1187665,2019/20,New Zealand,19,DJ Mitchell,eade4650,PR Brown,1efd12d1,MJ Santner,e4a0deae,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,New Zealand,19,MJ Santner,e4a0deae,PR Brown,1efd12d1,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,New Zealand,19,DJ Mitchell,eade4650,PR Brown,1efd12d1,MJ Santner,e4a0deae,0,0,0,0,0,,,,,,2,0,2
+1187665,2019/20,England,0,JM Bairstow,abb83e27,TG Southee,13c35c9e,DJ Malan,ad9c32a2,0,0,0,0,0,,,,,,0,0,0
+1187665,2019/20,England,0,JM Bairstow,abb83e27,TG Southee,13c35c9e,DJ Malan,ad9c32a2,0,0,0,0,0,,,,,,0,0,0
+1187665,2019/20,England,0,JM Bairstow,abb83e27,TG Southee,13c35c9e,DJ Malan,ad9c32a2,0,0,0,0,0,,,,,,0,0,0
+1187665,2019/20,England,0,JM Bairstow,abb83e27,TG Southee,13c35c9e,DJ Malan,ad9c32a2,0,0,0,0,0,,,,,,0,0,0
+1187665,2019/20,England,0,JM Bairstow,abb83e27,TG Southee,13c35c9e,DJ Malan,ad9c32a2,0,0,0,0,0,,,,,,0,0,0
+1187665,2019/20,England,0,JM Bairstow,abb83e27,TG Southee,13c35c9e,DJ Malan,ad9c32a2,1,0,0,0,0,,,,,,0,1,1
+1187665,2019/20,England,0,JM Bairstow,abb83e27,TG Southee,13c35c9e,DJ Malan,ad9c32a2,0,0,0,0,0,,,,,,0,0,0
+1187665,2019/20,England,1,DJ Malan,ad9c32a2,LH Ferguson,2f9d0389,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,England,1,JM Bairstow,abb83e27,LH Ferguson,2f9d0389,DJ Malan,ad9c32a2,0,0,0,0,0,,,,,,0,0,0
+1187665,2019/20,England,1,JM Bairstow,abb83e27,LH Ferguson,2f9d0389,DJ Malan,ad9c32a2,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,England,1,DJ Malan,ad9c32a2,LH Ferguson,2f9d0389,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,0,0,0
+1187665,2019/20,England,1,DJ Malan,ad9c32a2,LH Ferguson,2f9d0389,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,0,0,0
+1187665,2019/20,England,1,DJ Malan,ad9c32a2,LH Ferguson,2f9d0389,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,0,0,0
+1187665,2019/20,England,2,JM Bairstow,abb83e27,SC Kuggeleijn,fef92afc,DJ Malan,ad9c32a2,0,0,0,0,0,,,,,,4,0,4
+1187665,2019/20,England,2,JM Bairstow,abb83e27,SC Kuggeleijn,fef92afc,DJ Malan,ad9c32a2,0,0,0,0,0,,,,,,0,0,0
+1187665,2019/20,England,2,JM Bairstow,abb83e27,SC Kuggeleijn,fef92afc,DJ Malan,ad9c32a2,0,0,0,0,0,,,,,,6,0,6
+1187665,2019/20,England,2,JM Bairstow,abb83e27,SC Kuggeleijn,fef92afc,DJ Malan,ad9c32a2,0,0,0,0,0,,,,,,0,0,0
+1187665,2019/20,England,2,JM Bairstow,abb83e27,SC Kuggeleijn,fef92afc,DJ Malan,ad9c32a2,0,0,0,0,0,,,,,,4,0,4
+1187665,2019/20,England,2,JM Bairstow,abb83e27,SC Kuggeleijn,fef92afc,DJ Malan,ad9c32a2,0,0,0,0,0,,,,,,4,0,4
+1187665,2019/20,England,3,DJ Malan,ad9c32a2,LH Ferguson,2f9d0389,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,4,0,4
+1187665,2019/20,England,3,DJ Malan,ad9c32a2,LH Ferguson,2f9d0389,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,0,0,0
+1187665,2019/20,England,3,DJ Malan,ad9c32a2,LH Ferguson,2f9d0389,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,England,3,JM Bairstow,abb83e27,LH Ferguson,2f9d0389,DJ Malan,ad9c32a2,0,0,0,0,0,,,,,,0,0,0
+1187665,2019/20,England,3,JM Bairstow,abb83e27,LH Ferguson,2f9d0389,DJ Malan,ad9c32a2,0,0,0,0,0,,,,,,0,0,0
+1187665,2019/20,England,3,JM Bairstow,abb83e27,LH Ferguson,2f9d0389,DJ Malan,ad9c32a2,0,0,0,0,0,,,,,,0,0,0
+1187665,2019/20,England,4,DJ Malan,ad9c32a2,TG Southee,13c35c9e,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,0,0,0
+1187665,2019/20,England,4,DJ Malan,ad9c32a2,TG Southee,13c35c9e,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,0,0,0
+1187665,2019/20,England,4,DJ Malan,ad9c32a2,TG Southee,13c35c9e,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,0,0,0
+1187665,2019/20,England,4,DJ Malan,ad9c32a2,TG Southee,13c35c9e,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,4,0,4
+1187665,2019/20,England,4,DJ Malan,ad9c32a2,TG Southee,13c35c9e,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,England,4,JM Bairstow,abb83e27,TG Southee,13c35c9e,DJ Malan,ad9c32a2,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,England,5,JM Bairstow,abb83e27,MJ Santner,e4a0deae,DJ Malan,ad9c32a2,0,0,0,0,0,,,,,,4,0,4
+1187665,2019/20,England,5,JM Bairstow,abb83e27,MJ Santner,e4a0deae,DJ Malan,ad9c32a2,0,0,0,0,0,,,,,,0,0,0
+1187665,2019/20,England,5,JM Bairstow,abb83e27,MJ Santner,e4a0deae,DJ Malan,ad9c32a2,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,England,5,DJ Malan,ad9c32a2,MJ Santner,e4a0deae,JM Bairstow,abb83e27,0,0,0,0,1,DJ Malan,ad9c32a2,IS Sodhi,641ac5ff,caught,0,0,0
+1187665,2019/20,England,5,JM Vince,a15618fe,MJ Santner,e4a0deae,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,4,0,4
+1187665,2019/20,England,5,JM Vince,a15618fe,MJ Santner,e4a0deae,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,England,6,JM Vince,a15618fe,IS Sodhi,641ac5ff,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,0,0,0
+1187665,2019/20,England,6,JM Vince,a15618fe,IS Sodhi,641ac5ff,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,4,0,4
+1187665,2019/20,England,6,JM Vince,a15618fe,IS Sodhi,641ac5ff,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,0,0,0
+1187665,2019/20,England,6,JM Vince,a15618fe,IS Sodhi,641ac5ff,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,England,6,JM Bairstow,abb83e27,IS Sodhi,641ac5ff,JM Vince,a15618fe,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,England,6,JM Vince,a15618fe,IS Sodhi,641ac5ff,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,England,7,JM Vince,a15618fe,MJ Santner,e4a0deae,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,England,7,JM Bairstow,abb83e27,MJ Santner,e4a0deae,JM Vince,a15618fe,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,England,7,JM Vince,a15618fe,MJ Santner,e4a0deae,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,2,0,2
+1187665,2019/20,England,7,JM Vince,a15618fe,MJ Santner,e4a0deae,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,0,0,0
+1187665,2019/20,England,7,JM Vince,a15618fe,MJ Santner,e4a0deae,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,0,0,0
+1187665,2019/20,England,7,JM Vince,a15618fe,MJ Santner,e4a0deae,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,0,0,0
+1187665,2019/20,England,8,JM Bairstow,abb83e27,IS Sodhi,641ac5ff,JM Vince,a15618fe,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,England,8,JM Vince,a15618fe,IS Sodhi,641ac5ff,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,0,0,0
+1187665,2019/20,England,8,JM Vince,a15618fe,IS Sodhi,641ac5ff,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,4,0,4
+1187665,2019/20,England,8,JM Vince,a15618fe,IS Sodhi,641ac5ff,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,0,0,0
+1187665,2019/20,England,8,JM Vince,a15618fe,IS Sodhi,641ac5ff,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,England,8,JM Bairstow,abb83e27,IS Sodhi,641ac5ff,JM Vince,a15618fe,0,0,0,0,0,,,,,,4,0,4
+1187665,2019/20,England,9,JM Vince,a15618fe,MJ Santner,e4a0deae,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,England,9,JM Bairstow,abb83e27,MJ Santner,e4a0deae,JM Vince,a15618fe,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,England,9,JM Vince,a15618fe,MJ Santner,e4a0deae,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,England,9,JM Bairstow,abb83e27,MJ Santner,e4a0deae,JM Vince,a15618fe,0,0,0,0,0,,,,,,2,0,2
+1187665,2019/20,England,9,JM Bairstow,abb83e27,MJ Santner,e4a0deae,JM Vince,a15618fe,0,0,0,0,1,JM Bairstow,abb83e27,MJ Guptill,2be41edb,caught,0,0,0
+1187665,2019/20,England,9,JM Vince,a15618fe,MJ Santner,e4a0deae,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,2,0,2
+1187665,2019/20,England,10,EJG Morgan,d2a6c0e6,SC Kuggeleijn,fef92afc,JM Vince,a15618fe,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,England,10,JM Vince,a15618fe,SC Kuggeleijn,fef92afc,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,England,10,EJG Morgan,d2a6c0e6,SC Kuggeleijn,fef92afc,JM Vince,a15618fe,0,0,0,0,0,,,,,,0,0,0
+1187665,2019/20,England,10,EJG Morgan,d2a6c0e6,SC Kuggeleijn,fef92afc,JM Vince,a15618fe,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,England,10,JM Vince,a15618fe,SC Kuggeleijn,fef92afc,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,England,10,EJG Morgan,d2a6c0e6,SC Kuggeleijn,fef92afc,JM Vince,a15618fe,0,0,0,0,0,,,,,,0,0,0
+1187665,2019/20,England,11,JM Vince,a15618fe,IS Sodhi,641ac5ff,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,0,0,0
+1187665,2019/20,England,11,JM Vince,a15618fe,IS Sodhi,641ac5ff,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,England,11,EJG Morgan,d2a6c0e6,IS Sodhi,641ac5ff,JM Vince,a15618fe,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,England,11,JM Vince,a15618fe,IS Sodhi,641ac5ff,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,4,0,4
+1187665,2019/20,England,11,JM Vince,a15618fe,IS Sodhi,641ac5ff,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,4,0,4
+1187665,2019/20,England,11,JM Vince,a15618fe,IS Sodhi,641ac5ff,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,England,12,JM Vince,a15618fe,SC Kuggeleijn,fef92afc,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,0,0,0
+1187665,2019/20,England,12,JM Vince,a15618fe,SC Kuggeleijn,fef92afc,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,6,0,6
+1187665,2019/20,England,12,JM Vince,a15618fe,SC Kuggeleijn,fef92afc,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,England,12,EJG Morgan,d2a6c0e6,SC Kuggeleijn,fef92afc,JM Vince,a15618fe,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,England,12,JM Vince,a15618fe,SC Kuggeleijn,fef92afc,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,4,0,4
+1187665,2019/20,England,12,JM Vince,a15618fe,SC Kuggeleijn,fef92afc,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,England,13,JM Vince,a15618fe,LH Ferguson,2f9d0389,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,0,0,0
+1187665,2019/20,England,13,JM Vince,a15618fe,LH Ferguson,2f9d0389,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,4,0,4
+1187665,2019/20,England,13,JM Vince,a15618fe,LH Ferguson,2f9d0389,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,England,13,EJG Morgan,d2a6c0e6,LH Ferguson,2f9d0389,JM Vince,a15618fe,0,0,0,0,0,,,,,,4,0,4
+1187665,2019/20,England,13,EJG Morgan,d2a6c0e6,LH Ferguson,2f9d0389,JM Vince,a15618fe,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,England,13,JM Vince,a15618fe,LH Ferguson,2f9d0389,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,0,0,0
+1187665,2019/20,England,14,EJG Morgan,d2a6c0e6,TG Southee,13c35c9e,JM Vince,a15618fe,0,0,0,0,0,,,,,,4,0,4
+1187665,2019/20,England,14,EJG Morgan,d2a6c0e6,TG Southee,13c35c9e,JM Vince,a15618fe,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,England,14,JM Vince,a15618fe,TG Southee,13c35c9e,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,6,0,6
+1187665,2019/20,England,14,JM Vince,a15618fe,TG Southee,13c35c9e,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,England,14,EJG Morgan,d2a6c0e6,TG Southee,13c35c9e,JM Vince,a15618fe,0,0,0,0,0,,,,,,0,0,0
+1187665,2019/20,England,14,EJG Morgan,d2a6c0e6,TG Southee,13c35c9e,JM Vince,a15618fe,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,England,15,EJG Morgan,d2a6c0e6,MJ Santner,e4a0deae,JM Vince,a15618fe,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,England,15,JM Vince,a15618fe,MJ Santner,e4a0deae,EJG Morgan,d2a6c0e6,0,0,0,0,1,JM Vince,a15618fe,MJ Guptill,2be41edb,caught,0,0,0
+1187665,2019/20,England,15,SW Billings,c16d4035,MJ Santner,e4a0deae,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,0,0,0
+1187665,2019/20,England,15,SW Billings,c16d4035,MJ Santner,e4a0deae,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,0,0,0
+1187665,2019/20,England,15,SW Billings,c16d4035,MJ Santner,e4a0deae,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,0,0,0
+1187665,2019/20,England,15,SW Billings,c16d4035,MJ Santner,e4a0deae,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,England,16,SW Billings,c16d4035,IS Sodhi,641ac5ff,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,England,16,EJG Morgan,d2a6c0e6,IS Sodhi,641ac5ff,SW Billings,c16d4035,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,England,16,SW Billings,c16d4035,IS Sodhi,641ac5ff,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,4,0,4
+1187665,2019/20,England,16,SW Billings,c16d4035,IS Sodhi,641ac5ff,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,2,0,2
+1187665,2019/20,England,16,SW Billings,c16d4035,IS Sodhi,641ac5ff,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,England,16,EJG Morgan,d2a6c0e6,IS Sodhi,641ac5ff,SW Billings,c16d4035,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,England,17,EJG Morgan,d2a6c0e6,LH Ferguson,2f9d0389,SW Billings,c16d4035,0,0,0,0,0,,,,,,4,0,4
+1187665,2019/20,England,17,EJG Morgan,d2a6c0e6,LH Ferguson,2f9d0389,SW Billings,c16d4035,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,England,17,SW Billings,c16d4035,LH Ferguson,2f9d0389,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,0,0,0
+1187665,2019/20,England,17,SW Billings,c16d4035,LH Ferguson,2f9d0389,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,4,0,4
+1187665,2019/20,England,17,SW Billings,c16d4035,LH Ferguson,2f9d0389,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,England,17,EJG Morgan,d2a6c0e6,LH Ferguson,2f9d0389,SW Billings,c16d4035,0,0,0,0,0,,,,,,1,0,1
+1187665,2019/20,England,18,EJG Morgan,d2a6c0e6,TG Southee,13c35c9e,SW Billings,c16d4035,0,0,0,0,0,,,,,,0,0,0
+1187665,2019/20,England,18,EJG Morgan,d2a6c0e6,TG Southee,13c35c9e,SW Billings,c16d4035,0,0,0,0,0,,,,,,4,0,4
+1187665,2019/20,England,18,EJG Morgan,d2a6c0e6,TG Southee,13c35c9e,SW Billings,c16d4035,0,0,0,0,0,,,,,,6,0,6

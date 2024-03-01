@@ -1,0 +1,253 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1199527,2019/20,Hong Kong,0,Nizakat Khan,e3eb9e46,JOA Gordon,bb9b51f4,Ahsan Abbasi,4f21dc48,0,0,0,0,0,,,,,,0,0,0
+1199527,2019/20,Hong Kong,0,Nizakat Khan,e3eb9e46,JOA Gordon,bb9b51f4,Ahsan Abbasi,4f21dc48,1,0,0,0,0,,,,,,0,1,1
+1199527,2019/20,Hong Kong,0,Nizakat Khan,e3eb9e46,JOA Gordon,bb9b51f4,Ahsan Abbasi,4f21dc48,0,0,0,0,0,,,,,,1,0,1
+1199527,2019/20,Hong Kong,0,Ahsan Abbasi,4f21dc48,JOA Gordon,bb9b51f4,Nizakat Khan,e3eb9e46,0,0,0,0,0,,,,,,4,0,4
+1199527,2019/20,Hong Kong,0,Ahsan Abbasi,4f21dc48,JOA Gordon,bb9b51f4,Nizakat Khan,e3eb9e46,0,0,0,0,0,,,,,,1,0,1
+1199527,2019/20,Hong Kong,0,Nizakat Khan,e3eb9e46,JOA Gordon,bb9b51f4,Ahsan Abbasi,4f21dc48,0,0,0,0,0,,,,,,1,0,1
+1199527,2019/20,Hong Kong,0,Ahsan Abbasi,4f21dc48,JOA Gordon,bb9b51f4,Nizakat Khan,e3eb9e46,0,0,0,0,0,,,,,,0,0,0
+1199527,2019/20,Hong Kong,1,Nizakat Khan,e3eb9e46,D Heyliger,f8c72766,Ahsan Abbasi,4f21dc48,0,0,0,0,0,,,,,,1,0,1
+1199527,2019/20,Hong Kong,1,Ahsan Abbasi,4f21dc48,D Heyliger,f8c72766,Nizakat Khan,e3eb9e46,1,0,0,0,0,,,,,,0,1,1
+1199527,2019/20,Hong Kong,1,Ahsan Abbasi,4f21dc48,D Heyliger,f8c72766,Nizakat Khan,e3eb9e46,0,0,0,0,0,,,,,,0,0,0
+1199527,2019/20,Hong Kong,1,Ahsan Abbasi,4f21dc48,D Heyliger,f8c72766,Nizakat Khan,e3eb9e46,0,0,0,0,0,,,,,,1,0,1
+1199527,2019/20,Hong Kong,1,Nizakat Khan,e3eb9e46,D Heyliger,f8c72766,Ahsan Abbasi,4f21dc48,0,0,1,0,0,,,,,,0,1,1
+1199527,2019/20,Hong Kong,1,Ahsan Abbasi,4f21dc48,D Heyliger,f8c72766,Nizakat Khan,e3eb9e46,0,0,0,0,0,,,,,,2,0,2
+1199527,2019/20,Hong Kong,1,Ahsan Abbasi,4f21dc48,D Heyliger,f8c72766,Nizakat Khan,e3eb9e46,0,0,0,0,0,,,,,,2,0,2
+1199527,2019/20,Hong Kong,2,Nizakat Khan,e3eb9e46,JOA Gordon,bb9b51f4,Ahsan Abbasi,4f21dc48,0,0,0,0,0,,,,,,0,0,0
+1199527,2019/20,Hong Kong,2,Nizakat Khan,e3eb9e46,JOA Gordon,bb9b51f4,Ahsan Abbasi,4f21dc48,0,0,0,0,0,,,,,,0,0,0
+1199527,2019/20,Hong Kong,2,Nizakat Khan,e3eb9e46,JOA Gordon,bb9b51f4,Ahsan Abbasi,4f21dc48,0,0,0,0,0,,,,,,4,0,4
+1199527,2019/20,Hong Kong,2,Nizakat Khan,e3eb9e46,JOA Gordon,bb9b51f4,Ahsan Abbasi,4f21dc48,0,0,0,0,1,Nizakat Khan,e3eb9e46,Ravinderpal Singh,f80682f8,caught,0,0,0
+1199527,2019/20,Hong Kong,2,Ahsan Abbasi,4f21dc48,JOA Gordon,bb9b51f4,Aizaz Khan,f6c2659d,0,0,0,0,0,,,,,,4,0,4
+1199527,2019/20,Hong Kong,2,Ahsan Abbasi,4f21dc48,JOA Gordon,bb9b51f4,Aizaz Khan,f6c2659d,0,0,0,0,0,,,,,,0,0,0
+1199527,2019/20,Hong Kong,3,Aizaz Khan,f6c2659d,Saad Bin Zafar,f28a60e0,Ahsan Abbasi,4f21dc48,0,0,0,0,0,,,,,,0,0,0
+1199527,2019/20,Hong Kong,3,Aizaz Khan,f6c2659d,Saad Bin Zafar,f28a60e0,Ahsan Abbasi,4f21dc48,0,0,0,0,1,Aizaz Khan,f6c2659d,D Heyliger,f8c72766,caught,0,0,0
+1199527,2019/20,Hong Kong,3,KD Shah,d5ae21a2,Saad Bin Zafar,f28a60e0,Ahsan Abbasi,4f21dc48,0,0,0,0,0,,,,,,0,0,0
+1199527,2019/20,Hong Kong,3,KD Shah,d5ae21a2,Saad Bin Zafar,f28a60e0,Ahsan Abbasi,4f21dc48,0,0,0,0,1,Ahsan Abbasi,4f21dc48,,,run out,0,0,0
+1199527,2019/20,Hong Kong,3,Waqas Barkat,a2eac9df,Saad Bin Zafar,f28a60e0,KD Shah,d5ae21a2,0,0,0,0,0,,,,,,0,0,0
+1199527,2019/20,Hong Kong,3,Waqas Barkat,a2eac9df,Saad Bin Zafar,f28a60e0,KD Shah,d5ae21a2,0,0,0,0,0,,,,,,0,0,0
+1199527,2019/20,Hong Kong,4,KD Shah,d5ae21a2,NR Kumar,b3bad3f2,Waqas Barkat,a2eac9df,0,0,0,0,0,,,,,,0,0,0
+1199527,2019/20,Hong Kong,4,KD Shah,d5ae21a2,NR Kumar,b3bad3f2,Waqas Barkat,a2eac9df,0,0,0,0,0,,,,,,0,0,0
+1199527,2019/20,Hong Kong,4,KD Shah,d5ae21a2,NR Kumar,b3bad3f2,Waqas Barkat,a2eac9df,0,0,0,0,0,,,,,,0,0,0
+1199527,2019/20,Hong Kong,4,KD Shah,d5ae21a2,NR Kumar,b3bad3f2,Waqas Barkat,a2eac9df,0,0,0,0,0,,,,,,2,0,2
+1199527,2019/20,Hong Kong,4,KD Shah,d5ae21a2,NR Kumar,b3bad3f2,Waqas Barkat,a2eac9df,0,0,0,0,0,,,,,,0,0,0
+1199527,2019/20,Hong Kong,4,KD Shah,d5ae21a2,NR Kumar,b3bad3f2,Waqas Barkat,a2eac9df,0,0,0,0,0,,,,,,1,0,1
+1199527,2019/20,Hong Kong,5,KD Shah,d5ae21a2,Saad Bin Zafar,f28a60e0,Waqas Barkat,a2eac9df,0,0,0,0,0,,,,,,0,0,0
+1199527,2019/20,Hong Kong,5,KD Shah,d5ae21a2,Saad Bin Zafar,f28a60e0,Waqas Barkat,a2eac9df,0,0,0,0,0,,,,,,1,0,1
+1199527,2019/20,Hong Kong,5,Waqas Barkat,a2eac9df,Saad Bin Zafar,f28a60e0,KD Shah,d5ae21a2,0,0,0,0,0,,,,,,0,0,0
+1199527,2019/20,Hong Kong,5,Waqas Barkat,a2eac9df,Saad Bin Zafar,f28a60e0,KD Shah,d5ae21a2,0,0,0,0,0,,,,,,4,0,4
+1199527,2019/20,Hong Kong,5,Waqas Barkat,a2eac9df,Saad Bin Zafar,f28a60e0,KD Shah,d5ae21a2,0,0,0,0,0,,,,,,0,0,0
+1199527,2019/20,Hong Kong,5,Waqas Barkat,a2eac9df,Saad Bin Zafar,f28a60e0,KD Shah,d5ae21a2,0,0,0,0,0,,,,,,1,0,1
+1199527,2019/20,Hong Kong,6,Waqas Barkat,a2eac9df,NR Kumar,b3bad3f2,KD Shah,d5ae21a2,0,0,0,0,0,,,,,,0,0,0
+1199527,2019/20,Hong Kong,6,Waqas Barkat,a2eac9df,NR Kumar,b3bad3f2,KD Shah,d5ae21a2,0,0,0,0,0,,,,,,1,0,1
+1199527,2019/20,Hong Kong,6,KD Shah,d5ae21a2,NR Kumar,b3bad3f2,Waqas Barkat,a2eac9df,0,0,0,1,0,,,,,,0,1,1
+1199527,2019/20,Hong Kong,6,Waqas Barkat,a2eac9df,NR Kumar,b3bad3f2,KD Shah,d5ae21a2,0,0,0,0,0,,,,,,1,0,1
+1199527,2019/20,Hong Kong,6,KD Shah,d5ae21a2,NR Kumar,b3bad3f2,Waqas Barkat,a2eac9df,0,0,0,0,0,,,,,,1,0,1
+1199527,2019/20,Hong Kong,6,Waqas Barkat,a2eac9df,NR Kumar,b3bad3f2,KD Shah,d5ae21a2,0,0,0,0,0,,,,,,2,0,2
+1199527,2019/20,Hong Kong,7,KD Shah,d5ae21a2,N Dutta,e258a603,Waqas Barkat,a2eac9df,0,0,0,0,0,,,,,,1,0,1
+1199527,2019/20,Hong Kong,7,Waqas Barkat,a2eac9df,N Dutta,e258a603,KD Shah,d5ae21a2,0,0,0,0,0,,,,,,1,0,1
+1199527,2019/20,Hong Kong,7,KD Shah,d5ae21a2,N Dutta,e258a603,Waqas Barkat,a2eac9df,0,0,0,0,0,,,,,,0,0,0
+1199527,2019/20,Hong Kong,7,KD Shah,d5ae21a2,N Dutta,e258a603,Waqas Barkat,a2eac9df,0,0,0,0,0,,,,,,2,0,2
+1199527,2019/20,Hong Kong,7,KD Shah,d5ae21a2,N Dutta,e258a603,Waqas Barkat,a2eac9df,0,0,0,0,0,,,,,,0,0,0
+1199527,2019/20,Hong Kong,7,KD Shah,d5ae21a2,N Dutta,e258a603,Waqas Barkat,a2eac9df,0,0,0,0,0,,,,,,0,0,0
+1199527,2019/20,Hong Kong,8,Waqas Barkat,a2eac9df,NR Kumar,b3bad3f2,KD Shah,d5ae21a2,0,0,0,0,0,,,,,,1,0,1
+1199527,2019/20,Hong Kong,8,KD Shah,d5ae21a2,NR Kumar,b3bad3f2,Waqas Barkat,a2eac9df,0,0,0,0,0,,,,,,1,0,1
+1199527,2019/20,Hong Kong,8,Waqas Barkat,a2eac9df,NR Kumar,b3bad3f2,KD Shah,d5ae21a2,0,0,0,0,0,,,,,,2,0,2
+1199527,2019/20,Hong Kong,8,Waqas Barkat,a2eac9df,NR Kumar,b3bad3f2,KD Shah,d5ae21a2,0,0,0,0,0,,,,,,2,0,2
+1199527,2019/20,Hong Kong,8,Waqas Barkat,a2eac9df,NR Kumar,b3bad3f2,KD Shah,d5ae21a2,0,0,0,0,0,,,,,,0,0,0
+1199527,2019/20,Hong Kong,8,Waqas Barkat,a2eac9df,NR Kumar,b3bad3f2,KD Shah,d5ae21a2,0,0,0,0,0,,,,,,0,0,0
+1199527,2019/20,Hong Kong,9,KD Shah,d5ae21a2,N Dutta,e258a603,Waqas Barkat,a2eac9df,0,0,0,0,0,,,,,,1,0,1
+1199527,2019/20,Hong Kong,9,Waqas Barkat,a2eac9df,N Dutta,e258a603,KD Shah,d5ae21a2,0,0,0,0,0,,,,,,1,0,1
+1199527,2019/20,Hong Kong,9,KD Shah,d5ae21a2,N Dutta,e258a603,Waqas Barkat,a2eac9df,0,0,0,0,0,,,,,,1,0,1
+1199527,2019/20,Hong Kong,9,Waqas Barkat,a2eac9df,N Dutta,e258a603,KD Shah,d5ae21a2,0,0,0,0,0,,,,,,2,0,2
+1199527,2019/20,Hong Kong,9,Waqas Barkat,a2eac9df,N Dutta,e258a603,KD Shah,d5ae21a2,0,0,0,0,0,,,,,,4,0,4
+1199527,2019/20,Hong Kong,9,Waqas Barkat,a2eac9df,N Dutta,e258a603,KD Shah,d5ae21a2,0,0,0,0,0,,,,,,1,0,1
+1199527,2019/20,Hong Kong,10,Waqas Barkat,a2eac9df,NR Kumar,b3bad3f2,KD Shah,d5ae21a2,0,0,0,0,0,,,,,,2,0,2
+1199527,2019/20,Hong Kong,10,Waqas Barkat,a2eac9df,NR Kumar,b3bad3f2,KD Shah,d5ae21a2,0,0,0,0,0,,,,,,2,0,2
+1199527,2019/20,Hong Kong,10,Waqas Barkat,a2eac9df,NR Kumar,b3bad3f2,KD Shah,d5ae21a2,0,0,0,0,1,Waqas Barkat,a2eac9df,Abraash Khan,684dc2da,caught,0,0,0
+1199527,2019/20,Hong Kong,10,KD Shah,d5ae21a2,NR Kumar,b3bad3f2,Haroon Arshad,be0f9ce9,0,0,0,0,0,,,,,,0,0,0
+1199527,2019/20,Hong Kong,10,KD Shah,d5ae21a2,NR Kumar,b3bad3f2,Haroon Arshad,be0f9ce9,0,0,0,0,0,,,,,,0,0,0
+1199527,2019/20,Hong Kong,10,KD Shah,d5ae21a2,NR Kumar,b3bad3f2,Haroon Arshad,be0f9ce9,0,0,0,0,0,,,,,,0,0,0
+1199527,2019/20,Hong Kong,11,Haroon Arshad,be0f9ce9,D Heyliger,f8c72766,KD Shah,d5ae21a2,1,0,0,0,0,,,,,,0,1,1
+1199527,2019/20,Hong Kong,11,Haroon Arshad,be0f9ce9,D Heyliger,f8c72766,KD Shah,d5ae21a2,0,0,0,0,0,,,,,,0,0,0
+1199527,2019/20,Hong Kong,11,Haroon Arshad,be0f9ce9,D Heyliger,f8c72766,KD Shah,d5ae21a2,0,0,0,0,0,,,,,,2,0,2
+1199527,2019/20,Hong Kong,11,Haroon Arshad,be0f9ce9,D Heyliger,f8c72766,KD Shah,d5ae21a2,0,0,0,0,0,,,,,,1,0,1
+1199527,2019/20,Hong Kong,11,KD Shah,d5ae21a2,D Heyliger,f8c72766,Haroon Arshad,be0f9ce9,0,0,0,0,0,,,,,,1,0,1
+1199527,2019/20,Hong Kong,11,Haroon Arshad,be0f9ce9,D Heyliger,f8c72766,KD Shah,d5ae21a2,0,0,0,0,0,,,,,,1,0,1
+1199527,2019/20,Hong Kong,11,KD Shah,d5ae21a2,D Heyliger,f8c72766,Haroon Arshad,be0f9ce9,0,0,0,0,0,,,,,,4,0,4
+1199527,2019/20,Hong Kong,12,Haroon Arshad,be0f9ce9,N Dutta,e258a603,KD Shah,d5ae21a2,1,0,0,0,0,,,,,,0,1,1
+1199527,2019/20,Hong Kong,12,Haroon Arshad,be0f9ce9,N Dutta,e258a603,KD Shah,d5ae21a2,0,0,0,0,0,,,,,,0,0,0
+1199527,2019/20,Hong Kong,12,Haroon Arshad,be0f9ce9,N Dutta,e258a603,KD Shah,d5ae21a2,0,0,0,0,0,,,,,,2,0,2
+1199527,2019/20,Hong Kong,12,Haroon Arshad,be0f9ce9,N Dutta,e258a603,KD Shah,d5ae21a2,0,0,0,0,0,,,,,,1,0,1
+1199527,2019/20,Hong Kong,12,KD Shah,d5ae21a2,N Dutta,e258a603,Haroon Arshad,be0f9ce9,0,0,0,0,0,,,,,,0,0,0
+1199527,2019/20,Hong Kong,12,KD Shah,d5ae21a2,N Dutta,e258a603,Haroon Arshad,be0f9ce9,0,0,0,0,0,,,,,,1,0,1
+1199527,2019/20,Hong Kong,12,Haroon Arshad,be0f9ce9,N Dutta,e258a603,KD Shah,d5ae21a2,0,0,0,0,0,,,,,,2,0,2
+1199527,2019/20,Hong Kong,13,KD Shah,d5ae21a2,Saad Bin Zafar,f28a60e0,Haroon Arshad,be0f9ce9,0,0,0,0,0,,,,,,1,0,1
+1199527,2019/20,Hong Kong,13,Haroon Arshad,be0f9ce9,Saad Bin Zafar,f28a60e0,KD Shah,d5ae21a2,0,0,0,0,0,,,,,,0,0,0
+1199527,2019/20,Hong Kong,13,Haroon Arshad,be0f9ce9,Saad Bin Zafar,f28a60e0,KD Shah,d5ae21a2,0,0,0,0,0,,,,,,1,0,1
+1199527,2019/20,Hong Kong,13,KD Shah,d5ae21a2,Saad Bin Zafar,f28a60e0,Haroon Arshad,be0f9ce9,0,0,0,0,0,,,,,,6,0,6
+1199527,2019/20,Hong Kong,13,KD Shah,d5ae21a2,Saad Bin Zafar,f28a60e0,Haroon Arshad,be0f9ce9,0,0,0,0,0,,,,,,1,0,1
+1199527,2019/20,Hong Kong,13,Haroon Arshad,be0f9ce9,Saad Bin Zafar,f28a60e0,KD Shah,d5ae21a2,0,0,0,0,0,,,,,,6,0,6
+1199527,2019/20,Hong Kong,14,KD Shah,d5ae21a2,N Dutta,e258a603,Haroon Arshad,be0f9ce9,0,0,0,0,0,,,,,,1,0,1
+1199527,2019/20,Hong Kong,14,Haroon Arshad,be0f9ce9,N Dutta,e258a603,KD Shah,d5ae21a2,0,0,0,0,0,,,,,,1,0,1
+1199527,2019/20,Hong Kong,14,KD Shah,d5ae21a2,N Dutta,e258a603,Haroon Arshad,be0f9ce9,0,0,0,0,0,,,,,,1,0,1
+1199527,2019/20,Hong Kong,14,Haroon Arshad,be0f9ce9,N Dutta,e258a603,KD Shah,d5ae21a2,0,0,0,0,1,Haroon Arshad,be0f9ce9,,,bowled,0,0,0
+1199527,2019/20,Hong Kong,14,SS McKechnie,e6dd77bb,N Dutta,e258a603,KD Shah,d5ae21a2,1,0,0,0,0,,,,,,0,1,1
+1199527,2019/20,Hong Kong,14,SS McKechnie,e6dd77bb,N Dutta,e258a603,KD Shah,d5ae21a2,0,0,0,0,0,,,,,,0,0,0
+1199527,2019/20,Hong Kong,14,SS McKechnie,e6dd77bb,N Dutta,e258a603,KD Shah,d5ae21a2,0,0,0,0,0,,,,,,0,0,0
+1199527,2019/20,Hong Kong,15,KD Shah,d5ae21a2,JOA Gordon,bb9b51f4,SS McKechnie,e6dd77bb,0,0,0,0,0,,,,,,0,0,0
+1199527,2019/20,Hong Kong,15,KD Shah,d5ae21a2,JOA Gordon,bb9b51f4,SS McKechnie,e6dd77bb,0,0,0,0,0,,,,,,2,0,2
+1199527,2019/20,Hong Kong,15,KD Shah,d5ae21a2,JOA Gordon,bb9b51f4,SS McKechnie,e6dd77bb,0,0,0,0,0,,,,,,1,0,1
+1199527,2019/20,Hong Kong,15,SS McKechnie,e6dd77bb,JOA Gordon,bb9b51f4,KD Shah,d5ae21a2,1,0,0,0,0,,,,,,0,1,1
+1199527,2019/20,Hong Kong,15,SS McKechnie,e6dd77bb,JOA Gordon,bb9b51f4,KD Shah,d5ae21a2,0,0,0,0,0,,,,,,0,0,0
+1199527,2019/20,Hong Kong,15,SS McKechnie,e6dd77bb,JOA Gordon,bb9b51f4,KD Shah,d5ae21a2,0,0,1,0,0,,,,,,0,1,1
+1199527,2019/20,Hong Kong,15,KD Shah,d5ae21a2,JOA Gordon,bb9b51f4,SS McKechnie,e6dd77bb,0,0,0,0,0,,,,,,2,0,2
+1199527,2019/20,Hong Kong,16,SS McKechnie,e6dd77bb,Saad Bin Zafar,f28a60e0,KD Shah,d5ae21a2,0,0,0,0,0,,,,,,2,0,2
+1199527,2019/20,Hong Kong,16,SS McKechnie,e6dd77bb,Saad Bin Zafar,f28a60e0,KD Shah,d5ae21a2,0,0,0,0,0,,,,,,4,0,4
+1199527,2019/20,Hong Kong,16,SS McKechnie,e6dd77bb,Saad Bin Zafar,f28a60e0,KD Shah,d5ae21a2,0,0,0,0,0,,,,,,2,0,2
+1199527,2019/20,Hong Kong,16,SS McKechnie,e6dd77bb,Saad Bin Zafar,f28a60e0,KD Shah,d5ae21a2,0,0,0,0,0,,,,,,0,0,0
+1199527,2019/20,Hong Kong,16,SS McKechnie,e6dd77bb,Saad Bin Zafar,f28a60e0,KD Shah,d5ae21a2,0,0,0,0,0,,,,,,0,0,0
+1199527,2019/20,Hong Kong,16,SS McKechnie,e6dd77bb,Saad Bin Zafar,f28a60e0,KD Shah,d5ae21a2,0,0,0,0,0,,,,,,4,0,4
+1199527,2019/20,Hong Kong,17,KD Shah,d5ae21a2,D Heyliger,f8c72766,SS McKechnie,e6dd77bb,0,0,0,0,0,,,,,,2,0,2
+1199527,2019/20,Hong Kong,17,KD Shah,d5ae21a2,D Heyliger,f8c72766,SS McKechnie,e6dd77bb,0,0,0,0,0,,,,,,1,0,1
+1199527,2019/20,Hong Kong,17,SS McKechnie,e6dd77bb,D Heyliger,f8c72766,KD Shah,d5ae21a2,0,0,0,0,0,,,,,,1,0,1
+1199527,2019/20,Hong Kong,17,KD Shah,d5ae21a2,D Heyliger,f8c72766,SS McKechnie,e6dd77bb,0,0,0,0,0,,,,,,6,0,6
+1199527,2019/20,Hong Kong,17,KD Shah,d5ae21a2,D Heyliger,f8c72766,SS McKechnie,e6dd77bb,0,0,0,0,0,,,,,,1,0,1
+1199527,2019/20,Hong Kong,17,SS McKechnie,e6dd77bb,D Heyliger,f8c72766,KD Shah,d5ae21a2,0,0,0,0,0,,,,,,0,0,0
+1199527,2019/20,Hong Kong,18,KD Shah,d5ae21a2,JOA Gordon,bb9b51f4,SS McKechnie,e6dd77bb,0,0,0,0,0,,,,,,2,0,2
+1199527,2019/20,Hong Kong,18,KD Shah,d5ae21a2,JOA Gordon,bb9b51f4,SS McKechnie,e6dd77bb,1,0,0,0,0,,,,,,0,1,1
+1199527,2019/20,Hong Kong,18,KD Shah,d5ae21a2,JOA Gordon,bb9b51f4,SS McKechnie,e6dd77bb,0,0,0,0,0,,,,,,0,0,0
+1199527,2019/20,Hong Kong,18,KD Shah,d5ae21a2,JOA Gordon,bb9b51f4,SS McKechnie,e6dd77bb,0,0,0,0,0,,,,,,1,0,1
+1199527,2019/20,Hong Kong,18,SS McKechnie,e6dd77bb,JOA Gordon,bb9b51f4,KD Shah,d5ae21a2,0,0,0,0,0,,,,,,1,0,1
+1199527,2019/20,Hong Kong,18,KD Shah,d5ae21a2,JOA Gordon,bb9b51f4,SS McKechnie,e6dd77bb,0,0,0,0,0,,,,,,2,0,2
+1199527,2019/20,Hong Kong,18,KD Shah,d5ae21a2,JOA Gordon,bb9b51f4,SS McKechnie,e6dd77bb,0,0,0,0,0,,,,,,1,0,1
+1199527,2019/20,Hong Kong,19,KD Shah,d5ae21a2,D Heyliger,f8c72766,SS McKechnie,e6dd77bb,0,0,0,0,0,,,,,,6,0,6
+1199527,2019/20,Hong Kong,19,KD Shah,d5ae21a2,D Heyliger,f8c72766,SS McKechnie,e6dd77bb,0,0,0,0,0,,,,,,4,0,4
+1199527,2019/20,Hong Kong,19,KD Shah,d5ae21a2,D Heyliger,f8c72766,SS McKechnie,e6dd77bb,0,0,0,0,0,,,,,,1,0,1
+1199527,2019/20,Hong Kong,19,SS McKechnie,e6dd77bb,D Heyliger,f8c72766,KD Shah,d5ae21a2,0,0,0,0,1,SS McKechnie,e6dd77bb,,,bowled,0,0,0
+1199527,2019/20,Hong Kong,19,Simandeep Singh,2a242d58,D Heyliger,f8c72766,KD Shah,d5ae21a2,0,0,0,0,1,Simandeep Singh,2a242d58,,,run out,1,0,1
+1199527,2019/20,Hong Kong,19,Ehsan Khan,d3851cd8,D Heyliger,f8c72766,KD Shah,d5ae21a2,0,0,1,0,0,,,,,,0,1,1
+1199527,2019/20,Canada,0,RA Thomas,6db7068e,K Christie,65122d56,NS Dhaliwal,cbabd6ad,0,0,0,0,0,,,,,,2,0,2
+1199527,2019/20,Canada,0,RA Thomas,6db7068e,K Christie,65122d56,NS Dhaliwal,cbabd6ad,0,0,0,0,0,,,,,,0,0,0
+1199527,2019/20,Canada,0,RA Thomas,6db7068e,K Christie,65122d56,NS Dhaliwal,cbabd6ad,0,0,0,0,0,,,,,,0,0,0
+1199527,2019/20,Canada,0,RA Thomas,6db7068e,K Christie,65122d56,NS Dhaliwal,cbabd6ad,0,0,0,0,0,,,,,,0,0,0
+1199527,2019/20,Canada,0,RA Thomas,6db7068e,K Christie,65122d56,NS Dhaliwal,cbabd6ad,0,0,0,0,0,,,,,,1,0,1
+1199527,2019/20,Canada,0,NS Dhaliwal,cbabd6ad,K Christie,65122d56,RA Thomas,6db7068e,0,0,0,0,0,,,,,,1,0,1
+1199527,2019/20,Canada,1,NS Dhaliwal,cbabd6ad,Aizaz Khan,f6c2659d,RA Thomas,6db7068e,0,0,0,0,0,,,,,,0,0,0
+1199527,2019/20,Canada,1,NS Dhaliwal,cbabd6ad,Aizaz Khan,f6c2659d,RA Thomas,6db7068e,0,0,0,0,0,,,,,,1,0,1
+1199527,2019/20,Canada,1,RA Thomas,6db7068e,Aizaz Khan,f6c2659d,NS Dhaliwal,cbabd6ad,0,0,0,0,0,,,,,,4,0,4
+1199527,2019/20,Canada,1,RA Thomas,6db7068e,Aizaz Khan,f6c2659d,NS Dhaliwal,cbabd6ad,0,0,0,0,0,,,,,,0,0,0
+1199527,2019/20,Canada,1,RA Thomas,6db7068e,Aizaz Khan,f6c2659d,NS Dhaliwal,cbabd6ad,0,0,0,0,0,,,,,,0,0,0
+1199527,2019/20,Canada,1,RA Thomas,6db7068e,Aizaz Khan,f6c2659d,NS Dhaliwal,cbabd6ad,0,0,0,0,0,,,,,,1,0,1
+1199527,2019/20,Canada,2,RA Thomas,6db7068e,Nasrulla Rana,9ffb7550,NS Dhaliwal,cbabd6ad,0,0,0,0,0,,,,,,0,0,0
+1199527,2019/20,Canada,2,RA Thomas,6db7068e,Nasrulla Rana,9ffb7550,NS Dhaliwal,cbabd6ad,0,0,0,0,0,,,,,,0,0,0
+1199527,2019/20,Canada,2,RA Thomas,6db7068e,Nasrulla Rana,9ffb7550,NS Dhaliwal,cbabd6ad,0,0,0,0,0,,,,,,4,0,4
+1199527,2019/20,Canada,2,RA Thomas,6db7068e,Nasrulla Rana,9ffb7550,NS Dhaliwal,cbabd6ad,0,0,0,0,0,,,,,,0,0,0
+1199527,2019/20,Canada,2,RA Thomas,6db7068e,Nasrulla Rana,9ffb7550,NS Dhaliwal,cbabd6ad,0,0,0,0,1,RA Thomas,6db7068e,Simandeep Singh,2a242d58,caught,0,0,0
+1199527,2019/20,Canada,2,NR Kumar,b3bad3f2,Nasrulla Rana,9ffb7550,NS Dhaliwal,cbabd6ad,0,0,0,0,0,,,,,,0,0,0
+1199527,2019/20,Canada,3,NS Dhaliwal,cbabd6ad,Ehsan Khan,d3851cd8,NR Kumar,b3bad3f2,0,0,0,0,0,,,,,,0,0,0
+1199527,2019/20,Canada,3,NS Dhaliwal,cbabd6ad,Ehsan Khan,d3851cd8,NR Kumar,b3bad3f2,0,0,0,0,0,,,,,,1,0,1
+1199527,2019/20,Canada,3,NR Kumar,b3bad3f2,Ehsan Khan,d3851cd8,NS Dhaliwal,cbabd6ad,0,0,0,0,0,,,,,,0,0,0
+1199527,2019/20,Canada,3,NR Kumar,b3bad3f2,Ehsan Khan,d3851cd8,NS Dhaliwal,cbabd6ad,0,0,0,0,0,,,,,,1,0,1
+1199527,2019/20,Canada,3,NS Dhaliwal,cbabd6ad,Ehsan Khan,d3851cd8,NR Kumar,b3bad3f2,0,0,0,0,0,,,,,,1,0,1
+1199527,2019/20,Canada,3,NR Kumar,b3bad3f2,Ehsan Khan,d3851cd8,NS Dhaliwal,cbabd6ad,0,0,0,0,0,,,,,,0,0,0
+1199527,2019/20,Canada,4,NS Dhaliwal,cbabd6ad,Haroon Arshad,be0f9ce9,NR Kumar,b3bad3f2,0,0,0,0,0,,,,,,0,0,0
+1199527,2019/20,Canada,4,NS Dhaliwal,cbabd6ad,Haroon Arshad,be0f9ce9,NR Kumar,b3bad3f2,0,0,0,0,0,,,,,,0,0,0
+1199527,2019/20,Canada,4,NS Dhaliwal,cbabd6ad,Haroon Arshad,be0f9ce9,NR Kumar,b3bad3f2,0,0,0,0,1,NS Dhaliwal,cbabd6ad,,,bowled,0,0,0
+1199527,2019/20,Canada,4,Ravinderpal Singh,f80682f8,Haroon Arshad,be0f9ce9,NR Kumar,b3bad3f2,0,0,0,0,0,,,,,,0,0,0
+1199527,2019/20,Canada,4,Ravinderpal Singh,f80682f8,Haroon Arshad,be0f9ce9,NR Kumar,b3bad3f2,0,0,0,0,0,,,,,,0,0,0
+1199527,2019/20,Canada,4,Ravinderpal Singh,f80682f8,Haroon Arshad,be0f9ce9,NR Kumar,b3bad3f2,0,0,0,0,0,,,,,,1,0,1
+1199527,2019/20,Canada,5,Ravinderpal Singh,f80682f8,K Christie,65122d56,NR Kumar,b3bad3f2,0,0,0,0,0,,,,,,0,0,0
+1199527,2019/20,Canada,5,Ravinderpal Singh,f80682f8,K Christie,65122d56,NR Kumar,b3bad3f2,0,0,0,0,0,,,,,,1,0,1
+1199527,2019/20,Canada,5,NR Kumar,b3bad3f2,K Christie,65122d56,Ravinderpal Singh,f80682f8,0,0,0,0,0,,,,,,0,0,0
+1199527,2019/20,Canada,5,NR Kumar,b3bad3f2,K Christie,65122d56,Ravinderpal Singh,f80682f8,0,0,0,0,0,,,,,,4,0,4
+1199527,2019/20,Canada,5,NR Kumar,b3bad3f2,K Christie,65122d56,Ravinderpal Singh,f80682f8,0,0,0,0,0,,,,,,0,0,0
+1199527,2019/20,Canada,5,NR Kumar,b3bad3f2,K Christie,65122d56,Ravinderpal Singh,f80682f8,0,0,0,0,0,,,,,,1,0,1
+1199527,2019/20,Canada,6,NR Kumar,b3bad3f2,Haroon Arshad,be0f9ce9,Ravinderpal Singh,f80682f8,0,0,0,0,0,,,,,,0,0,0
+1199527,2019/20,Canada,6,NR Kumar,b3bad3f2,Haroon Arshad,be0f9ce9,Ravinderpal Singh,f80682f8,0,0,0,0,0,,,,,,0,0,0
+1199527,2019/20,Canada,6,NR Kumar,b3bad3f2,Haroon Arshad,be0f9ce9,Ravinderpal Singh,f80682f8,0,0,0,0,0,,,,,,1,0,1
+1199527,2019/20,Canada,6,Ravinderpal Singh,f80682f8,Haroon Arshad,be0f9ce9,NR Kumar,b3bad3f2,0,0,0,0,0,,,,,,1,0,1
+1199527,2019/20,Canada,6,NR Kumar,b3bad3f2,Haroon Arshad,be0f9ce9,Ravinderpal Singh,f80682f8,0,0,0,0,0,,,,,,0,0,0
+1199527,2019/20,Canada,6,NR Kumar,b3bad3f2,Haroon Arshad,be0f9ce9,Ravinderpal Singh,f80682f8,0,0,0,0,0,,,,,,1,0,1
+1199527,2019/20,Canada,7,NR Kumar,b3bad3f2,Waqas Barkat,a2eac9df,Ravinderpal Singh,f80682f8,0,0,0,0,0,,,,,,1,0,1
+1199527,2019/20,Canada,7,Ravinderpal Singh,f80682f8,Waqas Barkat,a2eac9df,NR Kumar,b3bad3f2,0,0,0,0,0,,,,,,1,0,1
+1199527,2019/20,Canada,7,NR Kumar,b3bad3f2,Waqas Barkat,a2eac9df,Ravinderpal Singh,f80682f8,0,0,0,0,0,,,,,,1,0,1
+1199527,2019/20,Canada,7,Ravinderpal Singh,f80682f8,Waqas Barkat,a2eac9df,NR Kumar,b3bad3f2,0,0,0,0,0,,,,,,0,0,0
+1199527,2019/20,Canada,7,Ravinderpal Singh,f80682f8,Waqas Barkat,a2eac9df,NR Kumar,b3bad3f2,0,0,0,0,0,,,,,,0,0,0
+1199527,2019/20,Canada,7,Ravinderpal Singh,f80682f8,Waqas Barkat,a2eac9df,NR Kumar,b3bad3f2,0,0,0,0,0,,,,,,1,0,1
+1199527,2019/20,Canada,8,Ravinderpal Singh,f80682f8,Nasrulla Rana,9ffb7550,NR Kumar,b3bad3f2,0,0,0,0,0,,,,,,1,0,1
+1199527,2019/20,Canada,8,NR Kumar,b3bad3f2,Nasrulla Rana,9ffb7550,Ravinderpal Singh,f80682f8,0,0,0,0,0,,,,,,1,0,1
+1199527,2019/20,Canada,8,Ravinderpal Singh,f80682f8,Nasrulla Rana,9ffb7550,NR Kumar,b3bad3f2,0,0,0,0,0,,,,,,1,0,1
+1199527,2019/20,Canada,8,NR Kumar,b3bad3f2,Nasrulla Rana,9ffb7550,Ravinderpal Singh,f80682f8,0,0,0,0,0,,,,,,1,0,1
+1199527,2019/20,Canada,8,Ravinderpal Singh,f80682f8,Nasrulla Rana,9ffb7550,NR Kumar,b3bad3f2,0,0,0,0,0,,,,,,2,0,2
+1199527,2019/20,Canada,8,Ravinderpal Singh,f80682f8,Nasrulla Rana,9ffb7550,NR Kumar,b3bad3f2,0,0,0,0,0,,,,,,0,0,0
+1199527,2019/20,Canada,9,NR Kumar,b3bad3f2,Waqas Barkat,a2eac9df,Ravinderpal Singh,f80682f8,0,0,0,0,0,,,,,,0,0,0
+1199527,2019/20,Canada,9,NR Kumar,b3bad3f2,Waqas Barkat,a2eac9df,Ravinderpal Singh,f80682f8,0,0,0,0,0,,,,,,0,0,0
+1199527,2019/20,Canada,9,NR Kumar,b3bad3f2,Waqas Barkat,a2eac9df,Ravinderpal Singh,f80682f8,0,0,0,0,0,,,,,,2,0,2
+1199527,2019/20,Canada,9,NR Kumar,b3bad3f2,Waqas Barkat,a2eac9df,Ravinderpal Singh,f80682f8,0,0,0,0,0,,,,,,0,0,0
+1199527,2019/20,Canada,9,NR Kumar,b3bad3f2,Waqas Barkat,a2eac9df,Ravinderpal Singh,f80682f8,0,0,0,0,0,,,,,,1,0,1
+1199527,2019/20,Canada,9,Ravinderpal Singh,f80682f8,Waqas Barkat,a2eac9df,NR Kumar,b3bad3f2,0,0,0,0,0,,,,,,4,0,4
+1199527,2019/20,Canada,10,NR Kumar,b3bad3f2,Nasrulla Rana,9ffb7550,Ravinderpal Singh,f80682f8,0,0,0,0,0,,,,,,1,0,1
+1199527,2019/20,Canada,10,Ravinderpal Singh,f80682f8,Nasrulla Rana,9ffb7550,NR Kumar,b3bad3f2,0,0,0,0,1,Ravinderpal Singh,f80682f8,,,bowled,0,0,0
+1199527,2019/20,Canada,10,Rizwan Cheema,3a026eb4,Nasrulla Rana,9ffb7550,NR Kumar,b3bad3f2,1,0,0,0,0,,,,,,0,1,1
+1199527,2019/20,Canada,10,Rizwan Cheema,3a026eb4,Nasrulla Rana,9ffb7550,NR Kumar,b3bad3f2,0,0,0,0,0,,,,,,1,0,1
+1199527,2019/20,Canada,10,NR Kumar,b3bad3f2,Nasrulla Rana,9ffb7550,Rizwan Cheema,3a026eb4,0,0,0,0,0,,,,,,1,0,1
+1199527,2019/20,Canada,10,Rizwan Cheema,3a026eb4,Nasrulla Rana,9ffb7550,NR Kumar,b3bad3f2,0,0,0,0,0,,,,,,1,0,1
+1199527,2019/20,Canada,10,NR Kumar,b3bad3f2,Nasrulla Rana,9ffb7550,Rizwan Cheema,3a026eb4,0,0,0,0,0,,,,,,1,0,1
+1199527,2019/20,Canada,11,NR Kumar,b3bad3f2,Ehsan Khan,d3851cd8,Rizwan Cheema,3a026eb4,0,0,1,0,0,,,,,,0,1,1
+1199527,2019/20,Canada,11,Rizwan Cheema,3a026eb4,Ehsan Khan,d3851cd8,NR Kumar,b3bad3f2,0,0,0,0,0,,,,,,0,0,0
+1199527,2019/20,Canada,11,Rizwan Cheema,3a026eb4,Ehsan Khan,d3851cd8,NR Kumar,b3bad3f2,0,0,0,0,0,,,,,,0,0,0
+1199527,2019/20,Canada,11,Rizwan Cheema,3a026eb4,Ehsan Khan,d3851cd8,NR Kumar,b3bad3f2,0,0,0,0,0,,,,,,1,0,1
+1199527,2019/20,Canada,11,NR Kumar,b3bad3f2,Ehsan Khan,d3851cd8,Rizwan Cheema,3a026eb4,0,0,0,0,0,,,,,,1,0,1
+1199527,2019/20,Canada,11,Rizwan Cheema,3a026eb4,Ehsan Khan,d3851cd8,NR Kumar,b3bad3f2,0,0,0,0,0,,,,,,1,0,1
+1199527,2019/20,Canada,12,Rizwan Cheema,3a026eb4,Aizaz Khan,f6c2659d,NR Kumar,b3bad3f2,0,0,0,0,0,,,,,,0,0,0
+1199527,2019/20,Canada,12,Rizwan Cheema,3a026eb4,Aizaz Khan,f6c2659d,NR Kumar,b3bad3f2,0,0,0,0,0,,,,,,1,0,1
+1199527,2019/20,Canada,12,NR Kumar,b3bad3f2,Aizaz Khan,f6c2659d,Rizwan Cheema,3a026eb4,0,0,0,0,1,NR Kumar,b3bad3f2,Simandeep Singh,2a242d58,caught,0,0,0
+1199527,2019/20,Canada,12,Rizwan Cheema,3a026eb4,Aizaz Khan,f6c2659d,Hamza Tariq,82e81007,0,0,0,0,0,,,,,,0,0,0
+1199527,2019/20,Canada,12,Rizwan Cheema,3a026eb4,Aizaz Khan,f6c2659d,Hamza Tariq,82e81007,0,0,0,0,0,,,,,,1,0,1
+1199527,2019/20,Canada,12,Hamza Tariq,82e81007,Aizaz Khan,f6c2659d,Rizwan Cheema,3a026eb4,0,0,0,0,0,,,,,,0,0,0
+1199527,2019/20,Canada,13,Rizwan Cheema,3a026eb4,Ehsan Khan,d3851cd8,Hamza Tariq,82e81007,0,0,0,0,0,,,,,,4,0,4
+1199527,2019/20,Canada,13,Rizwan Cheema,3a026eb4,Ehsan Khan,d3851cd8,Hamza Tariq,82e81007,0,0,0,0,0,,,,,,1,0,1
+1199527,2019/20,Canada,13,Hamza Tariq,82e81007,Ehsan Khan,d3851cd8,Rizwan Cheema,3a026eb4,0,0,0,0,0,,,,,,0,0,0
+1199527,2019/20,Canada,13,Hamza Tariq,82e81007,Ehsan Khan,d3851cd8,Rizwan Cheema,3a026eb4,0,0,0,0,0,,,,,,0,0,0
+1199527,2019/20,Canada,13,Hamza Tariq,82e81007,Ehsan Khan,d3851cd8,Rizwan Cheema,3a026eb4,0,0,0,0,0,,,,,,0,0,0
+1199527,2019/20,Canada,13,Hamza Tariq,82e81007,Ehsan Khan,d3851cd8,Rizwan Cheema,3a026eb4,0,0,0,0,0,,,,,,1,0,1
+1199527,2019/20,Canada,14,Hamza Tariq,82e81007,Aizaz Khan,f6c2659d,Rizwan Cheema,3a026eb4,0,0,0,0,0,,,,,,1,0,1
+1199527,2019/20,Canada,14,Rizwan Cheema,3a026eb4,Aizaz Khan,f6c2659d,Hamza Tariq,82e81007,0,0,0,0,0,,,,,,1,0,1
+1199527,2019/20,Canada,14,Hamza Tariq,82e81007,Aizaz Khan,f6c2659d,Rizwan Cheema,3a026eb4,0,0,0,0,0,,,,,,4,0,4
+1199527,2019/20,Canada,14,Hamza Tariq,82e81007,Aizaz Khan,f6c2659d,Rizwan Cheema,3a026eb4,0,0,0,0,0,,,,,,1,0,1
+1199527,2019/20,Canada,14,Rizwan Cheema,3a026eb4,Aizaz Khan,f6c2659d,Hamza Tariq,82e81007,0,0,0,0,0,,,,,,4,0,4
+1199527,2019/20,Canada,14,Rizwan Cheema,3a026eb4,Aizaz Khan,f6c2659d,Hamza Tariq,82e81007,0,0,0,0,0,,,,,,1,0,1
+1199527,2019/20,Canada,15,Rizwan Cheema,3a026eb4,Ehsan Khan,d3851cd8,Hamza Tariq,82e81007,0,0,0,0,0,,,,,,1,0,1
+1199527,2019/20,Canada,15,Hamza Tariq,82e81007,Ehsan Khan,d3851cd8,Rizwan Cheema,3a026eb4,0,0,0,0,0,,,,,,1,0,1
+1199527,2019/20,Canada,15,Rizwan Cheema,3a026eb4,Ehsan Khan,d3851cd8,Hamza Tariq,82e81007,0,0,0,0,0,,,,,,1,0,1
+1199527,2019/20,Canada,15,Hamza Tariq,82e81007,Ehsan Khan,d3851cd8,Rizwan Cheema,3a026eb4,0,0,0,0,0,,,,,,4,0,4
+1199527,2019/20,Canada,15,Hamza Tariq,82e81007,Ehsan Khan,d3851cd8,Rizwan Cheema,3a026eb4,0,0,0,0,0,,,,,,1,0,1
+1199527,2019/20,Canada,15,Rizwan Cheema,3a026eb4,Ehsan Khan,d3851cd8,Hamza Tariq,82e81007,0,0,0,0,0,,,,,,0,0,0
+1199527,2019/20,Canada,16,Hamza Tariq,82e81007,Nasrulla Rana,9ffb7550,Rizwan Cheema,3a026eb4,0,0,0,0,0,,,,,,4,0,4
+1199527,2019/20,Canada,16,Hamza Tariq,82e81007,Nasrulla Rana,9ffb7550,Rizwan Cheema,3a026eb4,1,0,0,0,0,,,,,,0,1,1
+1199527,2019/20,Canada,16,Hamza Tariq,82e81007,Nasrulla Rana,9ffb7550,Rizwan Cheema,3a026eb4,0,0,0,0,1,Hamza Tariq,82e81007,KD Shah,d5ae21a2,caught,0,0,0
+1199527,2019/20,Canada,16,Rizwan Cheema,3a026eb4,Nasrulla Rana,9ffb7550,D Heyliger,f8c72766,0,0,0,0,1,Rizwan Cheema,3a026eb4,,,run out,1,0,1
+1199527,2019/20,Canada,16,N Dutta,e258a603,Nasrulla Rana,9ffb7550,D Heyliger,f8c72766,1,0,0,0,0,,,,,,0,1,1
+1199527,2019/20,Canada,16,N Dutta,e258a603,Nasrulla Rana,9ffb7550,D Heyliger,f8c72766,1,0,0,0,0,,,,,,0,1,1
+1199527,2019/20,Canada,16,N Dutta,e258a603,Nasrulla Rana,9ffb7550,D Heyliger,f8c72766,0,0,0,0,0,,,,,,1,0,1
+1199527,2019/20,Canada,16,D Heyliger,f8c72766,Nasrulla Rana,9ffb7550,N Dutta,e258a603,0,0,0,0,0,,,,,,0,0,0
+1199527,2019/20,Canada,16,D Heyliger,f8c72766,Nasrulla Rana,9ffb7550,N Dutta,e258a603,0,0,0,0,0,,,,,,0,0,0
+1199527,2019/20,Canada,17,N Dutta,e258a603,K Christie,65122d56,D Heyliger,f8c72766,0,0,0,0,0,,,,,,1,0,1
+1199527,2019/20,Canada,17,D Heyliger,f8c72766,K Christie,65122d56,N Dutta,e258a603,1,0,0,0,0,,,,,,0,1,1
+1199527,2019/20,Canada,17,D Heyliger,f8c72766,K Christie,65122d56,N Dutta,e258a603,0,0,0,0,1,D Heyliger,f8c72766,KD Shah,d5ae21a2,caught,0,0,0
+1199527,2019/20,Canada,17,Abraash Khan,684dc2da,K Christie,65122d56,N Dutta,e258a603,0,0,0,0,0,,,,,,1,0,1
+1199527,2019/20,Canada,17,N Dutta,e258a603,K Christie,65122d56,Abraash Khan,684dc2da,0,0,0,0,0,,,,,,2,0,2
+1199527,2019/20,Canada,17,N Dutta,e258a603,K Christie,65122d56,Abraash Khan,684dc2da,0,0,0,0,0,,,,,,4,0,4
+1199527,2019/20,Canada,17,N Dutta,e258a603,K Christie,65122d56,Abraash Khan,684dc2da,0,0,0,0,0,,,,,,0,0,0
+1199527,2019/20,Canada,18,Abraash Khan,684dc2da,Aizaz Khan,f6c2659d,N Dutta,e258a603,0,0,0,0,0,,,,,,6,0,6
+1199527,2019/20,Canada,18,Abraash Khan,684dc2da,Aizaz Khan,f6c2659d,N Dutta,e258a603,0,0,0,0,0,,,,,,4,0,4
+1199527,2019/20,Canada,18,Abraash Khan,684dc2da,Aizaz Khan,f6c2659d,N Dutta,e258a603,0,0,0,0,0,,,,,,1,0,1
+1199527,2019/20,Canada,18,N Dutta,e258a603,Aizaz Khan,f6c2659d,Abraash Khan,684dc2da,0,0,0,0,0,,,,,,1,0,1
+1199527,2019/20,Canada,18,Abraash Khan,684dc2da,Aizaz Khan,f6c2659d,N Dutta,e258a603,0,0,0,0,0,,,,,,1,0,1
+1199527,2019/20,Canada,18,N Dutta,e258a603,Aizaz Khan,f6c2659d,Abraash Khan,684dc2da,0,0,0,0,0,,,,,,1,0,1
+1199527,2019/20,Canada,19,N Dutta,e258a603,K Christie,65122d56,Abraash Khan,684dc2da,0,0,0,0,0,,,,,,1,0,1
+1199527,2019/20,Canada,19,Abraash Khan,684dc2da,K Christie,65122d56,N Dutta,e258a603,0,0,0,0,1,Abraash Khan,684dc2da,,,lbw,0,0,0
+1199527,2019/20,Canada,19,Saad Bin Zafar,f28a60e0,K Christie,65122d56,N Dutta,e258a603,0,0,0,0,0,,,,,,1,0,1
+1199527,2019/20,Canada,19,N Dutta,e258a603,K Christie,65122d56,Saad Bin Zafar,f28a60e0,0,0,0,0,1,N Dutta,e258a603,,,run out,1,0,1
+1199527,2019/20,Canada,19,JOA Gordon,bb9b51f4,K Christie,65122d56,Saad Bin Zafar,f28a60e0,0,0,0,0,0,,,,,,0,0,0
+1199527,2019/20,Canada,19,JOA Gordon,bb9b51f4,K Christie,65122d56,Saad Bin Zafar,f28a60e0,0,0,0,0,0,,,,,,1,0,1

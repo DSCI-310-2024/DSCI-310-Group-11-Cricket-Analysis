@@ -1,0 +1,239 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1267308,2021,Romania,0,S Thakur,a073f2ff,M Sarenac,f5ba4611,Ijaz Hussain,dc1dd6c4,0,0,0,0,0,,,,,,0,0,0
+1267308,2021,Romania,0,S Thakur,a073f2ff,M Sarenac,f5ba4611,Ijaz Hussain,dc1dd6c4,0,0,0,0,0,,,,,,1,0,1
+1267308,2021,Romania,0,Ijaz Hussain,dc1dd6c4,M Sarenac,f5ba4611,S Thakur,a073f2ff,1,0,0,0,0,,,,,,0,1,1
+1267308,2021,Romania,0,Ijaz Hussain,dc1dd6c4,M Sarenac,f5ba4611,S Thakur,a073f2ff,0,0,0,0,0,,,,,,1,0,1
+1267308,2021,Romania,0,S Thakur,a073f2ff,M Sarenac,f5ba4611,Ijaz Hussain,dc1dd6c4,0,1,0,0,0,,,,,,0,1,1
+1267308,2021,Romania,0,S Thakur,a073f2ff,M Sarenac,f5ba4611,Ijaz Hussain,dc1dd6c4,1,0,0,0,0,,,,,,0,1,1
+1267308,2021,Romania,0,S Thakur,a073f2ff,M Sarenac,f5ba4611,Ijaz Hussain,dc1dd6c4,0,0,0,0,0,,,,,,4,0,4
+1267308,2021,Romania,0,S Thakur,a073f2ff,M Sarenac,f5ba4611,Ijaz Hussain,dc1dd6c4,0,0,0,0,0,,,,,,2,0,2
+1267308,2021,Romania,0,S Thakur,a073f2ff,M Sarenac,f5ba4611,Ijaz Hussain,dc1dd6c4,0,0,0,0,0,,,,,,0,0,0
+1267308,2021,Romania,1,Ijaz Hussain,dc1dd6c4,V Zimonjic,7f784eb8,S Thakur,a073f2ff,0,0,0,0,0,,,,,,0,0,0
+1267308,2021,Romania,1,Ijaz Hussain,dc1dd6c4,V Zimonjic,7f784eb8,S Thakur,a073f2ff,0,0,0,0,0,,,,,,1,0,1
+1267308,2021,Romania,1,S Thakur,a073f2ff,V Zimonjic,7f784eb8,Ijaz Hussain,dc1dd6c4,0,0,0,0,0,,,,,,4,0,4
+1267308,2021,Romania,1,S Thakur,a073f2ff,V Zimonjic,7f784eb8,Ijaz Hussain,dc1dd6c4,0,0,0,0,0,,,,,,1,0,1
+1267308,2021,Romania,1,Ijaz Hussain,dc1dd6c4,V Zimonjic,7f784eb8,S Thakur,a073f2ff,0,0,0,0,1,Ijaz Hussain,dc1dd6c4,S Tosic,1c40f69f,caught,0,0,0
+1267308,2021,Romania,1,S Nadigotla,b78b3ffd,V Zimonjic,7f784eb8,S Thakur,a073f2ff,0,0,0,0,0,,,,,,4,0,4
+1267308,2021,Romania,2,S Thakur,a073f2ff,M Sarenac,f5ba4611,S Nadigotla,b78b3ffd,0,0,0,0,0,,,,,,4,0,4
+1267308,2021,Romania,2,S Thakur,a073f2ff,M Sarenac,f5ba4611,S Nadigotla,b78b3ffd,0,0,0,0,0,,,,,,4,0,4
+1267308,2021,Romania,2,S Thakur,a073f2ff,M Sarenac,f5ba4611,S Nadigotla,b78b3ffd,0,0,0,0,0,,,,,,4,0,4
+1267308,2021,Romania,2,S Thakur,a073f2ff,M Sarenac,f5ba4611,S Nadigotla,b78b3ffd,0,0,0,0,0,,,,,,4,0,4
+1267308,2021,Romania,2,S Thakur,a073f2ff,M Sarenac,f5ba4611,S Nadigotla,b78b3ffd,0,0,0,0,0,,,,,,4,0,4
+1267308,2021,Romania,2,S Thakur,a073f2ff,M Sarenac,f5ba4611,S Nadigotla,b78b3ffd,0,0,0,0,0,,,,,,0,0,0
+1267308,2021,Romania,3,S Nadigotla,b78b3ffd,A Djorovic,677c18f9,S Thakur,a073f2ff,0,0,0,0,0,,,,,,1,0,1
+1267308,2021,Romania,3,S Thakur,a073f2ff,A Djorovic,677c18f9,S Nadigotla,b78b3ffd,0,0,0,0,0,,,,,,6,0,6
+1267308,2021,Romania,3,S Thakur,a073f2ff,A Djorovic,677c18f9,S Nadigotla,b78b3ffd,0,0,0,0,0,,,,,,4,0,4
+1267308,2021,Romania,3,S Thakur,a073f2ff,A Djorovic,677c18f9,S Nadigotla,b78b3ffd,0,0,0,0,0,,,,,,1,0,1
+1267308,2021,Romania,3,S Nadigotla,b78b3ffd,A Djorovic,677c18f9,S Thakur,a073f2ff,0,0,0,0,0,,,,,,6,0,6
+1267308,2021,Romania,3,S Nadigotla,b78b3ffd,A Djorovic,677c18f9,S Thakur,a073f2ff,0,0,0,0,0,,,,,,0,0,0
+1267308,2021,Romania,4,S Thakur,a073f2ff,NR Johns-Wickberg,3924b2ee,S Nadigotla,b78b3ffd,0,0,0,0,0,,,,,,1,0,1
+1267308,2021,Romania,4,S Nadigotla,b78b3ffd,NR Johns-Wickberg,3924b2ee,S Thakur,a073f2ff,0,0,0,0,0,,,,,,4,0,4
+1267308,2021,Romania,4,S Nadigotla,b78b3ffd,NR Johns-Wickberg,3924b2ee,S Thakur,a073f2ff,0,0,0,0,0,,,,,,4,0,4
+1267308,2021,Romania,4,S Nadigotla,b78b3ffd,NR Johns-Wickberg,3924b2ee,S Thakur,a073f2ff,0,0,0,0,0,,,,,,1,0,1
+1267308,2021,Romania,4,S Thakur,a073f2ff,NR Johns-Wickberg,3924b2ee,S Nadigotla,b78b3ffd,0,0,0,0,0,,,,,,0,0,0
+1267308,2021,Romania,4,S Thakur,a073f2ff,NR Johns-Wickberg,3924b2ee,S Nadigotla,b78b3ffd,0,0,0,0,0,,,,,,1,0,1
+1267308,2021,Romania,5,S Thakur,a073f2ff,WAE Burton,b0358c6d,S Nadigotla,b78b3ffd,0,0,0,0,0,,,,,,1,0,1
+1267308,2021,Romania,5,S Nadigotla,b78b3ffd,WAE Burton,b0358c6d,S Thakur,a073f2ff,0,0,0,0,0,,,,,,4,0,4
+1267308,2021,Romania,5,S Nadigotla,b78b3ffd,WAE Burton,b0358c6d,S Thakur,a073f2ff,1,0,0,0,0,,,,,,0,1,1
+1267308,2021,Romania,5,S Nadigotla,b78b3ffd,WAE Burton,b0358c6d,S Thakur,a073f2ff,0,0,0,0,0,,,,,,1,0,1
+1267308,2021,Romania,5,S Thakur,a073f2ff,WAE Burton,b0358c6d,S Nadigotla,b78b3ffd,1,0,0,0,0,,,,,,0,1,1
+1267308,2021,Romania,5,S Thakur,a073f2ff,WAE Burton,b0358c6d,S Nadigotla,b78b3ffd,0,0,0,0,0,,,,,,1,0,1
+1267308,2021,Romania,5,S Nadigotla,b78b3ffd,WAE Burton,b0358c6d,S Thakur,a073f2ff,0,0,0,0,0,,,,,,1,0,1
+1267308,2021,Romania,5,S Thakur,a073f2ff,WAE Burton,b0358c6d,S Nadigotla,b78b3ffd,0,0,0,0,0,,,,,,4,0,4
+1267308,2021,Romania,6,S Nadigotla,b78b3ffd,NR Johns-Wickberg,3924b2ee,S Thakur,a073f2ff,0,0,0,0,0,,,,,,0,0,0
+1267308,2021,Romania,6,S Nadigotla,b78b3ffd,NR Johns-Wickberg,3924b2ee,S Thakur,a073f2ff,0,0,0,0,1,S Nadigotla,b78b3ffd,,,bowled,0,0,0
+1267308,2021,Romania,6,C Zavoiu,6b96bebf,NR Johns-Wickberg,3924b2ee,S Thakur,a073f2ff,0,0,0,0,0,,,,,,0,0,0
+1267308,2021,Romania,6,C Zavoiu,6b96bebf,NR Johns-Wickberg,3924b2ee,S Thakur,a073f2ff,0,0,0,0,0,,,,,,0,0,0
+1267308,2021,Romania,6,C Zavoiu,6b96bebf,NR Johns-Wickberg,3924b2ee,S Thakur,a073f2ff,0,0,0,0,1,C Zavoiu,6b96bebf,,,bowled,0,0,0
+1267308,2021,Romania,6,Sami Ullah,ad05692c,NR Johns-Wickberg,3924b2ee,S Thakur,a073f2ff,0,1,0,0,0,,,,,,2,1,3
+1267308,2021,Romania,6,Sami Ullah,ad05692c,NR Johns-Wickberg,3924b2ee,S Thakur,a073f2ff,0,0,0,0,0,,,,,,1,0,1
+1267308,2021,Romania,7,Sami Ullah,ad05692c,N Zimonjic,638f451b,S Thakur,a073f2ff,0,0,0,0,0,,,,,,1,0,1
+1267308,2021,Romania,7,S Thakur,a073f2ff,N Zimonjic,638f451b,Sami Ullah,ad05692c,0,0,0,0,0,,,,,,1,0,1
+1267308,2021,Romania,7,Sami Ullah,ad05692c,N Zimonjic,638f451b,S Thakur,a073f2ff,0,0,0,0,0,,,,,,4,0,4
+1267308,2021,Romania,7,Sami Ullah,ad05692c,N Zimonjic,638f451b,S Thakur,a073f2ff,0,0,0,0,0,,,,,,1,0,1
+1267308,2021,Romania,7,S Thakur,a073f2ff,N Zimonjic,638f451b,Sami Ullah,ad05692c,0,0,0,0,0,,,,,,1,0,1
+1267308,2021,Romania,7,Sami Ullah,ad05692c,N Zimonjic,638f451b,S Thakur,a073f2ff,0,0,0,0,0,,,,,,1,0,1
+1267308,2021,Romania,8,Sami Ullah,ad05692c,NR Johns-Wickberg,3924b2ee,S Thakur,a073f2ff,0,0,0,0,0,,,,,,0,0,0
+1267308,2021,Romania,8,Sami Ullah,ad05692c,NR Johns-Wickberg,3924b2ee,S Thakur,a073f2ff,0,0,0,0,0,,,,,,1,0,1
+1267308,2021,Romania,8,S Thakur,a073f2ff,NR Johns-Wickberg,3924b2ee,Sami Ullah,ad05692c,0,0,0,0,0,,,,,,0,0,0
+1267308,2021,Romania,8,S Thakur,a073f2ff,NR Johns-Wickberg,3924b2ee,Sami Ullah,ad05692c,0,0,0,0,0,,,,,,0,0,0
+1267308,2021,Romania,8,S Thakur,a073f2ff,NR Johns-Wickberg,3924b2ee,Sami Ullah,ad05692c,1,0,0,0,0,,,,,,0,1,1
+1267308,2021,Romania,8,S Thakur,a073f2ff,NR Johns-Wickberg,3924b2ee,Sami Ullah,ad05692c,0,0,0,0,0,,,,,,0,0,0
+1267308,2021,Romania,8,S Thakur,a073f2ff,NR Johns-Wickberg,3924b2ee,Sami Ullah,ad05692c,0,0,0,0,0,,,,,,1,0,1
+1267308,2021,Romania,9,S Thakur,a073f2ff,N Zimonjic,638f451b,Sami Ullah,ad05692c,0,0,0,0,0,,,,,,1,0,1
+1267308,2021,Romania,9,Sami Ullah,ad05692c,N Zimonjic,638f451b,S Thakur,a073f2ff,0,0,0,0,0,,,,,,6,0,6
+1267308,2021,Romania,9,Sami Ullah,ad05692c,N Zimonjic,638f451b,S Thakur,a073f2ff,0,0,0,0,0,,,,,,6,0,6
+1267308,2021,Romania,9,Sami Ullah,ad05692c,N Zimonjic,638f451b,S Thakur,a073f2ff,0,0,0,0,0,,,,,,6,0,6
+1267308,2021,Romania,9,Sami Ullah,ad05692c,N Zimonjic,638f451b,S Thakur,a073f2ff,0,0,0,0,0,,,,,,4,0,4
+1267308,2021,Romania,9,Sami Ullah,ad05692c,N Zimonjic,638f451b,S Thakur,a073f2ff,0,0,0,0,1,Sami Ullah,ad05692c,WAE Burton,b0358c6d,caught,0,0,0
+1267308,2021,Romania,10,Waqar Abbasi,9e287ee3,NR Johns-Wickberg,3924b2ee,S Thakur,a073f2ff,0,0,0,0,0,,,,,,0,0,0
+1267308,2021,Romania,10,Waqar Abbasi,9e287ee3,NR Johns-Wickberg,3924b2ee,S Thakur,a073f2ff,0,0,0,0,0,,,,,,0,0,0
+1267308,2021,Romania,10,Waqar Abbasi,9e287ee3,NR Johns-Wickberg,3924b2ee,S Thakur,a073f2ff,0,0,0,0,0,,,,,,0,0,0
+1267308,2021,Romania,10,Waqar Abbasi,9e287ee3,NR Johns-Wickberg,3924b2ee,S Thakur,a073f2ff,0,0,0,0,1,Waqar Abbasi,9e287ee3,Danijel Petrovic,ebb04e02,caught,0,0,0
+1267308,2021,Romania,10,Abdul Shakoor (2),d52b13a6,NR Johns-Wickberg,3924b2ee,S Thakur,a073f2ff,0,0,0,0,0,,,,,,0,0,0
+1267308,2021,Romania,10,Abdul Shakoor (2),d52b13a6,NR Johns-Wickberg,3924b2ee,S Thakur,a073f2ff,0,0,0,0,0,,,,,,1,0,1
+1267308,2021,Romania,11,Abdul Shakoor (2),d52b13a6,A Djorovic,677c18f9,S Thakur,a073f2ff,0,0,0,0,0,,,,,,0,0,0
+1267308,2021,Romania,11,Abdul Shakoor (2),d52b13a6,A Djorovic,677c18f9,S Thakur,a073f2ff,0,0,0,0,0,,,,,,1,0,1
+1267308,2021,Romania,11,S Thakur,a073f2ff,A Djorovic,677c18f9,Abdul Shakoor (2),d52b13a6,0,0,0,0,1,S Thakur,a073f2ff,V Zimonjic,7f784eb8,caught,0,0,0
+1267308,2021,Romania,11,G Manan,d7265622,A Djorovic,677c18f9,Abdul Shakoor (2),d52b13a6,2,0,0,0,0,,,,,,0,2,2
+1267308,2021,Romania,11,Abdul Shakoor (2),d52b13a6,A Djorovic,677c18f9,G Manan,d7265622,0,0,0,0,0,,,,,,1,0,1
+1267308,2021,Romania,11,G Manan,d7265622,A Djorovic,677c18f9,Abdul Shakoor (2),d52b13a6,0,0,0,0,0,,,,,,4,0,4
+1267308,2021,Romania,11,G Manan,d7265622,A Djorovic,677c18f9,Abdul Shakoor (2),d52b13a6,1,0,0,0,0,,,,,,0,1,1
+1267308,2021,Romania,11,G Manan,d7265622,A Djorovic,677c18f9,Abdul Shakoor (2),d52b13a6,0,0,0,0,0,,,,,,4,0,4
+1267308,2021,Romania,12,Abdul Shakoor (2),d52b13a6,V Zimonjic,7f784eb8,G Manan,d7265622,0,0,0,0,0,,,,,,1,0,1
+1267308,2021,Romania,12,G Manan,d7265622,V Zimonjic,7f784eb8,Abdul Shakoor (2),d52b13a6,0,0,0,0,0,,,,,,1,0,1
+1267308,2021,Romania,12,Abdul Shakoor (2),d52b13a6,V Zimonjic,7f784eb8,G Manan,d7265622,1,0,0,0,0,,,,,,0,1,1
+1267308,2021,Romania,12,Abdul Shakoor (2),d52b13a6,V Zimonjic,7f784eb8,G Manan,d7265622,0,0,0,0,0,,,,,,0,0,0
+1267308,2021,Romania,12,Abdul Shakoor (2),d52b13a6,V Zimonjic,7f784eb8,G Manan,d7265622,0,0,0,0,0,,,,,,1,0,1
+1267308,2021,Romania,12,G Manan,d7265622,V Zimonjic,7f784eb8,Abdul Shakoor (2),d52b13a6,0,0,0,0,0,,,,,,1,0,1
+1267308,2021,Romania,12,Abdul Shakoor (2),d52b13a6,V Zimonjic,7f784eb8,G Manan,d7265622,0,0,0,0,0,,,,,,1,0,1
+1267308,2021,Romania,13,G Manan,d7265622,WAE Burton,b0358c6d,Abdul Shakoor (2),d52b13a6,1,0,0,0,0,,,,,,0,1,1
+1267308,2021,Romania,13,G Manan,d7265622,WAE Burton,b0358c6d,Abdul Shakoor (2),d52b13a6,0,0,0,0,0,,,,,,0,0,0
+1267308,2021,Romania,13,G Manan,d7265622,WAE Burton,b0358c6d,Abdul Shakoor (2),d52b13a6,0,0,0,0,0,,,,,,1,0,1
+1267308,2021,Romania,13,Abdul Shakoor (2),d52b13a6,WAE Burton,b0358c6d,G Manan,d7265622,0,0,0,0,1,Abdul Shakoor (2),d52b13a6,,,bowled,0,0,0
+1267308,2021,Romania,13,R Satheesan,1125ebe4,WAE Burton,b0358c6d,G Manan,d7265622,0,0,0,0,0,,,,,,1,0,1
+1267308,2021,Romania,13,G Manan,d7265622,WAE Burton,b0358c6d,R Satheesan,1125ebe4,0,0,0,0,0,,,,,,1,0,1
+1267308,2021,Romania,13,R Satheesan,1125ebe4,WAE Burton,b0358c6d,G Manan,d7265622,0,0,0,0,0,,,,,,1,0,1
+1267308,2021,Romania,14,R Satheesan,1125ebe4,V Zimonjic,7f784eb8,G Manan,d7265622,0,0,0,0,0,,,,,,0,0,0
+1267308,2021,Romania,14,R Satheesan,1125ebe4,V Zimonjic,7f784eb8,G Manan,d7265622,0,0,0,0,0,,,,,,0,0,0
+1267308,2021,Romania,14,R Satheesan,1125ebe4,V Zimonjic,7f784eb8,G Manan,d7265622,0,0,0,0,0,,,,,,2,0,2
+1267308,2021,Romania,14,R Satheesan,1125ebe4,V Zimonjic,7f784eb8,G Manan,d7265622,1,0,0,0,0,,,,,,0,1,1
+1267308,2021,Romania,14,R Satheesan,1125ebe4,V Zimonjic,7f784eb8,G Manan,d7265622,0,0,0,0,0,,,,,,0,0,0
+1267308,2021,Romania,14,R Satheesan,1125ebe4,V Zimonjic,7f784eb8,G Manan,d7265622,0,0,0,0,0,,,,,,1,0,1
+1267308,2021,Romania,14,G Manan,d7265622,V Zimonjic,7f784eb8,R Satheesan,1125ebe4,0,0,0,0,0,,,,,,4,0,4
+1267308,2021,Romania,15,R Satheesan,1125ebe4,N Zimonjic,638f451b,G Manan,d7265622,0,0,0,0,0,,,,,,4,0,4
+1267308,2021,Romania,15,R Satheesan,1125ebe4,N Zimonjic,638f451b,G Manan,d7265622,0,0,0,0,0,,,,,,4,0,4
+1267308,2021,Romania,15,R Satheesan,1125ebe4,N Zimonjic,638f451b,G Manan,d7265622,1,0,0,0,0,,,,,,0,1,1
+1267308,2021,Romania,15,R Satheesan,1125ebe4,N Zimonjic,638f451b,G Manan,d7265622,0,0,0,0,0,,,,,,1,0,1
+1267308,2021,Romania,15,G Manan,d7265622,N Zimonjic,638f451b,R Satheesan,1125ebe4,0,0,0,0,0,,,,,,1,0,1
+1267308,2021,Romania,15,R Satheesan,1125ebe4,N Zimonjic,638f451b,G Manan,d7265622,0,0,0,0,1,R Satheesan,1125ebe4,LA Dunbar,f50433e9,caught,0,0,0
+1267308,2021,Romania,15,P Florin,c9c356e2,N Zimonjic,638f451b,G Manan,d7265622,1,0,0,0,0,,,,,,0,1,1
+1267308,2021,Romania,15,P Florin,c9c356e2,N Zimonjic,638f451b,G Manan,d7265622,0,0,0,0,0,,,,,,0,0,0
+1267308,2021,Romania,16,G Manan,d7265622,WAE Burton,b0358c6d,P Florin,c9c356e2,0,0,0,0,1,G Manan,d7265622,,,bowled,0,0,0
+1267308,2021,Romania,16,Aftab Kayani,4d83491d,WAE Burton,b0358c6d,P Florin,c9c356e2,0,0,0,0,0,,,,,,4,0,4
+1267308,2021,Romania,16,Aftab Kayani,4d83491d,WAE Burton,b0358c6d,P Florin,c9c356e2,0,0,0,0,0,,,,,,0,0,0
+1267308,2021,Romania,16,Aftab Kayani,4d83491d,WAE Burton,b0358c6d,P Florin,c9c356e2,0,0,0,0,0,,,,,,4,0,4
+1267308,2021,Romania,16,Aftab Kayani,4d83491d,WAE Burton,b0358c6d,P Florin,c9c356e2,0,0,0,0,0,,,,,,0,0,0
+1267308,2021,Romania,16,Aftab Kayani,4d83491d,WAE Burton,b0358c6d,P Florin,c9c356e2,0,0,0,0,0,,,,,,1,0,1
+1267308,2021,Romania,17,Aftab Kayani,4d83491d,V Zimonjic,7f784eb8,P Florin,c9c356e2,0,0,0,0,0,,,,,,0,0,0
+1267308,2021,Romania,17,Aftab Kayani,4d83491d,V Zimonjic,7f784eb8,P Florin,c9c356e2,0,0,0,0,0,,,,,,1,0,1
+1267308,2021,Romania,17,P Florin,c9c356e2,V Zimonjic,7f784eb8,Aftab Kayani,4d83491d,0,0,0,0,0,,,,,,0,0,0
+1267308,2021,Romania,17,P Florin,c9c356e2,V Zimonjic,7f784eb8,Aftab Kayani,4d83491d,0,0,0,0,0,,,,,,1,0,1
+1267308,2021,Romania,17,Aftab Kayani,4d83491d,V Zimonjic,7f784eb8,P Florin,c9c356e2,0,0,0,0,0,,,,,,2,0,2
+1267308,2021,Romania,17,Aftab Kayani,4d83491d,V Zimonjic,7f784eb8,P Florin,c9c356e2,0,0,0,0,0,,,,,,1,0,1
+1267308,2021,Romania,18,Aftab Kayani,4d83491d,M Sarenac,f5ba4611,P Florin,c9c356e2,0,0,0,0,0,,,,,,0,0,0
+1267308,2021,Romania,18,Aftab Kayani,4d83491d,M Sarenac,f5ba4611,P Florin,c9c356e2,0,0,0,0,0,,,,,,4,0,4
+1267308,2021,Romania,18,Aftab Kayani,4d83491d,M Sarenac,f5ba4611,P Florin,c9c356e2,0,0,0,0,0,,,,,,1,0,1
+1267308,2021,Romania,18,P Florin,c9c356e2,M Sarenac,f5ba4611,Aftab Kayani,4d83491d,0,0,0,0,0,,,,,,0,0,0
+1267308,2021,Romania,18,P Florin,c9c356e2,M Sarenac,f5ba4611,Aftab Kayani,4d83491d,0,0,0,0,0,,,,,,1,0,1
+1267308,2021,Romania,18,Aftab Kayani,4d83491d,M Sarenac,f5ba4611,P Florin,c9c356e2,0,0,0,0,0,,,,,,2,0,2
+1267308,2021,Romania,19,P Florin,c9c356e2,WAE Burton,b0358c6d,Aftab Kayani,4d83491d,0,0,0,0,0,,,,,,1,0,1
+1267308,2021,Romania,19,Aftab Kayani,4d83491d,WAE Burton,b0358c6d,P Florin,c9c356e2,0,0,0,0,1,Aftab Kayani,4d83491d,BJ Davidson,5b658677,caught,0,0,0
+1267308,2021,Serbia,0,S Tosic,1c40f69f,Aftab Kayani,4d83491d,WAE Burton,b0358c6d,0,0,0,0,0,,,,,,0,0,0
+1267308,2021,Serbia,0,S Tosic,1c40f69f,Aftab Kayani,4d83491d,WAE Burton,b0358c6d,0,0,0,0,0,,,,,,0,0,0
+1267308,2021,Serbia,0,S Tosic,1c40f69f,Aftab Kayani,4d83491d,WAE Burton,b0358c6d,0,0,0,0,0,,,,,,0,0,0
+1267308,2021,Serbia,0,S Tosic,1c40f69f,Aftab Kayani,4d83491d,WAE Burton,b0358c6d,0,0,0,0,0,,,,,,0,0,0
+1267308,2021,Serbia,0,S Tosic,1c40f69f,Aftab Kayani,4d83491d,WAE Burton,b0358c6d,0,0,0,0,0,,,,,,0,0,0
+1267308,2021,Serbia,0,S Tosic,1c40f69f,Aftab Kayani,4d83491d,WAE Burton,b0358c6d,0,0,0,0,0,,,,,,4,0,4
+1267308,2021,Serbia,1,WAE Burton,b0358c6d,Ijaz Hussain,dc1dd6c4,S Tosic,1c40f69f,0,0,0,0,0,,,,,,0,0,0
+1267308,2021,Serbia,1,WAE Burton,b0358c6d,Ijaz Hussain,dc1dd6c4,S Tosic,1c40f69f,0,0,0,0,0,,,,,,0,0,0
+1267308,2021,Serbia,1,WAE Burton,b0358c6d,Ijaz Hussain,dc1dd6c4,S Tosic,1c40f69f,0,0,0,0,0,,,,,,4,0,4
+1267308,2021,Serbia,1,WAE Burton,b0358c6d,Ijaz Hussain,dc1dd6c4,S Tosic,1c40f69f,0,0,0,0,0,,,,,,0,0,0
+1267308,2021,Serbia,1,WAE Burton,b0358c6d,Ijaz Hussain,dc1dd6c4,S Tosic,1c40f69f,0,0,0,0,0,,,,,,4,0,4
+1267308,2021,Serbia,1,WAE Burton,b0358c6d,Ijaz Hussain,dc1dd6c4,S Tosic,1c40f69f,0,0,0,0,0,,,,,,0,0,0
+1267308,2021,Serbia,2,S Tosic,1c40f69f,Aftab Kayani,4d83491d,WAE Burton,b0358c6d,0,0,0,0,0,,,,,,0,0,0
+1267308,2021,Serbia,2,S Tosic,1c40f69f,Aftab Kayani,4d83491d,WAE Burton,b0358c6d,1,0,0,0,0,,,,,,0,1,1
+1267308,2021,Serbia,2,S Tosic,1c40f69f,Aftab Kayani,4d83491d,WAE Burton,b0358c6d,0,0,0,0,0,,,,,,0,0,0
+1267308,2021,Serbia,2,S Tosic,1c40f69f,Aftab Kayani,4d83491d,WAE Burton,b0358c6d,0,0,0,0,1,S Tosic,1c40f69f,,,bowled,0,0,0
+1267308,2021,Serbia,2,LA Dunbar,f50433e9,Aftab Kayani,4d83491d,WAE Burton,b0358c6d,0,0,0,0,0,,,,,,0,0,0
+1267308,2021,Serbia,2,LA Dunbar,f50433e9,Aftab Kayani,4d83491d,WAE Burton,b0358c6d,0,0,0,0,0,,,,,,0,0,0
+1267308,2021,Serbia,2,LA Dunbar,f50433e9,Aftab Kayani,4d83491d,WAE Burton,b0358c6d,0,0,0,0,1,LA Dunbar,f50433e9,,,bowled,0,0,0
+1267308,2021,Serbia,3,WAE Burton,b0358c6d,Ijaz Hussain,dc1dd6c4,Apon Mustafizur,1558c83d,0,0,0,0,0,,,,,,0,0,0
+1267308,2021,Serbia,3,WAE Burton,b0358c6d,Ijaz Hussain,dc1dd6c4,Apon Mustafizur,1558c83d,0,0,0,0,0,,,,,,4,0,4
+1267308,2021,Serbia,3,WAE Burton,b0358c6d,Ijaz Hussain,dc1dd6c4,Apon Mustafizur,1558c83d,0,0,0,0,0,,,,,,0,0,0
+1267308,2021,Serbia,3,WAE Burton,b0358c6d,Ijaz Hussain,dc1dd6c4,Apon Mustafizur,1558c83d,1,0,0,0,0,,,,,,0,1,1
+1267308,2021,Serbia,3,WAE Burton,b0358c6d,Ijaz Hussain,dc1dd6c4,Apon Mustafizur,1558c83d,1,0,0,0,0,,,,,,0,1,1
+1267308,2021,Serbia,3,WAE Burton,b0358c6d,Ijaz Hussain,dc1dd6c4,Apon Mustafizur,1558c83d,0,0,0,0,0,,,,,,6,0,6
+1267308,2021,Serbia,3,WAE Burton,b0358c6d,Ijaz Hussain,dc1dd6c4,Apon Mustafizur,1558c83d,0,0,0,0,0,,,,,,4,0,4
+1267308,2021,Serbia,3,WAE Burton,b0358c6d,Ijaz Hussain,dc1dd6c4,Apon Mustafizur,1558c83d,0,0,0,0,1,WAE Burton,b0358c6d,Abdul Shakoor (2),d52b13a6,caught,0,0,0
+1267308,2021,Serbia,4,Apon Mustafizur,1558c83d,Aftab Kayani,4d83491d,NR Johns-Wickberg,3924b2ee,1,0,0,0,0,,,,,,0,1,1
+1267308,2021,Serbia,4,Apon Mustafizur,1558c83d,Aftab Kayani,4d83491d,NR Johns-Wickberg,3924b2ee,0,0,0,0,0,,,,,,0,0,0
+1267308,2021,Serbia,4,Apon Mustafizur,1558c83d,Aftab Kayani,4d83491d,NR Johns-Wickberg,3924b2ee,0,0,0,0,0,,,,,,0,0,0
+1267308,2021,Serbia,4,Apon Mustafizur,1558c83d,Aftab Kayani,4d83491d,NR Johns-Wickberg,3924b2ee,0,0,0,0,0,,,,,,0,0,0
+1267308,2021,Serbia,4,Apon Mustafizur,1558c83d,Aftab Kayani,4d83491d,NR Johns-Wickberg,3924b2ee,0,0,0,0,0,,,,,,0,0,0
+1267308,2021,Serbia,4,Apon Mustafizur,1558c83d,Aftab Kayani,4d83491d,NR Johns-Wickberg,3924b2ee,0,0,0,5,0,,,,,,0,5,5
+1267308,2021,Serbia,4,NR Johns-Wickberg,3924b2ee,Aftab Kayani,4d83491d,Apon Mustafizur,1558c83d,0,0,0,0,0,,,,,,0,0,0
+1267308,2021,Serbia,5,Apon Mustafizur,1558c83d,Sami Ullah,ad05692c,NR Johns-Wickberg,3924b2ee,0,0,0,0,1,Apon Mustafizur,1558c83d,S Nadigotla,b78b3ffd,caught,0,0,0
+1267308,2021,Serbia,5,J Reb,880eca04,Sami Ullah,ad05692c,NR Johns-Wickberg,3924b2ee,0,0,0,0,0,,,,,,0,0,0
+1267308,2021,Serbia,5,J Reb,880eca04,Sami Ullah,ad05692c,NR Johns-Wickberg,3924b2ee,0,0,0,0,0,,,,,,6,0,6
+1267308,2021,Serbia,5,J Reb,880eca04,Sami Ullah,ad05692c,NR Johns-Wickberg,3924b2ee,0,0,0,0,0,,,,,,2,0,2
+1267308,2021,Serbia,5,J Reb,880eca04,Sami Ullah,ad05692c,NR Johns-Wickberg,3924b2ee,0,0,0,0,0,,,,,,4,0,4
+1267308,2021,Serbia,5,J Reb,880eca04,Sami Ullah,ad05692c,NR Johns-Wickberg,3924b2ee,1,0,0,0,0,,,,,,0,1,1
+1267308,2021,Serbia,5,J Reb,880eca04,Sami Ullah,ad05692c,NR Johns-Wickberg,3924b2ee,0,0,0,0,0,,,,,,0,0,0
+1267308,2021,Serbia,6,NR Johns-Wickberg,3924b2ee,Waqar Abbasi,9e287ee3,J Reb,880eca04,0,0,0,0,0,,,,,,0,0,0
+1267308,2021,Serbia,6,NR Johns-Wickberg,3924b2ee,Waqar Abbasi,9e287ee3,J Reb,880eca04,0,0,0,0,0,,,,,,0,0,0
+1267308,2021,Serbia,6,NR Johns-Wickberg,3924b2ee,Waqar Abbasi,9e287ee3,J Reb,880eca04,0,0,0,0,0,,,,,,4,0,4
+1267308,2021,Serbia,6,NR Johns-Wickberg,3924b2ee,Waqar Abbasi,9e287ee3,J Reb,880eca04,0,0,0,0,0,,,,,,1,0,1
+1267308,2021,Serbia,6,J Reb,880eca04,Waqar Abbasi,9e287ee3,NR Johns-Wickberg,3924b2ee,0,0,0,0,0,,,,,,0,0,0
+1267308,2021,Serbia,6,J Reb,880eca04,Waqar Abbasi,9e287ee3,NR Johns-Wickberg,3924b2ee,0,0,0,0,0,,,,,,0,0,0
+1267308,2021,Serbia,7,NR Johns-Wickberg,3924b2ee,Sami Ullah,ad05692c,J Reb,880eca04,0,0,0,0,1,NR Johns-Wickberg,3924b2ee,,,caught and bowled,0,0,0
+1267308,2021,Serbia,7,N Zimonjic,638f451b,Sami Ullah,ad05692c,J Reb,880eca04,0,0,0,0,0,,,,,,4,0,4
+1267308,2021,Serbia,7,N Zimonjic,638f451b,Sami Ullah,ad05692c,J Reb,880eca04,0,0,0,0,0,,,,,,0,0,0
+1267308,2021,Serbia,7,N Zimonjic,638f451b,Sami Ullah,ad05692c,J Reb,880eca04,0,0,0,0,0,,,,,,1,0,1
+1267308,2021,Serbia,7,J Reb,880eca04,Sami Ullah,ad05692c,N Zimonjic,638f451b,0,0,0,0,0,,,,,,1,0,1
+1267308,2021,Serbia,7,N Zimonjic,638f451b,Sami Ullah,ad05692c,J Reb,880eca04,0,0,0,0,0,,,,,,1,0,1
+1267308,2021,Serbia,8,N Zimonjic,638f451b,Waqar Abbasi,9e287ee3,J Reb,880eca04,0,0,0,0,0,,,,,,0,0,0
+1267308,2021,Serbia,8,N Zimonjic,638f451b,Waqar Abbasi,9e287ee3,J Reb,880eca04,0,0,0,0,0,,,,,,1,0,1
+1267308,2021,Serbia,8,J Reb,880eca04,Waqar Abbasi,9e287ee3,N Zimonjic,638f451b,0,0,0,0,0,,,,,,0,0,0
+1267308,2021,Serbia,8,J Reb,880eca04,Waqar Abbasi,9e287ee3,N Zimonjic,638f451b,0,0,0,0,0,,,,,,1,0,1
+1267308,2021,Serbia,8,N Zimonjic,638f451b,Waqar Abbasi,9e287ee3,J Reb,880eca04,0,0,0,0,0,,,,,,1,0,1
+1267308,2021,Serbia,8,J Reb,880eca04,Waqar Abbasi,9e287ee3,N Zimonjic,638f451b,0,0,0,0,0,,,,,,0,0,0
+1267308,2021,Serbia,9,N Zimonjic,638f451b,S Thakur,a073f2ff,J Reb,880eca04,1,0,0,0,0,,,,,,0,1,1
+1267308,2021,Serbia,9,N Zimonjic,638f451b,S Thakur,a073f2ff,J Reb,880eca04,0,0,0,0,0,,,,,,0,0,0
+1267308,2021,Serbia,9,N Zimonjic,638f451b,S Thakur,a073f2ff,J Reb,880eca04,0,0,0,0,0,,,,,,1,0,1
+1267308,2021,Serbia,9,J Reb,880eca04,S Thakur,a073f2ff,N Zimonjic,638f451b,0,0,0,4,0,,,,,,0,4,4
+1267308,2021,Serbia,9,J Reb,880eca04,S Thakur,a073f2ff,N Zimonjic,638f451b,0,0,0,0,0,,,,,,1,0,1
+1267308,2021,Serbia,9,N Zimonjic,638f451b,S Thakur,a073f2ff,J Reb,880eca04,0,0,0,0,0,,,,,,0,0,0
+1267308,2021,Serbia,9,N Zimonjic,638f451b,S Thakur,a073f2ff,J Reb,880eca04,0,0,0,0,0,,,,,,0,0,0
+1267308,2021,Serbia,10,J Reb,880eca04,P Florin,c9c356e2,N Zimonjic,638f451b,0,0,0,0,0,,,,,,0,0,0
+1267308,2021,Serbia,10,J Reb,880eca04,P Florin,c9c356e2,N Zimonjic,638f451b,0,0,0,0,0,,,,,,1,0,1
+1267308,2021,Serbia,10,N Zimonjic,638f451b,P Florin,c9c356e2,J Reb,880eca04,0,0,0,0,0,,,,,,0,0,0
+1267308,2021,Serbia,10,N Zimonjic,638f451b,P Florin,c9c356e2,J Reb,880eca04,0,0,0,0,0,,,,,,1,0,1
+1267308,2021,Serbia,10,J Reb,880eca04,P Florin,c9c356e2,N Zimonjic,638f451b,0,0,0,0,0,,,,,,1,0,1
+1267308,2021,Serbia,10,N Zimonjic,638f451b,P Florin,c9c356e2,J Reb,880eca04,0,0,0,0,0,,,,,,0,0,0
+1267308,2021,Serbia,11,J Reb,880eca04,S Thakur,a073f2ff,N Zimonjic,638f451b,0,0,0,0,0,,,,,,0,0,0
+1267308,2021,Serbia,11,J Reb,880eca04,S Thakur,a073f2ff,N Zimonjic,638f451b,0,0,0,0,0,,,,,,0,0,0
+1267308,2021,Serbia,11,J Reb,880eca04,S Thakur,a073f2ff,N Zimonjic,638f451b,0,0,0,0,0,,,,,,2,0,2
+1267308,2021,Serbia,11,J Reb,880eca04,S Thakur,a073f2ff,N Zimonjic,638f451b,1,0,0,0,0,,,,,,0,1,1
+1267308,2021,Serbia,11,J Reb,880eca04,S Thakur,a073f2ff,N Zimonjic,638f451b,0,0,0,0,1,J Reb,880eca04,,,bowled,0,0,0
+1267308,2021,Serbia,11,BJ Davidson,5b658677,S Thakur,a073f2ff,N Zimonjic,638f451b,0,0,0,0,0,,,,,,4,0,4
+1267308,2021,Serbia,11,BJ Davidson,5b658677,S Thakur,a073f2ff,N Zimonjic,638f451b,0,0,0,0,0,,,,,,1,0,1
+1267308,2021,Serbia,12,BJ Davidson,5b658677,P Florin,c9c356e2,N Zimonjic,638f451b,0,0,0,0,0,,,,,,0,0,0
+1267308,2021,Serbia,12,BJ Davidson,5b658677,P Florin,c9c356e2,N Zimonjic,638f451b,0,0,0,0,0,,,,,,1,0,1
+1267308,2021,Serbia,12,N Zimonjic,638f451b,P Florin,c9c356e2,BJ Davidson,5b658677,0,0,0,0,1,N Zimonjic,638f451b,S Nadigotla,b78b3ffd,stumped,0,0,0
+1267308,2021,Serbia,12,V Zimonjic,7f784eb8,P Florin,c9c356e2,BJ Davidson,5b658677,0,0,0,0,0,,,,,,0,0,0
+1267308,2021,Serbia,12,V Zimonjic,7f784eb8,P Florin,c9c356e2,BJ Davidson,5b658677,0,0,0,0,0,,,,,,1,0,1
+1267308,2021,Serbia,12,BJ Davidson,5b658677,P Florin,c9c356e2,V Zimonjic,7f784eb8,0,0,0,0,1,BJ Davidson,5b658677,S Nadigotla,b78b3ffd,stumped,0,0,0
+1267308,2021,Serbia,13,V Zimonjic,7f784eb8,Waqar Abbasi,9e287ee3,A Djorovic,677c18f9,0,0,0,0,0,,,,,,4,0,4
+1267308,2021,Serbia,13,V Zimonjic,7f784eb8,Waqar Abbasi,9e287ee3,A Djorovic,677c18f9,0,0,0,0,0,,,,,,0,0,0
+1267308,2021,Serbia,13,V Zimonjic,7f784eb8,Waqar Abbasi,9e287ee3,A Djorovic,677c18f9,0,0,0,0,0,,,,,,1,0,1
+1267308,2021,Serbia,13,A Djorovic,677c18f9,Waqar Abbasi,9e287ee3,V Zimonjic,7f784eb8,0,0,0,0,0,,,,,,1,0,1
+1267308,2021,Serbia,13,V Zimonjic,7f784eb8,Waqar Abbasi,9e287ee3,A Djorovic,677c18f9,0,0,0,0,0,,,,,,0,0,0
+1267308,2021,Serbia,13,V Zimonjic,7f784eb8,Waqar Abbasi,9e287ee3,A Djorovic,677c18f9,0,0,0,0,0,,,,,,0,0,0
+1267308,2021,Serbia,14,A Djorovic,677c18f9,P Florin,c9c356e2,V Zimonjic,7f784eb8,0,0,0,0,0,,,,,,1,0,1
+1267308,2021,Serbia,14,V Zimonjic,7f784eb8,P Florin,c9c356e2,A Djorovic,677c18f9,0,0,0,0,0,,,,,,1,0,1
+1267308,2021,Serbia,14,A Djorovic,677c18f9,P Florin,c9c356e2,V Zimonjic,7f784eb8,0,0,0,0,0,,,,,,1,0,1
+1267308,2021,Serbia,14,V Zimonjic,7f784eb8,P Florin,c9c356e2,A Djorovic,677c18f9,0,0,0,0,0,,,,,,4,0,4
+1267308,2021,Serbia,14,V Zimonjic,7f784eb8,P Florin,c9c356e2,A Djorovic,677c18f9,0,0,0,0,0,,,,,,0,0,0
+1267308,2021,Serbia,14,V Zimonjic,7f784eb8,P Florin,c9c356e2,A Djorovic,677c18f9,0,0,0,0,0,,,,,,1,0,1
+1267308,2021,Serbia,15,V Zimonjic,7f784eb8,Waqar Abbasi,9e287ee3,A Djorovic,677c18f9,0,0,0,0,1,V Zimonjic,7f784eb8,Sami Ullah,ad05692c,caught,0,0,0
+1267308,2021,Serbia,15,M Sarenac,f5ba4611,Waqar Abbasi,9e287ee3,A Djorovic,677c18f9,0,0,0,0,0,,,,,,0,0,0
+1267308,2021,Serbia,15,M Sarenac,f5ba4611,Waqar Abbasi,9e287ee3,A Djorovic,677c18f9,0,0,0,0,0,,,,,,1,0,1
+1267308,2021,Serbia,15,A Djorovic,677c18f9,Waqar Abbasi,9e287ee3,M Sarenac,f5ba4611,0,0,0,0,0,,,,,,1,0,1
+1267308,2021,Serbia,15,M Sarenac,f5ba4611,Waqar Abbasi,9e287ee3,A Djorovic,677c18f9,0,0,0,0,0,,,,,,0,0,0
+1267308,2021,Serbia,15,M Sarenac,f5ba4611,Waqar Abbasi,9e287ee3,A Djorovic,677c18f9,0,0,0,0,0,,,,,,0,0,0
+1267308,2021,Serbia,16,A Djorovic,677c18f9,P Florin,c9c356e2,M Sarenac,f5ba4611,0,0,0,0,0,,,,,,0,0,0
+1267308,2021,Serbia,16,A Djorovic,677c18f9,P Florin,c9c356e2,M Sarenac,f5ba4611,0,0,0,0,0,,,,,,0,0,0
+1267308,2021,Serbia,16,A Djorovic,677c18f9,P Florin,c9c356e2,M Sarenac,f5ba4611,0,0,0,0,0,,,,,,0,0,0
+1267308,2021,Serbia,16,A Djorovic,677c18f9,P Florin,c9c356e2,M Sarenac,f5ba4611,0,0,0,0,0,,,,,,1,0,1
+1267308,2021,Serbia,16,M Sarenac,f5ba4611,P Florin,c9c356e2,A Djorovic,677c18f9,0,0,0,0,1,M Sarenac,f5ba4611,C Zavoiu,6b96bebf,caught,0,0,0

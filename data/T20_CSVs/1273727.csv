@@ -1,0 +1,237 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1273727,2021/22,India,0,KL Rahul,b17e2f24,Shaheen Shah Afridi,45a7e761,RG Sharma,740742ef,0,0,0,0,0,,,,,,0,0,0
+1273727,2021/22,India,0,KL Rahul,b17e2f24,Shaheen Shah Afridi,45a7e761,RG Sharma,740742ef,0,0,0,0,0,,,,,,0,0,0
+1273727,2021/22,India,0,KL Rahul,b17e2f24,Shaheen Shah Afridi,45a7e761,RG Sharma,740742ef,0,0,0,0,0,,,,,,1,0,1
+1273727,2021/22,India,0,RG Sharma,740742ef,Shaheen Shah Afridi,45a7e761,KL Rahul,b17e2f24,0,0,0,0,1,RG Sharma,740742ef,,,lbw,0,0,0
+1273727,2021/22,India,0,V Kohli,ba607b88,Shaheen Shah Afridi,45a7e761,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,0,0,0
+1273727,2021/22,India,0,V Kohli,ba607b88,Shaheen Shah Afridi,45a7e761,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,1,0,1
+1273727,2021/22,India,1,V Kohli,ba607b88,Imad Wasim,9cb8d7a6,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,1,0,1
+1273727,2021/22,India,1,KL Rahul,b17e2f24,Imad Wasim,9cb8d7a6,V Kohli,ba607b88,0,0,0,0,0,,,,,,0,0,0
+1273727,2021/22,India,1,KL Rahul,b17e2f24,Imad Wasim,9cb8d7a6,V Kohli,ba607b88,0,0,0,0,0,,,,,,1,0,1
+1273727,2021/22,India,1,V Kohli,ba607b88,Imad Wasim,9cb8d7a6,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,1,0,1
+1273727,2021/22,India,1,KL Rahul,b17e2f24,Imad Wasim,9cb8d7a6,V Kohli,ba607b88,0,0,0,0,0,,,,,,0,0,0
+1273727,2021/22,India,1,KL Rahul,b17e2f24,Imad Wasim,9cb8d7a6,V Kohli,ba607b88,0,0,0,0,0,,,,,,1,0,1
+1273727,2021/22,India,2,KL Rahul,b17e2f24,Shaheen Shah Afridi,45a7e761,V Kohli,ba607b88,0,0,0,0,1,KL Rahul,b17e2f24,,,bowled,0,0,0
+1273727,2021/22,India,2,SA Yadav,271f83cd,Shaheen Shah Afridi,45a7e761,V Kohli,ba607b88,0,0,0,0,0,,,,,,0,0,0
+1273727,2021/22,India,2,SA Yadav,271f83cd,Shaheen Shah Afridi,45a7e761,V Kohli,ba607b88,0,0,0,0,0,,,,,,0,0,0
+1273727,2021/22,India,2,SA Yadav,271f83cd,Shaheen Shah Afridi,45a7e761,V Kohli,ba607b88,0,0,0,0,0,,,,,,1,0,1
+1273727,2021/22,India,2,V Kohli,ba607b88,Shaheen Shah Afridi,45a7e761,SA Yadav,271f83cd,0,0,0,0,0,,,,,,1,0,1
+1273727,2021/22,India,2,SA Yadav,271f83cd,Shaheen Shah Afridi,45a7e761,V Kohli,ba607b88,0,0,0,0,0,,,,,,6,0,6
+1273727,2021/22,India,3,V Kohli,ba607b88,Imad Wasim,9cb8d7a6,SA Yadav,271f83cd,0,0,0,0,0,,,,,,0,0,0
+1273727,2021/22,India,3,V Kohli,ba607b88,Imad Wasim,9cb8d7a6,SA Yadav,271f83cd,0,0,0,0,0,,,,,,0,0,0
+1273727,2021/22,India,3,V Kohli,ba607b88,Imad Wasim,9cb8d7a6,SA Yadav,271f83cd,0,0,0,0,0,,,,,,1,0,1
+1273727,2021/22,India,3,SA Yadav,271f83cd,Imad Wasim,9cb8d7a6,V Kohli,ba607b88,0,0,1,0,0,,,,,,0,1,1
+1273727,2021/22,India,3,V Kohli,ba607b88,Imad Wasim,9cb8d7a6,SA Yadav,271f83cd,0,0,0,0,0,,,,,,1,0,1
+1273727,2021/22,India,3,SA Yadav,271f83cd,Imad Wasim,9cb8d7a6,V Kohli,ba607b88,0,0,0,0,0,,,,,,4,0,4
+1273727,2021/22,India,4,V Kohli,ba607b88,Shaheen Shah Afridi,45a7e761,SA Yadav,271f83cd,0,0,0,0,0,,,,,,2,0,2
+1273727,2021/22,India,4,V Kohli,ba607b88,Shaheen Shah Afridi,45a7e761,SA Yadav,271f83cd,0,0,0,0,0,,,,,,0,0,0
+1273727,2021/22,India,4,V Kohli,ba607b88,Shaheen Shah Afridi,45a7e761,SA Yadav,271f83cd,0,0,0,0,0,,,,,,0,0,0
+1273727,2021/22,India,4,V Kohli,ba607b88,Shaheen Shah Afridi,45a7e761,SA Yadav,271f83cd,0,0,0,0,0,,,,,,0,0,0
+1273727,2021/22,India,4,V Kohli,ba607b88,Shaheen Shah Afridi,45a7e761,SA Yadav,271f83cd,0,0,0,0,0,,,,,,6,0,6
+1273727,2021/22,India,4,V Kohli,ba607b88,Shaheen Shah Afridi,45a7e761,SA Yadav,271f83cd,0,0,0,0,0,,,,,,1,0,1
+1273727,2021/22,India,5,V Kohli,ba607b88,Hasan Ali,2911de16,SA Yadav,271f83cd,0,0,0,0,0,,,,,,0,0,0
+1273727,2021/22,India,5,V Kohli,ba607b88,Hasan Ali,2911de16,SA Yadav,271f83cd,0,0,0,0,0,,,,,,1,0,1
+1273727,2021/22,India,5,SA Yadav,271f83cd,Hasan Ali,2911de16,V Kohli,ba607b88,0,0,0,0,0,,,,,,0,0,0
+1273727,2021/22,India,5,SA Yadav,271f83cd,Hasan Ali,2911de16,V Kohli,ba607b88,0,0,0,0,1,SA Yadav,271f83cd,Mohammad Rizwan,2f26ac1a,caught,0,0,0
+1273727,2021/22,India,5,RR Pant,919a3be2,Hasan Ali,2911de16,V Kohli,ba607b88,0,0,0,0,0,,,,,,1,0,1
+1273727,2021/22,India,5,V Kohli,ba607b88,Hasan Ali,2911de16,RR Pant,919a3be2,0,0,0,0,0,,,,,,4,0,4
+1273727,2021/22,India,6,RR Pant,919a3be2,Shadab Khan,9de62878,V Kohli,ba607b88,0,0,0,0,0,,,,,,0,0,0
+1273727,2021/22,India,6,RR Pant,919a3be2,Shadab Khan,9de62878,V Kohli,ba607b88,0,0,0,0,0,,,,,,0,0,0
+1273727,2021/22,India,6,RR Pant,919a3be2,Shadab Khan,9de62878,V Kohli,ba607b88,0,0,0,0,0,,,,,,0,0,0
+1273727,2021/22,India,6,RR Pant,919a3be2,Shadab Khan,9de62878,V Kohli,ba607b88,0,0,0,0,0,,,,,,2,0,2
+1273727,2021/22,India,6,RR Pant,919a3be2,Shadab Khan,9de62878,V Kohli,ba607b88,0,0,0,0,0,,,,,,0,0,0
+1273727,2021/22,India,6,RR Pant,919a3be2,Shadab Khan,9de62878,V Kohli,ba607b88,0,0,0,0,0,,,,,,1,0,1
+1273727,2021/22,India,7,RR Pant,919a3be2,Mohammad Hafeez,9ab63e7b,V Kohli,ba607b88,0,0,0,0,0,,,,,,0,0,0
+1273727,2021/22,India,7,RR Pant,919a3be2,Mohammad Hafeez,9ab63e7b,V Kohli,ba607b88,0,0,0,0,0,,,,,,1,0,1
+1273727,2021/22,India,7,V Kohli,ba607b88,Mohammad Hafeez,9ab63e7b,RR Pant,919a3be2,0,0,0,0,0,,,,,,1,0,1
+1273727,2021/22,India,7,RR Pant,919a3be2,Mohammad Hafeez,9ab63e7b,V Kohli,ba607b88,0,0,0,0,0,,,,,,0,0,0
+1273727,2021/22,India,7,RR Pant,919a3be2,Mohammad Hafeez,9ab63e7b,V Kohli,ba607b88,0,0,0,0,0,,,,,,1,0,1
+1273727,2021/22,India,7,V Kohli,ba607b88,Mohammad Hafeez,9ab63e7b,RR Pant,919a3be2,0,0,0,0,0,,,,,,1,0,1
+1273727,2021/22,India,8,V Kohli,ba607b88,Shadab Khan,9de62878,RR Pant,919a3be2,0,0,0,0,0,,,,,,1,0,1
+1273727,2021/22,India,8,RR Pant,919a3be2,Shadab Khan,9de62878,V Kohli,ba607b88,0,0,0,0,0,,,,,,0,0,0
+1273727,2021/22,India,8,RR Pant,919a3be2,Shadab Khan,9de62878,V Kohli,ba607b88,0,0,0,0,0,,,,,,2,0,2
+1273727,2021/22,India,8,RR Pant,919a3be2,Shadab Khan,9de62878,V Kohli,ba607b88,0,0,0,0,0,,,,,,1,0,1
+1273727,2021/22,India,8,V Kohli,ba607b88,Shadab Khan,9de62878,RR Pant,919a3be2,0,0,0,0,0,,,,,,1,0,1
+1273727,2021/22,India,8,RR Pant,919a3be2,Shadab Khan,9de62878,V Kohli,ba607b88,0,0,0,0,0,,,,,,4,0,4
+1273727,2021/22,India,9,V Kohli,ba607b88,Mohammad Hafeez,9ab63e7b,RR Pant,919a3be2,0,0,0,0,0,,,,,,1,0,1
+1273727,2021/22,India,9,RR Pant,919a3be2,Mohammad Hafeez,9ab63e7b,V Kohli,ba607b88,0,0,0,0,0,,,,,,4,0,4
+1273727,2021/22,India,9,RR Pant,919a3be2,Mohammad Hafeez,9ab63e7b,V Kohli,ba607b88,0,0,0,0,0,,,,,,1,0,1
+1273727,2021/22,India,9,V Kohli,ba607b88,Mohammad Hafeez,9ab63e7b,RR Pant,919a3be2,0,0,0,0,0,,,,,,1,0,1
+1273727,2021/22,India,9,RR Pant,919a3be2,Mohammad Hafeez,9ab63e7b,V Kohli,ba607b88,0,0,0,0,0,,,,,,0,0,0
+1273727,2021/22,India,9,RR Pant,919a3be2,Mohammad Hafeez,9ab63e7b,V Kohli,ba607b88,0,0,0,0,0,,,,,,1,0,1
+1273727,2021/22,India,10,RR Pant,919a3be2,Haris Rauf,24bb1c2f,V Kohli,ba607b88,0,0,0,0,0,,,,,,1,0,1
+1273727,2021/22,India,10,V Kohli,ba607b88,Haris Rauf,24bb1c2f,RR Pant,919a3be2,1,0,0,0,0,,,,,,0,1,1
+1273727,2021/22,India,10,V Kohli,ba607b88,Haris Rauf,24bb1c2f,RR Pant,919a3be2,0,0,0,0,0,,,,,,1,0,1
+1273727,2021/22,India,10,RR Pant,919a3be2,Haris Rauf,24bb1c2f,V Kohli,ba607b88,0,0,0,0,0,,,,,,1,0,1
+1273727,2021/22,India,10,V Kohli,ba607b88,Haris Rauf,24bb1c2f,RR Pant,919a3be2,0,0,0,0,0,,,,,,1,0,1
+1273727,2021/22,India,10,RR Pant,919a3be2,Haris Rauf,24bb1c2f,V Kohli,ba607b88,0,0,0,0,0,,,,,,0,0,0
+1273727,2021/22,India,10,RR Pant,919a3be2,Haris Rauf,24bb1c2f,V Kohli,ba607b88,0,0,0,0,0,,,,,,1,0,1
+1273727,2021/22,India,11,RR Pant,919a3be2,Hasan Ali,2911de16,V Kohli,ba607b88,0,0,0,0,0,,,,,,0,0,0
+1273727,2021/22,India,11,RR Pant,919a3be2,Hasan Ali,2911de16,V Kohli,ba607b88,0,0,0,0,0,,,,,,6,0,6
+1273727,2021/22,India,11,RR Pant,919a3be2,Hasan Ali,2911de16,V Kohli,ba607b88,0,0,0,0,0,,,,,,6,0,6
+1273727,2021/22,India,11,RR Pant,919a3be2,Hasan Ali,2911de16,V Kohli,ba607b88,0,0,0,0,0,,,,,,2,0,2
+1273727,2021/22,India,11,RR Pant,919a3be2,Hasan Ali,2911de16,V Kohli,ba607b88,0,0,0,0,0,,,,,,1,0,1
+1273727,2021/22,India,11,V Kohli,ba607b88,Hasan Ali,2911de16,RR Pant,919a3be2,0,0,0,0,0,,,,,,0,0,0
+1273727,2021/22,India,12,RR Pant,919a3be2,Shadab Khan,9de62878,V Kohli,ba607b88,0,0,0,0,0,,,,,,2,0,2
+1273727,2021/22,India,12,RR Pant,919a3be2,Shadab Khan,9de62878,V Kohli,ba607b88,1,0,0,0,0,,,,,,0,1,1
+1273727,2021/22,India,12,RR Pant,919a3be2,Shadab Khan,9de62878,V Kohli,ba607b88,0,0,0,0,1,RR Pant,919a3be2,,,caught and bowled,0,0,0
+1273727,2021/22,India,12,V Kohli,ba607b88,Shadab Khan,9de62878,RA Jadeja,fe93fd9d,0,0,0,0,0,,,,,,0,0,0
+1273727,2021/22,India,12,V Kohli,ba607b88,Shadab Khan,9de62878,RA Jadeja,fe93fd9d,0,0,0,0,0,,,,,,1,0,1
+1273727,2021/22,India,12,RA Jadeja,fe93fd9d,Shadab Khan,9de62878,V Kohli,ba607b88,0,0,0,0,0,,,,,,1,0,1
+1273727,2021/22,India,12,V Kohli,ba607b88,Shadab Khan,9de62878,RA Jadeja,fe93fd9d,0,0,0,0,0,,,,,,1,0,1
+1273727,2021/22,India,13,V Kohli,ba607b88,Haris Rauf,24bb1c2f,RA Jadeja,fe93fd9d,0,0,0,0,0,,,,,,1,0,1
+1273727,2021/22,India,13,RA Jadeja,fe93fd9d,Haris Rauf,24bb1c2f,V Kohli,ba607b88,0,0,0,0,0,,,,,,0,0,0
+1273727,2021/22,India,13,RA Jadeja,fe93fd9d,Haris Rauf,24bb1c2f,V Kohli,ba607b88,0,0,0,0,0,,,,,,2,0,2
+1273727,2021/22,India,13,RA Jadeja,fe93fd9d,Haris Rauf,24bb1c2f,V Kohli,ba607b88,0,0,0,0,0,,,,,,1,0,1
+1273727,2021/22,India,13,V Kohli,ba607b88,Haris Rauf,24bb1c2f,RA Jadeja,fe93fd9d,1,0,0,0,0,,,,,,0,1,1
+1273727,2021/22,India,13,V Kohli,ba607b88,Haris Rauf,24bb1c2f,RA Jadeja,fe93fd9d,0,0,0,0,0,,,,,,4,0,4
+1273727,2021/22,India,13,V Kohli,ba607b88,Haris Rauf,24bb1c2f,RA Jadeja,fe93fd9d,0,0,0,0,0,,,,,,0,0,0
+1273727,2021/22,India,14,RA Jadeja,fe93fd9d,Shadab Khan,9de62878,V Kohli,ba607b88,0,0,0,0,0,,,,,,0,0,0
+1273727,2021/22,India,14,RA Jadeja,fe93fd9d,Shadab Khan,9de62878,V Kohli,ba607b88,0,0,0,0,0,,,,,,0,0,0
+1273727,2021/22,India,14,RA Jadeja,fe93fd9d,Shadab Khan,9de62878,V Kohli,ba607b88,0,0,0,0,0,,,,,,1,0,1
+1273727,2021/22,India,14,V Kohli,ba607b88,Shadab Khan,9de62878,RA Jadeja,fe93fd9d,0,0,0,0,0,,,,,,1,0,1
+1273727,2021/22,India,14,RA Jadeja,fe93fd9d,Shadab Khan,9de62878,V Kohli,ba607b88,0,0,0,0,0,,,,,,1,0,1
+1273727,2021/22,India,14,V Kohli,ba607b88,Shadab Khan,9de62878,RA Jadeja,fe93fd9d,0,0,0,0,0,,,,,,1,0,1
+1273727,2021/22,India,15,V Kohli,ba607b88,Hasan Ali,2911de16,RA Jadeja,fe93fd9d,0,0,0,0,0,,,,,,0,0,0
+1273727,2021/22,India,15,V Kohli,ba607b88,Hasan Ali,2911de16,RA Jadeja,fe93fd9d,0,0,0,0,0,,,,,,4,0,4
+1273727,2021/22,India,15,V Kohli,ba607b88,Hasan Ali,2911de16,RA Jadeja,fe93fd9d,0,0,0,0,0,,,,,,0,0,0
+1273727,2021/22,India,15,V Kohli,ba607b88,Hasan Ali,2911de16,RA Jadeja,fe93fd9d,0,0,0,0,0,,,,,,4,0,4
+1273727,2021/22,India,15,V Kohli,ba607b88,Hasan Ali,2911de16,RA Jadeja,fe93fd9d,0,0,0,0,0,,,,,,1,0,1
+1273727,2021/22,India,15,RA Jadeja,fe93fd9d,Hasan Ali,2911de16,V Kohli,ba607b88,0,0,0,0,0,,,,,,1,0,1
+1273727,2021/22,India,16,RA Jadeja,fe93fd9d,Haris Rauf,24bb1c2f,V Kohli,ba607b88,0,0,0,0,0,,,,,,1,0,1
+1273727,2021/22,India,16,V Kohli,ba607b88,Haris Rauf,24bb1c2f,RA Jadeja,fe93fd9d,0,0,0,0,0,,,,,,1,0,1
+1273727,2021/22,India,16,RA Jadeja,fe93fd9d,Haris Rauf,24bb1c2f,V Kohli,ba607b88,0,0,0,0,0,,,,,,1,0,1
+1273727,2021/22,India,16,V Kohli,ba607b88,Haris Rauf,24bb1c2f,RA Jadeja,fe93fd9d,0,0,0,0,0,,,,,,0,0,0
+1273727,2021/22,India,16,V Kohli,ba607b88,Haris Rauf,24bb1c2f,RA Jadeja,fe93fd9d,0,0,0,0,0,,,,,,0,0,0
+1273727,2021/22,India,16,V Kohli,ba607b88,Haris Rauf,24bb1c2f,RA Jadeja,fe93fd9d,0,0,0,0,0,,,,,,1,0,1
+1273727,2021/22,India,17,V Kohli,ba607b88,Hasan Ali,2911de16,RA Jadeja,fe93fd9d,0,0,0,0,0,,,,,,2,0,2
+1273727,2021/22,India,17,V Kohli,ba607b88,Hasan Ali,2911de16,RA Jadeja,fe93fd9d,0,0,0,0,0,,,,,,4,0,4
+1273727,2021/22,India,17,V Kohli,ba607b88,Hasan Ali,2911de16,RA Jadeja,fe93fd9d,0,0,0,0,0,,,,,,1,0,1
+1273727,2021/22,India,17,RA Jadeja,fe93fd9d,Hasan Ali,2911de16,V Kohli,ba607b88,0,0,0,0,0,,,,,,4,0,4
+1273727,2021/22,India,17,RA Jadeja,fe93fd9d,Hasan Ali,2911de16,V Kohli,ba607b88,0,0,0,0,1,RA Jadeja,fe93fd9d,Mohammad Nawaz,3086f7a4,caught,0,0,0
+1273727,2021/22,India,17,V Kohli,ba607b88,Hasan Ali,2911de16,HH Pandya,dbe50b21,0,0,0,0,0,,,,,,2,0,2
+1273727,2021/22,India,18,HH Pandya,dbe50b21,Shaheen Shah Afridi,45a7e761,V Kohli,ba607b88,1,0,0,0,0,,,,,,0,1,1
+1273727,2021/22,India,18,HH Pandya,dbe50b21,Shaheen Shah Afridi,45a7e761,V Kohli,ba607b88,0,0,0,0,0,,,,,,0,0,0
+1273727,2021/22,India,18,HH Pandya,dbe50b21,Shaheen Shah Afridi,45a7e761,V Kohli,ba607b88,0,0,0,0,0,,,,,,4,0,4
+1273727,2021/22,India,18,HH Pandya,dbe50b21,Shaheen Shah Afridi,45a7e761,V Kohli,ba607b88,0,0,0,0,0,,,,,,1,0,1
+1273727,2021/22,India,18,V Kohli,ba607b88,Shaheen Shah Afridi,45a7e761,HH Pandya,dbe50b21,0,0,0,0,1,V Kohli,ba607b88,Mohammad Rizwan,2f26ac1a,caught,0,0,0
+1273727,2021/22,India,18,B Kumar,2e81a32d,Shaheen Shah Afridi,45a7e761,HH Pandya,dbe50b21,0,0,0,0,0,,,,,,1,0,1
+1273727,2021/22,India,18,HH Pandya,dbe50b21,Shaheen Shah Afridi,45a7e761,B Kumar,2e81a32d,0,1,0,0,0,,,,,,4,1,5
+1273727,2021/22,India,18,HH Pandya,dbe50b21,Shaheen Shah Afridi,45a7e761,B Kumar,2e81a32d,0,0,0,5,0,,,,,,0,5,5
+1273727,2021/22,India,19,HH Pandya,dbe50b21,Haris Rauf,24bb1c2f,B Kumar,2e81a32d,0,0,0,0,0,,,,,,0,0,0
+1273727,2021/22,India,19,HH Pandya,dbe50b21,Haris Rauf,24bb1c2f,B Kumar,2e81a32d,0,0,0,0,0,,,,,,2,0,2
+1273727,2021/22,India,19,HH Pandya,dbe50b21,Haris Rauf,24bb1c2f,B Kumar,2e81a32d,0,0,0,0,1,HH Pandya,dbe50b21,Babar Azam,8a75e999,caught,0,0,0
+1273727,2021/22,India,19,B Kumar,2e81a32d,Haris Rauf,24bb1c2f,Mohammed Shami,8cf9814c,0,0,0,0,0,,,,,,2,0,2
+1273727,2021/22,India,19,B Kumar,2e81a32d,Haris Rauf,24bb1c2f,Mohammed Shami,8cf9814c,0,0,0,0,0,,,,,,2,0,2
+1273727,2021/22,India,19,B Kumar,2e81a32d,Haris Rauf,24bb1c2f,Mohammed Shami,8cf9814c,0,0,0,1,0,,,,,,0,1,1
+1273727,2021/22,Pakistan,0,Mohammad Rizwan,2f26ac1a,B Kumar,2e81a32d,Babar Azam,8a75e999,0,0,0,0,0,,,,,,0,0,0
+1273727,2021/22,Pakistan,0,Mohammad Rizwan,2f26ac1a,B Kumar,2e81a32d,Babar Azam,8a75e999,0,0,0,0,0,,,,,,4,0,4
+1273727,2021/22,Pakistan,0,Mohammad Rizwan,2f26ac1a,B Kumar,2e81a32d,Babar Azam,8a75e999,0,0,0,0,0,,,,,,6,0,6
+1273727,2021/22,Pakistan,0,Mohammad Rizwan,2f26ac1a,B Kumar,2e81a32d,Babar Azam,8a75e999,0,0,0,0,0,,,,,,0,0,0
+1273727,2021/22,Pakistan,0,Mohammad Rizwan,2f26ac1a,B Kumar,2e81a32d,Babar Azam,8a75e999,0,0,0,0,0,,,,,,0,0,0
+1273727,2021/22,Pakistan,0,Mohammad Rizwan,2f26ac1a,B Kumar,2e81a32d,Babar Azam,8a75e999,0,0,0,0,0,,,,,,0,0,0
+1273727,2021/22,Pakistan,1,Babar Azam,8a75e999,Mohammed Shami,8cf9814c,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,1,0,1
+1273727,2021/22,Pakistan,1,Mohammad Rizwan,2f26ac1a,Mohammed Shami,8cf9814c,Babar Azam,8a75e999,0,0,0,0,0,,,,,,0,0,0
+1273727,2021/22,Pakistan,1,Mohammad Rizwan,2f26ac1a,Mohammed Shami,8cf9814c,Babar Azam,8a75e999,0,0,0,0,0,,,,,,2,0,2
+1273727,2021/22,Pakistan,1,Mohammad Rizwan,2f26ac1a,Mohammed Shami,8cf9814c,Babar Azam,8a75e999,0,0,0,0,0,,,,,,1,0,1
+1273727,2021/22,Pakistan,1,Babar Azam,8a75e999,Mohammed Shami,8cf9814c,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,4,0,4
+1273727,2021/22,Pakistan,1,Babar Azam,8a75e999,Mohammed Shami,8cf9814c,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,0,0,0
+1273727,2021/22,Pakistan,2,Mohammad Rizwan,2f26ac1a,JJ Bumrah,462411b3,Babar Azam,8a75e999,0,0,0,0,0,,,,,,1,0,1
+1273727,2021/22,Pakistan,2,Babar Azam,8a75e999,JJ Bumrah,462411b3,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,0,0,0
+1273727,2021/22,Pakistan,2,Babar Azam,8a75e999,JJ Bumrah,462411b3,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,0,0,0
+1273727,2021/22,Pakistan,2,Babar Azam,8a75e999,JJ Bumrah,462411b3,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,3,0,3
+1273727,2021/22,Pakistan,2,Mohammad Rizwan,2f26ac1a,JJ Bumrah,462411b3,Babar Azam,8a75e999,0,0,0,0,0,,,,,,0,0,0
+1273727,2021/22,Pakistan,2,Mohammad Rizwan,2f26ac1a,JJ Bumrah,462411b3,Babar Azam,8a75e999,0,0,0,0,0,,,,,,0,0,0
+1273727,2021/22,Pakistan,3,Babar Azam,8a75e999,CV Varun,5b7ab5a9,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,1,0,1
+1273727,2021/22,Pakistan,3,Mohammad Rizwan,2f26ac1a,CV Varun,5b7ab5a9,Babar Azam,8a75e999,0,0,0,0,0,,,,,,1,0,1
+1273727,2021/22,Pakistan,3,Babar Azam,8a75e999,CV Varun,5b7ab5a9,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,0,0,0
+1273727,2021/22,Pakistan,3,Babar Azam,8a75e999,CV Varun,5b7ab5a9,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,0,0,0
+1273727,2021/22,Pakistan,3,Babar Azam,8a75e999,CV Varun,5b7ab5a9,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,0,0,0
+1273727,2021/22,Pakistan,3,Babar Azam,8a75e999,CV Varun,5b7ab5a9,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,0,0,0
+1273727,2021/22,Pakistan,4,Mohammad Rizwan,2f26ac1a,Mohammed Shami,8cf9814c,Babar Azam,8a75e999,0,0,0,0,0,,,,,,1,0,1
+1273727,2021/22,Pakistan,4,Babar Azam,8a75e999,Mohammed Shami,8cf9814c,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,0,0,0
+1273727,2021/22,Pakistan,4,Babar Azam,8a75e999,Mohammed Shami,8cf9814c,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,4,0,4
+1273727,2021/22,Pakistan,4,Babar Azam,8a75e999,Mohammed Shami,8cf9814c,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,1,0,1
+1273727,2021/22,Pakistan,4,Mohammad Rizwan,2f26ac1a,Mohammed Shami,8cf9814c,Babar Azam,8a75e999,0,0,0,0,0,,,,,,4,0,4
+1273727,2021/22,Pakistan,4,Mohammad Rizwan,2f26ac1a,Mohammed Shami,8cf9814c,Babar Azam,8a75e999,0,0,0,0,0,,,,,,1,0,1
+1273727,2021/22,Pakistan,5,Mohammad Rizwan,2f26ac1a,B Kumar,2e81a32d,Babar Azam,8a75e999,1,0,0,0,0,,,,,,0,1,1
+1273727,2021/22,Pakistan,5,Mohammad Rizwan,2f26ac1a,B Kumar,2e81a32d,Babar Azam,8a75e999,0,0,0,0,0,,,,,,2,0,2
+1273727,2021/22,Pakistan,5,Mohammad Rizwan,2f26ac1a,B Kumar,2e81a32d,Babar Azam,8a75e999,0,0,0,0,0,,,,,,1,0,1
+1273727,2021/22,Pakistan,5,Babar Azam,8a75e999,B Kumar,2e81a32d,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,1,0,1
+1273727,2021/22,Pakistan,5,Mohammad Rizwan,2f26ac1a,B Kumar,2e81a32d,Babar Azam,8a75e999,0,0,0,0,0,,,,,,1,0,1
+1273727,2021/22,Pakistan,5,Babar Azam,8a75e999,B Kumar,2e81a32d,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,2,0,2
+1273727,2021/22,Pakistan,5,Babar Azam,8a75e999,B Kumar,2e81a32d,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,0,0,0
+1273727,2021/22,Pakistan,6,Mohammad Rizwan,2f26ac1a,RA Jadeja,fe93fd9d,Babar Azam,8a75e999,0,0,0,0,0,,,,,,1,0,1
+1273727,2021/22,Pakistan,6,Babar Azam,8a75e999,RA Jadeja,fe93fd9d,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,0,0,0
+1273727,2021/22,Pakistan,6,Babar Azam,8a75e999,RA Jadeja,fe93fd9d,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,0,0,0
+1273727,2021/22,Pakistan,6,Babar Azam,8a75e999,RA Jadeja,fe93fd9d,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,0,0,0
+1273727,2021/22,Pakistan,6,Babar Azam,8a75e999,RA Jadeja,fe93fd9d,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,1,0,1
+1273727,2021/22,Pakistan,6,Mohammad Rizwan,2f26ac1a,RA Jadeja,fe93fd9d,Babar Azam,8a75e999,0,0,0,0,0,,,,,,1,0,1
+1273727,2021/22,Pakistan,7,Mohammad Rizwan,2f26ac1a,CV Varun,5b7ab5a9,Babar Azam,8a75e999,0,0,0,0,0,,,,,,1,0,1
+1273727,2021/22,Pakistan,7,Babar Azam,8a75e999,CV Varun,5b7ab5a9,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,1,0,1
+1273727,2021/22,Pakistan,7,Mohammad Rizwan,2f26ac1a,CV Varun,5b7ab5a9,Babar Azam,8a75e999,1,0,0,0,0,,,,,,0,1,1
+1273727,2021/22,Pakistan,7,Mohammad Rizwan,2f26ac1a,CV Varun,5b7ab5a9,Babar Azam,8a75e999,0,0,0,0,0,,,,,,0,0,0
+1273727,2021/22,Pakistan,7,Mohammad Rizwan,2f26ac1a,CV Varun,5b7ab5a9,Babar Azam,8a75e999,0,0,0,0,0,,,,,,1,0,1
+1273727,2021/22,Pakistan,7,Babar Azam,8a75e999,CV Varun,5b7ab5a9,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,1,0,1
+1273727,2021/22,Pakistan,7,Mohammad Rizwan,2f26ac1a,CV Varun,5b7ab5a9,Babar Azam,8a75e999,0,0,0,0,0,,,,,,1,0,1
+1273727,2021/22,Pakistan,8,Mohammad Rizwan,2f26ac1a,RA Jadeja,fe93fd9d,Babar Azam,8a75e999,0,0,0,0,0,,,,,,1,0,1
+1273727,2021/22,Pakistan,8,Babar Azam,8a75e999,RA Jadeja,fe93fd9d,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,1,0,1
+1273727,2021/22,Pakistan,8,Mohammad Rizwan,2f26ac1a,RA Jadeja,fe93fd9d,Babar Azam,8a75e999,0,0,0,0,0,,,,,,1,0,1
+1273727,2021/22,Pakistan,8,Babar Azam,8a75e999,RA Jadeja,fe93fd9d,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,0,0,0
+1273727,2021/22,Pakistan,8,Babar Azam,8a75e999,RA Jadeja,fe93fd9d,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,6,0,6
+1273727,2021/22,Pakistan,8,Babar Azam,8a75e999,RA Jadeja,fe93fd9d,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,1,0,1
+1273727,2021/22,Pakistan,9,Babar Azam,8a75e999,CV Varun,5b7ab5a9,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,4,0,4
+1273727,2021/22,Pakistan,9,Babar Azam,8a75e999,CV Varun,5b7ab5a9,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,1,0,1
+1273727,2021/22,Pakistan,9,Mohammad Rizwan,2f26ac1a,CV Varun,5b7ab5a9,Babar Azam,8a75e999,0,0,0,0,0,,,,,,2,0,2
+1273727,2021/22,Pakistan,9,Mohammad Rizwan,2f26ac1a,CV Varun,5b7ab5a9,Babar Azam,8a75e999,0,0,0,0,0,,,,,,1,0,1
+1273727,2021/22,Pakistan,9,Babar Azam,8a75e999,CV Varun,5b7ab5a9,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,1,0,1
+1273727,2021/22,Pakistan,9,Mohammad Rizwan,2f26ac1a,CV Varun,5b7ab5a9,Babar Azam,8a75e999,0,0,0,0,0,,,,,,0,0,0
+1273727,2021/22,Pakistan,10,Babar Azam,8a75e999,JJ Bumrah,462411b3,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,2,0,2
+1273727,2021/22,Pakistan,10,Babar Azam,8a75e999,JJ Bumrah,462411b3,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,4,0,4
+1273727,2021/22,Pakistan,10,Babar Azam,8a75e999,JJ Bumrah,462411b3,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,0,0,0
+1273727,2021/22,Pakistan,10,Babar Azam,8a75e999,JJ Bumrah,462411b3,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,0,0,0
+1273727,2021/22,Pakistan,10,Babar Azam,8a75e999,JJ Bumrah,462411b3,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,2,0,2
+1273727,2021/22,Pakistan,10,Babar Azam,8a75e999,JJ Bumrah,462411b3,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,1,0,1
+1273727,2021/22,Pakistan,11,Babar Azam,8a75e999,RA Jadeja,fe93fd9d,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,1,0,1
+1273727,2021/22,Pakistan,11,Mohammad Rizwan,2f26ac1a,RA Jadeja,fe93fd9d,Babar Azam,8a75e999,0,0,0,0,0,,,,,,0,0,0
+1273727,2021/22,Pakistan,11,Mohammad Rizwan,2f26ac1a,RA Jadeja,fe93fd9d,Babar Azam,8a75e999,0,0,0,0,0,,,,,,1,0,1
+1273727,2021/22,Pakistan,11,Babar Azam,8a75e999,RA Jadeja,fe93fd9d,Mohammad Rizwan,2f26ac1a,0,0,1,0,0,,,,,,0,1,1
+1273727,2021/22,Pakistan,11,Mohammad Rizwan,2f26ac1a,RA Jadeja,fe93fd9d,Babar Azam,8a75e999,0,0,0,0,0,,,,,,2,0,2
+1273727,2021/22,Pakistan,11,Mohammad Rizwan,2f26ac1a,RA Jadeja,fe93fd9d,Babar Azam,8a75e999,0,0,0,0,0,,,,,,0,0,0
+1273727,2021/22,Pakistan,12,Babar Azam,8a75e999,CV Varun,5b7ab5a9,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,1,0,1
+1273727,2021/22,Pakistan,12,Mohammad Rizwan,2f26ac1a,CV Varun,5b7ab5a9,Babar Azam,8a75e999,0,0,0,0,0,,,,,,6,0,6
+1273727,2021/22,Pakistan,12,Mohammad Rizwan,2f26ac1a,CV Varun,5b7ab5a9,Babar Azam,8a75e999,0,0,0,0,0,,,,,,1,0,1
+1273727,2021/22,Pakistan,12,Babar Azam,8a75e999,CV Varun,5b7ab5a9,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,6,0,6
+1273727,2021/22,Pakistan,12,Babar Azam,8a75e999,CV Varun,5b7ab5a9,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,1,0,1
+1273727,2021/22,Pakistan,12,Mohammad Rizwan,2f26ac1a,CV Varun,5b7ab5a9,Babar Azam,8a75e999,0,0,0,0,0,,,,,,1,0,1
+1273727,2021/22,Pakistan,13,Mohammad Rizwan,2f26ac1a,RA Jadeja,fe93fd9d,Babar Azam,8a75e999,0,0,0,0,0,,,,,,1,0,1
+1273727,2021/22,Pakistan,13,Babar Azam,8a75e999,RA Jadeja,fe93fd9d,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,4,0,4
+1273727,2021/22,Pakistan,13,Babar Azam,8a75e999,RA Jadeja,fe93fd9d,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,1,0,1
+1273727,2021/22,Pakistan,13,Mohammad Rizwan,2f26ac1a,RA Jadeja,fe93fd9d,Babar Azam,8a75e999,0,0,0,0,0,,,,,,1,0,1
+1273727,2021/22,Pakistan,13,Babar Azam,8a75e999,RA Jadeja,fe93fd9d,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,0,0,0
+1273727,2021/22,Pakistan,13,Babar Azam,8a75e999,RA Jadeja,fe93fd9d,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,4,0,4
+1273727,2021/22,Pakistan,14,Mohammad Rizwan,2f26ac1a,JJ Bumrah,462411b3,Babar Azam,8a75e999,0,0,0,0,0,,,,,,0,0,0
+1273727,2021/22,Pakistan,14,Mohammad Rizwan,2f26ac1a,JJ Bumrah,462411b3,Babar Azam,8a75e999,0,0,0,0,0,,,,,,4,0,4
+1273727,2021/22,Pakistan,14,Mohammad Rizwan,2f26ac1a,JJ Bumrah,462411b3,Babar Azam,8a75e999,0,0,0,0,0,,,,,,2,0,2
+1273727,2021/22,Pakistan,14,Mohammad Rizwan,2f26ac1a,JJ Bumrah,462411b3,Babar Azam,8a75e999,0,0,0,0,0,,,,,,1,0,1
+1273727,2021/22,Pakistan,14,Babar Azam,8a75e999,JJ Bumrah,462411b3,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,1,0,1
+1273727,2021/22,Pakistan,14,Mohammad Rizwan,2f26ac1a,JJ Bumrah,462411b3,Babar Azam,8a75e999,0,0,0,0,0,,,,,,1,0,1
+1273727,2021/22,Pakistan,15,Mohammad Rizwan,2f26ac1a,Mohammed Shami,8cf9814c,Babar Azam,8a75e999,0,0,0,0,0,,,,,,4,0,4
+1273727,2021/22,Pakistan,15,Mohammad Rizwan,2f26ac1a,Mohammed Shami,8cf9814c,Babar Azam,8a75e999,0,0,0,0,0,,,,,,0,0,0
+1273727,2021/22,Pakistan,15,Mohammad Rizwan,2f26ac1a,Mohammed Shami,8cf9814c,Babar Azam,8a75e999,0,0,0,0,0,,,,,,1,0,1
+1273727,2021/22,Pakistan,15,Babar Azam,8a75e999,Mohammed Shami,8cf9814c,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,1,0,1
+1273727,2021/22,Pakistan,15,Mohammad Rizwan,2f26ac1a,Mohammed Shami,8cf9814c,Babar Azam,8a75e999,0,0,0,0,0,,,,,,1,0,1
+1273727,2021/22,Pakistan,15,Babar Azam,8a75e999,Mohammed Shami,8cf9814c,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,0,0,0
+1273727,2021/22,Pakistan,16,Mohammad Rizwan,2f26ac1a,B Kumar,2e81a32d,Babar Azam,8a75e999,0,0,0,0,0,,,,,,1,0,1
+1273727,2021/22,Pakistan,16,Babar Azam,8a75e999,B Kumar,2e81a32d,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,1,0,1
+1273727,2021/22,Pakistan,16,Mohammad Rizwan,2f26ac1a,B Kumar,2e81a32d,Babar Azam,8a75e999,0,0,0,0,0,,,,,,0,0,0
+1273727,2021/22,Pakistan,16,Mohammad Rizwan,2f26ac1a,B Kumar,2e81a32d,Babar Azam,8a75e999,1,0,0,0,0,,,,,,0,1,1
+1273727,2021/22,Pakistan,16,Mohammad Rizwan,2f26ac1a,B Kumar,2e81a32d,Babar Azam,8a75e999,0,0,0,0,0,,,,,,1,0,1
+1273727,2021/22,Pakistan,16,Babar Azam,8a75e999,B Kumar,2e81a32d,Mohammad Rizwan,2f26ac1a,1,0,0,0,0,,,,,,0,1,1
+1273727,2021/22,Pakistan,16,Babar Azam,8a75e999,B Kumar,2e81a32d,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,2,0,2
+1273727,2021/22,Pakistan,16,Babar Azam,8a75e999,B Kumar,2e81a32d,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,0,0,0
+1273727,2021/22,Pakistan,17,Mohammad Rizwan,2f26ac1a,Mohammed Shami,8cf9814c,Babar Azam,8a75e999,0,0,0,0,0,,,,,,6,0,6
+1273727,2021/22,Pakistan,17,Mohammad Rizwan,2f26ac1a,Mohammed Shami,8cf9814c,Babar Azam,8a75e999,0,0,0,0,0,,,,,,4,0,4
+1273727,2021/22,Pakistan,17,Mohammad Rizwan,2f26ac1a,Mohammed Shami,8cf9814c,Babar Azam,8a75e999,0,0,0,0,0,,,,,,4,0,4
+1273727,2021/22,Pakistan,17,Mohammad Rizwan,2f26ac1a,Mohammed Shami,8cf9814c,Babar Azam,8a75e999,0,0,0,0,0,,,,,,1,0,1
+1273727,2021/22,Pakistan,17,Babar Azam,8a75e999,Mohammed Shami,8cf9814c,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,2,0,2

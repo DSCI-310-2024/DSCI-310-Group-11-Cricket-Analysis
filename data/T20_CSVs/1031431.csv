@@ -1,0 +1,211 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1031431,2017,South Africa,0,JT Smuts,42172c3c,DJ Willey,7f048519,RR Hendricks,b8cc58c9,0,0,0,0,1,JT Smuts,42172c3c,,,bowled,0,0,0
+1031431,2017,South Africa,0,AB de Villiers,c4487b84,DJ Willey,7f048519,RR Hendricks,b8cc58c9,1,0,0,0,0,,,,,,0,1,1
+1031431,2017,South Africa,0,AB de Villiers,c4487b84,DJ Willey,7f048519,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,1,0,1
+1031431,2017,South Africa,0,RR Hendricks,b8cc58c9,DJ Willey,7f048519,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,3,0,3
+1031431,2017,South Africa,0,AB de Villiers,c4487b84,DJ Willey,7f048519,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,2,0,2
+1031431,2017,South Africa,0,AB de Villiers,c4487b84,DJ Willey,7f048519,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,0,0,0
+1031431,2017,South Africa,0,AB de Villiers,c4487b84,DJ Willey,7f048519,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,0,0,0
+1031431,2017,South Africa,1,RR Hendricks,b8cc58c9,MA Wood,8d92a2c3,AB de Villiers,c4487b84,0,0,0,0,1,RR Hendricks,b8cc58c9,DJ Willey,7f048519,caught,0,0,0
+1031431,2017,South Africa,1,DA Miller,d67d5f00,MA Wood,8d92a2c3,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,1,0,1
+1031431,2017,South Africa,1,AB de Villiers,c4487b84,MA Wood,8d92a2c3,DA Miller,d67d5f00,0,0,0,0,0,,,,,,4,0,4
+1031431,2017,South Africa,1,AB de Villiers,c4487b84,MA Wood,8d92a2c3,DA Miller,d67d5f00,0,0,0,0,0,,,,,,0,0,0
+1031431,2017,South Africa,1,AB de Villiers,c4487b84,MA Wood,8d92a2c3,DA Miller,d67d5f00,0,0,0,0,0,,,,,,2,0,2
+1031431,2017,South Africa,1,AB de Villiers,c4487b84,MA Wood,8d92a2c3,DA Miller,d67d5f00,0,0,0,0,0,,,,,,4,0,4
+1031431,2017,South Africa,2,DA Miller,d67d5f00,DJ Willey,7f048519,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,6,0,6
+1031431,2017,South Africa,2,DA Miller,d67d5f00,DJ Willey,7f048519,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,0,0,0
+1031431,2017,South Africa,2,DA Miller,d67d5f00,DJ Willey,7f048519,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,1,0,1
+1031431,2017,South Africa,2,AB de Villiers,c4487b84,DJ Willey,7f048519,DA Miller,d67d5f00,0,0,0,0,0,,,,,,0,0,0
+1031431,2017,South Africa,2,AB de Villiers,c4487b84,DJ Willey,7f048519,DA Miller,d67d5f00,0,0,0,0,0,,,,,,1,0,1
+1031431,2017,South Africa,2,DA Miller,d67d5f00,DJ Willey,7f048519,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,0,0,0
+1031431,2017,South Africa,3,AB de Villiers,c4487b84,CJ Jordan,ffe699c0,DA Miller,d67d5f00,0,0,0,0,0,,,,,,1,0,1
+1031431,2017,South Africa,3,DA Miller,d67d5f00,CJ Jordan,ffe699c0,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,1,0,1
+1031431,2017,South Africa,3,AB de Villiers,c4487b84,CJ Jordan,ffe699c0,DA Miller,d67d5f00,0,0,0,0,0,,,,,,0,0,0
+1031431,2017,South Africa,3,AB de Villiers,c4487b84,CJ Jordan,ffe699c0,DA Miller,d67d5f00,0,0,0,0,0,,,,,,0,0,0
+1031431,2017,South Africa,3,AB de Villiers,c4487b84,CJ Jordan,ffe699c0,DA Miller,d67d5f00,0,0,0,0,0,,,,,,0,0,0
+1031431,2017,South Africa,3,AB de Villiers,c4487b84,CJ Jordan,ffe699c0,DA Miller,d67d5f00,0,0,0,0,0,,,,,,4,0,4
+1031431,2017,South Africa,4,DA Miller,d67d5f00,MA Wood,8d92a2c3,AB de Villiers,c4487b84,0,0,0,0,1,DA Miller,d67d5f00,JC Buttler,99b75528,caught,0,0,0
+1031431,2017,South Africa,4,F Behardien,dce2019b,MA Wood,8d92a2c3,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,0,0,0
+1031431,2017,South Africa,4,F Behardien,dce2019b,MA Wood,8d92a2c3,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,0,0,0
+1031431,2017,South Africa,4,F Behardien,dce2019b,MA Wood,8d92a2c3,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,1,0,1
+1031431,2017,South Africa,4,AB de Villiers,c4487b84,MA Wood,8d92a2c3,F Behardien,dce2019b,0,0,0,0,0,,,,,,0,0,0
+1031431,2017,South Africa,4,AB de Villiers,c4487b84,MA Wood,8d92a2c3,F Behardien,dce2019b,0,0,0,0,0,,,,,,0,0,0
+1031431,2017,South Africa,5,F Behardien,dce2019b,CJ Jordan,ffe699c0,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,4,0,4
+1031431,2017,South Africa,5,F Behardien,dce2019b,CJ Jordan,ffe699c0,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,1,0,1
+1031431,2017,South Africa,5,AB de Villiers,c4487b84,CJ Jordan,ffe699c0,F Behardien,dce2019b,0,0,0,0,0,,,,,,1,0,1
+1031431,2017,South Africa,5,F Behardien,dce2019b,CJ Jordan,ffe699c0,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,2,0,2
+1031431,2017,South Africa,5,F Behardien,dce2019b,CJ Jordan,ffe699c0,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,1,0,1
+1031431,2017,South Africa,5,AB de Villiers,c4487b84,CJ Jordan,ffe699c0,F Behardien,dce2019b,0,0,0,0,0,,,,,,1,0,1
+1031431,2017,South Africa,6,AB de Villiers,c4487b84,LA Dawson,4a461c24,F Behardien,dce2019b,0,0,0,0,0,,,,,,0,0,0
+1031431,2017,South Africa,6,AB de Villiers,c4487b84,LA Dawson,4a461c24,F Behardien,dce2019b,0,0,0,0,0,,,,,,1,0,1
+1031431,2017,South Africa,6,F Behardien,dce2019b,LA Dawson,4a461c24,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,0,0,0
+1031431,2017,South Africa,6,F Behardien,dce2019b,LA Dawson,4a461c24,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,1,0,1
+1031431,2017,South Africa,6,AB de Villiers,c4487b84,LA Dawson,4a461c24,F Behardien,dce2019b,0,0,0,0,0,,,,,,1,0,1
+1031431,2017,South Africa,6,F Behardien,dce2019b,LA Dawson,4a461c24,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,1,0,1
+1031431,2017,South Africa,7,F Behardien,dce2019b,MS Crane,f0a0204e,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,0,0,0
+1031431,2017,South Africa,7,F Behardien,dce2019b,MS Crane,f0a0204e,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,0,0,0
+1031431,2017,South Africa,7,F Behardien,dce2019b,MS Crane,f0a0204e,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,4,0,4
+1031431,2017,South Africa,7,F Behardien,dce2019b,MS Crane,f0a0204e,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,1,0,1
+1031431,2017,South Africa,7,AB de Villiers,c4487b84,MS Crane,f0a0204e,F Behardien,dce2019b,0,0,0,0,0,,,,,,1,0,1
+1031431,2017,South Africa,7,F Behardien,dce2019b,MS Crane,f0a0204e,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,0,0,0
+1031431,2017,South Africa,8,AB de Villiers,c4487b84,LA Dawson,4a461c24,F Behardien,dce2019b,0,0,0,0,0,,,,,,1,0,1
+1031431,2017,South Africa,8,F Behardien,dce2019b,LA Dawson,4a461c24,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,0,0,0
+1031431,2017,South Africa,8,F Behardien,dce2019b,LA Dawson,4a461c24,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,1,0,1
+1031431,2017,South Africa,8,AB de Villiers,c4487b84,LA Dawson,4a461c24,F Behardien,dce2019b,0,0,0,0,0,,,,,,0,0,0
+1031431,2017,South Africa,8,AB de Villiers,c4487b84,LA Dawson,4a461c24,F Behardien,dce2019b,0,0,0,0,0,,,,,,0,0,0
+1031431,2017,South Africa,8,AB de Villiers,c4487b84,LA Dawson,4a461c24,F Behardien,dce2019b,0,0,0,0,0,,,,,,0,0,0
+1031431,2017,South Africa,9,F Behardien,dce2019b,MS Crane,f0a0204e,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,1,0,1
+1031431,2017,South Africa,9,AB de Villiers,c4487b84,MS Crane,f0a0204e,F Behardien,dce2019b,0,0,0,0,0,,,,,,1,0,1
+1031431,2017,South Africa,9,F Behardien,dce2019b,MS Crane,f0a0204e,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,2,0,2
+1031431,2017,South Africa,9,F Behardien,dce2019b,MS Crane,f0a0204e,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,1,0,1
+1031431,2017,South Africa,9,AB de Villiers,c4487b84,MS Crane,f0a0204e,F Behardien,dce2019b,0,0,0,0,0,,,,,,1,0,1
+1031431,2017,South Africa,9,F Behardien,dce2019b,MS Crane,f0a0204e,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,1,0,1
+1031431,2017,South Africa,10,F Behardien,dce2019b,LA Dawson,4a461c24,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,1,0,1
+1031431,2017,South Africa,10,AB de Villiers,c4487b84,LA Dawson,4a461c24,F Behardien,dce2019b,0,0,0,0,0,,,,,,2,0,2
+1031431,2017,South Africa,10,AB de Villiers,c4487b84,LA Dawson,4a461c24,F Behardien,dce2019b,0,0,0,0,0,,,,,,0,0,0
+1031431,2017,South Africa,10,AB de Villiers,c4487b84,LA Dawson,4a461c24,F Behardien,dce2019b,0,0,0,0,0,,,,,,1,0,1
+1031431,2017,South Africa,10,F Behardien,dce2019b,LA Dawson,4a461c24,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,1,0,1
+1031431,2017,South Africa,10,AB de Villiers,c4487b84,LA Dawson,4a461c24,F Behardien,dce2019b,0,0,0,0,0,,,,,,1,0,1
+1031431,2017,South Africa,11,AB de Villiers,c4487b84,MS Crane,f0a0204e,F Behardien,dce2019b,0,0,0,0,0,,,,,,0,0,0
+1031431,2017,South Africa,11,AB de Villiers,c4487b84,MS Crane,f0a0204e,F Behardien,dce2019b,0,0,0,0,0,,,,,,1,0,1
+1031431,2017,South Africa,11,F Behardien,dce2019b,MS Crane,f0a0204e,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,1,0,1
+1031431,2017,South Africa,11,AB de Villiers,c4487b84,MS Crane,f0a0204e,F Behardien,dce2019b,0,0,0,0,0,,,,,,2,0,2
+1031431,2017,South Africa,11,AB de Villiers,c4487b84,MS Crane,f0a0204e,F Behardien,dce2019b,0,0,0,0,0,,,,,,1,0,1
+1031431,2017,South Africa,11,F Behardien,dce2019b,MS Crane,f0a0204e,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,0,0,0
+1031431,2017,South Africa,12,AB de Villiers,c4487b84,LA Dawson,4a461c24,F Behardien,dce2019b,0,0,0,0,0,,,,,,2,0,2
+1031431,2017,South Africa,12,AB de Villiers,c4487b84,LA Dawson,4a461c24,F Behardien,dce2019b,0,0,0,0,0,,,,,,0,0,0
+1031431,2017,South Africa,12,AB de Villiers,c4487b84,LA Dawson,4a461c24,F Behardien,dce2019b,0,0,0,0,0,,,,,,1,0,1
+1031431,2017,South Africa,12,F Behardien,dce2019b,LA Dawson,4a461c24,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,1,0,1
+1031431,2017,South Africa,12,AB de Villiers,c4487b84,LA Dawson,4a461c24,F Behardien,dce2019b,0,0,0,0,0,,,,,,1,0,1
+1031431,2017,South Africa,12,F Behardien,dce2019b,LA Dawson,4a461c24,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,0,0,0
+1031431,2017,South Africa,13,AB de Villiers,c4487b84,MS Crane,f0a0204e,F Behardien,dce2019b,0,0,0,0,0,,,,,,0,0,0
+1031431,2017,South Africa,13,AB de Villiers,c4487b84,MS Crane,f0a0204e,F Behardien,dce2019b,0,0,0,0,0,,,,,,1,0,1
+1031431,2017,South Africa,13,F Behardien,dce2019b,MS Crane,f0a0204e,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,0,0,0
+1031431,2017,South Africa,13,F Behardien,dce2019b,MS Crane,f0a0204e,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,1,0,1
+1031431,2017,South Africa,13,AB de Villiers,c4487b84,MS Crane,f0a0204e,F Behardien,dce2019b,0,0,0,0,0,,,,,,0,0,0
+1031431,2017,South Africa,13,AB de Villiers,c4487b84,MS Crane,f0a0204e,F Behardien,dce2019b,0,0,0,0,0,,,,,,4,0,4
+1031431,2017,South Africa,14,F Behardien,dce2019b,DJ Willey,7f048519,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,2,0,2
+1031431,2017,South Africa,14,F Behardien,dce2019b,DJ Willey,7f048519,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,0,0,0
+1031431,2017,South Africa,14,F Behardien,dce2019b,DJ Willey,7f048519,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,4,0,4
+1031431,2017,South Africa,14,F Behardien,dce2019b,DJ Willey,7f048519,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,1,0,1
+1031431,2017,South Africa,14,AB de Villiers,c4487b84,DJ Willey,7f048519,F Behardien,dce2019b,0,0,0,0,0,,,,,,1,0,1
+1031431,2017,South Africa,14,F Behardien,dce2019b,DJ Willey,7f048519,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,1,0,1
+1031431,2017,South Africa,15,F Behardien,dce2019b,MA Wood,8d92a2c3,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,0,0,0
+1031431,2017,South Africa,15,F Behardien,dce2019b,MA Wood,8d92a2c3,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,1,0,1
+1031431,2017,South Africa,15,AB de Villiers,c4487b84,MA Wood,8d92a2c3,F Behardien,dce2019b,0,0,0,0,0,,,,,,1,0,1
+1031431,2017,South Africa,15,F Behardien,dce2019b,MA Wood,8d92a2c3,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,0,0,0
+1031431,2017,South Africa,15,F Behardien,dce2019b,MA Wood,8d92a2c3,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,6,0,6
+1031431,2017,South Africa,15,F Behardien,dce2019b,MA Wood,8d92a2c3,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,1,0,1
+1031431,2017,South Africa,16,F Behardien,dce2019b,DJ Willey,7f048519,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,1,0,1
+1031431,2017,South Africa,16,AB de Villiers,c4487b84,DJ Willey,7f048519,F Behardien,dce2019b,0,0,0,0,0,,,,,,1,0,1
+1031431,2017,South Africa,16,F Behardien,dce2019b,DJ Willey,7f048519,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,0,0,0
+1031431,2017,South Africa,16,F Behardien,dce2019b,DJ Willey,7f048519,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,1,0,1
+1031431,2017,South Africa,16,AB de Villiers,c4487b84,DJ Willey,7f048519,F Behardien,dce2019b,0,0,0,0,0,,,,,,6,0,6
+1031431,2017,South Africa,16,AB de Villiers,c4487b84,DJ Willey,7f048519,F Behardien,dce2019b,0,0,0,0,0,,,,,,1,0,1
+1031431,2017,South Africa,17,AB de Villiers,c4487b84,CJ Jordan,ffe699c0,F Behardien,dce2019b,0,0,0,0,0,,,,,,0,0,0
+1031431,2017,South Africa,17,AB de Villiers,c4487b84,CJ Jordan,ffe699c0,F Behardien,dce2019b,0,0,0,0,0,,,,,,1,0,1
+1031431,2017,South Africa,17,F Behardien,dce2019b,CJ Jordan,ffe699c0,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,1,0,1
+1031431,2017,South Africa,17,AB de Villiers,c4487b84,CJ Jordan,ffe699c0,F Behardien,dce2019b,0,0,0,0,0,,,,,,1,0,1
+1031431,2017,South Africa,17,F Behardien,dce2019b,CJ Jordan,ffe699c0,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,0,0,0
+1031431,2017,South Africa,17,F Behardien,dce2019b,CJ Jordan,ffe699c0,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,1,0,1
+1031431,2017,South Africa,18,F Behardien,dce2019b,MA Wood,8d92a2c3,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,2,0,2
+1031431,2017,South Africa,18,F Behardien,dce2019b,MA Wood,8d92a2c3,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,4,0,4
+1031431,2017,South Africa,18,F Behardien,dce2019b,MA Wood,8d92a2c3,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,6,0,6
+1031431,2017,South Africa,18,F Behardien,dce2019b,MA Wood,8d92a2c3,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,2,0,2
+1031431,2017,South Africa,18,F Behardien,dce2019b,MA Wood,8d92a2c3,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,1,0,1
+1031431,2017,South Africa,18,AB de Villiers,c4487b84,MA Wood,8d92a2c3,F Behardien,dce2019b,0,0,0,0,0,,,,,,0,0,0
+1031431,2017,South Africa,19,F Behardien,dce2019b,CJ Jordan,ffe699c0,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,1,0,1
+1031431,2017,South Africa,19,AB de Villiers,c4487b84,CJ Jordan,ffe699c0,F Behardien,dce2019b,0,0,0,0,0,,,,,,6,0,6
+1031431,2017,South Africa,19,AB de Villiers,c4487b84,CJ Jordan,ffe699c0,F Behardien,dce2019b,0,0,0,0,0,,,,,,0,0,0
+1031431,2017,South Africa,19,AB de Villiers,c4487b84,CJ Jordan,ffe699c0,F Behardien,dce2019b,0,0,0,0,0,,,,,,2,0,2
+1031431,2017,South Africa,19,AB de Villiers,c4487b84,CJ Jordan,ffe699c0,F Behardien,dce2019b,0,0,0,0,0,,,,,,1,0,1
+1031431,2017,South Africa,19,F Behardien,dce2019b,CJ Jordan,ffe699c0,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,1,0,1
+1031431,2017,England,0,JJ Roy,d1c36f5c,JT Smuts,42172c3c,AD Hales,92aeac25,0,0,0,0,0,,,,,,0,0,0
+1031431,2017,England,0,JJ Roy,d1c36f5c,JT Smuts,42172c3c,AD Hales,92aeac25,0,0,0,0,0,,,,,,1,0,1
+1031431,2017,England,0,AD Hales,92aeac25,JT Smuts,42172c3c,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,1,0,1
+1031431,2017,England,0,JJ Roy,d1c36f5c,JT Smuts,42172c3c,AD Hales,92aeac25,0,0,0,0,0,,,,,,0,0,0
+1031431,2017,England,0,JJ Roy,d1c36f5c,JT Smuts,42172c3c,AD Hales,92aeac25,0,0,0,0,0,,,,,,1,0,1
+1031431,2017,England,0,AD Hales,92aeac25,JT Smuts,42172c3c,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,1,0,1
+1031431,2017,England,1,AD Hales,92aeac25,WD Parnell,3a60e0b5,JJ Roy,d1c36f5c,1,0,0,0,0,,,,,,0,1,1
+1031431,2017,England,1,AD Hales,92aeac25,WD Parnell,3a60e0b5,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,4,0,4
+1031431,2017,England,1,AD Hales,92aeac25,WD Parnell,3a60e0b5,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,0,0,0
+1031431,2017,England,1,AD Hales,92aeac25,WD Parnell,3a60e0b5,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,0,0,0
+1031431,2017,England,1,AD Hales,92aeac25,WD Parnell,3a60e0b5,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,0,0,0
+1031431,2017,England,1,AD Hales,92aeac25,WD Parnell,3a60e0b5,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,2,0,2
+1031431,2017,England,1,AD Hales,92aeac25,WD Parnell,3a60e0b5,JJ Roy,d1c36f5c,0,0,1,0,0,,,,,,0,1,1
+1031431,2017,England,2,AD Hales,92aeac25,JT Smuts,42172c3c,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,1,0,1
+1031431,2017,England,2,JJ Roy,d1c36f5c,JT Smuts,42172c3c,AD Hales,92aeac25,0,0,0,0,0,,,,,,6,0,6
+1031431,2017,England,2,JJ Roy,d1c36f5c,JT Smuts,42172c3c,AD Hales,92aeac25,0,0,0,0,0,,,,,,0,0,0
+1031431,2017,England,2,JJ Roy,d1c36f5c,JT Smuts,42172c3c,AD Hales,92aeac25,0,0,0,0,0,,,,,,1,0,1
+1031431,2017,England,2,AD Hales,92aeac25,JT Smuts,42172c3c,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,0,0,0
+1031431,2017,England,2,AD Hales,92aeac25,JT Smuts,42172c3c,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,2,0,2
+1031431,2017,England,3,JJ Roy,d1c36f5c,WD Parnell,3a60e0b5,AD Hales,92aeac25,0,0,4,0,0,,,,,,0,4,4
+1031431,2017,England,3,JJ Roy,d1c36f5c,WD Parnell,3a60e0b5,AD Hales,92aeac25,0,0,0,0,0,,,,,,6,0,6
+1031431,2017,England,3,JJ Roy,d1c36f5c,WD Parnell,3a60e0b5,AD Hales,92aeac25,0,0,0,0,0,,,,,,4,0,4
+1031431,2017,England,3,JJ Roy,d1c36f5c,WD Parnell,3a60e0b5,AD Hales,92aeac25,0,0,0,0,0,,,,,,4,0,4
+1031431,2017,England,3,JJ Roy,d1c36f5c,WD Parnell,3a60e0b5,AD Hales,92aeac25,0,0,0,0,0,,,,,,4,0,4
+1031431,2017,England,3,JJ Roy,d1c36f5c,WD Parnell,3a60e0b5,AD Hales,92aeac25,0,0,0,0,0,,,,,,1,0,1
+1031431,2017,England,4,JJ Roy,d1c36f5c,AL Phehlukwayo,ab6b1c45,AD Hales,92aeac25,0,0,0,0,1,JJ Roy,d1c36f5c,,,lbw,0,0,0
+1031431,2017,England,4,JM Bairstow,abb83e27,AL Phehlukwayo,ab6b1c45,AD Hales,92aeac25,0,0,0,0,0,,,,,,0,0,0
+1031431,2017,England,4,JM Bairstow,abb83e27,AL Phehlukwayo,ab6b1c45,AD Hales,92aeac25,0,0,0,0,0,,,,,,4,0,4
+1031431,2017,England,4,JM Bairstow,abb83e27,AL Phehlukwayo,ab6b1c45,AD Hales,92aeac25,0,0,0,0,0,,,,,,1,0,1
+1031431,2017,England,4,AD Hales,92aeac25,AL Phehlukwayo,ab6b1c45,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,1,0,1
+1031431,2017,England,4,JM Bairstow,abb83e27,AL Phehlukwayo,ab6b1c45,AD Hales,92aeac25,0,0,0,0,0,,,,,,0,0,0
+1031431,2017,England,5,AD Hales,92aeac25,Imran Tahir,acee4cc4,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,0,0,0
+1031431,2017,England,5,AD Hales,92aeac25,Imran Tahir,acee4cc4,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,6,0,6
+1031431,2017,England,5,AD Hales,92aeac25,Imran Tahir,acee4cc4,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,0,0,0
+1031431,2017,England,5,AD Hales,92aeac25,Imran Tahir,acee4cc4,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,1,0,1
+1031431,2017,England,5,JM Bairstow,abb83e27,Imran Tahir,acee4cc4,AD Hales,92aeac25,0,0,0,0,0,,,,,,1,0,1
+1031431,2017,England,5,AD Hales,92aeac25,Imran Tahir,acee4cc4,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,0,0,0
+1031431,2017,England,6,JM Bairstow,abb83e27,T Shamsi,a03bba42,AD Hales,92aeac25,0,0,0,0,0,,,,,,2,0,2
+1031431,2017,England,6,JM Bairstow,abb83e27,T Shamsi,a03bba42,AD Hales,92aeac25,0,0,0,0,0,,,,,,1,0,1
+1031431,2017,England,6,AD Hales,92aeac25,T Shamsi,a03bba42,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,1,0,1
+1031431,2017,England,6,JM Bairstow,abb83e27,T Shamsi,a03bba42,AD Hales,92aeac25,0,0,0,0,0,,,,,,1,0,1
+1031431,2017,England,6,AD Hales,92aeac25,T Shamsi,a03bba42,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,0,0,0
+1031431,2017,England,6,AD Hales,92aeac25,T Shamsi,a03bba42,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,0,0,0
+1031431,2017,England,7,JM Bairstow,abb83e27,Imran Tahir,acee4cc4,AD Hales,92aeac25,0,0,0,0,0,,,,,,2,0,2
+1031431,2017,England,7,JM Bairstow,abb83e27,Imran Tahir,acee4cc4,AD Hales,92aeac25,0,0,0,0,0,,,,,,0,0,0
+1031431,2017,England,7,JM Bairstow,abb83e27,Imran Tahir,acee4cc4,AD Hales,92aeac25,0,0,0,0,0,,,,,,6,0,6
+1031431,2017,England,7,JM Bairstow,abb83e27,Imran Tahir,acee4cc4,AD Hales,92aeac25,0,0,0,0,0,,,,,,2,0,2
+1031431,2017,England,7,JM Bairstow,abb83e27,Imran Tahir,acee4cc4,AD Hales,92aeac25,0,0,0,0,0,,,,,,1,0,1
+1031431,2017,England,7,AD Hales,92aeac25,Imran Tahir,acee4cc4,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,1,0,1
+1031431,2017,England,8,AD Hales,92aeac25,T Shamsi,a03bba42,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,0,0,0
+1031431,2017,England,8,AD Hales,92aeac25,T Shamsi,a03bba42,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,0,0,0
+1031431,2017,England,8,AD Hales,92aeac25,T Shamsi,a03bba42,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,1,0,1
+1031431,2017,England,8,JM Bairstow,abb83e27,T Shamsi,a03bba42,AD Hales,92aeac25,0,0,0,0,0,,,,,,6,0,6
+1031431,2017,England,8,JM Bairstow,abb83e27,T Shamsi,a03bba42,AD Hales,92aeac25,0,0,0,0,0,,,,,,1,0,1
+1031431,2017,England,8,AD Hales,92aeac25,T Shamsi,a03bba42,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,1,0,1
+1031431,2017,England,9,AD Hales,92aeac25,D Pretorius,11614d87,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,3,0,3
+1031431,2017,England,9,JM Bairstow,abb83e27,D Pretorius,11614d87,AD Hales,92aeac25,1,0,0,0,0,,,,,,0,1,1
+1031431,2017,England,9,JM Bairstow,abb83e27,D Pretorius,11614d87,AD Hales,92aeac25,0,0,0,0,0,,,,,,1,0,1
+1031431,2017,England,9,AD Hales,92aeac25,D Pretorius,11614d87,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,1,0,1
+1031431,2017,England,9,JM Bairstow,abb83e27,D Pretorius,11614d87,AD Hales,92aeac25,0,0,0,0,0,,,,,,1,0,1
+1031431,2017,England,9,AD Hales,92aeac25,D Pretorius,11614d87,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,4,0,4
+1031431,2017,England,9,AD Hales,92aeac25,D Pretorius,11614d87,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,1,0,1
+1031431,2017,England,10,AD Hales,92aeac25,JT Smuts,42172c3c,JM Bairstow,abb83e27,0,0,1,0,0,,,,,,0,1,1
+1031431,2017,England,10,JM Bairstow,abb83e27,JT Smuts,42172c3c,AD Hales,92aeac25,0,0,0,0,0,,,,,,0,0,0
+1031431,2017,England,10,JM Bairstow,abb83e27,JT Smuts,42172c3c,AD Hales,92aeac25,0,0,0,0,0,,,,,,4,0,4
+1031431,2017,England,10,JM Bairstow,abb83e27,JT Smuts,42172c3c,AD Hales,92aeac25,0,0,0,0,0,,,,,,1,0,1
+1031431,2017,England,10,AD Hales,92aeac25,JT Smuts,42172c3c,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,1,0,1
+1031431,2017,England,10,JM Bairstow,abb83e27,JT Smuts,42172c3c,AD Hales,92aeac25,0,0,0,0,0,,,,,,0,0,0
+1031431,2017,England,11,AD Hales,92aeac25,D Pretorius,11614d87,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,2,0,2
+1031431,2017,England,11,AD Hales,92aeac25,D Pretorius,11614d87,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,1,0,1
+1031431,2017,England,11,JM Bairstow,abb83e27,D Pretorius,11614d87,AD Hales,92aeac25,0,0,0,0,0,,,,,,4,0,4
+1031431,2017,England,11,JM Bairstow,abb83e27,D Pretorius,11614d87,AD Hales,92aeac25,0,0,0,0,0,,,,,,1,0,1
+1031431,2017,England,11,AD Hales,92aeac25,D Pretorius,11614d87,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,0,0,0
+1031431,2017,England,11,AD Hales,92aeac25,D Pretorius,11614d87,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,0,0,0
+1031431,2017,England,12,JM Bairstow,abb83e27,Imran Tahir,acee4cc4,AD Hales,92aeac25,0,0,0,0,0,,,,,,4,0,4
+1031431,2017,England,12,JM Bairstow,abb83e27,Imran Tahir,acee4cc4,AD Hales,92aeac25,0,0,0,0,0,,,,,,1,0,1
+1031431,2017,England,12,AD Hales,92aeac25,Imran Tahir,acee4cc4,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,1,0,1
+1031431,2017,England,12,JM Bairstow,abb83e27,Imran Tahir,acee4cc4,AD Hales,92aeac25,0,0,0,0,0,,,,,,1,0,1
+1031431,2017,England,12,AD Hales,92aeac25,Imran Tahir,acee4cc4,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,4,0,4
+1031431,2017,England,12,AD Hales,92aeac25,Imran Tahir,acee4cc4,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,6,0,6
+1031431,2017,England,13,JM Bairstow,abb83e27,T Shamsi,a03bba42,AD Hales,92aeac25,0,0,0,0,0,,,,,,2,0,2
+1031431,2017,England,13,JM Bairstow,abb83e27,T Shamsi,a03bba42,AD Hales,92aeac25,0,0,0,0,0,,,,,,0,0,0
+1031431,2017,England,13,JM Bairstow,abb83e27,T Shamsi,a03bba42,AD Hales,92aeac25,0,0,0,0,0,,,,,,4,0,4
+1031431,2017,England,13,JM Bairstow,abb83e27,T Shamsi,a03bba42,AD Hales,92aeac25,0,0,0,0,0,,,,,,0,0,0
+1031431,2017,England,13,JM Bairstow,abb83e27,T Shamsi,a03bba42,AD Hales,92aeac25,0,0,0,0,0,,,,,,2,0,2
+1031431,2017,England,13,JM Bairstow,abb83e27,T Shamsi,a03bba42,AD Hales,92aeac25,0,0,0,0,0,,,,,,1,0,1
+1031431,2017,England,14,JM Bairstow,abb83e27,AL Phehlukwayo,ab6b1c45,AD Hales,92aeac25,0,0,0,0,0,,,,,,4,0,4
+1031431,2017,England,14,JM Bairstow,abb83e27,AL Phehlukwayo,ab6b1c45,AD Hales,92aeac25,0,0,0,0,0,,,,,,0,0,0
+1031431,2017,England,14,JM Bairstow,abb83e27,AL Phehlukwayo,ab6b1c45,AD Hales,92aeac25,0,0,0,0,0,,,,,,1,0,1

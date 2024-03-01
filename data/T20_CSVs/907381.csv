@@ -1,0 +1,245 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+907381,2015/16,England,0,CM Edwards,d4188b60,S Ismail,108c4c09,TT Beaumont,b2664905,0,0,0,0,0,,,,,,4,0,4
+907381,2015/16,England,0,CM Edwards,d4188b60,S Ismail,108c4c09,TT Beaumont,b2664905,0,0,0,0,0,,,,,,0,0,0
+907381,2015/16,England,0,CM Edwards,d4188b60,S Ismail,108c4c09,TT Beaumont,b2664905,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,England,0,TT Beaumont,b2664905,S Ismail,108c4c09,CM Edwards,d4188b60,0,0,0,0,0,,,,,,0,0,0
+907381,2015/16,England,0,TT Beaumont,b2664905,S Ismail,108c4c09,CM Edwards,d4188b60,0,0,0,0,0,,,,,,0,0,0
+907381,2015/16,England,0,TT Beaumont,b2664905,S Ismail,108c4c09,CM Edwards,d4188b60,0,0,0,0,0,,,,,,0,0,0
+907381,2015/16,England,1,CM Edwards,d4188b60,M Daniels,16443d2f,TT Beaumont,b2664905,0,0,0,0,0,,,,,,0,0,0
+907381,2015/16,England,1,CM Edwards,d4188b60,M Daniels,16443d2f,TT Beaumont,b2664905,0,0,1,0,0,,,,,,0,1,1
+907381,2015/16,England,1,TT Beaumont,b2664905,M Daniels,16443d2f,CM Edwards,d4188b60,0,0,0,0,0,,,,,,0,0,0
+907381,2015/16,England,1,TT Beaumont,b2664905,M Daniels,16443d2f,CM Edwards,d4188b60,0,0,0,0,0,,,,,,0,0,0
+907381,2015/16,England,1,TT Beaumont,b2664905,M Daniels,16443d2f,CM Edwards,d4188b60,0,0,0,0,0,,,,,,4,0,4
+907381,2015/16,England,1,TT Beaumont,b2664905,M Daniels,16443d2f,CM Edwards,d4188b60,0,0,0,0,0,,,,,,0,0,0
+907381,2015/16,England,2,CM Edwards,d4188b60,M Klaas,ce85fcaf,TT Beaumont,b2664905,0,0,0,0,0,,,,,,0,0,0
+907381,2015/16,England,2,CM Edwards,d4188b60,M Klaas,ce85fcaf,TT Beaumont,b2664905,0,0,0,0,0,,,,,,0,0,0
+907381,2015/16,England,2,CM Edwards,d4188b60,M Klaas,ce85fcaf,TT Beaumont,b2664905,0,0,0,0,0,,,,,,4,0,4
+907381,2015/16,England,2,CM Edwards,d4188b60,M Klaas,ce85fcaf,TT Beaumont,b2664905,0,0,0,0,0,,,,,,0,0,0
+907381,2015/16,England,2,CM Edwards,d4188b60,M Klaas,ce85fcaf,TT Beaumont,b2664905,0,0,0,0,0,,,,,,0,0,0
+907381,2015/16,England,2,CM Edwards,d4188b60,M Klaas,ce85fcaf,TT Beaumont,b2664905,0,0,0,0,0,,,,,,0,0,0
+907381,2015/16,England,3,TT Beaumont,b2664905,CL Tryon,4d4605e6,CM Edwards,d4188b60,0,0,0,0,1,TT Beaumont,b2664905,T Chetty,53a5767d,caught,0,0,0
+907381,2015/16,England,3,SJ Taylor,e6f36f83,CL Tryon,4d4605e6,CM Edwards,d4188b60,0,0,0,0,0,,,,,,0,0,0
+907381,2015/16,England,3,SJ Taylor,e6f36f83,CL Tryon,4d4605e6,CM Edwards,d4188b60,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,England,3,CM Edwards,d4188b60,CL Tryon,4d4605e6,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,4,0,4
+907381,2015/16,England,3,CM Edwards,d4188b60,CL Tryon,4d4605e6,SJ Taylor,e6f36f83,0,0,0,4,0,,,,,,0,4,4
+907381,2015/16,England,3,CM Edwards,d4188b60,CL Tryon,4d4605e6,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,0,0,0
+907381,2015/16,England,4,SJ Taylor,e6f36f83,M Daniels,16443d2f,CM Edwards,d4188b60,0,0,0,0,0,,,,,,4,0,4
+907381,2015/16,England,4,SJ Taylor,e6f36f83,M Daniels,16443d2f,CM Edwards,d4188b60,0,0,0,0,0,,,,,,0,0,0
+907381,2015/16,England,4,SJ Taylor,e6f36f83,M Daniels,16443d2f,CM Edwards,d4188b60,0,0,0,0,0,,,,,,4,0,4
+907381,2015/16,England,4,SJ Taylor,e6f36f83,M Daniels,16443d2f,CM Edwards,d4188b60,0,0,0,0,0,,,,,,0,0,0
+907381,2015/16,England,4,SJ Taylor,e6f36f83,M Daniels,16443d2f,CM Edwards,d4188b60,0,0,0,0,0,,,,,,2,0,2
+907381,2015/16,England,4,SJ Taylor,e6f36f83,M Daniels,16443d2f,CM Edwards,d4188b60,0,0,0,0,0,,,,,,0,0,0
+907381,2015/16,England,5,CM Edwards,d4188b60,S Ismail,108c4c09,SJ Taylor,e6f36f83,0,0,0,0,1,CM Edwards,d4188b60,S Luus,6d76bc23,caught,0,0,0
+907381,2015/16,England,5,SJ Taylor,e6f36f83,S Ismail,108c4c09,AE Jones,b05e45e4,0,0,0,0,0,,,,,,0,0,0
+907381,2015/16,England,5,SJ Taylor,e6f36f83,S Ismail,108c4c09,AE Jones,b05e45e4,0,0,0,0,0,,,,,,4,0,4
+907381,2015/16,England,5,SJ Taylor,e6f36f83,S Ismail,108c4c09,AE Jones,b05e45e4,0,0,0,0,0,,,,,,0,0,0
+907381,2015/16,England,5,SJ Taylor,e6f36f83,S Ismail,108c4c09,AE Jones,b05e45e4,0,0,0,0,0,,,,,,4,0,4
+907381,2015/16,England,5,SJ Taylor,e6f36f83,S Ismail,108c4c09,AE Jones,b05e45e4,0,0,0,0,0,,,,,,0,0,0
+907381,2015/16,England,6,AE Jones,b05e45e4,D van Niekerk,8c5775f3,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,0,0,0
+907381,2015/16,England,6,AE Jones,b05e45e4,D van Niekerk,8c5775f3,SJ Taylor,e6f36f83,0,0,0,0,1,AE Jones,b05e45e4,L Lee,7b01ce83,caught,0,0,0
+907381,2015/16,England,6,SJ Taylor,e6f36f83,D van Niekerk,8c5775f3,HC Knight,4ba0289e,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,England,6,HC Knight,4ba0289e,D van Niekerk,8c5775f3,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,4,0,4
+907381,2015/16,England,6,HC Knight,4ba0289e,D van Niekerk,8c5775f3,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,England,6,SJ Taylor,e6f36f83,D van Niekerk,8c5775f3,HC Knight,4ba0289e,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,England,7,SJ Taylor,e6f36f83,CL Tryon,4d4605e6,HC Knight,4ba0289e,0,0,0,0,0,,,,,,4,0,4
+907381,2015/16,England,7,SJ Taylor,e6f36f83,CL Tryon,4d4605e6,HC Knight,4ba0289e,0,0,0,0,0,,,,,,2,0,2
+907381,2015/16,England,7,SJ Taylor,e6f36f83,CL Tryon,4d4605e6,HC Knight,4ba0289e,0,0,0,0,0,,,,,,4,0,4
+907381,2015/16,England,7,SJ Taylor,e6f36f83,CL Tryon,4d4605e6,HC Knight,4ba0289e,0,0,0,0,0,,,,,,4,0,4
+907381,2015/16,England,7,SJ Taylor,e6f36f83,CL Tryon,4d4605e6,HC Knight,4ba0289e,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,England,7,HC Knight,4ba0289e,CL Tryon,4d4605e6,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,England,8,HC Knight,4ba0289e,S Luus,6d76bc23,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,England,8,SJ Taylor,e6f36f83,S Luus,6d76bc23,HC Knight,4ba0289e,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,England,8,HC Knight,4ba0289e,S Luus,6d76bc23,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,England,8,SJ Taylor,e6f36f83,S Luus,6d76bc23,HC Knight,4ba0289e,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,England,8,HC Knight,4ba0289e,S Luus,6d76bc23,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,4,0,4
+907381,2015/16,England,8,HC Knight,4ba0289e,S Luus,6d76bc23,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,England,9,HC Knight,4ba0289e,M Klaas,ce85fcaf,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,England,9,SJ Taylor,e6f36f83,M Klaas,ce85fcaf,HC Knight,4ba0289e,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,England,9,HC Knight,4ba0289e,M Klaas,ce85fcaf,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,2,0,2
+907381,2015/16,England,9,HC Knight,4ba0289e,M Klaas,ce85fcaf,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,2,0,2
+907381,2015/16,England,9,HC Knight,4ba0289e,M Klaas,ce85fcaf,SJ Taylor,e6f36f83,0,0,0,0,1,HC Knight,4ba0289e,M Daniels,16443d2f,caught,0,0,0
+907381,2015/16,England,9,SJ Taylor,e6f36f83,M Klaas,ce85fcaf,DN Wyatt,a139c379,0,0,0,0,0,,,,,,0,0,0
+907381,2015/16,England,10,DN Wyatt,a139c379,M Daniels,16443d2f,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,0,0,0
+907381,2015/16,England,10,DN Wyatt,a139c379,M Daniels,16443d2f,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,England,10,SJ Taylor,e6f36f83,M Daniels,16443d2f,DN Wyatt,a139c379,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,England,10,DN Wyatt,a139c379,M Daniels,16443d2f,SJ Taylor,e6f36f83,0,0,0,0,1,DN Wyatt,a139c379,M Kapp,63e3b6b3,caught,0,0,0
+907381,2015/16,England,10,GA Elwiss,287ed3a0,M Daniels,16443d2f,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,England,10,SJ Taylor,e6f36f83,M Daniels,16443d2f,GA Elwiss,287ed3a0,0,0,0,0,0,,,,,,0,0,0
+907381,2015/16,England,11,GA Elwiss,287ed3a0,M Klaas,ce85fcaf,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,4,0,4
+907381,2015/16,England,11,GA Elwiss,287ed3a0,M Klaas,ce85fcaf,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,England,11,SJ Taylor,e6f36f83,M Klaas,ce85fcaf,GA Elwiss,287ed3a0,0,0,0,0,0,,,,,,0,0,0
+907381,2015/16,England,11,SJ Taylor,e6f36f83,M Klaas,ce85fcaf,GA Elwiss,287ed3a0,1,0,0,0,0,,,,,,0,1,1
+907381,2015/16,England,11,SJ Taylor,e6f36f83,M Klaas,ce85fcaf,GA Elwiss,287ed3a0,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,England,11,GA Elwiss,287ed3a0,M Klaas,ce85fcaf,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,0,0,0
+907381,2015/16,England,11,GA Elwiss,287ed3a0,M Klaas,ce85fcaf,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,0,0,0
+907381,2015/16,England,12,SJ Taylor,e6f36f83,D van Niekerk,8c5775f3,GA Elwiss,287ed3a0,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,England,12,GA Elwiss,287ed3a0,D van Niekerk,8c5775f3,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,0,0,0
+907381,2015/16,England,12,GA Elwiss,287ed3a0,D van Niekerk,8c5775f3,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,0,0,0
+907381,2015/16,England,12,GA Elwiss,287ed3a0,D van Niekerk,8c5775f3,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,0,0,0
+907381,2015/16,England,12,GA Elwiss,287ed3a0,D van Niekerk,8c5775f3,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,England,12,SJ Taylor,e6f36f83,D van Niekerk,8c5775f3,GA Elwiss,287ed3a0,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,England,13,SJ Taylor,e6f36f83,S Luus,6d76bc23,GA Elwiss,287ed3a0,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,England,13,GA Elwiss,287ed3a0,S Luus,6d76bc23,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,0,0,0
+907381,2015/16,England,13,GA Elwiss,287ed3a0,S Luus,6d76bc23,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,England,13,SJ Taylor,e6f36f83,S Luus,6d76bc23,GA Elwiss,287ed3a0,0,0,0,0,0,,,,,,0,0,0
+907381,2015/16,England,13,SJ Taylor,e6f36f83,S Luus,6d76bc23,GA Elwiss,287ed3a0,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,England,13,GA Elwiss,287ed3a0,S Luus,6d76bc23,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,2,0,2
+907381,2015/16,England,14,SJ Taylor,e6f36f83,D van Niekerk,8c5775f3,GA Elwiss,287ed3a0,0,0,0,0,0,,,,,,2,0,2
+907381,2015/16,England,14,SJ Taylor,e6f36f83,D van Niekerk,8c5775f3,GA Elwiss,287ed3a0,0,0,0,0,0,,,,,,0,0,0
+907381,2015/16,England,14,SJ Taylor,e6f36f83,D van Niekerk,8c5775f3,GA Elwiss,287ed3a0,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,England,14,GA Elwiss,287ed3a0,D van Niekerk,8c5775f3,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,0,0,0
+907381,2015/16,England,14,GA Elwiss,287ed3a0,D van Niekerk,8c5775f3,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,England,14,SJ Taylor,e6f36f83,D van Niekerk,8c5775f3,GA Elwiss,287ed3a0,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,England,15,SJ Taylor,e6f36f83,S Luus,6d76bc23,GA Elwiss,287ed3a0,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,England,15,GA Elwiss,287ed3a0,S Luus,6d76bc23,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,England,15,SJ Taylor,e6f36f83,S Luus,6d76bc23,GA Elwiss,287ed3a0,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,England,15,GA Elwiss,287ed3a0,S Luus,6d76bc23,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,England,15,SJ Taylor,e6f36f83,S Luus,6d76bc23,GA Elwiss,287ed3a0,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,England,15,GA Elwiss,287ed3a0,S Luus,6d76bc23,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,0,0,0
+907381,2015/16,England,16,SJ Taylor,e6f36f83,D van Niekerk,8c5775f3,GA Elwiss,287ed3a0,0,0,0,0,0,,,,,,4,0,4
+907381,2015/16,England,16,SJ Taylor,e6f36f83,D van Niekerk,8c5775f3,GA Elwiss,287ed3a0,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,England,16,GA Elwiss,287ed3a0,D van Niekerk,8c5775f3,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,4,0,4
+907381,2015/16,England,16,GA Elwiss,287ed3a0,D van Niekerk,8c5775f3,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,England,16,SJ Taylor,e6f36f83,D van Niekerk,8c5775f3,GA Elwiss,287ed3a0,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,England,16,GA Elwiss,287ed3a0,D van Niekerk,8c5775f3,SJ Taylor,e6f36f83,0,0,0,0,1,GA Elwiss,287ed3a0,T Chetty,53a5767d,caught,0,0,0
+907381,2015/16,England,17,SJ Taylor,e6f36f83,S Ismail,108c4c09,JL Gunn,907c51ab,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,England,17,JL Gunn,907c51ab,S Ismail,108c4c09,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,England,17,SJ Taylor,e6f36f83,S Ismail,108c4c09,JL Gunn,907c51ab,0,0,0,0,0,,,,,,4,0,4
+907381,2015/16,England,17,SJ Taylor,e6f36f83,S Ismail,108c4c09,JL Gunn,907c51ab,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,England,17,JL Gunn,907c51ab,S Ismail,108c4c09,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,0,0,0
+907381,2015/16,England,17,JL Gunn,907c51ab,S Ismail,108c4c09,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,England,18,JL Gunn,907c51ab,M Daniels,16443d2f,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,0,0,0
+907381,2015/16,England,18,JL Gunn,907c51ab,M Daniels,16443d2f,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,0,0,0
+907381,2015/16,England,18,JL Gunn,907c51ab,M Daniels,16443d2f,SJ Taylor,e6f36f83,0,0,0,0,1,JL Gunn,907c51ab,D van Niekerk,8c5775f3,caught,0,0,0
+907381,2015/16,England,18,SJ Taylor,e6f36f83,M Daniels,16443d2f,A Shrubsole,32497ecd,0,0,0,0,0,,,,,,0,0,0
+907381,2015/16,England,18,SJ Taylor,e6f36f83,M Daniels,16443d2f,A Shrubsole,32497ecd,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,England,18,A Shrubsole,32497ecd,M Daniels,16443d2f,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,2,0,2
+907381,2015/16,England,19,SJ Taylor,e6f36f83,S Ismail,108c4c09,A Shrubsole,32497ecd,0,0,0,0,0,,,,,,4,0,4
+907381,2015/16,England,19,SJ Taylor,e6f36f83,S Ismail,108c4c09,A Shrubsole,32497ecd,0,0,0,0,0,,,,,,4,0,4
+907381,2015/16,England,19,SJ Taylor,e6f36f83,S Ismail,108c4c09,A Shrubsole,32497ecd,1,0,0,0,0,,,,,,0,1,1
+907381,2015/16,England,19,SJ Taylor,e6f36f83,S Ismail,108c4c09,A Shrubsole,32497ecd,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,England,19,A Shrubsole,32497ecd,S Ismail,108c4c09,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,4,0,4
+907381,2015/16,England,19,A Shrubsole,32497ecd,S Ismail,108c4c09,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,2,0,2
+907381,2015/16,England,19,A Shrubsole,32497ecd,S Ismail,108c4c09,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,2,0,2
+907381,2015/16,South Africa,0,D van Niekerk,8c5775f3,A Shrubsole,32497ecd,T Chetty,53a5767d,0,0,0,0,0,,,,,,0,0,0
+907381,2015/16,South Africa,0,D van Niekerk,8c5775f3,A Shrubsole,32497ecd,T Chetty,53a5767d,0,0,0,0,0,,,,,,0,0,0
+907381,2015/16,South Africa,0,D van Niekerk,8c5775f3,A Shrubsole,32497ecd,T Chetty,53a5767d,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,South Africa,0,T Chetty,53a5767d,A Shrubsole,32497ecd,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,South Africa,0,D van Niekerk,8c5775f3,A Shrubsole,32497ecd,T Chetty,53a5767d,0,0,0,0,0,,,,,,4,0,4
+907381,2015/16,South Africa,0,D van Niekerk,8c5775f3,A Shrubsole,32497ecd,T Chetty,53a5767d,0,0,0,0,0,,,,,,0,0,0
+907381,2015/16,South Africa,1,T Chetty,53a5767d,RL Grundy,e149d0ae,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,2,0,2
+907381,2015/16,South Africa,1,T Chetty,53a5767d,RL Grundy,e149d0ae,D van Niekerk,8c5775f3,1,0,0,0,0,,,,,,0,1,1
+907381,2015/16,South Africa,1,T Chetty,53a5767d,RL Grundy,e149d0ae,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,0,0,0
+907381,2015/16,South Africa,1,T Chetty,53a5767d,RL Grundy,e149d0ae,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,South Africa,1,D van Niekerk,8c5775f3,RL Grundy,e149d0ae,T Chetty,53a5767d,0,0,0,0,0,,,,,,0,0,0
+907381,2015/16,South Africa,1,D van Niekerk,8c5775f3,RL Grundy,e149d0ae,T Chetty,53a5767d,0,0,0,0,0,,,,,,0,0,0
+907381,2015/16,South Africa,1,D van Niekerk,8c5775f3,RL Grundy,e149d0ae,T Chetty,53a5767d,0,0,0,0,0,,,,,,0,0,0
+907381,2015/16,South Africa,2,T Chetty,53a5767d,A Shrubsole,32497ecd,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,4,0,4
+907381,2015/16,South Africa,2,T Chetty,53a5767d,A Shrubsole,32497ecd,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,4,0,4
+907381,2015/16,South Africa,2,T Chetty,53a5767d,A Shrubsole,32497ecd,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,0,0,0
+907381,2015/16,South Africa,2,T Chetty,53a5767d,A Shrubsole,32497ecd,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,South Africa,2,D van Niekerk,8c5775f3,A Shrubsole,32497ecd,T Chetty,53a5767d,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,South Africa,2,T Chetty,53a5767d,A Shrubsole,32497ecd,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,0,0,0
+907381,2015/16,South Africa,3,D van Niekerk,8c5775f3,D Hazell,ea8b65ab,T Chetty,53a5767d,0,0,0,0,0,,,,,,0,0,0
+907381,2015/16,South Africa,3,D van Niekerk,8c5775f3,D Hazell,ea8b65ab,T Chetty,53a5767d,0,0,0,0,0,,,,,,0,0,0
+907381,2015/16,South Africa,3,D van Niekerk,8c5775f3,D Hazell,ea8b65ab,T Chetty,53a5767d,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,South Africa,3,T Chetty,53a5767d,D Hazell,ea8b65ab,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,South Africa,3,D van Niekerk,8c5775f3,D Hazell,ea8b65ab,T Chetty,53a5767d,0,0,0,0,0,,,,,,4,0,4
+907381,2015/16,South Africa,3,D van Niekerk,8c5775f3,D Hazell,ea8b65ab,T Chetty,53a5767d,0,0,0,0,0,,,,,,0,0,0
+907381,2015/16,South Africa,4,T Chetty,53a5767d,HC Knight,4ba0289e,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,South Africa,4,D van Niekerk,8c5775f3,HC Knight,4ba0289e,T Chetty,53a5767d,0,0,0,0,0,,,,,,0,0,0
+907381,2015/16,South Africa,4,D van Niekerk,8c5775f3,HC Knight,4ba0289e,T Chetty,53a5767d,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,South Africa,4,T Chetty,53a5767d,HC Knight,4ba0289e,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,2,0,2
+907381,2015/16,South Africa,4,T Chetty,53a5767d,HC Knight,4ba0289e,D van Niekerk,8c5775f3,0,0,0,1,0,,,,,,0,1,1
+907381,2015/16,South Africa,4,D van Niekerk,8c5775f3,HC Knight,4ba0289e,T Chetty,53a5767d,0,0,0,0,0,,,,,,0,0,0
+907381,2015/16,South Africa,5,T Chetty,53a5767d,RL Grundy,e149d0ae,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,South Africa,5,D van Niekerk,8c5775f3,RL Grundy,e149d0ae,T Chetty,53a5767d,0,0,0,0,0,,,,,,0,0,0
+907381,2015/16,South Africa,5,D van Niekerk,8c5775f3,RL Grundy,e149d0ae,T Chetty,53a5767d,0,0,0,0,0,,,,,,0,0,0
+907381,2015/16,South Africa,5,D van Niekerk,8c5775f3,RL Grundy,e149d0ae,T Chetty,53a5767d,0,0,0,0,0,,,,,,4,0,4
+907381,2015/16,South Africa,5,D van Niekerk,8c5775f3,RL Grundy,e149d0ae,T Chetty,53a5767d,0,0,0,0,0,,,,,,4,0,4
+907381,2015/16,South Africa,5,D van Niekerk,8c5775f3,RL Grundy,e149d0ae,T Chetty,53a5767d,0,0,0,0,0,,,,,,4,0,4
+907381,2015/16,South Africa,6,T Chetty,53a5767d,HC Knight,4ba0289e,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,0,0,0
+907381,2015/16,South Africa,6,T Chetty,53a5767d,HC Knight,4ba0289e,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,0,0,0
+907381,2015/16,South Africa,6,T Chetty,53a5767d,HC Knight,4ba0289e,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,South Africa,6,D van Niekerk,8c5775f3,HC Knight,4ba0289e,T Chetty,53a5767d,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,South Africa,6,T Chetty,53a5767d,HC Knight,4ba0289e,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,South Africa,6,D van Niekerk,8c5775f3,HC Knight,4ba0289e,T Chetty,53a5767d,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,South Africa,7,D van Niekerk,8c5775f3,D Hazell,ea8b65ab,T Chetty,53a5767d,0,0,0,0,0,,,,,,0,0,0
+907381,2015/16,South Africa,7,D van Niekerk,8c5775f3,D Hazell,ea8b65ab,T Chetty,53a5767d,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,South Africa,7,T Chetty,53a5767d,D Hazell,ea8b65ab,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,South Africa,7,D van Niekerk,8c5775f3,D Hazell,ea8b65ab,T Chetty,53a5767d,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,South Africa,7,T Chetty,53a5767d,D Hazell,ea8b65ab,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,South Africa,7,D van Niekerk,8c5775f3,D Hazell,ea8b65ab,T Chetty,53a5767d,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,South Africa,8,D van Niekerk,8c5775f3,JL Gunn,907c51ab,T Chetty,53a5767d,0,0,0,0,0,,,,,,0,0,0
+907381,2015/16,South Africa,8,D van Niekerk,8c5775f3,JL Gunn,907c51ab,T Chetty,53a5767d,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,South Africa,8,T Chetty,53a5767d,JL Gunn,907c51ab,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,South Africa,8,D van Niekerk,8c5775f3,JL Gunn,907c51ab,T Chetty,53a5767d,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,South Africa,8,T Chetty,53a5767d,JL Gunn,907c51ab,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,South Africa,8,D van Niekerk,8c5775f3,JL Gunn,907c51ab,T Chetty,53a5767d,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,South Africa,9,D van Niekerk,8c5775f3,D Hazell,ea8b65ab,T Chetty,53a5767d,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,South Africa,9,T Chetty,53a5767d,D Hazell,ea8b65ab,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,0,0,0
+907381,2015/16,South Africa,9,T Chetty,53a5767d,D Hazell,ea8b65ab,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,South Africa,9,D van Niekerk,8c5775f3,D Hazell,ea8b65ab,T Chetty,53a5767d,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,South Africa,9,T Chetty,53a5767d,D Hazell,ea8b65ab,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,0,0,0
+907381,2015/16,South Africa,9,T Chetty,53a5767d,D Hazell,ea8b65ab,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,South Africa,10,T Chetty,53a5767d,HC Knight,4ba0289e,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,South Africa,10,D van Niekerk,8c5775f3,HC Knight,4ba0289e,T Chetty,53a5767d,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,South Africa,10,T Chetty,53a5767d,HC Knight,4ba0289e,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,South Africa,10,D van Niekerk,8c5775f3,HC Knight,4ba0289e,T Chetty,53a5767d,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,South Africa,10,T Chetty,53a5767d,HC Knight,4ba0289e,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,South Africa,10,D van Niekerk,8c5775f3,HC Knight,4ba0289e,T Chetty,53a5767d,0,0,0,0,0,,,,,,4,0,4
+907381,2015/16,South Africa,11,T Chetty,53a5767d,GA Elwiss,287ed3a0,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,4,0,4
+907381,2015/16,South Africa,11,T Chetty,53a5767d,GA Elwiss,287ed3a0,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,0,0,0
+907381,2015/16,South Africa,11,T Chetty,53a5767d,GA Elwiss,287ed3a0,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,South Africa,11,D van Niekerk,8c5775f3,GA Elwiss,287ed3a0,T Chetty,53a5767d,0,0,0,0,0,,,,,,2,0,2
+907381,2015/16,South Africa,11,D van Niekerk,8c5775f3,GA Elwiss,287ed3a0,T Chetty,53a5767d,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,South Africa,11,T Chetty,53a5767d,GA Elwiss,287ed3a0,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,South Africa,12,T Chetty,53a5767d,JL Gunn,907c51ab,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,South Africa,12,D van Niekerk,8c5775f3,JL Gunn,907c51ab,T Chetty,53a5767d,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,South Africa,12,T Chetty,53a5767d,JL Gunn,907c51ab,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,South Africa,12,D van Niekerk,8c5775f3,JL Gunn,907c51ab,T Chetty,53a5767d,1,0,0,0,0,,,,,,0,1,1
+907381,2015/16,South Africa,12,D van Niekerk,8c5775f3,JL Gunn,907c51ab,T Chetty,53a5767d,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,South Africa,12,T Chetty,53a5767d,JL Gunn,907c51ab,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,South Africa,12,D van Niekerk,8c5775f3,JL Gunn,907c51ab,T Chetty,53a5767d,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,South Africa,13,D van Niekerk,8c5775f3,RL Grundy,e149d0ae,T Chetty,53a5767d,0,0,0,0,0,,,,,,4,0,4
+907381,2015/16,South Africa,13,D van Niekerk,8c5775f3,RL Grundy,e149d0ae,T Chetty,53a5767d,0,0,0,0,0,,,,,,0,0,0
+907381,2015/16,South Africa,13,D van Niekerk,8c5775f3,RL Grundy,e149d0ae,T Chetty,53a5767d,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,South Africa,13,T Chetty,53a5767d,RL Grundy,e149d0ae,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,South Africa,13,D van Niekerk,8c5775f3,RL Grundy,e149d0ae,T Chetty,53a5767d,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,South Africa,13,T Chetty,53a5767d,RL Grundy,e149d0ae,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,South Africa,14,T Chetty,53a5767d,A Shrubsole,32497ecd,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,0,0,0
+907381,2015/16,South Africa,14,T Chetty,53a5767d,A Shrubsole,32497ecd,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,South Africa,14,D van Niekerk,8c5775f3,A Shrubsole,32497ecd,T Chetty,53a5767d,0,0,0,0,0,,,,,,0,0,0
+907381,2015/16,South Africa,14,D van Niekerk,8c5775f3,A Shrubsole,32497ecd,T Chetty,53a5767d,0,0,0,0,0,,,,,,0,0,0
+907381,2015/16,South Africa,14,D van Niekerk,8c5775f3,A Shrubsole,32497ecd,T Chetty,53a5767d,0,0,0,0,1,D van Niekerk,8c5775f3,DN Wyatt,a139c379,caught,0,0,0
+907381,2015/16,South Africa,14,T Chetty,53a5767d,A Shrubsole,32497ecd,L Lee,7b01ce83,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,South Africa,15,T Chetty,53a5767d,JL Gunn,907c51ab,L Lee,7b01ce83,0,0,0,0,0,,,,,,4,0,4
+907381,2015/16,South Africa,15,T Chetty,53a5767d,JL Gunn,907c51ab,L Lee,7b01ce83,0,0,0,0,1,T Chetty,53a5767d,,,lbw,0,0,0
+907381,2015/16,South Africa,15,M Kapp,63e3b6b3,JL Gunn,907c51ab,L Lee,7b01ce83,0,0,0,0,0,,,,,,2,0,2
+907381,2015/16,South Africa,15,M Kapp,63e3b6b3,JL Gunn,907c51ab,L Lee,7b01ce83,0,0,0,0,0,,,,,,0,0,0
+907381,2015/16,South Africa,15,M Kapp,63e3b6b3,JL Gunn,907c51ab,L Lee,7b01ce83,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,South Africa,15,L Lee,7b01ce83,JL Gunn,907c51ab,M Kapp,63e3b6b3,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,South Africa,16,L Lee,7b01ce83,HC Knight,4ba0289e,M Kapp,63e3b6b3,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,South Africa,16,M Kapp,63e3b6b3,HC Knight,4ba0289e,L Lee,7b01ce83,0,0,0,0,0,,,,,,0,0,0
+907381,2015/16,South Africa,16,M Kapp,63e3b6b3,HC Knight,4ba0289e,L Lee,7b01ce83,0,0,0,0,0,,,,,,0,0,0
+907381,2015/16,South Africa,16,M Kapp,63e3b6b3,HC Knight,4ba0289e,L Lee,7b01ce83,0,0,0,0,0,,,,,,2,0,2
+907381,2015/16,South Africa,16,M Kapp,63e3b6b3,HC Knight,4ba0289e,L Lee,7b01ce83,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,South Africa,16,L Lee,7b01ce83,HC Knight,4ba0289e,M Kapp,63e3b6b3,0,0,0,0,0,,,,,,4,0,4
+907381,2015/16,South Africa,17,M Kapp,63e3b6b3,D Hazell,ea8b65ab,L Lee,7b01ce83,0,0,0,0,1,M Kapp,63e3b6b3,GA Elwiss,287ed3a0,caught,0,0,0
+907381,2015/16,South Africa,17,CL Tryon,4d4605e6,D Hazell,ea8b65ab,L Lee,7b01ce83,0,0,1,0,0,,,,,,0,1,1
+907381,2015/16,South Africa,17,L Lee,7b01ce83,D Hazell,ea8b65ab,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,South Africa,17,CL Tryon,4d4605e6,D Hazell,ea8b65ab,L Lee,7b01ce83,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,South Africa,17,L Lee,7b01ce83,D Hazell,ea8b65ab,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,0,0,0
+907381,2015/16,South Africa,17,L Lee,7b01ce83,D Hazell,ea8b65ab,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,South Africa,18,L Lee,7b01ce83,A Shrubsole,32497ecd,CL Tryon,4d4605e6,0,0,0,0,1,L Lee,7b01ce83,AE Jones,b05e45e4,caught,0,0,0
+907381,2015/16,South Africa,18,CL Tryon,4d4605e6,A Shrubsole,32497ecd,M du Preez,e219f17a,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,South Africa,18,M du Preez,e219f17a,A Shrubsole,32497ecd,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,4,0,4
+907381,2015/16,South Africa,18,M du Preez,e219f17a,A Shrubsole,32497ecd,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,South Africa,18,CL Tryon,4d4605e6,A Shrubsole,32497ecd,M du Preez,e219f17a,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,South Africa,18,M du Preez,e219f17a,A Shrubsole,32497ecd,CL Tryon,4d4605e6,0,0,0,0,1,M du Preez,e219f17a,AE Jones,b05e45e4,caught,0,0,0
+907381,2015/16,South Africa,19,S Luus,6d76bc23,JL Gunn,907c51ab,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,2,0,2
+907381,2015/16,South Africa,19,S Luus,6d76bc23,JL Gunn,907c51ab,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,South Africa,19,CL Tryon,4d4605e6,JL Gunn,907c51ab,S Luus,6d76bc23,0,0,0,0,0,,,,,,2,0,2
+907381,2015/16,South Africa,19,CL Tryon,4d4605e6,JL Gunn,907c51ab,S Luus,6d76bc23,0,0,0,0,1,CL Tryon,4d4605e6,SJ Taylor,e6f36f83,stumped,0,0,0
+907381,2015/16,South Africa,19,D Devnarain,58dc96cc,JL Gunn,907c51ab,S Luus,6d76bc23,0,0,0,0,0,,,,,,1,0,1
+907381,2015/16,South Africa,19,S Luus,6d76bc23,JL Gunn,907c51ab,D Devnarain,58dc96cc,0,0,0,0,0,,,,,,2,0,2

@@ -1,0 +1,236 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+951401,2015/16,Sri Lanka,0,BYA Mendis,a9fabff4,EA Osborne,fe731c62,AC Jayangani,ac56b5a7,0,0,0,0,0,,,,,,0,0,0
+951401,2015/16,Sri Lanka,0,BYA Mendis,a9fabff4,EA Osborne,fe731c62,AC Jayangani,ac56b5a7,0,0,0,0,1,BYA Mendis,a9fabff4,KM Beams,fa8f9dc3,caught,0,0,0
+951401,2015/16,Sri Lanka,0,MADD Surangika,3f440bd6,EA Osborne,fe731c62,AC Jayangani,ac56b5a7,0,0,0,0,0,,,,,,0,0,0
+951401,2015/16,Sri Lanka,0,MADD Surangika,3f440bd6,EA Osborne,fe731c62,AC Jayangani,ac56b5a7,0,0,0,0,0,,,,,,1,0,1
+951401,2015/16,Sri Lanka,0,AC Jayangani,ac56b5a7,EA Osborne,fe731c62,MADD Surangika,3f440bd6,0,0,0,0,0,,,,,,2,0,2
+951401,2015/16,Sri Lanka,0,AC Jayangani,ac56b5a7,EA Osborne,fe731c62,MADD Surangika,3f440bd6,0,0,0,0,0,,,,,,0,0,0
+951401,2015/16,Sri Lanka,1,MADD Surangika,3f440bd6,EA Perry,be150fc8,AC Jayangani,ac56b5a7,0,0,0,0,0,,,,,,0,0,0
+951401,2015/16,Sri Lanka,1,MADD Surangika,3f440bd6,EA Perry,be150fc8,AC Jayangani,ac56b5a7,0,0,0,0,0,,,,,,0,0,0
+951401,2015/16,Sri Lanka,1,MADD Surangika,3f440bd6,EA Perry,be150fc8,AC Jayangani,ac56b5a7,0,0,0,0,0,,,,,,0,0,0
+951401,2015/16,Sri Lanka,1,MADD Surangika,3f440bd6,EA Perry,be150fc8,AC Jayangani,ac56b5a7,1,0,0,0,0,,,,,,0,1,1
+951401,2015/16,Sri Lanka,1,MADD Surangika,3f440bd6,EA Perry,be150fc8,AC Jayangani,ac56b5a7,0,0,0,0,0,,,,,,2,0,2
+951401,2015/16,Sri Lanka,1,MADD Surangika,3f440bd6,EA Perry,be150fc8,AC Jayangani,ac56b5a7,0,0,0,0,0,,,,,,0,0,0
+951401,2015/16,Sri Lanka,1,MADD Surangika,3f440bd6,EA Perry,be150fc8,AC Jayangani,ac56b5a7,0,0,0,0,0,,,,,,1,0,1
+951401,2015/16,Sri Lanka,2,MADD Surangika,3f440bd6,ML Schutt,17608a6f,AC Jayangani,ac56b5a7,0,0,0,0,0,,,,,,4,0,4
+951401,2015/16,Sri Lanka,2,MADD Surangika,3f440bd6,ML Schutt,17608a6f,AC Jayangani,ac56b5a7,1,0,0,0,0,,,,,,0,1,1
+951401,2015/16,Sri Lanka,2,MADD Surangika,3f440bd6,ML Schutt,17608a6f,AC Jayangani,ac56b5a7,0,0,0,0,0,,,,,,1,0,1
+951401,2015/16,Sri Lanka,2,AC Jayangani,ac56b5a7,ML Schutt,17608a6f,MADD Surangika,3f440bd6,0,0,0,0,0,,,,,,1,0,1
+951401,2015/16,Sri Lanka,2,MADD Surangika,3f440bd6,ML Schutt,17608a6f,AC Jayangani,ac56b5a7,0,0,0,0,0,,,,,,0,0,0
+951401,2015/16,Sri Lanka,2,MADD Surangika,3f440bd6,ML Schutt,17608a6f,AC Jayangani,ac56b5a7,1,0,0,0,0,,,,,,0,1,1
+951401,2015/16,Sri Lanka,2,MADD Surangika,3f440bd6,ML Schutt,17608a6f,AC Jayangani,ac56b5a7,0,0,0,0,0,,,,,,1,0,1
+951401,2015/16,Sri Lanka,2,AC Jayangani,ac56b5a7,ML Schutt,17608a6f,MADD Surangika,3f440bd6,0,0,0,0,0,,,,,,1,0,1
+951401,2015/16,Sri Lanka,3,AC Jayangani,ac56b5a7,RM Farrell,4ed7d23f,MADD Surangika,3f440bd6,0,0,0,0,0,,,,,,1,0,1
+951401,2015/16,Sri Lanka,3,MADD Surangika,3f440bd6,RM Farrell,4ed7d23f,AC Jayangani,ac56b5a7,0,0,0,0,0,,,,,,0,0,0
+951401,2015/16,Sri Lanka,3,MADD Surangika,3f440bd6,RM Farrell,4ed7d23f,AC Jayangani,ac56b5a7,0,0,0,0,0,,,,,,1,0,1
+951401,2015/16,Sri Lanka,3,AC Jayangani,ac56b5a7,RM Farrell,4ed7d23f,MADD Surangika,3f440bd6,0,0,0,0,0,,,,,,1,0,1
+951401,2015/16,Sri Lanka,3,MADD Surangika,3f440bd6,RM Farrell,4ed7d23f,AC Jayangani,ac56b5a7,0,0,0,0,0,,,,,,4,0,4
+951401,2015/16,Sri Lanka,3,MADD Surangika,3f440bd6,RM Farrell,4ed7d23f,AC Jayangani,ac56b5a7,0,0,0,0,0,,,,,,1,0,1
+951401,2015/16,Sri Lanka,4,MADD Surangika,3f440bd6,JL Jonassen,0475a86b,AC Jayangani,ac56b5a7,0,0,0,0,0,,,,,,0,0,0
+951401,2015/16,Sri Lanka,4,MADD Surangika,3f440bd6,JL Jonassen,0475a86b,AC Jayangani,ac56b5a7,0,0,0,0,0,,,,,,1,0,1
+951401,2015/16,Sri Lanka,4,AC Jayangani,ac56b5a7,JL Jonassen,0475a86b,MADD Surangika,3f440bd6,0,0,0,0,0,,,,,,1,0,1
+951401,2015/16,Sri Lanka,4,MADD Surangika,3f440bd6,JL Jonassen,0475a86b,AC Jayangani,ac56b5a7,0,0,0,0,0,,,,,,0,0,0
+951401,2015/16,Sri Lanka,4,MADD Surangika,3f440bd6,JL Jonassen,0475a86b,AC Jayangani,ac56b5a7,0,0,0,0,0,,,,,,4,0,4
+951401,2015/16,Sri Lanka,4,MADD Surangika,3f440bd6,JL Jonassen,0475a86b,AC Jayangani,ac56b5a7,0,0,0,0,0,,,,,,0,0,0
+951401,2015/16,Sri Lanka,5,AC Jayangani,ac56b5a7,RM Farrell,4ed7d23f,MADD Surangika,3f440bd6,0,0,0,0,0,,,,,,4,0,4
+951401,2015/16,Sri Lanka,5,AC Jayangani,ac56b5a7,RM Farrell,4ed7d23f,MADD Surangika,3f440bd6,0,0,0,0,0,,,,,,1,0,1
+951401,2015/16,Sri Lanka,5,MADD Surangika,3f440bd6,RM Farrell,4ed7d23f,AC Jayangani,ac56b5a7,0,0,0,0,0,,,,,,1,0,1
+951401,2015/16,Sri Lanka,5,AC Jayangani,ac56b5a7,RM Farrell,4ed7d23f,MADD Surangika,3f440bd6,0,0,0,0,0,,,,,,0,0,0
+951401,2015/16,Sri Lanka,5,AC Jayangani,ac56b5a7,RM Farrell,4ed7d23f,MADD Surangika,3f440bd6,0,0,0,0,0,,,,,,1,0,1
+951401,2015/16,Sri Lanka,5,MADD Surangika,3f440bd6,RM Farrell,4ed7d23f,AC Jayangani,ac56b5a7,0,0,0,0,0,,,,,,0,0,0
+951401,2015/16,Sri Lanka,6,AC Jayangani,ac56b5a7,EA Osborne,fe731c62,MADD Surangika,3f440bd6,0,0,0,0,0,,,,,,1,0,1
+951401,2015/16,Sri Lanka,6,MADD Surangika,3f440bd6,EA Osborne,fe731c62,AC Jayangani,ac56b5a7,0,0,0,0,0,,,,,,4,0,4
+951401,2015/16,Sri Lanka,6,MADD Surangika,3f440bd6,EA Osborne,fe731c62,AC Jayangani,ac56b5a7,0,0,0,0,0,,,,,,1,0,1
+951401,2015/16,Sri Lanka,6,AC Jayangani,ac56b5a7,EA Osborne,fe731c62,MADD Surangika,3f440bd6,0,0,0,0,0,,,,,,0,0,0
+951401,2015/16,Sri Lanka,6,AC Jayangani,ac56b5a7,EA Osborne,fe731c62,MADD Surangika,3f440bd6,0,0,0,0,0,,,,,,1,0,1
+951401,2015/16,Sri Lanka,6,MADD Surangika,3f440bd6,EA Osborne,fe731c62,AC Jayangani,ac56b5a7,0,0,0,0,0,,,,,,1,0,1
+951401,2015/16,Sri Lanka,7,MADD Surangika,3f440bd6,EA Perry,be150fc8,AC Jayangani,ac56b5a7,0,0,0,0,0,,,,,,1,0,1
+951401,2015/16,Sri Lanka,7,AC Jayangani,ac56b5a7,EA Perry,be150fc8,MADD Surangika,3f440bd6,0,0,0,0,0,,,,,,0,0,0
+951401,2015/16,Sri Lanka,7,AC Jayangani,ac56b5a7,EA Perry,be150fc8,MADD Surangika,3f440bd6,0,0,0,0,0,,,,,,2,0,2
+951401,2015/16,Sri Lanka,7,AC Jayangani,ac56b5a7,EA Perry,be150fc8,MADD Surangika,3f440bd6,0,0,0,0,0,,,,,,4,0,4
+951401,2015/16,Sri Lanka,7,AC Jayangani,ac56b5a7,EA Perry,be150fc8,MADD Surangika,3f440bd6,0,0,0,0,0,,,,,,1,0,1
+951401,2015/16,Sri Lanka,7,MADD Surangika,3f440bd6,EA Perry,be150fc8,AC Jayangani,ac56b5a7,0,0,0,0,0,,,,,,4,0,4
+951401,2015/16,Sri Lanka,8,AC Jayangani,ac56b5a7,KM Beams,fa8f9dc3,MADD Surangika,3f440bd6,0,0,0,0,0,,,,,,0,0,0
+951401,2015/16,Sri Lanka,8,AC Jayangani,ac56b5a7,KM Beams,fa8f9dc3,MADD Surangika,3f440bd6,0,0,0,0,0,,,,,,1,0,1
+951401,2015/16,Sri Lanka,8,MADD Surangika,3f440bd6,KM Beams,fa8f9dc3,AC Jayangani,ac56b5a7,0,0,0,0,0,,,,,,2,0,2
+951401,2015/16,Sri Lanka,8,MADD Surangika,3f440bd6,KM Beams,fa8f9dc3,AC Jayangani,ac56b5a7,1,0,0,0,0,,,,,,0,1,1
+951401,2015/16,Sri Lanka,8,MADD Surangika,3f440bd6,KM Beams,fa8f9dc3,AC Jayangani,ac56b5a7,0,0,0,0,0,,,,,,0,0,0
+951401,2015/16,Sri Lanka,8,MADD Surangika,3f440bd6,KM Beams,fa8f9dc3,AC Jayangani,ac56b5a7,0,0,0,0,0,,,,,,0,0,0
+951401,2015/16,Sri Lanka,8,MADD Surangika,3f440bd6,KM Beams,fa8f9dc3,AC Jayangani,ac56b5a7,0,0,0,0,0,,,,,,0,0,0
+951401,2015/16,Sri Lanka,9,AC Jayangani,ac56b5a7,ML Schutt,17608a6f,MADD Surangika,3f440bd6,0,0,0,0,0,,,,,,2,0,2
+951401,2015/16,Sri Lanka,9,AC Jayangani,ac56b5a7,ML Schutt,17608a6f,MADD Surangika,3f440bd6,0,0,0,0,0,,,,,,0,0,0
+951401,2015/16,Sri Lanka,9,AC Jayangani,ac56b5a7,ML Schutt,17608a6f,MADD Surangika,3f440bd6,0,0,0,0,0,,,,,,1,0,1
+951401,2015/16,Sri Lanka,9,MADD Surangika,3f440bd6,ML Schutt,17608a6f,AC Jayangani,ac56b5a7,0,0,0,0,0,,,,,,2,0,2
+951401,2015/16,Sri Lanka,9,MADD Surangika,3f440bd6,ML Schutt,17608a6f,AC Jayangani,ac56b5a7,0,0,0,0,0,,,,,,1,0,1
+951401,2015/16,Sri Lanka,9,AC Jayangani,ac56b5a7,ML Schutt,17608a6f,MADD Surangika,3f440bd6,0,0,0,0,0,,,,,,1,0,1
+951401,2015/16,Sri Lanka,10,AC Jayangani,ac56b5a7,KM Beams,fa8f9dc3,MADD Surangika,3f440bd6,0,0,0,0,0,,,,,,4,0,4
+951401,2015/16,Sri Lanka,10,AC Jayangani,ac56b5a7,KM Beams,fa8f9dc3,MADD Surangika,3f440bd6,1,0,0,0,0,,,,,,0,1,1
+951401,2015/16,Sri Lanka,10,AC Jayangani,ac56b5a7,KM Beams,fa8f9dc3,MADD Surangika,3f440bd6,0,0,0,0,0,,,,,,1,0,1
+951401,2015/16,Sri Lanka,10,MADD Surangika,3f440bd6,KM Beams,fa8f9dc3,AC Jayangani,ac56b5a7,0,0,0,0,1,MADD Surangika,3f440bd6,,,bowled,0,0,0
+951401,2015/16,Sri Lanka,10,MAA Sanjeewani,318a4039,KM Beams,fa8f9dc3,AC Jayangani,ac56b5a7,0,0,0,0,0,,,,,,2,0,2
+951401,2015/16,Sri Lanka,10,MAA Sanjeewani,318a4039,KM Beams,fa8f9dc3,AC Jayangani,ac56b5a7,0,0,0,0,0,,,,,,0,0,0
+951401,2015/16,Sri Lanka,10,MAA Sanjeewani,318a4039,KM Beams,fa8f9dc3,AC Jayangani,ac56b5a7,0,0,0,0,0,,,,,,1,0,1
+951401,2015/16,Sri Lanka,11,MAA Sanjeewani,318a4039,JL Jonassen,0475a86b,AC Jayangani,ac56b5a7,0,0,0,0,0,,,,,,0,0,0
+951401,2015/16,Sri Lanka,11,MAA Sanjeewani,318a4039,JL Jonassen,0475a86b,AC Jayangani,ac56b5a7,0,0,0,0,0,,,,,,0,0,0
+951401,2015/16,Sri Lanka,11,MAA Sanjeewani,318a4039,JL Jonassen,0475a86b,AC Jayangani,ac56b5a7,0,0,0,0,0,,,,,,1,0,1
+951401,2015/16,Sri Lanka,11,AC Jayangani,ac56b5a7,JL Jonassen,0475a86b,MAA Sanjeewani,318a4039,0,0,0,0,0,,,,,,1,0,1
+951401,2015/16,Sri Lanka,11,MAA Sanjeewani,318a4039,JL Jonassen,0475a86b,AC Jayangani,ac56b5a7,0,0,0,0,0,,,,,,0,0,0
+951401,2015/16,Sri Lanka,11,MAA Sanjeewani,318a4039,JL Jonassen,0475a86b,AC Jayangani,ac56b5a7,0,0,0,0,0,,,,,,0,0,0
+951401,2015/16,Sri Lanka,12,AC Jayangani,ac56b5a7,KM Beams,fa8f9dc3,MAA Sanjeewani,318a4039,0,0,0,0,0,,,,,,1,0,1
+951401,2015/16,Sri Lanka,12,MAA Sanjeewani,318a4039,KM Beams,fa8f9dc3,AC Jayangani,ac56b5a7,0,0,0,0,0,,,,,,2,0,2
+951401,2015/16,Sri Lanka,12,MAA Sanjeewani,318a4039,KM Beams,fa8f9dc3,AC Jayangani,ac56b5a7,0,0,0,0,0,,,,,,0,0,0
+951401,2015/16,Sri Lanka,12,MAA Sanjeewani,318a4039,KM Beams,fa8f9dc3,AC Jayangani,ac56b5a7,0,0,0,0,0,,,,,,2,0,2
+951401,2015/16,Sri Lanka,12,MAA Sanjeewani,318a4039,KM Beams,fa8f9dc3,AC Jayangani,ac56b5a7,0,0,0,0,0,,,,,,4,0,4
+951401,2015/16,Sri Lanka,12,MAA Sanjeewani,318a4039,KM Beams,fa8f9dc3,AC Jayangani,ac56b5a7,0,0,0,0,1,MAA Sanjeewani,318a4039,AJ Healy,321644de,stumped,0,0,0
+951401,2015/16,Sri Lanka,13,AC Jayangani,ac56b5a7,JL Jonassen,0475a86b,OU Ranasinghe,52d3b7ff,0,0,0,0,0,,,,,,0,0,0
+951401,2015/16,Sri Lanka,13,AC Jayangani,ac56b5a7,JL Jonassen,0475a86b,OU Ranasinghe,52d3b7ff,0,0,0,0,0,,,,,,4,0,4
+951401,2015/16,Sri Lanka,13,AC Jayangani,ac56b5a7,JL Jonassen,0475a86b,OU Ranasinghe,52d3b7ff,0,0,0,0,0,,,,,,0,0,0
+951401,2015/16,Sri Lanka,13,AC Jayangani,ac56b5a7,JL Jonassen,0475a86b,OU Ranasinghe,52d3b7ff,0,0,0,0,1,AC Jayangani,ac56b5a7,,,bowled,0,0,0
+951401,2015/16,Sri Lanka,13,LE Kaushalya,8b552293,JL Jonassen,0475a86b,OU Ranasinghe,52d3b7ff,0,0,0,0,0,,,,,,0,0,0
+951401,2015/16,Sri Lanka,13,LE Kaushalya,8b552293,JL Jonassen,0475a86b,OU Ranasinghe,52d3b7ff,0,0,1,0,0,,,,,,0,1,1
+951401,2015/16,Sri Lanka,14,LE Kaushalya,8b552293,KM Beams,fa8f9dc3,OU Ranasinghe,52d3b7ff,0,0,0,0,0,,,,,,1,0,1
+951401,2015/16,Sri Lanka,14,OU Ranasinghe,52d3b7ff,KM Beams,fa8f9dc3,LE Kaushalya,8b552293,0,0,0,0,0,,,,,,0,0,0
+951401,2015/16,Sri Lanka,14,OU Ranasinghe,52d3b7ff,KM Beams,fa8f9dc3,LE Kaushalya,8b552293,0,0,0,0,0,,,,,,1,0,1
+951401,2015/16,Sri Lanka,14,LE Kaushalya,8b552293,KM Beams,fa8f9dc3,OU Ranasinghe,52d3b7ff,0,0,0,0,0,,,,,,0,0,0
+951401,2015/16,Sri Lanka,14,LE Kaushalya,8b552293,KM Beams,fa8f9dc3,OU Ranasinghe,52d3b7ff,0,0,0,0,0,,,,,,1,0,1
+951401,2015/16,Sri Lanka,14,OU Ranasinghe,52d3b7ff,KM Beams,fa8f9dc3,LE Kaushalya,8b552293,0,0,0,0,0,,,,,,0,0,0
+951401,2015/16,Sri Lanka,15,LE Kaushalya,8b552293,EA Perry,be150fc8,OU Ranasinghe,52d3b7ff,0,0,0,0,0,,,,,,1,0,1
+951401,2015/16,Sri Lanka,15,OU Ranasinghe,52d3b7ff,EA Perry,be150fc8,LE Kaushalya,8b552293,0,0,0,0,0,,,,,,0,0,0
+951401,2015/16,Sri Lanka,15,OU Ranasinghe,52d3b7ff,EA Perry,be150fc8,LE Kaushalya,8b552293,0,0,0,0,0,,,,,,1,0,1
+951401,2015/16,Sri Lanka,15,LE Kaushalya,8b552293,EA Perry,be150fc8,OU Ranasinghe,52d3b7ff,0,0,0,0,0,,,,,,4,0,4
+951401,2015/16,Sri Lanka,15,LE Kaushalya,8b552293,EA Perry,be150fc8,OU Ranasinghe,52d3b7ff,0,0,0,0,0,,,,,,0,0,0
+951401,2015/16,Sri Lanka,15,LE Kaushalya,8b552293,EA Perry,be150fc8,OU Ranasinghe,52d3b7ff,0,0,0,0,0,,,,,,1,0,1
+951401,2015/16,Sri Lanka,16,LE Kaushalya,8b552293,RM Farrell,4ed7d23f,OU Ranasinghe,52d3b7ff,0,0,0,0,0,,,,,,1,0,1
+951401,2015/16,Sri Lanka,16,OU Ranasinghe,52d3b7ff,RM Farrell,4ed7d23f,LE Kaushalya,8b552293,0,0,0,0,0,,,,,,1,0,1
+951401,2015/16,Sri Lanka,16,LE Kaushalya,8b552293,RM Farrell,4ed7d23f,OU Ranasinghe,52d3b7ff,0,0,0,0,0,,,,,,1,0,1
+951401,2015/16,Sri Lanka,16,OU Ranasinghe,52d3b7ff,RM Farrell,4ed7d23f,LE Kaushalya,8b552293,0,0,0,0,0,,,,,,0,0,0
+951401,2015/16,Sri Lanka,16,OU Ranasinghe,52d3b7ff,RM Farrell,4ed7d23f,LE Kaushalya,8b552293,0,0,0,0,0,,,,,,1,0,1
+951401,2015/16,Sri Lanka,16,LE Kaushalya,8b552293,RM Farrell,4ed7d23f,OU Ranasinghe,52d3b7ff,0,0,0,0,0,,,,,,0,0,0
+951401,2015/16,Sri Lanka,17,OU Ranasinghe,52d3b7ff,ML Schutt,17608a6f,LE Kaushalya,8b552293,0,0,0,0,0,,,,,,0,0,0
+951401,2015/16,Sri Lanka,17,OU Ranasinghe,52d3b7ff,ML Schutt,17608a6f,LE Kaushalya,8b552293,0,0,0,0,1,OU Ranasinghe,52d3b7ff,BL Mooney,52d1dbc8,run out,0,0,0
+951401,2015/16,Sri Lanka,17,LE Kaushalya,8b552293,ML Schutt,17608a6f,PM Weerakkody,1b3718d2,0,0,0,0,0,,,,,,1,0,1
+951401,2015/16,Sri Lanka,17,PM Weerakkody,1b3718d2,ML Schutt,17608a6f,LE Kaushalya,8b552293,0,0,0,0,0,,,,,,2,0,2
+951401,2015/16,Sri Lanka,17,PM Weerakkody,1b3718d2,ML Schutt,17608a6f,LE Kaushalya,8b552293,0,0,0,0,0,,,,,,1,0,1
+951401,2015/16,Sri Lanka,17,LE Kaushalya,8b552293,ML Schutt,17608a6f,PM Weerakkody,1b3718d2,0,0,0,0,0,,,,,,0,0,0
+951401,2015/16,Sri Lanka,18,PM Weerakkody,1b3718d2,RM Farrell,4ed7d23f,LE Kaushalya,8b552293,0,0,0,0,0,,,,,,1,0,1
+951401,2015/16,Sri Lanka,18,LE Kaushalya,8b552293,RM Farrell,4ed7d23f,PM Weerakkody,1b3718d2,0,0,0,0,0,,,,,,2,0,2
+951401,2015/16,Sri Lanka,18,LE Kaushalya,8b552293,RM Farrell,4ed7d23f,PM Weerakkody,1b3718d2,0,0,0,0,0,,,,,,1,0,1
+951401,2015/16,Sri Lanka,18,PM Weerakkody,1b3718d2,RM Farrell,4ed7d23f,LE Kaushalya,8b552293,0,0,0,0,0,,,,,,1,0,1
+951401,2015/16,Sri Lanka,18,LE Kaushalya,8b552293,RM Farrell,4ed7d23f,PM Weerakkody,1b3718d2,0,0,0,0,0,,,,,,1,0,1
+951401,2015/16,Sri Lanka,18,PM Weerakkody,1b3718d2,RM Farrell,4ed7d23f,LE Kaushalya,8b552293,0,0,0,0,0,,,,,,1,0,1
+951401,2015/16,Sri Lanka,19,PM Weerakkody,1b3718d2,ML Schutt,17608a6f,LE Kaushalya,8b552293,0,0,0,0,0,,,,,,1,0,1
+951401,2015/16,Sri Lanka,19,LE Kaushalya,8b552293,ML Schutt,17608a6f,PM Weerakkody,1b3718d2,0,0,0,0,0,,,,,,1,0,1
+951401,2015/16,Sri Lanka,19,PM Weerakkody,1b3718d2,ML Schutt,17608a6f,LE Kaushalya,8b552293,0,0,0,0,1,PM Weerakkody,1b3718d2,EJ Villani,cde96d97,caught,0,0,0
+951401,2015/16,Sri Lanka,19,LE Kaushalya,8b552293,ML Schutt,17608a6f,MDN Hansika,dfc89c58,0,0,0,0,1,LE Kaushalya,8b552293,AJ Healy,321644de,stumped,0,0,0
+951401,2015/16,Sri Lanka,19,KDU Prabodhani,a0fdf513,ML Schutt,17608a6f,MDN Hansika,dfc89c58,0,0,0,0,0,,,,,,1,0,1
+951401,2015/16,Sri Lanka,19,MDN Hansika,dfc89c58,ML Schutt,17608a6f,KDU Prabodhani,a0fdf513,0,0,0,0,1,MDN Hansika,dfc89c58,EA Osborne,fe731c62,run out,1,0,1
+951401,2015/16,Australia,0,AJ Healy,321644de,BMSM Kumari,b55fb828,EJ Villani,cde96d97,1,0,0,0,0,,,,,,0,1,1
+951401,2015/16,Australia,0,AJ Healy,321644de,BMSM Kumari,b55fb828,EJ Villani,cde96d97,0,0,0,0,0,,,,,,1,0,1
+951401,2015/16,Australia,0,EJ Villani,cde96d97,BMSM Kumari,b55fb828,AJ Healy,321644de,0,0,0,0,0,,,,,,0,0,0
+951401,2015/16,Australia,0,EJ Villani,cde96d97,BMSM Kumari,b55fb828,AJ Healy,321644de,0,0,0,0,0,,,,,,4,0,4
+951401,2015/16,Australia,0,EJ Villani,cde96d97,BMSM Kumari,b55fb828,AJ Healy,321644de,0,0,0,0,0,,,,,,0,0,0
+951401,2015/16,Australia,0,EJ Villani,cde96d97,BMSM Kumari,b55fb828,AJ Healy,321644de,0,0,0,0,0,,,,,,0,0,0
+951401,2015/16,Australia,0,EJ Villani,cde96d97,BMSM Kumari,b55fb828,AJ Healy,321644de,0,0,0,0,0,,,,,,1,0,1
+951401,2015/16,Australia,1,EJ Villani,cde96d97,KDU Prabodhani,a0fdf513,AJ Healy,321644de,0,0,0,0,0,,,,,,0,0,0
+951401,2015/16,Australia,1,EJ Villani,cde96d97,KDU Prabodhani,a0fdf513,AJ Healy,321644de,0,0,0,0,0,,,,,,4,0,4
+951401,2015/16,Australia,1,EJ Villani,cde96d97,KDU Prabodhani,a0fdf513,AJ Healy,321644de,0,0,0,0,0,,,,,,1,0,1
+951401,2015/16,Australia,1,AJ Healy,321644de,KDU Prabodhani,a0fdf513,EJ Villani,cde96d97,0,0,0,0,0,,,,,,0,0,0
+951401,2015/16,Australia,1,AJ Healy,321644de,KDU Prabodhani,a0fdf513,EJ Villani,cde96d97,0,0,0,0,0,,,,,,0,0,0
+951401,2015/16,Australia,1,AJ Healy,321644de,KDU Prabodhani,a0fdf513,EJ Villani,cde96d97,0,0,0,0,0,,,,,,1,0,1
+951401,2015/16,Australia,2,AJ Healy,321644de,BMSM Kumari,b55fb828,EJ Villani,cde96d97,0,0,0,0,0,,,,,,0,0,0
+951401,2015/16,Australia,2,AJ Healy,321644de,BMSM Kumari,b55fb828,EJ Villani,cde96d97,0,0,0,0,0,,,,,,0,0,0
+951401,2015/16,Australia,2,AJ Healy,321644de,BMSM Kumari,b55fb828,EJ Villani,cde96d97,0,0,0,0,0,,,,,,0,0,0
+951401,2015/16,Australia,2,AJ Healy,321644de,BMSM Kumari,b55fb828,EJ Villani,cde96d97,0,0,0,0,0,,,,,,4,0,4
+951401,2015/16,Australia,2,AJ Healy,321644de,BMSM Kumari,b55fb828,EJ Villani,cde96d97,0,0,0,0,0,,,,,,1,0,1
+951401,2015/16,Australia,2,EJ Villani,cde96d97,BMSM Kumari,b55fb828,AJ Healy,321644de,0,0,0,0,0,,,,,,0,0,0
+951401,2015/16,Australia,3,AJ Healy,321644de,KDU Prabodhani,a0fdf513,EJ Villani,cde96d97,0,0,0,0,0,,,,,,0,0,0
+951401,2015/16,Australia,3,AJ Healy,321644de,KDU Prabodhani,a0fdf513,EJ Villani,cde96d97,0,0,0,0,0,,,,,,1,0,1
+951401,2015/16,Australia,3,EJ Villani,cde96d97,KDU Prabodhani,a0fdf513,AJ Healy,321644de,0,0,0,0,0,,,,,,0,0,0
+951401,2015/16,Australia,3,EJ Villani,cde96d97,KDU Prabodhani,a0fdf513,AJ Healy,321644de,0,0,0,0,0,,,,,,4,0,4
+951401,2015/16,Australia,3,EJ Villani,cde96d97,KDU Prabodhani,a0fdf513,AJ Healy,321644de,0,0,0,0,0,,,,,,0,0,0
+951401,2015/16,Australia,3,EJ Villani,cde96d97,KDU Prabodhani,a0fdf513,AJ Healy,321644de,0,0,0,0,0,,,,,,0,0,0
+951401,2015/16,Australia,4,AJ Healy,321644de,I Ranaweera,a61850e6,EJ Villani,cde96d97,0,0,0,0,0,,,,,,0,0,0
+951401,2015/16,Australia,4,AJ Healy,321644de,I Ranaweera,a61850e6,EJ Villani,cde96d97,0,0,0,0,0,,,,,,4,0,4
+951401,2015/16,Australia,4,AJ Healy,321644de,I Ranaweera,a61850e6,EJ Villani,cde96d97,0,0,0,0,1,AJ Healy,321644de,,,bowled,0,0,0
+951401,2015/16,Australia,4,MM Lanning,27e003ce,I Ranaweera,a61850e6,EJ Villani,cde96d97,0,0,0,0,0,,,,,,0,0,0
+951401,2015/16,Australia,4,MM Lanning,27e003ce,I Ranaweera,a61850e6,EJ Villani,cde96d97,0,0,0,0,0,,,,,,0,0,0
+951401,2015/16,Australia,4,MM Lanning,27e003ce,I Ranaweera,a61850e6,EJ Villani,cde96d97,0,0,0,0,0,,,,,,4,0,4
+951401,2015/16,Australia,5,EJ Villani,cde96d97,OU Ranasinghe,52d3b7ff,MM Lanning,27e003ce,0,0,0,0,0,,,,,,4,0,4
+951401,2015/16,Australia,5,EJ Villani,cde96d97,OU Ranasinghe,52d3b7ff,MM Lanning,27e003ce,0,0,0,0,0,,,,,,1,0,1
+951401,2015/16,Australia,5,MM Lanning,27e003ce,OU Ranasinghe,52d3b7ff,EJ Villani,cde96d97,0,0,0,0,0,,,,,,0,0,0
+951401,2015/16,Australia,5,MM Lanning,27e003ce,OU Ranasinghe,52d3b7ff,EJ Villani,cde96d97,0,0,0,0,0,,,,,,4,0,4
+951401,2015/16,Australia,5,MM Lanning,27e003ce,OU Ranasinghe,52d3b7ff,EJ Villani,cde96d97,0,0,0,0,0,,,,,,0,0,0
+951401,2015/16,Australia,5,MM Lanning,27e003ce,OU Ranasinghe,52d3b7ff,EJ Villani,cde96d97,0,0,0,0,0,,,,,,0,0,0
+951401,2015/16,Australia,6,EJ Villani,cde96d97,I Ranaweera,a61850e6,MM Lanning,27e003ce,0,0,0,0,0,,,,,,1,0,1
+951401,2015/16,Australia,6,MM Lanning,27e003ce,I Ranaweera,a61850e6,EJ Villani,cde96d97,0,0,0,0,0,,,,,,0,0,0
+951401,2015/16,Australia,6,MM Lanning,27e003ce,I Ranaweera,a61850e6,EJ Villani,cde96d97,0,0,0,0,0,,,,,,0,0,0
+951401,2015/16,Australia,6,MM Lanning,27e003ce,I Ranaweera,a61850e6,EJ Villani,cde96d97,0,0,0,0,0,,,,,,2,0,2
+951401,2015/16,Australia,6,MM Lanning,27e003ce,I Ranaweera,a61850e6,EJ Villani,cde96d97,0,0,0,0,0,,,,,,0,0,0
+951401,2015/16,Australia,6,MM Lanning,27e003ce,I Ranaweera,a61850e6,EJ Villani,cde96d97,0,0,0,0,0,,,,,,1,0,1
+951401,2015/16,Australia,7,MM Lanning,27e003ce,OU Ranasinghe,52d3b7ff,EJ Villani,cde96d97,0,0,0,0,0,,,,,,0,0,0
+951401,2015/16,Australia,7,MM Lanning,27e003ce,OU Ranasinghe,52d3b7ff,EJ Villani,cde96d97,0,0,0,0,0,,,,,,0,0,0
+951401,2015/16,Australia,7,MM Lanning,27e003ce,OU Ranasinghe,52d3b7ff,EJ Villani,cde96d97,0,0,0,0,0,,,,,,1,0,1
+951401,2015/16,Australia,7,EJ Villani,cde96d97,OU Ranasinghe,52d3b7ff,MM Lanning,27e003ce,0,0,0,0,0,,,,,,1,0,1
+951401,2015/16,Australia,7,MM Lanning,27e003ce,OU Ranasinghe,52d3b7ff,EJ Villani,cde96d97,0,0,0,0,0,,,,,,2,0,2
+951401,2015/16,Australia,7,MM Lanning,27e003ce,OU Ranasinghe,52d3b7ff,EJ Villani,cde96d97,0,0,0,0,0,,,,,,1,0,1
+951401,2015/16,Australia,8,MM Lanning,27e003ce,AC Jayangani,ac56b5a7,EJ Villani,cde96d97,0,0,0,0,0,,,,,,4,0,4
+951401,2015/16,Australia,8,MM Lanning,27e003ce,AC Jayangani,ac56b5a7,EJ Villani,cde96d97,1,0,0,0,0,,,,,,0,1,1
+951401,2015/16,Australia,8,MM Lanning,27e003ce,AC Jayangani,ac56b5a7,EJ Villani,cde96d97,0,0,0,0,0,,,,,,0,0,0
+951401,2015/16,Australia,8,MM Lanning,27e003ce,AC Jayangani,ac56b5a7,EJ Villani,cde96d97,0,0,0,0,0,,,,,,4,0,4
+951401,2015/16,Australia,8,MM Lanning,27e003ce,AC Jayangani,ac56b5a7,EJ Villani,cde96d97,0,0,0,0,0,,,,,,0,0,0
+951401,2015/16,Australia,8,MM Lanning,27e003ce,AC Jayangani,ac56b5a7,EJ Villani,cde96d97,0,0,0,0,0,,,,,,1,0,1
+951401,2015/16,Australia,8,EJ Villani,cde96d97,AC Jayangani,ac56b5a7,MM Lanning,27e003ce,0,0,0,0,0,,,,,,4,0,4
+951401,2015/16,Australia,9,MM Lanning,27e003ce,LE Kaushalya,8b552293,EJ Villani,cde96d97,0,0,0,0,0,,,,,,4,0,4
+951401,2015/16,Australia,9,MM Lanning,27e003ce,LE Kaushalya,8b552293,EJ Villani,cde96d97,1,0,0,0,0,,,,,,0,1,1
+951401,2015/16,Australia,9,MM Lanning,27e003ce,LE Kaushalya,8b552293,EJ Villani,cde96d97,0,0,0,0,0,,,,,,1,0,1
+951401,2015/16,Australia,9,EJ Villani,cde96d97,LE Kaushalya,8b552293,MM Lanning,27e003ce,0,0,0,0,0,,,,,,0,0,0
+951401,2015/16,Australia,9,EJ Villani,cde96d97,LE Kaushalya,8b552293,MM Lanning,27e003ce,0,0,0,0,0,,,,,,0,0,0
+951401,2015/16,Australia,9,EJ Villani,cde96d97,LE Kaushalya,8b552293,MM Lanning,27e003ce,0,0,0,0,0,,,,,,1,0,1
+951401,2015/16,Australia,9,MM Lanning,27e003ce,LE Kaushalya,8b552293,EJ Villani,cde96d97,0,0,0,0,0,,,,,,0,0,0
+951401,2015/16,Australia,10,EJ Villani,cde96d97,BMSM Kumari,b55fb828,MM Lanning,27e003ce,0,0,0,0,0,,,,,,4,0,4
+951401,2015/16,Australia,10,EJ Villani,cde96d97,BMSM Kumari,b55fb828,MM Lanning,27e003ce,0,0,0,0,0,,,,,,0,0,0
+951401,2015/16,Australia,10,EJ Villani,cde96d97,BMSM Kumari,b55fb828,MM Lanning,27e003ce,0,0,0,0,0,,,,,,1,0,1
+951401,2015/16,Australia,10,MM Lanning,27e003ce,BMSM Kumari,b55fb828,EJ Villani,cde96d97,0,0,0,0,0,,,,,,0,0,0
+951401,2015/16,Australia,10,MM Lanning,27e003ce,BMSM Kumari,b55fb828,EJ Villani,cde96d97,0,0,0,0,0,,,,,,0,0,0
+951401,2015/16,Australia,10,MM Lanning,27e003ce,BMSM Kumari,b55fb828,EJ Villani,cde96d97,0,0,0,0,0,,,,,,1,0,1
+951401,2015/16,Australia,11,MM Lanning,27e003ce,I Ranaweera,a61850e6,EJ Villani,cde96d97,0,0,0,0,0,,,,,,1,0,1
+951401,2015/16,Australia,11,EJ Villani,cde96d97,I Ranaweera,a61850e6,MM Lanning,27e003ce,0,0,0,0,0,,,,,,1,0,1
+951401,2015/16,Australia,11,MM Lanning,27e003ce,I Ranaweera,a61850e6,EJ Villani,cde96d97,0,0,0,0,0,,,,,,2,0,2
+951401,2015/16,Australia,11,MM Lanning,27e003ce,I Ranaweera,a61850e6,EJ Villani,cde96d97,0,0,0,0,0,,,,,,4,0,4
+951401,2015/16,Australia,11,MM Lanning,27e003ce,I Ranaweera,a61850e6,EJ Villani,cde96d97,0,0,0,0,0,,,,,,0,0,0
+951401,2015/16,Australia,11,MM Lanning,27e003ce,I Ranaweera,a61850e6,EJ Villani,cde96d97,0,0,0,0,0,,,,,,1,0,1
+951401,2015/16,Australia,12,MM Lanning,27e003ce,KDU Prabodhani,a0fdf513,EJ Villani,cde96d97,0,0,0,0,0,,,,,,0,0,0
+951401,2015/16,Australia,12,MM Lanning,27e003ce,KDU Prabodhani,a0fdf513,EJ Villani,cde96d97,0,0,0,0,0,,,,,,1,0,1
+951401,2015/16,Australia,12,EJ Villani,cde96d97,KDU Prabodhani,a0fdf513,MM Lanning,27e003ce,0,0,0,0,0,,,,,,1,0,1
+951401,2015/16,Australia,12,MM Lanning,27e003ce,KDU Prabodhani,a0fdf513,EJ Villani,cde96d97,0,0,0,0,0,,,,,,0,0,0
+951401,2015/16,Australia,12,MM Lanning,27e003ce,KDU Prabodhani,a0fdf513,EJ Villani,cde96d97,0,0,0,0,0,,,,,,2,0,2
+951401,2015/16,Australia,12,MM Lanning,27e003ce,KDU Prabodhani,a0fdf513,EJ Villani,cde96d97,0,0,0,0,0,,,,,,0,0,0
+951401,2015/16,Australia,13,EJ Villani,cde96d97,OU Ranasinghe,52d3b7ff,MM Lanning,27e003ce,0,0,0,0,0,,,,,,4,0,4
+951401,2015/16,Australia,13,EJ Villani,cde96d97,OU Ranasinghe,52d3b7ff,MM Lanning,27e003ce,0,0,0,0,0,,,,,,1,0,1
+951401,2015/16,Australia,13,MM Lanning,27e003ce,OU Ranasinghe,52d3b7ff,EJ Villani,cde96d97,0,0,0,0,0,,,,,,1,0,1
+951401,2015/16,Australia,13,EJ Villani,cde96d97,OU Ranasinghe,52d3b7ff,MM Lanning,27e003ce,0,0,0,0,0,,,,,,1,0,1
+951401,2015/16,Australia,13,MM Lanning,27e003ce,OU Ranasinghe,52d3b7ff,EJ Villani,cde96d97,0,0,0,0,0,,,,,,1,0,1
+951401,2015/16,Australia,13,EJ Villani,cde96d97,OU Ranasinghe,52d3b7ff,MM Lanning,27e003ce,0,0,0,0,0,,,,,,1,0,1
+951401,2015/16,Australia,14,EJ Villani,cde96d97,I Ranaweera,a61850e6,MM Lanning,27e003ce,0,0,0,0,0,,,,,,1,0,1
+951401,2015/16,Australia,14,MM Lanning,27e003ce,I Ranaweera,a61850e6,EJ Villani,cde96d97,0,0,0,0,0,,,,,,0,0,0
+951401,2015/16,Australia,14,MM Lanning,27e003ce,I Ranaweera,a61850e6,EJ Villani,cde96d97,0,0,0,0,0,,,,,,0,0,0
+951401,2015/16,Australia,14,MM Lanning,27e003ce,I Ranaweera,a61850e6,EJ Villani,cde96d97,0,0,0,0,0,,,,,,0,0,0
+951401,2015/16,Australia,14,MM Lanning,27e003ce,I Ranaweera,a61850e6,EJ Villani,cde96d97,0,0,0,0,0,,,,,,4,0,4
+951401,2015/16,Australia,14,MM Lanning,27e003ce,I Ranaweera,a61850e6,EJ Villani,cde96d97,0,0,0,0,0,,,,,,1,0,1
+951401,2015/16,Australia,15,MM Lanning,27e003ce,LE Kaushalya,8b552293,EJ Villani,cde96d97,0,0,0,0,0,,,,,,1,0,1
+951401,2015/16,Australia,15,EJ Villani,cde96d97,LE Kaushalya,8b552293,MM Lanning,27e003ce,0,0,0,0,0,,,,,,0,0,0
+951401,2015/16,Australia,15,EJ Villani,cde96d97,LE Kaushalya,8b552293,MM Lanning,27e003ce,0,0,0,0,0,,,,,,4,0,4
+951401,2015/16,Australia,15,EJ Villani,cde96d97,LE Kaushalya,8b552293,MM Lanning,27e003ce,0,0,0,0,0,,,,,,4,0,4
+951401,2015/16,Australia,15,EJ Villani,cde96d97,LE Kaushalya,8b552293,MM Lanning,27e003ce,0,0,0,0,0,,,,,,0,0,0
+951401,2015/16,Australia,15,EJ Villani,cde96d97,LE Kaushalya,8b552293,MM Lanning,27e003ce,0,0,0,0,0,,,,,,1,0,1
+951401,2015/16,Australia,16,EJ Villani,cde96d97,BMSM Kumari,b55fb828,MM Lanning,27e003ce,0,0,0,0,0,,,,,,1,0,1
+951401,2015/16,Australia,16,MM Lanning,27e003ce,BMSM Kumari,b55fb828,EJ Villani,cde96d97,1,0,0,0,0,,,,,,0,1,1
+951401,2015/16,Australia,16,MM Lanning,27e003ce,BMSM Kumari,b55fb828,EJ Villani,cde96d97,0,0,0,0,0,,,,,,0,0,0
+951401,2015/16,Australia,16,MM Lanning,27e003ce,BMSM Kumari,b55fb828,EJ Villani,cde96d97,0,0,0,0,0,,,,,,0,0,0
+951401,2015/16,Australia,16,MM Lanning,27e003ce,BMSM Kumari,b55fb828,EJ Villani,cde96d97,0,0,0,0,0,,,,,,1,0,1
+951401,2015/16,Australia,16,EJ Villani,cde96d97,BMSM Kumari,b55fb828,MM Lanning,27e003ce,0,0,0,0,0,,,,,,1,0,1
+951401,2015/16,Australia,16,MM Lanning,27e003ce,BMSM Kumari,b55fb828,EJ Villani,cde96d97,0,0,0,0,0,,,,,,0,0,0
+951401,2015/16,Australia,17,EJ Villani,cde96d97,KDU Prabodhani,a0fdf513,MM Lanning,27e003ce,0,0,0,0,0,,,,,,1,0,1
+951401,2015/16,Australia,17,MM Lanning,27e003ce,KDU Prabodhani,a0fdf513,EJ Villani,cde96d97,0,0,0,0,0,,,,,,2,0,2
+951401,2015/16,Australia,17,MM Lanning,27e003ce,KDU Prabodhani,a0fdf513,EJ Villani,cde96d97,0,0,0,0,0,,,,,,0,0,0
+951401,2015/16,Australia,17,MM Lanning,27e003ce,KDU Prabodhani,a0fdf513,EJ Villani,cde96d97,0,0,0,0,0,,,,,,4,0,4

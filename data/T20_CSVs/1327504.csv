@@ -1,0 +1,98 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1327504,2022,Australia,0,AJ Finch,b8d490fd,HH Pandya,dbe50b21,C Green,eaa76d3c,0,0,0,0,0,,,,,,0,0,0
+1327504,2022,Australia,0,AJ Finch,b8d490fd,HH Pandya,dbe50b21,C Green,eaa76d3c,0,0,0,0,0,,,,,,4,0,4
+1327504,2022,Australia,0,AJ Finch,b8d490fd,HH Pandya,dbe50b21,C Green,eaa76d3c,0,0,0,0,0,,,,,,1,0,1
+1327504,2022,Australia,0,C Green,eaa76d3c,HH Pandya,dbe50b21,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,1,0,1
+1327504,2022,Australia,0,AJ Finch,b8d490fd,HH Pandya,dbe50b21,C Green,eaa76d3c,0,0,0,0,0,,,,,,4,0,4
+1327504,2022,Australia,0,AJ Finch,b8d490fd,HH Pandya,dbe50b21,C Green,eaa76d3c,0,0,0,0,0,,,,,,0,0,0
+1327504,2022,Australia,1,C Green,eaa76d3c,AR Patel,2e171977,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,4,0,4
+1327504,2022,Australia,1,C Green,eaa76d3c,AR Patel,2e171977,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,0,0,0
+1327504,2022,Australia,1,C Green,eaa76d3c,AR Patel,2e171977,AJ Finch,b8d490fd,0,0,0,0,1,C Green,eaa76d3c,V Kohli,ba607b88,run out,0,0,0
+1327504,2022,Australia,1,AJ Finch,b8d490fd,AR Patel,2e171977,GJ Maxwell,b681e71e,0,0,0,0,0,,,,,,4,0,4
+1327504,2022,Australia,1,AJ Finch,b8d490fd,AR Patel,2e171977,GJ Maxwell,b681e71e,0,0,0,0,0,,,,,,1,0,1
+1327504,2022,Australia,1,GJ Maxwell,b681e71e,AR Patel,2e171977,AJ Finch,b8d490fd,0,0,0,0,1,GJ Maxwell,b681e71e,,,bowled,0,0,0
+1327504,2022,Australia,2,AJ Finch,b8d490fd,YS Chahal,57ee1fde,TH David,f1f99156,0,0,0,0,0,,,,,,1,0,1
+1327504,2022,Australia,2,TH David,f1f99156,YS Chahal,57ee1fde,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,1,0,1
+1327504,2022,Australia,2,AJ Finch,b8d490fd,YS Chahal,57ee1fde,TH David,f1f99156,0,0,0,0,0,,,,,,6,0,6
+1327504,2022,Australia,2,AJ Finch,b8d490fd,YS Chahal,57ee1fde,TH David,f1f99156,0,0,0,0,0,,,,,,2,0,2
+1327504,2022,Australia,2,AJ Finch,b8d490fd,YS Chahal,57ee1fde,TH David,f1f99156,0,0,0,0,0,,,,,,1,0,1
+1327504,2022,Australia,2,TH David,f1f99156,YS Chahal,57ee1fde,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,1,0,1
+1327504,2022,Australia,3,TH David,f1f99156,AR Patel,2e171977,AJ Finch,b8d490fd,0,0,0,0,1,TH David,f1f99156,,,bowled,0,0,0
+1327504,2022,Australia,3,MS Wade,afa7e784,AR Patel,2e171977,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,0,0,0
+1327504,2022,Australia,3,MS Wade,afa7e784,AR Patel,2e171977,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,0,0,0
+1327504,2022,Australia,3,MS Wade,afa7e784,AR Patel,2e171977,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,0,0,0
+1327504,2022,Australia,3,MS Wade,afa7e784,AR Patel,2e171977,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,0,0,0
+1327504,2022,Australia,3,MS Wade,afa7e784,AR Patel,2e171977,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,4,0,4
+1327504,2022,Australia,4,AJ Finch,b8d490fd,JJ Bumrah,462411b3,MS Wade,afa7e784,1,0,0,0,0,,,,,,0,1,1
+1327504,2022,Australia,4,AJ Finch,b8d490fd,JJ Bumrah,462411b3,MS Wade,afa7e784,0,0,0,0,0,,,,,,4,0,4
+1327504,2022,Australia,4,AJ Finch,b8d490fd,JJ Bumrah,462411b3,MS Wade,afa7e784,0,0,0,0,0,,,,,,1,0,1
+1327504,2022,Australia,4,MS Wade,afa7e784,JJ Bumrah,462411b3,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,2,0,2
+1327504,2022,Australia,4,MS Wade,afa7e784,JJ Bumrah,462411b3,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,1,0,1
+1327504,2022,Australia,4,AJ Finch,b8d490fd,JJ Bumrah,462411b3,MS Wade,afa7e784,0,0,0,0,0,,,,,,2,0,2
+1327504,2022,Australia,4,AJ Finch,b8d490fd,JJ Bumrah,462411b3,MS Wade,afa7e784,0,0,0,0,1,AJ Finch,b8d490fd,,,bowled,0,0,0
+1327504,2022,Australia,5,MS Wade,afa7e784,HV Patel,f986ca1a,SPD Smith,30a45b23,0,0,0,0,0,,,,,,4,0,4
+1327504,2022,Australia,5,MS Wade,afa7e784,HV Patel,f986ca1a,SPD Smith,30a45b23,0,0,0,0,0,,,,,,1,0,1
+1327504,2022,Australia,5,SPD Smith,30a45b23,HV Patel,f986ca1a,MS Wade,afa7e784,0,0,0,0,0,,,,,,1,0,1
+1327504,2022,Australia,5,MS Wade,afa7e784,HV Patel,f986ca1a,SPD Smith,30a45b23,0,0,0,0,0,,,,,,2,0,2
+1327504,2022,Australia,5,MS Wade,afa7e784,HV Patel,f986ca1a,SPD Smith,30a45b23,0,0,0,0,0,,,,,,4,0,4
+1327504,2022,Australia,5,MS Wade,afa7e784,HV Patel,f986ca1a,SPD Smith,30a45b23,0,0,0,0,0,,,,,,1,0,1
+1327504,2022,Australia,6,MS Wade,afa7e784,JJ Bumrah,462411b3,SPD Smith,30a45b23,0,0,0,0,0,,,,,,1,0,1
+1327504,2022,Australia,6,SPD Smith,30a45b23,JJ Bumrah,462411b3,MS Wade,afa7e784,0,0,0,0,0,,,,,,4,0,4
+1327504,2022,Australia,6,SPD Smith,30a45b23,JJ Bumrah,462411b3,MS Wade,afa7e784,0,0,0,0,0,,,,,,1,0,1
+1327504,2022,Australia,6,MS Wade,afa7e784,JJ Bumrah,462411b3,SPD Smith,30a45b23,0,0,0,0,0,,,,,,4,0,4
+1327504,2022,Australia,6,MS Wade,afa7e784,JJ Bumrah,462411b3,SPD Smith,30a45b23,0,0,0,0,0,,,,,,1,0,1
+1327504,2022,Australia,6,SPD Smith,30a45b23,JJ Bumrah,462411b3,MS Wade,afa7e784,0,0,0,0,0,,,,,,1,0,1
+1327504,2022,Australia,7,SPD Smith,30a45b23,HV Patel,f986ca1a,MS Wade,afa7e784,0,0,0,0,0,,,,,,1,0,1
+1327504,2022,Australia,7,MS Wade,afa7e784,HV Patel,f986ca1a,SPD Smith,30a45b23,0,0,0,0,0,,,,,,6,0,6
+1327504,2022,Australia,7,MS Wade,afa7e784,HV Patel,f986ca1a,SPD Smith,30a45b23,0,0,0,0,0,,,,,,0,0,0
+1327504,2022,Australia,7,MS Wade,afa7e784,HV Patel,f986ca1a,SPD Smith,30a45b23,0,0,0,0,0,,,,,,6,0,6
+1327504,2022,Australia,7,MS Wade,afa7e784,HV Patel,f986ca1a,SPD Smith,30a45b23,0,0,0,0,0,,,,,,6,0,6
+1327504,2022,Australia,7,MS Wade,afa7e784,HV Patel,f986ca1a,SPD Smith,30a45b23,0,0,0,0,1,SPD Smith,30a45b23,HV Patel,f986ca1a,run out,0,0,0
+1327504,2022,India,0,KL Rahul,b17e2f24,JR Hazlewood,03806cf8,RG Sharma,740742ef,0,0,0,0,0,,,,,,1,0,1
+1327504,2022,India,0,RG Sharma,740742ef,JR Hazlewood,03806cf8,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,0,0,0
+1327504,2022,India,0,RG Sharma,740742ef,JR Hazlewood,03806cf8,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,6,0,6
+1327504,2022,India,0,RG Sharma,740742ef,JR Hazlewood,03806cf8,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,6,0,6
+1327504,2022,India,0,RG Sharma,740742ef,JR Hazlewood,03806cf8,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,1,0,1
+1327504,2022,India,0,KL Rahul,b17e2f24,JR Hazlewood,03806cf8,RG Sharma,740742ef,0,0,0,0,0,,,,,,6,0,6
+1327504,2022,India,1,RG Sharma,740742ef,PJ Cummins,ded9240e,KL Rahul,b17e2f24,1,0,0,0,0,,,,,,0,1,1
+1327504,2022,India,1,RG Sharma,740742ef,PJ Cummins,ded9240e,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,0,0,0
+1327504,2022,India,1,RG Sharma,740742ef,PJ Cummins,ded9240e,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,0,0,0
+1327504,2022,India,1,RG Sharma,740742ef,PJ Cummins,ded9240e,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,6,0,6
+1327504,2022,India,1,RG Sharma,740742ef,PJ Cummins,ded9240e,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,1,0,1
+1327504,2022,India,1,KL Rahul,b17e2f24,PJ Cummins,ded9240e,RG Sharma,740742ef,0,0,0,0,0,,,,,,0,0,0
+1327504,2022,India,1,KL Rahul,b17e2f24,PJ Cummins,ded9240e,RG Sharma,740742ef,0,0,0,0,0,,,,,,2,0,2
+1327504,2022,India,2,RG Sharma,740742ef,A Zampa,14f96089,KL Rahul,b17e2f24,0,0,0,1,0,,,,,,0,1,1
+1327504,2022,India,2,KL Rahul,b17e2f24,A Zampa,14f96089,RG Sharma,740742ef,0,0,0,0,0,,,,,,1,0,1
+1327504,2022,India,2,RG Sharma,740742ef,A Zampa,14f96089,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,6,0,6
+1327504,2022,India,2,RG Sharma,740742ef,A Zampa,14f96089,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,1,0,1
+1327504,2022,India,2,KL Rahul,b17e2f24,A Zampa,14f96089,RG Sharma,740742ef,0,0,0,0,1,KL Rahul,b17e2f24,,,bowled,0,0,0
+1327504,2022,India,2,V Kohli,ba607b88,A Zampa,14f96089,RG Sharma,740742ef,0,0,0,0,0,,,,,,1,0,1
+1327504,2022,India,3,V Kohli,ba607b88,DR Sams,caf69bf7,RG Sharma,740742ef,0,0,0,0,0,,,,,,1,0,1
+1327504,2022,India,3,RG Sharma,740742ef,DR Sams,caf69bf7,V Kohli,ba607b88,0,0,0,0,0,,,,,,4,0,4
+1327504,2022,India,3,RG Sharma,740742ef,DR Sams,caf69bf7,V Kohli,ba607b88,0,0,0,0,0,,,,,,0,0,0
+1327504,2022,India,3,RG Sharma,740742ef,DR Sams,caf69bf7,V Kohli,ba607b88,0,0,1,0,0,,,,,,0,1,1
+1327504,2022,India,3,V Kohli,ba607b88,DR Sams,caf69bf7,RG Sharma,740742ef,0,0,0,0,0,,,,,,4,0,4
+1327504,2022,India,3,V Kohli,ba607b88,DR Sams,caf69bf7,RG Sharma,740742ef,0,0,0,0,0,,,,,,1,0,1
+1327504,2022,India,4,V Kohli,ba607b88,A Zampa,14f96089,RG Sharma,740742ef,0,0,0,0,0,,,,,,4,0,4
+1327504,2022,India,4,V Kohli,ba607b88,A Zampa,14f96089,RG Sharma,740742ef,0,0,0,0,1,V Kohli,ba607b88,,,bowled,0,0,0
+1327504,2022,India,4,SA Yadav,271f83cd,A Zampa,14f96089,RG Sharma,740742ef,0,0,0,0,1,SA Yadav,271f83cd,,,lbw,0,0,0
+1327504,2022,India,4,HH Pandya,dbe50b21,A Zampa,14f96089,RG Sharma,740742ef,0,0,0,0,0,,,,,,1,0,1
+1327504,2022,India,4,RG Sharma,740742ef,A Zampa,14f96089,HH Pandya,dbe50b21,0,0,0,0,0,,,,,,1,0,1
+1327504,2022,India,4,HH Pandya,dbe50b21,A Zampa,14f96089,RG Sharma,740742ef,0,0,0,0,0,,,,,,1,0,1
+1327504,2022,India,5,HH Pandya,dbe50b21,SA Abbott,1a2676c5,RG Sharma,740742ef,0,0,0,0,0,,,,,,0,0,0
+1327504,2022,India,5,HH Pandya,dbe50b21,SA Abbott,1a2676c5,RG Sharma,740742ef,0,0,0,0,0,,,,,,1,0,1
+1327504,2022,India,5,RG Sharma,740742ef,SA Abbott,1a2676c5,HH Pandya,dbe50b21,0,0,0,0,0,,,,,,4,0,4
+1327504,2022,India,5,RG Sharma,740742ef,SA Abbott,1a2676c5,HH Pandya,dbe50b21,0,0,0,0,0,,,,,,4,0,4
+1327504,2022,India,5,RG Sharma,740742ef,SA Abbott,1a2676c5,HH Pandya,dbe50b21,1,0,0,0,0,,,,,,0,1,1
+1327504,2022,India,5,RG Sharma,740742ef,SA Abbott,1a2676c5,HH Pandya,dbe50b21,0,0,0,0,0,,,,,,1,0,1
+1327504,2022,India,5,HH Pandya,dbe50b21,SA Abbott,1a2676c5,RG Sharma,740742ef,0,0,0,0,0,,,,,,0,0,0
+1327504,2022,India,6,RG Sharma,740742ef,PJ Cummins,ded9240e,HH Pandya,dbe50b21,1,0,0,0,0,,,,,,0,1,1
+1327504,2022,India,6,RG Sharma,740742ef,PJ Cummins,ded9240e,HH Pandya,dbe50b21,0,0,0,0,0,,,,,,1,0,1
+1327504,2022,India,6,HH Pandya,dbe50b21,PJ Cummins,ded9240e,RG Sharma,740742ef,0,0,0,0,0,,,,,,4,0,4
+1327504,2022,India,6,HH Pandya,dbe50b21,PJ Cummins,ded9240e,RG Sharma,740742ef,0,0,0,0,0,,,,,,2,0,2
+1327504,2022,India,6,HH Pandya,dbe50b21,PJ Cummins,ded9240e,RG Sharma,740742ef,0,0,0,0,0,,,,,,0,0,0
+1327504,2022,India,6,HH Pandya,dbe50b21,PJ Cummins,ded9240e,RG Sharma,740742ef,0,0,0,0,1,HH Pandya,dbe50b21,AJ Finch,b8d490fd,caught,0,0,0
+1327504,2022,India,6,RG Sharma,740742ef,PJ Cummins,ded9240e,KD Karthik,c03f1114,1,0,0,0,0,,,,,,0,1,1
+1327504,2022,India,6,RG Sharma,740742ef,PJ Cummins,ded9240e,KD Karthik,c03f1114,0,0,0,0,0,,,,,,4,0,4
+1327504,2022,India,7,KD Karthik,c03f1114,DR Sams,caf69bf7,RG Sharma,740742ef,0,0,0,0,0,,,,,,6,0,6
+1327504,2022,India,7,KD Karthik,c03f1114,DR Sams,caf69bf7,RG Sharma,740742ef,0,0,0,0,0,,,,,,4,0,4

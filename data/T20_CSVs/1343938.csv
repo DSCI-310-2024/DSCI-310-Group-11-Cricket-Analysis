@@ -1,0 +1,141 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1343938,2022/23,West Indies,0,HK Matthews,d32cf49a,IECM Wong,e5b17517,AA Alleyne,4b0e3049,0,0,0,0,0,,,,,,0,0,0
+1343938,2022/23,West Indies,0,HK Matthews,d32cf49a,IECM Wong,e5b17517,AA Alleyne,4b0e3049,0,0,0,0,0,,,,,,0,0,0
+1343938,2022/23,West Indies,0,HK Matthews,d32cf49a,IECM Wong,e5b17517,AA Alleyne,4b0e3049,0,0,0,0,0,,,,,,4,0,4
+1343938,2022/23,West Indies,0,HK Matthews,d32cf49a,IECM Wong,e5b17517,AA Alleyne,4b0e3049,0,0,0,0,0,,,,,,0,0,0
+1343938,2022/23,West Indies,0,HK Matthews,d32cf49a,IECM Wong,e5b17517,AA Alleyne,4b0e3049,0,0,0,0,0,,,,,,2,0,2
+1343938,2022/23,West Indies,0,HK Matthews,d32cf49a,IECM Wong,e5b17517,AA Alleyne,4b0e3049,0,0,0,0,0,,,,,,1,0,1
+1343938,2022/23,West Indies,1,HK Matthews,d32cf49a,FR Davies,2479daa6,AA Alleyne,4b0e3049,0,0,0,0,0,,,,,,1,0,1
+1343938,2022/23,West Indies,1,AA Alleyne,4b0e3049,FR Davies,2479daa6,HK Matthews,d32cf49a,0,0,0,0,0,,,,,,1,0,1
+1343938,2022/23,West Indies,1,HK Matthews,d32cf49a,FR Davies,2479daa6,AA Alleyne,4b0e3049,0,0,0,0,0,,,,,,0,0,0
+1343938,2022/23,West Indies,1,HK Matthews,d32cf49a,FR Davies,2479daa6,AA Alleyne,4b0e3049,0,0,0,0,1,HK Matthews,d32cf49a,,,bowled,0,0,0
+1343938,2022/23,West Indies,1,D Joseph,6d7ca3e6,FR Davies,2479daa6,AA Alleyne,4b0e3049,0,0,0,0,0,,,,,,0,0,0
+1343938,2022/23,West Indies,1,D Joseph,6d7ca3e6,FR Davies,2479daa6,AA Alleyne,4b0e3049,0,0,0,0,0,,,,,,0,0,0
+1343938,2022/23,West Indies,2,AA Alleyne,4b0e3049,NR Sciver,f3a18a0c,D Joseph,6d7ca3e6,0,0,0,0,0,,,,,,0,0,0
+1343938,2022/23,West Indies,2,AA Alleyne,4b0e3049,NR Sciver,f3a18a0c,D Joseph,6d7ca3e6,0,0,0,0,0,,,,,,0,0,0
+1343938,2022/23,West Indies,2,AA Alleyne,4b0e3049,NR Sciver,f3a18a0c,D Joseph,6d7ca3e6,0,0,0,0,0,,,,,,0,0,0
+1343938,2022/23,West Indies,2,AA Alleyne,4b0e3049,NR Sciver,f3a18a0c,D Joseph,6d7ca3e6,0,0,0,0,0,,,,,,0,0,0
+1343938,2022/23,West Indies,2,AA Alleyne,4b0e3049,NR Sciver,f3a18a0c,D Joseph,6d7ca3e6,0,0,0,0,1,AA Alleyne,4b0e3049,,,hit wicket,0,0,0
+1343938,2022/23,West Indies,2,RS Williams,406de451,NR Sciver,f3a18a0c,D Joseph,6d7ca3e6,0,0,0,0,0,,,,,,0,0,0
+1343938,2022/23,West Indies,3,D Joseph,6d7ca3e6,FR Davies,2479daa6,RS Williams,406de451,0,0,1,0,0,,,,,,0,1,1
+1343938,2022/23,West Indies,3,RS Williams,406de451,FR Davies,2479daa6,D Joseph,6d7ca3e6,0,0,0,0,0,,,,,,0,0,0
+1343938,2022/23,West Indies,3,RS Williams,406de451,FR Davies,2479daa6,D Joseph,6d7ca3e6,0,0,0,0,1,RS Williams,406de451,,,lbw,0,0,0
+1343938,2022/23,West Indies,3,S Gajnabi,c35739a1,FR Davies,2479daa6,D Joseph,6d7ca3e6,0,0,0,0,0,,,,,,0,0,0
+1343938,2022/23,West Indies,3,S Gajnabi,c35739a1,FR Davies,2479daa6,D Joseph,6d7ca3e6,0,0,0,0,0,,,,,,0,0,0
+1343938,2022/23,West Indies,3,S Gajnabi,c35739a1,FR Davies,2479daa6,D Joseph,6d7ca3e6,0,0,0,0,0,,,,,,0,0,0
+1343938,2022/23,West Indies,4,D Joseph,6d7ca3e6,NR Sciver,f3a18a0c,S Gajnabi,c35739a1,0,0,0,0,0,,,,,,0,0,0
+1343938,2022/23,West Indies,4,D Joseph,6d7ca3e6,NR Sciver,f3a18a0c,S Gajnabi,c35739a1,0,0,0,0,0,,,,,,0,0,0
+1343938,2022/23,West Indies,4,D Joseph,6d7ca3e6,NR Sciver,f3a18a0c,S Gajnabi,c35739a1,0,0,0,0,0,,,,,,2,0,2
+1343938,2022/23,West Indies,4,D Joseph,6d7ca3e6,NR Sciver,f3a18a0c,S Gajnabi,c35739a1,0,0,0,0,0,,,,,,1,0,1
+1343938,2022/23,West Indies,4,S Gajnabi,c35739a1,NR Sciver,f3a18a0c,D Joseph,6d7ca3e6,0,0,0,0,0,,,,,,1,0,1
+1343938,2022/23,West Indies,4,D Joseph,6d7ca3e6,NR Sciver,f3a18a0c,S Gajnabi,c35739a1,0,0,0,0,0,,,,,,0,0,0
+1343938,2022/23,West Indies,5,S Gajnabi,c35739a1,IECM Wong,e5b17517,D Joseph,6d7ca3e6,0,0,0,0,1,S Gajnabi,c35739a1,S Ecclestone,cdb82f1c,caught,0,0,0
+1343938,2022/23,West Indies,5,T Holder,41fd2907,IECM Wong,e5b17517,D Joseph,6d7ca3e6,0,0,0,0,0,,,,,,0,0,0
+1343938,2022/23,West Indies,5,T Holder,41fd2907,IECM Wong,e5b17517,D Joseph,6d7ca3e6,0,0,2,0,0,,,,,,0,2,2
+1343938,2022/23,West Indies,5,T Holder,41fd2907,IECM Wong,e5b17517,D Joseph,6d7ca3e6,0,0,0,0,0,,,,,,0,0,0
+1343938,2022/23,West Indies,5,T Holder,41fd2907,IECM Wong,e5b17517,D Joseph,6d7ca3e6,0,0,0,0,0,,,,,,0,0,0
+1343938,2022/23,West Indies,5,T Holder,41fd2907,IECM Wong,e5b17517,D Joseph,6d7ca3e6,0,0,0,0,0,,,,,,0,0,0
+1343938,2022/23,West Indies,6,D Joseph,6d7ca3e6,S Ecclestone,cdb82f1c,T Holder,41fd2907,0,0,0,0,0,,,,,,0,0,0
+1343938,2022/23,West Indies,6,D Joseph,6d7ca3e6,S Ecclestone,cdb82f1c,T Holder,41fd2907,0,0,0,0,0,,,,,,0,0,0
+1343938,2022/23,West Indies,6,D Joseph,6d7ca3e6,S Ecclestone,cdb82f1c,T Holder,41fd2907,0,0,0,0,0,,,,,,0,0,0
+1343938,2022/23,West Indies,6,D Joseph,6d7ca3e6,S Ecclestone,cdb82f1c,T Holder,41fd2907,0,0,0,0,0,,,,,,0,0,0
+1343938,2022/23,West Indies,6,D Joseph,6d7ca3e6,S Ecclestone,cdb82f1c,T Holder,41fd2907,0,0,0,0,0,,,,,,0,0,0
+1343938,2022/23,West Indies,6,D Joseph,6d7ca3e6,S Ecclestone,cdb82f1c,T Holder,41fd2907,0,0,0,0,0,,,,,,0,0,0
+1343938,2022/23,West Indies,7,T Holder,41fd2907,CE Dean,c6625a26,D Joseph,6d7ca3e6,0,0,0,0,0,,,,,,0,0,0
+1343938,2022/23,West Indies,7,T Holder,41fd2907,CE Dean,c6625a26,D Joseph,6d7ca3e6,0,0,0,0,0,,,,,,0,0,0
+1343938,2022/23,West Indies,7,T Holder,41fd2907,CE Dean,c6625a26,D Joseph,6d7ca3e6,0,0,0,0,0,,,,,,0,0,0
+1343938,2022/23,West Indies,7,T Holder,41fd2907,CE Dean,c6625a26,D Joseph,6d7ca3e6,0,0,0,0,1,T Holder,41fd2907,NR Sciver,f3a18a0c,caught,0,0,0
+1343938,2022/23,West Indies,7,Kyshona A Knight,d85a1960,CE Dean,c6625a26,D Joseph,6d7ca3e6,0,0,0,0,0,,,,,,1,0,1
+1343938,2022/23,West Indies,7,D Joseph,6d7ca3e6,CE Dean,c6625a26,Kyshona A Knight,d85a1960,0,0,0,0,0,,,,,,1,0,1
+1343938,2022/23,West Indies,8,D Joseph,6d7ca3e6,S Ecclestone,cdb82f1c,Kyshona A Knight,d85a1960,0,0,0,0,0,,,,,,0,0,0
+1343938,2022/23,West Indies,8,D Joseph,6d7ca3e6,S Ecclestone,cdb82f1c,Kyshona A Knight,d85a1960,0,0,0,0,0,,,,,,0,0,0
+1343938,2022/23,West Indies,8,D Joseph,6d7ca3e6,S Ecclestone,cdb82f1c,Kyshona A Knight,d85a1960,0,0,0,0,0,,,,,,4,0,4
+1343938,2022/23,West Indies,8,D Joseph,6d7ca3e6,S Ecclestone,cdb82f1c,Kyshona A Knight,d85a1960,0,0,0,0,0,,,,,,1,0,1
+1343938,2022/23,West Indies,8,Kyshona A Knight,d85a1960,S Ecclestone,cdb82f1c,D Joseph,6d7ca3e6,0,0,0,0,0,,,,,,0,0,0
+1343938,2022/23,West Indies,8,Kyshona A Knight,d85a1960,S Ecclestone,cdb82f1c,D Joseph,6d7ca3e6,0,0,0,0,0,,,,,,1,0,1
+1343938,2022/23,West Indies,9,Kyshona A Knight,d85a1960,CE Dean,c6625a26,D Joseph,6d7ca3e6,0,0,0,0,1,Kyshona A Knight,d85a1960,HC Knight,4ba0289e,caught,0,0,0
+1343938,2022/23,West Indies,9,ASS Fletcher,42d9dd09,CE Dean,c6625a26,D Joseph,6d7ca3e6,1,0,0,0,0,,,,,,0,1,1
+1343938,2022/23,West Indies,9,ASS Fletcher,42d9dd09,CE Dean,c6625a26,D Joseph,6d7ca3e6,0,0,0,0,0,,,,,,0,0,0
+1343938,2022/23,West Indies,9,ASS Fletcher,42d9dd09,CE Dean,c6625a26,D Joseph,6d7ca3e6,0,0,0,0,0,,,,,,0,0,0
+1343938,2022/23,West Indies,9,ASS Fletcher,42d9dd09,CE Dean,c6625a26,D Joseph,6d7ca3e6,0,0,0,0,0,,,,,,1,0,1
+1343938,2022/23,West Indies,9,D Joseph,6d7ca3e6,CE Dean,c6625a26,ASS Fletcher,42d9dd09,0,0,0,0,0,,,,,,1,0,1
+1343938,2022/23,West Indies,9,ASS Fletcher,42d9dd09,CE Dean,c6625a26,D Joseph,6d7ca3e6,1,0,0,0,0,,,,,,0,1,1
+1343938,2022/23,West Indies,9,ASS Fletcher,42d9dd09,CE Dean,c6625a26,D Joseph,6d7ca3e6,0,0,0,0,0,,,,,,0,0,0
+1343938,2022/23,West Indies,10,D Joseph,6d7ca3e6,AN Davidson-Richards,35828bdd,ASS Fletcher,42d9dd09,0,0,0,0,0,,,,,,1,0,1
+1343938,2022/23,West Indies,10,ASS Fletcher,42d9dd09,AN Davidson-Richards,35828bdd,D Joseph,6d7ca3e6,0,0,0,0,0,,,,,,0,0,0
+1343938,2022/23,West Indies,10,ASS Fletcher,42d9dd09,AN Davidson-Richards,35828bdd,D Joseph,6d7ca3e6,0,0,0,0,1,ASS Fletcher,42d9dd09,,,lbw,0,0,0
+1343938,2022/23,West Indies,10,CS Fraser,fb9a8cc3,AN Davidson-Richards,35828bdd,D Joseph,6d7ca3e6,0,0,0,0,0,,,,,,1,0,1
+1343938,2022/23,West Indies,10,D Joseph,6d7ca3e6,AN Davidson-Richards,35828bdd,CS Fraser,fb9a8cc3,0,0,0,0,1,D Joseph,6d7ca3e6,NR Sciver,f3a18a0c,caught,0,0,0
+1343938,2022/23,West Indies,10,SS Grimmond,6bebf334,AN Davidson-Richards,35828bdd,CS Fraser,fb9a8cc3,0,0,0,0,0,,,,,,0,0,0
+1343938,2022/23,West Indies,11,CS Fraser,fb9a8cc3,IECM Wong,e5b17517,SS Grimmond,6bebf334,0,0,0,0,0,,,,,,0,0,0
+1343938,2022/23,West Indies,11,CS Fraser,fb9a8cc3,IECM Wong,e5b17517,SS Grimmond,6bebf334,0,0,0,0,0,,,,,,1,0,1
+1343938,2022/23,West Indies,11,SS Grimmond,6bebf334,IECM Wong,e5b17517,CS Fraser,fb9a8cc3,0,0,0,0,0,,,,,,1,0,1
+1343938,2022/23,West Indies,11,CS Fraser,fb9a8cc3,IECM Wong,e5b17517,SS Grimmond,6bebf334,1,0,0,0,0,,,,,,0,1,1
+1343938,2022/23,West Indies,11,CS Fraser,fb9a8cc3,IECM Wong,e5b17517,SS Grimmond,6bebf334,0,0,0,0,0,,,,,,0,0,0
+1343938,2022/23,West Indies,11,CS Fraser,fb9a8cc3,IECM Wong,e5b17517,SS Grimmond,6bebf334,0,0,0,0,0,,,,,,0,0,0
+1343938,2022/23,West Indies,11,CS Fraser,fb9a8cc3,IECM Wong,e5b17517,SS Grimmond,6bebf334,0,0,0,0,0,,,,,,2,0,2
+1343938,2022/23,West Indies,12,SS Grimmond,6bebf334,AN Davidson-Richards,35828bdd,CS Fraser,fb9a8cc3,0,0,0,0,0,,,,,,0,0,0
+1343938,2022/23,West Indies,12,SS Grimmond,6bebf334,AN Davidson-Richards,35828bdd,CS Fraser,fb9a8cc3,0,0,0,0,0,,,,,,1,0,1
+1343938,2022/23,West Indies,12,CS Fraser,fb9a8cc3,AN Davidson-Richards,35828bdd,SS Grimmond,6bebf334,1,0,0,0,0,,,,,,0,1,1
+1343938,2022/23,West Indies,12,CS Fraser,fb9a8cc3,AN Davidson-Richards,35828bdd,SS Grimmond,6bebf334,0,0,0,0,0,,,,,,0,0,0
+1343938,2022/23,West Indies,12,CS Fraser,fb9a8cc3,AN Davidson-Richards,35828bdd,SS Grimmond,6bebf334,0,0,0,0,0,,,,,,1,0,1
+1343938,2022/23,West Indies,12,SS Grimmond,6bebf334,AN Davidson-Richards,35828bdd,CS Fraser,fb9a8cc3,0,0,0,0,0,,,,,,0,0,0
+1343938,2022/23,West Indies,12,SS Grimmond,6bebf334,AN Davidson-Richards,35828bdd,CS Fraser,fb9a8cc3,0,0,0,0,1,SS Grimmond,6bebf334,NR Sciver,f3a18a0c,caught,0,0,0
+1343938,2022/23,West Indies,13,CS Fraser,fb9a8cc3,S Ecclestone,cdb82f1c,K Ramharack,321c980e,0,0,0,0,0,,,,,,0,0,0
+1343938,2022/23,West Indies,13,CS Fraser,fb9a8cc3,S Ecclestone,cdb82f1c,K Ramharack,321c980e,0,0,0,0,0,,,,,,2,0,2
+1343938,2022/23,West Indies,13,CS Fraser,fb9a8cc3,S Ecclestone,cdb82f1c,K Ramharack,321c980e,0,0,0,0,0,,,,,,0,0,0
+1343938,2022/23,West Indies,13,CS Fraser,fb9a8cc3,S Ecclestone,cdb82f1c,K Ramharack,321c980e,0,0,0,0,0,,,,,,0,0,0
+1343938,2022/23,West Indies,13,CS Fraser,fb9a8cc3,S Ecclestone,cdb82f1c,K Ramharack,321c980e,0,0,0,0,0,,,,,,0,0,0
+1343938,2022/23,West Indies,13,CS Fraser,fb9a8cc3,S Ecclestone,cdb82f1c,K Ramharack,321c980e,0,0,0,0,0,,,,,,0,0,0
+1343938,2022/23,West Indies,14,K Ramharack,321c980e,IECM Wong,e5b17517,CS Fraser,fb9a8cc3,0,0,0,0,0,,,,,,0,0,0
+1343938,2022/23,West Indies,14,K Ramharack,321c980e,IECM Wong,e5b17517,CS Fraser,fb9a8cc3,0,0,0,0,0,,,,,,0,0,0
+1343938,2022/23,West Indies,14,K Ramharack,321c980e,IECM Wong,e5b17517,CS Fraser,fb9a8cc3,0,0,0,0,0,,,,,,0,0,0
+1343938,2022/23,West Indies,14,K Ramharack,321c980e,IECM Wong,e5b17517,CS Fraser,fb9a8cc3,0,0,0,0,0,,,,,,1,0,1
+1343938,2022/23,West Indies,14,CS Fraser,fb9a8cc3,IECM Wong,e5b17517,K Ramharack,321c980e,0,0,0,0,0,,,,,,0,0,0
+1343938,2022/23,West Indies,14,CS Fraser,fb9a8cc3,IECM Wong,e5b17517,K Ramharack,321c980e,0,0,0,0,0,,,,,,0,0,0
+1343938,2022/23,West Indies,15,K Ramharack,321c980e,CE Dean,c6625a26,CS Fraser,fb9a8cc3,0,0,0,0,0,,,,,,0,0,0
+1343938,2022/23,West Indies,15,K Ramharack,321c980e,CE Dean,c6625a26,CS Fraser,fb9a8cc3,0,0,0,0,0,,,,,,1,0,1
+1343938,2022/23,West Indies,15,CS Fraser,fb9a8cc3,CE Dean,c6625a26,K Ramharack,321c980e,0,0,0,0,0,,,,,,0,0,0
+1343938,2022/23,West Indies,15,CS Fraser,fb9a8cc3,CE Dean,c6625a26,K Ramharack,321c980e,0,0,0,0,0,,,,,,1,0,1
+1343938,2022/23,West Indies,15,K Ramharack,321c980e,CE Dean,c6625a26,CS Fraser,fb9a8cc3,0,0,0,0,0,,,,,,0,0,0
+1343938,2022/23,West Indies,15,K Ramharack,321c980e,CE Dean,c6625a26,CS Fraser,fb9a8cc3,0,0,0,0,0,,,,,,0,0,0
+1343938,2022/23,West Indies,16,CS Fraser,fb9a8cc3,FR Davies,2479daa6,K Ramharack,321c980e,0,0,0,0,0,,,,,,0,0,0
+1343938,2022/23,West Indies,16,CS Fraser,fb9a8cc3,FR Davies,2479daa6,K Ramharack,321c980e,0,0,0,0,1,CS Fraser,fb9a8cc3,,,lbw,0,0,0
+1343938,2022/23,England,0,DN Wyatt,a139c379,HK Matthews,d32cf49a,SIR Dunkley,3a9e9cb2,0,0,0,0,0,,,,,,2,0,2
+1343938,2022/23,England,0,DN Wyatt,a139c379,HK Matthews,d32cf49a,SIR Dunkley,3a9e9cb2,0,0,0,0,0,,,,,,3,0,3
+1343938,2022/23,England,0,SIR Dunkley,3a9e9cb2,HK Matthews,d32cf49a,DN Wyatt,a139c379,0,0,0,0,0,,,,,,1,0,1
+1343938,2022/23,England,0,DN Wyatt,a139c379,HK Matthews,d32cf49a,SIR Dunkley,3a9e9cb2,0,0,0,0,0,,,,,,0,0,0
+1343938,2022/23,England,0,DN Wyatt,a139c379,HK Matthews,d32cf49a,SIR Dunkley,3a9e9cb2,0,0,0,0,0,,,,,,0,0,0
+1343938,2022/23,England,0,DN Wyatt,a139c379,HK Matthews,d32cf49a,SIR Dunkley,3a9e9cb2,0,0,0,0,0,,,,,,0,0,0
+1343938,2022/23,England,1,SIR Dunkley,3a9e9cb2,AA Alleyne,4b0e3049,DN Wyatt,a139c379,0,0,0,0,0,,,,,,2,0,2
+1343938,2022/23,England,1,SIR Dunkley,3a9e9cb2,AA Alleyne,4b0e3049,DN Wyatt,a139c379,1,0,0,0,0,,,,,,0,1,1
+1343938,2022/23,England,1,SIR Dunkley,3a9e9cb2,AA Alleyne,4b0e3049,DN Wyatt,a139c379,0,0,1,0,0,,,,,,0,1,1
+1343938,2022/23,England,1,DN Wyatt,a139c379,AA Alleyne,4b0e3049,SIR Dunkley,3a9e9cb2,1,0,0,0,0,,,,,,0,1,1
+1343938,2022/23,England,1,DN Wyatt,a139c379,AA Alleyne,4b0e3049,SIR Dunkley,3a9e9cb2,1,0,0,0,0,,,,,,0,1,1
+1343938,2022/23,England,1,DN Wyatt,a139c379,AA Alleyne,4b0e3049,SIR Dunkley,3a9e9cb2,0,0,0,0,0,,,,,,4,0,4
+1343938,2022/23,England,1,DN Wyatt,a139c379,AA Alleyne,4b0e3049,SIR Dunkley,3a9e9cb2,0,0,0,0,0,,,,,,0,0,0
+1343938,2022/23,England,1,DN Wyatt,a139c379,AA Alleyne,4b0e3049,SIR Dunkley,3a9e9cb2,0,0,0,0,0,,,,,,0,0,0
+1343938,2022/23,England,1,DN Wyatt,a139c379,AA Alleyne,4b0e3049,SIR Dunkley,3a9e9cb2,0,0,0,0,0,,,,,,1,0,1
+1343938,2022/23,England,2,DN Wyatt,a139c379,HK Matthews,d32cf49a,SIR Dunkley,3a9e9cb2,0,0,0,0,0,,,,,,1,0,1
+1343938,2022/23,England,2,SIR Dunkley,3a9e9cb2,HK Matthews,d32cf49a,DN Wyatt,a139c379,0,0,0,0,0,,,,,,0,0,0
+1343938,2022/23,England,2,SIR Dunkley,3a9e9cb2,HK Matthews,d32cf49a,DN Wyatt,a139c379,0,0,0,0,0,,,,,,0,0,0
+1343938,2022/23,England,2,SIR Dunkley,3a9e9cb2,HK Matthews,d32cf49a,DN Wyatt,a139c379,0,0,0,0,0,,,,,,4,0,4
+1343938,2022/23,England,2,SIR Dunkley,3a9e9cb2,HK Matthews,d32cf49a,DN Wyatt,a139c379,0,0,0,0,1,SIR Dunkley,3a9e9cb2,S Gajnabi,c35739a1,caught,0,0,0
+1343938,2022/23,England,2,NR Sciver,f3a18a0c,HK Matthews,d32cf49a,DN Wyatt,a139c379,0,0,0,0,0,,,,,,1,0,1
+1343938,2022/23,England,3,NR Sciver,f3a18a0c,CS Fraser,fb9a8cc3,DN Wyatt,a139c379,0,0,0,0,0,,,,,,4,0,4
+1343938,2022/23,England,3,NR Sciver,f3a18a0c,CS Fraser,fb9a8cc3,DN Wyatt,a139c379,1,0,0,0,0,,,,,,0,1,1
+1343938,2022/23,England,3,NR Sciver,f3a18a0c,CS Fraser,fb9a8cc3,DN Wyatt,a139c379,1,0,0,0,0,,,,,,0,1,1
+1343938,2022/23,England,3,NR Sciver,f3a18a0c,CS Fraser,fb9a8cc3,DN Wyatt,a139c379,0,0,0,0,0,,,,,,4,0,4
+1343938,2022/23,England,3,NR Sciver,f3a18a0c,CS Fraser,fb9a8cc3,DN Wyatt,a139c379,0,0,0,0,0,,,,,,4,0,4
+1343938,2022/23,England,3,NR Sciver,f3a18a0c,CS Fraser,fb9a8cc3,DN Wyatt,a139c379,0,0,0,0,0,,,,,,0,0,0
+1343938,2022/23,England,3,NR Sciver,f3a18a0c,CS Fraser,fb9a8cc3,DN Wyatt,a139c379,0,0,0,0,0,,,,,,2,0,2
+1343938,2022/23,England,3,NR Sciver,f3a18a0c,CS Fraser,fb9a8cc3,DN Wyatt,a139c379,0,0,0,0,0,,,,,,1,0,1
+1343938,2022/23,England,4,NR Sciver,f3a18a0c,K Ramharack,321c980e,DN Wyatt,a139c379,0,0,0,0,0,,,,,,0,0,0
+1343938,2022/23,England,4,NR Sciver,f3a18a0c,K Ramharack,321c980e,DN Wyatt,a139c379,0,0,0,0,0,,,,,,1,0,1
+1343938,2022/23,England,4,DN Wyatt,a139c379,K Ramharack,321c980e,NR Sciver,f3a18a0c,0,0,0,0,1,DN Wyatt,a139c379,,,lbw,0,0,0
+1343938,2022/23,England,4,HC Knight,4ba0289e,K Ramharack,321c980e,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,0,0,0
+1343938,2022/23,England,4,HC Knight,4ba0289e,K Ramharack,321c980e,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,0,0,0
+1343938,2022/23,England,4,HC Knight,4ba0289e,K Ramharack,321c980e,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,0,0,0
+1343938,2022/23,England,5,NR Sciver,f3a18a0c,SS Grimmond,6bebf334,HC Knight,4ba0289e,0,0,0,0,0,,,,,,2,0,2
+1343938,2022/23,England,5,NR Sciver,f3a18a0c,SS Grimmond,6bebf334,HC Knight,4ba0289e,0,0,0,0,0,,,,,,0,0,0
+1343938,2022/23,England,5,NR Sciver,f3a18a0c,SS Grimmond,6bebf334,HC Knight,4ba0289e,0,0,0,0,0,,,,,,1,0,1

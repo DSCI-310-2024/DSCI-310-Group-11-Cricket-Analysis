@@ -1,0 +1,242 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+657633,2013/14,Sri Lanka,0,TM Dilshan,5bdcdb72,Mohammad Hafeez,9ab63e7b,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Sri Lanka,0,MDKJ Perera,f21043a5,Mohammad Hafeez,9ab63e7b,TM Dilshan,5bdcdb72,0,0,0,0,0,,,,,,0,0,0
+657633,2013/14,Sri Lanka,0,MDKJ Perera,f21043a5,Mohammad Hafeez,9ab63e7b,TM Dilshan,5bdcdb72,0,0,0,0,0,,,,,,0,0,0
+657633,2013/14,Sri Lanka,0,MDKJ Perera,f21043a5,Mohammad Hafeez,9ab63e7b,TM Dilshan,5bdcdb72,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Sri Lanka,0,TM Dilshan,5bdcdb72,Mohammad Hafeez,9ab63e7b,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,0,0,0
+657633,2013/14,Sri Lanka,0,TM Dilshan,5bdcdb72,Mohammad Hafeez,9ab63e7b,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Sri Lanka,1,TM Dilshan,5bdcdb72,Sohail Tanvir,64d43928,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,0,0,0
+657633,2013/14,Sri Lanka,1,TM Dilshan,5bdcdb72,Sohail Tanvir,64d43928,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,0,0,0
+657633,2013/14,Sri Lanka,1,TM Dilshan,5bdcdb72,Sohail Tanvir,64d43928,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,4,0,4
+657633,2013/14,Sri Lanka,1,TM Dilshan,5bdcdb72,Sohail Tanvir,64d43928,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Sri Lanka,1,MDKJ Perera,f21043a5,Sohail Tanvir,64d43928,TM Dilshan,5bdcdb72,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Sri Lanka,1,TM Dilshan,5bdcdb72,Sohail Tanvir,64d43928,MDKJ Perera,f21043a5,0,0,0,0,1,TM Dilshan,5bdcdb72,Ahmed Shehzad,f8fd6e3f,caught,0,0,0
+657633,2013/14,Sri Lanka,2,MDKJ Perera,f21043a5,Usman Shinwari,f0e722e0,LD Chandimal,8dd02a98,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Sri Lanka,2,LD Chandimal,8dd02a98,Usman Shinwari,f0e722e0,MDKJ Perera,f21043a5,1,0,0,0,0,,,,,,0,1,1
+657633,2013/14,Sri Lanka,2,LD Chandimal,8dd02a98,Usman Shinwari,f0e722e0,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,0,0,0
+657633,2013/14,Sri Lanka,2,LD Chandimal,8dd02a98,Usman Shinwari,f0e722e0,MDKJ Perera,f21043a5,1,0,0,0,0,,,,,,0,1,1
+657633,2013/14,Sri Lanka,2,LD Chandimal,8dd02a98,Usman Shinwari,f0e722e0,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,2,0,2
+657633,2013/14,Sri Lanka,2,LD Chandimal,8dd02a98,Usman Shinwari,f0e722e0,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,0,0,0
+657633,2013/14,Sri Lanka,2,LD Chandimal,8dd02a98,Usman Shinwari,f0e722e0,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,0,0,0
+657633,2013/14,Sri Lanka,2,LD Chandimal,8dd02a98,Usman Shinwari,f0e722e0,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,4,0,4
+657633,2013/14,Sri Lanka,3,MDKJ Perera,f21043a5,Sohail Tanvir,64d43928,LD Chandimal,8dd02a98,0,0,0,0,0,,,,,,0,0,0
+657633,2013/14,Sri Lanka,3,MDKJ Perera,f21043a5,Sohail Tanvir,64d43928,LD Chandimal,8dd02a98,0,0,0,0,0,,,,,,0,0,0
+657633,2013/14,Sri Lanka,3,MDKJ Perera,f21043a5,Sohail Tanvir,64d43928,LD Chandimal,8dd02a98,0,0,0,0,0,,,,,,2,0,2
+657633,2013/14,Sri Lanka,3,MDKJ Perera,f21043a5,Sohail Tanvir,64d43928,LD Chandimal,8dd02a98,0,0,0,0,0,,,,,,0,0,0
+657633,2013/14,Sri Lanka,3,MDKJ Perera,f21043a5,Sohail Tanvir,64d43928,LD Chandimal,8dd02a98,0,0,0,0,0,,,,,,2,0,2
+657633,2013/14,Sri Lanka,3,MDKJ Perera,f21043a5,Sohail Tanvir,64d43928,LD Chandimal,8dd02a98,0,0,0,0,0,,,,,,6,0,6
+657633,2013/14,Sri Lanka,4,LD Chandimal,8dd02a98,Bilawal Bhatti,7662cf7a,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Sri Lanka,4,MDKJ Perera,f21043a5,Bilawal Bhatti,7662cf7a,LD Chandimal,8dd02a98,0,0,0,0,0,,,,,,0,0,0
+657633,2013/14,Sri Lanka,4,MDKJ Perera,f21043a5,Bilawal Bhatti,7662cf7a,LD Chandimal,8dd02a98,0,0,0,0,0,,,,,,0,0,0
+657633,2013/14,Sri Lanka,4,MDKJ Perera,f21043a5,Bilawal Bhatti,7662cf7a,LD Chandimal,8dd02a98,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Sri Lanka,4,LD Chandimal,8dd02a98,Bilawal Bhatti,7662cf7a,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,0,0,0
+657633,2013/14,Sri Lanka,4,LD Chandimal,8dd02a98,Bilawal Bhatti,7662cf7a,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,0,0,0
+657633,2013/14,Sri Lanka,5,MDKJ Perera,f21043a5,Saeed Ajmal,05d74535,LD Chandimal,8dd02a98,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Sri Lanka,5,LD Chandimal,8dd02a98,Saeed Ajmal,05d74535,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,0,0,0
+657633,2013/14,Sri Lanka,5,LD Chandimal,8dd02a98,Saeed Ajmal,05d74535,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,4,0,4
+657633,2013/14,Sri Lanka,5,LD Chandimal,8dd02a98,Saeed Ajmal,05d74535,MDKJ Perera,f21043a5,1,0,0,0,0,,,,,,0,1,1
+657633,2013/14,Sri Lanka,5,LD Chandimal,8dd02a98,Saeed Ajmal,05d74535,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,4,0,4
+657633,2013/14,Sri Lanka,5,LD Chandimal,8dd02a98,Saeed Ajmal,05d74535,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Sri Lanka,5,MDKJ Perera,f21043a5,Saeed Ajmal,05d74535,LD Chandimal,8dd02a98,0,0,0,0,1,MDKJ Perera,f21043a5,,,lbw,0,0,0
+657633,2013/14,Sri Lanka,6,LD Chandimal,8dd02a98,Bilawal Bhatti,7662cf7a,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Sri Lanka,6,KC Sangakkara,6b71e6cf,Bilawal Bhatti,7662cf7a,LD Chandimal,8dd02a98,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Sri Lanka,6,LD Chandimal,8dd02a98,Bilawal Bhatti,7662cf7a,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,0,0,0
+657633,2013/14,Sri Lanka,6,LD Chandimal,8dd02a98,Bilawal Bhatti,7662cf7a,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Sri Lanka,6,KC Sangakkara,6b71e6cf,Bilawal Bhatti,7662cf7a,LD Chandimal,8dd02a98,0,0,0,0,0,,,,,,0,0,0
+657633,2013/14,Sri Lanka,6,KC Sangakkara,6b71e6cf,Bilawal Bhatti,7662cf7a,LD Chandimal,8dd02a98,0,0,0,0,0,,,,,,0,0,0
+657633,2013/14,Sri Lanka,7,LD Chandimal,8dd02a98,Shahid Afridi,0dc00542,KC Sangakkara,6b71e6cf,1,0,0,0,0,,,,,,0,1,1
+657633,2013/14,Sri Lanka,7,LD Chandimal,8dd02a98,Shahid Afridi,0dc00542,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,0,0,0
+657633,2013/14,Sri Lanka,7,LD Chandimal,8dd02a98,Shahid Afridi,0dc00542,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Sri Lanka,7,KC Sangakkara,6b71e6cf,Shahid Afridi,0dc00542,LD Chandimal,8dd02a98,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Sri Lanka,7,LD Chandimal,8dd02a98,Shahid Afridi,0dc00542,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,0,0,0
+657633,2013/14,Sri Lanka,7,LD Chandimal,8dd02a98,Shahid Afridi,0dc00542,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Sri Lanka,7,KC Sangakkara,6b71e6cf,Shahid Afridi,0dc00542,LD Chandimal,8dd02a98,0,0,0,0,0,,,,,,4,0,4
+657633,2013/14,Sri Lanka,8,LD Chandimal,8dd02a98,Mohammad Hafeez,9ab63e7b,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Sri Lanka,8,KC Sangakkara,6b71e6cf,Mohammad Hafeez,9ab63e7b,LD Chandimal,8dd02a98,0,0,0,0,0,,,,,,2,0,2
+657633,2013/14,Sri Lanka,8,KC Sangakkara,6b71e6cf,Mohammad Hafeez,9ab63e7b,LD Chandimal,8dd02a98,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Sri Lanka,8,LD Chandimal,8dd02a98,Mohammad Hafeez,9ab63e7b,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Sri Lanka,8,KC Sangakkara,6b71e6cf,Mohammad Hafeez,9ab63e7b,LD Chandimal,8dd02a98,0,0,0,0,0,,,,,,2,0,2
+657633,2013/14,Sri Lanka,8,KC Sangakkara,6b71e6cf,Mohammad Hafeez,9ab63e7b,LD Chandimal,8dd02a98,0,0,0,0,0,,,,,,0,0,0
+657633,2013/14,Sri Lanka,9,LD Chandimal,8dd02a98,Shahid Afridi,0dc00542,KC Sangakkara,6b71e6cf,0,0,0,0,1,LD Chandimal,8dd02a98,,,lbw,0,0,0
+657633,2013/14,Sri Lanka,9,AD Mathews,896d78ad,Shahid Afridi,0dc00542,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Sri Lanka,9,KC Sangakkara,6b71e6cf,Shahid Afridi,0dc00542,AD Mathews,896d78ad,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Sri Lanka,9,AD Mathews,896d78ad,Shahid Afridi,0dc00542,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,0,0,0
+657633,2013/14,Sri Lanka,9,AD Mathews,896d78ad,Shahid Afridi,0dc00542,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Sri Lanka,9,KC Sangakkara,6b71e6cf,Shahid Afridi,0dc00542,AD Mathews,896d78ad,0,0,0,0,0,,,,,,0,0,0
+657633,2013/14,Sri Lanka,10,AD Mathews,896d78ad,Mohammad Hafeez,9ab63e7b,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,0,0,0
+657633,2013/14,Sri Lanka,10,AD Mathews,896d78ad,Mohammad Hafeez,9ab63e7b,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,0,0,0
+657633,2013/14,Sri Lanka,10,AD Mathews,896d78ad,Mohammad Hafeez,9ab63e7b,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Sri Lanka,10,KC Sangakkara,6b71e6cf,Mohammad Hafeez,9ab63e7b,AD Mathews,896d78ad,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Sri Lanka,10,AD Mathews,896d78ad,Mohammad Hafeez,9ab63e7b,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Sri Lanka,10,KC Sangakkara,6b71e6cf,Mohammad Hafeez,9ab63e7b,AD Mathews,896d78ad,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Sri Lanka,11,KC Sangakkara,6b71e6cf,Shahid Afridi,0dc00542,AD Mathews,896d78ad,0,0,0,0,0,,,,,,2,0,2
+657633,2013/14,Sri Lanka,11,KC Sangakkara,6b71e6cf,Shahid Afridi,0dc00542,AD Mathews,896d78ad,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Sri Lanka,11,AD Mathews,896d78ad,Shahid Afridi,0dc00542,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Sri Lanka,11,KC Sangakkara,6b71e6cf,Shahid Afridi,0dc00542,AD Mathews,896d78ad,0,0,0,0,0,,,,,,0,0,0
+657633,2013/14,Sri Lanka,11,KC Sangakkara,6b71e6cf,Shahid Afridi,0dc00542,AD Mathews,896d78ad,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Sri Lanka,11,AD Mathews,896d78ad,Shahid Afridi,0dc00542,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Sri Lanka,12,AD Mathews,896d78ad,Mohammad Hafeez,9ab63e7b,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Sri Lanka,12,KC Sangakkara,6b71e6cf,Mohammad Hafeez,9ab63e7b,AD Mathews,896d78ad,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Sri Lanka,12,AD Mathews,896d78ad,Mohammad Hafeez,9ab63e7b,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,6,0,6
+657633,2013/14,Sri Lanka,12,AD Mathews,896d78ad,Mohammad Hafeez,9ab63e7b,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Sri Lanka,12,KC Sangakkara,6b71e6cf,Mohammad Hafeez,9ab63e7b,AD Mathews,896d78ad,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Sri Lanka,12,AD Mathews,896d78ad,Mohammad Hafeez,9ab63e7b,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,0,0,0
+657633,2013/14,Sri Lanka,13,KC Sangakkara,6b71e6cf,Saeed Ajmal,05d74535,AD Mathews,896d78ad,0,0,0,0,0,,,,,,0,0,0
+657633,2013/14,Sri Lanka,13,KC Sangakkara,6b71e6cf,Saeed Ajmal,05d74535,AD Mathews,896d78ad,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Sri Lanka,13,AD Mathews,896d78ad,Saeed Ajmal,05d74535,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Sri Lanka,13,KC Sangakkara,6b71e6cf,Saeed Ajmal,05d74535,AD Mathews,896d78ad,0,0,0,0,1,KC Sangakkara,6b71e6cf,Shahid Afridi,0dc00542,caught,0,0,0
+657633,2013/14,Sri Lanka,13,HDRL Thirimanne,c5928dec,Saeed Ajmal,05d74535,AD Mathews,896d78ad,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Sri Lanka,13,AD Mathews,896d78ad,Saeed Ajmal,05d74535,HDRL Thirimanne,c5928dec,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Sri Lanka,14,AD Mathews,896d78ad,Shahid Afridi,0dc00542,HDRL Thirimanne,c5928dec,0,0,0,0,0,,,,,,0,0,0
+657633,2013/14,Sri Lanka,14,AD Mathews,896d78ad,Shahid Afridi,0dc00542,HDRL Thirimanne,c5928dec,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Sri Lanka,14,HDRL Thirimanne,c5928dec,Shahid Afridi,0dc00542,AD Mathews,896d78ad,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Sri Lanka,14,AD Mathews,896d78ad,Shahid Afridi,0dc00542,HDRL Thirimanne,c5928dec,0,0,0,0,0,,,,,,0,0,0
+657633,2013/14,Sri Lanka,14,AD Mathews,896d78ad,Shahid Afridi,0dc00542,HDRL Thirimanne,c5928dec,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Sri Lanka,14,HDRL Thirimanne,c5928dec,Shahid Afridi,0dc00542,AD Mathews,896d78ad,0,0,0,0,0,,,,,,0,0,0
+657633,2013/14,Sri Lanka,15,AD Mathews,896d78ad,Saeed Ajmal,05d74535,HDRL Thirimanne,c5928dec,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Sri Lanka,15,HDRL Thirimanne,c5928dec,Saeed Ajmal,05d74535,AD Mathews,896d78ad,0,0,0,0,0,,,,,,0,0,0
+657633,2013/14,Sri Lanka,15,HDRL Thirimanne,c5928dec,Saeed Ajmal,05d74535,AD Mathews,896d78ad,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Sri Lanka,15,AD Mathews,896d78ad,Saeed Ajmal,05d74535,HDRL Thirimanne,c5928dec,0,0,0,0,0,,,,,,4,0,4
+657633,2013/14,Sri Lanka,15,AD Mathews,896d78ad,Saeed Ajmal,05d74535,HDRL Thirimanne,c5928dec,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Sri Lanka,15,HDRL Thirimanne,c5928dec,Saeed Ajmal,05d74535,AD Mathews,896d78ad,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Sri Lanka,16,HDRL Thirimanne,c5928dec,Sohail Tanvir,64d43928,AD Mathews,896d78ad,1,0,0,0,0,,,,,,0,1,1
+657633,2013/14,Sri Lanka,16,HDRL Thirimanne,c5928dec,Sohail Tanvir,64d43928,AD Mathews,896d78ad,0,0,0,0,0,,,,,,2,0,2
+657633,2013/14,Sri Lanka,16,HDRL Thirimanne,c5928dec,Sohail Tanvir,64d43928,AD Mathews,896d78ad,0,0,0,0,0,,,,,,4,0,4
+657633,2013/14,Sri Lanka,16,HDRL Thirimanne,c5928dec,Sohail Tanvir,64d43928,AD Mathews,896d78ad,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Sri Lanka,16,AD Mathews,896d78ad,Sohail Tanvir,64d43928,HDRL Thirimanne,c5928dec,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Sri Lanka,16,HDRL Thirimanne,c5928dec,Sohail Tanvir,64d43928,AD Mathews,896d78ad,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Sri Lanka,16,AD Mathews,896d78ad,Sohail Tanvir,64d43928,HDRL Thirimanne,c5928dec,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Sri Lanka,17,AD Mathews,896d78ad,Bilawal Bhatti,7662cf7a,HDRL Thirimanne,c5928dec,0,0,0,0,0,,,,,,2,0,2
+657633,2013/14,Sri Lanka,17,AD Mathews,896d78ad,Bilawal Bhatti,7662cf7a,HDRL Thirimanne,c5928dec,0,0,0,0,0,,,,,,4,0,4
+657633,2013/14,Sri Lanka,17,AD Mathews,896d78ad,Bilawal Bhatti,7662cf7a,HDRL Thirimanne,c5928dec,0,0,0,0,0,,,,,,4,0,4
+657633,2013/14,Sri Lanka,17,AD Mathews,896d78ad,Bilawal Bhatti,7662cf7a,HDRL Thirimanne,c5928dec,0,0,0,0,0,,,,,,2,0,2
+657633,2013/14,Sri Lanka,17,AD Mathews,896d78ad,Bilawal Bhatti,7662cf7a,HDRL Thirimanne,c5928dec,0,0,0,0,0,,,,,,2,0,2
+657633,2013/14,Sri Lanka,17,AD Mathews,896d78ad,Bilawal Bhatti,7662cf7a,HDRL Thirimanne,c5928dec,0,0,0,0,0,,,,,,4,0,4
+657633,2013/14,Sri Lanka,18,HDRL Thirimanne,c5928dec,Saeed Ajmal,05d74535,AD Mathews,896d78ad,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Sri Lanka,18,AD Mathews,896d78ad,Saeed Ajmal,05d74535,HDRL Thirimanne,c5928dec,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Sri Lanka,18,HDRL Thirimanne,c5928dec,Saeed Ajmal,05d74535,AD Mathews,896d78ad,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Sri Lanka,18,AD Mathews,896d78ad,Saeed Ajmal,05d74535,HDRL Thirimanne,c5928dec,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Sri Lanka,18,HDRL Thirimanne,c5928dec,Saeed Ajmal,05d74535,AD Mathews,896d78ad,0,0,0,0,0,,,,,,2,0,2
+657633,2013/14,Sri Lanka,18,HDRL Thirimanne,c5928dec,Saeed Ajmal,05d74535,AD Mathews,896d78ad,0,0,0,0,0,,,,,,6,0,6
+657633,2013/14,Sri Lanka,19,AD Mathews,896d78ad,Sohail Tanvir,64d43928,HDRL Thirimanne,c5928dec,0,0,0,0,0,,,,,,4,0,4
+657633,2013/14,Sri Lanka,19,AD Mathews,896d78ad,Sohail Tanvir,64d43928,HDRL Thirimanne,c5928dec,0,0,0,0,1,AD Mathews,896d78ad,Sharjeel Khan,193ef196,caught,0,0,0
+657633,2013/14,Sri Lanka,19,HDRL Thirimanne,c5928dec,Sohail Tanvir,64d43928,NLTC Perera,0f12f9df,0,0,0,0,0,,,,,,0,0,0
+657633,2013/14,Sri Lanka,19,HDRL Thirimanne,c5928dec,Sohail Tanvir,64d43928,NLTC Perera,0f12f9df,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Sri Lanka,19,NLTC Perera,0f12f9df,Sohail Tanvir,64d43928,HDRL Thirimanne,c5928dec,0,0,0,0,0,,,,,,0,0,0
+657633,2013/14,Sri Lanka,19,NLTC Perera,0f12f9df,Sohail Tanvir,64d43928,HDRL Thirimanne,c5928dec,0,0,0,0,0,,,,,,2,0,2
+657633,2013/14,Pakistan,0,Sharjeel Khan,193ef196,SL Malinga,a12e1d51,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,0,0,0
+657633,2013/14,Pakistan,0,Sharjeel Khan,193ef196,SL Malinga,a12e1d51,Ahmed Shehzad,f8fd6e3f,0,1,0,0,0,,,,,,0,1,1
+657633,2013/14,Pakistan,0,Sharjeel Khan,193ef196,SL Malinga,a12e1d51,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,4,0,4
+657633,2013/14,Pakistan,0,Sharjeel Khan,193ef196,SL Malinga,a12e1d51,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Pakistan,0,Ahmed Shehzad,f8fd6e3f,SL Malinga,a12e1d51,Sharjeel Khan,193ef196,0,0,0,0,0,,,,,,0,0,0
+657633,2013/14,Pakistan,0,Ahmed Shehzad,f8fd6e3f,SL Malinga,a12e1d51,Sharjeel Khan,193ef196,0,0,0,0,0,,,,,,0,0,0
+657633,2013/14,Pakistan,0,Ahmed Shehzad,f8fd6e3f,SL Malinga,a12e1d51,Sharjeel Khan,193ef196,0,0,0,0,0,,,,,,3,0,3
+657633,2013/14,Pakistan,1,Ahmed Shehzad,f8fd6e3f,KMDN Kulasekara,469ea22b,Sharjeel Khan,193ef196,0,0,0,0,0,,,,,,0,0,0
+657633,2013/14,Pakistan,1,Ahmed Shehzad,f8fd6e3f,KMDN Kulasekara,469ea22b,Sharjeel Khan,193ef196,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Pakistan,1,Sharjeel Khan,193ef196,KMDN Kulasekara,469ea22b,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Pakistan,1,Ahmed Shehzad,f8fd6e3f,KMDN Kulasekara,469ea22b,Sharjeel Khan,193ef196,0,0,0,0,0,,,,,,0,0,0
+657633,2013/14,Pakistan,1,Ahmed Shehzad,f8fd6e3f,KMDN Kulasekara,469ea22b,Sharjeel Khan,193ef196,0,0,0,0,0,,,,,,0,0,0
+657633,2013/14,Pakistan,1,Ahmed Shehzad,f8fd6e3f,KMDN Kulasekara,469ea22b,Sharjeel Khan,193ef196,0,0,0,0,0,,,,,,0,0,0
+657633,2013/14,Pakistan,2,Sharjeel Khan,193ef196,SMSM Senanayake,4c4fa80b,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Pakistan,2,Ahmed Shehzad,f8fd6e3f,SMSM Senanayake,4c4fa80b,Sharjeel Khan,193ef196,0,0,0,0,1,Ahmed Shehzad,f8fd6e3f,HDRL Thirimanne,c5928dec,caught,0,0,0
+657633,2013/14,Pakistan,2,Mohammad Hafeez,9ab63e7b,SMSM Senanayake,4c4fa80b,Sharjeel Khan,193ef196,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Pakistan,2,Sharjeel Khan,193ef196,SMSM Senanayake,4c4fa80b,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Pakistan,2,Mohammad Hafeez,9ab63e7b,SMSM Senanayake,4c4fa80b,Sharjeel Khan,193ef196,0,0,0,0,0,,,,,,4,0,4
+657633,2013/14,Pakistan,2,Mohammad Hafeez,9ab63e7b,SMSM Senanayake,4c4fa80b,Sharjeel Khan,193ef196,0,0,0,0,0,,,,,,0,0,0
+657633,2013/14,Pakistan,3,Sharjeel Khan,193ef196,KMDN Kulasekara,469ea22b,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Pakistan,3,Mohammad Hafeez,9ab63e7b,KMDN Kulasekara,469ea22b,Sharjeel Khan,193ef196,0,0,0,0,0,,,,,,0,0,0
+657633,2013/14,Pakistan,3,Mohammad Hafeez,9ab63e7b,KMDN Kulasekara,469ea22b,Sharjeel Khan,193ef196,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Pakistan,3,Sharjeel Khan,193ef196,KMDN Kulasekara,469ea22b,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,4,0,4
+657633,2013/14,Pakistan,3,Sharjeel Khan,193ef196,KMDN Kulasekara,469ea22b,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,2,0,2
+657633,2013/14,Pakistan,3,Sharjeel Khan,193ef196,KMDN Kulasekara,469ea22b,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,0,0,0
+657633,2013/14,Pakistan,4,Mohammad Hafeez,9ab63e7b,SMSM Senanayake,4c4fa80b,Sharjeel Khan,193ef196,0,0,0,0,0,,,,,,0,0,0
+657633,2013/14,Pakistan,4,Mohammad Hafeez,9ab63e7b,SMSM Senanayake,4c4fa80b,Sharjeel Khan,193ef196,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Pakistan,4,Sharjeel Khan,193ef196,SMSM Senanayake,4c4fa80b,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Pakistan,4,Mohammad Hafeez,9ab63e7b,SMSM Senanayake,4c4fa80b,Sharjeel Khan,193ef196,0,0,0,0,0,,,,,,0,0,0
+657633,2013/14,Pakistan,4,Mohammad Hafeez,9ab63e7b,SMSM Senanayake,4c4fa80b,Sharjeel Khan,193ef196,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Pakistan,4,Sharjeel Khan,193ef196,SMSM Senanayake,4c4fa80b,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,0,0,0
+657633,2013/14,Pakistan,5,Mohammad Hafeez,9ab63e7b,BAW Mendis,ea0cdc12,Sharjeel Khan,193ef196,0,0,0,0,0,,,,,,0,0,0
+657633,2013/14,Pakistan,5,Mohammad Hafeez,9ab63e7b,BAW Mendis,ea0cdc12,Sharjeel Khan,193ef196,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Pakistan,5,Sharjeel Khan,193ef196,BAW Mendis,ea0cdc12,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,4,0,4
+657633,2013/14,Pakistan,5,Sharjeel Khan,193ef196,BAW Mendis,ea0cdc12,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,0,0,0
+657633,2013/14,Pakistan,5,Sharjeel Khan,193ef196,BAW Mendis,ea0cdc12,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,2,0,2
+657633,2013/14,Pakistan,5,Sharjeel Khan,193ef196,BAW Mendis,ea0cdc12,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,0,0,0
+657633,2013/14,Pakistan,6,Mohammad Hafeez,9ab63e7b,SMSM Senanayake,4c4fa80b,Sharjeel Khan,193ef196,0,0,0,0,0,,,,,,0,0,0
+657633,2013/14,Pakistan,6,Mohammad Hafeez,9ab63e7b,SMSM Senanayake,4c4fa80b,Sharjeel Khan,193ef196,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Pakistan,6,Sharjeel Khan,193ef196,SMSM Senanayake,4c4fa80b,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,0,0,0
+657633,2013/14,Pakistan,6,Sharjeel Khan,193ef196,SMSM Senanayake,4c4fa80b,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Pakistan,6,Mohammad Hafeez,9ab63e7b,SMSM Senanayake,4c4fa80b,Sharjeel Khan,193ef196,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Pakistan,6,Sharjeel Khan,193ef196,SMSM Senanayake,4c4fa80b,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Pakistan,7,Sharjeel Khan,193ef196,AD Mathews,896d78ad,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,0,0,0
+657633,2013/14,Pakistan,7,Sharjeel Khan,193ef196,AD Mathews,896d78ad,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Pakistan,7,Mohammad Hafeez,9ab63e7b,AD Mathews,896d78ad,Sharjeel Khan,193ef196,0,0,0,0,0,,,,,,0,0,0
+657633,2013/14,Pakistan,7,Mohammad Hafeez,9ab63e7b,AD Mathews,896d78ad,Sharjeel Khan,193ef196,0,0,0,0,0,,,,,,2,0,2
+657633,2013/14,Pakistan,7,Mohammad Hafeez,9ab63e7b,AD Mathews,896d78ad,Sharjeel Khan,193ef196,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Pakistan,7,Sharjeel Khan,193ef196,AD Mathews,896d78ad,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Pakistan,8,Sharjeel Khan,193ef196,BAW Mendis,ea0cdc12,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,2,0,2
+657633,2013/14,Pakistan,8,Sharjeel Khan,193ef196,BAW Mendis,ea0cdc12,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Pakistan,8,Mohammad Hafeez,9ab63e7b,BAW Mendis,ea0cdc12,Sharjeel Khan,193ef196,0,0,0,0,0,,,,,,2,0,2
+657633,2013/14,Pakistan,8,Mohammad Hafeez,9ab63e7b,BAW Mendis,ea0cdc12,Sharjeel Khan,193ef196,0,0,0,0,0,,,,,,0,0,0
+657633,2013/14,Pakistan,8,Mohammad Hafeez,9ab63e7b,BAW Mendis,ea0cdc12,Sharjeel Khan,193ef196,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Pakistan,8,Sharjeel Khan,193ef196,BAW Mendis,ea0cdc12,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Pakistan,9,Sharjeel Khan,193ef196,AD Mathews,896d78ad,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,2,0,2
+657633,2013/14,Pakistan,9,Sharjeel Khan,193ef196,AD Mathews,896d78ad,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,0,0,0
+657633,2013/14,Pakistan,9,Sharjeel Khan,193ef196,AD Mathews,896d78ad,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Pakistan,9,Mohammad Hafeez,9ab63e7b,AD Mathews,896d78ad,Sharjeel Khan,193ef196,0,0,0,0,0,,,,,,4,0,4
+657633,2013/14,Pakistan,9,Mohammad Hafeez,9ab63e7b,AD Mathews,896d78ad,Sharjeel Khan,193ef196,0,0,0,0,0,,,,,,6,0,6
+657633,2013/14,Pakistan,9,Mohammad Hafeez,9ab63e7b,AD Mathews,896d78ad,Sharjeel Khan,193ef196,0,0,0,0,0,,,,,,2,0,2
+657633,2013/14,Pakistan,10,Sharjeel Khan,193ef196,NLTC Perera,0f12f9df,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Pakistan,10,Mohammad Hafeez,9ab63e7b,NLTC Perera,0f12f9df,Sharjeel Khan,193ef196,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Pakistan,10,Sharjeel Khan,193ef196,NLTC Perera,0f12f9df,Mohammad Hafeez,9ab63e7b,0,0,0,0,1,Sharjeel Khan,193ef196,TM Dilshan,5bdcdb72,caught,0,0,0
+657633,2013/14,Pakistan,10,Mohammad Hafeez,9ab63e7b,NLTC Perera,0f12f9df,Umar Akmal,fd2bf2a0,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Pakistan,10,Umar Akmal,fd2bf2a0,NLTC Perera,0f12f9df,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,0,0,0
+657633,2013/14,Pakistan,10,Umar Akmal,fd2bf2a0,NLTC Perera,0f12f9df,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,4,0,4
+657633,2013/14,Pakistan,11,Mohammad Hafeez,9ab63e7b,BAW Mendis,ea0cdc12,Umar Akmal,fd2bf2a0,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Pakistan,11,Umar Akmal,fd2bf2a0,BAW Mendis,ea0cdc12,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Pakistan,11,Mohammad Hafeez,9ab63e7b,BAW Mendis,ea0cdc12,Umar Akmal,fd2bf2a0,0,0,0,0,1,Mohammad Hafeez,9ab63e7b,,,lbw,0,0,0
+657633,2013/14,Pakistan,11,Sohaib Maqsood,b98b5e1c,BAW Mendis,ea0cdc12,Umar Akmal,fd2bf2a0,0,0,0,0,1,Umar Akmal,fd2bf2a0,BAW Mendis,ea0cdc12,run out,0,0,0
+657633,2013/14,Pakistan,11,Sohaib Maqsood,b98b5e1c,BAW Mendis,ea0cdc12,Umar Amin,3029e282,0,0,0,0,0,,,,,,4,0,4
+657633,2013/14,Pakistan,11,Sohaib Maqsood,b98b5e1c,BAW Mendis,ea0cdc12,Umar Amin,3029e282,0,0,0,0,0,,,,,,0,0,0
+657633,2013/14,Pakistan,12,Umar Amin,3029e282,NLTC Perera,0f12f9df,Sohaib Maqsood,b98b5e1c,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Pakistan,12,Sohaib Maqsood,b98b5e1c,NLTC Perera,0f12f9df,Umar Amin,3029e282,0,0,0,0,0,,,,,,0,0,0
+657633,2013/14,Pakistan,12,Sohaib Maqsood,b98b5e1c,NLTC Perera,0f12f9df,Umar Amin,3029e282,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Pakistan,12,Umar Amin,3029e282,NLTC Perera,0f12f9df,Sohaib Maqsood,b98b5e1c,0,0,0,0,0,,,,,,0,0,0
+657633,2013/14,Pakistan,12,Umar Amin,3029e282,NLTC Perera,0f12f9df,Sohaib Maqsood,b98b5e1c,0,0,0,0,0,,,,,,4,0,4
+657633,2013/14,Pakistan,12,Umar Amin,3029e282,NLTC Perera,0f12f9df,Sohaib Maqsood,b98b5e1c,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Pakistan,13,Umar Amin,3029e282,BAW Mendis,ea0cdc12,Sohaib Maqsood,b98b5e1c,0,0,0,0,0,,,,,,0,0,0
+657633,2013/14,Pakistan,13,Umar Amin,3029e282,BAW Mendis,ea0cdc12,Sohaib Maqsood,b98b5e1c,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Pakistan,13,Sohaib Maqsood,b98b5e1c,BAW Mendis,ea0cdc12,Umar Amin,3029e282,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Pakistan,13,Umar Amin,3029e282,BAW Mendis,ea0cdc12,Sohaib Maqsood,b98b5e1c,0,0,0,0,0,,,,,,0,0,0
+657633,2013/14,Pakistan,13,Umar Amin,3029e282,BAW Mendis,ea0cdc12,Sohaib Maqsood,b98b5e1c,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Pakistan,13,Sohaib Maqsood,b98b5e1c,BAW Mendis,ea0cdc12,Umar Amin,3029e282,0,0,0,0,0,,,,,,6,0,6
+657633,2013/14,Pakistan,14,Umar Amin,3029e282,SL Malinga,a12e1d51,Sohaib Maqsood,b98b5e1c,0,0,0,0,1,Umar Amin,3029e282,LD Chandimal,8dd02a98,caught,0,0,0
+657633,2013/14,Pakistan,14,Shahid Afridi,0dc00542,SL Malinga,a12e1d51,Sohaib Maqsood,b98b5e1c,0,0,0,0,0,,,,,,0,0,0
+657633,2013/14,Pakistan,14,Shahid Afridi,0dc00542,SL Malinga,a12e1d51,Sohaib Maqsood,b98b5e1c,0,0,0,0,0,,,,,,0,0,0
+657633,2013/14,Pakistan,14,Shahid Afridi,0dc00542,SL Malinga,a12e1d51,Sohaib Maqsood,b98b5e1c,0,0,0,0,0,,,,,,2,0,2
+657633,2013/14,Pakistan,14,Shahid Afridi,0dc00542,SL Malinga,a12e1d51,Sohaib Maqsood,b98b5e1c,0,0,0,0,0,,,,,,4,0,4
+657633,2013/14,Pakistan,14,Shahid Afridi,0dc00542,SL Malinga,a12e1d51,Sohaib Maqsood,b98b5e1c,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Pakistan,15,Shahid Afridi,0dc00542,KMDN Kulasekara,469ea22b,Sohaib Maqsood,b98b5e1c,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Pakistan,15,Sohaib Maqsood,b98b5e1c,KMDN Kulasekara,469ea22b,Shahid Afridi,0dc00542,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Pakistan,15,Shahid Afridi,0dc00542,KMDN Kulasekara,469ea22b,Sohaib Maqsood,b98b5e1c,0,0,0,0,0,,,,,,6,0,6
+657633,2013/14,Pakistan,15,Shahid Afridi,0dc00542,KMDN Kulasekara,469ea22b,Sohaib Maqsood,b98b5e1c,0,0,0,0,0,,,,,,0,0,0
+657633,2013/14,Pakistan,15,Shahid Afridi,0dc00542,KMDN Kulasekara,469ea22b,Sohaib Maqsood,b98b5e1c,0,0,0,0,0,,,,,,0,0,0
+657633,2013/14,Pakistan,15,Shahid Afridi,0dc00542,KMDN Kulasekara,469ea22b,Sohaib Maqsood,b98b5e1c,0,0,0,0,0,,,,,,6,0,6
+657633,2013/14,Pakistan,16,Sohaib Maqsood,b98b5e1c,SL Malinga,a12e1d51,Shahid Afridi,0dc00542,0,0,0,0,1,Sohaib Maqsood,b98b5e1c,,,lbw,0,0,0
+657633,2013/14,Pakistan,16,Bilawal Bhatti,7662cf7a,SL Malinga,a12e1d51,Shahid Afridi,0dc00542,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Pakistan,16,Shahid Afridi,0dc00542,SL Malinga,a12e1d51,Bilawal Bhatti,7662cf7a,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Pakistan,16,Bilawal Bhatti,7662cf7a,SL Malinga,a12e1d51,Shahid Afridi,0dc00542,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Pakistan,16,Shahid Afridi,0dc00542,SL Malinga,a12e1d51,Bilawal Bhatti,7662cf7a,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Pakistan,16,Bilawal Bhatti,7662cf7a,SL Malinga,a12e1d51,Shahid Afridi,0dc00542,0,0,0,0,0,,,,,,0,0,0
+657633,2013/14,Pakistan,17,Shahid Afridi,0dc00542,NLTC Perera,0f12f9df,Bilawal Bhatti,7662cf7a,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Pakistan,17,Bilawal Bhatti,7662cf7a,NLTC Perera,0f12f9df,Shahid Afridi,0dc00542,0,0,0,0,0,,,,,,4,0,4
+657633,2013/14,Pakistan,17,Bilawal Bhatti,7662cf7a,NLTC Perera,0f12f9df,Shahid Afridi,0dc00542,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Pakistan,17,Shahid Afridi,0dc00542,NLTC Perera,0f12f9df,Bilawal Bhatti,7662cf7a,0,0,0,0,0,,,,,,4,0,4
+657633,2013/14,Pakistan,17,Shahid Afridi,0dc00542,NLTC Perera,0f12f9df,Bilawal Bhatti,7662cf7a,0,0,0,0,0,,,,,,2,0,2
+657633,2013/14,Pakistan,17,Shahid Afridi,0dc00542,NLTC Perera,0f12f9df,Bilawal Bhatti,7662cf7a,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Pakistan,18,Shahid Afridi,0dc00542,SL Malinga,a12e1d51,Bilawal Bhatti,7662cf7a,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Pakistan,18,Bilawal Bhatti,7662cf7a,SL Malinga,a12e1d51,Shahid Afridi,0dc00542,0,0,0,0,0,,,,,,2,0,2
+657633,2013/14,Pakistan,18,Bilawal Bhatti,7662cf7a,SL Malinga,a12e1d51,Shahid Afridi,0dc00542,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Pakistan,18,Shahid Afridi,0dc00542,SL Malinga,a12e1d51,Bilawal Bhatti,7662cf7a,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Pakistan,18,Bilawal Bhatti,7662cf7a,SL Malinga,a12e1d51,Shahid Afridi,0dc00542,0,0,0,0,1,Bilawal Bhatti,7662cf7a,NLTC Perera,0f12f9df,caught,0,0,0
+657633,2013/14,Pakistan,18,Shahid Afridi,0dc00542,SL Malinga,a12e1d51,Sohail Tanvir,64d43928,0,0,0,0,0,,,,,,1,0,1
+657633,2013/14,Pakistan,19,Shahid Afridi,0dc00542,KMDN Kulasekara,469ea22b,Sohail Tanvir,64d43928,0,0,0,0,0,,,,,,6,0,6

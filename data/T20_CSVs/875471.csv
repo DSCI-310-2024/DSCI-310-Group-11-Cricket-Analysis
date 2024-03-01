@@ -1,0 +1,248 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+875471,2015,Netherlands,0,SJ Myburgh,18261c22,AC Evans,e9a870ed,W Barresi,0d677597,0,0,0,0,0,,,,,,0,0,0
+875471,2015,Netherlands,0,SJ Myburgh,18261c22,AC Evans,e9a870ed,W Barresi,0d677597,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Netherlands,0,W Barresi,0d677597,AC Evans,e9a870ed,SJ Myburgh,18261c22,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Netherlands,0,SJ Myburgh,18261c22,AC Evans,e9a870ed,W Barresi,0d677597,0,0,0,0,0,,,,,,3,0,3
+875471,2015,Netherlands,0,W Barresi,0d677597,AC Evans,e9a870ed,SJ Myburgh,18261c22,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Netherlands,0,SJ Myburgh,18261c22,AC Evans,e9a870ed,W Barresi,0d677597,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Netherlands,1,SJ Myburgh,18261c22,SM Sharif,f43dd8c2,W Barresi,0d677597,0,0,0,0,0,,,,,,0,0,0
+875471,2015,Netherlands,1,SJ Myburgh,18261c22,SM Sharif,f43dd8c2,W Barresi,0d677597,0,0,0,0,0,,,,,,0,0,0
+875471,2015,Netherlands,1,SJ Myburgh,18261c22,SM Sharif,f43dd8c2,W Barresi,0d677597,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Netherlands,1,W Barresi,0d677597,SM Sharif,f43dd8c2,SJ Myburgh,18261c22,0,0,0,0,0,,,,,,6,0,6
+875471,2015,Netherlands,1,W Barresi,0d677597,SM Sharif,f43dd8c2,SJ Myburgh,18261c22,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Netherlands,1,SJ Myburgh,18261c22,SM Sharif,f43dd8c2,W Barresi,0d677597,0,0,1,0,0,,,,,,0,1,1
+875471,2015,Netherlands,2,SJ Myburgh,18261c22,AC Evans,e9a870ed,W Barresi,0d677597,0,0,0,0,1,SJ Myburgh,18261c22,,,bowled,0,0,0
+875471,2015,Netherlands,2,BN Cooper,634a7b21,AC Evans,e9a870ed,W Barresi,0d677597,0,0,0,0,0,,,,,,0,0,0
+875471,2015,Netherlands,2,BN Cooper,634a7b21,AC Evans,e9a870ed,W Barresi,0d677597,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Netherlands,2,W Barresi,0d677597,AC Evans,e9a870ed,BN Cooper,634a7b21,1,0,0,0,0,,,,,,0,1,1
+875471,2015,Netherlands,2,W Barresi,0d677597,AC Evans,e9a870ed,BN Cooper,634a7b21,0,0,0,0,0,,,,,,0,0,0
+875471,2015,Netherlands,2,W Barresi,0d677597,AC Evans,e9a870ed,BN Cooper,634a7b21,0,0,0,0,0,,,,,,0,0,0
+875471,2015,Netherlands,2,W Barresi,0d677597,AC Evans,e9a870ed,BN Cooper,634a7b21,0,0,0,0,0,,,,,,2,0,2
+875471,2015,Netherlands,3,BN Cooper,634a7b21,JH Davey,d3868bd0,W Barresi,0d677597,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Netherlands,3,W Barresi,0d677597,JH Davey,d3868bd0,BN Cooper,634a7b21,0,0,0,0,0,,,,,,4,0,4
+875471,2015,Netherlands,3,W Barresi,0d677597,JH Davey,d3868bd0,BN Cooper,634a7b21,0,0,0,0,0,,,,,,4,0,4
+875471,2015,Netherlands,3,W Barresi,0d677597,JH Davey,d3868bd0,BN Cooper,634a7b21,0,0,0,0,0,,,,,,0,0,0
+875471,2015,Netherlands,3,W Barresi,0d677597,JH Davey,d3868bd0,BN Cooper,634a7b21,0,0,0,0,0,,,,,,4,0,4
+875471,2015,Netherlands,3,W Barresi,0d677597,JH Davey,d3868bd0,BN Cooper,634a7b21,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Netherlands,4,W Barresi,0d677597,SM Sharif,f43dd8c2,BN Cooper,634a7b21,0,0,0,0,0,,,,,,0,0,0
+875471,2015,Netherlands,4,W Barresi,0d677597,SM Sharif,f43dd8c2,BN Cooper,634a7b21,0,0,0,0,0,,,,,,0,0,0
+875471,2015,Netherlands,4,W Barresi,0d677597,SM Sharif,f43dd8c2,BN Cooper,634a7b21,0,0,0,0,0,,,,,,0,0,0
+875471,2015,Netherlands,4,W Barresi,0d677597,SM Sharif,f43dd8c2,BN Cooper,634a7b21,0,0,0,0,0,,,,,,4,0,4
+875471,2015,Netherlands,4,W Barresi,0d677597,SM Sharif,f43dd8c2,BN Cooper,634a7b21,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Netherlands,4,BN Cooper,634a7b21,SM Sharif,f43dd8c2,W Barresi,0d677597,0,0,0,0,0,,,,,,0,0,0
+875471,2015,Netherlands,5,W Barresi,0d677597,JH Davey,d3868bd0,BN Cooper,634a7b21,0,0,0,0,0,,,,,,0,0,0
+875471,2015,Netherlands,5,W Barresi,0d677597,JH Davey,d3868bd0,BN Cooper,634a7b21,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Netherlands,5,BN Cooper,634a7b21,JH Davey,d3868bd0,W Barresi,0d677597,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Netherlands,5,W Barresi,0d677597,JH Davey,d3868bd0,BN Cooper,634a7b21,0,0,0,0,0,,,,,,0,0,0
+875471,2015,Netherlands,5,W Barresi,0d677597,JH Davey,d3868bd0,BN Cooper,634a7b21,0,0,0,0,0,,,,,,0,0,0
+875471,2015,Netherlands,5,W Barresi,0d677597,JH Davey,d3868bd0,BN Cooper,634a7b21,0,0,0,0,0,,,,,,6,0,6
+875471,2015,Netherlands,6,BN Cooper,634a7b21,MRJ Watt,1252f71a,W Barresi,0d677597,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Netherlands,6,W Barresi,0d677597,MRJ Watt,1252f71a,BN Cooper,634a7b21,0,0,0,0,0,,,,,,2,0,2
+875471,2015,Netherlands,6,W Barresi,0d677597,MRJ Watt,1252f71a,BN Cooper,634a7b21,0,0,0,0,0,,,,,,0,0,0
+875471,2015,Netherlands,6,W Barresi,0d677597,MRJ Watt,1252f71a,BN Cooper,634a7b21,1,0,0,0,0,,,,,,0,1,1
+875471,2015,Netherlands,6,W Barresi,0d677597,MRJ Watt,1252f71a,BN Cooper,634a7b21,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Netherlands,6,BN Cooper,634a7b21,MRJ Watt,1252f71a,W Barresi,0d677597,0,0,0,0,0,,,,,,0,0,0
+875471,2015,Netherlands,6,BN Cooper,634a7b21,MRJ Watt,1252f71a,W Barresi,0d677597,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Netherlands,7,BN Cooper,634a7b21,MA Leask,28131839,W Barresi,0d677597,0,0,0,0,0,,,,,,2,0,2
+875471,2015,Netherlands,7,BN Cooper,634a7b21,MA Leask,28131839,W Barresi,0d677597,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Netherlands,7,W Barresi,0d677597,MA Leask,28131839,BN Cooper,634a7b21,0,0,0,0,0,,,,,,6,0,6
+875471,2015,Netherlands,7,W Barresi,0d677597,MA Leask,28131839,BN Cooper,634a7b21,0,0,0,0,0,,,,,,6,0,6
+875471,2015,Netherlands,7,W Barresi,0d677597,MA Leask,28131839,BN Cooper,634a7b21,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Netherlands,7,BN Cooper,634a7b21,MA Leask,28131839,W Barresi,0d677597,2,0,0,0,0,,,,,,0,2,2
+875471,2015,Netherlands,7,W Barresi,0d677597,MA Leask,28131839,BN Cooper,634a7b21,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Netherlands,8,W Barresi,0d677597,MRJ Watt,1252f71a,BN Cooper,634a7b21,0,0,0,0,0,,,,,,0,0,0
+875471,2015,Netherlands,8,W Barresi,0d677597,MRJ Watt,1252f71a,BN Cooper,634a7b21,0,0,0,0,0,,,,,,4,0,4
+875471,2015,Netherlands,8,W Barresi,0d677597,MRJ Watt,1252f71a,BN Cooper,634a7b21,0,0,0,0,0,,,,,,0,0,0
+875471,2015,Netherlands,8,W Barresi,0d677597,MRJ Watt,1252f71a,BN Cooper,634a7b21,0,0,0,0,0,,,,,,4,0,4
+875471,2015,Netherlands,8,W Barresi,0d677597,MRJ Watt,1252f71a,BN Cooper,634a7b21,0,0,0,0,0,,,,,,2,0,2
+875471,2015,Netherlands,8,W Barresi,0d677597,MRJ Watt,1252f71a,BN Cooper,634a7b21,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Netherlands,9,W Barresi,0d677597,RD Berrington,e21bc7f3,BN Cooper,634a7b21,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Netherlands,9,BN Cooper,634a7b21,RD Berrington,e21bc7f3,W Barresi,0d677597,0,0,0,0,0,,,,,,2,0,2
+875471,2015,Netherlands,9,BN Cooper,634a7b21,RD Berrington,e21bc7f3,W Barresi,0d677597,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Netherlands,9,W Barresi,0d677597,RD Berrington,e21bc7f3,BN Cooper,634a7b21,0,0,0,0,0,,,,,,0,0,0
+875471,2015,Netherlands,9,W Barresi,0d677597,RD Berrington,e21bc7f3,BN Cooper,634a7b21,0,0,0,0,0,,,,,,6,0,6
+875471,2015,Netherlands,9,W Barresi,0d677597,RD Berrington,e21bc7f3,BN Cooper,634a7b21,0,0,0,0,0,,,,,,4,0,4
+875471,2015,Netherlands,10,BN Cooper,634a7b21,AC Evans,e9a870ed,W Barresi,0d677597,0,0,0,0,0,,,,,,0,0,0
+875471,2015,Netherlands,10,BN Cooper,634a7b21,AC Evans,e9a870ed,W Barresi,0d677597,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Netherlands,10,W Barresi,0d677597,AC Evans,e9a870ed,BN Cooper,634a7b21,0,0,0,0,1,W Barresi,0d677597,,,bowled,0,0,0
+875471,2015,Netherlands,10,PW Borren,91052c96,AC Evans,e9a870ed,BN Cooper,634a7b21,0,0,0,0,0,,,,,,4,0,4
+875471,2015,Netherlands,10,PW Borren,91052c96,AC Evans,e9a870ed,BN Cooper,634a7b21,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Netherlands,10,BN Cooper,634a7b21,AC Evans,e9a870ed,PW Borren,91052c96,0,0,0,0,1,BN Cooper,634a7b21,MH Cross,8b261d84,caught,0,0,0
+875471,2015,Netherlands,11,PW Borren,91052c96,MA Leask,28131839,MR Swart,a75a78eb,0,0,0,0,0,,,,,,0,0,0
+875471,2015,Netherlands,11,PW Borren,91052c96,MA Leask,28131839,MR Swart,a75a78eb,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Netherlands,11,MR Swart,a75a78eb,MA Leask,28131839,PW Borren,91052c96,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Netherlands,11,PW Borren,91052c96,MA Leask,28131839,MR Swart,a75a78eb,0,0,0,0,0,,,,,,0,0,0
+875471,2015,Netherlands,11,PW Borren,91052c96,MA Leask,28131839,MR Swart,a75a78eb,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Netherlands,11,MR Swart,a75a78eb,MA Leask,28131839,PW Borren,91052c96,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Netherlands,12,MR Swart,a75a78eb,MRJ Watt,1252f71a,PW Borren,91052c96,0,0,0,0,1,MR Swart,a75a78eb,PL Mommsen,a56f4b65,caught,0,0,0
+875471,2015,Netherlands,12,RE van der Merwe,05c2ca46,MRJ Watt,1252f71a,PW Borren,91052c96,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Netherlands,12,PW Borren,91052c96,MRJ Watt,1252f71a,RE van der Merwe,05c2ca46,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Netherlands,12,RE van der Merwe,05c2ca46,MRJ Watt,1252f71a,PW Borren,91052c96,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Netherlands,12,PW Borren,91052c96,MRJ Watt,1252f71a,RE van der Merwe,05c2ca46,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Netherlands,12,RE van der Merwe,05c2ca46,MRJ Watt,1252f71a,PW Borren,91052c96,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Netherlands,13,RE van der Merwe,05c2ca46,MA Leask,28131839,PW Borren,91052c96,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Netherlands,13,PW Borren,91052c96,MA Leask,28131839,RE van der Merwe,05c2ca46,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Netherlands,13,RE van der Merwe,05c2ca46,MA Leask,28131839,PW Borren,91052c96,0,0,0,0,0,,,,,,6,0,6
+875471,2015,Netherlands,13,RE van der Merwe,05c2ca46,MA Leask,28131839,PW Borren,91052c96,0,0,0,0,0,,,,,,0,0,0
+875471,2015,Netherlands,13,RE van der Merwe,05c2ca46,MA Leask,28131839,PW Borren,91052c96,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Netherlands,13,PW Borren,91052c96,MA Leask,28131839,RE van der Merwe,05c2ca46,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Netherlands,14,PW Borren,91052c96,SM Sharif,f43dd8c2,RE van der Merwe,05c2ca46,0,0,0,0,0,,,,,,0,0,0
+875471,2015,Netherlands,14,PW Borren,91052c96,SM Sharif,f43dd8c2,RE van der Merwe,05c2ca46,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Netherlands,14,RE van der Merwe,05c2ca46,SM Sharif,f43dd8c2,PW Borren,91052c96,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Netherlands,14,PW Borren,91052c96,SM Sharif,f43dd8c2,RE van der Merwe,05c2ca46,0,0,0,0,0,,,,,,4,0,4
+875471,2015,Netherlands,14,PW Borren,91052c96,SM Sharif,f43dd8c2,RE van der Merwe,05c2ca46,0,0,0,0,0,,,,,,6,0,6
+875471,2015,Netherlands,14,PW Borren,91052c96,SM Sharif,f43dd8c2,RE van der Merwe,05c2ca46,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Netherlands,15,PW Borren,91052c96,JH Davey,d3868bd0,RE van der Merwe,05c2ca46,0,0,0,0,0,,,,,,2,0,2
+875471,2015,Netherlands,15,PW Borren,91052c96,JH Davey,d3868bd0,RE van der Merwe,05c2ca46,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Netherlands,15,RE van der Merwe,05c2ca46,JH Davey,d3868bd0,PW Borren,91052c96,0,0,0,0,0,,,,,,0,0,0
+875471,2015,Netherlands,15,RE van der Merwe,05c2ca46,JH Davey,d3868bd0,PW Borren,91052c96,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Netherlands,15,PW Borren,91052c96,JH Davey,d3868bd0,RE van der Merwe,05c2ca46,0,0,0,0,0,,,,,,4,0,4
+875471,2015,Netherlands,15,PW Borren,91052c96,JH Davey,d3868bd0,RE van der Merwe,05c2ca46,0,0,0,0,0,,,,,,0,0,0
+875471,2015,Netherlands,16,RE van der Merwe,05c2ca46,MRJ Watt,1252f71a,PW Borren,91052c96,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Netherlands,16,PW Borren,91052c96,MRJ Watt,1252f71a,RE van der Merwe,05c2ca46,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Netherlands,16,RE van der Merwe,05c2ca46,MRJ Watt,1252f71a,PW Borren,91052c96,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Netherlands,16,PW Borren,91052c96,MRJ Watt,1252f71a,RE van der Merwe,05c2ca46,0,0,0,0,0,,,,,,6,0,6
+875471,2015,Netherlands,16,PW Borren,91052c96,MRJ Watt,1252f71a,RE van der Merwe,05c2ca46,0,0,0,0,0,,,,,,6,0,6
+875471,2015,Netherlands,16,PW Borren,91052c96,MRJ Watt,1252f71a,RE van der Merwe,05c2ca46,0,0,0,0,0,,,,,,4,0,4
+875471,2015,Netherlands,17,RE van der Merwe,05c2ca46,SM Sharif,f43dd8c2,PW Borren,91052c96,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Netherlands,17,PW Borren,91052c96,SM Sharif,f43dd8c2,RE van der Merwe,05c2ca46,0,0,0,0,0,,,,,,4,0,4
+875471,2015,Netherlands,17,PW Borren,91052c96,SM Sharif,f43dd8c2,RE van der Merwe,05c2ca46,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Netherlands,17,RE van der Merwe,05c2ca46,SM Sharif,f43dd8c2,PW Borren,91052c96,0,0,0,0,0,,,,,,0,0,0
+875471,2015,Netherlands,17,RE van der Merwe,05c2ca46,SM Sharif,f43dd8c2,PW Borren,91052c96,0,0,0,0,0,,,,,,6,0,6
+875471,2015,Netherlands,17,RE van der Merwe,05c2ca46,SM Sharif,f43dd8c2,PW Borren,91052c96,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Netherlands,18,RE van der Merwe,05c2ca46,AC Evans,e9a870ed,PW Borren,91052c96,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Netherlands,18,PW Borren,91052c96,AC Evans,e9a870ed,RE van der Merwe,05c2ca46,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Netherlands,18,RE van der Merwe,05c2ca46,AC Evans,e9a870ed,PW Borren,91052c96,0,0,0,0,1,RE van der Merwe,05c2ca46,,,bowled,0,0,0
+875471,2015,Netherlands,18,Mudassar Bukhari,37312a74,AC Evans,e9a870ed,PW Borren,91052c96,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Netherlands,18,PW Borren,91052c96,AC Evans,e9a870ed,Mudassar Bukhari,37312a74,0,0,0,0,0,,,,,,4,0,4
+875471,2015,Netherlands,18,PW Borren,91052c96,AC Evans,e9a870ed,Mudassar Bukhari,37312a74,0,0,0,0,1,PW Borren,91052c96,JH Davey,d3868bd0,caught,0,0,0
+875471,2015,Netherlands,19,PM Seelaar,abbdca1a,JH Davey,d3868bd0,Mudassar Bukhari,37312a74,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Netherlands,19,Mudassar Bukhari,37312a74,JH Davey,d3868bd0,PM Seelaar,abbdca1a,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Netherlands,19,PM Seelaar,abbdca1a,JH Davey,d3868bd0,Mudassar Bukhari,37312a74,0,0,0,0,0,,,,,,2,0,2
+875471,2015,Netherlands,19,PM Seelaar,abbdca1a,JH Davey,d3868bd0,Mudassar Bukhari,37312a74,0,0,0,0,0,,,,,,2,0,2
+875471,2015,Netherlands,19,PM Seelaar,abbdca1a,JH Davey,d3868bd0,Mudassar Bukhari,37312a74,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Netherlands,19,Mudassar Bukhari,37312a74,JH Davey,d3868bd0,PM Seelaar,abbdca1a,0,0,0,0,0,,,,,,2,0,2
+875471,2015,Scotland,0,HG Munsey,ff014c34,T van der Gugten,d99cc23a,KJ Coetzer,85d8110a,0,0,1,0,0,,,,,,0,1,1
+875471,2015,Scotland,0,KJ Coetzer,85d8110a,T van der Gugten,d99cc23a,HG Munsey,ff014c34,0,0,0,0,0,,,,,,0,0,0
+875471,2015,Scotland,0,KJ Coetzer,85d8110a,T van der Gugten,d99cc23a,HG Munsey,ff014c34,1,0,0,0,0,,,,,,0,1,1
+875471,2015,Scotland,0,KJ Coetzer,85d8110a,T van der Gugten,d99cc23a,HG Munsey,ff014c34,0,0,0,0,1,HG Munsey,ff014c34,T van der Gugten,d99cc23a,run out,0,0,0
+875471,2015,Scotland,0,KJ Coetzer,85d8110a,T van der Gugten,d99cc23a,CS MacLeod,9c376401,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Scotland,0,CS MacLeod,9c376401,T van der Gugten,d99cc23a,KJ Coetzer,85d8110a,0,0,1,0,0,,,,,,0,1,1
+875471,2015,Scotland,0,KJ Coetzer,85d8110a,T van der Gugten,d99cc23a,CS MacLeod,9c376401,0,0,0,0,0,,,,,,4,0,4
+875471,2015,Scotland,1,CS MacLeod,9c376401,Mudassar Bukhari,37312a74,KJ Coetzer,85d8110a,1,0,0,0,0,,,,,,0,1,1
+875471,2015,Scotland,1,CS MacLeod,9c376401,Mudassar Bukhari,37312a74,KJ Coetzer,85d8110a,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Scotland,1,KJ Coetzer,85d8110a,Mudassar Bukhari,37312a74,CS MacLeod,9c376401,0,0,0,0,0,,,,,,0,0,0
+875471,2015,Scotland,1,KJ Coetzer,85d8110a,Mudassar Bukhari,37312a74,CS MacLeod,9c376401,0,0,0,0,1,KJ Coetzer,85d8110a,BN Cooper,634a7b21,caught,0,0,0
+875471,2015,Scotland,1,CS MacLeod,9c376401,Mudassar Bukhari,37312a74,MH Cross,8b261d84,0,0,0,0,0,,,,,,0,0,0
+875471,2015,Scotland,1,CS MacLeod,9c376401,Mudassar Bukhari,37312a74,MH Cross,8b261d84,1,0,0,0,0,,,,,,0,1,1
+875471,2015,Scotland,1,CS MacLeod,9c376401,Mudassar Bukhari,37312a74,MH Cross,8b261d84,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Scotland,1,MH Cross,8b261d84,Mudassar Bukhari,37312a74,CS MacLeod,9c376401,0,0,0,0,0,,,,,,4,0,4
+875471,2015,Scotland,2,CS MacLeod,9c376401,T van der Gugten,d99cc23a,MH Cross,8b261d84,0,0,0,0,0,,,,,,0,0,0
+875471,2015,Scotland,2,CS MacLeod,9c376401,T van der Gugten,d99cc23a,MH Cross,8b261d84,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Scotland,2,MH Cross,8b261d84,T van der Gugten,d99cc23a,CS MacLeod,9c376401,0,0,0,0,0,,,,,,0,0,0
+875471,2015,Scotland,2,MH Cross,8b261d84,T van der Gugten,d99cc23a,CS MacLeod,9c376401,0,0,0,0,0,,,,,,0,0,0
+875471,2015,Scotland,2,MH Cross,8b261d84,T van der Gugten,d99cc23a,CS MacLeod,9c376401,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Scotland,2,CS MacLeod,9c376401,T van der Gugten,d99cc23a,MH Cross,8b261d84,0,0,0,0,0,,,,,,4,0,4
+875471,2015,Scotland,3,MH Cross,8b261d84,Mudassar Bukhari,37312a74,CS MacLeod,9c376401,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Scotland,3,CS MacLeod,9c376401,Mudassar Bukhari,37312a74,MH Cross,8b261d84,0,0,0,0,0,,,,,,4,0,4
+875471,2015,Scotland,3,CS MacLeod,9c376401,Mudassar Bukhari,37312a74,MH Cross,8b261d84,0,0,0,0,0,,,,,,0,0,0
+875471,2015,Scotland,3,CS MacLeod,9c376401,Mudassar Bukhari,37312a74,MH Cross,8b261d84,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Scotland,3,MH Cross,8b261d84,Mudassar Bukhari,37312a74,CS MacLeod,9c376401,0,0,0,0,0,,,,,,4,0,4
+875471,2015,Scotland,3,MH Cross,8b261d84,Mudassar Bukhari,37312a74,CS MacLeod,9c376401,0,0,0,0,0,,,,,,0,0,0
+875471,2015,Scotland,4,CS MacLeod,9c376401,Ahsan Malik,96503059,MH Cross,8b261d84,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Scotland,4,MH Cross,8b261d84,Ahsan Malik,96503059,CS MacLeod,9c376401,0,1,0,0,0,,,,,,4,1,5
+875471,2015,Scotland,4,MH Cross,8b261d84,Ahsan Malik,96503059,CS MacLeod,9c376401,0,0,0,0,0,,,,,,0,0,0
+875471,2015,Scotland,4,MH Cross,8b261d84,Ahsan Malik,96503059,CS MacLeod,9c376401,0,0,0,0,0,,,,,,0,0,0
+875471,2015,Scotland,4,MH Cross,8b261d84,Ahsan Malik,96503059,CS MacLeod,9c376401,0,0,0,0,0,,,,,,4,0,4
+875471,2015,Scotland,4,MH Cross,8b261d84,Ahsan Malik,96503059,CS MacLeod,9c376401,0,0,0,0,0,,,,,,4,0,4
+875471,2015,Scotland,4,MH Cross,8b261d84,Ahsan Malik,96503059,CS MacLeod,9c376401,0,0,1,0,0,,,,,,0,1,1
+875471,2015,Scotland,5,MH Cross,8b261d84,RE van der Merwe,05c2ca46,CS MacLeod,9c376401,0,0,0,0,0,,,,,,0,0,0
+875471,2015,Scotland,5,MH Cross,8b261d84,RE van der Merwe,05c2ca46,CS MacLeod,9c376401,0,0,0,0,1,MH Cross,8b261d84,Ahsan Malik,96503059,caught,0,0,0
+875471,2015,Scotland,5,CS MacLeod,9c376401,RE van der Merwe,05c2ca46,RD Berrington,e21bc7f3,0,0,0,0,0,,,,,,0,0,0
+875471,2015,Scotland,5,CS MacLeod,9c376401,RE van der Merwe,05c2ca46,RD Berrington,e21bc7f3,0,0,0,0,0,,,,,,0,0,0
+875471,2015,Scotland,5,CS MacLeod,9c376401,RE van der Merwe,05c2ca46,RD Berrington,e21bc7f3,0,0,0,0,0,,,,,,0,0,0
+875471,2015,Scotland,5,CS MacLeod,9c376401,RE van der Merwe,05c2ca46,RD Berrington,e21bc7f3,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Scotland,6,CS MacLeod,9c376401,PM Seelaar,abbdca1a,RD Berrington,e21bc7f3,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Scotland,6,RD Berrington,e21bc7f3,PM Seelaar,abbdca1a,CS MacLeod,9c376401,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Scotland,6,CS MacLeod,9c376401,PM Seelaar,abbdca1a,RD Berrington,e21bc7f3,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Scotland,6,RD Berrington,e21bc7f3,PM Seelaar,abbdca1a,CS MacLeod,9c376401,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Scotland,6,CS MacLeod,9c376401,PM Seelaar,abbdca1a,RD Berrington,e21bc7f3,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Scotland,6,RD Berrington,e21bc7f3,PM Seelaar,abbdca1a,CS MacLeod,9c376401,0,0,0,0,1,RD Berrington,e21bc7f3,Mudassar Bukhari,37312a74,caught,0,0,0
+875471,2015,Scotland,7,PL Mommsen,a56f4b65,MJG Rippon,b03db6fa,CS MacLeod,9c376401,0,0,0,0,0,,,,,,0,0,0
+875471,2015,Scotland,7,PL Mommsen,a56f4b65,MJG Rippon,b03db6fa,CS MacLeod,9c376401,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Scotland,7,CS MacLeod,9c376401,MJG Rippon,b03db6fa,PL Mommsen,a56f4b65,0,0,0,0,0,,,,,,0,0,0
+875471,2015,Scotland,7,CS MacLeod,9c376401,MJG Rippon,b03db6fa,PL Mommsen,a56f4b65,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Scotland,7,PL Mommsen,a56f4b65,MJG Rippon,b03db6fa,CS MacLeod,9c376401,0,0,0,0,0,,,,,,2,0,2
+875471,2015,Scotland,7,PL Mommsen,a56f4b65,MJG Rippon,b03db6fa,CS MacLeod,9c376401,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Scotland,8,PL Mommsen,a56f4b65,PM Seelaar,abbdca1a,CS MacLeod,9c376401,0,0,0,0,0,,,,,,4,0,4
+875471,2015,Scotland,8,PL Mommsen,a56f4b65,PM Seelaar,abbdca1a,CS MacLeod,9c376401,0,0,0,0,0,,,,,,0,0,0
+875471,2015,Scotland,8,PL Mommsen,a56f4b65,PM Seelaar,abbdca1a,CS MacLeod,9c376401,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Scotland,8,CS MacLeod,9c376401,PM Seelaar,abbdca1a,PL Mommsen,a56f4b65,0,0,0,0,0,,,,,,0,0,0
+875471,2015,Scotland,8,CS MacLeod,9c376401,PM Seelaar,abbdca1a,PL Mommsen,a56f4b65,0,0,0,0,1,CS MacLeod,9c376401,W Barresi,0d677597,caught,0,0,0
+875471,2015,Scotland,8,JH Davey,d3868bd0,PM Seelaar,abbdca1a,PL Mommsen,a56f4b65,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Scotland,9,JH Davey,d3868bd0,MJG Rippon,b03db6fa,PL Mommsen,a56f4b65,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Scotland,9,PL Mommsen,a56f4b65,MJG Rippon,b03db6fa,JH Davey,d3868bd0,0,0,0,0,0,,,,,,0,0,0
+875471,2015,Scotland,9,PL Mommsen,a56f4b65,MJG Rippon,b03db6fa,JH Davey,d3868bd0,0,0,0,0,0,,,,,,2,0,2
+875471,2015,Scotland,9,PL Mommsen,a56f4b65,MJG Rippon,b03db6fa,JH Davey,d3868bd0,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Scotland,9,JH Davey,d3868bd0,MJG Rippon,b03db6fa,PL Mommsen,a56f4b65,0,0,0,0,0,,,,,,0,0,0
+875471,2015,Scotland,9,JH Davey,d3868bd0,MJG Rippon,b03db6fa,PL Mommsen,a56f4b65,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Scotland,10,JH Davey,d3868bd0,RE van der Merwe,05c2ca46,PL Mommsen,a56f4b65,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Scotland,10,PL Mommsen,a56f4b65,RE van der Merwe,05c2ca46,JH Davey,d3868bd0,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Scotland,10,JH Davey,d3868bd0,RE van der Merwe,05c2ca46,PL Mommsen,a56f4b65,0,0,0,0,0,,,,,,4,0,4
+875471,2015,Scotland,10,JH Davey,d3868bd0,RE van der Merwe,05c2ca46,PL Mommsen,a56f4b65,0,0,0,0,1,JH Davey,d3868bd0,BN Cooper,634a7b21,caught,0,0,0
+875471,2015,Scotland,10,PL Mommsen,a56f4b65,RE van der Merwe,05c2ca46,MA Leask,28131839,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Scotland,10,MA Leask,28131839,RE van der Merwe,05c2ca46,PL Mommsen,a56f4b65,0,0,0,0,0,,,,,,0,0,0
+875471,2015,Scotland,11,PL Mommsen,a56f4b65,MJG Rippon,b03db6fa,MA Leask,28131839,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Scotland,11,MA Leask,28131839,MJG Rippon,b03db6fa,PL Mommsen,a56f4b65,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Scotland,11,PL Mommsen,a56f4b65,MJG Rippon,b03db6fa,MA Leask,28131839,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Scotland,11,MA Leask,28131839,MJG Rippon,b03db6fa,PL Mommsen,a56f4b65,0,0,0,0,1,MA Leask,28131839,RE van der Merwe,05c2ca46,caught,0,0,0
+875471,2015,Scotland,11,SM Sharif,f43dd8c2,MJG Rippon,b03db6fa,PL Mommsen,a56f4b65,0,0,0,0,0,,,,,,0,0,0
+875471,2015,Scotland,11,SM Sharif,f43dd8c2,MJG Rippon,b03db6fa,PL Mommsen,a56f4b65,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Scotland,12,SM Sharif,f43dd8c2,PM Seelaar,abbdca1a,PL Mommsen,a56f4b65,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Scotland,12,PL Mommsen,a56f4b65,PM Seelaar,abbdca1a,SM Sharif,f43dd8c2,0,0,0,0,0,,,,,,0,0,0
+875471,2015,Scotland,12,PL Mommsen,a56f4b65,PM Seelaar,abbdca1a,SM Sharif,f43dd8c2,0,0,0,0,0,,,,,,0,0,0
+875471,2015,Scotland,12,PL Mommsen,a56f4b65,PM Seelaar,abbdca1a,SM Sharif,f43dd8c2,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Scotland,12,SM Sharif,f43dd8c2,PM Seelaar,abbdca1a,PL Mommsen,a56f4b65,0,0,0,0,0,,,,,,4,0,4
+875471,2015,Scotland,12,SM Sharif,f43dd8c2,PM Seelaar,abbdca1a,PL Mommsen,a56f4b65,0,0,0,0,0,,,,,,2,0,2
+875471,2015,Scotland,13,PL Mommsen,a56f4b65,MJG Rippon,b03db6fa,SM Sharif,f43dd8c2,0,0,0,0,0,,,,,,4,0,4
+875471,2015,Scotland,13,PL Mommsen,a56f4b65,MJG Rippon,b03db6fa,SM Sharif,f43dd8c2,0,0,0,0,0,,,,,,0,0,0
+875471,2015,Scotland,13,PL Mommsen,a56f4b65,MJG Rippon,b03db6fa,SM Sharif,f43dd8c2,0,0,0,0,0,,,,,,2,0,2
+875471,2015,Scotland,13,PL Mommsen,a56f4b65,MJG Rippon,b03db6fa,SM Sharif,f43dd8c2,0,0,0,0,0,,,,,,6,0,6
+875471,2015,Scotland,13,PL Mommsen,a56f4b65,MJG Rippon,b03db6fa,SM Sharif,f43dd8c2,0,0,0,0,0,,,,,,2,0,2
+875471,2015,Scotland,13,PL Mommsen,a56f4b65,MJG Rippon,b03db6fa,SM Sharif,f43dd8c2,0,0,0,0,0,,,,,,0,0,0
+875471,2015,Scotland,14,SM Sharif,f43dd8c2,Ahsan Malik,96503059,PL Mommsen,a56f4b65,0,0,0,0,0,,,,,,4,0,4
+875471,2015,Scotland,14,SM Sharif,f43dd8c2,Ahsan Malik,96503059,PL Mommsen,a56f4b65,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Scotland,14,PL Mommsen,a56f4b65,Ahsan Malik,96503059,SM Sharif,f43dd8c2,0,0,1,0,0,,,,,,0,1,1
+875471,2015,Scotland,14,SM Sharif,f43dd8c2,Ahsan Malik,96503059,PL Mommsen,a56f4b65,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Scotland,14,PL Mommsen,a56f4b65,Ahsan Malik,96503059,SM Sharif,f43dd8c2,0,0,0,0,0,,,,,,0,0,0
+875471,2015,Scotland,14,PL Mommsen,a56f4b65,Ahsan Malik,96503059,SM Sharif,f43dd8c2,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Scotland,15,PL Mommsen,a56f4b65,RE van der Merwe,05c2ca46,SM Sharif,f43dd8c2,0,0,0,0,0,,,,,,2,0,2
+875471,2015,Scotland,15,PL Mommsen,a56f4b65,RE van der Merwe,05c2ca46,SM Sharif,f43dd8c2,0,0,0,0,0,,,,,,0,0,0
+875471,2015,Scotland,15,PL Mommsen,a56f4b65,RE van der Merwe,05c2ca46,SM Sharif,f43dd8c2,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Scotland,15,SM Sharif,f43dd8c2,RE van der Merwe,05c2ca46,PL Mommsen,a56f4b65,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Scotland,15,PL Mommsen,a56f4b65,RE van der Merwe,05c2ca46,SM Sharif,f43dd8c2,0,0,0,0,0,,,,,,0,0,0
+875471,2015,Scotland,15,PL Mommsen,a56f4b65,RE van der Merwe,05c2ca46,SM Sharif,f43dd8c2,0,0,0,0,0,,,,,,0,0,0
+875471,2015,Scotland,16,SM Sharif,f43dd8c2,Ahsan Malik,96503059,PL Mommsen,a56f4b65,0,0,0,0,0,,,,,,2,0,2
+875471,2015,Scotland,16,SM Sharif,f43dd8c2,Ahsan Malik,96503059,PL Mommsen,a56f4b65,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Scotland,16,PL Mommsen,a56f4b65,Ahsan Malik,96503059,SM Sharif,f43dd8c2,0,0,0,0,0,,,,,,6,0,6
+875471,2015,Scotland,16,PL Mommsen,a56f4b65,Ahsan Malik,96503059,SM Sharif,f43dd8c2,0,1,0,0,0,,,,,,4,1,5
+875471,2015,Scotland,16,PL Mommsen,a56f4b65,Ahsan Malik,96503059,SM Sharif,f43dd8c2,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Scotland,16,SM Sharif,f43dd8c2,Ahsan Malik,96503059,PL Mommsen,a56f4b65,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Scotland,16,PL Mommsen,a56f4b65,Ahsan Malik,96503059,SM Sharif,f43dd8c2,0,0,0,0,0,,,,,,4,0,4
+875471,2015,Scotland,17,SM Sharif,f43dd8c2,RE van der Merwe,05c2ca46,PL Mommsen,a56f4b65,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Scotland,17,PL Mommsen,a56f4b65,RE van der Merwe,05c2ca46,SM Sharif,f43dd8c2,0,0,0,0,0,,,,,,2,0,2
+875471,2015,Scotland,17,PL Mommsen,a56f4b65,RE van der Merwe,05c2ca46,SM Sharif,f43dd8c2,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Scotland,17,SM Sharif,f43dd8c2,RE van der Merwe,05c2ca46,PL Mommsen,a56f4b65,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Scotland,17,PL Mommsen,a56f4b65,RE van der Merwe,05c2ca46,SM Sharif,f43dd8c2,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Scotland,17,SM Sharif,f43dd8c2,RE van der Merwe,05c2ca46,PL Mommsen,a56f4b65,0,0,0,0,0,,,,,,4,0,4
+875471,2015,Scotland,18,PL Mommsen,a56f4b65,T van der Gugten,d99cc23a,SM Sharif,f43dd8c2,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Scotland,18,SM Sharif,f43dd8c2,T van der Gugten,d99cc23a,PL Mommsen,a56f4b65,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Scotland,18,PL Mommsen,a56f4b65,T van der Gugten,d99cc23a,SM Sharif,f43dd8c2,0,0,0,0,0,,,,,,2,0,2
+875471,2015,Scotland,18,PL Mommsen,a56f4b65,T van der Gugten,d99cc23a,SM Sharif,f43dd8c2,0,0,0,0,0,,,,,,6,0,6
+875471,2015,Scotland,18,PL Mommsen,a56f4b65,T van der Gugten,d99cc23a,SM Sharif,f43dd8c2,0,0,0,0,0,,,,,,1,0,1
+875471,2015,Scotland,18,SM Sharif,f43dd8c2,T van der Gugten,d99cc23a,PL Mommsen,a56f4b65,0,0,0,0,0,,,,,,0,0,0
+875471,2015,Scotland,19,PL Mommsen,a56f4b65,Mudassar Bukhari,37312a74,SM Sharif,f43dd8c2,0,0,0,0,0,,,,,,4,0,4
+875471,2015,Scotland,19,PL Mommsen,a56f4b65,Mudassar Bukhari,37312a74,SM Sharif,f43dd8c2,0,0,0,0,1,SM Sharif,f43dd8c2,Mudassar Bukhari,37312a74,run out,0,0,0
+875471,2015,Scotland,19,AC Evans,e9a870ed,Mudassar Bukhari,37312a74,PL Mommsen,a56f4b65,0,0,0,0,1,AC Evans,e9a870ed,,,bowled,0,0,0
+875471,2015,Scotland,19,MRJ Watt,1252f71a,Mudassar Bukhari,37312a74,PL Mommsen,a56f4b65,0,0,0,0,0,,,,,,0,0,0
+875471,2015,Scotland,19,MRJ Watt,1252f71a,Mudassar Bukhari,37312a74,PL Mommsen,a56f4b65,0,0,0,0,1,MRJ Watt,1252f71a,RE van der Merwe,05c2ca46,caught,0,0,0

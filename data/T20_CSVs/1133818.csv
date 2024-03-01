@@ -1,0 +1,248 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1133818,2017/18,Bangladesh,0,Tamim Iqbal,3b041a12,JD Unadkat,1e66c162,Soumya Sarkar,4d9f9686,0,0,0,0,0,,,,,,0,0,0
+1133818,2017/18,Bangladesh,0,Tamim Iqbal,3b041a12,JD Unadkat,1e66c162,Soumya Sarkar,4d9f9686,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,Bangladesh,0,Soumya Sarkar,4d9f9686,JD Unadkat,1e66c162,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,0,0,0
+1133818,2017/18,Bangladesh,0,Soumya Sarkar,4d9f9686,JD Unadkat,1e66c162,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,Bangladesh,0,Tamim Iqbal,3b041a12,JD Unadkat,1e66c162,Soumya Sarkar,4d9f9686,0,0,0,0,0,,,,,,3,0,3
+1133818,2017/18,Bangladesh,0,Soumya Sarkar,4d9f9686,JD Unadkat,1e66c162,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,Bangladesh,1,Soumya Sarkar,4d9f9686,Washington Sundar,f19ccfad,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,4,0,4
+1133818,2017/18,Bangladesh,1,Soumya Sarkar,4d9f9686,Washington Sundar,f19ccfad,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,0,0,0
+1133818,2017/18,Bangladesh,1,Soumya Sarkar,4d9f9686,Washington Sundar,f19ccfad,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,0,0,0
+1133818,2017/18,Bangladesh,1,Soumya Sarkar,4d9f9686,Washington Sundar,f19ccfad,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,0,0,0
+1133818,2017/18,Bangladesh,1,Soumya Sarkar,4d9f9686,Washington Sundar,f19ccfad,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,0,0,0
+1133818,2017/18,Bangladesh,1,Soumya Sarkar,4d9f9686,Washington Sundar,f19ccfad,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,0,0,0
+1133818,2017/18,Bangladesh,2,Tamim Iqbal,3b041a12,JD Unadkat,1e66c162,Soumya Sarkar,4d9f9686,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,Bangladesh,2,Soumya Sarkar,4d9f9686,JD Unadkat,1e66c162,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,6,0,6
+1133818,2017/18,Bangladesh,2,Soumya Sarkar,4d9f9686,JD Unadkat,1e66c162,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,2,0,2
+1133818,2017/18,Bangladesh,2,Soumya Sarkar,4d9f9686,JD Unadkat,1e66c162,Tamim Iqbal,3b041a12,1,0,0,0,0,,,,,,0,1,1
+1133818,2017/18,Bangladesh,2,Soumya Sarkar,4d9f9686,JD Unadkat,1e66c162,Tamim Iqbal,3b041a12,0,0,0,0,1,Soumya Sarkar,4d9f9686,YS Chahal,57ee1fde,caught,0,0,0
+1133818,2017/18,Bangladesh,2,Liton Das,0404d43c,JD Unadkat,1e66c162,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,Bangladesh,2,Tamim Iqbal,3b041a12,JD Unadkat,1e66c162,Liton Das,0404d43c,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,Bangladesh,3,Tamim Iqbal,3b041a12,Washington Sundar,f19ccfad,Liton Das,0404d43c,0,0,0,0,0,,,,,,0,0,0
+1133818,2017/18,Bangladesh,3,Tamim Iqbal,3b041a12,Washington Sundar,f19ccfad,Liton Das,0404d43c,0,0,0,0,0,,,,,,0,0,0
+1133818,2017/18,Bangladesh,3,Tamim Iqbal,3b041a12,Washington Sundar,f19ccfad,Liton Das,0404d43c,0,0,0,0,0,,,,,,0,0,0
+1133818,2017/18,Bangladesh,3,Tamim Iqbal,3b041a12,Washington Sundar,f19ccfad,Liton Das,0404d43c,0,0,0,0,0,,,,,,0,0,0
+1133818,2017/18,Bangladesh,3,Tamim Iqbal,3b041a12,Washington Sundar,f19ccfad,Liton Das,0404d43c,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,Bangladesh,3,Liton Das,0404d43c,Washington Sundar,f19ccfad,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,4,0,4
+1133818,2017/18,Bangladesh,4,Tamim Iqbal,3b041a12,SN Thakur,1abb78f8,Liton Das,0404d43c,0,0,0,0,0,,,,,,0,0,0
+1133818,2017/18,Bangladesh,4,Tamim Iqbal,3b041a12,SN Thakur,1abb78f8,Liton Das,0404d43c,0,0,0,0,0,,,,,,0,0,0
+1133818,2017/18,Bangladesh,4,Tamim Iqbal,3b041a12,SN Thakur,1abb78f8,Liton Das,0404d43c,0,0,0,0,0,,,,,,0,0,0
+1133818,2017/18,Bangladesh,4,Tamim Iqbal,3b041a12,SN Thakur,1abb78f8,Liton Das,0404d43c,0,0,0,0,0,,,,,,4,0,4
+1133818,2017/18,Bangladesh,4,Tamim Iqbal,3b041a12,SN Thakur,1abb78f8,Liton Das,0404d43c,0,0,0,0,0,,,,,,4,0,4
+1133818,2017/18,Bangladesh,4,Tamim Iqbal,3b041a12,SN Thakur,1abb78f8,Liton Das,0404d43c,0,0,0,0,1,Tamim Iqbal,3b041a12,JD Unadkat,1e66c162,caught,0,0,0
+1133818,2017/18,Bangladesh,5,Mushfiqur Rahim,a94e08ea,YS Chahal,57ee1fde,Liton Das,0404d43c,0,0,0,0,0,,,,,,0,0,0
+1133818,2017/18,Bangladesh,5,Mushfiqur Rahim,a94e08ea,YS Chahal,57ee1fde,Liton Das,0404d43c,0,0,0,0,0,,,,,,0,0,0
+1133818,2017/18,Bangladesh,5,Mushfiqur Rahim,a94e08ea,YS Chahal,57ee1fde,Liton Das,0404d43c,0,0,0,0,0,,,,,,0,0,0
+1133818,2017/18,Bangladesh,5,Mushfiqur Rahim,a94e08ea,YS Chahal,57ee1fde,Liton Das,0404d43c,0,0,0,0,0,,,,,,4,0,4
+1133818,2017/18,Bangladesh,5,Mushfiqur Rahim,a94e08ea,YS Chahal,57ee1fde,Liton Das,0404d43c,0,0,0,0,0,,,,,,4,0,4
+1133818,2017/18,Bangladesh,5,Mushfiqur Rahim,a94e08ea,YS Chahal,57ee1fde,Liton Das,0404d43c,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,Bangladesh,6,Mushfiqur Rahim,a94e08ea,V Shankar,0994d0ae,Liton Das,0404d43c,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,Bangladesh,6,Liton Das,0404d43c,V Shankar,0994d0ae,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,2,0,2
+1133818,2017/18,Bangladesh,6,Liton Das,0404d43c,V Shankar,0994d0ae,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,Bangladesh,6,Mushfiqur Rahim,a94e08ea,V Shankar,0994d0ae,Liton Das,0404d43c,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,Bangladesh,6,Liton Das,0404d43c,V Shankar,0994d0ae,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,2,0,2
+1133818,2017/18,Bangladesh,6,Liton Das,0404d43c,V Shankar,0994d0ae,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,0,0,0
+1133818,2017/18,Bangladesh,7,Mushfiqur Rahim,a94e08ea,YS Chahal,57ee1fde,Liton Das,0404d43c,0,0,0,0,0,,,,,,0,0,0
+1133818,2017/18,Bangladesh,7,Mushfiqur Rahim,a94e08ea,YS Chahal,57ee1fde,Liton Das,0404d43c,0,0,0,0,0,,,,,,0,0,0
+1133818,2017/18,Bangladesh,7,Mushfiqur Rahim,a94e08ea,YS Chahal,57ee1fde,Liton Das,0404d43c,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,Bangladesh,7,Liton Das,0404d43c,YS Chahal,57ee1fde,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,Bangladesh,7,Mushfiqur Rahim,a94e08ea,YS Chahal,57ee1fde,Liton Das,0404d43c,0,0,1,0,0,,,,,,0,1,1
+1133818,2017/18,Bangladesh,7,Liton Das,0404d43c,YS Chahal,57ee1fde,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,Bangladesh,8,Liton Das,0404d43c,V Shankar,0994d0ae,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,4,0,4
+1133818,2017/18,Bangladesh,8,Liton Das,0404d43c,V Shankar,0994d0ae,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,0,0,0
+1133818,2017/18,Bangladesh,8,Liton Das,0404d43c,V Shankar,0994d0ae,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,Bangladesh,8,Mushfiqur Rahim,a94e08ea,V Shankar,0994d0ae,Liton Das,0404d43c,0,0,0,0,0,,,,,,6,0,6
+1133818,2017/18,Bangladesh,8,Mushfiqur Rahim,a94e08ea,V Shankar,0994d0ae,Liton Das,0404d43c,0,0,0,0,1,Mushfiqur Rahim,a94e08ea,KD Karthik,c03f1114,caught,0,0,0
+1133818,2017/18,Bangladesh,8,Mahmudullah,bf1d7d3e,V Shankar,0994d0ae,Liton Das,0404d43c,0,0,0,0,0,,,,,,0,0,0
+1133818,2017/18,Bangladesh,9,Liton Das,0404d43c,YS Chahal,57ee1fde,Mahmudullah,bf1d7d3e,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,Bangladesh,9,Mahmudullah,bf1d7d3e,YS Chahal,57ee1fde,Liton Das,0404d43c,0,0,0,0,0,,,,,,0,0,0
+1133818,2017/18,Bangladesh,9,Mahmudullah,bf1d7d3e,YS Chahal,57ee1fde,Liton Das,0404d43c,0,0,0,0,0,,,,,,0,0,0
+1133818,2017/18,Bangladesh,9,Mahmudullah,bf1d7d3e,YS Chahal,57ee1fde,Liton Das,0404d43c,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,Bangladesh,9,Liton Das,0404d43c,YS Chahal,57ee1fde,Mahmudullah,bf1d7d3e,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,Bangladesh,9,Mahmudullah,bf1d7d3e,YS Chahal,57ee1fde,Liton Das,0404d43c,0,0,0,0,0,,,,,,0,0,0
+1133818,2017/18,Bangladesh,10,Liton Das,0404d43c,V Shankar,0994d0ae,Mahmudullah,bf1d7d3e,0,0,0,0,0,,,,,,0,0,0
+1133818,2017/18,Bangladesh,10,Liton Das,0404d43c,V Shankar,0994d0ae,Mahmudullah,bf1d7d3e,0,1,0,0,0,,,,,,0,1,1
+1133818,2017/18,Bangladesh,10,Liton Das,0404d43c,V Shankar,0994d0ae,Mahmudullah,bf1d7d3e,1,0,0,0,0,,,,,,0,1,1
+1133818,2017/18,Bangladesh,10,Liton Das,0404d43c,V Shankar,0994d0ae,Mahmudullah,bf1d7d3e,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,Bangladesh,10,Mahmudullah,bf1d7d3e,V Shankar,0994d0ae,Liton Das,0404d43c,0,0,0,0,0,,,,,,0,0,0
+1133818,2017/18,Bangladesh,10,Mahmudullah,bf1d7d3e,V Shankar,0994d0ae,Liton Das,0404d43c,0,0,0,0,0,,,,,,0,0,0
+1133818,2017/18,Bangladesh,10,Mahmudullah,bf1d7d3e,V Shankar,0994d0ae,Liton Das,0404d43c,0,0,0,0,1,Mahmudullah,bf1d7d3e,SN Thakur,1abb78f8,caught,0,0,0
+1133818,2017/18,Bangladesh,10,Liton Das,0404d43c,V Shankar,0994d0ae,Sabbir Rahman,7147f314,0,0,0,0,0,,,,,,0,0,0
+1133818,2017/18,Bangladesh,11,Sabbir Rahman,7147f314,Washington Sundar,f19ccfad,Liton Das,0404d43c,0,0,0,0,0,,,,,,0,0,0
+1133818,2017/18,Bangladesh,11,Sabbir Rahman,7147f314,Washington Sundar,f19ccfad,Liton Das,0404d43c,0,0,0,0,0,,,,,,0,0,0
+1133818,2017/18,Bangladesh,11,Sabbir Rahman,7147f314,Washington Sundar,f19ccfad,Liton Das,0404d43c,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,Bangladesh,11,Liton Das,0404d43c,Washington Sundar,f19ccfad,Sabbir Rahman,7147f314,1,0,0,0,0,,,,,,0,1,1
+1133818,2017/18,Bangladesh,11,Liton Das,0404d43c,Washington Sundar,f19ccfad,Sabbir Rahman,7147f314,0,0,0,0,0,,,,,,0,0,0
+1133818,2017/18,Bangladesh,11,Liton Das,0404d43c,Washington Sundar,f19ccfad,Sabbir Rahman,7147f314,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,Bangladesh,11,Sabbir Rahman,7147f314,Washington Sundar,f19ccfad,Liton Das,0404d43c,0,0,0,0,0,,,,,,0,0,0
+1133818,2017/18,Bangladesh,12,Liton Das,0404d43c,SN Thakur,1abb78f8,Sabbir Rahman,7147f314,0,0,0,0,0,,,,,,2,0,2
+1133818,2017/18,Bangladesh,12,Liton Das,0404d43c,SN Thakur,1abb78f8,Sabbir Rahman,7147f314,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,Bangladesh,12,Sabbir Rahman,7147f314,SN Thakur,1abb78f8,Liton Das,0404d43c,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,Bangladesh,12,Liton Das,0404d43c,SN Thakur,1abb78f8,Sabbir Rahman,7147f314,0,0,0,0,0,,,,,,0,0,0
+1133818,2017/18,Bangladesh,12,Liton Das,0404d43c,SN Thakur,1abb78f8,Sabbir Rahman,7147f314,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,Bangladesh,12,Sabbir Rahman,7147f314,SN Thakur,1abb78f8,Liton Das,0404d43c,1,0,0,0,0,,,,,,0,1,1
+1133818,2017/18,Bangladesh,12,Sabbir Rahman,7147f314,SN Thakur,1abb78f8,Liton Das,0404d43c,0,0,0,0,0,,,,,,4,0,4
+1133818,2017/18,Bangladesh,13,Liton Das,0404d43c,Washington Sundar,f19ccfad,Sabbir Rahman,7147f314,0,0,0,0,0,,,,,,4,0,4
+1133818,2017/18,Bangladesh,13,Liton Das,0404d43c,Washington Sundar,f19ccfad,Sabbir Rahman,7147f314,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,Bangladesh,13,Sabbir Rahman,7147f314,Washington Sundar,f19ccfad,Liton Das,0404d43c,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,Bangladesh,13,Liton Das,0404d43c,Washington Sundar,f19ccfad,Sabbir Rahman,7147f314,0,0,0,0,0,,,,,,2,0,2
+1133818,2017/18,Bangladesh,13,Liton Das,0404d43c,Washington Sundar,f19ccfad,Sabbir Rahman,7147f314,1,0,0,0,0,,,,,,0,1,1
+1133818,2017/18,Bangladesh,13,Liton Das,0404d43c,Washington Sundar,f19ccfad,Sabbir Rahman,7147f314,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,Bangladesh,13,Sabbir Rahman,7147f314,Washington Sundar,f19ccfad,Liton Das,0404d43c,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,Bangladesh,14,Sabbir Rahman,7147f314,V Shankar,0994d0ae,Liton Das,0404d43c,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,Bangladesh,14,Liton Das,0404d43c,V Shankar,0994d0ae,Sabbir Rahman,7147f314,0,0,0,0,0,,,,,,0,0,0
+1133818,2017/18,Bangladesh,14,Liton Das,0404d43c,V Shankar,0994d0ae,Sabbir Rahman,7147f314,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,Bangladesh,14,Sabbir Rahman,7147f314,V Shankar,0994d0ae,Liton Das,0404d43c,0,0,0,0,0,,,,,,0,0,0
+1133818,2017/18,Bangladesh,14,Sabbir Rahman,7147f314,V Shankar,0994d0ae,Liton Das,0404d43c,0,0,0,0,0,,,,,,2,0,2
+1133818,2017/18,Bangladesh,14,Sabbir Rahman,7147f314,V Shankar,0994d0ae,Liton Das,0404d43c,1,0,0,0,0,,,,,,0,1,1
+1133818,2017/18,Bangladesh,14,Sabbir Rahman,7147f314,V Shankar,0994d0ae,Liton Das,0404d43c,1,0,0,0,0,,,,,,0,1,1
+1133818,2017/18,Bangladesh,14,Sabbir Rahman,7147f314,V Shankar,0994d0ae,Liton Das,0404d43c,0,1,0,0,0,,,,,,0,1,1
+1133818,2017/18,Bangladesh,14,Sabbir Rahman,7147f314,V Shankar,0994d0ae,Liton Das,0404d43c,0,0,0,0,0,,,,,,4,0,4
+1133818,2017/18,Bangladesh,15,Liton Das,0404d43c,YS Chahal,57ee1fde,Sabbir Rahman,7147f314,0,0,0,0,1,Liton Das,0404d43c,SK Raina,1dc12ab9,caught,0,0,0
+1133818,2017/18,Bangladesh,15,Sabbir Rahman,7147f314,YS Chahal,57ee1fde,Mehedi Hasan Miraz,c58b0108,0,0,0,0,0,,,,,,0,0,0
+1133818,2017/18,Bangladesh,15,Sabbir Rahman,7147f314,YS Chahal,57ee1fde,Mehedi Hasan Miraz,c58b0108,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,Bangladesh,15,Mehedi Hasan Miraz,c58b0108,YS Chahal,57ee1fde,Sabbir Rahman,7147f314,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,Bangladesh,15,Sabbir Rahman,7147f314,YS Chahal,57ee1fde,Mehedi Hasan Miraz,c58b0108,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,Bangladesh,15,Mehedi Hasan Miraz,c58b0108,YS Chahal,57ee1fde,Sabbir Rahman,7147f314,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,Bangladesh,16,Mehedi Hasan Miraz,c58b0108,JD Unadkat,1e66c162,Sabbir Rahman,7147f314,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,Bangladesh,16,Sabbir Rahman,7147f314,JD Unadkat,1e66c162,Mehedi Hasan Miraz,c58b0108,0,0,0,0,0,,,,,,4,0,4
+1133818,2017/18,Bangladesh,16,Sabbir Rahman,7147f314,JD Unadkat,1e66c162,Mehedi Hasan Miraz,c58b0108,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,Bangladesh,16,Mehedi Hasan Miraz,c58b0108,JD Unadkat,1e66c162,Sabbir Rahman,7147f314,1,0,0,0,0,,,,,,0,1,1
+1133818,2017/18,Bangladesh,16,Mehedi Hasan Miraz,c58b0108,JD Unadkat,1e66c162,Sabbir Rahman,7147f314,0,0,0,0,1,Mehedi Hasan Miraz,c58b0108,MK Pandey,93b4fc78,caught,0,0,0
+1133818,2017/18,Bangladesh,16,Sabbir Rahman,7147f314,JD Unadkat,1e66c162,Taskin Ahmed,ef18b66e,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,Bangladesh,16,Taskin Ahmed,ef18b66e,JD Unadkat,1e66c162,Sabbir Rahman,7147f314,0,0,0,0,0,,,,,,0,0,0
+1133818,2017/18,Bangladesh,17,Sabbir Rahman,7147f314,SN Thakur,1abb78f8,Taskin Ahmed,ef18b66e,0,0,0,0,0,,,,,,0,0,0
+1133818,2017/18,Bangladesh,17,Sabbir Rahman,7147f314,SN Thakur,1abb78f8,Taskin Ahmed,ef18b66e,0,0,0,0,0,,,,,,0,0,0
+1133818,2017/18,Bangladesh,17,Sabbir Rahman,7147f314,SN Thakur,1abb78f8,Taskin Ahmed,ef18b66e,0,0,0,0,0,,,,,,0,0,0
+1133818,2017/18,Bangladesh,17,Sabbir Rahman,7147f314,SN Thakur,1abb78f8,Taskin Ahmed,ef18b66e,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,Bangladesh,17,Taskin Ahmed,ef18b66e,SN Thakur,1abb78f8,Sabbir Rahman,7147f314,0,0,0,0,0,,,,,,0,0,0
+1133818,2017/18,Bangladesh,17,Taskin Ahmed,ef18b66e,SN Thakur,1abb78f8,Sabbir Rahman,7147f314,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,Bangladesh,18,Taskin Ahmed,ef18b66e,JD Unadkat,1e66c162,Sabbir Rahman,7147f314,0,0,0,0,0,,,,,,4,0,4
+1133818,2017/18,Bangladesh,18,Taskin Ahmed,ef18b66e,JD Unadkat,1e66c162,Sabbir Rahman,7147f314,0,0,1,0,0,,,,,,0,1,1
+1133818,2017/18,Bangladesh,18,Sabbir Rahman,7147f314,JD Unadkat,1e66c162,Taskin Ahmed,ef18b66e,0,0,0,0,0,,,,,,6,0,6
+1133818,2017/18,Bangladesh,18,Sabbir Rahman,7147f314,JD Unadkat,1e66c162,Taskin Ahmed,ef18b66e,0,0,0,0,0,,,,,,0,0,0
+1133818,2017/18,Bangladesh,18,Sabbir Rahman,7147f314,JD Unadkat,1e66c162,Taskin Ahmed,ef18b66e,1,0,0,0,0,,,,,,0,1,1
+1133818,2017/18,Bangladesh,18,Sabbir Rahman,7147f314,JD Unadkat,1e66c162,Taskin Ahmed,ef18b66e,1,0,0,0,0,,,,,,0,1,1
+1133818,2017/18,Bangladesh,18,Sabbir Rahman,7147f314,JD Unadkat,1e66c162,Taskin Ahmed,ef18b66e,0,0,0,0,1,Sabbir Rahman,7147f314,KD Karthik,c03f1114,caught,0,0,0
+1133818,2017/18,Bangladesh,18,Rubel Hossain,f56cd097,JD Unadkat,1e66c162,Taskin Ahmed,ef18b66e,0,0,0,0,0,,,,,,0,0,0
+1133818,2017/18,Bangladesh,19,Taskin Ahmed,ef18b66e,SN Thakur,1abb78f8,Rubel Hossain,f56cd097,0,0,0,0,0,,,,,,0,0,0
+1133818,2017/18,Bangladesh,19,Taskin Ahmed,ef18b66e,SN Thakur,1abb78f8,Rubel Hossain,f56cd097,0,0,0,0,1,Rubel Hossain,f56cd097,,,run out,1,0,1
+1133818,2017/18,Bangladesh,19,Taskin Ahmed,ef18b66e,SN Thakur,1abb78f8,Mustafizur Rahman,0a8fce53,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,Bangladesh,19,Mustafizur Rahman,0a8fce53,SN Thakur,1abb78f8,Taskin Ahmed,ef18b66e,0,0,0,0,0,,,,,,0,0,0
+1133818,2017/18,Bangladesh,19,Mustafizur Rahman,0a8fce53,SN Thakur,1abb78f8,Taskin Ahmed,ef18b66e,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,Bangladesh,19,Taskin Ahmed,ef18b66e,SN Thakur,1abb78f8,Mustafizur Rahman,0a8fce53,1,0,0,0,0,,,,,,0,1,1
+1133818,2017/18,Bangladesh,19,Taskin Ahmed,ef18b66e,SN Thakur,1abb78f8,Mustafizur Rahman,0a8fce53,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,India,0,RG Sharma,740742ef,Mustafizur Rahman,0a8fce53,S Dhawan,0a476045,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,India,0,S Dhawan,0a476045,Mustafizur Rahman,0a8fce53,RG Sharma,740742ef,0,0,0,0,0,,,,,,4,0,4
+1133818,2017/18,India,0,S Dhawan,0a476045,Mustafizur Rahman,0a8fce53,RG Sharma,740742ef,0,0,0,0,0,,,,,,2,0,2
+1133818,2017/18,India,0,S Dhawan,0a476045,Mustafizur Rahman,0a8fce53,RG Sharma,740742ef,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,India,0,RG Sharma,740742ef,Mustafizur Rahman,0a8fce53,S Dhawan,0a476045,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,India,0,S Dhawan,0a476045,Mustafizur Rahman,0a8fce53,RG Sharma,740742ef,0,0,0,0,0,,,,,,0,0,0
+1133818,2017/18,India,1,RG Sharma,740742ef,Taskin Ahmed,ef18b66e,S Dhawan,0a476045,0,0,0,0,0,,,,,,0,0,0
+1133818,2017/18,India,1,RG Sharma,740742ef,Taskin Ahmed,ef18b66e,S Dhawan,0a476045,0,0,0,0,0,,,,,,4,0,4
+1133818,2017/18,India,1,RG Sharma,740742ef,Taskin Ahmed,ef18b66e,S Dhawan,0a476045,0,0,0,0,0,,,,,,0,0,0
+1133818,2017/18,India,1,RG Sharma,740742ef,Taskin Ahmed,ef18b66e,S Dhawan,0a476045,0,0,0,0,0,,,,,,4,0,4
+1133818,2017/18,India,1,RG Sharma,740742ef,Taskin Ahmed,ef18b66e,S Dhawan,0a476045,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,India,1,S Dhawan,0a476045,Taskin Ahmed,ef18b66e,RG Sharma,740742ef,0,0,0,0,0,,,,,,0,0,0
+1133818,2017/18,India,2,RG Sharma,740742ef,Rubel Hossain,f56cd097,S Dhawan,0a476045,0,0,0,0,0,,,,,,4,0,4
+1133818,2017/18,India,2,RG Sharma,740742ef,Rubel Hossain,f56cd097,S Dhawan,0a476045,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,India,2,S Dhawan,0a476045,Rubel Hossain,f56cd097,RG Sharma,740742ef,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,India,2,RG Sharma,740742ef,Rubel Hossain,f56cd097,S Dhawan,0a476045,0,0,0,0,0,,,,,,0,0,0
+1133818,2017/18,India,2,RG Sharma,740742ef,Rubel Hossain,f56cd097,S Dhawan,0a476045,1,0,0,0,0,,,,,,0,1,1
+1133818,2017/18,India,2,RG Sharma,740742ef,Rubel Hossain,f56cd097,S Dhawan,0a476045,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,India,2,S Dhawan,0a476045,Rubel Hossain,f56cd097,RG Sharma,740742ef,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,India,3,S Dhawan,0a476045,Mustafizur Rahman,0a8fce53,RG Sharma,740742ef,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,India,3,RG Sharma,740742ef,Mustafizur Rahman,0a8fce53,S Dhawan,0a476045,0,0,0,0,0,,,,,,0,0,0
+1133818,2017/18,India,3,RG Sharma,740742ef,Mustafizur Rahman,0a8fce53,S Dhawan,0a476045,0,0,0,0,1,RG Sharma,740742ef,,,bowled,0,0,0
+1133818,2017/18,India,3,RR Pant,919a3be2,Mustafizur Rahman,0a8fce53,S Dhawan,0a476045,0,0,0,0,0,,,,,,0,0,0
+1133818,2017/18,India,3,RR Pant,919a3be2,Mustafizur Rahman,0a8fce53,S Dhawan,0a476045,0,0,0,0,0,,,,,,4,0,4
+1133818,2017/18,India,3,RR Pant,919a3be2,Mustafizur Rahman,0a8fce53,S Dhawan,0a476045,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,India,4,RR Pant,919a3be2,Mehedi Hasan Miraz,c58b0108,S Dhawan,0a476045,0,0,0,0,0,,,,,,0,0,0
+1133818,2017/18,India,4,RR Pant,919a3be2,Mehedi Hasan Miraz,c58b0108,S Dhawan,0a476045,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,India,4,S Dhawan,0a476045,Mehedi Hasan Miraz,c58b0108,RR Pant,919a3be2,0,0,0,0,0,,,,,,4,0,4
+1133818,2017/18,India,4,S Dhawan,0a476045,Mehedi Hasan Miraz,c58b0108,RR Pant,919a3be2,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,India,4,RR Pant,919a3be2,Mehedi Hasan Miraz,c58b0108,S Dhawan,0a476045,0,0,0,0,0,,,,,,0,0,0
+1133818,2017/18,India,4,RR Pant,919a3be2,Mehedi Hasan Miraz,c58b0108,S Dhawan,0a476045,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,India,5,RR Pant,919a3be2,Rubel Hossain,f56cd097,S Dhawan,0a476045,0,0,0,0,1,RR Pant,919a3be2,,,bowled,0,0,0
+1133818,2017/18,India,5,SK Raina,1dc12ab9,Rubel Hossain,f56cd097,S Dhawan,0a476045,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,India,5,S Dhawan,0a476045,Rubel Hossain,f56cd097,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,4,0,4
+1133818,2017/18,India,5,S Dhawan,0a476045,Rubel Hossain,f56cd097,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,India,5,SK Raina,1dc12ab9,Rubel Hossain,f56cd097,S Dhawan,0a476045,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,India,5,S Dhawan,0a476045,Rubel Hossain,f56cd097,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,0,0,0
+1133818,2017/18,India,6,SK Raina,1dc12ab9,Mehedi Hasan Miraz,c58b0108,S Dhawan,0a476045,0,0,0,0,0,,,,,,0,0,0
+1133818,2017/18,India,6,SK Raina,1dc12ab9,Mehedi Hasan Miraz,c58b0108,S Dhawan,0a476045,0,0,0,0,0,,,,,,6,0,6
+1133818,2017/18,India,6,SK Raina,1dc12ab9,Mehedi Hasan Miraz,c58b0108,S Dhawan,0a476045,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,India,6,S Dhawan,0a476045,Mehedi Hasan Miraz,c58b0108,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,India,6,SK Raina,1dc12ab9,Mehedi Hasan Miraz,c58b0108,S Dhawan,0a476045,0,0,0,0,0,,,,,,0,0,0
+1133818,2017/18,India,6,SK Raina,1dc12ab9,Mehedi Hasan Miraz,c58b0108,S Dhawan,0a476045,0,0,0,0,0,,,,,,0,0,0
+1133818,2017/18,India,7,S Dhawan,0a476045,Taskin Ahmed,ef18b66e,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,6,0,6
+1133818,2017/18,India,7,S Dhawan,0a476045,Taskin Ahmed,ef18b66e,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,4,0,4
+1133818,2017/18,India,7,S Dhawan,0a476045,Taskin Ahmed,ef18b66e,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,0,0,0
+1133818,2017/18,India,7,S Dhawan,0a476045,Taskin Ahmed,ef18b66e,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,India,7,SK Raina,1dc12ab9,Taskin Ahmed,ef18b66e,S Dhawan,0a476045,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,India,7,S Dhawan,0a476045,Taskin Ahmed,ef18b66e,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,India,8,S Dhawan,0a476045,Mehedi Hasan Miraz,c58b0108,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,India,8,SK Raina,1dc12ab9,Mehedi Hasan Miraz,c58b0108,S Dhawan,0a476045,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,India,8,S Dhawan,0a476045,Mehedi Hasan Miraz,c58b0108,SK Raina,1dc12ab9,0,0,1,0,0,,,,,,0,1,1
+1133818,2017/18,India,8,SK Raina,1dc12ab9,Mehedi Hasan Miraz,c58b0108,S Dhawan,0a476045,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,India,8,S Dhawan,0a476045,Mehedi Hasan Miraz,c58b0108,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,India,8,SK Raina,1dc12ab9,Mehedi Hasan Miraz,c58b0108,S Dhawan,0a476045,0,0,0,0,0,,,,,,0,0,0
+1133818,2017/18,India,9,S Dhawan,0a476045,Soumya Sarkar,4d9f9686,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,0,0,0
+1133818,2017/18,India,9,S Dhawan,0a476045,Soumya Sarkar,4d9f9686,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,India,9,SK Raina,1dc12ab9,Soumya Sarkar,4d9f9686,S Dhawan,0a476045,1,0,0,0,0,,,,,,0,1,1
+1133818,2017/18,India,9,SK Raina,1dc12ab9,Soumya Sarkar,4d9f9686,S Dhawan,0a476045,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,India,9,S Dhawan,0a476045,Soumya Sarkar,4d9f9686,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,India,9,SK Raina,1dc12ab9,Soumya Sarkar,4d9f9686,S Dhawan,0a476045,0,0,0,0,0,,,,,,0,0,0
+1133818,2017/18,India,9,SK Raina,1dc12ab9,Soumya Sarkar,4d9f9686,S Dhawan,0a476045,0,0,0,0,0,,,,,,4,0,4
+1133818,2017/18,India,10,S Dhawan,0a476045,Mehedi Hasan Miraz,c58b0108,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,India,10,SK Raina,1dc12ab9,Mehedi Hasan Miraz,c58b0108,S Dhawan,0a476045,0,0,0,0,0,,,,,,0,0,0
+1133818,2017/18,India,10,SK Raina,1dc12ab9,Mehedi Hasan Miraz,c58b0108,S Dhawan,0a476045,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,India,10,S Dhawan,0a476045,Mehedi Hasan Miraz,c58b0108,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,0,0,0
+1133818,2017/18,India,10,S Dhawan,0a476045,Mehedi Hasan Miraz,c58b0108,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,0,0,0
+1133818,2017/18,India,10,S Dhawan,0a476045,Mehedi Hasan Miraz,c58b0108,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,0,0,0
+1133818,2017/18,India,11,SK Raina,1dc12ab9,Mustafizur Rahman,0a8fce53,S Dhawan,0a476045,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,India,11,S Dhawan,0a476045,Mustafizur Rahman,0a8fce53,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,India,11,SK Raina,1dc12ab9,Mustafizur Rahman,0a8fce53,S Dhawan,0a476045,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,India,11,S Dhawan,0a476045,Mustafizur Rahman,0a8fce53,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,India,11,SK Raina,1dc12ab9,Mustafizur Rahman,0a8fce53,S Dhawan,0a476045,0,0,0,0,0,,,,,,0,0,0
+1133818,2017/18,India,11,SK Raina,1dc12ab9,Mustafizur Rahman,0a8fce53,S Dhawan,0a476045,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,India,12,SK Raina,1dc12ab9,Mahmudullah,bf1d7d3e,S Dhawan,0a476045,0,0,0,0,0,,,,,,2,0,2
+1133818,2017/18,India,12,SK Raina,1dc12ab9,Mahmudullah,bf1d7d3e,S Dhawan,0a476045,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,India,12,S Dhawan,0a476045,Mahmudullah,bf1d7d3e,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,6,0,6
+1133818,2017/18,India,12,S Dhawan,0a476045,Mahmudullah,bf1d7d3e,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,India,12,SK Raina,1dc12ab9,Mahmudullah,bf1d7d3e,S Dhawan,0a476045,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,India,12,S Dhawan,0a476045,Mahmudullah,bf1d7d3e,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,0,0,0
+1133818,2017/18,India,13,SK Raina,1dc12ab9,Nazmul Islam,6575e3bc,S Dhawan,0a476045,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,India,13,S Dhawan,0a476045,Nazmul Islam,6575e3bc,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,4,0,4
+1133818,2017/18,India,13,S Dhawan,0a476045,Nazmul Islam,6575e3bc,SK Raina,1dc12ab9,0,0,0,1,0,,,,,,0,1,1
+1133818,2017/18,India,13,SK Raina,1dc12ab9,Nazmul Islam,6575e3bc,S Dhawan,0a476045,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,India,13,S Dhawan,0a476045,Nazmul Islam,6575e3bc,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,India,13,SK Raina,1dc12ab9,Nazmul Islam,6575e3bc,S Dhawan,0a476045,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,India,14,SK Raina,1dc12ab9,Rubel Hossain,f56cd097,S Dhawan,0a476045,0,0,0,0,1,SK Raina,1dc12ab9,Mehedi Hasan Miraz,c58b0108,caught,0,0,0
+1133818,2017/18,India,14,MK Pandey,93b4fc78,Rubel Hossain,f56cd097,S Dhawan,0a476045,0,0,0,0,0,,,,,,2,0,2
+1133818,2017/18,India,14,MK Pandey,93b4fc78,Rubel Hossain,f56cd097,S Dhawan,0a476045,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,India,14,S Dhawan,0a476045,Rubel Hossain,f56cd097,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,0,0,0
+1133818,2017/18,India,14,S Dhawan,0a476045,Rubel Hossain,f56cd097,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,India,14,MK Pandey,93b4fc78,Rubel Hossain,f56cd097,S Dhawan,0a476045,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,India,15,MK Pandey,93b4fc78,Nazmul Islam,6575e3bc,S Dhawan,0a476045,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,India,15,S Dhawan,0a476045,Nazmul Islam,6575e3bc,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,India,15,MK Pandey,93b4fc78,Nazmul Islam,6575e3bc,S Dhawan,0a476045,0,0,0,0,0,,,,,,0,0,0
+1133818,2017/18,India,15,MK Pandey,93b4fc78,Nazmul Islam,6575e3bc,S Dhawan,0a476045,0,0,0,0,0,,,,,,4,0,4
+1133818,2017/18,India,15,MK Pandey,93b4fc78,Nazmul Islam,6575e3bc,S Dhawan,0a476045,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,India,15,S Dhawan,0a476045,Nazmul Islam,6575e3bc,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,0,0,0
+1133818,2017/18,India,16,MK Pandey,93b4fc78,Taskin Ahmed,ef18b66e,S Dhawan,0a476045,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,India,16,S Dhawan,0a476045,Taskin Ahmed,ef18b66e,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,India,16,MK Pandey,93b4fc78,Taskin Ahmed,ef18b66e,S Dhawan,0a476045,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,India,16,S Dhawan,0a476045,Taskin Ahmed,ef18b66e,MK Pandey,93b4fc78,0,0,0,0,1,S Dhawan,0a476045,Liton Das,0404d43c,caught,0,0,0
+1133818,2017/18,India,16,MK Pandey,93b4fc78,Taskin Ahmed,ef18b66e,KD Karthik,c03f1114,0,0,0,0,0,,,,,,2,0,2
+1133818,2017/18,India,16,MK Pandey,93b4fc78,Taskin Ahmed,ef18b66e,KD Karthik,c03f1114,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,India,17,MK Pandey,93b4fc78,Mustafizur Rahman,0a8fce53,KD Karthik,c03f1114,0,0,0,0,0,,,,,,4,0,4
+1133818,2017/18,India,17,MK Pandey,93b4fc78,Mustafizur Rahman,0a8fce53,KD Karthik,c03f1114,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,India,17,KD Karthik,c03f1114,Mustafizur Rahman,0a8fce53,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,India,17,MK Pandey,93b4fc78,Mustafizur Rahman,0a8fce53,KD Karthik,c03f1114,0,0,0,0,0,,,,,,0,0,0
+1133818,2017/18,India,17,MK Pandey,93b4fc78,Mustafizur Rahman,0a8fce53,KD Karthik,c03f1114,0,0,0,0,0,,,,,,4,0,4
+1133818,2017/18,India,17,MK Pandey,93b4fc78,Mustafizur Rahman,0a8fce53,KD Karthik,c03f1114,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,India,18,MK Pandey,93b4fc78,Rubel Hossain,f56cd097,KD Karthik,c03f1114,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,India,18,KD Karthik,c03f1114,Rubel Hossain,f56cd097,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,1,0,1
+1133818,2017/18,India,18,MK Pandey,93b4fc78,Rubel Hossain,f56cd097,KD Karthik,c03f1114,0,0,0,0,0,,,,,,0,0,0
+1133818,2017/18,India,18,MK Pandey,93b4fc78,Rubel Hossain,f56cd097,KD Karthik,c03f1114,0,0,0,0,0,,,,,,1,0,1
