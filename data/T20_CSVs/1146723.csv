@@ -1,0 +1,184 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1146723,2018,Bangladesh,0,Tamim Iqbal,3b041a12,AR Nurse,4a745f65,Soumya Sarkar,4d9f9686,0,0,0,0,1,Tamim Iqbal,3b041a12,D Ramdin,d1523761,stumped,0,0,0
+1146723,2018,Bangladesh,0,Liton Das,0404d43c,AR Nurse,4a745f65,Soumya Sarkar,4d9f9686,0,0,0,0,0,,,,,,4,0,4
+1146723,2018,Bangladesh,0,Liton Das,0404d43c,AR Nurse,4a745f65,Soumya Sarkar,4d9f9686,0,0,0,0,0,,,,,,1,0,1
+1146723,2018,Bangladesh,0,Soumya Sarkar,4d9f9686,AR Nurse,4a745f65,Liton Das,0404d43c,0,0,0,0,1,Soumya Sarkar,4d9f9686,,,bowled,0,0,0
+1146723,2018,Bangladesh,0,Shakib Al Hasan,7dc35884,AR Nurse,4a745f65,Liton Das,0404d43c,0,0,0,0,0,,,,,,1,0,1
+1146723,2018,Bangladesh,0,Liton Das,0404d43c,AR Nurse,4a745f65,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+1146723,2018,Bangladesh,1,Shakib Al Hasan,7dc35884,AD Russell,bbd41817,Liton Das,0404d43c,0,0,0,0,0,,,,,,1,0,1
+1146723,2018,Bangladesh,1,Liton Das,0404d43c,AD Russell,bbd41817,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+1146723,2018,Bangladesh,1,Liton Das,0404d43c,AD Russell,bbd41817,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+1146723,2018,Bangladesh,1,Liton Das,0404d43c,AD Russell,bbd41817,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+1146723,2018,Bangladesh,1,Liton Das,0404d43c,AD Russell,bbd41817,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+1146723,2018,Bangladesh,1,Liton Das,0404d43c,AD Russell,bbd41817,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+1146723,2018,Bangladesh,2,Liton Das,0404d43c,S Badree,76388dc8,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+1146723,2018,Bangladesh,2,Liton Das,0404d43c,S Badree,76388dc8,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+1146723,2018,Bangladesh,2,Liton Das,0404d43c,S Badree,76388dc8,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,4,0,4
+1146723,2018,Bangladesh,2,Liton Das,0404d43c,S Badree,76388dc8,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,4,0,4
+1146723,2018,Bangladesh,2,Liton Das,0404d43c,S Badree,76388dc8,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+1146723,2018,Bangladesh,2,Liton Das,0404d43c,S Badree,76388dc8,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+1146723,2018,Bangladesh,3,Liton Das,0404d43c,AD Russell,bbd41817,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+1146723,2018,Bangladesh,3,Liton Das,0404d43c,AD Russell,bbd41817,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,3,0,3
+1146723,2018,Bangladesh,3,Shakib Al Hasan,7dc35884,AD Russell,bbd41817,Liton Das,0404d43c,0,0,0,0,0,,,,,,4,0,4
+1146723,2018,Bangladesh,3,Shakib Al Hasan,7dc35884,AD Russell,bbd41817,Liton Das,0404d43c,0,0,0,0,0,,,,,,0,0,0
+1146723,2018,Bangladesh,3,Shakib Al Hasan,7dc35884,AD Russell,bbd41817,Liton Das,0404d43c,0,0,0,0,0,,,,,,4,0,4
+1146723,2018,Bangladesh,3,Shakib Al Hasan,7dc35884,AD Russell,bbd41817,Liton Das,0404d43c,0,0,0,0,0,,,,,,4,0,4
+1146723,2018,Bangladesh,4,Liton Das,0404d43c,S Badree,76388dc8,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+1146723,2018,Bangladesh,4,Shakib Al Hasan,7dc35884,S Badree,76388dc8,Liton Das,0404d43c,0,0,0,0,0,,,,,,4,0,4
+1146723,2018,Bangladesh,4,Shakib Al Hasan,7dc35884,S Badree,76388dc8,Liton Das,0404d43c,0,0,0,0,0,,,,,,0,0,0
+1146723,2018,Bangladesh,4,Shakib Al Hasan,7dc35884,S Badree,76388dc8,Liton Das,0404d43c,0,0,0,0,0,,,,,,1,0,1
+1146723,2018,Bangladesh,4,Liton Das,0404d43c,S Badree,76388dc8,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,2,0,2
+1146723,2018,Bangladesh,4,Liton Das,0404d43c,S Badree,76388dc8,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+1146723,2018,Bangladesh,5,Liton Das,0404d43c,KMA Paul,75224f22,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,2,0,2
+1146723,2018,Bangladesh,5,Liton Das,0404d43c,KMA Paul,75224f22,Shakib Al Hasan,7dc35884,0,0,0,0,1,Liton Das,0404d43c,ADS Fletcher,1bae756b,caught,0,0,0
+1146723,2018,Bangladesh,5,Shakib Al Hasan,7dc35884,KMA Paul,75224f22,Mushfiqur Rahim,a94e08ea,0,0,0,0,1,Shakib Al Hasan,7dc35884,KOK Williams,78cb83f3,caught,0,0,0
+1146723,2018,Bangladesh,5,Mahmudullah,bf1d7d3e,KMA Paul,75224f22,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,0,0,0
+1146723,2018,Bangladesh,5,Mahmudullah,bf1d7d3e,KMA Paul,75224f22,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,0,0,0
+1146723,2018,Bangladesh,5,Mahmudullah,bf1d7d3e,KMA Paul,75224f22,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,0,0,0
+1146723,2018,Bangladesh,6,Mushfiqur Rahim,a94e08ea,S Badree,76388dc8,Mahmudullah,bf1d7d3e,0,0,0,0,0,,,,,,1,0,1
+1146723,2018,Bangladesh,6,Mahmudullah,bf1d7d3e,S Badree,76388dc8,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,1,0,1
+1146723,2018,Bangladesh,6,Mushfiqur Rahim,a94e08ea,S Badree,76388dc8,Mahmudullah,bf1d7d3e,0,0,0,0,0,,,,,,1,0,1
+1146723,2018,Bangladesh,6,Mahmudullah,bf1d7d3e,S Badree,76388dc8,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,4,0,4
+1146723,2018,Bangladesh,6,Mahmudullah,bf1d7d3e,S Badree,76388dc8,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,4,0,4
+1146723,2018,Bangladesh,6,Mahmudullah,bf1d7d3e,S Badree,76388dc8,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,6,0,6
+1146723,2018,Bangladesh,7,Mushfiqur Rahim,a94e08ea,KMA Paul,75224f22,Mahmudullah,bf1d7d3e,1,0,0,0,0,,,,,,0,1,1
+1146723,2018,Bangladesh,7,Mushfiqur Rahim,a94e08ea,KMA Paul,75224f22,Mahmudullah,bf1d7d3e,0,0,0,0,0,,,,,,1,0,1
+1146723,2018,Bangladesh,7,Mahmudullah,bf1d7d3e,KMA Paul,75224f22,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,0,0,0
+1146723,2018,Bangladesh,7,Mahmudullah,bf1d7d3e,KMA Paul,75224f22,Mushfiqur Rahim,a94e08ea,1,0,0,0,0,,,,,,0,1,1
+1146723,2018,Bangladesh,7,Mahmudullah,bf1d7d3e,KMA Paul,75224f22,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,1,0,1
+1146723,2018,Bangladesh,7,Mushfiqur Rahim,a94e08ea,KMA Paul,75224f22,Mahmudullah,bf1d7d3e,0,0,0,0,0,,,,,,1,0,1
+1146723,2018,Bangladesh,7,Mahmudullah,bf1d7d3e,KMA Paul,75224f22,Mushfiqur Rahim,a94e08ea,1,0,0,0,0,,,,,,0,1,1
+1146723,2018,Bangladesh,7,Mahmudullah,bf1d7d3e,KMA Paul,75224f22,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,0,0,0
+1146723,2018,Bangladesh,7,Mahmudullah,bf1d7d3e,KMA Paul,75224f22,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,6,0,6
+1146723,2018,Bangladesh,8,Mushfiqur Rahim,a94e08ea,CR Brathwaite,e342e5fb,Mahmudullah,bf1d7d3e,0,0,0,0,0,,,,,,1,0,1
+1146723,2018,Bangladesh,8,Mahmudullah,bf1d7d3e,CR Brathwaite,e342e5fb,Mushfiqur Rahim,a94e08ea,5,0,0,0,0,,,,,,0,5,5
+1146723,2018,Bangladesh,8,Mahmudullah,bf1d7d3e,CR Brathwaite,e342e5fb,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,1,0,1
+1146723,2018,Bangladesh,8,Mushfiqur Rahim,a94e08ea,CR Brathwaite,e342e5fb,Mahmudullah,bf1d7d3e,0,0,0,0,0,,,,,,2,0,2
+1146723,2018,Bangladesh,8,Mushfiqur Rahim,a94e08ea,CR Brathwaite,e342e5fb,Mahmudullah,bf1d7d3e,0,0,0,0,0,,,,,,0,0,0
+1146723,2018,Bangladesh,8,Mushfiqur Rahim,a94e08ea,CR Brathwaite,e342e5fb,Mahmudullah,bf1d7d3e,0,0,0,0,0,,,,,,0,0,0
+1146723,2018,Bangladesh,8,Mushfiqur Rahim,a94e08ea,CR Brathwaite,e342e5fb,Mahmudullah,bf1d7d3e,0,0,0,0,0,,,,,,4,0,4
+1146723,2018,Bangladesh,9,Mahmudullah,bf1d7d3e,KOK Williams,78cb83f3,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,1,0,1
+1146723,2018,Bangladesh,9,Mushfiqur Rahim,a94e08ea,KOK Williams,78cb83f3,Mahmudullah,bf1d7d3e,0,0,0,0,0,,,,,,4,0,4
+1146723,2018,Bangladesh,9,Mushfiqur Rahim,a94e08ea,KOK Williams,78cb83f3,Mahmudullah,bf1d7d3e,0,0,0,0,1,Mushfiqur Rahim,a94e08ea,R Powell,650d5e49,caught,0,0,0
+1146723,2018,Bangladesh,9,Ariful Haque,ad1730bc,KOK Williams,78cb83f3,Mahmudullah,bf1d7d3e,0,0,1,0,0,,,,,,0,1,1
+1146723,2018,Bangladesh,9,Mahmudullah,bf1d7d3e,KOK Williams,78cb83f3,Ariful Haque,ad1730bc,0,0,0,0,0,,,,,,4,0,4
+1146723,2018,Bangladesh,9,Mahmudullah,bf1d7d3e,KOK Williams,78cb83f3,Ariful Haque,ad1730bc,0,0,0,0,0,,,,,,0,0,0
+1146723,2018,Bangladesh,10,Ariful Haque,ad1730bc,AD Russell,bbd41817,Mahmudullah,bf1d7d3e,0,0,0,0,0,,,,,,1,0,1
+1146723,2018,Bangladesh,10,Mahmudullah,bf1d7d3e,AD Russell,bbd41817,Ariful Haque,ad1730bc,0,0,0,0,0,,,,,,1,0,1
+1146723,2018,Bangladesh,10,Ariful Haque,ad1730bc,AD Russell,bbd41817,Mahmudullah,bf1d7d3e,0,0,0,0,0,,,,,,1,0,1
+1146723,2018,Bangladesh,10,Mahmudullah,bf1d7d3e,AD Russell,bbd41817,Ariful Haque,ad1730bc,0,0,0,0,0,,,,,,0,0,0
+1146723,2018,Bangladesh,10,Mahmudullah,bf1d7d3e,AD Russell,bbd41817,Ariful Haque,ad1730bc,0,0,0,0,0,,,,,,1,0,1
+1146723,2018,Bangladesh,10,Ariful Haque,ad1730bc,AD Russell,bbd41817,Mahmudullah,bf1d7d3e,0,0,0,0,0,,,,,,1,0,1
+1146723,2018,Bangladesh,11,Ariful Haque,ad1730bc,KOK Williams,78cb83f3,Mahmudullah,bf1d7d3e,0,0,0,0,0,,,,,,1,0,1
+1146723,2018,Bangladesh,11,Mahmudullah,bf1d7d3e,KOK Williams,78cb83f3,Ariful Haque,ad1730bc,0,0,0,0,0,,,,,,1,0,1
+1146723,2018,Bangladesh,11,Ariful Haque,ad1730bc,KOK Williams,78cb83f3,Mahmudullah,bf1d7d3e,0,0,0,0,0,,,,,,2,0,2
+1146723,2018,Bangladesh,11,Ariful Haque,ad1730bc,KOK Williams,78cb83f3,Mahmudullah,bf1d7d3e,0,0,0,0,0,,,,,,1,0,1
+1146723,2018,Bangladesh,11,Mahmudullah,bf1d7d3e,KOK Williams,78cb83f3,Ariful Haque,ad1730bc,0,0,0,0,0,,,,,,1,0,1
+1146723,2018,Bangladesh,11,Ariful Haque,ad1730bc,KOK Williams,78cb83f3,Mahmudullah,bf1d7d3e,0,0,0,0,0,,,,,,1,0,1
+1146723,2018,Bangladesh,12,Ariful Haque,ad1730bc,CR Brathwaite,e342e5fb,Mahmudullah,bf1d7d3e,0,0,0,0,0,,,,,,0,0,0
+1146723,2018,Bangladesh,12,Ariful Haque,ad1730bc,CR Brathwaite,e342e5fb,Mahmudullah,bf1d7d3e,0,0,0,0,0,,,,,,0,0,0
+1146723,2018,Bangladesh,12,Ariful Haque,ad1730bc,CR Brathwaite,e342e5fb,Mahmudullah,bf1d7d3e,0,0,0,0,0,,,,,,0,0,0
+1146723,2018,Bangladesh,12,Ariful Haque,ad1730bc,CR Brathwaite,e342e5fb,Mahmudullah,bf1d7d3e,0,0,0,0,0,,,,,,0,0,0
+1146723,2018,Bangladesh,12,Ariful Haque,ad1730bc,CR Brathwaite,e342e5fb,Mahmudullah,bf1d7d3e,0,0,0,0,0,,,,,,1,0,1
+1146723,2018,Bangladesh,12,Mahmudullah,bf1d7d3e,CR Brathwaite,e342e5fb,Ariful Haque,ad1730bc,0,0,0,0,0,,,,,,0,0,0
+1146723,2018,Bangladesh,13,Ariful Haque,ad1730bc,KMA Paul,75224f22,Mahmudullah,bf1d7d3e,0,0,0,0,0,,,,,,4,0,4
+1146723,2018,Bangladesh,13,Ariful Haque,ad1730bc,KMA Paul,75224f22,Mahmudullah,bf1d7d3e,0,0,0,0,0,,,,,,1,0,1
+1146723,2018,Bangladesh,13,Mahmudullah,bf1d7d3e,KMA Paul,75224f22,Ariful Haque,ad1730bc,0,0,0,0,0,,,,,,1,0,1
+1146723,2018,Bangladesh,13,Ariful Haque,ad1730bc,KMA Paul,75224f22,Mahmudullah,bf1d7d3e,1,0,0,0,0,,,,,,0,1,1
+1146723,2018,Bangladesh,13,Ariful Haque,ad1730bc,KMA Paul,75224f22,Mahmudullah,bf1d7d3e,0,0,0,0,0,,,,,,0,0,0
+1146723,2018,Bangladesh,13,Ariful Haque,ad1730bc,KMA Paul,75224f22,Mahmudullah,bf1d7d3e,0,0,0,0,0,,,,,,1,0,1
+1146723,2018,Bangladesh,13,Mahmudullah,bf1d7d3e,KMA Paul,75224f22,Ariful Haque,ad1730bc,0,0,0,0,0,,,,,,0,0,0
+1146723,2018,Bangladesh,14,Ariful Haque,ad1730bc,AD Russell,bbd41817,Mahmudullah,bf1d7d3e,0,0,0,0,1,Ariful Haque,ad1730bc,,,bowled,0,0,0
+1146723,2018,Bangladesh,14,Mehedi Hasan Miraz,c58b0108,AD Russell,bbd41817,Mahmudullah,bf1d7d3e,0,0,0,0,0,,,,,,0,0,0
+1146723,2018,Bangladesh,14,Mehedi Hasan Miraz,c58b0108,AD Russell,bbd41817,Mahmudullah,bf1d7d3e,0,0,0,0,0,,,,,,4,0,4
+1146723,2018,Bangladesh,14,Mehedi Hasan Miraz,c58b0108,AD Russell,bbd41817,Mahmudullah,bf1d7d3e,0,0,0,0,0,,,,,,0,0,0
+1146723,2018,Bangladesh,14,Mehedi Hasan Miraz,c58b0108,AD Russell,bbd41817,Mahmudullah,bf1d7d3e,0,0,0,0,0,,,,,,1,0,1
+1146723,2018,Bangladesh,14,Mahmudullah,bf1d7d3e,AD Russell,bbd41817,Mehedi Hasan Miraz,c58b0108,0,0,0,0,0,,,,,,0,0,0
+1146723,2018,Bangladesh,15,Mehedi Hasan Miraz,c58b0108,CR Brathwaite,e342e5fb,Mahmudullah,bf1d7d3e,0,0,0,0,0,,,,,,0,0,0
+1146723,2018,Bangladesh,15,Mehedi Hasan Miraz,c58b0108,CR Brathwaite,e342e5fb,Mahmudullah,bf1d7d3e,0,0,0,0,0,,,,,,1,0,1
+1146723,2018,Bangladesh,15,Mahmudullah,bf1d7d3e,CR Brathwaite,e342e5fb,Mehedi Hasan Miraz,c58b0108,0,0,0,0,0,,,,,,1,0,1
+1146723,2018,Bangladesh,15,Mehedi Hasan Miraz,c58b0108,CR Brathwaite,e342e5fb,Mahmudullah,bf1d7d3e,0,0,0,0,0,,,,,,1,0,1
+1146723,2018,Bangladesh,15,Mahmudullah,bf1d7d3e,CR Brathwaite,e342e5fb,Mehedi Hasan Miraz,c58b0108,0,0,0,0,0,,,,,,1,0,1
+1146723,2018,Bangladesh,15,Mehedi Hasan Miraz,c58b0108,CR Brathwaite,e342e5fb,Mahmudullah,bf1d7d3e,0,0,0,0,0,,,,,,0,0,0
+1146723,2018,Bangladesh,16,Mahmudullah,bf1d7d3e,KOK Williams,78cb83f3,Mehedi Hasan Miraz,c58b0108,0,0,0,0,1,Mahmudullah,bf1d7d3e,,,bowled,0,0,0
+1146723,2018,Bangladesh,16,Nazmul Islam,6575e3bc,KOK Williams,78cb83f3,Mehedi Hasan Miraz,c58b0108,0,0,0,0,0,,,,,,0,0,0
+1146723,2018,Bangladesh,16,Nazmul Islam,6575e3bc,KOK Williams,78cb83f3,Mehedi Hasan Miraz,c58b0108,0,0,0,0,0,,,,,,1,0,1
+1146723,2018,Bangladesh,16,Mehedi Hasan Miraz,c58b0108,KOK Williams,78cb83f3,Nazmul Islam,6575e3bc,0,0,0,0,0,,,,,,2,0,2
+1146723,2018,Bangladesh,16,Mehedi Hasan Miraz,c58b0108,KOK Williams,78cb83f3,Nazmul Islam,6575e3bc,0,0,0,0,0,,,,,,1,0,1
+1146723,2018,Bangladesh,16,Nazmul Islam,6575e3bc,KOK Williams,78cb83f3,Mehedi Hasan Miraz,c58b0108,0,0,0,0,0,,,,,,1,0,1
+1146723,2018,Bangladesh,17,Nazmul Islam,6575e3bc,KMA Paul,75224f22,Mehedi Hasan Miraz,c58b0108,0,0,0,0,0,,,,,,0,0,0
+1146723,2018,Bangladesh,17,Nazmul Islam,6575e3bc,KMA Paul,75224f22,Mehedi Hasan Miraz,c58b0108,0,0,0,0,0,,,,,,0,0,0
+1146723,2018,Bangladesh,17,Nazmul Islam,6575e3bc,KMA Paul,75224f22,Mehedi Hasan Miraz,c58b0108,0,0,0,0,0,,,,,,0,0,0
+1146723,2018,Bangladesh,17,Nazmul Islam,6575e3bc,KMA Paul,75224f22,Mehedi Hasan Miraz,c58b0108,0,0,0,0,0,,,,,,1,0,1
+1146723,2018,Bangladesh,17,Mehedi Hasan Miraz,c58b0108,KMA Paul,75224f22,Nazmul Islam,6575e3bc,0,0,0,0,0,,,,,,0,0,0
+1146723,2018,Bangladesh,17,Mehedi Hasan Miraz,c58b0108,KMA Paul,75224f22,Nazmul Islam,6575e3bc,0,0,0,0,0,,,,,,1,0,1
+1146723,2018,Bangladesh,18,Mehedi Hasan Miraz,c58b0108,KOK Williams,78cb83f3,Nazmul Islam,6575e3bc,0,0,0,0,1,Mehedi Hasan Miraz,c58b0108,AR Nurse,4a745f65,caught,0,0,0
+1146723,2018,Bangladesh,18,Nazmul Islam,6575e3bc,KOK Williams,78cb83f3,Rubel Hossain,f56cd097,1,0,0,0,0,,,,,,0,1,1
+1146723,2018,Bangladesh,18,Nazmul Islam,6575e3bc,KOK Williams,78cb83f3,Rubel Hossain,f56cd097,0,0,0,0,0,,,,,,4,0,4
+1146723,2018,Bangladesh,18,Nazmul Islam,6575e3bc,KOK Williams,78cb83f3,Rubel Hossain,f56cd097,0,0,0,0,1,Nazmul Islam,6575e3bc,D Ramdin,d1523761,caught,0,0,0
+1146723,2018,Bangladesh,18,Mustafizur Rahman,0a8fce53,KOK Williams,78cb83f3,Rubel Hossain,f56cd097,0,0,0,0,0,,,,,,0,0,0
+1146723,2018,Bangladesh,18,Mustafizur Rahman,0a8fce53,KOK Williams,78cb83f3,Rubel Hossain,f56cd097,0,0,0,0,0,,,,,,1,0,1
+1146723,2018,Bangladesh,18,Rubel Hossain,f56cd097,KOK Williams,78cb83f3,Mustafizur Rahman,0a8fce53,0,0,0,0,0,,,,,,1,0,1
+1146723,2018,Bangladesh,19,Rubel Hossain,f56cd097,CR Brathwaite,e342e5fb,Mustafizur Rahman,0a8fce53,0,0,1,0,0,,,,,,0,1,1
+1146723,2018,Bangladesh,19,Mustafizur Rahman,0a8fce53,CR Brathwaite,e342e5fb,Rubel Hossain,f56cd097,0,0,0,0,0,,,,,,1,0,1
+1146723,2018,Bangladesh,19,Rubel Hossain,f56cd097,CR Brathwaite,e342e5fb,Mustafizur Rahman,0a8fce53,0,0,0,0,0,,,,,,0,0,0
+1146723,2018,Bangladesh,19,Rubel Hossain,f56cd097,CR Brathwaite,e342e5fb,Mustafizur Rahman,0a8fce53,0,0,0,0,0,,,,,,1,0,1
+1146723,2018,Bangladesh,19,Mustafizur Rahman,0a8fce53,CR Brathwaite,e342e5fb,Rubel Hossain,f56cd097,0,0,0,0,0,,,,,,0,0,0
+1146723,2018,Bangladesh,19,Mustafizur Rahman,0a8fce53,CR Brathwaite,e342e5fb,Rubel Hossain,f56cd097,0,0,0,0,0,,,,,,1,0,1
+1146723,2018,West Indies,0,ADS Fletcher,1bae756b,Mehedi Hasan Miraz,c58b0108,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,1,0,1
+1146723,2018,West Indies,0,E Lewis,0ebfb1ad,Mehedi Hasan Miraz,c58b0108,ADS Fletcher,1bae756b,0,0,0,0,0,,,,,,0,0,0
+1146723,2018,West Indies,0,E Lewis,0ebfb1ad,Mehedi Hasan Miraz,c58b0108,ADS Fletcher,1bae756b,0,0,0,0,0,,,,,,1,0,1
+1146723,2018,West Indies,0,ADS Fletcher,1bae756b,Mehedi Hasan Miraz,c58b0108,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,6,0,6
+1146723,2018,West Indies,0,ADS Fletcher,1bae756b,Mehedi Hasan Miraz,c58b0108,E Lewis,0ebfb1ad,0,0,0,1,0,,,,,,0,1,1
+1146723,2018,West Indies,0,E Lewis,0ebfb1ad,Mehedi Hasan Miraz,c58b0108,ADS Fletcher,1bae756b,0,0,0,0,0,,,,,,1,0,1
+1146723,2018,West Indies,1,E Lewis,0ebfb1ad,Mustafizur Rahman,0a8fce53,ADS Fletcher,1bae756b,0,0,0,0,0,,,,,,0,0,0
+1146723,2018,West Indies,1,E Lewis,0ebfb1ad,Mustafizur Rahman,0a8fce53,ADS Fletcher,1bae756b,0,0,0,0,1,E Lewis,0ebfb1ad,Liton Das,0404d43c,caught,0,0,0
+1146723,2018,West Indies,1,ADS Fletcher,1bae756b,Mustafizur Rahman,0a8fce53,AD Russell,bbd41817,0,0,0,0,0,,,,,,0,0,0
+1146723,2018,West Indies,1,ADS Fletcher,1bae756b,Mustafizur Rahman,0a8fce53,AD Russell,bbd41817,0,0,0,0,0,,,,,,0,0,0
+1146723,2018,West Indies,1,ADS Fletcher,1bae756b,Mustafizur Rahman,0a8fce53,AD Russell,bbd41817,0,0,0,0,0,,,,,,0,0,0
+1146723,2018,West Indies,1,ADS Fletcher,1bae756b,Mustafizur Rahman,0a8fce53,AD Russell,bbd41817,0,0,0,0,1,ADS Fletcher,1bae756b,Mushfiqur Rahim,a94e08ea,caught,0,0,0
+1146723,2018,West Indies,2,AD Russell,bbd41817,Shakib Al Hasan,7dc35884,MN Samuels,f846de6a,0,0,0,0,0,,,,,,0,0,0
+1146723,2018,West Indies,2,AD Russell,bbd41817,Shakib Al Hasan,7dc35884,MN Samuels,f846de6a,0,0,0,0,0,,,,,,1,0,1
+1146723,2018,West Indies,2,MN Samuels,f846de6a,Shakib Al Hasan,7dc35884,AD Russell,bbd41817,0,0,0,0,0,,,,,,0,0,0
+1146723,2018,West Indies,2,MN Samuels,f846de6a,Shakib Al Hasan,7dc35884,AD Russell,bbd41817,1,0,0,0,0,,,,,,0,1,1
+1146723,2018,West Indies,2,MN Samuels,f846de6a,Shakib Al Hasan,7dc35884,AD Russell,bbd41817,0,0,0,0,0,,,,,,4,0,4
+1146723,2018,West Indies,2,MN Samuels,f846de6a,Shakib Al Hasan,7dc35884,AD Russell,bbd41817,0,0,0,0,0,,,,,,1,0,1
+1146723,2018,West Indies,2,AD Russell,bbd41817,Shakib Al Hasan,7dc35884,MN Samuels,f846de6a,0,0,0,0,0,,,,,,0,0,0
+1146723,2018,West Indies,3,MN Samuels,f846de6a,Nazmul Islam,6575e3bc,AD Russell,bbd41817,0,0,0,0,0,,,,,,2,0,2
+1146723,2018,West Indies,3,MN Samuels,f846de6a,Nazmul Islam,6575e3bc,AD Russell,bbd41817,0,0,0,0,0,,,,,,0,0,0
+1146723,2018,West Indies,3,MN Samuels,f846de6a,Nazmul Islam,6575e3bc,AD Russell,bbd41817,0,0,0,0,0,,,,,,6,0,6
+1146723,2018,West Indies,3,MN Samuels,f846de6a,Nazmul Islam,6575e3bc,AD Russell,bbd41817,0,0,0,0,0,,,,,,1,0,1
+1146723,2018,West Indies,3,AD Russell,bbd41817,Nazmul Islam,6575e3bc,MN Samuels,f846de6a,0,0,1,0,0,,,,,,0,1,1
+1146723,2018,West Indies,3,MN Samuels,f846de6a,Nazmul Islam,6575e3bc,AD Russell,bbd41817,0,0,0,0,0,,,,,,0,0,0
+1146723,2018,West Indies,4,AD Russell,bbd41817,Shakib Al Hasan,7dc35884,MN Samuels,f846de6a,0,0,0,0,0,,,,,,6,0,6
+1146723,2018,West Indies,4,AD Russell,bbd41817,Shakib Al Hasan,7dc35884,MN Samuels,f846de6a,0,0,0,0,0,,,,,,0,0,0
+1146723,2018,West Indies,4,AD Russell,bbd41817,Shakib Al Hasan,7dc35884,MN Samuels,f846de6a,0,0,0,0,0,,,,,,1,0,1
+1146723,2018,West Indies,4,MN Samuels,f846de6a,Shakib Al Hasan,7dc35884,AD Russell,bbd41817,0,0,0,0,0,,,,,,6,0,6
+1146723,2018,West Indies,4,MN Samuels,f846de6a,Shakib Al Hasan,7dc35884,AD Russell,bbd41817,0,0,0,0,0,,,,,,1,0,1
+1146723,2018,West Indies,4,AD Russell,bbd41817,Shakib Al Hasan,7dc35884,MN Samuels,f846de6a,0,0,0,0,0,,,,,,0,0,0
+1146723,2018,West Indies,5,MN Samuels,f846de6a,Rubel Hossain,f56cd097,AD Russell,bbd41817,5,0,0,0,0,,,,,,0,5,5
+1146723,2018,West Indies,5,MN Samuels,f846de6a,Rubel Hossain,f56cd097,AD Russell,bbd41817,0,0,0,0,0,,,,,,4,0,4
+1146723,2018,West Indies,5,MN Samuels,f846de6a,Rubel Hossain,f56cd097,AD Russell,bbd41817,0,0,0,0,0,,,,,,1,0,1
+1146723,2018,West Indies,5,AD Russell,bbd41817,Rubel Hossain,f56cd097,MN Samuels,f846de6a,0,0,0,0,0,,,,,,1,0,1
+1146723,2018,West Indies,5,MN Samuels,f846de6a,Rubel Hossain,f56cd097,AD Russell,bbd41817,0,0,0,0,1,MN Samuels,f846de6a,Mahmudullah,bf1d7d3e,caught,0,0,0
+1146723,2018,West Indies,5,AD Russell,bbd41817,Rubel Hossain,f56cd097,R Powell,650d5e49,0,0,0,0,0,,,,,,1,0,1
+1146723,2018,West Indies,5,R Powell,650d5e49,Rubel Hossain,f56cd097,AD Russell,bbd41817,0,0,0,0,0,,,,,,0,0,0
+1146723,2018,West Indies,6,AD Russell,bbd41817,Mustafizur Rahman,0a8fce53,R Powell,650d5e49,0,0,0,0,0,,,,,,0,0,0
+1146723,2018,West Indies,6,AD Russell,bbd41817,Mustafizur Rahman,0a8fce53,R Powell,650d5e49,0,0,0,0,0,,,,,,4,0,4
+1146723,2018,West Indies,6,AD Russell,bbd41817,Mustafizur Rahman,0a8fce53,R Powell,650d5e49,0,0,0,0,0,,,,,,6,0,6
+1146723,2018,West Indies,6,AD Russell,bbd41817,Mustafizur Rahman,0a8fce53,R Powell,650d5e49,0,0,0,0,0,,,,,,4,0,4
+1146723,2018,West Indies,6,AD Russell,bbd41817,Mustafizur Rahman,0a8fce53,R Powell,650d5e49,0,0,0,0,0,,,,,,0,0,0
+1146723,2018,West Indies,6,AD Russell,bbd41817,Mustafizur Rahman,0a8fce53,R Powell,650d5e49,0,0,0,0,0,,,,,,4,0,4
+1146723,2018,West Indies,7,R Powell,650d5e49,Nazmul Islam,6575e3bc,AD Russell,bbd41817,0,0,0,0,0,,,,,,1,0,1
+1146723,2018,West Indies,7,AD Russell,bbd41817,Nazmul Islam,6575e3bc,R Powell,650d5e49,0,0,0,0,0,,,,,,0,0,0
+1146723,2018,West Indies,7,AD Russell,bbd41817,Nazmul Islam,6575e3bc,R Powell,650d5e49,0,0,0,0,0,,,,,,1,0,1
+1146723,2018,West Indies,7,R Powell,650d5e49,Nazmul Islam,6575e3bc,AD Russell,bbd41817,0,0,0,0,0,,,,,,6,0,6
+1146723,2018,West Indies,7,R Powell,650d5e49,Nazmul Islam,6575e3bc,AD Russell,bbd41817,0,0,0,0,0,,,,,,1,0,1
+1146723,2018,West Indies,7,AD Russell,bbd41817,Nazmul Islam,6575e3bc,R Powell,650d5e49,0,0,0,0,0,,,,,,6,0,6
+1146723,2018,West Indies,8,R Powell,650d5e49,Rubel Hossain,f56cd097,AD Russell,bbd41817,0,0,0,0,0,,,,,,0,0,0
+1146723,2018,West Indies,8,R Powell,650d5e49,Rubel Hossain,f56cd097,AD Russell,bbd41817,0,0,0,0,0,,,,,,0,0,0
+1146723,2018,West Indies,8,R Powell,650d5e49,Rubel Hossain,f56cd097,AD Russell,bbd41817,0,0,0,0,0,,,,,,0,0,0
+1146723,2018,West Indies,8,R Powell,650d5e49,Rubel Hossain,f56cd097,AD Russell,bbd41817,0,0,0,0,0,,,,,,1,0,1
+1146723,2018,West Indies,8,AD Russell,bbd41817,Rubel Hossain,f56cd097,R Powell,650d5e49,0,0,0,0,0,,,,,,0,0,0
+1146723,2018,West Indies,8,AD Russell,bbd41817,Rubel Hossain,f56cd097,R Powell,650d5e49,0,0,0,0,0,,,,,,0,0,0
+1146723,2018,West Indies,9,R Powell,650d5e49,Shakib Al Hasan,7dc35884,AD Russell,bbd41817,0,0,0,0,0,,,,,,6,0,6

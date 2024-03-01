@@ -1,0 +1,235 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1273751,2021/22,Afghanistan,0,Hazratullah,5ea51c25,TG Southee,13c35c9e,Mohammad Shahzad,d6dcb0c9,1,0,0,0,0,,,,,,0,1,1
+1273751,2021/22,Afghanistan,0,Hazratullah,5ea51c25,TG Southee,13c35c9e,Mohammad Shahzad,d6dcb0c9,0,0,1,0,0,,,,,,0,1,1
+1273751,2021/22,Afghanistan,0,Mohammad Shahzad,d6dcb0c9,TG Southee,13c35c9e,Hazratullah,5ea51c25,0,0,0,0,0,,,,,,4,0,4
+1273751,2021/22,Afghanistan,0,Mohammad Shahzad,d6dcb0c9,TG Southee,13c35c9e,Hazratullah,5ea51c25,0,0,0,0,0,,,,,,0,0,0
+1273751,2021/22,Afghanistan,0,Mohammad Shahzad,d6dcb0c9,TG Southee,13c35c9e,Hazratullah,5ea51c25,0,0,0,0,0,,,,,,0,0,0
+1273751,2021/22,Afghanistan,0,Mohammad Shahzad,d6dcb0c9,TG Southee,13c35c9e,Hazratullah,5ea51c25,0,0,0,0,0,,,,,,0,0,0
+1273751,2021/22,Afghanistan,0,Mohammad Shahzad,d6dcb0c9,TG Southee,13c35c9e,Hazratullah,5ea51c25,0,0,0,0,0,,,,,,0,0,0
+1273751,2021/22,Afghanistan,1,Hazratullah,5ea51c25,TA Boult,a818c1be,Mohammad Shahzad,d6dcb0c9,0,0,0,0,0,,,,,,1,0,1
+1273751,2021/22,Afghanistan,1,Mohammad Shahzad,d6dcb0c9,TA Boult,a818c1be,Hazratullah,5ea51c25,0,0,0,0,0,,,,,,0,0,0
+1273751,2021/22,Afghanistan,1,Mohammad Shahzad,d6dcb0c9,TA Boult,a818c1be,Hazratullah,5ea51c25,0,0,0,0,0,,,,,,0,0,0
+1273751,2021/22,Afghanistan,1,Mohammad Shahzad,d6dcb0c9,TA Boult,a818c1be,Hazratullah,5ea51c25,0,0,0,0,0,,,,,,0,0,0
+1273751,2021/22,Afghanistan,1,Mohammad Shahzad,d6dcb0c9,TA Boult,a818c1be,Hazratullah,5ea51c25,0,0,0,0,0,,,,,,0,0,0
+1273751,2021/22,Afghanistan,1,Mohammad Shahzad,d6dcb0c9,TA Boult,a818c1be,Hazratullah,5ea51c25,0,0,0,0,0,,,,,,0,0,0
+1273751,2021/22,Afghanistan,2,Hazratullah,5ea51c25,AF Milne,350bb1b1,Mohammad Shahzad,d6dcb0c9,0,0,0,0,0,,,,,,1,0,1
+1273751,2021/22,Afghanistan,2,Mohammad Shahzad,d6dcb0c9,AF Milne,350bb1b1,Hazratullah,5ea51c25,0,0,0,0,1,Mohammad Shahzad,d6dcb0c9,DP Conway,df5a6881,caught,0,0,0
+1273751,2021/22,Afghanistan,2,Rahmanullah Gurbaz,0bacade8,AF Milne,350bb1b1,Hazratullah,5ea51c25,0,0,0,0,0,,,,,,0,0,0
+1273751,2021/22,Afghanistan,2,Rahmanullah Gurbaz,0bacade8,AF Milne,350bb1b1,Hazratullah,5ea51c25,0,0,0,0,0,,,,,,4,0,4
+1273751,2021/22,Afghanistan,2,Rahmanullah Gurbaz,0bacade8,AF Milne,350bb1b1,Hazratullah,5ea51c25,0,0,0,0,0,,,,,,0,0,0
+1273751,2021/22,Afghanistan,2,Rahmanullah Gurbaz,0bacade8,AF Milne,350bb1b1,Hazratullah,5ea51c25,0,0,0,0,0,,,,,,0,0,0
+1273751,2021/22,Afghanistan,3,Hazratullah,5ea51c25,TA Boult,a818c1be,Rahmanullah Gurbaz,0bacade8,0,0,0,0,1,Hazratullah,5ea51c25,MJ Santner,e4a0deae,caught,0,0,0
+1273751,2021/22,Afghanistan,3,Gulbadin Naib,9f77963a,TA Boult,a818c1be,Rahmanullah Gurbaz,0bacade8,0,0,0,0,0,,,,,,0,0,0
+1273751,2021/22,Afghanistan,3,Gulbadin Naib,9f77963a,TA Boult,a818c1be,Rahmanullah Gurbaz,0bacade8,0,0,0,0,0,,,,,,0,0,0
+1273751,2021/22,Afghanistan,3,Gulbadin Naib,9f77963a,TA Boult,a818c1be,Rahmanullah Gurbaz,0bacade8,0,0,0,0,0,,,,,,0,0,0
+1273751,2021/22,Afghanistan,3,Gulbadin Naib,9f77963a,TA Boult,a818c1be,Rahmanullah Gurbaz,0bacade8,0,0,0,0,0,,,,,,0,0,0
+1273751,2021/22,Afghanistan,3,Gulbadin Naib,9f77963a,TA Boult,a818c1be,Rahmanullah Gurbaz,0bacade8,0,0,0,0,0,,,,,,4,0,4
+1273751,2021/22,Afghanistan,4,Rahmanullah Gurbaz,0bacade8,AF Milne,350bb1b1,Gulbadin Naib,9f77963a,0,0,0,0,0,,,,,,1,0,1
+1273751,2021/22,Afghanistan,4,Gulbadin Naib,9f77963a,AF Milne,350bb1b1,Rahmanullah Gurbaz,0bacade8,0,0,0,0,0,,,,,,1,0,1
+1273751,2021/22,Afghanistan,4,Rahmanullah Gurbaz,0bacade8,AF Milne,350bb1b1,Gulbadin Naib,9f77963a,0,0,0,0,0,,,,,,0,0,0
+1273751,2021/22,Afghanistan,4,Rahmanullah Gurbaz,0bacade8,AF Milne,350bb1b1,Gulbadin Naib,9f77963a,0,0,0,0,0,,,,,,0,0,0
+1273751,2021/22,Afghanistan,4,Rahmanullah Gurbaz,0bacade8,AF Milne,350bb1b1,Gulbadin Naib,9f77963a,0,0,0,0,0,,,,,,1,0,1
+1273751,2021/22,Afghanistan,4,Gulbadin Naib,9f77963a,AF Milne,350bb1b1,Rahmanullah Gurbaz,0bacade8,0,0,0,0,0,,,,,,0,0,0
+1273751,2021/22,Afghanistan,5,Rahmanullah Gurbaz,0bacade8,TG Southee,13c35c9e,Gulbadin Naib,9f77963a,0,0,0,0,1,Rahmanullah Gurbaz,0bacade8,,,lbw,0,0,0
+1273751,2021/22,Afghanistan,5,Najibullah Zadran,1212cbec,TG Southee,13c35c9e,Gulbadin Naib,9f77963a,0,0,0,0,0,,,,,,2,0,2
+1273751,2021/22,Afghanistan,5,Najibullah Zadran,1212cbec,TG Southee,13c35c9e,Gulbadin Naib,9f77963a,0,0,0,0,0,,,,,,0,0,0
+1273751,2021/22,Afghanistan,5,Najibullah Zadran,1212cbec,TG Southee,13c35c9e,Gulbadin Naib,9f77963a,0,0,0,0,0,,,,,,0,0,0
+1273751,2021/22,Afghanistan,5,Najibullah Zadran,1212cbec,TG Southee,13c35c9e,Gulbadin Naib,9f77963a,0,0,0,0,0,,,,,,0,0,0
+1273751,2021/22,Afghanistan,5,Najibullah Zadran,1212cbec,TG Southee,13c35c9e,Gulbadin Naib,9f77963a,0,0,0,0,0,,,,,,2,0,2
+1273751,2021/22,Afghanistan,6,Gulbadin Naib,9f77963a,JDS Neesham,9219eff0,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,2,0,2
+1273751,2021/22,Afghanistan,6,Gulbadin Naib,9f77963a,JDS Neesham,9219eff0,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,1,0,1
+1273751,2021/22,Afghanistan,6,Najibullah Zadran,1212cbec,JDS Neesham,9219eff0,Gulbadin Naib,9f77963a,0,0,0,0,0,,,,,,1,0,1
+1273751,2021/22,Afghanistan,6,Gulbadin Naib,9f77963a,JDS Neesham,9219eff0,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,0,0,0
+1273751,2021/22,Afghanistan,6,Gulbadin Naib,9f77963a,JDS Neesham,9219eff0,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,1,0,1
+1273751,2021/22,Afghanistan,6,Najibullah Zadran,1212cbec,JDS Neesham,9219eff0,Gulbadin Naib,9f77963a,0,0,0,0,0,,,,,,0,0,0
+1273751,2021/22,Afghanistan,7,Gulbadin Naib,9f77963a,MJ Santner,e4a0deae,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,1,0,1
+1273751,2021/22,Afghanistan,7,Najibullah Zadran,1212cbec,MJ Santner,e4a0deae,Gulbadin Naib,9f77963a,0,0,0,0,0,,,,,,1,0,1
+1273751,2021/22,Afghanistan,7,Gulbadin Naib,9f77963a,MJ Santner,e4a0deae,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,1,0,1
+1273751,2021/22,Afghanistan,7,Najibullah Zadran,1212cbec,MJ Santner,e4a0deae,Gulbadin Naib,9f77963a,0,0,0,0,0,,,,,,4,0,4
+1273751,2021/22,Afghanistan,7,Najibullah Zadran,1212cbec,MJ Santner,e4a0deae,Gulbadin Naib,9f77963a,0,0,0,0,0,,,,,,0,0,0
+1273751,2021/22,Afghanistan,7,Najibullah Zadran,1212cbec,MJ Santner,e4a0deae,Gulbadin Naib,9f77963a,0,0,0,0,0,,,,,,1,0,1
+1273751,2021/22,Afghanistan,8,Najibullah Zadran,1212cbec,JDS Neesham,9219eff0,Gulbadin Naib,9f77963a,0,0,0,0,0,,,,,,1,0,1
+1273751,2021/22,Afghanistan,8,Gulbadin Naib,9f77963a,JDS Neesham,9219eff0,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,1,0,1
+1273751,2021/22,Afghanistan,8,Najibullah Zadran,1212cbec,JDS Neesham,9219eff0,Gulbadin Naib,9f77963a,0,0,0,0,0,,,,,,1,0,1
+1273751,2021/22,Afghanistan,8,Gulbadin Naib,9f77963a,JDS Neesham,9219eff0,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,1,0,1
+1273751,2021/22,Afghanistan,8,Najibullah Zadran,1212cbec,JDS Neesham,9219eff0,Gulbadin Naib,9f77963a,0,0,0,0,0,,,,,,4,0,4
+1273751,2021/22,Afghanistan,8,Najibullah Zadran,1212cbec,JDS Neesham,9219eff0,Gulbadin Naib,9f77963a,0,0,0,0,0,,,,,,4,0,4
+1273751,2021/22,Afghanistan,9,Gulbadin Naib,9f77963a,IS Sodhi,641ac5ff,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,1,0,1
+1273751,2021/22,Afghanistan,9,Najibullah Zadran,1212cbec,IS Sodhi,641ac5ff,Gulbadin Naib,9f77963a,0,0,0,0,0,,,,,,4,0,4
+1273751,2021/22,Afghanistan,9,Najibullah Zadran,1212cbec,IS Sodhi,641ac5ff,Gulbadin Naib,9f77963a,0,0,0,0,0,,,,,,1,0,1
+1273751,2021/22,Afghanistan,9,Gulbadin Naib,9f77963a,IS Sodhi,641ac5ff,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,1,0,1
+1273751,2021/22,Afghanistan,9,Najibullah Zadran,1212cbec,IS Sodhi,641ac5ff,Gulbadin Naib,9f77963a,0,0,0,0,0,,,,,,1,0,1
+1273751,2021/22,Afghanistan,9,Gulbadin Naib,9f77963a,IS Sodhi,641ac5ff,Najibullah Zadran,1212cbec,0,0,0,0,1,Gulbadin Naib,9f77963a,,,bowled,0,0,0
+1273751,2021/22,Afghanistan,10,Najibullah Zadran,1212cbec,AF Milne,350bb1b1,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,1,0,1
+1273751,2021/22,Afghanistan,10,Mohammad Nabi,62af8546,AF Milne,350bb1b1,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,1,0,1
+1273751,2021/22,Afghanistan,10,Najibullah Zadran,1212cbec,AF Milne,350bb1b1,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,0,0,0
+1273751,2021/22,Afghanistan,10,Najibullah Zadran,1212cbec,AF Milne,350bb1b1,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,0,0,0
+1273751,2021/22,Afghanistan,10,Najibullah Zadran,1212cbec,AF Milne,350bb1b1,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,1,0,1
+1273751,2021/22,Afghanistan,10,Mohammad Nabi,62af8546,AF Milne,350bb1b1,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,2,0,2
+1273751,2021/22,Afghanistan,11,Najibullah Zadran,1212cbec,IS Sodhi,641ac5ff,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,0,0,0
+1273751,2021/22,Afghanistan,11,Najibullah Zadran,1212cbec,IS Sodhi,641ac5ff,Mohammad Nabi,62af8546,1,0,0,0,0,,,,,,0,1,1
+1273751,2021/22,Afghanistan,11,Najibullah Zadran,1212cbec,IS Sodhi,641ac5ff,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,1,0,1
+1273751,2021/22,Afghanistan,11,Mohammad Nabi,62af8546,IS Sodhi,641ac5ff,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,0,0,0
+1273751,2021/22,Afghanistan,11,Mohammad Nabi,62af8546,IS Sodhi,641ac5ff,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,1,0,1
+1273751,2021/22,Afghanistan,11,Najibullah Zadran,1212cbec,IS Sodhi,641ac5ff,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,1,0,1
+1273751,2021/22,Afghanistan,11,Mohammad Nabi,62af8546,IS Sodhi,641ac5ff,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,1,0,1
+1273751,2021/22,Afghanistan,12,Mohammad Nabi,62af8546,TG Southee,13c35c9e,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,0,0,0
+1273751,2021/22,Afghanistan,12,Mohammad Nabi,62af8546,TG Southee,13c35c9e,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,0,0,0
+1273751,2021/22,Afghanistan,12,Mohammad Nabi,62af8546,TG Southee,13c35c9e,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,0,0,0
+1273751,2021/22,Afghanistan,12,Mohammad Nabi,62af8546,TG Southee,13c35c9e,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,0,0,0
+1273751,2021/22,Afghanistan,12,Mohammad Nabi,62af8546,TG Southee,13c35c9e,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,1,0,1
+1273751,2021/22,Afghanistan,12,Najibullah Zadran,1212cbec,TG Southee,13c35c9e,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,1,0,1
+1273751,2021/22,Afghanistan,13,Najibullah Zadran,1212cbec,MJ Santner,e4a0deae,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,6,0,6
+1273751,2021/22,Afghanistan,13,Najibullah Zadran,1212cbec,MJ Santner,e4a0deae,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,1,0,1
+1273751,2021/22,Afghanistan,13,Mohammad Nabi,62af8546,MJ Santner,e4a0deae,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,1,0,1
+1273751,2021/22,Afghanistan,13,Najibullah Zadran,1212cbec,MJ Santner,e4a0deae,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,6,0,6
+1273751,2021/22,Afghanistan,13,Najibullah Zadran,1212cbec,MJ Santner,e4a0deae,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,2,0,2
+1273751,2021/22,Afghanistan,13,Najibullah Zadran,1212cbec,MJ Santner,e4a0deae,Mohammad Nabi,62af8546,1,0,0,0,0,,,,,,0,1,1
+1273751,2021/22,Afghanistan,13,Najibullah Zadran,1212cbec,MJ Santner,e4a0deae,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,2,0,2
+1273751,2021/22,Afghanistan,14,Mohammad Nabi,62af8546,AF Milne,350bb1b1,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,0,0,0
+1273751,2021/22,Afghanistan,14,Mohammad Nabi,62af8546,AF Milne,350bb1b1,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,0,0,0
+1273751,2021/22,Afghanistan,14,Mohammad Nabi,62af8546,AF Milne,350bb1b1,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,1,0,1
+1273751,2021/22,Afghanistan,14,Najibullah Zadran,1212cbec,AF Milne,350bb1b1,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,0,0,0
+1273751,2021/22,Afghanistan,14,Najibullah Zadran,1212cbec,AF Milne,350bb1b1,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,1,0,1
+1273751,2021/22,Afghanistan,14,Mohammad Nabi,62af8546,AF Milne,350bb1b1,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,2,0,2
+1273751,2021/22,Afghanistan,15,Najibullah Zadran,1212cbec,JDS Neesham,9219eff0,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,0,0,0
+1273751,2021/22,Afghanistan,15,Najibullah Zadran,1212cbec,JDS Neesham,9219eff0,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,1,0,1
+1273751,2021/22,Afghanistan,15,Mohammad Nabi,62af8546,JDS Neesham,9219eff0,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,1,0,1
+1273751,2021/22,Afghanistan,15,Najibullah Zadran,1212cbec,JDS Neesham,9219eff0,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,2,0,2
+1273751,2021/22,Afghanistan,15,Najibullah Zadran,1212cbec,JDS Neesham,9219eff0,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,0,0,0
+1273751,2021/22,Afghanistan,15,Najibullah Zadran,1212cbec,JDS Neesham,9219eff0,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,1,0,1
+1273751,2021/22,Afghanistan,16,Najibullah Zadran,1212cbec,TA Boult,a818c1be,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,1,0,1
+1273751,2021/22,Afghanistan,16,Mohammad Nabi,62af8546,TA Boult,a818c1be,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,1,0,1
+1273751,2021/22,Afghanistan,16,Najibullah Zadran,1212cbec,TA Boult,a818c1be,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,0,0,0
+1273751,2021/22,Afghanistan,16,Najibullah Zadran,1212cbec,TA Boult,a818c1be,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,1,0,1
+1273751,2021/22,Afghanistan,16,Najibullah Zadran,1212cbec,TA Boult,a818c1be,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,1,0,1
+1273751,2021/22,Afghanistan,16,Mohammad Nabi,62af8546,TA Boult,a818c1be,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,1,0,1
+1273751,2021/22,Afghanistan,17,Mohammad Nabi,62af8546,TG Southee,13c35c9e,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,1,0,1
+1273751,2021/22,Afghanistan,17,Najibullah Zadran,1212cbec,TG Southee,13c35c9e,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,6,0,6
+1273751,2021/22,Afghanistan,17,Najibullah Zadran,1212cbec,TG Southee,13c35c9e,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,2,0,2
+1273751,2021/22,Afghanistan,17,Najibullah Zadran,1212cbec,TG Southee,13c35c9e,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,4,0,4
+1273751,2021/22,Afghanistan,17,Najibullah Zadran,1212cbec,TG Southee,13c35c9e,Mohammad Nabi,62af8546,0,0,0,1,0,,,,,,0,1,1
+1273751,2021/22,Afghanistan,17,Mohammad Nabi,62af8546,TG Southee,13c35c9e,Najibullah Zadran,1212cbec,0,0,0,0,1,Mohammad Nabi,62af8546,,,caught and bowled,0,0,0
+1273751,2021/22,Afghanistan,18,Najibullah Zadran,1212cbec,TA Boult,a818c1be,Karim Janat,62175638,0,0,0,0,0,,,,,,4,0,4
+1273751,2021/22,Afghanistan,18,Najibullah Zadran,1212cbec,TA Boult,a818c1be,Karim Janat,62175638,0,0,0,0,1,Najibullah Zadran,1212cbec,JDS Neesham,9219eff0,caught,0,0,0
+1273751,2021/22,Afghanistan,18,Karim Janat,62175638,TA Boult,a818c1be,Rashid Khan,5f547c8b,0,0,0,0,0,,,,,,2,0,2
+1273751,2021/22,Afghanistan,18,Karim Janat,62175638,TA Boult,a818c1be,Rashid Khan,5f547c8b,0,0,0,0,1,Karim Janat,62175638,IS Sodhi,641ac5ff,caught,0,0,0
+1273751,2021/22,Afghanistan,18,Rashid Khan,5f547c8b,TA Boult,a818c1be,Mujeeb Ur Rahman,7d92277a,0,0,0,0,0,,,,,,1,0,1
+1273751,2021/22,Afghanistan,18,Mujeeb Ur Rahman,7d92277a,TA Boult,a818c1be,Rashid Khan,5f547c8b,0,0,0,0,0,,,,,,0,0,0
+1273751,2021/22,Afghanistan,19,Rashid Khan,5f547c8b,JDS Neesham,9219eff0,Mujeeb Ur Rahman,7d92277a,0,0,0,0,0,,,,,,2,0,2
+1273751,2021/22,Afghanistan,19,Rashid Khan,5f547c8b,JDS Neesham,9219eff0,Mujeeb Ur Rahman,7d92277a,0,0,0,0,0,,,,,,0,0,0
+1273751,2021/22,Afghanistan,19,Rashid Khan,5f547c8b,JDS Neesham,9219eff0,Mujeeb Ur Rahman,7d92277a,0,0,0,0,0,,,,,,0,0,0
+1273751,2021/22,Afghanistan,19,Rashid Khan,5f547c8b,JDS Neesham,9219eff0,Mujeeb Ur Rahman,7d92277a,0,0,0,0,0,,,,,,0,0,0
+1273751,2021/22,Afghanistan,19,Rashid Khan,5f547c8b,JDS Neesham,9219eff0,Mujeeb Ur Rahman,7d92277a,0,0,0,0,0,,,,,,0,0,0
+1273751,2021/22,Afghanistan,19,Rashid Khan,5f547c8b,JDS Neesham,9219eff0,Mujeeb Ur Rahman,7d92277a,0,0,0,0,1,Rashid Khan,5f547c8b,KS Williamson,d027ba9f,caught,0,0,0
+1273751,2021/22,New Zealand,0,MJ Guptill,2be41edb,Mohammad Nabi,62af8546,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,0,0,0
+1273751,2021/22,New Zealand,0,MJ Guptill,2be41edb,Mohammad Nabi,62af8546,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,2,0,2
+1273751,2021/22,New Zealand,0,MJ Guptill,2be41edb,Mohammad Nabi,62af8546,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,1,0,1
+1273751,2021/22,New Zealand,0,DJ Mitchell,eade4650,Mohammad Nabi,62af8546,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,0,0,0
+1273751,2021/22,New Zealand,0,DJ Mitchell,eade4650,Mohammad Nabi,62af8546,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,0,0,0
+1273751,2021/22,New Zealand,0,DJ Mitchell,eade4650,Mohammad Nabi,62af8546,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,4,0,4
+1273751,2021/22,New Zealand,1,MJ Guptill,2be41edb,Mujeeb Ur Rahman,7d92277a,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,1,0,1
+1273751,2021/22,New Zealand,1,DJ Mitchell,eade4650,Mujeeb Ur Rahman,7d92277a,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,0,0,0
+1273751,2021/22,New Zealand,1,DJ Mitchell,eade4650,Mujeeb Ur Rahman,7d92277a,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,2,0,2
+1273751,2021/22,New Zealand,1,DJ Mitchell,eade4650,Mujeeb Ur Rahman,7d92277a,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,0,0,0
+1273751,2021/22,New Zealand,1,DJ Mitchell,eade4650,Mujeeb Ur Rahman,7d92277a,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,4,0,4
+1273751,2021/22,New Zealand,1,DJ Mitchell,eade4650,Mujeeb Ur Rahman,7d92277a,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,1,0,1
+1273751,2021/22,New Zealand,2,DJ Mitchell,eade4650,Naveen-ul-Haq,c0c411cb,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,4,0,4
+1273751,2021/22,New Zealand,2,DJ Mitchell,eade4650,Naveen-ul-Haq,c0c411cb,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,1,0,1
+1273751,2021/22,New Zealand,2,MJ Guptill,2be41edb,Naveen-ul-Haq,c0c411cb,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,0,0,0
+1273751,2021/22,New Zealand,2,MJ Guptill,2be41edb,Naveen-ul-Haq,c0c411cb,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,4,0,4
+1273751,2021/22,New Zealand,2,MJ Guptill,2be41edb,Naveen-ul-Haq,c0c411cb,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,1,0,1
+1273751,2021/22,New Zealand,2,DJ Mitchell,eade4650,Naveen-ul-Haq,c0c411cb,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,1,0,1
+1273751,2021/22,New Zealand,3,DJ Mitchell,eade4650,Mujeeb Ur Rahman,7d92277a,MJ Guptill,2be41edb,0,0,0,0,1,DJ Mitchell,eade4650,Mohammad Shahzad,d6dcb0c9,caught,0,0,0
+1273751,2021/22,New Zealand,3,KS Williamson,d027ba9f,Mujeeb Ur Rahman,7d92277a,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,0,0,0
+1273751,2021/22,New Zealand,3,KS Williamson,d027ba9f,Mujeeb Ur Rahman,7d92277a,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,1,0,1
+1273751,2021/22,New Zealand,3,MJ Guptill,2be41edb,Mujeeb Ur Rahman,7d92277a,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,1,0,1
+1273751,2021/22,New Zealand,3,KS Williamson,d027ba9f,Mujeeb Ur Rahman,7d92277a,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,1,0,1
+1273751,2021/22,New Zealand,3,MJ Guptill,2be41edb,Mujeeb Ur Rahman,7d92277a,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,1,0,1
+1273751,2021/22,New Zealand,4,MJ Guptill,2be41edb,Hamid Hassan,093ae70b,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,4,0,4
+1273751,2021/22,New Zealand,4,MJ Guptill,2be41edb,Hamid Hassan,093ae70b,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,0,0,0
+1273751,2021/22,New Zealand,4,MJ Guptill,2be41edb,Hamid Hassan,093ae70b,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,1,0,1
+1273751,2021/22,New Zealand,4,KS Williamson,d027ba9f,Hamid Hassan,093ae70b,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,0,0,0
+1273751,2021/22,New Zealand,4,KS Williamson,d027ba9f,Hamid Hassan,093ae70b,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,0,0,0
+1273751,2021/22,New Zealand,4,KS Williamson,d027ba9f,Hamid Hassan,093ae70b,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,1,0,1
+1273751,2021/22,New Zealand,5,KS Williamson,d027ba9f,Mujeeb Ur Rahman,7d92277a,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,0,0,0
+1273751,2021/22,New Zealand,5,KS Williamson,d027ba9f,Mujeeb Ur Rahman,7d92277a,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,0,0,0
+1273751,2021/22,New Zealand,5,KS Williamson,d027ba9f,Mujeeb Ur Rahman,7d92277a,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,1,0,1
+1273751,2021/22,New Zealand,5,MJ Guptill,2be41edb,Mujeeb Ur Rahman,7d92277a,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,0,0,0
+1273751,2021/22,New Zealand,5,MJ Guptill,2be41edb,Mujeeb Ur Rahman,7d92277a,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,4,0,4
+1273751,2021/22,New Zealand,5,MJ Guptill,2be41edb,Mujeeb Ur Rahman,7d92277a,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,4,0,4
+1273751,2021/22,New Zealand,6,KS Williamson,d027ba9f,Rashid Khan,5f547c8b,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,1,0,1
+1273751,2021/22,New Zealand,6,MJ Guptill,2be41edb,Rashid Khan,5f547c8b,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,1,0,1
+1273751,2021/22,New Zealand,6,KS Williamson,d027ba9f,Rashid Khan,5f547c8b,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,1,0,1
+1273751,2021/22,New Zealand,6,MJ Guptill,2be41edb,Rashid Khan,5f547c8b,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,1,0,1
+1273751,2021/22,New Zealand,6,KS Williamson,d027ba9f,Rashid Khan,5f547c8b,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,0,0,0
+1273751,2021/22,New Zealand,6,KS Williamson,d027ba9f,Rashid Khan,5f547c8b,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,1,0,1
+1273751,2021/22,New Zealand,7,KS Williamson,d027ba9f,Mohammad Nabi,62af8546,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,1,0,1
+1273751,2021/22,New Zealand,7,MJ Guptill,2be41edb,Mohammad Nabi,62af8546,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,1,0,1
+1273751,2021/22,New Zealand,7,KS Williamson,d027ba9f,Mohammad Nabi,62af8546,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,0,0,0
+1273751,2021/22,New Zealand,7,KS Williamson,d027ba9f,Mohammad Nabi,62af8546,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,1,0,1
+1273751,2021/22,New Zealand,7,MJ Guptill,2be41edb,Mohammad Nabi,62af8546,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,0,0,0
+1273751,2021/22,New Zealand,7,MJ Guptill,2be41edb,Mohammad Nabi,62af8546,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,0,0,0
+1273751,2021/22,New Zealand,8,KS Williamson,d027ba9f,Rashid Khan,5f547c8b,MJ Guptill,2be41edb,1,0,0,0,0,,,,,,0,1,1
+1273751,2021/22,New Zealand,8,KS Williamson,d027ba9f,Rashid Khan,5f547c8b,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,1,0,1
+1273751,2021/22,New Zealand,8,MJ Guptill,2be41edb,Rashid Khan,5f547c8b,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,1,0,1
+1273751,2021/22,New Zealand,8,KS Williamson,d027ba9f,Rashid Khan,5f547c8b,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,1,0,1
+1273751,2021/22,New Zealand,8,MJ Guptill,2be41edb,Rashid Khan,5f547c8b,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,0,0,0
+1273751,2021/22,New Zealand,8,MJ Guptill,2be41edb,Rashid Khan,5f547c8b,KS Williamson,d027ba9f,0,0,0,0,1,MJ Guptill,2be41edb,,,bowled,0,0,0
+1273751,2021/22,New Zealand,8,DP Conway,df5a6881,Rashid Khan,5f547c8b,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,1,0,1
+1273751,2021/22,New Zealand,9,DP Conway,df5a6881,Mohammad Nabi,62af8546,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,1,0,1
+1273751,2021/22,New Zealand,9,KS Williamson,d027ba9f,Mohammad Nabi,62af8546,DP Conway,df5a6881,0,0,0,0,0,,,,,,0,0,0
+1273751,2021/22,New Zealand,9,KS Williamson,d027ba9f,Mohammad Nabi,62af8546,DP Conway,df5a6881,0,0,0,0,0,,,,,,0,0,0
+1273751,2021/22,New Zealand,9,KS Williamson,d027ba9f,Mohammad Nabi,62af8546,DP Conway,df5a6881,0,0,0,0,0,,,,,,0,0,0
+1273751,2021/22,New Zealand,9,KS Williamson,d027ba9f,Mohammad Nabi,62af8546,DP Conway,df5a6881,0,0,0,0,0,,,,,,0,0,0
+1273751,2021/22,New Zealand,9,KS Williamson,d027ba9f,Mohammad Nabi,62af8546,DP Conway,df5a6881,0,0,0,0,0,,,,,,2,0,2
+1273751,2021/22,New Zealand,10,DP Conway,df5a6881,Hamid Hassan,093ae70b,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,0,0,0
+1273751,2021/22,New Zealand,10,DP Conway,df5a6881,Hamid Hassan,093ae70b,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,0,0,0
+1273751,2021/22,New Zealand,10,DP Conway,df5a6881,Hamid Hassan,093ae70b,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,0,0,0
+1273751,2021/22,New Zealand,10,DP Conway,df5a6881,Hamid Hassan,093ae70b,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,0,0,0
+1273751,2021/22,New Zealand,10,DP Conway,df5a6881,Hamid Hassan,093ae70b,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,1,0,1
+1273751,2021/22,New Zealand,10,KS Williamson,d027ba9f,Hamid Hassan,093ae70b,DP Conway,df5a6881,0,0,0,0,0,,,,,,1,0,1
+1273751,2021/22,New Zealand,11,KS Williamson,d027ba9f,Rashid Khan,5f547c8b,DP Conway,df5a6881,0,0,0,0,0,,,,,,1,0,1
+1273751,2021/22,New Zealand,11,DP Conway,df5a6881,Rashid Khan,5f547c8b,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,1,0,1
+1273751,2021/22,New Zealand,11,KS Williamson,d027ba9f,Rashid Khan,5f547c8b,DP Conway,df5a6881,0,0,0,0,0,,,,,,4,0,4
+1273751,2021/22,New Zealand,11,KS Williamson,d027ba9f,Rashid Khan,5f547c8b,DP Conway,df5a6881,0,0,0,0,0,,,,,,1,0,1
+1273751,2021/22,New Zealand,11,DP Conway,df5a6881,Rashid Khan,5f547c8b,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,0,0,0
+1273751,2021/22,New Zealand,11,DP Conway,df5a6881,Rashid Khan,5f547c8b,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,0,0,0
+1273751,2021/22,New Zealand,12,KS Williamson,d027ba9f,Gulbadin Naib,9f77963a,DP Conway,df5a6881,0,0,0,0,0,,,,,,1,0,1
+1273751,2021/22,New Zealand,12,DP Conway,df5a6881,Gulbadin Naib,9f77963a,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,1,0,1
+1273751,2021/22,New Zealand,12,KS Williamson,d027ba9f,Gulbadin Naib,9f77963a,DP Conway,df5a6881,0,0,0,0,0,,,,,,1,0,1
+1273751,2021/22,New Zealand,12,DP Conway,df5a6881,Gulbadin Naib,9f77963a,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,1,0,1
+1273751,2021/22,New Zealand,12,KS Williamson,d027ba9f,Gulbadin Naib,9f77963a,DP Conway,df5a6881,0,0,0,0,0,,,,,,4,0,4
+1273751,2021/22,New Zealand,12,KS Williamson,d027ba9f,Gulbadin Naib,9f77963a,DP Conway,df5a6881,0,0,0,0,0,,,,,,0,0,0
+1273751,2021/22,New Zealand,13,DP Conway,df5a6881,Mohammad Nabi,62af8546,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,2,0,2
+1273751,2021/22,New Zealand,13,DP Conway,df5a6881,Mohammad Nabi,62af8546,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,4,0,4
+1273751,2021/22,New Zealand,13,DP Conway,df5a6881,Mohammad Nabi,62af8546,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,4,0,4
+1273751,2021/22,New Zealand,13,DP Conway,df5a6881,Mohammad Nabi,62af8546,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,1,0,1
+1273751,2021/22,New Zealand,13,KS Williamson,d027ba9f,Mohammad Nabi,62af8546,DP Conway,df5a6881,0,0,0,0,0,,,,,,1,0,1
+1273751,2021/22,New Zealand,13,DP Conway,df5a6881,Mohammad Nabi,62af8546,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,1,0,1
+1273751,2021/22,New Zealand,14,DP Conway,df5a6881,Rashid Khan,5f547c8b,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,4,0,4
+1273751,2021/22,New Zealand,14,DP Conway,df5a6881,Rashid Khan,5f547c8b,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,1,0,1
+1273751,2021/22,New Zealand,14,KS Williamson,d027ba9f,Rashid Khan,5f547c8b,DP Conway,df5a6881,0,0,0,0,0,,,,,,1,0,1
+1273751,2021/22,New Zealand,14,DP Conway,df5a6881,Rashid Khan,5f547c8b,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,1,0,1
+1273751,2021/22,New Zealand,14,KS Williamson,d027ba9f,Rashid Khan,5f547c8b,DP Conway,df5a6881,0,0,0,0,0,,,,,,1,0,1
+1273751,2021/22,New Zealand,14,DP Conway,df5a6881,Rashid Khan,5f547c8b,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,2,0,2
+1273751,2021/22,New Zealand,15,KS Williamson,d027ba9f,Hamid Hassan,093ae70b,DP Conway,df5a6881,0,0,0,0,0,,,,,,1,0,1
+1273751,2021/22,New Zealand,15,DP Conway,df5a6881,Hamid Hassan,093ae70b,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,0,0,0
+1273751,2021/22,New Zealand,15,DP Conway,df5a6881,Hamid Hassan,093ae70b,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,0,0,0
+1273751,2021/22,New Zealand,15,DP Conway,df5a6881,Hamid Hassan,093ae70b,KS Williamson,d027ba9f,0,0,1,0,0,,,,,,0,1,1
+1273751,2021/22,New Zealand,15,KS Williamson,d027ba9f,Hamid Hassan,093ae70b,DP Conway,df5a6881,0,0,0,0,0,,,,,,4,0,4
+1273751,2021/22,New Zealand,15,KS Williamson,d027ba9f,Hamid Hassan,093ae70b,DP Conway,df5a6881,0,0,0,0,0,,,,,,1,0,1
+1273751,2021/22,New Zealand,16,KS Williamson,d027ba9f,Mujeeb Ur Rahman,7d92277a,DP Conway,df5a6881,0,0,0,0,0,,,,,,1,0,1
+1273751,2021/22,New Zealand,16,DP Conway,df5a6881,Mujeeb Ur Rahman,7d92277a,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,4,0,4
+1273751,2021/22,New Zealand,16,DP Conway,df5a6881,Mujeeb Ur Rahman,7d92277a,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,0,0,0
+1273751,2021/22,New Zealand,16,DP Conway,df5a6881,Mujeeb Ur Rahman,7d92277a,KS Williamson,d027ba9f,1,0,0,0,0,,,,,,0,1,1
+1273751,2021/22,New Zealand,16,DP Conway,df5a6881,Mujeeb Ur Rahman,7d92277a,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,2,0,2
+1273751,2021/22,New Zealand,16,DP Conway,df5a6881,Mujeeb Ur Rahman,7d92277a,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,0,0,0
+1273751,2021/22,New Zealand,16,DP Conway,df5a6881,Mujeeb Ur Rahman,7d92277a,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,2,0,2
+1273751,2021/22,New Zealand,17,KS Williamson,d027ba9f,Naveen-ul-Haq,c0c411cb,DP Conway,df5a6881,0,0,0,0,0,,,,,,2,0,2
+1273751,2021/22,New Zealand,17,KS Williamson,d027ba9f,Naveen-ul-Haq,c0c411cb,DP Conway,df5a6881,0,0,0,0,0,,,,,,0,0,0
+1273751,2021/22,New Zealand,17,KS Williamson,d027ba9f,Naveen-ul-Haq,c0c411cb,DP Conway,df5a6881,0,0,0,0,0,,,,,,1,0,1
+1273751,2021/22,New Zealand,17,DP Conway,df5a6881,Naveen-ul-Haq,c0c411cb,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,1,0,1
+1273751,2021/22,New Zealand,17,KS Williamson,d027ba9f,Naveen-ul-Haq,c0c411cb,DP Conway,df5a6881,0,0,0,0,0,,,,,,1,0,1
+1273751,2021/22,New Zealand,17,DP Conway,df5a6881,Naveen-ul-Haq,c0c411cb,KS Williamson,d027ba9f,0,0,1,0,0,,,,,,0,1,1
+1273751,2021/22,New Zealand,18,DP Conway,df5a6881,Gulbadin Naib,9f77963a,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,1,0,1

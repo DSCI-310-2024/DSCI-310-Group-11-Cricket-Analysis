@@ -1,0 +1,248 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1127300,2018,Pakistan,0,Fakhar Zaman,1777c020,SM Sharif,f43dd8c2,Ahmed Shehzad,f8fd6e3f,1,0,0,0,0,,,,,,0,1,1
+1127300,2018,Pakistan,0,Fakhar Zaman,1777c020,SM Sharif,f43dd8c2,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,0,0,0
+1127300,2018,Pakistan,0,Fakhar Zaman,1777c020,SM Sharif,f43dd8c2,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Pakistan,0,Ahmed Shehzad,f8fd6e3f,SM Sharif,f43dd8c2,Fakhar Zaman,1777c020,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Pakistan,0,Fakhar Zaman,1777c020,SM Sharif,f43dd8c2,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Pakistan,0,Ahmed Shehzad,f8fd6e3f,SM Sharif,f43dd8c2,Fakhar Zaman,1777c020,0,0,0,0,0,,,,,,0,0,0
+1127300,2018,Pakistan,0,Ahmed Shehzad,f8fd6e3f,SM Sharif,f43dd8c2,Fakhar Zaman,1777c020,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Pakistan,1,Ahmed Shehzad,f8fd6e3f,MRJ Watt,1252f71a,Fakhar Zaman,1777c020,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Pakistan,1,Fakhar Zaman,1777c020,MRJ Watt,1252f71a,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Pakistan,1,Ahmed Shehzad,f8fd6e3f,MRJ Watt,1252f71a,Fakhar Zaman,1777c020,0,0,0,0,0,,,,,,0,0,0
+1127300,2018,Pakistan,1,Ahmed Shehzad,f8fd6e3f,MRJ Watt,1252f71a,Fakhar Zaman,1777c020,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Pakistan,1,Fakhar Zaman,1777c020,MRJ Watt,1252f71a,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,4,0,4
+1127300,2018,Pakistan,1,Fakhar Zaman,1777c020,MRJ Watt,1252f71a,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,0,0,0
+1127300,2018,Pakistan,2,Ahmed Shehzad,f8fd6e3f,Hamza Tahir,34cb2f69,Fakhar Zaman,1777c020,0,0,0,0,0,,,,,,4,0,4
+1127300,2018,Pakistan,2,Ahmed Shehzad,f8fd6e3f,Hamza Tahir,34cb2f69,Fakhar Zaman,1777c020,0,0,0,0,0,,,,,,4,0,4
+1127300,2018,Pakistan,2,Ahmed Shehzad,f8fd6e3f,Hamza Tahir,34cb2f69,Fakhar Zaman,1777c020,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Pakistan,2,Fakhar Zaman,1777c020,Hamza Tahir,34cb2f69,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,0,0,0
+1127300,2018,Pakistan,2,Fakhar Zaman,1777c020,Hamza Tahir,34cb2f69,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,4,0,4
+1127300,2018,Pakistan,2,Fakhar Zaman,1777c020,Hamza Tahir,34cb2f69,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,6,0,6
+1127300,2018,Pakistan,3,Ahmed Shehzad,f8fd6e3f,AC Evans,e9a870ed,Fakhar Zaman,1777c020,0,0,0,0,0,,,,,,0,0,0
+1127300,2018,Pakistan,3,Ahmed Shehzad,f8fd6e3f,AC Evans,e9a870ed,Fakhar Zaman,1777c020,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Pakistan,3,Fakhar Zaman,1777c020,AC Evans,e9a870ed,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Pakistan,3,Ahmed Shehzad,f8fd6e3f,AC Evans,e9a870ed,Fakhar Zaman,1777c020,0,0,0,0,1,Ahmed Shehzad,f8fd6e3f,RD Berrington,e21bc7f3,caught,0,0,0
+1127300,2018,Pakistan,3,Hussain Talat,bb4b445b,AC Evans,e9a870ed,Fakhar Zaman,1777c020,0,0,0,0,0,,,,,,0,0,0
+1127300,2018,Pakistan,3,Hussain Talat,bb4b445b,AC Evans,e9a870ed,Fakhar Zaman,1777c020,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Pakistan,4,Hussain Talat,bb4b445b,SM Sharif,f43dd8c2,Fakhar Zaman,1777c020,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Pakistan,4,Fakhar Zaman,1777c020,SM Sharif,f43dd8c2,Hussain Talat,bb4b445b,0,0,0,0,0,,,,,,2,0,2
+1127300,2018,Pakistan,4,Fakhar Zaman,1777c020,SM Sharif,f43dd8c2,Hussain Talat,bb4b445b,0,0,0,0,0,,,,,,0,0,0
+1127300,2018,Pakistan,4,Fakhar Zaman,1777c020,SM Sharif,f43dd8c2,Hussain Talat,bb4b445b,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Pakistan,4,Hussain Talat,bb4b445b,SM Sharif,f43dd8c2,Fakhar Zaman,1777c020,0,0,0,0,0,,,,,,0,0,0
+1127300,2018,Pakistan,4,Hussain Talat,bb4b445b,SM Sharif,f43dd8c2,Fakhar Zaman,1777c020,0,0,0,0,0,,,,,,4,0,4
+1127300,2018,Pakistan,5,Fakhar Zaman,1777c020,AC Evans,e9a870ed,Hussain Talat,bb4b445b,0,0,4,0,0,,,,,,0,4,4
+1127300,2018,Pakistan,5,Fakhar Zaman,1777c020,AC Evans,e9a870ed,Hussain Talat,bb4b445b,0,0,0,0,1,Fakhar Zaman,1777c020,MH Cross,8b261d84,caught,0,0,0
+1127300,2018,Pakistan,5,Sarfraz Ahmed,2254ab79,AC Evans,e9a870ed,Hussain Talat,bb4b445b,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Pakistan,5,Hussain Talat,bb4b445b,AC Evans,e9a870ed,Sarfraz Ahmed,2254ab79,0,0,0,0,0,,,,,,0,0,0
+1127300,2018,Pakistan,5,Hussain Talat,bb4b445b,AC Evans,e9a870ed,Sarfraz Ahmed,2254ab79,1,0,0,0,0,,,,,,0,1,1
+1127300,2018,Pakistan,5,Hussain Talat,bb4b445b,AC Evans,e9a870ed,Sarfraz Ahmed,2254ab79,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Pakistan,5,Sarfraz Ahmed,2254ab79,AC Evans,e9a870ed,Hussain Talat,bb4b445b,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Pakistan,6,Sarfraz Ahmed,2254ab79,MRJ Watt,1252f71a,Hussain Talat,bb4b445b,0,0,0,0,0,,,,,,0,0,0
+1127300,2018,Pakistan,6,Sarfraz Ahmed,2254ab79,MRJ Watt,1252f71a,Hussain Talat,bb4b445b,0,0,0,0,0,,,,,,4,0,4
+1127300,2018,Pakistan,6,Sarfraz Ahmed,2254ab79,MRJ Watt,1252f71a,Hussain Talat,bb4b445b,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Pakistan,6,Hussain Talat,bb4b445b,MRJ Watt,1252f71a,Sarfraz Ahmed,2254ab79,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Pakistan,6,Sarfraz Ahmed,2254ab79,MRJ Watt,1252f71a,Hussain Talat,bb4b445b,0,0,0,0,0,,,,,,0,0,0
+1127300,2018,Pakistan,6,Sarfraz Ahmed,2254ab79,MRJ Watt,1252f71a,Hussain Talat,bb4b445b,0,0,0,0,0,,,,,,0,0,0
+1127300,2018,Pakistan,7,Hussain Talat,bb4b445b,MA Leask,28131839,Sarfraz Ahmed,2254ab79,0,0,0,0,0,,,,,,0,0,0
+1127300,2018,Pakistan,7,Hussain Talat,bb4b445b,MA Leask,28131839,Sarfraz Ahmed,2254ab79,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Pakistan,7,Sarfraz Ahmed,2254ab79,MA Leask,28131839,Hussain Talat,bb4b445b,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Pakistan,7,Hussain Talat,bb4b445b,MA Leask,28131839,Sarfraz Ahmed,2254ab79,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Pakistan,7,Sarfraz Ahmed,2254ab79,MA Leask,28131839,Hussain Talat,bb4b445b,0,0,0,0,0,,,,,,2,0,2
+1127300,2018,Pakistan,7,Sarfraz Ahmed,2254ab79,MA Leask,28131839,Hussain Talat,bb4b445b,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Pakistan,8,Sarfraz Ahmed,2254ab79,RD Berrington,e21bc7f3,Hussain Talat,bb4b445b,0,0,0,0,0,,,,,,0,0,0
+1127300,2018,Pakistan,8,Sarfraz Ahmed,2254ab79,RD Berrington,e21bc7f3,Hussain Talat,bb4b445b,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Pakistan,8,Hussain Talat,bb4b445b,RD Berrington,e21bc7f3,Sarfraz Ahmed,2254ab79,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Pakistan,8,Sarfraz Ahmed,2254ab79,RD Berrington,e21bc7f3,Hussain Talat,bb4b445b,0,0,0,0,0,,,,,,0,0,0
+1127300,2018,Pakistan,8,Sarfraz Ahmed,2254ab79,RD Berrington,e21bc7f3,Hussain Talat,bb4b445b,0,0,0,0,0,,,,,,4,0,4
+1127300,2018,Pakistan,8,Sarfraz Ahmed,2254ab79,RD Berrington,e21bc7f3,Hussain Talat,bb4b445b,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Pakistan,9,Sarfraz Ahmed,2254ab79,Hamza Tahir,34cb2f69,Hussain Talat,bb4b445b,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Pakistan,9,Hussain Talat,bb4b445b,Hamza Tahir,34cb2f69,Sarfraz Ahmed,2254ab79,0,0,0,0,0,,,,,,2,0,2
+1127300,2018,Pakistan,9,Hussain Talat,bb4b445b,Hamza Tahir,34cb2f69,Sarfraz Ahmed,2254ab79,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Pakistan,9,Sarfraz Ahmed,2254ab79,Hamza Tahir,34cb2f69,Hussain Talat,bb4b445b,0,0,0,0,0,,,,,,4,0,4
+1127300,2018,Pakistan,9,Sarfraz Ahmed,2254ab79,Hamza Tahir,34cb2f69,Hussain Talat,bb4b445b,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Pakistan,9,Hussain Talat,bb4b445b,Hamza Tahir,34cb2f69,Sarfraz Ahmed,2254ab79,0,0,0,0,0,,,,,,4,0,4
+1127300,2018,Pakistan,10,Sarfraz Ahmed,2254ab79,RD Berrington,e21bc7f3,Hussain Talat,bb4b445b,0,0,0,0,0,,,,,,4,0,4
+1127300,2018,Pakistan,10,Sarfraz Ahmed,2254ab79,RD Berrington,e21bc7f3,Hussain Talat,bb4b445b,0,0,0,0,0,,,,,,0,0,0
+1127300,2018,Pakistan,10,Sarfraz Ahmed,2254ab79,RD Berrington,e21bc7f3,Hussain Talat,bb4b445b,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Pakistan,10,Hussain Talat,bb4b445b,RD Berrington,e21bc7f3,Sarfraz Ahmed,2254ab79,0,0,0,0,1,Hussain Talat,bb4b445b,Hamza Tahir,34cb2f69,caught,0,0,0
+1127300,2018,Pakistan,10,Shoaib Malik,64c34cd0,RD Berrington,e21bc7f3,Sarfraz Ahmed,2254ab79,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Pakistan,10,Sarfraz Ahmed,2254ab79,RD Berrington,e21bc7f3,Shoaib Malik,64c34cd0,1,0,0,0,0,,,,,,0,1,1
+1127300,2018,Pakistan,10,Sarfraz Ahmed,2254ab79,RD Berrington,e21bc7f3,Shoaib Malik,64c34cd0,0,0,0,0,0,,,,,,2,0,2
+1127300,2018,Pakistan,11,Shoaib Malik,64c34cd0,Hamza Tahir,34cb2f69,Sarfraz Ahmed,2254ab79,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Pakistan,11,Sarfraz Ahmed,2254ab79,Hamza Tahir,34cb2f69,Shoaib Malik,64c34cd0,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Pakistan,11,Shoaib Malik,64c34cd0,Hamza Tahir,34cb2f69,Sarfraz Ahmed,2254ab79,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Pakistan,11,Sarfraz Ahmed,2254ab79,Hamza Tahir,34cb2f69,Shoaib Malik,64c34cd0,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Pakistan,11,Shoaib Malik,64c34cd0,Hamza Tahir,34cb2f69,Sarfraz Ahmed,2254ab79,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Pakistan,11,Sarfraz Ahmed,2254ab79,Hamza Tahir,34cb2f69,Shoaib Malik,64c34cd0,0,0,0,0,0,,,,,,0,0,0
+1127300,2018,Pakistan,12,Shoaib Malik,64c34cd0,AC Evans,e9a870ed,Sarfraz Ahmed,2254ab79,0,0,0,0,0,,,,,,0,0,0
+1127300,2018,Pakistan,12,Shoaib Malik,64c34cd0,AC Evans,e9a870ed,Sarfraz Ahmed,2254ab79,0,0,0,0,0,,,,,,2,0,2
+1127300,2018,Pakistan,12,Shoaib Malik,64c34cd0,AC Evans,e9a870ed,Sarfraz Ahmed,2254ab79,0,0,0,0,0,,,,,,2,0,2
+1127300,2018,Pakistan,12,Shoaib Malik,64c34cd0,AC Evans,e9a870ed,Sarfraz Ahmed,2254ab79,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Pakistan,12,Sarfraz Ahmed,2254ab79,AC Evans,e9a870ed,Shoaib Malik,64c34cd0,1,0,0,0,0,,,,,,0,1,1
+1127300,2018,Pakistan,12,Sarfraz Ahmed,2254ab79,AC Evans,e9a870ed,Shoaib Malik,64c34cd0,0,0,0,0,0,,,,,,0,0,0
+1127300,2018,Pakistan,12,Sarfraz Ahmed,2254ab79,AC Evans,e9a870ed,Shoaib Malik,64c34cd0,0,0,0,0,0,,,,,,0,0,0
+1127300,2018,Pakistan,13,Shoaib Malik,64c34cd0,RD Berrington,e21bc7f3,Sarfraz Ahmed,2254ab79,0,0,0,0,0,,,,,,2,0,2
+1127300,2018,Pakistan,13,Shoaib Malik,64c34cd0,RD Berrington,e21bc7f3,Sarfraz Ahmed,2254ab79,0,0,0,0,0,,,,,,6,0,6
+1127300,2018,Pakistan,13,Shoaib Malik,64c34cd0,RD Berrington,e21bc7f3,Sarfraz Ahmed,2254ab79,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Pakistan,13,Sarfraz Ahmed,2254ab79,RD Berrington,e21bc7f3,Shoaib Malik,64c34cd0,0,0,0,0,0,,,,,,2,0,2
+1127300,2018,Pakistan,13,Sarfraz Ahmed,2254ab79,RD Berrington,e21bc7f3,Shoaib Malik,64c34cd0,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Pakistan,13,Shoaib Malik,64c34cd0,RD Berrington,e21bc7f3,Sarfraz Ahmed,2254ab79,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Pakistan,14,Shoaib Malik,64c34cd0,MRJ Watt,1252f71a,Sarfraz Ahmed,2254ab79,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Pakistan,14,Sarfraz Ahmed,2254ab79,MRJ Watt,1252f71a,Shoaib Malik,64c34cd0,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Pakistan,14,Shoaib Malik,64c34cd0,MRJ Watt,1252f71a,Sarfraz Ahmed,2254ab79,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Pakistan,14,Sarfraz Ahmed,2254ab79,MRJ Watt,1252f71a,Shoaib Malik,64c34cd0,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Pakistan,14,Shoaib Malik,64c34cd0,MRJ Watt,1252f71a,Sarfraz Ahmed,2254ab79,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Pakistan,14,Sarfraz Ahmed,2254ab79,MRJ Watt,1252f71a,Shoaib Malik,64c34cd0,0,0,0,0,0,,,,,,4,0,4
+1127300,2018,Pakistan,15,Shoaib Malik,64c34cd0,Hamza Tahir,34cb2f69,Sarfraz Ahmed,2254ab79,0,0,0,0,0,,,,,,6,0,6
+1127300,2018,Pakistan,15,Shoaib Malik,64c34cd0,Hamza Tahir,34cb2f69,Sarfraz Ahmed,2254ab79,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Pakistan,15,Sarfraz Ahmed,2254ab79,Hamza Tahir,34cb2f69,Shoaib Malik,64c34cd0,0,0,0,0,0,,,,,,4,0,4
+1127300,2018,Pakistan,15,Sarfraz Ahmed,2254ab79,Hamza Tahir,34cb2f69,Shoaib Malik,64c34cd0,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Pakistan,15,Shoaib Malik,64c34cd0,Hamza Tahir,34cb2f69,Sarfraz Ahmed,2254ab79,0,0,0,0,0,,,,,,2,0,2
+1127300,2018,Pakistan,15,Shoaib Malik,64c34cd0,Hamza Tahir,34cb2f69,Sarfraz Ahmed,2254ab79,0,0,0,0,0,,,,,,6,0,6
+1127300,2018,Pakistan,16,Sarfraz Ahmed,2254ab79,MRJ Watt,1252f71a,Shoaib Malik,64c34cd0,0,0,0,0,0,,,,,,6,0,6
+1127300,2018,Pakistan,16,Sarfraz Ahmed,2254ab79,MRJ Watt,1252f71a,Shoaib Malik,64c34cd0,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Pakistan,16,Shoaib Malik,64c34cd0,MRJ Watt,1252f71a,Sarfraz Ahmed,2254ab79,0,0,0,0,0,,,,,,0,0,0
+1127300,2018,Pakistan,16,Shoaib Malik,64c34cd0,MRJ Watt,1252f71a,Sarfraz Ahmed,2254ab79,0,0,0,0,0,,,,,,6,0,6
+1127300,2018,Pakistan,16,Shoaib Malik,64c34cd0,MRJ Watt,1252f71a,Sarfraz Ahmed,2254ab79,0,0,0,0,0,,,,,,6,0,6
+1127300,2018,Pakistan,16,Shoaib Malik,64c34cd0,MRJ Watt,1252f71a,Sarfraz Ahmed,2254ab79,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Pakistan,17,Shoaib Malik,64c34cd0,SM Sharif,f43dd8c2,Sarfraz Ahmed,2254ab79,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Pakistan,17,Sarfraz Ahmed,2254ab79,SM Sharif,f43dd8c2,Shoaib Malik,64c34cd0,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Pakistan,17,Shoaib Malik,64c34cd0,SM Sharif,f43dd8c2,Sarfraz Ahmed,2254ab79,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Pakistan,17,Sarfraz Ahmed,2254ab79,SM Sharif,f43dd8c2,Shoaib Malik,64c34cd0,0,0,0,0,0,,,,,,4,0,4
+1127300,2018,Pakistan,17,Sarfraz Ahmed,2254ab79,SM Sharif,f43dd8c2,Shoaib Malik,64c34cd0,0,0,0,0,0,,,,,,2,0,2
+1127300,2018,Pakistan,17,Sarfraz Ahmed,2254ab79,SM Sharif,f43dd8c2,Shoaib Malik,64c34cd0,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Pakistan,18,Sarfraz Ahmed,2254ab79,AC Evans,e9a870ed,Shoaib Malik,64c34cd0,0,0,0,0,0,,,,,,6,0,6
+1127300,2018,Pakistan,18,Sarfraz Ahmed,2254ab79,AC Evans,e9a870ed,Shoaib Malik,64c34cd0,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Pakistan,18,Shoaib Malik,64c34cd0,AC Evans,e9a870ed,Sarfraz Ahmed,2254ab79,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Pakistan,18,Sarfraz Ahmed,2254ab79,AC Evans,e9a870ed,Shoaib Malik,64c34cd0,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Pakistan,18,Shoaib Malik,64c34cd0,AC Evans,e9a870ed,Sarfraz Ahmed,2254ab79,0,0,0,0,1,Shoaib Malik,64c34cd0,MA Leask,28131839,caught,0,0,0
+1127300,2018,Pakistan,18,Sarfraz Ahmed,2254ab79,AC Evans,e9a870ed,Asif Ali,0a4736eb,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Pakistan,19,Sarfraz Ahmed,2254ab79,SM Sharif,f43dd8c2,Asif Ali,0a4736eb,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Pakistan,19,Asif Ali,0a4736eb,SM Sharif,f43dd8c2,Sarfraz Ahmed,2254ab79,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Pakistan,19,Sarfraz Ahmed,2254ab79,SM Sharif,f43dd8c2,Asif Ali,0a4736eb,0,0,0,0,0,,,,,,4,0,4
+1127300,2018,Pakistan,19,Sarfraz Ahmed,2254ab79,SM Sharif,f43dd8c2,Asif Ali,0a4736eb,0,0,0,0,0,,,,,,4,0,4
+1127300,2018,Pakistan,19,Sarfraz Ahmed,2254ab79,SM Sharif,f43dd8c2,Asif Ali,0a4736eb,0,0,0,0,0,,,,,,6,0,6
+1127300,2018,Pakistan,19,Sarfraz Ahmed,2254ab79,SM Sharif,f43dd8c2,Asif Ali,0a4736eb,0,0,0,0,0,,,,,,4,0,4
+1127300,2018,Scotland,0,HG Munsey,ff014c34,Mohammad Nawaz (3),3086f7a4,KJ Coetzer,85d8110a,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Scotland,0,KJ Coetzer,85d8110a,Mohammad Nawaz (3),3086f7a4,HG Munsey,ff014c34,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Scotland,0,HG Munsey,ff014c34,Mohammad Nawaz (3),3086f7a4,KJ Coetzer,85d8110a,0,0,0,0,0,,,,,,6,0,6
+1127300,2018,Scotland,0,HG Munsey,ff014c34,Mohammad Nawaz (3),3086f7a4,KJ Coetzer,85d8110a,0,0,0,0,0,,,,,,0,0,0
+1127300,2018,Scotland,0,HG Munsey,ff014c34,Mohammad Nawaz (3),3086f7a4,KJ Coetzer,85d8110a,0,0,0,0,0,,,,,,0,0,0
+1127300,2018,Scotland,0,HG Munsey,ff014c34,Mohammad Nawaz (3),3086f7a4,KJ Coetzer,85d8110a,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Scotland,1,HG Munsey,ff014c34,Mohammad Amir,e174dadd,KJ Coetzer,85d8110a,0,0,0,0,0,,,,,,2,0,2
+1127300,2018,Scotland,1,HG Munsey,ff014c34,Mohammad Amir,e174dadd,KJ Coetzer,85d8110a,0,0,0,0,0,,,,,,0,0,0
+1127300,2018,Scotland,1,HG Munsey,ff014c34,Mohammad Amir,e174dadd,KJ Coetzer,85d8110a,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Scotland,1,KJ Coetzer,85d8110a,Mohammad Amir,e174dadd,HG Munsey,ff014c34,0,0,0,0,0,,,,,,4,0,4
+1127300,2018,Scotland,1,KJ Coetzer,85d8110a,Mohammad Amir,e174dadd,HG Munsey,ff014c34,0,0,0,0,0,,,,,,6,0,6
+1127300,2018,Scotland,1,KJ Coetzer,85d8110a,Mohammad Amir,e174dadd,HG Munsey,ff014c34,0,0,0,0,0,,,,,,0,0,0
+1127300,2018,Scotland,2,HG Munsey,ff014c34,Hasan Ali,2911de16,KJ Coetzer,85d8110a,0,0,0,0,0,,,,,,0,0,0
+1127300,2018,Scotland,2,HG Munsey,ff014c34,Hasan Ali,2911de16,KJ Coetzer,85d8110a,1,0,0,0,0,,,,,,0,1,1
+1127300,2018,Scotland,2,HG Munsey,ff014c34,Hasan Ali,2911de16,KJ Coetzer,85d8110a,0,0,0,0,0,,,,,,4,0,4
+1127300,2018,Scotland,2,HG Munsey,ff014c34,Hasan Ali,2911de16,KJ Coetzer,85d8110a,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Scotland,2,KJ Coetzer,85d8110a,Hasan Ali,2911de16,HG Munsey,ff014c34,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Scotland,2,HG Munsey,ff014c34,Hasan Ali,2911de16,KJ Coetzer,85d8110a,0,0,0,0,0,,,,,,0,0,0
+1127300,2018,Scotland,2,HG Munsey,ff014c34,Hasan Ali,2911de16,KJ Coetzer,85d8110a,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Scotland,3,HG Munsey,ff014c34,Faheem Ashraf,bd4ea627,KJ Coetzer,85d8110a,0,0,0,0,0,,,,,,0,0,0
+1127300,2018,Scotland,3,HG Munsey,ff014c34,Faheem Ashraf,bd4ea627,KJ Coetzer,85d8110a,0,1,0,0,0,,,,,,0,1,1
+1127300,2018,Scotland,3,HG Munsey,ff014c34,Faheem Ashraf,bd4ea627,KJ Coetzer,85d8110a,0,0,0,0,0,,,,,,4,0,4
+1127300,2018,Scotland,3,HG Munsey,ff014c34,Faheem Ashraf,bd4ea627,KJ Coetzer,85d8110a,0,0,4,0,0,,,,,,0,4,4
+1127300,2018,Scotland,3,HG Munsey,ff014c34,Faheem Ashraf,bd4ea627,KJ Coetzer,85d8110a,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Scotland,3,KJ Coetzer,85d8110a,Faheem Ashraf,bd4ea627,HG Munsey,ff014c34,0,0,0,0,0,,,,,,4,0,4
+1127300,2018,Scotland,3,KJ Coetzer,85d8110a,Faheem Ashraf,bd4ea627,HG Munsey,ff014c34,0,0,0,0,0,,,,,,0,0,0
+1127300,2018,Scotland,4,HG Munsey,ff014c34,Mohammad Amir,e174dadd,KJ Coetzer,85d8110a,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Scotland,4,KJ Coetzer,85d8110a,Mohammad Amir,e174dadd,HG Munsey,ff014c34,0,0,0,0,0,,,,,,4,0,4
+1127300,2018,Scotland,4,KJ Coetzer,85d8110a,Mohammad Amir,e174dadd,HG Munsey,ff014c34,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Scotland,4,HG Munsey,ff014c34,Mohammad Amir,e174dadd,KJ Coetzer,85d8110a,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Scotland,4,KJ Coetzer,85d8110a,Mohammad Amir,e174dadd,HG Munsey,ff014c34,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Scotland,4,HG Munsey,ff014c34,Mohammad Amir,e174dadd,KJ Coetzer,85d8110a,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Scotland,5,HG Munsey,ff014c34,Hasan Ali,2911de16,KJ Coetzer,85d8110a,0,0,0,0,1,HG Munsey,ff014c34,Sarfraz Ahmed,2254ab79,caught,0,0,0
+1127300,2018,Scotland,5,RD Berrington,e21bc7f3,Hasan Ali,2911de16,KJ Coetzer,85d8110a,0,0,0,0,0,,,,,,0,0,0
+1127300,2018,Scotland,5,RD Berrington,e21bc7f3,Hasan Ali,2911de16,KJ Coetzer,85d8110a,0,0,0,0,0,,,,,,0,0,0
+1127300,2018,Scotland,5,RD Berrington,e21bc7f3,Hasan Ali,2911de16,KJ Coetzer,85d8110a,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Scotland,5,KJ Coetzer,85d8110a,Hasan Ali,2911de16,RD Berrington,e21bc7f3,0,0,0,0,0,,,,,,0,0,0
+1127300,2018,Scotland,5,KJ Coetzer,85d8110a,Hasan Ali,2911de16,RD Berrington,e21bc7f3,0,0,0,0,0,,,,,,2,0,2
+1127300,2018,Scotland,6,RD Berrington,e21bc7f3,Mohammad Nawaz (3),3086f7a4,KJ Coetzer,85d8110a,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Scotland,6,KJ Coetzer,85d8110a,Mohammad Nawaz (3),3086f7a4,RD Berrington,e21bc7f3,0,0,0,0,0,,,,,,4,0,4
+1127300,2018,Scotland,6,KJ Coetzer,85d8110a,Mohammad Nawaz (3),3086f7a4,RD Berrington,e21bc7f3,0,0,0,0,0,,,,,,0,0,0
+1127300,2018,Scotland,6,KJ Coetzer,85d8110a,Mohammad Nawaz (3),3086f7a4,RD Berrington,e21bc7f3,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Scotland,6,RD Berrington,e21bc7f3,Mohammad Nawaz (3),3086f7a4,KJ Coetzer,85d8110a,0,0,0,0,0,,,,,,0,0,0
+1127300,2018,Scotland,6,RD Berrington,e21bc7f3,Mohammad Nawaz (3),3086f7a4,KJ Coetzer,85d8110a,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Scotland,7,RD Berrington,e21bc7f3,Shadab Khan,9de62878,KJ Coetzer,85d8110a,0,0,0,0,1,RD Berrington,e21bc7f3,,,bowled,0,0,0
+1127300,2018,Scotland,7,CS MacLeod,9c376401,Shadab Khan,9de62878,KJ Coetzer,85d8110a,0,0,0,0,0,,,,,,0,0,0
+1127300,2018,Scotland,7,CS MacLeod,9c376401,Shadab Khan,9de62878,KJ Coetzer,85d8110a,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Scotland,7,KJ Coetzer,85d8110a,Shadab Khan,9de62878,CS MacLeod,9c376401,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Scotland,7,CS MacLeod,9c376401,Shadab Khan,9de62878,KJ Coetzer,85d8110a,0,0,0,0,0,,,,,,0,0,0
+1127300,2018,Scotland,7,CS MacLeod,9c376401,Shadab Khan,9de62878,KJ Coetzer,85d8110a,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Scotland,8,CS MacLeod,9c376401,Mohammad Nawaz (3),3086f7a4,KJ Coetzer,85d8110a,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Scotland,8,KJ Coetzer,85d8110a,Mohammad Nawaz (3),3086f7a4,CS MacLeod,9c376401,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Scotland,8,CS MacLeod,9c376401,Mohammad Nawaz (3),3086f7a4,KJ Coetzer,85d8110a,0,0,0,0,0,,,,,,0,0,0
+1127300,2018,Scotland,8,CS MacLeod,9c376401,Mohammad Nawaz (3),3086f7a4,KJ Coetzer,85d8110a,0,0,0,0,0,,,,,,0,0,0
+1127300,2018,Scotland,8,CS MacLeod,9c376401,Mohammad Nawaz (3),3086f7a4,KJ Coetzer,85d8110a,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Scotland,8,KJ Coetzer,85d8110a,Mohammad Nawaz (3),3086f7a4,CS MacLeod,9c376401,0,0,0,0,1,KJ Coetzer,85d8110a,Asif Ali,0a4736eb,caught,0,0,0
+1127300,2018,Scotland,9,DE Budge,0d37dea9,Shadab Khan,9de62878,CS MacLeod,9c376401,0,0,0,0,0,,,,,,0,0,0
+1127300,2018,Scotland,9,DE Budge,0d37dea9,Shadab Khan,9de62878,CS MacLeod,9c376401,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Scotland,9,CS MacLeod,9c376401,Shadab Khan,9de62878,DE Budge,0d37dea9,0,0,0,0,0,,,,,,4,0,4
+1127300,2018,Scotland,9,CS MacLeod,9c376401,Shadab Khan,9de62878,DE Budge,0d37dea9,0,0,0,0,0,,,,,,2,0,2
+1127300,2018,Scotland,9,CS MacLeod,9c376401,Shadab Khan,9de62878,DE Budge,0d37dea9,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Scotland,9,DE Budge,0d37dea9,Shadab Khan,9de62878,CS MacLeod,9c376401,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Scotland,10,DE Budge,0d37dea9,Mohammad Nawaz (3),3086f7a4,CS MacLeod,9c376401,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Scotland,10,CS MacLeod,9c376401,Mohammad Nawaz (3),3086f7a4,DE Budge,0d37dea9,0,0,0,0,0,,,,,,0,0,0
+1127300,2018,Scotland,10,CS MacLeod,9c376401,Mohammad Nawaz (3),3086f7a4,DE Budge,0d37dea9,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Scotland,10,DE Budge,0d37dea9,Mohammad Nawaz (3),3086f7a4,CS MacLeod,9c376401,0,0,0,0,0,,,,,,0,0,0
+1127300,2018,Scotland,10,DE Budge,0d37dea9,Mohammad Nawaz (3),3086f7a4,CS MacLeod,9c376401,0,0,0,0,0,,,,,,0,0,0
+1127300,2018,Scotland,10,DE Budge,0d37dea9,Mohammad Nawaz (3),3086f7a4,CS MacLeod,9c376401,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Scotland,11,DE Budge,0d37dea9,Shadab Khan,9de62878,CS MacLeod,9c376401,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Scotland,11,CS MacLeod,9c376401,Shadab Khan,9de62878,DE Budge,0d37dea9,0,0,0,0,0,,,,,,0,0,0
+1127300,2018,Scotland,11,CS MacLeod,9c376401,Shadab Khan,9de62878,DE Budge,0d37dea9,0,0,0,0,1,CS MacLeod,9c376401,,,lbw,0,0,0
+1127300,2018,Scotland,11,MA Leask,28131839,Shadab Khan,9de62878,DE Budge,0d37dea9,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Scotland,11,DE Budge,0d37dea9,Shadab Khan,9de62878,MA Leask,28131839,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Scotland,11,MA Leask,28131839,Shadab Khan,9de62878,DE Budge,0d37dea9,0,0,0,0,0,,,,,,0,0,0
+1127300,2018,Scotland,12,DE Budge,0d37dea9,Faheem Ashraf,bd4ea627,MA Leask,28131839,0,0,0,0,0,,,,,,0,0,0
+1127300,2018,Scotland,12,DE Budge,0d37dea9,Faheem Ashraf,bd4ea627,MA Leask,28131839,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Scotland,12,MA Leask,28131839,Faheem Ashraf,bd4ea627,DE Budge,0d37dea9,0,0,0,0,0,,,,,,0,0,0
+1127300,2018,Scotland,12,MA Leask,28131839,Faheem Ashraf,bd4ea627,DE Budge,0d37dea9,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Scotland,12,DE Budge,0d37dea9,Faheem Ashraf,bd4ea627,MA Leask,28131839,0,0,0,0,0,,,,,,0,0,0
+1127300,2018,Scotland,12,DE Budge,0d37dea9,Faheem Ashraf,bd4ea627,MA Leask,28131839,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Scotland,13,DE Budge,0d37dea9,Shadab Khan,9de62878,MA Leask,28131839,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Scotland,13,MA Leask,28131839,Shadab Khan,9de62878,DE Budge,0d37dea9,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Scotland,13,DE Budge,0d37dea9,Shadab Khan,9de62878,MA Leask,28131839,0,0,0,0,0,,,,,,6,0,6
+1127300,2018,Scotland,13,DE Budge,0d37dea9,Shadab Khan,9de62878,MA Leask,28131839,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Scotland,13,MA Leask,28131839,Shadab Khan,9de62878,DE Budge,0d37dea9,0,0,0,0,0,,,,,,0,0,0
+1127300,2018,Scotland,13,MA Leask,28131839,Shadab Khan,9de62878,DE Budge,0d37dea9,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Scotland,14,MA Leask,28131839,Faheem Ashraf,bd4ea627,DE Budge,0d37dea9,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Scotland,14,DE Budge,0d37dea9,Faheem Ashraf,bd4ea627,MA Leask,28131839,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Scotland,14,MA Leask,28131839,Faheem Ashraf,bd4ea627,DE Budge,0d37dea9,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Scotland,14,DE Budge,0d37dea9,Faheem Ashraf,bd4ea627,MA Leask,28131839,0,0,0,0,0,,,,,,0,0,0
+1127300,2018,Scotland,14,DE Budge,0d37dea9,Faheem Ashraf,bd4ea627,MA Leask,28131839,0,0,0,0,0,,,,,,6,0,6
+1127300,2018,Scotland,14,DE Budge,0d37dea9,Faheem Ashraf,bd4ea627,MA Leask,28131839,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Scotland,15,DE Budge,0d37dea9,Mohammad Amir,e174dadd,MA Leask,28131839,0,0,0,0,1,DE Budge,0d37dea9,Faheem Ashraf,bd4ea627,caught,0,0,0
+1127300,2018,Scotland,15,MA Leask,28131839,Mohammad Amir,e174dadd,MH Cross,8b261d84,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Scotland,15,MH Cross,8b261d84,Mohammad Amir,e174dadd,MA Leask,28131839,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Scotland,15,MA Leask,28131839,Mohammad Amir,e174dadd,MH Cross,8b261d84,0,0,0,0,0,,,,,,0,0,0
+1127300,2018,Scotland,15,MA Leask,28131839,Mohammad Amir,e174dadd,MH Cross,8b261d84,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Scotland,15,MH Cross,8b261d84,Mohammad Amir,e174dadd,MA Leask,28131839,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Scotland,16,MH Cross,8b261d84,Hasan Ali,2911de16,MA Leask,28131839,0,0,0,0,0,,,,,,0,0,0
+1127300,2018,Scotland,16,MH Cross,8b261d84,Hasan Ali,2911de16,MA Leask,28131839,0,0,0,0,0,,,,,,0,0,0
+1127300,2018,Scotland,16,MH Cross,8b261d84,Hasan Ali,2911de16,MA Leask,28131839,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Scotland,16,MA Leask,28131839,Hasan Ali,2911de16,MH Cross,8b261d84,1,0,0,0,0,,,,,,0,1,1
+1127300,2018,Scotland,16,MA Leask,28131839,Hasan Ali,2911de16,MH Cross,8b261d84,0,0,0,0,0,,,,,,4,0,4
+1127300,2018,Scotland,16,MA Leask,28131839,Hasan Ali,2911de16,MH Cross,8b261d84,0,0,0,0,0,,,,,,2,0,2
+1127300,2018,Scotland,16,MA Leask,28131839,Hasan Ali,2911de16,MH Cross,8b261d84,0,0,0,0,0,,,,,,6,0,6
+1127300,2018,Scotland,17,MH Cross,8b261d84,Mohammad Amir,e174dadd,MA Leask,28131839,0,0,0,0,0,,,,,,4,0,4
+1127300,2018,Scotland,17,MH Cross,8b261d84,Mohammad Amir,e174dadd,MA Leask,28131839,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Scotland,17,MA Leask,28131839,Mohammad Amir,e174dadd,MH Cross,8b261d84,0,0,0,0,0,,,,,,6,0,6
+1127300,2018,Scotland,17,MA Leask,28131839,Mohammad Amir,e174dadd,MH Cross,8b261d84,0,0,0,0,0,,,,,,4,0,4
+1127300,2018,Scotland,17,MA Leask,28131839,Mohammad Amir,e174dadd,MH Cross,8b261d84,0,0,0,0,0,,,,,,0,0,0
+1127300,2018,Scotland,17,MA Leask,28131839,Mohammad Amir,e174dadd,MH Cross,8b261d84,0,0,0,0,0,,,,,,4,0,4
+1127300,2018,Scotland,18,MH Cross,8b261d84,Hasan Ali,2911de16,MA Leask,28131839,0,0,0,0,0,,,,,,4,0,4
+1127300,2018,Scotland,18,MH Cross,8b261d84,Hasan Ali,2911de16,MA Leask,28131839,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Scotland,18,MA Leask,28131839,Hasan Ali,2911de16,MH Cross,8b261d84,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Scotland,18,MH Cross,8b261d84,Hasan Ali,2911de16,MA Leask,28131839,0,0,0,0,1,MH Cross,8b261d84,Shoaib Malik,64c34cd0,caught,0,0,0
+1127300,2018,Scotland,18,MA Leask,28131839,Hasan Ali,2911de16,SM Sharif,f43dd8c2,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Scotland,18,SM Sharif,f43dd8c2,Hasan Ali,2911de16,MA Leask,28131839,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Scotland,19,SM Sharif,f43dd8c2,Hussain Talat,bb4b445b,MA Leask,28131839,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Scotland,19,MA Leask,28131839,Hussain Talat,bb4b445b,SM Sharif,f43dd8c2,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Scotland,19,SM Sharif,f43dd8c2,Hussain Talat,bb4b445b,MA Leask,28131839,0,0,0,0,0,,,,,,0,0,0
+1127300,2018,Scotland,19,SM Sharif,f43dd8c2,Hussain Talat,bb4b445b,MA Leask,28131839,0,0,0,0,0,,,,,,1,0,1
+1127300,2018,Scotland,19,MA Leask,28131839,Hussain Talat,bb4b445b,SM Sharif,f43dd8c2,0,0,0,0,0,,,,,,0,0,0
+1127300,2018,Scotland,19,MA Leask,28131839,Hussain Talat,bb4b445b,SM Sharif,f43dd8c2,0,0,0,0,0,,,,,,1,0,1

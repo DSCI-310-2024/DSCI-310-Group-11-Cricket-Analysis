@@ -1,0 +1,252 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1184902,2019,Kenya,0,DM Gondaria,9048c17e,C Waiswa,18db3f22,AA Obanda,7081491e,1,0,0,0,0,,,,,,0,1,1
+1184902,2019,Kenya,0,DM Gondaria,9048c17e,C Waiswa,18db3f22,AA Obanda,7081491e,1,0,0,0,0,,,,,,0,1,1
+1184902,2019,Kenya,0,DM Gondaria,9048c17e,C Waiswa,18db3f22,AA Obanda,7081491e,5,0,0,0,0,,,,,,0,5,5
+1184902,2019,Kenya,0,DM Gondaria,9048c17e,C Waiswa,18db3f22,AA Obanda,7081491e,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Kenya,0,AA Obanda,7081491e,C Waiswa,18db3f22,DM Gondaria,9048c17e,0,0,0,0,0,,,,,,0,0,0
+1184902,2019,Kenya,0,AA Obanda,7081491e,C Waiswa,18db3f22,DM Gondaria,9048c17e,0,0,0,0,0,,,,,,0,0,0
+1184902,2019,Kenya,0,AA Obanda,7081491e,C Waiswa,18db3f22,DM Gondaria,9048c17e,0,0,0,0,1,AA Obanda,7081491e,RG Mukasa,011f6b42,caught,0,0,0
+1184902,2019,Kenya,0,IA Karim,ca92a578,C Waiswa,18db3f22,DM Gondaria,9048c17e,0,0,0,0,0,,,,,,0,0,0
+1184902,2019,Kenya,0,IA Karim,ca92a578,C Waiswa,18db3f22,DM Gondaria,9048c17e,0,0,0,0,0,,,,,,0,0,0
+1184902,2019,Kenya,1,DM Gondaria,9048c17e,F Nsubuga,87e33d07,IA Karim,ca92a578,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Kenya,1,IA Karim,ca92a578,F Nsubuga,87e33d07,DM Gondaria,9048c17e,0,0,0,0,0,,,,,,0,0,0
+1184902,2019,Kenya,1,IA Karim,ca92a578,F Nsubuga,87e33d07,DM Gondaria,9048c17e,0,0,0,0,0,,,,,,0,0,0
+1184902,2019,Kenya,1,IA Karim,ca92a578,F Nsubuga,87e33d07,DM Gondaria,9048c17e,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Kenya,1,DM Gondaria,9048c17e,F Nsubuga,87e33d07,IA Karim,ca92a578,0,0,0,0,0,,,,,,0,0,0
+1184902,2019,Kenya,1,DM Gondaria,9048c17e,F Nsubuga,87e33d07,IA Karim,ca92a578,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Kenya,2,DM Gondaria,9048c17e,C Waiswa,18db3f22,IA Karim,ca92a578,0,0,0,0,0,,,,,,2,0,2
+1184902,2019,Kenya,2,DM Gondaria,9048c17e,C Waiswa,18db3f22,IA Karim,ca92a578,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Kenya,2,IA Karim,ca92a578,C Waiswa,18db3f22,DM Gondaria,9048c17e,0,0,0,0,0,,,,,,0,0,0
+1184902,2019,Kenya,2,IA Karim,ca92a578,C Waiswa,18db3f22,DM Gondaria,9048c17e,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Kenya,2,DM Gondaria,9048c17e,C Waiswa,18db3f22,IA Karim,ca92a578,0,0,0,0,1,DM Gondaria,9048c17e,,,bowled,0,0,0
+1184902,2019,Kenya,2,CO Obuya,5680f1ad,C Waiswa,18db3f22,IA Karim,ca92a578,0,0,0,0,0,,,,,,0,0,0
+1184902,2019,Kenya,3,IA Karim,ca92a578,F Nsubuga,87e33d07,CO Obuya,5680f1ad,0,0,0,0,0,,,,,,2,0,2
+1184902,2019,Kenya,3,IA Karim,ca92a578,F Nsubuga,87e33d07,CO Obuya,5680f1ad,0,0,0,0,0,,,,,,4,0,4
+1184902,2019,Kenya,3,IA Karim,ca92a578,F Nsubuga,87e33d07,CO Obuya,5680f1ad,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Kenya,3,CO Obuya,5680f1ad,F Nsubuga,87e33d07,IA Karim,ca92a578,0,0,0,0,0,,,,,,0,0,0
+1184902,2019,Kenya,3,CO Obuya,5680f1ad,F Nsubuga,87e33d07,IA Karim,ca92a578,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Kenya,3,IA Karim,ca92a578,F Nsubuga,87e33d07,CO Obuya,5680f1ad,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Kenya,4,IA Karim,ca92a578,Riazat Ali Shah,269cc4ff,CO Obuya,5680f1ad,0,0,0,0,0,,,,,,0,0,0
+1184902,2019,Kenya,4,IA Karim,ca92a578,Riazat Ali Shah,269cc4ff,CO Obuya,5680f1ad,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Kenya,4,CO Obuya,5680f1ad,Riazat Ali Shah,269cc4ff,IA Karim,ca92a578,0,0,0,0,0,,,,,,0,0,0
+1184902,2019,Kenya,4,CO Obuya,5680f1ad,Riazat Ali Shah,269cc4ff,IA Karim,ca92a578,0,0,0,0,0,,,,,,0,0,0
+1184902,2019,Kenya,4,CO Obuya,5680f1ad,Riazat Ali Shah,269cc4ff,IA Karim,ca92a578,0,0,0,0,0,,,,,,2,0,2
+1184902,2019,Kenya,4,CO Obuya,5680f1ad,Riazat Ali Shah,269cc4ff,IA Karim,ca92a578,0,0,0,0,0,,,,,,0,0,0
+1184902,2019,Kenya,5,IA Karim,ca92a578,RG Mukasa,011f6b42,CO Obuya,5680f1ad,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Kenya,5,CO Obuya,5680f1ad,RG Mukasa,011f6b42,IA Karim,ca92a578,0,0,0,0,0,,,,,,0,0,0
+1184902,2019,Kenya,5,CO Obuya,5680f1ad,RG Mukasa,011f6b42,IA Karim,ca92a578,0,0,0,0,0,,,,,,0,0,0
+1184902,2019,Kenya,5,CO Obuya,5680f1ad,RG Mukasa,011f6b42,IA Karim,ca92a578,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Kenya,5,IA Karim,ca92a578,RG Mukasa,011f6b42,CO Obuya,5680f1ad,0,0,0,0,0,,,,,,0,0,0
+1184902,2019,Kenya,5,IA Karim,ca92a578,RG Mukasa,011f6b42,CO Obuya,5680f1ad,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Kenya,6,IA Karim,ca92a578,Riazat Ali Shah,269cc4ff,CO Obuya,5680f1ad,0,0,0,0,0,,,,,,0,0,0
+1184902,2019,Kenya,6,IA Karim,ca92a578,Riazat Ali Shah,269cc4ff,CO Obuya,5680f1ad,0,0,0,0,0,,,,,,0,0,0
+1184902,2019,Kenya,6,IA Karim,ca92a578,Riazat Ali Shah,269cc4ff,CO Obuya,5680f1ad,0,0,0,0,0,,,,,,0,0,0
+1184902,2019,Kenya,6,IA Karim,ca92a578,Riazat Ali Shah,269cc4ff,CO Obuya,5680f1ad,0,0,0,0,0,,,,,,0,0,0
+1184902,2019,Kenya,6,IA Karim,ca92a578,Riazat Ali Shah,269cc4ff,CO Obuya,5680f1ad,0,0,0,0,0,,,,,,0,0,0
+1184902,2019,Kenya,6,IA Karim,ca92a578,Riazat Ali Shah,269cc4ff,CO Obuya,5680f1ad,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Kenya,7,IA Karim,ca92a578,RG Mukasa,011f6b42,CO Obuya,5680f1ad,0,0,0,0,0,,,,,,4,0,4
+1184902,2019,Kenya,7,IA Karim,ca92a578,RG Mukasa,011f6b42,CO Obuya,5680f1ad,0,0,0,0,0,,,,,,0,0,0
+1184902,2019,Kenya,7,IA Karim,ca92a578,RG Mukasa,011f6b42,CO Obuya,5680f1ad,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Kenya,7,CO Obuya,5680f1ad,RG Mukasa,011f6b42,IA Karim,ca92a578,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Kenya,7,IA Karim,ca92a578,RG Mukasa,011f6b42,CO Obuya,5680f1ad,0,0,0,0,0,,,,,,0,0,0
+1184902,2019,Kenya,7,IA Karim,ca92a578,RG Mukasa,011f6b42,CO Obuya,5680f1ad,0,0,0,0,0,,,,,,0,0,0
+1184902,2019,Kenya,8,CO Obuya,5680f1ad,D Muhumuza,7636b587,IA Karim,ca92a578,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Kenya,8,IA Karim,ca92a578,D Muhumuza,7636b587,CO Obuya,5680f1ad,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Kenya,8,CO Obuya,5680f1ad,D Muhumuza,7636b587,IA Karim,ca92a578,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Kenya,8,IA Karim,ca92a578,D Muhumuza,7636b587,CO Obuya,5680f1ad,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Kenya,8,CO Obuya,5680f1ad,D Muhumuza,7636b587,IA Karim,ca92a578,0,0,0,0,0,,,,,,0,0,0
+1184902,2019,Kenya,8,CO Obuya,5680f1ad,D Muhumuza,7636b587,IA Karim,ca92a578,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Kenya,9,CO Obuya,5680f1ad,RG Mukasa,011f6b42,IA Karim,ca92a578,0,0,0,0,0,,,,,,0,0,0
+1184902,2019,Kenya,9,CO Obuya,5680f1ad,RG Mukasa,011f6b42,IA Karim,ca92a578,0,0,0,0,0,,,,,,0,0,0
+1184902,2019,Kenya,9,CO Obuya,5680f1ad,RG Mukasa,011f6b42,IA Karim,ca92a578,0,0,0,0,0,,,,,,0,0,0
+1184902,2019,Kenya,9,CO Obuya,5680f1ad,RG Mukasa,011f6b42,IA Karim,ca92a578,0,0,0,0,0,,,,,,0,0,0
+1184902,2019,Kenya,9,CO Obuya,5680f1ad,RG Mukasa,011f6b42,IA Karim,ca92a578,0,0,0,0,0,,,,,,0,0,0
+1184902,2019,Kenya,9,CO Obuya,5680f1ad,RG Mukasa,011f6b42,IA Karim,ca92a578,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Kenya,10,CO Obuya,5680f1ad,D Muhumuza,7636b587,IA Karim,ca92a578,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Kenya,10,IA Karim,ca92a578,D Muhumuza,7636b587,CO Obuya,5680f1ad,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Kenya,10,CO Obuya,5680f1ad,D Muhumuza,7636b587,IA Karim,ca92a578,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Kenya,10,IA Karim,ca92a578,D Muhumuza,7636b587,CO Obuya,5680f1ad,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Kenya,10,CO Obuya,5680f1ad,D Muhumuza,7636b587,IA Karim,ca92a578,0,0,0,0,0,,,,,,0,0,0
+1184902,2019,Kenya,10,CO Obuya,5680f1ad,D Muhumuza,7636b587,IA Karim,ca92a578,0,0,0,0,0,,,,,,0,0,0
+1184902,2019,Kenya,11,IA Karim,ca92a578,RG Mukasa,011f6b42,CO Obuya,5680f1ad,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Kenya,11,CO Obuya,5680f1ad,RG Mukasa,011f6b42,IA Karim,ca92a578,0,0,0,0,0,,,,,,0,0,0
+1184902,2019,Kenya,11,CO Obuya,5680f1ad,RG Mukasa,011f6b42,IA Karim,ca92a578,0,0,0,0,0,,,,,,6,0,6
+1184902,2019,Kenya,11,CO Obuya,5680f1ad,RG Mukasa,011f6b42,IA Karim,ca92a578,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Kenya,11,IA Karim,ca92a578,RG Mukasa,011f6b42,CO Obuya,5680f1ad,0,0,1,0,0,,,,,,0,1,1
+1184902,2019,Kenya,11,CO Obuya,5680f1ad,RG Mukasa,011f6b42,IA Karim,ca92a578,0,0,0,0,0,,,,,,0,0,0
+1184902,2019,Kenya,12,IA Karim,ca92a578,DM Nakrani,46a7ac78,CO Obuya,5680f1ad,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Kenya,12,CO Obuya,5680f1ad,DM Nakrani,46a7ac78,IA Karim,ca92a578,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Kenya,12,IA Karim,ca92a578,DM Nakrani,46a7ac78,CO Obuya,5680f1ad,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Kenya,12,CO Obuya,5680f1ad,DM Nakrani,46a7ac78,IA Karim,ca92a578,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Kenya,12,IA Karim,ca92a578,DM Nakrani,46a7ac78,CO Obuya,5680f1ad,0,0,0,0,0,,,,,,2,0,2
+1184902,2019,Kenya,12,IA Karim,ca92a578,DM Nakrani,46a7ac78,CO Obuya,5680f1ad,0,0,0,0,1,IA Karim,ca92a578,F Nsubuga,87e33d07,caught,0,0,0
+1184902,2019,Kenya,13,CO Obuya,5680f1ad,R Olipa,327fcb33,RR Patel,7fa6bd8e,1,0,0,0,0,,,,,,0,1,1
+1184902,2019,Kenya,13,CO Obuya,5680f1ad,R Olipa,327fcb33,RR Patel,7fa6bd8e,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Kenya,13,RR Patel,7fa6bd8e,R Olipa,327fcb33,CO Obuya,5680f1ad,0,0,0,0,0,,,,,,0,0,0
+1184902,2019,Kenya,13,RR Patel,7fa6bd8e,R Olipa,327fcb33,CO Obuya,5680f1ad,0,0,0,0,0,,,,,,0,0,0
+1184902,2019,Kenya,13,RR Patel,7fa6bd8e,R Olipa,327fcb33,CO Obuya,5680f1ad,0,0,0,0,0,,,,,,6,0,6
+1184902,2019,Kenya,13,RR Patel,7fa6bd8e,R Olipa,327fcb33,CO Obuya,5680f1ad,0,0,0,0,0,,,,,,0,0,0
+1184902,2019,Kenya,13,RR Patel,7fa6bd8e,R Olipa,327fcb33,CO Obuya,5680f1ad,0,0,0,0,0,,,,,,0,0,0
+1184902,2019,Kenya,14,CO Obuya,5680f1ad,DM Nakrani,46a7ac78,RR Patel,7fa6bd8e,0,0,0,0,1,CO Obuya,5680f1ad,C Waiswa,18db3f22,caught,0,0,0
+1184902,2019,Kenya,14,SO Ngoche,49118dc7,DM Nakrani,46a7ac78,RR Patel,7fa6bd8e,0,0,0,0,0,,,,,,0,0,0
+1184902,2019,Kenya,14,SO Ngoche,49118dc7,DM Nakrani,46a7ac78,RR Patel,7fa6bd8e,0,0,0,0,0,,,,,,0,0,0
+1184902,2019,Kenya,14,SO Ngoche,49118dc7,DM Nakrani,46a7ac78,RR Patel,7fa6bd8e,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Kenya,14,RR Patel,7fa6bd8e,DM Nakrani,46a7ac78,SO Ngoche,49118dc7,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Kenya,14,SO Ngoche,49118dc7,DM Nakrani,46a7ac78,RR Patel,7fa6bd8e,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Kenya,15,SO Ngoche,49118dc7,Riazat Ali Shah,269cc4ff,RR Patel,7fa6bd8e,0,0,0,0,0,,,,,,6,0,6
+1184902,2019,Kenya,15,SO Ngoche,49118dc7,Riazat Ali Shah,269cc4ff,RR Patel,7fa6bd8e,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Kenya,15,RR Patel,7fa6bd8e,Riazat Ali Shah,269cc4ff,SO Ngoche,49118dc7,0,0,0,0,0,,,,,,0,0,0
+1184902,2019,Kenya,15,RR Patel,7fa6bd8e,Riazat Ali Shah,269cc4ff,SO Ngoche,49118dc7,0,0,0,0,0,,,,,,0,0,0
+1184902,2019,Kenya,15,RR Patel,7fa6bd8e,Riazat Ali Shah,269cc4ff,SO Ngoche,49118dc7,0,0,0,0,0,,,,,,6,0,6
+1184902,2019,Kenya,15,RR Patel,7fa6bd8e,Riazat Ali Shah,269cc4ff,SO Ngoche,49118dc7,0,0,0,0,0,,,,,,6,0,6
+1184902,2019,Kenya,16,SO Ngoche,49118dc7,DM Nakrani,46a7ac78,RR Patel,7fa6bd8e,0,0,0,0,0,,,,,,4,0,4
+1184902,2019,Kenya,16,SO Ngoche,49118dc7,DM Nakrani,46a7ac78,RR Patel,7fa6bd8e,0,0,0,0,0,,,,,,6,0,6
+1184902,2019,Kenya,16,SO Ngoche,49118dc7,DM Nakrani,46a7ac78,RR Patel,7fa6bd8e,0,0,0,0,0,,,,,,2,0,2
+1184902,2019,Kenya,16,SO Ngoche,49118dc7,DM Nakrani,46a7ac78,RR Patel,7fa6bd8e,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Kenya,16,RR Patel,7fa6bd8e,DM Nakrani,46a7ac78,SO Ngoche,49118dc7,0,0,0,0,0,,,,,,4,0,4
+1184902,2019,Kenya,16,RR Patel,7fa6bd8e,DM Nakrani,46a7ac78,SO Ngoche,49118dc7,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Kenya,17,RR Patel,7fa6bd8e,C Waiswa,18db3f22,SO Ngoche,49118dc7,0,0,0,0,0,,,,,,4,0,4
+1184902,2019,Kenya,17,RR Patel,7fa6bd8e,C Waiswa,18db3f22,SO Ngoche,49118dc7,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Kenya,17,SO Ngoche,49118dc7,C Waiswa,18db3f22,RR Patel,7fa6bd8e,0,0,0,0,1,SO Ngoche,49118dc7,R Olipa,327fcb33,caught,0,0,0
+1184902,2019,Kenya,17,RR Patel,7fa6bd8e,C Waiswa,18db3f22,LN Oluoch,eb4f9c61,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Kenya,17,LN Oluoch,eb4f9c61,C Waiswa,18db3f22,RR Patel,7fa6bd8e,0,0,0,0,0,,,,,,4,0,4
+1184902,2019,Kenya,17,LN Oluoch,eb4f9c61,C Waiswa,18db3f22,RR Patel,7fa6bd8e,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Kenya,18,LN Oluoch,eb4f9c61,DM Nakrani,46a7ac78,RR Patel,7fa6bd8e,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Kenya,18,RR Patel,7fa6bd8e,DM Nakrani,46a7ac78,LN Oluoch,eb4f9c61,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Kenya,18,LN Oluoch,eb4f9c61,DM Nakrani,46a7ac78,RR Patel,7fa6bd8e,0,0,0,0,0,,,,,,0,0,0
+1184902,2019,Kenya,18,LN Oluoch,eb4f9c61,DM Nakrani,46a7ac78,RR Patel,7fa6bd8e,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Kenya,18,RR Patel,7fa6bd8e,DM Nakrani,46a7ac78,LN Oluoch,eb4f9c61,0,0,0,0,0,,,,,,4,0,4
+1184902,2019,Kenya,18,RR Patel,7fa6bd8e,DM Nakrani,46a7ac78,LN Oluoch,eb4f9c61,0,0,0,0,0,,,,,,2,0,2
+1184902,2019,Kenya,19,LN Oluoch,eb4f9c61,C Waiswa,18db3f22,RR Patel,7fa6bd8e,0,0,0,0,1,LN Oluoch,eb4f9c61,,,bowled,0,0,0
+1184902,2019,Kenya,19,SR Bhudia,e9173fb0,C Waiswa,18db3f22,RR Patel,7fa6bd8e,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Kenya,19,RR Patel,7fa6bd8e,C Waiswa,18db3f22,SR Bhudia,e9173fb0,0,0,0,0,0,,,,,,6,0,6
+1184902,2019,Kenya,19,RR Patel,7fa6bd8e,C Waiswa,18db3f22,SR Bhudia,e9173fb0,0,0,0,0,0,,,,,,0,0,0
+1184902,2019,Kenya,19,RR Patel,7fa6bd8e,C Waiswa,18db3f22,SR Bhudia,e9173fb0,0,0,0,0,0,,,,,,2,0,2
+1184902,2019,Kenya,19,RR Patel,7fa6bd8e,C Waiswa,18db3f22,SR Bhudia,e9173fb0,0,0,0,0,0,,,,,,6,0,6
+1184902,2019,Uganda,0,Z Arinaitwe,88ee683b,SO Ngoche,49118dc7,HB Kayondo,d26858c0,0,0,0,0,0,,,,,,0,0,0
+1184902,2019,Uganda,0,Z Arinaitwe,88ee683b,SO Ngoche,49118dc7,HB Kayondo,d26858c0,0,0,0,0,0,,,,,,0,0,0
+1184902,2019,Uganda,0,Z Arinaitwe,88ee683b,SO Ngoche,49118dc7,HB Kayondo,d26858c0,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Uganda,0,HB Kayondo,d26858c0,SO Ngoche,49118dc7,Z Arinaitwe,88ee683b,0,0,0,0,0,,,,,,6,0,6
+1184902,2019,Uganda,0,HB Kayondo,d26858c0,SO Ngoche,49118dc7,Z Arinaitwe,88ee683b,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Uganda,0,Z Arinaitwe,88ee683b,SO Ngoche,49118dc7,HB Kayondo,d26858c0,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Uganda,1,Z Arinaitwe,88ee683b,E Otieno,c57fa67e,HB Kayondo,d26858c0,0,0,0,0,0,,,,,,0,0,0
+1184902,2019,Uganda,1,Z Arinaitwe,88ee683b,E Otieno,c57fa67e,HB Kayondo,d26858c0,0,0,0,0,0,,,,,,4,0,4
+1184902,2019,Uganda,1,Z Arinaitwe,88ee683b,E Otieno,c57fa67e,HB Kayondo,d26858c0,1,0,0,0,0,,,,,,0,1,1
+1184902,2019,Uganda,1,Z Arinaitwe,88ee683b,E Otieno,c57fa67e,HB Kayondo,d26858c0,0,0,0,0,0,,,,,,0,0,0
+1184902,2019,Uganda,1,Z Arinaitwe,88ee683b,E Otieno,c57fa67e,HB Kayondo,d26858c0,0,0,0,0,0,,,,,,0,0,0
+1184902,2019,Uganda,1,Z Arinaitwe,88ee683b,E Otieno,c57fa67e,HB Kayondo,d26858c0,0,0,0,0,1,Z Arinaitwe,88ee683b,CO Obuya,5680f1ad,caught,0,0,0
+1184902,2019,Uganda,1,RG Mukasa,011f6b42,E Otieno,c57fa67e,HB Kayondo,d26858c0,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Uganda,2,RG Mukasa,011f6b42,SO Ngoche,49118dc7,HB Kayondo,d26858c0,0,0,0,0,0,,,,,,0,0,0
+1184902,2019,Uganda,2,RG Mukasa,011f6b42,SO Ngoche,49118dc7,HB Kayondo,d26858c0,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Uganda,2,HB Kayondo,d26858c0,SO Ngoche,49118dc7,RG Mukasa,011f6b42,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Uganda,2,RG Mukasa,011f6b42,SO Ngoche,49118dc7,HB Kayondo,d26858c0,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Uganda,2,HB Kayondo,d26858c0,SO Ngoche,49118dc7,RG Mukasa,011f6b42,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Uganda,2,RG Mukasa,011f6b42,SO Ngoche,49118dc7,HB Kayondo,d26858c0,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Uganda,3,RG Mukasa,011f6b42,E Otieno,c57fa67e,HB Kayondo,d26858c0,0,0,0,0,1,RG Mukasa,011f6b42,CO Obuya,5680f1ad,caught,0,0,0
+1184902,2019,Uganda,3,HB Kayondo,d26858c0,E Otieno,c57fa67e,A Otwani,6727fb4d,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Uganda,3,A Otwani,6727fb4d,E Otieno,c57fa67e,HB Kayondo,d26858c0,0,0,0,0,0,,,,,,0,0,0
+1184902,2019,Uganda,3,A Otwani,6727fb4d,E Otieno,c57fa67e,HB Kayondo,d26858c0,1,0,0,0,0,,,,,,0,1,1
+1184902,2019,Uganda,3,A Otwani,6727fb4d,E Otieno,c57fa67e,HB Kayondo,d26858c0,0,0,0,0,0,,,,,,0,0,0
+1184902,2019,Uganda,3,A Otwani,6727fb4d,E Otieno,c57fa67e,HB Kayondo,d26858c0,0,0,0,0,0,,,,,,0,0,0
+1184902,2019,Uganda,3,A Otwani,6727fb4d,E Otieno,c57fa67e,HB Kayondo,d26858c0,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Uganda,4,A Otwani,6727fb4d,LN Oluoch,eb4f9c61,HB Kayondo,d26858c0,0,0,0,0,0,,,,,,0,0,0
+1184902,2019,Uganda,4,A Otwani,6727fb4d,LN Oluoch,eb4f9c61,HB Kayondo,d26858c0,0,0,0,0,0,,,,,,0,0,0
+1184902,2019,Uganda,4,A Otwani,6727fb4d,LN Oluoch,eb4f9c61,HB Kayondo,d26858c0,0,0,0,0,0,,,,,,0,0,0
+1184902,2019,Uganda,4,A Otwani,6727fb4d,LN Oluoch,eb4f9c61,HB Kayondo,d26858c0,1,0,0,0,0,,,,,,0,1,1
+1184902,2019,Uganda,4,A Otwani,6727fb4d,LN Oluoch,eb4f9c61,HB Kayondo,d26858c0,0,0,0,0,0,,,,,,4,0,4
+1184902,2019,Uganda,4,A Otwani,6727fb4d,LN Oluoch,eb4f9c61,HB Kayondo,d26858c0,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Uganda,4,HB Kayondo,d26858c0,LN Oluoch,eb4f9c61,A Otwani,6727fb4d,0,0,0,0,0,,,,,,0,0,0
+1184902,2019,Uganda,5,A Otwani,6727fb4d,NM Odhiambo,c07a1f41,HB Kayondo,d26858c0,0,0,0,0,0,,,,,,4,0,4
+1184902,2019,Uganda,5,A Otwani,6727fb4d,NM Odhiambo,c07a1f41,HB Kayondo,d26858c0,0,0,0,0,1,A Otwani,6727fb4d,RR Patel,7fa6bd8e,caught,0,0,0
+1184902,2019,Uganda,5,HB Kayondo,d26858c0,NM Odhiambo,c07a1f41,DM Nakrani,46a7ac78,0,0,0,0,0,,,,,,0,0,0
+1184902,2019,Uganda,5,HB Kayondo,d26858c0,NM Odhiambo,c07a1f41,DM Nakrani,46a7ac78,0,0,0,0,0,,,,,,6,0,6
+1184902,2019,Uganda,5,HB Kayondo,d26858c0,NM Odhiambo,c07a1f41,DM Nakrani,46a7ac78,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Uganda,5,DM Nakrani,46a7ac78,NM Odhiambo,c07a1f41,HB Kayondo,d26858c0,0,0,0,0,0,,,,,,0,0,0
+1184902,2019,Uganda,6,HB Kayondo,d26858c0,LN Oluoch,eb4f9c61,DM Nakrani,46a7ac78,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Uganda,6,DM Nakrani,46a7ac78,LN Oluoch,eb4f9c61,HB Kayondo,d26858c0,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Uganda,6,HB Kayondo,d26858c0,LN Oluoch,eb4f9c61,DM Nakrani,46a7ac78,0,0,0,0,0,,,,,,0,0,0
+1184902,2019,Uganda,6,HB Kayondo,d26858c0,LN Oluoch,eb4f9c61,DM Nakrani,46a7ac78,0,0,0,0,0,,,,,,2,0,2
+1184902,2019,Uganda,6,HB Kayondo,d26858c0,LN Oluoch,eb4f9c61,DM Nakrani,46a7ac78,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Uganda,6,DM Nakrani,46a7ac78,LN Oluoch,eb4f9c61,HB Kayondo,d26858c0,0,0,0,0,0,,,,,,6,0,6
+1184902,2019,Uganda,7,HB Kayondo,d26858c0,NM Odhiambo,c07a1f41,DM Nakrani,46a7ac78,0,0,0,0,0,,,,,,0,0,0
+1184902,2019,Uganda,7,HB Kayondo,d26858c0,NM Odhiambo,c07a1f41,DM Nakrani,46a7ac78,0,0,0,0,0,,,,,,2,0,2
+1184902,2019,Uganda,7,HB Kayondo,d26858c0,NM Odhiambo,c07a1f41,DM Nakrani,46a7ac78,0,0,0,0,0,,,,,,0,0,0
+1184902,2019,Uganda,7,HB Kayondo,d26858c0,NM Odhiambo,c07a1f41,DM Nakrani,46a7ac78,1,0,0,0,0,,,,,,0,1,1
+1184902,2019,Uganda,7,HB Kayondo,d26858c0,NM Odhiambo,c07a1f41,DM Nakrani,46a7ac78,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Uganda,7,DM Nakrani,46a7ac78,NM Odhiambo,c07a1f41,HB Kayondo,d26858c0,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Uganda,7,HB Kayondo,d26858c0,NM Odhiambo,c07a1f41,DM Nakrani,46a7ac78,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Uganda,8,HB Kayondo,d26858c0,SR Bhudia,e9173fb0,DM Nakrani,46a7ac78,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Uganda,8,DM Nakrani,46a7ac78,SR Bhudia,e9173fb0,HB Kayondo,d26858c0,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Uganda,8,HB Kayondo,d26858c0,SR Bhudia,e9173fb0,DM Nakrani,46a7ac78,0,0,0,0,0,,,,,,0,0,0
+1184902,2019,Uganda,8,HB Kayondo,d26858c0,SR Bhudia,e9173fb0,DM Nakrani,46a7ac78,0,0,0,0,0,,,,,,4,0,4
+1184902,2019,Uganda,8,HB Kayondo,d26858c0,SR Bhudia,e9173fb0,DM Nakrani,46a7ac78,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Uganda,8,DM Nakrani,46a7ac78,SR Bhudia,e9173fb0,HB Kayondo,d26858c0,0,0,0,0,0,,,,,,0,0,0
+1184902,2019,Uganda,9,HB Kayondo,d26858c0,NM Odhiambo,c07a1f41,DM Nakrani,46a7ac78,0,0,0,0,1,HB Kayondo,d26858c0,SO Ngoche,49118dc7,caught,0,0,0
+1184902,2019,Uganda,9,DM Nakrani,46a7ac78,NM Odhiambo,c07a1f41,Riazat Ali Shah,269cc4ff,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Uganda,9,Riazat Ali Shah,269cc4ff,NM Odhiambo,c07a1f41,DM Nakrani,46a7ac78,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Uganda,9,DM Nakrani,46a7ac78,NM Odhiambo,c07a1f41,Riazat Ali Shah,269cc4ff,0,0,0,0,0,,,,,,4,0,4
+1184902,2019,Uganda,9,DM Nakrani,46a7ac78,NM Odhiambo,c07a1f41,Riazat Ali Shah,269cc4ff,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Uganda,9,Riazat Ali Shah,269cc4ff,NM Odhiambo,c07a1f41,DM Nakrani,46a7ac78,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Uganda,10,Riazat Ali Shah,269cc4ff,SO Ngoche,49118dc7,DM Nakrani,46a7ac78,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Uganda,10,DM Nakrani,46a7ac78,SO Ngoche,49118dc7,Riazat Ali Shah,269cc4ff,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Uganda,10,Riazat Ali Shah,269cc4ff,SO Ngoche,49118dc7,DM Nakrani,46a7ac78,0,0,0,0,0,,,,,,0,0,0
+1184902,2019,Uganda,10,Riazat Ali Shah,269cc4ff,SO Ngoche,49118dc7,DM Nakrani,46a7ac78,0,0,0,0,0,,,,,,0,0,0
+1184902,2019,Uganda,10,Riazat Ali Shah,269cc4ff,SO Ngoche,49118dc7,DM Nakrani,46a7ac78,0,0,0,0,0,,,,,,0,0,0
+1184902,2019,Uganda,10,Riazat Ali Shah,269cc4ff,SO Ngoche,49118dc7,DM Nakrani,46a7ac78,0,0,0,0,0,,,,,,0,0,0
+1184902,2019,Uganda,11,DM Nakrani,46a7ac78,SR Bhudia,e9173fb0,Riazat Ali Shah,269cc4ff,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Uganda,11,Riazat Ali Shah,269cc4ff,SR Bhudia,e9173fb0,DM Nakrani,46a7ac78,0,0,0,0,0,,,,,,0,0,0
+1184902,2019,Uganda,11,Riazat Ali Shah,269cc4ff,SR Bhudia,e9173fb0,DM Nakrani,46a7ac78,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Uganda,11,DM Nakrani,46a7ac78,SR Bhudia,e9173fb0,Riazat Ali Shah,269cc4ff,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Uganda,11,Riazat Ali Shah,269cc4ff,SR Bhudia,e9173fb0,DM Nakrani,46a7ac78,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Uganda,11,DM Nakrani,46a7ac78,SR Bhudia,e9173fb0,Riazat Ali Shah,269cc4ff,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Uganda,12,DM Nakrani,46a7ac78,SO Ngoche,49118dc7,Riazat Ali Shah,269cc4ff,0,0,0,0,1,DM Nakrani,46a7ac78,DM Gondaria,9048c17e,caught,0,0,0
+1184902,2019,Uganda,12,Riazat Ali Shah,269cc4ff,SO Ngoche,49118dc7,D Muhumuza,7636b587,0,0,0,0,0,,,,,,0,0,0
+1184902,2019,Uganda,12,Riazat Ali Shah,269cc4ff,SO Ngoche,49118dc7,D Muhumuza,7636b587,0,0,0,0,0,,,,,,0,0,0
+1184902,2019,Uganda,12,Riazat Ali Shah,269cc4ff,SO Ngoche,49118dc7,D Muhumuza,7636b587,0,0,0,0,0,,,,,,4,0,4
+1184902,2019,Uganda,12,Riazat Ali Shah,269cc4ff,SO Ngoche,49118dc7,D Muhumuza,7636b587,0,0,0,0,0,,,,,,0,0,0
+1184902,2019,Uganda,12,Riazat Ali Shah,269cc4ff,SO Ngoche,49118dc7,D Muhumuza,7636b587,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Uganda,13,Riazat Ali Shah,269cc4ff,SR Bhudia,e9173fb0,D Muhumuza,7636b587,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Uganda,13,D Muhumuza,7636b587,SR Bhudia,e9173fb0,Riazat Ali Shah,269cc4ff,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Uganda,13,Riazat Ali Shah,269cc4ff,SR Bhudia,e9173fb0,D Muhumuza,7636b587,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Uganda,13,D Muhumuza,7636b587,SR Bhudia,e9173fb0,Riazat Ali Shah,269cc4ff,1,0,0,0,0,,,,,,0,1,1
+1184902,2019,Uganda,13,D Muhumuza,7636b587,SR Bhudia,e9173fb0,Riazat Ali Shah,269cc4ff,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Uganda,13,Riazat Ali Shah,269cc4ff,SR Bhudia,e9173fb0,D Muhumuza,7636b587,0,0,0,0,0,,,,,,4,0,4
+1184902,2019,Uganda,13,Riazat Ali Shah,269cc4ff,SR Bhudia,e9173fb0,D Muhumuza,7636b587,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Uganda,14,Riazat Ali Shah,269cc4ff,CO Obuya,5680f1ad,D Muhumuza,7636b587,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Uganda,14,D Muhumuza,7636b587,CO Obuya,5680f1ad,Riazat Ali Shah,269cc4ff,0,0,0,0,0,,,,,,0,0,0
+1184902,2019,Uganda,14,D Muhumuza,7636b587,CO Obuya,5680f1ad,Riazat Ali Shah,269cc4ff,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Uganda,14,Riazat Ali Shah,269cc4ff,CO Obuya,5680f1ad,D Muhumuza,7636b587,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Uganda,14,D Muhumuza,7636b587,CO Obuya,5680f1ad,Riazat Ali Shah,269cc4ff,0,0,0,0,1,D Muhumuza,7636b587,,,bowled,0,0,0
+1184902,2019,Uganda,14,R Olipa,327fcb33,CO Obuya,5680f1ad,Riazat Ali Shah,269cc4ff,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Uganda,15,R Olipa,327fcb33,NM Odhiambo,c07a1f41,Riazat Ali Shah,269cc4ff,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Uganda,15,Riazat Ali Shah,269cc4ff,NM Odhiambo,c07a1f41,R Olipa,327fcb33,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Uganda,15,R Olipa,327fcb33,NM Odhiambo,c07a1f41,Riazat Ali Shah,269cc4ff,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Uganda,15,Riazat Ali Shah,269cc4ff,NM Odhiambo,c07a1f41,R Olipa,327fcb33,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Uganda,15,R Olipa,327fcb33,NM Odhiambo,c07a1f41,Riazat Ali Shah,269cc4ff,0,0,0,0,1,R Olipa,327fcb33,,,bowled,0,0,0
+1184902,2019,Uganda,15,F Nsubuga,87e33d07,NM Odhiambo,c07a1f41,Riazat Ali Shah,269cc4ff,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Uganda,16,F Nsubuga,87e33d07,CO Obuya,5680f1ad,Riazat Ali Shah,269cc4ff,0,0,0,0,0,,,,,,0,0,0
+1184902,2019,Uganda,16,F Nsubuga,87e33d07,CO Obuya,5680f1ad,Riazat Ali Shah,269cc4ff,0,0,0,0,0,,,,,,0,0,0
+1184902,2019,Uganda,16,F Nsubuga,87e33d07,CO Obuya,5680f1ad,Riazat Ali Shah,269cc4ff,0,0,0,0,0,,,,,,0,0,0
+1184902,2019,Uganda,16,F Nsubuga,87e33d07,CO Obuya,5680f1ad,Riazat Ali Shah,269cc4ff,2,0,0,0,0,,,,,,0,2,2
+1184902,2019,Uganda,16,Riazat Ali Shah,269cc4ff,CO Obuya,5680f1ad,F Nsubuga,87e33d07,0,0,0,0,0,,,,,,0,0,0
+1184902,2019,Uganda,16,Riazat Ali Shah,269cc4ff,CO Obuya,5680f1ad,F Nsubuga,87e33d07,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Uganda,16,F Nsubuga,87e33d07,CO Obuya,5680f1ad,Riazat Ali Shah,269cc4ff,0,0,0,0,0,,,,,,0,0,0
+1184902,2019,Uganda,17,Riazat Ali Shah,269cc4ff,E Otieno,c57fa67e,F Nsubuga,87e33d07,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Uganda,17,F Nsubuga,87e33d07,E Otieno,c57fa67e,Riazat Ali Shah,269cc4ff,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Uganda,17,Riazat Ali Shah,269cc4ff,E Otieno,c57fa67e,F Nsubuga,87e33d07,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Uganda,17,F Nsubuga,87e33d07,E Otieno,c57fa67e,Riazat Ali Shah,269cc4ff,0,0,1,0,0,,,,,,0,1,1
+1184902,2019,Uganda,17,Riazat Ali Shah,269cc4ff,E Otieno,c57fa67e,F Nsubuga,87e33d07,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Uganda,17,F Nsubuga,87e33d07,E Otieno,c57fa67e,Riazat Ali Shah,269cc4ff,0,0,0,0,0,,,,,,6,0,6
+1184902,2019,Uganda,18,Riazat Ali Shah,269cc4ff,LN Oluoch,eb4f9c61,F Nsubuga,87e33d07,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Uganda,18,F Nsubuga,87e33d07,LN Oluoch,eb4f9c61,Riazat Ali Shah,269cc4ff,0,0,0,0,0,,,,,,0,0,0
+1184902,2019,Uganda,18,F Nsubuga,87e33d07,LN Oluoch,eb4f9c61,Riazat Ali Shah,269cc4ff,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Uganda,18,Riazat Ali Shah,269cc4ff,LN Oluoch,eb4f9c61,F Nsubuga,87e33d07,0,0,0,0,0,,,,,,0,0,0
+1184902,2019,Uganda,18,Riazat Ali Shah,269cc4ff,LN Oluoch,eb4f9c61,F Nsubuga,87e33d07,0,0,0,0,0,,,,,,6,0,6
+1184902,2019,Uganda,18,Riazat Ali Shah,269cc4ff,LN Oluoch,eb4f9c61,F Nsubuga,87e33d07,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Uganda,19,Riazat Ali Shah,269cc4ff,E Otieno,c57fa67e,F Nsubuga,87e33d07,1,0,0,0,0,,,,,,0,1,1
+1184902,2019,Uganda,19,Riazat Ali Shah,269cc4ff,E Otieno,c57fa67e,F Nsubuga,87e33d07,0,0,0,0,0,,,,,,1,0,1
+1184902,2019,Uganda,19,F Nsubuga,87e33d07,E Otieno,c57fa67e,Riazat Ali Shah,269cc4ff,0,0,0,0,1,F Nsubuga,87e33d07,,,bowled,0,0,0
+1184902,2019,Uganda,19,C Waiswa,18db3f22,E Otieno,c57fa67e,Riazat Ali Shah,269cc4ff,0,0,0,0,0,,,,,,6,0,6
+1184902,2019,Uganda,19,C Waiswa,18db3f22,E Otieno,c57fa67e,Riazat Ali Shah,269cc4ff,0,0,0,0,1,C Waiswa,18db3f22,,,run out,0,0,0
+1184902,2019,Uganda,19,Riazat Ali Shah,269cc4ff,E Otieno,c57fa67e,H Ssenyondo,2b7609f1,0,0,0,0,0,,,,,,4,0,4
+1184902,2019,Uganda,19,Riazat Ali Shah,269cc4ff,E Otieno,c57fa67e,H Ssenyondo,2b7609f1,0,0,0,0,0,,,,,,6,0,6

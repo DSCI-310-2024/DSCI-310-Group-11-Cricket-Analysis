@@ -1,0 +1,247 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+355998,2009,Australia,0,SR Watson,4329fbb5,AD Mathews,896d78ad,DA Warner,dcce6f09,0,0,0,0,0,,,,,,1,0,1
+355998,2009,Australia,0,DA Warner,dcce6f09,AD Mathews,896d78ad,SR Watson,4329fbb5,0,0,0,0,0,,,,,,0,0,0
+355998,2009,Australia,0,DA Warner,dcce6f09,AD Mathews,896d78ad,SR Watson,4329fbb5,0,0,0,0,0,,,,,,0,0,0
+355998,2009,Australia,0,DA Warner,dcce6f09,AD Mathews,896d78ad,SR Watson,4329fbb5,0,0,0,0,1,DA Warner,dcce6f09,TM Dilshan,5bdcdb72,caught,0,0,0
+355998,2009,Australia,0,RT Ponting,7d415ea5,AD Mathews,896d78ad,SR Watson,4329fbb5,0,0,0,0,0,,,,,,0,0,0
+355998,2009,Australia,0,RT Ponting,7d415ea5,AD Mathews,896d78ad,SR Watson,4329fbb5,0,0,0,0,0,,,,,,0,0,0
+355998,2009,Australia,1,SR Watson,4329fbb5,ST Jayasuriya,f233bbb4,RT Ponting,7d415ea5,0,0,0,0,0,,,,,,1,0,1
+355998,2009,Australia,1,RT Ponting,7d415ea5,ST Jayasuriya,f233bbb4,SR Watson,4329fbb5,0,0,0,0,0,,,,,,0,0,0
+355998,2009,Australia,1,RT Ponting,7d415ea5,ST Jayasuriya,f233bbb4,SR Watson,4329fbb5,0,0,0,0,0,,,,,,1,0,1
+355998,2009,Australia,1,SR Watson,4329fbb5,ST Jayasuriya,f233bbb4,RT Ponting,7d415ea5,0,0,0,0,0,,,,,,1,0,1
+355998,2009,Australia,1,RT Ponting,7d415ea5,ST Jayasuriya,f233bbb4,SR Watson,4329fbb5,0,0,0,0,0,,,,,,4,0,4
+355998,2009,Australia,1,RT Ponting,7d415ea5,ST Jayasuriya,f233bbb4,SR Watson,4329fbb5,0,0,0,0,0,,,,,,0,0,0
+355998,2009,Australia,2,SR Watson,4329fbb5,AD Mathews,896d78ad,RT Ponting,7d415ea5,0,0,0,0,0,,,,,,0,0,0
+355998,2009,Australia,2,SR Watson,4329fbb5,AD Mathews,896d78ad,RT Ponting,7d415ea5,0,0,0,0,0,,,,,,1,0,1
+355998,2009,Australia,2,RT Ponting,7d415ea5,AD Mathews,896d78ad,SR Watson,4329fbb5,0,0,0,0,0,,,,,,4,0,4
+355998,2009,Australia,2,RT Ponting,7d415ea5,AD Mathews,896d78ad,SR Watson,4329fbb5,0,0,0,0,0,,,,,,3,0,3
+355998,2009,Australia,2,SR Watson,4329fbb5,AD Mathews,896d78ad,RT Ponting,7d415ea5,0,0,0,0,0,,,,,,0,0,0
+355998,2009,Australia,2,SR Watson,4329fbb5,AD Mathews,896d78ad,RT Ponting,7d415ea5,1,0,0,0,0,,,,,,0,1,1
+355998,2009,Australia,2,SR Watson,4329fbb5,AD Mathews,896d78ad,RT Ponting,7d415ea5,0,0,0,0,0,,,,,,0,0,0
+355998,2009,Australia,3,RT Ponting,7d415ea5,I Udana,ac5ae4af,SR Watson,4329fbb5,0,0,0,0,0,,,,,,1,0,1
+355998,2009,Australia,3,SR Watson,4329fbb5,I Udana,ac5ae4af,RT Ponting,7d415ea5,0,0,0,0,0,,,,,,4,0,4
+355998,2009,Australia,3,SR Watson,4329fbb5,I Udana,ac5ae4af,RT Ponting,7d415ea5,0,0,0,0,0,,,,,,4,0,4
+355998,2009,Australia,3,SR Watson,4329fbb5,I Udana,ac5ae4af,RT Ponting,7d415ea5,0,0,0,0,0,,,,,,6,0,6
+355998,2009,Australia,3,SR Watson,4329fbb5,I Udana,ac5ae4af,RT Ponting,7d415ea5,0,0,0,0,0,,,,,,0,0,0
+355998,2009,Australia,3,SR Watson,4329fbb5,I Udana,ac5ae4af,RT Ponting,7d415ea5,0,0,0,0,0,,,,,,0,0,0
+355998,2009,Australia,4,RT Ponting,7d415ea5,SL Malinga,a12e1d51,SR Watson,4329fbb5,0,0,0,0,0,,,,,,4,0,4
+355998,2009,Australia,4,RT Ponting,7d415ea5,SL Malinga,a12e1d51,SR Watson,4329fbb5,0,0,0,0,0,,,,,,4,0,4
+355998,2009,Australia,4,RT Ponting,7d415ea5,SL Malinga,a12e1d51,SR Watson,4329fbb5,0,0,0,0,0,,,,,,4,0,4
+355998,2009,Australia,4,RT Ponting,7d415ea5,SL Malinga,a12e1d51,SR Watson,4329fbb5,2,0,0,0,0,,,,,,0,2,2
+355998,2009,Australia,4,SR Watson,4329fbb5,SL Malinga,a12e1d51,RT Ponting,7d415ea5,0,0,0,0,0,,,,,,0,0,0
+355998,2009,Australia,4,SR Watson,4329fbb5,SL Malinga,a12e1d51,RT Ponting,7d415ea5,0,0,0,0,0,,,,,,0,0,0
+355998,2009,Australia,4,SR Watson,4329fbb5,SL Malinga,a12e1d51,RT Ponting,7d415ea5,0,0,0,0,0,,,,,,1,0,1
+355998,2009,Australia,5,SR Watson,4329fbb5,BAW Mendis,ea0cdc12,RT Ponting,7d415ea5,0,0,0,0,0,,,,,,0,0,0
+355998,2009,Australia,5,SR Watson,4329fbb5,BAW Mendis,ea0cdc12,RT Ponting,7d415ea5,0,0,0,0,0,,,,,,0,0,0
+355998,2009,Australia,5,SR Watson,4329fbb5,BAW Mendis,ea0cdc12,RT Ponting,7d415ea5,0,0,0,0,0,,,,,,1,0,1
+355998,2009,Australia,5,RT Ponting,7d415ea5,BAW Mendis,ea0cdc12,SR Watson,4329fbb5,0,0,0,0,0,,,,,,0,0,0
+355998,2009,Australia,5,RT Ponting,7d415ea5,BAW Mendis,ea0cdc12,SR Watson,4329fbb5,0,0,0,0,0,,,,,,0,0,0
+355998,2009,Australia,5,RT Ponting,7d415ea5,BAW Mendis,ea0cdc12,SR Watson,4329fbb5,0,0,0,0,1,RT Ponting,7d415ea5,,,bowled,0,0,0
+355998,2009,Australia,6,SR Watson,4329fbb5,ST Jayasuriya,f233bbb4,BJ Haddin,b0c772ee,0,0,0,0,0,,,,,,1,0,1
+355998,2009,Australia,6,BJ Haddin,b0c772ee,ST Jayasuriya,f233bbb4,SR Watson,4329fbb5,0,0,0,0,0,,,,,,1,0,1
+355998,2009,Australia,6,SR Watson,4329fbb5,ST Jayasuriya,f233bbb4,BJ Haddin,b0c772ee,0,0,0,0,0,,,,,,1,0,1
+355998,2009,Australia,6,BJ Haddin,b0c772ee,ST Jayasuriya,f233bbb4,SR Watson,4329fbb5,0,0,0,0,0,,,,,,0,0,0
+355998,2009,Australia,6,BJ Haddin,b0c772ee,ST Jayasuriya,f233bbb4,SR Watson,4329fbb5,0,0,0,0,0,,,,,,6,0,6
+355998,2009,Australia,6,BJ Haddin,b0c772ee,ST Jayasuriya,f233bbb4,SR Watson,4329fbb5,0,0,0,0,0,,,,,,1,0,1
+355998,2009,Australia,7,BJ Haddin,b0c772ee,BAW Mendis,ea0cdc12,SR Watson,4329fbb5,0,0,0,0,0,,,,,,0,0,0
+355998,2009,Australia,7,BJ Haddin,b0c772ee,BAW Mendis,ea0cdc12,SR Watson,4329fbb5,0,0,0,0,0,,,,,,1,0,1
+355998,2009,Australia,7,SR Watson,4329fbb5,BAW Mendis,ea0cdc12,BJ Haddin,b0c772ee,0,0,0,0,1,SR Watson,4329fbb5,,,lbw,0,0,0
+355998,2009,Australia,7,MJ Clarke,f842c2cf,BAW Mendis,ea0cdc12,BJ Haddin,b0c772ee,0,0,0,0,0,,,,,,0,0,0
+355998,2009,Australia,7,MJ Clarke,f842c2cf,BAW Mendis,ea0cdc12,BJ Haddin,b0c772ee,0,0,0,0,0,,,,,,2,0,2
+355998,2009,Australia,7,MJ Clarke,f842c2cf,BAW Mendis,ea0cdc12,BJ Haddin,b0c772ee,0,0,0,0,0,,,,,,0,0,0
+355998,2009,Australia,8,BJ Haddin,b0c772ee,I Udana,ac5ae4af,MJ Clarke,f842c2cf,0,0,0,0,0,,,,,,0,0,0
+355998,2009,Australia,8,BJ Haddin,b0c772ee,I Udana,ac5ae4af,MJ Clarke,f842c2cf,0,0,0,0,0,,,,,,2,0,2
+355998,2009,Australia,8,BJ Haddin,b0c772ee,I Udana,ac5ae4af,MJ Clarke,f842c2cf,0,0,0,0,0,,,,,,1,0,1
+355998,2009,Australia,8,MJ Clarke,f842c2cf,I Udana,ac5ae4af,BJ Haddin,b0c772ee,0,0,0,0,0,,,,,,1,0,1
+355998,2009,Australia,8,BJ Haddin,b0c772ee,I Udana,ac5ae4af,MJ Clarke,f842c2cf,0,0,0,0,0,,,,,,1,0,1
+355998,2009,Australia,8,MJ Clarke,f842c2cf,I Udana,ac5ae4af,BJ Haddin,b0c772ee,0,0,0,0,0,,,,,,0,0,0
+355998,2009,Australia,9,BJ Haddin,b0c772ee,M Muralitharan,4ba44e19,MJ Clarke,f842c2cf,0,0,0,0,0,,,,,,1,0,1
+355998,2009,Australia,9,MJ Clarke,f842c2cf,M Muralitharan,4ba44e19,BJ Haddin,b0c772ee,0,0,0,0,0,,,,,,1,0,1
+355998,2009,Australia,9,BJ Haddin,b0c772ee,M Muralitharan,4ba44e19,MJ Clarke,f842c2cf,0,0,0,0,0,,,,,,1,0,1
+355998,2009,Australia,9,MJ Clarke,f842c2cf,M Muralitharan,4ba44e19,BJ Haddin,b0c772ee,0,0,0,0,0,,,,,,1,0,1
+355998,2009,Australia,9,BJ Haddin,b0c772ee,M Muralitharan,4ba44e19,MJ Clarke,f842c2cf,0,0,0,0,0,,,,,,0,0,0
+355998,2009,Australia,9,BJ Haddin,b0c772ee,M Muralitharan,4ba44e19,MJ Clarke,f842c2cf,0,0,0,0,0,,,,,,0,0,0
+355998,2009,Australia,10,MJ Clarke,f842c2cf,SL Malinga,a12e1d51,BJ Haddin,b0c772ee,1,0,0,0,0,,,,,,0,1,1
+355998,2009,Australia,10,MJ Clarke,f842c2cf,SL Malinga,a12e1d51,BJ Haddin,b0c772ee,0,0,0,0,0,,,,,,0,0,0
+355998,2009,Australia,10,MJ Clarke,f842c2cf,SL Malinga,a12e1d51,BJ Haddin,b0c772ee,0,0,0,0,0,,,,,,1,0,1
+355998,2009,Australia,10,BJ Haddin,b0c772ee,SL Malinga,a12e1d51,MJ Clarke,f842c2cf,0,0,0,0,0,,,,,,0,0,0
+355998,2009,Australia,10,BJ Haddin,b0c772ee,SL Malinga,a12e1d51,MJ Clarke,f842c2cf,0,0,0,0,0,,,,,,1,0,1
+355998,2009,Australia,10,MJ Clarke,f842c2cf,SL Malinga,a12e1d51,BJ Haddin,b0c772ee,0,0,0,0,0,,,,,,1,0,1
+355998,2009,Australia,10,BJ Haddin,b0c772ee,SL Malinga,a12e1d51,MJ Clarke,f842c2cf,0,0,0,0,1,BJ Haddin,b0c772ee,,,bowled,0,0,0
+355998,2009,Australia,11,MJ Clarke,f842c2cf,M Muralitharan,4ba44e19,DJ Hussey,fd835ab3,0,0,0,0,0,,,,,,1,0,1
+355998,2009,Australia,11,DJ Hussey,fd835ab3,M Muralitharan,4ba44e19,MJ Clarke,f842c2cf,0,0,0,0,0,,,,,,0,0,0
+355998,2009,Australia,11,DJ Hussey,fd835ab3,M Muralitharan,4ba44e19,MJ Clarke,f842c2cf,0,0,0,0,0,,,,,,0,0,0
+355998,2009,Australia,11,DJ Hussey,fd835ab3,M Muralitharan,4ba44e19,MJ Clarke,f842c2cf,0,0,0,0,0,,,,,,1,0,1
+355998,2009,Australia,11,MJ Clarke,f842c2cf,M Muralitharan,4ba44e19,DJ Hussey,fd835ab3,0,0,0,0,0,,,,,,0,0,0
+355998,2009,Australia,11,MJ Clarke,f842c2cf,M Muralitharan,4ba44e19,DJ Hussey,fd835ab3,0,0,0,0,0,,,,,,1,0,1
+355998,2009,Australia,12,MJ Clarke,f842c2cf,I Udana,ac5ae4af,DJ Hussey,fd835ab3,0,0,0,0,0,,,,,,2,0,2
+355998,2009,Australia,12,MJ Clarke,f842c2cf,I Udana,ac5ae4af,DJ Hussey,fd835ab3,0,0,0,0,1,MJ Clarke,f842c2cf,,,caught and bowled,0,0,0
+355998,2009,Australia,12,MEK Hussey,48fd7349,I Udana,ac5ae4af,DJ Hussey,fd835ab3,0,0,0,0,0,,,,,,0,0,0
+355998,2009,Australia,12,MEK Hussey,48fd7349,I Udana,ac5ae4af,DJ Hussey,fd835ab3,1,0,0,0,0,,,,,,0,1,1
+355998,2009,Australia,12,MEK Hussey,48fd7349,I Udana,ac5ae4af,DJ Hussey,fd835ab3,0,0,0,0,0,,,,,,1,0,1
+355998,2009,Australia,12,DJ Hussey,fd835ab3,I Udana,ac5ae4af,MEK Hussey,48fd7349,0,0,0,0,0,,,,,,4,0,4
+355998,2009,Australia,12,DJ Hussey,fd835ab3,I Udana,ac5ae4af,MEK Hussey,48fd7349,0,0,0,0,0,,,,,,1,0,1
+355998,2009,Australia,13,DJ Hussey,fd835ab3,M Muralitharan,4ba44e19,MEK Hussey,48fd7349,0,0,0,0,0,,,,,,0,0,0
+355998,2009,Australia,13,DJ Hussey,fd835ab3,M Muralitharan,4ba44e19,MEK Hussey,48fd7349,0,0,0,0,0,,,,,,0,0,0
+355998,2009,Australia,13,DJ Hussey,fd835ab3,M Muralitharan,4ba44e19,MEK Hussey,48fd7349,0,0,0,0,0,,,,,,0,0,0
+355998,2009,Australia,13,DJ Hussey,fd835ab3,M Muralitharan,4ba44e19,MEK Hussey,48fd7349,0,0,0,0,0,,,,,,1,0,1
+355998,2009,Australia,13,MEK Hussey,48fd7349,M Muralitharan,4ba44e19,DJ Hussey,fd835ab3,0,0,0,0,0,,,,,,0,0,0
+355998,2009,Australia,13,MEK Hussey,48fd7349,M Muralitharan,4ba44e19,DJ Hussey,fd835ab3,0,0,0,0,0,,,,,,0,0,0
+355998,2009,Australia,14,DJ Hussey,fd835ab3,BAW Mendis,ea0cdc12,MEK Hussey,48fd7349,0,0,0,0,0,,,,,,0,0,0
+355998,2009,Australia,14,DJ Hussey,fd835ab3,BAW Mendis,ea0cdc12,MEK Hussey,48fd7349,0,0,0,0,0,,,,,,0,0,0
+355998,2009,Australia,14,DJ Hussey,fd835ab3,BAW Mendis,ea0cdc12,MEK Hussey,48fd7349,0,0,0,0,0,,,,,,6,0,6
+355998,2009,Australia,14,DJ Hussey,fd835ab3,BAW Mendis,ea0cdc12,MEK Hussey,48fd7349,0,0,0,0,0,,,,,,1,0,1
+355998,2009,Australia,14,MEK Hussey,48fd7349,BAW Mendis,ea0cdc12,DJ Hussey,fd835ab3,0,0,0,0,1,MEK Hussey,48fd7349,,,lbw,0,0,0
+355998,2009,Australia,14,MG Johnson,f5180fe6,BAW Mendis,ea0cdc12,DJ Hussey,fd835ab3,0,0,0,0,0,,,,,,0,0,0
+355998,2009,Australia,15,DJ Hussey,fd835ab3,M Muralitharan,4ba44e19,MG Johnson,f5180fe6,0,0,0,0,0,,,,,,1,0,1
+355998,2009,Australia,15,MG Johnson,f5180fe6,M Muralitharan,4ba44e19,DJ Hussey,fd835ab3,0,0,0,0,0,,,,,,6,0,6
+355998,2009,Australia,15,MG Johnson,f5180fe6,M Muralitharan,4ba44e19,DJ Hussey,fd835ab3,0,0,0,0,0,,,,,,3,0,3
+355998,2009,Australia,15,DJ Hussey,fd835ab3,M Muralitharan,4ba44e19,MG Johnson,f5180fe6,0,0,0,0,0,,,,,,1,0,1
+355998,2009,Australia,15,MG Johnson,f5180fe6,M Muralitharan,4ba44e19,DJ Hussey,fd835ab3,0,0,0,0,0,,,,,,6,0,6
+355998,2009,Australia,15,MG Johnson,f5180fe6,M Muralitharan,4ba44e19,DJ Hussey,fd835ab3,0,0,0,0,0,,,,,,4,0,4
+355998,2009,Australia,16,DJ Hussey,fd835ab3,BAW Mendis,ea0cdc12,MG Johnson,f5180fe6,0,0,0,0,0,,,,,,2,0,2
+355998,2009,Australia,16,DJ Hussey,fd835ab3,BAW Mendis,ea0cdc12,MG Johnson,f5180fe6,0,0,0,0,0,,,,,,1,0,1
+355998,2009,Australia,16,MG Johnson,f5180fe6,BAW Mendis,ea0cdc12,DJ Hussey,fd835ab3,0,0,0,0,0,,,,,,4,0,4
+355998,2009,Australia,16,MG Johnson,f5180fe6,BAW Mendis,ea0cdc12,DJ Hussey,fd835ab3,0,0,0,0,0,,,,,,0,0,0
+355998,2009,Australia,16,MG Johnson,f5180fe6,BAW Mendis,ea0cdc12,DJ Hussey,fd835ab3,0,0,0,0,0,,,,,,1,0,1
+355998,2009,Australia,16,DJ Hussey,fd835ab3,BAW Mendis,ea0cdc12,MG Johnson,f5180fe6,0,0,0,0,0,,,,,,1,0,1
+355998,2009,Australia,17,DJ Hussey,fd835ab3,SL Malinga,a12e1d51,MG Johnson,f5180fe6,0,0,0,0,0,,,,,,1,0,1
+355998,2009,Australia,17,MG Johnson,f5180fe6,SL Malinga,a12e1d51,DJ Hussey,fd835ab3,0,0,0,0,0,,,,,,2,0,2
+355998,2009,Australia,17,MG Johnson,f5180fe6,SL Malinga,a12e1d51,DJ Hussey,fd835ab3,0,0,0,0,0,,,,,,1,0,1
+355998,2009,Australia,17,DJ Hussey,fd835ab3,SL Malinga,a12e1d51,MG Johnson,f5180fe6,0,0,0,0,0,,,,,,1,0,1
+355998,2009,Australia,17,MG Johnson,f5180fe6,SL Malinga,a12e1d51,DJ Hussey,fd835ab3,0,0,0,0,0,,,,,,0,0,0
+355998,2009,Australia,17,MG Johnson,f5180fe6,SL Malinga,a12e1d51,DJ Hussey,fd835ab3,0,0,0,0,0,,,,,,0,0,0
+355998,2009,Australia,18,DJ Hussey,fd835ab3,I Udana,ac5ae4af,MG Johnson,f5180fe6,0,0,0,0,0,,,,,,6,0,6
+355998,2009,Australia,18,DJ Hussey,fd835ab3,I Udana,ac5ae4af,MG Johnson,f5180fe6,0,0,0,0,1,DJ Hussey,fd835ab3,ST Jayasuriya,f233bbb4,caught,0,0,0
+355998,2009,Australia,18,MG Johnson,f5180fe6,I Udana,ac5ae4af,B Lee,dd09ff8e,0,0,0,0,0,,,,,,1,0,1
+355998,2009,Australia,18,B Lee,dd09ff8e,I Udana,ac5ae4af,MG Johnson,f5180fe6,0,0,0,0,0,,,,,,4,0,4
+355998,2009,Australia,18,B Lee,dd09ff8e,I Udana,ac5ae4af,MG Johnson,f5180fe6,0,0,0,0,0,,,,,,6,0,6
+355998,2009,Australia,18,B Lee,dd09ff8e,I Udana,ac5ae4af,MG Johnson,f5180fe6,0,0,0,0,0,,,,,,1,0,1
+355998,2009,Australia,19,B Lee,dd09ff8e,SL Malinga,a12e1d51,MG Johnson,f5180fe6,0,0,0,0,0,,,,,,4,0,4
+355998,2009,Australia,19,B Lee,dd09ff8e,SL Malinga,a12e1d51,MG Johnson,f5180fe6,0,0,0,0,1,B Lee,dd09ff8e,,,bowled,0,0,0
+355998,2009,Australia,19,NM Hauritz,8ea6e670,SL Malinga,a12e1d51,MG Johnson,f5180fe6,0,0,0,0,0,,,,,,0,0,0
+355998,2009,Australia,19,NM Hauritz,8ea6e670,SL Malinga,a12e1d51,MG Johnson,f5180fe6,0,0,0,0,0,,,,,,4,0,4
+355998,2009,Australia,19,NM Hauritz,8ea6e670,SL Malinga,a12e1d51,MG Johnson,f5180fe6,0,0,0,0,1,NM Hauritz,8ea6e670,KC Sangakkara,6b71e6cf,caught,0,0,0
+355998,2009,Australia,19,NW Bracken,4c61a0f9,SL Malinga,a12e1d51,MG Johnson,f5180fe6,0,0,0,0,0,,,,,,4,0,4
+355998,2009,Sri Lanka,0,TM Dilshan,5bdcdb72,B Lee,dd09ff8e,ST Jayasuriya,f233bbb4,0,0,0,0,0,,,,,,0,0,0
+355998,2009,Sri Lanka,0,TM Dilshan,5bdcdb72,B Lee,dd09ff8e,ST Jayasuriya,f233bbb4,0,0,0,0,0,,,,,,4,0,4
+355998,2009,Sri Lanka,0,TM Dilshan,5bdcdb72,B Lee,dd09ff8e,ST Jayasuriya,f233bbb4,0,1,0,0,0,,,,,,1,1,2
+355998,2009,Sri Lanka,0,ST Jayasuriya,f233bbb4,B Lee,dd09ff8e,TM Dilshan,5bdcdb72,0,0,0,0,0,,,,,,0,0,0
+355998,2009,Sri Lanka,0,ST Jayasuriya,f233bbb4,B Lee,dd09ff8e,TM Dilshan,5bdcdb72,0,0,0,0,0,,,,,,0,0,0
+355998,2009,Sri Lanka,0,ST Jayasuriya,f233bbb4,B Lee,dd09ff8e,TM Dilshan,5bdcdb72,1,0,0,0,0,,,,,,0,1,1
+355998,2009,Sri Lanka,0,ST Jayasuriya,f233bbb4,B Lee,dd09ff8e,TM Dilshan,5bdcdb72,0,0,0,0,0,,,,,,0,0,0
+355998,2009,Sri Lanka,0,ST Jayasuriya,f233bbb4,B Lee,dd09ff8e,TM Dilshan,5bdcdb72,0,0,0,0,0,,,,,,1,0,1
+355998,2009,Sri Lanka,1,ST Jayasuriya,f233bbb4,MG Johnson,f5180fe6,TM Dilshan,5bdcdb72,0,0,0,0,0,,,,,,0,0,0
+355998,2009,Sri Lanka,1,ST Jayasuriya,f233bbb4,MG Johnson,f5180fe6,TM Dilshan,5bdcdb72,0,0,0,0,0,,,,,,1,0,1
+355998,2009,Sri Lanka,1,TM Dilshan,5bdcdb72,MG Johnson,f5180fe6,ST Jayasuriya,f233bbb4,0,0,0,0,0,,,,,,2,0,2
+355998,2009,Sri Lanka,1,TM Dilshan,5bdcdb72,MG Johnson,f5180fe6,ST Jayasuriya,f233bbb4,0,0,0,0,0,,,,,,4,0,4
+355998,2009,Sri Lanka,1,TM Dilshan,5bdcdb72,MG Johnson,f5180fe6,ST Jayasuriya,f233bbb4,0,0,0,0,0,,,,,,4,0,4
+355998,2009,Sri Lanka,1,TM Dilshan,5bdcdb72,MG Johnson,f5180fe6,ST Jayasuriya,f233bbb4,0,0,0,0,0,,,,,,0,0,0
+355998,2009,Sri Lanka,2,ST Jayasuriya,f233bbb4,B Lee,dd09ff8e,TM Dilshan,5bdcdb72,0,0,0,0,1,ST Jayasuriya,f233bbb4,DA Warner,dcce6f09,caught,0,0,0
+355998,2009,Sri Lanka,2,KC Sangakkara,6b71e6cf,B Lee,dd09ff8e,TM Dilshan,5bdcdb72,0,0,0,0,0,,,,,,0,0,0
+355998,2009,Sri Lanka,2,KC Sangakkara,6b71e6cf,B Lee,dd09ff8e,TM Dilshan,5bdcdb72,0,0,0,0,0,,,,,,0,0,0
+355998,2009,Sri Lanka,2,KC Sangakkara,6b71e6cf,B Lee,dd09ff8e,TM Dilshan,5bdcdb72,0,0,0,0,0,,,,,,0,0,0
+355998,2009,Sri Lanka,2,KC Sangakkara,6b71e6cf,B Lee,dd09ff8e,TM Dilshan,5bdcdb72,0,0,0,0,0,,,,,,0,0,0
+355998,2009,Sri Lanka,2,KC Sangakkara,6b71e6cf,B Lee,dd09ff8e,TM Dilshan,5bdcdb72,0,1,0,0,0,,,,,,4,1,5
+355998,2009,Sri Lanka,2,KC Sangakkara,6b71e6cf,B Lee,dd09ff8e,TM Dilshan,5bdcdb72,0,0,0,0,0,,,,,,4,0,4
+355998,2009,Sri Lanka,3,TM Dilshan,5bdcdb72,NW Bracken,4c61a0f9,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,4,0,4
+355998,2009,Sri Lanka,3,TM Dilshan,5bdcdb72,NW Bracken,4c61a0f9,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,0,0,0
+355998,2009,Sri Lanka,3,TM Dilshan,5bdcdb72,NW Bracken,4c61a0f9,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,0,0,0
+355998,2009,Sri Lanka,3,TM Dilshan,5bdcdb72,NW Bracken,4c61a0f9,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,1,0,1
+355998,2009,Sri Lanka,3,KC Sangakkara,6b71e6cf,NW Bracken,4c61a0f9,TM Dilshan,5bdcdb72,0,0,0,0,0,,,,,,4,0,4
+355998,2009,Sri Lanka,3,KC Sangakkara,6b71e6cf,NW Bracken,4c61a0f9,TM Dilshan,5bdcdb72,0,0,0,0,0,,,,,,0,0,0
+355998,2009,Sri Lanka,4,TM Dilshan,5bdcdb72,SR Watson,4329fbb5,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,4,0,4
+355998,2009,Sri Lanka,4,TM Dilshan,5bdcdb72,SR Watson,4329fbb5,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,0,0,0
+355998,2009,Sri Lanka,4,TM Dilshan,5bdcdb72,SR Watson,4329fbb5,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,4,0,4
+355998,2009,Sri Lanka,4,TM Dilshan,5bdcdb72,SR Watson,4329fbb5,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,4,0,4
+355998,2009,Sri Lanka,4,TM Dilshan,5bdcdb72,SR Watson,4329fbb5,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,0,0,0
+355998,2009,Sri Lanka,4,TM Dilshan,5bdcdb72,SR Watson,4329fbb5,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,4,0,4
+355998,2009,Sri Lanka,5,KC Sangakkara,6b71e6cf,NW Bracken,4c61a0f9,TM Dilshan,5bdcdb72,0,0,0,0,0,,,,,,1,0,1
+355998,2009,Sri Lanka,5,TM Dilshan,5bdcdb72,NW Bracken,4c61a0f9,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,4,0,4
+355998,2009,Sri Lanka,5,TM Dilshan,5bdcdb72,NW Bracken,4c61a0f9,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,1,0,1
+355998,2009,Sri Lanka,5,KC Sangakkara,6b71e6cf,NW Bracken,4c61a0f9,TM Dilshan,5bdcdb72,0,0,0,0,0,,,,,,2,0,2
+355998,2009,Sri Lanka,5,KC Sangakkara,6b71e6cf,NW Bracken,4c61a0f9,TM Dilshan,5bdcdb72,0,0,0,0,0,,,,,,1,0,1
+355998,2009,Sri Lanka,5,TM Dilshan,5bdcdb72,NW Bracken,4c61a0f9,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,0,0,0
+355998,2009,Sri Lanka,6,KC Sangakkara,6b71e6cf,MG Johnson,f5180fe6,TM Dilshan,5bdcdb72,0,0,0,0,0,,,,,,1,0,1
+355998,2009,Sri Lanka,6,TM Dilshan,5bdcdb72,MG Johnson,f5180fe6,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,1,0,1
+355998,2009,Sri Lanka,6,KC Sangakkara,6b71e6cf,MG Johnson,f5180fe6,TM Dilshan,5bdcdb72,0,0,0,0,0,,,,,,0,0,0
+355998,2009,Sri Lanka,6,KC Sangakkara,6b71e6cf,MG Johnson,f5180fe6,TM Dilshan,5bdcdb72,0,0,0,0,0,,,,,,1,0,1
+355998,2009,Sri Lanka,6,TM Dilshan,5bdcdb72,MG Johnson,f5180fe6,KC Sangakkara,6b71e6cf,1,0,0,0,0,,,,,,0,1,1
+355998,2009,Sri Lanka,6,TM Dilshan,5bdcdb72,MG Johnson,f5180fe6,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,0,0,0
+355998,2009,Sri Lanka,6,TM Dilshan,5bdcdb72,MG Johnson,f5180fe6,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,1,0,1
+355998,2009,Sri Lanka,7,TM Dilshan,5bdcdb72,SR Watson,4329fbb5,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,1,0,1
+355998,2009,Sri Lanka,7,KC Sangakkara,6b71e6cf,SR Watson,4329fbb5,TM Dilshan,5bdcdb72,0,0,0,0,0,,,,,,1,0,1
+355998,2009,Sri Lanka,7,TM Dilshan,5bdcdb72,SR Watson,4329fbb5,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,2,0,2
+355998,2009,Sri Lanka,7,TM Dilshan,5bdcdb72,SR Watson,4329fbb5,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,4,0,4
+355998,2009,Sri Lanka,7,TM Dilshan,5bdcdb72,SR Watson,4329fbb5,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,0,0,0
+355998,2009,Sri Lanka,7,TM Dilshan,5bdcdb72,SR Watson,4329fbb5,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,0,0,0
+355998,2009,Sri Lanka,8,KC Sangakkara,6b71e6cf,NM Hauritz,8ea6e670,TM Dilshan,5bdcdb72,0,0,0,0,0,,,,,,2,0,2
+355998,2009,Sri Lanka,8,KC Sangakkara,6b71e6cf,NM Hauritz,8ea6e670,TM Dilshan,5bdcdb72,0,0,0,0,0,,,,,,0,0,0
+355998,2009,Sri Lanka,8,KC Sangakkara,6b71e6cf,NM Hauritz,8ea6e670,TM Dilshan,5bdcdb72,0,0,0,0,0,,,,,,1,0,1
+355998,2009,Sri Lanka,8,TM Dilshan,5bdcdb72,NM Hauritz,8ea6e670,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,0,0,0
+355998,2009,Sri Lanka,8,TM Dilshan,5bdcdb72,NM Hauritz,8ea6e670,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,2,0,2
+355998,2009,Sri Lanka,8,TM Dilshan,5bdcdb72,NM Hauritz,8ea6e670,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,1,0,1
+355998,2009,Sri Lanka,9,TM Dilshan,5bdcdb72,MJ Clarke,f842c2cf,KC Sangakkara,6b71e6cf,0,0,0,0,1,TM Dilshan,5bdcdb72,,,bowled,0,0,0
+355998,2009,Sri Lanka,9,DPMD Jayawardene,d18f9182,MJ Clarke,f842c2cf,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,0,0,0
+355998,2009,Sri Lanka,9,DPMD Jayawardene,d18f9182,MJ Clarke,f842c2cf,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,1,0,1
+355998,2009,Sri Lanka,9,KC Sangakkara,6b71e6cf,MJ Clarke,f842c2cf,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,1,0,1
+355998,2009,Sri Lanka,9,DPMD Jayawardene,d18f9182,MJ Clarke,f842c2cf,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,2,0,2
+355998,2009,Sri Lanka,9,DPMD Jayawardene,d18f9182,MJ Clarke,f842c2cf,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,1,0,1
+355998,2009,Sri Lanka,10,DPMD Jayawardene,d18f9182,NM Hauritz,8ea6e670,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,1,0,1
+355998,2009,Sri Lanka,10,KC Sangakkara,6b71e6cf,NM Hauritz,8ea6e670,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,0,0,0
+355998,2009,Sri Lanka,10,KC Sangakkara,6b71e6cf,NM Hauritz,8ea6e670,DPMD Jayawardene,d18f9182,0,0,1,0,0,,,,,,0,1,1
+355998,2009,Sri Lanka,10,DPMD Jayawardene,d18f9182,NM Hauritz,8ea6e670,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,0,0,0
+355998,2009,Sri Lanka,10,DPMD Jayawardene,d18f9182,NM Hauritz,8ea6e670,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,1,0,1
+355998,2009,Sri Lanka,10,KC Sangakkara,6b71e6cf,NM Hauritz,8ea6e670,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,0,0,0
+355998,2009,Sri Lanka,11,DPMD Jayawardene,d18f9182,MJ Clarke,f842c2cf,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,1,0,1
+355998,2009,Sri Lanka,11,KC Sangakkara,6b71e6cf,MJ Clarke,f842c2cf,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,2,0,2
+355998,2009,Sri Lanka,11,KC Sangakkara,6b71e6cf,MJ Clarke,f842c2cf,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,2,0,2
+355998,2009,Sri Lanka,11,KC Sangakkara,6b71e6cf,MJ Clarke,f842c2cf,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,0,0,0
+355998,2009,Sri Lanka,11,KC Sangakkara,6b71e6cf,MJ Clarke,f842c2cf,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,1,0,1
+355998,2009,Sri Lanka,11,DPMD Jayawardene,d18f9182,MJ Clarke,f842c2cf,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,0,0,0
+355998,2009,Sri Lanka,12,KC Sangakkara,6b71e6cf,NM Hauritz,8ea6e670,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,0,0,0
+355998,2009,Sri Lanka,12,KC Sangakkara,6b71e6cf,NM Hauritz,8ea6e670,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,1,0,1
+355998,2009,Sri Lanka,12,DPMD Jayawardene,d18f9182,NM Hauritz,8ea6e670,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,0,0,0
+355998,2009,Sri Lanka,12,DPMD Jayawardene,d18f9182,NM Hauritz,8ea6e670,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,2,0,2
+355998,2009,Sri Lanka,12,DPMD Jayawardene,d18f9182,NM Hauritz,8ea6e670,KC Sangakkara,6b71e6cf,0,0,0,0,1,DPMD Jayawardene,d18f9182,NW Bracken,4c61a0f9,caught,0,0,0
+355998,2009,Sri Lanka,12,KC Sangakkara,6b71e6cf,NM Hauritz,8ea6e670,LPC Silva,1be70c88,0,0,0,0,0,,,,,,0,0,0
+355998,2009,Sri Lanka,13,LPC Silva,1be70c88,MJ Clarke,f842c2cf,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,1,0,1
+355998,2009,Sri Lanka,13,KC Sangakkara,6b71e6cf,MJ Clarke,f842c2cf,LPC Silva,1be70c88,0,0,0,0,0,,,,,,1,0,1
+355998,2009,Sri Lanka,13,LPC Silva,1be70c88,MJ Clarke,f842c2cf,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,4,0,4
+355998,2009,Sri Lanka,13,LPC Silva,1be70c88,MJ Clarke,f842c2cf,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,2,0,2
+355998,2009,Sri Lanka,13,LPC Silva,1be70c88,MJ Clarke,f842c2cf,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,0,0,0
+355998,2009,Sri Lanka,13,LPC Silva,1be70c88,MJ Clarke,f842c2cf,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,0,0,0
+355998,2009,Sri Lanka,14,KC Sangakkara,6b71e6cf,NM Hauritz,8ea6e670,LPC Silva,1be70c88,0,0,0,0,0,,,,,,2,0,2
+355998,2009,Sri Lanka,14,KC Sangakkara,6b71e6cf,NM Hauritz,8ea6e670,LPC Silva,1be70c88,0,0,0,0,0,,,,,,0,0,0
+355998,2009,Sri Lanka,14,KC Sangakkara,6b71e6cf,NM Hauritz,8ea6e670,LPC Silva,1be70c88,0,0,0,0,0,,,,,,6,0,6
+355998,2009,Sri Lanka,14,KC Sangakkara,6b71e6cf,NM Hauritz,8ea6e670,LPC Silva,1be70c88,0,0,0,0,0,,,,,,6,0,6
+355998,2009,Sri Lanka,14,KC Sangakkara,6b71e6cf,NM Hauritz,8ea6e670,LPC Silva,1be70c88,0,0,0,0,0,,,,,,1,0,1
+355998,2009,Sri Lanka,14,LPC Silva,1be70c88,NM Hauritz,8ea6e670,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,1,0,1
+355998,2009,Sri Lanka,15,LPC Silva,1be70c88,NW Bracken,4c61a0f9,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,1,0,1
+355998,2009,Sri Lanka,15,KC Sangakkara,6b71e6cf,NW Bracken,4c61a0f9,LPC Silva,1be70c88,0,0,0,0,0,,,,,,1,0,1
+355998,2009,Sri Lanka,15,LPC Silva,1be70c88,NW Bracken,4c61a0f9,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,1,0,1
+355998,2009,Sri Lanka,15,KC Sangakkara,6b71e6cf,NW Bracken,4c61a0f9,LPC Silva,1be70c88,0,0,0,0,0,,,,,,1,0,1
+355998,2009,Sri Lanka,15,LPC Silva,1be70c88,NW Bracken,4c61a0f9,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,0,0,0
+355998,2009,Sri Lanka,15,LPC Silva,1be70c88,NW Bracken,4c61a0f9,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,1,0,1
+355998,2009,Sri Lanka,16,LPC Silva,1be70c88,B Lee,dd09ff8e,KC Sangakkara,6b71e6cf,0,0,0,0,1,LPC Silva,1be70c88,RT Ponting,7d415ea5,caught,0,0,0
+355998,2009,Sri Lanka,16,J Mubarak,a9520ac2,B Lee,dd09ff8e,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,0,0,0
+355998,2009,Sri Lanka,16,J Mubarak,a9520ac2,B Lee,dd09ff8e,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,0,0,0
+355998,2009,Sri Lanka,16,J Mubarak,a9520ac2,B Lee,dd09ff8e,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,0,0,0
+355998,2009,Sri Lanka,16,J Mubarak,a9520ac2,B Lee,dd09ff8e,KC Sangakkara,6b71e6cf,1,0,0,0,0,,,,,,0,1,1
+355998,2009,Sri Lanka,16,J Mubarak,a9520ac2,B Lee,dd09ff8e,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,2,0,2
+355998,2009,Sri Lanka,16,J Mubarak,a9520ac2,B Lee,dd09ff8e,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,6,0,6
+355998,2009,Sri Lanka,17,KC Sangakkara,6b71e6cf,NW Bracken,4c61a0f9,J Mubarak,a9520ac2,0,0,0,0,0,,,,,,1,0,1
+355998,2009,Sri Lanka,17,J Mubarak,a9520ac2,NW Bracken,4c61a0f9,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,1,0,1
+355998,2009,Sri Lanka,17,KC Sangakkara,6b71e6cf,NW Bracken,4c61a0f9,J Mubarak,a9520ac2,1,0,0,0,0,,,,,,0,1,1
+355998,2009,Sri Lanka,17,KC Sangakkara,6b71e6cf,NW Bracken,4c61a0f9,J Mubarak,a9520ac2,0,0,0,0,0,,,,,,1,0,1
+355998,2009,Sri Lanka,17,J Mubarak,a9520ac2,NW Bracken,4c61a0f9,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,1,0,1
+355998,2009,Sri Lanka,17,KC Sangakkara,6b71e6cf,NW Bracken,4c61a0f9,J Mubarak,a9520ac2,0,0,0,0,0,,,,,,4,0,4
+355998,2009,Sri Lanka,17,KC Sangakkara,6b71e6cf,NW Bracken,4c61a0f9,J Mubarak,a9520ac2,0,0,0,0,0,,,,,,1,0,1
+355998,2009,Sri Lanka,18,KC Sangakkara,6b71e6cf,B Lee,dd09ff8e,J Mubarak,a9520ac2,0,0,0,0,0,,,,,,1,0,1
+355998,2009,Sri Lanka,18,J Mubarak,a9520ac2,B Lee,dd09ff8e,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,0,0,0
+355998,2009,Sri Lanka,18,J Mubarak,a9520ac2,B Lee,dd09ff8e,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,6,0,6
+355998,2009,Sri Lanka,18,J Mubarak,a9520ac2,B Lee,dd09ff8e,KC Sangakkara,6b71e6cf,1,0,0,0,0,,,,,,0,1,1
+355998,2009,Sri Lanka,18,J Mubarak,a9520ac2,B Lee,dd09ff8e,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,0,0,0
+355998,2009,Sri Lanka,18,J Mubarak,a9520ac2,B Lee,dd09ff8e,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,4,0,4
+355998,2009,Sri Lanka,18,J Mubarak,a9520ac2,B Lee,dd09ff8e,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,1,0,1
+355998,2009,Sri Lanka,19,J Mubarak,a9520ac2,MG Johnson,f5180fe6,KC Sangakkara,6b71e6cf,1,0,0,0,0,,,,,,0,1,1

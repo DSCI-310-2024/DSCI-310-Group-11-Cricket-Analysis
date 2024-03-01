@@ -1,0 +1,200 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1348651,2022/23,India,0,Ishan Kishan,752f7486,BG Lister,79f5bc26,Shubman Gill,b4b99816,0,0,0,0,0,,,,,,0,0,0
+1348651,2022/23,India,0,Ishan Kishan,752f7486,BG Lister,79f5bc26,Shubman Gill,b4b99816,0,0,0,0,0,,,,,,1,0,1
+1348651,2022/23,India,0,Shubman Gill,b4b99816,BG Lister,79f5bc26,Ishan Kishan,752f7486,0,0,0,0,0,,,,,,0,0,0
+1348651,2022/23,India,0,Shubman Gill,b4b99816,BG Lister,79f5bc26,Ishan Kishan,752f7486,0,0,0,0,0,,,,,,0,0,0
+1348651,2022/23,India,0,Shubman Gill,b4b99816,BG Lister,79f5bc26,Ishan Kishan,752f7486,0,0,0,0,0,,,,,,4,0,4
+1348651,2022/23,India,0,Shubman Gill,b4b99816,BG Lister,79f5bc26,Ishan Kishan,752f7486,0,0,0,0,0,,,,,,1,0,1
+1348651,2022/23,India,1,Shubman Gill,b4b99816,MG Bracewell,e38bce7a,Ishan Kishan,752f7486,0,0,0,0,0,,,,,,1,0,1
+1348651,2022/23,India,1,Ishan Kishan,752f7486,MG Bracewell,e38bce7a,Shubman Gill,b4b99816,0,0,0,0,1,Ishan Kishan,752f7486,,,lbw,0,0,0
+1348651,2022/23,India,1,RA Tripathi,77255a9e,MG Bracewell,e38bce7a,Shubman Gill,b4b99816,0,0,0,0,0,,,,,,1,0,1
+1348651,2022/23,India,1,Shubman Gill,b4b99816,MG Bracewell,e38bce7a,RA Tripathi,77255a9e,0,0,0,0,0,,,,,,1,0,1
+1348651,2022/23,India,1,RA Tripathi,77255a9e,MG Bracewell,e38bce7a,Shubman Gill,b4b99816,0,0,0,0,0,,,,,,1,0,1
+1348651,2022/23,India,1,Shubman Gill,b4b99816,MG Bracewell,e38bce7a,RA Tripathi,77255a9e,0,0,0,0,0,,,,,,4,0,4
+1348651,2022/23,India,2,RA Tripathi,77255a9e,LH Ferguson,2f9d0389,Shubman Gill,b4b99816,0,0,0,0,0,,,,,,0,0,0
+1348651,2022/23,India,2,RA Tripathi,77255a9e,LH Ferguson,2f9d0389,Shubman Gill,b4b99816,0,0,0,0,0,,,,,,4,0,4
+1348651,2022/23,India,2,RA Tripathi,77255a9e,LH Ferguson,2f9d0389,Shubman Gill,b4b99816,0,0,0,1,0,,,,,,0,1,1
+1348651,2022/23,India,2,Shubman Gill,b4b99816,LH Ferguson,2f9d0389,RA Tripathi,77255a9e,0,0,0,0,0,,,,,,4,0,4
+1348651,2022/23,India,2,Shubman Gill,b4b99816,LH Ferguson,2f9d0389,RA Tripathi,77255a9e,0,0,1,0,0,,,,,,0,1,1
+1348651,2022/23,India,2,RA Tripathi,77255a9e,LH Ferguson,2f9d0389,Shubman Gill,b4b99816,0,0,0,0,0,,,,,,1,0,1
+1348651,2022/23,India,3,RA Tripathi,77255a9e,BG Lister,79f5bc26,Shubman Gill,b4b99816,0,0,0,0,0,,,,,,0,0,0
+1348651,2022/23,India,3,RA Tripathi,77255a9e,BG Lister,79f5bc26,Shubman Gill,b4b99816,0,0,0,0,0,,,,,,0,0,0
+1348651,2022/23,India,3,RA Tripathi,77255a9e,BG Lister,79f5bc26,Shubman Gill,b4b99816,0,0,0,0,0,,,,,,1,0,1
+1348651,2022/23,India,3,Shubman Gill,b4b99816,BG Lister,79f5bc26,RA Tripathi,77255a9e,0,0,0,0,0,,,,,,2,0,2
+1348651,2022/23,India,3,Shubman Gill,b4b99816,BG Lister,79f5bc26,RA Tripathi,77255a9e,0,0,0,0,0,,,,,,0,0,0
+1348651,2022/23,India,3,Shubman Gill,b4b99816,BG Lister,79f5bc26,RA Tripathi,77255a9e,0,0,0,0,0,,,,,,2,0,2
+1348651,2022/23,India,4,RA Tripathi,77255a9e,BM Tickner,48ad3373,Shubman Gill,b4b99816,0,0,0,0,0,,,,,,1,0,1
+1348651,2022/23,India,4,Shubman Gill,b4b99816,BM Tickner,48ad3373,RA Tripathi,77255a9e,0,0,0,0,0,,,,,,4,0,4
+1348651,2022/23,India,4,Shubman Gill,b4b99816,BM Tickner,48ad3373,RA Tripathi,77255a9e,0,0,0,0,0,,,,,,4,0,4
+1348651,2022/23,India,4,Shubman Gill,b4b99816,BM Tickner,48ad3373,RA Tripathi,77255a9e,0,0,0,0,0,,,,,,0,0,0
+1348651,2022/23,India,4,Shubman Gill,b4b99816,BM Tickner,48ad3373,RA Tripathi,77255a9e,0,0,0,0,0,,,,,,4,0,4
+1348651,2022/23,India,4,Shubman Gill,b4b99816,BM Tickner,48ad3373,RA Tripathi,77255a9e,0,0,0,0,0,,,,,,1,0,1
+1348651,2022/23,India,5,Shubman Gill,b4b99816,LH Ferguson,2f9d0389,RA Tripathi,77255a9e,0,0,0,0,0,,,,,,1,0,1
+1348651,2022/23,India,5,RA Tripathi,77255a9e,LH Ferguson,2f9d0389,Shubman Gill,b4b99816,0,0,0,0,0,,,,,,4,0,4
+1348651,2022/23,India,5,RA Tripathi,77255a9e,LH Ferguson,2f9d0389,Shubman Gill,b4b99816,0,0,0,0,0,,,,,,6,0,6
+1348651,2022/23,India,5,RA Tripathi,77255a9e,LH Ferguson,2f9d0389,Shubman Gill,b4b99816,1,0,0,0,0,,,,,,0,1,1
+1348651,2022/23,India,5,RA Tripathi,77255a9e,LH Ferguson,2f9d0389,Shubman Gill,b4b99816,0,0,0,0,0,,,,,,1,0,1
+1348651,2022/23,India,5,Shubman Gill,b4b99816,LH Ferguson,2f9d0389,RA Tripathi,77255a9e,0,0,0,0,0,,,,,,0,0,0
+1348651,2022/23,India,5,Shubman Gill,b4b99816,LH Ferguson,2f9d0389,RA Tripathi,77255a9e,0,0,0,0,0,,,,,,1,0,1
+1348651,2022/23,India,6,Shubman Gill,b4b99816,IS Sodhi,641ac5ff,RA Tripathi,77255a9e,0,0,0,0,0,,,,,,1,0,1
+1348651,2022/23,India,6,RA Tripathi,77255a9e,IS Sodhi,641ac5ff,Shubman Gill,b4b99816,0,0,0,0,0,,,,,,4,0,4
+1348651,2022/23,India,6,RA Tripathi,77255a9e,IS Sodhi,641ac5ff,Shubman Gill,b4b99816,0,0,0,0,0,,,,,,1,0,1
+1348651,2022/23,India,6,Shubman Gill,b4b99816,IS Sodhi,641ac5ff,RA Tripathi,77255a9e,0,0,0,0,0,,,,,,2,0,2
+1348651,2022/23,India,6,Shubman Gill,b4b99816,IS Sodhi,641ac5ff,RA Tripathi,77255a9e,0,0,0,0,0,,,,,,1,0,1
+1348651,2022/23,India,6,RA Tripathi,77255a9e,IS Sodhi,641ac5ff,Shubman Gill,b4b99816,0,0,0,0,0,,,,,,2,0,2
+1348651,2022/23,India,7,Shubman Gill,b4b99816,MJ Santner,e4a0deae,RA Tripathi,77255a9e,0,0,0,0,0,,,,,,1,0,1
+1348651,2022/23,India,7,RA Tripathi,77255a9e,MJ Santner,e4a0deae,Shubman Gill,b4b99816,0,0,0,0,0,,,,,,4,0,4
+1348651,2022/23,India,7,RA Tripathi,77255a9e,MJ Santner,e4a0deae,Shubman Gill,b4b99816,0,0,0,0,0,,,,,,6,0,6
+1348651,2022/23,India,7,RA Tripathi,77255a9e,MJ Santner,e4a0deae,Shubman Gill,b4b99816,0,0,0,0,0,,,,,,0,0,0
+1348651,2022/23,India,7,RA Tripathi,77255a9e,MJ Santner,e4a0deae,Shubman Gill,b4b99816,0,0,0,0,0,,,,,,1,0,1
+1348651,2022/23,India,7,Shubman Gill,b4b99816,MJ Santner,e4a0deae,RA Tripathi,77255a9e,0,0,0,0,0,,,,,,0,0,0
+1348651,2022/23,India,8,RA Tripathi,77255a9e,IS Sodhi,641ac5ff,Shubman Gill,b4b99816,0,0,0,0,0,,,,,,6,0,6
+1348651,2022/23,India,8,RA Tripathi,77255a9e,IS Sodhi,641ac5ff,Shubman Gill,b4b99816,0,0,0,0,1,RA Tripathi,77255a9e,LH Ferguson,2f9d0389,caught,0,0,0
+1348651,2022/23,India,8,SA Yadav,271f83cd,IS Sodhi,641ac5ff,Shubman Gill,b4b99816,0,0,0,0,0,,,,,,1,0,1
+1348651,2022/23,India,8,Shubman Gill,b4b99816,IS Sodhi,641ac5ff,SA Yadav,271f83cd,0,0,0,0,0,,,,,,1,0,1
+1348651,2022/23,India,8,SA Yadav,271f83cd,IS Sodhi,641ac5ff,Shubman Gill,b4b99816,0,0,0,0,0,,,,,,4,0,4
+1348651,2022/23,India,8,SA Yadav,271f83cd,IS Sodhi,641ac5ff,Shubman Gill,b4b99816,0,0,0,0,0,,,,,,1,0,1
+1348651,2022/23,India,9,SA Yadav,271f83cd,MJ Santner,e4a0deae,Shubman Gill,b4b99816,0,0,0,0,0,,,,,,1,0,1
+1348651,2022/23,India,9,Shubman Gill,b4b99816,MJ Santner,e4a0deae,SA Yadav,271f83cd,0,0,0,0,0,,,,,,1,0,1
+1348651,2022/23,India,9,SA Yadav,271f83cd,MJ Santner,e4a0deae,Shubman Gill,b4b99816,0,0,0,1,0,,,,,,0,1,1
+1348651,2022/23,India,9,Shubman Gill,b4b99816,MJ Santner,e4a0deae,SA Yadav,271f83cd,0,0,0,0,0,,,,,,4,0,4
+1348651,2022/23,India,9,Shubman Gill,b4b99816,MJ Santner,e4a0deae,SA Yadav,271f83cd,0,0,0,0,0,,,,,,0,0,0
+1348651,2022/23,India,9,Shubman Gill,b4b99816,MJ Santner,e4a0deae,SA Yadav,271f83cd,0,0,0,0,0,,,,,,1,0,1
+1348651,2022/23,India,10,Shubman Gill,b4b99816,IS Sodhi,641ac5ff,SA Yadav,271f83cd,0,0,0,0,0,,,,,,0,0,0
+1348651,2022/23,India,10,Shubman Gill,b4b99816,IS Sodhi,641ac5ff,SA Yadav,271f83cd,0,0,0,0,0,,,,,,1,0,1
+1348651,2022/23,India,10,SA Yadav,271f83cd,IS Sodhi,641ac5ff,Shubman Gill,b4b99816,0,0,0,0,0,,,,,,0,0,0
+1348651,2022/23,India,10,SA Yadav,271f83cd,IS Sodhi,641ac5ff,Shubman Gill,b4b99816,0,0,0,0,0,,,,,,6,0,6
+1348651,2022/23,India,10,SA Yadav,271f83cd,IS Sodhi,641ac5ff,Shubman Gill,b4b99816,0,0,0,0,0,,,,,,2,0,2
+1348651,2022/23,India,10,SA Yadav,271f83cd,IS Sodhi,641ac5ff,Shubman Gill,b4b99816,0,0,0,0,0,,,,,,1,0,1
+1348651,2022/23,India,11,SA Yadav,271f83cd,MJ Santner,e4a0deae,Shubman Gill,b4b99816,0,0,0,0,0,,,,,,1,0,1
+1348651,2022/23,India,11,Shubman Gill,b4b99816,MJ Santner,e4a0deae,SA Yadav,271f83cd,0,0,0,0,0,,,,,,0,0,0
+1348651,2022/23,India,11,Shubman Gill,b4b99816,MJ Santner,e4a0deae,SA Yadav,271f83cd,0,0,0,0,0,,,,,,2,0,2
+1348651,2022/23,India,11,Shubman Gill,b4b99816,MJ Santner,e4a0deae,SA Yadav,271f83cd,0,0,0,0,0,,,,,,1,0,1
+1348651,2022/23,India,11,SA Yadav,271f83cd,MJ Santner,e4a0deae,Shubman Gill,b4b99816,0,0,0,0,0,,,,,,1,0,1
+1348651,2022/23,India,11,Shubman Gill,b4b99816,MJ Santner,e4a0deae,SA Yadav,271f83cd,0,0,0,0,0,,,,,,1,0,1
+1348651,2022/23,India,12,Shubman Gill,b4b99816,BM Tickner,48ad3373,SA Yadav,271f83cd,0,0,0,0,0,,,,,,1,0,1
+1348651,2022/23,India,12,SA Yadav,271f83cd,BM Tickner,48ad3373,Shubman Gill,b4b99816,0,0,0,0,0,,,,,,6,0,6
+1348651,2022/23,India,12,SA Yadav,271f83cd,BM Tickner,48ad3373,Shubman Gill,b4b99816,0,0,0,0,1,SA Yadav,271f83cd,MG Bracewell,e38bce7a,caught,0,0,0
+1348651,2022/23,India,12,HH Pandya,dbe50b21,BM Tickner,48ad3373,Shubman Gill,b4b99816,0,0,0,0,0,,,,,,4,0,4
+1348651,2022/23,India,12,HH Pandya,dbe50b21,BM Tickner,48ad3373,Shubman Gill,b4b99816,0,0,0,0,0,,,,,,1,0,1
+1348651,2022/23,India,12,Shubman Gill,b4b99816,BM Tickner,48ad3373,HH Pandya,dbe50b21,0,0,0,0,0,,,,,,1,0,1
+1348651,2022/23,India,13,Shubman Gill,b4b99816,LH Ferguson,2f9d0389,HH Pandya,dbe50b21,0,0,0,0,0,,,,,,1,0,1
+1348651,2022/23,India,13,HH Pandya,dbe50b21,LH Ferguson,2f9d0389,Shubman Gill,b4b99816,0,0,0,0,0,,,,,,1,0,1
+1348651,2022/23,India,13,Shubman Gill,b4b99816,LH Ferguson,2f9d0389,HH Pandya,dbe50b21,0,0,0,0,0,,,,,,6,0,6
+1348651,2022/23,India,13,Shubman Gill,b4b99816,LH Ferguson,2f9d0389,HH Pandya,dbe50b21,0,0,0,0,0,,,,,,1,0,1
+1348651,2022/23,India,13,HH Pandya,dbe50b21,LH Ferguson,2f9d0389,Shubman Gill,b4b99816,0,0,0,0,0,,,,,,0,0,0
+1348651,2022/23,India,13,HH Pandya,dbe50b21,LH Ferguson,2f9d0389,Shubman Gill,b4b99816,0,0,0,0,0,,,,,,4,0,4
+1348651,2022/23,India,14,Shubman Gill,b4b99816,MJ Santner,e4a0deae,HH Pandya,dbe50b21,0,0,0,0,0,,,,,,1,0,1
+1348651,2022/23,India,14,HH Pandya,dbe50b21,MJ Santner,e4a0deae,Shubman Gill,b4b99816,0,0,0,0,0,,,,,,4,0,4
+1348651,2022/23,India,14,HH Pandya,dbe50b21,MJ Santner,e4a0deae,Shubman Gill,b4b99816,0,0,0,0,0,,,,,,1,0,1
+1348651,2022/23,India,14,Shubman Gill,b4b99816,MJ Santner,e4a0deae,HH Pandya,dbe50b21,0,0,0,0,0,,,,,,1,0,1
+1348651,2022/23,India,14,HH Pandya,dbe50b21,MJ Santner,e4a0deae,Shubman Gill,b4b99816,0,0,0,0,0,,,,,,1,0,1
+1348651,2022/23,India,14,Shubman Gill,b4b99816,MJ Santner,e4a0deae,HH Pandya,dbe50b21,0,0,0,0,0,,,,,,4,0,4
+1348651,2022/23,India,15,HH Pandya,dbe50b21,BG Lister,79f5bc26,Shubman Gill,b4b99816,0,0,0,0,0,,,,,,1,0,1
+1348651,2022/23,India,15,Shubman Gill,b4b99816,BG Lister,79f5bc26,HH Pandya,dbe50b21,0,0,0,0,0,,,,,,0,0,0
+1348651,2022/23,India,15,Shubman Gill,b4b99816,BG Lister,79f5bc26,HH Pandya,dbe50b21,0,0,0,0,0,,,,,,6,0,6
+1348651,2022/23,India,15,Shubman Gill,b4b99816,BG Lister,79f5bc26,HH Pandya,dbe50b21,0,0,0,0,0,,,,,,6,0,6
+1348651,2022/23,India,15,Shubman Gill,b4b99816,BG Lister,79f5bc26,HH Pandya,dbe50b21,0,0,0,0,0,,,,,,1,0,1
+1348651,2022/23,India,15,HH Pandya,dbe50b21,BG Lister,79f5bc26,Shubman Gill,b4b99816,0,0,0,0,0,,,,,,0,0,0
+1348651,2022/23,India,16,Shubman Gill,b4b99816,BM Tickner,48ad3373,HH Pandya,dbe50b21,0,0,0,0,0,,,,,,6,0,6
+1348651,2022/23,India,16,Shubman Gill,b4b99816,BM Tickner,48ad3373,HH Pandya,dbe50b21,0,0,0,0,0,,,,,,4,0,4
+1348651,2022/23,India,16,Shubman Gill,b4b99816,BM Tickner,48ad3373,HH Pandya,dbe50b21,1,0,0,0,0,,,,,,0,1,1
+1348651,2022/23,India,16,Shubman Gill,b4b99816,BM Tickner,48ad3373,HH Pandya,dbe50b21,0,0,0,0,0,,,,,,0,0,0
+1348651,2022/23,India,16,Shubman Gill,b4b99816,BM Tickner,48ad3373,HH Pandya,dbe50b21,0,0,0,0,0,,,,,,6,0,6
+1348651,2022/23,India,16,Shubman Gill,b4b99816,BM Tickner,48ad3373,HH Pandya,dbe50b21,0,0,0,0,0,,,,,,1,0,1
+1348651,2022/23,India,16,HH Pandya,dbe50b21,BM Tickner,48ad3373,Shubman Gill,b4b99816,1,0,0,0,0,,,,,,0,1,1
+1348651,2022/23,India,16,HH Pandya,dbe50b21,BM Tickner,48ad3373,Shubman Gill,b4b99816,0,0,0,0,0,,,,,,4,0,4
+1348651,2022/23,India,17,Shubman Gill,b4b99816,LH Ferguson,2f9d0389,HH Pandya,dbe50b21,0,0,0,0,0,,,,,,4,0,4
+1348651,2022/23,India,17,Shubman Gill,b4b99816,LH Ferguson,2f9d0389,HH Pandya,dbe50b21,0,0,0,0,0,,,,,,6,0,6
+1348651,2022/23,India,17,Shubman Gill,b4b99816,LH Ferguson,2f9d0389,HH Pandya,dbe50b21,0,0,0,0,0,,,,,,1,0,1
+1348651,2022/23,India,17,HH Pandya,dbe50b21,LH Ferguson,2f9d0389,Shubman Gill,b4b99816,0,0,0,0,0,,,,,,0,0,0
+1348651,2022/23,India,17,HH Pandya,dbe50b21,LH Ferguson,2f9d0389,Shubman Gill,b4b99816,0,0,0,0,0,,,,,,6,0,6
+1348651,2022/23,India,17,HH Pandya,dbe50b21,LH Ferguson,2f9d0389,Shubman Gill,b4b99816,0,0,0,0,0,,,,,,1,0,1
+1348651,2022/23,India,18,HH Pandya,dbe50b21,BG Lister,79f5bc26,Shubman Gill,b4b99816,0,0,0,0,0,,,,,,1,0,1
+1348651,2022/23,India,18,Shubman Gill,b4b99816,BG Lister,79f5bc26,HH Pandya,dbe50b21,0,0,0,0,0,,,,,,4,0,4
+1348651,2022/23,India,18,Shubman Gill,b4b99816,BG Lister,79f5bc26,HH Pandya,dbe50b21,0,0,0,0,0,,,,,,1,0,1
+1348651,2022/23,India,18,HH Pandya,dbe50b21,BG Lister,79f5bc26,Shubman Gill,b4b99816,0,0,0,0,0,,,,,,1,0,1
+1348651,2022/23,India,18,Shubman Gill,b4b99816,BG Lister,79f5bc26,HH Pandya,dbe50b21,0,0,0,0,0,,,,,,4,0,4
+1348651,2022/23,India,18,Shubman Gill,b4b99816,BG Lister,79f5bc26,HH Pandya,dbe50b21,0,0,0,0,0,,,,,,6,0,6
+1348651,2022/23,India,19,HH Pandya,dbe50b21,DJ Mitchell,eade4650,Shubman Gill,b4b99816,0,0,0,0,1,HH Pandya,dbe50b21,MG Bracewell,e38bce7a,caught,0,0,0
+1348651,2022/23,India,19,DJ Hooda,73ad96ed,DJ Mitchell,eade4650,Shubman Gill,b4b99816,0,0,0,0,0,,,,,,1,0,1
+1348651,2022/23,India,19,Shubman Gill,b4b99816,DJ Mitchell,eade4650,DJ Hooda,73ad96ed,0,0,0,0,0,,,,,,2,0,2
+1348651,2022/23,India,19,Shubman Gill,b4b99816,DJ Mitchell,eade4650,DJ Hooda,73ad96ed,0,0,0,0,0,,,,,,0,0,0
+1348651,2022/23,India,19,Shubman Gill,b4b99816,DJ Mitchell,eade4650,DJ Hooda,73ad96ed,1,0,0,0,0,,,,,,0,1,1
+1348651,2022/23,India,19,Shubman Gill,b4b99816,DJ Mitchell,eade4650,DJ Hooda,73ad96ed,0,0,0,0,0,,,,,,1,0,1
+1348651,2022/23,India,19,DJ Hooda,73ad96ed,DJ Mitchell,eade4650,Shubman Gill,b4b99816,0,0,0,0,0,,,,,,1,0,1
+1348651,2022/23,New Zealand,0,FH Allen,bf74b130,HH Pandya,dbe50b21,DP Conway,df5a6881,0,0,0,0,0,,,,,,0,0,0
+1348651,2022/23,New Zealand,0,FH Allen,bf74b130,HH Pandya,dbe50b21,DP Conway,df5a6881,0,0,0,0,0,,,,,,2,0,2
+1348651,2022/23,New Zealand,0,FH Allen,bf74b130,HH Pandya,dbe50b21,DP Conway,df5a6881,0,0,0,0,0,,,,,,1,0,1
+1348651,2022/23,New Zealand,0,DP Conway,df5a6881,HH Pandya,dbe50b21,FH Allen,bf74b130,0,0,0,0,0,,,,,,1,0,1
+1348651,2022/23,New Zealand,0,FH Allen,bf74b130,HH Pandya,dbe50b21,DP Conway,df5a6881,0,0,0,0,1,FH Allen,bf74b130,SA Yadav,271f83cd,caught,0,0,0
+1348651,2022/23,New Zealand,0,MS Chapman,7fa12533,HH Pandya,dbe50b21,DP Conway,df5a6881,0,0,0,0,0,,,,,,0,0,0
+1348651,2022/23,New Zealand,1,DP Conway,df5a6881,Arshdeep Singh,244048f6,MS Chapman,7fa12533,0,0,0,0,1,DP Conway,df5a6881,HH Pandya,dbe50b21,caught,0,0,0
+1348651,2022/23,New Zealand,1,GD Phillips,9a46c4e5,Arshdeep Singh,244048f6,MS Chapman,7fa12533,0,0,0,0,0,,,,,,0,0,0
+1348651,2022/23,New Zealand,1,GD Phillips,9a46c4e5,Arshdeep Singh,244048f6,MS Chapman,7fa12533,0,0,0,0,0,,,,,,0,0,0
+1348651,2022/23,New Zealand,1,GD Phillips,9a46c4e5,Arshdeep Singh,244048f6,MS Chapman,7fa12533,0,0,0,0,0,,,,,,0,0,0
+1348651,2022/23,New Zealand,1,GD Phillips,9a46c4e5,Arshdeep Singh,244048f6,MS Chapman,7fa12533,0,0,0,0,0,,,,,,1,0,1
+1348651,2022/23,New Zealand,1,MS Chapman,7fa12533,Arshdeep Singh,244048f6,GD Phillips,9a46c4e5,0,0,0,0,1,MS Chapman,7fa12533,Ishan Kishan,752f7486,caught,0,0,0
+1348651,2022/23,New Zealand,2,GD Phillips,9a46c4e5,HH Pandya,dbe50b21,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,1,0,1
+1348651,2022/23,New Zealand,2,DJ Mitchell,eade4650,HH Pandya,dbe50b21,GD Phillips,9a46c4e5,0,0,0,0,0,,,,,,1,0,1
+1348651,2022/23,New Zealand,2,GD Phillips,9a46c4e5,HH Pandya,dbe50b21,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,0,0,0
+1348651,2022/23,New Zealand,2,GD Phillips,9a46c4e5,HH Pandya,dbe50b21,DJ Mitchell,eade4650,0,0,0,0,1,GD Phillips,9a46c4e5,SA Yadav,271f83cd,caught,0,0,0
+1348651,2022/23,New Zealand,2,MG Bracewell,e38bce7a,HH Pandya,dbe50b21,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,0,0,0
+1348651,2022/23,New Zealand,2,MG Bracewell,e38bce7a,HH Pandya,dbe50b21,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,6,0,6
+1348651,2022/23,New Zealand,3,DJ Mitchell,eade4650,Arshdeep Singh,244048f6,MG Bracewell,e38bce7a,0,0,1,0,0,,,,,,0,1,1
+1348651,2022/23,New Zealand,3,MG Bracewell,e38bce7a,Arshdeep Singh,244048f6,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,0,0,0
+1348651,2022/23,New Zealand,3,MG Bracewell,e38bce7a,Arshdeep Singh,244048f6,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,1,0,1
+1348651,2022/23,New Zealand,3,DJ Mitchell,eade4650,Arshdeep Singh,244048f6,MG Bracewell,e38bce7a,0,0,0,0,0,,,,,,1,0,1
+1348651,2022/23,New Zealand,3,MG Bracewell,e38bce7a,Arshdeep Singh,244048f6,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,1,0,1
+1348651,2022/23,New Zealand,3,DJ Mitchell,eade4650,Arshdeep Singh,244048f6,MG Bracewell,e38bce7a,0,0,0,0,0,,,,,,4,0,4
+1348651,2022/23,New Zealand,4,MG Bracewell,e38bce7a,Umran Malik,81c08fa3,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,0,0,0
+1348651,2022/23,New Zealand,4,MG Bracewell,e38bce7a,Umran Malik,81c08fa3,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,0,0,0
+1348651,2022/23,New Zealand,4,MG Bracewell,e38bce7a,Umran Malik,81c08fa3,DJ Mitchell,eade4650,0,0,0,0,1,MG Bracewell,e38bce7a,,,bowled,0,0,0
+1348651,2022/23,New Zealand,4,MJ Santner,e4a0deae,Umran Malik,81c08fa3,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,0,0,0
+1348651,2022/23,New Zealand,4,MJ Santner,e4a0deae,Umran Malik,81c08fa3,DJ Mitchell,eade4650,1,0,0,0,0,,,,,,0,1,1
+1348651,2022/23,New Zealand,4,MJ Santner,e4a0deae,Umran Malik,81c08fa3,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,0,0,0
+1348651,2022/23,New Zealand,4,MJ Santner,e4a0deae,Umran Malik,81c08fa3,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,0,0,0
+1348651,2022/23,New Zealand,5,DJ Mitchell,eade4650,Arshdeep Singh,244048f6,MJ Santner,e4a0deae,0,0,0,0,0,,,,,,0,0,0
+1348651,2022/23,New Zealand,5,DJ Mitchell,eade4650,Arshdeep Singh,244048f6,MJ Santner,e4a0deae,0,0,0,0,0,,,,,,0,0,0
+1348651,2022/23,New Zealand,5,DJ Mitchell,eade4650,Arshdeep Singh,244048f6,MJ Santner,e4a0deae,0,0,0,0,0,,,,,,1,0,1
+1348651,2022/23,New Zealand,5,MJ Santner,e4a0deae,Arshdeep Singh,244048f6,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,1,0,1
+1348651,2022/23,New Zealand,5,DJ Mitchell,eade4650,Arshdeep Singh,244048f6,MJ Santner,e4a0deae,0,0,0,0,0,,,,,,6,0,6
+1348651,2022/23,New Zealand,5,DJ Mitchell,eade4650,Arshdeep Singh,244048f6,MJ Santner,e4a0deae,0,0,0,0,0,,,,,,0,0,0
+1348651,2022/23,New Zealand,6,MJ Santner,e4a0deae,Umran Malik,81c08fa3,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,4,0,4
+1348651,2022/23,New Zealand,6,MJ Santner,e4a0deae,Umran Malik,81c08fa3,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,0,0,0
+1348651,2022/23,New Zealand,6,MJ Santner,e4a0deae,Umran Malik,81c08fa3,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,1,0,1
+1348651,2022/23,New Zealand,6,DJ Mitchell,eade4650,Umran Malik,81c08fa3,MJ Santner,e4a0deae,0,0,0,0,0,,,,,,0,0,0
+1348651,2022/23,New Zealand,6,DJ Mitchell,eade4650,Umran Malik,81c08fa3,MJ Santner,e4a0deae,0,0,0,0,0,,,,,,1,0,1
+1348651,2022/23,New Zealand,6,MJ Santner,e4a0deae,Umran Malik,81c08fa3,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,2,0,2
+1348651,2022/23,New Zealand,7,DJ Mitchell,eade4650,Kuldeep Yadav,8d2c70ad,MJ Santner,e4a0deae,0,0,0,0,0,,,,,,1,0,1
+1348651,2022/23,New Zealand,7,MJ Santner,e4a0deae,Kuldeep Yadav,8d2c70ad,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,0,0,0
+1348651,2022/23,New Zealand,7,MJ Santner,e4a0deae,Kuldeep Yadav,8d2c70ad,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,1,0,1
+1348651,2022/23,New Zealand,7,DJ Mitchell,eade4650,Kuldeep Yadav,8d2c70ad,MJ Santner,e4a0deae,0,0,0,0,0,,,,,,6,0,6
+1348651,2022/23,New Zealand,7,DJ Mitchell,eade4650,Kuldeep Yadav,8d2c70ad,MJ Santner,e4a0deae,0,0,0,0,0,,,,,,1,0,1
+1348651,2022/23,New Zealand,7,MJ Santner,e4a0deae,Kuldeep Yadav,8d2c70ad,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,3,0,3
+1348651,2022/23,New Zealand,8,MJ Santner,e4a0deae,Shivam Mavi,c38d3503,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,1,0,1
+1348651,2022/23,New Zealand,8,DJ Mitchell,eade4650,Shivam Mavi,c38d3503,MJ Santner,e4a0deae,0,0,0,0,0,,,,,,1,0,1
+1348651,2022/23,New Zealand,8,MJ Santner,e4a0deae,Shivam Mavi,c38d3503,DJ Mitchell,eade4650,1,0,0,0,0,,,,,,0,1,1
+1348651,2022/23,New Zealand,8,MJ Santner,e4a0deae,Shivam Mavi,c38d3503,DJ Mitchell,eade4650,0,0,0,0,1,MJ Santner,e4a0deae,SA Yadav,271f83cd,caught,0,0,0
+1348651,2022/23,New Zealand,8,IS Sodhi,641ac5ff,Shivam Mavi,c38d3503,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,0,0,0
+1348651,2022/23,New Zealand,8,IS Sodhi,641ac5ff,Shivam Mavi,c38d3503,DJ Mitchell,eade4650,0,0,0,0,1,IS Sodhi,641ac5ff,RA Tripathi,77255a9e,caught,0,0,0
+1348651,2022/23,New Zealand,8,LH Ferguson,2f9d0389,Shivam Mavi,c38d3503,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,0,0,0
+1348651,2022/23,New Zealand,9,DJ Mitchell,eade4650,HH Pandya,dbe50b21,LH Ferguson,2f9d0389,0,0,0,0,0,,,,,,1,0,1
+1348651,2022/23,New Zealand,9,LH Ferguson,2f9d0389,HH Pandya,dbe50b21,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,0,0,0
+1348651,2022/23,New Zealand,9,LH Ferguson,2f9d0389,HH Pandya,dbe50b21,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,0,0,0
+1348651,2022/23,New Zealand,9,LH Ferguson,2f9d0389,HH Pandya,dbe50b21,DJ Mitchell,eade4650,0,0,0,0,1,LH Ferguson,2f9d0389,Umran Malik,81c08fa3,caught,0,0,0
+1348651,2022/23,New Zealand,9,BM Tickner,48ad3373,HH Pandya,dbe50b21,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,1,0,1
+1348651,2022/23,New Zealand,9,DJ Mitchell,eade4650,HH Pandya,dbe50b21,BM Tickner,48ad3373,0,0,0,0,0,,,,,,1,0,1
+1348651,2022/23,New Zealand,10,DJ Mitchell,eade4650,Shivam Mavi,c38d3503,BM Tickner,48ad3373,0,0,0,0,0,,,,,,0,0,0
+1348651,2022/23,New Zealand,10,DJ Mitchell,eade4650,Shivam Mavi,c38d3503,BM Tickner,48ad3373,0,0,0,0,0,,,,,,6,0,6
+1348651,2022/23,New Zealand,10,DJ Mitchell,eade4650,Shivam Mavi,c38d3503,BM Tickner,48ad3373,0,0,0,0,0,,,,,,2,0,2
+1348651,2022/23,New Zealand,10,DJ Mitchell,eade4650,Shivam Mavi,c38d3503,BM Tickner,48ad3373,0,0,0,0,0,,,,,,0,0,0
+1348651,2022/23,New Zealand,10,DJ Mitchell,eade4650,Shivam Mavi,c38d3503,BM Tickner,48ad3373,0,0,0,0,0,,,,,,0,0,0
+1348651,2022/23,New Zealand,10,DJ Mitchell,eade4650,Shivam Mavi,c38d3503,BM Tickner,48ad3373,0,0,0,0,0,,,,,,1,0,1
+1348651,2022/23,New Zealand,11,DJ Mitchell,eade4650,HH Pandya,dbe50b21,BM Tickner,48ad3373,0,0,0,0,0,,,,,,1,0,1
+1348651,2022/23,New Zealand,11,BM Tickner,48ad3373,HH Pandya,dbe50b21,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,0,0,0
+1348651,2022/23,New Zealand,11,BM Tickner,48ad3373,HH Pandya,dbe50b21,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,0,0,0
+1348651,2022/23,New Zealand,11,BM Tickner,48ad3373,HH Pandya,dbe50b21,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,0,0,0
+1348651,2022/23,New Zealand,11,BM Tickner,48ad3373,HH Pandya,dbe50b21,DJ Mitchell,eade4650,0,0,0,0,1,BM Tickner,48ad3373,Ishan Kishan,752f7486,caught,0,0,0
+1348651,2022/23,New Zealand,11,BG Lister,79f5bc26,HH Pandya,dbe50b21,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,0,0,0
+1348651,2022/23,New Zealand,12,DJ Mitchell,eade4650,Umran Malik,81c08fa3,BG Lister,79f5bc26,0,0,0,0,1,DJ Mitchell,eade4650,Shivam Mavi,c38d3503,caught,0,0,0

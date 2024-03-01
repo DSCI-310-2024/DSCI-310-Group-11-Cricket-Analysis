@@ -1,0 +1,250 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1320204,2022,Bhutan,0,N Choden,a904600a,Maria Jasvi,4bed6af7,Y Choden,6f17c546,0,0,0,0,0,,,,,,0,0,0
+1320204,2022,Bhutan,0,N Choden,a904600a,Maria Jasvi,4bed6af7,Y Choden,6f17c546,0,0,0,0,0,,,,,,0,0,0
+1320204,2022,Bhutan,0,N Choden,a904600a,Maria Jasvi,4bed6af7,Y Choden,6f17c546,0,0,0,0,0,,,,,,1,0,1
+1320204,2022,Bhutan,0,Y Choden,6f17c546,Maria Jasvi,4bed6af7,N Choden,a904600a,5,0,0,0,0,,,,,,0,5,5
+1320204,2022,Bhutan,0,Y Choden,6f17c546,Maria Jasvi,4bed6af7,N Choden,a904600a,0,0,0,0,0,,,,,,0,0,0
+1320204,2022,Bhutan,0,Y Choden,6f17c546,Maria Jasvi,4bed6af7,N Choden,a904600a,0,0,0,0,0,,,,,,0,0,0
+1320204,2022,Bhutan,0,Y Choden,6f17c546,Maria Jasvi,4bed6af7,N Choden,a904600a,0,0,0,0,0,,,,,,0,0,0
+1320204,2022,Bhutan,1,N Choden,a904600a,Mariamma Hyder,c8ae2573,Y Choden,6f17c546,0,0,0,0,0,,,,,,0,0,0
+1320204,2022,Bhutan,1,N Choden,a904600a,Mariamma Hyder,c8ae2573,Y Choden,6f17c546,0,0,0,0,0,,,,,,0,0,0
+1320204,2022,Bhutan,1,N Choden,a904600a,Mariamma Hyder,c8ae2573,Y Choden,6f17c546,0,0,0,0,0,,,,,,1,0,1
+1320204,2022,Bhutan,1,Y Choden,6f17c546,Mariamma Hyder,c8ae2573,N Choden,a904600a,0,0,0,0,0,,,,,,2,0,2
+1320204,2022,Bhutan,1,Y Choden,6f17c546,Mariamma Hyder,c8ae2573,N Choden,a904600a,0,0,0,0,0,,,,,,1,0,1
+1320204,2022,Bhutan,1,N Choden,a904600a,Mariamma Hyder,c8ae2573,Y Choden,6f17c546,0,0,0,0,0,,,,,,0,0,0
+1320204,2022,Bhutan,2,Y Choden,6f17c546,Maria Jasvi,4bed6af7,N Choden,a904600a,0,0,0,0,0,,,,,,0,0,0
+1320204,2022,Bhutan,2,Y Choden,6f17c546,Maria Jasvi,4bed6af7,N Choden,a904600a,0,0,0,0,0,,,,,,4,0,4
+1320204,2022,Bhutan,2,Y Choden,6f17c546,Maria Jasvi,4bed6af7,N Choden,a904600a,0,0,0,0,0,,,,,,2,0,2
+1320204,2022,Bhutan,2,Y Choden,6f17c546,Maria Jasvi,4bed6af7,N Choden,a904600a,0,0,0,0,0,,,,,,4,0,4
+1320204,2022,Bhutan,2,Y Choden,6f17c546,Maria Jasvi,4bed6af7,N Choden,a904600a,0,0,0,0,0,,,,,,0,0,0
+1320204,2022,Bhutan,2,Y Choden,6f17c546,Maria Jasvi,4bed6af7,N Choden,a904600a,1,0,0,0,0,,,,,,0,1,1
+1320204,2022,Bhutan,2,Y Choden,6f17c546,Maria Jasvi,4bed6af7,N Choden,a904600a,0,0,0,0,0,,,,,,1,0,1
+1320204,2022,Bhutan,3,Y Choden,6f17c546,Mariamma Hyder,c8ae2573,N Choden,a904600a,0,0,0,0,0,,,,,,0,0,0
+1320204,2022,Bhutan,3,Y Choden,6f17c546,Mariamma Hyder,c8ae2573,N Choden,a904600a,0,0,0,0,0,,,,,,1,0,1
+1320204,2022,Bhutan,3,N Choden,a904600a,Mariamma Hyder,c8ae2573,Y Choden,6f17c546,0,0,0,0,0,,,,,,1,0,1
+1320204,2022,Bhutan,3,Y Choden,6f17c546,Mariamma Hyder,c8ae2573,N Choden,a904600a,0,0,0,0,0,,,,,,0,0,0
+1320204,2022,Bhutan,3,Y Choden,6f17c546,Mariamma Hyder,c8ae2573,N Choden,a904600a,0,0,0,0,0,,,,,,2,0,2
+1320204,2022,Bhutan,3,Y Choden,6f17c546,Mariamma Hyder,c8ae2573,N Choden,a904600a,0,0,0,0,0,,,,,,1,0,1
+1320204,2022,Bhutan,4,Y Choden,6f17c546,Maryam Omar,b4d08794,N Choden,a904600a,0,0,0,0,1,Y Choden,6f17c546,,,bowled,0,0,0
+1320204,2022,Bhutan,4,D Wangmo,760fcf65,Maryam Omar,b4d08794,N Choden,a904600a,0,0,0,0,0,,,,,,4,0,4
+1320204,2022,Bhutan,4,D Wangmo,760fcf65,Maryam Omar,b4d08794,N Choden,a904600a,0,0,0,0,0,,,,,,1,0,1
+1320204,2022,Bhutan,4,N Choden,a904600a,Maryam Omar,b4d08794,D Wangmo,760fcf65,0,0,0,0,0,,,,,,4,0,4
+1320204,2022,Bhutan,4,N Choden,a904600a,Maryam Omar,b4d08794,D Wangmo,760fcf65,0,0,0,0,0,,,,,,1,0,1
+1320204,2022,Bhutan,4,D Wangmo,760fcf65,Maryam Omar,b4d08794,N Choden,a904600a,0,0,0,0,0,,,,,,0,0,0
+1320204,2022,Bhutan,5,N Choden,a904600a,Mariamma Hyder,c8ae2573,D Wangmo,760fcf65,0,0,0,0,0,,,,,,0,0,0
+1320204,2022,Bhutan,5,N Choden,a904600a,Mariamma Hyder,c8ae2573,D Wangmo,760fcf65,0,0,0,0,0,,,,,,0,0,0
+1320204,2022,Bhutan,5,N Choden,a904600a,Mariamma Hyder,c8ae2573,D Wangmo,760fcf65,0,0,0,0,0,,,,,,0,0,0
+1320204,2022,Bhutan,5,N Choden,a904600a,Mariamma Hyder,c8ae2573,D Wangmo,760fcf65,0,0,0,0,0,,,,,,0,0,0
+1320204,2022,Bhutan,5,N Choden,a904600a,Mariamma Hyder,c8ae2573,D Wangmo,760fcf65,0,0,0,0,0,,,,,,1,0,1
+1320204,2022,Bhutan,5,D Wangmo,760fcf65,Mariamma Hyder,c8ae2573,N Choden,a904600a,0,0,0,0,0,,,,,,0,0,0
+1320204,2022,Bhutan,6,N Choden,a904600a,Maryam Omar,b4d08794,D Wangmo,760fcf65,0,0,0,0,0,,,,,,0,0,0
+1320204,2022,Bhutan,6,N Choden,a904600a,Maryam Omar,b4d08794,D Wangmo,760fcf65,0,0,0,0,0,,,,,,1,0,1
+1320204,2022,Bhutan,6,D Wangmo,760fcf65,Maryam Omar,b4d08794,N Choden,a904600a,0,0,0,0,0,,,,,,0,0,0
+1320204,2022,Bhutan,6,D Wangmo,760fcf65,Maryam Omar,b4d08794,N Choden,a904600a,0,0,0,0,0,,,,,,0,0,0
+1320204,2022,Bhutan,6,D Wangmo,760fcf65,Maryam Omar,b4d08794,N Choden,a904600a,0,0,0,0,0,,,,,,1,0,1
+1320204,2022,Bhutan,6,N Choden,a904600a,Maryam Omar,b4d08794,D Wangmo,760fcf65,0,0,0,0,0,,,,,,0,0,0
+1320204,2022,Bhutan,7,D Wangmo,760fcf65,Khadija Khalil,7c61a686,N Choden,a904600a,1,0,0,0,0,,,,,,0,1,1
+1320204,2022,Bhutan,7,D Wangmo,760fcf65,Khadija Khalil,7c61a686,N Choden,a904600a,0,0,0,0,0,,,,,,0,0,0
+1320204,2022,Bhutan,7,D Wangmo,760fcf65,Khadija Khalil,7c61a686,N Choden,a904600a,0,0,0,0,0,,,,,,1,0,1
+1320204,2022,Bhutan,7,N Choden,a904600a,Khadija Khalil,7c61a686,D Wangmo,760fcf65,0,0,0,0,0,,,,,,0,0,0
+1320204,2022,Bhutan,7,N Choden,a904600a,Khadija Khalil,7c61a686,D Wangmo,760fcf65,0,0,0,0,0,,,,,,3,0,3
+1320204,2022,Bhutan,7,D Wangmo,760fcf65,Khadija Khalil,7c61a686,N Choden,a904600a,1,0,0,0,0,,,,,,0,1,1
+1320204,2022,Bhutan,7,D Wangmo,760fcf65,Khadija Khalil,7c61a686,N Choden,a904600a,0,0,0,0,0,,,,,,1,0,1
+1320204,2022,Bhutan,7,N Choden,a904600a,Khadija Khalil,7c61a686,D Wangmo,760fcf65,0,0,0,0,0,,,,,,0,0,0
+1320204,2022,Bhutan,8,D Wangmo,760fcf65,Maryam Omar,b4d08794,N Choden,a904600a,0,0,0,0,0,,,,,,1,0,1
+1320204,2022,Bhutan,8,N Choden,a904600a,Maryam Omar,b4d08794,D Wangmo,760fcf65,0,0,0,0,0,,,,,,0,0,0
+1320204,2022,Bhutan,8,N Choden,a904600a,Maryam Omar,b4d08794,D Wangmo,760fcf65,0,0,0,0,0,,,,,,1,0,1
+1320204,2022,Bhutan,8,D Wangmo,760fcf65,Maryam Omar,b4d08794,N Choden,a904600a,0,0,0,0,0,,,,,,0,0,0
+1320204,2022,Bhutan,8,D Wangmo,760fcf65,Maryam Omar,b4d08794,N Choden,a904600a,0,0,1,0,0,,,,,,0,1,1
+1320204,2022,Bhutan,8,N Choden,a904600a,Maryam Omar,b4d08794,D Wangmo,760fcf65,1,0,0,0,0,,,,,,0,1,1
+1320204,2022,Bhutan,8,N Choden,a904600a,Maryam Omar,b4d08794,D Wangmo,760fcf65,0,0,0,0,0,,,,,,2,0,2
+1320204,2022,Bhutan,9,D Wangmo,760fcf65,Priyada Murali,f4b942ae,N Choden,a904600a,1,0,0,0,0,,,,,,0,1,1
+1320204,2022,Bhutan,9,D Wangmo,760fcf65,Priyada Murali,f4b942ae,N Choden,a904600a,0,0,0,0,0,,,,,,0,0,0
+1320204,2022,Bhutan,9,D Wangmo,760fcf65,Priyada Murali,f4b942ae,N Choden,a904600a,0,0,0,0,0,,,,,,0,0,0
+1320204,2022,Bhutan,9,D Wangmo,760fcf65,Priyada Murali,f4b942ae,N Choden,a904600a,0,0,0,0,0,,,,,,4,0,4
+1320204,2022,Bhutan,9,D Wangmo,760fcf65,Priyada Murali,f4b942ae,N Choden,a904600a,0,0,0,0,0,,,,,,1,0,1
+1320204,2022,Bhutan,9,N Choden,a904600a,Priyada Murali,f4b942ae,D Wangmo,760fcf65,0,0,0,0,0,,,,,,0,0,0
+1320204,2022,Bhutan,9,N Choden,a904600a,Priyada Murali,f4b942ae,D Wangmo,760fcf65,0,0,0,0,0,,,,,,0,0,0
+1320204,2022,Bhutan,10,D Wangmo,760fcf65,Maryam Omar,b4d08794,N Choden,a904600a,0,0,0,0,0,,,,,,1,0,1
+1320204,2022,Bhutan,10,N Choden,a904600a,Maryam Omar,b4d08794,D Wangmo,760fcf65,0,0,0,1,0,,,,,,0,1,1
+1320204,2022,Bhutan,10,D Wangmo,760fcf65,Maryam Omar,b4d08794,N Choden,a904600a,0,0,0,0,0,,,,,,1,0,1
+1320204,2022,Bhutan,10,N Choden,a904600a,Maryam Omar,b4d08794,D Wangmo,760fcf65,0,0,0,0,0,,,,,,0,0,0
+1320204,2022,Bhutan,10,N Choden,a904600a,Maryam Omar,b4d08794,D Wangmo,760fcf65,0,0,0,0,0,,,,,,1,0,1
+1320204,2022,Bhutan,10,D Wangmo,760fcf65,Maryam Omar,b4d08794,N Choden,a904600a,0,0,0,0,0,,,,,,0,0,0
+1320204,2022,Bhutan,11,N Choden,a904600a,Priyada Murali,f4b942ae,D Wangmo,760fcf65,0,0,0,0,0,,,,,,2,0,2
+1320204,2022,Bhutan,11,N Choden,a904600a,Priyada Murali,f4b942ae,D Wangmo,760fcf65,0,0,0,0,0,,,,,,4,0,4
+1320204,2022,Bhutan,11,N Choden,a904600a,Priyada Murali,f4b942ae,D Wangmo,760fcf65,0,0,0,0,0,,,,,,4,0,4
+1320204,2022,Bhutan,11,N Choden,a904600a,Priyada Murali,f4b942ae,D Wangmo,760fcf65,0,0,0,0,0,,,,,,1,0,1
+1320204,2022,Bhutan,11,D Wangmo,760fcf65,Priyada Murali,f4b942ae,N Choden,a904600a,1,0,0,0,0,,,,,,0,1,1
+1320204,2022,Bhutan,11,D Wangmo,760fcf65,Priyada Murali,f4b942ae,N Choden,a904600a,0,0,0,0,0,,,,,,0,0,0
+1320204,2022,Bhutan,11,D Wangmo,760fcf65,Priyada Murali,f4b942ae,N Choden,a904600a,0,0,0,0,0,,,,,,1,0,1
+1320204,2022,Bhutan,12,D Wangmo,760fcf65,Amna Tariq,44b53fba,N Choden,a904600a,0,0,0,0,0,,,,,,0,0,0
+1320204,2022,Bhutan,12,D Wangmo,760fcf65,Amna Tariq,44b53fba,N Choden,a904600a,0,0,0,0,0,,,,,,0,0,0
+1320204,2022,Bhutan,12,D Wangmo,760fcf65,Amna Tariq,44b53fba,N Choden,a904600a,0,0,0,0,0,,,,,,1,0,1
+1320204,2022,Bhutan,12,N Choden,a904600a,Amna Tariq,44b53fba,D Wangmo,760fcf65,0,0,0,0,1,N Choden,a904600a,,,lbw,0,0,0
+1320204,2022,Bhutan,12,T Zangmo,b1f21c0f,Amna Tariq,44b53fba,D Wangmo,760fcf65,0,0,0,0,0,,,,,,1,0,1
+1320204,2022,Bhutan,12,D Wangmo,760fcf65,Amna Tariq,44b53fba,T Zangmo,b1f21c0f,0,0,0,0,0,,,,,,0,0,0
+1320204,2022,Bhutan,13,T Zangmo,b1f21c0f,Priyada Murali,f4b942ae,D Wangmo,760fcf65,0,0,0,0,0,,,,,,0,0,0
+1320204,2022,Bhutan,13,T Zangmo,b1f21c0f,Priyada Murali,f4b942ae,D Wangmo,760fcf65,0,0,0,0,0,,,,,,0,0,0
+1320204,2022,Bhutan,13,T Zangmo,b1f21c0f,Priyada Murali,f4b942ae,D Wangmo,760fcf65,0,0,0,0,0,,,,,,1,0,1
+1320204,2022,Bhutan,13,D Wangmo,760fcf65,Priyada Murali,f4b942ae,T Zangmo,b1f21c0f,0,0,0,0,0,,,,,,1,0,1
+1320204,2022,Bhutan,13,T Zangmo,b1f21c0f,Priyada Murali,f4b942ae,D Wangmo,760fcf65,0,0,0,0,0,,,,,,0,0,0
+1320204,2022,Bhutan,13,T Zangmo,b1f21c0f,Priyada Murali,f4b942ae,D Wangmo,760fcf65,0,0,0,0,0,,,,,,0,0,0
+1320204,2022,Bhutan,14,D Wangmo,760fcf65,Amna Tariq,44b53fba,T Zangmo,b1f21c0f,0,0,0,0,0,,,,,,2,0,2
+1320204,2022,Bhutan,14,D Wangmo,760fcf65,Amna Tariq,44b53fba,T Zangmo,b1f21c0f,0,0,0,0,1,D Wangmo,760fcf65,Zeefa Jilani,3f2b40f0,run out,0,0,0
+1320204,2022,Bhutan,14,T Zangmo,b1f21c0f,Amna Tariq,44b53fba,S Choden,e1e0775d,0,0,0,0,0,,,,,,1,0,1
+1320204,2022,Bhutan,14,S Choden,e1e0775d,Amna Tariq,44b53fba,T Zangmo,b1f21c0f,0,0,0,0,0,,,,,,0,0,0
+1320204,2022,Bhutan,14,S Choden,e1e0775d,Amna Tariq,44b53fba,T Zangmo,b1f21c0f,0,0,0,0,0,,,,,,1,0,1
+1320204,2022,Bhutan,14,T Zangmo,b1f21c0f,Amna Tariq,44b53fba,S Choden,e1e0775d,0,0,0,0,0,,,,,,4,0,4
+1320204,2022,Bhutan,15,S Choden,e1e0775d,Priyada Murali,f4b942ae,T Zangmo,b1f21c0f,0,0,0,0,1,S Choden,e1e0775d,Maryyam Ashraf,1b9d3eb3,caught,0,0,0
+1320204,2022,Bhutan,15,T Zangmo,b1f21c0f,Priyada Murali,f4b942ae,P Seldon,c5dd13c3,0,0,0,0,0,,,,,,2,0,2
+1320204,2022,Bhutan,15,T Zangmo,b1f21c0f,Priyada Murali,f4b942ae,P Seldon,c5dd13c3,0,0,0,0,1,T Zangmo,b1f21c0f,Maryam Omar,b4d08794,caught,0,0,0
+1320204,2022,Bhutan,15,P Seldon,c5dd13c3,Priyada Murali,f4b942ae,K Dema,0b211a32,0,0,0,0,0,,,,,,1,0,1
+1320204,2022,Bhutan,15,K Dema,0b211a32,Priyada Murali,f4b942ae,P Seldon,c5dd13c3,0,0,0,0,0,,,,,,1,0,1
+1320204,2022,Bhutan,15,P Seldon,c5dd13c3,Priyada Murali,f4b942ae,K Dema,0b211a32,0,0,0,0,0,,,,,,1,0,1
+1320204,2022,Bhutan,16,P Seldon,c5dd13c3,Amna Tariq,44b53fba,K Dema,0b211a32,0,0,0,0,0,,,,,,0,0,0
+1320204,2022,Bhutan,16,P Seldon,c5dd13c3,Amna Tariq,44b53fba,K Dema,0b211a32,0,0,0,0,0,,,,,,1,0,1
+1320204,2022,Bhutan,16,K Dema,0b211a32,Amna Tariq,44b53fba,P Seldon,c5dd13c3,0,0,0,0,0,,,,,,2,0,2
+1320204,2022,Bhutan,16,K Dema,0b211a32,Amna Tariq,44b53fba,P Seldon,c5dd13c3,0,0,0,0,0,,,,,,1,0,1
+1320204,2022,Bhutan,16,P Seldon,c5dd13c3,Amna Tariq,44b53fba,K Dema,0b211a32,0,0,0,0,0,,,,,,1,0,1
+1320204,2022,Bhutan,16,K Dema,0b211a32,Amna Tariq,44b53fba,P Seldon,c5dd13c3,0,0,0,0,0,,,,,,0,0,0
+1320204,2022,Bhutan,17,P Seldon,c5dd13c3,Mariamma Hyder,c8ae2573,K Dema,0b211a32,0,0,0,0,0,,,,,,1,0,1
+1320204,2022,Bhutan,17,K Dema,0b211a32,Mariamma Hyder,c8ae2573,P Seldon,c5dd13c3,0,0,0,0,0,,,,,,1,0,1
+1320204,2022,Bhutan,17,P Seldon,c5dd13c3,Mariamma Hyder,c8ae2573,K Dema,0b211a32,0,0,0,0,0,,,,,,0,0,0
+1320204,2022,Bhutan,17,P Seldon,c5dd13c3,Mariamma Hyder,c8ae2573,K Dema,0b211a32,0,0,0,0,0,,,,,,1,0,1
+1320204,2022,Bhutan,17,K Dema,0b211a32,Mariamma Hyder,c8ae2573,P Seldon,c5dd13c3,0,0,0,0,0,,,,,,1,0,1
+1320204,2022,Bhutan,17,P Seldon,c5dd13c3,Mariamma Hyder,c8ae2573,K Dema,0b211a32,0,0,0,0,1,P Seldon,c5dd13c3,,,bowled,0,0,0
+1320204,2022,Bhutan,18,K Dema,0b211a32,Amna Tariq,44b53fba,Sonam,09cbca15,0,0,0,0,0,,,,,,2,0,2
+1320204,2022,Bhutan,18,K Dema,0b211a32,Amna Tariq,44b53fba,Sonam,09cbca15,0,0,0,0,0,,,,,,2,0,2
+1320204,2022,Bhutan,18,K Dema,0b211a32,Amna Tariq,44b53fba,Sonam,09cbca15,0,0,0,0,1,K Dema,0b211a32,Mariamma Hyder,c8ae2573,caught,0,0,0
+1320204,2022,Bhutan,18,Sonam,09cbca15,Amna Tariq,44b53fba,A Gurung,10854c82,0,0,0,0,0,,,,,,0,0,0
+1320204,2022,Bhutan,18,Sonam,09cbca15,Amna Tariq,44b53fba,A Gurung,10854c82,0,0,0,1,0,,,,,,0,1,1
+1320204,2022,Bhutan,18,A Gurung,10854c82,Amna Tariq,44b53fba,Sonam,09cbca15,0,0,0,0,1,Sonam,09cbca15,Priyada Murali,f4b942ae,run out,1,0,1
+1320204,2022,Bhutan,19,Sangay Wangmo,dbfa8b20,Maria Jasvi,4bed6af7,A Gurung,10854c82,0,0,0,0,0,,,,,,1,0,1
+1320204,2022,Bhutan,19,A Gurung,10854c82,Maria Jasvi,4bed6af7,Sangay Wangmo,dbfa8b20,0,0,0,0,0,,,,,,1,0,1
+1320204,2022,Bhutan,19,Sangay Wangmo,dbfa8b20,Maria Jasvi,4bed6af7,A Gurung,10854c82,0,0,0,0,1,Sangay Wangmo,dbfa8b20,,,bowled,0,0,0
+1320204,2022,Bhutan,19,T Cheki,f037f4d8,Maria Jasvi,4bed6af7,A Gurung,10854c82,2,0,0,0,1,T Cheki,f037f4d8,Maryam Omar,b4d08794,run out,0,2,2
+1320204,2022,Kuwait,0,Maryam Omar,b4d08794,A Gurung,10854c82,Priyada Murali,f4b942ae,0,0,0,0,0,,,,,,0,0,0
+1320204,2022,Kuwait,0,Maryam Omar,b4d08794,A Gurung,10854c82,Priyada Murali,f4b942ae,0,0,0,0,0,,,,,,0,0,0
+1320204,2022,Kuwait,0,Maryam Omar,b4d08794,A Gurung,10854c82,Priyada Murali,f4b942ae,0,0,0,0,0,,,,,,0,0,0
+1320204,2022,Kuwait,0,Maryam Omar,b4d08794,A Gurung,10854c82,Priyada Murali,f4b942ae,0,0,0,0,0,,,,,,1,0,1
+1320204,2022,Kuwait,0,Priyada Murali,f4b942ae,A Gurung,10854c82,Maryam Omar,b4d08794,0,0,0,0,0,,,,,,4,0,4
+1320204,2022,Kuwait,0,Priyada Murali,f4b942ae,A Gurung,10854c82,Maryam Omar,b4d08794,0,0,0,0,0,,,,,,4,0,4
+1320204,2022,Kuwait,1,Maryam Omar,b4d08794,Sonam,09cbca15,Priyada Murali,f4b942ae,1,0,0,0,0,,,,,,0,1,1
+1320204,2022,Kuwait,1,Maryam Omar,b4d08794,Sonam,09cbca15,Priyada Murali,f4b942ae,1,0,0,0,0,,,,,,0,1,1
+1320204,2022,Kuwait,1,Maryam Omar,b4d08794,Sonam,09cbca15,Priyada Murali,f4b942ae,0,0,0,0,0,,,,,,0,0,0
+1320204,2022,Kuwait,1,Maryam Omar,b4d08794,Sonam,09cbca15,Priyada Murali,f4b942ae,1,0,0,0,0,,,,,,0,1,1
+1320204,2022,Kuwait,1,Maryam Omar,b4d08794,Sonam,09cbca15,Priyada Murali,f4b942ae,0,0,0,0,0,,,,,,0,0,0
+1320204,2022,Kuwait,1,Maryam Omar,b4d08794,Sonam,09cbca15,Priyada Murali,f4b942ae,0,0,0,0,0,,,,,,0,0,0
+1320204,2022,Kuwait,1,Maryam Omar,b4d08794,Sonam,09cbca15,Priyada Murali,f4b942ae,0,0,0,0,0,,,,,,1,0,1
+1320204,2022,Kuwait,1,Priyada Murali,f4b942ae,Sonam,09cbca15,Maryam Omar,b4d08794,0,0,0,0,0,,,,,,1,0,1
+1320204,2022,Kuwait,1,Maryam Omar,b4d08794,Sonam,09cbca15,Priyada Murali,f4b942ae,0,0,0,0,0,,,,,,0,0,0
+1320204,2022,Kuwait,2,Priyada Murali,f4b942ae,A Gurung,10854c82,Maryam Omar,b4d08794,0,0,0,0,0,,,,,,1,0,1
+1320204,2022,Kuwait,2,Maryam Omar,b4d08794,A Gurung,10854c82,Priyada Murali,f4b942ae,0,0,0,0,0,,,,,,1,0,1
+1320204,2022,Kuwait,2,Priyada Murali,f4b942ae,A Gurung,10854c82,Maryam Omar,b4d08794,0,0,0,0,0,,,,,,1,0,1
+1320204,2022,Kuwait,2,Maryam Omar,b4d08794,A Gurung,10854c82,Priyada Murali,f4b942ae,0,0,0,0,0,,,,,,0,0,0
+1320204,2022,Kuwait,2,Maryam Omar,b4d08794,A Gurung,10854c82,Priyada Murali,f4b942ae,0,0,0,0,0,,,,,,0,0,0
+1320204,2022,Kuwait,2,Maryam Omar,b4d08794,A Gurung,10854c82,Priyada Murali,f4b942ae,0,0,0,0,0,,,,,,0,0,0
+1320204,2022,Kuwait,3,Priyada Murali,f4b942ae,Sonam,09cbca15,Maryam Omar,b4d08794,0,0,0,0,0,,,,,,0,0,0
+1320204,2022,Kuwait,3,Priyada Murali,f4b942ae,Sonam,09cbca15,Maryam Omar,b4d08794,1,0,0,0,0,,,,,,0,1,1
+1320204,2022,Kuwait,3,Priyada Murali,f4b942ae,Sonam,09cbca15,Maryam Omar,b4d08794,0,0,0,0,0,,,,,,1,0,1
+1320204,2022,Kuwait,3,Maryam Omar,b4d08794,Sonam,09cbca15,Priyada Murali,f4b942ae,0,0,0,0,0,,,,,,1,0,1
+1320204,2022,Kuwait,3,Priyada Murali,f4b942ae,Sonam,09cbca15,Maryam Omar,b4d08794,0,0,0,0,0,,,,,,0,0,0
+1320204,2022,Kuwait,3,Priyada Murali,f4b942ae,Sonam,09cbca15,Maryam Omar,b4d08794,0,0,0,0,1,Priyada Murali,f4b942ae,P Seldon,c5dd13c3,caught,0,0,0
+1320204,2022,Kuwait,3,Zeefa Jilani,3f2b40f0,Sonam,09cbca15,Maryam Omar,b4d08794,0,0,0,0,0,,,,,,0,0,0
+1320204,2022,Kuwait,4,Maryam Omar,b4d08794,T Zangmo,b1f21c0f,Zeefa Jilani,3f2b40f0,0,0,0,0,0,,,,,,0,0,0
+1320204,2022,Kuwait,4,Maryam Omar,b4d08794,T Zangmo,b1f21c0f,Zeefa Jilani,3f2b40f0,0,0,0,0,0,,,,,,0,0,0
+1320204,2022,Kuwait,4,Maryam Omar,b4d08794,T Zangmo,b1f21c0f,Zeefa Jilani,3f2b40f0,0,0,0,0,0,,,,,,0,0,0
+1320204,2022,Kuwait,4,Maryam Omar,b4d08794,T Zangmo,b1f21c0f,Zeefa Jilani,3f2b40f0,0,0,0,0,0,,,,,,1,0,1
+1320204,2022,Kuwait,4,Zeefa Jilani,3f2b40f0,T Zangmo,b1f21c0f,Maryam Omar,b4d08794,0,0,0,0,0,,,,,,0,0,0
+1320204,2022,Kuwait,4,Zeefa Jilani,3f2b40f0,T Zangmo,b1f21c0f,Maryam Omar,b4d08794,0,0,0,0,0,,,,,,0,0,0
+1320204,2022,Kuwait,5,Maryam Omar,b4d08794,D Wangmo,760fcf65,Zeefa Jilani,3f2b40f0,0,0,0,0,0,,,,,,0,0,0
+1320204,2022,Kuwait,5,Maryam Omar,b4d08794,D Wangmo,760fcf65,Zeefa Jilani,3f2b40f0,0,0,0,0,0,,,,,,0,0,0
+1320204,2022,Kuwait,5,Maryam Omar,b4d08794,D Wangmo,760fcf65,Zeefa Jilani,3f2b40f0,0,0,0,0,0,,,,,,1,0,1
+1320204,2022,Kuwait,5,Zeefa Jilani,3f2b40f0,D Wangmo,760fcf65,Maryam Omar,b4d08794,0,0,0,0,0,,,,,,0,0,0
+1320204,2022,Kuwait,5,Zeefa Jilani,3f2b40f0,D Wangmo,760fcf65,Maryam Omar,b4d08794,0,0,0,0,0,,,,,,1,0,1
+1320204,2022,Kuwait,5,Maryam Omar,b4d08794,D Wangmo,760fcf65,Zeefa Jilani,3f2b40f0,0,0,0,0,0,,,,,,0,0,0
+1320204,2022,Kuwait,6,Zeefa Jilani,3f2b40f0,T Zangmo,b1f21c0f,Maryam Omar,b4d08794,0,0,0,0,1,Zeefa Jilani,3f2b40f0,,,bowled,0,0,0
+1320204,2022,Kuwait,6,Khadija Khalil,7c61a686,T Zangmo,b1f21c0f,Maryam Omar,b4d08794,0,0,0,0,0,,,,,,2,0,2
+1320204,2022,Kuwait,6,Khadija Khalil,7c61a686,T Zangmo,b1f21c0f,Maryam Omar,b4d08794,0,0,0,0,0,,,,,,0,0,0
+1320204,2022,Kuwait,6,Khadija Khalil,7c61a686,T Zangmo,b1f21c0f,Maryam Omar,b4d08794,0,0,0,0,0,,,,,,1,0,1
+1320204,2022,Kuwait,6,Maryam Omar,b4d08794,T Zangmo,b1f21c0f,Khadija Khalil,7c61a686,0,0,0,0,0,,,,,,0,0,0
+1320204,2022,Kuwait,6,Maryam Omar,b4d08794,T Zangmo,b1f21c0f,Khadija Khalil,7c61a686,0,0,0,0,0,,,,,,1,0,1
+1320204,2022,Kuwait,7,Maryam Omar,b4d08794,D Wangmo,760fcf65,Khadija Khalil,7c61a686,0,0,0,0,0,,,,,,0,0,0
+1320204,2022,Kuwait,7,Maryam Omar,b4d08794,D Wangmo,760fcf65,Khadija Khalil,7c61a686,0,0,0,0,0,,,,,,1,0,1
+1320204,2022,Kuwait,7,Khadija Khalil,7c61a686,D Wangmo,760fcf65,Maryam Omar,b4d08794,0,0,0,0,0,,,,,,2,0,2
+1320204,2022,Kuwait,7,Khadija Khalil,7c61a686,D Wangmo,760fcf65,Maryam Omar,b4d08794,0,0,0,0,0,,,,,,1,0,1
+1320204,2022,Kuwait,7,Maryam Omar,b4d08794,D Wangmo,760fcf65,Khadija Khalil,7c61a686,0,0,0,0,0,,,,,,0,0,0
+1320204,2022,Kuwait,7,Maryam Omar,b4d08794,D Wangmo,760fcf65,Khadija Khalil,7c61a686,0,0,0,0,0,,,,,,0,0,0
+1320204,2022,Kuwait,8,Khadija Khalil,7c61a686,T Zangmo,b1f21c0f,Maryam Omar,b4d08794,0,0,0,0,0,,,,,,0,0,0
+1320204,2022,Kuwait,8,Khadija Khalil,7c61a686,T Zangmo,b1f21c0f,Maryam Omar,b4d08794,0,0,0,0,0,,,,,,0,0,0
+1320204,2022,Kuwait,8,Khadija Khalil,7c61a686,T Zangmo,b1f21c0f,Maryam Omar,b4d08794,0,0,0,0,0,,,,,,1,0,1
+1320204,2022,Kuwait,8,Maryam Omar,b4d08794,T Zangmo,b1f21c0f,Khadija Khalil,7c61a686,3,0,0,0,0,,,,,,0,3,3
+1320204,2022,Kuwait,8,Maryam Omar,b4d08794,T Zangmo,b1f21c0f,Khadija Khalil,7c61a686,0,0,0,0,0,,,,,,0,0,0
+1320204,2022,Kuwait,8,Maryam Omar,b4d08794,T Zangmo,b1f21c0f,Khadija Khalil,7c61a686,0,0,0,0,0,,,,,,1,0,1
+1320204,2022,Kuwait,8,Khadija Khalil,7c61a686,T Zangmo,b1f21c0f,Maryam Omar,b4d08794,0,0,0,0,0,,,,,,0,0,0
+1320204,2022,Kuwait,9,Maryam Omar,b4d08794,D Wangmo,760fcf65,Khadija Khalil,7c61a686,0,0,0,0,0,,,,,,4,0,4
+1320204,2022,Kuwait,9,Maryam Omar,b4d08794,D Wangmo,760fcf65,Khadija Khalil,7c61a686,0,0,0,0,0,,,,,,1,0,1
+1320204,2022,Kuwait,9,Khadija Khalil,7c61a686,D Wangmo,760fcf65,Maryam Omar,b4d08794,0,0,0,0,0,,,,,,2,0,2
+1320204,2022,Kuwait,9,Khadija Khalil,7c61a686,D Wangmo,760fcf65,Maryam Omar,b4d08794,0,0,0,0,0,,,,,,1,0,1
+1320204,2022,Kuwait,9,Maryam Omar,b4d08794,D Wangmo,760fcf65,Khadija Khalil,7c61a686,0,0,0,0,0,,,,,,1,0,1
+1320204,2022,Kuwait,9,Khadija Khalil,7c61a686,D Wangmo,760fcf65,Maryam Omar,b4d08794,3,0,0,0,0,,,,,,0,3,3
+1320204,2022,Kuwait,9,Khadija Khalil,7c61a686,D Wangmo,760fcf65,Maryam Omar,b4d08794,0,0,0,0,0,,,,,,1,0,1
+1320204,2022,Kuwait,10,Khadija Khalil,7c61a686,T Zangmo,b1f21c0f,Maryam Omar,b4d08794,0,0,0,0,0,,,,,,0,0,0
+1320204,2022,Kuwait,10,Khadija Khalil,7c61a686,T Zangmo,b1f21c0f,Maryam Omar,b4d08794,0,0,0,0,0,,,,,,1,0,1
+1320204,2022,Kuwait,10,Maryam Omar,b4d08794,T Zangmo,b1f21c0f,Khadija Khalil,7c61a686,0,0,0,0,0,,,,,,2,0,2
+1320204,2022,Kuwait,10,Maryam Omar,b4d08794,T Zangmo,b1f21c0f,Khadija Khalil,7c61a686,0,0,0,0,0,,,,,,4,0,4
+1320204,2022,Kuwait,10,Maryam Omar,b4d08794,T Zangmo,b1f21c0f,Khadija Khalil,7c61a686,0,0,0,0,0,,,,,,1,0,1
+1320204,2022,Kuwait,10,Khadija Khalil,7c61a686,T Zangmo,b1f21c0f,Maryam Omar,b4d08794,0,0,0,0,0,,,,,,1,0,1
+1320204,2022,Kuwait,11,Khadija Khalil,7c61a686,D Wangmo,760fcf65,Maryam Omar,b4d08794,0,0,0,0,0,,,,,,1,0,1
+1320204,2022,Kuwait,11,Maryam Omar,b4d08794,D Wangmo,760fcf65,Khadija Khalil,7c61a686,0,0,0,0,0,,,,,,4,0,4
+1320204,2022,Kuwait,11,Maryam Omar,b4d08794,D Wangmo,760fcf65,Khadija Khalil,7c61a686,0,0,0,0,0,,,,,,1,0,1
+1320204,2022,Kuwait,11,Khadija Khalil,7c61a686,D Wangmo,760fcf65,Maryam Omar,b4d08794,0,0,0,0,1,Khadija Khalil,7c61a686,,,lbw,0,0,0
+1320204,2022,Kuwait,11,SL Gomez,02264be0,D Wangmo,760fcf65,Maryam Omar,b4d08794,0,0,0,0,0,,,,,,1,0,1
+1320204,2022,Kuwait,11,Maryam Omar,b4d08794,D Wangmo,760fcf65,SL Gomez,02264be0,0,0,0,0,0,,,,,,2,0,2
+1320204,2022,Kuwait,12,SL Gomez,02264be0,T Cheki,f037f4d8,Maryam Omar,b4d08794,0,0,0,0,0,,,,,,1,0,1
+1320204,2022,Kuwait,12,Maryam Omar,b4d08794,T Cheki,f037f4d8,SL Gomez,02264be0,1,0,0,0,0,,,,,,0,1,1
+1320204,2022,Kuwait,12,Maryam Omar,b4d08794,T Cheki,f037f4d8,SL Gomez,02264be0,0,0,0,0,0,,,,,,4,0,4
+1320204,2022,Kuwait,12,Maryam Omar,b4d08794,T Cheki,f037f4d8,SL Gomez,02264be0,0,0,0,0,0,,,,,,1,0,1
+1320204,2022,Kuwait,12,SL Gomez,02264be0,T Cheki,f037f4d8,Maryam Omar,b4d08794,0,0,0,0,0,,,,,,1,0,1
+1320204,2022,Kuwait,12,Maryam Omar,b4d08794,T Cheki,f037f4d8,SL Gomez,02264be0,0,0,0,0,0,,,,,,2,0,2
+1320204,2022,Kuwait,12,Maryam Omar,b4d08794,T Cheki,f037f4d8,SL Gomez,02264be0,0,0,0,0,0,,,,,,1,0,1
+1320204,2022,Kuwait,13,Maryam Omar,b4d08794,Sonam,09cbca15,SL Gomez,02264be0,1,0,0,0,0,,,,,,0,1,1
+1320204,2022,Kuwait,13,Maryam Omar,b4d08794,Sonam,09cbca15,SL Gomez,02264be0,0,0,0,0,0,,,,,,0,0,0
+1320204,2022,Kuwait,13,Maryam Omar,b4d08794,Sonam,09cbca15,SL Gomez,02264be0,1,0,0,0,0,,,,,,0,1,1
+1320204,2022,Kuwait,13,Maryam Omar,b4d08794,Sonam,09cbca15,SL Gomez,02264be0,0,0,0,0,0,,,,,,2,0,2
+1320204,2022,Kuwait,13,Maryam Omar,b4d08794,Sonam,09cbca15,SL Gomez,02264be0,0,0,0,0,0,,,,,,2,0,2
+1320204,2022,Kuwait,13,Maryam Omar,b4d08794,Sonam,09cbca15,SL Gomez,02264be0,0,0,0,0,0,,,,,,0,0,0
+1320204,2022,Kuwait,13,Maryam Omar,b4d08794,Sonam,09cbca15,SL Gomez,02264be0,0,0,0,0,0,,,,,,1,0,1
+1320204,2022,Kuwait,13,SL Gomez,02264be0,Sonam,09cbca15,Maryam Omar,b4d08794,0,0,0,0,0,,,,,,1,0,1
+1320204,2022,Kuwait,14,SL Gomez,02264be0,A Gurung,10854c82,Maryam Omar,b4d08794,0,0,0,0,0,,,,,,0,0,0
+1320204,2022,Kuwait,14,SL Gomez,02264be0,A Gurung,10854c82,Maryam Omar,b4d08794,0,0,0,0,0,,,,,,0,0,0
+1320204,2022,Kuwait,14,SL Gomez,02264be0,A Gurung,10854c82,Maryam Omar,b4d08794,0,1,0,0,0,,,,,,0,1,1
+1320204,2022,Kuwait,14,SL Gomez,02264be0,A Gurung,10854c82,Maryam Omar,b4d08794,0,0,0,0,0,,,,,,1,0,1
+1320204,2022,Kuwait,14,Maryam Omar,b4d08794,A Gurung,10854c82,SL Gomez,02264be0,0,0,0,0,0,,,,,,1,0,1
+1320204,2022,Kuwait,14,SL Gomez,02264be0,A Gurung,10854c82,Maryam Omar,b4d08794,0,0,0,0,0,,,,,,0,0,0
+1320204,2022,Kuwait,14,SL Gomez,02264be0,A Gurung,10854c82,Maryam Omar,b4d08794,0,0,0,0,1,SL Gomez,02264be0,,,bowled,0,0,0
+1320204,2022,Kuwait,15,Maryam Omar,b4d08794,T Cheki,f037f4d8,Amna Tariq,44b53fba,0,0,0,0,0,,,,,,1,0,1
+1320204,2022,Kuwait,15,Amna Tariq,44b53fba,T Cheki,f037f4d8,Maryam Omar,b4d08794,0,0,0,0,0,,,,,,1,0,1
+1320204,2022,Kuwait,15,Maryam Omar,b4d08794,T Cheki,f037f4d8,Amna Tariq,44b53fba,0,0,0,0,0,,,,,,0,0,0
+1320204,2022,Kuwait,15,Maryam Omar,b4d08794,T Cheki,f037f4d8,Amna Tariq,44b53fba,0,0,0,0,0,,,,,,1,0,1
+1320204,2022,Kuwait,15,Amna Tariq,44b53fba,T Cheki,f037f4d8,Maryam Omar,b4d08794,0,0,0,0,1,Amna Tariq,44b53fba,A Gurung,10854c82,caught,0,0,0
+1320204,2022,Kuwait,15,Mariamma Hyder,c8ae2573,T Cheki,f037f4d8,Maryam Omar,b4d08794,0,0,0,0,0,,,,,,0,0,0
+1320204,2022,Kuwait,16,Maryam Omar,b4d08794,Sonam,09cbca15,Mariamma Hyder,c8ae2573,0,0,0,0,0,,,,,,1,0,1
+1320204,2022,Kuwait,16,Mariamma Hyder,c8ae2573,Sonam,09cbca15,Maryam Omar,b4d08794,0,0,0,0,1,Maryam Omar,b4d08794,T Zangmo,b1f21c0f,run out,1,0,1
+1320204,2022,Kuwait,16,Mariamma Hyder,c8ae2573,Sonam,09cbca15,Maria Jasvi,4bed6af7,0,0,0,0,0,,,,,,0,0,0
+1320204,2022,Kuwait,16,Mariamma Hyder,c8ae2573,Sonam,09cbca15,Maria Jasvi,4bed6af7,0,0,0,0,0,,,,,,0,0,0
+1320204,2022,Kuwait,16,Mariamma Hyder,c8ae2573,Sonam,09cbca15,Maria Jasvi,4bed6af7,0,0,0,0,0,,,,,,4,0,4
+1320204,2022,Kuwait,16,Mariamma Hyder,c8ae2573,Sonam,09cbca15,Maria Jasvi,4bed6af7,0,0,0,0,0,,,,,,1,0,1
+1320204,2022,Kuwait,17,Mariamma Hyder,c8ae2573,T Cheki,f037f4d8,Maria Jasvi,4bed6af7,0,0,0,0,0,,,,,,2,0,2
+1320204,2022,Kuwait,17,Mariamma Hyder,c8ae2573,T Cheki,f037f4d8,Maria Jasvi,4bed6af7,0,0,0,0,0,,,,,,0,0,0
+1320204,2022,Kuwait,17,Mariamma Hyder,c8ae2573,T Cheki,f037f4d8,Maria Jasvi,4bed6af7,0,0,0,0,0,,,,,,4,0,4
+1320204,2022,Kuwait,17,Mariamma Hyder,c8ae2573,T Cheki,f037f4d8,Maria Jasvi,4bed6af7,0,0,0,0,0,,,,,,1,0,1
+1320204,2022,Kuwait,17,Maria Jasvi,4bed6af7,T Cheki,f037f4d8,Mariamma Hyder,c8ae2573,0,0,0,0,0,,,,,,1,0,1
+1320204,2022,Kuwait,17,Mariamma Hyder,c8ae2573,T Cheki,f037f4d8,Maria Jasvi,4bed6af7,0,0,0,0,0,,,,,,2,0,2
+1320204,2022,Kuwait,18,Maria Jasvi,4bed6af7,A Gurung,10854c82,Mariamma Hyder,c8ae2573,0,0,0,0,1,Maria Jasvi,4bed6af7,,,lbw,0,0,0
+1320204,2022,Kuwait,18,B Shanti,f50ca46d,A Gurung,10854c82,Mariamma Hyder,c8ae2573,0,0,0,0,0,,,,,,0,0,0
+1320204,2022,Kuwait,18,B Shanti,f50ca46d,A Gurung,10854c82,Mariamma Hyder,c8ae2573,0,0,0,0,0,,,,,,0,0,0
+1320204,2022,Kuwait,18,B Shanti,f50ca46d,A Gurung,10854c82,Mariamma Hyder,c8ae2573,0,0,0,0,0,,,,,,0,0,0
+1320204,2022,Kuwait,18,B Shanti,f50ca46d,A Gurung,10854c82,Mariamma Hyder,c8ae2573,0,0,0,0,0,,,,,,1,0,1
+1320204,2022,Kuwait,18,Mariamma Hyder,c8ae2573,A Gurung,10854c82,B Shanti,f50ca46d,0,0,0,0,0,,,,,,6,0,6

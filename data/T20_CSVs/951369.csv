@@ -1,0 +1,231 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+951369,2015/16,New Zealand,0,MJ Guptill,2be41edb,DJ Willey,7f048519,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,4,0,4
+951369,2015/16,New Zealand,0,MJ Guptill,2be41edb,DJ Willey,7f048519,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,0,0,0
+951369,2015/16,New Zealand,0,MJ Guptill,2be41edb,DJ Willey,7f048519,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,1,0,1
+951369,2015/16,New Zealand,0,KS Williamson,d027ba9f,DJ Willey,7f048519,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,1,0,1
+951369,2015/16,New Zealand,0,MJ Guptill,2be41edb,DJ Willey,7f048519,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,4,0,4
+951369,2015/16,New Zealand,0,MJ Guptill,2be41edb,DJ Willey,7f048519,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,1,0,1
+951369,2015/16,New Zealand,1,MJ Guptill,2be41edb,CJ Jordan,ffe699c0,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,0,0,0
+951369,2015/16,New Zealand,1,MJ Guptill,2be41edb,CJ Jordan,ffe699c0,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,0,0,0
+951369,2015/16,New Zealand,1,MJ Guptill,2be41edb,CJ Jordan,ffe699c0,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,0,0,0
+951369,2015/16,New Zealand,1,MJ Guptill,2be41edb,CJ Jordan,ffe699c0,KS Williamson,d027ba9f,1,0,0,0,0,,,,,,0,1,1
+951369,2015/16,New Zealand,1,MJ Guptill,2be41edb,CJ Jordan,ffe699c0,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,0,0,0
+951369,2015/16,New Zealand,1,MJ Guptill,2be41edb,CJ Jordan,ffe699c0,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,4,0,4
+951369,2015/16,New Zealand,1,MJ Guptill,2be41edb,CJ Jordan,ffe699c0,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,1,0,1
+951369,2015/16,New Zealand,2,MJ Guptill,2be41edb,DJ Willey,7f048519,KS Williamson,d027ba9f,0,0,0,0,1,MJ Guptill,2be41edb,JC Buttler,99b75528,caught,0,0,0
+951369,2015/16,New Zealand,2,C Munro,af2c687b,DJ Willey,7f048519,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,1,0,1
+951369,2015/16,New Zealand,2,KS Williamson,d027ba9f,DJ Willey,7f048519,C Munro,af2c687b,0,0,0,0,0,,,,,,1,0,1
+951369,2015/16,New Zealand,2,C Munro,af2c687b,DJ Willey,7f048519,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,0,0,0
+951369,2015/16,New Zealand,2,C Munro,af2c687b,DJ Willey,7f048519,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,4,0,4
+951369,2015/16,New Zealand,2,C Munro,af2c687b,DJ Willey,7f048519,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,0,0,0
+951369,2015/16,New Zealand,3,KS Williamson,d027ba9f,LE Plunkett,9a963804,C Munro,af2c687b,0,0,0,0,0,,,,,,1,0,1
+951369,2015/16,New Zealand,3,C Munro,af2c687b,LE Plunkett,9a963804,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,1,0,1
+951369,2015/16,New Zealand,3,KS Williamson,d027ba9f,LE Plunkett,9a963804,C Munro,af2c687b,0,0,0,0,0,,,,,,0,0,0
+951369,2015/16,New Zealand,3,KS Williamson,d027ba9f,LE Plunkett,9a963804,C Munro,af2c687b,0,0,0,0,0,,,,,,4,0,4
+951369,2015/16,New Zealand,3,KS Williamson,d027ba9f,LE Plunkett,9a963804,C Munro,af2c687b,0,0,0,0,0,,,,,,0,0,0
+951369,2015/16,New Zealand,3,KS Williamson,d027ba9f,LE Plunkett,9a963804,C Munro,af2c687b,0,0,0,0,0,,,,,,2,0,2
+951369,2015/16,New Zealand,4,C Munro,af2c687b,CJ Jordan,ffe699c0,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,0,0,0
+951369,2015/16,New Zealand,4,C Munro,af2c687b,CJ Jordan,ffe699c0,KS Williamson,d027ba9f,0,0,1,0,0,,,,,,0,1,1
+951369,2015/16,New Zealand,4,KS Williamson,d027ba9f,CJ Jordan,ffe699c0,C Munro,af2c687b,1,0,0,0,0,,,,,,0,1,1
+951369,2015/16,New Zealand,4,KS Williamson,d027ba9f,CJ Jordan,ffe699c0,C Munro,af2c687b,0,0,0,0,0,,,,,,0,0,0
+951369,2015/16,New Zealand,4,KS Williamson,d027ba9f,CJ Jordan,ffe699c0,C Munro,af2c687b,0,0,0,0,0,,,,,,4,0,4
+951369,2015/16,New Zealand,4,KS Williamson,d027ba9f,CJ Jordan,ffe699c0,C Munro,af2c687b,0,0,0,0,0,,,,,,0,0,0
+951369,2015/16,New Zealand,4,KS Williamson,d027ba9f,CJ Jordan,ffe699c0,C Munro,af2c687b,0,0,0,0,0,,,,,,1,0,1
+951369,2015/16,New Zealand,5,KS Williamson,d027ba9f,LE Plunkett,9a963804,C Munro,af2c687b,0,0,0,0,0,,,,,,1,0,1
+951369,2015/16,New Zealand,5,C Munro,af2c687b,LE Plunkett,9a963804,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,4,0,4
+951369,2015/16,New Zealand,5,C Munro,af2c687b,LE Plunkett,9a963804,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,4,0,4
+951369,2015/16,New Zealand,5,C Munro,af2c687b,LE Plunkett,9a963804,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,4,0,4
+951369,2015/16,New Zealand,5,C Munro,af2c687b,LE Plunkett,9a963804,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,0,0,0
+951369,2015/16,New Zealand,5,C Munro,af2c687b,LE Plunkett,9a963804,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,0,0,0
+951369,2015/16,New Zealand,6,KS Williamson,d027ba9f,AU Rashid,249d60c9,C Munro,af2c687b,0,0,0,0,0,,,,,,0,0,0
+951369,2015/16,New Zealand,6,KS Williamson,d027ba9f,AU Rashid,249d60c9,C Munro,af2c687b,0,0,0,0,0,,,,,,1,0,1
+951369,2015/16,New Zealand,6,C Munro,af2c687b,AU Rashid,249d60c9,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,1,0,1
+951369,2015/16,New Zealand,6,KS Williamson,d027ba9f,AU Rashid,249d60c9,C Munro,af2c687b,0,0,0,0,0,,,,,,0,0,0
+951369,2015/16,New Zealand,6,KS Williamson,d027ba9f,AU Rashid,249d60c9,C Munro,af2c687b,1,0,0,0,0,,,,,,0,1,1
+951369,2015/16,New Zealand,6,KS Williamson,d027ba9f,AU Rashid,249d60c9,C Munro,af2c687b,0,0,0,0,0,,,,,,0,0,0
+951369,2015/16,New Zealand,6,KS Williamson,d027ba9f,AU Rashid,249d60c9,C Munro,af2c687b,0,0,0,0,0,,,,,,1,0,1
+951369,2015/16,New Zealand,7,KS Williamson,d027ba9f,BA Stokes,e087956b,C Munro,af2c687b,0,0,0,0,0,,,,,,1,0,1
+951369,2015/16,New Zealand,7,C Munro,af2c687b,BA Stokes,e087956b,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,1,0,1
+951369,2015/16,New Zealand,7,KS Williamson,d027ba9f,BA Stokes,e087956b,C Munro,af2c687b,0,0,0,0,0,,,,,,6,0,6
+951369,2015/16,New Zealand,7,KS Williamson,d027ba9f,BA Stokes,e087956b,C Munro,af2c687b,0,0,1,0,0,,,,,,0,1,1
+951369,2015/16,New Zealand,7,C Munro,af2c687b,BA Stokes,e087956b,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,1,0,1
+951369,2015/16,New Zealand,7,KS Williamson,d027ba9f,BA Stokes,e087956b,C Munro,af2c687b,0,0,0,0,0,,,,,,1,0,1
+951369,2015/16,New Zealand,8,KS Williamson,d027ba9f,AU Rashid,249d60c9,C Munro,af2c687b,0,0,0,0,0,,,,,,1,0,1
+951369,2015/16,New Zealand,8,C Munro,af2c687b,AU Rashid,249d60c9,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,6,0,6
+951369,2015/16,New Zealand,8,C Munro,af2c687b,AU Rashid,249d60c9,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,1,0,1
+951369,2015/16,New Zealand,8,KS Williamson,d027ba9f,AU Rashid,249d60c9,C Munro,af2c687b,0,0,0,0,0,,,,,,4,0,4
+951369,2015/16,New Zealand,8,KS Williamson,d027ba9f,AU Rashid,249d60c9,C Munro,af2c687b,0,0,0,0,0,,,,,,0,0,0
+951369,2015/16,New Zealand,8,KS Williamson,d027ba9f,AU Rashid,249d60c9,C Munro,af2c687b,0,0,0,0,0,,,,,,0,0,0
+951369,2015/16,New Zealand,9,C Munro,af2c687b,BA Stokes,e087956b,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,4,0,4
+951369,2015/16,New Zealand,9,C Munro,af2c687b,BA Stokes,e087956b,KS Williamson,d027ba9f,0,0,1,0,0,,,,,,0,1,1
+951369,2015/16,New Zealand,9,KS Williamson,d027ba9f,BA Stokes,e087956b,C Munro,af2c687b,0,0,0,0,0,,,,,,1,0,1
+951369,2015/16,New Zealand,9,C Munro,af2c687b,BA Stokes,e087956b,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,0,0,0
+951369,2015/16,New Zealand,9,C Munro,af2c687b,BA Stokes,e087956b,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,4,0,4
+951369,2015/16,New Zealand,9,C Munro,af2c687b,BA Stokes,e087956b,KS Williamson,d027ba9f,1,0,0,0,0,,,,,,0,1,1
+951369,2015/16,New Zealand,9,C Munro,af2c687b,BA Stokes,e087956b,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,0,0,0
+951369,2015/16,New Zealand,10,KS Williamson,d027ba9f,MM Ali,bb351c23,C Munro,af2c687b,0,0,0,0,0,,,,,,1,0,1
+951369,2015/16,New Zealand,10,C Munro,af2c687b,MM Ali,bb351c23,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,1,0,1
+951369,2015/16,New Zealand,10,KS Williamson,d027ba9f,MM Ali,bb351c23,C Munro,af2c687b,0,0,0,0,1,KS Williamson,d027ba9f,,,caught and bowled,0,0,0
+951369,2015/16,New Zealand,10,C Munro,af2c687b,MM Ali,bb351c23,CJ Anderson,8abdf100,0,0,0,0,0,,,,,,1,0,1
+951369,2015/16,New Zealand,10,CJ Anderson,8abdf100,MM Ali,bb351c23,C Munro,af2c687b,0,0,0,0,0,,,,,,0,0,0
+951369,2015/16,New Zealand,10,CJ Anderson,8abdf100,MM Ali,bb351c23,C Munro,af2c687b,0,0,0,0,0,,,,,,0,0,0
+951369,2015/16,New Zealand,11,C Munro,af2c687b,AU Rashid,249d60c9,CJ Anderson,8abdf100,0,0,0,0,0,,,,,,4,0,4
+951369,2015/16,New Zealand,11,C Munro,af2c687b,AU Rashid,249d60c9,CJ Anderson,8abdf100,0,0,0,0,0,,,,,,1,0,1
+951369,2015/16,New Zealand,11,CJ Anderson,8abdf100,AU Rashid,249d60c9,C Munro,af2c687b,0,0,0,0,0,,,,,,0,0,0
+951369,2015/16,New Zealand,11,CJ Anderson,8abdf100,AU Rashid,249d60c9,C Munro,af2c687b,0,0,0,0,0,,,,,,0,0,0
+951369,2015/16,New Zealand,11,CJ Anderson,8abdf100,AU Rashid,249d60c9,C Munro,af2c687b,0,0,0,0,0,,,,,,1,0,1
+951369,2015/16,New Zealand,11,C Munro,af2c687b,AU Rashid,249d60c9,CJ Anderson,8abdf100,0,0,0,0,0,,,,,,1,0,1
+951369,2015/16,New Zealand,12,C Munro,af2c687b,MM Ali,bb351c23,CJ Anderson,8abdf100,0,0,0,0,0,,,,,,0,0,0
+951369,2015/16,New Zealand,12,C Munro,af2c687b,MM Ali,bb351c23,CJ Anderson,8abdf100,0,0,0,0,0,,,,,,1,0,1
+951369,2015/16,New Zealand,12,CJ Anderson,8abdf100,MM Ali,bb351c23,C Munro,af2c687b,0,0,0,0,0,,,,,,4,0,4
+951369,2015/16,New Zealand,12,CJ Anderson,8abdf100,MM Ali,bb351c23,C Munro,af2c687b,0,0,0,0,0,,,,,,0,0,0
+951369,2015/16,New Zealand,12,CJ Anderson,8abdf100,MM Ali,bb351c23,C Munro,af2c687b,0,0,0,0,0,,,,,,1,0,1
+951369,2015/16,New Zealand,12,C Munro,af2c687b,MM Ali,bb351c23,CJ Anderson,8abdf100,0,0,0,0,0,,,,,,1,0,1
+951369,2015/16,New Zealand,13,C Munro,af2c687b,LE Plunkett,9a963804,CJ Anderson,8abdf100,1,0,0,0,0,,,,,,0,1,1
+951369,2015/16,New Zealand,13,C Munro,af2c687b,LE Plunkett,9a963804,CJ Anderson,8abdf100,0,0,0,0,0,,,,,,0,0,0
+951369,2015/16,New Zealand,13,C Munro,af2c687b,LE Plunkett,9a963804,CJ Anderson,8abdf100,0,0,0,0,1,C Munro,af2c687b,MM Ali,bb351c23,caught,0,0,0
+951369,2015/16,New Zealand,13,CJ Anderson,8abdf100,LE Plunkett,9a963804,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,0,0,0
+951369,2015/16,New Zealand,13,CJ Anderson,8abdf100,LE Plunkett,9a963804,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,2,0,2
+951369,2015/16,New Zealand,13,CJ Anderson,8abdf100,LE Plunkett,9a963804,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,1,0,1
+951369,2015/16,New Zealand,13,LRPL Taylor,b61a3e1a,LE Plunkett,9a963804,CJ Anderson,8abdf100,0,0,0,0,0,,,,,,1,0,1
+951369,2015/16,New Zealand,14,LRPL Taylor,b61a3e1a,AU Rashid,249d60c9,CJ Anderson,8abdf100,1,0,0,0,0,,,,,,0,1,1
+951369,2015/16,New Zealand,14,LRPL Taylor,b61a3e1a,AU Rashid,249d60c9,CJ Anderson,8abdf100,0,0,0,0,0,,,,,,1,0,1
+951369,2015/16,New Zealand,14,CJ Anderson,8abdf100,AU Rashid,249d60c9,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,2,0,2
+951369,2015/16,New Zealand,14,CJ Anderson,8abdf100,AU Rashid,249d60c9,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,1,0,1
+951369,2015/16,New Zealand,14,LRPL Taylor,b61a3e1a,AU Rashid,249d60c9,CJ Anderson,8abdf100,0,0,0,0,0,,,,,,0,0,0
+951369,2015/16,New Zealand,14,LRPL Taylor,b61a3e1a,AU Rashid,249d60c9,CJ Anderson,8abdf100,0,0,0,0,0,,,,,,1,0,1
+951369,2015/16,New Zealand,14,CJ Anderson,8abdf100,AU Rashid,249d60c9,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,4,0,4
+951369,2015/16,New Zealand,15,LRPL Taylor,b61a3e1a,LE Plunkett,9a963804,CJ Anderson,8abdf100,0,0,0,0,0,,,,,,0,0,0
+951369,2015/16,New Zealand,15,LRPL Taylor,b61a3e1a,LE Plunkett,9a963804,CJ Anderson,8abdf100,0,0,0,0,0,,,,,,3,0,3
+951369,2015/16,New Zealand,15,CJ Anderson,8abdf100,LE Plunkett,9a963804,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,0,0,0
+951369,2015/16,New Zealand,15,CJ Anderson,8abdf100,LE Plunkett,9a963804,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,2,0,2
+951369,2015/16,New Zealand,15,CJ Anderson,8abdf100,LE Plunkett,9a963804,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,6,0,6
+951369,2015/16,New Zealand,15,CJ Anderson,8abdf100,LE Plunkett,9a963804,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,1,0,1
+951369,2015/16,New Zealand,16,CJ Anderson,8abdf100,CJ Jordan,ffe699c0,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,1,0,1
+951369,2015/16,New Zealand,16,LRPL Taylor,b61a3e1a,CJ Jordan,ffe699c0,CJ Anderson,8abdf100,0,0,0,0,0,,,,,,0,0,0
+951369,2015/16,New Zealand,16,LRPL Taylor,b61a3e1a,CJ Jordan,ffe699c0,CJ Anderson,8abdf100,0,0,0,0,1,LRPL Taylor,b61a3e1a,EJG Morgan,d2a6c0e6,caught,0,0,0
+951369,2015/16,New Zealand,16,L Ronchi,0fa5042b,CJ Jordan,ffe699c0,CJ Anderson,8abdf100,0,0,0,0,0,,,,,,1,0,1
+951369,2015/16,New Zealand,16,CJ Anderson,8abdf100,CJ Jordan,ffe699c0,L Ronchi,0fa5042b,0,0,0,0,0,,,,,,0,0,0
+951369,2015/16,New Zealand,16,CJ Anderson,8abdf100,CJ Jordan,ffe699c0,L Ronchi,0fa5042b,0,0,0,0,0,,,,,,1,0,1
+951369,2015/16,New Zealand,17,CJ Anderson,8abdf100,BA Stokes,e087956b,L Ronchi,0fa5042b,0,0,0,0,0,,,,,,1,0,1
+951369,2015/16,New Zealand,17,L Ronchi,0fa5042b,BA Stokes,e087956b,CJ Anderson,8abdf100,0,0,0,0,0,,,,,,2,0,2
+951369,2015/16,New Zealand,17,L Ronchi,0fa5042b,BA Stokes,e087956b,CJ Anderson,8abdf100,0,0,0,0,1,L Ronchi,0fa5042b,DJ Willey,7f048519,caught,0,0,0
+951369,2015/16,New Zealand,17,CJ Anderson,8abdf100,BA Stokes,e087956b,GD Elliott,c03449e0,0,0,0,0,1,CJ Anderson,8abdf100,CJ Jordan,ffe699c0,caught,0,0,0
+951369,2015/16,New Zealand,17,GD Elliott,c03449e0,BA Stokes,e087956b,MJ Santner,e4a0deae,0,0,0,0,0,,,,,,1,0,1
+951369,2015/16,New Zealand,17,MJ Santner,e4a0deae,BA Stokes,e087956b,GD Elliott,c03449e0,0,0,0,0,0,,,,,,1,0,1
+951369,2015/16,New Zealand,18,MJ Santner,e4a0deae,CJ Jordan,ffe699c0,GD Elliott,c03449e0,0,0,0,0,0,,,,,,1,0,1
+951369,2015/16,New Zealand,18,GD Elliott,c03449e0,CJ Jordan,ffe699c0,MJ Santner,e4a0deae,0,0,0,0,0,,,,,,0,0,0
+951369,2015/16,New Zealand,18,GD Elliott,c03449e0,CJ Jordan,ffe699c0,MJ Santner,e4a0deae,0,0,0,0,0,,,,,,2,0,2
+951369,2015/16,New Zealand,18,GD Elliott,c03449e0,CJ Jordan,ffe699c0,MJ Santner,e4a0deae,0,0,0,0,0,,,,,,1,0,1
+951369,2015/16,New Zealand,18,MJ Santner,e4a0deae,CJ Jordan,ffe699c0,GD Elliott,c03449e0,0,0,0,0,0,,,,,,4,0,4
+951369,2015/16,New Zealand,18,MJ Santner,e4a0deae,CJ Jordan,ffe699c0,GD Elliott,c03449e0,0,0,0,0,0,,,,,,1,0,1
+951369,2015/16,New Zealand,19,MJ Santner,e4a0deae,BA Stokes,e087956b,GD Elliott,c03449e0,0,0,0,0,0,,,,,,0,0,0
+951369,2015/16,New Zealand,19,MJ Santner,e4a0deae,BA Stokes,e087956b,GD Elliott,c03449e0,0,0,0,0,1,MJ Santner,e4a0deae,CJ Jordan,ffe699c0,caught,0,0,0
+951369,2015/16,New Zealand,19,GD Elliott,c03449e0,BA Stokes,e087956b,MJ McClenaghan,51a3c5ef,0,0,0,1,0,,,,,,0,1,1
+951369,2015/16,New Zealand,19,MJ McClenaghan,51a3c5ef,BA Stokes,e087956b,GD Elliott,c03449e0,0,0,0,0,0,,,,,,1,0,1
+951369,2015/16,New Zealand,19,GD Elliott,c03449e0,BA Stokes,e087956b,MJ McClenaghan,51a3c5ef,0,0,1,0,0,,,,,,0,1,1
+951369,2015/16,New Zealand,19,MJ McClenaghan,51a3c5ef,BA Stokes,e087956b,GD Elliott,c03449e0,0,0,0,0,1,MJ McClenaghan,51a3c5ef,JC Buttler,99b75528,run out,0,0,0
+951369,2015/16,England,0,JJ Roy,d1c36f5c,CJ Anderson,8abdf100,AD Hales,92aeac25,0,0,0,0,0,,,,,,0,0,0
+951369,2015/16,England,0,JJ Roy,d1c36f5c,CJ Anderson,8abdf100,AD Hales,92aeac25,0,0,0,0,0,,,,,,4,0,4
+951369,2015/16,England,0,JJ Roy,d1c36f5c,CJ Anderson,8abdf100,AD Hales,92aeac25,0,0,0,0,0,,,,,,0,0,0
+951369,2015/16,England,0,JJ Roy,d1c36f5c,CJ Anderson,8abdf100,AD Hales,92aeac25,0,0,0,0,0,,,,,,4,0,4
+951369,2015/16,England,0,JJ Roy,d1c36f5c,CJ Anderson,8abdf100,AD Hales,92aeac25,0,0,0,0,0,,,,,,4,0,4
+951369,2015/16,England,0,JJ Roy,d1c36f5c,CJ Anderson,8abdf100,AD Hales,92aeac25,0,0,0,0,0,,,,,,4,0,4
+951369,2015/16,England,1,AD Hales,92aeac25,AF Milne,350bb1b1,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,1,0,1
+951369,2015/16,England,1,JJ Roy,d1c36f5c,AF Milne,350bb1b1,AD Hales,92aeac25,0,0,0,0,0,,,,,,0,0,0
+951369,2015/16,England,1,JJ Roy,d1c36f5c,AF Milne,350bb1b1,AD Hales,92aeac25,0,0,0,0,0,,,,,,4,0,4
+951369,2015/16,England,1,JJ Roy,d1c36f5c,AF Milne,350bb1b1,AD Hales,92aeac25,0,0,0,0,0,,,,,,0,0,0
+951369,2015/16,England,1,JJ Roy,d1c36f5c,AF Milne,350bb1b1,AD Hales,92aeac25,0,0,0,0,0,,,,,,2,0,2
+951369,2015/16,England,1,JJ Roy,d1c36f5c,AF Milne,350bb1b1,AD Hales,92aeac25,0,0,0,0,0,,,,,,0,0,0
+951369,2015/16,England,2,AD Hales,92aeac25,MJ McClenaghan,51a3c5ef,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,0,0,0
+951369,2015/16,England,2,AD Hales,92aeac25,MJ McClenaghan,51a3c5ef,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,1,0,1
+951369,2015/16,England,2,JJ Roy,d1c36f5c,MJ McClenaghan,51a3c5ef,AD Hales,92aeac25,0,0,0,0,0,,,,,,1,0,1
+951369,2015/16,England,2,AD Hales,92aeac25,MJ McClenaghan,51a3c5ef,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,6,0,6
+951369,2015/16,England,2,AD Hales,92aeac25,MJ McClenaghan,51a3c5ef,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,1,0,1
+951369,2015/16,England,2,JJ Roy,d1c36f5c,MJ McClenaghan,51a3c5ef,AD Hales,92aeac25,0,0,0,0,0,,,,,,4,0,4
+951369,2015/16,England,3,AD Hales,92aeac25,AF Milne,350bb1b1,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,1,0,1
+951369,2015/16,England,3,JJ Roy,d1c36f5c,AF Milne,350bb1b1,AD Hales,92aeac25,0,0,0,0,0,,,,,,0,0,0
+951369,2015/16,England,3,JJ Roy,d1c36f5c,AF Milne,350bb1b1,AD Hales,92aeac25,0,0,0,0,0,,,,,,1,0,1
+951369,2015/16,England,3,AD Hales,92aeac25,AF Milne,350bb1b1,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,4,0,4
+951369,2015/16,England,3,AD Hales,92aeac25,AF Milne,350bb1b1,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,1,0,1
+951369,2015/16,England,3,JJ Roy,d1c36f5c,AF Milne,350bb1b1,AD Hales,92aeac25,0,0,0,0,0,,,,,,6,0,6
+951369,2015/16,England,4,AD Hales,92aeac25,MJ Santner,e4a0deae,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,0,0,0
+951369,2015/16,England,4,AD Hales,92aeac25,MJ Santner,e4a0deae,JJ Roy,d1c36f5c,0,0,1,0,0,,,,,,0,1,1
+951369,2015/16,England,4,JJ Roy,d1c36f5c,MJ Santner,e4a0deae,AD Hales,92aeac25,0,0,0,0,0,,,,,,4,0,4
+951369,2015/16,England,4,JJ Roy,d1c36f5c,MJ Santner,e4a0deae,AD Hales,92aeac25,0,0,0,0,0,,,,,,4,0,4
+951369,2015/16,England,4,JJ Roy,d1c36f5c,MJ Santner,e4a0deae,AD Hales,92aeac25,1,0,0,0,0,,,,,,0,1,1
+951369,2015/16,England,4,JJ Roy,d1c36f5c,MJ Santner,e4a0deae,AD Hales,92aeac25,0,0,0,0,0,,,,,,0,0,0
+951369,2015/16,England,4,JJ Roy,d1c36f5c,MJ Santner,e4a0deae,AD Hales,92aeac25,0,0,0,0,0,,,,,,1,0,1
+951369,2015/16,England,5,JJ Roy,d1c36f5c,MJ McClenaghan,51a3c5ef,AD Hales,92aeac25,0,0,0,0,0,,,,,,0,0,0
+951369,2015/16,England,5,JJ Roy,d1c36f5c,MJ McClenaghan,51a3c5ef,AD Hales,92aeac25,0,0,0,0,0,,,,,,1,0,1
+951369,2015/16,England,5,AD Hales,92aeac25,MJ McClenaghan,51a3c5ef,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,1,0,1
+951369,2015/16,England,5,JJ Roy,d1c36f5c,MJ McClenaghan,51a3c5ef,AD Hales,92aeac25,0,0,0,0,0,,,,,,0,0,0
+951369,2015/16,England,5,JJ Roy,d1c36f5c,MJ McClenaghan,51a3c5ef,AD Hales,92aeac25,0,0,0,0,0,,,,,,4,0,4
+951369,2015/16,England,5,JJ Roy,d1c36f5c,MJ McClenaghan,51a3c5ef,AD Hales,92aeac25,0,0,0,0,0,,,,,,1,0,1
+951369,2015/16,England,6,JJ Roy,d1c36f5c,IS Sodhi,641ac5ff,AD Hales,92aeac25,0,0,0,0,0,,,,,,1,0,1
+951369,2015/16,England,6,AD Hales,92aeac25,IS Sodhi,641ac5ff,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,0,0,0
+951369,2015/16,England,6,AD Hales,92aeac25,IS Sodhi,641ac5ff,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,1,0,1
+951369,2015/16,England,6,JJ Roy,d1c36f5c,IS Sodhi,641ac5ff,AD Hales,92aeac25,0,0,0,0,0,,,,,,4,0,4
+951369,2015/16,England,6,JJ Roy,d1c36f5c,IS Sodhi,641ac5ff,AD Hales,92aeac25,0,0,0,0,0,,,,,,1,0,1
+951369,2015/16,England,6,AD Hales,92aeac25,IS Sodhi,641ac5ff,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,1,0,1
+951369,2015/16,England,7,AD Hales,92aeac25,GD Elliott,c03449e0,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,0,0,0
+951369,2015/16,England,7,AD Hales,92aeac25,GD Elliott,c03449e0,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,1,0,1
+951369,2015/16,England,7,JJ Roy,d1c36f5c,GD Elliott,c03449e0,AD Hales,92aeac25,0,0,0,0,0,,,,,,1,0,1
+951369,2015/16,England,7,AD Hales,92aeac25,GD Elliott,c03449e0,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,0,0,0
+951369,2015/16,England,7,AD Hales,92aeac25,GD Elliott,c03449e0,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,1,0,1
+951369,2015/16,England,7,JJ Roy,d1c36f5c,GD Elliott,c03449e0,AD Hales,92aeac25,0,0,0,0,0,,,,,,1,0,1
+951369,2015/16,England,8,JJ Roy,d1c36f5c,MJ Santner,e4a0deae,AD Hales,92aeac25,0,0,0,0,0,,,,,,3,0,3
+951369,2015/16,England,8,AD Hales,92aeac25,MJ Santner,e4a0deae,JJ Roy,d1c36f5c,0,0,0,0,1,AD Hales,92aeac25,C Munro,af2c687b,caught,0,0,0
+951369,2015/16,England,8,JJ Roy,d1c36f5c,MJ Santner,e4a0deae,JE Root,a343262c,0,0,0,0,0,,,,,,0,0,0
+951369,2015/16,England,8,JJ Roy,d1c36f5c,MJ Santner,e4a0deae,JE Root,a343262c,0,0,0,0,0,,,,,,4,0,4
+951369,2015/16,England,8,JJ Roy,d1c36f5c,MJ Santner,e4a0deae,JE Root,a343262c,0,0,0,0,0,,,,,,1,0,1
+951369,2015/16,England,8,JE Root,a343262c,MJ Santner,e4a0deae,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,1,0,1
+951369,2015/16,England,9,JE Root,a343262c,GD Elliott,c03449e0,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,1,0,1
+951369,2015/16,England,9,JJ Roy,d1c36f5c,GD Elliott,c03449e0,JE Root,a343262c,0,0,0,0,0,,,,,,1,0,1
+951369,2015/16,England,9,JE Root,a343262c,GD Elliott,c03449e0,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,0,0,0
+951369,2015/16,England,9,JE Root,a343262c,GD Elliott,c03449e0,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,1,0,1
+951369,2015/16,England,9,JJ Roy,d1c36f5c,GD Elliott,c03449e0,JE Root,a343262c,0,0,0,0,0,,,,,,6,0,6
+951369,2015/16,England,9,JJ Roy,d1c36f5c,GD Elliott,c03449e0,JE Root,a343262c,0,0,0,0,0,,,,,,1,0,1
+951369,2015/16,England,10,JJ Roy,d1c36f5c,IS Sodhi,641ac5ff,JE Root,a343262c,0,0,0,0,0,,,,,,1,0,1
+951369,2015/16,England,10,JE Root,a343262c,IS Sodhi,641ac5ff,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,1,0,1
+951369,2015/16,England,10,JJ Roy,d1c36f5c,IS Sodhi,641ac5ff,JE Root,a343262c,0,0,0,0,0,,,,,,1,0,1
+951369,2015/16,England,10,JE Root,a343262c,IS Sodhi,641ac5ff,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,1,0,1
+951369,2015/16,England,10,JJ Roy,d1c36f5c,IS Sodhi,641ac5ff,JE Root,a343262c,0,0,0,0,0,,,,,,1,0,1
+951369,2015/16,England,10,JE Root,a343262c,IS Sodhi,641ac5ff,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,0,0,0
+951369,2015/16,England,11,JJ Roy,d1c36f5c,AF Milne,350bb1b1,JE Root,a343262c,0,0,0,0,0,,,,,,1,0,1
+951369,2015/16,England,11,JE Root,a343262c,AF Milne,350bb1b1,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,1,0,1
+951369,2015/16,England,11,JJ Roy,d1c36f5c,AF Milne,350bb1b1,JE Root,a343262c,0,0,0,0,0,,,,,,0,0,0
+951369,2015/16,England,11,JJ Roy,d1c36f5c,AF Milne,350bb1b1,JE Root,a343262c,0,0,0,0,0,,,,,,1,0,1
+951369,2015/16,England,11,JE Root,a343262c,AF Milne,350bb1b1,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,4,0,4
+951369,2015/16,England,11,JE Root,a343262c,AF Milne,350bb1b1,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,0,0,0
+951369,2015/16,England,12,JJ Roy,d1c36f5c,IS Sodhi,641ac5ff,JE Root,a343262c,0,0,0,0,1,JJ Roy,d1c36f5c,,,bowled,0,0,0
+951369,2015/16,England,12,EJG Morgan,d2a6c0e6,IS Sodhi,641ac5ff,JE Root,a343262c,0,0,0,0,1,EJG Morgan,d2a6c0e6,,,lbw,0,0,0
+951369,2015/16,England,12,JC Buttler,99b75528,IS Sodhi,641ac5ff,JE Root,a343262c,0,0,0,0,0,,,,,,0,0,0
+951369,2015/16,England,12,JC Buttler,99b75528,IS Sodhi,641ac5ff,JE Root,a343262c,0,0,0,0,0,,,,,,1,0,1
+951369,2015/16,England,12,JE Root,a343262c,IS Sodhi,641ac5ff,JC Buttler,99b75528,0,0,0,0,0,,,,,,2,0,2
+951369,2015/16,England,12,JE Root,a343262c,IS Sodhi,641ac5ff,JC Buttler,99b75528,0,0,0,0,0,,,,,,4,0,4
+951369,2015/16,England,13,JC Buttler,99b75528,MJ McClenaghan,51a3c5ef,JE Root,a343262c,0,0,0,0,0,,,,,,1,0,1
+951369,2015/16,England,13,JE Root,a343262c,MJ McClenaghan,51a3c5ef,JC Buttler,99b75528,0,0,0,0,0,,,,,,0,0,0
+951369,2015/16,England,13,JE Root,a343262c,MJ McClenaghan,51a3c5ef,JC Buttler,99b75528,0,0,0,0,0,,,,,,1,0,1
+951369,2015/16,England,13,JC Buttler,99b75528,MJ McClenaghan,51a3c5ef,JE Root,a343262c,0,0,0,0,0,,,,,,0,0,0
+951369,2015/16,England,13,JC Buttler,99b75528,MJ McClenaghan,51a3c5ef,JE Root,a343262c,0,0,0,0,0,,,,,,1,0,1
+951369,2015/16,England,13,JE Root,a343262c,MJ McClenaghan,51a3c5ef,JC Buttler,99b75528,0,0,0,0,0,,,,,,1,0,1
+951369,2015/16,England,14,JE Root,a343262c,MJ Santner,e4a0deae,JC Buttler,99b75528,0,0,0,0,0,,,,,,1,0,1
+951369,2015/16,England,14,JC Buttler,99b75528,MJ Santner,e4a0deae,JE Root,a343262c,0,0,0,0,0,,,,,,1,0,1
+951369,2015/16,England,14,JE Root,a343262c,MJ Santner,e4a0deae,JC Buttler,99b75528,0,0,0,0,0,,,,,,1,0,1
+951369,2015/16,England,14,JC Buttler,99b75528,MJ Santner,e4a0deae,JE Root,a343262c,0,0,0,0,0,,,,,,0,0,0
+951369,2015/16,England,14,JC Buttler,99b75528,MJ Santner,e4a0deae,JE Root,a343262c,0,0,0,0,0,,,,,,0,0,0
+951369,2015/16,England,14,JC Buttler,99b75528,MJ Santner,e4a0deae,JE Root,a343262c,0,0,0,0,0,,,,,,0,0,0
+951369,2015/16,England,15,JE Root,a343262c,GD Elliott,c03449e0,JC Buttler,99b75528,0,0,0,0,0,,,,,,1,0,1
+951369,2015/16,England,15,JC Buttler,99b75528,GD Elliott,c03449e0,JE Root,a343262c,0,0,0,0,0,,,,,,1,0,1
+951369,2015/16,England,15,JE Root,a343262c,GD Elliott,c03449e0,JC Buttler,99b75528,0,0,0,0,0,,,,,,0,0,0
+951369,2015/16,England,15,JE Root,a343262c,GD Elliott,c03449e0,JC Buttler,99b75528,0,0,0,0,0,,,,,,1,0,1
+951369,2015/16,England,15,JC Buttler,99b75528,GD Elliott,c03449e0,JE Root,a343262c,0,0,0,0,0,,,,,,4,0,4
+951369,2015/16,England,15,JC Buttler,99b75528,GD Elliott,c03449e0,JE Root,a343262c,0,0,0,0,0,,,,,,0,0,0
+951369,2015/16,England,16,JE Root,a343262c,IS Sodhi,641ac5ff,JC Buttler,99b75528,0,0,0,0,0,,,,,,4,0,4
+951369,2015/16,England,16,JE Root,a343262c,IS Sodhi,641ac5ff,JC Buttler,99b75528,0,0,0,0,0,,,,,,1,0,1
+951369,2015/16,England,16,JC Buttler,99b75528,IS Sodhi,641ac5ff,JE Root,a343262c,0,0,0,0,0,,,,,,4,0,4
+951369,2015/16,England,16,JC Buttler,99b75528,IS Sodhi,641ac5ff,JE Root,a343262c,0,0,0,0,0,,,,,,6,0,6
+951369,2015/16,England,16,JC Buttler,99b75528,IS Sodhi,641ac5ff,JE Root,a343262c,0,0,0,0,0,,,,,,6,0,6
+951369,2015/16,England,16,JC Buttler,99b75528,IS Sodhi,641ac5ff,JE Root,a343262c,0,0,0,0,0,,,,,,1,0,1
+951369,2015/16,England,17,JC Buttler,99b75528,MJ Santner,e4a0deae,JE Root,a343262c,0,0,0,0,0,,,,,,6,0,6

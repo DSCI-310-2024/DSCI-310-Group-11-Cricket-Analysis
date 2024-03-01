@@ -1,0 +1,245 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+298804,2007/08,West Indies,0,DS Smith,85ad2217,SM Pollock,88fccd6c,D Ramdin,d1523761,0,0,0,0,0,,,,,,1,0,1
+298804,2007/08,West Indies,0,D Ramdin,d1523761,SM Pollock,88fccd6c,DS Smith,85ad2217,0,0,0,0,0,,,,,,0,0,0
+298804,2007/08,West Indies,0,D Ramdin,d1523761,SM Pollock,88fccd6c,DS Smith,85ad2217,0,0,0,0,0,,,,,,0,0,0
+298804,2007/08,West Indies,0,D Ramdin,d1523761,SM Pollock,88fccd6c,DS Smith,85ad2217,0,0,0,0,0,,,,,,2,0,2
+298804,2007/08,West Indies,0,D Ramdin,d1523761,SM Pollock,88fccd6c,DS Smith,85ad2217,0,0,0,0,0,,,,,,0,0,0
+298804,2007/08,West Indies,0,D Ramdin,d1523761,SM Pollock,88fccd6c,DS Smith,85ad2217,0,0,0,0,0,,,,,,0,0,0
+298804,2007/08,West Indies,1,DS Smith,85ad2217,M Ntini,20a941bb,D Ramdin,d1523761,0,0,0,0,0,,,,,,1,0,1
+298804,2007/08,West Indies,1,D Ramdin,d1523761,M Ntini,20a941bb,DS Smith,85ad2217,0,0,0,0,0,,,,,,0,0,0
+298804,2007/08,West Indies,1,D Ramdin,d1523761,M Ntini,20a941bb,DS Smith,85ad2217,0,0,0,0,0,,,,,,0,0,0
+298804,2007/08,West Indies,1,D Ramdin,d1523761,M Ntini,20a941bb,DS Smith,85ad2217,0,0,1,0,0,,,,,,0,1,1
+298804,2007/08,West Indies,1,DS Smith,85ad2217,M Ntini,20a941bb,D Ramdin,d1523761,0,0,0,0,0,,,,,,1,0,1
+298804,2007/08,West Indies,1,D Ramdin,d1523761,M Ntini,20a941bb,DS Smith,85ad2217,0,0,0,0,0,,,,,,4,0,4
+298804,2007/08,West Indies,2,DS Smith,85ad2217,SM Pollock,88fccd6c,D Ramdin,d1523761,0,0,0,0,0,,,,,,4,0,4
+298804,2007/08,West Indies,2,DS Smith,85ad2217,SM Pollock,88fccd6c,D Ramdin,d1523761,0,0,0,0,0,,,,,,1,0,1
+298804,2007/08,West Indies,2,D Ramdin,d1523761,SM Pollock,88fccd6c,DS Smith,85ad2217,0,0,0,0,0,,,,,,0,0,0
+298804,2007/08,West Indies,2,D Ramdin,d1523761,SM Pollock,88fccd6c,DS Smith,85ad2217,0,0,0,0,0,,,,,,1,0,1
+298804,2007/08,West Indies,2,DS Smith,85ad2217,SM Pollock,88fccd6c,D Ramdin,d1523761,0,0,0,0,0,,,,,,0,0,0
+298804,2007/08,West Indies,2,DS Smith,85ad2217,SM Pollock,88fccd6c,D Ramdin,d1523761,0,0,0,0,0,,,,,,4,0,4
+298804,2007/08,West Indies,3,D Ramdin,d1523761,M Ntini,20a941bb,DS Smith,85ad2217,0,0,0,0,1,DS Smith,85ad2217,M Ntini,20a941bb,run out,0,0,0
+298804,2007/08,West Indies,3,MN Samuels,f846de6a,M Ntini,20a941bb,D Ramdin,d1523761,0,0,0,0,0,,,,,,0,0,0
+298804,2007/08,West Indies,3,MN Samuels,f846de6a,M Ntini,20a941bb,D Ramdin,d1523761,0,0,0,0,0,,,,,,0,0,0
+298804,2007/08,West Indies,3,MN Samuels,f846de6a,M Ntini,20a941bb,D Ramdin,d1523761,0,0,0,0,0,,,,,,4,0,4
+298804,2007/08,West Indies,3,MN Samuels,f846de6a,M Ntini,20a941bb,D Ramdin,d1523761,0,0,0,0,0,,,,,,0,0,0
+298804,2007/08,West Indies,3,MN Samuels,f846de6a,M Ntini,20a941bb,D Ramdin,d1523761,0,0,0,0,0,,,,,,0,0,0
+298804,2007/08,West Indies,4,D Ramdin,d1523761,SM Pollock,88fccd6c,MN Samuels,f846de6a,0,0,0,0,0,,,,,,0,0,0
+298804,2007/08,West Indies,4,D Ramdin,d1523761,SM Pollock,88fccd6c,MN Samuels,f846de6a,0,0,0,0,0,,,,,,4,0,4
+298804,2007/08,West Indies,4,D Ramdin,d1523761,SM Pollock,88fccd6c,MN Samuels,f846de6a,0,0,0,0,0,,,,,,0,0,0
+298804,2007/08,West Indies,4,D Ramdin,d1523761,SM Pollock,88fccd6c,MN Samuels,f846de6a,0,0,0,0,0,,,,,,0,0,0
+298804,2007/08,West Indies,4,D Ramdin,d1523761,SM Pollock,88fccd6c,MN Samuels,f846de6a,0,0,1,0,0,,,,,,0,1,1
+298804,2007/08,West Indies,4,MN Samuels,f846de6a,SM Pollock,88fccd6c,D Ramdin,d1523761,0,0,0,0,0,,,,,,0,0,0
+298804,2007/08,West Indies,5,D Ramdin,d1523761,M Ntini,20a941bb,MN Samuels,f846de6a,0,0,0,0,0,,,,,,1,0,1
+298804,2007/08,West Indies,5,MN Samuels,f846de6a,M Ntini,20a941bb,D Ramdin,d1523761,0,0,0,0,1,MN Samuels,f846de6a,MV Boucher,f3cb53a1,caught,0,0,0
+298804,2007/08,West Indies,5,S Chanderpaul,881a9bdd,M Ntini,20a941bb,D Ramdin,d1523761,1,0,0,0,0,,,,,,0,1,1
+298804,2007/08,West Indies,5,S Chanderpaul,881a9bdd,M Ntini,20a941bb,D Ramdin,d1523761,0,0,0,0,0,,,,,,0,0,0
+298804,2007/08,West Indies,5,S Chanderpaul,881a9bdd,M Ntini,20a941bb,D Ramdin,d1523761,0,0,0,0,0,,,,,,0,0,0
+298804,2007/08,West Indies,5,S Chanderpaul,881a9bdd,M Ntini,20a941bb,D Ramdin,d1523761,0,0,0,0,0,,,,,,0,0,0
+298804,2007/08,West Indies,5,S Chanderpaul,881a9bdd,M Ntini,20a941bb,D Ramdin,d1523761,0,0,0,0,0,,,,,,0,0,0
+298804,2007/08,West Indies,6,D Ramdin,d1523761,JA Morkel,c3d35165,S Chanderpaul,881a9bdd,0,0,0,0,0,,,,,,0,0,0
+298804,2007/08,West Indies,6,D Ramdin,d1523761,JA Morkel,c3d35165,S Chanderpaul,881a9bdd,0,0,0,0,0,,,,,,0,0,0
+298804,2007/08,West Indies,6,D Ramdin,d1523761,JA Morkel,c3d35165,S Chanderpaul,881a9bdd,0,0,0,0,0,,,,,,0,0,0
+298804,2007/08,West Indies,6,D Ramdin,d1523761,JA Morkel,c3d35165,S Chanderpaul,881a9bdd,0,0,0,0,0,,,,,,0,0,0
+298804,2007/08,West Indies,6,D Ramdin,d1523761,JA Morkel,c3d35165,S Chanderpaul,881a9bdd,0,0,0,0,0,,,,,,1,0,1
+298804,2007/08,West Indies,6,S Chanderpaul,881a9bdd,JA Morkel,c3d35165,D Ramdin,d1523761,0,0,1,0,0,,,,,,0,1,1
+298804,2007/08,West Indies,7,S Chanderpaul,881a9bdd,M Morkel,5bb5a915,D Ramdin,d1523761,0,0,0,0,0,,,,,,0,0,0
+298804,2007/08,West Indies,7,S Chanderpaul,881a9bdd,M Morkel,5bb5a915,D Ramdin,d1523761,0,0,0,0,0,,,,,,1,0,1
+298804,2007/08,West Indies,7,D Ramdin,d1523761,M Morkel,5bb5a915,S Chanderpaul,881a9bdd,0,0,0,0,0,,,,,,6,0,6
+298804,2007/08,West Indies,7,D Ramdin,d1523761,M Morkel,5bb5a915,S Chanderpaul,881a9bdd,1,0,0,0,0,,,,,,0,1,1
+298804,2007/08,West Indies,7,D Ramdin,d1523761,M Morkel,5bb5a915,S Chanderpaul,881a9bdd,0,0,0,0,0,,,,,,0,0,0
+298804,2007/08,West Indies,7,D Ramdin,d1523761,M Morkel,5bb5a915,S Chanderpaul,881a9bdd,0,0,0,0,1,D Ramdin,d1523761,J Botha,7c503806,caught,0,0,0
+298804,2007/08,West Indies,7,RS Morton,2f8a9682,M Morkel,5bb5a915,S Chanderpaul,881a9bdd,0,0,0,0,0,,,,,,0,0,0
+298804,2007/08,West Indies,8,S Chanderpaul,881a9bdd,JA Morkel,c3d35165,RS Morton,2f8a9682,0,0,1,0,0,,,,,,0,1,1
+298804,2007/08,West Indies,8,RS Morton,2f8a9682,JA Morkel,c3d35165,S Chanderpaul,881a9bdd,0,0,0,0,0,,,,,,0,0,0
+298804,2007/08,West Indies,8,RS Morton,2f8a9682,JA Morkel,c3d35165,S Chanderpaul,881a9bdd,0,0,0,0,0,,,,,,0,0,0
+298804,2007/08,West Indies,8,RS Morton,2f8a9682,JA Morkel,c3d35165,S Chanderpaul,881a9bdd,0,0,0,0,0,,,,,,0,0,0
+298804,2007/08,West Indies,8,RS Morton,2f8a9682,JA Morkel,c3d35165,S Chanderpaul,881a9bdd,0,0,0,0,0,,,,,,0,0,0
+298804,2007/08,West Indies,8,RS Morton,2f8a9682,JA Morkel,c3d35165,S Chanderpaul,881a9bdd,0,0,0,0,0,,,,,,4,0,4
+298804,2007/08,West Indies,9,S Chanderpaul,881a9bdd,M Morkel,5bb5a915,RS Morton,2f8a9682,0,0,0,0,0,,,,,,1,0,1
+298804,2007/08,West Indies,9,RS Morton,2f8a9682,M Morkel,5bb5a915,S Chanderpaul,881a9bdd,0,0,0,0,0,,,,,,0,0,0
+298804,2007/08,West Indies,9,RS Morton,2f8a9682,M Morkel,5bb5a915,S Chanderpaul,881a9bdd,0,0,0,0,0,,,,,,1,0,1
+298804,2007/08,West Indies,9,S Chanderpaul,881a9bdd,M Morkel,5bb5a915,RS Morton,2f8a9682,0,0,0,0,0,,,,,,0,0,0
+298804,2007/08,West Indies,9,S Chanderpaul,881a9bdd,M Morkel,5bb5a915,RS Morton,2f8a9682,0,0,0,0,0,,,,,,0,0,0
+298804,2007/08,West Indies,9,S Chanderpaul,881a9bdd,M Morkel,5bb5a915,RS Morton,2f8a9682,0,0,0,0,0,,,,,,0,0,0
+298804,2007/08,West Indies,10,RS Morton,2f8a9682,J Botha,7c503806,S Chanderpaul,881a9bdd,0,0,0,0,0,,,,,,0,0,0
+298804,2007/08,West Indies,10,RS Morton,2f8a9682,J Botha,7c503806,S Chanderpaul,881a9bdd,0,0,0,0,0,,,,,,1,0,1
+298804,2007/08,West Indies,10,S Chanderpaul,881a9bdd,J Botha,7c503806,RS Morton,2f8a9682,0,0,0,0,0,,,,,,1,0,1
+298804,2007/08,West Indies,10,RS Morton,2f8a9682,J Botha,7c503806,S Chanderpaul,881a9bdd,0,0,0,0,0,,,,,,0,0,0
+298804,2007/08,West Indies,10,RS Morton,2f8a9682,J Botha,7c503806,S Chanderpaul,881a9bdd,0,0,0,0,0,,,,,,0,0,0
+298804,2007/08,West Indies,10,RS Morton,2f8a9682,J Botha,7c503806,S Chanderpaul,881a9bdd,0,0,0,0,0,,,,,,0,0,0
+298804,2007/08,West Indies,11,S Chanderpaul,881a9bdd,JL Ontong,55f33b32,RS Morton,2f8a9682,0,0,0,0,0,,,,,,1,0,1
+298804,2007/08,West Indies,11,RS Morton,2f8a9682,JL Ontong,55f33b32,S Chanderpaul,881a9bdd,0,0,0,0,0,,,,,,4,0,4
+298804,2007/08,West Indies,11,RS Morton,2f8a9682,JL Ontong,55f33b32,S Chanderpaul,881a9bdd,0,0,0,0,0,,,,,,0,0,0
+298804,2007/08,West Indies,11,RS Morton,2f8a9682,JL Ontong,55f33b32,S Chanderpaul,881a9bdd,0,0,0,0,0,,,,,,1,0,1
+298804,2007/08,West Indies,11,S Chanderpaul,881a9bdd,JL Ontong,55f33b32,RS Morton,2f8a9682,0,0,0,0,0,,,,,,1,0,1
+298804,2007/08,West Indies,11,RS Morton,2f8a9682,JL Ontong,55f33b32,S Chanderpaul,881a9bdd,0,0,0,0,0,,,,,,1,0,1
+298804,2007/08,West Indies,12,RS Morton,2f8a9682,J Botha,7c503806,S Chanderpaul,881a9bdd,0,0,0,0,1,RS Morton,2f8a9682,,,bowled,0,0,0
+298804,2007/08,West Indies,12,DJ Bravo,87e562a9,J Botha,7c503806,S Chanderpaul,881a9bdd,0,0,0,0,0,,,,,,0,0,0
+298804,2007/08,West Indies,12,DJ Bravo,87e562a9,J Botha,7c503806,S Chanderpaul,881a9bdd,0,0,0,0,0,,,,,,1,0,1
+298804,2007/08,West Indies,12,S Chanderpaul,881a9bdd,J Botha,7c503806,DJ Bravo,87e562a9,0,0,0,0,0,,,,,,1,0,1
+298804,2007/08,West Indies,12,DJ Bravo,87e562a9,J Botha,7c503806,S Chanderpaul,881a9bdd,0,0,0,0,0,,,,,,1,0,1
+298804,2007/08,West Indies,12,S Chanderpaul,881a9bdd,J Botha,7c503806,DJ Bravo,87e562a9,0,0,0,0,0,,,,,,1,0,1
+298804,2007/08,West Indies,13,S Chanderpaul,881a9bdd,JL Ontong,55f33b32,DJ Bravo,87e562a9,0,0,0,0,0,,,,,,1,0,1
+298804,2007/08,West Indies,13,DJ Bravo,87e562a9,JL Ontong,55f33b32,S Chanderpaul,881a9bdd,0,0,0,0,0,,,,,,6,0,6
+298804,2007/08,West Indies,13,DJ Bravo,87e562a9,JL Ontong,55f33b32,S Chanderpaul,881a9bdd,0,0,0,0,0,,,,,,1,0,1
+298804,2007/08,West Indies,13,S Chanderpaul,881a9bdd,JL Ontong,55f33b32,DJ Bravo,87e562a9,0,0,0,0,0,,,,,,2,0,2
+298804,2007/08,West Indies,13,S Chanderpaul,881a9bdd,JL Ontong,55f33b32,DJ Bravo,87e562a9,0,0,0,0,1,S Chanderpaul,881a9bdd,J Botha,7c503806,caught,0,0,0
+298804,2007/08,West Indies,13,DJ Bravo,87e562a9,JL Ontong,55f33b32,RN Lewis,69362253,1,0,0,0,0,,,,,,0,1,1
+298804,2007/08,West Indies,13,DJ Bravo,87e562a9,JL Ontong,55f33b32,RN Lewis,69362253,0,0,0,0,0,,,,,,6,0,6
+298804,2007/08,West Indies,14,RN Lewis,69362253,SM Pollock,88fccd6c,DJ Bravo,87e562a9,0,0,0,0,0,,,,,,0,0,0
+298804,2007/08,West Indies,14,RN Lewis,69362253,SM Pollock,88fccd6c,DJ Bravo,87e562a9,0,0,0,0,0,,,,,,0,0,0
+298804,2007/08,West Indies,14,RN Lewis,69362253,SM Pollock,88fccd6c,DJ Bravo,87e562a9,0,0,0,0,0,,,,,,0,0,0
+298804,2007/08,West Indies,14,RN Lewis,69362253,SM Pollock,88fccd6c,DJ Bravo,87e562a9,0,0,0,0,1,RN Lewis,69362253,AB de Villiers,c4487b84,caught,0,0,0
+298804,2007/08,West Indies,14,DJ Bravo,87e562a9,SM Pollock,88fccd6c,DJG Sammy,c03c6200,0,0,0,0,0,,,,,,1,0,1
+298804,2007/08,West Indies,14,DJG Sammy,c03c6200,SM Pollock,88fccd6c,DJ Bravo,87e562a9,0,0,0,0,0,,,,,,1,0,1
+298804,2007/08,West Indies,15,DJG Sammy,c03c6200,J Botha,7c503806,DJ Bravo,87e562a9,0,0,0,4,0,,,,,,0,4,4
+298804,2007/08,West Indies,15,DJG Sammy,c03c6200,J Botha,7c503806,DJ Bravo,87e562a9,0,0,1,0,0,,,,,,0,1,1
+298804,2007/08,West Indies,15,DJ Bravo,87e562a9,J Botha,7c503806,DJG Sammy,c03c6200,0,0,0,0,0,,,,,,1,0,1
+298804,2007/08,West Indies,15,DJG Sammy,c03c6200,J Botha,7c503806,DJ Bravo,87e562a9,0,0,1,0,0,,,,,,0,1,1
+298804,2007/08,West Indies,15,DJ Bravo,87e562a9,J Botha,7c503806,DJG Sammy,c03c6200,0,0,2,0,0,,,,,,0,2,2
+298804,2007/08,West Indies,15,DJ Bravo,87e562a9,J Botha,7c503806,DJG Sammy,c03c6200,0,0,0,0,0,,,,,,1,0,1
+298804,2007/08,West Indies,16,DJ Bravo,87e562a9,M Morkel,5bb5a915,DJG Sammy,c03c6200,0,0,0,0,0,,,,,,2,0,2
+298804,2007/08,West Indies,16,DJ Bravo,87e562a9,M Morkel,5bb5a915,DJG Sammy,c03c6200,0,0,0,0,0,,,,,,1,0,1
+298804,2007/08,West Indies,16,DJG Sammy,c03c6200,M Morkel,5bb5a915,DJ Bravo,87e562a9,0,0,0,0,0,,,,,,0,0,0
+298804,2007/08,West Indies,16,DJG Sammy,c03c6200,M Morkel,5bb5a915,DJ Bravo,87e562a9,0,0,1,0,0,,,,,,0,1,1
+298804,2007/08,West Indies,16,DJ Bravo,87e562a9,M Morkel,5bb5a915,DJG Sammy,c03c6200,0,0,0,0,0,,,,,,0,0,0
+298804,2007/08,West Indies,16,DJ Bravo,87e562a9,M Morkel,5bb5a915,DJG Sammy,c03c6200,0,0,0,0,0,,,,,,2,0,2
+298804,2007/08,West Indies,17,DJG Sammy,c03c6200,M Ntini,20a941bb,DJ Bravo,87e562a9,2,0,0,0,0,,,,,,0,2,2
+298804,2007/08,West Indies,17,DJ Bravo,87e562a9,M Ntini,20a941bb,DJG Sammy,c03c6200,0,0,0,0,0,,,,,,1,0,1
+298804,2007/08,West Indies,17,DJG Sammy,c03c6200,M Ntini,20a941bb,DJ Bravo,87e562a9,0,0,0,1,0,,,,,,0,1,1
+298804,2007/08,West Indies,17,DJ Bravo,87e562a9,M Ntini,20a941bb,DJG Sammy,c03c6200,0,0,0,0,0,,,,,,0,0,0
+298804,2007/08,West Indies,17,DJ Bravo,87e562a9,M Ntini,20a941bb,DJG Sammy,c03c6200,0,0,0,0,1,DJ Bravo,87e562a9,JP Duminy,2e8994e7,caught,0,0,0
+298804,2007/08,West Indies,17,DJG Sammy,c03c6200,M Ntini,20a941bb,JE Taylor,4180d897,0,0,0,0,0,,,,,,1,0,1
+298804,2007/08,West Indies,17,JE Taylor,4180d897,M Ntini,20a941bb,DJG Sammy,c03c6200,0,0,0,0,0,,,,,,6,0,6
+298804,2007/08,West Indies,18,DJG Sammy,c03c6200,JA Morkel,c3d35165,JE Taylor,4180d897,0,0,0,0,0,,,,,,0,0,0
+298804,2007/08,West Indies,18,DJG Sammy,c03c6200,JA Morkel,c3d35165,JE Taylor,4180d897,0,0,0,0,0,,,,,,4,0,4
+298804,2007/08,West Indies,18,DJG Sammy,c03c6200,JA Morkel,c3d35165,JE Taylor,4180d897,0,0,0,0,0,,,,,,2,0,2
+298804,2007/08,West Indies,18,DJG Sammy,c03c6200,JA Morkel,c3d35165,JE Taylor,4180d897,0,0,0,2,0,,,,,,0,2,2
+298804,2007/08,West Indies,18,DJG Sammy,c03c6200,JA Morkel,c3d35165,JE Taylor,4180d897,0,0,0,1,0,,,,,,0,1,1
+298804,2007/08,West Indies,18,JE Taylor,4180d897,JA Morkel,c3d35165,DJG Sammy,c03c6200,0,0,0,0,0,,,,,,0,0,0
+298804,2007/08,West Indies,19,DJG Sammy,c03c6200,M Morkel,5bb5a915,JE Taylor,4180d897,0,0,0,0,0,,,,,,6,0,6
+298804,2007/08,West Indies,19,DJG Sammy,c03c6200,M Morkel,5bb5a915,JE Taylor,4180d897,0,0,0,1,0,,,,,,0,1,1
+298804,2007/08,West Indies,19,JE Taylor,4180d897,M Morkel,5bb5a915,DJG Sammy,c03c6200,0,0,0,4,0,,,,,,0,4,4
+298804,2007/08,West Indies,19,JE Taylor,4180d897,M Morkel,5bb5a915,DJG Sammy,c03c6200,0,0,0,0,0,,,,,,1,0,1
+298804,2007/08,West Indies,19,DJG Sammy,c03c6200,M Morkel,5bb5a915,JE Taylor,4180d897,0,0,0,1,0,,,,,,0,1,1
+298804,2007/08,West Indies,19,JE Taylor,4180d897,M Morkel,5bb5a915,DJG Sammy,c03c6200,0,0,0,1,0,,,,,,0,1,1
+298804,2007/08,South Africa,0,HH Gibbs,e1d1b294,JE Taylor,4180d897,GC Smith,72861603,0,0,0,0,0,,,,,,0,0,0
+298804,2007/08,South Africa,0,HH Gibbs,e1d1b294,JE Taylor,4180d897,GC Smith,72861603,0,0,0,0,0,,,,,,0,0,0
+298804,2007/08,South Africa,0,HH Gibbs,e1d1b294,JE Taylor,4180d897,GC Smith,72861603,0,0,0,0,1,HH Gibbs,e1d1b294,,,bowled,0,0,0
+298804,2007/08,South Africa,0,AB de Villiers,c4487b84,JE Taylor,4180d897,GC Smith,72861603,0,0,0,0,0,,,,,,4,0,4
+298804,2007/08,South Africa,0,AB de Villiers,c4487b84,JE Taylor,4180d897,GC Smith,72861603,0,0,0,0,0,,,,,,4,0,4
+298804,2007/08,South Africa,0,AB de Villiers,c4487b84,JE Taylor,4180d897,GC Smith,72861603,1,0,0,0,0,,,,,,0,1,1
+298804,2007/08,South Africa,0,AB de Villiers,c4487b84,JE Taylor,4180d897,GC Smith,72861603,0,0,0,0,0,,,,,,1,0,1
+298804,2007/08,South Africa,1,AB de Villiers,c4487b84,FH Edwards,a7c226e1,GC Smith,72861603,0,0,0,0,0,,,,,,0,0,0
+298804,2007/08,South Africa,1,AB de Villiers,c4487b84,FH Edwards,a7c226e1,GC Smith,72861603,0,0,1,0,0,,,,,,0,1,1
+298804,2007/08,South Africa,1,GC Smith,72861603,FH Edwards,a7c226e1,AB de Villiers,c4487b84,1,0,0,0,0,,,,,,0,1,1
+298804,2007/08,South Africa,1,GC Smith,72861603,FH Edwards,a7c226e1,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,1,0,1
+298804,2007/08,South Africa,1,AB de Villiers,c4487b84,FH Edwards,a7c226e1,GC Smith,72861603,0,0,0,0,0,,,,,,0,0,0
+298804,2007/08,South Africa,1,AB de Villiers,c4487b84,FH Edwards,a7c226e1,GC Smith,72861603,0,0,0,0,0,,,,,,1,0,1
+298804,2007/08,South Africa,1,GC Smith,72861603,FH Edwards,a7c226e1,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,1,0,1
+298804,2007/08,South Africa,2,GC Smith,72861603,JE Taylor,4180d897,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,2,0,2
+298804,2007/08,South Africa,2,GC Smith,72861603,JE Taylor,4180d897,AB de Villiers,c4487b84,0,0,0,0,1,GC Smith,72861603,,,bowled,0,0,0
+298804,2007/08,South Africa,2,JP Duminy,2e8994e7,JE Taylor,4180d897,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,1,0,1
+298804,2007/08,South Africa,2,AB de Villiers,c4487b84,JE Taylor,4180d897,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,2,0,2
+298804,2007/08,South Africa,2,AB de Villiers,c4487b84,JE Taylor,4180d897,JP Duminy,2e8994e7,1,0,0,0,0,,,,,,0,1,1
+298804,2007/08,South Africa,2,AB de Villiers,c4487b84,JE Taylor,4180d897,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,0,0,0
+298804,2007/08,South Africa,2,AB de Villiers,c4487b84,JE Taylor,4180d897,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,1,0,1
+298804,2007/08,South Africa,3,AB de Villiers,c4487b84,FH Edwards,a7c226e1,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,1,0,1
+298804,2007/08,South Africa,3,JP Duminy,2e8994e7,FH Edwards,a7c226e1,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,0,0,0
+298804,2007/08,South Africa,3,JP Duminy,2e8994e7,FH Edwards,a7c226e1,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,0,0,0
+298804,2007/08,South Africa,3,JP Duminy,2e8994e7,FH Edwards,a7c226e1,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,0,0,0
+298804,2007/08,South Africa,3,JP Duminy,2e8994e7,FH Edwards,a7c226e1,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,0,0,0
+298804,2007/08,South Africa,3,JP Duminy,2e8994e7,FH Edwards,a7c226e1,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,4,0,4
+298804,2007/08,South Africa,4,AB de Villiers,c4487b84,JE Taylor,4180d897,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,0,0,0
+298804,2007/08,South Africa,4,AB de Villiers,c4487b84,JE Taylor,4180d897,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,0,0,0
+298804,2007/08,South Africa,4,AB de Villiers,c4487b84,JE Taylor,4180d897,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,0,0,0
+298804,2007/08,South Africa,4,AB de Villiers,c4487b84,JE Taylor,4180d897,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,1,0,1
+298804,2007/08,South Africa,4,JP Duminy,2e8994e7,JE Taylor,4180d897,AB de Villiers,c4487b84,1,0,0,0,0,,,,,,0,1,1
+298804,2007/08,South Africa,4,JP Duminy,2e8994e7,JE Taylor,4180d897,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,0,0,0
+298804,2007/08,South Africa,4,JP Duminy,2e8994e7,JE Taylor,4180d897,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,0,0,0
+298804,2007/08,South Africa,5,AB de Villiers,c4487b84,DJG Sammy,c03c6200,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,1,0,1
+298804,2007/08,South Africa,5,JP Duminy,2e8994e7,DJG Sammy,c03c6200,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,2,0,2
+298804,2007/08,South Africa,5,JP Duminy,2e8994e7,DJG Sammy,c03c6200,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,4,0,4
+298804,2007/08,South Africa,5,JP Duminy,2e8994e7,DJG Sammy,c03c6200,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,0,0,0
+298804,2007/08,South Africa,5,JP Duminy,2e8994e7,DJG Sammy,c03c6200,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,2,0,2
+298804,2007/08,South Africa,5,JP Duminy,2e8994e7,DJG Sammy,c03c6200,AB de Villiers,c4487b84,0,0,0,0,1,JP Duminy,2e8994e7,S Chanderpaul,881a9bdd,caught,0,0,0
+298804,2007/08,South Africa,6,AB de Villiers,c4487b84,JE Taylor,4180d897,JL Ontong,55f33b32,0,0,0,0,0,,,,,,1,0,1
+298804,2007/08,South Africa,6,JL Ontong,55f33b32,JE Taylor,4180d897,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,0,0,0
+298804,2007/08,South Africa,6,JL Ontong,55f33b32,JE Taylor,4180d897,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,1,0,1
+298804,2007/08,South Africa,6,AB de Villiers,c4487b84,JE Taylor,4180d897,JL Ontong,55f33b32,0,0,0,0,0,,,,,,4,0,4
+298804,2007/08,South Africa,6,AB de Villiers,c4487b84,JE Taylor,4180d897,JL Ontong,55f33b32,0,0,0,0,0,,,,,,0,0,0
+298804,2007/08,South Africa,6,AB de Villiers,c4487b84,JE Taylor,4180d897,JL Ontong,55f33b32,0,0,0,0,0,,,,,,4,0,4
+298804,2007/08,South Africa,7,JL Ontong,55f33b32,DJG Sammy,c03c6200,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,3,0,3
+298804,2007/08,South Africa,7,AB de Villiers,c4487b84,DJG Sammy,c03c6200,JL Ontong,55f33b32,0,0,0,0,0,,,,,,0,0,0
+298804,2007/08,South Africa,7,AB de Villiers,c4487b84,DJG Sammy,c03c6200,JL Ontong,55f33b32,0,0,0,0,1,AB de Villiers,c4487b84,D Ramdin,d1523761,caught,0,0,0
+298804,2007/08,South Africa,7,MV Boucher,f3cb53a1,DJG Sammy,c03c6200,JL Ontong,55f33b32,0,0,0,0,0,,,,,,1,0,1
+298804,2007/08,South Africa,7,JL Ontong,55f33b32,DJG Sammy,c03c6200,MV Boucher,f3cb53a1,0,0,0,0,0,,,,,,0,0,0
+298804,2007/08,South Africa,7,JL Ontong,55f33b32,DJG Sammy,c03c6200,MV Boucher,f3cb53a1,0,0,0,0,0,,,,,,2,0,2
+298804,2007/08,South Africa,8,MV Boucher,f3cb53a1,R Rampaul,d68e7f48,JL Ontong,55f33b32,0,0,0,0,0,,,,,,0,0,0
+298804,2007/08,South Africa,8,MV Boucher,f3cb53a1,R Rampaul,d68e7f48,JL Ontong,55f33b32,0,0,1,0,0,,,,,,0,1,1
+298804,2007/08,South Africa,8,JL Ontong,55f33b32,R Rampaul,d68e7f48,MV Boucher,f3cb53a1,0,0,0,0,0,,,,,,0,0,0
+298804,2007/08,South Africa,8,JL Ontong,55f33b32,R Rampaul,d68e7f48,MV Boucher,f3cb53a1,0,0,0,0,0,,,,,,1,0,1
+298804,2007/08,South Africa,8,MV Boucher,f3cb53a1,R Rampaul,d68e7f48,JL Ontong,55f33b32,0,0,0,0,0,,,,,,0,0,0
+298804,2007/08,South Africa,8,MV Boucher,f3cb53a1,R Rampaul,d68e7f48,JL Ontong,55f33b32,0,0,0,0,0,,,,,,0,0,0
+298804,2007/08,South Africa,9,JL Ontong,55f33b32,DJG Sammy,c03c6200,MV Boucher,f3cb53a1,0,0,0,0,0,,,,,,1,0,1
+298804,2007/08,South Africa,9,MV Boucher,f3cb53a1,DJG Sammy,c03c6200,JL Ontong,55f33b32,0,0,0,0,0,,,,,,0,0,0
+298804,2007/08,South Africa,9,MV Boucher,f3cb53a1,DJG Sammy,c03c6200,JL Ontong,55f33b32,0,0,0,0,0,,,,,,1,0,1
+298804,2007/08,South Africa,9,JL Ontong,55f33b32,DJG Sammy,c03c6200,MV Boucher,f3cb53a1,0,0,0,0,0,,,,,,1,0,1
+298804,2007/08,South Africa,9,MV Boucher,f3cb53a1,DJG Sammy,c03c6200,JL Ontong,55f33b32,0,0,0,0,0,,,,,,0,0,0
+298804,2007/08,South Africa,9,MV Boucher,f3cb53a1,DJG Sammy,c03c6200,JL Ontong,55f33b32,0,0,0,0,0,,,,,,0,0,0
+298804,2007/08,South Africa,10,JL Ontong,55f33b32,R Rampaul,d68e7f48,MV Boucher,f3cb53a1,0,0,0,0,0,,,,,,1,0,1
+298804,2007/08,South Africa,10,MV Boucher,f3cb53a1,R Rampaul,d68e7f48,JL Ontong,55f33b32,0,0,1,0,0,,,,,,0,1,1
+298804,2007/08,South Africa,10,JL Ontong,55f33b32,R Rampaul,d68e7f48,MV Boucher,f3cb53a1,0,0,0,0,0,,,,,,0,0,0
+298804,2007/08,South Africa,10,JL Ontong,55f33b32,R Rampaul,d68e7f48,MV Boucher,f3cb53a1,0,0,0,0,0,,,,,,0,0,0
+298804,2007/08,South Africa,10,JL Ontong,55f33b32,R Rampaul,d68e7f48,MV Boucher,f3cb53a1,0,0,0,0,0,,,,,,2,0,2
+298804,2007/08,South Africa,10,JL Ontong,55f33b32,R Rampaul,d68e7f48,MV Boucher,f3cb53a1,0,0,0,0,0,,,,,,0,0,0
+298804,2007/08,South Africa,11,MV Boucher,f3cb53a1,DJG Sammy,c03c6200,JL Ontong,55f33b32,0,0,0,0,0,,,,,,1,0,1
+298804,2007/08,South Africa,11,JL Ontong,55f33b32,DJG Sammy,c03c6200,MV Boucher,f3cb53a1,0,0,0,0,0,,,,,,2,0,2
+298804,2007/08,South Africa,11,JL Ontong,55f33b32,DJG Sammy,c03c6200,MV Boucher,f3cb53a1,0,0,0,0,1,JL Ontong,55f33b32,DJ Bravo,87e562a9,caught,0,0,0
+298804,2007/08,South Africa,11,SM Pollock,88fccd6c,DJG Sammy,c03c6200,MV Boucher,f3cb53a1,0,0,0,0,0,,,,,,0,0,0
+298804,2007/08,South Africa,11,SM Pollock,88fccd6c,DJG Sammy,c03c6200,MV Boucher,f3cb53a1,0,0,0,0,0,,,,,,0,0,0
+298804,2007/08,South Africa,11,SM Pollock,88fccd6c,DJG Sammy,c03c6200,MV Boucher,f3cb53a1,0,0,0,0,0,,,,,,0,0,0
+298804,2007/08,South Africa,12,MV Boucher,f3cb53a1,RN Lewis,69362253,SM Pollock,88fccd6c,0,0,0,0,0,,,,,,1,0,1
+298804,2007/08,South Africa,12,SM Pollock,88fccd6c,RN Lewis,69362253,MV Boucher,f3cb53a1,0,0,0,0,0,,,,,,4,0,4
+298804,2007/08,South Africa,12,SM Pollock,88fccd6c,RN Lewis,69362253,MV Boucher,f3cb53a1,0,0,0,0,0,,,,,,0,0,0
+298804,2007/08,South Africa,12,SM Pollock,88fccd6c,RN Lewis,69362253,MV Boucher,f3cb53a1,0,0,0,0,0,,,,,,2,0,2
+298804,2007/08,South Africa,12,SM Pollock,88fccd6c,RN Lewis,69362253,MV Boucher,f3cb53a1,0,0,0,0,0,,,,,,2,0,2
+298804,2007/08,South Africa,12,SM Pollock,88fccd6c,RN Lewis,69362253,MV Boucher,f3cb53a1,0,0,0,0,0,,,,,,0,0,0
+298804,2007/08,South Africa,13,MV Boucher,f3cb53a1,MN Samuels,f846de6a,SM Pollock,88fccd6c,0,0,0,0,0,,,,,,2,0,2
+298804,2007/08,South Africa,13,MV Boucher,f3cb53a1,MN Samuels,f846de6a,SM Pollock,88fccd6c,0,0,0,0,0,,,,,,0,0,0
+298804,2007/08,South Africa,13,MV Boucher,f3cb53a1,MN Samuels,f846de6a,SM Pollock,88fccd6c,0,0,0,0,0,,,,,,0,0,0
+298804,2007/08,South Africa,13,MV Boucher,f3cb53a1,MN Samuels,f846de6a,SM Pollock,88fccd6c,0,0,0,0,0,,,,,,0,0,0
+298804,2007/08,South Africa,13,MV Boucher,f3cb53a1,MN Samuels,f846de6a,SM Pollock,88fccd6c,0,0,0,0,1,MV Boucher,f3cb53a1,RN Lewis,69362253,caught,0,0,0
+298804,2007/08,South Africa,13,SM Pollock,88fccd6c,MN Samuels,f846de6a,JA Morkel,c3d35165,0,0,0,0,0,,,,,,0,0,0
+298804,2007/08,South Africa,14,JA Morkel,c3d35165,R Rampaul,d68e7f48,SM Pollock,88fccd6c,0,0,0,0,0,,,,,,1,0,1
+298804,2007/08,South Africa,14,SM Pollock,88fccd6c,R Rampaul,d68e7f48,JA Morkel,c3d35165,0,0,0,0,0,,,,,,0,0,0
+298804,2007/08,South Africa,14,SM Pollock,88fccd6c,R Rampaul,d68e7f48,JA Morkel,c3d35165,0,0,0,0,0,,,,,,2,0,2
+298804,2007/08,South Africa,14,SM Pollock,88fccd6c,R Rampaul,d68e7f48,JA Morkel,c3d35165,0,0,0,0,0,,,,,,4,0,4
+298804,2007/08,South Africa,14,SM Pollock,88fccd6c,R Rampaul,d68e7f48,JA Morkel,c3d35165,0,0,0,0,0,,,,,,0,0,0
+298804,2007/08,South Africa,14,SM Pollock,88fccd6c,R Rampaul,d68e7f48,JA Morkel,c3d35165,0,0,0,0,0,,,,,,1,0,1
+298804,2007/08,South Africa,15,SM Pollock,88fccd6c,MN Samuels,f846de6a,JA Morkel,c3d35165,0,0,0,0,0,,,,,,1,0,1
+298804,2007/08,South Africa,15,JA Morkel,c3d35165,MN Samuels,f846de6a,SM Pollock,88fccd6c,0,0,0,0,0,,,,,,1,0,1
+298804,2007/08,South Africa,15,SM Pollock,88fccd6c,MN Samuels,f846de6a,JA Morkel,c3d35165,0,0,0,0,0,,,,,,1,0,1
+298804,2007/08,South Africa,15,JA Morkel,c3d35165,MN Samuels,f846de6a,SM Pollock,88fccd6c,0,0,0,0,0,,,,,,0,0,0
+298804,2007/08,South Africa,15,JA Morkel,c3d35165,MN Samuels,f846de6a,SM Pollock,88fccd6c,0,0,0,0,0,,,,,,1,0,1
+298804,2007/08,South Africa,15,SM Pollock,88fccd6c,MN Samuels,f846de6a,JA Morkel,c3d35165,0,0,0,0,0,,,,,,0,0,0
+298804,2007/08,South Africa,16,JA Morkel,c3d35165,R Rampaul,d68e7f48,SM Pollock,88fccd6c,0,0,0,0,0,,,,,,1,0,1
+298804,2007/08,South Africa,16,SM Pollock,88fccd6c,R Rampaul,d68e7f48,JA Morkel,c3d35165,0,0,0,0,0,,,,,,1,0,1
+298804,2007/08,South Africa,16,JA Morkel,c3d35165,R Rampaul,d68e7f48,SM Pollock,88fccd6c,0,0,0,0,0,,,,,,6,0,6
+298804,2007/08,South Africa,16,JA Morkel,c3d35165,R Rampaul,d68e7f48,SM Pollock,88fccd6c,0,0,0,0,0,,,,,,1,0,1
+298804,2007/08,South Africa,16,SM Pollock,88fccd6c,R Rampaul,d68e7f48,JA Morkel,c3d35165,0,0,0,0,0,,,,,,2,0,2
+298804,2007/08,South Africa,16,SM Pollock,88fccd6c,R Rampaul,d68e7f48,JA Morkel,c3d35165,0,0,0,0,0,,,,,,2,0,2
+298804,2007/08,South Africa,17,JA Morkel,c3d35165,FH Edwards,a7c226e1,SM Pollock,88fccd6c,0,0,0,0,0,,,,,,1,0,1
+298804,2007/08,South Africa,17,SM Pollock,88fccd6c,FH Edwards,a7c226e1,JA Morkel,c3d35165,0,0,0,0,0,,,,,,1,0,1
+298804,2007/08,South Africa,17,JA Morkel,c3d35165,FH Edwards,a7c226e1,SM Pollock,88fccd6c,0,0,0,0,0,,,,,,1,0,1
+298804,2007/08,South Africa,17,SM Pollock,88fccd6c,FH Edwards,a7c226e1,JA Morkel,c3d35165,0,0,1,0,0,,,,,,0,1,1
+298804,2007/08,South Africa,17,JA Morkel,c3d35165,FH Edwards,a7c226e1,SM Pollock,88fccd6c,0,0,0,0,0,,,,,,6,0,6
+298804,2007/08,South Africa,17,JA Morkel,c3d35165,FH Edwards,a7c226e1,SM Pollock,88fccd6c,0,0,0,0,0,,,,,,0,0,0
+298804,2007/08,South Africa,18,SM Pollock,88fccd6c,MN Samuels,f846de6a,JA Morkel,c3d35165,0,0,0,0,0,,,,,,6,0,6
+298804,2007/08,South Africa,18,SM Pollock,88fccd6c,MN Samuels,f846de6a,JA Morkel,c3d35165,0,0,0,0,0,,,,,,6,0,6
+298804,2007/08,South Africa,18,SM Pollock,88fccd6c,MN Samuels,f846de6a,JA Morkel,c3d35165,0,0,0,0,0,,,,,,1,0,1
+298804,2007/08,South Africa,18,JA Morkel,c3d35165,MN Samuels,f846de6a,SM Pollock,88fccd6c,0,0,0,0,0,,,,,,0,0,0
+298804,2007/08,South Africa,18,JA Morkel,c3d35165,MN Samuels,f846de6a,SM Pollock,88fccd6c,0,0,0,0,0,,,,,,4,0,4
+298804,2007/08,South Africa,18,JA Morkel,c3d35165,MN Samuels,f846de6a,SM Pollock,88fccd6c,0,0,0,0,0,,,,,,1,0,1
+298804,2007/08,South Africa,19,JA Morkel,c3d35165,FH Edwards,a7c226e1,SM Pollock,88fccd6c,0,0,0,0,0,,,,,,0,0,0
+298804,2007/08,South Africa,19,JA Morkel,c3d35165,FH Edwards,a7c226e1,SM Pollock,88fccd6c,0,0,0,0,0,,,,,,4,0,4

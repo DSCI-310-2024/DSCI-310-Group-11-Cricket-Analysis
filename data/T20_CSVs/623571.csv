@@ -1,0 +1,249 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+623571,2013,Zimbabwe,0,H Masakadza,31fbf891,Sohag Gazi,5a4c12ab,V Sibanda,0fdabe05,0,0,0,0,0,,,,,,1,0,1
+623571,2013,Zimbabwe,0,V Sibanda,0fdabe05,Sohag Gazi,5a4c12ab,H Masakadza,31fbf891,0,0,0,0,0,,,,,,0,0,0
+623571,2013,Zimbabwe,0,V Sibanda,0fdabe05,Sohag Gazi,5a4c12ab,H Masakadza,31fbf891,0,0,0,0,1,V Sibanda,0fdabe05,Sajedul Islam,0443414a,caught,0,0,0
+623571,2013,Zimbabwe,0,BRM Taylor,53597be1,Sohag Gazi,5a4c12ab,H Masakadza,31fbf891,0,0,0,0,0,,,,,,0,0,0
+623571,2013,Zimbabwe,0,BRM Taylor,53597be1,Sohag Gazi,5a4c12ab,H Masakadza,31fbf891,0,0,0,0,0,,,,,,4,0,4
+623571,2013,Zimbabwe,0,BRM Taylor,53597be1,Sohag Gazi,5a4c12ab,H Masakadza,31fbf891,0,0,0,0,0,,,,,,0,0,0
+623571,2013,Zimbabwe,1,H Masakadza,31fbf891,Shafiul Islam,1a8eebbe,BRM Taylor,53597be1,1,0,0,0,0,,,,,,0,1,1
+623571,2013,Zimbabwe,1,H Masakadza,31fbf891,Shafiul Islam,1a8eebbe,BRM Taylor,53597be1,0,0,0,0,0,,,,,,0,0,0
+623571,2013,Zimbabwe,1,H Masakadza,31fbf891,Shafiul Islam,1a8eebbe,BRM Taylor,53597be1,0,0,0,0,0,,,,,,4,0,4
+623571,2013,Zimbabwe,1,H Masakadza,31fbf891,Shafiul Islam,1a8eebbe,BRM Taylor,53597be1,0,0,0,0,0,,,,,,4,0,4
+623571,2013,Zimbabwe,1,H Masakadza,31fbf891,Shafiul Islam,1a8eebbe,BRM Taylor,53597be1,0,0,0,0,0,,,,,,0,0,0
+623571,2013,Zimbabwe,1,H Masakadza,31fbf891,Shafiul Islam,1a8eebbe,BRM Taylor,53597be1,0,0,0,0,0,,,,,,1,0,1
+623571,2013,Zimbabwe,1,BRM Taylor,53597be1,Shafiul Islam,1a8eebbe,H Masakadza,31fbf891,0,0,0,0,0,,,,,,4,0,4
+623571,2013,Zimbabwe,2,H Masakadza,31fbf891,Sohag Gazi,5a4c12ab,BRM Taylor,53597be1,0,0,0,0,0,,,,,,2,0,2
+623571,2013,Zimbabwe,2,H Masakadza,31fbf891,Sohag Gazi,5a4c12ab,BRM Taylor,53597be1,0,0,0,0,0,,,,,,1,0,1
+623571,2013,Zimbabwe,2,BRM Taylor,53597be1,Sohag Gazi,5a4c12ab,H Masakadza,31fbf891,0,0,0,0,0,,,,,,1,0,1
+623571,2013,Zimbabwe,2,H Masakadza,31fbf891,Sohag Gazi,5a4c12ab,BRM Taylor,53597be1,0,0,0,0,0,,,,,,2,0,2
+623571,2013,Zimbabwe,2,H Masakadza,31fbf891,Sohag Gazi,5a4c12ab,BRM Taylor,53597be1,0,0,0,0,0,,,,,,0,0,0
+623571,2013,Zimbabwe,2,H Masakadza,31fbf891,Sohag Gazi,5a4c12ab,BRM Taylor,53597be1,0,0,0,0,0,,,,,,0,0,0
+623571,2013,Zimbabwe,3,BRM Taylor,53597be1,Abdur Razzak,888e32bf,H Masakadza,31fbf891,0,0,0,0,0,,,,,,1,0,1
+623571,2013,Zimbabwe,3,H Masakadza,31fbf891,Abdur Razzak,888e32bf,BRM Taylor,53597be1,0,0,0,0,0,,,,,,0,0,0
+623571,2013,Zimbabwe,3,H Masakadza,31fbf891,Abdur Razzak,888e32bf,BRM Taylor,53597be1,0,0,0,0,0,,,,,,1,0,1
+623571,2013,Zimbabwe,3,BRM Taylor,53597be1,Abdur Razzak,888e32bf,H Masakadza,31fbf891,0,0,0,0,0,,,,,,1,0,1
+623571,2013,Zimbabwe,3,H Masakadza,31fbf891,Abdur Razzak,888e32bf,BRM Taylor,53597be1,0,0,0,0,0,,,,,,0,0,0
+623571,2013,Zimbabwe,3,H Masakadza,31fbf891,Abdur Razzak,888e32bf,BRM Taylor,53597be1,0,0,0,0,0,,,,,,4,0,4
+623571,2013,Zimbabwe,4,BRM Taylor,53597be1,Sohag Gazi,5a4c12ab,H Masakadza,31fbf891,0,0,0,0,0,,,,,,1,0,1
+623571,2013,Zimbabwe,4,H Masakadza,31fbf891,Sohag Gazi,5a4c12ab,BRM Taylor,53597be1,0,0,0,0,0,,,,,,1,0,1
+623571,2013,Zimbabwe,4,BRM Taylor,53597be1,Sohag Gazi,5a4c12ab,H Masakadza,31fbf891,0,0,0,0,0,,,,,,1,0,1
+623571,2013,Zimbabwe,4,H Masakadza,31fbf891,Sohag Gazi,5a4c12ab,BRM Taylor,53597be1,0,0,0,0,0,,,,,,4,0,4
+623571,2013,Zimbabwe,4,H Masakadza,31fbf891,Sohag Gazi,5a4c12ab,BRM Taylor,53597be1,0,0,0,0,0,,,,,,0,0,0
+623571,2013,Zimbabwe,4,H Masakadza,31fbf891,Sohag Gazi,5a4c12ab,BRM Taylor,53597be1,0,0,0,0,0,,,,,,0,0,0
+623571,2013,Zimbabwe,5,BRM Taylor,53597be1,Abdur Razzak,888e32bf,H Masakadza,31fbf891,0,0,0,0,0,,,,,,0,0,0
+623571,2013,Zimbabwe,5,BRM Taylor,53597be1,Abdur Razzak,888e32bf,H Masakadza,31fbf891,0,0,0,0,0,,,,,,0,0,0
+623571,2013,Zimbabwe,5,BRM Taylor,53597be1,Abdur Razzak,888e32bf,H Masakadza,31fbf891,0,0,0,0,0,,,,,,4,0,4
+623571,2013,Zimbabwe,5,BRM Taylor,53597be1,Abdur Razzak,888e32bf,H Masakadza,31fbf891,0,0,0,0,0,,,,,,4,0,4
+623571,2013,Zimbabwe,5,BRM Taylor,53597be1,Abdur Razzak,888e32bf,H Masakadza,31fbf891,0,0,0,0,0,,,,,,0,0,0
+623571,2013,Zimbabwe,5,BRM Taylor,53597be1,Abdur Razzak,888e32bf,H Masakadza,31fbf891,0,0,0,0,0,,,,,,1,0,1
+623571,2013,Zimbabwe,6,BRM Taylor,53597be1,Shakib Al Hasan,7dc35884,H Masakadza,31fbf891,0,0,0,0,0,,,,,,4,0,4
+623571,2013,Zimbabwe,6,BRM Taylor,53597be1,Shakib Al Hasan,7dc35884,H Masakadza,31fbf891,0,0,0,0,0,,,,,,1,0,1
+623571,2013,Zimbabwe,6,H Masakadza,31fbf891,Shakib Al Hasan,7dc35884,BRM Taylor,53597be1,0,0,0,0,0,,,,,,0,0,0
+623571,2013,Zimbabwe,6,H Masakadza,31fbf891,Shakib Al Hasan,7dc35884,BRM Taylor,53597be1,0,0,0,0,0,,,,,,1,0,1
+623571,2013,Zimbabwe,6,BRM Taylor,53597be1,Shakib Al Hasan,7dc35884,H Masakadza,31fbf891,0,0,0,4,0,,,,,,0,4,4
+623571,2013,Zimbabwe,6,BRM Taylor,53597be1,Shakib Al Hasan,7dc35884,H Masakadza,31fbf891,0,0,0,0,0,,,,,,0,0,0
+623571,2013,Zimbabwe,7,H Masakadza,31fbf891,Sajedul Islam,0443414a,BRM Taylor,53597be1,0,0,0,0,0,,,,,,1,0,1
+623571,2013,Zimbabwe,7,BRM Taylor,53597be1,Sajedul Islam,0443414a,H Masakadza,31fbf891,0,0,0,0,0,,,,,,6,0,6
+623571,2013,Zimbabwe,7,BRM Taylor,53597be1,Sajedul Islam,0443414a,H Masakadza,31fbf891,0,0,0,0,0,,,,,,1,0,1
+623571,2013,Zimbabwe,7,H Masakadza,31fbf891,Sajedul Islam,0443414a,BRM Taylor,53597be1,0,0,0,0,0,,,,,,1,0,1
+623571,2013,Zimbabwe,7,BRM Taylor,53597be1,Sajedul Islam,0443414a,H Masakadza,31fbf891,0,0,0,0,0,,,,,,4,0,4
+623571,2013,Zimbabwe,7,BRM Taylor,53597be1,Sajedul Islam,0443414a,H Masakadza,31fbf891,1,0,0,0,0,,,,,,0,1,1
+623571,2013,Zimbabwe,7,BRM Taylor,53597be1,Sajedul Islam,0443414a,H Masakadza,31fbf891,0,0,0,0,0,,,,,,1,0,1
+623571,2013,Zimbabwe,8,BRM Taylor,53597be1,Shakib Al Hasan,7dc35884,H Masakadza,31fbf891,0,0,0,0,0,,,,,,1,0,1
+623571,2013,Zimbabwe,8,H Masakadza,31fbf891,Shakib Al Hasan,7dc35884,BRM Taylor,53597be1,0,0,0,0,0,,,,,,1,0,1
+623571,2013,Zimbabwe,8,BRM Taylor,53597be1,Shakib Al Hasan,7dc35884,H Masakadza,31fbf891,0,0,0,0,1,BRM Taylor,53597be1,Tamim Iqbal,3b041a12,caught,0,0,0
+623571,2013,Zimbabwe,8,H Masakadza,31fbf891,Shakib Al Hasan,7dc35884,SC Williams,afe57f7a,0,0,0,0,0,,,,,,0,0,0
+623571,2013,Zimbabwe,8,H Masakadza,31fbf891,Shakib Al Hasan,7dc35884,SC Williams,afe57f7a,0,0,0,0,0,,,,,,0,0,0
+623571,2013,Zimbabwe,8,H Masakadza,31fbf891,Shakib Al Hasan,7dc35884,SC Williams,afe57f7a,0,0,0,0,0,,,,,,1,0,1
+623571,2013,Zimbabwe,9,H Masakadza,31fbf891,Mahmudullah,bf1d7d3e,SC Williams,afe57f7a,1,0,0,0,0,,,,,,0,1,1
+623571,2013,Zimbabwe,9,H Masakadza,31fbf891,Mahmudullah,bf1d7d3e,SC Williams,afe57f7a,0,0,0,0,0,,,,,,1,0,1
+623571,2013,Zimbabwe,9,SC Williams,afe57f7a,Mahmudullah,bf1d7d3e,H Masakadza,31fbf891,0,0,0,0,0,,,,,,1,0,1
+623571,2013,Zimbabwe,9,H Masakadza,31fbf891,Mahmudullah,bf1d7d3e,SC Williams,afe57f7a,0,0,0,0,0,,,,,,1,0,1
+623571,2013,Zimbabwe,9,SC Williams,afe57f7a,Mahmudullah,bf1d7d3e,H Masakadza,31fbf891,0,0,0,0,0,,,,,,1,0,1
+623571,2013,Zimbabwe,9,H Masakadza,31fbf891,Mahmudullah,bf1d7d3e,SC Williams,afe57f7a,0,0,0,0,0,,,,,,3,0,3
+623571,2013,Zimbabwe,9,SC Williams,afe57f7a,Mahmudullah,bf1d7d3e,H Masakadza,31fbf891,0,0,0,0,0,,,,,,0,0,0
+623571,2013,Zimbabwe,10,H Masakadza,31fbf891,Shakib Al Hasan,7dc35884,SC Williams,afe57f7a,0,0,0,0,0,,,,,,2,0,2
+623571,2013,Zimbabwe,10,H Masakadza,31fbf891,Shakib Al Hasan,7dc35884,SC Williams,afe57f7a,0,0,0,0,0,,,,,,1,0,1
+623571,2013,Zimbabwe,10,SC Williams,afe57f7a,Shakib Al Hasan,7dc35884,H Masakadza,31fbf891,0,0,0,0,0,,,,,,2,0,2
+623571,2013,Zimbabwe,10,SC Williams,afe57f7a,Shakib Al Hasan,7dc35884,H Masakadza,31fbf891,0,0,0,0,0,,,,,,1,0,1
+623571,2013,Zimbabwe,10,H Masakadza,31fbf891,Shakib Al Hasan,7dc35884,SC Williams,afe57f7a,0,0,0,0,0,,,,,,1,0,1
+623571,2013,Zimbabwe,10,SC Williams,afe57f7a,Shakib Al Hasan,7dc35884,H Masakadza,31fbf891,0,0,0,0,0,,,,,,1,0,1
+623571,2013,Zimbabwe,11,SC Williams,afe57f7a,Mahmudullah,bf1d7d3e,H Masakadza,31fbf891,0,0,0,0,0,,,,,,0,0,0
+623571,2013,Zimbabwe,11,SC Williams,afe57f7a,Mahmudullah,bf1d7d3e,H Masakadza,31fbf891,0,0,0,0,1,SC Williams,afe57f7a,Mushfiqur Rahim,a94e08ea,stumped,0,0,0
+623571,2013,Zimbabwe,11,Sikandar Raza,26d041c4,Mahmudullah,bf1d7d3e,H Masakadza,31fbf891,0,0,0,0,0,,,,,,4,0,4
+623571,2013,Zimbabwe,11,Sikandar Raza,26d041c4,Mahmudullah,bf1d7d3e,H Masakadza,31fbf891,0,0,0,0,0,,,,,,1,0,1
+623571,2013,Zimbabwe,11,H Masakadza,31fbf891,Mahmudullah,bf1d7d3e,Sikandar Raza,26d041c4,0,0,0,0,0,,,,,,1,0,1
+623571,2013,Zimbabwe,11,Sikandar Raza,26d041c4,Mahmudullah,bf1d7d3e,H Masakadza,31fbf891,0,0,0,0,0,,,,,,0,0,0
+623571,2013,Zimbabwe,12,H Masakadza,31fbf891,Sohag Gazi,5a4c12ab,Sikandar Raza,26d041c4,0,0,0,0,0,,,,,,6,0,6
+623571,2013,Zimbabwe,12,H Masakadza,31fbf891,Sohag Gazi,5a4c12ab,Sikandar Raza,26d041c4,0,0,0,0,0,,,,,,1,0,1
+623571,2013,Zimbabwe,12,Sikandar Raza,26d041c4,Sohag Gazi,5a4c12ab,H Masakadza,31fbf891,0,0,0,0,0,,,,,,1,0,1
+623571,2013,Zimbabwe,12,H Masakadza,31fbf891,Sohag Gazi,5a4c12ab,Sikandar Raza,26d041c4,0,0,0,0,0,,,,,,1,0,1
+623571,2013,Zimbabwe,12,Sikandar Raza,26d041c4,Sohag Gazi,5a4c12ab,H Masakadza,31fbf891,0,0,0,0,0,,,,,,0,0,0
+623571,2013,Zimbabwe,12,Sikandar Raza,26d041c4,Sohag Gazi,5a4c12ab,H Masakadza,31fbf891,0,0,0,0,0,,,,,,1,0,1
+623571,2013,Zimbabwe,13,Sikandar Raza,26d041c4,Mahmudullah,bf1d7d3e,H Masakadza,31fbf891,0,0,0,0,0,,,,,,2,0,2
+623571,2013,Zimbabwe,13,Sikandar Raza,26d041c4,Mahmudullah,bf1d7d3e,H Masakadza,31fbf891,0,0,0,0,0,,,,,,1,0,1
+623571,2013,Zimbabwe,13,H Masakadza,31fbf891,Mahmudullah,bf1d7d3e,Sikandar Raza,26d041c4,1,0,0,0,0,,,,,,0,1,1
+623571,2013,Zimbabwe,13,H Masakadza,31fbf891,Mahmudullah,bf1d7d3e,Sikandar Raza,26d041c4,0,0,0,0,0,,,,,,0,0,0
+623571,2013,Zimbabwe,13,H Masakadza,31fbf891,Mahmudullah,bf1d7d3e,Sikandar Raza,26d041c4,0,0,0,0,0,,,,,,1,0,1
+623571,2013,Zimbabwe,13,Sikandar Raza,26d041c4,Mahmudullah,bf1d7d3e,H Masakadza,31fbf891,0,0,0,0,0,,,,,,2,0,2
+623571,2013,Zimbabwe,13,Sikandar Raza,26d041c4,Mahmudullah,bf1d7d3e,H Masakadza,31fbf891,0,0,0,0,0,,,,,,1,0,1
+623571,2013,Zimbabwe,14,Sikandar Raza,26d041c4,Shafiul Islam,1a8eebbe,H Masakadza,31fbf891,0,0,0,0,0,,,,,,1,0,1
+623571,2013,Zimbabwe,14,H Masakadza,31fbf891,Shafiul Islam,1a8eebbe,Sikandar Raza,26d041c4,0,0,0,0,0,,,,,,2,0,2
+623571,2013,Zimbabwe,14,H Masakadza,31fbf891,Shafiul Islam,1a8eebbe,Sikandar Raza,26d041c4,0,0,0,0,0,,,,,,1,0,1
+623571,2013,Zimbabwe,14,Sikandar Raza,26d041c4,Shafiul Islam,1a8eebbe,H Masakadza,31fbf891,0,0,0,0,0,,,,,,0,0,0
+623571,2013,Zimbabwe,14,Sikandar Raza,26d041c4,Shafiul Islam,1a8eebbe,H Masakadza,31fbf891,0,0,0,0,0,,,,,,0,0,0
+623571,2013,Zimbabwe,14,Sikandar Raza,26d041c4,Shafiul Islam,1a8eebbe,H Masakadza,31fbf891,0,0,0,0,1,Sikandar Raza,26d041c4,Shakib Al Hasan,7dc35884,caught,0,0,0
+623571,2013,Zimbabwe,15,MN Waller,ec4dada1,Mahmudullah,bf1d7d3e,H Masakadza,31fbf891,0,0,0,0,0,,,,,,1,0,1
+623571,2013,Zimbabwe,15,H Masakadza,31fbf891,Mahmudullah,bf1d7d3e,MN Waller,ec4dada1,0,0,0,0,0,,,,,,2,0,2
+623571,2013,Zimbabwe,15,H Masakadza,31fbf891,Mahmudullah,bf1d7d3e,MN Waller,ec4dada1,0,0,0,0,0,,,,,,3,0,3
+623571,2013,Zimbabwe,15,MN Waller,ec4dada1,Mahmudullah,bf1d7d3e,H Masakadza,31fbf891,0,0,0,0,0,,,,,,4,0,4
+623571,2013,Zimbabwe,15,MN Waller,ec4dada1,Mahmudullah,bf1d7d3e,H Masakadza,31fbf891,0,0,0,0,0,,,,,,1,0,1
+623571,2013,Zimbabwe,15,H Masakadza,31fbf891,Mahmudullah,bf1d7d3e,MN Waller,ec4dada1,1,0,0,0,0,,,,,,0,1,1
+623571,2013,Zimbabwe,15,H Masakadza,31fbf891,Mahmudullah,bf1d7d3e,MN Waller,ec4dada1,0,0,0,0,0,,,,,,1,0,1
+623571,2013,Zimbabwe,16,H Masakadza,31fbf891,Abdur Razzak,888e32bf,MN Waller,ec4dada1,0,0,0,0,0,,,,,,1,0,1
+623571,2013,Zimbabwe,16,MN Waller,ec4dada1,Abdur Razzak,888e32bf,H Masakadza,31fbf891,0,0,0,0,0,,,,,,0,0,0
+623571,2013,Zimbabwe,16,MN Waller,ec4dada1,Abdur Razzak,888e32bf,H Masakadza,31fbf891,0,0,0,0,0,,,,,,2,0,2
+623571,2013,Zimbabwe,16,MN Waller,ec4dada1,Abdur Razzak,888e32bf,H Masakadza,31fbf891,0,0,0,0,0,,,,,,4,0,4
+623571,2013,Zimbabwe,16,MN Waller,ec4dada1,Abdur Razzak,888e32bf,H Masakadza,31fbf891,0,0,0,0,0,,,,,,1,0,1
+623571,2013,Zimbabwe,16,H Masakadza,31fbf891,Abdur Razzak,888e32bf,MN Waller,ec4dada1,0,0,0,0,0,,,,,,0,0,0
+623571,2013,Zimbabwe,17,MN Waller,ec4dada1,Shakib Al Hasan,7dc35884,H Masakadza,31fbf891,0,0,1,0,0,,,,,,0,1,1
+623571,2013,Zimbabwe,17,H Masakadza,31fbf891,Shakib Al Hasan,7dc35884,MN Waller,ec4dada1,0,0,0,0,0,,,,,,0,0,0
+623571,2013,Zimbabwe,17,H Masakadza,31fbf891,Shakib Al Hasan,7dc35884,MN Waller,ec4dada1,0,0,0,0,1,H Masakadza,31fbf891,Sohag Gazi,5a4c12ab,caught,0,0,0
+623571,2013,Zimbabwe,17,MN Waller,ec4dada1,Shakib Al Hasan,7dc35884,CT Mutombodzi,26f12506,0,0,0,0,0,,,,,,2,0,2
+623571,2013,Zimbabwe,17,MN Waller,ec4dada1,Shakib Al Hasan,7dc35884,CT Mutombodzi,26f12506,0,0,0,0,0,,,,,,1,0,1
+623571,2013,Zimbabwe,17,CT Mutombodzi,26f12506,Shakib Al Hasan,7dc35884,MN Waller,ec4dada1,0,0,1,0,0,,,,,,0,1,1
+623571,2013,Zimbabwe,18,CT Mutombodzi,26f12506,Abdur Razzak,888e32bf,MN Waller,ec4dada1,0,0,0,0,0,,,,,,0,0,0
+623571,2013,Zimbabwe,18,CT Mutombodzi,26f12506,Abdur Razzak,888e32bf,MN Waller,ec4dada1,0,0,0,0,0,,,,,,4,0,4
+623571,2013,Zimbabwe,18,CT Mutombodzi,26f12506,Abdur Razzak,888e32bf,MN Waller,ec4dada1,0,0,0,0,0,,,,,,2,0,2
+623571,2013,Zimbabwe,18,CT Mutombodzi,26f12506,Abdur Razzak,888e32bf,MN Waller,ec4dada1,0,0,0,0,0,,,,,,2,0,2
+623571,2013,Zimbabwe,18,CT Mutombodzi,26f12506,Abdur Razzak,888e32bf,MN Waller,ec4dada1,0,0,0,0,0,,,,,,2,0,2
+623571,2013,Zimbabwe,18,CT Mutombodzi,26f12506,Abdur Razzak,888e32bf,MN Waller,ec4dada1,0,0,0,0,0,,,,,,1,0,1
+623571,2013,Zimbabwe,19,CT Mutombodzi,26f12506,Shafiul Islam,1a8eebbe,MN Waller,ec4dada1,0,0,0,0,0,,,,,,0,0,0
+623571,2013,Zimbabwe,19,CT Mutombodzi,26f12506,Shafiul Islam,1a8eebbe,MN Waller,ec4dada1,0,0,0,0,0,,,,,,1,0,1
+623571,2013,Zimbabwe,19,MN Waller,ec4dada1,Shafiul Islam,1a8eebbe,CT Mutombodzi,26f12506,0,0,0,0,0,,,,,,0,0,0
+623571,2013,Zimbabwe,19,MN Waller,ec4dada1,Shafiul Islam,1a8eebbe,CT Mutombodzi,26f12506,0,0,0,0,0,,,,,,4,0,4
+623571,2013,Zimbabwe,19,MN Waller,ec4dada1,Shafiul Islam,1a8eebbe,CT Mutombodzi,26f12506,0,0,0,0,0,,,,,,0,0,0
+623571,2013,Zimbabwe,19,MN Waller,ec4dada1,Shafiul Islam,1a8eebbe,CT Mutombodzi,26f12506,0,0,0,0,0,,,,,,6,0,6
+623571,2013,Bangladesh,0,Tamim Iqbal,3b041a12,BV Vitori,37137c8b,Shamsur Rahman,02789d88,0,0,0,0,0,,,,,,2,0,2
+623571,2013,Bangladesh,0,Tamim Iqbal,3b041a12,BV Vitori,37137c8b,Shamsur Rahman,02789d88,0,0,0,0,1,Tamim Iqbal,3b041a12,,,bowled,0,0,0
+623571,2013,Bangladesh,0,Shakib Al Hasan,7dc35884,BV Vitori,37137c8b,Shamsur Rahman,02789d88,0,0,0,0,0,,,,,,0,0,0
+623571,2013,Bangladesh,0,Shakib Al Hasan,7dc35884,BV Vitori,37137c8b,Shamsur Rahman,02789d88,0,0,0,0,0,,,,,,1,0,1
+623571,2013,Bangladesh,0,Shamsur Rahman,02789d88,BV Vitori,37137c8b,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+623571,2013,Bangladesh,0,Shamsur Rahman,02789d88,BV Vitori,37137c8b,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+623571,2013,Bangladesh,1,Shakib Al Hasan,7dc35884,TL Chatara,5bbabe59,Shamsur Rahman,02789d88,0,0,0,0,0,,,,,,4,0,4
+623571,2013,Bangladesh,1,Shakib Al Hasan,7dc35884,TL Chatara,5bbabe59,Shamsur Rahman,02789d88,0,0,0,0,0,,,,,,4,0,4
+623571,2013,Bangladesh,1,Shakib Al Hasan,7dc35884,TL Chatara,5bbabe59,Shamsur Rahman,02789d88,0,0,0,0,0,,,,,,1,0,1
+623571,2013,Bangladesh,1,Shamsur Rahman,02789d88,TL Chatara,5bbabe59,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+623571,2013,Bangladesh,1,Shakib Al Hasan,7dc35884,TL Chatara,5bbabe59,Shamsur Rahman,02789d88,0,0,0,0,0,,,,,,0,0,0
+623571,2013,Bangladesh,1,Shakib Al Hasan,7dc35884,TL Chatara,5bbabe59,Shamsur Rahman,02789d88,0,0,0,0,0,,,,,,0,0,0
+623571,2013,Bangladesh,2,Shamsur Rahman,02789d88,BV Vitori,37137c8b,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+623571,2013,Bangladesh,2,Shamsur Rahman,02789d88,BV Vitori,37137c8b,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+623571,2013,Bangladesh,2,Shamsur Rahman,02789d88,BV Vitori,37137c8b,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+623571,2013,Bangladesh,2,Shamsur Rahman,02789d88,BV Vitori,37137c8b,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,4,0,4
+623571,2013,Bangladesh,2,Shamsur Rahman,02789d88,BV Vitori,37137c8b,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+623571,2013,Bangladesh,2,Shakib Al Hasan,7dc35884,BV Vitori,37137c8b,Shamsur Rahman,02789d88,0,0,0,0,0,,,,,,4,0,4
+623571,2013,Bangladesh,3,Shamsur Rahman,02789d88,TL Chatara,5bbabe59,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+623571,2013,Bangladesh,3,Shamsur Rahman,02789d88,TL Chatara,5bbabe59,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+623571,2013,Bangladesh,3,Shakib Al Hasan,7dc35884,TL Chatara,5bbabe59,Shamsur Rahman,02789d88,0,0,0,0,0,,,,,,0,0,0
+623571,2013,Bangladesh,3,Shakib Al Hasan,7dc35884,TL Chatara,5bbabe59,Shamsur Rahman,02789d88,0,0,0,0,0,,,,,,0,0,0
+623571,2013,Bangladesh,3,Shakib Al Hasan,7dc35884,TL Chatara,5bbabe59,Shamsur Rahman,02789d88,0,0,0,0,0,,,,,,4,0,4
+623571,2013,Bangladesh,3,Shakib Al Hasan,7dc35884,TL Chatara,5bbabe59,Shamsur Rahman,02789d88,0,0,0,0,0,,,,,,4,0,4
+623571,2013,Bangladesh,4,Shamsur Rahman,02789d88,P Utseya,9de271ef,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+623571,2013,Bangladesh,4,Shamsur Rahman,02789d88,P Utseya,9de271ef,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+623571,2013,Bangladesh,4,Shamsur Rahman,02789d88,P Utseya,9de271ef,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+623571,2013,Bangladesh,4,Shamsur Rahman,02789d88,P Utseya,9de271ef,Shakib Al Hasan,7dc35884,0,0,0,1,0,,,,,,0,1,1
+623571,2013,Bangladesh,4,Shakib Al Hasan,7dc35884,P Utseya,9de271ef,Shamsur Rahman,02789d88,2,0,0,0,0,,,,,,0,2,2
+623571,2013,Bangladesh,4,Shamsur Rahman,02789d88,P Utseya,9de271ef,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+623571,2013,Bangladesh,4,Shakib Al Hasan,7dc35884,P Utseya,9de271ef,Shamsur Rahman,02789d88,0,0,0,0,0,,,,,,2,0,2
+623571,2013,Bangladesh,5,Shamsur Rahman,02789d88,T Panyangara,3b417422,Shakib Al Hasan,7dc35884,0,1,0,0,0,,,,,,1,1,2
+623571,2013,Bangladesh,5,Shakib Al Hasan,7dc35884,T Panyangara,3b417422,Shamsur Rahman,02789d88,0,0,0,0,0,,,,,,0,0,0
+623571,2013,Bangladesh,5,Shakib Al Hasan,7dc35884,T Panyangara,3b417422,Shamsur Rahman,02789d88,0,0,0,0,0,,,,,,4,0,4
+623571,2013,Bangladesh,5,Shakib Al Hasan,7dc35884,T Panyangara,3b417422,Shamsur Rahman,02789d88,0,0,0,0,0,,,,,,4,0,4
+623571,2013,Bangladesh,5,Shakib Al Hasan,7dc35884,T Panyangara,3b417422,Shamsur Rahman,02789d88,0,0,0,0,0,,,,,,0,0,0
+623571,2013,Bangladesh,5,Shakib Al Hasan,7dc35884,T Panyangara,3b417422,Shamsur Rahman,02789d88,0,0,0,0,0,,,,,,0,0,0
+623571,2013,Bangladesh,5,Shakib Al Hasan,7dc35884,T Panyangara,3b417422,Shamsur Rahman,02789d88,0,0,0,0,0,,,,,,2,0,2
+623571,2013,Bangladesh,6,Shamsur Rahman,02789d88,P Utseya,9de271ef,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+623571,2013,Bangladesh,6,Shakib Al Hasan,7dc35884,P Utseya,9de271ef,Shamsur Rahman,02789d88,0,0,0,0,0,,,,,,0,0,0
+623571,2013,Bangladesh,6,Shakib Al Hasan,7dc35884,P Utseya,9de271ef,Shamsur Rahman,02789d88,0,0,0,0,0,,,,,,1,0,1
+623571,2013,Bangladesh,6,Shamsur Rahman,02789d88,P Utseya,9de271ef,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+623571,2013,Bangladesh,6,Shamsur Rahman,02789d88,P Utseya,9de271ef,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+623571,2013,Bangladesh,6,Shamsur Rahman,02789d88,P Utseya,9de271ef,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+623571,2013,Bangladesh,7,Shamsur Rahman,02789d88,CT Mutombodzi,26f12506,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+623571,2013,Bangladesh,7,Shakib Al Hasan,7dc35884,CT Mutombodzi,26f12506,Shamsur Rahman,02789d88,0,0,0,0,0,,,,,,1,0,1
+623571,2013,Bangladesh,7,Shamsur Rahman,02789d88,CT Mutombodzi,26f12506,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+623571,2013,Bangladesh,7,Shakib Al Hasan,7dc35884,CT Mutombodzi,26f12506,Shamsur Rahman,02789d88,0,0,0,0,0,,,,,,1,0,1
+623571,2013,Bangladesh,7,Shamsur Rahman,02789d88,CT Mutombodzi,26f12506,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+623571,2013,Bangladesh,7,Shakib Al Hasan,7dc35884,CT Mutombodzi,26f12506,Shamsur Rahman,02789d88,0,0,0,0,0,,,,,,1,0,1
+623571,2013,Bangladesh,8,Shakib Al Hasan,7dc35884,P Utseya,9de271ef,Shamsur Rahman,02789d88,0,0,0,0,0,,,,,,1,0,1
+623571,2013,Bangladesh,8,Shamsur Rahman,02789d88,P Utseya,9de271ef,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,6,0,6
+623571,2013,Bangladesh,8,Shamsur Rahman,02789d88,P Utseya,9de271ef,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,2,0,2
+623571,2013,Bangladesh,8,Shamsur Rahman,02789d88,P Utseya,9de271ef,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,4,0,4
+623571,2013,Bangladesh,8,Shamsur Rahman,02789d88,P Utseya,9de271ef,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,4,0,4
+623571,2013,Bangladesh,8,Shamsur Rahman,02789d88,P Utseya,9de271ef,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+623571,2013,Bangladesh,9,Shamsur Rahman,02789d88,CT Mutombodzi,26f12506,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+623571,2013,Bangladesh,9,Shamsur Rahman,02789d88,CT Mutombodzi,26f12506,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+623571,2013,Bangladesh,9,Shamsur Rahman,02789d88,CT Mutombodzi,26f12506,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,4,0,4
+623571,2013,Bangladesh,9,Shamsur Rahman,02789d88,CT Mutombodzi,26f12506,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+623571,2013,Bangladesh,9,Shakib Al Hasan,7dc35884,CT Mutombodzi,26f12506,Shamsur Rahman,02789d88,0,0,0,0,0,,,,,,1,0,1
+623571,2013,Bangladesh,9,Shamsur Rahman,02789d88,CT Mutombodzi,26f12506,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+623571,2013,Bangladesh,10,Shakib Al Hasan,7dc35884,H Masakadza,31fbf891,Shamsur Rahman,02789d88,0,0,0,0,0,,,,,,1,0,1
+623571,2013,Bangladesh,10,Shamsur Rahman,02789d88,H Masakadza,31fbf891,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+623571,2013,Bangladesh,10,Shakib Al Hasan,7dc35884,H Masakadza,31fbf891,Shamsur Rahman,02789d88,0,0,0,0,0,,,,,,1,0,1
+623571,2013,Bangladesh,10,Shamsur Rahman,02789d88,H Masakadza,31fbf891,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+623571,2013,Bangladesh,10,Shamsur Rahman,02789d88,H Masakadza,31fbf891,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,4,0,4
+623571,2013,Bangladesh,10,Shamsur Rahman,02789d88,H Masakadza,31fbf891,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+623571,2013,Bangladesh,11,Shakib Al Hasan,7dc35884,T Panyangara,3b417422,Shamsur Rahman,02789d88,0,0,0,0,0,,,,,,0,0,0
+623571,2013,Bangladesh,11,Shakib Al Hasan,7dc35884,T Panyangara,3b417422,Shamsur Rahman,02789d88,0,0,0,0,0,,,,,,1,0,1
+623571,2013,Bangladesh,11,Shamsur Rahman,02789d88,T Panyangara,3b417422,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,4,0,4
+623571,2013,Bangladesh,11,Shamsur Rahman,02789d88,T Panyangara,3b417422,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+623571,2013,Bangladesh,11,Shakib Al Hasan,7dc35884,T Panyangara,3b417422,Shamsur Rahman,02789d88,0,0,0,0,0,,,,,,4,0,4
+623571,2013,Bangladesh,11,Shakib Al Hasan,7dc35884,T Panyangara,3b417422,Shamsur Rahman,02789d88,0,0,0,0,0,,,,,,0,0,0
+623571,2013,Bangladesh,12,Shamsur Rahman,02789d88,BV Vitori,37137c8b,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+623571,2013,Bangladesh,12,Shakib Al Hasan,7dc35884,BV Vitori,37137c8b,Shamsur Rahman,02789d88,0,0,0,0,0,,,,,,1,0,1
+623571,2013,Bangladesh,12,Shamsur Rahman,02789d88,BV Vitori,37137c8b,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+623571,2013,Bangladesh,12,Shamsur Rahman,02789d88,BV Vitori,37137c8b,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+623571,2013,Bangladesh,12,Shamsur Rahman,02789d88,BV Vitori,37137c8b,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+623571,2013,Bangladesh,12,Shamsur Rahman,02789d88,BV Vitori,37137c8b,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+623571,2013,Bangladesh,13,Shakib Al Hasan,7dc35884,CT Mutombodzi,26f12506,Shamsur Rahman,02789d88,0,0,0,0,0,,,,,,2,0,2
+623571,2013,Bangladesh,13,Shakib Al Hasan,7dc35884,CT Mutombodzi,26f12506,Shamsur Rahman,02789d88,0,0,0,0,0,,,,,,0,0,0
+623571,2013,Bangladesh,13,Shakib Al Hasan,7dc35884,CT Mutombodzi,26f12506,Shamsur Rahman,02789d88,0,0,0,0,0,,,,,,6,0,6
+623571,2013,Bangladesh,13,Shakib Al Hasan,7dc35884,CT Mutombodzi,26f12506,Shamsur Rahman,02789d88,0,0,0,0,0,,,,,,1,0,1
+623571,2013,Bangladesh,13,Shamsur Rahman,02789d88,CT Mutombodzi,26f12506,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+623571,2013,Bangladesh,13,Shakib Al Hasan,7dc35884,CT Mutombodzi,26f12506,Shamsur Rahman,02789d88,0,0,0,0,0,,,,,,6,0,6
+623571,2013,Bangladesh,14,Shamsur Rahman,02789d88,P Utseya,9de271ef,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+623571,2013,Bangladesh,14,Shakib Al Hasan,7dc35884,P Utseya,9de271ef,Shamsur Rahman,02789d88,0,0,0,0,0,,,,,,2,0,2
+623571,2013,Bangladesh,14,Shakib Al Hasan,7dc35884,P Utseya,9de271ef,Shamsur Rahman,02789d88,0,0,0,0,1,Shakib Al Hasan,7dc35884,MN Waller,ec4dada1,caught,0,0,0
+623571,2013,Bangladesh,14,Shamsur Rahman,02789d88,P Utseya,9de271ef,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,4,0,4
+623571,2013,Bangladesh,14,Shamsur Rahman,02789d88,P Utseya,9de271ef,Mushfiqur Rahim,a94e08ea,0,0,0,0,1,Shamsur Rahman,02789d88,BRM Taylor,53597be1,caught,0,0,0
+623571,2013,Bangladesh,14,Mushfiqur Rahim,a94e08ea,P Utseya,9de271ef,Nasir Hossain,6eea0b32,0,0,0,0,0,,,,,,1,0,1
+623571,2013,Bangladesh,15,Mushfiqur Rahim,a94e08ea,CT Mutombodzi,26f12506,Nasir Hossain,6eea0b32,0,0,0,0,1,Nasir Hossain,6eea0b32,Sikandar Raza,26d041c4,run out,1,0,1
+623571,2013,Bangladesh,15,Mushfiqur Rahim,a94e08ea,CT Mutombodzi,26f12506,Mahmudullah,bf1d7d3e,0,0,0,0,0,,,,,,1,0,1
+623571,2013,Bangladesh,15,Mahmudullah,bf1d7d3e,CT Mutombodzi,26f12506,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,1,0,1
+623571,2013,Bangladesh,15,Mushfiqur Rahim,a94e08ea,CT Mutombodzi,26f12506,Mahmudullah,bf1d7d3e,0,0,0,0,0,,,,,,1,0,1
+623571,2013,Bangladesh,15,Mahmudullah,bf1d7d3e,CT Mutombodzi,26f12506,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,1,0,1
+623571,2013,Bangladesh,15,Mushfiqur Rahim,a94e08ea,CT Mutombodzi,26f12506,Mahmudullah,bf1d7d3e,0,0,0,0,1,Mahmudullah,bf1d7d3e,CT Mutombodzi,26f12506,run out,0,0,0
+623571,2013,Bangladesh,16,Mushfiqur Rahim,a94e08ea,TL Chatara,5bbabe59,Ziaur Rahman,c27518d2,0,0,0,0,0,,,,,,3,0,3
+623571,2013,Bangladesh,16,Ziaur Rahman,c27518d2,TL Chatara,5bbabe59,Mushfiqur Rahim,a94e08ea,1,0,0,0,0,,,,,,0,1,1
+623571,2013,Bangladesh,16,Ziaur Rahman,c27518d2,TL Chatara,5bbabe59,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,0,0,0
+623571,2013,Bangladesh,16,Ziaur Rahman,c27518d2,TL Chatara,5bbabe59,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,0,0,0
+623571,2013,Bangladesh,16,Ziaur Rahman,c27518d2,TL Chatara,5bbabe59,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,0,0,0
+623571,2013,Bangladesh,16,Ziaur Rahman,c27518d2,TL Chatara,5bbabe59,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,1,0,1
+623571,2013,Bangladesh,16,Mushfiqur Rahim,a94e08ea,TL Chatara,5bbabe59,Ziaur Rahman,c27518d2,0,0,0,0,0,,,,,,6,0,6
+623571,2013,Bangladesh,17,Ziaur Rahman,c27518d2,T Panyangara,3b417422,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,0,0,0
+623571,2013,Bangladesh,17,Ziaur Rahman,c27518d2,T Panyangara,3b417422,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,1,0,1
+623571,2013,Bangladesh,17,Mushfiqur Rahim,a94e08ea,T Panyangara,3b417422,Ziaur Rahman,c27518d2,0,0,0,0,0,,,,,,1,0,1
+623571,2013,Bangladesh,17,Ziaur Rahman,c27518d2,T Panyangara,3b417422,Mushfiqur Rahim,a94e08ea,0,0,0,0,1,Ziaur Rahman,c27518d2,V Sibanda,0fdabe05,caught,0,0,0
+623571,2013,Bangladesh,17,Mushfiqur Rahim,a94e08ea,T Panyangara,3b417422,Sohag Gazi,5a4c12ab,0,0,0,0,0,,,,,,2,0,2
+623571,2013,Bangladesh,17,Mushfiqur Rahim,a94e08ea,T Panyangara,3b417422,Sohag Gazi,5a4c12ab,0,0,0,0,0,,,,,,4,0,4
+623571,2013,Bangladesh,18,Sohag Gazi,5a4c12ab,BV Vitori,37137c8b,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,1,0,1
+623571,2013,Bangladesh,18,Mushfiqur Rahim,a94e08ea,BV Vitori,37137c8b,Sohag Gazi,5a4c12ab,0,0,0,0,0,,,,,,6,0,6
+623571,2013,Bangladesh,18,Mushfiqur Rahim,a94e08ea,BV Vitori,37137c8b,Sohag Gazi,5a4c12ab,0,0,0,0,0,,,,,,1,0,1
+623571,2013,Bangladesh,18,Sohag Gazi,5a4c12ab,BV Vitori,37137c8b,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,0,0,0
+623571,2013,Bangladesh,18,Sohag Gazi,5a4c12ab,BV Vitori,37137c8b,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,1,0,1
+623571,2013,Bangladesh,18,Mushfiqur Rahim,a94e08ea,BV Vitori,37137c8b,Sohag Gazi,5a4c12ab,0,0,0,0,0,,,,,,1,0,1
+623571,2013,Bangladesh,19,Mushfiqur Rahim,a94e08ea,T Panyangara,3b417422,Sohag Gazi,5a4c12ab,0,0,0,0,1,Mushfiqur Rahim,a94e08ea,SC Williams,afe57f7a,caught,0,0,0
+623571,2013,Bangladesh,19,Sohag Gazi,5a4c12ab,T Panyangara,3b417422,Abdur Razzak,888e32bf,0,0,1,0,0,,,,,,0,1,1
+623571,2013,Bangladesh,19,Abdur Razzak,888e32bf,T Panyangara,3b417422,Sohag Gazi,5a4c12ab,0,0,0,0,0,,,,,,0,0,0
+623571,2013,Bangladesh,19,Abdur Razzak,888e32bf,T Panyangara,3b417422,Sohag Gazi,5a4c12ab,0,0,0,0,0,,,,,,2,0,2
+623571,2013,Bangladesh,19,Abdur Razzak,888e32bf,T Panyangara,3b417422,Sohag Gazi,5a4c12ab,0,0,0,0,0,,,,,,0,0,0
+623571,2013,Bangladesh,19,Abdur Razzak,888e32bf,T Panyangara,3b417422,Sohag Gazi,5a4c12ab,0,0,0,0,1,Abdur Razzak,888e32bf,,,lbw,0,0,0

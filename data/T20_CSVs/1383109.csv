@@ -1,0 +1,243 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1383109,2023,Myanmar,0,KK Lin Thu,6cf75582,Tian Sen Qun,3883402f,Pyae Phyo Wai,09e86895,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,Myanmar,0,KK Lin Thu,6cf75582,Tian Sen Qun,3883402f,Pyae Phyo Wai,09e86895,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,Myanmar,0,KK Lin Thu,6cf75582,Tian Sen Qun,3883402f,Pyae Phyo Wai,09e86895,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,Myanmar,0,KK Lin Thu,6cf75582,Tian Sen Qun,3883402f,Pyae Phyo Wai,09e86895,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,Myanmar,0,KK Lin Thu,6cf75582,Tian Sen Qun,3883402f,Pyae Phyo Wai,09e86895,0,0,0,0,0,,,,,,1,0,1
+1383109,2023,Myanmar,0,Pyae Phyo Wai,09e86895,Tian Sen Qun,3883402f,KK Lin Thu,6cf75582,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,Myanmar,1,KK Lin Thu,6cf75582,Wang Qi,12c9c558,Pyae Phyo Wai,09e86895,0,0,0,0,0,,,,,,2,0,2
+1383109,2023,Myanmar,1,KK Lin Thu,6cf75582,Wang Qi,12c9c558,Pyae Phyo Wai,09e86895,0,0,0,0,1,KK Lin Thu,6cf75582,,,lbw,0,0,0
+1383109,2023,Myanmar,1,Khin Aye,ad2efd29,Wang Qi,12c9c558,Pyae Phyo Wai,09e86895,1,0,0,0,0,,,,,,0,1,1
+1383109,2023,Myanmar,1,Khin Aye,ad2efd29,Wang Qi,12c9c558,Pyae Phyo Wai,09e86895,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,Myanmar,1,Khin Aye,ad2efd29,Wang Qi,12c9c558,Pyae Phyo Wai,09e86895,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,Myanmar,1,Khin Aye,ad2efd29,Wang Qi,12c9c558,Pyae Phyo Wai,09e86895,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,Myanmar,1,Khin Aye,ad2efd29,Wang Qi,12c9c558,Pyae Phyo Wai,09e86895,1,0,0,0,0,,,,,,0,1,1
+1383109,2023,Myanmar,1,Khin Aye,ad2efd29,Wang Qi,12c9c558,Pyae Phyo Wai,09e86895,0,0,0,0,1,Khin Aye,ad2efd29,,,bowled,0,0,0
+1383109,2023,Myanmar,2,Pyae Phyo Wai,09e86895,Tian Sen Qun,3883402f,Thuya Aung,2e092d2c,1,0,0,0,0,,,,,,0,1,1
+1383109,2023,Myanmar,2,Pyae Phyo Wai,09e86895,Tian Sen Qun,3883402f,Thuya Aung,2e092d2c,0,1,0,0,0,,,,,,0,1,1
+1383109,2023,Myanmar,2,Pyae Phyo Wai,09e86895,Tian Sen Qun,3883402f,Thuya Aung,2e092d2c,0,0,0,0,0,,,,,,2,0,2
+1383109,2023,Myanmar,2,Pyae Phyo Wai,09e86895,Tian Sen Qun,3883402f,Thuya Aung,2e092d2c,0,0,0,0,0,,,,,,1,0,1
+1383109,2023,Myanmar,2,Thuya Aung,2e092d2c,Tian Sen Qun,3883402f,Pyae Phyo Wai,09e86895,0,0,0,0,0,,,,,,1,0,1
+1383109,2023,Myanmar,2,Pyae Phyo Wai,09e86895,Tian Sen Qun,3883402f,Thuya Aung,2e092d2c,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,Myanmar,2,Pyae Phyo Wai,09e86895,Tian Sen Qun,3883402f,Thuya Aung,2e092d2c,0,0,0,0,0,,,,,,2,0,2
+1383109,2023,Myanmar,2,Pyae Phyo Wai,09e86895,Tian Sen Qun,3883402f,Thuya Aung,2e092d2c,0,0,0,0,0,,,,,,1,0,1
+1383109,2023,Myanmar,3,Pyae Phyo Wai,09e86895,Wang Qi,12c9c558,Thuya Aung,2e092d2c,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,Myanmar,3,Pyae Phyo Wai,09e86895,Wang Qi,12c9c558,Thuya Aung,2e092d2c,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,Myanmar,3,Pyae Phyo Wai,09e86895,Wang Qi,12c9c558,Thuya Aung,2e092d2c,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,Myanmar,3,Pyae Phyo Wai,09e86895,Wang Qi,12c9c558,Thuya Aung,2e092d2c,0,0,0,0,0,,,,,,2,0,2
+1383109,2023,Myanmar,3,Pyae Phyo Wai,09e86895,Wang Qi,12c9c558,Thuya Aung,2e092d2c,0,0,0,0,0,,,,,,1,0,1
+1383109,2023,Myanmar,3,Thuya Aung,2e092d2c,Wang Qi,12c9c558,Pyae Phyo Wai,09e86895,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,Myanmar,4,Pyae Phyo Wai,09e86895,Ma Qiancheng,91cc319d,Thuya Aung,2e092d2c,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,Myanmar,4,Pyae Phyo Wai,09e86895,Ma Qiancheng,91cc319d,Thuya Aung,2e092d2c,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,Myanmar,4,Pyae Phyo Wai,09e86895,Ma Qiancheng,91cc319d,Thuya Aung,2e092d2c,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,Myanmar,4,Pyae Phyo Wai,09e86895,Ma Qiancheng,91cc319d,Thuya Aung,2e092d2c,1,0,0,0,0,,,,,,0,1,1
+1383109,2023,Myanmar,4,Pyae Phyo Wai,09e86895,Ma Qiancheng,91cc319d,Thuya Aung,2e092d2c,0,0,0,0,0,,,,,,1,0,1
+1383109,2023,Myanmar,4,Thuya Aung,2e092d2c,Ma Qiancheng,91cc319d,Pyae Phyo Wai,09e86895,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,Myanmar,4,Thuya Aung,2e092d2c,Ma Qiancheng,91cc319d,Pyae Phyo Wai,09e86895,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,Myanmar,5,Pyae Phyo Wai,09e86895,Wang Qi,12c9c558,Thuya Aung,2e092d2c,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,Myanmar,5,Pyae Phyo Wai,09e86895,Wang Qi,12c9c558,Thuya Aung,2e092d2c,0,0,0,0,0,,,,,,4,0,4
+1383109,2023,Myanmar,5,Pyae Phyo Wai,09e86895,Wang Qi,12c9c558,Thuya Aung,2e092d2c,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,Myanmar,5,Pyae Phyo Wai,09e86895,Wang Qi,12c9c558,Thuya Aung,2e092d2c,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,Myanmar,5,Pyae Phyo Wai,09e86895,Wang Qi,12c9c558,Thuya Aung,2e092d2c,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,Myanmar,5,Pyae Phyo Wai,09e86895,Wang Qi,12c9c558,Thuya Aung,2e092d2c,0,0,0,0,0,,,,,,1,0,1
+1383109,2023,Myanmar,6,Pyae Phyo Wai,09e86895,Ma Qiancheng,91cc319d,Thuya Aung,2e092d2c,0,0,0,0,0,,,,,,2,0,2
+1383109,2023,Myanmar,6,Pyae Phyo Wai,09e86895,Ma Qiancheng,91cc319d,Thuya Aung,2e092d2c,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,Myanmar,6,Pyae Phyo Wai,09e86895,Ma Qiancheng,91cc319d,Thuya Aung,2e092d2c,0,0,0,0,1,Pyae Phyo Wai,09e86895,,,bowled,0,0,0
+1383109,2023,Myanmar,6,Y Naing Tun,97b109d2,Ma Qiancheng,91cc319d,Thuya Aung,2e092d2c,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,Myanmar,6,Y Naing Tun,97b109d2,Ma Qiancheng,91cc319d,Thuya Aung,2e092d2c,0,0,0,0,0,,,,,,1,0,1
+1383109,2023,Myanmar,6,Thuya Aung,2e092d2c,Ma Qiancheng,91cc319d,Y Naing Tun,97b109d2,0,0,0,0,0,,,,,,1,0,1
+1383109,2023,Myanmar,7,Thuya Aung,2e092d2c,Luo Shilin,c251b048,Y Naing Tun,97b109d2,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,Myanmar,7,Thuya Aung,2e092d2c,Luo Shilin,c251b048,Y Naing Tun,97b109d2,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,Myanmar,7,Thuya Aung,2e092d2c,Luo Shilin,c251b048,Y Naing Tun,97b109d2,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,Myanmar,7,Thuya Aung,2e092d2c,Luo Shilin,c251b048,Y Naing Tun,97b109d2,0,0,0,0,0,,,,,,1,0,1
+1383109,2023,Myanmar,7,Y Naing Tun,97b109d2,Luo Shilin,c251b048,Thuya Aung,2e092d2c,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,Myanmar,7,Y Naing Tun,97b109d2,Luo Shilin,c251b048,Thuya Aung,2e092d2c,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,Myanmar,8,Thuya Aung,2e092d2c,Ma Qiancheng,91cc319d,Y Naing Tun,97b109d2,0,0,0,0,0,,,,,,1,0,1
+1383109,2023,Myanmar,8,Y Naing Tun,97b109d2,Ma Qiancheng,91cc319d,Thuya Aung,2e092d2c,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,Myanmar,8,Y Naing Tun,97b109d2,Ma Qiancheng,91cc319d,Thuya Aung,2e092d2c,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,Myanmar,8,Y Naing Tun,97b109d2,Ma Qiancheng,91cc319d,Thuya Aung,2e092d2c,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,Myanmar,8,Y Naing Tun,97b109d2,Ma Qiancheng,91cc319d,Thuya Aung,2e092d2c,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,Myanmar,8,Y Naing Tun,97b109d2,Ma Qiancheng,91cc319d,Thuya Aung,2e092d2c,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,Myanmar,9,Thuya Aung,2e092d2c,Luo Shilin,c251b048,Y Naing Tun,97b109d2,0,0,0,0,1,Thuya Aung,2e092d2c,,,bowled,0,0,0
+1383109,2023,Myanmar,9,Swann Htet Ko Ko,9ee21ee4,Luo Shilin,c251b048,Y Naing Tun,97b109d2,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,Myanmar,9,Swann Htet Ko Ko,9ee21ee4,Luo Shilin,c251b048,Y Naing Tun,97b109d2,0,0,0,0,0,,,,,,1,0,1
+1383109,2023,Myanmar,9,Y Naing Tun,97b109d2,Luo Shilin,c251b048,Swann Htet Ko Ko,9ee21ee4,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,Myanmar,9,Y Naing Tun,97b109d2,Luo Shilin,c251b048,Swann Htet Ko Ko,9ee21ee4,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,Myanmar,9,Y Naing Tun,97b109d2,Luo Shilin,c251b048,Swann Htet Ko Ko,9ee21ee4,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,Myanmar,10,Swann Htet Ko Ko,9ee21ee4,Tian Sen Qun,3883402f,Y Naing Tun,97b109d2,0,0,0,0,0,,,,,,1,0,1
+1383109,2023,Myanmar,10,Y Naing Tun,97b109d2,Tian Sen Qun,3883402f,Swann Htet Ko Ko,9ee21ee4,0,0,0,0,0,,,,,,1,0,1
+1383109,2023,Myanmar,10,Swann Htet Ko Ko,9ee21ee4,Tian Sen Qun,3883402f,Y Naing Tun,97b109d2,0,0,0,0,0,,,,,,2,0,2
+1383109,2023,Myanmar,10,Swann Htet Ko Ko,9ee21ee4,Tian Sen Qun,3883402f,Y Naing Tun,97b109d2,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,Myanmar,10,Swann Htet Ko Ko,9ee21ee4,Tian Sen Qun,3883402f,Y Naing Tun,97b109d2,0,0,0,0,0,,,,,,1,0,1
+1383109,2023,Myanmar,10,Y Naing Tun,97b109d2,Tian Sen Qun,3883402f,Swann Htet Ko Ko,9ee21ee4,1,0,0,0,0,,,,,,0,1,1
+1383109,2023,Myanmar,10,Y Naing Tun,97b109d2,Tian Sen Qun,3883402f,Swann Htet Ko Ko,9ee21ee4,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,Myanmar,11,Swann Htet Ko Ko,9ee21ee4,Luo Shilin,c251b048,Y Naing Tun,97b109d2,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,Myanmar,11,Swann Htet Ko Ko,9ee21ee4,Luo Shilin,c251b048,Y Naing Tun,97b109d2,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,Myanmar,11,Swann Htet Ko Ko,9ee21ee4,Luo Shilin,c251b048,Y Naing Tun,97b109d2,0,0,0,0,0,,,,,,1,0,1
+1383109,2023,Myanmar,11,Y Naing Tun,97b109d2,Luo Shilin,c251b048,Swann Htet Ko Ko,9ee21ee4,0,0,0,0,0,,,,,,6,0,6
+1383109,2023,Myanmar,11,Y Naing Tun,97b109d2,Luo Shilin,c251b048,Swann Htet Ko Ko,9ee21ee4,0,0,0,0,0,,,,,,1,0,1
+1383109,2023,Myanmar,11,Swann Htet Ko Ko,9ee21ee4,Luo Shilin,c251b048,Y Naing Tun,97b109d2,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,Myanmar,12,Y Naing Tun,97b109d2,Yin Chenhao,68408eff,Swann Htet Ko Ko,9ee21ee4,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,Myanmar,12,Y Naing Tun,97b109d2,Yin Chenhao,68408eff,Swann Htet Ko Ko,9ee21ee4,1,0,0,0,0,,,,,,0,1,1
+1383109,2023,Myanmar,12,Y Naing Tun,97b109d2,Yin Chenhao,68408eff,Swann Htet Ko Ko,9ee21ee4,1,0,0,0,0,,,,,,0,1,1
+1383109,2023,Myanmar,12,Y Naing Tun,97b109d2,Yin Chenhao,68408eff,Swann Htet Ko Ko,9ee21ee4,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,Myanmar,12,Y Naing Tun,97b109d2,Yin Chenhao,68408eff,Swann Htet Ko Ko,9ee21ee4,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,Myanmar,12,Y Naing Tun,97b109d2,Yin Chenhao,68408eff,Swann Htet Ko Ko,9ee21ee4,0,0,0,0,0,,,,,,1,0,1
+1383109,2023,Myanmar,12,Swann Htet Ko Ko,9ee21ee4,Yin Chenhao,68408eff,Y Naing Tun,97b109d2,0,0,0,0,0,,,,,,1,0,1
+1383109,2023,Myanmar,12,Y Naing Tun,97b109d2,Yin Chenhao,68408eff,Swann Htet Ko Ko,9ee21ee4,0,0,0,0,0,,,,,,1,0,1
+1383109,2023,Myanmar,13,Y Naing Tun,97b109d2,Chen Zhuo Yue,47b33198,Swann Htet Ko Ko,9ee21ee4,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,Myanmar,13,Y Naing Tun,97b109d2,Chen Zhuo Yue,47b33198,Swann Htet Ko Ko,9ee21ee4,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,Myanmar,13,Y Naing Tun,97b109d2,Chen Zhuo Yue,47b33198,Swann Htet Ko Ko,9ee21ee4,0,0,0,0,0,,,,,,1,0,1
+1383109,2023,Myanmar,13,Swann Htet Ko Ko,9ee21ee4,Chen Zhuo Yue,47b33198,Y Naing Tun,97b109d2,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,Myanmar,13,Swann Htet Ko Ko,9ee21ee4,Chen Zhuo Yue,47b33198,Y Naing Tun,97b109d2,0,0,0,0,0,,,,,,1,0,1
+1383109,2023,Myanmar,13,Y Naing Tun,97b109d2,Chen Zhuo Yue,47b33198,Swann Htet Ko Ko,9ee21ee4,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,Myanmar,14,Swann Htet Ko Ko,9ee21ee4,Tian Sen Qun,3883402f,Y Naing Tun,97b109d2,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,Myanmar,14,Swann Htet Ko Ko,9ee21ee4,Tian Sen Qun,3883402f,Y Naing Tun,97b109d2,0,0,0,0,0,,,,,,1,0,1
+1383109,2023,Myanmar,14,Y Naing Tun,97b109d2,Tian Sen Qun,3883402f,Swann Htet Ko Ko,9ee21ee4,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,Myanmar,14,Y Naing Tun,97b109d2,Tian Sen Qun,3883402f,Swann Htet Ko Ko,9ee21ee4,0,0,0,0,0,,,,,,1,0,1
+1383109,2023,Myanmar,14,Swann Htet Ko Ko,9ee21ee4,Tian Sen Qun,3883402f,Y Naing Tun,97b109d2,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,Myanmar,14,Swann Htet Ko Ko,9ee21ee4,Tian Sen Qun,3883402f,Y Naing Tun,97b109d2,0,0,0,0,0,,,,,,1,0,1
+1383109,2023,Myanmar,15,Swann Htet Ko Ko,9ee21ee4,Chen Zhuo Yue,47b33198,Y Naing Tun,97b109d2,0,0,0,0,0,,,,,,1,0,1
+1383109,2023,Myanmar,15,Y Naing Tun,97b109d2,Chen Zhuo Yue,47b33198,Swann Htet Ko Ko,9ee21ee4,0,0,0,0,0,,,,,,1,0,1
+1383109,2023,Myanmar,15,Swann Htet Ko Ko,9ee21ee4,Chen Zhuo Yue,47b33198,Y Naing Tun,97b109d2,0,0,0,0,1,Swann Htet Ko Ko,9ee21ee4,Wang Liuyang,f3c217a9,stumped,0,0,0
+1383109,2023,Myanmar,15,H Lin Aung,c343a8c6,Chen Zhuo Yue,47b33198,Y Naing Tun,97b109d2,0,0,0,0,0,,,,,,1,0,1
+1383109,2023,Myanmar,15,Y Naing Tun,97b109d2,Chen Zhuo Yue,47b33198,H Lin Aung,c343a8c6,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,Myanmar,15,Y Naing Tun,97b109d2,Chen Zhuo Yue,47b33198,H Lin Aung,c343a8c6,0,0,0,0,0,,,,,,1,0,1
+1383109,2023,Myanmar,16,Y Naing Tun,97b109d2,Ma Qiancheng,91cc319d,H Lin Aung,c343a8c6,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,Myanmar,16,Y Naing Tun,97b109d2,Ma Qiancheng,91cc319d,H Lin Aung,c343a8c6,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,Myanmar,16,Y Naing Tun,97b109d2,Ma Qiancheng,91cc319d,H Lin Aung,c343a8c6,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,Myanmar,16,Y Naing Tun,97b109d2,Ma Qiancheng,91cc319d,H Lin Aung,c343a8c6,1,0,0,0,0,,,,,,0,1,1
+1383109,2023,Myanmar,16,Y Naing Tun,97b109d2,Ma Qiancheng,91cc319d,H Lin Aung,c343a8c6,0,0,0,0,0,,,,,,1,0,1
+1383109,2023,Myanmar,16,H Lin Aung,c343a8c6,Ma Qiancheng,91cc319d,Y Naing Tun,97b109d2,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,Myanmar,16,H Lin Aung,c343a8c6,Ma Qiancheng,91cc319d,Y Naing Tun,97b109d2,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,Myanmar,17,Y Naing Tun,97b109d2,Chen Zhuo Yue,47b33198,H Lin Aung,c343a8c6,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,Myanmar,17,Y Naing Tun,97b109d2,Chen Zhuo Yue,47b33198,H Lin Aung,c343a8c6,0,0,0,0,0,,,,,,1,0,1
+1383109,2023,Myanmar,17,H Lin Aung,c343a8c6,Chen Zhuo Yue,47b33198,Y Naing Tun,97b109d2,0,0,0,0,0,,,,,,1,0,1
+1383109,2023,Myanmar,17,Y Naing Tun,97b109d2,Chen Zhuo Yue,47b33198,H Lin Aung,c343a8c6,0,0,0,0,1,Y Naing Tun,97b109d2,Wang Liuyang,f3c217a9,stumped,0,0,0
+1383109,2023,Myanmar,17,Paing Danu,1eb5affb,Chen Zhuo Yue,47b33198,H Lin Aung,c343a8c6,0,0,0,0,0,,,,,,1,0,1
+1383109,2023,Myanmar,17,H Lin Aung,c343a8c6,Chen Zhuo Yue,47b33198,Paing Danu,1eb5affb,0,0,0,0,0,,,,,,1,0,1
+1383109,2023,Myanmar,18,H Lin Aung,c343a8c6,Wang Qi,12c9c558,Paing Danu,1eb5affb,0,0,0,0,0,,,,,,2,0,2
+1383109,2023,Myanmar,18,H Lin Aung,c343a8c6,Wang Qi,12c9c558,Paing Danu,1eb5affb,0,0,0,0,0,,,,,,1,0,1
+1383109,2023,Myanmar,18,Paing Danu,1eb5affb,Wang Qi,12c9c558,H Lin Aung,c343a8c6,0,0,0,0,0,,,,,,1,0,1
+1383109,2023,Myanmar,18,H Lin Aung,c343a8c6,Wang Qi,12c9c558,Paing Danu,1eb5affb,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,Myanmar,18,H Lin Aung,c343a8c6,Wang Qi,12c9c558,Paing Danu,1eb5affb,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,Myanmar,18,H Lin Aung,c343a8c6,Wang Qi,12c9c558,Paing Danu,1eb5affb,1,0,0,0,0,,,,,,0,1,1
+1383109,2023,Myanmar,18,H Lin Aung,c343a8c6,Wang Qi,12c9c558,Paing Danu,1eb5affb,0,0,0,0,0,,,,,,1,0,1
+1383109,2023,Myanmar,19,H Lin Aung,c343a8c6,Chen Zhuo Yue,47b33198,Paing Danu,1eb5affb,0,0,0,0,0,,,,,,1,0,1
+1383109,2023,Myanmar,19,Paing Danu,1eb5affb,Chen Zhuo Yue,47b33198,H Lin Aung,c343a8c6,0,0,0,0,1,Paing Danu,1eb5affb,Zhuang Zelin,a03ee6e1,caught,0,0,0
+1383109,2023,Myanmar,19,Nyeing Cham Soe,45b5ce8d,Chen Zhuo Yue,47b33198,H Lin Aung,c343a8c6,0,0,0,0,0,,,,,,1,0,1
+1383109,2023,Myanmar,19,H Lin Aung,c343a8c6,Chen Zhuo Yue,47b33198,Nyeing Cham Soe,45b5ce8d,0,0,0,0,1,H Lin Aung,c343a8c6,Wang Liuyang,f3c217a9,stumped,0,0,0
+1383109,2023,Myanmar,19,H Lin Oo,2e005bfd,Chen Zhuo Yue,47b33198,Nyeing Cham Soe,45b5ce8d,0,0,0,0,0,,,,,,2,0,2
+1383109,2023,Myanmar,19,H Lin Oo,2e005bfd,Chen Zhuo Yue,47b33198,Nyeing Cham Soe,45b5ce8d,0,0,0,0,0,,,,,,2,0,2
+1383109,2023,China,0,Wei Guo Lei,87c93848,Paing Danu,1eb5affb,Zhuang Zelin,a03ee6e1,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,China,0,Wei Guo Lei,87c93848,Paing Danu,1eb5affb,Zhuang Zelin,a03ee6e1,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,China,0,Wei Guo Lei,87c93848,Paing Danu,1eb5affb,Zhuang Zelin,a03ee6e1,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,China,0,Wei Guo Lei,87c93848,Paing Danu,1eb5affb,Zhuang Zelin,a03ee6e1,0,0,0,0,1,Wei Guo Lei,87c93848,,,lbw,0,0,0
+1383109,2023,China,0,Xie Kunkun,1ebfbbe4,Paing Danu,1eb5affb,Zhuang Zelin,a03ee6e1,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,China,0,Xie Kunkun,1ebfbbe4,Paing Danu,1eb5affb,Zhuang Zelin,a03ee6e1,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,China,1,Zhuang Zelin,a03ee6e1,H Lin Oo,2e005bfd,Xie Kunkun,1ebfbbe4,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,China,1,Zhuang Zelin,a03ee6e1,H Lin Oo,2e005bfd,Xie Kunkun,1ebfbbe4,0,0,0,0,0,,,,,,1,0,1
+1383109,2023,China,1,Xie Kunkun,1ebfbbe4,H Lin Oo,2e005bfd,Zhuang Zelin,a03ee6e1,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,China,1,Xie Kunkun,1ebfbbe4,H Lin Oo,2e005bfd,Zhuang Zelin,a03ee6e1,0,0,0,0,0,,,,,,1,0,1
+1383109,2023,China,1,Zhuang Zelin,a03ee6e1,H Lin Oo,2e005bfd,Xie Kunkun,1ebfbbe4,0,0,0,0,0,,,,,,1,0,1
+1383109,2023,China,1,Xie Kunkun,1ebfbbe4,H Lin Oo,2e005bfd,Zhuang Zelin,a03ee6e1,1,0,0,0,0,,,,,,0,1,1
+1383109,2023,China,1,Xie Kunkun,1ebfbbe4,H Lin Oo,2e005bfd,Zhuang Zelin,a03ee6e1,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,China,2,Zhuang Zelin,a03ee6e1,Paing Danu,1eb5affb,Xie Kunkun,1ebfbbe4,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,China,2,Zhuang Zelin,a03ee6e1,Paing Danu,1eb5affb,Xie Kunkun,1ebfbbe4,1,0,0,0,0,,,,,,0,1,1
+1383109,2023,China,2,Zhuang Zelin,a03ee6e1,Paing Danu,1eb5affb,Xie Kunkun,1ebfbbe4,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,China,2,Zhuang Zelin,a03ee6e1,Paing Danu,1eb5affb,Xie Kunkun,1ebfbbe4,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,China,2,Zhuang Zelin,a03ee6e1,Paing Danu,1eb5affb,Xie Kunkun,1ebfbbe4,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,China,2,Zhuang Zelin,a03ee6e1,Paing Danu,1eb5affb,Xie Kunkun,1ebfbbe4,0,0,0,0,0,,,,,,1,0,1
+1383109,2023,China,2,Xie Kunkun,1ebfbbe4,Paing Danu,1eb5affb,Zhuang Zelin,a03ee6e1,0,0,1,0,0,,,,,,0,1,1
+1383109,2023,China,3,Xie Kunkun,1ebfbbe4,H Lin Oo,2e005bfd,Zhuang Zelin,a03ee6e1,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,China,3,Xie Kunkun,1ebfbbe4,H Lin Oo,2e005bfd,Zhuang Zelin,a03ee6e1,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,China,3,Xie Kunkun,1ebfbbe4,H Lin Oo,2e005bfd,Zhuang Zelin,a03ee6e1,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,China,3,Xie Kunkun,1ebfbbe4,H Lin Oo,2e005bfd,Zhuang Zelin,a03ee6e1,1,0,0,0,0,,,,,,0,1,1
+1383109,2023,China,3,Xie Kunkun,1ebfbbe4,H Lin Oo,2e005bfd,Zhuang Zelin,a03ee6e1,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,China,3,Xie Kunkun,1ebfbbe4,H Lin Oo,2e005bfd,Zhuang Zelin,a03ee6e1,0,0,0,0,0,,,,,,1,0,1
+1383109,2023,China,3,Zhuang Zelin,a03ee6e1,H Lin Oo,2e005bfd,Xie Kunkun,1ebfbbe4,0,0,0,0,0,,,,,,4,0,4
+1383109,2023,China,4,Xie Kunkun,1ebfbbe4,Paing Danu,1eb5affb,Zhuang Zelin,a03ee6e1,0,0,0,0,1,Xie Kunkun,1ebfbbe4,,,bowled,0,0,0
+1383109,2023,China,4,Wang Liuyang,f3c217a9,Paing Danu,1eb5affb,Zhuang Zelin,a03ee6e1,0,0,0,0,0,,,,,,1,0,1
+1383109,2023,China,4,Zhuang Zelin,a03ee6e1,Paing Danu,1eb5affb,Wang Liuyang,f3c217a9,1,0,0,0,0,,,,,,0,1,1
+1383109,2023,China,4,Zhuang Zelin,a03ee6e1,Paing Danu,1eb5affb,Wang Liuyang,f3c217a9,1,0,0,0,0,,,,,,0,1,1
+1383109,2023,China,4,Zhuang Zelin,a03ee6e1,Paing Danu,1eb5affb,Wang Liuyang,f3c217a9,0,0,0,0,0,,,,,,1,0,1
+1383109,2023,China,4,Wang Liuyang,f3c217a9,Paing Danu,1eb5affb,Zhuang Zelin,a03ee6e1,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,China,4,Wang Liuyang,f3c217a9,Paing Danu,1eb5affb,Zhuang Zelin,a03ee6e1,0,0,0,0,0,,,,,,1,0,1
+1383109,2023,China,4,Zhuang Zelin,a03ee6e1,Paing Danu,1eb5affb,Wang Liuyang,f3c217a9,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,China,5,Wang Liuyang,f3c217a9,Thuya Aung,2e092d2c,Zhuang Zelin,a03ee6e1,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,China,5,Wang Liuyang,f3c217a9,Thuya Aung,2e092d2c,Zhuang Zelin,a03ee6e1,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,China,5,Wang Liuyang,f3c217a9,Thuya Aung,2e092d2c,Zhuang Zelin,a03ee6e1,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,China,5,Wang Liuyang,f3c217a9,Thuya Aung,2e092d2c,Zhuang Zelin,a03ee6e1,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,China,5,Wang Liuyang,f3c217a9,Thuya Aung,2e092d2c,Zhuang Zelin,a03ee6e1,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,China,5,Wang Liuyang,f3c217a9,Thuya Aung,2e092d2c,Zhuang Zelin,a03ee6e1,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,China,6,Zhuang Zelin,a03ee6e1,H Lin Aung,c343a8c6,Wang Liuyang,f3c217a9,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,China,6,Zhuang Zelin,a03ee6e1,H Lin Aung,c343a8c6,Wang Liuyang,f3c217a9,0,0,0,0,0,,,,,,1,0,1
+1383109,2023,China,6,Wang Liuyang,f3c217a9,H Lin Aung,c343a8c6,Zhuang Zelin,a03ee6e1,0,0,0,0,0,,,,,,1,0,1
+1383109,2023,China,6,Zhuang Zelin,a03ee6e1,H Lin Aung,c343a8c6,Wang Liuyang,f3c217a9,0,0,0,0,0,,,,,,1,0,1
+1383109,2023,China,6,Wang Liuyang,f3c217a9,H Lin Aung,c343a8c6,Zhuang Zelin,a03ee6e1,0,0,0,0,0,,,,,,1,0,1
+1383109,2023,China,6,Zhuang Zelin,a03ee6e1,H Lin Aung,c343a8c6,Wang Liuyang,f3c217a9,0,0,0,0,0,,,,,,1,0,1
+1383109,2023,China,7,Zhuang Zelin,a03ee6e1,Thuya Aung,2e092d2c,Wang Liuyang,f3c217a9,0,0,0,0,0,,,,,,2,0,2
+1383109,2023,China,7,Zhuang Zelin,a03ee6e1,Thuya Aung,2e092d2c,Wang Liuyang,f3c217a9,0,0,0,0,0,,,,,,2,0,2
+1383109,2023,China,7,Zhuang Zelin,a03ee6e1,Thuya Aung,2e092d2c,Wang Liuyang,f3c217a9,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,China,7,Zhuang Zelin,a03ee6e1,Thuya Aung,2e092d2c,Wang Liuyang,f3c217a9,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,China,7,Zhuang Zelin,a03ee6e1,Thuya Aung,2e092d2c,Wang Liuyang,f3c217a9,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,China,7,Zhuang Zelin,a03ee6e1,Thuya Aung,2e092d2c,Wang Liuyang,f3c217a9,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,China,8,Wang Liuyang,f3c217a9,Pyae Phyo Wai,09e86895,Zhuang Zelin,a03ee6e1,0,0,0,0,0,,,,,,4,0,4
+1383109,2023,China,8,Wang Liuyang,f3c217a9,Pyae Phyo Wai,09e86895,Zhuang Zelin,a03ee6e1,0,0,0,0,0,,,,,,1,0,1
+1383109,2023,China,8,Zhuang Zelin,a03ee6e1,Pyae Phyo Wai,09e86895,Wang Liuyang,f3c217a9,0,0,0,0,0,,,,,,1,0,1
+1383109,2023,China,8,Wang Liuyang,f3c217a9,Pyae Phyo Wai,09e86895,Zhuang Zelin,a03ee6e1,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,China,8,Wang Liuyang,f3c217a9,Pyae Phyo Wai,09e86895,Zhuang Zelin,a03ee6e1,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,China,8,Wang Liuyang,f3c217a9,Pyae Phyo Wai,09e86895,Zhuang Zelin,a03ee6e1,0,0,0,0,0,,,,,,2,0,2
+1383109,2023,China,9,Zhuang Zelin,a03ee6e1,Thuya Aung,2e092d2c,Wang Liuyang,f3c217a9,0,0,0,0,0,,,,,,2,0,2
+1383109,2023,China,9,Zhuang Zelin,a03ee6e1,Thuya Aung,2e092d2c,Wang Liuyang,f3c217a9,2,0,0,0,0,,,,,,0,2,2
+1383109,2023,China,9,Wang Liuyang,f3c217a9,Thuya Aung,2e092d2c,Zhuang Zelin,a03ee6e1,0,0,0,0,0,,,,,,1,0,1
+1383109,2023,China,9,Zhuang Zelin,a03ee6e1,Thuya Aung,2e092d2c,Wang Liuyang,f3c217a9,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,China,9,Zhuang Zelin,a03ee6e1,Thuya Aung,2e092d2c,Wang Liuyang,f3c217a9,0,0,0,0,0,,,,,,1,0,1
+1383109,2023,China,9,Wang Liuyang,f3c217a9,Thuya Aung,2e092d2c,Zhuang Zelin,a03ee6e1,0,0,0,0,0,,,,,,1,0,1
+1383109,2023,China,9,Zhuang Zelin,a03ee6e1,Thuya Aung,2e092d2c,Wang Liuyang,f3c217a9,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,China,10,Wang Liuyang,f3c217a9,Khin Aye,ad2efd29,Zhuang Zelin,a03ee6e1,0,0,0,0,0,,,,,,1,0,1
+1383109,2023,China,10,Zhuang Zelin,a03ee6e1,Khin Aye,ad2efd29,Wang Liuyang,f3c217a9,0,0,0,0,0,,,,,,1,0,1
+1383109,2023,China,10,Wang Liuyang,f3c217a9,Khin Aye,ad2efd29,Zhuang Zelin,a03ee6e1,0,0,0,0,0,,,,,,1,0,1
+1383109,2023,China,10,Zhuang Zelin,a03ee6e1,Khin Aye,ad2efd29,Wang Liuyang,f3c217a9,0,0,0,0,0,,,,,,2,0,2
+1383109,2023,China,10,Zhuang Zelin,a03ee6e1,Khin Aye,ad2efd29,Wang Liuyang,f3c217a9,0,0,0,0,0,,,,,,1,0,1
+1383109,2023,China,10,Wang Liuyang,f3c217a9,Khin Aye,ad2efd29,Zhuang Zelin,a03ee6e1,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,China,11,Zhuang Zelin,a03ee6e1,Paing Danu,1eb5affb,Wang Liuyang,f3c217a9,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,China,11,Zhuang Zelin,a03ee6e1,Paing Danu,1eb5affb,Wang Liuyang,f3c217a9,0,0,0,0,0,,,,,,4,0,4
+1383109,2023,China,11,Zhuang Zelin,a03ee6e1,Paing Danu,1eb5affb,Wang Liuyang,f3c217a9,0,0,0,0,0,,,,,,2,0,2
+1383109,2023,China,11,Zhuang Zelin,a03ee6e1,Paing Danu,1eb5affb,Wang Liuyang,f3c217a9,1,0,0,0,0,,,,,,0,1,1
+1383109,2023,China,11,Zhuang Zelin,a03ee6e1,Paing Danu,1eb5affb,Wang Liuyang,f3c217a9,0,0,0,0,0,,,,,,1,0,1
+1383109,2023,China,11,Wang Liuyang,f3c217a9,Paing Danu,1eb5affb,Zhuang Zelin,a03ee6e1,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,China,11,Wang Liuyang,f3c217a9,Paing Danu,1eb5affb,Zhuang Zelin,a03ee6e1,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,China,12,Zhuang Zelin,a03ee6e1,H Lin Aung,c343a8c6,Wang Liuyang,f3c217a9,0,0,0,0,0,,,,,,1,0,1
+1383109,2023,China,12,Wang Liuyang,f3c217a9,H Lin Aung,c343a8c6,Zhuang Zelin,a03ee6e1,0,0,0,0,0,,,,,,1,0,1
+1383109,2023,China,12,Zhuang Zelin,a03ee6e1,H Lin Aung,c343a8c6,Wang Liuyang,f3c217a9,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,China,12,Zhuang Zelin,a03ee6e1,H Lin Aung,c343a8c6,Wang Liuyang,f3c217a9,0,0,0,0,0,,,,,,1,0,1
+1383109,2023,China,12,Wang Liuyang,f3c217a9,H Lin Aung,c343a8c6,Zhuang Zelin,a03ee6e1,0,0,0,0,0,,,,,,1,0,1
+1383109,2023,China,12,Zhuang Zelin,a03ee6e1,H Lin Aung,c343a8c6,Wang Liuyang,f3c217a9,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,China,13,Wang Liuyang,f3c217a9,Nyeing Cham Soe,45b5ce8d,Zhuang Zelin,a03ee6e1,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,China,13,Wang Liuyang,f3c217a9,Nyeing Cham Soe,45b5ce8d,Zhuang Zelin,a03ee6e1,0,0,0,0,0,,,,,,1,0,1
+1383109,2023,China,13,Zhuang Zelin,a03ee6e1,Nyeing Cham Soe,45b5ce8d,Wang Liuyang,f3c217a9,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,China,13,Zhuang Zelin,a03ee6e1,Nyeing Cham Soe,45b5ce8d,Wang Liuyang,f3c217a9,0,0,0,0,0,,,,,,1,0,1
+1383109,2023,China,13,Wang Liuyang,f3c217a9,Nyeing Cham Soe,45b5ce8d,Zhuang Zelin,a03ee6e1,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,China,13,Wang Liuyang,f3c217a9,Nyeing Cham Soe,45b5ce8d,Zhuang Zelin,a03ee6e1,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,China,14,Zhuang Zelin,a03ee6e1,H Lin Aung,c343a8c6,Wang Liuyang,f3c217a9,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,China,14,Zhuang Zelin,a03ee6e1,H Lin Aung,c343a8c6,Wang Liuyang,f3c217a9,0,0,0,0,1,Zhuang Zelin,a03ee6e1,Khin Aye,ad2efd29,caught,0,0,0
+1383109,2023,China,14,Tian Sen Qun,3883402f,H Lin Aung,c343a8c6,Wang Liuyang,f3c217a9,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,China,14,Tian Sen Qun,3883402f,H Lin Aung,c343a8c6,Wang Liuyang,f3c217a9,0,0,0,0,1,Tian Sen Qun,3883402f,,,caught and bowled,0,0,0
+1383109,2023,China,14,Chen Zhuo Yue,47b33198,H Lin Aung,c343a8c6,Wang Liuyang,f3c217a9,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,China,14,Chen Zhuo Yue,47b33198,H Lin Aung,c343a8c6,Wang Liuyang,f3c217a9,0,0,0,0,0,,,,,,4,0,4
+1383109,2023,China,15,Wang Liuyang,f3c217a9,Nyeing Cham Soe,45b5ce8d,Chen Zhuo Yue,47b33198,0,0,0,0,1,Wang Liuyang,f3c217a9,,,caught and bowled,0,0,0
+1383109,2023,China,15,Wang Qi,12c9c558,Nyeing Cham Soe,45b5ce8d,Chen Zhuo Yue,47b33198,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,China,15,Wang Qi,12c9c558,Nyeing Cham Soe,45b5ce8d,Chen Zhuo Yue,47b33198,1,0,0,0,0,,,,,,0,1,1
+1383109,2023,China,15,Wang Qi,12c9c558,Nyeing Cham Soe,45b5ce8d,Chen Zhuo Yue,47b33198,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,China,15,Wang Qi,12c9c558,Nyeing Cham Soe,45b5ce8d,Chen Zhuo Yue,47b33198,0,0,0,0,0,,,,,,1,0,1
+1383109,2023,China,15,Chen Zhuo Yue,47b33198,Nyeing Cham Soe,45b5ce8d,Wang Qi,12c9c558,0,0,0,0,0,,,,,,1,0,1
+1383109,2023,China,15,Wang Qi,12c9c558,Nyeing Cham Soe,45b5ce8d,Chen Zhuo Yue,47b33198,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,China,16,Chen Zhuo Yue,47b33198,H Lin Aung,c343a8c6,Wang Qi,12c9c558,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,China,16,Chen Zhuo Yue,47b33198,H Lin Aung,c343a8c6,Wang Qi,12c9c558,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,China,16,Chen Zhuo Yue,47b33198,H Lin Aung,c343a8c6,Wang Qi,12c9c558,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,China,16,Chen Zhuo Yue,47b33198,H Lin Aung,c343a8c6,Wang Qi,12c9c558,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,China,16,Chen Zhuo Yue,47b33198,H Lin Aung,c343a8c6,Wang Qi,12c9c558,0,0,0,0,0,,,,,,0,0,0
+1383109,2023,China,16,Chen Zhuo Yue,47b33198,H Lin Aung,c343a8c6,Wang Qi,12c9c558,0,0,0,0,0,,,,,,6,0,6
+1383109,2023,China,17,Wang Qi,12c9c558,Thuya Aung,2e092d2c,Chen Zhuo Yue,47b33198,0,0,0,0,0,,,,,,1,0,1
+1383109,2023,China,17,Chen Zhuo Yue,47b33198,Thuya Aung,2e092d2c,Wang Qi,12c9c558,0,0,0,0,0,,,,,,2,0,2

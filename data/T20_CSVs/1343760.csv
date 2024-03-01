@@ -1,0 +1,54 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1343760,2022/23,St Helena,0,AR Leo,e13f8b16,D Jakiel,8b7ce771,A Langham,fe0b3bdf,0,0,0,0,1,AR Leo,e13f8b16,MA Baig,89394502,caught,0,0,0
+1343760,2022/23,St Helena,0,A Yon,99bf1fb7,D Jakiel,8b7ce771,A Langham,fe0b3bdf,0,0,0,0,0,,,,,,1,0,1
+1343760,2022/23,St Helena,0,A Langham,fe0b3bdf,D Jakiel,8b7ce771,A Yon,99bf1fb7,0,0,0,0,0,,,,,,0,0,0
+1343760,2022/23,St Helena,0,A Langham,fe0b3bdf,D Jakiel,8b7ce771,A Yon,99bf1fb7,0,0,0,0,0,,,,,,4,0,4
+1343760,2022/23,St Helena,0,A Langham,fe0b3bdf,D Jakiel,8b7ce771,A Yon,99bf1fb7,0,0,0,0,0,,,,,,0,0,0
+1343760,2022/23,St Helena,0,A Langham,fe0b3bdf,D Jakiel,8b7ce771,A Yon,99bf1fb7,0,0,0,0,1,A Langham,fe0b3bdf,,,bowled,0,0,0
+1343760,2022/23,St Helena,1,A Yon,99bf1fb7,Sami Sohail,602ebd4c,J Henry,68e7e8d5,0,0,0,0,1,A Yon,99bf1fb7,M Choamba,5570c4c1,caught,0,0,0
+1343760,2022/23,St Helena,1,R Francis,06b766f4,Sami Sohail,602ebd4c,J Henry,68e7e8d5,0,0,0,0,0,,,,,,2,0,2
+1343760,2022/23,St Helena,1,R Francis,06b766f4,Sami Sohail,602ebd4c,J Henry,68e7e8d5,0,0,0,0,0,,,,,,1,0,1
+1343760,2022/23,St Helena,1,J Henry,68e7e8d5,Sami Sohail,602ebd4c,R Francis,06b766f4,0,0,0,0,0,,,,,,1,0,1
+1343760,2022/23,St Helena,1,R Francis,06b766f4,Sami Sohail,602ebd4c,J Henry,68e7e8d5,0,0,0,0,0,,,,,,4,0,4
+1343760,2022/23,St Helena,1,R Francis,06b766f4,Sami Sohail,602ebd4c,J Henry,68e7e8d5,0,0,0,0,1,R Francis,06b766f4,B Pondani,e5117568,caught,0,0,0
+1343760,2022/23,St Helena,2,J Henry,68e7e8d5,MA Baig,89394502,S Crowie,4040951f,0,0,0,0,0,,,,,,0,0,0
+1343760,2022/23,St Helena,2,J Henry,68e7e8d5,MA Baig,89394502,S Crowie,4040951f,0,0,0,0,0,,,,,,1,0,1
+1343760,2022/23,St Helena,2,S Crowie,4040951f,MA Baig,89394502,J Henry,68e7e8d5,0,0,0,0,0,,,,,,1,0,1
+1343760,2022/23,St Helena,2,J Henry,68e7e8d5,MA Baig,89394502,S Crowie,4040951f,0,0,0,0,0,,,,,,6,0,6
+1343760,2022/23,St Helena,2,J Henry,68e7e8d5,MA Baig,89394502,S Crowie,4040951f,0,0,0,0,0,,,,,,2,0,2
+1343760,2022/23,St Helena,2,J Henry,68e7e8d5,MA Baig,89394502,S Crowie,4040951f,0,0,0,0,0,,,,,,0,0,0
+1343760,2022/23,St Helena,3,S Crowie,4040951f,Sami Sohail,602ebd4c,J Henry,68e7e8d5,1,0,0,0,0,,,,,,0,1,1
+1343760,2022/23,St Helena,3,S Crowie,4040951f,Sami Sohail,602ebd4c,J Henry,68e7e8d5,0,0,0,0,0,,,,,,1,0,1
+1343760,2022/23,St Helena,3,J Henry,68e7e8d5,Sami Sohail,602ebd4c,S Crowie,4040951f,0,0,0,0,0,,,,,,2,0,2
+1343760,2022/23,St Helena,3,J Henry,68e7e8d5,Sami Sohail,602ebd4c,S Crowie,4040951f,0,0,0,0,0,,,,,,1,0,1
+1343760,2022/23,St Helena,3,S Crowie,4040951f,Sami Sohail,602ebd4c,J Henry,68e7e8d5,0,0,0,0,0,,,,,,1,0,1
+1343760,2022/23,St Helena,3,J Henry,68e7e8d5,Sami Sohail,602ebd4c,S Crowie,4040951f,0,0,0,0,0,,,,,,4,0,4
+1343760,2022/23,St Helena,3,J Henry,68e7e8d5,Sami Sohail,602ebd4c,S Crowie,4040951f,0,0,0,0,1,J Henry,68e7e8d5,,,lbw,0,0,0
+1343760,2022/23,St Helena,4,S Crowie,4040951f,D Jakiel,8b7ce771,CR Richards,c10a581f,0,0,0,0,0,,,,,,0,0,0
+1343760,2022/23,St Helena,4,S Crowie,4040951f,D Jakiel,8b7ce771,CR Richards,c10a581f,0,0,0,0,0,,,,,,2,0,2
+1343760,2022/23,St Helena,4,S Crowie,4040951f,D Jakiel,8b7ce771,CR Richards,c10a581f,0,0,0,0,0,,,,,,0,0,0
+1343760,2022/23,St Helena,4,S Crowie,4040951f,D Jakiel,8b7ce771,CR Richards,c10a581f,0,0,0,0,1,CR Richards,c10a581f,D Jakiel,8b7ce771,run out,0,0,0
+1343760,2022/23,St Helena,4,S Crowie,4040951f,D Jakiel,8b7ce771,DL Richards,e613c509,0,0,0,0,0,,,,,,1,0,1
+1343760,2022/23,St Helena,4,DL Richards,e613c509,D Jakiel,8b7ce771,S Crowie,4040951f,0,0,0,0,0,,,,,,1,0,1
+1343760,2022/23,Malawi,0,D Kansonkho,45ca12a7,G Johnson,ceec82cd,Sami Sohail,602ebd4c,0,0,0,0,0,,,,,,1,0,1
+1343760,2022/23,Malawi,0,Sami Sohail,602ebd4c,G Johnson,ceec82cd,D Kansonkho,45ca12a7,0,0,0,0,0,,,,,,1,0,1
+1343760,2022/23,Malawi,0,D Kansonkho,45ca12a7,G Johnson,ceec82cd,Sami Sohail,602ebd4c,0,0,0,0,0,,,,,,4,0,4
+1343760,2022/23,Malawi,0,D Kansonkho,45ca12a7,G Johnson,ceec82cd,Sami Sohail,602ebd4c,0,0,0,0,0,,,,,,1,0,1
+1343760,2022/23,Malawi,0,Sami Sohail,602ebd4c,G Johnson,ceec82cd,D Kansonkho,45ca12a7,0,0,0,0,0,,,,,,6,0,6
+1343760,2022/23,Malawi,0,Sami Sohail,602ebd4c,G Johnson,ceec82cd,D Kansonkho,45ca12a7,0,0,0,0,0,,,,,,2,0,2
+1343760,2022/23,Malawi,1,D Kansonkho,45ca12a7,BK Stroud,6577a6ad,Sami Sohail,602ebd4c,0,0,0,0,0,,,,,,1,0,1
+1343760,2022/23,Malawi,1,Sami Sohail,602ebd4c,BK Stroud,6577a6ad,D Kansonkho,45ca12a7,0,0,0,0,0,,,,,,0,0,0
+1343760,2022/23,Malawi,1,Sami Sohail,602ebd4c,BK Stroud,6577a6ad,D Kansonkho,45ca12a7,0,0,0,0,0,,,,,,2,0,2
+1343760,2022/23,Malawi,1,Sami Sohail,602ebd4c,BK Stroud,6577a6ad,D Kansonkho,45ca12a7,0,0,0,0,0,,,,,,0,0,0
+1343760,2022/23,Malawi,1,Sami Sohail,602ebd4c,BK Stroud,6577a6ad,D Kansonkho,45ca12a7,0,0,0,0,0,,,,,,1,0,1
+1343760,2022/23,Malawi,1,D Kansonkho,45ca12a7,BK Stroud,6577a6ad,Sami Sohail,602ebd4c,0,0,0,0,0,,,,,,2,0,2
+1343760,2022/23,Malawi,2,Sami Sohail,602ebd4c,A Yon,99bf1fb7,D Kansonkho,45ca12a7,0,0,0,0,0,,,,,,0,0,0
+1343760,2022/23,Malawi,2,Sami Sohail,602ebd4c,A Yon,99bf1fb7,D Kansonkho,45ca12a7,0,0,0,0,0,,,,,,4,0,4
+1343760,2022/23,Malawi,2,Sami Sohail,602ebd4c,A Yon,99bf1fb7,D Kansonkho,45ca12a7,0,0,0,0,0,,,,,,1,0,1
+1343760,2022/23,Malawi,2,D Kansonkho,45ca12a7,A Yon,99bf1fb7,Sami Sohail,602ebd4c,0,0,0,0,0,,,,,,3,0,3
+1343760,2022/23,Malawi,2,Sami Sohail,602ebd4c,A Yon,99bf1fb7,D Kansonkho,45ca12a7,0,0,0,0,0,,,,,,2,0,2
+1343760,2022/23,Malawi,2,Sami Sohail,602ebd4c,A Yon,99bf1fb7,D Kansonkho,45ca12a7,0,0,0,0,0,,,,,,1,0,1
+1343760,2022/23,Malawi,3,Sami Sohail,602ebd4c,J Henry,68e7e8d5,D Kansonkho,45ca12a7,0,0,0,0,0,,,,,,2,0,2
+1343760,2022/23,Malawi,3,Sami Sohail,602ebd4c,J Henry,68e7e8d5,D Kansonkho,45ca12a7,0,0,0,0,0,,,,,,0,0,0
+1343760,2022/23,Malawi,3,Sami Sohail,602ebd4c,J Henry,68e7e8d5,D Kansonkho,45ca12a7,0,0,0,0,0,,,,,,1,0,1
+1343760,2022/23,Malawi,3,D Kansonkho,45ca12a7,J Henry,68e7e8d5,Sami Sohail,602ebd4c,0,0,0,0,0,,,,,,4,0,4

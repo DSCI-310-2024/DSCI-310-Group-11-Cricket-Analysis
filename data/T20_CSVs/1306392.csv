@@ -1,0 +1,240 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1306392,2021/22,Oman,0,SV Shetty,db7a7301,Maria Jasvi,4bed6af7,Fiza,c7c60bc5,0,0,0,0,0,,,,,,2,0,2
+1306392,2021/22,Oman,0,SV Shetty,db7a7301,Maria Jasvi,4bed6af7,Fiza,c7c60bc5,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Oman,0,SV Shetty,db7a7301,Maria Jasvi,4bed6af7,Fiza,c7c60bc5,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Oman,0,SV Shetty,db7a7301,Maria Jasvi,4bed6af7,Fiza,c7c60bc5,2,0,0,0,0,,,,,,0,2,2
+1306392,2021/22,Oman,0,Fiza,c7c60bc5,Maria Jasvi,4bed6af7,SV Shetty,db7a7301,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Oman,0,Fiza,c7c60bc5,Maria Jasvi,4bed6af7,SV Shetty,db7a7301,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Oman,0,Fiza,c7c60bc5,Maria Jasvi,4bed6af7,SV Shetty,db7a7301,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Oman,1,SV Shetty,db7a7301,Khadija Khalil,7c61a686,Fiza,c7c60bc5,1,0,0,0,0,,,,,,0,1,1
+1306392,2021/22,Oman,1,SV Shetty,db7a7301,Khadija Khalil,7c61a686,Fiza,c7c60bc5,0,0,0,0,0,,,,,,1,0,1
+1306392,2021/22,Oman,1,Fiza,c7c60bc5,Khadija Khalil,7c61a686,SV Shetty,db7a7301,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Oman,1,Fiza,c7c60bc5,Khadija Khalil,7c61a686,SV Shetty,db7a7301,2,0,0,0,0,,,,,,0,2,2
+1306392,2021/22,Oman,1,SV Shetty,db7a7301,Khadija Khalil,7c61a686,Fiza,c7c60bc5,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Oman,1,SV Shetty,db7a7301,Khadija Khalil,7c61a686,Fiza,c7c60bc5,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Oman,1,SV Shetty,db7a7301,Khadija Khalil,7c61a686,Fiza,c7c60bc5,0,0,0,0,0,,,,,,4,0,4
+1306392,2021/22,Oman,1,SV Shetty,db7a7301,Khadija Khalil,7c61a686,Fiza,c7c60bc5,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Oman,2,Fiza,c7c60bc5,Maria Jasvi,4bed6af7,SV Shetty,db7a7301,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Oman,2,Fiza,c7c60bc5,Maria Jasvi,4bed6af7,SV Shetty,db7a7301,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Oman,2,Fiza,c7c60bc5,Maria Jasvi,4bed6af7,SV Shetty,db7a7301,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Oman,2,Fiza,c7c60bc5,Maria Jasvi,4bed6af7,SV Shetty,db7a7301,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Oman,2,Fiza,c7c60bc5,Maria Jasvi,4bed6af7,SV Shetty,db7a7301,0,0,0,0,0,,,,,,1,0,1
+1306392,2021/22,Oman,2,SV Shetty,db7a7301,Maria Jasvi,4bed6af7,Fiza,c7c60bc5,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Oman,3,Fiza,c7c60bc5,Priyada Murali,f4b942ae,SV Shetty,db7a7301,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Oman,3,Fiza,c7c60bc5,Priyada Murali,f4b942ae,SV Shetty,db7a7301,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Oman,3,Fiza,c7c60bc5,Priyada Murali,f4b942ae,SV Shetty,db7a7301,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Oman,3,Fiza,c7c60bc5,Priyada Murali,f4b942ae,SV Shetty,db7a7301,0,0,0,0,0,,,,,,1,0,1
+1306392,2021/22,Oman,3,SV Shetty,db7a7301,Priyada Murali,f4b942ae,Fiza,c7c60bc5,0,0,0,0,0,,,,,,1,0,1
+1306392,2021/22,Oman,3,Fiza,c7c60bc5,Priyada Murali,f4b942ae,SV Shetty,db7a7301,0,0,0,0,0,,,,,,1,0,1
+1306392,2021/22,Oman,4,Fiza,c7c60bc5,Maryam Omar,b4d08794,SV Shetty,db7a7301,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Oman,4,Fiza,c7c60bc5,Maryam Omar,b4d08794,SV Shetty,db7a7301,0,0,0,0,0,,,,,,1,0,1
+1306392,2021/22,Oman,4,SV Shetty,db7a7301,Maryam Omar,b4d08794,Fiza,c7c60bc5,0,0,0,0,0,,,,,,4,0,4
+1306392,2021/22,Oman,4,SV Shetty,db7a7301,Maryam Omar,b4d08794,Fiza,c7c60bc5,0,0,0,0,0,,,,,,1,0,1
+1306392,2021/22,Oman,4,Fiza,c7c60bc5,Maryam Omar,b4d08794,SV Shetty,db7a7301,0,0,0,0,0,,,,,,1,0,1
+1306392,2021/22,Oman,4,SV Shetty,db7a7301,Maryam Omar,b4d08794,Fiza,c7c60bc5,0,0,0,0,0,,,,,,1,0,1
+1306392,2021/22,Oman,5,SV Shetty,db7a7301,Priyada Murali,f4b942ae,Fiza,c7c60bc5,0,1,0,0,0,,,,,,4,1,5
+1306392,2021/22,Oman,5,SV Shetty,db7a7301,Priyada Murali,f4b942ae,Fiza,c7c60bc5,0,0,0,0,0,,,,,,4,0,4
+1306392,2021/22,Oman,5,SV Shetty,db7a7301,Priyada Murali,f4b942ae,Fiza,c7c60bc5,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Oman,5,SV Shetty,db7a7301,Priyada Murali,f4b942ae,Fiza,c7c60bc5,0,0,0,0,0,,,,,,1,0,1
+1306392,2021/22,Oman,5,Fiza,c7c60bc5,Priyada Murali,f4b942ae,SV Shetty,db7a7301,0,0,0,0,0,,,,,,2,0,2
+1306392,2021/22,Oman,5,Fiza,c7c60bc5,Priyada Murali,f4b942ae,SV Shetty,db7a7301,1,0,0,0,0,,,,,,0,1,1
+1306392,2021/22,Oman,5,Fiza,c7c60bc5,Priyada Murali,f4b942ae,SV Shetty,db7a7301,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Oman,5,Fiza,c7c60bc5,Priyada Murali,f4b942ae,SV Shetty,db7a7301,1,0,0,0,0,,,,,,0,1,1
+1306392,2021/22,Oman,5,Fiza,c7c60bc5,Priyada Murali,f4b942ae,SV Shetty,db7a7301,0,0,0,0,0,,,,,,1,0,1
+1306392,2021/22,Oman,6,Fiza,c7c60bc5,Mariamma Hyder,c8ae2573,SV Shetty,db7a7301,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Oman,6,Fiza,c7c60bc5,Mariamma Hyder,c8ae2573,SV Shetty,db7a7301,1,0,0,0,0,,,,,,0,1,1
+1306392,2021/22,Oman,6,Fiza,c7c60bc5,Mariamma Hyder,c8ae2573,SV Shetty,db7a7301,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Oman,6,Fiza,c7c60bc5,Mariamma Hyder,c8ae2573,SV Shetty,db7a7301,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Oman,6,Fiza,c7c60bc5,Mariamma Hyder,c8ae2573,SV Shetty,db7a7301,0,0,0,2,0,,,,,,0,2,2
+1306392,2021/22,Oman,6,Fiza,c7c60bc5,Mariamma Hyder,c8ae2573,SV Shetty,db7a7301,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Oman,6,Fiza,c7c60bc5,Mariamma Hyder,c8ae2573,SV Shetty,db7a7301,0,0,0,0,0,,,,,,4,0,4
+1306392,2021/22,Oman,7,SV Shetty,db7a7301,Amna Tariq,44b53fba,Fiza,c7c60bc5,1,0,0,0,0,,,,,,0,1,1
+1306392,2021/22,Oman,7,SV Shetty,db7a7301,Amna Tariq,44b53fba,Fiza,c7c60bc5,0,0,0,0,0,,,,,,1,0,1
+1306392,2021/22,Oman,7,Fiza,c7c60bc5,Amna Tariq,44b53fba,SV Shetty,db7a7301,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Oman,7,Fiza,c7c60bc5,Amna Tariq,44b53fba,SV Shetty,db7a7301,1,0,0,0,0,,,,,,0,1,1
+1306392,2021/22,Oman,7,Fiza,c7c60bc5,Amna Tariq,44b53fba,SV Shetty,db7a7301,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Oman,7,Fiza,c7c60bc5,Amna Tariq,44b53fba,SV Shetty,db7a7301,0,0,0,0,0,,,,,,1,0,1
+1306392,2021/22,Oman,7,SV Shetty,db7a7301,Amna Tariq,44b53fba,Fiza,c7c60bc5,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Oman,7,SV Shetty,db7a7301,Amna Tariq,44b53fba,Fiza,c7c60bc5,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Oman,8,Fiza,c7c60bc5,Mariamma Hyder,c8ae2573,SV Shetty,db7a7301,0,0,0,0,0,,,,,,1,0,1
+1306392,2021/22,Oman,8,SV Shetty,db7a7301,Mariamma Hyder,c8ae2573,Fiza,c7c60bc5,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Oman,8,SV Shetty,db7a7301,Mariamma Hyder,c8ae2573,Fiza,c7c60bc5,0,0,0,0,0,,,,,,1,0,1
+1306392,2021/22,Oman,8,Fiza,c7c60bc5,Mariamma Hyder,c8ae2573,SV Shetty,db7a7301,0,0,0,0,0,,,,,,1,0,1
+1306392,2021/22,Oman,8,SV Shetty,db7a7301,Mariamma Hyder,c8ae2573,Fiza,c7c60bc5,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Oman,8,SV Shetty,db7a7301,Mariamma Hyder,c8ae2573,Fiza,c7c60bc5,0,0,0,0,0,,,,,,1,0,1
+1306392,2021/22,Oman,9,SV Shetty,db7a7301,Amna Tariq,44b53fba,Fiza,c7c60bc5,0,0,0,0,0,,,,,,4,0,4
+1306392,2021/22,Oman,9,SV Shetty,db7a7301,Amna Tariq,44b53fba,Fiza,c7c60bc5,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Oman,9,SV Shetty,db7a7301,Amna Tariq,44b53fba,Fiza,c7c60bc5,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Oman,9,SV Shetty,db7a7301,Amna Tariq,44b53fba,Fiza,c7c60bc5,0,0,0,0,0,,,,,,1,0,1
+1306392,2021/22,Oman,9,Fiza,c7c60bc5,Amna Tariq,44b53fba,SV Shetty,db7a7301,0,0,0,0,0,,,,,,1,0,1
+1306392,2021/22,Oman,9,SV Shetty,db7a7301,Amna Tariq,44b53fba,Fiza,c7c60bc5,0,0,0,0,0,,,,,,1,0,1
+1306392,2021/22,Oman,10,SV Shetty,db7a7301,Mariamma Hyder,c8ae2573,Fiza,c7c60bc5,0,0,0,0,0,,,,,,1,0,1
+1306392,2021/22,Oman,10,Fiza,c7c60bc5,Mariamma Hyder,c8ae2573,SV Shetty,db7a7301,0,0,0,0,0,,,,,,2,0,2
+1306392,2021/22,Oman,10,Fiza,c7c60bc5,Mariamma Hyder,c8ae2573,SV Shetty,db7a7301,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Oman,10,Fiza,c7c60bc5,Mariamma Hyder,c8ae2573,SV Shetty,db7a7301,0,0,0,0,0,,,,,,1,0,1
+1306392,2021/22,Oman,10,SV Shetty,db7a7301,Mariamma Hyder,c8ae2573,Fiza,c7c60bc5,0,0,0,0,0,,,,,,4,0,4
+1306392,2021/22,Oman,10,SV Shetty,db7a7301,Mariamma Hyder,c8ae2573,Fiza,c7c60bc5,0,0,0,0,0,,,,,,6,0,6
+1306392,2021/22,Oman,11,Fiza,c7c60bc5,Maryam Omar,b4d08794,SV Shetty,db7a7301,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Oman,11,Fiza,c7c60bc5,Maryam Omar,b4d08794,SV Shetty,db7a7301,0,0,0,0,0,,,,,,1,0,1
+1306392,2021/22,Oman,11,SV Shetty,db7a7301,Maryam Omar,b4d08794,Fiza,c7c60bc5,0,0,0,0,0,,,,,,1,0,1
+1306392,2021/22,Oman,11,Fiza,c7c60bc5,Maryam Omar,b4d08794,SV Shetty,db7a7301,0,0,0,0,0,,,,,,1,0,1
+1306392,2021/22,Oman,11,SV Shetty,db7a7301,Maryam Omar,b4d08794,Fiza,c7c60bc5,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Oman,11,SV Shetty,db7a7301,Maryam Omar,b4d08794,Fiza,c7c60bc5,0,0,0,0,0,,,,,,1,0,1
+1306392,2021/22,Oman,12,SV Shetty,db7a7301,Mariamma Hyder,c8ae2573,Fiza,c7c60bc5,0,0,0,0,0,,,,,,2,0,2
+1306392,2021/22,Oman,12,SV Shetty,db7a7301,Mariamma Hyder,c8ae2573,Fiza,c7c60bc5,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Oman,12,SV Shetty,db7a7301,Mariamma Hyder,c8ae2573,Fiza,c7c60bc5,0,0,0,0,0,,,,,,1,0,1
+1306392,2021/22,Oman,12,Fiza,c7c60bc5,Mariamma Hyder,c8ae2573,SV Shetty,db7a7301,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Oman,12,Fiza,c7c60bc5,Mariamma Hyder,c8ae2573,SV Shetty,db7a7301,0,0,0,0,0,,,,,,1,0,1
+1306392,2021/22,Oman,12,SV Shetty,db7a7301,Mariamma Hyder,c8ae2573,Fiza,c7c60bc5,0,0,0,0,0,,,,,,1,0,1
+1306392,2021/22,Oman,13,SV Shetty,db7a7301,Maryam Omar,b4d08794,Fiza,c7c60bc5,0,0,0,0,0,,,,,,1,0,1
+1306392,2021/22,Oman,13,Fiza,c7c60bc5,Maryam Omar,b4d08794,SV Shetty,db7a7301,0,0,0,0,0,,,,,,1,0,1
+1306392,2021/22,Oman,13,SV Shetty,db7a7301,Maryam Omar,b4d08794,Fiza,c7c60bc5,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Oman,13,SV Shetty,db7a7301,Maryam Omar,b4d08794,Fiza,c7c60bc5,0,1,0,1,0,,,,,,0,2,2
+1306392,2021/22,Oman,13,Fiza,c7c60bc5,Maryam Omar,b4d08794,SV Shetty,db7a7301,0,0,0,0,0,,,,,,1,0,1
+1306392,2021/22,Oman,13,SV Shetty,db7a7301,Maryam Omar,b4d08794,Fiza,c7c60bc5,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Oman,13,SV Shetty,db7a7301,Maryam Omar,b4d08794,Fiza,c7c60bc5,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Oman,14,Fiza,c7c60bc5,Maria Jasvi,4bed6af7,SV Shetty,db7a7301,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Oman,14,Fiza,c7c60bc5,Maria Jasvi,4bed6af7,SV Shetty,db7a7301,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Oman,14,Fiza,c7c60bc5,Maria Jasvi,4bed6af7,SV Shetty,db7a7301,0,0,0,0,0,,,,,,2,0,2
+1306392,2021/22,Oman,14,Fiza,c7c60bc5,Maria Jasvi,4bed6af7,SV Shetty,db7a7301,0,0,0,0,0,,,,,,4,0,4
+1306392,2021/22,Oman,14,Fiza,c7c60bc5,Maria Jasvi,4bed6af7,SV Shetty,db7a7301,0,0,0,0,1,Fiza,c7c60bc5,,,bowled,0,0,0
+1306392,2021/22,Oman,14,NM Anil,cbd69f04,Maria Jasvi,4bed6af7,SV Shetty,db7a7301,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Oman,15,SV Shetty,db7a7301,Maryam Omar,b4d08794,NM Anil,cbd69f04,0,0,0,0,0,,,,,,1,0,1
+1306392,2021/22,Oman,15,NM Anil,cbd69f04,Maryam Omar,b4d08794,SV Shetty,db7a7301,0,0,0,0,0,,,,,,1,0,1
+1306392,2021/22,Oman,15,SV Shetty,db7a7301,Maryam Omar,b4d08794,NM Anil,cbd69f04,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Oman,15,SV Shetty,db7a7301,Maryam Omar,b4d08794,NM Anil,cbd69f04,0,0,0,0,0,,,,,,2,0,2
+1306392,2021/22,Oman,15,SV Shetty,db7a7301,Maryam Omar,b4d08794,NM Anil,cbd69f04,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Oman,15,SV Shetty,db7a7301,Maryam Omar,b4d08794,NM Anil,cbd69f04,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Oman,16,NM Anil,cbd69f04,Amna Tariq,44b53fba,SV Shetty,db7a7301,0,0,0,0,0,,,,,,1,0,1
+1306392,2021/22,Oman,16,SV Shetty,db7a7301,Amna Tariq,44b53fba,NM Anil,cbd69f04,0,0,0,0,0,,,,,,1,0,1
+1306392,2021/22,Oman,16,NM Anil,cbd69f04,Amna Tariq,44b53fba,SV Shetty,db7a7301,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Oman,16,NM Anil,cbd69f04,Amna Tariq,44b53fba,SV Shetty,db7a7301,0,0,0,0,0,,,,,,4,0,4
+1306392,2021/22,Oman,16,NM Anil,cbd69f04,Amna Tariq,44b53fba,SV Shetty,db7a7301,0,0,0,0,0,,,,,,1,0,1
+1306392,2021/22,Oman,16,SV Shetty,db7a7301,Amna Tariq,44b53fba,NM Anil,cbd69f04,0,0,0,0,0,,,,,,6,0,6
+1306392,2021/22,Oman,17,NM Anil,cbd69f04,Khadija Khalil,7c61a686,SV Shetty,db7a7301,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Oman,17,NM Anil,cbd69f04,Khadija Khalil,7c61a686,SV Shetty,db7a7301,0,0,0,0,0,,,,,,2,0,2
+1306392,2021/22,Oman,17,NM Anil,cbd69f04,Khadija Khalil,7c61a686,SV Shetty,db7a7301,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Oman,17,NM Anil,cbd69f04,Khadija Khalil,7c61a686,SV Shetty,db7a7301,0,0,0,0,0,,,,,,1,0,1
+1306392,2021/22,Oman,17,SV Shetty,db7a7301,Khadija Khalil,7c61a686,NM Anil,cbd69f04,0,0,0,0,0,,,,,,1,0,1
+1306392,2021/22,Oman,17,NM Anil,cbd69f04,Khadija Khalil,7c61a686,SV Shetty,db7a7301,0,0,0,0,0,,,,,,1,0,1
+1306392,2021/22,Oman,18,NM Anil,cbd69f04,Maria Jasvi,4bed6af7,SV Shetty,db7a7301,0,0,0,0,0,,,,,,1,0,1
+1306392,2021/22,Oman,18,SV Shetty,db7a7301,Maria Jasvi,4bed6af7,NM Anil,cbd69f04,0,0,0,0,0,,,,,,1,0,1
+1306392,2021/22,Oman,18,NM Anil,cbd69f04,Maria Jasvi,4bed6af7,SV Shetty,db7a7301,0,0,0,0,1,NM Anil,cbd69f04,,,bowled,0,0,0
+1306392,2021/22,Oman,18,SV Shetty,db7a7301,Maria Jasvi,4bed6af7,PE Mendonca,70bab30b,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Oman,18,SV Shetty,db7a7301,Maria Jasvi,4bed6af7,PE Mendonca,70bab30b,0,0,0,0,0,,,,,,2,0,2
+1306392,2021/22,Oman,18,SV Shetty,db7a7301,Maria Jasvi,4bed6af7,PE Mendonca,70bab30b,0,0,0,0,0,,,,,,3,0,3
+1306392,2021/22,Oman,19,SV Shetty,db7a7301,Khadija Khalil,7c61a686,PE Mendonca,70bab30b,0,0,0,0,0,,,,,,1,0,1
+1306392,2021/22,Oman,19,PE Mendonca,70bab30b,Khadija Khalil,7c61a686,SV Shetty,db7a7301,0,0,0,0,1,PE Mendonca,70bab30b,B Shanti,f50ca46d,caught,0,0,0
+1306392,2021/22,Oman,19,SV Shetty,db7a7301,Khadija Khalil,7c61a686,A Dcosta,3a4d914f,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Oman,19,SV Shetty,db7a7301,Khadija Khalil,7c61a686,A Dcosta,3a4d914f,0,0,0,0,0,,,,,,2,0,2
+1306392,2021/22,Oman,19,SV Shetty,db7a7301,Khadija Khalil,7c61a686,A Dcosta,3a4d914f,0,0,0,0,0,,,,,,1,0,1
+1306392,2021/22,Oman,19,A Dcosta,3a4d914f,Khadija Khalil,7c61a686,SV Shetty,db7a7301,0,0,0,0,1,A Dcosta,3a4d914f,,,bowled,0,0,0
+1306392,2021/22,Kuwait,0,Maryam Omar,b4d08794,S Channa,c30d7608,Priyada Murali,f4b942ae,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Kuwait,0,Maryam Omar,b4d08794,S Channa,c30d7608,Priyada Murali,f4b942ae,0,1,0,0,0,,,,,,0,1,1
+1306392,2021/22,Kuwait,0,Maryam Omar,b4d08794,S Channa,c30d7608,Priyada Murali,f4b942ae,0,0,0,0,0,,,,,,2,0,2
+1306392,2021/22,Kuwait,0,Maryam Omar,b4d08794,S Channa,c30d7608,Priyada Murali,f4b942ae,0,0,0,0,0,,,,,,1,0,1
+1306392,2021/22,Kuwait,0,Priyada Murali,f4b942ae,S Channa,c30d7608,Maryam Omar,b4d08794,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Kuwait,0,Priyada Murali,f4b942ae,S Channa,c30d7608,Maryam Omar,b4d08794,0,0,0,0,0,,,,,,4,0,4
+1306392,2021/22,Kuwait,0,Priyada Murali,f4b942ae,S Channa,c30d7608,Maryam Omar,b4d08794,0,0,0,0,1,Priyada Murali,f4b942ae,,,lbw,0,0,0
+1306392,2021/22,Kuwait,1,Maryam Omar,b4d08794,B Shetty,58c16165,Amna Tariq,44b53fba,0,0,0,0,0,,,,,,2,0,2
+1306392,2021/22,Kuwait,1,Maryam Omar,b4d08794,B Shetty,58c16165,Amna Tariq,44b53fba,1,0,0,0,0,,,,,,0,1,1
+1306392,2021/22,Kuwait,1,Maryam Omar,b4d08794,B Shetty,58c16165,Amna Tariq,44b53fba,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Kuwait,1,Maryam Omar,b4d08794,B Shetty,58c16165,Amna Tariq,44b53fba,0,0,0,0,1,Maryam Omar,b4d08794,SV Shetty,db7a7301,caught,0,0,0
+1306392,2021/22,Kuwait,1,Khadija Khalil,7c61a686,B Shetty,58c16165,Amna Tariq,44b53fba,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Kuwait,1,Khadija Khalil,7c61a686,B Shetty,58c16165,Amna Tariq,44b53fba,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Kuwait,1,Khadija Khalil,7c61a686,B Shetty,58c16165,Amna Tariq,44b53fba,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Kuwait,2,Amna Tariq,44b53fba,S Channa,c30d7608,Khadija Khalil,7c61a686,0,0,0,0,0,,,,,,1,0,1
+1306392,2021/22,Kuwait,2,Khadija Khalil,7c61a686,S Channa,c30d7608,Amna Tariq,44b53fba,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Kuwait,2,Khadija Khalil,7c61a686,S Channa,c30d7608,Amna Tariq,44b53fba,0,0,0,0,0,,,,,,1,0,1
+1306392,2021/22,Kuwait,2,Amna Tariq,44b53fba,S Channa,c30d7608,Khadija Khalil,7c61a686,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Kuwait,2,Amna Tariq,44b53fba,S Channa,c30d7608,Khadija Khalil,7c61a686,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Kuwait,2,Amna Tariq,44b53fba,S Channa,c30d7608,Khadija Khalil,7c61a686,0,0,2,0,0,,,,,,0,2,2
+1306392,2021/22,Kuwait,3,Khadija Khalil,7c61a686,B Shetty,58c16165,Amna Tariq,44b53fba,0,0,0,0,0,,,,,,2,0,2
+1306392,2021/22,Kuwait,3,Khadija Khalil,7c61a686,B Shetty,58c16165,Amna Tariq,44b53fba,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Kuwait,3,Khadija Khalil,7c61a686,B Shetty,58c16165,Amna Tariq,44b53fba,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Kuwait,3,Khadija Khalil,7c61a686,B Shetty,58c16165,Amna Tariq,44b53fba,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Kuwait,3,Khadija Khalil,7c61a686,B Shetty,58c16165,Amna Tariq,44b53fba,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Kuwait,3,Khadija Khalil,7c61a686,B Shetty,58c16165,Amna Tariq,44b53fba,0,0,0,0,0,,,,,,1,0,1
+1306392,2021/22,Kuwait,4,Khadija Khalil,7c61a686,S Channa,c30d7608,Amna Tariq,44b53fba,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Kuwait,4,Khadija Khalil,7c61a686,S Channa,c30d7608,Amna Tariq,44b53fba,0,0,1,0,0,,,,,,0,1,1
+1306392,2021/22,Kuwait,4,Amna Tariq,44b53fba,S Channa,c30d7608,Khadija Khalil,7c61a686,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Kuwait,4,Amna Tariq,44b53fba,S Channa,c30d7608,Khadija Khalil,7c61a686,0,0,0,0,0,,,,,,1,0,1
+1306392,2021/22,Kuwait,4,Khadija Khalil,7c61a686,S Channa,c30d7608,Amna Tariq,44b53fba,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Kuwait,4,Khadija Khalil,7c61a686,S Channa,c30d7608,Amna Tariq,44b53fba,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Kuwait,5,Amna Tariq,44b53fba,B Shetty,58c16165,Khadija Khalil,7c61a686,1,0,0,0,0,,,,,,0,1,1
+1306392,2021/22,Kuwait,5,Amna Tariq,44b53fba,B Shetty,58c16165,Khadija Khalil,7c61a686,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Kuwait,5,Amna Tariq,44b53fba,B Shetty,58c16165,Khadija Khalil,7c61a686,0,0,0,0,0,,,,,,4,0,4
+1306392,2021/22,Kuwait,5,Amna Tariq,44b53fba,B Shetty,58c16165,Khadija Khalil,7c61a686,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Kuwait,5,Amna Tariq,44b53fba,B Shetty,58c16165,Khadija Khalil,7c61a686,0,0,0,0,0,,,,,,4,0,4
+1306392,2021/22,Kuwait,5,Amna Tariq,44b53fba,B Shetty,58c16165,Khadija Khalil,7c61a686,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Kuwait,5,Amna Tariq,44b53fba,B Shetty,58c16165,Khadija Khalil,7c61a686,0,0,0,0,0,,,,,,4,0,4
+1306392,2021/22,Kuwait,6,Khadija Khalil,7c61a686,S Nair,863aa653,Amna Tariq,44b53fba,0,0,0,0,0,,,,,,1,0,1
+1306392,2021/22,Kuwait,6,Amna Tariq,44b53fba,S Nair,863aa653,Khadija Khalil,7c61a686,0,0,0,0,0,,,,,,1,0,1
+1306392,2021/22,Kuwait,6,Khadija Khalil,7c61a686,S Nair,863aa653,Amna Tariq,44b53fba,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Kuwait,6,Khadija Khalil,7c61a686,S Nair,863aa653,Amna Tariq,44b53fba,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Kuwait,6,Khadija Khalil,7c61a686,S Nair,863aa653,Amna Tariq,44b53fba,0,0,0,0,0,,,,,,3,0,3
+1306392,2021/22,Kuwait,6,Amna Tariq,44b53fba,S Nair,863aa653,Khadija Khalil,7c61a686,0,0,1,0,0,,,,,,0,1,1
+1306392,2021/22,Kuwait,7,Amna Tariq,44b53fba,PE Mendonca,70bab30b,Khadija Khalil,7c61a686,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Kuwait,7,Amna Tariq,44b53fba,PE Mendonca,70bab30b,Khadija Khalil,7c61a686,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Kuwait,7,Amna Tariq,44b53fba,PE Mendonca,70bab30b,Khadija Khalil,7c61a686,0,0,0,0,0,,,,,,1,0,1
+1306392,2021/22,Kuwait,7,Khadija Khalil,7c61a686,PE Mendonca,70bab30b,Amna Tariq,44b53fba,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Kuwait,7,Khadija Khalil,7c61a686,PE Mendonca,70bab30b,Amna Tariq,44b53fba,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Kuwait,7,Khadija Khalil,7c61a686,PE Mendonca,70bab30b,Amna Tariq,44b53fba,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Kuwait,8,Amna Tariq,44b53fba,S Nair,863aa653,Khadija Khalil,7c61a686,0,0,0,0,1,Amna Tariq,44b53fba,,,bowled,0,0,0
+1306392,2021/22,Kuwait,8,Maria Jasvi,4bed6af7,S Nair,863aa653,Khadija Khalil,7c61a686,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Kuwait,8,Maria Jasvi,4bed6af7,S Nair,863aa653,Khadija Khalil,7c61a686,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Kuwait,8,Maria Jasvi,4bed6af7,S Nair,863aa653,Khadija Khalil,7c61a686,0,0,0,0,0,,,,,,1,0,1
+1306392,2021/22,Kuwait,8,Khadija Khalil,7c61a686,S Nair,863aa653,Maria Jasvi,4bed6af7,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Kuwait,8,Khadija Khalil,7c61a686,S Nair,863aa653,Maria Jasvi,4bed6af7,0,0,0,0,0,,,,,,4,0,4
+1306392,2021/22,Kuwait,9,Maria Jasvi,4bed6af7,PE Mendonca,70bab30b,Khadija Khalil,7c61a686,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Kuwait,9,Maria Jasvi,4bed6af7,PE Mendonca,70bab30b,Khadija Khalil,7c61a686,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Kuwait,9,Maria Jasvi,4bed6af7,PE Mendonca,70bab30b,Khadija Khalil,7c61a686,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Kuwait,9,Maria Jasvi,4bed6af7,PE Mendonca,70bab30b,Khadija Khalil,7c61a686,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Kuwait,9,Maria Jasvi,4bed6af7,PE Mendonca,70bab30b,Khadija Khalil,7c61a686,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Kuwait,9,Maria Jasvi,4bed6af7,PE Mendonca,70bab30b,Khadija Khalil,7c61a686,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Kuwait,10,Khadija Khalil,7c61a686,S Nair,863aa653,Maria Jasvi,4bed6af7,0,0,0,0,0,,,,,,1,0,1
+1306392,2021/22,Kuwait,10,Maria Jasvi,4bed6af7,S Nair,863aa653,Khadija Khalil,7c61a686,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Kuwait,10,Maria Jasvi,4bed6af7,S Nair,863aa653,Khadija Khalil,7c61a686,0,0,0,0,0,,,,,,1,0,1
+1306392,2021/22,Kuwait,10,Khadija Khalil,7c61a686,S Nair,863aa653,Maria Jasvi,4bed6af7,0,0,0,0,0,,,,,,2,0,2
+1306392,2021/22,Kuwait,10,Khadija Khalil,7c61a686,S Nair,863aa653,Maria Jasvi,4bed6af7,0,0,0,0,0,,,,,,2,0,2
+1306392,2021/22,Kuwait,10,Khadija Khalil,7c61a686,S Nair,863aa653,Maria Jasvi,4bed6af7,0,0,0,0,0,,,,,,1,0,1
+1306392,2021/22,Kuwait,11,Khadija Khalil,7c61a686,PE Mendonca,70bab30b,Maria Jasvi,4bed6af7,1,0,0,0,0,,,,,,0,1,1
+1306392,2021/22,Kuwait,11,Khadija Khalil,7c61a686,PE Mendonca,70bab30b,Maria Jasvi,4bed6af7,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Kuwait,11,Khadija Khalil,7c61a686,PE Mendonca,70bab30b,Maria Jasvi,4bed6af7,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Kuwait,11,Khadija Khalil,7c61a686,PE Mendonca,70bab30b,Maria Jasvi,4bed6af7,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Kuwait,11,Khadija Khalil,7c61a686,PE Mendonca,70bab30b,Maria Jasvi,4bed6af7,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Kuwait,11,Khadija Khalil,7c61a686,PE Mendonca,70bab30b,Maria Jasvi,4bed6af7,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Kuwait,11,Khadija Khalil,7c61a686,PE Mendonca,70bab30b,Maria Jasvi,4bed6af7,0,0,0,0,1,Khadija Khalil,7c61a686,Sameera Khan,237baa2c,caught,0,0,0
+1306392,2021/22,Kuwait,12,Maria Jasvi,4bed6af7,A Dcosta,3a4d914f,Mariamma Hyder,c8ae2573,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Kuwait,12,Maria Jasvi,4bed6af7,A Dcosta,3a4d914f,Mariamma Hyder,c8ae2573,0,0,0,0,1,Maria Jasvi,4bed6af7,Sameera Khan,237baa2c,caught,0,0,0
+1306392,2021/22,Kuwait,12,SL Gomez,02264be0,A Dcosta,3a4d914f,Mariamma Hyder,c8ae2573,1,0,0,0,0,,,,,,0,1,1
+1306392,2021/22,Kuwait,12,SL Gomez,02264be0,A Dcosta,3a4d914f,Mariamma Hyder,c8ae2573,0,0,0,0,0,,,,,,2,0,2
+1306392,2021/22,Kuwait,12,SL Gomez,02264be0,A Dcosta,3a4d914f,Mariamma Hyder,c8ae2573,0,0,0,0,0,,,,,,4,0,4
+1306392,2021/22,Kuwait,12,SL Gomez,02264be0,A Dcosta,3a4d914f,Mariamma Hyder,c8ae2573,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Kuwait,12,SL Gomez,02264be0,A Dcosta,3a4d914f,Mariamma Hyder,c8ae2573,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Kuwait,13,Mariamma Hyder,c8ae2573,PE Mendonca,70bab30b,SL Gomez,02264be0,0,0,0,0,0,,,,,,1,0,1
+1306392,2021/22,Kuwait,13,SL Gomez,02264be0,PE Mendonca,70bab30b,Mariamma Hyder,c8ae2573,0,0,0,0,0,,,,,,4,0,4
+1306392,2021/22,Kuwait,13,SL Gomez,02264be0,PE Mendonca,70bab30b,Mariamma Hyder,c8ae2573,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Kuwait,13,SL Gomez,02264be0,PE Mendonca,70bab30b,Mariamma Hyder,c8ae2573,0,0,0,0,0,,,,,,1,0,1
+1306392,2021/22,Kuwait,13,Mariamma Hyder,c8ae2573,PE Mendonca,70bab30b,SL Gomez,02264be0,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Kuwait,13,Mariamma Hyder,c8ae2573,PE Mendonca,70bab30b,SL Gomez,02264be0,0,0,0,0,0,,,,,,1,0,1
+1306392,2021/22,Kuwait,14,Mariamma Hyder,c8ae2573,A Dcosta,3a4d914f,SL Gomez,02264be0,0,0,0,0,1,Mariamma Hyder,c8ae2573,,,bowled,0,0,0
+1306392,2021/22,Kuwait,14,Rida Zainab,4dc4530c,A Dcosta,3a4d914f,SL Gomez,02264be0,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Kuwait,14,Rida Zainab,4dc4530c,A Dcosta,3a4d914f,SL Gomez,02264be0,0,0,0,0,0,,,,,,2,0,2
+1306392,2021/22,Kuwait,14,Rida Zainab,4dc4530c,A Dcosta,3a4d914f,SL Gomez,02264be0,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Kuwait,14,Rida Zainab,4dc4530c,A Dcosta,3a4d914f,SL Gomez,02264be0,0,0,0,0,0,,,,,,1,0,1
+1306392,2021/22,Kuwait,14,SL Gomez,02264be0,A Dcosta,3a4d914f,Rida Zainab,4dc4530c,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Kuwait,15,Rida Zainab,4dc4530c,Sameera Khan,237baa2c,SL Gomez,02264be0,0,0,0,0,0,,,,,,1,0,1
+1306392,2021/22,Kuwait,15,SL Gomez,02264be0,Sameera Khan,237baa2c,Rida Zainab,4dc4530c,1,0,0,0,0,,,,,,0,1,1
+1306392,2021/22,Kuwait,15,SL Gomez,02264be0,Sameera Khan,237baa2c,Rida Zainab,4dc4530c,0,0,0,0,0,,,,,,1,0,1
+1306392,2021/22,Kuwait,15,Rida Zainab,4dc4530c,Sameera Khan,237baa2c,SL Gomez,02264be0,0,0,0,0,0,,,,,,1,0,1
+1306392,2021/22,Kuwait,15,SL Gomez,02264be0,Sameera Khan,237baa2c,Rida Zainab,4dc4530c,0,0,0,0,0,,,,,,1,0,1
+1306392,2021/22,Kuwait,15,Rida Zainab,4dc4530c,Sameera Khan,237baa2c,SL Gomez,02264be0,0,0,0,0,0,,,,,,1,0,1
+1306392,2021/22,Kuwait,15,SL Gomez,02264be0,Sameera Khan,237baa2c,Rida Zainab,4dc4530c,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Kuwait,16,Rida Zainab,4dc4530c,A Dcosta,3a4d914f,SL Gomez,02264be0,0,0,0,0,1,Rida Zainab,4dc4530c,,,bowled,0,0,0
+1306392,2021/22,Kuwait,16,Maryyam Ashraf,1b9d3eb3,A Dcosta,3a4d914f,SL Gomez,02264be0,0,0,0,4,0,,,,,,0,4,4
+1306392,2021/22,Kuwait,16,Maryyam Ashraf,1b9d3eb3,A Dcosta,3a4d914f,SL Gomez,02264be0,0,0,0,0,0,,,,,,1,0,1
+1306392,2021/22,Kuwait,16,SL Gomez,02264be0,A Dcosta,3a4d914f,Maryyam Ashraf,1b9d3eb3,0,0,0,0,1,SL Gomez,02264be0,N Jagadish,d6ec9f9f,caught,0,0,0
+1306392,2021/22,Kuwait,16,B Shanti,f50ca46d,A Dcosta,3a4d914f,Maryyam Ashraf,1b9d3eb3,0,0,0,0,0,,,,,,0,0,0
+1306392,2021/22,Kuwait,16,B Shanti,f50ca46d,A Dcosta,3a4d914f,Maryyam Ashraf,1b9d3eb3,0,0,0,0,1,B Shanti,f50ca46d,,,bowled,0,0,0
+1306392,2021/22,Kuwait,17,Maryyam Ashraf,1b9d3eb3,Sameera Khan,237baa2c,A Bose,b6f61482,0,0,0,0,1,Maryyam Ashraf,1b9d3eb3,,,bowled,0,0,0

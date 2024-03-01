@@ -1,0 +1,243 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+386494,2008/09,India,0,G Gambhir,bb345e0b,TG Southee,13c35c9e,V Sehwag,8ba8195d,0,0,0,0,0,,,,,,0,0,0
+386494,2008/09,India,0,G Gambhir,bb345e0b,TG Southee,13c35c9e,V Sehwag,8ba8195d,0,0,0,0,0,,,,,,0,0,0
+386494,2008/09,India,0,G Gambhir,bb345e0b,TG Southee,13c35c9e,V Sehwag,8ba8195d,0,0,0,0,0,,,,,,1,0,1
+386494,2008/09,India,0,V Sehwag,8ba8195d,TG Southee,13c35c9e,G Gambhir,bb345e0b,0,0,0,0,0,,,,,,6,0,6
+386494,2008/09,India,0,V Sehwag,8ba8195d,TG Southee,13c35c9e,G Gambhir,bb345e0b,0,0,0,0,0,,,,,,6,0,6
+386494,2008/09,India,0,V Sehwag,8ba8195d,TG Southee,13c35c9e,G Gambhir,bb345e0b,0,0,0,0,0,,,,,,6,0,6
+386494,2008/09,India,1,G Gambhir,bb345e0b,IE O'Brien,78f34e15,V Sehwag,8ba8195d,0,0,0,0,0,,,,,,0,0,0
+386494,2008/09,India,1,G Gambhir,bb345e0b,IE O'Brien,78f34e15,V Sehwag,8ba8195d,0,0,0,0,0,,,,,,1,0,1
+386494,2008/09,India,1,V Sehwag,8ba8195d,IE O'Brien,78f34e15,G Gambhir,bb345e0b,0,0,0,0,0,,,,,,0,0,0
+386494,2008/09,India,1,V Sehwag,8ba8195d,IE O'Brien,78f34e15,G Gambhir,bb345e0b,0,0,0,0,0,,,,,,1,0,1
+386494,2008/09,India,1,G Gambhir,bb345e0b,IE O'Brien,78f34e15,V Sehwag,8ba8195d,0,0,0,0,0,,,,,,4,0,4
+386494,2008/09,India,1,G Gambhir,bb345e0b,IE O'Brien,78f34e15,V Sehwag,8ba8195d,0,0,0,0,1,G Gambhir,bb345e0b,,,bowled,0,0,0
+386494,2008/09,India,2,V Sehwag,8ba8195d,IG Butler,b68a30f0,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,0,0,0
+386494,2008/09,India,2,V Sehwag,8ba8195d,IG Butler,b68a30f0,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,6,0,6
+386494,2008/09,India,2,V Sehwag,8ba8195d,IG Butler,b68a30f0,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,0,0,0
+386494,2008/09,India,2,V Sehwag,8ba8195d,IG Butler,b68a30f0,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,1,0,1
+386494,2008/09,India,2,SK Raina,1dc12ab9,IG Butler,b68a30f0,V Sehwag,8ba8195d,0,0,0,0,0,,,,,,0,0,0
+386494,2008/09,India,2,SK Raina,1dc12ab9,IG Butler,b68a30f0,V Sehwag,8ba8195d,0,0,0,0,0,,,,,,0,0,0
+386494,2008/09,India,3,V Sehwag,8ba8195d,IE O'Brien,78f34e15,SK Raina,1dc12ab9,0,0,0,0,1,V Sehwag,8ba8195d,,,bowled,0,0,0
+386494,2008/09,India,3,RG Sharma,740742ef,IE O'Brien,78f34e15,SK Raina,1dc12ab9,0,0,1,0,0,,,,,,0,1,1
+386494,2008/09,India,3,SK Raina,1dc12ab9,IE O'Brien,78f34e15,RG Sharma,740742ef,0,0,0,0,0,,,,,,0,0,0
+386494,2008/09,India,3,SK Raina,1dc12ab9,IE O'Brien,78f34e15,RG Sharma,740742ef,0,0,0,0,0,,,,,,6,0,6
+386494,2008/09,India,3,SK Raina,1dc12ab9,IE O'Brien,78f34e15,RG Sharma,740742ef,0,0,0,0,0,,,,,,1,0,1
+386494,2008/09,India,3,RG Sharma,740742ef,IE O'Brien,78f34e15,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,0,0,0
+386494,2008/09,India,4,SK Raina,1dc12ab9,TG Southee,13c35c9e,RG Sharma,740742ef,0,0,0,0,0,,,,,,0,0,0
+386494,2008/09,India,4,SK Raina,1dc12ab9,TG Southee,13c35c9e,RG Sharma,740742ef,0,0,1,0,0,,,,,,0,1,1
+386494,2008/09,India,4,RG Sharma,740742ef,TG Southee,13c35c9e,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,0,0,0
+386494,2008/09,India,4,RG Sharma,740742ef,TG Southee,13c35c9e,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,0,0,0
+386494,2008/09,India,4,RG Sharma,740742ef,TG Southee,13c35c9e,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,1,0,1
+386494,2008/09,India,4,SK Raina,1dc12ab9,TG Southee,13c35c9e,RG Sharma,740742ef,0,0,0,0,0,,,,,,6,0,6
+386494,2008/09,India,5,RG Sharma,740742ef,IG Butler,b68a30f0,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,6,0,6
+386494,2008/09,India,5,RG Sharma,740742ef,IG Butler,b68a30f0,SK Raina,1dc12ab9,0,0,0,0,1,RG Sharma,740742ef,BB McCullum,b8a55852,caught,0,0,0
+386494,2008/09,India,5,SK Raina,1dc12ab9,IG Butler,b68a30f0,Yuvraj Singh,1c914163,0,0,0,0,0,,,,,,0,0,0
+386494,2008/09,India,5,SK Raina,1dc12ab9,IG Butler,b68a30f0,Yuvraj Singh,1c914163,0,0,0,0,0,,,,,,0,0,0
+386494,2008/09,India,5,SK Raina,1dc12ab9,IG Butler,b68a30f0,Yuvraj Singh,1c914163,0,0,0,0,0,,,,,,1,0,1
+386494,2008/09,India,5,Yuvraj Singh,1c914163,IG Butler,b68a30f0,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,1,0,1
+386494,2008/09,India,6,Yuvraj Singh,1c914163,DL Vettori,d7c6af50,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,0,0,0
+386494,2008/09,India,6,Yuvraj Singh,1c914163,DL Vettori,d7c6af50,SK Raina,1dc12ab9,0,0,0,0,1,Yuvraj Singh,1c914163,,,lbw,0,0,0
+386494,2008/09,India,6,MS Dhoni,4a8a2e3b,DL Vettori,d7c6af50,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,1,0,1
+386494,2008/09,India,6,SK Raina,1dc12ab9,DL Vettori,d7c6af50,MS Dhoni,4a8a2e3b,0,0,0,0,0,,,,,,1,0,1
+386494,2008/09,India,6,MS Dhoni,4a8a2e3b,DL Vettori,d7c6af50,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,0,0,0
+386494,2008/09,India,6,MS Dhoni,4a8a2e3b,DL Vettori,d7c6af50,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,0,0,0
+386494,2008/09,India,7,SK Raina,1dc12ab9,IG Butler,b68a30f0,MS Dhoni,4a8a2e3b,0,0,0,0,0,,,,,,1,0,1
+386494,2008/09,India,7,MS Dhoni,4a8a2e3b,IG Butler,b68a30f0,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,0,0,0
+386494,2008/09,India,7,MS Dhoni,4a8a2e3b,IG Butler,b68a30f0,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,1,0,1
+386494,2008/09,India,7,SK Raina,1dc12ab9,IG Butler,b68a30f0,MS Dhoni,4a8a2e3b,0,0,0,0,0,,,,,,1,0,1
+386494,2008/09,India,7,MS Dhoni,4a8a2e3b,IG Butler,b68a30f0,SK Raina,1dc12ab9,0,0,0,0,1,MS Dhoni,4a8a2e3b,,,bowled,0,0,0
+386494,2008/09,India,7,YK Pathan,3c6ffae8,IG Butler,b68a30f0,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,1,0,1
+386494,2008/09,India,8,YK Pathan,3c6ffae8,DL Vettori,d7c6af50,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,0,0,0
+386494,2008/09,India,8,YK Pathan,3c6ffae8,DL Vettori,d7c6af50,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,0,0,0
+386494,2008/09,India,8,YK Pathan,3c6ffae8,DL Vettori,d7c6af50,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,1,0,1
+386494,2008/09,India,8,SK Raina,1dc12ab9,DL Vettori,d7c6af50,YK Pathan,3c6ffae8,0,0,0,0,0,,,,,,0,0,0
+386494,2008/09,India,8,SK Raina,1dc12ab9,DL Vettori,d7c6af50,YK Pathan,3c6ffae8,1,0,0,0,0,,,,,,0,1,1
+386494,2008/09,India,8,SK Raina,1dc12ab9,DL Vettori,d7c6af50,YK Pathan,3c6ffae8,0,0,0,0,0,,,,,,0,0,0
+386494,2008/09,India,8,SK Raina,1dc12ab9,DL Vettori,d7c6af50,YK Pathan,3c6ffae8,0,0,0,0,0,,,,,,0,0,0
+386494,2008/09,India,9,YK Pathan,3c6ffae8,NL McCullum,5673a3fc,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,6,0,6
+386494,2008/09,India,9,YK Pathan,3c6ffae8,NL McCullum,5673a3fc,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,6,0,6
+386494,2008/09,India,9,YK Pathan,3c6ffae8,NL McCullum,5673a3fc,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,6,0,6
+386494,2008/09,India,9,YK Pathan,3c6ffae8,NL McCullum,5673a3fc,SK Raina,1dc12ab9,0,0,0,0,1,YK Pathan,3c6ffae8,JDP Oram,3eac9d95,caught,0,0,0
+386494,2008/09,India,9,IK Pathan,5fa06777,NL McCullum,5673a3fc,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,0,0,0
+386494,2008/09,India,9,IK Pathan,5fa06777,NL McCullum,5673a3fc,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,1,0,1
+386494,2008/09,India,10,IK Pathan,5fa06777,DL Vettori,d7c6af50,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,0,0,0
+386494,2008/09,India,10,IK Pathan,5fa06777,DL Vettori,d7c6af50,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,1,0,1
+386494,2008/09,India,10,SK Raina,1dc12ab9,DL Vettori,d7c6af50,IK Pathan,5fa06777,0,0,0,0,0,,,,,,1,0,1
+386494,2008/09,India,10,IK Pathan,5fa06777,DL Vettori,d7c6af50,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,0,0,0
+386494,2008/09,India,10,IK Pathan,5fa06777,DL Vettori,d7c6af50,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,1,0,1
+386494,2008/09,India,10,SK Raina,1dc12ab9,DL Vettori,d7c6af50,IK Pathan,5fa06777,1,0,0,0,0,,,,,,0,1,1
+386494,2008/09,India,10,SK Raina,1dc12ab9,DL Vettori,d7c6af50,IK Pathan,5fa06777,0,0,0,0,0,,,,,,0,0,0
+386494,2008/09,India,11,IK Pathan,5fa06777,IE O'Brien,78f34e15,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,1,0,1
+386494,2008/09,India,11,SK Raina,1dc12ab9,IE O'Brien,78f34e15,IK Pathan,5fa06777,0,0,0,0,0,,,,,,1,0,1
+386494,2008/09,India,11,IK Pathan,5fa06777,IE O'Brien,78f34e15,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,1,0,1
+386494,2008/09,India,11,SK Raina,1dc12ab9,IE O'Brien,78f34e15,IK Pathan,5fa06777,0,0,0,0,0,,,,,,1,0,1
+386494,2008/09,India,11,IK Pathan,5fa06777,IE O'Brien,78f34e15,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,0,0,0
+386494,2008/09,India,11,IK Pathan,5fa06777,IE O'Brien,78f34e15,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,1,0,1
+386494,2008/09,India,12,IK Pathan,5fa06777,NL McCullum,5673a3fc,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,4,0,4
+386494,2008/09,India,12,IK Pathan,5fa06777,NL McCullum,5673a3fc,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,1,0,1
+386494,2008/09,India,12,SK Raina,1dc12ab9,NL McCullum,5673a3fc,IK Pathan,5fa06777,0,0,0,0,0,,,,,,0,0,0
+386494,2008/09,India,12,SK Raina,1dc12ab9,NL McCullum,5673a3fc,IK Pathan,5fa06777,0,0,0,0,0,,,,,,1,0,1
+386494,2008/09,India,12,IK Pathan,5fa06777,NL McCullum,5673a3fc,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,1,0,1
+386494,2008/09,India,12,SK Raina,1dc12ab9,NL McCullum,5673a3fc,IK Pathan,5fa06777,0,0,0,0,0,,,,,,1,0,1
+386494,2008/09,India,13,SK Raina,1dc12ab9,JD Ryder,91ffa6c6,IK Pathan,5fa06777,0,0,0,0,0,,,,,,0,0,0
+386494,2008/09,India,13,SK Raina,1dc12ab9,JD Ryder,91ffa6c6,IK Pathan,5fa06777,0,0,0,0,0,,,,,,1,0,1
+386494,2008/09,India,13,IK Pathan,5fa06777,JD Ryder,91ffa6c6,SK Raina,1dc12ab9,0,0,0,0,1,IK Pathan,5fa06777,NL McCullum,5673a3fc,caught,0,0,0
+386494,2008/09,India,13,Harbhajan Singh,8b5b6769,JD Ryder,91ffa6c6,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,0,0,0
+386494,2008/09,India,13,Harbhajan Singh,8b5b6769,JD Ryder,91ffa6c6,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,0,0,0
+386494,2008/09,India,13,Harbhajan Singh,8b5b6769,JD Ryder,91ffa6c6,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,1,0,1
+386494,2008/09,India,14,Harbhajan Singh,8b5b6769,DL Vettori,d7c6af50,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,1,0,1
+386494,2008/09,India,14,SK Raina,1dc12ab9,DL Vettori,d7c6af50,Harbhajan Singh,8b5b6769,0,0,0,0,0,,,,,,6,0,6
+386494,2008/09,India,14,SK Raina,1dc12ab9,DL Vettori,d7c6af50,Harbhajan Singh,8b5b6769,0,0,0,0,0,,,,,,1,0,1
+386494,2008/09,India,14,Harbhajan Singh,8b5b6769,DL Vettori,d7c6af50,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,0,0,0
+386494,2008/09,India,14,Harbhajan Singh,8b5b6769,DL Vettori,d7c6af50,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,1,0,1
+386494,2008/09,India,14,SK Raina,1dc12ab9,DL Vettori,d7c6af50,Harbhajan Singh,8b5b6769,0,0,0,0,0,,,,,,1,0,1
+386494,2008/09,India,15,SK Raina,1dc12ab9,JD Ryder,91ffa6c6,Harbhajan Singh,8b5b6769,0,0,0,0,0,,,,,,2,0,2
+386494,2008/09,India,15,SK Raina,1dc12ab9,JD Ryder,91ffa6c6,Harbhajan Singh,8b5b6769,0,0,0,0,0,,,,,,1,0,1
+386494,2008/09,India,15,Harbhajan Singh,8b5b6769,JD Ryder,91ffa6c6,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,0,0,0
+386494,2008/09,India,15,Harbhajan Singh,8b5b6769,JD Ryder,91ffa6c6,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,0,0,0
+386494,2008/09,India,15,Harbhajan Singh,8b5b6769,JD Ryder,91ffa6c6,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,1,0,1
+386494,2008/09,India,15,SK Raina,1dc12ab9,JD Ryder,91ffa6c6,Harbhajan Singh,8b5b6769,0,0,0,0,0,,,,,,1,0,1
+386494,2008/09,India,16,SK Raina,1dc12ab9,IG Butler,b68a30f0,Harbhajan Singh,8b5b6769,0,0,0,0,0,,,,,,1,0,1
+386494,2008/09,India,16,Harbhajan Singh,8b5b6769,IG Butler,b68a30f0,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,1,0,1
+386494,2008/09,India,16,SK Raina,1dc12ab9,IG Butler,b68a30f0,Harbhajan Singh,8b5b6769,0,0,0,0,0,,,,,,1,0,1
+386494,2008/09,India,16,Harbhajan Singh,8b5b6769,IG Butler,b68a30f0,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,2,0,2
+386494,2008/09,India,16,Harbhajan Singh,8b5b6769,IG Butler,b68a30f0,SK Raina,1dc12ab9,0,0,1,0,0,,,,,,0,1,1
+386494,2008/09,India,16,SK Raina,1dc12ab9,IG Butler,b68a30f0,Harbhajan Singh,8b5b6769,1,0,0,0,0,,,,,,0,1,1
+386494,2008/09,India,16,SK Raina,1dc12ab9,IG Butler,b68a30f0,Harbhajan Singh,8b5b6769,0,0,0,0,0,,,,,,4,0,4
+386494,2008/09,India,17,Harbhajan Singh,8b5b6769,TG Southee,13c35c9e,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,0,0,0
+386494,2008/09,India,17,Harbhajan Singh,8b5b6769,TG Southee,13c35c9e,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,2,0,2
+386494,2008/09,India,17,Harbhajan Singh,8b5b6769,TG Southee,13c35c9e,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,1,0,1
+386494,2008/09,India,17,SK Raina,1dc12ab9,TG Southee,13c35c9e,Harbhajan Singh,8b5b6769,0,0,0,0,0,,,,,,1,0,1
+386494,2008/09,India,17,Harbhajan Singh,8b5b6769,TG Southee,13c35c9e,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,0,0,0
+386494,2008/09,India,17,Harbhajan Singh,8b5b6769,TG Southee,13c35c9e,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,1,0,1
+386494,2008/09,India,18,Harbhajan Singh,8b5b6769,IE O'Brien,78f34e15,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,1,0,1
+386494,2008/09,India,18,SK Raina,1dc12ab9,IE O'Brien,78f34e15,Harbhajan Singh,8b5b6769,0,0,0,0,0,,,,,,6,0,6
+386494,2008/09,India,18,SK Raina,1dc12ab9,IE O'Brien,78f34e15,Harbhajan Singh,8b5b6769,0,0,0,0,0,,,,,,6,0,6
+386494,2008/09,India,18,SK Raina,1dc12ab9,IE O'Brien,78f34e15,Harbhajan Singh,8b5b6769,0,0,0,0,0,,,,,,0,0,0
+386494,2008/09,India,18,SK Raina,1dc12ab9,IE O'Brien,78f34e15,Harbhajan Singh,8b5b6769,0,0,0,0,0,,,,,,4,0,4
+386494,2008/09,India,18,SK Raina,1dc12ab9,IE O'Brien,78f34e15,Harbhajan Singh,8b5b6769,0,0,0,0,0,,,,,,1,0,1
+386494,2008/09,India,19,SK Raina,1dc12ab9,TG Southee,13c35c9e,Harbhajan Singh,8b5b6769,0,0,0,0,0,,,,,,1,0,1
+386494,2008/09,India,19,Harbhajan Singh,8b5b6769,TG Southee,13c35c9e,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,1,0,1
+386494,2008/09,India,19,SK Raina,1dc12ab9,TG Southee,13c35c9e,Harbhajan Singh,8b5b6769,0,0,0,0,0,,,,,,1,0,1
+386494,2008/09,India,19,Harbhajan Singh,8b5b6769,TG Southee,13c35c9e,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,4,0,4
+386494,2008/09,India,19,Harbhajan Singh,8b5b6769,TG Southee,13c35c9e,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,4,0,4
+386494,2008/09,India,19,Harbhajan Singh,8b5b6769,TG Southee,13c35c9e,SK Raina,1dc12ab9,0,0,0,0,1,Harbhajan Singh,8b5b6769,,,bowled,0,0,0
+386494,2008/09,New Zealand,0,JD Ryder,91ffa6c6,Z Khan,91a4a398,BB McCullum,b8a55852,0,0,0,0,0,,,,,,0,0,0
+386494,2008/09,New Zealand,0,JD Ryder,91ffa6c6,Z Khan,91a4a398,BB McCullum,b8a55852,0,0,0,0,0,,,,,,0,0,0
+386494,2008/09,New Zealand,0,JD Ryder,91ffa6c6,Z Khan,91a4a398,BB McCullum,b8a55852,0,0,0,0,0,,,,,,1,0,1
+386494,2008/09,New Zealand,0,BB McCullum,b8a55852,Z Khan,91a4a398,JD Ryder,91ffa6c6,0,0,0,0,0,,,,,,0,0,0
+386494,2008/09,New Zealand,0,BB McCullum,b8a55852,Z Khan,91a4a398,JD Ryder,91ffa6c6,1,0,0,0,0,,,,,,0,1,1
+386494,2008/09,New Zealand,0,BB McCullum,b8a55852,Z Khan,91a4a398,JD Ryder,91ffa6c6,0,0,0,0,0,,,,,,0,0,0
+386494,2008/09,New Zealand,0,BB McCullum,b8a55852,Z Khan,91a4a398,JD Ryder,91ffa6c6,0,0,0,0,0,,,,,,0,0,0
+386494,2008/09,New Zealand,1,JD Ryder,91ffa6c6,I Sharma,5bb1a1c4,BB McCullum,b8a55852,0,0,0,0,1,JD Ryder,91ffa6c6,,,lbw,0,0,0
+386494,2008/09,New Zealand,1,MJ Guptill,2be41edb,I Sharma,5bb1a1c4,BB McCullum,b8a55852,0,0,0,0,0,,,,,,0,0,0
+386494,2008/09,New Zealand,1,MJ Guptill,2be41edb,I Sharma,5bb1a1c4,BB McCullum,b8a55852,0,1,0,0,0,,,,,,0,1,1
+386494,2008/09,New Zealand,1,MJ Guptill,2be41edb,I Sharma,5bb1a1c4,BB McCullum,b8a55852,0,0,0,0,0,,,,,,0,0,0
+386494,2008/09,New Zealand,1,MJ Guptill,2be41edb,I Sharma,5bb1a1c4,BB McCullum,b8a55852,0,0,0,0,0,,,,,,0,0,0
+386494,2008/09,New Zealand,1,MJ Guptill,2be41edb,I Sharma,5bb1a1c4,BB McCullum,b8a55852,0,0,0,0,0,,,,,,0,0,0
+386494,2008/09,New Zealand,1,MJ Guptill,2be41edb,I Sharma,5bb1a1c4,BB McCullum,b8a55852,0,0,0,0,0,,,,,,1,0,1
+386494,2008/09,New Zealand,2,MJ Guptill,2be41edb,Z Khan,91a4a398,BB McCullum,b8a55852,0,0,0,0,0,,,,,,0,0,0
+386494,2008/09,New Zealand,2,MJ Guptill,2be41edb,Z Khan,91a4a398,BB McCullum,b8a55852,0,0,0,0,0,,,,,,0,0,0
+386494,2008/09,New Zealand,2,MJ Guptill,2be41edb,Z Khan,91a4a398,BB McCullum,b8a55852,0,0,0,0,0,,,,,,0,0,0
+386494,2008/09,New Zealand,2,MJ Guptill,2be41edb,Z Khan,91a4a398,BB McCullum,b8a55852,0,0,0,0,0,,,,,,0,0,0
+386494,2008/09,New Zealand,2,MJ Guptill,2be41edb,Z Khan,91a4a398,BB McCullum,b8a55852,0,0,0,0,0,,,,,,4,0,4
+386494,2008/09,New Zealand,2,MJ Guptill,2be41edb,Z Khan,91a4a398,BB McCullum,b8a55852,0,0,0,0,0,,,,,,1,0,1
+386494,2008/09,New Zealand,3,MJ Guptill,2be41edb,I Sharma,5bb1a1c4,BB McCullum,b8a55852,0,0,0,0,0,,,,,,1,0,1
+386494,2008/09,New Zealand,3,BB McCullum,b8a55852,I Sharma,5bb1a1c4,MJ Guptill,2be41edb,0,1,0,0,0,,,,,,0,1,1
+386494,2008/09,New Zealand,3,BB McCullum,b8a55852,I Sharma,5bb1a1c4,MJ Guptill,2be41edb,0,1,0,0,0,,,,,,1,1,2
+386494,2008/09,New Zealand,3,MJ Guptill,2be41edb,I Sharma,5bb1a1c4,BB McCullum,b8a55852,0,0,0,0,0,,,,,,4,0,4
+386494,2008/09,New Zealand,3,MJ Guptill,2be41edb,I Sharma,5bb1a1c4,BB McCullum,b8a55852,0,0,0,0,0,,,,,,6,0,6
+386494,2008/09,New Zealand,3,MJ Guptill,2be41edb,I Sharma,5bb1a1c4,BB McCullum,b8a55852,0,0,0,0,0,,,,,,0,0,0
+386494,2008/09,New Zealand,3,MJ Guptill,2be41edb,I Sharma,5bb1a1c4,BB McCullum,b8a55852,0,0,0,0,0,,,,,,0,0,0
+386494,2008/09,New Zealand,3,MJ Guptill,2be41edb,I Sharma,5bb1a1c4,BB McCullum,b8a55852,0,0,0,0,0,,,,,,1,0,1
+386494,2008/09,New Zealand,4,MJ Guptill,2be41edb,Z Khan,91a4a398,BB McCullum,b8a55852,0,0,0,0,0,,,,,,4,0,4
+386494,2008/09,New Zealand,4,MJ Guptill,2be41edb,Z Khan,91a4a398,BB McCullum,b8a55852,0,0,0,0,0,,,,,,1,0,1
+386494,2008/09,New Zealand,4,BB McCullum,b8a55852,Z Khan,91a4a398,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,2,0,2
+386494,2008/09,New Zealand,4,BB McCullum,b8a55852,Z Khan,91a4a398,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,1,0,1
+386494,2008/09,New Zealand,4,MJ Guptill,2be41edb,Z Khan,91a4a398,BB McCullum,b8a55852,0,0,0,0,0,,,,,,4,0,4
+386494,2008/09,New Zealand,4,MJ Guptill,2be41edb,Z Khan,91a4a398,BB McCullum,b8a55852,0,0,0,0,0,,,,,,0,0,0
+386494,2008/09,New Zealand,5,BB McCullum,b8a55852,IK Pathan,5fa06777,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,4,0,4
+386494,2008/09,New Zealand,5,BB McCullum,b8a55852,IK Pathan,5fa06777,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,1,0,1
+386494,2008/09,New Zealand,5,MJ Guptill,2be41edb,IK Pathan,5fa06777,BB McCullum,b8a55852,0,0,0,0,0,,,,,,6,0,6
+386494,2008/09,New Zealand,5,MJ Guptill,2be41edb,IK Pathan,5fa06777,BB McCullum,b8a55852,0,0,0,0,0,,,,,,6,0,6
+386494,2008/09,New Zealand,5,MJ Guptill,2be41edb,IK Pathan,5fa06777,BB McCullum,b8a55852,0,0,0,0,0,,,,,,0,0,0
+386494,2008/09,New Zealand,5,MJ Guptill,2be41edb,IK Pathan,5fa06777,BB McCullum,b8a55852,0,0,0,0,0,,,,,,1,0,1
+386494,2008/09,New Zealand,6,MJ Guptill,2be41edb,Harbhajan Singh,8b5b6769,BB McCullum,b8a55852,0,0,0,0,0,,,,,,1,0,1
+386494,2008/09,New Zealand,6,BB McCullum,b8a55852,Harbhajan Singh,8b5b6769,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,0,0,0
+386494,2008/09,New Zealand,6,BB McCullum,b8a55852,Harbhajan Singh,8b5b6769,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,1,0,1
+386494,2008/09,New Zealand,6,MJ Guptill,2be41edb,Harbhajan Singh,8b5b6769,BB McCullum,b8a55852,0,0,0,0,1,MJ Guptill,2be41edb,,,lbw,0,0,0
+386494,2008/09,New Zealand,6,LRPL Taylor,b61a3e1a,Harbhajan Singh,8b5b6769,BB McCullum,b8a55852,0,0,0,0,0,,,,,,0,0,0
+386494,2008/09,New Zealand,6,LRPL Taylor,b61a3e1a,Harbhajan Singh,8b5b6769,BB McCullum,b8a55852,0,0,0,0,0,,,,,,0,0,0
+386494,2008/09,New Zealand,7,BB McCullum,b8a55852,YK Pathan,3c6ffae8,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,0,0,0
+386494,2008/09,New Zealand,7,BB McCullum,b8a55852,YK Pathan,3c6ffae8,LRPL Taylor,b61a3e1a,1,0,0,0,0,,,,,,0,1,1
+386494,2008/09,New Zealand,7,BB McCullum,b8a55852,YK Pathan,3c6ffae8,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,0,0,0
+386494,2008/09,New Zealand,7,BB McCullum,b8a55852,YK Pathan,3c6ffae8,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,1,0,1
+386494,2008/09,New Zealand,7,LRPL Taylor,b61a3e1a,YK Pathan,3c6ffae8,BB McCullum,b8a55852,0,0,0,0,0,,,,,,1,0,1
+386494,2008/09,New Zealand,7,BB McCullum,b8a55852,YK Pathan,3c6ffae8,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,0,0,0
+386494,2008/09,New Zealand,7,BB McCullum,b8a55852,YK Pathan,3c6ffae8,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,1,0,1
+386494,2008/09,New Zealand,8,BB McCullum,b8a55852,Harbhajan Singh,8b5b6769,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,0,0,0
+386494,2008/09,New Zealand,8,BB McCullum,b8a55852,Harbhajan Singh,8b5b6769,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,6,0,6
+386494,2008/09,New Zealand,8,BB McCullum,b8a55852,Harbhajan Singh,8b5b6769,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,1,0,1
+386494,2008/09,New Zealand,8,LRPL Taylor,b61a3e1a,Harbhajan Singh,8b5b6769,BB McCullum,b8a55852,0,0,0,0,0,,,,,,1,0,1
+386494,2008/09,New Zealand,8,BB McCullum,b8a55852,Harbhajan Singh,8b5b6769,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,0,0,0
+386494,2008/09,New Zealand,8,BB McCullum,b8a55852,Harbhajan Singh,8b5b6769,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,1,0,1
+386494,2008/09,New Zealand,9,BB McCullum,b8a55852,I Sharma,5bb1a1c4,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,1,0,1
+386494,2008/09,New Zealand,9,LRPL Taylor,b61a3e1a,I Sharma,5bb1a1c4,BB McCullum,b8a55852,0,0,0,0,0,,,,,,1,0,1
+386494,2008/09,New Zealand,9,BB McCullum,b8a55852,I Sharma,5bb1a1c4,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,1,0,1
+386494,2008/09,New Zealand,9,LRPL Taylor,b61a3e1a,I Sharma,5bb1a1c4,BB McCullum,b8a55852,0,0,0,0,0,,,,,,1,0,1
+386494,2008/09,New Zealand,9,BB McCullum,b8a55852,I Sharma,5bb1a1c4,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,1,0,1
+386494,2008/09,New Zealand,9,LRPL Taylor,b61a3e1a,I Sharma,5bb1a1c4,BB McCullum,b8a55852,0,0,0,0,0,,,,,,0,0,0
+386494,2008/09,New Zealand,10,BB McCullum,b8a55852,IK Pathan,5fa06777,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,0,0,0
+386494,2008/09,New Zealand,10,BB McCullum,b8a55852,IK Pathan,5fa06777,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,1,0,1
+386494,2008/09,New Zealand,10,LRPL Taylor,b61a3e1a,IK Pathan,5fa06777,BB McCullum,b8a55852,0,0,0,0,0,,,,,,0,0,0
+386494,2008/09,New Zealand,10,LRPL Taylor,b61a3e1a,IK Pathan,5fa06777,BB McCullum,b8a55852,0,0,0,0,0,,,,,,6,0,6
+386494,2008/09,New Zealand,10,LRPL Taylor,b61a3e1a,IK Pathan,5fa06777,BB McCullum,b8a55852,0,0,0,0,0,,,,,,1,0,1
+386494,2008/09,New Zealand,10,BB McCullum,b8a55852,IK Pathan,5fa06777,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,1,0,1
+386494,2008/09,New Zealand,11,BB McCullum,b8a55852,YK Pathan,3c6ffae8,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,1,0,1
+386494,2008/09,New Zealand,11,LRPL Taylor,b61a3e1a,YK Pathan,3c6ffae8,BB McCullum,b8a55852,0,0,0,0,0,,,,,,6,0,6
+386494,2008/09,New Zealand,11,LRPL Taylor,b61a3e1a,YK Pathan,3c6ffae8,BB McCullum,b8a55852,0,0,0,0,0,,,,,,6,0,6
+386494,2008/09,New Zealand,11,LRPL Taylor,b61a3e1a,YK Pathan,3c6ffae8,BB McCullum,b8a55852,0,0,0,0,0,,,,,,4,0,4
+386494,2008/09,New Zealand,11,LRPL Taylor,b61a3e1a,YK Pathan,3c6ffae8,BB McCullum,b8a55852,0,0,0,0,0,,,,,,0,0,0
+386494,2008/09,New Zealand,11,LRPL Taylor,b61a3e1a,YK Pathan,3c6ffae8,BB McCullum,b8a55852,0,0,0,0,0,,,,,,1,0,1
+386494,2008/09,New Zealand,12,LRPL Taylor,b61a3e1a,Harbhajan Singh,8b5b6769,BB McCullum,b8a55852,0,0,0,0,0,,,,,,1,0,1
+386494,2008/09,New Zealand,12,BB McCullum,b8a55852,Harbhajan Singh,8b5b6769,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,1,0,1
+386494,2008/09,New Zealand,12,LRPL Taylor,b61a3e1a,Harbhajan Singh,8b5b6769,BB McCullum,b8a55852,0,0,0,0,0,,,,,,1,0,1
+386494,2008/09,New Zealand,12,BB McCullum,b8a55852,Harbhajan Singh,8b5b6769,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,0,0,0
+386494,2008/09,New Zealand,12,BB McCullum,b8a55852,Harbhajan Singh,8b5b6769,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,1,0,1
+386494,2008/09,New Zealand,12,LRPL Taylor,b61a3e1a,Harbhajan Singh,8b5b6769,BB McCullum,b8a55852,0,0,0,0,0,,,,,,1,0,1
+386494,2008/09,New Zealand,13,LRPL Taylor,b61a3e1a,Z Khan,91a4a398,BB McCullum,b8a55852,0,0,0,0,0,,,,,,0,0,0
+386494,2008/09,New Zealand,13,LRPL Taylor,b61a3e1a,Z Khan,91a4a398,BB McCullum,b8a55852,0,0,0,0,1,LRPL Taylor,b61a3e1a,,,bowled,0,0,0
+386494,2008/09,New Zealand,13,JDP Oram,3eac9d95,Z Khan,91a4a398,BB McCullum,b8a55852,0,0,0,0,0,,,,,,0,0,0
+386494,2008/09,New Zealand,13,JDP Oram,3eac9d95,Z Khan,91a4a398,BB McCullum,b8a55852,0,0,0,0,0,,,,,,1,0,1
+386494,2008/09,New Zealand,13,BB McCullum,b8a55852,Z Khan,91a4a398,JDP Oram,3eac9d95,0,0,0,0,0,,,,,,0,0,0
+386494,2008/09,New Zealand,13,BB McCullum,b8a55852,Z Khan,91a4a398,JDP Oram,3eac9d95,0,0,0,0,0,,,,,,0,0,0
+386494,2008/09,New Zealand,14,JDP Oram,3eac9d95,Yuvraj Singh,1c914163,BB McCullum,b8a55852,0,0,0,0,0,,,,,,0,0,0
+386494,2008/09,New Zealand,14,JDP Oram,3eac9d95,Yuvraj Singh,1c914163,BB McCullum,b8a55852,0,0,0,0,0,,,,,,1,0,1
+386494,2008/09,New Zealand,14,BB McCullum,b8a55852,Yuvraj Singh,1c914163,JDP Oram,3eac9d95,0,0,0,0,0,,,,,,2,0,2
+386494,2008/09,New Zealand,14,BB McCullum,b8a55852,Yuvraj Singh,1c914163,JDP Oram,3eac9d95,3,0,0,0,0,,,,,,0,3,3
+386494,2008/09,New Zealand,14,BB McCullum,b8a55852,Yuvraj Singh,1c914163,JDP Oram,3eac9d95,0,0,0,0,0,,,,,,6,0,6
+386494,2008/09,New Zealand,14,BB McCullum,b8a55852,Yuvraj Singh,1c914163,JDP Oram,3eac9d95,0,0,0,0,0,,,,,,1,0,1
+386494,2008/09,New Zealand,14,JDP Oram,3eac9d95,Yuvraj Singh,1c914163,BB McCullum,b8a55852,0,0,0,0,0,,,,,,4,0,4
+386494,2008/09,New Zealand,15,BB McCullum,b8a55852,IK Pathan,5fa06777,JDP Oram,3eac9d95,0,0,0,0,0,,,,,,0,0,0
+386494,2008/09,New Zealand,15,BB McCullum,b8a55852,IK Pathan,5fa06777,JDP Oram,3eac9d95,0,0,0,0,0,,,,,,0,0,0
+386494,2008/09,New Zealand,15,BB McCullum,b8a55852,IK Pathan,5fa06777,JDP Oram,3eac9d95,0,0,0,0,0,,,,,,4,0,4
+386494,2008/09,New Zealand,15,BB McCullum,b8a55852,IK Pathan,5fa06777,JDP Oram,3eac9d95,0,0,0,0,0,,,,,,0,0,0
+386494,2008/09,New Zealand,15,BB McCullum,b8a55852,IK Pathan,5fa06777,JDP Oram,3eac9d95,0,0,0,0,0,,,,,,1,0,1
+386494,2008/09,New Zealand,15,JDP Oram,3eac9d95,IK Pathan,5fa06777,BB McCullum,b8a55852,0,0,0,0,0,,,,,,6,0,6
+386494,2008/09,New Zealand,16,BB McCullum,b8a55852,Harbhajan Singh,8b5b6769,JDP Oram,3eac9d95,0,0,0,0,0,,,,,,0,0,0
+386494,2008/09,New Zealand,16,BB McCullum,b8a55852,Harbhajan Singh,8b5b6769,JDP Oram,3eac9d95,0,0,0,0,0,,,,,,1,0,1
+386494,2008/09,New Zealand,16,JDP Oram,3eac9d95,Harbhajan Singh,8b5b6769,BB McCullum,b8a55852,0,0,0,0,0,,,,,,0,0,0
+386494,2008/09,New Zealand,16,JDP Oram,3eac9d95,Harbhajan Singh,8b5b6769,BB McCullum,b8a55852,0,0,0,0,0,,,,,,2,0,2
+386494,2008/09,New Zealand,16,JDP Oram,3eac9d95,Harbhajan Singh,8b5b6769,BB McCullum,b8a55852,0,0,0,0,0,,,,,,0,0,0
+386494,2008/09,New Zealand,16,JDP Oram,3eac9d95,Harbhajan Singh,8b5b6769,BB McCullum,b8a55852,0,0,0,0,0,,,,,,0,0,0
+386494,2008/09,New Zealand,17,BB McCullum,b8a55852,I Sharma,5bb1a1c4,JDP Oram,3eac9d95,0,0,0,0,0,,,,,,3,0,3
+386494,2008/09,New Zealand,17,JDP Oram,3eac9d95,I Sharma,5bb1a1c4,BB McCullum,b8a55852,0,0,0,0,0,,,,,,4,0,4
+386494,2008/09,New Zealand,17,JDP Oram,3eac9d95,I Sharma,5bb1a1c4,BB McCullum,b8a55852,0,0,0,0,0,,,,,,0,0,0
+386494,2008/09,New Zealand,17,JDP Oram,3eac9d95,I Sharma,5bb1a1c4,BB McCullum,b8a55852,0,0,0,0,0,,,,,,4,0,4
+386494,2008/09,New Zealand,17,JDP Oram,3eac9d95,I Sharma,5bb1a1c4,BB McCullum,b8a55852,0,0,0,0,0,,,,,,1,0,1
+386494,2008/09,New Zealand,17,BB McCullum,b8a55852,I Sharma,5bb1a1c4,JDP Oram,3eac9d95,0,0,0,0,0,,,,,,1,0,1
+386494,2008/09,New Zealand,18,BB McCullum,b8a55852,YK Pathan,3c6ffae8,JDP Oram,3eac9d95,0,0,0,0,0,,,,,,6,0,6
+386494,2008/09,New Zealand,18,BB McCullum,b8a55852,YK Pathan,3c6ffae8,JDP Oram,3eac9d95,0,0,0,0,0,,,,,,2,0,2
+386494,2008/09,New Zealand,18,BB McCullum,b8a55852,YK Pathan,3c6ffae8,JDP Oram,3eac9d95,0,0,0,0,0,,,,,,0,0,0
+386494,2008/09,New Zealand,18,BB McCullum,b8a55852,YK Pathan,3c6ffae8,JDP Oram,3eac9d95,0,0,0,0,0,,,,,,1,0,1
+386494,2008/09,New Zealand,18,JDP Oram,3eac9d95,YK Pathan,3c6ffae8,BB McCullum,b8a55852,0,0,0,0,0,,,,,,6,0,6

@@ -1,0 +1,234 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1373570,2023/24,South Africa,0,RR Hendricks,b8cc58c9,MP Stoinis,d9273ee7,T Bavuma,9ffd1ac1,0,0,0,0,0,,,,,,1,0,1
+1373570,2023/24,South Africa,0,T Bavuma,9ffd1ac1,MP Stoinis,d9273ee7,RR Hendricks,b8cc58c9,0,0,0,0,1,T Bavuma,9ffd1ac1,TM Head,12b610c2,caught,0,0,0
+1373570,2023/24,South Africa,0,MP Breetzke,35f173a0,MP Stoinis,d9273ee7,RR Hendricks,b8cc58c9,1,0,0,0,0,,,,,,0,1,1
+1373570,2023/24,South Africa,0,MP Breetzke,35f173a0,MP Stoinis,d9273ee7,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,0,0,0
+1373570,2023/24,South Africa,0,MP Breetzke,35f173a0,MP Stoinis,d9273ee7,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,4,0,4
+1373570,2023/24,South Africa,0,MP Breetzke,35f173a0,MP Stoinis,d9273ee7,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,1,0,1
+1373570,2023/24,South Africa,0,RR Hendricks,b8cc58c9,MP Stoinis,d9273ee7,MP Breetzke,35f173a0,0,0,0,0,0,,,,,,0,0,0
+1373570,2023/24,South Africa,1,MP Breetzke,35f173a0,SH Johnson,83c3e8e3,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,0,0,0
+1373570,2023/24,South Africa,1,MP Breetzke,35f173a0,SH Johnson,83c3e8e3,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,0,0,0
+1373570,2023/24,South Africa,1,MP Breetzke,35f173a0,SH Johnson,83c3e8e3,RR Hendricks,b8cc58c9,0,0,1,0,0,,,,,,0,1,1
+1373570,2023/24,South Africa,1,RR Hendricks,b8cc58c9,SH Johnson,83c3e8e3,MP Breetzke,35f173a0,0,0,0,0,0,,,,,,2,0,2
+1373570,2023/24,South Africa,1,RR Hendricks,b8cc58c9,SH Johnson,83c3e8e3,MP Breetzke,35f173a0,0,0,0,0,0,,,,,,0,0,0
+1373570,2023/24,South Africa,1,RR Hendricks,b8cc58c9,SH Johnson,83c3e8e3,MP Breetzke,35f173a0,0,0,0,0,0,,,,,,1,0,1
+1373570,2023/24,South Africa,2,RR Hendricks,b8cc58c9,MP Stoinis,d9273ee7,MP Breetzke,35f173a0,0,0,0,0,0,,,,,,1,0,1
+1373570,2023/24,South Africa,2,MP Breetzke,35f173a0,MP Stoinis,d9273ee7,RR Hendricks,b8cc58c9,0,0,0,0,1,MP Breetzke,35f173a0,TH David,f1f99156,caught,0,0,0
+1373570,2023/24,South Africa,2,AK Markram,6a26221c,MP Stoinis,d9273ee7,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,1,0,1
+1373570,2023/24,South Africa,2,RR Hendricks,b8cc58c9,MP Stoinis,d9273ee7,AK Markram,6a26221c,0,0,0,0,0,,,,,,0,0,0
+1373570,2023/24,South Africa,2,RR Hendricks,b8cc58c9,MP Stoinis,d9273ee7,AK Markram,6a26221c,0,0,0,0,0,,,,,,1,0,1
+1373570,2023/24,South Africa,2,AK Markram,6a26221c,MP Stoinis,d9273ee7,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,1,0,1
+1373570,2023/24,South Africa,3,AK Markram,6a26221c,SH Johnson,83c3e8e3,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,0,0,0
+1373570,2023/24,South Africa,3,AK Markram,6a26221c,SH Johnson,83c3e8e3,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,4,0,4
+1373570,2023/24,South Africa,3,AK Markram,6a26221c,SH Johnson,83c3e8e3,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,0,0,0
+1373570,2023/24,South Africa,3,AK Markram,6a26221c,SH Johnson,83c3e8e3,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,2,0,2
+1373570,2023/24,South Africa,3,AK Markram,6a26221c,SH Johnson,83c3e8e3,RR Hendricks,b8cc58c9,1,0,0,0,0,,,,,,0,1,1
+1373570,2023/24,South Africa,3,AK Markram,6a26221c,SH Johnson,83c3e8e3,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,1,0,1
+1373570,2023/24,South Africa,3,RR Hendricks,b8cc58c9,SH Johnson,83c3e8e3,AK Markram,6a26221c,0,0,0,0,0,,,,,,4,0,4
+1373570,2023/24,South Africa,4,AK Markram,6a26221c,SA Abbott,1a2676c5,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,0,0,0
+1373570,2023/24,South Africa,4,AK Markram,6a26221c,SA Abbott,1a2676c5,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,0,0,0
+1373570,2023/24,South Africa,4,AK Markram,6a26221c,SA Abbott,1a2676c5,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,6,0,6
+1373570,2023/24,South Africa,4,AK Markram,6a26221c,SA Abbott,1a2676c5,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,4,0,4
+1373570,2023/24,South Africa,4,AK Markram,6a26221c,SA Abbott,1a2676c5,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,4,0,4
+1373570,2023/24,South Africa,4,AK Markram,6a26221c,SA Abbott,1a2676c5,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,0,0,0
+1373570,2023/24,South Africa,5,RR Hendricks,b8cc58c9,NT Ellis,9eb1455b,AK Markram,6a26221c,0,0,0,0,0,,,,,,1,0,1
+1373570,2023/24,South Africa,5,AK Markram,6a26221c,NT Ellis,9eb1455b,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,1,0,1
+1373570,2023/24,South Africa,5,RR Hendricks,b8cc58c9,NT Ellis,9eb1455b,AK Markram,6a26221c,0,0,0,0,0,,,,,,4,0,4
+1373570,2023/24,South Africa,5,RR Hendricks,b8cc58c9,NT Ellis,9eb1455b,AK Markram,6a26221c,0,0,0,0,0,,,,,,2,0,2
+1373570,2023/24,South Africa,5,RR Hendricks,b8cc58c9,NT Ellis,9eb1455b,AK Markram,6a26221c,0,0,0,0,0,,,,,,1,0,1
+1373570,2023/24,South Africa,5,AK Markram,6a26221c,NT Ellis,9eb1455b,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,1,0,1
+1373570,2023/24,South Africa,6,AK Markram,6a26221c,T Sangha,52c952d9,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,1,0,1
+1373570,2023/24,South Africa,6,RR Hendricks,b8cc58c9,T Sangha,52c952d9,AK Markram,6a26221c,0,0,0,0,0,,,,,,0,0,0
+1373570,2023/24,South Africa,6,RR Hendricks,b8cc58c9,T Sangha,52c952d9,AK Markram,6a26221c,0,0,0,0,0,,,,,,1,0,1
+1373570,2023/24,South Africa,6,AK Markram,6a26221c,T Sangha,52c952d9,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,1,0,1
+1373570,2023/24,South Africa,6,RR Hendricks,b8cc58c9,T Sangha,52c952d9,AK Markram,6a26221c,0,0,0,0,0,,,,,,1,0,1
+1373570,2023/24,South Africa,6,AK Markram,6a26221c,T Sangha,52c952d9,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,1,0,1
+1373570,2023/24,South Africa,7,AK Markram,6a26221c,SA Abbott,1a2676c5,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,6,0,6
+1373570,2023/24,South Africa,7,AK Markram,6a26221c,SA Abbott,1a2676c5,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,2,0,2
+1373570,2023/24,South Africa,7,AK Markram,6a26221c,SA Abbott,1a2676c5,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,4,0,4
+1373570,2023/24,South Africa,7,AK Markram,6a26221c,SA Abbott,1a2676c5,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,1,0,1
+1373570,2023/24,South Africa,7,RR Hendricks,b8cc58c9,SA Abbott,1a2676c5,AK Markram,6a26221c,0,0,0,0,0,,,,,,1,0,1
+1373570,2023/24,South Africa,7,AK Markram,6a26221c,SA Abbott,1a2676c5,RR Hendricks,b8cc58c9,0,0,0,0,1,AK Markram,6a26221c,AJ Turner,ff1e12a0,caught,0,0,0
+1373570,2023/24,South Africa,8,RR Hendricks,b8cc58c9,MP Stoinis,d9273ee7,T Stubbs,85b3fab2,0,0,0,0,0,,,,,,6,0,6
+1373570,2023/24,South Africa,8,RR Hendricks,b8cc58c9,MP Stoinis,d9273ee7,T Stubbs,85b3fab2,0,0,0,0,0,,,,,,1,0,1
+1373570,2023/24,South Africa,8,T Stubbs,85b3fab2,MP Stoinis,d9273ee7,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,1,0,1
+1373570,2023/24,South Africa,8,RR Hendricks,b8cc58c9,MP Stoinis,d9273ee7,T Stubbs,85b3fab2,0,0,0,0,0,,,,,,1,0,1
+1373570,2023/24,South Africa,8,T Stubbs,85b3fab2,MP Stoinis,d9273ee7,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,1,0,1
+1373570,2023/24,South Africa,8,RR Hendricks,b8cc58c9,MP Stoinis,d9273ee7,T Stubbs,85b3fab2,0,0,0,0,0,,,,,,2,0,2
+1373570,2023/24,South Africa,9,T Stubbs,85b3fab2,T Sangha,52c952d9,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,1,0,1
+1373570,2023/24,South Africa,9,RR Hendricks,b8cc58c9,T Sangha,52c952d9,T Stubbs,85b3fab2,0,0,0,0,0,,,,,,1,0,1
+1373570,2023/24,South Africa,9,T Stubbs,85b3fab2,T Sangha,52c952d9,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,6,0,6
+1373570,2023/24,South Africa,9,T Stubbs,85b3fab2,T Sangha,52c952d9,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,1,0,1
+1373570,2023/24,South Africa,9,RR Hendricks,b8cc58c9,T Sangha,52c952d9,T Stubbs,85b3fab2,0,0,0,0,0,,,,,,6,0,6
+1373570,2023/24,South Africa,9,RR Hendricks,b8cc58c9,T Sangha,52c952d9,T Stubbs,85b3fab2,0,0,0,0,0,,,,,,1,0,1
+1373570,2023/24,South Africa,10,RR Hendricks,b8cc58c9,SH Johnson,83c3e8e3,T Stubbs,85b3fab2,0,0,0,0,0,,,,,,0,0,0
+1373570,2023/24,South Africa,10,RR Hendricks,b8cc58c9,SH Johnson,83c3e8e3,T Stubbs,85b3fab2,0,0,0,0,0,,,,,,1,0,1
+1373570,2023/24,South Africa,10,T Stubbs,85b3fab2,SH Johnson,83c3e8e3,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,0,0,0
+1373570,2023/24,South Africa,10,T Stubbs,85b3fab2,SH Johnson,83c3e8e3,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,2,0,2
+1373570,2023/24,South Africa,10,T Stubbs,85b3fab2,SH Johnson,83c3e8e3,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,4,0,4
+1373570,2023/24,South Africa,10,T Stubbs,85b3fab2,SH Johnson,83c3e8e3,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,1,0,1
+1373570,2023/24,South Africa,11,T Stubbs,85b3fab2,NT Ellis,9eb1455b,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,0,0,0
+1373570,2023/24,South Africa,11,T Stubbs,85b3fab2,NT Ellis,9eb1455b,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,0,0,0
+1373570,2023/24,South Africa,11,T Stubbs,85b3fab2,NT Ellis,9eb1455b,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,1,0,1
+1373570,2023/24,South Africa,11,RR Hendricks,b8cc58c9,NT Ellis,9eb1455b,T Stubbs,85b3fab2,0,0,0,0,0,,,,,,1,0,1
+1373570,2023/24,South Africa,11,T Stubbs,85b3fab2,NT Ellis,9eb1455b,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,6,0,6
+1373570,2023/24,South Africa,11,T Stubbs,85b3fab2,NT Ellis,9eb1455b,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,0,0,0
+1373570,2023/24,South Africa,12,RR Hendricks,b8cc58c9,T Sangha,52c952d9,T Stubbs,85b3fab2,0,0,0,0,0,,,,,,1,0,1
+1373570,2023/24,South Africa,12,T Stubbs,85b3fab2,T Sangha,52c952d9,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,1,0,1
+1373570,2023/24,South Africa,12,RR Hendricks,b8cc58c9,T Sangha,52c952d9,T Stubbs,85b3fab2,0,0,0,0,0,,,,,,0,0,0
+1373570,2023/24,South Africa,12,RR Hendricks,b8cc58c9,T Sangha,52c952d9,T Stubbs,85b3fab2,0,0,0,0,1,RR Hendricks,b8cc58c9,JP Inglis,989889ff,caught,0,0,0
+1373570,2023/24,South Africa,12,D Ferreira,f0af99a7,T Sangha,52c952d9,T Stubbs,85b3fab2,0,0,0,0,0,,,,,,0,0,0
+1373570,2023/24,South Africa,12,D Ferreira,f0af99a7,T Sangha,52c952d9,T Stubbs,85b3fab2,0,0,0,0,0,,,,,,6,0,6
+1373570,2023/24,South Africa,13,T Stubbs,85b3fab2,SA Abbott,1a2676c5,D Ferreira,f0af99a7,0,0,0,0,1,T Stubbs,85b3fab2,MW Short,a90e53ec,caught,0,0,0
+1373570,2023/24,South Africa,13,BC Fortuin,9a2fc964,SA Abbott,1a2676c5,D Ferreira,f0af99a7,0,0,0,0,0,,,,,,0,0,0
+1373570,2023/24,South Africa,13,BC Fortuin,9a2fc964,SA Abbott,1a2676c5,D Ferreira,f0af99a7,0,0,0,0,0,,,,,,0,0,0
+1373570,2023/24,South Africa,13,BC Fortuin,9a2fc964,SA Abbott,1a2676c5,D Ferreira,f0af99a7,0,0,0,0,1,BC Fortuin,9a2fc964,MR Marsh,3d8feaf8,caught,0,0,0
+1373570,2023/24,South Africa,13,G Coetzee,3204c99f,SA Abbott,1a2676c5,D Ferreira,f0af99a7,0,0,0,0,0,,,,,,0,0,0
+1373570,2023/24,South Africa,13,G Coetzee,3204c99f,SA Abbott,1a2676c5,D Ferreira,f0af99a7,0,0,0,0,0,,,,,,0,0,0
+1373570,2023/24,South Africa,14,D Ferreira,f0af99a7,T Sangha,52c952d9,G Coetzee,3204c99f,0,0,0,0,0,,,,,,0,0,0
+1373570,2023/24,South Africa,14,D Ferreira,f0af99a7,T Sangha,52c952d9,G Coetzee,3204c99f,0,0,0,0,0,,,,,,1,0,1
+1373570,2023/24,South Africa,14,G Coetzee,3204c99f,T Sangha,52c952d9,D Ferreira,f0af99a7,0,0,0,0,0,,,,,,1,0,1
+1373570,2023/24,South Africa,14,D Ferreira,f0af99a7,T Sangha,52c952d9,G Coetzee,3204c99f,0,0,0,0,0,,,,,,1,0,1
+1373570,2023/24,South Africa,14,G Coetzee,3204c99f,T Sangha,52c952d9,D Ferreira,f0af99a7,0,0,0,0,0,,,,,,1,0,1
+1373570,2023/24,South Africa,14,D Ferreira,f0af99a7,T Sangha,52c952d9,G Coetzee,3204c99f,0,0,0,0,0,,,,,,6,0,6
+1373570,2023/24,South Africa,15,G Coetzee,3204c99f,SH Johnson,83c3e8e3,D Ferreira,f0af99a7,0,0,0,0,0,,,,,,1,0,1
+1373570,2023/24,South Africa,15,D Ferreira,f0af99a7,SH Johnson,83c3e8e3,G Coetzee,3204c99f,0,0,0,0,0,,,,,,0,0,0
+1373570,2023/24,South Africa,15,D Ferreira,f0af99a7,SH Johnson,83c3e8e3,G Coetzee,3204c99f,0,0,0,0,0,,,,,,2,0,2
+1373570,2023/24,South Africa,15,D Ferreira,f0af99a7,SH Johnson,83c3e8e3,G Coetzee,3204c99f,0,0,0,0,0,,,,,,1,0,1
+1373570,2023/24,South Africa,15,G Coetzee,3204c99f,SH Johnson,83c3e8e3,D Ferreira,f0af99a7,0,0,0,0,0,,,,,,2,0,2
+1373570,2023/24,South Africa,15,G Coetzee,3204c99f,SH Johnson,83c3e8e3,D Ferreira,f0af99a7,0,0,0,0,0,,,,,,0,0,0
+1373570,2023/24,South Africa,16,D Ferreira,f0af99a7,MP Stoinis,d9273ee7,G Coetzee,3204c99f,0,0,0,0,0,,,,,,4,0,4
+1373570,2023/24,South Africa,16,D Ferreira,f0af99a7,MP Stoinis,d9273ee7,G Coetzee,3204c99f,0,0,0,0,0,,,,,,2,0,2
+1373570,2023/24,South Africa,16,D Ferreira,f0af99a7,MP Stoinis,d9273ee7,G Coetzee,3204c99f,0,0,0,0,0,,,,,,6,0,6
+1373570,2023/24,South Africa,16,D Ferreira,f0af99a7,MP Stoinis,d9273ee7,G Coetzee,3204c99f,0,0,0,0,0,,,,,,2,0,2
+1373570,2023/24,South Africa,16,D Ferreira,f0af99a7,MP Stoinis,d9273ee7,G Coetzee,3204c99f,0,0,0,0,0,,,,,,1,0,1
+1373570,2023/24,South Africa,16,G Coetzee,3204c99f,MP Stoinis,d9273ee7,D Ferreira,f0af99a7,0,0,0,0,0,,,,,,1,0,1
+1373570,2023/24,South Africa,17,G Coetzee,3204c99f,NT Ellis,9eb1455b,D Ferreira,f0af99a7,0,0,0,0,0,,,,,,6,0,6
+1373570,2023/24,South Africa,17,G Coetzee,3204c99f,NT Ellis,9eb1455b,D Ferreira,f0af99a7,0,0,0,0,0,,,,,,1,0,1
+1373570,2023/24,South Africa,17,D Ferreira,f0af99a7,NT Ellis,9eb1455b,G Coetzee,3204c99f,0,0,0,0,0,,,,,,0,0,0
+1373570,2023/24,South Africa,17,D Ferreira,f0af99a7,NT Ellis,9eb1455b,G Coetzee,3204c99f,0,0,0,0,0,,,,,,2,0,2
+1373570,2023/24,South Africa,17,D Ferreira,f0af99a7,NT Ellis,9eb1455b,G Coetzee,3204c99f,0,0,0,0,0,,,,,,6,0,6
+1373570,2023/24,South Africa,17,D Ferreira,f0af99a7,NT Ellis,9eb1455b,G Coetzee,3204c99f,0,1,0,0,0,,,,,,0,1,1
+1373570,2023/24,South Africa,17,D Ferreira,f0af99a7,NT Ellis,9eb1455b,G Coetzee,3204c99f,0,0,0,0,0,,,,,,6,0,6
+1373570,2023/24,South Africa,18,G Coetzee,3204c99f,SA Abbott,1a2676c5,D Ferreira,f0af99a7,0,0,0,0,1,G Coetzee,3204c99f,AM Hardie,d405c0d5,caught,0,0,0
+1373570,2023/24,South Africa,18,KA Maharaj,0b60eb09,SA Abbott,1a2676c5,D Ferreira,f0af99a7,0,0,0,0,0,,,,,,0,0,0
+1373570,2023/24,South Africa,18,KA Maharaj,0b60eb09,SA Abbott,1a2676c5,D Ferreira,f0af99a7,0,0,0,0,0,,,,,,0,0,0
+1373570,2023/24,South Africa,18,KA Maharaj,0b60eb09,SA Abbott,1a2676c5,D Ferreira,f0af99a7,0,0,0,0,0,,,,,,1,0,1
+1373570,2023/24,South Africa,18,D Ferreira,f0af99a7,SA Abbott,1a2676c5,KA Maharaj,0b60eb09,0,0,0,0,0,,,,,,1,0,1
+1373570,2023/24,South Africa,18,KA Maharaj,0b60eb09,SA Abbott,1a2676c5,D Ferreira,f0af99a7,0,0,0,0,0,,,,,,1,0,1
+1373570,2023/24,South Africa,19,KA Maharaj,0b60eb09,NT Ellis,9eb1455b,D Ferreira,f0af99a7,0,0,0,0,0,,,,,,1,0,1
+1373570,2023/24,South Africa,19,D Ferreira,f0af99a7,NT Ellis,9eb1455b,KA Maharaj,0b60eb09,0,0,0,0,0,,,,,,1,0,1
+1373570,2023/24,South Africa,19,KA Maharaj,0b60eb09,NT Ellis,9eb1455b,D Ferreira,f0af99a7,0,0,0,0,1,D Ferreira,f0af99a7,JP Inglis,989889ff,run out,0,0,0
+1373570,2023/24,South Africa,19,L Ngidi,f834dcfc,NT Ellis,9eb1455b,KA Maharaj,0b60eb09,0,0,0,0,0,,,,,,2,0,2
+1373570,2023/24,South Africa,19,L Ngidi,f834dcfc,NT Ellis,9eb1455b,KA Maharaj,0b60eb09,0,0,0,1,0,,,,,,0,1,1
+1373570,2023/24,South Africa,19,KA Maharaj,0b60eb09,NT Ellis,9eb1455b,L Ngidi,f834dcfc,0,0,0,0,0,,,,,,6,0,6
+1373570,2023/24,Australia,0,MW Short,a90e53ec,AK Markram,6a26221c,TM Head,12b610c2,0,0,0,0,1,MW Short,a90e53ec,,,lbw,0,0,0
+1373570,2023/24,Australia,0,MR Marsh,3d8feaf8,AK Markram,6a26221c,TM Head,12b610c2,1,0,0,0,0,,,,,,0,1,1
+1373570,2023/24,Australia,0,MR Marsh,3d8feaf8,AK Markram,6a26221c,TM Head,12b610c2,0,0,0,0,0,,,,,,0,0,0
+1373570,2023/24,Australia,0,MR Marsh,3d8feaf8,AK Markram,6a26221c,TM Head,12b610c2,0,0,0,0,0,,,,,,0,0,0
+1373570,2023/24,Australia,0,MR Marsh,3d8feaf8,AK Markram,6a26221c,TM Head,12b610c2,0,0,0,0,0,,,,,,0,0,0
+1373570,2023/24,Australia,0,MR Marsh,3d8feaf8,AK Markram,6a26221c,TM Head,12b610c2,0,0,0,0,0,,,,,,1,0,1
+1373570,2023/24,Australia,0,TM Head,12b610c2,AK Markram,6a26221c,MR Marsh,3d8feaf8,0,0,0,0,0,,,,,,1,0,1
+1373570,2023/24,Australia,1,TM Head,12b610c2,LB Williams,a1d95bd8,MR Marsh,3d8feaf8,0,0,0,0,0,,,,,,1,0,1
+1373570,2023/24,Australia,1,MR Marsh,3d8feaf8,LB Williams,a1d95bd8,TM Head,12b610c2,0,0,0,0,0,,,,,,0,0,0
+1373570,2023/24,Australia,1,MR Marsh,3d8feaf8,LB Williams,a1d95bd8,TM Head,12b610c2,0,0,0,0,0,,,,,,4,0,4
+1373570,2023/24,Australia,1,MR Marsh,3d8feaf8,LB Williams,a1d95bd8,TM Head,12b610c2,0,0,0,0,0,,,,,,4,0,4
+1373570,2023/24,Australia,1,MR Marsh,3d8feaf8,LB Williams,a1d95bd8,TM Head,12b610c2,0,0,0,0,0,,,,,,4,0,4
+1373570,2023/24,Australia,1,MR Marsh,3d8feaf8,LB Williams,a1d95bd8,TM Head,12b610c2,0,0,0,0,0,,,,,,0,0,0
+1373570,2023/24,Australia,2,TM Head,12b610c2,BC Fortuin,9a2fc964,MR Marsh,3d8feaf8,0,0,0,0,0,,,,,,6,0,6
+1373570,2023/24,Australia,2,TM Head,12b610c2,BC Fortuin,9a2fc964,MR Marsh,3d8feaf8,0,0,0,0,0,,,,,,0,0,0
+1373570,2023/24,Australia,2,TM Head,12b610c2,BC Fortuin,9a2fc964,MR Marsh,3d8feaf8,0,0,0,0,0,,,,,,0,0,0
+1373570,2023/24,Australia,2,TM Head,12b610c2,BC Fortuin,9a2fc964,MR Marsh,3d8feaf8,0,0,0,0,0,,,,,,1,0,1
+1373570,2023/24,Australia,2,MR Marsh,3d8feaf8,BC Fortuin,9a2fc964,TM Head,12b610c2,0,0,0,0,0,,,,,,1,0,1
+1373570,2023/24,Australia,2,TM Head,12b610c2,BC Fortuin,9a2fc964,MR Marsh,3d8feaf8,0,0,0,0,0,,,,,,1,0,1
+1373570,2023/24,Australia,3,TM Head,12b610c2,L Ngidi,f834dcfc,MR Marsh,3d8feaf8,0,0,0,0,0,,,,,,0,0,0
+1373570,2023/24,Australia,3,TM Head,12b610c2,L Ngidi,f834dcfc,MR Marsh,3d8feaf8,0,0,0,0,0,,,,,,6,0,6
+1373570,2023/24,Australia,3,TM Head,12b610c2,L Ngidi,f834dcfc,MR Marsh,3d8feaf8,0,0,0,0,0,,,,,,6,0,6
+1373570,2023/24,Australia,3,TM Head,12b610c2,L Ngidi,f834dcfc,MR Marsh,3d8feaf8,0,0,0,0,0,,,,,,4,0,4
+1373570,2023/24,Australia,3,TM Head,12b610c2,L Ngidi,f834dcfc,MR Marsh,3d8feaf8,0,0,0,0,0,,,,,,1,0,1
+1373570,2023/24,Australia,3,MR Marsh,3d8feaf8,L Ngidi,f834dcfc,TM Head,12b610c2,0,0,0,0,0,,,,,,1,0,1
+1373570,2023/24,Australia,4,MR Marsh,3d8feaf8,G Coetzee,3204c99f,TM Head,12b610c2,0,0,0,0,1,MR Marsh,3d8feaf8,BC Fortuin,9a2fc964,caught,0,0,0
+1373570,2023/24,Australia,4,JP Inglis,989889ff,G Coetzee,3204c99f,TM Head,12b610c2,0,0,0,0,0,,,,,,1,0,1
+1373570,2023/24,Australia,4,TM Head,12b610c2,G Coetzee,3204c99f,JP Inglis,989889ff,0,0,0,0,0,,,,,,0,0,0
+1373570,2023/24,Australia,4,TM Head,12b610c2,G Coetzee,3204c99f,JP Inglis,989889ff,0,0,0,0,0,,,,,,1,0,1
+1373570,2023/24,Australia,4,JP Inglis,989889ff,G Coetzee,3204c99f,TM Head,12b610c2,0,0,0,0,0,,,,,,6,0,6
+1373570,2023/24,Australia,4,JP Inglis,989889ff,G Coetzee,3204c99f,TM Head,12b610c2,0,0,0,0,0,,,,,,1,0,1
+1373570,2023/24,Australia,5,JP Inglis,989889ff,LB Williams,a1d95bd8,TM Head,12b610c2,0,0,0,0,0,,,,,,0,0,0
+1373570,2023/24,Australia,5,JP Inglis,989889ff,LB Williams,a1d95bd8,TM Head,12b610c2,0,0,0,0,0,,,,,,1,0,1
+1373570,2023/24,Australia,5,TM Head,12b610c2,LB Williams,a1d95bd8,JP Inglis,989889ff,0,0,0,0,0,,,,,,2,0,2
+1373570,2023/24,Australia,5,TM Head,12b610c2,LB Williams,a1d95bd8,JP Inglis,989889ff,0,0,0,0,0,,,,,,4,0,4
+1373570,2023/24,Australia,5,TM Head,12b610c2,LB Williams,a1d95bd8,JP Inglis,989889ff,0,0,0,0,0,,,,,,0,0,0
+1373570,2023/24,Australia,5,TM Head,12b610c2,LB Williams,a1d95bd8,JP Inglis,989889ff,0,0,0,0,0,,,,,,4,0,4
+1373570,2023/24,Australia,6,JP Inglis,989889ff,BC Fortuin,9a2fc964,TM Head,12b610c2,0,0,0,0,0,,,,,,2,0,2
+1373570,2023/24,Australia,6,JP Inglis,989889ff,BC Fortuin,9a2fc964,TM Head,12b610c2,0,0,0,0,0,,,,,,1,0,1
+1373570,2023/24,Australia,6,TM Head,12b610c2,BC Fortuin,9a2fc964,JP Inglis,989889ff,0,0,0,0,0,,,,,,0,0,0
+1373570,2023/24,Australia,6,TM Head,12b610c2,BC Fortuin,9a2fc964,JP Inglis,989889ff,0,0,0,0,0,,,,,,6,0,6
+1373570,2023/24,Australia,6,TM Head,12b610c2,BC Fortuin,9a2fc964,JP Inglis,989889ff,0,0,0,0,0,,,,,,0,0,0
+1373570,2023/24,Australia,6,TM Head,12b610c2,BC Fortuin,9a2fc964,JP Inglis,989889ff,0,0,0,0,0,,,,,,4,0,4
+1373570,2023/24,Australia,7,JP Inglis,989889ff,KA Maharaj,0b60eb09,TM Head,12b610c2,0,0,0,0,0,,,,,,0,0,0
+1373570,2023/24,Australia,7,JP Inglis,989889ff,KA Maharaj,0b60eb09,TM Head,12b610c2,0,0,0,0,0,,,,,,3,0,3
+1373570,2023/24,Australia,7,TM Head,12b610c2,KA Maharaj,0b60eb09,JP Inglis,989889ff,0,0,0,0,0,,,,,,0,0,0
+1373570,2023/24,Australia,7,TM Head,12b610c2,KA Maharaj,0b60eb09,JP Inglis,989889ff,0,0,0,0,0,,,,,,4,0,4
+1373570,2023/24,Australia,7,TM Head,12b610c2,KA Maharaj,0b60eb09,JP Inglis,989889ff,1,0,0,0,0,,,,,,0,1,1
+1373570,2023/24,Australia,7,TM Head,12b610c2,KA Maharaj,0b60eb09,JP Inglis,989889ff,0,1,0,0,0,,,,,,1,1,2
+1373570,2023/24,Australia,7,JP Inglis,989889ff,KA Maharaj,0b60eb09,TM Head,12b610c2,0,0,0,0,0,,,,,,6,0,6
+1373570,2023/24,Australia,7,JP Inglis,989889ff,KA Maharaj,0b60eb09,TM Head,12b610c2,0,0,0,0,0,,,,,,4,0,4
+1373570,2023/24,Australia,8,TM Head,12b610c2,AK Markram,6a26221c,JP Inglis,989889ff,0,0,0,0,0,,,,,,1,0,1
+1373570,2023/24,Australia,8,JP Inglis,989889ff,AK Markram,6a26221c,TM Head,12b610c2,0,0,0,0,0,,,,,,0,0,0
+1373570,2023/24,Australia,8,JP Inglis,989889ff,AK Markram,6a26221c,TM Head,12b610c2,0,0,0,0,0,,,,,,1,0,1
+1373570,2023/24,Australia,8,TM Head,12b610c2,AK Markram,6a26221c,JP Inglis,989889ff,0,0,0,0,0,,,,,,1,0,1
+1373570,2023/24,Australia,8,JP Inglis,989889ff,AK Markram,6a26221c,TM Head,12b610c2,0,0,0,0,0,,,,,,0,0,0
+1373570,2023/24,Australia,8,JP Inglis,989889ff,AK Markram,6a26221c,TM Head,12b610c2,0,0,0,0,0,,,,,,6,0,6
+1373570,2023/24,Australia,9,TM Head,12b610c2,G Coetzee,3204c99f,JP Inglis,989889ff,0,0,0,0,0,,,,,,1,0,1
+1373570,2023/24,Australia,9,JP Inglis,989889ff,G Coetzee,3204c99f,TM Head,12b610c2,0,0,0,0,0,,,,,,1,0,1
+1373570,2023/24,Australia,9,TM Head,12b610c2,G Coetzee,3204c99f,JP Inglis,989889ff,0,0,0,0,0,,,,,,1,0,1
+1373570,2023/24,Australia,9,JP Inglis,989889ff,G Coetzee,3204c99f,TM Head,12b610c2,0,0,0,0,0,,,,,,1,0,1
+1373570,2023/24,Australia,9,TM Head,12b610c2,G Coetzee,3204c99f,JP Inglis,989889ff,0,0,0,0,0,,,,,,4,0,4
+1373570,2023/24,Australia,9,TM Head,12b610c2,G Coetzee,3204c99f,JP Inglis,989889ff,0,0,0,0,0,,,,,,4,0,4
+1373570,2023/24,Australia,10,JP Inglis,989889ff,AK Markram,6a26221c,TM Head,12b610c2,0,0,0,0,0,,,,,,6,0,6
+1373570,2023/24,Australia,10,JP Inglis,989889ff,AK Markram,6a26221c,TM Head,12b610c2,0,0,0,0,0,,,,,,0,0,0
+1373570,2023/24,Australia,10,JP Inglis,989889ff,AK Markram,6a26221c,TM Head,12b610c2,0,0,0,0,0,,,,,,1,0,1
+1373570,2023/24,Australia,10,TM Head,12b610c2,AK Markram,6a26221c,JP Inglis,989889ff,0,0,0,0,0,,,,,,2,0,2
+1373570,2023/24,Australia,10,TM Head,12b610c2,AK Markram,6a26221c,JP Inglis,989889ff,0,0,0,0,0,,,,,,1,0,1
+1373570,2023/24,Australia,10,JP Inglis,989889ff,AK Markram,6a26221c,TM Head,12b610c2,0,0,0,0,0,,,,,,1,0,1
+1373570,2023/24,Australia,11,JP Inglis,989889ff,BC Fortuin,9a2fc964,TM Head,12b610c2,0,0,0,0,1,JP Inglis,989889ff,G Coetzee,3204c99f,caught,0,0,0
+1373570,2023/24,Australia,11,MP Stoinis,d9273ee7,BC Fortuin,9a2fc964,TM Head,12b610c2,0,0,0,0,0,,,,,,1,0,1
+1373570,2023/24,Australia,11,TM Head,12b610c2,BC Fortuin,9a2fc964,MP Stoinis,d9273ee7,0,0,0,0,0,,,,,,0,0,0
+1373570,2023/24,Australia,11,TM Head,12b610c2,BC Fortuin,9a2fc964,MP Stoinis,d9273ee7,0,0,0,0,0,,,,,,1,0,1
+1373570,2023/24,Australia,11,MP Stoinis,d9273ee7,BC Fortuin,9a2fc964,TM Head,12b610c2,0,0,0,0,0,,,,,,0,0,0
+1373570,2023/24,Australia,11,MP Stoinis,d9273ee7,BC Fortuin,9a2fc964,TM Head,12b610c2,0,0,0,0,0,,,,,,1,0,1
+1373570,2023/24,Australia,12,MP Stoinis,d9273ee7,KA Maharaj,0b60eb09,TM Head,12b610c2,0,0,0,0,0,,,,,,0,0,0
+1373570,2023/24,Australia,12,MP Stoinis,d9273ee7,KA Maharaj,0b60eb09,TM Head,12b610c2,0,0,0,0,0,,,,,,0,0,0
+1373570,2023/24,Australia,12,MP Stoinis,d9273ee7,KA Maharaj,0b60eb09,TM Head,12b610c2,0,0,0,0,0,,,,,,0,0,0
+1373570,2023/24,Australia,12,MP Stoinis,d9273ee7,KA Maharaj,0b60eb09,TM Head,12b610c2,0,0,0,0,0,,,,,,1,0,1
+1373570,2023/24,Australia,12,TM Head,12b610c2,KA Maharaj,0b60eb09,MP Stoinis,d9273ee7,0,0,0,0,0,,,,,,1,0,1
+1373570,2023/24,Australia,12,MP Stoinis,d9273ee7,KA Maharaj,0b60eb09,TM Head,12b610c2,0,0,0,0,0,,,,,,4,0,4
+1373570,2023/24,Australia,13,TM Head,12b610c2,AK Markram,6a26221c,MP Stoinis,d9273ee7,0,0,0,0,0,,,,,,0,0,0
+1373570,2023/24,Australia,13,TM Head,12b610c2,AK Markram,6a26221c,MP Stoinis,d9273ee7,0,0,0,0,0,,,,,,1,0,1
+1373570,2023/24,Australia,13,MP Stoinis,d9273ee7,AK Markram,6a26221c,TM Head,12b610c2,0,0,0,0,0,,,,,,6,0,6
+1373570,2023/24,Australia,13,MP Stoinis,d9273ee7,AK Markram,6a26221c,TM Head,12b610c2,0,0,0,0,0,,,,,,0,0,0
+1373570,2023/24,Australia,13,MP Stoinis,d9273ee7,AK Markram,6a26221c,TM Head,12b610c2,0,0,0,0,0,,,,,,6,0,6
+1373570,2023/24,Australia,13,MP Stoinis,d9273ee7,AK Markram,6a26221c,TM Head,12b610c2,0,0,0,0,0,,,,,,1,0,1
+1373570,2023/24,Australia,14,MP Stoinis,d9273ee7,KA Maharaj,0b60eb09,TM Head,12b610c2,0,0,0,0,0,,,,,,0,0,0
+1373570,2023/24,Australia,14,MP Stoinis,d9273ee7,KA Maharaj,0b60eb09,TM Head,12b610c2,0,0,0,0,0,,,,,,6,0,6
+1373570,2023/24,Australia,14,MP Stoinis,d9273ee7,KA Maharaj,0b60eb09,TM Head,12b610c2,0,0,0,0,0,,,,,,1,0,1
+1373570,2023/24,Australia,14,TM Head,12b610c2,KA Maharaj,0b60eb09,MP Stoinis,d9273ee7,0,0,0,0,0,,,,,,0,0,0
+1373570,2023/24,Australia,14,TM Head,12b610c2,KA Maharaj,0b60eb09,MP Stoinis,d9273ee7,0,0,0,0,0,,,,,,6,0,6
+1373570,2023/24,Australia,14,TM Head,12b610c2,KA Maharaj,0b60eb09,MP Stoinis,d9273ee7,0,0,0,0,0,,,,,,1,0,1
+1373570,2023/24,Australia,15,TM Head,12b610c2,G Coetzee,3204c99f,MP Stoinis,d9273ee7,0,0,0,0,0,,,,,,4,0,4
+1373570,2023/24,Australia,15,TM Head,12b610c2,G Coetzee,3204c99f,MP Stoinis,d9273ee7,0,0,0,0,0,,,,,,1,0,1
+1373570,2023/24,Australia,15,MP Stoinis,d9273ee7,G Coetzee,3204c99f,TM Head,12b610c2,0,0,0,0,0,,,,,,4,0,4
+1373570,2023/24,Australia,15,MP Stoinis,d9273ee7,G Coetzee,3204c99f,TM Head,12b610c2,0,0,0,0,0,,,,,,1,0,1
+1373570,2023/24,Australia,15,TM Head,12b610c2,G Coetzee,3204c99f,MP Stoinis,d9273ee7,0,0,0,0,0,,,,,,0,0,0
+1373570,2023/24,Australia,15,TM Head,12b610c2,G Coetzee,3204c99f,MP Stoinis,d9273ee7,0,0,0,0,0,,,,,,1,0,1
+1373570,2023/24,Australia,16,TM Head,12b610c2,BC Fortuin,9a2fc964,MP Stoinis,d9273ee7,0,0,0,0,0,,,,,,1,0,1
+1373570,2023/24,Australia,16,MP Stoinis,d9273ee7,BC Fortuin,9a2fc964,TM Head,12b610c2,0,0,0,0,0,,,,,,2,0,2
+1373570,2023/24,Australia,16,MP Stoinis,d9273ee7,BC Fortuin,9a2fc964,TM Head,12b610c2,0,0,0,0,0,,,,,,1,0,1
+1373570,2023/24,Australia,16,TM Head,12b610c2,BC Fortuin,9a2fc964,MP Stoinis,d9273ee7,0,0,0,0,0,,,,,,6,0,6
+1373570,2023/24,Australia,16,TM Head,12b610c2,BC Fortuin,9a2fc964,MP Stoinis,d9273ee7,0,0,0,0,1,TM Head,12b610c2,T Bavuma,9ffd1ac1,caught,0,0,0
+1373570,2023/24,Australia,16,TH David,f1f99156,BC Fortuin,9a2fc964,MP Stoinis,d9273ee7,0,0,0,0,0,,,,,,1,0,1
+1373570,2023/24,Australia,17,TH David,f1f99156,G Coetzee,3204c99f,MP Stoinis,d9273ee7,0,0,0,0,1,TH David,f1f99156,D Ferreira,f0af99a7,caught,0,0,0
+1373570,2023/24,Australia,17,AJ Turner,ff1e12a0,G Coetzee,3204c99f,MP Stoinis,d9273ee7,0,0,0,0,0,,,,,,1,0,1
+1373570,2023/24,Australia,17,MP Stoinis,d9273ee7,G Coetzee,3204c99f,AJ Turner,ff1e12a0,0,0,0,0,0,,,,,,1,0,1
+1373570,2023/24,Australia,17,AJ Turner,ff1e12a0,G Coetzee,3204c99f,MP Stoinis,d9273ee7,0,0,0,0,0,,,,,,1,0,1
+1373570,2023/24,Australia,17,MP Stoinis,d9273ee7,G Coetzee,3204c99f,AJ Turner,ff1e12a0,0,0,0,0,0,,,,,,1,0,1

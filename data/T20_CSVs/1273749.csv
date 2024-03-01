@@ -1,0 +1,229 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1273749,2021/22,West Indies,0,CH Gayle,db584dad,MA Starc,3fb19989,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,2,0,2
+1273749,2021/22,West Indies,0,CH Gayle,db584dad,MA Starc,3fb19989,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,1,0,1
+1273749,2021/22,West Indies,0,E Lewis,0ebfb1ad,MA Starc,3fb19989,CH Gayle,db584dad,0,0,1,0,0,,,,,,0,1,1
+1273749,2021/22,West Indies,0,CH Gayle,db584dad,MA Starc,3fb19989,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,0,0,0
+1273749,2021/22,West Indies,0,CH Gayle,db584dad,MA Starc,3fb19989,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,0,0,0
+1273749,2021/22,West Indies,0,CH Gayle,db584dad,MA Starc,3fb19989,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,0,0,0
+1273749,2021/22,West Indies,1,E Lewis,0ebfb1ad,JR Hazlewood,03806cf8,CH Gayle,db584dad,0,0,0,0,0,,,,,,4,0,4
+1273749,2021/22,West Indies,1,E Lewis,0ebfb1ad,JR Hazlewood,03806cf8,CH Gayle,db584dad,0,0,0,0,0,,,,,,4,0,4
+1273749,2021/22,West Indies,1,E Lewis,0ebfb1ad,JR Hazlewood,03806cf8,CH Gayle,db584dad,0,0,0,0,0,,,,,,4,0,4
+1273749,2021/22,West Indies,1,E Lewis,0ebfb1ad,JR Hazlewood,03806cf8,CH Gayle,db584dad,0,0,0,0,0,,,,,,1,0,1
+1273749,2021/22,West Indies,1,CH Gayle,db584dad,JR Hazlewood,03806cf8,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,6,0,6
+1273749,2021/22,West Indies,1,CH Gayle,db584dad,JR Hazlewood,03806cf8,E Lewis,0ebfb1ad,0,0,1,0,0,,,,,,0,1,1
+1273749,2021/22,West Indies,2,CH Gayle,db584dad,PJ Cummins,ded9240e,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,6,0,6
+1273749,2021/22,West Indies,2,CH Gayle,db584dad,PJ Cummins,ded9240e,E Lewis,0ebfb1ad,0,0,0,0,1,CH Gayle,db584dad,,,bowled,0,0,0
+1273749,2021/22,West Indies,2,N Pooran,3241e3fd,PJ Cummins,ded9240e,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,0,0,0
+1273749,2021/22,West Indies,2,N Pooran,3241e3fd,PJ Cummins,ded9240e,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,4,0,4
+1273749,2021/22,West Indies,2,N Pooran,3241e3fd,PJ Cummins,ded9240e,E Lewis,0ebfb1ad,0,0,1,0,0,,,,,,0,1,1
+1273749,2021/22,West Indies,2,E Lewis,0ebfb1ad,PJ Cummins,ded9240e,N Pooran,3241e3fd,0,0,0,0,0,,,,,,0,0,0
+1273749,2021/22,West Indies,3,N Pooran,3241e3fd,JR Hazlewood,03806cf8,E Lewis,0ebfb1ad,0,0,0,0,1,N Pooran,3241e3fd,MR Marsh,3d8feaf8,caught,0,0,0
+1273749,2021/22,West Indies,3,RL Chase,3feda4fa,JR Hazlewood,03806cf8,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,0,0,0
+1273749,2021/22,West Indies,3,RL Chase,3feda4fa,JR Hazlewood,03806cf8,E Lewis,0ebfb1ad,0,0,0,0,1,RL Chase,3feda4fa,,,bowled,0,0,0
+1273749,2021/22,West Indies,3,SO Hetmyer,48a1d7b7,JR Hazlewood,03806cf8,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,1,0,1
+1273749,2021/22,West Indies,3,E Lewis,0ebfb1ad,JR Hazlewood,03806cf8,SO Hetmyer,48a1d7b7,0,0,0,0,0,,,,,,1,0,1
+1273749,2021/22,West Indies,3,SO Hetmyer,48a1d7b7,JR Hazlewood,03806cf8,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,0,0,0
+1273749,2021/22,West Indies,4,E Lewis,0ebfb1ad,PJ Cummins,ded9240e,SO Hetmyer,48a1d7b7,0,0,0,0,0,,,,,,1,0,1
+1273749,2021/22,West Indies,4,SO Hetmyer,48a1d7b7,PJ Cummins,ded9240e,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,1,0,1
+1273749,2021/22,West Indies,4,E Lewis,0ebfb1ad,PJ Cummins,ded9240e,SO Hetmyer,48a1d7b7,0,0,0,0,0,,,,,,0,0,0
+1273749,2021/22,West Indies,4,E Lewis,0ebfb1ad,PJ Cummins,ded9240e,SO Hetmyer,48a1d7b7,0,0,0,0,0,,,,,,1,0,1
+1273749,2021/22,West Indies,4,SO Hetmyer,48a1d7b7,PJ Cummins,ded9240e,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,4,0,4
+1273749,2021/22,West Indies,4,SO Hetmyer,48a1d7b7,PJ Cummins,ded9240e,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,0,0,0
+1273749,2021/22,West Indies,5,E Lewis,0ebfb1ad,GJ Maxwell,b681e71e,SO Hetmyer,48a1d7b7,0,0,0,0,0,,,,,,1,0,1
+1273749,2021/22,West Indies,5,SO Hetmyer,48a1d7b7,GJ Maxwell,b681e71e,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,0,0,0
+1273749,2021/22,West Indies,5,SO Hetmyer,48a1d7b7,GJ Maxwell,b681e71e,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,1,0,1
+1273749,2021/22,West Indies,5,E Lewis,0ebfb1ad,GJ Maxwell,b681e71e,SO Hetmyer,48a1d7b7,0,0,0,0,0,,,,,,4,0,4
+1273749,2021/22,West Indies,5,E Lewis,0ebfb1ad,GJ Maxwell,b681e71e,SO Hetmyer,48a1d7b7,0,0,0,0,0,,,,,,0,0,0
+1273749,2021/22,West Indies,5,E Lewis,0ebfb1ad,GJ Maxwell,b681e71e,SO Hetmyer,48a1d7b7,0,0,0,0,0,,,,,,0,0,0
+1273749,2021/22,West Indies,6,SO Hetmyer,48a1d7b7,MR Marsh,3d8feaf8,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,1,0,1
+1273749,2021/22,West Indies,6,E Lewis,0ebfb1ad,MR Marsh,3d8feaf8,SO Hetmyer,48a1d7b7,0,0,0,0,0,,,,,,0,0,0
+1273749,2021/22,West Indies,6,E Lewis,0ebfb1ad,MR Marsh,3d8feaf8,SO Hetmyer,48a1d7b7,0,0,0,0,0,,,,,,0,0,0
+1273749,2021/22,West Indies,6,E Lewis,0ebfb1ad,MR Marsh,3d8feaf8,SO Hetmyer,48a1d7b7,0,0,0,0,0,,,,,,1,0,1
+1273749,2021/22,West Indies,6,SO Hetmyer,48a1d7b7,MR Marsh,3d8feaf8,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,1,0,1
+1273749,2021/22,West Indies,6,E Lewis,0ebfb1ad,MR Marsh,3d8feaf8,SO Hetmyer,48a1d7b7,0,0,0,0,0,,,,,,0,0,0
+1273749,2021/22,West Indies,7,SO Hetmyer,48a1d7b7,A Zampa,14f96089,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,1,0,1
+1273749,2021/22,West Indies,7,E Lewis,0ebfb1ad,A Zampa,14f96089,SO Hetmyer,48a1d7b7,0,0,0,0,0,,,,,,1,0,1
+1273749,2021/22,West Indies,7,SO Hetmyer,48a1d7b7,A Zampa,14f96089,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,1,0,1
+1273749,2021/22,West Indies,7,E Lewis,0ebfb1ad,A Zampa,14f96089,SO Hetmyer,48a1d7b7,0,0,0,0,0,,,,,,0,0,0
+1273749,2021/22,West Indies,7,E Lewis,0ebfb1ad,A Zampa,14f96089,SO Hetmyer,48a1d7b7,0,0,1,0,0,,,,,,0,1,1
+1273749,2021/22,West Indies,7,SO Hetmyer,48a1d7b7,A Zampa,14f96089,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,0,0,0
+1273749,2021/22,West Indies,8,E Lewis,0ebfb1ad,MR Marsh,3d8feaf8,SO Hetmyer,48a1d7b7,0,0,0,0,0,,,,,,1,0,1
+1273749,2021/22,West Indies,8,SO Hetmyer,48a1d7b7,MR Marsh,3d8feaf8,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,1,0,1
+1273749,2021/22,West Indies,8,E Lewis,0ebfb1ad,MR Marsh,3d8feaf8,SO Hetmyer,48a1d7b7,0,0,0,0,0,,,,,,1,0,1
+1273749,2021/22,West Indies,8,SO Hetmyer,48a1d7b7,MR Marsh,3d8feaf8,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,4,0,4
+1273749,2021/22,West Indies,8,SO Hetmyer,48a1d7b7,MR Marsh,3d8feaf8,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,1,0,1
+1273749,2021/22,West Indies,8,E Lewis,0ebfb1ad,MR Marsh,3d8feaf8,SO Hetmyer,48a1d7b7,0,0,0,0,0,,,,,,0,0,0
+1273749,2021/22,West Indies,9,SO Hetmyer,48a1d7b7,A Zampa,14f96089,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,1,0,1
+1273749,2021/22,West Indies,9,E Lewis,0ebfb1ad,A Zampa,14f96089,SO Hetmyer,48a1d7b7,0,0,0,0,0,,,,,,4,0,4
+1273749,2021/22,West Indies,9,E Lewis,0ebfb1ad,A Zampa,14f96089,SO Hetmyer,48a1d7b7,0,0,0,0,1,E Lewis,0ebfb1ad,SPD Smith,30a45b23,caught,0,0,0
+1273749,2021/22,West Indies,9,SO Hetmyer,48a1d7b7,A Zampa,14f96089,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,1,0,1
+1273749,2021/22,West Indies,9,KA Pollard,a757b0d8,A Zampa,14f96089,SO Hetmyer,48a1d7b7,0,0,0,0,0,,,,,,1,0,1
+1273749,2021/22,West Indies,9,SO Hetmyer,48a1d7b7,A Zampa,14f96089,KA Pollard,a757b0d8,1,0,0,0,0,,,,,,0,1,1
+1273749,2021/22,West Indies,9,SO Hetmyer,48a1d7b7,A Zampa,14f96089,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,1,0,1
+1273749,2021/22,West Indies,10,SO Hetmyer,48a1d7b7,MA Starc,3fb19989,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,0,0,0
+1273749,2021/22,West Indies,10,SO Hetmyer,48a1d7b7,MA Starc,3fb19989,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,1,0,1
+1273749,2021/22,West Indies,10,KA Pollard,a757b0d8,MA Starc,3fb19989,SO Hetmyer,48a1d7b7,0,0,0,0,0,,,,,,2,0,2
+1273749,2021/22,West Indies,10,KA Pollard,a757b0d8,MA Starc,3fb19989,SO Hetmyer,48a1d7b7,0,0,0,0,0,,,,,,0,0,0
+1273749,2021/22,West Indies,10,KA Pollard,a757b0d8,MA Starc,3fb19989,SO Hetmyer,48a1d7b7,1,0,0,0,0,,,,,,0,1,1
+1273749,2021/22,West Indies,10,KA Pollard,a757b0d8,MA Starc,3fb19989,SO Hetmyer,48a1d7b7,0,0,1,0,0,,,,,,0,1,1
+1273749,2021/22,West Indies,10,SO Hetmyer,48a1d7b7,MA Starc,3fb19989,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,2,0,2
+1273749,2021/22,West Indies,11,KA Pollard,a757b0d8,A Zampa,14f96089,SO Hetmyer,48a1d7b7,0,0,0,0,0,,,,,,0,0,0
+1273749,2021/22,West Indies,11,KA Pollard,a757b0d8,A Zampa,14f96089,SO Hetmyer,48a1d7b7,0,0,0,0,0,,,,,,1,0,1
+1273749,2021/22,West Indies,11,SO Hetmyer,48a1d7b7,A Zampa,14f96089,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,0,0,0
+1273749,2021/22,West Indies,11,SO Hetmyer,48a1d7b7,A Zampa,14f96089,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,0,0,0
+1273749,2021/22,West Indies,11,SO Hetmyer,48a1d7b7,A Zampa,14f96089,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,1,0,1
+1273749,2021/22,West Indies,11,KA Pollard,a757b0d8,A Zampa,14f96089,SO Hetmyer,48a1d7b7,0,0,0,0,0,,,,,,4,0,4
+1273749,2021/22,West Indies,12,SO Hetmyer,48a1d7b7,JR Hazlewood,03806cf8,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,0,0,0
+1273749,2021/22,West Indies,12,SO Hetmyer,48a1d7b7,JR Hazlewood,03806cf8,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,2,0,2
+1273749,2021/22,West Indies,12,SO Hetmyer,48a1d7b7,JR Hazlewood,03806cf8,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,1,0,1
+1273749,2021/22,West Indies,12,KA Pollard,a757b0d8,JR Hazlewood,03806cf8,SO Hetmyer,48a1d7b7,0,0,0,0,0,,,,,,1,0,1
+1273749,2021/22,West Indies,12,SO Hetmyer,48a1d7b7,JR Hazlewood,03806cf8,KA Pollard,a757b0d8,0,0,0,0,1,SO Hetmyer,48a1d7b7,MS Wade,afa7e784,caught,0,0,0
+1273749,2021/22,West Indies,12,DJ Bravo,87e562a9,JR Hazlewood,03806cf8,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,1,0,1
+1273749,2021/22,West Indies,13,DJ Bravo,87e562a9,A Zampa,14f96089,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,0,0,0
+1273749,2021/22,West Indies,13,DJ Bravo,87e562a9,A Zampa,14f96089,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,1,0,1
+1273749,2021/22,West Indies,13,KA Pollard,a757b0d8,A Zampa,14f96089,DJ Bravo,87e562a9,0,0,0,0,0,,,,,,0,0,0
+1273749,2021/22,West Indies,13,KA Pollard,a757b0d8,A Zampa,14f96089,DJ Bravo,87e562a9,0,0,0,0,0,,,,,,1,0,1
+1273749,2021/22,West Indies,13,DJ Bravo,87e562a9,A Zampa,14f96089,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,0,0,0
+1273749,2021/22,West Indies,13,DJ Bravo,87e562a9,A Zampa,14f96089,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,0,0,0
+1273749,2021/22,West Indies,14,KA Pollard,a757b0d8,MR Marsh,3d8feaf8,DJ Bravo,87e562a9,0,0,0,0,0,,,,,,2,0,2
+1273749,2021/22,West Indies,14,KA Pollard,a757b0d8,MR Marsh,3d8feaf8,DJ Bravo,87e562a9,0,0,0,0,0,,,,,,0,0,0
+1273749,2021/22,West Indies,14,KA Pollard,a757b0d8,MR Marsh,3d8feaf8,DJ Bravo,87e562a9,0,0,0,0,0,,,,,,0,0,0
+1273749,2021/22,West Indies,14,KA Pollard,a757b0d8,MR Marsh,3d8feaf8,DJ Bravo,87e562a9,0,0,0,0,0,,,,,,2,0,2
+1273749,2021/22,West Indies,14,KA Pollard,a757b0d8,MR Marsh,3d8feaf8,DJ Bravo,87e562a9,0,0,0,0,0,,,,,,1,0,1
+1273749,2021/22,West Indies,14,DJ Bravo,87e562a9,MR Marsh,3d8feaf8,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,0,0,0
+1273749,2021/22,West Indies,15,KA Pollard,a757b0d8,MA Starc,3fb19989,DJ Bravo,87e562a9,0,0,0,0,0,,,,,,1,0,1
+1273749,2021/22,West Indies,15,DJ Bravo,87e562a9,MA Starc,3fb19989,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,1,0,1
+1273749,2021/22,West Indies,15,KA Pollard,a757b0d8,MA Starc,3fb19989,DJ Bravo,87e562a9,0,0,0,0,0,,,,,,1,0,1
+1273749,2021/22,West Indies,15,DJ Bravo,87e562a9,MA Starc,3fb19989,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,0,0,0
+1273749,2021/22,West Indies,15,DJ Bravo,87e562a9,MA Starc,3fb19989,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,6,0,6
+1273749,2021/22,West Indies,15,DJ Bravo,87e562a9,MA Starc,3fb19989,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,1,0,1
+1273749,2021/22,West Indies,16,DJ Bravo,87e562a9,PJ Cummins,ded9240e,KA Pollard,a757b0d8,0,0,1,0,0,,,,,,0,1,1
+1273749,2021/22,West Indies,16,KA Pollard,a757b0d8,PJ Cummins,ded9240e,DJ Bravo,87e562a9,0,0,0,0,0,,,,,,2,0,2
+1273749,2021/22,West Indies,16,KA Pollard,a757b0d8,PJ Cummins,ded9240e,DJ Bravo,87e562a9,0,0,0,0,0,,,,,,4,0,4
+1273749,2021/22,West Indies,16,KA Pollard,a757b0d8,PJ Cummins,ded9240e,DJ Bravo,87e562a9,0,0,0,0,0,,,,,,0,0,0
+1273749,2021/22,West Indies,16,KA Pollard,a757b0d8,PJ Cummins,ded9240e,DJ Bravo,87e562a9,0,0,0,0,0,,,,,,6,0,6
+1273749,2021/22,West Indies,16,KA Pollard,a757b0d8,PJ Cummins,ded9240e,DJ Bravo,87e562a9,0,0,0,0,0,,,,,,1,0,1
+1273749,2021/22,West Indies,17,KA Pollard,a757b0d8,JR Hazlewood,03806cf8,DJ Bravo,87e562a9,0,0,0,0,0,,,,,,2,0,2
+1273749,2021/22,West Indies,17,KA Pollard,a757b0d8,JR Hazlewood,03806cf8,DJ Bravo,87e562a9,0,0,0,0,0,,,,,,1,0,1
+1273749,2021/22,West Indies,17,DJ Bravo,87e562a9,JR Hazlewood,03806cf8,KA Pollard,a757b0d8,0,0,0,0,1,DJ Bravo,87e562a9,DA Warner,dcce6f09,caught,0,0,0
+1273749,2021/22,West Indies,17,KA Pollard,a757b0d8,JR Hazlewood,03806cf8,AD Russell,bbd41817,0,0,0,0,0,,,,,,4,0,4
+1273749,2021/22,West Indies,17,KA Pollard,a757b0d8,JR Hazlewood,03806cf8,AD Russell,bbd41817,1,0,0,0,0,,,,,,0,1,1
+1273749,2021/22,West Indies,17,KA Pollard,a757b0d8,JR Hazlewood,03806cf8,AD Russell,bbd41817,0,0,0,0,0,,,,,,4,0,4
+1273749,2021/22,West Indies,17,KA Pollard,a757b0d8,JR Hazlewood,03806cf8,AD Russell,bbd41817,0,0,0,0,0,,,,,,1,0,1
+1273749,2021/22,West Indies,18,KA Pollard,a757b0d8,PJ Cummins,ded9240e,AD Russell,bbd41817,0,0,0,0,0,,,,,,1,0,1
+1273749,2021/22,West Indies,18,AD Russell,bbd41817,PJ Cummins,ded9240e,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,4,0,4
+1273749,2021/22,West Indies,18,AD Russell,bbd41817,PJ Cummins,ded9240e,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,0,0,0
+1273749,2021/22,West Indies,18,AD Russell,bbd41817,PJ Cummins,ded9240e,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,1,0,1
+1273749,2021/22,West Indies,18,KA Pollard,a757b0d8,PJ Cummins,ded9240e,AD Russell,bbd41817,0,0,0,0,0,,,,,,1,0,1
+1273749,2021/22,West Indies,18,AD Russell,bbd41817,PJ Cummins,ded9240e,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,0,0,0
+1273749,2021/22,West Indies,19,KA Pollard,a757b0d8,MA Starc,3fb19989,AD Russell,bbd41817,0,0,0,0,0,,,,,,0,0,0
+1273749,2021/22,West Indies,19,KA Pollard,a757b0d8,MA Starc,3fb19989,AD Russell,bbd41817,0,0,0,0,1,KA Pollard,a757b0d8,GJ Maxwell,b681e71e,caught,0,0,0
+1273749,2021/22,West Indies,19,AD Russell,bbd41817,MA Starc,3fb19989,JO Holder,0f721006,0,0,0,0,0,,,,,,1,0,1
+1273749,2021/22,West Indies,19,JO Holder,0f721006,MA Starc,3fb19989,AD Russell,bbd41817,0,0,0,0,0,,,,,,1,0,1
+1273749,2021/22,West Indies,19,AD Russell,bbd41817,MA Starc,3fb19989,JO Holder,0f721006,0,0,0,0,0,,,,,,6,0,6
+1273749,2021/22,West Indies,19,AD Russell,bbd41817,MA Starc,3fb19989,JO Holder,0f721006,0,0,0,0,0,,,,,,6,0,6
+1273749,2021/22,Australia,0,DA Warner,dcce6f09,AJ Hosein,4d7f517e,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,0,0,0
+1273749,2021/22,Australia,0,DA Warner,dcce6f09,AJ Hosein,4d7f517e,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,1,0,1
+1273749,2021/22,Australia,0,AJ Finch,b8d490fd,AJ Hosein,4d7f517e,DA Warner,dcce6f09,0,0,0,0,0,,,,,,0,0,0
+1273749,2021/22,Australia,0,AJ Finch,b8d490fd,AJ Hosein,4d7f517e,DA Warner,dcce6f09,0,0,0,0,0,,,,,,1,0,1
+1273749,2021/22,Australia,0,DA Warner,dcce6f09,AJ Hosein,4d7f517e,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,2,0,2
+1273749,2021/22,Australia,0,DA Warner,dcce6f09,AJ Hosein,4d7f517e,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,1,0,1
+1273749,2021/22,Australia,1,DA Warner,dcce6f09,RL Chase,3feda4fa,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,0,0,0
+1273749,2021/22,Australia,1,DA Warner,dcce6f09,RL Chase,3feda4fa,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,0,0,0
+1273749,2021/22,Australia,1,DA Warner,dcce6f09,RL Chase,3feda4fa,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,4,0,4
+1273749,2021/22,Australia,1,DA Warner,dcce6f09,RL Chase,3feda4fa,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,1,0,1
+1273749,2021/22,Australia,1,AJ Finch,b8d490fd,RL Chase,3feda4fa,DA Warner,dcce6f09,0,0,0,0,0,,,,,,4,0,4
+1273749,2021/22,Australia,1,AJ Finch,b8d490fd,RL Chase,3feda4fa,DA Warner,dcce6f09,0,1,0,0,0,,,,,,2,1,3
+1273749,2021/22,Australia,1,AJ Finch,b8d490fd,RL Chase,3feda4fa,DA Warner,dcce6f09,0,0,0,0,0,,,,,,1,0,1
+1273749,2021/22,Australia,2,AJ Finch,b8d490fd,JO Holder,0f721006,DA Warner,dcce6f09,0,0,0,0,0,,,,,,0,0,0
+1273749,2021/22,Australia,2,AJ Finch,b8d490fd,JO Holder,0f721006,DA Warner,dcce6f09,0,0,0,0,0,,,,,,0,0,0
+1273749,2021/22,Australia,2,AJ Finch,b8d490fd,JO Holder,0f721006,DA Warner,dcce6f09,0,0,0,0,0,,,,,,1,0,1
+1273749,2021/22,Australia,2,DA Warner,dcce6f09,JO Holder,0f721006,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,4,0,4
+1273749,2021/22,Australia,2,DA Warner,dcce6f09,JO Holder,0f721006,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,4,0,4
+1273749,2021/22,Australia,2,DA Warner,dcce6f09,JO Holder,0f721006,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,6,0,6
+1273749,2021/22,Australia,3,AJ Finch,b8d490fd,AJ Hosein,4d7f517e,DA Warner,dcce6f09,0,0,0,0,0,,,,,,0,0,0
+1273749,2021/22,Australia,3,AJ Finch,b8d490fd,AJ Hosein,4d7f517e,DA Warner,dcce6f09,0,0,0,0,0,,,,,,0,0,0
+1273749,2021/22,Australia,3,AJ Finch,b8d490fd,AJ Hosein,4d7f517e,DA Warner,dcce6f09,0,0,0,0,1,AJ Finch,b8d490fd,,,bowled,0,0,0
+1273749,2021/22,Australia,3,MR Marsh,3d8feaf8,AJ Hosein,4d7f517e,DA Warner,dcce6f09,0,0,0,0,0,,,,,,1,0,1
+1273749,2021/22,Australia,3,DA Warner,dcce6f09,AJ Hosein,4d7f517e,MR Marsh,3d8feaf8,0,0,0,0,0,,,,,,1,0,1
+1273749,2021/22,Australia,3,MR Marsh,3d8feaf8,AJ Hosein,4d7f517e,DA Warner,dcce6f09,0,0,0,0,0,,,,,,0,0,0
+1273749,2021/22,Australia,4,DA Warner,dcce6f09,DJ Bravo,87e562a9,MR Marsh,3d8feaf8,0,0,0,0,0,,,,,,4,0,4
+1273749,2021/22,Australia,4,DA Warner,dcce6f09,DJ Bravo,87e562a9,MR Marsh,3d8feaf8,0,0,0,0,0,,,,,,0,0,0
+1273749,2021/22,Australia,4,DA Warner,dcce6f09,DJ Bravo,87e562a9,MR Marsh,3d8feaf8,0,0,0,0,0,,,,,,0,0,0
+1273749,2021/22,Australia,4,DA Warner,dcce6f09,DJ Bravo,87e562a9,MR Marsh,3d8feaf8,0,0,0,0,0,,,,,,0,0,0
+1273749,2021/22,Australia,4,DA Warner,dcce6f09,DJ Bravo,87e562a9,MR Marsh,3d8feaf8,0,0,0,0,0,,,,,,1,0,1
+1273749,2021/22,Australia,4,MR Marsh,3d8feaf8,DJ Bravo,87e562a9,DA Warner,dcce6f09,0,0,0,0,0,,,,,,1,0,1
+1273749,2021/22,Australia,5,MR Marsh,3d8feaf8,AJ Hosein,4d7f517e,DA Warner,dcce6f09,0,0,0,0,0,,,,,,1,0,1
+1273749,2021/22,Australia,5,DA Warner,dcce6f09,AJ Hosein,4d7f517e,MR Marsh,3d8feaf8,0,0,0,0,0,,,,,,6,0,6
+1273749,2021/22,Australia,5,DA Warner,dcce6f09,AJ Hosein,4d7f517e,MR Marsh,3d8feaf8,0,0,0,0,0,,,,,,0,0,0
+1273749,2021/22,Australia,5,DA Warner,dcce6f09,AJ Hosein,4d7f517e,MR Marsh,3d8feaf8,0,0,0,0,0,,,,,,0,0,0
+1273749,2021/22,Australia,5,DA Warner,dcce6f09,AJ Hosein,4d7f517e,MR Marsh,3d8feaf8,0,0,0,0,0,,,,,,4,0,4
+1273749,2021/22,Australia,5,DA Warner,dcce6f09,AJ Hosein,4d7f517e,MR Marsh,3d8feaf8,0,0,0,0,0,,,,,,1,0,1
+1273749,2021/22,Australia,6,DA Warner,dcce6f09,HR Walsh,1ac2a995,MR Marsh,3d8feaf8,0,0,0,0,0,,,,,,0,0,0
+1273749,2021/22,Australia,6,DA Warner,dcce6f09,HR Walsh,1ac2a995,MR Marsh,3d8feaf8,0,0,1,0,0,,,,,,0,1,1
+1273749,2021/22,Australia,6,MR Marsh,3d8feaf8,HR Walsh,1ac2a995,DA Warner,dcce6f09,0,0,0,0,0,,,,,,4,0,4
+1273749,2021/22,Australia,6,MR Marsh,3d8feaf8,HR Walsh,1ac2a995,DA Warner,dcce6f09,0,0,0,0,0,,,,,,1,0,1
+1273749,2021/22,Australia,6,DA Warner,dcce6f09,HR Walsh,1ac2a995,MR Marsh,3d8feaf8,0,0,0,0,0,,,,,,1,0,1
+1273749,2021/22,Australia,6,MR Marsh,3d8feaf8,HR Walsh,1ac2a995,DA Warner,dcce6f09,0,0,0,0,0,,,,,,1,0,1
+1273749,2021/22,Australia,7,MR Marsh,3d8feaf8,AJ Hosein,4d7f517e,DA Warner,dcce6f09,0,0,0,0,0,,,,,,1,0,1
+1273749,2021/22,Australia,7,DA Warner,dcce6f09,AJ Hosein,4d7f517e,MR Marsh,3d8feaf8,0,0,0,0,0,,,,,,1,0,1
+1273749,2021/22,Australia,7,MR Marsh,3d8feaf8,AJ Hosein,4d7f517e,DA Warner,dcce6f09,0,0,0,0,0,,,,,,6,0,6
+1273749,2021/22,Australia,7,MR Marsh,3d8feaf8,AJ Hosein,4d7f517e,DA Warner,dcce6f09,0,0,0,0,0,,,,,,1,0,1
+1273749,2021/22,Australia,7,DA Warner,dcce6f09,AJ Hosein,4d7f517e,MR Marsh,3d8feaf8,0,0,0,0,0,,,,,,1,0,1
+1273749,2021/22,Australia,7,MR Marsh,3d8feaf8,AJ Hosein,4d7f517e,DA Warner,dcce6f09,0,0,0,0,0,,,,,,0,0,0
+1273749,2021/22,Australia,8,DA Warner,dcce6f09,HR Walsh,1ac2a995,MR Marsh,3d8feaf8,0,0,0,0,0,,,,,,6,0,6
+1273749,2021/22,Australia,8,DA Warner,dcce6f09,HR Walsh,1ac2a995,MR Marsh,3d8feaf8,0,0,0,0,0,,,,,,2,0,2
+1273749,2021/22,Australia,8,DA Warner,dcce6f09,HR Walsh,1ac2a995,MR Marsh,3d8feaf8,0,0,0,0,0,,,,,,1,0,1
+1273749,2021/22,Australia,8,MR Marsh,3d8feaf8,HR Walsh,1ac2a995,DA Warner,dcce6f09,0,0,0,0,0,,,,,,0,0,0
+1273749,2021/22,Australia,8,MR Marsh,3d8feaf8,HR Walsh,1ac2a995,DA Warner,dcce6f09,0,0,0,0,0,,,,,,1,0,1
+1273749,2021/22,Australia,8,DA Warner,dcce6f09,HR Walsh,1ac2a995,MR Marsh,3d8feaf8,0,0,0,0,0,,,,,,1,0,1
+1273749,2021/22,Australia,9,DA Warner,dcce6f09,AD Russell,bbd41817,MR Marsh,3d8feaf8,0,0,0,0,0,,,,,,0,0,0
+1273749,2021/22,Australia,9,DA Warner,dcce6f09,AD Russell,bbd41817,MR Marsh,3d8feaf8,0,0,0,0,0,,,,,,1,0,1
+1273749,2021/22,Australia,9,MR Marsh,3d8feaf8,AD Russell,bbd41817,DA Warner,dcce6f09,0,0,0,0,0,,,,,,6,0,6
+1273749,2021/22,Australia,9,MR Marsh,3d8feaf8,AD Russell,bbd41817,DA Warner,dcce6f09,0,0,0,0,0,,,,,,4,0,4
+1273749,2021/22,Australia,9,MR Marsh,3d8feaf8,AD Russell,bbd41817,DA Warner,dcce6f09,0,0,0,0,0,,,,,,4,0,4
+1273749,2021/22,Australia,9,MR Marsh,3d8feaf8,AD Russell,bbd41817,DA Warner,dcce6f09,0,0,0,0,0,,,,,,1,0,1
+1273749,2021/22,Australia,10,MR Marsh,3d8feaf8,DJ Bravo,87e562a9,DA Warner,dcce6f09,1,0,0,0,0,,,,,,0,1,1
+1273749,2021/22,Australia,10,MR Marsh,3d8feaf8,DJ Bravo,87e562a9,DA Warner,dcce6f09,0,0,0,0,0,,,,,,2,0,2
+1273749,2021/22,Australia,10,MR Marsh,3d8feaf8,DJ Bravo,87e562a9,DA Warner,dcce6f09,0,0,0,0,0,,,,,,2,0,2
+1273749,2021/22,Australia,10,MR Marsh,3d8feaf8,DJ Bravo,87e562a9,DA Warner,dcce6f09,0,0,0,0,0,,,,,,0,0,0
+1273749,2021/22,Australia,10,MR Marsh,3d8feaf8,DJ Bravo,87e562a9,DA Warner,dcce6f09,0,0,0,0,0,,,,,,1,0,1
+1273749,2021/22,Australia,10,DA Warner,dcce6f09,DJ Bravo,87e562a9,MR Marsh,3d8feaf8,0,0,0,0,0,,,,,,0,0,0
+1273749,2021/22,Australia,10,DA Warner,dcce6f09,DJ Bravo,87e562a9,MR Marsh,3d8feaf8,0,0,0,0,0,,,,,,1,0,1
+1273749,2021/22,Australia,11,DA Warner,dcce6f09,AD Russell,bbd41817,MR Marsh,3d8feaf8,0,0,0,0,0,,,,,,1,0,1
+1273749,2021/22,Australia,11,MR Marsh,3d8feaf8,AD Russell,bbd41817,DA Warner,dcce6f09,0,0,0,0,0,,,,,,1,0,1
+1273749,2021/22,Australia,11,DA Warner,dcce6f09,AD Russell,bbd41817,MR Marsh,3d8feaf8,0,0,0,0,0,,,,,,4,0,4
+1273749,2021/22,Australia,11,DA Warner,dcce6f09,AD Russell,bbd41817,MR Marsh,3d8feaf8,0,0,0,0,0,,,,,,1,0,1
+1273749,2021/22,Australia,11,MR Marsh,3d8feaf8,AD Russell,bbd41817,DA Warner,dcce6f09,0,0,0,0,0,,,,,,1,0,1
+1273749,2021/22,Australia,11,DA Warner,dcce6f09,AD Russell,bbd41817,MR Marsh,3d8feaf8,0,0,0,0,0,,,,,,1,0,1
+1273749,2021/22,Australia,12,DA Warner,dcce6f09,DJ Bravo,87e562a9,MR Marsh,3d8feaf8,0,0,0,0,0,,,,,,0,0,0
+1273749,2021/22,Australia,12,DA Warner,dcce6f09,DJ Bravo,87e562a9,MR Marsh,3d8feaf8,1,0,0,0,0,,,,,,0,1,1
+1273749,2021/22,Australia,12,DA Warner,dcce6f09,DJ Bravo,87e562a9,MR Marsh,3d8feaf8,0,0,0,0,0,,,,,,1,0,1
+1273749,2021/22,Australia,12,MR Marsh,3d8feaf8,DJ Bravo,87e562a9,DA Warner,dcce6f09,0,0,0,0,0,,,,,,0,0,0
+1273749,2021/22,Australia,12,MR Marsh,3d8feaf8,DJ Bravo,87e562a9,DA Warner,dcce6f09,0,0,0,0,0,,,,,,1,0,1
+1273749,2021/22,Australia,12,DA Warner,dcce6f09,DJ Bravo,87e562a9,MR Marsh,3d8feaf8,0,0,0,0,0,,,,,,4,0,4
+1273749,2021/22,Australia,12,DA Warner,dcce6f09,DJ Bravo,87e562a9,MR Marsh,3d8feaf8,0,0,0,0,0,,,,,,1,0,1
+1273749,2021/22,Australia,13,DA Warner,dcce6f09,JO Holder,0f721006,MR Marsh,3d8feaf8,0,0,0,0,0,,,,,,0,0,0
+1273749,2021/22,Australia,13,DA Warner,dcce6f09,JO Holder,0f721006,MR Marsh,3d8feaf8,1,0,0,0,0,,,,,,0,1,1
+1273749,2021/22,Australia,13,DA Warner,dcce6f09,JO Holder,0f721006,MR Marsh,3d8feaf8,0,0,0,0,0,,,,,,1,0,1
+1273749,2021/22,Australia,13,MR Marsh,3d8feaf8,JO Holder,0f721006,DA Warner,dcce6f09,0,0,0,0,0,,,,,,4,0,4
+1273749,2021/22,Australia,13,MR Marsh,3d8feaf8,JO Holder,0f721006,DA Warner,dcce6f09,0,0,0,0,0,,,,,,4,0,4
+1273749,2021/22,Australia,13,MR Marsh,3d8feaf8,JO Holder,0f721006,DA Warner,dcce6f09,0,0,0,0,0,,,,,,1,0,1
+1273749,2021/22,Australia,13,DA Warner,dcce6f09,JO Holder,0f721006,MR Marsh,3d8feaf8,0,0,0,0,0,,,,,,0,0,0
+1273749,2021/22,Australia,14,MR Marsh,3d8feaf8,DJ Bravo,87e562a9,DA Warner,dcce6f09,1,0,0,0,0,,,,,,0,1,1
+1273749,2021/22,Australia,14,MR Marsh,3d8feaf8,DJ Bravo,87e562a9,DA Warner,dcce6f09,0,0,0,0,0,,,,,,2,0,2
+1273749,2021/22,Australia,14,MR Marsh,3d8feaf8,DJ Bravo,87e562a9,DA Warner,dcce6f09,0,0,2,0,0,,,,,,0,2,2
+1273749,2021/22,Australia,14,MR Marsh,3d8feaf8,DJ Bravo,87e562a9,DA Warner,dcce6f09,0,0,0,0,0,,,,,,1,0,1
+1273749,2021/22,Australia,14,DA Warner,dcce6f09,DJ Bravo,87e562a9,MR Marsh,3d8feaf8,0,0,0,0,0,,,,,,4,0,4
+1273749,2021/22,Australia,14,DA Warner,dcce6f09,DJ Bravo,87e562a9,MR Marsh,3d8feaf8,0,0,0,0,0,,,,,,6,0,6
+1273749,2021/22,Australia,14,DA Warner,dcce6f09,DJ Bravo,87e562a9,MR Marsh,3d8feaf8,0,0,0,0,0,,,,,,1,0,1
+1273749,2021/22,Australia,15,DA Warner,dcce6f09,CH Gayle,db584dad,MR Marsh,3d8feaf8,0,0,0,0,0,,,,,,0,0,0
+1273749,2021/22,Australia,15,DA Warner,dcce6f09,CH Gayle,db584dad,MR Marsh,3d8feaf8,1,0,0,0,0,,,,,,0,1,1
+1273749,2021/22,Australia,15,DA Warner,dcce6f09,CH Gayle,db584dad,MR Marsh,3d8feaf8,0,0,0,0,0,,,,,,0,0,0
+1273749,2021/22,Australia,15,DA Warner,dcce6f09,CH Gayle,db584dad,MR Marsh,3d8feaf8,1,0,0,0,0,,,,,,0,1,1
+1273749,2021/22,Australia,15,DA Warner,dcce6f09,CH Gayle,db584dad,MR Marsh,3d8feaf8,0,0,0,0,0,,,,,,2,0,2
+1273749,2021/22,Australia,15,DA Warner,dcce6f09,CH Gayle,db584dad,MR Marsh,3d8feaf8,0,0,0,0,0,,,,,,2,0,2
+1273749,2021/22,Australia,15,DA Warner,dcce6f09,CH Gayle,db584dad,MR Marsh,3d8feaf8,0,0,0,0,0,,,,,,1,0,1
+1273749,2021/22,Australia,15,MR Marsh,3d8feaf8,CH Gayle,db584dad,DA Warner,dcce6f09,0,0,0,0,1,MR Marsh,3d8feaf8,JO Holder,0f721006,caught,0,0,0
+1273749,2021/22,Australia,16,DA Warner,dcce6f09,RL Chase,3feda4fa,GJ Maxwell,b681e71e,0,0,0,0,0,,,,,,0,0,0
+1273749,2021/22,Australia,16,DA Warner,dcce6f09,RL Chase,3feda4fa,GJ Maxwell,b681e71e,0,0,0,0,0,,,,,,4,0,4

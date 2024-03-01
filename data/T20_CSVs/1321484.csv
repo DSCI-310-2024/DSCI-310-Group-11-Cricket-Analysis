@@ -1,0 +1,236 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1321484,2022,Zimbabwe,0,RW Chakabva,2f0d7e4a,FJ Klaassen,c042b412,CR Ervine,c96311d4,0,0,0,0,0,,,,,,2,0,2
+1321484,2022,Zimbabwe,0,RW Chakabva,2f0d7e4a,FJ Klaassen,c042b412,CR Ervine,c96311d4,0,0,0,0,0,,,,,,4,0,4
+1321484,2022,Zimbabwe,0,RW Chakabva,2f0d7e4a,FJ Klaassen,c042b412,CR Ervine,c96311d4,0,0,0,0,0,,,,,,1,0,1
+1321484,2022,Zimbabwe,0,CR Ervine,c96311d4,FJ Klaassen,c042b412,RW Chakabva,2f0d7e4a,0,0,0,0,0,,,,,,0,0,0
+1321484,2022,Zimbabwe,0,CR Ervine,c96311d4,FJ Klaassen,c042b412,RW Chakabva,2f0d7e4a,0,0,0,0,0,,,,,,4,0,4
+1321484,2022,Zimbabwe,0,CR Ervine,c96311d4,FJ Klaassen,c042b412,RW Chakabva,2f0d7e4a,0,0,0,0,0,,,,,,1,0,1
+1321484,2022,Zimbabwe,1,CR Ervine,c96311d4,TJG Pringle,8ce2080b,RW Chakabva,2f0d7e4a,0,0,0,0,0,,,,,,0,0,0
+1321484,2022,Zimbabwe,1,CR Ervine,c96311d4,TJG Pringle,8ce2080b,RW Chakabva,2f0d7e4a,0,0,0,0,0,,,,,,1,0,1
+1321484,2022,Zimbabwe,1,RW Chakabva,2f0d7e4a,TJG Pringle,8ce2080b,CR Ervine,c96311d4,0,0,0,0,0,,,,,,0,0,0
+1321484,2022,Zimbabwe,1,RW Chakabva,2f0d7e4a,TJG Pringle,8ce2080b,CR Ervine,c96311d4,0,0,0,0,0,,,,,,6,0,6
+1321484,2022,Zimbabwe,1,RW Chakabva,2f0d7e4a,TJG Pringle,8ce2080b,CR Ervine,c96311d4,0,0,0,0,0,,,,,,1,0,1
+1321484,2022,Zimbabwe,1,CR Ervine,c96311d4,TJG Pringle,8ce2080b,RW Chakabva,2f0d7e4a,0,0,0,0,0,,,,,,4,0,4
+1321484,2022,Zimbabwe,2,RW Chakabva,2f0d7e4a,LV van Beek,782fb776,CR Ervine,c96311d4,1,0,0,0,0,,,,,,0,1,1
+1321484,2022,Zimbabwe,2,RW Chakabva,2f0d7e4a,LV van Beek,782fb776,CR Ervine,c96311d4,0,0,0,0,0,,,,,,0,0,0
+1321484,2022,Zimbabwe,2,RW Chakabva,2f0d7e4a,LV van Beek,782fb776,CR Ervine,c96311d4,0,0,0,0,0,,,,,,4,0,4
+1321484,2022,Zimbabwe,2,RW Chakabva,2f0d7e4a,LV van Beek,782fb776,CR Ervine,c96311d4,0,0,0,1,0,,,,,,0,1,1
+1321484,2022,Zimbabwe,2,CR Ervine,c96311d4,LV van Beek,782fb776,RW Chakabva,2f0d7e4a,0,0,0,0,0,,,,,,0,0,0
+1321484,2022,Zimbabwe,2,CR Ervine,c96311d4,LV van Beek,782fb776,RW Chakabva,2f0d7e4a,0,0,0,0,1,CR Ervine,c96311d4,,,bowled,0,0,0
+1321484,2022,Zimbabwe,2,SC Williams,afe57f7a,LV van Beek,782fb776,RW Chakabva,2f0d7e4a,0,0,0,0,0,,,,,,0,0,0
+1321484,2022,Zimbabwe,3,RW Chakabva,2f0d7e4a,PA van Meekeren,4557dc54,SC Williams,afe57f7a,0,0,0,0,0,,,,,,6,0,6
+1321484,2022,Zimbabwe,3,RW Chakabva,2f0d7e4a,PA van Meekeren,4557dc54,SC Williams,afe57f7a,0,0,0,0,0,,,,,,1,0,1
+1321484,2022,Zimbabwe,3,SC Williams,afe57f7a,PA van Meekeren,4557dc54,RW Chakabva,2f0d7e4a,0,0,0,0,0,,,,,,0,0,0
+1321484,2022,Zimbabwe,3,SC Williams,afe57f7a,PA van Meekeren,4557dc54,RW Chakabva,2f0d7e4a,0,0,0,0,0,,,,,,1,0,1
+1321484,2022,Zimbabwe,3,RW Chakabva,2f0d7e4a,PA van Meekeren,4557dc54,SC Williams,afe57f7a,0,0,0,0,0,,,,,,0,0,0
+1321484,2022,Zimbabwe,3,RW Chakabva,2f0d7e4a,PA van Meekeren,4557dc54,SC Williams,afe57f7a,0,0,0,0,0,,,,,,1,0,1
+1321484,2022,Zimbabwe,4,RW Chakabva,2f0d7e4a,BFW de Leede,fc4375ef,SC Williams,afe57f7a,0,0,0,0,0,,,,,,0,0,0
+1321484,2022,Zimbabwe,4,RW Chakabva,2f0d7e4a,BFW de Leede,fc4375ef,SC Williams,afe57f7a,1,0,0,0,0,,,,,,0,1,1
+1321484,2022,Zimbabwe,4,RW Chakabva,2f0d7e4a,BFW de Leede,fc4375ef,SC Williams,afe57f7a,0,0,0,0,0,,,,,,1,0,1
+1321484,2022,Zimbabwe,4,SC Williams,afe57f7a,BFW de Leede,fc4375ef,RW Chakabva,2f0d7e4a,0,0,0,0,0,,,,,,1,0,1
+1321484,2022,Zimbabwe,4,RW Chakabva,2f0d7e4a,BFW de Leede,fc4375ef,SC Williams,afe57f7a,0,0,0,0,1,RW Chakabva,2f0d7e4a,,,lbw,0,0,0
+1321484,2022,Zimbabwe,4,W Madhevere,a879b92c,BFW de Leede,fc4375ef,SC Williams,afe57f7a,0,0,0,0,0,,,,,,4,0,4
+1321484,2022,Zimbabwe,4,W Madhevere,a879b92c,BFW de Leede,fc4375ef,SC Williams,afe57f7a,0,0,0,0,0,,,,,,0,0,0
+1321484,2022,Zimbabwe,4,W Madhevere,a879b92c,BFW de Leede,fc4375ef,SC Williams,afe57f7a,0,0,0,0,0,,,,,,1,0,1
+1321484,2022,Zimbabwe,5,W Madhevere,a879b92c,FJ Klaassen,c042b412,SC Williams,afe57f7a,0,0,0,0,0,,,,,,1,0,1
+1321484,2022,Zimbabwe,5,SC Williams,afe57f7a,FJ Klaassen,c042b412,W Madhevere,a879b92c,0,0,0,0,0,,,,,,1,0,1
+1321484,2022,Zimbabwe,5,W Madhevere,a879b92c,FJ Klaassen,c042b412,SC Williams,afe57f7a,0,0,0,0,0,,,,,,1,0,1
+1321484,2022,Zimbabwe,5,SC Williams,afe57f7a,FJ Klaassen,c042b412,W Madhevere,a879b92c,0,0,0,0,0,,,,,,1,0,1
+1321484,2022,Zimbabwe,5,W Madhevere,a879b92c,FJ Klaassen,c042b412,SC Williams,afe57f7a,0,0,0,0,0,,,,,,1,0,1
+1321484,2022,Zimbabwe,5,SC Williams,afe57f7a,FJ Klaassen,c042b412,W Madhevere,a879b92c,0,0,0,0,0,,,,,,0,0,0
+1321484,2022,Zimbabwe,6,W Madhevere,a879b92c,TJG Pringle,8ce2080b,SC Williams,afe57f7a,0,0,0,0,0,,,,,,0,0,0
+1321484,2022,Zimbabwe,6,W Madhevere,a879b92c,TJG Pringle,8ce2080b,SC Williams,afe57f7a,0,0,0,0,0,,,,,,0,0,0
+1321484,2022,Zimbabwe,6,W Madhevere,a879b92c,TJG Pringle,8ce2080b,SC Williams,afe57f7a,0,0,0,0,0,,,,,,1,0,1
+1321484,2022,Zimbabwe,6,SC Williams,afe57f7a,TJG Pringle,8ce2080b,W Madhevere,a879b92c,0,0,0,0,0,,,,,,0,0,0
+1321484,2022,Zimbabwe,6,SC Williams,afe57f7a,TJG Pringle,8ce2080b,W Madhevere,a879b92c,0,0,0,0,0,,,,,,1,0,1
+1321484,2022,Zimbabwe,6,W Madhevere,a879b92c,TJG Pringle,8ce2080b,SC Williams,afe57f7a,0,0,0,0,1,W Madhevere,a879b92c,LV van Beek,782fb776,caught,0,0,0
+1321484,2022,Zimbabwe,7,SC Williams,afe57f7a,Shariz Ahmad,7595b47f,Sikandar Raza,26d041c4,0,0,0,0,0,,,,,,1,0,1
+1321484,2022,Zimbabwe,7,Sikandar Raza,26d041c4,Shariz Ahmad,7595b47f,SC Williams,afe57f7a,0,0,0,0,0,,,,,,1,0,1
+1321484,2022,Zimbabwe,7,SC Williams,afe57f7a,Shariz Ahmad,7595b47f,Sikandar Raza,26d041c4,0,0,0,0,0,,,,,,4,0,4
+1321484,2022,Zimbabwe,7,SC Williams,afe57f7a,Shariz Ahmad,7595b47f,Sikandar Raza,26d041c4,0,0,0,0,0,,,,,,2,0,2
+1321484,2022,Zimbabwe,7,SC Williams,afe57f7a,Shariz Ahmad,7595b47f,Sikandar Raza,26d041c4,0,0,0,0,0,,,,,,4,0,4
+1321484,2022,Zimbabwe,7,SC Williams,afe57f7a,Shariz Ahmad,7595b47f,Sikandar Raza,26d041c4,0,0,0,0,0,,,,,,1,0,1
+1321484,2022,Zimbabwe,8,SC Williams,afe57f7a,BFW de Leede,fc4375ef,Sikandar Raza,26d041c4,0,0,0,0,0,,,,,,1,0,1
+1321484,2022,Zimbabwe,8,Sikandar Raza,26d041c4,BFW de Leede,fc4375ef,SC Williams,afe57f7a,0,0,0,0,0,,,,,,1,0,1
+1321484,2022,Zimbabwe,8,SC Williams,afe57f7a,BFW de Leede,fc4375ef,Sikandar Raza,26d041c4,0,0,0,0,0,,,,,,1,0,1
+1321484,2022,Zimbabwe,8,Sikandar Raza,26d041c4,BFW de Leede,fc4375ef,SC Williams,afe57f7a,1,0,0,0,0,,,,,,0,1,1
+1321484,2022,Zimbabwe,8,Sikandar Raza,26d041c4,BFW de Leede,fc4375ef,SC Williams,afe57f7a,0,0,0,0,0,,,,,,1,0,1
+1321484,2022,Zimbabwe,8,SC Williams,afe57f7a,BFW de Leede,fc4375ef,Sikandar Raza,26d041c4,0,0,0,0,0,,,,,,4,0,4
+1321484,2022,Zimbabwe,8,SC Williams,afe57f7a,BFW de Leede,fc4375ef,Sikandar Raza,26d041c4,0,0,0,0,0,,,,,,0,0,0
+1321484,2022,Zimbabwe,9,Sikandar Raza,26d041c4,TJG Pringle,8ce2080b,SC Williams,afe57f7a,0,0,0,0,0,,,,,,0,0,0
+1321484,2022,Zimbabwe,9,Sikandar Raza,26d041c4,TJG Pringle,8ce2080b,SC Williams,afe57f7a,0,0,0,0,0,,,,,,0,0,0
+1321484,2022,Zimbabwe,9,Sikandar Raza,26d041c4,TJG Pringle,8ce2080b,SC Williams,afe57f7a,0,0,0,0,0,,,,,,0,0,0
+1321484,2022,Zimbabwe,9,Sikandar Raza,26d041c4,TJG Pringle,8ce2080b,SC Williams,afe57f7a,0,0,0,0,0,,,,,,0,0,0
+1321484,2022,Zimbabwe,9,Sikandar Raza,26d041c4,TJG Pringle,8ce2080b,SC Williams,afe57f7a,0,0,0,0,0,,,,,,1,0,1
+1321484,2022,Zimbabwe,9,SC Williams,afe57f7a,TJG Pringle,8ce2080b,Sikandar Raza,26d041c4,0,0,0,0,0,,,,,,1,0,1
+1321484,2022,Zimbabwe,10,SC Williams,afe57f7a,PA van Meekeren,4557dc54,Sikandar Raza,26d041c4,0,0,0,0,0,,,,,,2,0,2
+1321484,2022,Zimbabwe,10,SC Williams,afe57f7a,PA van Meekeren,4557dc54,Sikandar Raza,26d041c4,0,0,0,0,0,,,,,,0,0,0
+1321484,2022,Zimbabwe,10,SC Williams,afe57f7a,PA van Meekeren,4557dc54,Sikandar Raza,26d041c4,0,0,0,0,0,,,,,,0,0,0
+1321484,2022,Zimbabwe,10,SC Williams,afe57f7a,PA van Meekeren,4557dc54,Sikandar Raza,26d041c4,0,0,0,0,0,,,,,,1,0,1
+1321484,2022,Zimbabwe,10,Sikandar Raza,26d041c4,PA van Meekeren,4557dc54,SC Williams,afe57f7a,0,0,0,0,0,,,,,,2,0,2
+1321484,2022,Zimbabwe,10,Sikandar Raza,26d041c4,PA van Meekeren,4557dc54,SC Williams,afe57f7a,0,0,0,0,0,,,,,,2,0,2
+1321484,2022,Zimbabwe,11,SC Williams,afe57f7a,Shariz Ahmad,7595b47f,Sikandar Raza,26d041c4,0,0,0,0,0,,,,,,1,0,1
+1321484,2022,Zimbabwe,11,Sikandar Raza,26d041c4,Shariz Ahmad,7595b47f,SC Williams,afe57f7a,0,0,0,0,0,,,,,,6,0,6
+1321484,2022,Zimbabwe,11,Sikandar Raza,26d041c4,Shariz Ahmad,7595b47f,SC Williams,afe57f7a,0,0,0,0,0,,,,,,1,0,1
+1321484,2022,Zimbabwe,11,SC Williams,afe57f7a,Shariz Ahmad,7595b47f,Sikandar Raza,26d041c4,0,0,0,0,1,SC Williams,afe57f7a,BFW de Leede,fc4375ef,caught,0,0,0
+1321484,2022,Zimbabwe,11,M Shumba,6766ca00,Shariz Ahmad,7595b47f,Sikandar Raza,26d041c4,0,0,0,0,0,,,,,,1,0,1
+1321484,2022,Zimbabwe,11,Sikandar Raza,26d041c4,Shariz Ahmad,7595b47f,M Shumba,6766ca00,0,0,0,0,0,,,,,,4,0,4
+1321484,2022,Zimbabwe,12,M Shumba,6766ca00,LV van Beek,782fb776,Sikandar Raza,26d041c4,0,0,0,0,0,,,,,,0,0,0
+1321484,2022,Zimbabwe,12,M Shumba,6766ca00,LV van Beek,782fb776,Sikandar Raza,26d041c4,0,0,0,0,1,M Shumba,6766ca00,SA Edwards,b59db04f,caught,0,0,0
+1321484,2022,Zimbabwe,12,Sikandar Raza,26d041c4,LV van Beek,782fb776,RP Burl,b08252b8,0,0,0,0,1,Sikandar Raza,26d041c4,,,lbw,0,0,0
+1321484,2022,Zimbabwe,12,T Munyonga,fbcfa528,LV van Beek,782fb776,RP Burl,b08252b8,0,0,0,0,0,,,,,,0,0,0
+1321484,2022,Zimbabwe,12,T Munyonga,fbcfa528,LV van Beek,782fb776,RP Burl,b08252b8,0,0,0,0,0,,,,,,0,0,0
+1321484,2022,Zimbabwe,12,T Munyonga,fbcfa528,LV van Beek,782fb776,RP Burl,b08252b8,0,0,0,0,0,,,,,,0,0,0
+1321484,2022,Zimbabwe,13,RP Burl,b08252b8,TJG Pringle,8ce2080b,T Munyonga,fbcfa528,0,0,0,0,0,,,,,,1,0,1
+1321484,2022,Zimbabwe,13,T Munyonga,fbcfa528,TJG Pringle,8ce2080b,RP Burl,b08252b8,0,0,0,0,0,,,,,,1,0,1
+1321484,2022,Zimbabwe,13,RP Burl,b08252b8,TJG Pringle,8ce2080b,T Munyonga,fbcfa528,0,0,0,0,0,,,,,,0,0,0
+1321484,2022,Zimbabwe,13,RP Burl,b08252b8,TJG Pringle,8ce2080b,T Munyonga,fbcfa528,0,0,0,0,0,,,,,,1,0,1
+1321484,2022,Zimbabwe,13,T Munyonga,fbcfa528,TJG Pringle,8ce2080b,RP Burl,b08252b8,0,0,0,0,0,,,,,,1,0,1
+1321484,2022,Zimbabwe,13,RP Burl,b08252b8,TJG Pringle,8ce2080b,T Munyonga,fbcfa528,0,0,0,0,0,,,,,,1,0,1
+1321484,2022,Zimbabwe,14,RP Burl,b08252b8,LV van Beek,782fb776,T Munyonga,fbcfa528,0,0,0,0,0,,,,,,1,0,1
+1321484,2022,Zimbabwe,14,T Munyonga,fbcfa528,LV van Beek,782fb776,RP Burl,b08252b8,0,0,0,0,0,,,,,,1,0,1
+1321484,2022,Zimbabwe,14,RP Burl,b08252b8,LV van Beek,782fb776,T Munyonga,fbcfa528,0,0,0,0,0,,,,,,1,0,1
+1321484,2022,Zimbabwe,14,T Munyonga,fbcfa528,LV van Beek,782fb776,RP Burl,b08252b8,0,0,0,0,0,,,,,,0,0,0
+1321484,2022,Zimbabwe,14,T Munyonga,fbcfa528,LV van Beek,782fb776,RP Burl,b08252b8,0,0,0,0,0,,,,,,2,0,2
+1321484,2022,Zimbabwe,14,T Munyonga,fbcfa528,LV van Beek,782fb776,RP Burl,b08252b8,0,0,0,0,0,,,,,,1,0,1
+1321484,2022,Zimbabwe,15,T Munyonga,fbcfa528,BFW de Leede,fc4375ef,RP Burl,b08252b8,0,0,0,0,0,,,,,,0,0,0
+1321484,2022,Zimbabwe,15,T Munyonga,fbcfa528,BFW de Leede,fc4375ef,RP Burl,b08252b8,0,0,0,0,0,,,,,,0,0,0
+1321484,2022,Zimbabwe,15,T Munyonga,fbcfa528,BFW de Leede,fc4375ef,RP Burl,b08252b8,0,0,0,0,0,,,,,,1,0,1
+1321484,2022,Zimbabwe,15,RP Burl,b08252b8,BFW de Leede,fc4375ef,T Munyonga,fbcfa528,0,0,0,0,0,,,,,,1,0,1
+1321484,2022,Zimbabwe,15,T Munyonga,fbcfa528,BFW de Leede,fc4375ef,RP Burl,b08252b8,0,0,0,0,1,T Munyonga,fbcfa528,,,bowled,0,0,0
+1321484,2022,Zimbabwe,15,LM Jongwe,b8704508,BFW de Leede,fc4375ef,RP Burl,b08252b8,0,0,0,0,0,,,,,,0,0,0
+1321484,2022,Zimbabwe,16,RP Burl,b08252b8,FJ Klaassen,c042b412,LM Jongwe,b8704508,0,0,0,0,0,,,,,,4,0,4
+1321484,2022,Zimbabwe,16,RP Burl,b08252b8,FJ Klaassen,c042b412,LM Jongwe,b8704508,0,0,0,0,0,,,,,,0,0,0
+1321484,2022,Zimbabwe,16,RP Burl,b08252b8,FJ Klaassen,c042b412,LM Jongwe,b8704508,0,0,0,0,0,,,,,,1,0,1
+1321484,2022,Zimbabwe,16,LM Jongwe,b8704508,FJ Klaassen,c042b412,RP Burl,b08252b8,0,0,0,0,0,,,,,,0,0,0
+1321484,2022,Zimbabwe,16,LM Jongwe,b8704508,FJ Klaassen,c042b412,RP Burl,b08252b8,0,0,0,0,0,,,,,,1,0,1
+1321484,2022,Zimbabwe,16,RP Burl,b08252b8,FJ Klaassen,c042b412,LM Jongwe,b8704508,0,0,0,0,0,,,,,,4,0,4
+1321484,2022,Zimbabwe,17,LM Jongwe,b8704508,LV van Beek,782fb776,RP Burl,b08252b8,0,0,0,0,1,RP Burl,b08252b8,SA Edwards,b59db04f,run out,1,0,1
+1321484,2022,Zimbabwe,17,WP Masakadza,4bc0a378,LV van Beek,782fb776,LM Jongwe,b8704508,0,0,0,0,0,,,,,,1,0,1
+1321484,2022,Zimbabwe,17,LM Jongwe,b8704508,LV van Beek,782fb776,WP Masakadza,4bc0a378,0,0,0,0,0,,,,,,2,0,2
+1321484,2022,Zimbabwe,17,LM Jongwe,b8704508,LV van Beek,782fb776,WP Masakadza,4bc0a378,0,0,0,0,0,,,,,,1,0,1
+1321484,2022,Zimbabwe,17,WP Masakadza,4bc0a378,LV van Beek,782fb776,LM Jongwe,b8704508,0,0,0,0,0,,,,,,1,0,1
+1321484,2022,Zimbabwe,17,LM Jongwe,b8704508,LV van Beek,782fb776,WP Masakadza,4bc0a378,0,0,0,0,0,,,,,,1,0,1
+1321484,2022,Zimbabwe,18,LM Jongwe,b8704508,PA van Meekeren,4557dc54,WP Masakadza,4bc0a378,0,0,1,0,0,,,,,,0,1,1
+1321484,2022,Zimbabwe,18,WP Masakadza,4bc0a378,PA van Meekeren,4557dc54,LM Jongwe,b8704508,0,0,0,0,0,,,,,,0,0,0
+1321484,2022,Zimbabwe,18,WP Masakadza,4bc0a378,PA van Meekeren,4557dc54,LM Jongwe,b8704508,0,0,0,0,0,,,,,,0,0,0
+1321484,2022,Zimbabwe,18,WP Masakadza,4bc0a378,PA van Meekeren,4557dc54,LM Jongwe,b8704508,0,0,0,0,0,,,,,,0,0,0
+1321484,2022,Zimbabwe,18,WP Masakadza,4bc0a378,PA van Meekeren,4557dc54,LM Jongwe,b8704508,0,0,0,0,0,,,,,,1,0,1
+1321484,2022,Zimbabwe,18,LM Jongwe,b8704508,PA van Meekeren,4557dc54,WP Masakadza,4bc0a378,0,0,0,0,1,LM Jongwe,b8704508,,,lbw,0,0,0
+1321484,2022,Zimbabwe,19,WP Masakadza,4bc0a378,FJ Klaassen,c042b412,R Ngarava,6e3f5a5c,0,0,0,0,0,,,,,,1,0,1
+1321484,2022,Zimbabwe,19,R Ngarava,6e3f5a5c,FJ Klaassen,c042b412,WP Masakadza,4bc0a378,0,0,0,0,0,,,,,,1,0,1
+1321484,2022,Zimbabwe,19,WP Masakadza,4bc0a378,FJ Klaassen,c042b412,R Ngarava,6e3f5a5c,0,0,0,0,1,WP Masakadza,4bc0a378,SA Edwards,b59db04f,caught,0,0,0
+1321484,2022,Netherlands,0,MP O'Dowd,b699df47,W Madhevere,a879b92c,SJ Myburgh,18261c22,0,0,0,0,0,,,,,,0,0,0
+1321484,2022,Netherlands,0,MP O'Dowd,b699df47,W Madhevere,a879b92c,SJ Myburgh,18261c22,0,0,0,0,0,,,,,,0,0,0
+1321484,2022,Netherlands,0,MP O'Dowd,b699df47,W Madhevere,a879b92c,SJ Myburgh,18261c22,0,0,0,0,0,,,,,,0,0,0
+1321484,2022,Netherlands,0,MP O'Dowd,b699df47,W Madhevere,a879b92c,SJ Myburgh,18261c22,0,0,0,0,0,,,,,,0,0,0
+1321484,2022,Netherlands,0,MP O'Dowd,b699df47,W Madhevere,a879b92c,SJ Myburgh,18261c22,0,0,0,0,0,,,,,,0,0,0
+1321484,2022,Netherlands,0,MP O'Dowd,b699df47,W Madhevere,a879b92c,SJ Myburgh,18261c22,1,0,0,0,0,,,,,,0,1,1
+1321484,2022,Netherlands,0,MP O'Dowd,b699df47,W Madhevere,a879b92c,SJ Myburgh,18261c22,0,0,0,0,0,,,,,,1,0,1
+1321484,2022,Netherlands,1,MP O'Dowd,b699df47,WP Masakadza,4bc0a378,SJ Myburgh,18261c22,0,0,0,0,0,,,,,,0,0,0
+1321484,2022,Netherlands,1,MP O'Dowd,b699df47,WP Masakadza,4bc0a378,SJ Myburgh,18261c22,0,0,0,0,0,,,,,,6,0,6
+1321484,2022,Netherlands,1,MP O'Dowd,b699df47,WP Masakadza,4bc0a378,SJ Myburgh,18261c22,0,0,0,0,0,,,,,,4,0,4
+1321484,2022,Netherlands,1,MP O'Dowd,b699df47,WP Masakadza,4bc0a378,SJ Myburgh,18261c22,0,0,0,0,0,,,,,,1,0,1
+1321484,2022,Netherlands,1,SJ Myburgh,18261c22,WP Masakadza,4bc0a378,MP O'Dowd,b699df47,0,0,0,0,0,,,,,,1,0,1
+1321484,2022,Netherlands,1,MP O'Dowd,b699df47,WP Masakadza,4bc0a378,SJ Myburgh,18261c22,0,0,1,0,0,,,,,,0,1,1
+1321484,2022,Netherlands,2,MP O'Dowd,b699df47,W Madhevere,a879b92c,SJ Myburgh,18261c22,0,0,0,0,1,MP O'Dowd,b699df47,,,lbw,0,0,0
+1321484,2022,Netherlands,2,BFW de Leede,fc4375ef,W Madhevere,a879b92c,SJ Myburgh,18261c22,0,0,0,0,0,,,,,,1,0,1
+1321484,2022,Netherlands,2,SJ Myburgh,18261c22,W Madhevere,a879b92c,BFW de Leede,fc4375ef,0,0,0,0,0,,,,,,0,0,0
+1321484,2022,Netherlands,2,SJ Myburgh,18261c22,W Madhevere,a879b92c,BFW de Leede,fc4375ef,0,0,0,0,0,,,,,,1,0,1
+1321484,2022,Netherlands,2,BFW de Leede,fc4375ef,W Madhevere,a879b92c,SJ Myburgh,18261c22,0,0,0,0,1,BFW de Leede,fc4375ef,,,lbw,0,0,0
+1321484,2022,Netherlands,2,TLW Cooper,2318ba22,W Madhevere,a879b92c,SJ Myburgh,18261c22,0,0,0,0,0,,,,,,1,0,1
+1321484,2022,Netherlands,3,TLW Cooper,2318ba22,WP Masakadza,4bc0a378,SJ Myburgh,18261c22,1,0,0,0,0,,,,,,0,1,1
+1321484,2022,Netherlands,3,TLW Cooper,2318ba22,WP Masakadza,4bc0a378,SJ Myburgh,18261c22,0,0,0,0,0,,,,,,0,0,0
+1321484,2022,Netherlands,3,TLW Cooper,2318ba22,WP Masakadza,4bc0a378,SJ Myburgh,18261c22,0,0,0,0,0,,,,,,1,0,1
+1321484,2022,Netherlands,3,SJ Myburgh,18261c22,WP Masakadza,4bc0a378,TLW Cooper,2318ba22,0,0,0,0,0,,,,,,6,0,6
+1321484,2022,Netherlands,3,SJ Myburgh,18261c22,WP Masakadza,4bc0a378,TLW Cooper,2318ba22,0,0,0,0,0,,,,,,1,0,1
+1321484,2022,Netherlands,3,TLW Cooper,2318ba22,WP Masakadza,4bc0a378,SJ Myburgh,18261c22,0,0,0,0,0,,,,,,0,0,0
+1321484,2022,Netherlands,3,TLW Cooper,2318ba22,WP Masakadza,4bc0a378,SJ Myburgh,18261c22,0,0,0,0,0,,,,,,0,0,0
+1321484,2022,Netherlands,4,SJ Myburgh,18261c22,W Madhevere,a879b92c,TLW Cooper,2318ba22,0,0,0,0,0,,,,,,0,0,0
+1321484,2022,Netherlands,4,SJ Myburgh,18261c22,W Madhevere,a879b92c,TLW Cooper,2318ba22,0,0,0,0,0,,,,,,2,0,2
+1321484,2022,Netherlands,4,SJ Myburgh,18261c22,W Madhevere,a879b92c,TLW Cooper,2318ba22,0,0,0,0,0,,,,,,6,0,6
+1321484,2022,Netherlands,4,SJ Myburgh,18261c22,W Madhevere,a879b92c,TLW Cooper,2318ba22,0,0,0,0,0,,,,,,0,0,0
+1321484,2022,Netherlands,4,SJ Myburgh,18261c22,W Madhevere,a879b92c,TLW Cooper,2318ba22,0,0,0,0,0,,,,,,1,0,1
+1321484,2022,Netherlands,4,TLW Cooper,2318ba22,W Madhevere,a879b92c,SJ Myburgh,18261c22,0,0,0,0,0,,,,,,1,0,1
+1321484,2022,Netherlands,5,TLW Cooper,2318ba22,R Ngarava,6e3f5a5c,SJ Myburgh,18261c22,0,0,0,0,0,,,,,,0,0,0
+1321484,2022,Netherlands,5,TLW Cooper,2318ba22,R Ngarava,6e3f5a5c,SJ Myburgh,18261c22,0,0,0,0,0,,,,,,1,0,1
+1321484,2022,Netherlands,5,SJ Myburgh,18261c22,R Ngarava,6e3f5a5c,TLW Cooper,2318ba22,0,0,0,0,0,,,,,,1,0,1
+1321484,2022,Netherlands,5,TLW Cooper,2318ba22,R Ngarava,6e3f5a5c,SJ Myburgh,18261c22,0,0,0,0,0,,,,,,4,0,4
+1321484,2022,Netherlands,5,TLW Cooper,2318ba22,R Ngarava,6e3f5a5c,SJ Myburgh,18261c22,0,0,0,0,0,,,,,,0,0,0
+1321484,2022,Netherlands,5,TLW Cooper,2318ba22,R Ngarava,6e3f5a5c,SJ Myburgh,18261c22,0,0,0,0,0,,,,,,0,0,0
+1321484,2022,Netherlands,6,SJ Myburgh,18261c22,SC Williams,afe57f7a,TLW Cooper,2318ba22,0,0,0,0,0,,,,,,1,0,1
+1321484,2022,Netherlands,6,TLW Cooper,2318ba22,SC Williams,afe57f7a,SJ Myburgh,18261c22,0,0,0,0,0,,,,,,1,0,1
+1321484,2022,Netherlands,6,SJ Myburgh,18261c22,SC Williams,afe57f7a,TLW Cooper,2318ba22,0,0,0,0,1,TLW Cooper,2318ba22,M Shumba,6766ca00,run out,0,0,0
+1321484,2022,Netherlands,6,SJ Myburgh,18261c22,SC Williams,afe57f7a,SA Edwards,b59db04f,0,0,0,1,0,,,,,,0,1,1
+1321484,2022,Netherlands,6,SA Edwards,b59db04f,SC Williams,afe57f7a,SJ Myburgh,18261c22,0,0,0,0,0,,,,,,1,0,1
+1321484,2022,Netherlands,6,SJ Myburgh,18261c22,SC Williams,afe57f7a,SA Edwards,b59db04f,0,0,0,0,0,,,,,,0,0,0
+1321484,2022,Netherlands,7,SA Edwards,b59db04f,Sikandar Raza,26d041c4,SJ Myburgh,18261c22,0,0,0,0,0,,,,,,1,0,1
+1321484,2022,Netherlands,7,SJ Myburgh,18261c22,Sikandar Raza,26d041c4,SA Edwards,b59db04f,0,0,0,0,0,,,,,,1,0,1
+1321484,2022,Netherlands,7,SA Edwards,b59db04f,Sikandar Raza,26d041c4,SJ Myburgh,18261c22,0,0,0,0,0,,,,,,0,0,0
+1321484,2022,Netherlands,7,SA Edwards,b59db04f,Sikandar Raza,26d041c4,SJ Myburgh,18261c22,0,0,0,0,0,,,,,,2,0,2
+1321484,2022,Netherlands,7,SA Edwards,b59db04f,Sikandar Raza,26d041c4,SJ Myburgh,18261c22,0,0,0,0,0,,,,,,1,0,1
+1321484,2022,Netherlands,7,SJ Myburgh,18261c22,Sikandar Raza,26d041c4,SA Edwards,b59db04f,0,0,0,0,0,,,,,,0,0,0
+1321484,2022,Netherlands,8,SA Edwards,b59db04f,SC Williams,afe57f7a,SJ Myburgh,18261c22,0,0,0,0,0,,,,,,1,0,1
+1321484,2022,Netherlands,8,SJ Myburgh,18261c22,SC Williams,afe57f7a,SA Edwards,b59db04f,0,0,0,0,0,,,,,,0,0,0
+1321484,2022,Netherlands,8,SJ Myburgh,18261c22,SC Williams,afe57f7a,SA Edwards,b59db04f,0,0,0,0,0,,,,,,0,0,0
+1321484,2022,Netherlands,8,SJ Myburgh,18261c22,SC Williams,afe57f7a,SA Edwards,b59db04f,0,0,0,0,0,,,,,,0,0,0
+1321484,2022,Netherlands,8,SJ Myburgh,18261c22,SC Williams,afe57f7a,SA Edwards,b59db04f,0,0,0,0,0,,,,,,0,0,0
+1321484,2022,Netherlands,8,SJ Myburgh,18261c22,SC Williams,afe57f7a,SA Edwards,b59db04f,0,0,0,0,0,,,,,,1,0,1
+1321484,2022,Netherlands,9,SJ Myburgh,18261c22,Sikandar Raza,26d041c4,SA Edwards,b59db04f,0,0,0,0,0,,,,,,0,0,0
+1321484,2022,Netherlands,9,SJ Myburgh,18261c22,Sikandar Raza,26d041c4,SA Edwards,b59db04f,0,0,0,0,1,SJ Myburgh,18261c22,,,lbw,0,0,0
+1321484,2022,Netherlands,9,AT Nidamanuru,a319edf8,Sikandar Raza,26d041c4,SA Edwards,b59db04f,0,0,0,0,0,,,,,,0,0,0
+1321484,2022,Netherlands,9,AT Nidamanuru,a319edf8,Sikandar Raza,26d041c4,SA Edwards,b59db04f,0,0,0,0,0,,,,,,0,0,0
+1321484,2022,Netherlands,9,AT Nidamanuru,a319edf8,Sikandar Raza,26d041c4,SA Edwards,b59db04f,0,0,0,0,0,,,,,,0,0,0
+1321484,2022,Netherlands,9,AT Nidamanuru,a319edf8,Sikandar Raza,26d041c4,SA Edwards,b59db04f,0,0,0,0,0,,,,,,0,0,0
+1321484,2022,Netherlands,10,SA Edwards,b59db04f,SC Williams,afe57f7a,AT Nidamanuru,a319edf8,0,0,0,0,0,,,,,,0,0,0
+1321484,2022,Netherlands,10,SA Edwards,b59db04f,SC Williams,afe57f7a,AT Nidamanuru,a319edf8,0,0,0,0,0,,,,,,1,0,1
+1321484,2022,Netherlands,10,AT Nidamanuru,a319edf8,SC Williams,afe57f7a,SA Edwards,b59db04f,0,0,0,0,0,,,,,,1,0,1
+1321484,2022,Netherlands,10,SA Edwards,b59db04f,SC Williams,afe57f7a,AT Nidamanuru,a319edf8,0,0,0,0,0,,,,,,0,0,0
+1321484,2022,Netherlands,10,SA Edwards,b59db04f,SC Williams,afe57f7a,AT Nidamanuru,a319edf8,0,0,0,0,1,SA Edwards,b59db04f,R Ngarava,6e3f5a5c,caught,0,0,0
+1321484,2022,Netherlands,10,AT Nidamanuru,a319edf8,SC Williams,afe57f7a,LV van Beek,782fb776,0,0,0,0,0,,,,,,0,0,0
+1321484,2022,Netherlands,11,LV van Beek,782fb776,Sikandar Raza,26d041c4,AT Nidamanuru,a319edf8,0,0,0,0,0,,,,,,0,0,0
+1321484,2022,Netherlands,11,LV van Beek,782fb776,Sikandar Raza,26d041c4,AT Nidamanuru,a319edf8,0,0,0,0,0,,,,,,0,0,0
+1321484,2022,Netherlands,11,LV van Beek,782fb776,Sikandar Raza,26d041c4,AT Nidamanuru,a319edf8,0,0,0,0,1,LV van Beek,782fb776,,,bowled,0,0,0
+1321484,2022,Netherlands,11,TJG Pringle,8ce2080b,Sikandar Raza,26d041c4,AT Nidamanuru,a319edf8,0,0,0,0,0,,,,,,0,0,0
+1321484,2022,Netherlands,11,TJG Pringle,8ce2080b,Sikandar Raza,26d041c4,AT Nidamanuru,a319edf8,0,0,0,0,0,,,,,,0,0,0
+1321484,2022,Netherlands,11,TJG Pringle,8ce2080b,Sikandar Raza,26d041c4,AT Nidamanuru,a319edf8,0,0,0,0,0,,,,,,1,0,1
+1321484,2022,Netherlands,12,TJG Pringle,8ce2080b,SC Williams,afe57f7a,AT Nidamanuru,a319edf8,0,0,0,0,0,,,,,,1,0,1
+1321484,2022,Netherlands,12,AT Nidamanuru,a319edf8,SC Williams,afe57f7a,TJG Pringle,8ce2080b,0,0,0,0,0,,,,,,0,0,0
+1321484,2022,Netherlands,12,AT Nidamanuru,a319edf8,SC Williams,afe57f7a,TJG Pringle,8ce2080b,0,0,0,0,0,,,,,,1,0,1
+1321484,2022,Netherlands,12,TJG Pringle,8ce2080b,SC Williams,afe57f7a,AT Nidamanuru,a319edf8,0,0,0,0,0,,,,,,0,0,0
+1321484,2022,Netherlands,12,TJG Pringle,8ce2080b,SC Williams,afe57f7a,AT Nidamanuru,a319edf8,0,0,0,0,0,,,,,,0,0,0
+1321484,2022,Netherlands,12,TJG Pringle,8ce2080b,SC Williams,afe57f7a,AT Nidamanuru,a319edf8,0,0,0,0,0,,,,,,1,0,1
+1321484,2022,Netherlands,13,TJG Pringle,8ce2080b,Sikandar Raza,26d041c4,AT Nidamanuru,a319edf8,0,0,0,0,0,,,,,,1,0,1
+1321484,2022,Netherlands,13,AT Nidamanuru,a319edf8,Sikandar Raza,26d041c4,TJG Pringle,8ce2080b,0,0,0,0,0,,,,,,0,0,0
+1321484,2022,Netherlands,13,AT Nidamanuru,a319edf8,Sikandar Raza,26d041c4,TJG Pringle,8ce2080b,0,0,0,0,0,,,,,,0,0,0
+1321484,2022,Netherlands,13,AT Nidamanuru,a319edf8,Sikandar Raza,26d041c4,TJG Pringle,8ce2080b,0,0,0,0,0,,,,,,1,0,1
+1321484,2022,Netherlands,13,TJG Pringle,8ce2080b,Sikandar Raza,26d041c4,AT Nidamanuru,a319edf8,0,0,0,0,1,TJG Pringle,8ce2080b,,,bowled,0,0,0
+1321484,2022,Netherlands,13,FJ Klaassen,c042b412,Sikandar Raza,26d041c4,AT Nidamanuru,a319edf8,0,0,0,0,1,FJ Klaassen,c042b412,,,lbw,0,0,0
+1321484,2022,Netherlands,14,AT Nidamanuru,a319edf8,RP Burl,b08252b8,PA van Meekeren,4557dc54,0,0,0,0,0,,,,,,1,0,1
+1321484,2022,Netherlands,14,PA van Meekeren,4557dc54,RP Burl,b08252b8,AT Nidamanuru,a319edf8,1,0,0,0,0,,,,,,0,1,1
+1321484,2022,Netherlands,14,PA van Meekeren,4557dc54,RP Burl,b08252b8,AT Nidamanuru,a319edf8,0,0,0,0,0,,,,,,1,0,1
+1321484,2022,Netherlands,14,AT Nidamanuru,a319edf8,RP Burl,b08252b8,PA van Meekeren,4557dc54,0,0,0,0,0,,,,,,0,0,0
+1321484,2022,Netherlands,14,AT Nidamanuru,a319edf8,RP Burl,b08252b8,PA van Meekeren,4557dc54,0,0,0,0,0,,,,,,1,0,1
+1321484,2022,Netherlands,14,PA van Meekeren,4557dc54,RP Burl,b08252b8,AT Nidamanuru,a319edf8,0,0,0,1,0,,,,,,0,1,1
+1321484,2022,Netherlands,14,AT Nidamanuru,a319edf8,RP Burl,b08252b8,PA van Meekeren,4557dc54,0,0,0,0,0,,,,,,1,0,1
+1321484,2022,Netherlands,15,AT Nidamanuru,a319edf8,WP Masakadza,4bc0a378,PA van Meekeren,4557dc54,0,0,0,0,0,,,,,,1,0,1
+1321484,2022,Netherlands,15,PA van Meekeren,4557dc54,WP Masakadza,4bc0a378,AT Nidamanuru,a319edf8,0,0,0,0,0,,,,,,1,0,1
+1321484,2022,Netherlands,15,AT Nidamanuru,a319edf8,WP Masakadza,4bc0a378,PA van Meekeren,4557dc54,0,0,0,0,0,,,,,,1,0,1
+1321484,2022,Netherlands,15,PA van Meekeren,4557dc54,WP Masakadza,4bc0a378,AT Nidamanuru,a319edf8,0,0,0,0,0,,,,,,0,0,0
+1321484,2022,Netherlands,15,PA van Meekeren,4557dc54,WP Masakadza,4bc0a378,AT Nidamanuru,a319edf8,0,0,0,0,0,,,,,,0,0,0
+1321484,2022,Netherlands,15,PA van Meekeren,4557dc54,WP Masakadza,4bc0a378,AT Nidamanuru,a319edf8,0,0,0,0,0,,,,,,1,0,1
+1321484,2022,Netherlands,16,PA van Meekeren,4557dc54,RP Burl,b08252b8,AT Nidamanuru,a319edf8,0,0,0,0,0,,,,,,1,0,1
+1321484,2022,Netherlands,16,AT Nidamanuru,a319edf8,RP Burl,b08252b8,PA van Meekeren,4557dc54,0,0,0,0,0,,,,,,0,0,0
+1321484,2022,Netherlands,16,AT Nidamanuru,a319edf8,RP Burl,b08252b8,PA van Meekeren,4557dc54,0,0,0,0,0,,,,,,6,0,6
+1321484,2022,Netherlands,16,AT Nidamanuru,a319edf8,RP Burl,b08252b8,PA van Meekeren,4557dc54,0,0,0,0,0,,,,,,0,0,0
+1321484,2022,Netherlands,16,AT Nidamanuru,a319edf8,RP Burl,b08252b8,PA van Meekeren,4557dc54,0,0,0,0,0,,,,,,1,0,1
+1321484,2022,Netherlands,16,PA van Meekeren,4557dc54,RP Burl,b08252b8,AT Nidamanuru,a319edf8,0,0,0,0,0,,,,,,6,0,6
+1321484,2022,Netherlands,17,AT Nidamanuru,a319edf8,LM Jongwe,b8704508,PA van Meekeren,4557dc54,0,0,0,0,0,,,,,,1,0,1
+1321484,2022,Netherlands,17,PA van Meekeren,4557dc54,LM Jongwe,b8704508,AT Nidamanuru,a319edf8,0,0,0,0,1,PA van Meekeren,4557dc54,M Shumba,6766ca00,caught,0,0,0
+1321484,2022,Netherlands,17,AT Nidamanuru,a319edf8,LM Jongwe,b8704508,Shariz Ahmad,7595b47f,0,0,0,0,0,,,,,,2,0,2
+1321484,2022,Netherlands,17,AT Nidamanuru,a319edf8,LM Jongwe,b8704508,Shariz Ahmad,7595b47f,0,0,1,0,0,,,,,,0,1,1
+1321484,2022,Netherlands,17,Shariz Ahmad,7595b47f,LM Jongwe,b8704508,AT Nidamanuru,a319edf8,1,0,0,0,0,,,,,,0,1,1
+1321484,2022,Netherlands,17,Shariz Ahmad,7595b47f,LM Jongwe,b8704508,AT Nidamanuru,a319edf8,0,0,0,0,0,,,,,,1,0,1
+1321484,2022,Netherlands,17,AT Nidamanuru,a319edf8,LM Jongwe,b8704508,Shariz Ahmad,7595b47f,0,0,0,0,0,,,,,,1,0,1
+1321484,2022,Netherlands,18,AT Nidamanuru,a319edf8,R Ngarava,6e3f5a5c,Shariz Ahmad,7595b47f,0,0,0,0,0,,,,,,2,0,2
+1321484,2022,Netherlands,18,AT Nidamanuru,a319edf8,R Ngarava,6e3f5a5c,Shariz Ahmad,7595b47f,0,0,0,0,1,AT Nidamanuru,a319edf8,,,lbw,0,0,0

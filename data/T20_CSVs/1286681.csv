@@ -1,0 +1,210 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1286681,2021/22,Argentina,0,P Baron,c6d1b1e4,TO Carmichael,a9a76481,LA Musiani,efbd35a9,0,0,0,0,0,,,,,,1,0,1
+1286681,2021/22,Argentina,0,LA Musiani,efbd35a9,TO Carmichael,a9a76481,P Baron,c6d1b1e4,0,0,0,0,0,,,,,,0,0,0
+1286681,2021/22,Argentina,0,LA Musiani,efbd35a9,TO Carmichael,a9a76481,P Baron,c6d1b1e4,0,0,0,0,0,,,,,,2,0,2
+1286681,2021/22,Argentina,0,LA Musiani,efbd35a9,TO Carmichael,a9a76481,P Baron,c6d1b1e4,0,0,0,0,0,,,,,,1,0,1
+1286681,2021/22,Argentina,0,P Baron,c6d1b1e4,TO Carmichael,a9a76481,LA Musiani,efbd35a9,0,0,0,0,0,,,,,,4,0,4
+1286681,2021/22,Argentina,0,P Baron,c6d1b1e4,TO Carmichael,a9a76481,LA Musiani,efbd35a9,0,0,0,0,0,,,,,,1,0,1
+1286681,2021/22,Argentina,1,P Baron,c6d1b1e4,J Theron,dec8e038,LA Musiani,efbd35a9,0,0,1,0,0,,,,,,0,1,1
+1286681,2021/22,Argentina,1,LA Musiani,efbd35a9,J Theron,dec8e038,P Baron,c6d1b1e4,0,0,0,0,0,,,,,,0,0,0
+1286681,2021/22,Argentina,1,LA Musiani,efbd35a9,J Theron,dec8e038,P Baron,c6d1b1e4,0,0,0,0,0,,,,,,1,0,1
+1286681,2021/22,Argentina,1,P Baron,c6d1b1e4,J Theron,dec8e038,LA Musiani,efbd35a9,0,0,0,0,0,,,,,,0,0,0
+1286681,2021/22,Argentina,1,P Baron,c6d1b1e4,J Theron,dec8e038,LA Musiani,efbd35a9,0,0,0,0,1,P Baron,c6d1b1e4,,,bowled,0,0,0
+1286681,2021/22,Argentina,1,A Ferguson,4a8d1b14,J Theron,dec8e038,LA Musiani,efbd35a9,0,0,0,0,0,,,,,,0,0,0
+1286681,2021/22,Argentina,2,LA Musiani,efbd35a9,EH Hutchinson,e6ddab51,A Ferguson,4a8d1b14,0,0,0,0,0,,,,,,0,0,0
+1286681,2021/22,Argentina,2,LA Musiani,efbd35a9,EH Hutchinson,e6ddab51,A Ferguson,4a8d1b14,0,0,0,0,1,LA Musiani,efbd35a9,JS Malhotra,9633359f,caught,0,0,0
+1286681,2021/22,Argentina,2,A Ferguson,4a8d1b14,EH Hutchinson,e6ddab51,A Kirschbaum,d953bf92,0,0,0,0,1,A Ferguson,4a8d1b14,MD Patel,25d7f1ac,caught,0,0,0
+1286681,2021/22,Argentina,2,RM Siri,f1737607,EH Hutchinson,e6ddab51,A Kirschbaum,d953bf92,0,0,0,0,0,,,,,,0,0,0
+1286681,2021/22,Argentina,2,RM Siri,f1737607,EH Hutchinson,e6ddab51,A Kirschbaum,d953bf92,0,0,0,0,0,,,,,,0,0,0
+1286681,2021/22,Argentina,2,RM Siri,f1737607,EH Hutchinson,e6ddab51,A Kirschbaum,d953bf92,0,0,0,0,0,,,,,,0,0,0
+1286681,2021/22,Argentina,3,A Kirschbaum,d953bf92,J Theron,dec8e038,RM Siri,f1737607,0,0,0,0,0,,,,,,0,0,0
+1286681,2021/22,Argentina,3,A Kirschbaum,d953bf92,J Theron,dec8e038,RM Siri,f1737607,0,0,1,0,0,,,,,,0,1,1
+1286681,2021/22,Argentina,3,RM Siri,f1737607,J Theron,dec8e038,A Kirschbaum,d953bf92,0,0,1,0,0,,,,,,0,1,1
+1286681,2021/22,Argentina,3,A Kirschbaum,d953bf92,J Theron,dec8e038,RM Siri,f1737607,0,0,0,0,0,,,,,,4,0,4
+1286681,2021/22,Argentina,3,A Kirschbaum,d953bf92,J Theron,dec8e038,RM Siri,f1737607,0,0,0,0,1,A Kirschbaum,d953bf92,,,bowled,0,0,0
+1286681,2021/22,Argentina,3,R Escobar,9fa5496f,J Theron,dec8e038,RM Siri,f1737607,0,0,0,0,0,,,,,,0,0,0
+1286681,2021/22,Argentina,4,RM Siri,f1737607,EH Hutchinson,e6ddab51,R Escobar,9fa5496f,0,0,0,0,0,,,,,,1,0,1
+1286681,2021/22,Argentina,4,R Escobar,9fa5496f,EH Hutchinson,e6ddab51,RM Siri,f1737607,0,0,0,0,0,,,,,,0,0,0
+1286681,2021/22,Argentina,4,R Escobar,9fa5496f,EH Hutchinson,e6ddab51,RM Siri,f1737607,1,0,0,0,0,,,,,,0,1,1
+1286681,2021/22,Argentina,4,R Escobar,9fa5496f,EH Hutchinson,e6ddab51,RM Siri,f1737607,0,0,0,0,0,,,,,,0,0,0
+1286681,2021/22,Argentina,4,R Escobar,9fa5496f,EH Hutchinson,e6ddab51,RM Siri,f1737607,0,0,0,0,0,,,,,,0,0,0
+1286681,2021/22,Argentina,4,R Escobar,9fa5496f,EH Hutchinson,e6ddab51,RM Siri,f1737607,0,0,0,0,0,,,,,,0,0,0
+1286681,2021/22,Argentina,4,R Escobar,9fa5496f,EH Hutchinson,e6ddab51,RM Siri,f1737607,0,0,0,0,0,,,,,,0,0,0
+1286681,2021/22,Argentina,5,RM Siri,f1737607,IG Holland,4167f30b,R Escobar,9fa5496f,0,0,0,0,0,,,,,,1,0,1
+1286681,2021/22,Argentina,5,R Escobar,9fa5496f,IG Holland,4167f30b,RM Siri,f1737607,0,0,0,0,0,,,,,,1,0,1
+1286681,2021/22,Argentina,5,RM Siri,f1737607,IG Holland,4167f30b,R Escobar,9fa5496f,0,0,0,0,0,,,,,,0,0,0
+1286681,2021/22,Argentina,5,RM Siri,f1737607,IG Holland,4167f30b,R Escobar,9fa5496f,0,0,0,0,0,,,,,,4,0,4
+1286681,2021/22,Argentina,5,RM Siri,f1737607,IG Holland,4167f30b,R Escobar,9fa5496f,1,0,0,0,0,,,,,,0,1,1
+1286681,2021/22,Argentina,5,RM Siri,f1737607,IG Holland,4167f30b,R Escobar,9fa5496f,0,0,0,0,0,,,,,,0,0,0
+1286681,2021/22,Argentina,5,RM Siri,f1737607,IG Holland,4167f30b,R Escobar,9fa5496f,0,0,0,0,0,,,,,,0,0,0
+1286681,2021/22,Argentina,6,R Escobar,9fa5496f,NK Patel,c6e10e5c,RM Siri,f1737607,0,0,0,0,0,,,,,,0,0,0
+1286681,2021/22,Argentina,6,R Escobar,9fa5496f,NK Patel,c6e10e5c,RM Siri,f1737607,0,0,0,0,0,,,,,,0,0,0
+1286681,2021/22,Argentina,6,R Escobar,9fa5496f,NK Patel,c6e10e5c,RM Siri,f1737607,0,0,0,0,0,,,,,,1,0,1
+1286681,2021/22,Argentina,6,RM Siri,f1737607,NK Patel,c6e10e5c,R Escobar,9fa5496f,0,0,0,4,0,,,,,,0,4,4
+1286681,2021/22,Argentina,6,RM Siri,f1737607,NK Patel,c6e10e5c,R Escobar,9fa5496f,0,0,0,0,0,,,,,,0,0,0
+1286681,2021/22,Argentina,6,RM Siri,f1737607,NK Patel,c6e10e5c,R Escobar,9fa5496f,0,0,0,0,0,,,,,,1,0,1
+1286681,2021/22,Argentina,7,RM Siri,f1737607,TO Carmichael,a9a76481,R Escobar,9fa5496f,0,0,0,0,0,,,,,,1,0,1
+1286681,2021/22,Argentina,7,R Escobar,9fa5496f,TO Carmichael,a9a76481,RM Siri,f1737607,0,0,0,0,0,,,,,,1,0,1
+1286681,2021/22,Argentina,7,RM Siri,f1737607,TO Carmichael,a9a76481,R Escobar,9fa5496f,0,0,0,0,0,,,,,,0,0,0
+1286681,2021/22,Argentina,7,RM Siri,f1737607,TO Carmichael,a9a76481,R Escobar,9fa5496f,0,0,0,0,0,,,,,,1,0,1
+1286681,2021/22,Argentina,7,R Escobar,9fa5496f,TO Carmichael,a9a76481,RM Siri,f1737607,0,0,0,0,0,,,,,,1,0,1
+1286681,2021/22,Argentina,7,RM Siri,f1737607,TO Carmichael,a9a76481,R Escobar,9fa5496f,0,0,0,0,0,,,,,,1,0,1
+1286681,2021/22,Argentina,8,RM Siri,f1737607,NK Patel,c6e10e5c,R Escobar,9fa5496f,0,0,0,0,0,,,,,,0,0,0
+1286681,2021/22,Argentina,8,RM Siri,f1737607,NK Patel,c6e10e5c,R Escobar,9fa5496f,0,0,0,0,0,,,,,,1,0,1
+1286681,2021/22,Argentina,8,R Escobar,9fa5496f,NK Patel,c6e10e5c,RM Siri,f1737607,0,0,0,0,0,,,,,,0,0,0
+1286681,2021/22,Argentina,8,R Escobar,9fa5496f,NK Patel,c6e10e5c,RM Siri,f1737607,0,0,0,0,0,,,,,,0,0,0
+1286681,2021/22,Argentina,8,R Escobar,9fa5496f,NK Patel,c6e10e5c,RM Siri,f1737607,0,0,0,0,0,,,,,,4,0,4
+1286681,2021/22,Argentina,8,R Escobar,9fa5496f,NK Patel,c6e10e5c,RM Siri,f1737607,0,0,0,0,0,,,,,,2,0,2
+1286681,2021/22,Argentina,9,RM Siri,f1737607,TO Carmichael,a9a76481,R Escobar,9fa5496f,0,0,0,0,0,,,,,,1,0,1
+1286681,2021/22,Argentina,9,R Escobar,9fa5496f,TO Carmichael,a9a76481,RM Siri,f1737607,0,0,0,0,0,,,,,,0,0,0
+1286681,2021/22,Argentina,9,R Escobar,9fa5496f,TO Carmichael,a9a76481,RM Siri,f1737607,0,0,0,0,0,,,,,,1,0,1
+1286681,2021/22,Argentina,9,RM Siri,f1737607,TO Carmichael,a9a76481,R Escobar,9fa5496f,0,0,0,0,0,,,,,,1,0,1
+1286681,2021/22,Argentina,9,R Escobar,9fa5496f,TO Carmichael,a9a76481,RM Siri,f1737607,0,0,0,0,0,,,,,,1,0,1
+1286681,2021/22,Argentina,9,RM Siri,f1737607,TO Carmichael,a9a76481,R Escobar,9fa5496f,0,0,0,0,0,,,,,,0,0,0
+1286681,2021/22,Argentina,10,R Escobar,9fa5496f,NK Patel,c6e10e5c,RM Siri,f1737607,1,0,0,0,0,,,,,,0,1,1
+1286681,2021/22,Argentina,10,R Escobar,9fa5496f,NK Patel,c6e10e5c,RM Siri,f1737607,0,0,0,0,0,,,,,,0,0,0
+1286681,2021/22,Argentina,10,R Escobar,9fa5496f,NK Patel,c6e10e5c,RM Siri,f1737607,0,0,0,0,0,,,,,,0,0,0
+1286681,2021/22,Argentina,10,R Escobar,9fa5496f,NK Patel,c6e10e5c,RM Siri,f1737607,0,0,0,0,0,,,,,,0,0,0
+1286681,2021/22,Argentina,10,R Escobar,9fa5496f,NK Patel,c6e10e5c,RM Siri,f1737607,0,0,0,0,0,,,,,,0,0,0
+1286681,2021/22,Argentina,10,R Escobar,9fa5496f,NK Patel,c6e10e5c,RM Siri,f1737607,0,0,0,0,0,,,,,,0,0,0
+1286681,2021/22,Argentina,10,R Escobar,9fa5496f,NK Patel,c6e10e5c,RM Siri,f1737607,0,0,0,0,1,R Escobar,9fa5496f,G Singh,e93b6c95,caught,0,0,0
+1286681,2021/22,Argentina,11,PL Bruno,4ed0bf6a,IG Holland,4167f30b,RM Siri,f1737607,0,0,0,0,0,,,,,,0,0,0
+1286681,2021/22,Argentina,11,PL Bruno,4ed0bf6a,IG Holland,4167f30b,RM Siri,f1737607,0,0,0,0,0,,,,,,0,0,0
+1286681,2021/22,Argentina,11,PL Bruno,4ed0bf6a,IG Holland,4167f30b,RM Siri,f1737607,0,0,0,0,0,,,,,,0,0,0
+1286681,2021/22,Argentina,11,PL Bruno,4ed0bf6a,IG Holland,4167f30b,RM Siri,f1737607,0,0,0,0,0,,,,,,1,0,1
+1286681,2021/22,Argentina,11,RM Siri,f1737607,IG Holland,4167f30b,PL Bruno,4ed0bf6a,0,0,0,0,0,,,,,,0,0,0
+1286681,2021/22,Argentina,11,RM Siri,f1737607,IG Holland,4167f30b,PL Bruno,4ed0bf6a,0,0,0,0,0,,,,,,1,0,1
+1286681,2021/22,Argentina,12,RM Siri,f1737607,NK Patel,c6e10e5c,PL Bruno,4ed0bf6a,0,0,0,0,0,,,,,,1,0,1
+1286681,2021/22,Argentina,12,PL Bruno,4ed0bf6a,NK Patel,c6e10e5c,RM Siri,f1737607,0,0,0,0,0,,,,,,0,0,0
+1286681,2021/22,Argentina,12,PL Bruno,4ed0bf6a,NK Patel,c6e10e5c,RM Siri,f1737607,0,0,0,0,0,,,,,,0,0,0
+1286681,2021/22,Argentina,12,PL Bruno,4ed0bf6a,NK Patel,c6e10e5c,RM Siri,f1737607,0,0,0,0,0,,,,,,1,0,1
+1286681,2021/22,Argentina,12,RM Siri,f1737607,NK Patel,c6e10e5c,PL Bruno,4ed0bf6a,0,0,0,0,0,,,,,,1,0,1
+1286681,2021/22,Argentina,12,PL Bruno,4ed0bf6a,NK Patel,c6e10e5c,RM Siri,f1737607,0,0,0,0,0,,,,,,0,0,0
+1286681,2021/22,Argentina,13,RM Siri,f1737607,IG Holland,4167f30b,PL Bruno,4ed0bf6a,0,0,0,0,0,,,,,,0,0,0
+1286681,2021/22,Argentina,13,RM Siri,f1737607,IG Holland,4167f30b,PL Bruno,4ed0bf6a,0,0,0,0,0,,,,,,1,0,1
+1286681,2021/22,Argentina,13,PL Bruno,4ed0bf6a,IG Holland,4167f30b,RM Siri,f1737607,0,0,0,0,0,,,,,,0,0,0
+1286681,2021/22,Argentina,13,PL Bruno,4ed0bf6a,IG Holland,4167f30b,RM Siri,f1737607,0,0,0,0,0,,,,,,0,0,0
+1286681,2021/22,Argentina,13,PL Bruno,4ed0bf6a,IG Holland,4167f30b,RM Siri,f1737607,0,0,0,0,0,,,,,,1,0,1
+1286681,2021/22,Argentina,13,RM Siri,f1737607,IG Holland,4167f30b,PL Bruno,4ed0bf6a,0,0,0,0,0,,,,,,1,0,1
+1286681,2021/22,Argentina,14,RM Siri,f1737607,Aaron Jones,17aa4f1d,PL Bruno,4ed0bf6a,0,0,0,0,0,,,,,,0,0,0
+1286681,2021/22,Argentina,14,RM Siri,f1737607,Aaron Jones,17aa4f1d,PL Bruno,4ed0bf6a,0,0,0,0,0,,,,,,1,0,1
+1286681,2021/22,Argentina,14,PL Bruno,4ed0bf6a,Aaron Jones,17aa4f1d,RM Siri,f1737607,0,0,0,0,0,,,,,,0,0,0
+1286681,2021/22,Argentina,14,PL Bruno,4ed0bf6a,Aaron Jones,17aa4f1d,RM Siri,f1737607,0,0,0,0,0,,,,,,0,0,0
+1286681,2021/22,Argentina,14,PL Bruno,4ed0bf6a,Aaron Jones,17aa4f1d,RM Siri,f1737607,0,0,0,0,0,,,,,,0,0,0
+1286681,2021/22,Argentina,14,PL Bruno,4ed0bf6a,Aaron Jones,17aa4f1d,RM Siri,f1737607,0,0,0,0,0,,,,,,1,0,1
+1286681,2021/22,Argentina,15,PL Bruno,4ed0bf6a,JS Malhotra,9633359f,RM Siri,f1737607,0,0,0,0,0,,,,,,1,0,1
+1286681,2021/22,Argentina,15,RM Siri,f1737607,JS Malhotra,9633359f,PL Bruno,4ed0bf6a,0,0,0,0,0,,,,,,0,0,0
+1286681,2021/22,Argentina,15,RM Siri,f1737607,JS Malhotra,9633359f,PL Bruno,4ed0bf6a,0,0,0,0,0,,,,,,1,0,1
+1286681,2021/22,Argentina,15,PL Bruno,4ed0bf6a,JS Malhotra,9633359f,RM Siri,f1737607,0,0,0,0,0,,,,,,0,0,0
+1286681,2021/22,Argentina,15,PL Bruno,4ed0bf6a,JS Malhotra,9633359f,RM Siri,f1737607,0,0,0,0,0,,,,,,0,0,0
+1286681,2021/22,Argentina,15,PL Bruno,4ed0bf6a,JS Malhotra,9633359f,RM Siri,f1737607,0,0,0,0,0,,,,,,1,0,1
+1286681,2021/22,Argentina,16,PL Bruno,4ed0bf6a,Aaron Jones,17aa4f1d,RM Siri,f1737607,0,0,0,0,0,,,,,,4,0,4
+1286681,2021/22,Argentina,16,PL Bruno,4ed0bf6a,Aaron Jones,17aa4f1d,RM Siri,f1737607,0,0,0,0,0,,,,,,1,0,1
+1286681,2021/22,Argentina,16,RM Siri,f1737607,Aaron Jones,17aa4f1d,PL Bruno,4ed0bf6a,0,0,0,0,0,,,,,,3,0,3
+1286681,2021/22,Argentina,16,PL Bruno,4ed0bf6a,Aaron Jones,17aa4f1d,RM Siri,f1737607,0,0,0,0,0,,,,,,2,0,2
+1286681,2021/22,Argentina,16,PL Bruno,4ed0bf6a,Aaron Jones,17aa4f1d,RM Siri,f1737607,0,0,0,0,0,,,,,,1,0,1
+1286681,2021/22,Argentina,16,RM Siri,f1737607,Aaron Jones,17aa4f1d,PL Bruno,4ed0bf6a,0,0,0,0,0,,,,,,0,0,0
+1286681,2021/22,Argentina,17,PL Bruno,4ed0bf6a,EH Hutchinson,e6ddab51,RM Siri,f1737607,0,0,0,0,0,,,,,,1,0,1
+1286681,2021/22,Argentina,17,RM Siri,f1737607,EH Hutchinson,e6ddab51,PL Bruno,4ed0bf6a,0,0,0,0,0,,,,,,1,0,1
+1286681,2021/22,Argentina,17,PL Bruno,4ed0bf6a,EH Hutchinson,e6ddab51,RM Siri,f1737607,0,0,0,0,0,,,,,,0,0,0
+1286681,2021/22,Argentina,17,PL Bruno,4ed0bf6a,EH Hutchinson,e6ddab51,RM Siri,f1737607,1,0,0,0,0,,,,,,0,1,1
+1286681,2021/22,Argentina,17,PL Bruno,4ed0bf6a,EH Hutchinson,e6ddab51,RM Siri,f1737607,0,0,0,0,0,,,,,,1,0,1
+1286681,2021/22,Argentina,17,RM Siri,f1737607,EH Hutchinson,e6ddab51,PL Bruno,4ed0bf6a,0,0,0,0,0,,,,,,0,0,0
+1286681,2021/22,Argentina,17,RM Siri,f1737607,EH Hutchinson,e6ddab51,PL Bruno,4ed0bf6a,0,0,0,0,0,,,,,,1,0,1
+1286681,2021/22,Argentina,18,RM Siri,f1737607,TO Carmichael,a9a76481,PL Bruno,4ed0bf6a,0,0,0,0,0,,,,,,1,0,1
+1286681,2021/22,Argentina,18,PL Bruno,4ed0bf6a,TO Carmichael,a9a76481,RM Siri,f1737607,0,0,0,0,0,,,,,,0,0,0
+1286681,2021/22,Argentina,18,PL Bruno,4ed0bf6a,TO Carmichael,a9a76481,RM Siri,f1737607,0,0,0,0,0,,,,,,0,0,0
+1286681,2021/22,Argentina,18,PL Bruno,4ed0bf6a,TO Carmichael,a9a76481,RM Siri,f1737607,0,0,0,0,0,,,,,,1,0,1
+1286681,2021/22,Argentina,18,RM Siri,f1737607,TO Carmichael,a9a76481,PL Bruno,4ed0bf6a,0,0,0,0,0,,,,,,4,0,4
+1286681,2021/22,Argentina,18,RM Siri,f1737607,TO Carmichael,a9a76481,PL Bruno,4ed0bf6a,1,0,0,0,0,,,,,,0,1,1
+1286681,2021/22,Argentina,18,RM Siri,f1737607,TO Carmichael,a9a76481,PL Bruno,4ed0bf6a,0,0,0,0,0,,,,,,0,0,0
+1286681,2021/22,Argentina,19,PL Bruno,4ed0bf6a,IG Holland,4167f30b,RM Siri,f1737607,0,0,0,0,0,,,,,,1,0,1
+1286681,2021/22,Argentina,19,RM Siri,f1737607,IG Holland,4167f30b,PL Bruno,4ed0bf6a,0,0,0,0,0,,,,,,1,0,1
+1286681,2021/22,Argentina,19,PL Bruno,4ed0bf6a,IG Holland,4167f30b,RM Siri,f1737607,0,0,0,0,0,,,,,,1,0,1
+1286681,2021/22,Argentina,19,RM Siri,f1737607,IG Holland,4167f30b,PL Bruno,4ed0bf6a,0,0,0,0,1,RM Siri,f1737607,MD Patel,25d7f1ac,stumped,0,0,0
+1286681,2021/22,Argentina,19,T Rossi,5470418a,IG Holland,4167f30b,PL Bruno,4ed0bf6a,0,0,0,0,0,,,,,,1,0,1
+1286681,2021/22,Argentina,19,PL Bruno,4ed0bf6a,IG Holland,4167f30b,T Rossi,5470418a,0,0,0,0,1,PL Bruno,4ed0bf6a,MD Patel,25d7f1ac,run out,1,0,1
+1286681,2021/22,United States of America,0,JS Malhotra,9633359f,T Rossi,5470418a,G Singh,e93b6c95,0,0,0,0,0,,,,,,1,0,1
+1286681,2021/22,United States of America,0,G Singh,e93b6c95,T Rossi,5470418a,JS Malhotra,9633359f,0,0,0,0,0,,,,,,1,0,1
+1286681,2021/22,United States of America,0,JS Malhotra,9633359f,T Rossi,5470418a,G Singh,e93b6c95,0,0,0,0,0,,,,,,0,0,0
+1286681,2021/22,United States of America,0,JS Malhotra,9633359f,T Rossi,5470418a,G Singh,e93b6c95,0,0,0,0,0,,,,,,3,0,3
+1286681,2021/22,United States of America,0,G Singh,e93b6c95,T Rossi,5470418a,JS Malhotra,9633359f,0,0,0,0,0,,,,,,0,0,0
+1286681,2021/22,United States of America,0,G Singh,e93b6c95,T Rossi,5470418a,JS Malhotra,9633359f,0,0,0,0,0,,,,,,4,0,4
+1286681,2021/22,United States of America,1,JS Malhotra,9633359f,H Fennell,0d38ab25,G Singh,e93b6c95,0,0,0,0,0,,,,,,0,0,0
+1286681,2021/22,United States of America,1,JS Malhotra,9633359f,H Fennell,0d38ab25,G Singh,e93b6c95,0,0,0,0,0,,,,,,0,0,0
+1286681,2021/22,United States of America,1,JS Malhotra,9633359f,H Fennell,0d38ab25,G Singh,e93b6c95,0,0,0,0,1,JS Malhotra,9633359f,,,bowled,0,0,0
+1286681,2021/22,United States of America,1,XM Marshall,ffb504b1,H Fennell,0d38ab25,G Singh,e93b6c95,0,0,0,0,0,,,,,,0,0,0
+1286681,2021/22,United States of America,1,XM Marshall,ffb504b1,H Fennell,0d38ab25,G Singh,e93b6c95,0,0,0,0,0,,,,,,1,0,1
+1286681,2021/22,United States of America,1,G Singh,e93b6c95,H Fennell,0d38ab25,XM Marshall,ffb504b1,1,0,0,0,0,,,,,,0,1,1
+1286681,2021/22,United States of America,1,G Singh,e93b6c95,H Fennell,0d38ab25,XM Marshall,ffb504b1,0,0,0,0,0,,,,,,1,0,1
+1286681,2021/22,United States of America,2,G Singh,e93b6c95,T Rossi,5470418a,XM Marshall,ffb504b1,0,0,0,0,0,,,,,,1,0,1
+1286681,2021/22,United States of America,2,XM Marshall,ffb504b1,T Rossi,5470418a,G Singh,e93b6c95,0,0,0,0,0,,,,,,0,0,0
+1286681,2021/22,United States of America,2,XM Marshall,ffb504b1,T Rossi,5470418a,G Singh,e93b6c95,0,0,0,0,0,,,,,,0,0,0
+1286681,2021/22,United States of America,2,XM Marshall,ffb504b1,T Rossi,5470418a,G Singh,e93b6c95,0,0,0,0,0,,,,,,4,0,4
+1286681,2021/22,United States of America,2,XM Marshall,ffb504b1,T Rossi,5470418a,G Singh,e93b6c95,0,0,0,0,0,,,,,,4,0,4
+1286681,2021/22,United States of America,2,XM Marshall,ffb504b1,T Rossi,5470418a,G Singh,e93b6c95,0,0,0,0,0,,,,,,0,0,0
+1286681,2021/22,United States of America,3,G Singh,e93b6c95,H Fennell,0d38ab25,XM Marshall,ffb504b1,0,0,0,0,0,,,,,,1,0,1
+1286681,2021/22,United States of America,3,XM Marshall,ffb504b1,H Fennell,0d38ab25,G Singh,e93b6c95,0,0,0,0,0,,,,,,0,0,0
+1286681,2021/22,United States of America,3,XM Marshall,ffb504b1,H Fennell,0d38ab25,G Singh,e93b6c95,0,0,0,0,0,,,,,,1,0,1
+1286681,2021/22,United States of America,3,G Singh,e93b6c95,H Fennell,0d38ab25,XM Marshall,ffb504b1,0,0,0,0,0,,,,,,0,0,0
+1286681,2021/22,United States of America,3,G Singh,e93b6c95,H Fennell,0d38ab25,XM Marshall,ffb504b1,0,0,0,0,0,,,,,,0,0,0
+1286681,2021/22,United States of America,3,G Singh,e93b6c95,H Fennell,0d38ab25,XM Marshall,ffb504b1,0,0,0,0,0,,,,,,1,0,1
+1286681,2021/22,United States of America,4,G Singh,e93b6c95,J Hurley,a1aeb715,XM Marshall,ffb504b1,0,0,0,0,0,,,,,,1,0,1
+1286681,2021/22,United States of America,4,XM Marshall,ffb504b1,J Hurley,a1aeb715,G Singh,e93b6c95,0,0,0,0,0,,,,,,0,0,0
+1286681,2021/22,United States of America,4,XM Marshall,ffb504b1,J Hurley,a1aeb715,G Singh,e93b6c95,0,0,1,0,0,,,,,,0,1,1
+1286681,2021/22,United States of America,4,G Singh,e93b6c95,J Hurley,a1aeb715,XM Marshall,ffb504b1,0,0,0,0,0,,,,,,6,0,6
+1286681,2021/22,United States of America,4,G Singh,e93b6c95,J Hurley,a1aeb715,XM Marshall,ffb504b1,0,0,0,0,0,,,,,,0,0,0
+1286681,2021/22,United States of America,4,G Singh,e93b6c95,J Hurley,a1aeb715,XM Marshall,ffb504b1,0,0,0,0,0,,,,,,0,0,0
+1286681,2021/22,United States of America,5,XM Marshall,ffb504b1,H Fennell,0d38ab25,G Singh,e93b6c95,0,0,0,0,0,,,,,,0,0,0
+1286681,2021/22,United States of America,5,XM Marshall,ffb504b1,H Fennell,0d38ab25,G Singh,e93b6c95,0,0,0,0,0,,,,,,4,0,4
+1286681,2021/22,United States of America,5,XM Marshall,ffb504b1,H Fennell,0d38ab25,G Singh,e93b6c95,0,0,0,0,0,,,,,,2,0,2
+1286681,2021/22,United States of America,5,XM Marshall,ffb504b1,H Fennell,0d38ab25,G Singh,e93b6c95,0,0,0,0,0,,,,,,2,0,2
+1286681,2021/22,United States of America,5,XM Marshall,ffb504b1,H Fennell,0d38ab25,G Singh,e93b6c95,0,0,0,0,0,,,,,,0,0,0
+1286681,2021/22,United States of America,5,XM Marshall,ffb504b1,H Fennell,0d38ab25,G Singh,e93b6c95,0,0,0,0,0,,,,,,1,0,1
+1286681,2021/22,United States of America,6,XM Marshall,ffb504b1,J Hurley,a1aeb715,G Singh,e93b6c95,0,0,0,0,1,XM Marshall,ffb504b1,EM Nino,3f11dbff,caught,0,0,0
+1286681,2021/22,United States of America,6,Aaron Jones,17aa4f1d,J Hurley,a1aeb715,G Singh,e93b6c95,0,0,0,0,0,,,,,,2,0,2
+1286681,2021/22,United States of America,6,Aaron Jones,17aa4f1d,J Hurley,a1aeb715,G Singh,e93b6c95,0,0,0,0,0,,,,,,0,0,0
+1286681,2021/22,United States of America,6,Aaron Jones,17aa4f1d,J Hurley,a1aeb715,G Singh,e93b6c95,0,0,0,0,0,,,,,,0,0,0
+1286681,2021/22,United States of America,6,Aaron Jones,17aa4f1d,J Hurley,a1aeb715,G Singh,e93b6c95,0,0,0,0,0,,,,,,0,0,0
+1286681,2021/22,United States of America,6,Aaron Jones,17aa4f1d,J Hurley,a1aeb715,G Singh,e93b6c95,0,0,0,0,0,,,,,,0,0,0
+1286681,2021/22,United States of America,7,G Singh,e93b6c95,A Kirschbaum,d953bf92,Aaron Jones,17aa4f1d,0,0,0,0,0,,,,,,2,0,2
+1286681,2021/22,United States of America,7,G Singh,e93b6c95,A Kirschbaum,d953bf92,Aaron Jones,17aa4f1d,0,0,0,0,0,,,,,,0,0,0
+1286681,2021/22,United States of America,7,G Singh,e93b6c95,A Kirschbaum,d953bf92,Aaron Jones,17aa4f1d,0,1,0,0,0,,,,,,6,1,7
+1286681,2021/22,United States of America,7,G Singh,e93b6c95,A Kirschbaum,d953bf92,Aaron Jones,17aa4f1d,0,0,0,0,0,,,,,,6,0,6
+1286681,2021/22,United States of America,7,G Singh,e93b6c95,A Kirschbaum,d953bf92,Aaron Jones,17aa4f1d,0,0,0,0,0,,,,,,0,0,0
+1286681,2021/22,United States of America,7,G Singh,e93b6c95,A Kirschbaum,d953bf92,Aaron Jones,17aa4f1d,0,0,0,0,0,,,,,,0,0,0
+1286681,2021/22,United States of America,7,G Singh,e93b6c95,A Kirschbaum,d953bf92,Aaron Jones,17aa4f1d,0,0,0,0,0,,,,,,0,0,0
+1286681,2021/22,United States of America,8,Aaron Jones,17aa4f1d,J Hurley,a1aeb715,G Singh,e93b6c95,0,0,0,0,0,,,,,,0,0,0
+1286681,2021/22,United States of America,8,Aaron Jones,17aa4f1d,J Hurley,a1aeb715,G Singh,e93b6c95,0,0,0,0,0,,,,,,1,0,1
+1286681,2021/22,United States of America,8,G Singh,e93b6c95,J Hurley,a1aeb715,Aaron Jones,17aa4f1d,0,0,0,0,0,,,,,,1,0,1
+1286681,2021/22,United States of America,8,Aaron Jones,17aa4f1d,J Hurley,a1aeb715,G Singh,e93b6c95,1,0,0,0,0,,,,,,0,1,1
+1286681,2021/22,United States of America,8,Aaron Jones,17aa4f1d,J Hurley,a1aeb715,G Singh,e93b6c95,0,0,0,0,0,,,,,,1,0,1
+1286681,2021/22,United States of America,8,G Singh,e93b6c95,J Hurley,a1aeb715,Aaron Jones,17aa4f1d,0,0,0,0,0,,,,,,0,0,0
+1286681,2021/22,United States of America,8,G Singh,e93b6c95,J Hurley,a1aeb715,Aaron Jones,17aa4f1d,0,0,0,0,0,,,,,,0,0,0
+1286681,2021/22,United States of America,9,Aaron Jones,17aa4f1d,A Kirschbaum,d953bf92,G Singh,e93b6c95,0,0,0,0,0,,,,,,1,0,1
+1286681,2021/22,United States of America,9,G Singh,e93b6c95,A Kirschbaum,d953bf92,Aaron Jones,17aa4f1d,0,0,0,0,0,,,,,,0,0,0
+1286681,2021/22,United States of America,9,G Singh,e93b6c95,A Kirschbaum,d953bf92,Aaron Jones,17aa4f1d,0,0,0,0,0,,,,,,1,0,1
+1286681,2021/22,United States of America,9,Aaron Jones,17aa4f1d,A Kirschbaum,d953bf92,G Singh,e93b6c95,0,0,0,0,0,,,,,,0,0,0
+1286681,2021/22,United States of America,9,Aaron Jones,17aa4f1d,A Kirschbaum,d953bf92,G Singh,e93b6c95,0,0,0,0,0,,,,,,1,0,1
+1286681,2021/22,United States of America,9,G Singh,e93b6c95,A Kirschbaum,d953bf92,Aaron Jones,17aa4f1d,0,0,0,0,0,,,,,,2,0,2
+1286681,2021/22,United States of America,10,Aaron Jones,17aa4f1d,J Hurley,a1aeb715,G Singh,e93b6c95,0,0,0,0,0,,,,,,1,0,1
+1286681,2021/22,United States of America,10,G Singh,e93b6c95,J Hurley,a1aeb715,Aaron Jones,17aa4f1d,0,0,0,0,0,,,,,,0,0,0
+1286681,2021/22,United States of America,10,G Singh,e93b6c95,J Hurley,a1aeb715,Aaron Jones,17aa4f1d,0,0,0,0,0,,,,,,0,0,0
+1286681,2021/22,United States of America,10,G Singh,e93b6c95,J Hurley,a1aeb715,Aaron Jones,17aa4f1d,0,0,0,0,0,,,,,,6,0,6
+1286681,2021/22,United States of America,10,G Singh,e93b6c95,J Hurley,a1aeb715,Aaron Jones,17aa4f1d,0,0,0,0,0,,,,,,1,0,1
+1286681,2021/22,United States of America,10,Aaron Jones,17aa4f1d,J Hurley,a1aeb715,G Singh,e93b6c95,0,0,0,0,0,,,,,,1,0,1
+1286681,2021/22,United States of America,11,Aaron Jones,17aa4f1d,A Kirschbaum,d953bf92,G Singh,e93b6c95,0,0,0,0,0,,,,,,1,0,1
+1286681,2021/22,United States of America,11,G Singh,e93b6c95,A Kirschbaum,d953bf92,Aaron Jones,17aa4f1d,0,0,0,0,0,,,,,,0,0,0
+1286681,2021/22,United States of America,11,G Singh,e93b6c95,A Kirschbaum,d953bf92,Aaron Jones,17aa4f1d,0,0,0,0,0,,,,,,1,0,1
+1286681,2021/22,United States of America,11,Aaron Jones,17aa4f1d,A Kirschbaum,d953bf92,G Singh,e93b6c95,0,0,0,0,0,,,,,,0,0,0
+1286681,2021/22,United States of America,11,Aaron Jones,17aa4f1d,A Kirschbaum,d953bf92,G Singh,e93b6c95,0,0,0,0,0,,,,,,1,0,1
+1286681,2021/22,United States of America,11,G Singh,e93b6c95,A Kirschbaum,d953bf92,Aaron Jones,17aa4f1d,0,0,0,0,0,,,,,,0,0,0
+1286681,2021/22,United States of America,12,Aaron Jones,17aa4f1d,LA Musiani,efbd35a9,G Singh,e93b6c95,0,0,0,0,0,,,,,,1,0,1
+1286681,2021/22,United States of America,12,G Singh,e93b6c95,LA Musiani,efbd35a9,Aaron Jones,17aa4f1d,0,0,0,0,0,,,,,,0,0,0
+1286681,2021/22,United States of America,12,G Singh,e93b6c95,LA Musiani,efbd35a9,Aaron Jones,17aa4f1d,0,0,0,0,0,,,,,,2,0,2
+1286681,2021/22,United States of America,12,G Singh,e93b6c95,LA Musiani,efbd35a9,Aaron Jones,17aa4f1d,0,0,0,0,0,,,,,,1,0,1
+1286681,2021/22,United States of America,12,Aaron Jones,17aa4f1d,LA Musiani,efbd35a9,G Singh,e93b6c95,0,0,0,0,0,,,,,,1,0,1
+1286681,2021/22,United States of America,12,G Singh,e93b6c95,LA Musiani,efbd35a9,Aaron Jones,17aa4f1d,0,0,0,0,0,,,,,,4,0,4
+1286681,2021/22,United States of America,13,Aaron Jones,17aa4f1d,H Fennell,0d38ab25,G Singh,e93b6c95,0,0,0,0,0,,,,,,1,0,1
+1286681,2021/22,United States of America,13,G Singh,e93b6c95,H Fennell,0d38ab25,Aaron Jones,17aa4f1d,0,0,0,0,0,,,,,,1,0,1
+1286681,2021/22,United States of America,13,Aaron Jones,17aa4f1d,H Fennell,0d38ab25,G Singh,e93b6c95,0,0,0,0,0,,,,,,4,0,4

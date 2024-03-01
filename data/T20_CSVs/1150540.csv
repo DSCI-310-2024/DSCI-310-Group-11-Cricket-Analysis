@@ -1,0 +1,251 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1150540,2018/19,Sri Lanka,0,BYA Mendis,a9fabff4,M Kapp,63e3b6b3,AC Jayangani,ac56b5a7,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,Sri Lanka,0,BYA Mendis,a9fabff4,M Kapp,63e3b6b3,AC Jayangani,ac56b5a7,0,0,0,0,0,,,,,,1,0,1
+1150540,2018/19,Sri Lanka,0,AC Jayangani,ac56b5a7,M Kapp,63e3b6b3,BYA Mendis,a9fabff4,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,Sri Lanka,0,AC Jayangani,ac56b5a7,M Kapp,63e3b6b3,BYA Mendis,a9fabff4,0,0,0,0,0,,,,,,1,0,1
+1150540,2018/19,Sri Lanka,0,BYA Mendis,a9fabff4,M Kapp,63e3b6b3,AC Jayangani,ac56b5a7,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,Sri Lanka,0,BYA Mendis,a9fabff4,M Kapp,63e3b6b3,AC Jayangani,ac56b5a7,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,Sri Lanka,1,AC Jayangani,ac56b5a7,S Ismail,108c4c09,BYA Mendis,a9fabff4,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,Sri Lanka,1,AC Jayangani,ac56b5a7,S Ismail,108c4c09,BYA Mendis,a9fabff4,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,Sri Lanka,1,AC Jayangani,ac56b5a7,S Ismail,108c4c09,BYA Mendis,a9fabff4,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,Sri Lanka,1,AC Jayangani,ac56b5a7,S Ismail,108c4c09,BYA Mendis,a9fabff4,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,Sri Lanka,1,AC Jayangani,ac56b5a7,S Ismail,108c4c09,BYA Mendis,a9fabff4,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,Sri Lanka,1,AC Jayangani,ac56b5a7,S Ismail,108c4c09,BYA Mendis,a9fabff4,0,0,0,0,0,,,,,,1,0,1
+1150540,2018/19,Sri Lanka,2,AC Jayangani,ac56b5a7,M Kapp,63e3b6b3,BYA Mendis,a9fabff4,0,0,0,0,0,,,,,,1,0,1
+1150540,2018/19,Sri Lanka,2,BYA Mendis,a9fabff4,M Kapp,63e3b6b3,AC Jayangani,ac56b5a7,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,Sri Lanka,2,BYA Mendis,a9fabff4,M Kapp,63e3b6b3,AC Jayangani,ac56b5a7,0,0,1,0,0,,,,,,0,1,1
+1150540,2018/19,Sri Lanka,2,AC Jayangani,ac56b5a7,M Kapp,63e3b6b3,BYA Mendis,a9fabff4,0,0,0,0,1,AC Jayangani,ac56b5a7,,,lbw,0,0,0
+1150540,2018/19,Sri Lanka,2,GWHM Perera,53068b45,M Kapp,63e3b6b3,BYA Mendis,a9fabff4,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,Sri Lanka,2,GWHM Perera,53068b45,M Kapp,63e3b6b3,BYA Mendis,a9fabff4,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,Sri Lanka,3,BYA Mendis,a9fabff4,S Ismail,108c4c09,GWHM Perera,53068b45,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,Sri Lanka,3,BYA Mendis,a9fabff4,S Ismail,108c4c09,GWHM Perera,53068b45,0,0,0,0,1,BYA Mendis,a9fabff4,,,bowled,0,0,0
+1150540,2018/19,Sri Lanka,3,HASD Siriwardene,dbd79036,S Ismail,108c4c09,GWHM Perera,53068b45,1,0,0,0,0,,,,,,0,1,1
+1150540,2018/19,Sri Lanka,3,HASD Siriwardene,dbd79036,S Ismail,108c4c09,GWHM Perera,53068b45,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,Sri Lanka,3,HASD Siriwardene,dbd79036,S Ismail,108c4c09,GWHM Perera,53068b45,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,Sri Lanka,3,HASD Siriwardene,dbd79036,S Ismail,108c4c09,GWHM Perera,53068b45,5,0,0,0,0,,,,,,0,5,5
+1150540,2018/19,Sri Lanka,3,HASD Siriwardene,dbd79036,S Ismail,108c4c09,GWHM Perera,53068b45,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,Sri Lanka,3,HASD Siriwardene,dbd79036,S Ismail,108c4c09,GWHM Perera,53068b45,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,Sri Lanka,4,GWHM Perera,53068b45,M Kapp,63e3b6b3,HASD Siriwardene,dbd79036,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,Sri Lanka,4,GWHM Perera,53068b45,M Kapp,63e3b6b3,HASD Siriwardene,dbd79036,0,0,0,0,0,,,,,,1,0,1
+1150540,2018/19,Sri Lanka,4,HASD Siriwardene,dbd79036,M Kapp,63e3b6b3,GWHM Perera,53068b45,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,Sri Lanka,4,HASD Siriwardene,dbd79036,M Kapp,63e3b6b3,GWHM Perera,53068b45,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,Sri Lanka,4,HASD Siriwardene,dbd79036,M Kapp,63e3b6b3,GWHM Perera,53068b45,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,Sri Lanka,4,HASD Siriwardene,dbd79036,M Kapp,63e3b6b3,GWHM Perera,53068b45,0,0,0,0,0,,,,,,2,0,2
+1150540,2018/19,Sri Lanka,5,GWHM Perera,53068b45,S Ismail,108c4c09,HASD Siriwardene,dbd79036,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,Sri Lanka,5,GWHM Perera,53068b45,S Ismail,108c4c09,HASD Siriwardene,dbd79036,0,0,0,0,0,,,,,,1,0,1
+1150540,2018/19,Sri Lanka,5,HASD Siriwardene,dbd79036,S Ismail,108c4c09,GWHM Perera,53068b45,0,0,0,0,0,,,,,,1,0,1
+1150540,2018/19,Sri Lanka,5,GWHM Perera,53068b45,S Ismail,108c4c09,HASD Siriwardene,dbd79036,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,Sri Lanka,5,GWHM Perera,53068b45,S Ismail,108c4c09,HASD Siriwardene,dbd79036,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,Sri Lanka,5,GWHM Perera,53068b45,S Ismail,108c4c09,HASD Siriwardene,dbd79036,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,Sri Lanka,6,HASD Siriwardene,dbd79036,M Klaas,ce85fcaf,GWHM Perera,53068b45,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,Sri Lanka,6,HASD Siriwardene,dbd79036,M Klaas,ce85fcaf,GWHM Perera,53068b45,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,Sri Lanka,6,HASD Siriwardene,dbd79036,M Klaas,ce85fcaf,GWHM Perera,53068b45,0,0,0,0,0,,,,,,1,0,1
+1150540,2018/19,Sri Lanka,6,GWHM Perera,53068b45,M Klaas,ce85fcaf,HASD Siriwardene,dbd79036,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,Sri Lanka,6,GWHM Perera,53068b45,M Klaas,ce85fcaf,HASD Siriwardene,dbd79036,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,Sri Lanka,6,GWHM Perera,53068b45,M Klaas,ce85fcaf,HASD Siriwardene,dbd79036,0,0,0,0,0,,,,,,4,0,4
+1150540,2018/19,Sri Lanka,7,HASD Siriwardene,dbd79036,M Daniels,16443d2f,GWHM Perera,53068b45,0,0,0,0,0,,,,,,4,0,4
+1150540,2018/19,Sri Lanka,7,HASD Siriwardene,dbd79036,M Daniels,16443d2f,GWHM Perera,53068b45,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,Sri Lanka,7,HASD Siriwardene,dbd79036,M Daniels,16443d2f,GWHM Perera,53068b45,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,Sri Lanka,7,HASD Siriwardene,dbd79036,M Daniels,16443d2f,GWHM Perera,53068b45,0,0,0,0,0,,,,,,1,0,1
+1150540,2018/19,Sri Lanka,7,GWHM Perera,53068b45,M Daniels,16443d2f,HASD Siriwardene,dbd79036,0,0,0,0,1,GWHM Perera,53068b45,M Kapp,63e3b6b3,caught,0,0,0
+1150540,2018/19,Sri Lanka,7,OU Ranasinghe,52d3b7ff,M Daniels,16443d2f,HASD Siriwardene,dbd79036,1,0,0,0,0,,,,,,0,1,1
+1150540,2018/19,Sri Lanka,7,OU Ranasinghe,52d3b7ff,M Daniels,16443d2f,HASD Siriwardene,dbd79036,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,Sri Lanka,8,HASD Siriwardene,dbd79036,M Klaas,ce85fcaf,OU Ranasinghe,52d3b7ff,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,Sri Lanka,8,HASD Siriwardene,dbd79036,M Klaas,ce85fcaf,OU Ranasinghe,52d3b7ff,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,Sri Lanka,8,HASD Siriwardene,dbd79036,M Klaas,ce85fcaf,OU Ranasinghe,52d3b7ff,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,Sri Lanka,8,HASD Siriwardene,dbd79036,M Klaas,ce85fcaf,OU Ranasinghe,52d3b7ff,0,0,0,0,0,,,,,,1,0,1
+1150540,2018/19,Sri Lanka,8,OU Ranasinghe,52d3b7ff,M Klaas,ce85fcaf,HASD Siriwardene,dbd79036,1,0,0,0,0,,,,,,0,1,1
+1150540,2018/19,Sri Lanka,8,OU Ranasinghe,52d3b7ff,M Klaas,ce85fcaf,HASD Siriwardene,dbd79036,0,0,0,0,0,,,,,,1,0,1
+1150540,2018/19,Sri Lanka,8,HASD Siriwardene,dbd79036,M Klaas,ce85fcaf,OU Ranasinghe,52d3b7ff,0,0,0,0,0,,,,,,6,0,6
+1150540,2018/19,Sri Lanka,9,OU Ranasinghe,52d3b7ff,M Daniels,16443d2f,HASD Siriwardene,dbd79036,1,0,0,0,0,,,,,,0,1,1
+1150540,2018/19,Sri Lanka,9,OU Ranasinghe,52d3b7ff,M Daniels,16443d2f,HASD Siriwardene,dbd79036,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,Sri Lanka,9,OU Ranasinghe,52d3b7ff,M Daniels,16443d2f,HASD Siriwardene,dbd79036,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,Sri Lanka,9,OU Ranasinghe,52d3b7ff,M Daniels,16443d2f,HASD Siriwardene,dbd79036,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,Sri Lanka,9,OU Ranasinghe,52d3b7ff,M Daniels,16443d2f,HASD Siriwardene,dbd79036,0,0,0,0,0,,,,,,1,0,1
+1150540,2018/19,Sri Lanka,9,HASD Siriwardene,dbd79036,M Daniels,16443d2f,OU Ranasinghe,52d3b7ff,0,0,0,0,0,,,,,,4,0,4
+1150540,2018/19,Sri Lanka,9,HASD Siriwardene,dbd79036,M Daniels,16443d2f,OU Ranasinghe,52d3b7ff,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,Sri Lanka,10,OU Ranasinghe,52d3b7ff,D van Niekerk,8c5775f3,HASD Siriwardene,dbd79036,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,Sri Lanka,10,OU Ranasinghe,52d3b7ff,D van Niekerk,8c5775f3,HASD Siriwardene,dbd79036,0,0,0,0,0,,,,,,1,0,1
+1150540,2018/19,Sri Lanka,10,HASD Siriwardene,dbd79036,D van Niekerk,8c5775f3,OU Ranasinghe,52d3b7ff,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,Sri Lanka,10,HASD Siriwardene,dbd79036,D van Niekerk,8c5775f3,OU Ranasinghe,52d3b7ff,0,0,0,0,0,,,,,,1,0,1
+1150540,2018/19,Sri Lanka,10,OU Ranasinghe,52d3b7ff,D van Niekerk,8c5775f3,HASD Siriwardene,dbd79036,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,Sri Lanka,10,OU Ranasinghe,52d3b7ff,D van Niekerk,8c5775f3,HASD Siriwardene,dbd79036,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,Sri Lanka,11,HASD Siriwardene,dbd79036,TS Sekhukhune,6e28e586,OU Ranasinghe,52d3b7ff,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,Sri Lanka,11,HASD Siriwardene,dbd79036,TS Sekhukhune,6e28e586,OU Ranasinghe,52d3b7ff,0,0,0,0,1,HASD Siriwardene,dbd79036,,,bowled,0,0,0
+1150540,2018/19,Sri Lanka,11,NND de Silva,f0b4294e,TS Sekhukhune,6e28e586,OU Ranasinghe,52d3b7ff,0,0,0,0,0,,,,,,1,0,1
+1150540,2018/19,Sri Lanka,11,OU Ranasinghe,52d3b7ff,TS Sekhukhune,6e28e586,NND de Silva,f0b4294e,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,Sri Lanka,11,OU Ranasinghe,52d3b7ff,TS Sekhukhune,6e28e586,NND de Silva,f0b4294e,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,Sri Lanka,11,OU Ranasinghe,52d3b7ff,TS Sekhukhune,6e28e586,NND de Silva,f0b4294e,0,0,0,0,0,,,,,,1,0,1
+1150540,2018/19,Sri Lanka,12,OU Ranasinghe,52d3b7ff,D van Niekerk,8c5775f3,NND de Silva,f0b4294e,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,Sri Lanka,12,OU Ranasinghe,52d3b7ff,D van Niekerk,8c5775f3,NND de Silva,f0b4294e,0,0,0,0,0,,,,,,1,0,1
+1150540,2018/19,Sri Lanka,12,NND de Silva,f0b4294e,D van Niekerk,8c5775f3,OU Ranasinghe,52d3b7ff,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,Sri Lanka,12,NND de Silva,f0b4294e,D van Niekerk,8c5775f3,OU Ranasinghe,52d3b7ff,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,Sri Lanka,12,NND de Silva,f0b4294e,D van Niekerk,8c5775f3,OU Ranasinghe,52d3b7ff,0,0,0,0,0,,,,,,1,0,1
+1150540,2018/19,Sri Lanka,12,OU Ranasinghe,52d3b7ff,D van Niekerk,8c5775f3,NND de Silva,f0b4294e,0,0,0,0,1,OU Ranasinghe,52d3b7ff,L Lee,7b01ce83,caught,0,0,0
+1150540,2018/19,Sri Lanka,13,NND de Silva,f0b4294e,TS Sekhukhune,6e28e586,LE Kaushalya,8b552293,0,0,0,0,0,,,,,,1,0,1
+1150540,2018/19,Sri Lanka,13,LE Kaushalya,8b552293,TS Sekhukhune,6e28e586,NND de Silva,f0b4294e,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,Sri Lanka,13,LE Kaushalya,8b552293,TS Sekhukhune,6e28e586,NND de Silva,f0b4294e,0,0,0,0,0,,,,,,1,0,1
+1150540,2018/19,Sri Lanka,13,NND de Silva,f0b4294e,TS Sekhukhune,6e28e586,LE Kaushalya,8b552293,0,0,0,0,0,,,,,,1,0,1
+1150540,2018/19,Sri Lanka,13,LE Kaushalya,8b552293,TS Sekhukhune,6e28e586,NND de Silva,f0b4294e,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,Sri Lanka,13,LE Kaushalya,8b552293,TS Sekhukhune,6e28e586,NND de Silva,f0b4294e,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,Sri Lanka,14,NND de Silva,f0b4294e,D van Niekerk,8c5775f3,LE Kaushalya,8b552293,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,Sri Lanka,14,NND de Silva,f0b4294e,D van Niekerk,8c5775f3,LE Kaushalya,8b552293,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,Sri Lanka,14,NND de Silva,f0b4294e,D van Niekerk,8c5775f3,LE Kaushalya,8b552293,0,0,0,0,0,,,,,,1,0,1
+1150540,2018/19,Sri Lanka,14,LE Kaushalya,8b552293,D van Niekerk,8c5775f3,NND de Silva,f0b4294e,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,Sri Lanka,14,LE Kaushalya,8b552293,D van Niekerk,8c5775f3,NND de Silva,f0b4294e,0,0,0,0,0,,,,,,1,0,1
+1150540,2018/19,Sri Lanka,14,NND de Silva,f0b4294e,D van Niekerk,8c5775f3,LE Kaushalya,8b552293,0,0,0,0,0,,,,,,1,0,1
+1150540,2018/19,Sri Lanka,15,NND de Silva,f0b4294e,TS Sekhukhune,6e28e586,LE Kaushalya,8b552293,5,0,0,0,0,,,,,,0,5,5
+1150540,2018/19,Sri Lanka,15,NND de Silva,f0b4294e,TS Sekhukhune,6e28e586,LE Kaushalya,8b552293,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,Sri Lanka,15,NND de Silva,f0b4294e,TS Sekhukhune,6e28e586,LE Kaushalya,8b552293,0,0,0,0,0,,,,,,1,0,1
+1150540,2018/19,Sri Lanka,15,LE Kaushalya,8b552293,TS Sekhukhune,6e28e586,NND de Silva,f0b4294e,1,0,0,0,0,,,,,,0,1,1
+1150540,2018/19,Sri Lanka,15,LE Kaushalya,8b552293,TS Sekhukhune,6e28e586,NND de Silva,f0b4294e,0,0,1,0,0,,,,,,0,1,1
+1150540,2018/19,Sri Lanka,15,NND de Silva,f0b4294e,TS Sekhukhune,6e28e586,LE Kaushalya,8b552293,0,0,0,0,0,,,,,,1,0,1
+1150540,2018/19,Sri Lanka,15,LE Kaushalya,8b552293,TS Sekhukhune,6e28e586,NND de Silva,f0b4294e,0,0,0,0,0,,,,,,1,0,1
+1150540,2018/19,Sri Lanka,15,NND de Silva,f0b4294e,TS Sekhukhune,6e28e586,LE Kaushalya,8b552293,0,0,0,0,0,,,,,,1,0,1
+1150540,2018/19,Sri Lanka,16,NND de Silva,f0b4294e,M Klaas,ce85fcaf,LE Kaushalya,8b552293,0,0,0,0,0,,,,,,1,0,1
+1150540,2018/19,Sri Lanka,16,LE Kaushalya,8b552293,M Klaas,ce85fcaf,NND de Silva,f0b4294e,0,0,0,0,0,,,,,,1,0,1
+1150540,2018/19,Sri Lanka,16,NND de Silva,f0b4294e,M Klaas,ce85fcaf,LE Kaushalya,8b552293,0,0,0,0,1,NND de Silva,f0b4294e,,,bowled,0,0,0
+1150540,2018/19,Sri Lanka,16,MADD Surangika,3f440bd6,M Klaas,ce85fcaf,LE Kaushalya,8b552293,0,0,0,0,0,,,,,,4,0,4
+1150540,2018/19,Sri Lanka,16,MADD Surangika,3f440bd6,M Klaas,ce85fcaf,LE Kaushalya,8b552293,0,0,0,0,0,,,,,,1,0,1
+1150540,2018/19,Sri Lanka,16,LE Kaushalya,8b552293,M Klaas,ce85fcaf,MADD Surangika,3f440bd6,1,0,0,0,0,,,,,,0,1,1
+1150540,2018/19,Sri Lanka,16,LE Kaushalya,8b552293,M Klaas,ce85fcaf,MADD Surangika,3f440bd6,0,0,0,0,0,,,,,,1,0,1
+1150540,2018/19,Sri Lanka,17,LE Kaushalya,8b552293,TS Sekhukhune,6e28e586,MADD Surangika,3f440bd6,0,0,0,1,0,,,,,,0,1,1
+1150540,2018/19,Sri Lanka,17,MADD Surangika,3f440bd6,TS Sekhukhune,6e28e586,LE Kaushalya,8b552293,0,0,0,0,0,,,,,,4,0,4
+1150540,2018/19,Sri Lanka,17,MADD Surangika,3f440bd6,TS Sekhukhune,6e28e586,LE Kaushalya,8b552293,0,0,0,0,0,,,,,,4,0,4
+1150540,2018/19,Sri Lanka,17,MADD Surangika,3f440bd6,TS Sekhukhune,6e28e586,LE Kaushalya,8b552293,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,Sri Lanka,17,MADD Surangika,3f440bd6,TS Sekhukhune,6e28e586,LE Kaushalya,8b552293,1,0,0,0,0,,,,,,0,1,1
+1150540,2018/19,Sri Lanka,17,MADD Surangika,3f440bd6,TS Sekhukhune,6e28e586,LE Kaushalya,8b552293,0,0,0,0,0,,,,,,4,0,4
+1150540,2018/19,Sri Lanka,17,MADD Surangika,3f440bd6,TS Sekhukhune,6e28e586,LE Kaushalya,8b552293,0,0,0,0,0,,,,,,1,0,1
+1150540,2018/19,Sri Lanka,18,MADD Surangika,3f440bd6,M Kapp,63e3b6b3,LE Kaushalya,8b552293,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,Sri Lanka,18,MADD Surangika,3f440bd6,M Kapp,63e3b6b3,LE Kaushalya,8b552293,0,0,0,0,0,,,,,,1,0,1
+1150540,2018/19,Sri Lanka,18,LE Kaushalya,8b552293,M Kapp,63e3b6b3,MADD Surangika,3f440bd6,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,Sri Lanka,18,LE Kaushalya,8b552293,M Kapp,63e3b6b3,MADD Surangika,3f440bd6,0,0,0,0,0,,,,,,4,0,4
+1150540,2018/19,Sri Lanka,18,LE Kaushalya,8b552293,M Kapp,63e3b6b3,MADD Surangika,3f440bd6,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,Sri Lanka,18,LE Kaushalya,8b552293,M Kapp,63e3b6b3,MADD Surangika,3f440bd6,2,0,0,0,0,,,,,,0,2,2
+1150540,2018/19,Sri Lanka,18,MADD Surangika,3f440bd6,M Kapp,63e3b6b3,LE Kaushalya,8b552293,0,0,1,0,0,,,,,,0,1,1
+1150540,2018/19,Sri Lanka,19,MADD Surangika,3f440bd6,S Ismail,108c4c09,LE Kaushalya,8b552293,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,Sri Lanka,19,MADD Surangika,3f440bd6,S Ismail,108c4c09,LE Kaushalya,8b552293,0,0,0,0,0,,,,,,1,0,1
+1150540,2018/19,Sri Lanka,19,LE Kaushalya,8b552293,S Ismail,108c4c09,MADD Surangika,3f440bd6,0,0,0,0,1,LE Kaushalya,8b552293,,,bowled,0,0,0
+1150540,2018/19,Sri Lanka,19,SS Weerakkody,5f862ccd,S Ismail,108c4c09,MADD Surangika,3f440bd6,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,Sri Lanka,19,SS Weerakkody,5f862ccd,S Ismail,108c4c09,MADD Surangika,3f440bd6,0,0,0,0,1,SS Weerakkody,5f862ccd,,,bowled,0,0,0
+1150540,2018/19,Sri Lanka,19,KDU Prabodhani,a0fdf513,S Ismail,108c4c09,MADD Surangika,3f440bd6,0,0,0,1,0,,,,,,0,1,1
+1150540,2018/19,South Africa,0,L Lee,7b01ce83,KDU Prabodhani,a0fdf513,L Wolvaardt,e60f81c9,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,South Africa,0,L Lee,7b01ce83,KDU Prabodhani,a0fdf513,L Wolvaardt,e60f81c9,0,0,0,0,0,,,,,,1,0,1
+1150540,2018/19,South Africa,0,L Wolvaardt,e60f81c9,KDU Prabodhani,a0fdf513,L Lee,7b01ce83,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,South Africa,0,L Wolvaardt,e60f81c9,KDU Prabodhani,a0fdf513,L Lee,7b01ce83,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,South Africa,0,L Wolvaardt,e60f81c9,KDU Prabodhani,a0fdf513,L Lee,7b01ce83,0,0,0,0,0,,,,,,4,0,4
+1150540,2018/19,South Africa,0,L Wolvaardt,e60f81c9,KDU Prabodhani,a0fdf513,L Lee,7b01ce83,1,0,0,0,0,,,,,,0,1,1
+1150540,2018/19,South Africa,0,L Wolvaardt,e60f81c9,KDU Prabodhani,a0fdf513,L Lee,7b01ce83,0,0,0,0,1,L Wolvaardt,e60f81c9,,,bowled,0,0,0
+1150540,2018/19,South Africa,1,L Lee,7b01ce83,SS Weerakkody,5f862ccd,M Kapp,63e3b6b3,0,0,0,0,1,L Lee,7b01ce83,MADD Surangika,3f440bd6,caught,0,0,0
+1150540,2018/19,South Africa,1,D van Niekerk,8c5775f3,SS Weerakkody,5f862ccd,M Kapp,63e3b6b3,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,South Africa,1,D van Niekerk,8c5775f3,SS Weerakkody,5f862ccd,M Kapp,63e3b6b3,0,0,0,0,0,,,,,,4,0,4
+1150540,2018/19,South Africa,1,D van Niekerk,8c5775f3,SS Weerakkody,5f862ccd,M Kapp,63e3b6b3,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,South Africa,1,D van Niekerk,8c5775f3,SS Weerakkody,5f862ccd,M Kapp,63e3b6b3,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,South Africa,1,D van Niekerk,8c5775f3,SS Weerakkody,5f862ccd,M Kapp,63e3b6b3,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,South Africa,2,M Kapp,63e3b6b3,KDU Prabodhani,a0fdf513,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,South Africa,2,M Kapp,63e3b6b3,KDU Prabodhani,a0fdf513,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,South Africa,2,M Kapp,63e3b6b3,KDU Prabodhani,a0fdf513,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,South Africa,2,M Kapp,63e3b6b3,KDU Prabodhani,a0fdf513,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,South Africa,2,M Kapp,63e3b6b3,KDU Prabodhani,a0fdf513,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,South Africa,2,M Kapp,63e3b6b3,KDU Prabodhani,a0fdf513,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,4,0,4
+1150540,2018/19,South Africa,3,D van Niekerk,8c5775f3,SS Weerakkody,5f862ccd,M Kapp,63e3b6b3,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,South Africa,3,D van Niekerk,8c5775f3,SS Weerakkody,5f862ccd,M Kapp,63e3b6b3,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,South Africa,3,D van Niekerk,8c5775f3,SS Weerakkody,5f862ccd,M Kapp,63e3b6b3,0,0,0,0,0,,,,,,1,0,1
+1150540,2018/19,South Africa,3,M Kapp,63e3b6b3,SS Weerakkody,5f862ccd,D van Niekerk,8c5775f3,1,0,0,0,0,,,,,,0,1,1
+1150540,2018/19,South Africa,3,M Kapp,63e3b6b3,SS Weerakkody,5f862ccd,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,South Africa,3,M Kapp,63e3b6b3,SS Weerakkody,5f862ccd,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,4,0,4
+1150540,2018/19,South Africa,3,M Kapp,63e3b6b3,SS Weerakkody,5f862ccd,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,South Africa,4,D van Niekerk,8c5775f3,KDU Prabodhani,a0fdf513,M Kapp,63e3b6b3,0,0,0,0,0,,,,,,4,0,4
+1150540,2018/19,South Africa,4,D van Niekerk,8c5775f3,KDU Prabodhani,a0fdf513,M Kapp,63e3b6b3,2,0,0,0,0,,,,,,0,2,2
+1150540,2018/19,South Africa,4,M Kapp,63e3b6b3,KDU Prabodhani,a0fdf513,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,South Africa,4,M Kapp,63e3b6b3,KDU Prabodhani,a0fdf513,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,South Africa,4,M Kapp,63e3b6b3,KDU Prabodhani,a0fdf513,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,South Africa,4,M Kapp,63e3b6b3,KDU Prabodhani,a0fdf513,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,South Africa,4,M Kapp,63e3b6b3,KDU Prabodhani,a0fdf513,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,1,0,1
+1150540,2018/19,South Africa,5,M Kapp,63e3b6b3,BMSM Kumari,b55fb828,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,1,0,1
+1150540,2018/19,South Africa,5,D van Niekerk,8c5775f3,BMSM Kumari,b55fb828,M Kapp,63e3b6b3,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,South Africa,5,D van Niekerk,8c5775f3,BMSM Kumari,b55fb828,M Kapp,63e3b6b3,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,South Africa,5,D van Niekerk,8c5775f3,BMSM Kumari,b55fb828,M Kapp,63e3b6b3,0,0,0,0,0,,,,,,1,0,1
+1150540,2018/19,South Africa,5,M Kapp,63e3b6b3,BMSM Kumari,b55fb828,D van Niekerk,8c5775f3,1,0,0,0,0,,,,,,0,1,1
+1150540,2018/19,South Africa,5,M Kapp,63e3b6b3,BMSM Kumari,b55fb828,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,4,0,4
+1150540,2018/19,South Africa,5,M Kapp,63e3b6b3,BMSM Kumari,b55fb828,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,South Africa,6,D van Niekerk,8c5775f3,SS Weerakkody,5f862ccd,M Kapp,63e3b6b3,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,South Africa,6,D van Niekerk,8c5775f3,SS Weerakkody,5f862ccd,M Kapp,63e3b6b3,0,0,0,0,0,,,,,,1,0,1
+1150540,2018/19,South Africa,6,M Kapp,63e3b6b3,SS Weerakkody,5f862ccd,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,South Africa,6,M Kapp,63e3b6b3,SS Weerakkody,5f862ccd,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,1,0,1
+1150540,2018/19,South Africa,6,D van Niekerk,8c5775f3,SS Weerakkody,5f862ccd,M Kapp,63e3b6b3,0,0,0,0,0,,,,,,1,0,1
+1150540,2018/19,South Africa,6,M Kapp,63e3b6b3,SS Weerakkody,5f862ccd,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,1,0,1
+1150540,2018/19,South Africa,7,M Kapp,63e3b6b3,HASD Siriwardene,dbd79036,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,South Africa,7,M Kapp,63e3b6b3,HASD Siriwardene,dbd79036,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,1,0,1
+1150540,2018/19,South Africa,7,D van Niekerk,8c5775f3,HASD Siriwardene,dbd79036,M Kapp,63e3b6b3,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,South Africa,7,D van Niekerk,8c5775f3,HASD Siriwardene,dbd79036,M Kapp,63e3b6b3,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,South Africa,7,D van Niekerk,8c5775f3,HASD Siriwardene,dbd79036,M Kapp,63e3b6b3,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,South Africa,7,D van Niekerk,8c5775f3,HASD Siriwardene,dbd79036,M Kapp,63e3b6b3,0,0,0,0,0,,,,,,1,0,1
+1150540,2018/19,South Africa,8,D van Niekerk,8c5775f3,OU Ranasinghe,52d3b7ff,M Kapp,63e3b6b3,0,0,0,0,0,,,,,,1,0,1
+1150540,2018/19,South Africa,8,M Kapp,63e3b6b3,OU Ranasinghe,52d3b7ff,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,2,0,2
+1150540,2018/19,South Africa,8,M Kapp,63e3b6b3,OU Ranasinghe,52d3b7ff,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,South Africa,8,M Kapp,63e3b6b3,OU Ranasinghe,52d3b7ff,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,6,0,6
+1150540,2018/19,South Africa,8,M Kapp,63e3b6b3,OU Ranasinghe,52d3b7ff,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,South Africa,8,M Kapp,63e3b6b3,OU Ranasinghe,52d3b7ff,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,South Africa,9,D van Niekerk,8c5775f3,HASD Siriwardene,dbd79036,M Kapp,63e3b6b3,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,South Africa,9,D van Niekerk,8c5775f3,HASD Siriwardene,dbd79036,M Kapp,63e3b6b3,0,0,0,0,0,,,,,,1,0,1
+1150540,2018/19,South Africa,9,M Kapp,63e3b6b3,HASD Siriwardene,dbd79036,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,South Africa,9,M Kapp,63e3b6b3,HASD Siriwardene,dbd79036,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,South Africa,9,M Kapp,63e3b6b3,HASD Siriwardene,dbd79036,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,1,0,1
+1150540,2018/19,South Africa,9,D van Niekerk,8c5775f3,HASD Siriwardene,dbd79036,M Kapp,63e3b6b3,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,South Africa,10,M Kapp,63e3b6b3,OU Ranasinghe,52d3b7ff,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,1,0,1
+1150540,2018/19,South Africa,10,D van Niekerk,8c5775f3,OU Ranasinghe,52d3b7ff,M Kapp,63e3b6b3,0,0,0,0,0,,,,,,1,0,1
+1150540,2018/19,South Africa,10,M Kapp,63e3b6b3,OU Ranasinghe,52d3b7ff,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,1,0,1
+1150540,2018/19,South Africa,10,D van Niekerk,8c5775f3,OU Ranasinghe,52d3b7ff,M Kapp,63e3b6b3,0,0,0,0,0,,,,,,1,0,1
+1150540,2018/19,South Africa,10,M Kapp,63e3b6b3,OU Ranasinghe,52d3b7ff,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,1,0,1
+1150540,2018/19,South Africa,10,D van Niekerk,8c5775f3,OU Ranasinghe,52d3b7ff,M Kapp,63e3b6b3,0,0,0,0,0,,,,,,1,0,1
+1150540,2018/19,South Africa,11,D van Niekerk,8c5775f3,NND de Silva,f0b4294e,M Kapp,63e3b6b3,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,South Africa,11,D van Niekerk,8c5775f3,NND de Silva,f0b4294e,M Kapp,63e3b6b3,0,0,0,0,0,,,,,,2,0,2
+1150540,2018/19,South Africa,11,D van Niekerk,8c5775f3,NND de Silva,f0b4294e,M Kapp,63e3b6b3,0,0,0,0,0,,,,,,1,0,1
+1150540,2018/19,South Africa,11,M Kapp,63e3b6b3,NND de Silva,f0b4294e,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,4,0,4
+1150540,2018/19,South Africa,11,M Kapp,63e3b6b3,NND de Silva,f0b4294e,D van Niekerk,8c5775f3,1,0,0,0,0,,,,,,0,1,1
+1150540,2018/19,South Africa,11,M Kapp,63e3b6b3,NND de Silva,f0b4294e,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,South Africa,11,M Kapp,63e3b6b3,NND de Silva,f0b4294e,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,1,0,1
+1150540,2018/19,South Africa,12,M Kapp,63e3b6b3,AC Jayangani,ac56b5a7,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,1,0,1
+1150540,2018/19,South Africa,12,D van Niekerk,8c5775f3,AC Jayangani,ac56b5a7,M Kapp,63e3b6b3,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,South Africa,12,D van Niekerk,8c5775f3,AC Jayangani,ac56b5a7,M Kapp,63e3b6b3,0,0,0,0,0,,,,,,1,0,1
+1150540,2018/19,South Africa,12,M Kapp,63e3b6b3,AC Jayangani,ac56b5a7,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,1,0,1
+1150540,2018/19,South Africa,12,D van Niekerk,8c5775f3,AC Jayangani,ac56b5a7,M Kapp,63e3b6b3,0,0,0,0,0,,,,,,1,0,1
+1150540,2018/19,South Africa,12,M Kapp,63e3b6b3,AC Jayangani,ac56b5a7,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,1,0,1
+1150540,2018/19,South Africa,13,M Kapp,63e3b6b3,HASD Siriwardene,dbd79036,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,South Africa,13,M Kapp,63e3b6b3,HASD Siriwardene,dbd79036,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,South Africa,13,M Kapp,63e3b6b3,HASD Siriwardene,dbd79036,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,South Africa,13,M Kapp,63e3b6b3,HASD Siriwardene,dbd79036,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,1,0,1
+1150540,2018/19,South Africa,13,D van Niekerk,8c5775f3,HASD Siriwardene,dbd79036,M Kapp,63e3b6b3,0,0,0,0,0,,,,,,1,0,1
+1150540,2018/19,South Africa,13,M Kapp,63e3b6b3,HASD Siriwardene,dbd79036,D van Niekerk,8c5775f3,0,0,0,0,1,M Kapp,63e3b6b3,,,lbw,0,0,0
+1150540,2018/19,South Africa,14,D van Niekerk,8c5775f3,AC Jayangani,ac56b5a7,M du Preez,e219f17a,1,0,0,0,0,,,,,,0,1,1
+1150540,2018/19,South Africa,14,D van Niekerk,8c5775f3,AC Jayangani,ac56b5a7,M du Preez,e219f17a,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,South Africa,14,D van Niekerk,8c5775f3,AC Jayangani,ac56b5a7,M du Preez,e219f17a,0,0,0,0,0,,,,,,1,0,1
+1150540,2018/19,South Africa,14,M du Preez,e219f17a,AC Jayangani,ac56b5a7,D van Niekerk,8c5775f3,0,1,0,0,0,,,,,,0,1,1
+1150540,2018/19,South Africa,14,M du Preez,e219f17a,AC Jayangani,ac56b5a7,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,1,0,1
+1150540,2018/19,South Africa,14,D van Niekerk,8c5775f3,AC Jayangani,ac56b5a7,M du Preez,e219f17a,0,0,0,0,0,,,,,,1,0,1
+1150540,2018/19,South Africa,14,M du Preez,e219f17a,AC Jayangani,ac56b5a7,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,South Africa,14,M du Preez,e219f17a,AC Jayangani,ac56b5a7,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,1,0,1
+1150540,2018/19,South Africa,15,M du Preez,e219f17a,HASD Siriwardene,dbd79036,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,South Africa,15,M du Preez,e219f17a,HASD Siriwardene,dbd79036,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,South Africa,15,M du Preez,e219f17a,HASD Siriwardene,dbd79036,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,South Africa,15,M du Preez,e219f17a,HASD Siriwardene,dbd79036,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,4,0,4
+1150540,2018/19,South Africa,15,M du Preez,e219f17a,HASD Siriwardene,dbd79036,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,1,0,1
+1150540,2018/19,South Africa,15,D van Niekerk,8c5775f3,HASD Siriwardene,dbd79036,M du Preez,e219f17a,0,0,0,0,0,,,,,,1,0,1
+1150540,2018/19,South Africa,16,D van Niekerk,8c5775f3,KDU Prabodhani,a0fdf513,M du Preez,e219f17a,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,South Africa,16,D van Niekerk,8c5775f3,KDU Prabodhani,a0fdf513,M du Preez,e219f17a,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,South Africa,16,D van Niekerk,8c5775f3,KDU Prabodhani,a0fdf513,M du Preez,e219f17a,0,0,0,0,0,,,,,,1,0,1
+1150540,2018/19,South Africa,16,M du Preez,e219f17a,KDU Prabodhani,a0fdf513,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,4,0,4
+1150540,2018/19,South Africa,16,M du Preez,e219f17a,KDU Prabodhani,a0fdf513,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,South Africa,16,M du Preez,e219f17a,KDU Prabodhani,a0fdf513,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,South Africa,17,D van Niekerk,8c5775f3,SS Weerakkody,5f862ccd,M du Preez,e219f17a,0,0,0,0,0,,,,,,2,0,2
+1150540,2018/19,South Africa,17,D van Niekerk,8c5775f3,SS Weerakkody,5f862ccd,M du Preez,e219f17a,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,South Africa,17,D van Niekerk,8c5775f3,SS Weerakkody,5f862ccd,M du Preez,e219f17a,0,0,0,0,0,,,,,,2,0,2
+1150540,2018/19,South Africa,17,D van Niekerk,8c5775f3,SS Weerakkody,5f862ccd,M du Preez,e219f17a,0,0,0,0,0,,,,,,1,0,1
+1150540,2018/19,South Africa,17,M du Preez,e219f17a,SS Weerakkody,5f862ccd,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,1,0,1
+1150540,2018/19,South Africa,17,D van Niekerk,8c5775f3,SS Weerakkody,5f862ccd,M du Preez,e219f17a,1,0,0,0,0,,,,,,0,1,1
+1150540,2018/19,South Africa,17,D van Niekerk,8c5775f3,SS Weerakkody,5f862ccd,M du Preez,e219f17a,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,South Africa,18,M du Preez,e219f17a,BMSM Kumari,b55fb828,D van Niekerk,8c5775f3,1,0,0,0,0,,,,,,0,1,1
+1150540,2018/19,South Africa,18,M du Preez,e219f17a,BMSM Kumari,b55fb828,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,South Africa,18,M du Preez,e219f17a,BMSM Kumari,b55fb828,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,0,0,0
+1150540,2018/19,South Africa,18,M du Preez,e219f17a,BMSM Kumari,b55fb828,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,4,0,4

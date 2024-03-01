@@ -1,0 +1,237 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+754801,2014/15,West Indies,0,Kycia A Knight,552f664a,RM Farrell,4ed7d23f,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,West Indies,0,SR Taylor,92cf79a8,RM Farrell,4ed7d23f,Kycia A Knight,552f664a,0,0,0,0,0,,,,,,0,0,0
+754801,2014/15,West Indies,0,SR Taylor,92cf79a8,RM Farrell,4ed7d23f,Kycia A Knight,552f664a,0,0,0,0,0,,,,,,0,0,0
+754801,2014/15,West Indies,0,SR Taylor,92cf79a8,RM Farrell,4ed7d23f,Kycia A Knight,552f664a,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,West Indies,0,Kycia A Knight,552f664a,RM Farrell,4ed7d23f,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,0,0,0
+754801,2014/15,West Indies,0,Kycia A Knight,552f664a,RM Farrell,4ed7d23f,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,0,0,0
+754801,2014/15,West Indies,1,SR Taylor,92cf79a8,JL Jonassen,0475a86b,Kycia A Knight,552f664a,0,0,0,0,0,,,,,,4,0,4
+754801,2014/15,West Indies,1,SR Taylor,92cf79a8,JL Jonassen,0475a86b,Kycia A Knight,552f664a,0,0,0,0,0,,,,,,0,0,0
+754801,2014/15,West Indies,1,SR Taylor,92cf79a8,JL Jonassen,0475a86b,Kycia A Knight,552f664a,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,West Indies,1,Kycia A Knight,552f664a,JL Jonassen,0475a86b,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,0,0,0
+754801,2014/15,West Indies,1,Kycia A Knight,552f664a,JL Jonassen,0475a86b,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,West Indies,1,SR Taylor,92cf79a8,JL Jonassen,0475a86b,Kycia A Knight,552f664a,0,0,0,0,0,,,,,,0,0,0
+754801,2014/15,West Indies,2,Kycia A Knight,552f664a,RM Farrell,4ed7d23f,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,0,0,0
+754801,2014/15,West Indies,2,Kycia A Knight,552f664a,RM Farrell,4ed7d23f,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,0,0,0
+754801,2014/15,West Indies,2,Kycia A Knight,552f664a,RM Farrell,4ed7d23f,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,West Indies,2,SR Taylor,92cf79a8,RM Farrell,4ed7d23f,Kycia A Knight,552f664a,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,West Indies,2,Kycia A Knight,552f664a,RM Farrell,4ed7d23f,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,0,0,0
+754801,2014/15,West Indies,2,Kycia A Knight,552f664a,RM Farrell,4ed7d23f,SR Taylor,92cf79a8,0,0,0,0,1,Kycia A Knight,552f664a,JL Jonassen,0475a86b,caught,0,0,0
+754801,2014/15,West Indies,3,DJS Dottin,53bee17f,JL Jonassen,0475a86b,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,0,0,0
+754801,2014/15,West Indies,3,DJS Dottin,53bee17f,JL Jonassen,0475a86b,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,0,0,0
+754801,2014/15,West Indies,3,DJS Dottin,53bee17f,JL Jonassen,0475a86b,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,0,0,0
+754801,2014/15,West Indies,3,DJS Dottin,53bee17f,JL Jonassen,0475a86b,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,0,0,0
+754801,2014/15,West Indies,3,DJS Dottin,53bee17f,JL Jonassen,0475a86b,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,West Indies,3,SR Taylor,92cf79a8,JL Jonassen,0475a86b,DJS Dottin,53bee17f,0,0,0,0,0,,,,,,4,0,4
+754801,2014/15,West Indies,4,DJS Dottin,53bee17f,SJ Coyte,a5f488bc,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,0,0,0
+754801,2014/15,West Indies,4,DJS Dottin,53bee17f,SJ Coyte,a5f488bc,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,4,0,4
+754801,2014/15,West Indies,4,DJS Dottin,53bee17f,SJ Coyte,a5f488bc,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,West Indies,4,SR Taylor,92cf79a8,SJ Coyte,a5f488bc,DJS Dottin,53bee17f,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,West Indies,4,DJS Dottin,53bee17f,SJ Coyte,a5f488bc,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,0,0,0
+754801,2014/15,West Indies,4,DJS Dottin,53bee17f,SJ Coyte,a5f488bc,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,0,0,0
+754801,2014/15,West Indies,5,SR Taylor,92cf79a8,EA Perry,be150fc8,DJS Dottin,53bee17f,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,West Indies,5,DJS Dottin,53bee17f,EA Perry,be150fc8,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,6,0,6
+754801,2014/15,West Indies,5,DJS Dottin,53bee17f,EA Perry,be150fc8,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,West Indies,5,SR Taylor,92cf79a8,EA Perry,be150fc8,DJS Dottin,53bee17f,0,0,0,0,0,,,,,,0,0,0
+754801,2014/15,West Indies,5,SR Taylor,92cf79a8,EA Perry,be150fc8,DJS Dottin,53bee17f,0,0,0,0,0,,,,,,0,0,0
+754801,2014/15,West Indies,5,SR Taylor,92cf79a8,EA Perry,be150fc8,DJS Dottin,53bee17f,0,0,0,0,0,,,,,,0,0,0
+754801,2014/15,West Indies,6,DJS Dottin,53bee17f,KM Beams,fa8f9dc3,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,3,0,3
+754801,2014/15,West Indies,6,SR Taylor,92cf79a8,KM Beams,fa8f9dc3,DJS Dottin,53bee17f,0,0,0,0,0,,,,,,0,0,0
+754801,2014/15,West Indies,6,SR Taylor,92cf79a8,KM Beams,fa8f9dc3,DJS Dottin,53bee17f,0,0,0,0,0,,,,,,0,0,0
+754801,2014/15,West Indies,6,SR Taylor,92cf79a8,KM Beams,fa8f9dc3,DJS Dottin,53bee17f,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,West Indies,6,DJS Dottin,53bee17f,KM Beams,fa8f9dc3,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,2,0,2
+754801,2014/15,West Indies,6,DJS Dottin,53bee17f,KM Beams,fa8f9dc3,SR Taylor,92cf79a8,1,0,0,0,0,,,,,,0,1,1
+754801,2014/15,West Indies,6,DJS Dottin,53bee17f,KM Beams,fa8f9dc3,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,0,0,0
+754801,2014/15,West Indies,7,SR Taylor,92cf79a8,EA Osborne,fe731c62,DJS Dottin,53bee17f,0,0,0,0,0,,,,,,0,0,0
+754801,2014/15,West Indies,7,SR Taylor,92cf79a8,EA Osborne,fe731c62,DJS Dottin,53bee17f,0,0,0,0,0,,,,,,0,0,0
+754801,2014/15,West Indies,7,SR Taylor,92cf79a8,EA Osborne,fe731c62,DJS Dottin,53bee17f,0,0,0,0,0,,,,,,6,0,6
+754801,2014/15,West Indies,7,SR Taylor,92cf79a8,EA Osborne,fe731c62,DJS Dottin,53bee17f,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,West Indies,7,DJS Dottin,53bee17f,EA Osborne,fe731c62,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,West Indies,7,SR Taylor,92cf79a8,EA Osborne,fe731c62,DJS Dottin,53bee17f,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,West Indies,8,SR Taylor,92cf79a8,EA Perry,be150fc8,DJS Dottin,53bee17f,1,0,0,0,0,,,,,,0,1,1
+754801,2014/15,West Indies,8,SR Taylor,92cf79a8,EA Perry,be150fc8,DJS Dottin,53bee17f,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,West Indies,8,DJS Dottin,53bee17f,EA Perry,be150fc8,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,West Indies,8,SR Taylor,92cf79a8,EA Perry,be150fc8,DJS Dottin,53bee17f,0,0,0,0,0,,,,,,0,0,0
+754801,2014/15,West Indies,8,SR Taylor,92cf79a8,EA Perry,be150fc8,DJS Dottin,53bee17f,0,0,0,0,0,,,,,,4,0,4
+754801,2014/15,West Indies,8,SR Taylor,92cf79a8,EA Perry,be150fc8,DJS Dottin,53bee17f,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,West Indies,8,DJS Dottin,53bee17f,EA Perry,be150fc8,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,0,0,0
+754801,2014/15,West Indies,9,SR Taylor,92cf79a8,EA Osborne,fe731c62,DJS Dottin,53bee17f,0,0,0,0,0,,,,,,0,0,0
+754801,2014/15,West Indies,9,SR Taylor,92cf79a8,EA Osborne,fe731c62,DJS Dottin,53bee17f,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,West Indies,9,DJS Dottin,53bee17f,EA Osborne,fe731c62,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,West Indies,9,SR Taylor,92cf79a8,EA Osborne,fe731c62,DJS Dottin,53bee17f,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,West Indies,9,DJS Dottin,53bee17f,EA Osborne,fe731c62,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,West Indies,9,SR Taylor,92cf79a8,EA Osborne,fe731c62,DJS Dottin,53bee17f,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,West Indies,10,SR Taylor,92cf79a8,RM Farrell,4ed7d23f,DJS Dottin,53bee17f,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,West Indies,10,DJS Dottin,53bee17f,RM Farrell,4ed7d23f,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,West Indies,10,SR Taylor,92cf79a8,RM Farrell,4ed7d23f,DJS Dottin,53bee17f,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,West Indies,10,DJS Dottin,53bee17f,RM Farrell,4ed7d23f,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,0,0,0
+754801,2014/15,West Indies,10,DJS Dottin,53bee17f,RM Farrell,4ed7d23f,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,West Indies,10,SR Taylor,92cf79a8,RM Farrell,4ed7d23f,DJS Dottin,53bee17f,0,0,0,0,0,,,,,,0,0,0
+754801,2014/15,West Indies,11,DJS Dottin,53bee17f,JL Jonassen,0475a86b,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,0,0,0
+754801,2014/15,West Indies,11,DJS Dottin,53bee17f,JL Jonassen,0475a86b,SR Taylor,92cf79a8,0,0,0,0,1,DJS Dottin,53bee17f,MM Lanning,27e003ce,caught,0,0,0
+754801,2014/15,West Indies,11,SR Taylor,92cf79a8,JL Jonassen,0475a86b,HK Matthews,d32cf49a,0,0,0,0,0,,,,,,0,0,0
+754801,2014/15,West Indies,11,SR Taylor,92cf79a8,JL Jonassen,0475a86b,HK Matthews,d32cf49a,0,0,0,0,0,,,,,,4,0,4
+754801,2014/15,West Indies,11,SR Taylor,92cf79a8,JL Jonassen,0475a86b,HK Matthews,d32cf49a,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,West Indies,11,HK Matthews,d32cf49a,JL Jonassen,0475a86b,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,0,0,0
+754801,2014/15,West Indies,12,SR Taylor,92cf79a8,SJ Coyte,a5f488bc,HK Matthews,d32cf49a,0,0,0,0,0,,,,,,0,0,0
+754801,2014/15,West Indies,12,SR Taylor,92cf79a8,SJ Coyte,a5f488bc,HK Matthews,d32cf49a,0,0,0,0,1,HK Matthews,d32cf49a,JL Jonassen,0475a86b,run out,0,0,0
+754801,2014/15,West Indies,12,SR Taylor,92cf79a8,SJ Coyte,a5f488bc,B Cooper,ac0edb42,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,West Indies,12,B Cooper,ac0edb42,SJ Coyte,a5f488bc,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,West Indies,12,SR Taylor,92cf79a8,SJ Coyte,a5f488bc,B Cooper,ac0edb42,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,West Indies,12,B Cooper,ac0edb42,SJ Coyte,a5f488bc,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,0,0,0
+754801,2014/15,West Indies,13,SR Taylor,92cf79a8,KM Beams,fa8f9dc3,B Cooper,ac0edb42,0,0,0,0,0,,,,,,0,0,0
+754801,2014/15,West Indies,13,SR Taylor,92cf79a8,KM Beams,fa8f9dc3,B Cooper,ac0edb42,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,West Indies,13,B Cooper,ac0edb42,KM Beams,fa8f9dc3,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,West Indies,13,SR Taylor,92cf79a8,KM Beams,fa8f9dc3,B Cooper,ac0edb42,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,West Indies,13,B Cooper,ac0edb42,KM Beams,fa8f9dc3,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,West Indies,13,SR Taylor,92cf79a8,KM Beams,fa8f9dc3,B Cooper,ac0edb42,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,West Indies,14,SR Taylor,92cf79a8,EA Osborne,fe731c62,B Cooper,ac0edb42,0,0,0,0,0,,,,,,2,0,2
+754801,2014/15,West Indies,14,SR Taylor,92cf79a8,EA Osborne,fe731c62,B Cooper,ac0edb42,1,0,0,0,0,,,,,,0,1,1
+754801,2014/15,West Indies,14,SR Taylor,92cf79a8,EA Osborne,fe731c62,B Cooper,ac0edb42,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,West Indies,14,B Cooper,ac0edb42,EA Osborne,fe731c62,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,0,0,0
+754801,2014/15,West Indies,14,B Cooper,ac0edb42,EA Osborne,fe731c62,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,West Indies,14,SR Taylor,92cf79a8,EA Osborne,fe731c62,B Cooper,ac0edb42,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,West Indies,14,B Cooper,ac0edb42,EA Osborne,fe731c62,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,West Indies,15,B Cooper,ac0edb42,JL Jonassen,0475a86b,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,0,0,0
+754801,2014/15,West Indies,15,B Cooper,ac0edb42,JL Jonassen,0475a86b,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,West Indies,15,SR Taylor,92cf79a8,JL Jonassen,0475a86b,B Cooper,ac0edb42,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,West Indies,15,B Cooper,ac0edb42,JL Jonassen,0475a86b,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,4,0,4
+754801,2014/15,West Indies,15,B Cooper,ac0edb42,JL Jonassen,0475a86b,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,4,0,4
+754801,2014/15,West Indies,15,B Cooper,ac0edb42,JL Jonassen,0475a86b,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,West Indies,16,B Cooper,ac0edb42,SJ Coyte,a5f488bc,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,West Indies,16,SR Taylor,92cf79a8,SJ Coyte,a5f488bc,B Cooper,ac0edb42,0,0,0,0,0,,,,,,0,0,0
+754801,2014/15,West Indies,16,SR Taylor,92cf79a8,SJ Coyte,a5f488bc,B Cooper,ac0edb42,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,West Indies,16,B Cooper,ac0edb42,SJ Coyte,a5f488bc,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,West Indies,16,SR Taylor,92cf79a8,SJ Coyte,a5f488bc,B Cooper,ac0edb42,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,West Indies,16,B Cooper,ac0edb42,SJ Coyte,a5f488bc,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,West Indies,17,B Cooper,ac0edb42,KM Beams,fa8f9dc3,SR Taylor,92cf79a8,0,0,0,0,1,B Cooper,ac0edb42,AJ Healy,321644de,stumped,0,0,0
+754801,2014/15,West Indies,17,SF Daley,1f7825dd,KM Beams,fa8f9dc3,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,West Indies,17,SR Taylor,92cf79a8,KM Beams,fa8f9dc3,SF Daley,1f7825dd,0,0,0,0,0,,,,,,2,0,2
+754801,2014/15,West Indies,17,SR Taylor,92cf79a8,KM Beams,fa8f9dc3,SF Daley,1f7825dd,0,0,0,0,0,,,,,,0,0,0
+754801,2014/15,West Indies,17,SR Taylor,92cf79a8,KM Beams,fa8f9dc3,SF Daley,1f7825dd,0,0,0,0,1,SR Taylor,92cf79a8,JE Cameron,5ebc3941,caught,0,0,0
+754801,2014/15,West Indies,17,MR Aguilleira,4e7aa570,KM Beams,fa8f9dc3,SF Daley,1f7825dd,0,0,0,0,0,,,,,,0,0,0
+754801,2014/15,West Indies,18,SF Daley,1f7825dd,SJ Coyte,a5f488bc,MR Aguilleira,4e7aa570,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,West Indies,18,MR Aguilleira,4e7aa570,SJ Coyte,a5f488bc,SF Daley,1f7825dd,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,West Indies,18,SF Daley,1f7825dd,SJ Coyte,a5f488bc,MR Aguilleira,4e7aa570,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,West Indies,18,MR Aguilleira,4e7aa570,SJ Coyte,a5f488bc,SF Daley,1f7825dd,0,0,0,0,1,MR Aguilleira,4e7aa570,JE Cameron,5ebc3941,caught,0,0,0
+754801,2014/15,West Indies,18,SF Daley,1f7825dd,SJ Coyte,a5f488bc,SL Quintyne,3308d881,0,0,0,0,0,,,,,,0,0,0
+754801,2014/15,West Indies,18,SF Daley,1f7825dd,SJ Coyte,a5f488bc,SL Quintyne,3308d881,0,0,0,4,0,,,,,,0,4,4
+754801,2014/15,West Indies,19,SL Quintyne,3308d881,RM Farrell,4ed7d23f,SF Daley,1f7825dd,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,West Indies,19,SF Daley,1f7825dd,RM Farrell,4ed7d23f,SL Quintyne,3308d881,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,West Indies,19,SL Quintyne,3308d881,RM Farrell,4ed7d23f,SF Daley,1f7825dd,0,0,0,0,0,,,,,,0,0,0
+754801,2014/15,West Indies,19,SL Quintyne,3308d881,RM Farrell,4ed7d23f,SF Daley,1f7825dd,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,West Indies,19,SF Daley,1f7825dd,RM Farrell,4ed7d23f,SL Quintyne,3308d881,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,West Indies,19,SL Quintyne,3308d881,RM Farrell,4ed7d23f,SF Daley,1f7825dd,0,0,0,0,1,SL Quintyne,3308d881,JE Cameron,5ebc3941,run out,1,0,1
+754801,2014/15,Australia,0,EJ Villani,cde96d97,SF Daley,1f7825dd,JL Jonassen,0475a86b,0,0,0,0,0,,,,,,0,0,0
+754801,2014/15,Australia,0,EJ Villani,cde96d97,SF Daley,1f7825dd,JL Jonassen,0475a86b,0,0,0,0,0,,,,,,0,0,0
+754801,2014/15,Australia,0,EJ Villani,cde96d97,SF Daley,1f7825dd,JL Jonassen,0475a86b,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,Australia,0,JL Jonassen,0475a86b,SF Daley,1f7825dd,EJ Villani,cde96d97,0,0,0,0,0,,,,,,0,0,0
+754801,2014/15,Australia,0,JL Jonassen,0475a86b,SF Daley,1f7825dd,EJ Villani,cde96d97,0,0,0,0,0,,,,,,2,0,2
+754801,2014/15,Australia,0,JL Jonassen,0475a86b,SF Daley,1f7825dd,EJ Villani,cde96d97,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,Australia,1,JL Jonassen,0475a86b,TD Smartt,cc3884f9,EJ Villani,cde96d97,0,0,0,0,0,,,,,,4,0,4
+754801,2014/15,Australia,1,JL Jonassen,0475a86b,TD Smartt,cc3884f9,EJ Villani,cde96d97,0,0,0,0,0,,,,,,0,0,0
+754801,2014/15,Australia,1,JL Jonassen,0475a86b,TD Smartt,cc3884f9,EJ Villani,cde96d97,0,0,0,0,0,,,,,,0,0,0
+754801,2014/15,Australia,1,JL Jonassen,0475a86b,TD Smartt,cc3884f9,EJ Villani,cde96d97,0,0,0,0,0,,,,,,0,0,0
+754801,2014/15,Australia,1,JL Jonassen,0475a86b,TD Smartt,cc3884f9,EJ Villani,cde96d97,0,0,0,0,0,,,,,,4,0,4
+754801,2014/15,Australia,1,JL Jonassen,0475a86b,TD Smartt,cc3884f9,EJ Villani,cde96d97,0,0,0,0,0,,,,,,0,0,0
+754801,2014/15,Australia,2,EJ Villani,cde96d97,SF Daley,1f7825dd,JL Jonassen,0475a86b,0,0,0,0,0,,,,,,4,0,4
+754801,2014/15,Australia,2,EJ Villani,cde96d97,SF Daley,1f7825dd,JL Jonassen,0475a86b,0,0,0,0,0,,,,,,0,0,0
+754801,2014/15,Australia,2,EJ Villani,cde96d97,SF Daley,1f7825dd,JL Jonassen,0475a86b,0,0,0,0,0,,,,,,4,0,4
+754801,2014/15,Australia,2,EJ Villani,cde96d97,SF Daley,1f7825dd,JL Jonassen,0475a86b,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,Australia,2,JL Jonassen,0475a86b,SF Daley,1f7825dd,EJ Villani,cde96d97,0,0,0,0,0,,,,,,0,0,0
+754801,2014/15,Australia,2,JL Jonassen,0475a86b,SF Daley,1f7825dd,EJ Villani,cde96d97,0,0,0,0,0,,,,,,0,0,0
+754801,2014/15,Australia,3,EJ Villani,cde96d97,SC Selman,c29ada99,JL Jonassen,0475a86b,0,0,0,0,0,,,,,,4,0,4
+754801,2014/15,Australia,3,EJ Villani,cde96d97,SC Selman,c29ada99,JL Jonassen,0475a86b,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,Australia,3,JL Jonassen,0475a86b,SC Selman,c29ada99,EJ Villani,cde96d97,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,Australia,3,EJ Villani,cde96d97,SC Selman,c29ada99,JL Jonassen,0475a86b,0,0,0,0,0,,,,,,0,0,0
+754801,2014/15,Australia,3,EJ Villani,cde96d97,SC Selman,c29ada99,JL Jonassen,0475a86b,0,0,0,0,0,,,,,,0,0,0
+754801,2014/15,Australia,3,EJ Villani,cde96d97,SC Selman,c29ada99,JL Jonassen,0475a86b,0,0,0,0,0,,,,,,0,0,0
+754801,2014/15,Australia,4,JL Jonassen,0475a86b,A Mohammed,a49985e6,EJ Villani,cde96d97,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,Australia,4,EJ Villani,cde96d97,A Mohammed,a49985e6,JL Jonassen,0475a86b,0,0,0,0,0,,,,,,0,0,0
+754801,2014/15,Australia,4,EJ Villani,cde96d97,A Mohammed,a49985e6,JL Jonassen,0475a86b,0,0,0,0,0,,,,,,4,0,4
+754801,2014/15,Australia,4,EJ Villani,cde96d97,A Mohammed,a49985e6,JL Jonassen,0475a86b,0,0,0,0,1,EJ Villani,cde96d97,SL Quintyne,3308d881,caught,0,0,0
+754801,2014/15,Australia,4,MM Lanning,27e003ce,A Mohammed,a49985e6,JL Jonassen,0475a86b,0,0,0,0,0,,,,,,0,0,0
+754801,2014/15,Australia,4,MM Lanning,27e003ce,A Mohammed,a49985e6,JL Jonassen,0475a86b,0,0,0,0,0,,,,,,0,0,0
+754801,2014/15,Australia,5,JL Jonassen,0475a86b,SC Selman,c29ada99,MM Lanning,27e003ce,0,0,0,0,0,,,,,,4,0,4
+754801,2014/15,Australia,5,JL Jonassen,0475a86b,SC Selman,c29ada99,MM Lanning,27e003ce,0,0,0,0,0,,,,,,0,0,0
+754801,2014/15,Australia,5,JL Jonassen,0475a86b,SC Selman,c29ada99,MM Lanning,27e003ce,0,0,0,0,0,,,,,,0,0,0
+754801,2014/15,Australia,5,JL Jonassen,0475a86b,SC Selman,c29ada99,MM Lanning,27e003ce,0,0,0,0,0,,,,,,0,0,0
+754801,2014/15,Australia,5,JL Jonassen,0475a86b,SC Selman,c29ada99,MM Lanning,27e003ce,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,Australia,5,MM Lanning,27e003ce,SC Selman,c29ada99,JL Jonassen,0475a86b,0,0,0,0,0,,,,,,0,0,0
+754801,2014/15,Australia,6,JL Jonassen,0475a86b,A Mohammed,a49985e6,MM Lanning,27e003ce,0,0,0,0,0,,,,,,0,0,0
+754801,2014/15,Australia,6,JL Jonassen,0475a86b,A Mohammed,a49985e6,MM Lanning,27e003ce,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,Australia,6,MM Lanning,27e003ce,A Mohammed,a49985e6,JL Jonassen,0475a86b,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,Australia,6,JL Jonassen,0475a86b,A Mohammed,a49985e6,MM Lanning,27e003ce,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,Australia,6,MM Lanning,27e003ce,A Mohammed,a49985e6,JL Jonassen,0475a86b,0,0,0,0,0,,,,,,4,0,4
+754801,2014/15,Australia,6,MM Lanning,27e003ce,A Mohammed,a49985e6,JL Jonassen,0475a86b,0,0,0,0,0,,,,,,4,0,4
+754801,2014/15,Australia,7,JL Jonassen,0475a86b,SL Quintyne,3308d881,MM Lanning,27e003ce,0,0,0,0,0,,,,,,4,0,4
+754801,2014/15,Australia,7,JL Jonassen,0475a86b,SL Quintyne,3308d881,MM Lanning,27e003ce,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,Australia,7,MM Lanning,27e003ce,SL Quintyne,3308d881,JL Jonassen,0475a86b,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,Australia,7,JL Jonassen,0475a86b,SL Quintyne,3308d881,MM Lanning,27e003ce,0,0,0,0,0,,,,,,0,0,0
+754801,2014/15,Australia,7,JL Jonassen,0475a86b,SL Quintyne,3308d881,MM Lanning,27e003ce,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,Australia,7,MM Lanning,27e003ce,SL Quintyne,3308d881,JL Jonassen,0475a86b,0,0,0,0,0,,,,,,2,0,2
+754801,2014/15,Australia,8,JL Jonassen,0475a86b,DJS Dottin,53bee17f,MM Lanning,27e003ce,0,0,1,0,0,,,,,,0,1,1
+754801,2014/15,Australia,8,MM Lanning,27e003ce,DJS Dottin,53bee17f,JL Jonassen,0475a86b,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,Australia,8,JL Jonassen,0475a86b,DJS Dottin,53bee17f,MM Lanning,27e003ce,0,0,0,0,0,,,,,,4,0,4
+754801,2014/15,Australia,8,JL Jonassen,0475a86b,DJS Dottin,53bee17f,MM Lanning,27e003ce,0,0,0,0,0,,,,,,0,0,0
+754801,2014/15,Australia,8,JL Jonassen,0475a86b,DJS Dottin,53bee17f,MM Lanning,27e003ce,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,Australia,8,MM Lanning,27e003ce,DJS Dottin,53bee17f,JL Jonassen,0475a86b,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,Australia,9,MM Lanning,27e003ce,SL Quintyne,3308d881,JL Jonassen,0475a86b,0,0,0,0,0,,,,,,0,0,0
+754801,2014/15,Australia,9,MM Lanning,27e003ce,SL Quintyne,3308d881,JL Jonassen,0475a86b,0,0,0,0,0,,,,,,0,0,0
+754801,2014/15,Australia,9,MM Lanning,27e003ce,SL Quintyne,3308d881,JL Jonassen,0475a86b,0,0,0,0,0,,,,,,0,0,0
+754801,2014/15,Australia,9,MM Lanning,27e003ce,SL Quintyne,3308d881,JL Jonassen,0475a86b,0,0,0,0,0,,,,,,0,0,0
+754801,2014/15,Australia,9,MM Lanning,27e003ce,SL Quintyne,3308d881,JL Jonassen,0475a86b,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,Australia,9,JL Jonassen,0475a86b,SL Quintyne,3308d881,MM Lanning,27e003ce,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,Australia,10,JL Jonassen,0475a86b,DJS Dottin,53bee17f,MM Lanning,27e003ce,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,Australia,10,MM Lanning,27e003ce,DJS Dottin,53bee17f,JL Jonassen,0475a86b,0,0,0,0,0,,,,,,2,0,2
+754801,2014/15,Australia,10,MM Lanning,27e003ce,DJS Dottin,53bee17f,JL Jonassen,0475a86b,0,0,0,0,0,,,,,,4,0,4
+754801,2014/15,Australia,10,MM Lanning,27e003ce,DJS Dottin,53bee17f,JL Jonassen,0475a86b,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,Australia,10,JL Jonassen,0475a86b,DJS Dottin,53bee17f,MM Lanning,27e003ce,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,Australia,10,MM Lanning,27e003ce,DJS Dottin,53bee17f,JL Jonassen,0475a86b,0,0,0,0,0,,,,,,0,0,0
+754801,2014/15,Australia,11,JL Jonassen,0475a86b,SL Quintyne,3308d881,MM Lanning,27e003ce,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,Australia,11,MM Lanning,27e003ce,SL Quintyne,3308d881,JL Jonassen,0475a86b,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,Australia,11,JL Jonassen,0475a86b,SL Quintyne,3308d881,MM Lanning,27e003ce,0,0,0,0,0,,,,,,0,0,0
+754801,2014/15,Australia,11,JL Jonassen,0475a86b,SL Quintyne,3308d881,MM Lanning,27e003ce,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,Australia,11,MM Lanning,27e003ce,SL Quintyne,3308d881,JL Jonassen,0475a86b,0,0,0,0,0,,,,,,0,0,0
+754801,2014/15,Australia,11,MM Lanning,27e003ce,SL Quintyne,3308d881,JL Jonassen,0475a86b,0,0,0,0,0,,,,,,0,0,0
+754801,2014/15,Australia,12,JL Jonassen,0475a86b,HK Matthews,d32cf49a,MM Lanning,27e003ce,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,Australia,12,MM Lanning,27e003ce,HK Matthews,d32cf49a,JL Jonassen,0475a86b,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,Australia,12,JL Jonassen,0475a86b,HK Matthews,d32cf49a,MM Lanning,27e003ce,0,0,0,0,0,,,,,,0,0,0
+754801,2014/15,Australia,12,JL Jonassen,0475a86b,HK Matthews,d32cf49a,MM Lanning,27e003ce,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,Australia,12,MM Lanning,27e003ce,HK Matthews,d32cf49a,JL Jonassen,0475a86b,0,0,0,0,1,MM Lanning,27e003ce,SC Selman,c29ada99,caught,0,0,0
+754801,2014/15,Australia,12,JL Jonassen,0475a86b,HK Matthews,d32cf49a,JE Cameron,5ebc3941,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,Australia,13,JL Jonassen,0475a86b,SL Quintyne,3308d881,JE Cameron,5ebc3941,0,0,0,0,0,,,,,,0,0,0
+754801,2014/15,Australia,13,JL Jonassen,0475a86b,SL Quintyne,3308d881,JE Cameron,5ebc3941,0,0,0,0,0,,,,,,0,0,0
+754801,2014/15,Australia,13,JL Jonassen,0475a86b,SL Quintyne,3308d881,JE Cameron,5ebc3941,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,Australia,13,JE Cameron,5ebc3941,SL Quintyne,3308d881,JL Jonassen,0475a86b,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,Australia,13,JL Jonassen,0475a86b,SL Quintyne,3308d881,JE Cameron,5ebc3941,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,Australia,13,JE Cameron,5ebc3941,SL Quintyne,3308d881,JL Jonassen,0475a86b,0,0,0,0,0,,,,,,0,0,0
+754801,2014/15,Australia,14,JL Jonassen,0475a86b,HK Matthews,d32cf49a,JE Cameron,5ebc3941,0,0,0,0,0,,,,,,0,0,0
+754801,2014/15,Australia,14,JL Jonassen,0475a86b,HK Matthews,d32cf49a,JE Cameron,5ebc3941,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,Australia,14,JE Cameron,5ebc3941,HK Matthews,d32cf49a,JL Jonassen,0475a86b,0,0,0,0,0,,,,,,0,0,0
+754801,2014/15,Australia,14,JE Cameron,5ebc3941,HK Matthews,d32cf49a,JL Jonassen,0475a86b,0,0,0,0,1,JE Cameron,5ebc3941,SC Selman,c29ada99,caught,0,0,0
+754801,2014/15,Australia,14,JL Jonassen,0475a86b,HK Matthews,d32cf49a,EA Perry,be150fc8,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,Australia,14,EA Perry,be150fc8,HK Matthews,d32cf49a,JL Jonassen,0475a86b,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,Australia,15,EA Perry,be150fc8,A Mohammed,a49985e6,JL Jonassen,0475a86b,0,0,0,0,0,,,,,,0,0,0
+754801,2014/15,Australia,15,EA Perry,be150fc8,A Mohammed,a49985e6,JL Jonassen,0475a86b,0,0,0,0,0,,,,,,2,0,2
+754801,2014/15,Australia,15,EA Perry,be150fc8,A Mohammed,a49985e6,JL Jonassen,0475a86b,0,0,0,0,1,EA Perry,be150fc8,,,caught and bowled,0,0,0
+754801,2014/15,Australia,15,AJ Blackwell,b9164a9b,A Mohammed,a49985e6,JL Jonassen,0475a86b,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,Australia,15,JL Jonassen,0475a86b,A Mohammed,a49985e6,AJ Blackwell,b9164a9b,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,Australia,15,AJ Blackwell,b9164a9b,A Mohammed,a49985e6,JL Jonassen,0475a86b,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,Australia,16,AJ Blackwell,b9164a9b,HK Matthews,d32cf49a,JL Jonassen,0475a86b,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,Australia,16,JL Jonassen,0475a86b,HK Matthews,d32cf49a,AJ Blackwell,b9164a9b,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,Australia,16,AJ Blackwell,b9164a9b,HK Matthews,d32cf49a,JL Jonassen,0475a86b,0,0,0,0,0,,,,,,4,0,4
+754801,2014/15,Australia,16,AJ Blackwell,b9164a9b,HK Matthews,d32cf49a,JL Jonassen,0475a86b,0,0,0,0,0,,,,,,4,0,4
+754801,2014/15,Australia,16,AJ Blackwell,b9164a9b,HK Matthews,d32cf49a,JL Jonassen,0475a86b,0,0,0,0,1,AJ Blackwell,b9164a9b,SL Quintyne,3308d881,caught,0,0,0
+754801,2014/15,Australia,16,AJ Healy,321644de,HK Matthews,d32cf49a,JL Jonassen,0475a86b,0,0,0,0,0,,,,,,0,0,0
+754801,2014/15,Australia,17,JL Jonassen,0475a86b,A Mohammed,a49985e6,AJ Healy,321644de,0,0,0,0,0,,,,,,0,0,0
+754801,2014/15,Australia,17,JL Jonassen,0475a86b,A Mohammed,a49985e6,AJ Healy,321644de,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,Australia,17,AJ Healy,321644de,A Mohammed,a49985e6,JL Jonassen,0475a86b,0,0,0,0,0,,,,,,2,0,2
+754801,2014/15,Australia,17,AJ Healy,321644de,A Mohammed,a49985e6,JL Jonassen,0475a86b,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,Australia,17,JL Jonassen,0475a86b,A Mohammed,a49985e6,AJ Healy,321644de,0,0,0,0,1,JL Jonassen,0475a86b,SC Selman,c29ada99,caught,0,0,0
+754801,2014/15,Australia,17,AJ Healy,321644de,A Mohammed,a49985e6,EA Osborne,fe731c62,0,0,0,0,0,,,,,,0,0,0
+754801,2014/15,Australia,18,EA Osborne,fe731c62,HK Matthews,d32cf49a,AJ Healy,321644de,0,0,0,0,0,,,,,,0,0,0
+754801,2014/15,Australia,18,EA Osborne,fe731c62,HK Matthews,d32cf49a,AJ Healy,321644de,0,0,0,0,0,,,,,,1,0,1
+754801,2014/15,Australia,18,AJ Healy,321644de,HK Matthews,d32cf49a,EA Osborne,fe731c62,0,0,0,0,0,,,,,,0,0,0
+754801,2014/15,Australia,18,AJ Healy,321644de,HK Matthews,d32cf49a,EA Osborne,fe731c62,0,0,0,0,0,,,,,,4,0,4
+754801,2014/15,Australia,18,AJ Healy,321644de,HK Matthews,d32cf49a,EA Osborne,fe731c62,0,0,0,0,0,,,,,,4,0,4

@@ -1,0 +1,243 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+875485,2015,Afghanistan,0,Mohammad Shahzad,d6dcb0c9,MA Leask,28131839,Nawroz Mangal,0503ae22,0,0,0,0,0,,,,,,0,0,0
+875485,2015,Afghanistan,0,Mohammad Shahzad,d6dcb0c9,MA Leask,28131839,Nawroz Mangal,0503ae22,0,0,0,0,0,,,,,,0,0,0
+875485,2015,Afghanistan,0,Mohammad Shahzad,d6dcb0c9,MA Leask,28131839,Nawroz Mangal,0503ae22,1,0,0,0,0,,,,,,0,1,1
+875485,2015,Afghanistan,0,Mohammad Shahzad,d6dcb0c9,MA Leask,28131839,Nawroz Mangal,0503ae22,0,0,0,0,0,,,,,,1,0,1
+875485,2015,Afghanistan,0,Nawroz Mangal,0503ae22,MA Leask,28131839,Mohammad Shahzad,d6dcb0c9,0,0,0,0,1,Nawroz Mangal,0503ae22,,,lbw,0,0,0
+875485,2015,Afghanistan,0,Asghar Stanikzai,88679525,MA Leask,28131839,Mohammad Shahzad,d6dcb0c9,0,0,0,0,0,,,,,,0,0,0
+875485,2015,Afghanistan,0,Asghar Stanikzai,88679525,MA Leask,28131839,Mohammad Shahzad,d6dcb0c9,0,0,0,0,0,,,,,,0,0,0
+875485,2015,Afghanistan,1,Mohammad Shahzad,d6dcb0c9,AC Evans,e9a870ed,Asghar Stanikzai,88679525,0,0,0,0,0,,,,,,4,0,4
+875485,2015,Afghanistan,1,Mohammad Shahzad,d6dcb0c9,AC Evans,e9a870ed,Asghar Stanikzai,88679525,0,0,0,0,0,,,,,,0,0,0
+875485,2015,Afghanistan,1,Mohammad Shahzad,d6dcb0c9,AC Evans,e9a870ed,Asghar Stanikzai,88679525,0,0,0,0,0,,,,,,0,0,0
+875485,2015,Afghanistan,1,Mohammad Shahzad,d6dcb0c9,AC Evans,e9a870ed,Asghar Stanikzai,88679525,0,0,0,0,0,,,,,,0,0,0
+875485,2015,Afghanistan,1,Mohammad Shahzad,d6dcb0c9,AC Evans,e9a870ed,Asghar Stanikzai,88679525,0,0,0,0,0,,,,,,0,0,0
+875485,2015,Afghanistan,1,Mohammad Shahzad,d6dcb0c9,AC Evans,e9a870ed,Asghar Stanikzai,88679525,0,0,0,0,0,,,,,,1,0,1
+875485,2015,Afghanistan,2,Mohammad Shahzad,d6dcb0c9,MRJ Watt,1252f71a,Asghar Stanikzai,88679525,0,0,0,0,0,,,,,,0,0,0
+875485,2015,Afghanistan,2,Mohammad Shahzad,d6dcb0c9,MRJ Watt,1252f71a,Asghar Stanikzai,88679525,0,0,0,0,0,,,,,,6,0,6
+875485,2015,Afghanistan,2,Mohammad Shahzad,d6dcb0c9,MRJ Watt,1252f71a,Asghar Stanikzai,88679525,0,0,0,0,0,,,,,,6,0,6
+875485,2015,Afghanistan,2,Mohammad Shahzad,d6dcb0c9,MRJ Watt,1252f71a,Asghar Stanikzai,88679525,0,0,0,0,0,,,,,,0,0,0
+875485,2015,Afghanistan,2,Mohammad Shahzad,d6dcb0c9,MRJ Watt,1252f71a,Asghar Stanikzai,88679525,0,0,0,0,0,,,,,,6,0,6
+875485,2015,Afghanistan,2,Mohammad Shahzad,d6dcb0c9,MRJ Watt,1252f71a,Asghar Stanikzai,88679525,0,0,0,0,0,,,,,,6,0,6
+875485,2015,Afghanistan,3,Asghar Stanikzai,88679525,AC Evans,e9a870ed,Mohammad Shahzad,d6dcb0c9,0,0,0,0,0,,,,,,0,0,0
+875485,2015,Afghanistan,3,Asghar Stanikzai,88679525,AC Evans,e9a870ed,Mohammad Shahzad,d6dcb0c9,0,0,0,0,0,,,,,,4,0,4
+875485,2015,Afghanistan,3,Asghar Stanikzai,88679525,AC Evans,e9a870ed,Mohammad Shahzad,d6dcb0c9,0,0,0,0,0,,,,,,0,0,0
+875485,2015,Afghanistan,3,Asghar Stanikzai,88679525,AC Evans,e9a870ed,Mohammad Shahzad,d6dcb0c9,0,0,0,0,0,,,,,,0,0,0
+875485,2015,Afghanistan,3,Asghar Stanikzai,88679525,AC Evans,e9a870ed,Mohammad Shahzad,d6dcb0c9,0,0,0,0,0,,,,,,4,0,4
+875485,2015,Afghanistan,3,Asghar Stanikzai,88679525,AC Evans,e9a870ed,Mohammad Shahzad,d6dcb0c9,0,0,0,0,0,,,,,,0,0,0
+875485,2015,Afghanistan,4,Mohammad Shahzad,d6dcb0c9,SM Sharif,f43dd8c2,Asghar Stanikzai,88679525,0,0,0,0,0,,,,,,1,0,1
+875485,2015,Afghanistan,4,Asghar Stanikzai,88679525,SM Sharif,f43dd8c2,Mohammad Shahzad,d6dcb0c9,0,0,0,0,0,,,,,,2,0,2
+875485,2015,Afghanistan,4,Asghar Stanikzai,88679525,SM Sharif,f43dd8c2,Mohammad Shahzad,d6dcb0c9,0,0,0,0,0,,,,,,2,0,2
+875485,2015,Afghanistan,4,Asghar Stanikzai,88679525,SM Sharif,f43dd8c2,Mohammad Shahzad,d6dcb0c9,0,0,0,0,0,,,,,,1,0,1
+875485,2015,Afghanistan,4,Mohammad Shahzad,d6dcb0c9,SM Sharif,f43dd8c2,Asghar Stanikzai,88679525,0,0,0,0,0,,,,,,6,0,6
+875485,2015,Afghanistan,4,Mohammad Shahzad,d6dcb0c9,SM Sharif,f43dd8c2,Asghar Stanikzai,88679525,0,0,0,0,0,,,,,,2,0,2
+875485,2015,Afghanistan,5,Asghar Stanikzai,88679525,AC Evans,e9a870ed,Mohammad Shahzad,d6dcb0c9,0,0,0,0,0,,,,,,1,0,1
+875485,2015,Afghanistan,5,Mohammad Shahzad,d6dcb0c9,AC Evans,e9a870ed,Asghar Stanikzai,88679525,0,0,0,0,0,,,,,,4,0,4
+875485,2015,Afghanistan,5,Mohammad Shahzad,d6dcb0c9,AC Evans,e9a870ed,Asghar Stanikzai,88679525,0,0,0,0,0,,,,,,0,0,0
+875485,2015,Afghanistan,5,Mohammad Shahzad,d6dcb0c9,AC Evans,e9a870ed,Asghar Stanikzai,88679525,0,0,0,0,0,,,,,,2,0,2
+875485,2015,Afghanistan,5,Mohammad Shahzad,d6dcb0c9,AC Evans,e9a870ed,Asghar Stanikzai,88679525,0,0,0,0,0,,,,,,4,0,4
+875485,2015,Afghanistan,5,Mohammad Shahzad,d6dcb0c9,AC Evans,e9a870ed,Asghar Stanikzai,88679525,0,0,0,0,0,,,,,,0,0,0
+875485,2015,Afghanistan,6,Asghar Stanikzai,88679525,MA Leask,28131839,Mohammad Shahzad,d6dcb0c9,0,0,0,0,0,,,,,,1,0,1
+875485,2015,Afghanistan,6,Mohammad Shahzad,d6dcb0c9,MA Leask,28131839,Asghar Stanikzai,88679525,0,0,0,0,0,,,,,,0,0,0
+875485,2015,Afghanistan,6,Mohammad Shahzad,d6dcb0c9,MA Leask,28131839,Asghar Stanikzai,88679525,0,0,1,0,0,,,,,,0,1,1
+875485,2015,Afghanistan,6,Asghar Stanikzai,88679525,MA Leask,28131839,Mohammad Shahzad,d6dcb0c9,0,0,0,0,0,,,,,,1,0,1
+875485,2015,Afghanistan,6,Mohammad Shahzad,d6dcb0c9,MA Leask,28131839,Asghar Stanikzai,88679525,0,0,0,0,0,,,,,,1,0,1
+875485,2015,Afghanistan,6,Asghar Stanikzai,88679525,MA Leask,28131839,Mohammad Shahzad,d6dcb0c9,0,0,0,0,0,,,,,,1,0,1
+875485,2015,Afghanistan,7,Asghar Stanikzai,88679525,CD de Lange,e6d298e8,Mohammad Shahzad,d6dcb0c9,1,0,0,0,0,,,,,,0,1,1
+875485,2015,Afghanistan,7,Asghar Stanikzai,88679525,CD de Lange,e6d298e8,Mohammad Shahzad,d6dcb0c9,0,0,0,0,0,,,,,,0,0,0
+875485,2015,Afghanistan,7,Asghar Stanikzai,88679525,CD de Lange,e6d298e8,Mohammad Shahzad,d6dcb0c9,0,0,0,0,0,,,,,,1,0,1
+875485,2015,Afghanistan,7,Mohammad Shahzad,d6dcb0c9,CD de Lange,e6d298e8,Asghar Stanikzai,88679525,0,0,0,0,0,,,,,,6,0,6
+875485,2015,Afghanistan,7,Mohammad Shahzad,d6dcb0c9,CD de Lange,e6d298e8,Asghar Stanikzai,88679525,0,0,0,0,0,,,,,,1,0,1
+875485,2015,Afghanistan,7,Asghar Stanikzai,88679525,CD de Lange,e6d298e8,Mohammad Shahzad,d6dcb0c9,0,0,0,0,0,,,,,,0,0,0
+875485,2015,Afghanistan,7,Asghar Stanikzai,88679525,CD de Lange,e6d298e8,Mohammad Shahzad,d6dcb0c9,0,0,0,0,0,,,,,,6,0,6
+875485,2015,Afghanistan,8,Mohammad Shahzad,d6dcb0c9,MRJ Watt,1252f71a,Asghar Stanikzai,88679525,0,0,0,0,0,,,,,,6,0,6
+875485,2015,Afghanistan,8,Mohammad Shahzad,d6dcb0c9,MRJ Watt,1252f71a,Asghar Stanikzai,88679525,0,0,0,0,0,,,,,,4,0,4
+875485,2015,Afghanistan,8,Mohammad Shahzad,d6dcb0c9,MRJ Watt,1252f71a,Asghar Stanikzai,88679525,0,0,0,0,0,,,,,,1,0,1
+875485,2015,Afghanistan,8,Asghar Stanikzai,88679525,MRJ Watt,1252f71a,Mohammad Shahzad,d6dcb0c9,0,0,0,0,0,,,,,,1,0,1
+875485,2015,Afghanistan,8,Mohammad Shahzad,d6dcb0c9,MRJ Watt,1252f71a,Asghar Stanikzai,88679525,0,0,0,0,0,,,,,,4,0,4
+875485,2015,Afghanistan,8,Mohammad Shahzad,d6dcb0c9,MRJ Watt,1252f71a,Asghar Stanikzai,88679525,0,0,0,0,0,,,,,,1,0,1
+875485,2015,Afghanistan,9,Mohammad Shahzad,d6dcb0c9,SM Sharif,f43dd8c2,Asghar Stanikzai,88679525,0,0,0,0,0,,,,,,1,0,1
+875485,2015,Afghanistan,9,Asghar Stanikzai,88679525,SM Sharif,f43dd8c2,Mohammad Shahzad,d6dcb0c9,0,0,0,0,0,,,,,,4,0,4
+875485,2015,Afghanistan,9,Asghar Stanikzai,88679525,SM Sharif,f43dd8c2,Mohammad Shahzad,d6dcb0c9,0,0,0,0,0,,,,,,0,0,0
+875485,2015,Afghanistan,9,Asghar Stanikzai,88679525,SM Sharif,f43dd8c2,Mohammad Shahzad,d6dcb0c9,0,0,0,0,0,,,,,,0,0,0
+875485,2015,Afghanistan,9,Asghar Stanikzai,88679525,SM Sharif,f43dd8c2,Mohammad Shahzad,d6dcb0c9,0,0,0,0,0,,,,,,0,0,0
+875485,2015,Afghanistan,9,Asghar Stanikzai,88679525,SM Sharif,f43dd8c2,Mohammad Shahzad,d6dcb0c9,0,0,0,0,0,,,,,,1,0,1
+875485,2015,Afghanistan,10,Asghar Stanikzai,88679525,RD Berrington,e21bc7f3,Mohammad Shahzad,d6dcb0c9,0,0,0,0,0,,,,,,0,0,0
+875485,2015,Afghanistan,10,Asghar Stanikzai,88679525,RD Berrington,e21bc7f3,Mohammad Shahzad,d6dcb0c9,1,0,0,0,0,,,,,,0,1,1
+875485,2015,Afghanistan,10,Asghar Stanikzai,88679525,RD Berrington,e21bc7f3,Mohammad Shahzad,d6dcb0c9,0,0,0,0,0,,,,,,1,0,1
+875485,2015,Afghanistan,10,Mohammad Shahzad,d6dcb0c9,RD Berrington,e21bc7f3,Asghar Stanikzai,88679525,0,0,0,0,0,,,,,,1,0,1
+875485,2015,Afghanistan,10,Asghar Stanikzai,88679525,RD Berrington,e21bc7f3,Mohammad Shahzad,d6dcb0c9,0,0,0,0,0,,,,,,0,0,0
+875485,2015,Afghanistan,10,Asghar Stanikzai,88679525,RD Berrington,e21bc7f3,Mohammad Shahzad,d6dcb0c9,0,0,0,0,0,,,,,,2,0,2
+875485,2015,Afghanistan,10,Asghar Stanikzai,88679525,RD Berrington,e21bc7f3,Mohammad Shahzad,d6dcb0c9,0,0,0,0,0,,,,,,0,0,0
+875485,2015,Afghanistan,11,Mohammad Shahzad,d6dcb0c9,CD de Lange,e6d298e8,Asghar Stanikzai,88679525,0,0,0,0,1,Mohammad Shahzad,d6dcb0c9,MA Leask,28131839,caught,0,0,0
+875485,2015,Afghanistan,11,Asghar Stanikzai,88679525,CD de Lange,e6d298e8,Samiullah Shenwari,61646132,0,0,0,0,0,,,,,,1,0,1
+875485,2015,Afghanistan,11,Samiullah Shenwari,61646132,CD de Lange,e6d298e8,Asghar Stanikzai,88679525,0,0,0,0,1,Asghar Stanikzai,88679525,KJ Coetzer,85d8110a,run out,0,0,0
+875485,2015,Afghanistan,11,Najibullah Zadran,1212cbec,CD de Lange,e6d298e8,Samiullah Shenwari,61646132,0,0,0,0,0,,,,,,0,0,0
+875485,2015,Afghanistan,11,Najibullah Zadran,1212cbec,CD de Lange,e6d298e8,Samiullah Shenwari,61646132,0,0,0,0,0,,,,,,1,0,1
+875485,2015,Afghanistan,11,Samiullah Shenwari,61646132,CD de Lange,e6d298e8,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,1,0,1
+875485,2015,Afghanistan,12,Samiullah Shenwari,61646132,MA Leask,28131839,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,0,0,0
+875485,2015,Afghanistan,12,Samiullah Shenwari,61646132,MA Leask,28131839,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,1,0,1
+875485,2015,Afghanistan,12,Najibullah Zadran,1212cbec,MA Leask,28131839,Samiullah Shenwari,61646132,0,0,0,0,0,,,,,,0,0,0
+875485,2015,Afghanistan,12,Najibullah Zadran,1212cbec,MA Leask,28131839,Samiullah Shenwari,61646132,0,0,0,0,0,,,,,,1,0,1
+875485,2015,Afghanistan,12,Samiullah Shenwari,61646132,MA Leask,28131839,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,1,0,1
+875485,2015,Afghanistan,12,Najibullah Zadran,1212cbec,MA Leask,28131839,Samiullah Shenwari,61646132,0,0,0,0,0,,,,,,1,0,1
+875485,2015,Afghanistan,13,Najibullah Zadran,1212cbec,CD de Lange,e6d298e8,Samiullah Shenwari,61646132,0,0,0,0,0,,,,,,1,0,1
+875485,2015,Afghanistan,13,Samiullah Shenwari,61646132,CD de Lange,e6d298e8,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,2,0,2
+875485,2015,Afghanistan,13,Samiullah Shenwari,61646132,CD de Lange,e6d298e8,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,1,0,1
+875485,2015,Afghanistan,13,Najibullah Zadran,1212cbec,CD de Lange,e6d298e8,Samiullah Shenwari,61646132,0,0,0,0,0,,,,,,0,0,0
+875485,2015,Afghanistan,13,Najibullah Zadran,1212cbec,CD de Lange,e6d298e8,Samiullah Shenwari,61646132,0,0,0,0,0,,,,,,1,0,1
+875485,2015,Afghanistan,13,Samiullah Shenwari,61646132,CD de Lange,e6d298e8,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,1,0,1
+875485,2015,Afghanistan,14,Samiullah Shenwari,61646132,MA Leask,28131839,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,6,0,6
+875485,2015,Afghanistan,14,Samiullah Shenwari,61646132,MA Leask,28131839,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,0,0,0
+875485,2015,Afghanistan,14,Samiullah Shenwari,61646132,MA Leask,28131839,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,6,0,6
+875485,2015,Afghanistan,14,Samiullah Shenwari,61646132,MA Leask,28131839,Najibullah Zadran,1212cbec,0,0,0,0,1,Samiullah Shenwari,61646132,AC Evans,e9a870ed,caught,0,0,0
+875485,2015,Afghanistan,14,Mohammad Nabi,62af8546,MA Leask,28131839,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,1,0,1
+875485,2015,Afghanistan,14,Najibullah Zadran,1212cbec,MA Leask,28131839,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,1,0,1
+875485,2015,Afghanistan,15,Najibullah Zadran,1212cbec,SM Sharif,f43dd8c2,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,1,0,1
+875485,2015,Afghanistan,15,Mohammad Nabi,62af8546,SM Sharif,f43dd8c2,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,1,0,1
+875485,2015,Afghanistan,15,Najibullah Zadran,1212cbec,SM Sharif,f43dd8c2,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,1,0,1
+875485,2015,Afghanistan,15,Mohammad Nabi,62af8546,SM Sharif,f43dd8c2,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,2,0,2
+875485,2015,Afghanistan,15,Mohammad Nabi,62af8546,SM Sharif,f43dd8c2,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,2,0,2
+875485,2015,Afghanistan,15,Mohammad Nabi,62af8546,SM Sharif,f43dd8c2,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,1,0,1
+875485,2015,Afghanistan,16,Mohammad Nabi,62af8546,AC Evans,e9a870ed,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,1,0,1
+875485,2015,Afghanistan,16,Najibullah Zadran,1212cbec,AC Evans,e9a870ed,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,1,0,1
+875485,2015,Afghanistan,16,Mohammad Nabi,62af8546,AC Evans,e9a870ed,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,2,0,2
+875485,2015,Afghanistan,16,Mohammad Nabi,62af8546,AC Evans,e9a870ed,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,1,0,1
+875485,2015,Afghanistan,16,Najibullah Zadran,1212cbec,AC Evans,e9a870ed,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,6,0,6
+875485,2015,Afghanistan,16,Najibullah Zadran,1212cbec,AC Evans,e9a870ed,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,1,0,1
+875485,2015,Afghanistan,17,Najibullah Zadran,1212cbec,CD de Lange,e6d298e8,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,6,0,6
+875485,2015,Afghanistan,17,Najibullah Zadran,1212cbec,CD de Lange,e6d298e8,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,1,0,1
+875485,2015,Afghanistan,17,Mohammad Nabi,62af8546,CD de Lange,e6d298e8,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,0,0,0
+875485,2015,Afghanistan,17,Mohammad Nabi,62af8546,CD de Lange,e6d298e8,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,6,0,6
+875485,2015,Afghanistan,17,Mohammad Nabi,62af8546,CD de Lange,e6d298e8,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,6,0,6
+875485,2015,Afghanistan,17,Mohammad Nabi,62af8546,CD de Lange,e6d298e8,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,1,0,1
+875485,2015,Afghanistan,18,Mohammad Nabi,62af8546,RD Berrington,e21bc7f3,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,1,0,1
+875485,2015,Afghanistan,18,Najibullah Zadran,1212cbec,RD Berrington,e21bc7f3,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,4,0,4
+875485,2015,Afghanistan,18,Najibullah Zadran,1212cbec,RD Berrington,e21bc7f3,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,1,0,1
+875485,2015,Afghanistan,18,Mohammad Nabi,62af8546,RD Berrington,e21bc7f3,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,1,0,1
+875485,2015,Afghanistan,18,Najibullah Zadran,1212cbec,RD Berrington,e21bc7f3,Mohammad Nabi,62af8546,2,0,0,0,0,,,,,,0,2,2
+875485,2015,Afghanistan,18,Mohammad Nabi,62af8546,RD Berrington,e21bc7f3,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,6,0,6
+875485,2015,Afghanistan,18,Mohammad Nabi,62af8546,RD Berrington,e21bc7f3,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,0,0,0
+875485,2015,Afghanistan,19,Najibullah Zadran,1212cbec,SM Sharif,f43dd8c2,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,6,0,6
+875485,2015,Afghanistan,19,Najibullah Zadran,1212cbec,SM Sharif,f43dd8c2,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,2,0,2
+875485,2015,Afghanistan,19,Najibullah Zadran,1212cbec,SM Sharif,f43dd8c2,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,1,0,1
+875485,2015,Afghanistan,19,Mohammad Nabi,62af8546,SM Sharif,f43dd8c2,Najibullah Zadran,1212cbec,0,0,0,0,1,Najibullah Zadran,1212cbec,SM Sharif,f43dd8c2,run out,0,0,0
+875485,2015,Afghanistan,19,Mohammad Nabi,62af8546,SM Sharif,f43dd8c2,Shafiqullah,ba4d600a,0,0,0,0,0,,,,,,1,0,1
+875485,2015,Afghanistan,19,Shafiqullah,ba4d600a,SM Sharif,f43dd8c2,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,6,0,6
+875485,2015,Scotland,0,HG Munsey,ff014c34,Dawlat Zadran,1fba2ae3,KJ Coetzer,85d8110a,1,0,0,0,0,,,,,,0,1,1
+875485,2015,Scotland,0,HG Munsey,ff014c34,Dawlat Zadran,1fba2ae3,KJ Coetzer,85d8110a,0,0,0,0,0,,,,,,0,0,0
+875485,2015,Scotland,0,HG Munsey,ff014c34,Dawlat Zadran,1fba2ae3,KJ Coetzer,85d8110a,0,0,0,0,0,,,,,,0,0,0
+875485,2015,Scotland,0,HG Munsey,ff014c34,Dawlat Zadran,1fba2ae3,KJ Coetzer,85d8110a,0,0,0,0,0,,,,,,0,0,0
+875485,2015,Scotland,0,HG Munsey,ff014c34,Dawlat Zadran,1fba2ae3,KJ Coetzer,85d8110a,0,0,0,0,0,,,,,,1,0,1
+875485,2015,Scotland,0,KJ Coetzer,85d8110a,Dawlat Zadran,1fba2ae3,HG Munsey,ff014c34,0,0,1,0,0,,,,,,0,1,1
+875485,2015,Scotland,0,HG Munsey,ff014c34,Dawlat Zadran,1fba2ae3,KJ Coetzer,85d8110a,0,0,0,0,0,,,,,,0,0,0
+875485,2015,Scotland,1,KJ Coetzer,85d8110a,Mohammad Nabi,62af8546,HG Munsey,ff014c34,0,0,0,0,0,,,,,,1,0,1
+875485,2015,Scotland,1,HG Munsey,ff014c34,Mohammad Nabi,62af8546,KJ Coetzer,85d8110a,0,0,0,0,0,,,,,,4,0,4
+875485,2015,Scotland,1,HG Munsey,ff014c34,Mohammad Nabi,62af8546,KJ Coetzer,85d8110a,0,0,0,0,0,,,,,,1,0,1
+875485,2015,Scotland,1,KJ Coetzer,85d8110a,Mohammad Nabi,62af8546,HG Munsey,ff014c34,0,0,0,0,0,,,,,,1,0,1
+875485,2015,Scotland,1,HG Munsey,ff014c34,Mohammad Nabi,62af8546,KJ Coetzer,85d8110a,0,0,0,0,1,HG Munsey,ff014c34,Samiullah Shenwari,61646132,caught,0,0,0
+875485,2015,Scotland,1,CS MacLeod,9c376401,Mohammad Nabi,62af8546,KJ Coetzer,85d8110a,0,0,0,0,0,,,,,,0,0,0
+875485,2015,Scotland,2,KJ Coetzer,85d8110a,Dawlat Zadran,1fba2ae3,CS MacLeod,9c376401,0,0,0,0,0,,,,,,0,0,0
+875485,2015,Scotland,2,KJ Coetzer,85d8110a,Dawlat Zadran,1fba2ae3,CS MacLeod,9c376401,0,0,0,0,0,,,,,,4,0,4
+875485,2015,Scotland,2,KJ Coetzer,85d8110a,Dawlat Zadran,1fba2ae3,CS MacLeod,9c376401,0,0,0,0,0,,,,,,0,0,0
+875485,2015,Scotland,2,KJ Coetzer,85d8110a,Dawlat Zadran,1fba2ae3,CS MacLeod,9c376401,0,0,4,0,0,,,,,,0,4,4
+875485,2015,Scotland,2,KJ Coetzer,85d8110a,Dawlat Zadran,1fba2ae3,CS MacLeod,9c376401,0,0,0,0,0,,,,,,4,0,4
+875485,2015,Scotland,2,KJ Coetzer,85d8110a,Dawlat Zadran,1fba2ae3,CS MacLeod,9c376401,0,0,0,0,0,,,,,,1,0,1
+875485,2015,Scotland,3,KJ Coetzer,85d8110a,Mohammad Nabi,62af8546,CS MacLeod,9c376401,0,0,0,0,0,,,,,,1,0,1
+875485,2015,Scotland,3,CS MacLeod,9c376401,Mohammad Nabi,62af8546,KJ Coetzer,85d8110a,0,0,0,0,0,,,,,,1,0,1
+875485,2015,Scotland,3,KJ Coetzer,85d8110a,Mohammad Nabi,62af8546,CS MacLeod,9c376401,0,0,0,0,0,,,,,,0,0,0
+875485,2015,Scotland,3,KJ Coetzer,85d8110a,Mohammad Nabi,62af8546,CS MacLeod,9c376401,0,0,0,0,0,,,,,,1,0,1
+875485,2015,Scotland,3,CS MacLeod,9c376401,Mohammad Nabi,62af8546,KJ Coetzer,85d8110a,0,0,0,0,0,,,,,,0,0,0
+875485,2015,Scotland,3,CS MacLeod,9c376401,Mohammad Nabi,62af8546,KJ Coetzer,85d8110a,0,0,0,0,0,,,,,,1,0,1
+875485,2015,Scotland,4,CS MacLeod,9c376401,Hamid Hassan,093ae70b,KJ Coetzer,85d8110a,0,0,0,0,0,,,,,,4,0,4
+875485,2015,Scotland,4,CS MacLeod,9c376401,Hamid Hassan,093ae70b,KJ Coetzer,85d8110a,0,0,0,0,0,,,,,,6,0,6
+875485,2015,Scotland,4,CS MacLeod,9c376401,Hamid Hassan,093ae70b,KJ Coetzer,85d8110a,0,0,0,0,0,,,,,,0,0,0
+875485,2015,Scotland,4,CS MacLeod,9c376401,Hamid Hassan,093ae70b,KJ Coetzer,85d8110a,0,0,0,0,0,,,,,,1,0,1
+875485,2015,Scotland,4,KJ Coetzer,85d8110a,Hamid Hassan,093ae70b,CS MacLeod,9c376401,0,0,0,0,0,,,,,,1,0,1
+875485,2015,Scotland,4,CS MacLeod,9c376401,Hamid Hassan,093ae70b,KJ Coetzer,85d8110a,0,0,0,0,0,,,,,,2,0,2
+875485,2015,Scotland,5,KJ Coetzer,85d8110a,Mirwais Ashraf,bdd985f2,CS MacLeod,9c376401,0,0,0,0,0,,,,,,1,0,1
+875485,2015,Scotland,5,CS MacLeod,9c376401,Mirwais Ashraf,bdd985f2,KJ Coetzer,85d8110a,0,0,0,0,0,,,,,,0,0,0
+875485,2015,Scotland,5,CS MacLeod,9c376401,Mirwais Ashraf,bdd985f2,KJ Coetzer,85d8110a,0,0,0,0,0,,,,,,4,0,4
+875485,2015,Scotland,5,CS MacLeod,9c376401,Mirwais Ashraf,bdd985f2,KJ Coetzer,85d8110a,0,0,0,1,0,,,,,,0,1,1
+875485,2015,Scotland,5,KJ Coetzer,85d8110a,Mirwais Ashraf,bdd985f2,CS MacLeod,9c376401,0,0,0,0,1,KJ Coetzer,85d8110a,Mohammad Nabi,62af8546,caught,0,0,0
+875485,2015,Scotland,5,MH Cross,8b261d84,Mirwais Ashraf,bdd985f2,CS MacLeod,9c376401,0,0,0,0,0,,,,,,1,0,1
+875485,2015,Scotland,6,MH Cross,8b261d84,Hamid Hassan,093ae70b,CS MacLeod,9c376401,0,0,0,0,1,CS MacLeod,9c376401,Mohammad Nabi,62af8546,run out,0,0,0
+875485,2015,Scotland,6,RD Berrington,e21bc7f3,Hamid Hassan,093ae70b,MH Cross,8b261d84,0,0,0,0,0,,,,,,1,0,1
+875485,2015,Scotland,6,MH Cross,8b261d84,Hamid Hassan,093ae70b,RD Berrington,e21bc7f3,0,0,0,0,0,,,,,,0,0,0
+875485,2015,Scotland,6,MH Cross,8b261d84,Hamid Hassan,093ae70b,RD Berrington,e21bc7f3,0,0,0,0,0,,,,,,0,0,0
+875485,2015,Scotland,6,MH Cross,8b261d84,Hamid Hassan,093ae70b,RD Berrington,e21bc7f3,0,0,0,0,0,,,,,,1,0,1
+875485,2015,Scotland,6,RD Berrington,e21bc7f3,Hamid Hassan,093ae70b,MH Cross,8b261d84,0,0,0,0,0,,,,,,1,0,1
+875485,2015,Scotland,7,RD Berrington,e21bc7f3,Sharafuddin Ashraf,7e678d00,MH Cross,8b261d84,0,0,0,0,0,,,,,,1,0,1
+875485,2015,Scotland,7,MH Cross,8b261d84,Sharafuddin Ashraf,7e678d00,RD Berrington,e21bc7f3,0,0,0,0,0,,,,,,4,0,4
+875485,2015,Scotland,7,MH Cross,8b261d84,Sharafuddin Ashraf,7e678d00,RD Berrington,e21bc7f3,0,0,0,0,0,,,,,,1,0,1
+875485,2015,Scotland,7,RD Berrington,e21bc7f3,Sharafuddin Ashraf,7e678d00,MH Cross,8b261d84,0,0,0,0,0,,,,,,1,0,1
+875485,2015,Scotland,7,MH Cross,8b261d84,Sharafuddin Ashraf,7e678d00,RD Berrington,e21bc7f3,0,0,0,0,0,,,,,,6,0,6
+875485,2015,Scotland,7,MH Cross,8b261d84,Sharafuddin Ashraf,7e678d00,RD Berrington,e21bc7f3,0,0,0,0,0,,,,,,1,0,1
+875485,2015,Scotland,8,MH Cross,8b261d84,Mirwais Ashraf,bdd985f2,RD Berrington,e21bc7f3,0,0,0,0,0,,,,,,0,0,0
+875485,2015,Scotland,8,MH Cross,8b261d84,Mirwais Ashraf,bdd985f2,RD Berrington,e21bc7f3,0,0,0,0,0,,,,,,1,0,1
+875485,2015,Scotland,8,RD Berrington,e21bc7f3,Mirwais Ashraf,bdd985f2,MH Cross,8b261d84,0,0,0,0,0,,,,,,0,0,0
+875485,2015,Scotland,8,RD Berrington,e21bc7f3,Mirwais Ashraf,bdd985f2,MH Cross,8b261d84,0,0,0,0,0,,,,,,1,0,1
+875485,2015,Scotland,8,MH Cross,8b261d84,Mirwais Ashraf,bdd985f2,RD Berrington,e21bc7f3,0,0,0,0,0,,,,,,1,0,1
+875485,2015,Scotland,8,RD Berrington,e21bc7f3,Mirwais Ashraf,bdd985f2,MH Cross,8b261d84,0,0,0,0,0,,,,,,6,0,6
+875485,2015,Scotland,9,MH Cross,8b261d84,Sharafuddin Ashraf,7e678d00,RD Berrington,e21bc7f3,0,0,0,0,0,,,,,,2,0,2
+875485,2015,Scotland,9,MH Cross,8b261d84,Sharafuddin Ashraf,7e678d00,RD Berrington,e21bc7f3,0,0,0,0,0,,,,,,4,0,4
+875485,2015,Scotland,9,MH Cross,8b261d84,Sharafuddin Ashraf,7e678d00,RD Berrington,e21bc7f3,0,0,0,0,0,,,,,,6,0,6
+875485,2015,Scotland,9,MH Cross,8b261d84,Sharafuddin Ashraf,7e678d00,RD Berrington,e21bc7f3,0,0,0,0,0,,,,,,1,0,1
+875485,2015,Scotland,9,RD Berrington,e21bc7f3,Sharafuddin Ashraf,7e678d00,MH Cross,8b261d84,0,0,0,0,0,,,,,,1,0,1
+875485,2015,Scotland,9,MH Cross,8b261d84,Sharafuddin Ashraf,7e678d00,RD Berrington,e21bc7f3,0,0,0,0,0,,,,,,6,0,6
+875485,2015,Scotland,10,RD Berrington,e21bc7f3,Mirwais Ashraf,bdd985f2,MH Cross,8b261d84,0,0,0,0,0,,,,,,1,0,1
+875485,2015,Scotland,10,MH Cross,8b261d84,Mirwais Ashraf,bdd985f2,RD Berrington,e21bc7f3,0,0,0,0,0,,,,,,0,0,0
+875485,2015,Scotland,10,MH Cross,8b261d84,Mirwais Ashraf,bdd985f2,RD Berrington,e21bc7f3,0,0,0,0,0,,,,,,1,0,1
+875485,2015,Scotland,10,RD Berrington,e21bc7f3,Mirwais Ashraf,bdd985f2,MH Cross,8b261d84,0,0,0,0,0,,,,,,1,0,1
+875485,2015,Scotland,10,MH Cross,8b261d84,Mirwais Ashraf,bdd985f2,RD Berrington,e21bc7f3,0,0,0,0,0,,,,,,1,0,1
+875485,2015,Scotland,10,RD Berrington,e21bc7f3,Mirwais Ashraf,bdd985f2,MH Cross,8b261d84,0,0,0,0,0,,,,,,0,0,0
+875485,2015,Scotland,11,MH Cross,8b261d84,Mohammad Nabi,62af8546,RD Berrington,e21bc7f3,0,0,0,0,0,,,,,,0,0,0
+875485,2015,Scotland,11,MH Cross,8b261d84,Mohammad Nabi,62af8546,RD Berrington,e21bc7f3,0,0,0,0,1,MH Cross,8b261d84,,,caught and bowled,0,0,0
+875485,2015,Scotland,11,RD Berrington,e21bc7f3,Mohammad Nabi,62af8546,PL Mommsen,a56f4b65,0,0,0,0,0,,,,,,0,0,0
+875485,2015,Scotland,11,RD Berrington,e21bc7f3,Mohammad Nabi,62af8546,PL Mommsen,a56f4b65,0,0,0,0,0,,,,,,4,0,4
+875485,2015,Scotland,11,RD Berrington,e21bc7f3,Mohammad Nabi,62af8546,PL Mommsen,a56f4b65,0,0,0,0,0,,,,,,1,0,1
+875485,2015,Scotland,11,PL Mommsen,a56f4b65,Mohammad Nabi,62af8546,RD Berrington,e21bc7f3,0,0,0,0,0,,,,,,1,0,1
+875485,2015,Scotland,12,PL Mommsen,a56f4b65,Mirwais Ashraf,bdd985f2,RD Berrington,e21bc7f3,0,0,0,0,0,,,,,,1,0,1
+875485,2015,Scotland,12,RD Berrington,e21bc7f3,Mirwais Ashraf,bdd985f2,PL Mommsen,a56f4b65,0,0,0,0,0,,,,,,4,0,4
+875485,2015,Scotland,12,RD Berrington,e21bc7f3,Mirwais Ashraf,bdd985f2,PL Mommsen,a56f4b65,0,0,0,0,0,,,,,,1,0,1
+875485,2015,Scotland,12,PL Mommsen,a56f4b65,Mirwais Ashraf,bdd985f2,RD Berrington,e21bc7f3,0,0,0,0,0,,,,,,1,0,1
+875485,2015,Scotland,12,RD Berrington,e21bc7f3,Mirwais Ashraf,bdd985f2,PL Mommsen,a56f4b65,0,0,0,0,1,RD Berrington,e21bc7f3,Shafiqullah,ba4d600a,caught,0,0,0
+875485,2015,Scotland,12,PL Mommsen,a56f4b65,Mirwais Ashraf,bdd985f2,MA Leask,28131839,0,0,0,0,0,,,,,,0,0,0
+875485,2015,Scotland,13,MA Leask,28131839,Samiullah Shenwari,61646132,PL Mommsen,a56f4b65,0,0,0,0,0,,,,,,1,0,1
+875485,2015,Scotland,13,PL Mommsen,a56f4b65,Samiullah Shenwari,61646132,MA Leask,28131839,0,0,0,0,0,,,,,,0,0,0
+875485,2015,Scotland,13,PL Mommsen,a56f4b65,Samiullah Shenwari,61646132,MA Leask,28131839,0,0,0,0,0,,,,,,0,0,0
+875485,2015,Scotland,13,PL Mommsen,a56f4b65,Samiullah Shenwari,61646132,MA Leask,28131839,0,0,0,0,0,,,,,,4,0,4
+875485,2015,Scotland,13,PL Mommsen,a56f4b65,Samiullah Shenwari,61646132,MA Leask,28131839,0,0,0,0,0,,,,,,0,0,0
+875485,2015,Scotland,13,PL Mommsen,a56f4b65,Samiullah Shenwari,61646132,MA Leask,28131839,0,0,0,0,0,,,,,,1,0,1
+875485,2015,Scotland,14,PL Mommsen,a56f4b65,Dawlat Zadran,1fba2ae3,MA Leask,28131839,0,0,0,0,0,,,,,,0,0,0
+875485,2015,Scotland,14,PL Mommsen,a56f4b65,Dawlat Zadran,1fba2ae3,MA Leask,28131839,0,0,0,0,0,,,,,,4,0,4
+875485,2015,Scotland,14,PL Mommsen,a56f4b65,Dawlat Zadran,1fba2ae3,MA Leask,28131839,0,0,0,0,0,,,,,,6,0,6
+875485,2015,Scotland,14,PL Mommsen,a56f4b65,Dawlat Zadran,1fba2ae3,MA Leask,28131839,0,0,0,0,0,,,,,,6,0,6
+875485,2015,Scotland,14,PL Mommsen,a56f4b65,Dawlat Zadran,1fba2ae3,MA Leask,28131839,0,0,0,0,0,,,,,,6,0,6
+875485,2015,Scotland,14,PL Mommsen,a56f4b65,Dawlat Zadran,1fba2ae3,MA Leask,28131839,0,0,0,0,0,,,,,,2,0,2
+875485,2015,Scotland,15,MA Leask,28131839,Samiullah Shenwari,61646132,PL Mommsen,a56f4b65,0,0,0,0,0,,,,,,4,0,4
+875485,2015,Scotland,15,MA Leask,28131839,Samiullah Shenwari,61646132,PL Mommsen,a56f4b65,0,0,0,0,0,,,,,,1,0,1
+875485,2015,Scotland,15,PL Mommsen,a56f4b65,Samiullah Shenwari,61646132,MA Leask,28131839,1,0,0,0,0,,,,,,0,1,1
+875485,2015,Scotland,15,PL Mommsen,a56f4b65,Samiullah Shenwari,61646132,MA Leask,28131839,0,0,0,0,0,,,,,,1,0,1
+875485,2015,Scotland,15,MA Leask,28131839,Samiullah Shenwari,61646132,PL Mommsen,a56f4b65,0,0,0,0,0,,,,,,0,0,0
+875485,2015,Scotland,15,MA Leask,28131839,Samiullah Shenwari,61646132,PL Mommsen,a56f4b65,0,0,0,0,0,,,,,,1,0,1
+875485,2015,Scotland,15,PL Mommsen,a56f4b65,Samiullah Shenwari,61646132,MA Leask,28131839,0,0,0,0,0,,,,,,4,0,4
+875485,2015,Scotland,16,MA Leask,28131839,Hamid Hassan,093ae70b,PL Mommsen,a56f4b65,0,0,0,0,0,,,,,,1,0,1
+875485,2015,Scotland,16,PL Mommsen,a56f4b65,Hamid Hassan,093ae70b,MA Leask,28131839,0,0,0,0,0,,,,,,6,0,6
+875485,2015,Scotland,16,PL Mommsen,a56f4b65,Hamid Hassan,093ae70b,MA Leask,28131839,0,0,0,0,0,,,,,,1,0,1
+875485,2015,Scotland,16,MA Leask,28131839,Hamid Hassan,093ae70b,PL Mommsen,a56f4b65,0,0,0,0,0,,,,,,1,0,1
+875485,2015,Scotland,16,PL Mommsen,a56f4b65,Hamid Hassan,093ae70b,MA Leask,28131839,0,0,0,0,1,PL Mommsen,a56f4b65,Shafiqullah,ba4d600a,caught,0,0,0
+875485,2015,Scotland,16,MA Leask,28131839,Hamid Hassan,093ae70b,SM Sharif,f43dd8c2,0,0,0,0,0,,,,,,1,0,1
+875485,2015,Scotland,17,MA Leask,28131839,Mohammad Nabi,62af8546,SM Sharif,f43dd8c2,0,0,0,0,1,MA Leask,28131839,Najibullah Zadran,1212cbec,caught,0,0,0
+875485,2015,Scotland,17,SM Sharif,f43dd8c2,Mohammad Nabi,62af8546,CD de Lange,e6d298e8,0,0,0,0,0,,,,,,4,0,4
+875485,2015,Scotland,17,SM Sharif,f43dd8c2,Mohammad Nabi,62af8546,CD de Lange,e6d298e8,0,0,0,0,0,,,,,,1,0,1
+875485,2015,Scotland,17,CD de Lange,e6d298e8,Mohammad Nabi,62af8546,SM Sharif,f43dd8c2,0,0,0,0,0,,,,,,1,0,1
+875485,2015,Scotland,17,SM Sharif,f43dd8c2,Mohammad Nabi,62af8546,CD de Lange,e6d298e8,0,0,0,0,0,,,,,,2,0,2
+875485,2015,Scotland,17,SM Sharif,f43dd8c2,Mohammad Nabi,62af8546,CD de Lange,e6d298e8,0,0,0,0,0,,,,,,0,0,0
+875485,2015,Scotland,18,CD de Lange,e6d298e8,Hamid Hassan,093ae70b,SM Sharif,f43dd8c2,0,0,0,0,1,CD de Lange,e6d298e8,,,bowled,0,0,0
+875485,2015,Scotland,18,AC Evans,e9a870ed,Hamid Hassan,093ae70b,SM Sharif,f43dd8c2,0,0,0,0,0,,,,,,0,0,0
+875485,2015,Scotland,18,AC Evans,e9a870ed,Hamid Hassan,093ae70b,SM Sharif,f43dd8c2,0,0,0,0,0,,,,,,0,0,0
+875485,2015,Scotland,18,AC Evans,e9a870ed,Hamid Hassan,093ae70b,SM Sharif,f43dd8c2,0,0,0,0,1,AC Evans,e9a870ed,,,bowled,0,0,0
+875485,2015,Scotland,18,MRJ Watt,1252f71a,Hamid Hassan,093ae70b,SM Sharif,f43dd8c2,0,0,0,0,0,,,,,,1,0,1
+875485,2015,Scotland,18,SM Sharif,f43dd8c2,Hamid Hassan,093ae70b,MRJ Watt,1252f71a,0,0,0,0,0,,,,,,1,0,1
+875485,2015,Scotland,19,SM Sharif,f43dd8c2,Dawlat Zadran,1fba2ae3,MRJ Watt,1252f71a,0,0,0,0,0,,,,,,0,0,0
+875485,2015,Scotland,19,SM Sharif,f43dd8c2,Dawlat Zadran,1fba2ae3,MRJ Watt,1252f71a,0,0,0,0,1,SM Sharif,f43dd8c2,Shafiqullah,ba4d600a,caught,0,0,0

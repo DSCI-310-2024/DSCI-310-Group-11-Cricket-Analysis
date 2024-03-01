@@ -1,0 +1,239 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+564786,2012,India,0,G Gambhir,bb345e0b,AD Mathews,896d78ad,AM Rahane,29e95537,0,0,0,0,0,,,,,,0,0,0
+564786,2012,India,0,G Gambhir,bb345e0b,AD Mathews,896d78ad,AM Rahane,29e95537,0,0,0,0,0,,,,,,1,0,1
+564786,2012,India,0,AM Rahane,29e95537,AD Mathews,896d78ad,G Gambhir,bb345e0b,0,0,0,0,0,,,,,,0,0,0
+564786,2012,India,0,AM Rahane,29e95537,AD Mathews,896d78ad,G Gambhir,bb345e0b,0,0,0,0,0,,,,,,1,0,1
+564786,2012,India,0,G Gambhir,bb345e0b,AD Mathews,896d78ad,AM Rahane,29e95537,0,0,0,0,0,,,,,,4,0,4
+564786,2012,India,0,G Gambhir,bb345e0b,AD Mathews,896d78ad,AM Rahane,29e95537,0,0,0,0,0,,,,,,1,0,1
+564786,2012,India,1,G Gambhir,bb345e0b,RMS Eranga,8f7a598f,AM Rahane,29e95537,0,0,0,0,0,,,,,,0,0,0
+564786,2012,India,1,G Gambhir,bb345e0b,RMS Eranga,8f7a598f,AM Rahane,29e95537,0,0,0,0,0,,,,,,0,0,0
+564786,2012,India,1,G Gambhir,bb345e0b,RMS Eranga,8f7a598f,AM Rahane,29e95537,0,0,0,0,0,,,,,,0,0,0
+564786,2012,India,1,G Gambhir,bb345e0b,RMS Eranga,8f7a598f,AM Rahane,29e95537,0,0,0,0,1,G Gambhir,bb345e0b,,,bowled,0,0,0
+564786,2012,India,1,V Kohli,ba607b88,RMS Eranga,8f7a598f,AM Rahane,29e95537,1,0,0,0,0,,,,,,0,1,1
+564786,2012,India,1,V Kohli,ba607b88,RMS Eranga,8f7a598f,AM Rahane,29e95537,0,0,0,0,0,,,,,,0,0,0
+564786,2012,India,1,V Kohli,ba607b88,RMS Eranga,8f7a598f,AM Rahane,29e95537,0,0,0,0,0,,,,,,0,0,0
+564786,2012,India,2,AM Rahane,29e95537,AD Mathews,896d78ad,V Kohli,ba607b88,0,0,0,0,0,,,,,,3,0,3
+564786,2012,India,2,V Kohli,ba607b88,AD Mathews,896d78ad,AM Rahane,29e95537,0,0,0,0,0,,,,,,0,0,0
+564786,2012,India,2,V Kohli,ba607b88,AD Mathews,896d78ad,AM Rahane,29e95537,0,0,0,0,0,,,,,,4,0,4
+564786,2012,India,2,V Kohli,ba607b88,AD Mathews,896d78ad,AM Rahane,29e95537,0,0,0,0,0,,,,,,4,0,4
+564786,2012,India,2,V Kohli,ba607b88,AD Mathews,896d78ad,AM Rahane,29e95537,0,0,0,0,0,,,,,,0,0,0
+564786,2012,India,2,V Kohli,ba607b88,AD Mathews,896d78ad,AM Rahane,29e95537,0,0,0,0,0,,,,,,1,0,1
+564786,2012,India,3,V Kohli,ba607b88,RMS Eranga,8f7a598f,AM Rahane,29e95537,0,0,0,0,0,,,,,,4,0,4
+564786,2012,India,3,V Kohli,ba607b88,RMS Eranga,8f7a598f,AM Rahane,29e95537,0,0,0,0,0,,,,,,0,0,0
+564786,2012,India,3,V Kohli,ba607b88,RMS Eranga,8f7a598f,AM Rahane,29e95537,0,0,0,0,0,,,,,,4,0,4
+564786,2012,India,3,V Kohli,ba607b88,RMS Eranga,8f7a598f,AM Rahane,29e95537,0,0,0,0,0,,,,,,4,0,4
+564786,2012,India,3,V Kohli,ba607b88,RMS Eranga,8f7a598f,AM Rahane,29e95537,0,0,0,0,0,,,,,,0,0,0
+564786,2012,India,3,V Kohli,ba607b88,RMS Eranga,8f7a598f,AM Rahane,29e95537,0,0,0,0,0,,,,,,0,0,0
+564786,2012,India,4,AM Rahane,29e95537,SL Malinga,a12e1d51,V Kohli,ba607b88,0,0,0,0,0,,,,,,0,0,0
+564786,2012,India,4,AM Rahane,29e95537,SL Malinga,a12e1d51,V Kohli,ba607b88,0,0,0,0,0,,,,,,1,0,1
+564786,2012,India,4,V Kohli,ba607b88,SL Malinga,a12e1d51,AM Rahane,29e95537,0,0,0,0,0,,,,,,4,0,4
+564786,2012,India,4,V Kohli,ba607b88,SL Malinga,a12e1d51,AM Rahane,29e95537,0,0,0,0,0,,,,,,1,0,1
+564786,2012,India,4,AM Rahane,29e95537,SL Malinga,a12e1d51,V Kohli,ba607b88,0,0,0,0,0,,,,,,0,0,0
+564786,2012,India,4,AM Rahane,29e95537,SL Malinga,a12e1d51,V Kohli,ba607b88,0,0,0,0,0,,,,,,0,0,0
+564786,2012,India,5,V Kohli,ba607b88,NLTC Perera,0f12f9df,AM Rahane,29e95537,0,0,0,0,0,,,,,,0,0,0
+564786,2012,India,5,V Kohli,ba607b88,NLTC Perera,0f12f9df,AM Rahane,29e95537,0,0,0,0,0,,,,,,4,0,4
+564786,2012,India,5,V Kohli,ba607b88,NLTC Perera,0f12f9df,AM Rahane,29e95537,0,0,0,0,0,,,,,,4,0,4
+564786,2012,India,5,V Kohli,ba607b88,NLTC Perera,0f12f9df,AM Rahane,29e95537,0,0,0,0,0,,,,,,4,0,4
+564786,2012,India,5,V Kohli,ba607b88,NLTC Perera,0f12f9df,AM Rahane,29e95537,0,0,0,0,0,,,,,,0,0,0
+564786,2012,India,5,V Kohli,ba607b88,NLTC Perera,0f12f9df,AM Rahane,29e95537,0,0,0,0,0,,,,,,0,0,0
+564786,2012,India,6,AM Rahane,29e95537,HMRKB Herath,d2fcce2f,V Kohli,ba607b88,0,0,0,0,0,,,,,,0,0,0
+564786,2012,India,6,AM Rahane,29e95537,HMRKB Herath,d2fcce2f,V Kohli,ba607b88,0,0,0,0,0,,,,,,1,0,1
+564786,2012,India,6,V Kohli,ba607b88,HMRKB Herath,d2fcce2f,AM Rahane,29e95537,0,0,0,0,0,,,,,,1,0,1
+564786,2012,India,6,AM Rahane,29e95537,HMRKB Herath,d2fcce2f,V Kohli,ba607b88,0,0,0,0,0,,,,,,1,0,1
+564786,2012,India,6,V Kohli,ba607b88,HMRKB Herath,d2fcce2f,AM Rahane,29e95537,0,0,0,0,0,,,,,,1,0,1
+564786,2012,India,6,AM Rahane,29e95537,HMRKB Herath,d2fcce2f,V Kohli,ba607b88,0,0,0,0,0,,,,,,1,0,1
+564786,2012,India,7,AM Rahane,29e95537,NLTC Perera,0f12f9df,V Kohli,ba607b88,0,0,0,0,0,,,,,,1,0,1
+564786,2012,India,7,V Kohli,ba607b88,NLTC Perera,0f12f9df,AM Rahane,29e95537,0,0,0,0,0,,,,,,1,0,1
+564786,2012,India,7,AM Rahane,29e95537,NLTC Perera,0f12f9df,V Kohli,ba607b88,0,0,0,0,0,,,,,,0,0,0
+564786,2012,India,7,AM Rahane,29e95537,NLTC Perera,0f12f9df,V Kohli,ba607b88,0,0,0,0,0,,,,,,0,0,0
+564786,2012,India,7,AM Rahane,29e95537,NLTC Perera,0f12f9df,V Kohli,ba607b88,0,0,0,0,0,,,,,,6,0,6
+564786,2012,India,7,AM Rahane,29e95537,NLTC Perera,0f12f9df,V Kohli,ba607b88,0,0,0,0,0,,,,,,0,0,0
+564786,2012,India,8,V Kohli,ba607b88,HMRKB Herath,d2fcce2f,AM Rahane,29e95537,0,0,0,0,0,,,,,,0,0,0
+564786,2012,India,8,V Kohli,ba607b88,HMRKB Herath,d2fcce2f,AM Rahane,29e95537,0,0,0,0,0,,,,,,1,0,1
+564786,2012,India,8,AM Rahane,29e95537,HMRKB Herath,d2fcce2f,V Kohli,ba607b88,0,0,0,0,0,,,,,,0,0,0
+564786,2012,India,8,AM Rahane,29e95537,HMRKB Herath,d2fcce2f,V Kohli,ba607b88,0,0,0,0,0,,,,,,0,0,0
+564786,2012,India,8,AM Rahane,29e95537,HMRKB Herath,d2fcce2f,V Kohli,ba607b88,0,0,0,0,0,,,,,,1,0,1
+564786,2012,India,8,V Kohli,ba607b88,HMRKB Herath,d2fcce2f,AM Rahane,29e95537,0,0,0,0,0,,,,,,2,0,2
+564786,2012,India,9,AM Rahane,29e95537,BMAJ Mendis,9868bc75,V Kohli,ba607b88,0,0,0,0,0,,,,,,1,0,1
+564786,2012,India,9,V Kohli,ba607b88,BMAJ Mendis,9868bc75,AM Rahane,29e95537,0,0,0,0,0,,,,,,0,0,0
+564786,2012,India,9,V Kohli,ba607b88,BMAJ Mendis,9868bc75,AM Rahane,29e95537,0,0,0,0,0,,,,,,1,0,1
+564786,2012,India,9,AM Rahane,29e95537,BMAJ Mendis,9868bc75,V Kohli,ba607b88,0,0,0,0,0,,,,,,1,0,1
+564786,2012,India,9,V Kohli,ba607b88,BMAJ Mendis,9868bc75,AM Rahane,29e95537,0,0,0,0,0,,,,,,0,0,0
+564786,2012,India,9,V Kohli,ba607b88,BMAJ Mendis,9868bc75,AM Rahane,29e95537,0,0,0,0,0,,,,,,1,0,1
+564786,2012,India,10,V Kohli,ba607b88,HMRKB Herath,d2fcce2f,AM Rahane,29e95537,0,0,0,0,0,,,,,,4,0,4
+564786,2012,India,10,V Kohli,ba607b88,HMRKB Herath,d2fcce2f,AM Rahane,29e95537,0,0,0,0,0,,,,,,1,0,1
+564786,2012,India,10,AM Rahane,29e95537,HMRKB Herath,d2fcce2f,V Kohli,ba607b88,0,0,0,0,0,,,,,,1,0,1
+564786,2012,India,10,V Kohli,ba607b88,HMRKB Herath,d2fcce2f,AM Rahane,29e95537,0,0,0,0,0,,,,,,0,0,0
+564786,2012,India,10,V Kohli,ba607b88,HMRKB Herath,d2fcce2f,AM Rahane,29e95537,0,0,0,0,0,,,,,,1,0,1
+564786,2012,India,10,AM Rahane,29e95537,HMRKB Herath,d2fcce2f,V Kohli,ba607b88,0,0,0,0,0,,,,,,1,0,1
+564786,2012,India,11,AM Rahane,29e95537,BMAJ Mendis,9868bc75,V Kohli,ba607b88,0,0,0,0,0,,,,,,1,0,1
+564786,2012,India,11,V Kohli,ba607b88,BMAJ Mendis,9868bc75,AM Rahane,29e95537,0,0,0,0,0,,,,,,1,0,1
+564786,2012,India,11,AM Rahane,29e95537,BMAJ Mendis,9868bc75,V Kohli,ba607b88,0,0,0,0,1,AM Rahane,29e95537,,,caught and bowled,0,0,0
+564786,2012,India,11,SK Raina,1dc12ab9,BMAJ Mendis,9868bc75,V Kohli,ba607b88,0,0,0,0,0,,,,,,0,0,0
+564786,2012,India,11,SK Raina,1dc12ab9,BMAJ Mendis,9868bc75,V Kohli,ba607b88,0,0,0,0,0,,,,,,1,0,1
+564786,2012,India,11,V Kohli,ba607b88,BMAJ Mendis,9868bc75,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,6,0,6
+564786,2012,India,12,SK Raina,1dc12ab9,RMS Eranga,8f7a598f,V Kohli,ba607b88,0,0,0,0,0,,,,,,4,0,4
+564786,2012,India,12,SK Raina,1dc12ab9,RMS Eranga,8f7a598f,V Kohli,ba607b88,1,0,0,0,0,,,,,,0,1,1
+564786,2012,India,12,SK Raina,1dc12ab9,RMS Eranga,8f7a598f,V Kohli,ba607b88,0,0,0,0,0,,,,,,1,0,1
+564786,2012,India,12,V Kohli,ba607b88,RMS Eranga,8f7a598f,SK Raina,1dc12ab9,0,0,1,0,0,,,,,,0,1,1
+564786,2012,India,12,SK Raina,1dc12ab9,RMS Eranga,8f7a598f,V Kohli,ba607b88,0,0,0,0,0,,,,,,1,0,1
+564786,2012,India,12,V Kohli,ba607b88,RMS Eranga,8f7a598f,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,4,0,4
+564786,2012,India,12,V Kohli,ba607b88,RMS Eranga,8f7a598f,SK Raina,1dc12ab9,0,0,4,0,0,,,,,,0,4,4
+564786,2012,India,13,SK Raina,1dc12ab9,SL Malinga,a12e1d51,V Kohli,ba607b88,0,0,2,0,0,,,,,,0,2,2
+564786,2012,India,13,SK Raina,1dc12ab9,SL Malinga,a12e1d51,V Kohli,ba607b88,0,0,0,0,0,,,,,,1,0,1
+564786,2012,India,13,V Kohli,ba607b88,SL Malinga,a12e1d51,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,0,0,0
+564786,2012,India,13,V Kohli,ba607b88,SL Malinga,a12e1d51,SK Raina,1dc12ab9,1,0,0,0,0,,,,,,0,1,1
+564786,2012,India,13,V Kohli,ba607b88,SL Malinga,a12e1d51,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,0,0,0
+564786,2012,India,13,V Kohli,ba607b88,SL Malinga,a12e1d51,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,1,0,1
+564786,2012,India,13,SK Raina,1dc12ab9,SL Malinga,a12e1d51,V Kohli,ba607b88,0,0,0,0,0,,,,,,1,0,1
+564786,2012,India,14,SK Raina,1dc12ab9,NLTC Perera,0f12f9df,V Kohli,ba607b88,0,0,0,0,0,,,,,,1,0,1
+564786,2012,India,14,V Kohli,ba607b88,NLTC Perera,0f12f9df,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,1,0,1
+564786,2012,India,14,SK Raina,1dc12ab9,NLTC Perera,0f12f9df,V Kohli,ba607b88,0,0,0,0,0,,,,,,2,0,2
+564786,2012,India,14,SK Raina,1dc12ab9,NLTC Perera,0f12f9df,V Kohli,ba607b88,0,0,0,0,0,,,,,,1,0,1
+564786,2012,India,14,V Kohli,ba607b88,NLTC Perera,0f12f9df,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,1,0,1
+564786,2012,India,14,SK Raina,1dc12ab9,NLTC Perera,0f12f9df,V Kohli,ba607b88,0,0,0,0,0,,,,,,4,0,4
+564786,2012,India,15,V Kohli,ba607b88,AD Mathews,896d78ad,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,1,0,1
+564786,2012,India,15,SK Raina,1dc12ab9,AD Mathews,896d78ad,V Kohli,ba607b88,0,0,0,0,0,,,,,,1,0,1
+564786,2012,India,15,V Kohli,ba607b88,AD Mathews,896d78ad,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,1,0,1
+564786,2012,India,15,SK Raina,1dc12ab9,AD Mathews,896d78ad,V Kohli,ba607b88,0,0,0,0,0,,,,,,0,0,0
+564786,2012,India,15,SK Raina,1dc12ab9,AD Mathews,896d78ad,V Kohli,ba607b88,0,0,0,0,0,,,,,,0,0,0
+564786,2012,India,15,SK Raina,1dc12ab9,AD Mathews,896d78ad,V Kohli,ba607b88,0,0,0,0,0,,,,,,1,0,1
+564786,2012,India,16,SK Raina,1dc12ab9,RMS Eranga,8f7a598f,V Kohli,ba607b88,0,0,0,0,0,,,,,,4,0,4
+564786,2012,India,16,SK Raina,1dc12ab9,RMS Eranga,8f7a598f,V Kohli,ba607b88,0,0,0,0,0,,,,,,1,0,1
+564786,2012,India,16,V Kohli,ba607b88,RMS Eranga,8f7a598f,SK Raina,1dc12ab9,0,0,0,0,1,V Kohli,ba607b88,HDRL Thirimanne,c5928dec,caught,0,0,0
+564786,2012,India,16,MS Dhoni,4a8a2e3b,RMS Eranga,8f7a598f,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,0,0,0
+564786,2012,India,16,MS Dhoni,4a8a2e3b,RMS Eranga,8f7a598f,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,0,0,0
+564786,2012,India,16,MS Dhoni,4a8a2e3b,RMS Eranga,8f7a598f,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,1,0,1
+564786,2012,India,17,MS Dhoni,4a8a2e3b,SL Malinga,a12e1d51,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,0,0,0
+564786,2012,India,17,MS Dhoni,4a8a2e3b,SL Malinga,a12e1d51,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,4,0,4
+564786,2012,India,17,MS Dhoni,4a8a2e3b,SL Malinga,a12e1d51,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,0,0,0
+564786,2012,India,17,MS Dhoni,4a8a2e3b,SL Malinga,a12e1d51,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,1,0,1
+564786,2012,India,17,SK Raina,1dc12ab9,SL Malinga,a12e1d51,MS Dhoni,4a8a2e3b,0,0,0,0,0,,,,,,6,0,6
+564786,2012,India,17,SK Raina,1dc12ab9,SL Malinga,a12e1d51,MS Dhoni,4a8a2e3b,0,0,0,0,0,,,,,,1,0,1
+564786,2012,India,18,SK Raina,1dc12ab9,NLTC Perera,0f12f9df,MS Dhoni,4a8a2e3b,0,0,0,0,0,,,,,,1,0,1
+564786,2012,India,18,MS Dhoni,4a8a2e3b,NLTC Perera,0f12f9df,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,1,0,1
+564786,2012,India,18,SK Raina,1dc12ab9,NLTC Perera,0f12f9df,MS Dhoni,4a8a2e3b,0,0,0,0,0,,,,,,1,0,1
+564786,2012,India,18,MS Dhoni,4a8a2e3b,NLTC Perera,0f12f9df,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,0,0,0
+564786,2012,India,18,MS Dhoni,4a8a2e3b,NLTC Perera,0f12f9df,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,1,0,1
+564786,2012,India,18,SK Raina,1dc12ab9,NLTC Perera,0f12f9df,MS Dhoni,4a8a2e3b,0,0,0,0,0,,,,,,0,0,0
+564786,2012,India,19,MS Dhoni,4a8a2e3b,SL Malinga,a12e1d51,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,2,0,2
+564786,2012,India,19,MS Dhoni,4a8a2e3b,SL Malinga,a12e1d51,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,4,0,4
+564786,2012,India,19,MS Dhoni,4a8a2e3b,SL Malinga,a12e1d51,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,1,0,1
+564786,2012,India,19,SK Raina,1dc12ab9,SL Malinga,a12e1d51,MS Dhoni,4a8a2e3b,0,0,0,0,0,,,,,,0,0,0
+564786,2012,India,19,SK Raina,1dc12ab9,SL Malinga,a12e1d51,MS Dhoni,4a8a2e3b,0,0,0,0,0,,,,,,1,0,1
+564786,2012,India,19,MS Dhoni,4a8a2e3b,SL Malinga,a12e1d51,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,1,0,1
+564786,2012,Sri Lanka,0,DPMD Jayawardene,d18f9182,IK Pathan,5fa06777,TM Dilshan,5bdcdb72,0,0,0,0,0,,,,,,4,0,4
+564786,2012,Sri Lanka,0,DPMD Jayawardene,d18f9182,IK Pathan,5fa06777,TM Dilshan,5bdcdb72,1,0,0,0,0,,,,,,0,1,1
+564786,2012,Sri Lanka,0,DPMD Jayawardene,d18f9182,IK Pathan,5fa06777,TM Dilshan,5bdcdb72,1,0,0,0,0,,,,,,0,1,1
+564786,2012,Sri Lanka,0,DPMD Jayawardene,d18f9182,IK Pathan,5fa06777,TM Dilshan,5bdcdb72,0,0,0,0,0,,,,,,0,0,0
+564786,2012,Sri Lanka,0,DPMD Jayawardene,d18f9182,IK Pathan,5fa06777,TM Dilshan,5bdcdb72,0,0,0,0,0,,,,,,0,0,0
+564786,2012,Sri Lanka,0,DPMD Jayawardene,d18f9182,IK Pathan,5fa06777,TM Dilshan,5bdcdb72,0,0,0,0,0,,,,,,1,0,1
+564786,2012,Sri Lanka,0,TM Dilshan,5bdcdb72,IK Pathan,5fa06777,DPMD Jayawardene,d18f9182,0,0,0,0,1,TM Dilshan,5bdcdb72,,,bowled,0,0,0
+564786,2012,Sri Lanka,0,WU Tharanga,7ed9fd56,IK Pathan,5fa06777,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,2,0,2
+564786,2012,Sri Lanka,1,DPMD Jayawardene,d18f9182,UT Yadav,cc1e8c68,WU Tharanga,7ed9fd56,0,0,0,0,0,,,,,,0,0,0
+564786,2012,Sri Lanka,1,DPMD Jayawardene,d18f9182,UT Yadav,cc1e8c68,WU Tharanga,7ed9fd56,0,0,0,0,0,,,,,,1,0,1
+564786,2012,Sri Lanka,1,WU Tharanga,7ed9fd56,UT Yadav,cc1e8c68,DPMD Jayawardene,d18f9182,1,0,0,0,0,,,,,,0,1,1
+564786,2012,Sri Lanka,1,WU Tharanga,7ed9fd56,UT Yadav,cc1e8c68,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,0,0,0
+564786,2012,Sri Lanka,1,WU Tharanga,7ed9fd56,UT Yadav,cc1e8c68,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,3,0,3
+564786,2012,Sri Lanka,1,DPMD Jayawardene,d18f9182,UT Yadav,cc1e8c68,WU Tharanga,7ed9fd56,0,0,0,0,0,,,,,,0,0,0
+564786,2012,Sri Lanka,1,DPMD Jayawardene,d18f9182,UT Yadav,cc1e8c68,WU Tharanga,7ed9fd56,0,0,0,0,0,,,,,,0,0,0
+564786,2012,Sri Lanka,2,WU Tharanga,7ed9fd56,IK Pathan,5fa06777,DPMD Jayawardene,d18f9182,0,0,0,0,1,WU Tharanga,7ed9fd56,SK Raina,1dc12ab9,caught,0,0,0
+564786,2012,Sri Lanka,2,HDRL Thirimanne,c5928dec,IK Pathan,5fa06777,DPMD Jayawardene,d18f9182,0,0,1,0,0,,,,,,0,1,1
+564786,2012,Sri Lanka,2,DPMD Jayawardene,d18f9182,IK Pathan,5fa06777,HDRL Thirimanne,c5928dec,0,0,0,0,0,,,,,,0,0,0
+564786,2012,Sri Lanka,2,DPMD Jayawardene,d18f9182,IK Pathan,5fa06777,HDRL Thirimanne,c5928dec,0,0,0,0,0,,,,,,0,0,0
+564786,2012,Sri Lanka,2,DPMD Jayawardene,d18f9182,IK Pathan,5fa06777,HDRL Thirimanne,c5928dec,0,0,0,0,0,,,,,,3,0,3
+564786,2012,Sri Lanka,2,HDRL Thirimanne,c5928dec,IK Pathan,5fa06777,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,0,0,0
+564786,2012,Sri Lanka,3,DPMD Jayawardene,d18f9182,UT Yadav,cc1e8c68,HDRL Thirimanne,c5928dec,0,0,0,0,0,,,,,,4,0,4
+564786,2012,Sri Lanka,3,DPMD Jayawardene,d18f9182,UT Yadav,cc1e8c68,HDRL Thirimanne,c5928dec,0,0,0,0,0,,,,,,4,0,4
+564786,2012,Sri Lanka,3,DPMD Jayawardene,d18f9182,UT Yadav,cc1e8c68,HDRL Thirimanne,c5928dec,0,0,0,0,0,,,,,,0,0,0
+564786,2012,Sri Lanka,3,DPMD Jayawardene,d18f9182,UT Yadav,cc1e8c68,HDRL Thirimanne,c5928dec,0,0,0,0,0,,,,,,4,0,4
+564786,2012,Sri Lanka,3,DPMD Jayawardene,d18f9182,UT Yadav,cc1e8c68,HDRL Thirimanne,c5928dec,0,0,0,0,0,,,,,,4,0,4
+564786,2012,Sri Lanka,3,DPMD Jayawardene,d18f9182,UT Yadav,cc1e8c68,HDRL Thirimanne,c5928dec,0,0,0,0,0,,,,,,1,0,1
+564786,2012,Sri Lanka,4,DPMD Jayawardene,d18f9182,IK Pathan,5fa06777,HDRL Thirimanne,c5928dec,0,0,0,0,0,,,,,,0,0,0
+564786,2012,Sri Lanka,4,DPMD Jayawardene,d18f9182,IK Pathan,5fa06777,HDRL Thirimanne,c5928dec,0,0,0,0,1,DPMD Jayawardene,d18f9182,,,lbw,0,0,0
+564786,2012,Sri Lanka,4,AD Mathews,896d78ad,IK Pathan,5fa06777,HDRL Thirimanne,c5928dec,0,0,0,0,0,,,,,,4,0,4
+564786,2012,Sri Lanka,4,AD Mathews,896d78ad,IK Pathan,5fa06777,HDRL Thirimanne,c5928dec,0,0,0,0,0,,,,,,0,0,0
+564786,2012,Sri Lanka,4,AD Mathews,896d78ad,IK Pathan,5fa06777,HDRL Thirimanne,c5928dec,0,0,0,0,0,,,,,,0,0,0
+564786,2012,Sri Lanka,4,AD Mathews,896d78ad,IK Pathan,5fa06777,HDRL Thirimanne,c5928dec,0,0,0,0,0,,,,,,0,0,0
+564786,2012,Sri Lanka,5,HDRL Thirimanne,c5928dec,AB Dinda,66b30f71,AD Mathews,896d78ad,0,0,0,0,0,,,,,,0,0,0
+564786,2012,Sri Lanka,5,HDRL Thirimanne,c5928dec,AB Dinda,66b30f71,AD Mathews,896d78ad,0,0,0,0,0,,,,,,0,0,0
+564786,2012,Sri Lanka,5,HDRL Thirimanne,c5928dec,AB Dinda,66b30f71,AD Mathews,896d78ad,0,0,0,0,0,,,,,,4,0,4
+564786,2012,Sri Lanka,5,HDRL Thirimanne,c5928dec,AB Dinda,66b30f71,AD Mathews,896d78ad,0,0,0,0,0,,,,,,5,0,5
+564786,2012,Sri Lanka,5,AD Mathews,896d78ad,AB Dinda,66b30f71,HDRL Thirimanne,c5928dec,0,0,0,0,0,,,,,,4,0,4
+564786,2012,Sri Lanka,5,AD Mathews,896d78ad,AB Dinda,66b30f71,HDRL Thirimanne,c5928dec,0,0,0,0,0,,,,,,0,0,0
+564786,2012,Sri Lanka,6,HDRL Thirimanne,c5928dec,V Kohli,ba607b88,AD Mathews,896d78ad,0,0,0,0,0,,,,,,0,0,0
+564786,2012,Sri Lanka,6,HDRL Thirimanne,c5928dec,V Kohli,ba607b88,AD Mathews,896d78ad,0,0,0,0,0,,,,,,1,0,1
+564786,2012,Sri Lanka,6,AD Mathews,896d78ad,V Kohli,ba607b88,HDRL Thirimanne,c5928dec,0,0,0,0,0,,,,,,0,0,0
+564786,2012,Sri Lanka,6,AD Mathews,896d78ad,V Kohli,ba607b88,HDRL Thirimanne,c5928dec,0,0,0,0,0,,,,,,0,0,0
+564786,2012,Sri Lanka,6,AD Mathews,896d78ad,V Kohli,ba607b88,HDRL Thirimanne,c5928dec,0,0,0,0,0,,,,,,1,0,1
+564786,2012,Sri Lanka,6,HDRL Thirimanne,c5928dec,V Kohli,ba607b88,AD Mathews,896d78ad,0,0,0,0,0,,,,,,2,0,2
+564786,2012,Sri Lanka,7,AD Mathews,896d78ad,RG Sharma,740742ef,HDRL Thirimanne,c5928dec,1,0,0,0,0,,,,,,0,1,1
+564786,2012,Sri Lanka,7,AD Mathews,896d78ad,RG Sharma,740742ef,HDRL Thirimanne,c5928dec,0,0,0,0,0,,,,,,0,0,0
+564786,2012,Sri Lanka,7,AD Mathews,896d78ad,RG Sharma,740742ef,HDRL Thirimanne,c5928dec,0,0,0,0,0,,,,,,1,0,1
+564786,2012,Sri Lanka,7,HDRL Thirimanne,c5928dec,RG Sharma,740742ef,AD Mathews,896d78ad,0,0,0,0,0,,,,,,1,0,1
+564786,2012,Sri Lanka,7,AD Mathews,896d78ad,RG Sharma,740742ef,HDRL Thirimanne,c5928dec,0,0,0,0,0,,,,,,1,0,1
+564786,2012,Sri Lanka,7,HDRL Thirimanne,c5928dec,RG Sharma,740742ef,AD Mathews,896d78ad,0,0,0,0,0,,,,,,4,0,4
+564786,2012,Sri Lanka,7,HDRL Thirimanne,c5928dec,RG Sharma,740742ef,AD Mathews,896d78ad,0,0,0,0,0,,,,,,1,0,1
+564786,2012,Sri Lanka,8,HDRL Thirimanne,c5928dec,V Kohli,ba607b88,AD Mathews,896d78ad,0,0,0,0,0,,,,,,1,0,1
+564786,2012,Sri Lanka,8,AD Mathews,896d78ad,V Kohli,ba607b88,HDRL Thirimanne,c5928dec,0,0,0,0,0,,,,,,0,0,0
+564786,2012,Sri Lanka,8,AD Mathews,896d78ad,V Kohli,ba607b88,HDRL Thirimanne,c5928dec,0,0,0,0,0,,,,,,0,0,0
+564786,2012,Sri Lanka,8,AD Mathews,896d78ad,V Kohli,ba607b88,HDRL Thirimanne,c5928dec,0,0,0,0,0,,,,,,0,0,0
+564786,2012,Sri Lanka,8,AD Mathews,896d78ad,V Kohli,ba607b88,HDRL Thirimanne,c5928dec,0,0,0,0,0,,,,,,1,0,1
+564786,2012,Sri Lanka,8,HDRL Thirimanne,c5928dec,V Kohli,ba607b88,AD Mathews,896d78ad,0,0,0,0,0,,,,,,1,0,1
+564786,2012,Sri Lanka,9,HDRL Thirimanne,c5928dec,R Ashwin,495d42a5,AD Mathews,896d78ad,0,0,0,0,1,HDRL Thirimanne,c5928dec,,,bowled,0,0,0
+564786,2012,Sri Lanka,9,BMAJ Mendis,9868bc75,R Ashwin,495d42a5,AD Mathews,896d78ad,0,0,0,0,0,,,,,,1,0,1
+564786,2012,Sri Lanka,9,AD Mathews,896d78ad,R Ashwin,495d42a5,BMAJ Mendis,9868bc75,0,0,0,0,0,,,,,,1,0,1
+564786,2012,Sri Lanka,9,BMAJ Mendis,9868bc75,R Ashwin,495d42a5,AD Mathews,896d78ad,0,0,0,0,0,,,,,,1,0,1
+564786,2012,Sri Lanka,9,AD Mathews,896d78ad,R Ashwin,495d42a5,BMAJ Mendis,9868bc75,0,0,0,0,0,,,,,,1,0,1
+564786,2012,Sri Lanka,9,BMAJ Mendis,9868bc75,R Ashwin,495d42a5,AD Mathews,896d78ad,0,0,0,0,0,,,,,,0,0,0
+564786,2012,Sri Lanka,10,AD Mathews,896d78ad,V Kohli,ba607b88,BMAJ Mendis,9868bc75,0,0,0,0,0,,,,,,1,0,1
+564786,2012,Sri Lanka,10,BMAJ Mendis,9868bc75,V Kohli,ba607b88,AD Mathews,896d78ad,0,0,0,0,0,,,,,,1,0,1
+564786,2012,Sri Lanka,10,AD Mathews,896d78ad,V Kohli,ba607b88,BMAJ Mendis,9868bc75,0,0,0,0,0,,,,,,0,0,0
+564786,2012,Sri Lanka,10,AD Mathews,896d78ad,V Kohli,ba607b88,BMAJ Mendis,9868bc75,0,0,0,0,0,,,,,,2,0,2
+564786,2012,Sri Lanka,10,AD Mathews,896d78ad,V Kohli,ba607b88,BMAJ Mendis,9868bc75,0,0,0,0,0,,,,,,1,0,1
+564786,2012,Sri Lanka,10,BMAJ Mendis,9868bc75,V Kohli,ba607b88,AD Mathews,896d78ad,0,0,0,0,0,,,,,,1,0,1
+564786,2012,Sri Lanka,11,BMAJ Mendis,9868bc75,R Ashwin,495d42a5,AD Mathews,896d78ad,0,0,0,0,0,,,,,,0,0,0
+564786,2012,Sri Lanka,11,BMAJ Mendis,9868bc75,R Ashwin,495d42a5,AD Mathews,896d78ad,0,0,0,0,0,,,,,,1,0,1
+564786,2012,Sri Lanka,11,AD Mathews,896d78ad,R Ashwin,495d42a5,BMAJ Mendis,9868bc75,0,0,0,0,0,,,,,,3,0,3
+564786,2012,Sri Lanka,11,BMAJ Mendis,9868bc75,R Ashwin,495d42a5,AD Mathews,896d78ad,0,0,0,0,0,,,,,,1,0,1
+564786,2012,Sri Lanka,11,AD Mathews,896d78ad,R Ashwin,495d42a5,BMAJ Mendis,9868bc75,0,0,0,0,0,,,,,,4,0,4
+564786,2012,Sri Lanka,11,AD Mathews,896d78ad,R Ashwin,495d42a5,BMAJ Mendis,9868bc75,0,0,0,0,0,,,,,,3,0,3
+564786,2012,Sri Lanka,12,AD Mathews,896d78ad,AB Dinda,66b30f71,BMAJ Mendis,9868bc75,0,0,0,0,0,,,,,,1,0,1
+564786,2012,Sri Lanka,12,BMAJ Mendis,9868bc75,AB Dinda,66b30f71,AD Mathews,896d78ad,0,0,0,0,0,,,,,,2,0,2
+564786,2012,Sri Lanka,12,BMAJ Mendis,9868bc75,AB Dinda,66b30f71,AD Mathews,896d78ad,0,0,0,0,0,,,,,,1,0,1
+564786,2012,Sri Lanka,12,AD Mathews,896d78ad,AB Dinda,66b30f71,BMAJ Mendis,9868bc75,0,0,0,0,0,,,,,,0,0,0
+564786,2012,Sri Lanka,12,AD Mathews,896d78ad,AB Dinda,66b30f71,BMAJ Mendis,9868bc75,0,0,0,0,0,,,,,,2,0,2
+564786,2012,Sri Lanka,12,AD Mathews,896d78ad,AB Dinda,66b30f71,BMAJ Mendis,9868bc75,0,0,0,0,1,AD Mathews,896d78ad,MS Dhoni,4a8a2e3b,caught,0,0,0
+564786,2012,Sri Lanka,13,BMAJ Mendis,9868bc75,R Ashwin,495d42a5,LD Chandimal,8dd02a98,0,0,0,0,0,,,,,,1,0,1
+564786,2012,Sri Lanka,13,LD Chandimal,8dd02a98,R Ashwin,495d42a5,BMAJ Mendis,9868bc75,0,0,0,0,0,,,,,,1,0,1
+564786,2012,Sri Lanka,13,BMAJ Mendis,9868bc75,R Ashwin,495d42a5,LD Chandimal,8dd02a98,0,0,0,0,0,,,,,,1,0,1
+564786,2012,Sri Lanka,13,LD Chandimal,8dd02a98,R Ashwin,495d42a5,BMAJ Mendis,9868bc75,0,0,0,0,0,,,,,,0,0,0
+564786,2012,Sri Lanka,13,LD Chandimal,8dd02a98,R Ashwin,495d42a5,BMAJ Mendis,9868bc75,0,0,0,0,0,,,,,,0,0,0
+564786,2012,Sri Lanka,13,LD Chandimal,8dd02a98,R Ashwin,495d42a5,BMAJ Mendis,9868bc75,0,0,0,0,0,,,,,,0,0,0
+564786,2012,Sri Lanka,14,BMAJ Mendis,9868bc75,UT Yadav,cc1e8c68,LD Chandimal,8dd02a98,0,0,0,0,0,,,,,,0,0,0
+564786,2012,Sri Lanka,14,BMAJ Mendis,9868bc75,UT Yadav,cc1e8c68,LD Chandimal,8dd02a98,0,0,0,0,0,,,,,,0,0,0
+564786,2012,Sri Lanka,14,BMAJ Mendis,9868bc75,UT Yadav,cc1e8c68,LD Chandimal,8dd02a98,1,0,0,0,0,,,,,,0,1,1
+564786,2012,Sri Lanka,14,BMAJ Mendis,9868bc75,UT Yadav,cc1e8c68,LD Chandimal,8dd02a98,0,0,0,0,1,BMAJ Mendis,9868bc75,AM Rahane,29e95537,caught,0,0,0
+564786,2012,Sri Lanka,14,NLTC Perera,0f12f9df,UT Yadav,cc1e8c68,LD Chandimal,8dd02a98,0,0,0,0,0,,,,,,0,0,0
+564786,2012,Sri Lanka,14,NLTC Perera,0f12f9df,UT Yadav,cc1e8c68,LD Chandimal,8dd02a98,0,0,0,0,0,,,,,,0,0,0
+564786,2012,Sri Lanka,14,NLTC Perera,0f12f9df,UT Yadav,cc1e8c68,LD Chandimal,8dd02a98,0,0,0,0,0,,,,,,1,0,1
+564786,2012,Sri Lanka,15,NLTC Perera,0f12f9df,R Ashwin,495d42a5,LD Chandimal,8dd02a98,1,0,0,0,0,,,,,,0,1,1
+564786,2012,Sri Lanka,15,NLTC Perera,0f12f9df,R Ashwin,495d42a5,LD Chandimal,8dd02a98,0,0,0,0,0,,,,,,0,0,0
+564786,2012,Sri Lanka,15,NLTC Perera,0f12f9df,R Ashwin,495d42a5,LD Chandimal,8dd02a98,0,0,0,0,1,NLTC Perera,0f12f9df,MK Tiwary,26e5cabf,run out,0,0,0
+564786,2012,Sri Lanka,15,RMS Eranga,8f7a598f,R Ashwin,495d42a5,LD Chandimal,8dd02a98,0,0,0,0,0,,,,,,1,0,1
+564786,2012,Sri Lanka,15,LD Chandimal,8dd02a98,R Ashwin,495d42a5,RMS Eranga,8f7a598f,0,0,0,0,0,,,,,,0,0,0
+564786,2012,Sri Lanka,15,LD Chandimal,8dd02a98,R Ashwin,495d42a5,RMS Eranga,8f7a598f,0,0,0,0,0,,,,,,1,0,1
+564786,2012,Sri Lanka,15,RMS Eranga,8f7a598f,R Ashwin,495d42a5,LD Chandimal,8dd02a98,0,0,0,0,0,,,,,,0,0,0
+564786,2012,Sri Lanka,16,LD Chandimal,8dd02a98,IK Pathan,5fa06777,RMS Eranga,8f7a598f,0,0,0,0,0,,,,,,1,0,1
+564786,2012,Sri Lanka,16,RMS Eranga,8f7a598f,IK Pathan,5fa06777,LD Chandimal,8dd02a98,0,0,0,0,0,,,,,,4,0,4
+564786,2012,Sri Lanka,16,RMS Eranga,8f7a598f,IK Pathan,5fa06777,LD Chandimal,8dd02a98,0,0,0,0,0,,,,,,0,0,0
+564786,2012,Sri Lanka,16,RMS Eranga,8f7a598f,IK Pathan,5fa06777,LD Chandimal,8dd02a98,1,0,0,0,0,,,,,,0,1,1
+564786,2012,Sri Lanka,16,RMS Eranga,8f7a598f,IK Pathan,5fa06777,LD Chandimal,8dd02a98,0,0,0,0,0,,,,,,1,0,1
+564786,2012,Sri Lanka,16,LD Chandimal,8dd02a98,IK Pathan,5fa06777,RMS Eranga,8f7a598f,0,0,0,0,0,,,,,,4,0,4
+564786,2012,Sri Lanka,16,LD Chandimal,8dd02a98,IK Pathan,5fa06777,RMS Eranga,8f7a598f,0,0,1,0,0,,,,,,0,1,1
+564786,2012,Sri Lanka,17,LD Chandimal,8dd02a98,AB Dinda,66b30f71,RMS Eranga,8f7a598f,0,0,0,0,0,,,,,,0,0,0
+564786,2012,Sri Lanka,17,LD Chandimal,8dd02a98,AB Dinda,66b30f71,RMS Eranga,8f7a598f,0,0,0,0,1,LD Chandimal,8dd02a98,V Kohli,ba607b88,caught,0,0,0
+564786,2012,Sri Lanka,17,RMS Eranga,8f7a598f,AB Dinda,66b30f71,SL Malinga,a12e1d51,0,0,0,0,0,,,,,,0,0,0
+564786,2012,Sri Lanka,17,RMS Eranga,8f7a598f,AB Dinda,66b30f71,SL Malinga,a12e1d51,0,0,0,0,1,RMS Eranga,8f7a598f,R Ashwin,495d42a5,caught,0,0,0
+564786,2012,Sri Lanka,17,SL Malinga,a12e1d51,AB Dinda,66b30f71,HMRKB Herath,d2fcce2f,0,0,0,0,0,,,,,,0,0,0
+564786,2012,Sri Lanka,17,SL Malinga,a12e1d51,AB Dinda,66b30f71,HMRKB Herath,d2fcce2f,0,0,0,0,1,SL Malinga,a12e1d51,MS Dhoni,4a8a2e3b,caught,0,0,0

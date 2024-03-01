@@ -1,0 +1,70 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1379695,2023,Malaysia,0,Wan Julia,bee0c85c,Vaishnave Mahesh,31c56f40,Ainna Hamizah Hashim,4c7744de,0,0,0,0,0,,,,,,1,0,1
+1379695,2023,Malaysia,0,Ainna Hamizah Hashim,4c7744de,Vaishnave Mahesh,31c56f40,Wan Julia,bee0c85c,0,0,0,0,1,Ainna Hamizah Hashim,4c7744de,J Peter,ce1e39da,stumped,0,0,0
+1379695,2023,Malaysia,0,Mas Elysa,857de42e,Vaishnave Mahesh,31c56f40,Wan Julia,bee0c85c,0,0,0,0,0,,,,,,4,0,4
+1379695,2023,Malaysia,0,Mas Elysa,857de42e,Vaishnave Mahesh,31c56f40,Wan Julia,bee0c85c,0,0,0,0,0,,,,,,0,0,0
+1379695,2023,Malaysia,0,Mas Elysa,857de42e,Vaishnave Mahesh,31c56f40,Wan Julia,bee0c85c,0,0,0,1,0,,,,,,0,1,1
+1379695,2023,Malaysia,0,Wan Julia,bee0c85c,Vaishnave Mahesh,31c56f40,Mas Elysa,857de42e,0,0,0,0,1,Wan Julia,bee0c85c,J Peter,ce1e39da,stumped,0,0,0
+1379695,2023,Malaysia,1,Mas Elysa,857de42e,Chaya Mughal,77b26349,Mahirah Izzati Ismail,b9b32e3c,0,1,0,0,0,,,,,,1,1,2
+1379695,2023,Malaysia,1,Mahirah Izzati Ismail,b9b32e3c,Chaya Mughal,77b26349,Mas Elysa,857de42e,0,0,0,0,0,,,,,,1,0,1
+1379695,2023,Malaysia,1,Mas Elysa,857de42e,Chaya Mughal,77b26349,Mahirah Izzati Ismail,b9b32e3c,0,0,0,0,0,,,,,,2,0,2
+1379695,2023,Malaysia,1,Mas Elysa,857de42e,Chaya Mughal,77b26349,Mahirah Izzati Ismail,b9b32e3c,0,0,0,0,0,,,,,,0,0,0
+1379695,2023,Malaysia,1,Mas Elysa,857de42e,Chaya Mughal,77b26349,Mahirah Izzati Ismail,b9b32e3c,2,0,0,0,0,,,,,,0,2,2
+1379695,2023,Malaysia,1,Mahirah Izzati Ismail,b9b32e3c,Chaya Mughal,77b26349,Mas Elysa,857de42e,0,0,0,0,0,,,,,,0,0,0
+1379695,2023,Malaysia,1,Mahirah Izzati Ismail,b9b32e3c,Chaya Mughal,77b26349,Mas Elysa,857de42e,0,0,0,0,0,,,,,,1,0,1
+1379695,2023,Malaysia,1,Mas Elysa,857de42e,Chaya Mughal,77b26349,Mahirah Izzati Ismail,b9b32e3c,1,0,0,0,0,,,,,,0,1,1
+1379695,2023,Malaysia,1,Mas Elysa,857de42e,Chaya Mughal,77b26349,Mahirah Izzati Ismail,b9b32e3c,0,0,0,0,0,,,,,,1,0,1
+1379695,2023,Malaysia,2,Mas Elysa,857de42e,KKN Egodage,5bb904d4,Mahirah Izzati Ismail,b9b32e3c,0,0,0,0,1,Mas Elysa,857de42e,,,bowled,0,0,0
+1379695,2023,Malaysia,2,Nur Arianna Natsya,4db4c8be,KKN Egodage,5bb904d4,Mahirah Izzati Ismail,b9b32e3c,0,0,0,0,0,,,,,,0,0,0
+1379695,2023,Malaysia,2,Nur Arianna Natsya,4db4c8be,KKN Egodage,5bb904d4,Mahirah Izzati Ismail,b9b32e3c,0,0,0,0,0,,,,,,0,0,0
+1379695,2023,Malaysia,2,Nur Arianna Natsya,4db4c8be,KKN Egodage,5bb904d4,Mahirah Izzati Ismail,b9b32e3c,0,0,0,0,0,,,,,,1,0,1
+1379695,2023,Malaysia,2,Mahirah Izzati Ismail,b9b32e3c,KKN Egodage,5bb904d4,Nur Arianna Natsya,4db4c8be,0,0,0,0,0,,,,,,0,0,0
+1379695,2023,Malaysia,2,Mahirah Izzati Ismail,b9b32e3c,KKN Egodage,5bb904d4,Nur Arianna Natsya,4db4c8be,1,0,0,0,0,,,,,,0,1,1
+1379695,2023,Malaysia,2,Mahirah Izzati Ismail,b9b32e3c,KKN Egodage,5bb904d4,Nur Arianna Natsya,4db4c8be,1,0,0,0,0,,,,,,0,1,1
+1379695,2023,Malaysia,2,Mahirah Izzati Ismail,b9b32e3c,KKN Egodage,5bb904d4,Nur Arianna Natsya,4db4c8be,0,0,0,0,0,,,,,,1,0,1
+1379695,2023,Malaysia,3,Mahirah Izzati Ismail,b9b32e3c,Vaishnave Mahesh,31c56f40,Nur Arianna Natsya,4db4c8be,0,0,0,0,0,,,,,,1,0,1
+1379695,2023,Malaysia,3,Nur Arianna Natsya,4db4c8be,Vaishnave Mahesh,31c56f40,Mahirah Izzati Ismail,b9b32e3c,0,0,0,0,1,Nur Arianna Natsya,4db4c8be,,,lbw,0,0,0
+1379695,2023,Malaysia,3,Aina Najwa,31453abb,Vaishnave Mahesh,31c56f40,Mahirah Izzati Ismail,b9b32e3c,0,0,0,0,0,,,,,,0,0,0
+1379695,2023,Malaysia,3,Aina Najwa,31453abb,Vaishnave Mahesh,31c56f40,Mahirah Izzati Ismail,b9b32e3c,0,0,0,0,0,,,,,,1,0,1
+1379695,2023,Malaysia,3,Mahirah Izzati Ismail,b9b32e3c,Vaishnave Mahesh,31c56f40,Aina Najwa,31453abb,0,0,0,0,0,,,,,,1,0,1
+1379695,2023,Malaysia,3,Aina Najwa,31453abb,Vaishnave Mahesh,31c56f40,Mahirah Izzati Ismail,b9b32e3c,0,0,0,0,0,,,,,,2,0,2
+1379695,2023,Malaysia,4,Mahirah Izzati Ismail,b9b32e3c,ER Oza,fdc6b34d,Aina Najwa,31453abb,0,0,0,0,1,Mahirah Izzati Ismail,b9b32e3c,J Peter,ce1e39da,stumped,0,0,0
+1379695,2023,Malaysia,4,Yusrina Yaakop,c74d14f1,ER Oza,fdc6b34d,Aina Najwa,31453abb,0,0,0,0,0,,,,,,4,0,4
+1379695,2023,Malaysia,4,Yusrina Yaakop,c74d14f1,ER Oza,fdc6b34d,Aina Najwa,31453abb,0,0,0,0,0,,,,,,2,0,2
+1379695,2023,Malaysia,4,Yusrina Yaakop,c74d14f1,ER Oza,fdc6b34d,Aina Najwa,31453abb,0,0,0,0,0,,,,,,0,0,0
+1379695,2023,Malaysia,4,Yusrina Yaakop,c74d14f1,ER Oza,fdc6b34d,Aina Najwa,31453abb,0,0,0,0,0,,,,,,2,0,2
+1379695,2023,Malaysia,4,Yusrina Yaakop,c74d14f1,ER Oza,fdc6b34d,Aina Najwa,31453abb,0,0,0,0,1,Yusrina Yaakop,c74d14f1,Rinitha Rajith,36ba7f0b,run out,1,0,1
+1379695,2023,United Arab Emirates,0,Theertha Satish,ee3dcb3f,Mahirah Izzati Ismail,b9b32e3c,ER Oza,fdc6b34d,0,0,0,0,0,,,,,,2,0,2
+1379695,2023,United Arab Emirates,0,Theertha Satish,ee3dcb3f,Mahirah Izzati Ismail,b9b32e3c,ER Oza,fdc6b34d,0,0,0,0,1,Theertha Satish,ee3dcb3f,Aisya Eleesa,2cd18a73,caught,0,0,0
+1379695,2023,United Arab Emirates,0,KKN Egodage,5bb904d4,Mahirah Izzati Ismail,b9b32e3c,ER Oza,fdc6b34d,0,0,0,0,0,,,,,,0,0,0
+1379695,2023,United Arab Emirates,0,KKN Egodage,5bb904d4,Mahirah Izzati Ismail,b9b32e3c,ER Oza,fdc6b34d,0,0,0,0,0,,,,,,0,0,0
+1379695,2023,United Arab Emirates,0,KKN Egodage,5bb904d4,Mahirah Izzati Ismail,b9b32e3c,ER Oza,fdc6b34d,0,0,0,0,0,,,,,,4,0,4
+1379695,2023,United Arab Emirates,0,KKN Egodage,5bb904d4,Mahirah Izzati Ismail,b9b32e3c,ER Oza,fdc6b34d,1,0,0,0,0,,,,,,0,1,1
+1379695,2023,United Arab Emirates,0,KKN Egodage,5bb904d4,Mahirah Izzati Ismail,b9b32e3c,ER Oza,fdc6b34d,0,0,0,0,0,,,,,,0,0,0
+1379695,2023,United Arab Emirates,1,ER Oza,fdc6b34d,Ainna Hamizah Hashim,4c7744de,KKN Egodage,5bb904d4,0,0,0,0,0,,,,,,1,0,1
+1379695,2023,United Arab Emirates,1,KKN Egodage,5bb904d4,Ainna Hamizah Hashim,4c7744de,ER Oza,fdc6b34d,0,0,0,0,0,,,,,,0,0,0
+1379695,2023,United Arab Emirates,1,KKN Egodage,5bb904d4,Ainna Hamizah Hashim,4c7744de,ER Oza,fdc6b34d,0,0,1,0,0,,,,,,0,1,1
+1379695,2023,United Arab Emirates,1,ER Oza,fdc6b34d,Ainna Hamizah Hashim,4c7744de,KKN Egodage,5bb904d4,0,0,0,0,0,,,,,,2,0,2
+1379695,2023,United Arab Emirates,1,ER Oza,fdc6b34d,Ainna Hamizah Hashim,4c7744de,KKN Egodage,5bb904d4,1,0,0,0,0,,,,,,0,1,1
+1379695,2023,United Arab Emirates,1,ER Oza,fdc6b34d,Ainna Hamizah Hashim,4c7744de,KKN Egodage,5bb904d4,0,0,0,0,0,,,,,,1,0,1
+1379695,2023,United Arab Emirates,1,KKN Egodage,5bb904d4,Ainna Hamizah Hashim,4c7744de,ER Oza,fdc6b34d,0,0,0,0,0,,,,,,1,0,1
+1379695,2023,United Arab Emirates,2,KKN Egodage,5bb904d4,Mahirah Izzati Ismail,b9b32e3c,ER Oza,fdc6b34d,0,0,0,0,0,,,,,,1,0,1
+1379695,2023,United Arab Emirates,2,ER Oza,fdc6b34d,Mahirah Izzati Ismail,b9b32e3c,KKN Egodage,5bb904d4,0,0,0,0,1,ER Oza,fdc6b34d,,,caught and bowled,0,0,0
+1379695,2023,United Arab Emirates,2,Chaya Mughal,77b26349,Mahirah Izzati Ismail,b9b32e3c,KKN Egodage,5bb904d4,0,0,0,0,0,,,,,,1,0,1
+1379695,2023,United Arab Emirates,2,KKN Egodage,5bb904d4,Mahirah Izzati Ismail,b9b32e3c,Chaya Mughal,77b26349,0,0,0,0,0,,,,,,1,0,1
+1379695,2023,United Arab Emirates,2,Chaya Mughal,77b26349,Mahirah Izzati Ismail,b9b32e3c,KKN Egodage,5bb904d4,0,0,0,0,0,,,,,,1,0,1
+1379695,2023,United Arab Emirates,2,KKN Egodage,5bb904d4,Mahirah Izzati Ismail,b9b32e3c,Chaya Mughal,77b26349,0,0,0,0,1,KKN Egodage,5bb904d4,Aisya Eleesa,2cd18a73,caught,0,0,0
+1379695,2023,United Arab Emirates,3,Chaya Mughal,77b26349,Aisya Eleesa,2cd18a73,Khushi Sharma,a259c414,0,0,0,0,0,,,,,,1,0,1
+1379695,2023,United Arab Emirates,3,Khushi Sharma,a259c414,Aisya Eleesa,2cd18a73,Chaya Mughal,77b26349,0,0,0,0,0,,,,,,0,0,0
+1379695,2023,United Arab Emirates,3,Khushi Sharma,a259c414,Aisya Eleesa,2cd18a73,Chaya Mughal,77b26349,1,0,0,0,0,,,,,,0,1,1
+1379695,2023,United Arab Emirates,3,Khushi Sharma,a259c414,Aisya Eleesa,2cd18a73,Chaya Mughal,77b26349,0,0,0,0,1,Khushi Sharma,a259c414,,,bowled,0,0,0
+1379695,2023,United Arab Emirates,3,S Dharnidharka,f8b50da3,Aisya Eleesa,2cd18a73,Chaya Mughal,77b26349,0,0,0,0,0,,,,,,0,0,0
+1379695,2023,United Arab Emirates,3,S Dharnidharka,f8b50da3,Aisya Eleesa,2cd18a73,Chaya Mughal,77b26349,1,0,0,0,0,,,,,,0,1,1
+1379695,2023,United Arab Emirates,3,S Dharnidharka,f8b50da3,Aisya Eleesa,2cd18a73,Chaya Mughal,77b26349,0,0,0,0,0,,,,,,1,0,1
+1379695,2023,United Arab Emirates,3,Chaya Mughal,77b26349,Aisya Eleesa,2cd18a73,S Dharnidharka,f8b50da3,0,0,0,0,0,,,,,,4,0,4
+1379695,2023,United Arab Emirates,4,S Dharnidharka,f8b50da3,Ainna Hamizah Hashim,4c7744de,Chaya Mughal,77b26349,1,0,0,0,0,,,,,,0,1,1
+1379695,2023,United Arab Emirates,4,S Dharnidharka,f8b50da3,Ainna Hamizah Hashim,4c7744de,Chaya Mughal,77b26349,0,0,0,0,1,S Dharnidharka,f8b50da3,Mas Elysa,857de42e,caught,0,0,0
+1379695,2023,United Arab Emirates,4,Rinitha Rajith,36ba7f0b,Ainna Hamizah Hashim,4c7744de,Chaya Mughal,77b26349,0,0,0,0,0,,,,,,4,0,4
+1379695,2023,United Arab Emirates,4,Rinitha Rajith,36ba7f0b,Ainna Hamizah Hashim,4c7744de,Chaya Mughal,77b26349,0,0,0,0,0,,,,,,1,0,1
+1379695,2023,United Arab Emirates,4,Chaya Mughal,77b26349,Ainna Hamizah Hashim,4c7744de,Rinitha Rajith,36ba7f0b,0,0,0,0,0,,,,,,1,0,1
+1379695,2023,United Arab Emirates,4,Rinitha Rajith,36ba7f0b,Ainna Hamizah Hashim,4c7744de,Chaya Mughal,77b26349,0,0,0,0,0,,,,,,2,0,2

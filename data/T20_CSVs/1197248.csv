@@ -1,0 +1,265 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1197248,2019,Hong Kong,0,Bella Poon,84dc77ad,N Tokizawa,0e818f80,Y Daswani,2038a273,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Hong Kong,0,Bella Poon,84dc77ad,N Tokizawa,0e818f80,Y Daswani,2038a273,0,0,0,0,1,Bella Poon,84dc77ad,A Kanada,ab50174b,caught,0,0,0
+1197248,2019,Hong Kong,0,Y Daswani,2038a273,N Tokizawa,0e818f80,YS To,73db1940,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Hong Kong,0,Y Daswani,2038a273,N Tokizawa,0e818f80,YS To,73db1940,0,0,0,0,0,,,,,,1,0,1
+1197248,2019,Hong Kong,0,YS To,73db1940,N Tokizawa,0e818f80,Y Daswani,2038a273,0,0,0,0,0,,,,,,1,0,1
+1197248,2019,Hong Kong,0,Y Daswani,2038a273,N Tokizawa,0e818f80,YS To,73db1940,1,0,0,0,0,,,,,,0,1,1
+1197248,2019,Hong Kong,0,Y Daswani,2038a273,N Tokizawa,0e818f80,YS To,73db1940,0,0,0,0,1,Y Daswani,2038a273,,,run out,0,0,0
+1197248,2019,Hong Kong,1,YS To,73db1940,M Kanno,97fc39fd,KY Chan,6348c6e9,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Hong Kong,1,YS To,73db1940,M Kanno,97fc39fd,KY Chan,6348c6e9,0,0,0,0,0,,,,,,1,0,1
+1197248,2019,Hong Kong,1,KY Chan,6348c6e9,M Kanno,97fc39fd,YS To,73db1940,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Hong Kong,1,KY Chan,6348c6e9,M Kanno,97fc39fd,YS To,73db1940,0,0,0,0,1,KY Chan,6348c6e9,M Shiraishi,79b4af2d,caught,0,0,0
+1197248,2019,Hong Kong,1,YS To,73db1940,M Kanno,97fc39fd,M Hill,bf5e7711,1,0,0,0,0,,,,,,0,1,1
+1197248,2019,Hong Kong,1,YS To,73db1940,M Kanno,97fc39fd,M Hill,bf5e7711,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Hong Kong,1,YS To,73db1940,M Kanno,97fc39fd,M Hill,bf5e7711,0,0,0,0,0,,,,,,1,0,1
+1197248,2019,Hong Kong,2,YS To,73db1940,N Tokizawa,0e818f80,M Hill,bf5e7711,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Hong Kong,2,YS To,73db1940,N Tokizawa,0e818f80,M Hill,bf5e7711,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Hong Kong,2,YS To,73db1940,N Tokizawa,0e818f80,M Hill,bf5e7711,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Hong Kong,2,YS To,73db1940,N Tokizawa,0e818f80,M Hill,bf5e7711,0,0,0,0,0,,,,,,1,0,1
+1197248,2019,Hong Kong,2,M Hill,bf5e7711,N Tokizawa,0e818f80,YS To,73db1940,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Hong Kong,2,M Hill,bf5e7711,N Tokizawa,0e818f80,YS To,73db1940,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Hong Kong,3,YS To,73db1940,M Kanno,97fc39fd,M Hill,bf5e7711,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Hong Kong,3,YS To,73db1940,M Kanno,97fc39fd,M Hill,bf5e7711,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Hong Kong,3,YS To,73db1940,M Kanno,97fc39fd,M Hill,bf5e7711,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Hong Kong,3,YS To,73db1940,M Kanno,97fc39fd,M Hill,bf5e7711,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Hong Kong,3,YS To,73db1940,M Kanno,97fc39fd,M Hill,bf5e7711,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Hong Kong,3,YS To,73db1940,M Kanno,97fc39fd,M Hill,bf5e7711,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Hong Kong,4,M Hill,bf5e7711,N Tokizawa,0e818f80,YS To,73db1940,0,0,0,0,0,,,,,,1,0,1
+1197248,2019,Hong Kong,4,YS To,73db1940,N Tokizawa,0e818f80,M Hill,bf5e7711,0,0,0,0,0,,,,,,2,0,2
+1197248,2019,Hong Kong,4,YS To,73db1940,N Tokizawa,0e818f80,M Hill,bf5e7711,0,0,0,0,0,,,,,,1,0,1
+1197248,2019,Hong Kong,4,M Hill,bf5e7711,N Tokizawa,0e818f80,YS To,73db1940,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Hong Kong,4,M Hill,bf5e7711,N Tokizawa,0e818f80,YS To,73db1940,0,0,0,0,0,,,,,,2,0,2
+1197248,2019,Hong Kong,4,M Hill,bf5e7711,N Tokizawa,0e818f80,YS To,73db1940,0,0,0,0,0,,,,,,1,0,1
+1197248,2019,Hong Kong,5,M Hill,bf5e7711,M Kanno,97fc39fd,YS To,73db1940,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Hong Kong,5,M Hill,bf5e7711,M Kanno,97fc39fd,YS To,73db1940,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Hong Kong,5,M Hill,bf5e7711,M Kanno,97fc39fd,YS To,73db1940,0,0,0,0,0,,,,,,4,0,4
+1197248,2019,Hong Kong,5,M Hill,bf5e7711,M Kanno,97fc39fd,YS To,73db1940,1,0,0,0,0,,,,,,0,1,1
+1197248,2019,Hong Kong,5,M Hill,bf5e7711,M Kanno,97fc39fd,YS To,73db1940,0,0,0,0,1,M Hill,bf5e7711,,,lbw,0,0,0
+1197248,2019,Hong Kong,5,Shanzeen Shahzad,ce291858,M Kanno,97fc39fd,YS To,73db1940,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Hong Kong,5,Shanzeen Shahzad,ce291858,M Kanno,97fc39fd,YS To,73db1940,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Hong Kong,6,YS To,73db1940,S Miyaji,3aca2ed5,Shanzeen Shahzad,ce291858,0,0,0,0,0,,,,,,1,0,1
+1197248,2019,Hong Kong,6,Shanzeen Shahzad,ce291858,S Miyaji,3aca2ed5,YS To,73db1940,0,0,0,0,0,,,,,,1,0,1
+1197248,2019,Hong Kong,6,YS To,73db1940,S Miyaji,3aca2ed5,Shanzeen Shahzad,ce291858,0,0,0,0,0,,,,,,2,0,2
+1197248,2019,Hong Kong,6,YS To,73db1940,S Miyaji,3aca2ed5,Shanzeen Shahzad,ce291858,0,0,0,0,0,,,,,,1,0,1
+1197248,2019,Hong Kong,6,Shanzeen Shahzad,ce291858,S Miyaji,3aca2ed5,YS To,73db1940,0,0,0,0,0,,,,,,1,0,1
+1197248,2019,Hong Kong,6,YS To,73db1940,S Miyaji,3aca2ed5,Shanzeen Shahzad,ce291858,0,0,0,0,1,YS To,73db1940,A Kano,e92841c0,caught,0,0,0
+1197248,2019,Hong Kong,7,Shanzeen Shahzad,ce291858,K Nanno,09c30c43,Ruchitha Venkatesh,106135f5,1,0,0,0,0,,,,,,0,1,1
+1197248,2019,Hong Kong,7,Shanzeen Shahzad,ce291858,K Nanno,09c30c43,Ruchitha Venkatesh,106135f5,1,0,0,0,0,,,,,,0,1,1
+1197248,2019,Hong Kong,7,Shanzeen Shahzad,ce291858,K Nanno,09c30c43,Ruchitha Venkatesh,106135f5,1,0,0,0,0,,,,,,0,1,1
+1197248,2019,Hong Kong,7,Shanzeen Shahzad,ce291858,K Nanno,09c30c43,Ruchitha Venkatesh,106135f5,0,0,0,0,1,Shanzeen Shahzad,ce291858,,,bowled,0,0,0
+1197248,2019,Hong Kong,7,M Yousaf,e2e5b178,K Nanno,09c30c43,Ruchitha Venkatesh,106135f5,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Hong Kong,7,M Yousaf,e2e5b178,K Nanno,09c30c43,Ruchitha Venkatesh,106135f5,1,0,0,0,0,,,,,,0,1,1
+1197248,2019,Hong Kong,7,M Yousaf,e2e5b178,K Nanno,09c30c43,Ruchitha Venkatesh,106135f5,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Hong Kong,7,M Yousaf,e2e5b178,K Nanno,09c30c43,Ruchitha Venkatesh,106135f5,0,0,0,0,0,,,,,,1,0,1
+1197248,2019,Hong Kong,7,Ruchitha Venkatesh,106135f5,K Nanno,09c30c43,M Yousaf,e2e5b178,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Hong Kong,7,Ruchitha Venkatesh,106135f5,K Nanno,09c30c43,M Yousaf,e2e5b178,0,0,0,0,0,,,,,,1,0,1
+1197248,2019,Hong Kong,8,Ruchitha Venkatesh,106135f5,S Miyaji,3aca2ed5,M Yousaf,e2e5b178,0,0,0,0,0,,,,,,1,0,1
+1197248,2019,Hong Kong,8,M Yousaf,e2e5b178,S Miyaji,3aca2ed5,Ruchitha Venkatesh,106135f5,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Hong Kong,8,M Yousaf,e2e5b178,S Miyaji,3aca2ed5,Ruchitha Venkatesh,106135f5,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Hong Kong,8,M Yousaf,e2e5b178,S Miyaji,3aca2ed5,Ruchitha Venkatesh,106135f5,0,0,0,0,0,,,,,,1,0,1
+1197248,2019,Hong Kong,8,Ruchitha Venkatesh,106135f5,S Miyaji,3aca2ed5,M Yousaf,e2e5b178,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Hong Kong,8,Ruchitha Venkatesh,106135f5,S Miyaji,3aca2ed5,M Yousaf,e2e5b178,0,0,0,0,0,,,,,,2,0,2
+1197248,2019,Hong Kong,9,M Yousaf,e2e5b178,M Yanagida,f20e7e23,Ruchitha Venkatesh,106135f5,1,0,0,0,0,,,,,,0,1,1
+1197248,2019,Hong Kong,9,M Yousaf,e2e5b178,M Yanagida,f20e7e23,Ruchitha Venkatesh,106135f5,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Hong Kong,9,M Yousaf,e2e5b178,M Yanagida,f20e7e23,Ruchitha Venkatesh,106135f5,0,0,0,0,0,,,,,,1,0,1
+1197248,2019,Hong Kong,9,Ruchitha Venkatesh,106135f5,M Yanagida,f20e7e23,M Yousaf,e2e5b178,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Hong Kong,9,Ruchitha Venkatesh,106135f5,M Yanagida,f20e7e23,M Yousaf,e2e5b178,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Hong Kong,9,Ruchitha Venkatesh,106135f5,M Yanagida,f20e7e23,M Yousaf,e2e5b178,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Hong Kong,9,Ruchitha Venkatesh,106135f5,M Yanagida,f20e7e23,M Yousaf,e2e5b178,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Hong Kong,10,M Yousaf,e2e5b178,S Miyaji,3aca2ed5,Ruchitha Venkatesh,106135f5,0,0,0,0,0,,,,,,1,0,1
+1197248,2019,Hong Kong,10,Ruchitha Venkatesh,106135f5,S Miyaji,3aca2ed5,M Yousaf,e2e5b178,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Hong Kong,10,Ruchitha Venkatesh,106135f5,S Miyaji,3aca2ed5,M Yousaf,e2e5b178,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Hong Kong,10,Ruchitha Venkatesh,106135f5,S Miyaji,3aca2ed5,M Yousaf,e2e5b178,0,0,0,0,0,,,,,,1,0,1
+1197248,2019,Hong Kong,10,M Yousaf,e2e5b178,S Miyaji,3aca2ed5,Ruchitha Venkatesh,106135f5,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Hong Kong,10,M Yousaf,e2e5b178,S Miyaji,3aca2ed5,Ruchitha Venkatesh,106135f5,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Hong Kong,11,Ruchitha Venkatesh,106135f5,M Yanagida,f20e7e23,M Yousaf,e2e5b178,0,1,0,0,0,,,,,,1,1,2
+1197248,2019,Hong Kong,11,M Yousaf,e2e5b178,M Yanagida,f20e7e23,Ruchitha Venkatesh,106135f5,0,0,0,0,0,,,,,,1,0,1
+1197248,2019,Hong Kong,11,Ruchitha Venkatesh,106135f5,M Yanagida,f20e7e23,M Yousaf,e2e5b178,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Hong Kong,11,Ruchitha Venkatesh,106135f5,M Yanagida,f20e7e23,M Yousaf,e2e5b178,0,1,0,0,0,,,,,,0,1,1
+1197248,2019,Hong Kong,11,Ruchitha Venkatesh,106135f5,M Yanagida,f20e7e23,M Yousaf,e2e5b178,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Hong Kong,11,Ruchitha Venkatesh,106135f5,M Yanagida,f20e7e23,M Yousaf,e2e5b178,0,0,0,0,0,,,,,,1,0,1
+1197248,2019,Hong Kong,11,M Yousaf,e2e5b178,M Yanagida,f20e7e23,Ruchitha Venkatesh,106135f5,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Hong Kong,11,M Yousaf,e2e5b178,M Yanagida,f20e7e23,Ruchitha Venkatesh,106135f5,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Hong Kong,12,Ruchitha Venkatesh,106135f5,S Miyaji,3aca2ed5,M Yousaf,e2e5b178,0,0,0,0,0,,,,,,4,0,4
+1197248,2019,Hong Kong,12,Ruchitha Venkatesh,106135f5,S Miyaji,3aca2ed5,M Yousaf,e2e5b178,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Hong Kong,12,Ruchitha Venkatesh,106135f5,S Miyaji,3aca2ed5,M Yousaf,e2e5b178,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Hong Kong,12,Ruchitha Venkatesh,106135f5,S Miyaji,3aca2ed5,M Yousaf,e2e5b178,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Hong Kong,12,Ruchitha Venkatesh,106135f5,S Miyaji,3aca2ed5,M Yousaf,e2e5b178,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Hong Kong,12,Ruchitha Venkatesh,106135f5,S Miyaji,3aca2ed5,M Yousaf,e2e5b178,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Hong Kong,13,M Yousaf,e2e5b178,M Kanno,97fc39fd,Ruchitha Venkatesh,106135f5,0,0,0,0,0,,,,,,1,0,1
+1197248,2019,Hong Kong,13,Ruchitha Venkatesh,106135f5,M Kanno,97fc39fd,M Yousaf,e2e5b178,1,0,0,0,0,,,,,,0,1,1
+1197248,2019,Hong Kong,13,Ruchitha Venkatesh,106135f5,M Kanno,97fc39fd,M Yousaf,e2e5b178,0,0,0,0,0,,,,,,2,0,2
+1197248,2019,Hong Kong,13,Ruchitha Venkatesh,106135f5,M Kanno,97fc39fd,M Yousaf,e2e5b178,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Hong Kong,13,Ruchitha Venkatesh,106135f5,M Kanno,97fc39fd,M Yousaf,e2e5b178,0,0,0,0,0,,,,,,1,0,1
+1197248,2019,Hong Kong,13,M Yousaf,e2e5b178,M Kanno,97fc39fd,Ruchitha Venkatesh,106135f5,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Hong Kong,13,M Yousaf,e2e5b178,M Kanno,97fc39fd,Ruchitha Venkatesh,106135f5,0,0,0,0,0,,,,,,1,0,1
+1197248,2019,Hong Kong,14,M Yousaf,e2e5b178,M Yanagida,f20e7e23,Ruchitha Venkatesh,106135f5,0,0,0,0,0,,,,,,1,0,1
+1197248,2019,Hong Kong,14,Ruchitha Venkatesh,106135f5,M Yanagida,f20e7e23,M Yousaf,e2e5b178,0,0,0,0,0,,,,,,1,0,1
+1197248,2019,Hong Kong,14,M Yousaf,e2e5b178,M Yanagida,f20e7e23,Ruchitha Venkatesh,106135f5,0,0,0,0,0,,,,,,2,0,2
+1197248,2019,Hong Kong,14,M Yousaf,e2e5b178,M Yanagida,f20e7e23,Ruchitha Venkatesh,106135f5,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Hong Kong,14,M Yousaf,e2e5b178,M Yanagida,f20e7e23,Ruchitha Venkatesh,106135f5,0,0,0,0,1,M Yousaf,e2e5b178,A Kanada,ab50174b,caught,0,0,0
+1197248,2019,Hong Kong,14,Ruchitha Venkatesh,106135f5,M Yanagida,f20e7e23,Hiu Ying Cheung,9efce9fd,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Hong Kong,15,Hiu Ying Cheung,9efce9fd,R Endo,9235396c,Ruchitha Venkatesh,106135f5,0,0,0,0,0,,,,,,1,0,1
+1197248,2019,Hong Kong,15,Ruchitha Venkatesh,106135f5,R Endo,9235396c,Hiu Ying Cheung,9efce9fd,1,0,0,0,0,,,,,,0,1,1
+1197248,2019,Hong Kong,15,Ruchitha Venkatesh,106135f5,R Endo,9235396c,Hiu Ying Cheung,9efce9fd,0,0,0,0,0,,,,,,1,0,1
+1197248,2019,Hong Kong,15,Hiu Ying Cheung,9efce9fd,R Endo,9235396c,Ruchitha Venkatesh,106135f5,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Hong Kong,15,Hiu Ying Cheung,9efce9fd,R Endo,9235396c,Ruchitha Venkatesh,106135f5,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Hong Kong,15,Hiu Ying Cheung,9efce9fd,R Endo,9235396c,Ruchitha Venkatesh,106135f5,0,0,0,0,0,,,,,,4,0,4
+1197248,2019,Hong Kong,15,Hiu Ying Cheung,9efce9fd,R Endo,9235396c,Ruchitha Venkatesh,106135f5,3,0,0,0,0,,,,,,0,3,3
+1197248,2019,Hong Kong,15,Hiu Ying Cheung,9efce9fd,R Endo,9235396c,Ruchitha Venkatesh,106135f5,0,1,0,0,0,,,,,,1,1,2
+1197248,2019,Hong Kong,15,Ruchitha Venkatesh,106135f5,R Endo,9235396c,Hiu Ying Cheung,9efce9fd,0,0,0,0,0,,,,,,1,0,1
+1197248,2019,Hong Kong,16,Ruchitha Venkatesh,106135f5,M Yanagida,f20e7e23,Hiu Ying Cheung,9efce9fd,0,0,0,0,0,,,,,,2,0,2
+1197248,2019,Hong Kong,16,Ruchitha Venkatesh,106135f5,M Yanagida,f20e7e23,Hiu Ying Cheung,9efce9fd,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Hong Kong,16,Ruchitha Venkatesh,106135f5,M Yanagida,f20e7e23,Hiu Ying Cheung,9efce9fd,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Hong Kong,16,Ruchitha Venkatesh,106135f5,M Yanagida,f20e7e23,Hiu Ying Cheung,9efce9fd,1,0,0,0,0,,,,,,0,1,1
+1197248,2019,Hong Kong,16,Ruchitha Venkatesh,106135f5,M Yanagida,f20e7e23,Hiu Ying Cheung,9efce9fd,0,0,0,0,0,,,,,,1,0,1
+1197248,2019,Hong Kong,16,Hiu Ying Cheung,9efce9fd,M Yanagida,f20e7e23,Ruchitha Venkatesh,106135f5,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Hong Kong,16,Hiu Ying Cheung,9efce9fd,M Yanagida,f20e7e23,Ruchitha Venkatesh,106135f5,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Hong Kong,17,Ruchitha Venkatesh,106135f5,A Kanada,ab50174b,Hiu Ying Cheung,9efce9fd,0,0,0,0,0,,,,,,2,0,2
+1197248,2019,Hong Kong,17,Ruchitha Venkatesh,106135f5,A Kanada,ab50174b,Hiu Ying Cheung,9efce9fd,0,0,0,0,0,,,,,,1,0,1
+1197248,2019,Hong Kong,17,Hiu Ying Cheung,9efce9fd,A Kanada,ab50174b,Ruchitha Venkatesh,106135f5,0,0,0,0,0,,,,,,1,0,1
+1197248,2019,Hong Kong,17,Ruchitha Venkatesh,106135f5,A Kanada,ab50174b,Hiu Ying Cheung,9efce9fd,0,0,0,0,1,Hiu Ying Cheung,9efce9fd,,,run out,0,0,0
+1197248,2019,Hong Kong,17,Ruchitha Venkatesh,106135f5,A Kanada,ab50174b,Chan Ka Man,c4022bff,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Hong Kong,17,Ruchitha Venkatesh,106135f5,A Kanada,ab50174b,Chan Ka Man,c4022bff,0,0,0,0,0,,,,,,1,0,1
+1197248,2019,Hong Kong,18,Ruchitha Venkatesh,106135f5,N Tokizawa,0e818f80,Chan Ka Man,c4022bff,1,0,0,0,0,,,,,,0,1,1
+1197248,2019,Hong Kong,18,Ruchitha Venkatesh,106135f5,N Tokizawa,0e818f80,Chan Ka Man,c4022bff,0,0,0,0,0,,,,,,1,0,1
+1197248,2019,Hong Kong,18,Chan Ka Man,c4022bff,N Tokizawa,0e818f80,Ruchitha Venkatesh,106135f5,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Hong Kong,18,Chan Ka Man,c4022bff,N Tokizawa,0e818f80,Ruchitha Venkatesh,106135f5,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Hong Kong,18,Chan Ka Man,c4022bff,N Tokizawa,0e818f80,Ruchitha Venkatesh,106135f5,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Hong Kong,18,Chan Ka Man,c4022bff,N Tokizawa,0e818f80,Ruchitha Venkatesh,106135f5,0,0,0,0,0,,,,,,4,0,4
+1197248,2019,Hong Kong,18,Chan Ka Man,c4022bff,N Tokizawa,0e818f80,Ruchitha Venkatesh,106135f5,1,0,0,0,0,,,,,,0,1,1
+1197248,2019,Hong Kong,18,Chan Ka Man,c4022bff,N Tokizawa,0e818f80,Ruchitha Venkatesh,106135f5,0,0,0,0,0,,,,,,1,0,1
+1197248,2019,Hong Kong,19,Chan Ka Man,c4022bff,A Kanada,ab50174b,Ruchitha Venkatesh,106135f5,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Hong Kong,19,Chan Ka Man,c4022bff,A Kanada,ab50174b,Ruchitha Venkatesh,106135f5,0,0,0,0,1,Chan Ka Man,c4022bff,,,lbw,0,0,0
+1197248,2019,Hong Kong,19,M Wai Siu,74eecff4,A Kanada,ab50174b,Ruchitha Venkatesh,106135f5,1,0,0,0,0,,,,,,0,1,1
+1197248,2019,Hong Kong,19,M Wai Siu,74eecff4,A Kanada,ab50174b,Ruchitha Venkatesh,106135f5,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Hong Kong,19,M Wai Siu,74eecff4,A Kanada,ab50174b,Ruchitha Venkatesh,106135f5,1,0,0,0,0,,,,,,0,1,1
+1197248,2019,Hong Kong,19,M Wai Siu,74eecff4,A Kanada,ab50174b,Ruchitha Venkatesh,106135f5,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Hong Kong,19,M Wai Siu,74eecff4,A Kanada,ab50174b,Ruchitha Venkatesh,106135f5,0,0,0,0,1,Ruchitha Venkatesh,106135f5,,,run out,1,0,1
+1197248,2019,Japan,0,Erika Oda,4c8a1197,M Wai Siu,74eecff4,A Kitayama,34c205b1,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Japan,0,Erika Oda,4c8a1197,M Wai Siu,74eecff4,A Kitayama,34c205b1,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Japan,0,Erika Oda,4c8a1197,M Wai Siu,74eecff4,A Kitayama,34c205b1,0,0,0,0,0,,,,,,1,0,1
+1197248,2019,Japan,0,A Kitayama,34c205b1,M Wai Siu,74eecff4,Erika Oda,4c8a1197,0,0,0,0,1,A Kitayama,34c205b1,KY Chan,6348c6e9,caught,0,0,0
+1197248,2019,Japan,0,M Kanno,97fc39fd,M Wai Siu,74eecff4,Erika Oda,4c8a1197,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Japan,0,M Kanno,97fc39fd,M Wai Siu,74eecff4,Erika Oda,4c8a1197,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Japan,1,Erika Oda,4c8a1197,M Hill,bf5e7711,M Kanno,97fc39fd,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Japan,1,Erika Oda,4c8a1197,M Hill,bf5e7711,M Kanno,97fc39fd,2,0,0,0,0,,,,,,0,2,2
+1197248,2019,Japan,1,M Kanno,97fc39fd,M Hill,bf5e7711,Erika Oda,4c8a1197,2,0,0,0,0,,,,,,0,2,2
+1197248,2019,Japan,1,Erika Oda,4c8a1197,M Hill,bf5e7711,M Kanno,97fc39fd,0,1,0,1,0,,,,,,0,2,2
+1197248,2019,Japan,1,M Kanno,97fc39fd,M Hill,bf5e7711,Erika Oda,4c8a1197,2,0,0,0,0,,,,,,0,2,2
+1197248,2019,Japan,1,Erika Oda,4c8a1197,M Hill,bf5e7711,M Kanno,97fc39fd,0,0,0,0,0,,,,,,2,0,2
+1197248,2019,Japan,1,Erika Oda,4c8a1197,M Hill,bf5e7711,M Kanno,97fc39fd,0,0,0,0,0,,,,,,4,0,4
+1197248,2019,Japan,1,Erika Oda,4c8a1197,M Hill,bf5e7711,M Kanno,97fc39fd,1,0,0,0,0,,,,,,0,1,1
+1197248,2019,Japan,1,Erika Oda,4c8a1197,M Hill,bf5e7711,M Kanno,97fc39fd,0,0,0,0,0,,,,,,4,0,4
+1197248,2019,Japan,1,Erika Oda,4c8a1197,M Hill,bf5e7711,M Kanno,97fc39fd,1,0,0,0,0,,,,,,0,1,1
+1197248,2019,Japan,1,Erika Oda,4c8a1197,M Hill,bf5e7711,M Kanno,97fc39fd,0,0,0,0,0,,,,,,4,0,4
+1197248,2019,Japan,1,Erika Oda,4c8a1197,M Hill,bf5e7711,M Kanno,97fc39fd,1,0,0,0,0,,,,,,0,1,1
+1197248,2019,Japan,1,Erika Oda,4c8a1197,M Hill,bf5e7711,M Kanno,97fc39fd,0,0,0,0,0,,,,,,1,0,1
+1197248,2019,Japan,2,Erika Oda,4c8a1197,M Wai Siu,74eecff4,M Kanno,97fc39fd,0,0,0,0,0,,,,,,1,0,1
+1197248,2019,Japan,2,M Kanno,97fc39fd,M Wai Siu,74eecff4,Erika Oda,4c8a1197,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Japan,2,M Kanno,97fc39fd,M Wai Siu,74eecff4,Erika Oda,4c8a1197,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Japan,2,M Kanno,97fc39fd,M Wai Siu,74eecff4,Erika Oda,4c8a1197,0,0,0,0,0,,,,,,1,0,1
+1197248,2019,Japan,2,Erika Oda,4c8a1197,M Wai Siu,74eecff4,M Kanno,97fc39fd,0,0,0,0,0,,,,,,4,0,4
+1197248,2019,Japan,2,Erika Oda,4c8a1197,M Wai Siu,74eecff4,M Kanno,97fc39fd,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Japan,3,M Kanno,97fc39fd,KY Chan,6348c6e9,Erika Oda,4c8a1197,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Japan,3,M Kanno,97fc39fd,KY Chan,6348c6e9,Erika Oda,4c8a1197,0,0,0,0,1,M Kanno,97fc39fd,,,lbw,0,0,0
+1197248,2019,Japan,3,A Kanada,ab50174b,KY Chan,6348c6e9,Erika Oda,4c8a1197,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Japan,3,A Kanada,ab50174b,KY Chan,6348c6e9,Erika Oda,4c8a1197,0,0,0,0,1,A Kanada,ab50174b,,,bowled,0,0,0
+1197248,2019,Japan,3,M Yanagida,f20e7e23,KY Chan,6348c6e9,Erika Oda,4c8a1197,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Japan,3,M Yanagida,f20e7e23,KY Chan,6348c6e9,Erika Oda,4c8a1197,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Japan,4,Erika Oda,4c8a1197,Chan Ka Man,c4022bff,M Yanagida,f20e7e23,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Japan,4,Erika Oda,4c8a1197,Chan Ka Man,c4022bff,M Yanagida,f20e7e23,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Japan,4,Erika Oda,4c8a1197,Chan Ka Man,c4022bff,M Yanagida,f20e7e23,0,0,0,0,1,Erika Oda,4c8a1197,,,bowled,0,0,0
+1197248,2019,Japan,4,S Miyaji,3aca2ed5,Chan Ka Man,c4022bff,M Yanagida,f20e7e23,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Japan,4,S Miyaji,3aca2ed5,Chan Ka Man,c4022bff,M Yanagida,f20e7e23,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Japan,4,S Miyaji,3aca2ed5,Chan Ka Man,c4022bff,M Yanagida,f20e7e23,0,0,0,0,0,,,,,,1,0,1
+1197248,2019,Japan,5,S Miyaji,3aca2ed5,KY Chan,6348c6e9,M Yanagida,f20e7e23,0,0,0,0,0,,,,,,2,0,2
+1197248,2019,Japan,5,S Miyaji,3aca2ed5,KY Chan,6348c6e9,M Yanagida,f20e7e23,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Japan,5,S Miyaji,3aca2ed5,KY Chan,6348c6e9,M Yanagida,f20e7e23,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Japan,5,S Miyaji,3aca2ed5,KY Chan,6348c6e9,M Yanagida,f20e7e23,0,0,0,0,0,,,,,,1,0,1
+1197248,2019,Japan,5,M Yanagida,f20e7e23,KY Chan,6348c6e9,S Miyaji,3aca2ed5,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Japan,5,M Yanagida,f20e7e23,KY Chan,6348c6e9,S Miyaji,3aca2ed5,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Japan,6,S Miyaji,3aca2ed5,Chan Ka Man,c4022bff,M Yanagida,f20e7e23,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Japan,6,S Miyaji,3aca2ed5,Chan Ka Man,c4022bff,M Yanagida,f20e7e23,0,0,0,0,0,,,,,,5,0,5
+1197248,2019,Japan,6,M Yanagida,f20e7e23,Chan Ka Man,c4022bff,S Miyaji,3aca2ed5,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Japan,6,M Yanagida,f20e7e23,Chan Ka Man,c4022bff,S Miyaji,3aca2ed5,0,0,0,0,0,,,,,,2,0,2
+1197248,2019,Japan,6,M Yanagida,f20e7e23,Chan Ka Man,c4022bff,S Miyaji,3aca2ed5,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Japan,6,M Yanagida,f20e7e23,Chan Ka Man,c4022bff,S Miyaji,3aca2ed5,0,1,0,0,0,,,,,,0,1,1
+1197248,2019,Japan,6,M Yanagida,f20e7e23,Chan Ka Man,c4022bff,S Miyaji,3aca2ed5,0,0,0,0,0,,,,,,1,0,1
+1197248,2019,Japan,7,S Miyaji,3aca2ed5,KY Chan,6348c6e9,M Yanagida,f20e7e23,0,0,0,0,1,S Miyaji,3aca2ed5,,,bowled,0,0,0
+1197248,2019,Japan,7,M Shiraishi,79b4af2d,KY Chan,6348c6e9,M Yanagida,f20e7e23,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Japan,7,M Shiraishi,79b4af2d,KY Chan,6348c6e9,M Yanagida,f20e7e23,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Japan,7,M Shiraishi,79b4af2d,KY Chan,6348c6e9,M Yanagida,f20e7e23,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Japan,7,M Shiraishi,79b4af2d,KY Chan,6348c6e9,M Yanagida,f20e7e23,0,0,0,0,0,,,,,,2,0,2
+1197248,2019,Japan,7,M Shiraishi,79b4af2d,KY Chan,6348c6e9,M Yanagida,f20e7e23,1,0,0,0,0,,,,,,0,1,1
+1197248,2019,Japan,7,M Shiraishi,79b4af2d,KY Chan,6348c6e9,M Yanagida,f20e7e23,1,0,0,0,0,,,,,,0,1,1
+1197248,2019,Japan,7,M Shiraishi,79b4af2d,KY Chan,6348c6e9,M Yanagida,f20e7e23,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Japan,8,M Yanagida,f20e7e23,Chan Ka Man,c4022bff,M Shiraishi,79b4af2d,0,0,0,0,0,,,,,,1,0,1
+1197248,2019,Japan,8,M Shiraishi,79b4af2d,Chan Ka Man,c4022bff,M Yanagida,f20e7e23,0,0,0,0,1,M Shiraishi,79b4af2d,,,bowled,0,0,0
+1197248,2019,Japan,8,A Kano,e92841c0,Chan Ka Man,c4022bff,M Yanagida,f20e7e23,0,0,0,0,1,A Kano,e92841c0,,,lbw,0,0,0
+1197248,2019,Japan,8,N Tokizawa,0e818f80,Chan Ka Man,c4022bff,M Yanagida,f20e7e23,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Japan,8,N Tokizawa,0e818f80,Chan Ka Man,c4022bff,M Yanagida,f20e7e23,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Japan,8,N Tokizawa,0e818f80,Chan Ka Man,c4022bff,M Yanagida,f20e7e23,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Japan,9,M Yanagida,f20e7e23,Ruchitha Venkatesh,106135f5,N Tokizawa,0e818f80,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Japan,9,M Yanagida,f20e7e23,Ruchitha Venkatesh,106135f5,N Tokizawa,0e818f80,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Japan,9,M Yanagida,f20e7e23,Ruchitha Venkatesh,106135f5,N Tokizawa,0e818f80,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Japan,9,M Yanagida,f20e7e23,Ruchitha Venkatesh,106135f5,N Tokizawa,0e818f80,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Japan,9,M Yanagida,f20e7e23,Ruchitha Venkatesh,106135f5,N Tokizawa,0e818f80,0,0,0,0,0,,,,,,1,0,1
+1197248,2019,Japan,9,N Tokizawa,0e818f80,Ruchitha Venkatesh,106135f5,M Yanagida,f20e7e23,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Japan,10,M Yanagida,f20e7e23,YS To,73db1940,N Tokizawa,0e818f80,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Japan,10,M Yanagida,f20e7e23,YS To,73db1940,N Tokizawa,0e818f80,0,0,0,0,0,,,,,,3,0,3
+1197248,2019,Japan,10,N Tokizawa,0e818f80,YS To,73db1940,M Yanagida,f20e7e23,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Japan,10,N Tokizawa,0e818f80,YS To,73db1940,M Yanagida,f20e7e23,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Japan,10,N Tokizawa,0e818f80,YS To,73db1940,M Yanagida,f20e7e23,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Japan,10,N Tokizawa,0e818f80,YS To,73db1940,M Yanagida,f20e7e23,0,0,0,0,0,,,,,,1,0,1
+1197248,2019,Japan,11,N Tokizawa,0e818f80,Ruchitha Venkatesh,106135f5,M Yanagida,f20e7e23,0,0,0,0,0,,,,,,2,0,2
+1197248,2019,Japan,11,N Tokizawa,0e818f80,Ruchitha Venkatesh,106135f5,M Yanagida,f20e7e23,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Japan,11,N Tokizawa,0e818f80,Ruchitha Venkatesh,106135f5,M Yanagida,f20e7e23,0,0,0,0,0,,,,,,1,0,1
+1197248,2019,Japan,11,M Yanagida,f20e7e23,Ruchitha Venkatesh,106135f5,N Tokizawa,0e818f80,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Japan,11,M Yanagida,f20e7e23,Ruchitha Venkatesh,106135f5,N Tokizawa,0e818f80,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Japan,11,M Yanagida,f20e7e23,Ruchitha Venkatesh,106135f5,N Tokizawa,0e818f80,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Japan,12,N Tokizawa,0e818f80,YS To,73db1940,M Yanagida,f20e7e23,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Japan,12,N Tokizawa,0e818f80,YS To,73db1940,M Yanagida,f20e7e23,0,0,0,0,0,,,,,,1,0,1
+1197248,2019,Japan,12,M Yanagida,f20e7e23,YS To,73db1940,N Tokizawa,0e818f80,0,0,0,0,0,,,,,,1,0,1
+1197248,2019,Japan,12,N Tokizawa,0e818f80,YS To,73db1940,M Yanagida,f20e7e23,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Japan,12,N Tokizawa,0e818f80,YS To,73db1940,M Yanagida,f20e7e23,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Japan,12,N Tokizawa,0e818f80,YS To,73db1940,M Yanagida,f20e7e23,0,0,0,0,0,,,,,,1,0,1
+1197248,2019,Japan,13,N Tokizawa,0e818f80,Ruchitha Venkatesh,106135f5,M Yanagida,f20e7e23,0,0,0,0,0,,,,,,2,0,2
+1197248,2019,Japan,13,N Tokizawa,0e818f80,Ruchitha Venkatesh,106135f5,M Yanagida,f20e7e23,0,0,0,0,0,,,,,,2,0,2
+1197248,2019,Japan,13,N Tokizawa,0e818f80,Ruchitha Venkatesh,106135f5,M Yanagida,f20e7e23,0,0,0,0,0,,,,,,1,0,1
+1197248,2019,Japan,13,M Yanagida,f20e7e23,Ruchitha Venkatesh,106135f5,N Tokizawa,0e818f80,0,0,0,0,0,,,,,,1,0,1
+1197248,2019,Japan,13,N Tokizawa,0e818f80,Ruchitha Venkatesh,106135f5,M Yanagida,f20e7e23,0,0,0,0,0,,,,,,4,0,4
+1197248,2019,Japan,13,N Tokizawa,0e818f80,Ruchitha Venkatesh,106135f5,M Yanagida,f20e7e23,0,0,0,0,0,,,,,,1,0,1
+1197248,2019,Japan,14,N Tokizawa,0e818f80,Chan Ka Man,c4022bff,M Yanagida,f20e7e23,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Japan,14,N Tokizawa,0e818f80,Chan Ka Man,c4022bff,M Yanagida,f20e7e23,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Japan,14,N Tokizawa,0e818f80,Chan Ka Man,c4022bff,M Yanagida,f20e7e23,0,0,0,0,0,,,,,,1,0,1
+1197248,2019,Japan,14,M Yanagida,f20e7e23,Chan Ka Man,c4022bff,N Tokizawa,0e818f80,0,0,0,0,0,,,,,,1,0,1
+1197248,2019,Japan,14,N Tokizawa,0e818f80,Chan Ka Man,c4022bff,M Yanagida,f20e7e23,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Japan,14,N Tokizawa,0e818f80,Chan Ka Man,c4022bff,M Yanagida,f20e7e23,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Japan,15,M Yanagida,f20e7e23,YS To,73db1940,N Tokizawa,0e818f80,0,0,0,0,0,,,,,,1,0,1
+1197248,2019,Japan,15,N Tokizawa,0e818f80,YS To,73db1940,M Yanagida,f20e7e23,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Japan,15,N Tokizawa,0e818f80,YS To,73db1940,M Yanagida,f20e7e23,0,0,0,0,0,,,,,,1,0,1
+1197248,2019,Japan,15,M Yanagida,f20e7e23,YS To,73db1940,N Tokizawa,0e818f80,0,0,0,0,0,,,,,,1,0,1
+1197248,2019,Japan,15,N Tokizawa,0e818f80,YS To,73db1940,M Yanagida,f20e7e23,0,0,0,0,0,,,,,,1,0,1
+1197248,2019,Japan,15,M Yanagida,f20e7e23,YS To,73db1940,N Tokizawa,0e818f80,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Japan,16,N Tokizawa,0e818f80,M Wai Siu,74eecff4,M Yanagida,f20e7e23,0,0,0,0,0,,,,,,1,0,1
+1197248,2019,Japan,16,M Yanagida,f20e7e23,M Wai Siu,74eecff4,N Tokizawa,0e818f80,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Japan,16,M Yanagida,f20e7e23,M Wai Siu,74eecff4,N Tokizawa,0e818f80,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Japan,16,M Yanagida,f20e7e23,M Wai Siu,74eecff4,N Tokizawa,0e818f80,0,0,0,0,0,,,,,,1,0,1
+1197248,2019,Japan,16,N Tokizawa,0e818f80,M Wai Siu,74eecff4,M Yanagida,f20e7e23,0,0,1,0,0,,,,,,0,1,1
+1197248,2019,Japan,16,M Yanagida,f20e7e23,M Wai Siu,74eecff4,N Tokizawa,0e818f80,0,0,0,0,0,,,,,,1,0,1
+1197248,2019,Japan,17,M Yanagida,f20e7e23,YS To,73db1940,N Tokizawa,0e818f80,0,0,0,0,0,,,,,,1,0,1
+1197248,2019,Japan,17,N Tokizawa,0e818f80,YS To,73db1940,M Yanagida,f20e7e23,1,0,0,0,0,,,,,,0,1,1
+1197248,2019,Japan,17,N Tokizawa,0e818f80,YS To,73db1940,M Yanagida,f20e7e23,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Japan,17,N Tokizawa,0e818f80,YS To,73db1940,M Yanagida,f20e7e23,0,0,0,0,0,,,,,,1,0,1
+1197248,2019,Japan,17,M Yanagida,f20e7e23,YS To,73db1940,N Tokizawa,0e818f80,0,0,0,0,0,,,,,,1,0,1
+1197248,2019,Japan,17,N Tokizawa,0e818f80,YS To,73db1940,M Yanagida,f20e7e23,0,0,0,0,0,,,,,,1,0,1
+1197248,2019,Japan,17,M Yanagida,f20e7e23,YS To,73db1940,N Tokizawa,0e818f80,0,0,0,0,0,,,,,,1,0,1
+1197248,2019,Japan,18,M Yanagida,f20e7e23,M Wai Siu,74eecff4,N Tokizawa,0e818f80,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Japan,18,M Yanagida,f20e7e23,M Wai Siu,74eecff4,N Tokizawa,0e818f80,1,0,0,0,0,,,,,,0,1,1
+1197248,2019,Japan,18,M Yanagida,f20e7e23,M Wai Siu,74eecff4,N Tokizawa,0e818f80,0,0,0,0,1,N Tokizawa,0e818f80,,,run out,0,0,0
+1197248,2019,Japan,18,R Endo,9235396c,M Wai Siu,74eecff4,M Yanagida,f20e7e23,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Japan,18,R Endo,9235396c,M Wai Siu,74eecff4,M Yanagida,f20e7e23,1,0,0,0,0,,,,,,0,1,1
+1197248,2019,Japan,18,R Endo,9235396c,M Wai Siu,74eecff4,M Yanagida,f20e7e23,0,0,0,0,0,,,,,,0,0,0
+1197248,2019,Japan,18,R Endo,9235396c,M Wai Siu,74eecff4,M Yanagida,f20e7e23,0,0,0,0,0,,,,,,1,0,1

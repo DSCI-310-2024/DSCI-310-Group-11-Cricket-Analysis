@@ -1,0 +1,201 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1257405,2021,Namibia,0,JP Kotze,9f308dfc,C Kyewuta,395695ce,CG Williams,e16e7347,0,0,0,0,0,,,,,,0,0,0
+1257405,2021,Namibia,0,JP Kotze,9f308dfc,C Kyewuta,395695ce,CG Williams,e16e7347,0,0,0,0,0,,,,,,1,0,1
+1257405,2021,Namibia,0,CG Williams,e16e7347,C Kyewuta,395695ce,JP Kotze,9f308dfc,0,0,0,0,0,,,,,,0,0,0
+1257405,2021,Namibia,0,CG Williams,e16e7347,C Kyewuta,395695ce,JP Kotze,9f308dfc,0,0,0,0,0,,,,,,0,0,0
+1257405,2021,Namibia,0,CG Williams,e16e7347,C Kyewuta,395695ce,JP Kotze,9f308dfc,0,0,0,0,0,,,,,,0,0,0
+1257405,2021,Namibia,0,CG Williams,e16e7347,C Kyewuta,395695ce,JP Kotze,9f308dfc,0,0,0,0,0,,,,,,0,0,0
+1257405,2021,Namibia,1,JP Kotze,9f308dfc,J Sebanja,1e78c51c,CG Williams,e16e7347,0,0,0,0,0,,,,,,0,0,0
+1257405,2021,Namibia,1,JP Kotze,9f308dfc,J Sebanja,1e78c51c,CG Williams,e16e7347,0,0,1,0,0,,,,,,0,1,1
+1257405,2021,Namibia,1,CG Williams,e16e7347,J Sebanja,1e78c51c,JP Kotze,9f308dfc,0,0,0,0,0,,,,,,0,0,0
+1257405,2021,Namibia,1,CG Williams,e16e7347,J Sebanja,1e78c51c,JP Kotze,9f308dfc,0,0,0,0,0,,,,,,4,0,4
+1257405,2021,Namibia,1,CG Williams,e16e7347,J Sebanja,1e78c51c,JP Kotze,9f308dfc,0,0,0,0,0,,,,,,1,0,1
+1257405,2021,Namibia,1,JP Kotze,9f308dfc,J Sebanja,1e78c51c,CG Williams,e16e7347,0,0,0,0,0,,,,,,0,0,0
+1257405,2021,Namibia,2,CG Williams,e16e7347,C Kyewuta,395695ce,JP Kotze,9f308dfc,0,0,0,0,0,,,,,,4,0,4
+1257405,2021,Namibia,2,CG Williams,e16e7347,C Kyewuta,395695ce,JP Kotze,9f308dfc,0,0,0,0,0,,,,,,1,0,1
+1257405,2021,Namibia,2,JP Kotze,9f308dfc,C Kyewuta,395695ce,CG Williams,e16e7347,0,0,0,0,0,,,,,,0,0,0
+1257405,2021,Namibia,2,JP Kotze,9f308dfc,C Kyewuta,395695ce,CG Williams,e16e7347,0,0,0,0,0,,,,,,1,0,1
+1257405,2021,Namibia,2,CG Williams,e16e7347,C Kyewuta,395695ce,JP Kotze,9f308dfc,0,0,0,0,1,CG Williams,e16e7347,Saud Islam,ae5a7eb5,caught,0,0,0
+1257405,2021,Namibia,2,MG Erasmus,95a5e066,C Kyewuta,395695ce,JP Kotze,9f308dfc,0,0,0,0,0,,,,,,1,0,1
+1257405,2021,Namibia,3,MG Erasmus,95a5e066,J Sebanja,1e78c51c,JP Kotze,9f308dfc,0,0,0,0,0,,,,,,0,0,0
+1257405,2021,Namibia,3,MG Erasmus,95a5e066,J Sebanja,1e78c51c,JP Kotze,9f308dfc,1,0,0,0,0,,,,,,0,1,1
+1257405,2021,Namibia,3,MG Erasmus,95a5e066,J Sebanja,1e78c51c,JP Kotze,9f308dfc,0,0,0,0,0,,,,,,4,0,4
+1257405,2021,Namibia,3,MG Erasmus,95a5e066,J Sebanja,1e78c51c,JP Kotze,9f308dfc,0,0,0,0,0,,,,,,1,0,1
+1257405,2021,Namibia,3,JP Kotze,9f308dfc,J Sebanja,1e78c51c,MG Erasmus,95a5e066,0,0,0,0,1,JP Kotze,9f308dfc,DM Nakrani,46a7ac78,caught,0,0,0
+1257405,2021,Namibia,3,JN Loftie-Eaton,f468293b,J Sebanja,1e78c51c,MG Erasmus,95a5e066,0,0,0,0,0,,,,,,0,0,0
+1257405,2021,Namibia,3,JN Loftie-Eaton,f468293b,J Sebanja,1e78c51c,MG Erasmus,95a5e066,0,0,0,0,0,,,,,,1,0,1
+1257405,2021,Namibia,4,JN Loftie-Eaton,f468293b,C Kyewuta,395695ce,MG Erasmus,95a5e066,0,0,0,0,0,,,,,,1,0,1
+1257405,2021,Namibia,4,MG Erasmus,95a5e066,C Kyewuta,395695ce,JN Loftie-Eaton,f468293b,0,0,0,0,0,,,,,,0,0,0
+1257405,2021,Namibia,4,MG Erasmus,95a5e066,C Kyewuta,395695ce,JN Loftie-Eaton,f468293b,0,0,0,0,0,,,,,,0,0,0
+1257405,2021,Namibia,4,MG Erasmus,95a5e066,C Kyewuta,395695ce,JN Loftie-Eaton,f468293b,0,0,0,0,0,,,,,,4,0,4
+1257405,2021,Namibia,4,MG Erasmus,95a5e066,C Kyewuta,395695ce,JN Loftie-Eaton,f468293b,0,0,0,0,0,,,,,,0,0,0
+1257405,2021,Namibia,4,MG Erasmus,95a5e066,C Kyewuta,395695ce,JN Loftie-Eaton,f468293b,0,0,0,0,0,,,,,,0,0,0
+1257405,2021,Namibia,5,JN Loftie-Eaton,f468293b,Riazat Ali Shah,269cc4ff,MG Erasmus,95a5e066,0,0,0,0,0,,,,,,1,0,1
+1257405,2021,Namibia,5,MG Erasmus,95a5e066,Riazat Ali Shah,269cc4ff,JN Loftie-Eaton,f468293b,0,0,0,0,0,,,,,,1,0,1
+1257405,2021,Namibia,5,JN Loftie-Eaton,f468293b,Riazat Ali Shah,269cc4ff,MG Erasmus,95a5e066,0,0,0,0,0,,,,,,1,0,1
+1257405,2021,Namibia,5,MG Erasmus,95a5e066,Riazat Ali Shah,269cc4ff,JN Loftie-Eaton,f468293b,0,0,0,0,1,MG Erasmus,95a5e066,A Otwani,6727fb4d,caught,0,0,0
+1257405,2021,Namibia,5,JJ Smit,bb134e5c,Riazat Ali Shah,269cc4ff,JN Loftie-Eaton,f468293b,0,0,0,0,0,,,,,,1,0,1
+1257405,2021,Namibia,5,JN Loftie-Eaton,f468293b,Riazat Ali Shah,269cc4ff,JJ Smit,bb134e5c,0,0,0,0,0,,,,,,0,0,0
+1257405,2021,Namibia,6,JJ Smit,bb134e5c,DM Nakrani,46a7ac78,JN Loftie-Eaton,f468293b,0,0,0,0,0,,,,,,1,0,1
+1257405,2021,Namibia,6,JN Loftie-Eaton,f468293b,DM Nakrani,46a7ac78,JJ Smit,bb134e5c,0,0,0,0,0,,,,,,0,0,0
+1257405,2021,Namibia,6,JN Loftie-Eaton,f468293b,DM Nakrani,46a7ac78,JJ Smit,bb134e5c,0,0,0,0,0,,,,,,1,0,1
+1257405,2021,Namibia,6,JJ Smit,bb134e5c,DM Nakrani,46a7ac78,JN Loftie-Eaton,f468293b,0,0,0,0,0,,,,,,1,0,1
+1257405,2021,Namibia,6,JN Loftie-Eaton,f468293b,DM Nakrani,46a7ac78,JJ Smit,bb134e5c,0,0,0,0,0,,,,,,1,0,1
+1257405,2021,Namibia,6,JJ Smit,bb134e5c,DM Nakrani,46a7ac78,JN Loftie-Eaton,f468293b,0,0,0,0,0,,,,,,0,0,0
+1257405,2021,Namibia,7,JN Loftie-Eaton,f468293b,Riazat Ali Shah,269cc4ff,JJ Smit,bb134e5c,0,0,0,0,1,JN Loftie-Eaton,f468293b,F Nsubuga,87e33d07,caught,0,0,0
+1257405,2021,Namibia,7,JJ Smit,bb134e5c,Riazat Ali Shah,269cc4ff,MD du Preez,e5ad357a,0,0,0,0,0,,,,,,0,0,0
+1257405,2021,Namibia,7,JJ Smit,bb134e5c,Riazat Ali Shah,269cc4ff,MD du Preez,e5ad357a,0,0,0,0,0,,,,,,0,0,0
+1257405,2021,Namibia,7,JJ Smit,bb134e5c,Riazat Ali Shah,269cc4ff,MD du Preez,e5ad357a,0,0,0,0,0,,,,,,0,0,0
+1257405,2021,Namibia,7,JJ Smit,bb134e5c,Riazat Ali Shah,269cc4ff,MD du Preez,e5ad357a,0,0,0,0,0,,,,,,1,0,1
+1257405,2021,Namibia,7,MD du Preez,e5ad357a,Riazat Ali Shah,269cc4ff,JJ Smit,bb134e5c,0,0,0,0,0,,,,,,0,0,0
+1257405,2021,Namibia,8,JJ Smit,bb134e5c,DM Nakrani,46a7ac78,MD du Preez,e5ad357a,0,0,0,0,0,,,,,,1,0,1
+1257405,2021,Namibia,8,MD du Preez,e5ad357a,DM Nakrani,46a7ac78,JJ Smit,bb134e5c,0,0,0,0,0,,,,,,0,0,0
+1257405,2021,Namibia,8,MD du Preez,e5ad357a,DM Nakrani,46a7ac78,JJ Smit,bb134e5c,0,0,0,0,0,,,,,,0,0,0
+1257405,2021,Namibia,8,MD du Preez,e5ad357a,DM Nakrani,46a7ac78,JJ Smit,bb134e5c,0,0,0,0,0,,,,,,0,0,0
+1257405,2021,Namibia,8,MD du Preez,e5ad357a,DM Nakrani,46a7ac78,JJ Smit,bb134e5c,0,0,0,0,0,,,,,,1,0,1
+1257405,2021,Namibia,8,JJ Smit,bb134e5c,DM Nakrani,46a7ac78,MD du Preez,e5ad357a,0,0,0,0,0,,,,,,1,0,1
+1257405,2021,Namibia,9,JJ Smit,bb134e5c,J Sebanja,1e78c51c,MD du Preez,e5ad357a,0,0,0,0,0,,,,,,0,0,0
+1257405,2021,Namibia,9,JJ Smit,bb134e5c,J Sebanja,1e78c51c,MD du Preez,e5ad357a,0,0,0,0,0,,,,,,4,0,4
+1257405,2021,Namibia,9,JJ Smit,bb134e5c,J Sebanja,1e78c51c,MD du Preez,e5ad357a,0,0,0,0,0,,,,,,1,0,1
+1257405,2021,Namibia,9,MD du Preez,e5ad357a,J Sebanja,1e78c51c,JJ Smit,bb134e5c,0,0,0,0,0,,,,,,1,0,1
+1257405,2021,Namibia,9,JJ Smit,bb134e5c,J Sebanja,1e78c51c,MD du Preez,e5ad357a,2,0,0,0,0,,,,,,0,2,2
+1257405,2021,Namibia,9,MD du Preez,e5ad357a,J Sebanja,1e78c51c,JJ Smit,bb134e5c,0,0,0,0,0,,,,,,0,0,0
+1257405,2021,Namibia,9,MD du Preez,e5ad357a,J Sebanja,1e78c51c,JJ Smit,bb134e5c,0,0,0,0,0,,,,,,1,0,1
+1257405,2021,Namibia,10,MD du Preez,e5ad357a,F Nsubuga,87e33d07,JJ Smit,bb134e5c,0,0,0,0,0,,,,,,1,0,1
+1257405,2021,Namibia,10,JJ Smit,bb134e5c,F Nsubuga,87e33d07,MD du Preez,e5ad357a,0,0,0,0,0,,,,,,6,0,6
+1257405,2021,Namibia,10,JJ Smit,bb134e5c,F Nsubuga,87e33d07,MD du Preez,e5ad357a,0,0,0,0,0,,,,,,6,0,6
+1257405,2021,Namibia,10,JJ Smit,bb134e5c,F Nsubuga,87e33d07,MD du Preez,e5ad357a,0,0,0,0,0,,,,,,2,0,2
+1257405,2021,Namibia,10,JJ Smit,bb134e5c,F Nsubuga,87e33d07,MD du Preez,e5ad357a,0,0,0,0,0,,,,,,2,0,2
+1257405,2021,Namibia,10,JJ Smit,bb134e5c,F Nsubuga,87e33d07,MD du Preez,e5ad357a,0,0,0,0,0,,,,,,1,0,1
+1257405,2021,Namibia,11,JJ Smit,bb134e5c,DM Nakrani,46a7ac78,MD du Preez,e5ad357a,0,0,0,0,0,,,,,,1,0,1
+1257405,2021,Namibia,11,MD du Preez,e5ad357a,DM Nakrani,46a7ac78,JJ Smit,bb134e5c,0,0,0,0,0,,,,,,0,0,0
+1257405,2021,Namibia,11,MD du Preez,e5ad357a,DM Nakrani,46a7ac78,JJ Smit,bb134e5c,0,0,0,0,0,,,,,,0,0,0
+1257405,2021,Namibia,11,MD du Preez,e5ad357a,DM Nakrani,46a7ac78,JJ Smit,bb134e5c,0,0,0,0,0,,,,,,1,0,1
+1257405,2021,Namibia,11,JJ Smit,bb134e5c,DM Nakrani,46a7ac78,MD du Preez,e5ad357a,0,0,0,0,0,,,,,,1,0,1
+1257405,2021,Namibia,11,MD du Preez,e5ad357a,DM Nakrani,46a7ac78,JJ Smit,bb134e5c,0,0,0,0,0,,,,,,0,0,0
+1257405,2021,Namibia,12,JJ Smit,bb134e5c,J Sebanja,1e78c51c,MD du Preez,e5ad357a,0,0,0,0,0,,,,,,1,0,1
+1257405,2021,Namibia,12,MD du Preez,e5ad357a,J Sebanja,1e78c51c,JJ Smit,bb134e5c,0,0,0,0,0,,,,,,0,0,0
+1257405,2021,Namibia,12,MD du Preez,e5ad357a,J Sebanja,1e78c51c,JJ Smit,bb134e5c,0,0,0,0,0,,,,,,1,0,1
+1257405,2021,Namibia,12,JJ Smit,bb134e5c,J Sebanja,1e78c51c,MD du Preez,e5ad357a,0,0,0,0,0,,,,,,1,0,1
+1257405,2021,Namibia,12,MD du Preez,e5ad357a,J Sebanja,1e78c51c,JJ Smit,bb134e5c,0,0,0,0,0,,,,,,3,0,3
+1257405,2021,Namibia,12,JJ Smit,bb134e5c,J Sebanja,1e78c51c,MD du Preez,e5ad357a,0,0,0,0,0,,,,,,1,0,1
+1257405,2021,Namibia,13,JJ Smit,bb134e5c,K Waiswa,a3a275ec,MD du Preez,e5ad357a,0,0,0,0,0,,,,,,1,0,1
+1257405,2021,Namibia,13,MD du Preez,e5ad357a,K Waiswa,a3a275ec,JJ Smit,bb134e5c,0,0,0,0,0,,,,,,0,0,0
+1257405,2021,Namibia,13,MD du Preez,e5ad357a,K Waiswa,a3a275ec,JJ Smit,bb134e5c,0,0,0,0,0,,,,,,1,0,1
+1257405,2021,Namibia,13,JJ Smit,bb134e5c,K Waiswa,a3a275ec,MD du Preez,e5ad357a,0,0,0,0,0,,,,,,1,0,1
+1257405,2021,Namibia,13,MD du Preez,e5ad357a,K Waiswa,a3a275ec,JJ Smit,bb134e5c,0,0,0,0,0,,,,,,6,0,6
+1257405,2021,Namibia,13,MD du Preez,e5ad357a,K Waiswa,a3a275ec,JJ Smit,bb134e5c,0,0,0,0,0,,,,,,1,0,1
+1257405,2021,Namibia,14,MD du Preez,e5ad357a,DM Nakrani,46a7ac78,JJ Smit,bb134e5c,0,0,0,0,0,,,,,,4,0,4
+1257405,2021,Namibia,14,MD du Preez,e5ad357a,DM Nakrani,46a7ac78,JJ Smit,bb134e5c,0,0,0,0,0,,,,,,0,0,0
+1257405,2021,Namibia,14,MD du Preez,e5ad357a,DM Nakrani,46a7ac78,JJ Smit,bb134e5c,0,0,0,0,0,,,,,,1,0,1
+1257405,2021,Namibia,14,JJ Smit,bb134e5c,DM Nakrani,46a7ac78,MD du Preez,e5ad357a,0,0,0,0,0,,,,,,1,0,1
+1257405,2021,Namibia,14,MD du Preez,e5ad357a,DM Nakrani,46a7ac78,JJ Smit,bb134e5c,0,0,0,0,0,,,,,,0,0,0
+1257405,2021,Namibia,14,MD du Preez,e5ad357a,DM Nakrani,46a7ac78,JJ Smit,bb134e5c,0,0,0,0,0,,,,,,0,0,0
+1257405,2021,Namibia,15,JJ Smit,bb134e5c,K Waiswa,a3a275ec,MD du Preez,e5ad357a,0,0,0,0,0,,,,,,1,0,1
+1257405,2021,Namibia,15,MD du Preez,e5ad357a,K Waiswa,a3a275ec,JJ Smit,bb134e5c,0,0,0,0,0,,,,,,4,0,4
+1257405,2021,Namibia,15,MD du Preez,e5ad357a,K Waiswa,a3a275ec,JJ Smit,bb134e5c,0,0,0,0,0,,,,,,1,0,1
+1257405,2021,Namibia,15,JJ Smit,bb134e5c,K Waiswa,a3a275ec,MD du Preez,e5ad357a,0,0,0,0,0,,,,,,0,0,0
+1257405,2021,Namibia,15,JJ Smit,bb134e5c,K Waiswa,a3a275ec,MD du Preez,e5ad357a,0,0,0,0,0,,,,,,2,0,2
+1257405,2021,Namibia,15,JJ Smit,bb134e5c,K Waiswa,a3a275ec,MD du Preez,e5ad357a,0,0,0,0,0,,,,,,1,0,1
+1257405,2021,Namibia,16,JJ Smit,bb134e5c,Riazat Ali Shah,269cc4ff,MD du Preez,e5ad357a,0,0,0,0,0,,,,,,0,0,0
+1257405,2021,Namibia,16,JJ Smit,bb134e5c,Riazat Ali Shah,269cc4ff,MD du Preez,e5ad357a,0,0,0,0,1,JJ Smit,bb134e5c,,,bowled,0,0,0
+1257405,2021,Namibia,16,K Birkenstock,27b8d7b6,Riazat Ali Shah,269cc4ff,MD du Preez,e5ad357a,0,0,0,0,0,,,,,,2,0,2
+1257405,2021,Namibia,16,K Birkenstock,27b8d7b6,Riazat Ali Shah,269cc4ff,MD du Preez,e5ad357a,0,0,0,0,0,,,,,,4,0,4
+1257405,2021,Namibia,16,K Birkenstock,27b8d7b6,Riazat Ali Shah,269cc4ff,MD du Preez,e5ad357a,0,0,0,0,0,,,,,,0,0,0
+1257405,2021,Namibia,16,K Birkenstock,27b8d7b6,Riazat Ali Shah,269cc4ff,MD du Preez,e5ad357a,0,0,0,0,0,,,,,,1,0,1
+1257405,2021,Namibia,17,K Birkenstock,27b8d7b6,C Kyewuta,395695ce,MD du Preez,e5ad357a,0,0,0,0,0,,,,,,4,0,4
+1257405,2021,Namibia,17,K Birkenstock,27b8d7b6,C Kyewuta,395695ce,MD du Preez,e5ad357a,0,0,0,0,0,,,,,,0,0,0
+1257405,2021,Namibia,17,K Birkenstock,27b8d7b6,C Kyewuta,395695ce,MD du Preez,e5ad357a,0,0,0,0,0,,,,,,2,0,2
+1257405,2021,Namibia,17,K Birkenstock,27b8d7b6,C Kyewuta,395695ce,MD du Preez,e5ad357a,0,0,0,0,0,,,,,,1,0,1
+1257405,2021,Namibia,17,MD du Preez,e5ad357a,C Kyewuta,395695ce,K Birkenstock,27b8d7b6,0,0,0,0,0,,,,,,1,0,1
+1257405,2021,Namibia,17,K Birkenstock,27b8d7b6,C Kyewuta,395695ce,MD du Preez,e5ad357a,0,0,0,0,0,,,,,,2,0,2
+1257405,2021,Namibia,18,MD du Preez,e5ad357a,K Waiswa,a3a275ec,K Birkenstock,27b8d7b6,0,0,0,0,0,,,,,,1,0,1
+1257405,2021,Namibia,18,K Birkenstock,27b8d7b6,K Waiswa,a3a275ec,MD du Preez,e5ad357a,0,0,0,0,0,,,,,,0,0,0
+1257405,2021,Namibia,18,K Birkenstock,27b8d7b6,K Waiswa,a3a275ec,MD du Preez,e5ad357a,0,0,0,0,1,K Birkenstock,27b8d7b6,Saud Islam,ae5a7eb5,caught,0,0,0
+1257405,2021,Namibia,18,MD du Preez,e5ad357a,K Waiswa,a3a275ec,JN Frylinck,3c87f0c3,0,0,0,0,0,,,,,,1,0,1
+1257405,2021,Namibia,18,JN Frylinck,3c87f0c3,K Waiswa,a3a275ec,MD du Preez,e5ad357a,0,0,0,0,0,,,,,,2,0,2
+1257405,2021,Namibia,18,JN Frylinck,3c87f0c3,K Waiswa,a3a275ec,MD du Preez,e5ad357a,0,0,0,0,0,,,,,,0,0,0
+1257405,2021,Namibia,19,MD du Preez,e5ad357a,Riazat Ali Shah,269cc4ff,JN Frylinck,3c87f0c3,0,0,0,1,0,,,,,,0,1,1
+1257405,2021,Namibia,19,JN Frylinck,3c87f0c3,Riazat Ali Shah,269cc4ff,MD du Preez,e5ad357a,0,0,0,1,0,,,,,,0,1,1
+1257405,2021,Namibia,19,MD du Preez,e5ad357a,Riazat Ali Shah,269cc4ff,JN Frylinck,3c87f0c3,0,0,0,0,0,,,,,,2,0,2
+1257405,2021,Namibia,19,MD du Preez,e5ad357a,Riazat Ali Shah,269cc4ff,JN Frylinck,3c87f0c3,0,0,0,0,0,,,,,,1,0,1
+1257405,2021,Namibia,19,JN Frylinck,3c87f0c3,Riazat Ali Shah,269cc4ff,MD du Preez,e5ad357a,0,0,0,0,0,,,,,,4,0,4
+1257405,2021,Namibia,19,JN Frylinck,3c87f0c3,Riazat Ali Shah,269cc4ff,MD du Preez,e5ad357a,0,0,0,0,0,,,,,,4,0,4
+1257405,2021,Uganda,0,RG Mukasa,011f6b42,B Shikongo,c26cd57a,A Otwani,6727fb4d,0,0,0,0,0,,,,,,0,0,0
+1257405,2021,Uganda,0,RG Mukasa,011f6b42,B Shikongo,c26cd57a,A Otwani,6727fb4d,0,0,0,0,0,,,,,,1,0,1
+1257405,2021,Uganda,0,A Otwani,6727fb4d,B Shikongo,c26cd57a,RG Mukasa,011f6b42,0,0,0,0,0,,,,,,0,0,0
+1257405,2021,Uganda,0,A Otwani,6727fb4d,B Shikongo,c26cd57a,RG Mukasa,011f6b42,0,0,0,0,0,,,,,,2,0,2
+1257405,2021,Uganda,0,A Otwani,6727fb4d,B Shikongo,c26cd57a,RG Mukasa,011f6b42,0,0,0,0,1,A Otwani,6727fb4d,JP Kotze,9f308dfc,caught,0,0,0
+1257405,2021,Uganda,0,Saud Islam,ae5a7eb5,B Shikongo,c26cd57a,RG Mukasa,011f6b42,0,0,0,0,0,,,,,,0,0,0
+1257405,2021,Uganda,1,RG Mukasa,011f6b42,JN Frylinck,3c87f0c3,Saud Islam,ae5a7eb5,0,0,0,0,0,,,,,,0,0,0
+1257405,2021,Uganda,1,RG Mukasa,011f6b42,JN Frylinck,3c87f0c3,Saud Islam,ae5a7eb5,0,0,0,0,0,,,,,,0,0,0
+1257405,2021,Uganda,1,RG Mukasa,011f6b42,JN Frylinck,3c87f0c3,Saud Islam,ae5a7eb5,0,0,0,0,0,,,,,,2,0,2
+1257405,2021,Uganda,1,RG Mukasa,011f6b42,JN Frylinck,3c87f0c3,Saud Islam,ae5a7eb5,0,0,0,0,1,RG Mukasa,011f6b42,,,bowled,0,0,0
+1257405,2021,Uganda,1,RB Patel,f88dc8de,JN Frylinck,3c87f0c3,Saud Islam,ae5a7eb5,0,0,0,0,0,,,,,,4,0,4
+1257405,2021,Uganda,1,RB Patel,f88dc8de,JN Frylinck,3c87f0c3,Saud Islam,ae5a7eb5,0,0,0,0,0,,,,,,0,0,0
+1257405,2021,Uganda,2,Saud Islam,ae5a7eb5,B Shikongo,c26cd57a,RB Patel,f88dc8de,0,0,0,0,0,,,,,,0,0,0
+1257405,2021,Uganda,2,Saud Islam,ae5a7eb5,B Shikongo,c26cd57a,RB Patel,f88dc8de,0,0,0,0,0,,,,,,0,0,0
+1257405,2021,Uganda,2,Saud Islam,ae5a7eb5,B Shikongo,c26cd57a,RB Patel,f88dc8de,0,0,0,0,0,,,,,,0,0,0
+1257405,2021,Uganda,2,Saud Islam,ae5a7eb5,B Shikongo,c26cd57a,RB Patel,f88dc8de,0,0,0,0,1,Saud Islam,ae5a7eb5,,,lbw,0,0,0
+1257405,2021,Uganda,2,DM Nakrani,46a7ac78,B Shikongo,c26cd57a,RB Patel,f88dc8de,1,0,0,0,0,,,,,,0,1,1
+1257405,2021,Uganda,2,DM Nakrani,46a7ac78,B Shikongo,c26cd57a,RB Patel,f88dc8de,0,0,0,0,0,,,,,,4,0,4
+1257405,2021,Uganda,2,DM Nakrani,46a7ac78,B Shikongo,c26cd57a,RB Patel,f88dc8de,0,0,0,0,0,,,,,,0,0,0
+1257405,2021,Uganda,3,RB Patel,f88dc8de,JN Frylinck,3c87f0c3,DM Nakrani,46a7ac78,0,0,0,0,0,,,,,,1,0,1
+1257405,2021,Uganda,3,DM Nakrani,46a7ac78,JN Frylinck,3c87f0c3,RB Patel,f88dc8de,0,0,0,0,0,,,,,,0,0,0
+1257405,2021,Uganda,3,DM Nakrani,46a7ac78,JN Frylinck,3c87f0c3,RB Patel,f88dc8de,0,0,0,0,0,,,,,,0,0,0
+1257405,2021,Uganda,3,DM Nakrani,46a7ac78,JN Frylinck,3c87f0c3,RB Patel,f88dc8de,0,0,0,0,0,,,,,,0,0,0
+1257405,2021,Uganda,3,DM Nakrani,46a7ac78,JN Frylinck,3c87f0c3,RB Patel,f88dc8de,0,0,0,0,0,,,,,,1,0,1
+1257405,2021,Uganda,3,RB Patel,f88dc8de,JN Frylinck,3c87f0c3,DM Nakrani,46a7ac78,0,0,0,0,0,,,,,,0,0,0
+1257405,2021,Uganda,4,DM Nakrani,46a7ac78,T Lungameni,1688f2dc,RB Patel,f88dc8de,0,0,0,0,0,,,,,,0,0,0
+1257405,2021,Uganda,4,DM Nakrani,46a7ac78,T Lungameni,1688f2dc,RB Patel,f88dc8de,0,0,0,0,0,,,,,,0,0,0
+1257405,2021,Uganda,4,DM Nakrani,46a7ac78,T Lungameni,1688f2dc,RB Patel,f88dc8de,0,0,0,0,0,,,,,,0,0,0
+1257405,2021,Uganda,4,DM Nakrani,46a7ac78,T Lungameni,1688f2dc,RB Patel,f88dc8de,0,0,0,0,1,DM Nakrani,46a7ac78,JN Loftie-Eaton,f468293b,caught,0,0,0
+1257405,2021,Uganda,4,K Waiswa,a3a275ec,T Lungameni,1688f2dc,RB Patel,f88dc8de,0,0,0,0,0,,,,,,0,0,0
+1257405,2021,Uganda,4,K Waiswa,a3a275ec,T Lungameni,1688f2dc,RB Patel,f88dc8de,0,0,0,0,0,,,,,,0,0,0
+1257405,2021,Uganda,5,RB Patel,f88dc8de,CG Williams,e16e7347,K Waiswa,a3a275ec,0,0,0,0,0,,,,,,1,0,1
+1257405,2021,Uganda,5,K Waiswa,a3a275ec,CG Williams,e16e7347,RB Patel,f88dc8de,0,0,0,0,0,,,,,,0,0,0
+1257405,2021,Uganda,5,K Waiswa,a3a275ec,CG Williams,e16e7347,RB Patel,f88dc8de,0,0,0,0,0,,,,,,1,0,1
+1257405,2021,Uganda,5,RB Patel,f88dc8de,CG Williams,e16e7347,K Waiswa,a3a275ec,0,0,0,0,0,,,,,,1,0,1
+1257405,2021,Uganda,5,K Waiswa,a3a275ec,CG Williams,e16e7347,RB Patel,f88dc8de,0,0,0,0,0,,,,,,0,0,0
+1257405,2021,Uganda,5,K Waiswa,a3a275ec,CG Williams,e16e7347,RB Patel,f88dc8de,0,0,0,0,0,,,,,,0,0,0
+1257405,2021,Uganda,6,RB Patel,f88dc8de,BM Scholtz,e85d03d6,K Waiswa,a3a275ec,0,0,0,0,0,,,,,,0,0,0
+1257405,2021,Uganda,6,RB Patel,f88dc8de,BM Scholtz,e85d03d6,K Waiswa,a3a275ec,0,0,0,0,0,,,,,,0,0,0
+1257405,2021,Uganda,6,RB Patel,f88dc8de,BM Scholtz,e85d03d6,K Waiswa,a3a275ec,0,0,0,0,0,,,,,,1,0,1
+1257405,2021,Uganda,6,K Waiswa,a3a275ec,BM Scholtz,e85d03d6,RB Patel,f88dc8de,0,0,0,0,0,,,,,,0,0,0
+1257405,2021,Uganda,6,K Waiswa,a3a275ec,BM Scholtz,e85d03d6,RB Patel,f88dc8de,0,0,0,0,0,,,,,,0,0,0
+1257405,2021,Uganda,6,K Waiswa,a3a275ec,BM Scholtz,e85d03d6,RB Patel,f88dc8de,0,0,1,0,0,,,,,,0,1,1
+1257405,2021,Uganda,7,K Waiswa,a3a275ec,K Birkenstock,27b8d7b6,RB Patel,f88dc8de,1,0,0,0,0,,,,,,0,1,1
+1257405,2021,Uganda,7,K Waiswa,a3a275ec,K Birkenstock,27b8d7b6,RB Patel,f88dc8de,0,0,0,0,0,,,,,,1,0,1
+1257405,2021,Uganda,7,RB Patel,f88dc8de,K Birkenstock,27b8d7b6,K Waiswa,a3a275ec,0,0,0,0,0,,,,,,0,0,0
+1257405,2021,Uganda,7,RB Patel,f88dc8de,K Birkenstock,27b8d7b6,K Waiswa,a3a275ec,0,0,0,0,0,,,,,,1,0,1
+1257405,2021,Uganda,7,K Waiswa,a3a275ec,K Birkenstock,27b8d7b6,RB Patel,f88dc8de,0,0,0,0,0,,,,,,1,0,1
+1257405,2021,Uganda,7,RB Patel,f88dc8de,K Birkenstock,27b8d7b6,K Waiswa,a3a275ec,0,0,0,0,0,,,,,,1,0,1
+1257405,2021,Uganda,7,K Waiswa,a3a275ec,K Birkenstock,27b8d7b6,RB Patel,f88dc8de,0,0,0,0,0,,,,,,4,0,4
+1257405,2021,Uganda,8,RB Patel,f88dc8de,BM Scholtz,e85d03d6,K Waiswa,a3a275ec,0,0,0,0,0,,,,,,1,0,1
+1257405,2021,Uganda,8,K Waiswa,a3a275ec,BM Scholtz,e85d03d6,RB Patel,f88dc8de,0,0,0,0,0,,,,,,0,0,0
+1257405,2021,Uganda,8,K Waiswa,a3a275ec,BM Scholtz,e85d03d6,RB Patel,f88dc8de,0,0,0,0,0,,,,,,6,0,6
+1257405,2021,Uganda,8,K Waiswa,a3a275ec,BM Scholtz,e85d03d6,RB Patel,f88dc8de,0,0,0,0,0,,,,,,0,0,0
+1257405,2021,Uganda,8,K Waiswa,a3a275ec,BM Scholtz,e85d03d6,RB Patel,f88dc8de,0,0,0,0,0,,,,,,0,0,0
+1257405,2021,Uganda,8,K Waiswa,a3a275ec,BM Scholtz,e85d03d6,RB Patel,f88dc8de,0,0,0,0,0,,,,,,0,0,0
+1257405,2021,Uganda,9,RB Patel,f88dc8de,JN Loftie-Eaton,f468293b,K Waiswa,a3a275ec,0,0,0,0,0,,,,,,1,0,1
+1257405,2021,Uganda,9,K Waiswa,a3a275ec,JN Loftie-Eaton,f468293b,RB Patel,f88dc8de,0,0,0,0,0,,,,,,0,0,0
+1257405,2021,Uganda,9,K Waiswa,a3a275ec,JN Loftie-Eaton,f468293b,RB Patel,f88dc8de,0,0,0,0,0,,,,,,0,0,0
+1257405,2021,Uganda,9,K Waiswa,a3a275ec,JN Loftie-Eaton,f468293b,RB Patel,f88dc8de,0,0,0,0,0,,,,,,0,0,0
+1257405,2021,Uganda,9,K Waiswa,a3a275ec,JN Loftie-Eaton,f468293b,RB Patel,f88dc8de,0,0,0,0,0,,,,,,1,0,1
+1257405,2021,Uganda,9,RB Patel,f88dc8de,JN Loftie-Eaton,f468293b,K Waiswa,a3a275ec,0,0,0,0,0,,,,,,2,0,2
+1257405,2021,Uganda,10,K Waiswa,a3a275ec,T Lungameni,1688f2dc,RB Patel,f88dc8de,0,0,0,0,0,,,,,,1,0,1
+1257405,2021,Uganda,10,RB Patel,f88dc8de,T Lungameni,1688f2dc,K Waiswa,a3a275ec,0,0,0,0,0,,,,,,0,0,0
+1257405,2021,Uganda,10,RB Patel,f88dc8de,T Lungameni,1688f2dc,K Waiswa,a3a275ec,0,0,0,0,0,,,,,,1,0,1
+1257405,2021,Uganda,10,K Waiswa,a3a275ec,T Lungameni,1688f2dc,RB Patel,f88dc8de,0,0,0,0,0,,,,,,0,0,0
+1257405,2021,Uganda,10,K Waiswa,a3a275ec,T Lungameni,1688f2dc,RB Patel,f88dc8de,0,0,0,0,0,,,,,,1,0,1
+1257405,2021,Uganda,10,RB Patel,f88dc8de,T Lungameni,1688f2dc,K Waiswa,a3a275ec,0,0,0,0,0,,,,,,1,0,1
+1257405,2021,Uganda,11,RB Patel,f88dc8de,JN Loftie-Eaton,f468293b,K Waiswa,a3a275ec,0,0,0,0,0,,,,,,1,0,1
+1257405,2021,Uganda,11,K Waiswa,a3a275ec,JN Loftie-Eaton,f468293b,RB Patel,f88dc8de,0,0,0,0,0,,,,,,6,0,6
+1257405,2021,Uganda,11,K Waiswa,a3a275ec,JN Loftie-Eaton,f468293b,RB Patel,f88dc8de,0,0,0,0,0,,,,,,1,0,1
+1257405,2021,Uganda,11,RB Patel,f88dc8de,JN Loftie-Eaton,f468293b,K Waiswa,a3a275ec,0,0,0,0,0,,,,,,1,0,1
+1257405,2021,Uganda,11,K Waiswa,a3a275ec,JN Loftie-Eaton,f468293b,RB Patel,f88dc8de,0,0,0,0,0,,,,,,4,0,4
+1257405,2021,Uganda,11,K Waiswa,a3a275ec,JN Loftie-Eaton,f468293b,RB Patel,f88dc8de,0,0,0,0,0,,,,,,1,0,1
+1257405,2021,Uganda,12,K Waiswa,a3a275ec,BM Scholtz,e85d03d6,RB Patel,f88dc8de,0,0,0,0,0,,,,,,4,0,4
+1257405,2021,Uganda,12,K Waiswa,a3a275ec,BM Scholtz,e85d03d6,RB Patel,f88dc8de,0,0,0,0,0,,,,,,1,0,1
+1257405,2021,Uganda,12,RB Patel,f88dc8de,BM Scholtz,e85d03d6,K Waiswa,a3a275ec,0,0,0,0,0,,,,,,1,0,1
+1257405,2021,Uganda,12,K Waiswa,a3a275ec,BM Scholtz,e85d03d6,RB Patel,f88dc8de,0,0,0,0,1,K Waiswa,a3a275ec,MG Erasmus,95a5e066,caught,0,0,0

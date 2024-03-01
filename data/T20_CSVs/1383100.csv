@@ -1,0 +1,198 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1383100,2023,Japan,0,K Kadowaki-Fleming,33290a80,J Kariko,cde067e1,L Yamamoto-Lake,fa23405f,0,0,0,0,0,,,,,,0,0,0
+1383100,2023,Japan,0,K Kadowaki-Fleming,33290a80,J Kariko,cde067e1,L Yamamoto-Lake,fa23405f,0,0,0,0,0,,,,,,1,0,1
+1383100,2023,Japan,0,L Yamamoto-Lake,fa23405f,J Kariko,cde067e1,K Kadowaki-Fleming,33290a80,0,0,0,0,0,,,,,,0,0,0
+1383100,2023,Japan,0,L Yamamoto-Lake,fa23405f,J Kariko,cde067e1,K Kadowaki-Fleming,33290a80,0,0,0,0,1,L Yamamoto-Lake,fa23405f,,,bowled,0,0,0
+1383100,2023,Japan,0,D Suzuki,64c81abf,J Kariko,cde067e1,K Kadowaki-Fleming,33290a80,0,0,1,0,0,,,,,,0,1,1
+1383100,2023,Japan,0,K Kadowaki-Fleming,33290a80,J Kariko,cde067e1,D Suzuki,64c81abf,0,0,0,0,0,,,,,,6,0,6
+1383100,2023,Japan,1,D Suzuki,64c81abf,A Nao,4d1ec7eb,K Kadowaki-Fleming,33290a80,0,0,0,0,0,,,,,,0,0,0
+1383100,2023,Japan,1,D Suzuki,64c81abf,A Nao,4d1ec7eb,K Kadowaki-Fleming,33290a80,0,0,0,0,0,,,,,,0,0,0
+1383100,2023,Japan,1,D Suzuki,64c81abf,A Nao,4d1ec7eb,K Kadowaki-Fleming,33290a80,0,0,0,0,0,,,,,,1,0,1
+1383100,2023,Japan,1,K Kadowaki-Fleming,33290a80,A Nao,4d1ec7eb,D Suzuki,64c81abf,0,0,0,0,0,,,,,,0,0,0
+1383100,2023,Japan,1,K Kadowaki-Fleming,33290a80,A Nao,4d1ec7eb,D Suzuki,64c81abf,0,0,0,0,0,,,,,,2,0,2
+1383100,2023,Japan,1,K Kadowaki-Fleming,33290a80,A Nao,4d1ec7eb,D Suzuki,64c81abf,0,0,0,0,0,,,,,,0,0,0
+1383100,2023,Japan,2,D Suzuki,64c81abf,SI Kamea,0730a707,K Kadowaki-Fleming,33290a80,0,0,0,0,0,,,,,,2,0,2
+1383100,2023,Japan,2,D Suzuki,64c81abf,SI Kamea,0730a707,K Kadowaki-Fleming,33290a80,0,0,0,0,0,,,,,,1,0,1
+1383100,2023,Japan,2,K Kadowaki-Fleming,33290a80,SI Kamea,0730a707,D Suzuki,64c81abf,0,0,0,0,0,,,,,,1,0,1
+1383100,2023,Japan,2,D Suzuki,64c81abf,SI Kamea,0730a707,K Kadowaki-Fleming,33290a80,0,0,2,0,0,,,,,,0,2,2
+1383100,2023,Japan,2,D Suzuki,64c81abf,SI Kamea,0730a707,K Kadowaki-Fleming,33290a80,0,0,0,0,0,,,,,,0,0,0
+1383100,2023,Japan,2,D Suzuki,64c81abf,SI Kamea,0730a707,K Kadowaki-Fleming,33290a80,0,0,0,0,0,,,,,,0,0,0
+1383100,2023,Japan,3,K Kadowaki-Fleming,33290a80,S Bau,9a95bebb,D Suzuki,64c81abf,0,0,0,0,0,,,,,,1,0,1
+1383100,2023,Japan,3,D Suzuki,64c81abf,S Bau,9a95bebb,K Kadowaki-Fleming,33290a80,0,0,0,0,0,,,,,,4,0,4
+1383100,2023,Japan,3,D Suzuki,64c81abf,S Bau,9a95bebb,K Kadowaki-Fleming,33290a80,0,0,0,0,0,,,,,,0,0,0
+1383100,2023,Japan,3,D Suzuki,64c81abf,S Bau,9a95bebb,K Kadowaki-Fleming,33290a80,0,0,0,0,0,,,,,,0,0,0
+1383100,2023,Japan,3,D Suzuki,64c81abf,S Bau,9a95bebb,K Kadowaki-Fleming,33290a80,0,0,0,0,0,,,,,,0,0,0
+1383100,2023,Japan,3,D Suzuki,64c81abf,S Bau,9a95bebb,K Kadowaki-Fleming,33290a80,0,0,0,0,0,,,,,,1,0,1
+1383100,2023,Japan,4,D Suzuki,64c81abf,N Vanua,a36915ce,K Kadowaki-Fleming,33290a80,0,0,0,0,0,,,,,,4,0,4
+1383100,2023,Japan,4,D Suzuki,64c81abf,N Vanua,a36915ce,K Kadowaki-Fleming,33290a80,0,0,0,0,0,,,,,,0,0,0
+1383100,2023,Japan,4,D Suzuki,64c81abf,N Vanua,a36915ce,K Kadowaki-Fleming,33290a80,0,0,0,0,1,D Suzuki,64c81abf,,,bowled,0,0,0
+1383100,2023,Japan,4,I Takahashi,c988daa1,N Vanua,a36915ce,K Kadowaki-Fleming,33290a80,0,0,0,0,1,I Takahashi,c988daa1,,,caught and bowled,0,0,0
+1383100,2023,Japan,4,S Ravichandran,9f2be73d,N Vanua,a36915ce,K Kadowaki-Fleming,33290a80,0,0,0,0,1,S Ravichandran,9f2be73d,SI Kamea,0730a707,run out,0,0,0
+1383100,2023,Japan,4,K Kadowaki-Fleming,33290a80,N Vanua,a36915ce,R Sakurano-Thomas,dd14abf5,0,0,0,0,0,,,,,,0,0,0
+1383100,2023,Japan,5,R Sakurano-Thomas,dd14abf5,A Nao,4d1ec7eb,K Kadowaki-Fleming,33290a80,0,0,0,0,0,,,,,,0,0,0
+1383100,2023,Japan,5,R Sakurano-Thomas,dd14abf5,A Nao,4d1ec7eb,K Kadowaki-Fleming,33290a80,0,0,0,0,0,,,,,,1,0,1
+1383100,2023,Japan,5,K Kadowaki-Fleming,33290a80,A Nao,4d1ec7eb,R Sakurano-Thomas,dd14abf5,0,0,0,0,0,,,,,,0,0,0
+1383100,2023,Japan,5,K Kadowaki-Fleming,33290a80,A Nao,4d1ec7eb,R Sakurano-Thomas,dd14abf5,0,0,0,0,0,,,,,,1,0,1
+1383100,2023,Japan,5,R Sakurano-Thomas,dd14abf5,A Nao,4d1ec7eb,K Kadowaki-Fleming,33290a80,0,0,0,0,0,,,,,,0,0,0
+1383100,2023,Japan,5,R Sakurano-Thomas,dd14abf5,A Nao,4d1ec7eb,K Kadowaki-Fleming,33290a80,0,0,0,0,0,,,,,,0,0,0
+1383100,2023,Japan,6,K Kadowaki-Fleming,33290a80,N Vanua,a36915ce,R Sakurano-Thomas,dd14abf5,0,0,0,0,0,,,,,,0,0,0
+1383100,2023,Japan,6,K Kadowaki-Fleming,33290a80,N Vanua,a36915ce,R Sakurano-Thomas,dd14abf5,1,0,0,0,0,,,,,,0,1,1
+1383100,2023,Japan,6,K Kadowaki-Fleming,33290a80,N Vanua,a36915ce,R Sakurano-Thomas,dd14abf5,0,0,0,0,0,,,,,,6,0,6
+1383100,2023,Japan,6,K Kadowaki-Fleming,33290a80,N Vanua,a36915ce,R Sakurano-Thomas,dd14abf5,1,0,0,0,0,,,,,,0,1,1
+1383100,2023,Japan,6,K Kadowaki-Fleming,33290a80,N Vanua,a36915ce,R Sakurano-Thomas,dd14abf5,0,0,0,0,1,K Kadowaki-Fleming,33290a80,,,bowled,0,0,0
+1383100,2023,Japan,6,W Miyauchi,fef40097,N Vanua,a36915ce,R Sakurano-Thomas,dd14abf5,1,0,0,0,0,,,,,,0,1,1
+1383100,2023,Japan,6,W Miyauchi,fef40097,N Vanua,a36915ce,R Sakurano-Thomas,dd14abf5,0,0,0,0,0,,,,,,0,0,0
+1383100,2023,Japan,6,W Miyauchi,fef40097,N Vanua,a36915ce,R Sakurano-Thomas,dd14abf5,0,0,0,0,0,,,,,,0,0,0
+1383100,2023,Japan,6,W Miyauchi,fef40097,N Vanua,a36915ce,R Sakurano-Thomas,dd14abf5,0,0,0,0,0,,,,,,1,0,1
+1383100,2023,Japan,7,W Miyauchi,fef40097,SI Kamea,0730a707,R Sakurano-Thomas,dd14abf5,0,0,0,0,0,,,,,,1,0,1
+1383100,2023,Japan,7,R Sakurano-Thomas,dd14abf5,SI Kamea,0730a707,W Miyauchi,fef40097,0,0,0,0,0,,,,,,0,0,0
+1383100,2023,Japan,7,R Sakurano-Thomas,dd14abf5,SI Kamea,0730a707,W Miyauchi,fef40097,0,0,0,0,0,,,,,,0,0,0
+1383100,2023,Japan,7,R Sakurano-Thomas,dd14abf5,SI Kamea,0730a707,W Miyauchi,fef40097,0,0,0,0,0,,,,,,0,0,0
+1383100,2023,Japan,7,R Sakurano-Thomas,dd14abf5,SI Kamea,0730a707,W Miyauchi,fef40097,0,0,0,0,0,,,,,,0,0,0
+1383100,2023,Japan,7,R Sakurano-Thomas,dd14abf5,SI Kamea,0730a707,W Miyauchi,fef40097,0,0,0,0,0,,,,,,1,0,1
+1383100,2023,Japan,8,R Sakurano-Thomas,dd14abf5,J Kariko,cde067e1,W Miyauchi,fef40097,0,0,0,0,0,,,,,,0,0,0
+1383100,2023,Japan,8,R Sakurano-Thomas,dd14abf5,J Kariko,cde067e1,W Miyauchi,fef40097,0,0,0,0,0,,,,,,2,0,2
+1383100,2023,Japan,8,R Sakurano-Thomas,dd14abf5,J Kariko,cde067e1,W Miyauchi,fef40097,0,0,0,0,0,,,,,,1,0,1
+1383100,2023,Japan,8,W Miyauchi,fef40097,J Kariko,cde067e1,R Sakurano-Thomas,dd14abf5,0,0,3,0,0,,,,,,0,3,3
+1383100,2023,Japan,8,R Sakurano-Thomas,dd14abf5,J Kariko,cde067e1,W Miyauchi,fef40097,0,0,0,0,0,,,,,,0,0,0
+1383100,2023,Japan,8,R Sakurano-Thomas,dd14abf5,J Kariko,cde067e1,W Miyauchi,fef40097,0,0,0,0,0,,,,,,0,0,0
+1383100,2023,Japan,9,W Miyauchi,fef40097,CJA Amini,4d84ad05,R Sakurano-Thomas,dd14abf5,0,0,0,0,0,,,,,,1,0,1
+1383100,2023,Japan,9,R Sakurano-Thomas,dd14abf5,CJA Amini,4d84ad05,W Miyauchi,fef40097,0,0,0,0,0,,,,,,1,0,1
+1383100,2023,Japan,9,W Miyauchi,fef40097,CJA Amini,4d84ad05,R Sakurano-Thomas,dd14abf5,0,0,0,0,0,,,,,,1,0,1
+1383100,2023,Japan,9,R Sakurano-Thomas,dd14abf5,CJA Amini,4d84ad05,W Miyauchi,fef40097,0,0,0,0,0,,,,,,1,0,1
+1383100,2023,Japan,9,W Miyauchi,fef40097,CJA Amini,4d84ad05,R Sakurano-Thomas,dd14abf5,0,0,0,0,0,,,,,,1,0,1
+1383100,2023,Japan,9,R Sakurano-Thomas,dd14abf5,CJA Amini,4d84ad05,W Miyauchi,fef40097,0,0,0,0,0,,,,,,1,0,1
+1383100,2023,Japan,10,R Sakurano-Thomas,dd14abf5,J Kariko,cde067e1,W Miyauchi,fef40097,0,0,0,0,0,,,,,,0,0,0
+1383100,2023,Japan,10,R Sakurano-Thomas,dd14abf5,J Kariko,cde067e1,W Miyauchi,fef40097,0,0,0,0,0,,,,,,1,0,1
+1383100,2023,Japan,10,W Miyauchi,fef40097,J Kariko,cde067e1,R Sakurano-Thomas,dd14abf5,0,0,0,0,0,,,,,,0,0,0
+1383100,2023,Japan,10,W Miyauchi,fef40097,J Kariko,cde067e1,R Sakurano-Thomas,dd14abf5,0,0,0,0,0,,,,,,0,0,0
+1383100,2023,Japan,10,W Miyauchi,fef40097,J Kariko,cde067e1,R Sakurano-Thomas,dd14abf5,0,0,0,0,0,,,,,,0,0,0
+1383100,2023,Japan,10,W Miyauchi,fef40097,J Kariko,cde067e1,R Sakurano-Thomas,dd14abf5,0,0,0,0,0,,,,,,1,0,1
+1383100,2023,Japan,11,W Miyauchi,fef40097,CJA Amini,4d84ad05,R Sakurano-Thomas,dd14abf5,0,0,0,0,0,,,,,,0,0,0
+1383100,2023,Japan,11,W Miyauchi,fef40097,CJA Amini,4d84ad05,R Sakurano-Thomas,dd14abf5,0,0,0,0,0,,,,,,0,0,0
+1383100,2023,Japan,11,W Miyauchi,fef40097,CJA Amini,4d84ad05,R Sakurano-Thomas,dd14abf5,0,0,0,0,0,,,,,,1,0,1
+1383100,2023,Japan,11,R Sakurano-Thomas,dd14abf5,CJA Amini,4d84ad05,W Miyauchi,fef40097,0,0,0,0,0,,,,,,2,0,2
+1383100,2023,Japan,11,R Sakurano-Thomas,dd14abf5,CJA Amini,4d84ad05,W Miyauchi,fef40097,0,0,0,0,0,,,,,,1,0,1
+1383100,2023,Japan,11,W Miyauchi,fef40097,CJA Amini,4d84ad05,R Sakurano-Thomas,dd14abf5,0,0,0,0,0,,,,,,1,0,1
+1383100,2023,Japan,12,W Miyauchi,fef40097,N Vanua,a36915ce,R Sakurano-Thomas,dd14abf5,0,0,0,0,0,,,,,,1,0,1
+1383100,2023,Japan,12,R Sakurano-Thomas,dd14abf5,N Vanua,a36915ce,W Miyauchi,fef40097,0,0,0,0,0,,,,,,0,0,0
+1383100,2023,Japan,12,R Sakurano-Thomas,dd14abf5,N Vanua,a36915ce,W Miyauchi,fef40097,0,0,0,0,0,,,,,,0,0,0
+1383100,2023,Japan,12,R Sakurano-Thomas,dd14abf5,N Vanua,a36915ce,W Miyauchi,fef40097,0,0,0,0,0,,,,,,1,0,1
+1383100,2023,Japan,12,W Miyauchi,fef40097,N Vanua,a36915ce,R Sakurano-Thomas,dd14abf5,0,0,0,0,0,,,,,,0,0,0
+1383100,2023,Japan,12,W Miyauchi,fef40097,N Vanua,a36915ce,R Sakurano-Thomas,dd14abf5,0,0,0,0,0,,,,,,1,0,1
+1383100,2023,Japan,13,W Miyauchi,fef40097,CJA Amini,4d84ad05,R Sakurano-Thomas,dd14abf5,0,0,0,0,0,,,,,,2,0,2
+1383100,2023,Japan,13,W Miyauchi,fef40097,CJA Amini,4d84ad05,R Sakurano-Thomas,dd14abf5,0,0,0,0,0,,,,,,1,0,1
+1383100,2023,Japan,13,R Sakurano-Thomas,dd14abf5,CJA Amini,4d84ad05,W Miyauchi,fef40097,0,0,0,0,0,,,,,,0,0,0
+1383100,2023,Japan,13,R Sakurano-Thomas,dd14abf5,CJA Amini,4d84ad05,W Miyauchi,fef40097,0,0,0,0,0,,,,,,2,0,2
+1383100,2023,Japan,13,R Sakurano-Thomas,dd14abf5,CJA Amini,4d84ad05,W Miyauchi,fef40097,0,0,0,0,0,,,,,,2,0,2
+1383100,2023,Japan,13,R Sakurano-Thomas,dd14abf5,CJA Amini,4d84ad05,W Miyauchi,fef40097,0,0,0,0,0,,,,,,2,0,2
+1383100,2023,Japan,14,W Miyauchi,fef40097,SI Kamea,0730a707,R Sakurano-Thomas,dd14abf5,0,0,0,0,0,,,,,,0,0,0
+1383100,2023,Japan,14,W Miyauchi,fef40097,SI Kamea,0730a707,R Sakurano-Thomas,dd14abf5,0,0,1,0,0,,,,,,0,1,1
+1383100,2023,Japan,14,R Sakurano-Thomas,dd14abf5,SI Kamea,0730a707,W Miyauchi,fef40097,0,0,0,0,0,,,,,,0,0,0
+1383100,2023,Japan,14,R Sakurano-Thomas,dd14abf5,SI Kamea,0730a707,W Miyauchi,fef40097,0,0,1,0,0,,,,,,0,1,1
+1383100,2023,Japan,14,W Miyauchi,fef40097,SI Kamea,0730a707,R Sakurano-Thomas,dd14abf5,0,0,0,0,0,,,,,,0,0,0
+1383100,2023,Japan,14,W Miyauchi,fef40097,SI Kamea,0730a707,R Sakurano-Thomas,dd14abf5,0,0,0,0,0,,,,,,1,0,1
+1383100,2023,Japan,15,W Miyauchi,fef40097,A Nao,4d1ec7eb,R Sakurano-Thomas,dd14abf5,1,0,0,0,0,,,,,,0,1,1
+1383100,2023,Japan,15,W Miyauchi,fef40097,A Nao,4d1ec7eb,R Sakurano-Thomas,dd14abf5,0,0,0,0,0,,,,,,1,0,1
+1383100,2023,Japan,15,R Sakurano-Thomas,dd14abf5,A Nao,4d1ec7eb,W Miyauchi,fef40097,0,0,0,0,0,,,,,,4,0,4
+1383100,2023,Japan,15,R Sakurano-Thomas,dd14abf5,A Nao,4d1ec7eb,W Miyauchi,fef40097,0,0,0,0,0,,,,,,4,0,4
+1383100,2023,Japan,15,R Sakurano-Thomas,dd14abf5,A Nao,4d1ec7eb,W Miyauchi,fef40097,0,0,0,0,0,,,,,,1,0,1
+1383100,2023,Japan,15,W Miyauchi,fef40097,A Nao,4d1ec7eb,R Sakurano-Thomas,dd14abf5,0,0,0,0,0,,,,,,0,0,0
+1383100,2023,Japan,15,W Miyauchi,fef40097,A Nao,4d1ec7eb,R Sakurano-Thomas,dd14abf5,0,0,0,0,0,,,,,,0,0,0
+1383100,2023,Japan,16,R Sakurano-Thomas,dd14abf5,N Vanua,a36915ce,W Miyauchi,fef40097,0,0,0,0,0,,,,,,0,0,0
+1383100,2023,Japan,16,R Sakurano-Thomas,dd14abf5,N Vanua,a36915ce,W Miyauchi,fef40097,0,0,0,0,0,,,,,,2,0,2
+1383100,2023,Japan,16,R Sakurano-Thomas,dd14abf5,N Vanua,a36915ce,W Miyauchi,fef40097,0,0,0,0,1,R Sakurano-Thomas,dd14abf5,CJA Amini,4d84ad05,caught,0,0,0
+1383100,2023,Japan,16,T Takada,bd3c364d,N Vanua,a36915ce,W Miyauchi,fef40097,0,0,0,0,0,,,,,,0,0,0
+1383100,2023,Japan,16,T Takada,bd3c364d,N Vanua,a36915ce,W Miyauchi,fef40097,0,0,0,0,0,,,,,,0,0,0
+1383100,2023,Japan,16,T Takada,bd3c364d,N Vanua,a36915ce,W Miyauchi,fef40097,0,0,0,0,0,,,,,,1,0,1
+1383100,2023,Japan,17,T Takada,bd3c364d,S Bau,9a95bebb,W Miyauchi,fef40097,0,0,0,0,0,,,,,,1,0,1
+1383100,2023,Japan,17,W Miyauchi,fef40097,S Bau,9a95bebb,T Takada,bd3c364d,0,0,0,0,0,,,,,,1,0,1
+1383100,2023,Japan,17,T Takada,bd3c364d,S Bau,9a95bebb,W Miyauchi,fef40097,0,0,0,0,0,,,,,,1,0,1
+1383100,2023,Japan,17,W Miyauchi,fef40097,S Bau,9a95bebb,T Takada,bd3c364d,0,0,0,0,0,,,,,,1,0,1
+1383100,2023,Japan,17,T Takada,bd3c364d,S Bau,9a95bebb,W Miyauchi,fef40097,0,0,0,0,0,,,,,,0,0,0
+1383100,2023,Japan,17,T Takada,bd3c364d,S Bau,9a95bebb,W Miyauchi,fef40097,0,0,0,0,0,,,,,,4,0,4
+1383100,2023,Japan,18,W Miyauchi,fef40097,SI Kamea,0730a707,T Takada,bd3c364d,0,0,0,0,0,,,,,,1,0,1
+1383100,2023,Japan,18,T Takada,bd3c364d,SI Kamea,0730a707,W Miyauchi,fef40097,0,0,0,0,0,,,,,,1,0,1
+1383100,2023,Japan,18,W Miyauchi,fef40097,SI Kamea,0730a707,T Takada,bd3c364d,0,0,0,0,0,,,,,,0,0,0
+1383100,2023,Japan,18,W Miyauchi,fef40097,SI Kamea,0730a707,T Takada,bd3c364d,0,0,0,0,1,W Miyauchi,fef40097,H Hiri,9dc3ea7e,caught,0,0,0
+1383100,2023,Japan,18,P Kumbhare,ef503cfe,SI Kamea,0730a707,T Takada,bd3c364d,0,0,0,0,0,,,,,,0,0,0
+1383100,2023,Japan,18,P Kumbhare,ef503cfe,SI Kamea,0730a707,T Takada,bd3c364d,0,0,0,0,0,,,,,,1,0,1
+1383100,2023,Japan,19,P Kumbhare,ef503cfe,J Kariko,cde067e1,T Takada,bd3c364d,0,0,0,0,0,,,,,,1,0,1
+1383100,2023,Japan,19,T Takada,bd3c364d,J Kariko,cde067e1,P Kumbhare,ef503cfe,0,0,0,0,0,,,,,,2,0,2
+1383100,2023,Japan,19,T Takada,bd3c364d,J Kariko,cde067e1,P Kumbhare,ef503cfe,0,0,0,0,0,,,,,,1,0,1
+1383100,2023,Japan,19,P Kumbhare,ef503cfe,J Kariko,cde067e1,T Takada,bd3c364d,0,0,0,0,1,P Kumbhare,ef503cfe,K Doriga,365229a8,stumped,0,0,0
+1383100,2023,Japan,19,K Kubota,42581e6d,J Kariko,cde067e1,T Takada,bd3c364d,0,0,0,0,0,,,,,,1,0,1
+1383100,2023,Japan,19,T Takada,bd3c364d,J Kariko,cde067e1,K Kubota,42581e6d,0,0,0,0,0,,,,,,1,0,1
+1383100,2023,Papua New Guinea,0,TP Ura,a82eb3fb,P Kumbhare,ef503cfe,A Vala,72e60730,0,0,0,0,0,,,,,,4,0,4
+1383100,2023,Papua New Guinea,0,TP Ura,a82eb3fb,P Kumbhare,ef503cfe,A Vala,72e60730,0,0,0,0,0,,,,,,6,0,6
+1383100,2023,Papua New Guinea,0,TP Ura,a82eb3fb,P Kumbhare,ef503cfe,A Vala,72e60730,1,0,0,0,0,,,,,,0,1,1
+1383100,2023,Papua New Guinea,0,TP Ura,a82eb3fb,P Kumbhare,ef503cfe,A Vala,72e60730,0,0,0,0,0,,,,,,1,0,1
+1383100,2023,Papua New Guinea,0,A Vala,72e60730,P Kumbhare,ef503cfe,TP Ura,a82eb3fb,0,0,0,0,0,,,,,,1,0,1
+1383100,2023,Papua New Guinea,0,TP Ura,a82eb3fb,P Kumbhare,ef503cfe,A Vala,72e60730,0,0,0,0,0,,,,,,6,0,6
+1383100,2023,Papua New Guinea,0,TP Ura,a82eb3fb,P Kumbhare,ef503cfe,A Vala,72e60730,0,0,0,0,0,,,,,,0,0,0
+1383100,2023,Papua New Guinea,1,A Vala,72e60730,R Sakurano-Thomas,dd14abf5,TP Ura,a82eb3fb,0,0,0,0,0,,,,,,6,0,6
+1383100,2023,Papua New Guinea,1,A Vala,72e60730,R Sakurano-Thomas,dd14abf5,TP Ura,a82eb3fb,1,0,0,0,0,,,,,,0,1,1
+1383100,2023,Papua New Guinea,1,A Vala,72e60730,R Sakurano-Thomas,dd14abf5,TP Ura,a82eb3fb,0,0,0,0,0,,,,,,1,0,1
+1383100,2023,Papua New Guinea,1,TP Ura,a82eb3fb,R Sakurano-Thomas,dd14abf5,A Vala,72e60730,0,0,0,0,0,,,,,,0,0,0
+1383100,2023,Papua New Guinea,1,TP Ura,a82eb3fb,R Sakurano-Thomas,dd14abf5,A Vala,72e60730,0,0,0,0,0,,,,,,1,0,1
+1383100,2023,Papua New Guinea,1,A Vala,72e60730,R Sakurano-Thomas,dd14abf5,TP Ura,a82eb3fb,0,0,0,0,0,,,,,,1,0,1
+1383100,2023,Papua New Guinea,1,TP Ura,a82eb3fb,R Sakurano-Thomas,dd14abf5,A Vala,72e60730,0,0,0,0,0,,,,,,4,0,4
+1383100,2023,Papua New Guinea,2,A Vala,72e60730,R Drake,57b3c398,TP Ura,a82eb3fb,0,0,0,0,0,,,,,,0,0,0
+1383100,2023,Papua New Guinea,2,A Vala,72e60730,R Drake,57b3c398,TP Ura,a82eb3fb,0,0,0,0,0,,,,,,1,0,1
+1383100,2023,Papua New Guinea,2,TP Ura,a82eb3fb,R Drake,57b3c398,A Vala,72e60730,0,0,0,0,0,,,,,,0,0,0
+1383100,2023,Papua New Guinea,2,TP Ura,a82eb3fb,R Drake,57b3c398,A Vala,72e60730,0,0,0,0,0,,,,,,4,0,4
+1383100,2023,Papua New Guinea,2,TP Ura,a82eb3fb,R Drake,57b3c398,A Vala,72e60730,0,0,0,0,0,,,,,,2,0,2
+1383100,2023,Papua New Guinea,2,TP Ura,a82eb3fb,R Drake,57b3c398,A Vala,72e60730,0,0,0,0,0,,,,,,4,0,4
+1383100,2023,Papua New Guinea,3,A Vala,72e60730,I Takahashi,c988daa1,TP Ura,a82eb3fb,0,0,0,0,0,,,,,,4,0,4
+1383100,2023,Papua New Guinea,3,A Vala,72e60730,I Takahashi,c988daa1,TP Ura,a82eb3fb,0,0,0,0,0,,,,,,2,0,2
+1383100,2023,Papua New Guinea,3,A Vala,72e60730,I Takahashi,c988daa1,TP Ura,a82eb3fb,0,0,0,0,0,,,,,,0,0,0
+1383100,2023,Papua New Guinea,3,A Vala,72e60730,I Takahashi,c988daa1,TP Ura,a82eb3fb,0,0,0,0,1,A Vala,72e60730,D Suzuki,64c81abf,caught,0,0,0
+1383100,2023,Papua New Guinea,3,K Doriga,365229a8,I Takahashi,c988daa1,TP Ura,a82eb3fb,0,0,0,0,0,,,,,,1,0,1
+1383100,2023,Papua New Guinea,3,TP Ura,a82eb3fb,I Takahashi,c988daa1,K Doriga,365229a8,0,0,0,0,0,,,,,,1,0,1
+1383100,2023,Papua New Guinea,4,TP Ura,a82eb3fb,K Kubota,42581e6d,K Doriga,365229a8,0,0,0,0,0,,,,,,4,0,4
+1383100,2023,Papua New Guinea,4,TP Ura,a82eb3fb,K Kubota,42581e6d,K Doriga,365229a8,0,0,0,0,0,,,,,,1,0,1
+1383100,2023,Papua New Guinea,4,K Doriga,365229a8,K Kubota,42581e6d,TP Ura,a82eb3fb,0,0,0,0,0,,,,,,0,0,0
+1383100,2023,Papua New Guinea,4,K Doriga,365229a8,K Kubota,42581e6d,TP Ura,a82eb3fb,0,0,0,0,1,K Doriga,365229a8,R Drake,57b3c398,caught,0,0,0
+1383100,2023,Papua New Guinea,4,S Bau,9a95bebb,K Kubota,42581e6d,TP Ura,a82eb3fb,0,0,0,0,1,S Bau,9a95bebb,R Drake,57b3c398,caught,0,0,0
+1383100,2023,Papua New Guinea,4,L Siaka,6b4593ee,K Kubota,42581e6d,TP Ura,a82eb3fb,0,0,0,0,0,,,,,,3,0,3
+1383100,2023,Papua New Guinea,5,L Siaka,6b4593ee,S Ravichandran,9f2be73d,TP Ura,a82eb3fb,0,0,0,0,0,,,,,,1,0,1
+1383100,2023,Papua New Guinea,5,TP Ura,a82eb3fb,S Ravichandran,9f2be73d,L Siaka,6b4593ee,0,0,0,0,0,,,,,,4,0,4
+1383100,2023,Papua New Guinea,5,TP Ura,a82eb3fb,S Ravichandran,9f2be73d,L Siaka,6b4593ee,0,0,0,0,0,,,,,,4,0,4
+1383100,2023,Papua New Guinea,5,TP Ura,a82eb3fb,S Ravichandran,9f2be73d,L Siaka,6b4593ee,0,0,0,0,0,,,,,,1,0,1
+1383100,2023,Papua New Guinea,5,L Siaka,6b4593ee,S Ravichandran,9f2be73d,TP Ura,a82eb3fb,0,0,0,0,0,,,,,,0,0,0
+1383100,2023,Papua New Guinea,5,L Siaka,6b4593ee,S Ravichandran,9f2be73d,TP Ura,a82eb3fb,0,0,0,0,0,,,,,,0,0,0
+1383100,2023,Papua New Guinea,6,TP Ura,a82eb3fb,K Kubota,42581e6d,L Siaka,6b4593ee,0,0,0,0,1,TP Ura,a82eb3fb,D Suzuki,64c81abf,caught,0,0,0
+1383100,2023,Papua New Guinea,6,CJA Amini,4d84ad05,K Kubota,42581e6d,L Siaka,6b4593ee,0,0,0,0,0,,,,,,0,0,0
+1383100,2023,Papua New Guinea,6,CJA Amini,4d84ad05,K Kubota,42581e6d,L Siaka,6b4593ee,0,0,0,0,0,,,,,,2,0,2
+1383100,2023,Papua New Guinea,6,CJA Amini,4d84ad05,K Kubota,42581e6d,L Siaka,6b4593ee,0,0,0,0,0,,,,,,0,0,0
+1383100,2023,Papua New Guinea,6,CJA Amini,4d84ad05,K Kubota,42581e6d,L Siaka,6b4593ee,1,0,0,0,0,,,,,,0,1,1
+1383100,2023,Papua New Guinea,6,CJA Amini,4d84ad05,K Kubota,42581e6d,L Siaka,6b4593ee,0,0,0,0,0,,,,,,0,0,0
+1383100,2023,Papua New Guinea,6,CJA Amini,4d84ad05,K Kubota,42581e6d,L Siaka,6b4593ee,0,0,0,0,0,,,,,,0,0,0
+1383100,2023,Papua New Guinea,7,L Siaka,6b4593ee,P Kumbhare,ef503cfe,CJA Amini,4d84ad05,0,0,0,0,0,,,,,,0,0,0
+1383100,2023,Papua New Guinea,7,L Siaka,6b4593ee,P Kumbhare,ef503cfe,CJA Amini,4d84ad05,0,0,0,0,0,,,,,,0,0,0
+1383100,2023,Papua New Guinea,7,L Siaka,6b4593ee,P Kumbhare,ef503cfe,CJA Amini,4d84ad05,0,0,0,0,0,,,,,,4,0,4
+1383100,2023,Papua New Guinea,7,L Siaka,6b4593ee,P Kumbhare,ef503cfe,CJA Amini,4d84ad05,0,0,0,0,0,,,,,,0,0,0
+1383100,2023,Papua New Guinea,7,L Siaka,6b4593ee,P Kumbhare,ef503cfe,CJA Amini,4d84ad05,0,0,0,0,0,,,,,,0,0,0
+1383100,2023,Papua New Guinea,7,L Siaka,6b4593ee,P Kumbhare,ef503cfe,CJA Amini,4d84ad05,0,0,0,0,0,,,,,,0,0,0
+1383100,2023,Papua New Guinea,8,CJA Amini,4d84ad05,D Suzuki,64c81abf,L Siaka,6b4593ee,0,0,0,0,0,,,,,,0,0,0
+1383100,2023,Papua New Guinea,8,CJA Amini,4d84ad05,D Suzuki,64c81abf,L Siaka,6b4593ee,0,0,0,0,0,,,,,,1,0,1
+1383100,2023,Papua New Guinea,8,L Siaka,6b4593ee,D Suzuki,64c81abf,CJA Amini,4d84ad05,0,0,0,0,0,,,,,,2,0,2
+1383100,2023,Papua New Guinea,8,L Siaka,6b4593ee,D Suzuki,64c81abf,CJA Amini,4d84ad05,0,0,0,0,0,,,,,,0,0,0
+1383100,2023,Papua New Guinea,8,L Siaka,6b4593ee,D Suzuki,64c81abf,CJA Amini,4d84ad05,0,0,0,0,0,,,,,,1,0,1
+1383100,2023,Papua New Guinea,8,CJA Amini,4d84ad05,D Suzuki,64c81abf,L Siaka,6b4593ee,0,0,0,0,0,,,,,,1,0,1
+1383100,2023,Papua New Guinea,9,CJA Amini,4d84ad05,I Takahashi,c988daa1,L Siaka,6b4593ee,0,0,0,0,0,,,,,,3,0,3
+1383100,2023,Papua New Guinea,9,L Siaka,6b4593ee,I Takahashi,c988daa1,CJA Amini,4d84ad05,0,0,0,0,0,,,,,,0,0,0
+1383100,2023,Papua New Guinea,9,L Siaka,6b4593ee,I Takahashi,c988daa1,CJA Amini,4d84ad05,0,0,0,0,0,,,,,,1,0,1
+1383100,2023,Papua New Guinea,9,CJA Amini,4d84ad05,I Takahashi,c988daa1,L Siaka,6b4593ee,0,0,0,0,0,,,,,,0,0,0
+1383100,2023,Papua New Guinea,9,CJA Amini,4d84ad05,I Takahashi,c988daa1,L Siaka,6b4593ee,0,0,0,0,0,,,,,,2,0,2
+1383100,2023,Papua New Guinea,9,CJA Amini,4d84ad05,I Takahashi,c988daa1,L Siaka,6b4593ee,0,0,0,0,0,,,,,,1,0,1
+1383100,2023,Papua New Guinea,10,CJA Amini,4d84ad05,R Drake,57b3c398,L Siaka,6b4593ee,0,0,0,0,0,,,,,,2,0,2
+1383100,2023,Papua New Guinea,10,CJA Amini,4d84ad05,R Drake,57b3c398,L Siaka,6b4593ee,0,0,0,0,0,,,,,,1,0,1
+1383100,2023,Papua New Guinea,10,L Siaka,6b4593ee,R Drake,57b3c398,CJA Amini,4d84ad05,0,0,0,0,0,,,,,,0,0,0
+1383100,2023,Papua New Guinea,10,L Siaka,6b4593ee,R Drake,57b3c398,CJA Amini,4d84ad05,0,1,0,0,0,,,,,,6,1,7
+1383100,2023,Papua New Guinea,10,L Siaka,6b4593ee,R Drake,57b3c398,CJA Amini,4d84ad05,0,0,0,0,0,,,,,,1,0,1
+1383100,2023,Papua New Guinea,10,CJA Amini,4d84ad05,R Drake,57b3c398,L Siaka,6b4593ee,0,0,0,0,0,,,,,,0,0,0
+1383100,2023,Papua New Guinea,10,CJA Amini,4d84ad05,R Drake,57b3c398,L Siaka,6b4593ee,0,0,0,0,0,,,,,,1,0,1
+1383100,2023,Papua New Guinea,11,CJA Amini,4d84ad05,I Takahashi,c988daa1,L Siaka,6b4593ee,0,0,0,0,0,,,,,,2,0,2
+1383100,2023,Papua New Guinea,11,CJA Amini,4d84ad05,I Takahashi,c988daa1,L Siaka,6b4593ee,0,0,0,0,0,,,,,,0,0,0
+1383100,2023,Papua New Guinea,11,CJA Amini,4d84ad05,I Takahashi,c988daa1,L Siaka,6b4593ee,0,0,0,0,0,,,,,,6,0,6

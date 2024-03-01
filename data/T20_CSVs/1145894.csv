@@ -1,0 +1,248 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1145894,2018,Ireland,0,CMA Shillington,60e11a00,Jahanara Alam,752183c1,CNIM Joyce,56418eae,0,0,0,0,0,,,,,,4,0,4
+1145894,2018,Ireland,0,CMA Shillington,60e11a00,Jahanara Alam,752183c1,CNIM Joyce,56418eae,0,0,0,0,0,,,,,,0,0,0
+1145894,2018,Ireland,0,CMA Shillington,60e11a00,Jahanara Alam,752183c1,CNIM Joyce,56418eae,0,0,0,0,1,CMA Shillington,60e11a00,,,lbw,0,0,0
+1145894,2018,Ireland,0,GH Lewis,1b9d1579,Jahanara Alam,752183c1,CNIM Joyce,56418eae,0,0,0,0,0,,,,,,0,0,0
+1145894,2018,Ireland,0,GH Lewis,1b9d1579,Jahanara Alam,752183c1,CNIM Joyce,56418eae,0,0,0,0,0,,,,,,6,0,6
+1145894,2018,Ireland,0,GH Lewis,1b9d1579,Jahanara Alam,752183c1,CNIM Joyce,56418eae,0,0,0,0,0,,,,,,0,0,0
+1145894,2018,Ireland,1,CNIM Joyce,56418eae,Nahida Akter,66078174,GH Lewis,1b9d1579,0,0,0,0,0,,,,,,0,0,0
+1145894,2018,Ireland,1,CNIM Joyce,56418eae,Nahida Akter,66078174,GH Lewis,1b9d1579,0,0,0,0,0,,,,,,1,0,1
+1145894,2018,Ireland,1,GH Lewis,1b9d1579,Nahida Akter,66078174,CNIM Joyce,56418eae,0,0,0,0,0,,,,,,4,0,4
+1145894,2018,Ireland,1,GH Lewis,1b9d1579,Nahida Akter,66078174,CNIM Joyce,56418eae,0,0,0,0,0,,,,,,0,0,0
+1145894,2018,Ireland,1,GH Lewis,1b9d1579,Nahida Akter,66078174,CNIM Joyce,56418eae,0,0,0,0,0,,,,,,0,0,0
+1145894,2018,Ireland,1,GH Lewis,1b9d1579,Nahida Akter,66078174,CNIM Joyce,56418eae,0,0,0,0,0,,,,,,0,0,0
+1145894,2018,Ireland,2,CNIM Joyce,56418eae,Jahanara Alam,752183c1,GH Lewis,1b9d1579,0,0,0,0,1,CNIM Joyce,56418eae,,,lbw,0,0,0
+1145894,2018,Ireland,2,L Delany,b4f73b44,Jahanara Alam,752183c1,GH Lewis,1b9d1579,0,0,0,0,0,,,,,,2,0,2
+1145894,2018,Ireland,2,L Delany,b4f73b44,Jahanara Alam,752183c1,GH Lewis,1b9d1579,0,0,0,0,0,,,,,,0,0,0
+1145894,2018,Ireland,2,L Delany,b4f73b44,Jahanara Alam,752183c1,GH Lewis,1b9d1579,0,0,0,0,0,,,,,,0,0,0
+1145894,2018,Ireland,2,L Delany,b4f73b44,Jahanara Alam,752183c1,GH Lewis,1b9d1579,0,0,0,0,0,,,,,,1,0,1
+1145894,2018,Ireland,2,GH Lewis,1b9d1579,Jahanara Alam,752183c1,L Delany,b4f73b44,0,0,0,0,0,,,,,,0,0,0
+1145894,2018,Ireland,3,L Delany,b4f73b44,Nahida Akter,66078174,GH Lewis,1b9d1579,0,0,0,0,0,,,,,,1,0,1
+1145894,2018,Ireland,3,GH Lewis,1b9d1579,Nahida Akter,66078174,L Delany,b4f73b44,0,0,0,0,0,,,,,,4,0,4
+1145894,2018,Ireland,3,GH Lewis,1b9d1579,Nahida Akter,66078174,L Delany,b4f73b44,0,0,0,0,0,,,,,,0,0,0
+1145894,2018,Ireland,3,GH Lewis,1b9d1579,Nahida Akter,66078174,L Delany,b4f73b44,0,0,0,0,0,,,,,,2,0,2
+1145894,2018,Ireland,3,GH Lewis,1b9d1579,Nahida Akter,66078174,L Delany,b4f73b44,0,0,0,0,0,,,,,,4,0,4
+1145894,2018,Ireland,3,GH Lewis,1b9d1579,Nahida Akter,66078174,L Delany,b4f73b44,0,0,0,0,0,,,,,,4,0,4
+1145894,2018,Ireland,4,L Delany,b4f73b44,Salma Khatun,037f2b86,GH Lewis,1b9d1579,0,0,0,0,0,,,,,,0,0,0
+1145894,2018,Ireland,4,L Delany,b4f73b44,Salma Khatun,037f2b86,GH Lewis,1b9d1579,0,0,0,0,0,,,,,,1,0,1
+1145894,2018,Ireland,4,GH Lewis,1b9d1579,Salma Khatun,037f2b86,L Delany,b4f73b44,0,0,0,0,0,,,,,,0,0,0
+1145894,2018,Ireland,4,GH Lewis,1b9d1579,Salma Khatun,037f2b86,L Delany,b4f73b44,0,0,0,0,0,,,,,,4,0,4
+1145894,2018,Ireland,4,GH Lewis,1b9d1579,Salma Khatun,037f2b86,L Delany,b4f73b44,0,0,0,0,1,GH Lewis,1b9d1579,,,bowled,0,0,0
+1145894,2018,Ireland,4,IMHC Joyce,d3b4b8ed,Salma Khatun,037f2b86,L Delany,b4f73b44,0,0,0,0,0,,,,,,0,0,0
+1145894,2018,Ireland,5,L Delany,b4f73b44,Fahima Khatun,558cdd64,IMHC Joyce,d3b4b8ed,0,0,0,0,0,,,,,,0,0,0
+1145894,2018,Ireland,5,L Delany,b4f73b44,Fahima Khatun,558cdd64,IMHC Joyce,d3b4b8ed,0,0,0,0,0,,,,,,1,0,1
+1145894,2018,Ireland,5,IMHC Joyce,d3b4b8ed,Fahima Khatun,558cdd64,L Delany,b4f73b44,0,0,0,0,0,,,,,,0,0,0
+1145894,2018,Ireland,5,IMHC Joyce,d3b4b8ed,Fahima Khatun,558cdd64,L Delany,b4f73b44,0,0,0,0,0,,,,,,1,0,1
+1145894,2018,Ireland,5,L Delany,b4f73b44,Fahima Khatun,558cdd64,IMHC Joyce,d3b4b8ed,0,0,0,0,0,,,,,,0,0,0
+1145894,2018,Ireland,5,L Delany,b4f73b44,Fahima Khatun,558cdd64,IMHC Joyce,d3b4b8ed,0,0,0,0,0,,,,,,4,0,4
+1145894,2018,Ireland,6,IMHC Joyce,d3b4b8ed,Salma Khatun,037f2b86,L Delany,b4f73b44,0,0,0,0,0,,,,,,1,0,1
+1145894,2018,Ireland,6,L Delany,b4f73b44,Salma Khatun,037f2b86,IMHC Joyce,d3b4b8ed,0,0,0,0,0,,,,,,0,0,0
+1145894,2018,Ireland,6,L Delany,b4f73b44,Salma Khatun,037f2b86,IMHC Joyce,d3b4b8ed,0,0,0,0,0,,,,,,1,0,1
+1145894,2018,Ireland,6,IMHC Joyce,d3b4b8ed,Salma Khatun,037f2b86,L Delany,b4f73b44,0,0,0,0,0,,,,,,0,0,0
+1145894,2018,Ireland,6,IMHC Joyce,d3b4b8ed,Salma Khatun,037f2b86,L Delany,b4f73b44,0,0,0,0,0,,,,,,0,0,0
+1145894,2018,Ireland,6,IMHC Joyce,d3b4b8ed,Salma Khatun,037f2b86,L Delany,b4f73b44,0,0,0,0,0,,,,,,1,0,1
+1145894,2018,Ireland,7,IMHC Joyce,d3b4b8ed,Fahima Khatun,558cdd64,L Delany,b4f73b44,0,0,0,0,0,,,,,,2,0,2
+1145894,2018,Ireland,7,IMHC Joyce,d3b4b8ed,Fahima Khatun,558cdd64,L Delany,b4f73b44,0,0,0,0,0,,,,,,1,0,1
+1145894,2018,Ireland,7,L Delany,b4f73b44,Fahima Khatun,558cdd64,IMHC Joyce,d3b4b8ed,0,0,0,0,0,,,,,,1,0,1
+1145894,2018,Ireland,7,IMHC Joyce,d3b4b8ed,Fahima Khatun,558cdd64,L Delany,b4f73b44,0,0,0,0,0,,,,,,4,0,4
+1145894,2018,Ireland,7,IMHC Joyce,d3b4b8ed,Fahima Khatun,558cdd64,L Delany,b4f73b44,0,0,0,0,0,,,,,,1,0,1
+1145894,2018,Ireland,7,L Delany,b4f73b44,Fahima Khatun,558cdd64,IMHC Joyce,d3b4b8ed,0,0,0,0,0,,,,,,4,0,4
+1145894,2018,Ireland,8,IMHC Joyce,d3b4b8ed,Khadija Tul Kubra,bec997fc,L Delany,b4f73b44,0,0,0,0,0,,,,,,0,0,0
+1145894,2018,Ireland,8,IMHC Joyce,d3b4b8ed,Khadija Tul Kubra,bec997fc,L Delany,b4f73b44,0,0,0,0,0,,,,,,0,0,0
+1145894,2018,Ireland,8,IMHC Joyce,d3b4b8ed,Khadija Tul Kubra,bec997fc,L Delany,b4f73b44,0,0,0,0,0,,,,,,1,0,1
+1145894,2018,Ireland,8,L Delany,b4f73b44,Khadija Tul Kubra,bec997fc,IMHC Joyce,d3b4b8ed,0,0,0,0,0,,,,,,2,0,2
+1145894,2018,Ireland,8,L Delany,b4f73b44,Khadija Tul Kubra,bec997fc,IMHC Joyce,d3b4b8ed,0,0,0,0,0,,,,,,1,0,1
+1145894,2018,Ireland,8,IMHC Joyce,d3b4b8ed,Khadija Tul Kubra,bec997fc,L Delany,b4f73b44,0,0,0,0,0,,,,,,1,0,1
+1145894,2018,Ireland,9,IMHC Joyce,d3b4b8ed,Rumana Ahmed,a92763ea,L Delany,b4f73b44,0,0,0,0,0,,,,,,0,0,0
+1145894,2018,Ireland,9,IMHC Joyce,d3b4b8ed,Rumana Ahmed,a92763ea,L Delany,b4f73b44,0,0,0,0,0,,,,,,1,0,1
+1145894,2018,Ireland,9,L Delany,b4f73b44,Rumana Ahmed,a92763ea,IMHC Joyce,d3b4b8ed,0,0,0,0,0,,,,,,0,0,0
+1145894,2018,Ireland,9,L Delany,b4f73b44,Rumana Ahmed,a92763ea,IMHC Joyce,d3b4b8ed,0,0,0,0,0,,,,,,1,0,1
+1145894,2018,Ireland,9,IMHC Joyce,d3b4b8ed,Rumana Ahmed,a92763ea,L Delany,b4f73b44,0,0,0,0,0,,,,,,1,0,1
+1145894,2018,Ireland,9,L Delany,b4f73b44,Rumana Ahmed,a92763ea,IMHC Joyce,d3b4b8ed,0,0,0,0,0,,,,,,1,0,1
+1145894,2018,Ireland,10,L Delany,b4f73b44,Khadija Tul Kubra,bec997fc,IMHC Joyce,d3b4b8ed,0,0,0,0,0,,,,,,1,0,1
+1145894,2018,Ireland,10,IMHC Joyce,d3b4b8ed,Khadija Tul Kubra,bec997fc,L Delany,b4f73b44,0,0,0,0,0,,,,,,1,0,1
+1145894,2018,Ireland,10,L Delany,b4f73b44,Khadija Tul Kubra,bec997fc,IMHC Joyce,d3b4b8ed,0,0,0,0,1,L Delany,b4f73b44,Shamima Sultana,724645f5,stumped,0,0,0
+1145894,2018,Ireland,10,KJ Garth,0b69a844,Khadija Tul Kubra,bec997fc,IMHC Joyce,d3b4b8ed,0,0,0,0,0,,,,,,1,0,1
+1145894,2018,Ireland,10,IMHC Joyce,d3b4b8ed,Khadija Tul Kubra,bec997fc,KJ Garth,0b69a844,0,0,0,0,0,,,,,,0,0,0
+1145894,2018,Ireland,10,IMHC Joyce,d3b4b8ed,Khadija Tul Kubra,bec997fc,KJ Garth,0b69a844,0,0,0,0,0,,,,,,1,0,1
+1145894,2018,Ireland,11,IMHC Joyce,d3b4b8ed,Rumana Ahmed,a92763ea,KJ Garth,0b69a844,0,0,0,0,0,,,,,,1,0,1
+1145894,2018,Ireland,11,KJ Garth,0b69a844,Rumana Ahmed,a92763ea,IMHC Joyce,d3b4b8ed,0,0,0,0,0,,,,,,1,0,1
+1145894,2018,Ireland,11,IMHC Joyce,d3b4b8ed,Rumana Ahmed,a92763ea,KJ Garth,0b69a844,0,0,0,0,0,,,,,,1,0,1
+1145894,2018,Ireland,11,KJ Garth,0b69a844,Rumana Ahmed,a92763ea,IMHC Joyce,d3b4b8ed,0,0,0,0,0,,,,,,0,0,0
+1145894,2018,Ireland,11,KJ Garth,0b69a844,Rumana Ahmed,a92763ea,IMHC Joyce,d3b4b8ed,0,0,0,0,0,,,,,,1,0,1
+1145894,2018,Ireland,11,IMHC Joyce,d3b4b8ed,Rumana Ahmed,a92763ea,KJ Garth,0b69a844,0,0,0,0,0,,,,,,0,0,0
+1145894,2018,Ireland,12,KJ Garth,0b69a844,Khadija Tul Kubra,bec997fc,IMHC Joyce,d3b4b8ed,0,0,0,0,0,,,,,,1,0,1
+1145894,2018,Ireland,12,IMHC Joyce,d3b4b8ed,Khadija Tul Kubra,bec997fc,KJ Garth,0b69a844,0,0,0,0,0,,,,,,0,0,0
+1145894,2018,Ireland,12,IMHC Joyce,d3b4b8ed,Khadija Tul Kubra,bec997fc,KJ Garth,0b69a844,0,0,0,0,0,,,,,,1,0,1
+1145894,2018,Ireland,12,KJ Garth,0b69a844,Khadija Tul Kubra,bec997fc,IMHC Joyce,d3b4b8ed,0,0,0,0,0,,,,,,0,0,0
+1145894,2018,Ireland,12,KJ Garth,0b69a844,Khadija Tul Kubra,bec997fc,IMHC Joyce,d3b4b8ed,0,0,0,0,0,,,,,,1,0,1
+1145894,2018,Ireland,12,IMHC Joyce,d3b4b8ed,Khadija Tul Kubra,bec997fc,KJ Garth,0b69a844,0,0,0,0,0,,,,,,0,0,0
+1145894,2018,Ireland,13,KJ Garth,0b69a844,Rumana Ahmed,a92763ea,IMHC Joyce,d3b4b8ed,0,0,0,0,0,,,,,,1,0,1
+1145894,2018,Ireland,13,IMHC Joyce,d3b4b8ed,Rumana Ahmed,a92763ea,KJ Garth,0b69a844,0,0,0,0,0,,,,,,1,0,1
+1145894,2018,Ireland,13,KJ Garth,0b69a844,Rumana Ahmed,a92763ea,IMHC Joyce,d3b4b8ed,0,0,0,0,0,,,,,,1,0,1
+1145894,2018,Ireland,13,IMHC Joyce,d3b4b8ed,Rumana Ahmed,a92763ea,KJ Garth,0b69a844,0,0,0,0,0,,,,,,4,0,4
+1145894,2018,Ireland,13,IMHC Joyce,d3b4b8ed,Rumana Ahmed,a92763ea,KJ Garth,0b69a844,0,0,0,0,0,,,,,,0,0,0
+1145894,2018,Ireland,13,IMHC Joyce,d3b4b8ed,Rumana Ahmed,a92763ea,KJ Garth,0b69a844,0,0,0,0,0,,,,,,0,0,0
+1145894,2018,Ireland,14,KJ Garth,0b69a844,Khadija Tul Kubra,bec997fc,IMHC Joyce,d3b4b8ed,0,0,0,0,0,,,,,,1,0,1
+1145894,2018,Ireland,14,IMHC Joyce,d3b4b8ed,Khadija Tul Kubra,bec997fc,KJ Garth,0b69a844,0,0,0,0,0,,,,,,1,0,1
+1145894,2018,Ireland,14,KJ Garth,0b69a844,Khadija Tul Kubra,bec997fc,IMHC Joyce,d3b4b8ed,0,0,0,0,0,,,,,,0,0,0
+1145894,2018,Ireland,14,KJ Garth,0b69a844,Khadija Tul Kubra,bec997fc,IMHC Joyce,d3b4b8ed,0,0,0,0,0,,,,,,1,0,1
+1145894,2018,Ireland,14,IMHC Joyce,d3b4b8ed,Khadija Tul Kubra,bec997fc,KJ Garth,0b69a844,0,0,0,0,0,,,,,,1,0,1
+1145894,2018,Ireland,14,KJ Garth,0b69a844,Khadija Tul Kubra,bec997fc,IMHC Joyce,d3b4b8ed,0,0,0,0,0,,,,,,4,0,4
+1145894,2018,Ireland,15,IMHC Joyce,d3b4b8ed,Rumana Ahmed,a92763ea,KJ Garth,0b69a844,0,0,0,0,0,,,,,,4,0,4
+1145894,2018,Ireland,15,IMHC Joyce,d3b4b8ed,Rumana Ahmed,a92763ea,KJ Garth,0b69a844,0,0,0,0,0,,,,,,1,0,1
+1145894,2018,Ireland,15,KJ Garth,0b69a844,Rumana Ahmed,a92763ea,IMHC Joyce,d3b4b8ed,0,0,0,0,0,,,,,,2,0,2
+1145894,2018,Ireland,15,KJ Garth,0b69a844,Rumana Ahmed,a92763ea,IMHC Joyce,d3b4b8ed,0,0,0,0,0,,,,,,0,0,0
+1145894,2018,Ireland,15,KJ Garth,0b69a844,Rumana Ahmed,a92763ea,IMHC Joyce,d3b4b8ed,0,0,0,0,0,,,,,,1,0,1
+1145894,2018,Ireland,15,IMHC Joyce,d3b4b8ed,Rumana Ahmed,a92763ea,KJ Garth,0b69a844,0,0,0,0,0,,,,,,2,0,2
+1145894,2018,Ireland,16,KJ Garth,0b69a844,Jahanara Alam,752183c1,IMHC Joyce,d3b4b8ed,0,0,0,0,0,,,,,,0,0,0
+1145894,2018,Ireland,16,KJ Garth,0b69a844,Jahanara Alam,752183c1,IMHC Joyce,d3b4b8ed,1,0,0,0,0,,,,,,0,1,1
+1145894,2018,Ireland,16,KJ Garth,0b69a844,Jahanara Alam,752183c1,IMHC Joyce,d3b4b8ed,0,0,0,0,0,,,,,,4,0,4
+1145894,2018,Ireland,16,KJ Garth,0b69a844,Jahanara Alam,752183c1,IMHC Joyce,d3b4b8ed,0,0,0,0,1,KJ Garth,0b69a844,Shamima Sultana,724645f5,caught,0,0,0
+1145894,2018,Ireland,16,EAJ Richardson,50ee0500,Jahanara Alam,752183c1,IMHC Joyce,d3b4b8ed,0,0,0,0,0,,,,,,2,0,2
+1145894,2018,Ireland,16,EAJ Richardson,50ee0500,Jahanara Alam,752183c1,IMHC Joyce,d3b4b8ed,0,0,0,0,0,,,,,,0,0,0
+1145894,2018,Ireland,16,EAJ Richardson,50ee0500,Jahanara Alam,752183c1,IMHC Joyce,d3b4b8ed,0,0,0,0,1,EAJ Richardson,50ee0500,Rumana Ahmed,a92763ea,caught,0,0,0
+1145894,2018,Ireland,17,SM Kavanagh,7e9b3b60,Salma Khatun,037f2b86,IMHC Joyce,d3b4b8ed,1,0,0,0,0,,,,,,0,1,1
+1145894,2018,Ireland,17,SM Kavanagh,7e9b3b60,Salma Khatun,037f2b86,IMHC Joyce,d3b4b8ed,0,0,0,0,0,,,,,,1,0,1
+1145894,2018,Ireland,17,IMHC Joyce,d3b4b8ed,Salma Khatun,037f2b86,SM Kavanagh,7e9b3b60,0,0,0,0,0,,,,,,1,0,1
+1145894,2018,Ireland,17,SM Kavanagh,7e9b3b60,Salma Khatun,037f2b86,IMHC Joyce,d3b4b8ed,0,0,0,0,0,,,,,,1,0,1
+1145894,2018,Ireland,17,IMHC Joyce,d3b4b8ed,Salma Khatun,037f2b86,SM Kavanagh,7e9b3b60,0,0,0,0,0,,,,,,1,0,1
+1145894,2018,Ireland,17,SM Kavanagh,7e9b3b60,Salma Khatun,037f2b86,IMHC Joyce,d3b4b8ed,0,0,0,0,0,,,,,,1,0,1
+1145894,2018,Ireland,17,IMHC Joyce,d3b4b8ed,Salma Khatun,037f2b86,SM Kavanagh,7e9b3b60,0,0,0,0,0,,,,,,1,0,1
+1145894,2018,Ireland,18,IMHC Joyce,d3b4b8ed,Jahanara Alam,752183c1,SM Kavanagh,7e9b3b60,0,0,0,0,0,,,,,,4,0,4
+1145894,2018,Ireland,18,IMHC Joyce,d3b4b8ed,Jahanara Alam,752183c1,SM Kavanagh,7e9b3b60,0,0,0,0,1,IMHC Joyce,d3b4b8ed,,,bowled,0,0,0
+1145894,2018,Ireland,18,MV Waldron,2e4f11e9,Jahanara Alam,752183c1,SM Kavanagh,7e9b3b60,0,0,0,0,0,,,,,,0,0,0
+1145894,2018,Ireland,18,MV Waldron,2e4f11e9,Jahanara Alam,752183c1,SM Kavanagh,7e9b3b60,0,0,0,0,0,,,,,,1,0,1
+1145894,2018,Ireland,18,SM Kavanagh,7e9b3b60,Jahanara Alam,752183c1,MV Waldron,2e4f11e9,0,0,0,0,0,,,,,,1,0,1
+1145894,2018,Ireland,18,MV Waldron,2e4f11e9,Jahanara Alam,752183c1,SM Kavanagh,7e9b3b60,0,0,0,0,0,,,,,,2,0,2
+1145894,2018,Ireland,19,SM Kavanagh,7e9b3b60,Salma Khatun,037f2b86,MV Waldron,2e4f11e9,0,0,0,0,0,,,,,,4,0,4
+1145894,2018,Ireland,19,SM Kavanagh,7e9b3b60,Salma Khatun,037f2b86,MV Waldron,2e4f11e9,0,0,0,0,0,,,,,,0,0,0
+1145894,2018,Ireland,19,SM Kavanagh,7e9b3b60,Salma Khatun,037f2b86,MV Waldron,2e4f11e9,0,0,0,0,0,,,,,,1,0,1
+1145894,2018,Ireland,19,MV Waldron,2e4f11e9,Salma Khatun,037f2b86,SM Kavanagh,7e9b3b60,0,0,1,0,0,,,,,,0,1,1
+1145894,2018,Ireland,19,SM Kavanagh,7e9b3b60,Salma Khatun,037f2b86,MV Waldron,2e4f11e9,0,0,0,1,0,,,,,,0,1,1
+1145894,2018,Ireland,19,MV Waldron,2e4f11e9,Salma Khatun,037f2b86,SM Kavanagh,7e9b3b60,0,0,0,0,1,SM Kavanagh,7e9b3b60,,,run out,0,0,0
+1145894,2018,Bangladesh,0,Shamima Sultana,724645f5,IMHC Joyce,d3b4b8ed,Ayasha Rahman,2f899a44,0,0,0,0,0,,,,,,0,0,0
+1145894,2018,Bangladesh,0,Shamima Sultana,724645f5,IMHC Joyce,d3b4b8ed,Ayasha Rahman,2f899a44,0,0,0,0,0,,,,,,0,0,0
+1145894,2018,Bangladesh,0,Shamima Sultana,724645f5,IMHC Joyce,d3b4b8ed,Ayasha Rahman,2f899a44,0,0,0,0,0,,,,,,4,0,4
+1145894,2018,Bangladesh,0,Shamima Sultana,724645f5,IMHC Joyce,d3b4b8ed,Ayasha Rahman,2f899a44,0,0,0,0,0,,,,,,0,0,0
+1145894,2018,Bangladesh,0,Shamima Sultana,724645f5,IMHC Joyce,d3b4b8ed,Ayasha Rahman,2f899a44,0,0,0,0,0,,,,,,0,0,0
+1145894,2018,Bangladesh,0,Shamima Sultana,724645f5,IMHC Joyce,d3b4b8ed,Ayasha Rahman,2f899a44,0,0,0,0,0,,,,,,0,0,0
+1145894,2018,Bangladesh,1,Ayasha Rahman,2f899a44,EAJ Richardson,50ee0500,Shamima Sultana,724645f5,0,0,0,0,0,,,,,,1,0,1
+1145894,2018,Bangladesh,1,Shamima Sultana,724645f5,EAJ Richardson,50ee0500,Ayasha Rahman,2f899a44,0,0,0,0,1,Shamima Sultana,724645f5,L Delany,b4f73b44,caught,0,0,0
+1145894,2018,Bangladesh,1,Fargana Hoque,6e96c956,EAJ Richardson,50ee0500,Ayasha Rahman,2f899a44,0,0,0,0,0,,,,,,0,0,0
+1145894,2018,Bangladesh,1,Fargana Hoque,6e96c956,EAJ Richardson,50ee0500,Ayasha Rahman,2f899a44,0,0,0,0,0,,,,,,0,0,0
+1145894,2018,Bangladesh,1,Fargana Hoque,6e96c956,EAJ Richardson,50ee0500,Ayasha Rahman,2f899a44,0,0,0,0,0,,,,,,0,0,0
+1145894,2018,Bangladesh,1,Fargana Hoque,6e96c956,EAJ Richardson,50ee0500,Ayasha Rahman,2f899a44,0,0,0,0,0,,,,,,0,0,0
+1145894,2018,Bangladesh,2,Ayasha Rahman,2f899a44,IMHC Joyce,d3b4b8ed,Fargana Hoque,6e96c956,0,0,0,0,0,,,,,,0,0,0
+1145894,2018,Bangladesh,2,Ayasha Rahman,2f899a44,IMHC Joyce,d3b4b8ed,Fargana Hoque,6e96c956,0,0,0,0,0,,,,,,4,0,4
+1145894,2018,Bangladesh,2,Ayasha Rahman,2f899a44,IMHC Joyce,d3b4b8ed,Fargana Hoque,6e96c956,0,0,0,4,0,,,,,,0,4,4
+1145894,2018,Bangladesh,2,Ayasha Rahman,2f899a44,IMHC Joyce,d3b4b8ed,Fargana Hoque,6e96c956,0,0,0,0,0,,,,,,0,0,0
+1145894,2018,Bangladesh,2,Ayasha Rahman,2f899a44,IMHC Joyce,d3b4b8ed,Fargana Hoque,6e96c956,0,0,0,0,0,,,,,,0,0,0
+1145894,2018,Bangladesh,2,Ayasha Rahman,2f899a44,IMHC Joyce,d3b4b8ed,Fargana Hoque,6e96c956,0,0,0,0,0,,,,,,0,0,0
+1145894,2018,Bangladesh,3,Fargana Hoque,6e96c956,EAJ Richardson,50ee0500,Ayasha Rahman,2f899a44,0,0,0,0,0,,,,,,1,0,1
+1145894,2018,Bangladesh,3,Ayasha Rahman,2f899a44,EAJ Richardson,50ee0500,Fargana Hoque,6e96c956,0,0,0,0,0,,,,,,0,0,0
+1145894,2018,Bangladesh,3,Ayasha Rahman,2f899a44,EAJ Richardson,50ee0500,Fargana Hoque,6e96c956,0,0,0,0,0,,,,,,0,0,0
+1145894,2018,Bangladesh,3,Ayasha Rahman,2f899a44,EAJ Richardson,50ee0500,Fargana Hoque,6e96c956,0,0,0,0,0,,,,,,1,0,1
+1145894,2018,Bangladesh,3,Fargana Hoque,6e96c956,EAJ Richardson,50ee0500,Ayasha Rahman,2f899a44,0,0,0,0,0,,,,,,0,0,0
+1145894,2018,Bangladesh,3,Fargana Hoque,6e96c956,EAJ Richardson,50ee0500,Ayasha Rahman,2f899a44,0,0,0,0,0,,,,,,4,0,4
+1145894,2018,Bangladesh,4,Ayasha Rahman,2f899a44,IMHC Joyce,d3b4b8ed,Fargana Hoque,6e96c956,0,0,0,0,0,,,,,,0,0,0
+1145894,2018,Bangladesh,4,Ayasha Rahman,2f899a44,IMHC Joyce,d3b4b8ed,Fargana Hoque,6e96c956,0,0,0,0,0,,,,,,0,0,0
+1145894,2018,Bangladesh,4,Ayasha Rahman,2f899a44,IMHC Joyce,d3b4b8ed,Fargana Hoque,6e96c956,0,0,0,0,0,,,,,,4,0,4
+1145894,2018,Bangladesh,4,Ayasha Rahman,2f899a44,IMHC Joyce,d3b4b8ed,Fargana Hoque,6e96c956,0,0,0,0,0,,,,,,0,0,0
+1145894,2018,Bangladesh,4,Ayasha Rahman,2f899a44,IMHC Joyce,d3b4b8ed,Fargana Hoque,6e96c956,0,0,0,0,0,,,,,,2,0,2
+1145894,2018,Bangladesh,4,Ayasha Rahman,2f899a44,IMHC Joyce,d3b4b8ed,Fargana Hoque,6e96c956,0,0,0,0,0,,,,,,1,0,1
+1145894,2018,Bangladesh,5,Ayasha Rahman,2f899a44,L Maritz,ac8bca8d,Fargana Hoque,6e96c956,0,0,0,0,0,,,,,,0,0,0
+1145894,2018,Bangladesh,5,Ayasha Rahman,2f899a44,L Maritz,ac8bca8d,Fargana Hoque,6e96c956,0,0,0,0,0,,,,,,1,0,1
+1145894,2018,Bangladesh,5,Fargana Hoque,6e96c956,L Maritz,ac8bca8d,Ayasha Rahman,2f899a44,0,0,0,0,0,,,,,,0,0,0
+1145894,2018,Bangladesh,5,Fargana Hoque,6e96c956,L Maritz,ac8bca8d,Ayasha Rahman,2f899a44,0,0,0,0,0,,,,,,1,0,1
+1145894,2018,Bangladesh,5,Ayasha Rahman,2f899a44,L Maritz,ac8bca8d,Fargana Hoque,6e96c956,0,0,0,0,0,,,,,,4,0,4
+1145894,2018,Bangladesh,5,Ayasha Rahman,2f899a44,L Maritz,ac8bca8d,Fargana Hoque,6e96c956,0,0,0,0,0,,,,,,4,0,4
+1145894,2018,Bangladesh,6,Fargana Hoque,6e96c956,L Delany,b4f73b44,Ayasha Rahman,2f899a44,0,0,0,0,0,,,,,,1,0,1
+1145894,2018,Bangladesh,6,Ayasha Rahman,2f899a44,L Delany,b4f73b44,Fargana Hoque,6e96c956,0,0,0,0,0,,,,,,1,0,1
+1145894,2018,Bangladesh,6,Fargana Hoque,6e96c956,L Delany,b4f73b44,Ayasha Rahman,2f899a44,0,0,0,0,0,,,,,,0,0,0
+1145894,2018,Bangladesh,6,Fargana Hoque,6e96c956,L Delany,b4f73b44,Ayasha Rahman,2f899a44,0,0,0,0,0,,,,,,0,0,0
+1145894,2018,Bangladesh,6,Fargana Hoque,6e96c956,L Delany,b4f73b44,Ayasha Rahman,2f899a44,0,0,0,0,0,,,,,,0,0,0
+1145894,2018,Bangladesh,6,Fargana Hoque,6e96c956,L Delany,b4f73b44,Ayasha Rahman,2f899a44,0,0,0,0,0,,,,,,0,0,0
+1145894,2018,Bangladesh,7,Ayasha Rahman,2f899a44,L Maritz,ac8bca8d,Fargana Hoque,6e96c956,0,0,0,0,0,,,,,,0,0,0
+1145894,2018,Bangladesh,7,Ayasha Rahman,2f899a44,L Maritz,ac8bca8d,Fargana Hoque,6e96c956,0,0,0,0,1,Ayasha Rahman,2f899a44,,,run out,1,0,1
+1145894,2018,Bangladesh,7,Nigar Sultana,3827f6a2,L Maritz,ac8bca8d,Fargana Hoque,6e96c956,0,0,0,0,0,,,,,,0,0,0
+1145894,2018,Bangladesh,7,Nigar Sultana,3827f6a2,L Maritz,ac8bca8d,Fargana Hoque,6e96c956,0,0,0,0,0,,,,,,1,0,1
+1145894,2018,Bangladesh,7,Fargana Hoque,6e96c956,L Maritz,ac8bca8d,Nigar Sultana,3827f6a2,0,0,0,0,0,,,,,,1,0,1
+1145894,2018,Bangladesh,7,Nigar Sultana,3827f6a2,L Maritz,ac8bca8d,Fargana Hoque,6e96c956,0,0,0,0,0,,,,,,1,0,1
+1145894,2018,Bangladesh,8,Nigar Sultana,3827f6a2,L Delany,b4f73b44,Fargana Hoque,6e96c956,0,0,0,0,0,,,,,,1,0,1
+1145894,2018,Bangladesh,8,Fargana Hoque,6e96c956,L Delany,b4f73b44,Nigar Sultana,3827f6a2,0,0,0,0,0,,,,,,1,0,1
+1145894,2018,Bangladesh,8,Nigar Sultana,3827f6a2,L Delany,b4f73b44,Fargana Hoque,6e96c956,0,0,0,0,0,,,,,,0,0,0
+1145894,2018,Bangladesh,8,Nigar Sultana,3827f6a2,L Delany,b4f73b44,Fargana Hoque,6e96c956,0,0,0,0,0,,,,,,1,0,1
+1145894,2018,Bangladesh,8,Fargana Hoque,6e96c956,L Delany,b4f73b44,Nigar Sultana,3827f6a2,0,0,0,0,0,,,,,,0,0,0
+1145894,2018,Bangladesh,8,Fargana Hoque,6e96c956,L Delany,b4f73b44,Nigar Sultana,3827f6a2,0,0,0,0,0,,,,,,1,0,1
+1145894,2018,Bangladesh,9,Fargana Hoque,6e96c956,L Maritz,ac8bca8d,Nigar Sultana,3827f6a2,0,0,0,0,0,,,,,,0,0,0
+1145894,2018,Bangladesh,9,Fargana Hoque,6e96c956,L Maritz,ac8bca8d,Nigar Sultana,3827f6a2,0,0,0,0,0,,,,,,1,0,1
+1145894,2018,Bangladesh,9,Nigar Sultana,3827f6a2,L Maritz,ac8bca8d,Fargana Hoque,6e96c956,0,0,0,0,0,,,,,,0,0,0
+1145894,2018,Bangladesh,9,Nigar Sultana,3827f6a2,L Maritz,ac8bca8d,Fargana Hoque,6e96c956,0,0,0,0,0,,,,,,0,0,0
+1145894,2018,Bangladesh,9,Nigar Sultana,3827f6a2,L Maritz,ac8bca8d,Fargana Hoque,6e96c956,1,0,0,0,0,,,,,,0,1,1
+1145894,2018,Bangladesh,9,Nigar Sultana,3827f6a2,L Maritz,ac8bca8d,Fargana Hoque,6e96c956,0,0,0,0,0,,,,,,0,0,0
+1145894,2018,Bangladesh,9,Nigar Sultana,3827f6a2,L Maritz,ac8bca8d,Fargana Hoque,6e96c956,0,0,0,0,0,,,,,,1,0,1
+1145894,2018,Bangladesh,10,Nigar Sultana,3827f6a2,GH Lewis,1b9d1579,Fargana Hoque,6e96c956,0,0,0,0,0,,,,,,0,0,0
+1145894,2018,Bangladesh,10,Nigar Sultana,3827f6a2,GH Lewis,1b9d1579,Fargana Hoque,6e96c956,0,0,0,0,0,,,,,,1,0,1
+1145894,2018,Bangladesh,10,Fargana Hoque,6e96c956,GH Lewis,1b9d1579,Nigar Sultana,3827f6a2,0,0,0,0,0,,,,,,0,0,0
+1145894,2018,Bangladesh,10,Fargana Hoque,6e96c956,GH Lewis,1b9d1579,Nigar Sultana,3827f6a2,0,0,0,0,0,,,,,,1,0,1
+1145894,2018,Bangladesh,10,Nigar Sultana,3827f6a2,GH Lewis,1b9d1579,Fargana Hoque,6e96c956,0,0,0,0,0,,,,,,1,0,1
+1145894,2018,Bangladesh,10,Fargana Hoque,6e96c956,GH Lewis,1b9d1579,Nigar Sultana,3827f6a2,0,0,0,0,0,,,,,,0,0,0
+1145894,2018,Bangladesh,11,Nigar Sultana,3827f6a2,L Maritz,ac8bca8d,Fargana Hoque,6e96c956,0,0,0,0,0,,,,,,1,0,1
+1145894,2018,Bangladesh,11,Fargana Hoque,6e96c956,L Maritz,ac8bca8d,Nigar Sultana,3827f6a2,0,0,0,0,0,,,,,,1,0,1
+1145894,2018,Bangladesh,11,Nigar Sultana,3827f6a2,L Maritz,ac8bca8d,Fargana Hoque,6e96c956,0,0,0,0,0,,,,,,4,0,4
+1145894,2018,Bangladesh,11,Nigar Sultana,3827f6a2,L Maritz,ac8bca8d,Fargana Hoque,6e96c956,0,0,0,0,0,,,,,,4,0,4
+1145894,2018,Bangladesh,11,Nigar Sultana,3827f6a2,L Maritz,ac8bca8d,Fargana Hoque,6e96c956,0,0,0,0,0,,,,,,2,0,2
+1145894,2018,Bangladesh,11,Nigar Sultana,3827f6a2,L Maritz,ac8bca8d,Fargana Hoque,6e96c956,0,0,0,0,0,,,,,,4,0,4
+1145894,2018,Bangladesh,12,Fargana Hoque,6e96c956,GH Lewis,1b9d1579,Nigar Sultana,3827f6a2,0,0,0,0,1,Fargana Hoque,6e96c956,CMA Shillington,60e11a00,caught,0,0,0
+1145894,2018,Bangladesh,12,Nigar Sultana,3827f6a2,GH Lewis,1b9d1579,Rumana Ahmed,a92763ea,0,0,0,0,0,,,,,,4,0,4
+1145894,2018,Bangladesh,12,Nigar Sultana,3827f6a2,GH Lewis,1b9d1579,Rumana Ahmed,a92763ea,0,0,0,0,0,,,,,,0,0,0
+1145894,2018,Bangladesh,12,Nigar Sultana,3827f6a2,GH Lewis,1b9d1579,Rumana Ahmed,a92763ea,0,0,0,0,0,,,,,,0,0,0
+1145894,2018,Bangladesh,12,Nigar Sultana,3827f6a2,GH Lewis,1b9d1579,Rumana Ahmed,a92763ea,0,1,0,0,0,,,,,,0,1,1
+1145894,2018,Bangladesh,12,Nigar Sultana,3827f6a2,GH Lewis,1b9d1579,Rumana Ahmed,a92763ea,0,0,0,0,0,,,,,,2,0,2
+1145894,2018,Bangladesh,12,Nigar Sultana,3827f6a2,GH Lewis,1b9d1579,Rumana Ahmed,a92763ea,0,0,0,0,0,,,,,,0,0,0
+1145894,2018,Bangladesh,13,Rumana Ahmed,a92763ea,C Murray,5a50471c,Nigar Sultana,3827f6a2,0,0,0,0,0,,,,,,1,0,1
+1145894,2018,Bangladesh,13,Nigar Sultana,3827f6a2,C Murray,5a50471c,Rumana Ahmed,a92763ea,0,0,0,0,0,,,,,,1,0,1
+1145894,2018,Bangladesh,13,Rumana Ahmed,a92763ea,C Murray,5a50471c,Nigar Sultana,3827f6a2,0,0,0,0,0,,,,,,4,0,4
+1145894,2018,Bangladesh,13,Rumana Ahmed,a92763ea,C Murray,5a50471c,Nigar Sultana,3827f6a2,0,0,0,0,0,,,,,,0,0,0
+1145894,2018,Bangladesh,13,Rumana Ahmed,a92763ea,C Murray,5a50471c,Nigar Sultana,3827f6a2,0,0,0,0,0,,,,,,1,0,1
+1145894,2018,Bangladesh,13,Nigar Sultana,3827f6a2,C Murray,5a50471c,Rumana Ahmed,a92763ea,0,0,0,0,0,,,,,,1,0,1
+1145894,2018,Bangladesh,14,Nigar Sultana,3827f6a2,L Delany,b4f73b44,Rumana Ahmed,a92763ea,0,0,0,0,0,,,,,,0,0,0
+1145894,2018,Bangladesh,14,Nigar Sultana,3827f6a2,L Delany,b4f73b44,Rumana Ahmed,a92763ea,0,0,0,0,0,,,,,,1,0,1
+1145894,2018,Bangladesh,14,Rumana Ahmed,a92763ea,L Delany,b4f73b44,Nigar Sultana,3827f6a2,0,0,0,0,0,,,,,,1,0,1
+1145894,2018,Bangladesh,14,Nigar Sultana,3827f6a2,L Delany,b4f73b44,Rumana Ahmed,a92763ea,0,0,0,0,0,,,,,,2,0,2
+1145894,2018,Bangladesh,14,Nigar Sultana,3827f6a2,L Delany,b4f73b44,Rumana Ahmed,a92763ea,0,0,0,0,0,,,,,,0,0,0
+1145894,2018,Bangladesh,14,Nigar Sultana,3827f6a2,L Delany,b4f73b44,Rumana Ahmed,a92763ea,0,0,0,0,0,,,,,,1,0,1
+1145894,2018,Bangladesh,15,Nigar Sultana,3827f6a2,GH Lewis,1b9d1579,Rumana Ahmed,a92763ea,0,0,0,0,0,,,,,,1,0,1
+1145894,2018,Bangladesh,15,Rumana Ahmed,a92763ea,GH Lewis,1b9d1579,Nigar Sultana,3827f6a2,0,0,0,0,1,Rumana Ahmed,a92763ea,,,lbw,0,0,0
+1145894,2018,Bangladesh,15,Fahima Khatun,558cdd64,GH Lewis,1b9d1579,Nigar Sultana,3827f6a2,0,0,0,0,0,,,,,,1,0,1
+1145894,2018,Bangladesh,15,Nigar Sultana,3827f6a2,GH Lewis,1b9d1579,Fahima Khatun,558cdd64,1,0,0,0,0,,,,,,0,1,1
+1145894,2018,Bangladesh,15,Nigar Sultana,3827f6a2,GH Lewis,1b9d1579,Fahima Khatun,558cdd64,0,0,0,0,0,,,,,,1,0,1
+1145894,2018,Bangladesh,15,Fahima Khatun,558cdd64,GH Lewis,1b9d1579,Nigar Sultana,3827f6a2,0,0,0,0,0,,,,,,2,0,2
+1145894,2018,Bangladesh,15,Fahima Khatun,558cdd64,GH Lewis,1b9d1579,Nigar Sultana,3827f6a2,0,0,0,0,0,,,,,,4,0,4
+1145894,2018,Bangladesh,16,Nigar Sultana,3827f6a2,L Delany,b4f73b44,Fahima Khatun,558cdd64,0,0,0,0,0,,,,,,1,0,1
+1145894,2018,Bangladesh,16,Fahima Khatun,558cdd64,L Delany,b4f73b44,Nigar Sultana,3827f6a2,0,0,0,0,0,,,,,,4,0,4
+1145894,2018,Bangladesh,16,Fahima Khatun,558cdd64,L Delany,b4f73b44,Nigar Sultana,3827f6a2,0,0,0,0,0,,,,,,0,0,0
+1145894,2018,Bangladesh,16,Fahima Khatun,558cdd64,L Delany,b4f73b44,Nigar Sultana,3827f6a2,0,0,0,0,0,,,,,,0,0,0
+1145894,2018,Bangladesh,16,Fahima Khatun,558cdd64,L Delany,b4f73b44,Nigar Sultana,3827f6a2,0,0,0,0,0,,,,,,1,0,1
+1145894,2018,Bangladesh,16,Nigar Sultana,3827f6a2,L Delany,b4f73b44,Fahima Khatun,558cdd64,0,0,0,0,0,,,,,,4,0,4
+1145894,2018,Bangladesh,17,Fahima Khatun,558cdd64,EAJ Richardson,50ee0500,Nigar Sultana,3827f6a2,2,0,0,0,0,,,,,,0,2,2
+1145894,2018,Bangladesh,17,Nigar Sultana,3827f6a2,EAJ Richardson,50ee0500,Fahima Khatun,558cdd64,0,0,0,0,0,,,,,,4,0,4
+1145894,2018,Bangladesh,17,Nigar Sultana,3827f6a2,EAJ Richardson,50ee0500,Fahima Khatun,558cdd64,0,0,0,0,0,,,,,,1,0,1
+1145894,2018,Bangladesh,17,Fahima Khatun,558cdd64,EAJ Richardson,50ee0500,Nigar Sultana,3827f6a2,0,0,0,0,0,,,,,,1,0,1
+1145894,2018,Bangladesh,17,Nigar Sultana,3827f6a2,EAJ Richardson,50ee0500,Fahima Khatun,558cdd64,0,0,0,0,1,Nigar Sultana,3827f6a2,KJ Garth,0b69a844,caught,0,0,0
+1145894,2018,Bangladesh,17,Fahima Khatun,558cdd64,EAJ Richardson,50ee0500,Sanjida Islam,12755a62,0,0,0,0,0,,,,,,1,0,1
+1145894,2018,Bangladesh,17,Sanjida Islam,12755a62,EAJ Richardson,50ee0500,Fahima Khatun,558cdd64,0,0,0,0,0,,,,,,0,0,0
+1145894,2018,Bangladesh,18,Fahima Khatun,558cdd64,IMHC Joyce,d3b4b8ed,Sanjida Islam,12755a62,0,0,0,0,0,,,,,,0,0,0
+1145894,2018,Bangladesh,18,Fahima Khatun,558cdd64,IMHC Joyce,d3b4b8ed,Sanjida Islam,12755a62,0,0,0,0,0,,,,,,2,0,2
+1145894,2018,Bangladesh,18,Fahima Khatun,558cdd64,IMHC Joyce,d3b4b8ed,Sanjida Islam,12755a62,0,0,0,0,0,,,,,,2,0,2
+1145894,2018,Bangladesh,18,Fahima Khatun,558cdd64,IMHC Joyce,d3b4b8ed,Sanjida Islam,12755a62,1,0,0,0,0,,,,,,0,1,1
+1145894,2018,Bangladesh,18,Fahima Khatun,558cdd64,IMHC Joyce,d3b4b8ed,Sanjida Islam,12755a62,0,0,0,0,0,,,,,,4,0,4
+1145894,2018,Bangladesh,18,Fahima Khatun,558cdd64,IMHC Joyce,d3b4b8ed,Sanjida Islam,12755a62,0,0,0,0,0,,,,,,1,0,1
+1145894,2018,Bangladesh,18,Sanjida Islam,12755a62,IMHC Joyce,d3b4b8ed,Fahima Khatun,558cdd64,0,0,0,0,0,,,,,,4,0,4
+1145894,2018,Bangladesh,19,Fahima Khatun,558cdd64,EAJ Richardson,50ee0500,Sanjida Islam,12755a62,0,0,0,0,0,,,,,,1,0,1
+1145894,2018,Bangladesh,19,Sanjida Islam,12755a62,EAJ Richardson,50ee0500,Fahima Khatun,558cdd64,0,0,0,0,0,,,,,,1,0,1
+1145894,2018,Bangladesh,19,Fahima Khatun,558cdd64,EAJ Richardson,50ee0500,Sanjida Islam,12755a62,0,0,0,0,0,,,,,,0,0,0
+1145894,2018,Bangladesh,19,Fahima Khatun,558cdd64,EAJ Richardson,50ee0500,Sanjida Islam,12755a62,0,0,0,0,0,,,,,,1,0,1
+1145894,2018,Bangladesh,19,Sanjida Islam,12755a62,EAJ Richardson,50ee0500,Fahima Khatun,558cdd64,0,0,0,0,1,Sanjida Islam,12755a62,,,run out,0,0,0
+1145894,2018,Bangladesh,19,Fahima Khatun,558cdd64,EAJ Richardson,50ee0500,Jahanara Alam,752183c1,0,0,0,0,0,,,,,,1,0,1

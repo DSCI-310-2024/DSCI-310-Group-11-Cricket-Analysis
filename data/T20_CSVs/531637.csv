@@ -1,0 +1,248 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+531637,2011/12,England,0,KP Pietersen,39f01cdb,Mohammad Hafeez,9ab63e7b,C Kieswetter,1e960f2a,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,England,0,C Kieswetter,1e960f2a,Mohammad Hafeez,9ab63e7b,KP Pietersen,39f01cdb,0,0,1,0,0,,,,,,0,1,1
+531637,2011/12,England,0,KP Pietersen,39f01cdb,Mohammad Hafeez,9ab63e7b,C Kieswetter,1e960f2a,0,0,0,0,0,,,,,,0,0,0
+531637,2011/12,England,0,KP Pietersen,39f01cdb,Mohammad Hafeez,9ab63e7b,C Kieswetter,1e960f2a,0,0,0,0,0,,,,,,4,0,4
+531637,2011/12,England,0,KP Pietersen,39f01cdb,Mohammad Hafeez,9ab63e7b,C Kieswetter,1e960f2a,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,England,0,C Kieswetter,1e960f2a,Mohammad Hafeez,9ab63e7b,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,0,0,0
+531637,2011/12,England,1,KP Pietersen,39f01cdb,Aizaz Cheema,5441db8c,C Kieswetter,1e960f2a,0,0,0,0,0,,,,,,0,0,0
+531637,2011/12,England,1,KP Pietersen,39f01cdb,Aizaz Cheema,5441db8c,C Kieswetter,1e960f2a,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,England,1,C Kieswetter,1e960f2a,Aizaz Cheema,5441db8c,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,0,0,0
+531637,2011/12,England,1,C Kieswetter,1e960f2a,Aizaz Cheema,5441db8c,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,0,0,0
+531637,2011/12,England,1,C Kieswetter,1e960f2a,Aizaz Cheema,5441db8c,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,2,0,2
+531637,2011/12,England,1,C Kieswetter,1e960f2a,Aizaz Cheema,5441db8c,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,England,2,C Kieswetter,1e960f2a,Umar Gul,16dfcc19,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,2,0,2
+531637,2011/12,England,2,C Kieswetter,1e960f2a,Umar Gul,16dfcc19,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,4,0,4
+531637,2011/12,England,2,C Kieswetter,1e960f2a,Umar Gul,16dfcc19,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,6,0,6
+531637,2011/12,England,2,C Kieswetter,1e960f2a,Umar Gul,16dfcc19,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,0,0,0
+531637,2011/12,England,2,C Kieswetter,1e960f2a,Umar Gul,16dfcc19,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,0,0,0
+531637,2011/12,England,2,C Kieswetter,1e960f2a,Umar Gul,16dfcc19,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,0,0,0
+531637,2011/12,England,3,KP Pietersen,39f01cdb,Aizaz Cheema,5441db8c,C Kieswetter,1e960f2a,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,England,3,C Kieswetter,1e960f2a,Aizaz Cheema,5441db8c,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,England,3,KP Pietersen,39f01cdb,Aizaz Cheema,5441db8c,C Kieswetter,1e960f2a,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,England,3,C Kieswetter,1e960f2a,Aizaz Cheema,5441db8c,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,0,0,0
+531637,2011/12,England,3,C Kieswetter,1e960f2a,Aizaz Cheema,5441db8c,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,England,3,KP Pietersen,39f01cdb,Aizaz Cheema,5441db8c,C Kieswetter,1e960f2a,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,England,4,KP Pietersen,39f01cdb,Saeed Ajmal,05d74535,C Kieswetter,1e960f2a,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,England,4,C Kieswetter,1e960f2a,Saeed Ajmal,05d74535,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,0,0,0
+531637,2011/12,England,4,C Kieswetter,1e960f2a,Saeed Ajmal,05d74535,KP Pietersen,39f01cdb,0,0,0,0,1,C Kieswetter,1e960f2a,Shoaib Malik,64c34cd0,caught,0,0,0
+531637,2011/12,England,4,KP Pietersen,39f01cdb,Saeed Ajmal,05d74535,RS Bopara,7ca5e05d,0,0,0,0,0,,,,,,0,0,0
+531637,2011/12,England,4,KP Pietersen,39f01cdb,Saeed Ajmal,05d74535,RS Bopara,7ca5e05d,0,0,0,0,0,,,,,,4,0,4
+531637,2011/12,England,4,KP Pietersen,39f01cdb,Saeed Ajmal,05d74535,RS Bopara,7ca5e05d,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,England,5,KP Pietersen,39f01cdb,Aizaz Cheema,5441db8c,RS Bopara,7ca5e05d,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,England,5,RS Bopara,7ca5e05d,Aizaz Cheema,5441db8c,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,England,5,KP Pietersen,39f01cdb,Aizaz Cheema,5441db8c,RS Bopara,7ca5e05d,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,England,5,RS Bopara,7ca5e05d,Aizaz Cheema,5441db8c,KP Pietersen,39f01cdb,0,0,0,0,1,RS Bopara,7ca5e05d,Umar Akmal,fd2bf2a0,caught,0,0,0
+531637,2011/12,England,5,EJG Morgan,d2a6c0e6,Aizaz Cheema,5441db8c,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,England,5,KP Pietersen,39f01cdb,Aizaz Cheema,5441db8c,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,England,6,KP Pietersen,39f01cdb,Mohammad Hafeez,9ab63e7b,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,4,0,4
+531637,2011/12,England,6,KP Pietersen,39f01cdb,Mohammad Hafeez,9ab63e7b,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,0,0,0
+531637,2011/12,England,6,KP Pietersen,39f01cdb,Mohammad Hafeez,9ab63e7b,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,England,6,EJG Morgan,d2a6c0e6,Mohammad Hafeez,9ab63e7b,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,England,6,KP Pietersen,39f01cdb,Mohammad Hafeez,9ab63e7b,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,England,6,EJG Morgan,d2a6c0e6,Mohammad Hafeez,9ab63e7b,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,2,0,2
+531637,2011/12,England,7,KP Pietersen,39f01cdb,Shahid Afridi,0dc00542,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,0,0,0
+531637,2011/12,England,7,KP Pietersen,39f01cdb,Shahid Afridi,0dc00542,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,England,7,EJG Morgan,d2a6c0e6,Shahid Afridi,0dc00542,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,England,7,KP Pietersen,39f01cdb,Shahid Afridi,0dc00542,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,England,7,EJG Morgan,d2a6c0e6,Shahid Afridi,0dc00542,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,0,0,0
+531637,2011/12,England,7,EJG Morgan,d2a6c0e6,Shahid Afridi,0dc00542,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,England,8,EJG Morgan,d2a6c0e6,Mohammad Hafeez,9ab63e7b,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,England,8,KP Pietersen,39f01cdb,Mohammad Hafeez,9ab63e7b,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,England,8,EJG Morgan,d2a6c0e6,Mohammad Hafeez,9ab63e7b,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,0,0,0
+531637,2011/12,England,8,EJG Morgan,d2a6c0e6,Mohammad Hafeez,9ab63e7b,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,0,0,0
+531637,2011/12,England,8,EJG Morgan,d2a6c0e6,Mohammad Hafeez,9ab63e7b,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,England,8,KP Pietersen,39f01cdb,Mohammad Hafeez,9ab63e7b,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,England,9,KP Pietersen,39f01cdb,Shahid Afridi,0dc00542,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,England,9,EJG Morgan,d2a6c0e6,Shahid Afridi,0dc00542,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,England,9,KP Pietersen,39f01cdb,Shahid Afridi,0dc00542,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,4,0,4
+531637,2011/12,England,9,KP Pietersen,39f01cdb,Shahid Afridi,0dc00542,EJG Morgan,d2a6c0e6,0,0,0,0,1,EJG Morgan,d2a6c0e6,Misbah-ul-Haq,7eae4418,run out,0,0,0
+531637,2011/12,England,9,KP Pietersen,39f01cdb,Shahid Afridi,0dc00542,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,0,0,0
+531637,2011/12,England,9,KP Pietersen,39f01cdb,Shahid Afridi,0dc00542,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,0,0,0
+531637,2011/12,England,10,JM Bairstow,abb83e27,Mohammad Hafeez,9ab63e7b,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,England,10,KP Pietersen,39f01cdb,Mohammad Hafeez,9ab63e7b,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,0,0,0
+531637,2011/12,England,10,KP Pietersen,39f01cdb,Mohammad Hafeez,9ab63e7b,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,0,0,0
+531637,2011/12,England,10,KP Pietersen,39f01cdb,Mohammad Hafeez,9ab63e7b,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,England,10,JM Bairstow,abb83e27,Mohammad Hafeez,9ab63e7b,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,0,0,0
+531637,2011/12,England,10,JM Bairstow,abb83e27,Mohammad Hafeez,9ab63e7b,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,England,11,JM Bairstow,abb83e27,Shahid Afridi,0dc00542,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,0,0,0
+531637,2011/12,England,11,JM Bairstow,abb83e27,Shahid Afridi,0dc00542,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,0,0,0
+531637,2011/12,England,11,JM Bairstow,abb83e27,Shahid Afridi,0dc00542,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,England,11,KP Pietersen,39f01cdb,Shahid Afridi,0dc00542,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,4,0,4
+531637,2011/12,England,11,KP Pietersen,39f01cdb,Shahid Afridi,0dc00542,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,2,0,2
+531637,2011/12,England,11,KP Pietersen,39f01cdb,Shahid Afridi,0dc00542,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,0,0,0
+531637,2011/12,England,12,JM Bairstow,abb83e27,Saeed Ajmal,05d74535,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,0,0,0
+531637,2011/12,England,12,JM Bairstow,abb83e27,Saeed Ajmal,05d74535,KP Pietersen,39f01cdb,0,0,0,0,1,JM Bairstow,abb83e27,,,bowled,0,0,0
+531637,2011/12,England,12,JC Buttler,99b75528,Saeed Ajmal,05d74535,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,0,0,0
+531637,2011/12,England,12,JC Buttler,99b75528,Saeed Ajmal,05d74535,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,England,12,KP Pietersen,39f01cdb,Saeed Ajmal,05d74535,JC Buttler,99b75528,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,England,12,JC Buttler,99b75528,Saeed Ajmal,05d74535,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,England,13,JC Buttler,99b75528,Shahid Afridi,0dc00542,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,0,0,0
+531637,2011/12,England,13,JC Buttler,99b75528,Shahid Afridi,0dc00542,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,England,13,KP Pietersen,39f01cdb,Shahid Afridi,0dc00542,JC Buttler,99b75528,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,England,13,JC Buttler,99b75528,Shahid Afridi,0dc00542,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,0,0,0
+531637,2011/12,England,13,JC Buttler,99b75528,Shahid Afridi,0dc00542,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,0,0,0
+531637,2011/12,England,13,JC Buttler,99b75528,Shahid Afridi,0dc00542,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,0,0,0
+531637,2011/12,England,14,KP Pietersen,39f01cdb,Umar Gul,16dfcc19,JC Buttler,99b75528,0,0,0,0,0,,,,,,0,0,0
+531637,2011/12,England,14,KP Pietersen,39f01cdb,Umar Gul,16dfcc19,JC Buttler,99b75528,1,0,0,0,0,,,,,,0,1,1
+531637,2011/12,England,14,KP Pietersen,39f01cdb,Umar Gul,16dfcc19,JC Buttler,99b75528,5,0,0,0,0,,,,,,0,5,5
+531637,2011/12,England,14,KP Pietersen,39f01cdb,Umar Gul,16dfcc19,JC Buttler,99b75528,0,0,0,0,0,,,,,,0,0,0
+531637,2011/12,England,14,KP Pietersen,39f01cdb,Umar Gul,16dfcc19,JC Buttler,99b75528,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,England,14,JC Buttler,99b75528,Umar Gul,16dfcc19,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,2,0,2
+531637,2011/12,England,14,JC Buttler,99b75528,Umar Gul,16dfcc19,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,0,0,0
+531637,2011/12,England,14,JC Buttler,99b75528,Umar Gul,16dfcc19,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,England,15,JC Buttler,99b75528,Saeed Ajmal,05d74535,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,England,15,KP Pietersen,39f01cdb,Saeed Ajmal,05d74535,JC Buttler,99b75528,0,0,0,0,0,,,,,,0,0,0
+531637,2011/12,England,15,KP Pietersen,39f01cdb,Saeed Ajmal,05d74535,JC Buttler,99b75528,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,England,15,JC Buttler,99b75528,Saeed Ajmal,05d74535,KP Pietersen,39f01cdb,0,0,0,0,1,JC Buttler,99b75528,,,lbw,0,0,0
+531637,2011/12,England,15,SR Patel,18fac429,Saeed Ajmal,05d74535,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,0,0,0
+531637,2011/12,England,15,SR Patel,18fac429,Saeed Ajmal,05d74535,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,0,0,0
+531637,2011/12,England,16,KP Pietersen,39f01cdb,Umar Gul,16dfcc19,SR Patel,18fac429,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,England,16,SR Patel,18fac429,Umar Gul,16dfcc19,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,2,0,2
+531637,2011/12,England,16,SR Patel,18fac429,Umar Gul,16dfcc19,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,England,16,KP Pietersen,39f01cdb,Umar Gul,16dfcc19,SR Patel,18fac429,0,0,0,0,0,,,,,,2,0,2
+531637,2011/12,England,16,KP Pietersen,39f01cdb,Umar Gul,16dfcc19,SR Patel,18fac429,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,England,16,SR Patel,18fac429,Umar Gul,16dfcc19,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,England,17,SR Patel,18fac429,Saeed Ajmal,05d74535,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,2,0,2
+531637,2011/12,England,17,SR Patel,18fac429,Saeed Ajmal,05d74535,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,6,0,6
+531637,2011/12,England,17,SR Patel,18fac429,Saeed Ajmal,05d74535,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,4,0,4
+531637,2011/12,England,17,SR Patel,18fac429,Saeed Ajmal,05d74535,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,0,0,0
+531637,2011/12,England,17,SR Patel,18fac429,Saeed Ajmal,05d74535,KP Pietersen,39f01cdb,0,0,0,0,1,SR Patel,18fac429,Umar Akmal,fd2bf2a0,stumped,0,0,0
+531637,2011/12,England,17,SCJ Broad,eba6a852,Saeed Ajmal,05d74535,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,0,0,0
+531637,2011/12,England,18,KP Pietersen,39f01cdb,Umar Gul,16dfcc19,SCJ Broad,eba6a852,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,England,18,SCJ Broad,eba6a852,Umar Gul,16dfcc19,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,England,18,KP Pietersen,39f01cdb,Umar Gul,16dfcc19,SCJ Broad,eba6a852,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,England,18,SCJ Broad,eba6a852,Umar Gul,16dfcc19,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,England,18,KP Pietersen,39f01cdb,Umar Gul,16dfcc19,SCJ Broad,eba6a852,1,0,0,0,0,,,,,,0,1,1
+531637,2011/12,England,18,KP Pietersen,39f01cdb,Umar Gul,16dfcc19,SCJ Broad,eba6a852,0,0,0,0,0,,,,,,0,0,0
+531637,2011/12,England,18,KP Pietersen,39f01cdb,Umar Gul,16dfcc19,SCJ Broad,eba6a852,0,0,0,0,0,,,,,,4,0,4
+531637,2011/12,England,19,SCJ Broad,eba6a852,Aizaz Cheema,5441db8c,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,England,19,KP Pietersen,39f01cdb,Aizaz Cheema,5441db8c,SCJ Broad,eba6a852,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,England,19,SCJ Broad,eba6a852,Aizaz Cheema,5441db8c,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,2,0,2
+531637,2011/12,England,19,SCJ Broad,eba6a852,Aizaz Cheema,5441db8c,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,0,0,0
+531637,2011/12,England,19,SCJ Broad,eba6a852,Aizaz Cheema,5441db8c,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,England,19,KP Pietersen,39f01cdb,Aizaz Cheema,5441db8c,SCJ Broad,eba6a852,0,0,0,0,0,,,,,,6,0,6
+531637,2011/12,Pakistan,0,Awais Zia,5c88fab9,ST Finn,ccdd8308,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,2,0,2
+531637,2011/12,Pakistan,0,Awais Zia,5c88fab9,ST Finn,ccdd8308,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,0,0,0
+531637,2011/12,Pakistan,0,Awais Zia,5c88fab9,ST Finn,ccdd8308,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,0,0,0
+531637,2011/12,Pakistan,0,Awais Zia,5c88fab9,ST Finn,ccdd8308,Mohammad Hafeez,9ab63e7b,0,0,4,0,0,,,,,,0,4,4
+531637,2011/12,Pakistan,0,Awais Zia,5c88fab9,ST Finn,ccdd8308,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,0,0,0
+531637,2011/12,Pakistan,0,Awais Zia,5c88fab9,ST Finn,ccdd8308,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,2,0,2
+531637,2011/12,Pakistan,1,Mohammad Hafeez,9ab63e7b,JW Dernbach,7be8a0ed,Awais Zia,5c88fab9,0,0,0,0,1,Mohammad Hafeez,9ab63e7b,,,caught and bowled,0,0,0
+531637,2011/12,Pakistan,1,Asad Shafiq,50250426,JW Dernbach,7be8a0ed,Awais Zia,5c88fab9,0,0,0,0,0,,,,,,0,0,0
+531637,2011/12,Pakistan,1,Asad Shafiq,50250426,JW Dernbach,7be8a0ed,Awais Zia,5c88fab9,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,Pakistan,1,Awais Zia,5c88fab9,JW Dernbach,7be8a0ed,Asad Shafiq,50250426,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,Pakistan,1,Asad Shafiq,50250426,JW Dernbach,7be8a0ed,Awais Zia,5c88fab9,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,Pakistan,1,Awais Zia,5c88fab9,JW Dernbach,7be8a0ed,Asad Shafiq,50250426,0,0,1,0,0,,,,,,0,1,1
+531637,2011/12,Pakistan,2,Awais Zia,5c88fab9,ST Finn,ccdd8308,Asad Shafiq,50250426,0,0,0,0,0,,,,,,6,0,6
+531637,2011/12,Pakistan,2,Awais Zia,5c88fab9,ST Finn,ccdd8308,Asad Shafiq,50250426,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,Pakistan,2,Asad Shafiq,50250426,ST Finn,ccdd8308,Awais Zia,5c88fab9,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,Pakistan,2,Awais Zia,5c88fab9,ST Finn,ccdd8308,Asad Shafiq,50250426,0,0,1,0,0,,,,,,0,1,1
+531637,2011/12,Pakistan,2,Asad Shafiq,50250426,ST Finn,ccdd8308,Awais Zia,5c88fab9,0,0,0,0,0,,,,,,0,0,0
+531637,2011/12,Pakistan,2,Asad Shafiq,50250426,ST Finn,ccdd8308,Awais Zia,5c88fab9,0,0,1,0,0,,,,,,0,1,1
+531637,2011/12,Pakistan,3,Asad Shafiq,50250426,JW Dernbach,7be8a0ed,Awais Zia,5c88fab9,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,Pakistan,3,Awais Zia,5c88fab9,JW Dernbach,7be8a0ed,Asad Shafiq,50250426,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,Pakistan,3,Asad Shafiq,50250426,JW Dernbach,7be8a0ed,Awais Zia,5c88fab9,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,Pakistan,3,Awais Zia,5c88fab9,JW Dernbach,7be8a0ed,Asad Shafiq,50250426,0,0,0,0,0,,,,,,4,0,4
+531637,2011/12,Pakistan,3,Awais Zia,5c88fab9,JW Dernbach,7be8a0ed,Asad Shafiq,50250426,0,0,0,0,0,,,,,,0,0,0
+531637,2011/12,Pakistan,3,Awais Zia,5c88fab9,JW Dernbach,7be8a0ed,Asad Shafiq,50250426,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,Pakistan,4,Awais Zia,5c88fab9,ST Finn,ccdd8308,Asad Shafiq,50250426,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,Pakistan,4,Asad Shafiq,50250426,ST Finn,ccdd8308,Awais Zia,5c88fab9,0,0,0,0,0,,,,,,4,0,4
+531637,2011/12,Pakistan,4,Asad Shafiq,50250426,ST Finn,ccdd8308,Awais Zia,5c88fab9,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,Pakistan,4,Awais Zia,5c88fab9,ST Finn,ccdd8308,Asad Shafiq,50250426,0,0,0,0,0,,,,,,0,0,0
+531637,2011/12,Pakistan,4,Awais Zia,5c88fab9,ST Finn,ccdd8308,Asad Shafiq,50250426,1,0,0,0,0,,,,,,0,1,1
+531637,2011/12,Pakistan,4,Awais Zia,5c88fab9,ST Finn,ccdd8308,Asad Shafiq,50250426,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,Pakistan,4,Asad Shafiq,50250426,ST Finn,ccdd8308,Awais Zia,5c88fab9,0,0,0,0,0,,,,,,2,0,2
+531637,2011/12,Pakistan,5,Awais Zia,5c88fab9,SCJ Broad,eba6a852,Asad Shafiq,50250426,0,0,0,0,0,,,,,,0,0,0
+531637,2011/12,Pakistan,5,Awais Zia,5c88fab9,SCJ Broad,eba6a852,Asad Shafiq,50250426,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,Pakistan,5,Asad Shafiq,50250426,SCJ Broad,eba6a852,Awais Zia,5c88fab9,0,0,0,0,0,,,,,,2,0,2
+531637,2011/12,Pakistan,5,Asad Shafiq,50250426,SCJ Broad,eba6a852,Awais Zia,5c88fab9,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,Pakistan,5,Awais Zia,5c88fab9,SCJ Broad,eba6a852,Asad Shafiq,50250426,0,0,0,0,0,,,,,,0,0,0
+531637,2011/12,Pakistan,5,Awais Zia,5c88fab9,SCJ Broad,eba6a852,Asad Shafiq,50250426,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,Pakistan,6,Awais Zia,5c88fab9,SR Patel,18fac429,Asad Shafiq,50250426,0,0,0,0,0,,,,,,0,0,0
+531637,2011/12,Pakistan,6,Awais Zia,5c88fab9,SR Patel,18fac429,Asad Shafiq,50250426,0,0,0,0,0,,,,,,0,0,0
+531637,2011/12,Pakistan,6,Awais Zia,5c88fab9,SR Patel,18fac429,Asad Shafiq,50250426,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,Pakistan,6,Asad Shafiq,50250426,SR Patel,18fac429,Awais Zia,5c88fab9,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,Pakistan,6,Awais Zia,5c88fab9,SR Patel,18fac429,Asad Shafiq,50250426,0,0,0,0,0,,,,,,0,0,0
+531637,2011/12,Pakistan,6,Awais Zia,5c88fab9,SR Patel,18fac429,Asad Shafiq,50250426,0,0,0,0,0,,,,,,0,0,0
+531637,2011/12,Pakistan,7,Asad Shafiq,50250426,GP Swann,221ad9d9,Awais Zia,5c88fab9,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,Pakistan,7,Awais Zia,5c88fab9,GP Swann,221ad9d9,Asad Shafiq,50250426,0,0,0,0,1,Awais Zia,5c88fab9,,,lbw,0,0,0
+531637,2011/12,Pakistan,7,Misbah-ul-Haq,7eae4418,GP Swann,221ad9d9,Asad Shafiq,50250426,0,0,0,0,0,,,,,,0,0,0
+531637,2011/12,Pakistan,7,Misbah-ul-Haq,7eae4418,GP Swann,221ad9d9,Asad Shafiq,50250426,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,Pakistan,7,Asad Shafiq,50250426,GP Swann,221ad9d9,Misbah-ul-Haq,7eae4418,0,0,0,0,0,,,,,,0,0,0
+531637,2011/12,Pakistan,7,Asad Shafiq,50250426,GP Swann,221ad9d9,Misbah-ul-Haq,7eae4418,0,0,0,0,0,,,,,,0,0,0
+531637,2011/12,Pakistan,8,Misbah-ul-Haq,7eae4418,SR Patel,18fac429,Asad Shafiq,50250426,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,Pakistan,8,Asad Shafiq,50250426,SR Patel,18fac429,Misbah-ul-Haq,7eae4418,0,0,0,0,0,,,,,,0,0,0
+531637,2011/12,Pakistan,8,Asad Shafiq,50250426,SR Patel,18fac429,Misbah-ul-Haq,7eae4418,0,0,0,0,0,,,,,,0,0,0
+531637,2011/12,Pakistan,8,Asad Shafiq,50250426,SR Patel,18fac429,Misbah-ul-Haq,7eae4418,0,0,0,0,0,,,,,,0,0,0
+531637,2011/12,Pakistan,8,Asad Shafiq,50250426,SR Patel,18fac429,Misbah-ul-Haq,7eae4418,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,Pakistan,8,Misbah-ul-Haq,7eae4418,SR Patel,18fac429,Asad Shafiq,50250426,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,Pakistan,9,Misbah-ul-Haq,7eae4418,GP Swann,221ad9d9,Asad Shafiq,50250426,0,0,0,0,0,,,,,,0,0,0
+531637,2011/12,Pakistan,9,Misbah-ul-Haq,7eae4418,GP Swann,221ad9d9,Asad Shafiq,50250426,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,Pakistan,9,Asad Shafiq,50250426,GP Swann,221ad9d9,Misbah-ul-Haq,7eae4418,0,0,0,0,0,,,,,,2,0,2
+531637,2011/12,Pakistan,9,Asad Shafiq,50250426,GP Swann,221ad9d9,Misbah-ul-Haq,7eae4418,0,0,0,0,0,,,,,,0,0,0
+531637,2011/12,Pakistan,9,Asad Shafiq,50250426,GP Swann,221ad9d9,Misbah-ul-Haq,7eae4418,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,Pakistan,9,Misbah-ul-Haq,7eae4418,GP Swann,221ad9d9,Asad Shafiq,50250426,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,Pakistan,10,Misbah-ul-Haq,7eae4418,SCJ Broad,eba6a852,Asad Shafiq,50250426,0,0,0,0,0,,,,,,0,0,0
+531637,2011/12,Pakistan,10,Misbah-ul-Haq,7eae4418,SCJ Broad,eba6a852,Asad Shafiq,50250426,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,Pakistan,10,Asad Shafiq,50250426,SCJ Broad,eba6a852,Misbah-ul-Haq,7eae4418,0,0,0,0,0,,,,,,4,0,4
+531637,2011/12,Pakistan,10,Asad Shafiq,50250426,SCJ Broad,eba6a852,Misbah-ul-Haq,7eae4418,0,0,0,0,0,,,,,,4,0,4
+531637,2011/12,Pakistan,10,Asad Shafiq,50250426,SCJ Broad,eba6a852,Misbah-ul-Haq,7eae4418,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,Pakistan,10,Misbah-ul-Haq,7eae4418,SCJ Broad,eba6a852,Asad Shafiq,50250426,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,Pakistan,11,Misbah-ul-Haq,7eae4418,GP Swann,221ad9d9,Asad Shafiq,50250426,2,0,0,0,0,,,,,,0,2,2
+531637,2011/12,Pakistan,11,Asad Shafiq,50250426,GP Swann,221ad9d9,Misbah-ul-Haq,7eae4418,0,0,0,0,0,,,,,,0,0,0
+531637,2011/12,Pakistan,11,Asad Shafiq,50250426,GP Swann,221ad9d9,Misbah-ul-Haq,7eae4418,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,Pakistan,11,Misbah-ul-Haq,7eae4418,GP Swann,221ad9d9,Asad Shafiq,50250426,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,Pakistan,11,Asad Shafiq,50250426,GP Swann,221ad9d9,Misbah-ul-Haq,7eae4418,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,Pakistan,11,Misbah-ul-Haq,7eae4418,GP Swann,221ad9d9,Asad Shafiq,50250426,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,Pakistan,11,Asad Shafiq,50250426,GP Swann,221ad9d9,Misbah-ul-Haq,7eae4418,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,Pakistan,12,Asad Shafiq,50250426,SR Patel,18fac429,Misbah-ul-Haq,7eae4418,0,0,0,0,1,Asad Shafiq,50250426,JC Buttler,99b75528,run out,1,0,1
+531637,2011/12,Pakistan,12,Umar Akmal,fd2bf2a0,SR Patel,18fac429,Misbah-ul-Haq,7eae4418,0,0,0,0,0,,,,,,0,0,0
+531637,2011/12,Pakistan,12,Umar Akmal,fd2bf2a0,SR Patel,18fac429,Misbah-ul-Haq,7eae4418,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,Pakistan,12,Misbah-ul-Haq,7eae4418,SR Patel,18fac429,Umar Akmal,fd2bf2a0,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,Pakistan,12,Umar Akmal,fd2bf2a0,SR Patel,18fac429,Misbah-ul-Haq,7eae4418,0,0,0,0,0,,,,,,0,0,0
+531637,2011/12,Pakistan,12,Umar Akmal,fd2bf2a0,SR Patel,18fac429,Misbah-ul-Haq,7eae4418,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,Pakistan,13,Umar Akmal,fd2bf2a0,GP Swann,221ad9d9,Misbah-ul-Haq,7eae4418,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,Pakistan,13,Misbah-ul-Haq,7eae4418,GP Swann,221ad9d9,Umar Akmal,fd2bf2a0,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,Pakistan,13,Umar Akmal,fd2bf2a0,GP Swann,221ad9d9,Misbah-ul-Haq,7eae4418,0,0,0,0,0,,,,,,0,0,0
+531637,2011/12,Pakistan,13,Umar Akmal,fd2bf2a0,GP Swann,221ad9d9,Misbah-ul-Haq,7eae4418,0,0,0,0,0,,,,,,2,0,2
+531637,2011/12,Pakistan,13,Umar Akmal,fd2bf2a0,GP Swann,221ad9d9,Misbah-ul-Haq,7eae4418,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,Pakistan,13,Misbah-ul-Haq,7eae4418,GP Swann,221ad9d9,Umar Akmal,fd2bf2a0,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,Pakistan,14,Misbah-ul-Haq,7eae4418,SR Patel,18fac429,Umar Akmal,fd2bf2a0,0,0,0,0,0,,,,,,4,0,4
+531637,2011/12,Pakistan,14,Misbah-ul-Haq,7eae4418,SR Patel,18fac429,Umar Akmal,fd2bf2a0,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,Pakistan,14,Umar Akmal,fd2bf2a0,SR Patel,18fac429,Misbah-ul-Haq,7eae4418,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,Pakistan,14,Misbah-ul-Haq,7eae4418,SR Patel,18fac429,Umar Akmal,fd2bf2a0,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,Pakistan,14,Umar Akmal,fd2bf2a0,SR Patel,18fac429,Misbah-ul-Haq,7eae4418,0,0,0,0,0,,,,,,0,0,0
+531637,2011/12,Pakistan,14,Umar Akmal,fd2bf2a0,SR Patel,18fac429,Misbah-ul-Haq,7eae4418,0,0,0,0,0,,,,,,2,0,2
+531637,2011/12,Pakistan,15,Misbah-ul-Haq,7eae4418,SCJ Broad,eba6a852,Umar Akmal,fd2bf2a0,0,0,0,0,0,,,,,,0,0,0
+531637,2011/12,Pakistan,15,Misbah-ul-Haq,7eae4418,SCJ Broad,eba6a852,Umar Akmal,fd2bf2a0,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,Pakistan,15,Umar Akmal,fd2bf2a0,SCJ Broad,eba6a852,Misbah-ul-Haq,7eae4418,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,Pakistan,15,Misbah-ul-Haq,7eae4418,SCJ Broad,eba6a852,Umar Akmal,fd2bf2a0,0,0,0,0,0,,,,,,0,0,0
+531637,2011/12,Pakistan,15,Misbah-ul-Haq,7eae4418,SCJ Broad,eba6a852,Umar Akmal,fd2bf2a0,0,0,0,0,0,,,,,,2,0,2
+531637,2011/12,Pakistan,15,Misbah-ul-Haq,7eae4418,SCJ Broad,eba6a852,Umar Akmal,fd2bf2a0,0,0,0,0,0,,,,,,0,0,0
+531637,2011/12,Pakistan,16,Umar Akmal,fd2bf2a0,ST Finn,ccdd8308,Misbah-ul-Haq,7eae4418,0,0,0,0,0,,,,,,0,0,0
+531637,2011/12,Pakistan,16,Umar Akmal,fd2bf2a0,ST Finn,ccdd8308,Misbah-ul-Haq,7eae4418,0,0,0,0,0,,,,,,2,0,2
+531637,2011/12,Pakistan,16,Umar Akmal,fd2bf2a0,ST Finn,ccdd8308,Misbah-ul-Haq,7eae4418,0,0,0,0,0,,,,,,4,0,4
+531637,2011/12,Pakistan,16,Umar Akmal,fd2bf2a0,ST Finn,ccdd8308,Misbah-ul-Haq,7eae4418,0,0,0,0,0,,,,,,2,0,2
+531637,2011/12,Pakistan,16,Umar Akmal,fd2bf2a0,ST Finn,ccdd8308,Misbah-ul-Haq,7eae4418,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,Pakistan,16,Misbah-ul-Haq,7eae4418,ST Finn,ccdd8308,Umar Akmal,fd2bf2a0,0,0,0,0,0,,,,,,0,0,0
+531637,2011/12,Pakistan,17,Umar Akmal,fd2bf2a0,JW Dernbach,7be8a0ed,Misbah-ul-Haq,7eae4418,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,Pakistan,17,Misbah-ul-Haq,7eae4418,JW Dernbach,7be8a0ed,Umar Akmal,fd2bf2a0,1,0,0,0,0,,,,,,0,1,1
+531637,2011/12,Pakistan,17,Misbah-ul-Haq,7eae4418,JW Dernbach,7be8a0ed,Umar Akmal,fd2bf2a0,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,Pakistan,17,Umar Akmal,fd2bf2a0,JW Dernbach,7be8a0ed,Misbah-ul-Haq,7eae4418,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,Pakistan,17,Misbah-ul-Haq,7eae4418,JW Dernbach,7be8a0ed,Umar Akmal,fd2bf2a0,0,0,0,0,0,,,,,,0,0,0
+531637,2011/12,Pakistan,17,Misbah-ul-Haq,7eae4418,JW Dernbach,7be8a0ed,Umar Akmal,fd2bf2a0,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,Pakistan,17,Umar Akmal,fd2bf2a0,JW Dernbach,7be8a0ed,Misbah-ul-Haq,7eae4418,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,Pakistan,18,Umar Akmal,fd2bf2a0,SCJ Broad,eba6a852,Misbah-ul-Haq,7eae4418,0,0,0,0,0,,,,,,0,0,0
+531637,2011/12,Pakistan,18,Umar Akmal,fd2bf2a0,SCJ Broad,eba6a852,Misbah-ul-Haq,7eae4418,0,0,0,0,0,,,,,,0,0,0
+531637,2011/12,Pakistan,18,Umar Akmal,fd2bf2a0,SCJ Broad,eba6a852,Misbah-ul-Haq,7eae4418,0,0,0,0,1,Umar Akmal,fd2bf2a0,GP Swann,221ad9d9,caught,0,0,0
+531637,2011/12,Pakistan,18,Misbah-ul-Haq,7eae4418,SCJ Broad,eba6a852,Shahid Afridi,0dc00542,0,0,0,0,0,,,,,,4,0,4
+531637,2011/12,Pakistan,18,Misbah-ul-Haq,7eae4418,SCJ Broad,eba6a852,Shahid Afridi,0dc00542,0,0,0,0,0,,,,,,0,0,0
+531637,2011/12,Pakistan,18,Misbah-ul-Haq,7eae4418,SCJ Broad,eba6a852,Shahid Afridi,0dc00542,0,0,0,0,0,,,,,,0,0,0
+531637,2011/12,Pakistan,19,Shahid Afridi,0dc00542,JW Dernbach,7be8a0ed,Misbah-ul-Haq,7eae4418,0,0,0,0,0,,,,,,2,0,2
+531637,2011/12,Pakistan,19,Shahid Afridi,0dc00542,JW Dernbach,7be8a0ed,Misbah-ul-Haq,7eae4418,0,0,0,0,1,Shahid Afridi,0dc00542,JM Bairstow,abb83e27,run out,1,0,1
+531637,2011/12,Pakistan,19,Hammad Azam,57bd3ecc,JW Dernbach,7be8a0ed,Misbah-ul-Haq,7eae4418,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,Pakistan,19,Misbah-ul-Haq,7eae4418,JW Dernbach,7be8a0ed,Hammad Azam,57bd3ecc,1,0,0,0,0,,,,,,0,1,1
+531637,2011/12,Pakistan,19,Misbah-ul-Haq,7eae4418,JW Dernbach,7be8a0ed,Hammad Azam,57bd3ecc,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,Pakistan,19,Hammad Azam,57bd3ecc,JW Dernbach,7be8a0ed,Misbah-ul-Haq,7eae4418,0,0,0,0,0,,,,,,1,0,1
+531637,2011/12,Pakistan,19,Misbah-ul-Haq,7eae4418,JW Dernbach,7be8a0ed,Hammad Azam,57bd3ecc,0,0,0,0,1,Misbah-ul-Haq,7eae4418,,,bowled,0,0,0

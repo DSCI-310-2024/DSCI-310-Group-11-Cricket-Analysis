@@ -1,0 +1,246 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1344786,2022/23,Bahrain,0,Ahmer Bin Nisar,afbc53ba,Atif-Ur-Rehman,d20e22f7,Sarfaraz Ali,db95ddeb,0,0,0,0,0,,,,,,0,0,0
+1344786,2022/23,Bahrain,0,Ahmer Bin Nisar,afbc53ba,Atif-Ur-Rehman,d20e22f7,Sarfaraz Ali,db95ddeb,0,0,0,0,0,,,,,,0,0,0
+1344786,2022/23,Bahrain,0,Ahmer Bin Nisar,afbc53ba,Atif-Ur-Rehman,d20e22f7,Sarfaraz Ali,db95ddeb,0,0,0,0,0,,,,,,0,0,0
+1344786,2022/23,Bahrain,0,Ahmer Bin Nisar,afbc53ba,Atif-Ur-Rehman,d20e22f7,Sarfaraz Ali,db95ddeb,0,0,0,0,0,,,,,,1,0,1
+1344786,2022/23,Bahrain,0,Sarfaraz Ali,db95ddeb,Atif-Ur-Rehman,d20e22f7,Ahmer Bin Nisar,afbc53ba,0,0,0,0,0,,,,,,0,0,0
+1344786,2022/23,Bahrain,0,Sarfaraz Ali,db95ddeb,Atif-Ur-Rehman,d20e22f7,Ahmer Bin Nisar,afbc53ba,0,0,0,0,0,,,,,,0,0,0
+1344786,2022/23,Bahrain,1,Ahmer Bin Nisar,afbc53ba,Usman Najeeb,615688b6,Sarfaraz Ali,db95ddeb,1,0,0,0,0,,,,,,0,1,1
+1344786,2022/23,Bahrain,1,Ahmer Bin Nisar,afbc53ba,Usman Najeeb,615688b6,Sarfaraz Ali,db95ddeb,0,0,0,0,0,,,,,,0,0,0
+1344786,2022/23,Bahrain,1,Ahmer Bin Nisar,afbc53ba,Usman Najeeb,615688b6,Sarfaraz Ali,db95ddeb,0,0,0,0,0,,,,,,1,0,1
+1344786,2022/23,Bahrain,1,Sarfaraz Ali,db95ddeb,Usman Najeeb,615688b6,Ahmer Bin Nisar,afbc53ba,0,0,0,0,1,Sarfaraz Ali,db95ddeb,,,caught and bowled,0,0,0
+1344786,2022/23,Bahrain,1,Imran Anwar,a9a18e3e,Usman Najeeb,615688b6,Ahmer Bin Nisar,afbc53ba,0,0,0,0,0,,,,,,0,0,0
+1344786,2022/23,Bahrain,1,Imran Anwar,a9a18e3e,Usman Najeeb,615688b6,Ahmer Bin Nisar,afbc53ba,0,0,0,0,0,,,,,,0,0,0
+1344786,2022/23,Bahrain,1,Imran Anwar,a9a18e3e,Usman Najeeb,615688b6,Ahmer Bin Nisar,afbc53ba,0,0,0,0,0,,,,,,4,0,4
+1344786,2022/23,Bahrain,2,Ahmer Bin Nisar,afbc53ba,Atif-Ur-Rehman,d20e22f7,Imran Anwar,a9a18e3e,0,0,0,0,0,,,,,,0,0,0
+1344786,2022/23,Bahrain,2,Ahmer Bin Nisar,afbc53ba,Atif-Ur-Rehman,d20e22f7,Imran Anwar,a9a18e3e,0,0,0,0,0,,,,,,0,0,0
+1344786,2022/23,Bahrain,2,Ahmer Bin Nisar,afbc53ba,Atif-Ur-Rehman,d20e22f7,Imran Anwar,a9a18e3e,0,0,0,0,1,Ahmer Bin Nisar,afbc53ba,Saad Khan,28e0f645,caught,0,0,0
+1344786,2022/23,Bahrain,2,Sohail Ahmed,4db71b2e,Atif-Ur-Rehman,d20e22f7,Imran Anwar,a9a18e3e,0,0,0,0,0,,,,,,0,0,0
+1344786,2022/23,Bahrain,2,Sohail Ahmed,4db71b2e,Atif-Ur-Rehman,d20e22f7,Imran Anwar,a9a18e3e,0,0,0,0,0,,,,,,0,0,0
+1344786,2022/23,Bahrain,2,Sohail Ahmed,4db71b2e,Atif-Ur-Rehman,d20e22f7,Imran Anwar,a9a18e3e,0,0,0,0,0,,,,,,0,0,0
+1344786,2022/23,Bahrain,3,Imran Anwar,a9a18e3e,Usman Najeeb,615688b6,Sohail Ahmed,4db71b2e,0,0,1,0,0,,,,,,0,1,1
+1344786,2022/23,Bahrain,3,Sohail Ahmed,4db71b2e,Usman Najeeb,615688b6,Imran Anwar,a9a18e3e,0,0,0,0,0,,,,,,0,0,0
+1344786,2022/23,Bahrain,3,Sohail Ahmed,4db71b2e,Usman Najeeb,615688b6,Imran Anwar,a9a18e3e,0,0,1,0,0,,,,,,0,1,1
+1344786,2022/23,Bahrain,3,Imran Anwar,a9a18e3e,Usman Najeeb,615688b6,Sohail Ahmed,4db71b2e,0,0,0,0,0,,,,,,4,0,4
+1344786,2022/23,Bahrain,3,Imran Anwar,a9a18e3e,Usman Najeeb,615688b6,Sohail Ahmed,4db71b2e,0,0,0,0,0,,,,,,6,0,6
+1344786,2022/23,Bahrain,3,Imran Anwar,a9a18e3e,Usman Najeeb,615688b6,Sohail Ahmed,4db71b2e,0,0,0,0,0,,,,,,4,0,4
+1344786,2022/23,Bahrain,4,Sohail Ahmed,4db71b2e,Atif-Ur-Rehman,d20e22f7,Imran Anwar,a9a18e3e,0,0,0,0,0,,,,,,0,0,0
+1344786,2022/23,Bahrain,4,Sohail Ahmed,4db71b2e,Atif-Ur-Rehman,d20e22f7,Imran Anwar,a9a18e3e,0,0,0,0,0,,,,,,0,0,0
+1344786,2022/23,Bahrain,4,Sohail Ahmed,4db71b2e,Atif-Ur-Rehman,d20e22f7,Imran Anwar,a9a18e3e,0,0,0,0,0,,,,,,1,0,1
+1344786,2022/23,Bahrain,4,Imran Anwar,a9a18e3e,Atif-Ur-Rehman,d20e22f7,Sohail Ahmed,4db71b2e,0,0,0,0,0,,,,,,0,0,0
+1344786,2022/23,Bahrain,4,Imran Anwar,a9a18e3e,Atif-Ur-Rehman,d20e22f7,Sohail Ahmed,4db71b2e,0,0,0,0,0,,,,,,4,0,4
+1344786,2022/23,Bahrain,4,Imran Anwar,a9a18e3e,Atif-Ur-Rehman,d20e22f7,Sohail Ahmed,4db71b2e,0,0,0,0,0,,,,,,6,0,6
+1344786,2022/23,Bahrain,5,Sohail Ahmed,4db71b2e,Hisham Sheikh,c4441675,Imran Anwar,a9a18e3e,0,0,0,0,0,,,,,,1,0,1
+1344786,2022/23,Bahrain,5,Imran Anwar,a9a18e3e,Hisham Sheikh,c4441675,Sohail Ahmed,4db71b2e,0,0,0,0,0,,,,,,0,0,0
+1344786,2022/23,Bahrain,5,Imran Anwar,a9a18e3e,Hisham Sheikh,c4441675,Sohail Ahmed,4db71b2e,0,0,0,0,0,,,,,,4,0,4
+1344786,2022/23,Bahrain,5,Imran Anwar,a9a18e3e,Hisham Sheikh,c4441675,Sohail Ahmed,4db71b2e,0,0,0,0,0,,,,,,1,0,1
+1344786,2022/23,Bahrain,5,Sohail Ahmed,4db71b2e,Hisham Sheikh,c4441675,Imran Anwar,a9a18e3e,0,0,0,0,0,,,,,,1,0,1
+1344786,2022/23,Bahrain,5,Imran Anwar,a9a18e3e,Hisham Sheikh,c4441675,Sohail Ahmed,4db71b2e,0,0,0,0,0,,,,,,0,0,0
+1344786,2022/23,Bahrain,6,Sohail Ahmed,4db71b2e,Muhammad Saqib,9d6644a0,Imran Anwar,a9a18e3e,0,0,0,0,0,,,,,,0,0,0
+1344786,2022/23,Bahrain,6,Sohail Ahmed,4db71b2e,Muhammad Saqib,9d6644a0,Imran Anwar,a9a18e3e,0,0,0,0,0,,,,,,1,0,1
+1344786,2022/23,Bahrain,6,Imran Anwar,a9a18e3e,Muhammad Saqib,9d6644a0,Sohail Ahmed,4db71b2e,0,0,0,0,0,,,,,,1,0,1
+1344786,2022/23,Bahrain,6,Sohail Ahmed,4db71b2e,Muhammad Saqib,9d6644a0,Imran Anwar,a9a18e3e,0,0,0,0,0,,,,,,0,0,0
+1344786,2022/23,Bahrain,6,Sohail Ahmed,4db71b2e,Muhammad Saqib,9d6644a0,Imran Anwar,a9a18e3e,0,0,0,0,0,,,,,,4,0,4
+1344786,2022/23,Bahrain,6,Sohail Ahmed,4db71b2e,Muhammad Saqib,9d6644a0,Imran Anwar,a9a18e3e,0,0,0,0,0,,,,,,1,0,1
+1344786,2022/23,Bahrain,7,Sohail Ahmed,4db71b2e,Hisham Sheikh,c4441675,Imran Anwar,a9a18e3e,1,0,0,0,0,,,,,,0,1,1
+1344786,2022/23,Bahrain,7,Sohail Ahmed,4db71b2e,Hisham Sheikh,c4441675,Imran Anwar,a9a18e3e,0,0,0,0,0,,,,,,1,0,1
+1344786,2022/23,Bahrain,7,Imran Anwar,a9a18e3e,Hisham Sheikh,c4441675,Sohail Ahmed,4db71b2e,0,0,0,0,0,,,,,,2,0,2
+1344786,2022/23,Bahrain,7,Imran Anwar,a9a18e3e,Hisham Sheikh,c4441675,Sohail Ahmed,4db71b2e,0,0,0,0,0,,,,,,1,0,1
+1344786,2022/23,Bahrain,7,Sohail Ahmed,4db71b2e,Hisham Sheikh,c4441675,Imran Anwar,a9a18e3e,0,0,0,0,0,,,,,,0,0,0
+1344786,2022/23,Bahrain,7,Sohail Ahmed,4db71b2e,Hisham Sheikh,c4441675,Imran Anwar,a9a18e3e,0,0,0,0,0,,,,,,1,0,1
+1344786,2022/23,Bahrain,7,Imran Anwar,a9a18e3e,Hisham Sheikh,c4441675,Sohail Ahmed,4db71b2e,0,0,0,0,0,,,,,,0,0,0
+1344786,2022/23,Bahrain,8,Sohail Ahmed,4db71b2e,Muhammad Saqib,9d6644a0,Imran Anwar,a9a18e3e,0,0,0,0,0,,,,,,0,0,0
+1344786,2022/23,Bahrain,8,Sohail Ahmed,4db71b2e,Muhammad Saqib,9d6644a0,Imran Anwar,a9a18e3e,0,0,0,0,0,,,,,,1,0,1
+1344786,2022/23,Bahrain,8,Imran Anwar,a9a18e3e,Muhammad Saqib,9d6644a0,Sohail Ahmed,4db71b2e,0,0,0,0,0,,,,,,1,0,1
+1344786,2022/23,Bahrain,8,Sohail Ahmed,4db71b2e,Muhammad Saqib,9d6644a0,Imran Anwar,a9a18e3e,0,0,0,0,0,,,,,,1,0,1
+1344786,2022/23,Bahrain,8,Imran Anwar,a9a18e3e,Muhammad Saqib,9d6644a0,Sohail Ahmed,4db71b2e,0,0,0,0,0,,,,,,1,0,1
+1344786,2022/23,Bahrain,8,Sohail Ahmed,4db71b2e,Muhammad Saqib,9d6644a0,Imran Anwar,a9a18e3e,0,0,0,0,0,,,,,,1,0,1
+1344786,2022/23,Bahrain,9,Sohail Ahmed,4db71b2e,Imran Yousaf,5e67d4e0,Imran Anwar,a9a18e3e,0,0,0,0,0,,,,,,0,0,0
+1344786,2022/23,Bahrain,9,Sohail Ahmed,4db71b2e,Imran Yousaf,5e67d4e0,Imran Anwar,a9a18e3e,0,0,0,0,0,,,,,,6,0,6
+1344786,2022/23,Bahrain,9,Sohail Ahmed,4db71b2e,Imran Yousaf,5e67d4e0,Imran Anwar,a9a18e3e,0,0,0,0,0,,,,,,1,0,1
+1344786,2022/23,Bahrain,9,Imran Anwar,a9a18e3e,Imran Yousaf,5e67d4e0,Sohail Ahmed,4db71b2e,0,0,0,0,0,,,,,,6,0,6
+1344786,2022/23,Bahrain,9,Imran Anwar,a9a18e3e,Imran Yousaf,5e67d4e0,Sohail Ahmed,4db71b2e,0,0,0,0,0,,,,,,0,0,0
+1344786,2022/23,Bahrain,9,Imran Anwar,a9a18e3e,Imran Yousaf,5e67d4e0,Sohail Ahmed,4db71b2e,0,0,0,0,0,,,,,,0,0,0
+1344786,2022/23,Bahrain,10,Sohail Ahmed,4db71b2e,Hisham Sheikh,c4441675,Imran Anwar,a9a18e3e,0,0,0,0,0,,,,,,1,0,1
+1344786,2022/23,Bahrain,10,Imran Anwar,a9a18e3e,Hisham Sheikh,c4441675,Sohail Ahmed,4db71b2e,0,0,0,0,0,,,,,,4,0,4
+1344786,2022/23,Bahrain,10,Imran Anwar,a9a18e3e,Hisham Sheikh,c4441675,Sohail Ahmed,4db71b2e,0,0,0,0,0,,,,,,2,0,2
+1344786,2022/23,Bahrain,10,Imran Anwar,a9a18e3e,Hisham Sheikh,c4441675,Sohail Ahmed,4db71b2e,0,0,0,0,0,,,,,,1,0,1
+1344786,2022/23,Bahrain,10,Sohail Ahmed,4db71b2e,Hisham Sheikh,c4441675,Imran Anwar,a9a18e3e,0,0,0,0,0,,,,,,1,0,1
+1344786,2022/23,Bahrain,10,Imran Anwar,a9a18e3e,Hisham Sheikh,c4441675,Sohail Ahmed,4db71b2e,0,0,0,0,0,,,,,,6,0,6
+1344786,2022/23,Bahrain,11,Sohail Ahmed,4db71b2e,Imran Yousaf,5e67d4e0,Imran Anwar,a9a18e3e,0,0,0,0,0,,,,,,1,0,1
+1344786,2022/23,Bahrain,11,Imran Anwar,a9a18e3e,Imran Yousaf,5e67d4e0,Sohail Ahmed,4db71b2e,0,0,0,0,0,,,,,,4,0,4
+1344786,2022/23,Bahrain,11,Imran Anwar,a9a18e3e,Imran Yousaf,5e67d4e0,Sohail Ahmed,4db71b2e,0,0,0,0,0,,,,,,4,0,4
+1344786,2022/23,Bahrain,11,Imran Anwar,a9a18e3e,Imran Yousaf,5e67d4e0,Sohail Ahmed,4db71b2e,0,0,0,0,1,Imran Anwar,a9a18e3e,,,lbw,0,0,0
+1344786,2022/23,Bahrain,11,Haider Butt,14fd10b5,Imran Yousaf,5e67d4e0,Sohail Ahmed,4db71b2e,0,0,0,0,0,,,,,,0,0,0
+1344786,2022/23,Bahrain,11,Haider Butt,14fd10b5,Imran Yousaf,5e67d4e0,Sohail Ahmed,4db71b2e,0,0,0,0,0,,,,,,0,0,0
+1344786,2022/23,Bahrain,12,Sohail Ahmed,4db71b2e,Faisal Khan,a7553f15,Haider Butt,14fd10b5,0,0,0,0,0,,,,,,1,0,1
+1344786,2022/23,Bahrain,12,Haider Butt,14fd10b5,Faisal Khan,a7553f15,Sohail Ahmed,4db71b2e,0,0,0,0,0,,,,,,1,0,1
+1344786,2022/23,Bahrain,12,Sohail Ahmed,4db71b2e,Faisal Khan,a7553f15,Haider Butt,14fd10b5,0,0,0,0,0,,,,,,4,0,4
+1344786,2022/23,Bahrain,12,Sohail Ahmed,4db71b2e,Faisal Khan,a7553f15,Haider Butt,14fd10b5,0,0,0,0,0,,,,,,0,0,0
+1344786,2022/23,Bahrain,12,Sohail Ahmed,4db71b2e,Faisal Khan,a7553f15,Haider Butt,14fd10b5,0,0,0,0,0,,,,,,1,0,1
+1344786,2022/23,Bahrain,12,Haider Butt,14fd10b5,Faisal Khan,a7553f15,Sohail Ahmed,4db71b2e,0,0,0,0,0,,,,,,4,0,4
+1344786,2022/23,Bahrain,13,Sohail Ahmed,4db71b2e,Imran Yousaf,5e67d4e0,Haider Butt,14fd10b5,0,0,0,0,0,,,,,,4,0,4
+1344786,2022/23,Bahrain,13,Sohail Ahmed,4db71b2e,Imran Yousaf,5e67d4e0,Haider Butt,14fd10b5,0,0,0,0,0,,,,,,1,0,1
+1344786,2022/23,Bahrain,13,Haider Butt,14fd10b5,Imran Yousaf,5e67d4e0,Sohail Ahmed,4db71b2e,0,0,0,0,0,,,,,,1,0,1
+1344786,2022/23,Bahrain,13,Sohail Ahmed,4db71b2e,Imran Yousaf,5e67d4e0,Haider Butt,14fd10b5,0,0,0,0,0,,,,,,2,0,2
+1344786,2022/23,Bahrain,13,Sohail Ahmed,4db71b2e,Imran Yousaf,5e67d4e0,Haider Butt,14fd10b5,0,0,0,0,0,,,,,,1,0,1
+1344786,2022/23,Bahrain,13,Haider Butt,14fd10b5,Imran Yousaf,5e67d4e0,Sohail Ahmed,4db71b2e,0,0,0,0,0,,,,,,1,0,1
+1344786,2022/23,Bahrain,14,Haider Butt,14fd10b5,Muhammad Saqib,9d6644a0,Sohail Ahmed,4db71b2e,0,0,0,0,0,,,,,,1,0,1
+1344786,2022/23,Bahrain,14,Sohail Ahmed,4db71b2e,Muhammad Saqib,9d6644a0,Haider Butt,14fd10b5,0,0,0,0,0,,,,,,1,0,1
+1344786,2022/23,Bahrain,14,Haider Butt,14fd10b5,Muhammad Saqib,9d6644a0,Sohail Ahmed,4db71b2e,0,0,0,0,0,,,,,,1,0,1
+1344786,2022/23,Bahrain,14,Sohail Ahmed,4db71b2e,Muhammad Saqib,9d6644a0,Haider Butt,14fd10b5,0,0,0,0,0,,,,,,0,0,0
+1344786,2022/23,Bahrain,14,Sohail Ahmed,4db71b2e,Muhammad Saqib,9d6644a0,Haider Butt,14fd10b5,0,0,2,0,0,,,,,,0,2,2
+1344786,2022/23,Bahrain,14,Sohail Ahmed,4db71b2e,Muhammad Saqib,9d6644a0,Haider Butt,14fd10b5,0,0,0,0,0,,,,,,1,0,1
+1344786,2022/23,Bahrain,15,Sohail Ahmed,4db71b2e,Imran Yousaf,5e67d4e0,Haider Butt,14fd10b5,0,0,0,0,0,,,,,,2,0,2
+1344786,2022/23,Bahrain,15,Sohail Ahmed,4db71b2e,Imran Yousaf,5e67d4e0,Haider Butt,14fd10b5,0,0,0,0,0,,,,,,2,0,2
+1344786,2022/23,Bahrain,15,Sohail Ahmed,4db71b2e,Imran Yousaf,5e67d4e0,Haider Butt,14fd10b5,0,0,0,0,0,,,,,,4,0,4
+1344786,2022/23,Bahrain,15,Sohail Ahmed,4db71b2e,Imran Yousaf,5e67d4e0,Haider Butt,14fd10b5,0,0,0,0,0,,,,,,1,0,1
+1344786,2022/23,Bahrain,15,Haider Butt,14fd10b5,Imran Yousaf,5e67d4e0,Sohail Ahmed,4db71b2e,0,0,0,0,1,Haider Butt,14fd10b5,,,bowled,0,0,0
+1344786,2022/23,Bahrain,15,DK Mathias,bec5cab9,Imran Yousaf,5e67d4e0,Sohail Ahmed,4db71b2e,0,0,0,0,0,,,,,,0,0,0
+1344786,2022/23,Bahrain,16,Sohail Ahmed,4db71b2e,Muhammad Saqib,9d6644a0,DK Mathias,bec5cab9,0,0,0,0,0,,,,,,1,0,1
+1344786,2022/23,Bahrain,16,DK Mathias,bec5cab9,Muhammad Saqib,9d6644a0,Sohail Ahmed,4db71b2e,0,0,0,0,0,,,,,,0,0,0
+1344786,2022/23,Bahrain,16,DK Mathias,bec5cab9,Muhammad Saqib,9d6644a0,Sohail Ahmed,4db71b2e,0,0,1,0,0,,,,,,0,1,1
+1344786,2022/23,Bahrain,16,Sohail Ahmed,4db71b2e,Muhammad Saqib,9d6644a0,DK Mathias,bec5cab9,0,0,0,0,0,,,,,,4,0,4
+1344786,2022/23,Bahrain,16,Sohail Ahmed,4db71b2e,Muhammad Saqib,9d6644a0,DK Mathias,bec5cab9,0,0,0,0,0,,,,,,1,0,1
+1344786,2022/23,Bahrain,16,DK Mathias,bec5cab9,Muhammad Saqib,9d6644a0,Sohail Ahmed,4db71b2e,0,0,0,0,0,,,,,,0,0,0
+1344786,2022/23,Bahrain,17,Sohail Ahmed,4db71b2e,Usman Najeeb,615688b6,DK Mathias,bec5cab9,1,0,0,0,0,,,,,,0,1,1
+1344786,2022/23,Bahrain,17,Sohail Ahmed,4db71b2e,Usman Najeeb,615688b6,DK Mathias,bec5cab9,0,0,0,0,0,,,,,,6,0,6
+1344786,2022/23,Bahrain,17,Sohail Ahmed,4db71b2e,Usman Najeeb,615688b6,DK Mathias,bec5cab9,0,0,0,0,0,,,,,,1,0,1
+1344786,2022/23,Bahrain,17,DK Mathias,bec5cab9,Usman Najeeb,615688b6,Sohail Ahmed,4db71b2e,0,0,0,0,0,,,,,,1,0,1
+1344786,2022/23,Bahrain,17,Sohail Ahmed,4db71b2e,Usman Najeeb,615688b6,DK Mathias,bec5cab9,0,0,0,0,0,,,,,,1,0,1
+1344786,2022/23,Bahrain,17,DK Mathias,bec5cab9,Usman Najeeb,615688b6,Sohail Ahmed,4db71b2e,0,0,0,0,0,,,,,,1,0,1
+1344786,2022/23,Bahrain,17,Sohail Ahmed,4db71b2e,Usman Najeeb,615688b6,DK Mathias,bec5cab9,0,0,0,0,0,,,,,,6,0,6
+1344786,2022/23,Bahrain,18,DK Mathias,bec5cab9,Atif-Ur-Rehman,d20e22f7,Sohail Ahmed,4db71b2e,0,0,0,0,0,,,,,,0,0,0
+1344786,2022/23,Bahrain,18,DK Mathias,bec5cab9,Atif-Ur-Rehman,d20e22f7,Sohail Ahmed,4db71b2e,0,0,0,0,0,,,,,,0,0,0
+1344786,2022/23,Bahrain,18,DK Mathias,bec5cab9,Atif-Ur-Rehman,d20e22f7,Sohail Ahmed,4db71b2e,0,0,0,0,0,,,,,,1,0,1
+1344786,2022/23,Bahrain,18,Sohail Ahmed,4db71b2e,Atif-Ur-Rehman,d20e22f7,DK Mathias,bec5cab9,0,0,0,0,0,,,,,,0,0,0
+1344786,2022/23,Bahrain,18,Sohail Ahmed,4db71b2e,Atif-Ur-Rehman,d20e22f7,DK Mathias,bec5cab9,0,0,0,0,0,,,,,,2,0,2
+1344786,2022/23,Bahrain,18,Sohail Ahmed,4db71b2e,Atif-Ur-Rehman,d20e22f7,DK Mathias,bec5cab9,0,0,0,0,0,,,,,,4,0,4
+1344786,2022/23,Bahrain,19,DK Mathias,bec5cab9,Usman Najeeb,615688b6,Sohail Ahmed,4db71b2e,0,0,0,0,0,,,,,,1,0,1
+1344786,2022/23,Bahrain,19,Sohail Ahmed,4db71b2e,Usman Najeeb,615688b6,DK Mathias,bec5cab9,0,0,0,0,0,,,,,,1,0,1
+1344786,2022/23,Bahrain,19,DK Mathias,bec5cab9,Usman Najeeb,615688b6,Sohail Ahmed,4db71b2e,0,0,0,0,0,,,,,,1,0,1
+1344786,2022/23,Bahrain,19,Sohail Ahmed,4db71b2e,Usman Najeeb,615688b6,DK Mathias,bec5cab9,0,0,0,0,0,,,,,,2,0,2
+1344786,2022/23,Bahrain,19,Sohail Ahmed,4db71b2e,Usman Najeeb,615688b6,DK Mathias,bec5cab9,0,0,0,1,0,,,,,,0,1,1
+1344786,2022/23,Bahrain,19,DK Mathias,bec5cab9,Usman Najeeb,615688b6,Sohail Ahmed,4db71b2e,0,0,0,0,0,,,,,,1,0,1
+1344786,2022/23,Saudi Arabia,0,Abdul Waheed,23fa9ea9,Imran Khan,da3b91fd,Saad Khan,28e0f645,0,0,0,0,0,,,,,,0,0,0
+1344786,2022/23,Saudi Arabia,0,Abdul Waheed,23fa9ea9,Imran Khan,da3b91fd,Saad Khan,28e0f645,0,0,0,0,0,,,,,,2,0,2
+1344786,2022/23,Saudi Arabia,0,Abdul Waheed,23fa9ea9,Imran Khan,da3b91fd,Saad Khan,28e0f645,0,0,0,0,0,,,,,,0,0,0
+1344786,2022/23,Saudi Arabia,0,Abdul Waheed,23fa9ea9,Imran Khan,da3b91fd,Saad Khan,28e0f645,0,0,0,0,0,,,,,,1,0,1
+1344786,2022/23,Saudi Arabia,0,Saad Khan,28e0f645,Imran Khan,da3b91fd,Abdul Waheed,23fa9ea9,0,0,0,0,0,,,,,,0,0,0
+1344786,2022/23,Saudi Arabia,0,Saad Khan,28e0f645,Imran Khan,da3b91fd,Abdul Waheed,23fa9ea9,0,0,0,0,0,,,,,,0,0,0
+1344786,2022/23,Saudi Arabia,1,Abdul Waheed,23fa9ea9,Rizwan Butt,e741ed8f,Saad Khan,28e0f645,0,0,0,0,0,,,,,,4,0,4
+1344786,2022/23,Saudi Arabia,1,Abdul Waheed,23fa9ea9,Rizwan Butt,e741ed8f,Saad Khan,28e0f645,0,0,0,0,0,,,,,,0,0,0
+1344786,2022/23,Saudi Arabia,1,Abdul Waheed,23fa9ea9,Rizwan Butt,e741ed8f,Saad Khan,28e0f645,0,0,0,0,1,Abdul Waheed,23fa9ea9,Ahmer Bin Nisar,afbc53ba,caught,0,0,0
+1344786,2022/23,Saudi Arabia,1,Kashif Siddique,2513b4fe,Rizwan Butt,e741ed8f,Saad Khan,28e0f645,0,0,0,0,0,,,,,,0,0,0
+1344786,2022/23,Saudi Arabia,1,Kashif Siddique,2513b4fe,Rizwan Butt,e741ed8f,Saad Khan,28e0f645,0,0,0,0,0,,,,,,0,0,0
+1344786,2022/23,Saudi Arabia,1,Kashif Siddique,2513b4fe,Rizwan Butt,e741ed8f,Saad Khan,28e0f645,0,0,0,0,0,,,,,,0,0,0
+1344786,2022/23,Saudi Arabia,2,Saad Khan,28e0f645,Imran Khan,da3b91fd,Kashif Siddique,2513b4fe,0,0,0,0,0,,,,,,4,0,4
+1344786,2022/23,Saudi Arabia,2,Saad Khan,28e0f645,Imran Khan,da3b91fd,Kashif Siddique,2513b4fe,0,0,0,0,1,Saad Khan,28e0f645,Ahmer Bin Nisar,afbc53ba,run out,2,0,2
+1344786,2022/23,Saudi Arabia,2,Kashif Siddique,2513b4fe,Imran Khan,da3b91fd,Haseeb Ghafoor,454a7269,1,0,0,0,0,,,,,,0,1,1
+1344786,2022/23,Saudi Arabia,2,Kashif Siddique,2513b4fe,Imran Khan,da3b91fd,Haseeb Ghafoor,454a7269,0,0,0,0,0,,,,,,0,0,0
+1344786,2022/23,Saudi Arabia,2,Kashif Siddique,2513b4fe,Imran Khan,da3b91fd,Haseeb Ghafoor,454a7269,0,0,0,0,0,,,,,,4,0,4
+1344786,2022/23,Saudi Arabia,2,Kashif Siddique,2513b4fe,Imran Khan,da3b91fd,Haseeb Ghafoor,454a7269,0,0,0,0,0,,,,,,0,0,0
+1344786,2022/23,Saudi Arabia,2,Kashif Siddique,2513b4fe,Imran Khan,da3b91fd,Haseeb Ghafoor,454a7269,0,0,1,0,0,,,,,,0,1,1
+1344786,2022/23,Saudi Arabia,3,Kashif Siddique,2513b4fe,Rizwan Butt,e741ed8f,Haseeb Ghafoor,454a7269,0,0,0,0,0,,,,,,1,0,1
+1344786,2022/23,Saudi Arabia,3,Haseeb Ghafoor,454a7269,Rizwan Butt,e741ed8f,Kashif Siddique,2513b4fe,0,0,0,0,0,,,,,,0,0,0
+1344786,2022/23,Saudi Arabia,3,Haseeb Ghafoor,454a7269,Rizwan Butt,e741ed8f,Kashif Siddique,2513b4fe,0,0,0,0,0,,,,,,0,0,0
+1344786,2022/23,Saudi Arabia,3,Haseeb Ghafoor,454a7269,Rizwan Butt,e741ed8f,Kashif Siddique,2513b4fe,0,0,0,0,0,,,,,,0,0,0
+1344786,2022/23,Saudi Arabia,3,Haseeb Ghafoor,454a7269,Rizwan Butt,e741ed8f,Kashif Siddique,2513b4fe,0,0,0,0,0,,,,,,0,0,0
+1344786,2022/23,Saudi Arabia,3,Haseeb Ghafoor,454a7269,Rizwan Butt,e741ed8f,Kashif Siddique,2513b4fe,0,0,0,0,0,,,,,,1,0,1
+1344786,2022/23,Saudi Arabia,4,Haseeb Ghafoor,454a7269,S Veerapathiran,1e569fb0,Kashif Siddique,2513b4fe,0,0,1,0,0,,,,,,0,1,1
+1344786,2022/23,Saudi Arabia,4,Kashif Siddique,2513b4fe,S Veerapathiran,1e569fb0,Haseeb Ghafoor,454a7269,0,0,0,0,0,,,,,,0,0,0
+1344786,2022/23,Saudi Arabia,4,Kashif Siddique,2513b4fe,S Veerapathiran,1e569fb0,Haseeb Ghafoor,454a7269,0,0,0,0,0,,,,,,1,0,1
+1344786,2022/23,Saudi Arabia,4,Haseeb Ghafoor,454a7269,S Veerapathiran,1e569fb0,Kashif Siddique,2513b4fe,0,0,0,0,0,,,,,,0,0,0
+1344786,2022/23,Saudi Arabia,4,Haseeb Ghafoor,454a7269,S Veerapathiran,1e569fb0,Kashif Siddique,2513b4fe,0,0,0,0,0,,,,,,0,0,0
+1344786,2022/23,Saudi Arabia,4,Haseeb Ghafoor,454a7269,S Veerapathiran,1e569fb0,Kashif Siddique,2513b4fe,0,0,0,0,0,,,,,,1,0,1
+1344786,2022/23,Saudi Arabia,5,Haseeb Ghafoor,454a7269,Imran Anwar,a9a18e3e,Kashif Siddique,2513b4fe,0,0,0,0,0,,,,,,0,0,0
+1344786,2022/23,Saudi Arabia,5,Haseeb Ghafoor,454a7269,Imran Anwar,a9a18e3e,Kashif Siddique,2513b4fe,0,0,0,0,0,,,,,,4,0,4
+1344786,2022/23,Saudi Arabia,5,Haseeb Ghafoor,454a7269,Imran Anwar,a9a18e3e,Kashif Siddique,2513b4fe,0,0,0,0,0,,,,,,0,0,0
+1344786,2022/23,Saudi Arabia,5,Haseeb Ghafoor,454a7269,Imran Anwar,a9a18e3e,Kashif Siddique,2513b4fe,0,0,0,0,1,Haseeb Ghafoor,454a7269,Ahmer Bin Nisar,afbc53ba,caught,0,0,0
+1344786,2022/23,Saudi Arabia,5,Faisal Khan,a7553f15,Imran Anwar,a9a18e3e,Kashif Siddique,2513b4fe,0,0,0,0,0,,,,,,1,0,1
+1344786,2022/23,Saudi Arabia,5,Kashif Siddique,2513b4fe,Imran Anwar,a9a18e3e,Faisal Khan,a7553f15,0,0,0,0,0,,,,,,1,0,1
+1344786,2022/23,Saudi Arabia,6,Kashif Siddique,2513b4fe,S Veerapathiran,1e569fb0,Faisal Khan,a7553f15,0,0,0,0,0,,,,,,1,0,1
+1344786,2022/23,Saudi Arabia,6,Faisal Khan,a7553f15,S Veerapathiran,1e569fb0,Kashif Siddique,2513b4fe,0,0,0,0,1,Faisal Khan,a7553f15,Imran Khan,da3b91fd,caught,0,0,0
+1344786,2022/23,Saudi Arabia,6,Hisham Sheikh,c4441675,S Veerapathiran,1e569fb0,Kashif Siddique,2513b4fe,0,0,0,0,0,,,,,,0,0,0
+1344786,2022/23,Saudi Arabia,6,Hisham Sheikh,c4441675,S Veerapathiran,1e569fb0,Kashif Siddique,2513b4fe,0,0,0,0,0,,,,,,1,0,1
+1344786,2022/23,Saudi Arabia,6,Kashif Siddique,2513b4fe,S Veerapathiran,1e569fb0,Hisham Sheikh,c4441675,0,0,0,0,0,,,,,,0,0,0
+1344786,2022/23,Saudi Arabia,6,Kashif Siddique,2513b4fe,S Veerapathiran,1e569fb0,Hisham Sheikh,c4441675,0,0,0,0,0,,,,,,1,0,1
+1344786,2022/23,Saudi Arabia,7,Kashif Siddique,2513b4fe,Imran Anwar,a9a18e3e,Hisham Sheikh,c4441675,0,0,0,0,0,,,,,,0,0,0
+1344786,2022/23,Saudi Arabia,7,Kashif Siddique,2513b4fe,Imran Anwar,a9a18e3e,Hisham Sheikh,c4441675,0,0,0,0,0,,,,,,0,0,0
+1344786,2022/23,Saudi Arabia,7,Kashif Siddique,2513b4fe,Imran Anwar,a9a18e3e,Hisham Sheikh,c4441675,0,0,0,0,0,,,,,,1,0,1
+1344786,2022/23,Saudi Arabia,7,Hisham Sheikh,c4441675,Imran Anwar,a9a18e3e,Kashif Siddique,2513b4fe,0,0,0,0,0,,,,,,4,0,4
+1344786,2022/23,Saudi Arabia,7,Hisham Sheikh,c4441675,Imran Anwar,a9a18e3e,Kashif Siddique,2513b4fe,0,0,0,0,0,,,,,,1,0,1
+1344786,2022/23,Saudi Arabia,7,Kashif Siddique,2513b4fe,Imran Anwar,a9a18e3e,Hisham Sheikh,c4441675,0,0,0,0,0,,,,,,4,0,4
+1344786,2022/23,Saudi Arabia,8,Hisham Sheikh,c4441675,Sachin Kumar,b76b2d25,Kashif Siddique,2513b4fe,0,0,0,0,0,,,,,,1,0,1
+1344786,2022/23,Saudi Arabia,8,Kashif Siddique,2513b4fe,Sachin Kumar,b76b2d25,Hisham Sheikh,c4441675,0,0,0,0,0,,,,,,1,0,1
+1344786,2022/23,Saudi Arabia,8,Hisham Sheikh,c4441675,Sachin Kumar,b76b2d25,Kashif Siddique,2513b4fe,0,0,0,0,0,,,,,,1,0,1
+1344786,2022/23,Saudi Arabia,8,Kashif Siddique,2513b4fe,Sachin Kumar,b76b2d25,Hisham Sheikh,c4441675,0,0,0,0,0,,,,,,1,0,1
+1344786,2022/23,Saudi Arabia,8,Hisham Sheikh,c4441675,Sachin Kumar,b76b2d25,Kashif Siddique,2513b4fe,0,0,0,0,0,,,,,,1,0,1
+1344786,2022/23,Saudi Arabia,8,Kashif Siddique,2513b4fe,Sachin Kumar,b76b2d25,Hisham Sheikh,c4441675,0,0,0,0,0,,,,,,1,0,1
+1344786,2022/23,Saudi Arabia,9,Kashif Siddique,2513b4fe,Danish Jasnaik,d24ad3e5,Hisham Sheikh,c4441675,0,0,0,0,0,,,,,,1,0,1
+1344786,2022/23,Saudi Arabia,9,Kashif Siddique,2513b4fe,Danish Jasnaik,d24ad3e5,Hisham Sheikh,c4441675,0,0,0,0,0,,,,,,6,0,6
+1344786,2022/23,Saudi Arabia,9,Kashif Siddique,2513b4fe,Danish Jasnaik,d24ad3e5,Hisham Sheikh,c4441675,0,0,0,0,0,,,,,,1,0,1
+1344786,2022/23,Saudi Arabia,9,Hisham Sheikh,c4441675,Danish Jasnaik,d24ad3e5,Kashif Siddique,2513b4fe,0,0,0,0,0,,,,,,1,0,1
+1344786,2022/23,Saudi Arabia,9,Kashif Siddique,2513b4fe,Danish Jasnaik,d24ad3e5,Hisham Sheikh,c4441675,0,0,0,0,0,,,,,,1,0,1
+1344786,2022/23,Saudi Arabia,9,Hisham Sheikh,c4441675,Danish Jasnaik,d24ad3e5,Kashif Siddique,2513b4fe,0,0,0,0,0,,,,,,1,0,1
+1344786,2022/23,Saudi Arabia,10,Hisham Sheikh,c4441675,Sachin Kumar,b76b2d25,Kashif Siddique,2513b4fe,0,0,0,0,0,,,,,,4,0,4
+1344786,2022/23,Saudi Arabia,10,Hisham Sheikh,c4441675,Sachin Kumar,b76b2d25,Kashif Siddique,2513b4fe,0,0,0,0,0,,,,,,0,0,0
+1344786,2022/23,Saudi Arabia,10,Hisham Sheikh,c4441675,Sachin Kumar,b76b2d25,Kashif Siddique,2513b4fe,0,0,0,0,0,,,,,,1,0,1
+1344786,2022/23,Saudi Arabia,10,Kashif Siddique,2513b4fe,Sachin Kumar,b76b2d25,Hisham Sheikh,c4441675,0,0,0,0,0,,,,,,0,0,0
+1344786,2022/23,Saudi Arabia,10,Kashif Siddique,2513b4fe,Sachin Kumar,b76b2d25,Hisham Sheikh,c4441675,0,0,0,0,0,,,,,,0,0,0
+1344786,2022/23,Saudi Arabia,10,Kashif Siddique,2513b4fe,Sachin Kumar,b76b2d25,Hisham Sheikh,c4441675,0,0,0,0,0,,,,,,0,0,0
+1344786,2022/23,Saudi Arabia,11,Hisham Sheikh,c4441675,Danish Jasnaik,d24ad3e5,Kashif Siddique,2513b4fe,0,0,0,0,0,,,,,,0,0,0
+1344786,2022/23,Saudi Arabia,11,Hisham Sheikh,c4441675,Danish Jasnaik,d24ad3e5,Kashif Siddique,2513b4fe,0,0,0,0,0,,,,,,2,0,2
+1344786,2022/23,Saudi Arabia,11,Hisham Sheikh,c4441675,Danish Jasnaik,d24ad3e5,Kashif Siddique,2513b4fe,0,0,0,0,0,,,,,,1,0,1
+1344786,2022/23,Saudi Arabia,11,Kashif Siddique,2513b4fe,Danish Jasnaik,d24ad3e5,Hisham Sheikh,c4441675,0,0,0,0,0,,,,,,1,0,1
+1344786,2022/23,Saudi Arabia,11,Hisham Sheikh,c4441675,Danish Jasnaik,d24ad3e5,Kashif Siddique,2513b4fe,0,0,0,0,0,,,,,,3,0,3
+1344786,2022/23,Saudi Arabia,11,Kashif Siddique,2513b4fe,Danish Jasnaik,d24ad3e5,Hisham Sheikh,c4441675,0,0,0,0,1,Kashif Siddique,2513b4fe,Rizwan Butt,e741ed8f,caught,0,0,0
+1344786,2022/23,Saudi Arabia,12,Hisham Sheikh,c4441675,Sachin Kumar,b76b2d25,Irshad Mubbashar,58edb974,0,0,0,0,0,,,,,,2,0,2
+1344786,2022/23,Saudi Arabia,12,Hisham Sheikh,c4441675,Sachin Kumar,b76b2d25,Irshad Mubbashar,58edb974,0,0,0,0,1,Hisham Sheikh,c4441675,,,caught and bowled,0,0,0
+1344786,2022/23,Saudi Arabia,12,Usman Najeeb,615688b6,Sachin Kumar,b76b2d25,Irshad Mubbashar,58edb974,0,0,0,0,0,,,,,,0,0,0
+1344786,2022/23,Saudi Arabia,12,Usman Najeeb,615688b6,Sachin Kumar,b76b2d25,Irshad Mubbashar,58edb974,0,0,0,0,0,,,,,,0,0,0
+1344786,2022/23,Saudi Arabia,12,Usman Najeeb,615688b6,Sachin Kumar,b76b2d25,Irshad Mubbashar,58edb974,1,0,0,0,0,,,,,,0,1,1
+1344786,2022/23,Saudi Arabia,12,Usman Najeeb,615688b6,Sachin Kumar,b76b2d25,Irshad Mubbashar,58edb974,0,0,0,0,0,,,,,,0,0,0
+1344786,2022/23,Saudi Arabia,12,Usman Najeeb,615688b6,Sachin Kumar,b76b2d25,Irshad Mubbashar,58edb974,0,0,0,0,0,,,,,,0,0,0
+1344786,2022/23,Saudi Arabia,13,Irshad Mubbashar,58edb974,Danish Jasnaik,d24ad3e5,Usman Najeeb,615688b6,0,0,0,0,0,,,,,,0,0,0
+1344786,2022/23,Saudi Arabia,13,Irshad Mubbashar,58edb974,Danish Jasnaik,d24ad3e5,Usman Najeeb,615688b6,0,0,0,0,0,,,,,,0,0,0
+1344786,2022/23,Saudi Arabia,13,Irshad Mubbashar,58edb974,Danish Jasnaik,d24ad3e5,Usman Najeeb,615688b6,0,0,0,0,0,,,,,,0,0,0
+1344786,2022/23,Saudi Arabia,13,Irshad Mubbashar,58edb974,Danish Jasnaik,d24ad3e5,Usman Najeeb,615688b6,0,0,0,0,0,,,,,,1,0,1
+1344786,2022/23,Saudi Arabia,13,Usman Najeeb,615688b6,Danish Jasnaik,d24ad3e5,Irshad Mubbashar,58edb974,0,0,0,0,0,,,,,,1,0,1
+1344786,2022/23,Saudi Arabia,13,Irshad Mubbashar,58edb974,Danish Jasnaik,d24ad3e5,Usman Najeeb,615688b6,0,0,0,0,0,,,,,,1,0,1
+1344786,2022/23,Saudi Arabia,14,Irshad Mubbashar,58edb974,Sachin Kumar,b76b2d25,Usman Najeeb,615688b6,0,0,0,0,0,,,,,,0,0,0
+1344786,2022/23,Saudi Arabia,14,Irshad Mubbashar,58edb974,Sachin Kumar,b76b2d25,Usman Najeeb,615688b6,0,0,0,0,0,,,,,,1,0,1
+1344786,2022/23,Saudi Arabia,14,Usman Najeeb,615688b6,Sachin Kumar,b76b2d25,Irshad Mubbashar,58edb974,0,0,0,0,0,,,,,,0,0,0
+1344786,2022/23,Saudi Arabia,14,Usman Najeeb,615688b6,Sachin Kumar,b76b2d25,Irshad Mubbashar,58edb974,0,0,0,0,0,,,,,,0,0,0
+1344786,2022/23,Saudi Arabia,14,Usman Najeeb,615688b6,Sachin Kumar,b76b2d25,Irshad Mubbashar,58edb974,0,0,0,0,0,,,,,,0,0,0
+1344786,2022/23,Saudi Arabia,14,Usman Najeeb,615688b6,Sachin Kumar,b76b2d25,Irshad Mubbashar,58edb974,0,0,0,0,0,,,,,,0,0,0
+1344786,2022/23,Saudi Arabia,15,Irshad Mubbashar,58edb974,Danish Jasnaik,d24ad3e5,Usman Najeeb,615688b6,0,0,0,0,0,,,,,,1,0,1
+1344786,2022/23,Saudi Arabia,15,Usman Najeeb,615688b6,Danish Jasnaik,d24ad3e5,Irshad Mubbashar,58edb974,0,0,1,0,0,,,,,,0,1,1
+1344786,2022/23,Saudi Arabia,15,Irshad Mubbashar,58edb974,Danish Jasnaik,d24ad3e5,Usman Najeeb,615688b6,0,0,0,0,0,,,,,,1,0,1
+1344786,2022/23,Saudi Arabia,15,Usman Najeeb,615688b6,Danish Jasnaik,d24ad3e5,Irshad Mubbashar,58edb974,0,0,0,0,0,,,,,,6,0,6
+1344786,2022/23,Saudi Arabia,15,Usman Najeeb,615688b6,Danish Jasnaik,d24ad3e5,Irshad Mubbashar,58edb974,0,0,0,0,0,,,,,,1,0,1
+1344786,2022/23,Saudi Arabia,15,Irshad Mubbashar,58edb974,Danish Jasnaik,d24ad3e5,Usman Najeeb,615688b6,0,0,0,0,0,,,,,,1,0,1
+1344786,2022/23,Saudi Arabia,16,Irshad Mubbashar,58edb974,S Veerapathiran,1e569fb0,Usman Najeeb,615688b6,0,0,0,0,0,,,,,,1,0,1
+1344786,2022/23,Saudi Arabia,16,Usman Najeeb,615688b6,S Veerapathiran,1e569fb0,Irshad Mubbashar,58edb974,0,0,0,0,0,,,,,,0,0,0
+1344786,2022/23,Saudi Arabia,16,Usman Najeeb,615688b6,S Veerapathiran,1e569fb0,Irshad Mubbashar,58edb974,0,0,0,0,0,,,,,,1,0,1
+1344786,2022/23,Saudi Arabia,16,Irshad Mubbashar,58edb974,S Veerapathiran,1e569fb0,Usman Najeeb,615688b6,0,0,0,0,0,,,,,,1,0,1
+1344786,2022/23,Saudi Arabia,16,Usman Najeeb,615688b6,S Veerapathiran,1e569fb0,Irshad Mubbashar,58edb974,0,0,0,0,0,,,,,,2,0,2
+1344786,2022/23,Saudi Arabia,16,Usman Najeeb,615688b6,S Veerapathiran,1e569fb0,Irshad Mubbashar,58edb974,0,0,0,0,0,,,,,,6,0,6
+1344786,2022/23,Saudi Arabia,17,Irshad Mubbashar,58edb974,Rizwan Butt,e741ed8f,Usman Najeeb,615688b6,0,0,0,0,0,,,,,,1,0,1
+1344786,2022/23,Saudi Arabia,17,Usman Najeeb,615688b6,Rizwan Butt,e741ed8f,Irshad Mubbashar,58edb974,0,0,0,0,1,Usman Najeeb,615688b6,Imran Anwar,a9a18e3e,caught,0,0,0
+1344786,2022/23,Saudi Arabia,17,Atif-Ur-Rehman,d20e22f7,Rizwan Butt,e741ed8f,Irshad Mubbashar,58edb974,0,0,0,0,0,,,,,,1,0,1
+1344786,2022/23,Saudi Arabia,17,Irshad Mubbashar,58edb974,Rizwan Butt,e741ed8f,Atif-Ur-Rehman,d20e22f7,0,0,0,0,0,,,,,,1,0,1
+1344786,2022/23,Saudi Arabia,17,Atif-Ur-Rehman,d20e22f7,Rizwan Butt,e741ed8f,Irshad Mubbashar,58edb974,0,0,0,0,0,,,,,,0,0,0
+1344786,2022/23,Saudi Arabia,17,Atif-Ur-Rehman,d20e22f7,Rizwan Butt,e741ed8f,Irshad Mubbashar,58edb974,0,0,0,0,0,,,,,,0,0,0
+1344786,2022/23,Saudi Arabia,18,Irshad Mubbashar,58edb974,Imran Khan,da3b91fd,Atif-Ur-Rehman,d20e22f7,0,0,0,0,0,,,,,,0,0,0
+1344786,2022/23,Saudi Arabia,18,Irshad Mubbashar,58edb974,Imran Khan,da3b91fd,Atif-Ur-Rehman,d20e22f7,0,0,0,0,0,,,,,,2,0,2
+1344786,2022/23,Saudi Arabia,18,Irshad Mubbashar,58edb974,Imran Khan,da3b91fd,Atif-Ur-Rehman,d20e22f7,0,0,0,0,0,,,,,,0,0,0
+1344786,2022/23,Saudi Arabia,18,Irshad Mubbashar,58edb974,Imran Khan,da3b91fd,Atif-Ur-Rehman,d20e22f7,0,0,0,0,0,,,,,,6,0,6
+1344786,2022/23,Saudi Arabia,18,Irshad Mubbashar,58edb974,Imran Khan,da3b91fd,Atif-Ur-Rehman,d20e22f7,0,0,0,0,1,Irshad Mubbashar,58edb974,Ahmer Bin Nisar,afbc53ba,run out,1,0,1
+1344786,2022/23,Saudi Arabia,18,Imran Yousaf,5e67d4e0,Imran Khan,da3b91fd,Atif-Ur-Rehman,d20e22f7,0,0,0,0,0,,,,,,0,0,0
+1344786,2022/23,Saudi Arabia,19,Atif-Ur-Rehman,d20e22f7,Rizwan Butt,e741ed8f,Imran Yousaf,5e67d4e0,0,0,0,0,0,,,,,,1,0,1
+1344786,2022/23,Saudi Arabia,19,Imran Yousaf,5e67d4e0,Rizwan Butt,e741ed8f,Atif-Ur-Rehman,d20e22f7,0,0,0,0,0,,,,,,0,0,0
+1344786,2022/23,Saudi Arabia,19,Imran Yousaf,5e67d4e0,Rizwan Butt,e741ed8f,Atif-Ur-Rehman,d20e22f7,0,0,0,0,0,,,,,,0,0,0
+1344786,2022/23,Saudi Arabia,19,Imran Yousaf,5e67d4e0,Rizwan Butt,e741ed8f,Atif-Ur-Rehman,d20e22f7,0,0,0,0,0,,,,,,1,0,1
+1344786,2022/23,Saudi Arabia,19,Atif-Ur-Rehman,d20e22f7,Rizwan Butt,e741ed8f,Imran Yousaf,5e67d4e0,0,0,0,0,0,,,,,,1,0,1
+1344786,2022/23,Saudi Arabia,19,Imran Yousaf,5e67d4e0,Rizwan Butt,e741ed8f,Atif-Ur-Rehman,d20e22f7,0,0,0,0,0,,,,,,1,0,1

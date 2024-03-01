@@ -1,0 +1,218 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1249235,2020/21,New Zealand,0,SFM Devine,de69af96,KH Brunt,6a434bd3,HNK Jensen,b8cce99f,0,0,0,0,0,,,,,,0,0,0
+1249235,2020/21,New Zealand,0,SFM Devine,de69af96,KH Brunt,6a434bd3,HNK Jensen,b8cce99f,0,0,0,0,0,,,,,,1,0,1
+1249235,2020/21,New Zealand,0,HNK Jensen,b8cce99f,KH Brunt,6a434bd3,SFM Devine,de69af96,0,0,0,0,0,,,,,,1,0,1
+1249235,2020/21,New Zealand,0,SFM Devine,de69af96,KH Brunt,6a434bd3,HNK Jensen,b8cce99f,0,0,0,0,0,,,,,,0,0,0
+1249235,2020/21,New Zealand,0,SFM Devine,de69af96,KH Brunt,6a434bd3,HNK Jensen,b8cce99f,0,0,0,2,0,,,,,,0,2,2
+1249235,2020/21,New Zealand,0,SFM Devine,de69af96,KH Brunt,6a434bd3,HNK Jensen,b8cce99f,0,0,0,0,0,,,,,,1,0,1
+1249235,2020/21,New Zealand,1,SFM Devine,de69af96,NR Sciver,f3a18a0c,HNK Jensen,b8cce99f,0,0,0,0,1,SFM Devine,de69af96,SIR Dunkley,3a9e9cb2,caught,0,0,0
+1249235,2020/21,New Zealand,1,HNK Jensen,b8cce99f,NR Sciver,f3a18a0c,AE Satterthwaite,72b7ed1e,0,0,0,0,0,,,,,,0,0,0
+1249235,2020/21,New Zealand,1,HNK Jensen,b8cce99f,NR Sciver,f3a18a0c,AE Satterthwaite,72b7ed1e,0,0,0,0,0,,,,,,0,0,0
+1249235,2020/21,New Zealand,1,HNK Jensen,b8cce99f,NR Sciver,f3a18a0c,AE Satterthwaite,72b7ed1e,0,0,0,0,0,,,,,,0,0,0
+1249235,2020/21,New Zealand,1,HNK Jensen,b8cce99f,NR Sciver,f3a18a0c,AE Satterthwaite,72b7ed1e,0,0,0,0,0,,,,,,2,0,2
+1249235,2020/21,New Zealand,1,HNK Jensen,b8cce99f,NR Sciver,f3a18a0c,AE Satterthwaite,72b7ed1e,0,0,0,0,0,,,,,,0,0,0
+1249235,2020/21,New Zealand,2,AE Satterthwaite,72b7ed1e,KH Brunt,6a434bd3,HNK Jensen,b8cce99f,0,0,0,0,0,,,,,,0,0,0
+1249235,2020/21,New Zealand,2,AE Satterthwaite,72b7ed1e,KH Brunt,6a434bd3,HNK Jensen,b8cce99f,0,0,0,0,0,,,,,,1,0,1
+1249235,2020/21,New Zealand,2,HNK Jensen,b8cce99f,KH Brunt,6a434bd3,AE Satterthwaite,72b7ed1e,0,0,0,0,0,,,,,,1,0,1
+1249235,2020/21,New Zealand,2,AE Satterthwaite,72b7ed1e,KH Brunt,6a434bd3,HNK Jensen,b8cce99f,0,0,0,0,0,,,,,,0,0,0
+1249235,2020/21,New Zealand,2,AE Satterthwaite,72b7ed1e,KH Brunt,6a434bd3,HNK Jensen,b8cce99f,0,0,0,0,0,,,,,,1,0,1
+1249235,2020/21,New Zealand,2,HNK Jensen,b8cce99f,KH Brunt,6a434bd3,AE Satterthwaite,72b7ed1e,0,0,0,0,0,,,,,,0,0,0
+1249235,2020/21,New Zealand,3,AE Satterthwaite,72b7ed1e,NR Sciver,f3a18a0c,HNK Jensen,b8cce99f,0,0,0,0,0,,,,,,0,0,0
+1249235,2020/21,New Zealand,3,AE Satterthwaite,72b7ed1e,NR Sciver,f3a18a0c,HNK Jensen,b8cce99f,0,0,0,0,1,AE Satterthwaite,72b7ed1e,FR Davies,2479daa6,caught,0,0,0
+1249235,2020/21,New Zealand,3,HNK Jensen,b8cce99f,NR Sciver,f3a18a0c,AC Kerr,7673c908,0,0,0,0,0,,,,,,4,0,4
+1249235,2020/21,New Zealand,3,HNK Jensen,b8cce99f,NR Sciver,f3a18a0c,AC Kerr,7673c908,0,0,0,0,0,,,,,,1,0,1
+1249235,2020/21,New Zealand,3,AC Kerr,7673c908,NR Sciver,f3a18a0c,HNK Jensen,b8cce99f,0,0,0,0,0,,,,,,0,0,0
+1249235,2020/21,New Zealand,3,AC Kerr,7673c908,NR Sciver,f3a18a0c,HNK Jensen,b8cce99f,0,0,0,0,0,,,,,,0,0,0
+1249235,2020/21,New Zealand,4,HNK Jensen,b8cce99f,FR Davies,2479daa6,AC Kerr,7673c908,1,0,0,0,0,,,,,,0,1,1
+1249235,2020/21,New Zealand,4,HNK Jensen,b8cce99f,FR Davies,2479daa6,AC Kerr,7673c908,0,0,0,0,0,,,,,,0,0,0
+1249235,2020/21,New Zealand,4,HNK Jensen,b8cce99f,FR Davies,2479daa6,AC Kerr,7673c908,0,0,0,0,0,,,,,,2,0,2
+1249235,2020/21,New Zealand,4,HNK Jensen,b8cce99f,FR Davies,2479daa6,AC Kerr,7673c908,0,0,3,0,0,,,,,,0,3,3
+1249235,2020/21,New Zealand,4,AC Kerr,7673c908,FR Davies,2479daa6,HNK Jensen,b8cce99f,0,0,0,0,0,,,,,,0,0,0
+1249235,2020/21,New Zealand,4,AC Kerr,7673c908,FR Davies,2479daa6,HNK Jensen,b8cce99f,0,0,0,0,0,,,,,,0,0,0
+1249235,2020/21,New Zealand,4,AC Kerr,7673c908,FR Davies,2479daa6,HNK Jensen,b8cce99f,0,0,0,1,0,,,,,,0,1,1
+1249235,2020/21,New Zealand,5,AC Kerr,7673c908,NR Sciver,f3a18a0c,HNK Jensen,b8cce99f,0,0,0,0,0,,,,,,1,0,1
+1249235,2020/21,New Zealand,5,HNK Jensen,b8cce99f,NR Sciver,f3a18a0c,AC Kerr,7673c908,0,0,0,0,0,,,,,,0,0,0
+1249235,2020/21,New Zealand,5,HNK Jensen,b8cce99f,NR Sciver,f3a18a0c,AC Kerr,7673c908,0,0,0,0,0,,,,,,1,0,1
+1249235,2020/21,New Zealand,5,AC Kerr,7673c908,NR Sciver,f3a18a0c,HNK Jensen,b8cce99f,0,0,0,0,0,,,,,,4,0,4
+1249235,2020/21,New Zealand,5,AC Kerr,7673c908,NR Sciver,f3a18a0c,HNK Jensen,b8cce99f,0,0,0,0,0,,,,,,4,0,4
+1249235,2020/21,New Zealand,5,AC Kerr,7673c908,NR Sciver,f3a18a0c,HNK Jensen,b8cce99f,0,0,0,0,0,,,,,,1,0,1
+1249235,2020/21,New Zealand,6,AC Kerr,7673c908,S Ecclestone,cdb82f1c,HNK Jensen,b8cce99f,0,0,0,0,0,,,,,,1,0,1
+1249235,2020/21,New Zealand,6,HNK Jensen,b8cce99f,S Ecclestone,cdb82f1c,AC Kerr,7673c908,0,0,0,0,0,,,,,,0,0,0
+1249235,2020/21,New Zealand,6,HNK Jensen,b8cce99f,S Ecclestone,cdb82f1c,AC Kerr,7673c908,0,0,0,0,0,,,,,,0,0,0
+1249235,2020/21,New Zealand,6,HNK Jensen,b8cce99f,S Ecclestone,cdb82f1c,AC Kerr,7673c908,0,0,0,0,0,,,,,,0,0,0
+1249235,2020/21,New Zealand,6,HNK Jensen,b8cce99f,S Ecclestone,cdb82f1c,AC Kerr,7673c908,0,0,0,0,0,,,,,,1,0,1
+1249235,2020/21,New Zealand,6,AC Kerr,7673c908,S Ecclestone,cdb82f1c,HNK Jensen,b8cce99f,0,0,0,0,0,,,,,,1,0,1
+1249235,2020/21,New Zealand,7,AC Kerr,7673c908,S Glenn,b34e0c77,HNK Jensen,b8cce99f,0,0,0,0,0,,,,,,0,0,0
+1249235,2020/21,New Zealand,7,AC Kerr,7673c908,S Glenn,b34e0c77,HNK Jensen,b8cce99f,0,0,0,0,0,,,,,,1,0,1
+1249235,2020/21,New Zealand,7,HNK Jensen,b8cce99f,S Glenn,b34e0c77,AC Kerr,7673c908,0,0,0,0,1,HNK Jensen,b8cce99f,MK Villiers,cd62f670,caught,0,0,0
+1249235,2020/21,New Zealand,7,AC Kerr,7673c908,S Glenn,b34e0c77,KJ Martin,cf75a839,0,0,0,0,0,,,,,,0,0,0
+1249235,2020/21,New Zealand,7,AC Kerr,7673c908,S Glenn,b34e0c77,KJ Martin,cf75a839,0,0,0,0,0,,,,,,0,0,0
+1249235,2020/21,New Zealand,7,AC Kerr,7673c908,S Glenn,b34e0c77,KJ Martin,cf75a839,0,0,0,0,0,,,,,,1,0,1
+1249235,2020/21,New Zealand,8,AC Kerr,7673c908,S Ecclestone,cdb82f1c,KJ Martin,cf75a839,0,0,0,0,1,AC Kerr,7673c908,,,caught and bowled,0,0,0
+1249235,2020/21,New Zealand,8,BM Halliday,efb6cb2a,S Ecclestone,cdb82f1c,KJ Martin,cf75a839,0,0,0,0,0,,,,,,0,0,0
+1249235,2020/21,New Zealand,8,BM Halliday,efb6cb2a,S Ecclestone,cdb82f1c,KJ Martin,cf75a839,0,0,0,0,0,,,,,,0,0,0
+1249235,2020/21,New Zealand,8,BM Halliday,efb6cb2a,S Ecclestone,cdb82f1c,KJ Martin,cf75a839,0,0,0,0,0,,,,,,0,0,0
+1249235,2020/21,New Zealand,8,BM Halliday,efb6cb2a,S Ecclestone,cdb82f1c,KJ Martin,cf75a839,0,0,0,0,0,,,,,,0,0,0
+1249235,2020/21,New Zealand,8,BM Halliday,efb6cb2a,S Ecclestone,cdb82f1c,KJ Martin,cf75a839,0,0,0,0,0,,,,,,0,0,0
+1249235,2020/21,New Zealand,9,KJ Martin,cf75a839,S Glenn,b34e0c77,BM Halliday,efb6cb2a,0,0,0,0,0,,,,,,0,0,0
+1249235,2020/21,New Zealand,9,KJ Martin,cf75a839,S Glenn,b34e0c77,BM Halliday,efb6cb2a,0,0,0,0,0,,,,,,0,0,0
+1249235,2020/21,New Zealand,9,KJ Martin,cf75a839,S Glenn,b34e0c77,BM Halliday,efb6cb2a,0,0,0,0,0,,,,,,0,0,0
+1249235,2020/21,New Zealand,9,KJ Martin,cf75a839,S Glenn,b34e0c77,BM Halliday,efb6cb2a,0,0,0,0,0,,,,,,0,0,0
+1249235,2020/21,New Zealand,9,KJ Martin,cf75a839,S Glenn,b34e0c77,BM Halliday,efb6cb2a,0,0,0,0,0,,,,,,0,0,0
+1249235,2020/21,New Zealand,9,KJ Martin,cf75a839,S Glenn,b34e0c77,BM Halliday,efb6cb2a,0,0,0,0,0,,,,,,0,0,0
+1249235,2020/21,New Zealand,10,BM Halliday,efb6cb2a,S Ecclestone,cdb82f1c,KJ Martin,cf75a839,0,0,0,0,0,,,,,,1,0,1
+1249235,2020/21,New Zealand,10,KJ Martin,cf75a839,S Ecclestone,cdb82f1c,BM Halliday,efb6cb2a,0,0,0,0,0,,,,,,4,0,4
+1249235,2020/21,New Zealand,10,KJ Martin,cf75a839,S Ecclestone,cdb82f1c,BM Halliday,efb6cb2a,0,0,0,0,0,,,,,,0,0,0
+1249235,2020/21,New Zealand,10,KJ Martin,cf75a839,S Ecclestone,cdb82f1c,BM Halliday,efb6cb2a,0,0,0,0,0,,,,,,4,0,4
+1249235,2020/21,New Zealand,10,KJ Martin,cf75a839,S Ecclestone,cdb82f1c,BM Halliday,efb6cb2a,0,0,0,0,0,,,,,,1,0,1
+1249235,2020/21,New Zealand,10,BM Halliday,efb6cb2a,S Ecclestone,cdb82f1c,KJ Martin,cf75a839,0,0,0,0,1,BM Halliday,efb6cb2a,AE Jones,b05e45e4,stumped,0,0,0
+1249235,2020/21,New Zealand,11,KJ Martin,cf75a839,S Glenn,b34e0c77,ML Green,865eae1f,0,0,0,0,0,,,,,,0,0,0
+1249235,2020/21,New Zealand,11,KJ Martin,cf75a839,S Glenn,b34e0c77,ML Green,865eae1f,0,0,0,0,0,,,,,,0,0,0
+1249235,2020/21,New Zealand,11,KJ Martin,cf75a839,S Glenn,b34e0c77,ML Green,865eae1f,0,0,0,0,0,,,,,,4,0,4
+1249235,2020/21,New Zealand,11,KJ Martin,cf75a839,S Glenn,b34e0c77,ML Green,865eae1f,0,0,0,0,0,,,,,,1,0,1
+1249235,2020/21,New Zealand,11,ML Green,865eae1f,S Glenn,b34e0c77,KJ Martin,cf75a839,0,0,0,0,0,,,,,,0,0,0
+1249235,2020/21,New Zealand,11,ML Green,865eae1f,S Glenn,b34e0c77,KJ Martin,cf75a839,0,0,0,0,0,,,,,,0,0,0
+1249235,2020/21,New Zealand,12,KJ Martin,cf75a839,MK Villiers,cd62f670,ML Green,865eae1f,0,0,0,0,0,,,,,,1,0,1
+1249235,2020/21,New Zealand,12,ML Green,865eae1f,MK Villiers,cd62f670,KJ Martin,cf75a839,0,0,0,0,0,,,,,,1,0,1
+1249235,2020/21,New Zealand,12,KJ Martin,cf75a839,MK Villiers,cd62f670,ML Green,865eae1f,0,0,0,0,0,,,,,,1,0,1
+1249235,2020/21,New Zealand,12,ML Green,865eae1f,MK Villiers,cd62f670,KJ Martin,cf75a839,0,0,0,0,0,,,,,,0,0,0
+1249235,2020/21,New Zealand,12,ML Green,865eae1f,MK Villiers,cd62f670,KJ Martin,cf75a839,0,0,0,0,0,,,,,,1,0,1
+1249235,2020/21,New Zealand,12,KJ Martin,cf75a839,MK Villiers,cd62f670,ML Green,865eae1f,0,0,0,0,0,,,,,,1,0,1
+1249235,2020/21,New Zealand,13,KJ Martin,cf75a839,S Glenn,b34e0c77,ML Green,865eae1f,0,0,0,0,0,,,,,,1,0,1
+1249235,2020/21,New Zealand,13,ML Green,865eae1f,S Glenn,b34e0c77,KJ Martin,cf75a839,0,0,0,0,0,,,,,,1,0,1
+1249235,2020/21,New Zealand,13,KJ Martin,cf75a839,S Glenn,b34e0c77,ML Green,865eae1f,0,0,0,0,0,,,,,,1,0,1
+1249235,2020/21,New Zealand,13,ML Green,865eae1f,S Glenn,b34e0c77,KJ Martin,cf75a839,0,0,0,0,1,ML Green,865eae1f,,,bowled,0,0,0
+1249235,2020/21,New Zealand,13,TMM Newton,93fe473e,S Glenn,b34e0c77,KJ Martin,cf75a839,0,0,0,0,0,,,,,,0,0,0
+1249235,2020/21,New Zealand,13,TMM Newton,93fe473e,S Glenn,b34e0c77,KJ Martin,cf75a839,0,0,0,0,0,,,,,,1,0,1
+1249235,2020/21,New Zealand,14,TMM Newton,93fe473e,MK Villiers,cd62f670,KJ Martin,cf75a839,0,0,0,0,0,,,,,,1,0,1
+1249235,2020/21,New Zealand,14,KJ Martin,cf75a839,MK Villiers,cd62f670,TMM Newton,93fe473e,0,0,0,0,0,,,,,,0,0,0
+1249235,2020/21,New Zealand,14,KJ Martin,cf75a839,MK Villiers,cd62f670,TMM Newton,93fe473e,0,0,0,0,0,,,,,,0,0,0
+1249235,2020/21,New Zealand,14,KJ Martin,cf75a839,MK Villiers,cd62f670,TMM Newton,93fe473e,0,0,0,0,0,,,,,,1,0,1
+1249235,2020/21,New Zealand,14,TMM Newton,93fe473e,MK Villiers,cd62f670,KJ Martin,cf75a839,0,0,0,0,0,,,,,,0,0,0
+1249235,2020/21,New Zealand,14,TMM Newton,93fe473e,MK Villiers,cd62f670,KJ Martin,cf75a839,0,0,0,0,0,,,,,,0,0,0
+1249235,2020/21,New Zealand,15,KJ Martin,cf75a839,KH Brunt,6a434bd3,TMM Newton,93fe473e,0,0,0,0,0,,,,,,2,0,2
+1249235,2020/21,New Zealand,15,KJ Martin,cf75a839,KH Brunt,6a434bd3,TMM Newton,93fe473e,0,0,0,0,0,,,,,,1,0,1
+1249235,2020/21,New Zealand,15,TMM Newton,93fe473e,KH Brunt,6a434bd3,KJ Martin,cf75a839,0,0,0,0,1,TMM Newton,93fe473e,,,caught and bowled,0,0,0
+1249235,2020/21,New Zealand,15,LM Kasperek,9b73d523,KH Brunt,6a434bd3,KJ Martin,cf75a839,0,0,0,0,0,,,,,,0,0,0
+1249235,2020/21,New Zealand,15,LM Kasperek,9b73d523,KH Brunt,6a434bd3,KJ Martin,cf75a839,0,0,0,0,0,,,,,,1,0,1
+1249235,2020/21,New Zealand,15,KJ Martin,cf75a839,KH Brunt,6a434bd3,LM Kasperek,9b73d523,0,0,0,0,0,,,,,,1,0,1
+1249235,2020/21,New Zealand,16,KJ Martin,cf75a839,MK Villiers,cd62f670,LM Kasperek,9b73d523,0,0,0,0,0,,,,,,4,0,4
+1249235,2020/21,New Zealand,16,KJ Martin,cf75a839,MK Villiers,cd62f670,LM Kasperek,9b73d523,0,0,0,0,0,,,,,,1,0,1
+1249235,2020/21,New Zealand,16,LM Kasperek,9b73d523,MK Villiers,cd62f670,KJ Martin,cf75a839,0,0,0,0,0,,,,,,2,0,2
+1249235,2020/21,New Zealand,16,LM Kasperek,9b73d523,MK Villiers,cd62f670,KJ Martin,cf75a839,0,0,0,0,0,,,,,,1,0,1
+1249235,2020/21,New Zealand,16,KJ Martin,cf75a839,MK Villiers,cd62f670,LM Kasperek,9b73d523,0,0,0,0,0,,,,,,1,0,1
+1249235,2020/21,New Zealand,16,LM Kasperek,9b73d523,MK Villiers,cd62f670,KJ Martin,cf75a839,0,0,0,0,1,LM Kasperek,9b73d523,SIR Dunkley,3a9e9cb2,caught,0,0,0
+1249235,2020/21,New Zealand,17,JM Kerr,9af58032,S Ecclestone,cdb82f1c,KJ Martin,cf75a839,0,0,0,0,0,,,,,,1,0,1
+1249235,2020/21,New Zealand,17,KJ Martin,cf75a839,S Ecclestone,cdb82f1c,JM Kerr,9af58032,0,0,0,0,0,,,,,,1,0,1
+1249235,2020/21,New Zealand,17,JM Kerr,9af58032,S Ecclestone,cdb82f1c,KJ Martin,cf75a839,0,0,0,0,0,,,,,,0,0,0
+1249235,2020/21,New Zealand,17,JM Kerr,9af58032,S Ecclestone,cdb82f1c,KJ Martin,cf75a839,0,0,0,0,0,,,,,,2,0,2
+1249235,2020/21,New Zealand,17,JM Kerr,9af58032,S Ecclestone,cdb82f1c,KJ Martin,cf75a839,0,0,0,0,0,,,,,,0,0,0
+1249235,2020/21,New Zealand,17,JM Kerr,9af58032,S Ecclestone,cdb82f1c,KJ Martin,cf75a839,0,0,0,0,0,,,,,,1,0,1
+1249235,2020/21,New Zealand,18,JM Kerr,9af58032,NR Sciver,f3a18a0c,KJ Martin,cf75a839,0,0,0,0,0,,,,,,4,0,4
+1249235,2020/21,New Zealand,18,JM Kerr,9af58032,NR Sciver,f3a18a0c,KJ Martin,cf75a839,0,0,0,0,0,,,,,,0,0,0
+1249235,2020/21,New Zealand,18,JM Kerr,9af58032,NR Sciver,f3a18a0c,KJ Martin,cf75a839,0,0,1,0,0,,,,,,0,1,1
+1249235,2020/21,New Zealand,18,KJ Martin,cf75a839,NR Sciver,f3a18a0c,JM Kerr,9af58032,0,0,0,0,0,,,,,,4,0,4
+1249235,2020/21,New Zealand,18,KJ Martin,cf75a839,NR Sciver,f3a18a0c,JM Kerr,9af58032,0,0,0,0,0,,,,,,1,0,1
+1249235,2020/21,New Zealand,18,JM Kerr,9af58032,NR Sciver,f3a18a0c,KJ Martin,cf75a839,0,0,0,0,0,,,,,,1,0,1
+1249235,2020/21,New Zealand,19,JM Kerr,9af58032,KH Brunt,6a434bd3,KJ Martin,cf75a839,0,0,0,0,0,,,,,,1,0,1
+1249235,2020/21,New Zealand,19,KJ Martin,cf75a839,KH Brunt,6a434bd3,JM Kerr,9af58032,0,0,0,0,1,KJ Martin,cf75a839,AE Jones,b05e45e4,stumped,0,0,0
+1249235,2020/21,New Zealand,19,RA Mair,d5eb8b84,KH Brunt,6a434bd3,JM Kerr,9af58032,0,0,0,0,0,,,,,,1,0,1
+1249235,2020/21,New Zealand,19,JM Kerr,9af58032,KH Brunt,6a434bd3,RA Mair,d5eb8b84,0,0,0,0,1,JM Kerr,9af58032,,,run out,0,0,0
+1249235,2020/21,England,0,TT Beaumont,b2664905,JM Kerr,9af58032,DN Wyatt,a139c379,0,0,0,0,0,,,,,,0,0,0
+1249235,2020/21,England,0,TT Beaumont,b2664905,JM Kerr,9af58032,DN Wyatt,a139c379,0,0,0,0,0,,,,,,0,0,0
+1249235,2020/21,England,0,TT Beaumont,b2664905,JM Kerr,9af58032,DN Wyatt,a139c379,0,0,0,0,0,,,,,,0,0,0
+1249235,2020/21,England,0,TT Beaumont,b2664905,JM Kerr,9af58032,DN Wyatt,a139c379,0,1,0,0,0,,,,,,1,1,2
+1249235,2020/21,England,0,DN Wyatt,a139c379,JM Kerr,9af58032,TT Beaumont,b2664905,0,0,0,0,0,,,,,,1,0,1
+1249235,2020/21,England,0,TT Beaumont,b2664905,JM Kerr,9af58032,DN Wyatt,a139c379,0,0,0,0,0,,,,,,1,0,1
+1249235,2020/21,England,0,DN Wyatt,a139c379,JM Kerr,9af58032,TT Beaumont,b2664905,0,0,0,0,0,,,,,,0,0,0
+1249235,2020/21,England,1,TT Beaumont,b2664905,RA Mair,d5eb8b84,DN Wyatt,a139c379,0,1,0,0,0,,,,,,0,1,1
+1249235,2020/21,England,1,TT Beaumont,b2664905,RA Mair,d5eb8b84,DN Wyatt,a139c379,0,0,0,0,0,,,,,,0,0,0
+1249235,2020/21,England,1,TT Beaumont,b2664905,RA Mair,d5eb8b84,DN Wyatt,a139c379,0,0,0,0,0,,,,,,0,0,0
+1249235,2020/21,England,1,TT Beaumont,b2664905,RA Mair,d5eb8b84,DN Wyatt,a139c379,0,0,0,0,0,,,,,,0,0,0
+1249235,2020/21,England,1,TT Beaumont,b2664905,RA Mair,d5eb8b84,DN Wyatt,a139c379,0,0,0,0,0,,,,,,1,0,1
+1249235,2020/21,England,1,DN Wyatt,a139c379,RA Mair,d5eb8b84,TT Beaumont,b2664905,0,0,0,0,0,,,,,,0,0,0
+1249235,2020/21,England,1,DN Wyatt,a139c379,RA Mair,d5eb8b84,TT Beaumont,b2664905,0,0,0,0,0,,,,,,0,0,0
+1249235,2020/21,England,2,TT Beaumont,b2664905,AC Kerr,7673c908,DN Wyatt,a139c379,0,0,0,0,0,,,,,,1,0,1
+1249235,2020/21,England,2,DN Wyatt,a139c379,AC Kerr,7673c908,TT Beaumont,b2664905,0,0,0,0,0,,,,,,0,0,0
+1249235,2020/21,England,2,DN Wyatt,a139c379,AC Kerr,7673c908,TT Beaumont,b2664905,0,0,0,0,0,,,,,,2,0,2
+1249235,2020/21,England,2,DN Wyatt,a139c379,AC Kerr,7673c908,TT Beaumont,b2664905,0,0,0,0,0,,,,,,2,0,2
+1249235,2020/21,England,2,DN Wyatt,a139c379,AC Kerr,7673c908,TT Beaumont,b2664905,0,0,0,0,0,,,,,,4,0,4
+1249235,2020/21,England,2,DN Wyatt,a139c379,AC Kerr,7673c908,TT Beaumont,b2664905,0,0,0,0,0,,,,,,0,0,0
+1249235,2020/21,England,3,TT Beaumont,b2664905,RA Mair,d5eb8b84,DN Wyatt,a139c379,0,0,0,0,0,,,,,,0,0,0
+1249235,2020/21,England,3,TT Beaumont,b2664905,RA Mair,d5eb8b84,DN Wyatt,a139c379,0,0,0,0,0,,,,,,4,0,4
+1249235,2020/21,England,3,TT Beaumont,b2664905,RA Mair,d5eb8b84,DN Wyatt,a139c379,0,0,0,0,0,,,,,,4,0,4
+1249235,2020/21,England,3,TT Beaumont,b2664905,RA Mair,d5eb8b84,DN Wyatt,a139c379,0,0,0,0,0,,,,,,0,0,0
+1249235,2020/21,England,3,TT Beaumont,b2664905,RA Mair,d5eb8b84,DN Wyatt,a139c379,0,0,0,0,0,,,,,,0,0,0
+1249235,2020/21,England,3,TT Beaumont,b2664905,RA Mair,d5eb8b84,DN Wyatt,a139c379,0,0,0,0,0,,,,,,2,0,2
+1249235,2020/21,England,4,DN Wyatt,a139c379,JM Kerr,9af58032,TT Beaumont,b2664905,0,0,0,0,0,,,,,,4,0,4
+1249235,2020/21,England,4,DN Wyatt,a139c379,JM Kerr,9af58032,TT Beaumont,b2664905,0,0,0,0,0,,,,,,1,0,1
+1249235,2020/21,England,4,TT Beaumont,b2664905,JM Kerr,9af58032,DN Wyatt,a139c379,0,0,0,0,0,,,,,,4,0,4
+1249235,2020/21,England,4,TT Beaumont,b2664905,JM Kerr,9af58032,DN Wyatt,a139c379,0,0,0,0,0,,,,,,0,0,0
+1249235,2020/21,England,4,TT Beaumont,b2664905,JM Kerr,9af58032,DN Wyatt,a139c379,0,0,0,0,0,,,,,,1,0,1
+1249235,2020/21,England,4,DN Wyatt,a139c379,JM Kerr,9af58032,TT Beaumont,b2664905,0,0,0,0,0,,,,,,0,0,0
+1249235,2020/21,England,5,TT Beaumont,b2664905,SFM Devine,de69af96,DN Wyatt,a139c379,0,0,0,0,0,,,,,,1,0,1
+1249235,2020/21,England,5,DN Wyatt,a139c379,SFM Devine,de69af96,TT Beaumont,b2664905,0,0,0,0,0,,,,,,0,0,0
+1249235,2020/21,England,5,DN Wyatt,a139c379,SFM Devine,de69af96,TT Beaumont,b2664905,0,0,0,0,0,,,,,,1,0,1
+1249235,2020/21,England,5,TT Beaumont,b2664905,SFM Devine,de69af96,DN Wyatt,a139c379,0,0,0,0,0,,,,,,0,0,0
+1249235,2020/21,England,5,TT Beaumont,b2664905,SFM Devine,de69af96,DN Wyatt,a139c379,0,0,1,0,0,,,,,,0,1,1
+1249235,2020/21,England,5,DN Wyatt,a139c379,SFM Devine,de69af96,TT Beaumont,b2664905,0,0,0,0,0,,,,,,4,0,4
+1249235,2020/21,England,6,TT Beaumont,b2664905,LM Kasperek,9b73d523,DN Wyatt,a139c379,0,0,0,0,0,,,,,,1,0,1
+1249235,2020/21,England,6,DN Wyatt,a139c379,LM Kasperek,9b73d523,TT Beaumont,b2664905,0,0,0,0,0,,,,,,0,0,0
+1249235,2020/21,England,6,DN Wyatt,a139c379,LM Kasperek,9b73d523,TT Beaumont,b2664905,0,0,0,0,0,,,,,,2,0,2
+1249235,2020/21,England,6,DN Wyatt,a139c379,LM Kasperek,9b73d523,TT Beaumont,b2664905,0,0,0,0,0,,,,,,0,0,0
+1249235,2020/21,England,6,DN Wyatt,a139c379,LM Kasperek,9b73d523,TT Beaumont,b2664905,0,0,0,0,0,,,,,,0,0,0
+1249235,2020/21,England,6,DN Wyatt,a139c379,LM Kasperek,9b73d523,TT Beaumont,b2664905,0,0,0,0,0,,,,,,2,0,2
+1249235,2020/21,England,7,TT Beaumont,b2664905,AC Kerr,7673c908,DN Wyatt,a139c379,0,0,0,0,0,,,,,,1,0,1
+1249235,2020/21,England,7,DN Wyatt,a139c379,AC Kerr,7673c908,TT Beaumont,b2664905,0,0,0,0,0,,,,,,0,0,0
+1249235,2020/21,England,7,DN Wyatt,a139c379,AC Kerr,7673c908,TT Beaumont,b2664905,0,0,0,0,0,,,,,,3,0,3
+1249235,2020/21,England,7,TT Beaumont,b2664905,AC Kerr,7673c908,DN Wyatt,a139c379,0,0,0,0,0,,,,,,0,0,0
+1249235,2020/21,England,7,TT Beaumont,b2664905,AC Kerr,7673c908,DN Wyatt,a139c379,0,0,0,0,0,,,,,,1,0,1
+1249235,2020/21,England,7,DN Wyatt,a139c379,AC Kerr,7673c908,TT Beaumont,b2664905,0,0,0,0,0,,,,,,1,0,1
+1249235,2020/21,England,8,DN Wyatt,a139c379,LM Kasperek,9b73d523,TT Beaumont,b2664905,0,0,0,0,0,,,,,,2,0,2
+1249235,2020/21,England,8,DN Wyatt,a139c379,LM Kasperek,9b73d523,TT Beaumont,b2664905,0,0,0,0,0,,,,,,4,0,4
+1249235,2020/21,England,8,DN Wyatt,a139c379,LM Kasperek,9b73d523,TT Beaumont,b2664905,0,0,0,0,1,DN Wyatt,a139c379,SFM Devine,de69af96,caught,0,0,0
+1249235,2020/21,England,8,NR Sciver,f3a18a0c,LM Kasperek,9b73d523,TT Beaumont,b2664905,0,0,0,0,0,,,,,,0,0,0
+1249235,2020/21,England,8,NR Sciver,f3a18a0c,LM Kasperek,9b73d523,TT Beaumont,b2664905,0,0,0,0,0,,,,,,0,0,0
+1249235,2020/21,England,8,NR Sciver,f3a18a0c,LM Kasperek,9b73d523,TT Beaumont,b2664905,0,0,0,0,0,,,,,,1,0,1
+1249235,2020/21,England,9,NR Sciver,f3a18a0c,RA Mair,d5eb8b84,TT Beaumont,b2664905,0,0,0,0,0,,,,,,1,0,1
+1249235,2020/21,England,9,TT Beaumont,b2664905,RA Mair,d5eb8b84,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,0,0,0
+1249235,2020/21,England,9,TT Beaumont,b2664905,RA Mair,d5eb8b84,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,1,0,1
+1249235,2020/21,England,9,NR Sciver,f3a18a0c,RA Mair,d5eb8b84,TT Beaumont,b2664905,0,0,0,0,0,,,,,,0,0,0
+1249235,2020/21,England,9,NR Sciver,f3a18a0c,RA Mair,d5eb8b84,TT Beaumont,b2664905,0,0,0,0,0,,,,,,3,0,3
+1249235,2020/21,England,9,TT Beaumont,b2664905,RA Mair,d5eb8b84,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,1,0,1
+1249235,2020/21,England,10,TT Beaumont,b2664905,LM Kasperek,9b73d523,NR Sciver,f3a18a0c,0,0,0,0,1,TT Beaumont,b2664905,ML Green,865eae1f,caught,0,0,0
+1249235,2020/21,England,10,NR Sciver,f3a18a0c,LM Kasperek,9b73d523,HC Knight,4ba0289e,0,0,0,0,0,,,,,,1,0,1
+1249235,2020/21,England,10,HC Knight,4ba0289e,LM Kasperek,9b73d523,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,0,0,0
+1249235,2020/21,England,10,HC Knight,4ba0289e,LM Kasperek,9b73d523,NR Sciver,f3a18a0c,0,0,0,0,1,HC Knight,4ba0289e,,,run out,0,0,0
+1249235,2020/21,England,10,AE Jones,b05e45e4,LM Kasperek,9b73d523,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,4,0,4
+1249235,2020/21,England,10,AE Jones,b05e45e4,LM Kasperek,9b73d523,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,0,0,0
+1249235,2020/21,England,11,NR Sciver,f3a18a0c,AC Kerr,7673c908,AE Jones,b05e45e4,0,0,0,0,0,,,,,,1,0,1
+1249235,2020/21,England,11,AE Jones,b05e45e4,AC Kerr,7673c908,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,0,0,0
+1249235,2020/21,England,11,AE Jones,b05e45e4,AC Kerr,7673c908,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,1,0,1
+1249235,2020/21,England,11,NR Sciver,f3a18a0c,AC Kerr,7673c908,AE Jones,b05e45e4,0,0,0,0,0,,,,,,1,0,1
+1249235,2020/21,England,11,AE Jones,b05e45e4,AC Kerr,7673c908,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,2,0,2
+1249235,2020/21,England,11,AE Jones,b05e45e4,AC Kerr,7673c908,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,0,0,0
+1249235,2020/21,England,12,NR Sciver,f3a18a0c,LM Kasperek,9b73d523,AE Jones,b05e45e4,0,0,0,0,0,,,,,,1,0,1
+1249235,2020/21,England,12,AE Jones,b05e45e4,LM Kasperek,9b73d523,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,1,0,1
+1249235,2020/21,England,12,NR Sciver,f3a18a0c,LM Kasperek,9b73d523,AE Jones,b05e45e4,0,0,0,0,0,,,,,,4,0,4
+1249235,2020/21,England,12,NR Sciver,f3a18a0c,LM Kasperek,9b73d523,AE Jones,b05e45e4,0,0,0,0,0,,,,,,1,0,1
+1249235,2020/21,England,12,AE Jones,b05e45e4,LM Kasperek,9b73d523,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,0,0,0
+1249235,2020/21,England,12,AE Jones,b05e45e4,LM Kasperek,9b73d523,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,0,0,0
+1249235,2020/21,England,13,NR Sciver,f3a18a0c,AC Kerr,7673c908,AE Jones,b05e45e4,0,0,0,0,0,,,,,,0,0,0
+1249235,2020/21,England,13,NR Sciver,f3a18a0c,AC Kerr,7673c908,AE Jones,b05e45e4,0,0,0,0,0,,,,,,0,0,0
+1249235,2020/21,England,13,NR Sciver,f3a18a0c,AC Kerr,7673c908,AE Jones,b05e45e4,0,0,0,0,0,,,,,,0,0,0
+1249235,2020/21,England,13,NR Sciver,f3a18a0c,AC Kerr,7673c908,AE Jones,b05e45e4,0,0,0,0,0,,,,,,0,0,0
+1249235,2020/21,England,13,NR Sciver,f3a18a0c,AC Kerr,7673c908,AE Jones,b05e45e4,0,0,0,0,0,,,,,,0,0,0
+1249235,2020/21,England,13,NR Sciver,f3a18a0c,AC Kerr,7673c908,AE Jones,b05e45e4,0,0,0,0,0,,,,,,1,0,1
+1249235,2020/21,England,14,NR Sciver,f3a18a0c,JM Kerr,9af58032,AE Jones,b05e45e4,0,0,0,0,0,,,,,,0,0,0
+1249235,2020/21,England,14,NR Sciver,f3a18a0c,JM Kerr,9af58032,AE Jones,b05e45e4,0,0,0,0,0,,,,,,1,0,1
+1249235,2020/21,England,14,AE Jones,b05e45e4,JM Kerr,9af58032,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,0,0,0
+1249235,2020/21,England,14,AE Jones,b05e45e4,JM Kerr,9af58032,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,1,0,1
+1249235,2020/21,England,14,NR Sciver,f3a18a0c,JM Kerr,9af58032,AE Jones,b05e45e4,0,0,0,0,0,,,,,,4,0,4
+1249235,2020/21,England,14,NR Sciver,f3a18a0c,JM Kerr,9af58032,AE Jones,b05e45e4,0,0,0,0,0,,,,,,1,0,1
+1249235,2020/21,England,15,NR Sciver,f3a18a0c,SFM Devine,de69af96,AE Jones,b05e45e4,0,0,0,0,0,,,,,,0,0,0
+1249235,2020/21,England,15,NR Sciver,f3a18a0c,SFM Devine,de69af96,AE Jones,b05e45e4,0,0,0,0,0,,,,,,1,0,1
+1249235,2020/21,England,15,AE Jones,b05e45e4,SFM Devine,de69af96,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,0,0,0
+1249235,2020/21,England,15,AE Jones,b05e45e4,SFM Devine,de69af96,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,2,0,2
+1249235,2020/21,England,15,AE Jones,b05e45e4,SFM Devine,de69af96,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,1,0,1
+1249235,2020/21,England,15,NR Sciver,f3a18a0c,SFM Devine,de69af96,AE Jones,b05e45e4,0,0,0,0,0,,,,,,4,0,4

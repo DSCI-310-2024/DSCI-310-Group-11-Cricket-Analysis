@@ -1,0 +1,247 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1117821,2017/18,Pakistan,0,Fakhar Zaman,1777c020,M Morkel,5bb5a915,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,4,0,4
+1117821,2017/18,Pakistan,0,Fakhar Zaman,1777c020,M Morkel,5bb5a915,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,4,0,4
+1117821,2017/18,Pakistan,0,Fakhar Zaman,1777c020,M Morkel,5bb5a915,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,0,0,0
+1117821,2017/18,Pakistan,0,Fakhar Zaman,1777c020,M Morkel,5bb5a915,Ahmed Shehzad,f8fd6e3f,0,0,0,0,1,Fakhar Zaman,1777c020,HM Amla,e798611a,caught,0,0,0
+1117821,2017/18,Pakistan,0,Babar Azam,8a75e999,M Morkel,5bb5a915,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,4,0,4
+1117821,2017/18,Pakistan,0,Babar Azam,8a75e999,M Morkel,5bb5a915,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,0,0,0
+1117821,2017/18,Pakistan,1,Ahmed Shehzad,f8fd6e3f,NLTC Perera,0f12f9df,Babar Azam,8a75e999,0,0,0,0,0,,,,,,0,0,0
+1117821,2017/18,Pakistan,1,Ahmed Shehzad,f8fd6e3f,NLTC Perera,0f12f9df,Babar Azam,8a75e999,0,0,0,0,0,,,,,,0,0,0
+1117821,2017/18,Pakistan,1,Ahmed Shehzad,f8fd6e3f,NLTC Perera,0f12f9df,Babar Azam,8a75e999,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,Pakistan,1,Babar Azam,8a75e999,NLTC Perera,0f12f9df,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,4,0,4
+1117821,2017/18,Pakistan,1,Babar Azam,8a75e999,NLTC Perera,0f12f9df,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,4,0,4
+1117821,2017/18,Pakistan,1,Babar Azam,8a75e999,NLTC Perera,0f12f9df,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,0,0,0
+1117821,2017/18,Pakistan,2,Ahmed Shehzad,f8fd6e3f,M Morkel,5bb5a915,Babar Azam,8a75e999,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,Pakistan,2,Babar Azam,8a75e999,M Morkel,5bb5a915,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,0,0,0
+1117821,2017/18,Pakistan,2,Babar Azam,8a75e999,M Morkel,5bb5a915,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,2,0,2
+1117821,2017/18,Pakistan,2,Babar Azam,8a75e999,M Morkel,5bb5a915,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,0,0,0
+1117821,2017/18,Pakistan,2,Babar Azam,8a75e999,M Morkel,5bb5a915,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,0,0,0
+1117821,2017/18,Pakistan,2,Babar Azam,8a75e999,M Morkel,5bb5a915,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,0,0,0
+1117821,2017/18,Pakistan,3,Ahmed Shehzad,f8fd6e3f,NLTC Perera,0f12f9df,Babar Azam,8a75e999,0,0,0,0,0,,,,,,0,0,0
+1117821,2017/18,Pakistan,3,Ahmed Shehzad,f8fd6e3f,NLTC Perera,0f12f9df,Babar Azam,8a75e999,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,Pakistan,3,Babar Azam,8a75e999,NLTC Perera,0f12f9df,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,0,0,0
+1117821,2017/18,Pakistan,3,Babar Azam,8a75e999,NLTC Perera,0f12f9df,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,4,0,4
+1117821,2017/18,Pakistan,3,Babar Azam,8a75e999,NLTC Perera,0f12f9df,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,Pakistan,3,Ahmed Shehzad,f8fd6e3f,NLTC Perera,0f12f9df,Babar Azam,8a75e999,0,0,0,0,0,,,,,,4,0,4
+1117821,2017/18,Pakistan,4,Babar Azam,8a75e999,BCJ Cutting,2e11c706,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,Pakistan,4,Ahmed Shehzad,f8fd6e3f,BCJ Cutting,2e11c706,Babar Azam,8a75e999,1,0,0,0,0,,,,,,0,1,1
+1117821,2017/18,Pakistan,4,Ahmed Shehzad,f8fd6e3f,BCJ Cutting,2e11c706,Babar Azam,8a75e999,0,0,0,0,0,,,,,,0,0,0
+1117821,2017/18,Pakistan,4,Ahmed Shehzad,f8fd6e3f,BCJ Cutting,2e11c706,Babar Azam,8a75e999,0,0,0,0,0,,,,,,2,0,2
+1117821,2017/18,Pakistan,4,Ahmed Shehzad,f8fd6e3f,BCJ Cutting,2e11c706,Babar Azam,8a75e999,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,Pakistan,4,Babar Azam,8a75e999,BCJ Cutting,2e11c706,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,Pakistan,4,Ahmed Shehzad,f8fd6e3f,BCJ Cutting,2e11c706,Babar Azam,8a75e999,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,Pakistan,5,Ahmed Shehzad,f8fd6e3f,Imran Tahir,acee4cc4,Babar Azam,8a75e999,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,Pakistan,5,Babar Azam,8a75e999,Imran Tahir,acee4cc4,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,4,0,4
+1117821,2017/18,Pakistan,5,Babar Azam,8a75e999,Imran Tahir,acee4cc4,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,0,0,0
+1117821,2017/18,Pakistan,5,Babar Azam,8a75e999,Imran Tahir,acee4cc4,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,2,0,2
+1117821,2017/18,Pakistan,5,Babar Azam,8a75e999,Imran Tahir,acee4cc4,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,Pakistan,5,Ahmed Shehzad,f8fd6e3f,Imran Tahir,acee4cc4,Babar Azam,8a75e999,0,0,0,0,0,,,,,,0,0,0
+1117821,2017/18,Pakistan,6,Babar Azam,8a75e999,BCJ Cutting,2e11c706,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,4,0,4
+1117821,2017/18,Pakistan,6,Babar Azam,8a75e999,BCJ Cutting,2e11c706,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,4,0,4
+1117821,2017/18,Pakistan,6,Babar Azam,8a75e999,BCJ Cutting,2e11c706,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,2,0,2
+1117821,2017/18,Pakistan,6,Babar Azam,8a75e999,BCJ Cutting,2e11c706,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,Pakistan,6,Ahmed Shehzad,f8fd6e3f,BCJ Cutting,2e11c706,Babar Azam,8a75e999,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,Pakistan,6,Babar Azam,8a75e999,BCJ Cutting,2e11c706,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,Pakistan,7,Babar Azam,8a75e999,GD Elliott,c03449e0,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,Pakistan,7,Ahmed Shehzad,f8fd6e3f,GD Elliott,c03449e0,Babar Azam,8a75e999,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,Pakistan,7,Babar Azam,8a75e999,GD Elliott,c03449e0,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,Pakistan,7,Ahmed Shehzad,f8fd6e3f,GD Elliott,c03449e0,Babar Azam,8a75e999,0,0,0,0,0,,,,,,4,0,4
+1117821,2017/18,Pakistan,7,Ahmed Shehzad,f8fd6e3f,GD Elliott,c03449e0,Babar Azam,8a75e999,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,Pakistan,7,Babar Azam,8a75e999,GD Elliott,c03449e0,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,0,0,0
+1117821,2017/18,Pakistan,8,Ahmed Shehzad,f8fd6e3f,Imran Tahir,acee4cc4,Babar Azam,8a75e999,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,Pakistan,8,Babar Azam,8a75e999,Imran Tahir,acee4cc4,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,Pakistan,8,Ahmed Shehzad,f8fd6e3f,Imran Tahir,acee4cc4,Babar Azam,8a75e999,0,0,0,0,0,,,,,,2,0,2
+1117821,2017/18,Pakistan,8,Ahmed Shehzad,f8fd6e3f,Imran Tahir,acee4cc4,Babar Azam,8a75e999,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,Pakistan,8,Babar Azam,8a75e999,Imran Tahir,acee4cc4,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,0,0,0
+1117821,2017/18,Pakistan,8,Babar Azam,8a75e999,Imran Tahir,acee4cc4,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,Pakistan,9,Babar Azam,8a75e999,GD Elliott,c03449e0,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,4,0,4
+1117821,2017/18,Pakistan,9,Babar Azam,8a75e999,GD Elliott,c03449e0,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,Pakistan,9,Ahmed Shehzad,f8fd6e3f,GD Elliott,c03449e0,Babar Azam,8a75e999,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,Pakistan,9,Babar Azam,8a75e999,GD Elliott,c03449e0,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,Pakistan,9,Ahmed Shehzad,f8fd6e3f,GD Elliott,c03449e0,Babar Azam,8a75e999,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,Pakistan,9,Babar Azam,8a75e999,GD Elliott,c03449e0,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,Pakistan,10,Babar Azam,8a75e999,Imran Tahir,acee4cc4,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,Pakistan,10,Ahmed Shehzad,f8fd6e3f,Imran Tahir,acee4cc4,Babar Azam,8a75e999,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,Pakistan,10,Babar Azam,8a75e999,Imran Tahir,acee4cc4,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,Pakistan,10,Ahmed Shehzad,f8fd6e3f,Imran Tahir,acee4cc4,Babar Azam,8a75e999,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,Pakistan,10,Babar Azam,8a75e999,Imran Tahir,acee4cc4,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,0,0,0
+1117821,2017/18,Pakistan,10,Babar Azam,8a75e999,Imran Tahir,acee4cc4,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,6,0,6
+1117821,2017/18,Pakistan,11,Ahmed Shehzad,f8fd6e3f,DJG Sammy,c03c6200,Babar Azam,8a75e999,0,0,0,0,0,,,,,,4,0,4
+1117821,2017/18,Pakistan,11,Ahmed Shehzad,f8fd6e3f,DJG Sammy,c03c6200,Babar Azam,8a75e999,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,Pakistan,11,Babar Azam,8a75e999,DJG Sammy,c03c6200,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,Pakistan,11,Ahmed Shehzad,f8fd6e3f,DJG Sammy,c03c6200,Babar Azam,8a75e999,0,0,0,0,0,,,,,,0,0,0
+1117821,2017/18,Pakistan,11,Ahmed Shehzad,f8fd6e3f,DJG Sammy,c03c6200,Babar Azam,8a75e999,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,Pakistan,11,Babar Azam,8a75e999,DJG Sammy,c03c6200,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,4,0,4
+1117821,2017/18,Pakistan,12,Ahmed Shehzad,f8fd6e3f,M Morkel,5bb5a915,Babar Azam,8a75e999,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,Pakistan,12,Babar Azam,8a75e999,M Morkel,5bb5a915,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,2,0,2
+1117821,2017/18,Pakistan,12,Babar Azam,8a75e999,M Morkel,5bb5a915,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,2,0,2
+1117821,2017/18,Pakistan,12,Babar Azam,8a75e999,M Morkel,5bb5a915,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,4,0,4
+1117821,2017/18,Pakistan,12,Babar Azam,8a75e999,M Morkel,5bb5a915,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,Pakistan,12,Ahmed Shehzad,f8fd6e3f,M Morkel,5bb5a915,Babar Azam,8a75e999,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,Pakistan,13,Ahmed Shehzad,f8fd6e3f,DJG Sammy,c03c6200,Babar Azam,8a75e999,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,Pakistan,13,Babar Azam,8a75e999,DJG Sammy,c03c6200,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,Pakistan,13,Ahmed Shehzad,f8fd6e3f,DJG Sammy,c03c6200,Babar Azam,8a75e999,0,0,0,0,0,,,,,,2,0,2
+1117821,2017/18,Pakistan,13,Ahmed Shehzad,f8fd6e3f,DJG Sammy,c03c6200,Babar Azam,8a75e999,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,Pakistan,13,Babar Azam,8a75e999,DJG Sammy,c03c6200,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,6,0,6
+1117821,2017/18,Pakistan,13,Babar Azam,8a75e999,DJG Sammy,c03c6200,Ahmed Shehzad,f8fd6e3f,0,0,0,0,0,,,,,,2,0,2
+1117821,2017/18,Pakistan,14,Ahmed Shehzad,f8fd6e3f,BCJ Cutting,2e11c706,Babar Azam,8a75e999,0,0,0,0,1,Ahmed Shehzad,f8fd6e3f,DJG Sammy,c03c6200,caught,0,0,0
+1117821,2017/18,Pakistan,14,Babar Azam,8a75e999,BCJ Cutting,2e11c706,Shoaib Malik,64c34cd0,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,Pakistan,14,Shoaib Malik,64c34cd0,BCJ Cutting,2e11c706,Babar Azam,8a75e999,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,Pakistan,14,Babar Azam,8a75e999,BCJ Cutting,2e11c706,Shoaib Malik,64c34cd0,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,Pakistan,14,Shoaib Malik,64c34cd0,BCJ Cutting,2e11c706,Babar Azam,8a75e999,0,0,0,0,0,,,,,,0,0,0
+1117821,2017/18,Pakistan,14,Shoaib Malik,64c34cd0,BCJ Cutting,2e11c706,Babar Azam,8a75e999,0,0,0,0,0,,,,,,0,0,0
+1117821,2017/18,Pakistan,15,Babar Azam,8a75e999,Imran Tahir,acee4cc4,Shoaib Malik,64c34cd0,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,Pakistan,15,Shoaib Malik,64c34cd0,Imran Tahir,acee4cc4,Babar Azam,8a75e999,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,Pakistan,15,Babar Azam,8a75e999,Imran Tahir,acee4cc4,Shoaib Malik,64c34cd0,5,0,0,0,0,,,,,,0,5,5
+1117821,2017/18,Pakistan,15,Babar Azam,8a75e999,Imran Tahir,acee4cc4,Shoaib Malik,64c34cd0,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,Pakistan,15,Shoaib Malik,64c34cd0,Imran Tahir,acee4cc4,Babar Azam,8a75e999,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,Pakistan,15,Babar Azam,8a75e999,Imran Tahir,acee4cc4,Shoaib Malik,64c34cd0,0,0,0,0,1,Babar Azam,8a75e999,DA Miller,d67d5f00,caught,0,0,0
+1117821,2017/18,Pakistan,15,Shoaib Malik,64c34cd0,Imran Tahir,acee4cc4,Sarfraz Ahmed,2254ab79,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,Pakistan,16,Shoaib Malik,64c34cd0,M Morkel,5bb5a915,Sarfraz Ahmed,2254ab79,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,Pakistan,16,Sarfraz Ahmed,2254ab79,M Morkel,5bb5a915,Shoaib Malik,64c34cd0,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,Pakistan,16,Shoaib Malik,64c34cd0,M Morkel,5bb5a915,Sarfraz Ahmed,2254ab79,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,Pakistan,16,Sarfraz Ahmed,2254ab79,M Morkel,5bb5a915,Shoaib Malik,64c34cd0,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,Pakistan,16,Shoaib Malik,64c34cd0,M Morkel,5bb5a915,Sarfraz Ahmed,2254ab79,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,Pakistan,16,Sarfraz Ahmed,2254ab79,M Morkel,5bb5a915,Shoaib Malik,64c34cd0,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,Pakistan,17,Sarfraz Ahmed,2254ab79,NLTC Perera,0f12f9df,Shoaib Malik,64c34cd0,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,Pakistan,17,Shoaib Malik,64c34cd0,NLTC Perera,0f12f9df,Sarfraz Ahmed,2254ab79,0,0,0,0,0,,,,,,0,0,0
+1117821,2017/18,Pakistan,17,Shoaib Malik,64c34cd0,NLTC Perera,0f12f9df,Sarfraz Ahmed,2254ab79,0,0,0,0,0,,,,,,6,0,6
+1117821,2017/18,Pakistan,17,Shoaib Malik,64c34cd0,NLTC Perera,0f12f9df,Sarfraz Ahmed,2254ab79,0,0,0,0,0,,,,,,4,0,4
+1117821,2017/18,Pakistan,17,Shoaib Malik,64c34cd0,NLTC Perera,0f12f9df,Sarfraz Ahmed,2254ab79,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,Pakistan,17,Sarfraz Ahmed,2254ab79,NLTC Perera,0f12f9df,Shoaib Malik,64c34cd0,0,0,0,0,1,Sarfraz Ahmed,2254ab79,TD Paine,5748e866,caught,0,0,0
+1117821,2017/18,Pakistan,18,Shoaib Malik,64c34cd0,BCJ Cutting,2e11c706,Imad Wasim,9cb8d7a6,0,0,0,0,0,,,,,,4,0,4
+1117821,2017/18,Pakistan,18,Shoaib Malik,64c34cd0,BCJ Cutting,2e11c706,Imad Wasim,9cb8d7a6,0,0,0,0,0,,,,,,4,0,4
+1117821,2017/18,Pakistan,18,Shoaib Malik,64c34cd0,BCJ Cutting,2e11c706,Imad Wasim,9cb8d7a6,0,0,0,0,0,,,,,,4,0,4
+1117821,2017/18,Pakistan,18,Shoaib Malik,64c34cd0,BCJ Cutting,2e11c706,Imad Wasim,9cb8d7a6,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,Pakistan,18,Imad Wasim,9cb8d7a6,BCJ Cutting,2e11c706,Shoaib Malik,64c34cd0,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,Pakistan,18,Shoaib Malik,64c34cd0,BCJ Cutting,2e11c706,Imad Wasim,9cb8d7a6,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,Pakistan,19,Shoaib Malik,64c34cd0,NLTC Perera,0f12f9df,Imad Wasim,9cb8d7a6,0,0,0,0,0,,,,,,6,0,6
+1117821,2017/18,Pakistan,19,Shoaib Malik,64c34cd0,NLTC Perera,0f12f9df,Imad Wasim,9cb8d7a6,0,0,0,0,1,Shoaib Malik,64c34cd0,,,bowled,0,0,0
+1117821,2017/18,Pakistan,19,Faheem Ashraf,bd4ea627,NLTC Perera,0f12f9df,Imad Wasim,9cb8d7a6,0,0,1,0,0,,,,,,0,1,1
+1117821,2017/18,Pakistan,19,Imad Wasim,9cb8d7a6,NLTC Perera,0f12f9df,Faheem Ashraf,bd4ea627,0,0,0,0,0,,,,,,6,0,6
+1117821,2017/18,Pakistan,19,Imad Wasim,9cb8d7a6,NLTC Perera,0f12f9df,Faheem Ashraf,bd4ea627,0,0,0,0,0,,,,,,2,0,2
+1117821,2017/18,Pakistan,19,Imad Wasim,9cb8d7a6,NLTC Perera,0f12f9df,Faheem Ashraf,bd4ea627,0,0,0,0,0,,,,,,6,0,6
+1117821,2017/18,ICC World XI,0,Tamim Iqbal,3b041a12,Imad Wasim,9cb8d7a6,HM Amla,e798611a,1,0,0,0,0,,,,,,0,1,1
+1117821,2017/18,ICC World XI,0,Tamim Iqbal,3b041a12,Imad Wasim,9cb8d7a6,HM Amla,e798611a,0,0,0,0,0,,,,,,0,0,0
+1117821,2017/18,ICC World XI,0,Tamim Iqbal,3b041a12,Imad Wasim,9cb8d7a6,HM Amla,e798611a,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,ICC World XI,0,HM Amla,e798611a,Imad Wasim,9cb8d7a6,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,ICC World XI,0,Tamim Iqbal,3b041a12,Imad Wasim,9cb8d7a6,HM Amla,e798611a,0,0,0,0,0,,,,,,0,0,0
+1117821,2017/18,ICC World XI,0,Tamim Iqbal,3b041a12,Imad Wasim,9cb8d7a6,HM Amla,e798611a,0,0,0,0,0,,,,,,0,0,0
+1117821,2017/18,ICC World XI,0,Tamim Iqbal,3b041a12,Imad Wasim,9cb8d7a6,HM Amla,e798611a,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,ICC World XI,1,Tamim Iqbal,3b041a12,Sohail Khan,5af743d0,HM Amla,e798611a,0,0,0,0,0,,,,,,0,0,0
+1117821,2017/18,ICC World XI,1,Tamim Iqbal,3b041a12,Sohail Khan,5af743d0,HM Amla,e798611a,0,0,1,0,0,,,,,,0,1,1
+1117821,2017/18,ICC World XI,1,HM Amla,e798611a,Sohail Khan,5af743d0,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,4,0,4
+1117821,2017/18,ICC World XI,1,HM Amla,e798611a,Sohail Khan,5af743d0,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,ICC World XI,1,Tamim Iqbal,3b041a12,Sohail Khan,5af743d0,HM Amla,e798611a,0,0,0,0,0,,,,,,0,0,0
+1117821,2017/18,ICC World XI,1,Tamim Iqbal,3b041a12,Sohail Khan,5af743d0,HM Amla,e798611a,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,ICC World XI,2,Tamim Iqbal,3b041a12,Imad Wasim,9cb8d7a6,HM Amla,e798611a,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,ICC World XI,2,HM Amla,e798611a,Imad Wasim,9cb8d7a6,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,0,0,0
+1117821,2017/18,ICC World XI,2,HM Amla,e798611a,Imad Wasim,9cb8d7a6,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,0,0,0
+1117821,2017/18,ICC World XI,2,HM Amla,e798611a,Imad Wasim,9cb8d7a6,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,0,0,0
+1117821,2017/18,ICC World XI,2,HM Amla,e798611a,Imad Wasim,9cb8d7a6,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,6,0,6
+1117821,2017/18,ICC World XI,2,HM Amla,e798611a,Imad Wasim,9cb8d7a6,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,0,0,0
+1117821,2017/18,ICC World XI,3,Tamim Iqbal,3b041a12,Sohail Khan,5af743d0,HM Amla,e798611a,0,0,0,0,0,,,,,,0,0,0
+1117821,2017/18,ICC World XI,3,Tamim Iqbal,3b041a12,Sohail Khan,5af743d0,HM Amla,e798611a,0,0,0,0,0,,,,,,4,0,4
+1117821,2017/18,ICC World XI,3,Tamim Iqbal,3b041a12,Sohail Khan,5af743d0,HM Amla,e798611a,0,0,0,0,0,,,,,,4,0,4
+1117821,2017/18,ICC World XI,3,Tamim Iqbal,3b041a12,Sohail Khan,5af743d0,HM Amla,e798611a,0,0,0,0,0,,,,,,0,0,0
+1117821,2017/18,ICC World XI,3,Tamim Iqbal,3b041a12,Sohail Khan,5af743d0,HM Amla,e798611a,1,0,0,0,0,,,,,,0,1,1
+1117821,2017/18,ICC World XI,3,Tamim Iqbal,3b041a12,Sohail Khan,5af743d0,HM Amla,e798611a,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,ICC World XI,3,HM Amla,e798611a,Sohail Khan,5af743d0,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,ICC World XI,4,HM Amla,e798611a,Hasan Ali,2911de16,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,0,0,0
+1117821,2017/18,ICC World XI,4,HM Amla,e798611a,Hasan Ali,2911de16,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,ICC World XI,4,Tamim Iqbal,3b041a12,Hasan Ali,2911de16,HM Amla,e798611a,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,ICC World XI,4,HM Amla,e798611a,Hasan Ali,2911de16,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,4,0,4
+1117821,2017/18,ICC World XI,4,HM Amla,e798611a,Hasan Ali,2911de16,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,4,0,4
+1117821,2017/18,ICC World XI,4,HM Amla,e798611a,Hasan Ali,2911de16,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,0,0,0
+1117821,2017/18,ICC World XI,5,Tamim Iqbal,3b041a12,Rumman Raees,1c790f4f,HM Amla,e798611a,0,0,0,0,0,,,,,,4,0,4
+1117821,2017/18,ICC World XI,5,Tamim Iqbal,3b041a12,Rumman Raees,1c790f4f,HM Amla,e798611a,0,0,0,0,1,Tamim Iqbal,3b041a12,,,bowled,0,0,0
+1117821,2017/18,ICC World XI,5,TD Paine,5748e866,Rumman Raees,1c790f4f,HM Amla,e798611a,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,ICC World XI,5,HM Amla,e798611a,Rumman Raees,1c790f4f,TD Paine,5748e866,0,0,0,0,0,,,,,,4,0,4
+1117821,2017/18,ICC World XI,5,HM Amla,e798611a,Rumman Raees,1c790f4f,TD Paine,5748e866,0,0,0,0,0,,,,,,0,0,0
+1117821,2017/18,ICC World XI,5,HM Amla,e798611a,Rumman Raees,1c790f4f,TD Paine,5748e866,0,0,0,0,1,HM Amla,e798611a,Imad Wasim,9cb8d7a6,caught,0,0,0
+1117821,2017/18,ICC World XI,6,TD Paine,5748e866,Faheem Ashraf,bd4ea627,F du Plessis,3355b542,0,0,0,0,0,,,,,,4,0,4
+1117821,2017/18,ICC World XI,6,TD Paine,5748e866,Faheem Ashraf,bd4ea627,F du Plessis,3355b542,0,0,0,0,0,,,,,,0,0,0
+1117821,2017/18,ICC World XI,6,TD Paine,5748e866,Faheem Ashraf,bd4ea627,F du Plessis,3355b542,0,0,0,0,0,,,,,,0,0,0
+1117821,2017/18,ICC World XI,6,TD Paine,5748e866,Faheem Ashraf,bd4ea627,F du Plessis,3355b542,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,ICC World XI,6,F du Plessis,3355b542,Faheem Ashraf,bd4ea627,TD Paine,5748e866,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,ICC World XI,6,TD Paine,5748e866,Faheem Ashraf,bd4ea627,F du Plessis,3355b542,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,ICC World XI,7,TD Paine,5748e866,Imad Wasim,9cb8d7a6,F du Plessis,3355b542,0,0,0,0,0,,,,,,0,0,0
+1117821,2017/18,ICC World XI,7,TD Paine,5748e866,Imad Wasim,9cb8d7a6,F du Plessis,3355b542,0,0,0,0,0,,,,,,0,0,0
+1117821,2017/18,ICC World XI,7,TD Paine,5748e866,Imad Wasim,9cb8d7a6,F du Plessis,3355b542,0,0,0,0,0,,,,,,0,0,0
+1117821,2017/18,ICC World XI,7,TD Paine,5748e866,Imad Wasim,9cb8d7a6,F du Plessis,3355b542,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,ICC World XI,7,F du Plessis,3355b542,Imad Wasim,9cb8d7a6,TD Paine,5748e866,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,ICC World XI,7,TD Paine,5748e866,Imad Wasim,9cb8d7a6,F du Plessis,3355b542,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,ICC World XI,8,TD Paine,5748e866,Shadab Khan,9de62878,F du Plessis,3355b542,0,0,0,0,0,,,,,,0,0,0
+1117821,2017/18,ICC World XI,8,TD Paine,5748e866,Shadab Khan,9de62878,F du Plessis,3355b542,0,0,0,0,0,,,,,,0,0,0
+1117821,2017/18,ICC World XI,8,TD Paine,5748e866,Shadab Khan,9de62878,F du Plessis,3355b542,0,0,0,0,0,,,,,,0,0,0
+1117821,2017/18,ICC World XI,8,TD Paine,5748e866,Shadab Khan,9de62878,F du Plessis,3355b542,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,ICC World XI,8,F du Plessis,3355b542,Shadab Khan,9de62878,TD Paine,5748e866,0,0,0,0,0,,,,,,0,0,0
+1117821,2017/18,ICC World XI,8,F du Plessis,3355b542,Shadab Khan,9de62878,TD Paine,5748e866,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,ICC World XI,9,F du Plessis,3355b542,Imad Wasim,9cb8d7a6,TD Paine,5748e866,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,ICC World XI,9,TD Paine,5748e866,Imad Wasim,9cb8d7a6,F du Plessis,3355b542,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,ICC World XI,9,F du Plessis,3355b542,Imad Wasim,9cb8d7a6,TD Paine,5748e866,0,0,0,0,0,,,,,,0,0,0
+1117821,2017/18,ICC World XI,9,F du Plessis,3355b542,Imad Wasim,9cb8d7a6,TD Paine,5748e866,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,ICC World XI,9,TD Paine,5748e866,Imad Wasim,9cb8d7a6,F du Plessis,3355b542,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,ICC World XI,9,F du Plessis,3355b542,Imad Wasim,9cb8d7a6,TD Paine,5748e866,0,0,0,0,0,,,,,,4,0,4
+1117821,2017/18,ICC World XI,10,TD Paine,5748e866,Shadab Khan,9de62878,F du Plessis,3355b542,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,ICC World XI,10,F du Plessis,3355b542,Shadab Khan,9de62878,TD Paine,5748e866,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,ICC World XI,10,TD Paine,5748e866,Shadab Khan,9de62878,F du Plessis,3355b542,0,0,0,0,0,,,,,,0,0,0
+1117821,2017/18,ICC World XI,10,TD Paine,5748e866,Shadab Khan,9de62878,F du Plessis,3355b542,0,0,0,0,0,,,,,,6,0,6
+1117821,2017/18,ICC World XI,10,TD Paine,5748e866,Shadab Khan,9de62878,F du Plessis,3355b542,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,ICC World XI,10,F du Plessis,3355b542,Shadab Khan,9de62878,TD Paine,5748e866,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,ICC World XI,11,F du Plessis,3355b542,Hasan Ali,2911de16,TD Paine,5748e866,0,0,4,0,0,,,,,,0,4,4
+1117821,2017/18,ICC World XI,11,F du Plessis,3355b542,Hasan Ali,2911de16,TD Paine,5748e866,0,0,0,0,0,,,,,,0,0,0
+1117821,2017/18,ICC World XI,11,F du Plessis,3355b542,Hasan Ali,2911de16,TD Paine,5748e866,0,0,0,0,0,,,,,,4,0,4
+1117821,2017/18,ICC World XI,11,F du Plessis,3355b542,Hasan Ali,2911de16,TD Paine,5748e866,0,0,0,0,0,,,,,,6,0,6
+1117821,2017/18,ICC World XI,11,F du Plessis,3355b542,Hasan Ali,2911de16,TD Paine,5748e866,0,0,0,0,0,,,,,,4,0,4
+1117821,2017/18,ICC World XI,11,F du Plessis,3355b542,Hasan Ali,2911de16,TD Paine,5748e866,0,0,0,0,0,,,,,,4,0,4
+1117821,2017/18,ICC World XI,12,TD Paine,5748e866,Shadab Khan,9de62878,F du Plessis,3355b542,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,ICC World XI,12,F du Plessis,3355b542,Shadab Khan,9de62878,TD Paine,5748e866,0,0,0,0,0,,,,,,0,0,0
+1117821,2017/18,ICC World XI,12,F du Plessis,3355b542,Shadab Khan,9de62878,TD Paine,5748e866,0,0,0,0,1,F du Plessis,3355b542,Umar Amin,3029e282,caught,0,0,0
+1117821,2017/18,ICC World XI,12,DA Miller,d67d5f00,Shadab Khan,9de62878,TD Paine,5748e866,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,ICC World XI,12,TD Paine,5748e866,Shadab Khan,9de62878,DA Miller,d67d5f00,0,0,0,0,0,,,,,,0,0,0
+1117821,2017/18,ICC World XI,12,TD Paine,5748e866,Shadab Khan,9de62878,DA Miller,d67d5f00,1,0,0,0,0,,,,,,0,1,1
+1117821,2017/18,ICC World XI,12,TD Paine,5748e866,Shadab Khan,9de62878,DA Miller,d67d5f00,0,0,0,0,0,,,,,,4,0,4
+1117821,2017/18,ICC World XI,13,DA Miller,d67d5f00,Sohail Khan,5af743d0,TD Paine,5748e866,0,0,0,0,0,,,,,,0,0,0
+1117821,2017/18,ICC World XI,13,DA Miller,d67d5f00,Sohail Khan,5af743d0,TD Paine,5748e866,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,ICC World XI,13,TD Paine,5748e866,Sohail Khan,5af743d0,DA Miller,d67d5f00,0,0,0,0,1,TD Paine,5748e866,Rumman Raees,1c790f4f,caught,0,0,0
+1117821,2017/18,ICC World XI,13,DA Miller,d67d5f00,Sohail Khan,5af743d0,GD Elliott,c03449e0,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,ICC World XI,13,GD Elliott,c03449e0,Sohail Khan,5af743d0,DA Miller,d67d5f00,0,0,1,0,0,,,,,,0,1,1
+1117821,2017/18,ICC World XI,13,DA Miller,d67d5f00,Sohail Khan,5af743d0,GD Elliott,c03449e0,0,0,0,0,0,,,,,,0,0,0
+1117821,2017/18,ICC World XI,14,GD Elliott,c03449e0,Shadab Khan,9de62878,DA Miller,d67d5f00,0,0,0,0,0,,,,,,2,0,2
+1117821,2017/18,ICC World XI,14,GD Elliott,c03449e0,Shadab Khan,9de62878,DA Miller,d67d5f00,0,0,0,0,0,,,,,,4,0,4
+1117821,2017/18,ICC World XI,14,GD Elliott,c03449e0,Shadab Khan,9de62878,DA Miller,d67d5f00,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,ICC World XI,14,DA Miller,d67d5f00,Shadab Khan,9de62878,GD Elliott,c03449e0,0,0,0,0,0,,,,,,6,0,6
+1117821,2017/18,ICC World XI,14,DA Miller,d67d5f00,Shadab Khan,9de62878,GD Elliott,c03449e0,0,0,0,0,1,DA Miller,d67d5f00,Sarfraz Ahmed,2254ab79,stumped,0,0,0
+1117821,2017/18,ICC World XI,14,NLTC Perera,0f12f9df,Shadab Khan,9de62878,GD Elliott,c03449e0,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,ICC World XI,15,NLTC Perera,0f12f9df,Rumman Raees,1c790f4f,GD Elliott,c03449e0,0,0,0,0,0,,,,,,0,0,0
+1117821,2017/18,ICC World XI,15,NLTC Perera,0f12f9df,Rumman Raees,1c790f4f,GD Elliott,c03449e0,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,ICC World XI,15,GD Elliott,c03449e0,Rumman Raees,1c790f4f,NLTC Perera,0f12f9df,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,ICC World XI,15,NLTC Perera,0f12f9df,Rumman Raees,1c790f4f,GD Elliott,c03449e0,1,0,0,0,0,,,,,,0,1,1
+1117821,2017/18,ICC World XI,15,NLTC Perera,0f12f9df,Rumman Raees,1c790f4f,GD Elliott,c03449e0,0,0,0,0,0,,,,,,4,0,4
+1117821,2017/18,ICC World XI,15,NLTC Perera,0f12f9df,Rumman Raees,1c790f4f,GD Elliott,c03449e0,0,0,0,0,0,,,,,,4,0,4
+1117821,2017/18,ICC World XI,15,NLTC Perera,0f12f9df,Rumman Raees,1c790f4f,GD Elliott,c03449e0,0,0,0,0,0,,,,,,4,0,4
+1117821,2017/18,ICC World XI,16,GD Elliott,c03449e0,Sohail Khan,5af743d0,NLTC Perera,0f12f9df,0,0,0,0,0,,,,,,4,0,4
+1117821,2017/18,ICC World XI,16,GD Elliott,c03449e0,Sohail Khan,5af743d0,NLTC Perera,0f12f9df,0,0,0,0,0,,,,,,2,0,2
+1117821,2017/18,ICC World XI,16,GD Elliott,c03449e0,Sohail Khan,5af743d0,NLTC Perera,0f12f9df,0,0,0,0,1,GD Elliott,c03449e0,Imad Wasim,9cb8d7a6,caught,0,0,0
+1117821,2017/18,ICC World XI,16,DJG Sammy,c03c6200,Sohail Khan,5af743d0,NLTC Perera,0f12f9df,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,ICC World XI,16,NLTC Perera,0f12f9df,Sohail Khan,5af743d0,DJG Sammy,c03c6200,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,ICC World XI,16,DJG Sammy,c03c6200,Sohail Khan,5af743d0,NLTC Perera,0f12f9df,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,ICC World XI,17,DJG Sammy,c03c6200,Hasan Ali,2911de16,NLTC Perera,0f12f9df,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,ICC World XI,17,NLTC Perera,0f12f9df,Hasan Ali,2911de16,DJG Sammy,c03c6200,0,0,0,0,0,,,,,,0,0,0
+1117821,2017/18,ICC World XI,17,NLTC Perera,0f12f9df,Hasan Ali,2911de16,DJG Sammy,c03c6200,0,0,0,0,0,,,,,,0,0,0
+1117821,2017/18,ICC World XI,17,NLTC Perera,0f12f9df,Hasan Ali,2911de16,DJG Sammy,c03c6200,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,ICC World XI,17,DJG Sammy,c03c6200,Hasan Ali,2911de16,NLTC Perera,0f12f9df,0,0,0,0,0,,,,,,0,0,0
+1117821,2017/18,ICC World XI,17,DJG Sammy,c03c6200,Hasan Ali,2911de16,NLTC Perera,0f12f9df,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,ICC World XI,18,DJG Sammy,c03c6200,Rumman Raees,1c790f4f,NLTC Perera,0f12f9df,0,0,0,0,0,,,,,,0,0,0
+1117821,2017/18,ICC World XI,18,DJG Sammy,c03c6200,Rumman Raees,1c790f4f,NLTC Perera,0f12f9df,0,0,0,0,0,,,,,,0,0,0
+1117821,2017/18,ICC World XI,18,DJG Sammy,c03c6200,Rumman Raees,1c790f4f,NLTC Perera,0f12f9df,0,0,0,0,0,,,,,,6,0,6
+1117821,2017/18,ICC World XI,18,DJG Sammy,c03c6200,Rumman Raees,1c790f4f,NLTC Perera,0f12f9df,0,0,0,0,0,,,,,,0,0,0
+1117821,2017/18,ICC World XI,18,DJG Sammy,c03c6200,Rumman Raees,1c790f4f,NLTC Perera,0f12f9df,0,0,0,0,0,,,,,,6,0,6
+1117821,2017/18,ICC World XI,18,DJG Sammy,c03c6200,Rumman Raees,1c790f4f,NLTC Perera,0f12f9df,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,ICC World XI,19,DJG Sammy,c03c6200,Hasan Ali,2911de16,NLTC Perera,0f12f9df,0,0,0,0,0,,,,,,6,0,6
+1117821,2017/18,ICC World XI,19,DJG Sammy,c03c6200,Hasan Ali,2911de16,NLTC Perera,0f12f9df,0,0,0,0,0,,,,,,0,0,0
+1117821,2017/18,ICC World XI,19,DJG Sammy,c03c6200,Hasan Ali,2911de16,NLTC Perera,0f12f9df,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,ICC World XI,19,NLTC Perera,0f12f9df,Hasan Ali,2911de16,DJG Sammy,c03c6200,0,0,0,0,0,,,,,,1,0,1
+1117821,2017/18,ICC World XI,19,DJG Sammy,c03c6200,Hasan Ali,2911de16,NLTC Perera,0f12f9df,0,0,0,0,1,NLTC Perera,0f12f9df,,,run out,1,0,1
+1117821,2017/18,ICC World XI,19,DJG Sammy,c03c6200,Hasan Ali,2911de16,BCJ Cutting,2e11c706,0,0,0,0,0,,,,,,4,0,4

@@ -1,0 +1,251 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1298161,2022/23,New Zealand,0,FH Allen,bf74b130,M Theekshana,f24c6701,DP Conway,df5a6881,0,0,0,0,0,,,,,,0,0,0
+1298161,2022/23,New Zealand,0,FH Allen,bf74b130,M Theekshana,f24c6701,DP Conway,df5a6881,0,0,0,0,0,,,,,,1,0,1
+1298161,2022/23,New Zealand,0,DP Conway,df5a6881,M Theekshana,f24c6701,FH Allen,bf74b130,0,0,0,0,0,,,,,,1,0,1
+1298161,2022/23,New Zealand,0,FH Allen,bf74b130,M Theekshana,f24c6701,DP Conway,df5a6881,0,0,0,0,1,FH Allen,bf74b130,,,bowled,0,0,0
+1298161,2022/23,New Zealand,0,KS Williamson,d027ba9f,M Theekshana,f24c6701,DP Conway,df5a6881,0,0,0,0,0,,,,,,1,0,1
+1298161,2022/23,New Zealand,0,DP Conway,df5a6881,M Theekshana,f24c6701,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,0,0,0
+1298161,2022/23,New Zealand,1,KS Williamson,d027ba9f,CAK Rajitha,8012d0b8,DP Conway,df5a6881,0,0,0,0,0,,,,,,0,0,0
+1298161,2022/23,New Zealand,1,KS Williamson,d027ba9f,CAK Rajitha,8012d0b8,DP Conway,df5a6881,0,0,0,0,0,,,,,,0,0,0
+1298161,2022/23,New Zealand,1,KS Williamson,d027ba9f,CAK Rajitha,8012d0b8,DP Conway,df5a6881,0,0,0,0,0,,,,,,1,0,1
+1298161,2022/23,New Zealand,1,DP Conway,df5a6881,CAK Rajitha,8012d0b8,KS Williamson,d027ba9f,0,0,1,0,0,,,,,,0,1,1
+1298161,2022/23,New Zealand,1,KS Williamson,d027ba9f,CAK Rajitha,8012d0b8,DP Conway,df5a6881,0,0,0,0,0,,,,,,0,0,0
+1298161,2022/23,New Zealand,1,KS Williamson,d027ba9f,CAK Rajitha,8012d0b8,DP Conway,df5a6881,0,0,0,0,0,,,,,,1,0,1
+1298161,2022/23,New Zealand,2,KS Williamson,d027ba9f,DM de Silva,7d608e12,DP Conway,df5a6881,0,0,0,0,0,,,,,,1,0,1
+1298161,2022/23,New Zealand,2,DP Conway,df5a6881,DM de Silva,7d608e12,KS Williamson,d027ba9f,0,0,0,0,1,DP Conway,df5a6881,,,bowled,0,0,0
+1298161,2022/23,New Zealand,2,GD Phillips,9a46c4e5,DM de Silva,7d608e12,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,0,0,0
+1298161,2022/23,New Zealand,2,GD Phillips,9a46c4e5,DM de Silva,7d608e12,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,4,0,4
+1298161,2022/23,New Zealand,2,GD Phillips,9a46c4e5,DM de Silva,7d608e12,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,0,0,0
+1298161,2022/23,New Zealand,2,GD Phillips,9a46c4e5,DM de Silva,7d608e12,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,0,0,0
+1298161,2022/23,New Zealand,3,KS Williamson,d027ba9f,CAK Rajitha,8012d0b8,GD Phillips,9a46c4e5,0,0,0,0,0,,,,,,0,0,0
+1298161,2022/23,New Zealand,3,KS Williamson,d027ba9f,CAK Rajitha,8012d0b8,GD Phillips,9a46c4e5,0,0,0,0,0,,,,,,0,0,0
+1298161,2022/23,New Zealand,3,KS Williamson,d027ba9f,CAK Rajitha,8012d0b8,GD Phillips,9a46c4e5,0,0,0,0,0,,,,,,4,0,4
+1298161,2022/23,New Zealand,3,KS Williamson,d027ba9f,CAK Rajitha,8012d0b8,GD Phillips,9a46c4e5,0,0,0,0,0,,,,,,0,0,0
+1298161,2022/23,New Zealand,3,KS Williamson,d027ba9f,CAK Rajitha,8012d0b8,GD Phillips,9a46c4e5,0,0,0,0,0,,,,,,0,0,0
+1298161,2022/23,New Zealand,3,KS Williamson,d027ba9f,CAK Rajitha,8012d0b8,GD Phillips,9a46c4e5,0,0,0,0,1,KS Williamson,d027ba9f,BKG Mendis,5d1e7582,caught,0,0,0
+1298161,2022/23,New Zealand,4,GD Phillips,9a46c4e5,M Theekshana,f24c6701,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,0,0,0
+1298161,2022/23,New Zealand,4,GD Phillips,9a46c4e5,M Theekshana,f24c6701,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,1,0,1
+1298161,2022/23,New Zealand,4,DJ Mitchell,eade4650,M Theekshana,f24c6701,GD Phillips,9a46c4e5,0,0,0,0,0,,,,,,1,0,1
+1298161,2022/23,New Zealand,4,GD Phillips,9a46c4e5,M Theekshana,f24c6701,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,1,0,1
+1298161,2022/23,New Zealand,4,DJ Mitchell,eade4650,M Theekshana,f24c6701,GD Phillips,9a46c4e5,0,0,0,0,0,,,,,,0,0,0
+1298161,2022/23,New Zealand,4,DJ Mitchell,eade4650,M Theekshana,f24c6701,GD Phillips,9a46c4e5,0,0,0,0,0,,,,,,1,0,1
+1298161,2022/23,New Zealand,5,DJ Mitchell,eade4650,CAK Rajitha,8012d0b8,GD Phillips,9a46c4e5,0,0,0,0,0,,,,,,1,0,1
+1298161,2022/23,New Zealand,5,GD Phillips,9a46c4e5,CAK Rajitha,8012d0b8,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,4,0,4
+1298161,2022/23,New Zealand,5,GD Phillips,9a46c4e5,CAK Rajitha,8012d0b8,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,0,0,0
+1298161,2022/23,New Zealand,5,GD Phillips,9a46c4e5,CAK Rajitha,8012d0b8,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,0,0,0
+1298161,2022/23,New Zealand,5,GD Phillips,9a46c4e5,CAK Rajitha,8012d0b8,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,0,0,0
+1298161,2022/23,New Zealand,5,GD Phillips,9a46c4e5,CAK Rajitha,8012d0b8,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,1,0,1
+1298161,2022/23,New Zealand,6,GD Phillips,9a46c4e5,PWH de Silva,a97c8ec2,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,0,0,0
+1298161,2022/23,New Zealand,6,GD Phillips,9a46c4e5,PWH de Silva,a97c8ec2,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,1,0,1
+1298161,2022/23,New Zealand,6,DJ Mitchell,eade4650,PWH de Silva,a97c8ec2,GD Phillips,9a46c4e5,0,0,0,0,0,,,,,,2,0,2
+1298161,2022/23,New Zealand,6,DJ Mitchell,eade4650,PWH de Silva,a97c8ec2,GD Phillips,9a46c4e5,0,0,0,0,0,,,,,,1,0,1
+1298161,2022/23,New Zealand,6,GD Phillips,9a46c4e5,PWH de Silva,a97c8ec2,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,1,0,1
+1298161,2022/23,New Zealand,6,DJ Mitchell,eade4650,PWH de Silva,a97c8ec2,GD Phillips,9a46c4e5,0,0,0,0,0,,,,,,0,0,0
+1298161,2022/23,New Zealand,7,GD Phillips,9a46c4e5,CBRLS Kumara,4751caa3,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,4,0,4
+1298161,2022/23,New Zealand,7,GD Phillips,9a46c4e5,CBRLS Kumara,4751caa3,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,1,0,1
+1298161,2022/23,New Zealand,7,DJ Mitchell,eade4650,CBRLS Kumara,4751caa3,GD Phillips,9a46c4e5,0,0,0,0,0,,,,,,0,0,0
+1298161,2022/23,New Zealand,7,DJ Mitchell,eade4650,CBRLS Kumara,4751caa3,GD Phillips,9a46c4e5,0,1,0,0,0,,,,,,1,1,2
+1298161,2022/23,New Zealand,7,GD Phillips,9a46c4e5,CBRLS Kumara,4751caa3,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,2,0,2
+1298161,2022/23,New Zealand,7,GD Phillips,9a46c4e5,CBRLS Kumara,4751caa3,DJ Mitchell,eade4650,1,0,0,0,0,,,,,,0,1,1
+1298161,2022/23,New Zealand,7,GD Phillips,9a46c4e5,CBRLS Kumara,4751caa3,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,1,0,1
+1298161,2022/23,New Zealand,7,DJ Mitchell,eade4650,CBRLS Kumara,4751caa3,GD Phillips,9a46c4e5,0,0,0,0,0,,,,,,1,0,1
+1298161,2022/23,New Zealand,8,DJ Mitchell,eade4650,PWH de Silva,a97c8ec2,GD Phillips,9a46c4e5,0,0,0,0,0,,,,,,0,0,0
+1298161,2022/23,New Zealand,8,DJ Mitchell,eade4650,PWH de Silva,a97c8ec2,GD Phillips,9a46c4e5,0,0,0,0,0,,,,,,1,0,1
+1298161,2022/23,New Zealand,8,GD Phillips,9a46c4e5,PWH de Silva,a97c8ec2,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,0,0,0
+1298161,2022/23,New Zealand,8,GD Phillips,9a46c4e5,PWH de Silva,a97c8ec2,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,1,0,1
+1298161,2022/23,New Zealand,8,DJ Mitchell,eade4650,PWH de Silva,a97c8ec2,GD Phillips,9a46c4e5,0,0,0,0,0,,,,,,1,0,1
+1298161,2022/23,New Zealand,8,GD Phillips,9a46c4e5,PWH de Silva,a97c8ec2,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,0,0,0
+1298161,2022/23,New Zealand,9,DJ Mitchell,eade4650,C Karunaratne,fb3e0d39,GD Phillips,9a46c4e5,0,0,0,0,0,,,,,,1,0,1
+1298161,2022/23,New Zealand,9,GD Phillips,9a46c4e5,C Karunaratne,fb3e0d39,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,0,0,0
+1298161,2022/23,New Zealand,9,GD Phillips,9a46c4e5,C Karunaratne,fb3e0d39,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,2,0,2
+1298161,2022/23,New Zealand,9,GD Phillips,9a46c4e5,C Karunaratne,fb3e0d39,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,6,0,6
+1298161,2022/23,New Zealand,9,GD Phillips,9a46c4e5,C Karunaratne,fb3e0d39,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,0,0,0
+1298161,2022/23,New Zealand,9,GD Phillips,9a46c4e5,C Karunaratne,fb3e0d39,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,0,0,0
+1298161,2022/23,New Zealand,10,DJ Mitchell,eade4650,DM de Silva,7d608e12,GD Phillips,9a46c4e5,0,0,0,0,0,,,,,,1,0,1
+1298161,2022/23,New Zealand,10,GD Phillips,9a46c4e5,DM de Silva,7d608e12,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,2,0,2
+1298161,2022/23,New Zealand,10,GD Phillips,9a46c4e5,DM de Silva,7d608e12,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,2,0,2
+1298161,2022/23,New Zealand,10,GD Phillips,9a46c4e5,DM de Silva,7d608e12,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,1,0,1
+1298161,2022/23,New Zealand,10,DJ Mitchell,eade4650,DM de Silva,7d608e12,GD Phillips,9a46c4e5,0,0,0,0,0,,,,,,1,0,1
+1298161,2022/23,New Zealand,10,GD Phillips,9a46c4e5,DM de Silva,7d608e12,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,2,0,2
+1298161,2022/23,New Zealand,11,DJ Mitchell,eade4650,C Karunaratne,fb3e0d39,GD Phillips,9a46c4e5,0,0,0,0,0,,,,,,2,0,2
+1298161,2022/23,New Zealand,11,DJ Mitchell,eade4650,C Karunaratne,fb3e0d39,GD Phillips,9a46c4e5,0,0,0,0,0,,,,,,1,0,1
+1298161,2022/23,New Zealand,11,GD Phillips,9a46c4e5,C Karunaratne,fb3e0d39,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,0,0,0
+1298161,2022/23,New Zealand,11,GD Phillips,9a46c4e5,C Karunaratne,fb3e0d39,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,3,0,3
+1298161,2022/23,New Zealand,11,DJ Mitchell,eade4650,C Karunaratne,fb3e0d39,GD Phillips,9a46c4e5,0,0,0,0,0,,,,,,1,0,1
+1298161,2022/23,New Zealand,11,GD Phillips,9a46c4e5,C Karunaratne,fb3e0d39,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,0,0,0
+1298161,2022/23,New Zealand,12,DJ Mitchell,eade4650,PWH de Silva,a97c8ec2,GD Phillips,9a46c4e5,0,0,0,0,0,,,,,,1,0,1
+1298161,2022/23,New Zealand,12,GD Phillips,9a46c4e5,PWH de Silva,a97c8ec2,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,0,0,0
+1298161,2022/23,New Zealand,12,GD Phillips,9a46c4e5,PWH de Silva,a97c8ec2,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,1,0,1
+1298161,2022/23,New Zealand,12,DJ Mitchell,eade4650,PWH de Silva,a97c8ec2,GD Phillips,9a46c4e5,0,0,0,0,0,,,,,,2,0,2
+1298161,2022/23,New Zealand,12,DJ Mitchell,eade4650,PWH de Silva,a97c8ec2,GD Phillips,9a46c4e5,0,0,0,0,0,,,,,,0,0,0
+1298161,2022/23,New Zealand,12,DJ Mitchell,eade4650,PWH de Silva,a97c8ec2,GD Phillips,9a46c4e5,0,0,0,0,0,,,,,,2,0,2
+1298161,2022/23,New Zealand,13,GD Phillips,9a46c4e5,C Karunaratne,fb3e0d39,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,4,0,4
+1298161,2022/23,New Zealand,13,GD Phillips,9a46c4e5,C Karunaratne,fb3e0d39,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,2,0,2
+1298161,2022/23,New Zealand,13,GD Phillips,9a46c4e5,C Karunaratne,fb3e0d39,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,4,0,4
+1298161,2022/23,New Zealand,13,GD Phillips,9a46c4e5,C Karunaratne,fb3e0d39,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,2,0,2
+1298161,2022/23,New Zealand,13,GD Phillips,9a46c4e5,C Karunaratne,fb3e0d39,DJ Mitchell,eade4650,1,0,0,0,0,,,,,,0,1,1
+1298161,2022/23,New Zealand,13,GD Phillips,9a46c4e5,C Karunaratne,fb3e0d39,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,4,0,4
+1298161,2022/23,New Zealand,13,GD Phillips,9a46c4e5,C Karunaratne,fb3e0d39,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,1,0,1
+1298161,2022/23,New Zealand,14,GD Phillips,9a46c4e5,PWH de Silva,a97c8ec2,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,4,0,4
+1298161,2022/23,New Zealand,14,GD Phillips,9a46c4e5,PWH de Silva,a97c8ec2,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,1,0,1
+1298161,2022/23,New Zealand,14,DJ Mitchell,eade4650,PWH de Silva,a97c8ec2,GD Phillips,9a46c4e5,0,0,0,0,1,DJ Mitchell,eade4650,,,bowled,0,0,0
+1298161,2022/23,New Zealand,14,JDS Neesham,9219eff0,PWH de Silva,a97c8ec2,GD Phillips,9a46c4e5,0,0,0,0,0,,,,,,1,0,1
+1298161,2022/23,New Zealand,14,GD Phillips,9a46c4e5,PWH de Silva,a97c8ec2,JDS Neesham,9219eff0,0,0,0,0,0,,,,,,0,0,0
+1298161,2022/23,New Zealand,14,GD Phillips,9a46c4e5,PWH de Silva,a97c8ec2,JDS Neesham,9219eff0,0,0,0,0,0,,,,,,2,0,2
+1298161,2022/23,New Zealand,15,JDS Neesham,9219eff0,CBRLS Kumara,4751caa3,GD Phillips,9a46c4e5,0,0,0,0,0,,,,,,1,0,1
+1298161,2022/23,New Zealand,15,GD Phillips,9a46c4e5,CBRLS Kumara,4751caa3,JDS Neesham,9219eff0,0,0,0,0,0,,,,,,1,0,1
+1298161,2022/23,New Zealand,15,JDS Neesham,9219eff0,CBRLS Kumara,4751caa3,GD Phillips,9a46c4e5,0,0,0,0,0,,,,,,1,0,1
+1298161,2022/23,New Zealand,15,GD Phillips,9a46c4e5,CBRLS Kumara,4751caa3,JDS Neesham,9219eff0,0,0,0,0,0,,,,,,6,0,6
+1298161,2022/23,New Zealand,15,GD Phillips,9a46c4e5,CBRLS Kumara,4751caa3,JDS Neesham,9219eff0,0,0,0,0,0,,,,,,1,0,1
+1298161,2022/23,New Zealand,15,JDS Neesham,9219eff0,CBRLS Kumara,4751caa3,GD Phillips,9a46c4e5,0,0,0,0,0,,,,,,1,0,1
+1298161,2022/23,New Zealand,16,JDS Neesham,9219eff0,M Theekshana,f24c6701,GD Phillips,9a46c4e5,1,0,0,0,0,,,,,,0,1,1
+1298161,2022/23,New Zealand,16,JDS Neesham,9219eff0,M Theekshana,f24c6701,GD Phillips,9a46c4e5,0,0,0,0,0,,,,,,0,0,0
+1298161,2022/23,New Zealand,16,JDS Neesham,9219eff0,M Theekshana,f24c6701,GD Phillips,9a46c4e5,0,0,0,0,0,,,,,,1,0,1
+1298161,2022/23,New Zealand,16,GD Phillips,9a46c4e5,M Theekshana,f24c6701,JDS Neesham,9219eff0,0,0,0,0,0,,,,,,6,0,6
+1298161,2022/23,New Zealand,16,GD Phillips,9a46c4e5,M Theekshana,f24c6701,JDS Neesham,9219eff0,0,0,0,0,0,,,,,,6,0,6
+1298161,2022/23,New Zealand,16,GD Phillips,9a46c4e5,M Theekshana,f24c6701,JDS Neesham,9219eff0,0,0,0,0,0,,,,,,1,0,1
+1298161,2022/23,New Zealand,16,JDS Neesham,9219eff0,M Theekshana,f24c6701,GD Phillips,9a46c4e5,0,0,1,0,0,,,,,,0,1,1
+1298161,2022/23,New Zealand,17,JDS Neesham,9219eff0,CAK Rajitha,8012d0b8,GD Phillips,9a46c4e5,0,0,0,0,1,JDS Neesham,9219eff0,MD Shanaka,3ff033bb,caught,0,0,0
+1298161,2022/23,New Zealand,17,MJ Santner,e4a0deae,CAK Rajitha,8012d0b8,GD Phillips,9a46c4e5,1,0,0,0,0,,,,,,0,1,1
+1298161,2022/23,New Zealand,17,MJ Santner,e4a0deae,CAK Rajitha,8012d0b8,GD Phillips,9a46c4e5,0,0,0,0,0,,,,,,1,0,1
+1298161,2022/23,New Zealand,17,GD Phillips,9a46c4e5,CAK Rajitha,8012d0b8,MJ Santner,e4a0deae,0,0,0,0,0,,,,,,0,0,0
+1298161,2022/23,New Zealand,17,GD Phillips,9a46c4e5,CAK Rajitha,8012d0b8,MJ Santner,e4a0deae,0,1,0,0,0,,,,,,4,1,5
+1298161,2022/23,New Zealand,17,GD Phillips,9a46c4e5,CAK Rajitha,8012d0b8,MJ Santner,e4a0deae,0,1,0,0,0,,,,,,2,1,3
+1298161,2022/23,New Zealand,17,GD Phillips,9a46c4e5,CAK Rajitha,8012d0b8,MJ Santner,e4a0deae,0,0,0,0,0,,,,,,0,0,0
+1298161,2022/23,New Zealand,17,GD Phillips,9a46c4e5,CAK Rajitha,8012d0b8,MJ Santner,e4a0deae,0,0,0,0,0,,,,,,0,0,0
+1298161,2022/23,New Zealand,17,GD Phillips,9a46c4e5,CAK Rajitha,8012d0b8,MJ Santner,e4a0deae,0,0,0,0,0,,,,,,1,0,1
+1298161,2022/23,New Zealand,18,GD Phillips,9a46c4e5,M Theekshana,f24c6701,MJ Santner,e4a0deae,0,0,0,0,0,,,,,,4,0,4
+1298161,2022/23,New Zealand,18,GD Phillips,9a46c4e5,M Theekshana,f24c6701,MJ Santner,e4a0deae,0,0,0,0,0,,,,,,1,0,1
+1298161,2022/23,New Zealand,18,MJ Santner,e4a0deae,M Theekshana,f24c6701,GD Phillips,9a46c4e5,0,0,0,0,0,,,,,,2,0,2
+1298161,2022/23,New Zealand,18,MJ Santner,e4a0deae,M Theekshana,f24c6701,GD Phillips,9a46c4e5,0,0,0,0,0,,,,,,1,0,1
+1298161,2022/23,New Zealand,18,GD Phillips,9a46c4e5,M Theekshana,f24c6701,MJ Santner,e4a0deae,0,0,0,0,0,,,,,,4,0,4
+1298161,2022/23,New Zealand,18,GD Phillips,9a46c4e5,M Theekshana,f24c6701,MJ Santner,e4a0deae,0,0,0,0,0,,,,,,1,0,1
+1298161,2022/23,New Zealand,19,GD Phillips,9a46c4e5,CBRLS Kumara,4751caa3,MJ Santner,e4a0deae,1,0,0,0,0,,,,,,0,1,1
+1298161,2022/23,New Zealand,19,GD Phillips,9a46c4e5,CBRLS Kumara,4751caa3,MJ Santner,e4a0deae,0,0,0,0,0,,,,,,1,0,1
+1298161,2022/23,New Zealand,19,MJ Santner,e4a0deae,CBRLS Kumara,4751caa3,GD Phillips,9a46c4e5,0,0,0,0,0,,,,,,6,0,6
+1298161,2022/23,New Zealand,19,MJ Santner,e4a0deae,CBRLS Kumara,4751caa3,GD Phillips,9a46c4e5,0,0,0,0,0,,,,,,1,0,1
+1298161,2022/23,New Zealand,19,GD Phillips,9a46c4e5,CBRLS Kumara,4751caa3,MJ Santner,e4a0deae,0,0,0,0,1,GD Phillips,9a46c4e5,MD Shanaka,3ff033bb,caught,0,0,0
+1298161,2022/23,New Zealand,19,IS Sodhi,641ac5ff,CBRLS Kumara,4751caa3,MJ Santner,e4a0deae,0,0,0,0,1,IS Sodhi,641ac5ff,KNA Bandara,585dda5d,run out,1,0,1
+1298161,2022/23,New Zealand,19,TG Southee,13c35c9e,CBRLS Kumara,4751caa3,MJ Santner,e4a0deae,0,0,0,0,0,,,,,,4,0,4
+1298161,2022/23,Sri Lanka,0,P Nissanka,8ee36b18,TG Southee,13c35c9e,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,0,0,0
+1298161,2022/23,Sri Lanka,0,P Nissanka,8ee36b18,TG Southee,13c35c9e,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,0,0,0
+1298161,2022/23,Sri Lanka,0,P Nissanka,8ee36b18,TG Southee,13c35c9e,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,0,0,0
+1298161,2022/23,Sri Lanka,0,P Nissanka,8ee36b18,TG Southee,13c35c9e,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,0,0,0
+1298161,2022/23,Sri Lanka,0,P Nissanka,8ee36b18,TG Southee,13c35c9e,BKG Mendis,5d1e7582,0,0,0,0,1,P Nissanka,8ee36b18,,,lbw,0,0,0
+1298161,2022/23,Sri Lanka,0,DM de Silva,7d608e12,TG Southee,13c35c9e,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,0,0,0
+1298161,2022/23,Sri Lanka,1,BKG Mendis,5d1e7582,TA Boult,a818c1be,DM de Silva,7d608e12,0,0,0,0,0,,,,,,4,0,4
+1298161,2022/23,Sri Lanka,1,BKG Mendis,5d1e7582,TA Boult,a818c1be,DM de Silva,7d608e12,0,0,0,0,0,,,,,,0,0,0
+1298161,2022/23,Sri Lanka,1,BKG Mendis,5d1e7582,TA Boult,a818c1be,DM de Silva,7d608e12,0,0,0,0,1,BKG Mendis,5d1e7582,DP Conway,df5a6881,caught,0,0,0
+1298161,2022/23,Sri Lanka,1,KIC Asalanka,732c038e,TA Boult,a818c1be,DM de Silva,7d608e12,0,0,0,0,0,,,,,,1,0,1
+1298161,2022/23,Sri Lanka,1,DM de Silva,7d608e12,TA Boult,a818c1be,KIC Asalanka,732c038e,0,0,0,0,0,,,,,,0,0,0
+1298161,2022/23,Sri Lanka,1,DM de Silva,7d608e12,TA Boult,a818c1be,KIC Asalanka,732c038e,0,0,0,0,1,DM de Silva,7d608e12,,,bowled,0,0,0
+1298161,2022/23,Sri Lanka,2,KIC Asalanka,732c038e,TG Southee,13c35c9e,PBB Rajapaksa,6c882e9a,0,0,0,0,0,,,,,,0,0,0
+1298161,2022/23,Sri Lanka,2,KIC Asalanka,732c038e,TG Southee,13c35c9e,PBB Rajapaksa,6c882e9a,0,0,0,0,0,,,,,,0,0,0
+1298161,2022/23,Sri Lanka,2,KIC Asalanka,732c038e,TG Southee,13c35c9e,PBB Rajapaksa,6c882e9a,0,0,0,0,0,,,,,,0,0,0
+1298161,2022/23,Sri Lanka,2,KIC Asalanka,732c038e,TG Southee,13c35c9e,PBB Rajapaksa,6c882e9a,0,0,0,0,0,,,,,,1,0,1
+1298161,2022/23,Sri Lanka,2,PBB Rajapaksa,6c882e9a,TG Southee,13c35c9e,KIC Asalanka,732c038e,0,0,0,0,0,,,,,,0,0,0
+1298161,2022/23,Sri Lanka,2,PBB Rajapaksa,6c882e9a,TG Southee,13c35c9e,KIC Asalanka,732c038e,0,0,0,0,0,,,,,,0,0,0
+1298161,2022/23,Sri Lanka,3,KIC Asalanka,732c038e,TA Boult,a818c1be,PBB Rajapaksa,6c882e9a,0,0,0,0,0,,,,,,2,0,2
+1298161,2022/23,Sri Lanka,3,KIC Asalanka,732c038e,TA Boult,a818c1be,PBB Rajapaksa,6c882e9a,0,0,0,0,0,,,,,,0,0,0
+1298161,2022/23,Sri Lanka,3,KIC Asalanka,732c038e,TA Boult,a818c1be,PBB Rajapaksa,6c882e9a,0,0,0,0,1,KIC Asalanka,732c038e,FH Allen,bf74b130,caught,0,0,0
+1298161,2022/23,Sri Lanka,3,C Karunaratne,fb3e0d39,TA Boult,a818c1be,PBB Rajapaksa,6c882e9a,0,0,0,0,0,,,,,,0,0,0
+1298161,2022/23,Sri Lanka,3,C Karunaratne,fb3e0d39,TA Boult,a818c1be,PBB Rajapaksa,6c882e9a,0,0,0,0,0,,,,,,0,0,0
+1298161,2022/23,Sri Lanka,3,C Karunaratne,fb3e0d39,TA Boult,a818c1be,PBB Rajapaksa,6c882e9a,0,0,0,0,0,,,,,,0,0,0
+1298161,2022/23,Sri Lanka,4,PBB Rajapaksa,6c882e9a,LH Ferguson,2f9d0389,C Karunaratne,fb3e0d39,0,0,0,0,0,,,,,,0,0,0
+1298161,2022/23,Sri Lanka,4,PBB Rajapaksa,6c882e9a,LH Ferguson,2f9d0389,C Karunaratne,fb3e0d39,0,0,0,0,0,,,,,,0,0,0
+1298161,2022/23,Sri Lanka,4,PBB Rajapaksa,6c882e9a,LH Ferguson,2f9d0389,C Karunaratne,fb3e0d39,0,0,0,0,0,,,,,,6,0,6
+1298161,2022/23,Sri Lanka,4,PBB Rajapaksa,6c882e9a,LH Ferguson,2f9d0389,C Karunaratne,fb3e0d39,0,0,0,0,0,,,,,,4,0,4
+1298161,2022/23,Sri Lanka,4,PBB Rajapaksa,6c882e9a,LH Ferguson,2f9d0389,C Karunaratne,fb3e0d39,0,0,0,0,0,,,,,,1,0,1
+1298161,2022/23,Sri Lanka,4,C Karunaratne,fb3e0d39,LH Ferguson,2f9d0389,PBB Rajapaksa,6c882e9a,1,0,0,0,0,,,,,,0,1,1
+1298161,2022/23,Sri Lanka,4,C Karunaratne,fb3e0d39,LH Ferguson,2f9d0389,PBB Rajapaksa,6c882e9a,0,0,0,0,0,,,,,,0,0,0
+1298161,2022/23,Sri Lanka,5,PBB Rajapaksa,6c882e9a,TA Boult,a818c1be,C Karunaratne,fb3e0d39,0,0,0,0,0,,,,,,0,0,0
+1298161,2022/23,Sri Lanka,5,PBB Rajapaksa,6c882e9a,TA Boult,a818c1be,C Karunaratne,fb3e0d39,0,0,0,0,0,,,,,,1,0,1
+1298161,2022/23,Sri Lanka,5,C Karunaratne,fb3e0d39,TA Boult,a818c1be,PBB Rajapaksa,6c882e9a,0,0,0,0,0,,,,,,0,0,0
+1298161,2022/23,Sri Lanka,5,C Karunaratne,fb3e0d39,TA Boult,a818c1be,PBB Rajapaksa,6c882e9a,0,0,0,0,0,,,,,,0,0,0
+1298161,2022/23,Sri Lanka,5,C Karunaratne,fb3e0d39,TA Boult,a818c1be,PBB Rajapaksa,6c882e9a,0,0,0,0,0,,,,,,3,0,3
+1298161,2022/23,Sri Lanka,5,PBB Rajapaksa,6c882e9a,TA Boult,a818c1be,C Karunaratne,fb3e0d39,0,0,0,0,0,,,,,,0,0,0
+1298161,2022/23,Sri Lanka,6,C Karunaratne,fb3e0d39,MJ Santner,e4a0deae,PBB Rajapaksa,6c882e9a,0,0,0,0,1,C Karunaratne,fb3e0d39,TA Boult,a818c1be,caught,0,0,0
+1298161,2022/23,Sri Lanka,6,MD Shanaka,3ff033bb,MJ Santner,e4a0deae,PBB Rajapaksa,6c882e9a,0,0,0,0,0,,,,,,4,0,4
+1298161,2022/23,Sri Lanka,6,MD Shanaka,3ff033bb,MJ Santner,e4a0deae,PBB Rajapaksa,6c882e9a,0,0,0,0,0,,,,,,0,0,0
+1298161,2022/23,Sri Lanka,6,MD Shanaka,3ff033bb,MJ Santner,e4a0deae,PBB Rajapaksa,6c882e9a,0,0,0,0,0,,,,,,0,0,0
+1298161,2022/23,Sri Lanka,6,MD Shanaka,3ff033bb,MJ Santner,e4a0deae,PBB Rajapaksa,6c882e9a,0,0,0,0,0,,,,,,1,0,1
+1298161,2022/23,Sri Lanka,6,PBB Rajapaksa,6c882e9a,MJ Santner,e4a0deae,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,1,0,1
+1298161,2022/23,Sri Lanka,7,PBB Rajapaksa,6c882e9a,IS Sodhi,641ac5ff,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,6,0,6
+1298161,2022/23,Sri Lanka,7,PBB Rajapaksa,6c882e9a,IS Sodhi,641ac5ff,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,1,0,1
+1298161,2022/23,Sri Lanka,7,MD Shanaka,3ff033bb,IS Sodhi,641ac5ff,PBB Rajapaksa,6c882e9a,0,0,0,0,0,,,,,,0,0,0
+1298161,2022/23,Sri Lanka,7,MD Shanaka,3ff033bb,IS Sodhi,641ac5ff,PBB Rajapaksa,6c882e9a,0,0,0,0,0,,,,,,1,0,1
+1298161,2022/23,Sri Lanka,7,PBB Rajapaksa,6c882e9a,IS Sodhi,641ac5ff,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,4,0,4
+1298161,2022/23,Sri Lanka,7,PBB Rajapaksa,6c882e9a,IS Sodhi,641ac5ff,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,1,0,1
+1298161,2022/23,Sri Lanka,8,PBB Rajapaksa,6c882e9a,MJ Santner,e4a0deae,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,1,0,1
+1298161,2022/23,Sri Lanka,8,MD Shanaka,3ff033bb,MJ Santner,e4a0deae,PBB Rajapaksa,6c882e9a,0,0,0,0,0,,,,,,4,0,4
+1298161,2022/23,Sri Lanka,8,MD Shanaka,3ff033bb,MJ Santner,e4a0deae,PBB Rajapaksa,6c882e9a,0,0,0,0,0,,,,,,0,0,0
+1298161,2022/23,Sri Lanka,8,MD Shanaka,3ff033bb,MJ Santner,e4a0deae,PBB Rajapaksa,6c882e9a,0,0,0,0,0,,,,,,1,0,1
+1298161,2022/23,Sri Lanka,8,PBB Rajapaksa,6c882e9a,MJ Santner,e4a0deae,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,2,0,2
+1298161,2022/23,Sri Lanka,8,PBB Rajapaksa,6c882e9a,MJ Santner,e4a0deae,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,1,0,1
+1298161,2022/23,Sri Lanka,9,PBB Rajapaksa,6c882e9a,LH Ferguson,2f9d0389,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,1,0,1
+1298161,2022/23,Sri Lanka,9,MD Shanaka,3ff033bb,LH Ferguson,2f9d0389,PBB Rajapaksa,6c882e9a,0,0,0,0,0,,,,,,0,0,0
+1298161,2022/23,Sri Lanka,9,MD Shanaka,3ff033bb,LH Ferguson,2f9d0389,PBB Rajapaksa,6c882e9a,0,0,0,0,0,,,,,,1,0,1
+1298161,2022/23,Sri Lanka,9,PBB Rajapaksa,6c882e9a,LH Ferguson,2f9d0389,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,4,0,4
+1298161,2022/23,Sri Lanka,9,PBB Rajapaksa,6c882e9a,LH Ferguson,2f9d0389,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,0,0,0
+1298161,2022/23,Sri Lanka,9,PBB Rajapaksa,6c882e9a,LH Ferguson,2f9d0389,MD Shanaka,3ff033bb,0,0,0,0,1,PBB Rajapaksa,6c882e9a,KS Williamson,d027ba9f,caught,0,0,0
+1298161,2022/23,Sri Lanka,10,MD Shanaka,3ff033bb,MJ Santner,e4a0deae,PWH de Silva,a97c8ec2,0,0,0,0,0,,,,,,1,0,1
+1298161,2022/23,Sri Lanka,10,PWH de Silva,a97c8ec2,MJ Santner,e4a0deae,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,0,0,0
+1298161,2022/23,Sri Lanka,10,PWH de Silva,a97c8ec2,MJ Santner,e4a0deae,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,0,0,0
+1298161,2022/23,Sri Lanka,10,PWH de Silva,a97c8ec2,MJ Santner,e4a0deae,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,4,0,4
+1298161,2022/23,Sri Lanka,10,PWH de Silva,a97c8ec2,MJ Santner,e4a0deae,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,0,0,0
+1298161,2022/23,Sri Lanka,10,PWH de Silva,a97c8ec2,MJ Santner,e4a0deae,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,0,0,0
+1298161,2022/23,Sri Lanka,11,MD Shanaka,3ff033bb,IS Sodhi,641ac5ff,PWH de Silva,a97c8ec2,0,0,0,0,0,,,,,,0,0,0
+1298161,2022/23,Sri Lanka,11,MD Shanaka,3ff033bb,IS Sodhi,641ac5ff,PWH de Silva,a97c8ec2,0,0,0,0,0,,,,,,0,0,0
+1298161,2022/23,Sri Lanka,11,MD Shanaka,3ff033bb,IS Sodhi,641ac5ff,PWH de Silva,a97c8ec2,0,0,0,0,0,,,,,,1,0,1
+1298161,2022/23,Sri Lanka,11,PWH de Silva,a97c8ec2,IS Sodhi,641ac5ff,MD Shanaka,3ff033bb,0,0,0,0,1,PWH de Silva,a97c8ec2,KS Williamson,d027ba9f,caught,0,0,0
+1298161,2022/23,Sri Lanka,11,M Theekshana,f24c6701,IS Sodhi,641ac5ff,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,0,0,0
+1298161,2022/23,Sri Lanka,11,M Theekshana,f24c6701,IS Sodhi,641ac5ff,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,0,0,0
+1298161,2022/23,Sri Lanka,12,MD Shanaka,3ff033bb,MJ Santner,e4a0deae,M Theekshana,f24c6701,0,0,0,0,0,,,,,,0,0,0
+1298161,2022/23,Sri Lanka,12,MD Shanaka,3ff033bb,MJ Santner,e4a0deae,M Theekshana,f24c6701,0,0,0,0,0,,,,,,1,0,1
+1298161,2022/23,Sri Lanka,12,M Theekshana,f24c6701,MJ Santner,e4a0deae,MD Shanaka,3ff033bb,0,0,0,0,1,M Theekshana,f24c6701,JDS Neesham,9219eff0,caught,0,0,0
+1298161,2022/23,Sri Lanka,12,CAK Rajitha,8012d0b8,MJ Santner,e4a0deae,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,0,0,0
+1298161,2022/23,Sri Lanka,12,CAK Rajitha,8012d0b8,MJ Santner,e4a0deae,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,0,0,0
+1298161,2022/23,Sri Lanka,12,CAK Rajitha,8012d0b8,MJ Santner,e4a0deae,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,0,0,0
+1298161,2022/23,Sri Lanka,13,MD Shanaka,3ff033bb,LH Ferguson,2f9d0389,CAK Rajitha,8012d0b8,0,0,0,0,0,,,,,,4,0,4
+1298161,2022/23,Sri Lanka,13,MD Shanaka,3ff033bb,LH Ferguson,2f9d0389,CAK Rajitha,8012d0b8,0,0,0,0,0,,,,,,1,0,1
+1298161,2022/23,Sri Lanka,13,CAK Rajitha,8012d0b8,LH Ferguson,2f9d0389,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,2,0,2
+1298161,2022/23,Sri Lanka,13,CAK Rajitha,8012d0b8,LH Ferguson,2f9d0389,MD Shanaka,3ff033bb,1,0,0,0,0,,,,,,0,1,1
+1298161,2022/23,Sri Lanka,13,CAK Rajitha,8012d0b8,LH Ferguson,2f9d0389,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,0,0,0
+1298161,2022/23,Sri Lanka,13,CAK Rajitha,8012d0b8,LH Ferguson,2f9d0389,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,0,0,0
+1298161,2022/23,Sri Lanka,13,CAK Rajitha,8012d0b8,LH Ferguson,2f9d0389,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,0,0,0
+1298161,2022/23,Sri Lanka,14,MD Shanaka,3ff033bb,TG Southee,13c35c9e,CAK Rajitha,8012d0b8,0,0,0,0,0,,,,,,1,0,1
+1298161,2022/23,Sri Lanka,14,CAK Rajitha,8012d0b8,TG Southee,13c35c9e,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,0,0,0
+1298161,2022/23,Sri Lanka,14,CAK Rajitha,8012d0b8,TG Southee,13c35c9e,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,1,0,1
+1298161,2022/23,Sri Lanka,14,MD Shanaka,3ff033bb,TG Southee,13c35c9e,CAK Rajitha,8012d0b8,0,0,0,0,0,,,,,,6,0,6
+1298161,2022/23,Sri Lanka,14,MD Shanaka,3ff033bb,TG Southee,13c35c9e,CAK Rajitha,8012d0b8,0,0,0,0,0,,,,,,0,0,0
+1298161,2022/23,Sri Lanka,14,MD Shanaka,3ff033bb,TG Southee,13c35c9e,CAK Rajitha,8012d0b8,0,0,0,0,0,,,,,,1,0,1
+1298161,2022/23,Sri Lanka,15,MD Shanaka,3ff033bb,LH Ferguson,2f9d0389,CAK Rajitha,8012d0b8,0,0,0,0,0,,,,,,0,0,0
+1298161,2022/23,Sri Lanka,15,MD Shanaka,3ff033bb,LH Ferguson,2f9d0389,CAK Rajitha,8012d0b8,0,0,0,0,0,,,,,,2,0,2
+1298161,2022/23,Sri Lanka,15,MD Shanaka,3ff033bb,LH Ferguson,2f9d0389,CAK Rajitha,8012d0b8,0,0,0,0,0,,,,,,0,0,0
+1298161,2022/23,Sri Lanka,15,MD Shanaka,3ff033bb,LH Ferguson,2f9d0389,CAK Rajitha,8012d0b8,0,0,0,0,0,,,,,,4,0,4
+1298161,2022/23,Sri Lanka,15,MD Shanaka,3ff033bb,LH Ferguson,2f9d0389,CAK Rajitha,8012d0b8,0,0,0,0,0,,,,,,1,0,1
+1298161,2022/23,Sri Lanka,15,CAK Rajitha,8012d0b8,LH Ferguson,2f9d0389,MD Shanaka,3ff033bb,1,0,0,0,0,,,,,,0,1,1
+1298161,2022/23,Sri Lanka,15,CAK Rajitha,8012d0b8,LH Ferguson,2f9d0389,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,1,0,1
+1298161,2022/23,Sri Lanka,16,CAK Rajitha,8012d0b8,TA Boult,a818c1be,MD Shanaka,3ff033bb,1,0,0,0,0,,,,,,0,1,1
+1298161,2022/23,Sri Lanka,16,CAK Rajitha,8012d0b8,TA Boult,a818c1be,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,0,0,0
+1298161,2022/23,Sri Lanka,16,CAK Rajitha,8012d0b8,TA Boult,a818c1be,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,1,0,1
+1298161,2022/23,Sri Lanka,16,MD Shanaka,3ff033bb,TA Boult,a818c1be,CAK Rajitha,8012d0b8,0,0,0,0,0,,,,,,0,0,0
+1298161,2022/23,Sri Lanka,16,MD Shanaka,3ff033bb,TA Boult,a818c1be,CAK Rajitha,8012d0b8,0,0,0,0,0,,,,,,0,0,0
+1298161,2022/23,Sri Lanka,16,MD Shanaka,3ff033bb,TA Boult,a818c1be,CAK Rajitha,8012d0b8,0,0,0,0,0,,,,,,0,0,0
+1298161,2022/23,Sri Lanka,16,MD Shanaka,3ff033bb,TA Boult,a818c1be,CAK Rajitha,8012d0b8,0,0,0,0,1,MD Shanaka,3ff033bb,DJ Mitchell,eade4650,caught,0,0,0
+1298161,2022/23,Sri Lanka,17,CAK Rajitha,8012d0b8,IS Sodhi,641ac5ff,CBRLS Kumara,4751caa3,1,0,0,0,0,,,,,,0,1,1
+1298161,2022/23,Sri Lanka,17,CAK Rajitha,8012d0b8,IS Sodhi,641ac5ff,CBRLS Kumara,4751caa3,0,0,0,0,0,,,,,,0,0,0
+1298161,2022/23,Sri Lanka,17,CAK Rajitha,8012d0b8,IS Sodhi,641ac5ff,CBRLS Kumara,4751caa3,0,0,0,0,0,,,,,,1,0,1
+1298161,2022/23,Sri Lanka,17,CBRLS Kumara,4751caa3,IS Sodhi,641ac5ff,CAK Rajitha,8012d0b8,0,0,0,0,0,,,,,,0,0,0
+1298161,2022/23,Sri Lanka,17,CBRLS Kumara,4751caa3,IS Sodhi,641ac5ff,CAK Rajitha,8012d0b8,0,0,0,0,0,,,,,,4,0,4
+1298161,2022/23,Sri Lanka,17,CBRLS Kumara,4751caa3,IS Sodhi,641ac5ff,CAK Rajitha,8012d0b8,0,0,0,0,0,,,,,,0,0,0
+1298161,2022/23,Sri Lanka,17,CBRLS Kumara,4751caa3,IS Sodhi,641ac5ff,CAK Rajitha,8012d0b8,0,0,0,0,0,,,,,,0,0,0
+1298161,2022/23,Sri Lanka,18,CAK Rajitha,8012d0b8,TG Southee,13c35c9e,CBRLS Kumara,4751caa3,0,0,0,0,0,,,,,,0,0,0
+1298161,2022/23,Sri Lanka,18,CAK Rajitha,8012d0b8,TG Southee,13c35c9e,CBRLS Kumara,4751caa3,0,0,0,0,0,,,,,,0,0,0
+1298161,2022/23,Sri Lanka,18,CAK Rajitha,8012d0b8,TG Southee,13c35c9e,CBRLS Kumara,4751caa3,0,0,0,0,0,,,,,,0,0,0
+1298161,2022/23,Sri Lanka,18,CAK Rajitha,8012d0b8,TG Southee,13c35c9e,CBRLS Kumara,4751caa3,0,0,0,0,0,,,,,,0,0,0
+1298161,2022/23,Sri Lanka,18,CAK Rajitha,8012d0b8,TG Southee,13c35c9e,CBRLS Kumara,4751caa3,1,0,0,0,0,,,,,,0,1,1
+1298161,2022/23,Sri Lanka,18,CAK Rajitha,8012d0b8,TG Southee,13c35c9e,CBRLS Kumara,4751caa3,0,0,0,0,0,,,,,,0,0,0
+1298161,2022/23,Sri Lanka,18,CAK Rajitha,8012d0b8,TG Southee,13c35c9e,CBRLS Kumara,4751caa3,0,0,0,0,0,,,,,,1,0,1
+1298161,2022/23,Sri Lanka,19,CAK Rajitha,8012d0b8,IS Sodhi,641ac5ff,CBRLS Kumara,4751caa3,0,0,0,0,0,,,,,,1,0,1
+1298161,2022/23,Sri Lanka,19,CBRLS Kumara,4751caa3,IS Sodhi,641ac5ff,CAK Rajitha,8012d0b8,0,0,0,0,1,CBRLS Kumara,4751caa3,DP Conway,df5a6881,stumped,0,0,0

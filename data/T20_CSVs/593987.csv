@@ -1,0 +1,253 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+593987,2012/13,West Indies,0,LMP Simmons,89f64c19,CB Mpofu,49691d7a,J Charles,09a9d073,0,0,0,0,0,,,,,,0,0,0
+593987,2012/13,West Indies,0,LMP Simmons,89f64c19,CB Mpofu,49691d7a,J Charles,09a9d073,0,0,0,0,0,,,,,,0,0,0
+593987,2012/13,West Indies,0,LMP Simmons,89f64c19,CB Mpofu,49691d7a,J Charles,09a9d073,0,0,0,0,0,,,,,,2,0,2
+593987,2012/13,West Indies,0,LMP Simmons,89f64c19,CB Mpofu,49691d7a,J Charles,09a9d073,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,West Indies,0,J Charles,09a9d073,CB Mpofu,49691d7a,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,West Indies,0,LMP Simmons,89f64c19,CB Mpofu,49691d7a,J Charles,09a9d073,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,West Indies,1,LMP Simmons,89f64c19,TL Chatara,5bbabe59,J Charles,09a9d073,0,0,0,0,0,,,,,,0,0,0
+593987,2012/13,West Indies,1,LMP Simmons,89f64c19,TL Chatara,5bbabe59,J Charles,09a9d073,0,0,0,0,0,,,,,,0,0,0
+593987,2012/13,West Indies,1,LMP Simmons,89f64c19,TL Chatara,5bbabe59,J Charles,09a9d073,0,0,0,0,0,,,,,,0,0,0
+593987,2012/13,West Indies,1,LMP Simmons,89f64c19,TL Chatara,5bbabe59,J Charles,09a9d073,0,0,0,0,0,,,,,,2,0,2
+593987,2012/13,West Indies,1,LMP Simmons,89f64c19,TL Chatara,5bbabe59,J Charles,09a9d073,0,0,0,0,0,,,,,,0,0,0
+593987,2012/13,West Indies,1,LMP Simmons,89f64c19,TL Chatara,5bbabe59,J Charles,09a9d073,0,0,0,0,0,,,,,,0,0,0
+593987,2012/13,West Indies,2,J Charles,09a9d073,CB Mpofu,49691d7a,LMP Simmons,89f64c19,1,0,0,0,0,,,,,,0,1,1
+593987,2012/13,West Indies,2,J Charles,09a9d073,CB Mpofu,49691d7a,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,0,0,0
+593987,2012/13,West Indies,2,J Charles,09a9d073,CB Mpofu,49691d7a,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,0,0,0
+593987,2012/13,West Indies,2,J Charles,09a9d073,CB Mpofu,49691d7a,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,West Indies,2,LMP Simmons,89f64c19,CB Mpofu,49691d7a,J Charles,09a9d073,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,West Indies,2,J Charles,09a9d073,CB Mpofu,49691d7a,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,4,0,4
+593987,2012/13,West Indies,2,J Charles,09a9d073,CB Mpofu,49691d7a,LMP Simmons,89f64c19,0,0,1,0,0,,,,,,0,1,1
+593987,2012/13,West Indies,3,J Charles,09a9d073,TL Chatara,5bbabe59,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,4,0,4
+593987,2012/13,West Indies,3,J Charles,09a9d073,TL Chatara,5bbabe59,LMP Simmons,89f64c19,0,0,0,0,1,J Charles,09a9d073,,,bowled,0,0,0
+593987,2012/13,West Indies,3,DJ Bravo,87e562a9,TL Chatara,5bbabe59,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,0,0,0
+593987,2012/13,West Indies,3,DJ Bravo,87e562a9,TL Chatara,5bbabe59,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,0,0,0
+593987,2012/13,West Indies,3,DJ Bravo,87e562a9,TL Chatara,5bbabe59,LMP Simmons,89f64c19,1,0,0,0,0,,,,,,0,1,1
+593987,2012/13,West Indies,3,DJ Bravo,87e562a9,TL Chatara,5bbabe59,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,0,0,0
+593987,2012/13,West Indies,3,DJ Bravo,87e562a9,TL Chatara,5bbabe59,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,West Indies,4,DJ Bravo,87e562a9,P Utseya,9de271ef,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,0,0,0
+593987,2012/13,West Indies,4,DJ Bravo,87e562a9,P Utseya,9de271ef,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,0,0,0
+593987,2012/13,West Indies,4,DJ Bravo,87e562a9,P Utseya,9de271ef,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,0,0,0
+593987,2012/13,West Indies,4,DJ Bravo,87e562a9,P Utseya,9de271ef,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,0,0,0
+593987,2012/13,West Indies,4,DJ Bravo,87e562a9,P Utseya,9de271ef,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,West Indies,4,LMP Simmons,89f64c19,P Utseya,9de271ef,DJ Bravo,87e562a9,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,West Indies,5,LMP Simmons,89f64c19,TL Chatara,5bbabe59,DJ Bravo,87e562a9,0,0,0,0,0,,,,,,6,0,6
+593987,2012/13,West Indies,5,LMP Simmons,89f64c19,TL Chatara,5bbabe59,DJ Bravo,87e562a9,0,0,1,0,0,,,,,,0,1,1
+593987,2012/13,West Indies,5,DJ Bravo,87e562a9,TL Chatara,5bbabe59,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,2,0,2
+593987,2012/13,West Indies,5,DJ Bravo,87e562a9,TL Chatara,5bbabe59,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,West Indies,5,LMP Simmons,89f64c19,TL Chatara,5bbabe59,DJ Bravo,87e562a9,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,West Indies,5,DJ Bravo,87e562a9,TL Chatara,5bbabe59,LMP Simmons,89f64c19,0,1,0,0,0,,,,,,0,1,1
+593987,2012/13,West Indies,5,DJ Bravo,87e562a9,TL Chatara,5bbabe59,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,4,0,4
+593987,2012/13,West Indies,6,LMP Simmons,89f64c19,P Utseya,9de271ef,DJ Bravo,87e562a9,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,West Indies,6,DJ Bravo,87e562a9,P Utseya,9de271ef,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,West Indies,6,LMP Simmons,89f64c19,P Utseya,9de271ef,DJ Bravo,87e562a9,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,West Indies,6,DJ Bravo,87e562a9,P Utseya,9de271ef,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,West Indies,6,LMP Simmons,89f64c19,P Utseya,9de271ef,DJ Bravo,87e562a9,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,West Indies,6,DJ Bravo,87e562a9,P Utseya,9de271ef,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,West Indies,7,DJ Bravo,87e562a9,N M'shangwe,dd468277,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,0,0,0
+593987,2012/13,West Indies,7,DJ Bravo,87e562a9,N M'shangwe,dd468277,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,West Indies,7,LMP Simmons,89f64c19,N M'shangwe,dd468277,DJ Bravo,87e562a9,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,West Indies,7,DJ Bravo,87e562a9,N M'shangwe,dd468277,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,West Indies,7,LMP Simmons,89f64c19,N M'shangwe,dd468277,DJ Bravo,87e562a9,0,0,0,0,0,,,,,,0,0,0
+593987,2012/13,West Indies,7,LMP Simmons,89f64c19,N M'shangwe,dd468277,DJ Bravo,87e562a9,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,West Indies,8,LMP Simmons,89f64c19,CT Mutombodzi,26f12506,DJ Bravo,87e562a9,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,West Indies,8,DJ Bravo,87e562a9,CT Mutombodzi,26f12506,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,2,0,2
+593987,2012/13,West Indies,8,DJ Bravo,87e562a9,CT Mutombodzi,26f12506,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,0,0,0
+593987,2012/13,West Indies,8,DJ Bravo,87e562a9,CT Mutombodzi,26f12506,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,West Indies,8,LMP Simmons,89f64c19,CT Mutombodzi,26f12506,DJ Bravo,87e562a9,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,West Indies,8,DJ Bravo,87e562a9,CT Mutombodzi,26f12506,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,West Indies,9,DJ Bravo,87e562a9,N M'shangwe,dd468277,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,6,0,6
+593987,2012/13,West Indies,9,DJ Bravo,87e562a9,N M'shangwe,dd468277,LMP Simmons,89f64c19,0,0,0,0,1,DJ Bravo,87e562a9,BRM Taylor,53597be1,caught,0,0,0
+593987,2012/13,West Indies,9,CD Barnwell,0d51e658,N M'shangwe,dd468277,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,2,0,2
+593987,2012/13,West Indies,9,CD Barnwell,0d51e658,N M'shangwe,dd468277,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,0,0,0
+593987,2012/13,West Indies,9,CD Barnwell,0d51e658,N M'shangwe,dd468277,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,West Indies,9,LMP Simmons,89f64c19,N M'shangwe,dd468277,CD Barnwell,0d51e658,0,0,0,0,0,,,,,,0,0,0
+593987,2012/13,West Indies,10,CD Barnwell,0d51e658,CT Mutombodzi,26f12506,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,0,0,0
+593987,2012/13,West Indies,10,CD Barnwell,0d51e658,CT Mutombodzi,26f12506,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,0,0,0
+593987,2012/13,West Indies,10,CD Barnwell,0d51e658,CT Mutombodzi,26f12506,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,West Indies,10,LMP Simmons,89f64c19,CT Mutombodzi,26f12506,CD Barnwell,0d51e658,0,0,0,0,0,,,,,,0,0,0
+593987,2012/13,West Indies,10,LMP Simmons,89f64c19,CT Mutombodzi,26f12506,CD Barnwell,0d51e658,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,West Indies,10,CD Barnwell,0d51e658,CT Mutombodzi,26f12506,LMP Simmons,89f64c19,1,0,0,0,0,,,,,,0,1,1
+593987,2012/13,West Indies,10,CD Barnwell,0d51e658,CT Mutombodzi,26f12506,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,West Indies,11,CD Barnwell,0d51e658,N M'shangwe,dd468277,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,West Indies,11,LMP Simmons,89f64c19,N M'shangwe,dd468277,CD Barnwell,0d51e658,0,0,0,0,0,,,,,,2,0,2
+593987,2012/13,West Indies,11,LMP Simmons,89f64c19,N M'shangwe,dd468277,CD Barnwell,0d51e658,0,0,0,0,0,,,,,,4,0,4
+593987,2012/13,West Indies,11,LMP Simmons,89f64c19,N M'shangwe,dd468277,CD Barnwell,0d51e658,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,West Indies,11,CD Barnwell,0d51e658,N M'shangwe,dd468277,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,West Indies,11,LMP Simmons,89f64c19,N M'shangwe,dd468277,CD Barnwell,0d51e658,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,West Indies,12,LMP Simmons,89f64c19,P Utseya,9de271ef,CD Barnwell,0d51e658,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,West Indies,12,CD Barnwell,0d51e658,P Utseya,9de271ef,LMP Simmons,89f64c19,0,0,0,0,1,CD Barnwell,0d51e658,,,bowled,0,0,0
+593987,2012/13,West Indies,12,KA Pollard,a757b0d8,P Utseya,9de271ef,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,West Indies,12,LMP Simmons,89f64c19,P Utseya,9de271ef,KA Pollard,a757b0d8,1,0,0,0,0,,,,,,0,1,1
+593987,2012/13,West Indies,12,LMP Simmons,89f64c19,P Utseya,9de271ef,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,0,0,0
+593987,2012/13,West Indies,12,LMP Simmons,89f64c19,P Utseya,9de271ef,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,0,0,0
+593987,2012/13,West Indies,12,LMP Simmons,89f64c19,P Utseya,9de271ef,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,West Indies,13,LMP Simmons,89f64c19,N M'shangwe,dd468277,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,West Indies,13,KA Pollard,a757b0d8,N M'shangwe,dd468277,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,West Indies,13,LMP Simmons,89f64c19,N M'shangwe,dd468277,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,West Indies,13,KA Pollard,a757b0d8,N M'shangwe,dd468277,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,West Indies,13,LMP Simmons,89f64c19,N M'shangwe,dd468277,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,6,0,6
+593987,2012/13,West Indies,13,LMP Simmons,89f64c19,N M'shangwe,dd468277,KA Pollard,a757b0d8,0,0,0,0,1,LMP Simmons,89f64c19,CR Ervine,c96311d4,caught,0,0,0
+593987,2012/13,West Indies,14,KA Pollard,a757b0d8,CT Mutombodzi,26f12506,DJG Sammy,c03c6200,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,West Indies,14,DJG Sammy,c03c6200,CT Mutombodzi,26f12506,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,West Indies,14,KA Pollard,a757b0d8,CT Mutombodzi,26f12506,DJG Sammy,c03c6200,0,0,0,0,0,,,,,,4,0,4
+593987,2012/13,West Indies,14,KA Pollard,a757b0d8,CT Mutombodzi,26f12506,DJG Sammy,c03c6200,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,West Indies,14,DJG Sammy,c03c6200,CT Mutombodzi,26f12506,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,0,0,0
+593987,2012/13,West Indies,14,DJG Sammy,c03c6200,CT Mutombodzi,26f12506,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,0,0,0
+593987,2012/13,West Indies,15,KA Pollard,a757b0d8,CB Mpofu,49691d7a,DJG Sammy,c03c6200,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,West Indies,15,DJG Sammy,c03c6200,CB Mpofu,49691d7a,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,West Indies,15,KA Pollard,a757b0d8,CB Mpofu,49691d7a,DJG Sammy,c03c6200,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,West Indies,15,DJG Sammy,c03c6200,CB Mpofu,49691d7a,KA Pollard,a757b0d8,1,0,0,0,0,,,,,,0,1,1
+593987,2012/13,West Indies,15,DJG Sammy,c03c6200,CB Mpofu,49691d7a,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,6,0,6
+593987,2012/13,West Indies,15,DJG Sammy,c03c6200,CB Mpofu,49691d7a,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,West Indies,15,KA Pollard,a757b0d8,CB Mpofu,49691d7a,DJG Sammy,c03c6200,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,West Indies,16,KA Pollard,a757b0d8,P Utseya,9de271ef,DJG Sammy,c03c6200,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,West Indies,16,DJG Sammy,c03c6200,P Utseya,9de271ef,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,4,0,4
+593987,2012/13,West Indies,16,DJG Sammy,c03c6200,P Utseya,9de271ef,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,West Indies,16,KA Pollard,a757b0d8,P Utseya,9de271ef,DJG Sammy,c03c6200,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,West Indies,16,DJG Sammy,c03c6200,P Utseya,9de271ef,KA Pollard,a757b0d8,2,0,0,0,0,,,,,,0,2,2
+593987,2012/13,West Indies,16,KA Pollard,a757b0d8,P Utseya,9de271ef,DJG Sammy,c03c6200,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,West Indies,16,DJG Sammy,c03c6200,P Utseya,9de271ef,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,0,0,0
+593987,2012/13,West Indies,17,KA Pollard,a757b0d8,TL Chatara,5bbabe59,DJG Sammy,c03c6200,0,0,0,0,0,,,,,,6,0,6
+593987,2012/13,West Indies,17,KA Pollard,a757b0d8,TL Chatara,5bbabe59,DJG Sammy,c03c6200,1,0,0,0,0,,,,,,0,1,1
+593987,2012/13,West Indies,17,KA Pollard,a757b0d8,TL Chatara,5bbabe59,DJG Sammy,c03c6200,0,0,0,0,0,,,,,,6,0,6
+593987,2012/13,West Indies,17,KA Pollard,a757b0d8,TL Chatara,5bbabe59,DJG Sammy,c03c6200,0,0,0,0,0,,,,,,4,0,4
+593987,2012/13,West Indies,17,KA Pollard,a757b0d8,TL Chatara,5bbabe59,DJG Sammy,c03c6200,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,West Indies,17,DJG Sammy,c03c6200,TL Chatara,5bbabe59,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,West Indies,17,KA Pollard,a757b0d8,TL Chatara,5bbabe59,DJG Sammy,c03c6200,0,0,0,0,0,,,,,,4,0,4
+593987,2012/13,West Indies,18,DJG Sammy,c03c6200,CT Mutombodzi,26f12506,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,4,0,4
+593987,2012/13,West Indies,18,DJG Sammy,c03c6200,CT Mutombodzi,26f12506,KA Pollard,a757b0d8,0,0,0,0,1,DJG Sammy,c03c6200,V Sibanda,0fdabe05,caught,0,0,0
+593987,2012/13,West Indies,18,KA Pollard,a757b0d8,CT Mutombodzi,26f12506,AD Russell,bbd41817,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,West Indies,18,AD Russell,bbd41817,CT Mutombodzi,26f12506,KA Pollard,a757b0d8,0,0,0,0,1,AD Russell,bbd41817,CR Ervine,c96311d4,caught,0,0,0
+593987,2012/13,West Indies,18,KA Pollard,a757b0d8,CT Mutombodzi,26f12506,D Ramdin,d1523761,0,0,0,0,0,,,,,,0,0,0
+593987,2012/13,West Indies,18,KA Pollard,a757b0d8,CT Mutombodzi,26f12506,D Ramdin,d1523761,0,0,0,0,0,,,,,,6,0,6
+593987,2012/13,West Indies,19,D Ramdin,d1523761,CB Mpofu,49691d7a,KA Pollard,a757b0d8,0,0,0,0,1,D Ramdin,d1523761,,,bowled,0,0,0
+593987,2012/13,West Indies,19,SP Narine,9d430b40,CB Mpofu,49691d7a,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,West Indies,19,KA Pollard,a757b0d8,CB Mpofu,49691d7a,SP Narine,9d430b40,0,0,0,0,0,,,,,,0,0,0
+593987,2012/13,West Indies,19,KA Pollard,a757b0d8,CB Mpofu,49691d7a,SP Narine,9d430b40,0,0,0,0,0,,,,,,2,0,2
+593987,2012/13,West Indies,19,KA Pollard,a757b0d8,CB Mpofu,49691d7a,SP Narine,9d430b40,0,0,0,0,0,,,,,,0,0,0
+593987,2012/13,West Indies,19,KA Pollard,a757b0d8,CB Mpofu,49691d7a,SP Narine,9d430b40,0,0,0,0,0,,,,,,0,0,0
+593987,2012/13,Zimbabwe,0,CJ Chibhabha,f32dbc84,ST Gabriel,d9609443,V Sibanda,0fdabe05,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,Zimbabwe,0,V Sibanda,0fdabe05,ST Gabriel,d9609443,CJ Chibhabha,f32dbc84,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,Zimbabwe,0,CJ Chibhabha,f32dbc84,ST Gabriel,d9609443,V Sibanda,0fdabe05,0,0,0,0,0,,,,,,4,0,4
+593987,2012/13,Zimbabwe,0,CJ Chibhabha,f32dbc84,ST Gabriel,d9609443,V Sibanda,0fdabe05,0,0,0,0,0,,,,,,0,0,0
+593987,2012/13,Zimbabwe,0,CJ Chibhabha,f32dbc84,ST Gabriel,d9609443,V Sibanda,0fdabe05,0,0,0,0,0,,,,,,0,0,0
+593987,2012/13,Zimbabwe,0,CJ Chibhabha,f32dbc84,ST Gabriel,d9609443,V Sibanda,0fdabe05,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,Zimbabwe,1,CJ Chibhabha,f32dbc84,S Badree,76388dc8,V Sibanda,0fdabe05,0,0,0,0,0,,,,,,0,0,0
+593987,2012/13,Zimbabwe,1,CJ Chibhabha,f32dbc84,S Badree,76388dc8,V Sibanda,0fdabe05,0,0,0,0,0,,,,,,0,0,0
+593987,2012/13,Zimbabwe,1,CJ Chibhabha,f32dbc84,S Badree,76388dc8,V Sibanda,0fdabe05,0,0,0,0,0,,,,,,4,0,4
+593987,2012/13,Zimbabwe,1,CJ Chibhabha,f32dbc84,S Badree,76388dc8,V Sibanda,0fdabe05,0,0,0,0,0,,,,,,0,0,0
+593987,2012/13,Zimbabwe,1,CJ Chibhabha,f32dbc84,S Badree,76388dc8,V Sibanda,0fdabe05,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,Zimbabwe,1,V Sibanda,0fdabe05,S Badree,76388dc8,CJ Chibhabha,f32dbc84,0,0,0,0,0,,,,,,0,0,0
+593987,2012/13,Zimbabwe,2,CJ Chibhabha,f32dbc84,ST Gabriel,d9609443,V Sibanda,0fdabe05,0,0,0,0,0,,,,,,0,0,0
+593987,2012/13,Zimbabwe,2,CJ Chibhabha,f32dbc84,ST Gabriel,d9609443,V Sibanda,0fdabe05,0,0,0,0,0,,,,,,0,0,0
+593987,2012/13,Zimbabwe,2,CJ Chibhabha,f32dbc84,ST Gabriel,d9609443,V Sibanda,0fdabe05,0,0,0,0,0,,,,,,2,0,2
+593987,2012/13,Zimbabwe,2,CJ Chibhabha,f32dbc84,ST Gabriel,d9609443,V Sibanda,0fdabe05,0,0,1,0,0,,,,,,0,1,1
+593987,2012/13,Zimbabwe,2,V Sibanda,0fdabe05,ST Gabriel,d9609443,CJ Chibhabha,f32dbc84,0,0,0,0,0,,,,,,0,0,0
+593987,2012/13,Zimbabwe,2,V Sibanda,0fdabe05,ST Gabriel,d9609443,CJ Chibhabha,f32dbc84,0,0,0,0,0,,,,,,2,0,2
+593987,2012/13,Zimbabwe,3,CJ Chibhabha,f32dbc84,S Badree,76388dc8,V Sibanda,0fdabe05,0,0,0,0,1,CJ Chibhabha,f32dbc84,,,bowled,0,0,0
+593987,2012/13,Zimbabwe,3,H Masakadza,31fbf891,S Badree,76388dc8,V Sibanda,0fdabe05,0,0,0,0,0,,,,,,0,0,0
+593987,2012/13,Zimbabwe,3,H Masakadza,31fbf891,S Badree,76388dc8,V Sibanda,0fdabe05,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,Zimbabwe,3,V Sibanda,0fdabe05,S Badree,76388dc8,H Masakadza,31fbf891,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,Zimbabwe,3,H Masakadza,31fbf891,S Badree,76388dc8,V Sibanda,0fdabe05,0,0,0,0,0,,,,,,0,0,0
+593987,2012/13,Zimbabwe,3,H Masakadza,31fbf891,S Badree,76388dc8,V Sibanda,0fdabe05,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,Zimbabwe,4,H Masakadza,31fbf891,ST Gabriel,d9609443,V Sibanda,0fdabe05,0,0,0,0,0,,,,,,0,0,0
+593987,2012/13,Zimbabwe,4,H Masakadza,31fbf891,ST Gabriel,d9609443,V Sibanda,0fdabe05,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,Zimbabwe,4,V Sibanda,0fdabe05,ST Gabriel,d9609443,H Masakadza,31fbf891,0,0,1,0,0,,,,,,0,1,1
+593987,2012/13,Zimbabwe,4,H Masakadza,31fbf891,ST Gabriel,d9609443,V Sibanda,0fdabe05,0,0,0,0,0,,,,,,0,0,0
+593987,2012/13,Zimbabwe,4,H Masakadza,31fbf891,ST Gabriel,d9609443,V Sibanda,0fdabe05,0,0,0,0,0,,,,,,0,0,0
+593987,2012/13,Zimbabwe,4,H Masakadza,31fbf891,ST Gabriel,d9609443,V Sibanda,0fdabe05,0,0,0,0,0,,,,,,0,0,0
+593987,2012/13,Zimbabwe,5,V Sibanda,0fdabe05,S Badree,76388dc8,H Masakadza,31fbf891,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,Zimbabwe,5,H Masakadza,31fbf891,S Badree,76388dc8,V Sibanda,0fdabe05,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,Zimbabwe,5,V Sibanda,0fdabe05,S Badree,76388dc8,H Masakadza,31fbf891,1,0,0,0,0,,,,,,0,1,1
+593987,2012/13,Zimbabwe,5,V Sibanda,0fdabe05,S Badree,76388dc8,H Masakadza,31fbf891,0,0,0,0,1,V Sibanda,0fdabe05,DJ Bravo,87e562a9,caught,0,0,0
+593987,2012/13,Zimbabwe,5,BRM Taylor,53597be1,S Badree,76388dc8,H Masakadza,31fbf891,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,Zimbabwe,5,H Masakadza,31fbf891,S Badree,76388dc8,BRM Taylor,53597be1,0,0,0,0,0,,,,,,0,0,0
+593987,2012/13,Zimbabwe,5,H Masakadza,31fbf891,S Badree,76388dc8,BRM Taylor,53597be1,0,0,0,0,0,,,,,,0,0,0
+593987,2012/13,Zimbabwe,6,BRM Taylor,53597be1,DJG Sammy,c03c6200,H Masakadza,31fbf891,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,Zimbabwe,6,H Masakadza,31fbf891,DJG Sammy,c03c6200,BRM Taylor,53597be1,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,Zimbabwe,6,BRM Taylor,53597be1,DJG Sammy,c03c6200,H Masakadza,31fbf891,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,Zimbabwe,6,H Masakadza,31fbf891,DJG Sammy,c03c6200,BRM Taylor,53597be1,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,Zimbabwe,6,BRM Taylor,53597be1,DJG Sammy,c03c6200,H Masakadza,31fbf891,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,Zimbabwe,6,H Masakadza,31fbf891,DJG Sammy,c03c6200,BRM Taylor,53597be1,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,Zimbabwe,7,H Masakadza,31fbf891,S Badree,76388dc8,BRM Taylor,53597be1,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,Zimbabwe,7,BRM Taylor,53597be1,S Badree,76388dc8,H Masakadza,31fbf891,0,0,0,0,1,BRM Taylor,53597be1,DJG Sammy,c03c6200,caught,0,0,0
+593987,2012/13,Zimbabwe,7,CR Ervine,c96311d4,S Badree,76388dc8,H Masakadza,31fbf891,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,Zimbabwe,7,H Masakadza,31fbf891,S Badree,76388dc8,CR Ervine,c96311d4,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,Zimbabwe,7,CR Ervine,c96311d4,S Badree,76388dc8,H Masakadza,31fbf891,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,Zimbabwe,7,H Masakadza,31fbf891,S Badree,76388dc8,CR Ervine,c96311d4,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,Zimbabwe,8,H Masakadza,31fbf891,DJG Sammy,c03c6200,CR Ervine,c96311d4,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,Zimbabwe,8,CR Ervine,c96311d4,DJG Sammy,c03c6200,H Masakadza,31fbf891,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,Zimbabwe,8,H Masakadza,31fbf891,DJG Sammy,c03c6200,CR Ervine,c96311d4,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,Zimbabwe,8,CR Ervine,c96311d4,DJG Sammy,c03c6200,H Masakadza,31fbf891,0,0,0,0,0,,,,,,4,0,4
+593987,2012/13,Zimbabwe,8,CR Ervine,c96311d4,DJG Sammy,c03c6200,H Masakadza,31fbf891,0,0,0,0,0,,,,,,0,0,0
+593987,2012/13,Zimbabwe,8,CR Ervine,c96311d4,DJG Sammy,c03c6200,H Masakadza,31fbf891,0,0,0,0,0,,,,,,0,0,0
+593987,2012/13,Zimbabwe,9,H Masakadza,31fbf891,SP Narine,9d430b40,CR Ervine,c96311d4,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,Zimbabwe,9,CR Ervine,c96311d4,SP Narine,9d430b40,H Masakadza,31fbf891,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,Zimbabwe,9,H Masakadza,31fbf891,SP Narine,9d430b40,CR Ervine,c96311d4,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,Zimbabwe,9,CR Ervine,c96311d4,SP Narine,9d430b40,H Masakadza,31fbf891,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,Zimbabwe,9,H Masakadza,31fbf891,SP Narine,9d430b40,CR Ervine,c96311d4,0,0,0,0,0,,,,,,0,0,0
+593987,2012/13,Zimbabwe,9,H Masakadza,31fbf891,SP Narine,9d430b40,CR Ervine,c96311d4,0,0,0,0,0,,,,,,4,0,4
+593987,2012/13,Zimbabwe,10,CR Ervine,c96311d4,DJ Bravo,87e562a9,H Masakadza,31fbf891,0,0,0,0,0,,,,,,0,0,0
+593987,2012/13,Zimbabwe,10,CR Ervine,c96311d4,DJ Bravo,87e562a9,H Masakadza,31fbf891,0,0,0,0,0,,,,,,0,0,0
+593987,2012/13,Zimbabwe,10,CR Ervine,c96311d4,DJ Bravo,87e562a9,H Masakadza,31fbf891,0,0,0,0,0,,,,,,3,0,3
+593987,2012/13,Zimbabwe,10,H Masakadza,31fbf891,DJ Bravo,87e562a9,CR Ervine,c96311d4,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,Zimbabwe,10,CR Ervine,c96311d4,DJ Bravo,87e562a9,H Masakadza,31fbf891,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,Zimbabwe,10,H Masakadza,31fbf891,DJ Bravo,87e562a9,CR Ervine,c96311d4,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,Zimbabwe,11,H Masakadza,31fbf891,SP Narine,9d430b40,CR Ervine,c96311d4,0,0,0,0,0,,,,,,0,0,0
+593987,2012/13,Zimbabwe,11,H Masakadza,31fbf891,SP Narine,9d430b40,CR Ervine,c96311d4,0,0,0,0,0,,,,,,4,0,4
+593987,2012/13,Zimbabwe,11,H Masakadza,31fbf891,SP Narine,9d430b40,CR Ervine,c96311d4,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,Zimbabwe,11,CR Ervine,c96311d4,SP Narine,9d430b40,H Masakadza,31fbf891,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,Zimbabwe,11,H Masakadza,31fbf891,SP Narine,9d430b40,CR Ervine,c96311d4,0,0,0,0,0,,,,,,0,0,0
+593987,2012/13,Zimbabwe,11,H Masakadza,31fbf891,SP Narine,9d430b40,CR Ervine,c96311d4,0,0,0,0,0,,,,,,0,0,0
+593987,2012/13,Zimbabwe,12,CR Ervine,c96311d4,DJ Bravo,87e562a9,H Masakadza,31fbf891,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,Zimbabwe,12,H Masakadza,31fbf891,DJ Bravo,87e562a9,CR Ervine,c96311d4,0,0,0,0,0,,,,,,2,0,2
+593987,2012/13,Zimbabwe,12,H Masakadza,31fbf891,DJ Bravo,87e562a9,CR Ervine,c96311d4,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,Zimbabwe,12,CR Ervine,c96311d4,DJ Bravo,87e562a9,H Masakadza,31fbf891,0,0,0,0,0,,,,,,0,0,0
+593987,2012/13,Zimbabwe,12,CR Ervine,c96311d4,DJ Bravo,87e562a9,H Masakadza,31fbf891,0,0,0,0,1,CR Ervine,c96311d4,,,caught and bowled,0,0,0
+593987,2012/13,Zimbabwe,12,H Masakadza,31fbf891,DJ Bravo,87e562a9,MN Waller,ec4dada1,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,Zimbabwe,13,H Masakadza,31fbf891,SP Narine,9d430b40,MN Waller,ec4dada1,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,Zimbabwe,13,MN Waller,ec4dada1,SP Narine,9d430b40,H Masakadza,31fbf891,0,0,0,0,0,,,,,,0,0,0
+593987,2012/13,Zimbabwe,13,MN Waller,ec4dada1,SP Narine,9d430b40,H Masakadza,31fbf891,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,Zimbabwe,13,H Masakadza,31fbf891,SP Narine,9d430b40,MN Waller,ec4dada1,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,Zimbabwe,13,MN Waller,ec4dada1,SP Narine,9d430b40,H Masakadza,31fbf891,0,0,0,0,0,,,,,,0,0,0
+593987,2012/13,Zimbabwe,13,MN Waller,ec4dada1,SP Narine,9d430b40,H Masakadza,31fbf891,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,Zimbabwe,14,MN Waller,ec4dada1,AD Russell,bbd41817,H Masakadza,31fbf891,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,Zimbabwe,14,H Masakadza,31fbf891,AD Russell,bbd41817,MN Waller,ec4dada1,0,0,0,0,0,,,,,,0,0,0
+593987,2012/13,Zimbabwe,14,H Masakadza,31fbf891,AD Russell,bbd41817,MN Waller,ec4dada1,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,Zimbabwe,14,MN Waller,ec4dada1,AD Russell,bbd41817,H Masakadza,31fbf891,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,Zimbabwe,14,H Masakadza,31fbf891,AD Russell,bbd41817,MN Waller,ec4dada1,0,0,0,0,0,,,,,,4,0,4
+593987,2012/13,Zimbabwe,14,H Masakadza,31fbf891,AD Russell,bbd41817,MN Waller,ec4dada1,0,0,0,0,0,,,,,,4,0,4
+593987,2012/13,Zimbabwe,15,MN Waller,ec4dada1,KA Pollard,a757b0d8,H Masakadza,31fbf891,0,0,0,0,0,,,,,,0,0,0
+593987,2012/13,Zimbabwe,15,MN Waller,ec4dada1,KA Pollard,a757b0d8,H Masakadza,31fbf891,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,Zimbabwe,15,H Masakadza,31fbf891,KA Pollard,a757b0d8,MN Waller,ec4dada1,1,0,0,0,0,,,,,,0,1,1
+593987,2012/13,Zimbabwe,15,H Masakadza,31fbf891,KA Pollard,a757b0d8,MN Waller,ec4dada1,0,0,1,0,0,,,,,,0,1,1
+593987,2012/13,Zimbabwe,15,MN Waller,ec4dada1,KA Pollard,a757b0d8,H Masakadza,31fbf891,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,Zimbabwe,15,H Masakadza,31fbf891,KA Pollard,a757b0d8,MN Waller,ec4dada1,0,0,0,0,0,,,,,,0,0,0
+593987,2012/13,Zimbabwe,15,H Masakadza,31fbf891,KA Pollard,a757b0d8,MN Waller,ec4dada1,0,0,0,0,0,,,,,,2,0,2
+593987,2012/13,Zimbabwe,16,MN Waller,ec4dada1,DJ Bravo,87e562a9,H Masakadza,31fbf891,0,0,0,0,1,MN Waller,ec4dada1,LMP Simmons,89f64c19,run out,1,0,1
+593987,2012/13,Zimbabwe,16,CT Mutombodzi,26f12506,DJ Bravo,87e562a9,H Masakadza,31fbf891,1,0,0,0,0,,,,,,0,1,1
+593987,2012/13,Zimbabwe,16,CT Mutombodzi,26f12506,DJ Bravo,87e562a9,H Masakadza,31fbf891,0,0,0,0,0,,,,,,0,0,0
+593987,2012/13,Zimbabwe,16,CT Mutombodzi,26f12506,DJ Bravo,87e562a9,H Masakadza,31fbf891,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,Zimbabwe,16,H Masakadza,31fbf891,DJ Bravo,87e562a9,CT Mutombodzi,26f12506,0,0,0,0,0,,,,,,0,0,0
+593987,2012/13,Zimbabwe,16,H Masakadza,31fbf891,DJ Bravo,87e562a9,CT Mutombodzi,26f12506,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,Zimbabwe,16,CT Mutombodzi,26f12506,DJ Bravo,87e562a9,H Masakadza,31fbf891,0,0,0,0,1,CT Mutombodzi,26f12506,,,caught and bowled,0,0,0
+593987,2012/13,Zimbabwe,17,P Utseya,9de271ef,SP Narine,9d430b40,H Masakadza,31fbf891,0,0,0,0,0,,,,,,0,0,0
+593987,2012/13,Zimbabwe,17,P Utseya,9de271ef,SP Narine,9d430b40,H Masakadza,31fbf891,0,0,0,0,0,,,,,,0,0,0
+593987,2012/13,Zimbabwe,17,P Utseya,9de271ef,SP Narine,9d430b40,H Masakadza,31fbf891,0,0,0,0,0,,,,,,4,0,4
+593987,2012/13,Zimbabwe,17,P Utseya,9de271ef,SP Narine,9d430b40,H Masakadza,31fbf891,0,0,0,0,0,,,,,,0,0,0
+593987,2012/13,Zimbabwe,17,P Utseya,9de271ef,SP Narine,9d430b40,H Masakadza,31fbf891,0,0,0,0,0,,,,,,0,0,0
+593987,2012/13,Zimbabwe,17,P Utseya,9de271ef,SP Narine,9d430b40,H Masakadza,31fbf891,0,0,1,0,0,,,,,,0,1,1
+593987,2012/13,Zimbabwe,18,P Utseya,9de271ef,AD Russell,bbd41817,H Masakadza,31fbf891,0,0,0,0,0,,,,,,0,0,0
+593987,2012/13,Zimbabwe,18,P Utseya,9de271ef,AD Russell,bbd41817,H Masakadza,31fbf891,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,Zimbabwe,18,H Masakadza,31fbf891,AD Russell,bbd41817,P Utseya,9de271ef,0,0,0,0,0,,,,,,0,0,0
+593987,2012/13,Zimbabwe,18,H Masakadza,31fbf891,AD Russell,bbd41817,P Utseya,9de271ef,0,0,0,0,0,,,,,,4,0,4
+593987,2012/13,Zimbabwe,18,H Masakadza,31fbf891,AD Russell,bbd41817,P Utseya,9de271ef,0,0,0,0,0,,,,,,4,0,4
+593987,2012/13,Zimbabwe,18,H Masakadza,31fbf891,AD Russell,bbd41817,P Utseya,9de271ef,1,0,0,0,0,,,,,,0,1,1
+593987,2012/13,Zimbabwe,18,H Masakadza,31fbf891,AD Russell,bbd41817,P Utseya,9de271ef,0,0,0,0,0,,,,,,0,0,0
+593987,2012/13,Zimbabwe,19,P Utseya,9de271ef,CD Barnwell,0d51e658,H Masakadza,31fbf891,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,Zimbabwe,19,H Masakadza,31fbf891,CD Barnwell,0d51e658,P Utseya,9de271ef,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,Zimbabwe,19,P Utseya,9de271ef,CD Barnwell,0d51e658,H Masakadza,31fbf891,0,0,0,0,0,,,,,,4,0,4
+593987,2012/13,Zimbabwe,19,P Utseya,9de271ef,CD Barnwell,0d51e658,H Masakadza,31fbf891,0,0,0,0,0,,,,,,0,0,0
+593987,2012/13,Zimbabwe,19,P Utseya,9de271ef,CD Barnwell,0d51e658,H Masakadza,31fbf891,0,0,0,0,0,,,,,,1,0,1
+593987,2012/13,Zimbabwe,19,H Masakadza,31fbf891,CD Barnwell,0d51e658,P Utseya,9de271ef,0,0,0,0,0,,,,,,1,0,1

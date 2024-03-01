@@ -1,0 +1,232 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1310940,2022,Namibia,0,CG Williams,e16e7347,DT Tiripano,dbfb8218,D la Cock,48301a4b,0,0,0,0,0,,,,,,3,0,3
+1310940,2022,Namibia,0,D la Cock,48301a4b,DT Tiripano,dbfb8218,CG Williams,e16e7347,0,0,0,0,0,,,,,,0,0,0
+1310940,2022,Namibia,0,D la Cock,48301a4b,DT Tiripano,dbfb8218,CG Williams,e16e7347,0,0,0,0,0,,,,,,0,0,0
+1310940,2022,Namibia,0,D la Cock,48301a4b,DT Tiripano,dbfb8218,CG Williams,e16e7347,0,0,0,0,0,,,,,,0,0,0
+1310940,2022,Namibia,0,D la Cock,48301a4b,DT Tiripano,dbfb8218,CG Williams,e16e7347,0,0,0,0,0,,,,,,4,0,4
+1310940,2022,Namibia,0,D la Cock,48301a4b,DT Tiripano,dbfb8218,CG Williams,e16e7347,0,0,0,0,0,,,,,,0,0,0
+1310940,2022,Namibia,1,CG Williams,e16e7347,TL Chatara,5bbabe59,D la Cock,48301a4b,0,0,0,0,0,,,,,,0,0,0
+1310940,2022,Namibia,1,CG Williams,e16e7347,TL Chatara,5bbabe59,D la Cock,48301a4b,0,0,0,0,0,,,,,,0,0,0
+1310940,2022,Namibia,1,CG Williams,e16e7347,TL Chatara,5bbabe59,D la Cock,48301a4b,0,0,0,0,1,CG Williams,e16e7347,,,bowled,0,0,0
+1310940,2022,Namibia,1,JN Loftie-Eaton,f468293b,TL Chatara,5bbabe59,D la Cock,48301a4b,0,0,0,0,0,,,,,,0,0,0
+1310940,2022,Namibia,1,JN Loftie-Eaton,f468293b,TL Chatara,5bbabe59,D la Cock,48301a4b,0,0,0,0,0,,,,,,4,0,4
+1310940,2022,Namibia,1,JN Loftie-Eaton,f468293b,TL Chatara,5bbabe59,D la Cock,48301a4b,0,0,0,0,0,,,,,,0,0,0
+1310940,2022,Namibia,2,D la Cock,48301a4b,DT Tiripano,dbfb8218,JN Loftie-Eaton,f468293b,1,0,0,0,0,,,,,,0,1,1
+1310940,2022,Namibia,2,D la Cock,48301a4b,DT Tiripano,dbfb8218,JN Loftie-Eaton,f468293b,0,0,0,0,0,,,,,,0,0,0
+1310940,2022,Namibia,2,D la Cock,48301a4b,DT Tiripano,dbfb8218,JN Loftie-Eaton,f468293b,0,0,0,0,0,,,,,,4,0,4
+1310940,2022,Namibia,2,D la Cock,48301a4b,DT Tiripano,dbfb8218,JN Loftie-Eaton,f468293b,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Namibia,2,JN Loftie-Eaton,f468293b,DT Tiripano,dbfb8218,D la Cock,48301a4b,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Namibia,2,D la Cock,48301a4b,DT Tiripano,dbfb8218,JN Loftie-Eaton,f468293b,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Namibia,2,JN Loftie-Eaton,f468293b,DT Tiripano,dbfb8218,D la Cock,48301a4b,0,0,0,0,0,,,,,,0,0,0
+1310940,2022,Namibia,3,D la Cock,48301a4b,TL Chatara,5bbabe59,JN Loftie-Eaton,f468293b,0,0,0,0,0,,,,,,4,0,4
+1310940,2022,Namibia,3,D la Cock,48301a4b,TL Chatara,5bbabe59,JN Loftie-Eaton,f468293b,0,0,0,0,0,,,,,,0,0,0
+1310940,2022,Namibia,3,D la Cock,48301a4b,TL Chatara,5bbabe59,JN Loftie-Eaton,f468293b,0,0,0,3,0,,,,,,0,3,3
+1310940,2022,Namibia,3,JN Loftie-Eaton,f468293b,TL Chatara,5bbabe59,D la Cock,48301a4b,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Namibia,3,D la Cock,48301a4b,TL Chatara,5bbabe59,JN Loftie-Eaton,f468293b,0,0,0,0,1,D la Cock,48301a4b,,,lbw,0,0,0
+1310940,2022,Namibia,3,MG Erasmus,95a5e066,TL Chatara,5bbabe59,JN Loftie-Eaton,f468293b,0,0,0,0,0,,,,,,0,0,0
+1310940,2022,Namibia,4,JN Loftie-Eaton,f468293b,B Evans,e7e86505,MG Erasmus,95a5e066,0,0,0,0,0,,,,,,0,0,0
+1310940,2022,Namibia,4,JN Loftie-Eaton,f468293b,B Evans,e7e86505,MG Erasmus,95a5e066,0,0,0,0,0,,,,,,0,0,0
+1310940,2022,Namibia,4,JN Loftie-Eaton,f468293b,B Evans,e7e86505,MG Erasmus,95a5e066,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Namibia,4,MG Erasmus,95a5e066,B Evans,e7e86505,JN Loftie-Eaton,f468293b,0,0,0,0,0,,,,,,0,0,0
+1310940,2022,Namibia,4,MG Erasmus,95a5e066,B Evans,e7e86505,JN Loftie-Eaton,f468293b,0,0,0,0,0,,,,,,0,0,0
+1310940,2022,Namibia,4,MG Erasmus,95a5e066,B Evans,e7e86505,JN Loftie-Eaton,f468293b,0,0,0,0,0,,,,,,0,0,0
+1310940,2022,Namibia,5,JN Loftie-Eaton,f468293b,LM Jongwe,b8704508,MG Erasmus,95a5e066,0,0,0,0,0,,,,,,0,0,0
+1310940,2022,Namibia,5,JN Loftie-Eaton,f468293b,LM Jongwe,b8704508,MG Erasmus,95a5e066,0,0,0,0,0,,,,,,2,0,2
+1310940,2022,Namibia,5,JN Loftie-Eaton,f468293b,LM Jongwe,b8704508,MG Erasmus,95a5e066,0,0,0,0,0,,,,,,2,0,2
+1310940,2022,Namibia,5,JN Loftie-Eaton,f468293b,LM Jongwe,b8704508,MG Erasmus,95a5e066,0,0,0,0,0,,,,,,2,0,2
+1310940,2022,Namibia,5,JN Loftie-Eaton,f468293b,LM Jongwe,b8704508,MG Erasmus,95a5e066,0,0,0,0,0,,,,,,4,0,4
+1310940,2022,Namibia,5,JN Loftie-Eaton,f468293b,LM Jongwe,b8704508,MG Erasmus,95a5e066,0,0,0,0,0,,,,,,4,0,4
+1310940,2022,Namibia,6,MG Erasmus,95a5e066,B Evans,e7e86505,JN Loftie-Eaton,f468293b,1,0,0,0,0,,,,,,0,1,1
+1310940,2022,Namibia,6,MG Erasmus,95a5e066,B Evans,e7e86505,JN Loftie-Eaton,f468293b,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Namibia,6,JN Loftie-Eaton,f468293b,B Evans,e7e86505,MG Erasmus,95a5e066,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Namibia,6,MG Erasmus,95a5e066,B Evans,e7e86505,JN Loftie-Eaton,f468293b,0,0,0,0,0,,,,,,0,0,0
+1310940,2022,Namibia,6,MG Erasmus,95a5e066,B Evans,e7e86505,JN Loftie-Eaton,f468293b,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Namibia,6,JN Loftie-Eaton,f468293b,B Evans,e7e86505,MG Erasmus,95a5e066,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Namibia,6,MG Erasmus,95a5e066,B Evans,e7e86505,JN Loftie-Eaton,f468293b,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Namibia,7,MG Erasmus,95a5e066,B Mavuta,dadb9703,JN Loftie-Eaton,f468293b,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Namibia,7,JN Loftie-Eaton,f468293b,B Mavuta,dadb9703,MG Erasmus,95a5e066,0,0,0,0,0,,,,,,2,0,2
+1310940,2022,Namibia,7,JN Loftie-Eaton,f468293b,B Mavuta,dadb9703,MG Erasmus,95a5e066,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Namibia,7,MG Erasmus,95a5e066,B Mavuta,dadb9703,JN Loftie-Eaton,f468293b,0,0,0,0,0,,,,,,0,0,0
+1310940,2022,Namibia,7,MG Erasmus,95a5e066,B Mavuta,dadb9703,JN Loftie-Eaton,f468293b,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Namibia,7,JN Loftie-Eaton,f468293b,B Mavuta,dadb9703,MG Erasmus,95a5e066,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Namibia,8,JN Loftie-Eaton,f468293b,W Madhevere,a879b92c,MG Erasmus,95a5e066,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Namibia,8,MG Erasmus,95a5e066,W Madhevere,a879b92c,JN Loftie-Eaton,f468293b,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Namibia,8,JN Loftie-Eaton,f468293b,W Madhevere,a879b92c,MG Erasmus,95a5e066,0,0,0,4,0,,,,,,0,4,4
+1310940,2022,Namibia,8,JN Loftie-Eaton,f468293b,W Madhevere,a879b92c,MG Erasmus,95a5e066,0,0,0,0,1,JN Loftie-Eaton,f468293b,,,lbw,0,0,0
+1310940,2022,Namibia,8,ZE Green,8716233e,W Madhevere,a879b92c,MG Erasmus,95a5e066,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Namibia,8,MG Erasmus,95a5e066,W Madhevere,a879b92c,ZE Green,8716233e,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Namibia,9,MG Erasmus,95a5e066,B Mavuta,dadb9703,ZE Green,8716233e,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Namibia,9,ZE Green,8716233e,B Mavuta,dadb9703,MG Erasmus,95a5e066,0,0,0,0,0,,,,,,4,0,4
+1310940,2022,Namibia,9,ZE Green,8716233e,B Mavuta,dadb9703,MG Erasmus,95a5e066,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Namibia,9,MG Erasmus,95a5e066,B Mavuta,dadb9703,ZE Green,8716233e,0,0,0,0,0,,,,,,0,0,0
+1310940,2022,Namibia,9,MG Erasmus,95a5e066,B Mavuta,dadb9703,ZE Green,8716233e,0,0,0,0,0,,,,,,0,0,0
+1310940,2022,Namibia,9,MG Erasmus,95a5e066,B Mavuta,dadb9703,ZE Green,8716233e,0,0,0,0,0,,,,,,0,0,0
+1310940,2022,Namibia,10,ZE Green,8716233e,W Madhevere,a879b92c,MG Erasmus,95a5e066,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Namibia,10,MG Erasmus,95a5e066,W Madhevere,a879b92c,ZE Green,8716233e,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Namibia,10,ZE Green,8716233e,W Madhevere,a879b92c,MG Erasmus,95a5e066,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Namibia,10,MG Erasmus,95a5e066,W Madhevere,a879b92c,ZE Green,8716233e,0,0,0,0,0,,,,,,0,0,0
+1310940,2022,Namibia,10,MG Erasmus,95a5e066,W Madhevere,a879b92c,ZE Green,8716233e,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Namibia,10,ZE Green,8716233e,W Madhevere,a879b92c,MG Erasmus,95a5e066,0,0,0,0,0,,,,,,0,0,0
+1310940,2022,Namibia,11,MG Erasmus,95a5e066,LM Jongwe,b8704508,ZE Green,8716233e,1,0,0,0,0,,,,,,0,1,1
+1310940,2022,Namibia,11,MG Erasmus,95a5e066,LM Jongwe,b8704508,ZE Green,8716233e,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Namibia,11,ZE Green,8716233e,LM Jongwe,b8704508,MG Erasmus,95a5e066,0,0,0,0,0,,,,,,2,0,2
+1310940,2022,Namibia,11,ZE Green,8716233e,LM Jongwe,b8704508,MG Erasmus,95a5e066,0,0,0,0,0,,,,,,3,0,3
+1310940,2022,Namibia,11,MG Erasmus,95a5e066,LM Jongwe,b8704508,ZE Green,8716233e,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Namibia,11,ZE Green,8716233e,LM Jongwe,b8704508,MG Erasmus,95a5e066,0,0,0,0,0,,,,,,0,0,0
+1310940,2022,Namibia,11,ZE Green,8716233e,LM Jongwe,b8704508,MG Erasmus,95a5e066,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Namibia,12,ZE Green,8716233e,Sikandar Raza,26d041c4,MG Erasmus,95a5e066,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Namibia,12,MG Erasmus,95a5e066,Sikandar Raza,26d041c4,ZE Green,8716233e,0,0,0,0,0,,,,,,0,0,0
+1310940,2022,Namibia,12,MG Erasmus,95a5e066,Sikandar Raza,26d041c4,ZE Green,8716233e,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Namibia,12,ZE Green,8716233e,Sikandar Raza,26d041c4,MG Erasmus,95a5e066,0,0,0,0,0,,,,,,2,0,2
+1310940,2022,Namibia,12,ZE Green,8716233e,Sikandar Raza,26d041c4,MG Erasmus,95a5e066,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Namibia,12,MG Erasmus,95a5e066,Sikandar Raza,26d041c4,ZE Green,8716233e,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Namibia,13,MG Erasmus,95a5e066,B Evans,e7e86505,ZE Green,8716233e,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Namibia,13,ZE Green,8716233e,B Evans,e7e86505,MG Erasmus,95a5e066,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Namibia,13,MG Erasmus,95a5e066,B Evans,e7e86505,ZE Green,8716233e,0,0,0,0,0,,,,,,4,0,4
+1310940,2022,Namibia,13,MG Erasmus,95a5e066,B Evans,e7e86505,ZE Green,8716233e,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Namibia,13,ZE Green,8716233e,B Evans,e7e86505,MG Erasmus,95a5e066,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Namibia,13,MG Erasmus,95a5e066,B Evans,e7e86505,ZE Green,8716233e,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Namibia,14,MG Erasmus,95a5e066,Sikandar Raza,26d041c4,ZE Green,8716233e,0,0,0,0,0,,,,,,2,0,2
+1310940,2022,Namibia,14,MG Erasmus,95a5e066,Sikandar Raza,26d041c4,ZE Green,8716233e,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Namibia,14,ZE Green,8716233e,Sikandar Raza,26d041c4,MG Erasmus,95a5e066,0,0,0,0,0,,,,,,0,0,0
+1310940,2022,Namibia,14,ZE Green,8716233e,Sikandar Raza,26d041c4,MG Erasmus,95a5e066,0,0,0,0,0,,,,,,0,0,0
+1310940,2022,Namibia,14,ZE Green,8716233e,Sikandar Raza,26d041c4,MG Erasmus,95a5e066,0,0,0,0,1,ZE Green,8716233e,RW Chakabva,2f0d7e4a,caught,0,0,0
+1310940,2022,Namibia,14,D Wiese,aa8d28ae,Sikandar Raza,26d041c4,MG Erasmus,95a5e066,0,0,0,0,0,,,,,,0,0,0
+1310940,2022,Namibia,15,MG Erasmus,95a5e066,DT Tiripano,dbfb8218,D Wiese,aa8d28ae,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Namibia,15,D Wiese,aa8d28ae,DT Tiripano,dbfb8218,MG Erasmus,95a5e066,0,0,0,0,1,MG Erasmus,95a5e066,W Madhevere,a879b92c,run out,0,0,0
+1310940,2022,Namibia,15,D Wiese,aa8d28ae,DT Tiripano,dbfb8218,R Trumpelmann,ff6a7ab5,0,0,0,0,0,,,,,,0,0,0
+1310940,2022,Namibia,15,D Wiese,aa8d28ae,DT Tiripano,dbfb8218,R Trumpelmann,ff6a7ab5,0,0,0,0,0,,,,,,0,0,0
+1310940,2022,Namibia,15,D Wiese,aa8d28ae,DT Tiripano,dbfb8218,R Trumpelmann,ff6a7ab5,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Namibia,15,R Trumpelmann,ff6a7ab5,DT Tiripano,dbfb8218,D Wiese,aa8d28ae,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Namibia,16,R Trumpelmann,ff6a7ab5,Sikandar Raza,26d041c4,D Wiese,aa8d28ae,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Namibia,16,D Wiese,aa8d28ae,Sikandar Raza,26d041c4,R Trumpelmann,ff6a7ab5,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Namibia,16,R Trumpelmann,ff6a7ab5,Sikandar Raza,26d041c4,D Wiese,aa8d28ae,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Namibia,16,D Wiese,aa8d28ae,Sikandar Raza,26d041c4,R Trumpelmann,ff6a7ab5,0,0,0,0,0,,,,,,0,0,0
+1310940,2022,Namibia,16,D Wiese,aa8d28ae,Sikandar Raza,26d041c4,R Trumpelmann,ff6a7ab5,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Namibia,16,R Trumpelmann,ff6a7ab5,Sikandar Raza,26d041c4,D Wiese,aa8d28ae,0,0,0,0,1,R Trumpelmann,ff6a7ab5,RW Chakabva,2f0d7e4a,caught,0,0,0
+1310940,2022,Namibia,17,D Wiese,aa8d28ae,TL Chatara,5bbabe59,JN Frylinck,3c87f0c3,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Namibia,17,JN Frylinck,3c87f0c3,TL Chatara,5bbabe59,D Wiese,aa8d28ae,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Namibia,17,D Wiese,aa8d28ae,TL Chatara,5bbabe59,JN Frylinck,3c87f0c3,0,0,0,0,0,,,,,,6,0,6
+1310940,2022,Namibia,17,D Wiese,aa8d28ae,TL Chatara,5bbabe59,JN Frylinck,3c87f0c3,0,0,0,0,0,,,,,,0,0,0
+1310940,2022,Namibia,17,D Wiese,aa8d28ae,TL Chatara,5bbabe59,JN Frylinck,3c87f0c3,0,0,0,0,1,D Wiese,aa8d28ae,W Madhevere,a879b92c,caught,0,0,0
+1310940,2022,Namibia,17,JN Frylinck,3c87f0c3,TL Chatara,5bbabe59,HN Ya France,915264c2,1,0,0,0,0,,,,,,0,1,1
+1310940,2022,Namibia,17,JN Frylinck,3c87f0c3,TL Chatara,5bbabe59,HN Ya France,915264c2,0,0,0,0,0,,,,,,2,0,2
+1310940,2022,Namibia,18,HN Ya France,915264c2,Sikandar Raza,26d041c4,JN Frylinck,3c87f0c3,0,0,0,0,0,,,,,,0,0,0
+1310940,2022,Namibia,18,HN Ya France,915264c2,Sikandar Raza,26d041c4,JN Frylinck,3c87f0c3,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Namibia,18,JN Frylinck,3c87f0c3,Sikandar Raza,26d041c4,HN Ya France,915264c2,0,0,0,0,0,,,,,,0,0,0
+1310940,2022,Namibia,18,JN Frylinck,3c87f0c3,Sikandar Raza,26d041c4,HN Ya France,915264c2,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Namibia,18,HN Ya France,915264c2,Sikandar Raza,26d041c4,JN Frylinck,3c87f0c3,0,0,0,0,1,HN Ya France,915264c2,T Munyonga,fbcfa528,caught,0,0,0
+1310940,2022,Namibia,18,JN Frylinck,3c87f0c3,Sikandar Raza,26d041c4,BM Scholtz,e85d03d6,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Namibia,19,JN Frylinck,3c87f0c3,TL Chatara,5bbabe59,BM Scholtz,e85d03d6,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Namibia,19,BM Scholtz,e85d03d6,TL Chatara,5bbabe59,JN Frylinck,3c87f0c3,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Namibia,19,JN Frylinck,3c87f0c3,TL Chatara,5bbabe59,BM Scholtz,e85d03d6,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Namibia,19,BM Scholtz,e85d03d6,TL Chatara,5bbabe59,JN Frylinck,3c87f0c3,0,0,0,0,0,,,,,,0,0,0
+1310940,2022,Namibia,19,BM Scholtz,e85d03d6,TL Chatara,5bbabe59,JN Frylinck,3c87f0c3,0,0,0,0,0,,,,,,4,0,4
+1310940,2022,Namibia,19,BM Scholtz,e85d03d6,TL Chatara,5bbabe59,JN Frylinck,3c87f0c3,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Zimbabwe,0,W Madhevere,a879b92c,D Wiese,aa8d28ae,I Kaia,5ad8c974,0,0,0,0,0,,,,,,0,0,0
+1310940,2022,Zimbabwe,0,W Madhevere,a879b92c,D Wiese,aa8d28ae,I Kaia,5ad8c974,0,0,0,0,0,,,,,,2,0,2
+1310940,2022,Zimbabwe,0,W Madhevere,a879b92c,D Wiese,aa8d28ae,I Kaia,5ad8c974,0,0,0,0,0,,,,,,0,0,0
+1310940,2022,Zimbabwe,0,W Madhevere,a879b92c,D Wiese,aa8d28ae,I Kaia,5ad8c974,0,0,0,0,0,,,,,,0,0,0
+1310940,2022,Zimbabwe,0,W Madhevere,a879b92c,D Wiese,aa8d28ae,I Kaia,5ad8c974,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Zimbabwe,0,I Kaia,5ad8c974,D Wiese,aa8d28ae,W Madhevere,a879b92c,0,0,0,0,0,,,,,,0,0,0
+1310940,2022,Zimbabwe,1,W Madhevere,a879b92c,R Trumpelmann,ff6a7ab5,I Kaia,5ad8c974,0,0,0,0,0,,,,,,0,0,0
+1310940,2022,Zimbabwe,1,W Madhevere,a879b92c,R Trumpelmann,ff6a7ab5,I Kaia,5ad8c974,1,0,0,0,0,,,,,,0,1,1
+1310940,2022,Zimbabwe,1,W Madhevere,a879b92c,R Trumpelmann,ff6a7ab5,I Kaia,5ad8c974,0,1,0,0,0,,,,,,0,1,1
+1310940,2022,Zimbabwe,1,W Madhevere,a879b92c,R Trumpelmann,ff6a7ab5,I Kaia,5ad8c974,0,0,0,0,0,,,,,,4,0,4
+1310940,2022,Zimbabwe,1,W Madhevere,a879b92c,R Trumpelmann,ff6a7ab5,I Kaia,5ad8c974,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Zimbabwe,1,I Kaia,5ad8c974,R Trumpelmann,ff6a7ab5,W Madhevere,a879b92c,0,0,0,0,0,,,,,,0,0,0
+1310940,2022,Zimbabwe,1,I Kaia,5ad8c974,R Trumpelmann,ff6a7ab5,W Madhevere,a879b92c,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Zimbabwe,1,W Madhevere,a879b92c,R Trumpelmann,ff6a7ab5,I Kaia,5ad8c974,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Zimbabwe,2,W Madhevere,a879b92c,BM Scholtz,e85d03d6,I Kaia,5ad8c974,0,0,0,0,0,,,,,,0,0,0
+1310940,2022,Zimbabwe,2,W Madhevere,a879b92c,BM Scholtz,e85d03d6,I Kaia,5ad8c974,0,0,0,0,0,,,,,,4,0,4
+1310940,2022,Zimbabwe,2,W Madhevere,a879b92c,BM Scholtz,e85d03d6,I Kaia,5ad8c974,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Zimbabwe,2,I Kaia,5ad8c974,BM Scholtz,e85d03d6,W Madhevere,a879b92c,0,0,0,0,0,,,,,,2,0,2
+1310940,2022,Zimbabwe,2,I Kaia,5ad8c974,BM Scholtz,e85d03d6,W Madhevere,a879b92c,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Zimbabwe,2,W Madhevere,a879b92c,BM Scholtz,e85d03d6,I Kaia,5ad8c974,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Zimbabwe,3,W Madhevere,a879b92c,D Wiese,aa8d28ae,I Kaia,5ad8c974,0,0,0,0,0,,,,,,0,0,0
+1310940,2022,Zimbabwe,3,W Madhevere,a879b92c,D Wiese,aa8d28ae,I Kaia,5ad8c974,0,0,0,0,0,,,,,,4,0,4
+1310940,2022,Zimbabwe,3,W Madhevere,a879b92c,D Wiese,aa8d28ae,I Kaia,5ad8c974,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Zimbabwe,3,I Kaia,5ad8c974,D Wiese,aa8d28ae,W Madhevere,a879b92c,0,0,0,0,0,,,,,,4,0,4
+1310940,2022,Zimbabwe,3,I Kaia,5ad8c974,D Wiese,aa8d28ae,W Madhevere,a879b92c,0,0,0,0,0,,,,,,2,0,2
+1310940,2022,Zimbabwe,3,I Kaia,5ad8c974,D Wiese,aa8d28ae,W Madhevere,a879b92c,0,0,0,0,0,,,,,,2,0,2
+1310940,2022,Zimbabwe,4,W Madhevere,a879b92c,JN Frylinck,3c87f0c3,I Kaia,5ad8c974,0,0,0,0,0,,,,,,4,0,4
+1310940,2022,Zimbabwe,4,W Madhevere,a879b92c,JN Frylinck,3c87f0c3,I Kaia,5ad8c974,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Zimbabwe,4,I Kaia,5ad8c974,JN Frylinck,3c87f0c3,W Madhevere,a879b92c,0,0,0,0,0,,,,,,0,0,0
+1310940,2022,Zimbabwe,4,I Kaia,5ad8c974,JN Frylinck,3c87f0c3,W Madhevere,a879b92c,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Zimbabwe,4,W Madhevere,a879b92c,JN Frylinck,3c87f0c3,I Kaia,5ad8c974,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Zimbabwe,4,I Kaia,5ad8c974,JN Frylinck,3c87f0c3,W Madhevere,a879b92c,0,0,0,0,0,,,,,,0,0,0
+1310940,2022,Zimbabwe,5,W Madhevere,a879b92c,R Trumpelmann,ff6a7ab5,I Kaia,5ad8c974,0,0,0,0,0,,,,,,0,0,0
+1310940,2022,Zimbabwe,5,W Madhevere,a879b92c,R Trumpelmann,ff6a7ab5,I Kaia,5ad8c974,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Zimbabwe,5,I Kaia,5ad8c974,R Trumpelmann,ff6a7ab5,W Madhevere,a879b92c,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Zimbabwe,5,W Madhevere,a879b92c,R Trumpelmann,ff6a7ab5,I Kaia,5ad8c974,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Zimbabwe,5,I Kaia,5ad8c974,R Trumpelmann,ff6a7ab5,W Madhevere,a879b92c,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Zimbabwe,5,W Madhevere,a879b92c,R Trumpelmann,ff6a7ab5,I Kaia,5ad8c974,0,0,0,0,0,,,,,,0,0,0
+1310940,2022,Zimbabwe,6,I Kaia,5ad8c974,BM Scholtz,e85d03d6,W Madhevere,a879b92c,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Zimbabwe,6,W Madhevere,a879b92c,BM Scholtz,e85d03d6,I Kaia,5ad8c974,0,0,0,0,0,,,,,,4,0,4
+1310940,2022,Zimbabwe,6,W Madhevere,a879b92c,BM Scholtz,e85d03d6,I Kaia,5ad8c974,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Zimbabwe,6,I Kaia,5ad8c974,BM Scholtz,e85d03d6,W Madhevere,a879b92c,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Zimbabwe,6,W Madhevere,a879b92c,BM Scholtz,e85d03d6,I Kaia,5ad8c974,0,0,0,0,0,,,,,,0,0,0
+1310940,2022,Zimbabwe,6,W Madhevere,a879b92c,BM Scholtz,e85d03d6,I Kaia,5ad8c974,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Zimbabwe,7,W Madhevere,a879b92c,JN Loftie-Eaton,f468293b,I Kaia,5ad8c974,0,0,0,0,0,,,,,,2,0,2
+1310940,2022,Zimbabwe,7,W Madhevere,a879b92c,JN Loftie-Eaton,f468293b,I Kaia,5ad8c974,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Zimbabwe,7,I Kaia,5ad8c974,JN Loftie-Eaton,f468293b,W Madhevere,a879b92c,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Zimbabwe,7,W Madhevere,a879b92c,JN Loftie-Eaton,f468293b,I Kaia,5ad8c974,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Zimbabwe,7,I Kaia,5ad8c974,JN Loftie-Eaton,f468293b,W Madhevere,a879b92c,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Zimbabwe,7,W Madhevere,a879b92c,JN Loftie-Eaton,f468293b,I Kaia,5ad8c974,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Zimbabwe,8,W Madhevere,a879b92c,BM Scholtz,e85d03d6,I Kaia,5ad8c974,0,0,0,0,0,,,,,,0,0,0
+1310940,2022,Zimbabwe,8,W Madhevere,a879b92c,BM Scholtz,e85d03d6,I Kaia,5ad8c974,0,0,0,0,0,,,,,,0,0,0
+1310940,2022,Zimbabwe,8,W Madhevere,a879b92c,BM Scholtz,e85d03d6,I Kaia,5ad8c974,0,0,0,0,0,,,,,,0,0,0
+1310940,2022,Zimbabwe,8,W Madhevere,a879b92c,BM Scholtz,e85d03d6,I Kaia,5ad8c974,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Zimbabwe,8,I Kaia,5ad8c974,BM Scholtz,e85d03d6,W Madhevere,a879b92c,0,0,0,0,1,I Kaia,5ad8c974,CG Williams,e16e7347,caught,0,0,0
+1310940,2022,Zimbabwe,8,W Madhevere,a879b92c,BM Scholtz,e85d03d6,CR Ervine,c96311d4,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Zimbabwe,9,W Madhevere,a879b92c,MG Erasmus,95a5e066,CR Ervine,c96311d4,0,0,0,0,0,,,,,,4,0,4
+1310940,2022,Zimbabwe,9,W Madhevere,a879b92c,MG Erasmus,95a5e066,CR Ervine,c96311d4,0,0,0,0,0,,,,,,4,0,4
+1310940,2022,Zimbabwe,9,W Madhevere,a879b92c,MG Erasmus,95a5e066,CR Ervine,c96311d4,0,0,0,0,0,,,,,,0,0,0
+1310940,2022,Zimbabwe,9,W Madhevere,a879b92c,MG Erasmus,95a5e066,CR Ervine,c96311d4,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Zimbabwe,9,CR Ervine,c96311d4,MG Erasmus,95a5e066,W Madhevere,a879b92c,0,0,0,0,0,,,,,,0,0,0
+1310940,2022,Zimbabwe,9,CR Ervine,c96311d4,MG Erasmus,95a5e066,W Madhevere,a879b92c,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Zimbabwe,10,CR Ervine,c96311d4,HN Ya France,915264c2,W Madhevere,a879b92c,0,0,0,0,0,,,,,,0,0,0
+1310940,2022,Zimbabwe,10,CR Ervine,c96311d4,HN Ya France,915264c2,W Madhevere,a879b92c,0,0,0,0,0,,,,,,4,0,4
+1310940,2022,Zimbabwe,10,CR Ervine,c96311d4,HN Ya France,915264c2,W Madhevere,a879b92c,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Zimbabwe,10,W Madhevere,a879b92c,HN Ya France,915264c2,CR Ervine,c96311d4,0,0,0,0,0,,,,,,0,0,0
+1310940,2022,Zimbabwe,10,W Madhevere,a879b92c,HN Ya France,915264c2,CR Ervine,c96311d4,0,0,0,0,0,,,,,,0,0,0
+1310940,2022,Zimbabwe,10,W Madhevere,a879b92c,HN Ya France,915264c2,CR Ervine,c96311d4,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Zimbabwe,11,W Madhevere,a879b92c,JN Frylinck,3c87f0c3,CR Ervine,c96311d4,0,0,0,0,0,,,,,,2,0,2
+1310940,2022,Zimbabwe,11,W Madhevere,a879b92c,JN Frylinck,3c87f0c3,CR Ervine,c96311d4,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Zimbabwe,11,CR Ervine,c96311d4,JN Frylinck,3c87f0c3,W Madhevere,a879b92c,0,0,0,0,0,,,,,,0,0,0
+1310940,2022,Zimbabwe,11,CR Ervine,c96311d4,JN Frylinck,3c87f0c3,W Madhevere,a879b92c,0,0,0,0,1,CR Ervine,c96311d4,ZE Green,8716233e,caught,0,0,0
+1310940,2022,Zimbabwe,11,RW Chakabva,2f0d7e4a,JN Frylinck,3c87f0c3,W Madhevere,a879b92c,0,0,0,0,0,,,,,,0,0,0
+1310940,2022,Zimbabwe,11,RW Chakabva,2f0d7e4a,JN Frylinck,3c87f0c3,W Madhevere,a879b92c,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Zimbabwe,12,RW Chakabva,2f0d7e4a,BM Scholtz,e85d03d6,W Madhevere,a879b92c,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Zimbabwe,12,W Madhevere,a879b92c,BM Scholtz,e85d03d6,RW Chakabva,2f0d7e4a,0,0,0,0,0,,,,,,2,0,2
+1310940,2022,Zimbabwe,12,W Madhevere,a879b92c,BM Scholtz,e85d03d6,RW Chakabva,2f0d7e4a,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Zimbabwe,12,RW Chakabva,2f0d7e4a,BM Scholtz,e85d03d6,W Madhevere,a879b92c,0,0,0,0,0,,,,,,0,0,0
+1310940,2022,Zimbabwe,12,RW Chakabva,2f0d7e4a,BM Scholtz,e85d03d6,W Madhevere,a879b92c,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Zimbabwe,12,W Madhevere,a879b92c,BM Scholtz,e85d03d6,RW Chakabva,2f0d7e4a,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Zimbabwe,13,W Madhevere,a879b92c,JN Frylinck,3c87f0c3,RW Chakabva,2f0d7e4a,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Zimbabwe,13,RW Chakabva,2f0d7e4a,JN Frylinck,3c87f0c3,W Madhevere,a879b92c,0,0,1,0,0,,,,,,0,1,1
+1310940,2022,Zimbabwe,13,W Madhevere,a879b92c,JN Frylinck,3c87f0c3,RW Chakabva,2f0d7e4a,0,0,0,0,0,,,,,,0,0,0
+1310940,2022,Zimbabwe,13,W Madhevere,a879b92c,JN Frylinck,3c87f0c3,RW Chakabva,2f0d7e4a,0,0,0,0,0,,,,,,0,0,0
+1310940,2022,Zimbabwe,13,W Madhevere,a879b92c,JN Frylinck,3c87f0c3,RW Chakabva,2f0d7e4a,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Zimbabwe,13,RW Chakabva,2f0d7e4a,JN Frylinck,3c87f0c3,W Madhevere,a879b92c,0,1,0,0,0,,,,,,1,1,2
+1310940,2022,Zimbabwe,13,W Madhevere,a879b92c,JN Frylinck,3c87f0c3,RW Chakabva,2f0d7e4a,0,0,0,0,0,,,,,,6,0,6
+1310940,2022,Zimbabwe,14,RW Chakabva,2f0d7e4a,T Lungameni,1688f2dc,W Madhevere,a879b92c,0,0,0,0,0,,,,,,0,0,0
+1310940,2022,Zimbabwe,14,RW Chakabva,2f0d7e4a,T Lungameni,1688f2dc,W Madhevere,a879b92c,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Zimbabwe,14,W Madhevere,a879b92c,T Lungameni,1688f2dc,RW Chakabva,2f0d7e4a,0,0,0,0,0,,,,,,0,0,0
+1310940,2022,Zimbabwe,14,W Madhevere,a879b92c,T Lungameni,1688f2dc,RW Chakabva,2f0d7e4a,0,0,2,0,0,,,,,,0,2,2
+1310940,2022,Zimbabwe,14,W Madhevere,a879b92c,T Lungameni,1688f2dc,RW Chakabva,2f0d7e4a,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Zimbabwe,14,RW Chakabva,2f0d7e4a,T Lungameni,1688f2dc,W Madhevere,a879b92c,0,0,0,0,0,,,,,,0,0,0
+1310940,2022,Zimbabwe,15,W Madhevere,a879b92c,D Wiese,aa8d28ae,RW Chakabva,2f0d7e4a,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Zimbabwe,15,RW Chakabva,2f0d7e4a,D Wiese,aa8d28ae,W Madhevere,a879b92c,0,0,0,0,0,,,,,,2,0,2
+1310940,2022,Zimbabwe,15,RW Chakabva,2f0d7e4a,D Wiese,aa8d28ae,W Madhevere,a879b92c,0,0,0,0,0,,,,,,0,0,0
+1310940,2022,Zimbabwe,15,RW Chakabva,2f0d7e4a,D Wiese,aa8d28ae,W Madhevere,a879b92c,0,0,0,0,0,,,,,,2,0,2
+1310940,2022,Zimbabwe,15,RW Chakabva,2f0d7e4a,D Wiese,aa8d28ae,W Madhevere,a879b92c,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Zimbabwe,15,W Madhevere,a879b92c,D Wiese,aa8d28ae,RW Chakabva,2f0d7e4a,0,0,0,0,0,,,,,,0,0,0
+1310940,2022,Zimbabwe,16,RW Chakabva,2f0d7e4a,T Lungameni,1688f2dc,W Madhevere,a879b92c,0,0,0,0,0,,,,,,4,0,4
+1310940,2022,Zimbabwe,16,RW Chakabva,2f0d7e4a,T Lungameni,1688f2dc,W Madhevere,a879b92c,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Zimbabwe,16,W Madhevere,a879b92c,T Lungameni,1688f2dc,RW Chakabva,2f0d7e4a,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Zimbabwe,16,RW Chakabva,2f0d7e4a,T Lungameni,1688f2dc,W Madhevere,a879b92c,1,0,0,0,0,,,,,,0,1,1
+1310940,2022,Zimbabwe,16,RW Chakabva,2f0d7e4a,T Lungameni,1688f2dc,W Madhevere,a879b92c,0,0,0,0,0,,,,,,4,0,4
+1310940,2022,Zimbabwe,16,RW Chakabva,2f0d7e4a,T Lungameni,1688f2dc,W Madhevere,a879b92c,0,0,0,0,0,,,,,,1,0,1
+1310940,2022,Zimbabwe,16,W Madhevere,a879b92c,T Lungameni,1688f2dc,RW Chakabva,2f0d7e4a,0,0,0,0,0,,,,,,4,0,4
+1310940,2022,Zimbabwe,17,RW Chakabva,2f0d7e4a,JN Loftie-Eaton,f468293b,W Madhevere,a879b92c,0,0,0,0,0,,,,,,4,0,4

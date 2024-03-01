@@ -1,0 +1,210 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1387599,2023/24,India,0,YBK Jaiswal,6c19c6e5,N Burger,465aa633,Shubman Gill,b4b99816,0,0,0,0,0,,,,,,0,0,0
+1387599,2023/24,India,0,YBK Jaiswal,6c19c6e5,N Burger,465aa633,Shubman Gill,b4b99816,0,0,0,0,0,,,,,,1,0,1
+1387599,2023/24,India,0,Shubman Gill,b4b99816,N Burger,465aa633,YBK Jaiswal,6c19c6e5,0,0,0,0,0,,,,,,0,0,0
+1387599,2023/24,India,0,Shubman Gill,b4b99816,N Burger,465aa633,YBK Jaiswal,6c19c6e5,0,0,0,0,0,,,,,,4,0,4
+1387599,2023/24,India,0,Shubman Gill,b4b99816,N Burger,465aa633,YBK Jaiswal,6c19c6e5,1,0,0,0,0,,,,,,0,1,1
+1387599,2023/24,India,0,Shubman Gill,b4b99816,N Burger,465aa633,YBK Jaiswal,6c19c6e5,0,0,0,0,0,,,,,,4,0,4
+1387599,2023/24,India,0,Shubman Gill,b4b99816,N Burger,465aa633,YBK Jaiswal,6c19c6e5,0,0,4,0,0,,,,,,0,4,4
+1387599,2023/24,India,1,YBK Jaiswal,6c19c6e5,AK Markram,6a26221c,Shubman Gill,b4b99816,0,0,0,0,0,,,,,,4,0,4
+1387599,2023/24,India,1,YBK Jaiswal,6c19c6e5,AK Markram,6a26221c,Shubman Gill,b4b99816,0,0,0,0,0,,,,,,0,0,0
+1387599,2023/24,India,1,YBK Jaiswal,6c19c6e5,AK Markram,6a26221c,Shubman Gill,b4b99816,0,0,0,0,0,,,,,,0,0,0
+1387599,2023/24,India,1,YBK Jaiswal,6c19c6e5,AK Markram,6a26221c,Shubman Gill,b4b99816,0,0,0,0,0,,,,,,0,0,0
+1387599,2023/24,India,1,YBK Jaiswal,6c19c6e5,AK Markram,6a26221c,Shubman Gill,b4b99816,1,0,0,0,0,,,,,,0,1,1
+1387599,2023/24,India,1,YBK Jaiswal,6c19c6e5,AK Markram,6a26221c,Shubman Gill,b4b99816,0,0,0,0,0,,,,,,4,0,4
+1387599,2023/24,India,1,YBK Jaiswal,6c19c6e5,AK Markram,6a26221c,Shubman Gill,b4b99816,0,0,0,0,0,,,,,,6,0,6
+1387599,2023/24,India,2,Shubman Gill,b4b99816,KA Maharaj,0b60eb09,YBK Jaiswal,6c19c6e5,0,0,0,0,0,,,,,,0,0,0
+1387599,2023/24,India,2,Shubman Gill,b4b99816,KA Maharaj,0b60eb09,YBK Jaiswal,6c19c6e5,0,0,0,0,1,Shubman Gill,b4b99816,,,lbw,0,0,0
+1387599,2023/24,India,2,Tilak Varma,b0482a1d,KA Maharaj,0b60eb09,YBK Jaiswal,6c19c6e5,0,0,0,0,1,Tilak Varma,b0482a1d,AK Markram,6a26221c,caught,0,0,0
+1387599,2023/24,India,2,SA Yadav,271f83cd,KA Maharaj,0b60eb09,YBK Jaiswal,6c19c6e5,0,0,0,0,0,,,,,,0,0,0
+1387599,2023/24,India,2,SA Yadav,271f83cd,KA Maharaj,0b60eb09,YBK Jaiswal,6c19c6e5,0,0,0,0,0,,,,,,0,0,0
+1387599,2023/24,India,2,SA Yadav,271f83cd,KA Maharaj,0b60eb09,YBK Jaiswal,6c19c6e5,0,0,0,0,0,,,,,,1,0,1
+1387599,2023/24,India,3,SA Yadav,271f83cd,LB Williams,a1d95bd8,YBK Jaiswal,6c19c6e5,0,0,0,0,0,,,,,,1,0,1
+1387599,2023/24,India,3,YBK Jaiswal,6c19c6e5,LB Williams,a1d95bd8,SA Yadav,271f83cd,0,0,0,0,0,,,,,,0,0,0
+1387599,2023/24,India,3,YBK Jaiswal,6c19c6e5,LB Williams,a1d95bd8,SA Yadav,271f83cd,0,1,0,0,0,,,,,,6,1,7
+1387599,2023/24,India,3,YBK Jaiswal,6c19c6e5,LB Williams,a1d95bd8,SA Yadav,271f83cd,0,0,0,0,0,,,,,,0,0,0
+1387599,2023/24,India,3,YBK Jaiswal,6c19c6e5,LB Williams,a1d95bd8,SA Yadav,271f83cd,0,0,0,0,0,,,,,,1,0,1
+1387599,2023/24,India,3,SA Yadav,271f83cd,LB Williams,a1d95bd8,YBK Jaiswal,6c19c6e5,0,0,0,0,0,,,,,,0,0,0
+1387599,2023/24,India,3,SA Yadav,271f83cd,LB Williams,a1d95bd8,YBK Jaiswal,6c19c6e5,0,0,0,0,0,,,,,,6,0,6
+1387599,2023/24,India,4,YBK Jaiswal,6c19c6e5,KA Maharaj,0b60eb09,SA Yadav,271f83cd,0,0,0,0,0,,,,,,1,0,1
+1387599,2023/24,India,4,SA Yadav,271f83cd,KA Maharaj,0b60eb09,YBK Jaiswal,6c19c6e5,0,0,0,0,0,,,,,,4,0,4
+1387599,2023/24,India,4,SA Yadav,271f83cd,KA Maharaj,0b60eb09,YBK Jaiswal,6c19c6e5,0,0,0,0,0,,,,,,0,0,0
+1387599,2023/24,India,4,SA Yadav,271f83cd,KA Maharaj,0b60eb09,YBK Jaiswal,6c19c6e5,0,0,0,0,0,,,,,,6,0,6
+1387599,2023/24,India,4,SA Yadav,271f83cd,KA Maharaj,0b60eb09,YBK Jaiswal,6c19c6e5,0,0,0,0,0,,,,,,0,0,0
+1387599,2023/24,India,4,SA Yadav,271f83cd,KA Maharaj,0b60eb09,YBK Jaiswal,6c19c6e5,0,0,0,0,0,,,,,,0,0,0
+1387599,2023/24,India,5,YBK Jaiswal,6c19c6e5,N Burger,465aa633,SA Yadav,271f83cd,0,0,0,0,0,,,,,,4,0,4
+1387599,2023/24,India,5,YBK Jaiswal,6c19c6e5,N Burger,465aa633,SA Yadav,271f83cd,0,0,0,0,0,,,,,,0,0,0
+1387599,2023/24,India,5,YBK Jaiswal,6c19c6e5,N Burger,465aa633,SA Yadav,271f83cd,0,0,0,0,0,,,,,,0,0,0
+1387599,2023/24,India,5,YBK Jaiswal,6c19c6e5,N Burger,465aa633,SA Yadav,271f83cd,0,0,0,0,0,,,,,,0,0,0
+1387599,2023/24,India,5,YBK Jaiswal,6c19c6e5,N Burger,465aa633,SA Yadav,271f83cd,0,0,0,0,0,,,,,,1,0,1
+1387599,2023/24,India,5,SA Yadav,271f83cd,N Burger,465aa633,YBK Jaiswal,6c19c6e5,0,0,0,0,0,,,,,,1,0,1
+1387599,2023/24,India,6,SA Yadav,271f83cd,AL Phehlukwayo,ab6b1c45,YBK Jaiswal,6c19c6e5,0,0,0,0,0,,,,,,0,0,0
+1387599,2023/24,India,6,SA Yadav,271f83cd,AL Phehlukwayo,ab6b1c45,YBK Jaiswal,6c19c6e5,0,0,0,0,0,,,,,,0,0,0
+1387599,2023/24,India,6,SA Yadav,271f83cd,AL Phehlukwayo,ab6b1c45,YBK Jaiswal,6c19c6e5,0,0,0,0,0,,,,,,0,0,0
+1387599,2023/24,India,6,SA Yadav,271f83cd,AL Phehlukwayo,ab6b1c45,YBK Jaiswal,6c19c6e5,0,0,0,0,0,,,,,,1,0,1
+1387599,2023/24,India,6,YBK Jaiswal,6c19c6e5,AL Phehlukwayo,ab6b1c45,SA Yadav,271f83cd,0,0,0,0,0,,,,,,1,0,1
+1387599,2023/24,India,6,SA Yadav,271f83cd,AL Phehlukwayo,ab6b1c45,YBK Jaiswal,6c19c6e5,0,0,0,0,0,,,,,,0,0,0
+1387599,2023/24,India,7,YBK Jaiswal,6c19c6e5,T Shamsi,a03bba42,SA Yadav,271f83cd,0,0,0,0,0,,,,,,4,0,4
+1387599,2023/24,India,7,YBK Jaiswal,6c19c6e5,T Shamsi,a03bba42,SA Yadav,271f83cd,0,0,0,0,0,,,,,,1,0,1
+1387599,2023/24,India,7,SA Yadav,271f83cd,T Shamsi,a03bba42,YBK Jaiswal,6c19c6e5,0,0,0,0,0,,,,,,0,0,0
+1387599,2023/24,India,7,SA Yadav,271f83cd,T Shamsi,a03bba42,YBK Jaiswal,6c19c6e5,0,0,0,0,0,,,,,,1,0,1
+1387599,2023/24,India,7,YBK Jaiswal,6c19c6e5,T Shamsi,a03bba42,SA Yadav,271f83cd,0,0,0,0,0,,,,,,4,0,4
+1387599,2023/24,India,7,YBK Jaiswal,6c19c6e5,T Shamsi,a03bba42,SA Yadav,271f83cd,0,0,0,0,0,,,,,,1,0,1
+1387599,2023/24,India,8,YBK Jaiswal,6c19c6e5,AL Phehlukwayo,ab6b1c45,SA Yadav,271f83cd,0,0,0,0,0,,,,,,4,0,4
+1387599,2023/24,India,8,YBK Jaiswal,6c19c6e5,AL Phehlukwayo,ab6b1c45,SA Yadav,271f83cd,0,0,0,0,0,,,,,,1,0,1
+1387599,2023/24,India,8,SA Yadav,271f83cd,AL Phehlukwayo,ab6b1c45,YBK Jaiswal,6c19c6e5,0,0,0,0,0,,,,,,0,0,0
+1387599,2023/24,India,8,SA Yadav,271f83cd,AL Phehlukwayo,ab6b1c45,YBK Jaiswal,6c19c6e5,0,0,0,0,0,,,,,,2,0,2
+1387599,2023/24,India,8,SA Yadav,271f83cd,AL Phehlukwayo,ab6b1c45,YBK Jaiswal,6c19c6e5,0,0,0,0,0,,,,,,1,0,1
+1387599,2023/24,India,8,YBK Jaiswal,6c19c6e5,AL Phehlukwayo,ab6b1c45,SA Yadav,271f83cd,0,0,0,0,0,,,,,,0,0,0
+1387599,2023/24,India,9,SA Yadav,271f83cd,T Shamsi,a03bba42,YBK Jaiswal,6c19c6e5,0,0,0,0,0,,,,,,1,0,1
+1387599,2023/24,India,9,YBK Jaiswal,6c19c6e5,T Shamsi,a03bba42,SA Yadav,271f83cd,0,0,0,0,0,,,,,,0,0,0
+1387599,2023/24,India,9,YBK Jaiswal,6c19c6e5,T Shamsi,a03bba42,SA Yadav,271f83cd,0,0,0,0,0,,,,,,1,0,1
+1387599,2023/24,India,9,SA Yadav,271f83cd,T Shamsi,a03bba42,YBK Jaiswal,6c19c6e5,0,0,0,0,0,,,,,,1,0,1
+1387599,2023/24,India,9,YBK Jaiswal,6c19c6e5,T Shamsi,a03bba42,SA Yadav,271f83cd,0,0,0,0,0,,,,,,0,0,0
+1387599,2023/24,India,9,YBK Jaiswal,6c19c6e5,T Shamsi,a03bba42,SA Yadav,271f83cd,0,0,0,0,0,,,,,,1,0,1
+1387599,2023/24,India,10,YBK Jaiswal,6c19c6e5,KA Maharaj,0b60eb09,SA Yadav,271f83cd,0,0,0,0,0,,,,,,1,0,1
+1387599,2023/24,India,10,SA Yadav,271f83cd,KA Maharaj,0b60eb09,YBK Jaiswal,6c19c6e5,0,0,0,0,0,,,,,,1,0,1
+1387599,2023/24,India,10,YBK Jaiswal,6c19c6e5,KA Maharaj,0b60eb09,SA Yadav,271f83cd,0,0,0,0,0,,,,,,1,0,1
+1387599,2023/24,India,10,SA Yadav,271f83cd,KA Maharaj,0b60eb09,YBK Jaiswal,6c19c6e5,0,0,0,0,0,,,,,,6,0,6
+1387599,2023/24,India,10,SA Yadav,271f83cd,KA Maharaj,0b60eb09,YBK Jaiswal,6c19c6e5,0,0,0,0,0,,,,,,1,0,1
+1387599,2023/24,India,10,YBK Jaiswal,6c19c6e5,KA Maharaj,0b60eb09,SA Yadav,271f83cd,0,0,0,0,0,,,,,,1,0,1
+1387599,2023/24,India,11,YBK Jaiswal,6c19c6e5,LB Williams,a1d95bd8,SA Yadav,271f83cd,0,0,0,0,0,,,,,,1,0,1
+1387599,2023/24,India,11,SA Yadav,271f83cd,LB Williams,a1d95bd8,YBK Jaiswal,6c19c6e5,0,0,0,0,0,,,,,,1,0,1
+1387599,2023/24,India,11,YBK Jaiswal,6c19c6e5,LB Williams,a1d95bd8,SA Yadav,271f83cd,0,0,0,0,0,,,,,,0,0,0
+1387599,2023/24,India,11,YBK Jaiswal,6c19c6e5,LB Williams,a1d95bd8,SA Yadav,271f83cd,1,0,0,0,0,,,,,,0,1,1
+1387599,2023/24,India,11,YBK Jaiswal,6c19c6e5,LB Williams,a1d95bd8,SA Yadav,271f83cd,0,0,0,0,0,,,,,,6,0,6
+1387599,2023/24,India,11,YBK Jaiswal,6c19c6e5,LB Williams,a1d95bd8,SA Yadav,271f83cd,0,0,0,0,0,,,,,,1,0,1
+1387599,2023/24,India,11,SA Yadav,271f83cd,LB Williams,a1d95bd8,YBK Jaiswal,6c19c6e5,0,0,0,0,0,,,,,,0,0,0
+1387599,2023/24,India,12,YBK Jaiswal,6c19c6e5,AL Phehlukwayo,ab6b1c45,SA Yadav,271f83cd,0,0,0,0,0,,,,,,1,0,1
+1387599,2023/24,India,12,SA Yadav,271f83cd,AL Phehlukwayo,ab6b1c45,YBK Jaiswal,6c19c6e5,0,0,0,0,0,,,,,,6,0,6
+1387599,2023/24,India,12,SA Yadav,271f83cd,AL Phehlukwayo,ab6b1c45,YBK Jaiswal,6c19c6e5,0,0,0,0,0,,,,,,4,0,4
+1387599,2023/24,India,12,SA Yadav,271f83cd,AL Phehlukwayo,ab6b1c45,YBK Jaiswal,6c19c6e5,0,0,0,0,0,,,,,,6,0,6
+1387599,2023/24,India,12,SA Yadav,271f83cd,AL Phehlukwayo,ab6b1c45,YBK Jaiswal,6c19c6e5,0,0,0,0,0,,,,,,6,0,6
+1387599,2023/24,India,12,SA Yadav,271f83cd,AL Phehlukwayo,ab6b1c45,YBK Jaiswal,6c19c6e5,0,0,0,0,0,,,,,,0,0,0
+1387599,2023/24,India,13,YBK Jaiswal,6c19c6e5,T Shamsi,a03bba42,SA Yadav,271f83cd,0,0,0,0,0,,,,,,1,0,1
+1387599,2023/24,India,13,SA Yadav,271f83cd,T Shamsi,a03bba42,YBK Jaiswal,6c19c6e5,0,0,0,0,0,,,,,,1,0,1
+1387599,2023/24,India,13,YBK Jaiswal,6c19c6e5,T Shamsi,a03bba42,SA Yadav,271f83cd,0,0,0,0,0,,,,,,1,0,1
+1387599,2023/24,India,13,SA Yadav,271f83cd,T Shamsi,a03bba42,YBK Jaiswal,6c19c6e5,0,0,0,0,0,,,,,,6,0,6
+1387599,2023/24,India,13,SA Yadav,271f83cd,T Shamsi,a03bba42,YBK Jaiswal,6c19c6e5,0,0,0,0,0,,,,,,1,0,1
+1387599,2023/24,India,13,YBK Jaiswal,6c19c6e5,T Shamsi,a03bba42,SA Yadav,271f83cd,0,0,0,0,1,YBK Jaiswal,6c19c6e5,RR Hendricks,b8cc58c9,caught,0,0,0
+1387599,2023/24,India,14,SA Yadav,271f83cd,KA Maharaj,0b60eb09,RK Singh,0a509d6b,0,0,0,0,0,,,,,,1,0,1
+1387599,2023/24,India,14,RK Singh,0a509d6b,KA Maharaj,0b60eb09,SA Yadav,271f83cd,0,0,0,0,0,,,,,,0,0,0
+1387599,2023/24,India,14,RK Singh,0a509d6b,KA Maharaj,0b60eb09,SA Yadav,271f83cd,0,0,0,0,0,,,,,,1,0,1
+1387599,2023/24,India,14,SA Yadav,271f83cd,KA Maharaj,0b60eb09,RK Singh,0a509d6b,0,0,0,0,0,,,,,,0,0,0
+1387599,2023/24,India,14,SA Yadav,271f83cd,KA Maharaj,0b60eb09,RK Singh,0a509d6b,0,0,0,0,0,,,,,,0,0,0
+1387599,2023/24,India,14,SA Yadav,271f83cd,KA Maharaj,0b60eb09,RK Singh,0a509d6b,0,0,0,0,0,,,,,,1,0,1
+1387599,2023/24,India,15,SA Yadav,271f83cd,N Burger,465aa633,RK Singh,0a509d6b,0,0,0,0,0,,,,,,4,0,4
+1387599,2023/24,India,15,SA Yadav,271f83cd,N Burger,465aa633,RK Singh,0a509d6b,0,0,0,0,0,,,,,,6,0,6
+1387599,2023/24,India,15,SA Yadav,271f83cd,N Burger,465aa633,RK Singh,0a509d6b,0,0,0,0,0,,,,,,4,0,4
+1387599,2023/24,India,15,SA Yadav,271f83cd,N Burger,465aa633,RK Singh,0a509d6b,0,0,0,0,0,,,,,,1,0,1
+1387599,2023/24,India,15,RK Singh,0a509d6b,N Burger,465aa633,SA Yadav,271f83cd,0,0,0,0,0,,,,,,1,0,1
+1387599,2023/24,India,15,SA Yadav,271f83cd,N Burger,465aa633,RK Singh,0a509d6b,0,0,0,0,0,,,,,,1,0,1
+1387599,2023/24,India,16,SA Yadav,271f83cd,LB Williams,a1d95bd8,RK Singh,0a509d6b,0,0,0,0,0,,,,,,4,0,4
+1387599,2023/24,India,16,SA Yadav,271f83cd,LB Williams,a1d95bd8,RK Singh,0a509d6b,0,0,0,0,0,,,,,,0,0,0
+1387599,2023/24,India,16,SA Yadav,271f83cd,LB Williams,a1d95bd8,RK Singh,0a509d6b,0,0,0,0,0,,,,,,4,0,4
+1387599,2023/24,India,16,SA Yadav,271f83cd,LB Williams,a1d95bd8,RK Singh,0a509d6b,0,0,0,0,0,,,,,,1,0,1
+1387599,2023/24,India,16,RK Singh,0a509d6b,LB Williams,a1d95bd8,SA Yadav,271f83cd,0,0,0,0,0,,,,,,2,0,2
+1387599,2023/24,India,16,RK Singh,0a509d6b,LB Williams,a1d95bd8,SA Yadav,271f83cd,0,0,0,0,0,,,,,,1,0,1
+1387599,2023/24,India,17,RK Singh,0a509d6b,T Shamsi,a03bba42,SA Yadav,271f83cd,0,0,0,0,0,,,,,,1,0,1
+1387599,2023/24,India,17,SA Yadav,271f83cd,T Shamsi,a03bba42,RK Singh,0a509d6b,0,0,0,0,0,,,,,,4,0,4
+1387599,2023/24,India,17,SA Yadav,271f83cd,T Shamsi,a03bba42,RK Singh,0a509d6b,0,0,0,0,0,,,,,,0,0,0
+1387599,2023/24,India,17,SA Yadav,271f83cd,T Shamsi,a03bba42,RK Singh,0a509d6b,0,0,0,0,0,,,,,,1,0,1
+1387599,2023/24,India,17,RK Singh,0a509d6b,T Shamsi,a03bba42,SA Yadav,271f83cd,0,0,0,0,0,,,,,,6,0,6
+1387599,2023/24,India,17,RK Singh,0a509d6b,T Shamsi,a03bba42,SA Yadav,271f83cd,0,0,0,0,0,,,,,,1,0,1
+1387599,2023/24,India,18,RK Singh,0a509d6b,N Burger,465aa633,SA Yadav,271f83cd,0,0,0,0,0,,,,,,1,0,1
+1387599,2023/24,India,18,SA Yadav,271f83cd,N Burger,465aa633,RK Singh,0a509d6b,0,0,0,0,0,,,,,,1,0,1
+1387599,2023/24,India,18,RK Singh,0a509d6b,N Burger,465aa633,SA Yadav,271f83cd,0,0,0,0,1,RK Singh,0a509d6b,T Stubbs,85b3fab2,caught,0,0,0
+1387599,2023/24,India,18,JM Sharma,800d2d97,N Burger,465aa633,SA Yadav,271f83cd,0,0,0,0,0,,,,,,0,0,0
+1387599,2023/24,India,18,JM Sharma,800d2d97,N Burger,465aa633,SA Yadav,271f83cd,0,0,0,0,0,,,,,,4,0,4
+1387599,2023/24,India,18,JM Sharma,800d2d97,N Burger,465aa633,SA Yadav,271f83cd,0,0,0,0,0,,,,,,0,0,0
+1387599,2023/24,India,19,SA Yadav,271f83cd,LB Williams,a1d95bd8,JM Sharma,800d2d97,0,0,0,0,0,,,,,,2,0,2
+1387599,2023/24,India,19,SA Yadav,271f83cd,LB Williams,a1d95bd8,JM Sharma,800d2d97,0,0,0,0,1,SA Yadav,271f83cd,MP Breetzke,35f173a0,caught,0,0,0
+1387599,2023/24,India,19,RA Jadeja,fe93fd9d,LB Williams,a1d95bd8,JM Sharma,800d2d97,1,0,0,0,0,,,,,,0,1,1
+1387599,2023/24,India,19,RA Jadeja,fe93fd9d,LB Williams,a1d95bd8,JM Sharma,800d2d97,0,0,0,0,0,,,,,,4,0,4
+1387599,2023/24,India,19,RA Jadeja,fe93fd9d,LB Williams,a1d95bd8,JM Sharma,800d2d97,0,0,0,0,1,RA Jadeja,fe93fd9d,H Klaasen,235c2bb6,run out,0,0,0
+1387599,2023/24,India,19,JM Sharma,800d2d97,LB Williams,a1d95bd8,Arshdeep Singh,244048f6,0,0,0,0,1,JM Sharma,800d2d97,,,hit wicket,0,0,0
+1387599,2023/24,India,19,Mohammed Siraj,2f49c897,LB Williams,a1d95bd8,Arshdeep Singh,244048f6,0,0,0,0,0,,,,,,2,0,2
+1387599,2023/24,South Africa,0,RR Hendricks,b8cc58c9,Mohammed Siraj,2f49c897,MP Breetzke,35f173a0,0,0,0,0,0,,,,,,0,0,0
+1387599,2023/24,South Africa,0,RR Hendricks,b8cc58c9,Mohammed Siraj,2f49c897,MP Breetzke,35f173a0,0,0,0,0,0,,,,,,0,0,0
+1387599,2023/24,South Africa,0,RR Hendricks,b8cc58c9,Mohammed Siraj,2f49c897,MP Breetzke,35f173a0,0,0,0,0,0,,,,,,0,0,0
+1387599,2023/24,South Africa,0,RR Hendricks,b8cc58c9,Mohammed Siraj,2f49c897,MP Breetzke,35f173a0,0,0,0,0,0,,,,,,0,0,0
+1387599,2023/24,South Africa,0,RR Hendricks,b8cc58c9,Mohammed Siraj,2f49c897,MP Breetzke,35f173a0,0,0,0,0,0,,,,,,0,0,0
+1387599,2023/24,South Africa,0,RR Hendricks,b8cc58c9,Mohammed Siraj,2f49c897,MP Breetzke,35f173a0,0,0,0,0,0,,,,,,0,0,0
+1387599,2023/24,South Africa,1,MP Breetzke,35f173a0,Mukesh Kumar,2cffab74,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,0,0,0
+1387599,2023/24,South Africa,1,MP Breetzke,35f173a0,Mukesh Kumar,2cffab74,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,4,0,4
+1387599,2023/24,South Africa,1,MP Breetzke,35f173a0,Mukesh Kumar,2cffab74,RR Hendricks,b8cc58c9,0,0,0,0,1,MP Breetzke,35f173a0,,,bowled,0,0,0
+1387599,2023/24,South Africa,1,AK Markram,6a26221c,Mukesh Kumar,2cffab74,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,0,0,0
+1387599,2023/24,South Africa,1,AK Markram,6a26221c,Mukesh Kumar,2cffab74,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,6,0,6
+1387599,2023/24,South Africa,1,AK Markram,6a26221c,Mukesh Kumar,2cffab74,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,4,0,4
+1387599,2023/24,South Africa,2,RR Hendricks,b8cc58c9,Mohammed Siraj,2f49c897,AK Markram,6a26221c,0,0,0,0,0,,,,,,0,0,0
+1387599,2023/24,South Africa,2,RR Hendricks,b8cc58c9,Mohammed Siraj,2f49c897,AK Markram,6a26221c,0,0,0,0,0,,,,,,0,0,0
+1387599,2023/24,South Africa,2,RR Hendricks,b8cc58c9,Mohammed Siraj,2f49c897,AK Markram,6a26221c,0,0,0,0,0,,,,,,2,0,2
+1387599,2023/24,South Africa,2,RR Hendricks,b8cc58c9,Mohammed Siraj,2f49c897,AK Markram,6a26221c,0,0,0,0,0,,,,,,0,0,0
+1387599,2023/24,South Africa,2,RR Hendricks,b8cc58c9,Mohammed Siraj,2f49c897,AK Markram,6a26221c,0,0,0,0,0,,,,,,4,0,4
+1387599,2023/24,South Africa,2,RR Hendricks,b8cc58c9,Mohammed Siraj,2f49c897,AK Markram,6a26221c,0,0,0,0,0,,,,,,2,0,2
+1387599,2023/24,South Africa,3,AK Markram,6a26221c,Arshdeep Singh,244048f6,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,1,0,1
+1387599,2023/24,South Africa,3,RR Hendricks,b8cc58c9,Arshdeep Singh,244048f6,AK Markram,6a26221c,0,0,0,0,1,RR Hendricks,b8cc58c9,Mohammed Siraj,2f49c897,run out,0,0,0
+1387599,2023/24,South Africa,3,AK Markram,6a26221c,Arshdeep Singh,244048f6,H Klaasen,235c2bb6,0,0,0,0,0,,,,,,4,0,4
+1387599,2023/24,South Africa,3,AK Markram,6a26221c,Arshdeep Singh,244048f6,H Klaasen,235c2bb6,0,0,0,0,0,,,,,,0,0,0
+1387599,2023/24,South Africa,3,AK Markram,6a26221c,Arshdeep Singh,244048f6,H Klaasen,235c2bb6,0,0,0,0,0,,,,,,4,0,4
+1387599,2023/24,South Africa,3,AK Markram,6a26221c,Arshdeep Singh,244048f6,H Klaasen,235c2bb6,0,0,0,0,0,,,,,,0,0,0
+1387599,2023/24,South Africa,4,H Klaasen,235c2bb6,Mukesh Kumar,2cffab74,AK Markram,6a26221c,0,0,0,0,0,,,,,,1,0,1
+1387599,2023/24,South Africa,4,AK Markram,6a26221c,Mukesh Kumar,2cffab74,H Klaasen,235c2bb6,0,0,0,0,0,,,,,,0,0,0
+1387599,2023/24,South Africa,4,AK Markram,6a26221c,Mukesh Kumar,2cffab74,H Klaasen,235c2bb6,0,0,0,0,0,,,,,,0,0,0
+1387599,2023/24,South Africa,4,AK Markram,6a26221c,Mukesh Kumar,2cffab74,H Klaasen,235c2bb6,0,0,0,0,0,,,,,,0,0,0
+1387599,2023/24,South Africa,4,AK Markram,6a26221c,Mukesh Kumar,2cffab74,H Klaasen,235c2bb6,0,0,0,0,0,,,,,,0,0,0
+1387599,2023/24,South Africa,4,AK Markram,6a26221c,Mukesh Kumar,2cffab74,H Klaasen,235c2bb6,0,0,0,0,0,,,,,,6,0,6
+1387599,2023/24,South Africa,5,H Klaasen,235c2bb6,Arshdeep Singh,244048f6,AK Markram,6a26221c,0,0,0,0,0,,,,,,0,0,0
+1387599,2023/24,South Africa,5,H Klaasen,235c2bb6,Arshdeep Singh,244048f6,AK Markram,6a26221c,0,0,0,0,0,,,,,,4,0,4
+1387599,2023/24,South Africa,5,H Klaasen,235c2bb6,Arshdeep Singh,244048f6,AK Markram,6a26221c,0,0,0,0,0,,,,,,0,0,0
+1387599,2023/24,South Africa,5,H Klaasen,235c2bb6,Arshdeep Singh,244048f6,AK Markram,6a26221c,0,0,0,0,1,H Klaasen,235c2bb6,RK Singh,0a509d6b,caught,0,0,0
+1387599,2023/24,South Africa,5,DA Miller,d67d5f00,Arshdeep Singh,244048f6,AK Markram,6a26221c,0,0,0,0,0,,,,,,0,0,0
+1387599,2023/24,South Africa,5,DA Miller,d67d5f00,Arshdeep Singh,244048f6,AK Markram,6a26221c,0,0,0,0,0,,,,,,0,0,0
+1387599,2023/24,South Africa,6,AK Markram,6a26221c,RA Jadeja,fe93fd9d,DA Miller,d67d5f00,0,0,0,0,1,AK Markram,6a26221c,YBK Jaiswal,6c19c6e5,caught,0,0,0
+1387599,2023/24,South Africa,6,D Ferreira,f0af99a7,RA Jadeja,fe93fd9d,DA Miller,d67d5f00,0,0,0,0,0,,,,,,1,0,1
+1387599,2023/24,South Africa,6,DA Miller,d67d5f00,RA Jadeja,fe93fd9d,D Ferreira,f0af99a7,0,0,0,0,0,,,,,,0,0,0
+1387599,2023/24,South Africa,6,DA Miller,d67d5f00,RA Jadeja,fe93fd9d,D Ferreira,f0af99a7,0,0,0,0,0,,,,,,1,0,1
+1387599,2023/24,South Africa,6,D Ferreira,f0af99a7,RA Jadeja,fe93fd9d,DA Miller,d67d5f00,0,0,0,0,0,,,,,,1,0,1
+1387599,2023/24,South Africa,6,DA Miller,d67d5f00,RA Jadeja,fe93fd9d,D Ferreira,f0af99a7,0,0,0,0,0,,,,,,2,0,2
+1387599,2023/24,South Africa,7,D Ferreira,f0af99a7,Tilak Varma,b0482a1d,DA Miller,d67d5f00,0,0,0,0,0,,,,,,0,0,0
+1387599,2023/24,South Africa,7,D Ferreira,f0af99a7,Tilak Varma,b0482a1d,DA Miller,d67d5f00,0,0,0,0,0,,,,,,0,0,0
+1387599,2023/24,South Africa,7,D Ferreira,f0af99a7,Tilak Varma,b0482a1d,DA Miller,d67d5f00,0,0,0,0,0,,,,,,0,0,0
+1387599,2023/24,South Africa,7,D Ferreira,f0af99a7,Tilak Varma,b0482a1d,DA Miller,d67d5f00,0,0,0,0,0,,,,,,1,0,1
+1387599,2023/24,South Africa,7,DA Miller,d67d5f00,Tilak Varma,b0482a1d,D Ferreira,f0af99a7,0,0,0,0,0,,,,,,2,0,2
+1387599,2023/24,South Africa,7,DA Miller,d67d5f00,Tilak Varma,b0482a1d,D Ferreira,f0af99a7,0,0,0,0,0,,,,,,1,0,1
+1387599,2023/24,South Africa,8,DA Miller,d67d5f00,RA Jadeja,fe93fd9d,D Ferreira,f0af99a7,0,0,0,0,0,,,,,,6,0,6
+1387599,2023/24,South Africa,8,DA Miller,d67d5f00,RA Jadeja,fe93fd9d,D Ferreira,f0af99a7,0,0,0,0,0,,,,,,0,0,0
+1387599,2023/24,South Africa,8,DA Miller,d67d5f00,RA Jadeja,fe93fd9d,D Ferreira,f0af99a7,0,0,0,0,0,,,,,,6,0,6
+1387599,2023/24,South Africa,8,DA Miller,d67d5f00,RA Jadeja,fe93fd9d,D Ferreira,f0af99a7,0,0,0,0,0,,,,,,0,0,0
+1387599,2023/24,South Africa,8,DA Miller,d67d5f00,RA Jadeja,fe93fd9d,D Ferreira,f0af99a7,0,0,0,0,0,,,,,,1,0,1
+1387599,2023/24,South Africa,8,D Ferreira,f0af99a7,RA Jadeja,fe93fd9d,DA Miller,d67d5f00,0,0,0,0,0,,,,,,2,0,2
+1387599,2023/24,South Africa,9,DA Miller,d67d5f00,Kuldeep Yadav,8d2c70ad,D Ferreira,f0af99a7,0,0,0,0,0,,,,,,1,0,1
+1387599,2023/24,South Africa,9,D Ferreira,f0af99a7,Kuldeep Yadav,8d2c70ad,DA Miller,d67d5f00,0,0,0,0,0,,,,,,0,0,0
+1387599,2023/24,South Africa,9,D Ferreira,f0af99a7,Kuldeep Yadav,8d2c70ad,DA Miller,d67d5f00,0,0,0,0,0,,,,,,1,0,1
+1387599,2023/24,South Africa,9,DA Miller,d67d5f00,Kuldeep Yadav,8d2c70ad,D Ferreira,f0af99a7,0,0,0,0,0,,,,,,1,0,1
+1387599,2023/24,South Africa,9,D Ferreira,f0af99a7,Kuldeep Yadav,8d2c70ad,DA Miller,d67d5f00,0,0,0,0,0,,,,,,6,0,6
+1387599,2023/24,South Africa,9,D Ferreira,f0af99a7,Kuldeep Yadav,8d2c70ad,DA Miller,d67d5f00,0,0,0,0,1,D Ferreira,f0af99a7,,,bowled,0,0,0
+1387599,2023/24,South Africa,10,DA Miller,d67d5f00,RA Jadeja,fe93fd9d,AL Phehlukwayo,ab6b1c45,0,0,1,0,0,,,,,,0,1,1
+1387599,2023/24,South Africa,10,AL Phehlukwayo,ab6b1c45,RA Jadeja,fe93fd9d,DA Miller,d67d5f00,0,0,1,0,0,,,,,,0,1,1
+1387599,2023/24,South Africa,10,DA Miller,d67d5f00,RA Jadeja,fe93fd9d,AL Phehlukwayo,ab6b1c45,0,0,0,0,0,,,,,,4,0,4
+1387599,2023/24,South Africa,10,DA Miller,d67d5f00,RA Jadeja,fe93fd9d,AL Phehlukwayo,ab6b1c45,0,0,0,0,0,,,,,,1,0,1
+1387599,2023/24,South Africa,10,AL Phehlukwayo,ab6b1c45,RA Jadeja,fe93fd9d,DA Miller,d67d5f00,0,0,0,0,0,,,,,,0,0,0
+1387599,2023/24,South Africa,10,AL Phehlukwayo,ab6b1c45,RA Jadeja,fe93fd9d,DA Miller,d67d5f00,0,0,0,0,1,AL Phehlukwayo,ab6b1c45,,,caught and bowled,0,0,0
+1387599,2023/24,South Africa,11,DA Miller,d67d5f00,Kuldeep Yadav,8d2c70ad,KA Maharaj,0b60eb09,0,0,0,0,0,,,,,,1,0,1
+1387599,2023/24,South Africa,11,KA Maharaj,0b60eb09,Kuldeep Yadav,8d2c70ad,DA Miller,d67d5f00,0,0,0,0,0,,,,,,1,0,1
+1387599,2023/24,South Africa,11,DA Miller,d67d5f00,Kuldeep Yadav,8d2c70ad,KA Maharaj,0b60eb09,0,0,0,0,0,,,,,,4,0,4
+1387599,2023/24,South Africa,11,DA Miller,d67d5f00,Kuldeep Yadav,8d2c70ad,KA Maharaj,0b60eb09,0,0,0,0,0,,,,,,1,0,1
+1387599,2023/24,South Africa,11,KA Maharaj,0b60eb09,Kuldeep Yadav,8d2c70ad,DA Miller,d67d5f00,0,0,0,0,0,,,,,,0,0,0
+1387599,2023/24,South Africa,11,KA Maharaj,0b60eb09,Kuldeep Yadav,8d2c70ad,DA Miller,d67d5f00,0,0,0,0,1,KA Maharaj,0b60eb09,,,bowled,0,0,0
+1387599,2023/24,South Africa,12,DA Miller,d67d5f00,Mohammed Siraj,2f49c897,N Burger,465aa633,0,0,0,0,0,,,,,,1,0,1
+1387599,2023/24,South Africa,12,N Burger,465aa633,Mohammed Siraj,2f49c897,DA Miller,d67d5f00,0,0,0,0,0,,,,,,0,0,0
+1387599,2023/24,South Africa,12,N Burger,465aa633,Mohammed Siraj,2f49c897,DA Miller,d67d5f00,0,0,0,0,0,,,,,,1,0,1
+1387599,2023/24,South Africa,12,DA Miller,d67d5f00,Mohammed Siraj,2f49c897,N Burger,465aa633,1,0,0,0,0,,,,,,0,1,1
+1387599,2023/24,South Africa,12,DA Miller,d67d5f00,Mohammed Siraj,2f49c897,N Burger,465aa633,0,0,0,0,0,,,,,,2,0,2
+1387599,2023/24,South Africa,12,DA Miller,d67d5f00,Mohammed Siraj,2f49c897,N Burger,465aa633,0,0,0,0,0,,,,,,0,0,0
+1387599,2023/24,South Africa,12,DA Miller,d67d5f00,Mohammed Siraj,2f49c897,N Burger,465aa633,0,0,0,0,0,,,,,,0,0,0
+1387599,2023/24,South Africa,13,N Burger,465aa633,Kuldeep Yadav,8d2c70ad,DA Miller,d67d5f00,0,0,0,0,1,N Burger,465aa633,,,lbw,0,0,0
+1387599,2023/24,South Africa,13,LB Williams,a1d95bd8,Kuldeep Yadav,8d2c70ad,DA Miller,d67d5f00,0,0,0,0,0,,,,,,0,0,0
+1387599,2023/24,South Africa,13,LB Williams,a1d95bd8,Kuldeep Yadav,8d2c70ad,DA Miller,d67d5f00,0,0,0,0,1,LB Williams,a1d95bd8,,,lbw,0,0,0
+1387599,2023/24,South Africa,13,T Shamsi,a03bba42,Kuldeep Yadav,8d2c70ad,DA Miller,d67d5f00,0,0,0,0,0,,,,,,1,0,1
+1387599,2023/24,South Africa,13,DA Miller,d67d5f00,Kuldeep Yadav,8d2c70ad,T Shamsi,a03bba42,0,0,0,0,1,DA Miller,d67d5f00,,,bowled,0,0,0

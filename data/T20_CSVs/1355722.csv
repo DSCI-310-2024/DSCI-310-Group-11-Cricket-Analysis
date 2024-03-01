@@ -1,0 +1,207 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1355722,2022/23,Bangladesh,0,Liton Das,0404d43c,F Hand,e3fe4b49,Rony Talukdar,8bd614b2,0,0,0,0,0,,,,,,4,0,4
+1355722,2022/23,Bangladesh,0,Liton Das,0404d43c,F Hand,e3fe4b49,Rony Talukdar,8bd614b2,0,0,0,0,0,,,,,,0,0,0
+1355722,2022/23,Bangladesh,0,Liton Das,0404d43c,F Hand,e3fe4b49,Rony Talukdar,8bd614b2,0,0,0,0,0,,,,,,1,0,1
+1355722,2022/23,Bangladesh,0,Rony Talukdar,8bd614b2,F Hand,e3fe4b49,Liton Das,0404d43c,0,0,0,0,0,,,,,,4,0,4
+1355722,2022/23,Bangladesh,0,Rony Talukdar,8bd614b2,F Hand,e3fe4b49,Liton Das,0404d43c,0,0,0,0,0,,,,,,0,0,0
+1355722,2022/23,Bangladesh,0,Rony Talukdar,8bd614b2,F Hand,e3fe4b49,Liton Das,0404d43c,0,0,0,0,0,,,,,,0,0,0
+1355722,2022/23,Bangladesh,1,Liton Das,0404d43c,MR Adair,fc55ec67,Rony Talukdar,8bd614b2,0,0,0,0,1,Liton Das,0404d43c,GH Dockrell,99cddc5e,caught,0,0,0
+1355722,2022/23,Bangladesh,1,Nazmul Hossain Shanto,1274d7ab,MR Adair,fc55ec67,Rony Talukdar,8bd614b2,0,0,0,0,0,,,,,,0,0,0
+1355722,2022/23,Bangladesh,1,Nazmul Hossain Shanto,1274d7ab,MR Adair,fc55ec67,Rony Talukdar,8bd614b2,0,0,0,0,0,,,,,,0,0,0
+1355722,2022/23,Bangladesh,1,Nazmul Hossain Shanto,1274d7ab,MR Adair,fc55ec67,Rony Talukdar,8bd614b2,0,0,0,0,0,,,,,,0,0,0
+1355722,2022/23,Bangladesh,1,Nazmul Hossain Shanto,1274d7ab,MR Adair,fc55ec67,Rony Talukdar,8bd614b2,0,0,0,0,0,,,,,,1,0,1
+1355722,2022/23,Bangladesh,1,Rony Talukdar,8bd614b2,MR Adair,fc55ec67,Nazmul Hossain Shanto,1274d7ab,0,0,0,0,0,,,,,,4,0,4
+1355722,2022/23,Bangladesh,2,Nazmul Hossain Shanto,1274d7ab,HT Tector,59ea70a4,Rony Talukdar,8bd614b2,0,0,0,0,0,,,,,,2,0,2
+1355722,2022/23,Bangladesh,2,Nazmul Hossain Shanto,1274d7ab,HT Tector,59ea70a4,Rony Talukdar,8bd614b2,0,0,0,0,0,,,,,,1,0,1
+1355722,2022/23,Bangladesh,2,Rony Talukdar,8bd614b2,HT Tector,59ea70a4,Nazmul Hossain Shanto,1274d7ab,0,0,0,0,0,,,,,,0,0,0
+1355722,2022/23,Bangladesh,2,Rony Talukdar,8bd614b2,HT Tector,59ea70a4,Nazmul Hossain Shanto,1274d7ab,0,0,0,0,0,,,,,,1,0,1
+1355722,2022/23,Bangladesh,2,Nazmul Hossain Shanto,1274d7ab,HT Tector,59ea70a4,Rony Talukdar,8bd614b2,0,0,0,0,0,,,,,,0,0,0
+1355722,2022/23,Bangladesh,2,Nazmul Hossain Shanto,1274d7ab,HT Tector,59ea70a4,Rony Talukdar,8bd614b2,0,0,0,0,1,Nazmul Hossain Shanto,1274d7ab,C Campher,478a63e7,caught,0,0,0
+1355722,2022/23,Bangladesh,3,Rony Talukdar,8bd614b2,C Campher,478a63e7,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+1355722,2022/23,Bangladesh,3,Shakib Al Hasan,7dc35884,C Campher,478a63e7,Rony Talukdar,8bd614b2,0,0,0,0,0,,,,,,1,0,1
+1355722,2022/23,Bangladesh,3,Rony Talukdar,8bd614b2,C Campher,478a63e7,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,4,0,4
+1355722,2022/23,Bangladesh,3,Rony Talukdar,8bd614b2,C Campher,478a63e7,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+1355722,2022/23,Bangladesh,3,Rony Talukdar,8bd614b2,C Campher,478a63e7,Shakib Al Hasan,7dc35884,0,0,0,0,1,Rony Talukdar,8bd614b2,MR Adair,fc55ec67,caught,0,0,0
+1355722,2022/23,Bangladesh,3,Towhid Hridoy,9e52a414,C Campher,478a63e7,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+1355722,2022/23,Bangladesh,4,Shakib Al Hasan,7dc35884,HT Tector,59ea70a4,Towhid Hridoy,9e52a414,0,0,0,0,0,,,,,,1,0,1
+1355722,2022/23,Bangladesh,4,Towhid Hridoy,9e52a414,HT Tector,59ea70a4,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,4,0,4
+1355722,2022/23,Bangladesh,4,Towhid Hridoy,9e52a414,HT Tector,59ea70a4,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,6,0,6
+1355722,2022/23,Bangladesh,4,Towhid Hridoy,9e52a414,HT Tector,59ea70a4,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+1355722,2022/23,Bangladesh,4,Towhid Hridoy,9e52a414,HT Tector,59ea70a4,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+1355722,2022/23,Bangladesh,4,Shakib Al Hasan,7dc35884,HT Tector,59ea70a4,Towhid Hridoy,9e52a414,0,0,0,0,0,,,,,,0,0,0
+1355722,2022/23,Bangladesh,5,Towhid Hridoy,9e52a414,MR Adair,fc55ec67,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+1355722,2022/23,Bangladesh,5,Towhid Hridoy,9e52a414,MR Adair,fc55ec67,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+1355722,2022/23,Bangladesh,5,Shakib Al Hasan,7dc35884,MR Adair,fc55ec67,Towhid Hridoy,9e52a414,0,0,0,0,0,,,,,,0,0,0
+1355722,2022/23,Bangladesh,5,Shakib Al Hasan,7dc35884,MR Adair,fc55ec67,Towhid Hridoy,9e52a414,0,0,0,0,0,,,,,,4,0,4
+1355722,2022/23,Bangladesh,5,Shakib Al Hasan,7dc35884,MR Adair,fc55ec67,Towhid Hridoy,9e52a414,0,0,0,0,1,Shakib Al Hasan,7dc35884,B White,1a448be0,caught,0,0,0
+1355722,2022/23,Bangladesh,5,Shamim Hossain,711249d1,MR Adair,fc55ec67,Towhid Hridoy,9e52a414,0,0,0,0,0,,,,,,0,0,0
+1355722,2022/23,Bangladesh,6,Towhid Hridoy,9e52a414,B White,1a448be0,Shamim Hossain,711249d1,0,0,0,0,0,,,,,,0,0,0
+1355722,2022/23,Bangladesh,6,Towhid Hridoy,9e52a414,B White,1a448be0,Shamim Hossain,711249d1,0,0,0,0,0,,,,,,0,0,0
+1355722,2022/23,Bangladesh,6,Towhid Hridoy,9e52a414,B White,1a448be0,Shamim Hossain,711249d1,0,0,0,0,1,Towhid Hridoy,9e52a414,HT Tector,59ea70a4,caught,0,0,0
+1355722,2022/23,Bangladesh,6,Rishad Hossain,5935d694,B White,1a448be0,Shamim Hossain,711249d1,0,0,0,0,0,,,,,,0,0,0
+1355722,2022/23,Bangladesh,6,Rishad Hossain,5935d694,B White,1a448be0,Shamim Hossain,711249d1,0,0,0,0,0,,,,,,0,0,0
+1355722,2022/23,Bangladesh,6,Rishad Hossain,5935d694,B White,1a448be0,Shamim Hossain,711249d1,0,0,0,0,0,,,,,,6,0,6
+1355722,2022/23,Bangladesh,7,Shamim Hossain,711249d1,C Campher,478a63e7,Rishad Hossain,5935d694,0,0,0,0,0,,,,,,0,0,0
+1355722,2022/23,Bangladesh,7,Shamim Hossain,711249d1,C Campher,478a63e7,Rishad Hossain,5935d694,0,0,0,0,0,,,,,,0,0,0
+1355722,2022/23,Bangladesh,7,Shamim Hossain,711249d1,C Campher,478a63e7,Rishad Hossain,5935d694,0,0,0,0,0,,,,,,0,0,0
+1355722,2022/23,Bangladesh,7,Shamim Hossain,711249d1,C Campher,478a63e7,Rishad Hossain,5935d694,0,0,0,0,0,,,,,,4,0,4
+1355722,2022/23,Bangladesh,7,Shamim Hossain,711249d1,C Campher,478a63e7,Rishad Hossain,5935d694,0,0,0,0,0,,,,,,0,0,0
+1355722,2022/23,Bangladesh,7,Shamim Hossain,711249d1,C Campher,478a63e7,Rishad Hossain,5935d694,0,0,0,0,0,,,,,,1,0,1
+1355722,2022/23,Bangladesh,8,Shamim Hossain,711249d1,HT Tector,59ea70a4,Rishad Hossain,5935d694,0,0,0,0,0,,,,,,1,0,1
+1355722,2022/23,Bangladesh,8,Rishad Hossain,5935d694,HT Tector,59ea70a4,Shamim Hossain,711249d1,0,0,0,0,0,,,,,,0,0,0
+1355722,2022/23,Bangladesh,8,Rishad Hossain,5935d694,HT Tector,59ea70a4,Shamim Hossain,711249d1,0,0,0,0,0,,,,,,1,0,1
+1355722,2022/23,Bangladesh,8,Shamim Hossain,711249d1,HT Tector,59ea70a4,Rishad Hossain,5935d694,0,0,0,0,0,,,,,,1,0,1
+1355722,2022/23,Bangladesh,8,Rishad Hossain,5935d694,HT Tector,59ea70a4,Shamim Hossain,711249d1,1,0,0,0,0,,,,,,0,1,1
+1355722,2022/23,Bangladesh,8,Rishad Hossain,5935d694,HT Tector,59ea70a4,Shamim Hossain,711249d1,0,0,0,0,0,,,,,,1,0,1
+1355722,2022/23,Bangladesh,8,Shamim Hossain,711249d1,HT Tector,59ea70a4,Rishad Hossain,5935d694,0,0,0,0,0,,,,,,4,0,4
+1355722,2022/23,Bangladesh,9,Rishad Hossain,5935d694,MJ Humphreys,2c54c49b,Shamim Hossain,711249d1,0,0,0,0,1,Rishad Hossain,5935d694,,,bowled,0,0,0
+1355722,2022/23,Bangladesh,9,Taskin Ahmed,ef18b66e,MJ Humphreys,2c54c49b,Shamim Hossain,711249d1,0,0,0,0,0,,,,,,0,0,0
+1355722,2022/23,Bangladesh,9,Taskin Ahmed,ef18b66e,MJ Humphreys,2c54c49b,Shamim Hossain,711249d1,0,0,0,0,1,Taskin Ahmed,ef18b66e,C Campher,478a63e7,caught,0,0,0
+1355722,2022/23,Bangladesh,9,Nasum Ahmed,37654b75,MJ Humphreys,2c54c49b,Shamim Hossain,711249d1,0,0,0,0,0,,,,,,1,0,1
+1355722,2022/23,Bangladesh,9,Shamim Hossain,711249d1,MJ Humphreys,2c54c49b,Nasum Ahmed,37654b75,0,0,0,0,0,,,,,,1,0,1
+1355722,2022/23,Bangladesh,9,Nasum Ahmed,37654b75,MJ Humphreys,2c54c49b,Shamim Hossain,711249d1,0,0,0,0,0,,,,,,1,0,1
+1355722,2022/23,Bangladesh,10,Nasum Ahmed,37654b75,HT Tector,59ea70a4,Shamim Hossain,711249d1,0,0,0,0,0,,,,,,1,0,1
+1355722,2022/23,Bangladesh,10,Shamim Hossain,711249d1,HT Tector,59ea70a4,Nasum Ahmed,37654b75,0,0,0,0,0,,,,,,0,0,0
+1355722,2022/23,Bangladesh,10,Shamim Hossain,711249d1,HT Tector,59ea70a4,Nasum Ahmed,37654b75,0,0,0,0,0,,,,,,1,0,1
+1355722,2022/23,Bangladesh,10,Nasum Ahmed,37654b75,HT Tector,59ea70a4,Shamim Hossain,711249d1,0,0,0,0,0,,,,,,0,0,0
+1355722,2022/23,Bangladesh,10,Nasum Ahmed,37654b75,HT Tector,59ea70a4,Shamim Hossain,711249d1,0,0,0,0,0,,,,,,1,0,1
+1355722,2022/23,Bangladesh,10,Shamim Hossain,711249d1,HT Tector,59ea70a4,Nasum Ahmed,37654b75,0,0,1,0,0,,,,,,0,1,1
+1355722,2022/23,Bangladesh,11,Shamim Hossain,711249d1,MJ Humphreys,2c54c49b,Nasum Ahmed,37654b75,0,0,0,0,0,,,,,,1,0,1
+1355722,2022/23,Bangladesh,11,Nasum Ahmed,37654b75,MJ Humphreys,2c54c49b,Shamim Hossain,711249d1,0,0,0,0,0,,,,,,0,0,0
+1355722,2022/23,Bangladesh,11,Nasum Ahmed,37654b75,MJ Humphreys,2c54c49b,Shamim Hossain,711249d1,0,0,0,0,0,,,,,,1,0,1
+1355722,2022/23,Bangladesh,11,Shamim Hossain,711249d1,MJ Humphreys,2c54c49b,Nasum Ahmed,37654b75,0,0,0,0,0,,,,,,4,0,4
+1355722,2022/23,Bangladesh,11,Shamim Hossain,711249d1,MJ Humphreys,2c54c49b,Nasum Ahmed,37654b75,0,0,0,0,0,,,,,,1,0,1
+1355722,2022/23,Bangladesh,11,Nasum Ahmed,37654b75,MJ Humphreys,2c54c49b,Shamim Hossain,711249d1,0,0,0,0,0,,,,,,0,0,0
+1355722,2022/23,Bangladesh,12,Shamim Hossain,711249d1,C Campher,478a63e7,Nasum Ahmed,37654b75,0,0,0,0,0,,,,,,1,0,1
+1355722,2022/23,Bangladesh,12,Nasum Ahmed,37654b75,C Campher,478a63e7,Shamim Hossain,711249d1,0,0,0,0,0,,,,,,1,0,1
+1355722,2022/23,Bangladesh,12,Shamim Hossain,711249d1,C Campher,478a63e7,Nasum Ahmed,37654b75,0,0,0,0,0,,,,,,0,0,0
+1355722,2022/23,Bangladesh,12,Shamim Hossain,711249d1,C Campher,478a63e7,Nasum Ahmed,37654b75,0,0,0,0,0,,,,,,2,0,2
+1355722,2022/23,Bangladesh,12,Shamim Hossain,711249d1,C Campher,478a63e7,Nasum Ahmed,37654b75,0,0,0,0,0,,,,,,0,0,0
+1355722,2022/23,Bangladesh,12,Shamim Hossain,711249d1,C Campher,478a63e7,Nasum Ahmed,37654b75,0,0,0,0,0,,,,,,1,0,1
+1355722,2022/23,Bangladesh,13,Shamim Hossain,711249d1,B White,1a448be0,Nasum Ahmed,37654b75,1,0,0,0,0,,,,,,0,1,1
+1355722,2022/23,Bangladesh,13,Shamim Hossain,711249d1,B White,1a448be0,Nasum Ahmed,37654b75,0,0,0,0,0,,,,,,0,0,0
+1355722,2022/23,Bangladesh,13,Shamim Hossain,711249d1,B White,1a448be0,Nasum Ahmed,37654b75,0,0,0,0,0,,,,,,1,0,1
+1355722,2022/23,Bangladesh,13,Nasum Ahmed,37654b75,B White,1a448be0,Shamim Hossain,711249d1,0,0,0,0,0,,,,,,1,0,1
+1355722,2022/23,Bangladesh,13,Shamim Hossain,711249d1,B White,1a448be0,Nasum Ahmed,37654b75,0,0,0,0,0,,,,,,4,0,4
+1355722,2022/23,Bangladesh,13,Shamim Hossain,711249d1,B White,1a448be0,Nasum Ahmed,37654b75,0,0,0,0,0,,,,,,1,0,1
+1355722,2022/23,Bangladesh,13,Nasum Ahmed,37654b75,B White,1a448be0,Shamim Hossain,711249d1,0,0,0,0,0,,,,,,1,0,1
+1355722,2022/23,Bangladesh,14,Nasum Ahmed,37654b75,F Hand,e3fe4b49,Shamim Hossain,711249d1,0,0,0,0,0,,,,,,0,0,0
+1355722,2022/23,Bangladesh,14,Nasum Ahmed,37654b75,F Hand,e3fe4b49,Shamim Hossain,711249d1,0,0,0,0,0,,,,,,4,0,4
+1355722,2022/23,Bangladesh,14,Nasum Ahmed,37654b75,F Hand,e3fe4b49,Shamim Hossain,711249d1,0,0,0,0,0,,,,,,0,0,0
+1355722,2022/23,Bangladesh,14,Nasum Ahmed,37654b75,F Hand,e3fe4b49,Shamim Hossain,711249d1,0,0,0,0,0,,,,,,0,0,0
+1355722,2022/23,Bangladesh,14,Nasum Ahmed,37654b75,F Hand,e3fe4b49,Shamim Hossain,711249d1,0,0,0,0,0,,,,,,1,0,1
+1355722,2022/23,Bangladesh,14,Shamim Hossain,711249d1,F Hand,e3fe4b49,Nasum Ahmed,37654b75,0,0,0,0,0,,,,,,0,0,0
+1355722,2022/23,Bangladesh,15,Nasum Ahmed,37654b75,GJ Delany,33b3d2df,Shamim Hossain,711249d1,0,0,0,0,1,Nasum Ahmed,37654b75,PR Stirling,cf494ffe,caught,0,0,0
+1355722,2022/23,Bangladesh,15,Shoriful Islam,bb34fd31,GJ Delany,33b3d2df,Shamim Hossain,711249d1,0,0,0,0,0,,,,,,1,0,1
+1355722,2022/23,Bangladesh,15,Shamim Hossain,711249d1,GJ Delany,33b3d2df,Shoriful Islam,bb34fd31,0,0,0,0,0,,,,,,1,0,1
+1355722,2022/23,Bangladesh,15,Shoriful Islam,bb34fd31,GJ Delany,33b3d2df,Shamim Hossain,711249d1,0,0,0,0,0,,,,,,2,0,2
+1355722,2022/23,Bangladesh,15,Shoriful Islam,bb34fd31,GJ Delany,33b3d2df,Shamim Hossain,711249d1,0,0,0,0,0,,,,,,1,0,1
+1355722,2022/23,Bangladesh,15,Shamim Hossain,711249d1,GJ Delany,33b3d2df,Shoriful Islam,bb34fd31,1,0,0,0,0,,,,,,0,1,1
+1355722,2022/23,Bangladesh,15,Shamim Hossain,711249d1,GJ Delany,33b3d2df,Shoriful Islam,bb34fd31,0,0,0,0,0,,,,,,1,0,1
+1355722,2022/23,Bangladesh,16,Shamim Hossain,711249d1,MR Adair,fc55ec67,Shoriful Islam,bb34fd31,0,0,0,0,0,,,,,,0,0,0
+1355722,2022/23,Bangladesh,16,Shamim Hossain,711249d1,MR Adair,fc55ec67,Shoriful Islam,bb34fd31,0,0,0,0,0,,,,,,1,0,1
+1355722,2022/23,Bangladesh,16,Shoriful Islam,bb34fd31,MR Adair,fc55ec67,Shamim Hossain,711249d1,0,0,0,0,0,,,,,,1,0,1
+1355722,2022/23,Bangladesh,16,Shamim Hossain,711249d1,MR Adair,fc55ec67,Shoriful Islam,bb34fd31,0,0,0,0,0,,,,,,1,0,1
+1355722,2022/23,Bangladesh,16,Shoriful Islam,bb34fd31,MR Adair,fc55ec67,Shamim Hossain,711249d1,0,0,0,0,1,Shoriful Islam,bb34fd31,L Tucker,3979b5e0,caught,0,0,0
+1355722,2022/23,Bangladesh,16,Hasan Mahmud,80ad39ac,MR Adair,fc55ec67,Shamim Hossain,711249d1,0,0,0,0,0,,,,,,0,0,0
+1355722,2022/23,Bangladesh,17,Shamim Hossain,711249d1,C Campher,478a63e7,Hasan Mahmud,80ad39ac,0,0,0,0,0,,,,,,6,0,6
+1355722,2022/23,Bangladesh,17,Shamim Hossain,711249d1,C Campher,478a63e7,Hasan Mahmud,80ad39ac,0,0,0,0,0,,,,,,0,0,0
+1355722,2022/23,Bangladesh,17,Shamim Hossain,711249d1,C Campher,478a63e7,Hasan Mahmud,80ad39ac,0,0,0,0,0,,,,,,0,0,0
+1355722,2022/23,Bangladesh,17,Shamim Hossain,711249d1,C Campher,478a63e7,Hasan Mahmud,80ad39ac,0,0,0,0,0,,,,,,1,0,1
+1355722,2022/23,Bangladesh,17,Hasan Mahmud,80ad39ac,C Campher,478a63e7,Shamim Hossain,711249d1,0,0,0,0,0,,,,,,0,0,0
+1355722,2022/23,Bangladesh,17,Hasan Mahmud,80ad39ac,C Campher,478a63e7,Shamim Hossain,711249d1,0,0,0,0,0,,,,,,0,0,0
+1355722,2022/23,Bangladesh,18,Shamim Hossain,711249d1,MR Adair,fc55ec67,Hasan Mahmud,80ad39ac,0,0,0,0,0,,,,,,0,0,0
+1355722,2022/23,Bangladesh,18,Shamim Hossain,711249d1,MR Adair,fc55ec67,Hasan Mahmud,80ad39ac,0,0,0,0,0,,,,,,1,0,1
+1355722,2022/23,Bangladesh,18,Hasan Mahmud,80ad39ac,MR Adair,fc55ec67,Shamim Hossain,711249d1,0,0,0,0,0,,,,,,1,0,1
+1355722,2022/23,Bangladesh,18,Shamim Hossain,711249d1,MR Adair,fc55ec67,Hasan Mahmud,80ad39ac,0,0,0,0,0,,,,,,6,0,6
+1355722,2022/23,Bangladesh,18,Shamim Hossain,711249d1,MR Adair,fc55ec67,Hasan Mahmud,80ad39ac,0,0,0,0,0,,,,,,4,0,4
+1355722,2022/23,Bangladesh,18,Shamim Hossain,711249d1,MR Adair,fc55ec67,Hasan Mahmud,80ad39ac,0,0,0,0,0,,,,,,0,0,0
+1355722,2022/23,Bangladesh,19,Hasan Mahmud,80ad39ac,F Hand,e3fe4b49,Shamim Hossain,711249d1,0,0,0,0,0,,,,,,1,0,1
+1355722,2022/23,Bangladesh,19,Shamim Hossain,711249d1,F Hand,e3fe4b49,Hasan Mahmud,80ad39ac,0,0,0,0,1,Shamim Hossain,711249d1,GH Dockrell,99cddc5e,caught,0,0,0
+1355722,2022/23,Ireland,0,PR Stirling,cf494ffe,Taskin Ahmed,ef18b66e,GR Adair,4ec96094,0,0,0,0,0,,,,,,0,0,0
+1355722,2022/23,Ireland,0,PR Stirling,cf494ffe,Taskin Ahmed,ef18b66e,GR Adair,4ec96094,0,0,0,0,0,,,,,,1,0,1
+1355722,2022/23,Ireland,0,GR Adair,4ec96094,Taskin Ahmed,ef18b66e,PR Stirling,cf494ffe,0,0,0,0,0,,,,,,0,0,0
+1355722,2022/23,Ireland,0,GR Adair,4ec96094,Taskin Ahmed,ef18b66e,PR Stirling,cf494ffe,0,0,0,0,0,,,,,,0,0,0
+1355722,2022/23,Ireland,0,GR Adair,4ec96094,Taskin Ahmed,ef18b66e,PR Stirling,cf494ffe,0,0,0,0,0,,,,,,4,0,4
+1355722,2022/23,Ireland,0,GR Adair,4ec96094,Taskin Ahmed,ef18b66e,PR Stirling,cf494ffe,0,0,0,0,0,,,,,,0,0,0
+1355722,2022/23,Ireland,1,PR Stirling,cf494ffe,Shakib Al Hasan,7dc35884,GR Adair,4ec96094,0,0,0,0,0,,,,,,4,0,4
+1355722,2022/23,Ireland,1,PR Stirling,cf494ffe,Shakib Al Hasan,7dc35884,GR Adair,4ec96094,0,0,0,0,0,,,,,,4,0,4
+1355722,2022/23,Ireland,1,PR Stirling,cf494ffe,Shakib Al Hasan,7dc35884,GR Adair,4ec96094,0,0,0,0,0,,,,,,0,0,0
+1355722,2022/23,Ireland,1,PR Stirling,cf494ffe,Shakib Al Hasan,7dc35884,GR Adair,4ec96094,0,0,0,0,0,,,,,,1,0,1
+1355722,2022/23,Ireland,1,GR Adair,4ec96094,Shakib Al Hasan,7dc35884,PR Stirling,cf494ffe,0,0,0,0,0,,,,,,1,0,1
+1355722,2022/23,Ireland,1,PR Stirling,cf494ffe,Shakib Al Hasan,7dc35884,GR Adair,4ec96094,0,0,0,0,0,,,,,,0,0,0
+1355722,2022/23,Ireland,2,GR Adair,4ec96094,Taskin Ahmed,ef18b66e,PR Stirling,cf494ffe,0,0,0,0,0,,,,,,2,0,2
+1355722,2022/23,Ireland,2,GR Adair,4ec96094,Taskin Ahmed,ef18b66e,PR Stirling,cf494ffe,0,0,0,0,0,,,,,,0,0,0
+1355722,2022/23,Ireland,2,GR Adair,4ec96094,Taskin Ahmed,ef18b66e,PR Stirling,cf494ffe,0,0,0,0,0,,,,,,0,0,0
+1355722,2022/23,Ireland,2,GR Adair,4ec96094,Taskin Ahmed,ef18b66e,PR Stirling,cf494ffe,0,0,0,0,1,GR Adair,4ec96094,,,bowled,0,0,0
+1355722,2022/23,Ireland,2,L Tucker,3979b5e0,Taskin Ahmed,ef18b66e,PR Stirling,cf494ffe,0,0,0,0,0,,,,,,0,0,0
+1355722,2022/23,Ireland,2,L Tucker,3979b5e0,Taskin Ahmed,ef18b66e,PR Stirling,cf494ffe,5,0,0,0,0,,,,,,0,5,5
+1355722,2022/23,Ireland,2,L Tucker,3979b5e0,Taskin Ahmed,ef18b66e,PR Stirling,cf494ffe,0,0,0,0,0,,,,,,0,0,0
+1355722,2022/23,Ireland,3,PR Stirling,cf494ffe,Hasan Mahmud,80ad39ac,L Tucker,3979b5e0,0,0,0,0,0,,,,,,6,0,6
+1355722,2022/23,Ireland,3,PR Stirling,cf494ffe,Hasan Mahmud,80ad39ac,L Tucker,3979b5e0,0,0,0,0,0,,,,,,0,0,0
+1355722,2022/23,Ireland,3,PR Stirling,cf494ffe,Hasan Mahmud,80ad39ac,L Tucker,3979b5e0,0,0,0,0,0,,,,,,4,0,4
+1355722,2022/23,Ireland,3,PR Stirling,cf494ffe,Hasan Mahmud,80ad39ac,L Tucker,3979b5e0,0,0,0,0,0,,,,,,1,0,1
+1355722,2022/23,Ireland,3,L Tucker,3979b5e0,Hasan Mahmud,80ad39ac,PR Stirling,cf494ffe,0,0,0,0,0,,,,,,2,0,2
+1355722,2022/23,Ireland,3,L Tucker,3979b5e0,Hasan Mahmud,80ad39ac,PR Stirling,cf494ffe,0,0,0,0,0,,,,,,1,0,1
+1355722,2022/23,Ireland,4,L Tucker,3979b5e0,Shakib Al Hasan,7dc35884,PR Stirling,cf494ffe,0,0,0,0,0,,,,,,0,0,0
+1355722,2022/23,Ireland,4,L Tucker,3979b5e0,Shakib Al Hasan,7dc35884,PR Stirling,cf494ffe,0,0,0,0,0,,,,,,1,0,1
+1355722,2022/23,Ireland,4,PR Stirling,cf494ffe,Shakib Al Hasan,7dc35884,L Tucker,3979b5e0,0,0,0,0,0,,,,,,4,0,4
+1355722,2022/23,Ireland,4,PR Stirling,cf494ffe,Shakib Al Hasan,7dc35884,L Tucker,3979b5e0,0,0,0,0,0,,,,,,0,0,0
+1355722,2022/23,Ireland,4,PR Stirling,cf494ffe,Shakib Al Hasan,7dc35884,L Tucker,3979b5e0,0,0,0,0,0,,,,,,0,0,0
+1355722,2022/23,Ireland,4,PR Stirling,cf494ffe,Shakib Al Hasan,7dc35884,L Tucker,3979b5e0,0,0,0,0,0,,,,,,0,0,0
+1355722,2022/23,Ireland,5,L Tucker,3979b5e0,Shoriful Islam,bb34fd31,PR Stirling,cf494ffe,0,0,0,0,1,L Tucker,3979b5e0,Liton Das,0404d43c,caught,0,0,0
+1355722,2022/23,Ireland,5,HT Tector,59ea70a4,Shoriful Islam,bb34fd31,PR Stirling,cf494ffe,0,0,0,0,0,,,,,,0,0,0
+1355722,2022/23,Ireland,5,HT Tector,59ea70a4,Shoriful Islam,bb34fd31,PR Stirling,cf494ffe,0,0,0,0,0,,,,,,1,0,1
+1355722,2022/23,Ireland,5,PR Stirling,cf494ffe,Shoriful Islam,bb34fd31,HT Tector,59ea70a4,0,0,0,0,0,,,,,,4,0,4
+1355722,2022/23,Ireland,5,PR Stirling,cf494ffe,Shoriful Islam,bb34fd31,HT Tector,59ea70a4,0,0,0,0,0,,,,,,0,0,0
+1355722,2022/23,Ireland,5,PR Stirling,cf494ffe,Shoriful Islam,bb34fd31,HT Tector,59ea70a4,0,0,0,0,0,,,,,,1,0,1
+1355722,2022/23,Ireland,6,PR Stirling,cf494ffe,Nasum Ahmed,37654b75,HT Tector,59ea70a4,0,0,0,0,0,,,,,,0,0,0
+1355722,2022/23,Ireland,6,PR Stirling,cf494ffe,Nasum Ahmed,37654b75,HT Tector,59ea70a4,0,0,0,0,0,,,,,,0,0,0
+1355722,2022/23,Ireland,6,PR Stirling,cf494ffe,Nasum Ahmed,37654b75,HT Tector,59ea70a4,0,0,0,0,0,,,,,,1,0,1
+1355722,2022/23,Ireland,6,HT Tector,59ea70a4,Nasum Ahmed,37654b75,PR Stirling,cf494ffe,0,0,0,0,0,,,,,,4,0,4
+1355722,2022/23,Ireland,6,HT Tector,59ea70a4,Nasum Ahmed,37654b75,PR Stirling,cf494ffe,0,0,0,0,0,,,,,,1,0,1
+1355722,2022/23,Ireland,6,PR Stirling,cf494ffe,Nasum Ahmed,37654b75,HT Tector,59ea70a4,0,0,0,0,0,,,,,,6,0,6
+1355722,2022/23,Ireland,7,HT Tector,59ea70a4,Rishad Hossain,5935d694,PR Stirling,cf494ffe,0,0,0,0,0,,,,,,1,0,1
+1355722,2022/23,Ireland,7,PR Stirling,cf494ffe,Rishad Hossain,5935d694,HT Tector,59ea70a4,0,0,0,0,0,,,,,,4,0,4
+1355722,2022/23,Ireland,7,PR Stirling,cf494ffe,Rishad Hossain,5935d694,HT Tector,59ea70a4,0,0,0,0,0,,,,,,0,0,0
+1355722,2022/23,Ireland,7,PR Stirling,cf494ffe,Rishad Hossain,5935d694,HT Tector,59ea70a4,0,0,0,0,0,,,,,,1,0,1
+1355722,2022/23,Ireland,7,HT Tector,59ea70a4,Rishad Hossain,5935d694,PR Stirling,cf494ffe,0,0,0,0,0,,,,,,0,0,0
+1355722,2022/23,Ireland,7,HT Tector,59ea70a4,Rishad Hossain,5935d694,PR Stirling,cf494ffe,0,0,0,0,0,,,,,,1,0,1
+1355722,2022/23,Ireland,8,HT Tector,59ea70a4,Taskin Ahmed,ef18b66e,PR Stirling,cf494ffe,0,0,0,0,0,,,,,,1,0,1
+1355722,2022/23,Ireland,8,PR Stirling,cf494ffe,Taskin Ahmed,ef18b66e,HT Tector,59ea70a4,0,0,0,0,0,,,,,,4,0,4
+1355722,2022/23,Ireland,8,PR Stirling,cf494ffe,Taskin Ahmed,ef18b66e,HT Tector,59ea70a4,0,0,0,0,0,,,,,,0,0,0
+1355722,2022/23,Ireland,8,PR Stirling,cf494ffe,Taskin Ahmed,ef18b66e,HT Tector,59ea70a4,0,0,0,0,0,,,,,,1,0,1
+1355722,2022/23,Ireland,8,HT Tector,59ea70a4,Taskin Ahmed,ef18b66e,PR Stirling,cf494ffe,0,0,0,0,0,,,,,,0,0,0
+1355722,2022/23,Ireland,8,HT Tector,59ea70a4,Taskin Ahmed,ef18b66e,PR Stirling,cf494ffe,0,0,0,0,0,,,,,,0,0,0
+1355722,2022/23,Ireland,9,PR Stirling,cf494ffe,Rishad Hossain,5935d694,HT Tector,59ea70a4,0,0,0,0,0,,,,,,1,0,1
+1355722,2022/23,Ireland,9,HT Tector,59ea70a4,Rishad Hossain,5935d694,PR Stirling,cf494ffe,0,0,0,0,0,,,,,,0,0,0
+1355722,2022/23,Ireland,9,HT Tector,59ea70a4,Rishad Hossain,5935d694,PR Stirling,cf494ffe,0,0,0,0,0,,,,,,1,0,1
+1355722,2022/23,Ireland,9,PR Stirling,cf494ffe,Rishad Hossain,5935d694,HT Tector,59ea70a4,0,0,0,0,0,,,,,,1,0,1
+1355722,2022/23,Ireland,9,HT Tector,59ea70a4,Rishad Hossain,5935d694,PR Stirling,cf494ffe,0,0,0,0,0,,,,,,1,0,1
+1355722,2022/23,Ireland,9,PR Stirling,cf494ffe,Rishad Hossain,5935d694,HT Tector,59ea70a4,0,0,0,0,0,,,,,,1,0,1
+1355722,2022/23,Ireland,10,PR Stirling,cf494ffe,Shoriful Islam,bb34fd31,HT Tector,59ea70a4,0,0,0,0,0,,,,,,6,0,6
+1355722,2022/23,Ireland,10,PR Stirling,cf494ffe,Shoriful Islam,bb34fd31,HT Tector,59ea70a4,0,0,0,0,0,,,,,,4,0,4
+1355722,2022/23,Ireland,10,PR Stirling,cf494ffe,Shoriful Islam,bb34fd31,HT Tector,59ea70a4,0,0,0,0,0,,,,,,4,0,4
+1355722,2022/23,Ireland,10,PR Stirling,cf494ffe,Shoriful Islam,bb34fd31,HT Tector,59ea70a4,0,0,0,0,0,,,,,,4,0,4
+1355722,2022/23,Ireland,10,PR Stirling,cf494ffe,Shoriful Islam,bb34fd31,HT Tector,59ea70a4,0,0,0,0,0,,,,,,1,0,1
+1355722,2022/23,Ireland,10,HT Tector,59ea70a4,Shoriful Islam,bb34fd31,PR Stirling,cf494ffe,0,0,1,0,0,,,,,,0,1,1
+1355722,2022/23,Ireland,11,HT Tector,59ea70a4,Hasan Mahmud,80ad39ac,PR Stirling,cf494ffe,0,0,0,0,0,,,,,,1,0,1
+1355722,2022/23,Ireland,11,PR Stirling,cf494ffe,Hasan Mahmud,80ad39ac,HT Tector,59ea70a4,1,0,0,0,0,,,,,,0,1,1
+1355722,2022/23,Ireland,11,PR Stirling,cf494ffe,Hasan Mahmud,80ad39ac,HT Tector,59ea70a4,0,0,0,0,0,,,,,,6,0,6
+1355722,2022/23,Ireland,11,PR Stirling,cf494ffe,Hasan Mahmud,80ad39ac,HT Tector,59ea70a4,1,0,0,0,0,,,,,,0,1,1
+1355722,2022/23,Ireland,11,PR Stirling,cf494ffe,Hasan Mahmud,80ad39ac,HT Tector,59ea70a4,0,0,0,0,0,,,,,,1,0,1
+1355722,2022/23,Ireland,11,HT Tector,59ea70a4,Hasan Mahmud,80ad39ac,PR Stirling,cf494ffe,0,0,0,0,0,,,,,,1,0,1
+1355722,2022/23,Ireland,11,PR Stirling,cf494ffe,Hasan Mahmud,80ad39ac,HT Tector,59ea70a4,0,0,0,0,0,,,,,,0,0,0
+1355722,2022/23,Ireland,11,PR Stirling,cf494ffe,Hasan Mahmud,80ad39ac,HT Tector,59ea70a4,0,0,0,0,0,,,,,,1,0,1
+1355722,2022/23,Ireland,12,PR Stirling,cf494ffe,Rishad Hossain,5935d694,HT Tector,59ea70a4,0,0,0,0,1,PR Stirling,cf494ffe,Nazmul Hossain Shanto,1274d7ab,caught,0,0,0
+1355722,2022/23,Ireland,12,C Campher,478a63e7,Rishad Hossain,5935d694,HT Tector,59ea70a4,0,0,0,0,0,,,,,,4,0,4
+1355722,2022/23,Ireland,12,C Campher,478a63e7,Rishad Hossain,5935d694,HT Tector,59ea70a4,0,0,0,0,0,,,,,,1,0,1
+1355722,2022/23,Ireland,12,HT Tector,59ea70a4,Rishad Hossain,5935d694,C Campher,478a63e7,0,0,0,0,0,,,,,,1,0,1
+1355722,2022/23,Ireland,12,C Campher,478a63e7,Rishad Hossain,5935d694,HT Tector,59ea70a4,0,0,0,0,0,,,,,,1,0,1
+1355722,2022/23,Ireland,12,HT Tector,59ea70a4,Rishad Hossain,5935d694,C Campher,478a63e7,0,0,0,0,0,,,,,,0,0,0
+1355722,2022/23,Ireland,13,C Campher,478a63e7,Taskin Ahmed,ef18b66e,HT Tector,59ea70a4,0,0,0,0,0,,,,,,0,0,0
+1355722,2022/23,Ireland,13,C Campher,478a63e7,Taskin Ahmed,ef18b66e,HT Tector,59ea70a4,0,0,0,0,0,,,,,,0,0,0
+1355722,2022/23,Ireland,13,C Campher,478a63e7,Taskin Ahmed,ef18b66e,HT Tector,59ea70a4,0,0,0,0,0,,,,,,0,0,0
+1355722,2022/23,Ireland,13,C Campher,478a63e7,Taskin Ahmed,ef18b66e,HT Tector,59ea70a4,0,0,0,0,0,,,,,,4,0,4
+1355722,2022/23,Ireland,13,C Campher,478a63e7,Taskin Ahmed,ef18b66e,HT Tector,59ea70a4,0,0,0,0,0,,,,,,0,0,0
+1355722,2022/23,Ireland,13,C Campher,478a63e7,Taskin Ahmed,ef18b66e,HT Tector,59ea70a4,0,0,0,0,0,,,,,,6,0,6

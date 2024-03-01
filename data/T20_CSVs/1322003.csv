@@ -1,0 +1,133 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1322003,2022,Thailand,0,S Desungnoen,3eb26dc4,S Pradhan,04f0d409,N Nuntarach,9e3575ce,0,0,0,0,0,,,,,,1,0,1
+1322003,2022,Thailand,0,N Nuntarach,9e3575ce,S Pradhan,04f0d409,S Desungnoen,3eb26dc4,0,0,0,0,0,,,,,,0,0,0
+1322003,2022,Thailand,0,N Nuntarach,9e3575ce,S Pradhan,04f0d409,S Desungnoen,3eb26dc4,0,0,0,0,0,,,,,,1,0,1
+1322003,2022,Thailand,0,S Desungnoen,3eb26dc4,S Pradhan,04f0d409,N Nuntarach,9e3575ce,0,0,0,0,1,S Desungnoen,3eb26dc4,Manoj Adhikari,26529e00,stumped,0,0,0
+1322003,2022,Thailand,0,P Suanchuai,e6948355,S Pradhan,04f0d409,N Nuntarach,9e3575ce,0,0,0,0,0,,,,,,1,0,1
+1322003,2022,Thailand,0,N Nuntarach,9e3575ce,S Pradhan,04f0d409,P Suanchuai,e6948355,0,0,0,0,0,,,,,,0,0,0
+1322003,2022,Thailand,1,P Suanchuai,e6948355,T Jamtsho,c01d1c0a,N Nuntarach,9e3575ce,0,0,0,0,0,,,,,,0,0,0
+1322003,2022,Thailand,1,P Suanchuai,e6948355,T Jamtsho,c01d1c0a,N Nuntarach,9e3575ce,0,0,0,0,0,,,,,,0,0,0
+1322003,2022,Thailand,1,P Suanchuai,e6948355,T Jamtsho,c01d1c0a,N Nuntarach,9e3575ce,0,0,0,0,0,,,,,,1,0,1
+1322003,2022,Thailand,1,N Nuntarach,9e3575ce,T Jamtsho,c01d1c0a,P Suanchuai,e6948355,1,0,0,0,0,,,,,,0,1,1
+1322003,2022,Thailand,1,N Nuntarach,9e3575ce,T Jamtsho,c01d1c0a,P Suanchuai,e6948355,0,0,0,0,0,,,,,,1,0,1
+1322003,2022,Thailand,1,P Suanchuai,e6948355,T Jamtsho,c01d1c0a,N Nuntarach,9e3575ce,0,0,0,0,0,,,,,,0,0,0
+1322003,2022,Thailand,1,P Suanchuai,e6948355,T Jamtsho,c01d1c0a,N Nuntarach,9e3575ce,0,0,0,0,0,,,,,,0,0,0
+1322003,2022,Thailand,2,N Nuntarach,9e3575ce,S Pradhan,04f0d409,P Suanchuai,e6948355,0,0,0,0,1,N Nuntarach,9e3575ce,GK Ghalley,2d1b6dee,caught,0,0,0
+1322003,2022,Thailand,2,P Suanchuai,e6948355,S Pradhan,04f0d409,C Pengkumta,b3540b2a,0,0,0,0,0,,,,,,0,0,0
+1322003,2022,Thailand,2,P Suanchuai,e6948355,S Pradhan,04f0d409,C Pengkumta,b3540b2a,0,0,0,0,0,,,,,,1,0,1
+1322003,2022,Thailand,2,C Pengkumta,b3540b2a,S Pradhan,04f0d409,P Suanchuai,e6948355,0,0,0,0,0,,,,,,0,0,0
+1322003,2022,Thailand,2,C Pengkumta,b3540b2a,S Pradhan,04f0d409,P Suanchuai,e6948355,1,0,0,0,0,,,,,,0,1,1
+1322003,2022,Thailand,2,C Pengkumta,b3540b2a,S Pradhan,04f0d409,P Suanchuai,e6948355,0,0,0,0,0,,,,,,0,0,0
+1322003,2022,Thailand,2,C Pengkumta,b3540b2a,S Pradhan,04f0d409,P Suanchuai,e6948355,0,0,0,0,0,,,,,,0,0,0
+1322003,2022,Thailand,3,P Suanchuai,e6948355,Namgay Thinley,9c333e40,C Pengkumta,b3540b2a,0,0,0,0,0,,,,,,0,0,0
+1322003,2022,Thailand,3,P Suanchuai,e6948355,Namgay Thinley,9c333e40,C Pengkumta,b3540b2a,0,0,0,0,0,,,,,,0,0,0
+1322003,2022,Thailand,3,P Suanchuai,e6948355,Namgay Thinley,9c333e40,C Pengkumta,b3540b2a,0,0,0,0,0,,,,,,0,0,0
+1322003,2022,Thailand,3,P Suanchuai,e6948355,Namgay Thinley,9c333e40,C Pengkumta,b3540b2a,0,0,0,0,0,,,,,,0,0,0
+1322003,2022,Thailand,3,P Suanchuai,e6948355,Namgay Thinley,9c333e40,C Pengkumta,b3540b2a,0,0,0,0,0,,,,,,1,0,1
+1322003,2022,Thailand,3,C Pengkumta,b3540b2a,Namgay Thinley,9c333e40,P Suanchuai,e6948355,0,0,0,0,0,,,,,,0,0,0
+1322003,2022,Thailand,4,P Suanchuai,e6948355,S Pradhan,04f0d409,C Pengkumta,b3540b2a,0,0,0,0,0,,,,,,1,0,1
+1322003,2022,Thailand,4,C Pengkumta,b3540b2a,S Pradhan,04f0d409,P Suanchuai,e6948355,0,0,0,0,0,,,,,,0,0,0
+1322003,2022,Thailand,4,C Pengkumta,b3540b2a,S Pradhan,04f0d409,P Suanchuai,e6948355,0,0,0,0,0,,,,,,1,0,1
+1322003,2022,Thailand,4,P Suanchuai,e6948355,S Pradhan,04f0d409,C Pengkumta,b3540b2a,0,0,0,0,0,,,,,,0,0,0
+1322003,2022,Thailand,4,P Suanchuai,e6948355,S Pradhan,04f0d409,C Pengkumta,b3540b2a,1,0,0,0,0,,,,,,0,1,1
+1322003,2022,Thailand,4,P Suanchuai,e6948355,S Pradhan,04f0d409,C Pengkumta,b3540b2a,0,0,0,0,0,,,,,,1,0,1
+1322003,2022,Thailand,4,C Pengkumta,b3540b2a,S Pradhan,04f0d409,P Suanchuai,e6948355,0,0,0,0,0,,,,,,1,0,1
+1322003,2022,Thailand,5,C Pengkumta,b3540b2a,Namgay Thinley,9c333e40,P Suanchuai,e6948355,0,0,0,0,0,,,,,,0,0,0
+1322003,2022,Thailand,5,C Pengkumta,b3540b2a,Namgay Thinley,9c333e40,P Suanchuai,e6948355,0,0,0,0,0,,,,,,1,0,1
+1322003,2022,Thailand,5,P Suanchuai,e6948355,Namgay Thinley,9c333e40,C Pengkumta,b3540b2a,0,0,0,0,0,,,,,,0,0,0
+1322003,2022,Thailand,5,P Suanchuai,e6948355,Namgay Thinley,9c333e40,C Pengkumta,b3540b2a,0,0,0,0,0,,,,,,0,0,0
+1322003,2022,Thailand,5,P Suanchuai,e6948355,Namgay Thinley,9c333e40,C Pengkumta,b3540b2a,0,0,0,0,0,,,,,,1,0,1
+1322003,2022,Thailand,5,C Pengkumta,b3540b2a,Namgay Thinley,9c333e40,P Suanchuai,e6948355,0,0,0,0,0,,,,,,0,0,0
+1322003,2022,Thailand,6,P Suanchuai,e6948355,S Yeshi,0c24fb7b,C Pengkumta,b3540b2a,0,0,0,0,0,,,,,,1,0,1
+1322003,2022,Thailand,6,C Pengkumta,b3540b2a,S Yeshi,0c24fb7b,P Suanchuai,e6948355,0,0,0,0,0,,,,,,1,0,1
+1322003,2022,Thailand,6,P Suanchuai,e6948355,S Yeshi,0c24fb7b,C Pengkumta,b3540b2a,0,0,0,0,0,,,,,,0,0,0
+1322003,2022,Thailand,6,P Suanchuai,e6948355,S Yeshi,0c24fb7b,C Pengkumta,b3540b2a,0,0,0,0,0,,,,,,2,0,2
+1322003,2022,Thailand,6,P Suanchuai,e6948355,S Yeshi,0c24fb7b,C Pengkumta,b3540b2a,0,0,0,0,0,,,,,,1,0,1
+1322003,2022,Thailand,6,C Pengkumta,b3540b2a,S Yeshi,0c24fb7b,P Suanchuai,e6948355,0,0,0,0,0,,,,,,0,0,0
+1322003,2022,Thailand,7,P Suanchuai,e6948355,Ngawang Thinley,cc62ec8a,C Pengkumta,b3540b2a,0,0,0,0,0,,,,,,0,0,0
+1322003,2022,Thailand,7,P Suanchuai,e6948355,Ngawang Thinley,cc62ec8a,C Pengkumta,b3540b2a,0,0,0,0,0,,,,,,6,0,6
+1322003,2022,Thailand,7,P Suanchuai,e6948355,Ngawang Thinley,cc62ec8a,C Pengkumta,b3540b2a,0,0,0,0,1,P Suanchuai,e6948355,S Yeshi,0c24fb7b,caught,0,0,0
+1322003,2022,Thailand,7,C Pengkumta,b3540b2a,Ngawang Thinley,cc62ec8a,C Chatphaisan,85c56be8,0,0,0,0,1,C Pengkumta,b3540b2a,T Jamtsho,c01d1c0a,caught,0,0,0
+1322003,2022,Thailand,7,C Chatphaisan,85c56be8,Ngawang Thinley,cc62ec8a,Vichanath Singh,dfa6db1a,0,0,0,0,0,,,,,,1,0,1
+1322003,2022,Thailand,7,Vichanath Singh,dfa6db1a,Ngawang Thinley,cc62ec8a,C Chatphaisan,85c56be8,0,0,0,0,0,,,,,,1,0,1
+1322003,2022,Thailand,8,Vichanath Singh,dfa6db1a,S Yeshi,0c24fb7b,C Chatphaisan,85c56be8,0,0,0,0,0,,,,,,0,0,0
+1322003,2022,Thailand,8,Vichanath Singh,dfa6db1a,S Yeshi,0c24fb7b,C Chatphaisan,85c56be8,0,0,0,0,0,,,,,,1,0,1
+1322003,2022,Thailand,8,C Chatphaisan,85c56be8,S Yeshi,0c24fb7b,Vichanath Singh,dfa6db1a,0,0,0,0,0,,,,,,2,0,2
+1322003,2022,Thailand,8,C Chatphaisan,85c56be8,S Yeshi,0c24fb7b,Vichanath Singh,dfa6db1a,0,0,0,0,0,,,,,,0,0,0
+1322003,2022,Thailand,8,C Chatphaisan,85c56be8,S Yeshi,0c24fb7b,Vichanath Singh,dfa6db1a,0,0,0,0,0,,,,,,2,0,2
+1322003,2022,Thailand,8,C Chatphaisan,85c56be8,S Yeshi,0c24fb7b,Vichanath Singh,dfa6db1a,0,0,0,0,0,,,,,,1,0,1
+1322003,2022,Thailand,9,C Chatphaisan,85c56be8,Ngawang Thinley,cc62ec8a,Vichanath Singh,dfa6db1a,0,0,0,0,0,,,,,,2,0,2
+1322003,2022,Thailand,9,C Chatphaisan,85c56be8,Ngawang Thinley,cc62ec8a,Vichanath Singh,dfa6db1a,0,0,0,0,0,,,,,,0,0,0
+1322003,2022,Thailand,9,C Chatphaisan,85c56be8,Ngawang Thinley,cc62ec8a,Vichanath Singh,dfa6db1a,0,0,0,0,1,C Chatphaisan,85c56be8,,,lbw,0,0,0
+1322003,2022,Thailand,9,Y Saranonnakkun,9c93c0a3,Ngawang Thinley,cc62ec8a,Vichanath Singh,dfa6db1a,0,0,0,0,0,,,,,,1,0,1
+1322003,2022,Thailand,9,Vichanath Singh,dfa6db1a,Ngawang Thinley,cc62ec8a,Y Saranonnakkun,9c93c0a3,0,0,0,0,1,Vichanath Singh,dfa6db1a,Namgay Thinley,9c333e40,caught,0,0,0
+1322003,2022,Thailand,9,Y Saranonnakkun,9c93c0a3,Ngawang Thinley,cc62ec8a,K Senamontree,e553e27f,0,0,0,0,0,,,,,,2,0,2
+1322003,2022,Thailand,10,K Senamontree,e553e27f,J Singye,28574428,Y Saranonnakkun,9c93c0a3,0,0,0,0,0,,,,,,2,0,2
+1322003,2022,Thailand,10,K Senamontree,e553e27f,J Singye,28574428,Y Saranonnakkun,9c93c0a3,0,0,0,0,1,K Senamontree,e553e27f,RM Dorji,3d7f02d4,run out,1,0,1
+1322003,2022,Thailand,10,P Thongsa,62318525,J Singye,28574428,Y Saranonnakkun,9c93c0a3,1,0,0,0,0,,,,,,0,1,1
+1322003,2022,Thailand,10,P Thongsa,62318525,J Singye,28574428,Y Saranonnakkun,9c93c0a3,0,0,0,0,0,,,,,,1,0,1
+1322003,2022,Thailand,10,Y Saranonnakkun,9c93c0a3,J Singye,28574428,P Thongsa,62318525,0,0,0,0,0,,,,,,0,0,0
+1322003,2022,Thailand,10,Y Saranonnakkun,9c93c0a3,J Singye,28574428,P Thongsa,62318525,0,0,0,0,1,P Thongsa,62318525,J Singye,28574428,run out,0,0,0
+1322003,2022,Thailand,10,J Pakhiaokajee,44d623c9,J Singye,28574428,Y Saranonnakkun,9c93c0a3,0,0,0,0,0,,,,,,4,0,4
+1322003,2022,Bhutan,0,T Jamtsho,c01d1c0a,C Pengkumta,b3540b2a,Namgay Thinley,9c333e40,0,0,0,0,0,,,,,,1,0,1
+1322003,2022,Bhutan,0,Namgay Thinley,9c333e40,C Pengkumta,b3540b2a,T Jamtsho,c01d1c0a,1,0,0,0,0,,,,,,0,1,1
+1322003,2022,Bhutan,0,Namgay Thinley,9c333e40,C Pengkumta,b3540b2a,T Jamtsho,c01d1c0a,0,0,0,0,0,,,,,,1,0,1
+1322003,2022,Bhutan,0,T Jamtsho,c01d1c0a,C Pengkumta,b3540b2a,Namgay Thinley,9c333e40,0,0,0,0,0,,,,,,4,0,4
+1322003,2022,Bhutan,0,T Jamtsho,c01d1c0a,C Pengkumta,b3540b2a,Namgay Thinley,9c333e40,0,0,0,0,0,,,,,,1,0,1
+1322003,2022,Bhutan,0,Namgay Thinley,9c333e40,C Pengkumta,b3540b2a,T Jamtsho,c01d1c0a,0,0,2,0,0,,,,,,0,2,2
+1322003,2022,Bhutan,0,Namgay Thinley,9c333e40,C Pengkumta,b3540b2a,T Jamtsho,c01d1c0a,0,0,0,0,1,Namgay Thinley,9c333e40,,,bowled,0,0,0
+1322003,2022,Bhutan,1,T Jamtsho,c01d1c0a,K Senamontree,e553e27f,S Loday,448dab1a,0,0,0,0,0,,,,,,0,0,0
+1322003,2022,Bhutan,1,T Jamtsho,c01d1c0a,K Senamontree,e553e27f,S Loday,448dab1a,0,0,0,0,0,,,,,,2,0,2
+1322003,2022,Bhutan,1,T Jamtsho,c01d1c0a,K Senamontree,e553e27f,S Loday,448dab1a,1,0,0,0,0,,,,,,0,1,1
+1322003,2022,Bhutan,1,T Jamtsho,c01d1c0a,K Senamontree,e553e27f,S Loday,448dab1a,0,0,0,0,1,T Jamtsho,c01d1c0a,,,caught and bowled,0,0,0
+1322003,2022,Bhutan,1,S Loday,448dab1a,K Senamontree,e553e27f,RM Dorji,3d7f02d4,1,0,0,0,0,,,,,,0,1,1
+1322003,2022,Bhutan,1,S Loday,448dab1a,K Senamontree,e553e27f,RM Dorji,3d7f02d4,0,0,0,0,0,,,,,,1,0,1
+1322003,2022,Bhutan,1,RM Dorji,3d7f02d4,K Senamontree,e553e27f,S Loday,448dab1a,0,0,0,0,0,,,,,,0,0,0
+1322003,2022,Bhutan,1,RM Dorji,3d7f02d4,K Senamontree,e553e27f,S Loday,448dab1a,0,0,0,0,0,,,,,,0,0,0
+1322003,2022,Bhutan,2,S Loday,448dab1a,C Pengkumta,b3540b2a,RM Dorji,3d7f02d4,0,0,0,0,0,,,,,,1,0,1
+1322003,2022,Bhutan,2,RM Dorji,3d7f02d4,C Pengkumta,b3540b2a,S Loday,448dab1a,0,0,0,0,0,,,,,,1,0,1
+1322003,2022,Bhutan,2,S Loday,448dab1a,C Pengkumta,b3540b2a,RM Dorji,3d7f02d4,0,0,0,0,0,,,,,,1,0,1
+1322003,2022,Bhutan,2,RM Dorji,3d7f02d4,C Pengkumta,b3540b2a,S Loday,448dab1a,0,0,0,0,0,,,,,,1,0,1
+1322003,2022,Bhutan,2,S Loday,448dab1a,C Pengkumta,b3540b2a,RM Dorji,3d7f02d4,0,0,0,0,0,,,,,,0,0,0
+1322003,2022,Bhutan,2,S Loday,448dab1a,C Pengkumta,b3540b2a,RM Dorji,3d7f02d4,0,0,0,0,0,,,,,,1,0,1
+1322003,2022,Bhutan,3,S Loday,448dab1a,Vichanath Singh,dfa6db1a,RM Dorji,3d7f02d4,0,0,0,0,0,,,,,,0,0,0
+1322003,2022,Bhutan,3,S Loday,448dab1a,Vichanath Singh,dfa6db1a,RM Dorji,3d7f02d4,0,0,0,0,0,,,,,,0,0,0
+1322003,2022,Bhutan,3,S Loday,448dab1a,Vichanath Singh,dfa6db1a,RM Dorji,3d7f02d4,0,0,0,0,0,,,,,,1,0,1
+1322003,2022,Bhutan,3,RM Dorji,3d7f02d4,Vichanath Singh,dfa6db1a,S Loday,448dab1a,0,0,0,0,0,,,,,,0,0,0
+1322003,2022,Bhutan,3,RM Dorji,3d7f02d4,Vichanath Singh,dfa6db1a,S Loday,448dab1a,0,0,0,0,0,,,,,,0,0,0
+1322003,2022,Bhutan,3,RM Dorji,3d7f02d4,Vichanath Singh,dfa6db1a,S Loday,448dab1a,0,0,0,0,0,,,,,,0,0,0
+1322003,2022,Bhutan,4,S Loday,448dab1a,S Desungnoen,3eb26dc4,RM Dorji,3d7f02d4,0,0,0,0,0,,,,,,1,0,1
+1322003,2022,Bhutan,4,RM Dorji,3d7f02d4,S Desungnoen,3eb26dc4,S Loday,448dab1a,0,0,0,0,1,RM Dorji,3d7f02d4,N Nuntarach,9e3575ce,caught,0,0,0
+1322003,2022,Bhutan,4,N Chejay,a9e63549,S Desungnoen,3eb26dc4,S Loday,448dab1a,0,0,0,0,0,,,,,,1,0,1
+1322003,2022,Bhutan,4,S Loday,448dab1a,S Desungnoen,3eb26dc4,N Chejay,a9e63549,0,0,0,0,0,,,,,,0,0,0
+1322003,2022,Bhutan,4,S Loday,448dab1a,S Desungnoen,3eb26dc4,N Chejay,a9e63549,0,0,0,0,0,,,,,,1,0,1
+1322003,2022,Bhutan,4,N Chejay,a9e63549,S Desungnoen,3eb26dc4,S Loday,448dab1a,0,0,0,0,0,,,,,,0,0,0
+1322003,2022,Bhutan,5,S Loday,448dab1a,Vichanath Singh,dfa6db1a,N Chejay,a9e63549,0,0,0,0,0,,,,,,0,0,0
+1322003,2022,Bhutan,5,S Loday,448dab1a,Vichanath Singh,dfa6db1a,N Chejay,a9e63549,0,0,0,0,0,,,,,,0,0,0
+1322003,2022,Bhutan,5,S Loday,448dab1a,Vichanath Singh,dfa6db1a,N Chejay,a9e63549,0,0,0,0,0,,,,,,1,0,1
+1322003,2022,Bhutan,5,N Chejay,a9e63549,Vichanath Singh,dfa6db1a,S Loday,448dab1a,0,0,0,0,0,,,,,,1,0,1
+1322003,2022,Bhutan,5,S Loday,448dab1a,Vichanath Singh,dfa6db1a,N Chejay,a9e63549,0,0,0,0,0,,,,,,1,0,1
+1322003,2022,Bhutan,5,N Chejay,a9e63549,Vichanath Singh,dfa6db1a,S Loday,448dab1a,0,0,0,0,0,,,,,,0,0,0
+1322003,2022,Bhutan,6,S Loday,448dab1a,S Desungnoen,3eb26dc4,N Chejay,a9e63549,0,0,0,0,0,,,,,,2,0,2
+1322003,2022,Bhutan,6,S Loday,448dab1a,S Desungnoen,3eb26dc4,N Chejay,a9e63549,0,0,0,0,0,,,,,,0,0,0
+1322003,2022,Bhutan,6,S Loday,448dab1a,S Desungnoen,3eb26dc4,N Chejay,a9e63549,0,0,0,0,0,,,,,,0,0,0
+1322003,2022,Bhutan,6,S Loday,448dab1a,S Desungnoen,3eb26dc4,N Chejay,a9e63549,0,0,0,0,0,,,,,,1,0,1
+1322003,2022,Bhutan,6,N Chejay,a9e63549,S Desungnoen,3eb26dc4,S Loday,448dab1a,0,0,0,0,0,,,,,,1,0,1
+1322003,2022,Bhutan,6,S Loday,448dab1a,S Desungnoen,3eb26dc4,N Chejay,a9e63549,0,0,0,0,0,,,,,,1,0,1
+1322003,2022,Bhutan,7,S Loday,448dab1a,C Chatphaisan,85c56be8,N Chejay,a9e63549,0,0,0,0,0,,,,,,1,0,1
+1322003,2022,Bhutan,7,N Chejay,a9e63549,C Chatphaisan,85c56be8,S Loday,448dab1a,0,0,0,0,0,,,,,,1,0,1
+1322003,2022,Bhutan,7,S Loday,448dab1a,C Chatphaisan,85c56be8,N Chejay,a9e63549,0,0,0,0,0,,,,,,4,0,4
+1322003,2022,Bhutan,7,S Loday,448dab1a,C Chatphaisan,85c56be8,N Chejay,a9e63549,0,0,0,0,0,,,,,,2,0,2
+1322003,2022,Bhutan,7,S Loday,448dab1a,C Chatphaisan,85c56be8,N Chejay,a9e63549,0,0,0,0,0,,,,,,2,0,2
+1322003,2022,Bhutan,7,S Loday,448dab1a,C Chatphaisan,85c56be8,N Chejay,a9e63549,1,0,0,0,0,,,,,,0,1,1
+1322003,2022,Bhutan,7,S Loday,448dab1a,C Chatphaisan,85c56be8,N Chejay,a9e63549,0,0,0,0,1,S Loday,448dab1a,K Senamontree,e553e27f,caught,0,0,0
+1322003,2022,Bhutan,8,S Pradhan,04f0d409,K Senamontree,e553e27f,N Chejay,a9e63549,0,0,0,0,0,,,,,,2,0,2
+1322003,2022,Bhutan,8,S Pradhan,04f0d409,K Senamontree,e553e27f,N Chejay,a9e63549,0,0,0,0,0,,,,,,1,0,1
+1322003,2022,Bhutan,8,N Chejay,a9e63549,K Senamontree,e553e27f,S Pradhan,04f0d409,0,0,0,0,0,,,,,,0,0,0
+1322003,2022,Bhutan,8,N Chejay,a9e63549,K Senamontree,e553e27f,S Pradhan,04f0d409,0,0,0,0,0,,,,,,1,0,1
+1322003,2022,Bhutan,8,S Pradhan,04f0d409,K Senamontree,e553e27f,N Chejay,a9e63549,0,0,0,0,0,,,,,,0,0,0
+1322003,2022,Bhutan,8,S Pradhan,04f0d409,K Senamontree,e553e27f,N Chejay,a9e63549,0,0,0,0,0,,,,,,0,0,0
+1322003,2022,Bhutan,9,N Chejay,a9e63549,Vichanath Singh,dfa6db1a,S Pradhan,04f0d409,0,0,0,0,0,,,,,,0,0,0
+1322003,2022,Bhutan,9,N Chejay,a9e63549,Vichanath Singh,dfa6db1a,S Pradhan,04f0d409,0,0,0,0,0,,,,,,1,0,1
+1322003,2022,Bhutan,9,S Pradhan,04f0d409,Vichanath Singh,dfa6db1a,N Chejay,a9e63549,0,0,0,0,0,,,,,,0,0,0
+1322003,2022,Bhutan,9,S Pradhan,04f0d409,Vichanath Singh,dfa6db1a,N Chejay,a9e63549,0,0,0,0,0,,,,,,2,0,2

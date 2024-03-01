@@ -1,0 +1,110 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1202255,2019/20,India,0,Shafali Verma,d8f59089,HK Matthews,d32cf49a,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,0,0,0
+1202255,2019/20,India,0,Shafali Verma,d8f59089,HK Matthews,d32cf49a,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,1,0,1
+1202255,2019/20,India,0,JI Rodrigues,cb08b611,HK Matthews,d32cf49a,Shafali Verma,d8f59089,0,0,1,0,0,,,,,,0,1,1
+1202255,2019/20,India,0,Shafali Verma,d8f59089,HK Matthews,d32cf49a,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,6,0,6
+1202255,2019/20,India,0,Shafali Verma,d8f59089,HK Matthews,d32cf49a,JI Rodrigues,cb08b611,0,0,0,0,1,Shafali Verma,d8f59089,CA Henry,75820733,caught,0,0,0
+1202255,2019/20,India,0,JI Rodrigues,cb08b611,HK Matthews,d32cf49a,V Krishnamurthy,c3f21798,0,0,0,0,0,,,,,,0,0,0
+1202255,2019/20,India,1,V Krishnamurthy,c3f21798,A Mohammed,a49985e6,JI Rodrigues,cb08b611,0,0,1,0,0,,,,,,0,1,1
+1202255,2019/20,India,1,JI Rodrigues,cb08b611,A Mohammed,a49985e6,V Krishnamurthy,c3f21798,0,0,0,0,0,,,,,,2,0,2
+1202255,2019/20,India,1,JI Rodrigues,cb08b611,A Mohammed,a49985e6,V Krishnamurthy,c3f21798,0,0,0,0,0,,,,,,0,0,0
+1202255,2019/20,India,1,JI Rodrigues,cb08b611,A Mohammed,a49985e6,V Krishnamurthy,c3f21798,0,0,0,0,0,,,,,,1,0,1
+1202255,2019/20,India,1,V Krishnamurthy,c3f21798,A Mohammed,a49985e6,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,1,0,1
+1202255,2019/20,India,1,JI Rodrigues,cb08b611,A Mohammed,a49985e6,V Krishnamurthy,c3f21798,0,0,0,0,0,,,,,,3,0,3
+1202255,2019/20,India,2,JI Rodrigues,cb08b611,HK Matthews,d32cf49a,V Krishnamurthy,c3f21798,0,0,0,0,1,JI Rodrigues,cb08b611,Kyshona A Knight,d85a1960,caught,0,0,0
+1202255,2019/20,India,2,V Krishnamurthy,c3f21798,HK Matthews,d32cf49a,H Kaur,53cd8da6,0,0,0,0,0,,,,,,4,0,4
+1202255,2019/20,India,2,V Krishnamurthy,c3f21798,HK Matthews,d32cf49a,H Kaur,53cd8da6,0,0,0,0,0,,,,,,0,0,0
+1202255,2019/20,India,2,V Krishnamurthy,c3f21798,HK Matthews,d32cf49a,H Kaur,53cd8da6,0,0,0,0,1,V Krishnamurthy,c3f21798,NY McLean,1d39dc61,caught,0,0,0
+1202255,2019/20,India,2,H Kaur,53cd8da6,HK Matthews,d32cf49a,DB Sharma,201fef33,0,0,0,0,0,,,,,,0,0,0
+1202255,2019/20,India,2,H Kaur,53cd8da6,HK Matthews,d32cf49a,DB Sharma,201fef33,0,0,0,0,0,,,,,,2,0,2
+1202255,2019/20,India,3,DB Sharma,201fef33,A Mohammed,a49985e6,H Kaur,53cd8da6,0,0,0,0,0,,,,,,1,0,1
+1202255,2019/20,India,3,H Kaur,53cd8da6,A Mohammed,a49985e6,DB Sharma,201fef33,0,0,0,0,0,,,,,,0,0,0
+1202255,2019/20,India,3,H Kaur,53cd8da6,A Mohammed,a49985e6,DB Sharma,201fef33,0,0,0,0,0,,,,,,1,0,1
+1202255,2019/20,India,3,DB Sharma,201fef33,A Mohammed,a49985e6,H Kaur,53cd8da6,0,0,0,0,0,,,,,,1,0,1
+1202255,2019/20,India,3,H Kaur,53cd8da6,A Mohammed,a49985e6,DB Sharma,201fef33,0,0,0,0,0,,,,,,1,0,1
+1202255,2019/20,India,3,DB Sharma,201fef33,A Mohammed,a49985e6,H Kaur,53cd8da6,0,0,0,0,0,,,,,,2,0,2
+1202255,2019/20,India,4,H Kaur,53cd8da6,ASS Fletcher,42d9dd09,DB Sharma,201fef33,0,0,0,0,0,,,,,,0,0,0
+1202255,2019/20,India,4,H Kaur,53cd8da6,ASS Fletcher,42d9dd09,DB Sharma,201fef33,0,0,0,0,0,,,,,,0,0,0
+1202255,2019/20,India,4,H Kaur,53cd8da6,ASS Fletcher,42d9dd09,DB Sharma,201fef33,0,0,0,0,0,,,,,,0,0,0
+1202255,2019/20,India,4,H Kaur,53cd8da6,ASS Fletcher,42d9dd09,DB Sharma,201fef33,0,0,0,0,0,,,,,,1,0,1
+1202255,2019/20,India,4,DB Sharma,201fef33,ASS Fletcher,42d9dd09,H Kaur,53cd8da6,0,0,0,0,0,,,,,,0,0,0
+1202255,2019/20,India,4,DB Sharma,201fef33,ASS Fletcher,42d9dd09,H Kaur,53cd8da6,0,0,0,0,0,,,,,,0,0,0
+1202255,2019/20,India,5,H Kaur,53cd8da6,SS Grimmond,6bebf334,DB Sharma,201fef33,0,0,0,0,0,,,,,,0,0,0
+1202255,2019/20,India,5,H Kaur,53cd8da6,SS Grimmond,6bebf334,DB Sharma,201fef33,0,0,0,0,0,,,,,,1,0,1
+1202255,2019/20,India,5,DB Sharma,201fef33,SS Grimmond,6bebf334,H Kaur,53cd8da6,0,0,0,0,0,,,,,,0,0,0
+1202255,2019/20,India,5,DB Sharma,201fef33,SS Grimmond,6bebf334,H Kaur,53cd8da6,0,0,0,0,1,DB Sharma,201fef33,,,bowled,0,0,0
+1202255,2019/20,India,5,P Vastrakar,8026ea72,SS Grimmond,6bebf334,H Kaur,53cd8da6,0,0,0,0,0,,,,,,0,0,0
+1202255,2019/20,India,5,P Vastrakar,8026ea72,SS Grimmond,6bebf334,H Kaur,53cd8da6,0,0,0,0,0,,,,,,1,0,1
+1202255,2019/20,India,6,P Vastrakar,8026ea72,ASS Fletcher,42d9dd09,H Kaur,53cd8da6,0,0,0,0,0,,,,,,1,0,1
+1202255,2019/20,India,6,H Kaur,53cd8da6,ASS Fletcher,42d9dd09,P Vastrakar,8026ea72,0,0,0,0,1,H Kaur,53cd8da6,SA Campbelle,a7cd72b2,stumped,0,0,0
+1202255,2019/20,India,6,H Deol,3664712e,ASS Fletcher,42d9dd09,P Vastrakar,8026ea72,0,0,0,0,1,H Deol,3664712e,A Mohammed,a49985e6,caught,0,0,0
+1202255,2019/20,India,6,T Bhatia,211dc1ce,ASS Fletcher,42d9dd09,P Vastrakar,8026ea72,0,0,0,0,0,,,,,,0,0,0
+1202255,2019/20,India,6,T Bhatia,211dc1ce,ASS Fletcher,42d9dd09,P Vastrakar,8026ea72,0,0,0,0,0,,,,,,0,0,0
+1202255,2019/20,India,6,T Bhatia,211dc1ce,ASS Fletcher,42d9dd09,P Vastrakar,8026ea72,0,0,0,0,0,,,,,,0,0,0
+1202255,2019/20,India,7,P Vastrakar,8026ea72,SS Grimmond,6bebf334,T Bhatia,211dc1ce,0,0,0,0,0,,,,,,4,0,4
+1202255,2019/20,India,7,P Vastrakar,8026ea72,SS Grimmond,6bebf334,T Bhatia,211dc1ce,0,0,0,0,0,,,,,,2,0,2
+1202255,2019/20,India,7,P Vastrakar,8026ea72,SS Grimmond,6bebf334,T Bhatia,211dc1ce,0,0,0,0,0,,,,,,0,0,0
+1202255,2019/20,India,7,P Vastrakar,8026ea72,SS Grimmond,6bebf334,T Bhatia,211dc1ce,0,0,0,0,0,,,,,,2,0,2
+1202255,2019/20,India,7,P Vastrakar,8026ea72,SS Grimmond,6bebf334,T Bhatia,211dc1ce,0,0,0,0,1,P Vastrakar,8026ea72,CA Henry,75820733,caught,0,0,0
+1202255,2019/20,India,7,T Bhatia,211dc1ce,SS Grimmond,6bebf334,AA Patil,7c1ba524,0,0,0,0,0,,,,,,0,0,0
+1202255,2019/20,India,8,AA Patil,7c1ba524,SACA King,77851c2d,T Bhatia,211dc1ce,0,0,0,0,0,,,,,,1,0,1
+1202255,2019/20,India,8,T Bhatia,211dc1ce,SACA King,77851c2d,AA Patil,7c1ba524,0,0,0,0,0,,,,,,1,0,1
+1202255,2019/20,India,8,AA Patil,7c1ba524,SACA King,77851c2d,T Bhatia,211dc1ce,0,0,0,0,0,,,,,,1,0,1
+1202255,2019/20,India,8,T Bhatia,211dc1ce,SACA King,77851c2d,AA Patil,7c1ba524,0,0,0,0,0,,,,,,4,0,4
+1202255,2019/20,India,8,T Bhatia,211dc1ce,SACA King,77851c2d,AA Patil,7c1ba524,0,0,0,0,0,,,,,,2,0,2
+1202255,2019/20,India,8,T Bhatia,211dc1ce,SACA King,77851c2d,AA Patil,7c1ba524,0,0,0,0,0,,,,,,1,0,1
+1202255,2019/20,West Indies,0,HK Matthews,d32cf49a,DB Sharma,201fef33,CN Nation,639000b6,0,0,0,0,0,,,,,,0,0,0
+1202255,2019/20,West Indies,0,HK Matthews,d32cf49a,DB Sharma,201fef33,CN Nation,639000b6,0,0,0,0,0,,,,,,1,0,1
+1202255,2019/20,West Indies,0,HK Matthews,d32cf49a,DB Sharma,201fef33,CN Nation,639000b6,0,0,0,0,0,,,,,,1,0,1
+1202255,2019/20,West Indies,0,CN Nation,639000b6,DB Sharma,201fef33,HK Matthews,d32cf49a,0,0,0,0,0,,,,,,1,0,1
+1202255,2019/20,West Indies,0,CN Nation,639000b6,DB Sharma,201fef33,HK Matthews,d32cf49a,0,0,0,0,0,,,,,,1,0,1
+1202255,2019/20,West Indies,0,HK Matthews,d32cf49a,DB Sharma,201fef33,CN Nation,639000b6,0,0,0,0,0,,,,,,2,0,2
+1202255,2019/20,West Indies,1,CN Nation,639000b6,RP Yadav,6c3aef71,HK Matthews,d32cf49a,0,0,0,0,0,,,,,,0,0,0
+1202255,2019/20,West Indies,1,CN Nation,639000b6,RP Yadav,6c3aef71,HK Matthews,d32cf49a,0,0,0,0,0,,,,,,1,0,1
+1202255,2019/20,West Indies,1,HK Matthews,d32cf49a,RP Yadav,6c3aef71,CN Nation,639000b6,0,0,0,0,0,,,,,,0,0,0
+1202255,2019/20,West Indies,1,HK Matthews,d32cf49a,RP Yadav,6c3aef71,CN Nation,639000b6,0,0,0,0,0,,,,,,0,0,0
+1202255,2019/20,West Indies,1,HK Matthews,d32cf49a,RP Yadav,6c3aef71,CN Nation,639000b6,0,0,0,0,0,,,,,,0,0,0
+1202255,2019/20,West Indies,1,HK Matthews,d32cf49a,RP Yadav,6c3aef71,CN Nation,639000b6,0,0,0,0,0,,,,,,0,0,0
+1202255,2019/20,West Indies,2,CN Nation,639000b6,DB Sharma,201fef33,HK Matthews,d32cf49a,0,0,1,0,0,,,,,,0,1,1
+1202255,2019/20,West Indies,2,HK Matthews,d32cf49a,DB Sharma,201fef33,CN Nation,639000b6,1,0,0,0,0,,,,,,0,1,1
+1202255,2019/20,West Indies,2,HK Matthews,d32cf49a,DB Sharma,201fef33,CN Nation,639000b6,0,0,0,0,0,,,,,,1,0,1
+1202255,2019/20,West Indies,2,CN Nation,639000b6,DB Sharma,201fef33,HK Matthews,d32cf49a,0,0,0,0,0,,,,,,0,0,0
+1202255,2019/20,West Indies,2,CN Nation,639000b6,DB Sharma,201fef33,HK Matthews,d32cf49a,0,0,0,0,0,,,,,,0,0,0
+1202255,2019/20,West Indies,2,CN Nation,639000b6,DB Sharma,201fef33,HK Matthews,d32cf49a,0,0,0,0,1,CN Nation,639000b6,,,bowled,0,0,0
+1202255,2019/20,West Indies,2,CA Henry,75820733,DB Sharma,201fef33,HK Matthews,d32cf49a,0,0,0,0,0,,,,,,0,0,0
+1202255,2019/20,West Indies,3,HK Matthews,d32cf49a,H Deol,3664712e,CA Henry,75820733,0,0,0,0,0,,,,,,1,0,1
+1202255,2019/20,West Indies,3,CA Henry,75820733,H Deol,3664712e,HK Matthews,d32cf49a,0,0,0,0,0,,,,,,1,0,1
+1202255,2019/20,West Indies,3,HK Matthews,d32cf49a,H Deol,3664712e,CA Henry,75820733,0,0,0,0,0,,,,,,0,0,0
+1202255,2019/20,West Indies,3,HK Matthews,d32cf49a,H Deol,3664712e,CA Henry,75820733,0,0,0,0,0,,,,,,4,0,4
+1202255,2019/20,West Indies,3,HK Matthews,d32cf49a,H Deol,3664712e,CA Henry,75820733,0,0,0,0,0,,,,,,1,0,1
+1202255,2019/20,West Indies,3,CA Henry,75820733,H Deol,3664712e,HK Matthews,d32cf49a,0,0,0,0,0,,,,,,1,0,1
+1202255,2019/20,West Indies,4,CA Henry,75820733,AA Patil,7c1ba524,HK Matthews,d32cf49a,0,0,0,0,0,,,,,,0,0,0
+1202255,2019/20,West Indies,4,CA Henry,75820733,AA Patil,7c1ba524,HK Matthews,d32cf49a,0,0,0,0,0,,,,,,0,0,0
+1202255,2019/20,West Indies,4,CA Henry,75820733,AA Patil,7c1ba524,HK Matthews,d32cf49a,0,0,0,0,0,,,,,,0,0,0
+1202255,2019/20,West Indies,4,CA Henry,75820733,AA Patil,7c1ba524,HK Matthews,d32cf49a,0,0,0,0,0,,,,,,0,0,0
+1202255,2019/20,West Indies,4,CA Henry,75820733,AA Patil,7c1ba524,HK Matthews,d32cf49a,0,0,0,0,0,,,,,,1,0,1
+1202255,2019/20,West Indies,4,HK Matthews,d32cf49a,AA Patil,7c1ba524,CA Henry,75820733,0,0,0,0,1,HK Matthews,d32cf49a,,,bowled,0,0,0
+1202255,2019/20,West Indies,5,CA Henry,75820733,M Joshi,47fb8d80,NY McLean,1d39dc61,0,0,0,0,0,,,,,,4,0,4
+1202255,2019/20,West Indies,5,CA Henry,75820733,M Joshi,47fb8d80,NY McLean,1d39dc61,0,0,0,0,0,,,,,,0,0,0
+1202255,2019/20,West Indies,5,CA Henry,75820733,M Joshi,47fb8d80,NY McLean,1d39dc61,0,0,0,0,0,,,,,,1,0,1
+1202255,2019/20,West Indies,5,NY McLean,1d39dc61,M Joshi,47fb8d80,CA Henry,75820733,0,0,0,0,0,,,,,,0,0,0
+1202255,2019/20,West Indies,5,NY McLean,1d39dc61,M Joshi,47fb8d80,CA Henry,75820733,0,0,0,0,0,,,,,,1,0,1
+1202255,2019/20,West Indies,5,CA Henry,75820733,M Joshi,47fb8d80,NY McLean,1d39dc61,0,0,0,0,0,,,,,,0,0,0
+1202255,2019/20,West Indies,6,NY McLean,1d39dc61,H Deol,3664712e,CA Henry,75820733,0,0,0,0,0,,,,,,1,0,1
+1202255,2019/20,West Indies,6,CA Henry,75820733,H Deol,3664712e,NY McLean,1d39dc61,0,0,0,0,0,,,,,,1,0,1
+1202255,2019/20,West Indies,6,NY McLean,1d39dc61,H Deol,3664712e,CA Henry,75820733,0,0,0,0,0,,,,,,1,0,1
+1202255,2019/20,West Indies,6,CA Henry,75820733,H Deol,3664712e,NY McLean,1d39dc61,0,0,0,0,0,,,,,,1,0,1
+1202255,2019/20,West Indies,6,NY McLean,1d39dc61,H Deol,3664712e,CA Henry,75820733,0,0,0,0,0,,,,,,1,0,1
+1202255,2019/20,West Indies,6,CA Henry,75820733,H Deol,3664712e,NY McLean,1d39dc61,0,0,0,0,0,,,,,,1,0,1
+1202255,2019/20,West Indies,7,CA Henry,75820733,RP Yadav,6c3aef71,NY McLean,1d39dc61,0,0,0,0,1,CA Henry,75820733,,,bowled,0,0,0
+1202255,2019/20,West Indies,7,SA Campbelle,a7cd72b2,RP Yadav,6c3aef71,NY McLean,1d39dc61,0,0,0,0,0,,,,,,1,0,1
+1202255,2019/20,West Indies,7,NY McLean,1d39dc61,RP Yadav,6c3aef71,SA Campbelle,a7cd72b2,0,0,0,0,0,,,,,,2,0,2
+1202255,2019/20,West Indies,7,NY McLean,1d39dc61,RP Yadav,6c3aef71,SA Campbelle,a7cd72b2,0,0,0,0,0,,,,,,0,0,0
+1202255,2019/20,West Indies,7,NY McLean,1d39dc61,RP Yadav,6c3aef71,SA Campbelle,a7cd72b2,0,0,0,0,0,,,,,,4,0,4
+1202255,2019/20,West Indies,7,NY McLean,1d39dc61,RP Yadav,6c3aef71,SA Campbelle,a7cd72b2,0,0,0,0,0,,,,,,0,0,0
+1202255,2019/20,West Indies,8,SA Campbelle,a7cd72b2,AA Patil,7c1ba524,NY McLean,1d39dc61,0,0,0,0,0,,,,,,2,0,2
+1202255,2019/20,West Indies,8,SA Campbelle,a7cd72b2,AA Patil,7c1ba524,NY McLean,1d39dc61,0,0,0,0,1,NY McLean,1d39dc61,,,run out,1,0,1
+1202255,2019/20,West Indies,8,SA Campbelle,a7cd72b2,AA Patil,7c1ba524,SS Grimmond,6bebf334,0,0,0,0,0,,,,,,1,0,1
+1202255,2019/20,West Indies,8,SS Grimmond,6bebf334,AA Patil,7c1ba524,SA Campbelle,a7cd72b2,0,0,0,0,0,,,,,,2,0,2
+1202255,2019/20,West Indies,8,SS Grimmond,6bebf334,AA Patil,7c1ba524,SA Campbelle,a7cd72b2,0,0,0,0,1,SS Grimmond,6bebf334,T Bhatia,211dc1ce,caught,0,0,0
+1202255,2019/20,West Indies,8,SACA King,77851c2d,AA Patil,7c1ba524,SA Campbelle,a7cd72b2,0,0,0,0,0,,,,,,1,0,1

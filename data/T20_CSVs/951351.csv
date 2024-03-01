@@ -1,0 +1,249 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+951351,2015/16,England,0,JJ Roy,d1c36f5c,Amir Hamza,dca1ac2e,JM Vince,a15618fe,0,0,0,0,0,,,,,,1,0,1
+951351,2015/16,England,0,JM Vince,a15618fe,Amir Hamza,dca1ac2e,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,0,0,0
+951351,2015/16,England,0,JM Vince,a15618fe,Amir Hamza,dca1ac2e,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,0,0,0
+951351,2015/16,England,0,JM Vince,a15618fe,Amir Hamza,dca1ac2e,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,0,0,0
+951351,2015/16,England,0,JM Vince,a15618fe,Amir Hamza,dca1ac2e,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,1,0,1
+951351,2015/16,England,0,JJ Roy,d1c36f5c,Amir Hamza,dca1ac2e,JM Vince,a15618fe,0,0,0,0,0,,,,,,0,0,0
+951351,2015/16,England,1,JM Vince,a15618fe,Shapoor Zadran,fccebff9,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,1,0,1
+951351,2015/16,England,1,JJ Roy,d1c36f5c,Shapoor Zadran,fccebff9,JM Vince,a15618fe,0,0,0,0,0,,,,,,0,0,0
+951351,2015/16,England,1,JJ Roy,d1c36f5c,Shapoor Zadran,fccebff9,JM Vince,a15618fe,0,0,3,0,0,,,,,,0,3,3
+951351,2015/16,England,1,JM Vince,a15618fe,Shapoor Zadran,fccebff9,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,1,0,1
+951351,2015/16,England,1,JJ Roy,d1c36f5c,Shapoor Zadran,fccebff9,JM Vince,a15618fe,0,0,0,0,0,,,,,,4,0,4
+951351,2015/16,England,1,JJ Roy,d1c36f5c,Shapoor Zadran,fccebff9,JM Vince,a15618fe,0,0,0,0,0,,,,,,0,0,0
+951351,2015/16,England,2,JM Vince,a15618fe,Amir Hamza,dca1ac2e,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,4,0,4
+951351,2015/16,England,2,JM Vince,a15618fe,Amir Hamza,dca1ac2e,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,0,0,0
+951351,2015/16,England,2,JM Vince,a15618fe,Amir Hamza,dca1ac2e,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,0,0,0
+951351,2015/16,England,2,JM Vince,a15618fe,Amir Hamza,dca1ac2e,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,0,0,0
+951351,2015/16,England,2,JM Vince,a15618fe,Amir Hamza,dca1ac2e,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,1,0,1
+951351,2015/16,England,2,JJ Roy,d1c36f5c,Amir Hamza,dca1ac2e,JM Vince,a15618fe,0,0,0,0,1,JJ Roy,d1c36f5c,,,bowled,0,0,0
+951351,2015/16,England,3,JM Vince,a15618fe,Shapoor Zadran,fccebff9,JE Root,a343262c,0,0,0,0,0,,,,,,4,0,4
+951351,2015/16,England,3,JM Vince,a15618fe,Shapoor Zadran,fccebff9,JE Root,a343262c,0,0,0,0,0,,,,,,1,0,1
+951351,2015/16,England,3,JE Root,a343262c,Shapoor Zadran,fccebff9,JM Vince,a15618fe,0,0,0,0,0,,,,,,0,0,0
+951351,2015/16,England,3,JE Root,a343262c,Shapoor Zadran,fccebff9,JM Vince,a15618fe,0,0,0,0,0,,,,,,0,0,0
+951351,2015/16,England,3,JE Root,a343262c,Shapoor Zadran,fccebff9,JM Vince,a15618fe,0,0,0,0,0,,,,,,0,0,0
+951351,2015/16,England,3,JE Root,a343262c,Shapoor Zadran,fccebff9,JM Vince,a15618fe,0,0,0,0,0,,,,,,6,0,6
+951351,2015/16,England,4,JM Vince,a15618fe,Amir Hamza,dca1ac2e,JE Root,a343262c,0,0,0,0,0,,,,,,4,0,4
+951351,2015/16,England,4,JM Vince,a15618fe,Amir Hamza,dca1ac2e,JE Root,a343262c,0,0,0,0,0,,,,,,1,0,1
+951351,2015/16,England,4,JE Root,a343262c,Amir Hamza,dca1ac2e,JM Vince,a15618fe,0,0,0,0,0,,,,,,4,0,4
+951351,2015/16,England,4,JE Root,a343262c,Amir Hamza,dca1ac2e,JM Vince,a15618fe,0,0,0,0,0,,,,,,0,0,0
+951351,2015/16,England,4,JE Root,a343262c,Amir Hamza,dca1ac2e,JM Vince,a15618fe,0,0,0,0,0,,,,,,1,0,1
+951351,2015/16,England,4,JM Vince,a15618fe,Amir Hamza,dca1ac2e,JE Root,a343262c,0,0,0,0,0,,,,,,4,0,4
+951351,2015/16,England,5,JE Root,a343262c,Mohammad Nabi,62af8546,JM Vince,a15618fe,0,0,0,0,0,,,,,,1,0,1
+951351,2015/16,England,5,JM Vince,a15618fe,Mohammad Nabi,62af8546,JE Root,a343262c,0,0,0,0,0,,,,,,0,0,0
+951351,2015/16,England,5,JM Vince,a15618fe,Mohammad Nabi,62af8546,JE Root,a343262c,0,0,0,0,1,JM Vince,a15618fe,,,caught and bowled,0,0,0
+951351,2015/16,England,5,EJG Morgan,d2a6c0e6,Mohammad Nabi,62af8546,JE Root,a343262c,0,0,0,0,1,EJG Morgan,d2a6c0e6,,,bowled,0,0,0
+951351,2015/16,England,5,BA Stokes,e087956b,Mohammad Nabi,62af8546,JE Root,a343262c,0,0,0,0,0,,,,,,0,0,0
+951351,2015/16,England,5,BA Stokes,e087956b,Mohammad Nabi,62af8546,JE Root,a343262c,0,0,0,0,1,JE Root,a343262c,Rashid Khan,5f547c8b,run out,0,0,0
+951351,2015/16,England,6,JC Buttler,99b75528,Samiullah Shenwari,61646132,BA Stokes,e087956b,0,0,0,0,0,,,,,,1,0,1
+951351,2015/16,England,6,BA Stokes,e087956b,Samiullah Shenwari,61646132,JC Buttler,99b75528,0,0,0,0,0,,,,,,1,0,1
+951351,2015/16,England,6,JC Buttler,99b75528,Samiullah Shenwari,61646132,BA Stokes,e087956b,0,0,0,0,0,,,,,,4,0,4
+951351,2015/16,England,6,JC Buttler,99b75528,Samiullah Shenwari,61646132,BA Stokes,e087956b,0,0,0,0,0,,,,,,0,0,0
+951351,2015/16,England,6,JC Buttler,99b75528,Samiullah Shenwari,61646132,BA Stokes,e087956b,0,0,0,0,0,,,,,,0,0,0
+951351,2015/16,England,6,JC Buttler,99b75528,Samiullah Shenwari,61646132,BA Stokes,e087956b,0,0,0,0,0,,,,,,0,0,0
+951351,2015/16,England,7,BA Stokes,e087956b,Mohammad Nabi,62af8546,JC Buttler,99b75528,0,0,0,0,0,,,,,,1,0,1
+951351,2015/16,England,7,JC Buttler,99b75528,Mohammad Nabi,62af8546,BA Stokes,e087956b,0,0,0,0,0,,,,,,0,0,0
+951351,2015/16,England,7,JC Buttler,99b75528,Mohammad Nabi,62af8546,BA Stokes,e087956b,0,0,0,0,0,,,,,,0,0,0
+951351,2015/16,England,7,JC Buttler,99b75528,Mohammad Nabi,62af8546,BA Stokes,e087956b,0,0,0,0,0,,,,,,0,0,0
+951351,2015/16,England,7,JC Buttler,99b75528,Mohammad Nabi,62af8546,BA Stokes,e087956b,0,0,0,0,0,,,,,,1,0,1
+951351,2015/16,England,7,BA Stokes,e087956b,Mohammad Nabi,62af8546,JC Buttler,99b75528,0,0,0,0,0,,,,,,0,0,0
+951351,2015/16,England,8,JC Buttler,99b75528,Samiullah Shenwari,61646132,BA Stokes,e087956b,0,0,0,0,1,JC Buttler,99b75528,Mohammad Nabi,62af8546,caught,0,0,0
+951351,2015/16,England,8,MM Ali,bb351c23,Samiullah Shenwari,61646132,BA Stokes,e087956b,1,0,0,0,0,,,,,,0,1,1
+951351,2015/16,England,8,MM Ali,bb351c23,Samiullah Shenwari,61646132,BA Stokes,e087956b,0,0,0,0,0,,,,,,0,0,0
+951351,2015/16,England,8,MM Ali,bb351c23,Samiullah Shenwari,61646132,BA Stokes,e087956b,0,0,0,0,0,,,,,,0,0,0
+951351,2015/16,England,8,MM Ali,bb351c23,Samiullah Shenwari,61646132,BA Stokes,e087956b,0,0,0,0,0,,,,,,0,0,0
+951351,2015/16,England,8,MM Ali,bb351c23,Samiullah Shenwari,61646132,BA Stokes,e087956b,0,0,0,0,0,,,,,,1,0,1
+951351,2015/16,England,8,BA Stokes,e087956b,Samiullah Shenwari,61646132,MM Ali,bb351c23,0,0,0,0,0,,,,,,1,0,1
+951351,2015/16,England,9,BA Stokes,e087956b,Rashid Khan,5f547c8b,MM Ali,bb351c23,0,0,0,0,0,,,,,,4,0,4
+951351,2015/16,England,9,BA Stokes,e087956b,Rashid Khan,5f547c8b,MM Ali,bb351c23,0,0,0,0,1,BA Stokes,e087956b,,,bowled,0,0,0
+951351,2015/16,England,9,CJ Jordan,ffe699c0,Rashid Khan,5f547c8b,MM Ali,bb351c23,0,0,0,0,0,,,,,,0,0,0
+951351,2015/16,England,9,CJ Jordan,ffe699c0,Rashid Khan,5f547c8b,MM Ali,bb351c23,0,0,0,0,0,,,,,,1,0,1
+951351,2015/16,England,9,MM Ali,bb351c23,Rashid Khan,5f547c8b,CJ Jordan,ffe699c0,0,0,0,0,0,,,,,,1,0,1
+951351,2015/16,England,9,CJ Jordan,ffe699c0,Rashid Khan,5f547c8b,MM Ali,bb351c23,0,0,0,0,0,,,,,,0,0,0
+951351,2015/16,England,10,MM Ali,bb351c23,Samiullah Shenwari,61646132,CJ Jordan,ffe699c0,0,0,0,0,0,,,,,,1,0,1
+951351,2015/16,England,10,CJ Jordan,ffe699c0,Samiullah Shenwari,61646132,MM Ali,bb351c23,0,0,0,0,0,,,,,,1,0,1
+951351,2015/16,England,10,MM Ali,bb351c23,Samiullah Shenwari,61646132,CJ Jordan,ffe699c0,0,0,0,0,0,,,,,,1,0,1
+951351,2015/16,England,10,CJ Jordan,ffe699c0,Samiullah Shenwari,61646132,MM Ali,bb351c23,0,0,0,0,0,,,,,,1,0,1
+951351,2015/16,England,10,MM Ali,bb351c23,Samiullah Shenwari,61646132,CJ Jordan,ffe699c0,0,0,0,0,0,,,,,,0,0,0
+951351,2015/16,England,10,MM Ali,bb351c23,Samiullah Shenwari,61646132,CJ Jordan,ffe699c0,0,0,0,0,0,,,,,,1,0,1
+951351,2015/16,England,11,MM Ali,bb351c23,Rashid Khan,5f547c8b,CJ Jordan,ffe699c0,0,0,0,0,0,,,,,,0,0,0
+951351,2015/16,England,11,MM Ali,bb351c23,Rashid Khan,5f547c8b,CJ Jordan,ffe699c0,0,0,0,0,0,,,,,,1,0,1
+951351,2015/16,England,11,CJ Jordan,ffe699c0,Rashid Khan,5f547c8b,MM Ali,bb351c23,0,0,0,0,0,,,,,,0,0,0
+951351,2015/16,England,11,CJ Jordan,ffe699c0,Rashid Khan,5f547c8b,MM Ali,bb351c23,0,0,0,0,0,,,,,,0,0,0
+951351,2015/16,England,11,CJ Jordan,ffe699c0,Rashid Khan,5f547c8b,MM Ali,bb351c23,0,0,0,0,0,,,,,,0,0,0
+951351,2015/16,England,11,CJ Jordan,ffe699c0,Rashid Khan,5f547c8b,MM Ali,bb351c23,0,0,0,0,0,,,,,,0,0,0
+951351,2015/16,England,12,MM Ali,bb351c23,Samiullah Shenwari,61646132,CJ Jordan,ffe699c0,0,0,0,0,0,,,,,,0,0,0
+951351,2015/16,England,12,MM Ali,bb351c23,Samiullah Shenwari,61646132,CJ Jordan,ffe699c0,0,0,0,0,0,,,,,,1,0,1
+951351,2015/16,England,12,CJ Jordan,ffe699c0,Samiullah Shenwari,61646132,MM Ali,bb351c23,5,0,0,0,0,,,,,,0,5,5
+951351,2015/16,England,12,CJ Jordan,ffe699c0,Samiullah Shenwari,61646132,MM Ali,bb351c23,0,0,0,0,0,,,,,,1,0,1
+951351,2015/16,England,12,MM Ali,bb351c23,Samiullah Shenwari,61646132,CJ Jordan,ffe699c0,0,0,0,0,0,,,,,,0,0,0
+951351,2015/16,England,12,MM Ali,bb351c23,Samiullah Shenwari,61646132,CJ Jordan,ffe699c0,0,0,0,0,0,,,,,,1,0,1
+951351,2015/16,England,12,CJ Jordan,ffe699c0,Samiullah Shenwari,61646132,MM Ali,bb351c23,0,0,0,0,0,,,,,,1,0,1
+951351,2015/16,England,13,CJ Jordan,ffe699c0,Mohammad Nabi,62af8546,MM Ali,bb351c23,0,0,0,0,0,,,,,,0,0,0
+951351,2015/16,England,13,CJ Jordan,ffe699c0,Mohammad Nabi,62af8546,MM Ali,bb351c23,0,0,0,0,0,,,,,,1,0,1
+951351,2015/16,England,13,MM Ali,bb351c23,Mohammad Nabi,62af8546,CJ Jordan,ffe699c0,0,0,0,0,0,,,,,,1,0,1
+951351,2015/16,England,13,CJ Jordan,ffe699c0,Mohammad Nabi,62af8546,MM Ali,bb351c23,0,0,0,0,0,,,,,,4,0,4
+951351,2015/16,England,13,CJ Jordan,ffe699c0,Mohammad Nabi,62af8546,MM Ali,bb351c23,0,0,0,0,0,,,,,,1,0,1
+951351,2015/16,England,13,MM Ali,bb351c23,Mohammad Nabi,62af8546,CJ Jordan,ffe699c0,0,0,0,0,0,,,,,,0,0,0
+951351,2015/16,England,14,CJ Jordan,ffe699c0,Rashid Khan,5f547c8b,MM Ali,bb351c23,0,0,0,0,0,,,,,,4,0,4
+951351,2015/16,England,14,CJ Jordan,ffe699c0,Rashid Khan,5f547c8b,MM Ali,bb351c23,0,0,0,0,0,,,,,,0,0,0
+951351,2015/16,England,14,CJ Jordan,ffe699c0,Rashid Khan,5f547c8b,MM Ali,bb351c23,0,0,0,0,1,CJ Jordan,ffe699c0,,,caught and bowled,0,0,0
+951351,2015/16,England,14,DJ Willey,7f048519,Rashid Khan,5f547c8b,MM Ali,bb351c23,0,0,0,0,0,,,,,,0,0,0
+951351,2015/16,England,14,DJ Willey,7f048519,Rashid Khan,5f547c8b,MM Ali,bb351c23,1,0,0,0,0,,,,,,0,1,1
+951351,2015/16,England,14,DJ Willey,7f048519,Rashid Khan,5f547c8b,MM Ali,bb351c23,0,0,0,0,0,,,,,,0,0,0
+951351,2015/16,England,14,DJ Willey,7f048519,Rashid Khan,5f547c8b,MM Ali,bb351c23,0,0,0,0,0,,,,,,1,0,1
+951351,2015/16,England,15,DJ Willey,7f048519,Mohammad Nabi,62af8546,MM Ali,bb351c23,0,0,0,0,0,,,,,,1,0,1
+951351,2015/16,England,15,MM Ali,bb351c23,Mohammad Nabi,62af8546,DJ Willey,7f048519,0,0,0,0,0,,,,,,4,0,4
+951351,2015/16,England,15,MM Ali,bb351c23,Mohammad Nabi,62af8546,DJ Willey,7f048519,0,0,0,0,0,,,,,,1,0,1
+951351,2015/16,England,15,DJ Willey,7f048519,Mohammad Nabi,62af8546,MM Ali,bb351c23,0,0,0,0,0,,,,,,0,0,0
+951351,2015/16,England,15,DJ Willey,7f048519,Mohammad Nabi,62af8546,MM Ali,bb351c23,0,0,0,0,0,,,,,,0,0,0
+951351,2015/16,England,15,DJ Willey,7f048519,Mohammad Nabi,62af8546,MM Ali,bb351c23,0,0,0,0,0,,,,,,1,0,1
+951351,2015/16,England,16,DJ Willey,7f048519,Rashid Khan,5f547c8b,MM Ali,bb351c23,0,0,0,0,0,,,,,,0,0,0
+951351,2015/16,England,16,DJ Willey,7f048519,Rashid Khan,5f547c8b,MM Ali,bb351c23,0,0,0,0,0,,,,,,1,0,1
+951351,2015/16,England,16,MM Ali,bb351c23,Rashid Khan,5f547c8b,DJ Willey,7f048519,0,0,0,0,0,,,,,,1,0,1
+951351,2015/16,England,16,DJ Willey,7f048519,Rashid Khan,5f547c8b,MM Ali,bb351c23,0,0,0,0,0,,,,,,1,0,1
+951351,2015/16,England,16,MM Ali,bb351c23,Rashid Khan,5f547c8b,DJ Willey,7f048519,0,0,0,0,0,,,,,,1,0,1
+951351,2015/16,England,16,DJ Willey,7f048519,Rashid Khan,5f547c8b,MM Ali,bb351c23,0,0,0,0,0,,,,,,0,0,0
+951351,2015/16,England,17,MM Ali,bb351c23,Shapoor Zadran,fccebff9,DJ Willey,7f048519,0,0,0,0,0,,,,,,4,0,4
+951351,2015/16,England,17,MM Ali,bb351c23,Shapoor Zadran,fccebff9,DJ Willey,7f048519,0,0,0,0,0,,,,,,1,0,1
+951351,2015/16,England,17,DJ Willey,7f048519,Shapoor Zadran,fccebff9,MM Ali,bb351c23,0,0,0,0,0,,,,,,1,0,1
+951351,2015/16,England,17,MM Ali,bb351c23,Shapoor Zadran,fccebff9,DJ Willey,7f048519,0,0,1,0,0,,,,,,0,1,1
+951351,2015/16,England,17,DJ Willey,7f048519,Shapoor Zadran,fccebff9,MM Ali,bb351c23,0,0,0,0,0,,,,,,1,0,1
+951351,2015/16,England,17,MM Ali,bb351c23,Shapoor Zadran,fccebff9,DJ Willey,7f048519,0,0,0,0,0,,,,,,1,0,1
+951351,2015/16,England,18,MM Ali,bb351c23,Amir Hamza,dca1ac2e,DJ Willey,7f048519,0,0,0,0,0,,,,,,2,0,2
+951351,2015/16,England,18,MM Ali,bb351c23,Amir Hamza,dca1ac2e,DJ Willey,7f048519,0,0,0,0,0,,,,,,6,0,6
+951351,2015/16,England,18,MM Ali,bb351c23,Amir Hamza,dca1ac2e,DJ Willey,7f048519,0,0,0,0,0,,,,,,4,0,4
+951351,2015/16,England,18,MM Ali,bb351c23,Amir Hamza,dca1ac2e,DJ Willey,7f048519,0,0,1,0,0,,,,,,0,1,1
+951351,2015/16,England,18,DJ Willey,7f048519,Amir Hamza,dca1ac2e,MM Ali,bb351c23,0,0,0,0,0,,,,,,6,0,6
+951351,2015/16,England,18,DJ Willey,7f048519,Amir Hamza,dca1ac2e,MM Ali,bb351c23,0,0,0,0,0,,,,,,6,0,6
+951351,2015/16,England,19,MM Ali,bb351c23,Shapoor Zadran,fccebff9,DJ Willey,7f048519,1,0,0,0,0,,,,,,0,1,1
+951351,2015/16,England,19,MM Ali,bb351c23,Shapoor Zadran,fccebff9,DJ Willey,7f048519,0,0,0,0,0,,,,,,1,0,1
+951351,2015/16,England,19,DJ Willey,7f048519,Shapoor Zadran,fccebff9,MM Ali,bb351c23,0,0,1,0,0,,,,,,0,1,1
+951351,2015/16,England,19,MM Ali,bb351c23,Shapoor Zadran,fccebff9,DJ Willey,7f048519,0,0,0,0,0,,,,,,4,0,4
+951351,2015/16,England,19,MM Ali,bb351c23,Shapoor Zadran,fccebff9,DJ Willey,7f048519,0,0,0,0,0,,,,,,1,0,1
+951351,2015/16,England,19,DJ Willey,7f048519,Shapoor Zadran,fccebff9,MM Ali,bb351c23,0,0,0,0,0,,,,,,1,0,1
+951351,2015/16,England,19,MM Ali,bb351c23,Shapoor Zadran,fccebff9,DJ Willey,7f048519,0,0,0,0,0,,,,,,1,0,1
+951351,2015/16,Afghanistan,0,Mohammad Shahzad,d6dcb0c9,DJ Willey,7f048519,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,4,0,4
+951351,2015/16,Afghanistan,0,Mohammad Shahzad,d6dcb0c9,DJ Willey,7f048519,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,0,0,0
+951351,2015/16,Afghanistan,0,Mohammad Shahzad,d6dcb0c9,DJ Willey,7f048519,Noor Ali Zadran,72e46d30,0,0,0,0,1,Mohammad Shahzad,d6dcb0c9,,,lbw,0,0,0
+951351,2015/16,Afghanistan,0,Asghar Stanikzai,88679525,DJ Willey,7f048519,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,1,0,1
+951351,2015/16,Afghanistan,0,Noor Ali Zadran,72e46d30,DJ Willey,7f048519,Asghar Stanikzai,88679525,0,0,0,0,0,,,,,,2,0,2
+951351,2015/16,Afghanistan,0,Noor Ali Zadran,72e46d30,DJ Willey,7f048519,Asghar Stanikzai,88679525,1,0,0,0,0,,,,,,0,1,1
+951351,2015/16,Afghanistan,0,Noor Ali Zadran,72e46d30,DJ Willey,7f048519,Asghar Stanikzai,88679525,0,0,0,0,0,,,,,,1,0,1
+951351,2015/16,Afghanistan,1,Noor Ali Zadran,72e46d30,CJ Jordan,ffe699c0,Asghar Stanikzai,88679525,0,0,0,0,0,,,,,,2,0,2
+951351,2015/16,Afghanistan,1,Noor Ali Zadran,72e46d30,CJ Jordan,ffe699c0,Asghar Stanikzai,88679525,0,0,0,0,0,,,,,,0,0,0
+951351,2015/16,Afghanistan,1,Noor Ali Zadran,72e46d30,CJ Jordan,ffe699c0,Asghar Stanikzai,88679525,0,0,0,0,0,,,,,,1,0,1
+951351,2015/16,Afghanistan,1,Asghar Stanikzai,88679525,CJ Jordan,ffe699c0,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,0,0,0
+951351,2015/16,Afghanistan,1,Asghar Stanikzai,88679525,CJ Jordan,ffe699c0,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,0,0,0
+951351,2015/16,Afghanistan,1,Asghar Stanikzai,88679525,CJ Jordan,ffe699c0,Noor Ali Zadran,72e46d30,0,0,0,0,1,Asghar Stanikzai,88679525,JE Root,a343262c,caught,0,0,0
+951351,2015/16,Afghanistan,2,Noor Ali Zadran,72e46d30,DJ Willey,7f048519,Gulbadin Naib,9f77963a,0,0,0,0,0,,,,,,1,0,1
+951351,2015/16,Afghanistan,2,Gulbadin Naib,9f77963a,DJ Willey,7f048519,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,0,0,0
+951351,2015/16,Afghanistan,2,Gulbadin Naib,9f77963a,DJ Willey,7f048519,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,0,0,0
+951351,2015/16,Afghanistan,2,Gulbadin Naib,9f77963a,DJ Willey,7f048519,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,0,0,0
+951351,2015/16,Afghanistan,2,Gulbadin Naib,9f77963a,DJ Willey,7f048519,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,0,0,0
+951351,2015/16,Afghanistan,2,Gulbadin Naib,9f77963a,DJ Willey,7f048519,Noor Ali Zadran,72e46d30,0,0,0,0,1,Gulbadin Naib,9f77963a,BA Stokes,e087956b,caught,0,0,0
+951351,2015/16,Afghanistan,3,Rashid Khan,5f547c8b,LE Plunkett,9a963804,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,0,0,0
+951351,2015/16,Afghanistan,3,Rashid Khan,5f547c8b,LE Plunkett,9a963804,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,0,0,0
+951351,2015/16,Afghanistan,3,Rashid Khan,5f547c8b,LE Plunkett,9a963804,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,0,0,0
+951351,2015/16,Afghanistan,3,Rashid Khan,5f547c8b,LE Plunkett,9a963804,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,0,0,0
+951351,2015/16,Afghanistan,3,Rashid Khan,5f547c8b,LE Plunkett,9a963804,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,0,0,0
+951351,2015/16,Afghanistan,3,Rashid Khan,5f547c8b,LE Plunkett,9a963804,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,0,0,0
+951351,2015/16,Afghanistan,4,Noor Ali Zadran,72e46d30,DJ Willey,7f048519,Rashid Khan,5f547c8b,0,0,0,0,0,,,,,,1,0,1
+951351,2015/16,Afghanistan,4,Rashid Khan,5f547c8b,DJ Willey,7f048519,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,1,0,1
+951351,2015/16,Afghanistan,4,Noor Ali Zadran,72e46d30,DJ Willey,7f048519,Rashid Khan,5f547c8b,0,0,0,0,0,,,,,,0,0,0
+951351,2015/16,Afghanistan,4,Noor Ali Zadran,72e46d30,DJ Willey,7f048519,Rashid Khan,5f547c8b,0,0,0,0,0,,,,,,0,0,0
+951351,2015/16,Afghanistan,4,Noor Ali Zadran,72e46d30,DJ Willey,7f048519,Rashid Khan,5f547c8b,0,0,0,0,0,,,,,,1,0,1
+951351,2015/16,Afghanistan,4,Rashid Khan,5f547c8b,DJ Willey,7f048519,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,4,0,4
+951351,2015/16,Afghanistan,5,Noor Ali Zadran,72e46d30,CJ Jordan,ffe699c0,Rashid Khan,5f547c8b,0,0,0,0,0,,,,,,0,0,0
+951351,2015/16,Afghanistan,5,Noor Ali Zadran,72e46d30,CJ Jordan,ffe699c0,Rashid Khan,5f547c8b,0,0,0,0,0,,,,,,1,0,1
+951351,2015/16,Afghanistan,5,Rashid Khan,5f547c8b,CJ Jordan,ffe699c0,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,0,0,0
+951351,2015/16,Afghanistan,5,Rashid Khan,5f547c8b,CJ Jordan,ffe699c0,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,6,0,6
+951351,2015/16,Afghanistan,5,Rashid Khan,5f547c8b,CJ Jordan,ffe699c0,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,0,0,0
+951351,2015/16,Afghanistan,5,Rashid Khan,5f547c8b,CJ Jordan,ffe699c0,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,1,0,1
+951351,2015/16,Afghanistan,6,Rashid Khan,5f547c8b,LE Plunkett,9a963804,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,0,0,0
+951351,2015/16,Afghanistan,6,Rashid Khan,5f547c8b,LE Plunkett,9a963804,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,0,0,0
+951351,2015/16,Afghanistan,6,Rashid Khan,5f547c8b,LE Plunkett,9a963804,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,0,0,0
+951351,2015/16,Afghanistan,6,Rashid Khan,5f547c8b,LE Plunkett,9a963804,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,1,0,1
+951351,2015/16,Afghanistan,6,Noor Ali Zadran,72e46d30,LE Plunkett,9a963804,Rashid Khan,5f547c8b,0,0,0,0,0,,,,,,1,0,1
+951351,2015/16,Afghanistan,6,Rashid Khan,5f547c8b,LE Plunkett,9a963804,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,1,0,1
+951351,2015/16,Afghanistan,7,Rashid Khan,5f547c8b,MM Ali,bb351c23,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,0,0,0
+951351,2015/16,Afghanistan,7,Rashid Khan,5f547c8b,MM Ali,bb351c23,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,1,0,1
+951351,2015/16,Afghanistan,7,Noor Ali Zadran,72e46d30,MM Ali,bb351c23,Rashid Khan,5f547c8b,0,0,0,0,0,,,,,,2,0,2
+951351,2015/16,Afghanistan,7,Noor Ali Zadran,72e46d30,MM Ali,bb351c23,Rashid Khan,5f547c8b,0,0,0,0,0,,,,,,1,0,1
+951351,2015/16,Afghanistan,7,Rashid Khan,5f547c8b,MM Ali,bb351c23,Noor Ali Zadran,72e46d30,0,0,0,0,1,Rashid Khan,5f547c8b,EJG Morgan,d2a6c0e6,caught,0,0,0
+951351,2015/16,Afghanistan,7,Mohammad Nabi,62af8546,MM Ali,bb351c23,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,0,0,0
+951351,2015/16,Afghanistan,8,Noor Ali Zadran,72e46d30,AU Rashid,249d60c9,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,0,0,0
+951351,2015/16,Afghanistan,8,Noor Ali Zadran,72e46d30,AU Rashid,249d60c9,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,2,0,2
+951351,2015/16,Afghanistan,8,Noor Ali Zadran,72e46d30,AU Rashid,249d60c9,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,1,0,1
+951351,2015/16,Afghanistan,8,Mohammad Nabi,62af8546,AU Rashid,249d60c9,Noor Ali Zadran,72e46d30,0,0,0,0,0,,,,,,1,0,1
+951351,2015/16,Afghanistan,8,Noor Ali Zadran,72e46d30,AU Rashid,249d60c9,Mohammad Nabi,62af8546,0,0,0,0,1,Noor Ali Zadran,72e46d30,,,caught and bowled,0,0,0
+951351,2015/16,Afghanistan,8,Samiullah Shenwari,61646132,AU Rashid,249d60c9,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,1,0,1
+951351,2015/16,Afghanistan,9,Samiullah Shenwari,61646132,LE Plunkett,9a963804,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,1,0,1
+951351,2015/16,Afghanistan,9,Mohammad Nabi,62af8546,LE Plunkett,9a963804,Samiullah Shenwari,61646132,0,0,0,0,0,,,,,,1,0,1
+951351,2015/16,Afghanistan,9,Samiullah Shenwari,61646132,LE Plunkett,9a963804,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,0,0,0
+951351,2015/16,Afghanistan,9,Samiullah Shenwari,61646132,LE Plunkett,9a963804,Mohammad Nabi,62af8546,0,0,2,0,0,,,,,,0,2,2
+951351,2015/16,Afghanistan,9,Samiullah Shenwari,61646132,LE Plunkett,9a963804,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,0,0,0
+951351,2015/16,Afghanistan,9,Samiullah Shenwari,61646132,LE Plunkett,9a963804,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,1,0,1
+951351,2015/16,Afghanistan,10,Samiullah Shenwari,61646132,AU Rashid,249d60c9,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,0,0,0
+951351,2015/16,Afghanistan,10,Samiullah Shenwari,61646132,AU Rashid,249d60c9,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,1,0,1
+951351,2015/16,Afghanistan,10,Mohammad Nabi,62af8546,AU Rashid,249d60c9,Samiullah Shenwari,61646132,0,0,0,0,0,,,,,,0,0,0
+951351,2015/16,Afghanistan,10,Mohammad Nabi,62af8546,AU Rashid,249d60c9,Samiullah Shenwari,61646132,0,0,0,0,0,,,,,,2,0,2
+951351,2015/16,Afghanistan,10,Mohammad Nabi,62af8546,AU Rashid,249d60c9,Samiullah Shenwari,61646132,0,0,0,0,0,,,,,,0,0,0
+951351,2015/16,Afghanistan,10,Mohammad Nabi,62af8546,AU Rashid,249d60c9,Samiullah Shenwari,61646132,0,0,0,0,0,,,,,,6,0,6
+951351,2015/16,Afghanistan,11,Samiullah Shenwari,61646132,LE Plunkett,9a963804,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,1,0,1
+951351,2015/16,Afghanistan,11,Mohammad Nabi,62af8546,LE Plunkett,9a963804,Samiullah Shenwari,61646132,0,0,0,0,0,,,,,,1,0,1
+951351,2015/16,Afghanistan,11,Samiullah Shenwari,61646132,LE Plunkett,9a963804,Mohammad Nabi,62af8546,1,0,0,0,0,,,,,,0,1,1
+951351,2015/16,Afghanistan,11,Samiullah Shenwari,61646132,LE Plunkett,9a963804,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,0,0,0
+951351,2015/16,Afghanistan,11,Samiullah Shenwari,61646132,LE Plunkett,9a963804,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,1,0,1
+951351,2015/16,Afghanistan,11,Mohammad Nabi,62af8546,LE Plunkett,9a963804,Samiullah Shenwari,61646132,0,0,0,0,0,,,,,,1,0,1
+951351,2015/16,Afghanistan,11,Samiullah Shenwari,61646132,LE Plunkett,9a963804,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,1,0,1
+951351,2015/16,Afghanistan,12,Samiullah Shenwari,61646132,AU Rashid,249d60c9,Mohammad Nabi,62af8546,1,0,0,0,0,,,,,,0,1,1
+951351,2015/16,Afghanistan,12,Samiullah Shenwari,61646132,AU Rashid,249d60c9,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,0,0,0
+951351,2015/16,Afghanistan,12,Samiullah Shenwari,61646132,AU Rashid,249d60c9,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,0,0,0
+951351,2015/16,Afghanistan,12,Samiullah Shenwari,61646132,AU Rashid,249d60c9,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,2,0,2
+951351,2015/16,Afghanistan,12,Samiullah Shenwari,61646132,AU Rashid,249d60c9,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,1,0,1
+951351,2015/16,Afghanistan,12,Mohammad Nabi,62af8546,AU Rashid,249d60c9,Samiullah Shenwari,61646132,0,0,0,0,1,Mohammad Nabi,62af8546,CJ Jordan,ffe699c0,caught,0,0,0
+951351,2015/16,Afghanistan,12,Najibullah Zadran,1212cbec,AU Rashid,249d60c9,Samiullah Shenwari,61646132,0,0,0,0,0,,,,,,0,0,0
+951351,2015/16,Afghanistan,13,Samiullah Shenwari,61646132,MM Ali,bb351c23,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,1,0,1
+951351,2015/16,Afghanistan,13,Najibullah Zadran,1212cbec,MM Ali,bb351c23,Samiullah Shenwari,61646132,0,0,0,0,0,,,,,,0,0,0
+951351,2015/16,Afghanistan,13,Najibullah Zadran,1212cbec,MM Ali,bb351c23,Samiullah Shenwari,61646132,0,0,0,0,0,,,,,,4,0,4
+951351,2015/16,Afghanistan,13,Najibullah Zadran,1212cbec,MM Ali,bb351c23,Samiullah Shenwari,61646132,0,0,0,0,0,,,,,,1,0,1
+951351,2015/16,Afghanistan,13,Samiullah Shenwari,61646132,MM Ali,bb351c23,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,1,0,1
+951351,2015/16,Afghanistan,13,Najibullah Zadran,1212cbec,MM Ali,bb351c23,Samiullah Shenwari,61646132,0,0,0,0,0,,,,,,6,0,6
+951351,2015/16,Afghanistan,14,Samiullah Shenwari,61646132,BA Stokes,e087956b,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,1,0,1
+951351,2015/16,Afghanistan,14,Najibullah Zadran,1212cbec,BA Stokes,e087956b,Samiullah Shenwari,61646132,1,0,0,0,0,,,,,,0,1,1
+951351,2015/16,Afghanistan,14,Najibullah Zadran,1212cbec,BA Stokes,e087956b,Samiullah Shenwari,61646132,0,0,0,0,0,,,,,,1,0,1
+951351,2015/16,Afghanistan,14,Samiullah Shenwari,61646132,BA Stokes,e087956b,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,1,0,1
+951351,2015/16,Afghanistan,14,Najibullah Zadran,1212cbec,BA Stokes,e087956b,Samiullah Shenwari,61646132,0,0,0,0,0,,,,,,0,0,0
+951351,2015/16,Afghanistan,14,Najibullah Zadran,1212cbec,BA Stokes,e087956b,Samiullah Shenwari,61646132,0,0,0,0,0,,,,,,1,0,1
+951351,2015/16,Afghanistan,14,Samiullah Shenwari,61646132,BA Stokes,e087956b,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,1,0,1
+951351,2015/16,Afghanistan,15,Samiullah Shenwari,61646132,CJ Jordan,ffe699c0,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,1,0,1
+951351,2015/16,Afghanistan,15,Najibullah Zadran,1212cbec,CJ Jordan,ffe699c0,Samiullah Shenwari,61646132,0,0,0,0,0,,,,,,0,0,0
+951351,2015/16,Afghanistan,15,Najibullah Zadran,1212cbec,CJ Jordan,ffe699c0,Samiullah Shenwari,61646132,0,0,0,0,0,,,,,,1,0,1
+951351,2015/16,Afghanistan,15,Samiullah Shenwari,61646132,CJ Jordan,ffe699c0,Najibullah Zadran,1212cbec,0,0,0,0,1,Najibullah Zadran,1212cbec,CJ Jordan,ffe699c0,run out,0,0,0
+951351,2015/16,Afghanistan,15,Samiullah Shenwari,61646132,CJ Jordan,ffe699c0,Shafiqullah,ba4d600a,0,0,0,0,0,,,,,,1,0,1
+951351,2015/16,Afghanistan,15,Shafiqullah,ba4d600a,CJ Jordan,ffe699c0,Samiullah Shenwari,61646132,0,0,0,0,0,,,,,,2,0,2
+951351,2015/16,Afghanistan,16,Samiullah Shenwari,61646132,BA Stokes,e087956b,Shafiqullah,ba4d600a,0,0,0,0,0,,,,,,4,0,4
+951351,2015/16,Afghanistan,16,Samiullah Shenwari,61646132,BA Stokes,e087956b,Shafiqullah,ba4d600a,0,0,0,0,0,,,,,,1,0,1
+951351,2015/16,Afghanistan,16,Shafiqullah,ba4d600a,BA Stokes,e087956b,Samiullah Shenwari,61646132,0,0,0,0,0,,,,,,1,0,1
+951351,2015/16,Afghanistan,16,Samiullah Shenwari,61646132,BA Stokes,e087956b,Shafiqullah,ba4d600a,0,0,0,0,1,Samiullah Shenwari,61646132,JE Root,a343262c,caught,0,0,0
+951351,2015/16,Afghanistan,16,Shafiqullah,ba4d600a,BA Stokes,e087956b,Amir Hamza,dca1ac2e,0,0,0,0,0,,,,,,2,0,2
+951351,2015/16,Afghanistan,16,Shafiqullah,ba4d600a,BA Stokes,e087956b,Amir Hamza,dca1ac2e,0,0,0,0,0,,,,,,6,0,6
+951351,2015/16,Afghanistan,17,Amir Hamza,dca1ac2e,DJ Willey,7f048519,Shafiqullah,ba4d600a,0,0,0,0,0,,,,,,1,0,1
+951351,2015/16,Afghanistan,17,Shafiqullah,ba4d600a,DJ Willey,7f048519,Amir Hamza,dca1ac2e,0,0,0,0,0,,,,,,0,0,0
+951351,2015/16,Afghanistan,17,Shafiqullah,ba4d600a,DJ Willey,7f048519,Amir Hamza,dca1ac2e,0,0,0,0,0,,,,,,4,0,4
+951351,2015/16,Afghanistan,17,Shafiqullah,ba4d600a,DJ Willey,7f048519,Amir Hamza,dca1ac2e,0,0,0,0,0,,,,,,0,0,0
+951351,2015/16,Afghanistan,17,Shafiqullah,ba4d600a,DJ Willey,7f048519,Amir Hamza,dca1ac2e,0,0,0,0,0,,,,,,1,0,1
+951351,2015/16,Afghanistan,17,Amir Hamza,dca1ac2e,DJ Willey,7f048519,Shafiqullah,ba4d600a,0,0,0,0,0,,,,,,0,0,0
+951351,2015/16,Afghanistan,18,Shafiqullah,ba4d600a,CJ Jordan,ffe699c0,Amir Hamza,dca1ac2e,0,0,0,0,1,Amir Hamza,dca1ac2e,MM Ali,bb351c23,run out,0,0,0
+951351,2015/16,Afghanistan,18,Shafiqullah,ba4d600a,CJ Jordan,ffe699c0,Shapoor Zadran,fccebff9,0,0,0,0,0,,,,,,0,0,0
+951351,2015/16,Afghanistan,18,Shafiqullah,ba4d600a,CJ Jordan,ffe699c0,Shapoor Zadran,fccebff9,0,0,0,0,0,,,,,,4,0,4
+951351,2015/16,Afghanistan,18,Shafiqullah,ba4d600a,CJ Jordan,ffe699c0,Shapoor Zadran,fccebff9,0,0,0,0,0,,,,,,6,0,6
+951351,2015/16,Afghanistan,18,Shafiqullah,ba4d600a,CJ Jordan,ffe699c0,Shapoor Zadran,fccebff9,0,0,0,0,0,,,,,,0,0,0
+951351,2015/16,Afghanistan,18,Shafiqullah,ba4d600a,CJ Jordan,ffe699c0,Shapoor Zadran,fccebff9,0,0,0,0,0,,,,,,1,0,1
+951351,2015/16,Afghanistan,19,Shafiqullah,ba4d600a,BA Stokes,e087956b,Shapoor Zadran,fccebff9,0,0,0,0,0,,,,,,4,0,4
+951351,2015/16,Afghanistan,19,Shafiqullah,ba4d600a,BA Stokes,e087956b,Shapoor Zadran,fccebff9,0,0,0,0,0,,,,,,0,0,0
+951351,2015/16,Afghanistan,19,Shafiqullah,ba4d600a,BA Stokes,e087956b,Shapoor Zadran,fccebff9,0,0,0,0,0,,,,,,0,0,0
+951351,2015/16,Afghanistan,19,Shafiqullah,ba4d600a,BA Stokes,e087956b,Shapoor Zadran,fccebff9,0,0,0,0,0,,,,,,0,0,0
+951351,2015/16,Afghanistan,19,Shafiqullah,ba4d600a,BA Stokes,e087956b,Shapoor Zadran,fccebff9,0,0,0,0,0,,,,,,0,0,0
+951351,2015/16,Afghanistan,19,Shafiqullah,ba4d600a,BA Stokes,e087956b,Shapoor Zadran,fccebff9,0,0,0,0,0,,,,,,4,0,4

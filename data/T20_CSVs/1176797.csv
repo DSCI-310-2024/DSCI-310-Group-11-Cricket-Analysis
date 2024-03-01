@@ -1,0 +1,104 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1176797,2018/19,Vanuatu,0,A Mansale,a22b4f3f,J Kila,d996ba33,C Tommy,c6d4cff0,0,0,0,0,0,,,,,,4,0,4
+1176797,2018/19,Vanuatu,0,A Mansale,a22b4f3f,J Kila,d996ba33,C Tommy,c6d4cff0,0,1,0,0,0,,,,,,0,1,1
+1176797,2018/19,Vanuatu,0,A Mansale,a22b4f3f,J Kila,d996ba33,C Tommy,c6d4cff0,0,0,0,0,0,,,,,,1,0,1
+1176797,2018/19,Vanuatu,0,C Tommy,c6d4cff0,J Kila,d996ba33,A Mansale,a22b4f3f,0,0,0,0,0,,,,,,0,0,0
+1176797,2018/19,Vanuatu,0,C Tommy,c6d4cff0,J Kila,d996ba33,A Mansale,a22b4f3f,0,0,0,0,0,,,,,,0,0,0
+1176797,2018/19,Vanuatu,0,C Tommy,c6d4cff0,J Kila,d996ba33,A Mansale,a22b4f3f,0,0,0,0,0,,,,,,0,0,0
+1176797,2018/19,Vanuatu,0,C Tommy,c6d4cff0,J Kila,d996ba33,A Mansale,a22b4f3f,0,1,0,0,0,,,,,,0,1,1
+1176797,2018/19,Vanuatu,0,C Tommy,c6d4cff0,J Kila,d996ba33,A Mansale,a22b4f3f,0,0,0,0,0,,,,,,0,0,0
+1176797,2018/19,Vanuatu,1,A Mansale,a22b4f3f,N Pokana,87a92b6b,C Tommy,c6d4cff0,0,0,0,0,0,,,,,,0,0,0
+1176797,2018/19,Vanuatu,1,A Mansale,a22b4f3f,N Pokana,87a92b6b,C Tommy,c6d4cff0,0,0,0,0,0,,,,,,0,0,0
+1176797,2018/19,Vanuatu,1,A Mansale,a22b4f3f,N Pokana,87a92b6b,C Tommy,c6d4cff0,0,0,0,0,0,,,,,,0,0,0
+1176797,2018/19,Vanuatu,1,A Mansale,a22b4f3f,N Pokana,87a92b6b,C Tommy,c6d4cff0,0,0,0,0,0,,,,,,1,0,1
+1176797,2018/19,Vanuatu,1,C Tommy,c6d4cff0,N Pokana,87a92b6b,A Mansale,a22b4f3f,0,0,0,0,0,,,,,,1,0,1
+1176797,2018/19,Vanuatu,1,A Mansale,a22b4f3f,N Pokana,87a92b6b,C Tommy,c6d4cff0,0,0,1,0,0,,,,,,0,1,1
+1176797,2018/19,Vanuatu,2,A Mansale,a22b4f3f,CA Soper,9920dd86,C Tommy,c6d4cff0,0,0,0,0,0,,,,,,0,0,0
+1176797,2018/19,Vanuatu,2,A Mansale,a22b4f3f,CA Soper,9920dd86,C Tommy,c6d4cff0,0,0,0,0,0,,,,,,4,0,4
+1176797,2018/19,Vanuatu,2,A Mansale,a22b4f3f,CA Soper,9920dd86,C Tommy,c6d4cff0,0,0,0,0,1,A Mansale,a22b4f3f,TP Ura,a82eb3fb,caught,0,0,0
+1176797,2018/19,Vanuatu,2,C Tommy,c6d4cff0,CA Soper,9920dd86,N Nipiko,c498c510,0,0,0,0,0,,,,,,1,0,1
+1176797,2018/19,Vanuatu,2,N Nipiko,c498c510,CA Soper,9920dd86,C Tommy,c6d4cff0,0,0,0,0,0,,,,,,0,0,0
+1176797,2018/19,Vanuatu,2,N Nipiko,c498c510,CA Soper,9920dd86,C Tommy,c6d4cff0,0,0,0,0,0,,,,,,0,0,0
+1176797,2018/19,Vanuatu,3,C Tommy,c6d4cff0,N Vanua,a36915ce,N Nipiko,c498c510,0,0,0,0,0,,,,,,0,0,0
+1176797,2018/19,Vanuatu,3,C Tommy,c6d4cff0,N Vanua,a36915ce,N Nipiko,c498c510,0,0,0,0,0,,,,,,0,0,0
+1176797,2018/19,Vanuatu,3,C Tommy,c6d4cff0,N Vanua,a36915ce,N Nipiko,c498c510,0,0,0,0,0,,,,,,4,0,4
+1176797,2018/19,Vanuatu,3,C Tommy,c6d4cff0,N Vanua,a36915ce,N Nipiko,c498c510,0,0,0,0,0,,,,,,0,0,0
+1176797,2018/19,Vanuatu,3,C Tommy,c6d4cff0,N Vanua,a36915ce,N Nipiko,c498c510,0,0,0,0,0,,,,,,0,0,0
+1176797,2018/19,Vanuatu,3,C Tommy,c6d4cff0,N Vanua,a36915ce,N Nipiko,c498c510,0,0,0,0,0,,,,,,0,0,0
+1176797,2018/19,Vanuatu,4,N Nipiko,c498c510,D Ravu,053f3ce3,C Tommy,c6d4cff0,0,0,0,0,0,,,,,,1,0,1
+1176797,2018/19,Vanuatu,4,C Tommy,c6d4cff0,D Ravu,053f3ce3,N Nipiko,c498c510,0,0,0,0,1,C Tommy,c6d4cff0,L Siaka,6b4593ee,caught,0,0,0
+1176797,2018/19,Vanuatu,4,N Nipiko,c498c510,D Ravu,053f3ce3,J Dunn,136848e6,0,0,0,0,0,,,,,,0,0,0
+1176797,2018/19,Vanuatu,4,N Nipiko,c498c510,D Ravu,053f3ce3,J Dunn,136848e6,1,0,0,0,0,,,,,,0,1,1
+1176797,2018/19,Vanuatu,4,N Nipiko,c498c510,D Ravu,053f3ce3,J Dunn,136848e6,0,0,0,0,0,,,,,,1,0,1
+1176797,2018/19,Vanuatu,4,J Dunn,136848e6,D Ravu,053f3ce3,N Nipiko,c498c510,0,0,0,0,0,,,,,,1,0,1
+1176797,2018/19,Vanuatu,4,N Nipiko,c498c510,D Ravu,053f3ce3,J Dunn,136848e6,0,0,0,0,0,,,,,,0,0,0
+1176797,2018/19,Vanuatu,5,J Dunn,136848e6,CJA Amini,4d84ad05,N Nipiko,c498c510,0,0,0,0,0,,,,,,1,0,1
+1176797,2018/19,Vanuatu,5,N Nipiko,c498c510,CJA Amini,4d84ad05,J Dunn,136848e6,0,0,0,0,0,,,,,,0,0,0
+1176797,2018/19,Vanuatu,5,N Nipiko,c498c510,CJA Amini,4d84ad05,J Dunn,136848e6,0,0,0,0,0,,,,,,1,0,1
+1176797,2018/19,Vanuatu,5,J Dunn,136848e6,CJA Amini,4d84ad05,N Nipiko,c498c510,0,0,0,0,0,,,,,,0,0,0
+1176797,2018/19,Vanuatu,5,J Dunn,136848e6,CJA Amini,4d84ad05,N Nipiko,c498c510,0,0,0,0,0,,,,,,0,0,0
+1176797,2018/19,Vanuatu,5,J Dunn,136848e6,CJA Amini,4d84ad05,N Nipiko,c498c510,0,0,0,0,0,,,,,,1,0,1
+1176797,2018/19,Vanuatu,6,J Dunn,136848e6,L Siaka,6b4593ee,N Nipiko,c498c510,0,0,0,0,0,,,,,,1,0,1
+1176797,2018/19,Vanuatu,6,N Nipiko,c498c510,L Siaka,6b4593ee,J Dunn,136848e6,0,0,0,0,0,,,,,,0,0,0
+1176797,2018/19,Vanuatu,6,N Nipiko,c498c510,L Siaka,6b4593ee,J Dunn,136848e6,0,0,0,0,1,N Nipiko,c498c510,,,caught and bowled,0,0,0
+1176797,2018/19,Vanuatu,6,R Tari,c4d19735,L Siaka,6b4593ee,J Dunn,136848e6,0,1,0,0,0,,,,,,1,1,2
+1176797,2018/19,Vanuatu,6,J Dunn,136848e6,L Siaka,6b4593ee,R Tari,c4d19735,0,0,0,0,0,,,,,,2,0,2
+1176797,2018/19,Vanuatu,6,J Dunn,136848e6,L Siaka,6b4593ee,R Tari,c4d19735,0,0,0,0,0,,,,,,0,0,0
+1176797,2018/19,Vanuatu,6,J Dunn,136848e6,L Siaka,6b4593ee,R Tari,c4d19735,0,0,0,0,0,,,,,,1,0,1
+1176797,2018/19,Vanuatu,7,J Dunn,136848e6,CJA Amini,4d84ad05,R Tari,c4d19735,0,0,0,0,0,,,,,,1,0,1
+1176797,2018/19,Vanuatu,7,R Tari,c4d19735,CJA Amini,4d84ad05,J Dunn,136848e6,0,0,0,0,0,,,,,,0,0,0
+1176797,2018/19,Vanuatu,7,R Tari,c4d19735,CJA Amini,4d84ad05,J Dunn,136848e6,0,0,0,0,0,,,,,,1,0,1
+1176797,2018/19,Vanuatu,7,J Dunn,136848e6,CJA Amini,4d84ad05,R Tari,c4d19735,0,0,0,0,1,J Dunn,136848e6,,,bowled,0,0,0
+1176797,2018/19,Vanuatu,7,J Vira,2090e94d,CJA Amini,4d84ad05,R Tari,c4d19735,0,0,0,0,0,,,,,,0,0,0
+1176797,2018/19,Vanuatu,7,J Vira,2090e94d,CJA Amini,4d84ad05,R Tari,c4d19735,0,0,0,0,0,,,,,,1,0,1
+1176797,2018/19,Vanuatu,8,J Vira,2090e94d,L Siaka,6b4593ee,R Tari,c4d19735,0,0,0,0,0,,,,,,0,0,0
+1176797,2018/19,Vanuatu,8,J Vira,2090e94d,L Siaka,6b4593ee,R Tari,c4d19735,0,0,0,0,1,J Vira,2090e94d,K Doriga,365229a8,caught,0,0,0
+1176797,2018/19,Vanuatu,8,SH Obed,f49c401e,L Siaka,6b4593ee,R Tari,c4d19735,0,0,0,0,0,,,,,,1,0,1
+1176797,2018/19,Vanuatu,8,R Tari,c4d19735,L Siaka,6b4593ee,SH Obed,f49c401e,0,0,0,0,0,,,,,,1,0,1
+1176797,2018/19,Vanuatu,8,SH Obed,f49c401e,L Siaka,6b4593ee,R Tari,c4d19735,0,0,0,0,0,,,,,,1,0,1
+1176797,2018/19,Vanuatu,8,R Tari,c4d19735,L Siaka,6b4593ee,SH Obed,f49c401e,0,0,0,0,0,,,,,,1,0,1
+1176797,2018/19,Vanuatu,9,R Tari,c4d19735,CJA Amini,4d84ad05,SH Obed,f49c401e,0,0,0,0,0,,,,,,1,0,1
+1176797,2018/19,Vanuatu,9,SH Obed,f49c401e,CJA Amini,4d84ad05,R Tari,c4d19735,0,0,0,0,0,,,,,,1,0,1
+1176797,2018/19,Vanuatu,9,R Tari,c4d19735,CJA Amini,4d84ad05,SH Obed,f49c401e,0,0,0,0,0,,,,,,1,0,1
+1176797,2018/19,Vanuatu,9,SH Obed,f49c401e,CJA Amini,4d84ad05,R Tari,c4d19735,0,0,0,0,0,,,,,,0,0,0
+1176797,2018/19,Vanuatu,9,SH Obed,f49c401e,CJA Amini,4d84ad05,R Tari,c4d19735,0,0,0,0,0,,,,,,1,0,1
+1176797,2018/19,Vanuatu,9,R Tari,c4d19735,CJA Amini,4d84ad05,SH Obed,f49c401e,0,0,0,0,0,,,,,,1,0,1
+1176797,2018/19,Vanuatu,10,R Tari,c4d19735,L Siaka,6b4593ee,SH Obed,f49c401e,0,0,0,0,0,,,,,,0,0,0
+1176797,2018/19,Vanuatu,10,R Tari,c4d19735,L Siaka,6b4593ee,SH Obed,f49c401e,0,0,0,0,0,,,,,,1,0,1
+1176797,2018/19,Vanuatu,10,SH Obed,f49c401e,L Siaka,6b4593ee,R Tari,c4d19735,0,0,0,0,0,,,,,,2,0,2
+1176797,2018/19,Vanuatu,10,SH Obed,f49c401e,L Siaka,6b4593ee,R Tari,c4d19735,0,0,0,0,0,,,,,,2,0,2
+1176797,2018/19,Vanuatu,10,SH Obed,f49c401e,L Siaka,6b4593ee,R Tari,c4d19735,0,0,0,0,1,SH Obed,f49c401e,N Pokana,87a92b6b,caught,0,0,0
+1176797,2018/19,Vanuatu,10,R Tari,c4d19735,L Siaka,6b4593ee,JW Chilia,479da8f9,0,0,0,0,0,,,,,,1,0,1
+1176797,2018/19,Vanuatu,11,R Tari,c4d19735,N Vanua,a36915ce,JW Chilia,479da8f9,0,0,0,0,0,,,,,,0,0,0
+1176797,2018/19,Vanuatu,11,R Tari,c4d19735,N Vanua,a36915ce,JW Chilia,479da8f9,0,0,0,0,1,R Tari,c4d19735,,,bowled,0,0,0
+1176797,2018/19,Vanuatu,11,W Viraliliu,a89730a9,N Vanua,a36915ce,JW Chilia,479da8f9,0,0,0,0,0,,,,,,0,0,0
+1176797,2018/19,Vanuatu,11,W Viraliliu,a89730a9,N Vanua,a36915ce,JW Chilia,479da8f9,0,0,0,0,0,,,,,,1,0,1
+1176797,2018/19,Vanuatu,11,JW Chilia,479da8f9,N Vanua,a36915ce,W Viraliliu,a89730a9,0,0,0,0,0,,,,,,1,0,1
+1176797,2018/19,Vanuatu,11,W Viraliliu,a89730a9,N Vanua,a36915ce,JW Chilia,479da8f9,0,0,0,0,0,,,,,,2,0,2
+1176797,2018/19,Vanuatu,12,JW Chilia,479da8f9,N Pokana,87a92b6b,W Viraliliu,a89730a9,0,0,0,0,0,,,,,,0,0,0
+1176797,2018/19,Vanuatu,12,JW Chilia,479da8f9,N Pokana,87a92b6b,W Viraliliu,a89730a9,0,0,0,0,0,,,,,,1,0,1
+1176797,2018/19,Vanuatu,12,W Viraliliu,a89730a9,N Pokana,87a92b6b,JW Chilia,479da8f9,0,0,0,0,1,W Viraliliu,a89730a9,JB Reva,6a685375,caught,0,0,0
+1176797,2018/19,Vanuatu,12,ZK Shem,87ffd217,N Pokana,87a92b6b,JW Chilia,479da8f9,0,0,0,0,0,,,,,,0,0,0
+1176797,2018/19,Vanuatu,12,ZK Shem,87ffd217,N Pokana,87a92b6b,JW Chilia,479da8f9,0,0,0,0,0,,,,,,0,0,0
+1176797,2018/19,Vanuatu,12,ZK Shem,87ffd217,N Pokana,87a92b6b,JW Chilia,479da8f9,0,0,0,0,0,,,,,,1,0,1
+1176797,2018/19,Papua New Guinea,0,TP Ura,a82eb3fb,W Viraliliu,a89730a9,N Vanua,a36915ce,0,0,0,0,0,,,,,,1,0,1
+1176797,2018/19,Papua New Guinea,0,N Vanua,a36915ce,W Viraliliu,a89730a9,TP Ura,a82eb3fb,0,0,0,0,0,,,,,,6,0,6
+1176797,2018/19,Papua New Guinea,0,N Vanua,a36915ce,W Viraliliu,a89730a9,TP Ura,a82eb3fb,0,0,0,0,0,,,,,,2,0,2
+1176797,2018/19,Papua New Guinea,0,N Vanua,a36915ce,W Viraliliu,a89730a9,TP Ura,a82eb3fb,1,0,0,0,0,,,,,,0,1,1
+1176797,2018/19,Papua New Guinea,0,N Vanua,a36915ce,W Viraliliu,a89730a9,TP Ura,a82eb3fb,0,0,0,1,0,,,,,,0,1,1
+1176797,2018/19,Papua New Guinea,0,TP Ura,a82eb3fb,W Viraliliu,a89730a9,N Vanua,a36915ce,0,0,0,0,0,,,,,,3,0,3
+1176797,2018/19,Papua New Guinea,0,N Vanua,a36915ce,W Viraliliu,a89730a9,TP Ura,a82eb3fb,0,0,0,0,0,,,,,,4,0,4
+1176797,2018/19,Papua New Guinea,1,TP Ura,a82eb3fb,ZK Shem,87ffd217,N Vanua,a36915ce,0,0,0,0,0,,,,,,6,0,6
+1176797,2018/19,Papua New Guinea,1,TP Ura,a82eb3fb,ZK Shem,87ffd217,N Vanua,a36915ce,4,0,0,0,0,,,,,,0,4,4
+1176797,2018/19,Papua New Guinea,1,N Vanua,a36915ce,ZK Shem,87ffd217,TP Ura,a82eb3fb,1,0,0,0,0,,,,,,0,1,1
+1176797,2018/19,Papua New Guinea,1,N Vanua,a36915ce,ZK Shem,87ffd217,TP Ura,a82eb3fb,0,0,0,0,0,,,,,,2,0,2
+1176797,2018/19,Papua New Guinea,1,N Vanua,a36915ce,ZK Shem,87ffd217,TP Ura,a82eb3fb,0,0,0,0,0,,,,,,6,0,6
+1176797,2018/19,Papua New Guinea,1,N Vanua,a36915ce,ZK Shem,87ffd217,TP Ura,a82eb3fb,0,0,0,0,0,,,,,,1,0,1
+1176797,2018/19,Papua New Guinea,1,TP Ura,a82eb3fb,ZK Shem,87ffd217,N Vanua,a36915ce,0,0,0,0,0,,,,,,3,0,3
+1176797,2018/19,Papua New Guinea,1,N Vanua,a36915ce,ZK Shem,87ffd217,TP Ura,a82eb3fb,0,0,0,0,0,,,,,,2,0,2
+1176797,2018/19,Papua New Guinea,2,TP Ura,a82eb3fb,W Viraliliu,a89730a9,N Vanua,a36915ce,0,0,0,0,0,,,,,,6,0,6
+1176797,2018/19,Papua New Guinea,2,TP Ura,a82eb3fb,W Viraliliu,a89730a9,N Vanua,a36915ce,0,0,0,0,0,,,,,,4,0,4
+1176797,2018/19,Papua New Guinea,2,TP Ura,a82eb3fb,W Viraliliu,a89730a9,N Vanua,a36915ce,0,0,0,0,0,,,,,,0,0,0
+1176797,2018/19,Papua New Guinea,2,TP Ura,a82eb3fb,W Viraliliu,a89730a9,N Vanua,a36915ce,0,0,0,0,0,,,,,,1,0,1
+1176797,2018/19,Papua New Guinea,2,N Vanua,a36915ce,W Viraliliu,a89730a9,TP Ura,a82eb3fb,0,0,0,0,0,,,,,,0,0,0
+1176797,2018/19,Papua New Guinea,2,N Vanua,a36915ce,W Viraliliu,a89730a9,TP Ura,a82eb3fb,0,0,0,0,0,,,,,,6,0,6

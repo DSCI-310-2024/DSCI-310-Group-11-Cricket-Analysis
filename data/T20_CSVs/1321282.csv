@@ -1,0 +1,182 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1321282,2022,Estonia,0,Ali Masood,a138f597,Vinay Ravi,9c181b99,Arslan Amjad,c228c52d,0,0,0,0,0,,,,,,1,0,1
+1321282,2022,Estonia,0,Arslan Amjad,c228c52d,Vinay Ravi,9c181b99,Ali Masood,a138f597,0,0,0,0,0,,,,,,0,0,0
+1321282,2022,Estonia,0,Arslan Amjad,c228c52d,Vinay Ravi,9c181b99,Ali Masood,a138f597,0,0,0,0,0,,,,,,1,0,1
+1321282,2022,Estonia,0,Ali Masood,a138f597,Vinay Ravi,9c181b99,Arslan Amjad,c228c52d,0,0,0,0,0,,,,,,2,0,2
+1321282,2022,Estonia,0,Ali Masood,a138f597,Vinay Ravi,9c181b99,Arslan Amjad,c228c52d,0,0,0,0,0,,,,,,4,0,4
+1321282,2022,Estonia,0,Ali Masood,a138f597,Vinay Ravi,9c181b99,Arslan Amjad,c228c52d,0,0,0,0,0,,,,,,0,0,0
+1321282,2022,Estonia,1,Arslan Amjad,c228c52d,Ahmadullah Shinwari,e068d48e,Ali Masood,a138f597,0,0,0,0,0,,,,,,0,0,0
+1321282,2022,Estonia,1,Arslan Amjad,c228c52d,Ahmadullah Shinwari,e068d48e,Ali Masood,a138f597,0,0,0,0,0,,,,,,4,0,4
+1321282,2022,Estonia,1,Arslan Amjad,c228c52d,Ahmadullah Shinwari,e068d48e,Ali Masood,a138f597,0,0,0,0,0,,,,,,0,0,0
+1321282,2022,Estonia,1,Arslan Amjad,c228c52d,Ahmadullah Shinwari,e068d48e,Ali Masood,a138f597,0,0,0,0,0,,,,,,0,0,0
+1321282,2022,Estonia,1,Arslan Amjad,c228c52d,Ahmadullah Shinwari,e068d48e,Ali Masood,a138f597,0,0,0,0,0,,,,,,1,0,1
+1321282,2022,Estonia,1,Ali Masood,a138f597,Ahmadullah Shinwari,e068d48e,Arslan Amjad,c228c52d,0,0,0,0,0,,,,,,1,0,1
+1321282,2022,Estonia,2,Ali Masood,a138f597,Vinay Ravi,9c181b99,Arslan Amjad,c228c52d,1,0,0,0,0,,,,,,0,1,1
+1321282,2022,Estonia,2,Ali Masood,a138f597,Vinay Ravi,9c181b99,Arslan Amjad,c228c52d,0,0,0,0,1,Arslan Amjad,c228c52d,Vinay Ravi,9c181b99,run out,0,0,0
+1321282,2022,Estonia,2,Ali Masood,a138f597,Vinay Ravi,9c181b99,Maidul Islam,6969d364,0,0,0,0,0,,,,,,0,0,0
+1321282,2022,Estonia,2,Ali Masood,a138f597,Vinay Ravi,9c181b99,Maidul Islam,6969d364,0,0,0,0,0,,,,,,2,0,2
+1321282,2022,Estonia,2,Ali Masood,a138f597,Vinay Ravi,9c181b99,Maidul Islam,6969d364,0,0,0,0,0,,,,,,0,0,0
+1321282,2022,Estonia,2,Ali Masood,a138f597,Vinay Ravi,9c181b99,Maidul Islam,6969d364,0,0,0,0,0,,,,,,0,0,0
+1321282,2022,Estonia,2,Ali Masood,a138f597,Vinay Ravi,9c181b99,Maidul Islam,6969d364,0,0,0,0,0,,,,,,4,0,4
+1321282,2022,Estonia,3,Maidul Islam,6969d364,Ahmadullah Shinwari,e068d48e,Ali Masood,a138f597,0,0,0,0,0,,,,,,0,0,0
+1321282,2022,Estonia,3,Maidul Islam,6969d364,Ahmadullah Shinwari,e068d48e,Ali Masood,a138f597,0,0,0,0,0,,,,,,0,0,0
+1321282,2022,Estonia,3,Maidul Islam,6969d364,Ahmadullah Shinwari,e068d48e,Ali Masood,a138f597,0,0,0,0,0,,,,,,1,0,1
+1321282,2022,Estonia,3,Ali Masood,a138f597,Ahmadullah Shinwari,e068d48e,Maidul Islam,6969d364,0,0,0,0,0,,,,,,3,0,3
+1321282,2022,Estonia,3,Maidul Islam,6969d364,Ahmadullah Shinwari,e068d48e,Ali Masood,a138f597,5,0,0,0,0,,,,,,0,5,5
+1321282,2022,Estonia,3,Maidul Islam,6969d364,Ahmadullah Shinwari,e068d48e,Ali Masood,a138f597,1,0,0,0,0,,,,,,0,1,1
+1321282,2022,Estonia,3,Maidul Islam,6969d364,Ahmadullah Shinwari,e068d48e,Ali Masood,a138f597,0,0,0,0,0,,,,,,0,0,0
+1321282,2022,Estonia,3,Maidul Islam,6969d364,Ahmadullah Shinwari,e068d48e,Ali Masood,a138f597,0,0,0,0,0,,,,,,4,0,4
+1321282,2022,Estonia,4,Ali Masood,a138f597,Ansar Iqbal,9a08a863,Maidul Islam,6969d364,0,0,1,0,0,,,,,,0,1,1
+1321282,2022,Estonia,4,Maidul Islam,6969d364,Ansar Iqbal,9a08a863,Ali Masood,a138f597,0,0,0,0,0,,,,,,0,0,0
+1321282,2022,Estonia,4,Maidul Islam,6969d364,Ansar Iqbal,9a08a863,Ali Masood,a138f597,0,0,0,0,0,,,,,,0,0,0
+1321282,2022,Estonia,4,Maidul Islam,6969d364,Ansar Iqbal,9a08a863,Ali Masood,a138f597,0,0,0,0,0,,,,,,2,0,2
+1321282,2022,Estonia,4,Maidul Islam,6969d364,Ansar Iqbal,9a08a863,Ali Masood,a138f597,0,0,0,0,0,,,,,,1,0,1
+1321282,2022,Estonia,4,Ali Masood,a138f597,Ansar Iqbal,9a08a863,Maidul Islam,6969d364,0,0,0,0,0,,,,,,0,0,0
+1321282,2022,Estonia,5,Maidul Islam,6969d364,Qamar Mushtaque,fc362c5d,Ali Masood,a138f597,0,0,0,0,0,,,,,,1,0,1
+1321282,2022,Estonia,5,Ali Masood,a138f597,Qamar Mushtaque,fc362c5d,Maidul Islam,6969d364,0,0,0,0,0,,,,,,4,0,4
+1321282,2022,Estonia,5,Ali Masood,a138f597,Qamar Mushtaque,fc362c5d,Maidul Islam,6969d364,0,0,0,0,0,,,,,,1,0,1
+1321282,2022,Estonia,5,Maidul Islam,6969d364,Qamar Mushtaque,fc362c5d,Ali Masood,a138f597,0,0,0,0,0,,,,,,0,0,0
+1321282,2022,Estonia,5,Maidul Islam,6969d364,Qamar Mushtaque,fc362c5d,Ali Masood,a138f597,0,0,0,0,1,Maidul Islam,6969d364,Usman Arif,fccc2d5a,caught,0,0,0
+1321282,2022,Estonia,5,Ali Masood,a138f597,Qamar Mushtaque,fc362c5d,Habib Khan,5152ab02,0,0,0,0,0,,,,,,0,0,0
+1321282,2022,Estonia,6,Habib Khan,5152ab02,Raza Iqbal,eee46f77,Ali Masood,a138f597,0,0,0,0,0,,,,,,0,0,0
+1321282,2022,Estonia,6,Habib Khan,5152ab02,Raza Iqbal,eee46f77,Ali Masood,a138f597,0,0,0,0,0,,,,,,6,0,6
+1321282,2022,Estonia,6,Habib Khan,5152ab02,Raza Iqbal,eee46f77,Ali Masood,a138f597,0,0,0,0,0,,,,,,1,0,1
+1321282,2022,Estonia,6,Ali Masood,a138f597,Raza Iqbal,eee46f77,Habib Khan,5152ab02,0,0,0,0,0,,,,,,1,0,1
+1321282,2022,Estonia,6,Habib Khan,5152ab02,Raza Iqbal,eee46f77,Ali Masood,a138f597,0,0,0,0,0,,,,,,2,0,2
+1321282,2022,Estonia,6,Habib Khan,5152ab02,Raza Iqbal,eee46f77,Ali Masood,a138f597,0,0,0,0,0,,,,,,2,0,2
+1321282,2022,Estonia,7,Ali Masood,a138f597,Qamar Mushtaque,fc362c5d,Habib Khan,5152ab02,0,0,0,0,0,,,,,,0,0,0
+1321282,2022,Estonia,7,Ali Masood,a138f597,Qamar Mushtaque,fc362c5d,Habib Khan,5152ab02,0,0,0,0,0,,,,,,0,0,0
+1321282,2022,Estonia,7,Ali Masood,a138f597,Qamar Mushtaque,fc362c5d,Habib Khan,5152ab02,0,0,0,0,0,,,,,,1,0,1
+1321282,2022,Estonia,7,Habib Khan,5152ab02,Qamar Mushtaque,fc362c5d,Ali Masood,a138f597,0,0,0,0,0,,,,,,0,0,0
+1321282,2022,Estonia,7,Habib Khan,5152ab02,Qamar Mushtaque,fc362c5d,Ali Masood,a138f597,0,0,0,0,0,,,,,,0,0,0
+1321282,2022,Estonia,7,Habib Khan,5152ab02,Qamar Mushtaque,fc362c5d,Ali Masood,a138f597,0,0,0,0,0,,,,,,1,0,1
+1321282,2022,Estonia,8,Habib Khan,5152ab02,Raza Iqbal,eee46f77,Ali Masood,a138f597,0,0,0,0,0,,,,,,0,0,0
+1321282,2022,Estonia,8,Habib Khan,5152ab02,Raza Iqbal,eee46f77,Ali Masood,a138f597,0,0,0,0,1,Habib Khan,5152ab02,M Shahbaz Butt,5ef3c310,caught,0,0,0
+1321282,2022,Estonia,8,Ali Masood,a138f597,Raza Iqbal,eee46f77,S Hook,eba871dd,0,0,0,0,0,,,,,,4,0,4
+1321282,2022,Estonia,8,Ali Masood,a138f597,Raza Iqbal,eee46f77,S Hook,eba871dd,0,0,0,0,0,,,,,,1,0,1
+1321282,2022,Estonia,8,S Hook,eba871dd,Raza Iqbal,eee46f77,Ali Masood,a138f597,0,0,0,0,0,,,,,,0,0,0
+1321282,2022,Estonia,8,S Hook,eba871dd,Raza Iqbal,eee46f77,Ali Masood,a138f597,0,0,0,0,0,,,,,,2,0,2
+1321282,2022,Estonia,9,Ali Masood,a138f597,M Shahbaz Butt,5ef3c310,S Hook,eba871dd,0,0,0,0,0,,,,,,0,0,0
+1321282,2022,Estonia,9,Ali Masood,a138f597,M Shahbaz Butt,5ef3c310,S Hook,eba871dd,0,0,0,0,0,,,,,,0,0,0
+1321282,2022,Estonia,9,Ali Masood,a138f597,M Shahbaz Butt,5ef3c310,S Hook,eba871dd,0,0,0,0,0,,,,,,4,0,4
+1321282,2022,Estonia,9,Ali Masood,a138f597,M Shahbaz Butt,5ef3c310,S Hook,eba871dd,0,0,0,0,0,,,,,,0,0,0
+1321282,2022,Estonia,9,Ali Masood,a138f597,M Shahbaz Butt,5ef3c310,S Hook,eba871dd,0,0,0,0,0,,,,,,1,0,1
+1321282,2022,Estonia,9,S Hook,eba871dd,M Shahbaz Butt,5ef3c310,Ali Masood,a138f597,0,0,0,0,0,,,,,,0,0,0
+1321282,2022,Estonia,10,Ali Masood,a138f597,Raza Iqbal,eee46f77,S Hook,eba871dd,0,0,0,0,0,,,,,,0,0,0
+1321282,2022,Estonia,10,Ali Masood,a138f597,Raza Iqbal,eee46f77,S Hook,eba871dd,0,0,0,0,0,,,,,,1,0,1
+1321282,2022,Estonia,10,S Hook,eba871dd,Raza Iqbal,eee46f77,Ali Masood,a138f597,0,0,0,0,0,,,,,,1,0,1
+1321282,2022,Estonia,10,Ali Masood,a138f597,Raza Iqbal,eee46f77,S Hook,eba871dd,0,0,0,0,0,,,,,,1,0,1
+1321282,2022,Estonia,10,S Hook,eba871dd,Raza Iqbal,eee46f77,Ali Masood,a138f597,0,0,0,0,0,,,,,,0,0,0
+1321282,2022,Estonia,10,S Hook,eba871dd,Raza Iqbal,eee46f77,Ali Masood,a138f597,0,0,0,0,0,,,,,,2,0,2
+1321282,2022,Estonia,11,Ali Masood,a138f597,M Shahbaz Butt,5ef3c310,S Hook,eba871dd,0,0,0,0,0,,,,,,0,0,0
+1321282,2022,Estonia,11,Ali Masood,a138f597,M Shahbaz Butt,5ef3c310,S Hook,eba871dd,0,0,0,0,0,,,,,,3,0,3
+1321282,2022,Estonia,11,S Hook,eba871dd,M Shahbaz Butt,5ef3c310,Ali Masood,a138f597,0,0,0,0,0,,,,,,0,0,0
+1321282,2022,Estonia,11,S Hook,eba871dd,M Shahbaz Butt,5ef3c310,Ali Masood,a138f597,0,0,0,0,0,,,,,,2,0,2
+1321282,2022,Estonia,11,S Hook,eba871dd,M Shahbaz Butt,5ef3c310,Ali Masood,a138f597,0,0,0,0,0,,,,,,2,0,2
+1321282,2022,Estonia,11,S Hook,eba871dd,M Shahbaz Butt,5ef3c310,Ali Masood,a138f597,0,0,0,0,0,,,,,,0,0,0
+1321282,2022,Estonia,12,Ali Masood,a138f597,Raza Iqbal,eee46f77,S Hook,eba871dd,0,0,0,0,0,,,,,,0,0,0
+1321282,2022,Estonia,12,Ali Masood,a138f597,Raza Iqbal,eee46f77,S Hook,eba871dd,0,0,0,0,0,,,,,,0,0,0
+1321282,2022,Estonia,12,Ali Masood,a138f597,Raza Iqbal,eee46f77,S Hook,eba871dd,0,0,0,0,0,,,,,,1,0,1
+1321282,2022,Estonia,12,S Hook,eba871dd,Raza Iqbal,eee46f77,Ali Masood,a138f597,0,0,0,0,1,S Hook,eba871dd,Vinay Ravi,9c181b99,caught,0,0,0
+1321282,2022,Estonia,12,Ali Masood,a138f597,Raza Iqbal,eee46f77,MMR Obili,88228580,0,0,0,0,0,,,,,,4,0,4
+1321282,2022,Estonia,12,Ali Masood,a138f597,Raza Iqbal,eee46f77,MMR Obili,88228580,0,0,0,0,1,Ali Masood,a138f597,Ali Saleem,661e8a03,caught,0,0,0
+1321282,2022,Estonia,13,MMR Obili,88228580,M Shahbaz Butt,5ef3c310,Elias Hasan,f74a1394,0,0,0,0,0,,,,,,0,0,0
+1321282,2022,Estonia,13,MMR Obili,88228580,M Shahbaz Butt,5ef3c310,Elias Hasan,f74a1394,0,0,0,0,0,,,,,,1,0,1
+1321282,2022,Estonia,13,Elias Hasan,f74a1394,M Shahbaz Butt,5ef3c310,MMR Obili,88228580,0,0,0,0,0,,,,,,0,0,0
+1321282,2022,Estonia,13,Elias Hasan,f74a1394,M Shahbaz Butt,5ef3c310,MMR Obili,88228580,0,0,0,0,0,,,,,,0,0,0
+1321282,2022,Estonia,13,Elias Hasan,f74a1394,M Shahbaz Butt,5ef3c310,MMR Obili,88228580,0,0,0,0,0,,,,,,0,0,0
+1321282,2022,Estonia,13,Elias Hasan,f74a1394,M Shahbaz Butt,5ef3c310,MMR Obili,88228580,0,0,0,0,0,,,,,,0,0,0
+1321282,2022,Estonia,14,MMR Obili,88228580,Vinay Ravi,9c181b99,Elias Hasan,f74a1394,0,0,0,0,0,,,,,,0,0,0
+1321282,2022,Estonia,14,MMR Obili,88228580,Vinay Ravi,9c181b99,Elias Hasan,f74a1394,0,0,0,0,0,,,,,,0,0,0
+1321282,2022,Estonia,14,MMR Obili,88228580,Vinay Ravi,9c181b99,Elias Hasan,f74a1394,0,0,0,0,0,,,,,,1,0,1
+1321282,2022,Estonia,14,Elias Hasan,f74a1394,Vinay Ravi,9c181b99,MMR Obili,88228580,0,0,0,0,0,,,,,,0,0,0
+1321282,2022,Estonia,14,Elias Hasan,f74a1394,Vinay Ravi,9c181b99,MMR Obili,88228580,0,0,0,0,0,,,,,,1,0,1
+1321282,2022,Estonia,14,MMR Obili,88228580,Vinay Ravi,9c181b99,Elias Hasan,f74a1394,0,0,0,0,0,,,,,,1,0,1
+1321282,2022,Estonia,15,MMR Obili,88228580,M Shahbaz Butt,5ef3c310,Elias Hasan,f74a1394,0,0,0,0,1,MMR Obili,88228580,Qamar Mushtaque,fc362c5d,caught,0,0,0
+1321282,2022,Estonia,15,Elias Hasan,f74a1394,M Shahbaz Butt,5ef3c310,A Paul,fa308279,0,0,0,0,1,Elias Hasan,f74a1394,,,caught and bowled,0,0,0
+1321282,2022,Estonia,15,Saqib Naveed,39e6bad7,M Shahbaz Butt,5ef3c310,A Paul,fa308279,0,0,0,0,0,,,,,,0,0,0
+1321282,2022,Estonia,15,Saqib Naveed,39e6bad7,M Shahbaz Butt,5ef3c310,A Paul,fa308279,0,0,0,0,0,,,,,,0,0,0
+1321282,2022,Estonia,15,Saqib Naveed,39e6bad7,M Shahbaz Butt,5ef3c310,A Paul,fa308279,0,0,0,0,0,,,,,,0,0,0
+1321282,2022,Estonia,15,Saqib Naveed,39e6bad7,M Shahbaz Butt,5ef3c310,A Paul,fa308279,0,0,0,0,1,A Paul,fa308279,Ibrahim Rahimi,f8ef3653,run out,0,0,0
+1321282,2022,Estonia,16,Saqib Naveed,39e6bad7,Vinay Ravi,9c181b99,Ali Raza,db51b9a0,0,0,0,0,0,,,,,,0,0,0
+1321282,2022,Estonia,16,Saqib Naveed,39e6bad7,Vinay Ravi,9c181b99,Ali Raza,db51b9a0,0,0,0,0,0,,,,,,0,0,0
+1321282,2022,Estonia,16,Saqib Naveed,39e6bad7,Vinay Ravi,9c181b99,Ali Raza,db51b9a0,0,0,0,0,0,,,,,,0,0,0
+1321282,2022,Estonia,16,Saqib Naveed,39e6bad7,Vinay Ravi,9c181b99,Ali Raza,db51b9a0,0,0,0,0,0,,,,,,1,0,1
+1321282,2022,Estonia,16,Ali Raza,db51b9a0,Vinay Ravi,9c181b99,Saqib Naveed,39e6bad7,0,0,0,0,0,,,,,,0,0,0
+1321282,2022,Estonia,16,Ali Raza,db51b9a0,Vinay Ravi,9c181b99,Saqib Naveed,39e6bad7,0,0,0,0,0,,,,,,4,0,4
+1321282,2022,Estonia,17,Saqib Naveed,39e6bad7,Qamar Mushtaque,fc362c5d,Ali Raza,db51b9a0,0,0,0,0,0,,,,,,0,0,0
+1321282,2022,Estonia,17,Saqib Naveed,39e6bad7,Qamar Mushtaque,fc362c5d,Ali Raza,db51b9a0,0,0,0,0,0,,,,,,1,0,1
+1321282,2022,Estonia,17,Ali Raza,db51b9a0,Qamar Mushtaque,fc362c5d,Saqib Naveed,39e6bad7,0,0,0,0,1,Ali Raza,db51b9a0,,,bowled,0,0,0
+1321282,2022,Estonia,17,K Vislapuu,04855b85,Qamar Mushtaque,fc362c5d,Saqib Naveed,39e6bad7,0,0,0,0,0,,,,,,1,0,1
+1321282,2022,Estonia,17,Saqib Naveed,39e6bad7,Qamar Mushtaque,fc362c5d,K Vislapuu,04855b85,0,0,0,0,0,,,,,,1,0,1
+1321282,2022,Estonia,17,K Vislapuu,04855b85,Qamar Mushtaque,fc362c5d,Saqib Naveed,39e6bad7,0,0,0,0,0,,,,,,0,0,0
+1321282,2022,Estonia,18,Saqib Naveed,39e6bad7,Ahmadullah Shinwari,e068d48e,K Vislapuu,04855b85,0,0,0,0,0,,,,,,0,0,0
+1321282,2022,Estonia,18,Saqib Naveed,39e6bad7,Ahmadullah Shinwari,e068d48e,K Vislapuu,04855b85,0,0,0,0,0,,,,,,0,0,0
+1321282,2022,Estonia,18,Saqib Naveed,39e6bad7,Ahmadullah Shinwari,e068d48e,K Vislapuu,04855b85,0,0,0,0,0,,,,,,1,0,1
+1321282,2022,Estonia,18,K Vislapuu,04855b85,Ahmadullah Shinwari,e068d48e,Saqib Naveed,39e6bad7,0,0,0,0,1,K Vislapuu,04855b85,,,bowled,0,0,0
+1321282,2022,Norway,0,Raza Iqbal,eee46f77,Habib Khan,5152ab02,D Abeyrathna,ee17d329,0,0,0,0,0,,,,,,0,0,0
+1321282,2022,Norway,0,Raza Iqbal,eee46f77,Habib Khan,5152ab02,D Abeyrathna,ee17d329,0,0,0,0,0,,,,,,4,0,4
+1321282,2022,Norway,0,Raza Iqbal,eee46f77,Habib Khan,5152ab02,D Abeyrathna,ee17d329,0,0,0,0,0,,,,,,1,0,1
+1321282,2022,Norway,0,D Abeyrathna,ee17d329,Habib Khan,5152ab02,Raza Iqbal,eee46f77,0,0,0,0,0,,,,,,1,0,1
+1321282,2022,Norway,0,Raza Iqbal,eee46f77,Habib Khan,5152ab02,D Abeyrathna,ee17d329,0,0,0,0,0,,,,,,1,0,1
+1321282,2022,Norway,0,D Abeyrathna,ee17d329,Habib Khan,5152ab02,Raza Iqbal,eee46f77,0,0,0,0,0,,,,,,4,0,4
+1321282,2022,Norway,1,Raza Iqbal,eee46f77,K Vislapuu,04855b85,D Abeyrathna,ee17d329,0,0,0,0,0,,,,,,0,0,0
+1321282,2022,Norway,1,Raza Iqbal,eee46f77,K Vislapuu,04855b85,D Abeyrathna,ee17d329,0,0,0,0,0,,,,,,0,0,0
+1321282,2022,Norway,1,Raza Iqbal,eee46f77,K Vislapuu,04855b85,D Abeyrathna,ee17d329,0,0,0,0,0,,,,,,0,0,0
+1321282,2022,Norway,1,Raza Iqbal,eee46f77,K Vislapuu,04855b85,D Abeyrathna,ee17d329,0,0,0,0,0,,,,,,0,0,0
+1321282,2022,Norway,1,Raza Iqbal,eee46f77,K Vislapuu,04855b85,D Abeyrathna,ee17d329,0,0,0,0,0,,,,,,4,0,4
+1321282,2022,Norway,1,Raza Iqbal,eee46f77,K Vislapuu,04855b85,D Abeyrathna,ee17d329,0,0,0,0,0,,,,,,0,0,0
+1321282,2022,Norway,2,D Abeyrathna,ee17d329,Saqib Naveed,39e6bad7,Raza Iqbal,eee46f77,0,0,0,0,0,,,,,,1,0,1
+1321282,2022,Norway,2,Raza Iqbal,eee46f77,Saqib Naveed,39e6bad7,D Abeyrathna,ee17d329,1,0,0,0,0,,,,,,0,1,1
+1321282,2022,Norway,2,Raza Iqbal,eee46f77,Saqib Naveed,39e6bad7,D Abeyrathna,ee17d329,2,0,0,0,0,,,,,,0,2,2
+1321282,2022,Norway,2,D Abeyrathna,ee17d329,Saqib Naveed,39e6bad7,Raza Iqbal,eee46f77,0,0,0,0,0,,,,,,2,0,2
+1321282,2022,Norway,2,D Abeyrathna,ee17d329,Saqib Naveed,39e6bad7,Raza Iqbal,eee46f77,0,0,0,0,0,,,,,,1,0,1
+1321282,2022,Norway,2,Raza Iqbal,eee46f77,Saqib Naveed,39e6bad7,D Abeyrathna,ee17d329,0,0,0,0,0,,,,,,1,0,1
+1321282,2022,Norway,2,D Abeyrathna,ee17d329,Saqib Naveed,39e6bad7,Raza Iqbal,eee46f77,1,0,0,0,0,,,,,,0,1,1
+1321282,2022,Norway,2,D Abeyrathna,ee17d329,Saqib Naveed,39e6bad7,Raza Iqbal,eee46f77,1,0,0,0,0,,,,,,0,1,1
+1321282,2022,Norway,2,D Abeyrathna,ee17d329,Saqib Naveed,39e6bad7,Raza Iqbal,eee46f77,0,0,0,0,0,,,,,,1,0,1
+1321282,2022,Norway,2,Raza Iqbal,eee46f77,Saqib Naveed,39e6bad7,D Abeyrathna,ee17d329,0,0,0,0,0,,,,,,4,0,4
+1321282,2022,Norway,3,D Abeyrathna,ee17d329,K Vislapuu,04855b85,Raza Iqbal,eee46f77,0,0,0,0,0,,,,,,1,0,1
+1321282,2022,Norway,3,Raza Iqbal,eee46f77,K Vislapuu,04855b85,D Abeyrathna,ee17d329,0,0,0,0,0,,,,,,0,0,0
+1321282,2022,Norway,3,Raza Iqbal,eee46f77,K Vislapuu,04855b85,D Abeyrathna,ee17d329,0,0,0,0,0,,,,,,4,0,4
+1321282,2022,Norway,3,Raza Iqbal,eee46f77,K Vislapuu,04855b85,D Abeyrathna,ee17d329,0,0,0,0,0,,,,,,1,0,1
+1321282,2022,Norway,3,D Abeyrathna,ee17d329,K Vislapuu,04855b85,Raza Iqbal,eee46f77,0,0,0,0,0,,,,,,1,0,1
+1321282,2022,Norway,3,Raza Iqbal,eee46f77,K Vislapuu,04855b85,D Abeyrathna,ee17d329,0,0,0,0,0,,,,,,1,0,1
+1321282,2022,Norway,4,Raza Iqbal,eee46f77,MMR Obili,88228580,D Abeyrathna,ee17d329,0,0,0,0,0,,,,,,1,0,1
+1321282,2022,Norway,4,D Abeyrathna,ee17d329,MMR Obili,88228580,Raza Iqbal,eee46f77,0,0,0,0,0,,,,,,0,0,0
+1321282,2022,Norway,4,D Abeyrathna,ee17d329,MMR Obili,88228580,Raza Iqbal,eee46f77,0,0,0,0,0,,,,,,1,0,1
+1321282,2022,Norway,4,Raza Iqbal,eee46f77,MMR Obili,88228580,D Abeyrathna,ee17d329,0,0,0,0,0,,,,,,4,0,4
+1321282,2022,Norway,4,Raza Iqbal,eee46f77,MMR Obili,88228580,D Abeyrathna,ee17d329,0,0,0,0,0,,,,,,4,0,4
+1321282,2022,Norway,4,Raza Iqbal,eee46f77,MMR Obili,88228580,D Abeyrathna,ee17d329,0,0,0,0,0,,,,,,1,0,1
+1321282,2022,Norway,5,Raza Iqbal,eee46f77,K Vislapuu,04855b85,D Abeyrathna,ee17d329,0,0,0,0,0,,,,,,6,0,6
+1321282,2022,Norway,5,Raza Iqbal,eee46f77,K Vislapuu,04855b85,D Abeyrathna,ee17d329,0,0,0,0,0,,,,,,4,0,4
+1321282,2022,Norway,5,Raza Iqbal,eee46f77,K Vislapuu,04855b85,D Abeyrathna,ee17d329,0,0,0,0,0,,,,,,2,0,2
+1321282,2022,Norway,5,Raza Iqbal,eee46f77,K Vislapuu,04855b85,D Abeyrathna,ee17d329,0,0,0,0,0,,,,,,1,0,1
+1321282,2022,Norway,5,D Abeyrathna,ee17d329,K Vislapuu,04855b85,Raza Iqbal,eee46f77,0,0,0,0,0,,,,,,0,0,0
+1321282,2022,Norway,5,D Abeyrathna,ee17d329,K Vislapuu,04855b85,Raza Iqbal,eee46f77,0,0,0,0,0,,,,,,0,0,0
+1321282,2022,Norway,6,Raza Iqbal,eee46f77,MMR Obili,88228580,D Abeyrathna,ee17d329,0,0,1,0,0,,,,,,0,1,1
+1321282,2022,Norway,6,D Abeyrathna,ee17d329,MMR Obili,88228580,Raza Iqbal,eee46f77,0,0,0,0,0,,,,,,1,0,1
+1321282,2022,Norway,6,Raza Iqbal,eee46f77,MMR Obili,88228580,D Abeyrathna,ee17d329,0,0,0,0,0,,,,,,1,0,1
+1321282,2022,Norway,6,D Abeyrathna,ee17d329,MMR Obili,88228580,Raza Iqbal,eee46f77,0,0,0,0,0,,,,,,2,0,2
+1321282,2022,Norway,6,D Abeyrathna,ee17d329,MMR Obili,88228580,Raza Iqbal,eee46f77,0,0,0,0,0,,,,,,4,0,4
+1321282,2022,Norway,6,D Abeyrathna,ee17d329,MMR Obili,88228580,Raza Iqbal,eee46f77,0,0,0,0,0,,,,,,0,0,0
+1321282,2022,Norway,7,Raza Iqbal,eee46f77,Ali Masood,a138f597,D Abeyrathna,ee17d329,0,0,0,0,0,,,,,,1,0,1
+1321282,2022,Norway,7,D Abeyrathna,ee17d329,Ali Masood,a138f597,Raza Iqbal,eee46f77,0,0,0,0,0,,,,,,0,0,0
+1321282,2022,Norway,7,D Abeyrathna,ee17d329,Ali Masood,a138f597,Raza Iqbal,eee46f77,1,0,0,0,0,,,,,,0,1,1
+1321282,2022,Norway,7,D Abeyrathna,ee17d329,Ali Masood,a138f597,Raza Iqbal,eee46f77,0,0,0,0,0,,,,,,0,0,0
+1321282,2022,Norway,7,D Abeyrathna,ee17d329,Ali Masood,a138f597,Raza Iqbal,eee46f77,0,0,0,0,0,,,,,,1,0,1
+1321282,2022,Norway,7,Raza Iqbal,eee46f77,Ali Masood,a138f597,D Abeyrathna,ee17d329,0,0,0,0,0,,,,,,0,0,0
+1321282,2022,Norway,7,Raza Iqbal,eee46f77,Ali Masood,a138f597,D Abeyrathna,ee17d329,0,0,0,0,0,,,,,,3,0,3
+1321282,2022,Norway,8,Raza Iqbal,eee46f77,Elias Hasan,f74a1394,D Abeyrathna,ee17d329,0,0,0,0,0,,,,,,1,0,1
+1321282,2022,Norway,8,D Abeyrathna,ee17d329,Elias Hasan,f74a1394,Raza Iqbal,eee46f77,0,0,0,0,0,,,,,,6,0,6
+1321282,2022,Norway,8,D Abeyrathna,ee17d329,Elias Hasan,f74a1394,Raza Iqbal,eee46f77,1,0,0,0,0,,,,,,0,1,1
+1321282,2022,Norway,8,D Abeyrathna,ee17d329,Elias Hasan,f74a1394,Raza Iqbal,eee46f77,0,0,0,0,0,,,,,,1,0,1
+1321282,2022,Norway,8,Raza Iqbal,eee46f77,Elias Hasan,f74a1394,D Abeyrathna,ee17d329,0,0,0,0,0,,,,,,0,0,0
+1321282,2022,Norway,8,Raza Iqbal,eee46f77,Elias Hasan,f74a1394,D Abeyrathna,ee17d329,0,0,0,0,0,,,,,,4,0,4
+1321282,2022,Norway,8,Raza Iqbal,eee46f77,Elias Hasan,f74a1394,D Abeyrathna,ee17d329,0,0,0,0,0,,,,,,1,0,1
+1321282,2022,Norway,9,Raza Iqbal,eee46f77,Ali Masood,a138f597,D Abeyrathna,ee17d329,0,0,0,0,0,,,,,,3,0,3
+1321282,2022,Norway,9,D Abeyrathna,ee17d329,Ali Masood,a138f597,Raza Iqbal,eee46f77,0,0,0,0,0,,,,,,1,0,1
+1321282,2022,Norway,9,Raza Iqbal,eee46f77,Ali Masood,a138f597,D Abeyrathna,ee17d329,0,0,0,0,0,,,,,,1,0,1
+1321282,2022,Norway,9,D Abeyrathna,ee17d329,Ali Masood,a138f597,Raza Iqbal,eee46f77,0,0,0,0,0,,,,,,1,0,1
+1321282,2022,Norway,9,Raza Iqbal,eee46f77,Ali Masood,a138f597,D Abeyrathna,ee17d329,0,0,0,0,0,,,,,,4,0,4
+1321282,2022,Norway,9,Raza Iqbal,eee46f77,Ali Masood,a138f597,D Abeyrathna,ee17d329,0,0,0,0,0,,,,,,1,0,1

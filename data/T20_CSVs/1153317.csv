@@ -1,0 +1,183 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1153317,2018/19,Bangladesh,0,Tamim Iqbal,3b041a12,O Thomas,c6097d68,Liton Das,0404d43c,0,0,0,0,0,,,,,,0,0,0
+1153317,2018/19,Bangladesh,0,Tamim Iqbal,3b041a12,O Thomas,c6097d68,Liton Das,0404d43c,0,0,0,0,0,,,,,,1,0,1
+1153317,2018/19,Bangladesh,0,Liton Das,0404d43c,O Thomas,c6097d68,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,4,0,4
+1153317,2018/19,Bangladesh,0,Liton Das,0404d43c,O Thomas,c6097d68,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,1,0,1
+1153317,2018/19,Bangladesh,0,Tamim Iqbal,3b041a12,O Thomas,c6097d68,Liton Das,0404d43c,0,0,0,0,0,,,,,,0,0,0
+1153317,2018/19,Bangladesh,0,Tamim Iqbal,3b041a12,O Thomas,c6097d68,Liton Das,0404d43c,0,0,0,0,0,,,,,,1,0,1
+1153317,2018/19,Bangladesh,1,Tamim Iqbal,3b041a12,SS Cottrell,a1d053dd,Liton Das,0404d43c,0,0,0,0,0,,,,,,2,0,2
+1153317,2018/19,Bangladesh,1,Tamim Iqbal,3b041a12,SS Cottrell,a1d053dd,Liton Das,0404d43c,0,0,0,0,0,,,,,,1,0,1
+1153317,2018/19,Bangladesh,1,Liton Das,0404d43c,SS Cottrell,a1d053dd,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,1,0,1
+1153317,2018/19,Bangladesh,1,Tamim Iqbal,3b041a12,SS Cottrell,a1d053dd,Liton Das,0404d43c,0,0,0,0,1,Tamim Iqbal,3b041a12,CR Brathwaite,e342e5fb,caught,0,0,0
+1153317,2018/19,Bangladesh,1,Soumya Sarkar,4d9f9686,SS Cottrell,a1d053dd,Liton Das,0404d43c,0,0,0,4,0,,,,,,0,4,4
+1153317,2018/19,Bangladesh,1,Soumya Sarkar,4d9f9686,SS Cottrell,a1d053dd,Liton Das,0404d43c,0,0,0,0,0,,,,,,4,0,4
+1153317,2018/19,Bangladesh,2,Liton Das,0404d43c,O Thomas,c6097d68,Soumya Sarkar,4d9f9686,0,0,0,0,0,,,,,,0,0,0
+1153317,2018/19,Bangladesh,2,Liton Das,0404d43c,O Thomas,c6097d68,Soumya Sarkar,4d9f9686,0,0,0,0,1,Liton Das,0404d43c,CR Brathwaite,e342e5fb,caught,0,0,0
+1153317,2018/19,Bangladesh,2,Shakib Al Hasan,7dc35884,O Thomas,c6097d68,Soumya Sarkar,4d9f9686,0,0,0,0,0,,,,,,0,0,0
+1153317,2018/19,Bangladesh,2,Shakib Al Hasan,7dc35884,O Thomas,c6097d68,Soumya Sarkar,4d9f9686,0,0,0,0,0,,,,,,4,0,4
+1153317,2018/19,Bangladesh,2,Shakib Al Hasan,7dc35884,O Thomas,c6097d68,Soumya Sarkar,4d9f9686,0,0,0,0,0,,,,,,4,0,4
+1153317,2018/19,Bangladesh,2,Shakib Al Hasan,7dc35884,O Thomas,c6097d68,Soumya Sarkar,4d9f9686,0,0,0,0,0,,,,,,0,0,0
+1153317,2018/19,Bangladesh,3,Soumya Sarkar,4d9f9686,SS Cottrell,a1d053dd,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+1153317,2018/19,Bangladesh,3,Shakib Al Hasan,7dc35884,SS Cottrell,a1d053dd,Soumya Sarkar,4d9f9686,0,0,0,0,0,,,,,,3,0,3
+1153317,2018/19,Bangladesh,3,Soumya Sarkar,4d9f9686,SS Cottrell,a1d053dd,Shakib Al Hasan,7dc35884,0,0,0,0,1,Soumya Sarkar,4d9f9686,R Powell,650d5e49,caught,0,0,0
+1153317,2018/19,Bangladesh,3,Shakib Al Hasan,7dc35884,SS Cottrell,a1d053dd,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,0,0,0
+1153317,2018/19,Bangladesh,3,Shakib Al Hasan,7dc35884,SS Cottrell,a1d053dd,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,4,0,4
+1153317,2018/19,Bangladesh,3,Shakib Al Hasan,7dc35884,SS Cottrell,a1d053dd,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,0,0,0
+1153317,2018/19,Bangladesh,4,Mushfiqur Rahim,a94e08ea,O Thomas,c6097d68,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,4,0,4
+1153317,2018/19,Bangladesh,4,Mushfiqur Rahim,a94e08ea,O Thomas,c6097d68,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+1153317,2018/19,Bangladesh,4,Shakib Al Hasan,7dc35884,O Thomas,c6097d68,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,4,0,4
+1153317,2018/19,Bangladesh,4,Shakib Al Hasan,7dc35884,O Thomas,c6097d68,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,0,0,0
+1153317,2018/19,Bangladesh,4,Shakib Al Hasan,7dc35884,O Thomas,c6097d68,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,0,0,0
+1153317,2018/19,Bangladesh,4,Shakib Al Hasan,7dc35884,O Thomas,c6097d68,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,4,0,4
+1153317,2018/19,Bangladesh,5,Mushfiqur Rahim,a94e08ea,KMA Paul,75224f22,Shakib Al Hasan,7dc35884,0,0,0,0,1,Mushfiqur Rahim,a94e08ea,,,run out,0,0,0
+1153317,2018/19,Bangladesh,5,Shakib Al Hasan,7dc35884,KMA Paul,75224f22,Mahmudullah,bf1d7d3e,0,1,0,0,0,,,,,,0,1,1
+1153317,2018/19,Bangladesh,5,Shakib Al Hasan,7dc35884,KMA Paul,75224f22,Mahmudullah,bf1d7d3e,0,0,1,0,0,,,,,,0,1,1
+1153317,2018/19,Bangladesh,5,Mahmudullah,bf1d7d3e,KMA Paul,75224f22,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+1153317,2018/19,Bangladesh,5,Mahmudullah,bf1d7d3e,KMA Paul,75224f22,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+1153317,2018/19,Bangladesh,5,Mahmudullah,bf1d7d3e,KMA Paul,75224f22,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,4,0,4
+1153317,2018/19,Bangladesh,5,Mahmudullah,bf1d7d3e,KMA Paul,75224f22,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+1153317,2018/19,Bangladesh,6,Shakib Al Hasan,7dc35884,CR Brathwaite,e342e5fb,Mahmudullah,bf1d7d3e,0,0,0,0,0,,,,,,1,0,1
+1153317,2018/19,Bangladesh,6,Mahmudullah,bf1d7d3e,CR Brathwaite,e342e5fb,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+1153317,2018/19,Bangladesh,6,Mahmudullah,bf1d7d3e,CR Brathwaite,e342e5fb,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+1153317,2018/19,Bangladesh,6,Shakib Al Hasan,7dc35884,CR Brathwaite,e342e5fb,Mahmudullah,bf1d7d3e,0,0,0,0,0,,,,,,1,0,1
+1153317,2018/19,Bangladesh,6,Mahmudullah,bf1d7d3e,CR Brathwaite,e342e5fb,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+1153317,2018/19,Bangladesh,6,Shakib Al Hasan,7dc35884,CR Brathwaite,e342e5fb,Mahmudullah,bf1d7d3e,0,0,0,0,0,,,,,,0,0,0
+1153317,2018/19,Bangladesh,7,Mahmudullah,bf1d7d3e,KMA Paul,75224f22,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+1153317,2018/19,Bangladesh,7,Shakib Al Hasan,7dc35884,KMA Paul,75224f22,Mahmudullah,bf1d7d3e,0,0,0,0,0,,,,,,1,0,1
+1153317,2018/19,Bangladesh,7,Mahmudullah,bf1d7d3e,KMA Paul,75224f22,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+1153317,2018/19,Bangladesh,7,Shakib Al Hasan,7dc35884,KMA Paul,75224f22,Mahmudullah,bf1d7d3e,0,0,0,0,0,,,,,,4,0,4
+1153317,2018/19,Bangladesh,7,Shakib Al Hasan,7dc35884,KMA Paul,75224f22,Mahmudullah,bf1d7d3e,0,0,0,0,0,,,,,,0,0,0
+1153317,2018/19,Bangladesh,7,Shakib Al Hasan,7dc35884,KMA Paul,75224f22,Mahmudullah,bf1d7d3e,0,0,0,0,0,,,,,,1,0,1
+1153317,2018/19,Bangladesh,8,Shakib Al Hasan,7dc35884,CR Brathwaite,e342e5fb,Mahmudullah,bf1d7d3e,0,0,0,0,0,,,,,,1,0,1
+1153317,2018/19,Bangladesh,8,Mahmudullah,bf1d7d3e,CR Brathwaite,e342e5fb,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+1153317,2018/19,Bangladesh,8,Mahmudullah,bf1d7d3e,CR Brathwaite,e342e5fb,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+1153317,2018/19,Bangladesh,8,Mahmudullah,bf1d7d3e,CR Brathwaite,e342e5fb,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+1153317,2018/19,Bangladesh,8,Shakib Al Hasan,7dc35884,CR Brathwaite,e342e5fb,Mahmudullah,bf1d7d3e,0,0,0,0,0,,,,,,1,0,1
+1153317,2018/19,Bangladesh,8,Mahmudullah,bf1d7d3e,CR Brathwaite,e342e5fb,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+1153317,2018/19,Bangladesh,9,Mahmudullah,bf1d7d3e,FA Allen,b52ffbbd,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+1153317,2018/19,Bangladesh,9,Shakib Al Hasan,7dc35884,FA Allen,b52ffbbd,Mahmudullah,bf1d7d3e,0,0,0,0,0,,,,,,1,0,1
+1153317,2018/19,Bangladesh,9,Mahmudullah,bf1d7d3e,FA Allen,b52ffbbd,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+1153317,2018/19,Bangladesh,9,Mahmudullah,bf1d7d3e,FA Allen,b52ffbbd,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+1153317,2018/19,Bangladesh,9,Mahmudullah,bf1d7d3e,FA Allen,b52ffbbd,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+1153317,2018/19,Bangladesh,9,Shakib Al Hasan,7dc35884,FA Allen,b52ffbbd,Mahmudullah,bf1d7d3e,0,0,0,0,0,,,,,,0,0,0
+1153317,2018/19,Bangladesh,10,Mahmudullah,bf1d7d3e,SS Cottrell,a1d053dd,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+1153317,2018/19,Bangladesh,10,Mahmudullah,bf1d7d3e,SS Cottrell,a1d053dd,Shakib Al Hasan,7dc35884,0,0,0,0,1,Mahmudullah,bf1d7d3e,SD Hope,1fc6ef83,caught,0,0,0
+1153317,2018/19,Bangladesh,10,Ariful Haque,ad1730bc,SS Cottrell,a1d053dd,Shakib Al Hasan,7dc35884,1,0,0,0,0,,,,,,0,1,1
+1153317,2018/19,Bangladesh,10,Ariful Haque,ad1730bc,SS Cottrell,a1d053dd,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+1153317,2018/19,Bangladesh,10,Shakib Al Hasan,7dc35884,SS Cottrell,a1d053dd,Ariful Haque,ad1730bc,0,0,0,0,0,,,,,,0,0,0
+1153317,2018/19,Bangladesh,10,Shakib Al Hasan,7dc35884,SS Cottrell,a1d053dd,Ariful Haque,ad1730bc,0,0,0,0,0,,,,,,1,0,1
+1153317,2018/19,Bangladesh,10,Ariful Haque,ad1730bc,SS Cottrell,a1d053dd,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+1153317,2018/19,Bangladesh,11,Ariful Haque,ad1730bc,FA Allen,b52ffbbd,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+1153317,2018/19,Bangladesh,11,Shakib Al Hasan,7dc35884,FA Allen,b52ffbbd,Ariful Haque,ad1730bc,0,0,0,0,0,,,,,,4,0,4
+1153317,2018/19,Bangladesh,11,Shakib Al Hasan,7dc35884,FA Allen,b52ffbbd,Ariful Haque,ad1730bc,0,0,0,0,0,,,,,,1,0,1
+1153317,2018/19,Bangladesh,11,Ariful Haque,ad1730bc,FA Allen,b52ffbbd,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+1153317,2018/19,Bangladesh,11,Ariful Haque,ad1730bc,FA Allen,b52ffbbd,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,2,0,2
+1153317,2018/19,Bangladesh,11,Ariful Haque,ad1730bc,FA Allen,b52ffbbd,Shakib Al Hasan,7dc35884,0,0,1,0,0,,,,,,0,1,1
+1153317,2018/19,Bangladesh,12,Ariful Haque,ad1730bc,R Powell,650d5e49,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,4,0,4
+1153317,2018/19,Bangladesh,12,Ariful Haque,ad1730bc,R Powell,650d5e49,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+1153317,2018/19,Bangladesh,12,Shakib Al Hasan,7dc35884,R Powell,650d5e49,Ariful Haque,ad1730bc,0,0,0,0,0,,,,,,0,0,0
+1153317,2018/19,Bangladesh,12,Shakib Al Hasan,7dc35884,R Powell,650d5e49,Ariful Haque,ad1730bc,0,0,0,0,0,,,,,,0,0,0
+1153317,2018/19,Bangladesh,12,Shakib Al Hasan,7dc35884,R Powell,650d5e49,Ariful Haque,ad1730bc,0,0,0,0,0,,,,,,1,0,1
+1153317,2018/19,Bangladesh,12,Ariful Haque,ad1730bc,R Powell,650d5e49,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+1153317,2018/19,Bangladesh,13,Ariful Haque,ad1730bc,O Thomas,c6097d68,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+1153317,2018/19,Bangladesh,13,Shakib Al Hasan,7dc35884,O Thomas,c6097d68,Ariful Haque,ad1730bc,0,0,0,0,0,,,,,,2,0,2
+1153317,2018/19,Bangladesh,13,Shakib Al Hasan,7dc35884,O Thomas,c6097d68,Ariful Haque,ad1730bc,0,0,0,0,0,,,,,,0,0,0
+1153317,2018/19,Bangladesh,13,Shakib Al Hasan,7dc35884,O Thomas,c6097d68,Ariful Haque,ad1730bc,0,0,0,0,0,,,,,,1,0,1
+1153317,2018/19,Bangladesh,13,Ariful Haque,ad1730bc,O Thomas,c6097d68,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+1153317,2018/19,Bangladesh,13,Shakib Al Hasan,7dc35884,O Thomas,c6097d68,Ariful Haque,ad1730bc,0,0,0,0,0,,,,,,0,0,0
+1153317,2018/19,Bangladesh,14,Ariful Haque,ad1730bc,KMA Paul,75224f22,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+1153317,2018/19,Bangladesh,14,Ariful Haque,ad1730bc,KMA Paul,75224f22,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+1153317,2018/19,Bangladesh,14,Ariful Haque,ad1730bc,KMA Paul,75224f22,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+1153317,2018/19,Bangladesh,14,Ariful Haque,ad1730bc,KMA Paul,75224f22,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+1153317,2018/19,Bangladesh,14,Ariful Haque,ad1730bc,KMA Paul,75224f22,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+1153317,2018/19,Bangladesh,14,Ariful Haque,ad1730bc,KMA Paul,75224f22,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,4,0,4
+1153317,2018/19,Bangladesh,15,Shakib Al Hasan,7dc35884,FA Allen,b52ffbbd,Ariful Haque,ad1730bc,0,0,0,0,0,,,,,,0,0,0
+1153317,2018/19,Bangladesh,15,Shakib Al Hasan,7dc35884,FA Allen,b52ffbbd,Ariful Haque,ad1730bc,0,0,0,0,0,,,,,,0,0,0
+1153317,2018/19,Bangladesh,15,Shakib Al Hasan,7dc35884,FA Allen,b52ffbbd,Ariful Haque,ad1730bc,0,0,0,0,0,,,,,,1,0,1
+1153317,2018/19,Bangladesh,15,Ariful Haque,ad1730bc,FA Allen,b52ffbbd,Shakib Al Hasan,7dc35884,0,0,0,0,1,Ariful Haque,ad1730bc,N Pooran,3241e3fd,caught,0,0,0
+1153317,2018/19,Bangladesh,15,Mohammad Saifuddin,b3a28446,FA Allen,b52ffbbd,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+1153317,2018/19,Bangladesh,15,Shakib Al Hasan,7dc35884,FA Allen,b52ffbbd,Mohammad Saifuddin,b3a28446,0,0,0,0,0,,,,,,6,0,6
+1153317,2018/19,Bangladesh,16,Mohammad Saifuddin,b3a28446,CR Brathwaite,e342e5fb,Shakib Al Hasan,7dc35884,0,0,0,0,1,Mohammad Saifuddin,b3a28446,N Pooran,3241e3fd,caught,0,0,0
+1153317,2018/19,Bangladesh,16,Mehedi Hasan Miraz,c58b0108,CR Brathwaite,e342e5fb,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+1153317,2018/19,Bangladesh,16,Mehedi Hasan Miraz,c58b0108,CR Brathwaite,e342e5fb,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+1153317,2018/19,Bangladesh,16,Mehedi Hasan Miraz,c58b0108,CR Brathwaite,e342e5fb,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+1153317,2018/19,Bangladesh,16,Mehedi Hasan Miraz,c58b0108,CR Brathwaite,e342e5fb,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+1153317,2018/19,Bangladesh,16,Shakib Al Hasan,7dc35884,CR Brathwaite,e342e5fb,Mehedi Hasan Miraz,c58b0108,0,0,0,0,0,,,,,,4,0,4
+1153317,2018/19,Bangladesh,17,Mehedi Hasan Miraz,c58b0108,SS Cottrell,a1d053dd,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+1153317,2018/19,Bangladesh,17,Shakib Al Hasan,7dc35884,SS Cottrell,a1d053dd,Mehedi Hasan Miraz,c58b0108,0,0,0,0,0,,,,,,6,0,6
+1153317,2018/19,Bangladesh,17,Shakib Al Hasan,7dc35884,SS Cottrell,a1d053dd,Mehedi Hasan Miraz,c58b0108,0,0,0,0,1,Shakib Al Hasan,7dc35884,,,caught and bowled,0,0,0
+1153317,2018/19,Bangladesh,17,Mehedi Hasan Miraz,c58b0108,SS Cottrell,a1d053dd,Abu Hider,31803fac,0,0,0,0,0,,,,,,0,0,0
+1153317,2018/19,Bangladesh,17,Mehedi Hasan Miraz,c58b0108,SS Cottrell,a1d053dd,Abu Hider,31803fac,0,0,0,0,0,,,,,,1,0,1
+1153317,2018/19,Bangladesh,17,Abu Hider,31803fac,SS Cottrell,a1d053dd,Mehedi Hasan Miraz,c58b0108,0,0,0,0,0,,,,,,0,0,0
+1153317,2018/19,Bangladesh,18,Mehedi Hasan Miraz,c58b0108,KMA Paul,75224f22,Abu Hider,31803fac,0,0,0,0,0,,,,,,4,0,4
+1153317,2018/19,Bangladesh,18,Mehedi Hasan Miraz,c58b0108,KMA Paul,75224f22,Abu Hider,31803fac,0,0,0,0,0,,,,,,1,0,1
+1153317,2018/19,Bangladesh,18,Abu Hider,31803fac,KMA Paul,75224f22,Mehedi Hasan Miraz,c58b0108,0,0,0,0,0,,,,,,1,0,1
+1153317,2018/19,Bangladesh,18,Mehedi Hasan Miraz,c58b0108,KMA Paul,75224f22,Abu Hider,31803fac,0,0,0,0,1,Mehedi Hasan Miraz,c58b0108,SD Hope,1fc6ef83,caught,0,0,0
+1153317,2018/19,Bangladesh,18,Mustafizur Rahman,0a8fce53,KMA Paul,75224f22,Abu Hider,31803fac,0,0,0,0,0,,,,,,0,0,0
+1153317,2018/19,Bangladesh,18,Mustafizur Rahman,0a8fce53,KMA Paul,75224f22,Abu Hider,31803fac,0,0,0,0,1,Mustafizur Rahman,0a8fce53,,,bowled,0,0,0
+1153317,2018/19,West Indies,0,E Lewis,0ebfb1ad,Shakib Al Hasan,7dc35884,SD Hope,1fc6ef83,0,0,0,0,0,,,,,,1,0,1
+1153317,2018/19,West Indies,0,SD Hope,1fc6ef83,Shakib Al Hasan,7dc35884,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,0,0,0
+1153317,2018/19,West Indies,0,SD Hope,1fc6ef83,Shakib Al Hasan,7dc35884,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,1,0,1
+1153317,2018/19,West Indies,0,E Lewis,0ebfb1ad,Shakib Al Hasan,7dc35884,SD Hope,1fc6ef83,0,0,0,0,0,,,,,,4,0,4
+1153317,2018/19,West Indies,0,E Lewis,0ebfb1ad,Shakib Al Hasan,7dc35884,SD Hope,1fc6ef83,0,0,0,0,0,,,,,,0,0,0
+1153317,2018/19,West Indies,0,E Lewis,0ebfb1ad,Shakib Al Hasan,7dc35884,SD Hope,1fc6ef83,0,0,0,0,0,,,,,,1,0,1
+1153317,2018/19,West Indies,1,E Lewis,0ebfb1ad,Mehedi Hasan Miraz,c58b0108,SD Hope,1fc6ef83,0,0,0,0,0,,,,,,0,0,0
+1153317,2018/19,West Indies,1,E Lewis,0ebfb1ad,Mehedi Hasan Miraz,c58b0108,SD Hope,1fc6ef83,0,0,0,0,0,,,,,,1,0,1
+1153317,2018/19,West Indies,1,SD Hope,1fc6ef83,Mehedi Hasan Miraz,c58b0108,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,6,0,6
+1153317,2018/19,West Indies,1,SD Hope,1fc6ef83,Mehedi Hasan Miraz,c58b0108,E Lewis,0ebfb1ad,0,0,4,0,0,,,,,,0,4,4
+1153317,2018/19,West Indies,1,SD Hope,1fc6ef83,Mehedi Hasan Miraz,c58b0108,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,6,0,6
+1153317,2018/19,West Indies,1,SD Hope,1fc6ef83,Mehedi Hasan Miraz,c58b0108,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,6,0,6
+1153317,2018/19,West Indies,2,E Lewis,0ebfb1ad,Abu Hider,31803fac,SD Hope,1fc6ef83,0,0,0,0,0,,,,,,2,0,2
+1153317,2018/19,West Indies,2,E Lewis,0ebfb1ad,Abu Hider,31803fac,SD Hope,1fc6ef83,0,0,0,0,0,,,,,,2,0,2
+1153317,2018/19,West Indies,2,E Lewis,0ebfb1ad,Abu Hider,31803fac,SD Hope,1fc6ef83,0,0,0,0,0,,,,,,1,0,1
+1153317,2018/19,West Indies,2,SD Hope,1fc6ef83,Abu Hider,31803fac,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,6,0,6
+1153317,2018/19,West Indies,2,SD Hope,1fc6ef83,Abu Hider,31803fac,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,0,0,0
+1153317,2018/19,West Indies,2,SD Hope,1fc6ef83,Abu Hider,31803fac,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,4,0,4
+1153317,2018/19,West Indies,3,E Lewis,0ebfb1ad,Mohammad Saifuddin,b3a28446,SD Hope,1fc6ef83,0,0,0,0,0,,,,,,6,0,6
+1153317,2018/19,West Indies,3,E Lewis,0ebfb1ad,Mohammad Saifuddin,b3a28446,SD Hope,1fc6ef83,0,0,0,0,1,E Lewis,0ebfb1ad,Ariful Haque,ad1730bc,caught,0,0,0
+1153317,2018/19,West Indies,3,SD Hope,1fc6ef83,Mohammad Saifuddin,b3a28446,N Pooran,3241e3fd,0,0,0,0,0,,,,,,1,0,1
+1153317,2018/19,West Indies,3,N Pooran,3241e3fd,Mohammad Saifuddin,b3a28446,SD Hope,1fc6ef83,1,0,0,0,0,,,,,,0,1,1
+1153317,2018/19,West Indies,3,N Pooran,3241e3fd,Mohammad Saifuddin,b3a28446,SD Hope,1fc6ef83,0,0,0,0,0,,,,,,0,0,0
+1153317,2018/19,West Indies,3,N Pooran,3241e3fd,Mohammad Saifuddin,b3a28446,SD Hope,1fc6ef83,0,0,0,0,0,,,,,,4,0,4
+1153317,2018/19,West Indies,3,N Pooran,3241e3fd,Mohammad Saifuddin,b3a28446,SD Hope,1fc6ef83,0,0,0,0,0,,,,,,1,0,1
+1153317,2018/19,West Indies,4,N Pooran,3241e3fd,Mustafizur Rahman,0a8fce53,SD Hope,1fc6ef83,0,0,0,0,0,,,,,,4,0,4
+1153317,2018/19,West Indies,4,N Pooran,3241e3fd,Mustafizur Rahman,0a8fce53,SD Hope,1fc6ef83,0,0,0,0,0,,,,,,4,0,4
+1153317,2018/19,West Indies,4,N Pooran,3241e3fd,Mustafizur Rahman,0a8fce53,SD Hope,1fc6ef83,0,0,0,0,0,,,,,,1,0,1
+1153317,2018/19,West Indies,4,SD Hope,1fc6ef83,Mustafizur Rahman,0a8fce53,N Pooran,3241e3fd,0,0,0,0,0,,,,,,1,0,1
+1153317,2018/19,West Indies,4,N Pooran,3241e3fd,Mustafizur Rahman,0a8fce53,SD Hope,1fc6ef83,0,0,0,0,0,,,,,,1,0,1
+1153317,2018/19,West Indies,4,SD Hope,1fc6ef83,Mustafizur Rahman,0a8fce53,N Pooran,3241e3fd,0,0,0,0,0,,,,,,4,0,4
+1153317,2018/19,West Indies,5,N Pooran,3241e3fd,Mehedi Hasan Miraz,c58b0108,SD Hope,1fc6ef83,0,0,0,0,0,,,,,,1,0,1
+1153317,2018/19,West Indies,5,SD Hope,1fc6ef83,Mehedi Hasan Miraz,c58b0108,N Pooran,3241e3fd,0,0,0,0,0,,,,,,6,0,6
+1153317,2018/19,West Indies,5,SD Hope,1fc6ef83,Mehedi Hasan Miraz,c58b0108,N Pooran,3241e3fd,0,0,0,0,0,,,,,,4,0,4
+1153317,2018/19,West Indies,5,SD Hope,1fc6ef83,Mehedi Hasan Miraz,c58b0108,N Pooran,3241e3fd,0,0,0,0,0,,,,,,0,0,0
+1153317,2018/19,West Indies,5,SD Hope,1fc6ef83,Mehedi Hasan Miraz,c58b0108,N Pooran,3241e3fd,0,0,0,0,0,,,,,,6,0,6
+1153317,2018/19,West Indies,5,SD Hope,1fc6ef83,Mehedi Hasan Miraz,c58b0108,N Pooran,3241e3fd,0,0,0,0,0,,,,,,1,0,1
+1153317,2018/19,West Indies,6,SD Hope,1fc6ef83,Shakib Al Hasan,7dc35884,N Pooran,3241e3fd,0,0,0,0,0,,,,,,0,0,0
+1153317,2018/19,West Indies,6,SD Hope,1fc6ef83,Shakib Al Hasan,7dc35884,N Pooran,3241e3fd,0,0,0,0,0,,,,,,0,0,0
+1153317,2018/19,West Indies,6,SD Hope,1fc6ef83,Shakib Al Hasan,7dc35884,N Pooran,3241e3fd,0,0,0,0,0,,,,,,2,0,2
+1153317,2018/19,West Indies,6,SD Hope,1fc6ef83,Shakib Al Hasan,7dc35884,N Pooran,3241e3fd,0,0,0,0,0,,,,,,0,0,0
+1153317,2018/19,West Indies,6,SD Hope,1fc6ef83,Shakib Al Hasan,7dc35884,N Pooran,3241e3fd,0,0,0,0,0,,,,,,1,0,1
+1153317,2018/19,West Indies,6,N Pooran,3241e3fd,Shakib Al Hasan,7dc35884,SD Hope,1fc6ef83,0,0,0,0,0,,,,,,1,0,1
+1153317,2018/19,West Indies,7,N Pooran,3241e3fd,Mahmudullah,bf1d7d3e,SD Hope,1fc6ef83,0,0,0,0,0,,,,,,2,0,2
+1153317,2018/19,West Indies,7,N Pooran,3241e3fd,Mahmudullah,bf1d7d3e,SD Hope,1fc6ef83,0,0,0,0,0,,,,,,0,0,0
+1153317,2018/19,West Indies,7,N Pooran,3241e3fd,Mahmudullah,bf1d7d3e,SD Hope,1fc6ef83,0,0,0,0,0,,,,,,1,0,1
+1153317,2018/19,West Indies,7,SD Hope,1fc6ef83,Mahmudullah,bf1d7d3e,N Pooran,3241e3fd,0,0,0,0,1,SD Hope,1fc6ef83,Mustafizur Rahman,0a8fce53,caught,0,0,0
+1153317,2018/19,West Indies,7,KMA Paul,75224f22,Mahmudullah,bf1d7d3e,N Pooran,3241e3fd,0,0,0,0,0,,,,,,1,0,1
+1153317,2018/19,West Indies,7,N Pooran,3241e3fd,Mahmudullah,bf1d7d3e,KMA Paul,75224f22,0,0,0,0,0,,,,,,0,0,0
+1153317,2018/19,West Indies,8,KMA Paul,75224f22,Shakib Al Hasan,7dc35884,N Pooran,3241e3fd,0,0,0,0,0,,,,,,1,0,1
+1153317,2018/19,West Indies,8,N Pooran,3241e3fd,Shakib Al Hasan,7dc35884,KMA Paul,75224f22,0,0,0,0,0,,,,,,1,0,1
+1153317,2018/19,West Indies,8,KMA Paul,75224f22,Shakib Al Hasan,7dc35884,N Pooran,3241e3fd,0,0,0,0,0,,,,,,1,0,1
+1153317,2018/19,West Indies,8,N Pooran,3241e3fd,Shakib Al Hasan,7dc35884,KMA Paul,75224f22,0,0,0,0,0,,,,,,0,0,0
+1153317,2018/19,West Indies,8,N Pooran,3241e3fd,Shakib Al Hasan,7dc35884,KMA Paul,75224f22,0,0,0,0,0,,,,,,1,0,1
+1153317,2018/19,West Indies,8,KMA Paul,75224f22,Shakib Al Hasan,7dc35884,N Pooran,3241e3fd,0,0,0,0,0,,,,,,1,0,1
+1153317,2018/19,West Indies,9,KMA Paul,75224f22,Mahmudullah,bf1d7d3e,N Pooran,3241e3fd,0,0,0,0,0,,,,,,1,0,1
+1153317,2018/19,West Indies,9,N Pooran,3241e3fd,Mahmudullah,bf1d7d3e,KMA Paul,75224f22,0,0,0,0,0,,,,,,1,0,1
+1153317,2018/19,West Indies,9,KMA Paul,75224f22,Mahmudullah,bf1d7d3e,N Pooran,3241e3fd,0,0,0,0,0,,,,,,0,0,0
+1153317,2018/19,West Indies,9,KMA Paul,75224f22,Mahmudullah,bf1d7d3e,N Pooran,3241e3fd,0,0,0,0,0,,,,,,0,0,0
+1153317,2018/19,West Indies,9,KMA Paul,75224f22,Mahmudullah,bf1d7d3e,N Pooran,3241e3fd,0,0,0,0,0,,,,,,6,0,6
+1153317,2018/19,West Indies,9,KMA Paul,75224f22,Mahmudullah,bf1d7d3e,N Pooran,3241e3fd,0,0,0,0,0,,,,,,1,0,1
+1153317,2018/19,West Indies,10,KMA Paul,75224f22,Shakib Al Hasan,7dc35884,N Pooran,3241e3fd,0,0,0,0,0,,,,,,0,0,0
+1153317,2018/19,West Indies,10,KMA Paul,75224f22,Shakib Al Hasan,7dc35884,N Pooran,3241e3fd,0,0,0,0,0,,,,,,6,0,6
+1153317,2018/19,West Indies,10,KMA Paul,75224f22,Shakib Al Hasan,7dc35884,N Pooran,3241e3fd,0,0,0,0,0,,,,,,6,0,6
+1153317,2018/19,West Indies,10,KMA Paul,75224f22,Shakib Al Hasan,7dc35884,N Pooran,3241e3fd,0,0,0,0,0,,,,,,4,0,4
+1153317,2018/19,West Indies,10,KMA Paul,75224f22,Shakib Al Hasan,7dc35884,N Pooran,3241e3fd,0,0,1,0,0,,,,,,0,1,1

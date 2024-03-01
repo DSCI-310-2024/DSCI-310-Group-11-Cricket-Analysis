@@ -1,0 +1,260 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1216418,2019/20,Ireland,0,PR Stirling,cf494ffe,Naveen-ul-Haq,c0c411cb,KJ O'Brien,243431b5,0,0,0,0,0,,,,,,0,0,0
+1216418,2019/20,Ireland,0,PR Stirling,cf494ffe,Naveen-ul-Haq,c0c411cb,KJ O'Brien,243431b5,0,0,0,0,0,,,,,,0,0,0
+1216418,2019/20,Ireland,0,PR Stirling,cf494ffe,Naveen-ul-Haq,c0c411cb,KJ O'Brien,243431b5,0,0,0,0,0,,,,,,0,0,0
+1216418,2019/20,Ireland,0,PR Stirling,cf494ffe,Naveen-ul-Haq,c0c411cb,KJ O'Brien,243431b5,0,0,0,0,1,PR Stirling,cf494ffe,Mohammad Nabi,62af8546,caught,0,0,0
+1216418,2019/20,Ireland,0,A Balbirnie,6ef13460,Naveen-ul-Haq,c0c411cb,KJ O'Brien,243431b5,0,0,0,0,0,,,,,,0,0,0
+1216418,2019/20,Ireland,0,A Balbirnie,6ef13460,Naveen-ul-Haq,c0c411cb,KJ O'Brien,243431b5,0,0,0,0,0,,,,,,4,0,4
+1216418,2019/20,Ireland,1,KJ O'Brien,243431b5,Mujeeb Ur Rahman,7d92277a,A Balbirnie,6ef13460,0,0,0,0,0,,,,,,0,0,0
+1216418,2019/20,Ireland,1,KJ O'Brien,243431b5,Mujeeb Ur Rahman,7d92277a,A Balbirnie,6ef13460,0,0,1,0,0,,,,,,0,1,1
+1216418,2019/20,Ireland,1,A Balbirnie,6ef13460,Mujeeb Ur Rahman,7d92277a,KJ O'Brien,243431b5,0,0,0,0,0,,,,,,0,0,0
+1216418,2019/20,Ireland,1,A Balbirnie,6ef13460,Mujeeb Ur Rahman,7d92277a,KJ O'Brien,243431b5,0,0,0,0,0,,,,,,4,0,4
+1216418,2019/20,Ireland,1,A Balbirnie,6ef13460,Mujeeb Ur Rahman,7d92277a,KJ O'Brien,243431b5,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Ireland,1,KJ O'Brien,243431b5,Mujeeb Ur Rahman,7d92277a,A Balbirnie,6ef13460,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Ireland,2,KJ O'Brien,243431b5,Naveen-ul-Haq,c0c411cb,A Balbirnie,6ef13460,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Ireland,2,A Balbirnie,6ef13460,Naveen-ul-Haq,c0c411cb,KJ O'Brien,243431b5,0,0,0,0,1,A Balbirnie,6ef13460,,,bowled,0,0,0
+1216418,2019/20,Ireland,2,GJ Delany,33b3d2df,Naveen-ul-Haq,c0c411cb,KJ O'Brien,243431b5,0,0,0,0,0,,,,,,0,0,0
+1216418,2019/20,Ireland,2,GJ Delany,33b3d2df,Naveen-ul-Haq,c0c411cb,KJ O'Brien,243431b5,0,0,0,0,0,,,,,,0,0,0
+1216418,2019/20,Ireland,2,GJ Delany,33b3d2df,Naveen-ul-Haq,c0c411cb,KJ O'Brien,243431b5,0,0,0,0,0,,,,,,0,0,0
+1216418,2019/20,Ireland,2,GJ Delany,33b3d2df,Naveen-ul-Haq,c0c411cb,KJ O'Brien,243431b5,0,0,0,0,0,,,,,,0,0,0
+1216418,2019/20,Ireland,3,KJ O'Brien,243431b5,Mujeeb Ur Rahman,7d92277a,GJ Delany,33b3d2df,0,0,1,0,0,,,,,,0,1,1
+1216418,2019/20,Ireland,3,GJ Delany,33b3d2df,Mujeeb Ur Rahman,7d92277a,KJ O'Brien,243431b5,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Ireland,3,KJ O'Brien,243431b5,Mujeeb Ur Rahman,7d92277a,GJ Delany,33b3d2df,0,0,0,0,0,,,,,,4,0,4
+1216418,2019/20,Ireland,3,KJ O'Brien,243431b5,Mujeeb Ur Rahman,7d92277a,GJ Delany,33b3d2df,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Ireland,3,GJ Delany,33b3d2df,Mujeeb Ur Rahman,7d92277a,KJ O'Brien,243431b5,0,0,0,0,0,,,,,,0,0,0
+1216418,2019/20,Ireland,3,GJ Delany,33b3d2df,Mujeeb Ur Rahman,7d92277a,KJ O'Brien,243431b5,0,0,0,0,0,,,,,,0,0,0
+1216418,2019/20,Ireland,4,KJ O'Brien,243431b5,Naveen-ul-Haq,c0c411cb,GJ Delany,33b3d2df,0,0,0,0,0,,,,,,4,0,4
+1216418,2019/20,Ireland,4,KJ O'Brien,243431b5,Naveen-ul-Haq,c0c411cb,GJ Delany,33b3d2df,1,0,0,0,0,,,,,,0,1,1
+1216418,2019/20,Ireland,4,KJ O'Brien,243431b5,Naveen-ul-Haq,c0c411cb,GJ Delany,33b3d2df,0,0,0,0,0,,,,,,4,0,4
+1216418,2019/20,Ireland,4,KJ O'Brien,243431b5,Naveen-ul-Haq,c0c411cb,GJ Delany,33b3d2df,0,0,0,0,0,,,,,,0,0,0
+1216418,2019/20,Ireland,4,KJ O'Brien,243431b5,Naveen-ul-Haq,c0c411cb,GJ Delany,33b3d2df,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Ireland,4,GJ Delany,33b3d2df,Naveen-ul-Haq,c0c411cb,KJ O'Brien,243431b5,0,0,0,0,0,,,,,,0,0,0
+1216418,2019/20,Ireland,4,GJ Delany,33b3d2df,Naveen-ul-Haq,c0c411cb,KJ O'Brien,243431b5,0,0,0,0,0,,,,,,4,0,4
+1216418,2019/20,Ireland,5,KJ O'Brien,243431b5,Mujeeb Ur Rahman,7d92277a,GJ Delany,33b3d2df,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Ireland,5,GJ Delany,33b3d2df,Mujeeb Ur Rahman,7d92277a,KJ O'Brien,243431b5,0,0,0,0,0,,,,,,4,0,4
+1216418,2019/20,Ireland,5,GJ Delany,33b3d2df,Mujeeb Ur Rahman,7d92277a,KJ O'Brien,243431b5,0,0,0,0,0,,,,,,4,0,4
+1216418,2019/20,Ireland,5,GJ Delany,33b3d2df,Mujeeb Ur Rahman,7d92277a,KJ O'Brien,243431b5,0,0,0,0,0,,,,,,6,0,6
+1216418,2019/20,Ireland,5,GJ Delany,33b3d2df,Mujeeb Ur Rahman,7d92277a,KJ O'Brien,243431b5,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Ireland,5,KJ O'Brien,243431b5,Mujeeb Ur Rahman,7d92277a,GJ Delany,33b3d2df,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Ireland,6,KJ O'Brien,243431b5,Karim Janat,62175638,GJ Delany,33b3d2df,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Ireland,6,GJ Delany,33b3d2df,Karim Janat,62175638,KJ O'Brien,243431b5,0,0,0,0,0,,,,,,0,0,0
+1216418,2019/20,Ireland,6,GJ Delany,33b3d2df,Karim Janat,62175638,KJ O'Brien,243431b5,1,0,0,0,0,,,,,,0,1,1
+1216418,2019/20,Ireland,6,GJ Delany,33b3d2df,Karim Janat,62175638,KJ O'Brien,243431b5,0,0,0,0,0,,,,,,0,0,0
+1216418,2019/20,Ireland,6,GJ Delany,33b3d2df,Karim Janat,62175638,KJ O'Brien,243431b5,0,0,0,0,0,,,,,,0,0,0
+1216418,2019/20,Ireland,6,GJ Delany,33b3d2df,Karim Janat,62175638,KJ O'Brien,243431b5,0,0,0,0,0,,,,,,4,0,4
+1216418,2019/20,Ireland,6,GJ Delany,33b3d2df,Karim Janat,62175638,KJ O'Brien,243431b5,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Ireland,7,GJ Delany,33b3d2df,Qais Ahmad,8d5d991e,KJ O'Brien,243431b5,0,0,0,0,0,,,,,,4,0,4
+1216418,2019/20,Ireland,7,GJ Delany,33b3d2df,Qais Ahmad,8d5d991e,KJ O'Brien,243431b5,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Ireland,7,KJ O'Brien,243431b5,Qais Ahmad,8d5d991e,GJ Delany,33b3d2df,0,0,0,0,0,,,,,,0,0,0
+1216418,2019/20,Ireland,7,KJ O'Brien,243431b5,Qais Ahmad,8d5d991e,GJ Delany,33b3d2df,0,0,0,0,0,,,,,,0,0,0
+1216418,2019/20,Ireland,7,KJ O'Brien,243431b5,Qais Ahmad,8d5d991e,GJ Delany,33b3d2df,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Ireland,7,GJ Delany,33b3d2df,Qais Ahmad,8d5d991e,KJ O'Brien,243431b5,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Ireland,8,GJ Delany,33b3d2df,Karim Janat,62175638,KJ O'Brien,243431b5,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Ireland,8,KJ O'Brien,243431b5,Karim Janat,62175638,GJ Delany,33b3d2df,0,0,0,0,0,,,,,,4,0,4
+1216418,2019/20,Ireland,8,KJ O'Brien,243431b5,Karim Janat,62175638,GJ Delany,33b3d2df,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Ireland,8,GJ Delany,33b3d2df,Karim Janat,62175638,KJ O'Brien,243431b5,0,0,0,0,0,,,,,,2,0,2
+1216418,2019/20,Ireland,8,GJ Delany,33b3d2df,Karim Janat,62175638,KJ O'Brien,243431b5,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Ireland,8,KJ O'Brien,243431b5,Karim Janat,62175638,GJ Delany,33b3d2df,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Ireland,9,KJ O'Brien,243431b5,Qais Ahmad,8d5d991e,GJ Delany,33b3d2df,0,0,0,0,1,KJ O'Brien,243431b5,Rashid Khan,5f547c8b,caught,0,0,0
+1216418,2019/20,Ireland,9,HT Tector,59ea70a4,Qais Ahmad,8d5d991e,GJ Delany,33b3d2df,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Ireland,9,GJ Delany,33b3d2df,Qais Ahmad,8d5d991e,HT Tector,59ea70a4,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Ireland,9,HT Tector,59ea70a4,Qais Ahmad,8d5d991e,GJ Delany,33b3d2df,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Ireland,9,GJ Delany,33b3d2df,Qais Ahmad,8d5d991e,HT Tector,59ea70a4,0,0,0,0,0,,,,,,0,0,0
+1216418,2019/20,Ireland,9,GJ Delany,33b3d2df,Qais Ahmad,8d5d991e,HT Tector,59ea70a4,0,0,0,0,0,,,,,,0,0,0
+1216418,2019/20,Ireland,10,HT Tector,59ea70a4,Rashid Khan,5f547c8b,GJ Delany,33b3d2df,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Ireland,10,GJ Delany,33b3d2df,Rashid Khan,5f547c8b,HT Tector,59ea70a4,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Ireland,10,HT Tector,59ea70a4,Rashid Khan,5f547c8b,GJ Delany,33b3d2df,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Ireland,10,GJ Delany,33b3d2df,Rashid Khan,5f547c8b,HT Tector,59ea70a4,0,0,0,0,1,GJ Delany,33b3d2df,Mohammad Nabi,62af8546,caught,0,0,0
+1216418,2019/20,Ireland,10,HT Tector,59ea70a4,Rashid Khan,5f547c8b,L Tucker,3979b5e0,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Ireland,10,L Tucker,3979b5e0,Rashid Khan,5f547c8b,HT Tector,59ea70a4,0,0,0,0,0,,,,,,0,0,0
+1216418,2019/20,Ireland,11,HT Tector,59ea70a4,Qais Ahmad,8d5d991e,L Tucker,3979b5e0,0,0,0,0,0,,,,,,4,0,4
+1216418,2019/20,Ireland,11,HT Tector,59ea70a4,Qais Ahmad,8d5d991e,L Tucker,3979b5e0,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Ireland,11,L Tucker,3979b5e0,Qais Ahmad,8d5d991e,HT Tector,59ea70a4,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Ireland,11,HT Tector,59ea70a4,Qais Ahmad,8d5d991e,L Tucker,3979b5e0,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Ireland,11,L Tucker,3979b5e0,Qais Ahmad,8d5d991e,HT Tector,59ea70a4,0,0,0,0,0,,,,,,4,0,4
+1216418,2019/20,Ireland,11,L Tucker,3979b5e0,Qais Ahmad,8d5d991e,HT Tector,59ea70a4,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Ireland,12,L Tucker,3979b5e0,Rashid Khan,5f547c8b,HT Tector,59ea70a4,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Ireland,12,HT Tector,59ea70a4,Rashid Khan,5f547c8b,L Tucker,3979b5e0,0,0,0,0,0,,,,,,0,0,0
+1216418,2019/20,Ireland,12,HT Tector,59ea70a4,Rashid Khan,5f547c8b,L Tucker,3979b5e0,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Ireland,12,L Tucker,3979b5e0,Rashid Khan,5f547c8b,HT Tector,59ea70a4,0,0,0,0,0,,,,,,0,0,0
+1216418,2019/20,Ireland,12,L Tucker,3979b5e0,Rashid Khan,5f547c8b,HT Tector,59ea70a4,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Ireland,12,HT Tector,59ea70a4,Rashid Khan,5f547c8b,L Tucker,3979b5e0,0,0,0,0,0,,,,,,6,0,6
+1216418,2019/20,Ireland,13,L Tucker,3979b5e0,Mujeeb Ur Rahman,7d92277a,HT Tector,59ea70a4,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Ireland,13,HT Tector,59ea70a4,Mujeeb Ur Rahman,7d92277a,L Tucker,3979b5e0,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Ireland,13,L Tucker,3979b5e0,Mujeeb Ur Rahman,7d92277a,HT Tector,59ea70a4,0,0,1,0,0,,,,,,0,1,1
+1216418,2019/20,Ireland,13,HT Tector,59ea70a4,Mujeeb Ur Rahman,7d92277a,L Tucker,3979b5e0,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Ireland,13,L Tucker,3979b5e0,Mujeeb Ur Rahman,7d92277a,HT Tector,59ea70a4,0,0,0,0,1,L Tucker,3979b5e0,,,bowled,0,0,0
+1216418,2019/20,Ireland,13,SC Getkate,c8065f31,Mujeeb Ur Rahman,7d92277a,HT Tector,59ea70a4,0,0,0,0,0,,,,,,0,0,0
+1216418,2019/20,Ireland,14,HT Tector,59ea70a4,Rashid Khan,5f547c8b,SC Getkate,c8065f31,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Ireland,14,SC Getkate,c8065f31,Rashid Khan,5f547c8b,HT Tector,59ea70a4,0,0,0,0,0,,,,,,0,0,0
+1216418,2019/20,Ireland,14,SC Getkate,c8065f31,Rashid Khan,5f547c8b,HT Tector,59ea70a4,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Ireland,14,HT Tector,59ea70a4,Rashid Khan,5f547c8b,SC Getkate,c8065f31,0,0,0,0,0,,,,,,0,0,0
+1216418,2019/20,Ireland,14,HT Tector,59ea70a4,Rashid Khan,5f547c8b,SC Getkate,c8065f31,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Ireland,14,SC Getkate,c8065f31,Rashid Khan,5f547c8b,HT Tector,59ea70a4,0,0,0,0,0,,,,,,0,0,0
+1216418,2019/20,Ireland,15,HT Tector,59ea70a4,Gulbadin Naib,9f77963a,SC Getkate,c8065f31,0,0,0,0,0,,,,,,0,0,0
+1216418,2019/20,Ireland,15,HT Tector,59ea70a4,Gulbadin Naib,9f77963a,SC Getkate,c8065f31,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Ireland,15,SC Getkate,c8065f31,Gulbadin Naib,9f77963a,HT Tector,59ea70a4,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Ireland,15,HT Tector,59ea70a4,Gulbadin Naib,9f77963a,SC Getkate,c8065f31,0,0,0,0,0,,,,,,6,0,6
+1216418,2019/20,Ireland,15,HT Tector,59ea70a4,Gulbadin Naib,9f77963a,SC Getkate,c8065f31,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Ireland,15,SC Getkate,c8065f31,Gulbadin Naib,9f77963a,HT Tector,59ea70a4,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Ireland,16,SC Getkate,c8065f31,Qais Ahmad,8d5d991e,HT Tector,59ea70a4,0,0,0,0,0,,,,,,0,0,0
+1216418,2019/20,Ireland,16,SC Getkate,c8065f31,Qais Ahmad,8d5d991e,HT Tector,59ea70a4,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Ireland,16,HT Tector,59ea70a4,Qais Ahmad,8d5d991e,SC Getkate,c8065f31,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Ireland,16,SC Getkate,c8065f31,Qais Ahmad,8d5d991e,HT Tector,59ea70a4,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Ireland,16,HT Tector,59ea70a4,Qais Ahmad,8d5d991e,SC Getkate,c8065f31,0,0,0,0,1,HT Tector,59ea70a4,Najibullah Zadran,1212cbec,caught,0,0,0
+1216418,2019/20,Ireland,16,SC Getkate,c8065f31,Qais Ahmad,8d5d991e,Simi Singh,c9945bdf,0,0,0,0,1,SC Getkate,c8065f31,Najibullah Zadran,1212cbec,caught,0,0,0
+1216418,2019/20,Ireland,17,Simi Singh,c9945bdf,Naveen-ul-Haq,c0c411cb,BJ McCarthy,3766056b,0,0,0,0,0,,,,,,0,0,0
+1216418,2019/20,Ireland,17,Simi Singh,c9945bdf,Naveen-ul-Haq,c0c411cb,BJ McCarthy,3766056b,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Ireland,17,BJ McCarthy,3766056b,Naveen-ul-Haq,c0c411cb,Simi Singh,c9945bdf,0,0,0,0,0,,,,,,0,0,0
+1216418,2019/20,Ireland,17,BJ McCarthy,3766056b,Naveen-ul-Haq,c0c411cb,Simi Singh,c9945bdf,0,0,0,0,1,BJ McCarthy,3766056b,Rashid Khan,5f547c8b,caught,0,0,0
+1216418,2019/20,Ireland,17,Simi Singh,c9945bdf,Naveen-ul-Haq,c0c411cb,CA Young,bd0a4a7d,0,0,0,0,0,,,,,,0,0,0
+1216418,2019/20,Ireland,17,Simi Singh,c9945bdf,Naveen-ul-Haq,c0c411cb,CA Young,bd0a4a7d,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Ireland,18,Simi Singh,c9945bdf,Rashid Khan,5f547c8b,CA Young,bd0a4a7d,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Ireland,18,CA Young,bd0a4a7d,Rashid Khan,5f547c8b,Simi Singh,c9945bdf,0,0,0,0,0,,,,,,0,0,0
+1216418,2019/20,Ireland,18,CA Young,bd0a4a7d,Rashid Khan,5f547c8b,Simi Singh,c9945bdf,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Ireland,18,Simi Singh,c9945bdf,Rashid Khan,5f547c8b,CA Young,bd0a4a7d,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Ireland,18,CA Young,bd0a4a7d,Rashid Khan,5f547c8b,Simi Singh,c9945bdf,0,0,0,0,0,,,,,,4,0,4
+1216418,2019/20,Ireland,18,CA Young,bd0a4a7d,Rashid Khan,5f547c8b,Simi Singh,c9945bdf,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Ireland,19,CA Young,bd0a4a7d,Gulbadin Naib,9f77963a,Simi Singh,c9945bdf,0,0,0,0,0,,,,,,0,0,0
+1216418,2019/20,Ireland,19,CA Young,bd0a4a7d,Gulbadin Naib,9f77963a,Simi Singh,c9945bdf,0,0,0,0,0,,,,,,0,0,0
+1216418,2019/20,Ireland,19,CA Young,bd0a4a7d,Gulbadin Naib,9f77963a,Simi Singh,c9945bdf,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Ireland,19,Simi Singh,c9945bdf,Gulbadin Naib,9f77963a,CA Young,bd0a4a7d,0,0,0,0,0,,,,,,2,0,2
+1216418,2019/20,Ireland,19,Simi Singh,c9945bdf,Gulbadin Naib,9f77963a,CA Young,bd0a4a7d,1,0,0,0,0,,,,,,0,1,1
+1216418,2019/20,Ireland,19,Simi Singh,c9945bdf,Gulbadin Naib,9f77963a,CA Young,bd0a4a7d,0,0,0,0,0,,,,,,4,0,4
+1216418,2019/20,Ireland,19,Simi Singh,c9945bdf,Gulbadin Naib,9f77963a,CA Young,bd0a4a7d,0,0,0,0,0,,,,,,2,0,2
+1216418,2019/20,Afghanistan,0,Rahmanullah Gurbaz,0bacade8,GJ Delany,33b3d2df,Usman Ghani,e3829b2a,0,0,0,0,0,,,,,,0,0,0
+1216418,2019/20,Afghanistan,0,Rahmanullah Gurbaz,0bacade8,GJ Delany,33b3d2df,Usman Ghani,e3829b2a,0,0,0,0,0,,,,,,0,0,0
+1216418,2019/20,Afghanistan,0,Rahmanullah Gurbaz,0bacade8,GJ Delany,33b3d2df,Usman Ghani,e3829b2a,0,0,0,0,0,,,,,,0,0,0
+1216418,2019/20,Afghanistan,0,Rahmanullah Gurbaz,0bacade8,GJ Delany,33b3d2df,Usman Ghani,e3829b2a,0,0,0,0,0,,,,,,0,0,0
+1216418,2019/20,Afghanistan,0,Rahmanullah Gurbaz,0bacade8,GJ Delany,33b3d2df,Usman Ghani,e3829b2a,0,0,0,0,0,,,,,,2,0,2
+1216418,2019/20,Afghanistan,0,Rahmanullah Gurbaz,0bacade8,GJ Delany,33b3d2df,Usman Ghani,e3829b2a,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Afghanistan,1,Rahmanullah Gurbaz,0bacade8,BJ McCarthy,3766056b,Usman Ghani,e3829b2a,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Afghanistan,1,Usman Ghani,e3829b2a,BJ McCarthy,3766056b,Rahmanullah Gurbaz,0bacade8,0,0,0,0,0,,,,,,0,0,0
+1216418,2019/20,Afghanistan,1,Usman Ghani,e3829b2a,BJ McCarthy,3766056b,Rahmanullah Gurbaz,0bacade8,0,0,0,0,0,,,,,,0,0,0
+1216418,2019/20,Afghanistan,1,Usman Ghani,e3829b2a,BJ McCarthy,3766056b,Rahmanullah Gurbaz,0bacade8,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Afghanistan,1,Rahmanullah Gurbaz,0bacade8,BJ McCarthy,3766056b,Usman Ghani,e3829b2a,0,0,0,0,0,,,,,,0,0,0
+1216418,2019/20,Afghanistan,1,Rahmanullah Gurbaz,0bacade8,BJ McCarthy,3766056b,Usman Ghani,e3829b2a,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Afghanistan,2,Rahmanullah Gurbaz,0bacade8,GJ Delany,33b3d2df,Usman Ghani,e3829b2a,0,0,0,0,0,,,,,,6,0,6
+1216418,2019/20,Afghanistan,2,Rahmanullah Gurbaz,0bacade8,GJ Delany,33b3d2df,Usman Ghani,e3829b2a,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Afghanistan,2,Usman Ghani,e3829b2a,GJ Delany,33b3d2df,Rahmanullah Gurbaz,0bacade8,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Afghanistan,2,Rahmanullah Gurbaz,0bacade8,GJ Delany,33b3d2df,Usman Ghani,e3829b2a,0,0,0,0,0,,,,,,0,0,0
+1216418,2019/20,Afghanistan,2,Rahmanullah Gurbaz,0bacade8,GJ Delany,33b3d2df,Usman Ghani,e3829b2a,0,0,0,0,0,,,,,,6,0,6
+1216418,2019/20,Afghanistan,2,Rahmanullah Gurbaz,0bacade8,GJ Delany,33b3d2df,Usman Ghani,e3829b2a,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Afghanistan,3,Rahmanullah Gurbaz,0bacade8,Simi Singh,c9945bdf,Usman Ghani,e3829b2a,0,0,0,0,0,,,,,,0,0,0
+1216418,2019/20,Afghanistan,3,Rahmanullah Gurbaz,0bacade8,Simi Singh,c9945bdf,Usman Ghani,e3829b2a,0,0,0,0,0,,,,,,0,0,0
+1216418,2019/20,Afghanistan,3,Rahmanullah Gurbaz,0bacade8,Simi Singh,c9945bdf,Usman Ghani,e3829b2a,0,0,0,0,0,,,,,,4,0,4
+1216418,2019/20,Afghanistan,3,Rahmanullah Gurbaz,0bacade8,Simi Singh,c9945bdf,Usman Ghani,e3829b2a,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Afghanistan,3,Usman Ghani,e3829b2a,Simi Singh,c9945bdf,Rahmanullah Gurbaz,0bacade8,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Afghanistan,3,Rahmanullah Gurbaz,0bacade8,Simi Singh,c9945bdf,Usman Ghani,e3829b2a,0,0,0,0,0,,,,,,6,0,6
+1216418,2019/20,Afghanistan,4,Usman Ghani,e3829b2a,J Little,9061a703,Rahmanullah Gurbaz,0bacade8,0,0,0,0,0,,,,,,0,0,0
+1216418,2019/20,Afghanistan,4,Usman Ghani,e3829b2a,J Little,9061a703,Rahmanullah Gurbaz,0bacade8,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Afghanistan,4,Rahmanullah Gurbaz,0bacade8,J Little,9061a703,Usman Ghani,e3829b2a,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Afghanistan,4,Usman Ghani,e3829b2a,J Little,9061a703,Rahmanullah Gurbaz,0bacade8,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Afghanistan,4,Rahmanullah Gurbaz,0bacade8,J Little,9061a703,Usman Ghani,e3829b2a,0,0,0,0,0,,,,,,0,0,0
+1216418,2019/20,Afghanistan,4,Rahmanullah Gurbaz,0bacade8,J Little,9061a703,Usman Ghani,e3829b2a,0,0,0,0,0,,,,,,4,0,4
+1216418,2019/20,Afghanistan,5,Usman Ghani,e3829b2a,BJ McCarthy,3766056b,Rahmanullah Gurbaz,0bacade8,0,0,0,0,0,,,,,,4,0,4
+1216418,2019/20,Afghanistan,5,Usman Ghani,e3829b2a,BJ McCarthy,3766056b,Rahmanullah Gurbaz,0bacade8,0,0,0,0,0,,,,,,0,0,0
+1216418,2019/20,Afghanistan,5,Usman Ghani,e3829b2a,BJ McCarthy,3766056b,Rahmanullah Gurbaz,0bacade8,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Afghanistan,5,Rahmanullah Gurbaz,0bacade8,BJ McCarthy,3766056b,Usman Ghani,e3829b2a,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Afghanistan,5,Usman Ghani,e3829b2a,BJ McCarthy,3766056b,Rahmanullah Gurbaz,0bacade8,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Afghanistan,5,Rahmanullah Gurbaz,0bacade8,BJ McCarthy,3766056b,Usman Ghani,e3829b2a,0,0,0,0,0,,,,,,4,0,4
+1216418,2019/20,Afghanistan,6,Usman Ghani,e3829b2a,GJ Delany,33b3d2df,Rahmanullah Gurbaz,0bacade8,0,0,0,0,0,,,,,,0,0,0
+1216418,2019/20,Afghanistan,6,Usman Ghani,e3829b2a,GJ Delany,33b3d2df,Rahmanullah Gurbaz,0bacade8,0,0,0,0,0,,,,,,0,0,0
+1216418,2019/20,Afghanistan,6,Usman Ghani,e3829b2a,GJ Delany,33b3d2df,Rahmanullah Gurbaz,0bacade8,0,0,0,0,0,,,,,,0,0,0
+1216418,2019/20,Afghanistan,6,Usman Ghani,e3829b2a,GJ Delany,33b3d2df,Rahmanullah Gurbaz,0bacade8,0,0,0,0,0,,,,,,0,0,0
+1216418,2019/20,Afghanistan,6,Usman Ghani,e3829b2a,GJ Delany,33b3d2df,Rahmanullah Gurbaz,0bacade8,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Afghanistan,6,Rahmanullah Gurbaz,0bacade8,GJ Delany,33b3d2df,Usman Ghani,e3829b2a,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Afghanistan,7,Rahmanullah Gurbaz,0bacade8,Simi Singh,c9945bdf,Usman Ghani,e3829b2a,0,0,0,0,0,,,,,,0,0,0
+1216418,2019/20,Afghanistan,7,Rahmanullah Gurbaz,0bacade8,Simi Singh,c9945bdf,Usman Ghani,e3829b2a,0,0,0,0,0,,,,,,0,0,0
+1216418,2019/20,Afghanistan,7,Rahmanullah Gurbaz,0bacade8,Simi Singh,c9945bdf,Usman Ghani,e3829b2a,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Afghanistan,7,Usman Ghani,e3829b2a,Simi Singh,c9945bdf,Rahmanullah Gurbaz,0bacade8,0,0,0,0,0,,,,,,0,0,0
+1216418,2019/20,Afghanistan,7,Usman Ghani,e3829b2a,Simi Singh,c9945bdf,Rahmanullah Gurbaz,0bacade8,0,0,0,0,0,,,,,,4,0,4
+1216418,2019/20,Afghanistan,7,Usman Ghani,e3829b2a,Simi Singh,c9945bdf,Rahmanullah Gurbaz,0bacade8,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Afghanistan,8,Usman Ghani,e3829b2a,GJ Delany,33b3d2df,Rahmanullah Gurbaz,0bacade8,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Afghanistan,8,Rahmanullah Gurbaz,0bacade8,GJ Delany,33b3d2df,Usman Ghani,e3829b2a,0,0,0,0,1,Rahmanullah Gurbaz,0bacade8,HT Tector,59ea70a4,caught,0,0,0
+1216418,2019/20,Afghanistan,8,Usman Ghani,e3829b2a,GJ Delany,33b3d2df,Karim Janat,62175638,0,0,0,0,0,,,,,,0,0,0
+1216418,2019/20,Afghanistan,8,Usman Ghani,e3829b2a,GJ Delany,33b3d2df,Karim Janat,62175638,0,0,0,0,0,,,,,,0,0,0
+1216418,2019/20,Afghanistan,8,Usman Ghani,e3829b2a,GJ Delany,33b3d2df,Karim Janat,62175638,0,0,0,0,1,Usman Ghani,e3829b2a,HT Tector,59ea70a4,caught,0,0,0
+1216418,2019/20,Afghanistan,8,Karim Janat,62175638,GJ Delany,33b3d2df,Asghar Stanikzai,88679525,0,0,0,0,0,,,,,,0,0,0
+1216418,2019/20,Afghanistan,9,Asghar Stanikzai,88679525,CA Young,bd0a4a7d,Karim Janat,62175638,0,0,0,0,0,,,,,,0,0,0
+1216418,2019/20,Afghanistan,9,Asghar Stanikzai,88679525,CA Young,bd0a4a7d,Karim Janat,62175638,0,0,0,0,0,,,,,,0,0,0
+1216418,2019/20,Afghanistan,9,Asghar Stanikzai,88679525,CA Young,bd0a4a7d,Karim Janat,62175638,0,0,0,0,0,,,,,,4,0,4
+1216418,2019/20,Afghanistan,9,Asghar Stanikzai,88679525,CA Young,bd0a4a7d,Karim Janat,62175638,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Afghanistan,9,Karim Janat,62175638,CA Young,bd0a4a7d,Asghar Stanikzai,88679525,0,0,0,0,0,,,,,,2,0,2
+1216418,2019/20,Afghanistan,9,Karim Janat,62175638,CA Young,bd0a4a7d,Asghar Stanikzai,88679525,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Afghanistan,10,Karim Janat,62175638,Simi Singh,c9945bdf,Asghar Stanikzai,88679525,0,0,0,0,0,,,,,,6,0,6
+1216418,2019/20,Afghanistan,10,Karim Janat,62175638,Simi Singh,c9945bdf,Asghar Stanikzai,88679525,0,0,0,0,0,,,,,,0,0,0
+1216418,2019/20,Afghanistan,10,Karim Janat,62175638,Simi Singh,c9945bdf,Asghar Stanikzai,88679525,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Afghanistan,10,Asghar Stanikzai,88679525,Simi Singh,c9945bdf,Karim Janat,62175638,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Afghanistan,10,Karim Janat,62175638,Simi Singh,c9945bdf,Asghar Stanikzai,88679525,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Afghanistan,10,Asghar Stanikzai,88679525,Simi Singh,c9945bdf,Karim Janat,62175638,0,0,0,0,0,,,,,,6,0,6
+1216418,2019/20,Afghanistan,11,Karim Janat,62175638,CA Young,bd0a4a7d,Asghar Stanikzai,88679525,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Afghanistan,11,Asghar Stanikzai,88679525,CA Young,bd0a4a7d,Karim Janat,62175638,0,0,0,0,0,,,,,,0,0,0
+1216418,2019/20,Afghanistan,11,Asghar Stanikzai,88679525,CA Young,bd0a4a7d,Karim Janat,62175638,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Afghanistan,11,Karim Janat,62175638,CA Young,bd0a4a7d,Asghar Stanikzai,88679525,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Afghanistan,11,Asghar Stanikzai,88679525,CA Young,bd0a4a7d,Karim Janat,62175638,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Afghanistan,11,Karim Janat,62175638,CA Young,bd0a4a7d,Asghar Stanikzai,88679525,0,0,0,0,0,,,,,,4,0,4
+1216418,2019/20,Afghanistan,12,Asghar Stanikzai,88679525,BJ McCarthy,3766056b,Karim Janat,62175638,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Afghanistan,12,Karim Janat,62175638,BJ McCarthy,3766056b,Asghar Stanikzai,88679525,0,0,0,0,1,Karim Janat,62175638,,,bowled,0,0,0
+1216418,2019/20,Afghanistan,12,Mohammad Nabi,62af8546,BJ McCarthy,3766056b,Asghar Stanikzai,88679525,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Afghanistan,12,Asghar Stanikzai,88679525,BJ McCarthy,3766056b,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Afghanistan,12,Mohammad Nabi,62af8546,BJ McCarthy,3766056b,Asghar Stanikzai,88679525,0,0,0,0,0,,,,,,0,0,0
+1216418,2019/20,Afghanistan,12,Mohammad Nabi,62af8546,BJ McCarthy,3766056b,Asghar Stanikzai,88679525,0,0,0,0,0,,,,,,0,0,0
+1216418,2019/20,Afghanistan,13,Asghar Stanikzai,88679525,J Little,9061a703,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,0,0,0
+1216418,2019/20,Afghanistan,13,Asghar Stanikzai,88679525,J Little,9061a703,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Afghanistan,13,Mohammad Nabi,62af8546,J Little,9061a703,Asghar Stanikzai,88679525,0,0,0,0,0,,,,,,0,0,0
+1216418,2019/20,Afghanistan,13,Mohammad Nabi,62af8546,J Little,9061a703,Asghar Stanikzai,88679525,0,0,0,0,0,,,,,,0,0,0
+1216418,2019/20,Afghanistan,13,Mohammad Nabi,62af8546,J Little,9061a703,Asghar Stanikzai,88679525,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Afghanistan,13,Asghar Stanikzai,88679525,J Little,9061a703,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Afghanistan,14,Asghar Stanikzai,88679525,Simi Singh,c9945bdf,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,0,0,0
+1216418,2019/20,Afghanistan,14,Asghar Stanikzai,88679525,Simi Singh,c9945bdf,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Afghanistan,14,Mohammad Nabi,62af8546,Simi Singh,c9945bdf,Asghar Stanikzai,88679525,0,0,0,0,0,,,,,,2,0,2
+1216418,2019/20,Afghanistan,14,Mohammad Nabi,62af8546,Simi Singh,c9945bdf,Asghar Stanikzai,88679525,0,0,0,0,1,Mohammad Nabi,62af8546,KJ O'Brien,243431b5,caught,0,0,0
+1216418,2019/20,Afghanistan,14,Najibullah Zadran,1212cbec,Simi Singh,c9945bdf,Asghar Stanikzai,88679525,0,0,0,0,1,Najibullah Zadran,1212cbec,,,lbw,0,0,0
+1216418,2019/20,Afghanistan,14,Gulbadin Naib,9f77963a,Simi Singh,c9945bdf,Asghar Stanikzai,88679525,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Afghanistan,15,Gulbadin Naib,9f77963a,BJ McCarthy,3766056b,Asghar Stanikzai,88679525,0,0,0,0,0,,,,,,0,0,0
+1216418,2019/20,Afghanistan,15,Gulbadin Naib,9f77963a,BJ McCarthy,3766056b,Asghar Stanikzai,88679525,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Afghanistan,15,Asghar Stanikzai,88679525,BJ McCarthy,3766056b,Gulbadin Naib,9f77963a,0,0,0,0,0,,,,,,0,0,0
+1216418,2019/20,Afghanistan,15,Asghar Stanikzai,88679525,BJ McCarthy,3766056b,Gulbadin Naib,9f77963a,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Afghanistan,15,Gulbadin Naib,9f77963a,BJ McCarthy,3766056b,Asghar Stanikzai,88679525,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Afghanistan,15,Asghar Stanikzai,88679525,BJ McCarthy,3766056b,Gulbadin Naib,9f77963a,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Afghanistan,16,Asghar Stanikzai,88679525,CA Young,bd0a4a7d,Gulbadin Naib,9f77963a,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Afghanistan,16,Gulbadin Naib,9f77963a,CA Young,bd0a4a7d,Asghar Stanikzai,88679525,0,0,1,0,0,,,,,,0,1,1
+1216418,2019/20,Afghanistan,16,Asghar Stanikzai,88679525,CA Young,bd0a4a7d,Gulbadin Naib,9f77963a,0,0,0,0,0,,,,,,4,0,4
+1216418,2019/20,Afghanistan,16,Asghar Stanikzai,88679525,CA Young,bd0a4a7d,Gulbadin Naib,9f77963a,0,0,0,0,0,,,,,,0,0,0
+1216418,2019/20,Afghanistan,16,Asghar Stanikzai,88679525,CA Young,bd0a4a7d,Gulbadin Naib,9f77963a,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Afghanistan,16,Gulbadin Naib,9f77963a,CA Young,bd0a4a7d,Asghar Stanikzai,88679525,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Afghanistan,17,Gulbadin Naib,9f77963a,J Little,9061a703,Asghar Stanikzai,88679525,0,0,0,0,0,,,,,,4,0,4
+1216418,2019/20,Afghanistan,17,Gulbadin Naib,9f77963a,J Little,9061a703,Asghar Stanikzai,88679525,1,0,0,0,0,,,,,,0,1,1
+1216418,2019/20,Afghanistan,17,Gulbadin Naib,9f77963a,J Little,9061a703,Asghar Stanikzai,88679525,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Afghanistan,17,Asghar Stanikzai,88679525,J Little,9061a703,Gulbadin Naib,9f77963a,0,0,0,0,0,,,,,,0,0,0
+1216418,2019/20,Afghanistan,17,Asghar Stanikzai,88679525,J Little,9061a703,Gulbadin Naib,9f77963a,0,0,0,0,0,,,,,,0,0,0
+1216418,2019/20,Afghanistan,17,Asghar Stanikzai,88679525,J Little,9061a703,Gulbadin Naib,9f77963a,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Afghanistan,17,Gulbadin Naib,9f77963a,J Little,9061a703,Asghar Stanikzai,88679525,1,0,0,0,0,,,,,,0,1,1
+1216418,2019/20,Afghanistan,17,Gulbadin Naib,9f77963a,J Little,9061a703,Asghar Stanikzai,88679525,0,0,0,0,0,,,,,,0,0,0
+1216418,2019/20,Afghanistan,18,Asghar Stanikzai,88679525,CA Young,bd0a4a7d,Gulbadin Naib,9f77963a,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Afghanistan,18,Gulbadin Naib,9f77963a,CA Young,bd0a4a7d,Asghar Stanikzai,88679525,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Afghanistan,18,Asghar Stanikzai,88679525,CA Young,bd0a4a7d,Gulbadin Naib,9f77963a,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Afghanistan,18,Gulbadin Naib,9f77963a,CA Young,bd0a4a7d,Asghar Stanikzai,88679525,0,0,0,0,1,Gulbadin Naib,9f77963a,,,bowled,0,0,0
+1216418,2019/20,Afghanistan,18,Rashid Khan,5f547c8b,CA Young,bd0a4a7d,Asghar Stanikzai,88679525,0,0,0,0,0,,,,,,2,0,2
+1216418,2019/20,Afghanistan,18,Rashid Khan,5f547c8b,CA Young,bd0a4a7d,Asghar Stanikzai,88679525,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Afghanistan,19,Rashid Khan,5f547c8b,J Little,9061a703,Asghar Stanikzai,88679525,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Afghanistan,19,Asghar Stanikzai,88679525,J Little,9061a703,Rashid Khan,5f547c8b,0,0,0,0,0,,,,,,2,0,2
+1216418,2019/20,Afghanistan,19,Asghar Stanikzai,88679525,J Little,9061a703,Rashid Khan,5f547c8b,0,0,0,0,1,Asghar Stanikzai,88679525,A Balbirnie,6ef13460,caught,0,0,0
+1216418,2019/20,Afghanistan,19,Rashid Khan,5f547c8b,J Little,9061a703,Qais Ahmad,8d5d991e,1,0,0,0,0,,,,,,0,1,1
+1216418,2019/20,Afghanistan,19,Rashid Khan,5f547c8b,J Little,9061a703,Qais Ahmad,8d5d991e,0,0,0,0,0,,,,,,6,0,6
+1216418,2019/20,Afghanistan,19,Rashid Khan,5f547c8b,J Little,9061a703,Qais Ahmad,8d5d991e,1,0,0,0,0,,,,,,0,1,1
+1216418,2019/20,Afghanistan,19,Rashid Khan,5f547c8b,J Little,9061a703,Qais Ahmad,8d5d991e,0,0,0,0,0,,,,,,0,0,0
+1216418,2019/20,Afghanistan,19,Rashid Khan,5f547c8b,J Little,9061a703,Qais Ahmad,8d5d991e,0,0,0,0,0,,,,,,4,0,4
+1216418,2019/20,Afghanistan,0,Rahmanullah Gurbaz,0bacade8,CA Young,bd0a4a7d,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Afghanistan,0,Mohammad Nabi,62af8546,CA Young,bd0a4a7d,Rahmanullah Gurbaz,0bacade8,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Afghanistan,0,Rahmanullah Gurbaz,0bacade8,CA Young,bd0a4a7d,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Afghanistan,0,Mohammad Nabi,62af8546,CA Young,bd0a4a7d,Rahmanullah Gurbaz,0bacade8,0,0,0,0,0,,,,,,2,0,2
+1216418,2019/20,Afghanistan,0,Mohammad Nabi,62af8546,CA Young,bd0a4a7d,Rahmanullah Gurbaz,0bacade8,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Afghanistan,0,Rahmanullah Gurbaz,0bacade8,CA Young,bd0a4a7d,Mohammad Nabi,62af8546,0,0,0,0,1,Rahmanullah Gurbaz,0bacade8,,,run out,2,0,2
+1216418,2019/20,Ireland,0,KJ O'Brien,243431b5,Rashid Khan,5f547c8b,PR Stirling,cf494ffe,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Ireland,0,PR Stirling,cf494ffe,Rashid Khan,5f547c8b,KJ O'Brien,243431b5,0,0,0,0,0,,,,,,4,0,4
+1216418,2019/20,Ireland,0,PR Stirling,cf494ffe,Rashid Khan,5f547c8b,KJ O'Brien,243431b5,0,0,0,0,1,PR Stirling,cf494ffe,,,lbw,0,0,0
+1216418,2019/20,Ireland,0,HT Tector,59ea70a4,Rashid Khan,5f547c8b,KJ O'Brien,243431b5,0,0,0,0,0,,,,,,0,0,0
+1216418,2019/20,Ireland,0,HT Tector,59ea70a4,Rashid Khan,5f547c8b,KJ O'Brien,243431b5,0,0,0,0,0,,,,,,1,0,1
+1216418,2019/20,Ireland,0,KJ O'Brien,243431b5,Rashid Khan,5f547c8b,HT Tector,59ea70a4,0,0,0,0,0,,,,,,6,0,6

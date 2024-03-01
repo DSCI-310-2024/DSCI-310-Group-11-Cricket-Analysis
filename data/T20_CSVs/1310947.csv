@@ -1,0 +1,252 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1310947,2022,Afghanistan,0,Hazratullah,5ea51c25,A Ndlovu,3abe1ef6,Rahmanullah Gurbaz,0bacade8,0,0,0,0,0,,,,,,2,0,2
+1310947,2022,Afghanistan,0,Hazratullah,5ea51c25,A Ndlovu,3abe1ef6,Rahmanullah Gurbaz,0bacade8,0,0,0,0,0,,,,,,0,0,0
+1310947,2022,Afghanistan,0,Hazratullah,5ea51c25,A Ndlovu,3abe1ef6,Rahmanullah Gurbaz,0bacade8,0,0,0,0,0,,,,,,6,0,6
+1310947,2022,Afghanistan,0,Hazratullah,5ea51c25,A Ndlovu,3abe1ef6,Rahmanullah Gurbaz,0bacade8,0,0,0,0,0,,,,,,4,0,4
+1310947,2022,Afghanistan,0,Hazratullah,5ea51c25,A Ndlovu,3abe1ef6,Rahmanullah Gurbaz,0bacade8,0,0,0,0,0,,,,,,0,0,0
+1310947,2022,Afghanistan,0,Hazratullah,5ea51c25,A Ndlovu,3abe1ef6,Rahmanullah Gurbaz,0bacade8,0,0,0,0,0,,,,,,0,0,0
+1310947,2022,Afghanistan,1,Rahmanullah Gurbaz,0bacade8,TL Chatara,5bbabe59,Hazratullah,5ea51c25,0,0,0,0,0,,,,,,0,0,0
+1310947,2022,Afghanistan,1,Rahmanullah Gurbaz,0bacade8,TL Chatara,5bbabe59,Hazratullah,5ea51c25,0,0,0,0,0,,,,,,0,0,0
+1310947,2022,Afghanistan,1,Rahmanullah Gurbaz,0bacade8,TL Chatara,5bbabe59,Hazratullah,5ea51c25,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Afghanistan,1,Hazratullah,5ea51c25,TL Chatara,5bbabe59,Rahmanullah Gurbaz,0bacade8,0,0,1,0,0,,,,,,0,1,1
+1310947,2022,Afghanistan,1,Rahmanullah Gurbaz,0bacade8,TL Chatara,5bbabe59,Hazratullah,5ea51c25,0,0,0,0,1,Rahmanullah Gurbaz,0bacade8,RW Chakabva,2f0d7e4a,caught,0,0,0
+1310947,2022,Afghanistan,1,Usman Ghani,e3829b2a,TL Chatara,5bbabe59,Hazratullah,5ea51c25,0,0,0,0,0,,,,,,0,0,0
+1310947,2022,Afghanistan,2,Hazratullah,5ea51c25,DT Tiripano,dbfb8218,Usman Ghani,e3829b2a,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Afghanistan,2,Usman Ghani,e3829b2a,DT Tiripano,dbfb8218,Hazratullah,5ea51c25,0,0,0,0,0,,,,,,0,0,0
+1310947,2022,Afghanistan,2,Usman Ghani,e3829b2a,DT Tiripano,dbfb8218,Hazratullah,5ea51c25,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Afghanistan,2,Hazratullah,5ea51c25,DT Tiripano,dbfb8218,Usman Ghani,e3829b2a,0,0,0,0,0,,,,,,4,0,4
+1310947,2022,Afghanistan,2,Hazratullah,5ea51c25,DT Tiripano,dbfb8218,Usman Ghani,e3829b2a,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Afghanistan,2,Usman Ghani,e3829b2a,DT Tiripano,dbfb8218,Hazratullah,5ea51c25,0,0,0,0,0,,,,,,0,0,0
+1310947,2022,Afghanistan,3,Hazratullah,5ea51c25,TL Chatara,5bbabe59,Usman Ghani,e3829b2a,0,0,0,0,0,,,,,,4,0,4
+1310947,2022,Afghanistan,3,Hazratullah,5ea51c25,TL Chatara,5bbabe59,Usman Ghani,e3829b2a,0,0,0,0,0,,,,,,6,0,6
+1310947,2022,Afghanistan,3,Hazratullah,5ea51c25,TL Chatara,5bbabe59,Usman Ghani,e3829b2a,0,0,0,0,1,Hazratullah,5ea51c25,,,bowled,0,0,0
+1310947,2022,Afghanistan,3,Darwish Rasooli,3b2114a5,TL Chatara,5bbabe59,Usman Ghani,e3829b2a,0,0,0,0,0,,,,,,0,0,0
+1310947,2022,Afghanistan,3,Darwish Rasooli,3b2114a5,TL Chatara,5bbabe59,Usman Ghani,e3829b2a,0,0,0,0,0,,,,,,0,0,0
+1310947,2022,Afghanistan,3,Darwish Rasooli,3b2114a5,TL Chatara,5bbabe59,Usman Ghani,e3829b2a,0,0,0,0,0,,,,,,3,0,3
+1310947,2022,Afghanistan,4,Darwish Rasooli,3b2114a5,DT Tiripano,dbfb8218,Usman Ghani,e3829b2a,0,0,0,0,0,,,,,,0,0,0
+1310947,2022,Afghanistan,4,Darwish Rasooli,3b2114a5,DT Tiripano,dbfb8218,Usman Ghani,e3829b2a,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Afghanistan,4,Usman Ghani,e3829b2a,DT Tiripano,dbfb8218,Darwish Rasooli,3b2114a5,1,0,0,0,0,,,,,,0,1,1
+1310947,2022,Afghanistan,4,Usman Ghani,e3829b2a,DT Tiripano,dbfb8218,Darwish Rasooli,3b2114a5,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Afghanistan,4,Darwish Rasooli,3b2114a5,DT Tiripano,dbfb8218,Usman Ghani,e3829b2a,0,0,0,0,0,,,,,,4,0,4
+1310947,2022,Afghanistan,4,Darwish Rasooli,3b2114a5,DT Tiripano,dbfb8218,Usman Ghani,e3829b2a,0,0,0,0,0,,,,,,0,0,0
+1310947,2022,Afghanistan,4,Darwish Rasooli,3b2114a5,DT Tiripano,dbfb8218,Usman Ghani,e3829b2a,1,0,0,0,0,,,,,,0,1,1
+1310947,2022,Afghanistan,4,Darwish Rasooli,3b2114a5,DT Tiripano,dbfb8218,Usman Ghani,e3829b2a,0,0,0,0,0,,,,,,4,0,4
+1310947,2022,Afghanistan,5,Usman Ghani,e3829b2a,LM Jongwe,b8704508,Darwish Rasooli,3b2114a5,0,0,0,0,1,Usman Ghani,e3829b2a,RW Chakabva,2f0d7e4a,caught,0,0,0
+1310947,2022,Afghanistan,5,Najibullah Zadran,1212cbec,LM Jongwe,b8704508,Darwish Rasooli,3b2114a5,0,0,0,0,0,,,,,,0,0,0
+1310947,2022,Afghanistan,5,Najibullah Zadran,1212cbec,LM Jongwe,b8704508,Darwish Rasooli,3b2114a5,0,0,0,0,0,,,,,,0,0,0
+1310947,2022,Afghanistan,5,Najibullah Zadran,1212cbec,LM Jongwe,b8704508,Darwish Rasooli,3b2114a5,0,0,0,0,0,,,,,,4,0,4
+1310947,2022,Afghanistan,5,Najibullah Zadran,1212cbec,LM Jongwe,b8704508,Darwish Rasooli,3b2114a5,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Afghanistan,5,Darwish Rasooli,3b2114a5,LM Jongwe,b8704508,Najibullah Zadran,1212cbec,0,0,0,0,1,Darwish Rasooli,3b2114a5,,,retired hurt,0,0,0
+1310947,2022,Afghanistan,6,Najibullah Zadran,1212cbec,A Ndlovu,3abe1ef6,Karim Janat,62175638,0,0,0,0,0,,,,,,0,0,0
+1310947,2022,Afghanistan,6,Najibullah Zadran,1212cbec,A Ndlovu,3abe1ef6,Karim Janat,62175638,0,0,0,0,0,,,,,,0,0,0
+1310947,2022,Afghanistan,6,Najibullah Zadran,1212cbec,A Ndlovu,3abe1ef6,Karim Janat,62175638,0,0,0,0,0,,,,,,0,0,0
+1310947,2022,Afghanistan,6,Najibullah Zadran,1212cbec,A Ndlovu,3abe1ef6,Karim Janat,62175638,0,0,0,0,0,,,,,,0,0,0
+1310947,2022,Afghanistan,6,Najibullah Zadran,1212cbec,A Ndlovu,3abe1ef6,Karim Janat,62175638,0,0,0,0,0,,,,,,4,0,4
+1310947,2022,Afghanistan,6,Najibullah Zadran,1212cbec,A Ndlovu,3abe1ef6,Karim Janat,62175638,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Afghanistan,7,Najibullah Zadran,1212cbec,Sikandar Raza,26d041c4,Karim Janat,62175638,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Afghanistan,7,Karim Janat,62175638,Sikandar Raza,26d041c4,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,0,0,0
+1310947,2022,Afghanistan,7,Karim Janat,62175638,Sikandar Raza,26d041c4,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Afghanistan,7,Najibullah Zadran,1212cbec,Sikandar Raza,26d041c4,Karim Janat,62175638,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Afghanistan,7,Karim Janat,62175638,Sikandar Raza,26d041c4,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,0,0,0
+1310947,2022,Afghanistan,7,Karim Janat,62175638,Sikandar Raza,26d041c4,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Afghanistan,8,Karim Janat,62175638,A Ndlovu,3abe1ef6,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,0,0,0
+1310947,2022,Afghanistan,8,Karim Janat,62175638,A Ndlovu,3abe1ef6,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Afghanistan,8,Najibullah Zadran,1212cbec,A Ndlovu,3abe1ef6,Karim Janat,62175638,0,0,0,0,0,,,,,,6,0,6
+1310947,2022,Afghanistan,8,Najibullah Zadran,1212cbec,A Ndlovu,3abe1ef6,Karim Janat,62175638,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Afghanistan,8,Karim Janat,62175638,A Ndlovu,3abe1ef6,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,0,0,0
+1310947,2022,Afghanistan,8,Karim Janat,62175638,A Ndlovu,3abe1ef6,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Afghanistan,9,Karim Janat,62175638,Sikandar Raza,26d041c4,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,0,0,0
+1310947,2022,Afghanistan,9,Karim Janat,62175638,Sikandar Raza,26d041c4,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Afghanistan,9,Najibullah Zadran,1212cbec,Sikandar Raza,26d041c4,Karim Janat,62175638,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Afghanistan,9,Karim Janat,62175638,Sikandar Raza,26d041c4,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,2,0,2
+1310947,2022,Afghanistan,9,Karim Janat,62175638,Sikandar Raza,26d041c4,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Afghanistan,9,Najibullah Zadran,1212cbec,Sikandar Raza,26d041c4,Karim Janat,62175638,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Afghanistan,10,Najibullah Zadran,1212cbec,RP Burl,b08252b8,Karim Janat,62175638,0,0,0,0,0,,,,,,0,0,0
+1310947,2022,Afghanistan,10,Najibullah Zadran,1212cbec,RP Burl,b08252b8,Karim Janat,62175638,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Afghanistan,10,Karim Janat,62175638,RP Burl,b08252b8,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,0,0,0
+1310947,2022,Afghanistan,10,Karim Janat,62175638,RP Burl,b08252b8,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,0,0,0
+1310947,2022,Afghanistan,10,Karim Janat,62175638,RP Burl,b08252b8,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Afghanistan,10,Najibullah Zadran,1212cbec,RP Burl,b08252b8,Karim Janat,62175638,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Afghanistan,11,Najibullah Zadran,1212cbec,W Madhevere,a879b92c,Karim Janat,62175638,0,0,0,0,0,,,,,,0,0,0
+1310947,2022,Afghanistan,11,Najibullah Zadran,1212cbec,W Madhevere,a879b92c,Karim Janat,62175638,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Afghanistan,11,Karim Janat,62175638,W Madhevere,a879b92c,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,2,0,2
+1310947,2022,Afghanistan,11,Karim Janat,62175638,W Madhevere,a879b92c,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Afghanistan,11,Najibullah Zadran,1212cbec,W Madhevere,a879b92c,Karim Janat,62175638,0,0,0,0,0,,,,,,4,0,4
+1310947,2022,Afghanistan,11,Najibullah Zadran,1212cbec,W Madhevere,a879b92c,Karim Janat,62175638,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Afghanistan,12,Najibullah Zadran,1212cbec,RP Burl,b08252b8,Karim Janat,62175638,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Afghanistan,12,Karim Janat,62175638,RP Burl,b08252b8,Najibullah Zadran,1212cbec,0,0,0,0,1,Karim Janat,62175638,RW Chakabva,2f0d7e4a,caught,0,0,0
+1310947,2022,Afghanistan,12,Mohammad Nabi,62af8546,RP Burl,b08252b8,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Afghanistan,12,Najibullah Zadran,1212cbec,RP Burl,b08252b8,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Afghanistan,12,Mohammad Nabi,62af8546,RP Burl,b08252b8,Najibullah Zadran,1212cbec,1,0,0,0,0,,,,,,0,1,1
+1310947,2022,Afghanistan,12,Mohammad Nabi,62af8546,RP Burl,b08252b8,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,0,0,0
+1310947,2022,Afghanistan,12,Mohammad Nabi,62af8546,RP Burl,b08252b8,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,0,0,0
+1310947,2022,Afghanistan,13,Najibullah Zadran,1212cbec,LM Jongwe,b8704508,Mohammad Nabi,62af8546,1,0,0,0,0,,,,,,0,1,1
+1310947,2022,Afghanistan,13,Najibullah Zadran,1212cbec,LM Jongwe,b8704508,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,0,0,0
+1310947,2022,Afghanistan,13,Najibullah Zadran,1212cbec,LM Jongwe,b8704508,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Afghanistan,13,Mohammad Nabi,62af8546,LM Jongwe,b8704508,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,2,0,2
+1310947,2022,Afghanistan,13,Mohammad Nabi,62af8546,LM Jongwe,b8704508,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Afghanistan,13,Najibullah Zadran,1212cbec,LM Jongwe,b8704508,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,2,0,2
+1310947,2022,Afghanistan,13,Najibullah Zadran,1212cbec,LM Jongwe,b8704508,Mohammad Nabi,62af8546,1,0,0,0,0,,,,,,0,1,1
+1310947,2022,Afghanistan,13,Najibullah Zadran,1212cbec,LM Jongwe,b8704508,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,0,0,0
+1310947,2022,Afghanistan,14,Mohammad Nabi,62af8546,RP Burl,b08252b8,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Afghanistan,14,Najibullah Zadran,1212cbec,RP Burl,b08252b8,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Afghanistan,14,Mohammad Nabi,62af8546,RP Burl,b08252b8,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Afghanistan,14,Najibullah Zadran,1212cbec,RP Burl,b08252b8,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,4,0,4
+1310947,2022,Afghanistan,14,Najibullah Zadran,1212cbec,RP Burl,b08252b8,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,0,0,0
+1310947,2022,Afghanistan,14,Najibullah Zadran,1212cbec,RP Burl,b08252b8,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Afghanistan,15,Najibullah Zadran,1212cbec,Sikandar Raza,26d041c4,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,4,0,4
+1310947,2022,Afghanistan,15,Najibullah Zadran,1212cbec,Sikandar Raza,26d041c4,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Afghanistan,15,Mohammad Nabi,62af8546,Sikandar Raza,26d041c4,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,0,0,0
+1310947,2022,Afghanistan,15,Mohammad Nabi,62af8546,Sikandar Raza,26d041c4,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Afghanistan,15,Najibullah Zadran,1212cbec,Sikandar Raza,26d041c4,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Afghanistan,15,Mohammad Nabi,62af8546,Sikandar Raza,26d041c4,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,6,0,6
+1310947,2022,Afghanistan,16,Najibullah Zadran,1212cbec,TL Chatara,5bbabe59,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,0,0,0
+1310947,2022,Afghanistan,16,Najibullah Zadran,1212cbec,TL Chatara,5bbabe59,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Afghanistan,16,Mohammad Nabi,62af8546,TL Chatara,5bbabe59,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Afghanistan,16,Najibullah Zadran,1212cbec,TL Chatara,5bbabe59,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,4,0,4
+1310947,2022,Afghanistan,16,Najibullah Zadran,1212cbec,TL Chatara,5bbabe59,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,0,0,0
+1310947,2022,Afghanistan,16,Najibullah Zadran,1212cbec,TL Chatara,5bbabe59,Mohammad Nabi,62af8546,0,0,1,0,0,,,,,,0,1,1
+1310947,2022,Afghanistan,17,Najibullah Zadran,1212cbec,DT Tiripano,dbfb8218,Mohammad Nabi,62af8546,1,0,0,0,0,,,,,,0,1,1
+1310947,2022,Afghanistan,17,Najibullah Zadran,1212cbec,DT Tiripano,dbfb8218,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Afghanistan,17,Mohammad Nabi,62af8546,DT Tiripano,dbfb8218,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,4,0,4
+1310947,2022,Afghanistan,17,Mohammad Nabi,62af8546,DT Tiripano,dbfb8218,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Afghanistan,17,Najibullah Zadran,1212cbec,DT Tiripano,dbfb8218,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Afghanistan,17,Najibullah Zadran,1212cbec,DT Tiripano,dbfb8218,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Afghanistan,17,Mohammad Nabi,62af8546,DT Tiripano,dbfb8218,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,6,0,6
+1310947,2022,Afghanistan,18,Najibullah Zadran,1212cbec,LM Jongwe,b8704508,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,0,0,0
+1310947,2022,Afghanistan,18,Najibullah Zadran,1212cbec,LM Jongwe,b8704508,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,3,0,3
+1310947,2022,Afghanistan,18,Mohammad Nabi,62af8546,LM Jongwe,b8704508,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,6,0,6
+1310947,2022,Afghanistan,18,Mohammad Nabi,62af8546,LM Jongwe,b8704508,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,2,0,2
+1310947,2022,Afghanistan,18,Mohammad Nabi,62af8546,LM Jongwe,b8704508,Najibullah Zadran,1212cbec,1,0,0,0,0,,,,,,0,1,1
+1310947,2022,Afghanistan,18,Mohammad Nabi,62af8546,LM Jongwe,b8704508,Najibullah Zadran,1212cbec,1,0,0,0,0,,,,,,0,1,1
+1310947,2022,Afghanistan,18,Mohammad Nabi,62af8546,LM Jongwe,b8704508,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,0,0,0
+1310947,2022,Afghanistan,18,Mohammad Nabi,62af8546,LM Jongwe,b8704508,Najibullah Zadran,1212cbec,0,0,0,2,0,,,,,,0,2,2
+1310947,2022,Afghanistan,19,Najibullah Zadran,1212cbec,TL Chatara,5bbabe59,Mohammad Nabi,62af8546,1,0,0,0,1,Najibullah Zadran,1212cbec,RW Chakabva,2f0d7e4a,run out,0,1,1
+1310947,2022,Afghanistan,19,Mohammad Nabi,62af8546,TL Chatara,5bbabe59,Rashid Khan,5f547c8b,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Afghanistan,19,Rashid Khan,5f547c8b,TL Chatara,5bbabe59,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Afghanistan,19,Mohammad Nabi,62af8546,TL Chatara,5bbabe59,Rashid Khan,5f547c8b,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Afghanistan,19,Rashid Khan,5f547c8b,TL Chatara,5bbabe59,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Afghanistan,19,Mohammad Nabi,62af8546,TL Chatara,5bbabe59,Rashid Khan,5f547c8b,0,0,0,0,0,,,,,,6,0,6
+1310947,2022,Afghanistan,19,Mohammad Nabi,62af8546,TL Chatara,5bbabe59,Rashid Khan,5f547c8b,0,0,0,0,0,,,,,,2,0,2
+1310947,2022,Zimbabwe,0,I Kaia,5ad8c974,Fazalhaq Farooqi,e9c7f0d0,W Madhevere,a879b92c,0,0,0,0,0,,,,,,0,0,0
+1310947,2022,Zimbabwe,0,I Kaia,5ad8c974,Fazalhaq Farooqi,e9c7f0d0,W Madhevere,a879b92c,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Zimbabwe,0,W Madhevere,a879b92c,Fazalhaq Farooqi,e9c7f0d0,I Kaia,5ad8c974,0,0,0,0,0,,,,,,0,0,0
+1310947,2022,Zimbabwe,0,W Madhevere,a879b92c,Fazalhaq Farooqi,e9c7f0d0,I Kaia,5ad8c974,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Zimbabwe,0,I Kaia,5ad8c974,Fazalhaq Farooqi,e9c7f0d0,W Madhevere,a879b92c,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Zimbabwe,0,W Madhevere,a879b92c,Fazalhaq Farooqi,e9c7f0d0,I Kaia,5ad8c974,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Zimbabwe,1,W Madhevere,a879b92c,Nijat Masood,a1bf281e,I Kaia,5ad8c974,0,0,0,0,0,,,,,,0,0,0
+1310947,2022,Zimbabwe,1,W Madhevere,a879b92c,Nijat Masood,a1bf281e,I Kaia,5ad8c974,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Zimbabwe,1,I Kaia,5ad8c974,Nijat Masood,a1bf281e,W Madhevere,a879b92c,0,0,0,0,0,,,,,,0,0,0
+1310947,2022,Zimbabwe,1,I Kaia,5ad8c974,Nijat Masood,a1bf281e,W Madhevere,a879b92c,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Zimbabwe,1,W Madhevere,a879b92c,Nijat Masood,a1bf281e,I Kaia,5ad8c974,0,0,0,0,0,,,,,,4,0,4
+1310947,2022,Zimbabwe,1,W Madhevere,a879b92c,Nijat Masood,a1bf281e,I Kaia,5ad8c974,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Zimbabwe,2,W Madhevere,a879b92c,Fazalhaq Farooqi,e9c7f0d0,I Kaia,5ad8c974,0,0,0,0,1,W Madhevere,a879b92c,,,lbw,0,0,0
+1310947,2022,Zimbabwe,2,T Marumani,3d5d51a5,Fazalhaq Farooqi,e9c7f0d0,I Kaia,5ad8c974,0,0,0,0,0,,,,,,0,0,0
+1310947,2022,Zimbabwe,2,T Marumani,3d5d51a5,Fazalhaq Farooqi,e9c7f0d0,I Kaia,5ad8c974,0,0,1,0,0,,,,,,0,1,1
+1310947,2022,Zimbabwe,2,I Kaia,5ad8c974,Fazalhaq Farooqi,e9c7f0d0,T Marumani,3d5d51a5,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Zimbabwe,2,T Marumani,3d5d51a5,Fazalhaq Farooqi,e9c7f0d0,I Kaia,5ad8c974,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Zimbabwe,2,I Kaia,5ad8c974,Fazalhaq Farooqi,e9c7f0d0,T Marumani,3d5d51a5,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Zimbabwe,3,I Kaia,5ad8c974,Azmatullah Omarzai,8f6dd463,T Marumani,3d5d51a5,0,0,0,0,0,,,,,,4,0,4
+1310947,2022,Zimbabwe,3,I Kaia,5ad8c974,Azmatullah Omarzai,8f6dd463,T Marumani,3d5d51a5,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Zimbabwe,3,T Marumani,3d5d51a5,Azmatullah Omarzai,8f6dd463,I Kaia,5ad8c974,0,0,0,0,0,,,,,,0,0,0
+1310947,2022,Zimbabwe,3,T Marumani,3d5d51a5,Azmatullah Omarzai,8f6dd463,I Kaia,5ad8c974,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Zimbabwe,3,I Kaia,5ad8c974,Azmatullah Omarzai,8f6dd463,T Marumani,3d5d51a5,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Zimbabwe,3,T Marumani,3d5d51a5,Azmatullah Omarzai,8f6dd463,I Kaia,5ad8c974,0,0,0,0,0,,,,,,0,0,0
+1310947,2022,Zimbabwe,4,I Kaia,5ad8c974,Nijat Masood,a1bf281e,T Marumani,3d5d51a5,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Zimbabwe,4,T Marumani,3d5d51a5,Nijat Masood,a1bf281e,I Kaia,5ad8c974,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Zimbabwe,4,I Kaia,5ad8c974,Nijat Masood,a1bf281e,T Marumani,3d5d51a5,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Zimbabwe,4,T Marumani,3d5d51a5,Nijat Masood,a1bf281e,I Kaia,5ad8c974,0,0,0,0,0,,,,,,0,0,0
+1310947,2022,Zimbabwe,4,T Marumani,3d5d51a5,Nijat Masood,a1bf281e,I Kaia,5ad8c974,0,0,0,0,0,,,,,,4,0,4
+1310947,2022,Zimbabwe,4,T Marumani,3d5d51a5,Nijat Masood,a1bf281e,I Kaia,5ad8c974,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Zimbabwe,5,T Marumani,3d5d51a5,Azmatullah Omarzai,8f6dd463,I Kaia,5ad8c974,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Zimbabwe,5,I Kaia,5ad8c974,Azmatullah Omarzai,8f6dd463,T Marumani,3d5d51a5,0,0,0,0,0,,,,,,0,0,0
+1310947,2022,Zimbabwe,5,I Kaia,5ad8c974,Azmatullah Omarzai,8f6dd463,T Marumani,3d5d51a5,0,0,0,0,0,,,,,,0,0,0
+1310947,2022,Zimbabwe,5,I Kaia,5ad8c974,Azmatullah Omarzai,8f6dd463,T Marumani,3d5d51a5,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Zimbabwe,5,T Marumani,3d5d51a5,Azmatullah Omarzai,8f6dd463,I Kaia,5ad8c974,0,0,0,0,0,,,,,,0,0,0
+1310947,2022,Zimbabwe,5,T Marumani,3d5d51a5,Azmatullah Omarzai,8f6dd463,I Kaia,5ad8c974,0,0,0,0,0,,,,,,6,0,6
+1310947,2022,Zimbabwe,6,I Kaia,5ad8c974,Rashid Khan,5f547c8b,T Marumani,3d5d51a5,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Zimbabwe,6,T Marumani,3d5d51a5,Rashid Khan,5f547c8b,I Kaia,5ad8c974,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Zimbabwe,6,I Kaia,5ad8c974,Rashid Khan,5f547c8b,T Marumani,3d5d51a5,0,0,0,0,0,,,,,,0,0,0
+1310947,2022,Zimbabwe,6,I Kaia,5ad8c974,Rashid Khan,5f547c8b,T Marumani,3d5d51a5,0,0,0,0,0,,,,,,0,0,0
+1310947,2022,Zimbabwe,6,I Kaia,5ad8c974,Rashid Khan,5f547c8b,T Marumani,3d5d51a5,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Zimbabwe,6,T Marumani,3d5d51a5,Rashid Khan,5f547c8b,I Kaia,5ad8c974,0,0,0,0,0,,,,,,0,0,0
+1310947,2022,Zimbabwe,7,I Kaia,5ad8c974,Mohammad Nabi,62af8546,T Marumani,3d5d51a5,0,0,0,0,0,,,,,,2,0,2
+1310947,2022,Zimbabwe,7,I Kaia,5ad8c974,Mohammad Nabi,62af8546,T Marumani,3d5d51a5,0,0,0,0,0,,,,,,0,0,0
+1310947,2022,Zimbabwe,7,I Kaia,5ad8c974,Mohammad Nabi,62af8546,T Marumani,3d5d51a5,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Zimbabwe,7,T Marumani,3d5d51a5,Mohammad Nabi,62af8546,I Kaia,5ad8c974,0,0,0,0,0,,,,,,4,0,4
+1310947,2022,Zimbabwe,7,T Marumani,3d5d51a5,Mohammad Nabi,62af8546,I Kaia,5ad8c974,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Zimbabwe,7,I Kaia,5ad8c974,Mohammad Nabi,62af8546,T Marumani,3d5d51a5,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Zimbabwe,8,I Kaia,5ad8c974,Rashid Khan,5f547c8b,T Marumani,3d5d51a5,0,0,0,0,0,,,,,,0,0,0
+1310947,2022,Zimbabwe,8,I Kaia,5ad8c974,Rashid Khan,5f547c8b,T Marumani,3d5d51a5,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Zimbabwe,8,T Marumani,3d5d51a5,Rashid Khan,5f547c8b,I Kaia,5ad8c974,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Zimbabwe,8,I Kaia,5ad8c974,Rashid Khan,5f547c8b,T Marumani,3d5d51a5,0,0,0,0,0,,,,,,0,0,0
+1310947,2022,Zimbabwe,8,I Kaia,5ad8c974,Rashid Khan,5f547c8b,T Marumani,3d5d51a5,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Zimbabwe,8,T Marumani,3d5d51a5,Rashid Khan,5f547c8b,I Kaia,5ad8c974,0,0,0,0,0,,,,,,3,0,3
+1310947,2022,Zimbabwe,9,T Marumani,3d5d51a5,Mohammad Nabi,62af8546,I Kaia,5ad8c974,0,0,0,0,0,,,,,,4,0,4
+1310947,2022,Zimbabwe,9,T Marumani,3d5d51a5,Mohammad Nabi,62af8546,I Kaia,5ad8c974,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Zimbabwe,9,I Kaia,5ad8c974,Mohammad Nabi,62af8546,T Marumani,3d5d51a5,0,0,0,0,0,,,,,,0,0,0
+1310947,2022,Zimbabwe,9,I Kaia,5ad8c974,Mohammad Nabi,62af8546,T Marumani,3d5d51a5,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Zimbabwe,9,T Marumani,3d5d51a5,Mohammad Nabi,62af8546,I Kaia,5ad8c974,1,0,0,0,0,,,,,,0,1,1
+1310947,2022,Zimbabwe,9,T Marumani,3d5d51a5,Mohammad Nabi,62af8546,I Kaia,5ad8c974,0,0,0,0,1,T Marumani,3d5d51a5,,,caught and bowled,0,0,0
+1310947,2022,Zimbabwe,9,CR Ervine,c96311d4,Mohammad Nabi,62af8546,I Kaia,5ad8c974,0,0,0,0,0,,,,,,2,0,2
+1310947,2022,Zimbabwe,10,I Kaia,5ad8c974,Karim Janat,62175638,CR Ervine,c96311d4,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Zimbabwe,10,CR Ervine,c96311d4,Karim Janat,62175638,I Kaia,5ad8c974,0,0,0,0,1,CR Ervine,c96311d4,Rahmanullah Gurbaz,0bacade8,caught,0,0,0
+1310947,2022,Zimbabwe,10,Sikandar Raza,26d041c4,Karim Janat,62175638,I Kaia,5ad8c974,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Zimbabwe,10,I Kaia,5ad8c974,Karim Janat,62175638,Sikandar Raza,26d041c4,0,0,0,0,0,,,,,,0,0,0
+1310947,2022,Zimbabwe,10,I Kaia,5ad8c974,Karim Janat,62175638,Sikandar Raza,26d041c4,0,0,0,0,0,,,,,,0,0,0
+1310947,2022,Zimbabwe,10,I Kaia,5ad8c974,Karim Janat,62175638,Sikandar Raza,26d041c4,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Zimbabwe,11,I Kaia,5ad8c974,Azmatullah Omarzai,8f6dd463,Sikandar Raza,26d041c4,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Zimbabwe,11,Sikandar Raza,26d041c4,Azmatullah Omarzai,8f6dd463,I Kaia,5ad8c974,1,0,0,0,0,,,,,,0,1,1
+1310947,2022,Zimbabwe,11,Sikandar Raza,26d041c4,Azmatullah Omarzai,8f6dd463,I Kaia,5ad8c974,0,0,0,0,0,,,,,,0,0,0
+1310947,2022,Zimbabwe,11,Sikandar Raza,26d041c4,Azmatullah Omarzai,8f6dd463,I Kaia,5ad8c974,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Zimbabwe,11,I Kaia,5ad8c974,Azmatullah Omarzai,8f6dd463,Sikandar Raza,26d041c4,0,0,0,0,0,,,,,,0,0,0
+1310947,2022,Zimbabwe,11,I Kaia,5ad8c974,Azmatullah Omarzai,8f6dd463,Sikandar Raza,26d041c4,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Zimbabwe,11,Sikandar Raza,26d041c4,Azmatullah Omarzai,8f6dd463,I Kaia,5ad8c974,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Zimbabwe,12,Sikandar Raza,26d041c4,Karim Janat,62175638,I Kaia,5ad8c974,0,0,0,0,0,,,,,,6,0,6
+1310947,2022,Zimbabwe,12,Sikandar Raza,26d041c4,Karim Janat,62175638,I Kaia,5ad8c974,0,0,0,0,0,,,,,,2,0,2
+1310947,2022,Zimbabwe,12,Sikandar Raza,26d041c4,Karim Janat,62175638,I Kaia,5ad8c974,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Zimbabwe,12,I Kaia,5ad8c974,Karim Janat,62175638,Sikandar Raza,26d041c4,0,0,0,0,0,,,,,,0,0,0
+1310947,2022,Zimbabwe,12,I Kaia,5ad8c974,Karim Janat,62175638,Sikandar Raza,26d041c4,0,0,0,0,0,,,,,,0,0,0
+1310947,2022,Zimbabwe,12,I Kaia,5ad8c974,Karim Janat,62175638,Sikandar Raza,26d041c4,0,0,0,0,0,,,,,,2,0,2
+1310947,2022,Zimbabwe,13,Sikandar Raza,26d041c4,Nijat Masood,a1bf281e,I Kaia,5ad8c974,0,0,0,0,0,,,,,,0,0,0
+1310947,2022,Zimbabwe,13,Sikandar Raza,26d041c4,Nijat Masood,a1bf281e,I Kaia,5ad8c974,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Zimbabwe,13,I Kaia,5ad8c974,Nijat Masood,a1bf281e,Sikandar Raza,26d041c4,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Zimbabwe,13,Sikandar Raza,26d041c4,Nijat Masood,a1bf281e,I Kaia,5ad8c974,0,0,0,0,0,,,,,,4,0,4
+1310947,2022,Zimbabwe,13,Sikandar Raza,26d041c4,Nijat Masood,a1bf281e,I Kaia,5ad8c974,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Zimbabwe,13,I Kaia,5ad8c974,Nijat Masood,a1bf281e,Sikandar Raza,26d041c4,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Zimbabwe,14,I Kaia,5ad8c974,Rashid Khan,5f547c8b,Sikandar Raza,26d041c4,0,0,0,0,0,,,,,,2,0,2
+1310947,2022,Zimbabwe,14,I Kaia,5ad8c974,Rashid Khan,5f547c8b,Sikandar Raza,26d041c4,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Zimbabwe,14,Sikandar Raza,26d041c4,Rashid Khan,5f547c8b,I Kaia,5ad8c974,0,0,0,0,0,,,,,,6,0,6
+1310947,2022,Zimbabwe,14,Sikandar Raza,26d041c4,Rashid Khan,5f547c8b,I Kaia,5ad8c974,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Zimbabwe,14,I Kaia,5ad8c974,Rashid Khan,5f547c8b,Sikandar Raza,26d041c4,0,0,0,0,0,,,,,,6,0,6
+1310947,2022,Zimbabwe,14,I Kaia,5ad8c974,Rashid Khan,5f547c8b,Sikandar Raza,26d041c4,0,0,1,0,0,,,,,,0,1,1
+1310947,2022,Zimbabwe,15,I Kaia,5ad8c974,Azmatullah Omarzai,8f6dd463,Sikandar Raza,26d041c4,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Zimbabwe,15,Sikandar Raza,26d041c4,Azmatullah Omarzai,8f6dd463,I Kaia,5ad8c974,0,0,0,0,0,,,,,,6,0,6
+1310947,2022,Zimbabwe,15,Sikandar Raza,26d041c4,Azmatullah Omarzai,8f6dd463,I Kaia,5ad8c974,0,0,0,0,0,,,,,,0,0,0
+1310947,2022,Zimbabwe,15,Sikandar Raza,26d041c4,Azmatullah Omarzai,8f6dd463,I Kaia,5ad8c974,0,0,0,0,0,,,,,,0,0,0
+1310947,2022,Zimbabwe,15,Sikandar Raza,26d041c4,Azmatullah Omarzai,8f6dd463,I Kaia,5ad8c974,0,0,0,0,0,,,,,,2,0,2
+1310947,2022,Zimbabwe,15,Sikandar Raza,26d041c4,Azmatullah Omarzai,8f6dd463,I Kaia,5ad8c974,0,0,0,0,0,,,,,,6,0,6
+1310947,2022,Zimbabwe,16,I Kaia,5ad8c974,Fazalhaq Farooqi,e9c7f0d0,Sikandar Raza,26d041c4,0,0,0,0,0,,,,,,0,0,0
+1310947,2022,Zimbabwe,16,I Kaia,5ad8c974,Fazalhaq Farooqi,e9c7f0d0,Sikandar Raza,26d041c4,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Zimbabwe,16,Sikandar Raza,26d041c4,Fazalhaq Farooqi,e9c7f0d0,I Kaia,5ad8c974,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Zimbabwe,16,I Kaia,5ad8c974,Fazalhaq Farooqi,e9c7f0d0,Sikandar Raza,26d041c4,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Zimbabwe,16,Sikandar Raza,26d041c4,Fazalhaq Farooqi,e9c7f0d0,I Kaia,5ad8c974,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Zimbabwe,16,I Kaia,5ad8c974,Fazalhaq Farooqi,e9c7f0d0,Sikandar Raza,26d041c4,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Zimbabwe,17,I Kaia,5ad8c974,Rashid Khan,5f547c8b,Sikandar Raza,26d041c4,0,0,0,0,0,,,,,,4,0,4
+1310947,2022,Zimbabwe,17,I Kaia,5ad8c974,Rashid Khan,5f547c8b,Sikandar Raza,26d041c4,0,0,0,0,0,,,,,,2,0,2
+1310947,2022,Zimbabwe,17,I Kaia,5ad8c974,Rashid Khan,5f547c8b,Sikandar Raza,26d041c4,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Zimbabwe,17,Sikandar Raza,26d041c4,Rashid Khan,5f547c8b,I Kaia,5ad8c974,0,0,0,0,1,Sikandar Raza,26d041c4,,,bowled,0,0,0
+1310947,2022,Zimbabwe,17,RP Burl,b08252b8,Rashid Khan,5f547c8b,I Kaia,5ad8c974,0,0,0,0,0,,,,,,0,0,0
+1310947,2022,Zimbabwe,17,RP Burl,b08252b8,Rashid Khan,5f547c8b,I Kaia,5ad8c974,0,0,0,0,1,RP Burl,b08252b8,Azmatullah Omarzai,8f6dd463,caught,0,0,0
+1310947,2022,Zimbabwe,18,RW Chakabva,2f0d7e4a,Fazalhaq Farooqi,e9c7f0d0,I Kaia,5ad8c974,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Zimbabwe,18,I Kaia,5ad8c974,Fazalhaq Farooqi,e9c7f0d0,RW Chakabva,2f0d7e4a,0,0,0,0,0,,,,,,0,0,0
+1310947,2022,Zimbabwe,18,I Kaia,5ad8c974,Fazalhaq Farooqi,e9c7f0d0,RW Chakabva,2f0d7e4a,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Zimbabwe,18,RW Chakabva,2f0d7e4a,Fazalhaq Farooqi,e9c7f0d0,I Kaia,5ad8c974,0,0,0,0,0,,,,,,0,0,0
+1310947,2022,Zimbabwe,18,RW Chakabva,2f0d7e4a,Fazalhaq Farooqi,e9c7f0d0,I Kaia,5ad8c974,0,0,0,0,0,,,,,,4,0,4
+1310947,2022,Zimbabwe,18,RW Chakabva,2f0d7e4a,Fazalhaq Farooqi,e9c7f0d0,I Kaia,5ad8c974,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Zimbabwe,19,RW Chakabva,2f0d7e4a,Nijat Masood,a1bf281e,I Kaia,5ad8c974,0,0,0,0,0,,,,,,2,0,2
+1310947,2022,Zimbabwe,19,RW Chakabva,2f0d7e4a,Nijat Masood,a1bf281e,I Kaia,5ad8c974,0,0,0,0,1,RW Chakabva,2f0d7e4a,Najibullah Zadran,1212cbec,caught,0,0,0
+1310947,2022,Zimbabwe,19,I Kaia,5ad8c974,Nijat Masood,a1bf281e,LM Jongwe,b8704508,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Zimbabwe,19,LM Jongwe,b8704508,Nijat Masood,a1bf281e,I Kaia,5ad8c974,0,0,0,0,0,,,,,,1,0,1
+1310947,2022,Zimbabwe,19,I Kaia,5ad8c974,Nijat Masood,a1bf281e,LM Jongwe,b8704508,0,0,0,0,1,I Kaia,5ad8c974,Rahmanullah Gurbaz,0bacade8,run out,1,0,1
+1310947,2022,Zimbabwe,19,DT Tiripano,dbfb8218,Nijat Masood,a1bf281e,LM Jongwe,b8704508,0,0,0,0,0,,,,,,1,0,1

@@ -1,0 +1,233 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1338046,2022/23,South Africa,0,L Wolvaardt,e60f81c9,EJ Carson,7693851c,T Brits,06659caa,0,0,0,0,0,,,,,,1,0,1
+1338046,2022/23,South Africa,0,T Brits,06659caa,EJ Carson,7693851c,L Wolvaardt,e60f81c9,0,0,0,0,0,,,,,,1,0,1
+1338046,2022/23,South Africa,0,L Wolvaardt,e60f81c9,EJ Carson,7693851c,T Brits,06659caa,0,0,0,0,0,,,,,,1,0,1
+1338046,2022/23,South Africa,0,T Brits,06659caa,EJ Carson,7693851c,L Wolvaardt,e60f81c9,0,0,0,0,1,T Brits,06659caa,,,lbw,0,0,0
+1338046,2022/23,South Africa,0,M Kapp,63e3b6b3,EJ Carson,7693851c,L Wolvaardt,e60f81c9,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,South Africa,0,M Kapp,63e3b6b3,EJ Carson,7693851c,L Wolvaardt,e60f81c9,0,0,0,0,0,,,,,,1,0,1
+1338046,2022/23,South Africa,1,M Kapp,63e3b6b3,JM Kerr,9af58032,L Wolvaardt,e60f81c9,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,South Africa,1,M Kapp,63e3b6b3,JM Kerr,9af58032,L Wolvaardt,e60f81c9,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,South Africa,1,M Kapp,63e3b6b3,JM Kerr,9af58032,L Wolvaardt,e60f81c9,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,South Africa,1,M Kapp,63e3b6b3,JM Kerr,9af58032,L Wolvaardt,e60f81c9,0,0,0,0,0,,,,,,4,0,4
+1338046,2022/23,South Africa,1,M Kapp,63e3b6b3,JM Kerr,9af58032,L Wolvaardt,e60f81c9,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,South Africa,1,M Kapp,63e3b6b3,JM Kerr,9af58032,L Wolvaardt,e60f81c9,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,South Africa,2,L Wolvaardt,e60f81c9,LMM Tahuhu,60471339,M Kapp,63e3b6b3,0,0,0,0,0,,,,,,1,0,1
+1338046,2022/23,South Africa,2,M Kapp,63e3b6b3,LMM Tahuhu,60471339,L Wolvaardt,e60f81c9,0,0,0,0,0,,,,,,4,0,4
+1338046,2022/23,South Africa,2,M Kapp,63e3b6b3,LMM Tahuhu,60471339,L Wolvaardt,e60f81c9,0,0,0,0,1,M Kapp,63e3b6b3,JM Kerr,9af58032,caught,0,0,0
+1338046,2022/23,South Africa,2,S Luus,6d76bc23,LMM Tahuhu,60471339,L Wolvaardt,e60f81c9,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,South Africa,2,S Luus,6d76bc23,LMM Tahuhu,60471339,L Wolvaardt,e60f81c9,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,South Africa,2,S Luus,6d76bc23,LMM Tahuhu,60471339,L Wolvaardt,e60f81c9,0,0,0,0,0,,,,,,1,0,1
+1338046,2022/23,South Africa,3,S Luus,6d76bc23,JM Kerr,9af58032,L Wolvaardt,e60f81c9,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,South Africa,3,S Luus,6d76bc23,JM Kerr,9af58032,L Wolvaardt,e60f81c9,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,South Africa,3,S Luus,6d76bc23,JM Kerr,9af58032,L Wolvaardt,e60f81c9,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,South Africa,3,S Luus,6d76bc23,JM Kerr,9af58032,L Wolvaardt,e60f81c9,0,0,0,0,0,,,,,,4,0,4
+1338046,2022/23,South Africa,3,S Luus,6d76bc23,JM Kerr,9af58032,L Wolvaardt,e60f81c9,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,South Africa,3,S Luus,6d76bc23,JM Kerr,9af58032,L Wolvaardt,e60f81c9,0,0,0,0,0,,,,,,4,0,4
+1338046,2022/23,South Africa,4,L Wolvaardt,e60f81c9,LMM Tahuhu,60471339,S Luus,6d76bc23,0,0,0,0,0,,,,,,1,0,1
+1338046,2022/23,South Africa,4,S Luus,6d76bc23,LMM Tahuhu,60471339,L Wolvaardt,e60f81c9,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,South Africa,4,S Luus,6d76bc23,LMM Tahuhu,60471339,L Wolvaardt,e60f81c9,0,0,0,0,0,,,,,,2,0,2
+1338046,2022/23,South Africa,4,S Luus,6d76bc23,LMM Tahuhu,60471339,L Wolvaardt,e60f81c9,0,0,0,0,0,,,,,,1,0,1
+1338046,2022/23,South Africa,4,L Wolvaardt,e60f81c9,LMM Tahuhu,60471339,S Luus,6d76bc23,0,0,0,0,0,,,,,,4,0,4
+1338046,2022/23,South Africa,4,L Wolvaardt,e60f81c9,LMM Tahuhu,60471339,S Luus,6d76bc23,0,0,0,0,0,,,,,,2,0,2
+1338046,2022/23,South Africa,5,S Luus,6d76bc23,FC Jonas,6df697a9,L Wolvaardt,e60f81c9,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,South Africa,5,S Luus,6d76bc23,FC Jonas,6df697a9,L Wolvaardt,e60f81c9,0,0,0,0,0,,,,,,4,0,4
+1338046,2022/23,South Africa,5,S Luus,6d76bc23,FC Jonas,6df697a9,L Wolvaardt,e60f81c9,0,0,0,0,0,,,,,,1,0,1
+1338046,2022/23,South Africa,5,L Wolvaardt,e60f81c9,FC Jonas,6df697a9,S Luus,6d76bc23,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,South Africa,5,L Wolvaardt,e60f81c9,FC Jonas,6df697a9,S Luus,6d76bc23,0,0,3,0,0,,,,,,0,3,3
+1338046,2022/23,South Africa,5,S Luus,6d76bc23,FC Jonas,6df697a9,L Wolvaardt,e60f81c9,0,0,0,0,0,,,,,,4,0,4
+1338046,2022/23,South Africa,6,L Wolvaardt,e60f81c9,HNK Jensen,b8cce99f,S Luus,6d76bc23,0,0,0,0,0,,,,,,1,0,1
+1338046,2022/23,South Africa,6,S Luus,6d76bc23,HNK Jensen,b8cce99f,L Wolvaardt,e60f81c9,0,0,0,0,0,,,,,,1,0,1
+1338046,2022/23,South Africa,6,L Wolvaardt,e60f81c9,HNK Jensen,b8cce99f,S Luus,6d76bc23,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,South Africa,6,L Wolvaardt,e60f81c9,HNK Jensen,b8cce99f,S Luus,6d76bc23,0,0,0,0,1,S Luus,6d76bc23,B Bezuidenhout,564afdcf,run out,0,0,0
+1338046,2022/23,South Africa,6,CL Tryon,4d4605e6,HNK Jensen,b8cce99f,L Wolvaardt,e60f81c9,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,South Africa,6,CL Tryon,4d4605e6,HNK Jensen,b8cce99f,L Wolvaardt,e60f81c9,0,0,0,0,0,,,,,,4,0,4
+1338046,2022/23,South Africa,7,L Wolvaardt,e60f81c9,AC Kerr,7673c908,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,1,0,1
+1338046,2022/23,South Africa,7,CL Tryon,4d4605e6,AC Kerr,7673c908,L Wolvaardt,e60f81c9,0,0,0,0,0,,,,,,1,0,1
+1338046,2022/23,South Africa,7,L Wolvaardt,e60f81c9,AC Kerr,7673c908,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,South Africa,7,L Wolvaardt,e60f81c9,AC Kerr,7673c908,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,1,0,1
+1338046,2022/23,South Africa,7,CL Tryon,4d4605e6,AC Kerr,7673c908,L Wolvaardt,e60f81c9,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,South Africa,7,CL Tryon,4d4605e6,AC Kerr,7673c908,L Wolvaardt,e60f81c9,0,0,0,0,0,,,,,,2,0,2
+1338046,2022/23,South Africa,8,L Wolvaardt,e60f81c9,LMM Tahuhu,60471339,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,South Africa,8,L Wolvaardt,e60f81c9,LMM Tahuhu,60471339,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,South Africa,8,L Wolvaardt,e60f81c9,LMM Tahuhu,60471339,CL Tryon,4d4605e6,0,0,0,0,1,L Wolvaardt,e60f81c9,,,bowled,0,0,0
+1338046,2022/23,South Africa,8,D Tucker,2b425403,LMM Tahuhu,60471339,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,South Africa,8,D Tucker,2b425403,LMM Tahuhu,60471339,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,South Africa,8,D Tucker,2b425403,LMM Tahuhu,60471339,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,1,0,1
+1338046,2022/23,South Africa,9,D Tucker,2b425403,AC Kerr,7673c908,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,1,0,1
+1338046,2022/23,South Africa,9,CL Tryon,4d4605e6,AC Kerr,7673c908,D Tucker,2b425403,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,South Africa,9,CL Tryon,4d4605e6,AC Kerr,7673c908,D Tucker,2b425403,0,0,0,0,0,,,,,,4,0,4
+1338046,2022/23,South Africa,9,CL Tryon,4d4605e6,AC Kerr,7673c908,D Tucker,2b425403,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,South Africa,9,CL Tryon,4d4605e6,AC Kerr,7673c908,D Tucker,2b425403,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,South Africa,9,CL Tryon,4d4605e6,AC Kerr,7673c908,D Tucker,2b425403,0,0,0,0,0,,,,,,1,0,1
+1338046,2022/23,South Africa,10,CL Tryon,4d4605e6,EJ Carson,7693851c,D Tucker,2b425403,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,South Africa,10,CL Tryon,4d4605e6,EJ Carson,7693851c,D Tucker,2b425403,0,0,0,0,0,,,,,,1,0,1
+1338046,2022/23,South Africa,10,D Tucker,2b425403,EJ Carson,7693851c,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,1,0,1
+1338046,2022/23,South Africa,10,CL Tryon,4d4605e6,EJ Carson,7693851c,D Tucker,2b425403,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,South Africa,10,CL Tryon,4d4605e6,EJ Carson,7693851c,D Tucker,2b425403,0,0,0,0,0,,,,,,1,0,1
+1338046,2022/23,South Africa,10,D Tucker,2b425403,EJ Carson,7693851c,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,1,0,1
+1338046,2022/23,South Africa,11,D Tucker,2b425403,FC Jonas,6df697a9,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,South Africa,11,D Tucker,2b425403,FC Jonas,6df697a9,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,South Africa,11,D Tucker,2b425403,FC Jonas,6df697a9,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,1,0,1
+1338046,2022/23,South Africa,11,CL Tryon,4d4605e6,FC Jonas,6df697a9,D Tucker,2b425403,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,South Africa,11,CL Tryon,4d4605e6,FC Jonas,6df697a9,D Tucker,2b425403,0,0,0,0,0,,,,,,4,0,4
+1338046,2022/23,South Africa,11,CL Tryon,4d4605e6,FC Jonas,6df697a9,D Tucker,2b425403,0,0,0,0,0,,,,,,1,0,1
+1338046,2022/23,South Africa,12,CL Tryon,4d4605e6,EJ Carson,7693851c,D Tucker,2b425403,0,0,0,0,0,,,,,,4,0,4
+1338046,2022/23,South Africa,12,CL Tryon,4d4605e6,EJ Carson,7693851c,D Tucker,2b425403,2,0,0,0,0,,,,,,0,2,2
+1338046,2022/23,South Africa,12,D Tucker,2b425403,EJ Carson,7693851c,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,South Africa,12,D Tucker,2b425403,EJ Carson,7693851c,CL Tryon,4d4605e6,0,0,0,0,1,D Tucker,2b425403,,,bowled,0,0,0
+1338046,2022/23,South Africa,12,N de Klerk,ea544967,EJ Carson,7693851c,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,South Africa,12,N de Klerk,ea544967,EJ Carson,7693851c,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,1,0,1
+1338046,2022/23,South Africa,12,CL Tryon,4d4605e6,EJ Carson,7693851c,N de Klerk,ea544967,0,0,0,0,0,,,,,,1,0,1
+1338046,2022/23,South Africa,13,CL Tryon,4d4605e6,AC Kerr,7673c908,N de Klerk,ea544967,0,0,0,0,0,,,,,,1,0,1
+1338046,2022/23,South Africa,13,N de Klerk,ea544967,AC Kerr,7673c908,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,South Africa,13,N de Klerk,ea544967,AC Kerr,7673c908,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,1,0,1
+1338046,2022/23,South Africa,13,CL Tryon,4d4605e6,AC Kerr,7673c908,N de Klerk,ea544967,0,0,0,4,0,,,,,,0,4,4
+1338046,2022/23,South Africa,13,CL Tryon,4d4605e6,AC Kerr,7673c908,N de Klerk,ea544967,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,South Africa,13,CL Tryon,4d4605e6,AC Kerr,7673c908,N de Klerk,ea544967,0,0,0,0,0,,,,,,1,0,1
+1338046,2022/23,South Africa,14,CL Tryon,4d4605e6,LMM Tahuhu,60471339,N de Klerk,ea544967,0,0,0,0,0,,,,,,1,0,1
+1338046,2022/23,South Africa,14,N de Klerk,ea544967,LMM Tahuhu,60471339,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,1,0,1
+1338046,2022/23,South Africa,14,CL Tryon,4d4605e6,LMM Tahuhu,60471339,N de Klerk,ea544967,0,0,0,0,0,,,,,,4,0,4
+1338046,2022/23,South Africa,14,CL Tryon,4d4605e6,LMM Tahuhu,60471339,N de Klerk,ea544967,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,South Africa,14,CL Tryon,4d4605e6,LMM Tahuhu,60471339,N de Klerk,ea544967,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,South Africa,14,CL Tryon,4d4605e6,LMM Tahuhu,60471339,N de Klerk,ea544967,0,0,0,0,0,,,,,,4,0,4
+1338046,2022/23,South Africa,15,N de Klerk,ea544967,JM Kerr,9af58032,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,South Africa,15,N de Klerk,ea544967,JM Kerr,9af58032,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,4,0,4
+1338046,2022/23,South Africa,15,N de Klerk,ea544967,JM Kerr,9af58032,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,South Africa,15,N de Klerk,ea544967,JM Kerr,9af58032,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,1,0,1
+1338046,2022/23,South Africa,15,CL Tryon,4d4605e6,JM Kerr,9af58032,N de Klerk,ea544967,0,0,0,0,0,,,,,,1,0,1
+1338046,2022/23,South Africa,15,N de Klerk,ea544967,JM Kerr,9af58032,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,1,0,1
+1338046,2022/23,South Africa,16,N de Klerk,ea544967,EJ Carson,7693851c,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,2,0,2
+1338046,2022/23,South Africa,16,N de Klerk,ea544967,EJ Carson,7693851c,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,2,0,2
+1338046,2022/23,South Africa,16,N de Klerk,ea544967,EJ Carson,7693851c,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,1,0,1
+1338046,2022/23,South Africa,16,CL Tryon,4d4605e6,EJ Carson,7693851c,N de Klerk,ea544967,0,0,0,0,0,,,,,,1,0,1
+1338046,2022/23,South Africa,16,N de Klerk,ea544967,EJ Carson,7693851c,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,1,0,1
+1338046,2022/23,South Africa,16,CL Tryon,4d4605e6,EJ Carson,7693851c,N de Klerk,ea544967,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,South Africa,17,N de Klerk,ea544967,AC Kerr,7673c908,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,2,0,2
+1338046,2022/23,South Africa,17,N de Klerk,ea544967,AC Kerr,7673c908,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,South Africa,17,N de Klerk,ea544967,AC Kerr,7673c908,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,4,0,4
+1338046,2022/23,South Africa,17,N de Klerk,ea544967,AC Kerr,7673c908,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,South Africa,17,N de Klerk,ea544967,AC Kerr,7673c908,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,South Africa,17,N de Klerk,ea544967,AC Kerr,7673c908,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,1,0,1
+1338046,2022/23,South Africa,18,N de Klerk,ea544967,HNK Jensen,b8cce99f,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,1,0,1
+1338046,2022/23,South Africa,18,CL Tryon,4d4605e6,HNK Jensen,b8cce99f,N de Klerk,ea544967,0,0,0,0,0,,,,,,2,0,2
+1338046,2022/23,South Africa,18,CL Tryon,4d4605e6,HNK Jensen,b8cce99f,N de Klerk,ea544967,0,0,0,0,0,,,,,,1,0,1
+1338046,2022/23,South Africa,18,N de Klerk,ea544967,HNK Jensen,b8cce99f,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,2,0,2
+1338046,2022/23,South Africa,18,N de Klerk,ea544967,HNK Jensen,b8cce99f,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,1,0,1
+1338046,2022/23,South Africa,18,CL Tryon,4d4605e6,HNK Jensen,b8cce99f,N de Klerk,ea544967,0,0,0,0,1,CL Tryon,4d4605e6,B Bezuidenhout,564afdcf,caught,0,0,0
+1338046,2022/23,South Africa,19,N de Klerk,ea544967,JM Kerr,9af58032,S Jafta,34304210,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,South Africa,19,N de Klerk,ea544967,JM Kerr,9af58032,S Jafta,34304210,0,0,0,0,0,,,,,,1,0,1
+1338046,2022/23,South Africa,19,S Jafta,34304210,JM Kerr,9af58032,N de Klerk,ea544967,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,South Africa,19,S Jafta,34304210,JM Kerr,9af58032,N de Klerk,ea544967,0,0,0,0,0,,,,,,4,0,4
+1338046,2022/23,South Africa,19,S Jafta,34304210,JM Kerr,9af58032,N de Klerk,ea544967,0,0,0,0,0,,,,,,1,0,1
+1338046,2022/23,South Africa,19,N de Klerk,ea544967,JM Kerr,9af58032,S Jafta,34304210,0,0,0,0,0,,,,,,1,0,1
+1338046,2022/23,New Zealand,0,B Bezuidenhout,564afdcf,N Mlaba,686362af,SW Bates,89bbc67a,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,New Zealand,0,B Bezuidenhout,564afdcf,N Mlaba,686362af,SW Bates,89bbc67a,0,0,0,0,1,B Bezuidenhout,564afdcf,S Jafta,34304210,stumped,0,0,0
+1338046,2022/23,New Zealand,0,GE Plimmer,575494db,N Mlaba,686362af,SW Bates,89bbc67a,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,New Zealand,0,GE Plimmer,575494db,N Mlaba,686362af,SW Bates,89bbc67a,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,New Zealand,0,GE Plimmer,575494db,N Mlaba,686362af,SW Bates,89bbc67a,0,0,0,0,0,,,,,,1,0,1
+1338046,2022/23,New Zealand,0,SW Bates,89bbc67a,N Mlaba,686362af,GE Plimmer,575494db,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,New Zealand,1,GE Plimmer,575494db,S Ismail,108c4c09,SW Bates,89bbc67a,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,New Zealand,1,GE Plimmer,575494db,S Ismail,108c4c09,SW Bates,89bbc67a,0,0,0,0,0,,,,,,4,0,4
+1338046,2022/23,New Zealand,1,GE Plimmer,575494db,S Ismail,108c4c09,SW Bates,89bbc67a,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,New Zealand,1,GE Plimmer,575494db,S Ismail,108c4c09,SW Bates,89bbc67a,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,New Zealand,1,GE Plimmer,575494db,S Ismail,108c4c09,SW Bates,89bbc67a,0,0,0,0,0,,,,,,2,0,2
+1338046,2022/23,New Zealand,1,GE Plimmer,575494db,S Ismail,108c4c09,SW Bates,89bbc67a,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,New Zealand,2,SW Bates,89bbc67a,N Mlaba,686362af,GE Plimmer,575494db,0,0,0,0,1,SW Bates,89bbc67a,,,bowled,0,0,0
+1338046,2022/23,New Zealand,2,AC Kerr,7673c908,N Mlaba,686362af,GE Plimmer,575494db,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,New Zealand,2,AC Kerr,7673c908,N Mlaba,686362af,GE Plimmer,575494db,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,New Zealand,2,AC Kerr,7673c908,N Mlaba,686362af,GE Plimmer,575494db,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,New Zealand,2,AC Kerr,7673c908,N Mlaba,686362af,GE Plimmer,575494db,0,0,0,0,0,,,,,,1,0,1
+1338046,2022/23,New Zealand,2,GE Plimmer,575494db,N Mlaba,686362af,AC Kerr,7673c908,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,New Zealand,3,AC Kerr,7673c908,M Kapp,63e3b6b3,GE Plimmer,575494db,0,0,0,0,0,,,,,,4,0,4
+1338046,2022/23,New Zealand,3,AC Kerr,7673c908,M Kapp,63e3b6b3,GE Plimmer,575494db,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,New Zealand,3,AC Kerr,7673c908,M Kapp,63e3b6b3,GE Plimmer,575494db,0,0,0,0,0,,,,,,1,0,1
+1338046,2022/23,New Zealand,3,GE Plimmer,575494db,M Kapp,63e3b6b3,AC Kerr,7673c908,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,New Zealand,3,GE Plimmer,575494db,M Kapp,63e3b6b3,AC Kerr,7673c908,0,0,0,0,1,GE Plimmer,575494db,S Jafta,34304210,caught,0,0,0
+1338046,2022/23,New Zealand,3,SFM Devine,de69af96,M Kapp,63e3b6b3,AC Kerr,7673c908,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,New Zealand,4,AC Kerr,7673c908,A Khaka,0d518f89,SFM Devine,de69af96,0,0,0,0,0,,,,,,4,0,4
+1338046,2022/23,New Zealand,4,AC Kerr,7673c908,A Khaka,0d518f89,SFM Devine,de69af96,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,New Zealand,4,AC Kerr,7673c908,A Khaka,0d518f89,SFM Devine,de69af96,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,New Zealand,4,AC Kerr,7673c908,A Khaka,0d518f89,SFM Devine,de69af96,1,0,0,0,0,,,,,,0,1,1
+1338046,2022/23,New Zealand,4,AC Kerr,7673c908,A Khaka,0d518f89,SFM Devine,de69af96,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,New Zealand,4,AC Kerr,7673c908,A Khaka,0d518f89,SFM Devine,de69af96,0,0,0,0,1,AC Kerr,7673c908,S Jafta,34304210,caught,0,0,0
+1338046,2022/23,New Zealand,4,ML Green,865eae1f,A Khaka,0d518f89,SFM Devine,de69af96,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,New Zealand,5,SFM Devine,de69af96,S Ismail,108c4c09,ML Green,865eae1f,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,New Zealand,5,SFM Devine,de69af96,S Ismail,108c4c09,ML Green,865eae1f,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,New Zealand,5,SFM Devine,de69af96,S Ismail,108c4c09,ML Green,865eae1f,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,New Zealand,5,SFM Devine,de69af96,S Ismail,108c4c09,ML Green,865eae1f,0,0,1,0,0,,,,,,0,1,1
+1338046,2022/23,New Zealand,5,ML Green,865eae1f,S Ismail,108c4c09,SFM Devine,de69af96,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,New Zealand,5,ML Green,865eae1f,S Ismail,108c4c09,SFM Devine,de69af96,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,New Zealand,6,SFM Devine,de69af96,N Mlaba,686362af,ML Green,865eae1f,0,0,0,0,0,,,,,,1,0,1
+1338046,2022/23,New Zealand,6,ML Green,865eae1f,N Mlaba,686362af,SFM Devine,de69af96,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,New Zealand,6,ML Green,865eae1f,N Mlaba,686362af,SFM Devine,de69af96,0,0,0,0,0,,,,,,1,0,1
+1338046,2022/23,New Zealand,6,SFM Devine,de69af96,N Mlaba,686362af,ML Green,865eae1f,0,0,0,0,0,,,,,,1,0,1
+1338046,2022/23,New Zealand,6,ML Green,865eae1f,N Mlaba,686362af,SFM Devine,de69af96,0,0,0,0,0,,,,,,1,0,1
+1338046,2022/23,New Zealand,6,SFM Devine,de69af96,N Mlaba,686362af,ML Green,865eae1f,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,New Zealand,7,ML Green,865eae1f,A Khaka,0d518f89,SFM Devine,de69af96,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,New Zealand,7,ML Green,865eae1f,A Khaka,0d518f89,SFM Devine,de69af96,0,0,0,0,0,,,,,,1,0,1
+1338046,2022/23,New Zealand,7,SFM Devine,de69af96,A Khaka,0d518f89,ML Green,865eae1f,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,New Zealand,7,SFM Devine,de69af96,A Khaka,0d518f89,ML Green,865eae1f,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,New Zealand,7,SFM Devine,de69af96,A Khaka,0d518f89,ML Green,865eae1f,0,0,0,0,0,,,,,,1,0,1
+1338046,2022/23,New Zealand,7,ML Green,865eae1f,A Khaka,0d518f89,SFM Devine,de69af96,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,New Zealand,8,SFM Devine,de69af96,D Tucker,2b425403,ML Green,865eae1f,0,0,0,0,0,,,,,,1,0,1
+1338046,2022/23,New Zealand,8,ML Green,865eae1f,D Tucker,2b425403,SFM Devine,de69af96,0,0,0,0,0,,,,,,2,0,2
+1338046,2022/23,New Zealand,8,ML Green,865eae1f,D Tucker,2b425403,SFM Devine,de69af96,0,0,0,0,0,,,,,,1,0,1
+1338046,2022/23,New Zealand,8,SFM Devine,de69af96,D Tucker,2b425403,ML Green,865eae1f,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,New Zealand,8,SFM Devine,de69af96,D Tucker,2b425403,ML Green,865eae1f,0,0,0,0,0,,,,,,1,0,1
+1338046,2022/23,New Zealand,8,ML Green,865eae1f,D Tucker,2b425403,SFM Devine,de69af96,0,0,0,0,0,,,,,,1,0,1
+1338046,2022/23,New Zealand,9,ML Green,865eae1f,CL Tryon,4d4605e6,SFM Devine,de69af96,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,New Zealand,9,ML Green,865eae1f,CL Tryon,4d4605e6,SFM Devine,de69af96,0,0,0,0,1,ML Green,865eae1f,S Jafta,34304210,caught,0,0,0
+1338046,2022/23,New Zealand,9,HNK Jensen,b8cce99f,CL Tryon,4d4605e6,SFM Devine,de69af96,0,0,0,0,0,,,,,,1,0,1
+1338046,2022/23,New Zealand,9,SFM Devine,de69af96,CL Tryon,4d4605e6,HNK Jensen,b8cce99f,0,0,0,0,0,,,,,,1,0,1
+1338046,2022/23,New Zealand,9,HNK Jensen,b8cce99f,CL Tryon,4d4605e6,SFM Devine,de69af96,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,New Zealand,9,HNK Jensen,b8cce99f,CL Tryon,4d4605e6,SFM Devine,de69af96,0,0,0,0,0,,,,,,1,0,1
+1338046,2022/23,New Zealand,10,HNK Jensen,b8cce99f,M Kapp,63e3b6b3,SFM Devine,de69af96,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,New Zealand,10,HNK Jensen,b8cce99f,M Kapp,63e3b6b3,SFM Devine,de69af96,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,New Zealand,10,HNK Jensen,b8cce99f,M Kapp,63e3b6b3,SFM Devine,de69af96,0,0,0,0,0,,,,,,1,0,1
+1338046,2022/23,New Zealand,10,SFM Devine,de69af96,M Kapp,63e3b6b3,HNK Jensen,b8cce99f,0,0,0,0,0,,,,,,1,0,1
+1338046,2022/23,New Zealand,10,HNK Jensen,b8cce99f,M Kapp,63e3b6b3,SFM Devine,de69af96,0,0,0,0,0,,,,,,1,0,1
+1338046,2022/23,New Zealand,10,SFM Devine,de69af96,M Kapp,63e3b6b3,HNK Jensen,b8cce99f,0,0,0,0,0,,,,,,4,0,4
+1338046,2022/23,New Zealand,11,HNK Jensen,b8cce99f,A Khaka,0d518f89,SFM Devine,de69af96,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,New Zealand,11,HNK Jensen,b8cce99f,A Khaka,0d518f89,SFM Devine,de69af96,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,New Zealand,11,HNK Jensen,b8cce99f,A Khaka,0d518f89,SFM Devine,de69af96,0,0,0,0,0,,,,,,1,0,1
+1338046,2022/23,New Zealand,11,SFM Devine,de69af96,A Khaka,0d518f89,HNK Jensen,b8cce99f,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,New Zealand,11,SFM Devine,de69af96,A Khaka,0d518f89,HNK Jensen,b8cce99f,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,New Zealand,11,SFM Devine,de69af96,A Khaka,0d518f89,HNK Jensen,b8cce99f,0,0,0,0,0,,,,,,1,0,1
+1338046,2022/23,New Zealand,12,SFM Devine,de69af96,D Tucker,2b425403,HNK Jensen,b8cce99f,0,0,0,0,0,,,,,,1,0,1
+1338046,2022/23,New Zealand,12,HNK Jensen,b8cce99f,D Tucker,2b425403,SFM Devine,de69af96,0,0,0,0,0,,,,,,1,0,1
+1338046,2022/23,New Zealand,12,SFM Devine,de69af96,D Tucker,2b425403,HNK Jensen,b8cce99f,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,New Zealand,12,SFM Devine,de69af96,D Tucker,2b425403,HNK Jensen,b8cce99f,0,0,0,0,0,,,,,,1,0,1
+1338046,2022/23,New Zealand,12,HNK Jensen,b8cce99f,D Tucker,2b425403,SFM Devine,de69af96,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,New Zealand,12,HNK Jensen,b8cce99f,D Tucker,2b425403,SFM Devine,de69af96,0,0,0,0,0,,,,,,1,0,1
+1338046,2022/23,New Zealand,13,HNK Jensen,b8cce99f,CL Tryon,4d4605e6,SFM Devine,de69af96,0,0,0,0,1,HNK Jensen,b8cce99f,A Khaka,0d518f89,run out,0,0,0
+1338046,2022/23,New Zealand,13,SFM Devine,de69af96,CL Tryon,4d4605e6,LMM Tahuhu,60471339,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,New Zealand,13,SFM Devine,de69af96,CL Tryon,4d4605e6,LMM Tahuhu,60471339,0,0,0,0,0,,,,,,2,0,2
+1338046,2022/23,New Zealand,13,SFM Devine,de69af96,CL Tryon,4d4605e6,LMM Tahuhu,60471339,0,0,0,0,1,SFM Devine,de69af96,,,lbw,0,0,0
+1338046,2022/23,New Zealand,13,JM Kerr,9af58032,CL Tryon,4d4605e6,LMM Tahuhu,60471339,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,New Zealand,13,JM Kerr,9af58032,CL Tryon,4d4605e6,LMM Tahuhu,60471339,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,New Zealand,14,LMM Tahuhu,60471339,N Mlaba,686362af,JM Kerr,9af58032,0,0,0,0,0,,,,,,1,0,1
+1338046,2022/23,New Zealand,14,JM Kerr,9af58032,N Mlaba,686362af,LMM Tahuhu,60471339,0,0,0,0,0,,,,,,1,0,1
+1338046,2022/23,New Zealand,14,LMM Tahuhu,60471339,N Mlaba,686362af,JM Kerr,9af58032,0,0,0,0,1,LMM Tahuhu,60471339,,,lbw,0,0,0
+1338046,2022/23,New Zealand,14,EJ Carson,7693851c,N Mlaba,686362af,JM Kerr,9af58032,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,New Zealand,14,EJ Carson,7693851c,N Mlaba,686362af,JM Kerr,9af58032,0,0,0,0,0,,,,,,1,0,1
+1338046,2022/23,New Zealand,14,JM Kerr,9af58032,N Mlaba,686362af,EJ Carson,7693851c,0,0,0,0,0,,,,,,1,0,1
+1338046,2022/23,New Zealand,15,JM Kerr,9af58032,CL Tryon,4d4605e6,EJ Carson,7693851c,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,New Zealand,15,JM Kerr,9af58032,CL Tryon,4d4605e6,EJ Carson,7693851c,0,0,0,0,0,,,,,,4,0,4
+1338046,2022/23,New Zealand,15,JM Kerr,9af58032,CL Tryon,4d4605e6,EJ Carson,7693851c,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,New Zealand,15,JM Kerr,9af58032,CL Tryon,4d4605e6,EJ Carson,7693851c,0,0,0,0,0,,,,,,1,0,1
+1338046,2022/23,New Zealand,15,EJ Carson,7693851c,CL Tryon,4d4605e6,JM Kerr,9af58032,0,0,0,0,0,,,,,,1,0,1
+1338046,2022/23,New Zealand,15,JM Kerr,9af58032,CL Tryon,4d4605e6,EJ Carson,7693851c,0,0,0,0,0,,,,,,1,0,1
+1338046,2022/23,New Zealand,16,JM Kerr,9af58032,D Tucker,2b425403,EJ Carson,7693851c,0,0,0,0,0,,,,,,1,0,1
+1338046,2022/23,New Zealand,16,EJ Carson,7693851c,D Tucker,2b425403,JM Kerr,9af58032,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,New Zealand,16,EJ Carson,7693851c,D Tucker,2b425403,JM Kerr,9af58032,0,0,0,0,0,,,,,,1,0,1
+1338046,2022/23,New Zealand,16,JM Kerr,9af58032,D Tucker,2b425403,EJ Carson,7693851c,0,0,0,0,0,,,,,,1,0,1
+1338046,2022/23,New Zealand,16,EJ Carson,7693851c,D Tucker,2b425403,JM Kerr,9af58032,0,0,0,0,0,,,,,,1,0,1
+1338046,2022/23,New Zealand,16,JM Kerr,9af58032,D Tucker,2b425403,EJ Carson,7693851c,0,0,0,0,0,,,,,,1,0,1
+1338046,2022/23,New Zealand,17,JM Kerr,9af58032,S Ismail,108c4c09,EJ Carson,7693851c,0,0,0,0,1,JM Kerr,9af58032,,,bowled,0,0,0
+1338046,2022/23,New Zealand,17,FC Jonas,6df697a9,S Ismail,108c4c09,EJ Carson,7693851c,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,New Zealand,17,FC Jonas,6df697a9,S Ismail,108c4c09,EJ Carson,7693851c,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,New Zealand,17,FC Jonas,6df697a9,S Ismail,108c4c09,EJ Carson,7693851c,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,New Zealand,17,FC Jonas,6df697a9,S Ismail,108c4c09,EJ Carson,7693851c,0,0,0,0,0,,,,,,1,0,1
+1338046,2022/23,New Zealand,17,EJ Carson,7693851c,S Ismail,108c4c09,FC Jonas,6df697a9,0,0,0,0,0,,,,,,0,0,0
+1338046,2022/23,New Zealand,18,FC Jonas,6df697a9,M Kapp,63e3b6b3,EJ Carson,7693851c,1,0,0,0,0,,,,,,0,1,1
+1338046,2022/23,New Zealand,18,FC Jonas,6df697a9,M Kapp,63e3b6b3,EJ Carson,7693851c,0,0,0,0,1,FC Jonas,6df697a9,,,bowled,0,0,0

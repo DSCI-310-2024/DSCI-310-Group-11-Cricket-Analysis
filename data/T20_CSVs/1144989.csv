@@ -1,0 +1,129 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1144989,2018/19,South Africa,0,Q de Kock,372455c4,JP Behrendorff,4933f499,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,2,0,2
+1144989,2018/19,South Africa,0,Q de Kock,372455c4,JP Behrendorff,4933f499,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,0,0,0
+1144989,2018/19,South Africa,0,Q de Kock,372455c4,JP Behrendorff,4933f499,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,6,0,6
+1144989,2018/19,South Africa,0,Q de Kock,372455c4,JP Behrendorff,4933f499,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,3,0,3
+1144989,2018/19,South Africa,0,RR Hendricks,b8cc58c9,JP Behrendorff,4933f499,Q de Kock,372455c4,0,0,0,0,0,,,,,,4,0,4
+1144989,2018/19,South Africa,0,RR Hendricks,b8cc58c9,JP Behrendorff,4933f499,Q de Kock,372455c4,0,0,0,0,0,,,,,,0,0,0
+1144989,2018/19,South Africa,1,Q de Kock,372455c4,B Stanlake,6834d1f2,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,1,0,1
+1144989,2018/19,South Africa,1,RR Hendricks,b8cc58c9,B Stanlake,6834d1f2,Q de Kock,372455c4,1,0,0,0,0,,,,,,0,1,1
+1144989,2018/19,South Africa,1,RR Hendricks,b8cc58c9,B Stanlake,6834d1f2,Q de Kock,372455c4,0,0,0,0,0,,,,,,1,0,1
+1144989,2018/19,South Africa,1,Q de Kock,372455c4,B Stanlake,6834d1f2,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,0,0,0
+1144989,2018/19,South Africa,1,Q de Kock,372455c4,B Stanlake,6834d1f2,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,0,0,0
+1144989,2018/19,South Africa,1,Q de Kock,372455c4,B Stanlake,6834d1f2,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,0,0,0
+1144989,2018/19,South Africa,1,Q de Kock,372455c4,B Stanlake,6834d1f2,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,6,0,6
+1144989,2018/19,South Africa,2,RR Hendricks,b8cc58c9,NM Coulter-Nile,56ab442f,Q de Kock,372455c4,0,0,4,0,0,,,,,,0,4,4
+1144989,2018/19,South Africa,2,RR Hendricks,b8cc58c9,NM Coulter-Nile,56ab442f,Q de Kock,372455c4,0,0,0,0,0,,,,,,4,0,4
+1144989,2018/19,South Africa,2,RR Hendricks,b8cc58c9,NM Coulter-Nile,56ab442f,Q de Kock,372455c4,0,0,0,0,0,,,,,,6,0,6
+1144989,2018/19,South Africa,2,RR Hendricks,b8cc58c9,NM Coulter-Nile,56ab442f,Q de Kock,372455c4,0,0,0,0,0,,,,,,4,0,4
+1144989,2018/19,South Africa,2,RR Hendricks,b8cc58c9,NM Coulter-Nile,56ab442f,Q de Kock,372455c4,0,0,0,0,1,RR Hendricks,b8cc58c9,BR McDermott,c41043e6,caught,0,0,0
+1144989,2018/19,South Africa,2,Q de Kock,372455c4,NM Coulter-Nile,56ab442f,F du Plessis,3355b542,0,0,0,0,0,,,,,,0,0,0
+1144989,2018/19,South Africa,3,F du Plessis,3355b542,GJ Maxwell,b681e71e,Q de Kock,372455c4,0,0,0,0,0,,,,,,1,0,1
+1144989,2018/19,South Africa,3,Q de Kock,372455c4,GJ Maxwell,b681e71e,F du Plessis,3355b542,0,0,0,0,0,,,,,,1,0,1
+1144989,2018/19,South Africa,3,F du Plessis,3355b542,GJ Maxwell,b681e71e,Q de Kock,372455c4,0,0,0,0,0,,,,,,2,0,2
+1144989,2018/19,South Africa,3,F du Plessis,3355b542,GJ Maxwell,b681e71e,Q de Kock,372455c4,0,0,0,0,0,,,,,,1,0,1
+1144989,2018/19,South Africa,3,Q de Kock,372455c4,GJ Maxwell,b681e71e,F du Plessis,3355b542,0,0,0,0,0,,,,,,0,0,0
+1144989,2018/19,South Africa,3,Q de Kock,372455c4,GJ Maxwell,b681e71e,F du Plessis,3355b542,0,0,1,0,0,,,,,,0,1,1
+1144989,2018/19,South Africa,4,Q de Kock,372455c4,DJM Short,1a156c88,F du Plessis,3355b542,0,0,0,0,0,,,,,,3,0,3
+1144989,2018/19,South Africa,4,F du Plessis,3355b542,DJM Short,1a156c88,Q de Kock,372455c4,0,0,0,0,0,,,,,,1,0,1
+1144989,2018/19,South Africa,4,Q de Kock,372455c4,DJM Short,1a156c88,F du Plessis,3355b542,0,0,1,0,0,,,,,,0,1,1
+1144989,2018/19,South Africa,4,F du Plessis,3355b542,DJM Short,1a156c88,Q de Kock,372455c4,0,0,0,0,0,,,,,,2,0,2
+1144989,2018/19,South Africa,4,F du Plessis,3355b542,DJM Short,1a156c88,Q de Kock,372455c4,0,0,0,0,0,,,,,,4,0,4
+1144989,2018/19,South Africa,4,F du Plessis,3355b542,DJM Short,1a156c88,Q de Kock,372455c4,0,0,0,0,0,,,,,,2,0,2
+1144989,2018/19,South Africa,5,Q de Kock,372455c4,GJ Maxwell,b681e71e,F du Plessis,3355b542,0,0,0,0,1,Q de Kock,372455c4,AT Carey,69d03465,stumped,0,0,0
+1144989,2018/19,South Africa,5,H Klaasen,235c2bb6,GJ Maxwell,b681e71e,F du Plessis,3355b542,0,0,0,0,0,,,,,,1,0,1
+1144989,2018/19,South Africa,5,F du Plessis,3355b542,GJ Maxwell,b681e71e,H Klaasen,235c2bb6,0,0,0,0,0,,,,,,4,0,4
+1144989,2018/19,South Africa,5,F du Plessis,3355b542,GJ Maxwell,b681e71e,H Klaasen,235c2bb6,0,0,0,0,0,,,,,,0,0,0
+1144989,2018/19,South Africa,5,F du Plessis,3355b542,GJ Maxwell,b681e71e,H Klaasen,235c2bb6,0,0,0,0,0,,,,,,0,0,0
+1144989,2018/19,South Africa,5,F du Plessis,3355b542,GJ Maxwell,b681e71e,H Klaasen,235c2bb6,0,0,0,0,0,,,,,,4,0,4
+1144989,2018/19,South Africa,6,H Klaasen,235c2bb6,B Stanlake,6834d1f2,F du Plessis,3355b542,0,0,0,0,0,,,,,,2,0,2
+1144989,2018/19,South Africa,6,H Klaasen,235c2bb6,B Stanlake,6834d1f2,F du Plessis,3355b542,0,0,0,0,0,,,,,,4,0,4
+1144989,2018/19,South Africa,6,H Klaasen,235c2bb6,B Stanlake,6834d1f2,F du Plessis,3355b542,2,0,0,0,0,,,,,,0,2,2
+1144989,2018/19,South Africa,6,F du Plessis,3355b542,B Stanlake,6834d1f2,H Klaasen,235c2bb6,0,0,0,0,0,,,,,,0,0,0
+1144989,2018/19,South Africa,6,F du Plessis,3355b542,B Stanlake,6834d1f2,H Klaasen,235c2bb6,0,0,0,0,0,,,,,,2,0,2
+1144989,2018/19,South Africa,6,F du Plessis,3355b542,B Stanlake,6834d1f2,H Klaasen,235c2bb6,0,0,0,0,0,,,,,,4,0,4
+1144989,2018/19,South Africa,6,F du Plessis,3355b542,B Stanlake,6834d1f2,H Klaasen,235c2bb6,0,0,0,0,1,F du Plessis,3355b542,GJ Maxwell,b681e71e,caught,0,0,0
+1144989,2018/19,South Africa,7,DA Miller,d67d5f00,AJ Tye,7c7d63a2,H Klaasen,235c2bb6,0,1,0,0,0,,,,,,0,1,1
+1144989,2018/19,South Africa,7,DA Miller,d67d5f00,AJ Tye,7c7d63a2,H Klaasen,235c2bb6,0,0,0,0,0,,,,,,1,0,1
+1144989,2018/19,South Africa,7,H Klaasen,235c2bb6,AJ Tye,7c7d63a2,DA Miller,d67d5f00,0,0,0,0,0,,,,,,1,0,1
+1144989,2018/19,South Africa,7,DA Miller,d67d5f00,AJ Tye,7c7d63a2,H Klaasen,235c2bb6,0,0,0,0,0,,,,,,2,0,2
+1144989,2018/19,South Africa,7,DA Miller,d67d5f00,AJ Tye,7c7d63a2,H Klaasen,235c2bb6,0,0,0,0,0,,,,,,4,0,4
+1144989,2018/19,South Africa,7,DA Miller,d67d5f00,AJ Tye,7c7d63a2,H Klaasen,235c2bb6,0,0,0,0,0,,,,,,1,0,1
+1144989,2018/19,South Africa,7,H Klaasen,235c2bb6,AJ Tye,7c7d63a2,DA Miller,d67d5f00,0,0,0,0,0,,,,,,4,0,4
+1144989,2018/19,South Africa,8,DA Miller,d67d5f00,NM Coulter-Nile,56ab442f,H Klaasen,235c2bb6,0,0,0,0,0,,,,,,1,0,1
+1144989,2018/19,South Africa,8,H Klaasen,235c2bb6,NM Coulter-Nile,56ab442f,DA Miller,d67d5f00,0,0,0,0,1,H Klaasen,235c2bb6,GJ Maxwell,b681e71e,caught,0,0,0
+1144989,2018/19,South Africa,8,DA Miller,d67d5f00,NM Coulter-Nile,56ab442f,F Behardien,dce2019b,0,0,0,0,0,,,,,,2,0,2
+1144989,2018/19,South Africa,8,DA Miller,d67d5f00,NM Coulter-Nile,56ab442f,F Behardien,dce2019b,0,0,0,0,0,,,,,,0,0,0
+1144989,2018/19,South Africa,8,DA Miller,d67d5f00,NM Coulter-Nile,56ab442f,F Behardien,dce2019b,0,0,1,0,0,,,,,,0,1,1
+1144989,2018/19,South Africa,8,F Behardien,dce2019b,NM Coulter-Nile,56ab442f,DA Miller,d67d5f00,0,0,0,0,0,,,,,,2,0,2
+1144989,2018/19,South Africa,9,DA Miller,d67d5f00,AJ Tye,7c7d63a2,F Behardien,dce2019b,0,0,0,0,1,DA Miller,d67d5f00,DJM Short,1a156c88,caught,0,0,0
+1144989,2018/19,South Africa,9,F Behardien,dce2019b,AJ Tye,7c7d63a2,CH Morris,fb66ce1f,0,0,0,0,0,,,,,,1,0,1
+1144989,2018/19,South Africa,9,CH Morris,fb66ce1f,AJ Tye,7c7d63a2,F Behardien,dce2019b,1,0,0,0,0,,,,,,0,1,1
+1144989,2018/19,South Africa,9,CH Morris,fb66ce1f,AJ Tye,7c7d63a2,F Behardien,dce2019b,0,0,0,0,1,CH Morris,fb66ce1f,AT Carey,69d03465,caught,0,0,0
+1144989,2018/19,South Africa,9,AL Phehlukwayo,ab6b1c45,AJ Tye,7c7d63a2,F Behardien,dce2019b,0,0,0,0,0,,,,,,2,0,2
+1144989,2018/19,South Africa,9,AL Phehlukwayo,ab6b1c45,AJ Tye,7c7d63a2,F Behardien,dce2019b,0,0,0,0,0,,,,,,0,0,0
+1144989,2018/19,South Africa,9,AL Phehlukwayo,ab6b1c45,AJ Tye,7c7d63a2,F Behardien,dce2019b,0,0,0,0,0,,,,,,0,0,0
+1144989,2018/19,Australia,0,AJ Finch,b8d490fd,K Rabada,e62dd25d,CA Lynn,45eda7c8,0,0,0,0,0,,,,,,1,0,1
+1144989,2018/19,Australia,0,CA Lynn,45eda7c8,K Rabada,e62dd25d,AJ Finch,b8d490fd,0,0,4,0,0,,,,,,0,4,4
+1144989,2018/19,Australia,0,CA Lynn,45eda7c8,K Rabada,e62dd25d,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,0,0,0
+1144989,2018/19,Australia,0,CA Lynn,45eda7c8,K Rabada,e62dd25d,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,4,0,4
+1144989,2018/19,Australia,0,CA Lynn,45eda7c8,K Rabada,e62dd25d,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,4,0,4
+1144989,2018/19,Australia,0,CA Lynn,45eda7c8,K Rabada,e62dd25d,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,0,0,0
+1144989,2018/19,Australia,1,AJ Finch,b8d490fd,L Ngidi,f834dcfc,CA Lynn,45eda7c8,0,0,0,0,0,,,,,,4,0,4
+1144989,2018/19,Australia,1,AJ Finch,b8d490fd,L Ngidi,f834dcfc,CA Lynn,45eda7c8,0,0,1,0,0,,,,,,0,1,1
+1144989,2018/19,Australia,1,CA Lynn,45eda7c8,L Ngidi,f834dcfc,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,1,0,1
+1144989,2018/19,Australia,1,AJ Finch,b8d490fd,L Ngidi,f834dcfc,CA Lynn,45eda7c8,0,0,0,0,0,,,,,,2,0,2
+1144989,2018/19,Australia,1,AJ Finch,b8d490fd,L Ngidi,f834dcfc,CA Lynn,45eda7c8,0,0,0,0,0,,,,,,0,0,0
+1144989,2018/19,Australia,1,AJ Finch,b8d490fd,L Ngidi,f834dcfc,CA Lynn,45eda7c8,0,0,0,0,1,AJ Finch,b8d490fd,,,bowled,0,0,0
+1144989,2018/19,Australia,2,CA Lynn,45eda7c8,CH Morris,fb66ce1f,DJM Short,1a156c88,0,0,0,0,0,,,,,,0,0,0
+1144989,2018/19,Australia,2,CA Lynn,45eda7c8,CH Morris,fb66ce1f,DJM Short,1a156c88,0,0,0,0,0,,,,,,4,0,4
+1144989,2018/19,Australia,2,CA Lynn,45eda7c8,CH Morris,fb66ce1f,DJM Short,1a156c88,0,0,0,0,0,,,,,,1,0,1
+1144989,2018/19,Australia,2,DJM Short,1a156c88,CH Morris,fb66ce1f,CA Lynn,45eda7c8,0,0,0,0,1,DJM Short,1a156c88,AL Phehlukwayo,ab6b1c45,caught,0,0,0
+1144989,2018/19,Australia,2,GJ Maxwell,b681e71e,CH Morris,fb66ce1f,CA Lynn,45eda7c8,0,0,0,0,0,,,,,,1,0,1
+1144989,2018/19,Australia,2,CA Lynn,45eda7c8,CH Morris,fb66ce1f,GJ Maxwell,b681e71e,0,0,0,0,1,CA Lynn,45eda7c8,,,bowled,0,0,0
+1144989,2018/19,Australia,3,GJ Maxwell,b681e71e,AL Phehlukwayo,ab6b1c45,MP Stoinis,d9273ee7,0,0,0,0,0,,,,,,3,0,3
+1144989,2018/19,Australia,3,MP Stoinis,d9273ee7,AL Phehlukwayo,ab6b1c45,GJ Maxwell,b681e71e,1,0,0,0,0,,,,,,0,1,1
+1144989,2018/19,Australia,3,MP Stoinis,d9273ee7,AL Phehlukwayo,ab6b1c45,GJ Maxwell,b681e71e,0,0,0,0,0,,,,,,1,0,1
+1144989,2018/19,Australia,3,GJ Maxwell,b681e71e,AL Phehlukwayo,ab6b1c45,MP Stoinis,d9273ee7,0,0,0,0,0,,,,,,1,0,1
+1144989,2018/19,Australia,3,MP Stoinis,d9273ee7,AL Phehlukwayo,ab6b1c45,GJ Maxwell,b681e71e,0,0,0,0,0,,,,,,4,0,4
+1144989,2018/19,Australia,3,MP Stoinis,d9273ee7,AL Phehlukwayo,ab6b1c45,GJ Maxwell,b681e71e,0,0,0,0,1,MP Stoinis,d9273ee7,AK Markram,6a26221c,caught,0,0,0
+1144989,2018/19,Australia,3,BR McDermott,c41043e6,AL Phehlukwayo,ab6b1c45,GJ Maxwell,b681e71e,0,0,0,0,0,,,,,,1,0,1
+1144989,2018/19,Australia,4,BR McDermott,c41043e6,T Shamsi,a03bba42,GJ Maxwell,b681e71e,0,0,0,0,0,,,,,,1,0,1
+1144989,2018/19,Australia,4,GJ Maxwell,b681e71e,T Shamsi,a03bba42,BR McDermott,c41043e6,0,0,0,0,0,,,,,,0,0,0
+1144989,2018/19,Australia,4,GJ Maxwell,b681e71e,T Shamsi,a03bba42,BR McDermott,c41043e6,0,0,0,0,0,,,,,,1,0,1
+1144989,2018/19,Australia,4,BR McDermott,c41043e6,T Shamsi,a03bba42,GJ Maxwell,b681e71e,0,0,0,0,0,,,,,,2,0,2
+1144989,2018/19,Australia,4,BR McDermott,c41043e6,T Shamsi,a03bba42,GJ Maxwell,b681e71e,0,0,0,0,0,,,,,,0,0,0
+1144989,2018/19,Australia,4,BR McDermott,c41043e6,T Shamsi,a03bba42,GJ Maxwell,b681e71e,0,0,0,0,0,,,,,,0,0,0
+1144989,2018/19,Australia,5,GJ Maxwell,b681e71e,AL Phehlukwayo,ab6b1c45,BR McDermott,c41043e6,0,0,0,0,0,,,,,,1,0,1
+1144989,2018/19,Australia,5,BR McDermott,c41043e6,AL Phehlukwayo,ab6b1c45,GJ Maxwell,b681e71e,0,0,0,0,1,BR McDermott,c41043e6,Q de Kock,372455c4,caught,0,0,0
+1144989,2018/19,Australia,5,AT Carey,69d03465,AL Phehlukwayo,ab6b1c45,GJ Maxwell,b681e71e,0,0,0,0,0,,,,,,0,0,0
+1144989,2018/19,Australia,5,AT Carey,69d03465,AL Phehlukwayo,ab6b1c45,GJ Maxwell,b681e71e,0,0,0,0,0,,,,,,1,0,1
+1144989,2018/19,Australia,5,GJ Maxwell,b681e71e,AL Phehlukwayo,ab6b1c45,AT Carey,69d03465,0,0,0,0,0,,,,,,2,0,2
+1144989,2018/19,Australia,5,GJ Maxwell,b681e71e,AL Phehlukwayo,ab6b1c45,AT Carey,69d03465,0,0,0,0,0,,,,,,6,0,6
+1144989,2018/19,Australia,6,AT Carey,69d03465,T Shamsi,a03bba42,GJ Maxwell,b681e71e,0,0,0,0,0,,,,,,2,0,2
+1144989,2018/19,Australia,6,AT Carey,69d03465,T Shamsi,a03bba42,GJ Maxwell,b681e71e,0,0,0,0,0,,,,,,2,0,2
+1144989,2018/19,Australia,6,AT Carey,69d03465,T Shamsi,a03bba42,GJ Maxwell,b681e71e,0,0,0,0,0,,,,,,2,0,2
+1144989,2018/19,Australia,6,AT Carey,69d03465,T Shamsi,a03bba42,GJ Maxwell,b681e71e,0,0,0,0,0,,,,,,1,0,1
+1144989,2018/19,Australia,6,GJ Maxwell,b681e71e,T Shamsi,a03bba42,AT Carey,69d03465,0,0,0,0,0,,,,,,1,0,1
+1144989,2018/19,Australia,6,AT Carey,69d03465,T Shamsi,a03bba42,GJ Maxwell,b681e71e,0,0,0,0,1,AT Carey,69d03465,H Klaasen,235c2bb6,caught,0,0,0
+1144989,2018/19,Australia,7,GJ Maxwell,b681e71e,CH Morris,fb66ce1f,NM Coulter-Nile,56ab442f,0,0,0,0,0,,,,,,2,0,2
+1144989,2018/19,Australia,7,GJ Maxwell,b681e71e,CH Morris,fb66ce1f,NM Coulter-Nile,56ab442f,0,0,0,0,0,,,,,,2,0,2
+1144989,2018/19,Australia,7,GJ Maxwell,b681e71e,CH Morris,fb66ce1f,NM Coulter-Nile,56ab442f,0,0,0,0,0,,,,,,0,0,0
+1144989,2018/19,Australia,7,GJ Maxwell,b681e71e,CH Morris,fb66ce1f,NM Coulter-Nile,56ab442f,0,0,0,0,0,,,,,,0,0,0
+1144989,2018/19,Australia,7,GJ Maxwell,b681e71e,CH Morris,fb66ce1f,NM Coulter-Nile,56ab442f,0,0,0,0,0,,,,,,0,0,0
+1144989,2018/19,Australia,7,GJ Maxwell,b681e71e,CH Morris,fb66ce1f,NM Coulter-Nile,56ab442f,1,0,0,0,0,,,,,,0,1,1
+1144989,2018/19,Australia,7,GJ Maxwell,b681e71e,CH Morris,fb66ce1f,NM Coulter-Nile,56ab442f,0,0,0,0,0,,,,,,1,0,1
+1144989,2018/19,Australia,8,GJ Maxwell,b681e71e,K Rabada,e62dd25d,NM Coulter-Nile,56ab442f,0,0,0,0,0,,,,,,1,0,1
+1144989,2018/19,Australia,8,NM Coulter-Nile,56ab442f,K Rabada,e62dd25d,GJ Maxwell,b681e71e,0,0,0,0,0,,,,,,1,0,1
+1144989,2018/19,Australia,8,GJ Maxwell,b681e71e,K Rabada,e62dd25d,NM Coulter-Nile,56ab442f,0,0,0,0,0,,,,,,0,0,0
+1144989,2018/19,Australia,8,GJ Maxwell,b681e71e,K Rabada,e62dd25d,NM Coulter-Nile,56ab442f,1,0,0,0,0,,,,,,0,1,1
+1144989,2018/19,Australia,8,GJ Maxwell,b681e71e,K Rabada,e62dd25d,NM Coulter-Nile,56ab442f,0,0,0,0,0,,,,,,4,0,4
+1144989,2018/19,Australia,8,GJ Maxwell,b681e71e,K Rabada,e62dd25d,NM Coulter-Nile,56ab442f,0,0,0,0,0,,,,,,4,0,4
+1144989,2018/19,Australia,8,GJ Maxwell,b681e71e,K Rabada,e62dd25d,NM Coulter-Nile,56ab442f,0,0,0,0,0,,,,,,1,0,1
+1144989,2018/19,Australia,9,GJ Maxwell,b681e71e,L Ngidi,f834dcfc,NM Coulter-Nile,56ab442f,0,0,0,0,0,,,,,,6,0,6
+1144989,2018/19,Australia,9,GJ Maxwell,b681e71e,L Ngidi,f834dcfc,NM Coulter-Nile,56ab442f,0,0,0,0,0,,,,,,1,0,1
+1144989,2018/19,Australia,9,NM Coulter-Nile,56ab442f,L Ngidi,f834dcfc,GJ Maxwell,b681e71e,1,0,0,0,0,,,,,,0,1,1
+1144989,2018/19,Australia,9,NM Coulter-Nile,56ab442f,L Ngidi,f834dcfc,GJ Maxwell,b681e71e,0,0,0,0,0,,,,,,0,0,0
+1144989,2018/19,Australia,9,NM Coulter-Nile,56ab442f,L Ngidi,f834dcfc,GJ Maxwell,b681e71e,0,0,0,0,0,,,,,,0,0,0
+1144989,2018/19,Australia,9,NM Coulter-Nile,56ab442f,L Ngidi,f834dcfc,GJ Maxwell,b681e71e,0,0,0,0,0,,,,,,1,0,1
+1144989,2018/19,Australia,9,GJ Maxwell,b681e71e,L Ngidi,f834dcfc,NM Coulter-Nile,56ab442f,0,0,0,0,1,GJ Maxwell,b681e71e,F Behardien,dce2019b,caught,0,0,0

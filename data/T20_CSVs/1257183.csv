@@ -1,0 +1,252 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1257183,2021,Pakistan,0,Mohammad Rizwan,2f26ac1a,WP Masakadza,4bc0a378,Babar Azam,8a75e999,0,0,0,0,0,,,,,,0,0,0
+1257183,2021,Pakistan,0,Mohammad Rizwan,2f26ac1a,WP Masakadza,4bc0a378,Babar Azam,8a75e999,0,0,0,0,0,,,,,,0,0,0
+1257183,2021,Pakistan,0,Mohammad Rizwan,2f26ac1a,WP Masakadza,4bc0a378,Babar Azam,8a75e999,0,0,0,0,0,,,,,,1,0,1
+1257183,2021,Pakistan,0,Babar Azam,8a75e999,WP Masakadza,4bc0a378,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,0,0,0
+1257183,2021,Pakistan,0,Babar Azam,8a75e999,WP Masakadza,4bc0a378,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,1,0,1
+1257183,2021,Pakistan,0,Mohammad Rizwan,2f26ac1a,WP Masakadza,4bc0a378,Babar Azam,8a75e999,0,0,0,0,0,,,,,,4,0,4
+1257183,2021,Pakistan,1,Babar Azam,8a75e999,B Muzarabani,449f4e3c,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,1,0,1
+1257183,2021,Pakistan,1,Mohammad Rizwan,2f26ac1a,B Muzarabani,449f4e3c,Babar Azam,8a75e999,0,0,0,0,0,,,,,,1,0,1
+1257183,2021,Pakistan,1,Babar Azam,8a75e999,B Muzarabani,449f4e3c,Mohammad Rizwan,2f26ac1a,0,0,0,0,1,Babar Azam,8a75e999,RP Burl,b08252b8,caught,0,0,0
+1257183,2021,Pakistan,1,Fakhar Zaman,1777c020,B Muzarabani,449f4e3c,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,0,0,0
+1257183,2021,Pakistan,1,Fakhar Zaman,1777c020,B Muzarabani,449f4e3c,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,0,0,0
+1257183,2021,Pakistan,1,Fakhar Zaman,1777c020,B Muzarabani,449f4e3c,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,0,0,0
+1257183,2021,Pakistan,2,Mohammad Rizwan,2f26ac1a,R Ngarava,6e3f5a5c,Fakhar Zaman,1777c020,0,0,0,0,0,,,,,,0,0,0
+1257183,2021,Pakistan,2,Mohammad Rizwan,2f26ac1a,R Ngarava,6e3f5a5c,Fakhar Zaman,1777c020,0,0,0,0,0,,,,,,0,0,0
+1257183,2021,Pakistan,2,Mohammad Rizwan,2f26ac1a,R Ngarava,6e3f5a5c,Fakhar Zaman,1777c020,0,0,0,0,0,,,,,,0,0,0
+1257183,2021,Pakistan,2,Mohammad Rizwan,2f26ac1a,R Ngarava,6e3f5a5c,Fakhar Zaman,1777c020,0,0,0,0,0,,,,,,4,0,4
+1257183,2021,Pakistan,2,Mohammad Rizwan,2f26ac1a,R Ngarava,6e3f5a5c,Fakhar Zaman,1777c020,0,0,0,0,0,,,,,,0,0,0
+1257183,2021,Pakistan,2,Mohammad Rizwan,2f26ac1a,R Ngarava,6e3f5a5c,Fakhar Zaman,1777c020,0,0,0,0,0,,,,,,1,0,1
+1257183,2021,Pakistan,3,Mohammad Rizwan,2f26ac1a,B Muzarabani,449f4e3c,Fakhar Zaman,1777c020,0,0,0,0,0,,,,,,1,0,1
+1257183,2021,Pakistan,3,Fakhar Zaman,1777c020,B Muzarabani,449f4e3c,Mohammad Rizwan,2f26ac1a,1,0,0,0,0,,,,,,0,1,1
+1257183,2021,Pakistan,3,Fakhar Zaman,1777c020,B Muzarabani,449f4e3c,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,4,0,4
+1257183,2021,Pakistan,3,Fakhar Zaman,1777c020,B Muzarabani,449f4e3c,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,0,0,0
+1257183,2021,Pakistan,3,Fakhar Zaman,1777c020,B Muzarabani,449f4e3c,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,1,0,1
+1257183,2021,Pakistan,3,Mohammad Rizwan,2f26ac1a,B Muzarabani,449f4e3c,Fakhar Zaman,1777c020,0,0,0,0,0,,,,,,0,0,0
+1257183,2021,Pakistan,3,Mohammad Rizwan,2f26ac1a,B Muzarabani,449f4e3c,Fakhar Zaman,1777c020,0,0,0,0,0,,,,,,1,0,1
+1257183,2021,Pakistan,4,Mohammad Rizwan,2f26ac1a,R Ngarava,6e3f5a5c,Fakhar Zaman,1777c020,0,0,0,0,0,,,,,,0,0,0
+1257183,2021,Pakistan,4,Mohammad Rizwan,2f26ac1a,R Ngarava,6e3f5a5c,Fakhar Zaman,1777c020,0,0,0,0,0,,,,,,4,0,4
+1257183,2021,Pakistan,4,Mohammad Rizwan,2f26ac1a,R Ngarava,6e3f5a5c,Fakhar Zaman,1777c020,1,0,0,0,0,,,,,,0,1,1
+1257183,2021,Pakistan,4,Mohammad Rizwan,2f26ac1a,R Ngarava,6e3f5a5c,Fakhar Zaman,1777c020,0,0,0,0,0,,,,,,0,0,0
+1257183,2021,Pakistan,4,Mohammad Rizwan,2f26ac1a,R Ngarava,6e3f5a5c,Fakhar Zaman,1777c020,0,0,0,1,0,,,,,,0,1,1
+1257183,2021,Pakistan,4,Fakhar Zaman,1777c020,R Ngarava,6e3f5a5c,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,1,0,1
+1257183,2021,Pakistan,4,Mohammad Rizwan,2f26ac1a,R Ngarava,6e3f5a5c,Fakhar Zaman,1777c020,0,0,0,0,0,,,,,,4,0,4
+1257183,2021,Pakistan,5,Fakhar Zaman,1777c020,LM Jongwe,b8704508,Mohammad Rizwan,2f26ac1a,1,0,0,0,0,,,,,,0,1,1
+1257183,2021,Pakistan,5,Fakhar Zaman,1777c020,LM Jongwe,b8704508,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,1,0,1
+1257183,2021,Pakistan,5,Mohammad Rizwan,2f26ac1a,LM Jongwe,b8704508,Fakhar Zaman,1777c020,0,0,0,0,0,,,,,,1,0,1
+1257183,2021,Pakistan,5,Fakhar Zaman,1777c020,LM Jongwe,b8704508,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,0,0,0
+1257183,2021,Pakistan,5,Fakhar Zaman,1777c020,LM Jongwe,b8704508,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,4,0,4
+1257183,2021,Pakistan,5,Fakhar Zaman,1777c020,LM Jongwe,b8704508,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,2,0,2
+1257183,2021,Pakistan,5,Fakhar Zaman,1777c020,LM Jongwe,b8704508,Mohammad Rizwan,2f26ac1a,0,0,0,1,0,,,,,,0,1,1
+1257183,2021,Pakistan,6,Fakhar Zaman,1777c020,W Madhevere,a879b92c,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,0,0,0
+1257183,2021,Pakistan,6,Fakhar Zaman,1777c020,W Madhevere,a879b92c,Mohammad Rizwan,2f26ac1a,0,0,0,0,1,Fakhar Zaman,1777c020,,,bowled,0,0,0
+1257183,2021,Pakistan,6,Mohammad Hafeez,9ab63e7b,W Madhevere,a879b92c,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,1,0,1
+1257183,2021,Pakistan,6,Mohammad Rizwan,2f26ac1a,W Madhevere,a879b92c,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,1,0,1
+1257183,2021,Pakistan,6,Mohammad Hafeez,9ab63e7b,W Madhevere,a879b92c,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,0,0,0
+1257183,2021,Pakistan,6,Mohammad Hafeez,9ab63e7b,W Madhevere,a879b92c,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,1,0,1
+1257183,2021,Pakistan,7,Mohammad Hafeez,9ab63e7b,WP Masakadza,4bc0a378,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,1,0,1
+1257183,2021,Pakistan,7,Mohammad Rizwan,2f26ac1a,WP Masakadza,4bc0a378,Mohammad Hafeez,9ab63e7b,1,0,0,0,0,,,,,,0,1,1
+1257183,2021,Pakistan,7,Mohammad Rizwan,2f26ac1a,WP Masakadza,4bc0a378,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,1,0,1
+1257183,2021,Pakistan,7,Mohammad Hafeez,9ab63e7b,WP Masakadza,4bc0a378,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,1,0,1
+1257183,2021,Pakistan,7,Mohammad Rizwan,2f26ac1a,WP Masakadza,4bc0a378,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,1,0,1
+1257183,2021,Pakistan,7,Mohammad Hafeez,9ab63e7b,WP Masakadza,4bc0a378,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,1,0,1
+1257183,2021,Pakistan,7,Mohammad Rizwan,2f26ac1a,WP Masakadza,4bc0a378,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,4,0,4
+1257183,2021,Pakistan,8,Mohammad Hafeez,9ab63e7b,W Madhevere,a879b92c,Mohammad Rizwan,2f26ac1a,0,0,0,0,1,Mohammad Hafeez,9ab63e7b,R Ngarava,6e3f5a5c,caught,0,0,0
+1257183,2021,Pakistan,8,Danish Aziz,a4799701,W Madhevere,a879b92c,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,1,0,1
+1257183,2021,Pakistan,8,Mohammad Rizwan,2f26ac1a,W Madhevere,a879b92c,Danish Aziz,a4799701,0,0,0,0,0,,,,,,4,0,4
+1257183,2021,Pakistan,8,Mohammad Rizwan,2f26ac1a,W Madhevere,a879b92c,Danish Aziz,a4799701,0,0,0,0,0,,,,,,0,0,0
+1257183,2021,Pakistan,8,Mohammad Rizwan,2f26ac1a,W Madhevere,a879b92c,Danish Aziz,a4799701,0,0,0,0,0,,,,,,2,0,2
+1257183,2021,Pakistan,8,Mohammad Rizwan,2f26ac1a,W Madhevere,a879b92c,Danish Aziz,a4799701,0,0,0,0,0,,,,,,1,0,1
+1257183,2021,Pakistan,9,Mohammad Rizwan,2f26ac1a,RP Burl,b08252b8,Danish Aziz,a4799701,1,0,0,0,0,,,,,,0,1,1
+1257183,2021,Pakistan,9,Mohammad Rizwan,2f26ac1a,RP Burl,b08252b8,Danish Aziz,a4799701,0,0,0,0,0,,,,,,0,0,0
+1257183,2021,Pakistan,9,Mohammad Rizwan,2f26ac1a,RP Burl,b08252b8,Danish Aziz,a4799701,0,0,0,0,0,,,,,,0,0,0
+1257183,2021,Pakistan,9,Mohammad Rizwan,2f26ac1a,RP Burl,b08252b8,Danish Aziz,a4799701,0,0,0,0,0,,,,,,1,0,1
+1257183,2021,Pakistan,9,Danish Aziz,a4799701,RP Burl,b08252b8,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,1,0,1
+1257183,2021,Pakistan,9,Mohammad Rizwan,2f26ac1a,RP Burl,b08252b8,Danish Aziz,a4799701,0,0,0,0,0,,,,,,1,0,1
+1257183,2021,Pakistan,9,Danish Aziz,a4799701,RP Burl,b08252b8,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,0,0,0
+1257183,2021,Pakistan,10,Mohammad Rizwan,2f26ac1a,SC Williams,afe57f7a,Danish Aziz,a4799701,0,0,0,0,0,,,,,,1,0,1
+1257183,2021,Pakistan,10,Danish Aziz,a4799701,SC Williams,afe57f7a,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,1,0,1
+1257183,2021,Pakistan,10,Mohammad Rizwan,2f26ac1a,SC Williams,afe57f7a,Danish Aziz,a4799701,0,0,0,0,0,,,,,,1,0,1
+1257183,2021,Pakistan,10,Danish Aziz,a4799701,SC Williams,afe57f7a,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,2,0,2
+1257183,2021,Pakistan,10,Danish Aziz,a4799701,SC Williams,afe57f7a,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,0,0,0
+1257183,2021,Pakistan,10,Danish Aziz,a4799701,SC Williams,afe57f7a,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,2,0,2
+1257183,2021,Pakistan,11,Mohammad Rizwan,2f26ac1a,RP Burl,b08252b8,Danish Aziz,a4799701,0,0,0,0,0,,,,,,0,0,0
+1257183,2021,Pakistan,11,Mohammad Rizwan,2f26ac1a,RP Burl,b08252b8,Danish Aziz,a4799701,0,0,0,0,0,,,,,,0,0,0
+1257183,2021,Pakistan,11,Mohammad Rizwan,2f26ac1a,RP Burl,b08252b8,Danish Aziz,a4799701,0,0,0,0,0,,,,,,0,0,0
+1257183,2021,Pakistan,11,Mohammad Rizwan,2f26ac1a,RP Burl,b08252b8,Danish Aziz,a4799701,0,0,0,0,0,,,,,,1,0,1
+1257183,2021,Pakistan,11,Danish Aziz,a4799701,RP Burl,b08252b8,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,6,0,6
+1257183,2021,Pakistan,11,Danish Aziz,a4799701,RP Burl,b08252b8,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,1,0,1
+1257183,2021,Pakistan,12,Danish Aziz,a4799701,LM Jongwe,b8704508,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,1,0,1
+1257183,2021,Pakistan,12,Mohammad Rizwan,2f26ac1a,LM Jongwe,b8704508,Danish Aziz,a4799701,0,0,0,0,0,,,,,,2,0,2
+1257183,2021,Pakistan,12,Mohammad Rizwan,2f26ac1a,LM Jongwe,b8704508,Danish Aziz,a4799701,0,0,0,0,0,,,,,,2,0,2
+1257183,2021,Pakistan,12,Mohammad Rizwan,2f26ac1a,LM Jongwe,b8704508,Danish Aziz,a4799701,1,0,0,0,0,,,,,,0,1,1
+1257183,2021,Pakistan,12,Mohammad Rizwan,2f26ac1a,LM Jongwe,b8704508,Danish Aziz,a4799701,0,0,0,0,0,,,,,,1,0,1
+1257183,2021,Pakistan,12,Danish Aziz,a4799701,LM Jongwe,b8704508,Mohammad Rizwan,2f26ac1a,0,0,0,0,1,Danish Aziz,a4799701,R Ngarava,6e3f5a5c,caught,0,0,0
+1257183,2021,Pakistan,12,Haider Ali,c13e34f4,LM Jongwe,b8704508,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,0,0,0
+1257183,2021,Pakistan,13,Mohammad Rizwan,2f26ac1a,WP Masakadza,4bc0a378,Haider Ali,c13e34f4,0,0,0,0,0,,,,,,0,0,0
+1257183,2021,Pakistan,13,Mohammad Rizwan,2f26ac1a,WP Masakadza,4bc0a378,Haider Ali,c13e34f4,0,0,0,0,0,,,,,,0,0,0
+1257183,2021,Pakistan,13,Mohammad Rizwan,2f26ac1a,WP Masakadza,4bc0a378,Haider Ali,c13e34f4,0,0,0,0,0,,,,,,1,0,1
+1257183,2021,Pakistan,13,Haider Ali,c13e34f4,WP Masakadza,4bc0a378,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,1,0,1
+1257183,2021,Pakistan,13,Mohammad Rizwan,2f26ac1a,WP Masakadza,4bc0a378,Haider Ali,c13e34f4,0,0,0,0,0,,,,,,1,0,1
+1257183,2021,Pakistan,13,Haider Ali,c13e34f4,WP Masakadza,4bc0a378,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,1,0,1
+1257183,2021,Pakistan,14,Haider Ali,c13e34f4,RP Burl,b08252b8,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,0,0,0
+1257183,2021,Pakistan,14,Haider Ali,c13e34f4,RP Burl,b08252b8,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,0,0,0
+1257183,2021,Pakistan,14,Haider Ali,c13e34f4,RP Burl,b08252b8,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,1,0,1
+1257183,2021,Pakistan,14,Mohammad Rizwan,2f26ac1a,RP Burl,b08252b8,Haider Ali,c13e34f4,0,0,0,0,0,,,,,,1,0,1
+1257183,2021,Pakistan,14,Haider Ali,c13e34f4,RP Burl,b08252b8,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,1,0,1
+1257183,2021,Pakistan,14,Mohammad Rizwan,2f26ac1a,RP Burl,b08252b8,Haider Ali,c13e34f4,0,0,0,0,0,,,,,,0,0,0
+1257183,2021,Pakistan,15,Haider Ali,c13e34f4,LM Jongwe,b8704508,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,1,0,1
+1257183,2021,Pakistan,15,Mohammad Rizwan,2f26ac1a,LM Jongwe,b8704508,Haider Ali,c13e34f4,0,0,0,0,0,,,,,,1,0,1
+1257183,2021,Pakistan,15,Haider Ali,c13e34f4,LM Jongwe,b8704508,Mohammad Rizwan,2f26ac1a,0,0,0,0,1,Haider Ali,c13e34f4,,,bowled,0,0,0
+1257183,2021,Pakistan,15,Faheem Ashraf,bd4ea627,LM Jongwe,b8704508,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,1,0,1
+1257183,2021,Pakistan,15,Mohammad Rizwan,2f26ac1a,LM Jongwe,b8704508,Faheem Ashraf,bd4ea627,0,0,0,0,1,Faheem Ashraf,bd4ea627,,,run out,1,0,1
+1257183,2021,Pakistan,15,Mohammad Rizwan,2f26ac1a,LM Jongwe,b8704508,Mohammad Nawaz (3),3086f7a4,0,0,0,0,0,,,,,,4,0,4
+1257183,2021,Pakistan,16,Mohammad Nawaz (3),3086f7a4,B Muzarabani,449f4e3c,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,1,0,1
+1257183,2021,Pakistan,16,Mohammad Rizwan,2f26ac1a,B Muzarabani,449f4e3c,Mohammad Nawaz (3),3086f7a4,0,0,0,0,0,,,,,,1,0,1
+1257183,2021,Pakistan,16,Mohammad Nawaz (3),3086f7a4,B Muzarabani,449f4e3c,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,2,0,2
+1257183,2021,Pakistan,16,Mohammad Nawaz (3),3086f7a4,B Muzarabani,449f4e3c,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,0,0,0
+1257183,2021,Pakistan,16,Mohammad Nawaz (3),3086f7a4,B Muzarabani,449f4e3c,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,1,0,1
+1257183,2021,Pakistan,16,Mohammad Rizwan,2f26ac1a,B Muzarabani,449f4e3c,Mohammad Nawaz (3),3086f7a4,0,0,0,0,0,,,,,,2,0,2
+1257183,2021,Pakistan,17,Mohammad Nawaz (3),3086f7a4,R Ngarava,6e3f5a5c,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,2,0,2
+1257183,2021,Pakistan,17,Mohammad Nawaz (3),3086f7a4,R Ngarava,6e3f5a5c,Mohammad Rizwan,2f26ac1a,5,0,0,0,0,,,,,,0,5,5
+1257183,2021,Pakistan,17,Mohammad Nawaz (3),3086f7a4,R Ngarava,6e3f5a5c,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,1,0,1
+1257183,2021,Pakistan,17,Mohammad Rizwan,2f26ac1a,R Ngarava,6e3f5a5c,Mohammad Nawaz (3),3086f7a4,0,0,0,0,0,,,,,,1,0,1
+1257183,2021,Pakistan,17,Mohammad Nawaz (3),3086f7a4,R Ngarava,6e3f5a5c,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,0,0,0
+1257183,2021,Pakistan,17,Mohammad Nawaz (3),3086f7a4,R Ngarava,6e3f5a5c,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,2,0,2
+1257183,2021,Pakistan,17,Mohammad Nawaz (3),3086f7a4,R Ngarava,6e3f5a5c,Mohammad Rizwan,2f26ac1a,1,0,0,0,0,,,,,,0,1,1
+1257183,2021,Pakistan,17,Mohammad Nawaz (3),3086f7a4,R Ngarava,6e3f5a5c,Mohammad Rizwan,2f26ac1a,1,0,0,0,0,,,,,,0,1,1
+1257183,2021,Pakistan,17,Mohammad Nawaz (3),3086f7a4,R Ngarava,6e3f5a5c,Mohammad Rizwan,2f26ac1a,0,0,0,0,1,Mohammad Nawaz (3),3086f7a4,RW Chakabva,2f0d7e4a,caught,0,0,0
+1257183,2021,Pakistan,18,Mohammad Rizwan,2f26ac1a,B Muzarabani,449f4e3c,Usman Qadir,33742f04,0,0,0,0,0,,,,,,2,0,2
+1257183,2021,Pakistan,18,Mohammad Rizwan,2f26ac1a,B Muzarabani,449f4e3c,Usman Qadir,33742f04,0,0,0,0,0,,,,,,1,0,1
+1257183,2021,Pakistan,18,Usman Qadir,33742f04,B Muzarabani,449f4e3c,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,0,0,0
+1257183,2021,Pakistan,18,Usman Qadir,33742f04,B Muzarabani,449f4e3c,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,0,0,0
+1257183,2021,Pakistan,18,Usman Qadir,33742f04,B Muzarabani,449f4e3c,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,0,0,0
+1257183,2021,Pakistan,18,Usman Qadir,33742f04,B Muzarabani,449f4e3c,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,2,0,2
+1257183,2021,Pakistan,19,Mohammad Rizwan,2f26ac1a,R Ngarava,6e3f5a5c,Usman Qadir,33742f04,0,0,0,0,0,,,,,,0,0,0
+1257183,2021,Pakistan,19,Mohammad Rizwan,2f26ac1a,R Ngarava,6e3f5a5c,Usman Qadir,33742f04,0,0,0,0,0,,,,,,4,0,4
+1257183,2021,Pakistan,19,Mohammad Rizwan,2f26ac1a,R Ngarava,6e3f5a5c,Usman Qadir,33742f04,0,0,0,0,0,,,,,,2,0,2
+1257183,2021,Pakistan,19,Mohammad Rizwan,2f26ac1a,R Ngarava,6e3f5a5c,Usman Qadir,33742f04,0,0,0,0,0,,,,,,6,0,6
+1257183,2021,Pakistan,19,Mohammad Rizwan,2f26ac1a,R Ngarava,6e3f5a5c,Usman Qadir,33742f04,0,0,0,0,0,,,,,,4,0,4
+1257183,2021,Pakistan,19,Mohammad Rizwan,2f26ac1a,R Ngarava,6e3f5a5c,Usman Qadir,33742f04,0,0,0,0,0,,,,,,4,0,4
+1257183,2021,Zimbabwe,0,TS Kamunhukamwe,4e1b4323,Mohammad Hasnain,8596fe80,W Madhevere,a879b92c,0,0,0,0,0,,,,,,0,0,0
+1257183,2021,Zimbabwe,0,TS Kamunhukamwe,4e1b4323,Mohammad Hasnain,8596fe80,W Madhevere,a879b92c,0,0,0,0,0,,,,,,0,0,0
+1257183,2021,Zimbabwe,0,TS Kamunhukamwe,4e1b4323,Mohammad Hasnain,8596fe80,W Madhevere,a879b92c,0,0,0,0,0,,,,,,1,0,1
+1257183,2021,Zimbabwe,0,W Madhevere,a879b92c,Mohammad Hasnain,8596fe80,TS Kamunhukamwe,4e1b4323,0,0,0,0,0,,,,,,4,0,4
+1257183,2021,Zimbabwe,0,W Madhevere,a879b92c,Mohammad Hasnain,8596fe80,TS Kamunhukamwe,4e1b4323,0,0,0,0,0,,,,,,0,0,0
+1257183,2021,Zimbabwe,0,W Madhevere,a879b92c,Mohammad Hasnain,8596fe80,TS Kamunhukamwe,4e1b4323,0,0,0,0,0,,,,,,0,0,0
+1257183,2021,Zimbabwe,1,TS Kamunhukamwe,4e1b4323,Faheem Ashraf,bd4ea627,W Madhevere,a879b92c,0,0,0,0,0,,,,,,0,0,0
+1257183,2021,Zimbabwe,1,TS Kamunhukamwe,4e1b4323,Faheem Ashraf,bd4ea627,W Madhevere,a879b92c,0,0,0,0,0,,,,,,4,0,4
+1257183,2021,Zimbabwe,1,TS Kamunhukamwe,4e1b4323,Faheem Ashraf,bd4ea627,W Madhevere,a879b92c,0,0,0,0,0,,,,,,0,0,0
+1257183,2021,Zimbabwe,1,TS Kamunhukamwe,4e1b4323,Faheem Ashraf,bd4ea627,W Madhevere,a879b92c,0,0,0,0,0,,,,,,1,0,1
+1257183,2021,Zimbabwe,1,W Madhevere,a879b92c,Faheem Ashraf,bd4ea627,TS Kamunhukamwe,4e1b4323,0,0,0,0,0,,,,,,4,0,4
+1257183,2021,Zimbabwe,1,W Madhevere,a879b92c,Faheem Ashraf,bd4ea627,TS Kamunhukamwe,4e1b4323,0,0,0,0,0,,,,,,4,0,4
+1257183,2021,Zimbabwe,2,TS Kamunhukamwe,4e1b4323,Mohammad Hasnain,8596fe80,W Madhevere,a879b92c,0,0,0,0,0,,,,,,1,0,1
+1257183,2021,Zimbabwe,2,W Madhevere,a879b92c,Mohammad Hasnain,8596fe80,TS Kamunhukamwe,4e1b4323,0,0,0,0,0,,,,,,0,0,0
+1257183,2021,Zimbabwe,2,W Madhevere,a879b92c,Mohammad Hasnain,8596fe80,TS Kamunhukamwe,4e1b4323,0,0,0,0,0,,,,,,0,0,0
+1257183,2021,Zimbabwe,2,W Madhevere,a879b92c,Mohammad Hasnain,8596fe80,TS Kamunhukamwe,4e1b4323,0,0,0,0,0,,,,,,2,0,2
+1257183,2021,Zimbabwe,2,W Madhevere,a879b92c,Mohammad Hasnain,8596fe80,TS Kamunhukamwe,4e1b4323,0,0,0,0,1,W Madhevere,a879b92c,Babar Azam,8a75e999,caught,0,0,0
+1257183,2021,Zimbabwe,2,T Marumani,3d5d51a5,Mohammad Hasnain,8596fe80,TS Kamunhukamwe,4e1b4323,0,0,0,0,1,T Marumani,3d5d51a5,Babar Azam,8a75e999,caught,0,0,0
+1257183,2021,Zimbabwe,3,TS Kamunhukamwe,4e1b4323,Mohammad Nawaz (3),3086f7a4,CR Ervine,c96311d4,0,0,0,0,0,,,,,,0,0,0
+1257183,2021,Zimbabwe,3,TS Kamunhukamwe,4e1b4323,Mohammad Nawaz (3),3086f7a4,CR Ervine,c96311d4,0,0,0,0,0,,,,,,0,0,0
+1257183,2021,Zimbabwe,3,TS Kamunhukamwe,4e1b4323,Mohammad Nawaz (3),3086f7a4,CR Ervine,c96311d4,0,0,0,0,0,,,,,,1,0,1
+1257183,2021,Zimbabwe,3,CR Ervine,c96311d4,Mohammad Nawaz (3),3086f7a4,TS Kamunhukamwe,4e1b4323,0,0,0,0,0,,,,,,0,0,0
+1257183,2021,Zimbabwe,3,CR Ervine,c96311d4,Mohammad Nawaz (3),3086f7a4,TS Kamunhukamwe,4e1b4323,0,0,0,0,0,,,,,,4,0,4
+1257183,2021,Zimbabwe,3,CR Ervine,c96311d4,Mohammad Nawaz (3),3086f7a4,TS Kamunhukamwe,4e1b4323,0,0,0,0,0,,,,,,0,0,0
+1257183,2021,Zimbabwe,4,TS Kamunhukamwe,4e1b4323,Faheem Ashraf,bd4ea627,CR Ervine,c96311d4,0,0,0,0,0,,,,,,0,0,0
+1257183,2021,Zimbabwe,4,TS Kamunhukamwe,4e1b4323,Faheem Ashraf,bd4ea627,CR Ervine,c96311d4,0,0,0,0,0,,,,,,0,0,0
+1257183,2021,Zimbabwe,4,TS Kamunhukamwe,4e1b4323,Faheem Ashraf,bd4ea627,CR Ervine,c96311d4,0,0,0,0,0,,,,,,1,0,1
+1257183,2021,Zimbabwe,4,CR Ervine,c96311d4,Faheem Ashraf,bd4ea627,TS Kamunhukamwe,4e1b4323,0,0,1,0,0,,,,,,0,1,1
+1257183,2021,Zimbabwe,4,TS Kamunhukamwe,4e1b4323,Faheem Ashraf,bd4ea627,CR Ervine,c96311d4,0,0,0,0,0,,,,,,1,0,1
+1257183,2021,Zimbabwe,4,CR Ervine,c96311d4,Faheem Ashraf,bd4ea627,TS Kamunhukamwe,4e1b4323,0,0,0,0,0,,,,,,1,0,1
+1257183,2021,Zimbabwe,5,CR Ervine,c96311d4,Haris Rauf,24bb1c2f,TS Kamunhukamwe,4e1b4323,0,0,0,0,0,,,,,,0,0,0
+1257183,2021,Zimbabwe,5,CR Ervine,c96311d4,Haris Rauf,24bb1c2f,TS Kamunhukamwe,4e1b4323,0,0,0,0,0,,,,,,1,0,1
+1257183,2021,Zimbabwe,5,TS Kamunhukamwe,4e1b4323,Haris Rauf,24bb1c2f,CR Ervine,c96311d4,0,0,0,0,0,,,,,,4,0,4
+1257183,2021,Zimbabwe,5,TS Kamunhukamwe,4e1b4323,Haris Rauf,24bb1c2f,CR Ervine,c96311d4,0,0,0,0,0,,,,,,0,0,0
+1257183,2021,Zimbabwe,5,TS Kamunhukamwe,4e1b4323,Haris Rauf,24bb1c2f,CR Ervine,c96311d4,0,0,0,0,0,,,,,,0,0,0
+1257183,2021,Zimbabwe,5,TS Kamunhukamwe,4e1b4323,Haris Rauf,24bb1c2f,CR Ervine,c96311d4,0,0,0,0,0,,,,,,0,0,0
+1257183,2021,Zimbabwe,6,CR Ervine,c96311d4,Usman Qadir,33742f04,TS Kamunhukamwe,4e1b4323,0,0,0,0,0,,,,,,6,0,6
+1257183,2021,Zimbabwe,6,CR Ervine,c96311d4,Usman Qadir,33742f04,TS Kamunhukamwe,4e1b4323,0,0,0,0,0,,,,,,1,0,1
+1257183,2021,Zimbabwe,6,TS Kamunhukamwe,4e1b4323,Usman Qadir,33742f04,CR Ervine,c96311d4,0,0,0,0,0,,,,,,0,0,0
+1257183,2021,Zimbabwe,6,TS Kamunhukamwe,4e1b4323,Usman Qadir,33742f04,CR Ervine,c96311d4,0,0,0,0,0,,,,,,1,0,1
+1257183,2021,Zimbabwe,6,CR Ervine,c96311d4,Usman Qadir,33742f04,TS Kamunhukamwe,4e1b4323,0,0,0,0,0,,,,,,0,0,0
+1257183,2021,Zimbabwe,6,CR Ervine,c96311d4,Usman Qadir,33742f04,TS Kamunhukamwe,4e1b4323,0,0,0,0,0,,,,,,4,0,4
+1257183,2021,Zimbabwe,7,TS Kamunhukamwe,4e1b4323,Mohammad Nawaz (3),3086f7a4,CR Ervine,c96311d4,0,0,0,0,0,,,,,,0,0,0
+1257183,2021,Zimbabwe,7,TS Kamunhukamwe,4e1b4323,Mohammad Nawaz (3),3086f7a4,CR Ervine,c96311d4,0,0,0,0,0,,,,,,1,0,1
+1257183,2021,Zimbabwe,7,CR Ervine,c96311d4,Mohammad Nawaz (3),3086f7a4,TS Kamunhukamwe,4e1b4323,0,0,0,0,0,,,,,,4,0,4
+1257183,2021,Zimbabwe,7,CR Ervine,c96311d4,Mohammad Nawaz (3),3086f7a4,TS Kamunhukamwe,4e1b4323,0,0,0,0,0,,,,,,1,0,1
+1257183,2021,Zimbabwe,7,TS Kamunhukamwe,4e1b4323,Mohammad Nawaz (3),3086f7a4,CR Ervine,c96311d4,0,0,0,0,0,,,,,,4,0,4
+1257183,2021,Zimbabwe,7,TS Kamunhukamwe,4e1b4323,Mohammad Nawaz (3),3086f7a4,CR Ervine,c96311d4,0,0,0,0,0,,,,,,0,0,0
+1257183,2021,Zimbabwe,8,CR Ervine,c96311d4,Mohammad Hafeez,9ab63e7b,TS Kamunhukamwe,4e1b4323,0,0,0,0,0,,,,,,2,0,2
+1257183,2021,Zimbabwe,8,CR Ervine,c96311d4,Mohammad Hafeez,9ab63e7b,TS Kamunhukamwe,4e1b4323,0,0,0,0,0,,,,,,1,0,1
+1257183,2021,Zimbabwe,8,TS Kamunhukamwe,4e1b4323,Mohammad Hafeez,9ab63e7b,CR Ervine,c96311d4,0,0,0,0,0,,,,,,1,0,1
+1257183,2021,Zimbabwe,8,CR Ervine,c96311d4,Mohammad Hafeez,9ab63e7b,TS Kamunhukamwe,4e1b4323,0,0,0,0,0,,,,,,1,0,1
+1257183,2021,Zimbabwe,8,TS Kamunhukamwe,4e1b4323,Mohammad Hafeez,9ab63e7b,CR Ervine,c96311d4,0,0,0,0,0,,,,,,2,0,2
+1257183,2021,Zimbabwe,8,TS Kamunhukamwe,4e1b4323,Mohammad Hafeez,9ab63e7b,CR Ervine,c96311d4,0,0,0,0,0,,,,,,2,0,2
+1257183,2021,Zimbabwe,9,CR Ervine,c96311d4,Haris Rauf,24bb1c2f,TS Kamunhukamwe,4e1b4323,1,0,0,0,0,,,,,,0,1,1
+1257183,2021,Zimbabwe,9,CR Ervine,c96311d4,Haris Rauf,24bb1c2f,TS Kamunhukamwe,4e1b4323,0,0,0,0,0,,,,,,3,0,3
+1257183,2021,Zimbabwe,9,TS Kamunhukamwe,4e1b4323,Haris Rauf,24bb1c2f,CR Ervine,c96311d4,0,0,0,0,0,,,,,,0,0,0
+1257183,2021,Zimbabwe,9,TS Kamunhukamwe,4e1b4323,Haris Rauf,24bb1c2f,CR Ervine,c96311d4,0,0,0,0,0,,,,,,0,0,0
+1257183,2021,Zimbabwe,9,TS Kamunhukamwe,4e1b4323,Haris Rauf,24bb1c2f,CR Ervine,c96311d4,0,0,0,0,0,,,,,,1,0,1
+1257183,2021,Zimbabwe,9,CR Ervine,c96311d4,Haris Rauf,24bb1c2f,TS Kamunhukamwe,4e1b4323,0,0,0,0,0,,,,,,1,0,1
+1257183,2021,Zimbabwe,9,TS Kamunhukamwe,4e1b4323,Haris Rauf,24bb1c2f,CR Ervine,c96311d4,0,0,0,0,0,,,,,,1,0,1
+1257183,2021,Zimbabwe,10,TS Kamunhukamwe,4e1b4323,Mohammad Hafeez,9ab63e7b,CR Ervine,c96311d4,0,0,0,0,0,,,,,,1,0,1
+1257183,2021,Zimbabwe,10,CR Ervine,c96311d4,Mohammad Hafeez,9ab63e7b,TS Kamunhukamwe,4e1b4323,0,0,0,0,0,,,,,,0,0,0
+1257183,2021,Zimbabwe,10,CR Ervine,c96311d4,Mohammad Hafeez,9ab63e7b,TS Kamunhukamwe,4e1b4323,0,0,0,0,0,,,,,,1,0,1
+1257183,2021,Zimbabwe,10,TS Kamunhukamwe,4e1b4323,Mohammad Hafeez,9ab63e7b,CR Ervine,c96311d4,0,0,0,0,0,,,,,,1,0,1
+1257183,2021,Zimbabwe,10,CR Ervine,c96311d4,Mohammad Hafeez,9ab63e7b,TS Kamunhukamwe,4e1b4323,0,0,0,0,0,,,,,,1,0,1
+1257183,2021,Zimbabwe,10,TS Kamunhukamwe,4e1b4323,Mohammad Hafeez,9ab63e7b,CR Ervine,c96311d4,0,0,0,0,1,TS Kamunhukamwe,4e1b4323,Mohammad Rizwan,2f26ac1a,stumped,0,0,0
+1257183,2021,Zimbabwe,11,CR Ervine,c96311d4,Usman Qadir,33742f04,RP Burl,b08252b8,0,0,0,0,0,,,,,,2,0,2
+1257183,2021,Zimbabwe,11,CR Ervine,c96311d4,Usman Qadir,33742f04,RP Burl,b08252b8,0,0,0,0,1,CR Ervine,c96311d4,Mohammad Nawaz (3),3086f7a4,caught,0,0,0
+1257183,2021,Zimbabwe,11,SC Williams,afe57f7a,Usman Qadir,33742f04,RP Burl,b08252b8,0,0,0,0,0,,,,,,2,0,2
+1257183,2021,Zimbabwe,11,SC Williams,afe57f7a,Usman Qadir,33742f04,RP Burl,b08252b8,0,0,0,0,0,,,,,,0,0,0
+1257183,2021,Zimbabwe,11,SC Williams,afe57f7a,Usman Qadir,33742f04,RP Burl,b08252b8,0,0,0,0,0,,,,,,0,0,0
+1257183,2021,Zimbabwe,11,SC Williams,afe57f7a,Usman Qadir,33742f04,RP Burl,b08252b8,0,0,0,0,0,,,,,,1,0,1
+1257183,2021,Zimbabwe,12,SC Williams,afe57f7a,Mohammad Hafeez,9ab63e7b,RP Burl,b08252b8,0,0,0,0,0,,,,,,0,0,0
+1257183,2021,Zimbabwe,12,SC Williams,afe57f7a,Mohammad Hafeez,9ab63e7b,RP Burl,b08252b8,0,0,0,0,0,,,,,,0,0,0
+1257183,2021,Zimbabwe,12,SC Williams,afe57f7a,Mohammad Hafeez,9ab63e7b,RP Burl,b08252b8,0,0,0,0,0,,,,,,1,0,1
+1257183,2021,Zimbabwe,12,RP Burl,b08252b8,Mohammad Hafeez,9ab63e7b,SC Williams,afe57f7a,0,0,0,0,0,,,,,,2,0,2
+1257183,2021,Zimbabwe,12,RP Burl,b08252b8,Mohammad Hafeez,9ab63e7b,SC Williams,afe57f7a,0,0,0,0,0,,,,,,1,0,1
+1257183,2021,Zimbabwe,12,SC Williams,afe57f7a,Mohammad Hafeez,9ab63e7b,RP Burl,b08252b8,0,0,0,0,0,,,,,,1,0,1
+1257183,2021,Zimbabwe,13,SC Williams,afe57f7a,Usman Qadir,33742f04,RP Burl,b08252b8,0,0,0,0,0,,,,,,4,0,4
+1257183,2021,Zimbabwe,13,SC Williams,afe57f7a,Usman Qadir,33742f04,RP Burl,b08252b8,0,0,0,0,1,SC Williams,afe57f7a,Fakhar Zaman,1777c020,caught,0,0,0
+1257183,2021,Zimbabwe,13,RW Chakabva,2f0d7e4a,Usman Qadir,33742f04,RP Burl,b08252b8,0,0,0,0,0,,,,,,3,0,3
+1257183,2021,Zimbabwe,13,RP Burl,b08252b8,Usman Qadir,33742f04,RW Chakabva,2f0d7e4a,0,0,0,0,0,,,,,,1,0,1
+1257183,2021,Zimbabwe,13,RW Chakabva,2f0d7e4a,Usman Qadir,33742f04,RP Burl,b08252b8,0,0,0,0,1,RW Chakabva,2f0d7e4a,,,lbw,0,0,0
+1257183,2021,Zimbabwe,13,LM Jongwe,b8704508,Usman Qadir,33742f04,RP Burl,b08252b8,0,0,0,0,0,,,,,,0,0,0
+1257183,2021,Zimbabwe,14,RP Burl,b08252b8,Mohammad Hafeez,9ab63e7b,LM Jongwe,b8704508,0,0,0,0,0,,,,,,0,0,0
+1257183,2021,Zimbabwe,14,RP Burl,b08252b8,Mohammad Hafeez,9ab63e7b,LM Jongwe,b8704508,0,0,0,0,0,,,,,,1,0,1
+1257183,2021,Zimbabwe,14,LM Jongwe,b8704508,Mohammad Hafeez,9ab63e7b,RP Burl,b08252b8,0,0,0,0,0,,,,,,0,0,0
+1257183,2021,Zimbabwe,14,LM Jongwe,b8704508,Mohammad Hafeez,9ab63e7b,RP Burl,b08252b8,0,0,0,0,0,,,,,,1,0,1
+1257183,2021,Zimbabwe,14,RP Burl,b08252b8,Mohammad Hafeez,9ab63e7b,LM Jongwe,b8704508,0,0,0,0,0,,,,,,0,0,0
+1257183,2021,Zimbabwe,14,RP Burl,b08252b8,Mohammad Hafeez,9ab63e7b,LM Jongwe,b8704508,0,0,0,0,0,,,,,,1,0,1
+1257183,2021,Zimbabwe,15,RP Burl,b08252b8,Usman Qadir,33742f04,LM Jongwe,b8704508,0,0,0,0,0,,,,,,1,0,1
+1257183,2021,Zimbabwe,15,LM Jongwe,b8704508,Usman Qadir,33742f04,RP Burl,b08252b8,0,0,0,0,0,,,,,,0,0,0
+1257183,2021,Zimbabwe,15,LM Jongwe,b8704508,Usman Qadir,33742f04,RP Burl,b08252b8,0,0,0,0,0,,,,,,1,0,1
+1257183,2021,Zimbabwe,15,RP Burl,b08252b8,Usman Qadir,33742f04,LM Jongwe,b8704508,0,0,0,0,0,,,,,,0,0,0
+1257183,2021,Zimbabwe,15,RP Burl,b08252b8,Usman Qadir,33742f04,LM Jongwe,b8704508,0,0,0,0,0,,,,,,1,0,1
+1257183,2021,Zimbabwe,15,LM Jongwe,b8704508,Usman Qadir,33742f04,RP Burl,b08252b8,0,0,0,0,0,,,,,,1,0,1
+1257183,2021,Zimbabwe,16,LM Jongwe,b8704508,Mohammad Hasnain,8596fe80,RP Burl,b08252b8,0,0,0,0,0,,,,,,0,0,0
+1257183,2021,Zimbabwe,16,LM Jongwe,b8704508,Mohammad Hasnain,8596fe80,RP Burl,b08252b8,0,0,0,0,0,,,,,,0,0,0
+1257183,2021,Zimbabwe,16,LM Jongwe,b8704508,Mohammad Hasnain,8596fe80,RP Burl,b08252b8,0,0,0,0,0,,,,,,4,0,4
+1257183,2021,Zimbabwe,16,LM Jongwe,b8704508,Mohammad Hasnain,8596fe80,RP Burl,b08252b8,0,0,0,0,0,,,,,,1,0,1
+1257183,2021,Zimbabwe,16,RP Burl,b08252b8,Mohammad Hasnain,8596fe80,LM Jongwe,b8704508,0,0,0,0,0,,,,,,0,0,0
+1257183,2021,Zimbabwe,16,RP Burl,b08252b8,Mohammad Hasnain,8596fe80,LM Jongwe,b8704508,0,0,0,0,0,,,,,,6,0,6
+1257183,2021,Zimbabwe,17,LM Jongwe,b8704508,Haris Rauf,24bb1c2f,RP Burl,b08252b8,0,0,0,0,0,,,,,,4,0,4
+1257183,2021,Zimbabwe,17,LM Jongwe,b8704508,Haris Rauf,24bb1c2f,RP Burl,b08252b8,0,0,0,0,0,,,,,,4,0,4
+1257183,2021,Zimbabwe,17,LM Jongwe,b8704508,Haris Rauf,24bb1c2f,RP Burl,b08252b8,0,0,0,0,0,,,,,,0,0,0
+1257183,2021,Zimbabwe,17,LM Jongwe,b8704508,Haris Rauf,24bb1c2f,RP Burl,b08252b8,0,0,0,0,0,,,,,,0,0,0
+1257183,2021,Zimbabwe,17,LM Jongwe,b8704508,Haris Rauf,24bb1c2f,RP Burl,b08252b8,0,0,0,0,0,,,,,,1,0,1
+1257183,2021,Zimbabwe,17,RP Burl,b08252b8,Haris Rauf,24bb1c2f,LM Jongwe,b8704508,0,0,0,0,1,RP Burl,b08252b8,,,bowled,0,0,0
+1257183,2021,Zimbabwe,18,LM Jongwe,b8704508,Mohammad Hasnain,8596fe80,WP Masakadza,4bc0a378,0,0,0,0,0,,,,,,0,0,0
+1257183,2021,Zimbabwe,18,LM Jongwe,b8704508,Mohammad Hasnain,8596fe80,WP Masakadza,4bc0a378,1,0,0,0,0,,,,,,0,1,1
+1257183,2021,Zimbabwe,18,LM Jongwe,b8704508,Mohammad Hasnain,8596fe80,WP Masakadza,4bc0a378,0,0,0,0,0,,,,,,0,0,0
+1257183,2021,Zimbabwe,18,LM Jongwe,b8704508,Mohammad Hasnain,8596fe80,WP Masakadza,4bc0a378,0,0,0,0,0,,,,,,6,0,6
+1257183,2021,Zimbabwe,18,LM Jongwe,b8704508,Mohammad Hasnain,8596fe80,WP Masakadza,4bc0a378,0,0,0,0,0,,,,,,1,0,1
+1257183,2021,Zimbabwe,18,WP Masakadza,4bc0a378,Mohammad Hasnain,8596fe80,LM Jongwe,b8704508,0,0,0,0,0,,,,,,0,0,0
+1257183,2021,Zimbabwe,18,WP Masakadza,4bc0a378,Mohammad Hasnain,8596fe80,LM Jongwe,b8704508,0,0,0,0,0,,,,,,0,0,0
+1257183,2021,Zimbabwe,19,LM Jongwe,b8704508,Haris Rauf,24bb1c2f,WP Masakadza,4bc0a378,0,0,0,0,0,,,,,,2,0,2
+1257183,2021,Zimbabwe,19,LM Jongwe,b8704508,Haris Rauf,24bb1c2f,WP Masakadza,4bc0a378,0,0,0,0,0,,,,,,2,0,2
+1257183,2021,Zimbabwe,19,LM Jongwe,b8704508,Haris Rauf,24bb1c2f,WP Masakadza,4bc0a378,0,0,0,0,0,,,,,,1,0,1
+1257183,2021,Zimbabwe,19,WP Masakadza,4bc0a378,Haris Rauf,24bb1c2f,LM Jongwe,b8704508,0,0,0,0,0,,,,,,1,0,1
+1257183,2021,Zimbabwe,19,LM Jongwe,b8704508,Haris Rauf,24bb1c2f,WP Masakadza,4bc0a378,0,0,0,0,0,,,,,,1,0,1
+1257183,2021,Zimbabwe,19,WP Masakadza,4bc0a378,Haris Rauf,24bb1c2f,LM Jongwe,b8704508,0,0,0,0,0,,,,,,1,0,1

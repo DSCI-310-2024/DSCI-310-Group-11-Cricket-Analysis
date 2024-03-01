@@ -1,0 +1,231 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1367733,2023,Malta,0,SSM Stanislaus,34dd3fd9,Junaid Khan,be0077ba,Jaspal Singh,adca37a2,1,0,0,0,0,,,,,,0,1,1
+1367733,2023,Malta,0,SSM Stanislaus,34dd3fd9,Junaid Khan,be0077ba,Jaspal Singh,adca37a2,0,0,0,0,0,,,,,,0,0,0
+1367733,2023,Malta,0,SSM Stanislaus,34dd3fd9,Junaid Khan,be0077ba,Jaspal Singh,adca37a2,1,0,0,0,0,,,,,,0,1,1
+1367733,2023,Malta,0,SSM Stanislaus,34dd3fd9,Junaid Khan,be0077ba,Jaspal Singh,adca37a2,0,0,0,0,0,,,,,,1,0,1
+1367733,2023,Malta,0,Jaspal Singh,adca37a2,Junaid Khan,be0077ba,SSM Stanislaus,34dd3fd9,0,0,0,0,0,,,,,,0,0,0
+1367733,2023,Malta,0,Jaspal Singh,adca37a2,Junaid Khan,be0077ba,SSM Stanislaus,34dd3fd9,0,0,0,0,0,,,,,,1,0,1
+1367733,2023,Malta,0,SSM Stanislaus,34dd3fd9,Junaid Khan,be0077ba,Jaspal Singh,adca37a2,0,0,0,0,0,,,,,,0,0,0
+1367733,2023,Malta,0,SSM Stanislaus,34dd3fd9,Junaid Khan,be0077ba,Jaspal Singh,adca37a2,0,0,0,0,0,,,,,,0,0,0
+1367733,2023,Malta,1,Jaspal Singh,adca37a2,Najjam Shahzad,58aa33cd,SSM Stanislaus,34dd3fd9,1,0,0,0,0,,,,,,0,1,1
+1367733,2023,Malta,1,Jaspal Singh,adca37a2,Najjam Shahzad,58aa33cd,SSM Stanislaus,34dd3fd9,0,0,0,0,0,,,,,,0,0,0
+1367733,2023,Malta,1,Jaspal Singh,adca37a2,Najjam Shahzad,58aa33cd,SSM Stanislaus,34dd3fd9,0,0,0,0,0,,,,,,1,0,1
+1367733,2023,Malta,1,SSM Stanislaus,34dd3fd9,Najjam Shahzad,58aa33cd,Jaspal Singh,adca37a2,0,0,0,0,1,SSM Stanislaus,34dd3fd9,,,lbw,0,0,0
+1367733,2023,Malta,1,Amar Sharma,14e1fdab,Najjam Shahzad,58aa33cd,Jaspal Singh,adca37a2,0,0,0,0,0,,,,,,0,0,0
+1367733,2023,Malta,1,Amar Sharma,14e1fdab,Najjam Shahzad,58aa33cd,Jaspal Singh,adca37a2,0,0,0,0,0,,,,,,1,0,1
+1367733,2023,Malta,1,Jaspal Singh,adca37a2,Najjam Shahzad,58aa33cd,Amar Sharma,14e1fdab,2,0,0,0,0,,,,,,0,2,2
+1367733,2023,Malta,1,Amar Sharma,14e1fdab,Najjam Shahzad,58aa33cd,Jaspal Singh,adca37a2,0,1,0,0,0,,,,,,0,1,1
+1367733,2023,Malta,1,Amar Sharma,14e1fdab,Najjam Shahzad,58aa33cd,Jaspal Singh,adca37a2,0,0,0,0,0,,,,,,2,0,2
+1367733,2023,Malta,2,Jaspal Singh,adca37a2,Junaid Khan,be0077ba,Amar Sharma,14e1fdab,0,0,0,0,0,,,,,,0,0,0
+1367733,2023,Malta,2,Jaspal Singh,adca37a2,Junaid Khan,be0077ba,Amar Sharma,14e1fdab,0,0,0,0,0,,,,,,0,0,0
+1367733,2023,Malta,2,Jaspal Singh,adca37a2,Junaid Khan,be0077ba,Amar Sharma,14e1fdab,0,0,0,0,0,,,,,,1,0,1
+1367733,2023,Malta,2,Amar Sharma,14e1fdab,Junaid Khan,be0077ba,Jaspal Singh,adca37a2,0,0,0,0,0,,,,,,1,0,1
+1367733,2023,Malta,2,Jaspal Singh,adca37a2,Junaid Khan,be0077ba,Amar Sharma,14e1fdab,0,0,0,0,0,,,,,,0,0,0
+1367733,2023,Malta,2,Jaspal Singh,adca37a2,Junaid Khan,be0077ba,Amar Sharma,14e1fdab,0,0,0,0,0,,,,,,0,0,0
+1367733,2023,Malta,3,Amar Sharma,14e1fdab,Najjam Shahzad,58aa33cd,Jaspal Singh,adca37a2,0,0,0,0,0,,,,,,4,0,4
+1367733,2023,Malta,3,Amar Sharma,14e1fdab,Najjam Shahzad,58aa33cd,Jaspal Singh,adca37a2,0,0,0,0,0,,,,,,1,0,1
+1367733,2023,Malta,3,Jaspal Singh,adca37a2,Najjam Shahzad,58aa33cd,Amar Sharma,14e1fdab,0,0,0,0,0,,,,,,1,0,1
+1367733,2023,Malta,3,Amar Sharma,14e1fdab,Najjam Shahzad,58aa33cd,Jaspal Singh,adca37a2,0,0,0,0,0,,,,,,0,0,0
+1367733,2023,Malta,3,Amar Sharma,14e1fdab,Najjam Shahzad,58aa33cd,Jaspal Singh,adca37a2,0,0,0,0,0,,,,,,1,0,1
+1367733,2023,Malta,3,Jaspal Singh,adca37a2,Najjam Shahzad,58aa33cd,Amar Sharma,14e1fdab,0,0,0,0,0,,,,,,4,0,4
+1367733,2023,Malta,4,Amar Sharma,14e1fdab,Junaid Khan,be0077ba,Jaspal Singh,adca37a2,0,0,0,0,0,,,,,,0,0,0
+1367733,2023,Malta,4,Amar Sharma,14e1fdab,Junaid Khan,be0077ba,Jaspal Singh,adca37a2,0,0,0,0,0,,,,,,0,0,0
+1367733,2023,Malta,4,Amar Sharma,14e1fdab,Junaid Khan,be0077ba,Jaspal Singh,adca37a2,0,0,0,0,0,,,,,,1,0,1
+1367733,2023,Malta,4,Jaspal Singh,adca37a2,Junaid Khan,be0077ba,Amar Sharma,14e1fdab,0,0,0,0,0,,,,,,0,0,0
+1367733,2023,Malta,4,Jaspal Singh,adca37a2,Junaid Khan,be0077ba,Amar Sharma,14e1fdab,0,0,0,0,0,,,,,,0,0,0
+1367733,2023,Malta,4,Jaspal Singh,adca37a2,Junaid Khan,be0077ba,Amar Sharma,14e1fdab,0,0,0,0,0,,,,,,0,0,0
+1367733,2023,Malta,5,Amar Sharma,14e1fdab,F Stoman,69e53eb3,Jaspal Singh,adca37a2,0,0,0,0,1,Amar Sharma,14e1fdab,,,bowled,0,0,0
+1367733,2023,Malta,5,N Khanna,0ec6a7c3,F Stoman,69e53eb3,Jaspal Singh,adca37a2,1,0,0,0,0,,,,,,0,1,1
+1367733,2023,Malta,5,N Khanna,0ec6a7c3,F Stoman,69e53eb3,Jaspal Singh,adca37a2,0,0,0,0,0,,,,,,0,0,0
+1367733,2023,Malta,5,N Khanna,0ec6a7c3,F Stoman,69e53eb3,Jaspal Singh,adca37a2,0,0,0,0,0,,,,,,0,0,0
+1367733,2023,Malta,5,N Khanna,0ec6a7c3,F Stoman,69e53eb3,Jaspal Singh,adca37a2,1,0,0,0,0,,,,,,0,1,1
+1367733,2023,Malta,5,N Khanna,0ec6a7c3,F Stoman,69e53eb3,Jaspal Singh,adca37a2,0,0,0,0,0,,,,,,0,0,0
+1367733,2023,Malta,5,N Khanna,0ec6a7c3,F Stoman,69e53eb3,Jaspal Singh,adca37a2,0,0,0,0,0,,,,,,4,0,4
+1367733,2023,Malta,5,N Khanna,0ec6a7c3,F Stoman,69e53eb3,Jaspal Singh,adca37a2,0,0,0,0,0,,,,,,0,0,0
+1367733,2023,Malta,6,Jaspal Singh,adca37a2,Assad Mehmood,71b1e668,N Khanna,0ec6a7c3,0,0,0,0,0,,,,,,1,0,1
+1367733,2023,Malta,6,N Khanna,0ec6a7c3,Assad Mehmood,71b1e668,Jaspal Singh,adca37a2,0,0,0,0,0,,,,,,1,0,1
+1367733,2023,Malta,6,Jaspal Singh,adca37a2,Assad Mehmood,71b1e668,N Khanna,0ec6a7c3,0,0,0,0,0,,,,,,1,0,1
+1367733,2023,Malta,6,N Khanna,0ec6a7c3,Assad Mehmood,71b1e668,Jaspal Singh,adca37a2,0,0,0,0,0,,,,,,0,0,0
+1367733,2023,Malta,6,N Khanna,0ec6a7c3,Assad Mehmood,71b1e668,Jaspal Singh,adca37a2,0,0,0,0,0,,,,,,0,0,0
+1367733,2023,Malta,6,N Khanna,0ec6a7c3,Assad Mehmood,71b1e668,Jaspal Singh,adca37a2,0,0,0,0,0,,,,,,0,0,0
+1367733,2023,Malta,7,Jaspal Singh,adca37a2,F Stoman,69e53eb3,N Khanna,0ec6a7c3,0,0,0,0,0,,,,,,1,0,1
+1367733,2023,Malta,7,N Khanna,0ec6a7c3,F Stoman,69e53eb3,Jaspal Singh,adca37a2,0,0,0,0,1,N Khanna,0ec6a7c3,ARA Chambers,8db27a28,caught,0,0,0
+1367733,2023,Malta,7,VP Thamotharam,eb40ed89,F Stoman,69e53eb3,Jaspal Singh,adca37a2,0,0,0,0,0,,,,,,1,0,1
+1367733,2023,Malta,7,Jaspal Singh,adca37a2,F Stoman,69e53eb3,VP Thamotharam,eb40ed89,0,0,0,0,0,,,,,,0,0,0
+1367733,2023,Malta,7,Jaspal Singh,adca37a2,F Stoman,69e53eb3,VP Thamotharam,eb40ed89,0,0,0,0,0,,,,,,0,0,0
+1367733,2023,Malta,7,Jaspal Singh,adca37a2,F Stoman,69e53eb3,VP Thamotharam,eb40ed89,0,0,0,0,0,,,,,,4,0,4
+1367733,2023,Malta,8,VP Thamotharam,eb40ed89,Assad Mehmood,71b1e668,Jaspal Singh,adca37a2,0,0,0,0,0,,,,,,0,0,0
+1367733,2023,Malta,8,VP Thamotharam,eb40ed89,Assad Mehmood,71b1e668,Jaspal Singh,adca37a2,0,0,0,0,0,,,,,,0,0,0
+1367733,2023,Malta,8,VP Thamotharam,eb40ed89,Assad Mehmood,71b1e668,Jaspal Singh,adca37a2,0,0,0,0,0,,,,,,1,0,1
+1367733,2023,Malta,8,Jaspal Singh,adca37a2,Assad Mehmood,71b1e668,VP Thamotharam,eb40ed89,0,0,0,0,0,,,,,,0,0,0
+1367733,2023,Malta,8,Jaspal Singh,adca37a2,Assad Mehmood,71b1e668,VP Thamotharam,eb40ed89,5,0,0,0,0,,,,,,0,5,5
+1367733,2023,Malta,8,Jaspal Singh,adca37a2,Assad Mehmood,71b1e668,VP Thamotharam,eb40ed89,0,0,0,0,0,,,,,,1,0,1
+1367733,2023,Malta,8,VP Thamotharam,eb40ed89,Assad Mehmood,71b1e668,Jaspal Singh,adca37a2,0,0,0,0,0,,,,,,0,0,0
+1367733,2023,Malta,9,Jaspal Singh,adca37a2,F Stoman,69e53eb3,VP Thamotharam,eb40ed89,0,0,0,0,0,,,,,,1,0,1
+1367733,2023,Malta,9,VP Thamotharam,eb40ed89,F Stoman,69e53eb3,Jaspal Singh,adca37a2,0,0,0,0,0,,,,,,1,0,1
+1367733,2023,Malta,9,Jaspal Singh,adca37a2,F Stoman,69e53eb3,VP Thamotharam,eb40ed89,0,0,0,0,0,,,,,,4,0,4
+1367733,2023,Malta,9,Jaspal Singh,adca37a2,F Stoman,69e53eb3,VP Thamotharam,eb40ed89,0,0,0,0,0,,,,,,0,0,0
+1367733,2023,Malta,9,Jaspal Singh,adca37a2,F Stoman,69e53eb3,VP Thamotharam,eb40ed89,0,0,0,0,0,,,,,,1,0,1
+1367733,2023,Malta,9,VP Thamotharam,eb40ed89,F Stoman,69e53eb3,Jaspal Singh,adca37a2,0,0,0,0,0,,,,,,1,0,1
+1367733,2023,Malta,10,VP Thamotharam,eb40ed89,Assad Mehmood,71b1e668,Jaspal Singh,adca37a2,0,0,0,0,0,,,,,,0,0,0
+1367733,2023,Malta,10,VP Thamotharam,eb40ed89,Assad Mehmood,71b1e668,Jaspal Singh,adca37a2,0,0,0,0,0,,,,,,0,0,0
+1367733,2023,Malta,10,VP Thamotharam,eb40ed89,Assad Mehmood,71b1e668,Jaspal Singh,adca37a2,0,0,0,0,0,,,,,,1,0,1
+1367733,2023,Malta,10,Jaspal Singh,adca37a2,Assad Mehmood,71b1e668,VP Thamotharam,eb40ed89,0,0,0,0,0,,,,,,0,0,0
+1367733,2023,Malta,10,Jaspal Singh,adca37a2,Assad Mehmood,71b1e668,VP Thamotharam,eb40ed89,0,0,0,0,0,,,,,,1,0,1
+1367733,2023,Malta,10,VP Thamotharam,eb40ed89,Assad Mehmood,71b1e668,Jaspal Singh,adca37a2,0,0,0,0,0,,,,,,1,0,1
+1367733,2023,Malta,11,VP Thamotharam,eb40ed89,F Stoman,69e53eb3,Jaspal Singh,adca37a2,0,0,0,0,0,,,,,,0,0,0
+1367733,2023,Malta,11,VP Thamotharam,eb40ed89,F Stoman,69e53eb3,Jaspal Singh,adca37a2,0,0,0,0,0,,,,,,1,0,1
+1367733,2023,Malta,11,Jaspal Singh,adca37a2,F Stoman,69e53eb3,VP Thamotharam,eb40ed89,0,0,0,0,0,,,,,,6,0,6
+1367733,2023,Malta,11,Jaspal Singh,adca37a2,F Stoman,69e53eb3,VP Thamotharam,eb40ed89,0,0,0,0,0,,,,,,6,0,6
+1367733,2023,Malta,11,Jaspal Singh,adca37a2,F Stoman,69e53eb3,VP Thamotharam,eb40ed89,0,0,0,0,0,,,,,,4,0,4
+1367733,2023,Malta,11,Jaspal Singh,adca37a2,F Stoman,69e53eb3,VP Thamotharam,eb40ed89,1,0,0,0,0,,,,,,0,1,1
+1367733,2023,Malta,11,Jaspal Singh,adca37a2,F Stoman,69e53eb3,VP Thamotharam,eb40ed89,0,0,0,0,0,,,,,,0,0,0
+1367733,2023,Malta,12,VP Thamotharam,eb40ed89,Sirajullah Khadim,ff36e706,Jaspal Singh,adca37a2,0,0,0,0,0,,,,,,4,0,4
+1367733,2023,Malta,12,VP Thamotharam,eb40ed89,Sirajullah Khadim,ff36e706,Jaspal Singh,adca37a2,0,0,0,0,0,,,,,,6,0,6
+1367733,2023,Malta,12,VP Thamotharam,eb40ed89,Sirajullah Khadim,ff36e706,Jaspal Singh,adca37a2,0,0,0,0,0,,,,,,1,0,1
+1367733,2023,Malta,12,Jaspal Singh,adca37a2,Sirajullah Khadim,ff36e706,VP Thamotharam,eb40ed89,0,0,0,0,0,,,,,,0,0,0
+1367733,2023,Malta,12,Jaspal Singh,adca37a2,Sirajullah Khadim,ff36e706,VP Thamotharam,eb40ed89,0,0,1,0,0,,,,,,0,1,1
+1367733,2023,Malta,12,VP Thamotharam,eb40ed89,Sirajullah Khadim,ff36e706,Jaspal Singh,adca37a2,0,0,0,0,0,,,,,,0,0,0
+1367733,2023,Malta,13,Jaspal Singh,adca37a2,Zohaib Sarwar,bd3cecc6,VP Thamotharam,eb40ed89,0,0,0,0,0,,,,,,4,0,4
+1367733,2023,Malta,13,Jaspal Singh,adca37a2,Zohaib Sarwar,bd3cecc6,VP Thamotharam,eb40ed89,0,0,0,0,0,,,,,,1,0,1
+1367733,2023,Malta,13,VP Thamotharam,eb40ed89,Zohaib Sarwar,bd3cecc6,Jaspal Singh,adca37a2,0,0,0,0,0,,,,,,1,0,1
+1367733,2023,Malta,13,Jaspal Singh,adca37a2,Zohaib Sarwar,bd3cecc6,VP Thamotharam,eb40ed89,0,0,0,0,0,,,,,,2,0,2
+1367733,2023,Malta,13,Jaspal Singh,adca37a2,Zohaib Sarwar,bd3cecc6,VP Thamotharam,eb40ed89,0,0,0,0,0,,,,,,1,0,1
+1367733,2023,Malta,13,VP Thamotharam,eb40ed89,Zohaib Sarwar,bd3cecc6,Jaspal Singh,adca37a2,0,0,0,0,0,,,,,,0,0,0
+1367733,2023,Malta,14,Jaspal Singh,adca37a2,Sirajullah Khadim,ff36e706,VP Thamotharam,eb40ed89,0,0,0,0,0,,,,,,1,0,1
+1367733,2023,Malta,14,VP Thamotharam,eb40ed89,Sirajullah Khadim,ff36e706,Jaspal Singh,adca37a2,0,0,0,0,0,,,,,,1,0,1
+1367733,2023,Malta,14,Jaspal Singh,adca37a2,Sirajullah Khadim,ff36e706,VP Thamotharam,eb40ed89,0,0,0,0,0,,,,,,0,0,0
+1367733,2023,Malta,14,Jaspal Singh,adca37a2,Sirajullah Khadim,ff36e706,VP Thamotharam,eb40ed89,0,0,0,0,0,,,,,,1,0,1
+1367733,2023,Malta,14,VP Thamotharam,eb40ed89,Sirajullah Khadim,ff36e706,Jaspal Singh,adca37a2,0,0,0,0,0,,,,,,6,0,6
+1367733,2023,Malta,14,VP Thamotharam,eb40ed89,Sirajullah Khadim,ff36e706,Jaspal Singh,adca37a2,0,0,0,0,0,,,,,,6,0,6
+1367733,2023,Malta,15,Jaspal Singh,adca37a2,Zohaib Sarwar,bd3cecc6,VP Thamotharam,eb40ed89,0,0,0,0,0,,,,,,1,0,1
+1367733,2023,Malta,15,VP Thamotharam,eb40ed89,Zohaib Sarwar,bd3cecc6,Jaspal Singh,adca37a2,0,0,0,0,0,,,,,,0,0,0
+1367733,2023,Malta,15,VP Thamotharam,eb40ed89,Zohaib Sarwar,bd3cecc6,Jaspal Singh,adca37a2,0,0,0,0,0,,,,,,1,0,1
+1367733,2023,Malta,15,Jaspal Singh,adca37a2,Zohaib Sarwar,bd3cecc6,VP Thamotharam,eb40ed89,0,0,0,0,0,,,,,,6,0,6
+1367733,2023,Malta,15,Jaspal Singh,adca37a2,Zohaib Sarwar,bd3cecc6,VP Thamotharam,eb40ed89,0,0,0,0,0,,,,,,1,0,1
+1367733,2023,Malta,15,VP Thamotharam,eb40ed89,Zohaib Sarwar,bd3cecc6,Jaspal Singh,adca37a2,0,0,0,0,0,,,,,,1,0,1
+1367733,2023,Malta,16,VP Thamotharam,eb40ed89,Junaid Khan,be0077ba,Jaspal Singh,adca37a2,0,0,0,0,0,,,,,,1,0,1
+1367733,2023,Malta,16,Jaspal Singh,adca37a2,Junaid Khan,be0077ba,VP Thamotharam,eb40ed89,0,0,0,1,0,,,,,,0,1,1
+1367733,2023,Malta,16,VP Thamotharam,eb40ed89,Junaid Khan,be0077ba,Jaspal Singh,adca37a2,0,0,1,0,0,,,,,,0,1,1
+1367733,2023,Malta,16,Jaspal Singh,adca37a2,Junaid Khan,be0077ba,VP Thamotharam,eb40ed89,0,0,0,0,0,,,,,,0,0,0
+1367733,2023,Malta,16,Jaspal Singh,adca37a2,Junaid Khan,be0077ba,VP Thamotharam,eb40ed89,0,0,0,0,0,,,,,,1,0,1
+1367733,2023,Malta,16,VP Thamotharam,eb40ed89,Junaid Khan,be0077ba,Jaspal Singh,adca37a2,0,0,0,0,0,,,,,,1,0,1
+1367733,2023,Malta,17,VP Thamotharam,eb40ed89,Zohaib Sarwar,bd3cecc6,Jaspal Singh,adca37a2,0,0,0,0,0,,,,,,1,0,1
+1367733,2023,Malta,17,Jaspal Singh,adca37a2,Zohaib Sarwar,bd3cecc6,VP Thamotharam,eb40ed89,0,0,0,0,0,,,,,,1,0,1
+1367733,2023,Malta,17,VP Thamotharam,eb40ed89,Zohaib Sarwar,bd3cecc6,Jaspal Singh,adca37a2,0,0,0,0,0,,,,,,4,0,4
+1367733,2023,Malta,17,VP Thamotharam,eb40ed89,Zohaib Sarwar,bd3cecc6,Jaspal Singh,adca37a2,0,0,0,0,0,,,,,,0,0,0
+1367733,2023,Malta,17,VP Thamotharam,eb40ed89,Zohaib Sarwar,bd3cecc6,Jaspal Singh,adca37a2,0,0,0,0,0,,,,,,1,0,1
+1367733,2023,Malta,17,Jaspal Singh,adca37a2,Zohaib Sarwar,bd3cecc6,VP Thamotharam,eb40ed89,0,0,0,0,0,,,,,,2,0,2
+1367733,2023,Malta,18,VP Thamotharam,eb40ed89,Najjam Shahzad,58aa33cd,Jaspal Singh,adca37a2,0,1,0,0,0,,,,,,0,1,1
+1367733,2023,Malta,18,VP Thamotharam,eb40ed89,Najjam Shahzad,58aa33cd,Jaspal Singh,adca37a2,0,0,0,0,0,,,,,,0,0,0
+1367733,2023,Malta,18,VP Thamotharam,eb40ed89,Najjam Shahzad,58aa33cd,Jaspal Singh,adca37a2,0,0,0,0,0,,,,,,0,0,0
+1367733,2023,Malta,18,VP Thamotharam,eb40ed89,Najjam Shahzad,58aa33cd,Jaspal Singh,adca37a2,0,0,0,0,1,VP Thamotharam,eb40ed89,,,bowled,0,0,0
+1367733,2023,Malta,18,Aaftab Alam Khan,9dbc77b3,Najjam Shahzad,58aa33cd,Jaspal Singh,adca37a2,0,0,0,0,0,,,,,,1,0,1
+1367733,2023,Malta,18,Jaspal Singh,adca37a2,Najjam Shahzad,58aa33cd,Aaftab Alam Khan,9dbc77b3,2,0,0,0,0,,,,,,0,2,2
+1367733,2023,Malta,18,Aaftab Alam Khan,9dbc77b3,Najjam Shahzad,58aa33cd,Jaspal Singh,adca37a2,0,0,0,0,0,,,,,,1,0,1
+1367733,2023,Malta,18,Jaspal Singh,adca37a2,Najjam Shahzad,58aa33cd,Aaftab Alam Khan,9dbc77b3,0,0,0,0,0,,,,,,0,0,0
+1367733,2023,Malta,19,Aaftab Alam Khan,9dbc77b3,Zohaib Sarwar,bd3cecc6,Jaspal Singh,adca37a2,0,0,0,0,0,,,,,,6,0,6
+1367733,2023,Malta,19,Aaftab Alam Khan,9dbc77b3,Zohaib Sarwar,bd3cecc6,Jaspal Singh,adca37a2,0,0,0,0,0,,,,,,2,0,2
+1367733,2023,Malta,19,Aaftab Alam Khan,9dbc77b3,Zohaib Sarwar,bd3cecc6,Jaspal Singh,adca37a2,1,0,0,0,0,,,,,,0,1,1
+1367733,2023,Malta,19,Aaftab Alam Khan,9dbc77b3,Zohaib Sarwar,bd3cecc6,Jaspal Singh,adca37a2,0,0,0,0,0,,,,,,0,0,0
+1367733,2023,Malta,19,Aaftab Alam Khan,9dbc77b3,Zohaib Sarwar,bd3cecc6,Jaspal Singh,adca37a2,0,0,0,0,0,,,,,,0,0,0
+1367733,2023,Malta,19,Aaftab Alam Khan,9dbc77b3,Zohaib Sarwar,bd3cecc6,Jaspal Singh,adca37a2,0,0,0,0,0,,,,,,1,0,1
+1367733,2023,Malta,19,Jaspal Singh,adca37a2,Zohaib Sarwar,bd3cecc6,Aaftab Alam Khan,9dbc77b3,0,0,0,0,0,,,,,,4,0,4
+1367733,2023,Portugal,0,Kuldeep,61c48027,Amar Sharma,14e1fdab,ARA Chambers,8db27a28,0,0,0,0,0,,,,,,0,0,0
+1367733,2023,Portugal,0,Kuldeep,61c48027,Amar Sharma,14e1fdab,ARA Chambers,8db27a28,1,0,0,0,0,,,,,,0,1,1
+1367733,2023,Portugal,0,Kuldeep,61c48027,Amar Sharma,14e1fdab,ARA Chambers,8db27a28,0,0,0,0,0,,,,,,0,0,0
+1367733,2023,Portugal,0,Kuldeep,61c48027,Amar Sharma,14e1fdab,ARA Chambers,8db27a28,0,0,0,0,0,,,,,,6,0,6
+1367733,2023,Portugal,0,Kuldeep,61c48027,Amar Sharma,14e1fdab,ARA Chambers,8db27a28,0,0,0,0,0,,,,,,0,0,0
+1367733,2023,Portugal,0,Kuldeep,61c48027,Amar Sharma,14e1fdab,ARA Chambers,8db27a28,0,0,0,0,0,,,,,,4,0,4
+1367733,2023,Portugal,0,Kuldeep,61c48027,Amar Sharma,14e1fdab,ARA Chambers,8db27a28,0,0,0,0,0,,,,,,1,0,1
+1367733,2023,Portugal,1,Kuldeep,61c48027,Fazil Rahman,d18b7f34,ARA Chambers,8db27a28,0,0,0,0,0,,,,,,0,0,0
+1367733,2023,Portugal,1,Kuldeep,61c48027,Fazil Rahman,d18b7f34,ARA Chambers,8db27a28,0,0,0,0,0,,,,,,4,0,4
+1367733,2023,Portugal,1,Kuldeep,61c48027,Fazil Rahman,d18b7f34,ARA Chambers,8db27a28,0,0,0,0,0,,,,,,6,0,6
+1367733,2023,Portugal,1,Kuldeep,61c48027,Fazil Rahman,d18b7f34,ARA Chambers,8db27a28,0,0,0,0,0,,,,,,4,0,4
+1367733,2023,Portugal,1,Kuldeep,61c48027,Fazil Rahman,d18b7f34,ARA Chambers,8db27a28,0,0,0,0,0,,,,,,1,0,1
+1367733,2023,Portugal,1,ARA Chambers,8db27a28,Fazil Rahman,d18b7f34,Kuldeep,61c48027,0,0,0,0,0,,,,,,0,0,0
+1367733,2023,Portugal,2,Kuldeep,61c48027,Fanyan Mughal,e85bb4b3,ARA Chambers,8db27a28,1,0,0,0,0,,,,,,0,1,1
+1367733,2023,Portugal,2,Kuldeep,61c48027,Fanyan Mughal,e85bb4b3,ARA Chambers,8db27a28,0,0,0,0,0,,,,,,1,0,1
+1367733,2023,Portugal,2,ARA Chambers,8db27a28,Fanyan Mughal,e85bb4b3,Kuldeep,61c48027,0,0,1,0,0,,,,,,0,1,1
+1367733,2023,Portugal,2,Kuldeep,61c48027,Fanyan Mughal,e85bb4b3,ARA Chambers,8db27a28,0,0,0,0,0,,,,,,1,0,1
+1367733,2023,Portugal,2,ARA Chambers,8db27a28,Fanyan Mughal,e85bb4b3,Kuldeep,61c48027,1,0,0,0,0,,,,,,0,1,1
+1367733,2023,Portugal,2,ARA Chambers,8db27a28,Fanyan Mughal,e85bb4b3,Kuldeep,61c48027,0,0,0,0,0,,,,,,0,0,0
+1367733,2023,Portugal,2,ARA Chambers,8db27a28,Fanyan Mughal,e85bb4b3,Kuldeep,61c48027,0,0,0,0,0,,,,,,0,0,0
+1367733,2023,Portugal,2,ARA Chambers,8db27a28,Fanyan Mughal,e85bb4b3,Kuldeep,61c48027,0,0,0,0,0,,,,,,0,0,0
+1367733,2023,Portugal,3,Kuldeep,61c48027,VP Thamotharam,eb40ed89,ARA Chambers,8db27a28,0,0,0,0,0,,,,,,0,0,0
+1367733,2023,Portugal,3,Kuldeep,61c48027,VP Thamotharam,eb40ed89,ARA Chambers,8db27a28,1,0,0,0,0,,,,,,0,1,1
+1367733,2023,Portugal,3,Kuldeep,61c48027,VP Thamotharam,eb40ed89,ARA Chambers,8db27a28,0,0,0,0,0,,,,,,6,0,6
+1367733,2023,Portugal,3,Kuldeep,61c48027,VP Thamotharam,eb40ed89,ARA Chambers,8db27a28,0,0,0,0,0,,,,,,6,0,6
+1367733,2023,Portugal,3,Kuldeep,61c48027,VP Thamotharam,eb40ed89,ARA Chambers,8db27a28,0,0,0,0,0,,,,,,0,0,0
+1367733,2023,Portugal,3,Kuldeep,61c48027,VP Thamotharam,eb40ed89,ARA Chambers,8db27a28,0,0,0,0,0,,,,,,6,0,6
+1367733,2023,Portugal,3,Kuldeep,61c48027,VP Thamotharam,eb40ed89,ARA Chambers,8db27a28,0,0,0,0,0,,,,,,6,0,6
+1367733,2023,Portugal,4,ARA Chambers,8db27a28,Fazil Rahman,d18b7f34,Kuldeep,61c48027,0,0,0,0,0,,,,,,1,0,1
+1367733,2023,Portugal,4,Kuldeep,61c48027,Fazil Rahman,d18b7f34,ARA Chambers,8db27a28,0,0,0,0,0,,,,,,4,0,4
+1367733,2023,Portugal,4,Kuldeep,61c48027,Fazil Rahman,d18b7f34,ARA Chambers,8db27a28,0,0,0,0,0,,,,,,0,0,0
+1367733,2023,Portugal,4,Kuldeep,61c48027,Fazil Rahman,d18b7f34,ARA Chambers,8db27a28,0,0,0,0,0,,,,,,4,0,4
+1367733,2023,Portugal,4,Kuldeep,61c48027,Fazil Rahman,d18b7f34,ARA Chambers,8db27a28,0,0,0,0,0,,,,,,6,0,6
+1367733,2023,Portugal,4,Kuldeep,61c48027,Fazil Rahman,d18b7f34,ARA Chambers,8db27a28,0,0,0,0,0,,,,,,6,0,6
+1367733,2023,Portugal,5,ARA Chambers,8db27a28,Yash Singh,7adc2d68,Kuldeep,61c48027,0,0,0,0,0,,,,,,0,0,0
+1367733,2023,Portugal,5,ARA Chambers,8db27a28,Yash Singh,7adc2d68,Kuldeep,61c48027,0,0,0,0,0,,,,,,0,0,0
+1367733,2023,Portugal,5,ARA Chambers,8db27a28,Yash Singh,7adc2d68,Kuldeep,61c48027,0,0,0,0,0,,,,,,4,0,4
+1367733,2023,Portugal,5,ARA Chambers,8db27a28,Yash Singh,7adc2d68,Kuldeep,61c48027,0,0,0,0,0,,,,,,4,0,4
+1367733,2023,Portugal,5,ARA Chambers,8db27a28,Yash Singh,7adc2d68,Kuldeep,61c48027,0,0,0,0,0,,,,,,1,0,1
+1367733,2023,Portugal,5,Kuldeep,61c48027,Yash Singh,7adc2d68,ARA Chambers,8db27a28,0,0,0,0,0,,,,,,2,0,2
+1367733,2023,Portugal,6,ARA Chambers,8db27a28,D Marks,0813a8b1,Kuldeep,61c48027,0,0,0,0,0,,,,,,1,0,1
+1367733,2023,Portugal,6,Kuldeep,61c48027,D Marks,0813a8b1,ARA Chambers,8db27a28,0,0,0,0,0,,,,,,0,0,0
+1367733,2023,Portugal,6,Kuldeep,61c48027,D Marks,0813a8b1,ARA Chambers,8db27a28,0,0,0,0,0,,,,,,0,0,0
+1367733,2023,Portugal,6,Kuldeep,61c48027,D Marks,0813a8b1,ARA Chambers,8db27a28,0,0,0,0,0,,,,,,1,0,1
+1367733,2023,Portugal,6,ARA Chambers,8db27a28,D Marks,0813a8b1,Kuldeep,61c48027,0,0,0,0,0,,,,,,0,0,0
+1367733,2023,Portugal,6,ARA Chambers,8db27a28,D Marks,0813a8b1,Kuldeep,61c48027,0,0,0,0,0,,,,,,0,0,0
+1367733,2023,Portugal,7,Kuldeep,61c48027,Yash Singh,7adc2d68,ARA Chambers,8db27a28,0,0,0,0,0,,,,,,1,0,1
+1367733,2023,Portugal,7,ARA Chambers,8db27a28,Yash Singh,7adc2d68,Kuldeep,61c48027,0,0,0,0,0,,,,,,1,0,1
+1367733,2023,Portugal,7,Kuldeep,61c48027,Yash Singh,7adc2d68,ARA Chambers,8db27a28,0,0,0,0,0,,,,,,4,0,4
+1367733,2023,Portugal,7,Kuldeep,61c48027,Yash Singh,7adc2d68,ARA Chambers,8db27a28,0,0,0,0,1,Kuldeep,61c48027,Fanyan Mughal,e85bb4b3,caught,0,0,0
+1367733,2023,Portugal,7,M Machado,fd34bcb0,Yash Singh,7adc2d68,ARA Chambers,8db27a28,0,0,0,0,0,,,,,,1,0,1
+1367733,2023,Portugal,7,ARA Chambers,8db27a28,Yash Singh,7adc2d68,M Machado,fd34bcb0,0,0,0,0,0,,,,,,1,0,1
+1367733,2023,Portugal,8,ARA Chambers,8db27a28,D Marks,0813a8b1,M Machado,fd34bcb0,0,0,0,0,0,,,,,,0,0,0
+1367733,2023,Portugal,8,ARA Chambers,8db27a28,D Marks,0813a8b1,M Machado,fd34bcb0,0,0,0,0,0,,,,,,4,0,4
+1367733,2023,Portugal,8,ARA Chambers,8db27a28,D Marks,0813a8b1,M Machado,fd34bcb0,1,0,0,0,0,,,,,,0,1,1
+1367733,2023,Portugal,8,ARA Chambers,8db27a28,D Marks,0813a8b1,M Machado,fd34bcb0,0,0,0,0,0,,,,,,0,0,0
+1367733,2023,Portugal,8,ARA Chambers,8db27a28,D Marks,0813a8b1,M Machado,fd34bcb0,0,0,0,0,0,,,,,,1,0,1
+1367733,2023,Portugal,8,M Machado,fd34bcb0,D Marks,0813a8b1,ARA Chambers,8db27a28,0,0,0,0,1,M Machado,fd34bcb0,Aaftab Alam Khan,9dbc77b3,caught,0,0,0
+1367733,2023,Portugal,8,Najjam Shahzad,58aa33cd,D Marks,0813a8b1,ARA Chambers,8db27a28,0,0,0,0,0,,,,,,0,0,0
+1367733,2023,Portugal,9,ARA Chambers,8db27a28,Yash Singh,7adc2d68,Najjam Shahzad,58aa33cd,0,0,0,0,0,,,,,,1,0,1
+1367733,2023,Portugal,9,Najjam Shahzad,58aa33cd,Yash Singh,7adc2d68,ARA Chambers,8db27a28,0,0,0,0,0,,,,,,1,0,1
+1367733,2023,Portugal,9,ARA Chambers,8db27a28,Yash Singh,7adc2d68,Najjam Shahzad,58aa33cd,0,0,0,0,0,,,,,,0,0,0
+1367733,2023,Portugal,9,ARA Chambers,8db27a28,Yash Singh,7adc2d68,Najjam Shahzad,58aa33cd,0,0,0,0,0,,,,,,0,0,0
+1367733,2023,Portugal,9,ARA Chambers,8db27a28,Yash Singh,7adc2d68,Najjam Shahzad,58aa33cd,0,0,0,0,0,,,,,,1,0,1
+1367733,2023,Portugal,9,Najjam Shahzad,58aa33cd,Yash Singh,7adc2d68,ARA Chambers,8db27a28,0,0,0,0,0,,,,,,2,0,2
+1367733,2023,Portugal,10,ARA Chambers,8db27a28,D Marks,0813a8b1,Najjam Shahzad,58aa33cd,0,0,0,0,0,,,,,,0,0,0
+1367733,2023,Portugal,10,ARA Chambers,8db27a28,D Marks,0813a8b1,Najjam Shahzad,58aa33cd,0,0,0,0,0,,,,,,4,0,4
+1367733,2023,Portugal,10,ARA Chambers,8db27a28,D Marks,0813a8b1,Najjam Shahzad,58aa33cd,0,0,0,0,0,,,,,,0,0,0
+1367733,2023,Portugal,10,ARA Chambers,8db27a28,D Marks,0813a8b1,Najjam Shahzad,58aa33cd,2,0,0,0,0,,,,,,0,2,2
+1367733,2023,Portugal,10,Najjam Shahzad,58aa33cd,D Marks,0813a8b1,ARA Chambers,8db27a28,0,0,0,0,0,,,,,,0,0,0
+1367733,2023,Portugal,10,Najjam Shahzad,58aa33cd,D Marks,0813a8b1,ARA Chambers,8db27a28,0,0,0,0,0,,,,,,0,0,0
+1367733,2023,Portugal,10,Najjam Shahzad,58aa33cd,D Marks,0813a8b1,ARA Chambers,8db27a28,0,0,0,0,0,,,,,,0,0,0
+1367733,2023,Portugal,11,ARA Chambers,8db27a28,Yash Singh,7adc2d68,Najjam Shahzad,58aa33cd,0,0,0,0,0,,,,,,0,0,0
+1367733,2023,Portugal,11,ARA Chambers,8db27a28,Yash Singh,7adc2d68,Najjam Shahzad,58aa33cd,0,0,0,0,0,,,,,,4,0,4
+1367733,2023,Portugal,11,ARA Chambers,8db27a28,Yash Singh,7adc2d68,Najjam Shahzad,58aa33cd,0,0,0,0,0,,,,,,0,0,0
+1367733,2023,Portugal,11,ARA Chambers,8db27a28,Yash Singh,7adc2d68,Najjam Shahzad,58aa33cd,0,0,0,0,0,,,,,,1,0,1
+1367733,2023,Portugal,11,Najjam Shahzad,58aa33cd,Yash Singh,7adc2d68,ARA Chambers,8db27a28,0,0,0,0,0,,,,,,1,0,1
+1367733,2023,Portugal,11,ARA Chambers,8db27a28,Yash Singh,7adc2d68,Najjam Shahzad,58aa33cd,0,1,0,0,0,,,,,,1,1,2
+1367733,2023,Portugal,11,Najjam Shahzad,58aa33cd,Yash Singh,7adc2d68,ARA Chambers,8db27a28,0,0,0,0,0,,,,,,1,0,1
+1367733,2023,Portugal,12,Najjam Shahzad,58aa33cd,D Marks,0813a8b1,ARA Chambers,8db27a28,0,0,0,0,0,,,,,,6,0,6
+1367733,2023,Portugal,12,Najjam Shahzad,58aa33cd,D Marks,0813a8b1,ARA Chambers,8db27a28,0,0,0,0,0,,,,,,0,0,0
+1367733,2023,Portugal,12,Najjam Shahzad,58aa33cd,D Marks,0813a8b1,ARA Chambers,8db27a28,0,0,0,0,0,,,,,,1,0,1
+1367733,2023,Portugal,12,ARA Chambers,8db27a28,D Marks,0813a8b1,Najjam Shahzad,58aa33cd,0,0,0,0,0,,,,,,0,0,0
+1367733,2023,Portugal,12,ARA Chambers,8db27a28,D Marks,0813a8b1,Najjam Shahzad,58aa33cd,1,0,0,0,0,,,,,,0,1,1
+1367733,2023,Portugal,12,ARA Chambers,8db27a28,D Marks,0813a8b1,Najjam Shahzad,58aa33cd,0,0,0,0,0,,,,,,0,0,0
+1367733,2023,Portugal,12,ARA Chambers,8db27a28,D Marks,0813a8b1,Najjam Shahzad,58aa33cd,0,0,0,0,0,,,,,,4,0,4
+1367733,2023,Portugal,13,Najjam Shahzad,58aa33cd,Amar Sharma,14e1fdab,ARA Chambers,8db27a28,0,0,0,0,0,,,,,,1,0,1
+1367733,2023,Portugal,13,ARA Chambers,8db27a28,Amar Sharma,14e1fdab,Najjam Shahzad,58aa33cd,0,0,0,0,0,,,,,,0,0,0
+1367733,2023,Portugal,13,ARA Chambers,8db27a28,Amar Sharma,14e1fdab,Najjam Shahzad,58aa33cd,0,0,0,0,0,,,,,,1,0,1
+1367733,2023,Portugal,13,Najjam Shahzad,58aa33cd,Amar Sharma,14e1fdab,ARA Chambers,8db27a28,0,0,0,0,0,,,,,,1,0,1
+1367733,2023,Portugal,13,ARA Chambers,8db27a28,Amar Sharma,14e1fdab,Najjam Shahzad,58aa33cd,0,0,0,0,0,,,,,,1,0,1
+1367733,2023,Portugal,13,Najjam Shahzad,58aa33cd,Amar Sharma,14e1fdab,ARA Chambers,8db27a28,0,0,0,0,0,,,,,,4,0,4
+1367733,2023,Portugal,14,ARA Chambers,8db27a28,Fanyan Mughal,e85bb4b3,Najjam Shahzad,58aa33cd,0,0,0,0,1,ARA Chambers,8db27a28,,,lbw,0,0,0
+1367733,2023,Portugal,14,Suman Ghimire,7d990412,Fanyan Mughal,e85bb4b3,Najjam Shahzad,58aa33cd,0,0,0,0,0,,,,,,0,0,0
+1367733,2023,Portugal,14,Suman Ghimire,7d990412,Fanyan Mughal,e85bb4b3,Najjam Shahzad,58aa33cd,0,0,0,0,0,,,,,,4,0,4
+1367733,2023,Portugal,14,Suman Ghimire,7d990412,Fanyan Mughal,e85bb4b3,Najjam Shahzad,58aa33cd,0,0,0,0,0,,,,,,6,0,6
+1367733,2023,Portugal,14,Suman Ghimire,7d990412,Fanyan Mughal,e85bb4b3,Najjam Shahzad,58aa33cd,0,0,0,0,0,,,,,,1,0,1
+1367733,2023,Portugal,14,Najjam Shahzad,58aa33cd,Fanyan Mughal,e85bb4b3,Suman Ghimire,7d990412,0,0,0,0,0,,,,,,1,0,1

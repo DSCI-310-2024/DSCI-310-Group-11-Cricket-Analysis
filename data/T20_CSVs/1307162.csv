@@ -1,0 +1,139 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1307162,2022,Afghanistan,0,Hazratullah,5ea51c25,J Little,9061a703,Rahmanullah Gurbaz,0bacade8,1,0,0,0,0,,,,,,0,1,1
+1307162,2022,Afghanistan,0,Hazratullah,5ea51c25,J Little,9061a703,Rahmanullah Gurbaz,0bacade8,2,0,0,0,0,,,,,,0,2,2
+1307162,2022,Afghanistan,0,Rahmanullah Gurbaz,0bacade8,J Little,9061a703,Hazratullah,5ea51c25,0,0,0,0,0,,,,,,4,0,4
+1307162,2022,Afghanistan,0,Rahmanullah Gurbaz,0bacade8,J Little,9061a703,Hazratullah,5ea51c25,0,0,0,0,0,,,,,,0,0,0
+1307162,2022,Afghanistan,0,Rahmanullah Gurbaz,0bacade8,J Little,9061a703,Hazratullah,5ea51c25,0,0,0,0,0,,,,,,4,0,4
+1307162,2022,Afghanistan,0,Rahmanullah Gurbaz,0bacade8,J Little,9061a703,Hazratullah,5ea51c25,0,0,0,0,0,,,,,,0,0,0
+1307162,2022,Afghanistan,0,Rahmanullah Gurbaz,0bacade8,J Little,9061a703,Hazratullah,5ea51c25,0,0,0,0,0,,,,,,0,0,0
+1307162,2022,Afghanistan,0,Rahmanullah Gurbaz,0bacade8,J Little,9061a703,Hazratullah,5ea51c25,0,0,0,0,0,,,,,,6,0,6
+1307162,2022,Afghanistan,1,Hazratullah,5ea51c25,MR Adair,fc55ec67,Rahmanullah Gurbaz,0bacade8,0,0,0,0,0,,,,,,1,0,1
+1307162,2022,Afghanistan,1,Rahmanullah Gurbaz,0bacade8,MR Adair,fc55ec67,Hazratullah,5ea51c25,0,0,0,0,0,,,,,,0,0,0
+1307162,2022,Afghanistan,1,Rahmanullah Gurbaz,0bacade8,MR Adair,fc55ec67,Hazratullah,5ea51c25,0,0,0,0,0,,,,,,6,0,6
+1307162,2022,Afghanistan,1,Rahmanullah Gurbaz,0bacade8,MR Adair,fc55ec67,Hazratullah,5ea51c25,0,0,0,0,0,,,,,,4,0,4
+1307162,2022,Afghanistan,1,Rahmanullah Gurbaz,0bacade8,MR Adair,fc55ec67,Hazratullah,5ea51c25,0,0,0,0,0,,,,,,0,0,0
+1307162,2022,Afghanistan,1,Rahmanullah Gurbaz,0bacade8,MR Adair,fc55ec67,Hazratullah,5ea51c25,0,0,0,0,0,,,,,,0,0,0
+1307162,2022,Afghanistan,2,Hazratullah,5ea51c25,BJ McCarthy,3766056b,Rahmanullah Gurbaz,0bacade8,0,0,0,0,0,,,,,,4,0,4
+1307162,2022,Afghanistan,2,Hazratullah,5ea51c25,BJ McCarthy,3766056b,Rahmanullah Gurbaz,0bacade8,0,0,0,0,0,,,,,,1,0,1
+1307162,2022,Afghanistan,2,Rahmanullah Gurbaz,0bacade8,BJ McCarthy,3766056b,Hazratullah,5ea51c25,0,0,4,0,0,,,,,,0,4,4
+1307162,2022,Afghanistan,2,Rahmanullah Gurbaz,0bacade8,BJ McCarthy,3766056b,Hazratullah,5ea51c25,0,0,0,0,1,Rahmanullah Gurbaz,0bacade8,MR Adair,fc55ec67,caught,0,0,0
+1307162,2022,Afghanistan,2,Ibrahim Zadran,d4550956,BJ McCarthy,3766056b,Hazratullah,5ea51c25,0,0,0,0,0,,,,,,0,0,0
+1307162,2022,Afghanistan,2,Ibrahim Zadran,d4550956,BJ McCarthy,3766056b,Hazratullah,5ea51c25,0,0,0,0,0,,,,,,1,0,1
+1307162,2022,Afghanistan,3,Ibrahim Zadran,d4550956,GJ Delany,33b3d2df,Hazratullah,5ea51c25,0,0,0,0,1,Ibrahim Zadran,d4550956,GH Dockrell,99cddc5e,caught,0,0,0
+1307162,2022,Afghanistan,3,Hazratullah,5ea51c25,GJ Delany,33b3d2df,Najibullah Zadran,1212cbec,0,0,0,0,1,Hazratullah,5ea51c25,BJ McCarthy,3766056b,caught,0,0,0
+1307162,2022,Afghanistan,3,Mohammad Nabi,62af8546,GJ Delany,33b3d2df,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,0,0,0
+1307162,2022,Afghanistan,3,Mohammad Nabi,62af8546,GJ Delany,33b3d2df,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,1,0,1
+1307162,2022,Afghanistan,3,Najibullah Zadran,1212cbec,GJ Delany,33b3d2df,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,4,0,4
+1307162,2022,Afghanistan,3,Najibullah Zadran,1212cbec,GJ Delany,33b3d2df,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,1,0,1
+1307162,2022,Afghanistan,4,Najibullah Zadran,1212cbec,F Hand,e3fe4b49,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,4,0,4
+1307162,2022,Afghanistan,4,Najibullah Zadran,1212cbec,F Hand,e3fe4b49,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,2,0,2
+1307162,2022,Afghanistan,4,Najibullah Zadran,1212cbec,F Hand,e3fe4b49,Mohammad Nabi,62af8546,0,0,0,0,0,,,,,,1,0,1
+1307162,2022,Afghanistan,4,Mohammad Nabi,62af8546,F Hand,e3fe4b49,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,0,0,0
+1307162,2022,Afghanistan,4,Mohammad Nabi,62af8546,F Hand,e3fe4b49,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,4,0,4
+1307162,2022,Afghanistan,4,Mohammad Nabi,62af8546,F Hand,e3fe4b49,Najibullah Zadran,1212cbec,0,0,0,0,1,Mohammad Nabi,62af8546,A Balbirnie,6ef13460,caught,0,0,0
+1307162,2022,Afghanistan,5,Najibullah Zadran,1212cbec,Simi Singh,c9945bdf,Azmatullah Omarzai,8f6dd463,0,0,0,0,0,,,,,,1,0,1
+1307162,2022,Afghanistan,5,Azmatullah Omarzai,8f6dd463,Simi Singh,c9945bdf,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,0,0,0
+1307162,2022,Afghanistan,5,Azmatullah Omarzai,8f6dd463,Simi Singh,c9945bdf,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,1,0,1
+1307162,2022,Afghanistan,5,Najibullah Zadran,1212cbec,Simi Singh,c9945bdf,Azmatullah Omarzai,8f6dd463,0,0,0,0,0,,,,,,1,0,1
+1307162,2022,Afghanistan,5,Azmatullah Omarzai,8f6dd463,Simi Singh,c9945bdf,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,1,0,1
+1307162,2022,Afghanistan,5,Najibullah Zadran,1212cbec,Simi Singh,c9945bdf,Azmatullah Omarzai,8f6dd463,0,0,0,0,0,,,,,,6,0,6
+1307162,2022,Afghanistan,6,Azmatullah Omarzai,8f6dd463,J Little,9061a703,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,1,0,1
+1307162,2022,Afghanistan,6,Najibullah Zadran,1212cbec,J Little,9061a703,Azmatullah Omarzai,8f6dd463,0,0,0,0,0,,,,,,4,0,4
+1307162,2022,Afghanistan,6,Najibullah Zadran,1212cbec,J Little,9061a703,Azmatullah Omarzai,8f6dd463,0,0,0,0,0,,,,,,1,0,1
+1307162,2022,Afghanistan,6,Azmatullah Omarzai,8f6dd463,J Little,9061a703,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,0,0,0
+1307162,2022,Afghanistan,6,Azmatullah Omarzai,8f6dd463,J Little,9061a703,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,1,0,1
+1307162,2022,Afghanistan,6,Najibullah Zadran,1212cbec,J Little,9061a703,Azmatullah Omarzai,8f6dd463,0,0,0,0,0,,,,,,1,0,1
+1307162,2022,Afghanistan,7,Najibullah Zadran,1212cbec,GJ Delany,33b3d2df,Azmatullah Omarzai,8f6dd463,0,0,0,0,0,,,,,,0,0,0
+1307162,2022,Afghanistan,7,Najibullah Zadran,1212cbec,GJ Delany,33b3d2df,Azmatullah Omarzai,8f6dd463,0,0,0,0,0,,,,,,2,0,2
+1307162,2022,Afghanistan,7,Najibullah Zadran,1212cbec,GJ Delany,33b3d2df,Azmatullah Omarzai,8f6dd463,0,0,0,0,0,,,,,,1,0,1
+1307162,2022,Afghanistan,7,Azmatullah Omarzai,8f6dd463,GJ Delany,33b3d2df,Najibullah Zadran,1212cbec,0,0,0,0,1,Azmatullah Omarzai,8f6dd463,GH Dockrell,99cddc5e,caught,0,0,0
+1307162,2022,Afghanistan,7,Najibullah Zadran,1212cbec,GJ Delany,33b3d2df,Rashid Khan,5f547c8b,1,0,0,0,0,,,,,,0,1,1
+1307162,2022,Afghanistan,7,Najibullah Zadran,1212cbec,GJ Delany,33b3d2df,Rashid Khan,5f547c8b,0,0,0,0,0,,,,,,2,0,2
+1307162,2022,Afghanistan,7,Najibullah Zadran,1212cbec,GJ Delany,33b3d2df,Rashid Khan,5f547c8b,0,0,0,0,0,,,,,,0,0,0
+1307162,2022,Afghanistan,8,Rashid Khan,5f547c8b,BJ McCarthy,3766056b,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,1,0,1
+1307162,2022,Afghanistan,8,Najibullah Zadran,1212cbec,BJ McCarthy,3766056b,Rashid Khan,5f547c8b,1,0,0,0,0,,,,,,0,1,1
+1307162,2022,Afghanistan,8,Najibullah Zadran,1212cbec,BJ McCarthy,3766056b,Rashid Khan,5f547c8b,0,0,1,0,0,,,,,,0,1,1
+1307162,2022,Afghanistan,8,Rashid Khan,5f547c8b,BJ McCarthy,3766056b,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,2,0,2
+1307162,2022,Afghanistan,8,Rashid Khan,5f547c8b,BJ McCarthy,3766056b,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,6,0,6
+1307162,2022,Afghanistan,8,Rashid Khan,5f547c8b,BJ McCarthy,3766056b,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,3,0,3
+1307162,2022,Afghanistan,8,Najibullah Zadran,1212cbec,BJ McCarthy,3766056b,Rashid Khan,5f547c8b,0,0,0,0,0,,,,,,6,0,6
+1307162,2022,Afghanistan,9,Rashid Khan,5f547c8b,GJ Delany,33b3d2df,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,6,0,6
+1307162,2022,Afghanistan,9,Rashid Khan,5f547c8b,GJ Delany,33b3d2df,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,1,0,1
+1307162,2022,Afghanistan,9,Najibullah Zadran,1212cbec,GJ Delany,33b3d2df,Rashid Khan,5f547c8b,0,0,0,0,0,,,,,,6,0,6
+1307162,2022,Afghanistan,9,Najibullah Zadran,1212cbec,GJ Delany,33b3d2df,Rashid Khan,5f547c8b,0,0,0,0,0,,,,,,1,0,1
+1307162,2022,Afghanistan,9,Rashid Khan,5f547c8b,GJ Delany,33b3d2df,Najibullah Zadran,1212cbec,1,0,0,0,0,,,,,,0,1,1
+1307162,2022,Afghanistan,9,Rashid Khan,5f547c8b,GJ Delany,33b3d2df,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,0,0,0
+1307162,2022,Afghanistan,9,Rashid Khan,5f547c8b,GJ Delany,33b3d2df,Najibullah Zadran,1212cbec,0,0,0,0,0,,,,,,6,0,6
+1307162,2022,Afghanistan,10,Najibullah Zadran,1212cbec,MR Adair,fc55ec67,Rashid Khan,5f547c8b,0,0,0,0,0,,,,,,4,0,4
+1307162,2022,Afghanistan,10,Najibullah Zadran,1212cbec,MR Adair,fc55ec67,Rashid Khan,5f547c8b,0,0,0,0,0,,,,,,2,0,2
+1307162,2022,Afghanistan,10,Najibullah Zadran,1212cbec,MR Adair,fc55ec67,Rashid Khan,5f547c8b,0,0,0,0,0,,,,,,0,0,0
+1307162,2022,Afghanistan,10,Najibullah Zadran,1212cbec,MR Adair,fc55ec67,Rashid Khan,5f547c8b,0,0,0,0,1,Najibullah Zadran,1212cbec,J Little,9061a703,caught,0,0,0
+1307162,2022,Afghanistan,10,Rashid Khan,5f547c8b,MR Adair,fc55ec67,Sharafuddin Ashraf,7e678d00,0,0,0,0,0,,,,,,2,0,2
+1307162,2022,Afghanistan,10,Rashid Khan,5f547c8b,MR Adair,fc55ec67,Sharafuddin Ashraf,7e678d00,0,0,0,0,0,,,,,,4,0,4
+1307162,2022,Ireland,0,PR Stirling,cf494ffe,Naveen-ul-Haq,c0c411cb,A Balbirnie,6ef13460,0,0,0,0,0,,,,,,4,0,4
+1307162,2022,Ireland,0,PR Stirling,cf494ffe,Naveen-ul-Haq,c0c411cb,A Balbirnie,6ef13460,0,0,0,0,0,,,,,,1,0,1
+1307162,2022,Ireland,0,A Balbirnie,6ef13460,Naveen-ul-Haq,c0c411cb,PR Stirling,cf494ffe,0,0,0,0,0,,,,,,1,0,1
+1307162,2022,Ireland,0,PR Stirling,cf494ffe,Naveen-ul-Haq,c0c411cb,A Balbirnie,6ef13460,0,0,0,0,0,,,,,,0,0,0
+1307162,2022,Ireland,0,PR Stirling,cf494ffe,Naveen-ul-Haq,c0c411cb,A Balbirnie,6ef13460,0,0,0,0,0,,,,,,4,0,4
+1307162,2022,Ireland,0,PR Stirling,cf494ffe,Naveen-ul-Haq,c0c411cb,A Balbirnie,6ef13460,0,0,0,0,0,,,,,,4,0,4
+1307162,2022,Ireland,1,A Balbirnie,6ef13460,Azmatullah Omarzai,8f6dd463,PR Stirling,cf494ffe,0,0,0,0,0,,,,,,4,0,4
+1307162,2022,Ireland,1,A Balbirnie,6ef13460,Azmatullah Omarzai,8f6dd463,PR Stirling,cf494ffe,0,0,0,0,0,,,,,,4,0,4
+1307162,2022,Ireland,1,A Balbirnie,6ef13460,Azmatullah Omarzai,8f6dd463,PR Stirling,cf494ffe,0,0,0,0,0,,,,,,6,0,6
+1307162,2022,Ireland,1,A Balbirnie,6ef13460,Azmatullah Omarzai,8f6dd463,PR Stirling,cf494ffe,0,0,0,0,1,A Balbirnie,6ef13460,Ibrahim Zadran,d4550956,caught,0,0,0
+1307162,2022,Ireland,1,L Tucker,3979b5e0,Azmatullah Omarzai,8f6dd463,PR Stirling,cf494ffe,0,0,0,0,0,,,,,,0,0,0
+1307162,2022,Ireland,1,L Tucker,3979b5e0,Azmatullah Omarzai,8f6dd463,PR Stirling,cf494ffe,0,0,0,0,0,,,,,,1,0,1
+1307162,2022,Ireland,2,L Tucker,3979b5e0,Mujeeb Ur Rahman,7d92277a,PR Stirling,cf494ffe,0,0,0,0,0,,,,,,0,0,0
+1307162,2022,Ireland,2,L Tucker,3979b5e0,Mujeeb Ur Rahman,7d92277a,PR Stirling,cf494ffe,0,0,0,0,0,,,,,,1,0,1
+1307162,2022,Ireland,2,PR Stirling,cf494ffe,Mujeeb Ur Rahman,7d92277a,L Tucker,3979b5e0,0,0,0,0,0,,,,,,6,0,6
+1307162,2022,Ireland,2,PR Stirling,cf494ffe,Mujeeb Ur Rahman,7d92277a,L Tucker,3979b5e0,0,0,0,0,0,,,,,,0,0,0
+1307162,2022,Ireland,2,PR Stirling,cf494ffe,Mujeeb Ur Rahman,7d92277a,L Tucker,3979b5e0,0,0,0,0,0,,,,,,1,0,1
+1307162,2022,Ireland,2,L Tucker,3979b5e0,Mujeeb Ur Rahman,7d92277a,PR Stirling,cf494ffe,0,0,0,0,0,,,,,,1,0,1
+1307162,2022,Ireland,3,L Tucker,3979b5e0,Fareed Ahmad,67b7bad4,PR Stirling,cf494ffe,0,0,0,0,0,,,,,,0,0,0
+1307162,2022,Ireland,3,L Tucker,3979b5e0,Fareed Ahmad,67b7bad4,PR Stirling,cf494ffe,0,0,0,0,0,,,,,,1,0,1
+1307162,2022,Ireland,3,PR Stirling,cf494ffe,Fareed Ahmad,67b7bad4,L Tucker,3979b5e0,0,0,0,0,1,PR Stirling,cf494ffe,Rashid Khan,5f547c8b,caught,0,0,0
+1307162,2022,Ireland,3,HT Tector,59ea70a4,Fareed Ahmad,67b7bad4,L Tucker,3979b5e0,0,0,0,0,0,,,,,,1,0,1
+1307162,2022,Ireland,3,L Tucker,3979b5e0,Fareed Ahmad,67b7bad4,HT Tector,59ea70a4,0,0,0,0,1,L Tucker,3979b5e0,Najibullah Zadran,1212cbec,caught,0,0,0
+1307162,2022,Ireland,3,HT Tector,59ea70a4,Fareed Ahmad,67b7bad4,GH Dockrell,99cddc5e,0,0,0,0,0,,,,,,4,0,4
+1307162,2022,Ireland,4,GH Dockrell,99cddc5e,Rashid Khan,5f547c8b,HT Tector,59ea70a4,0,0,0,0,0,,,,,,1,0,1
+1307162,2022,Ireland,4,HT Tector,59ea70a4,Rashid Khan,5f547c8b,GH Dockrell,99cddc5e,0,0,0,0,0,,,,,,1,0,1
+1307162,2022,Ireland,4,GH Dockrell,99cddc5e,Rashid Khan,5f547c8b,HT Tector,59ea70a4,0,0,0,0,0,,,,,,1,0,1
+1307162,2022,Ireland,4,HT Tector,59ea70a4,Rashid Khan,5f547c8b,GH Dockrell,99cddc5e,0,0,0,0,0,,,,,,1,0,1
+1307162,2022,Ireland,4,GH Dockrell,99cddc5e,Rashid Khan,5f547c8b,HT Tector,59ea70a4,0,0,0,0,0,,,,,,1,0,1
+1307162,2022,Ireland,4,HT Tector,59ea70a4,Rashid Khan,5f547c8b,GH Dockrell,99cddc5e,0,0,0,0,0,,,,,,1,0,1
+1307162,2022,Ireland,5,HT Tector,59ea70a4,Fareed Ahmad,67b7bad4,GH Dockrell,99cddc5e,0,0,0,0,0,,,,,,1,0,1
+1307162,2022,Ireland,5,GH Dockrell,99cddc5e,Fareed Ahmad,67b7bad4,HT Tector,59ea70a4,0,0,0,0,0,,,,,,2,0,2
+1307162,2022,Ireland,5,GH Dockrell,99cddc5e,Fareed Ahmad,67b7bad4,HT Tector,59ea70a4,0,0,0,0,0,,,,,,1,0,1
+1307162,2022,Ireland,5,HT Tector,59ea70a4,Fareed Ahmad,67b7bad4,GH Dockrell,99cddc5e,0,0,0,0,0,,,,,,0,5,5
+1307162,2022,Ireland,5,HT Tector,59ea70a4,Fareed Ahmad,67b7bad4,GH Dockrell,99cddc5e,0,0,0,0,0,,,,,,4,0,4
+1307162,2022,Ireland,5,HT Tector,59ea70a4,Fareed Ahmad,67b7bad4,GH Dockrell,99cddc5e,0,0,0,0,1,HT Tector,59ea70a4,Rahmanullah Gurbaz,0bacade8,caught,0,0,0
+1307162,2022,Ireland,6,GH Dockrell,99cddc5e,Rashid Khan,5f547c8b,GJ Delany,33b3d2df,0,0,0,0,0,,,,,,1,0,1
+1307162,2022,Ireland,6,GJ Delany,33b3d2df,Rashid Khan,5f547c8b,GH Dockrell,99cddc5e,0,0,0,0,0,,,,,,1,0,1
+1307162,2022,Ireland,6,GH Dockrell,99cddc5e,Rashid Khan,5f547c8b,GJ Delany,33b3d2df,0,0,0,0,0,,,,,,1,0,1
+1307162,2022,Ireland,6,GJ Delany,33b3d2df,Rashid Khan,5f547c8b,GH Dockrell,99cddc5e,0,0,0,0,0,,,,,,0,0,0
+1307162,2022,Ireland,6,GJ Delany,33b3d2df,Rashid Khan,5f547c8b,GH Dockrell,99cddc5e,0,0,0,0,0,,,,,,2,0,2
+1307162,2022,Ireland,6,GJ Delany,33b3d2df,Rashid Khan,5f547c8b,GH Dockrell,99cddc5e,0,0,0,0,1,GJ Delany,33b3d2df,,,lbw,0,0,0
+1307162,2022,Ireland,7,GH Dockrell,99cddc5e,Naveen-ul-Haq,c0c411cb,MR Adair,fc55ec67,0,0,0,0,0,,,,,,1,0,1
+1307162,2022,Ireland,7,MR Adair,fc55ec67,Naveen-ul-Haq,c0c411cb,GH Dockrell,99cddc5e,0,0,0,0,1,MR Adair,fc55ec67,,,lbw,0,0,0
+1307162,2022,Ireland,7,F Hand,e3fe4b49,Naveen-ul-Haq,c0c411cb,GH Dockrell,99cddc5e,0,0,0,0,1,F Hand,e3fe4b49,Fareed Ahmad,67b7bad4,caught,0,0,0
+1307162,2022,Ireland,7,BJ McCarthy,3766056b,Naveen-ul-Haq,c0c411cb,GH Dockrell,99cddc5e,0,1,0,0,0,,,,,,1,1,2
+1307162,2022,Ireland,7,GH Dockrell,99cddc5e,Naveen-ul-Haq,c0c411cb,BJ McCarthy,3766056b,0,0,0,0,0,,,,,,4,0,4
+1307162,2022,Ireland,7,GH Dockrell,99cddc5e,Naveen-ul-Haq,c0c411cb,BJ McCarthy,3766056b,0,0,0,0,0,,,,,,4,0,4
+1307162,2022,Ireland,7,GH Dockrell,99cddc5e,Naveen-ul-Haq,c0c411cb,BJ McCarthy,3766056b,0,0,1,0,0,,,,,,0,1,1
+1307162,2022,Ireland,8,GH Dockrell,99cddc5e,Rashid Khan,5f547c8b,BJ McCarthy,3766056b,0,0,0,0,0,,,,,,0,0,0
+1307162,2022,Ireland,8,GH Dockrell,99cddc5e,Rashid Khan,5f547c8b,BJ McCarthy,3766056b,0,0,0,0,0,,,,,,4,0,4
+1307162,2022,Ireland,8,GH Dockrell,99cddc5e,Rashid Khan,5f547c8b,BJ McCarthy,3766056b,0,0,0,0,0,,,,,,6,0,6
+1307162,2022,Ireland,8,GH Dockrell,99cddc5e,Rashid Khan,5f547c8b,BJ McCarthy,3766056b,0,0,0,1,0,,,,,,0,1,1
+1307162,2022,Ireland,8,BJ McCarthy,3766056b,Rashid Khan,5f547c8b,GH Dockrell,99cddc5e,0,0,0,0,0,,,,,,0,0,0
+1307162,2022,Ireland,8,BJ McCarthy,3766056b,Rashid Khan,5f547c8b,GH Dockrell,99cddc5e,0,0,0,0,1,BJ McCarthy,3766056b,Mohammad Nabi,62af8546,caught,0,0,0
+1307162,2022,Ireland,9,GH Dockrell,99cddc5e,Azmatullah Omarzai,8f6dd463,Simi Singh,c9945bdf,0,0,0,0,0,,,,,,2,0,2
+1307162,2022,Ireland,9,GH Dockrell,99cddc5e,Azmatullah Omarzai,8f6dd463,Simi Singh,c9945bdf,0,0,0,0,1,Simi Singh,c9945bdf,Ibrahim Zadran,d4550956,run out,1,0,1
+1307162,2022,Ireland,9,GH Dockrell,99cddc5e,Azmatullah Omarzai,8f6dd463,J Little,9061a703,0,0,0,0,0,,,,,,0,0,0
+1307162,2022,Ireland,9,GH Dockrell,99cddc5e,Azmatullah Omarzai,8f6dd463,J Little,9061a703,0,0,0,0,0,,,,,,0,0,0
+1307162,2022,Ireland,9,GH Dockrell,99cddc5e,Azmatullah Omarzai,8f6dd463,J Little,9061a703,0,0,0,0,0,,,,,,6,0,6
+1307162,2022,Ireland,9,GH Dockrell,99cddc5e,Azmatullah Omarzai,8f6dd463,J Little,9061a703,0,0,0,0,0,,,,,,1,0,1
+1307162,2022,Ireland,10,GH Dockrell,99cddc5e,Mujeeb Ur Rahman,7d92277a,J Little,9061a703,0,0,0,0,0,,,,,,0,0,0
+1307162,2022,Ireland,10,GH Dockrell,99cddc5e,Mujeeb Ur Rahman,7d92277a,J Little,9061a703,0,0,0,0,0,,,,,,4,0,4
+1307162,2022,Ireland,10,GH Dockrell,99cddc5e,Mujeeb Ur Rahman,7d92277a,J Little,9061a703,0,0,0,0,0,,,,,,0,0,0
+1307162,2022,Ireland,10,GH Dockrell,99cddc5e,Mujeeb Ur Rahman,7d92277a,J Little,9061a703,0,0,0,0,0,,,,,,0,0,0
+1307162,2022,Ireland,10,GH Dockrell,99cddc5e,Mujeeb Ur Rahman,7d92277a,J Little,9061a703,0,0,0,0,0,,,,,,0,0,0
+1307162,2022,Ireland,10,GH Dockrell,99cddc5e,Mujeeb Ur Rahman,7d92277a,J Little,9061a703,0,0,0,0,1,J Little,9061a703,Mohammad Nabi,62af8546,run out,0,0,0

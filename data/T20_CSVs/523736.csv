@@ -1,0 +1,248 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+523736,2011,Pakistan,0,Mohammad Hafeez,9ab63e7b,P Utseya,9de271ef,Asad Shafiq,50250426,0,0,0,0,0,,,,,,1,0,1
+523736,2011,Pakistan,0,Asad Shafiq,50250426,P Utseya,9de271ef,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,0,0,0
+523736,2011,Pakistan,0,Asad Shafiq,50250426,P Utseya,9de271ef,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,1,0,1
+523736,2011,Pakistan,0,Mohammad Hafeez,9ab63e7b,P Utseya,9de271ef,Asad Shafiq,50250426,0,0,0,0,0,,,,,,4,0,4
+523736,2011,Pakistan,0,Mohammad Hafeez,9ab63e7b,P Utseya,9de271ef,Asad Shafiq,50250426,0,0,0,0,0,,,,,,4,0,4
+523736,2011,Pakistan,0,Mohammad Hafeez,9ab63e7b,P Utseya,9de271ef,Asad Shafiq,50250426,0,0,0,0,0,,,,,,0,0,0
+523736,2011,Pakistan,1,Asad Shafiq,50250426,KM Jarvis,59792462,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,0,0,0
+523736,2011,Pakistan,1,Asad Shafiq,50250426,KM Jarvis,59792462,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,1,0,1
+523736,2011,Pakistan,1,Mohammad Hafeez,9ab63e7b,KM Jarvis,59792462,Asad Shafiq,50250426,0,0,0,0,0,,,,,,0,0,0
+523736,2011,Pakistan,1,Mohammad Hafeez,9ab63e7b,KM Jarvis,59792462,Asad Shafiq,50250426,0,0,0,0,0,,,,,,1,0,1
+523736,2011,Pakistan,1,Asad Shafiq,50250426,KM Jarvis,59792462,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,1,0,1
+523736,2011,Pakistan,1,Mohammad Hafeez,9ab63e7b,KM Jarvis,59792462,Asad Shafiq,50250426,0,0,0,0,0,,,,,,0,0,0
+523736,2011,Pakistan,2,Asad Shafiq,50250426,CJ Chibhabha,f32dbc84,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,4,0,4
+523736,2011,Pakistan,2,Asad Shafiq,50250426,CJ Chibhabha,f32dbc84,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,0,0,0
+523736,2011,Pakistan,2,Asad Shafiq,50250426,CJ Chibhabha,f32dbc84,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,0,0,0
+523736,2011,Pakistan,2,Asad Shafiq,50250426,CJ Chibhabha,f32dbc84,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,2,0,2
+523736,2011,Pakistan,2,Asad Shafiq,50250426,CJ Chibhabha,f32dbc84,Mohammad Hafeez,9ab63e7b,0,0,0,0,1,Asad Shafiq,50250426,E Chigumbura,d2babdd5,caught,0,0,0
+523736,2011,Pakistan,2,Rameez Raja (2),e191bf68,CJ Chibhabha,f32dbc84,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,1,0,1
+523736,2011,Pakistan,3,Rameez Raja (2),e191bf68,KM Jarvis,59792462,Mohammad Hafeez,9ab63e7b,0,0,0,0,1,Rameez Raja (2),e191bf68,RW Price,67af6f81,caught,0,0,0
+523736,2011,Pakistan,3,Shoaib Malik,64c34cd0,KM Jarvis,59792462,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,0,0,0
+523736,2011,Pakistan,3,Shoaib Malik,64c34cd0,KM Jarvis,59792462,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,0,0,0
+523736,2011,Pakistan,3,Shoaib Malik,64c34cd0,KM Jarvis,59792462,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,2,0,2
+523736,2011,Pakistan,3,Shoaib Malik,64c34cd0,KM Jarvis,59792462,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,0,0,0
+523736,2011,Pakistan,3,Shoaib Malik,64c34cd0,KM Jarvis,59792462,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,0,0,0
+523736,2011,Pakistan,4,Mohammad Hafeez,9ab63e7b,RW Price,67af6f81,Shoaib Malik,64c34cd0,0,0,0,0,0,,,,,,0,0,0
+523736,2011,Pakistan,4,Mohammad Hafeez,9ab63e7b,RW Price,67af6f81,Shoaib Malik,64c34cd0,0,0,0,0,0,,,,,,1,0,1
+523736,2011,Pakistan,4,Shoaib Malik,64c34cd0,RW Price,67af6f81,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,0,0,0
+523736,2011,Pakistan,4,Shoaib Malik,64c34cd0,RW Price,67af6f81,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,0,0,0
+523736,2011,Pakistan,4,Shoaib Malik,64c34cd0,RW Price,67af6f81,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,4,0,4
+523736,2011,Pakistan,4,Shoaib Malik,64c34cd0,RW Price,67af6f81,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,4,0,4
+523736,2011,Pakistan,5,Mohammad Hafeez,9ab63e7b,E Chigumbura,d2babdd5,Shoaib Malik,64c34cd0,0,0,0,0,0,,,,,,1,0,1
+523736,2011,Pakistan,5,Shoaib Malik,64c34cd0,E Chigumbura,d2babdd5,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,1,0,1
+523736,2011,Pakistan,5,Mohammad Hafeez,9ab63e7b,E Chigumbura,d2babdd5,Shoaib Malik,64c34cd0,0,0,0,0,0,,,,,,1,0,1
+523736,2011,Pakistan,5,Shoaib Malik,64c34cd0,E Chigumbura,d2babdd5,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,0,0,0
+523736,2011,Pakistan,5,Shoaib Malik,64c34cd0,E Chigumbura,d2babdd5,Mohammad Hafeez,9ab63e7b,0,0,0,0,1,Shoaib Malik,64c34cd0,T Taibu,75de770f,caught,0,0,0
+523736,2011,Pakistan,5,Umar Akmal,fd2bf2a0,E Chigumbura,d2babdd5,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,0,0,0
+523736,2011,Pakistan,6,Mohammad Hafeez,9ab63e7b,P Utseya,9de271ef,Umar Akmal,fd2bf2a0,0,0,0,0,0,,,,,,1,0,1
+523736,2011,Pakistan,6,Umar Akmal,fd2bf2a0,P Utseya,9de271ef,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,0,0,0
+523736,2011,Pakistan,6,Umar Akmal,fd2bf2a0,P Utseya,9de271ef,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,0,0,0
+523736,2011,Pakistan,6,Umar Akmal,fd2bf2a0,P Utseya,9de271ef,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,1,0,1
+523736,2011,Pakistan,6,Mohammad Hafeez,9ab63e7b,P Utseya,9de271ef,Umar Akmal,fd2bf2a0,0,0,0,0,0,,,,,,0,0,0
+523736,2011,Pakistan,6,Mohammad Hafeez,9ab63e7b,P Utseya,9de271ef,Umar Akmal,fd2bf2a0,0,0,0,0,0,,,,,,1,0,1
+523736,2011,Pakistan,7,Mohammad Hafeez,9ab63e7b,RW Price,67af6f81,Umar Akmal,fd2bf2a0,0,0,0,0,0,,,,,,4,0,4
+523736,2011,Pakistan,7,Mohammad Hafeez,9ab63e7b,RW Price,67af6f81,Umar Akmal,fd2bf2a0,0,0,0,0,0,,,,,,1,0,1
+523736,2011,Pakistan,7,Umar Akmal,fd2bf2a0,RW Price,67af6f81,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,1,0,1
+523736,2011,Pakistan,7,Mohammad Hafeez,9ab63e7b,RW Price,67af6f81,Umar Akmal,fd2bf2a0,0,0,0,0,0,,,,,,0,0,0
+523736,2011,Pakistan,7,Mohammad Hafeez,9ab63e7b,RW Price,67af6f81,Umar Akmal,fd2bf2a0,0,0,0,0,0,,,,,,1,0,1
+523736,2011,Pakistan,7,Umar Akmal,fd2bf2a0,RW Price,67af6f81,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,0,0,0
+523736,2011,Pakistan,8,Mohammad Hafeez,9ab63e7b,P Utseya,9de271ef,Umar Akmal,fd2bf2a0,0,0,0,0,0,,,,,,6,0,6
+523736,2011,Pakistan,8,Mohammad Hafeez,9ab63e7b,P Utseya,9de271ef,Umar Akmal,fd2bf2a0,0,0,0,0,0,,,,,,0,0,0
+523736,2011,Pakistan,8,Mohammad Hafeez,9ab63e7b,P Utseya,9de271ef,Umar Akmal,fd2bf2a0,0,0,0,0,0,,,,,,2,0,2
+523736,2011,Pakistan,8,Mohammad Hafeez,9ab63e7b,P Utseya,9de271ef,Umar Akmal,fd2bf2a0,0,0,0,0,0,,,,,,2,0,2
+523736,2011,Pakistan,8,Mohammad Hafeez,9ab63e7b,P Utseya,9de271ef,Umar Akmal,fd2bf2a0,0,0,0,0,0,,,,,,4,0,4
+523736,2011,Pakistan,8,Mohammad Hafeez,9ab63e7b,P Utseya,9de271ef,Umar Akmal,fd2bf2a0,0,0,0,0,0,,,,,,1,0,1
+523736,2011,Pakistan,9,Mohammad Hafeez,9ab63e7b,RW Price,67af6f81,Umar Akmal,fd2bf2a0,0,0,0,0,0,,,,,,0,0,0
+523736,2011,Pakistan,9,Mohammad Hafeez,9ab63e7b,RW Price,67af6f81,Umar Akmal,fd2bf2a0,0,0,0,0,0,,,,,,1,0,1
+523736,2011,Pakistan,9,Umar Akmal,fd2bf2a0,RW Price,67af6f81,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,1,0,1
+523736,2011,Pakistan,9,Mohammad Hafeez,9ab63e7b,RW Price,67af6f81,Umar Akmal,fd2bf2a0,0,0,0,0,0,,,,,,4,0,4
+523736,2011,Pakistan,9,Mohammad Hafeez,9ab63e7b,RW Price,67af6f81,Umar Akmal,fd2bf2a0,0,0,0,0,0,,,,,,1,0,1
+523736,2011,Pakistan,9,Umar Akmal,fd2bf2a0,RW Price,67af6f81,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,1,0,1
+523736,2011,Pakistan,10,Umar Akmal,fd2bf2a0,CJ Chibhabha,f32dbc84,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,2,0,2
+523736,2011,Pakistan,10,Umar Akmal,fd2bf2a0,CJ Chibhabha,f32dbc84,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,1,0,1
+523736,2011,Pakistan,10,Mohammad Hafeez,9ab63e7b,CJ Chibhabha,f32dbc84,Umar Akmal,fd2bf2a0,0,0,0,0,0,,,,,,1,0,1
+523736,2011,Pakistan,10,Umar Akmal,fd2bf2a0,CJ Chibhabha,f32dbc84,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,0,0,0
+523736,2011,Pakistan,10,Umar Akmal,fd2bf2a0,CJ Chibhabha,f32dbc84,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,1,0,1
+523736,2011,Pakistan,10,Mohammad Hafeez,9ab63e7b,CJ Chibhabha,f32dbc84,Umar Akmal,fd2bf2a0,0,0,0,0,0,,,,,,1,0,1
+523736,2011,Pakistan,11,Mohammad Hafeez,9ab63e7b,E Chigumbura,d2babdd5,Umar Akmal,fd2bf2a0,0,0,0,0,0,,,,,,1,0,1
+523736,2011,Pakistan,11,Umar Akmal,fd2bf2a0,E Chigumbura,d2babdd5,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,1,0,1
+523736,2011,Pakistan,11,Mohammad Hafeez,9ab63e7b,E Chigumbura,d2babdd5,Umar Akmal,fd2bf2a0,0,0,0,0,0,,,,,,1,0,1
+523736,2011,Pakistan,11,Umar Akmal,fd2bf2a0,E Chigumbura,d2babdd5,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,2,0,2
+523736,2011,Pakistan,11,Umar Akmal,fd2bf2a0,E Chigumbura,d2babdd5,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,1,0,1
+523736,2011,Pakistan,11,Mohammad Hafeez,9ab63e7b,E Chigumbura,d2babdd5,Umar Akmal,fd2bf2a0,0,0,0,0,0,,,,,,0,0,0
+523736,2011,Pakistan,12,Umar Akmal,fd2bf2a0,P Utseya,9de271ef,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,1,0,1
+523736,2011,Pakistan,12,Mohammad Hafeez,9ab63e7b,P Utseya,9de271ef,Umar Akmal,fd2bf2a0,0,0,0,0,0,,,,,,1,0,1
+523736,2011,Pakistan,12,Umar Akmal,fd2bf2a0,P Utseya,9de271ef,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,0,0,0
+523736,2011,Pakistan,12,Umar Akmal,fd2bf2a0,P Utseya,9de271ef,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,1,0,1
+523736,2011,Pakistan,12,Mohammad Hafeez,9ab63e7b,P Utseya,9de271ef,Umar Akmal,fd2bf2a0,0,0,0,0,0,,,,,,1,0,1
+523736,2011,Pakistan,12,Umar Akmal,fd2bf2a0,P Utseya,9de271ef,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,1,0,1
+523736,2011,Pakistan,13,Umar Akmal,fd2bf2a0,E Chigumbura,d2babdd5,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,0,0,0
+523736,2011,Pakistan,13,Umar Akmal,fd2bf2a0,E Chigumbura,d2babdd5,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,1,0,1
+523736,2011,Pakistan,13,Mohammad Hafeez,9ab63e7b,E Chigumbura,d2babdd5,Umar Akmal,fd2bf2a0,0,0,0,0,0,,,,,,1,0,1
+523736,2011,Pakistan,13,Umar Akmal,fd2bf2a0,E Chigumbura,d2babdd5,Mohammad Hafeez,9ab63e7b,1,0,0,0,0,,,,,,0,1,1
+523736,2011,Pakistan,13,Umar Akmal,fd2bf2a0,E Chigumbura,d2babdd5,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,2,0,2
+523736,2011,Pakistan,13,Umar Akmal,fd2bf2a0,E Chigumbura,d2babdd5,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,1,0,1
+523736,2011,Pakistan,13,Mohammad Hafeez,9ab63e7b,E Chigumbura,d2babdd5,Umar Akmal,fd2bf2a0,0,0,0,0,0,,,,,,2,0,2
+523736,2011,Pakistan,14,Umar Akmal,fd2bf2a0,RW Price,67af6f81,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,1,0,1
+523736,2011,Pakistan,14,Mohammad Hafeez,9ab63e7b,RW Price,67af6f81,Umar Akmal,fd2bf2a0,0,0,0,0,1,Mohammad Hafeez,9ab63e7b,E Chigumbura,d2babdd5,caught,0,0,0
+523736,2011,Pakistan,14,Umar Akmal,fd2bf2a0,RW Price,67af6f81,Misbah-ul-Haq,7eae4418,0,0,0,0,0,,,,,,0,0,0
+523736,2011,Pakistan,14,Umar Akmal,fd2bf2a0,RW Price,67af6f81,Misbah-ul-Haq,7eae4418,0,0,0,0,0,,,,,,1,0,1
+523736,2011,Pakistan,14,Misbah-ul-Haq,7eae4418,RW Price,67af6f81,Umar Akmal,fd2bf2a0,0,0,0,0,0,,,,,,1,0,1
+523736,2011,Pakistan,14,Umar Akmal,fd2bf2a0,RW Price,67af6f81,Misbah-ul-Haq,7eae4418,0,0,0,0,0,,,,,,0,0,0
+523736,2011,Pakistan,15,Misbah-ul-Haq,7eae4418,E Chigumbura,d2babdd5,Umar Akmal,fd2bf2a0,0,0,0,0,0,,,,,,1,0,1
+523736,2011,Pakistan,15,Umar Akmal,fd2bf2a0,E Chigumbura,d2babdd5,Misbah-ul-Haq,7eae4418,0,0,0,0,0,,,,,,1,0,1
+523736,2011,Pakistan,15,Misbah-ul-Haq,7eae4418,E Chigumbura,d2babdd5,Umar Akmal,fd2bf2a0,0,0,0,0,0,,,,,,1,0,1
+523736,2011,Pakistan,15,Umar Akmal,fd2bf2a0,E Chigumbura,d2babdd5,Misbah-ul-Haq,7eae4418,0,0,0,0,0,,,,,,2,0,2
+523736,2011,Pakistan,15,Umar Akmal,fd2bf2a0,E Chigumbura,d2babdd5,Misbah-ul-Haq,7eae4418,0,0,0,0,0,,,,,,1,0,1
+523736,2011,Pakistan,15,Misbah-ul-Haq,7eae4418,E Chigumbura,d2babdd5,Umar Akmal,fd2bf2a0,5,0,0,0,0,,,,,,0,5,5
+523736,2011,Pakistan,15,Misbah-ul-Haq,7eae4418,E Chigumbura,d2babdd5,Umar Akmal,fd2bf2a0,0,0,0,0,0,,,,,,0,0,0
+523736,2011,Pakistan,16,Umar Akmal,fd2bf2a0,CJ Chibhabha,f32dbc84,Misbah-ul-Haq,7eae4418,0,0,0,0,0,,,,,,2,0,2
+523736,2011,Pakistan,16,Umar Akmal,fd2bf2a0,CJ Chibhabha,f32dbc84,Misbah-ul-Haq,7eae4418,0,0,0,0,1,Umar Akmal,fd2bf2a0,T Taibu,75de770f,run out,1,0,1
+523736,2011,Pakistan,16,Sohail Tanvir,64d43928,CJ Chibhabha,f32dbc84,Misbah-ul-Haq,7eae4418,0,0,0,0,0,,,,,,1,0,1
+523736,2011,Pakistan,16,Misbah-ul-Haq,7eae4418,CJ Chibhabha,f32dbc84,Sohail Tanvir,64d43928,0,0,0,0,0,,,,,,1,0,1
+523736,2011,Pakistan,16,Sohail Tanvir,64d43928,CJ Chibhabha,f32dbc84,Misbah-ul-Haq,7eae4418,0,0,0,0,0,,,,,,4,0,4
+523736,2011,Pakistan,16,Sohail Tanvir,64d43928,CJ Chibhabha,f32dbc84,Misbah-ul-Haq,7eae4418,0,0,0,0,0,,,,,,1,0,1
+523736,2011,Pakistan,17,Sohail Tanvir,64d43928,KM Jarvis,59792462,Misbah-ul-Haq,7eae4418,0,0,0,0,0,,,,,,1,0,1
+523736,2011,Pakistan,17,Misbah-ul-Haq,7eae4418,KM Jarvis,59792462,Sohail Tanvir,64d43928,0,0,0,0,0,,,,,,1,0,1
+523736,2011,Pakistan,17,Sohail Tanvir,64d43928,KM Jarvis,59792462,Misbah-ul-Haq,7eae4418,0,0,0,0,1,Sohail Tanvir,64d43928,,,bowled,0,0,0
+523736,2011,Pakistan,17,Yasir Shah,f2800ef3,KM Jarvis,59792462,Misbah-ul-Haq,7eae4418,0,0,0,0,0,,,,,,1,0,1
+523736,2011,Pakistan,17,Misbah-ul-Haq,7eae4418,KM Jarvis,59792462,Yasir Shah,f2800ef3,0,0,0,0,0,,,,,,1,0,1
+523736,2011,Pakistan,17,Yasir Shah,f2800ef3,KM Jarvis,59792462,Misbah-ul-Haq,7eae4418,0,0,0,0,0,,,,,,1,0,1
+523736,2011,Pakistan,18,Yasir Shah,f2800ef3,CJ Chibhabha,f32dbc84,Misbah-ul-Haq,7eae4418,0,0,0,0,0,,,,,,1,0,1
+523736,2011,Pakistan,18,Misbah-ul-Haq,7eae4418,CJ Chibhabha,f32dbc84,Yasir Shah,f2800ef3,0,0,0,0,0,,,,,,2,0,2
+523736,2011,Pakistan,18,Misbah-ul-Haq,7eae4418,CJ Chibhabha,f32dbc84,Yasir Shah,f2800ef3,0,0,0,0,0,,,,,,2,0,2
+523736,2011,Pakistan,18,Misbah-ul-Haq,7eae4418,CJ Chibhabha,f32dbc84,Yasir Shah,f2800ef3,1,0,0,0,0,,,,,,0,1,1
+523736,2011,Pakistan,18,Misbah-ul-Haq,7eae4418,CJ Chibhabha,f32dbc84,Yasir Shah,f2800ef3,0,0,0,0,0,,,,,,4,0,4
+523736,2011,Pakistan,18,Misbah-ul-Haq,7eae4418,CJ Chibhabha,f32dbc84,Yasir Shah,f2800ef3,0,0,0,0,0,,,,,,1,0,1
+523736,2011,Pakistan,18,Yasir Shah,f2800ef3,CJ Chibhabha,f32dbc84,Misbah-ul-Haq,7eae4418,0,0,0,0,0,,,,,,4,0,4
+523736,2011,Pakistan,19,Misbah-ul-Haq,7eae4418,KM Jarvis,59792462,Yasir Shah,f2800ef3,0,0,0,0,0,,,,,,0,0,0
+523736,2011,Pakistan,19,Misbah-ul-Haq,7eae4418,KM Jarvis,59792462,Yasir Shah,f2800ef3,0,0,0,0,1,Misbah-ul-Haq,7eae4418,T Taibu,75de770f,caught,0,0,0
+523736,2011,Pakistan,19,Yasir Shah,f2800ef3,KM Jarvis,59792462,Saeed Ajmal,05d74535,0,0,0,0,0,,,,,,2,0,2
+523736,2011,Pakistan,19,Yasir Shah,f2800ef3,KM Jarvis,59792462,Saeed Ajmal,05d74535,0,0,0,0,0,,,,,,1,0,1
+523736,2011,Pakistan,19,Saeed Ajmal,05d74535,KM Jarvis,59792462,Yasir Shah,f2800ef3,0,0,0,0,0,,,,,,1,0,1
+523736,2011,Pakistan,19,Yasir Shah,f2800ef3,KM Jarvis,59792462,Saeed Ajmal,05d74535,0,0,0,0,0,,,,,,1,0,1
+523736,2011,Zimbabwe,0,V Sibanda,0fdabe05,Sohail Tanvir,64d43928,CJ Chibhabha,f32dbc84,0,0,0,0,0,,,,,,4,0,4
+523736,2011,Zimbabwe,0,V Sibanda,0fdabe05,Sohail Tanvir,64d43928,CJ Chibhabha,f32dbc84,0,0,0,0,0,,,,,,0,0,0
+523736,2011,Zimbabwe,0,V Sibanda,0fdabe05,Sohail Tanvir,64d43928,CJ Chibhabha,f32dbc84,0,0,0,0,0,,,,,,1,0,1
+523736,2011,Zimbabwe,0,CJ Chibhabha,f32dbc84,Sohail Tanvir,64d43928,V Sibanda,0fdabe05,0,0,0,0,0,,,,,,1,0,1
+523736,2011,Zimbabwe,0,V Sibanda,0fdabe05,Sohail Tanvir,64d43928,CJ Chibhabha,f32dbc84,0,0,0,0,0,,,,,,0,0,0
+523736,2011,Zimbabwe,0,V Sibanda,0fdabe05,Sohail Tanvir,64d43928,CJ Chibhabha,f32dbc84,0,0,0,0,0,,,,,,2,0,2
+523736,2011,Zimbabwe,1,CJ Chibhabha,f32dbc84,Sohail Khan,5af743d0,V Sibanda,0fdabe05,0,0,0,0,0,,,,,,0,0,0
+523736,2011,Zimbabwe,1,CJ Chibhabha,f32dbc84,Sohail Khan,5af743d0,V Sibanda,0fdabe05,0,0,0,0,0,,,,,,0,0,0
+523736,2011,Zimbabwe,1,CJ Chibhabha,f32dbc84,Sohail Khan,5af743d0,V Sibanda,0fdabe05,0,0,1,0,0,,,,,,0,1,1
+523736,2011,Zimbabwe,1,V Sibanda,0fdabe05,Sohail Khan,5af743d0,CJ Chibhabha,f32dbc84,0,0,1,0,0,,,,,,0,1,1
+523736,2011,Zimbabwe,1,CJ Chibhabha,f32dbc84,Sohail Khan,5af743d0,V Sibanda,0fdabe05,0,0,0,0,0,,,,,,4,0,4
+523736,2011,Zimbabwe,1,CJ Chibhabha,f32dbc84,Sohail Khan,5af743d0,V Sibanda,0fdabe05,0,0,0,0,0,,,,,,0,0,0
+523736,2011,Zimbabwe,2,V Sibanda,0fdabe05,Sohail Tanvir,64d43928,CJ Chibhabha,f32dbc84,0,0,0,0,0,,,,,,0,0,0
+523736,2011,Zimbabwe,2,V Sibanda,0fdabe05,Sohail Tanvir,64d43928,CJ Chibhabha,f32dbc84,0,0,0,0,0,,,,,,6,0,6
+523736,2011,Zimbabwe,2,V Sibanda,0fdabe05,Sohail Tanvir,64d43928,CJ Chibhabha,f32dbc84,0,0,0,0,0,,,,,,0,0,0
+523736,2011,Zimbabwe,2,V Sibanda,0fdabe05,Sohail Tanvir,64d43928,CJ Chibhabha,f32dbc84,1,0,0,0,0,,,,,,0,1,1
+523736,2011,Zimbabwe,2,V Sibanda,0fdabe05,Sohail Tanvir,64d43928,CJ Chibhabha,f32dbc84,0,0,0,0,0,,,,,,0,0,0
+523736,2011,Zimbabwe,2,V Sibanda,0fdabe05,Sohail Tanvir,64d43928,CJ Chibhabha,f32dbc84,0,0,0,0,0,,,,,,0,0,0
+523736,2011,Zimbabwe,2,V Sibanda,0fdabe05,Sohail Tanvir,64d43928,CJ Chibhabha,f32dbc84,0,0,0,0,0,,,,,,1,0,1
+523736,2011,Zimbabwe,3,V Sibanda,0fdabe05,Sohail Khan,5af743d0,CJ Chibhabha,f32dbc84,0,0,0,0,0,,,,,,0,0,0
+523736,2011,Zimbabwe,3,V Sibanda,0fdabe05,Sohail Khan,5af743d0,CJ Chibhabha,f32dbc84,0,0,0,0,0,,,,,,0,0,0
+523736,2011,Zimbabwe,3,V Sibanda,0fdabe05,Sohail Khan,5af743d0,CJ Chibhabha,f32dbc84,0,0,1,0,0,,,,,,0,1,1
+523736,2011,Zimbabwe,3,CJ Chibhabha,f32dbc84,Sohail Khan,5af743d0,V Sibanda,0fdabe05,0,0,0,0,0,,,,,,4,0,4
+523736,2011,Zimbabwe,3,CJ Chibhabha,f32dbc84,Sohail Khan,5af743d0,V Sibanda,0fdabe05,0,0,0,0,0,,,,,,0,0,0
+523736,2011,Zimbabwe,3,CJ Chibhabha,f32dbc84,Sohail Khan,5af743d0,V Sibanda,0fdabe05,0,0,0,0,0,,,,,,1,0,1
+523736,2011,Zimbabwe,4,CJ Chibhabha,f32dbc84,Saeed Ajmal,05d74535,V Sibanda,0fdabe05,0,0,0,0,1,CJ Chibhabha,f32dbc84,Yasir Shah,f2800ef3,caught,0,0,0
+523736,2011,Zimbabwe,4,V Sibanda,0fdabe05,Saeed Ajmal,05d74535,C Zhuwao,3e51db81,0,0,0,0,0,,,,,,0,0,0
+523736,2011,Zimbabwe,4,V Sibanda,0fdabe05,Saeed Ajmal,05d74535,C Zhuwao,3e51db81,0,0,0,0,0,,,,,,0,0,0
+523736,2011,Zimbabwe,4,V Sibanda,0fdabe05,Saeed Ajmal,05d74535,C Zhuwao,3e51db81,0,0,0,0,0,,,,,,0,0,0
+523736,2011,Zimbabwe,4,V Sibanda,0fdabe05,Saeed Ajmal,05d74535,C Zhuwao,3e51db81,0,0,0,0,0,,,,,,0,0,0
+523736,2011,Zimbabwe,4,V Sibanda,0fdabe05,Saeed Ajmal,05d74535,C Zhuwao,3e51db81,0,0,0,0,0,,,,,,0,0,0
+523736,2011,Zimbabwe,5,C Zhuwao,3e51db81,Sohail Khan,5af743d0,V Sibanda,0fdabe05,0,0,0,0,0,,,,,,0,0,0
+523736,2011,Zimbabwe,5,C Zhuwao,3e51db81,Sohail Khan,5af743d0,V Sibanda,0fdabe05,0,0,0,0,0,,,,,,0,0,0
+523736,2011,Zimbabwe,5,C Zhuwao,3e51db81,Sohail Khan,5af743d0,V Sibanda,0fdabe05,0,0,0,0,0,,,,,,1,0,1
+523736,2011,Zimbabwe,5,V Sibanda,0fdabe05,Sohail Khan,5af743d0,C Zhuwao,3e51db81,0,0,0,0,0,,,,,,1,0,1
+523736,2011,Zimbabwe,5,C Zhuwao,3e51db81,Sohail Khan,5af743d0,V Sibanda,0fdabe05,0,0,0,0,0,,,,,,4,0,4
+523736,2011,Zimbabwe,5,C Zhuwao,3e51db81,Sohail Khan,5af743d0,V Sibanda,0fdabe05,1,0,0,0,0,,,,,,0,1,1
+523736,2011,Zimbabwe,5,C Zhuwao,3e51db81,Sohail Khan,5af743d0,V Sibanda,0fdabe05,0,0,0,0,0,,,,,,1,0,1
+523736,2011,Zimbabwe,6,C Zhuwao,3e51db81,Junaid Khan,086f5984,V Sibanda,0fdabe05,0,0,0,0,0,,,,,,1,0,1
+523736,2011,Zimbabwe,6,V Sibanda,0fdabe05,Junaid Khan,086f5984,C Zhuwao,3e51db81,0,0,0,0,0,,,,,,0,0,0
+523736,2011,Zimbabwe,6,V Sibanda,0fdabe05,Junaid Khan,086f5984,C Zhuwao,3e51db81,0,0,0,0,0,,,,,,0,0,0
+523736,2011,Zimbabwe,6,V Sibanda,0fdabe05,Junaid Khan,086f5984,C Zhuwao,3e51db81,0,0,0,0,1,V Sibanda,0fdabe05,Mohammad Hafeez,9ab63e7b,caught,0,0,0
+523736,2011,Zimbabwe,6,C Zhuwao,3e51db81,Junaid Khan,086f5984,BRM Taylor,53597be1,0,0,0,0,0,,,,,,0,0,0
+523736,2011,Zimbabwe,6,C Zhuwao,3e51db81,Junaid Khan,086f5984,BRM Taylor,53597be1,0,0,0,0,0,,,,,,1,0,1
+523736,2011,Zimbabwe,7,C Zhuwao,3e51db81,Mohammad Hafeez,9ab63e7b,BRM Taylor,53597be1,0,0,0,0,0,,,,,,0,0,0
+523736,2011,Zimbabwe,7,C Zhuwao,3e51db81,Mohammad Hafeez,9ab63e7b,BRM Taylor,53597be1,0,0,0,0,0,,,,,,0,0,0
+523736,2011,Zimbabwe,7,C Zhuwao,3e51db81,Mohammad Hafeez,9ab63e7b,BRM Taylor,53597be1,0,0,0,0,0,,,,,,4,0,4
+523736,2011,Zimbabwe,7,C Zhuwao,3e51db81,Mohammad Hafeez,9ab63e7b,BRM Taylor,53597be1,0,0,0,0,0,,,,,,0,0,0
+523736,2011,Zimbabwe,7,C Zhuwao,3e51db81,Mohammad Hafeez,9ab63e7b,BRM Taylor,53597be1,0,0,0,0,1,C Zhuwao,3e51db81,,,bowled,0,0,0
+523736,2011,Zimbabwe,7,H Masakadza,31fbf891,Mohammad Hafeez,9ab63e7b,BRM Taylor,53597be1,0,0,0,0,0,,,,,,1,0,1
+523736,2011,Zimbabwe,8,H Masakadza,31fbf891,Junaid Khan,086f5984,BRM Taylor,53597be1,0,0,0,0,0,,,,,,1,0,1
+523736,2011,Zimbabwe,8,BRM Taylor,53597be1,Junaid Khan,086f5984,H Masakadza,31fbf891,0,0,0,0,0,,,,,,0,0,0
+523736,2011,Zimbabwe,8,BRM Taylor,53597be1,Junaid Khan,086f5984,H Masakadza,31fbf891,0,0,0,0,0,,,,,,0,0,0
+523736,2011,Zimbabwe,8,BRM Taylor,53597be1,Junaid Khan,086f5984,H Masakadza,31fbf891,0,0,0,0,0,,,,,,4,0,4
+523736,2011,Zimbabwe,8,BRM Taylor,53597be1,Junaid Khan,086f5984,H Masakadza,31fbf891,0,0,0,0,0,,,,,,1,0,1
+523736,2011,Zimbabwe,8,H Masakadza,31fbf891,Junaid Khan,086f5984,BRM Taylor,53597be1,0,0,0,0,0,,,,,,0,0,0
+523736,2011,Zimbabwe,9,BRM Taylor,53597be1,Mohammad Hafeez,9ab63e7b,H Masakadza,31fbf891,0,0,0,0,0,,,,,,0,0,0
+523736,2011,Zimbabwe,9,BRM Taylor,53597be1,Mohammad Hafeez,9ab63e7b,H Masakadza,31fbf891,0,0,0,0,0,,,,,,1,0,1
+523736,2011,Zimbabwe,9,H Masakadza,31fbf891,Mohammad Hafeez,9ab63e7b,BRM Taylor,53597be1,0,0,0,0,0,,,,,,1,0,1
+523736,2011,Zimbabwe,9,BRM Taylor,53597be1,Mohammad Hafeez,9ab63e7b,H Masakadza,31fbf891,0,0,0,0,0,,,,,,0,0,0
+523736,2011,Zimbabwe,9,BRM Taylor,53597be1,Mohammad Hafeez,9ab63e7b,H Masakadza,31fbf891,0,0,0,0,0,,,,,,1,0,1
+523736,2011,Zimbabwe,9,H Masakadza,31fbf891,Mohammad Hafeez,9ab63e7b,BRM Taylor,53597be1,0,0,0,0,1,H Masakadza,31fbf891,,,caught and bowled,0,0,0
+523736,2011,Zimbabwe,10,BRM Taylor,53597be1,Yasir Shah,f2800ef3,T Taibu,75de770f,0,0,0,0,0,,,,,,2,0,2
+523736,2011,Zimbabwe,10,BRM Taylor,53597be1,Yasir Shah,f2800ef3,T Taibu,75de770f,0,0,0,0,0,,,,,,1,0,1
+523736,2011,Zimbabwe,10,T Taibu,75de770f,Yasir Shah,f2800ef3,BRM Taylor,53597be1,0,0,0,0,0,,,,,,4,0,4
+523736,2011,Zimbabwe,10,T Taibu,75de770f,Yasir Shah,f2800ef3,BRM Taylor,53597be1,0,0,0,0,0,,,,,,0,0,0
+523736,2011,Zimbabwe,10,T Taibu,75de770f,Yasir Shah,f2800ef3,BRM Taylor,53597be1,0,0,0,0,0,,,,,,0,0,0
+523736,2011,Zimbabwe,10,T Taibu,75de770f,Yasir Shah,f2800ef3,BRM Taylor,53597be1,0,0,0,0,0,,,,,,1,0,1
+523736,2011,Zimbabwe,11,T Taibu,75de770f,Mohammad Hafeez,9ab63e7b,BRM Taylor,53597be1,0,0,0,0,0,,,,,,0,0,0
+523736,2011,Zimbabwe,11,T Taibu,75de770f,Mohammad Hafeez,9ab63e7b,BRM Taylor,53597be1,0,0,0,0,0,,,,,,0,0,0
+523736,2011,Zimbabwe,11,T Taibu,75de770f,Mohammad Hafeez,9ab63e7b,BRM Taylor,53597be1,0,0,0,0,0,,,,,,1,0,1
+523736,2011,Zimbabwe,11,BRM Taylor,53597be1,Mohammad Hafeez,9ab63e7b,T Taibu,75de770f,0,0,0,0,1,BRM Taylor,53597be1,Misbah-ul-Haq,7eae4418,caught,0,0,0
+523736,2011,Zimbabwe,11,T Taibu,75de770f,Mohammad Hafeez,9ab63e7b,CK Coventry,a21ea40c,0,0,0,0,0,,,,,,1,0,1
+523736,2011,Zimbabwe,11,CK Coventry,a21ea40c,Mohammad Hafeez,9ab63e7b,T Taibu,75de770f,0,0,0,0,0,,,,,,1,0,1
+523736,2011,Zimbabwe,12,CK Coventry,a21ea40c,Junaid Khan,086f5984,T Taibu,75de770f,0,0,0,0,0,,,,,,4,0,4
+523736,2011,Zimbabwe,12,CK Coventry,a21ea40c,Junaid Khan,086f5984,T Taibu,75de770f,0,0,0,0,0,,,,,,4,0,4
+523736,2011,Zimbabwe,12,CK Coventry,a21ea40c,Junaid Khan,086f5984,T Taibu,75de770f,0,0,0,0,1,CK Coventry,a21ea40c,,,bowled,0,0,0
+523736,2011,Zimbabwe,12,E Chigumbura,d2babdd5,Junaid Khan,086f5984,T Taibu,75de770f,0,0,0,0,0,,,,,,0,0,0
+523736,2011,Zimbabwe,12,E Chigumbura,d2babdd5,Junaid Khan,086f5984,T Taibu,75de770f,0,0,0,0,0,,,,,,0,0,0
+523736,2011,Zimbabwe,12,E Chigumbura,d2babdd5,Junaid Khan,086f5984,T Taibu,75de770f,0,0,0,0,0,,,,,,1,0,1
+523736,2011,Zimbabwe,13,E Chigumbura,d2babdd5,Saeed Ajmal,05d74535,T Taibu,75de770f,0,0,0,0,0,,,,,,0,0,0
+523736,2011,Zimbabwe,13,E Chigumbura,d2babdd5,Saeed Ajmal,05d74535,T Taibu,75de770f,5,0,0,0,0,,,,,,0,5,5
+523736,2011,Zimbabwe,13,E Chigumbura,d2babdd5,Saeed Ajmal,05d74535,T Taibu,75de770f,0,0,0,0,0,,,,,,0,0,0
+523736,2011,Zimbabwe,13,E Chigumbura,d2babdd5,Saeed Ajmal,05d74535,T Taibu,75de770f,0,0,0,0,0,,,,,,4,0,4
+523736,2011,Zimbabwe,13,E Chigumbura,d2babdd5,Saeed Ajmal,05d74535,T Taibu,75de770f,0,0,0,0,0,,,,,,1,0,1
+523736,2011,Zimbabwe,13,T Taibu,75de770f,Saeed Ajmal,05d74535,E Chigumbura,d2babdd5,0,0,0,0,0,,,,,,1,0,1
+523736,2011,Zimbabwe,13,E Chigumbura,d2babdd5,Saeed Ajmal,05d74535,T Taibu,75de770f,0,0,0,0,0,,,,,,0,0,0
+523736,2011,Zimbabwe,14,T Taibu,75de770f,Junaid Khan,086f5984,E Chigumbura,d2babdd5,0,0,0,0,0,,,,,,1,0,1
+523736,2011,Zimbabwe,14,E Chigumbura,d2babdd5,Junaid Khan,086f5984,T Taibu,75de770f,0,0,0,0,0,,,,,,0,0,0
+523736,2011,Zimbabwe,14,E Chigumbura,d2babdd5,Junaid Khan,086f5984,T Taibu,75de770f,0,0,0,0,0,,,,,,4,0,4
+523736,2011,Zimbabwe,14,E Chigumbura,d2babdd5,Junaid Khan,086f5984,T Taibu,75de770f,0,0,0,0,0,,,,,,1,0,1
+523736,2011,Zimbabwe,14,T Taibu,75de770f,Junaid Khan,086f5984,E Chigumbura,d2babdd5,0,0,0,0,0,,,,,,0,0,0
+523736,2011,Zimbabwe,14,T Taibu,75de770f,Junaid Khan,086f5984,E Chigumbura,d2babdd5,0,0,0,0,0,,,,,,0,0,0
+523736,2011,Zimbabwe,15,E Chigumbura,d2babdd5,Saeed Ajmal,05d74535,T Taibu,75de770f,0,0,0,0,0,,,,,,4,0,4
+523736,2011,Zimbabwe,15,E Chigumbura,d2babdd5,Saeed Ajmal,05d74535,T Taibu,75de770f,0,0,0,0,0,,,,,,0,0,0
+523736,2011,Zimbabwe,15,E Chigumbura,d2babdd5,Saeed Ajmal,05d74535,T Taibu,75de770f,0,0,0,0,0,,,,,,1,0,1
+523736,2011,Zimbabwe,15,T Taibu,75de770f,Saeed Ajmal,05d74535,E Chigumbura,d2babdd5,0,0,0,0,0,,,,,,1,0,1
+523736,2011,Zimbabwe,15,E Chigumbura,d2babdd5,Saeed Ajmal,05d74535,T Taibu,75de770f,1,0,0,0,0,,,,,,0,1,1
+523736,2011,Zimbabwe,15,E Chigumbura,d2babdd5,Saeed Ajmal,05d74535,T Taibu,75de770f,0,0,0,0,0,,,,,,0,0,0
+523736,2011,Zimbabwe,15,E Chigumbura,d2babdd5,Saeed Ajmal,05d74535,T Taibu,75de770f,0,0,0,0,0,,,,,,2,0,2
+523736,2011,Zimbabwe,16,T Taibu,75de770f,Sohail Tanvir,64d43928,E Chigumbura,d2babdd5,0,0,0,0,0,,,,,,0,0,0
+523736,2011,Zimbabwe,16,T Taibu,75de770f,Sohail Tanvir,64d43928,E Chigumbura,d2babdd5,0,0,0,0,0,,,,,,4,0,4
+523736,2011,Zimbabwe,16,T Taibu,75de770f,Sohail Tanvir,64d43928,E Chigumbura,d2babdd5,0,0,1,0,0,,,,,,0,1,1
+523736,2011,Zimbabwe,16,E Chigumbura,d2babdd5,Sohail Tanvir,64d43928,T Taibu,75de770f,0,0,0,0,0,,,,,,6,0,6
+523736,2011,Zimbabwe,16,E Chigumbura,d2babdd5,Sohail Tanvir,64d43928,T Taibu,75de770f,0,0,0,0,1,E Chigumbura,d2babdd5,Asad Shafiq,50250426,caught,0,0,0
+523736,2011,Zimbabwe,16,T Taibu,75de770f,Sohail Tanvir,64d43928,P Utseya,9de271ef,0,0,0,0,0,,,,,,1,0,1
+523736,2011,Zimbabwe,17,T Taibu,75de770f,Saeed Ajmal,05d74535,P Utseya,9de271ef,0,0,0,0,0,,,,,,1,0,1
+523736,2011,Zimbabwe,17,P Utseya,9de271ef,Saeed Ajmal,05d74535,T Taibu,75de770f,0,0,0,0,0,,,,,,0,0,0
+523736,2011,Zimbabwe,17,P Utseya,9de271ef,Saeed Ajmal,05d74535,T Taibu,75de770f,0,0,0,0,0,,,,,,0,0,0
+523736,2011,Zimbabwe,17,P Utseya,9de271ef,Saeed Ajmal,05d74535,T Taibu,75de770f,0,0,2,0,0,,,,,,0,2,2
+523736,2011,Zimbabwe,17,P Utseya,9de271ef,Saeed Ajmal,05d74535,T Taibu,75de770f,0,0,0,0,0,,,,,,0,0,0
+523736,2011,Zimbabwe,17,P Utseya,9de271ef,Saeed Ajmal,05d74535,T Taibu,75de770f,0,0,0,0,0,,,,,,0,0,0
+523736,2011,Zimbabwe,18,T Taibu,75de770f,Sohail Tanvir,64d43928,P Utseya,9de271ef,0,0,0,0,0,,,,,,4,0,4
+523736,2011,Zimbabwe,18,T Taibu,75de770f,Sohail Tanvir,64d43928,P Utseya,9de271ef,0,0,0,0,0,,,,,,1,0,1
+523736,2011,Zimbabwe,18,P Utseya,9de271ef,Sohail Tanvir,64d43928,T Taibu,75de770f,0,0,0,0,0,,,,,,1,0,1
+523736,2011,Zimbabwe,18,T Taibu,75de770f,Sohail Tanvir,64d43928,P Utseya,9de271ef,0,0,0,0,0,,,,,,1,0,1
+523736,2011,Zimbabwe,18,P Utseya,9de271ef,Sohail Tanvir,64d43928,T Taibu,75de770f,0,0,0,0,0,,,,,,1,0,1
+523736,2011,Zimbabwe,18,T Taibu,75de770f,Sohail Tanvir,64d43928,P Utseya,9de271ef,0,0,0,0,0,,,,,,1,0,1
+523736,2011,Zimbabwe,19,T Taibu,75de770f,Sohail Khan,5af743d0,P Utseya,9de271ef,0,0,0,0,0,,,,,,6,0,6
+523736,2011,Zimbabwe,19,T Taibu,75de770f,Sohail Khan,5af743d0,P Utseya,9de271ef,0,0,0,0,0,,,,,,2,0,2
+523736,2011,Zimbabwe,19,T Taibu,75de770f,Sohail Khan,5af743d0,P Utseya,9de271ef,0,0,0,0,0,,,,,,2,0,2
+523736,2011,Zimbabwe,19,T Taibu,75de770f,Sohail Khan,5af743d0,P Utseya,9de271ef,0,0,0,0,0,,,,,,2,0,2
+523736,2011,Zimbabwe,19,T Taibu,75de770f,Sohail Khan,5af743d0,P Utseya,9de271ef,0,0,0,0,0,,,,,,2,0,2
+523736,2011,Zimbabwe,19,T Taibu,75de770f,Sohail Khan,5af743d0,P Utseya,9de271ef,0,0,0,0,0,,,,,,0,0,0

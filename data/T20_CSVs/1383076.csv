@@ -1,0 +1,228 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1383076,2023,Denmark,0,ND Laegsgaard,b0f2d3bd,D Klein,aeab0d4f,T Bharaj,49556abb,1,0,0,0,0,,,,,,0,1,1
+1383076,2023,Denmark,0,ND Laegsgaard,b0f2d3bd,D Klein,aeab0d4f,T Bharaj,49556abb,0,0,0,0,1,ND Laegsgaard,b0f2d3bd,MJ Richardson,22176fe7,caught,0,0,0
+1383076,2023,Denmark,0,Abdul Hashim,73b1db79,D Klein,aeab0d4f,T Bharaj,49556abb,0,0,0,0,0,,,,,,2,0,2
+1383076,2023,Denmark,0,Abdul Hashim,73b1db79,D Klein,aeab0d4f,T Bharaj,49556abb,0,0,0,0,0,,,,,,0,0,0
+1383076,2023,Denmark,0,Abdul Hashim,73b1db79,D Klein,aeab0d4f,T Bharaj,49556abb,0,0,0,0,1,Abdul Hashim,73b1db79,,,bowled,0,0,0
+1383076,2023,Denmark,0,SA Ahmad,8de618ab,D Klein,aeab0d4f,T Bharaj,49556abb,0,0,0,0,0,,,,,,0,0,0
+1383076,2023,Denmark,0,SA Ahmad,8de618ab,D Klein,aeab0d4f,T Bharaj,49556abb,0,0,1,0,0,,,,,,0,1,1
+1383076,2023,Denmark,1,SA Ahmad,8de618ab,Ghulam Ahmadi,2dfe0612,T Bharaj,49556abb,0,0,0,0,0,,,,,,2,0,2
+1383076,2023,Denmark,1,SA Ahmad,8de618ab,Ghulam Ahmadi,2dfe0612,T Bharaj,49556abb,0,0,0,0,0,,,,,,0,0,0
+1383076,2023,Denmark,1,SA Ahmad,8de618ab,Ghulam Ahmadi,2dfe0612,T Bharaj,49556abb,0,0,0,0,0,,,,,,0,0,0
+1383076,2023,Denmark,1,SA Ahmad,8de618ab,Ghulam Ahmadi,2dfe0612,T Bharaj,49556abb,0,0,0,0,0,,,,,,0,0,0
+1383076,2023,Denmark,1,SA Ahmad,8de618ab,Ghulam Ahmadi,2dfe0612,T Bharaj,49556abb,0,0,0,0,0,,,,,,0,0,0
+1383076,2023,Denmark,1,SA Ahmad,8de618ab,Ghulam Ahmadi,2dfe0612,T Bharaj,49556abb,0,0,0,0,0,,,,,,0,0,0
+1383076,2023,Denmark,2,T Bharaj,49556abb,D Klein,aeab0d4f,SA Ahmad,8de618ab,0,0,0,0,0,,,,,,1,0,1
+1383076,2023,Denmark,2,SA Ahmad,8de618ab,D Klein,aeab0d4f,T Bharaj,49556abb,0,0,0,0,0,,,,,,4,0,4
+1383076,2023,Denmark,2,SA Ahmad,8de618ab,D Klein,aeab0d4f,T Bharaj,49556abb,0,0,0,0,0,,,,,,0,0,0
+1383076,2023,Denmark,2,SA Ahmad,8de618ab,D Klein,aeab0d4f,T Bharaj,49556abb,0,0,0,0,0,,,,,,1,0,1
+1383076,2023,Denmark,2,T Bharaj,49556abb,D Klein,aeab0d4f,SA Ahmad,8de618ab,0,0,0,0,0,,,,,,0,0,0
+1383076,2023,Denmark,2,T Bharaj,49556abb,D Klein,aeab0d4f,SA Ahmad,8de618ab,0,0,0,0,0,,,,,,0,0,0
+1383076,2023,Denmark,3,SA Ahmad,8de618ab,Ghulam Ahmadi,2dfe0612,T Bharaj,49556abb,0,0,0,0,0,,,,,,0,0,0
+1383076,2023,Denmark,3,SA Ahmad,8de618ab,Ghulam Ahmadi,2dfe0612,T Bharaj,49556abb,0,0,0,0,0,,,,,,0,0,0
+1383076,2023,Denmark,3,SA Ahmad,8de618ab,Ghulam Ahmadi,2dfe0612,T Bharaj,49556abb,0,0,0,0,0,,,,,,0,0,0
+1383076,2023,Denmark,3,SA Ahmad,8de618ab,Ghulam Ahmadi,2dfe0612,T Bharaj,49556abb,0,0,0,0,0,,,,,,4,0,4
+1383076,2023,Denmark,3,SA Ahmad,8de618ab,Ghulam Ahmadi,2dfe0612,T Bharaj,49556abb,0,0,0,0,0,,,,,,1,0,1
+1383076,2023,Denmark,3,T Bharaj,49556abb,Ghulam Ahmadi,2dfe0612,SA Ahmad,8de618ab,0,0,0,0,0,,,,,,1,0,1
+1383076,2023,Denmark,4,T Bharaj,49556abb,D Klein,aeab0d4f,SA Ahmad,8de618ab,0,0,0,0,0,,,,,,2,0,2
+1383076,2023,Denmark,4,T Bharaj,49556abb,D Klein,aeab0d4f,SA Ahmad,8de618ab,0,0,0,0,0,,,,,,0,0,0
+1383076,2023,Denmark,4,T Bharaj,49556abb,D Klein,aeab0d4f,SA Ahmad,8de618ab,0,0,0,0,0,,,,,,0,0,0
+1383076,2023,Denmark,4,T Bharaj,49556abb,D Klein,aeab0d4f,SA Ahmad,8de618ab,0,0,0,0,0,,,,,,0,0,0
+1383076,2023,Denmark,4,T Bharaj,49556abb,D Klein,aeab0d4f,SA Ahmad,8de618ab,0,0,0,0,0,,,,,,4,0,4
+1383076,2023,Denmark,4,T Bharaj,49556abb,D Klein,aeab0d4f,SA Ahmad,8de618ab,0,0,0,0,0,,,,,,0,0,0
+1383076,2023,Denmark,5,SA Ahmad,8de618ab,Sahir Naqash,352e589f,T Bharaj,49556abb,0,0,0,0,0,,,,,,0,0,0
+1383076,2023,Denmark,5,SA Ahmad,8de618ab,Sahir Naqash,352e589f,T Bharaj,49556abb,0,0,0,0,0,,,,,,4,0,4
+1383076,2023,Denmark,5,SA Ahmad,8de618ab,Sahir Naqash,352e589f,T Bharaj,49556abb,0,0,0,0,0,,,,,,0,0,0
+1383076,2023,Denmark,5,SA Ahmad,8de618ab,Sahir Naqash,352e589f,T Bharaj,49556abb,0,0,0,0,0,,,,,,0,0,0
+1383076,2023,Denmark,5,SA Ahmad,8de618ab,Sahir Naqash,352e589f,T Bharaj,49556abb,1,0,0,0,0,,,,,,0,1,1
+1383076,2023,Denmark,5,SA Ahmad,8de618ab,Sahir Naqash,352e589f,T Bharaj,49556abb,0,0,0,0,0,,,,,,0,0,0
+1383076,2023,Denmark,5,SA Ahmad,8de618ab,Sahir Naqash,352e589f,T Bharaj,49556abb,0,0,0,0,0,,,,,,1,0,1
+1383076,2023,Denmark,6,SA Ahmad,8de618ab,Muslim Yar,37d8d19a,T Bharaj,49556abb,0,0,0,0,0,,,,,,0,0,0
+1383076,2023,Denmark,6,SA Ahmad,8de618ab,Muslim Yar,37d8d19a,T Bharaj,49556abb,0,0,0,0,0,,,,,,1,0,1
+1383076,2023,Denmark,6,T Bharaj,49556abb,Muslim Yar,37d8d19a,SA Ahmad,8de618ab,0,0,0,0,0,,,,,,0,0,0
+1383076,2023,Denmark,6,T Bharaj,49556abb,Muslim Yar,37d8d19a,SA Ahmad,8de618ab,0,0,0,0,0,,,,,,4,0,4
+1383076,2023,Denmark,6,T Bharaj,49556abb,Muslim Yar,37d8d19a,SA Ahmad,8de618ab,0,0,0,0,0,,,,,,2,0,2
+1383076,2023,Denmark,6,T Bharaj,49556abb,Muslim Yar,37d8d19a,SA Ahmad,8de618ab,0,0,0,0,0,,,,,,0,0,0
+1383076,2023,Denmark,7,SA Ahmad,8de618ab,SVE Bharathi,6a63c29c,T Bharaj,49556abb,0,0,0,0,0,,,,,,1,0,1
+1383076,2023,Denmark,7,T Bharaj,49556abb,SVE Bharathi,6a63c29c,SA Ahmad,8de618ab,0,0,0,0,0,,,,,,1,0,1
+1383076,2023,Denmark,7,SA Ahmad,8de618ab,SVE Bharathi,6a63c29c,T Bharaj,49556abb,0,0,0,0,0,,,,,,0,0,0
+1383076,2023,Denmark,7,SA Ahmad,8de618ab,SVE Bharathi,6a63c29c,T Bharaj,49556abb,0,0,0,0,0,,,,,,4,0,4
+1383076,2023,Denmark,7,SA Ahmad,8de618ab,SVE Bharathi,6a63c29c,T Bharaj,49556abb,0,0,0,0,0,,,,,,2,0,2
+1383076,2023,Denmark,7,SA Ahmad,8de618ab,SVE Bharathi,6a63c29c,T Bharaj,49556abb,0,0,0,0,0,,,,,,0,0,0
+1383076,2023,Denmark,8,T Bharaj,49556abb,Muslim Yar,37d8d19a,SA Ahmad,8de618ab,0,0,0,0,0,,,,,,1,0,1
+1383076,2023,Denmark,8,SA Ahmad,8de618ab,Muslim Yar,37d8d19a,T Bharaj,49556abb,0,0,0,0,0,,,,,,1,0,1
+1383076,2023,Denmark,8,T Bharaj,49556abb,Muslim Yar,37d8d19a,SA Ahmad,8de618ab,0,0,0,0,0,,,,,,2,0,2
+1383076,2023,Denmark,8,T Bharaj,49556abb,Muslim Yar,37d8d19a,SA Ahmad,8de618ab,0,0,0,0,0,,,,,,0,0,0
+1383076,2023,Denmark,8,T Bharaj,49556abb,Muslim Yar,37d8d19a,SA Ahmad,8de618ab,0,0,0,0,0,,,,,,0,0,0
+1383076,2023,Denmark,8,T Bharaj,49556abb,Muslim Yar,37d8d19a,SA Ahmad,8de618ab,0,0,0,0,0,,,,,,1,0,1
+1383076,2023,Denmark,9,T Bharaj,49556abb,Ghulam Ahmadi,2dfe0612,SA Ahmad,8de618ab,0,0,0,0,0,,,,,,3,0,3
+1383076,2023,Denmark,9,SA Ahmad,8de618ab,Ghulam Ahmadi,2dfe0612,T Bharaj,49556abb,0,0,0,0,0,,,,,,1,0,1
+1383076,2023,Denmark,9,T Bharaj,49556abb,Ghulam Ahmadi,2dfe0612,SA Ahmad,8de618ab,0,0,0,0,0,,,,,,0,0,0
+1383076,2023,Denmark,9,T Bharaj,49556abb,Ghulam Ahmadi,2dfe0612,SA Ahmad,8de618ab,0,0,0,0,0,,,,,,1,0,1
+1383076,2023,Denmark,9,SA Ahmad,8de618ab,Ghulam Ahmadi,2dfe0612,T Bharaj,49556abb,0,0,0,0,0,,,,,,0,0,0
+1383076,2023,Denmark,9,SA Ahmad,8de618ab,Ghulam Ahmadi,2dfe0612,T Bharaj,49556abb,0,0,0,0,0,,,,,,4,0,4
+1383076,2023,Denmark,10,T Bharaj,49556abb,Sahir Naqash,352e589f,SA Ahmad,8de618ab,0,0,0,0,0,,,,,,6,0,6
+1383076,2023,Denmark,10,T Bharaj,49556abb,Sahir Naqash,352e589f,SA Ahmad,8de618ab,0,0,0,0,0,,,,,,1,0,1
+1383076,2023,Denmark,10,SA Ahmad,8de618ab,Sahir Naqash,352e589f,T Bharaj,49556abb,0,0,1,0,0,,,,,,0,1,1
+1383076,2023,Denmark,10,T Bharaj,49556abb,Sahir Naqash,352e589f,SA Ahmad,8de618ab,0,0,0,0,0,,,,,,0,0,0
+1383076,2023,Denmark,10,T Bharaj,49556abb,Sahir Naqash,352e589f,SA Ahmad,8de618ab,0,0,0,0,0,,,,,,1,0,1
+1383076,2023,Denmark,10,SA Ahmad,8de618ab,Sahir Naqash,352e589f,T Bharaj,49556abb,0,0,0,0,0,,,,,,1,0,1
+1383076,2023,Denmark,11,SA Ahmad,8de618ab,SVE Bharathi,6a63c29c,T Bharaj,49556abb,0,0,0,0,0,,,,,,6,0,6
+1383076,2023,Denmark,11,SA Ahmad,8de618ab,SVE Bharathi,6a63c29c,T Bharaj,49556abb,0,0,0,0,0,,,,,,2,0,2
+1383076,2023,Denmark,11,SA Ahmad,8de618ab,SVE Bharathi,6a63c29c,T Bharaj,49556abb,2,0,0,0,0,,,,,,0,2,2
+1383076,2023,Denmark,11,T Bharaj,49556abb,SVE Bharathi,6a63c29c,SA Ahmad,8de618ab,0,0,0,0,0,,,,,,0,0,0
+1383076,2023,Denmark,11,T Bharaj,49556abb,SVE Bharathi,6a63c29c,SA Ahmad,8de618ab,0,0,0,0,0,,,,,,2,0,2
+1383076,2023,Denmark,11,T Bharaj,49556abb,SVE Bharathi,6a63c29c,SA Ahmad,8de618ab,0,0,0,0,0,,,,,,1,0,1
+1383076,2023,Denmark,11,SA Ahmad,8de618ab,SVE Bharathi,6a63c29c,T Bharaj,49556abb,0,0,0,0,1,SA Ahmad,8de618ab,Faisal Mubashir,ad5342dc,caught,0,0,0
+1383076,2023,Denmark,12,T Bharaj,49556abb,Muslim Yar,37d8d19a,OD Hald,38189be1,0,0,0,0,0,,,,,,2,0,2
+1383076,2023,Denmark,12,T Bharaj,49556abb,Muslim Yar,37d8d19a,OD Hald,38189be1,0,0,0,0,0,,,,,,1,0,1
+1383076,2023,Denmark,12,OD Hald,38189be1,Muslim Yar,37d8d19a,T Bharaj,49556abb,0,0,0,0,0,,,,,,0,0,0
+1383076,2023,Denmark,12,OD Hald,38189be1,Muslim Yar,37d8d19a,T Bharaj,49556abb,0,0,0,0,0,,,,,,1,0,1
+1383076,2023,Denmark,12,T Bharaj,49556abb,Muslim Yar,37d8d19a,OD Hald,38189be1,0,0,0,0,0,,,,,,2,0,2
+1383076,2023,Denmark,12,T Bharaj,49556abb,Muslim Yar,37d8d19a,OD Hald,38189be1,0,0,0,0,0,,,,,,1,0,1
+1383076,2023,Denmark,13,T Bharaj,49556abb,SVE Bharathi,6a63c29c,OD Hald,38189be1,0,0,0,0,0,,,,,,2,0,2
+1383076,2023,Denmark,13,T Bharaj,49556abb,SVE Bharathi,6a63c29c,OD Hald,38189be1,0,0,0,0,0,,,,,,1,0,1
+1383076,2023,Denmark,13,OD Hald,38189be1,SVE Bharathi,6a63c29c,T Bharaj,49556abb,0,0,0,0,0,,,,,,1,0,1
+1383076,2023,Denmark,13,T Bharaj,49556abb,SVE Bharathi,6a63c29c,OD Hald,38189be1,0,0,0,0,1,T Bharaj,49556abb,,,bowled,0,0,0
+1383076,2023,Denmark,13,S Thanikaithasan,498aacac,SVE Bharathi,6a63c29c,OD Hald,38189be1,1,0,0,0,0,,,,,,0,1,1
+1383076,2023,Denmark,13,S Thanikaithasan,498aacac,SVE Bharathi,6a63c29c,OD Hald,38189be1,0,0,0,0,0,,,,,,2,0,2
+1383076,2023,Denmark,13,S Thanikaithasan,498aacac,SVE Bharathi,6a63c29c,OD Hald,38189be1,0,0,0,0,0,,,,,,1,0,1
+1383076,2023,Denmark,14,S Thanikaithasan,498aacac,D Klein,aeab0d4f,OD Hald,38189be1,0,0,0,0,0,,,,,,1,0,1
+1383076,2023,Denmark,14,OD Hald,38189be1,D Klein,aeab0d4f,S Thanikaithasan,498aacac,0,0,0,0,0,,,,,,1,0,1
+1383076,2023,Denmark,14,S Thanikaithasan,498aacac,D Klein,aeab0d4f,OD Hald,38189be1,0,0,0,0,0,,,,,,0,0,0
+1383076,2023,Denmark,14,S Thanikaithasan,498aacac,D Klein,aeab0d4f,OD Hald,38189be1,0,0,0,0,0,,,,,,2,0,2
+1383076,2023,Denmark,14,S Thanikaithasan,498aacac,D Klein,aeab0d4f,OD Hald,38189be1,0,0,0,0,0,,,,,,0,0,0
+1383076,2023,Denmark,14,S Thanikaithasan,498aacac,D Klein,aeab0d4f,OD Hald,38189be1,0,0,0,0,0,,,,,,4,0,4
+1383076,2023,Denmark,15,OD Hald,38189be1,SVE Bharathi,6a63c29c,S Thanikaithasan,498aacac,0,0,0,0,0,,,,,,0,0,0
+1383076,2023,Denmark,15,OD Hald,38189be1,SVE Bharathi,6a63c29c,S Thanikaithasan,498aacac,0,0,0,0,0,,,,,,0,0,0
+1383076,2023,Denmark,15,OD Hald,38189be1,SVE Bharathi,6a63c29c,S Thanikaithasan,498aacac,0,0,0,0,0,,,,,,0,0,0
+1383076,2023,Denmark,15,OD Hald,38189be1,SVE Bharathi,6a63c29c,S Thanikaithasan,498aacac,0,0,0,0,0,,,,,,2,0,2
+1383076,2023,Denmark,15,OD Hald,38189be1,SVE Bharathi,6a63c29c,S Thanikaithasan,498aacac,0,0,0,0,0,,,,,,1,0,1
+1383076,2023,Denmark,15,S Thanikaithasan,498aacac,SVE Bharathi,6a63c29c,OD Hald,38189be1,0,0,0,0,0,,,,,,1,0,1
+1383076,2023,Denmark,16,S Thanikaithasan,498aacac,Muslim Yar,37d8d19a,OD Hald,38189be1,0,0,0,0,0,,,,,,1,0,1
+1383076,2023,Denmark,16,OD Hald,38189be1,Muslim Yar,37d8d19a,S Thanikaithasan,498aacac,0,0,0,0,1,OD Hald,38189be1,Faisal Mubashir,ad5342dc,caught,0,0,0
+1383076,2023,Denmark,16,Saran Aslam,2a00735b,Muslim Yar,37d8d19a,S Thanikaithasan,498aacac,0,0,0,0,0,,,,,,0,0,0
+1383076,2023,Denmark,16,Saran Aslam,2a00735b,Muslim Yar,37d8d19a,S Thanikaithasan,498aacac,0,0,0,0,0,,,,,,1,0,1
+1383076,2023,Denmark,16,S Thanikaithasan,498aacac,Muslim Yar,37d8d19a,Saran Aslam,2a00735b,0,0,0,0,0,,,,,,0,0,0
+1383076,2023,Denmark,16,S Thanikaithasan,498aacac,Muslim Yar,37d8d19a,Saran Aslam,2a00735b,0,0,0,0,1,S Thanikaithasan,498aacac,Ghulam Ahmadi,2dfe0612,caught,0,0,0
+1383076,2023,Denmark,17,Saran Aslam,2a00735b,Sahir Naqash,352e589f,JS Henriksen,2c6052a6,0,0,0,0,0,,,,,,1,0,1
+1383076,2023,Denmark,17,JS Henriksen,2c6052a6,Sahir Naqash,352e589f,Saran Aslam,2a00735b,0,0,0,0,0,,,,,,1,0,1
+1383076,2023,Denmark,17,Saran Aslam,2a00735b,Sahir Naqash,352e589f,JS Henriksen,2c6052a6,0,0,0,0,0,,,,,,1,0,1
+1383076,2023,Denmark,17,JS Henriksen,2c6052a6,Sahir Naqash,352e589f,Saran Aslam,2a00735b,0,0,0,0,0,,,,,,1,0,1
+1383076,2023,Denmark,17,Saran Aslam,2a00735b,Sahir Naqash,352e589f,JS Henriksen,2c6052a6,0,0,0,0,0,,,,,,1,0,1
+1383076,2023,Denmark,17,JS Henriksen,2c6052a6,Sahir Naqash,352e589f,Saran Aslam,2a00735b,0,0,0,0,0,,,,,,0,0,0
+1383076,2023,Denmark,18,Saran Aslam,2a00735b,Ghulam Ahmadi,2dfe0612,JS Henriksen,2c6052a6,0,0,0,0,0,,,,,,0,0,0
+1383076,2023,Denmark,18,Saran Aslam,2a00735b,Ghulam Ahmadi,2dfe0612,JS Henriksen,2c6052a6,0,0,0,0,1,Saran Aslam,2a00735b,SVE Bharathi,6a63c29c,caught,0,0,0
+1383076,2023,Denmark,18,Lucky Ali,28b032ac,Ghulam Ahmadi,2dfe0612,JS Henriksen,2c6052a6,0,0,0,0,0,,,,,,0,0,0
+1383076,2023,Denmark,18,Lucky Ali,28b032ac,Ghulam Ahmadi,2dfe0612,JS Henriksen,2c6052a6,0,0,0,0,0,,,,,,1,0,1
+1383076,2023,Denmark,18,JS Henriksen,2c6052a6,Ghulam Ahmadi,2dfe0612,Lucky Ali,28b032ac,0,0,0,0,0,,,,,,0,0,0
+1383076,2023,Denmark,18,JS Henriksen,2c6052a6,Ghulam Ahmadi,2dfe0612,Lucky Ali,28b032ac,0,0,0,0,1,JS Henriksen,2c6052a6,Sachin Mandy,501fca0d,caught,0,0,0
+1383076,2023,Denmark,19,Lucky Ali,28b032ac,Sahir Naqash,352e589f,Saud Munir,5902f2eb,0,0,0,0,0,,,,,,2,0,2
+1383076,2023,Denmark,19,Lucky Ali,28b032ac,Sahir Naqash,352e589f,Saud Munir,5902f2eb,0,0,0,0,0,,,,,,2,0,2
+1383076,2023,Denmark,19,Lucky Ali,28b032ac,Sahir Naqash,352e589f,Saud Munir,5902f2eb,0,0,0,0,0,,,,,,1,0,1
+1383076,2023,Denmark,19,Saud Munir,5902f2eb,Sahir Naqash,352e589f,Lucky Ali,28b032ac,0,0,0,0,0,,,,,,0,0,0
+1383076,2023,Denmark,19,Saud Munir,5902f2eb,Sahir Naqash,352e589f,Lucky Ali,28b032ac,0,0,0,0,1,Saud Munir,5902f2eb,,,bowled,0,0,0
+1383076,2023,Denmark,19,Abdullah Mahmood,926c6d3c,Sahir Naqash,352e589f,Lucky Ali,28b032ac,0,0,0,0,0,,,,,,2,0,2
+1383076,2023,Germany,0,V Ganesan,baa7dd37,OD Hald,38189be1,J van Heerden,01549705,0,0,0,0,0,,,,,,0,0,0
+1383076,2023,Germany,0,V Ganesan,baa7dd37,OD Hald,38189be1,J van Heerden,01549705,0,0,0,0,0,,,,,,0,0,0
+1383076,2023,Germany,0,V Ganesan,baa7dd37,OD Hald,38189be1,J van Heerden,01549705,0,0,0,0,0,,,,,,1,0,1
+1383076,2023,Germany,0,J van Heerden,01549705,OD Hald,38189be1,V Ganesan,baa7dd37,0,0,0,0,0,,,,,,4,0,4
+1383076,2023,Germany,0,J van Heerden,01549705,OD Hald,38189be1,V Ganesan,baa7dd37,0,0,0,0,0,,,,,,2,0,2
+1383076,2023,Germany,0,J van Heerden,01549705,OD Hald,38189be1,V Ganesan,baa7dd37,0,0,0,0,0,,,,,,0,0,0
+1383076,2023,Germany,1,V Ganesan,baa7dd37,SA Ahmad,8de618ab,J van Heerden,01549705,0,0,0,0,0,,,,,,0,0,0
+1383076,2023,Germany,1,V Ganesan,baa7dd37,SA Ahmad,8de618ab,J van Heerden,01549705,0,0,0,0,0,,,,,,1,0,1
+1383076,2023,Germany,1,J van Heerden,01549705,SA Ahmad,8de618ab,V Ganesan,baa7dd37,0,0,0,0,0,,,,,,2,0,2
+1383076,2023,Germany,1,J van Heerden,01549705,SA Ahmad,8de618ab,V Ganesan,baa7dd37,0,0,0,0,0,,,,,,0,0,0
+1383076,2023,Germany,1,J van Heerden,01549705,SA Ahmad,8de618ab,V Ganesan,baa7dd37,0,0,0,0,1,V Ganesan,baa7dd37,Abdul Hashim,73b1db79,run out,0,0,0
+1383076,2023,Germany,1,MJ Richardson,22176fe7,SA Ahmad,8de618ab,J van Heerden,01549705,0,0,0,0,0,,,,,,0,0,0
+1383076,2023,Germany,2,J van Heerden,01549705,OD Hald,38189be1,MJ Richardson,22176fe7,0,0,0,0,0,,,,,,1,0,1
+1383076,2023,Germany,2,MJ Richardson,22176fe7,OD Hald,38189be1,J van Heerden,01549705,0,0,0,0,0,,,,,,0,0,0
+1383076,2023,Germany,2,MJ Richardson,22176fe7,OD Hald,38189be1,J van Heerden,01549705,0,0,0,0,0,,,,,,6,0,6
+1383076,2023,Germany,2,MJ Richardson,22176fe7,OD Hald,38189be1,J van Heerden,01549705,0,0,0,0,0,,,,,,0,0,0
+1383076,2023,Germany,2,MJ Richardson,22176fe7,OD Hald,38189be1,J van Heerden,01549705,0,0,0,0,0,,,,,,6,0,6
+1383076,2023,Germany,2,MJ Richardson,22176fe7,OD Hald,38189be1,J van Heerden,01549705,0,0,0,0,0,,,,,,4,0,4
+1383076,2023,Germany,3,J van Heerden,01549705,Lucky Ali,28b032ac,MJ Richardson,22176fe7,0,0,0,0,0,,,,,,1,0,1
+1383076,2023,Germany,3,MJ Richardson,22176fe7,Lucky Ali,28b032ac,J van Heerden,01549705,0,0,0,0,0,,,,,,0,0,0
+1383076,2023,Germany,3,MJ Richardson,22176fe7,Lucky Ali,28b032ac,J van Heerden,01549705,0,0,0,0,0,,,,,,4,0,4
+1383076,2023,Germany,3,MJ Richardson,22176fe7,Lucky Ali,28b032ac,J van Heerden,01549705,0,0,0,0,0,,,,,,4,0,4
+1383076,2023,Germany,3,MJ Richardson,22176fe7,Lucky Ali,28b032ac,J van Heerden,01549705,0,0,0,0,0,,,,,,2,0,2
+1383076,2023,Germany,3,MJ Richardson,22176fe7,Lucky Ali,28b032ac,J van Heerden,01549705,0,0,0,0,0,,,,,,0,0,0
+1383076,2023,Germany,4,J van Heerden,01549705,ND Laegsgaard,b0f2d3bd,MJ Richardson,22176fe7,0,0,0,0,0,,,,,,0,0,0
+1383076,2023,Germany,4,J van Heerden,01549705,ND Laegsgaard,b0f2d3bd,MJ Richardson,22176fe7,0,0,0,0,0,,,,,,4,0,4
+1383076,2023,Germany,4,J van Heerden,01549705,ND Laegsgaard,b0f2d3bd,MJ Richardson,22176fe7,0,0,0,0,0,,,,,,0,0,0
+1383076,2023,Germany,4,J van Heerden,01549705,ND Laegsgaard,b0f2d3bd,MJ Richardson,22176fe7,0,0,0,0,0,,,,,,0,0,0
+1383076,2023,Germany,4,J van Heerden,01549705,ND Laegsgaard,b0f2d3bd,MJ Richardson,22176fe7,0,0,0,0,0,,,,,,4,0,4
+1383076,2023,Germany,4,J van Heerden,01549705,ND Laegsgaard,b0f2d3bd,MJ Richardson,22176fe7,0,0,0,0,0,,,,,,1,0,1
+1383076,2023,Germany,5,J van Heerden,01549705,JS Henriksen,2c6052a6,MJ Richardson,22176fe7,0,0,0,0,0,,,,,,0,0,0
+1383076,2023,Germany,5,J van Heerden,01549705,JS Henriksen,2c6052a6,MJ Richardson,22176fe7,0,0,0,0,0,,,,,,4,0,4
+1383076,2023,Germany,5,J van Heerden,01549705,JS Henriksen,2c6052a6,MJ Richardson,22176fe7,0,0,0,0,0,,,,,,4,0,4
+1383076,2023,Germany,5,J van Heerden,01549705,JS Henriksen,2c6052a6,MJ Richardson,22176fe7,0,0,0,0,0,,,,,,4,0,4
+1383076,2023,Germany,5,J van Heerden,01549705,JS Henriksen,2c6052a6,MJ Richardson,22176fe7,0,0,0,0,0,,,,,,4,0,4
+1383076,2023,Germany,5,J van Heerden,01549705,JS Henriksen,2c6052a6,MJ Richardson,22176fe7,0,0,0,0,0,,,,,,1,0,1
+1383076,2023,Germany,6,J van Heerden,01549705,ND Laegsgaard,b0f2d3bd,MJ Richardson,22176fe7,0,0,0,0,0,,,,,,1,0,1
+1383076,2023,Germany,6,MJ Richardson,22176fe7,ND Laegsgaard,b0f2d3bd,J van Heerden,01549705,0,0,0,0,0,,,,,,0,0,0
+1383076,2023,Germany,6,MJ Richardson,22176fe7,ND Laegsgaard,b0f2d3bd,J van Heerden,01549705,0,0,0,0,0,,,,,,0,0,0
+1383076,2023,Germany,6,MJ Richardson,22176fe7,ND Laegsgaard,b0f2d3bd,J van Heerden,01549705,0,0,0,0,0,,,,,,0,0,0
+1383076,2023,Germany,6,MJ Richardson,22176fe7,ND Laegsgaard,b0f2d3bd,J van Heerden,01549705,0,0,0,0,0,,,,,,0,0,0
+1383076,2023,Germany,6,MJ Richardson,22176fe7,ND Laegsgaard,b0f2d3bd,J van Heerden,01549705,1,0,0,0,0,,,,,,0,1,1
+1383076,2023,Germany,6,MJ Richardson,22176fe7,ND Laegsgaard,b0f2d3bd,J van Heerden,01549705,0,0,0,0,0,,,,,,1,0,1
+1383076,2023,Germany,7,MJ Richardson,22176fe7,Abdullah Mahmood,926c6d3c,J van Heerden,01549705,0,0,0,0,0,,,,,,0,0,0
+1383076,2023,Germany,7,MJ Richardson,22176fe7,Abdullah Mahmood,926c6d3c,J van Heerden,01549705,0,0,0,0,0,,,,,,0,0,0
+1383076,2023,Germany,7,MJ Richardson,22176fe7,Abdullah Mahmood,926c6d3c,J van Heerden,01549705,0,0,0,0,0,,,,,,0,0,0
+1383076,2023,Germany,7,MJ Richardson,22176fe7,Abdullah Mahmood,926c6d3c,J van Heerden,01549705,0,0,0,0,1,MJ Richardson,22176fe7,,,bowled,0,0,0
+1383076,2023,Germany,7,Faisal Mubashir,ad5342dc,Abdullah Mahmood,926c6d3c,J van Heerden,01549705,0,0,0,0,0,,,,,,0,0,0
+1383076,2023,Germany,7,Faisal Mubashir,ad5342dc,Abdullah Mahmood,926c6d3c,J van Heerden,01549705,0,0,0,0,0,,,,,,1,0,1
+1383076,2023,Germany,8,Faisal Mubashir,ad5342dc,SA Ahmad,8de618ab,J van Heerden,01549705,0,0,0,0,0,,,,,,1,0,1
+1383076,2023,Germany,8,J van Heerden,01549705,SA Ahmad,8de618ab,Faisal Mubashir,ad5342dc,0,0,0,0,0,,,,,,0,0,0
+1383076,2023,Germany,8,J van Heerden,01549705,SA Ahmad,8de618ab,Faisal Mubashir,ad5342dc,0,0,0,0,0,,,,,,1,0,1
+1383076,2023,Germany,8,Faisal Mubashir,ad5342dc,SA Ahmad,8de618ab,J van Heerden,01549705,0,0,0,0,0,,,,,,1,0,1
+1383076,2023,Germany,8,J van Heerden,01549705,SA Ahmad,8de618ab,Faisal Mubashir,ad5342dc,0,0,0,0,0,,,,,,1,0,1
+1383076,2023,Germany,8,Faisal Mubashir,ad5342dc,SA Ahmad,8de618ab,J van Heerden,01549705,0,0,0,0,0,,,,,,1,0,1
+1383076,2023,Germany,9,Faisal Mubashir,ad5342dc,Abdullah Mahmood,926c6d3c,J van Heerden,01549705,0,0,0,0,0,,,,,,0,0,0
+1383076,2023,Germany,9,Faisal Mubashir,ad5342dc,Abdullah Mahmood,926c6d3c,J van Heerden,01549705,0,0,0,0,0,,,,,,0,0,0
+1383076,2023,Germany,9,Faisal Mubashir,ad5342dc,Abdullah Mahmood,926c6d3c,J van Heerden,01549705,0,0,0,0,0,,,,,,0,0,0
+1383076,2023,Germany,9,Faisal Mubashir,ad5342dc,Abdullah Mahmood,926c6d3c,J van Heerden,01549705,0,0,0,0,0,,,,,,1,0,1
+1383076,2023,Germany,9,J van Heerden,01549705,Abdullah Mahmood,926c6d3c,Faisal Mubashir,ad5342dc,0,0,0,0,0,,,,,,0,0,0
+1383076,2023,Germany,9,J van Heerden,01549705,Abdullah Mahmood,926c6d3c,Faisal Mubashir,ad5342dc,0,0,0,0,0,,,,,,0,0,0
+1383076,2023,Germany,10,Faisal Mubashir,ad5342dc,SA Ahmad,8de618ab,J van Heerden,01549705,0,0,0,0,0,,,,,,4,0,4
+1383076,2023,Germany,10,Faisal Mubashir,ad5342dc,SA Ahmad,8de618ab,J van Heerden,01549705,0,0,0,0,0,,,,,,1,0,1
+1383076,2023,Germany,10,J van Heerden,01549705,SA Ahmad,8de618ab,Faisal Mubashir,ad5342dc,0,0,0,0,0,,,,,,0,0,0
+1383076,2023,Germany,10,J van Heerden,01549705,SA Ahmad,8de618ab,Faisal Mubashir,ad5342dc,0,0,0,0,0,,,,,,0,0,0
+1383076,2023,Germany,10,J van Heerden,01549705,SA Ahmad,8de618ab,Faisal Mubashir,ad5342dc,0,0,0,0,0,,,,,,0,0,0
+1383076,2023,Germany,10,J van Heerden,01549705,SA Ahmad,8de618ab,Faisal Mubashir,ad5342dc,0,0,0,0,0,,,,,,1,0,1
+1383076,2023,Germany,11,J van Heerden,01549705,Abdullah Mahmood,926c6d3c,Faisal Mubashir,ad5342dc,0,0,0,0,0,,,,,,1,0,1
+1383076,2023,Germany,11,Faisal Mubashir,ad5342dc,Abdullah Mahmood,926c6d3c,J van Heerden,01549705,0,0,0,0,0,,,,,,1,0,1
+1383076,2023,Germany,11,J van Heerden,01549705,Abdullah Mahmood,926c6d3c,Faisal Mubashir,ad5342dc,0,0,0,0,0,,,,,,1,0,1
+1383076,2023,Germany,11,Faisal Mubashir,ad5342dc,Abdullah Mahmood,926c6d3c,J van Heerden,01549705,0,0,0,0,0,,,,,,1,0,1
+1383076,2023,Germany,11,J van Heerden,01549705,Abdullah Mahmood,926c6d3c,Faisal Mubashir,ad5342dc,0,0,0,0,1,J van Heerden,01549705,SA Ahmad,8de618ab,caught,0,0,0
+1383076,2023,Germany,11,Sahir Naqash,352e589f,Abdullah Mahmood,926c6d3c,Faisal Mubashir,ad5342dc,0,0,0,0,0,,,,,,4,0,4
+1383076,2023,Germany,12,Faisal Mubashir,ad5342dc,Saud Munir,5902f2eb,Sahir Naqash,352e589f,0,0,0,0,0,,,,,,2,0,2
+1383076,2023,Germany,12,Faisal Mubashir,ad5342dc,Saud Munir,5902f2eb,Sahir Naqash,352e589f,0,0,0,0,0,,,,,,1,0,1
+1383076,2023,Germany,12,Sahir Naqash,352e589f,Saud Munir,5902f2eb,Faisal Mubashir,ad5342dc,1,0,0,0,0,,,,,,0,1,1
+1383076,2023,Germany,12,Sahir Naqash,352e589f,Saud Munir,5902f2eb,Faisal Mubashir,ad5342dc,0,0,0,0,0,,,,,,0,0,0
+1383076,2023,Germany,12,Sahir Naqash,352e589f,Saud Munir,5902f2eb,Faisal Mubashir,ad5342dc,0,0,0,0,0,,,,,,2,0,2
+1383076,2023,Germany,12,Sahir Naqash,352e589f,Saud Munir,5902f2eb,Faisal Mubashir,ad5342dc,0,0,0,0,0,,,,,,4,0,4
+1383076,2023,Germany,12,Sahir Naqash,352e589f,Saud Munir,5902f2eb,Faisal Mubashir,ad5342dc,0,0,0,0,0,,,,,,1,0,1
+1383076,2023,Germany,13,Sahir Naqash,352e589f,Abdullah Mahmood,926c6d3c,Faisal Mubashir,ad5342dc,0,0,0,0,0,,,,,,1,0,1
+1383076,2023,Germany,13,Faisal Mubashir,ad5342dc,Abdullah Mahmood,926c6d3c,Sahir Naqash,352e589f,0,0,0,0,0,,,,,,1,0,1
+1383076,2023,Germany,13,Sahir Naqash,352e589f,Abdullah Mahmood,926c6d3c,Faisal Mubashir,ad5342dc,0,0,0,0,0,,,,,,6,0,6
+1383076,2023,Germany,13,Sahir Naqash,352e589f,Abdullah Mahmood,926c6d3c,Faisal Mubashir,ad5342dc,0,0,0,0,0,,,,,,2,0,2
+1383076,2023,Germany,13,Sahir Naqash,352e589f,Abdullah Mahmood,926c6d3c,Faisal Mubashir,ad5342dc,0,0,0,0,1,Sahir Naqash,352e589f,,,bowled,0,0,0
+1383076,2023,Germany,13,DA Blignaut,cfcf189f,Abdullah Mahmood,926c6d3c,Faisal Mubashir,ad5342dc,0,0,0,0,0,,,,,,2,0,2
+1383076,2023,Germany,14,Faisal Mubashir,ad5342dc,S Thanikaithasan,498aacac,DA Blignaut,cfcf189f,0,0,0,0,0,,,,,,1,0,1
+1383076,2023,Germany,14,DA Blignaut,cfcf189f,S Thanikaithasan,498aacac,Faisal Mubashir,ad5342dc,0,0,0,0,0,,,,,,0,0,0
+1383076,2023,Germany,14,DA Blignaut,cfcf189f,S Thanikaithasan,498aacac,Faisal Mubashir,ad5342dc,0,0,0,0,0,,,,,,1,0,1
+1383076,2023,Germany,14,Faisal Mubashir,ad5342dc,S Thanikaithasan,498aacac,DA Blignaut,cfcf189f,0,0,0,0,0,,,,,,0,0,0
+1383076,2023,Germany,14,Faisal Mubashir,ad5342dc,S Thanikaithasan,498aacac,DA Blignaut,cfcf189f,0,0,0,0,0,,,,,,0,0,0
+1383076,2023,Germany,14,Faisal Mubashir,ad5342dc,S Thanikaithasan,498aacac,DA Blignaut,cfcf189f,0,0,0,0,0,,,,,,4,0,4
+1383076,2023,Germany,15,DA Blignaut,cfcf189f,ND Laegsgaard,b0f2d3bd,Faisal Mubashir,ad5342dc,0,0,0,0,0,,,,,,0,0,0
+1383076,2023,Germany,15,DA Blignaut,cfcf189f,ND Laegsgaard,b0f2d3bd,Faisal Mubashir,ad5342dc,0,0,0,0,0,,,,,,0,0,0
+1383076,2023,Germany,15,DA Blignaut,cfcf189f,ND Laegsgaard,b0f2d3bd,Faisal Mubashir,ad5342dc,0,0,0,0,0,,,,,,0,0,0
+1383076,2023,Germany,15,DA Blignaut,cfcf189f,ND Laegsgaard,b0f2d3bd,Faisal Mubashir,ad5342dc,0,0,0,0,0,,,,,,0,0,0
+1383076,2023,Germany,15,DA Blignaut,cfcf189f,ND Laegsgaard,b0f2d3bd,Faisal Mubashir,ad5342dc,0,0,0,0,0,,,,,,1,0,1
+1383076,2023,Germany,15,Faisal Mubashir,ad5342dc,ND Laegsgaard,b0f2d3bd,DA Blignaut,cfcf189f,0,0,0,0,0,,,,,,0,0,0
+1383076,2023,Germany,16,DA Blignaut,cfcf189f,S Thanikaithasan,498aacac,Faisal Mubashir,ad5342dc,0,0,0,0,0,,,,,,2,0,2
+1383076,2023,Germany,16,DA Blignaut,cfcf189f,S Thanikaithasan,498aacac,Faisal Mubashir,ad5342dc,0,0,0,0,0,,,,,,0,0,0
+1383076,2023,Germany,16,DA Blignaut,cfcf189f,S Thanikaithasan,498aacac,Faisal Mubashir,ad5342dc,0,0,0,0,0,,,,,,0,0,0
+1383076,2023,Germany,16,DA Blignaut,cfcf189f,S Thanikaithasan,498aacac,Faisal Mubashir,ad5342dc,0,0,0,0,0,,,,,,0,0,0
+1383076,2023,Germany,16,DA Blignaut,cfcf189f,S Thanikaithasan,498aacac,Faisal Mubashir,ad5342dc,0,0,0,0,0,,,,,,6,0,6

@@ -1,0 +1,222 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1377728,2023,New Zealand,0,CJ Bowes,45df0e72,Muhammad Jawadullah,098a757c,TL Seifert,4663bd23,0,0,0,0,0,,,,,,0,0,0
+1377728,2023,New Zealand,0,CJ Bowes,45df0e72,Muhammad Jawadullah,098a757c,TL Seifert,4663bd23,0,0,0,0,0,,,,,,0,0,0
+1377728,2023,New Zealand,0,CJ Bowes,45df0e72,Muhammad Jawadullah,098a757c,TL Seifert,4663bd23,0,0,0,0,0,,,,,,1,0,1
+1377728,2023,New Zealand,0,TL Seifert,4663bd23,Muhammad Jawadullah,098a757c,CJ Bowes,45df0e72,1,0,0,0,0,,,,,,0,1,1
+1377728,2023,New Zealand,0,TL Seifert,4663bd23,Muhammad Jawadullah,098a757c,CJ Bowes,45df0e72,0,0,1,0,0,,,,,,0,1,1
+1377728,2023,New Zealand,0,CJ Bowes,45df0e72,Muhammad Jawadullah,098a757c,TL Seifert,4663bd23,0,0,0,0,0,,,,,,0,0,0
+1377728,2023,New Zealand,0,CJ Bowes,45df0e72,Muhammad Jawadullah,098a757c,TL Seifert,4663bd23,0,0,0,0,0,,,,,,1,0,1
+1377728,2023,New Zealand,1,CJ Bowes,45df0e72,Aayan Afzal Khan,d2d15439,TL Seifert,4663bd23,0,0,0,0,0,,,,,,0,0,0
+1377728,2023,New Zealand,1,CJ Bowes,45df0e72,Aayan Afzal Khan,d2d15439,TL Seifert,4663bd23,0,0,0,0,0,,,,,,1,0,1
+1377728,2023,New Zealand,1,TL Seifert,4663bd23,Aayan Afzal Khan,d2d15439,CJ Bowes,45df0e72,0,0,0,0,0,,,,,,1,0,1
+1377728,2023,New Zealand,1,CJ Bowes,45df0e72,Aayan Afzal Khan,d2d15439,TL Seifert,4663bd23,0,0,0,0,0,,,,,,1,0,1
+1377728,2023,New Zealand,1,TL Seifert,4663bd23,Aayan Afzal Khan,d2d15439,CJ Bowes,45df0e72,0,0,0,0,0,,,,,,6,0,6
+1377728,2023,New Zealand,1,TL Seifert,4663bd23,Aayan Afzal Khan,d2d15439,CJ Bowes,45df0e72,0,0,0,0,0,,,,,,0,0,0
+1377728,2023,New Zealand,2,CJ Bowes,45df0e72,Muhammad Jawadullah,098a757c,TL Seifert,4663bd23,0,0,0,0,0,,,,,,0,0,0
+1377728,2023,New Zealand,2,CJ Bowes,45df0e72,Muhammad Jawadullah,098a757c,TL Seifert,4663bd23,0,0,0,0,0,,,,,,0,0,0
+1377728,2023,New Zealand,2,CJ Bowes,45df0e72,Muhammad Jawadullah,098a757c,TL Seifert,4663bd23,0,0,0,0,0,,,,,,1,0,1
+1377728,2023,New Zealand,2,TL Seifert,4663bd23,Muhammad Jawadullah,098a757c,CJ Bowes,45df0e72,0,0,0,0,0,,,,,,0,0,0
+1377728,2023,New Zealand,2,TL Seifert,4663bd23,Muhammad Jawadullah,098a757c,CJ Bowes,45df0e72,0,0,0,0,1,TL Seifert,4663bd23,,,bowled,0,0,0
+1377728,2023,New Zealand,2,MJ Santner,e4a0deae,Muhammad Jawadullah,098a757c,CJ Bowes,45df0e72,0,0,0,0,0,,,,,,0,0,0
+1377728,2023,New Zealand,3,CJ Bowes,45df0e72,Ali Naseer,f5715b48,MJ Santner,e4a0deae,0,0,0,0,0,,,,,,4,0,4
+1377728,2023,New Zealand,3,CJ Bowes,45df0e72,Ali Naseer,f5715b48,MJ Santner,e4a0deae,0,0,0,0,0,,,,,,0,0,0
+1377728,2023,New Zealand,3,CJ Bowes,45df0e72,Ali Naseer,f5715b48,MJ Santner,e4a0deae,0,0,0,0,0,,,,,,0,0,0
+1377728,2023,New Zealand,3,CJ Bowes,45df0e72,Ali Naseer,f5715b48,MJ Santner,e4a0deae,0,0,0,0,0,,,,,,6,0,6
+1377728,2023,New Zealand,3,CJ Bowes,45df0e72,Ali Naseer,f5715b48,MJ Santner,e4a0deae,1,0,0,0,0,,,,,,0,1,1
+1377728,2023,New Zealand,3,CJ Bowes,45df0e72,Ali Naseer,f5715b48,MJ Santner,e4a0deae,0,0,1,0,0,,,,,,0,1,1
+1377728,2023,New Zealand,3,MJ Santner,e4a0deae,Ali Naseer,f5715b48,CJ Bowes,45df0e72,0,0,0,0,0,,,,,,1,0,1
+1377728,2023,New Zealand,4,MJ Santner,e4a0deae,Aayan Afzal Khan,d2d15439,CJ Bowes,45df0e72,0,0,0,0,0,,,,,,0,0,0
+1377728,2023,New Zealand,4,MJ Santner,e4a0deae,Aayan Afzal Khan,d2d15439,CJ Bowes,45df0e72,0,0,0,0,1,MJ Santner,e4a0deae,,,bowled,0,0,0
+1377728,2023,New Zealand,4,D Cleaver,e3a949be,Aayan Afzal Khan,d2d15439,CJ Bowes,45df0e72,0,0,0,0,1,D Cleaver,e3a949be,,,bowled,0,0,0
+1377728,2023,New Zealand,4,MS Chapman,7fa12533,Aayan Afzal Khan,d2d15439,CJ Bowes,45df0e72,0,0,0,0,0,,,,,,1,0,1
+1377728,2023,New Zealand,4,CJ Bowes,45df0e72,Aayan Afzal Khan,d2d15439,MS Chapman,7fa12533,0,0,0,0,0,,,,,,0,0,0
+1377728,2023,New Zealand,4,CJ Bowes,45df0e72,Aayan Afzal Khan,d2d15439,MS Chapman,7fa12533,0,0,0,0,0,,,,,,1,0,1
+1377728,2023,New Zealand,5,CJ Bowes,45df0e72,Zahoor Khan,f0e293b0,MS Chapman,7fa12533,0,0,0,0,0,,,,,,4,0,4
+1377728,2023,New Zealand,5,CJ Bowes,45df0e72,Zahoor Khan,f0e293b0,MS Chapman,7fa12533,0,0,0,0,0,,,,,,1,0,1
+1377728,2023,New Zealand,5,MS Chapman,7fa12533,Zahoor Khan,f0e293b0,CJ Bowes,45df0e72,0,0,0,0,0,,,,,,0,0,0
+1377728,2023,New Zealand,5,MS Chapman,7fa12533,Zahoor Khan,f0e293b0,CJ Bowes,45df0e72,0,0,0,0,0,,,,,,2,0,2
+1377728,2023,New Zealand,5,MS Chapman,7fa12533,Zahoor Khan,f0e293b0,CJ Bowes,45df0e72,0,0,0,0,0,,,,,,0,0,0
+1377728,2023,New Zealand,5,MS Chapman,7fa12533,Zahoor Khan,f0e293b0,CJ Bowes,45df0e72,0,0,0,0,0,,,,,,1,0,1
+1377728,2023,New Zealand,6,MS Chapman,7fa12533,Aayan Afzal Khan,d2d15439,CJ Bowes,45df0e72,0,0,0,0,0,,,,,,1,0,1
+1377728,2023,New Zealand,6,CJ Bowes,45df0e72,Aayan Afzal Khan,d2d15439,MS Chapman,7fa12533,0,0,0,0,1,CJ Bowes,45df0e72,A Sharma,5661ef90,stumped,0,0,0
+1377728,2023,New Zealand,6,CE McConchie,d285acaf,Aayan Afzal Khan,d2d15439,MS Chapman,7fa12533,0,0,0,0,0,,,,,,0,0,0
+1377728,2023,New Zealand,6,CE McConchie,d285acaf,Aayan Afzal Khan,d2d15439,MS Chapman,7fa12533,0,0,0,0,0,,,,,,1,0,1
+1377728,2023,New Zealand,6,MS Chapman,7fa12533,Aayan Afzal Khan,d2d15439,CE McConchie,d285acaf,0,0,0,0,0,,,,,,1,0,1
+1377728,2023,New Zealand,6,CE McConchie,d285acaf,Aayan Afzal Khan,d2d15439,MS Chapman,7fa12533,0,0,0,0,0,,,,,,1,0,1
+1377728,2023,New Zealand,7,CE McConchie,d285acaf,Mohammed Faraazuddin,18ac3318,MS Chapman,7fa12533,0,0,0,0,0,,,,,,1,0,1
+1377728,2023,New Zealand,7,MS Chapman,7fa12533,Mohammed Faraazuddin,18ac3318,CE McConchie,d285acaf,0,0,0,0,0,,,,,,1,0,1
+1377728,2023,New Zealand,7,CE McConchie,d285acaf,Mohammed Faraazuddin,18ac3318,MS Chapman,7fa12533,0,0,0,0,0,,,,,,1,0,1
+1377728,2023,New Zealand,7,MS Chapman,7fa12533,Mohammed Faraazuddin,18ac3318,CE McConchie,d285acaf,0,0,0,0,0,,,,,,0,0,0
+1377728,2023,New Zealand,7,MS Chapman,7fa12533,Mohammed Faraazuddin,18ac3318,CE McConchie,d285acaf,0,0,0,0,0,,,,,,1,0,1
+1377728,2023,New Zealand,7,CE McConchie,d285acaf,Mohammed Faraazuddin,18ac3318,MS Chapman,7fa12533,0,0,0,0,0,,,,,,0,0,0
+1377728,2023,New Zealand,8,MS Chapman,7fa12533,Aayan Afzal Khan,d2d15439,CE McConchie,d285acaf,0,0,0,0,0,,,,,,1,0,1
+1377728,2023,New Zealand,8,CE McConchie,d285acaf,Aayan Afzal Khan,d2d15439,MS Chapman,7fa12533,0,0,0,0,0,,,,,,1,0,1
+1377728,2023,New Zealand,8,MS Chapman,7fa12533,Aayan Afzal Khan,d2d15439,CE McConchie,d285acaf,0,0,0,0,0,,,,,,1,0,1
+1377728,2023,New Zealand,8,CE McConchie,d285acaf,Aayan Afzal Khan,d2d15439,MS Chapman,7fa12533,0,0,0,0,0,,,,,,0,0,0
+1377728,2023,New Zealand,8,CE McConchie,d285acaf,Aayan Afzal Khan,d2d15439,MS Chapman,7fa12533,0,0,0,0,0,,,,,,1,0,1
+1377728,2023,New Zealand,8,MS Chapman,7fa12533,Aayan Afzal Khan,d2d15439,CE McConchie,d285acaf,0,0,0,0,0,,,,,,1,0,1
+1377728,2023,New Zealand,9,MS Chapman,7fa12533,Mohammed Faraazuddin,18ac3318,CE McConchie,d285acaf,0,0,0,0,0,,,,,,4,0,4
+1377728,2023,New Zealand,9,MS Chapman,7fa12533,Mohammed Faraazuddin,18ac3318,CE McConchie,d285acaf,0,0,0,0,0,,,,,,1,0,1
+1377728,2023,New Zealand,9,CE McConchie,d285acaf,Mohammed Faraazuddin,18ac3318,MS Chapman,7fa12533,0,0,0,0,0,,,,,,0,0,0
+1377728,2023,New Zealand,9,CE McConchie,d285acaf,Mohammed Faraazuddin,18ac3318,MS Chapman,7fa12533,0,0,0,0,0,,,,,,1,0,1
+1377728,2023,New Zealand,9,MS Chapman,7fa12533,Mohammed Faraazuddin,18ac3318,CE McConchie,d285acaf,0,0,0,0,0,,,,,,1,0,1
+1377728,2023,New Zealand,9,CE McConchie,d285acaf,Mohammed Faraazuddin,18ac3318,MS Chapman,7fa12533,0,0,0,0,0,,,,,,1,0,1
+1377728,2023,New Zealand,10,CE McConchie,d285acaf,Zahoor Khan,f0e293b0,MS Chapman,7fa12533,0,0,0,0,0,,,,,,1,0,1
+1377728,2023,New Zealand,10,MS Chapman,7fa12533,Zahoor Khan,f0e293b0,CE McConchie,d285acaf,0,0,0,0,0,,,,,,0,0,0
+1377728,2023,New Zealand,10,MS Chapman,7fa12533,Zahoor Khan,f0e293b0,CE McConchie,d285acaf,0,0,0,0,0,,,,,,0,0,0
+1377728,2023,New Zealand,10,MS Chapman,7fa12533,Zahoor Khan,f0e293b0,CE McConchie,d285acaf,0,0,0,0,0,,,,,,0,0,0
+1377728,2023,New Zealand,10,MS Chapman,7fa12533,Zahoor Khan,f0e293b0,CE McConchie,d285acaf,0,0,0,0,0,,,,,,0,0,0
+1377728,2023,New Zealand,10,MS Chapman,7fa12533,Zahoor Khan,f0e293b0,CE McConchie,d285acaf,0,0,0,0,0,,,,,,1,0,1
+1377728,2023,New Zealand,11,MS Chapman,7fa12533,Mohammed Faraazuddin,18ac3318,CE McConchie,d285acaf,0,0,0,0,0,,,,,,4,0,4
+1377728,2023,New Zealand,11,MS Chapman,7fa12533,Mohammed Faraazuddin,18ac3318,CE McConchie,d285acaf,0,0,0,0,0,,,,,,1,0,1
+1377728,2023,New Zealand,11,CE McConchie,d285acaf,Mohammed Faraazuddin,18ac3318,MS Chapman,7fa12533,0,0,0,0,1,CE McConchie,d285acaf,Ansh Tandon,599ce28e,caught,0,0,0
+1377728,2023,New Zealand,11,JDS Neesham,9219eff0,Mohammed Faraazuddin,18ac3318,MS Chapman,7fa12533,0,0,0,0,0,,,,,,1,0,1
+1377728,2023,New Zealand,11,MS Chapman,7fa12533,Mohammed Faraazuddin,18ac3318,JDS Neesham,9219eff0,0,0,0,0,0,,,,,,1,0,1
+1377728,2023,New Zealand,11,JDS Neesham,9219eff0,Mohammed Faraazuddin,18ac3318,MS Chapman,7fa12533,0,0,0,0,0,,,,,,1,0,1
+1377728,2023,New Zealand,12,JDS Neesham,9219eff0,Basil Hameed,adbf0400,MS Chapman,7fa12533,0,0,0,0,0,,,,,,0,0,0
+1377728,2023,New Zealand,12,JDS Neesham,9219eff0,Basil Hameed,adbf0400,MS Chapman,7fa12533,0,0,0,0,0,,,,,,4,0,4
+1377728,2023,New Zealand,12,JDS Neesham,9219eff0,Basil Hameed,adbf0400,MS Chapman,7fa12533,0,0,0,0,0,,,,,,1,0,1
+1377728,2023,New Zealand,12,MS Chapman,7fa12533,Basil Hameed,adbf0400,JDS Neesham,9219eff0,0,0,0,0,0,,,,,,0,0,0
+1377728,2023,New Zealand,12,MS Chapman,7fa12533,Basil Hameed,adbf0400,JDS Neesham,9219eff0,0,0,0,0,0,,,,,,1,0,1
+1377728,2023,New Zealand,12,JDS Neesham,9219eff0,Basil Hameed,adbf0400,MS Chapman,7fa12533,0,0,0,0,0,,,,,,1,0,1
+1377728,2023,New Zealand,13,JDS Neesham,9219eff0,Mohammed Faraazuddin,18ac3318,MS Chapman,7fa12533,0,0,0,0,0,,,,,,4,0,4
+1377728,2023,New Zealand,13,JDS Neesham,9219eff0,Mohammed Faraazuddin,18ac3318,MS Chapman,7fa12533,0,0,0,0,0,,,,,,1,0,1
+1377728,2023,New Zealand,13,MS Chapman,7fa12533,Mohammed Faraazuddin,18ac3318,JDS Neesham,9219eff0,0,0,0,0,0,,,,,,1,0,1
+1377728,2023,New Zealand,13,JDS Neesham,9219eff0,Mohammed Faraazuddin,18ac3318,MS Chapman,7fa12533,0,0,0,0,0,,,,,,1,0,1
+1377728,2023,New Zealand,13,MS Chapman,7fa12533,Mohammed Faraazuddin,18ac3318,JDS Neesham,9219eff0,0,0,0,0,0,,,,,,6,0,6
+1377728,2023,New Zealand,13,MS Chapman,7fa12533,Mohammed Faraazuddin,18ac3318,JDS Neesham,9219eff0,0,0,0,0,0,,,,,,4,0,4
+1377728,2023,New Zealand,14,JDS Neesham,9219eff0,Muhammad Jawadullah,098a757c,MS Chapman,7fa12533,0,0,0,0,0,,,,,,0,0,0
+1377728,2023,New Zealand,14,JDS Neesham,9219eff0,Muhammad Jawadullah,098a757c,MS Chapman,7fa12533,0,0,0,0,0,,,,,,1,0,1
+1377728,2023,New Zealand,14,MS Chapman,7fa12533,Muhammad Jawadullah,098a757c,JDS Neesham,9219eff0,0,0,0,0,0,,,,,,1,0,1
+1377728,2023,New Zealand,14,JDS Neesham,9219eff0,Muhammad Jawadullah,098a757c,MS Chapman,7fa12533,0,0,0,0,0,,,,,,2,0,2
+1377728,2023,New Zealand,14,JDS Neesham,9219eff0,Muhammad Jawadullah,098a757c,MS Chapman,7fa12533,0,0,0,0,0,,,,,,1,0,1
+1377728,2023,New Zealand,14,MS Chapman,7fa12533,Muhammad Jawadullah,098a757c,JDS Neesham,9219eff0,0,0,0,0,0,,,,,,0,0,0
+1377728,2023,New Zealand,15,JDS Neesham,9219eff0,Zahoor Khan,f0e293b0,MS Chapman,7fa12533,0,0,0,0,0,,,,,,1,0,1
+1377728,2023,New Zealand,15,MS Chapman,7fa12533,Zahoor Khan,f0e293b0,JDS Neesham,9219eff0,0,0,0,0,0,,,,,,1,0,1
+1377728,2023,New Zealand,15,JDS Neesham,9219eff0,Zahoor Khan,f0e293b0,MS Chapman,7fa12533,0,0,0,0,0,,,,,,1,0,1
+1377728,2023,New Zealand,15,MS Chapman,7fa12533,Zahoor Khan,f0e293b0,JDS Neesham,9219eff0,0,0,0,0,0,,,,,,2,0,2
+1377728,2023,New Zealand,15,MS Chapman,7fa12533,Zahoor Khan,f0e293b0,JDS Neesham,9219eff0,0,0,0,0,0,,,,,,6,0,6
+1377728,2023,New Zealand,15,MS Chapman,7fa12533,Zahoor Khan,f0e293b0,JDS Neesham,9219eff0,0,0,0,0,0,,,,,,6,0,6
+1377728,2023,New Zealand,16,JDS Neesham,9219eff0,Ali Naseer,f5715b48,MS Chapman,7fa12533,0,0,0,0,0,,,,,,1,0,1
+1377728,2023,New Zealand,16,MS Chapman,7fa12533,Ali Naseer,f5715b48,JDS Neesham,9219eff0,0,0,0,0,0,,,,,,2,0,2
+1377728,2023,New Zealand,16,MS Chapman,7fa12533,Ali Naseer,f5715b48,JDS Neesham,9219eff0,0,0,0,0,0,,,,,,0,0,0
+1377728,2023,New Zealand,16,MS Chapman,7fa12533,Ali Naseer,f5715b48,JDS Neesham,9219eff0,0,0,0,0,0,,,,,,1,0,1
+1377728,2023,New Zealand,16,JDS Neesham,9219eff0,Ali Naseer,f5715b48,MS Chapman,7fa12533,0,0,0,0,1,JDS Neesham,9219eff0,Waseem Muhammad,6f02fe2a,caught,0,0,0
+1377728,2023,New Zealand,16,R Ravindra,ba5e1069,Ali Naseer,f5715b48,MS Chapman,7fa12533,0,0,0,0,0,,,,,,1,0,1
+1377728,2023,New Zealand,17,R Ravindra,ba5e1069,Muhammad Jawadullah,098a757c,MS Chapman,7fa12533,0,0,0,0,0,,,,,,1,0,1
+1377728,2023,New Zealand,17,MS Chapman,7fa12533,Muhammad Jawadullah,098a757c,R Ravindra,ba5e1069,0,0,0,0,0,,,,,,0,0,0
+1377728,2023,New Zealand,17,MS Chapman,7fa12533,Muhammad Jawadullah,098a757c,R Ravindra,ba5e1069,0,0,0,0,0,,,,,,1,0,1
+1377728,2023,New Zealand,17,R Ravindra,ba5e1069,Muhammad Jawadullah,098a757c,MS Chapman,7fa12533,0,0,0,0,0,,,,,,0,0,0
+1377728,2023,New Zealand,17,R Ravindra,ba5e1069,Muhammad Jawadullah,098a757c,MS Chapman,7fa12533,0,0,0,0,1,R Ravindra,ba5e1069,,,lbw,0,0,0
+1377728,2023,New Zealand,17,KA Jamieson,68c56d09,Muhammad Jawadullah,098a757c,MS Chapman,7fa12533,0,1,0,0,0,,,,,,1,1,2
+1377728,2023,New Zealand,17,MS Chapman,7fa12533,Muhammad Jawadullah,098a757c,KA Jamieson,68c56d09,0,0,0,0,0,,,,,,3,0,3
+1377728,2023,New Zealand,18,MS Chapman,7fa12533,Ali Naseer,f5715b48,KA Jamieson,68c56d09,0,0,0,0,0,,,,,,1,0,1
+1377728,2023,New Zealand,18,KA Jamieson,68c56d09,Ali Naseer,f5715b48,MS Chapman,7fa12533,0,0,0,0,0,,,,,,2,0,2
+1377728,2023,New Zealand,18,KA Jamieson,68c56d09,Ali Naseer,f5715b48,MS Chapman,7fa12533,0,0,0,0,0,,,,,,2,0,2
+1377728,2023,New Zealand,18,KA Jamieson,68c56d09,Ali Naseer,f5715b48,MS Chapman,7fa12533,0,0,0,0,0,,,,,,1,0,1
+1377728,2023,New Zealand,18,MS Chapman,7fa12533,Ali Naseer,f5715b48,KA Jamieson,68c56d09,0,0,0,0,0,,,,,,1,0,1
+1377728,2023,New Zealand,18,KA Jamieson,68c56d09,Ali Naseer,f5715b48,MS Chapman,7fa12533,0,0,0,0,0,,,,,,1,0,1
+1377728,2023,New Zealand,19,KA Jamieson,68c56d09,Zahoor Khan,f0e293b0,MS Chapman,7fa12533,0,0,0,0,0,,,,,,1,0,1
+1377728,2023,New Zealand,19,MS Chapman,7fa12533,Zahoor Khan,f0e293b0,KA Jamieson,68c56d09,0,0,0,0,0,,,,,,2,0,2
+1377728,2023,New Zealand,19,MS Chapman,7fa12533,Zahoor Khan,f0e293b0,KA Jamieson,68c56d09,1,0,0,0,0,,,,,,0,1,1
+1377728,2023,New Zealand,19,MS Chapman,7fa12533,Zahoor Khan,f0e293b0,KA Jamieson,68c56d09,0,0,0,0,0,,,,,,0,0,0
+1377728,2023,New Zealand,19,MS Chapman,7fa12533,Zahoor Khan,f0e293b0,KA Jamieson,68c56d09,0,0,0,0,1,MS Chapman,7fa12533,Ethan D'Souza,31ca7a9c,caught,0,0,0
+1377728,2023,New Zealand,19,TG Southee,13c35c9e,Zahoor Khan,f0e293b0,KA Jamieson,68c56d09,0,0,0,0,0,,,,,,2,0,2
+1377728,2023,New Zealand,19,TG Southee,13c35c9e,Zahoor Khan,f0e293b0,KA Jamieson,68c56d09,0,0,0,0,0,,,,,,2,0,2
+1377728,2023,United Arab Emirates,0,A Sharma,5661ef90,TG Southee,13c35c9e,Waseem Muhammad,6f02fe2a,0,0,0,0,0,,,,,,0,0,0
+1377728,2023,United Arab Emirates,0,A Sharma,5661ef90,TG Southee,13c35c9e,Waseem Muhammad,6f02fe2a,0,0,0,0,0,,,,,,0,0,0
+1377728,2023,United Arab Emirates,0,A Sharma,5661ef90,TG Southee,13c35c9e,Waseem Muhammad,6f02fe2a,0,0,0,0,1,A Sharma,5661ef90,JDS Neesham,9219eff0,caught,0,0,0
+1377728,2023,United Arab Emirates,0,V Aravind,cddafe26,TG Southee,13c35c9e,Waseem Muhammad,6f02fe2a,0,0,0,0,0,,,,,,0,0,0
+1377728,2023,United Arab Emirates,0,V Aravind,cddafe26,TG Southee,13c35c9e,Waseem Muhammad,6f02fe2a,0,0,0,0,0,,,,,,0,0,0
+1377728,2023,United Arab Emirates,0,V Aravind,cddafe26,TG Southee,13c35c9e,Waseem Muhammad,6f02fe2a,0,0,0,0,0,,,,,,0,0,0
+1377728,2023,United Arab Emirates,1,Waseem Muhammad,6f02fe2a,BG Lister,79f5bc26,V Aravind,cddafe26,0,0,0,0,0,,,,,,0,0,0
+1377728,2023,United Arab Emirates,1,Waseem Muhammad,6f02fe2a,BG Lister,79f5bc26,V Aravind,cddafe26,0,0,0,0,0,,,,,,4,0,4
+1377728,2023,United Arab Emirates,1,Waseem Muhammad,6f02fe2a,BG Lister,79f5bc26,V Aravind,cddafe26,0,0,0,0,0,,,,,,1,0,1
+1377728,2023,United Arab Emirates,1,V Aravind,cddafe26,BG Lister,79f5bc26,Waseem Muhammad,6f02fe2a,0,0,0,0,0,,,,,,0,0,0
+1377728,2023,United Arab Emirates,1,V Aravind,cddafe26,BG Lister,79f5bc26,Waseem Muhammad,6f02fe2a,0,0,0,0,0,,,,,,0,0,0
+1377728,2023,United Arab Emirates,1,V Aravind,cddafe26,BG Lister,79f5bc26,Waseem Muhammad,6f02fe2a,0,0,0,0,0,,,,,,0,0,0
+1377728,2023,United Arab Emirates,2,Waseem Muhammad,6f02fe2a,TG Southee,13c35c9e,V Aravind,cddafe26,0,0,0,0,0,,,,,,0,0,0
+1377728,2023,United Arab Emirates,2,Waseem Muhammad,6f02fe2a,TG Southee,13c35c9e,V Aravind,cddafe26,0,0,0,0,0,,,,,,0,0,0
+1377728,2023,United Arab Emirates,2,Waseem Muhammad,6f02fe2a,TG Southee,13c35c9e,V Aravind,cddafe26,0,0,0,0,0,,,,,,0,0,0
+1377728,2023,United Arab Emirates,2,Waseem Muhammad,6f02fe2a,TG Southee,13c35c9e,V Aravind,cddafe26,0,0,1,0,0,,,,,,0,1,1
+1377728,2023,United Arab Emirates,2,V Aravind,cddafe26,TG Southee,13c35c9e,Waseem Muhammad,6f02fe2a,0,0,0,0,0,,,,,,4,0,4
+1377728,2023,United Arab Emirates,2,V Aravind,cddafe26,TG Southee,13c35c9e,Waseem Muhammad,6f02fe2a,0,0,0,0,0,,,,,,6,0,6
+1377728,2023,United Arab Emirates,3,Waseem Muhammad,6f02fe2a,BG Lister,79f5bc26,V Aravind,cddafe26,0,0,0,0,0,,,,,,2,0,2
+1377728,2023,United Arab Emirates,3,Waseem Muhammad,6f02fe2a,BG Lister,79f5bc26,V Aravind,cddafe26,0,0,0,0,0,,,,,,1,0,1
+1377728,2023,United Arab Emirates,3,V Aravind,cddafe26,BG Lister,79f5bc26,Waseem Muhammad,6f02fe2a,0,0,0,0,0,,,,,,0,0,0
+1377728,2023,United Arab Emirates,3,V Aravind,cddafe26,BG Lister,79f5bc26,Waseem Muhammad,6f02fe2a,0,0,0,0,0,,,,,,4,0,4
+1377728,2023,United Arab Emirates,3,V Aravind,cddafe26,BG Lister,79f5bc26,Waseem Muhammad,6f02fe2a,0,0,0,0,0,,,,,,1,0,1
+1377728,2023,United Arab Emirates,3,Waseem Muhammad,6f02fe2a,BG Lister,79f5bc26,V Aravind,cddafe26,0,0,0,0,0,,,,,,4,0,4
+1377728,2023,United Arab Emirates,4,V Aravind,cddafe26,MJ Santner,e4a0deae,Waseem Muhammad,6f02fe2a,0,0,0,0,0,,,,,,0,0,0
+1377728,2023,United Arab Emirates,4,V Aravind,cddafe26,MJ Santner,e4a0deae,Waseem Muhammad,6f02fe2a,0,0,0,0,0,,,,,,0,0,0
+1377728,2023,United Arab Emirates,4,V Aravind,cddafe26,MJ Santner,e4a0deae,Waseem Muhammad,6f02fe2a,0,0,0,0,0,,,,,,0,0,0
+1377728,2023,United Arab Emirates,4,V Aravind,cddafe26,MJ Santner,e4a0deae,Waseem Muhammad,6f02fe2a,0,0,0,0,0,,,,,,0,0,0
+1377728,2023,United Arab Emirates,4,V Aravind,cddafe26,MJ Santner,e4a0deae,Waseem Muhammad,6f02fe2a,0,0,0,0,0,,,,,,4,0,4
+1377728,2023,United Arab Emirates,4,V Aravind,cddafe26,MJ Santner,e4a0deae,Waseem Muhammad,6f02fe2a,0,0,0,0,0,,,,,,0,0,0
+1377728,2023,United Arab Emirates,5,Waseem Muhammad,6f02fe2a,KA Jamieson,68c56d09,V Aravind,cddafe26,0,0,0,0,0,,,,,,1,0,1
+1377728,2023,United Arab Emirates,5,V Aravind,cddafe26,KA Jamieson,68c56d09,Waseem Muhammad,6f02fe2a,1,0,0,0,0,,,,,,0,1,1
+1377728,2023,United Arab Emirates,5,V Aravind,cddafe26,KA Jamieson,68c56d09,Waseem Muhammad,6f02fe2a,0,0,0,0,0,,,,,,6,0,6
+1377728,2023,United Arab Emirates,5,V Aravind,cddafe26,KA Jamieson,68c56d09,Waseem Muhammad,6f02fe2a,0,0,0,0,0,,,,,,0,0,0
+1377728,2023,United Arab Emirates,5,V Aravind,cddafe26,KA Jamieson,68c56d09,Waseem Muhammad,6f02fe2a,0,0,0,0,0,,,,,,0,0,0
+1377728,2023,United Arab Emirates,5,V Aravind,cddafe26,KA Jamieson,68c56d09,Waseem Muhammad,6f02fe2a,0,0,0,0,1,V Aravind,cddafe26,,,bowled,0,0,0
+1377728,2023,United Arab Emirates,5,Asif Khan,074acfb4,KA Jamieson,68c56d09,Waseem Muhammad,6f02fe2a,0,0,0,0,0,,,,,,4,0,4
+1377728,2023,United Arab Emirates,6,Waseem Muhammad,6f02fe2a,MJ Santner,e4a0deae,Asif Khan,074acfb4,0,0,0,0,0,,,,,,2,0,2
+1377728,2023,United Arab Emirates,6,Waseem Muhammad,6f02fe2a,MJ Santner,e4a0deae,Asif Khan,074acfb4,0,0,0,0,0,,,,,,1,0,1
+1377728,2023,United Arab Emirates,6,Asif Khan,074acfb4,MJ Santner,e4a0deae,Waseem Muhammad,6f02fe2a,0,0,0,0,0,,,,,,2,0,2
+1377728,2023,United Arab Emirates,6,Asif Khan,074acfb4,MJ Santner,e4a0deae,Waseem Muhammad,6f02fe2a,0,0,0,0,0,,,,,,1,0,1
+1377728,2023,United Arab Emirates,6,Waseem Muhammad,6f02fe2a,MJ Santner,e4a0deae,Asif Khan,074acfb4,0,0,0,0,0,,,,,,4,0,4
+1377728,2023,United Arab Emirates,6,Waseem Muhammad,6f02fe2a,MJ Santner,e4a0deae,Asif Khan,074acfb4,0,0,0,0,0,,,,,,1,0,1
+1377728,2023,United Arab Emirates,7,Waseem Muhammad,6f02fe2a,KA Jamieson,68c56d09,Asif Khan,074acfb4,0,0,0,0,0,,,,,,1,0,1
+1377728,2023,United Arab Emirates,7,Asif Khan,074acfb4,KA Jamieson,68c56d09,Waseem Muhammad,6f02fe2a,0,0,0,0,0,,,,,,1,0,1
+1377728,2023,United Arab Emirates,7,Waseem Muhammad,6f02fe2a,KA Jamieson,68c56d09,Asif Khan,074acfb4,0,0,0,0,0,,,,,,6,0,6
+1377728,2023,United Arab Emirates,7,Waseem Muhammad,6f02fe2a,KA Jamieson,68c56d09,Asif Khan,074acfb4,0,0,0,0,0,,,,,,1,0,1
+1377728,2023,United Arab Emirates,7,Asif Khan,074acfb4,KA Jamieson,68c56d09,Waseem Muhammad,6f02fe2a,0,0,0,0,0,,,,,,1,0,1
+1377728,2023,United Arab Emirates,7,Waseem Muhammad,6f02fe2a,KA Jamieson,68c56d09,Asif Khan,074acfb4,0,0,0,0,0,,,,,,1,0,1
+1377728,2023,United Arab Emirates,8,Waseem Muhammad,6f02fe2a,CE McConchie,d285acaf,Asif Khan,074acfb4,0,0,0,0,0,,,,,,6,0,6
+1377728,2023,United Arab Emirates,8,Waseem Muhammad,6f02fe2a,CE McConchie,d285acaf,Asif Khan,074acfb4,0,0,0,0,0,,,,,,1,0,1
+1377728,2023,United Arab Emirates,8,Asif Khan,074acfb4,CE McConchie,d285acaf,Waseem Muhammad,6f02fe2a,0,0,0,0,0,,,,,,0,0,0
+1377728,2023,United Arab Emirates,8,Asif Khan,074acfb4,CE McConchie,d285acaf,Waseem Muhammad,6f02fe2a,0,0,0,0,0,,,,,,1,0,1
+1377728,2023,United Arab Emirates,8,Waseem Muhammad,6f02fe2a,CE McConchie,d285acaf,Asif Khan,074acfb4,0,0,0,0,0,,,,,,4,0,4
+1377728,2023,United Arab Emirates,8,Waseem Muhammad,6f02fe2a,CE McConchie,d285acaf,Asif Khan,074acfb4,0,0,0,0,0,,,,,,2,0,2
+1377728,2023,United Arab Emirates,9,Asif Khan,074acfb4,JDS Neesham,9219eff0,Waseem Muhammad,6f02fe2a,0,0,0,0,0,,,,,,0,0,0
+1377728,2023,United Arab Emirates,9,Asif Khan,074acfb4,JDS Neesham,9219eff0,Waseem Muhammad,6f02fe2a,0,0,0,0,0,,,,,,1,0,1
+1377728,2023,United Arab Emirates,9,Waseem Muhammad,6f02fe2a,JDS Neesham,9219eff0,Asif Khan,074acfb4,0,0,0,0,0,,,,,,1,0,1
+1377728,2023,United Arab Emirates,9,Asif Khan,074acfb4,JDS Neesham,9219eff0,Waseem Muhammad,6f02fe2a,0,0,0,0,0,,,,,,0,0,0
+1377728,2023,United Arab Emirates,9,Asif Khan,074acfb4,JDS Neesham,9219eff0,Waseem Muhammad,6f02fe2a,0,0,0,0,0,,,,,,1,0,1
+1377728,2023,United Arab Emirates,9,Waseem Muhammad,6f02fe2a,JDS Neesham,9219eff0,Asif Khan,074acfb4,0,0,0,0,0,,,,,,2,0,2
+1377728,2023,United Arab Emirates,10,Asif Khan,074acfb4,MJ Santner,e4a0deae,Waseem Muhammad,6f02fe2a,0,0,0,0,0,,,,,,1,0,1
+1377728,2023,United Arab Emirates,10,Waseem Muhammad,6f02fe2a,MJ Santner,e4a0deae,Asif Khan,074acfb4,0,0,0,0,0,,,,,,1,0,1
+1377728,2023,United Arab Emirates,10,Asif Khan,074acfb4,MJ Santner,e4a0deae,Waseem Muhammad,6f02fe2a,0,0,0,0,0,,,,,,1,0,1
+1377728,2023,United Arab Emirates,10,Waseem Muhammad,6f02fe2a,MJ Santner,e4a0deae,Asif Khan,074acfb4,0,0,0,0,0,,,,,,6,0,6
+1377728,2023,United Arab Emirates,10,Waseem Muhammad,6f02fe2a,MJ Santner,e4a0deae,Asif Khan,074acfb4,0,0,0,0,0,,,,,,2,0,2
+1377728,2023,United Arab Emirates,10,Waseem Muhammad,6f02fe2a,MJ Santner,e4a0deae,Asif Khan,074acfb4,0,0,0,0,1,Waseem Muhammad,6f02fe2a,TG Southee,13c35c9e,caught,0,0,0
+1377728,2023,United Arab Emirates,11,Asif Khan,074acfb4,JDS Neesham,9219eff0,Basil Hameed,adbf0400,0,0,0,0,0,,,,,,1,0,1
+1377728,2023,United Arab Emirates,11,Basil Hameed,adbf0400,JDS Neesham,9219eff0,Asif Khan,074acfb4,0,0,0,0,0,,,,,,1,0,1
+1377728,2023,United Arab Emirates,11,Asif Khan,074acfb4,JDS Neesham,9219eff0,Basil Hameed,adbf0400,0,0,0,0,0,,,,,,0,0,0
+1377728,2023,United Arab Emirates,11,Asif Khan,074acfb4,JDS Neesham,9219eff0,Basil Hameed,adbf0400,1,0,0,0,0,,,,,,0,1,1
+1377728,2023,United Arab Emirates,11,Asif Khan,074acfb4,JDS Neesham,9219eff0,Basil Hameed,adbf0400,0,0,0,0,0,,,,,,1,0,1
+1377728,2023,United Arab Emirates,11,Basil Hameed,adbf0400,JDS Neesham,9219eff0,Asif Khan,074acfb4,0,0,0,0,0,,,,,,2,0,2
+1377728,2023,United Arab Emirates,11,Basil Hameed,adbf0400,JDS Neesham,9219eff0,Asif Khan,074acfb4,0,0,0,0,0,,,,,,0,0,0
+1377728,2023,United Arab Emirates,12,Asif Khan,074acfb4,TG Southee,13c35c9e,Basil Hameed,adbf0400,0,0,0,0,0,,,,,,1,0,1
+1377728,2023,United Arab Emirates,12,Basil Hameed,adbf0400,TG Southee,13c35c9e,Asif Khan,074acfb4,0,0,0,0,0,,,,,,1,0,1
+1377728,2023,United Arab Emirates,12,Asif Khan,074acfb4,TG Southee,13c35c9e,Basil Hameed,adbf0400,0,0,0,0,0,,,,,,1,0,1
+1377728,2023,United Arab Emirates,12,Basil Hameed,adbf0400,TG Southee,13c35c9e,Asif Khan,074acfb4,0,0,0,0,0,,,,,,1,0,1
+1377728,2023,United Arab Emirates,12,Asif Khan,074acfb4,TG Southee,13c35c9e,Basil Hameed,adbf0400,0,0,0,0,0,,,,,,1,0,1
+1377728,2023,United Arab Emirates,12,Basil Hameed,adbf0400,TG Southee,13c35c9e,Asif Khan,074acfb4,0,0,0,0,0,,,,,,1,0,1
+1377728,2023,United Arab Emirates,13,Basil Hameed,adbf0400,KA Jamieson,68c56d09,Asif Khan,074acfb4,0,0,0,0,0,,,,,,0,0,0
+1377728,2023,United Arab Emirates,13,Basil Hameed,adbf0400,KA Jamieson,68c56d09,Asif Khan,074acfb4,0,0,0,0,0,,,,,,2,0,2
+1377728,2023,United Arab Emirates,13,Basil Hameed,adbf0400,KA Jamieson,68c56d09,Asif Khan,074acfb4,0,0,0,0,0,,,,,,1,0,1
+1377728,2023,United Arab Emirates,13,Asif Khan,074acfb4,KA Jamieson,68c56d09,Basil Hameed,adbf0400,0,0,0,0,0,,,,,,1,0,1
+1377728,2023,United Arab Emirates,13,Basil Hameed,adbf0400,KA Jamieson,68c56d09,Asif Khan,074acfb4,0,0,0,0,0,,,,,,1,0,1
+1377728,2023,United Arab Emirates,13,Asif Khan,074acfb4,KA Jamieson,68c56d09,Basil Hameed,adbf0400,0,0,0,0,0,,,,,,2,0,2
+1377728,2023,United Arab Emirates,14,Basil Hameed,adbf0400,JDS Neesham,9219eff0,Asif Khan,074acfb4,1,0,0,0,0,,,,,,0,1,1
+1377728,2023,United Arab Emirates,14,Basil Hameed,adbf0400,JDS Neesham,9219eff0,Asif Khan,074acfb4,0,0,0,0,0,,,,,,1,0,1
+1377728,2023,United Arab Emirates,14,Asif Khan,074acfb4,JDS Neesham,9219eff0,Basil Hameed,adbf0400,0,0,0,0,0,,,,,,4,0,4
+1377728,2023,United Arab Emirates,14,Asif Khan,074acfb4,JDS Neesham,9219eff0,Basil Hameed,adbf0400,0,0,0,0,0,,,,,,1,0,1
+1377728,2023,United Arab Emirates,14,Basil Hameed,adbf0400,JDS Neesham,9219eff0,Asif Khan,074acfb4,0,0,0,0,0,,,,,,1,0,1
+1377728,2023,United Arab Emirates,14,Asif Khan,074acfb4,JDS Neesham,9219eff0,Basil Hameed,adbf0400,0,0,0,0,0,,,,,,4,0,4
+1377728,2023,United Arab Emirates,14,Asif Khan,074acfb4,JDS Neesham,9219eff0,Basil Hameed,adbf0400,0,0,0,0,0,,,,,,1,0,1
+1377728,2023,United Arab Emirates,15,Asif Khan,074acfb4,TG Southee,13c35c9e,Basil Hameed,adbf0400,0,0,0,0,0,,,,,,6,0,6
+1377728,2023,United Arab Emirates,15,Asif Khan,074acfb4,TG Southee,13c35c9e,Basil Hameed,adbf0400,0,0,0,0,0,,,,,,2,0,2
+1377728,2023,United Arab Emirates,15,Asif Khan,074acfb4,TG Southee,13c35c9e,Basil Hameed,adbf0400,0,0,0,0,0,,,,,,4,0,4
+1377728,2023,United Arab Emirates,15,Asif Khan,074acfb4,TG Southee,13c35c9e,Basil Hameed,adbf0400,0,0,0,0,0,,,,,,4,0,4

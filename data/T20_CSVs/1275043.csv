@@ -1,0 +1,230 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1275043,2021,Nigeria,0,CN Onwuzulike,715dbf27,C Waiswa,18db3f22,D Ajekun,2494ff9e,1,0,0,0,0,,,,,,0,1,1
+1275043,2021,Nigeria,0,CN Onwuzulike,715dbf27,C Waiswa,18db3f22,D Ajekun,2494ff9e,0,0,0,0,0,,,,,,2,0,2
+1275043,2021,Nigeria,0,CN Onwuzulike,715dbf27,C Waiswa,18db3f22,D Ajekun,2494ff9e,0,0,0,0,0,,,,,,0,0,0
+1275043,2021,Nigeria,0,CN Onwuzulike,715dbf27,C Waiswa,18db3f22,D Ajekun,2494ff9e,0,0,0,0,0,,,,,,1,0,1
+1275043,2021,Nigeria,0,D Ajekun,2494ff9e,C Waiswa,18db3f22,CN Onwuzulike,715dbf27,0,0,0,0,1,D Ajekun,2494ff9e,S Sesazi,c2c975f9,caught,0,0,0
+1275043,2021,Nigeria,0,JO Adedeji,abee08c7,C Waiswa,18db3f22,CN Onwuzulike,715dbf27,0,0,0,0,0,,,,,,2,0,2
+1275043,2021,Nigeria,0,JO Adedeji,abee08c7,C Waiswa,18db3f22,CN Onwuzulike,715dbf27,0,0,0,0,0,,,,,,1,0,1
+1275043,2021,Nigeria,1,JO Adedeji,abee08c7,DM Nakrani,46a7ac78,CN Onwuzulike,715dbf27,0,0,0,0,0,,,,,,0,0,0
+1275043,2021,Nigeria,1,JO Adedeji,abee08c7,DM Nakrani,46a7ac78,CN Onwuzulike,715dbf27,0,0,0,0,0,,,,,,3,0,3
+1275043,2021,Nigeria,1,CN Onwuzulike,715dbf27,DM Nakrani,46a7ac78,JO Adedeji,abee08c7,0,0,0,0,0,,,,,,1,0,1
+1275043,2021,Nigeria,1,JO Adedeji,abee08c7,DM Nakrani,46a7ac78,CN Onwuzulike,715dbf27,0,0,0,0,0,,,,,,0,0,0
+1275043,2021,Nigeria,1,JO Adedeji,abee08c7,DM Nakrani,46a7ac78,CN Onwuzulike,715dbf27,0,0,0,0,0,,,,,,0,0,0
+1275043,2021,Nigeria,1,JO Adedeji,abee08c7,DM Nakrani,46a7ac78,CN Onwuzulike,715dbf27,0,0,0,0,0,,,,,,0,0,0
+1275043,2021,Nigeria,2,CN Onwuzulike,715dbf27,C Waiswa,18db3f22,JO Adedeji,abee08c7,0,0,0,0,0,,,,,,2,0,2
+1275043,2021,Nigeria,2,CN Onwuzulike,715dbf27,C Waiswa,18db3f22,JO Adedeji,abee08c7,1,0,0,0,0,,,,,,0,1,1
+1275043,2021,Nigeria,2,CN Onwuzulike,715dbf27,C Waiswa,18db3f22,JO Adedeji,abee08c7,0,0,0,0,0,,,,,,1,0,1
+1275043,2021,Nigeria,2,JO Adedeji,abee08c7,C Waiswa,18db3f22,CN Onwuzulike,715dbf27,0,0,0,0,0,,,,,,0,0,0
+1275043,2021,Nigeria,2,JO Adedeji,abee08c7,C Waiswa,18db3f22,CN Onwuzulike,715dbf27,0,0,0,0,0,,,,,,1,0,1
+1275043,2021,Nigeria,2,CN Onwuzulike,715dbf27,C Waiswa,18db3f22,JO Adedeji,abee08c7,0,0,0,0,1,CN Onwuzulike,715dbf27,,,bowled,0,0,0
+1275043,2021,Nigeria,2,AJ Ayannaike,f74b682b,C Waiswa,18db3f22,JO Adedeji,abee08c7,0,0,0,0,0,,,,,,1,0,1
+1275043,2021,Nigeria,3,AJ Ayannaike,f74b682b,DM Nakrani,46a7ac78,JO Adedeji,abee08c7,0,0,0,0,0,,,,,,0,0,0
+1275043,2021,Nigeria,3,AJ Ayannaike,f74b682b,DM Nakrani,46a7ac78,JO Adedeji,abee08c7,0,0,0,0,0,,,,,,0,0,0
+1275043,2021,Nigeria,3,AJ Ayannaike,f74b682b,DM Nakrani,46a7ac78,JO Adedeji,abee08c7,0,0,0,0,0,,,,,,0,0,0
+1275043,2021,Nigeria,3,AJ Ayannaike,f74b682b,DM Nakrani,46a7ac78,JO Adedeji,abee08c7,0,0,0,0,0,,,,,,2,0,2
+1275043,2021,Nigeria,3,AJ Ayannaike,f74b682b,DM Nakrani,46a7ac78,JO Adedeji,abee08c7,0,0,0,0,0,,,,,,1,0,1
+1275043,2021,Nigeria,3,JO Adedeji,abee08c7,DM Nakrani,46a7ac78,AJ Ayannaike,f74b682b,0,0,0,0,0,,,,,,4,0,4
+1275043,2021,Nigeria,4,AJ Ayannaike,f74b682b,H Ssenyondo,2b7609f1,JO Adedeji,abee08c7,0,0,0,0,0,,,,,,1,0,1
+1275043,2021,Nigeria,4,JO Adedeji,abee08c7,H Ssenyondo,2b7609f1,AJ Ayannaike,f74b682b,0,0,0,0,0,,,,,,4,0,4
+1275043,2021,Nigeria,4,JO Adedeji,abee08c7,H Ssenyondo,2b7609f1,AJ Ayannaike,f74b682b,0,0,0,0,0,,,,,,1,0,1
+1275043,2021,Nigeria,4,AJ Ayannaike,f74b682b,H Ssenyondo,2b7609f1,JO Adedeji,abee08c7,0,0,0,0,0,,,,,,0,0,0
+1275043,2021,Nigeria,4,AJ Ayannaike,f74b682b,H Ssenyondo,2b7609f1,JO Adedeji,abee08c7,0,0,0,0,0,,,,,,1,0,1
+1275043,2021,Nigeria,4,JO Adedeji,abee08c7,H Ssenyondo,2b7609f1,AJ Ayannaike,f74b682b,0,0,0,0,0,,,,,,0,0,0
+1275043,2021,Nigeria,5,AJ Ayannaike,f74b682b,K Waiswa,a3a275ec,JO Adedeji,abee08c7,0,0,1,0,0,,,,,,0,1,1
+1275043,2021,Nigeria,5,JO Adedeji,abee08c7,K Waiswa,a3a275ec,AJ Ayannaike,f74b682b,0,0,0,0,0,,,,,,0,0,0
+1275043,2021,Nigeria,5,JO Adedeji,abee08c7,K Waiswa,a3a275ec,AJ Ayannaike,f74b682b,0,0,0,0,0,,,,,,4,0,4
+1275043,2021,Nigeria,5,JO Adedeji,abee08c7,K Waiswa,a3a275ec,AJ Ayannaike,f74b682b,0,0,0,0,0,,,,,,0,0,0
+1275043,2021,Nigeria,5,JO Adedeji,abee08c7,K Waiswa,a3a275ec,AJ Ayannaike,f74b682b,0,0,0,0,0,,,,,,0,0,0
+1275043,2021,Nigeria,5,JO Adedeji,abee08c7,K Waiswa,a3a275ec,AJ Ayannaike,f74b682b,0,0,0,0,0,,,,,,6,0,6
+1275043,2021,Nigeria,6,AJ Ayannaike,f74b682b,H Ssenyondo,2b7609f1,JO Adedeji,abee08c7,0,0,0,0,0,,,,,,0,0,0
+1275043,2021,Nigeria,6,AJ Ayannaike,f74b682b,H Ssenyondo,2b7609f1,JO Adedeji,abee08c7,0,0,0,0,0,,,,,,2,0,2
+1275043,2021,Nigeria,6,AJ Ayannaike,f74b682b,H Ssenyondo,2b7609f1,JO Adedeji,abee08c7,0,0,0,0,1,AJ Ayannaike,f74b682b,S Sesazi,c2c975f9,caught,0,0,0
+1275043,2021,Nigeria,6,VD Adewoye,45a34a2d,H Ssenyondo,2b7609f1,JO Adedeji,abee08c7,0,0,0,0,0,,,,,,0,0,0
+1275043,2021,Nigeria,6,VD Adewoye,45a34a2d,H Ssenyondo,2b7609f1,JO Adedeji,abee08c7,0,0,0,0,0,,,,,,2,0,2
+1275043,2021,Nigeria,6,VD Adewoye,45a34a2d,H Ssenyondo,2b7609f1,JO Adedeji,abee08c7,0,0,0,0,0,,,,,,0,0,0
+1275043,2021,Nigeria,7,JO Adedeji,abee08c7,F Akankwasa,0d0f0385,VD Adewoye,45a34a2d,0,0,0,0,0,,,,,,1,0,1
+1275043,2021,Nigeria,7,VD Adewoye,45a34a2d,F Akankwasa,0d0f0385,JO Adedeji,abee08c7,0,0,1,0,0,,,,,,0,1,1
+1275043,2021,Nigeria,7,JO Adedeji,abee08c7,F Akankwasa,0d0f0385,VD Adewoye,45a34a2d,0,1,0,0,0,,,,,,2,1,3
+1275043,2021,Nigeria,7,JO Adedeji,abee08c7,F Akankwasa,0d0f0385,VD Adewoye,45a34a2d,0,0,0,0,0,,,,,,4,0,4
+1275043,2021,Nigeria,7,JO Adedeji,abee08c7,F Akankwasa,0d0f0385,VD Adewoye,45a34a2d,0,0,0,0,1,JO Adedeji,abee08c7,S Sesazi,c2c975f9,run out,1,0,1
+1275043,2021,Nigeria,7,Sulaimon Runsewe,c25d26dc,F Akankwasa,0d0f0385,VD Adewoye,45a34a2d,0,0,0,0,0,,,,,,1,0,1
+1275043,2021,Nigeria,7,VD Adewoye,45a34a2d,F Akankwasa,0d0f0385,Sulaimon Runsewe,c25d26dc,0,0,0,0,0,,,,,,6,0,6
+1275043,2021,Nigeria,8,Sulaimon Runsewe,c25d26dc,H Ssenyondo,2b7609f1,VD Adewoye,45a34a2d,0,0,0,0,0,,,,,,1,0,1
+1275043,2021,Nigeria,8,VD Adewoye,45a34a2d,H Ssenyondo,2b7609f1,Sulaimon Runsewe,c25d26dc,0,0,0,0,1,VD Adewoye,45a34a2d,,,bowled,0,0,0
+1275043,2021,Nigeria,8,Mohameed Taiwo,a9d788e3,H Ssenyondo,2b7609f1,Sulaimon Runsewe,c25d26dc,0,0,0,0,0,,,,,,1,0,1
+1275043,2021,Nigeria,8,Sulaimon Runsewe,c25d26dc,H Ssenyondo,2b7609f1,Mohameed Taiwo,a9d788e3,0,0,0,0,0,,,,,,0,0,0
+1275043,2021,Nigeria,8,Sulaimon Runsewe,c25d26dc,H Ssenyondo,2b7609f1,Mohameed Taiwo,a9d788e3,0,0,0,0,1,Sulaimon Runsewe,c25d26dc,,,lbw,0,0,0
+1275043,2021,Nigeria,8,P Aho,2e392afa,H Ssenyondo,2b7609f1,Mohameed Taiwo,a9d788e3,0,0,0,0,0,,,,,,0,0,0
+1275043,2021,Nigeria,9,Mohameed Taiwo,a9d788e3,F Akankwasa,0d0f0385,P Aho,2e392afa,0,0,0,0,0,,,,,,0,0,0
+1275043,2021,Nigeria,9,Mohameed Taiwo,a9d788e3,F Akankwasa,0d0f0385,P Aho,2e392afa,0,0,0,0,0,,,,,,1,0,1
+1275043,2021,Nigeria,9,P Aho,2e392afa,F Akankwasa,0d0f0385,Mohameed Taiwo,a9d788e3,0,0,0,0,0,,,,,,2,0,2
+1275043,2021,Nigeria,9,P Aho,2e392afa,F Akankwasa,0d0f0385,Mohameed Taiwo,a9d788e3,0,0,0,0,0,,,,,,0,0,0
+1275043,2021,Nigeria,9,P Aho,2e392afa,F Akankwasa,0d0f0385,Mohameed Taiwo,a9d788e3,0,0,0,0,0,,,,,,1,0,1
+1275043,2021,Nigeria,9,Mohameed Taiwo,a9d788e3,F Akankwasa,0d0f0385,P Aho,2e392afa,0,0,0,0,0,,,,,,1,0,1
+1275043,2021,Nigeria,10,Mohameed Taiwo,a9d788e3,H Ssenyondo,2b7609f1,P Aho,2e392afa,0,0,0,0,0,,,,,,0,0,0
+1275043,2021,Nigeria,10,Mohameed Taiwo,a9d788e3,H Ssenyondo,2b7609f1,P Aho,2e392afa,0,0,0,0,0,,,,,,0,0,0
+1275043,2021,Nigeria,10,Mohameed Taiwo,a9d788e3,H Ssenyondo,2b7609f1,P Aho,2e392afa,0,0,0,0,0,,,,,,0,0,0
+1275043,2021,Nigeria,10,Mohameed Taiwo,a9d788e3,H Ssenyondo,2b7609f1,P Aho,2e392afa,0,0,0,0,0,,,,,,1,0,1
+1275043,2021,Nigeria,10,P Aho,2e392afa,H Ssenyondo,2b7609f1,Mohameed Taiwo,a9d788e3,0,0,0,0,0,,,,,,0,0,0
+1275043,2021,Nigeria,10,P Aho,2e392afa,H Ssenyondo,2b7609f1,Mohameed Taiwo,a9d788e3,0,0,0,0,0,,,,,,1,0,1
+1275043,2021,Nigeria,11,P Aho,2e392afa,F Akankwasa,0d0f0385,Mohameed Taiwo,a9d788e3,0,0,0,0,0,,,,,,0,0,0
+1275043,2021,Nigeria,11,P Aho,2e392afa,F Akankwasa,0d0f0385,Mohameed Taiwo,a9d788e3,0,0,0,0,0,,,,,,1,0,1
+1275043,2021,Nigeria,11,Mohameed Taiwo,a9d788e3,F Akankwasa,0d0f0385,P Aho,2e392afa,0,0,0,0,0,,,,,,1,0,1
+1275043,2021,Nigeria,11,P Aho,2e392afa,F Akankwasa,0d0f0385,Mohameed Taiwo,a9d788e3,0,0,0,0,0,,,,,,0,0,0
+1275043,2021,Nigeria,11,P Aho,2e392afa,F Akankwasa,0d0f0385,Mohameed Taiwo,a9d788e3,0,0,0,0,0,,,,,,1,0,1
+1275043,2021,Nigeria,11,Mohameed Taiwo,a9d788e3,F Akankwasa,0d0f0385,P Aho,2e392afa,0,0,0,0,0,,,,,,0,0,0
+1275043,2021,Nigeria,12,P Aho,2e392afa,D Muhumuza,7636b587,Mohameed Taiwo,a9d788e3,0,0,0,0,0,,,,,,0,0,0
+1275043,2021,Nigeria,12,P Aho,2e392afa,D Muhumuza,7636b587,Mohameed Taiwo,a9d788e3,0,0,0,0,0,,,,,,1,0,1
+1275043,2021,Nigeria,12,Mohameed Taiwo,a9d788e3,D Muhumuza,7636b587,P Aho,2e392afa,0,0,0,0,0,,,,,,1,0,1
+1275043,2021,Nigeria,12,P Aho,2e392afa,D Muhumuza,7636b587,Mohameed Taiwo,a9d788e3,0,0,0,0,0,,,,,,1,0,1
+1275043,2021,Nigeria,12,Mohameed Taiwo,a9d788e3,D Muhumuza,7636b587,P Aho,2e392afa,0,0,0,0,1,Mohameed Taiwo,a9d788e3,,,bowled,0,0,0
+1275043,2021,Nigeria,12,Mustapha Yusuf,f3e240a6,D Muhumuza,7636b587,P Aho,2e392afa,0,0,0,0,0,,,,,,0,0,0
+1275043,2021,Nigeria,13,P Aho,2e392afa,F Akankwasa,0d0f0385,Mustapha Yusuf,f3e240a6,0,0,0,0,0,,,,,,0,0,0
+1275043,2021,Nigeria,13,P Aho,2e392afa,F Akankwasa,0d0f0385,Mustapha Yusuf,f3e240a6,0,0,0,0,0,,,,,,6,0,6
+1275043,2021,Nigeria,13,P Aho,2e392afa,F Akankwasa,0d0f0385,Mustapha Yusuf,f3e240a6,0,0,0,0,0,,,,,,0,0,0
+1275043,2021,Nigeria,13,P Aho,2e392afa,F Akankwasa,0d0f0385,Mustapha Yusuf,f3e240a6,0,0,0,0,0,,,,,,1,0,1
+1275043,2021,Nigeria,13,Mustapha Yusuf,f3e240a6,F Akankwasa,0d0f0385,P Aho,2e392afa,0,0,0,0,0,,,,,,0,0,0
+1275043,2021,Nigeria,13,Mustapha Yusuf,f3e240a6,F Akankwasa,0d0f0385,P Aho,2e392afa,0,0,0,0,1,Mustapha Yusuf,f3e240a6,,,lbw,0,0,0
+1275043,2021,Nigeria,14,P Aho,2e392afa,D Muhumuza,7636b587,P Useni,71fa64d6,0,0,0,0,0,,,,,,1,0,1
+1275043,2021,Nigeria,14,P Useni,71fa64d6,D Muhumuza,7636b587,P Aho,2e392afa,0,0,0,0,0,,,,,,0,0,0
+1275043,2021,Nigeria,14,P Useni,71fa64d6,D Muhumuza,7636b587,P Aho,2e392afa,0,0,0,0,0,,,,,,0,0,0
+1275043,2021,Nigeria,14,P Useni,71fa64d6,D Muhumuza,7636b587,P Aho,2e392afa,0,0,0,0,0,,,,,,0,0,0
+1275043,2021,Nigeria,14,P Useni,71fa64d6,D Muhumuza,7636b587,P Aho,2e392afa,0,0,0,0,0,,,,,,1,0,1
+1275043,2021,Nigeria,14,P Aho,2e392afa,D Muhumuza,7636b587,P Useni,71fa64d6,0,0,0,0,0,,,,,,2,0,2
+1275043,2021,Nigeria,15,P Useni,71fa64d6,DM Nakrani,46a7ac78,P Aho,2e392afa,0,0,0,0,0,,,,,,0,0,0
+1275043,2021,Nigeria,15,P Useni,71fa64d6,DM Nakrani,46a7ac78,P Aho,2e392afa,0,0,0,0,0,,,,,,0,0,0
+1275043,2021,Nigeria,15,P Useni,71fa64d6,DM Nakrani,46a7ac78,P Aho,2e392afa,0,0,0,0,0,,,,,,1,0,1
+1275043,2021,Nigeria,15,P Aho,2e392afa,DM Nakrani,46a7ac78,P Useni,71fa64d6,0,0,0,0,0,,,,,,0,0,0
+1275043,2021,Nigeria,15,P Aho,2e392afa,DM Nakrani,46a7ac78,P Useni,71fa64d6,0,0,0,0,0,,,,,,1,0,1
+1275043,2021,Nigeria,15,P Useni,71fa64d6,DM Nakrani,46a7ac78,P Aho,2e392afa,0,0,0,0,0,,,,,,1,0,1
+1275043,2021,Nigeria,16,P Useni,71fa64d6,D Muhumuza,7636b587,P Aho,2e392afa,0,0,0,0,0,,,,,,1,0,1
+1275043,2021,Nigeria,16,P Aho,2e392afa,D Muhumuza,7636b587,P Useni,71fa64d6,0,0,0,0,0,,,,,,2,0,2
+1275043,2021,Nigeria,16,P Aho,2e392afa,D Muhumuza,7636b587,P Useni,71fa64d6,0,0,0,0,0,,,,,,4,0,4
+1275043,2021,Nigeria,16,P Aho,2e392afa,D Muhumuza,7636b587,P Useni,71fa64d6,0,0,0,0,0,,,,,,0,0,0
+1275043,2021,Nigeria,16,P Aho,2e392afa,D Muhumuza,7636b587,P Useni,71fa64d6,0,0,0,0,0,,,,,,1,0,1
+1275043,2021,Nigeria,16,P Useni,71fa64d6,D Muhumuza,7636b587,P Aho,2e392afa,0,0,0,0,0,,,,,,0,0,0
+1275043,2021,Nigeria,17,P Aho,2e392afa,Riazat Ali Shah,269cc4ff,P Useni,71fa64d6,0,0,0,0,0,,,,,,0,0,0
+1275043,2021,Nigeria,17,P Aho,2e392afa,Riazat Ali Shah,269cc4ff,P Useni,71fa64d6,0,0,0,0,0,,,,,,1,0,1
+1275043,2021,Nigeria,17,P Useni,71fa64d6,Riazat Ali Shah,269cc4ff,P Aho,2e392afa,0,0,0,0,0,,,,,,1,0,1
+1275043,2021,Nigeria,17,P Aho,2e392afa,Riazat Ali Shah,269cc4ff,P Useni,71fa64d6,0,0,0,0,0,,,,,,2,0,2
+1275043,2021,Nigeria,17,P Aho,2e392afa,Riazat Ali Shah,269cc4ff,P Useni,71fa64d6,1,0,0,0,0,,,,,,0,1,1
+1275043,2021,Nigeria,17,P Aho,2e392afa,Riazat Ali Shah,269cc4ff,P Useni,71fa64d6,0,0,0,0,0,,,,,,1,0,1
+1275043,2021,Nigeria,17,P Useni,71fa64d6,Riazat Ali Shah,269cc4ff,P Aho,2e392afa,0,0,0,0,0,,,,,,0,0,0
+1275043,2021,Nigeria,18,P Aho,2e392afa,DM Nakrani,46a7ac78,P Useni,71fa64d6,0,1,0,0,0,,,,,,0,1,1
+1275043,2021,Nigeria,18,P Aho,2e392afa,DM Nakrani,46a7ac78,P Useni,71fa64d6,0,0,0,0,0,,,,,,1,0,1
+1275043,2021,Nigeria,18,P Useni,71fa64d6,DM Nakrani,46a7ac78,P Aho,2e392afa,0,0,0,0,0,,,,,,0,0,0
+1275043,2021,Nigeria,18,P Useni,71fa64d6,DM Nakrani,46a7ac78,P Aho,2e392afa,0,0,0,0,0,,,,,,1,0,1
+1275043,2021,Nigeria,18,P Aho,2e392afa,DM Nakrani,46a7ac78,P Useni,71fa64d6,0,0,0,0,0,,,,,,3,0,3
+1275043,2021,Nigeria,18,P Useni,71fa64d6,DM Nakrani,46a7ac78,P Aho,2e392afa,0,0,0,0,0,,,,,,1,0,1
+1275043,2021,Nigeria,18,P Aho,2e392afa,DM Nakrani,46a7ac78,P Useni,71fa64d6,0,0,0,0,0,,,,,,1,0,1
+1275043,2021,Nigeria,19,P Aho,2e392afa,Riazat Ali Shah,269cc4ff,P Useni,71fa64d6,0,0,0,0,0,,,,,,4,0,4
+1275043,2021,Nigeria,19,P Aho,2e392afa,Riazat Ali Shah,269cc4ff,P Useni,71fa64d6,0,0,0,0,0,,,,,,4,0,4
+1275043,2021,Nigeria,19,P Aho,2e392afa,Riazat Ali Shah,269cc4ff,P Useni,71fa64d6,0,0,0,0,0,,,,,,0,0,0
+1275043,2021,Nigeria,19,P Aho,2e392afa,Riazat Ali Shah,269cc4ff,P Useni,71fa64d6,0,0,0,0,0,,,,,,0,0,0
+1275043,2021,Nigeria,19,P Aho,2e392afa,Riazat Ali Shah,269cc4ff,P Useni,71fa64d6,0,0,0,0,0,,,,,,1,0,1
+1275043,2021,Nigeria,19,P Useni,71fa64d6,Riazat Ali Shah,269cc4ff,P Aho,2e392afa,0,0,0,0,0,,,,,,0,0,0
+1275043,2021,Uganda,0,Saud Islam,ae5a7eb5,Mustapha Yusuf,f3e240a6,S Sesazi,c2c975f9,0,0,0,0,0,,,,,,0,0,0
+1275043,2021,Uganda,0,Saud Islam,ae5a7eb5,Mustapha Yusuf,f3e240a6,S Sesazi,c2c975f9,0,0,0,0,0,,,,,,0,0,0
+1275043,2021,Uganda,0,Saud Islam,ae5a7eb5,Mustapha Yusuf,f3e240a6,S Sesazi,c2c975f9,0,0,0,0,0,,,,,,0,0,0
+1275043,2021,Uganda,0,Saud Islam,ae5a7eb5,Mustapha Yusuf,f3e240a6,S Sesazi,c2c975f9,0,0,0,0,0,,,,,,1,0,1
+1275043,2021,Uganda,0,S Sesazi,c2c975f9,Mustapha Yusuf,f3e240a6,Saud Islam,ae5a7eb5,0,0,0,0,0,,,,,,1,0,1
+1275043,2021,Uganda,0,Saud Islam,ae5a7eb5,Mustapha Yusuf,f3e240a6,S Sesazi,c2c975f9,0,0,0,0,0,,,,,,0,0,0
+1275043,2021,Uganda,1,S Sesazi,c2c975f9,Mohameed Taiwo,a9d788e3,Saud Islam,ae5a7eb5,0,0,0,0,0,,,,,,0,0,0
+1275043,2021,Uganda,1,S Sesazi,c2c975f9,Mohameed Taiwo,a9d788e3,Saud Islam,ae5a7eb5,0,0,0,0,0,,,,,,0,0,0
+1275043,2021,Uganda,1,S Sesazi,c2c975f9,Mohameed Taiwo,a9d788e3,Saud Islam,ae5a7eb5,0,0,0,0,0,,,,,,1,0,1
+1275043,2021,Uganda,1,Saud Islam,ae5a7eb5,Mohameed Taiwo,a9d788e3,S Sesazi,c2c975f9,1,0,0,0,0,,,,,,0,1,1
+1275043,2021,Uganda,1,Saud Islam,ae5a7eb5,Mohameed Taiwo,a9d788e3,S Sesazi,c2c975f9,0,0,0,0,0,,,,,,0,0,0
+1275043,2021,Uganda,1,Saud Islam,ae5a7eb5,Mohameed Taiwo,a9d788e3,S Sesazi,c2c975f9,0,0,0,0,0,,,,,,1,0,1
+1275043,2021,Uganda,1,S Sesazi,c2c975f9,Mohameed Taiwo,a9d788e3,Saud Islam,ae5a7eb5,0,0,0,0,0,,,,,,0,0,0
+1275043,2021,Uganda,2,Saud Islam,ae5a7eb5,Mustapha Yusuf,f3e240a6,S Sesazi,c2c975f9,0,0,0,0,0,,,,,,6,0,6
+1275043,2021,Uganda,2,Saud Islam,ae5a7eb5,Mustapha Yusuf,f3e240a6,S Sesazi,c2c975f9,0,0,0,0,0,,,,,,0,0,0
+1275043,2021,Uganda,2,Saud Islam,ae5a7eb5,Mustapha Yusuf,f3e240a6,S Sesazi,c2c975f9,0,0,0,0,0,,,,,,1,0,1
+1275043,2021,Uganda,2,S Sesazi,c2c975f9,Mustapha Yusuf,f3e240a6,Saud Islam,ae5a7eb5,0,0,0,0,0,,,,,,0,0,0
+1275043,2021,Uganda,2,S Sesazi,c2c975f9,Mustapha Yusuf,f3e240a6,Saud Islam,ae5a7eb5,0,0,0,0,0,,,,,,4,0,4
+1275043,2021,Uganda,2,S Sesazi,c2c975f9,Mustapha Yusuf,f3e240a6,Saud Islam,ae5a7eb5,0,0,0,0,0,,,,,,0,0,0
+1275043,2021,Uganda,3,Saud Islam,ae5a7eb5,Mohameed Taiwo,a9d788e3,S Sesazi,c2c975f9,0,0,0,0,0,,,,,,1,0,1
+1275043,2021,Uganda,3,S Sesazi,c2c975f9,Mohameed Taiwo,a9d788e3,Saud Islam,ae5a7eb5,0,0,0,0,0,,,,,,0,0,0
+1275043,2021,Uganda,3,S Sesazi,c2c975f9,Mohameed Taiwo,a9d788e3,Saud Islam,ae5a7eb5,0,0,0,0,0,,,,,,0,0,0
+1275043,2021,Uganda,3,S Sesazi,c2c975f9,Mohameed Taiwo,a9d788e3,Saud Islam,ae5a7eb5,0,0,0,0,0,,,,,,0,0,0
+1275043,2021,Uganda,3,S Sesazi,c2c975f9,Mohameed Taiwo,a9d788e3,Saud Islam,ae5a7eb5,0,0,0,0,0,,,,,,4,0,4
+1275043,2021,Uganda,3,S Sesazi,c2c975f9,Mohameed Taiwo,a9d788e3,Saud Islam,ae5a7eb5,0,0,0,0,0,,,,,,2,0,2
+1275043,2021,Uganda,4,Saud Islam,ae5a7eb5,P Useni,71fa64d6,S Sesazi,c2c975f9,0,0,0,0,0,,,,,,1,0,1
+1275043,2021,Uganda,4,S Sesazi,c2c975f9,P Useni,71fa64d6,Saud Islam,ae5a7eb5,1,0,0,0,0,,,,,,0,1,1
+1275043,2021,Uganda,4,S Sesazi,c2c975f9,P Useni,71fa64d6,Saud Islam,ae5a7eb5,0,0,0,0,0,,,,,,0,0,0
+1275043,2021,Uganda,4,S Sesazi,c2c975f9,P Useni,71fa64d6,Saud Islam,ae5a7eb5,0,0,0,0,0,,,,,,4,0,4
+1275043,2021,Uganda,4,S Sesazi,c2c975f9,P Useni,71fa64d6,Saud Islam,ae5a7eb5,0,0,0,0,0,,,,,,0,0,0
+1275043,2021,Uganda,4,S Sesazi,c2c975f9,P Useni,71fa64d6,Saud Islam,ae5a7eb5,0,0,0,0,0,,,,,,0,0,0
+1275043,2021,Uganda,4,S Sesazi,c2c975f9,P Useni,71fa64d6,Saud Islam,ae5a7eb5,0,0,0,0,0,,,,,,0,0,0
+1275043,2021,Uganda,5,Saud Islam,ae5a7eb5,P Aho,2e392afa,S Sesazi,c2c975f9,0,0,0,0,0,,,,,,1,0,1
+1275043,2021,Uganda,5,S Sesazi,c2c975f9,P Aho,2e392afa,Saud Islam,ae5a7eb5,0,0,0,0,0,,,,,,0,0,0
+1275043,2021,Uganda,5,S Sesazi,c2c975f9,P Aho,2e392afa,Saud Islam,ae5a7eb5,0,0,0,0,0,,,,,,0,0,0
+1275043,2021,Uganda,5,S Sesazi,c2c975f9,P Aho,2e392afa,Saud Islam,ae5a7eb5,0,0,0,0,0,,,,,,0,0,0
+1275043,2021,Uganda,5,S Sesazi,c2c975f9,P Aho,2e392afa,Saud Islam,ae5a7eb5,0,0,0,0,0,,,,,,0,0,0
+1275043,2021,Uganda,5,S Sesazi,c2c975f9,P Aho,2e392afa,Saud Islam,ae5a7eb5,0,0,0,0,0,,,,,,0,0,0
+1275043,2021,Uganda,6,Saud Islam,ae5a7eb5,O Isesele,6034840a,S Sesazi,c2c975f9,0,0,0,0,0,,,,,,1,0,1
+1275043,2021,Uganda,6,S Sesazi,c2c975f9,O Isesele,6034840a,Saud Islam,ae5a7eb5,0,0,0,0,0,,,,,,0,0,0
+1275043,2021,Uganda,6,S Sesazi,c2c975f9,O Isesele,6034840a,Saud Islam,ae5a7eb5,0,0,0,0,0,,,,,,0,0,0
+1275043,2021,Uganda,6,S Sesazi,c2c975f9,O Isesele,6034840a,Saud Islam,ae5a7eb5,0,0,0,0,0,,,,,,1,0,1
+1275043,2021,Uganda,6,Saud Islam,ae5a7eb5,O Isesele,6034840a,S Sesazi,c2c975f9,0,0,0,0,0,,,,,,6,0,6
+1275043,2021,Uganda,6,Saud Islam,ae5a7eb5,O Isesele,6034840a,S Sesazi,c2c975f9,0,0,0,0,0,,,,,,0,0,0
+1275043,2021,Uganda,7,S Sesazi,c2c975f9,P Aho,2e392afa,Saud Islam,ae5a7eb5,0,0,0,0,0,,,,,,4,0,4
+1275043,2021,Uganda,7,S Sesazi,c2c975f9,P Aho,2e392afa,Saud Islam,ae5a7eb5,0,0,1,0,0,,,,,,0,1,1
+1275043,2021,Uganda,7,Saud Islam,ae5a7eb5,P Aho,2e392afa,S Sesazi,c2c975f9,0,0,0,0,0,,,,,,1,0,1
+1275043,2021,Uganda,7,S Sesazi,c2c975f9,P Aho,2e392afa,Saud Islam,ae5a7eb5,0,0,0,0,0,,,,,,1,0,1
+1275043,2021,Uganda,7,Saud Islam,ae5a7eb5,P Aho,2e392afa,S Sesazi,c2c975f9,0,0,0,0,0,,,,,,0,0,0
+1275043,2021,Uganda,7,Saud Islam,ae5a7eb5,P Aho,2e392afa,S Sesazi,c2c975f9,0,0,0,0,0,,,,,,0,0,0
+1275043,2021,Uganda,8,S Sesazi,c2c975f9,O Isesele,6034840a,Saud Islam,ae5a7eb5,0,0,0,0,0,,,,,,1,0,1
+1275043,2021,Uganda,8,Saud Islam,ae5a7eb5,O Isesele,6034840a,S Sesazi,c2c975f9,0,0,0,0,0,,,,,,1,0,1
+1275043,2021,Uganda,8,S Sesazi,c2c975f9,O Isesele,6034840a,Saud Islam,ae5a7eb5,0,0,0,0,0,,,,,,6,0,6
+1275043,2021,Uganda,8,S Sesazi,c2c975f9,O Isesele,6034840a,Saud Islam,ae5a7eb5,0,0,0,0,0,,,,,,1,0,1
+1275043,2021,Uganda,8,Saud Islam,ae5a7eb5,O Isesele,6034840a,S Sesazi,c2c975f9,0,0,0,0,0,,,,,,0,0,0
+1275043,2021,Uganda,8,Saud Islam,ae5a7eb5,O Isesele,6034840a,S Sesazi,c2c975f9,0,0,0,0,0,,,,,,1,0,1
+1275043,2021,Uganda,9,Saud Islam,ae5a7eb5,P Useni,71fa64d6,S Sesazi,c2c975f9,0,0,0,0,0,,,,,,0,0,0
+1275043,2021,Uganda,9,Saud Islam,ae5a7eb5,P Useni,71fa64d6,S Sesazi,c2c975f9,0,0,0,0,0,,,,,,0,0,0
+1275043,2021,Uganda,9,Saud Islam,ae5a7eb5,P Useni,71fa64d6,S Sesazi,c2c975f9,0,0,0,0,0,,,,,,0,0,0
+1275043,2021,Uganda,9,Saud Islam,ae5a7eb5,P Useni,71fa64d6,S Sesazi,c2c975f9,0,0,0,0,0,,,,,,0,0,0
+1275043,2021,Uganda,9,Saud Islam,ae5a7eb5,P Useni,71fa64d6,S Sesazi,c2c975f9,0,0,0,0,0,,,,,,1,0,1
+1275043,2021,Uganda,9,S Sesazi,c2c975f9,P Useni,71fa64d6,Saud Islam,ae5a7eb5,0,0,0,0,0,,,,,,0,0,0
+1275043,2021,Uganda,10,Saud Islam,ae5a7eb5,JO Adedeji,abee08c7,S Sesazi,c2c975f9,0,0,0,0,0,,,,,,0,0,0
+1275043,2021,Uganda,10,Saud Islam,ae5a7eb5,JO Adedeji,abee08c7,S Sesazi,c2c975f9,0,0,0,0,0,,,,,,1,0,1
+1275043,2021,Uganda,10,S Sesazi,c2c975f9,JO Adedeji,abee08c7,Saud Islam,ae5a7eb5,0,0,0,0,0,,,,,,0,0,0
+1275043,2021,Uganda,10,S Sesazi,c2c975f9,JO Adedeji,abee08c7,Saud Islam,ae5a7eb5,0,0,0,0,0,,,,,,1,0,1
+1275043,2021,Uganda,10,Saud Islam,ae5a7eb5,JO Adedeji,abee08c7,S Sesazi,c2c975f9,0,0,0,0,0,,,,,,1,0,1
+1275043,2021,Uganda,10,S Sesazi,c2c975f9,JO Adedeji,abee08c7,Saud Islam,ae5a7eb5,0,0,0,0,0,,,,,,0,0,0
+1275043,2021,Uganda,11,Saud Islam,ae5a7eb5,O Isesele,6034840a,S Sesazi,c2c975f9,0,0,0,0,0,,,,,,1,0,1
+1275043,2021,Uganda,11,S Sesazi,c2c975f9,O Isesele,6034840a,Saud Islam,ae5a7eb5,0,0,0,0,0,,,,,,1,0,1
+1275043,2021,Uganda,11,Saud Islam,ae5a7eb5,O Isesele,6034840a,S Sesazi,c2c975f9,0,0,0,0,0,,,,,,4,0,4
+1275043,2021,Uganda,11,Saud Islam,ae5a7eb5,O Isesele,6034840a,S Sesazi,c2c975f9,0,0,0,0,0,,,,,,1,0,1
+1275043,2021,Uganda,11,S Sesazi,c2c975f9,O Isesele,6034840a,Saud Islam,ae5a7eb5,0,0,0,0,0,,,,,,1,0,1
+1275043,2021,Uganda,11,Saud Islam,ae5a7eb5,O Isesele,6034840a,S Sesazi,c2c975f9,0,0,0,0,0,,,,,,1,0,1
+1275043,2021,Uganda,12,Saud Islam,ae5a7eb5,JO Adedeji,abee08c7,S Sesazi,c2c975f9,0,0,0,0,0,,,,,,1,0,1
+1275043,2021,Uganda,12,S Sesazi,c2c975f9,JO Adedeji,abee08c7,Saud Islam,ae5a7eb5,0,0,0,0,0,,,,,,0,0,0
+1275043,2021,Uganda,12,S Sesazi,c2c975f9,JO Adedeji,abee08c7,Saud Islam,ae5a7eb5,0,0,0,0,0,,,,,,2,0,2
+1275043,2021,Uganda,12,S Sesazi,c2c975f9,JO Adedeji,abee08c7,Saud Islam,ae5a7eb5,0,0,0,0,0,,,,,,6,0,6
+1275043,2021,Uganda,12,S Sesazi,c2c975f9,JO Adedeji,abee08c7,Saud Islam,ae5a7eb5,0,0,0,0,0,,,,,,2,0,2
+1275043,2021,Uganda,12,S Sesazi,c2c975f9,JO Adedeji,abee08c7,Saud Islam,ae5a7eb5,0,0,0,0,0,,,,,,0,0,0
+1275043,2021,Uganda,13,Saud Islam,ae5a7eb5,Mohameed Taiwo,a9d788e3,S Sesazi,c2c975f9,0,0,0,0,0,,,,,,1,0,1
+1275043,2021,Uganda,13,S Sesazi,c2c975f9,Mohameed Taiwo,a9d788e3,Saud Islam,ae5a7eb5,0,0,0,0,0,,,,,,2,0,2
+1275043,2021,Uganda,13,S Sesazi,c2c975f9,Mohameed Taiwo,a9d788e3,Saud Islam,ae5a7eb5,0,0,0,0,0,,,,,,6,0,6
+1275043,2021,Uganda,13,S Sesazi,c2c975f9,Mohameed Taiwo,a9d788e3,Saud Islam,ae5a7eb5,0,0,0,0,0,,,,,,2,0,2
+1275043,2021,Uganda,13,S Sesazi,c2c975f9,Mohameed Taiwo,a9d788e3,Saud Islam,ae5a7eb5,0,0,0,0,0,,,,,,0,0,0
+1275043,2021,Uganda,13,S Sesazi,c2c975f9,Mohameed Taiwo,a9d788e3,Saud Islam,ae5a7eb5,0,0,0,0,0,,,,,,4,0,4
+1275043,2021,Uganda,14,Saud Islam,ae5a7eb5,Mustapha Yusuf,f3e240a6,S Sesazi,c2c975f9,0,0,0,0,0,,,,,,4,0,4
+1275043,2021,Uganda,14,Saud Islam,ae5a7eb5,Mustapha Yusuf,f3e240a6,S Sesazi,c2c975f9,0,0,0,0,0,,,,,,0,0,0
+1275043,2021,Uganda,14,Saud Islam,ae5a7eb5,Mustapha Yusuf,f3e240a6,S Sesazi,c2c975f9,0,0,0,0,0,,,,,,1,0,1
+1275043,2021,Uganda,14,S Sesazi,c2c975f9,Mustapha Yusuf,f3e240a6,Saud Islam,ae5a7eb5,0,0,0,0,0,,,,,,0,0,0
+1275043,2021,Uganda,14,S Sesazi,c2c975f9,Mustapha Yusuf,f3e240a6,Saud Islam,ae5a7eb5,0,0,0,0,0,,,,,,0,0,0
+1275043,2021,Uganda,14,S Sesazi,c2c975f9,Mustapha Yusuf,f3e240a6,Saud Islam,ae5a7eb5,0,0,0,0,0,,,,,,4,0,4
+1275043,2021,Uganda,15,Saud Islam,ae5a7eb5,P Aho,2e392afa,S Sesazi,c2c975f9,0,0,0,0,1,Saud Islam,ae5a7eb5,AJ Ayannaike,f74b682b,caught,0,0,0
+1275043,2021,Uganda,15,S Sesazi,c2c975f9,P Aho,2e392afa,Riazat Ali Shah,269cc4ff,0,0,0,0,0,,,,,,1,0,1
+1275043,2021,Uganda,15,Riazat Ali Shah,269cc4ff,P Aho,2e392afa,S Sesazi,c2c975f9,0,0,0,0,0,,,,,,4,0,4
+1275043,2021,Uganda,15,Riazat Ali Shah,269cc4ff,P Aho,2e392afa,S Sesazi,c2c975f9,0,0,0,0,0,,,,,,2,0,2
+1275043,2021,Uganda,15,Riazat Ali Shah,269cc4ff,P Aho,2e392afa,S Sesazi,c2c975f9,0,0,0,0,0,,,,,,4,0,4
+1275043,2021,Uganda,15,Riazat Ali Shah,269cc4ff,P Aho,2e392afa,S Sesazi,c2c975f9,0,0,0,0,0,,,,,,4,0,4
+1275043,2021,Uganda,16,S Sesazi,c2c975f9,P Useni,71fa64d6,Riazat Ali Shah,269cc4ff,0,0,0,0,1,S Sesazi,c2c975f9,,,bowled,0,0,0
+1275043,2021,Uganda,16,DM Nakrani,46a7ac78,P Useni,71fa64d6,Riazat Ali Shah,269cc4ff,0,0,0,0,0,,,,,,1,0,1
+1275043,2021,Uganda,16,Riazat Ali Shah,269cc4ff,P Useni,71fa64d6,DM Nakrani,46a7ac78,0,0,0,0,0,,,,,,1,0,1
+1275043,2021,Uganda,16,DM Nakrani,46a7ac78,P Useni,71fa64d6,Riazat Ali Shah,269cc4ff,0,0,0,0,0,,,,,,0,0,0
+1275043,2021,Uganda,16,DM Nakrani,46a7ac78,P Useni,71fa64d6,Riazat Ali Shah,269cc4ff,0,0,0,0,0,,,,,,0,0,0
+1275043,2021,Uganda,16,DM Nakrani,46a7ac78,P Useni,71fa64d6,Riazat Ali Shah,269cc4ff,0,0,0,0,0,,,,,,4,0,4

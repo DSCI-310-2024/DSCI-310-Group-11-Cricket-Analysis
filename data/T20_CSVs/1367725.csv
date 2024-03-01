@@ -1,0 +1,243 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1367725,2023,Gibraltar,0,BA Pai,716bf559,Junaid Khan,be0077ba,L Bruce,2a03bd2f,0,0,0,0,1,BA Pai,716bf559,Kuldeep,61c48027,caught,0,0,0
+1367725,2023,Gibraltar,0,J West,1d1c6410,Junaid Khan,be0077ba,L Bruce,2a03bd2f,0,0,0,0,0,,,,,,0,0,0
+1367725,2023,Gibraltar,0,J West,1d1c6410,Junaid Khan,be0077ba,L Bruce,2a03bd2f,0,0,0,0,0,,,,,,0,0,0
+1367725,2023,Gibraltar,0,J West,1d1c6410,Junaid Khan,be0077ba,L Bruce,2a03bd2f,0,0,0,0,0,,,,,,0,0,0
+1367725,2023,Gibraltar,0,J West,1d1c6410,Junaid Khan,be0077ba,L Bruce,2a03bd2f,0,0,0,0,0,,,,,,1,0,1
+1367725,2023,Gibraltar,0,L Bruce,2a03bd2f,Junaid Khan,be0077ba,J West,1d1c6410,0,0,0,0,0,,,,,,0,0,0
+1367725,2023,Gibraltar,1,J West,1d1c6410,Najjam Shahzad,58aa33cd,L Bruce,2a03bd2f,0,0,0,0,0,,,,,,0,0,0
+1367725,2023,Gibraltar,1,J West,1d1c6410,Najjam Shahzad,58aa33cd,L Bruce,2a03bd2f,1,0,0,0,0,,,,,,0,1,1
+1367725,2023,Gibraltar,1,J West,1d1c6410,Najjam Shahzad,58aa33cd,L Bruce,2a03bd2f,0,0,0,0,0,,,,,,4,0,4
+1367725,2023,Gibraltar,1,J West,1d1c6410,Najjam Shahzad,58aa33cd,L Bruce,2a03bd2f,0,0,0,0,1,J West,1d1c6410,,,lbw,0,0,0
+1367725,2023,Gibraltar,1,IDM Latin,78f719ea,Najjam Shahzad,58aa33cd,L Bruce,2a03bd2f,1,0,0,0,0,,,,,,0,1,1
+1367725,2023,Gibraltar,1,IDM Latin,78f719ea,Najjam Shahzad,58aa33cd,L Bruce,2a03bd2f,0,0,0,0,0,,,,,,4,0,4
+1367725,2023,Gibraltar,1,IDM Latin,78f719ea,Najjam Shahzad,58aa33cd,L Bruce,2a03bd2f,0,0,0,0,0,,,,,,1,0,1
+1367725,2023,Gibraltar,1,L Bruce,2a03bd2f,Najjam Shahzad,58aa33cd,IDM Latin,78f719ea,0,0,0,0,0,,,,,,0,0,0
+1367725,2023,Gibraltar,2,IDM Latin,78f719ea,Junaid Khan,be0077ba,L Bruce,2a03bd2f,0,0,0,0,0,,,,,,0,0,0
+1367725,2023,Gibraltar,2,IDM Latin,78f719ea,Junaid Khan,be0077ba,L Bruce,2a03bd2f,0,0,0,0,0,,,,,,0,0,0
+1367725,2023,Gibraltar,2,IDM Latin,78f719ea,Junaid Khan,be0077ba,L Bruce,2a03bd2f,0,0,0,0,0,,,,,,1,0,1
+1367725,2023,Gibraltar,2,L Bruce,2a03bd2f,Junaid Khan,be0077ba,IDM Latin,78f719ea,0,0,0,0,0,,,,,,0,0,0
+1367725,2023,Gibraltar,2,L Bruce,2a03bd2f,Junaid Khan,be0077ba,IDM Latin,78f719ea,0,0,0,0,0,,,,,,1,0,1
+1367725,2023,Gibraltar,2,IDM Latin,78f719ea,Junaid Khan,be0077ba,L Bruce,2a03bd2f,0,0,0,0,0,,,,,,0,0,0
+1367725,2023,Gibraltar,3,L Bruce,2a03bd2f,Najjam Shahzad,58aa33cd,IDM Latin,78f719ea,0,0,0,0,0,,,,,,2,0,2
+1367725,2023,Gibraltar,3,L Bruce,2a03bd2f,Najjam Shahzad,58aa33cd,IDM Latin,78f719ea,0,0,1,0,0,,,,,,0,1,1
+1367725,2023,Gibraltar,3,IDM Latin,78f719ea,Najjam Shahzad,58aa33cd,L Bruce,2a03bd2f,0,0,0,0,0,,,,,,0,0,0
+1367725,2023,Gibraltar,3,IDM Latin,78f719ea,Najjam Shahzad,58aa33cd,L Bruce,2a03bd2f,0,0,0,0,0,,,,,,6,0,6
+1367725,2023,Gibraltar,3,IDM Latin,78f719ea,Najjam Shahzad,58aa33cd,L Bruce,2a03bd2f,0,0,0,0,0,,,,,,1,0,1
+1367725,2023,Gibraltar,3,L Bruce,2a03bd2f,Najjam Shahzad,58aa33cd,IDM Latin,78f719ea,0,0,0,0,0,,,,,,0,0,0
+1367725,2023,Gibraltar,4,IDM Latin,78f719ea,Junaid Khan,be0077ba,L Bruce,2a03bd2f,0,0,0,0,0,,,,,,0,0,0
+1367725,2023,Gibraltar,4,IDM Latin,78f719ea,Junaid Khan,be0077ba,L Bruce,2a03bd2f,0,0,0,0,0,,,,,,1,0,1
+1367725,2023,Gibraltar,4,L Bruce,2a03bd2f,Junaid Khan,be0077ba,IDM Latin,78f719ea,0,0,0,0,0,,,,,,1,0,1
+1367725,2023,Gibraltar,4,IDM Latin,78f719ea,Junaid Khan,be0077ba,L Bruce,2a03bd2f,0,0,0,0,0,,,,,,4,0,4
+1367725,2023,Gibraltar,4,IDM Latin,78f719ea,Junaid Khan,be0077ba,L Bruce,2a03bd2f,0,0,0,0,1,IDM Latin,78f719ea,,,bowled,0,0,0
+1367725,2023,Gibraltar,4,KJ Stagno,46ad7e01,Junaid Khan,be0077ba,L Bruce,2a03bd2f,0,0,0,0,0,,,,,,0,0,0
+1367725,2023,Gibraltar,5,L Bruce,2a03bd2f,F Stoman,69e53eb3,KJ Stagno,46ad7e01,0,0,0,0,0,,,,,,0,0,0
+1367725,2023,Gibraltar,5,L Bruce,2a03bd2f,F Stoman,69e53eb3,KJ Stagno,46ad7e01,0,0,0,0,0,,,,,,1,0,1
+1367725,2023,Gibraltar,5,KJ Stagno,46ad7e01,F Stoman,69e53eb3,L Bruce,2a03bd2f,0,0,0,0,0,,,,,,0,0,0
+1367725,2023,Gibraltar,5,KJ Stagno,46ad7e01,F Stoman,69e53eb3,L Bruce,2a03bd2f,0,0,0,0,0,,,,,,1,0,1
+1367725,2023,Gibraltar,5,L Bruce,2a03bd2f,F Stoman,69e53eb3,KJ Stagno,46ad7e01,0,0,1,0,0,,,,,,0,1,1
+1367725,2023,Gibraltar,5,KJ Stagno,46ad7e01,F Stoman,69e53eb3,L Bruce,2a03bd2f,0,0,0,0,0,,,,,,4,0,4
+1367725,2023,Gibraltar,6,L Bruce,2a03bd2f,Junaid Khan,be0077ba,KJ Stagno,46ad7e01,0,0,0,0,0,,,,,,4,0,4
+1367725,2023,Gibraltar,6,L Bruce,2a03bd2f,Junaid Khan,be0077ba,KJ Stagno,46ad7e01,0,0,0,0,0,,,,,,0,0,0
+1367725,2023,Gibraltar,6,L Bruce,2a03bd2f,Junaid Khan,be0077ba,KJ Stagno,46ad7e01,0,0,0,0,0,,,,,,1,0,1
+1367725,2023,Gibraltar,6,KJ Stagno,46ad7e01,Junaid Khan,be0077ba,L Bruce,2a03bd2f,0,0,0,0,0,,,,,,0,0,0
+1367725,2023,Gibraltar,6,KJ Stagno,46ad7e01,Junaid Khan,be0077ba,L Bruce,2a03bd2f,0,0,0,0,0,,,,,,6,0,6
+1367725,2023,Gibraltar,6,KJ Stagno,46ad7e01,Junaid Khan,be0077ba,L Bruce,2a03bd2f,0,0,0,0,0,,,,,,6,0,6
+1367725,2023,Gibraltar,7,L Bruce,2a03bd2f,F Stoman,69e53eb3,KJ Stagno,46ad7e01,0,0,0,0,0,,,,,,0,0,0
+1367725,2023,Gibraltar,7,L Bruce,2a03bd2f,F Stoman,69e53eb3,KJ Stagno,46ad7e01,0,0,0,0,0,,,,,,1,0,1
+1367725,2023,Gibraltar,7,KJ Stagno,46ad7e01,F Stoman,69e53eb3,L Bruce,2a03bd2f,0,0,0,0,0,,,,,,1,0,1
+1367725,2023,Gibraltar,7,L Bruce,2a03bd2f,F Stoman,69e53eb3,KJ Stagno,46ad7e01,0,0,0,0,0,,,,,,6,0,6
+1367725,2023,Gibraltar,7,L Bruce,2a03bd2f,F Stoman,69e53eb3,KJ Stagno,46ad7e01,1,0,0,0,0,,,,,,0,1,1
+1367725,2023,Gibraltar,7,L Bruce,2a03bd2f,F Stoman,69e53eb3,KJ Stagno,46ad7e01,0,0,0,0,1,L Bruce,2a03bd2f,F Stoman,69e53eb3,run out,1,0,1
+1367725,2023,Gibraltar,7,K Nestor,b89cde87,F Stoman,69e53eb3,KJ Stagno,46ad7e01,0,0,0,0,0,,,,,,0,0,0
+1367725,2023,Gibraltar,8,KJ Stagno,46ad7e01,Sirajullah Khadim,ff36e706,K Nestor,b89cde87,5,0,0,0,0,,,,,,0,5,5
+1367725,2023,Gibraltar,8,KJ Stagno,46ad7e01,Sirajullah Khadim,ff36e706,K Nestor,b89cde87,0,0,0,0,0,,,,,,1,0,1
+1367725,2023,Gibraltar,8,K Nestor,b89cde87,Sirajullah Khadim,ff36e706,KJ Stagno,46ad7e01,0,0,0,0,0,,,,,,0,0,0
+1367725,2023,Gibraltar,8,K Nestor,b89cde87,Sirajullah Khadim,ff36e706,KJ Stagno,46ad7e01,0,0,0,0,0,,,,,,0,0,0
+1367725,2023,Gibraltar,8,K Nestor,b89cde87,Sirajullah Khadim,ff36e706,KJ Stagno,46ad7e01,0,0,0,0,0,,,,,,0,0,0
+1367725,2023,Gibraltar,8,K Nestor,b89cde87,Sirajullah Khadim,ff36e706,KJ Stagno,46ad7e01,0,0,0,0,1,K Nestor,b89cde87,,,bowled,0,0,0
+1367725,2023,Gibraltar,8,JA Fitzgerald,4e6ff836,Sirajullah Khadim,ff36e706,KJ Stagno,46ad7e01,0,0,0,0,0,,,,,,0,0,0
+1367725,2023,Gibraltar,9,KJ Stagno,46ad7e01,F Stoman,69e53eb3,JA Fitzgerald,4e6ff836,0,0,0,0,0,,,,,,1,0,1
+1367725,2023,Gibraltar,9,JA Fitzgerald,4e6ff836,F Stoman,69e53eb3,KJ Stagno,46ad7e01,0,0,0,0,0,,,,,,2,0,2
+1367725,2023,Gibraltar,9,JA Fitzgerald,4e6ff836,F Stoman,69e53eb3,KJ Stagno,46ad7e01,0,0,0,0,0,,,,,,0,0,0
+1367725,2023,Gibraltar,9,JA Fitzgerald,4e6ff836,F Stoman,69e53eb3,KJ Stagno,46ad7e01,0,0,0,0,1,JA Fitzgerald,4e6ff836,,,caught and bowled,0,0,0
+1367725,2023,Gibraltar,9,A Reyes,fd2b8c06,F Stoman,69e53eb3,KJ Stagno,46ad7e01,0,0,0,0,0,,,,,,1,0,1
+1367725,2023,Gibraltar,9,KJ Stagno,46ad7e01,F Stoman,69e53eb3,A Reyes,fd2b8c06,0,0,0,0,0,,,,,,0,0,0
+1367725,2023,Gibraltar,10,A Reyes,fd2b8c06,Sirajullah Khadim,ff36e706,KJ Stagno,46ad7e01,0,0,0,0,0,,,,,,2,0,2
+1367725,2023,Gibraltar,10,A Reyes,fd2b8c06,Sirajullah Khadim,ff36e706,KJ Stagno,46ad7e01,0,0,0,0,0,,,,,,0,0,0
+1367725,2023,Gibraltar,10,A Reyes,fd2b8c06,Sirajullah Khadim,ff36e706,KJ Stagno,46ad7e01,0,0,0,0,0,,,,,,0,0,0
+1367725,2023,Gibraltar,10,A Reyes,fd2b8c06,Sirajullah Khadim,ff36e706,KJ Stagno,46ad7e01,0,0,0,0,0,,,,,,0,0,0
+1367725,2023,Gibraltar,10,A Reyes,fd2b8c06,Sirajullah Khadim,ff36e706,KJ Stagno,46ad7e01,0,0,0,0,0,,,,,,0,0,0
+1367725,2023,Gibraltar,10,A Reyes,fd2b8c06,Sirajullah Khadim,ff36e706,KJ Stagno,46ad7e01,0,0,1,0,0,,,,,,0,1,1
+1367725,2023,Gibraltar,11,A Reyes,fd2b8c06,F Stoman,69e53eb3,KJ Stagno,46ad7e01,0,0,0,0,0,,,,,,0,0,0
+1367725,2023,Gibraltar,11,A Reyes,fd2b8c06,F Stoman,69e53eb3,KJ Stagno,46ad7e01,0,0,0,0,0,,,,,,4,0,4
+1367725,2023,Gibraltar,11,A Reyes,fd2b8c06,F Stoman,69e53eb3,KJ Stagno,46ad7e01,0,0,0,0,0,,,,,,0,0,0
+1367725,2023,Gibraltar,11,A Reyes,fd2b8c06,F Stoman,69e53eb3,KJ Stagno,46ad7e01,0,0,0,0,0,,,,,,0,0,0
+1367725,2023,Gibraltar,11,A Reyes,fd2b8c06,F Stoman,69e53eb3,KJ Stagno,46ad7e01,0,0,0,0,0,,,,,,2,0,2
+1367725,2023,Gibraltar,11,A Reyes,fd2b8c06,F Stoman,69e53eb3,KJ Stagno,46ad7e01,0,0,0,0,0,,,,,,0,0,0
+1367725,2023,Gibraltar,12,KJ Stagno,46ad7e01,Sirajullah Khadim,ff36e706,A Reyes,fd2b8c06,0,0,0,0,0,,,,,,0,0,0
+1367725,2023,Gibraltar,12,KJ Stagno,46ad7e01,Sirajullah Khadim,ff36e706,A Reyes,fd2b8c06,0,0,0,0,0,,,,,,0,0,0
+1367725,2023,Gibraltar,12,KJ Stagno,46ad7e01,Sirajullah Khadim,ff36e706,A Reyes,fd2b8c06,0,0,0,0,0,,,,,,6,0,6
+1367725,2023,Gibraltar,12,KJ Stagno,46ad7e01,Sirajullah Khadim,ff36e706,A Reyes,fd2b8c06,0,0,0,0,0,,,,,,0,0,0
+1367725,2023,Gibraltar,12,KJ Stagno,46ad7e01,Sirajullah Khadim,ff36e706,A Reyes,fd2b8c06,0,0,0,0,0,,,,,,1,0,1
+1367725,2023,Gibraltar,12,A Reyes,fd2b8c06,Sirajullah Khadim,ff36e706,KJ Stagno,46ad7e01,0,0,0,0,0,,,,,,1,0,1
+1367725,2023,Gibraltar,13,A Reyes,fd2b8c06,Mubeen Tariq,5d6e07a5,KJ Stagno,46ad7e01,0,0,0,0,0,,,,,,0,0,0
+1367725,2023,Gibraltar,13,A Reyes,fd2b8c06,Mubeen Tariq,5d6e07a5,KJ Stagno,46ad7e01,0,0,0,0,0,,,,,,1,0,1
+1367725,2023,Gibraltar,13,KJ Stagno,46ad7e01,Mubeen Tariq,5d6e07a5,A Reyes,fd2b8c06,0,0,0,0,0,,,,,,1,0,1
+1367725,2023,Gibraltar,13,A Reyes,fd2b8c06,Mubeen Tariq,5d6e07a5,KJ Stagno,46ad7e01,0,0,0,0,0,,,,,,4,0,4
+1367725,2023,Gibraltar,13,A Reyes,fd2b8c06,Mubeen Tariq,5d6e07a5,KJ Stagno,46ad7e01,0,0,0,0,0,,,,,,1,0,1
+1367725,2023,Gibraltar,13,KJ Stagno,46ad7e01,Mubeen Tariq,5d6e07a5,A Reyes,fd2b8c06,0,0,0,0,0,,,,,,1,0,1
+1367725,2023,Gibraltar,14,KJ Stagno,46ad7e01,Sirajullah Khadim,ff36e706,A Reyes,fd2b8c06,0,0,0,0,0,,,,,,1,0,1
+1367725,2023,Gibraltar,14,A Reyes,fd2b8c06,Sirajullah Khadim,ff36e706,KJ Stagno,46ad7e01,0,0,0,0,0,,,,,,0,0,0
+1367725,2023,Gibraltar,14,A Reyes,fd2b8c06,Sirajullah Khadim,ff36e706,KJ Stagno,46ad7e01,0,0,1,0,0,,,,,,0,1,1
+1367725,2023,Gibraltar,14,KJ Stagno,46ad7e01,Sirajullah Khadim,ff36e706,A Reyes,fd2b8c06,0,0,0,0,0,,,,,,1,0,1
+1367725,2023,Gibraltar,14,A Reyes,fd2b8c06,Sirajullah Khadim,ff36e706,KJ Stagno,46ad7e01,0,0,0,0,0,,,,,,0,0,0
+1367725,2023,Gibraltar,14,A Reyes,fd2b8c06,Sirajullah Khadim,ff36e706,KJ Stagno,46ad7e01,0,0,0,0,0,,,,,,0,0,0
+1367725,2023,Gibraltar,15,KJ Stagno,46ad7e01,Mubeen Tariq,5d6e07a5,A Reyes,fd2b8c06,0,0,0,0,0,,,,,,6,0,6
+1367725,2023,Gibraltar,15,KJ Stagno,46ad7e01,Mubeen Tariq,5d6e07a5,A Reyes,fd2b8c06,0,0,0,0,0,,,,,,0,0,0
+1367725,2023,Gibraltar,15,KJ Stagno,46ad7e01,Mubeen Tariq,5d6e07a5,A Reyes,fd2b8c06,1,0,0,0,0,,,,,,0,1,1
+1367725,2023,Gibraltar,15,KJ Stagno,46ad7e01,Mubeen Tariq,5d6e07a5,A Reyes,fd2b8c06,0,0,0,0,0,,,,,,6,0,6
+1367725,2023,Gibraltar,15,KJ Stagno,46ad7e01,Mubeen Tariq,5d6e07a5,A Reyes,fd2b8c06,1,0,0,0,0,,,,,,0,1,1
+1367725,2023,Gibraltar,15,KJ Stagno,46ad7e01,Mubeen Tariq,5d6e07a5,A Reyes,fd2b8c06,0,0,0,0,0,,,,,,4,0,4
+1367725,2023,Gibraltar,15,KJ Stagno,46ad7e01,Mubeen Tariq,5d6e07a5,A Reyes,fd2b8c06,0,0,0,0,0,,,,,,6,0,6
+1367725,2023,Gibraltar,15,KJ Stagno,46ad7e01,Mubeen Tariq,5d6e07a5,A Reyes,fd2b8c06,0,0,0,0,0,,,,,,0,0,0
+1367725,2023,Gibraltar,16,A Reyes,fd2b8c06,Amir Zaib,973006cc,KJ Stagno,46ad7e01,0,0,0,0,0,,,,,,1,0,1
+1367725,2023,Gibraltar,16,KJ Stagno,46ad7e01,Amir Zaib,973006cc,A Reyes,fd2b8c06,0,0,0,0,0,,,,,,2,0,2
+1367725,2023,Gibraltar,16,KJ Stagno,46ad7e01,Amir Zaib,973006cc,A Reyes,fd2b8c06,0,0,0,0,0,,,,,,6,0,6
+1367725,2023,Gibraltar,16,KJ Stagno,46ad7e01,Amir Zaib,973006cc,A Reyes,fd2b8c06,0,0,0,0,0,,,,,,4,0,4
+1367725,2023,Gibraltar,16,KJ Stagno,46ad7e01,Amir Zaib,973006cc,A Reyes,fd2b8c06,0,0,0,0,0,,,,,,6,0,6
+1367725,2023,Gibraltar,16,KJ Stagno,46ad7e01,Amir Zaib,973006cc,A Reyes,fd2b8c06,0,0,0,0,0,,,,,,4,0,4
+1367725,2023,Gibraltar,17,A Reyes,fd2b8c06,Najjam Shahzad,58aa33cd,KJ Stagno,46ad7e01,0,0,1,0,0,,,,,,0,1,1
+1367725,2023,Gibraltar,17,KJ Stagno,46ad7e01,Najjam Shahzad,58aa33cd,A Reyes,fd2b8c06,0,0,0,0,0,,,,,,0,0,0
+1367725,2023,Gibraltar,17,KJ Stagno,46ad7e01,Najjam Shahzad,58aa33cd,A Reyes,fd2b8c06,0,0,0,0,0,,,,,,6,0,6
+1367725,2023,Gibraltar,17,KJ Stagno,46ad7e01,Najjam Shahzad,58aa33cd,A Reyes,fd2b8c06,0,0,0,0,0,,,,,,0,0,0
+1367725,2023,Gibraltar,17,KJ Stagno,46ad7e01,Najjam Shahzad,58aa33cd,A Reyes,fd2b8c06,0,0,0,0,0,,,,,,4,0,4
+1367725,2023,Gibraltar,17,KJ Stagno,46ad7e01,Najjam Shahzad,58aa33cd,A Reyes,fd2b8c06,0,0,0,0,0,,,,,,1,0,1
+1367725,2023,Gibraltar,18,KJ Stagno,46ad7e01,Amir Zaib,973006cc,A Reyes,fd2b8c06,0,0,0,0,0,,,,,,0,0,0
+1367725,2023,Gibraltar,18,KJ Stagno,46ad7e01,Amir Zaib,973006cc,A Reyes,fd2b8c06,0,0,0,0,1,KJ Stagno,46ad7e01,F Stoman,69e53eb3,caught,0,0,0
+1367725,2023,Gibraltar,18,K Mirpuri,441006af,Amir Zaib,973006cc,A Reyes,fd2b8c06,0,0,0,0,0,,,,,,1,0,1
+1367725,2023,Gibraltar,18,A Reyes,fd2b8c06,Amir Zaib,973006cc,K Mirpuri,441006af,0,0,0,0,0,,,,,,4,0,4
+1367725,2023,Gibraltar,18,A Reyes,fd2b8c06,Amir Zaib,973006cc,K Mirpuri,441006af,0,0,0,0,0,,,,,,1,0,1
+1367725,2023,Gibraltar,18,K Mirpuri,441006af,Amir Zaib,973006cc,A Reyes,fd2b8c06,0,0,0,0,0,,,,,,1,0,1
+1367725,2023,Gibraltar,19,K Mirpuri,441006af,Najjam Shahzad,58aa33cd,A Reyes,fd2b8c06,0,0,0,0,0,,,,,,1,0,1
+1367725,2023,Gibraltar,19,A Reyes,fd2b8c06,Najjam Shahzad,58aa33cd,K Mirpuri,441006af,0,0,0,0,1,A Reyes,fd2b8c06,Kuldeep,61c48027,caught,0,0,0
+1367725,2023,Gibraltar,19,J Horrocks,1c8cd1c3,Najjam Shahzad,58aa33cd,K Mirpuri,441006af,0,0,0,0,0,,,,,,0,0,0
+1367725,2023,Gibraltar,19,J Horrocks,1c8cd1c3,Najjam Shahzad,58aa33cd,K Mirpuri,441006af,0,0,0,0,0,,,,,,0,0,0
+1367725,2023,Gibraltar,19,J Horrocks,1c8cd1c3,Najjam Shahzad,58aa33cd,K Mirpuri,441006af,0,0,0,0,1,J Horrocks,1c8cd1c3,,,caught and bowled,0,0,0
+1367725,2023,Gibraltar,19,S Bodha,00467a76,Najjam Shahzad,58aa33cd,K Mirpuri,441006af,0,0,0,0,0,,,,,,2,0,2
+1367725,2023,Portugal,0,Kuldeep,61c48027,K Mirpuri,441006af,Azhar Andani,b5bd99da,0,0,0,0,0,,,,,,2,0,2
+1367725,2023,Portugal,0,Kuldeep,61c48027,K Mirpuri,441006af,Azhar Andani,b5bd99da,0,0,0,0,0,,,,,,0,0,0
+1367725,2023,Portugal,0,Kuldeep,61c48027,K Mirpuri,441006af,Azhar Andani,b5bd99da,0,0,0,0,0,,,,,,0,0,0
+1367725,2023,Portugal,0,Kuldeep,61c48027,K Mirpuri,441006af,Azhar Andani,b5bd99da,0,0,0,0,0,,,,,,6,0,6
+1367725,2023,Portugal,0,Kuldeep,61c48027,K Mirpuri,441006af,Azhar Andani,b5bd99da,0,0,0,0,0,,,,,,1,0,1
+1367725,2023,Portugal,0,Azhar Andani,b5bd99da,K Mirpuri,441006af,Kuldeep,61c48027,0,0,0,0,0,,,,,,0,0,0
+1367725,2023,Portugal,1,Kuldeep,61c48027,L Bruce,2a03bd2f,Azhar Andani,b5bd99da,0,0,0,0,0,,,,,,2,0,2
+1367725,2023,Portugal,1,Kuldeep,61c48027,L Bruce,2a03bd2f,Azhar Andani,b5bd99da,0,0,0,0,0,,,,,,2,0,2
+1367725,2023,Portugal,1,Kuldeep,61c48027,L Bruce,2a03bd2f,Azhar Andani,b5bd99da,0,0,0,0,0,,,,,,4,0,4
+1367725,2023,Portugal,1,Kuldeep,61c48027,L Bruce,2a03bd2f,Azhar Andani,b5bd99da,0,0,0,0,0,,,,,,1,0,1
+1367725,2023,Portugal,1,Azhar Andani,b5bd99da,L Bruce,2a03bd2f,Kuldeep,61c48027,0,0,0,0,0,,,,,,2,0,2
+1367725,2023,Portugal,1,Azhar Andani,b5bd99da,L Bruce,2a03bd2f,Kuldeep,61c48027,0,0,0,0,0,,,,,,0,0,0
+1367725,2023,Portugal,2,Kuldeep,61c48027,K Mirpuri,441006af,Azhar Andani,b5bd99da,0,0,0,0,0,,,,,,1,0,1
+1367725,2023,Portugal,2,Azhar Andani,b5bd99da,K Mirpuri,441006af,Kuldeep,61c48027,0,0,0,0,0,,,,,,0,0,0
+1367725,2023,Portugal,2,Azhar Andani,b5bd99da,K Mirpuri,441006af,Kuldeep,61c48027,0,0,0,0,0,,,,,,4,0,4
+1367725,2023,Portugal,2,Azhar Andani,b5bd99da,K Mirpuri,441006af,Kuldeep,61c48027,0,0,0,0,0,,,,,,1,0,1
+1367725,2023,Portugal,2,Kuldeep,61c48027,K Mirpuri,441006af,Azhar Andani,b5bd99da,5,0,0,0,0,,,,,,0,5,5
+1367725,2023,Portugal,2,Kuldeep,61c48027,K Mirpuri,441006af,Azhar Andani,b5bd99da,0,0,0,0,0,,,,,,1,0,1
+1367725,2023,Portugal,2,Azhar Andani,b5bd99da,K Mirpuri,441006af,Kuldeep,61c48027,0,0,0,0,0,,,,,,1,0,1
+1367725,2023,Portugal,3,Azhar Andani,b5bd99da,L Bruce,2a03bd2f,Kuldeep,61c48027,0,0,0,0,0,,,,,,2,0,2
+1367725,2023,Portugal,3,Azhar Andani,b5bd99da,L Bruce,2a03bd2f,Kuldeep,61c48027,0,0,0,0,1,Kuldeep,61c48027,J Horrocks,1c8cd1c3,run out,0,0,0
+1367725,2023,Portugal,3,Azhar Andani,b5bd99da,L Bruce,2a03bd2f,M Machado,fd34bcb0,0,0,0,0,0,,,,,,0,0,0
+1367725,2023,Portugal,3,Azhar Andani,b5bd99da,L Bruce,2a03bd2f,M Machado,fd34bcb0,0,0,0,0,0,,,,,,0,0,0
+1367725,2023,Portugal,3,Azhar Andani,b5bd99da,L Bruce,2a03bd2f,M Machado,fd34bcb0,0,0,0,0,0,,,,,,0,0,0
+1367725,2023,Portugal,3,Azhar Andani,b5bd99da,L Bruce,2a03bd2f,M Machado,fd34bcb0,0,0,0,0,0,,,,,,0,0,0
+1367725,2023,Portugal,4,M Machado,fd34bcb0,K Mirpuri,441006af,Azhar Andani,b5bd99da,0,0,0,0,0,,,,,,1,0,1
+1367725,2023,Portugal,4,Azhar Andani,b5bd99da,K Mirpuri,441006af,M Machado,fd34bcb0,0,0,0,0,0,,,,,,1,0,1
+1367725,2023,Portugal,4,M Machado,fd34bcb0,K Mirpuri,441006af,Azhar Andani,b5bd99da,0,0,0,0,0,,,,,,0,0,0
+1367725,2023,Portugal,4,M Machado,fd34bcb0,K Mirpuri,441006af,Azhar Andani,b5bd99da,0,0,0,0,0,,,,,,4,0,4
+1367725,2023,Portugal,4,M Machado,fd34bcb0,K Mirpuri,441006af,Azhar Andani,b5bd99da,0,0,0,0,0,,,,,,0,0,0
+1367725,2023,Portugal,4,M Machado,fd34bcb0,K Mirpuri,441006af,Azhar Andani,b5bd99da,0,0,0,0,0,,,,,,4,0,4
+1367725,2023,Portugal,5,Azhar Andani,b5bd99da,L Bruce,2a03bd2f,M Machado,fd34bcb0,0,0,0,0,0,,,,,,1,0,1
+1367725,2023,Portugal,5,M Machado,fd34bcb0,L Bruce,2a03bd2f,Azhar Andani,b5bd99da,0,0,0,0,0,,,,,,0,0,0
+1367725,2023,Portugal,5,M Machado,fd34bcb0,L Bruce,2a03bd2f,Azhar Andani,b5bd99da,0,0,0,0,0,,,,,,0,0,0
+1367725,2023,Portugal,5,M Machado,fd34bcb0,L Bruce,2a03bd2f,Azhar Andani,b5bd99da,0,0,0,0,0,,,,,,1,0,1
+1367725,2023,Portugal,5,Azhar Andani,b5bd99da,L Bruce,2a03bd2f,M Machado,fd34bcb0,0,0,0,0,0,,,,,,4,0,4
+1367725,2023,Portugal,5,Azhar Andani,b5bd99da,L Bruce,2a03bd2f,M Machado,fd34bcb0,0,0,0,0,0,,,,,,1,0,1
+1367725,2023,Portugal,6,Azhar Andani,b5bd99da,BA Pai,716bf559,M Machado,fd34bcb0,0,0,0,0,0,,,,,,0,0,0
+1367725,2023,Portugal,6,Azhar Andani,b5bd99da,BA Pai,716bf559,M Machado,fd34bcb0,0,0,0,0,0,,,,,,4,0,4
+1367725,2023,Portugal,6,Azhar Andani,b5bd99da,BA Pai,716bf559,M Machado,fd34bcb0,0,0,0,0,0,,,,,,1,0,1
+1367725,2023,Portugal,6,M Machado,fd34bcb0,BA Pai,716bf559,Azhar Andani,b5bd99da,0,0,0,0,0,,,,,,0,0,0
+1367725,2023,Portugal,6,M Machado,fd34bcb0,BA Pai,716bf559,Azhar Andani,b5bd99da,0,0,0,0,0,,,,,,0,0,0
+1367725,2023,Portugal,6,M Machado,fd34bcb0,BA Pai,716bf559,Azhar Andani,b5bd99da,0,0,0,0,0,,,,,,1,0,1
+1367725,2023,Portugal,7,M Machado,fd34bcb0,JA Fitzgerald,4e6ff836,Azhar Andani,b5bd99da,0,1,0,0,0,,,,,,0,1,1
+1367725,2023,Portugal,7,M Machado,fd34bcb0,JA Fitzgerald,4e6ff836,Azhar Andani,b5bd99da,0,0,0,0,0,,,,,,2,0,2
+1367725,2023,Portugal,7,M Machado,fd34bcb0,JA Fitzgerald,4e6ff836,Azhar Andani,b5bd99da,1,0,0,0,0,,,,,,0,1,1
+1367725,2023,Portugal,7,M Machado,fd34bcb0,JA Fitzgerald,4e6ff836,Azhar Andani,b5bd99da,0,0,0,0,0,,,,,,0,0,0
+1367725,2023,Portugal,7,M Machado,fd34bcb0,JA Fitzgerald,4e6ff836,Azhar Andani,b5bd99da,1,0,0,0,0,,,,,,0,1,1
+1367725,2023,Portugal,7,M Machado,fd34bcb0,JA Fitzgerald,4e6ff836,Azhar Andani,b5bd99da,0,0,0,0,1,Azhar Andani,b5bd99da,JA Fitzgerald,4e6ff836,run out,0,0,0
+1367725,2023,Portugal,7,M Machado,fd34bcb0,JA Fitzgerald,4e6ff836,Suman Ghimire,7d990412,0,0,0,0,0,,,,,,0,0,0
+1367725,2023,Portugal,7,M Machado,fd34bcb0,JA Fitzgerald,4e6ff836,Suman Ghimire,7d990412,0,0,0,0,0,,,,,,0,0,0
+1367725,2023,Portugal,7,M Machado,fd34bcb0,JA Fitzgerald,4e6ff836,Suman Ghimire,7d990412,0,0,0,0,0,,,,,,0,0,0
+1367725,2023,Portugal,8,Suman Ghimire,7d990412,BA Pai,716bf559,M Machado,fd34bcb0,0,0,0,0,0,,,,,,0,0,0
+1367725,2023,Portugal,8,Suman Ghimire,7d990412,BA Pai,716bf559,M Machado,fd34bcb0,0,0,0,0,0,,,,,,2,0,2
+1367725,2023,Portugal,8,Suman Ghimire,7d990412,BA Pai,716bf559,M Machado,fd34bcb0,0,0,0,0,0,,,,,,0,0,0
+1367725,2023,Portugal,8,Suman Ghimire,7d990412,BA Pai,716bf559,M Machado,fd34bcb0,0,0,0,0,0,,,,,,6,0,6
+1367725,2023,Portugal,8,Suman Ghimire,7d990412,BA Pai,716bf559,M Machado,fd34bcb0,0,0,0,0,0,,,,,,0,0,0
+1367725,2023,Portugal,8,Suman Ghimire,7d990412,BA Pai,716bf559,M Machado,fd34bcb0,0,0,0,0,0,,,,,,2,0,2
+1367725,2023,Portugal,9,M Machado,fd34bcb0,JA Fitzgerald,4e6ff836,Suman Ghimire,7d990412,0,0,0,0,0,,,,,,1,0,1
+1367725,2023,Portugal,9,Suman Ghimire,7d990412,JA Fitzgerald,4e6ff836,M Machado,fd34bcb0,0,0,0,0,0,,,,,,1,0,1
+1367725,2023,Portugal,9,M Machado,fd34bcb0,JA Fitzgerald,4e6ff836,Suman Ghimire,7d990412,0,0,0,0,0,,,,,,0,0,0
+1367725,2023,Portugal,9,M Machado,fd34bcb0,JA Fitzgerald,4e6ff836,Suman Ghimire,7d990412,0,0,0,0,0,,,,,,1,0,1
+1367725,2023,Portugal,9,Suman Ghimire,7d990412,JA Fitzgerald,4e6ff836,M Machado,fd34bcb0,0,0,0,0,0,,,,,,2,0,2
+1367725,2023,Portugal,9,Suman Ghimire,7d990412,JA Fitzgerald,4e6ff836,M Machado,fd34bcb0,0,0,0,0,0,,,,,,0,0,0
+1367725,2023,Portugal,10,M Machado,fd34bcb0,BA Pai,716bf559,Suman Ghimire,7d990412,0,0,0,0,0,,,,,,0,0,0
+1367725,2023,Portugal,10,M Machado,fd34bcb0,BA Pai,716bf559,Suman Ghimire,7d990412,1,0,0,0,0,,,,,,0,1,1
+1367725,2023,Portugal,10,M Machado,fd34bcb0,BA Pai,716bf559,Suman Ghimire,7d990412,0,0,0,0,0,,,,,,0,0,0
+1367725,2023,Portugal,10,M Machado,fd34bcb0,BA Pai,716bf559,Suman Ghimire,7d990412,0,0,0,0,0,,,,,,1,0,1
+1367725,2023,Portugal,10,Suman Ghimire,7d990412,BA Pai,716bf559,M Machado,fd34bcb0,0,0,0,0,0,,,,,,1,0,1
+1367725,2023,Portugal,10,M Machado,fd34bcb0,BA Pai,716bf559,Suman Ghimire,7d990412,0,0,0,4,0,,,,,,0,4,4
+1367725,2023,Portugal,10,M Machado,fd34bcb0,BA Pai,716bf559,Suman Ghimire,7d990412,0,0,0,4,0,,,,,,0,4,4
+1367725,2023,Portugal,11,Suman Ghimire,7d990412,S Bodha,00467a76,M Machado,fd34bcb0,0,0,0,0,0,,,,,,0,0,0
+1367725,2023,Portugal,11,Suman Ghimire,7d990412,S Bodha,00467a76,M Machado,fd34bcb0,0,0,0,0,0,,,,,,1,0,1
+1367725,2023,Portugal,11,M Machado,fd34bcb0,S Bodha,00467a76,Suman Ghimire,7d990412,0,0,0,0,0,,,,,,1,0,1
+1367725,2023,Portugal,11,Suman Ghimire,7d990412,S Bodha,00467a76,M Machado,fd34bcb0,0,0,0,0,0,,,,,,1,0,1
+1367725,2023,Portugal,11,M Machado,fd34bcb0,S Bodha,00467a76,Suman Ghimire,7d990412,0,0,0,0,0,,,,,,1,0,1
+1367725,2023,Portugal,11,Suman Ghimire,7d990412,S Bodha,00467a76,M Machado,fd34bcb0,0,0,0,0,0,,,,,,0,0,0
+1367725,2023,Portugal,12,M Machado,fd34bcb0,J Horrocks,1c8cd1c3,Suman Ghimire,7d990412,1,0,0,0,0,,,,,,0,1,1
+1367725,2023,Portugal,12,M Machado,fd34bcb0,J Horrocks,1c8cd1c3,Suman Ghimire,7d990412,0,0,0,0,0,,,,,,1,0,1
+1367725,2023,Portugal,12,Suman Ghimire,7d990412,J Horrocks,1c8cd1c3,M Machado,fd34bcb0,0,0,0,0,0,,,,,,6,0,6
+1367725,2023,Portugal,12,Suman Ghimire,7d990412,J Horrocks,1c8cd1c3,M Machado,fd34bcb0,0,0,0,0,0,,,,,,1,0,1
+1367725,2023,Portugal,12,M Machado,fd34bcb0,J Horrocks,1c8cd1c3,Suman Ghimire,7d990412,0,0,0,0,0,,,,,,4,0,4
+1367725,2023,Portugal,12,M Machado,fd34bcb0,J Horrocks,1c8cd1c3,Suman Ghimire,7d990412,0,0,0,0,0,,,,,,4,0,4
+1367725,2023,Portugal,12,M Machado,fd34bcb0,J Horrocks,1c8cd1c3,Suman Ghimire,7d990412,0,0,0,0,0,,,,,,0,0,0
+1367725,2023,Portugal,13,Suman Ghimire,7d990412,S Bodha,00467a76,M Machado,fd34bcb0,0,0,0,0,1,Suman Ghimire,7d990412,J West,1d1c6410,caught,0,0,0
+1367725,2023,Portugal,13,Amir Zaib,973006cc,S Bodha,00467a76,M Machado,fd34bcb0,0,0,0,0,0,,,,,,0,0,0
+1367725,2023,Portugal,13,Amir Zaib,973006cc,S Bodha,00467a76,M Machado,fd34bcb0,0,0,0,0,0,,,,,,2,0,2
+1367725,2023,Portugal,13,Amir Zaib,973006cc,S Bodha,00467a76,M Machado,fd34bcb0,0,0,0,0,0,,,,,,0,0,0
+1367725,2023,Portugal,13,Amir Zaib,973006cc,S Bodha,00467a76,M Machado,fd34bcb0,0,0,0,0,0,,,,,,0,0,0
+1367725,2023,Portugal,13,Amir Zaib,973006cc,S Bodha,00467a76,M Machado,fd34bcb0,0,0,0,0,0,,,,,,2,0,2
+1367725,2023,Portugal,14,M Machado,fd34bcb0,K Mirpuri,441006af,Amir Zaib,973006cc,0,0,0,0,0,,,,,,2,0,2
+1367725,2023,Portugal,14,M Machado,fd34bcb0,K Mirpuri,441006af,Amir Zaib,973006cc,0,0,0,0,0,,,,,,0,0,0
+1367725,2023,Portugal,14,M Machado,fd34bcb0,K Mirpuri,441006af,Amir Zaib,973006cc,0,0,0,0,0,,,,,,4,0,4
+1367725,2023,Portugal,14,M Machado,fd34bcb0,K Mirpuri,441006af,Amir Zaib,973006cc,0,0,0,0,0,,,,,,1,0,1
+1367725,2023,Portugal,14,Amir Zaib,973006cc,K Mirpuri,441006af,M Machado,fd34bcb0,0,0,0,0,0,,,,,,2,0,2
+1367725,2023,Portugal,14,Amir Zaib,973006cc,K Mirpuri,441006af,M Machado,fd34bcb0,0,0,0,0,0,,,,,,1,0,1
+1367725,2023,Portugal,15,Amir Zaib,973006cc,S Bodha,00467a76,M Machado,fd34bcb0,0,0,0,0,0,,,,,,1,0,1
+1367725,2023,Portugal,15,M Machado,fd34bcb0,S Bodha,00467a76,Amir Zaib,973006cc,0,0,0,0,0,,,,,,2,0,2
+1367725,2023,Portugal,15,M Machado,fd34bcb0,S Bodha,00467a76,Amir Zaib,973006cc,0,0,0,0,0,,,,,,1,0,1
+1367725,2023,Portugal,15,Amir Zaib,973006cc,S Bodha,00467a76,M Machado,fd34bcb0,0,0,0,0,0,,,,,,6,0,6
+1367725,2023,Portugal,15,Amir Zaib,973006cc,S Bodha,00467a76,M Machado,fd34bcb0,0,0,0,2,0,,,,,,0,2,2
+1367725,2023,Portugal,15,Amir Zaib,973006cc,S Bodha,00467a76,M Machado,fd34bcb0,0,0,0,0,0,,,,,,4,0,4
+1367725,2023,Portugal,16,M Machado,fd34bcb0,BA Pai,716bf559,Amir Zaib,973006cc,0,0,0,0,0,,,,,,1,0,1
+1367725,2023,Portugal,16,Amir Zaib,973006cc,BA Pai,716bf559,M Machado,fd34bcb0,0,0,0,0,0,,,,,,1,0,1
+1367725,2023,Portugal,16,M Machado,fd34bcb0,BA Pai,716bf559,Amir Zaib,973006cc,0,0,0,0,0,,,,,,6,0,6
+1367725,2023,Portugal,16,M Machado,fd34bcb0,BA Pai,716bf559,Amir Zaib,973006cc,0,0,0,0,0,,,,,,1,0,1
+1367725,2023,Portugal,16,Amir Zaib,973006cc,BA Pai,716bf559,M Machado,fd34bcb0,0,0,0,0,0,,,,,,2,0,2
+1367725,2023,Portugal,16,Amir Zaib,973006cc,BA Pai,716bf559,M Machado,fd34bcb0,0,0,0,0,0,,,,,,4,0,4
+1367725,2023,Portugal,17,M Machado,fd34bcb0,S Bodha,00467a76,Amir Zaib,973006cc,0,0,0,0,0,,,,,,2,0,2
+1367725,2023,Portugal,17,M Machado,fd34bcb0,S Bodha,00467a76,Amir Zaib,973006cc,0,0,0,0,0,,,,,,1,0,1
+1367725,2023,Portugal,17,Amir Zaib,973006cc,S Bodha,00467a76,M Machado,fd34bcb0,0,0,0,0,0,,,,,,4,0,4
+1367725,2023,Portugal,17,Amir Zaib,973006cc,S Bodha,00467a76,M Machado,fd34bcb0,0,0,0,0,0,,,,,,2,0,2
+1367725,2023,Portugal,17,Amir Zaib,973006cc,S Bodha,00467a76,M Machado,fd34bcb0,0,0,0,0,0,,,,,,0,0,0
+1367725,2023,Portugal,17,Amir Zaib,973006cc,S Bodha,00467a76,M Machado,fd34bcb0,0,0,0,0,0,,,,,,4,0,4
+1367725,2023,Portugal,18,M Machado,fd34bcb0,IDM Latin,78f719ea,Amir Zaib,973006cc,0,0,0,0,0,,,,,,0,0,0
+1367725,2023,Portugal,18,M Machado,fd34bcb0,IDM Latin,78f719ea,Amir Zaib,973006cc,0,0,0,0,0,,,,,,6,0,6

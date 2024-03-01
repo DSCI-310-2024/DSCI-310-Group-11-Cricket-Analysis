@@ -1,0 +1,171 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1349124,2022/23,Tanzania,0,AR Patwa,b43f7a6a,Z Bimenyimana,ba57fb08,II Selemani,b2dadc51,0,0,0,0,0,,,,,,1,0,1
+1349124,2022/23,Tanzania,0,II Selemani,b2dadc51,Z Bimenyimana,ba57fb08,AR Patwa,b43f7a6a,1,0,0,0,0,,,,,,0,1,1
+1349124,2022/23,Tanzania,0,II Selemani,b2dadc51,Z Bimenyimana,ba57fb08,AR Patwa,b43f7a6a,0,0,0,0,0,,,,,,0,0,0
+1349124,2022/23,Tanzania,0,II Selemani,b2dadc51,Z Bimenyimana,ba57fb08,AR Patwa,b43f7a6a,0,0,0,0,0,,,,,,0,0,0
+1349124,2022/23,Tanzania,0,II Selemani,b2dadc51,Z Bimenyimana,ba57fb08,AR Patwa,b43f7a6a,0,0,0,0,0,,,,,,0,0,0
+1349124,2022/23,Tanzania,0,II Selemani,b2dadc51,Z Bimenyimana,ba57fb08,AR Patwa,b43f7a6a,0,0,0,0,0,,,,,,0,0,0
+1349124,2022/23,Tanzania,0,II Selemani,b2dadc51,Z Bimenyimana,ba57fb08,AR Patwa,b43f7a6a,0,0,0,0,0,,,,,,0,0,0
+1349124,2022/23,Tanzania,1,AR Patwa,b43f7a6a,V Mitari,3a82673c,II Selemani,b2dadc51,1,0,0,0,0,,,,,,0,1,1
+1349124,2022/23,Tanzania,1,AR Patwa,b43f7a6a,V Mitari,3a82673c,II Selemani,b2dadc51,1,0,0,0,0,,,,,,0,1,1
+1349124,2022/23,Tanzania,1,AR Patwa,b43f7a6a,V Mitari,3a82673c,II Selemani,b2dadc51,1,0,0,0,0,,,,,,0,1,1
+1349124,2022/23,Tanzania,1,AR Patwa,b43f7a6a,V Mitari,3a82673c,II Selemani,b2dadc51,0,0,0,0,0,,,,,,0,0,0
+1349124,2022/23,Tanzania,1,AR Patwa,b43f7a6a,V Mitari,3a82673c,II Selemani,b2dadc51,0,0,0,0,0,,,,,,1,0,1
+1349124,2022/23,Tanzania,1,II Selemani,b2dadc51,V Mitari,3a82673c,AR Patwa,b43f7a6a,0,0,0,0,0,,,,,,4,0,4
+1349124,2022/23,Tanzania,1,II Selemani,b2dadc51,V Mitari,3a82673c,AR Patwa,b43f7a6a,0,0,0,0,1,II Selemani,b2dadc51,O Tuyisenge,e6a6888f,caught,0,0,0
+1349124,2022/23,Tanzania,1,MO Kitunda,badef0dc,V Mitari,3a82673c,AR Patwa,b43f7a6a,0,0,0,0,0,,,,,,0,0,0
+1349124,2022/23,Tanzania,1,MO Kitunda,badef0dc,V Mitari,3a82673c,AR Patwa,b43f7a6a,0,1,0,0,0,,,,,,1,1,2
+1349124,2022/23,Tanzania,1,AR Patwa,b43f7a6a,V Mitari,3a82673c,MO Kitunda,badef0dc,0,1,0,0,0,,,,,,2,1,3
+1349124,2022/23,Tanzania,1,AR Patwa,b43f7a6a,V Mitari,3a82673c,MO Kitunda,badef0dc,0,0,0,0,0,,,,,,1,0,1
+1349124,2022/23,Tanzania,2,AR Patwa,b43f7a6a,Z Bimenyimana,ba57fb08,MO Kitunda,badef0dc,0,0,0,0,0,,,,,,4,0,4
+1349124,2022/23,Tanzania,2,AR Patwa,b43f7a6a,Z Bimenyimana,ba57fb08,MO Kitunda,badef0dc,0,0,0,0,0,,,,,,1,0,1
+1349124,2022/23,Tanzania,2,MO Kitunda,badef0dc,Z Bimenyimana,ba57fb08,AR Patwa,b43f7a6a,0,0,0,0,1,MO Kitunda,badef0dc,,,bowled,0,0,0
+1349124,2022/23,Tanzania,2,AP Rajeevan,63d6f031,Z Bimenyimana,ba57fb08,AR Patwa,b43f7a6a,0,0,0,0,0,,,,,,1,0,1
+1349124,2022/23,Tanzania,2,AR Patwa,b43f7a6a,Z Bimenyimana,ba57fb08,AP Rajeevan,63d6f031,0,0,0,0,0,,,,,,1,0,1
+1349124,2022/23,Tanzania,2,AP Rajeevan,63d6f031,Z Bimenyimana,ba57fb08,AR Patwa,b43f7a6a,0,0,0,0,0,,,,,,2,0,2
+1349124,2022/23,Tanzania,3,AR Patwa,b43f7a6a,C Rububagumya,8088632c,AP Rajeevan,63d6f031,0,0,0,0,0,,,,,,0,0,0
+1349124,2022/23,Tanzania,3,AR Patwa,b43f7a6a,C Rububagumya,8088632c,AP Rajeevan,63d6f031,0,0,0,0,0,,,,,,4,0,4
+1349124,2022/23,Tanzania,3,AR Patwa,b43f7a6a,C Rububagumya,8088632c,AP Rajeevan,63d6f031,0,0,0,0,0,,,,,,4,0,4
+1349124,2022/23,Tanzania,3,AR Patwa,b43f7a6a,C Rububagumya,8088632c,AP Rajeevan,63d6f031,0,0,0,0,0,,,,,,0,0,0
+1349124,2022/23,Tanzania,3,AR Patwa,b43f7a6a,C Rububagumya,8088632c,AP Rajeevan,63d6f031,0,0,0,0,0,,,,,,4,0,4
+1349124,2022/23,Tanzania,3,AR Patwa,b43f7a6a,C Rububagumya,8088632c,AP Rajeevan,63d6f031,0,0,0,0,0,,,,,,1,0,1
+1349124,2022/23,Tanzania,4,AR Patwa,b43f7a6a,K Irakoze,9ccb6e52,AP Rajeevan,63d6f031,0,0,0,0,0,,,,,,1,0,1
+1349124,2022/23,Tanzania,4,AP Rajeevan,63d6f031,K Irakoze,9ccb6e52,AR Patwa,b43f7a6a,0,0,0,0,0,,,,,,1,0,1
+1349124,2022/23,Tanzania,4,AR Patwa,b43f7a6a,K Irakoze,9ccb6e52,AP Rajeevan,63d6f031,0,0,0,0,0,,,,,,4,0,4
+1349124,2022/23,Tanzania,4,AR Patwa,b43f7a6a,K Irakoze,9ccb6e52,AP Rajeevan,63d6f031,0,0,0,0,0,,,,,,0,0,0
+1349124,2022/23,Tanzania,4,AR Patwa,b43f7a6a,K Irakoze,9ccb6e52,AP Rajeevan,63d6f031,0,0,0,0,0,,,,,,4,0,4
+1349124,2022/23,Tanzania,4,AR Patwa,b43f7a6a,K Irakoze,9ccb6e52,AP Rajeevan,63d6f031,0,0,0,0,0,,,,,,4,0,4
+1349124,2022/23,Tanzania,5,AP Rajeevan,63d6f031,I Ntirenganya,e73f6c4b,AR Patwa,b43f7a6a,0,0,0,0,0,,,,,,0,0,0
+1349124,2022/23,Tanzania,5,AP Rajeevan,63d6f031,I Ntirenganya,e73f6c4b,AR Patwa,b43f7a6a,0,0,0,0,0,,,,,,2,0,2
+1349124,2022/23,Tanzania,5,AP Rajeevan,63d6f031,I Ntirenganya,e73f6c4b,AR Patwa,b43f7a6a,0,0,0,0,0,,,,,,1,0,1
+1349124,2022/23,Tanzania,5,AR Patwa,b43f7a6a,I Ntirenganya,e73f6c4b,AP Rajeevan,63d6f031,0,0,0,0,0,,,,,,0,0,0
+1349124,2022/23,Tanzania,5,AR Patwa,b43f7a6a,I Ntirenganya,e73f6c4b,AP Rajeevan,63d6f031,0,0,0,0,0,,,,,,1,0,1
+1349124,2022/23,Tanzania,5,AP Rajeevan,63d6f031,I Ntirenganya,e73f6c4b,AR Patwa,b43f7a6a,0,0,0,0,0,,,,,,4,0,4
+1349124,2022/23,Tanzania,6,AR Patwa,b43f7a6a,K Irakoze,9ccb6e52,AP Rajeevan,63d6f031,0,0,0,0,0,,,,,,6,0,6
+1349124,2022/23,Tanzania,6,AR Patwa,b43f7a6a,K Irakoze,9ccb6e52,AP Rajeevan,63d6f031,0,0,0,0,0,,,,,,0,0,0
+1349124,2022/23,Tanzania,6,AR Patwa,b43f7a6a,K Irakoze,9ccb6e52,AP Rajeevan,63d6f031,0,0,0,0,0,,,,,,1,0,1
+1349124,2022/23,Tanzania,6,AP Rajeevan,63d6f031,K Irakoze,9ccb6e52,AR Patwa,b43f7a6a,0,0,0,0,0,,,,,,1,0,1
+1349124,2022/23,Tanzania,6,AR Patwa,b43f7a6a,K Irakoze,9ccb6e52,AP Rajeevan,63d6f031,0,0,0,0,0,,,,,,1,0,1
+1349124,2022/23,Tanzania,6,AP Rajeevan,63d6f031,K Irakoze,9ccb6e52,AR Patwa,b43f7a6a,0,0,0,0,0,,,,,,1,0,1
+1349124,2022/23,Tanzania,7,AP Rajeevan,63d6f031,C Rububagumya,8088632c,AR Patwa,b43f7a6a,0,0,0,0,0,,,,,,0,0,0
+1349124,2022/23,Tanzania,7,AP Rajeevan,63d6f031,C Rububagumya,8088632c,AR Patwa,b43f7a6a,0,0,0,0,0,,,,,,1,0,1
+1349124,2022/23,Tanzania,7,AR Patwa,b43f7a6a,C Rububagumya,8088632c,AP Rajeevan,63d6f031,0,0,0,0,0,,,,,,1,0,1
+1349124,2022/23,Tanzania,7,AP Rajeevan,63d6f031,C Rububagumya,8088632c,AR Patwa,b43f7a6a,0,0,0,0,0,,,,,,1,0,1
+1349124,2022/23,Tanzania,7,AR Patwa,b43f7a6a,C Rububagumya,8088632c,AP Rajeevan,63d6f031,0,0,0,0,0,,,,,,1,0,1
+1349124,2022/23,Tanzania,7,AP Rajeevan,63d6f031,C Rububagumya,8088632c,AR Patwa,b43f7a6a,0,0,0,0,0,,,,,,4,0,4
+1349124,2022/23,Tanzania,8,AR Patwa,b43f7a6a,K Irakoze,9ccb6e52,AP Rajeevan,63d6f031,0,0,0,0,0,,,,,,0,0,0
+1349124,2022/23,Tanzania,8,AR Patwa,b43f7a6a,K Irakoze,9ccb6e52,AP Rajeevan,63d6f031,0,0,0,0,0,,,,,,6,0,6
+1349124,2022/23,Tanzania,8,AR Patwa,b43f7a6a,K Irakoze,9ccb6e52,AP Rajeevan,63d6f031,0,0,0,0,0,,,,,,0,0,0
+1349124,2022/23,Tanzania,8,AR Patwa,b43f7a6a,K Irakoze,9ccb6e52,AP Rajeevan,63d6f031,0,0,0,0,0,,,,,,1,0,1
+1349124,2022/23,Tanzania,8,AP Rajeevan,63d6f031,K Irakoze,9ccb6e52,AR Patwa,b43f7a6a,0,0,0,0,0,,,,,,1,0,1
+1349124,2022/23,Tanzania,8,AR Patwa,b43f7a6a,K Irakoze,9ccb6e52,AP Rajeevan,63d6f031,0,0,0,0,0,,,,,,2,0,2
+1349124,2022/23,Tanzania,9,AP Rajeevan,63d6f031,E Sebareme,f99a219a,AR Patwa,b43f7a6a,0,0,0,0,0,,,,,,1,0,1
+1349124,2022/23,Tanzania,9,AR Patwa,b43f7a6a,E Sebareme,f99a219a,AP Rajeevan,63d6f031,0,0,0,0,0,,,,,,4,0,4
+1349124,2022/23,Tanzania,9,AR Patwa,b43f7a6a,E Sebareme,f99a219a,AP Rajeevan,63d6f031,0,0,0,0,0,,,,,,6,0,6
+1349124,2022/23,Tanzania,9,AR Patwa,b43f7a6a,E Sebareme,f99a219a,AP Rajeevan,63d6f031,0,0,0,0,0,,,,,,0,0,0
+1349124,2022/23,Tanzania,9,AR Patwa,b43f7a6a,E Sebareme,f99a219a,AP Rajeevan,63d6f031,0,0,0,0,0,,,,,,1,0,1
+1349124,2022/23,Tanzania,9,AP Rajeevan,63d6f031,E Sebareme,f99a219a,AR Patwa,b43f7a6a,0,0,0,0,0,,,,,,1,0,1
+1349124,2022/23,Tanzania,10,AP Rajeevan,63d6f031,V Mitari,3a82673c,AR Patwa,b43f7a6a,0,0,1,0,0,,,,,,0,1,1
+1349124,2022/23,Tanzania,10,AR Patwa,b43f7a6a,V Mitari,3a82673c,AP Rajeevan,63d6f031,0,0,0,0,1,AR Patwa,b43f7a6a,,,bowled,0,0,0
+1349124,2022/23,Tanzania,10,Akhil Anil,c06c25fd,V Mitari,3a82673c,AP Rajeevan,63d6f031,0,0,0,0,0,,,,,,1,0,1
+1349124,2022/23,Tanzania,10,AP Rajeevan,63d6f031,V Mitari,3a82673c,Akhil Anil,c06c25fd,0,0,0,0,0,,,,,,6,0,6
+1349124,2022/23,Tanzania,10,AP Rajeevan,63d6f031,V Mitari,3a82673c,Akhil Anil,c06c25fd,0,0,0,0,0,,,,,,1,0,1
+1349124,2022/23,Tanzania,10,Akhil Anil,c06c25fd,V Mitari,3a82673c,AP Rajeevan,63d6f031,0,0,0,0,1,Akhil Anil,c06c25fd,E Dusingizimana,c15e7ba4,caught,0,0,0
+1349124,2022/23,Tanzania,11,AP Rajeevan,63d6f031,I Ntirenganya,e73f6c4b,S Thakor,0848ac5f,0,0,0,0,0,,,,,,4,0,4
+1349124,2022/23,Tanzania,11,AP Rajeevan,63d6f031,I Ntirenganya,e73f6c4b,S Thakor,0848ac5f,0,0,0,0,0,,,,,,4,0,4
+1349124,2022/23,Tanzania,11,AP Rajeevan,63d6f031,I Ntirenganya,e73f6c4b,S Thakor,0848ac5f,0,0,0,0,0,,,,,,1,0,1
+1349124,2022/23,Tanzania,11,S Thakor,0848ac5f,I Ntirenganya,e73f6c4b,AP Rajeevan,63d6f031,0,0,0,1,0,,,,,,0,1,1
+1349124,2022/23,Tanzania,11,AP Rajeevan,63d6f031,I Ntirenganya,e73f6c4b,S Thakor,0848ac5f,0,0,0,0,0,,,,,,4,0,4
+1349124,2022/23,Tanzania,11,AP Rajeevan,63d6f031,I Ntirenganya,e73f6c4b,S Thakor,0848ac5f,0,0,0,0,0,,,,,,6,0,6
+1349124,2022/23,Tanzania,12,S Thakor,0848ac5f,V Mitari,3a82673c,AP Rajeevan,63d6f031,1,0,0,0,0,,,,,,0,1,1
+1349124,2022/23,Tanzania,12,S Thakor,0848ac5f,V Mitari,3a82673c,AP Rajeevan,63d6f031,0,0,0,0,0,,,,,,1,0,1
+1349124,2022/23,Tanzania,12,AP Rajeevan,63d6f031,V Mitari,3a82673c,S Thakor,0848ac5f,0,0,0,0,0,,,,,,2,0,2
+1349124,2022/23,Tanzania,12,AP Rajeevan,63d6f031,V Mitari,3a82673c,S Thakor,0848ac5f,1,0,0,0,0,,,,,,0,1,1
+1349124,2022/23,Tanzania,12,AP Rajeevan,63d6f031,V Mitari,3a82673c,S Thakor,0848ac5f,0,0,0,0,0,,,,,,1,0,1
+1349124,2022/23,Tanzania,12,S Thakor,0848ac5f,V Mitari,3a82673c,AP Rajeevan,63d6f031,0,0,0,0,0,,,,,,1,0,1
+1349124,2022/23,Tanzania,12,AP Rajeevan,63d6f031,V Mitari,3a82673c,S Thakor,0848ac5f,0,0,0,0,0,,,,,,4,0,4
+1349124,2022/23,Tanzania,12,AP Rajeevan,63d6f031,V Mitari,3a82673c,S Thakor,0848ac5f,0,0,0,0,0,,,,,,6,0,6
+1349124,2022/23,Rwanda,0,O Tuyisenge,e6a6888f,YM Nkanya,9238dd92,E Dusingizimana,c15e7ba4,0,0,0,0,1,O Tuyisenge,e6a6888f,,,lbw,0,0,0
+1349124,2022/23,Rwanda,0,W Niyitanga,e7631adc,YM Nkanya,9238dd92,E Dusingizimana,c15e7ba4,0,0,0,0,0,,,,,,0,0,0
+1349124,2022/23,Rwanda,0,W Niyitanga,e7631adc,YM Nkanya,9238dd92,E Dusingizimana,c15e7ba4,0,0,0,0,0,,,,,,0,0,0
+1349124,2022/23,Rwanda,0,W Niyitanga,e7631adc,YM Nkanya,9238dd92,E Dusingizimana,c15e7ba4,0,0,0,0,0,,,,,,3,0,3
+1349124,2022/23,Rwanda,0,E Dusingizimana,c15e7ba4,YM Nkanya,9238dd92,W Niyitanga,e7631adc,0,0,0,0,0,,,,,,0,0,0
+1349124,2022/23,Rwanda,0,E Dusingizimana,c15e7ba4,YM Nkanya,9238dd92,W Niyitanga,e7631adc,0,0,0,0,0,,,,,,0,0,0
+1349124,2022/23,Rwanda,1,W Niyitanga,e7631adc,Akhil Anil,c06c25fd,E Dusingizimana,c15e7ba4,1,0,0,0,0,,,,,,0,1,1
+1349124,2022/23,Rwanda,1,W Niyitanga,e7631adc,Akhil Anil,c06c25fd,E Dusingizimana,c15e7ba4,0,0,0,0,0,,,,,,1,0,1
+1349124,2022/23,Rwanda,1,E Dusingizimana,c15e7ba4,Akhil Anil,c06c25fd,W Niyitanga,e7631adc,0,0,0,0,0,,,,,,6,0,6
+1349124,2022/23,Rwanda,1,E Dusingizimana,c15e7ba4,Akhil Anil,c06c25fd,W Niyitanga,e7631adc,0,0,0,0,0,,,,,,0,0,0
+1349124,2022/23,Rwanda,1,E Dusingizimana,c15e7ba4,Akhil Anil,c06c25fd,W Niyitanga,e7631adc,0,0,0,0,0,,,,,,0,0,0
+1349124,2022/23,Rwanda,1,E Dusingizimana,c15e7ba4,Akhil Anil,c06c25fd,W Niyitanga,e7631adc,0,0,0,0,0,,,,,,2,0,2
+1349124,2022/23,Rwanda,1,E Dusingizimana,c15e7ba4,Akhil Anil,c06c25fd,W Niyitanga,e7631adc,0,0,0,0,1,E Dusingizimana,c15e7ba4,SA Jumbe,91056862,caught,0,0,0
+1349124,2022/23,Rwanda,2,W Niyitanga,e7631adc,YM Nkanya,9238dd92,C Rububagumya,8088632c,0,0,0,0,0,,,,,,0,0,0
+1349124,2022/23,Rwanda,2,W Niyitanga,e7631adc,YM Nkanya,9238dd92,C Rububagumya,8088632c,0,0,0,0,0,,,,,,1,0,1
+1349124,2022/23,Rwanda,2,C Rububagumya,8088632c,YM Nkanya,9238dd92,W Niyitanga,e7631adc,0,0,0,0,0,,,,,,0,0,0
+1349124,2022/23,Rwanda,2,C Rububagumya,8088632c,YM Nkanya,9238dd92,W Niyitanga,e7631adc,0,0,0,0,0,,,,,,2,0,2
+1349124,2022/23,Rwanda,2,C Rububagumya,8088632c,YM Nkanya,9238dd92,W Niyitanga,e7631adc,0,0,4,0,0,,,,,,0,4,4
+1349124,2022/23,Rwanda,2,C Rububagumya,8088632c,YM Nkanya,9238dd92,W Niyitanga,e7631adc,0,0,0,0,0,,,,,,1,0,1
+1349124,2022/23,Rwanda,3,C Rububagumya,8088632c,Akhil Anil,c06c25fd,W Niyitanga,e7631adc,1,0,0,0,0,,,,,,0,1,1
+1349124,2022/23,Rwanda,3,C Rububagumya,8088632c,Akhil Anil,c06c25fd,W Niyitanga,e7631adc,0,0,0,0,0,,,,,,2,0,2
+1349124,2022/23,Rwanda,3,C Rububagumya,8088632c,Akhil Anil,c06c25fd,W Niyitanga,e7631adc,0,0,0,0,0,,,,,,1,0,1
+1349124,2022/23,Rwanda,3,W Niyitanga,e7631adc,Akhil Anil,c06c25fd,C Rububagumya,8088632c,0,0,0,0,0,,,,,,0,0,0
+1349124,2022/23,Rwanda,3,W Niyitanga,e7631adc,Akhil Anil,c06c25fd,C Rububagumya,8088632c,0,0,0,0,0,,,,,,1,0,1
+1349124,2022/23,Rwanda,3,C Rububagumya,8088632c,Akhil Anil,c06c25fd,W Niyitanga,e7631adc,0,0,0,0,0,,,,,,0,0,0
+1349124,2022/23,Rwanda,3,C Rububagumya,8088632c,Akhil Anil,c06c25fd,W Niyitanga,e7631adc,0,0,0,0,0,,,,,,0,0,0
+1349124,2022/23,Rwanda,4,W Niyitanga,e7631adc,S Thakor,0848ac5f,C Rububagumya,8088632c,0,0,0,0,0,,,,,,0,0,0
+1349124,2022/23,Rwanda,4,W Niyitanga,e7631adc,S Thakor,0848ac5f,C Rububagumya,8088632c,0,0,0,0,0,,,,,,0,0,0
+1349124,2022/23,Rwanda,4,W Niyitanga,e7631adc,S Thakor,0848ac5f,C Rububagumya,8088632c,0,0,0,0,0,,,,,,0,0,0
+1349124,2022/23,Rwanda,4,W Niyitanga,e7631adc,S Thakor,0848ac5f,C Rububagumya,8088632c,0,0,0,0,0,,,,,,1,0,1
+1349124,2022/23,Rwanda,4,C Rububagumya,8088632c,S Thakor,0848ac5f,W Niyitanga,e7631adc,0,0,0,0,0,,,,,,1,0,1
+1349124,2022/23,Rwanda,4,W Niyitanga,e7631adc,S Thakor,0848ac5f,C Rububagumya,8088632c,0,0,0,0,0,,,,,,0,0,0
+1349124,2022/23,Rwanda,5,C Rububagumya,8088632c,SA Jumbe,91056862,W Niyitanga,e7631adc,0,0,0,0,0,,,,,,1,0,1
+1349124,2022/23,Rwanda,5,W Niyitanga,e7631adc,SA Jumbe,91056862,C Rububagumya,8088632c,1,0,0,0,0,,,,,,0,1,1
+1349124,2022/23,Rwanda,5,W Niyitanga,e7631adc,SA Jumbe,91056862,C Rububagumya,8088632c,0,0,0,0,0,,,,,,0,0,0
+1349124,2022/23,Rwanda,5,W Niyitanga,e7631adc,SA Jumbe,91056862,C Rububagumya,8088632c,1,0,0,0,0,,,,,,0,1,1
+1349124,2022/23,Rwanda,5,W Niyitanga,e7631adc,SA Jumbe,91056862,C Rububagumya,8088632c,0,0,0,0,0,,,,,,1,0,1
+1349124,2022/23,Rwanda,5,C Rububagumya,8088632c,SA Jumbe,91056862,W Niyitanga,e7631adc,0,0,0,0,0,,,,,,1,0,1
+1349124,2022/23,Rwanda,5,W Niyitanga,e7631adc,SA Jumbe,91056862,C Rububagumya,8088632c,0,0,0,0,0,,,,,,1,0,1
+1349124,2022/23,Rwanda,5,C Rububagumya,8088632c,SA Jumbe,91056862,W Niyitanga,e7631adc,0,0,0,0,0,,,,,,0,0,0
+1349124,2022/23,Rwanda,6,W Niyitanga,e7631adc,S Thakor,0848ac5f,C Rububagumya,8088632c,0,0,0,0,0,,,,,,1,0,1
+1349124,2022/23,Rwanda,6,C Rububagumya,8088632c,S Thakor,0848ac5f,W Niyitanga,e7631adc,0,0,0,0,0,,,,,,0,0,0
+1349124,2022/23,Rwanda,6,C Rububagumya,8088632c,S Thakor,0848ac5f,W Niyitanga,e7631adc,0,0,0,0,0,,,,,,1,0,1
+1349124,2022/23,Rwanda,6,W Niyitanga,e7631adc,S Thakor,0848ac5f,C Rububagumya,8088632c,0,0,1,0,0,,,,,,0,1,1
+1349124,2022/23,Rwanda,6,C Rububagumya,8088632c,S Thakor,0848ac5f,W Niyitanga,e7631adc,0,0,0,0,0,,,,,,0,0,0
+1349124,2022/23,Rwanda,6,C Rububagumya,8088632c,S Thakor,0848ac5f,W Niyitanga,e7631adc,0,0,0,0,0,,,,,,0,0,0
+1349124,2022/23,Rwanda,7,W Niyitanga,e7631adc,SA Jumbe,91056862,C Rububagumya,8088632c,0,0,0,0,0,,,,,,1,0,1
+1349124,2022/23,Rwanda,7,C Rububagumya,8088632c,SA Jumbe,91056862,W Niyitanga,e7631adc,0,0,0,0,0,,,,,,0,0,0
+1349124,2022/23,Rwanda,7,C Rububagumya,8088632c,SA Jumbe,91056862,W Niyitanga,e7631adc,0,0,0,0,0,,,,,,0,0,0
+1349124,2022/23,Rwanda,7,C Rububagumya,8088632c,SA Jumbe,91056862,W Niyitanga,e7631adc,0,0,0,0,0,,,,,,2,0,2
+1349124,2022/23,Rwanda,7,C Rububagumya,8088632c,SA Jumbe,91056862,W Niyitanga,e7631adc,0,0,0,0,0,,,,,,1,0,1
+1349124,2022/23,Rwanda,7,W Niyitanga,e7631adc,SA Jumbe,91056862,C Rububagumya,8088632c,0,0,0,0,0,,,,,,1,0,1
+1349124,2022/23,Rwanda,8,W Niyitanga,e7631adc,AM Kimote,34e36b65,C Rububagumya,8088632c,0,0,0,0,0,,,,,,0,0,0
+1349124,2022/23,Rwanda,8,W Niyitanga,e7631adc,AM Kimote,34e36b65,C Rububagumya,8088632c,0,0,0,0,0,,,,,,0,0,0
+1349124,2022/23,Rwanda,8,W Niyitanga,e7631adc,AM Kimote,34e36b65,C Rububagumya,8088632c,0,0,0,0,0,,,,,,6,0,6
+1349124,2022/23,Rwanda,8,W Niyitanga,e7631adc,AM Kimote,34e36b65,C Rububagumya,8088632c,1,0,0,0,0,,,,,,0,1,1
+1349124,2022/23,Rwanda,8,W Niyitanga,e7631adc,AM Kimote,34e36b65,C Rububagumya,8088632c,0,0,2,0,0,,,,,,0,2,2
+1349124,2022/23,Rwanda,8,W Niyitanga,e7631adc,AM Kimote,34e36b65,C Rububagumya,8088632c,0,0,0,0,0,,,,,,1,0,1
+1349124,2022/23,Rwanda,8,C Rububagumya,8088632c,AM Kimote,34e36b65,W Niyitanga,e7631adc,0,0,0,0,0,,,,,,0,0,0
+1349124,2022/23,Rwanda,9,W Niyitanga,e7631adc,YM Nkanya,9238dd92,C Rububagumya,8088632c,0,0,0,0,0,,,,,,0,0,0
+1349124,2022/23,Rwanda,9,W Niyitanga,e7631adc,YM Nkanya,9238dd92,C Rububagumya,8088632c,0,0,0,0,0,,,,,,1,0,1
+1349124,2022/23,Rwanda,9,C Rububagumya,8088632c,YM Nkanya,9238dd92,W Niyitanga,e7631adc,0,0,0,0,0,,,,,,0,0,0
+1349124,2022/23,Rwanda,9,C Rububagumya,8088632c,YM Nkanya,9238dd92,W Niyitanga,e7631adc,0,0,0,0,1,C Rububagumya,8088632c,,,lbw,0,0,0
+1349124,2022/23,Rwanda,9,E Niyomugabo,2dcac6ff,YM Nkanya,9238dd92,W Niyitanga,e7631adc,0,0,0,0,0,,,,,,0,0,0
+1349124,2022/23,Rwanda,9,E Niyomugabo,2dcac6ff,YM Nkanya,9238dd92,W Niyitanga,e7631adc,0,0,0,0,0,,,,,,0,0,0
+1349124,2022/23,Rwanda,10,W Niyitanga,e7631adc,M Yunusu Issa,bbab35a3,E Niyomugabo,2dcac6ff,0,0,0,0,0,,,,,,1,0,1
+1349124,2022/23,Rwanda,10,E Niyomugabo,2dcac6ff,M Yunusu Issa,bbab35a3,W Niyitanga,e7631adc,0,0,0,0,1,E Niyomugabo,2dcac6ff,,,caught and bowled,0,0,0
+1349124,2022/23,Rwanda,10,E Sebareme,f99a219a,M Yunusu Issa,bbab35a3,W Niyitanga,e7631adc,0,0,0,0,0,,,,,,0,0,0
+1349124,2022/23,Rwanda,10,E Sebareme,f99a219a,M Yunusu Issa,bbab35a3,W Niyitanga,e7631adc,0,0,0,0,0,,,,,,1,0,1
+1349124,2022/23,Rwanda,10,W Niyitanga,e7631adc,M Yunusu Issa,bbab35a3,E Sebareme,f99a219a,0,0,0,0,0,,,,,,6,0,6
+1349124,2022/23,Rwanda,10,W Niyitanga,e7631adc,M Yunusu Issa,bbab35a3,E Sebareme,f99a219a,0,0,0,0,0,,,,,,1,0,1
+1349124,2022/23,Rwanda,11,W Niyitanga,e7631adc,S Thakor,0848ac5f,E Sebareme,f99a219a,0,0,0,0,0,,,,,,1,0,1
+1349124,2022/23,Rwanda,11,E Sebareme,f99a219a,S Thakor,0848ac5f,W Niyitanga,e7631adc,0,0,0,0,0,,,,,,0,0,0
+1349124,2022/23,Rwanda,11,E Sebareme,f99a219a,S Thakor,0848ac5f,W Niyitanga,e7631adc,0,0,0,0,0,,,,,,1,0,1
+1349124,2022/23,Rwanda,11,W Niyitanga,e7631adc,S Thakor,0848ac5f,E Sebareme,f99a219a,1,0,0,0,0,,,,,,0,1,1
+1349124,2022/23,Rwanda,11,W Niyitanga,e7631adc,S Thakor,0848ac5f,E Sebareme,f99a219a,0,0,0,0,0,,,,,,1,0,1
+1349124,2022/23,Rwanda,11,E Sebareme,f99a219a,S Thakor,0848ac5f,W Niyitanga,e7631adc,0,0,0,0,0,,,,,,0,0,0
+1349124,2022/23,Rwanda,11,E Sebareme,f99a219a,S Thakor,0848ac5f,W Niyitanga,e7631adc,0,0,0,0,0,,,,,,1,0,1
+1349124,2022/23,Rwanda,12,E Sebareme,f99a219a,M Yunusu Issa,bbab35a3,W Niyitanga,e7631adc,0,0,0,0,0,,,,,,0,0,0
+1349124,2022/23,Rwanda,12,E Sebareme,f99a219a,M Yunusu Issa,bbab35a3,W Niyitanga,e7631adc,0,0,0,0,0,,,,,,1,0,1
+1349124,2022/23,Rwanda,12,W Niyitanga,e7631adc,M Yunusu Issa,bbab35a3,E Sebareme,f99a219a,0,0,0,0,0,,,,,,6,0,6
+1349124,2022/23,Rwanda,12,W Niyitanga,e7631adc,M Yunusu Issa,bbab35a3,E Sebareme,f99a219a,0,0,0,0,0,,,,,,1,0,1
+1349124,2022/23,Rwanda,12,E Sebareme,f99a219a,M Yunusu Issa,bbab35a3,W Niyitanga,e7631adc,0,0,0,0,0,,,,,,2,0,2
+1349124,2022/23,Rwanda,12,E Sebareme,f99a219a,M Yunusu Issa,bbab35a3,W Niyitanga,e7631adc,0,0,0,0,0,,,,,,4,0,4

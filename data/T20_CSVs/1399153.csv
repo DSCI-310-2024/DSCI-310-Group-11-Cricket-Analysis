@@ -1,0 +1,232 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1399153,2023/24,Canada,0,A Johnson,a28a7fba,C Wright,d465c6d7,NS Dhaliwal,cbabd6ad,0,0,0,0,0,,,,,,0,0,0
+1399153,2023/24,Canada,0,A Johnson,a28a7fba,C Wright,d465c6d7,NS Dhaliwal,cbabd6ad,0,0,0,0,0,,,,,,4,0,4
+1399153,2023/24,Canada,0,A Johnson,a28a7fba,C Wright,d465c6d7,NS Dhaliwal,cbabd6ad,0,0,0,0,0,,,,,,0,0,0
+1399153,2023/24,Canada,0,A Johnson,a28a7fba,C Wright,d465c6d7,NS Dhaliwal,cbabd6ad,0,0,0,0,0,,,,,,4,0,4
+1399153,2023/24,Canada,0,A Johnson,a28a7fba,C Wright,d465c6d7,NS Dhaliwal,cbabd6ad,0,0,0,0,0,,,,,,1,0,1
+1399153,2023/24,Canada,0,NS Dhaliwal,cbabd6ad,C Wright,d465c6d7,A Johnson,a28a7fba,0,0,0,0,0,,,,,,0,0,0
+1399153,2023/24,Canada,1,A Johnson,a28a7fba,ROC Dunka,762f43b7,NS Dhaliwal,cbabd6ad,0,1,0,0,0,,,,,,4,1,5
+1399153,2023/24,Canada,1,A Johnson,a28a7fba,ROC Dunka,762f43b7,NS Dhaliwal,cbabd6ad,0,0,0,0,0,,,,,,0,0,0
+1399153,2023/24,Canada,1,A Johnson,a28a7fba,ROC Dunka,762f43b7,NS Dhaliwal,cbabd6ad,0,0,0,0,0,,,,,,2,0,2
+1399153,2023/24,Canada,1,A Johnson,a28a7fba,ROC Dunka,762f43b7,NS Dhaliwal,cbabd6ad,0,0,0,0,0,,,,,,2,0,2
+1399153,2023/24,Canada,1,A Johnson,a28a7fba,ROC Dunka,762f43b7,NS Dhaliwal,cbabd6ad,0,0,0,0,0,,,,,,0,0,0
+1399153,2023/24,Canada,1,A Johnson,a28a7fba,ROC Dunka,762f43b7,NS Dhaliwal,cbabd6ad,0,0,0,0,0,,,,,,4,0,4
+1399153,2023/24,Canada,1,A Johnson,a28a7fba,ROC Dunka,762f43b7,NS Dhaliwal,cbabd6ad,0,0,0,0,0,,,,,,0,0,0
+1399153,2023/24,Canada,2,NS Dhaliwal,cbabd6ad,AF Ifill,0e6c2f00,A Johnson,a28a7fba,0,0,0,0,0,,,,,,0,0,0
+1399153,2023/24,Canada,2,NS Dhaliwal,cbabd6ad,AF Ifill,0e6c2f00,A Johnson,a28a7fba,0,0,0,0,0,,,,,,4,0,4
+1399153,2023/24,Canada,2,NS Dhaliwal,cbabd6ad,AF Ifill,0e6c2f00,A Johnson,a28a7fba,0,0,0,0,0,,,,,,1,0,1
+1399153,2023/24,Canada,2,A Johnson,a28a7fba,AF Ifill,0e6c2f00,NS Dhaliwal,cbabd6ad,0,0,0,0,0,,,,,,6,0,6
+1399153,2023/24,Canada,2,A Johnson,a28a7fba,AF Ifill,0e6c2f00,NS Dhaliwal,cbabd6ad,0,0,0,0,0,,,,,,2,0,2
+1399153,2023/24,Canada,2,A Johnson,a28a7fba,AF Ifill,0e6c2f00,NS Dhaliwal,cbabd6ad,0,0,0,0,0,,,,,,4,0,4
+1399153,2023/24,Canada,3,NS Dhaliwal,cbabd6ad,A Morris,04cf2e94,A Johnson,a28a7fba,0,0,0,0,0,,,,,,0,0,0
+1399153,2023/24,Canada,3,NS Dhaliwal,cbabd6ad,A Morris,04cf2e94,A Johnson,a28a7fba,0,0,0,0,0,,,,,,0,0,0
+1399153,2023/24,Canada,3,NS Dhaliwal,cbabd6ad,A Morris,04cf2e94,A Johnson,a28a7fba,0,0,0,0,0,,,,,,1,0,1
+1399153,2023/24,Canada,3,A Johnson,a28a7fba,A Morris,04cf2e94,NS Dhaliwal,cbabd6ad,0,0,0,0,0,,,,,,4,0,4
+1399153,2023/24,Canada,3,A Johnson,a28a7fba,A Morris,04cf2e94,NS Dhaliwal,cbabd6ad,0,0,0,0,0,,,,,,6,0,6
+1399153,2023/24,Canada,3,A Johnson,a28a7fba,A Morris,04cf2e94,NS Dhaliwal,cbabd6ad,0,0,0,0,0,,,,,,4,0,4
+1399153,2023/24,Canada,4,NS Dhaliwal,cbabd6ad,C Wright,d465c6d7,A Johnson,a28a7fba,0,0,0,0,0,,,,,,4,0,4
+1399153,2023/24,Canada,4,NS Dhaliwal,cbabd6ad,C Wright,d465c6d7,A Johnson,a28a7fba,0,0,0,0,0,,,,,,1,0,1
+1399153,2023/24,Canada,4,A Johnson,a28a7fba,C Wright,d465c6d7,NS Dhaliwal,cbabd6ad,0,0,0,0,1,A Johnson,a28a7fba,RA Sealy,1e98804a,caught,0,0,0
+1399153,2023/24,Canada,4,Pargat Singh,d2e67105,C Wright,d465c6d7,NS Dhaliwal,cbabd6ad,0,0,0,0,1,Pargat Singh,d2e67105,,,lbw,0,0,0
+1399153,2023/24,Canada,4,H Thaker,c01d7726,C Wright,d465c6d7,NS Dhaliwal,cbabd6ad,0,0,0,0,0,,,,,,0,0,0
+1399153,2023/24,Canada,4,H Thaker,c01d7726,C Wright,d465c6d7,NS Dhaliwal,cbabd6ad,0,0,0,0,0,,,,,,0,0,0
+1399153,2023/24,Canada,5,NS Dhaliwal,cbabd6ad,A Morris,04cf2e94,H Thaker,c01d7726,0,0,0,0,1,NS Dhaliwal,cbabd6ad,,,bowled,0,0,0
+1399153,2023/24,Canada,5,NR Kirton,6b75c2b1,A Morris,04cf2e94,H Thaker,c01d7726,0,0,0,0,0,,,,,,1,0,1
+1399153,2023/24,Canada,5,H Thaker,c01d7726,A Morris,04cf2e94,NR Kirton,6b75c2b1,0,0,0,0,0,,,,,,0,0,0
+1399153,2023/24,Canada,5,H Thaker,c01d7726,A Morris,04cf2e94,NR Kirton,6b75c2b1,0,0,0,0,0,,,,,,1,0,1
+1399153,2023/24,Canada,5,NR Kirton,6b75c2b1,A Morris,04cf2e94,H Thaker,c01d7726,0,0,0,0,0,,,,,,0,0,0
+1399153,2023/24,Canada,5,NR Kirton,6b75c2b1,A Morris,04cf2e94,H Thaker,c01d7726,0,0,0,0,0,,,,,,1,0,1
+1399153,2023/24,Canada,6,NR Kirton,6b75c2b1,AF Ifill,0e6c2f00,H Thaker,c01d7726,0,0,0,0,0,,,,,,0,0,0
+1399153,2023/24,Canada,6,NR Kirton,6b75c2b1,AF Ifill,0e6c2f00,H Thaker,c01d7726,0,0,0,0,0,,,,,,0,0,0
+1399153,2023/24,Canada,6,NR Kirton,6b75c2b1,AF Ifill,0e6c2f00,H Thaker,c01d7726,0,0,0,0,0,,,,,,1,0,1
+1399153,2023/24,Canada,6,H Thaker,c01d7726,AF Ifill,0e6c2f00,NR Kirton,6b75c2b1,0,0,0,0,0,,,,,,1,0,1
+1399153,2023/24,Canada,6,NR Kirton,6b75c2b1,AF Ifill,0e6c2f00,H Thaker,c01d7726,0,0,0,0,0,,,,,,1,0,1
+1399153,2023/24,Canada,6,H Thaker,c01d7726,AF Ifill,0e6c2f00,NR Kirton,6b75c2b1,0,0,0,0,0,,,,,,0,0,0
+1399153,2023/24,Canada,7,NR Kirton,6b75c2b1,KA Bazil,d22287a8,H Thaker,c01d7726,0,0,0,0,0,,,,,,2,0,2
+1399153,2023/24,Canada,7,NR Kirton,6b75c2b1,KA Bazil,d22287a8,H Thaker,c01d7726,0,0,0,0,0,,,,,,0,0,0
+1399153,2023/24,Canada,7,NR Kirton,6b75c2b1,KA Bazil,d22287a8,H Thaker,c01d7726,0,0,0,0,0,,,,,,0,0,0
+1399153,2023/24,Canada,7,NR Kirton,6b75c2b1,KA Bazil,d22287a8,H Thaker,c01d7726,0,0,0,0,0,,,,,,2,0,2
+1399153,2023/24,Canada,7,NR Kirton,6b75c2b1,KA Bazil,d22287a8,H Thaker,c01d7726,0,0,0,0,0,,,,,,0,0,0
+1399153,2023/24,Canada,7,NR Kirton,6b75c2b1,KA Bazil,d22287a8,H Thaker,c01d7726,0,0,0,0,0,,,,,,1,0,1
+1399153,2023/24,Canada,8,NR Kirton,6b75c2b1,P Manning,f06b5585,H Thaker,c01d7726,0,0,0,0,0,,,,,,1,0,1
+1399153,2023/24,Canada,8,H Thaker,c01d7726,P Manning,f06b5585,NR Kirton,6b75c2b1,0,0,0,0,0,,,,,,0,0,0
+1399153,2023/24,Canada,8,H Thaker,c01d7726,P Manning,f06b5585,NR Kirton,6b75c2b1,0,0,0,0,0,,,,,,1,0,1
+1399153,2023/24,Canada,8,NR Kirton,6b75c2b1,P Manning,f06b5585,H Thaker,c01d7726,0,1,0,0,0,,,,,,0,1,1
+1399153,2023/24,Canada,8,NR Kirton,6b75c2b1,P Manning,f06b5585,H Thaker,c01d7726,0,0,0,0,0,,,,,,0,0,0
+1399153,2023/24,Canada,8,NR Kirton,6b75c2b1,P Manning,f06b5585,H Thaker,c01d7726,0,0,0,0,0,,,,,,1,0,1
+1399153,2023/24,Canada,8,H Thaker,c01d7726,P Manning,f06b5585,NR Kirton,6b75c2b1,0,0,0,0,0,,,,,,1,0,1
+1399153,2023/24,Canada,9,H Thaker,c01d7726,KA Bazil,d22287a8,NR Kirton,6b75c2b1,0,0,0,0,0,,,,,,2,0,2
+1399153,2023/24,Canada,9,H Thaker,c01d7726,KA Bazil,d22287a8,NR Kirton,6b75c2b1,0,0,0,0,0,,,,,,2,0,2
+1399153,2023/24,Canada,9,H Thaker,c01d7726,KA Bazil,d22287a8,NR Kirton,6b75c2b1,0,0,0,0,0,,,,,,1,0,1
+1399153,2023/24,Canada,9,NR Kirton,6b75c2b1,KA Bazil,d22287a8,H Thaker,c01d7726,0,0,0,0,0,,,,,,1,0,1
+1399153,2023/24,Canada,9,H Thaker,c01d7726,KA Bazil,d22287a8,NR Kirton,6b75c2b1,0,0,0,0,0,,,,,,4,0,4
+1399153,2023/24,Canada,9,H Thaker,c01d7726,KA Bazil,d22287a8,NR Kirton,6b75c2b1,0,0,0,0,0,,,,,,1,0,1
+1399153,2023/24,Canada,10,H Thaker,c01d7726,AF Ifill,0e6c2f00,NR Kirton,6b75c2b1,0,0,0,0,0,,,,,,1,0,1
+1399153,2023/24,Canada,10,NR Kirton,6b75c2b1,AF Ifill,0e6c2f00,H Thaker,c01d7726,0,0,0,0,0,,,,,,1,0,1
+1399153,2023/24,Canada,10,H Thaker,c01d7726,AF Ifill,0e6c2f00,NR Kirton,6b75c2b1,0,0,0,0,0,,,,,,1,0,1
+1399153,2023/24,Canada,10,NR Kirton,6b75c2b1,AF Ifill,0e6c2f00,H Thaker,c01d7726,0,0,0,0,0,,,,,,0,0,0
+1399153,2023/24,Canada,10,NR Kirton,6b75c2b1,AF Ifill,0e6c2f00,H Thaker,c01d7726,0,0,0,0,0,,,,,,1,0,1
+1399153,2023/24,Canada,10,H Thaker,c01d7726,AF Ifill,0e6c2f00,NR Kirton,6b75c2b1,0,0,0,0,0,,,,,,0,0,0
+1399153,2023/24,Canada,11,NR Kirton,6b75c2b1,ROC Dunka,762f43b7,H Thaker,c01d7726,0,0,0,0,0,,,,,,0,0,0
+1399153,2023/24,Canada,11,NR Kirton,6b75c2b1,ROC Dunka,762f43b7,H Thaker,c01d7726,0,0,0,0,0,,,,,,1,0,1
+1399153,2023/24,Canada,11,H Thaker,c01d7726,ROC Dunka,762f43b7,NR Kirton,6b75c2b1,0,0,0,0,0,,,,,,0,0,0
+1399153,2023/24,Canada,11,H Thaker,c01d7726,ROC Dunka,762f43b7,NR Kirton,6b75c2b1,0,0,0,0,0,,,,,,0,0,0
+1399153,2023/24,Canada,11,H Thaker,c01d7726,ROC Dunka,762f43b7,NR Kirton,6b75c2b1,1,0,0,0,0,,,,,,0,1,1
+1399153,2023/24,Canada,11,H Thaker,c01d7726,ROC Dunka,762f43b7,NR Kirton,6b75c2b1,0,0,0,0,0,,,,,,0,0,0
+1399153,2023/24,Canada,11,H Thaker,c01d7726,ROC Dunka,762f43b7,NR Kirton,6b75c2b1,0,0,0,0,0,,,,,,0,0,0
+1399153,2023/24,Canada,12,NR Kirton,6b75c2b1,A Morris,04cf2e94,H Thaker,c01d7726,0,0,0,0,0,,,,,,1,0,1
+1399153,2023/24,Canada,12,H Thaker,c01d7726,A Morris,04cf2e94,NR Kirton,6b75c2b1,0,0,0,0,0,,,,,,4,0,4
+1399153,2023/24,Canada,12,H Thaker,c01d7726,A Morris,04cf2e94,NR Kirton,6b75c2b1,0,0,0,0,0,,,,,,2,0,2
+1399153,2023/24,Canada,12,H Thaker,c01d7726,A Morris,04cf2e94,NR Kirton,6b75c2b1,0,0,0,0,0,,,,,,6,0,6
+1399153,2023/24,Canada,12,H Thaker,c01d7726,A Morris,04cf2e94,NR Kirton,6b75c2b1,0,0,0,0,0,,,,,,0,0,0
+1399153,2023/24,Canada,12,H Thaker,c01d7726,A Morris,04cf2e94,NR Kirton,6b75c2b1,0,0,0,0,0,,,,,,0,0,0
+1399153,2023/24,Canada,13,NR Kirton,6b75c2b1,KA Bazil,d22287a8,H Thaker,c01d7726,0,0,0,0,0,,,,,,1,0,1
+1399153,2023/24,Canada,13,H Thaker,c01d7726,KA Bazil,d22287a8,NR Kirton,6b75c2b1,0,0,0,0,0,,,,,,2,0,2
+1399153,2023/24,Canada,13,H Thaker,c01d7726,KA Bazil,d22287a8,NR Kirton,6b75c2b1,0,0,0,0,0,,,,,,1,0,1
+1399153,2023/24,Canada,13,NR Kirton,6b75c2b1,KA Bazil,d22287a8,H Thaker,c01d7726,0,0,0,0,0,,,,,,2,0,2
+1399153,2023/24,Canada,13,NR Kirton,6b75c2b1,KA Bazil,d22287a8,H Thaker,c01d7726,0,0,0,0,0,,,,,,2,0,2
+1399153,2023/24,Canada,13,NR Kirton,6b75c2b1,KA Bazil,d22287a8,H Thaker,c01d7726,0,0,0,0,0,,,,,,1,0,1
+1399153,2023/24,Canada,14,NR Kirton,6b75c2b1,C Wright,d465c6d7,H Thaker,c01d7726,0,0,0,0,0,,,,,,1,0,1
+1399153,2023/24,Canada,14,H Thaker,c01d7726,C Wright,d465c6d7,NR Kirton,6b75c2b1,0,0,0,0,0,,,,,,1,0,1
+1399153,2023/24,Canada,14,NR Kirton,6b75c2b1,C Wright,d465c6d7,H Thaker,c01d7726,0,0,0,0,0,,,,,,1,0,1
+1399153,2023/24,Canada,14,H Thaker,c01d7726,C Wright,d465c6d7,NR Kirton,6b75c2b1,0,0,0,0,0,,,,,,1,0,1
+1399153,2023/24,Canada,14,NR Kirton,6b75c2b1,C Wright,d465c6d7,H Thaker,c01d7726,0,0,0,0,0,,,,,,1,0,1
+1399153,2023/24,Canada,14,H Thaker,c01d7726,C Wright,d465c6d7,NR Kirton,6b75c2b1,0,0,0,0,0,,,,,,1,0,1
+1399153,2023/24,Canada,15,H Thaker,c01d7726,AF Ifill,0e6c2f00,NR Kirton,6b75c2b1,0,0,0,0,0,,,,,,6,0,6
+1399153,2023/24,Canada,15,H Thaker,c01d7726,AF Ifill,0e6c2f00,NR Kirton,6b75c2b1,0,0,0,0,0,,,,,,1,0,1
+1399153,2023/24,Canada,15,NR Kirton,6b75c2b1,AF Ifill,0e6c2f00,H Thaker,c01d7726,0,0,0,0,0,,,,,,6,0,6
+1399153,2023/24,Canada,15,NR Kirton,6b75c2b1,AF Ifill,0e6c2f00,H Thaker,c01d7726,0,0,0,0,1,NR Kirton,6b75c2b1,P Chin,21267b60,caught,0,0,0
+1399153,2023/24,Canada,15,N Dutta,e258a603,AF Ifill,0e6c2f00,H Thaker,c01d7726,0,0,0,0,0,,,,,,0,0,0
+1399153,2023/24,Canada,15,N Dutta,e258a603,AF Ifill,0e6c2f00,H Thaker,c01d7726,0,0,0,0,0,,,,,,1,0,1
+1399153,2023/24,Canada,16,N Dutta,e258a603,A Morris,04cf2e94,H Thaker,c01d7726,0,0,0,0,0,,,,,,3,0,3
+1399153,2023/24,Canada,16,H Thaker,c01d7726,A Morris,04cf2e94,N Dutta,e258a603,0,0,0,0,0,,,,,,6,0,6
+1399153,2023/24,Canada,16,H Thaker,c01d7726,A Morris,04cf2e94,N Dutta,e258a603,0,0,0,0,1,H Thaker,c01d7726,AF Ifill,0e6c2f00,caught,0,0,0
+1399153,2023/24,Canada,16,Saad Bin Zafar,f28a60e0,A Morris,04cf2e94,N Dutta,e258a603,0,0,0,0,0,,,,,,4,0,4
+1399153,2023/24,Canada,16,Saad Bin Zafar,f28a60e0,A Morris,04cf2e94,N Dutta,e258a603,0,0,0,0,0,,,,,,1,0,1
+1399153,2023/24,Canada,16,N Dutta,e258a603,A Morris,04cf2e94,Saad Bin Zafar,f28a60e0,0,0,0,0,1,N Dutta,e258a603,KA Bazil,d22287a8,caught,0,0,0
+1399153,2023/24,Canada,17,Saad Bin Zafar,f28a60e0,ROC Dunka,762f43b7,D Heyliger,f8c72766,0,0,0,0,0,,,,,,1,0,1
+1399153,2023/24,Canada,17,D Heyliger,f8c72766,ROC Dunka,762f43b7,Saad Bin Zafar,f28a60e0,0,0,0,0,0,,,,,,4,0,4
+1399153,2023/24,Canada,17,D Heyliger,f8c72766,ROC Dunka,762f43b7,Saad Bin Zafar,f28a60e0,0,0,0,0,0,,,,,,6,0,6
+1399153,2023/24,Canada,17,D Heyliger,f8c72766,ROC Dunka,762f43b7,Saad Bin Zafar,f28a60e0,0,0,0,0,0,,,,,,1,0,1
+1399153,2023/24,Canada,17,Saad Bin Zafar,f28a60e0,ROC Dunka,762f43b7,D Heyliger,f8c72766,0,0,0,0,0,,,,,,2,0,2
+1399153,2023/24,Canada,17,Saad Bin Zafar,f28a60e0,ROC Dunka,762f43b7,D Heyliger,f8c72766,1,0,0,0,0,,,,,,0,1,1
+1399153,2023/24,Canada,17,Saad Bin Zafar,f28a60e0,ROC Dunka,762f43b7,D Heyliger,f8c72766,0,0,0,0,0,,,,,,2,0,2
+1399153,2023/24,Canada,18,D Heyliger,f8c72766,C Wright,d465c6d7,Saad Bin Zafar,f28a60e0,0,0,0,0,0,,,,,,1,0,1
+1399153,2023/24,Canada,18,Saad Bin Zafar,f28a60e0,C Wright,d465c6d7,D Heyliger,f8c72766,0,0,0,0,0,,,,,,2,0,2
+1399153,2023/24,Canada,18,Saad Bin Zafar,f28a60e0,C Wright,d465c6d7,D Heyliger,f8c72766,0,0,0,0,0,,,,,,2,0,2
+1399153,2023/24,Canada,18,Saad Bin Zafar,f28a60e0,C Wright,d465c6d7,D Heyliger,f8c72766,0,0,0,0,0,,,,,,1,0,1
+1399153,2023/24,Canada,18,D Heyliger,f8c72766,C Wright,d465c6d7,Saad Bin Zafar,f28a60e0,0,0,0,0,0,,,,,,0,0,0
+1399153,2023/24,Canada,18,D Heyliger,f8c72766,C Wright,d465c6d7,Saad Bin Zafar,f28a60e0,0,0,0,0,0,,,,,,1,0,1
+1399153,2023/24,Canada,19,D Heyliger,f8c72766,KA Bazil,d22287a8,Saad Bin Zafar,f28a60e0,0,0,0,0,0,,,,,,1,0,1
+1399153,2023/24,Canada,19,Saad Bin Zafar,f28a60e0,KA Bazil,d22287a8,D Heyliger,f8c72766,0,0,0,0,0,,,,,,6,0,6
+1399153,2023/24,Canada,19,Saad Bin Zafar,f28a60e0,KA Bazil,d22287a8,D Heyliger,f8c72766,0,0,0,1,0,,,,,,0,1,1
+1399153,2023/24,Canada,19,D Heyliger,f8c72766,KA Bazil,d22287a8,Saad Bin Zafar,f28a60e0,0,0,0,0,0,,,,,,4,0,4
+1399153,2023/24,Canada,19,D Heyliger,f8c72766,KA Bazil,d22287a8,Saad Bin Zafar,f28a60e0,0,0,0,0,0,,,,,,6,0,6
+1399153,2023/24,Canada,19,D Heyliger,f8c72766,KA Bazil,d22287a8,Saad Bin Zafar,f28a60e0,0,0,0,0,0,,,,,,4,0,4
+1399153,2023/24,Cayman Islands,0,RA Sealy,1e98804a,Kaleem Sana,14810ee7,P Heron,30b902a3,0,0,0,0,0,,,,,,0,0,0
+1399153,2023/24,Cayman Islands,0,RA Sealy,1e98804a,Kaleem Sana,14810ee7,P Heron,30b902a3,0,0,0,0,0,,,,,,0,0,0
+1399153,2023/24,Cayman Islands,0,RA Sealy,1e98804a,Kaleem Sana,14810ee7,P Heron,30b902a3,0,1,0,0,0,,,,,,0,1,1
+1399153,2023/24,Cayman Islands,0,RA Sealy,1e98804a,Kaleem Sana,14810ee7,P Heron,30b902a3,0,0,0,0,0,,,,,,4,0,4
+1399153,2023/24,Cayman Islands,0,RA Sealy,1e98804a,Kaleem Sana,14810ee7,P Heron,30b902a3,0,0,0,0,0,,,,,,0,0,0
+1399153,2023/24,Cayman Islands,0,RA Sealy,1e98804a,Kaleem Sana,14810ee7,P Heron,30b902a3,0,0,0,0,0,,,,,,0,0,0
+1399153,2023/24,Cayman Islands,0,RA Sealy,1e98804a,Kaleem Sana,14810ee7,P Heron,30b902a3,0,0,0,0,0,,,,,,1,0,1
+1399153,2023/24,Cayman Islands,1,RA Sealy,1e98804a,JOA Gordon,bb9b51f4,P Heron,30b902a3,0,0,0,0,0,,,,,,0,0,0
+1399153,2023/24,Cayman Islands,1,RA Sealy,1e98804a,JOA Gordon,bb9b51f4,P Heron,30b902a3,0,0,0,0,0,,,,,,1,0,1
+1399153,2023/24,Cayman Islands,1,P Heron,30b902a3,JOA Gordon,bb9b51f4,RA Sealy,1e98804a,0,0,0,0,0,,,,,,4,0,4
+1399153,2023/24,Cayman Islands,1,P Heron,30b902a3,JOA Gordon,bb9b51f4,RA Sealy,1e98804a,0,0,0,0,0,,,,,,1,0,1
+1399153,2023/24,Cayman Islands,1,RA Sealy,1e98804a,JOA Gordon,bb9b51f4,P Heron,30b902a3,0,1,0,0,0,,,,,,1,1,2
+1399153,2023/24,Cayman Islands,1,P Heron,30b902a3,JOA Gordon,bb9b51f4,RA Sealy,1e98804a,1,0,0,0,0,,,,,,0,1,1
+1399153,2023/24,Cayman Islands,1,P Heron,30b902a3,JOA Gordon,bb9b51f4,RA Sealy,1e98804a,0,0,0,0,0,,,,,,6,0,6
+1399153,2023/24,Cayman Islands,1,P Heron,30b902a3,JOA Gordon,bb9b51f4,RA Sealy,1e98804a,0,0,0,0,0,,,,,,0,0,0
+1399153,2023/24,Cayman Islands,2,RA Sealy,1e98804a,Kaleem Sana,14810ee7,P Heron,30b902a3,0,0,0,0,1,RA Sealy,1e98804a,,,bowled,0,0,0
+1399153,2023/24,Cayman Islands,2,P Manning,f06b5585,Kaleem Sana,14810ee7,P Heron,30b902a3,0,0,0,0,0,,,,,,0,0,0
+1399153,2023/24,Cayman Islands,2,P Manning,f06b5585,Kaleem Sana,14810ee7,P Heron,30b902a3,0,0,0,0,0,,,,,,0,0,0
+1399153,2023/24,Cayman Islands,2,P Manning,f06b5585,Kaleem Sana,14810ee7,P Heron,30b902a3,0,0,0,0,0,,,,,,0,0,0
+1399153,2023/24,Cayman Islands,2,P Manning,f06b5585,Kaleem Sana,14810ee7,P Heron,30b902a3,0,0,0,0,0,,,,,,0,0,0
+1399153,2023/24,Cayman Islands,2,P Manning,f06b5585,Kaleem Sana,14810ee7,P Heron,30b902a3,0,0,0,0,0,,,,,,0,0,0
+1399153,2023/24,Cayman Islands,3,P Heron,30b902a3,JOA Gordon,bb9b51f4,P Manning,f06b5585,0,0,0,0,0,,,,,,0,0,0
+1399153,2023/24,Cayman Islands,3,P Heron,30b902a3,JOA Gordon,bb9b51f4,P Manning,f06b5585,0,0,0,0,0,,,,,,4,0,4
+1399153,2023/24,Cayman Islands,3,P Heron,30b902a3,JOA Gordon,bb9b51f4,P Manning,f06b5585,0,0,0,0,0,,,,,,1,0,1
+1399153,2023/24,Cayman Islands,3,P Manning,f06b5585,JOA Gordon,bb9b51f4,P Heron,30b902a3,0,0,0,0,0,,,,,,0,0,0
+1399153,2023/24,Cayman Islands,3,P Manning,f06b5585,JOA Gordon,bb9b51f4,P Heron,30b902a3,0,0,0,0,0,,,,,,0,0,0
+1399153,2023/24,Cayman Islands,3,P Manning,f06b5585,JOA Gordon,bb9b51f4,P Heron,30b902a3,0,0,0,0,0,,,,,,0,0,0
+1399153,2023/24,Cayman Islands,4,P Heron,30b902a3,H Thaker,c01d7726,P Manning,f06b5585,0,0,0,0,0,,,,,,0,0,0
+1399153,2023/24,Cayman Islands,4,P Heron,30b902a3,H Thaker,c01d7726,P Manning,f06b5585,0,0,0,0,0,,,,,,1,0,1
+1399153,2023/24,Cayman Islands,4,P Manning,f06b5585,H Thaker,c01d7726,P Heron,30b902a3,0,0,0,0,0,,,,,,0,0,0
+1399153,2023/24,Cayman Islands,4,P Manning,f06b5585,H Thaker,c01d7726,P Heron,30b902a3,0,0,0,0,1,P Manning,f06b5585,,,bowled,0,0,0
+1399153,2023/24,Cayman Islands,4,AR Naidoo,68886c16,H Thaker,c01d7726,P Heron,30b902a3,0,0,0,0,0,,,,,,0,0,0
+1399153,2023/24,Cayman Islands,4,AR Naidoo,68886c16,H Thaker,c01d7726,P Heron,30b902a3,0,0,0,0,1,AR Naidoo,68886c16,,,bowled,0,0,0
+1399153,2023/24,Cayman Islands,5,P Heron,30b902a3,D Heyliger,f8c72766,BKB Corbin,036b8660,0,0,0,0,0,,,,,,2,0,2
+1399153,2023/24,Cayman Islands,5,P Heron,30b902a3,D Heyliger,f8c72766,BKB Corbin,036b8660,0,0,0,0,0,,,,,,0,0,0
+1399153,2023/24,Cayman Islands,5,P Heron,30b902a3,D Heyliger,f8c72766,BKB Corbin,036b8660,0,0,0,0,0,,,,,,0,0,0
+1399153,2023/24,Cayman Islands,5,P Heron,30b902a3,D Heyliger,f8c72766,BKB Corbin,036b8660,0,0,0,0,0,,,,,,0,0,0
+1399153,2023/24,Cayman Islands,5,P Heron,30b902a3,D Heyliger,f8c72766,BKB Corbin,036b8660,0,0,0,0,0,,,,,,0,0,0
+1399153,2023/24,Cayman Islands,5,P Heron,30b902a3,D Heyliger,f8c72766,BKB Corbin,036b8660,0,0,0,0,0,,,,,,1,0,1
+1399153,2023/24,Cayman Islands,6,P Heron,30b902a3,H Thaker,c01d7726,BKB Corbin,036b8660,0,0,0,0,0,,,,,,0,0,0
+1399153,2023/24,Cayman Islands,6,P Heron,30b902a3,H Thaker,c01d7726,BKB Corbin,036b8660,0,0,0,0,0,,,,,,0,0,0
+1399153,2023/24,Cayman Islands,6,P Heron,30b902a3,H Thaker,c01d7726,BKB Corbin,036b8660,0,0,0,0,0,,,,,,1,0,1
+1399153,2023/24,Cayman Islands,6,BKB Corbin,036b8660,H Thaker,c01d7726,P Heron,30b902a3,0,0,0,0,0,,,,,,6,0,6
+1399153,2023/24,Cayman Islands,6,BKB Corbin,036b8660,H Thaker,c01d7726,P Heron,30b902a3,0,0,0,0,0,,,,,,6,0,6
+1399153,2023/24,Cayman Islands,6,BKB Corbin,036b8660,H Thaker,c01d7726,P Heron,30b902a3,0,0,0,0,0,,,,,,0,0,0
+1399153,2023/24,Cayman Islands,7,P Heron,30b902a3,D Heyliger,f8c72766,BKB Corbin,036b8660,0,0,0,0,0,,,,,,1,0,1
+1399153,2023/24,Cayman Islands,7,BKB Corbin,036b8660,D Heyliger,f8c72766,P Heron,30b902a3,0,0,0,0,0,,,,,,4,0,4
+1399153,2023/24,Cayman Islands,7,BKB Corbin,036b8660,D Heyliger,f8c72766,P Heron,30b902a3,0,0,0,0,0,,,,,,0,0,0
+1399153,2023/24,Cayman Islands,7,BKB Corbin,036b8660,D Heyliger,f8c72766,P Heron,30b902a3,0,0,0,0,0,,,,,,4,0,4
+1399153,2023/24,Cayman Islands,7,BKB Corbin,036b8660,D Heyliger,f8c72766,P Heron,30b902a3,0,0,0,0,0,,,,,,0,0,0
+1399153,2023/24,Cayman Islands,7,BKB Corbin,036b8660,D Heyliger,f8c72766,P Heron,30b902a3,0,0,0,0,0,,,,,,4,0,4
+1399153,2023/24,Cayman Islands,8,P Heron,30b902a3,Saad Bin Zafar,f28a60e0,BKB Corbin,036b8660,0,0,0,0,0,,,,,,1,0,1
+1399153,2023/24,Cayman Islands,8,BKB Corbin,036b8660,Saad Bin Zafar,f28a60e0,P Heron,30b902a3,0,0,0,0,0,,,,,,4,0,4
+1399153,2023/24,Cayman Islands,8,BKB Corbin,036b8660,Saad Bin Zafar,f28a60e0,P Heron,30b902a3,0,0,0,0,0,,,,,,0,0,0
+1399153,2023/24,Cayman Islands,8,BKB Corbin,036b8660,Saad Bin Zafar,f28a60e0,P Heron,30b902a3,0,0,0,0,0,,,,,,6,0,6
+1399153,2023/24,Cayman Islands,8,BKB Corbin,036b8660,Saad Bin Zafar,f28a60e0,P Heron,30b902a3,0,0,0,0,0,,,,,,0,0,0
+1399153,2023/24,Cayman Islands,8,BKB Corbin,036b8660,Saad Bin Zafar,f28a60e0,P Heron,30b902a3,0,0,0,0,0,,,,,,0,0,0
+1399153,2023/24,Cayman Islands,9,P Heron,30b902a3,N Dutta,e258a603,BKB Corbin,036b8660,0,0,0,0,0,,,,,,0,0,0
+1399153,2023/24,Cayman Islands,9,P Heron,30b902a3,N Dutta,e258a603,BKB Corbin,036b8660,0,0,0,0,0,,,,,,1,0,1
+1399153,2023/24,Cayman Islands,9,BKB Corbin,036b8660,N Dutta,e258a603,P Heron,30b902a3,0,0,1,0,0,,,,,,0,1,1
+1399153,2023/24,Cayman Islands,9,P Heron,30b902a3,N Dutta,e258a603,BKB Corbin,036b8660,0,0,0,0,0,,,,,,0,0,0
+1399153,2023/24,Cayman Islands,9,P Heron,30b902a3,N Dutta,e258a603,BKB Corbin,036b8660,0,0,0,0,0,,,,,,1,0,1
+1399153,2023/24,Cayman Islands,9,BKB Corbin,036b8660,N Dutta,e258a603,P Heron,30b902a3,0,0,0,0,0,,,,,,0,0,0
+1399153,2023/24,Cayman Islands,10,P Heron,30b902a3,Saad Bin Zafar,f28a60e0,BKB Corbin,036b8660,0,0,0,0,0,,,,,,1,0,1
+1399153,2023/24,Cayman Islands,10,BKB Corbin,036b8660,Saad Bin Zafar,f28a60e0,P Heron,30b902a3,0,0,0,0,1,BKB Corbin,036b8660,H Thaker,c01d7726,caught,0,0,0
+1399153,2023/24,Cayman Islands,10,AF Ifill,0e6c2f00,Saad Bin Zafar,f28a60e0,P Heron,30b902a3,0,0,0,0,0,,,,,,1,0,1
+1399153,2023/24,Cayman Islands,10,P Heron,30b902a3,Saad Bin Zafar,f28a60e0,AF Ifill,0e6c2f00,0,0,0,0,0,,,,,,0,0,0
+1399153,2023/24,Cayman Islands,10,P Heron,30b902a3,Saad Bin Zafar,f28a60e0,AF Ifill,0e6c2f00,0,0,0,0,0,,,,,,0,0,0
+1399153,2023/24,Cayman Islands,10,P Heron,30b902a3,Saad Bin Zafar,f28a60e0,AF Ifill,0e6c2f00,0,0,0,0,0,,,,,,0,0,0
+1399153,2023/24,Cayman Islands,11,AF Ifill,0e6c2f00,N Dutta,e258a603,P Heron,30b902a3,0,0,0,0,0,,,,,,1,0,1
+1399153,2023/24,Cayman Islands,11,P Heron,30b902a3,N Dutta,e258a603,AF Ifill,0e6c2f00,0,0,0,0,1,P Heron,30b902a3,H Thaker,c01d7726,caught,0,0,0
+1399153,2023/24,Cayman Islands,11,ROC Dunka,762f43b7,N Dutta,e258a603,AF Ifill,0e6c2f00,0,0,0,0,0,,,,,,0,0,0
+1399153,2023/24,Cayman Islands,11,ROC Dunka,762f43b7,N Dutta,e258a603,AF Ifill,0e6c2f00,0,0,0,0,0,,,,,,2,0,2
+1399153,2023/24,Cayman Islands,11,ROC Dunka,762f43b7,N Dutta,e258a603,AF Ifill,0e6c2f00,0,0,0,0,0,,,,,,1,0,1
+1399153,2023/24,Cayman Islands,11,AF Ifill,0e6c2f00,N Dutta,e258a603,ROC Dunka,762f43b7,0,0,0,0,0,,,,,,0,0,0
+1399153,2023/24,Cayman Islands,12,ROC Dunka,762f43b7,Saad Bin Zafar,f28a60e0,AF Ifill,0e6c2f00,0,0,0,0,0,,,,,,1,0,1
+1399153,2023/24,Cayman Islands,12,AF Ifill,0e6c2f00,Saad Bin Zafar,f28a60e0,ROC Dunka,762f43b7,0,0,0,0,0,,,,,,0,0,0
+1399153,2023/24,Cayman Islands,12,AF Ifill,0e6c2f00,Saad Bin Zafar,f28a60e0,ROC Dunka,762f43b7,0,0,0,0,0,,,,,,0,0,0
+1399153,2023/24,Cayman Islands,12,AF Ifill,0e6c2f00,Saad Bin Zafar,f28a60e0,ROC Dunka,762f43b7,0,0,0,0,0,,,,,,0,0,0
+1399153,2023/24,Cayman Islands,12,AF Ifill,0e6c2f00,Saad Bin Zafar,f28a60e0,ROC Dunka,762f43b7,0,0,0,0,0,,,,,,0,0,0
+1399153,2023/24,Cayman Islands,12,AF Ifill,0e6c2f00,Saad Bin Zafar,f28a60e0,ROC Dunka,762f43b7,0,0,0,0,0,,,,,,2,0,2
+1399153,2023/24,Cayman Islands,13,ROC Dunka,762f43b7,N Dutta,e258a603,AF Ifill,0e6c2f00,0,0,0,0,0,,,,,,0,0,0
+1399153,2023/24,Cayman Islands,13,ROC Dunka,762f43b7,N Dutta,e258a603,AF Ifill,0e6c2f00,1,0,0,0,0,,,,,,0,1,1
+1399153,2023/24,Cayman Islands,13,ROC Dunka,762f43b7,N Dutta,e258a603,AF Ifill,0e6c2f00,0,0,0,0,1,ROC Dunka,762f43b7,NR Kirton,6b75c2b1,caught,0,0,0
+1399153,2023/24,Cayman Islands,13,P Chin,21267b60,N Dutta,e258a603,AF Ifill,0e6c2f00,0,0,0,0,0,,,,,,2,0,2
+1399153,2023/24,Cayman Islands,13,P Chin,21267b60,N Dutta,e258a603,AF Ifill,0e6c2f00,0,0,0,0,0,,,,,,0,0,0
+1399153,2023/24,Cayman Islands,13,P Chin,21267b60,N Dutta,e258a603,AF Ifill,0e6c2f00,0,0,0,0,0,,,,,,0,0,0
+1399153,2023/24,Cayman Islands,13,P Chin,21267b60,N Dutta,e258a603,AF Ifill,0e6c2f00,0,0,0,0,0,,,,,,1,0,1
+1399153,2023/24,Cayman Islands,14,P Chin,21267b60,Saad Bin Zafar,f28a60e0,AF Ifill,0e6c2f00,0,0,0,0,0,,,,,,0,0,0
+1399153,2023/24,Cayman Islands,14,P Chin,21267b60,Saad Bin Zafar,f28a60e0,AF Ifill,0e6c2f00,0,0,0,0,0,,,,,,0,0,0
+1399153,2023/24,Cayman Islands,14,P Chin,21267b60,Saad Bin Zafar,f28a60e0,AF Ifill,0e6c2f00,0,0,0,0,0,,,,,,0,0,0
+1399153,2023/24,Cayman Islands,14,P Chin,21267b60,Saad Bin Zafar,f28a60e0,AF Ifill,0e6c2f00,0,0,0,0,0,,,,,,0,0,0
+1399153,2023/24,Cayman Islands,14,P Chin,21267b60,Saad Bin Zafar,f28a60e0,AF Ifill,0e6c2f00,0,0,0,0,0,,,,,,0,0,0
+1399153,2023/24,Cayman Islands,14,P Chin,21267b60,Saad Bin Zafar,f28a60e0,AF Ifill,0e6c2f00,0,0,0,0,0,,,,,,1,0,1
+1399153,2023/24,Cayman Islands,15,P Chin,21267b60,N Dutta,e258a603,AF Ifill,0e6c2f00,0,0,0,0,0,,,,,,0,0,0
+1399153,2023/24,Cayman Islands,15,P Chin,21267b60,N Dutta,e258a603,AF Ifill,0e6c2f00,0,0,0,0,0,,,,,,1,0,1
+1399153,2023/24,Cayman Islands,15,AF Ifill,0e6c2f00,N Dutta,e258a603,P Chin,21267b60,0,0,0,0,0,,,,,,0,0,0
+1399153,2023/24,Cayman Islands,15,AF Ifill,0e6c2f00,N Dutta,e258a603,P Chin,21267b60,0,0,0,0,1,AF Ifill,0e6c2f00,,,lbw,0,0,0
+1399153,2023/24,Cayman Islands,15,C Wright,d465c6d7,N Dutta,e258a603,P Chin,21267b60,0,0,0,0,1,C Wright,d465c6d7,,,bowled,0,0,0
+1399153,2023/24,Cayman Islands,15,KA Bazil,d22287a8,N Dutta,e258a603,P Chin,21267b60,0,0,0,0,0,,,,,,1,0,1
+1399153,2023/24,Cayman Islands,16,KA Bazil,d22287a8,Kaleem Sana,14810ee7,P Chin,21267b60,0,0,0,0,0,,,,,,0,0,0
+1399153,2023/24,Cayman Islands,16,KA Bazil,d22287a8,Kaleem Sana,14810ee7,P Chin,21267b60,0,0,0,0,1,KA Bazil,d22287a8,,,bowled,0,0,0
+1399153,2023/24,Cayman Islands,16,A Morris,04cf2e94,Kaleem Sana,14810ee7,P Chin,21267b60,0,0,0,0,0,,,,,,0,0,0
+1399153,2023/24,Cayman Islands,16,A Morris,04cf2e94,Kaleem Sana,14810ee7,P Chin,21267b60,0,0,0,0,0,,,,,,0,0,0
+1399153,2023/24,Cayman Islands,16,A Morris,04cf2e94,Kaleem Sana,14810ee7,P Chin,21267b60,0,0,0,0,0,,,,,,0,0,0
+1399153,2023/24,Cayman Islands,16,A Morris,04cf2e94,Kaleem Sana,14810ee7,P Chin,21267b60,0,0,0,0,0,,,,,,0,0,0
+1399153,2023/24,Cayman Islands,17,P Chin,21267b60,H Thaker,c01d7726,A Morris,04cf2e94,0,0,0,0,1,P Chin,21267b60,N Dutta,e258a603,caught,0,0,0

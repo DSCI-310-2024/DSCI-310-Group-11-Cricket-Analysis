@@ -1,0 +1,250 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+966745,2015/16,India,0,RG Sharma,740742ef,Taskin Ahmed,ef18b66e,S Dhawan,0a476045,0,0,0,0,0,,,,,,0,0,0
+966745,2015/16,India,0,RG Sharma,740742ef,Taskin Ahmed,ef18b66e,S Dhawan,0a476045,0,0,0,0,0,,,,,,1,0,1
+966745,2015/16,India,0,S Dhawan,0a476045,Taskin Ahmed,ef18b66e,RG Sharma,740742ef,0,0,1,0,0,,,,,,0,1,1
+966745,2015/16,India,0,RG Sharma,740742ef,Taskin Ahmed,ef18b66e,S Dhawan,0a476045,0,0,0,0,0,,,,,,0,0,0
+966745,2015/16,India,0,RG Sharma,740742ef,Taskin Ahmed,ef18b66e,S Dhawan,0a476045,0,0,0,0,0,,,,,,0,0,0
+966745,2015/16,India,0,RG Sharma,740742ef,Taskin Ahmed,ef18b66e,S Dhawan,0a476045,0,0,0,0,0,,,,,,0,0,0
+966745,2015/16,India,1,S Dhawan,0a476045,Al-Amin Hossain,3f5f39cd,RG Sharma,740742ef,0,0,0,0,0,,,,,,2,0,2
+966745,2015/16,India,1,S Dhawan,0a476045,Al-Amin Hossain,3f5f39cd,RG Sharma,740742ef,0,0,0,0,0,,,,,,0,0,0
+966745,2015/16,India,1,S Dhawan,0a476045,Al-Amin Hossain,3f5f39cd,RG Sharma,740742ef,0,0,0,0,1,S Dhawan,0a476045,,,bowled,0,0,0
+966745,2015/16,India,1,V Kohli,ba607b88,Al-Amin Hossain,3f5f39cd,RG Sharma,740742ef,0,0,0,0,0,,,,,,1,0,1
+966745,2015/16,India,1,RG Sharma,740742ef,Al-Amin Hossain,3f5f39cd,V Kohli,ba607b88,0,0,0,0,0,,,,,,0,0,0
+966745,2015/16,India,1,RG Sharma,740742ef,Al-Amin Hossain,3f5f39cd,V Kohli,ba607b88,0,0,0,0,0,,,,,,4,0,4
+966745,2015/16,India,2,V Kohli,ba607b88,Taskin Ahmed,ef18b66e,RG Sharma,740742ef,0,0,0,0,0,,,,,,0,0,0
+966745,2015/16,India,2,V Kohli,ba607b88,Taskin Ahmed,ef18b66e,RG Sharma,740742ef,0,0,0,0,0,,,,,,0,0,0
+966745,2015/16,India,2,V Kohli,ba607b88,Taskin Ahmed,ef18b66e,RG Sharma,740742ef,0,0,0,0,0,,,,,,4,0,4
+966745,2015/16,India,2,V Kohli,ba607b88,Taskin Ahmed,ef18b66e,RG Sharma,740742ef,0,0,1,0,0,,,,,,0,1,1
+966745,2015/16,India,2,RG Sharma,740742ef,Taskin Ahmed,ef18b66e,V Kohli,ba607b88,0,0,0,0,0,,,,,,0,0,0
+966745,2015/16,India,2,RG Sharma,740742ef,Taskin Ahmed,ef18b66e,V Kohli,ba607b88,0,0,0,0,0,,,,,,2,0,2
+966745,2015/16,India,3,V Kohli,ba607b88,Mustafizur Rahman,0a8fce53,RG Sharma,740742ef,1,0,0,0,0,,,,,,0,1,1
+966745,2015/16,India,3,V Kohli,ba607b88,Mustafizur Rahman,0a8fce53,RG Sharma,740742ef,0,0,0,0,0,,,,,,0,0,0
+966745,2015/16,India,3,V Kohli,ba607b88,Mustafizur Rahman,0a8fce53,RG Sharma,740742ef,0,0,0,0,0,,,,,,0,0,0
+966745,2015/16,India,3,V Kohli,ba607b88,Mustafizur Rahman,0a8fce53,RG Sharma,740742ef,0,0,0,0,0,,,,,,0,0,0
+966745,2015/16,India,3,V Kohli,ba607b88,Mustafizur Rahman,0a8fce53,RG Sharma,740742ef,0,0,0,0,0,,,,,,2,0,2
+966745,2015/16,India,3,V Kohli,ba607b88,Mustafizur Rahman,0a8fce53,RG Sharma,740742ef,0,0,0,0,0,,,,,,0,0,0
+966745,2015/16,India,3,V Kohli,ba607b88,Mustafizur Rahman,0a8fce53,RG Sharma,740742ef,0,0,0,0,0,,,,,,0,0,0
+966745,2015/16,India,4,RG Sharma,740742ef,Mashrafe Mortaza,e186f49c,V Kohli,ba607b88,0,0,0,0,0,,,,,,2,0,2
+966745,2015/16,India,4,RG Sharma,740742ef,Mashrafe Mortaza,e186f49c,V Kohli,ba607b88,0,0,0,0,0,,,,,,1,0,1
+966745,2015/16,India,4,V Kohli,ba607b88,Mashrafe Mortaza,e186f49c,RG Sharma,740742ef,0,0,0,0,1,V Kohli,ba607b88,Mahmudullah,bf1d7d3e,caught,0,0,0
+966745,2015/16,India,4,SK Raina,1dc12ab9,Mashrafe Mortaza,e186f49c,RG Sharma,740742ef,0,0,0,0,0,,,,,,0,0,0
+966745,2015/16,India,4,SK Raina,1dc12ab9,Mashrafe Mortaza,e186f49c,RG Sharma,740742ef,0,0,0,0,0,,,,,,0,0,0
+966745,2015/16,India,4,SK Raina,1dc12ab9,Mashrafe Mortaza,e186f49c,RG Sharma,740742ef,0,0,0,0,0,,,,,,1,0,1
+966745,2015/16,India,5,SK Raina,1dc12ab9,Al-Amin Hossain,3f5f39cd,RG Sharma,740742ef,0,0,0,0,0,,,,,,0,0,0
+966745,2015/16,India,5,SK Raina,1dc12ab9,Al-Amin Hossain,3f5f39cd,RG Sharma,740742ef,0,0,0,0,0,,,,,,4,0,4
+966745,2015/16,India,5,SK Raina,1dc12ab9,Al-Amin Hossain,3f5f39cd,RG Sharma,740742ef,0,0,0,0,0,,,,,,0,0,0
+966745,2015/16,India,5,SK Raina,1dc12ab9,Al-Amin Hossain,3f5f39cd,RG Sharma,740742ef,0,0,0,0,0,,,,,,0,0,0
+966745,2015/16,India,5,SK Raina,1dc12ab9,Al-Amin Hossain,3f5f39cd,RG Sharma,740742ef,0,0,0,0,0,,,,,,4,0,4
+966745,2015/16,India,5,SK Raina,1dc12ab9,Al-Amin Hossain,3f5f39cd,RG Sharma,740742ef,0,0,0,0,0,,,,,,0,0,0
+966745,2015/16,India,6,RG Sharma,740742ef,Mashrafe Mortaza,e186f49c,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,0,0,0
+966745,2015/16,India,6,RG Sharma,740742ef,Mashrafe Mortaza,e186f49c,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,2,0,2
+966745,2015/16,India,6,RG Sharma,740742ef,Mashrafe Mortaza,e186f49c,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,1,0,1
+966745,2015/16,India,6,SK Raina,1dc12ab9,Mashrafe Mortaza,e186f49c,RG Sharma,740742ef,1,0,0,0,0,,,,,,0,1,1
+966745,2015/16,India,6,SK Raina,1dc12ab9,Mashrafe Mortaza,e186f49c,RG Sharma,740742ef,0,0,0,0,0,,,,,,2,0,2
+966745,2015/16,India,6,SK Raina,1dc12ab9,Mashrafe Mortaza,e186f49c,RG Sharma,740742ef,0,0,0,0,0,,,,,,1,0,1
+966745,2015/16,India,6,RG Sharma,740742ef,Mashrafe Mortaza,e186f49c,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,1,0,1
+966745,2015/16,India,7,RG Sharma,740742ef,Mahmudullah,bf1d7d3e,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,0,0,0
+966745,2015/16,India,7,RG Sharma,740742ef,Mahmudullah,bf1d7d3e,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,1,0,1
+966745,2015/16,India,7,SK Raina,1dc12ab9,Mahmudullah,bf1d7d3e,RG Sharma,740742ef,0,0,0,0,0,,,,,,1,0,1
+966745,2015/16,India,7,RG Sharma,740742ef,Mahmudullah,bf1d7d3e,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,1,0,1
+966745,2015/16,India,7,SK Raina,1dc12ab9,Mahmudullah,bf1d7d3e,RG Sharma,740742ef,0,0,0,0,1,SK Raina,1dc12ab9,,,bowled,0,0,0
+966745,2015/16,India,7,Yuvraj Singh,1c914163,Mahmudullah,bf1d7d3e,RG Sharma,740742ef,0,0,0,0,0,,,,,,1,0,1
+966745,2015/16,India,8,Yuvraj Singh,1c914163,Shakib Al Hasan,7dc35884,RG Sharma,740742ef,0,0,0,0,0,,,,,,1,0,1
+966745,2015/16,India,8,RG Sharma,740742ef,Shakib Al Hasan,7dc35884,Yuvraj Singh,1c914163,0,0,0,0,0,,,,,,0,0,0
+966745,2015/16,India,8,RG Sharma,740742ef,Shakib Al Hasan,7dc35884,Yuvraj Singh,1c914163,0,0,0,0,0,,,,,,0,0,0
+966745,2015/16,India,8,RG Sharma,740742ef,Shakib Al Hasan,7dc35884,Yuvraj Singh,1c914163,0,0,0,0,0,,,,,,1,0,1
+966745,2015/16,India,8,Yuvraj Singh,1c914163,Shakib Al Hasan,7dc35884,RG Sharma,740742ef,0,0,0,0,0,,,,,,1,0,1
+966745,2015/16,India,8,RG Sharma,740742ef,Shakib Al Hasan,7dc35884,Yuvraj Singh,1c914163,0,0,0,0,0,,,,,,1,0,1
+966745,2015/16,India,9,RG Sharma,740742ef,Mahmudullah,bf1d7d3e,Yuvraj Singh,1c914163,0,0,0,0,0,,,,,,1,0,1
+966745,2015/16,India,9,Yuvraj Singh,1c914163,Mahmudullah,bf1d7d3e,RG Sharma,740742ef,0,0,0,0,0,,,,,,0,0,0
+966745,2015/16,India,9,Yuvraj Singh,1c914163,Mahmudullah,bf1d7d3e,RG Sharma,740742ef,0,0,0,0,0,,,,,,1,0,1
+966745,2015/16,India,9,RG Sharma,740742ef,Mahmudullah,bf1d7d3e,Yuvraj Singh,1c914163,0,0,0,0,0,,,,,,1,0,1
+966745,2015/16,India,9,Yuvraj Singh,1c914163,Mahmudullah,bf1d7d3e,RG Sharma,740742ef,0,0,0,0,0,,,,,,1,0,1
+966745,2015/16,India,9,RG Sharma,740742ef,Mahmudullah,bf1d7d3e,Yuvraj Singh,1c914163,0,0,0,0,0,,,,,,1,0,1
+966745,2015/16,India,10,RG Sharma,740742ef,Taskin Ahmed,ef18b66e,Yuvraj Singh,1c914163,0,0,0,0,0,,,,,,0,0,0
+966745,2015/16,India,10,RG Sharma,740742ef,Taskin Ahmed,ef18b66e,Yuvraj Singh,1c914163,0,0,0,0,0,,,,,,0,0,0
+966745,2015/16,India,10,RG Sharma,740742ef,Taskin Ahmed,ef18b66e,Yuvraj Singh,1c914163,0,0,0,0,0,,,,,,0,0,0
+966745,2015/16,India,10,RG Sharma,740742ef,Taskin Ahmed,ef18b66e,Yuvraj Singh,1c914163,0,0,0,0,0,,,,,,4,0,4
+966745,2015/16,India,10,RG Sharma,740742ef,Taskin Ahmed,ef18b66e,Yuvraj Singh,1c914163,0,0,0,0,0,,,,,,6,0,6
+966745,2015/16,India,10,RG Sharma,740742ef,Taskin Ahmed,ef18b66e,Yuvraj Singh,1c914163,0,0,0,0,0,,,,,,4,0,4
+966745,2015/16,India,11,Yuvraj Singh,1c914163,Mashrafe Mortaza,e186f49c,RG Sharma,740742ef,0,0,0,0,0,,,,,,1,0,1
+966745,2015/16,India,11,RG Sharma,740742ef,Mashrafe Mortaza,e186f49c,Yuvraj Singh,1c914163,0,0,0,0,0,,,,,,2,0,2
+966745,2015/16,India,11,RG Sharma,740742ef,Mashrafe Mortaza,e186f49c,Yuvraj Singh,1c914163,0,0,0,0,0,,,,,,4,0,4
+966745,2015/16,India,11,RG Sharma,740742ef,Mashrafe Mortaza,e186f49c,Yuvraj Singh,1c914163,0,0,0,0,0,,,,,,1,0,1
+966745,2015/16,India,11,Yuvraj Singh,1c914163,Mashrafe Mortaza,e186f49c,RG Sharma,740742ef,0,0,0,0,0,,,,,,1,0,1
+966745,2015/16,India,11,RG Sharma,740742ef,Mashrafe Mortaza,e186f49c,Yuvraj Singh,1c914163,0,0,0,0,0,,,,,,1,0,1
+966745,2015/16,India,12,RG Sharma,740742ef,Shakib Al Hasan,7dc35884,Yuvraj Singh,1c914163,0,0,0,0,0,,,,,,1,0,1
+966745,2015/16,India,12,Yuvraj Singh,1c914163,Shakib Al Hasan,7dc35884,RG Sharma,740742ef,0,0,1,0,0,,,,,,0,1,1
+966745,2015/16,India,12,RG Sharma,740742ef,Shakib Al Hasan,7dc35884,Yuvraj Singh,1c914163,0,0,0,0,0,,,,,,1,0,1
+966745,2015/16,India,12,Yuvraj Singh,1c914163,Shakib Al Hasan,7dc35884,RG Sharma,740742ef,0,0,0,0,0,,,,,,0,0,0
+966745,2015/16,India,12,Yuvraj Singh,1c914163,Shakib Al Hasan,7dc35884,RG Sharma,740742ef,0,0,0,0,0,,,,,,1,0,1
+966745,2015/16,India,12,RG Sharma,740742ef,Shakib Al Hasan,7dc35884,Yuvraj Singh,1c914163,0,0,0,0,0,,,,,,1,0,1
+966745,2015/16,India,13,RG Sharma,740742ef,Mustafizur Rahman,0a8fce53,Yuvraj Singh,1c914163,0,0,0,0,0,,,,,,1,0,1
+966745,2015/16,India,13,Yuvraj Singh,1c914163,Mustafizur Rahman,0a8fce53,RG Sharma,740742ef,0,0,0,0,0,,,,,,4,0,4
+966745,2015/16,India,13,Yuvraj Singh,1c914163,Mustafizur Rahman,0a8fce53,RG Sharma,740742ef,0,0,0,0,0,,,,,,1,0,1
+966745,2015/16,India,13,RG Sharma,740742ef,Mustafizur Rahman,0a8fce53,Yuvraj Singh,1c914163,0,0,0,0,0,,,,,,1,0,1
+966745,2015/16,India,13,Yuvraj Singh,1c914163,Mustafizur Rahman,0a8fce53,RG Sharma,740742ef,0,0,0,0,0,,,,,,1,0,1
+966745,2015/16,India,13,RG Sharma,740742ef,Mustafizur Rahman,0a8fce53,Yuvraj Singh,1c914163,0,0,0,0,0,,,,,,1,0,1
+966745,2015/16,India,14,RG Sharma,740742ef,Shakib Al Hasan,7dc35884,Yuvraj Singh,1c914163,0,0,0,0,0,,,,,,1,0,1
+966745,2015/16,India,14,Yuvraj Singh,1c914163,Shakib Al Hasan,7dc35884,RG Sharma,740742ef,0,0,0,0,0,,,,,,1,0,1
+966745,2015/16,India,14,RG Sharma,740742ef,Shakib Al Hasan,7dc35884,Yuvraj Singh,1c914163,0,0,0,0,0,,,,,,4,0,4
+966745,2015/16,India,14,RG Sharma,740742ef,Shakib Al Hasan,7dc35884,Yuvraj Singh,1c914163,0,0,0,0,0,,,,,,1,0,1
+966745,2015/16,India,14,Yuvraj Singh,1c914163,Shakib Al Hasan,7dc35884,RG Sharma,740742ef,0,0,0,0,1,Yuvraj Singh,1c914163,Soumya Sarkar,4d9f9686,caught,0,0,0
+966745,2015/16,India,14,HH Pandya,dbe50b21,Shakib Al Hasan,7dc35884,RG Sharma,740742ef,0,0,0,0,0,,,,,,0,0,0
+966745,2015/16,India,15,RG Sharma,740742ef,Mashrafe Mortaza,e186f49c,HH Pandya,dbe50b21,0,0,0,0,0,,,,,,1,0,1
+966745,2015/16,India,15,HH Pandya,dbe50b21,Mashrafe Mortaza,e186f49c,RG Sharma,740742ef,0,0,0,0,0,,,,,,1,0,1
+966745,2015/16,India,15,RG Sharma,740742ef,Mashrafe Mortaza,e186f49c,HH Pandya,dbe50b21,0,0,0,0,0,,,,,,2,0,2
+966745,2015/16,India,15,RG Sharma,740742ef,Mashrafe Mortaza,e186f49c,HH Pandya,dbe50b21,0,0,0,0,0,,,,,,6,0,6
+966745,2015/16,India,15,RG Sharma,740742ef,Mashrafe Mortaza,e186f49c,HH Pandya,dbe50b21,0,0,0,0,0,,,,,,4,0,4
+966745,2015/16,India,15,RG Sharma,740742ef,Mashrafe Mortaza,e186f49c,HH Pandya,dbe50b21,0,0,0,0,0,,,,,,4,0,4
+966745,2015/16,India,16,HH Pandya,dbe50b21,Mustafizur Rahman,0a8fce53,RG Sharma,740742ef,0,0,0,0,0,,,,,,4,0,4
+966745,2015/16,India,16,HH Pandya,dbe50b21,Mustafizur Rahman,0a8fce53,RG Sharma,740742ef,0,0,0,0,0,,,,,,1,0,1
+966745,2015/16,India,16,RG Sharma,740742ef,Mustafizur Rahman,0a8fce53,HH Pandya,dbe50b21,0,0,0,0,0,,,,,,6,0,6
+966745,2015/16,India,16,RG Sharma,740742ef,Mustafizur Rahman,0a8fce53,HH Pandya,dbe50b21,0,0,0,0,0,,,,,,1,0,1
+966745,2015/16,India,16,HH Pandya,dbe50b21,Mustafizur Rahman,0a8fce53,RG Sharma,740742ef,0,0,0,0,0,,,,,,2,0,2
+966745,2015/16,India,16,HH Pandya,dbe50b21,Mustafizur Rahman,0a8fce53,RG Sharma,740742ef,1,0,0,0,0,,,,,,0,1,1
+966745,2015/16,India,16,HH Pandya,dbe50b21,Mustafizur Rahman,0a8fce53,RG Sharma,740742ef,0,0,0,0,0,,,,,,6,0,6
+966745,2015/16,India,17,RG Sharma,740742ef,Al-Amin Hossain,3f5f39cd,HH Pandya,dbe50b21,0,0,0,0,0,,,,,,2,0,2
+966745,2015/16,India,17,RG Sharma,740742ef,Al-Amin Hossain,3f5f39cd,HH Pandya,dbe50b21,0,0,0,0,0,,,,,,1,0,1
+966745,2015/16,India,17,HH Pandya,dbe50b21,Al-Amin Hossain,3f5f39cd,RG Sharma,740742ef,0,0,0,0,0,,,,,,4,0,4
+966745,2015/16,India,17,HH Pandya,dbe50b21,Al-Amin Hossain,3f5f39cd,RG Sharma,740742ef,0,0,0,0,0,,,,,,4,0,4
+966745,2015/16,India,17,HH Pandya,dbe50b21,Al-Amin Hossain,3f5f39cd,RG Sharma,740742ef,0,0,0,0,0,,,,,,0,0,0
+966745,2015/16,India,17,HH Pandya,dbe50b21,Al-Amin Hossain,3f5f39cd,RG Sharma,740742ef,0,0,0,0,0,,,,,,2,0,2
+966745,2015/16,India,18,RG Sharma,740742ef,Mustafizur Rahman,0a8fce53,HH Pandya,dbe50b21,0,0,0,0,0,,,,,,1,0,1
+966745,2015/16,India,18,HH Pandya,dbe50b21,Mustafizur Rahman,0a8fce53,RG Sharma,740742ef,0,0,0,0,0,,,,,,4,0,4
+966745,2015/16,India,18,HH Pandya,dbe50b21,Mustafizur Rahman,0a8fce53,RG Sharma,740742ef,0,0,0,0,0,,,,,,0,0,0
+966745,2015/16,India,18,HH Pandya,dbe50b21,Mustafizur Rahman,0a8fce53,RG Sharma,740742ef,0,0,0,0,0,,,,,,0,0,0
+966745,2015/16,India,18,HH Pandya,dbe50b21,Mustafizur Rahman,0a8fce53,RG Sharma,740742ef,0,0,0,0,0,,,,,,2,0,2
+966745,2015/16,India,18,HH Pandya,dbe50b21,Mustafizur Rahman,0a8fce53,RG Sharma,740742ef,0,0,0,1,0,,,,,,0,1,1
+966745,2015/16,India,19,HH Pandya,dbe50b21,Al-Amin Hossain,3f5f39cd,RG Sharma,740742ef,0,0,0,0,0,,,,,,1,0,1
+966745,2015/16,India,19,RG Sharma,740742ef,Al-Amin Hossain,3f5f39cd,HH Pandya,dbe50b21,0,0,0,0,1,RG Sharma,740742ef,Soumya Sarkar,4d9f9686,caught,0,0,0
+966745,2015/16,India,19,HH Pandya,dbe50b21,Al-Amin Hossain,3f5f39cd,MS Dhoni,4a8a2e3b,0,0,0,0,0,,,,,,0,0,0
+966745,2015/16,India,19,HH Pandya,dbe50b21,Al-Amin Hossain,3f5f39cd,MS Dhoni,4a8a2e3b,0,0,0,0,1,HH Pandya,dbe50b21,Mahmudullah,bf1d7d3e,caught,0,0,0
+966745,2015/16,India,19,MS Dhoni,4a8a2e3b,Al-Amin Hossain,3f5f39cd,RA Jadeja,fe93fd9d,0,0,0,0,0,,,,,,2,0,2
+966745,2015/16,India,19,MS Dhoni,4a8a2e3b,Al-Amin Hossain,3f5f39cd,RA Jadeja,fe93fd9d,0,0,0,0,0,,,,,,6,0,6
+966745,2015/16,Bangladesh,0,Soumya Sarkar,4d9f9686,A Nehra,96fd40ae,Mohammad Mithun,77191792,0,0,0,0,0,,,,,,0,0,0
+966745,2015/16,Bangladesh,0,Soumya Sarkar,4d9f9686,A Nehra,96fd40ae,Mohammad Mithun,77191792,0,0,0,0,0,,,,,,0,0,0
+966745,2015/16,Bangladesh,0,Soumya Sarkar,4d9f9686,A Nehra,96fd40ae,Mohammad Mithun,77191792,0,0,0,0,0,,,,,,0,0,0
+966745,2015/16,Bangladesh,0,Soumya Sarkar,4d9f9686,A Nehra,96fd40ae,Mohammad Mithun,77191792,0,0,0,0,0,,,,,,0,0,0
+966745,2015/16,Bangladesh,0,Soumya Sarkar,4d9f9686,A Nehra,96fd40ae,Mohammad Mithun,77191792,0,0,0,0,0,,,,,,0,0,0
+966745,2015/16,Bangladesh,0,Soumya Sarkar,4d9f9686,A Nehra,96fd40ae,Mohammad Mithun,77191792,0,0,0,0,0,,,,,,3,0,3
+966745,2015/16,Bangladesh,1,Soumya Sarkar,4d9f9686,JJ Bumrah,462411b3,Mohammad Mithun,77191792,0,0,0,0,0,,,,,,4,0,4
+966745,2015/16,Bangladesh,1,Soumya Sarkar,4d9f9686,JJ Bumrah,462411b3,Mohammad Mithun,77191792,0,0,0,0,0,,,,,,1,0,1
+966745,2015/16,Bangladesh,1,Mohammad Mithun,77191792,JJ Bumrah,462411b3,Soumya Sarkar,4d9f9686,0,0,0,0,0,,,,,,1,0,1
+966745,2015/16,Bangladesh,1,Soumya Sarkar,4d9f9686,JJ Bumrah,462411b3,Mohammad Mithun,77191792,0,0,0,0,0,,,,,,0,0,0
+966745,2015/16,Bangladesh,1,Soumya Sarkar,4d9f9686,JJ Bumrah,462411b3,Mohammad Mithun,77191792,0,0,0,0,0,,,,,,0,0,0
+966745,2015/16,Bangladesh,1,Soumya Sarkar,4d9f9686,JJ Bumrah,462411b3,Mohammad Mithun,77191792,0,0,0,0,0,,,,,,0,0,0
+966745,2015/16,Bangladesh,2,Mohammad Mithun,77191792,A Nehra,96fd40ae,Soumya Sarkar,4d9f9686,0,0,0,0,0,,,,,,0,0,0
+966745,2015/16,Bangladesh,2,Mohammad Mithun,77191792,A Nehra,96fd40ae,Soumya Sarkar,4d9f9686,0,0,0,0,1,Mohammad Mithun,77191792,,,bowled,0,0,0
+966745,2015/16,Bangladesh,2,Sabbir Rahman,7147f314,A Nehra,96fd40ae,Soumya Sarkar,4d9f9686,0,0,0,0,0,,,,,,0,0,0
+966745,2015/16,Bangladesh,2,Sabbir Rahman,7147f314,A Nehra,96fd40ae,Soumya Sarkar,4d9f9686,0,0,0,0,0,,,,,,1,0,1
+966745,2015/16,Bangladesh,2,Soumya Sarkar,4d9f9686,A Nehra,96fd40ae,Sabbir Rahman,7147f314,0,0,0,0,0,,,,,,3,0,3
+966745,2015/16,Bangladesh,2,Sabbir Rahman,7147f314,A Nehra,96fd40ae,Soumya Sarkar,4d9f9686,0,0,0,0,0,,,,,,2,0,2
+966745,2015/16,Bangladesh,3,Soumya Sarkar,4d9f9686,JJ Bumrah,462411b3,Sabbir Rahman,7147f314,0,0,0,0,0,,,,,,0,0,0
+966745,2015/16,Bangladesh,3,Soumya Sarkar,4d9f9686,JJ Bumrah,462411b3,Sabbir Rahman,7147f314,0,0,0,0,1,Soumya Sarkar,4d9f9686,MS Dhoni,4a8a2e3b,caught,0,0,0
+966745,2015/16,Bangladesh,3,Imrul Kayes,5fbe14fc,JJ Bumrah,462411b3,Sabbir Rahman,7147f314,0,0,0,0,0,,,,,,0,0,0
+966745,2015/16,Bangladesh,3,Imrul Kayes,5fbe14fc,JJ Bumrah,462411b3,Sabbir Rahman,7147f314,0,0,0,0,0,,,,,,0,0,0
+966745,2015/16,Bangladesh,3,Imrul Kayes,5fbe14fc,JJ Bumrah,462411b3,Sabbir Rahman,7147f314,0,0,0,0,0,,,,,,4,0,4
+966745,2015/16,Bangladesh,3,Imrul Kayes,5fbe14fc,JJ Bumrah,462411b3,Sabbir Rahman,7147f314,0,0,0,0,0,,,,,,0,0,0
+966745,2015/16,Bangladesh,4,Sabbir Rahman,7147f314,A Nehra,96fd40ae,Imrul Kayes,5fbe14fc,0,0,0,0,0,,,,,,4,0,4
+966745,2015/16,Bangladesh,4,Sabbir Rahman,7147f314,A Nehra,96fd40ae,Imrul Kayes,5fbe14fc,0,0,0,0,0,,,,,,1,0,1
+966745,2015/16,Bangladesh,4,Imrul Kayes,5fbe14fc,A Nehra,96fd40ae,Sabbir Rahman,7147f314,0,0,0,0,0,,,,,,0,0,0
+966745,2015/16,Bangladesh,4,Imrul Kayes,5fbe14fc,A Nehra,96fd40ae,Sabbir Rahman,7147f314,0,0,0,0,0,,,,,,1,0,1
+966745,2015/16,Bangladesh,4,Sabbir Rahman,7147f314,A Nehra,96fd40ae,Imrul Kayes,5fbe14fc,0,0,0,0,0,,,,,,1,0,1
+966745,2015/16,Bangladesh,4,Imrul Kayes,5fbe14fc,A Nehra,96fd40ae,Sabbir Rahman,7147f314,0,0,0,0,0,,,,,,1,0,1
+966745,2015/16,Bangladesh,5,Imrul Kayes,5fbe14fc,JJ Bumrah,462411b3,Sabbir Rahman,7147f314,0,0,0,0,0,,,,,,1,0,1
+966745,2015/16,Bangladesh,5,Sabbir Rahman,7147f314,JJ Bumrah,462411b3,Imrul Kayes,5fbe14fc,0,0,0,0,0,,,,,,0,0,0
+966745,2015/16,Bangladesh,5,Sabbir Rahman,7147f314,JJ Bumrah,462411b3,Imrul Kayes,5fbe14fc,0,0,0,0,0,,,,,,2,0,2
+966745,2015/16,Bangladesh,5,Sabbir Rahman,7147f314,JJ Bumrah,462411b3,Imrul Kayes,5fbe14fc,0,0,0,0,0,,,,,,1,0,1
+966745,2015/16,Bangladesh,5,Imrul Kayes,5fbe14fc,JJ Bumrah,462411b3,Sabbir Rahman,7147f314,0,0,0,0,0,,,,,,0,0,0
+966745,2015/16,Bangladesh,5,Imrul Kayes,5fbe14fc,JJ Bumrah,462411b3,Sabbir Rahman,7147f314,0,0,0,0,0,,,,,,0,0,0
+966745,2015/16,Bangladesh,6,Sabbir Rahman,7147f314,HH Pandya,dbe50b21,Imrul Kayes,5fbe14fc,0,0,0,0,0,,,,,,1,0,1
+966745,2015/16,Bangladesh,6,Imrul Kayes,5fbe14fc,HH Pandya,dbe50b21,Sabbir Rahman,7147f314,0,0,0,0,0,,,,,,1,0,1
+966745,2015/16,Bangladesh,6,Sabbir Rahman,7147f314,HH Pandya,dbe50b21,Imrul Kayes,5fbe14fc,0,0,0,0,0,,,,,,1,0,1
+966745,2015/16,Bangladesh,6,Imrul Kayes,5fbe14fc,HH Pandya,dbe50b21,Sabbir Rahman,7147f314,0,0,0,0,0,,,,,,1,0,1
+966745,2015/16,Bangladesh,6,Sabbir Rahman,7147f314,HH Pandya,dbe50b21,Imrul Kayes,5fbe14fc,0,0,1,0,0,,,,,,0,1,1
+966745,2015/16,Bangladesh,6,Imrul Kayes,5fbe14fc,HH Pandya,dbe50b21,Sabbir Rahman,7147f314,0,0,0,0,0,,,,,,0,0,0
+966745,2015/16,Bangladesh,7,Sabbir Rahman,7147f314,R Ashwin,495d42a5,Imrul Kayes,5fbe14fc,0,0,0,0,0,,,,,,4,0,4
+966745,2015/16,Bangladesh,7,Sabbir Rahman,7147f314,R Ashwin,495d42a5,Imrul Kayes,5fbe14fc,0,0,0,0,0,,,,,,0,0,0
+966745,2015/16,Bangladesh,7,Sabbir Rahman,7147f314,R Ashwin,495d42a5,Imrul Kayes,5fbe14fc,0,0,0,0,0,,,,,,1,0,1
+966745,2015/16,Bangladesh,7,Imrul Kayes,5fbe14fc,R Ashwin,495d42a5,Sabbir Rahman,7147f314,0,0,0,0,0,,,,,,0,0,0
+966745,2015/16,Bangladesh,7,Imrul Kayes,5fbe14fc,R Ashwin,495d42a5,Sabbir Rahman,7147f314,0,0,0,0,0,,,,,,0,0,0
+966745,2015/16,Bangladesh,7,Imrul Kayes,5fbe14fc,R Ashwin,495d42a5,Sabbir Rahman,7147f314,0,0,0,0,0,,,,,,1,0,1
+966745,2015/16,Bangladesh,8,Imrul Kayes,5fbe14fc,HH Pandya,dbe50b21,Sabbir Rahman,7147f314,0,0,0,0,0,,,,,,2,0,2
+966745,2015/16,Bangladesh,8,Imrul Kayes,5fbe14fc,HH Pandya,dbe50b21,Sabbir Rahman,7147f314,0,0,0,0,0,,,,,,0,0,0
+966745,2015/16,Bangladesh,8,Imrul Kayes,5fbe14fc,HH Pandya,dbe50b21,Sabbir Rahman,7147f314,0,0,0,0,0,,,,,,0,0,0
+966745,2015/16,Bangladesh,8,Imrul Kayes,5fbe14fc,HH Pandya,dbe50b21,Sabbir Rahman,7147f314,0,0,0,0,0,,,,,,1,0,1
+966745,2015/16,Bangladesh,8,Sabbir Rahman,7147f314,HH Pandya,dbe50b21,Imrul Kayes,5fbe14fc,1,0,0,0,0,,,,,,0,1,1
+966745,2015/16,Bangladesh,8,Sabbir Rahman,7147f314,HH Pandya,dbe50b21,Imrul Kayes,5fbe14fc,0,0,0,0,0,,,,,,0,0,0
+966745,2015/16,Bangladesh,8,Sabbir Rahman,7147f314,HH Pandya,dbe50b21,Imrul Kayes,5fbe14fc,0,0,0,0,0,,,,,,2,0,2
+966745,2015/16,Bangladesh,9,Imrul Kayes,5fbe14fc,R Ashwin,495d42a5,Sabbir Rahman,7147f314,0,0,0,0,0,,,,,,1,0,1
+966745,2015/16,Bangladesh,9,Sabbir Rahman,7147f314,R Ashwin,495d42a5,Imrul Kayes,5fbe14fc,0,0,1,0,0,,,,,,0,1,1
+966745,2015/16,Bangladesh,9,Imrul Kayes,5fbe14fc,R Ashwin,495d42a5,Sabbir Rahman,7147f314,0,0,0,0,0,,,,,,0,0,0
+966745,2015/16,Bangladesh,9,Imrul Kayes,5fbe14fc,R Ashwin,495d42a5,Sabbir Rahman,7147f314,0,0,0,0,0,,,,,,0,0,0
+966745,2015/16,Bangladesh,9,Imrul Kayes,5fbe14fc,R Ashwin,495d42a5,Sabbir Rahman,7147f314,0,0,0,0,1,Imrul Kayes,5fbe14fc,Yuvraj Singh,1c914163,caught,0,0,0
+966745,2015/16,Bangladesh,9,Sabbir Rahman,7147f314,R Ashwin,495d42a5,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+966745,2015/16,Bangladesh,10,Sabbir Rahman,7147f314,HH Pandya,dbe50b21,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+966745,2015/16,Bangladesh,10,Shakib Al Hasan,7dc35884,HH Pandya,dbe50b21,Sabbir Rahman,7147f314,0,0,0,0,0,,,,,,1,0,1
+966745,2015/16,Bangladesh,10,Sabbir Rahman,7147f314,HH Pandya,dbe50b21,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,6,0,6
+966745,2015/16,Bangladesh,10,Sabbir Rahman,7147f314,HH Pandya,dbe50b21,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+966745,2015/16,Bangladesh,10,Shakib Al Hasan,7dc35884,HH Pandya,dbe50b21,Sabbir Rahman,7147f314,1,0,0,0,0,,,,,,0,1,1
+966745,2015/16,Bangladesh,10,Shakib Al Hasan,7dc35884,HH Pandya,dbe50b21,Sabbir Rahman,7147f314,0,0,0,0,0,,,,,,0,0,0
+966745,2015/16,Bangladesh,10,Shakib Al Hasan,7dc35884,HH Pandya,dbe50b21,Sabbir Rahman,7147f314,0,0,0,0,0,,,,,,0,0,0
+966745,2015/16,Bangladesh,11,Sabbir Rahman,7147f314,R Ashwin,495d42a5,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+966745,2015/16,Bangladesh,11,Shakib Al Hasan,7dc35884,R Ashwin,495d42a5,Sabbir Rahman,7147f314,0,0,0,0,0,,,,,,0,0,0
+966745,2015/16,Bangladesh,11,Shakib Al Hasan,7dc35884,R Ashwin,495d42a5,Sabbir Rahman,7147f314,0,0,0,0,0,,,,,,1,0,1
+966745,2015/16,Bangladesh,11,Sabbir Rahman,7147f314,R Ashwin,495d42a5,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,6,0,6
+966745,2015/16,Bangladesh,11,Sabbir Rahman,7147f314,R Ashwin,495d42a5,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+966745,2015/16,Bangladesh,11,Shakib Al Hasan,7dc35884,R Ashwin,495d42a5,Sabbir Rahman,7147f314,0,0,1,0,0,,,,,,0,1,1
+966745,2015/16,Bangladesh,12,Shakib Al Hasan,7dc35884,RA Jadeja,fe93fd9d,Sabbir Rahman,7147f314,0,0,0,0,0,,,,,,1,0,1
+966745,2015/16,Bangladesh,12,Sabbir Rahman,7147f314,RA Jadeja,fe93fd9d,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+966745,2015/16,Bangladesh,12,Shakib Al Hasan,7dc35884,RA Jadeja,fe93fd9d,Sabbir Rahman,7147f314,0,0,0,0,1,Shakib Al Hasan,7dc35884,,,run out,0,0,0
+966745,2015/16,Bangladesh,12,Mushfiqur Rahim,a94e08ea,RA Jadeja,fe93fd9d,Sabbir Rahman,7147f314,0,0,0,0,0,,,,,,1,0,1
+966745,2015/16,Bangladesh,12,Sabbir Rahman,7147f314,RA Jadeja,fe93fd9d,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,0,0,0
+966745,2015/16,Bangladesh,12,Sabbir Rahman,7147f314,RA Jadeja,fe93fd9d,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,2,0,2
+966745,2015/16,Bangladesh,13,Mushfiqur Rahim,a94e08ea,R Ashwin,495d42a5,Sabbir Rahman,7147f314,0,0,0,0,0,,,,,,1,0,1
+966745,2015/16,Bangladesh,13,Sabbir Rahman,7147f314,R Ashwin,495d42a5,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,1,0,1
+966745,2015/16,Bangladesh,13,Mushfiqur Rahim,a94e08ea,R Ashwin,495d42a5,Sabbir Rahman,7147f314,0,0,0,0,0,,,,,,1,0,1
+966745,2015/16,Bangladesh,13,Sabbir Rahman,7147f314,R Ashwin,495d42a5,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,1,0,1
+966745,2015/16,Bangladesh,13,Mushfiqur Rahim,a94e08ea,R Ashwin,495d42a5,Sabbir Rahman,7147f314,0,0,0,0,0,,,,,,1,0,1
+966745,2015/16,Bangladesh,13,Sabbir Rahman,7147f314,R Ashwin,495d42a5,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,1,0,1
+966745,2015/16,Bangladesh,14,Sabbir Rahman,7147f314,HH Pandya,dbe50b21,Mushfiqur Rahim,a94e08ea,0,0,0,0,1,Sabbir Rahman,7147f314,MS Dhoni,4a8a2e3b,caught,0,0,0
+966745,2015/16,Bangladesh,14,Mushfiqur Rahim,a94e08ea,HH Pandya,dbe50b21,Mahmudullah,bf1d7d3e,0,0,0,0,0,,,,,,1,0,1
+966745,2015/16,Bangladesh,14,Mahmudullah,bf1d7d3e,HH Pandya,dbe50b21,Mushfiqur Rahim,a94e08ea,1,0,0,0,0,,,,,,0,1,1
+966745,2015/16,Bangladesh,14,Mahmudullah,bf1d7d3e,HH Pandya,dbe50b21,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,1,0,1
+966745,2015/16,Bangladesh,14,Mushfiqur Rahim,a94e08ea,HH Pandya,dbe50b21,Mahmudullah,bf1d7d3e,0,0,0,0,0,,,,,,0,0,0
+966745,2015/16,Bangladesh,14,Mushfiqur Rahim,a94e08ea,HH Pandya,dbe50b21,Mahmudullah,bf1d7d3e,0,0,0,0,0,,,,,,0,0,0
+966745,2015/16,Bangladesh,14,Mushfiqur Rahim,a94e08ea,HH Pandya,dbe50b21,Mahmudullah,bf1d7d3e,0,0,0,0,0,,,,,,0,0,0
+966745,2015/16,Bangladesh,15,Mahmudullah,bf1d7d3e,RA Jadeja,fe93fd9d,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,1,0,1
+966745,2015/16,Bangladesh,15,Mushfiqur Rahim,a94e08ea,RA Jadeja,fe93fd9d,Mahmudullah,bf1d7d3e,0,0,1,0,0,,,,,,0,1,1
+966745,2015/16,Bangladesh,15,Mahmudullah,bf1d7d3e,RA Jadeja,fe93fd9d,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,1,0,1
+966745,2015/16,Bangladesh,15,Mushfiqur Rahim,a94e08ea,RA Jadeja,fe93fd9d,Mahmudullah,bf1d7d3e,0,0,0,0,0,,,,,,4,0,4
+966745,2015/16,Bangladesh,15,Mushfiqur Rahim,a94e08ea,RA Jadeja,fe93fd9d,Mahmudullah,bf1d7d3e,0,0,0,0,0,,,,,,0,0,0
+966745,2015/16,Bangladesh,15,Mushfiqur Rahim,a94e08ea,RA Jadeja,fe93fd9d,Mahmudullah,bf1d7d3e,0,0,0,0,0,,,,,,4,0,4
+966745,2015/16,Bangladesh,16,Mahmudullah,bf1d7d3e,A Nehra,96fd40ae,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,0,0,0
+966745,2015/16,Bangladesh,16,Mahmudullah,bf1d7d3e,A Nehra,96fd40ae,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,4,0,4
+966745,2015/16,Bangladesh,16,Mahmudullah,bf1d7d3e,A Nehra,96fd40ae,Mushfiqur Rahim,a94e08ea,0,0,0,0,1,Mahmudullah,bf1d7d3e,RG Sharma,740742ef,caught,0,0,0
+966745,2015/16,Bangladesh,16,Mashrafe Mortaza,e186f49c,A Nehra,96fd40ae,Mushfiqur Rahim,a94e08ea,0,0,0,0,1,Mashrafe Mortaza,e186f49c,RA Jadeja,fe93fd9d,caught,0,0,0
+966745,2015/16,Bangladesh,16,Taskin Ahmed,ef18b66e,A Nehra,96fd40ae,Mushfiqur Rahim,a94e08ea,1,0,0,0,0,,,,,,0,1,1
+966745,2015/16,Bangladesh,16,Taskin Ahmed,ef18b66e,A Nehra,96fd40ae,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,0,0,0
+966745,2015/16,Bangladesh,16,Taskin Ahmed,ef18b66e,A Nehra,96fd40ae,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,1,0,1
+966745,2015/16,Bangladesh,17,Taskin Ahmed,ef18b66e,RA Jadeja,fe93fd9d,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,0,0,0
+966745,2015/16,Bangladesh,17,Taskin Ahmed,ef18b66e,RA Jadeja,fe93fd9d,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,4,0,4
+966745,2015/16,Bangladesh,17,Taskin Ahmed,ef18b66e,RA Jadeja,fe93fd9d,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,0,0,0
+966745,2015/16,Bangladesh,17,Taskin Ahmed,ef18b66e,RA Jadeja,fe93fd9d,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,0,0,0
+966745,2015/16,Bangladesh,17,Taskin Ahmed,ef18b66e,RA Jadeja,fe93fd9d,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,1,0,1
+966745,2015/16,Bangladesh,17,Mushfiqur Rahim,a94e08ea,RA Jadeja,fe93fd9d,Taskin Ahmed,ef18b66e,0,0,0,0,0,,,,,,1,0,1
+966745,2015/16,Bangladesh,18,Mushfiqur Rahim,a94e08ea,JJ Bumrah,462411b3,Taskin Ahmed,ef18b66e,0,0,0,0,0,,,,,,1,0,1
+966745,2015/16,Bangladesh,18,Taskin Ahmed,ef18b66e,JJ Bumrah,462411b3,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,0,0,0
+966745,2015/16,Bangladesh,18,Taskin Ahmed,ef18b66e,JJ Bumrah,462411b3,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,0,0,0
+966745,2015/16,Bangladesh,18,Taskin Ahmed,ef18b66e,JJ Bumrah,462411b3,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,2,0,2
+966745,2015/16,Bangladesh,18,Taskin Ahmed,ef18b66e,JJ Bumrah,462411b3,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,0,0,0
+966745,2015/16,Bangladesh,18,Taskin Ahmed,ef18b66e,JJ Bumrah,462411b3,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,6,0,6
+966745,2015/16,Bangladesh,19,Mushfiqur Rahim,a94e08ea,RA Jadeja,fe93fd9d,Taskin Ahmed,ef18b66e,0,0,0,0,0,,,,,,0,0,0
+966745,2015/16,Bangladesh,19,Mushfiqur Rahim,a94e08ea,RA Jadeja,fe93fd9d,Taskin Ahmed,ef18b66e,0,0,0,0,0,,,,,,1,0,1
+966745,2015/16,Bangladesh,19,Taskin Ahmed,ef18b66e,RA Jadeja,fe93fd9d,Mushfiqur Rahim,a94e08ea,1,0,0,0,0,,,,,,0,1,1
+966745,2015/16,Bangladesh,19,Taskin Ahmed,ef18b66e,RA Jadeja,fe93fd9d,Mushfiqur Rahim,a94e08ea,1,0,0,0,0,,,,,,0,1,1
+966745,2015/16,Bangladesh,19,Taskin Ahmed,ef18b66e,RA Jadeja,fe93fd9d,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,0,0,0
+966745,2015/16,Bangladesh,19,Taskin Ahmed,ef18b66e,RA Jadeja,fe93fd9d,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,0,0,0
+966745,2015/16,Bangladesh,19,Taskin Ahmed,ef18b66e,RA Jadeja,fe93fd9d,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,1,0,1
+966745,2015/16,Bangladesh,19,Mushfiqur Rahim,a94e08ea,RA Jadeja,fe93fd9d,Taskin Ahmed,ef18b66e,0,0,0,0,0,,,,,,0,0,0

@@ -1,0 +1,246 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+551594,2012,England,0,CM Edwards,d4188b60,TD Smartt,cc3884f9,LA Marsh,9706e64b,0,0,0,0,0,,,,,,0,0,0
+551594,2012,England,0,CM Edwards,d4188b60,TD Smartt,cc3884f9,LA Marsh,9706e64b,0,0,0,0,0,,,,,,0,0,0
+551594,2012,England,0,CM Edwards,d4188b60,TD Smartt,cc3884f9,LA Marsh,9706e64b,0,0,0,0,0,,,,,,0,0,0
+551594,2012,England,0,CM Edwards,d4188b60,TD Smartt,cc3884f9,LA Marsh,9706e64b,0,0,0,0,0,,,,,,1,0,1
+551594,2012,England,0,LA Marsh,9706e64b,TD Smartt,cc3884f9,CM Edwards,d4188b60,0,0,0,0,0,,,,,,4,0,4
+551594,2012,England,0,LA Marsh,9706e64b,TD Smartt,cc3884f9,CM Edwards,d4188b60,0,0,0,0,0,,,,,,0,0,0
+551594,2012,England,1,CM Edwards,d4188b60,SL Munroe,81c29317,LA Marsh,9706e64b,0,0,0,0,0,,,,,,4,0,4
+551594,2012,England,1,CM Edwards,d4188b60,SL Munroe,81c29317,LA Marsh,9706e64b,0,0,0,0,0,,,,,,4,0,4
+551594,2012,England,1,CM Edwards,d4188b60,SL Munroe,81c29317,LA Marsh,9706e64b,0,0,0,0,0,,,,,,0,0,0
+551594,2012,England,1,CM Edwards,d4188b60,SL Munroe,81c29317,LA Marsh,9706e64b,0,0,0,0,0,,,,,,4,0,4
+551594,2012,England,1,CM Edwards,d4188b60,SL Munroe,81c29317,LA Marsh,9706e64b,0,0,0,0,0,,,,,,0,0,0
+551594,2012,England,1,CM Edwards,d4188b60,SL Munroe,81c29317,LA Marsh,9706e64b,0,0,0,0,0,,,,,,0,0,0
+551594,2012,England,2,LA Marsh,9706e64b,TD Smartt,cc3884f9,CM Edwards,d4188b60,0,1,0,0,0,,,,,,0,1,1
+551594,2012,England,2,LA Marsh,9706e64b,TD Smartt,cc3884f9,CM Edwards,d4188b60,0,0,0,0,0,,,,,,3,0,3
+551594,2012,England,2,CM Edwards,d4188b60,TD Smartt,cc3884f9,LA Marsh,9706e64b,0,0,0,0,0,,,,,,0,0,0
+551594,2012,England,2,CM Edwards,d4188b60,TD Smartt,cc3884f9,LA Marsh,9706e64b,0,0,0,0,0,,,,,,4,0,4
+551594,2012,England,2,CM Edwards,d4188b60,TD Smartt,cc3884f9,LA Marsh,9706e64b,0,0,0,0,0,,,,,,0,0,0
+551594,2012,England,2,CM Edwards,d4188b60,TD Smartt,cc3884f9,LA Marsh,9706e64b,0,0,0,0,0,,,,,,0,0,0
+551594,2012,England,2,CM Edwards,d4188b60,TD Smartt,cc3884f9,LA Marsh,9706e64b,0,0,0,0,0,,,,,,4,0,4
+551594,2012,England,3,LA Marsh,9706e64b,A Mohammed,a49985e6,CM Edwards,d4188b60,0,0,0,0,0,,,,,,2,0,2
+551594,2012,England,3,LA Marsh,9706e64b,A Mohammed,a49985e6,CM Edwards,d4188b60,0,0,0,0,0,,,,,,0,0,0
+551594,2012,England,3,LA Marsh,9706e64b,A Mohammed,a49985e6,CM Edwards,d4188b60,0,0,0,0,0,,,,,,0,0,0
+551594,2012,England,3,LA Marsh,9706e64b,A Mohammed,a49985e6,CM Edwards,d4188b60,0,0,0,0,0,,,,,,0,0,0
+551594,2012,England,3,LA Marsh,9706e64b,A Mohammed,a49985e6,CM Edwards,d4188b60,0,0,0,0,0,,,,,,0,0,0
+551594,2012,England,3,LA Marsh,9706e64b,A Mohammed,a49985e6,CM Edwards,d4188b60,0,0,0,0,0,,,,,,4,0,4
+551594,2012,England,4,CM Edwards,d4188b60,SF Daley,1f7825dd,LA Marsh,9706e64b,0,0,0,0,0,,,,,,0,0,0
+551594,2012,England,4,CM Edwards,d4188b60,SF Daley,1f7825dd,LA Marsh,9706e64b,0,0,0,0,1,CM Edwards,d4188b60,A Mohammed,a49985e6,caught,0,0,0
+551594,2012,England,4,SJ Taylor,e6f36f83,SF Daley,1f7825dd,LA Marsh,9706e64b,0,0,0,0,0,,,,,,0,0,0
+551594,2012,England,4,SJ Taylor,e6f36f83,SF Daley,1f7825dd,LA Marsh,9706e64b,0,0,0,0,0,,,,,,2,0,2
+551594,2012,England,4,SJ Taylor,e6f36f83,SF Daley,1f7825dd,LA Marsh,9706e64b,0,0,0,0,0,,,,,,0,0,0
+551594,2012,England,4,SJ Taylor,e6f36f83,SF Daley,1f7825dd,LA Marsh,9706e64b,0,0,1,0,0,,,,,,0,1,1
+551594,2012,England,5,SJ Taylor,e6f36f83,A Mohammed,a49985e6,LA Marsh,9706e64b,0,0,0,0,0,,,,,,1,0,1
+551594,2012,England,5,LA Marsh,9706e64b,A Mohammed,a49985e6,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,0,0,0
+551594,2012,England,5,LA Marsh,9706e64b,A Mohammed,a49985e6,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,0,0,0
+551594,2012,England,5,LA Marsh,9706e64b,A Mohammed,a49985e6,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,0,0,0
+551594,2012,England,5,LA Marsh,9706e64b,A Mohammed,a49985e6,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,0,0,0
+551594,2012,England,5,LA Marsh,9706e64b,A Mohammed,a49985e6,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,2,0,2
+551594,2012,England,6,SJ Taylor,e6f36f83,SF Daley,1f7825dd,LA Marsh,9706e64b,0,0,0,0,0,,,,,,3,0,3
+551594,2012,England,6,LA Marsh,9706e64b,SF Daley,1f7825dd,SJ Taylor,e6f36f83,0,0,0,0,1,LA Marsh,9706e64b,,,bowled,0,0,0
+551594,2012,England,6,A Brindle,053dc208,SF Daley,1f7825dd,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,0,0,0
+551594,2012,England,6,A Brindle,053dc208,SF Daley,1f7825dd,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,0,0,0
+551594,2012,England,6,A Brindle,053dc208,SF Daley,1f7825dd,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,0,0,0
+551594,2012,England,6,A Brindle,053dc208,SF Daley,1f7825dd,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,1,0,1
+551594,2012,England,7,A Brindle,053dc208,A Mohammed,a49985e6,SJ Taylor,e6f36f83,0,0,1,0,0,,,,,,0,1,1
+551594,2012,England,7,SJ Taylor,e6f36f83,A Mohammed,a49985e6,A Brindle,053dc208,0,0,0,0,0,,,,,,0,0,0
+551594,2012,England,7,SJ Taylor,e6f36f83,A Mohammed,a49985e6,A Brindle,053dc208,0,0,1,0,0,,,,,,0,1,1
+551594,2012,England,7,A Brindle,053dc208,A Mohammed,a49985e6,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,0,0,0
+551594,2012,England,7,A Brindle,053dc208,A Mohammed,a49985e6,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,0,0,0
+551594,2012,England,7,A Brindle,053dc208,A Mohammed,a49985e6,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,2,0,2
+551594,2012,England,8,SJ Taylor,e6f36f83,SF Daley,1f7825dd,A Brindle,053dc208,0,0,0,0,0,,,,,,4,0,4
+551594,2012,England,8,SJ Taylor,e6f36f83,SF Daley,1f7825dd,A Brindle,053dc208,0,0,0,0,0,,,,,,1,0,1
+551594,2012,England,8,A Brindle,053dc208,SF Daley,1f7825dd,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,2,0,2
+551594,2012,England,8,A Brindle,053dc208,SF Daley,1f7825dd,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,1,0,1
+551594,2012,England,8,SJ Taylor,e6f36f83,SF Daley,1f7825dd,A Brindle,053dc208,0,0,0,0,0,,,,,,1,0,1
+551594,2012,England,8,A Brindle,053dc208,SF Daley,1f7825dd,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,0,0,0
+551594,2012,England,9,SJ Taylor,e6f36f83,SL Quintyne,3308d881,A Brindle,053dc208,0,0,0,0,0,,,,,,1,0,1
+551594,2012,England,9,A Brindle,053dc208,SL Quintyne,3308d881,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,0,0,0
+551594,2012,England,9,A Brindle,053dc208,SL Quintyne,3308d881,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,1,0,1
+551594,2012,England,9,SJ Taylor,e6f36f83,SL Quintyne,3308d881,A Brindle,053dc208,0,0,0,0,0,,,,,,0,0,0
+551594,2012,England,9,SJ Taylor,e6f36f83,SL Quintyne,3308d881,A Brindle,053dc208,0,0,0,0,0,,,,,,1,0,1
+551594,2012,England,9,A Brindle,053dc208,SL Quintyne,3308d881,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,0,0,0
+551594,2012,England,10,SJ Taylor,e6f36f83,SA Campbelle,a7cd72b2,A Brindle,053dc208,0,0,0,0,0,,,,,,0,0,0
+551594,2012,England,10,SJ Taylor,e6f36f83,SA Campbelle,a7cd72b2,A Brindle,053dc208,0,0,0,0,0,,,,,,2,0,2
+551594,2012,England,10,SJ Taylor,e6f36f83,SA Campbelle,a7cd72b2,A Brindle,053dc208,0,0,0,0,0,,,,,,2,0,2
+551594,2012,England,10,SJ Taylor,e6f36f83,SA Campbelle,a7cd72b2,A Brindle,053dc208,0,0,0,0,0,,,,,,1,0,1
+551594,2012,England,10,A Brindle,053dc208,SA Campbelle,a7cd72b2,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,2,0,2
+551594,2012,England,10,A Brindle,053dc208,SA Campbelle,a7cd72b2,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,0,0,0
+551594,2012,England,11,SJ Taylor,e6f36f83,SL Quintyne,3308d881,A Brindle,053dc208,0,0,0,0,0,,,,,,1,0,1
+551594,2012,England,11,A Brindle,053dc208,SL Quintyne,3308d881,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,0,0,0
+551594,2012,England,11,A Brindle,053dc208,SL Quintyne,3308d881,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,2,0,2
+551594,2012,England,11,A Brindle,053dc208,SL Quintyne,3308d881,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,2,0,2
+551594,2012,England,11,A Brindle,053dc208,SL Quintyne,3308d881,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,1,0,1
+551594,2012,England,11,SJ Taylor,e6f36f83,SL Quintyne,3308d881,A Brindle,053dc208,0,0,0,0,0,,,,,,1,0,1
+551594,2012,England,12,SJ Taylor,e6f36f83,SA Campbelle,a7cd72b2,A Brindle,053dc208,0,0,0,0,0,,,,,,2,0,2
+551594,2012,England,12,SJ Taylor,e6f36f83,SA Campbelle,a7cd72b2,A Brindle,053dc208,0,0,0,1,0,,,,,,0,1,1
+551594,2012,England,12,A Brindle,053dc208,SA Campbelle,a7cd72b2,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,1,0,1
+551594,2012,England,12,SJ Taylor,e6f36f83,SA Campbelle,a7cd72b2,A Brindle,053dc208,0,0,0,0,0,,,,,,4,0,4
+551594,2012,England,12,SJ Taylor,e6f36f83,SA Campbelle,a7cd72b2,A Brindle,053dc208,0,0,0,0,0,,,,,,4,0,4
+551594,2012,England,12,SJ Taylor,e6f36f83,SA Campbelle,a7cd72b2,A Brindle,053dc208,0,0,0,1,0,,,,,,0,1,1
+551594,2012,England,13,SJ Taylor,e6f36f83,SL Quintyne,3308d881,A Brindle,053dc208,0,0,0,0,0,,,,,,1,0,1
+551594,2012,England,13,A Brindle,053dc208,SL Quintyne,3308d881,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,1,0,1
+551594,2012,England,13,SJ Taylor,e6f36f83,SL Quintyne,3308d881,A Brindle,053dc208,0,0,0,0,0,,,,,,0,0,0
+551594,2012,England,13,SJ Taylor,e6f36f83,SL Quintyne,3308d881,A Brindle,053dc208,0,0,0,0,0,,,,,,1,0,1
+551594,2012,England,13,A Brindle,053dc208,SL Quintyne,3308d881,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,2,0,2
+551594,2012,England,13,A Brindle,053dc208,SL Quintyne,3308d881,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,0,0,0
+551594,2012,England,14,SJ Taylor,e6f36f83,TD Smartt,cc3884f9,A Brindle,053dc208,0,0,0,0,0,,,,,,1,0,1
+551594,2012,England,14,A Brindle,053dc208,TD Smartt,cc3884f9,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,4,0,4
+551594,2012,England,14,A Brindle,053dc208,TD Smartt,cc3884f9,SJ Taylor,e6f36f83,0,1,0,0,0,,,,,,0,1,1
+551594,2012,England,14,A Brindle,053dc208,TD Smartt,cc3884f9,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,2,0,2
+551594,2012,England,14,A Brindle,053dc208,TD Smartt,cc3884f9,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,1,0,1
+551594,2012,England,14,SJ Taylor,e6f36f83,TD Smartt,cc3884f9,A Brindle,053dc208,0,0,0,0,0,,,,,,4,0,4
+551594,2012,England,14,SJ Taylor,e6f36f83,TD Smartt,cc3884f9,A Brindle,053dc208,0,0,0,0,0,,,,,,4,0,4
+551594,2012,England,15,A Brindle,053dc208,SL Quintyne,3308d881,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,1,0,1
+551594,2012,England,15,SJ Taylor,e6f36f83,SL Quintyne,3308d881,A Brindle,053dc208,0,0,0,0,0,,,,,,0,0,0
+551594,2012,England,15,SJ Taylor,e6f36f83,SL Quintyne,3308d881,A Brindle,053dc208,0,0,0,0,0,,,,,,4,0,4
+551594,2012,England,15,SJ Taylor,e6f36f83,SL Quintyne,3308d881,A Brindle,053dc208,0,0,0,0,0,,,,,,4,0,4
+551594,2012,England,15,SJ Taylor,e6f36f83,SL Quintyne,3308d881,A Brindle,053dc208,0,0,0,0,0,,,,,,2,0,2
+551594,2012,England,15,SJ Taylor,e6f36f83,SL Quintyne,3308d881,A Brindle,053dc208,0,0,0,0,0,,,,,,1,0,1
+551594,2012,England,16,SJ Taylor,e6f36f83,SA Campbelle,a7cd72b2,A Brindle,053dc208,0,0,0,0,1,SJ Taylor,e6f36f83,MR Aguilleira,4e7aa570,stumped,0,0,0
+551594,2012,England,16,DN Wyatt,a139c379,SA Campbelle,a7cd72b2,A Brindle,053dc208,0,0,0,0,0,,,,,,1,0,1
+551594,2012,England,16,A Brindle,053dc208,SA Campbelle,a7cd72b2,DN Wyatt,a139c379,0,0,0,0,0,,,,,,2,0,2
+551594,2012,England,16,A Brindle,053dc208,SA Campbelle,a7cd72b2,DN Wyatt,a139c379,0,0,0,0,0,,,,,,2,0,2
+551594,2012,England,16,A Brindle,053dc208,SA Campbelle,a7cd72b2,DN Wyatt,a139c379,0,0,0,0,0,,,,,,1,0,1
+551594,2012,England,16,DN Wyatt,a139c379,SA Campbelle,a7cd72b2,A Brindle,053dc208,0,0,0,0,0,,,,,,1,0,1
+551594,2012,England,17,DN Wyatt,a139c379,A Mohammed,a49985e6,A Brindle,053dc208,0,0,0,0,0,,,,,,0,0,0
+551594,2012,England,17,DN Wyatt,a139c379,A Mohammed,a49985e6,A Brindle,053dc208,0,0,0,0,0,,,,,,1,0,1
+551594,2012,England,17,A Brindle,053dc208,A Mohammed,a49985e6,DN Wyatt,a139c379,0,0,0,0,0,,,,,,2,0,2
+551594,2012,England,17,A Brindle,053dc208,A Mohammed,a49985e6,DN Wyatt,a139c379,0,0,0,0,0,,,,,,2,0,2
+551594,2012,England,17,A Brindle,053dc208,A Mohammed,a49985e6,DN Wyatt,a139c379,0,0,0,0,0,,,,,,2,0,2
+551594,2012,England,17,A Brindle,053dc208,A Mohammed,a49985e6,DN Wyatt,a139c379,0,0,0,0,0,,,,,,1,0,1
+551594,2012,England,18,A Brindle,053dc208,SA Campbelle,a7cd72b2,DN Wyatt,a139c379,0,0,0,0,0,,,,,,1,0,1
+551594,2012,England,18,DN Wyatt,a139c379,SA Campbelle,a7cd72b2,A Brindle,053dc208,0,0,0,0,0,,,,,,1,0,1
+551594,2012,England,18,A Brindle,053dc208,SA Campbelle,a7cd72b2,DN Wyatt,a139c379,0,0,0,0,0,,,,,,1,0,1
+551594,2012,England,18,DN Wyatt,a139c379,SA Campbelle,a7cd72b2,A Brindle,053dc208,0,0,0,0,0,,,,,,2,0,2
+551594,2012,England,18,DN Wyatt,a139c379,SA Campbelle,a7cd72b2,A Brindle,053dc208,0,0,0,0,0,,,,,,1,0,1
+551594,2012,England,18,A Brindle,053dc208,SA Campbelle,a7cd72b2,DN Wyatt,a139c379,0,0,0,0,0,,,,,,0,0,0
+551594,2012,England,19,DN Wyatt,a139c379,SF Daley,1f7825dd,A Brindle,053dc208,0,0,0,0,0,,,,,,2,0,2
+551594,2012,England,19,DN Wyatt,a139c379,SF Daley,1f7825dd,A Brindle,053dc208,0,0,0,0,0,,,,,,1,0,1
+551594,2012,England,19,A Brindle,053dc208,SF Daley,1f7825dd,DN Wyatt,a139c379,0,0,0,0,0,,,,,,1,0,1
+551594,2012,England,19,DN Wyatt,a139c379,SF Daley,1f7825dd,A Brindle,053dc208,0,0,0,0,0,,,,,,1,0,1
+551594,2012,England,19,A Brindle,053dc208,SF Daley,1f7825dd,DN Wyatt,a139c379,0,0,0,0,0,,,,,,1,0,1
+551594,2012,England,19,DN Wyatt,a139c379,SF Daley,1f7825dd,A Brindle,053dc208,0,0,0,1,0,,,,,,0,1,1
+551594,2012,West Indies,0,JB Nero,7bf606c6,KH Brunt,6a434bd3,TD Smartt,cc3884f9,1,0,0,0,0,,,,,,0,1,1
+551594,2012,West Indies,0,JB Nero,7bf606c6,KH Brunt,6a434bd3,TD Smartt,cc3884f9,0,0,0,0,0,,,,,,2,0,2
+551594,2012,West Indies,0,JB Nero,7bf606c6,KH Brunt,6a434bd3,TD Smartt,cc3884f9,0,0,0,0,0,,,,,,0,0,0
+551594,2012,West Indies,0,JB Nero,7bf606c6,KH Brunt,6a434bd3,TD Smartt,cc3884f9,0,0,0,0,0,,,,,,0,0,0
+551594,2012,West Indies,0,JB Nero,7bf606c6,KH Brunt,6a434bd3,TD Smartt,cc3884f9,0,0,0,0,0,,,,,,0,0,0
+551594,2012,West Indies,0,JB Nero,7bf606c6,KH Brunt,6a434bd3,TD Smartt,cc3884f9,0,0,0,0,0,,,,,,0,0,0
+551594,2012,West Indies,0,JB Nero,7bf606c6,KH Brunt,6a434bd3,TD Smartt,cc3884f9,0,0,0,0,0,,,,,,0,0,0
+551594,2012,West Indies,1,TD Smartt,cc3884f9,A Shrubsole,32497ecd,JB Nero,7bf606c6,0,0,0,0,0,,,,,,0,0,0
+551594,2012,West Indies,1,TD Smartt,cc3884f9,A Shrubsole,32497ecd,JB Nero,7bf606c6,0,0,0,0,0,,,,,,0,0,0
+551594,2012,West Indies,1,TD Smartt,cc3884f9,A Shrubsole,32497ecd,JB Nero,7bf606c6,0,0,0,0,0,,,,,,0,0,0
+551594,2012,West Indies,1,TD Smartt,cc3884f9,A Shrubsole,32497ecd,JB Nero,7bf606c6,0,0,0,0,0,,,,,,0,0,0
+551594,2012,West Indies,1,TD Smartt,cc3884f9,A Shrubsole,32497ecd,JB Nero,7bf606c6,0,0,0,0,0,,,,,,1,0,1
+551594,2012,West Indies,1,JB Nero,7bf606c6,A Shrubsole,32497ecd,TD Smartt,cc3884f9,0,0,0,0,0,,,,,,0,0,0
+551594,2012,West Indies,2,TD Smartt,cc3884f9,KH Brunt,6a434bd3,JB Nero,7bf606c6,0,0,0,0,0,,,,,,1,0,1
+551594,2012,West Indies,2,JB Nero,7bf606c6,KH Brunt,6a434bd3,TD Smartt,cc3884f9,0,0,1,0,0,,,,,,0,1,1
+551594,2012,West Indies,2,TD Smartt,cc3884f9,KH Brunt,6a434bd3,JB Nero,7bf606c6,0,0,0,0,0,,,,,,0,0,0
+551594,2012,West Indies,2,TD Smartt,cc3884f9,KH Brunt,6a434bd3,JB Nero,7bf606c6,0,0,0,0,0,,,,,,1,0,1
+551594,2012,West Indies,2,JB Nero,7bf606c6,KH Brunt,6a434bd3,TD Smartt,cc3884f9,0,0,0,0,0,,,,,,0,0,0
+551594,2012,West Indies,2,JB Nero,7bf606c6,KH Brunt,6a434bd3,TD Smartt,cc3884f9,0,0,0,0,0,,,,,,4,0,4
+551594,2012,West Indies,3,TD Smartt,cc3884f9,A Shrubsole,32497ecd,JB Nero,7bf606c6,0,0,0,0,0,,,,,,0,0,0
+551594,2012,West Indies,3,TD Smartt,cc3884f9,A Shrubsole,32497ecd,JB Nero,7bf606c6,0,0,0,0,0,,,,,,2,0,2
+551594,2012,West Indies,3,TD Smartt,cc3884f9,A Shrubsole,32497ecd,JB Nero,7bf606c6,0,0,0,0,0,,,,,,2,0,2
+551594,2012,West Indies,3,TD Smartt,cc3884f9,A Shrubsole,32497ecd,JB Nero,7bf606c6,0,0,0,0,0,,,,,,0,0,0
+551594,2012,West Indies,3,TD Smartt,cc3884f9,A Shrubsole,32497ecd,JB Nero,7bf606c6,0,0,0,0,0,,,,,,2,0,2
+551594,2012,West Indies,3,TD Smartt,cc3884f9,A Shrubsole,32497ecd,JB Nero,7bf606c6,0,0,0,0,0,,,,,,5,0,5
+551594,2012,West Indies,4,TD Smartt,cc3884f9,KH Brunt,6a434bd3,JB Nero,7bf606c6,0,0,0,0,0,,,,,,4,0,4
+551594,2012,West Indies,4,TD Smartt,cc3884f9,KH Brunt,6a434bd3,JB Nero,7bf606c6,1,0,0,0,0,,,,,,0,1,1
+551594,2012,West Indies,4,TD Smartt,cc3884f9,KH Brunt,6a434bd3,JB Nero,7bf606c6,0,0,0,0,0,,,,,,0,0,0
+551594,2012,West Indies,4,TD Smartt,cc3884f9,KH Brunt,6a434bd3,JB Nero,7bf606c6,0,0,0,0,0,,,,,,1,0,1
+551594,2012,West Indies,4,JB Nero,7bf606c6,KH Brunt,6a434bd3,TD Smartt,cc3884f9,0,0,0,0,0,,,,,,1,0,1
+551594,2012,West Indies,4,TD Smartt,cc3884f9,KH Brunt,6a434bd3,JB Nero,7bf606c6,0,0,0,0,0,,,,,,1,0,1
+551594,2012,West Indies,4,JB Nero,7bf606c6,KH Brunt,6a434bd3,TD Smartt,cc3884f9,0,0,0,0,0,,,,,,0,0,0
+551594,2012,West Indies,5,TD Smartt,cc3884f9,DN Wyatt,a139c379,JB Nero,7bf606c6,0,0,0,0,0,,,,,,1,0,1
+551594,2012,West Indies,5,JB Nero,7bf606c6,DN Wyatt,a139c379,TD Smartt,cc3884f9,0,0,0,0,0,,,,,,4,0,4
+551594,2012,West Indies,5,JB Nero,7bf606c6,DN Wyatt,a139c379,TD Smartt,cc3884f9,0,0,0,0,0,,,,,,0,0,0
+551594,2012,West Indies,5,JB Nero,7bf606c6,DN Wyatt,a139c379,TD Smartt,cc3884f9,0,0,0,0,1,JB Nero,7bf606c6,SJ Taylor,e6f36f83,stumped,0,0,0
+551594,2012,West Indies,5,MR Aguilleira,4e7aa570,DN Wyatt,a139c379,TD Smartt,cc3884f9,0,0,0,0,0,,,,,,0,0,0
+551594,2012,West Indies,5,MR Aguilleira,4e7aa570,DN Wyatt,a139c379,TD Smartt,cc3884f9,0,0,0,0,0,,,,,,0,0,0
+551594,2012,West Indies,6,TD Smartt,cc3884f9,HL Colvin,d3a44255,MR Aguilleira,4e7aa570,0,0,0,0,0,,,,,,1,0,1
+551594,2012,West Indies,6,MR Aguilleira,4e7aa570,HL Colvin,d3a44255,TD Smartt,cc3884f9,0,0,0,0,0,,,,,,1,0,1
+551594,2012,West Indies,6,TD Smartt,cc3884f9,HL Colvin,d3a44255,MR Aguilleira,4e7aa570,0,0,0,0,0,,,,,,0,0,0
+551594,2012,West Indies,6,TD Smartt,cc3884f9,HL Colvin,d3a44255,MR Aguilleira,4e7aa570,0,0,0,0,0,,,,,,2,0,2
+551594,2012,West Indies,6,TD Smartt,cc3884f9,HL Colvin,d3a44255,MR Aguilleira,4e7aa570,0,0,0,0,0,,,,,,1,0,1
+551594,2012,West Indies,6,MR Aguilleira,4e7aa570,HL Colvin,d3a44255,TD Smartt,cc3884f9,0,0,0,0,0,,,,,,0,0,0
+551594,2012,West Indies,7,TD Smartt,cc3884f9,DN Wyatt,a139c379,MR Aguilleira,4e7aa570,1,0,0,0,0,,,,,,0,1,1
+551594,2012,West Indies,7,TD Smartt,cc3884f9,DN Wyatt,a139c379,MR Aguilleira,4e7aa570,0,0,0,0,1,TD Smartt,cc3884f9,JL Gunn,907c51ab,caught,0,0,0
+551594,2012,West Indies,7,MR Aguilleira,4e7aa570,DN Wyatt,a139c379,SF Daley,1f7825dd,0,0,0,0,0,,,,,,0,0,0
+551594,2012,West Indies,7,MR Aguilleira,4e7aa570,DN Wyatt,a139c379,SF Daley,1f7825dd,0,0,0,0,0,,,,,,2,0,2
+551594,2012,West Indies,7,MR Aguilleira,4e7aa570,DN Wyatt,a139c379,SF Daley,1f7825dd,0,0,0,0,0,,,,,,0,0,0
+551594,2012,West Indies,7,MR Aguilleira,4e7aa570,DN Wyatt,a139c379,SF Daley,1f7825dd,0,0,0,0,0,,,,,,0,0,0
+551594,2012,West Indies,7,MR Aguilleira,4e7aa570,DN Wyatt,a139c379,SF Daley,1f7825dd,0,0,0,0,0,,,,,,0,0,0
+551594,2012,West Indies,8,SF Daley,1f7825dd,LA Marsh,9706e64b,MR Aguilleira,4e7aa570,0,0,0,0,0,,,,,,2,0,2
+551594,2012,West Indies,8,SF Daley,1f7825dd,LA Marsh,9706e64b,MR Aguilleira,4e7aa570,0,0,0,0,0,,,,,,0,0,0
+551594,2012,West Indies,8,SF Daley,1f7825dd,LA Marsh,9706e64b,MR Aguilleira,4e7aa570,0,0,0,0,0,,,,,,0,0,0
+551594,2012,West Indies,8,SF Daley,1f7825dd,LA Marsh,9706e64b,MR Aguilleira,4e7aa570,0,0,0,0,0,,,,,,0,0,0
+551594,2012,West Indies,8,SF Daley,1f7825dd,LA Marsh,9706e64b,MR Aguilleira,4e7aa570,0,0,0,0,0,,,,,,0,0,0
+551594,2012,West Indies,8,SF Daley,1f7825dd,LA Marsh,9706e64b,MR Aguilleira,4e7aa570,0,0,0,0,0,,,,,,0,0,0
+551594,2012,West Indies,9,MR Aguilleira,4e7aa570,DN Wyatt,a139c379,SF Daley,1f7825dd,0,0,0,0,0,,,,,,4,0,4
+551594,2012,West Indies,9,MR Aguilleira,4e7aa570,DN Wyatt,a139c379,SF Daley,1f7825dd,0,0,0,0,0,,,,,,0,0,0
+551594,2012,West Indies,9,MR Aguilleira,4e7aa570,DN Wyatt,a139c379,SF Daley,1f7825dd,0,0,0,0,0,,,,,,0,0,0
+551594,2012,West Indies,9,MR Aguilleira,4e7aa570,DN Wyatt,a139c379,SF Daley,1f7825dd,0,0,0,0,0,,,,,,0,0,0
+551594,2012,West Indies,9,MR Aguilleira,4e7aa570,DN Wyatt,a139c379,SF Daley,1f7825dd,0,0,0,0,0,,,,,,0,0,0
+551594,2012,West Indies,9,MR Aguilleira,4e7aa570,DN Wyatt,a139c379,SF Daley,1f7825dd,0,0,0,0,0,,,,,,1,0,1
+551594,2012,West Indies,10,MR Aguilleira,4e7aa570,LA Marsh,9706e64b,SF Daley,1f7825dd,0,0,0,0,0,,,,,,0,0,0
+551594,2012,West Indies,10,MR Aguilleira,4e7aa570,LA Marsh,9706e64b,SF Daley,1f7825dd,0,0,0,0,0,,,,,,4,0,4
+551594,2012,West Indies,10,MR Aguilleira,4e7aa570,LA Marsh,9706e64b,SF Daley,1f7825dd,0,0,0,0,0,,,,,,1,0,1
+551594,2012,West Indies,10,SF Daley,1f7825dd,LA Marsh,9706e64b,MR Aguilleira,4e7aa570,0,0,0,0,1,SF Daley,1f7825dd,HL Colvin,d3a44255,caught,0,0,0
+551594,2012,West Indies,10,DJS Dottin,53bee17f,LA Marsh,9706e64b,MR Aguilleira,4e7aa570,0,0,0,0,0,,,,,,0,0,0
+551594,2012,West Indies,10,DJS Dottin,53bee17f,LA Marsh,9706e64b,MR Aguilleira,4e7aa570,0,0,0,0,0,,,,,,1,0,1
+551594,2012,West Indies,11,DJS Dottin,53bee17f,A Brindle,053dc208,MR Aguilleira,4e7aa570,0,0,0,0,0,,,,,,0,0,0
+551594,2012,West Indies,11,DJS Dottin,53bee17f,A Brindle,053dc208,MR Aguilleira,4e7aa570,0,0,0,0,0,,,,,,0,0,0
+551594,2012,West Indies,11,DJS Dottin,53bee17f,A Brindle,053dc208,MR Aguilleira,4e7aa570,0,0,0,0,1,DJS Dottin,53bee17f,A Shrubsole,32497ecd,caught,0,0,0
+551594,2012,West Indies,11,B Cooper,ac0edb42,A Brindle,053dc208,MR Aguilleira,4e7aa570,0,0,0,0,0,,,,,,0,0,0
+551594,2012,West Indies,11,B Cooper,ac0edb42,A Brindle,053dc208,MR Aguilleira,4e7aa570,0,0,0,0,0,,,,,,0,0,0
+551594,2012,West Indies,11,B Cooper,ac0edb42,A Brindle,053dc208,MR Aguilleira,4e7aa570,0,0,0,0,0,,,,,,0,0,0
+551594,2012,West Indies,12,MR Aguilleira,4e7aa570,HL Colvin,d3a44255,B Cooper,ac0edb42,0,0,0,0,0,,,,,,0,0,0
+551594,2012,West Indies,12,MR Aguilleira,4e7aa570,HL Colvin,d3a44255,B Cooper,ac0edb42,0,0,0,0,0,,,,,,0,0,0
+551594,2012,West Indies,12,MR Aguilleira,4e7aa570,HL Colvin,d3a44255,B Cooper,ac0edb42,0,0,0,0,0,,,,,,1,0,1
+551594,2012,West Indies,12,B Cooper,ac0edb42,HL Colvin,d3a44255,MR Aguilleira,4e7aa570,0,0,0,0,0,,,,,,1,0,1
+551594,2012,West Indies,12,MR Aguilleira,4e7aa570,HL Colvin,d3a44255,B Cooper,ac0edb42,0,0,0,0,0,,,,,,0,0,0
+551594,2012,West Indies,12,MR Aguilleira,4e7aa570,HL Colvin,d3a44255,B Cooper,ac0edb42,0,0,0,0,0,,,,,,0,0,0
+551594,2012,West Indies,13,B Cooper,ac0edb42,A Brindle,053dc208,MR Aguilleira,4e7aa570,0,0,0,0,0,,,,,,0,0,0
+551594,2012,West Indies,13,B Cooper,ac0edb42,A Brindle,053dc208,MR Aguilleira,4e7aa570,0,0,0,0,0,,,,,,2,0,2
+551594,2012,West Indies,13,B Cooper,ac0edb42,A Brindle,053dc208,MR Aguilleira,4e7aa570,0,0,0,0,0,,,,,,0,0,0
+551594,2012,West Indies,13,B Cooper,ac0edb42,A Brindle,053dc208,MR Aguilleira,4e7aa570,0,0,0,0,0,,,,,,0,0,0
+551594,2012,West Indies,13,B Cooper,ac0edb42,A Brindle,053dc208,MR Aguilleira,4e7aa570,0,0,0,0,0,,,,,,2,0,2
+551594,2012,West Indies,13,B Cooper,ac0edb42,A Brindle,053dc208,MR Aguilleira,4e7aa570,0,0,0,0,0,,,,,,1,0,1
+551594,2012,West Indies,14,B Cooper,ac0edb42,HL Colvin,d3a44255,MR Aguilleira,4e7aa570,0,0,0,0,0,,,,,,0,0,0
+551594,2012,West Indies,14,B Cooper,ac0edb42,HL Colvin,d3a44255,MR Aguilleira,4e7aa570,0,0,0,0,0,,,,,,4,0,4
+551594,2012,West Indies,14,B Cooper,ac0edb42,HL Colvin,d3a44255,MR Aguilleira,4e7aa570,0,0,0,0,0,,,,,,1,0,1
+551594,2012,West Indies,14,MR Aguilleira,4e7aa570,HL Colvin,d3a44255,B Cooper,ac0edb42,0,0,0,0,0,,,,,,1,0,1
+551594,2012,West Indies,14,B Cooper,ac0edb42,HL Colvin,d3a44255,MR Aguilleira,4e7aa570,0,0,0,0,0,,,,,,1,0,1
+551594,2012,West Indies,14,MR Aguilleira,4e7aa570,HL Colvin,d3a44255,B Cooper,ac0edb42,0,0,0,0,0,,,,,,1,0,1
+551594,2012,West Indies,15,MR Aguilleira,4e7aa570,DN Wyatt,a139c379,B Cooper,ac0edb42,0,0,0,0,0,,,,,,4,0,4
+551594,2012,West Indies,15,MR Aguilleira,4e7aa570,DN Wyatt,a139c379,B Cooper,ac0edb42,0,0,0,0,0,,,,,,4,0,4
+551594,2012,West Indies,15,MR Aguilleira,4e7aa570,DN Wyatt,a139c379,B Cooper,ac0edb42,0,0,0,0,0,,,,,,0,0,0
+551594,2012,West Indies,15,MR Aguilleira,4e7aa570,DN Wyatt,a139c379,B Cooper,ac0edb42,0,0,0,0,0,,,,,,4,0,4
+551594,2012,West Indies,15,MR Aguilleira,4e7aa570,DN Wyatt,a139c379,B Cooper,ac0edb42,0,0,0,0,0,,,,,,0,0,0
+551594,2012,West Indies,15,MR Aguilleira,4e7aa570,DN Wyatt,a139c379,B Cooper,ac0edb42,0,0,0,0,0,,,,,,0,0,0
+551594,2012,West Indies,16,B Cooper,ac0edb42,HL Colvin,d3a44255,MR Aguilleira,4e7aa570,0,0,0,0,0,,,,,,1,0,1
+551594,2012,West Indies,16,MR Aguilleira,4e7aa570,HL Colvin,d3a44255,B Cooper,ac0edb42,0,0,0,0,0,,,,,,2,0,2
+551594,2012,West Indies,16,MR Aguilleira,4e7aa570,HL Colvin,d3a44255,B Cooper,ac0edb42,0,0,0,0,0,,,,,,0,0,0
+551594,2012,West Indies,16,MR Aguilleira,4e7aa570,HL Colvin,d3a44255,B Cooper,ac0edb42,0,0,0,0,0,,,,,,1,0,1
+551594,2012,West Indies,16,B Cooper,ac0edb42,HL Colvin,d3a44255,MR Aguilleira,4e7aa570,0,0,0,0,0,,,,,,0,0,0
+551594,2012,West Indies,16,B Cooper,ac0edb42,HL Colvin,d3a44255,MR Aguilleira,4e7aa570,0,0,0,0,0,,,,,,4,0,4
+551594,2012,West Indies,17,MR Aguilleira,4e7aa570,A Brindle,053dc208,B Cooper,ac0edb42,0,0,0,0,0,,,,,,1,0,1
+551594,2012,West Indies,17,B Cooper,ac0edb42,A Brindle,053dc208,MR Aguilleira,4e7aa570,0,0,0,0,0,,,,,,2,0,2
+551594,2012,West Indies,17,B Cooper,ac0edb42,A Brindle,053dc208,MR Aguilleira,4e7aa570,0,0,0,0,0,,,,,,1,0,1
+551594,2012,West Indies,17,MR Aguilleira,4e7aa570,A Brindle,053dc208,B Cooper,ac0edb42,0,0,0,0,0,,,,,,1,0,1
+551594,2012,West Indies,17,B Cooper,ac0edb42,A Brindle,053dc208,MR Aguilleira,4e7aa570,0,0,0,0,1,B Cooper,ac0edb42,SE Rowe,711eda94,caught,0,0,0
+551594,2012,West Indies,17,MR Aguilleira,4e7aa570,A Brindle,053dc208,SACA King,77851c2d,0,0,0,0,0,,,,,,2,0,2
+551594,2012,West Indies,18,SACA King,77851c2d,LA Marsh,9706e64b,MR Aguilleira,4e7aa570,0,0,0,0,0,,,,,,1,0,1
+551594,2012,West Indies,18,MR Aguilleira,4e7aa570,LA Marsh,9706e64b,SACA King,77851c2d,0,0,0,0,0,,,,,,2,0,2
+551594,2012,West Indies,18,MR Aguilleira,4e7aa570,LA Marsh,9706e64b,SACA King,77851c2d,0,0,0,0,1,MR Aguilleira,4e7aa570,SJ Taylor,e6f36f83,stumped,0,0,0
+551594,2012,West Indies,18,SA Campbelle,a7cd72b2,LA Marsh,9706e64b,SACA King,77851c2d,0,0,0,0,0,,,,,,1,0,1
+551594,2012,West Indies,18,SACA King,77851c2d,LA Marsh,9706e64b,SA Campbelle,a7cd72b2,0,0,0,0,0,,,,,,3,0,3
+551594,2012,West Indies,18,SA Campbelle,a7cd72b2,LA Marsh,9706e64b,SACA King,77851c2d,0,0,0,0,0,,,,,,2,0,2
+551594,2012,West Indies,19,SACA King,77851c2d,A Shrubsole,32497ecd,SA Campbelle,a7cd72b2,0,0,0,0,0,,,,,,4,0,4
+551594,2012,West Indies,19,SACA King,77851c2d,A Shrubsole,32497ecd,SA Campbelle,a7cd72b2,0,0,0,0,0,,,,,,1,0,1
+551594,2012,West Indies,19,SA Campbelle,a7cd72b2,A Shrubsole,32497ecd,SACA King,77851c2d,0,0,0,0,0,,,,,,4,0,4
+551594,2012,West Indies,19,SA Campbelle,a7cd72b2,A Shrubsole,32497ecd,SACA King,77851c2d,0,0,0,0,0,,,,,,0,0,0
+551594,2012,West Indies,19,SA Campbelle,a7cd72b2,A Shrubsole,32497ecd,SACA King,77851c2d,0,0,0,0,0,,,,,,4,0,4
+551594,2012,West Indies,19,SA Campbelle,a7cd72b2,A Shrubsole,32497ecd,SACA King,77851c2d,0,0,0,0,0,,,,,,2,0,2

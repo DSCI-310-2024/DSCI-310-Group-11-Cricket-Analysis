@@ -1,0 +1,281 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1339555,2022/23,Spain,0,EMC Fowler,4f88a917,Farial Zia Safdar,36f7682b,P Chilongia,764d8336,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Spain,0,EMC Fowler,4f88a917,Farial Zia Safdar,36f7682b,P Chilongia,764d8336,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Spain,0,EMC Fowler,4f88a917,Farial Zia Safdar,36f7682b,P Chilongia,764d8336,0,0,0,0,0,,,,,,1,0,1
+1339555,2022/23,Spain,0,P Chilongia,764d8336,Farial Zia Safdar,36f7682b,EMC Fowler,4f88a917,0,1,0,0,0,,,,,,0,1,1
+1339555,2022/23,Spain,0,P Chilongia,764d8336,Farial Zia Safdar,36f7682b,EMC Fowler,4f88a917,1,0,0,0,0,,,,,,0,1,1
+1339555,2022/23,Spain,0,P Chilongia,764d8336,Farial Zia Safdar,36f7682b,EMC Fowler,4f88a917,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Spain,0,P Chilongia,764d8336,Farial Zia Safdar,36f7682b,EMC Fowler,4f88a917,0,0,0,0,0,,,,,,2,0,2
+1339555,2022/23,Spain,0,P Chilongia,764d8336,Farial Zia Safdar,36f7682b,EMC Fowler,4f88a917,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Spain,1,EMC Fowler,4f88a917,Hina Hussain,6501e421,P Chilongia,764d8336,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Spain,1,EMC Fowler,4f88a917,Hina Hussain,6501e421,P Chilongia,764d8336,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Spain,1,EMC Fowler,4f88a917,Hina Hussain,6501e421,P Chilongia,764d8336,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Spain,1,EMC Fowler,4f88a917,Hina Hussain,6501e421,P Chilongia,764d8336,0,0,0,0,0,,,,,,1,0,1
+1339555,2022/23,Spain,1,P Chilongia,764d8336,Hina Hussain,6501e421,EMC Fowler,4f88a917,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Spain,1,P Chilongia,764d8336,Hina Hussain,6501e421,EMC Fowler,4f88a917,0,0,0,0,1,P Chilongia,764d8336,R Immadi,baeae6dd,run out,0,0,0
+1339555,2022/23,Spain,2,Uswa Syed,cbc0e027,Farial Zia Safdar,36f7682b,EMC Fowler,4f88a917,0,0,0,0,0,,,,,,2,0,2
+1339555,2022/23,Spain,2,Uswa Syed,cbc0e027,Farial Zia Safdar,36f7682b,EMC Fowler,4f88a917,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Spain,2,Uswa Syed,cbc0e027,Farial Zia Safdar,36f7682b,EMC Fowler,4f88a917,0,0,0,0,0,,,,,,1,0,1
+1339555,2022/23,Spain,2,EMC Fowler,4f88a917,Farial Zia Safdar,36f7682b,Uswa Syed,cbc0e027,0,0,0,0,1,EMC Fowler,4f88a917,Mahnoor Akram,2b7c2d50,caught,0,0,0
+1339555,2022/23,Spain,2,NH Berejo,a9ec2608,Farial Zia Safdar,36f7682b,Uswa Syed,cbc0e027,0,0,0,0,0,,,,,,1,0,1
+1339555,2022/23,Spain,2,Uswa Syed,cbc0e027,Farial Zia Safdar,36f7682b,NH Berejo,a9ec2608,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Spain,3,NH Berejo,a9ec2608,Hina Hussain,6501e421,Uswa Syed,cbc0e027,0,0,0,0,0,,,,,,1,0,1
+1339555,2022/23,Spain,3,Uswa Syed,cbc0e027,Hina Hussain,6501e421,NH Berejo,a9ec2608,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Spain,3,Uswa Syed,cbc0e027,Hina Hussain,6501e421,NH Berejo,a9ec2608,0,0,0,0,0,,,,,,1,0,1
+1339555,2022/23,Spain,3,NH Berejo,a9ec2608,Hina Hussain,6501e421,Uswa Syed,cbc0e027,0,0,0,0,0,,,,,,1,0,1
+1339555,2022/23,Spain,3,Uswa Syed,cbc0e027,Hina Hussain,6501e421,NH Berejo,a9ec2608,0,0,0,0,0,,,,,,1,0,1
+1339555,2022/23,Spain,3,NH Berejo,a9ec2608,Hina Hussain,6501e421,Uswa Syed,cbc0e027,0,0,0,0,0,,,,,,4,0,4
+1339555,2022/23,Spain,4,Uswa Syed,cbc0e027,Ayesha Hasan,6a3de477,NH Berejo,a9ec2608,0,1,0,0,0,,,,,,0,1,1
+1339555,2022/23,Spain,4,Uswa Syed,cbc0e027,Ayesha Hasan,6a3de477,NH Berejo,a9ec2608,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Spain,4,Uswa Syed,cbc0e027,Ayesha Hasan,6a3de477,NH Berejo,a9ec2608,2,0,0,0,0,,,,,,0,2,2
+1339555,2022/23,Spain,4,NH Berejo,a9ec2608,Ayesha Hasan,6a3de477,Uswa Syed,cbc0e027,0,1,0,0,0,,,,,,0,1,1
+1339555,2022/23,Spain,4,NH Berejo,a9ec2608,Ayesha Hasan,6a3de477,Uswa Syed,cbc0e027,0,0,0,0,0,,,,,,1,0,1
+1339555,2022/23,Spain,4,Uswa Syed,cbc0e027,Ayesha Hasan,6a3de477,NH Berejo,a9ec2608,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Spain,4,Uswa Syed,cbc0e027,Ayesha Hasan,6a3de477,NH Berejo,a9ec2608,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Spain,4,Uswa Syed,cbc0e027,Ayesha Hasan,6a3de477,NH Berejo,a9ec2608,0,0,0,0,0,,,,,,2,0,2
+1339555,2022/23,Spain,4,Uswa Syed,cbc0e027,Ayesha Hasan,6a3de477,NH Berejo,a9ec2608,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Spain,5,NH Berejo,a9ec2608,R Immadi,baeae6dd,Uswa Syed,cbc0e027,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Spain,5,NH Berejo,a9ec2608,R Immadi,baeae6dd,Uswa Syed,cbc0e027,0,0,0,0,0,,,,,,1,0,1
+1339555,2022/23,Spain,5,Uswa Syed,cbc0e027,R Immadi,baeae6dd,NH Berejo,a9ec2608,0,0,0,0,0,,,,,,2,0,2
+1339555,2022/23,Spain,5,Uswa Syed,cbc0e027,R Immadi,baeae6dd,NH Berejo,a9ec2608,0,0,0,0,0,,,,,,1,0,1
+1339555,2022/23,Spain,5,NH Berejo,a9ec2608,R Immadi,baeae6dd,Uswa Syed,cbc0e027,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Spain,5,NH Berejo,a9ec2608,R Immadi,baeae6dd,Uswa Syed,cbc0e027,0,0,0,0,0,,,,,,1,0,1
+1339555,2022/23,Spain,6,NH Berejo,a9ec2608,Pooja Kumari,ff5051bd,Uswa Syed,cbc0e027,0,0,0,0,0,,,,,,1,0,1
+1339555,2022/23,Spain,6,Uswa Syed,cbc0e027,Pooja Kumari,ff5051bd,NH Berejo,a9ec2608,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Spain,6,Uswa Syed,cbc0e027,Pooja Kumari,ff5051bd,NH Berejo,a9ec2608,0,0,0,0,0,,,,,,2,0,2
+1339555,2022/23,Spain,6,Uswa Syed,cbc0e027,Pooja Kumari,ff5051bd,NH Berejo,a9ec2608,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Spain,6,Uswa Syed,cbc0e027,Pooja Kumari,ff5051bd,NH Berejo,a9ec2608,0,0,0,0,0,,,,,,1,0,1
+1339555,2022/23,Spain,6,NH Berejo,a9ec2608,Pooja Kumari,ff5051bd,Uswa Syed,cbc0e027,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Spain,7,Uswa Syed,cbc0e027,R Immadi,baeae6dd,NH Berejo,a9ec2608,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Spain,7,Uswa Syed,cbc0e027,R Immadi,baeae6dd,NH Berejo,a9ec2608,0,0,0,0,0,,,,,,1,0,1
+1339555,2022/23,Spain,7,NH Berejo,a9ec2608,R Immadi,baeae6dd,Uswa Syed,cbc0e027,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Spain,7,NH Berejo,a9ec2608,R Immadi,baeae6dd,Uswa Syed,cbc0e027,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Spain,7,NH Berejo,a9ec2608,R Immadi,baeae6dd,Uswa Syed,cbc0e027,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Spain,7,NH Berejo,a9ec2608,R Immadi,baeae6dd,Uswa Syed,cbc0e027,0,0,0,0,0,,,,,,1,0,1
+1339555,2022/23,Spain,8,NH Berejo,a9ec2608,Pooja Kumari,ff5051bd,Uswa Syed,cbc0e027,0,0,0,0,0,,,,,,1,0,1
+1339555,2022/23,Spain,8,Uswa Syed,cbc0e027,Pooja Kumari,ff5051bd,NH Berejo,a9ec2608,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Spain,8,Uswa Syed,cbc0e027,Pooja Kumari,ff5051bd,NH Berejo,a9ec2608,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Spain,8,Uswa Syed,cbc0e027,Pooja Kumari,ff5051bd,NH Berejo,a9ec2608,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Spain,8,Uswa Syed,cbc0e027,Pooja Kumari,ff5051bd,NH Berejo,a9ec2608,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Spain,8,Uswa Syed,cbc0e027,Pooja Kumari,ff5051bd,NH Berejo,a9ec2608,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Spain,9,NH Berejo,a9ec2608,R Immadi,baeae6dd,Uswa Syed,cbc0e027,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Spain,9,NH Berejo,a9ec2608,R Immadi,baeae6dd,Uswa Syed,cbc0e027,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Spain,9,NH Berejo,a9ec2608,R Immadi,baeae6dd,Uswa Syed,cbc0e027,0,0,0,0,0,,,,,,1,0,1
+1339555,2022/23,Spain,9,Uswa Syed,cbc0e027,R Immadi,baeae6dd,NH Berejo,a9ec2608,0,0,0,0,0,,,,,,1,0,1
+1339555,2022/23,Spain,9,NH Berejo,a9ec2608,R Immadi,baeae6dd,Uswa Syed,cbc0e027,0,0,0,0,0,,,,,,1,0,1
+1339555,2022/23,Spain,9,Uswa Syed,cbc0e027,R Immadi,baeae6dd,NH Berejo,a9ec2608,0,0,0,0,0,,,,,,1,0,1
+1339555,2022/23,Spain,10,Uswa Syed,cbc0e027,Pooja Kumari,ff5051bd,NH Berejo,a9ec2608,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Spain,10,Uswa Syed,cbc0e027,Pooja Kumari,ff5051bd,NH Berejo,a9ec2608,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Spain,10,Uswa Syed,cbc0e027,Pooja Kumari,ff5051bd,NH Berejo,a9ec2608,0,0,0,0,0,,,,,,1,0,1
+1339555,2022/23,Spain,10,NH Berejo,a9ec2608,Pooja Kumari,ff5051bd,Uswa Syed,cbc0e027,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Spain,10,NH Berejo,a9ec2608,Pooja Kumari,ff5051bd,Uswa Syed,cbc0e027,0,0,0,0,0,,,,,,1,0,1
+1339555,2022/23,Spain,10,Uswa Syed,cbc0e027,Pooja Kumari,ff5051bd,NH Berejo,a9ec2608,0,0,0,0,0,,,,,,4,0,4
+1339555,2022/23,Spain,11,NH Berejo,a9ec2608,Mirab Razwan,498031f9,Uswa Syed,cbc0e027,0,0,0,0,0,,,,,,1,0,1
+1339555,2022/23,Spain,11,Uswa Syed,cbc0e027,Mirab Razwan,498031f9,NH Berejo,a9ec2608,0,0,0,0,0,,,,,,1,0,1
+1339555,2022/23,Spain,11,NH Berejo,a9ec2608,Mirab Razwan,498031f9,Uswa Syed,cbc0e027,0,0,0,0,0,,,,,,2,0,2
+1339555,2022/23,Spain,11,NH Berejo,a9ec2608,Mirab Razwan,498031f9,Uswa Syed,cbc0e027,0,1,0,0,0,,,,,,0,1,1
+1339555,2022/23,Spain,11,NH Berejo,a9ec2608,Mirab Razwan,498031f9,Uswa Syed,cbc0e027,0,0,0,0,0,,,,,,4,0,4
+1339555,2022/23,Spain,11,NH Berejo,a9ec2608,Mirab Razwan,498031f9,Uswa Syed,cbc0e027,0,0,0,0,0,,,,,,1,0,1
+1339555,2022/23,Spain,11,Uswa Syed,cbc0e027,Mirab Razwan,498031f9,NH Berejo,a9ec2608,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Spain,12,NH Berejo,a9ec2608,Ayesha Hasan,6a3de477,Uswa Syed,cbc0e027,0,1,0,0,0,,,,,,4,1,5
+1339555,2022/23,Spain,12,NH Berejo,a9ec2608,Ayesha Hasan,6a3de477,Uswa Syed,cbc0e027,0,0,0,0,0,,,,,,1,0,1
+1339555,2022/23,Spain,12,Uswa Syed,cbc0e027,Ayesha Hasan,6a3de477,NH Berejo,a9ec2608,0,0,0,0,0,,,,,,1,0,1
+1339555,2022/23,Spain,12,NH Berejo,a9ec2608,Ayesha Hasan,6a3de477,Uswa Syed,cbc0e027,0,0,0,0,0,,,,,,1,0,1
+1339555,2022/23,Spain,12,Uswa Syed,cbc0e027,Ayesha Hasan,6a3de477,NH Berejo,a9ec2608,0,0,0,0,0,,,,,,1,0,1
+1339555,2022/23,Spain,12,NH Berejo,a9ec2608,Ayesha Hasan,6a3de477,Uswa Syed,cbc0e027,1,0,0,0,0,,,,,,0,1,1
+1339555,2022/23,Spain,12,NH Berejo,a9ec2608,Ayesha Hasan,6a3de477,Uswa Syed,cbc0e027,0,0,0,0,0,,,,,,2,0,2
+1339555,2022/23,Spain,12,NH Berejo,a9ec2608,Ayesha Hasan,6a3de477,Uswa Syed,cbc0e027,0,0,0,0,0,,,,,,1,0,1
+1339555,2022/23,Spain,13,NH Berejo,a9ec2608,R Immadi,baeae6dd,Uswa Syed,cbc0e027,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Spain,13,NH Berejo,a9ec2608,R Immadi,baeae6dd,Uswa Syed,cbc0e027,0,0,0,0,0,,,,,,1,0,1
+1339555,2022/23,Spain,13,Uswa Syed,cbc0e027,R Immadi,baeae6dd,NH Berejo,a9ec2608,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Spain,13,Uswa Syed,cbc0e027,R Immadi,baeae6dd,NH Berejo,a9ec2608,2,0,0,0,0,,,,,,0,2,2
+1339555,2022/23,Spain,13,NH Berejo,a9ec2608,R Immadi,baeae6dd,Uswa Syed,cbc0e027,0,0,0,0,0,,,,,,1,0,1
+1339555,2022/23,Spain,13,Uswa Syed,cbc0e027,R Immadi,baeae6dd,NH Berejo,a9ec2608,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Spain,13,Uswa Syed,cbc0e027,R Immadi,baeae6dd,NH Berejo,a9ec2608,2,0,0,0,0,,,,,,0,2,2
+1339555,2022/23,Spain,13,NH Berejo,a9ec2608,R Immadi,baeae6dd,Uswa Syed,cbc0e027,0,1,0,0,0,,,,,,2,1,3
+1339555,2022/23,Spain,13,NH Berejo,a9ec2608,R Immadi,baeae6dd,Uswa Syed,cbc0e027,0,0,0,0,0,,,,,,2,0,2
+1339555,2022/23,Spain,14,Uswa Syed,cbc0e027,Pooja Kumari,ff5051bd,NH Berejo,a9ec2608,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Spain,14,Uswa Syed,cbc0e027,Pooja Kumari,ff5051bd,NH Berejo,a9ec2608,1,0,0,0,0,,,,,,0,1,1
+1339555,2022/23,Spain,14,Uswa Syed,cbc0e027,Pooja Kumari,ff5051bd,NH Berejo,a9ec2608,0,0,0,0,1,Uswa Syed,cbc0e027,Farial Zia Safdar,36f7682b,caught,0,0,0
+1339555,2022/23,Spain,14,Wania Malik,1a35a2d3,Pooja Kumari,ff5051bd,NH Berejo,a9ec2608,0,0,0,0,0,,,,,,1,0,1
+1339555,2022/23,Spain,14,NH Berejo,a9ec2608,Pooja Kumari,ff5051bd,Wania Malik,1a35a2d3,0,0,0,0,1,Wania Malik,1a35a2d3,Ayesha Hasan,6a3de477,run out,0,0,0
+1339555,2022/23,Spain,14,NH Berejo,a9ec2608,Pooja Kumari,ff5051bd,A Brown-Carrera,9e866d80,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Spain,14,NH Berejo,a9ec2608,Pooja Kumari,ff5051bd,A Brown-Carrera,9e866d80,0,0,0,0,0,,,,,,4,0,4
+1339555,2022/23,Spain,15,A Brown-Carrera,9e866d80,Hina Hussain,6501e421,NH Berejo,a9ec2608,0,0,0,0,0,,,,,,1,0,1
+1339555,2022/23,Spain,15,NH Berejo,a9ec2608,Hina Hussain,6501e421,A Brown-Carrera,9e866d80,1,0,0,0,0,,,,,,0,1,1
+1339555,2022/23,Spain,15,NH Berejo,a9ec2608,Hina Hussain,6501e421,A Brown-Carrera,9e866d80,0,0,0,0,1,NH Berejo,a9ec2608,,,caught and bowled,0,0,0
+1339555,2022/23,Spain,15,Muskan Naseeb,517e1077,Hina Hussain,6501e421,A Brown-Carrera,9e866d80,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Spain,15,Muskan Naseeb,517e1077,Hina Hussain,6501e421,A Brown-Carrera,9e866d80,2,0,0,0,0,,,,,,0,2,2
+1339555,2022/23,Spain,15,A Brown-Carrera,9e866d80,Hina Hussain,6501e421,Muskan Naseeb,517e1077,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Spain,15,A Brown-Carrera,9e866d80,Hina Hussain,6501e421,Muskan Naseeb,517e1077,2,0,0,0,0,,,,,,0,2,2
+1339555,2022/23,Spain,15,Muskan Naseeb,517e1077,Hina Hussain,6501e421,A Brown-Carrera,9e866d80,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Spain,15,Muskan Naseeb,517e1077,Hina Hussain,6501e421,A Brown-Carrera,9e866d80,0,0,0,0,1,Muskan Naseeb,517e1077,,,bowled,0,0,0
+1339555,2022/23,Spain,16,A Brown-Carrera,9e866d80,Farial Zia Safdar,36f7682b,Rabia Iqbal,a3a5072b,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Spain,16,A Brown-Carrera,9e866d80,Farial Zia Safdar,36f7682b,Rabia Iqbal,a3a5072b,1,0,0,0,0,,,,,,0,1,1
+1339555,2022/23,Spain,16,A Brown-Carrera,9e866d80,Farial Zia Safdar,36f7682b,Rabia Iqbal,a3a5072b,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Spain,16,A Brown-Carrera,9e866d80,Farial Zia Safdar,36f7682b,Rabia Iqbal,a3a5072b,1,0,0,0,0,,,,,,0,1,1
+1339555,2022/23,Spain,16,A Brown-Carrera,9e866d80,Farial Zia Safdar,36f7682b,Rabia Iqbal,a3a5072b,1,0,0,0,0,,,,,,0,1,1
+1339555,2022/23,Spain,16,A Brown-Carrera,9e866d80,Farial Zia Safdar,36f7682b,Rabia Iqbal,a3a5072b,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Spain,16,A Brown-Carrera,9e866d80,Farial Zia Safdar,36f7682b,Rabia Iqbal,a3a5072b,0,0,0,0,0,,,,,,1,0,1
+1339555,2022/23,Spain,16,Rabia Iqbal,a3a5072b,Farial Zia Safdar,36f7682b,A Brown-Carrera,9e866d80,0,0,0,0,1,Rabia Iqbal,a3a5072b,Pooja Kumari,ff5051bd,caught,0,0,0
+1339555,2022/23,Spain,16,Tashiba Mirza,2020d4fd,Farial Zia Safdar,36f7682b,A Brown-Carrera,9e866d80,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Spain,17,A Brown-Carrera,9e866d80,Hina Hussain,6501e421,Tashiba Mirza,2020d4fd,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Spain,17,A Brown-Carrera,9e866d80,Hina Hussain,6501e421,Tashiba Mirza,2020d4fd,0,0,0,0,0,,,,,,1,0,1
+1339555,2022/23,Spain,17,Tashiba Mirza,2020d4fd,Hina Hussain,6501e421,A Brown-Carrera,9e866d80,0,1,0,0,0,,,,,,4,1,5
+1339555,2022/23,Spain,17,Tashiba Mirza,2020d4fd,Hina Hussain,6501e421,A Brown-Carrera,9e866d80,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Spain,17,Tashiba Mirza,2020d4fd,Hina Hussain,6501e421,A Brown-Carrera,9e866d80,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Spain,17,Tashiba Mirza,2020d4fd,Hina Hussain,6501e421,A Brown-Carrera,9e866d80,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Spain,17,Tashiba Mirza,2020d4fd,Hina Hussain,6501e421,A Brown-Carrera,9e866d80,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Spain,18,A Brown-Carrera,9e866d80,Lopamudra,ff4509d5,Tashiba Mirza,2020d4fd,0,0,0,0,0,,,,,,1,0,1
+1339555,2022/23,Spain,18,Tashiba Mirza,2020d4fd,Lopamudra,ff4509d5,A Brown-Carrera,9e866d80,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Spain,18,Tashiba Mirza,2020d4fd,Lopamudra,ff4509d5,A Brown-Carrera,9e866d80,0,0,0,0,0,,,,,,1,0,1
+1339555,2022/23,Spain,18,A Brown-Carrera,9e866d80,Lopamudra,ff4509d5,Tashiba Mirza,2020d4fd,0,0,0,0,0,,,,,,1,0,1
+1339555,2022/23,Spain,18,Tashiba Mirza,2020d4fd,Lopamudra,ff4509d5,A Brown-Carrera,9e866d80,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Spain,18,Tashiba Mirza,2020d4fd,Lopamudra,ff4509d5,A Brown-Carrera,9e866d80,0,1,0,0,0,,,,,,0,1,1
+1339555,2022/23,Spain,18,Tashiba Mirza,2020d4fd,Lopamudra,ff4509d5,A Brown-Carrera,9e866d80,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Spain,19,A Brown-Carrera,9e866d80,Farial Zia Safdar,36f7682b,Tashiba Mirza,2020d4fd,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Spain,19,A Brown-Carrera,9e866d80,Farial Zia Safdar,36f7682b,Tashiba Mirza,2020d4fd,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Spain,19,A Brown-Carrera,9e866d80,Farial Zia Safdar,36f7682b,Tashiba Mirza,2020d4fd,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Spain,19,A Brown-Carrera,9e866d80,Farial Zia Safdar,36f7682b,Tashiba Mirza,2020d4fd,0,0,0,0,0,,,,,,4,0,4
+1339555,2022/23,Spain,19,A Brown-Carrera,9e866d80,Farial Zia Safdar,36f7682b,Tashiba Mirza,2020d4fd,0,0,0,0,0,,,,,,2,0,2
+1339555,2022/23,Spain,19,A Brown-Carrera,9e866d80,Farial Zia Safdar,36f7682b,Tashiba Mirza,2020d4fd,0,0,0,0,0,,,,,,2,0,2
+1339555,2022/23,Norway,0,Ayesha Hasan,6a3de477,Uswa Syed,cbc0e027,Farial Zia Safdar,36f7682b,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Norway,0,Ayesha Hasan,6a3de477,Uswa Syed,cbc0e027,Farial Zia Safdar,36f7682b,0,0,0,0,0,,,,,,2,0,2
+1339555,2022/23,Norway,0,Ayesha Hasan,6a3de477,Uswa Syed,cbc0e027,Farial Zia Safdar,36f7682b,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Norway,0,Ayesha Hasan,6a3de477,Uswa Syed,cbc0e027,Farial Zia Safdar,36f7682b,0,0,0,0,0,,,,,,1,0,1
+1339555,2022/23,Norway,0,Farial Zia Safdar,36f7682b,Uswa Syed,cbc0e027,Ayesha Hasan,6a3de477,0,0,0,0,1,Farial Zia Safdar,36f7682b,,,caught and bowled,0,0,0
+1339555,2022/23,Norway,0,Pooja Kumari,ff5051bd,Uswa Syed,cbc0e027,Ayesha Hasan,6a3de477,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Norway,1,Ayesha Hasan,6a3de477,A Brown-Carrera,9e866d80,Pooja Kumari,ff5051bd,0,0,0,0,0,,,,,,1,0,1
+1339555,2022/23,Norway,1,Pooja Kumari,ff5051bd,A Brown-Carrera,9e866d80,Ayesha Hasan,6a3de477,2,0,0,0,0,,,,,,0,2,2
+1339555,2022/23,Norway,1,Ayesha Hasan,6a3de477,A Brown-Carrera,9e866d80,Pooja Kumari,ff5051bd,0,0,0,0,0,,,,,,4,0,4
+1339555,2022/23,Norway,1,Ayesha Hasan,6a3de477,A Brown-Carrera,9e866d80,Pooja Kumari,ff5051bd,0,0,0,1,0,,,,,,0,1,1
+1339555,2022/23,Norway,1,Pooja Kumari,ff5051bd,A Brown-Carrera,9e866d80,Ayesha Hasan,6a3de477,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Norway,1,Pooja Kumari,ff5051bd,A Brown-Carrera,9e866d80,Ayesha Hasan,6a3de477,0,0,0,0,0,,,,,,1,0,1
+1339555,2022/23,Norway,1,Ayesha Hasan,6a3de477,A Brown-Carrera,9e866d80,Pooja Kumari,ff5051bd,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Norway,2,Pooja Kumari,ff5051bd,Uswa Syed,cbc0e027,Ayesha Hasan,6a3de477,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Norway,2,Pooja Kumari,ff5051bd,Uswa Syed,cbc0e027,Ayesha Hasan,6a3de477,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Norway,2,Pooja Kumari,ff5051bd,Uswa Syed,cbc0e027,Ayesha Hasan,6a3de477,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Norway,2,Pooja Kumari,ff5051bd,Uswa Syed,cbc0e027,Ayesha Hasan,6a3de477,0,0,0,0,0,,,,,,1,0,1
+1339555,2022/23,Norway,2,Ayesha Hasan,6a3de477,Uswa Syed,cbc0e027,Pooja Kumari,ff5051bd,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Norway,2,Ayesha Hasan,6a3de477,Uswa Syed,cbc0e027,Pooja Kumari,ff5051bd,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Norway,3,Pooja Kumari,ff5051bd,A Brown-Carrera,9e866d80,Ayesha Hasan,6a3de477,1,0,0,0,0,,,,,,0,1,1
+1339555,2022/23,Norway,3,Pooja Kumari,ff5051bd,A Brown-Carrera,9e866d80,Ayesha Hasan,6a3de477,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Norway,3,Pooja Kumari,ff5051bd,A Brown-Carrera,9e866d80,Ayesha Hasan,6a3de477,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Norway,3,Pooja Kumari,ff5051bd,A Brown-Carrera,9e866d80,Ayesha Hasan,6a3de477,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Norway,3,Pooja Kumari,ff5051bd,A Brown-Carrera,9e866d80,Ayesha Hasan,6a3de477,0,0,0,0,0,,,,,,4,0,4
+1339555,2022/23,Norway,3,Pooja Kumari,ff5051bd,A Brown-Carrera,9e866d80,Ayesha Hasan,6a3de477,0,1,0,0,0,,,,,,0,1,1
+1339555,2022/23,Norway,3,Pooja Kumari,ff5051bd,A Brown-Carrera,9e866d80,Ayesha Hasan,6a3de477,1,0,0,0,0,,,,,,0,1,1
+1339555,2022/23,Norway,3,Pooja Kumari,ff5051bd,A Brown-Carrera,9e866d80,Ayesha Hasan,6a3de477,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Norway,3,Pooja Kumari,ff5051bd,A Brown-Carrera,9e866d80,Ayesha Hasan,6a3de477,0,0,0,0,0,,,,,,1,0,1
+1339555,2022/23,Norway,4,Pooja Kumari,ff5051bd,Uswa Syed,cbc0e027,Ayesha Hasan,6a3de477,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Norway,4,Pooja Kumari,ff5051bd,Uswa Syed,cbc0e027,Ayesha Hasan,6a3de477,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Norway,4,Pooja Kumari,ff5051bd,Uswa Syed,cbc0e027,Ayesha Hasan,6a3de477,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Norway,4,Pooja Kumari,ff5051bd,Uswa Syed,cbc0e027,Ayesha Hasan,6a3de477,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Norway,4,Pooja Kumari,ff5051bd,Uswa Syed,cbc0e027,Ayesha Hasan,6a3de477,0,0,0,0,0,,,,,,1,0,1
+1339555,2022/23,Norway,4,Ayesha Hasan,6a3de477,Uswa Syed,cbc0e027,Pooja Kumari,ff5051bd,1,0,0,0,0,,,,,,0,1,1
+1339555,2022/23,Norway,4,Ayesha Hasan,6a3de477,Uswa Syed,cbc0e027,Pooja Kumari,ff5051bd,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Norway,5,Pooja Kumari,ff5051bd,NH Berejo,a9ec2608,Ayesha Hasan,6a3de477,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Norway,5,Pooja Kumari,ff5051bd,NH Berejo,a9ec2608,Ayesha Hasan,6a3de477,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Norway,5,Pooja Kumari,ff5051bd,NH Berejo,a9ec2608,Ayesha Hasan,6a3de477,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Norway,5,Pooja Kumari,ff5051bd,NH Berejo,a9ec2608,Ayesha Hasan,6a3de477,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Norway,5,Pooja Kumari,ff5051bd,NH Berejo,a9ec2608,Ayesha Hasan,6a3de477,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Norway,5,Pooja Kumari,ff5051bd,NH Berejo,a9ec2608,Ayesha Hasan,6a3de477,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Norway,6,Ayesha Hasan,6a3de477,Uswa Syed,cbc0e027,Pooja Kumari,ff5051bd,0,0,0,0,0,,,,,,4,0,4
+1339555,2022/23,Norway,6,Ayesha Hasan,6a3de477,Uswa Syed,cbc0e027,Pooja Kumari,ff5051bd,0,0,0,0,0,,,,,,1,0,1
+1339555,2022/23,Norway,6,Pooja Kumari,ff5051bd,Uswa Syed,cbc0e027,Ayesha Hasan,6a3de477,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Norway,6,Pooja Kumari,ff5051bd,Uswa Syed,cbc0e027,Ayesha Hasan,6a3de477,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Norway,6,Pooja Kumari,ff5051bd,Uswa Syed,cbc0e027,Ayesha Hasan,6a3de477,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Norway,6,Pooja Kumari,ff5051bd,Uswa Syed,cbc0e027,Ayesha Hasan,6a3de477,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Norway,7,Ayesha Hasan,6a3de477,NH Berejo,a9ec2608,Pooja Kumari,ff5051bd,0,0,0,0,0,,,,,,1,0,1
+1339555,2022/23,Norway,7,Pooja Kumari,ff5051bd,NH Berejo,a9ec2608,Ayesha Hasan,6a3de477,0,0,0,0,0,,,,,,1,0,1
+1339555,2022/23,Norway,7,Ayesha Hasan,6a3de477,NH Berejo,a9ec2608,Pooja Kumari,ff5051bd,0,0,0,0,0,,,,,,1,0,1
+1339555,2022/23,Norway,7,Pooja Kumari,ff5051bd,NH Berejo,a9ec2608,Ayesha Hasan,6a3de477,0,0,0,0,0,,,,,,1,0,1
+1339555,2022/23,Norway,7,Ayesha Hasan,6a3de477,NH Berejo,a9ec2608,Pooja Kumari,ff5051bd,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Norway,7,Ayesha Hasan,6a3de477,NH Berejo,a9ec2608,Pooja Kumari,ff5051bd,0,0,0,0,0,,,,,,2,0,2
+1339555,2022/23,Norway,8,Pooja Kumari,ff5051bd,P Chilongia,764d8336,Ayesha Hasan,6a3de477,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Norway,8,Pooja Kumari,ff5051bd,P Chilongia,764d8336,Ayesha Hasan,6a3de477,0,0,0,0,1,Pooja Kumari,ff5051bd,,,bowled,0,0,0
+1339555,2022/23,Norway,8,R Immadi,baeae6dd,P Chilongia,764d8336,Ayesha Hasan,6a3de477,2,0,0,0,0,,,,,,0,2,2
+1339555,2022/23,Norway,8,Ayesha Hasan,6a3de477,P Chilongia,764d8336,R Immadi,baeae6dd,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Norway,8,Ayesha Hasan,6a3de477,P Chilongia,764d8336,R Immadi,baeae6dd,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Norway,8,Ayesha Hasan,6a3de477,P Chilongia,764d8336,R Immadi,baeae6dd,0,0,0,0,0,,,,,,2,0,2
+1339555,2022/23,Norway,8,Ayesha Hasan,6a3de477,P Chilongia,764d8336,R Immadi,baeae6dd,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Norway,9,R Immadi,baeae6dd,JG Kaur,045e73c2,Ayesha Hasan,6a3de477,0,0,0,0,0,,,,,,2,0,2
+1339555,2022/23,Norway,9,R Immadi,baeae6dd,JG Kaur,045e73c2,Ayesha Hasan,6a3de477,0,0,0,0,0,,,,,,1,0,1
+1339555,2022/23,Norway,9,Ayesha Hasan,6a3de477,JG Kaur,045e73c2,R Immadi,baeae6dd,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Norway,9,Ayesha Hasan,6a3de477,JG Kaur,045e73c2,R Immadi,baeae6dd,0,0,0,0,0,,,,,,1,0,1
+1339555,2022/23,Norway,9,R Immadi,baeae6dd,JG Kaur,045e73c2,Ayesha Hasan,6a3de477,1,0,0,0,0,,,,,,0,1,1
+1339555,2022/23,Norway,9,R Immadi,baeae6dd,JG Kaur,045e73c2,Ayesha Hasan,6a3de477,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Norway,9,R Immadi,baeae6dd,JG Kaur,045e73c2,Ayesha Hasan,6a3de477,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Norway,10,Ayesha Hasan,6a3de477,P Chilongia,764d8336,R Immadi,baeae6dd,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Norway,10,Ayesha Hasan,6a3de477,P Chilongia,764d8336,R Immadi,baeae6dd,0,0,0,0,0,,,,,,1,0,1
+1339555,2022/23,Norway,10,R Immadi,baeae6dd,P Chilongia,764d8336,Ayesha Hasan,6a3de477,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Norway,10,R Immadi,baeae6dd,P Chilongia,764d8336,Ayesha Hasan,6a3de477,0,0,0,0,0,,,,,,2,0,2
+1339555,2022/23,Norway,10,R Immadi,baeae6dd,P Chilongia,764d8336,Ayesha Hasan,6a3de477,1,0,0,0,0,,,,,,0,1,1
+1339555,2022/23,Norway,10,R Immadi,baeae6dd,P Chilongia,764d8336,Ayesha Hasan,6a3de477,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Norway,10,R Immadi,baeae6dd,P Chilongia,764d8336,Ayesha Hasan,6a3de477,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Norway,11,Ayesha Hasan,6a3de477,JG Kaur,045e73c2,R Immadi,baeae6dd,0,0,0,1,0,,,,,,0,1,1
+1339555,2022/23,Norway,11,R Immadi,baeae6dd,JG Kaur,045e73c2,Ayesha Hasan,6a3de477,1,0,0,0,0,,,,,,0,1,1
+1339555,2022/23,Norway,11,R Immadi,baeae6dd,JG Kaur,045e73c2,Ayesha Hasan,6a3de477,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Norway,11,R Immadi,baeae6dd,JG Kaur,045e73c2,Ayesha Hasan,6a3de477,0,0,0,0,0,,,,,,1,0,1
+1339555,2022/23,Norway,11,Ayesha Hasan,6a3de477,JG Kaur,045e73c2,R Immadi,baeae6dd,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Norway,11,Ayesha Hasan,6a3de477,JG Kaur,045e73c2,R Immadi,baeae6dd,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Norway,11,Ayesha Hasan,6a3de477,JG Kaur,045e73c2,R Immadi,baeae6dd,0,1,0,0,0,,,,,,1,1,2
+1339555,2022/23,Norway,11,R Immadi,baeae6dd,JG Kaur,045e73c2,Ayesha Hasan,6a3de477,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Norway,12,Ayesha Hasan,6a3de477,Wania Malik,1a35a2d3,R Immadi,baeae6dd,0,0,0,0,0,,,,,,1,0,1
+1339555,2022/23,Norway,12,R Immadi,baeae6dd,Wania Malik,1a35a2d3,Ayesha Hasan,6a3de477,1,0,0,0,0,,,,,,0,1,1
+1339555,2022/23,Norway,12,R Immadi,baeae6dd,Wania Malik,1a35a2d3,Ayesha Hasan,6a3de477,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Norway,12,R Immadi,baeae6dd,Wania Malik,1a35a2d3,Ayesha Hasan,6a3de477,0,0,0,0,1,R Immadi,baeae6dd,,,lbw,0,0,0
+1339555,2022/23,Norway,12,Bijeyata Kumari,a5fc18a7,Wania Malik,1a35a2d3,Ayesha Hasan,6a3de477,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Norway,12,Bijeyata Kumari,a5fc18a7,Wania Malik,1a35a2d3,Ayesha Hasan,6a3de477,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Norway,12,Bijeyata Kumari,a5fc18a7,Wania Malik,1a35a2d3,Ayesha Hasan,6a3de477,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Norway,13,Ayesha Hasan,6a3de477,JG Kaur,045e73c2,Bijeyata Kumari,a5fc18a7,0,0,0,0,0,,,,,,4,0,4
+1339555,2022/23,Norway,13,Ayesha Hasan,6a3de477,JG Kaur,045e73c2,Bijeyata Kumari,a5fc18a7,0,0,0,0,0,,,,,,2,0,2
+1339555,2022/23,Norway,13,Ayesha Hasan,6a3de477,JG Kaur,045e73c2,Bijeyata Kumari,a5fc18a7,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Norway,13,Ayesha Hasan,6a3de477,JG Kaur,045e73c2,Bijeyata Kumari,a5fc18a7,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Norway,13,Ayesha Hasan,6a3de477,JG Kaur,045e73c2,Bijeyata Kumari,a5fc18a7,1,0,0,0,0,,,,,,0,1,1
+1339555,2022/23,Norway,13,Ayesha Hasan,6a3de477,JG Kaur,045e73c2,Bijeyata Kumari,a5fc18a7,0,0,0,0,0,,,,,,1,0,1
+1339555,2022/23,Norway,13,Bijeyata Kumari,a5fc18a7,JG Kaur,045e73c2,Ayesha Hasan,6a3de477,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Norway,14,Ayesha Hasan,6a3de477,Wania Malik,1a35a2d3,Bijeyata Kumari,a5fc18a7,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Norway,14,Ayesha Hasan,6a3de477,Wania Malik,1a35a2d3,Bijeyata Kumari,a5fc18a7,0,0,0,0,0,,,,,,1,0,1
+1339555,2022/23,Norway,14,Bijeyata Kumari,a5fc18a7,Wania Malik,1a35a2d3,Ayesha Hasan,6a3de477,1,0,0,0,0,,,,,,0,1,1
+1339555,2022/23,Norway,14,Bijeyata Kumari,a5fc18a7,Wania Malik,1a35a2d3,Ayesha Hasan,6a3de477,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Norway,14,Bijeyata Kumari,a5fc18a7,Wania Malik,1a35a2d3,Ayesha Hasan,6a3de477,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Norway,14,Bijeyata Kumari,a5fc18a7,Wania Malik,1a35a2d3,Ayesha Hasan,6a3de477,1,0,0,0,0,,,,,,0,1,1
+1339555,2022/23,Norway,14,Bijeyata Kumari,a5fc18a7,Wania Malik,1a35a2d3,Ayesha Hasan,6a3de477,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Norway,14,Bijeyata Kumari,a5fc18a7,Wania Malik,1a35a2d3,Ayesha Hasan,6a3de477,0,0,0,0,0,,,,,,1,0,1
+1339555,2022/23,Norway,15,Bijeyata Kumari,a5fc18a7,A Brown-Carrera,9e866d80,Ayesha Hasan,6a3de477,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Norway,15,Bijeyata Kumari,a5fc18a7,A Brown-Carrera,9e866d80,Ayesha Hasan,6a3de477,0,0,0,0,0,,,,,,1,0,1
+1339555,2022/23,Norway,15,Ayesha Hasan,6a3de477,A Brown-Carrera,9e866d80,Bijeyata Kumari,a5fc18a7,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Norway,15,Ayesha Hasan,6a3de477,A Brown-Carrera,9e866d80,Bijeyata Kumari,a5fc18a7,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Norway,15,Ayesha Hasan,6a3de477,A Brown-Carrera,9e866d80,Bijeyata Kumari,a5fc18a7,0,1,0,0,0,,,,,,0,1,1
+1339555,2022/23,Norway,15,Ayesha Hasan,6a3de477,A Brown-Carrera,9e866d80,Bijeyata Kumari,a5fc18a7,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Norway,15,Ayesha Hasan,6a3de477,A Brown-Carrera,9e866d80,Bijeyata Kumari,a5fc18a7,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Norway,16,Bijeyata Kumari,a5fc18a7,P Chilongia,764d8336,Ayesha Hasan,6a3de477,1,0,0,0,0,,,,,,0,1,1
+1339555,2022/23,Norway,16,Bijeyata Kumari,a5fc18a7,P Chilongia,764d8336,Ayesha Hasan,6a3de477,1,0,0,0,0,,,,,,0,1,1
+1339555,2022/23,Norway,16,Bijeyata Kumari,a5fc18a7,P Chilongia,764d8336,Ayesha Hasan,6a3de477,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Norway,16,Bijeyata Kumari,a5fc18a7,P Chilongia,764d8336,Ayesha Hasan,6a3de477,0,0,0,0,1,Bijeyata Kumari,a5fc18a7,,,bowled,0,0,0
+1339555,2022/23,Norway,16,Mahnoor Akram,2b7c2d50,P Chilongia,764d8336,Ayesha Hasan,6a3de477,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Norway,16,Mahnoor Akram,2b7c2d50,P Chilongia,764d8336,Ayesha Hasan,6a3de477,0,0,0,0,1,Mahnoor Akram,2b7c2d50,,,bowled,0,0,0
+1339555,2022/23,Norway,16,Hina Hussain,6501e421,P Chilongia,764d8336,Ayesha Hasan,6a3de477,0,0,0,0,0,,,,,,1,0,1
+1339555,2022/23,Norway,16,Ayesha Hasan,6a3de477,P Chilongia,764d8336,Hina Hussain,6501e421,0,0,0,0,0,,,,,,1,0,1
+1339555,2022/23,Norway,17,Ayesha Hasan,6a3de477,A Brown-Carrera,9e866d80,Hina Hussain,6501e421,0,0,0,0,1,Hina Hussain,6501e421,A Brown-Carrera,9e866d80,run out,1,0,1
+1339555,2022/23,Norway,17,Ayesha Hasan,6a3de477,A Brown-Carrera,9e866d80,S Kunaratnam,911eb7a7,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Norway,17,Ayesha Hasan,6a3de477,A Brown-Carrera,9e866d80,S Kunaratnam,911eb7a7,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Norway,17,Ayesha Hasan,6a3de477,A Brown-Carrera,9e866d80,S Kunaratnam,911eb7a7,0,0,0,0,1,Ayesha Hasan,6a3de477,,,caught and bowled,0,0,0
+1339555,2022/23,Norway,17,Lopamudra,ff4509d5,A Brown-Carrera,9e866d80,S Kunaratnam,911eb7a7,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Norway,17,Lopamudra,ff4509d5,A Brown-Carrera,9e866d80,S Kunaratnam,911eb7a7,1,0,0,0,0,,,,,,0,1,1
+1339555,2022/23,Norway,17,Lopamudra,ff4509d5,A Brown-Carrera,9e866d80,S Kunaratnam,911eb7a7,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Norway,18,S Kunaratnam,911eb7a7,P Chilongia,764d8336,Lopamudra,ff4509d5,1,0,0,0,0,,,,,,0,1,1
+1339555,2022/23,Norway,18,S Kunaratnam,911eb7a7,P Chilongia,764d8336,Lopamudra,ff4509d5,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Norway,18,S Kunaratnam,911eb7a7,P Chilongia,764d8336,Lopamudra,ff4509d5,0,0,0,0,0,,,,,,1,0,1
+1339555,2022/23,Norway,18,Lopamudra,ff4509d5,P Chilongia,764d8336,S Kunaratnam,911eb7a7,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Norway,18,Lopamudra,ff4509d5,P Chilongia,764d8336,S Kunaratnam,911eb7a7,1,0,0,0,0,,,,,,0,1,1
+1339555,2022/23,Norway,18,Lopamudra,ff4509d5,P Chilongia,764d8336,S Kunaratnam,911eb7a7,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Norway,18,Lopamudra,ff4509d5,P Chilongia,764d8336,S Kunaratnam,911eb7a7,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Norway,18,Lopamudra,ff4509d5,P Chilongia,764d8336,S Kunaratnam,911eb7a7,0,0,0,0,0,,,,,,2,0,2
+1339555,2022/23,Norway,19,S Kunaratnam,911eb7a7,NH Berejo,a9ec2608,Lopamudra,ff4509d5,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Norway,19,S Kunaratnam,911eb7a7,NH Berejo,a9ec2608,Lopamudra,ff4509d5,0,0,0,0,1,Lopamudra,ff4509d5,Uswa Syed,cbc0e027,run out,0,0,0
+1339555,2022/23,Norway,19,S Kunaratnam,911eb7a7,NH Berejo,a9ec2608,A Rautela,e113c6c7,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Norway,19,S Kunaratnam,911eb7a7,NH Berejo,a9ec2608,A Rautela,e113c6c7,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Norway,19,S Kunaratnam,911eb7a7,NH Berejo,a9ec2608,A Rautela,e113c6c7,0,0,0,0,0,,,,,,0,0,0
+1339555,2022/23,Norway,19,S Kunaratnam,911eb7a7,NH Berejo,a9ec2608,A Rautela,e113c6c7,0,0,0,1,0,,,,,,0,1,1

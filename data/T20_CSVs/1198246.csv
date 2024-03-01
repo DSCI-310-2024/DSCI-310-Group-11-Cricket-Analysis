@@ -1,0 +1,250 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1198246,2020,Pakistan,0,Babar Azam,8a75e999,S Mahmood,0f6db197,Fakhar Zaman,1777c020,0,0,0,0,0,,,,,,0,0,0
+1198246,2020,Pakistan,0,Babar Azam,8a75e999,S Mahmood,0f6db197,Fakhar Zaman,1777c020,0,0,0,0,0,,,,,,0,0,0
+1198246,2020,Pakistan,0,Babar Azam,8a75e999,S Mahmood,0f6db197,Fakhar Zaman,1777c020,0,0,0,0,0,,,,,,1,0,1
+1198246,2020,Pakistan,0,Fakhar Zaman,1777c020,S Mahmood,0f6db197,Babar Azam,8a75e999,0,0,0,0,0,,,,,,0,0,0
+1198246,2020,Pakistan,0,Fakhar Zaman,1777c020,S Mahmood,0f6db197,Babar Azam,8a75e999,0,0,0,0,0,,,,,,1,0,1
+1198246,2020,Pakistan,0,Babar Azam,8a75e999,S Mahmood,0f6db197,Fakhar Zaman,1777c020,0,0,0,0,0,,,,,,0,0,0
+1198246,2020,Pakistan,1,Fakhar Zaman,1777c020,MM Ali,bb351c23,Babar Azam,8a75e999,0,0,0,0,1,Fakhar Zaman,1777c020,,,bowled,0,0,0
+1198246,2020,Pakistan,1,Haider Ali,c13e34f4,MM Ali,bb351c23,Babar Azam,8a75e999,0,0,0,0,0,,,,,,1,0,1
+1198246,2020,Pakistan,1,Babar Azam,8a75e999,MM Ali,bb351c23,Haider Ali,c13e34f4,0,0,0,0,0,,,,,,1,0,1
+1198246,2020,Pakistan,1,Haider Ali,c13e34f4,MM Ali,bb351c23,Babar Azam,8a75e999,0,0,0,0,0,,,,,,6,0,6
+1198246,2020,Pakistan,1,Haider Ali,c13e34f4,MM Ali,bb351c23,Babar Azam,8a75e999,0,0,0,0,0,,,,,,1,0,1
+1198246,2020,Pakistan,1,Babar Azam,8a75e999,MM Ali,bb351c23,Haider Ali,c13e34f4,0,0,0,0,0,,,,,,1,0,1
+1198246,2020,Pakistan,2,Babar Azam,8a75e999,S Mahmood,0f6db197,Haider Ali,c13e34f4,0,0,0,0,0,,,,,,1,0,1
+1198246,2020,Pakistan,2,Haider Ali,c13e34f4,S Mahmood,0f6db197,Babar Azam,8a75e999,0,0,0,0,0,,,,,,1,0,1
+1198246,2020,Pakistan,2,Babar Azam,8a75e999,S Mahmood,0f6db197,Haider Ali,c13e34f4,0,0,0,0,0,,,,,,4,0,4
+1198246,2020,Pakistan,2,Babar Azam,8a75e999,S Mahmood,0f6db197,Haider Ali,c13e34f4,0,0,0,0,0,,,,,,4,0,4
+1198246,2020,Pakistan,2,Babar Azam,8a75e999,S Mahmood,0f6db197,Haider Ali,c13e34f4,0,0,0,0,0,,,,,,4,0,4
+1198246,2020,Pakistan,2,Babar Azam,8a75e999,S Mahmood,0f6db197,Haider Ali,c13e34f4,0,0,0,0,0,,,,,,1,0,1
+1198246,2020,Pakistan,3,Babar Azam,8a75e999,CJ Jordan,ffe699c0,Haider Ali,c13e34f4,0,0,0,0,0,,,,,,0,0,0
+1198246,2020,Pakistan,3,Babar Azam,8a75e999,CJ Jordan,ffe699c0,Haider Ali,c13e34f4,0,0,0,0,0,,,,,,0,0,0
+1198246,2020,Pakistan,3,Babar Azam,8a75e999,CJ Jordan,ffe699c0,Haider Ali,c13e34f4,0,0,0,0,0,,,,,,2,0,2
+1198246,2020,Pakistan,3,Babar Azam,8a75e999,CJ Jordan,ffe699c0,Haider Ali,c13e34f4,0,0,0,0,0,,,,,,1,0,1
+1198246,2020,Pakistan,3,Haider Ali,c13e34f4,CJ Jordan,ffe699c0,Babar Azam,8a75e999,0,0,1,0,0,,,,,,0,1,1
+1198246,2020,Pakistan,3,Babar Azam,8a75e999,CJ Jordan,ffe699c0,Haider Ali,c13e34f4,0,0,0,0,0,,,,,,1,0,1
+1198246,2020,Pakistan,4,Babar Azam,8a75e999,TK Curran,e86754b2,Haider Ali,c13e34f4,0,0,0,0,0,,,,,,0,0,0
+1198246,2020,Pakistan,4,Babar Azam,8a75e999,TK Curran,e86754b2,Haider Ali,c13e34f4,0,0,0,0,1,Babar Azam,8a75e999,,,bowled,0,0,0
+1198246,2020,Pakistan,4,Mohammad Hafeez,9ab63e7b,TK Curran,e86754b2,Haider Ali,c13e34f4,0,0,0,0,0,,,,,,0,0,0
+1198246,2020,Pakistan,4,Mohammad Hafeez,9ab63e7b,TK Curran,e86754b2,Haider Ali,c13e34f4,0,0,0,0,0,,,,,,1,0,1
+1198246,2020,Pakistan,4,Haider Ali,c13e34f4,TK Curran,e86754b2,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,0,0,0
+1198246,2020,Pakistan,4,Haider Ali,c13e34f4,TK Curran,e86754b2,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,4,0,4
+1198246,2020,Pakistan,5,Mohammad Hafeez,9ab63e7b,CJ Jordan,ffe699c0,Haider Ali,c13e34f4,0,0,0,0,0,,,,,,1,0,1
+1198246,2020,Pakistan,5,Haider Ali,c13e34f4,CJ Jordan,ffe699c0,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,4,0,4
+1198246,2020,Pakistan,5,Haider Ali,c13e34f4,CJ Jordan,ffe699c0,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,4,0,4
+1198246,2020,Pakistan,5,Haider Ali,c13e34f4,CJ Jordan,ffe699c0,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,1,0,1
+1198246,2020,Pakistan,5,Mohammad Hafeez,9ab63e7b,CJ Jordan,ffe699c0,Haider Ali,c13e34f4,0,0,0,0,0,,,,,,0,0,0
+1198246,2020,Pakistan,5,Mohammad Hafeez,9ab63e7b,CJ Jordan,ffe699c0,Haider Ali,c13e34f4,0,0,0,0,0,,,,,,0,0,0
+1198246,2020,Pakistan,6,Haider Ali,c13e34f4,TK Curran,e86754b2,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,1,0,1
+1198246,2020,Pakistan,6,Mohammad Hafeez,9ab63e7b,TK Curran,e86754b2,Haider Ali,c13e34f4,0,0,0,0,0,,,,,,0,0,0
+1198246,2020,Pakistan,6,Mohammad Hafeez,9ab63e7b,TK Curran,e86754b2,Haider Ali,c13e34f4,0,0,0,0,0,,,,,,4,0,4
+1198246,2020,Pakistan,6,Mohammad Hafeez,9ab63e7b,TK Curran,e86754b2,Haider Ali,c13e34f4,0,0,0,0,0,,,,,,1,0,1
+1198246,2020,Pakistan,6,Haider Ali,c13e34f4,TK Curran,e86754b2,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,1,0,1
+1198246,2020,Pakistan,6,Mohammad Hafeez,9ab63e7b,TK Curran,e86754b2,Haider Ali,c13e34f4,0,0,0,0,0,,,,,,0,0,0
+1198246,2020,Pakistan,7,Haider Ali,c13e34f4,L Gregory,06c2de82,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,6,0,6
+1198246,2020,Pakistan,7,Haider Ali,c13e34f4,L Gregory,06c2de82,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,1,0,1
+1198246,2020,Pakistan,7,Mohammad Hafeez,9ab63e7b,L Gregory,06c2de82,Haider Ali,c13e34f4,0,0,0,0,0,,,,,,1,0,1
+1198246,2020,Pakistan,7,Haider Ali,c13e34f4,L Gregory,06c2de82,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,1,0,1
+1198246,2020,Pakistan,7,Mohammad Hafeez,9ab63e7b,L Gregory,06c2de82,Haider Ali,c13e34f4,0,0,0,0,0,,,,,,1,0,1
+1198246,2020,Pakistan,7,Haider Ali,c13e34f4,L Gregory,06c2de82,Mohammad Hafeez,9ab63e7b,1,0,0,0,0,,,,,,0,1,1
+1198246,2020,Pakistan,7,Haider Ali,c13e34f4,L Gregory,06c2de82,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,1,0,1
+1198246,2020,Pakistan,8,Haider Ali,c13e34f4,AU Rashid,249d60c9,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,2,0,2
+1198246,2020,Pakistan,8,Haider Ali,c13e34f4,AU Rashid,249d60c9,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,2,0,2
+1198246,2020,Pakistan,8,Haider Ali,c13e34f4,AU Rashid,249d60c9,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,1,0,1
+1198246,2020,Pakistan,8,Mohammad Hafeez,9ab63e7b,AU Rashid,249d60c9,Haider Ali,c13e34f4,0,0,0,0,0,,,,,,4,0,4
+1198246,2020,Pakistan,8,Mohammad Hafeez,9ab63e7b,AU Rashid,249d60c9,Haider Ali,c13e34f4,0,0,0,0,0,,,,,,1,0,1
+1198246,2020,Pakistan,8,Haider Ali,c13e34f4,AU Rashid,249d60c9,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,1,0,1
+1198246,2020,Pakistan,9,Haider Ali,c13e34f4,L Gregory,06c2de82,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,0,0,0
+1198246,2020,Pakistan,9,Haider Ali,c13e34f4,L Gregory,06c2de82,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,4,0,4
+1198246,2020,Pakistan,9,Haider Ali,c13e34f4,L Gregory,06c2de82,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,1,0,1
+1198246,2020,Pakistan,9,Mohammad Hafeez,9ab63e7b,L Gregory,06c2de82,Haider Ali,c13e34f4,0,0,0,0,0,,,,,,2,0,2
+1198246,2020,Pakistan,9,Mohammad Hafeez,9ab63e7b,L Gregory,06c2de82,Haider Ali,c13e34f4,0,0,0,0,0,,,,,,0,0,0
+1198246,2020,Pakistan,9,Mohammad Hafeez,9ab63e7b,L Gregory,06c2de82,Haider Ali,c13e34f4,0,0,0,0,0,,,,,,0,0,0
+1198246,2020,Pakistan,10,Haider Ali,c13e34f4,AU Rashid,249d60c9,Mohammad Hafeez,9ab63e7b,2,0,0,0,0,,,,,,0,2,2
+1198246,2020,Pakistan,10,Mohammad Hafeez,9ab63e7b,AU Rashid,249d60c9,Haider Ali,c13e34f4,0,0,0,0,0,,,,,,0,0,0
+1198246,2020,Pakistan,10,Mohammad Hafeez,9ab63e7b,AU Rashid,249d60c9,Haider Ali,c13e34f4,0,0,0,0,0,,,,,,1,0,1
+1198246,2020,Pakistan,10,Haider Ali,c13e34f4,AU Rashid,249d60c9,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,1,0,1
+1198246,2020,Pakistan,10,Mohammad Hafeez,9ab63e7b,AU Rashid,249d60c9,Haider Ali,c13e34f4,0,0,0,0,0,,,,,,6,0,6
+1198246,2020,Pakistan,10,Mohammad Hafeez,9ab63e7b,AU Rashid,249d60c9,Haider Ali,c13e34f4,0,0,0,0,0,,,,,,6,0,6
+1198246,2020,Pakistan,10,Mohammad Hafeez,9ab63e7b,AU Rashid,249d60c9,Haider Ali,c13e34f4,0,0,0,0,0,,,,,,0,0,0
+1198246,2020,Pakistan,11,Haider Ali,c13e34f4,L Gregory,06c2de82,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,1,0,1
+1198246,2020,Pakistan,11,Mohammad Hafeez,9ab63e7b,L Gregory,06c2de82,Haider Ali,c13e34f4,0,0,0,0,0,,,,,,0,0,0
+1198246,2020,Pakistan,11,Mohammad Hafeez,9ab63e7b,L Gregory,06c2de82,Haider Ali,c13e34f4,0,0,0,0,0,,,,,,1,0,1
+1198246,2020,Pakistan,11,Haider Ali,c13e34f4,L Gregory,06c2de82,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,2,0,2
+1198246,2020,Pakistan,11,Haider Ali,c13e34f4,L Gregory,06c2de82,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,0,0,0
+1198246,2020,Pakistan,11,Haider Ali,c13e34f4,L Gregory,06c2de82,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,4,0,4
+1198246,2020,Pakistan,12,Mohammad Hafeez,9ab63e7b,TK Curran,e86754b2,Haider Ali,c13e34f4,0,0,0,0,0,,,,,,1,0,1
+1198246,2020,Pakistan,12,Haider Ali,c13e34f4,TK Curran,e86754b2,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,0,0,0
+1198246,2020,Pakistan,12,Haider Ali,c13e34f4,TK Curran,e86754b2,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,1,0,1
+1198246,2020,Pakistan,12,Mohammad Hafeez,9ab63e7b,TK Curran,e86754b2,Haider Ali,c13e34f4,0,0,0,0,0,,,,,,6,0,6
+1198246,2020,Pakistan,12,Mohammad Hafeez,9ab63e7b,TK Curran,e86754b2,Haider Ali,c13e34f4,0,0,0,0,0,,,,,,1,0,1
+1198246,2020,Pakistan,12,Haider Ali,c13e34f4,TK Curran,e86754b2,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,0,0,0
+1198246,2020,Pakistan,13,Mohammad Hafeez,9ab63e7b,AU Rashid,249d60c9,Haider Ali,c13e34f4,0,0,0,0,0,,,,,,0,0,0
+1198246,2020,Pakistan,13,Mohammad Hafeez,9ab63e7b,AU Rashid,249d60c9,Haider Ali,c13e34f4,1,0,0,0,0,,,,,,0,1,1
+1198246,2020,Pakistan,13,Mohammad Hafeez,9ab63e7b,AU Rashid,249d60c9,Haider Ali,c13e34f4,0,0,0,0,0,,,,,,6,0,6
+1198246,2020,Pakistan,13,Mohammad Hafeez,9ab63e7b,AU Rashid,249d60c9,Haider Ali,c13e34f4,0,0,0,0,0,,,,,,2,0,2
+1198246,2020,Pakistan,13,Mohammad Hafeez,9ab63e7b,AU Rashid,249d60c9,Haider Ali,c13e34f4,0,0,0,0,0,,,,,,0,0,0
+1198246,2020,Pakistan,13,Mohammad Hafeez,9ab63e7b,AU Rashid,249d60c9,Haider Ali,c13e34f4,0,0,0,0,0,,,,,,4,0,4
+1198246,2020,Pakistan,13,Mohammad Hafeez,9ab63e7b,AU Rashid,249d60c9,Haider Ali,c13e34f4,0,0,0,0,0,,,,,,0,0,0
+1198246,2020,Pakistan,14,Haider Ali,c13e34f4,CJ Jordan,ffe699c0,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,1,0,1
+1198246,2020,Pakistan,14,Mohammad Hafeez,9ab63e7b,CJ Jordan,ffe699c0,Haider Ali,c13e34f4,0,0,0,0,0,,,,,,1,0,1
+1198246,2020,Pakistan,14,Haider Ali,c13e34f4,CJ Jordan,ffe699c0,Mohammad Hafeez,9ab63e7b,0,0,0,0,1,Haider Ali,c13e34f4,,,bowled,0,0,0
+1198246,2020,Pakistan,14,Shadab Khan,9de62878,CJ Jordan,ffe699c0,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,1,0,1
+1198246,2020,Pakistan,14,Mohammad Hafeez,9ab63e7b,CJ Jordan,ffe699c0,Shadab Khan,9de62878,0,0,0,0,0,,,,,,0,0,0
+1198246,2020,Pakistan,14,Mohammad Hafeez,9ab63e7b,CJ Jordan,ffe699c0,Shadab Khan,9de62878,0,0,0,0,0,,,,,,1,0,1
+1198246,2020,Pakistan,15,Mohammad Hafeez,9ab63e7b,L Gregory,06c2de82,Shadab Khan,9de62878,0,0,0,0,0,,,,,,2,0,2
+1198246,2020,Pakistan,15,Mohammad Hafeez,9ab63e7b,L Gregory,06c2de82,Shadab Khan,9de62878,0,1,0,0,0,,,,,,1,1,2
+1198246,2020,Pakistan,15,Shadab Khan,9de62878,L Gregory,06c2de82,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,1,0,1
+1198246,2020,Pakistan,15,Mohammad Hafeez,9ab63e7b,L Gregory,06c2de82,Shadab Khan,9de62878,0,0,0,0,0,,,,,,4,0,4
+1198246,2020,Pakistan,15,Mohammad Hafeez,9ab63e7b,L Gregory,06c2de82,Shadab Khan,9de62878,0,0,0,0,0,,,,,,1,0,1
+1198246,2020,Pakistan,15,Shadab Khan,9de62878,L Gregory,06c2de82,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,0,0,0
+1198246,2020,Pakistan,15,Shadab Khan,9de62878,L Gregory,06c2de82,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,4,0,4
+1198246,2020,Pakistan,16,Mohammad Hafeez,9ab63e7b,TK Curran,e86754b2,Shadab Khan,9de62878,0,0,0,0,0,,,,,,6,0,6
+1198246,2020,Pakistan,16,Mohammad Hafeez,9ab63e7b,TK Curran,e86754b2,Shadab Khan,9de62878,0,0,0,0,0,,,,,,1,0,1
+1198246,2020,Pakistan,16,Shadab Khan,9de62878,TK Curran,e86754b2,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,1,0,1
+1198246,2020,Pakistan,16,Mohammad Hafeez,9ab63e7b,TK Curran,e86754b2,Shadab Khan,9de62878,0,0,0,0,0,,,,,,1,0,1
+1198246,2020,Pakistan,16,Shadab Khan,9de62878,TK Curran,e86754b2,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,1,0,1
+1198246,2020,Pakistan,16,Mohammad Hafeez,9ab63e7b,TK Curran,e86754b2,Shadab Khan,9de62878,0,0,0,0,0,,,,,,1,0,1
+1198246,2020,Pakistan,17,Mohammad Hafeez,9ab63e7b,S Mahmood,0f6db197,Shadab Khan,9de62878,0,0,0,0,0,,,,,,1,0,1
+1198246,2020,Pakistan,17,Shadab Khan,9de62878,S Mahmood,0f6db197,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,1,0,1
+1198246,2020,Pakistan,17,Mohammad Hafeez,9ab63e7b,S Mahmood,0f6db197,Shadab Khan,9de62878,0,0,0,0,0,,,,,,2,0,2
+1198246,2020,Pakistan,17,Mohammad Hafeez,9ab63e7b,S Mahmood,0f6db197,Shadab Khan,9de62878,0,0,0,0,0,,,,,,1,0,1
+1198246,2020,Pakistan,17,Shadab Khan,9de62878,S Mahmood,0f6db197,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,4,0,4
+1198246,2020,Pakistan,17,Shadab Khan,9de62878,S Mahmood,0f6db197,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,2,0,2
+1198246,2020,Pakistan,18,Mohammad Hafeez,9ab63e7b,CJ Jordan,ffe699c0,Shadab Khan,9de62878,0,0,0,0,0,,,,,,6,0,6
+1198246,2020,Pakistan,18,Mohammad Hafeez,9ab63e7b,CJ Jordan,ffe699c0,Shadab Khan,9de62878,0,0,0,0,0,,,,,,1,0,1
+1198246,2020,Pakistan,18,Shadab Khan,9de62878,CJ Jordan,ffe699c0,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,0,0,0
+1198246,2020,Pakistan,18,Shadab Khan,9de62878,CJ Jordan,ffe699c0,Mohammad Hafeez,9ab63e7b,0,0,0,0,1,Shadab Khan,9de62878,TK Curran,e86754b2,caught,0,0,0
+1198246,2020,Pakistan,18,Imad Wasim,9cb8d7a6,CJ Jordan,ffe699c0,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,2,0,2
+1198246,2020,Pakistan,18,Imad Wasim,9cb8d7a6,CJ Jordan,ffe699c0,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,2,0,2
+1198246,2020,Pakistan,19,Mohammad Hafeez,9ab63e7b,S Mahmood,0f6db197,Imad Wasim,9cb8d7a6,0,0,0,0,0,,,,,,1,0,1
+1198246,2020,Pakistan,19,Imad Wasim,9cb8d7a6,S Mahmood,0f6db197,Mohammad Hafeez,9ab63e7b,1,0,0,0,0,,,,,,0,1,1
+1198246,2020,Pakistan,19,Imad Wasim,9cb8d7a6,S Mahmood,0f6db197,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,1,0,1
+1198246,2020,Pakistan,19,Mohammad Hafeez,9ab63e7b,S Mahmood,0f6db197,Imad Wasim,9cb8d7a6,0,0,0,0,0,,,,,,2,0,2
+1198246,2020,Pakistan,19,Mohammad Hafeez,9ab63e7b,S Mahmood,0f6db197,Imad Wasim,9cb8d7a6,0,0,0,0,0,,,,,,1,0,1
+1198246,2020,Pakistan,19,Imad Wasim,9cb8d7a6,S Mahmood,0f6db197,Mohammad Hafeez,9ab63e7b,0,0,0,0,0,,,,,,1,0,1
+1198246,2020,Pakistan,19,Mohammad Hafeez,9ab63e7b,S Mahmood,0f6db197,Imad Wasim,9cb8d7a6,0,0,0,0,0,,,,,,2,0,2
+1198246,2020,England,0,T Banton,25f7b7d6,Shaheen Shah Afridi,45a7e761,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,1,0,1
+1198246,2020,England,0,JM Bairstow,abb83e27,Shaheen Shah Afridi,45a7e761,T Banton,25f7b7d6,0,0,0,0,0,,,,,,0,0,0
+1198246,2020,England,0,JM Bairstow,abb83e27,Shaheen Shah Afridi,45a7e761,T Banton,25f7b7d6,0,0,0,0,0,,,,,,0,0,0
+1198246,2020,England,0,JM Bairstow,abb83e27,Shaheen Shah Afridi,45a7e761,T Banton,25f7b7d6,0,0,0,0,1,JM Bairstow,abb83e27,,,bowled,0,0,0
+1198246,2020,England,0,DJ Malan,ad9c32a2,Shaheen Shah Afridi,45a7e761,T Banton,25f7b7d6,0,0,0,0,0,,,,,,0,0,0
+1198246,2020,England,0,DJ Malan,ad9c32a2,Shaheen Shah Afridi,45a7e761,T Banton,25f7b7d6,0,0,0,0,0,,,,,,2,0,2
+1198246,2020,England,1,T Banton,25f7b7d6,Imad Wasim,9cb8d7a6,DJ Malan,ad9c32a2,0,0,0,0,0,,,,,,0,0,0
+1198246,2020,England,1,T Banton,25f7b7d6,Imad Wasim,9cb8d7a6,DJ Malan,ad9c32a2,0,0,0,0,0,,,,,,0,0,0
+1198246,2020,England,1,T Banton,25f7b7d6,Imad Wasim,9cb8d7a6,DJ Malan,ad9c32a2,0,0,0,0,0,,,,,,4,0,4
+1198246,2020,England,1,T Banton,25f7b7d6,Imad Wasim,9cb8d7a6,DJ Malan,ad9c32a2,0,0,0,0,0,,,,,,4,0,4
+1198246,2020,England,1,T Banton,25f7b7d6,Imad Wasim,9cb8d7a6,DJ Malan,ad9c32a2,0,0,0,0,0,,,,,,0,0,0
+1198246,2020,England,1,T Banton,25f7b7d6,Imad Wasim,9cb8d7a6,DJ Malan,ad9c32a2,0,0,0,0,0,,,,,,4,0,4
+1198246,2020,England,2,DJ Malan,ad9c32a2,Shaheen Shah Afridi,45a7e761,T Banton,25f7b7d6,0,0,0,0,0,,,,,,0,0,0
+1198246,2020,England,2,DJ Malan,ad9c32a2,Shaheen Shah Afridi,45a7e761,T Banton,25f7b7d6,0,0,0,0,0,,,,,,1,0,1
+1198246,2020,England,2,T Banton,25f7b7d6,Shaheen Shah Afridi,45a7e761,DJ Malan,ad9c32a2,0,0,0,0,0,,,,,,0,0,0
+1198246,2020,England,2,T Banton,25f7b7d6,Shaheen Shah Afridi,45a7e761,DJ Malan,ad9c32a2,0,0,0,0,0,,,,,,0,0,0
+1198246,2020,England,2,T Banton,25f7b7d6,Shaheen Shah Afridi,45a7e761,DJ Malan,ad9c32a2,0,0,0,0,0,,,,,,1,0,1
+1198246,2020,England,2,DJ Malan,ad9c32a2,Shaheen Shah Afridi,45a7e761,T Banton,25f7b7d6,0,0,0,0,0,,,,,,0,0,0
+1198246,2020,England,3,T Banton,25f7b7d6,Imad Wasim,9cb8d7a6,DJ Malan,ad9c32a2,0,0,0,0,0,,,,,,4,0,4
+1198246,2020,England,3,T Banton,25f7b7d6,Imad Wasim,9cb8d7a6,DJ Malan,ad9c32a2,0,0,0,0,0,,,,,,1,0,1
+1198246,2020,England,3,DJ Malan,ad9c32a2,Imad Wasim,9cb8d7a6,T Banton,25f7b7d6,0,0,0,0,0,,,,,,0,0,0
+1198246,2020,England,3,DJ Malan,ad9c32a2,Imad Wasim,9cb8d7a6,T Banton,25f7b7d6,0,0,0,0,0,,,,,,4,0,4
+1198246,2020,England,3,DJ Malan,ad9c32a2,Imad Wasim,9cb8d7a6,T Banton,25f7b7d6,0,0,0,0,1,DJ Malan,ad9c32a2,Fakhar Zaman,1777c020,caught,0,0,0
+1198246,2020,England,3,T Banton,25f7b7d6,Imad Wasim,9cb8d7a6,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,1,0,1
+1198246,2020,England,4,T Banton,25f7b7d6,Haris Rauf,24bb1c2f,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,4,0,4
+1198246,2020,England,4,T Banton,25f7b7d6,Haris Rauf,24bb1c2f,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,2,0,2
+1198246,2020,England,4,T Banton,25f7b7d6,Haris Rauf,24bb1c2f,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,0,0,0
+1198246,2020,England,4,T Banton,25f7b7d6,Haris Rauf,24bb1c2f,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,4,0,4
+1198246,2020,England,4,T Banton,25f7b7d6,Haris Rauf,24bb1c2f,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,0,0,0
+1198246,2020,England,4,T Banton,25f7b7d6,Haris Rauf,24bb1c2f,EJG Morgan,d2a6c0e6,0,1,0,0,0,,,,,,4,1,5
+1198246,2020,England,4,T Banton,25f7b7d6,Haris Rauf,24bb1c2f,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,1,0,1
+1198246,2020,England,5,T Banton,25f7b7d6,Wahab Riaz,b3118300,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,0,0,0
+1198246,2020,England,5,T Banton,25f7b7d6,Wahab Riaz,b3118300,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,0,0,0
+1198246,2020,England,5,T Banton,25f7b7d6,Wahab Riaz,b3118300,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,2,0,2
+1198246,2020,England,5,T Banton,25f7b7d6,Wahab Riaz,b3118300,EJG Morgan,d2a6c0e6,0,1,0,0,0,,,,,,1,1,2
+1198246,2020,England,5,EJG Morgan,d2a6c0e6,Wahab Riaz,b3118300,T Banton,25f7b7d6,0,0,0,0,0,,,,,,2,0,2
+1198246,2020,England,5,EJG Morgan,d2a6c0e6,Wahab Riaz,b3118300,T Banton,25f7b7d6,0,0,0,0,0,,,,,,1,0,1
+1198246,2020,England,5,T Banton,25f7b7d6,Wahab Riaz,b3118300,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,4,0,4
+1198246,2020,England,6,EJG Morgan,d2a6c0e6,Shadab Khan,9de62878,T Banton,25f7b7d6,0,0,0,0,0,,,,,,1,0,1
+1198246,2020,England,6,T Banton,25f7b7d6,Shadab Khan,9de62878,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,2,0,2
+1198246,2020,England,6,T Banton,25f7b7d6,Shadab Khan,9de62878,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,0,0,0
+1198246,2020,England,6,T Banton,25f7b7d6,Shadab Khan,9de62878,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,1,0,1
+1198246,2020,England,6,EJG Morgan,d2a6c0e6,Shadab Khan,9de62878,T Banton,25f7b7d6,1,0,0,0,0,,,,,,0,1,1
+1198246,2020,England,6,EJG Morgan,d2a6c0e6,Shadab Khan,9de62878,T Banton,25f7b7d6,0,0,0,0,0,,,,,,6,0,6
+1198246,2020,England,6,EJG Morgan,d2a6c0e6,Shadab Khan,9de62878,T Banton,25f7b7d6,0,0,0,0,1,EJG Morgan,d2a6c0e6,,,run out,0,0,0
+1198246,2020,England,7,T Banton,25f7b7d6,Haris Rauf,24bb1c2f,MM Ali,bb351c23,0,0,0,0,0,,,,,,1,0,1
+1198246,2020,England,7,MM Ali,bb351c23,Haris Rauf,24bb1c2f,T Banton,25f7b7d6,0,0,0,0,0,,,,,,1,0,1
+1198246,2020,England,7,T Banton,25f7b7d6,Haris Rauf,24bb1c2f,MM Ali,bb351c23,0,0,1,0,0,,,,,,0,1,1
+1198246,2020,England,7,MM Ali,bb351c23,Haris Rauf,24bb1c2f,T Banton,25f7b7d6,0,0,0,0,0,,,,,,1,0,1
+1198246,2020,England,7,T Banton,25f7b7d6,Haris Rauf,24bb1c2f,MM Ali,bb351c23,0,0,0,0,1,T Banton,25f7b7d6,,,lbw,0,0,0
+1198246,2020,England,7,SW Billings,c16d4035,Haris Rauf,24bb1c2f,MM Ali,bb351c23,0,0,0,0,0,,,,,,0,0,0
+1198246,2020,England,8,MM Ali,bb351c23,Shadab Khan,9de62878,SW Billings,c16d4035,0,0,0,0,0,,,,,,1,0,1
+1198246,2020,England,8,SW Billings,c16d4035,Shadab Khan,9de62878,MM Ali,bb351c23,0,0,0,0,0,,,,,,1,0,1
+1198246,2020,England,8,MM Ali,bb351c23,Shadab Khan,9de62878,SW Billings,c16d4035,0,0,0,0,0,,,,,,1,0,1
+1198246,2020,England,8,SW Billings,c16d4035,Shadab Khan,9de62878,MM Ali,bb351c23,0,0,0,0,0,,,,,,1,0,1
+1198246,2020,England,8,MM Ali,bb351c23,Shadab Khan,9de62878,SW Billings,c16d4035,0,0,0,0,0,,,,,,1,0,1
+1198246,2020,England,8,SW Billings,c16d4035,Shadab Khan,9de62878,MM Ali,bb351c23,0,0,0,0,0,,,,,,4,0,4
+1198246,2020,England,9,MM Ali,bb351c23,Wahab Riaz,b3118300,SW Billings,c16d4035,0,0,0,0,0,,,,,,1,0,1
+1198246,2020,England,9,SW Billings,c16d4035,Wahab Riaz,b3118300,MM Ali,bb351c23,0,0,0,0,0,,,,,,1,0,1
+1198246,2020,England,9,MM Ali,bb351c23,Wahab Riaz,b3118300,SW Billings,c16d4035,0,0,0,0,0,,,,,,1,0,1
+1198246,2020,England,9,SW Billings,c16d4035,Wahab Riaz,b3118300,MM Ali,bb351c23,0,0,0,0,0,,,,,,0,0,0
+1198246,2020,England,9,SW Billings,c16d4035,Wahab Riaz,b3118300,MM Ali,bb351c23,0,0,0,0,0,,,,,,4,0,4
+1198246,2020,England,9,SW Billings,c16d4035,Wahab Riaz,b3118300,MM Ali,bb351c23,0,0,0,0,0,,,,,,1,0,1
+1198246,2020,England,10,SW Billings,c16d4035,Imad Wasim,9cb8d7a6,MM Ali,bb351c23,0,0,0,0,0,,,,,,0,0,0
+1198246,2020,England,10,SW Billings,c16d4035,Imad Wasim,9cb8d7a6,MM Ali,bb351c23,0,0,0,0,0,,,,,,6,0,6
+1198246,2020,England,10,SW Billings,c16d4035,Imad Wasim,9cb8d7a6,MM Ali,bb351c23,0,0,0,0,0,,,,,,1,0,1
+1198246,2020,England,10,MM Ali,bb351c23,Imad Wasim,9cb8d7a6,SW Billings,c16d4035,0,0,0,0,0,,,,,,0,0,0
+1198246,2020,England,10,MM Ali,bb351c23,Imad Wasim,9cb8d7a6,SW Billings,c16d4035,0,0,0,0,0,,,,,,1,0,1
+1198246,2020,England,10,SW Billings,c16d4035,Imad Wasim,9cb8d7a6,MM Ali,bb351c23,0,0,0,0,0,,,,,,1,0,1
+1198246,2020,England,11,SW Billings,c16d4035,Shadab Khan,9de62878,MM Ali,bb351c23,0,0,0,0,0,,,,,,0,0,0
+1198246,2020,England,11,SW Billings,c16d4035,Shadab Khan,9de62878,MM Ali,bb351c23,0,0,1,0,0,,,,,,0,1,1
+1198246,2020,England,11,MM Ali,bb351c23,Shadab Khan,9de62878,SW Billings,c16d4035,0,0,0,0,0,,,,,,2,0,2
+1198246,2020,England,11,MM Ali,bb351c23,Shadab Khan,9de62878,SW Billings,c16d4035,0,0,0,0,0,,,,,,2,0,2
+1198246,2020,England,11,MM Ali,bb351c23,Shadab Khan,9de62878,SW Billings,c16d4035,0,0,0,0,0,,,,,,0,0,0
+1198246,2020,England,11,MM Ali,bb351c23,Shadab Khan,9de62878,SW Billings,c16d4035,0,0,0,0,0,,,,,,4,0,4
+1198246,2020,England,12,SW Billings,c16d4035,Imad Wasim,9cb8d7a6,MM Ali,bb351c23,0,0,0,0,0,,,,,,0,0,0
+1198246,2020,England,12,SW Billings,c16d4035,Imad Wasim,9cb8d7a6,MM Ali,bb351c23,0,0,0,4,0,,,,,,0,4,4
+1198246,2020,England,12,SW Billings,c16d4035,Imad Wasim,9cb8d7a6,MM Ali,bb351c23,0,0,0,0,0,,,,,,2,0,2
+1198246,2020,England,12,SW Billings,c16d4035,Imad Wasim,9cb8d7a6,MM Ali,bb351c23,0,0,0,0,0,,,,,,0,0,0
+1198246,2020,England,12,SW Billings,c16d4035,Imad Wasim,9cb8d7a6,MM Ali,bb351c23,0,0,0,0,0,,,,,,0,0,0
+1198246,2020,England,12,SW Billings,c16d4035,Imad Wasim,9cb8d7a6,MM Ali,bb351c23,0,0,0,0,0,,,,,,2,0,2
+1198246,2020,England,13,MM Ali,bb351c23,Shaheen Shah Afridi,45a7e761,SW Billings,c16d4035,0,0,0,0,0,,,,,,4,0,4
+1198246,2020,England,13,MM Ali,bb351c23,Shaheen Shah Afridi,45a7e761,SW Billings,c16d4035,0,0,0,0,0,,,,,,6,0,6
+1198246,2020,England,13,MM Ali,bb351c23,Shaheen Shah Afridi,45a7e761,SW Billings,c16d4035,0,0,0,0,0,,,,,,1,0,1
+1198246,2020,England,13,SW Billings,c16d4035,Shaheen Shah Afridi,45a7e761,MM Ali,bb351c23,0,0,0,0,0,,,,,,0,0,0
+1198246,2020,England,13,SW Billings,c16d4035,Shaheen Shah Afridi,45a7e761,MM Ali,bb351c23,0,0,0,0,0,,,,,,2,0,2
+1198246,2020,England,13,SW Billings,c16d4035,Shaheen Shah Afridi,45a7e761,MM Ali,bb351c23,0,0,0,0,0,,,,,,0,0,0
+1198246,2020,England,14,MM Ali,bb351c23,Wahab Riaz,b3118300,SW Billings,c16d4035,0,0,0,0,0,,,,,,1,0,1
+1198246,2020,England,14,SW Billings,c16d4035,Wahab Riaz,b3118300,MM Ali,bb351c23,0,0,0,0,1,SW Billings,c16d4035,Imad Wasim,9cb8d7a6,caught,0,0,0
+1198246,2020,England,14,MM Ali,bb351c23,Wahab Riaz,b3118300,L Gregory,06c2de82,0,0,0,0,0,,,,,,1,0,1
+1198246,2020,England,14,L Gregory,06c2de82,Wahab Riaz,b3118300,MM Ali,bb351c23,0,0,0,0,0,,,,,,0,0,0
+1198246,2020,England,14,L Gregory,06c2de82,Wahab Riaz,b3118300,MM Ali,bb351c23,0,0,0,0,0,,,,,,1,0,1
+1198246,2020,England,14,MM Ali,bb351c23,Wahab Riaz,b3118300,L Gregory,06c2de82,0,0,0,0,0,,,,,,1,0,1
+1198246,2020,England,15,MM Ali,bb351c23,Shadab Khan,9de62878,L Gregory,06c2de82,0,0,0,0,0,,,,,,6,0,6
+1198246,2020,England,15,MM Ali,bb351c23,Shadab Khan,9de62878,L Gregory,06c2de82,0,0,0,0,0,,,,,,6,0,6
+1198246,2020,England,15,MM Ali,bb351c23,Shadab Khan,9de62878,L Gregory,06c2de82,0,0,0,0,0,,,,,,0,0,0
+1198246,2020,England,15,MM Ali,bb351c23,Shadab Khan,9de62878,L Gregory,06c2de82,0,0,0,0,0,,,,,,6,0,6
+1198246,2020,England,15,MM Ali,bb351c23,Shadab Khan,9de62878,L Gregory,06c2de82,0,0,0,0,0,,,,,,1,0,1
+1198246,2020,England,15,L Gregory,06c2de82,Shadab Khan,9de62878,MM Ali,bb351c23,0,0,0,0,0,,,,,,1,0,1
+1198246,2020,England,16,L Gregory,06c2de82,Haris Rauf,24bb1c2f,MM Ali,bb351c23,0,0,0,0,0,,,,,,1,0,1
+1198246,2020,England,16,MM Ali,bb351c23,Haris Rauf,24bb1c2f,L Gregory,06c2de82,0,0,0,0,0,,,,,,1,0,1
+1198246,2020,England,16,L Gregory,06c2de82,Haris Rauf,24bb1c2f,MM Ali,bb351c23,0,0,0,0,0,,,,,,1,0,1
+1198246,2020,England,16,MM Ali,bb351c23,Haris Rauf,24bb1c2f,L Gregory,06c2de82,0,0,0,0,0,,,,,,1,0,1
+1198246,2020,England,16,L Gregory,06c2de82,Haris Rauf,24bb1c2f,MM Ali,bb351c23,0,0,0,0,0,,,,,,4,0,4
+1198246,2020,England,16,L Gregory,06c2de82,Haris Rauf,24bb1c2f,MM Ali,bb351c23,0,0,0,0,0,,,,,,4,0,4
+1198246,2020,England,17,MM Ali,bb351c23,Shaheen Shah Afridi,45a7e761,L Gregory,06c2de82,0,0,0,0,0,,,,,,4,0,4
+1198246,2020,England,17,MM Ali,bb351c23,Shaheen Shah Afridi,45a7e761,L Gregory,06c2de82,0,0,0,0,0,,,,,,0,0,0
+1198246,2020,England,17,MM Ali,bb351c23,Shaheen Shah Afridi,45a7e761,L Gregory,06c2de82,0,0,0,0,0,,,,,,4,0,4
+1198246,2020,England,17,MM Ali,bb351c23,Shaheen Shah Afridi,45a7e761,L Gregory,06c2de82,0,0,0,0,0,,,,,,1,0,1
+1198246,2020,England,17,L Gregory,06c2de82,Shaheen Shah Afridi,45a7e761,MM Ali,bb351c23,0,0,0,0,1,L Gregory,06c2de82,,,bowled,0,0,0
+1198246,2020,England,17,CJ Jordan,ffe699c0,Shaheen Shah Afridi,45a7e761,MM Ali,bb351c23,0,0,0,0,0,,,,,,1,0,1
+1198246,2020,England,18,CJ Jordan,ffe699c0,Wahab Riaz,b3118300,MM Ali,bb351c23,1,0,0,0,0,,,,,,0,1,1
+1198246,2020,England,18,CJ Jordan,ffe699c0,Wahab Riaz,b3118300,MM Ali,bb351c23,0,0,0,0,1,CJ Jordan,ffe699c0,,,run out,0,0,0
+1198246,2020,England,18,MM Ali,bb351c23,Wahab Riaz,b3118300,TK Curran,e86754b2,0,0,0,0,0,,,,,,1,0,1
+1198246,2020,England,18,TK Curran,e86754b2,Wahab Riaz,b3118300,MM Ali,bb351c23,0,0,0,0,0,,,,,,1,0,1
+1198246,2020,England,18,MM Ali,bb351c23,Wahab Riaz,b3118300,TK Curran,e86754b2,0,0,0,0,0,,,,,,0,0,0
+1198246,2020,England,18,MM Ali,bb351c23,Wahab Riaz,b3118300,TK Curran,e86754b2,0,0,0,0,1,MM Ali,bb351c23,,,caught and bowled,0,0,0
+1198246,2020,England,18,TK Curran,e86754b2,Wahab Riaz,b3118300,AU Rashid,249d60c9,0,0,0,0,0,,,,,,0,0,0
+1198246,2020,England,19,AU Rashid,249d60c9,Haris Rauf,24bb1c2f,TK Curran,e86754b2,0,0,0,1,0,,,,,,0,1,1
+1198246,2020,England,19,TK Curran,e86754b2,Haris Rauf,24bb1c2f,AU Rashid,249d60c9,0,0,0,0,0,,,,,,1,0,1
+1198246,2020,England,19,AU Rashid,249d60c9,Haris Rauf,24bb1c2f,TK Curran,e86754b2,0,0,0,0,0,,,,,,2,0,2
+1198246,2020,England,19,AU Rashid,249d60c9,Haris Rauf,24bb1c2f,TK Curran,e86754b2,0,0,0,0,0,,,,,,1,0,1
+1198246,2020,England,19,TK Curran,e86754b2,Haris Rauf,24bb1c2f,AU Rashid,249d60c9,0,0,0,0,0,,,,,,6,0,6
+1198246,2020,England,19,TK Curran,e86754b2,Haris Rauf,24bb1c2f,AU Rashid,249d60c9,0,0,0,0,0,,,,,,0,0,0

@@ -1,0 +1,98 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1282929,2021/22,Argentina,0,V Vasquez,f898a2c6,NC Monteiro,752af5a4,M Castineiras,b9094958,0,0,0,0,0,,,,,,0,0,0
+1282929,2021/22,Argentina,0,V Vasquez,f898a2c6,NC Monteiro,752af5a4,M Castineiras,b9094958,1,0,0,0,0,,,,,,0,1,1
+1282929,2021/22,Argentina,0,V Vasquez,f898a2c6,NC Monteiro,752af5a4,M Castineiras,b9094958,0,0,0,0,0,,,,,,0,0,0
+1282929,2021/22,Argentina,0,V Vasquez,f898a2c6,NC Monteiro,752af5a4,M Castineiras,b9094958,0,0,0,0,0,,,,,,1,0,1
+1282929,2021/22,Argentina,0,M Castineiras,b9094958,NC Monteiro,752af5a4,V Vasquez,f898a2c6,0,0,0,0,0,,,,,,0,0,0
+1282929,2021/22,Argentina,0,M Castineiras,b9094958,NC Monteiro,752af5a4,V Vasquez,f898a2c6,0,0,0,0,0,,,,,,0,0,0
+1282929,2021/22,Argentina,0,M Castineiras,b9094958,NC Monteiro,752af5a4,V Vasquez,f898a2c6,0,0,0,0,0,,,,,,1,0,1
+1282929,2021/22,Argentina,1,M Castineiras,b9094958,M Ribeiro,38424a4d,V Vasquez,f898a2c6,0,0,0,0,0,,,,,,0,0,0
+1282929,2021/22,Argentina,1,M Castineiras,b9094958,M Ribeiro,38424a4d,V Vasquez,f898a2c6,0,0,0,0,0,,,,,,0,0,0
+1282929,2021/22,Argentina,1,M Castineiras,b9094958,M Ribeiro,38424a4d,V Vasquez,f898a2c6,0,0,0,0,0,,,,,,0,0,0
+1282929,2021/22,Argentina,1,M Castineiras,b9094958,M Ribeiro,38424a4d,V Vasquez,f898a2c6,0,0,0,0,1,M Castineiras,b9094958,RMAM Avery,4cf645c9,caught,0,0,0
+1282929,2021/22,Argentina,1,A Stocks,c999c416,M Ribeiro,38424a4d,V Vasquez,f898a2c6,0,0,0,0,0,,,,,,0,0,0
+1282929,2021/22,Argentina,1,A Stocks,c999c416,M Ribeiro,38424a4d,V Vasquez,f898a2c6,0,0,0,0,0,,,,,,0,0,0
+1282929,2021/22,Argentina,2,V Vasquez,f898a2c6,NC Monteiro,752af5a4,A Stocks,c999c416,0,0,0,0,0,,,,,,0,0,0
+1282929,2021/22,Argentina,2,V Vasquez,f898a2c6,NC Monteiro,752af5a4,A Stocks,c999c416,0,0,0,0,0,,,,,,0,0,0
+1282929,2021/22,Argentina,2,V Vasquez,f898a2c6,NC Monteiro,752af5a4,A Stocks,c999c416,0,0,0,0,1,A Stocks,c999c416,L Cardoso,5777d460,run out,0,0,0
+1282929,2021/22,Argentina,2,L Taylor,8af91a3e,NC Monteiro,752af5a4,V Vasquez,f898a2c6,0,0,0,0,0,,,,,,0,0,0
+1282929,2021/22,Argentina,2,L Taylor,8af91a3e,NC Monteiro,752af5a4,V Vasquez,f898a2c6,0,0,0,0,0,,,,,,0,0,0
+1282929,2021/22,Argentina,2,L Taylor,8af91a3e,NC Monteiro,752af5a4,V Vasquez,f898a2c6,0,0,0,0,0,,,,,,0,0,0
+1282929,2021/22,Argentina,3,V Vasquez,f898a2c6,M Ribeiro,38424a4d,L Taylor,8af91a3e,1,0,0,0,0,,,,,,0,1,1
+1282929,2021/22,Argentina,3,V Vasquez,f898a2c6,M Ribeiro,38424a4d,L Taylor,8af91a3e,0,0,0,0,0,,,,,,0,0,0
+1282929,2021/22,Argentina,3,V Vasquez,f898a2c6,M Ribeiro,38424a4d,L Taylor,8af91a3e,0,0,0,0,0,,,,,,0,0,0
+1282929,2021/22,Argentina,3,V Vasquez,f898a2c6,M Ribeiro,38424a4d,L Taylor,8af91a3e,0,0,0,0,0,,,,,,0,0,0
+1282929,2021/22,Argentina,3,V Vasquez,f898a2c6,M Ribeiro,38424a4d,L Taylor,8af91a3e,0,0,0,0,0,,,,,,0,0,0
+1282929,2021/22,Argentina,3,V Vasquez,f898a2c6,M Ribeiro,38424a4d,L Taylor,8af91a3e,0,0,0,0,0,,,,,,1,0,1
+1282929,2021/22,Argentina,3,L Taylor,8af91a3e,M Ribeiro,38424a4d,V Vasquez,f898a2c6,0,0,0,0,0,,,,,,0,0,0
+1282929,2021/22,Argentina,4,V Vasquez,f898a2c6,NC Monteiro,752af5a4,L Taylor,8af91a3e,0,0,0,0,0,,,,,,0,0,0
+1282929,2021/22,Argentina,4,V Vasquez,f898a2c6,NC Monteiro,752af5a4,L Taylor,8af91a3e,0,0,0,0,1,V Vasquez,f898a2c6,,,caught and bowled,0,0,0
+1282929,2021/22,Argentina,4,M Martinez,f0ddeafb,NC Monteiro,752af5a4,L Taylor,8af91a3e,0,0,0,0,0,,,,,,0,0,0
+1282929,2021/22,Argentina,4,M Martinez,f0ddeafb,NC Monteiro,752af5a4,L Taylor,8af91a3e,0,0,0,0,0,,,,,,1,0,1
+1282929,2021/22,Argentina,4,L Taylor,8af91a3e,NC Monteiro,752af5a4,M Martinez,f0ddeafb,0,0,0,0,0,,,,,,0,0,0
+1282929,2021/22,Argentina,4,L Taylor,8af91a3e,NC Monteiro,752af5a4,M Martinez,f0ddeafb,0,0,0,0,0,,,,,,0,0,0
+1282929,2021/22,Argentina,5,M Martinez,f0ddeafb,RD de Sousa,2901e489,L Taylor,8af91a3e,0,0,0,0,1,M Martinez,f0ddeafb,,,lbw,0,0,0
+1282929,2021/22,Argentina,5,CA Greloni,f758a37b,RD de Sousa,2901e489,L Taylor,8af91a3e,0,0,0,0,0,,,,,,0,0,0
+1282929,2021/22,Argentina,5,CA Greloni,f758a37b,RD de Sousa,2901e489,L Taylor,8af91a3e,0,0,0,0,0,,,,,,0,0,0
+1282929,2021/22,Argentina,5,CA Greloni,f758a37b,RD de Sousa,2901e489,L Taylor,8af91a3e,0,0,0,0,0,,,,,,0,0,0
+1282929,2021/22,Argentina,5,CA Greloni,f758a37b,RD de Sousa,2901e489,L Taylor,8af91a3e,0,0,0,0,0,,,,,,1,0,1
+1282929,2021/22,Argentina,5,L Taylor,8af91a3e,RD de Sousa,2901e489,CA Greloni,f758a37b,0,0,0,0,0,,,,,,0,0,0
+1282929,2021/22,Argentina,6,CA Greloni,f758a37b,L Moises,b27f9716,L Taylor,8af91a3e,0,0,0,0,1,L Taylor,8af91a3e,L Cardoso,5777d460,run out,0,0,0
+1282929,2021/22,Argentina,6,M Esquivel,9a14a211,L Moises,b27f9716,CA Greloni,f758a37b,0,0,0,0,1,M Esquivel,9a14a211,RD de Sousa,2901e489,caught,0,0,0
+1282929,2021/22,Argentina,6,CA Greloni,f758a37b,L Moises,b27f9716,JC Cullen,22595a2d,0,0,0,0,0,,,,,,0,0,0
+1282929,2021/22,Argentina,6,CA Greloni,f758a37b,L Moises,b27f9716,JC Cullen,22595a2d,0,0,0,0,0,,,,,,0,0,0
+1282929,2021/22,Argentina,6,CA Greloni,f758a37b,L Moises,b27f9716,JC Cullen,22595a2d,0,0,0,0,0,,,,,,0,0,0
+1282929,2021/22,Argentina,6,CA Greloni,f758a37b,L Moises,b27f9716,JC Cullen,22595a2d,0,0,0,0,0,,,,,,0,0,0
+1282929,2021/22,Argentina,7,JC Cullen,22595a2d,RD de Sousa,2901e489,CA Greloni,f758a37b,0,0,0,0,1,JC Cullen,22595a2d,,,bowled,0,0,0
+1282929,2021/22,Argentina,7,T Basile,7a640d66,RD de Sousa,2901e489,CA Greloni,f758a37b,0,0,0,0,0,,,,,,0,0,0
+1282929,2021/22,Argentina,7,T Basile,7a640d66,RD de Sousa,2901e489,CA Greloni,f758a37b,0,0,0,0,0,,,,,,0,0,0
+1282929,2021/22,Argentina,7,T Basile,7a640d66,RD de Sousa,2901e489,CA Greloni,f758a37b,0,0,0,0,0,,,,,,0,0,0
+1282929,2021/22,Argentina,7,T Basile,7a640d66,RD de Sousa,2901e489,CA Greloni,f758a37b,0,0,0,0,0,,,,,,0,0,0
+1282929,2021/22,Argentina,7,T Basile,7a640d66,RD de Sousa,2901e489,CA Greloni,f758a37b,0,0,0,0,0,,,,,,0,0,0
+1282929,2021/22,Argentina,8,CA Greloni,f758a37b,L Moises,b27f9716,T Basile,7a640d66,0,0,0,0,0,,,,,,0,0,0
+1282929,2021/22,Argentina,8,CA Greloni,f758a37b,L Moises,b27f9716,T Basile,7a640d66,0,0,0,0,0,,,,,,0,0,0
+1282929,2021/22,Argentina,8,CA Greloni,f758a37b,L Moises,b27f9716,T Basile,7a640d66,0,0,0,0,0,,,,,,1,0,1
+1282929,2021/22,Argentina,8,T Basile,7a640d66,L Moises,b27f9716,CA Greloni,f758a37b,0,0,0,0,0,,,,,,0,0,0
+1282929,2021/22,Argentina,8,T Basile,7a640d66,L Moises,b27f9716,CA Greloni,f758a37b,0,0,0,0,0,,,,,,2,0,2
+1282929,2021/22,Argentina,8,T Basile,7a640d66,L Moises,b27f9716,CA Greloni,f758a37b,0,0,0,0,1,T Basile,7a640d66,,,bowled,0,0,0
+1282929,2021/22,Argentina,9,CA Greloni,f758a37b,L Cardoso,5777d460,C Sosa,b2f4cb0d,0,0,0,0,0,,,,,,0,0,0
+1282929,2021/22,Argentina,9,CA Greloni,f758a37b,L Cardoso,5777d460,C Sosa,b2f4cb0d,0,0,0,0,0,,,,,,0,0,0
+1282929,2021/22,Argentina,9,CA Greloni,f758a37b,L Cardoso,5777d460,C Sosa,b2f4cb0d,0,0,0,0,0,,,,,,0,0,0
+1282929,2021/22,Argentina,9,CA Greloni,f758a37b,L Cardoso,5777d460,C Sosa,b2f4cb0d,0,0,0,0,0,,,,,,0,0,0
+1282929,2021/22,Argentina,9,CA Greloni,f758a37b,L Cardoso,5777d460,C Sosa,b2f4cb0d,0,0,0,0,0,,,,,,0,0,0
+1282929,2021/22,Argentina,9,CA Greloni,f758a37b,L Cardoso,5777d460,C Sosa,b2f4cb0d,0,0,0,0,0,,,,,,0,0,0
+1282929,2021/22,Argentina,10,C Sosa,b2f4cb0d,D Staddon,4a28527d,CA Greloni,f758a37b,0,0,0,0,0,,,,,,1,0,1
+1282929,2021/22,Argentina,10,CA Greloni,f758a37b,D Staddon,4a28527d,C Sosa,b2f4cb0d,1,0,0,0,0,,,,,,0,1,1
+1282929,2021/22,Argentina,10,CA Greloni,f758a37b,D Staddon,4a28527d,C Sosa,b2f4cb0d,0,0,0,0,0,,,,,,0,0,0
+1282929,2021/22,Argentina,10,CA Greloni,f758a37b,D Staddon,4a28527d,C Sosa,b2f4cb0d,0,0,0,0,0,,,,,,0,0,0
+1282929,2021/22,Argentina,10,CA Greloni,f758a37b,D Staddon,4a28527d,C Sosa,b2f4cb0d,0,0,0,0,1,CA Greloni,f758a37b,,,bowled,0,0,0
+1282929,2021/22,Argentina,10,L Iglesias,289a1cf1,D Staddon,4a28527d,C Sosa,b2f4cb0d,0,0,0,0,0,,,,,,0,0,0
+1282929,2021/22,Argentina,10,L Iglesias,289a1cf1,D Staddon,4a28527d,C Sosa,b2f4cb0d,0,0,0,0,0,,,,,,0,0,0
+1282929,2021/22,Argentina,11,C Sosa,b2f4cb0d,L Cardoso,5777d460,L Iglesias,289a1cf1,0,0,0,0,0,,,,,,0,0,0
+1282929,2021/22,Argentina,11,C Sosa,b2f4cb0d,L Cardoso,5777d460,L Iglesias,289a1cf1,0,0,0,0,1,C Sosa,b2f4cb0d,RD de Sousa,2901e489,caught,0,0,0
+1282929,2021/22,Brazil,0,L Agatha,1aebb2fa,M Martinez,f0ddeafb,M Artur,400b36cd,0,0,0,0,0,,,,,,0,0,0
+1282929,2021/22,Brazil,0,L Agatha,1aebb2fa,M Martinez,f0ddeafb,M Artur,400b36cd,0,0,0,0,0,,,,,,0,0,0
+1282929,2021/22,Brazil,0,L Agatha,1aebb2fa,M Martinez,f0ddeafb,M Artur,400b36cd,0,0,0,0,0,,,,,,0,0,0
+1282929,2021/22,Brazil,0,L Agatha,1aebb2fa,M Martinez,f0ddeafb,M Artur,400b36cd,0,0,0,0,0,,,,,,0,0,0
+1282929,2021/22,Brazil,0,L Agatha,1aebb2fa,M Martinez,f0ddeafb,M Artur,400b36cd,0,0,0,0,0,,,,,,0,0,0
+1282929,2021/22,Brazil,0,L Agatha,1aebb2fa,M Martinez,f0ddeafb,M Artur,400b36cd,0,0,0,0,0,,,,,,1,0,1
+1282929,2021/22,Brazil,1,L Agatha,1aebb2fa,T Basile,7a640d66,M Artur,400b36cd,0,0,0,1,0,,,,,,0,1,1
+1282929,2021/22,Brazil,1,M Artur,400b36cd,T Basile,7a640d66,L Agatha,1aebb2fa,0,0,0,0,0,,,,,,0,0,0
+1282929,2021/22,Brazil,1,M Artur,400b36cd,T Basile,7a640d66,L Agatha,1aebb2fa,0,0,0,0,0,,,,,,0,0,0
+1282929,2021/22,Brazil,1,M Artur,400b36cd,T Basile,7a640d66,L Agatha,1aebb2fa,0,0,0,0,0,,,,,,0,0,0
+1282929,2021/22,Brazil,1,M Artur,400b36cd,T Basile,7a640d66,L Agatha,1aebb2fa,1,0,0,0,0,,,,,,0,1,1
+1282929,2021/22,Brazil,1,M Artur,400b36cd,T Basile,7a640d66,L Agatha,1aebb2fa,0,0,0,0,1,M Artur,400b36cd,,,bowled,0,0,0
+1282929,2021/22,Brazil,1,RMAM Avery,4cf645c9,T Basile,7a640d66,L Agatha,1aebb2fa,1,0,0,0,0,,,,,,0,1,1
+1282929,2021/22,Brazil,1,RMAM Avery,4cf645c9,T Basile,7a640d66,L Agatha,1aebb2fa,0,0,0,0,1,RMAM Avery,4cf645c9,,,lbw,0,0,0
+1282929,2021/22,Brazil,2,L Agatha,1aebb2fa,M Martinez,f0ddeafb,L Cardoso,5777d460,0,0,0,0,0,,,,,,0,0,0
+1282929,2021/22,Brazil,2,L Agatha,1aebb2fa,M Martinez,f0ddeafb,L Cardoso,5777d460,0,0,0,0,0,,,,,,0,0,0
+1282929,2021/22,Brazil,2,L Agatha,1aebb2fa,M Martinez,f0ddeafb,L Cardoso,5777d460,0,0,0,1,0,,,,,,0,1,1
+1282929,2021/22,Brazil,2,L Cardoso,5777d460,M Martinez,f0ddeafb,L Agatha,1aebb2fa,0,0,0,0,0,,,,,,0,0,0
+1282929,2021/22,Brazil,2,L Cardoso,5777d460,M Martinez,f0ddeafb,L Agatha,1aebb2fa,0,0,0,0,0,,,,,,0,0,0
+1282929,2021/22,Brazil,2,L Cardoso,5777d460,M Martinez,f0ddeafb,L Agatha,1aebb2fa,0,1,0,0,0,,,,,,0,1,1
+1282929,2021/22,Brazil,2,L Cardoso,5777d460,M Martinez,f0ddeafb,L Agatha,1aebb2fa,1,0,0,0,0,,,,,,0,1,1
+1282929,2021/22,Brazil,2,L Cardoso,5777d460,M Martinez,f0ddeafb,L Agatha,1aebb2fa,0,0,0,0,0,,,,,,2,0,2
+1282929,2021/22,Brazil,3,L Agatha,1aebb2fa,T Basile,7a640d66,L Cardoso,5777d460,1,0,0,0,0,,,,,,0,1,1
+1282929,2021/22,Brazil,3,L Agatha,1aebb2fa,T Basile,7a640d66,L Cardoso,5777d460,0,0,0,0,0,,,,,,2,0,2
+1282929,2021/22,Brazil,3,L Agatha,1aebb2fa,T Basile,7a640d66,L Cardoso,5777d460,0,0,0,0,0,,,,,,0,0,0
+1282929,2021/22,Brazil,3,L Agatha,1aebb2fa,T Basile,7a640d66,L Cardoso,5777d460,0,0,0,0,0,,,,,,1,0,1

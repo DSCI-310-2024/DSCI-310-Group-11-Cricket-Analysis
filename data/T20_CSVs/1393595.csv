@@ -1,0 +1,219 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1393595,2023,Nepal,0,Puja Mahato,4b95058b,Ainna Hamizah Hashim,4c7744de,K Shrestha,119de50f,0,0,0,0,0,,,,,,0,0,0
+1393595,2023,Nepal,0,Puja Mahato,4b95058b,Ainna Hamizah Hashim,4c7744de,K Shrestha,119de50f,0,0,0,0,0,,,,,,0,0,0
+1393595,2023,Nepal,0,Puja Mahato,4b95058b,Ainna Hamizah Hashim,4c7744de,K Shrestha,119de50f,0,0,0,0,0,,,,,,1,0,1
+1393595,2023,Nepal,0,K Shrestha,119de50f,Ainna Hamizah Hashim,4c7744de,Puja Mahato,4b95058b,0,0,0,0,0,,,,,,1,0,1
+1393595,2023,Nepal,0,Puja Mahato,4b95058b,Ainna Hamizah Hashim,4c7744de,K Shrestha,119de50f,0,0,0,0,1,Puja Mahato,4b95058b,,,lbw,0,0,0
+1393595,2023,Nepal,0,I Barma,521abce2,Ainna Hamizah Hashim,4c7744de,K Shrestha,119de50f,0,0,0,0,0,,,,,,0,0,0
+1393595,2023,Nepal,1,K Shrestha,119de50f,Mahirah Izzati Ismail,b9b32e3c,I Barma,521abce2,0,0,0,0,0,,,,,,1,0,1
+1393595,2023,Nepal,1,I Barma,521abce2,Mahirah Izzati Ismail,b9b32e3c,K Shrestha,119de50f,0,0,0,0,0,,,,,,1,0,1
+1393595,2023,Nepal,1,K Shrestha,119de50f,Mahirah Izzati Ismail,b9b32e3c,I Barma,521abce2,0,0,0,0,0,,,,,,0,0,0
+1393595,2023,Nepal,1,K Shrestha,119de50f,Mahirah Izzati Ismail,b9b32e3c,I Barma,521abce2,0,0,0,0,0,,,,,,2,0,2
+1393595,2023,Nepal,1,K Shrestha,119de50f,Mahirah Izzati Ismail,b9b32e3c,I Barma,521abce2,0,0,0,0,0,,,,,,2,0,2
+1393595,2023,Nepal,1,K Shrestha,119de50f,Mahirah Izzati Ismail,b9b32e3c,I Barma,521abce2,0,0,0,0,0,,,,,,0,0,0
+1393595,2023,Nepal,2,I Barma,521abce2,Ainna Hamizah Hashim,4c7744de,K Shrestha,119de50f,0,0,0,0,0,,,,,,0,0,0
+1393595,2023,Nepal,2,I Barma,521abce2,Ainna Hamizah Hashim,4c7744de,K Shrestha,119de50f,0,0,0,0,0,,,,,,1,0,1
+1393595,2023,Nepal,2,K Shrestha,119de50f,Ainna Hamizah Hashim,4c7744de,I Barma,521abce2,0,0,0,0,0,,,,,,0,0,0
+1393595,2023,Nepal,2,K Shrestha,119de50f,Ainna Hamizah Hashim,4c7744de,I Barma,521abce2,0,0,0,0,0,,,,,,0,0,0
+1393595,2023,Nepal,2,K Shrestha,119de50f,Ainna Hamizah Hashim,4c7744de,I Barma,521abce2,0,0,0,0,0,,,,,,3,0,3
+1393595,2023,Nepal,2,I Barma,521abce2,Ainna Hamizah Hashim,4c7744de,K Shrestha,119de50f,0,0,0,0,0,,,,,,1,0,1
+1393595,2023,Nepal,3,I Barma,521abce2,Mahirah Izzati Ismail,b9b32e3c,K Shrestha,119de50f,0,0,0,0,0,,,,,,1,0,1
+1393595,2023,Nepal,3,K Shrestha,119de50f,Mahirah Izzati Ismail,b9b32e3c,I Barma,521abce2,0,0,0,0,0,,,,,,4,0,4
+1393595,2023,Nepal,3,K Shrestha,119de50f,Mahirah Izzati Ismail,b9b32e3c,I Barma,521abce2,0,0,0,0,0,,,,,,0,0,0
+1393595,2023,Nepal,3,K Shrestha,119de50f,Mahirah Izzati Ismail,b9b32e3c,I Barma,521abce2,0,0,0,0,0,,,,,,0,0,0
+1393595,2023,Nepal,3,K Shrestha,119de50f,Mahirah Izzati Ismail,b9b32e3c,I Barma,521abce2,0,0,0,0,0,,,,,,1,0,1
+1393595,2023,Nepal,3,I Barma,521abce2,Mahirah Izzati Ismail,b9b32e3c,K Shrestha,119de50f,0,0,0,0,0,,,,,,1,0,1
+1393595,2023,Nepal,4,I Barma,521abce2,Ainna Hamizah Hashim,4c7744de,K Shrestha,119de50f,0,0,0,0,0,,,,,,1,0,1
+1393595,2023,Nepal,4,K Shrestha,119de50f,Ainna Hamizah Hashim,4c7744de,I Barma,521abce2,0,0,0,0,0,,,,,,0,0,0
+1393595,2023,Nepal,4,K Shrestha,119de50f,Ainna Hamizah Hashim,4c7744de,I Barma,521abce2,0,0,0,0,0,,,,,,1,0,1
+1393595,2023,Nepal,4,I Barma,521abce2,Ainna Hamizah Hashim,4c7744de,K Shrestha,119de50f,0,0,0,0,0,,,,,,1,0,1
+1393595,2023,Nepal,4,K Shrestha,119de50f,Ainna Hamizah Hashim,4c7744de,I Barma,521abce2,0,0,0,0,0,,,,,,0,0,0
+1393595,2023,Nepal,4,K Shrestha,119de50f,Ainna Hamizah Hashim,4c7744de,I Barma,521abce2,0,0,0,0,0,,,,,,0,0,0
+1393595,2023,Nepal,5,I Barma,521abce2,Aisya Eleesa,2cd18a73,K Shrestha,119de50f,0,0,0,0,0,,,,,,0,0,0
+1393595,2023,Nepal,5,I Barma,521abce2,Aisya Eleesa,2cd18a73,K Shrestha,119de50f,0,0,0,0,0,,,,,,0,0,0
+1393595,2023,Nepal,5,I Barma,521abce2,Aisya Eleesa,2cd18a73,K Shrestha,119de50f,0,0,0,0,0,,,,,,1,0,1
+1393595,2023,Nepal,5,K Shrestha,119de50f,Aisya Eleesa,2cd18a73,I Barma,521abce2,0,0,0,0,0,,,,,,0,0,0
+1393595,2023,Nepal,5,K Shrestha,119de50f,Aisya Eleesa,2cd18a73,I Barma,521abce2,0,0,0,0,0,,,,,,2,0,2
+1393595,2023,Nepal,5,K Shrestha,119de50f,Aisya Eleesa,2cd18a73,I Barma,521abce2,0,0,0,0,0,,,,,,1,0,1
+1393595,2023,Nepal,6,K Shrestha,119de50f,Nur Dania Syuhada,3af75717,I Barma,521abce2,0,0,0,0,1,K Shrestha,119de50f,Ainna Hamizah Hashim,4c7744de,caught,0,0,0
+1393595,2023,Nepal,6,SR Magar,61c22ad0,Nur Dania Syuhada,3af75717,I Barma,521abce2,0,0,0,0,0,,,,,,0,0,0
+1393595,2023,Nepal,6,SR Magar,61c22ad0,Nur Dania Syuhada,3af75717,I Barma,521abce2,0,0,0,0,0,,,,,,0,0,0
+1393595,2023,Nepal,6,SR Magar,61c22ad0,Nur Dania Syuhada,3af75717,I Barma,521abce2,0,0,0,0,0,,,,,,0,0,0
+1393595,2023,Nepal,6,SR Magar,61c22ad0,Nur Dania Syuhada,3af75717,I Barma,521abce2,1,0,0,0,0,,,,,,0,1,1
+1393595,2023,Nepal,6,SR Magar,61c22ad0,Nur Dania Syuhada,3af75717,I Barma,521abce2,0,0,0,0,0,,,,,,1,0,1
+1393595,2023,Nepal,6,I Barma,521abce2,Nur Dania Syuhada,3af75717,SR Magar,61c22ad0,0,0,0,0,0,,,,,,0,0,0
+1393595,2023,Nepal,7,SR Magar,61c22ad0,Aisya Eleesa,2cd18a73,I Barma,521abce2,0,0,0,0,0,,,,,,1,0,1
+1393595,2023,Nepal,7,I Barma,521abce2,Aisya Eleesa,2cd18a73,SR Magar,61c22ad0,0,0,0,0,0,,,,,,0,0,0
+1393595,2023,Nepal,7,I Barma,521abce2,Aisya Eleesa,2cd18a73,SR Magar,61c22ad0,0,0,0,0,0,,,,,,1,0,1
+1393595,2023,Nepal,7,SR Magar,61c22ad0,Aisya Eleesa,2cd18a73,I Barma,521abce2,0,0,0,0,0,,,,,,1,0,1
+1393595,2023,Nepal,7,I Barma,521abce2,Aisya Eleesa,2cd18a73,SR Magar,61c22ad0,0,0,0,0,0,,,,,,0,0,0
+1393595,2023,Nepal,7,I Barma,521abce2,Aisya Eleesa,2cd18a73,SR Magar,61c22ad0,0,0,0,0,0,,,,,,1,0,1
+1393595,2023,Nepal,8,I Barma,521abce2,Nur Dania Syuhada,3af75717,SR Magar,61c22ad0,0,0,0,0,0,,,,,,0,0,0
+1393595,2023,Nepal,8,I Barma,521abce2,Nur Dania Syuhada,3af75717,SR Magar,61c22ad0,0,0,0,0,0,,,,,,1,0,1
+1393595,2023,Nepal,8,SR Magar,61c22ad0,Nur Dania Syuhada,3af75717,I Barma,521abce2,0,0,0,0,0,,,,,,1,0,1
+1393595,2023,Nepal,8,I Barma,521abce2,Nur Dania Syuhada,3af75717,SR Magar,61c22ad0,0,0,0,0,0,,,,,,1,0,1
+1393595,2023,Nepal,8,SR Magar,61c22ad0,Nur Dania Syuhada,3af75717,I Barma,521abce2,1,0,0,0,0,,,,,,0,1,1
+1393595,2023,Nepal,8,SR Magar,61c22ad0,Nur Dania Syuhada,3af75717,I Barma,521abce2,0,0,0,0,0,,,,,,2,0,2
+1393595,2023,Nepal,8,SR Magar,61c22ad0,Nur Dania Syuhada,3af75717,I Barma,521abce2,0,0,0,0,0,,,,,,2,0,2
+1393595,2023,Nepal,9,I Barma,521abce2,Nik Nur Atiela,cfdfe39c,SR Magar,61c22ad0,0,0,0,0,0,,,,,,0,0,0
+1393595,2023,Nepal,9,I Barma,521abce2,Nik Nur Atiela,cfdfe39c,SR Magar,61c22ad0,0,0,0,0,0,,,,,,1,0,1
+1393595,2023,Nepal,9,SR Magar,61c22ad0,Nik Nur Atiela,cfdfe39c,I Barma,521abce2,1,0,0,0,0,,,,,,0,1,1
+1393595,2023,Nepal,9,SR Magar,61c22ad0,Nik Nur Atiela,cfdfe39c,I Barma,521abce2,0,0,0,0,0,,,,,,0,0,0
+1393595,2023,Nepal,9,SR Magar,61c22ad0,Nik Nur Atiela,cfdfe39c,I Barma,521abce2,0,0,0,0,0,,,,,,0,0,0
+1393595,2023,Nepal,9,SR Magar,61c22ad0,Nik Nur Atiela,cfdfe39c,I Barma,521abce2,0,0,0,0,0,,,,,,1,0,1
+1393595,2023,Nepal,9,I Barma,521abce2,Nik Nur Atiela,cfdfe39c,SR Magar,61c22ad0,0,0,0,0,0,,,,,,0,0,0
+1393595,2023,Nepal,10,SR Magar,61c22ad0,Nur Dania Syuhada,3af75717,I Barma,521abce2,0,0,0,0,1,SR Magar,61c22ad0,Mas Elysa,857de42e,caught,0,0,0
+1393595,2023,Nepal,10,RC Belbashi,dfdaca74,Nur Dania Syuhada,3af75717,I Barma,521abce2,0,0,0,0,0,,,,,,0,0,0
+1393595,2023,Nepal,10,RC Belbashi,dfdaca74,Nur Dania Syuhada,3af75717,I Barma,521abce2,0,0,0,0,0,,,,,,1,0,1
+1393595,2023,Nepal,10,I Barma,521abce2,Nur Dania Syuhada,3af75717,RC Belbashi,dfdaca74,0,0,0,0,0,,,,,,0,0,0
+1393595,2023,Nepal,10,I Barma,521abce2,Nur Dania Syuhada,3af75717,RC Belbashi,dfdaca74,0,0,0,0,0,,,,,,1,0,1
+1393595,2023,Nepal,10,RC Belbashi,dfdaca74,Nur Dania Syuhada,3af75717,I Barma,521abce2,0,0,0,0,0,,,,,,1,0,1
+1393595,2023,Nepal,11,RC Belbashi,dfdaca74,Nik Nur Atiela,cfdfe39c,I Barma,521abce2,0,0,0,0,0,,,,,,0,0,0
+1393595,2023,Nepal,11,RC Belbashi,dfdaca74,Nik Nur Atiela,cfdfe39c,I Barma,521abce2,0,0,0,0,0,,,,,,0,0,0
+1393595,2023,Nepal,11,RC Belbashi,dfdaca74,Nik Nur Atiela,cfdfe39c,I Barma,521abce2,0,0,0,0,0,,,,,,0,0,0
+1393595,2023,Nepal,11,RC Belbashi,dfdaca74,Nik Nur Atiela,cfdfe39c,I Barma,521abce2,0,0,0,0,0,,,,,,0,0,0
+1393595,2023,Nepal,11,RC Belbashi,dfdaca74,Nik Nur Atiela,cfdfe39c,I Barma,521abce2,0,0,0,0,0,,,,,,0,0,0
+1393595,2023,Nepal,11,RC Belbashi,dfdaca74,Nik Nur Atiela,cfdfe39c,I Barma,521abce2,0,0,0,0,0,,,,,,0,0,0
+1393595,2023,Nepal,12,I Barma,521abce2,Nur Dania Syuhada,3af75717,RC Belbashi,dfdaca74,0,0,0,0,0,,,,,,1,0,1
+1393595,2023,Nepal,12,RC Belbashi,dfdaca74,Nur Dania Syuhada,3af75717,I Barma,521abce2,0,0,0,0,0,,,,,,1,0,1
+1393595,2023,Nepal,12,I Barma,521abce2,Nur Dania Syuhada,3af75717,RC Belbashi,dfdaca74,0,0,0,0,0,,,,,,0,0,0
+1393595,2023,Nepal,12,I Barma,521abce2,Nur Dania Syuhada,3af75717,RC Belbashi,dfdaca74,0,0,0,0,0,,,,,,1,0,1
+1393595,2023,Nepal,12,RC Belbashi,dfdaca74,Nur Dania Syuhada,3af75717,I Barma,521abce2,0,0,0,0,0,,,,,,4,0,4
+1393595,2023,Nepal,12,RC Belbashi,dfdaca74,Nur Dania Syuhada,3af75717,I Barma,521abce2,0,0,0,0,0,,,,,,0,0,0
+1393595,2023,Nepal,13,I Barma,521abce2,Nik Nur Atiela,cfdfe39c,RC Belbashi,dfdaca74,0,0,0,0,0,,,,,,1,0,1
+1393595,2023,Nepal,13,RC Belbashi,dfdaca74,Nik Nur Atiela,cfdfe39c,I Barma,521abce2,0,0,0,0,0,,,,,,0,0,0
+1393595,2023,Nepal,13,RC Belbashi,dfdaca74,Nik Nur Atiela,cfdfe39c,I Barma,521abce2,0,0,0,0,0,,,,,,1,0,1
+1393595,2023,Nepal,13,I Barma,521abce2,Nik Nur Atiela,cfdfe39c,RC Belbashi,dfdaca74,0,0,0,0,0,,,,,,1,0,1
+1393595,2023,Nepal,13,RC Belbashi,dfdaca74,Nik Nur Atiela,cfdfe39c,I Barma,521abce2,0,0,0,0,0,,,,,,6,0,6
+1393595,2023,Nepal,13,RC Belbashi,dfdaca74,Nik Nur Atiela,cfdfe39c,I Barma,521abce2,0,0,0,0,0,,,,,,0,0,0
+1393595,2023,Nepal,14,I Barma,521abce2,Mahirah Izzati Ismail,b9b32e3c,RC Belbashi,dfdaca74,0,0,0,0,0,,,,,,1,0,1
+1393595,2023,Nepal,14,RC Belbashi,dfdaca74,Mahirah Izzati Ismail,b9b32e3c,I Barma,521abce2,0,0,0,0,0,,,,,,0,0,0
+1393595,2023,Nepal,14,RC Belbashi,dfdaca74,Mahirah Izzati Ismail,b9b32e3c,I Barma,521abce2,0,0,0,0,0,,,,,,0,0,0
+1393595,2023,Nepal,14,RC Belbashi,dfdaca74,Mahirah Izzati Ismail,b9b32e3c,I Barma,521abce2,0,0,0,0,0,,,,,,0,0,0
+1393595,2023,Nepal,14,RC Belbashi,dfdaca74,Mahirah Izzati Ismail,b9b32e3c,I Barma,521abce2,0,0,0,0,0,,,,,,2,0,2
+1393595,2023,Nepal,14,RC Belbashi,dfdaca74,Mahirah Izzati Ismail,b9b32e3c,I Barma,521abce2,0,0,0,0,0,,,,,,1,0,1
+1393595,2023,Nepal,15,RC Belbashi,dfdaca74,Aisya Eleesa,2cd18a73,I Barma,521abce2,0,0,0,0,0,,,,,,4,0,4
+1393595,2023,Nepal,15,RC Belbashi,dfdaca74,Aisya Eleesa,2cd18a73,I Barma,521abce2,0,0,0,0,0,,,,,,0,0,0
+1393595,2023,Nepal,15,RC Belbashi,dfdaca74,Aisya Eleesa,2cd18a73,I Barma,521abce2,0,0,0,0,0,,,,,,1,0,1
+1393595,2023,Nepal,15,I Barma,521abce2,Aisya Eleesa,2cd18a73,RC Belbashi,dfdaca74,0,0,0,0,0,,,,,,1,0,1
+1393595,2023,Nepal,15,RC Belbashi,dfdaca74,Aisya Eleesa,2cd18a73,I Barma,521abce2,0,0,0,0,0,,,,,,1,0,1
+1393595,2023,Nepal,15,I Barma,521abce2,Aisya Eleesa,2cd18a73,RC Belbashi,dfdaca74,0,0,0,0,1,I Barma,521abce2,Wan Julia,bee0c85c,caught,0,0,0
+1393595,2023,Nepal,16,RC Belbashi,dfdaca74,Ainna Hamizah Hashim,4c7744de,K Joshi,0cd297b9,0,0,0,0,1,RC Belbashi,dfdaca74,Irdina Beh Nabil,59ace6d9,caught,0,0,0
+1393595,2023,Nepal,16,K Kunwar,97e6e41a,Ainna Hamizah Hashim,4c7744de,K Joshi,0cd297b9,0,0,0,0,0,,,,,,0,0,0
+1393595,2023,Nepal,16,K Kunwar,97e6e41a,Ainna Hamizah Hashim,4c7744de,K Joshi,0cd297b9,1,0,0,0,0,,,,,,0,1,1
+1393595,2023,Nepal,16,K Kunwar,97e6e41a,Ainna Hamizah Hashim,4c7744de,K Joshi,0cd297b9,0,0,0,0,0,,,,,,0,0,0
+1393595,2023,Nepal,16,K Kunwar,97e6e41a,Ainna Hamizah Hashim,4c7744de,K Joshi,0cd297b9,0,0,0,0,0,,,,,,1,0,1
+1393595,2023,Nepal,16,K Joshi,0cd297b9,Ainna Hamizah Hashim,4c7744de,K Kunwar,97e6e41a,0,0,0,0,0,,,,,,0,0,0
+1393595,2023,Nepal,16,K Joshi,0cd297b9,Ainna Hamizah Hashim,4c7744de,K Kunwar,97e6e41a,0,0,0,0,0,,,,,,1,0,1
+1393595,2023,Nepal,17,K Joshi,0cd297b9,Mahirah Izzati Ismail,b9b32e3c,K Kunwar,97e6e41a,0,0,0,0,0,,,,,,2,0,2
+1393595,2023,Nepal,17,K Joshi,0cd297b9,Mahirah Izzati Ismail,b9b32e3c,K Kunwar,97e6e41a,0,0,0,0,0,,,,,,1,0,1
+1393595,2023,Nepal,17,K Kunwar,97e6e41a,Mahirah Izzati Ismail,b9b32e3c,K Joshi,0cd297b9,0,0,0,0,1,K Kunwar,97e6e41a,Wan Julia,bee0c85c,stumped,0,0,0
+1393595,2023,Nepal,17,Samjhana Khadka,765a2354,Mahirah Izzati Ismail,b9b32e3c,K Joshi,0cd297b9,0,0,0,0,0,,,,,,2,0,2
+1393595,2023,Nepal,17,Samjhana Khadka,765a2354,Mahirah Izzati Ismail,b9b32e3c,K Joshi,0cd297b9,0,0,0,0,1,Samjhana Khadka,765a2354,,,bowled,0,0,0
+1393595,2023,Nepal,17,B Rawal,4d1cc284,Mahirah Izzati Ismail,b9b32e3c,K Joshi,0cd297b9,0,0,0,0,0,,,,,,1,0,1
+1393595,2023,Malaysia,0,Ainna Hamizah Hashim,4c7744de,K Kunwar,97e6e41a,Wan Julia,bee0c85c,0,0,0,0,0,,,,,,0,0,0
+1393595,2023,Malaysia,0,Ainna Hamizah Hashim,4c7744de,K Kunwar,97e6e41a,Wan Julia,bee0c85c,0,0,0,0,0,,,,,,0,0,0
+1393595,2023,Malaysia,0,Ainna Hamizah Hashim,4c7744de,K Kunwar,97e6e41a,Wan Julia,bee0c85c,0,0,0,0,0,,,,,,0,0,0
+1393595,2023,Malaysia,0,Ainna Hamizah Hashim,4c7744de,K Kunwar,97e6e41a,Wan Julia,bee0c85c,0,0,0,0,0,,,,,,2,0,2
+1393595,2023,Malaysia,0,Ainna Hamizah Hashim,4c7744de,K Kunwar,97e6e41a,Wan Julia,bee0c85c,1,0,0,0,0,,,,,,0,1,1
+1393595,2023,Malaysia,0,Ainna Hamizah Hashim,4c7744de,K Kunwar,97e6e41a,Wan Julia,bee0c85c,0,0,0,0,0,,,,,,0,0,0
+1393595,2023,Malaysia,0,Ainna Hamizah Hashim,4c7744de,K Kunwar,97e6e41a,Wan Julia,bee0c85c,0,0,0,0,0,,,,,,0,0,0
+1393595,2023,Malaysia,1,Wan Julia,bee0c85c,Puja Mahato,4b95058b,Ainna Hamizah Hashim,4c7744de,0,0,0,0,0,,,,,,1,0,1
+1393595,2023,Malaysia,1,Ainna Hamizah Hashim,4c7744de,Puja Mahato,4b95058b,Wan Julia,bee0c85c,0,0,0,0,0,,,,,,1,0,1
+1393595,2023,Malaysia,1,Wan Julia,bee0c85c,Puja Mahato,4b95058b,Ainna Hamizah Hashim,4c7744de,0,0,0,0,0,,,,,,0,0,0
+1393595,2023,Malaysia,1,Wan Julia,bee0c85c,Puja Mahato,4b95058b,Ainna Hamizah Hashim,4c7744de,0,0,0,0,0,,,,,,0,0,0
+1393595,2023,Malaysia,1,Wan Julia,bee0c85c,Puja Mahato,4b95058b,Ainna Hamizah Hashim,4c7744de,0,0,0,0,0,,,,,,0,0,0
+1393595,2023,Malaysia,1,Wan Julia,bee0c85c,Puja Mahato,4b95058b,Ainna Hamizah Hashim,4c7744de,0,0,0,0,0,,,,,,1,0,1
+1393595,2023,Malaysia,2,Wan Julia,bee0c85c,K Kunwar,97e6e41a,Ainna Hamizah Hashim,4c7744de,0,0,0,0,0,,,,,,0,0,0
+1393595,2023,Malaysia,2,Wan Julia,bee0c85c,K Kunwar,97e6e41a,Ainna Hamizah Hashim,4c7744de,0,0,0,0,0,,,,,,0,0,0
+1393595,2023,Malaysia,2,Wan Julia,bee0c85c,K Kunwar,97e6e41a,Ainna Hamizah Hashim,4c7744de,0,0,0,0,0,,,,,,2,0,2
+1393595,2023,Malaysia,2,Wan Julia,bee0c85c,K Kunwar,97e6e41a,Ainna Hamizah Hashim,4c7744de,0,0,0,0,0,,,,,,2,0,2
+1393595,2023,Malaysia,2,Wan Julia,bee0c85c,K Kunwar,97e6e41a,Ainna Hamizah Hashim,4c7744de,0,0,0,0,0,,,,,,2,0,2
+1393595,2023,Malaysia,2,Wan Julia,bee0c85c,K Kunwar,97e6e41a,Ainna Hamizah Hashim,4c7744de,0,0,0,0,0,,,,,,0,0,0
+1393595,2023,Malaysia,3,Ainna Hamizah Hashim,4c7744de,Puja Mahato,4b95058b,Wan Julia,bee0c85c,0,0,0,0,0,,,,,,4,0,4
+1393595,2023,Malaysia,3,Ainna Hamizah Hashim,4c7744de,Puja Mahato,4b95058b,Wan Julia,bee0c85c,1,0,0,0,0,,,,,,0,1,1
+1393595,2023,Malaysia,3,Ainna Hamizah Hashim,4c7744de,Puja Mahato,4b95058b,Wan Julia,bee0c85c,0,0,0,0,0,,,,,,3,0,3
+1393595,2023,Malaysia,3,Wan Julia,bee0c85c,Puja Mahato,4b95058b,Ainna Hamizah Hashim,4c7744de,0,0,0,0,1,Wan Julia,bee0c85c,A Karmacharya,e1492aed,caught,0,0,0
+1393595,2023,Malaysia,3,Mas Elysa,857de42e,Puja Mahato,4b95058b,Ainna Hamizah Hashim,4c7744de,0,0,0,0,0,,,,,,0,0,0
+1393595,2023,Malaysia,3,Mas Elysa,857de42e,Puja Mahato,4b95058b,Ainna Hamizah Hashim,4c7744de,0,0,0,0,0,,,,,,0,0,0
+1393595,2023,Malaysia,3,Mas Elysa,857de42e,Puja Mahato,4b95058b,Ainna Hamizah Hashim,4c7744de,1,0,0,0,0,,,,,,0,1,1
+1393595,2023,Malaysia,3,Mas Elysa,857de42e,Puja Mahato,4b95058b,Ainna Hamizah Hashim,4c7744de,0,0,0,0,0,,,,,,1,0,1
+1393595,2023,Malaysia,4,Mas Elysa,857de42e,SR Magar,61c22ad0,Ainna Hamizah Hashim,4c7744de,0,0,0,0,0,,,,,,0,0,0
+1393595,2023,Malaysia,4,Mas Elysa,857de42e,SR Magar,61c22ad0,Ainna Hamizah Hashim,4c7744de,0,0,0,0,0,,,,,,0,0,0
+1393595,2023,Malaysia,4,Mas Elysa,857de42e,SR Magar,61c22ad0,Ainna Hamizah Hashim,4c7744de,0,0,0,0,0,,,,,,1,0,1
+1393595,2023,Malaysia,4,Ainna Hamizah Hashim,4c7744de,SR Magar,61c22ad0,Mas Elysa,857de42e,0,0,0,0,0,,,,,,1,0,1
+1393595,2023,Malaysia,4,Mas Elysa,857de42e,SR Magar,61c22ad0,Ainna Hamizah Hashim,4c7744de,0,0,0,0,1,Mas Elysa,857de42e,I Barma,521abce2,caught,0,0,0
+1393595,2023,Malaysia,4,Mahirah Izzati Ismail,b9b32e3c,SR Magar,61c22ad0,Ainna Hamizah Hashim,4c7744de,0,0,0,0,0,,,,,,2,0,2
+1393595,2023,Malaysia,5,Ainna Hamizah Hashim,4c7744de,RC Belbashi,dfdaca74,Mahirah Izzati Ismail,b9b32e3c,0,0,0,0,0,,,,,,1,0,1
+1393595,2023,Malaysia,5,Mahirah Izzati Ismail,b9b32e3c,RC Belbashi,dfdaca74,Ainna Hamizah Hashim,4c7744de,0,0,0,0,0,,,,,,0,0,0
+1393595,2023,Malaysia,5,Mahirah Izzati Ismail,b9b32e3c,RC Belbashi,dfdaca74,Ainna Hamizah Hashim,4c7744de,0,0,0,0,0,,,,,,0,0,0
+1393595,2023,Malaysia,5,Mahirah Izzati Ismail,b9b32e3c,RC Belbashi,dfdaca74,Ainna Hamizah Hashim,4c7744de,0,0,0,0,0,,,,,,4,0,4
+1393595,2023,Malaysia,5,Mahirah Izzati Ismail,b9b32e3c,RC Belbashi,dfdaca74,Ainna Hamizah Hashim,4c7744de,0,0,0,0,0,,,,,,0,0,0
+1393595,2023,Malaysia,5,Mahirah Izzati Ismail,b9b32e3c,RC Belbashi,dfdaca74,Ainna Hamizah Hashim,4c7744de,0,0,0,0,0,,,,,,3,0,3
+1393595,2023,Malaysia,6,Mahirah Izzati Ismail,b9b32e3c,SR Magar,61c22ad0,Ainna Hamizah Hashim,4c7744de,0,0,0,0,0,,,,,,0,0,0
+1393595,2023,Malaysia,6,Mahirah Izzati Ismail,b9b32e3c,SR Magar,61c22ad0,Ainna Hamizah Hashim,4c7744de,0,0,0,0,0,,,,,,1,0,1
+1393595,2023,Malaysia,6,Ainna Hamizah Hashim,4c7744de,SR Magar,61c22ad0,Mahirah Izzati Ismail,b9b32e3c,0,0,0,0,0,,,,,,0,0,0
+1393595,2023,Malaysia,6,Ainna Hamizah Hashim,4c7744de,SR Magar,61c22ad0,Mahirah Izzati Ismail,b9b32e3c,0,0,0,0,0,,,,,,1,0,1
+1393595,2023,Malaysia,6,Mahirah Izzati Ismail,b9b32e3c,SR Magar,61c22ad0,Ainna Hamizah Hashim,4c7744de,0,0,0,0,0,,,,,,1,0,1
+1393595,2023,Malaysia,6,Ainna Hamizah Hashim,4c7744de,SR Magar,61c22ad0,Mahirah Izzati Ismail,b9b32e3c,0,0,0,0,0,,,,,,0,0,0
+1393595,2023,Malaysia,7,Mahirah Izzati Ismail,b9b32e3c,K Dangol,db080f9d,Ainna Hamizah Hashim,4c7744de,0,0,0,0,0,,,,,,2,0,2
+1393595,2023,Malaysia,7,Mahirah Izzati Ismail,b9b32e3c,K Dangol,db080f9d,Ainna Hamizah Hashim,4c7744de,0,0,0,0,0,,,,,,0,0,0
+1393595,2023,Malaysia,7,Mahirah Izzati Ismail,b9b32e3c,K Dangol,db080f9d,Ainna Hamizah Hashim,4c7744de,0,0,0,0,0,,,,,,0,0,0
+1393595,2023,Malaysia,7,Mahirah Izzati Ismail,b9b32e3c,K Dangol,db080f9d,Ainna Hamizah Hashim,4c7744de,0,0,0,0,0,,,,,,1,0,1
+1393595,2023,Malaysia,7,Ainna Hamizah Hashim,4c7744de,K Dangol,db080f9d,Mahirah Izzati Ismail,b9b32e3c,1,0,0,0,0,,,,,,0,1,1
+1393595,2023,Malaysia,7,Ainna Hamizah Hashim,4c7744de,K Dangol,db080f9d,Mahirah Izzati Ismail,b9b32e3c,0,0,0,0,0,,,,,,4,0,4
+1393595,2023,Malaysia,7,Ainna Hamizah Hashim,4c7744de,K Dangol,db080f9d,Mahirah Izzati Ismail,b9b32e3c,1,0,0,0,0,,,,,,0,1,1
+1393595,2023,Malaysia,7,Ainna Hamizah Hashim,4c7744de,K Dangol,db080f9d,Mahirah Izzati Ismail,b9b32e3c,0,0,0,0,0,,,,,,0,0,0
+1393595,2023,Malaysia,8,Mahirah Izzati Ismail,b9b32e3c,K Joshi,0cd297b9,Ainna Hamizah Hashim,4c7744de,0,0,0,0,0,,,,,,1,0,1
+1393595,2023,Malaysia,8,Ainna Hamizah Hashim,4c7744de,K Joshi,0cd297b9,Mahirah Izzati Ismail,b9b32e3c,0,0,0,0,0,,,,,,1,0,1
+1393595,2023,Malaysia,8,Mahirah Izzati Ismail,b9b32e3c,K Joshi,0cd297b9,Ainna Hamizah Hashim,4c7744de,0,0,0,0,0,,,,,,1,0,1
+1393595,2023,Malaysia,8,Ainna Hamizah Hashim,4c7744de,K Joshi,0cd297b9,Mahirah Izzati Ismail,b9b32e3c,0,0,0,0,0,,,,,,0,0,0
+1393595,2023,Malaysia,8,Ainna Hamizah Hashim,4c7744de,K Joshi,0cd297b9,Mahirah Izzati Ismail,b9b32e3c,0,0,0,0,0,,,,,,2,0,2
+1393595,2023,Malaysia,8,Ainna Hamizah Hashim,4c7744de,K Joshi,0cd297b9,Mahirah Izzati Ismail,b9b32e3c,0,0,0,0,0,,,,,,0,0,0
+1393595,2023,Malaysia,9,Mahirah Izzati Ismail,b9b32e3c,I Barma,521abce2,Ainna Hamizah Hashim,4c7744de,0,0,0,0,0,,,,,,0,0,0
+1393595,2023,Malaysia,9,Mahirah Izzati Ismail,b9b32e3c,I Barma,521abce2,Ainna Hamizah Hashim,4c7744de,0,0,0,0,0,,,,,,1,0,1
+1393595,2023,Malaysia,9,Ainna Hamizah Hashim,4c7744de,I Barma,521abce2,Mahirah Izzati Ismail,b9b32e3c,0,0,0,0,0,,,,,,0,0,0
+1393595,2023,Malaysia,9,Ainna Hamizah Hashim,4c7744de,I Barma,521abce2,Mahirah Izzati Ismail,b9b32e3c,0,0,0,0,0,,,,,,0,0,0
+1393595,2023,Malaysia,9,Ainna Hamizah Hashim,4c7744de,I Barma,521abce2,Mahirah Izzati Ismail,b9b32e3c,0,0,0,0,0,,,,,,1,0,1
+1393595,2023,Malaysia,9,Mahirah Izzati Ismail,b9b32e3c,I Barma,521abce2,Ainna Hamizah Hashim,4c7744de,0,0,0,0,0,,,,,,0,0,0
+1393595,2023,Malaysia,10,Ainna Hamizah Hashim,4c7744de,K Joshi,0cd297b9,Mahirah Izzati Ismail,b9b32e3c,1,0,0,0,0,,,,,,0,1,1
+1393595,2023,Malaysia,10,Ainna Hamizah Hashim,4c7744de,K Joshi,0cd297b9,Mahirah Izzati Ismail,b9b32e3c,0,0,0,0,0,,,,,,2,0,2
+1393595,2023,Malaysia,10,Ainna Hamizah Hashim,4c7744de,K Joshi,0cd297b9,Mahirah Izzati Ismail,b9b32e3c,0,0,0,0,0,,,,,,0,0,0
+1393595,2023,Malaysia,10,Ainna Hamizah Hashim,4c7744de,K Joshi,0cd297b9,Mahirah Izzati Ismail,b9b32e3c,0,0,0,0,0,,,,,,2,0,2
+1393595,2023,Malaysia,10,Ainna Hamizah Hashim,4c7744de,K Joshi,0cd297b9,Mahirah Izzati Ismail,b9b32e3c,0,0,0,0,0,,,,,,1,0,1
+1393595,2023,Malaysia,10,Mahirah Izzati Ismail,b9b32e3c,K Joshi,0cd297b9,Ainna Hamizah Hashim,4c7744de,0,0,0,0,0,,,,,,0,0,0
+1393595,2023,Malaysia,10,Mahirah Izzati Ismail,b9b32e3c,K Joshi,0cd297b9,Ainna Hamizah Hashim,4c7744de,0,0,0,0,0,,,,,,0,0,0
+1393595,2023,Malaysia,11,Ainna Hamizah Hashim,4c7744de,I Barma,521abce2,Mahirah Izzati Ismail,b9b32e3c,0,0,0,0,0,,,,,,1,0,1
+1393595,2023,Malaysia,11,Mahirah Izzati Ismail,b9b32e3c,I Barma,521abce2,Ainna Hamizah Hashim,4c7744de,0,0,0,0,0,,,,,,1,0,1
+1393595,2023,Malaysia,11,Ainna Hamizah Hashim,4c7744de,I Barma,521abce2,Mahirah Izzati Ismail,b9b32e3c,0,0,0,0,0,,,,,,1,0,1
+1393595,2023,Malaysia,11,Mahirah Izzati Ismail,b9b32e3c,I Barma,521abce2,Ainna Hamizah Hashim,4c7744de,0,0,0,0,0,,,,,,1,0,1
+1393595,2023,Malaysia,11,Ainna Hamizah Hashim,4c7744de,I Barma,521abce2,Mahirah Izzati Ismail,b9b32e3c,0,0,0,0,0,,,,,,0,0,0
+1393595,2023,Malaysia,11,Ainna Hamizah Hashim,4c7744de,I Barma,521abce2,Mahirah Izzati Ismail,b9b32e3c,0,0,0,0,0,,,,,,0,0,0
+1393595,2023,Malaysia,12,Mahirah Izzati Ismail,b9b32e3c,SR Magar,61c22ad0,Ainna Hamizah Hashim,4c7744de,0,0,0,0,0,,,,,,1,0,1
+1393595,2023,Malaysia,12,Ainna Hamizah Hashim,4c7744de,SR Magar,61c22ad0,Mahirah Izzati Ismail,b9b32e3c,1,0,0,0,0,,,,,,0,1,1
+1393595,2023,Malaysia,12,Ainna Hamizah Hashim,4c7744de,SR Magar,61c22ad0,Mahirah Izzati Ismail,b9b32e3c,0,0,0,0,0,,,,,,1,0,1
+1393595,2023,Malaysia,12,Mahirah Izzati Ismail,b9b32e3c,SR Magar,61c22ad0,Ainna Hamizah Hashim,4c7744de,0,0,0,0,1,Mahirah Izzati Ismail,b9b32e3c,K Shrestha,119de50f,run out,1,0,1
+1393595,2023,Malaysia,12,Aina Najwa,31453abb,SR Magar,61c22ad0,Ainna Hamizah Hashim,4c7744de,1,0,0,0,0,,,,,,0,1,1
+1393595,2023,Malaysia,12,Aina Najwa,31453abb,SR Magar,61c22ad0,Ainna Hamizah Hashim,4c7744de,0,0,0,0,0,,,,,,0,0,0
+1393595,2023,Malaysia,12,Aina Najwa,31453abb,SR Magar,61c22ad0,Ainna Hamizah Hashim,4c7744de,0,0,0,0,0,,,,,,0,0,0
+1393595,2023,Malaysia,12,Aina Najwa,31453abb,SR Magar,61c22ad0,Ainna Hamizah Hashim,4c7744de,0,0,0,0,0,,,,,,0,0,0
+1393595,2023,Malaysia,13,Ainna Hamizah Hashim,4c7744de,RC Belbashi,dfdaca74,Aina Najwa,31453abb,0,0,0,0,0,,,,,,1,0,1
+1393595,2023,Malaysia,13,Aina Najwa,31453abb,RC Belbashi,dfdaca74,Ainna Hamizah Hashim,4c7744de,0,0,0,0,0,,,,,,1,0,1
+1393595,2023,Malaysia,13,Ainna Hamizah Hashim,4c7744de,RC Belbashi,dfdaca74,Aina Najwa,31453abb,0,0,0,0,0,,,,,,0,0,0
+1393595,2023,Malaysia,13,Ainna Hamizah Hashim,4c7744de,RC Belbashi,dfdaca74,Aina Najwa,31453abb,0,0,0,0,0,,,,,,1,0,1
+1393595,2023,Malaysia,13,Aina Najwa,31453abb,RC Belbashi,dfdaca74,Ainna Hamizah Hashim,4c7744de,0,0,0,0,0,,,,,,1,0,1
+1393595,2023,Malaysia,13,Ainna Hamizah Hashim,4c7744de,RC Belbashi,dfdaca74,Aina Najwa,31453abb,0,0,0,0,0,,,,,,0,0,0
+1393595,2023,Malaysia,14,Aina Najwa,31453abb,SR Magar,61c22ad0,Ainna Hamizah Hashim,4c7744de,0,0,0,0,0,,,,,,1,0,1
+1393595,2023,Malaysia,14,Ainna Hamizah Hashim,4c7744de,SR Magar,61c22ad0,Aina Najwa,31453abb,0,0,0,0,0,,,,,,1,0,1
+1393595,2023,Malaysia,14,Aina Najwa,31453abb,SR Magar,61c22ad0,Ainna Hamizah Hashim,4c7744de,0,0,0,0,0,,,,,,1,0,1
+1393595,2023,Malaysia,14,Ainna Hamizah Hashim,4c7744de,SR Magar,61c22ad0,Aina Najwa,31453abb,0,0,0,0,0,,,,,,1,0,1
+1393595,2023,Malaysia,14,Aina Najwa,31453abb,SR Magar,61c22ad0,Ainna Hamizah Hashim,4c7744de,0,0,0,0,0,,,,,,1,0,1
+1393595,2023,Malaysia,14,Ainna Hamizah Hashim,4c7744de,SR Magar,61c22ad0,Aina Najwa,31453abb,0,0,0,0,0,,,,,,4,0,4
+1393595,2023,Malaysia,15,Aina Najwa,31453abb,RC Belbashi,dfdaca74,Ainna Hamizah Hashim,4c7744de,0,0,0,0,1,Aina Najwa,31453abb,B Rawal,4d1cc284,caught,0,0,0
+1393595,2023,Malaysia,15,Aisya Eleesa,2cd18a73,RC Belbashi,dfdaca74,Ainna Hamizah Hashim,4c7744de,0,0,0,0,0,,,,,,0,0,0
+1393595,2023,Malaysia,15,Aisya Eleesa,2cd18a73,RC Belbashi,dfdaca74,Ainna Hamizah Hashim,4c7744de,0,0,0,0,0,,,,,,0,0,0
+1393595,2023,Malaysia,15,Aisya Eleesa,2cd18a73,RC Belbashi,dfdaca74,Ainna Hamizah Hashim,4c7744de,0,0,0,0,0,,,,,,2,0,2
+1393595,2023,Malaysia,15,Aisya Eleesa,2cd18a73,RC Belbashi,dfdaca74,Ainna Hamizah Hashim,4c7744de,0,0,0,0,0,,,,,,0,0,0
+1393595,2023,Malaysia,15,Aisya Eleesa,2cd18a73,RC Belbashi,dfdaca74,Ainna Hamizah Hashim,4c7744de,0,0,0,0,0,,,,,,1,0,1
+1393595,2023,Malaysia,16,Aisya Eleesa,2cd18a73,K Joshi,0cd297b9,Ainna Hamizah Hashim,4c7744de,0,0,0,0,0,,,,,,0,0,0
+1393595,2023,Malaysia,16,Aisya Eleesa,2cd18a73,K Joshi,0cd297b9,Ainna Hamizah Hashim,4c7744de,0,0,0,0,0,,,,,,1,0,1

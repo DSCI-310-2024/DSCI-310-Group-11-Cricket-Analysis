@@ -1,0 +1,198 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1273417,2021,South Africa,0,L Lee,7b01ce83,CA Henry,75820733,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,0,0,0
+1273417,2021,South Africa,0,L Lee,7b01ce83,CA Henry,75820733,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,4,0,4
+1273417,2021,South Africa,0,L Lee,7b01ce83,CA Henry,75820733,D van Niekerk,8c5775f3,0,0,0,0,0,,,,,,1,0,1
+1273417,2021,South Africa,0,D van Niekerk,8c5775f3,CA Henry,75820733,L Lee,7b01ce83,0,0,0,0,1,D van Niekerk,8c5775f3,HK Matthews,d32cf49a,caught,0,0,0
+1273417,2021,South Africa,0,M Kapp,63e3b6b3,CA Henry,75820733,L Lee,7b01ce83,0,0,0,0,0,,,,,,0,0,0
+1273417,2021,South Africa,0,M Kapp,63e3b6b3,CA Henry,75820733,L Lee,7b01ce83,0,0,0,0,0,,,,,,0,0,0
+1273417,2021,South Africa,1,L Lee,7b01ce83,AA Alleyne,4b0e3049,M Kapp,63e3b6b3,0,0,0,0,0,,,,,,0,0,0
+1273417,2021,South Africa,1,L Lee,7b01ce83,AA Alleyne,4b0e3049,M Kapp,63e3b6b3,0,0,0,0,0,,,,,,0,0,0
+1273417,2021,South Africa,1,L Lee,7b01ce83,AA Alleyne,4b0e3049,M Kapp,63e3b6b3,0,0,0,0,0,,,,,,4,0,4
+1273417,2021,South Africa,1,L Lee,7b01ce83,AA Alleyne,4b0e3049,M Kapp,63e3b6b3,0,0,0,0,1,L Lee,7b01ce83,B Cooper,ac0edb42,caught,0,0,0
+1273417,2021,South Africa,1,M Kapp,63e3b6b3,AA Alleyne,4b0e3049,L Wolvaardt,e60f81c9,0,0,0,0,0,,,,,,0,0,0
+1273417,2021,South Africa,1,M Kapp,63e3b6b3,AA Alleyne,4b0e3049,L Wolvaardt,e60f81c9,0,0,0,0,1,M Kapp,63e3b6b3,Kycia A Knight,552f664a,caught,0,0,0
+1273417,2021,South Africa,2,L Wolvaardt,e60f81c9,CA Henry,75820733,T Brits,06659caa,0,0,0,0,0,,,,,,3,0,3
+1273417,2021,South Africa,2,T Brits,06659caa,CA Henry,75820733,L Wolvaardt,e60f81c9,0,0,0,0,0,,,,,,0,0,0
+1273417,2021,South Africa,2,T Brits,06659caa,CA Henry,75820733,L Wolvaardt,e60f81c9,0,0,0,0,0,,,,,,0,0,0
+1273417,2021,South Africa,2,T Brits,06659caa,CA Henry,75820733,L Wolvaardt,e60f81c9,0,0,0,0,1,L Wolvaardt,e60f81c9,Kycia A Knight,552f664a,run out,0,0,0
+1273417,2021,South Africa,2,S Luus,6d76bc23,CA Henry,75820733,T Brits,06659caa,0,0,0,0,0,,,,,,0,0,0
+1273417,2021,South Africa,2,S Luus,6d76bc23,CA Henry,75820733,T Brits,06659caa,0,0,0,0,0,,,,,,0,0,0
+1273417,2021,South Africa,3,T Brits,06659caa,AA Alleyne,4b0e3049,S Luus,6d76bc23,0,0,0,0,0,,,,,,2,0,2
+1273417,2021,South Africa,3,T Brits,06659caa,AA Alleyne,4b0e3049,S Luus,6d76bc23,0,0,0,0,0,,,,,,4,0,4
+1273417,2021,South Africa,3,T Brits,06659caa,AA Alleyne,4b0e3049,S Luus,6d76bc23,0,0,0,0,0,,,,,,1,0,1
+1273417,2021,South Africa,3,S Luus,6d76bc23,AA Alleyne,4b0e3049,T Brits,06659caa,0,0,0,0,0,,,,,,1,0,1
+1273417,2021,South Africa,3,T Brits,06659caa,AA Alleyne,4b0e3049,S Luus,6d76bc23,0,0,0,0,0,,,,,,0,0,0
+1273417,2021,South Africa,3,T Brits,06659caa,AA Alleyne,4b0e3049,S Luus,6d76bc23,0,0,0,0,0,,,,,,4,0,4
+1273417,2021,South Africa,4,S Luus,6d76bc23,CA Henry,75820733,T Brits,06659caa,0,0,0,0,0,,,,,,1,0,1
+1273417,2021,South Africa,4,T Brits,06659caa,CA Henry,75820733,S Luus,6d76bc23,0,0,0,0,0,,,,,,0,0,0
+1273417,2021,South Africa,4,T Brits,06659caa,CA Henry,75820733,S Luus,6d76bc23,0,0,0,0,0,,,,,,0,0,0
+1273417,2021,South Africa,4,T Brits,06659caa,CA Henry,75820733,S Luus,6d76bc23,0,0,0,0,0,,,,,,0,0,0
+1273417,2021,South Africa,4,T Brits,06659caa,CA Henry,75820733,S Luus,6d76bc23,0,0,0,0,0,,,,,,4,0,4
+1273417,2021,South Africa,4,T Brits,06659caa,CA Henry,75820733,S Luus,6d76bc23,0,0,0,0,0,,,,,,0,0,0
+1273417,2021,South Africa,5,S Luus,6d76bc23,HK Matthews,d32cf49a,T Brits,06659caa,0,0,0,0,0,,,,,,0,0,0
+1273417,2021,South Africa,5,S Luus,6d76bc23,HK Matthews,d32cf49a,T Brits,06659caa,0,0,0,0,0,,,,,,0,0,0
+1273417,2021,South Africa,5,S Luus,6d76bc23,HK Matthews,d32cf49a,T Brits,06659caa,0,0,0,0,0,,,,,,0,0,0
+1273417,2021,South Africa,5,S Luus,6d76bc23,HK Matthews,d32cf49a,T Brits,06659caa,0,0,0,0,0,,,,,,1,0,1
+1273417,2021,South Africa,5,T Brits,06659caa,HK Matthews,d32cf49a,S Luus,6d76bc23,0,0,0,0,0,,,,,,0,0,0
+1273417,2021,South Africa,5,T Brits,06659caa,HK Matthews,d32cf49a,S Luus,6d76bc23,0,0,0,0,0,,,,,,0,0,0
+1273417,2021,South Africa,6,S Luus,6d76bc23,Q Joseph,d6164dc0,T Brits,06659caa,0,0,0,0,0,,,,,,0,0,0
+1273417,2021,South Africa,6,S Luus,6d76bc23,Q Joseph,d6164dc0,T Brits,06659caa,0,0,0,0,0,,,,,,0,0,0
+1273417,2021,South Africa,6,S Luus,6d76bc23,Q Joseph,d6164dc0,T Brits,06659caa,0,0,0,0,0,,,,,,0,0,0
+1273417,2021,South Africa,6,S Luus,6d76bc23,Q Joseph,d6164dc0,T Brits,06659caa,0,0,0,0,0,,,,,,0,0,0
+1273417,2021,South Africa,6,S Luus,6d76bc23,Q Joseph,d6164dc0,T Brits,06659caa,0,0,0,0,0,,,,,,6,0,6
+1273417,2021,South Africa,6,S Luus,6d76bc23,Q Joseph,d6164dc0,T Brits,06659caa,0,0,0,0,0,,,,,,0,0,0
+1273417,2021,South Africa,7,T Brits,06659caa,HK Matthews,d32cf49a,S Luus,6d76bc23,0,0,0,0,0,,,,,,1,0,1
+1273417,2021,South Africa,7,S Luus,6d76bc23,HK Matthews,d32cf49a,T Brits,06659caa,0,0,0,0,0,,,,,,0,0,0
+1273417,2021,South Africa,7,S Luus,6d76bc23,HK Matthews,d32cf49a,T Brits,06659caa,0,0,0,0,0,,,,,,0,0,0
+1273417,2021,South Africa,7,S Luus,6d76bc23,HK Matthews,d32cf49a,T Brits,06659caa,0,0,0,0,0,,,,,,1,0,1
+1273417,2021,South Africa,7,T Brits,06659caa,HK Matthews,d32cf49a,S Luus,6d76bc23,0,0,0,0,1,T Brits,06659caa,CN Nation,639000b6,caught,0,0,0
+1273417,2021,South Africa,7,S Luus,6d76bc23,HK Matthews,d32cf49a,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,1,0,1
+1273417,2021,South Africa,8,S Luus,6d76bc23,Q Joseph,d6164dc0,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,1,0,1
+1273417,2021,South Africa,8,CL Tryon,4d4605e6,Q Joseph,d6164dc0,S Luus,6d76bc23,0,0,0,0,0,,,,,,1,0,1
+1273417,2021,South Africa,8,S Luus,6d76bc23,Q Joseph,d6164dc0,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,0,0,0
+1273417,2021,South Africa,8,S Luus,6d76bc23,Q Joseph,d6164dc0,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,1,0,1
+1273417,2021,South Africa,8,CL Tryon,4d4605e6,Q Joseph,d6164dc0,S Luus,6d76bc23,0,0,0,0,0,,,,,,0,0,0
+1273417,2021,South Africa,8,CL Tryon,4d4605e6,Q Joseph,d6164dc0,S Luus,6d76bc23,0,0,0,0,0,,,,,,0,0,0
+1273417,2021,South Africa,9,S Luus,6d76bc23,HK Matthews,d32cf49a,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,0,0,0
+1273417,2021,South Africa,9,S Luus,6d76bc23,HK Matthews,d32cf49a,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,0,0,0
+1273417,2021,South Africa,9,S Luus,6d76bc23,HK Matthews,d32cf49a,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,1,0,1
+1273417,2021,South Africa,9,CL Tryon,4d4605e6,HK Matthews,d32cf49a,S Luus,6d76bc23,0,0,0,0,0,,,,,,0,0,0
+1273417,2021,South Africa,9,CL Tryon,4d4605e6,HK Matthews,d32cf49a,S Luus,6d76bc23,0,0,0,0,0,,,,,,0,0,0
+1273417,2021,South Africa,9,CL Tryon,4d4605e6,HK Matthews,d32cf49a,S Luus,6d76bc23,0,0,0,0,0,,,,,,0,0,0
+1273417,2021,South Africa,10,S Luus,6d76bc23,Q Joseph,d6164dc0,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,0,0,0
+1273417,2021,South Africa,10,S Luus,6d76bc23,Q Joseph,d6164dc0,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,1,0,1
+1273417,2021,South Africa,10,CL Tryon,4d4605e6,Q Joseph,d6164dc0,S Luus,6d76bc23,0,0,0,0,0,,,,,,2,0,2
+1273417,2021,South Africa,10,CL Tryon,4d4605e6,Q Joseph,d6164dc0,S Luus,6d76bc23,0,0,0,0,0,,,,,,0,0,0
+1273417,2021,South Africa,10,CL Tryon,4d4605e6,Q Joseph,d6164dc0,S Luus,6d76bc23,0,0,0,0,0,,,,,,0,0,0
+1273417,2021,South Africa,10,CL Tryon,4d4605e6,Q Joseph,d6164dc0,S Luus,6d76bc23,0,0,0,0,0,,,,,,0,0,0
+1273417,2021,South Africa,11,S Luus,6d76bc23,HK Matthews,d32cf49a,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,0,0,0
+1273417,2021,South Africa,11,S Luus,6d76bc23,HK Matthews,d32cf49a,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,1,0,1
+1273417,2021,South Africa,11,CL Tryon,4d4605e6,HK Matthews,d32cf49a,S Luus,6d76bc23,0,0,0,0,0,,,,,,1,0,1
+1273417,2021,South Africa,11,S Luus,6d76bc23,HK Matthews,d32cf49a,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,1,0,1
+1273417,2021,South Africa,11,CL Tryon,4d4605e6,HK Matthews,d32cf49a,S Luus,6d76bc23,0,0,0,0,0,,,,,,1,0,1
+1273417,2021,South Africa,11,S Luus,6d76bc23,HK Matthews,d32cf49a,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,0,0,0
+1273417,2021,South Africa,12,CL Tryon,4d4605e6,Q Joseph,d6164dc0,S Luus,6d76bc23,0,0,0,0,0,,,,,,1,0,1
+1273417,2021,South Africa,12,S Luus,6d76bc23,Q Joseph,d6164dc0,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,0,0,0
+1273417,2021,South Africa,12,S Luus,6d76bc23,Q Joseph,d6164dc0,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,1,0,1
+1273417,2021,South Africa,12,CL Tryon,4d4605e6,Q Joseph,d6164dc0,S Luus,6d76bc23,0,0,0,0,0,,,,,,1,0,1
+1273417,2021,South Africa,12,S Luus,6d76bc23,Q Joseph,d6164dc0,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,4,0,4
+1273417,2021,South Africa,12,S Luus,6d76bc23,Q Joseph,d6164dc0,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,0,0,0
+1273417,2021,South Africa,13,CL Tryon,4d4605e6,A Mohammed,a49985e6,S Luus,6d76bc23,0,0,0,0,0,,,,,,0,0,0
+1273417,2021,South Africa,13,CL Tryon,4d4605e6,A Mohammed,a49985e6,S Luus,6d76bc23,0,0,0,0,0,,,,,,1,0,1
+1273417,2021,South Africa,13,S Luus,6d76bc23,A Mohammed,a49985e6,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,0,0,0
+1273417,2021,South Africa,13,S Luus,6d76bc23,A Mohammed,a49985e6,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,1,0,1
+1273417,2021,South Africa,13,CL Tryon,4d4605e6,A Mohammed,a49985e6,S Luus,6d76bc23,0,0,0,0,0,,,,,,1,0,1
+1273417,2021,South Africa,13,S Luus,6d76bc23,A Mohammed,a49985e6,CL Tryon,4d4605e6,0,0,0,0,1,S Luus,6d76bc23,AA Alleyne,4b0e3049,caught,0,0,0
+1273417,2021,South Africa,14,T Chetty,53a5767d,K Ramharack,321c980e,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,0,0,0
+1273417,2021,South Africa,14,T Chetty,53a5767d,K Ramharack,321c980e,CL Tryon,4d4605e6,0,0,0,0,0,,,,,,1,0,1
+1273417,2021,South Africa,14,CL Tryon,4d4605e6,K Ramharack,321c980e,T Chetty,53a5767d,0,0,0,0,1,CL Tryon,4d4605e6,CN Nation,639000b6,caught,0,0,0
+1273417,2021,South Africa,14,T Chetty,53a5767d,K Ramharack,321c980e,M Klaas,ce85fcaf,0,0,0,0,0,,,,,,2,0,2
+1273417,2021,South Africa,14,T Chetty,53a5767d,K Ramharack,321c980e,M Klaas,ce85fcaf,0,0,0,0,0,,,,,,0,0,0
+1273417,2021,South Africa,14,T Chetty,53a5767d,K Ramharack,321c980e,M Klaas,ce85fcaf,0,0,0,0,0,,,,,,2,0,2
+1273417,2021,South Africa,15,M Klaas,ce85fcaf,A Mohammed,a49985e6,T Chetty,53a5767d,0,0,0,0,0,,,,,,1,0,1
+1273417,2021,South Africa,15,T Chetty,53a5767d,A Mohammed,a49985e6,M Klaas,ce85fcaf,0,0,0,0,0,,,,,,0,0,0
+1273417,2021,South Africa,15,T Chetty,53a5767d,A Mohammed,a49985e6,M Klaas,ce85fcaf,0,0,0,0,0,,,,,,0,0,0
+1273417,2021,South Africa,15,T Chetty,53a5767d,A Mohammed,a49985e6,M Klaas,ce85fcaf,0,0,0,0,0,,,,,,0,0,0
+1273417,2021,South Africa,15,T Chetty,53a5767d,A Mohammed,a49985e6,M Klaas,ce85fcaf,0,0,0,0,0,,,,,,1,0,1
+1273417,2021,South Africa,15,M Klaas,ce85fcaf,A Mohammed,a49985e6,T Chetty,53a5767d,0,0,0,0,0,,,,,,1,0,1
+1273417,2021,South Africa,16,M Klaas,ce85fcaf,K Ramharack,321c980e,T Chetty,53a5767d,0,0,0,0,0,,,,,,0,0,0
+1273417,2021,South Africa,16,M Klaas,ce85fcaf,K Ramharack,321c980e,T Chetty,53a5767d,0,0,0,0,0,,,,,,1,0,1
+1273417,2021,South Africa,16,T Chetty,53a5767d,K Ramharack,321c980e,M Klaas,ce85fcaf,0,0,0,0,0,,,,,,0,0,0
+1273417,2021,South Africa,16,T Chetty,53a5767d,K Ramharack,321c980e,M Klaas,ce85fcaf,0,0,0,0,1,T Chetty,53a5767d,Kyshona A Knight,d85a1960,caught,0,0,0
+1273417,2021,South Africa,16,M Klaas,ce85fcaf,K Ramharack,321c980e,A Khaka,0d518f89,0,0,0,0,0,,,,,,0,0,0
+1273417,2021,South Africa,16,M Klaas,ce85fcaf,K Ramharack,321c980e,A Khaka,0d518f89,0,0,0,0,0,,,,,,1,0,1
+1273417,2021,South Africa,17,M Klaas,ce85fcaf,A Mohammed,a49985e6,A Khaka,0d518f89,0,0,0,0,0,,,,,,0,0,0
+1273417,2021,South Africa,17,M Klaas,ce85fcaf,A Mohammed,a49985e6,A Khaka,0d518f89,0,0,0,0,0,,,,,,0,0,0
+1273417,2021,South Africa,17,M Klaas,ce85fcaf,A Mohammed,a49985e6,A Khaka,0d518f89,0,0,0,0,0,,,,,,1,0,1
+1273417,2021,South Africa,17,A Khaka,0d518f89,A Mohammed,a49985e6,M Klaas,ce85fcaf,0,0,0,0,0,,,,,,1,0,1
+1273417,2021,South Africa,17,M Klaas,ce85fcaf,A Mohammed,a49985e6,A Khaka,0d518f89,0,0,0,0,0,,,,,,1,0,1
+1273417,2021,South Africa,17,A Khaka,0d518f89,A Mohammed,a49985e6,M Klaas,ce85fcaf,0,0,0,0,0,,,,,,0,0,0
+1273417,2021,South Africa,18,M Klaas,ce85fcaf,K Ramharack,321c980e,A Khaka,0d518f89,0,0,0,0,0,,,,,,1,0,1
+1273417,2021,South Africa,18,A Khaka,0d518f89,K Ramharack,321c980e,M Klaas,ce85fcaf,0,0,0,0,0,,,,,,0,0,0
+1273417,2021,South Africa,18,A Khaka,0d518f89,K Ramharack,321c980e,M Klaas,ce85fcaf,0,0,0,0,1,A Khaka,0d518f89,,,bowled,0,0,0
+1273417,2021,South Africa,18,N Mlaba,686362af,K Ramharack,321c980e,M Klaas,ce85fcaf,0,0,0,0,0,,,,,,0,0,0
+1273417,2021,South Africa,18,N Mlaba,686362af,K Ramharack,321c980e,M Klaas,ce85fcaf,0,0,0,0,0,,,,,,0,0,0
+1273417,2021,South Africa,18,N Mlaba,686362af,K Ramharack,321c980e,M Klaas,ce85fcaf,0,0,0,0,0,,,,,,0,0,0
+1273417,2021,South Africa,19,M Klaas,ce85fcaf,A Mohammed,a49985e6,N Mlaba,686362af,0,0,0,0,0,,,,,,0,0,0
+1273417,2021,South Africa,19,M Klaas,ce85fcaf,A Mohammed,a49985e6,N Mlaba,686362af,0,0,0,0,0,,,,,,1,0,1
+1273417,2021,South Africa,19,N Mlaba,686362af,A Mohammed,a49985e6,M Klaas,ce85fcaf,0,0,0,0,0,,,,,,0,0,0
+1273417,2021,South Africa,19,N Mlaba,686362af,A Mohammed,a49985e6,M Klaas,ce85fcaf,0,0,0,0,0,,,,,,1,0,1
+1273417,2021,South Africa,19,M Klaas,ce85fcaf,A Mohammed,a49985e6,N Mlaba,686362af,0,0,0,0,0,,,,,,2,0,2
+1273417,2021,South Africa,19,M Klaas,ce85fcaf,A Mohammed,a49985e6,N Mlaba,686362af,0,0,0,0,0,,,,,,2,0,2
+1273417,2021,West Indies,0,DJS Dottin,53bee17f,M Kapp,63e3b6b3,HK Matthews,d32cf49a,0,0,0,0,0,,,,,,1,0,1
+1273417,2021,West Indies,0,HK Matthews,d32cf49a,M Kapp,63e3b6b3,DJS Dottin,53bee17f,0,0,0,0,0,,,,,,2,0,2
+1273417,2021,West Indies,0,HK Matthews,d32cf49a,M Kapp,63e3b6b3,DJS Dottin,53bee17f,0,0,0,0,0,,,,,,2,0,2
+1273417,2021,West Indies,0,HK Matthews,d32cf49a,M Kapp,63e3b6b3,DJS Dottin,53bee17f,1,0,0,0,0,,,,,,0,1,1
+1273417,2021,West Indies,0,HK Matthews,d32cf49a,M Kapp,63e3b6b3,DJS Dottin,53bee17f,0,0,0,0,0,,,,,,2,0,2
+1273417,2021,West Indies,0,HK Matthews,d32cf49a,M Kapp,63e3b6b3,DJS Dottin,53bee17f,0,0,0,0,0,,,,,,0,0,0
+1273417,2021,West Indies,0,HK Matthews,d32cf49a,M Kapp,63e3b6b3,DJS Dottin,53bee17f,0,0,0,0,0,,,,,,1,0,1
+1273417,2021,West Indies,1,HK Matthews,d32cf49a,A Khaka,0d518f89,DJS Dottin,53bee17f,0,0,0,0,1,HK Matthews,d32cf49a,L Lee,7b01ce83,caught,0,0,0
+1273417,2021,West Indies,1,Kyshona A Knight,d85a1960,A Khaka,0d518f89,DJS Dottin,53bee17f,0,0,0,0,0,,,,,,0,0,0
+1273417,2021,West Indies,1,Kyshona A Knight,d85a1960,A Khaka,0d518f89,DJS Dottin,53bee17f,0,0,0,0,0,,,,,,0,0,0
+1273417,2021,West Indies,1,Kyshona A Knight,d85a1960,A Khaka,0d518f89,DJS Dottin,53bee17f,0,0,0,0,0,,,,,,1,0,1
+1273417,2021,West Indies,1,DJS Dottin,53bee17f,A Khaka,0d518f89,Kyshona A Knight,d85a1960,0,0,0,0,0,,,,,,3,0,3
+1273417,2021,West Indies,1,Kyshona A Knight,d85a1960,A Khaka,0d518f89,DJS Dottin,53bee17f,0,0,0,0,0,,,,,,0,0,0
+1273417,2021,West Indies,2,DJS Dottin,53bee17f,M Kapp,63e3b6b3,Kyshona A Knight,d85a1960,0,0,0,0,0,,,,,,0,0,0
+1273417,2021,West Indies,2,DJS Dottin,53bee17f,M Kapp,63e3b6b3,Kyshona A Knight,d85a1960,0,0,0,0,0,,,,,,1,0,1
+1273417,2021,West Indies,2,Kyshona A Knight,d85a1960,M Kapp,63e3b6b3,DJS Dottin,53bee17f,0,0,0,0,0,,,,,,1,0,1
+1273417,2021,West Indies,2,DJS Dottin,53bee17f,M Kapp,63e3b6b3,Kyshona A Knight,d85a1960,0,0,0,0,0,,,,,,0,0,0
+1273417,2021,West Indies,2,DJS Dottin,53bee17f,M Kapp,63e3b6b3,Kyshona A Knight,d85a1960,0,0,0,0,0,,,,,,1,0,1
+1273417,2021,West Indies,2,Kyshona A Knight,d85a1960,M Kapp,63e3b6b3,DJS Dottin,53bee17f,0,0,0,0,0,,,,,,0,0,0
+1273417,2021,West Indies,3,DJS Dottin,53bee17f,A Khaka,0d518f89,Kyshona A Knight,d85a1960,0,0,0,0,0,,,,,,1,0,1
+1273417,2021,West Indies,3,Kyshona A Knight,d85a1960,A Khaka,0d518f89,DJS Dottin,53bee17f,0,0,0,0,0,,,,,,4,0,4
+1273417,2021,West Indies,3,Kyshona A Knight,d85a1960,A Khaka,0d518f89,DJS Dottin,53bee17f,1,0,0,0,0,,,,,,0,1,1
+1273417,2021,West Indies,3,Kyshona A Knight,d85a1960,A Khaka,0d518f89,DJS Dottin,53bee17f,0,0,0,0,0,,,,,,4,0,4
+1273417,2021,West Indies,3,Kyshona A Knight,d85a1960,A Khaka,0d518f89,DJS Dottin,53bee17f,0,0,0,0,0,,,,,,0,0,0
+1273417,2021,West Indies,3,Kyshona A Knight,d85a1960,A Khaka,0d518f89,DJS Dottin,53bee17f,0,0,0,0,0,,,,,,1,0,1
+1273417,2021,West Indies,3,DJS Dottin,53bee17f,A Khaka,0d518f89,Kyshona A Knight,d85a1960,0,0,0,0,0,,,,,,4,0,4
+1273417,2021,West Indies,4,Kyshona A Knight,d85a1960,M Kapp,63e3b6b3,DJS Dottin,53bee17f,0,0,0,0,0,,,,,,0,0,0
+1273417,2021,West Indies,4,Kyshona A Knight,d85a1960,M Kapp,63e3b6b3,DJS Dottin,53bee17f,0,0,0,0,0,,,,,,1,0,1
+1273417,2021,West Indies,4,DJS Dottin,53bee17f,M Kapp,63e3b6b3,Kyshona A Knight,d85a1960,0,0,0,0,0,,,,,,2,0,2
+1273417,2021,West Indies,4,DJS Dottin,53bee17f,M Kapp,63e3b6b3,Kyshona A Knight,d85a1960,0,0,0,0,0,,,,,,1,0,1
+1273417,2021,West Indies,4,Kyshona A Knight,d85a1960,M Kapp,63e3b6b3,DJS Dottin,53bee17f,0,0,0,0,0,,,,,,1,0,1
+1273417,2021,West Indies,4,DJS Dottin,53bee17f,M Kapp,63e3b6b3,Kyshona A Knight,d85a1960,0,0,0,0,0,,,,,,0,0,0
+1273417,2021,West Indies,5,Kyshona A Knight,d85a1960,N Mlaba,686362af,DJS Dottin,53bee17f,0,0,0,0,0,,,,,,1,0,1
+1273417,2021,West Indies,5,DJS Dottin,53bee17f,N Mlaba,686362af,Kyshona A Knight,d85a1960,0,0,0,0,0,,,,,,4,0,4
+1273417,2021,West Indies,5,DJS Dottin,53bee17f,N Mlaba,686362af,Kyshona A Knight,d85a1960,0,0,0,0,0,,,,,,0,0,0
+1273417,2021,West Indies,5,DJS Dottin,53bee17f,N Mlaba,686362af,Kyshona A Knight,d85a1960,0,1,0,0,0,,,,,,0,1,1
+1273417,2021,West Indies,5,DJS Dottin,53bee17f,N Mlaba,686362af,Kyshona A Knight,d85a1960,0,0,0,0,0,,,,,,1,0,1
+1273417,2021,West Indies,5,Kyshona A Knight,d85a1960,N Mlaba,686362af,DJS Dottin,53bee17f,0,1,0,0,0,,,,,,0,1,1
+1273417,2021,West Indies,5,Kyshona A Knight,d85a1960,N Mlaba,686362af,DJS Dottin,53bee17f,2,0,0,0,0,,,,,,0,2,2
+1273417,2021,West Indies,5,DJS Dottin,53bee17f,N Mlaba,686362af,Kyshona A Knight,d85a1960,0,0,0,0,0,,,,,,6,0,6
+1273417,2021,West Indies,5,DJS Dottin,53bee17f,N Mlaba,686362af,Kyshona A Knight,d85a1960,0,0,1,0,0,,,,,,0,1,1
+1273417,2021,West Indies,6,DJS Dottin,53bee17f,M Klaas,ce85fcaf,Kyshona A Knight,d85a1960,0,0,0,0,0,,,,,,0,0,0
+1273417,2021,West Indies,6,DJS Dottin,53bee17f,M Klaas,ce85fcaf,Kyshona A Knight,d85a1960,0,0,0,0,0,,,,,,1,0,1
+1273417,2021,West Indies,6,Kyshona A Knight,d85a1960,M Klaas,ce85fcaf,DJS Dottin,53bee17f,0,0,0,0,0,,,,,,1,0,1
+1273417,2021,West Indies,6,DJS Dottin,53bee17f,M Klaas,ce85fcaf,Kyshona A Knight,d85a1960,0,0,0,0,0,,,,,,1,0,1
+1273417,2021,West Indies,6,Kyshona A Knight,d85a1960,M Klaas,ce85fcaf,DJS Dottin,53bee17f,0,0,0,0,0,,,,,,1,0,1
+1273417,2021,West Indies,6,DJS Dottin,53bee17f,M Klaas,ce85fcaf,Kyshona A Knight,d85a1960,0,0,0,0,0,,,,,,4,0,4
+1273417,2021,West Indies,7,Kyshona A Knight,d85a1960,D van Niekerk,8c5775f3,DJS Dottin,53bee17f,1,0,0,0,0,,,,,,0,1,1
+1273417,2021,West Indies,7,Kyshona A Knight,d85a1960,D van Niekerk,8c5775f3,DJS Dottin,53bee17f,0,0,0,0,1,DJS Dottin,53bee17f,L Lee,7b01ce83,run out,0,0,0
+1273417,2021,West Indies,7,CN Nation,639000b6,D van Niekerk,8c5775f3,Kyshona A Knight,d85a1960,0,0,0,0,0,,,,,,0,0,0
+1273417,2021,West Indies,7,CN Nation,639000b6,D van Niekerk,8c5775f3,Kyshona A Knight,d85a1960,0,0,0,0,0,,,,,,0,0,0
+1273417,2021,West Indies,7,CN Nation,639000b6,D van Niekerk,8c5775f3,Kyshona A Knight,d85a1960,0,0,0,0,0,,,,,,0,0,0
+1273417,2021,West Indies,7,CN Nation,639000b6,D van Niekerk,8c5775f3,Kyshona A Knight,d85a1960,0,0,0,0,0,,,,,,1,0,1
+1273417,2021,West Indies,7,Kyshona A Knight,d85a1960,D van Niekerk,8c5775f3,CN Nation,639000b6,0,0,0,0,0,,,,,,1,0,1
+1273417,2021,West Indies,8,Kyshona A Knight,d85a1960,M Klaas,ce85fcaf,CN Nation,639000b6,0,0,0,0,0,,,,,,4,0,4
+1273417,2021,West Indies,8,Kyshona A Knight,d85a1960,M Klaas,ce85fcaf,CN Nation,639000b6,0,0,0,0,0,,,,,,4,0,4
+1273417,2021,West Indies,8,Kyshona A Knight,d85a1960,M Klaas,ce85fcaf,CN Nation,639000b6,0,0,0,0,0,,,,,,0,0,0
+1273417,2021,West Indies,8,Kyshona A Knight,d85a1960,M Klaas,ce85fcaf,CN Nation,639000b6,0,0,0,0,0,,,,,,0,0,0
+1273417,2021,West Indies,8,Kyshona A Knight,d85a1960,M Klaas,ce85fcaf,CN Nation,639000b6,0,0,0,0,0,,,,,,0,0,0
+1273417,2021,West Indies,8,Kyshona A Knight,d85a1960,M Klaas,ce85fcaf,CN Nation,639000b6,0,0,0,0,0,,,,,,1,0,1
+1273417,2021,West Indies,9,Kyshona A Knight,d85a1960,D van Niekerk,8c5775f3,CN Nation,639000b6,0,0,0,0,0,,,,,,0,0,0
+1273417,2021,West Indies,9,Kyshona A Knight,d85a1960,D van Niekerk,8c5775f3,CN Nation,639000b6,0,0,0,0,1,Kyshona A Knight,d85a1960,T Chetty,53a5767d,caught,0,0,0
+1273417,2021,West Indies,9,CN Nation,639000b6,D van Niekerk,8c5775f3,Kycia A Knight,552f664a,0,0,0,0,0,,,,,,0,0,0
+1273417,2021,West Indies,9,CN Nation,639000b6,D van Niekerk,8c5775f3,Kycia A Knight,552f664a,0,0,0,0,0,,,,,,1,0,1
+1273417,2021,West Indies,9,Kycia A Knight,552f664a,D van Niekerk,8c5775f3,CN Nation,639000b6,0,0,0,0,0,,,,,,0,0,0
+1273417,2021,West Indies,9,Kycia A Knight,552f664a,D van Niekerk,8c5775f3,CN Nation,639000b6,0,0,0,0,0,,,,,,0,0,0
+1273417,2021,West Indies,10,CN Nation,639000b6,S Luus,6d76bc23,Kycia A Knight,552f664a,0,0,0,0,0,,,,,,0,0,0
+1273417,2021,West Indies,10,CN Nation,639000b6,S Luus,6d76bc23,Kycia A Knight,552f664a,0,0,0,0,0,,,,,,2,0,2
+1273417,2021,West Indies,10,CN Nation,639000b6,S Luus,6d76bc23,Kycia A Knight,552f664a,0,0,0,0,0,,,,,,0,0,0
+1273417,2021,West Indies,10,CN Nation,639000b6,S Luus,6d76bc23,Kycia A Knight,552f664a,0,0,0,0,1,Kycia A Knight,552f664a,M Kapp,63e3b6b3,run out,0,0,0
+1273417,2021,West Indies,10,CN Nation,639000b6,S Luus,6d76bc23,B Cooper,ac0edb42,0,0,0,0,0,,,,,,1,0,1
+1273417,2021,West Indies,10,B Cooper,ac0edb42,S Luus,6d76bc23,CN Nation,639000b6,0,0,0,0,0,,,,,,0,0,0
+1273417,2021,West Indies,11,CN Nation,639000b6,D van Niekerk,8c5775f3,B Cooper,ac0edb42,0,0,0,0,0,,,,,,0,0,0
+1273417,2021,West Indies,11,CN Nation,639000b6,D van Niekerk,8c5775f3,B Cooper,ac0edb42,0,0,0,0,0,,,,,,1,0,1
+1273417,2021,West Indies,11,B Cooper,ac0edb42,D van Niekerk,8c5775f3,CN Nation,639000b6,0,0,0,0,1,B Cooper,ac0edb42,L Lee,7b01ce83,caught,0,0,0
+1273417,2021,West Indies,11,CA Henry,75820733,D van Niekerk,8c5775f3,CN Nation,639000b6,0,0,0,0,0,,,,,,1,0,1
+1273417,2021,West Indies,11,CN Nation,639000b6,D van Niekerk,8c5775f3,CA Henry,75820733,0,0,0,0,0,,,,,,2,0,2

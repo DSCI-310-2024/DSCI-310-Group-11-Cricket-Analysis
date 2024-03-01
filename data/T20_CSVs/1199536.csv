@@ -1,0 +1,243 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1199536,2019/20,Papua New Guinea,0,TP Ura,a82eb3fb,LN Oluoch,eb4f9c61,A Vala,72e60730,1,0,0,0,0,,,,,,0,1,1
+1199536,2019/20,Papua New Guinea,0,TP Ura,a82eb3fb,LN Oluoch,eb4f9c61,A Vala,72e60730,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Papua New Guinea,0,TP Ura,a82eb3fb,LN Oluoch,eb4f9c61,A Vala,72e60730,0,0,0,0,0,,,,,,2,0,2
+1199536,2019/20,Papua New Guinea,0,TP Ura,a82eb3fb,LN Oluoch,eb4f9c61,A Vala,72e60730,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Papua New Guinea,0,TP Ura,a82eb3fb,LN Oluoch,eb4f9c61,A Vala,72e60730,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Papua New Guinea,0,TP Ura,a82eb3fb,LN Oluoch,eb4f9c61,A Vala,72e60730,0,0,0,0,0,,,,,,1,0,1
+1199536,2019/20,Papua New Guinea,0,A Vala,72e60730,LN Oluoch,eb4f9c61,TP Ura,a82eb3fb,0,0,0,0,0,,,,,,2,0,2
+1199536,2019/20,Papua New Guinea,1,TP Ura,a82eb3fb,EB Ringera,6cedad99,A Vala,72e60730,1,0,0,0,0,,,,,,0,1,1
+1199536,2019/20,Papua New Guinea,1,TP Ura,a82eb3fb,EB Ringera,6cedad99,A Vala,72e60730,0,0,0,0,1,TP Ura,a82eb3fb,SO Ngoche,49118dc7,caught,0,0,0
+1199536,2019/20,Papua New Guinea,1,L Siaka,6b4593ee,EB Ringera,6cedad99,A Vala,72e60730,0,0,0,0,0,,,,,,4,0,4
+1199536,2019/20,Papua New Guinea,1,L Siaka,6b4593ee,EB Ringera,6cedad99,A Vala,72e60730,0,0,0,0,0,,,,,,1,0,1
+1199536,2019/20,Papua New Guinea,1,A Vala,72e60730,EB Ringera,6cedad99,L Siaka,6b4593ee,0,0,0,0,1,A Vala,72e60730,,,lbw,0,0,0
+1199536,2019/20,Papua New Guinea,1,CJA Amini,4d84ad05,EB Ringera,6cedad99,L Siaka,6b4593ee,0,0,0,0,1,CJA Amini,4d84ad05,IA Karim,ca92a578,caught,0,0,0
+1199536,2019/20,Papua New Guinea,1,S Bau,9a95bebb,EB Ringera,6cedad99,L Siaka,6b4593ee,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Papua New Guinea,2,L Siaka,6b4593ee,LN Oluoch,eb4f9c61,S Bau,9a95bebb,0,0,0,0,1,L Siaka,6b4593ee,CO Obuya,5680f1ad,caught,0,0,0
+1199536,2019/20,Papua New Guinea,2,R Hekure,c70448aa,LN Oluoch,eb4f9c61,S Bau,9a95bebb,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Papua New Guinea,2,R Hekure,c70448aa,LN Oluoch,eb4f9c61,S Bau,9a95bebb,0,0,0,0,0,,,,,,1,0,1
+1199536,2019/20,Papua New Guinea,2,S Bau,9a95bebb,LN Oluoch,eb4f9c61,R Hekure,c70448aa,0,0,0,0,0,,,,,,1,0,1
+1199536,2019/20,Papua New Guinea,2,R Hekure,c70448aa,LN Oluoch,eb4f9c61,S Bau,9a95bebb,0,0,0,0,1,R Hekure,c70448aa,IA Karim,ca92a578,caught,0,0,0
+1199536,2019/20,Papua New Guinea,2,K Doriga,365229a8,LN Oluoch,eb4f9c61,S Bau,9a95bebb,0,0,0,0,0,,,,,,1,0,1
+1199536,2019/20,Papua New Guinea,3,K Doriga,365229a8,EB Ringera,6cedad99,S Bau,9a95bebb,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Papua New Guinea,3,K Doriga,365229a8,EB Ringera,6cedad99,S Bau,9a95bebb,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Papua New Guinea,3,K Doriga,365229a8,EB Ringera,6cedad99,S Bau,9a95bebb,0,0,0,0,0,,,,,,3,0,3
+1199536,2019/20,Papua New Guinea,3,S Bau,9a95bebb,EB Ringera,6cedad99,K Doriga,365229a8,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Papua New Guinea,3,S Bau,9a95bebb,EB Ringera,6cedad99,K Doriga,365229a8,0,0,0,0,0,,,,,,1,0,1
+1199536,2019/20,Papua New Guinea,3,K Doriga,365229a8,EB Ringera,6cedad99,S Bau,9a95bebb,0,0,0,0,1,K Doriga,365229a8,IA Karim,ca92a578,caught,0,0,0
+1199536,2019/20,Papua New Guinea,4,S Bau,9a95bebb,LN Oluoch,eb4f9c61,N Vanua,a36915ce,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Papua New Guinea,4,S Bau,9a95bebb,LN Oluoch,eb4f9c61,N Vanua,a36915ce,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Papua New Guinea,4,S Bau,9a95bebb,LN Oluoch,eb4f9c61,N Vanua,a36915ce,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Papua New Guinea,4,S Bau,9a95bebb,LN Oluoch,eb4f9c61,N Vanua,a36915ce,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Papua New Guinea,4,S Bau,9a95bebb,LN Oluoch,eb4f9c61,N Vanua,a36915ce,0,0,0,0,0,,,,,,1,0,1
+1199536,2019/20,Papua New Guinea,4,N Vanua,a36915ce,LN Oluoch,eb4f9c61,S Bau,9a95bebb,0,0,0,0,0,,,,,,1,0,1
+1199536,2019/20,Papua New Guinea,5,N Vanua,a36915ce,EB Ringera,6cedad99,S Bau,9a95bebb,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Papua New Guinea,5,N Vanua,a36915ce,EB Ringera,6cedad99,S Bau,9a95bebb,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Papua New Guinea,5,N Vanua,a36915ce,EB Ringera,6cedad99,S Bau,9a95bebb,0,0,0,0,0,,,,,,1,0,1
+1199536,2019/20,Papua New Guinea,5,S Bau,9a95bebb,EB Ringera,6cedad99,N Vanua,a36915ce,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Papua New Guinea,5,S Bau,9a95bebb,EB Ringera,6cedad99,N Vanua,a36915ce,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Papua New Guinea,5,S Bau,9a95bebb,EB Ringera,6cedad99,N Vanua,a36915ce,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Papua New Guinea,6,N Vanua,a36915ce,LN Oluoch,eb4f9c61,S Bau,9a95bebb,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Papua New Guinea,6,N Vanua,a36915ce,LN Oluoch,eb4f9c61,S Bau,9a95bebb,0,0,1,0,0,,,,,,0,1,1
+1199536,2019/20,Papua New Guinea,6,S Bau,9a95bebb,LN Oluoch,eb4f9c61,N Vanua,a36915ce,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Papua New Guinea,6,S Bau,9a95bebb,LN Oluoch,eb4f9c61,N Vanua,a36915ce,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Papua New Guinea,6,S Bau,9a95bebb,LN Oluoch,eb4f9c61,N Vanua,a36915ce,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Papua New Guinea,6,S Bau,9a95bebb,LN Oluoch,eb4f9c61,N Vanua,a36915ce,0,0,0,0,0,,,,,,4,0,4
+1199536,2019/20,Papua New Guinea,7,N Vanua,a36915ce,SR Bhudia,e9173fb0,S Bau,9a95bebb,1,0,0,0,0,,,,,,0,1,1
+1199536,2019/20,Papua New Guinea,7,N Vanua,a36915ce,SR Bhudia,e9173fb0,S Bau,9a95bebb,1,0,0,0,0,,,,,,0,1,1
+1199536,2019/20,Papua New Guinea,7,N Vanua,a36915ce,SR Bhudia,e9173fb0,S Bau,9a95bebb,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Papua New Guinea,7,N Vanua,a36915ce,SR Bhudia,e9173fb0,S Bau,9a95bebb,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Papua New Guinea,7,N Vanua,a36915ce,SR Bhudia,e9173fb0,S Bau,9a95bebb,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Papua New Guinea,7,N Vanua,a36915ce,SR Bhudia,e9173fb0,S Bau,9a95bebb,0,0,0,0,0,,,,,,2,0,2
+1199536,2019/20,Papua New Guinea,7,N Vanua,a36915ce,SR Bhudia,e9173fb0,S Bau,9a95bebb,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Papua New Guinea,7,N Vanua,a36915ce,SR Bhudia,e9173fb0,S Bau,9a95bebb,0,0,0,0,0,,,,,,1,0,1
+1199536,2019/20,Papua New Guinea,8,N Vanua,a36915ce,SO Ngoche,49118dc7,S Bau,9a95bebb,0,0,0,0,0,,,,,,1,0,1
+1199536,2019/20,Papua New Guinea,8,S Bau,9a95bebb,SO Ngoche,49118dc7,N Vanua,a36915ce,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Papua New Guinea,8,S Bau,9a95bebb,SO Ngoche,49118dc7,N Vanua,a36915ce,0,0,0,0,0,,,,,,1,0,1
+1199536,2019/20,Papua New Guinea,8,N Vanua,a36915ce,SO Ngoche,49118dc7,S Bau,9a95bebb,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Papua New Guinea,8,N Vanua,a36915ce,SO Ngoche,49118dc7,S Bau,9a95bebb,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Papua New Guinea,8,N Vanua,a36915ce,SO Ngoche,49118dc7,S Bau,9a95bebb,0,0,0,0,0,,,,,,1,0,1
+1199536,2019/20,Papua New Guinea,9,N Vanua,a36915ce,SR Bhudia,e9173fb0,S Bau,9a95bebb,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Papua New Guinea,9,N Vanua,a36915ce,SR Bhudia,e9173fb0,S Bau,9a95bebb,0,0,0,0,0,,,,,,1,0,1
+1199536,2019/20,Papua New Guinea,9,S Bau,9a95bebb,SR Bhudia,e9173fb0,N Vanua,a36915ce,0,0,0,0,0,,,,,,2,0,2
+1199536,2019/20,Papua New Guinea,9,S Bau,9a95bebb,SR Bhudia,e9173fb0,N Vanua,a36915ce,0,0,0,0,0,,,,,,1,0,1
+1199536,2019/20,Papua New Guinea,9,N Vanua,a36915ce,SR Bhudia,e9173fb0,S Bau,9a95bebb,0,0,0,0,0,,,,,,4,0,4
+1199536,2019/20,Papua New Guinea,9,N Vanua,a36915ce,SR Bhudia,e9173fb0,S Bau,9a95bebb,0,0,0,0,0,,,,,,1,0,1
+1199536,2019/20,Papua New Guinea,10,N Vanua,a36915ce,CO Obuya,5680f1ad,S Bau,9a95bebb,0,0,0,0,0,,,,,,1,0,1
+1199536,2019/20,Papua New Guinea,10,S Bau,9a95bebb,CO Obuya,5680f1ad,N Vanua,a36915ce,0,0,0,0,0,,,,,,1,0,1
+1199536,2019/20,Papua New Guinea,10,N Vanua,a36915ce,CO Obuya,5680f1ad,S Bau,9a95bebb,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Papua New Guinea,10,N Vanua,a36915ce,CO Obuya,5680f1ad,S Bau,9a95bebb,0,0,0,0,0,,,,,,2,0,2
+1199536,2019/20,Papua New Guinea,10,N Vanua,a36915ce,CO Obuya,5680f1ad,S Bau,9a95bebb,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Papua New Guinea,10,N Vanua,a36915ce,CO Obuya,5680f1ad,S Bau,9a95bebb,0,0,0,0,0,,,,,,1,0,1
+1199536,2019/20,Papua New Guinea,11,N Vanua,a36915ce,JS Kundi,092ccf20,S Bau,9a95bebb,0,0,0,0,0,,,,,,1,0,1
+1199536,2019/20,Papua New Guinea,11,S Bau,9a95bebb,JS Kundi,092ccf20,N Vanua,a36915ce,0,0,0,0,0,,,,,,1,0,1
+1199536,2019/20,Papua New Guinea,11,N Vanua,a36915ce,JS Kundi,092ccf20,S Bau,9a95bebb,0,0,0,0,0,,,,,,2,0,2
+1199536,2019/20,Papua New Guinea,11,N Vanua,a36915ce,JS Kundi,092ccf20,S Bau,9a95bebb,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Papua New Guinea,11,N Vanua,a36915ce,JS Kundi,092ccf20,S Bau,9a95bebb,0,0,0,0,0,,,,,,1,0,1
+1199536,2019/20,Papua New Guinea,11,S Bau,9a95bebb,JS Kundi,092ccf20,N Vanua,a36915ce,0,0,0,0,0,,,,,,1,0,1
+1199536,2019/20,Papua New Guinea,12,S Bau,9a95bebb,SO Ngoche,49118dc7,N Vanua,a36915ce,0,0,0,0,0,,,,,,1,0,1
+1199536,2019/20,Papua New Guinea,12,N Vanua,a36915ce,SO Ngoche,49118dc7,S Bau,9a95bebb,0,0,0,0,0,,,,,,6,0,6
+1199536,2019/20,Papua New Guinea,12,N Vanua,a36915ce,SO Ngoche,49118dc7,S Bau,9a95bebb,0,0,0,0,0,,,,,,1,0,1
+1199536,2019/20,Papua New Guinea,12,S Bau,9a95bebb,SO Ngoche,49118dc7,N Vanua,a36915ce,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Papua New Guinea,12,S Bau,9a95bebb,SO Ngoche,49118dc7,N Vanua,a36915ce,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Papua New Guinea,12,S Bau,9a95bebb,SO Ngoche,49118dc7,N Vanua,a36915ce,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Papua New Guinea,13,N Vanua,a36915ce,EB Ringera,6cedad99,S Bau,9a95bebb,0,0,0,0,0,,,,,,2,0,2
+1199536,2019/20,Papua New Guinea,13,N Vanua,a36915ce,EB Ringera,6cedad99,S Bau,9a95bebb,0,0,0,0,0,,,,,,2,0,2
+1199536,2019/20,Papua New Guinea,13,N Vanua,a36915ce,EB Ringera,6cedad99,S Bau,9a95bebb,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Papua New Guinea,13,N Vanua,a36915ce,EB Ringera,6cedad99,S Bau,9a95bebb,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Papua New Guinea,13,N Vanua,a36915ce,EB Ringera,6cedad99,S Bau,9a95bebb,0,0,0,0,0,,,,,,2,0,2
+1199536,2019/20,Papua New Guinea,13,N Vanua,a36915ce,EB Ringera,6cedad99,S Bau,9a95bebb,0,0,0,0,0,,,,,,1,0,1
+1199536,2019/20,Papua New Guinea,14,N Vanua,a36915ce,P Kerai,ab343e93,S Bau,9a95bebb,0,0,0,0,0,,,,,,2,0,2
+1199536,2019/20,Papua New Guinea,14,N Vanua,a36915ce,P Kerai,ab343e93,S Bau,9a95bebb,0,0,0,0,0,,,,,,6,0,6
+1199536,2019/20,Papua New Guinea,14,N Vanua,a36915ce,P Kerai,ab343e93,S Bau,9a95bebb,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Papua New Guinea,14,N Vanua,a36915ce,P Kerai,ab343e93,S Bau,9a95bebb,0,0,0,0,0,,,,,,1,0,1
+1199536,2019/20,Papua New Guinea,14,S Bau,9a95bebb,P Kerai,ab343e93,N Vanua,a36915ce,0,0,0,0,0,,,,,,1,0,1
+1199536,2019/20,Papua New Guinea,14,N Vanua,a36915ce,P Kerai,ab343e93,S Bau,9a95bebb,0,0,0,0,0,,,,,,1,0,1
+1199536,2019/20,Papua New Guinea,15,N Vanua,a36915ce,SR Bhudia,e9173fb0,S Bau,9a95bebb,0,0,0,0,0,,,,,,4,0,4
+1199536,2019/20,Papua New Guinea,15,N Vanua,a36915ce,SR Bhudia,e9173fb0,S Bau,9a95bebb,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Papua New Guinea,15,N Vanua,a36915ce,SR Bhudia,e9173fb0,S Bau,9a95bebb,0,0,0,0,0,,,,,,4,0,4
+1199536,2019/20,Papua New Guinea,15,N Vanua,a36915ce,SR Bhudia,e9173fb0,S Bau,9a95bebb,0,0,0,0,0,,,,,,1,0,1
+1199536,2019/20,Papua New Guinea,15,S Bau,9a95bebb,SR Bhudia,e9173fb0,N Vanua,a36915ce,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Papua New Guinea,15,S Bau,9a95bebb,SR Bhudia,e9173fb0,N Vanua,a36915ce,0,0,0,0,0,,,,,,1,0,1
+1199536,2019/20,Papua New Guinea,16,S Bau,9a95bebb,CO Obuya,5680f1ad,N Vanua,a36915ce,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Papua New Guinea,16,S Bau,9a95bebb,CO Obuya,5680f1ad,N Vanua,a36915ce,5,0,0,0,0,,,,,,0,5,5
+1199536,2019/20,Papua New Guinea,16,S Bau,9a95bebb,CO Obuya,5680f1ad,N Vanua,a36915ce,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Papua New Guinea,16,S Bau,9a95bebb,CO Obuya,5680f1ad,N Vanua,a36915ce,0,0,0,0,1,S Bau,9a95bebb,JS Kundi,092ccf20,caught,0,0,0
+1199536,2019/20,Papua New Guinea,16,N Vanua,a36915ce,CO Obuya,5680f1ad,J Kila,d996ba33,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Papua New Guinea,16,N Vanua,a36915ce,CO Obuya,5680f1ad,J Kila,d996ba33,0,0,0,0,1,N Vanua,a36915ce,LN Oluoch,eb4f9c61,caught,0,0,0
+1199536,2019/20,Papua New Guinea,16,D Ravu,053f3ce3,CO Obuya,5680f1ad,J Kila,d996ba33,1,0,0,0,0,,,,,,0,1,1
+1199536,2019/20,Papua New Guinea,16,D Ravu,053f3ce3,CO Obuya,5680f1ad,J Kila,d996ba33,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Papua New Guinea,17,J Kila,d996ba33,SO Ngoche,49118dc7,D Ravu,053f3ce3,1,0,0,0,0,,,,,,0,1,1
+1199536,2019/20,Papua New Guinea,17,J Kila,d996ba33,SO Ngoche,49118dc7,D Ravu,053f3ce3,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Papua New Guinea,17,J Kila,d996ba33,SO Ngoche,49118dc7,D Ravu,053f3ce3,0,0,0,0,1,D Ravu,053f3ce3,,,run out,0,0,0
+1199536,2019/20,Papua New Guinea,17,N Pokana,87a92b6b,SO Ngoche,49118dc7,J Kila,d996ba33,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Papua New Guinea,17,N Pokana,87a92b6b,SO Ngoche,49118dc7,J Kila,d996ba33,0,0,0,0,0,,,,,,1,0,1
+1199536,2019/20,Papua New Guinea,17,J Kila,d996ba33,SO Ngoche,49118dc7,N Pokana,87a92b6b,0,0,0,0,0,,,,,,6,0,6
+1199536,2019/20,Papua New Guinea,17,J Kila,d996ba33,SO Ngoche,49118dc7,N Pokana,87a92b6b,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Papua New Guinea,18,N Pokana,87a92b6b,CO Obuya,5680f1ad,J Kila,d996ba33,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Papua New Guinea,18,N Pokana,87a92b6b,CO Obuya,5680f1ad,J Kila,d996ba33,0,0,0,0,0,,,,,,2,0,2
+1199536,2019/20,Papua New Guinea,18,N Pokana,87a92b6b,CO Obuya,5680f1ad,J Kila,d996ba33,0,0,0,0,0,,,,,,2,0,2
+1199536,2019/20,Papua New Guinea,18,N Pokana,87a92b6b,CO Obuya,5680f1ad,J Kila,d996ba33,1,0,0,0,0,,,,,,0,1,1
+1199536,2019/20,Papua New Guinea,18,N Pokana,87a92b6b,CO Obuya,5680f1ad,J Kila,d996ba33,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Papua New Guinea,18,N Pokana,87a92b6b,CO Obuya,5680f1ad,J Kila,d996ba33,0,0,0,0,0,,,,,,1,0,1
+1199536,2019/20,Papua New Guinea,18,J Kila,d996ba33,CO Obuya,5680f1ad,N Pokana,87a92b6b,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Papua New Guinea,19,N Pokana,87a92b6b,SO Ngoche,49118dc7,J Kila,d996ba33,0,0,0,0,0,,,,,,1,0,1
+1199536,2019/20,Papua New Guinea,19,J Kila,d996ba33,SO Ngoche,49118dc7,N Pokana,87a92b6b,0,0,0,0,0,,,,,,6,0,6
+1199536,2019/20,Papua New Guinea,19,J Kila,d996ba33,SO Ngoche,49118dc7,N Pokana,87a92b6b,0,0,0,0,1,J Kila,d996ba33,,,bowled,0,0,0
+1199536,2019/20,Kenya,0,IA Karim,ca92a578,N Vanua,a36915ce,DM Gondaria,9048c17e,0,0,1,0,0,,,,,,0,1,1
+1199536,2019/20,Kenya,0,DM Gondaria,9048c17e,N Vanua,a36915ce,IA Karim,ca92a578,0,0,0,0,0,,,,,,1,0,1
+1199536,2019/20,Kenya,0,IA Karim,ca92a578,N Vanua,a36915ce,DM Gondaria,9048c17e,0,0,0,0,0,,,,,,1,0,1
+1199536,2019/20,Kenya,0,DM Gondaria,9048c17e,N Vanua,a36915ce,IA Karim,ca92a578,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Kenya,0,DM Gondaria,9048c17e,N Vanua,a36915ce,IA Karim,ca92a578,0,0,0,0,1,DM Gondaria,9048c17e,K Doriga,365229a8,caught,0,0,0
+1199536,2019/20,Kenya,0,CO Obuya,5680f1ad,N Vanua,a36915ce,IA Karim,ca92a578,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Kenya,1,IA Karim,ca92a578,N Pokana,87a92b6b,CO Obuya,5680f1ad,1,0,0,0,0,,,,,,0,1,1
+1199536,2019/20,Kenya,1,IA Karim,ca92a578,N Pokana,87a92b6b,CO Obuya,5680f1ad,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Kenya,1,IA Karim,ca92a578,N Pokana,87a92b6b,CO Obuya,5680f1ad,0,0,0,0,0,,,,,,1,0,1
+1199536,2019/20,Kenya,1,CO Obuya,5680f1ad,N Pokana,87a92b6b,IA Karim,ca92a578,0,0,0,0,0,,,,,,1,0,1
+1199536,2019/20,Kenya,1,IA Karim,ca92a578,N Pokana,87a92b6b,CO Obuya,5680f1ad,0,0,0,0,0,,,,,,3,0,3
+1199536,2019/20,Kenya,1,CO Obuya,5680f1ad,N Pokana,87a92b6b,IA Karim,ca92a578,1,0,0,0,0,,,,,,0,1,1
+1199536,2019/20,Kenya,1,CO Obuya,5680f1ad,N Pokana,87a92b6b,IA Karim,ca92a578,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Kenya,1,CO Obuya,5680f1ad,N Pokana,87a92b6b,IA Karim,ca92a578,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Kenya,2,IA Karim,ca92a578,D Ravu,053f3ce3,CO Obuya,5680f1ad,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Kenya,2,IA Karim,ca92a578,D Ravu,053f3ce3,CO Obuya,5680f1ad,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Kenya,2,IA Karim,ca92a578,D Ravu,053f3ce3,CO Obuya,5680f1ad,0,0,0,0,0,,,,,,2,0,2
+1199536,2019/20,Kenya,2,IA Karim,ca92a578,D Ravu,053f3ce3,CO Obuya,5680f1ad,0,0,0,0,0,,,,,,1,0,1
+1199536,2019/20,Kenya,2,CO Obuya,5680f1ad,D Ravu,053f3ce3,IA Karim,ca92a578,0,0,0,0,0,,,,,,1,0,1
+1199536,2019/20,Kenya,2,IA Karim,ca92a578,D Ravu,053f3ce3,CO Obuya,5680f1ad,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Kenya,3,CO Obuya,5680f1ad,N Pokana,87a92b6b,IA Karim,ca92a578,0,0,0,0,0,,,,,,1,0,1
+1199536,2019/20,Kenya,3,IA Karim,ca92a578,N Pokana,87a92b6b,CO Obuya,5680f1ad,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Kenya,3,IA Karim,ca92a578,N Pokana,87a92b6b,CO Obuya,5680f1ad,0,0,0,0,0,,,,,,2,0,2
+1199536,2019/20,Kenya,3,IA Karim,ca92a578,N Pokana,87a92b6b,CO Obuya,5680f1ad,0,0,0,0,0,,,,,,4,0,4
+1199536,2019/20,Kenya,3,IA Karim,ca92a578,N Pokana,87a92b6b,CO Obuya,5680f1ad,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Kenya,3,IA Karim,ca92a578,N Pokana,87a92b6b,CO Obuya,5680f1ad,0,0,0,0,0,,,,,,2,0,2
+1199536,2019/20,Kenya,4,CO Obuya,5680f1ad,N Vanua,a36915ce,IA Karim,ca92a578,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Kenya,4,CO Obuya,5680f1ad,N Vanua,a36915ce,IA Karim,ca92a578,1,0,0,0,0,,,,,,0,1,1
+1199536,2019/20,Kenya,4,CO Obuya,5680f1ad,N Vanua,a36915ce,IA Karim,ca92a578,0,0,0,0,0,,,,,,1,0,1
+1199536,2019/20,Kenya,4,IA Karim,ca92a578,N Vanua,a36915ce,CO Obuya,5680f1ad,0,0,0,0,0,,,,,,4,0,4
+1199536,2019/20,Kenya,4,IA Karim,ca92a578,N Vanua,a36915ce,CO Obuya,5680f1ad,0,0,0,0,0,,,,,,4,0,4
+1199536,2019/20,Kenya,4,IA Karim,ca92a578,N Vanua,a36915ce,CO Obuya,5680f1ad,0,0,0,0,0,,,,,,1,0,1
+1199536,2019/20,Kenya,4,CO Obuya,5680f1ad,N Vanua,a36915ce,IA Karim,ca92a578,0,0,0,0,0,,,,,,1,0,1
+1199536,2019/20,Kenya,5,CO Obuya,5680f1ad,D Ravu,053f3ce3,IA Karim,ca92a578,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Kenya,5,CO Obuya,5680f1ad,D Ravu,053f3ce3,IA Karim,ca92a578,0,0,0,0,0,,,,,,1,0,1
+1199536,2019/20,Kenya,5,IA Karim,ca92a578,D Ravu,053f3ce3,CO Obuya,5680f1ad,0,0,0,0,0,,,,,,4,0,4
+1199536,2019/20,Kenya,5,IA Karim,ca92a578,D Ravu,053f3ce3,CO Obuya,5680f1ad,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Kenya,5,IA Karim,ca92a578,D Ravu,053f3ce3,CO Obuya,5680f1ad,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Kenya,5,IA Karim,ca92a578,D Ravu,053f3ce3,CO Obuya,5680f1ad,0,0,0,0,1,IA Karim,ca92a578,CJA Amini,4d84ad05,caught,0,0,0
+1199536,2019/20,Kenya,6,CO Obuya,5680f1ad,CJA Amini,4d84ad05,RN Patel,db1bf9c2,0,0,0,0,0,,,,,,1,0,1
+1199536,2019/20,Kenya,6,RN Patel,db1bf9c2,CJA Amini,4d84ad05,CO Obuya,5680f1ad,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Kenya,6,RN Patel,db1bf9c2,CJA Amini,4d84ad05,CO Obuya,5680f1ad,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Kenya,6,RN Patel,db1bf9c2,CJA Amini,4d84ad05,CO Obuya,5680f1ad,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Kenya,6,RN Patel,db1bf9c2,CJA Amini,4d84ad05,CO Obuya,5680f1ad,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Kenya,6,RN Patel,db1bf9c2,CJA Amini,4d84ad05,CO Obuya,5680f1ad,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Kenya,7,CO Obuya,5680f1ad,A Vala,72e60730,RN Patel,db1bf9c2,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Kenya,7,CO Obuya,5680f1ad,A Vala,72e60730,RN Patel,db1bf9c2,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Kenya,7,CO Obuya,5680f1ad,A Vala,72e60730,RN Patel,db1bf9c2,0,0,0,0,0,,,,,,1,0,1
+1199536,2019/20,Kenya,7,RN Patel,db1bf9c2,A Vala,72e60730,CO Obuya,5680f1ad,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Kenya,7,RN Patel,db1bf9c2,A Vala,72e60730,CO Obuya,5680f1ad,0,0,0,0,1,RN Patel,db1bf9c2,,,lbw,0,0,0
+1199536,2019/20,Kenya,7,SR Bhudia,e9173fb0,A Vala,72e60730,CO Obuya,5680f1ad,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Kenya,8,CO Obuya,5680f1ad,CJA Amini,4d84ad05,SR Bhudia,e9173fb0,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Kenya,8,CO Obuya,5680f1ad,CJA Amini,4d84ad05,SR Bhudia,e9173fb0,0,0,0,0,0,,,,,,1,0,1
+1199536,2019/20,Kenya,8,SR Bhudia,e9173fb0,CJA Amini,4d84ad05,CO Obuya,5680f1ad,0,0,0,0,0,,,,,,1,0,1
+1199536,2019/20,Kenya,8,CO Obuya,5680f1ad,CJA Amini,4d84ad05,SR Bhudia,e9173fb0,0,0,0,0,0,,,,,,1,0,1
+1199536,2019/20,Kenya,8,SR Bhudia,e9173fb0,CJA Amini,4d84ad05,CO Obuya,5680f1ad,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Kenya,8,SR Bhudia,e9173fb0,CJA Amini,4d84ad05,CO Obuya,5680f1ad,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Kenya,9,CO Obuya,5680f1ad,A Vala,72e60730,SR Bhudia,e9173fb0,0,0,0,0,1,CO Obuya,5680f1ad,S Bau,9a95bebb,caught,0,0,0
+1199536,2019/20,Kenya,9,SR Bhudia,e9173fb0,A Vala,72e60730,AR Gandhi,0da52658,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Kenya,9,SR Bhudia,e9173fb0,A Vala,72e60730,AR Gandhi,0da52658,0,0,0,0,0,,,,,,1,0,1
+1199536,2019/20,Kenya,9,AR Gandhi,0da52658,A Vala,72e60730,SR Bhudia,e9173fb0,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Kenya,9,AR Gandhi,0da52658,A Vala,72e60730,SR Bhudia,e9173fb0,0,0,0,0,0,,,,,,1,0,1
+1199536,2019/20,Kenya,9,SR Bhudia,e9173fb0,A Vala,72e60730,AR Gandhi,0da52658,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Kenya,10,AR Gandhi,0da52658,CJA Amini,4d84ad05,SR Bhudia,e9173fb0,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Kenya,10,AR Gandhi,0da52658,CJA Amini,4d84ad05,SR Bhudia,e9173fb0,0,0,0,0,0,,,,,,1,0,1
+1199536,2019/20,Kenya,10,SR Bhudia,e9173fb0,CJA Amini,4d84ad05,AR Gandhi,0da52658,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Kenya,10,SR Bhudia,e9173fb0,CJA Amini,4d84ad05,AR Gandhi,0da52658,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Kenya,10,SR Bhudia,e9173fb0,CJA Amini,4d84ad05,AR Gandhi,0da52658,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Kenya,10,SR Bhudia,e9173fb0,CJA Amini,4d84ad05,AR Gandhi,0da52658,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Kenya,11,AR Gandhi,0da52658,A Vala,72e60730,SR Bhudia,e9173fb0,0,0,0,0,0,,,,,,1,0,1
+1199536,2019/20,Kenya,11,SR Bhudia,e9173fb0,A Vala,72e60730,AR Gandhi,0da52658,0,0,0,0,0,,,,,,1,0,1
+1199536,2019/20,Kenya,11,AR Gandhi,0da52658,A Vala,72e60730,SR Bhudia,e9173fb0,0,0,0,0,0,,,,,,1,0,1
+1199536,2019/20,Kenya,11,SR Bhudia,e9173fb0,A Vala,72e60730,AR Gandhi,0da52658,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Kenya,11,SR Bhudia,e9173fb0,A Vala,72e60730,AR Gandhi,0da52658,0,0,0,0,1,SR Bhudia,e9173fb0,L Siaka,6b4593ee,caught,0,0,0
+1199536,2019/20,Kenya,11,AR Gandhi,0da52658,A Vala,72e60730,JS Kundi,092ccf20,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Kenya,12,JS Kundi,092ccf20,D Ravu,053f3ce3,AR Gandhi,0da52658,0,0,0,0,0,,,,,,1,0,1
+1199536,2019/20,Kenya,12,AR Gandhi,0da52658,D Ravu,053f3ce3,JS Kundi,092ccf20,0,0,0,0,0,,,,,,1,0,1
+1199536,2019/20,Kenya,12,JS Kundi,092ccf20,D Ravu,053f3ce3,AR Gandhi,0da52658,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Kenya,12,JS Kundi,092ccf20,D Ravu,053f3ce3,AR Gandhi,0da52658,0,0,0,0,1,JS Kundi,092ccf20,,,bowled,0,0,0
+1199536,2019/20,Kenya,12,SO Ngoche,49118dc7,D Ravu,053f3ce3,AR Gandhi,0da52658,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Kenya,12,SO Ngoche,49118dc7,D Ravu,053f3ce3,AR Gandhi,0da52658,0,0,0,0,0,,,,,,1,0,1
+1199536,2019/20,Kenya,13,SO Ngoche,49118dc7,CJA Amini,4d84ad05,AR Gandhi,0da52658,0,0,0,0,0,,,,,,2,0,2
+1199536,2019/20,Kenya,13,SO Ngoche,49118dc7,CJA Amini,4d84ad05,AR Gandhi,0da52658,0,0,0,0,0,,,,,,1,0,1
+1199536,2019/20,Kenya,13,AR Gandhi,0da52658,CJA Amini,4d84ad05,SO Ngoche,49118dc7,0,0,0,0,0,,,,,,1,0,1
+1199536,2019/20,Kenya,13,SO Ngoche,49118dc7,CJA Amini,4d84ad05,AR Gandhi,0da52658,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Kenya,13,SO Ngoche,49118dc7,CJA Amini,4d84ad05,AR Gandhi,0da52658,0,0,0,0,0,,,,,,1,0,1
+1199536,2019/20,Kenya,13,AR Gandhi,0da52658,CJA Amini,4d84ad05,SO Ngoche,49118dc7,0,0,0,0,0,,,,,,1,0,1
+1199536,2019/20,Kenya,14,AR Gandhi,0da52658,N Pokana,87a92b6b,SO Ngoche,49118dc7,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Kenya,14,AR Gandhi,0da52658,N Pokana,87a92b6b,SO Ngoche,49118dc7,0,0,0,0,0,,,,,,1,0,1
+1199536,2019/20,Kenya,14,SO Ngoche,49118dc7,N Pokana,87a92b6b,AR Gandhi,0da52658,1,0,0,0,0,,,,,,0,1,1
+1199536,2019/20,Kenya,14,SO Ngoche,49118dc7,N Pokana,87a92b6b,AR Gandhi,0da52658,0,0,0,0,1,SO Ngoche,49118dc7,R Hekure,c70448aa,caught,0,0,0
+1199536,2019/20,Kenya,14,AR Gandhi,0da52658,N Pokana,87a92b6b,LN Oluoch,eb4f9c61,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Kenya,14,AR Gandhi,0da52658,N Pokana,87a92b6b,LN Oluoch,eb4f9c61,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Kenya,14,AR Gandhi,0da52658,N Pokana,87a92b6b,LN Oluoch,eb4f9c61,0,0,0,0,0,,,,,,1,0,1
+1199536,2019/20,Kenya,15,AR Gandhi,0da52658,A Vala,72e60730,LN Oluoch,eb4f9c61,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Kenya,15,AR Gandhi,0da52658,A Vala,72e60730,LN Oluoch,eb4f9c61,0,0,0,0,0,,,,,,1,0,1
+1199536,2019/20,Kenya,15,LN Oluoch,eb4f9c61,A Vala,72e60730,AR Gandhi,0da52658,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Kenya,15,LN Oluoch,eb4f9c61,A Vala,72e60730,AR Gandhi,0da52658,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Kenya,15,LN Oluoch,eb4f9c61,A Vala,72e60730,AR Gandhi,0da52658,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Kenya,15,LN Oluoch,eb4f9c61,A Vala,72e60730,AR Gandhi,0da52658,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Kenya,16,AR Gandhi,0da52658,D Ravu,053f3ce3,LN Oluoch,eb4f9c61,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Kenya,16,AR Gandhi,0da52658,D Ravu,053f3ce3,LN Oluoch,eb4f9c61,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Kenya,16,AR Gandhi,0da52658,D Ravu,053f3ce3,LN Oluoch,eb4f9c61,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Kenya,16,AR Gandhi,0da52658,D Ravu,053f3ce3,LN Oluoch,eb4f9c61,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Kenya,16,AR Gandhi,0da52658,D Ravu,053f3ce3,LN Oluoch,eb4f9c61,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Kenya,16,AR Gandhi,0da52658,D Ravu,053f3ce3,LN Oluoch,eb4f9c61,0,0,0,0,0,,,,,,2,0,2
+1199536,2019/20,Kenya,17,LN Oluoch,eb4f9c61,N Vanua,a36915ce,AR Gandhi,0da52658,0,0,0,0,0,,,,,,2,0,2
+1199536,2019/20,Kenya,17,LN Oluoch,eb4f9c61,N Vanua,a36915ce,AR Gandhi,0da52658,0,0,0,0,0,,,,,,1,0,1
+1199536,2019/20,Kenya,17,AR Gandhi,0da52658,N Vanua,a36915ce,LN Oluoch,eb4f9c61,0,0,0,0,0,,,,,,1,0,1
+1199536,2019/20,Kenya,17,LN Oluoch,eb4f9c61,N Vanua,a36915ce,AR Gandhi,0da52658,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Kenya,17,LN Oluoch,eb4f9c61,N Vanua,a36915ce,AR Gandhi,0da52658,0,0,0,0,1,LN Oluoch,eb4f9c61,,,bowled,0,0,0
+1199536,2019/20,Kenya,17,EB Ringera,6cedad99,N Vanua,a36915ce,AR Gandhi,0da52658,0,0,0,0,0,,,,,,1,0,1
+1199536,2019/20,Kenya,18,EB Ringera,6cedad99,N Pokana,87a92b6b,AR Gandhi,0da52658,0,0,0,0,0,,,,,,0,0,0
+1199536,2019/20,Kenya,18,EB Ringera,6cedad99,N Pokana,87a92b6b,AR Gandhi,0da52658,0,0,0,0,1,EB Ringera,6cedad99,A Vala,72e60730,caught,0,0,0
+1199536,2019/20,Kenya,18,AR Gandhi,0da52658,N Pokana,87a92b6b,P Kerai,ab343e93,0,0,0,0,0,,,,,,1,0,1
+1199536,2019/20,Kenya,18,P Kerai,ab343e93,N Pokana,87a92b6b,AR Gandhi,0da52658,1,0,0,0,0,,,,,,0,1,1
+1199536,2019/20,Kenya,18,P Kerai,ab343e93,N Pokana,87a92b6b,AR Gandhi,0da52658,0,0,0,0,1,P Kerai,ab343e93,,,bowled,0,0,0

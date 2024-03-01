@@ -1,0 +1,246 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+520596,2011/12,Zimbabwe,0,H Masakadza,31fbf891,KD Mills,7fb32e5b,S Matsikenyeri,e7ba1233,0,0,0,0,0,,,,,,0,0,0
+520596,2011/12,Zimbabwe,0,H Masakadza,31fbf891,KD Mills,7fb32e5b,S Matsikenyeri,e7ba1233,0,0,0,0,0,,,,,,2,0,2
+520596,2011/12,Zimbabwe,0,H Masakadza,31fbf891,KD Mills,7fb32e5b,S Matsikenyeri,e7ba1233,0,0,0,0,0,,,,,,4,0,4
+520596,2011/12,Zimbabwe,0,H Masakadza,31fbf891,KD Mills,7fb32e5b,S Matsikenyeri,e7ba1233,0,0,0,0,0,,,,,,0,0,0
+520596,2011/12,Zimbabwe,0,H Masakadza,31fbf891,KD Mills,7fb32e5b,S Matsikenyeri,e7ba1233,0,0,0,0,0,,,,,,1,0,1
+520596,2011/12,Zimbabwe,0,S Matsikenyeri,e7ba1233,KD Mills,7fb32e5b,H Masakadza,31fbf891,0,0,0,0,0,,,,,,0,0,0
+520596,2011/12,Zimbabwe,1,H Masakadza,31fbf891,MD Bates,1b3acd33,S Matsikenyeri,e7ba1233,0,0,0,0,0,,,,,,0,0,0
+520596,2011/12,Zimbabwe,1,H Masakadza,31fbf891,MD Bates,1b3acd33,S Matsikenyeri,e7ba1233,0,0,0,0,0,,,,,,0,0,0
+520596,2011/12,Zimbabwe,1,H Masakadza,31fbf891,MD Bates,1b3acd33,S Matsikenyeri,e7ba1233,0,0,0,0,0,,,,,,1,0,1
+520596,2011/12,Zimbabwe,1,S Matsikenyeri,e7ba1233,MD Bates,1b3acd33,H Masakadza,31fbf891,0,0,0,0,0,,,,,,0,0,0
+520596,2011/12,Zimbabwe,1,S Matsikenyeri,e7ba1233,MD Bates,1b3acd33,H Masakadza,31fbf891,1,0,0,0,0,,,,,,0,1,1
+520596,2011/12,Zimbabwe,1,S Matsikenyeri,e7ba1233,MD Bates,1b3acd33,H Masakadza,31fbf891,0,0,0,0,0,,,,,,1,0,1
+520596,2011/12,Zimbabwe,1,H Masakadza,31fbf891,MD Bates,1b3acd33,S Matsikenyeri,e7ba1233,0,0,0,0,0,,,,,,0,0,0
+520596,2011/12,Zimbabwe,2,S Matsikenyeri,e7ba1233,KD Mills,7fb32e5b,H Masakadza,31fbf891,0,0,0,0,0,,,,,,1,0,1
+520596,2011/12,Zimbabwe,2,H Masakadza,31fbf891,KD Mills,7fb32e5b,S Matsikenyeri,e7ba1233,0,0,0,0,0,,,,,,0,0,0
+520596,2011/12,Zimbabwe,2,H Masakadza,31fbf891,KD Mills,7fb32e5b,S Matsikenyeri,e7ba1233,0,0,0,0,0,,,,,,4,0,4
+520596,2011/12,Zimbabwe,2,H Masakadza,31fbf891,KD Mills,7fb32e5b,S Matsikenyeri,e7ba1233,0,0,0,0,0,,,,,,6,0,6
+520596,2011/12,Zimbabwe,2,H Masakadza,31fbf891,KD Mills,7fb32e5b,S Matsikenyeri,e7ba1233,0,0,0,0,0,,,,,,3,0,3
+520596,2011/12,Zimbabwe,2,S Matsikenyeri,e7ba1233,KD Mills,7fb32e5b,H Masakadza,31fbf891,0,0,0,0,0,,,,,,0,0,0
+520596,2011/12,Zimbabwe,3,H Masakadza,31fbf891,MD Bates,1b3acd33,S Matsikenyeri,e7ba1233,0,0,0,0,0,,,,,,1,0,1
+520596,2011/12,Zimbabwe,3,S Matsikenyeri,e7ba1233,MD Bates,1b3acd33,H Masakadza,31fbf891,0,0,0,0,0,,,,,,6,0,6
+520596,2011/12,Zimbabwe,3,S Matsikenyeri,e7ba1233,MD Bates,1b3acd33,H Masakadza,31fbf891,0,0,0,0,0,,,,,,6,0,6
+520596,2011/12,Zimbabwe,3,S Matsikenyeri,e7ba1233,MD Bates,1b3acd33,H Masakadza,31fbf891,0,0,0,0,0,,,,,,1,0,1
+520596,2011/12,Zimbabwe,3,H Masakadza,31fbf891,MD Bates,1b3acd33,S Matsikenyeri,e7ba1233,0,0,0,0,0,,,,,,1,0,1
+520596,2011/12,Zimbabwe,3,S Matsikenyeri,e7ba1233,MD Bates,1b3acd33,H Masakadza,31fbf891,0,0,0,0,0,,,,,,1,0,1
+520596,2011/12,Zimbabwe,4,S Matsikenyeri,e7ba1233,TG Southee,13c35c9e,H Masakadza,31fbf891,0,0,0,0,0,,,,,,4,0,4
+520596,2011/12,Zimbabwe,4,S Matsikenyeri,e7ba1233,TG Southee,13c35c9e,H Masakadza,31fbf891,0,0,0,0,0,,,,,,0,0,0
+520596,2011/12,Zimbabwe,4,S Matsikenyeri,e7ba1233,TG Southee,13c35c9e,H Masakadza,31fbf891,0,0,0,0,0,,,,,,1,0,1
+520596,2011/12,Zimbabwe,4,H Masakadza,31fbf891,TG Southee,13c35c9e,S Matsikenyeri,e7ba1233,0,0,0,0,0,,,,,,4,0,4
+520596,2011/12,Zimbabwe,4,H Masakadza,31fbf891,TG Southee,13c35c9e,S Matsikenyeri,e7ba1233,0,0,0,0,0,,,,,,1,0,1
+520596,2011/12,Zimbabwe,4,S Matsikenyeri,e7ba1233,TG Southee,13c35c9e,H Masakadza,31fbf891,0,0,0,0,0,,,,,,0,0,0
+520596,2011/12,Zimbabwe,5,H Masakadza,31fbf891,NL McCullum,5673a3fc,S Matsikenyeri,e7ba1233,0,0,0,0,0,,,,,,1,0,1
+520596,2011/12,Zimbabwe,5,S Matsikenyeri,e7ba1233,NL McCullum,5673a3fc,H Masakadza,31fbf891,0,0,0,0,0,,,,,,1,0,1
+520596,2011/12,Zimbabwe,5,H Masakadza,31fbf891,NL McCullum,5673a3fc,S Matsikenyeri,e7ba1233,0,0,0,0,0,,,,,,6,0,6
+520596,2011/12,Zimbabwe,5,H Masakadza,31fbf891,NL McCullum,5673a3fc,S Matsikenyeri,e7ba1233,0,0,0,0,0,,,,,,0,0,0
+520596,2011/12,Zimbabwe,5,H Masakadza,31fbf891,NL McCullum,5673a3fc,S Matsikenyeri,e7ba1233,0,0,0,0,0,,,,,,6,0,6
+520596,2011/12,Zimbabwe,5,H Masakadza,31fbf891,NL McCullum,5673a3fc,S Matsikenyeri,e7ba1233,0,0,0,0,0,,,,,,1,0,1
+520596,2011/12,Zimbabwe,6,H Masakadza,31fbf891,RM Hira,2e966563,S Matsikenyeri,e7ba1233,0,0,0,0,0,,,,,,1,0,1
+520596,2011/12,Zimbabwe,6,S Matsikenyeri,e7ba1233,RM Hira,2e966563,H Masakadza,31fbf891,0,0,0,0,0,,,,,,4,0,4
+520596,2011/12,Zimbabwe,6,S Matsikenyeri,e7ba1233,RM Hira,2e966563,H Masakadza,31fbf891,0,0,0,0,0,,,,,,6,0,6
+520596,2011/12,Zimbabwe,6,S Matsikenyeri,e7ba1233,RM Hira,2e966563,H Masakadza,31fbf891,0,0,0,0,0,,,,,,0,0,0
+520596,2011/12,Zimbabwe,6,S Matsikenyeri,e7ba1233,RM Hira,2e966563,H Masakadza,31fbf891,0,0,0,0,0,,,,,,0,0,0
+520596,2011/12,Zimbabwe,6,S Matsikenyeri,e7ba1233,RM Hira,2e966563,H Masakadza,31fbf891,0,0,0,0,1,S Matsikenyeri,e7ba1233,TG Southee,13c35c9e,caught,0,0,0
+520596,2011/12,Zimbabwe,7,BRM Taylor,53597be1,AM Ellis,f987245c,H Masakadza,31fbf891,0,0,0,0,0,,,,,,1,0,1
+520596,2011/12,Zimbabwe,7,H Masakadza,31fbf891,AM Ellis,f987245c,BRM Taylor,53597be1,0,0,0,0,0,,,,,,0,0,0
+520596,2011/12,Zimbabwe,7,H Masakadza,31fbf891,AM Ellis,f987245c,BRM Taylor,53597be1,0,0,0,0,0,,,,,,2,0,2
+520596,2011/12,Zimbabwe,7,H Masakadza,31fbf891,AM Ellis,f987245c,BRM Taylor,53597be1,0,0,0,0,0,,,,,,6,0,6
+520596,2011/12,Zimbabwe,7,H Masakadza,31fbf891,AM Ellis,f987245c,BRM Taylor,53597be1,0,0,0,0,0,,,,,,1,0,1
+520596,2011/12,Zimbabwe,7,BRM Taylor,53597be1,AM Ellis,f987245c,H Masakadza,31fbf891,0,0,0,0,0,,,,,,0,0,0
+520596,2011/12,Zimbabwe,8,H Masakadza,31fbf891,TG Southee,13c35c9e,BRM Taylor,53597be1,0,0,0,0,0,,,,,,0,0,0
+520596,2011/12,Zimbabwe,8,H Masakadza,31fbf891,TG Southee,13c35c9e,BRM Taylor,53597be1,0,0,0,0,0,,,,,,1,0,1
+520596,2011/12,Zimbabwe,8,BRM Taylor,53597be1,TG Southee,13c35c9e,H Masakadza,31fbf891,0,0,0,0,0,,,,,,0,0,0
+520596,2011/12,Zimbabwe,8,BRM Taylor,53597be1,TG Southee,13c35c9e,H Masakadza,31fbf891,0,0,0,0,0,,,,,,1,0,1
+520596,2011/12,Zimbabwe,8,H Masakadza,31fbf891,TG Southee,13c35c9e,BRM Taylor,53597be1,0,0,0,1,0,,,,,,0,1,1
+520596,2011/12,Zimbabwe,8,BRM Taylor,53597be1,TG Southee,13c35c9e,H Masakadza,31fbf891,0,0,0,0,0,,,,,,1,0,1
+520596,2011/12,Zimbabwe,9,BRM Taylor,53597be1,RM Hira,2e966563,H Masakadza,31fbf891,0,0,0,0,0,,,,,,4,0,4
+520596,2011/12,Zimbabwe,9,BRM Taylor,53597be1,RM Hira,2e966563,H Masakadza,31fbf891,0,0,0,0,0,,,,,,1,0,1
+520596,2011/12,Zimbabwe,9,H Masakadza,31fbf891,RM Hira,2e966563,BRM Taylor,53597be1,0,0,0,0,0,,,,,,1,0,1
+520596,2011/12,Zimbabwe,9,BRM Taylor,53597be1,RM Hira,2e966563,H Masakadza,31fbf891,0,0,0,0,0,,,,,,1,0,1
+520596,2011/12,Zimbabwe,9,H Masakadza,31fbf891,RM Hira,2e966563,BRM Taylor,53597be1,0,0,0,0,0,,,,,,0,0,0
+520596,2011/12,Zimbabwe,9,H Masakadza,31fbf891,RM Hira,2e966563,BRM Taylor,53597be1,0,0,0,0,0,,,,,,1,0,1
+520596,2011/12,Zimbabwe,10,H Masakadza,31fbf891,KS Williamson,d027ba9f,BRM Taylor,53597be1,0,0,0,0,0,,,,,,1,0,1
+520596,2011/12,Zimbabwe,10,BRM Taylor,53597be1,KS Williamson,d027ba9f,H Masakadza,31fbf891,0,0,0,0,0,,,,,,2,0,2
+520596,2011/12,Zimbabwe,10,BRM Taylor,53597be1,KS Williamson,d027ba9f,H Masakadza,31fbf891,0,0,0,0,0,,,,,,1,0,1
+520596,2011/12,Zimbabwe,10,H Masakadza,31fbf891,KS Williamson,d027ba9f,BRM Taylor,53597be1,0,0,0,0,0,,,,,,1,0,1
+520596,2011/12,Zimbabwe,10,BRM Taylor,53597be1,KS Williamson,d027ba9f,H Masakadza,31fbf891,0,0,0,0,0,,,,,,1,0,1
+520596,2011/12,Zimbabwe,10,H Masakadza,31fbf891,KS Williamson,d027ba9f,BRM Taylor,53597be1,0,0,0,0,0,,,,,,0,0,0
+520596,2011/12,Zimbabwe,11,BRM Taylor,53597be1,RM Hira,2e966563,H Masakadza,31fbf891,0,0,0,0,0,,,,,,0,0,0
+520596,2011/12,Zimbabwe,11,BRM Taylor,53597be1,RM Hira,2e966563,H Masakadza,31fbf891,0,0,0,0,0,,,,,,6,0,6
+520596,2011/12,Zimbabwe,11,BRM Taylor,53597be1,RM Hira,2e966563,H Masakadza,31fbf891,0,0,0,0,0,,,,,,4,0,4
+520596,2011/12,Zimbabwe,11,BRM Taylor,53597be1,RM Hira,2e966563,H Masakadza,31fbf891,0,0,0,0,0,,,,,,0,0,0
+520596,2011/12,Zimbabwe,11,BRM Taylor,53597be1,RM Hira,2e966563,H Masakadza,31fbf891,0,0,0,0,0,,,,,,1,0,1
+520596,2011/12,Zimbabwe,11,H Masakadza,31fbf891,RM Hira,2e966563,BRM Taylor,53597be1,0,0,0,0,0,,,,,,1,0,1
+520596,2011/12,Zimbabwe,12,H Masakadza,31fbf891,RJ Nicol,8d8c24fd,BRM Taylor,53597be1,0,0,0,0,0,,,,,,2,0,2
+520596,2011/12,Zimbabwe,12,H Masakadza,31fbf891,RJ Nicol,8d8c24fd,BRM Taylor,53597be1,0,0,0,0,0,,,,,,1,0,1
+520596,2011/12,Zimbabwe,12,BRM Taylor,53597be1,RJ Nicol,8d8c24fd,H Masakadza,31fbf891,0,0,0,0,0,,,,,,1,0,1
+520596,2011/12,Zimbabwe,12,H Masakadza,31fbf891,RJ Nicol,8d8c24fd,BRM Taylor,53597be1,0,0,0,0,0,,,,,,0,0,0
+520596,2011/12,Zimbabwe,12,H Masakadza,31fbf891,RJ Nicol,8d8c24fd,BRM Taylor,53597be1,0,0,0,0,0,,,,,,1,0,1
+520596,2011/12,Zimbabwe,12,BRM Taylor,53597be1,RJ Nicol,8d8c24fd,H Masakadza,31fbf891,0,0,0,0,0,,,,,,0,0,0
+520596,2011/12,Zimbabwe,13,H Masakadza,31fbf891,MD Bates,1b3acd33,BRM Taylor,53597be1,0,0,0,0,1,H Masakadza,31fbf891,C de Grandhomme,94d7f855,caught,0,0,0
+520596,2011/12,Zimbabwe,13,BRM Taylor,53597be1,MD Bates,1b3acd33,E Chigumbura,d2babdd5,0,0,0,0,0,,,,,,1,0,1
+520596,2011/12,Zimbabwe,13,E Chigumbura,d2babdd5,MD Bates,1b3acd33,BRM Taylor,53597be1,0,0,0,0,0,,,,,,1,0,1
+520596,2011/12,Zimbabwe,13,BRM Taylor,53597be1,MD Bates,1b3acd33,E Chigumbura,d2babdd5,0,0,0,0,0,,,,,,1,0,1
+520596,2011/12,Zimbabwe,13,E Chigumbura,d2babdd5,MD Bates,1b3acd33,BRM Taylor,53597be1,0,0,0,0,0,,,,,,4,0,4
+520596,2011/12,Zimbabwe,13,E Chigumbura,d2babdd5,MD Bates,1b3acd33,BRM Taylor,53597be1,0,0,0,0,0,,,,,,4,0,4
+520596,2011/12,Zimbabwe,14,BRM Taylor,53597be1,KS Williamson,d027ba9f,E Chigumbura,d2babdd5,0,0,0,0,0,,,,,,0,0,0
+520596,2011/12,Zimbabwe,14,BRM Taylor,53597be1,KS Williamson,d027ba9f,E Chigumbura,d2babdd5,0,0,0,0,0,,,,,,1,0,1
+520596,2011/12,Zimbabwe,14,E Chigumbura,d2babdd5,KS Williamson,d027ba9f,BRM Taylor,53597be1,0,0,0,0,0,,,,,,1,0,1
+520596,2011/12,Zimbabwe,14,BRM Taylor,53597be1,KS Williamson,d027ba9f,E Chigumbura,d2babdd5,0,0,0,0,0,,,,,,2,0,2
+520596,2011/12,Zimbabwe,14,BRM Taylor,53597be1,KS Williamson,d027ba9f,E Chigumbura,d2babdd5,0,0,0,0,0,,,,,,2,0,2
+520596,2011/12,Zimbabwe,14,BRM Taylor,53597be1,KS Williamson,d027ba9f,E Chigumbura,d2babdd5,0,0,0,0,0,,,,,,4,0,4
+520596,2011/12,Zimbabwe,15,E Chigumbura,d2babdd5,TG Southee,13c35c9e,BRM Taylor,53597be1,0,0,0,0,0,,,,,,1,0,1
+520596,2011/12,Zimbabwe,15,BRM Taylor,53597be1,TG Southee,13c35c9e,E Chigumbura,d2babdd5,0,0,0,0,0,,,,,,0,0,0
+520596,2011/12,Zimbabwe,15,BRM Taylor,53597be1,TG Southee,13c35c9e,E Chigumbura,d2babdd5,0,0,0,0,0,,,,,,1,0,1
+520596,2011/12,Zimbabwe,15,E Chigumbura,d2babdd5,TG Southee,13c35c9e,BRM Taylor,53597be1,0,0,0,0,0,,,,,,1,0,1
+520596,2011/12,Zimbabwe,15,BRM Taylor,53597be1,TG Southee,13c35c9e,E Chigumbura,d2babdd5,0,0,0,0,0,,,,,,2,0,2
+520596,2011/12,Zimbabwe,15,BRM Taylor,53597be1,TG Southee,13c35c9e,E Chigumbura,d2babdd5,0,0,0,0,0,,,,,,6,0,6
+520596,2011/12,Zimbabwe,16,E Chigumbura,d2babdd5,KD Mills,7fb32e5b,BRM Taylor,53597be1,0,0,0,0,0,,,,,,0,0,0
+520596,2011/12,Zimbabwe,16,E Chigumbura,d2babdd5,KD Mills,7fb32e5b,BRM Taylor,53597be1,0,0,0,0,0,,,,,,4,0,4
+520596,2011/12,Zimbabwe,16,E Chigumbura,d2babdd5,KD Mills,7fb32e5b,BRM Taylor,53597be1,0,0,0,0,0,,,,,,4,0,4
+520596,2011/12,Zimbabwe,16,E Chigumbura,d2babdd5,KD Mills,7fb32e5b,BRM Taylor,53597be1,0,0,0,0,0,,,,,,1,0,1
+520596,2011/12,Zimbabwe,16,BRM Taylor,53597be1,KD Mills,7fb32e5b,E Chigumbura,d2babdd5,0,0,0,0,0,,,,,,1,0,1
+520596,2011/12,Zimbabwe,16,E Chigumbura,d2babdd5,KD Mills,7fb32e5b,BRM Taylor,53597be1,0,0,0,0,0,,,,,,4,0,4
+520596,2011/12,Zimbabwe,17,BRM Taylor,53597be1,MD Bates,1b3acd33,E Chigumbura,d2babdd5,0,0,0,0,0,,,,,,6,0,6
+520596,2011/12,Zimbabwe,17,BRM Taylor,53597be1,MD Bates,1b3acd33,E Chigumbura,d2babdd5,0,0,0,0,0,,,,,,4,0,4
+520596,2011/12,Zimbabwe,17,BRM Taylor,53597be1,MD Bates,1b3acd33,E Chigumbura,d2babdd5,0,0,0,0,0,,,,,,1,0,1
+520596,2011/12,Zimbabwe,17,E Chigumbura,d2babdd5,MD Bates,1b3acd33,BRM Taylor,53597be1,0,0,0,0,0,,,,,,1,0,1
+520596,2011/12,Zimbabwe,17,BRM Taylor,53597be1,MD Bates,1b3acd33,E Chigumbura,d2babdd5,0,0,0,0,0,,,,,,2,0,2
+520596,2011/12,Zimbabwe,17,BRM Taylor,53597be1,MD Bates,1b3acd33,E Chigumbura,d2babdd5,0,0,0,0,0,,,,,,3,0,3
+520596,2011/12,Zimbabwe,18,BRM Taylor,53597be1,TG Southee,13c35c9e,E Chigumbura,d2babdd5,0,0,0,0,0,,,,,,1,0,1
+520596,2011/12,Zimbabwe,18,E Chigumbura,d2babdd5,TG Southee,13c35c9e,BRM Taylor,53597be1,0,0,0,0,0,,,,,,1,0,1
+520596,2011/12,Zimbabwe,18,BRM Taylor,53597be1,TG Southee,13c35c9e,E Chigumbura,d2babdd5,0,0,0,0,0,,,,,,4,0,4
+520596,2011/12,Zimbabwe,18,BRM Taylor,53597be1,TG Southee,13c35c9e,E Chigumbura,d2babdd5,0,0,0,0,0,,,,,,0,0,0
+520596,2011/12,Zimbabwe,18,BRM Taylor,53597be1,TG Southee,13c35c9e,E Chigumbura,d2babdd5,0,0,0,0,0,,,,,,4,0,4
+520596,2011/12,Zimbabwe,18,BRM Taylor,53597be1,TG Southee,13c35c9e,E Chigumbura,d2babdd5,0,0,0,0,0,,,,,,1,0,1
+520596,2011/12,Zimbabwe,19,BRM Taylor,53597be1,KD Mills,7fb32e5b,E Chigumbura,d2babdd5,0,0,0,0,0,,,,,,1,0,1
+520596,2011/12,Zimbabwe,19,E Chigumbura,d2babdd5,KD Mills,7fb32e5b,BRM Taylor,53597be1,0,0,0,0,0,,,,,,0,0,0
+520596,2011/12,Zimbabwe,19,E Chigumbura,d2babdd5,KD Mills,7fb32e5b,BRM Taylor,53597be1,0,0,0,0,0,,,,,,1,0,1
+520596,2011/12,Zimbabwe,19,BRM Taylor,53597be1,KD Mills,7fb32e5b,E Chigumbura,d2babdd5,0,0,0,0,0,,,,,,1,0,1
+520596,2011/12,Zimbabwe,19,E Chigumbura,d2babdd5,KD Mills,7fb32e5b,BRM Taylor,53597be1,0,0,0,0,0,,,,,,1,0,1
+520596,2011/12,Zimbabwe,19,BRM Taylor,53597be1,KD Mills,7fb32e5b,E Chigumbura,d2babdd5,0,0,0,0,0,,,,,,1,0,1
+520596,2011/12,New Zealand,0,RJ Nicol,8d8c24fd,KO Meth,9fbc7bc4,JEC Franklin,cf73ad76,1,0,0,0,0,,,,,,0,1,1
+520596,2011/12,New Zealand,0,RJ Nicol,8d8c24fd,KO Meth,9fbc7bc4,JEC Franklin,cf73ad76,0,0,0,0,0,,,,,,0,0,0
+520596,2011/12,New Zealand,0,RJ Nicol,8d8c24fd,KO Meth,9fbc7bc4,JEC Franklin,cf73ad76,0,0,0,0,0,,,,,,0,0,0
+520596,2011/12,New Zealand,0,RJ Nicol,8d8c24fd,KO Meth,9fbc7bc4,JEC Franklin,cf73ad76,0,0,0,0,0,,,,,,0,0,0
+520596,2011/12,New Zealand,0,RJ Nicol,8d8c24fd,KO Meth,9fbc7bc4,JEC Franklin,cf73ad76,1,0,0,0,0,,,,,,0,1,1
+520596,2011/12,New Zealand,0,RJ Nicol,8d8c24fd,KO Meth,9fbc7bc4,JEC Franklin,cf73ad76,0,0,0,0,0,,,,,,0,0,0
+520596,2011/12,New Zealand,0,RJ Nicol,8d8c24fd,KO Meth,9fbc7bc4,JEC Franklin,cf73ad76,0,0,0,0,0,,,,,,1,0,1
+520596,2011/12,New Zealand,0,JEC Franklin,cf73ad76,KO Meth,9fbc7bc4,RJ Nicol,8d8c24fd,0,0,0,0,0,,,,,,0,0,0
+520596,2011/12,New Zealand,1,RJ Nicol,8d8c24fd,KM Jarvis,59792462,JEC Franklin,cf73ad76,0,0,0,0,0,,,,,,0,0,0
+520596,2011/12,New Zealand,1,RJ Nicol,8d8c24fd,KM Jarvis,59792462,JEC Franklin,cf73ad76,0,0,0,0,0,,,,,,6,0,6
+520596,2011/12,New Zealand,1,RJ Nicol,8d8c24fd,KM Jarvis,59792462,JEC Franklin,cf73ad76,0,0,0,0,0,,,,,,0,0,0
+520596,2011/12,New Zealand,1,RJ Nicol,8d8c24fd,KM Jarvis,59792462,JEC Franklin,cf73ad76,0,0,0,0,0,,,,,,2,0,2
+520596,2011/12,New Zealand,1,RJ Nicol,8d8c24fd,KM Jarvis,59792462,JEC Franklin,cf73ad76,0,0,0,0,0,,,,,,2,0,2
+520596,2011/12,New Zealand,1,RJ Nicol,8d8c24fd,KM Jarvis,59792462,JEC Franklin,cf73ad76,0,0,0,0,0,,,,,,2,0,2
+520596,2011/12,New Zealand,2,JEC Franklin,cf73ad76,KO Meth,9fbc7bc4,RJ Nicol,8d8c24fd,0,0,0,0,0,,,,,,2,0,2
+520596,2011/12,New Zealand,2,JEC Franklin,cf73ad76,KO Meth,9fbc7bc4,RJ Nicol,8d8c24fd,0,0,0,0,0,,,,,,1,0,1
+520596,2011/12,New Zealand,2,RJ Nicol,8d8c24fd,KO Meth,9fbc7bc4,JEC Franklin,cf73ad76,0,0,0,0,0,,,,,,0,0,0
+520596,2011/12,New Zealand,2,RJ Nicol,8d8c24fd,KO Meth,9fbc7bc4,JEC Franklin,cf73ad76,0,0,0,0,0,,,,,,4,0,4
+520596,2011/12,New Zealand,2,RJ Nicol,8d8c24fd,KO Meth,9fbc7bc4,JEC Franklin,cf73ad76,0,0,0,0,0,,,,,,0,0,0
+520596,2011/12,New Zealand,2,RJ Nicol,8d8c24fd,KO Meth,9fbc7bc4,JEC Franklin,cf73ad76,0,0,0,0,0,,,,,,4,0,4
+520596,2011/12,New Zealand,3,JEC Franklin,cf73ad76,KM Jarvis,59792462,RJ Nicol,8d8c24fd,0,0,0,0,0,,,,,,0,0,0
+520596,2011/12,New Zealand,3,JEC Franklin,cf73ad76,KM Jarvis,59792462,RJ Nicol,8d8c24fd,0,0,0,0,0,,,,,,0,0,0
+520596,2011/12,New Zealand,3,JEC Franklin,cf73ad76,KM Jarvis,59792462,RJ Nicol,8d8c24fd,0,0,0,0,0,,,,,,0,0,0
+520596,2011/12,New Zealand,3,JEC Franklin,cf73ad76,KM Jarvis,59792462,RJ Nicol,8d8c24fd,0,0,0,0,0,,,,,,0,0,0
+520596,2011/12,New Zealand,3,JEC Franklin,cf73ad76,KM Jarvis,59792462,RJ Nicol,8d8c24fd,0,0,0,0,0,,,,,,0,0,0
+520596,2011/12,New Zealand,3,JEC Franklin,cf73ad76,KM Jarvis,59792462,RJ Nicol,8d8c24fd,0,0,0,0,0,,,,,,4,0,4
+520596,2011/12,New Zealand,4,RJ Nicol,8d8c24fd,KO Meth,9fbc7bc4,JEC Franklin,cf73ad76,1,0,0,0,0,,,,,,0,1,1
+520596,2011/12,New Zealand,4,RJ Nicol,8d8c24fd,KO Meth,9fbc7bc4,JEC Franklin,cf73ad76,0,0,0,0,0,,,,,,4,0,4
+520596,2011/12,New Zealand,4,RJ Nicol,8d8c24fd,KO Meth,9fbc7bc4,JEC Franklin,cf73ad76,0,0,0,0,0,,,,,,0,0,0
+520596,2011/12,New Zealand,4,RJ Nicol,8d8c24fd,KO Meth,9fbc7bc4,JEC Franklin,cf73ad76,0,0,0,0,0,,,,,,6,0,6
+520596,2011/12,New Zealand,4,RJ Nicol,8d8c24fd,KO Meth,9fbc7bc4,JEC Franklin,cf73ad76,0,0,0,0,0,,,,,,1,0,1
+520596,2011/12,New Zealand,4,JEC Franklin,cf73ad76,KO Meth,9fbc7bc4,RJ Nicol,8d8c24fd,0,0,0,0,0,,,,,,0,0,0
+520596,2011/12,New Zealand,4,JEC Franklin,cf73ad76,KO Meth,9fbc7bc4,RJ Nicol,8d8c24fd,0,0,0,0,0,,,,,,4,0,4
+520596,2011/12,New Zealand,5,RJ Nicol,8d8c24fd,P Utseya,9de271ef,JEC Franklin,cf73ad76,0,0,0,0,0,,,,,,0,0,0
+520596,2011/12,New Zealand,5,RJ Nicol,8d8c24fd,P Utseya,9de271ef,JEC Franklin,cf73ad76,0,0,0,0,0,,,,,,1,0,1
+520596,2011/12,New Zealand,5,JEC Franklin,cf73ad76,P Utseya,9de271ef,RJ Nicol,8d8c24fd,0,0,0,0,0,,,,,,0,0,0
+520596,2011/12,New Zealand,5,JEC Franklin,cf73ad76,P Utseya,9de271ef,RJ Nicol,8d8c24fd,0,0,0,0,0,,,,,,0,0,0
+520596,2011/12,New Zealand,5,JEC Franklin,cf73ad76,P Utseya,9de271ef,RJ Nicol,8d8c24fd,0,0,0,0,0,,,,,,1,0,1
+520596,2011/12,New Zealand,5,RJ Nicol,8d8c24fd,P Utseya,9de271ef,JEC Franklin,cf73ad76,0,0,0,0,0,,,,,,1,0,1
+520596,2011/12,New Zealand,6,RJ Nicol,8d8c24fd,RW Price,67af6f81,JEC Franklin,cf73ad76,1,0,0,0,0,,,,,,0,1,1
+520596,2011/12,New Zealand,6,RJ Nicol,8d8c24fd,RW Price,67af6f81,JEC Franklin,cf73ad76,0,0,0,0,0,,,,,,0,0,0
+520596,2011/12,New Zealand,6,RJ Nicol,8d8c24fd,RW Price,67af6f81,JEC Franklin,cf73ad76,0,0,0,0,0,,,,,,1,0,1
+520596,2011/12,New Zealand,6,JEC Franklin,cf73ad76,RW Price,67af6f81,RJ Nicol,8d8c24fd,0,0,0,0,0,,,,,,0,0,0
+520596,2011/12,New Zealand,6,JEC Franklin,cf73ad76,RW Price,67af6f81,RJ Nicol,8d8c24fd,0,0,0,0,0,,,,,,1,0,1
+520596,2011/12,New Zealand,6,RJ Nicol,8d8c24fd,RW Price,67af6f81,JEC Franklin,cf73ad76,0,0,0,0,0,,,,,,1,0,1
+520596,2011/12,New Zealand,6,JEC Franklin,cf73ad76,RW Price,67af6f81,RJ Nicol,8d8c24fd,0,0,0,0,0,,,,,,1,0,1
+520596,2011/12,New Zealand,7,JEC Franklin,cf73ad76,SW Masakadza,2182013e,RJ Nicol,8d8c24fd,0,0,0,0,0,,,,,,1,0,1
+520596,2011/12,New Zealand,7,RJ Nicol,8d8c24fd,SW Masakadza,2182013e,JEC Franklin,cf73ad76,0,0,1,0,0,,,,,,0,1,1
+520596,2011/12,New Zealand,7,JEC Franklin,cf73ad76,SW Masakadza,2182013e,RJ Nicol,8d8c24fd,0,0,0,0,0,,,,,,1,0,1
+520596,2011/12,New Zealand,7,RJ Nicol,8d8c24fd,SW Masakadza,2182013e,JEC Franklin,cf73ad76,0,0,0,0,0,,,,,,1,0,1
+520596,2011/12,New Zealand,7,JEC Franklin,cf73ad76,SW Masakadza,2182013e,RJ Nicol,8d8c24fd,0,0,0,0,0,,,,,,6,0,6
+520596,2011/12,New Zealand,7,JEC Franklin,cf73ad76,SW Masakadza,2182013e,RJ Nicol,8d8c24fd,0,0,0,0,0,,,,,,6,0,6
+520596,2011/12,New Zealand,8,RJ Nicol,8d8c24fd,RW Price,67af6f81,JEC Franklin,cf73ad76,0,0,0,0,0,,,,,,4,0,4
+520596,2011/12,New Zealand,8,RJ Nicol,8d8c24fd,RW Price,67af6f81,JEC Franklin,cf73ad76,0,0,0,0,0,,,,,,6,0,6
+520596,2011/12,New Zealand,8,RJ Nicol,8d8c24fd,RW Price,67af6f81,JEC Franklin,cf73ad76,1,0,0,0,0,,,,,,0,1,1
+520596,2011/12,New Zealand,8,RJ Nicol,8d8c24fd,RW Price,67af6f81,JEC Franklin,cf73ad76,0,0,0,0,0,,,,,,0,0,0
+520596,2011/12,New Zealand,8,RJ Nicol,8d8c24fd,RW Price,67af6f81,JEC Franklin,cf73ad76,0,0,0,0,0,,,,,,0,0,0
+520596,2011/12,New Zealand,8,RJ Nicol,8d8c24fd,RW Price,67af6f81,JEC Franklin,cf73ad76,0,0,0,0,0,,,,,,1,0,1
+520596,2011/12,New Zealand,8,JEC Franklin,cf73ad76,RW Price,67af6f81,RJ Nicol,8d8c24fd,0,0,0,0,0,,,,,,6,0,6
+520596,2011/12,New Zealand,9,RJ Nicol,8d8c24fd,P Utseya,9de271ef,JEC Franklin,cf73ad76,0,0,0,0,0,,,,,,0,0,0
+520596,2011/12,New Zealand,9,RJ Nicol,8d8c24fd,P Utseya,9de271ef,JEC Franklin,cf73ad76,0,0,0,0,0,,,,,,6,0,6
+520596,2011/12,New Zealand,9,RJ Nicol,8d8c24fd,P Utseya,9de271ef,JEC Franklin,cf73ad76,0,0,0,0,0,,,,,,1,0,1
+520596,2011/12,New Zealand,9,JEC Franklin,cf73ad76,P Utseya,9de271ef,RJ Nicol,8d8c24fd,0,0,0,0,0,,,,,,6,0,6
+520596,2011/12,New Zealand,9,JEC Franklin,cf73ad76,P Utseya,9de271ef,RJ Nicol,8d8c24fd,0,0,0,0,0,,,,,,1,0,1
+520596,2011/12,New Zealand,9,RJ Nicol,8d8c24fd,P Utseya,9de271ef,JEC Franklin,cf73ad76,0,0,0,0,0,,,,,,1,0,1
+520596,2011/12,New Zealand,10,RJ Nicol,8d8c24fd,E Chigumbura,d2babdd5,JEC Franklin,cf73ad76,0,0,0,0,1,RJ Nicol,8d8c24fd,KO Meth,9fbc7bc4,caught,0,0,0
+520596,2011/12,New Zealand,10,JEC Franklin,cf73ad76,E Chigumbura,d2babdd5,BB McCullum,b8a55852,0,0,0,0,0,,,,,,1,0,1
+520596,2011/12,New Zealand,10,BB McCullum,b8a55852,E Chigumbura,d2babdd5,JEC Franklin,cf73ad76,0,0,0,0,0,,,,,,1,0,1
+520596,2011/12,New Zealand,10,JEC Franklin,cf73ad76,E Chigumbura,d2babdd5,BB McCullum,b8a55852,0,0,0,0,0,,,,,,0,0,0
+520596,2011/12,New Zealand,10,JEC Franklin,cf73ad76,E Chigumbura,d2babdd5,BB McCullum,b8a55852,0,0,0,0,0,,,,,,0,0,0
+520596,2011/12,New Zealand,10,JEC Franklin,cf73ad76,E Chigumbura,d2babdd5,BB McCullum,b8a55852,0,0,0,0,0,,,,,,1,0,1
+520596,2011/12,New Zealand,11,JEC Franklin,cf73ad76,KM Jarvis,59792462,BB McCullum,b8a55852,0,0,0,0,0,,,,,,1,0,1
+520596,2011/12,New Zealand,11,BB McCullum,b8a55852,KM Jarvis,59792462,JEC Franklin,cf73ad76,0,0,0,0,0,,,,,,0,0,0
+520596,2011/12,New Zealand,11,BB McCullum,b8a55852,KM Jarvis,59792462,JEC Franklin,cf73ad76,0,0,0,0,0,,,,,,4,0,4
+520596,2011/12,New Zealand,11,BB McCullum,b8a55852,KM Jarvis,59792462,JEC Franklin,cf73ad76,0,0,0,0,0,,,,,,0,0,0
+520596,2011/12,New Zealand,11,BB McCullum,b8a55852,KM Jarvis,59792462,JEC Franklin,cf73ad76,0,0,0,0,0,,,,,,1,0,1
+520596,2011/12,New Zealand,11,JEC Franklin,cf73ad76,KM Jarvis,59792462,BB McCullum,b8a55852,0,0,0,0,0,,,,,,0,0,0
+520596,2011/12,New Zealand,12,BB McCullum,b8a55852,RW Price,67af6f81,JEC Franklin,cf73ad76,0,0,0,0,0,,,,,,1,0,1
+520596,2011/12,New Zealand,12,JEC Franklin,cf73ad76,RW Price,67af6f81,BB McCullum,b8a55852,0,0,0,0,0,,,,,,1,0,1
+520596,2011/12,New Zealand,12,BB McCullum,b8a55852,RW Price,67af6f81,JEC Franklin,cf73ad76,0,0,0,0,0,,,,,,1,0,1
+520596,2011/12,New Zealand,12,JEC Franklin,cf73ad76,RW Price,67af6f81,BB McCullum,b8a55852,0,0,0,0,0,,,,,,4,0,4
+520596,2011/12,New Zealand,12,JEC Franklin,cf73ad76,RW Price,67af6f81,BB McCullum,b8a55852,0,0,0,0,0,,,,,,1,0,1
+520596,2011/12,New Zealand,12,BB McCullum,b8a55852,RW Price,67af6f81,JEC Franklin,cf73ad76,0,0,1,0,0,,,,,,0,1,1
+520596,2011/12,New Zealand,13,BB McCullum,b8a55852,P Utseya,9de271ef,JEC Franklin,cf73ad76,0,0,0,0,0,,,,,,2,0,2
+520596,2011/12,New Zealand,13,BB McCullum,b8a55852,P Utseya,9de271ef,JEC Franklin,cf73ad76,0,0,0,0,0,,,,,,4,0,4
+520596,2011/12,New Zealand,13,BB McCullum,b8a55852,P Utseya,9de271ef,JEC Franklin,cf73ad76,0,0,0,0,0,,,,,,4,0,4
+520596,2011/12,New Zealand,13,BB McCullum,b8a55852,P Utseya,9de271ef,JEC Franklin,cf73ad76,0,0,0,0,0,,,,,,1,0,1
+520596,2011/12,New Zealand,13,JEC Franklin,cf73ad76,P Utseya,9de271ef,BB McCullum,b8a55852,0,0,0,0,0,,,,,,2,0,2
+520596,2011/12,New Zealand,13,JEC Franklin,cf73ad76,P Utseya,9de271ef,BB McCullum,b8a55852,0,0,0,0,0,,,,,,1,0,1
+520596,2011/12,New Zealand,14,JEC Franklin,cf73ad76,E Chigumbura,d2babdd5,BB McCullum,b8a55852,0,0,0,0,0,,,,,,6,0,6
+520596,2011/12,New Zealand,14,JEC Franklin,cf73ad76,E Chigumbura,d2babdd5,BB McCullum,b8a55852,0,0,0,0,1,JEC Franklin,cf73ad76,KO Meth,9fbc7bc4,run out,1,0,1
+520596,2011/12,New Zealand,14,C de Grandhomme,94d7f855,E Chigumbura,d2babdd5,BB McCullum,b8a55852,0,0,0,0,0,,,,,,0,0,0
+520596,2011/12,New Zealand,14,C de Grandhomme,94d7f855,E Chigumbura,d2babdd5,BB McCullum,b8a55852,0,0,0,0,0,,,,,,1,0,1
+520596,2011/12,New Zealand,14,BB McCullum,b8a55852,E Chigumbura,d2babdd5,C de Grandhomme,94d7f855,0,0,0,0,0,,,,,,1,0,1
+520596,2011/12,New Zealand,14,C de Grandhomme,94d7f855,E Chigumbura,d2babdd5,BB McCullum,b8a55852,0,0,0,0,0,,,,,,4,0,4
+520596,2011/12,New Zealand,15,BB McCullum,b8a55852,RW Price,67af6f81,C de Grandhomme,94d7f855,0,0,0,0,0,,,,,,1,0,1
+520596,2011/12,New Zealand,15,C de Grandhomme,94d7f855,RW Price,67af6f81,BB McCullum,b8a55852,0,0,0,0,0,,,,,,2,0,2
+520596,2011/12,New Zealand,15,C de Grandhomme,94d7f855,RW Price,67af6f81,BB McCullum,b8a55852,0,0,0,0,0,,,,,,0,0,0
+520596,2011/12,New Zealand,15,C de Grandhomme,94d7f855,RW Price,67af6f81,BB McCullum,b8a55852,0,0,0,0,0,,,,,,1,0,1
+520596,2011/12,New Zealand,15,BB McCullum,b8a55852,RW Price,67af6f81,C de Grandhomme,94d7f855,0,0,0,0,0,,,,,,4,0,4
+520596,2011/12,New Zealand,15,BB McCullum,b8a55852,RW Price,67af6f81,C de Grandhomme,94d7f855,0,0,1,0,0,,,,,,0,1,1
+520596,2011/12,New Zealand,16,BB McCullum,b8a55852,E Chigumbura,d2babdd5,C de Grandhomme,94d7f855,0,0,0,0,0,,,,,,2,0,2
+520596,2011/12,New Zealand,16,BB McCullum,b8a55852,E Chigumbura,d2babdd5,C de Grandhomme,94d7f855,0,0,0,0,0,,,,,,0,0,0
+520596,2011/12,New Zealand,16,BB McCullum,b8a55852,E Chigumbura,d2babdd5,C de Grandhomme,94d7f855,0,0,0,0,0,,,,,,1,0,1
+520596,2011/12,New Zealand,16,C de Grandhomme,94d7f855,E Chigumbura,d2babdd5,BB McCullum,b8a55852,0,0,0,0,1,C de Grandhomme,94d7f855,,,bowled,0,0,0
+520596,2011/12,New Zealand,16,NL McCullum,5673a3fc,E Chigumbura,d2babdd5,BB McCullum,b8a55852,0,0,0,0,0,,,,,,2,0,2
+520596,2011/12,New Zealand,16,NL McCullum,5673a3fc,E Chigumbura,d2babdd5,BB McCullum,b8a55852,0,0,0,0,0,,,,,,2,0,2
+520596,2011/12,New Zealand,17,BB McCullum,b8a55852,P Utseya,9de271ef,NL McCullum,5673a3fc,0,0,0,0,0,,,,,,1,0,1
+520596,2011/12,New Zealand,17,NL McCullum,5673a3fc,P Utseya,9de271ef,BB McCullum,b8a55852,0,0,0,4,0,,,,,,0,4,4
+520596,2011/12,New Zealand,17,NL McCullum,5673a3fc,P Utseya,9de271ef,BB McCullum,b8a55852,1,0,0,0,0,,,,,,0,1,1
+520596,2011/12,New Zealand,17,NL McCullum,5673a3fc,P Utseya,9de271ef,BB McCullum,b8a55852,0,0,0,0,0,,,,,,0,0,0
+520596,2011/12,New Zealand,17,NL McCullum,5673a3fc,P Utseya,9de271ef,BB McCullum,b8a55852,0,0,0,0,0,,,,,,1,0,1
+520596,2011/12,New Zealand,17,BB McCullum,b8a55852,P Utseya,9de271ef,NL McCullum,5673a3fc,0,0,0,0,0,,,,,,2,0,2
+520596,2011/12,New Zealand,17,BB McCullum,b8a55852,P Utseya,9de271ef,NL McCullum,5673a3fc,0,0,0,0,0,,,,,,1,0,1
+520596,2011/12,New Zealand,18,BB McCullum,b8a55852,KM Jarvis,59792462,NL McCullum,5673a3fc,0,0,0,0,0,,,,,,6,0,6
+520596,2011/12,New Zealand,18,BB McCullum,b8a55852,KM Jarvis,59792462,NL McCullum,5673a3fc,0,0,0,0,1,BB McCullum,b8a55852,MN Waller,ec4dada1,caught,0,0,0
+520596,2011/12,New Zealand,18,NL McCullum,5673a3fc,KM Jarvis,59792462,AM Ellis,f987245c,0,0,0,0,1,NL McCullum,5673a3fc,E Chigumbura,d2babdd5,caught,0,0,0
+520596,2011/12,New Zealand,18,AM Ellis,f987245c,KM Jarvis,59792462,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,1,0,1
+520596,2011/12,New Zealand,18,KS Williamson,d027ba9f,KM Jarvis,59792462,AM Ellis,f987245c,0,0,0,0,0,,,,,,4,0,4
+520596,2011/12,New Zealand,18,KS Williamson,d027ba9f,KM Jarvis,59792462,AM Ellis,f987245c,0,0,0,0,0,,,,,,2,0,2
+520596,2011/12,New Zealand,19,AM Ellis,f987245c,SW Masakadza,2182013e,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,1,0,1
+520596,2011/12,New Zealand,19,KS Williamson,d027ba9f,SW Masakadza,2182013e,AM Ellis,f987245c,0,0,0,0,0,,,,,,4,0,4
+520596,2011/12,New Zealand,19,KS Williamson,d027ba9f,SW Masakadza,2182013e,AM Ellis,f987245c,0,0,0,0,0,,,,,,6,0,6
+520596,2011/12,New Zealand,19,KS Williamson,d027ba9f,SW Masakadza,2182013e,AM Ellis,f987245c,0,0,0,0,0,,,,,,4,0,4
