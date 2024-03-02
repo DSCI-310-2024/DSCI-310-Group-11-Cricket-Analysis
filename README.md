@@ -43,3 +43,6 @@ Our project works on predicting the probability of getting a wicket on a deliver
 
 ## Licenses
 The License was derived from the MIT License.
+
+## Dataset
+The data was all sourced from [Cricsheet](https://cricsheet.org/).
