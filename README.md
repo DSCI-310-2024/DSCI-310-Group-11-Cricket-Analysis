@@ -26,9 +26,7 @@ Our project works on predicting the probability of getting a wicket on a deliver
 
 `conda activate dsci310_group11`
 
-4. Open JupyterLab and run the file on remote.
-
-`jupyter lab`
+4. Open JupyterLab and run the notebook. 
 
 **Dependencies needed**:
 - JupyterLab
