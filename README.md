@@ -26,7 +26,9 @@ Our project works on predicting the probability of getting a wicket on a deliver
 
 `conda activate dsci310_group11`
 
-4. Open JupyterLab and run the notebook. 
+4. Open JupyterLab and run the notebook.
+
+   **Note**: Some cells may take upto 4 minutes to run as our dataset is large, and we are performing hyperparameter optimization.
 
 **Dependencies needed**:
 - JupyterLab
