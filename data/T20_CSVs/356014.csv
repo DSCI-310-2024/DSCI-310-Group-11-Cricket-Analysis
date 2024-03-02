@@ -1,0 +1,245 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+356014,2009,South Africa,0,GC Smith,72861603,Z Khan,91a4a398,HH Gibbs,e1d1b294,0,0,0,0,0,,,,,,0,0,0
+356014,2009,South Africa,0,GC Smith,72861603,Z Khan,91a4a398,HH Gibbs,e1d1b294,0,0,0,0,0,,,,,,2,0,2
+356014,2009,South Africa,0,GC Smith,72861603,Z Khan,91a4a398,HH Gibbs,e1d1b294,1,0,0,0,0,,,,,,0,1,1
+356014,2009,South Africa,0,GC Smith,72861603,Z Khan,91a4a398,HH Gibbs,e1d1b294,0,0,0,0,0,,,,,,0,0,0
+356014,2009,South Africa,0,GC Smith,72861603,Z Khan,91a4a398,HH Gibbs,e1d1b294,0,0,0,0,0,,,,,,0,0,0
+356014,2009,South Africa,0,GC Smith,72861603,Z Khan,91a4a398,HH Gibbs,e1d1b294,0,0,0,0,0,,,,,,4,0,4
+356014,2009,South Africa,0,GC Smith,72861603,Z Khan,91a4a398,HH Gibbs,e1d1b294,0,0,0,0,0,,,,,,0,0,0
+356014,2009,South Africa,1,HH Gibbs,e1d1b294,RP Singh,c3d1402f,GC Smith,72861603,0,0,0,0,0,,,,,,1,0,1
+356014,2009,South Africa,1,GC Smith,72861603,RP Singh,c3d1402f,HH Gibbs,e1d1b294,0,0,0,0,0,,,,,,1,0,1
+356014,2009,South Africa,1,HH Gibbs,e1d1b294,RP Singh,c3d1402f,GC Smith,72861603,0,0,0,0,0,,,,,,4,0,4
+356014,2009,South Africa,1,HH Gibbs,e1d1b294,RP Singh,c3d1402f,GC Smith,72861603,0,0,0,0,1,HH Gibbs,e1d1b294,,,bowled,0,0,0
+356014,2009,South Africa,1,AB de Villiers,c4487b84,RP Singh,c3d1402f,GC Smith,72861603,0,0,0,0,0,,,,,,0,0,0
+356014,2009,South Africa,1,AB de Villiers,c4487b84,RP Singh,c3d1402f,GC Smith,72861603,0,0,0,0,0,,,,,,4,0,4
+356014,2009,South Africa,2,GC Smith,72861603,Z Khan,91a4a398,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,4,0,4
+356014,2009,South Africa,2,GC Smith,72861603,Z Khan,91a4a398,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,2,0,2
+356014,2009,South Africa,2,GC Smith,72861603,Z Khan,91a4a398,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,0,0,0
+356014,2009,South Africa,2,GC Smith,72861603,Z Khan,91a4a398,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,1,0,1
+356014,2009,South Africa,2,AB de Villiers,c4487b84,Z Khan,91a4a398,GC Smith,72861603,0,0,0,0,0,,,,,,1,0,1
+356014,2009,South Africa,2,GC Smith,72861603,Z Khan,91a4a398,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,2,0,2
+356014,2009,South Africa,3,AB de Villiers,c4487b84,RP Singh,c3d1402f,GC Smith,72861603,0,0,0,0,0,,,,,,4,0,4
+356014,2009,South Africa,3,AB de Villiers,c4487b84,RP Singh,c3d1402f,GC Smith,72861603,0,0,0,0,0,,,,,,0,0,0
+356014,2009,South Africa,3,AB de Villiers,c4487b84,RP Singh,c3d1402f,GC Smith,72861603,0,0,0,0,0,,,,,,4,0,4
+356014,2009,South Africa,3,AB de Villiers,c4487b84,RP Singh,c3d1402f,GC Smith,72861603,0,0,0,0,0,,,,,,0,0,0
+356014,2009,South Africa,3,AB de Villiers,c4487b84,RP Singh,c3d1402f,GC Smith,72861603,0,0,0,0,0,,,,,,1,0,1
+356014,2009,South Africa,3,GC Smith,72861603,RP Singh,c3d1402f,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,2,0,2
+356014,2009,South Africa,4,AB de Villiers,c4487b84,I Sharma,5bb1a1c4,GC Smith,72861603,0,0,0,0,0,,,,,,0,0,0
+356014,2009,South Africa,4,AB de Villiers,c4487b84,I Sharma,5bb1a1c4,GC Smith,72861603,0,0,0,0,0,,,,,,4,0,4
+356014,2009,South Africa,4,AB de Villiers,c4487b84,I Sharma,5bb1a1c4,GC Smith,72861603,0,0,0,0,0,,,,,,0,0,0
+356014,2009,South Africa,4,AB de Villiers,c4487b84,I Sharma,5bb1a1c4,GC Smith,72861603,0,0,0,0,0,,,,,,1,0,1
+356014,2009,South Africa,4,GC Smith,72861603,I Sharma,5bb1a1c4,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,1,0,1
+356014,2009,South Africa,4,AB de Villiers,c4487b84,I Sharma,5bb1a1c4,GC Smith,72861603,0,0,0,0,0,,,,,,0,0,0
+356014,2009,South Africa,5,GC Smith,72861603,RA Jadeja,fe93fd9d,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,0,0,0
+356014,2009,South Africa,5,GC Smith,72861603,RA Jadeja,fe93fd9d,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,1,0,1
+356014,2009,South Africa,5,AB de Villiers,c4487b84,RA Jadeja,fe93fd9d,GC Smith,72861603,0,0,0,0,0,,,,,,0,0,0
+356014,2009,South Africa,5,AB de Villiers,c4487b84,RA Jadeja,fe93fd9d,GC Smith,72861603,0,0,0,0,0,,,,,,1,0,1
+356014,2009,South Africa,5,GC Smith,72861603,RA Jadeja,fe93fd9d,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,0,0,0
+356014,2009,South Africa,5,GC Smith,72861603,RA Jadeja,fe93fd9d,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,1,0,1
+356014,2009,South Africa,6,GC Smith,72861603,RG Sharma,740742ef,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,0,0,0
+356014,2009,South Africa,6,GC Smith,72861603,RG Sharma,740742ef,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,1,0,1
+356014,2009,South Africa,6,AB de Villiers,c4487b84,RG Sharma,740742ef,GC Smith,72861603,0,0,0,0,0,,,,,,2,0,2
+356014,2009,South Africa,6,AB de Villiers,c4487b84,RG Sharma,740742ef,GC Smith,72861603,0,0,0,0,0,,,,,,1,0,1
+356014,2009,South Africa,6,GC Smith,72861603,RG Sharma,740742ef,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,1,0,1
+356014,2009,South Africa,6,AB de Villiers,c4487b84,RG Sharma,740742ef,GC Smith,72861603,0,0,0,0,0,,,,,,1,0,1
+356014,2009,South Africa,7,AB de Villiers,c4487b84,Yuvraj Singh,1c914163,GC Smith,72861603,0,0,0,0,0,,,,,,1,0,1
+356014,2009,South Africa,7,GC Smith,72861603,Yuvraj Singh,1c914163,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,0,0,0
+356014,2009,South Africa,7,GC Smith,72861603,Yuvraj Singh,1c914163,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,1,0,1
+356014,2009,South Africa,7,AB de Villiers,c4487b84,Yuvraj Singh,1c914163,GC Smith,72861603,0,0,0,0,0,,,,,,0,0,0
+356014,2009,South Africa,7,AB de Villiers,c4487b84,Yuvraj Singh,1c914163,GC Smith,72861603,0,0,0,0,0,,,,,,1,0,1
+356014,2009,South Africa,7,GC Smith,72861603,Yuvraj Singh,1c914163,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,1,0,1
+356014,2009,South Africa,8,GC Smith,72861603,Harbhajan Singh,8b5b6769,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,1,0,1
+356014,2009,South Africa,8,AB de Villiers,c4487b84,Harbhajan Singh,8b5b6769,GC Smith,72861603,0,0,0,0,0,,,,,,1,0,1
+356014,2009,South Africa,8,GC Smith,72861603,Harbhajan Singh,8b5b6769,AB de Villiers,c4487b84,0,0,0,0,1,GC Smith,72861603,RA Jadeja,fe93fd9d,caught,0,0,0
+356014,2009,South Africa,8,AB de Villiers,c4487b84,Harbhajan Singh,8b5b6769,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,0,0,0
+356014,2009,South Africa,8,AB de Villiers,c4487b84,Harbhajan Singh,8b5b6769,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,0,0,0
+356014,2009,South Africa,8,AB de Villiers,c4487b84,Harbhajan Singh,8b5b6769,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,0,0,0
+356014,2009,South Africa,9,JP Duminy,2e8994e7,Yuvraj Singh,1c914163,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,1,0,1
+356014,2009,South Africa,9,AB de Villiers,c4487b84,Yuvraj Singh,1c914163,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,1,0,1
+356014,2009,South Africa,9,JP Duminy,2e8994e7,Yuvraj Singh,1c914163,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,1,0,1
+356014,2009,South Africa,9,AB de Villiers,c4487b84,Yuvraj Singh,1c914163,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,0,0,0
+356014,2009,South Africa,9,AB de Villiers,c4487b84,Yuvraj Singh,1c914163,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,2,0,2
+356014,2009,South Africa,9,AB de Villiers,c4487b84,Yuvraj Singh,1c914163,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,1,0,1
+356014,2009,South Africa,10,AB de Villiers,c4487b84,Harbhajan Singh,8b5b6769,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,2,0,2
+356014,2009,South Africa,10,AB de Villiers,c4487b84,Harbhajan Singh,8b5b6769,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,1,0,1
+356014,2009,South Africa,10,JP Duminy,2e8994e7,Harbhajan Singh,8b5b6769,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,2,0,2
+356014,2009,South Africa,10,JP Duminy,2e8994e7,Harbhajan Singh,8b5b6769,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,1,0,1
+356014,2009,South Africa,10,AB de Villiers,c4487b84,Harbhajan Singh,8b5b6769,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,1,0,1
+356014,2009,South Africa,10,JP Duminy,2e8994e7,Harbhajan Singh,8b5b6769,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,0,0,0
+356014,2009,South Africa,11,AB de Villiers,c4487b84,Yuvraj Singh,1c914163,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,0,0,0
+356014,2009,South Africa,11,AB de Villiers,c4487b84,Yuvraj Singh,1c914163,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,1,0,1
+356014,2009,South Africa,11,JP Duminy,2e8994e7,Yuvraj Singh,1c914163,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,0,0,0
+356014,2009,South Africa,11,JP Duminy,2e8994e7,Yuvraj Singh,1c914163,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,2,0,2
+356014,2009,South Africa,11,JP Duminy,2e8994e7,Yuvraj Singh,1c914163,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,0,0,0
+356014,2009,South Africa,11,JP Duminy,2e8994e7,Yuvraj Singh,1c914163,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,0,0,0
+356014,2009,South Africa,12,AB de Villiers,c4487b84,Harbhajan Singh,8b5b6769,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,1,0,1
+356014,2009,South Africa,12,JP Duminy,2e8994e7,Harbhajan Singh,8b5b6769,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,1,0,1
+356014,2009,South Africa,12,AB de Villiers,c4487b84,Harbhajan Singh,8b5b6769,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,2,0,2
+356014,2009,South Africa,12,AB de Villiers,c4487b84,Harbhajan Singh,8b5b6769,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,1,0,1
+356014,2009,South Africa,12,JP Duminy,2e8994e7,Harbhajan Singh,8b5b6769,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,0,0,0
+356014,2009,South Africa,12,JP Duminy,2e8994e7,Harbhajan Singh,8b5b6769,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,0,0,0
+356014,2009,South Africa,13,AB de Villiers,c4487b84,Yuvraj Singh,1c914163,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,2,0,2
+356014,2009,South Africa,13,AB de Villiers,c4487b84,Yuvraj Singh,1c914163,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,0,0,0
+356014,2009,South Africa,13,AB de Villiers,c4487b84,Yuvraj Singh,1c914163,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,4,0,4
+356014,2009,South Africa,13,AB de Villiers,c4487b84,Yuvraj Singh,1c914163,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,4,0,4
+356014,2009,South Africa,13,AB de Villiers,c4487b84,Yuvraj Singh,1c914163,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,1,0,1
+356014,2009,South Africa,13,JP Duminy,2e8994e7,Yuvraj Singh,1c914163,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,1,0,1
+356014,2009,South Africa,14,JP Duminy,2e8994e7,SK Raina,1dc12ab9,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,1,0,1
+356014,2009,South Africa,14,AB de Villiers,c4487b84,SK Raina,1dc12ab9,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,4,0,4
+356014,2009,South Africa,14,AB de Villiers,c4487b84,SK Raina,1dc12ab9,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,1,0,1
+356014,2009,South Africa,14,JP Duminy,2e8994e7,SK Raina,1dc12ab9,AB de Villiers,c4487b84,0,0,0,0,1,JP Duminy,2e8994e7,MS Dhoni,4a8a2e3b,stumped,0,0,0
+356014,2009,South Africa,14,MV Boucher,f3cb53a1,SK Raina,1dc12ab9,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,0,0,0
+356014,2009,South Africa,14,MV Boucher,f3cb53a1,SK Raina,1dc12ab9,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,0,0,0
+356014,2009,South Africa,15,AB de Villiers,c4487b84,RA Jadeja,fe93fd9d,MV Boucher,f3cb53a1,0,0,0,0,0,,,,,,0,0,0
+356014,2009,South Africa,15,AB de Villiers,c4487b84,RA Jadeja,fe93fd9d,MV Boucher,f3cb53a1,0,0,0,0,0,,,,,,1,0,1
+356014,2009,South Africa,15,MV Boucher,f3cb53a1,RA Jadeja,fe93fd9d,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,0,0,0
+356014,2009,South Africa,15,MV Boucher,f3cb53a1,RA Jadeja,fe93fd9d,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,0,0,0
+356014,2009,South Africa,15,MV Boucher,f3cb53a1,RA Jadeja,fe93fd9d,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,0,0,0
+356014,2009,South Africa,15,MV Boucher,f3cb53a1,RA Jadeja,fe93fd9d,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,0,0,0
+356014,2009,South Africa,16,AB de Villiers,c4487b84,RG Sharma,740742ef,MV Boucher,f3cb53a1,0,0,0,0,0,,,,,,1,0,1
+356014,2009,South Africa,16,MV Boucher,f3cb53a1,RG Sharma,740742ef,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,1,0,1
+356014,2009,South Africa,16,AB de Villiers,c4487b84,RG Sharma,740742ef,MV Boucher,f3cb53a1,0,0,0,0,0,,,,,,2,0,2
+356014,2009,South Africa,16,AB de Villiers,c4487b84,RG Sharma,740742ef,MV Boucher,f3cb53a1,0,0,0,0,0,,,,,,1,0,1
+356014,2009,South Africa,16,MV Boucher,f3cb53a1,RG Sharma,740742ef,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,0,0,0
+356014,2009,South Africa,16,MV Boucher,f3cb53a1,RG Sharma,740742ef,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,4,0,4
+356014,2009,South Africa,17,AB de Villiers,c4487b84,RA Jadeja,fe93fd9d,MV Boucher,f3cb53a1,0,0,0,0,0,,,,,,2,0,2
+356014,2009,South Africa,17,AB de Villiers,c4487b84,RA Jadeja,fe93fd9d,MV Boucher,f3cb53a1,0,0,0,0,1,AB de Villiers,c4487b84,,,caught and bowled,0,0,0
+356014,2009,South Africa,17,MV Boucher,f3cb53a1,RA Jadeja,fe93fd9d,JA Morkel,c3d35165,0,0,0,0,0,,,,,,1,0,1
+356014,2009,South Africa,17,JA Morkel,c3d35165,RA Jadeja,fe93fd9d,MV Boucher,f3cb53a1,0,0,0,0,0,,,,,,0,0,0
+356014,2009,South Africa,17,JA Morkel,c3d35165,RA Jadeja,fe93fd9d,MV Boucher,f3cb53a1,0,0,0,0,0,,,,,,1,0,1
+356014,2009,South Africa,17,MV Boucher,f3cb53a1,RA Jadeja,fe93fd9d,JA Morkel,c3d35165,0,0,0,0,0,,,,,,1,0,1
+356014,2009,South Africa,18,MV Boucher,f3cb53a1,Harbhajan Singh,8b5b6769,JA Morkel,c3d35165,0,0,0,0,0,,,,,,1,0,1
+356014,2009,South Africa,18,JA Morkel,c3d35165,Harbhajan Singh,8b5b6769,MV Boucher,f3cb53a1,0,0,0,0,0,,,,,,0,0,0
+356014,2009,South Africa,18,JA Morkel,c3d35165,Harbhajan Singh,8b5b6769,MV Boucher,f3cb53a1,0,0,0,0,0,,,,,,1,0,1
+356014,2009,South Africa,18,MV Boucher,f3cb53a1,Harbhajan Singh,8b5b6769,JA Morkel,c3d35165,0,0,0,0,0,,,,,,1,0,1
+356014,2009,South Africa,18,JA Morkel,c3d35165,Harbhajan Singh,8b5b6769,MV Boucher,f3cb53a1,0,0,0,0,0,,,,,,1,0,1
+356014,2009,South Africa,18,MV Boucher,f3cb53a1,Harbhajan Singh,8b5b6769,JA Morkel,c3d35165,0,0,0,0,0,,,,,,2,0,2
+356014,2009,South Africa,19,JA Morkel,c3d35165,Z Khan,91a4a398,MV Boucher,f3cb53a1,0,0,1,0,0,,,,,,0,1,1
+356014,2009,South Africa,19,MV Boucher,f3cb53a1,Z Khan,91a4a398,JA Morkel,c3d35165,0,0,0,0,1,MV Boucher,f3cb53a1,RP Singh,c3d1402f,caught,0,0,0
+356014,2009,South Africa,19,JA Morkel,c3d35165,Z Khan,91a4a398,J Botha,7c503806,0,0,0,0,0,,,,,,4,0,4
+356014,2009,South Africa,19,JA Morkel,c3d35165,Z Khan,91a4a398,J Botha,7c503806,0,0,0,0,0,,,,,,1,0,1
+356014,2009,South Africa,19,J Botha,7c503806,Z Khan,91a4a398,JA Morkel,c3d35165,0,0,0,0,0,,,,,,4,0,4
+356014,2009,South Africa,19,J Botha,7c503806,Z Khan,91a4a398,JA Morkel,c3d35165,0,0,1,0,0,,,,,,0,1,1
+356014,2009,India,0,G Gambhir,bb345e0b,DW Steyn,8fd1a8f5,RG Sharma,740742ef,0,0,0,0,0,,,,,,2,0,2
+356014,2009,India,0,G Gambhir,bb345e0b,DW Steyn,8fd1a8f5,RG Sharma,740742ef,0,0,0,0,0,,,,,,0,0,0
+356014,2009,India,0,G Gambhir,bb345e0b,DW Steyn,8fd1a8f5,RG Sharma,740742ef,0,0,0,0,0,,,,,,2,0,2
+356014,2009,India,0,G Gambhir,bb345e0b,DW Steyn,8fd1a8f5,RG Sharma,740742ef,0,0,0,0,0,,,,,,0,0,0
+356014,2009,India,0,G Gambhir,bb345e0b,DW Steyn,8fd1a8f5,RG Sharma,740742ef,0,0,0,0,0,,,,,,4,0,4
+356014,2009,India,0,G Gambhir,bb345e0b,DW Steyn,8fd1a8f5,RG Sharma,740742ef,0,0,0,0,0,,,,,,1,0,1
+356014,2009,India,1,G Gambhir,bb345e0b,WD Parnell,3a60e0b5,RG Sharma,740742ef,0,0,0,0,0,,,,,,0,0,0
+356014,2009,India,1,G Gambhir,bb345e0b,WD Parnell,3a60e0b5,RG Sharma,740742ef,0,0,0,0,0,,,,,,4,0,4
+356014,2009,India,1,G Gambhir,bb345e0b,WD Parnell,3a60e0b5,RG Sharma,740742ef,0,0,0,0,0,,,,,,4,0,4
+356014,2009,India,1,G Gambhir,bb345e0b,WD Parnell,3a60e0b5,RG Sharma,740742ef,0,0,0,0,0,,,,,,0,0,0
+356014,2009,India,1,G Gambhir,bb345e0b,WD Parnell,3a60e0b5,RG Sharma,740742ef,0,0,0,0,0,,,,,,0,0,0
+356014,2009,India,1,G Gambhir,bb345e0b,WD Parnell,3a60e0b5,RG Sharma,740742ef,0,0,0,0,0,,,,,,0,0,0
+356014,2009,India,2,RG Sharma,740742ef,M Morkel,5bb5a915,G Gambhir,bb345e0b,0,0,0,0,0,,,,,,0,0,0
+356014,2009,India,2,RG Sharma,740742ef,M Morkel,5bb5a915,G Gambhir,bb345e0b,0,0,0,0,0,,,,,,1,0,1
+356014,2009,India,2,G Gambhir,bb345e0b,M Morkel,5bb5a915,RG Sharma,740742ef,0,0,0,0,0,,,,,,0,0,0
+356014,2009,India,2,G Gambhir,bb345e0b,M Morkel,5bb5a915,RG Sharma,740742ef,0,0,0,0,0,,,,,,1,0,1
+356014,2009,India,2,RG Sharma,740742ef,M Morkel,5bb5a915,G Gambhir,bb345e0b,0,0,0,0,0,,,,,,0,0,0
+356014,2009,India,2,RG Sharma,740742ef,M Morkel,5bb5a915,G Gambhir,bb345e0b,0,0,0,0,0,,,,,,1,0,1
+356014,2009,India,3,RG Sharma,740742ef,WD Parnell,3a60e0b5,G Gambhir,bb345e0b,0,0,0,0,0,,,,,,1,0,1
+356014,2009,India,3,G Gambhir,bb345e0b,WD Parnell,3a60e0b5,RG Sharma,740742ef,0,0,0,0,0,,,,,,1,0,1
+356014,2009,India,3,RG Sharma,740742ef,WD Parnell,3a60e0b5,G Gambhir,bb345e0b,0,0,0,0,0,,,,,,4,0,4
+356014,2009,India,3,RG Sharma,740742ef,WD Parnell,3a60e0b5,G Gambhir,bb345e0b,0,0,0,0,0,,,,,,0,0,0
+356014,2009,India,3,RG Sharma,740742ef,WD Parnell,3a60e0b5,G Gambhir,bb345e0b,0,0,0,0,0,,,,,,0,0,0
+356014,2009,India,3,RG Sharma,740742ef,WD Parnell,3a60e0b5,G Gambhir,bb345e0b,0,0,0,0,0,,,,,,1,0,1
+356014,2009,India,4,RG Sharma,740742ef,M Morkel,5bb5a915,G Gambhir,bb345e0b,0,0,0,0,0,,,,,,2,0,2
+356014,2009,India,4,RG Sharma,740742ef,M Morkel,5bb5a915,G Gambhir,bb345e0b,0,0,0,0,0,,,,,,2,0,2
+356014,2009,India,4,RG Sharma,740742ef,M Morkel,5bb5a915,G Gambhir,bb345e0b,0,0,0,0,0,,,,,,1,0,1
+356014,2009,India,4,G Gambhir,bb345e0b,M Morkel,5bb5a915,RG Sharma,740742ef,0,0,0,0,0,,,,,,1,0,1
+356014,2009,India,4,RG Sharma,740742ef,M Morkel,5bb5a915,G Gambhir,bb345e0b,0,0,0,0,0,,,,,,1,0,1
+356014,2009,India,4,G Gambhir,bb345e0b,M Morkel,5bb5a915,RG Sharma,740742ef,0,0,0,0,0,,,,,,0,0,0
+356014,2009,India,5,RG Sharma,740742ef,JA Morkel,c3d35165,G Gambhir,bb345e0b,0,0,0,0,0,,,,,,4,0,4
+356014,2009,India,5,RG Sharma,740742ef,JA Morkel,c3d35165,G Gambhir,bb345e0b,0,0,0,0,0,,,,,,4,0,4
+356014,2009,India,5,RG Sharma,740742ef,JA Morkel,c3d35165,G Gambhir,bb345e0b,0,0,0,0,0,,,,,,2,0,2
+356014,2009,India,5,RG Sharma,740742ef,JA Morkel,c3d35165,G Gambhir,bb345e0b,0,0,1,0,0,,,,,,0,1,1
+356014,2009,India,5,G Gambhir,bb345e0b,JA Morkel,c3d35165,RG Sharma,740742ef,0,0,0,0,0,,,,,,1,0,1
+356014,2009,India,5,RG Sharma,740742ef,JA Morkel,c3d35165,G Gambhir,bb345e0b,0,0,0,0,0,,,,,,1,0,1
+356014,2009,India,6,RG Sharma,740742ef,J Botha,7c503806,G Gambhir,bb345e0b,0,0,0,0,0,,,,,,1,0,1
+356014,2009,India,6,G Gambhir,bb345e0b,J Botha,7c503806,RG Sharma,740742ef,0,0,0,0,1,G Gambhir,bb345e0b,JP Duminy,2e8994e7,caught,0,0,0
+356014,2009,India,6,RG Sharma,740742ef,J Botha,7c503806,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,0,0,0
+356014,2009,India,6,RG Sharma,740742ef,J Botha,7c503806,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,0,0,0
+356014,2009,India,6,RG Sharma,740742ef,J Botha,7c503806,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,1,0,1
+356014,2009,India,6,SK Raina,1dc12ab9,J Botha,7c503806,RG Sharma,740742ef,0,0,0,0,0,,,,,,1,0,1
+356014,2009,India,7,SK Raina,1dc12ab9,RE van der Merwe,05c2ca46,RG Sharma,740742ef,0,0,0,0,0,,,,,,0,0,0
+356014,2009,India,7,SK Raina,1dc12ab9,RE van der Merwe,05c2ca46,RG Sharma,740742ef,0,0,0,0,0,,,,,,0,0,0
+356014,2009,India,7,SK Raina,1dc12ab9,RE van der Merwe,05c2ca46,RG Sharma,740742ef,0,0,0,0,0,,,,,,1,0,1
+356014,2009,India,7,RG Sharma,740742ef,RE van der Merwe,05c2ca46,SK Raina,1dc12ab9,0,0,1,0,0,,,,,,0,1,1
+356014,2009,India,7,SK Raina,1dc12ab9,RE van der Merwe,05c2ca46,RG Sharma,740742ef,0,0,0,0,0,,,,,,0,0,0
+356014,2009,India,7,SK Raina,1dc12ab9,RE van der Merwe,05c2ca46,RG Sharma,740742ef,0,0,0,0,0,,,,,,0,0,0
+356014,2009,India,8,RG Sharma,740742ef,J Botha,7c503806,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,0,0,0
+356014,2009,India,8,RG Sharma,740742ef,J Botha,7c503806,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,1,0,1
+356014,2009,India,8,SK Raina,1dc12ab9,J Botha,7c503806,RG Sharma,740742ef,0,0,0,0,0,,,,,,1,0,1
+356014,2009,India,8,RG Sharma,740742ef,J Botha,7c503806,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,0,0,0
+356014,2009,India,8,RG Sharma,740742ef,J Botha,7c503806,SK Raina,1dc12ab9,0,0,0,0,0,,,,,,1,0,1
+356014,2009,India,8,SK Raina,1dc12ab9,J Botha,7c503806,RG Sharma,740742ef,0,0,0,0,1,SK Raina,1dc12ab9,M Morkel,5bb5a915,caught,0,0,0
+356014,2009,India,9,Yuvraj Singh,1c914163,JP Duminy,2e8994e7,RG Sharma,740742ef,0,0,0,0,0,,,,,,0,0,0
+356014,2009,India,9,Yuvraj Singh,1c914163,JP Duminy,2e8994e7,RG Sharma,740742ef,0,0,0,0,0,,,,,,0,0,0
+356014,2009,India,9,Yuvraj Singh,1c914163,JP Duminy,2e8994e7,RG Sharma,740742ef,0,0,0,0,0,,,,,,0,0,0
+356014,2009,India,9,Yuvraj Singh,1c914163,JP Duminy,2e8994e7,RG Sharma,740742ef,0,0,0,0,0,,,,,,1,0,1
+356014,2009,India,9,RG Sharma,740742ef,JP Duminy,2e8994e7,Yuvraj Singh,1c914163,0,0,0,0,1,RG Sharma,740742ef,DW Steyn,8fd1a8f5,caught,0,0,0
+356014,2009,India,9,Yuvraj Singh,1c914163,JP Duminy,2e8994e7,MS Dhoni,4a8a2e3b,2,0,0,0,0,,,,,,0,2,2
+356014,2009,India,9,MS Dhoni,4a8a2e3b,JP Duminy,2e8994e7,Yuvraj Singh,1c914163,0,0,0,0,0,,,,,,0,0,0
+356014,2009,India,10,Yuvraj Singh,1c914163,J Botha,7c503806,MS Dhoni,4a8a2e3b,0,0,0,0,0,,,,,,0,0,0
+356014,2009,India,10,Yuvraj Singh,1c914163,J Botha,7c503806,MS Dhoni,4a8a2e3b,0,0,0,0,0,,,,,,1,0,1
+356014,2009,India,10,MS Dhoni,4a8a2e3b,J Botha,7c503806,Yuvraj Singh,1c914163,0,0,0,0,0,,,,,,0,0,0
+356014,2009,India,10,MS Dhoni,4a8a2e3b,J Botha,7c503806,Yuvraj Singh,1c914163,0,0,0,0,0,,,,,,0,0,0
+356014,2009,India,10,MS Dhoni,4a8a2e3b,J Botha,7c503806,Yuvraj Singh,1c914163,0,0,0,0,0,,,,,,2,0,2
+356014,2009,India,10,MS Dhoni,4a8a2e3b,J Botha,7c503806,Yuvraj Singh,1c914163,0,0,0,0,0,,,,,,1,0,1
+356014,2009,India,11,MS Dhoni,4a8a2e3b,RE van der Merwe,05c2ca46,Yuvraj Singh,1c914163,0,0,0,0,0,,,,,,0,0,0
+356014,2009,India,11,MS Dhoni,4a8a2e3b,RE van der Merwe,05c2ca46,Yuvraj Singh,1c914163,0,0,0,0,0,,,,,,0,0,0
+356014,2009,India,11,MS Dhoni,4a8a2e3b,RE van der Merwe,05c2ca46,Yuvraj Singh,1c914163,0,0,0,0,0,,,,,,1,0,1
+356014,2009,India,11,Yuvraj Singh,1c914163,RE van der Merwe,05c2ca46,MS Dhoni,4a8a2e3b,0,0,0,0,0,,,,,,0,0,0
+356014,2009,India,11,Yuvraj Singh,1c914163,RE van der Merwe,05c2ca46,MS Dhoni,4a8a2e3b,0,0,0,0,0,,,,,,1,0,1
+356014,2009,India,11,MS Dhoni,4a8a2e3b,RE van der Merwe,05c2ca46,Yuvraj Singh,1c914163,0,0,0,0,0,,,,,,0,0,0
+356014,2009,India,12,Yuvraj Singh,1c914163,M Morkel,5bb5a915,MS Dhoni,4a8a2e3b,0,0,0,0,0,,,,,,1,0,1
+356014,2009,India,12,MS Dhoni,4a8a2e3b,M Morkel,5bb5a915,Yuvraj Singh,1c914163,0,0,0,0,0,,,,,,0,0,0
+356014,2009,India,12,MS Dhoni,4a8a2e3b,M Morkel,5bb5a915,Yuvraj Singh,1c914163,0,0,0,0,0,,,,,,0,0,0
+356014,2009,India,12,MS Dhoni,4a8a2e3b,M Morkel,5bb5a915,Yuvraj Singh,1c914163,0,0,0,0,0,,,,,,1,0,1
+356014,2009,India,12,Yuvraj Singh,1c914163,M Morkel,5bb5a915,MS Dhoni,4a8a2e3b,0,0,0,0,0,,,,,,0,0,0
+356014,2009,India,12,Yuvraj Singh,1c914163,M Morkel,5bb5a915,MS Dhoni,4a8a2e3b,1,0,0,0,1,MS Dhoni,4a8a2e3b,MV Boucher,f3cb53a1,run out,0,1,1
+356014,2009,India,12,Yuvraj Singh,1c914163,M Morkel,5bb5a915,YK Pathan,3c6ffae8,0,0,0,0,0,,,,,,1,0,1
+356014,2009,India,13,Yuvraj Singh,1c914163,RE van der Merwe,05c2ca46,YK Pathan,3c6ffae8,0,0,0,0,0,,,,,,1,0,1
+356014,2009,India,13,YK Pathan,3c6ffae8,RE van der Merwe,05c2ca46,Yuvraj Singh,1c914163,0,0,0,0,0,,,,,,0,0,0
+356014,2009,India,13,YK Pathan,3c6ffae8,RE van der Merwe,05c2ca46,Yuvraj Singh,1c914163,0,0,0,0,1,YK Pathan,3c6ffae8,AB de Villiers,c4487b84,caught,0,0,0
+356014,2009,India,13,Harbhajan Singh,8b5b6769,RE van der Merwe,05c2ca46,Yuvraj Singh,1c914163,0,0,0,0,0,,,,,,0,0,0
+356014,2009,India,13,Harbhajan Singh,8b5b6769,RE van der Merwe,05c2ca46,Yuvraj Singh,1c914163,0,0,0,0,0,,,,,,0,0,0
+356014,2009,India,13,Harbhajan Singh,8b5b6769,RE van der Merwe,05c2ca46,Yuvraj Singh,1c914163,0,0,0,0,0,,,,,,1,0,1
+356014,2009,India,14,Harbhajan Singh,8b5b6769,DW Steyn,8fd1a8f5,Yuvraj Singh,1c914163,0,0,0,0,0,,,,,,1,0,1
+356014,2009,India,14,Yuvraj Singh,1c914163,DW Steyn,8fd1a8f5,Harbhajan Singh,8b5b6769,0,0,0,0,0,,,,,,4,0,4
+356014,2009,India,14,Yuvraj Singh,1c914163,DW Steyn,8fd1a8f5,Harbhajan Singh,8b5b6769,0,0,0,0,0,,,,,,1,0,1
+356014,2009,India,14,Harbhajan Singh,8b5b6769,DW Steyn,8fd1a8f5,Yuvraj Singh,1c914163,0,0,0,0,0,,,,,,0,0,0
+356014,2009,India,14,Harbhajan Singh,8b5b6769,DW Steyn,8fd1a8f5,Yuvraj Singh,1c914163,1,0,0,0,0,,,,,,0,1,1
+356014,2009,India,14,Harbhajan Singh,8b5b6769,DW Steyn,8fd1a8f5,Yuvraj Singh,1c914163,0,0,0,0,0,,,,,,4,0,4
+356014,2009,India,14,Harbhajan Singh,8b5b6769,DW Steyn,8fd1a8f5,Yuvraj Singh,1c914163,0,0,0,0,0,,,,,,0,0,0
+356014,2009,India,15,Yuvraj Singh,1c914163,RE van der Merwe,05c2ca46,Harbhajan Singh,8b5b6769,0,0,0,0,0,,,,,,0,0,0
+356014,2009,India,15,Yuvraj Singh,1c914163,RE van der Merwe,05c2ca46,Harbhajan Singh,8b5b6769,0,0,0,0,0,,,,,,6,0,6
+356014,2009,India,15,Yuvraj Singh,1c914163,RE van der Merwe,05c2ca46,Harbhajan Singh,8b5b6769,0,0,1,0,0,,,,,,0,1,1
+356014,2009,India,15,Harbhajan Singh,8b5b6769,RE van der Merwe,05c2ca46,Yuvraj Singh,1c914163,0,0,0,0,0,,,,,,1,0,1
+356014,2009,India,15,Yuvraj Singh,1c914163,RE van der Merwe,05c2ca46,Harbhajan Singh,8b5b6769,0,0,0,0,0,,,,,,1,0,1
+356014,2009,India,15,Harbhajan Singh,8b5b6769,RE van der Merwe,05c2ca46,Yuvraj Singh,1c914163,0,0,0,0,0,,,,,,0,0,0
+356014,2009,India,16,Yuvraj Singh,1c914163,M Morkel,5bb5a915,Harbhajan Singh,8b5b6769,0,0,0,0,0,,,,,,2,0,2
+356014,2009,India,16,Yuvraj Singh,1c914163,M Morkel,5bb5a915,Harbhajan Singh,8b5b6769,0,0,1,0,0,,,,,,0,1,1
+356014,2009,India,16,Harbhajan Singh,8b5b6769,M Morkel,5bb5a915,Yuvraj Singh,1c914163,0,0,0,0,0,,,,,,6,0,6
+356014,2009,India,16,Harbhajan Singh,8b5b6769,M Morkel,5bb5a915,Yuvraj Singh,1c914163,0,0,0,0,0,,,,,,0,0,0
+356014,2009,India,16,Harbhajan Singh,8b5b6769,M Morkel,5bb5a915,Yuvraj Singh,1c914163,0,0,0,0,0,,,,,,0,0,0
+356014,2009,India,16,Harbhajan Singh,8b5b6769,M Morkel,5bb5a915,Yuvraj Singh,1c914163,0,0,0,0,0,,,,,,1,0,1
+356014,2009,India,17,Harbhajan Singh,8b5b6769,J Botha,7c503806,Yuvraj Singh,1c914163,0,0,0,0,0,,,,,,0,0,0
+356014,2009,India,17,Harbhajan Singh,8b5b6769,J Botha,7c503806,Yuvraj Singh,1c914163,0,0,0,0,1,Harbhajan Singh,8b5b6769,AB de Villiers,c4487b84,caught,0,0,0
+356014,2009,India,17,RA Jadeja,fe93fd9d,J Botha,7c503806,Yuvraj Singh,1c914163,0,0,0,0,0,,,,,,1,0,1
+356014,2009,India,17,Yuvraj Singh,1c914163,J Botha,7c503806,RA Jadeja,fe93fd9d,0,0,0,0,0,,,,,,2,0,2
+356014,2009,India,17,Yuvraj Singh,1c914163,J Botha,7c503806,RA Jadeja,fe93fd9d,0,0,0,0,0,,,,,,2,0,2
+356014,2009,India,17,Yuvraj Singh,1c914163,J Botha,7c503806,RA Jadeja,fe93fd9d,0,0,0,0,0,,,,,,1,0,1
+356014,2009,India,18,Yuvraj Singh,1c914163,DW Steyn,8fd1a8f5,RA Jadeja,fe93fd9d,0,0,0,0,0,,,,,,0,0,0
+356014,2009,India,18,Yuvraj Singh,1c914163,DW Steyn,8fd1a8f5,RA Jadeja,fe93fd9d,0,0,0,0,1,Yuvraj Singh,1c914163,MV Boucher,f3cb53a1,caught,0,0,0
+356014,2009,India,18,Z Khan,91a4a398,DW Steyn,8fd1a8f5,RA Jadeja,fe93fd9d,0,0,0,0,0,,,,,,2,0,2
+356014,2009,India,18,Z Khan,91a4a398,DW Steyn,8fd1a8f5,RA Jadeja,fe93fd9d,0,0,0,0,0,,,,,,2,0,2
+356014,2009,India,18,Z Khan,91a4a398,DW Steyn,8fd1a8f5,RA Jadeja,fe93fd9d,0,0,0,0,1,Z Khan,91a4a398,AB de Villiers,c4487b84,caught,0,0,0
+356014,2009,India,18,RA Jadeja,fe93fd9d,DW Steyn,8fd1a8f5,RP Singh,c3d1402f,0,0,0,0,0,,,,,,1,0,1
+356014,2009,India,19,RA Jadeja,fe93fd9d,WD Parnell,3a60e0b5,RP Singh,c3d1402f,0,0,0,0,0,,,,,,1,0,1
+356014,2009,India,19,RP Singh,c3d1402f,WD Parnell,3a60e0b5,RA Jadeja,fe93fd9d,0,0,0,0,0,,,,,,1,0,1
+356014,2009,India,19,RA Jadeja,fe93fd9d,WD Parnell,3a60e0b5,RP Singh,c3d1402f,0,0,0,0,0,,,,,,2,0,2
+356014,2009,India,19,RA Jadeja,fe93fd9d,WD Parnell,3a60e0b5,RP Singh,c3d1402f,0,0,0,0,0,,,,,,1,0,1
+356014,2009,India,19,RP Singh,c3d1402f,WD Parnell,3a60e0b5,RA Jadeja,fe93fd9d,0,0,0,0,0,,,,,,1,0,1
+356014,2009,India,19,RA Jadeja,fe93fd9d,WD Parnell,3a60e0b5,RP Singh,c3d1402f,0,0,0,0,0,,,,,,1,0,1

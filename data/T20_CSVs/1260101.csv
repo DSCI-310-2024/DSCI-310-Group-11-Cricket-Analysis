@@ -1,0 +1,245 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1260101,2021,England,0,DN Wyatt,a139c379,LM Kasperek,9b73d523,TT Beaumont,b2664905,0,0,0,0,0,,,,,,4,0,4
+1260101,2021,England,0,DN Wyatt,a139c379,LM Kasperek,9b73d523,TT Beaumont,b2664905,0,0,0,0,0,,,,,,0,0,0
+1260101,2021,England,0,DN Wyatt,a139c379,LM Kasperek,9b73d523,TT Beaumont,b2664905,0,0,0,0,0,,,,,,1,0,1
+1260101,2021,England,0,TT Beaumont,b2664905,LM Kasperek,9b73d523,DN Wyatt,a139c379,0,0,0,0,0,,,,,,0,0,0
+1260101,2021,England,0,TT Beaumont,b2664905,LM Kasperek,9b73d523,DN Wyatt,a139c379,0,0,0,0,0,,,,,,0,0,0
+1260101,2021,England,0,TT Beaumont,b2664905,LM Kasperek,9b73d523,DN Wyatt,a139c379,0,0,0,0,0,,,,,,1,0,1
+1260101,2021,England,1,TT Beaumont,b2664905,JM Kerr,9af58032,DN Wyatt,a139c379,0,0,0,0,0,,,,,,0,0,0
+1260101,2021,England,1,TT Beaumont,b2664905,JM Kerr,9af58032,DN Wyatt,a139c379,0,0,0,0,0,,,,,,4,0,4
+1260101,2021,England,1,TT Beaumont,b2664905,JM Kerr,9af58032,DN Wyatt,a139c379,0,0,0,0,0,,,,,,0,0,0
+1260101,2021,England,1,TT Beaumont,b2664905,JM Kerr,9af58032,DN Wyatt,a139c379,0,0,0,0,0,,,,,,0,0,0
+1260101,2021,England,1,TT Beaumont,b2664905,JM Kerr,9af58032,DN Wyatt,a139c379,0,0,0,0,0,,,,,,1,0,1
+1260101,2021,England,1,DN Wyatt,a139c379,JM Kerr,9af58032,TT Beaumont,b2664905,0,0,0,0,0,,,,,,0,0,0
+1260101,2021,England,2,TT Beaumont,b2664905,SFM Devine,de69af96,DN Wyatt,a139c379,0,0,0,0,0,,,,,,0,0,0
+1260101,2021,England,2,TT Beaumont,b2664905,SFM Devine,de69af96,DN Wyatt,a139c379,0,0,0,0,0,,,,,,0,0,0
+1260101,2021,England,2,TT Beaumont,b2664905,SFM Devine,de69af96,DN Wyatt,a139c379,0,0,0,0,0,,,,,,1,0,1
+1260101,2021,England,2,DN Wyatt,a139c379,SFM Devine,de69af96,TT Beaumont,b2664905,0,0,0,0,0,,,,,,1,0,1
+1260101,2021,England,2,TT Beaumont,b2664905,SFM Devine,de69af96,DN Wyatt,a139c379,0,0,0,0,0,,,,,,2,0,2
+1260101,2021,England,2,TT Beaumont,b2664905,SFM Devine,de69af96,DN Wyatt,a139c379,0,0,1,0,0,,,,,,0,1,1
+1260101,2021,England,3,TT Beaumont,b2664905,JM Kerr,9af58032,DN Wyatt,a139c379,0,0,0,0,0,,,,,,4,0,4
+1260101,2021,England,3,TT Beaumont,b2664905,JM Kerr,9af58032,DN Wyatt,a139c379,0,0,0,0,1,TT Beaumont,b2664905,,,bowled,0,0,0
+1260101,2021,England,3,NR Sciver,f3a18a0c,JM Kerr,9af58032,DN Wyatt,a139c379,0,0,0,0,0,,,,,,0,0,0
+1260101,2021,England,3,NR Sciver,f3a18a0c,JM Kerr,9af58032,DN Wyatt,a139c379,0,0,0,0,0,,,,,,0,0,0
+1260101,2021,England,3,NR Sciver,f3a18a0c,JM Kerr,9af58032,DN Wyatt,a139c379,0,0,0,0,0,,,,,,0,0,0
+1260101,2021,England,3,NR Sciver,f3a18a0c,JM Kerr,9af58032,DN Wyatt,a139c379,0,0,0,0,0,,,,,,0,0,0
+1260101,2021,England,4,DN Wyatt,a139c379,SFM Devine,de69af96,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,1,0,1
+1260101,2021,England,4,NR Sciver,f3a18a0c,SFM Devine,de69af96,DN Wyatt,a139c379,0,0,0,0,0,,,,,,0,0,0
+1260101,2021,England,4,NR Sciver,f3a18a0c,SFM Devine,de69af96,DN Wyatt,a139c379,0,0,0,0,0,,,,,,4,0,4
+1260101,2021,England,4,NR Sciver,f3a18a0c,SFM Devine,de69af96,DN Wyatt,a139c379,0,0,0,0,1,NR Sciver,f3a18a0c,HM Rowe,8ca1f93a,caught,0,0,0
+1260101,2021,England,4,AE Jones,b05e45e4,SFM Devine,de69af96,DN Wyatt,a139c379,0,0,0,0,1,AE Jones,b05e45e4,TMM Newton,93fe473e,caught,0,0,0
+1260101,2021,England,4,SIR Dunkley,3a9e9cb2,SFM Devine,de69af96,DN Wyatt,a139c379,0,0,0,0,0,,,,,,1,0,1
+1260101,2021,England,5,SIR Dunkley,3a9e9cb2,JM Kerr,9af58032,DN Wyatt,a139c379,0,0,0,0,0,,,,,,0,0,0
+1260101,2021,England,5,SIR Dunkley,3a9e9cb2,JM Kerr,9af58032,DN Wyatt,a139c379,0,0,0,0,0,,,,,,0,0,0
+1260101,2021,England,5,SIR Dunkley,3a9e9cb2,JM Kerr,9af58032,DN Wyatt,a139c379,0,0,0,0,0,,,,,,4,0,4
+1260101,2021,England,5,SIR Dunkley,3a9e9cb2,JM Kerr,9af58032,DN Wyatt,a139c379,0,0,0,0,0,,,,,,0,0,0
+1260101,2021,England,5,SIR Dunkley,3a9e9cb2,JM Kerr,9af58032,DN Wyatt,a139c379,0,0,0,0,0,,,,,,4,0,4
+1260101,2021,England,5,SIR Dunkley,3a9e9cb2,JM Kerr,9af58032,DN Wyatt,a139c379,0,0,0,0,0,,,,,,2,0,2
+1260101,2021,England,6,DN Wyatt,a139c379,AE Satterthwaite,72b7ed1e,SIR Dunkley,3a9e9cb2,0,0,0,0,0,,,,,,0,0,0
+1260101,2021,England,6,DN Wyatt,a139c379,AE Satterthwaite,72b7ed1e,SIR Dunkley,3a9e9cb2,0,0,0,0,0,,,,,,1,0,1
+1260101,2021,England,6,SIR Dunkley,3a9e9cb2,AE Satterthwaite,72b7ed1e,DN Wyatt,a139c379,0,0,0,0,0,,,,,,0,0,0
+1260101,2021,England,6,SIR Dunkley,3a9e9cb2,AE Satterthwaite,72b7ed1e,DN Wyatt,a139c379,0,0,0,0,0,,,,,,0,0,0
+1260101,2021,England,6,SIR Dunkley,3a9e9cb2,AE Satterthwaite,72b7ed1e,DN Wyatt,a139c379,1,0,0,0,0,,,,,,0,1,1
+1260101,2021,England,6,SIR Dunkley,3a9e9cb2,AE Satterthwaite,72b7ed1e,DN Wyatt,a139c379,0,0,0,0,0,,,,,,1,0,1
+1260101,2021,England,6,DN Wyatt,a139c379,AE Satterthwaite,72b7ed1e,SIR Dunkley,3a9e9cb2,0,0,0,0,0,,,,,,1,0,1
+1260101,2021,England,7,DN Wyatt,a139c379,SFM Devine,de69af96,SIR Dunkley,3a9e9cb2,0,0,0,0,0,,,,,,1,0,1
+1260101,2021,England,7,SIR Dunkley,3a9e9cb2,SFM Devine,de69af96,DN Wyatt,a139c379,0,0,0,0,0,,,,,,0,0,0
+1260101,2021,England,7,SIR Dunkley,3a9e9cb2,SFM Devine,de69af96,DN Wyatt,a139c379,0,0,0,0,0,,,,,,0,0,0
+1260101,2021,England,7,SIR Dunkley,3a9e9cb2,SFM Devine,de69af96,DN Wyatt,a139c379,0,1,0,0,0,,,,,,0,1,1
+1260101,2021,England,7,SIR Dunkley,3a9e9cb2,SFM Devine,de69af96,DN Wyatt,a139c379,0,1,0,0,0,,,,,,4,1,5
+1260101,2021,England,7,SIR Dunkley,3a9e9cb2,SFM Devine,de69af96,DN Wyatt,a139c379,0,0,0,0,0,,,,,,4,0,4
+1260101,2021,England,7,SIR Dunkley,3a9e9cb2,SFM Devine,de69af96,DN Wyatt,a139c379,0,0,0,0,0,,,,,,1,0,1
+1260101,2021,England,7,DN Wyatt,a139c379,SFM Devine,de69af96,SIR Dunkley,3a9e9cb2,0,0,0,0,0,,,,,,1,0,1
+1260101,2021,England,8,DN Wyatt,a139c379,HNK Jensen,b8cce99f,SIR Dunkley,3a9e9cb2,0,0,0,0,0,,,,,,4,0,4
+1260101,2021,England,8,DN Wyatt,a139c379,HNK Jensen,b8cce99f,SIR Dunkley,3a9e9cb2,0,0,0,0,0,,,,,,0,0,0
+1260101,2021,England,8,DN Wyatt,a139c379,HNK Jensen,b8cce99f,SIR Dunkley,3a9e9cb2,0,0,0,0,0,,,,,,1,0,1
+1260101,2021,England,8,SIR Dunkley,3a9e9cb2,HNK Jensen,b8cce99f,DN Wyatt,a139c379,0,0,0,0,0,,,,,,0,0,0
+1260101,2021,England,8,SIR Dunkley,3a9e9cb2,HNK Jensen,b8cce99f,DN Wyatt,a139c379,0,0,0,0,0,,,,,,0,0,0
+1260101,2021,England,8,SIR Dunkley,3a9e9cb2,HNK Jensen,b8cce99f,DN Wyatt,a139c379,0,0,0,0,0,,,,,,0,0,0
+1260101,2021,England,9,DN Wyatt,a139c379,LM Kasperek,9b73d523,SIR Dunkley,3a9e9cb2,0,0,0,0,0,,,,,,3,0,3
+1260101,2021,England,9,SIR Dunkley,3a9e9cb2,LM Kasperek,9b73d523,DN Wyatt,a139c379,0,0,0,0,1,SIR Dunkley,3a9e9cb2,,,caught and bowled,0,0,0
+1260101,2021,England,9,ME Bouchier,c2554b59,LM Kasperek,9b73d523,DN Wyatt,a139c379,0,0,0,0,0,,,,,,0,0,0
+1260101,2021,England,9,ME Bouchier,c2554b59,LM Kasperek,9b73d523,DN Wyatt,a139c379,0,0,0,0,0,,,,,,0,0,0
+1260101,2021,England,9,ME Bouchier,c2554b59,LM Kasperek,9b73d523,DN Wyatt,a139c379,0,0,0,0,0,,,,,,0,0,0
+1260101,2021,England,9,ME Bouchier,c2554b59,LM Kasperek,9b73d523,DN Wyatt,a139c379,0,0,0,0,0,,,,,,1,0,1
+1260101,2021,England,10,ME Bouchier,c2554b59,HNK Jensen,b8cce99f,DN Wyatt,a139c379,0,0,0,0,0,,,,,,1,0,1
+1260101,2021,England,10,DN Wyatt,a139c379,HNK Jensen,b8cce99f,ME Bouchier,c2554b59,0,0,0,0,0,,,,,,1,0,1
+1260101,2021,England,10,ME Bouchier,c2554b59,HNK Jensen,b8cce99f,DN Wyatt,a139c379,0,0,0,0,0,,,,,,1,0,1
+1260101,2021,England,10,DN Wyatt,a139c379,HNK Jensen,b8cce99f,ME Bouchier,c2554b59,0,0,0,0,0,,,,,,0,0,0
+1260101,2021,England,10,DN Wyatt,a139c379,HNK Jensen,b8cce99f,ME Bouchier,c2554b59,0,0,0,0,0,,,,,,4,0,4
+1260101,2021,England,10,DN Wyatt,a139c379,HNK Jensen,b8cce99f,ME Bouchier,c2554b59,0,0,0,0,0,,,,,,1,0,1
+1260101,2021,England,11,DN Wyatt,a139c379,LM Kasperek,9b73d523,ME Bouchier,c2554b59,0,0,1,0,0,,,,,,0,1,1
+1260101,2021,England,11,ME Bouchier,c2554b59,LM Kasperek,9b73d523,DN Wyatt,a139c379,0,0,0,0,0,,,,,,1,0,1
+1260101,2021,England,11,DN Wyatt,a139c379,LM Kasperek,9b73d523,ME Bouchier,c2554b59,0,0,0,0,0,,,,,,1,0,1
+1260101,2021,England,11,ME Bouchier,c2554b59,LM Kasperek,9b73d523,DN Wyatt,a139c379,0,0,0,0,0,,,,,,4,0,4
+1260101,2021,England,11,ME Bouchier,c2554b59,LM Kasperek,9b73d523,DN Wyatt,a139c379,0,0,0,0,0,,,,,,0,0,0
+1260101,2021,England,11,ME Bouchier,c2554b59,LM Kasperek,9b73d523,DN Wyatt,a139c379,0,0,0,0,0,,,,,,1,0,1
+1260101,2021,England,12,ME Bouchier,c2554b59,AE Satterthwaite,72b7ed1e,DN Wyatt,a139c379,2,0,0,0,0,,,,,,0,2,2
+1260101,2021,England,12,DN Wyatt,a139c379,AE Satterthwaite,72b7ed1e,ME Bouchier,c2554b59,0,0,0,0,0,,,,,,1,0,1
+1260101,2021,England,12,ME Bouchier,c2554b59,AE Satterthwaite,72b7ed1e,DN Wyatt,a139c379,0,0,0,0,0,,,,,,4,0,4
+1260101,2021,England,12,ME Bouchier,c2554b59,AE Satterthwaite,72b7ed1e,DN Wyatt,a139c379,0,0,0,0,0,,,,,,0,0,0
+1260101,2021,England,12,ME Bouchier,c2554b59,AE Satterthwaite,72b7ed1e,DN Wyatt,a139c379,0,0,0,0,0,,,,,,0,0,0
+1260101,2021,England,12,ME Bouchier,c2554b59,AE Satterthwaite,72b7ed1e,DN Wyatt,a139c379,0,0,0,0,0,,,,,,0,0,0
+1260101,2021,England,12,ME Bouchier,c2554b59,AE Satterthwaite,72b7ed1e,DN Wyatt,a139c379,0,0,0,0,0,,,,,,0,0,0
+1260101,2021,England,13,DN Wyatt,a139c379,HM Rowe,8ca1f93a,ME Bouchier,c2554b59,0,0,0,0,0,,,,,,0,0,0
+1260101,2021,England,13,DN Wyatt,a139c379,HM Rowe,8ca1f93a,ME Bouchier,c2554b59,0,0,0,0,0,,,,,,1,0,1
+1260101,2021,England,13,ME Bouchier,c2554b59,HM Rowe,8ca1f93a,DN Wyatt,a139c379,0,0,0,0,0,,,,,,1,0,1
+1260101,2021,England,13,DN Wyatt,a139c379,HM Rowe,8ca1f93a,ME Bouchier,c2554b59,0,0,0,0,0,,,,,,4,0,4
+1260101,2021,England,13,DN Wyatt,a139c379,HM Rowe,8ca1f93a,ME Bouchier,c2554b59,0,0,0,0,0,,,,,,1,0,1
+1260101,2021,England,13,ME Bouchier,c2554b59,HM Rowe,8ca1f93a,DN Wyatt,a139c379,0,0,0,0,0,,,,,,1,0,1
+1260101,2021,England,14,ME Bouchier,c2554b59,HNK Jensen,b8cce99f,DN Wyatt,a139c379,0,0,0,0,0,,,,,,4,0,4
+1260101,2021,England,14,ME Bouchier,c2554b59,HNK Jensen,b8cce99f,DN Wyatt,a139c379,0,0,0,0,0,,,,,,1,0,1
+1260101,2021,England,14,DN Wyatt,a139c379,HNK Jensen,b8cce99f,ME Bouchier,c2554b59,0,0,0,0,0,,,,,,1,0,1
+1260101,2021,England,14,ME Bouchier,c2554b59,HNK Jensen,b8cce99f,DN Wyatt,a139c379,0,0,0,0,0,,,,,,1,0,1
+1260101,2021,England,14,DN Wyatt,a139c379,HNK Jensen,b8cce99f,ME Bouchier,c2554b59,0,0,0,0,0,,,,,,1,0,1
+1260101,2021,England,14,ME Bouchier,c2554b59,HNK Jensen,b8cce99f,DN Wyatt,a139c379,0,0,0,0,0,,,,,,1,0,1
+1260101,2021,England,15,ME Bouchier,c2554b59,HM Rowe,8ca1f93a,DN Wyatt,a139c379,0,0,0,0,0,,,,,,2,0,2
+1260101,2021,England,15,ME Bouchier,c2554b59,HM Rowe,8ca1f93a,DN Wyatt,a139c379,0,0,0,0,0,,,,,,1,0,1
+1260101,2021,England,15,DN Wyatt,a139c379,HM Rowe,8ca1f93a,ME Bouchier,c2554b59,0,0,0,0,1,DN Wyatt,a139c379,JM Kerr,9af58032,caught,0,0,0
+1260101,2021,England,15,S Ecclestone,cdb82f1c,HM Rowe,8ca1f93a,ME Bouchier,c2554b59,0,0,0,0,0,,,,,,1,0,1
+1260101,2021,England,15,ME Bouchier,c2554b59,HM Rowe,8ca1f93a,S Ecclestone,cdb82f1c,0,0,0,0,1,ME Bouchier,c2554b59,KJ Martin,cf75a839,caught,0,0,0
+1260101,2021,England,15,S Glenn,b34e0c77,HM Rowe,8ca1f93a,S Ecclestone,cdb82f1c,0,0,0,0,0,,,,,,0,0,0
+1260101,2021,England,16,S Ecclestone,cdb82f1c,JM Kerr,9af58032,S Glenn,b34e0c77,0,0,0,0,0,,,,,,2,0,2
+1260101,2021,England,16,S Ecclestone,cdb82f1c,JM Kerr,9af58032,S Glenn,b34e0c77,0,0,0,0,0,,,,,,1,0,1
+1260101,2021,England,16,S Glenn,b34e0c77,JM Kerr,9af58032,S Ecclestone,cdb82f1c,0,0,0,0,0,,,,,,0,0,0
+1260101,2021,England,16,S Glenn,b34e0c77,JM Kerr,9af58032,S Ecclestone,cdb82f1c,0,0,0,0,0,,,,,,0,0,0
+1260101,2021,England,16,S Glenn,b34e0c77,JM Kerr,9af58032,S Ecclestone,cdb82f1c,0,0,0,0,0,,,,,,0,0,0
+1260101,2021,England,16,S Glenn,b34e0c77,JM Kerr,9af58032,S Ecclestone,cdb82f1c,0,0,0,0,0,,,,,,1,0,1
+1260101,2021,England,17,S Glenn,b34e0c77,LM Kasperek,9b73d523,S Ecclestone,cdb82f1c,0,0,0,0,0,,,,,,1,0,1
+1260101,2021,England,17,S Ecclestone,cdb82f1c,LM Kasperek,9b73d523,S Glenn,b34e0c77,0,0,0,0,0,,,,,,1,0,1
+1260101,2021,England,17,S Glenn,b34e0c77,LM Kasperek,9b73d523,S Ecclestone,cdb82f1c,0,0,0,0,0,,,,,,1,0,1
+1260101,2021,England,17,S Ecclestone,cdb82f1c,LM Kasperek,9b73d523,S Glenn,b34e0c77,0,0,0,0,0,,,,,,0,0,0
+1260101,2021,England,17,S Ecclestone,cdb82f1c,LM Kasperek,9b73d523,S Glenn,b34e0c77,0,0,0,0,0,,,,,,0,0,0
+1260101,2021,England,17,S Ecclestone,cdb82f1c,LM Kasperek,9b73d523,S Glenn,b34e0c77,0,0,0,0,1,S Ecclestone,cdb82f1c,SW Bates,89bbc67a,caught,0,0,0
+1260101,2021,England,18,S Glenn,b34e0c77,SFM Devine,de69af96,MK Villiers,cd62f670,0,0,0,0,0,,,,,,1,0,1
+1260101,2021,England,18,MK Villiers,cd62f670,SFM Devine,de69af96,S Glenn,b34e0c77,0,0,0,0,0,,,,,,1,0,1
+1260101,2021,England,18,S Glenn,b34e0c77,SFM Devine,de69af96,MK Villiers,cd62f670,0,0,0,0,0,,,,,,1,0,1
+1260101,2021,England,18,MK Villiers,cd62f670,SFM Devine,de69af96,S Glenn,b34e0c77,0,0,0,0,0,,,,,,1,0,1
+1260101,2021,England,18,S Glenn,b34e0c77,SFM Devine,de69af96,MK Villiers,cd62f670,0,0,0,0,0,,,,,,0,0,0
+1260101,2021,England,18,S Glenn,b34e0c77,SFM Devine,de69af96,MK Villiers,cd62f670,0,0,0,0,0,,,,,,1,0,1
+1260101,2021,England,19,S Glenn,b34e0c77,HNK Jensen,b8cce99f,MK Villiers,cd62f670,0,0,0,0,0,,,,,,1,0,1
+1260101,2021,England,19,MK Villiers,cd62f670,HNK Jensen,b8cce99f,S Glenn,b34e0c77,0,0,0,0,0,,,,,,1,0,1
+1260101,2021,England,19,S Glenn,b34e0c77,HNK Jensen,b8cce99f,MK Villiers,cd62f670,0,0,0,0,0,,,,,,1,0,1
+1260101,2021,England,19,MK Villiers,cd62f670,HNK Jensen,b8cce99f,S Glenn,b34e0c77,0,0,0,0,0,,,,,,4,0,4
+1260101,2021,England,19,MK Villiers,cd62f670,HNK Jensen,b8cce99f,S Glenn,b34e0c77,0,0,0,0,0,,,,,,0,0,0
+1260101,2021,England,19,MK Villiers,cd62f670,HNK Jensen,b8cce99f,S Glenn,b34e0c77,0,0,0,0,0,,,,,,2,0,2
+1260101,2021,New Zealand,0,SW Bates,89bbc67a,NR Sciver,f3a18a0c,SFM Devine,de69af96,0,0,0,0,0,,,,,,0,0,0
+1260101,2021,New Zealand,0,SW Bates,89bbc67a,NR Sciver,f3a18a0c,SFM Devine,de69af96,0,0,0,0,0,,,,,,0,0,0
+1260101,2021,New Zealand,0,SW Bates,89bbc67a,NR Sciver,f3a18a0c,SFM Devine,de69af96,0,0,0,0,0,,,,,,0,0,0
+1260101,2021,New Zealand,0,SW Bates,89bbc67a,NR Sciver,f3a18a0c,SFM Devine,de69af96,0,0,0,0,0,,,,,,2,0,2
+1260101,2021,New Zealand,0,SW Bates,89bbc67a,NR Sciver,f3a18a0c,SFM Devine,de69af96,0,0,0,0,0,,,,,,0,0,0
+1260101,2021,New Zealand,0,SW Bates,89bbc67a,NR Sciver,f3a18a0c,SFM Devine,de69af96,0,0,0,0,0,,,,,,0,0,0
+1260101,2021,New Zealand,1,SFM Devine,de69af96,NE Farrant,15f609ed,SW Bates,89bbc67a,0,0,0,0,0,,,,,,0,0,0
+1260101,2021,New Zealand,1,SFM Devine,de69af96,NE Farrant,15f609ed,SW Bates,89bbc67a,0,0,0,0,0,,,,,,0,0,0
+1260101,2021,New Zealand,1,SFM Devine,de69af96,NE Farrant,15f609ed,SW Bates,89bbc67a,0,0,0,0,0,,,,,,0,0,0
+1260101,2021,New Zealand,1,SFM Devine,de69af96,NE Farrant,15f609ed,SW Bates,89bbc67a,0,0,0,0,0,,,,,,2,0,2
+1260101,2021,New Zealand,1,SFM Devine,de69af96,NE Farrant,15f609ed,SW Bates,89bbc67a,0,0,0,0,0,,,,,,0,0,0
+1260101,2021,New Zealand,1,SFM Devine,de69af96,NE Farrant,15f609ed,SW Bates,89bbc67a,3,0,0,0,0,,,,,,0,3,3
+1260101,2021,New Zealand,1,SFM Devine,de69af96,NE Farrant,15f609ed,SW Bates,89bbc67a,0,0,0,0,0,,,,,,1,0,1
+1260101,2021,New Zealand,2,SFM Devine,de69af96,FR Davies,2479daa6,SW Bates,89bbc67a,0,0,0,0,0,,,,,,1,0,1
+1260101,2021,New Zealand,2,SW Bates,89bbc67a,FR Davies,2479daa6,SFM Devine,de69af96,2,0,0,0,0,,,,,,0,2,2
+1260101,2021,New Zealand,2,SFM Devine,de69af96,FR Davies,2479daa6,SW Bates,89bbc67a,0,0,0,0,0,,,,,,0,0,0
+1260101,2021,New Zealand,2,SFM Devine,de69af96,FR Davies,2479daa6,SW Bates,89bbc67a,0,0,0,0,0,,,,,,6,0,6
+1260101,2021,New Zealand,2,SFM Devine,de69af96,FR Davies,2479daa6,SW Bates,89bbc67a,0,0,1,0,0,,,,,,0,1,1
+1260101,2021,New Zealand,2,SW Bates,89bbc67a,FR Davies,2479daa6,SFM Devine,de69af96,0,0,0,0,0,,,,,,1,0,1
+1260101,2021,New Zealand,2,SFM Devine,de69af96,FR Davies,2479daa6,SW Bates,89bbc67a,0,0,0,0,0,,,,,,1,0,1
+1260101,2021,New Zealand,3,SFM Devine,de69af96,S Ecclestone,cdb82f1c,SW Bates,89bbc67a,0,0,0,0,0,,,,,,0,0,0
+1260101,2021,New Zealand,3,SFM Devine,de69af96,S Ecclestone,cdb82f1c,SW Bates,89bbc67a,0,0,0,0,0,,,,,,1,0,1
+1260101,2021,New Zealand,3,SW Bates,89bbc67a,S Ecclestone,cdb82f1c,SFM Devine,de69af96,0,0,0,0,0,,,,,,0,0,0
+1260101,2021,New Zealand,3,SW Bates,89bbc67a,S Ecclestone,cdb82f1c,SFM Devine,de69af96,5,0,0,0,0,,,,,,0,5,5
+1260101,2021,New Zealand,3,SW Bates,89bbc67a,S Ecclestone,cdb82f1c,SFM Devine,de69af96,0,0,0,0,0,,,,,,0,0,0
+1260101,2021,New Zealand,3,SW Bates,89bbc67a,S Ecclestone,cdb82f1c,SFM Devine,de69af96,0,0,0,0,0,,,,,,1,0,1
+1260101,2021,New Zealand,3,SFM Devine,de69af96,S Ecclestone,cdb82f1c,SW Bates,89bbc67a,0,0,0,0,0,,,,,,0,0,0
+1260101,2021,New Zealand,4,SW Bates,89bbc67a,NR Sciver,f3a18a0c,SFM Devine,de69af96,0,0,0,0,0,,,,,,0,0,0
+1260101,2021,New Zealand,4,SW Bates,89bbc67a,NR Sciver,f3a18a0c,SFM Devine,de69af96,0,0,0,0,0,,,,,,4,0,4
+1260101,2021,New Zealand,4,SW Bates,89bbc67a,NR Sciver,f3a18a0c,SFM Devine,de69af96,0,0,0,0,0,,,,,,0,0,0
+1260101,2021,New Zealand,4,SW Bates,89bbc67a,NR Sciver,f3a18a0c,SFM Devine,de69af96,0,0,0,0,0,,,,,,0,0,0
+1260101,2021,New Zealand,4,SW Bates,89bbc67a,NR Sciver,f3a18a0c,SFM Devine,de69af96,0,0,0,0,0,,,,,,0,0,0
+1260101,2021,New Zealand,4,SW Bates,89bbc67a,NR Sciver,f3a18a0c,SFM Devine,de69af96,0,0,0,0,1,SW Bates,89bbc67a,MK Villiers,cd62f670,run out,0,0,0
+1260101,2021,New Zealand,5,AE Satterthwaite,72b7ed1e,NE Farrant,15f609ed,SFM Devine,de69af96,0,0,0,0,0,,,,,,1,0,1
+1260101,2021,New Zealand,5,SFM Devine,de69af96,NE Farrant,15f609ed,AE Satterthwaite,72b7ed1e,1,0,0,0,0,,,,,,0,1,1
+1260101,2021,New Zealand,5,SFM Devine,de69af96,NE Farrant,15f609ed,AE Satterthwaite,72b7ed1e,0,0,0,0,0,,,,,,0,0,0
+1260101,2021,New Zealand,5,SFM Devine,de69af96,NE Farrant,15f609ed,AE Satterthwaite,72b7ed1e,0,0,0,0,0,,,,,,6,0,6
+1260101,2021,New Zealand,5,SFM Devine,de69af96,NE Farrant,15f609ed,AE Satterthwaite,72b7ed1e,0,0,0,0,0,,,,,,0,0,0
+1260101,2021,New Zealand,5,SFM Devine,de69af96,NE Farrant,15f609ed,AE Satterthwaite,72b7ed1e,0,0,0,0,0,,,,,,0,0,0
+1260101,2021,New Zealand,5,SFM Devine,de69af96,NE Farrant,15f609ed,AE Satterthwaite,72b7ed1e,0,0,0,0,0,,,,,,4,0,4
+1260101,2021,New Zealand,6,AE Satterthwaite,72b7ed1e,S Glenn,b34e0c77,SFM Devine,de69af96,0,0,0,0,0,,,,,,0,0,0
+1260101,2021,New Zealand,6,AE Satterthwaite,72b7ed1e,S Glenn,b34e0c77,SFM Devine,de69af96,0,0,0,0,0,,,,,,1,0,1
+1260101,2021,New Zealand,6,SFM Devine,de69af96,S Glenn,b34e0c77,AE Satterthwaite,72b7ed1e,0,0,0,0,0,,,,,,0,0,0
+1260101,2021,New Zealand,6,SFM Devine,de69af96,S Glenn,b34e0c77,AE Satterthwaite,72b7ed1e,0,0,0,0,0,,,,,,1,0,1
+1260101,2021,New Zealand,6,AE Satterthwaite,72b7ed1e,S Glenn,b34e0c77,SFM Devine,de69af96,0,0,0,0,0,,,,,,1,0,1
+1260101,2021,New Zealand,6,SFM Devine,de69af96,S Glenn,b34e0c77,AE Satterthwaite,72b7ed1e,0,0,0,0,0,,,,,,1,0,1
+1260101,2021,New Zealand,7,SFM Devine,de69af96,S Ecclestone,cdb82f1c,AE Satterthwaite,72b7ed1e,0,0,0,0,0,,,,,,1,0,1
+1260101,2021,New Zealand,7,AE Satterthwaite,72b7ed1e,S Ecclestone,cdb82f1c,SFM Devine,de69af96,0,0,0,0,0,,,,,,0,0,0
+1260101,2021,New Zealand,7,AE Satterthwaite,72b7ed1e,S Ecclestone,cdb82f1c,SFM Devine,de69af96,0,0,0,0,0,,,,,,4,0,4
+1260101,2021,New Zealand,7,AE Satterthwaite,72b7ed1e,S Ecclestone,cdb82f1c,SFM Devine,de69af96,0,0,0,0,0,,,,,,1,0,1
+1260101,2021,New Zealand,7,SFM Devine,de69af96,S Ecclestone,cdb82f1c,AE Satterthwaite,72b7ed1e,0,0,0,0,0,,,,,,1,0,1
+1260101,2021,New Zealand,7,AE Satterthwaite,72b7ed1e,S Ecclestone,cdb82f1c,SFM Devine,de69af96,0,0,0,0,0,,,,,,0,0,0
+1260101,2021,New Zealand,8,SFM Devine,de69af96,NR Sciver,f3a18a0c,AE Satterthwaite,72b7ed1e,0,0,0,0,0,,,,,,0,0,0
+1260101,2021,New Zealand,8,SFM Devine,de69af96,NR Sciver,f3a18a0c,AE Satterthwaite,72b7ed1e,0,0,0,0,0,,,,,,6,0,6
+1260101,2021,New Zealand,8,SFM Devine,de69af96,NR Sciver,f3a18a0c,AE Satterthwaite,72b7ed1e,1,0,0,0,0,,,,,,0,1,1
+1260101,2021,New Zealand,8,SFM Devine,de69af96,NR Sciver,f3a18a0c,AE Satterthwaite,72b7ed1e,0,0,0,0,0,,,,,,1,0,1
+1260101,2021,New Zealand,8,AE Satterthwaite,72b7ed1e,NR Sciver,f3a18a0c,SFM Devine,de69af96,0,0,0,0,0,,,,,,1,0,1
+1260101,2021,New Zealand,8,SFM Devine,de69af96,NR Sciver,f3a18a0c,AE Satterthwaite,72b7ed1e,0,0,0,0,0,,,,,,1,0,1
+1260101,2021,New Zealand,8,AE Satterthwaite,72b7ed1e,NR Sciver,f3a18a0c,SFM Devine,de69af96,1,0,0,0,0,,,,,,0,1,1
+1260101,2021,New Zealand,8,AE Satterthwaite,72b7ed1e,NR Sciver,f3a18a0c,SFM Devine,de69af96,0,0,0,0,0,,,,,,0,0,0
+1260101,2021,New Zealand,9,SFM Devine,de69af96,FR Davies,2479daa6,AE Satterthwaite,72b7ed1e,0,0,0,0,0,,,,,,1,0,1
+1260101,2021,New Zealand,9,AE Satterthwaite,72b7ed1e,FR Davies,2479daa6,SFM Devine,de69af96,0,0,0,0,0,,,,,,2,0,2
+1260101,2021,New Zealand,9,AE Satterthwaite,72b7ed1e,FR Davies,2479daa6,SFM Devine,de69af96,0,0,0,0,0,,,,,,0,0,0
+1260101,2021,New Zealand,9,AE Satterthwaite,72b7ed1e,FR Davies,2479daa6,SFM Devine,de69af96,0,0,0,0,0,,,,,,0,0,0
+1260101,2021,New Zealand,9,AE Satterthwaite,72b7ed1e,FR Davies,2479daa6,SFM Devine,de69af96,0,0,0,0,0,,,,,,0,0,0
+1260101,2021,New Zealand,9,AE Satterthwaite,72b7ed1e,FR Davies,2479daa6,SFM Devine,de69af96,0,0,0,0,1,AE Satterthwaite,72b7ed1e,,,bowled,0,0,0
+1260101,2021,New Zealand,10,SFM Devine,de69af96,S Glenn,b34e0c77,ML Green,865eae1f,0,0,0,0,0,,,,,,1,0,1
+1260101,2021,New Zealand,10,ML Green,865eae1f,S Glenn,b34e0c77,SFM Devine,de69af96,0,0,0,0,0,,,,,,0,0,0
+1260101,2021,New Zealand,10,ML Green,865eae1f,S Glenn,b34e0c77,SFM Devine,de69af96,0,0,0,0,0,,,,,,1,0,1
+1260101,2021,New Zealand,10,SFM Devine,de69af96,S Glenn,b34e0c77,ML Green,865eae1f,0,0,0,0,0,,,,,,1,0,1
+1260101,2021,New Zealand,10,ML Green,865eae1f,S Glenn,b34e0c77,SFM Devine,de69af96,0,0,0,0,0,,,,,,1,0,1
+1260101,2021,New Zealand,10,SFM Devine,de69af96,S Glenn,b34e0c77,ML Green,865eae1f,0,0,0,0,0,,,,,,0,0,0
+1260101,2021,New Zealand,11,ML Green,865eae1f,S Ecclestone,cdb82f1c,SFM Devine,de69af96,0,0,0,0,0,,,,,,0,0,0
+1260101,2021,New Zealand,11,ML Green,865eae1f,S Ecclestone,cdb82f1c,SFM Devine,de69af96,0,0,0,0,0,,,,,,0,0,0
+1260101,2021,New Zealand,11,ML Green,865eae1f,S Ecclestone,cdb82f1c,SFM Devine,de69af96,0,0,0,0,0,,,,,,0,0,0
+1260101,2021,New Zealand,11,ML Green,865eae1f,S Ecclestone,cdb82f1c,SFM Devine,de69af96,0,0,0,0,0,,,,,,1,0,1
+1260101,2021,New Zealand,11,SFM Devine,de69af96,S Ecclestone,cdb82f1c,ML Green,865eae1f,0,0,0,0,0,,,,,,0,0,0
+1260101,2021,New Zealand,11,SFM Devine,de69af96,S Ecclestone,cdb82f1c,ML Green,865eae1f,0,0,0,0,0,,,,,,0,0,0
+1260101,2021,New Zealand,12,ML Green,865eae1f,S Glenn,b34e0c77,SFM Devine,de69af96,0,0,0,0,0,,,,,,4,0,4
+1260101,2021,New Zealand,12,ML Green,865eae1f,S Glenn,b34e0c77,SFM Devine,de69af96,0,0,0,0,0,,,,,,1,0,1
+1260101,2021,New Zealand,12,SFM Devine,de69af96,S Glenn,b34e0c77,ML Green,865eae1f,0,0,0,0,0,,,,,,6,0,6
+1260101,2021,New Zealand,12,SFM Devine,de69af96,S Glenn,b34e0c77,ML Green,865eae1f,0,0,0,0,0,,,,,,2,0,2
+1260101,2021,New Zealand,12,SFM Devine,de69af96,S Glenn,b34e0c77,ML Green,865eae1f,0,0,0,0,0,,,,,,1,0,1
+1260101,2021,New Zealand,12,ML Green,865eae1f,S Glenn,b34e0c77,SFM Devine,de69af96,0,0,0,0,0,,,,,,1,0,1
+1260101,2021,New Zealand,13,ML Green,865eae1f,FR Davies,2479daa6,SFM Devine,de69af96,0,0,0,0,0,,,,,,0,0,0
+1260101,2021,New Zealand,13,ML Green,865eae1f,FR Davies,2479daa6,SFM Devine,de69af96,0,0,0,0,0,,,,,,4,0,4
+1260101,2021,New Zealand,13,ML Green,865eae1f,FR Davies,2479daa6,SFM Devine,de69af96,0,0,0,0,0,,,,,,1,0,1
+1260101,2021,New Zealand,13,SFM Devine,de69af96,FR Davies,2479daa6,ML Green,865eae1f,1,0,0,0,0,,,,,,0,1,1
+1260101,2021,New Zealand,13,SFM Devine,de69af96,FR Davies,2479daa6,ML Green,865eae1f,0,0,0,0,0,,,,,,0,0,0
+1260101,2021,New Zealand,13,SFM Devine,de69af96,FR Davies,2479daa6,ML Green,865eae1f,1,0,0,0,0,,,,,,0,1,1
+1260101,2021,New Zealand,13,SFM Devine,de69af96,FR Davies,2479daa6,ML Green,865eae1f,0,0,0,0,0,,,,,,4,0,4
+1260101,2021,New Zealand,13,SFM Devine,de69af96,FR Davies,2479daa6,ML Green,865eae1f,0,0,0,0,0,,,,,,0,0,0
+1260101,2021,New Zealand,14,ML Green,865eae1f,NE Farrant,15f609ed,SFM Devine,de69af96,0,0,0,0,0,,,,,,1,0,1
+1260101,2021,New Zealand,14,SFM Devine,de69af96,NE Farrant,15f609ed,ML Green,865eae1f,0,0,0,0,1,SFM Devine,de69af96,MK Villiers,cd62f670,caught,0,0,0
+1260101,2021,New Zealand,14,ML Green,865eae1f,NE Farrant,15f609ed,BM Halliday,efb6cb2a,0,0,0,0,0,,,,,,0,0,0
+1260101,2021,New Zealand,14,ML Green,865eae1f,NE Farrant,15f609ed,BM Halliday,efb6cb2a,0,0,0,0,0,,,,,,4,0,4
+1260101,2021,New Zealand,14,ML Green,865eae1f,NE Farrant,15f609ed,BM Halliday,efb6cb2a,0,0,0,0,0,,,,,,1,0,1
+1260101,2021,New Zealand,14,BM Halliday,efb6cb2a,NE Farrant,15f609ed,ML Green,865eae1f,0,0,0,0,0,,,,,,0,0,0
+1260101,2021,New Zealand,15,ML Green,865eae1f,MK Villiers,cd62f670,BM Halliday,efb6cb2a,0,0,0,0,0,,,,,,1,0,1
+1260101,2021,New Zealand,15,BM Halliday,efb6cb2a,MK Villiers,cd62f670,ML Green,865eae1f,0,0,0,0,0,,,,,,1,0,1
+1260101,2021,New Zealand,15,ML Green,865eae1f,MK Villiers,cd62f670,BM Halliday,efb6cb2a,0,0,0,0,1,ML Green,865eae1f,,,caught and bowled,0,0,0
+1260101,2021,New Zealand,15,KJ Martin,cf75a839,MK Villiers,cd62f670,BM Halliday,efb6cb2a,0,0,0,0,0,,,,,,4,0,4
+1260101,2021,New Zealand,15,KJ Martin,cf75a839,MK Villiers,cd62f670,BM Halliday,efb6cb2a,0,0,0,0,0,,,,,,1,0,1
+1260101,2021,New Zealand,15,BM Halliday,efb6cb2a,MK Villiers,cd62f670,KJ Martin,cf75a839,0,0,0,0,0,,,,,,1,0,1
+1260101,2021,New Zealand,16,BM Halliday,efb6cb2a,S Glenn,b34e0c77,KJ Martin,cf75a839,0,0,0,0,0,,,,,,1,0,1
+1260101,2021,New Zealand,16,KJ Martin,cf75a839,S Glenn,b34e0c77,BM Halliday,efb6cb2a,0,0,0,0,0,,,,,,0,0,0
+1260101,2021,New Zealand,16,KJ Martin,cf75a839,S Glenn,b34e0c77,BM Halliday,efb6cb2a,0,0,0,0,0,,,,,,0,0,0
+1260101,2021,New Zealand,16,KJ Martin,cf75a839,S Glenn,b34e0c77,BM Halliday,efb6cb2a,0,0,0,0,0,,,,,,0,0,0
+1260101,2021,New Zealand,16,KJ Martin,cf75a839,S Glenn,b34e0c77,BM Halliday,efb6cb2a,0,0,1,0,0,,,,,,0,1,1
+1260101,2021,New Zealand,16,BM Halliday,efb6cb2a,S Glenn,b34e0c77,KJ Martin,cf75a839,0,0,0,0,1,BM Halliday,efb6cb2a,MK Villiers,cd62f670,caught,0,0,0
+1260101,2021,New Zealand,17,HNK Jensen,b8cce99f,S Ecclestone,cdb82f1c,KJ Martin,cf75a839,0,0,0,0,0,,,,,,1,0,1
+1260101,2021,New Zealand,17,KJ Martin,cf75a839,S Ecclestone,cdb82f1c,HNK Jensen,b8cce99f,0,0,0,0,0,,,,,,1,0,1
+1260101,2021,New Zealand,17,HNK Jensen,b8cce99f,S Ecclestone,cdb82f1c,KJ Martin,cf75a839,0,0,0,0,0,,,,,,0,0,0
+1260101,2021,New Zealand,17,HNK Jensen,b8cce99f,S Ecclestone,cdb82f1c,KJ Martin,cf75a839,0,0,0,0,0,,,,,,1,0,1
+1260101,2021,New Zealand,17,KJ Martin,cf75a839,S Ecclestone,cdb82f1c,HNK Jensen,b8cce99f,0,0,0,0,0,,,,,,1,0,1
+1260101,2021,New Zealand,17,HNK Jensen,b8cce99f,S Ecclestone,cdb82f1c,KJ Martin,cf75a839,0,0,0,0,0,,,,,,1,0,1
+1260101,2021,New Zealand,18,HNK Jensen,b8cce99f,NE Farrant,15f609ed,KJ Martin,cf75a839,0,0,0,0,0,,,,,,4,0,4
+1260101,2021,New Zealand,18,HNK Jensen,b8cce99f,NE Farrant,15f609ed,KJ Martin,cf75a839,0,0,0,0,1,HNK Jensen,b8cce99f,AE Jones,b05e45e4,caught,0,0,0
+1260101,2021,New Zealand,18,TMM Newton,93fe473e,NE Farrant,15f609ed,KJ Martin,cf75a839,2,0,0,0,0,,,,,,0,2,2
+1260101,2021,New Zealand,18,KJ Martin,cf75a839,NE Farrant,15f609ed,TMM Newton,93fe473e,2,0,0,0,0,,,,,,0,2,2

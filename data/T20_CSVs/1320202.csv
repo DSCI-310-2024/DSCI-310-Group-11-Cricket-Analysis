@@ -1,0 +1,268 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1320202,2022,Oman,0,V Jesrani,d1f6a8fa,Ada Bhasin,b1c113d7,Fiza,c7c60bc5,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Oman,0,V Jesrani,d1f6a8fa,Ada Bhasin,b1c113d7,Fiza,c7c60bc5,1,0,0,0,0,,,,,,0,1,1
+1320202,2022,Oman,0,V Jesrani,d1f6a8fa,Ada Bhasin,b1c113d7,Fiza,c7c60bc5,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Oman,0,V Jesrani,d1f6a8fa,Ada Bhasin,b1c113d7,Fiza,c7c60bc5,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Oman,0,V Jesrani,d1f6a8fa,Ada Bhasin,b1c113d7,Fiza,c7c60bc5,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Oman,0,V Jesrani,d1f6a8fa,Ada Bhasin,b1c113d7,Fiza,c7c60bc5,0,0,0,0,0,,,,,,1,0,1
+1320202,2022,Oman,0,Fiza,c7c60bc5,Ada Bhasin,b1c113d7,V Jesrani,d1f6a8fa,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Oman,1,V Jesrani,d1f6a8fa,GK Diviya,992979fa,Fiza,c7c60bc5,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Oman,1,V Jesrani,d1f6a8fa,GK Diviya,992979fa,Fiza,c7c60bc5,0,0,0,0,0,,,,,,1,0,1
+1320202,2022,Oman,1,Fiza,c7c60bc5,GK Diviya,992979fa,V Jesrani,d1f6a8fa,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Oman,1,Fiza,c7c60bc5,GK Diviya,992979fa,V Jesrani,d1f6a8fa,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Oman,1,Fiza,c7c60bc5,GK Diviya,992979fa,V Jesrani,d1f6a8fa,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Oman,1,Fiza,c7c60bc5,GK Diviya,992979fa,V Jesrani,d1f6a8fa,0,0,0,0,0,,,,,,1,0,1
+1320202,2022,Oman,2,Fiza,c7c60bc5,Shafina Mahesh,0c40b02d,V Jesrani,d1f6a8fa,0,0,0,0,1,Fiza,c7c60bc5,PSR Gurusinghe,591a7004,caught,0,0,0
+1320202,2022,Oman,2,SV Shetty,db7a7301,Shafina Mahesh,0c40b02d,V Jesrani,d1f6a8fa,1,0,0,0,0,,,,,,0,1,1
+1320202,2022,Oman,2,SV Shetty,db7a7301,Shafina Mahesh,0c40b02d,V Jesrani,d1f6a8fa,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Oman,2,SV Shetty,db7a7301,Shafina Mahesh,0c40b02d,V Jesrani,d1f6a8fa,0,0,0,0,0,,,,,,4,0,4
+1320202,2022,Oman,2,SV Shetty,db7a7301,Shafina Mahesh,0c40b02d,V Jesrani,d1f6a8fa,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Oman,2,SV Shetty,db7a7301,Shafina Mahesh,0c40b02d,V Jesrani,d1f6a8fa,0,0,0,0,0,,,,,,1,0,1
+1320202,2022,Oman,2,V Jesrani,d1f6a8fa,Shafina Mahesh,0c40b02d,SV Shetty,db7a7301,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Oman,3,SV Shetty,db7a7301,Vinu Kumar,3775b9f9,V Jesrani,d1f6a8fa,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Oman,3,SV Shetty,db7a7301,Vinu Kumar,3775b9f9,V Jesrani,d1f6a8fa,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Oman,3,SV Shetty,db7a7301,Vinu Kumar,3775b9f9,V Jesrani,d1f6a8fa,0,0,0,0,0,,,,,,1,0,1
+1320202,2022,Oman,3,V Jesrani,d1f6a8fa,Vinu Kumar,3775b9f9,SV Shetty,db7a7301,0,0,0,0,0,,,,,,1,0,1
+1320202,2022,Oman,3,SV Shetty,db7a7301,Vinu Kumar,3775b9f9,V Jesrani,d1f6a8fa,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Oman,3,SV Shetty,db7a7301,Vinu Kumar,3775b9f9,V Jesrani,d1f6a8fa,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Oman,4,V Jesrani,d1f6a8fa,I Shukla,ce490298,SV Shetty,db7a7301,0,0,0,0,0,,,,,,1,0,1
+1320202,2022,Oman,4,SV Shetty,db7a7301,I Shukla,ce490298,V Jesrani,d1f6a8fa,0,0,0,0,0,,,,,,1,0,1
+1320202,2022,Oman,4,V Jesrani,d1f6a8fa,I Shukla,ce490298,SV Shetty,db7a7301,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Oman,4,V Jesrani,d1f6a8fa,I Shukla,ce490298,SV Shetty,db7a7301,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Oman,4,V Jesrani,d1f6a8fa,I Shukla,ce490298,SV Shetty,db7a7301,1,0,0,0,0,,,,,,0,1,1
+1320202,2022,Oman,4,V Jesrani,d1f6a8fa,I Shukla,ce490298,SV Shetty,db7a7301,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Oman,4,V Jesrani,d1f6a8fa,I Shukla,ce490298,SV Shetty,db7a7301,1,0,0,0,0,,,,,,0,1,1
+1320202,2022,Oman,4,V Jesrani,d1f6a8fa,I Shukla,ce490298,SV Shetty,db7a7301,0,0,0,0,0,,,,,,1,0,1
+1320202,2022,Oman,5,V Jesrani,d1f6a8fa,Vinu Kumar,3775b9f9,SV Shetty,db7a7301,0,0,0,0,1,V Jesrani,d1f6a8fa,I Shukla,ce490298,caught,0,0,0
+1320202,2022,Oman,5,SV Shetty,db7a7301,Vinu Kumar,3775b9f9,PE Mendonca,70bab30b,0,0,0,0,1,SV Shetty,db7a7301,GK Diviya,992979fa,caught,0,0,0
+1320202,2022,Oman,5,NM Anil,cbd69f04,Vinu Kumar,3775b9f9,PE Mendonca,70bab30b,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Oman,5,NM Anil,cbd69f04,Vinu Kumar,3775b9f9,PE Mendonca,70bab30b,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Oman,5,NM Anil,cbd69f04,Vinu Kumar,3775b9f9,PE Mendonca,70bab30b,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Oman,5,NM Anil,cbd69f04,Vinu Kumar,3775b9f9,PE Mendonca,70bab30b,0,0,0,0,0,,,,,,1,0,1
+1320202,2022,Oman,6,NM Anil,cbd69f04,Shafina Mahesh,0c40b02d,PE Mendonca,70bab30b,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Oman,6,NM Anil,cbd69f04,Shafina Mahesh,0c40b02d,PE Mendonca,70bab30b,0,0,0,0,0,,,,,,1,0,1
+1320202,2022,Oman,6,PE Mendonca,70bab30b,Shafina Mahesh,0c40b02d,NM Anil,cbd69f04,1,0,0,0,0,,,,,,0,1,1
+1320202,2022,Oman,6,PE Mendonca,70bab30b,Shafina Mahesh,0c40b02d,NM Anil,cbd69f04,0,0,0,0,0,,,,,,1,0,1
+1320202,2022,Oman,6,NM Anil,cbd69f04,Shafina Mahesh,0c40b02d,PE Mendonca,70bab30b,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Oman,6,NM Anil,cbd69f04,Shafina Mahesh,0c40b02d,PE Mendonca,70bab30b,0,0,0,0,0,,,,,,4,0,4
+1320202,2022,Oman,6,NM Anil,cbd69f04,Shafina Mahesh,0c40b02d,PE Mendonca,70bab30b,0,0,0,0,1,NM Anil,cbd69f04,Ada Bhasin,b1c113d7,caught,0,0,0
+1320202,2022,Oman,7,PE Mendonca,70bab30b,GK Diviya,992979fa,B Shetty,58c16165,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Oman,7,PE Mendonca,70bab30b,GK Diviya,992979fa,B Shetty,58c16165,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Oman,7,PE Mendonca,70bab30b,GK Diviya,992979fa,B Shetty,58c16165,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Oman,7,PE Mendonca,70bab30b,GK Diviya,992979fa,B Shetty,58c16165,0,0,0,0,0,,,,,,1,0,1
+1320202,2022,Oman,7,B Shetty,58c16165,GK Diviya,992979fa,PE Mendonca,70bab30b,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Oman,7,B Shetty,58c16165,GK Diviya,992979fa,PE Mendonca,70bab30b,0,0,0,0,0,,,,,,1,0,1
+1320202,2022,Oman,8,B Shetty,58c16165,CH Abeyratne,ef423744,PE Mendonca,70bab30b,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Oman,8,B Shetty,58c16165,CH Abeyratne,ef423744,PE Mendonca,70bab30b,1,0,0,0,0,,,,,,0,1,1
+1320202,2022,Oman,8,B Shetty,58c16165,CH Abeyratne,ef423744,PE Mendonca,70bab30b,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Oman,8,B Shetty,58c16165,CH Abeyratne,ef423744,PE Mendonca,70bab30b,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Oman,8,B Shetty,58c16165,CH Abeyratne,ef423744,PE Mendonca,70bab30b,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Oman,8,B Shetty,58c16165,CH Abeyratne,ef423744,PE Mendonca,70bab30b,0,0,0,0,0,,,,,,1,0,1
+1320202,2022,Oman,8,PE Mendonca,70bab30b,CH Abeyratne,ef423744,B Shetty,58c16165,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Oman,9,B Shetty,58c16165,I Shukla,ce490298,PE Mendonca,70bab30b,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Oman,9,B Shetty,58c16165,I Shukla,ce490298,PE Mendonca,70bab30b,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Oman,9,B Shetty,58c16165,I Shukla,ce490298,PE Mendonca,70bab30b,0,0,0,0,0,,,,,,4,0,4
+1320202,2022,Oman,9,B Shetty,58c16165,I Shukla,ce490298,PE Mendonca,70bab30b,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Oman,9,B Shetty,58c16165,I Shukla,ce490298,PE Mendonca,70bab30b,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Oman,9,B Shetty,58c16165,I Shukla,ce490298,PE Mendonca,70bab30b,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Oman,10,PE Mendonca,70bab30b,CH Abeyratne,ef423744,B Shetty,58c16165,5,0,0,0,0,,,,,,0,5,5
+1320202,2022,Oman,10,PE Mendonca,70bab30b,CH Abeyratne,ef423744,B Shetty,58c16165,0,0,0,0,0,,,,,,1,0,1
+1320202,2022,Oman,10,B Shetty,58c16165,CH Abeyratne,ef423744,PE Mendonca,70bab30b,0,0,0,0,0,,,,,,2,0,2
+1320202,2022,Oman,10,B Shetty,58c16165,CH Abeyratne,ef423744,PE Mendonca,70bab30b,0,0,0,0,0,,,,,,1,0,1
+1320202,2022,Oman,10,PE Mendonca,70bab30b,CH Abeyratne,ef423744,B Shetty,58c16165,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Oman,10,PE Mendonca,70bab30b,CH Abeyratne,ef423744,B Shetty,58c16165,1,0,0,0,0,,,,,,0,1,1
+1320202,2022,Oman,10,PE Mendonca,70bab30b,CH Abeyratne,ef423744,B Shetty,58c16165,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Oman,10,PE Mendonca,70bab30b,CH Abeyratne,ef423744,B Shetty,58c16165,0,0,0,0,0,,,,,,4,0,4
+1320202,2022,Oman,11,B Shetty,58c16165,GK Diviya,992979fa,PE Mendonca,70bab30b,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Oman,11,B Shetty,58c16165,GK Diviya,992979fa,PE Mendonca,70bab30b,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Oman,11,B Shetty,58c16165,GK Diviya,992979fa,PE Mendonca,70bab30b,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Oman,11,B Shetty,58c16165,GK Diviya,992979fa,PE Mendonca,70bab30b,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Oman,11,B Shetty,58c16165,GK Diviya,992979fa,PE Mendonca,70bab30b,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Oman,11,B Shetty,58c16165,GK Diviya,992979fa,PE Mendonca,70bab30b,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Oman,12,PE Mendonca,70bab30b,Shafina Mahesh,0c40b02d,B Shetty,58c16165,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Oman,12,PE Mendonca,70bab30b,Shafina Mahesh,0c40b02d,B Shetty,58c16165,1,0,0,0,0,,,,,,0,1,1
+1320202,2022,Oman,12,PE Mendonca,70bab30b,Shafina Mahesh,0c40b02d,B Shetty,58c16165,0,0,0,0,0,,,,,,4,0,4
+1320202,2022,Oman,12,PE Mendonca,70bab30b,Shafina Mahesh,0c40b02d,B Shetty,58c16165,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Oman,12,PE Mendonca,70bab30b,Shafina Mahesh,0c40b02d,B Shetty,58c16165,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Oman,12,PE Mendonca,70bab30b,Shafina Mahesh,0c40b02d,B Shetty,58c16165,0,0,0,0,0,,,,,,4,0,4
+1320202,2022,Oman,12,PE Mendonca,70bab30b,Shafina Mahesh,0c40b02d,B Shetty,58c16165,0,0,0,0,0,,,,,,4,0,4
+1320202,2022,Oman,13,B Shetty,58c16165,I Shukla,ce490298,PE Mendonca,70bab30b,0,0,0,0,0,,,,,,1,0,1
+1320202,2022,Oman,13,PE Mendonca,70bab30b,I Shukla,ce490298,B Shetty,58c16165,0,0,0,0,0,,,,,,1,0,1
+1320202,2022,Oman,13,B Shetty,58c16165,I Shukla,ce490298,PE Mendonca,70bab30b,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Oman,13,B Shetty,58c16165,I Shukla,ce490298,PE Mendonca,70bab30b,0,0,0,0,0,,,,,,1,0,1
+1320202,2022,Oman,13,PE Mendonca,70bab30b,I Shukla,ce490298,B Shetty,58c16165,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Oman,13,PE Mendonca,70bab30b,I Shukla,ce490298,B Shetty,58c16165,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Oman,14,B Shetty,58c16165,Ada Bhasin,b1c113d7,PE Mendonca,70bab30b,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Oman,14,B Shetty,58c16165,Ada Bhasin,b1c113d7,PE Mendonca,70bab30b,0,0,0,0,0,,,,,,1,0,1
+1320202,2022,Oman,14,PE Mendonca,70bab30b,Ada Bhasin,b1c113d7,B Shetty,58c16165,0,0,0,0,0,,,,,,2,0,2
+1320202,2022,Oman,14,PE Mendonca,70bab30b,Ada Bhasin,b1c113d7,B Shetty,58c16165,0,0,0,0,0,,,,,,4,0,4
+1320202,2022,Oman,14,PE Mendonca,70bab30b,Ada Bhasin,b1c113d7,B Shetty,58c16165,0,0,0,0,0,,,,,,2,0,2
+1320202,2022,Oman,14,PE Mendonca,70bab30b,Ada Bhasin,b1c113d7,B Shetty,58c16165,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Oman,15,B Shetty,58c16165,Vinu Kumar,3775b9f9,PE Mendonca,70bab30b,0,0,0,0,0,,,,,,1,0,1
+1320202,2022,Oman,15,PE Mendonca,70bab30b,Vinu Kumar,3775b9f9,B Shetty,58c16165,0,0,0,0,0,,,,,,1,0,1
+1320202,2022,Oman,15,B Shetty,58c16165,Vinu Kumar,3775b9f9,PE Mendonca,70bab30b,0,0,0,0,0,,,,,,4,0,4
+1320202,2022,Oman,15,B Shetty,58c16165,Vinu Kumar,3775b9f9,PE Mendonca,70bab30b,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Oman,15,B Shetty,58c16165,Vinu Kumar,3775b9f9,PE Mendonca,70bab30b,0,0,0,0,0,,,,,,1,0,1
+1320202,2022,Oman,15,PE Mendonca,70bab30b,Vinu Kumar,3775b9f9,B Shetty,58c16165,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Oman,16,B Shetty,58c16165,Ada Bhasin,b1c113d7,PE Mendonca,70bab30b,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Oman,16,B Shetty,58c16165,Ada Bhasin,b1c113d7,PE Mendonca,70bab30b,0,0,0,0,0,,,,,,1,0,1
+1320202,2022,Oman,16,PE Mendonca,70bab30b,Ada Bhasin,b1c113d7,B Shetty,58c16165,0,0,0,0,0,,,,,,1,0,1
+1320202,2022,Oman,16,B Shetty,58c16165,Ada Bhasin,b1c113d7,PE Mendonca,70bab30b,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Oman,16,B Shetty,58c16165,Ada Bhasin,b1c113d7,PE Mendonca,70bab30b,1,0,0,0,0,,,,,,0,1,1
+1320202,2022,Oman,16,B Shetty,58c16165,Ada Bhasin,b1c113d7,PE Mendonca,70bab30b,0,0,0,0,0,,,,,,1,0,1
+1320202,2022,Oman,16,PE Mendonca,70bab30b,Ada Bhasin,b1c113d7,B Shetty,58c16165,0,0,0,0,0,,,,,,1,0,1
+1320202,2022,Oman,17,PE Mendonca,70bab30b,Vinu Kumar,3775b9f9,B Shetty,58c16165,1,0,0,0,0,,,,,,0,1,1
+1320202,2022,Oman,17,PE Mendonca,70bab30b,Vinu Kumar,3775b9f9,B Shetty,58c16165,0,0,0,0,0,,,,,,2,0,2
+1320202,2022,Oman,17,PE Mendonca,70bab30b,Vinu Kumar,3775b9f9,B Shetty,58c16165,0,0,0,0,0,,,,,,4,0,4
+1320202,2022,Oman,17,PE Mendonca,70bab30b,Vinu Kumar,3775b9f9,B Shetty,58c16165,0,0,0,0,0,,,,,,1,0,1
+1320202,2022,Oman,17,B Shetty,58c16165,Vinu Kumar,3775b9f9,PE Mendonca,70bab30b,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Oman,17,B Shetty,58c16165,Vinu Kumar,3775b9f9,PE Mendonca,70bab30b,0,0,0,0,0,,,,,,2,0,2
+1320202,2022,Oman,17,B Shetty,58c16165,Vinu Kumar,3775b9f9,PE Mendonca,70bab30b,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Oman,18,PE Mendonca,70bab30b,Shafina Mahesh,0c40b02d,B Shetty,58c16165,0,0,0,0,0,,,,,,1,0,1
+1320202,2022,Oman,18,B Shetty,58c16165,Shafina Mahesh,0c40b02d,PE Mendonca,70bab30b,0,0,0,0,0,,,,,,1,0,1
+1320202,2022,Oman,18,PE Mendonca,70bab30b,Shafina Mahesh,0c40b02d,B Shetty,58c16165,0,0,0,0,0,,,,,,2,0,2
+1320202,2022,Oman,18,PE Mendonca,70bab30b,Shafina Mahesh,0c40b02d,B Shetty,58c16165,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Oman,18,PE Mendonca,70bab30b,Shafina Mahesh,0c40b02d,B Shetty,58c16165,1,0,0,0,0,,,,,,0,1,1
+1320202,2022,Oman,18,PE Mendonca,70bab30b,Shafina Mahesh,0c40b02d,B Shetty,58c16165,0,0,0,0,0,,,,,,4,0,4
+1320202,2022,Oman,18,PE Mendonca,70bab30b,Shafina Mahesh,0c40b02d,B Shetty,58c16165,0,0,0,0,0,,,,,,1,0,1
+1320202,2022,Oman,19,PE Mendonca,70bab30b,GK Diviya,992979fa,B Shetty,58c16165,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Oman,19,PE Mendonca,70bab30b,GK Diviya,992979fa,B Shetty,58c16165,0,0,0,0,0,,,,,,1,0,1
+1320202,2022,Oman,19,B Shetty,58c16165,GK Diviya,992979fa,PE Mendonca,70bab30b,0,0,0,0,0,,,,,,2,0,2
+1320202,2022,Oman,19,B Shetty,58c16165,GK Diviya,992979fa,PE Mendonca,70bab30b,0,0,0,0,0,,,,,,1,0,1
+1320202,2022,Oman,19,PE Mendonca,70bab30b,GK Diviya,992979fa,B Shetty,58c16165,0,0,0,0,1,B Shetty,58c16165,Vinu Kumar,3775b9f9,run out,1,0,1
+1320202,2022,Oman,19,PE Mendonca,70bab30b,GK Diviya,992979fa,A Dcosta,3a4d914f,0,0,0,0,1,A Dcosta,3a4d914f,Shafina Mahesh,0c40b02d,run out,0,0,0
+1320202,2022,Singapore,0,Zay Hua Tan,b0576916,S Channa,c30d7608,JT Pooranakaran,3a743619,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Singapore,0,Zay Hua Tan,b0576916,S Channa,c30d7608,JT Pooranakaran,3a743619,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Singapore,0,Zay Hua Tan,b0576916,S Channa,c30d7608,JT Pooranakaran,3a743619,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Singapore,0,Zay Hua Tan,b0576916,S Channa,c30d7608,JT Pooranakaran,3a743619,0,0,0,0,1,Zay Hua Tan,b0576916,,,bowled,0,0,0
+1320202,2022,Singapore,0,Shafina Mahesh,0c40b02d,S Channa,c30d7608,JT Pooranakaran,3a743619,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Singapore,0,Shafina Mahesh,0c40b02d,S Channa,c30d7608,JT Pooranakaran,3a743619,1,0,0,0,0,,,,,,0,1,1
+1320202,2022,Singapore,0,Shafina Mahesh,0c40b02d,S Channa,c30d7608,JT Pooranakaran,3a743619,0,0,0,0,0,,,,,,1,0,1
+1320202,2022,Singapore,1,Shafina Mahesh,0c40b02d,B Shetty,58c16165,JT Pooranakaran,3a743619,1,0,0,0,0,,,,,,0,1,1
+1320202,2022,Singapore,1,Shafina Mahesh,0c40b02d,B Shetty,58c16165,JT Pooranakaran,3a743619,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Singapore,1,Shafina Mahesh,0c40b02d,B Shetty,58c16165,JT Pooranakaran,3a743619,0,0,0,0,0,,,,,,4,0,4
+1320202,2022,Singapore,1,Shafina Mahesh,0c40b02d,B Shetty,58c16165,JT Pooranakaran,3a743619,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Singapore,1,Shafina Mahesh,0c40b02d,B Shetty,58c16165,JT Pooranakaran,3a743619,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Singapore,1,Shafina Mahesh,0c40b02d,B Shetty,58c16165,JT Pooranakaran,3a743619,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Singapore,1,Shafina Mahesh,0c40b02d,B Shetty,58c16165,JT Pooranakaran,3a743619,0,0,0,0,0,,,,,,1,0,1
+1320202,2022,Singapore,2,Shafina Mahesh,0c40b02d,S Channa,c30d7608,JT Pooranakaran,3a743619,0,0,0,0,0,,,,,,4,0,4
+1320202,2022,Singapore,2,Shafina Mahesh,0c40b02d,S Channa,c30d7608,JT Pooranakaran,3a743619,0,0,0,0,0,,,,,,1,0,1
+1320202,2022,Singapore,2,JT Pooranakaran,3a743619,S Channa,c30d7608,Shafina Mahesh,0c40b02d,0,0,0,4,0,,,,,,0,4,4
+1320202,2022,Singapore,2,JT Pooranakaran,3a743619,S Channa,c30d7608,Shafina Mahesh,0c40b02d,0,1,0,0,0,,,,,,0,1,1
+1320202,2022,Singapore,2,JT Pooranakaran,3a743619,S Channa,c30d7608,Shafina Mahesh,0c40b02d,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Singapore,2,JT Pooranakaran,3a743619,S Channa,c30d7608,Shafina Mahesh,0c40b02d,0,0,0,1,0,,,,,,0,1,1
+1320202,2022,Singapore,2,Shafina Mahesh,0c40b02d,S Channa,c30d7608,JT Pooranakaran,3a743619,0,0,0,0,0,,,,,,1,0,1
+1320202,2022,Singapore,3,Shafina Mahesh,0c40b02d,B Shetty,58c16165,JT Pooranakaran,3a743619,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Singapore,3,Shafina Mahesh,0c40b02d,B Shetty,58c16165,JT Pooranakaran,3a743619,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Singapore,3,Shafina Mahesh,0c40b02d,B Shetty,58c16165,JT Pooranakaran,3a743619,0,0,0,0,0,,,,,,1,0,1
+1320202,2022,Singapore,3,JT Pooranakaran,3a743619,B Shetty,58c16165,Shafina Mahesh,0c40b02d,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Singapore,3,JT Pooranakaran,3a743619,B Shetty,58c16165,Shafina Mahesh,0c40b02d,1,0,0,0,0,,,,,,0,1,1
+1320202,2022,Singapore,3,JT Pooranakaran,3a743619,B Shetty,58c16165,Shafina Mahesh,0c40b02d,0,0,0,0,1,JT Pooranakaran,3a743619,,,bowled,0,0,0
+1320202,2022,Singapore,3,GK Diviya,992979fa,B Shetty,58c16165,Shafina Mahesh,0c40b02d,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Singapore,4,Shafina Mahesh,0c40b02d,PE Mendonca,70bab30b,GK Diviya,992979fa,1,0,0,0,0,,,,,,0,1,1
+1320202,2022,Singapore,4,Shafina Mahesh,0c40b02d,PE Mendonca,70bab30b,GK Diviya,992979fa,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Singapore,4,Shafina Mahesh,0c40b02d,PE Mendonca,70bab30b,GK Diviya,992979fa,0,0,0,0,0,,,,,,1,0,1
+1320202,2022,Singapore,4,GK Diviya,992979fa,PE Mendonca,70bab30b,Shafina Mahesh,0c40b02d,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Singapore,4,GK Diviya,992979fa,PE Mendonca,70bab30b,Shafina Mahesh,0c40b02d,0,0,0,0,0,,,,,,2,0,2
+1320202,2022,Singapore,4,GK Diviya,992979fa,PE Mendonca,70bab30b,Shafina Mahesh,0c40b02d,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Singapore,4,GK Diviya,992979fa,PE Mendonca,70bab30b,Shafina Mahesh,0c40b02d,0,0,0,0,0,,,,,,1,0,1
+1320202,2022,Singapore,5,GK Diviya,992979fa,Sameera Khan,237baa2c,Shafina Mahesh,0c40b02d,0,0,0,0,0,,,,,,1,0,1
+1320202,2022,Singapore,5,Shafina Mahesh,0c40b02d,Sameera Khan,237baa2c,GK Diviya,992979fa,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Singapore,5,Shafina Mahesh,0c40b02d,Sameera Khan,237baa2c,GK Diviya,992979fa,0,0,0,0,0,,,,,,1,0,1
+1320202,2022,Singapore,5,GK Diviya,992979fa,Sameera Khan,237baa2c,Shafina Mahesh,0c40b02d,0,0,1,0,0,,,,,,0,1,1
+1320202,2022,Singapore,5,Shafina Mahesh,0c40b02d,Sameera Khan,237baa2c,GK Diviya,992979fa,0,0,0,0,0,,,,,,4,0,4
+1320202,2022,Singapore,5,Shafina Mahesh,0c40b02d,Sameera Khan,237baa2c,GK Diviya,992979fa,1,0,0,0,0,,,,,,0,1,1
+1320202,2022,Singapore,5,Shafina Mahesh,0c40b02d,Sameera Khan,237baa2c,GK Diviya,992979fa,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Singapore,6,GK Diviya,992979fa,PE Mendonca,70bab30b,Shafina Mahesh,0c40b02d,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Singapore,6,GK Diviya,992979fa,PE Mendonca,70bab30b,Shafina Mahesh,0c40b02d,0,0,0,0,0,,,,,,1,0,1
+1320202,2022,Singapore,6,Shafina Mahesh,0c40b02d,PE Mendonca,70bab30b,GK Diviya,992979fa,1,0,0,0,0,,,,,,0,1,1
+1320202,2022,Singapore,6,Shafina Mahesh,0c40b02d,PE Mendonca,70bab30b,GK Diviya,992979fa,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Singapore,6,Shafina Mahesh,0c40b02d,PE Mendonca,70bab30b,GK Diviya,992979fa,0,0,0,0,1,Shafina Mahesh,0c40b02d,,,bowled,0,0,0
+1320202,2022,Singapore,6,CH Abeyratne,ef423744,PE Mendonca,70bab30b,GK Diviya,992979fa,0,0,0,0,1,CH Abeyratne,ef423744,,,lbw,0,0,0
+1320202,2022,Singapore,6,Vinu Kumar,3775b9f9,PE Mendonca,70bab30b,GK Diviya,992979fa,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Singapore,7,GK Diviya,992979fa,Sameera Khan,237baa2c,Vinu Kumar,3775b9f9,0,0,0,0,0,,,,,,1,0,1
+1320202,2022,Singapore,7,Vinu Kumar,3775b9f9,Sameera Khan,237baa2c,GK Diviya,992979fa,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Singapore,7,Vinu Kumar,3775b9f9,Sameera Khan,237baa2c,GK Diviya,992979fa,0,0,0,0,0,,,,,,1,0,1
+1320202,2022,Singapore,7,GK Diviya,992979fa,Sameera Khan,237baa2c,Vinu Kumar,3775b9f9,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Singapore,7,GK Diviya,992979fa,Sameera Khan,237baa2c,Vinu Kumar,3775b9f9,0,0,0,0,0,,,,,,1,0,1
+1320202,2022,Singapore,7,Vinu Kumar,3775b9f9,Sameera Khan,237baa2c,GK Diviya,992979fa,0,0,0,0,0,,,,,,2,0,2
+1320202,2022,Singapore,8,GK Diviya,992979fa,PE Mendonca,70bab30b,Vinu Kumar,3775b9f9,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Singapore,8,GK Diviya,992979fa,PE Mendonca,70bab30b,Vinu Kumar,3775b9f9,1,0,0,0,0,,,,,,0,1,1
+1320202,2022,Singapore,8,GK Diviya,992979fa,PE Mendonca,70bab30b,Vinu Kumar,3775b9f9,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Singapore,8,GK Diviya,992979fa,PE Mendonca,70bab30b,Vinu Kumar,3775b9f9,0,0,0,0,0,,,,,,1,0,1
+1320202,2022,Singapore,8,Vinu Kumar,3775b9f9,PE Mendonca,70bab30b,GK Diviya,992979fa,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Singapore,8,Vinu Kumar,3775b9f9,PE Mendonca,70bab30b,GK Diviya,992979fa,0,0,0,0,0,,,,,,1,0,1
+1320202,2022,Singapore,8,GK Diviya,992979fa,PE Mendonca,70bab30b,Vinu Kumar,3775b9f9,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Singapore,9,Vinu Kumar,3775b9f9,Afida Afthab,9446598e,GK Diviya,992979fa,1,0,0,0,0,,,,,,0,1,1
+1320202,2022,Singapore,9,Vinu Kumar,3775b9f9,Afida Afthab,9446598e,GK Diviya,992979fa,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Singapore,9,Vinu Kumar,3775b9f9,Afida Afthab,9446598e,GK Diviya,992979fa,2,0,0,0,0,,,,,,0,2,2
+1320202,2022,Singapore,9,GK Diviya,992979fa,Afida Afthab,9446598e,Vinu Kumar,3775b9f9,0,0,0,0,0,,,,,,1,0,1
+1320202,2022,Singapore,9,Vinu Kumar,3775b9f9,Afida Afthab,9446598e,GK Diviya,992979fa,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Singapore,9,Vinu Kumar,3775b9f9,Afida Afthab,9446598e,GK Diviya,992979fa,0,0,0,0,0,,,,,,4,0,4
+1320202,2022,Singapore,9,Vinu Kumar,3775b9f9,Afida Afthab,9446598e,GK Diviya,992979fa,0,0,0,0,0,,,,,,1,0,1
+1320202,2022,Singapore,9,GK Diviya,992979fa,Afida Afthab,9446598e,Vinu Kumar,3775b9f9,0,0,0,0,0,,,,,,4,0,4
+1320202,2022,Singapore,10,Vinu Kumar,3775b9f9,A Dcosta,3a4d914f,GK Diviya,992979fa,1,0,0,0,0,,,,,,0,1,1
+1320202,2022,Singapore,10,Vinu Kumar,3775b9f9,A Dcosta,3a4d914f,GK Diviya,992979fa,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Singapore,10,Vinu Kumar,3775b9f9,A Dcosta,3a4d914f,GK Diviya,992979fa,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Singapore,10,Vinu Kumar,3775b9f9,A Dcosta,3a4d914f,GK Diviya,992979fa,0,0,0,0,0,,,,,,4,0,4
+1320202,2022,Singapore,10,Vinu Kumar,3775b9f9,A Dcosta,3a4d914f,GK Diviya,992979fa,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Singapore,10,Vinu Kumar,3775b9f9,A Dcosta,3a4d914f,GK Diviya,992979fa,0,0,0,0,0,,,,,,1,0,1
+1320202,2022,Singapore,10,GK Diviya,992979fa,A Dcosta,3a4d914f,Vinu Kumar,3775b9f9,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Singapore,11,Vinu Kumar,3775b9f9,Sameera Khan,237baa2c,GK Diviya,992979fa,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Singapore,11,Vinu Kumar,3775b9f9,Sameera Khan,237baa2c,GK Diviya,992979fa,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Singapore,11,Vinu Kumar,3775b9f9,Sameera Khan,237baa2c,GK Diviya,992979fa,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Singapore,11,Vinu Kumar,3775b9f9,Sameera Khan,237baa2c,GK Diviya,992979fa,0,0,0,0,0,,,,,,1,0,1
+1320202,2022,Singapore,11,GK Diviya,992979fa,Sameera Khan,237baa2c,Vinu Kumar,3775b9f9,0,0,0,0,0,,,,,,2,0,2
+1320202,2022,Singapore,11,GK Diviya,992979fa,Sameera Khan,237baa2c,Vinu Kumar,3775b9f9,0,0,0,0,0,,,,,,1,0,1
+1320202,2022,Singapore,12,GK Diviya,992979fa,A Dcosta,3a4d914f,Vinu Kumar,3775b9f9,0,0,0,0,0,,,,,,1,0,1
+1320202,2022,Singapore,12,Vinu Kumar,3775b9f9,A Dcosta,3a4d914f,GK Diviya,992979fa,0,0,0,0,0,,,,,,1,0,1
+1320202,2022,Singapore,12,GK Diviya,992979fa,A Dcosta,3a4d914f,Vinu Kumar,3775b9f9,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Singapore,12,GK Diviya,992979fa,A Dcosta,3a4d914f,Vinu Kumar,3775b9f9,0,0,0,0,0,,,,,,1,0,1
+1320202,2022,Singapore,12,Vinu Kumar,3775b9f9,A Dcosta,3a4d914f,GK Diviya,992979fa,0,0,0,0,0,,,,,,2,0,2
+1320202,2022,Singapore,12,Vinu Kumar,3775b9f9,A Dcosta,3a4d914f,GK Diviya,992979fa,0,0,0,0,0,,,,,,1,0,1
+1320202,2022,Singapore,13,Vinu Kumar,3775b9f9,Sameera Khan,237baa2c,GK Diviya,992979fa,0,0,0,0,0,,,,,,1,0,1
+1320202,2022,Singapore,13,GK Diviya,992979fa,Sameera Khan,237baa2c,Vinu Kumar,3775b9f9,0,0,0,0,0,,,,,,1,0,1
+1320202,2022,Singapore,13,Vinu Kumar,3775b9f9,Sameera Khan,237baa2c,GK Diviya,992979fa,0,0,0,0,0,,,,,,2,0,2
+1320202,2022,Singapore,13,Vinu Kumar,3775b9f9,Sameera Khan,237baa2c,GK Diviya,992979fa,0,0,0,0,0,,,,,,1,0,1
+1320202,2022,Singapore,13,GK Diviya,992979fa,Sameera Khan,237baa2c,Vinu Kumar,3775b9f9,0,0,0,0,0,,,,,,1,0,1
+1320202,2022,Singapore,13,Vinu Kumar,3775b9f9,Sameera Khan,237baa2c,GK Diviya,992979fa,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Singapore,14,GK Diviya,992979fa,A Dcosta,3a4d914f,Vinu Kumar,3775b9f9,0,0,0,0,0,,,,,,1,0,1
+1320202,2022,Singapore,14,Vinu Kumar,3775b9f9,A Dcosta,3a4d914f,GK Diviya,992979fa,0,0,0,0,0,,,,,,4,0,4
+1320202,2022,Singapore,14,Vinu Kumar,3775b9f9,A Dcosta,3a4d914f,GK Diviya,992979fa,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Singapore,14,Vinu Kumar,3775b9f9,A Dcosta,3a4d914f,GK Diviya,992979fa,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Singapore,14,Vinu Kumar,3775b9f9,A Dcosta,3a4d914f,GK Diviya,992979fa,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Singapore,14,Vinu Kumar,3775b9f9,A Dcosta,3a4d914f,GK Diviya,992979fa,1,0,0,0,0,,,,,,0,1,1
+1320202,2022,Singapore,14,Vinu Kumar,3775b9f9,A Dcosta,3a4d914f,GK Diviya,992979fa,0,0,0,0,0,,,,,,1,0,1
+1320202,2022,Singapore,15,Vinu Kumar,3775b9f9,PE Mendonca,70bab30b,GK Diviya,992979fa,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Singapore,15,Vinu Kumar,3775b9f9,PE Mendonca,70bab30b,GK Diviya,992979fa,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Singapore,15,Vinu Kumar,3775b9f9,PE Mendonca,70bab30b,GK Diviya,992979fa,0,0,0,0,0,,,,,,1,0,1
+1320202,2022,Singapore,15,GK Diviya,992979fa,PE Mendonca,70bab30b,Vinu Kumar,3775b9f9,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Singapore,15,GK Diviya,992979fa,PE Mendonca,70bab30b,Vinu Kumar,3775b9f9,1,0,0,0,0,,,,,,0,1,1
+1320202,2022,Singapore,15,GK Diviya,992979fa,PE Mendonca,70bab30b,Vinu Kumar,3775b9f9,0,0,0,0,0,,,,,,1,0,1
+1320202,2022,Singapore,15,Vinu Kumar,3775b9f9,PE Mendonca,70bab30b,GK Diviya,992979fa,0,0,0,0,0,,,,,,2,0,2
+1320202,2022,Singapore,16,GK Diviya,992979fa,S Channa,c30d7608,Vinu Kumar,3775b9f9,0,0,0,0,0,,,,,,1,0,1
+1320202,2022,Singapore,16,Vinu Kumar,3775b9f9,S Channa,c30d7608,GK Diviya,992979fa,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Singapore,16,Vinu Kumar,3775b9f9,S Channa,c30d7608,GK Diviya,992979fa,0,0,0,0,0,,,,,,1,0,1
+1320202,2022,Singapore,16,GK Diviya,992979fa,S Channa,c30d7608,Vinu Kumar,3775b9f9,0,0,1,0,0,,,,,,0,1,1
+1320202,2022,Singapore,16,Vinu Kumar,3775b9f9,S Channa,c30d7608,GK Diviya,992979fa,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Singapore,16,Vinu Kumar,3775b9f9,S Channa,c30d7608,GK Diviya,992979fa,0,1,0,0,0,,,,,,4,1,5
+1320202,2022,Singapore,16,Vinu Kumar,3775b9f9,S Channa,c30d7608,GK Diviya,992979fa,1,0,0,0,0,,,,,,0,1,1
+1320202,2022,Singapore,16,Vinu Kumar,3775b9f9,S Channa,c30d7608,GK Diviya,992979fa,0,0,0,0,0,,,,,,1,0,1
+1320202,2022,Singapore,17,Vinu Kumar,3775b9f9,B Shetty,58c16165,GK Diviya,992979fa,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Singapore,17,Vinu Kumar,3775b9f9,B Shetty,58c16165,GK Diviya,992979fa,0,0,0,0,0,,,,,,1,0,1
+1320202,2022,Singapore,17,GK Diviya,992979fa,B Shetty,58c16165,Vinu Kumar,3775b9f9,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Singapore,17,GK Diviya,992979fa,B Shetty,58c16165,Vinu Kumar,3775b9f9,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Singapore,17,GK Diviya,992979fa,B Shetty,58c16165,Vinu Kumar,3775b9f9,0,0,0,0,0,,,,,,1,0,1
+1320202,2022,Singapore,17,Vinu Kumar,3775b9f9,B Shetty,58c16165,GK Diviya,992979fa,0,0,0,1,0,,,,,,0,1,1
+1320202,2022,Singapore,18,Vinu Kumar,3775b9f9,S Channa,c30d7608,GK Diviya,992979fa,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Singapore,18,Vinu Kumar,3775b9f9,S Channa,c30d7608,GK Diviya,992979fa,0,0,0,0,1,Vinu Kumar,3775b9f9,,,bowled,0,0,0
+1320202,2022,Singapore,18,Ada Bhasin,b1c113d7,S Channa,c30d7608,GK Diviya,992979fa,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Singapore,18,Ada Bhasin,b1c113d7,S Channa,c30d7608,GK Diviya,992979fa,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Singapore,18,Ada Bhasin,b1c113d7,S Channa,c30d7608,GK Diviya,992979fa,0,0,0,0,0,,,,,,1,0,1
+1320202,2022,Singapore,18,GK Diviya,992979fa,S Channa,c30d7608,Ada Bhasin,b1c113d7,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Singapore,19,Ada Bhasin,b1c113d7,B Shetty,58c16165,GK Diviya,992979fa,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Singapore,19,Ada Bhasin,b1c113d7,B Shetty,58c16165,GK Diviya,992979fa,1,0,0,0,0,,,,,,0,1,1
+1320202,2022,Singapore,19,Ada Bhasin,b1c113d7,B Shetty,58c16165,GK Diviya,992979fa,0,0,0,0,0,,,,,,0,0,0
+1320202,2022,Singapore,19,Ada Bhasin,b1c113d7,B Shetty,58c16165,GK Diviya,992979fa,0,0,0,0,0,,,,,,1,0,1
+1320202,2022,Singapore,19,GK Diviya,992979fa,B Shetty,58c16165,Ada Bhasin,b1c113d7,0,0,0,0,0,,,,,,1,0,1
+1320202,2022,Singapore,19,Ada Bhasin,b1c113d7,B Shetty,58c16165,GK Diviya,992979fa,0,0,0,0,0,,,,,,1,0,1

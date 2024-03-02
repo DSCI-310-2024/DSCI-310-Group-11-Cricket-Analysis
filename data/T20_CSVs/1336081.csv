@@ -1,0 +1,198 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1336081,2023,England,0,DN Wyatt,a139c379,AC Jayangani,ac56b5a7,ME Bouchier,c2554b59,0,0,0,0,0,,,,,,0,0,0
+1336081,2023,England,0,DN Wyatt,a139c379,AC Jayangani,ac56b5a7,ME Bouchier,c2554b59,0,0,0,0,0,,,,,,0,0,0
+1336081,2023,England,0,DN Wyatt,a139c379,AC Jayangani,ac56b5a7,ME Bouchier,c2554b59,0,0,0,0,0,,,,,,1,0,1
+1336081,2023,England,0,ME Bouchier,c2554b59,AC Jayangani,ac56b5a7,DN Wyatt,a139c379,0,0,0,0,0,,,,,,4,0,4
+1336081,2023,England,0,ME Bouchier,c2554b59,AC Jayangani,ac56b5a7,DN Wyatt,a139c379,0,0,0,0,0,,,,,,1,0,1
+1336081,2023,England,0,DN Wyatt,a139c379,AC Jayangani,ac56b5a7,ME Bouchier,c2554b59,0,0,0,0,1,DN Wyatt,a139c379,,,bowled,0,0,0
+1336081,2023,England,1,ME Bouchier,c2554b59,KDU Prabodhani,a0fdf513,A Capsey,910dd54e,0,0,0,0,0,,,,,,0,0,0
+1336081,2023,England,1,ME Bouchier,c2554b59,KDU Prabodhani,a0fdf513,A Capsey,910dd54e,0,0,0,0,0,,,,,,0,0,0
+1336081,2023,England,1,ME Bouchier,c2554b59,KDU Prabodhani,a0fdf513,A Capsey,910dd54e,0,0,0,0,0,,,,,,1,0,1
+1336081,2023,England,1,A Capsey,910dd54e,KDU Prabodhani,a0fdf513,ME Bouchier,c2554b59,0,0,0,0,0,,,,,,1,0,1
+1336081,2023,England,1,ME Bouchier,c2554b59,KDU Prabodhani,a0fdf513,A Capsey,910dd54e,0,0,0,0,0,,,,,,0,0,0
+1336081,2023,England,1,ME Bouchier,c2554b59,KDU Prabodhani,a0fdf513,A Capsey,910dd54e,0,0,0,0,0,,,,,,4,0,4
+1336081,2023,England,2,A Capsey,910dd54e,SIP Fernando,5838cb64,ME Bouchier,c2554b59,0,0,0,0,0,,,,,,0,0,0
+1336081,2023,England,2,A Capsey,910dd54e,SIP Fernando,5838cb64,ME Bouchier,c2554b59,0,0,0,0,0,,,,,,0,0,0
+1336081,2023,England,2,A Capsey,910dd54e,SIP Fernando,5838cb64,ME Bouchier,c2554b59,0,0,0,0,0,,,,,,0,0,0
+1336081,2023,England,2,A Capsey,910dd54e,SIP Fernando,5838cb64,ME Bouchier,c2554b59,0,0,0,0,0,,,,,,0,0,0
+1336081,2023,England,2,A Capsey,910dd54e,SIP Fernando,5838cb64,ME Bouchier,c2554b59,0,0,0,0,0,,,,,,0,0,0
+1336081,2023,England,2,A Capsey,910dd54e,SIP Fernando,5838cb64,ME Bouchier,c2554b59,0,0,0,0,0,,,,,,1,0,1
+1336081,2023,England,3,A Capsey,910dd54e,BMSM Kumari,b55fb828,ME Bouchier,c2554b59,0,0,0,0,0,,,,,,1,0,1
+1336081,2023,England,3,ME Bouchier,c2554b59,BMSM Kumari,b55fb828,A Capsey,910dd54e,0,0,0,0,0,,,,,,1,0,1
+1336081,2023,England,3,A Capsey,910dd54e,BMSM Kumari,b55fb828,ME Bouchier,c2554b59,0,0,0,0,1,A Capsey,910dd54e,SIP Fernando,5838cb64,caught,0,0,0
+1336081,2023,England,3,HC Knight,4ba0289e,BMSM Kumari,b55fb828,ME Bouchier,c2554b59,0,0,0,0,0,,,,,,4,0,4
+1336081,2023,England,3,HC Knight,4ba0289e,BMSM Kumari,b55fb828,ME Bouchier,c2554b59,0,0,0,0,0,,,,,,1,0,1
+1336081,2023,England,3,ME Bouchier,c2554b59,BMSM Kumari,b55fb828,HC Knight,4ba0289e,0,0,0,0,0,,,,,,1,0,1
+1336081,2023,England,4,ME Bouchier,c2554b59,SIP Fernando,5838cb64,HC Knight,4ba0289e,0,0,0,0,1,ME Bouchier,c2554b59,WK Dilhari,c34a15e6,caught,0,0,0
+1336081,2023,England,4,AE Jones,b05e45e4,SIP Fernando,5838cb64,HC Knight,4ba0289e,0,0,0,0,0,,,,,,0,0,0
+1336081,2023,England,4,AE Jones,b05e45e4,SIP Fernando,5838cb64,HC Knight,4ba0289e,0,0,0,0,0,,,,,,4,0,4
+1336081,2023,England,4,AE Jones,b05e45e4,SIP Fernando,5838cb64,HC Knight,4ba0289e,0,0,0,0,0,,,,,,0,0,0
+1336081,2023,England,4,AE Jones,b05e45e4,SIP Fernando,5838cb64,HC Knight,4ba0289e,0,0,0,0,0,,,,,,0,0,0
+1336081,2023,England,4,AE Jones,b05e45e4,SIP Fernando,5838cb64,HC Knight,4ba0289e,0,0,0,0,0,,,,,,0,0,0
+1336081,2023,England,5,HC Knight,4ba0289e,KDU Prabodhani,a0fdf513,AE Jones,b05e45e4,1,0,0,0,0,,,,,,0,1,1
+1336081,2023,England,5,HC Knight,4ba0289e,KDU Prabodhani,a0fdf513,AE Jones,b05e45e4,0,0,0,0,0,,,,,,0,0,0
+1336081,2023,England,5,HC Knight,4ba0289e,KDU Prabodhani,a0fdf513,AE Jones,b05e45e4,0,0,0,0,0,,,,,,1,0,1
+1336081,2023,England,5,AE Jones,b05e45e4,KDU Prabodhani,a0fdf513,HC Knight,4ba0289e,0,0,0,0,0,,,,,,0,0,0
+1336081,2023,England,5,AE Jones,b05e45e4,KDU Prabodhani,a0fdf513,HC Knight,4ba0289e,0,0,0,0,0,,,,,,1,0,1
+1336081,2023,England,5,HC Knight,4ba0289e,KDU Prabodhani,a0fdf513,AE Jones,b05e45e4,0,0,0,0,0,,,,,,4,0,4
+1336081,2023,England,5,HC Knight,4ba0289e,KDU Prabodhani,a0fdf513,AE Jones,b05e45e4,0,0,0,0,0,,,,,,0,0,0
+1336081,2023,England,6,AE Jones,b05e45e4,AC Jayangani,ac56b5a7,HC Knight,4ba0289e,0,0,0,0,0,,,,,,1,0,1
+1336081,2023,England,6,HC Knight,4ba0289e,AC Jayangani,ac56b5a7,AE Jones,b05e45e4,0,0,0,0,0,,,,,,0,0,0
+1336081,2023,England,6,HC Knight,4ba0289e,AC Jayangani,ac56b5a7,AE Jones,b05e45e4,0,0,0,0,0,,,,,,0,0,0
+1336081,2023,England,6,HC Knight,4ba0289e,AC Jayangani,ac56b5a7,AE Jones,b05e45e4,0,0,0,0,0,,,,,,0,0,0
+1336081,2023,England,6,HC Knight,4ba0289e,AC Jayangani,ac56b5a7,AE Jones,b05e45e4,0,0,0,0,0,,,,,,1,0,1
+1336081,2023,England,6,AE Jones,b05e45e4,AC Jayangani,ac56b5a7,HC Knight,4ba0289e,0,0,0,0,0,,,,,,1,0,1
+1336081,2023,England,7,AE Jones,b05e45e4,I Ranaweera,a61850e6,HC Knight,4ba0289e,0,0,0,0,0,,,,,,1,0,1
+1336081,2023,England,7,HC Knight,4ba0289e,I Ranaweera,a61850e6,AE Jones,b05e45e4,0,0,0,0,0,,,,,,0,0,0
+1336081,2023,England,7,HC Knight,4ba0289e,I Ranaweera,a61850e6,AE Jones,b05e45e4,0,0,0,0,0,,,,,,1,0,1
+1336081,2023,England,7,AE Jones,b05e45e4,I Ranaweera,a61850e6,HC Knight,4ba0289e,0,0,0,0,0,,,,,,4,0,4
+1336081,2023,England,7,AE Jones,b05e45e4,I Ranaweera,a61850e6,HC Knight,4ba0289e,0,0,0,0,1,AE Jones,b05e45e4,,,lbw,0,0,0
+1336081,2023,England,7,FG Kemp,abc9f8a4,I Ranaweera,a61850e6,HC Knight,4ba0289e,0,0,0,0,0,,,,,,1,0,1
+1336081,2023,England,8,FG Kemp,abc9f8a4,WK Dilhari,c34a15e6,HC Knight,4ba0289e,1,0,0,0,0,,,,,,0,1,1
+1336081,2023,England,8,FG Kemp,abc9f8a4,WK Dilhari,c34a15e6,HC Knight,4ba0289e,0,0,0,0,0,,,,,,1,0,1
+1336081,2023,England,8,HC Knight,4ba0289e,WK Dilhari,c34a15e6,FG Kemp,abc9f8a4,0,0,0,0,0,,,,,,1,0,1
+1336081,2023,England,8,FG Kemp,abc9f8a4,WK Dilhari,c34a15e6,HC Knight,4ba0289e,1,0,0,0,1,FG Kemp,abc9f8a4,MAA Sanjeewani,318a4039,stumped,0,1,1
+1336081,2023,England,8,DR Gibson,d2763568,WK Dilhari,c34a15e6,HC Knight,4ba0289e,0,0,0,0,0,,,,,,1,0,1
+1336081,2023,England,8,HC Knight,4ba0289e,WK Dilhari,c34a15e6,DR Gibson,d2763568,0,0,0,0,0,,,,,,1,0,1
+1336081,2023,England,8,DR Gibson,d2763568,WK Dilhari,c34a15e6,HC Knight,4ba0289e,0,0,0,0,0,,,,,,0,0,0
+1336081,2023,England,8,DR Gibson,d2763568,WK Dilhari,c34a15e6,HC Knight,4ba0289e,0,0,0,0,0,,,,,,0,0,0
+1336081,2023,England,9,HC Knight,4ba0289e,I Ranaweera,a61850e6,DR Gibson,d2763568,0,0,0,0,0,,,,,,0,0,0
+1336081,2023,England,9,HC Knight,4ba0289e,I Ranaweera,a61850e6,DR Gibson,d2763568,0,0,0,0,1,HC Knight,4ba0289e,,,caught and bowled,0,0,0
+1336081,2023,England,9,CE Dean,c6625a26,I Ranaweera,a61850e6,DR Gibson,d2763568,0,0,0,0,0,,,,,,1,0,1
+1336081,2023,England,9,DR Gibson,d2763568,I Ranaweera,a61850e6,CE Dean,c6625a26,0,0,0,0,0,,,,,,1,0,1
+1336081,2023,England,9,CE Dean,c6625a26,I Ranaweera,a61850e6,DR Gibson,d2763568,0,0,0,0,0,,,,,,0,0,0
+1336081,2023,England,9,CE Dean,c6625a26,I Ranaweera,a61850e6,DR Gibson,d2763568,0,0,0,0,0,,,,,,1,0,1
+1336081,2023,England,10,CE Dean,c6625a26,BMSM Kumari,b55fb828,DR Gibson,d2763568,0,0,0,0,0,,,,,,2,0,2
+1336081,2023,England,10,CE Dean,c6625a26,BMSM Kumari,b55fb828,DR Gibson,d2763568,0,0,0,0,0,,,,,,1,0,1
+1336081,2023,England,10,DR Gibson,d2763568,BMSM Kumari,b55fb828,CE Dean,c6625a26,0,0,0,0,0,,,,,,0,0,0
+1336081,2023,England,10,DR Gibson,d2763568,BMSM Kumari,b55fb828,CE Dean,c6625a26,0,0,0,0,0,,,,,,4,0,4
+1336081,2023,England,10,DR Gibson,d2763568,BMSM Kumari,b55fb828,CE Dean,c6625a26,0,0,0,0,0,,,,,,0,0,0
+1336081,2023,England,10,DR Gibson,d2763568,BMSM Kumari,b55fb828,CE Dean,c6625a26,0,0,0,0,0,,,,,,1,0,1
+1336081,2023,England,11,DR Gibson,d2763568,SIP Fernando,5838cb64,CE Dean,c6625a26,0,0,0,0,0,,,,,,1,0,1
+1336081,2023,England,11,CE Dean,c6625a26,SIP Fernando,5838cb64,DR Gibson,d2763568,0,0,0,0,0,,,,,,2,0,2
+1336081,2023,England,11,CE Dean,c6625a26,SIP Fernando,5838cb64,DR Gibson,d2763568,0,0,0,0,0,,,,,,1,0,1
+1336081,2023,England,11,DR Gibson,d2763568,SIP Fernando,5838cb64,CE Dean,c6625a26,0,0,0,0,0,,,,,,1,0,1
+1336081,2023,England,11,CE Dean,c6625a26,SIP Fernando,5838cb64,DR Gibson,d2763568,0,0,0,0,0,,,,,,1,0,1
+1336081,2023,England,11,DR Gibson,d2763568,SIP Fernando,5838cb64,CE Dean,c6625a26,0,0,0,0,1,DR Gibson,d2763568,I Ranaweera,a61850e6,caught,0,0,0
+1336081,2023,England,12,CE Dean,c6625a26,WK Dilhari,c34a15e6,S Glenn,b34e0c77,0,0,0,0,0,,,,,,1,0,1
+1336081,2023,England,12,S Glenn,b34e0c77,WK Dilhari,c34a15e6,CE Dean,c6625a26,0,0,0,0,0,,,,,,0,0,0
+1336081,2023,England,12,S Glenn,b34e0c77,WK Dilhari,c34a15e6,CE Dean,c6625a26,0,0,0,0,0,,,,,,0,0,0
+1336081,2023,England,12,S Glenn,b34e0c77,WK Dilhari,c34a15e6,CE Dean,c6625a26,0,0,0,0,0,,,,,,0,0,0
+1336081,2023,England,12,S Glenn,b34e0c77,WK Dilhari,c34a15e6,CE Dean,c6625a26,0,0,0,0,1,S Glenn,b34e0c77,MAA Sanjeewani,318a4039,caught,0,0,0
+1336081,2023,England,12,IECM Wong,e5b17517,WK Dilhari,c34a15e6,CE Dean,c6625a26,0,0,0,0,0,,,,,,1,0,1
+1336081,2023,England,13,IECM Wong,e5b17517,I Ranaweera,a61850e6,CE Dean,c6625a26,0,0,0,0,0,,,,,,1,0,1
+1336081,2023,England,13,CE Dean,c6625a26,I Ranaweera,a61850e6,IECM Wong,e5b17517,0,0,0,0,0,,,,,,1,0,1
+1336081,2023,England,13,IECM Wong,e5b17517,I Ranaweera,a61850e6,CE Dean,c6625a26,0,0,0,0,0,,,,,,1,0,1
+1336081,2023,England,13,CE Dean,c6625a26,I Ranaweera,a61850e6,IECM Wong,e5b17517,0,0,0,0,0,,,,,,4,0,4
+1336081,2023,England,13,CE Dean,c6625a26,I Ranaweera,a61850e6,IECM Wong,e5b17517,0,0,0,0,0,,,,,,4,0,4
+1336081,2023,England,13,CE Dean,c6625a26,I Ranaweera,a61850e6,IECM Wong,e5b17517,0,0,0,0,0,,,,,,4,0,4
+1336081,2023,England,14,IECM Wong,e5b17517,AC Jayangani,ac56b5a7,CE Dean,c6625a26,0,0,0,0,0,,,,,,0,0,0
+1336081,2023,England,14,IECM Wong,e5b17517,AC Jayangani,ac56b5a7,CE Dean,c6625a26,0,0,0,0,0,,,,,,0,0,0
+1336081,2023,England,14,IECM Wong,e5b17517,AC Jayangani,ac56b5a7,CE Dean,c6625a26,0,0,0,0,0,,,,,,1,0,1
+1336081,2023,England,14,CE Dean,c6625a26,AC Jayangani,ac56b5a7,IECM Wong,e5b17517,0,0,0,0,0,,,,,,0,0,0
+1336081,2023,England,14,CE Dean,c6625a26,AC Jayangani,ac56b5a7,IECM Wong,e5b17517,0,0,0,0,0,,,,,,0,0,0
+1336081,2023,England,14,CE Dean,c6625a26,AC Jayangani,ac56b5a7,IECM Wong,e5b17517,0,0,0,0,0,,,,,,1,0,1
+1336081,2023,England,15,CE Dean,c6625a26,SIP Fernando,5838cb64,IECM Wong,e5b17517,0,0,0,0,0,,,,,,1,0,1
+1336081,2023,England,15,IECM Wong,e5b17517,SIP Fernando,5838cb64,CE Dean,c6625a26,0,0,0,0,0,,,,,,1,0,1
+1336081,2023,England,15,CE Dean,c6625a26,SIP Fernando,5838cb64,IECM Wong,e5b17517,0,0,0,0,0,,,,,,1,0,1
+1336081,2023,England,15,IECM Wong,e5b17517,SIP Fernando,5838cb64,CE Dean,c6625a26,0,0,0,0,0,,,,,,1,0,1
+1336081,2023,England,15,CE Dean,c6625a26,SIP Fernando,5838cb64,IECM Wong,e5b17517,0,0,0,0,0,,,,,,0,0,0
+1336081,2023,England,15,CE Dean,c6625a26,SIP Fernando,5838cb64,IECM Wong,e5b17517,0,0,0,0,0,,,,,,1,0,1
+1336081,2023,England,16,CE Dean,c6625a26,WK Dilhari,c34a15e6,IECM Wong,e5b17517,0,0,0,0,0,,,,,,1,0,1
+1336081,2023,England,16,IECM Wong,e5b17517,WK Dilhari,c34a15e6,CE Dean,c6625a26,0,0,0,0,0,,,,,,3,0,3
+1336081,2023,England,16,CE Dean,c6625a26,WK Dilhari,c34a15e6,IECM Wong,e5b17517,0,0,0,0,0,,,,,,0,0,0
+1336081,2023,England,16,CE Dean,c6625a26,WK Dilhari,c34a15e6,IECM Wong,e5b17517,0,0,0,0,0,,,,,,1,0,1
+1336081,2023,England,16,IECM Wong,e5b17517,WK Dilhari,c34a15e6,CE Dean,c6625a26,0,0,0,0,0,,,,,,4,0,4
+1336081,2023,England,16,IECM Wong,e5b17517,WK Dilhari,c34a15e6,CE Dean,c6625a26,0,0,0,0,0,,,,,,0,0,0
+1336081,2023,England,17,CE Dean,c6625a26,KDU Prabodhani,a0fdf513,IECM Wong,e5b17517,0,0,0,0,0,,,,,,1,0,1
+1336081,2023,England,17,IECM Wong,e5b17517,KDU Prabodhani,a0fdf513,CE Dean,c6625a26,0,0,0,0,1,IECM Wong,e5b17517,,,bowled,0,0,0
+1336081,2023,England,17,KL Cross,1ade138e,KDU Prabodhani,a0fdf513,CE Dean,c6625a26,0,0,0,0,0,,,,,,0,0,0
+1336081,2023,England,17,KL Cross,1ade138e,KDU Prabodhani,a0fdf513,CE Dean,c6625a26,0,0,0,0,0,,,,,,1,0,1
+1336081,2023,England,17,CE Dean,c6625a26,KDU Prabodhani,a0fdf513,KL Cross,1ade138e,0,0,0,0,0,,,,,,4,0,4
+1336081,2023,England,17,CE Dean,c6625a26,KDU Prabodhani,a0fdf513,KL Cross,1ade138e,0,0,0,0,1,CE Dean,c6625a26,,,bowled,0,0,0
+1336081,2023,Sri Lanka,0,AC Jayangani,ac56b5a7,KL Cross,1ade138e,MAA Sanjeewani,318a4039,0,0,0,0,0,,,,,,0,0,0
+1336081,2023,Sri Lanka,0,AC Jayangani,ac56b5a7,KL Cross,1ade138e,MAA Sanjeewani,318a4039,0,0,0,0,0,,,,,,4,0,4
+1336081,2023,Sri Lanka,0,AC Jayangani,ac56b5a7,KL Cross,1ade138e,MAA Sanjeewani,318a4039,0,0,0,0,0,,,,,,0,0,0
+1336081,2023,Sri Lanka,0,AC Jayangani,ac56b5a7,KL Cross,1ade138e,MAA Sanjeewani,318a4039,0,0,0,0,0,,,,,,0,0,0
+1336081,2023,Sri Lanka,0,AC Jayangani,ac56b5a7,KL Cross,1ade138e,MAA Sanjeewani,318a4039,0,0,0,0,0,,,,,,2,0,2
+1336081,2023,Sri Lanka,0,AC Jayangani,ac56b5a7,KL Cross,1ade138e,MAA Sanjeewani,318a4039,0,0,0,0,0,,,,,,0,0,0
+1336081,2023,Sri Lanka,1,MAA Sanjeewani,318a4039,DR Gibson,d2763568,AC Jayangani,ac56b5a7,0,1,0,0,0,,,,,,0,1,1
+1336081,2023,Sri Lanka,1,MAA Sanjeewani,318a4039,DR Gibson,d2763568,AC Jayangani,ac56b5a7,0,0,0,0,0,,,,,,0,0,0
+1336081,2023,Sri Lanka,1,MAA Sanjeewani,318a4039,DR Gibson,d2763568,AC Jayangani,ac56b5a7,0,1,0,0,0,,,,,,1,1,2
+1336081,2023,Sri Lanka,1,AC Jayangani,ac56b5a7,DR Gibson,d2763568,MAA Sanjeewani,318a4039,0,0,0,0,0,,,,,,1,0,1
+1336081,2023,Sri Lanka,1,MAA Sanjeewani,318a4039,DR Gibson,d2763568,AC Jayangani,ac56b5a7,0,0,0,0,1,MAA Sanjeewani,318a4039,CE Dean,c6625a26,caught,0,0,0
+1336081,2023,Sri Lanka,1,H Madavi,85021bcd,DR Gibson,d2763568,AC Jayangani,ac56b5a7,0,0,0,0,0,,,,,,0,0,0
+1336081,2023,Sri Lanka,1,H Madavi,85021bcd,DR Gibson,d2763568,AC Jayangani,ac56b5a7,0,0,0,0,0,,,,,,4,0,4
+1336081,2023,Sri Lanka,1,H Madavi,85021bcd,DR Gibson,d2763568,AC Jayangani,ac56b5a7,0,0,0,0,0,,,,,,1,0,1
+1336081,2023,Sri Lanka,2,H Madavi,85021bcd,KL Cross,1ade138e,AC Jayangani,ac56b5a7,0,0,0,0,0,,,,,,1,0,1
+1336081,2023,Sri Lanka,2,AC Jayangani,ac56b5a7,KL Cross,1ade138e,H Madavi,85021bcd,0,0,0,0,0,,,,,,2,0,2
+1336081,2023,Sri Lanka,2,AC Jayangani,ac56b5a7,KL Cross,1ade138e,H Madavi,85021bcd,0,0,0,0,0,,,,,,4,0,4
+1336081,2023,Sri Lanka,2,AC Jayangani,ac56b5a7,KL Cross,1ade138e,H Madavi,85021bcd,0,0,0,0,0,,,,,,4,0,4
+1336081,2023,Sri Lanka,2,AC Jayangani,ac56b5a7,KL Cross,1ade138e,H Madavi,85021bcd,0,0,0,0,0,,,,,,4,0,4
+1336081,2023,Sri Lanka,2,AC Jayangani,ac56b5a7,KL Cross,1ade138e,H Madavi,85021bcd,0,0,0,0,0,,,,,,6,0,6
+1336081,2023,Sri Lanka,3,H Madavi,85021bcd,CE Dean,c6625a26,AC Jayangani,ac56b5a7,0,0,0,0,0,,,,,,0,0,0
+1336081,2023,Sri Lanka,3,H Madavi,85021bcd,CE Dean,c6625a26,AC Jayangani,ac56b5a7,0,0,0,0,0,,,,,,0,0,0
+1336081,2023,Sri Lanka,3,H Madavi,85021bcd,CE Dean,c6625a26,AC Jayangani,ac56b5a7,0,0,0,0,0,,,,,,0,0,0
+1336081,2023,Sri Lanka,3,H Madavi,85021bcd,CE Dean,c6625a26,AC Jayangani,ac56b5a7,0,0,0,0,0,,,,,,1,0,1
+1336081,2023,Sri Lanka,3,AC Jayangani,ac56b5a7,CE Dean,c6625a26,H Madavi,85021bcd,0,0,0,0,0,,,,,,0,0,0
+1336081,2023,Sri Lanka,3,AC Jayangani,ac56b5a7,CE Dean,c6625a26,H Madavi,85021bcd,0,0,0,0,0,,,,,,4,0,4
+1336081,2023,Sri Lanka,4,H Madavi,85021bcd,IECM Wong,e5b17517,AC Jayangani,ac56b5a7,0,1,0,0,0,,,,,,4,1,5
+1336081,2023,Sri Lanka,4,H Madavi,85021bcd,IECM Wong,e5b17517,AC Jayangani,ac56b5a7,0,0,0,0,0,,,,,,1,0,1
+1336081,2023,Sri Lanka,4,AC Jayangani,ac56b5a7,IECM Wong,e5b17517,H Madavi,85021bcd,0,1,0,0,0,,,,,,1,1,2
+1336081,2023,Sri Lanka,4,H Madavi,85021bcd,IECM Wong,e5b17517,AC Jayangani,ac56b5a7,0,0,0,0,0,,,,,,1,0,1
+1336081,2023,Sri Lanka,4,AC Jayangani,ac56b5a7,IECM Wong,e5b17517,H Madavi,85021bcd,0,0,0,0,0,,,,,,0,0,0
+1336081,2023,Sri Lanka,4,AC Jayangani,ac56b5a7,IECM Wong,e5b17517,H Madavi,85021bcd,0,1,0,0,0,,,,,,1,1,2
+1336081,2023,Sri Lanka,4,H Madavi,85021bcd,IECM Wong,e5b17517,AC Jayangani,ac56b5a7,0,0,0,0,0,,,,,,0,0,0
+1336081,2023,Sri Lanka,4,H Madavi,85021bcd,IECM Wong,e5b17517,AC Jayangani,ac56b5a7,1,0,0,0,0,,,,,,0,1,1
+1336081,2023,Sri Lanka,4,H Madavi,85021bcd,IECM Wong,e5b17517,AC Jayangani,ac56b5a7,0,0,0,0,0,,,,,,0,0,0
+1336081,2023,Sri Lanka,4,H Madavi,85021bcd,IECM Wong,e5b17517,AC Jayangani,ac56b5a7,0,0,0,0,0,,,,,,0,0,0
+1336081,2023,Sri Lanka,5,AC Jayangani,ac56b5a7,CE Dean,c6625a26,H Madavi,85021bcd,0,0,0,0,0,,,,,,6,0,6
+1336081,2023,Sri Lanka,5,AC Jayangani,ac56b5a7,CE Dean,c6625a26,H Madavi,85021bcd,0,0,0,0,0,,,,,,0,0,0
+1336081,2023,Sri Lanka,5,AC Jayangani,ac56b5a7,CE Dean,c6625a26,H Madavi,85021bcd,0,0,0,0,0,,,,,,0,0,0
+1336081,2023,Sri Lanka,5,AC Jayangani,ac56b5a7,CE Dean,c6625a26,H Madavi,85021bcd,0,0,0,0,0,,,,,,0,0,0
+1336081,2023,Sri Lanka,5,AC Jayangani,ac56b5a7,CE Dean,c6625a26,H Madavi,85021bcd,0,0,0,0,0,,,,,,4,0,4
+1336081,2023,Sri Lanka,5,AC Jayangani,ac56b5a7,CE Dean,c6625a26,H Madavi,85021bcd,0,0,0,0,0,,,,,,4,0,4
+1336081,2023,Sri Lanka,6,H Madavi,85021bcd,S Glenn,b34e0c77,AC Jayangani,ac56b5a7,0,0,0,0,0,,,,,,0,0,0
+1336081,2023,Sri Lanka,6,H Madavi,85021bcd,S Glenn,b34e0c77,AC Jayangani,ac56b5a7,0,0,0,0,0,,,,,,0,0,0
+1336081,2023,Sri Lanka,6,H Madavi,85021bcd,S Glenn,b34e0c77,AC Jayangani,ac56b5a7,0,0,0,0,0,,,,,,0,0,0
+1336081,2023,Sri Lanka,6,H Madavi,85021bcd,S Glenn,b34e0c77,AC Jayangani,ac56b5a7,0,0,0,0,0,,,,,,1,0,1
+1336081,2023,Sri Lanka,6,AC Jayangani,ac56b5a7,S Glenn,b34e0c77,H Madavi,85021bcd,0,0,0,0,0,,,,,,1,0,1
+1336081,2023,Sri Lanka,6,H Madavi,85021bcd,S Glenn,b34e0c77,AC Jayangani,ac56b5a7,0,0,0,0,0,,,,,,0,0,0
+1336081,2023,Sri Lanka,7,AC Jayangani,ac56b5a7,A Capsey,910dd54e,H Madavi,85021bcd,0,0,0,0,0,,,,,,0,0,0
+1336081,2023,Sri Lanka,7,AC Jayangani,ac56b5a7,A Capsey,910dd54e,H Madavi,85021bcd,0,0,0,0,0,,,,,,4,0,4
+1336081,2023,Sri Lanka,7,AC Jayangani,ac56b5a7,A Capsey,910dd54e,H Madavi,85021bcd,0,0,0,0,0,,,,,,1,0,1
+1336081,2023,Sri Lanka,7,H Madavi,85021bcd,A Capsey,910dd54e,AC Jayangani,ac56b5a7,0,0,0,0,0,,,,,,0,0,0
+1336081,2023,Sri Lanka,7,H Madavi,85021bcd,A Capsey,910dd54e,AC Jayangani,ac56b5a7,0,0,0,0,0,,,,,,0,0,0
+1336081,2023,Sri Lanka,7,H Madavi,85021bcd,A Capsey,910dd54e,AC Jayangani,ac56b5a7,0,0,0,0,0,,,,,,0,0,0
+1336081,2023,Sri Lanka,8,AC Jayangani,ac56b5a7,S Glenn,b34e0c77,H Madavi,85021bcd,0,0,0,0,0,,,,,,1,0,1
+1336081,2023,Sri Lanka,8,H Madavi,85021bcd,S Glenn,b34e0c77,AC Jayangani,ac56b5a7,0,0,0,0,0,,,,,,1,0,1
+1336081,2023,Sri Lanka,8,AC Jayangani,ac56b5a7,S Glenn,b34e0c77,H Madavi,85021bcd,0,0,0,0,0,,,,,,0,0,0
+1336081,2023,Sri Lanka,8,AC Jayangani,ac56b5a7,S Glenn,b34e0c77,H Madavi,85021bcd,0,0,0,0,0,,,,,,1,0,1
+1336081,2023,Sri Lanka,8,H Madavi,85021bcd,S Glenn,b34e0c77,AC Jayangani,ac56b5a7,0,0,0,0,0,,,,,,0,0,0
+1336081,2023,Sri Lanka,8,H Madavi,85021bcd,S Glenn,b34e0c77,AC Jayangani,ac56b5a7,0,0,0,0,0,,,,,,1,0,1
+1336081,2023,Sri Lanka,9,H Madavi,85021bcd,A Capsey,910dd54e,AC Jayangani,ac56b5a7,0,0,0,0,0,,,,,,1,0,1
+1336081,2023,Sri Lanka,9,AC Jayangani,ac56b5a7,A Capsey,910dd54e,H Madavi,85021bcd,0,0,0,0,1,AC Jayangani,ac56b5a7,KL Cross,1ade138e,caught,0,0,0
+1336081,2023,Sri Lanka,9,RMVD Gunaratne,9e866b59,A Capsey,910dd54e,H Madavi,85021bcd,0,0,0,0,0,,,,,,1,0,1
+1336081,2023,Sri Lanka,9,H Madavi,85021bcd,A Capsey,910dd54e,RMVD Gunaratne,9e866b59,0,0,0,0,0,,,,,,1,0,1
+1336081,2023,Sri Lanka,9,RMVD Gunaratne,9e866b59,A Capsey,910dd54e,H Madavi,85021bcd,0,0,0,0,0,,,,,,0,0,0
+1336081,2023,Sri Lanka,9,RMVD Gunaratne,9e866b59,A Capsey,910dd54e,H Madavi,85021bcd,0,0,0,0,0,,,,,,0,0,0
+1336081,2023,Sri Lanka,10,H Madavi,85021bcd,S Glenn,b34e0c77,RMVD Gunaratne,9e866b59,0,0,0,0,0,,,,,,1,0,1
+1336081,2023,Sri Lanka,10,RMVD Gunaratne,9e866b59,S Glenn,b34e0c77,H Madavi,85021bcd,0,0,0,0,0,,,,,,0,0,0
+1336081,2023,Sri Lanka,10,RMVD Gunaratne,9e866b59,S Glenn,b34e0c77,H Madavi,85021bcd,0,0,0,0,0,,,,,,4,0,4
+1336081,2023,Sri Lanka,10,RMVD Gunaratne,9e866b59,S Glenn,b34e0c77,H Madavi,85021bcd,0,0,0,0,0,,,,,,0,0,0
+1336081,2023,Sri Lanka,10,RMVD Gunaratne,9e866b59,S Glenn,b34e0c77,H Madavi,85021bcd,0,0,0,0,0,,,,,,0,0,0
+1336081,2023,Sri Lanka,10,RMVD Gunaratne,9e866b59,S Glenn,b34e0c77,H Madavi,85021bcd,0,0,0,0,0,,,,,,0,0,0
+1336081,2023,Sri Lanka,11,H Madavi,85021bcd,A Capsey,910dd54e,RMVD Gunaratne,9e866b59,0,0,0,0,0,,,,,,0,0,0
+1336081,2023,Sri Lanka,11,H Madavi,85021bcd,A Capsey,910dd54e,RMVD Gunaratne,9e866b59,0,0,0,0,0,,,,,,4,0,4
+1336081,2023,Sri Lanka,11,H Madavi,85021bcd,A Capsey,910dd54e,RMVD Gunaratne,9e866b59,0,0,0,0,0,,,,,,0,0,0
+1336081,2023,Sri Lanka,11,H Madavi,85021bcd,A Capsey,910dd54e,RMVD Gunaratne,9e866b59,0,0,0,0,0,,,,,,1,0,1
+1336081,2023,Sri Lanka,11,RMVD Gunaratne,9e866b59,A Capsey,910dd54e,H Madavi,85021bcd,0,0,0,0,0,,,,,,1,0,1
+1336081,2023,Sri Lanka,11,H Madavi,85021bcd,A Capsey,910dd54e,RMVD Gunaratne,9e866b59,0,0,0,0,0,,,,,,0,0,0
+1336081,2023,Sri Lanka,12,RMVD Gunaratne,9e866b59,IECM Wong,e5b17517,H Madavi,85021bcd,0,0,0,0,0,,,,,,4,0,4
+1336081,2023,Sri Lanka,12,RMVD Gunaratne,9e866b59,IECM Wong,e5b17517,H Madavi,85021bcd,0,0,0,0,0,,,,,,4,0,4
+1336081,2023,Sri Lanka,12,RMVD Gunaratne,9e866b59,IECM Wong,e5b17517,H Madavi,85021bcd,0,0,0,0,0,,,,,,0,0,0
+1336081,2023,Sri Lanka,12,RMVD Gunaratne,9e866b59,IECM Wong,e5b17517,H Madavi,85021bcd,0,0,0,0,0,,,,,,0,0,0
+1336081,2023,Sri Lanka,12,RMVD Gunaratne,9e866b59,IECM Wong,e5b17517,H Madavi,85021bcd,0,0,0,0,0,,,,,,4,0,4
+1336081,2023,Sri Lanka,12,RMVD Gunaratne,9e866b59,IECM Wong,e5b17517,H Madavi,85021bcd,0,0,0,0,0,,,,,,0,0,0
+1336081,2023,Sri Lanka,13,H Madavi,85021bcd,KL Cross,1ade138e,RMVD Gunaratne,9e866b59,0,0,0,0,0,,,,,,0,0,0
+1336081,2023,Sri Lanka,13,H Madavi,85021bcd,KL Cross,1ade138e,RMVD Gunaratne,9e866b59,0,0,0,0,0,,,,,,6,0,6

@@ -1,0 +1,186 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+287874,2007/08,Sri Lanka,0,WU Tharanga,7ed9fd56,B Lee,dd09ff8e,ST Jayasuriya,f233bbb4,0,0,0,0,0,,,,,,1,0,1
+287874,2007/08,Sri Lanka,0,ST Jayasuriya,f233bbb4,B Lee,dd09ff8e,WU Tharanga,7ed9fd56,0,0,0,0,0,,,,,,0,0,0
+287874,2007/08,Sri Lanka,0,ST Jayasuriya,f233bbb4,B Lee,dd09ff8e,WU Tharanga,7ed9fd56,0,0,0,0,1,ST Jayasuriya,f233bbb4,,,lbw,0,0,0
+287874,2007/08,Sri Lanka,0,KC Sangakkara,6b71e6cf,B Lee,dd09ff8e,WU Tharanga,7ed9fd56,0,0,0,0,0,,,,,,1,0,1
+287874,2007/08,Sri Lanka,0,WU Tharanga,7ed9fd56,B Lee,dd09ff8e,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,1,0,1
+287874,2007/08,Sri Lanka,0,KC Sangakkara,6b71e6cf,B Lee,dd09ff8e,WU Tharanga,7ed9fd56,0,0,0,0,0,,,,,,4,0,4
+287874,2007/08,Sri Lanka,1,WU Tharanga,7ed9fd56,NW Bracken,4c61a0f9,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,0,0,0
+287874,2007/08,Sri Lanka,1,WU Tharanga,7ed9fd56,NW Bracken,4c61a0f9,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,0,0,0
+287874,2007/08,Sri Lanka,1,WU Tharanga,7ed9fd56,NW Bracken,4c61a0f9,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,2,0,2
+287874,2007/08,Sri Lanka,1,WU Tharanga,7ed9fd56,NW Bracken,4c61a0f9,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,0,0,0
+287874,2007/08,Sri Lanka,1,WU Tharanga,7ed9fd56,NW Bracken,4c61a0f9,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,0,0,0
+287874,2007/08,Sri Lanka,1,WU Tharanga,7ed9fd56,NW Bracken,4c61a0f9,KC Sangakkara,6b71e6cf,0,0,0,0,1,WU Tharanga,7ed9fd56,B Lee,dd09ff8e,caught,0,0,0
+287874,2007/08,Sri Lanka,2,DPMD Jayawardene,d18f9182,B Lee,dd09ff8e,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,1,0,1
+287874,2007/08,Sri Lanka,2,KC Sangakkara,6b71e6cf,B Lee,dd09ff8e,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,0,0,0
+287874,2007/08,Sri Lanka,2,KC Sangakkara,6b71e6cf,B Lee,dd09ff8e,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,1,0,1
+287874,2007/08,Sri Lanka,2,DPMD Jayawardene,d18f9182,B Lee,dd09ff8e,KC Sangakkara,6b71e6cf,0,0,0,0,1,DPMD Jayawardene,d18f9182,SR Clark,a3bfec5d,caught,0,0,0
+287874,2007/08,Sri Lanka,2,LPC Silva,1be70c88,B Lee,dd09ff8e,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,0,0,0
+287874,2007/08,Sri Lanka,2,LPC Silva,1be70c88,B Lee,dd09ff8e,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,0,0,0
+287874,2007/08,Sri Lanka,3,KC Sangakkara,6b71e6cf,NW Bracken,4c61a0f9,LPC Silva,1be70c88,0,0,0,0,0,,,,,,0,0,0
+287874,2007/08,Sri Lanka,3,KC Sangakkara,6b71e6cf,NW Bracken,4c61a0f9,LPC Silva,1be70c88,0,0,0,0,0,,,,,,1,0,1
+287874,2007/08,Sri Lanka,3,LPC Silva,1be70c88,NW Bracken,4c61a0f9,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,1,0,1
+287874,2007/08,Sri Lanka,3,KC Sangakkara,6b71e6cf,NW Bracken,4c61a0f9,LPC Silva,1be70c88,0,0,0,0,0,,,,,,0,0,0
+287874,2007/08,Sri Lanka,3,KC Sangakkara,6b71e6cf,NW Bracken,4c61a0f9,LPC Silva,1be70c88,0,0,0,0,0,,,,,,2,0,2
+287874,2007/08,Sri Lanka,3,KC Sangakkara,6b71e6cf,NW Bracken,4c61a0f9,LPC Silva,1be70c88,0,0,0,0,0,,,,,,0,0,0
+287874,2007/08,Sri Lanka,4,LPC Silva,1be70c88,MG Johnson,f5180fe6,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,4,0,4
+287874,2007/08,Sri Lanka,4,LPC Silva,1be70c88,MG Johnson,f5180fe6,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,0,0,0
+287874,2007/08,Sri Lanka,4,LPC Silva,1be70c88,MG Johnson,f5180fe6,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,0,0,0
+287874,2007/08,Sri Lanka,4,LPC Silva,1be70c88,MG Johnson,f5180fe6,KC Sangakkara,6b71e6cf,1,0,0,0,0,,,,,,0,1,1
+287874,2007/08,Sri Lanka,4,LPC Silva,1be70c88,MG Johnson,f5180fe6,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,0,0,0
+287874,2007/08,Sri Lanka,4,LPC Silva,1be70c88,MG Johnson,f5180fe6,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,1,0,1
+287874,2007/08,Sri Lanka,4,KC Sangakkara,6b71e6cf,MG Johnson,f5180fe6,LPC Silva,1be70c88,0,0,0,0,0,,,,,,0,0,0
+287874,2007/08,Sri Lanka,5,LPC Silva,1be70c88,SR Clark,a3bfec5d,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,0,0,0
+287874,2007/08,Sri Lanka,5,LPC Silva,1be70c88,SR Clark,a3bfec5d,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,0,0,0
+287874,2007/08,Sri Lanka,5,LPC Silva,1be70c88,SR Clark,a3bfec5d,KC Sangakkara,6b71e6cf,0,0,0,0,1,LPC Silva,1be70c88,B Lee,dd09ff8e,caught,0,0,0
+287874,2007/08,Sri Lanka,5,KC Sangakkara,6b71e6cf,SR Clark,a3bfec5d,TM Dilshan,5bdcdb72,0,0,0,0,0,,,,,,4,0,4
+287874,2007/08,Sri Lanka,5,KC Sangakkara,6b71e6cf,SR Clark,a3bfec5d,TM Dilshan,5bdcdb72,0,0,0,0,0,,,,,,1,0,1
+287874,2007/08,Sri Lanka,5,TM Dilshan,5bdcdb72,SR Clark,a3bfec5d,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,0,0,0
+287874,2007/08,Sri Lanka,6,KC Sangakkara,6b71e6cf,MG Johnson,f5180fe6,TM Dilshan,5bdcdb72,0,0,0,0,0,,,,,,0,0,0
+287874,2007/08,Sri Lanka,6,KC Sangakkara,6b71e6cf,MG Johnson,f5180fe6,TM Dilshan,5bdcdb72,0,0,0,0,0,,,,,,0,0,0
+287874,2007/08,Sri Lanka,6,KC Sangakkara,6b71e6cf,MG Johnson,f5180fe6,TM Dilshan,5bdcdb72,0,0,0,0,0,,,,,,0,0,0
+287874,2007/08,Sri Lanka,6,KC Sangakkara,6b71e6cf,MG Johnson,f5180fe6,TM Dilshan,5bdcdb72,0,0,0,0,0,,,,,,1,0,1
+287874,2007/08,Sri Lanka,6,TM Dilshan,5bdcdb72,MG Johnson,f5180fe6,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,1,0,1
+287874,2007/08,Sri Lanka,6,KC Sangakkara,6b71e6cf,MG Johnson,f5180fe6,TM Dilshan,5bdcdb72,0,0,0,0,0,,,,,,0,0,0
+287874,2007/08,Sri Lanka,7,TM Dilshan,5bdcdb72,SR Clark,a3bfec5d,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,2,0,2
+287874,2007/08,Sri Lanka,7,TM Dilshan,5bdcdb72,SR Clark,a3bfec5d,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,0,0,0
+287874,2007/08,Sri Lanka,7,TM Dilshan,5bdcdb72,SR Clark,a3bfec5d,KC Sangakkara,6b71e6cf,0,0,0,0,1,TM Dilshan,5bdcdb72,AC Gilchrist,2b6e6dec,caught,0,0,0
+287874,2007/08,Sri Lanka,7,J Mubarak,a9520ac2,SR Clark,a3bfec5d,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,0,0,0
+287874,2007/08,Sri Lanka,7,J Mubarak,a9520ac2,SR Clark,a3bfec5d,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,4,0,4
+287874,2007/08,Sri Lanka,7,J Mubarak,a9520ac2,SR Clark,a3bfec5d,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,0,0,0
+287874,2007/08,Sri Lanka,8,KC Sangakkara,6b71e6cf,MG Johnson,f5180fe6,J Mubarak,a9520ac2,0,0,0,0,0,,,,,,1,0,1
+287874,2007/08,Sri Lanka,8,J Mubarak,a9520ac2,MG Johnson,f5180fe6,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,0,0,0
+287874,2007/08,Sri Lanka,8,J Mubarak,a9520ac2,MG Johnson,f5180fe6,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,1,0,1
+287874,2007/08,Sri Lanka,8,KC Sangakkara,6b71e6cf,MG Johnson,f5180fe6,J Mubarak,a9520ac2,0,0,0,0,0,,,,,,1,0,1
+287874,2007/08,Sri Lanka,8,J Mubarak,a9520ac2,MG Johnson,f5180fe6,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,1,0,1
+287874,2007/08,Sri Lanka,8,KC Sangakkara,6b71e6cf,MG Johnson,f5180fe6,J Mubarak,a9520ac2,0,0,0,0,0,,,,,,1,0,1
+287874,2007/08,Sri Lanka,9,KC Sangakkara,6b71e6cf,SR Clark,a3bfec5d,J Mubarak,a9520ac2,0,0,0,0,0,,,,,,0,0,0
+287874,2007/08,Sri Lanka,9,KC Sangakkara,6b71e6cf,SR Clark,a3bfec5d,J Mubarak,a9520ac2,0,0,0,0,0,,,,,,4,0,4
+287874,2007/08,Sri Lanka,9,KC Sangakkara,6b71e6cf,SR Clark,a3bfec5d,J Mubarak,a9520ac2,0,0,0,0,1,KC Sangakkara,6b71e6cf,MJ Clarke,f842c2cf,caught,0,0,0
+287874,2007/08,Sri Lanka,9,MF Maharoof,ab89348d,SR Clark,a3bfec5d,J Mubarak,a9520ac2,0,0,0,0,0,,,,,,0,0,0
+287874,2007/08,Sri Lanka,9,MF Maharoof,ab89348d,SR Clark,a3bfec5d,J Mubarak,a9520ac2,0,0,0,0,1,MF Maharoof,ab89348d,MJ Clarke,f842c2cf,caught,0,0,0
+287874,2007/08,Sri Lanka,9,WPUJC Vaas,bcce309e,SR Clark,a3bfec5d,J Mubarak,a9520ac2,0,0,0,0,0,,,,,,0,0,0
+287874,2007/08,Sri Lanka,10,J Mubarak,a9520ac2,B Lee,dd09ff8e,WPUJC Vaas,bcce309e,0,0,0,0,0,,,,,,1,0,1
+287874,2007/08,Sri Lanka,10,WPUJC Vaas,bcce309e,B Lee,dd09ff8e,J Mubarak,a9520ac2,0,0,0,0,0,,,,,,4,0,4
+287874,2007/08,Sri Lanka,10,WPUJC Vaas,bcce309e,B Lee,dd09ff8e,J Mubarak,a9520ac2,0,0,0,0,0,,,,,,1,0,1
+287874,2007/08,Sri Lanka,10,J Mubarak,a9520ac2,B Lee,dd09ff8e,WPUJC Vaas,bcce309e,0,0,0,0,0,,,,,,4,0,4
+287874,2007/08,Sri Lanka,10,J Mubarak,a9520ac2,B Lee,dd09ff8e,WPUJC Vaas,bcce309e,0,0,0,0,0,,,,,,0,0,0
+287874,2007/08,Sri Lanka,10,J Mubarak,a9520ac2,B Lee,dd09ff8e,WPUJC Vaas,bcce309e,0,0,0,0,0,,,,,,2,0,2
+287874,2007/08,Sri Lanka,11,WPUJC Vaas,bcce309e,SR Clark,a3bfec5d,J Mubarak,a9520ac2,0,0,0,0,0,,,,,,0,0,0
+287874,2007/08,Sri Lanka,11,WPUJC Vaas,bcce309e,SR Clark,a3bfec5d,J Mubarak,a9520ac2,0,0,0,0,0,,,,,,1,0,1
+287874,2007/08,Sri Lanka,11,J Mubarak,a9520ac2,SR Clark,a3bfec5d,WPUJC Vaas,bcce309e,0,0,0,0,0,,,,,,1,0,1
+287874,2007/08,Sri Lanka,11,WPUJC Vaas,bcce309e,SR Clark,a3bfec5d,J Mubarak,a9520ac2,0,1,0,0,0,,,,,,1,1,2
+287874,2007/08,Sri Lanka,11,J Mubarak,a9520ac2,SR Clark,a3bfec5d,WPUJC Vaas,bcce309e,0,0,0,0,0,,,,,,1,0,1
+287874,2007/08,Sri Lanka,11,WPUJC Vaas,bcce309e,SR Clark,a3bfec5d,J Mubarak,a9520ac2,0,0,0,0,0,,,,,,0,0,0
+287874,2007/08,Sri Lanka,11,WPUJC Vaas,bcce309e,SR Clark,a3bfec5d,J Mubarak,a9520ac2,0,0,0,0,0,,,,,,0,0,0
+287874,2007/08,Sri Lanka,12,J Mubarak,a9520ac2,SR Watson,4329fbb5,WPUJC Vaas,bcce309e,0,0,0,0,0,,,,,,1,0,1
+287874,2007/08,Sri Lanka,12,WPUJC Vaas,bcce309e,SR Watson,4329fbb5,J Mubarak,a9520ac2,0,0,0,0,0,,,,,,1,0,1
+287874,2007/08,Sri Lanka,12,J Mubarak,a9520ac2,SR Watson,4329fbb5,WPUJC Vaas,bcce309e,0,0,0,0,0,,,,,,1,0,1
+287874,2007/08,Sri Lanka,12,WPUJC Vaas,bcce309e,SR Watson,4329fbb5,J Mubarak,a9520ac2,0,0,0,0,0,,,,,,0,0,0
+287874,2007/08,Sri Lanka,12,WPUJC Vaas,bcce309e,SR Watson,4329fbb5,J Mubarak,a9520ac2,0,0,0,0,0,,,,,,1,0,1
+287874,2007/08,Sri Lanka,12,J Mubarak,a9520ac2,SR Watson,4329fbb5,WPUJC Vaas,bcce309e,0,0,0,0,0,,,,,,1,0,1
+287874,2007/08,Sri Lanka,13,J Mubarak,a9520ac2,NW Bracken,4c61a0f9,WPUJC Vaas,bcce309e,0,0,0,0,0,,,,,,4,0,4
+287874,2007/08,Sri Lanka,13,J Mubarak,a9520ac2,NW Bracken,4c61a0f9,WPUJC Vaas,bcce309e,0,0,0,0,0,,,,,,0,0,0
+287874,2007/08,Sri Lanka,13,J Mubarak,a9520ac2,NW Bracken,4c61a0f9,WPUJC Vaas,bcce309e,0,0,0,0,0,,,,,,1,0,1
+287874,2007/08,Sri Lanka,13,WPUJC Vaas,bcce309e,NW Bracken,4c61a0f9,J Mubarak,a9520ac2,0,0,0,0,0,,,,,,0,0,0
+287874,2007/08,Sri Lanka,13,WPUJC Vaas,bcce309e,NW Bracken,4c61a0f9,J Mubarak,a9520ac2,0,0,0,0,0,,,,,,1,0,1
+287874,2007/08,Sri Lanka,13,J Mubarak,a9520ac2,NW Bracken,4c61a0f9,WPUJC Vaas,bcce309e,0,0,0,0,0,,,,,,1,0,1
+287874,2007/08,Sri Lanka,14,J Mubarak,a9520ac2,SR Watson,4329fbb5,WPUJC Vaas,bcce309e,0,0,0,0,0,,,,,,1,0,1
+287874,2007/08,Sri Lanka,14,WPUJC Vaas,bcce309e,SR Watson,4329fbb5,J Mubarak,a9520ac2,0,1,0,0,0,,,,,,0,1,1
+287874,2007/08,Sri Lanka,14,WPUJC Vaas,bcce309e,SR Watson,4329fbb5,J Mubarak,a9520ac2,0,0,0,0,0,,,,,,1,0,1
+287874,2007/08,Sri Lanka,14,J Mubarak,a9520ac2,SR Watson,4329fbb5,WPUJC Vaas,bcce309e,0,0,0,0,0,,,,,,0,0,0
+287874,2007/08,Sri Lanka,14,J Mubarak,a9520ac2,SR Watson,4329fbb5,WPUJC Vaas,bcce309e,0,0,0,0,0,,,,,,1,0,1
+287874,2007/08,Sri Lanka,14,WPUJC Vaas,bcce309e,SR Watson,4329fbb5,J Mubarak,a9520ac2,0,0,0,0,0,,,,,,1,0,1
+287874,2007/08,Sri Lanka,14,J Mubarak,a9520ac2,SR Watson,4329fbb5,WPUJC Vaas,bcce309e,0,0,0,0,0,,,,,,0,0,0
+287874,2007/08,Sri Lanka,15,WPUJC Vaas,bcce309e,MG Johnson,f5180fe6,J Mubarak,a9520ac2,0,0,0,0,0,,,,,,1,0,1
+287874,2007/08,Sri Lanka,15,J Mubarak,a9520ac2,MG Johnson,f5180fe6,WPUJC Vaas,bcce309e,0,0,0,0,0,,,,,,1,0,1
+287874,2007/08,Sri Lanka,15,WPUJC Vaas,bcce309e,MG Johnson,f5180fe6,J Mubarak,a9520ac2,0,0,0,0,0,,,,,,0,0,0
+287874,2007/08,Sri Lanka,15,WPUJC Vaas,bcce309e,MG Johnson,f5180fe6,J Mubarak,a9520ac2,0,0,0,0,0,,,,,,1,0,1
+287874,2007/08,Sri Lanka,15,J Mubarak,a9520ac2,MG Johnson,f5180fe6,WPUJC Vaas,bcce309e,0,0,0,0,0,,,,,,1,0,1
+287874,2007/08,Sri Lanka,15,WPUJC Vaas,bcce309e,MG Johnson,f5180fe6,J Mubarak,a9520ac2,0,0,0,0,0,,,,,,1,0,1
+287874,2007/08,Sri Lanka,16,WPUJC Vaas,bcce309e,SR Watson,4329fbb5,J Mubarak,a9520ac2,0,0,0,0,0,,,,,,1,0,1
+287874,2007/08,Sri Lanka,16,J Mubarak,a9520ac2,SR Watson,4329fbb5,WPUJC Vaas,bcce309e,0,0,0,0,1,J Mubarak,a9520ac2,A Symonds,bd77eb62,caught,0,0,0
+287874,2007/08,Sri Lanka,16,WPUJC Vaas,bcce309e,SR Watson,4329fbb5,SL Malinga,a12e1d51,0,0,0,0,0,,,,,,1,0,1
+287874,2007/08,Sri Lanka,16,SL Malinga,a12e1d51,SR Watson,4329fbb5,WPUJC Vaas,bcce309e,0,0,0,0,0,,,,,,0,0,0
+287874,2007/08,Sri Lanka,16,SL Malinga,a12e1d51,SR Watson,4329fbb5,WPUJC Vaas,bcce309e,0,0,1,0,0,,,,,,0,1,1
+287874,2007/08,Sri Lanka,16,WPUJC Vaas,bcce309e,SR Watson,4329fbb5,SL Malinga,a12e1d51,0,0,0,0,0,,,,,,1,0,1
+287874,2007/08,Sri Lanka,17,WPUJC Vaas,bcce309e,B Lee,dd09ff8e,SL Malinga,a12e1d51,0,0,0,0,0,,,,,,1,0,1
+287874,2007/08,Sri Lanka,17,SL Malinga,a12e1d51,B Lee,dd09ff8e,WPUJC Vaas,bcce309e,0,0,0,0,0,,,,,,1,0,1
+287874,2007/08,Sri Lanka,17,WPUJC Vaas,bcce309e,B Lee,dd09ff8e,SL Malinga,a12e1d51,0,0,0,0,0,,,,,,1,0,1
+287874,2007/08,Sri Lanka,17,SL Malinga,a12e1d51,B Lee,dd09ff8e,WPUJC Vaas,bcce309e,0,0,0,0,0,,,,,,1,0,1
+287874,2007/08,Sri Lanka,17,WPUJC Vaas,bcce309e,B Lee,dd09ff8e,SL Malinga,a12e1d51,0,0,0,0,0,,,,,,1,0,1
+287874,2007/08,Sri Lanka,17,SL Malinga,a12e1d51,B Lee,dd09ff8e,WPUJC Vaas,bcce309e,0,0,0,0,0,,,,,,1,0,1
+287874,2007/08,Sri Lanka,18,SL Malinga,a12e1d51,SR Watson,4329fbb5,WPUJC Vaas,bcce309e,0,0,0,0,0,,,,,,0,0,0
+287874,2007/08,Sri Lanka,18,SL Malinga,a12e1d51,SR Watson,4329fbb5,WPUJC Vaas,bcce309e,0,0,0,0,0,,,,,,6,0,6
+287874,2007/08,Sri Lanka,18,SL Malinga,a12e1d51,A Symonds,bd77eb62,WPUJC Vaas,bcce309e,0,0,0,0,0,,,,,,1,0,1
+287874,2007/08,Sri Lanka,18,WPUJC Vaas,bcce309e,A Symonds,bd77eb62,SL Malinga,a12e1d51,0,0,0,0,0,,,,,,0,0,0
+287874,2007/08,Sri Lanka,18,WPUJC Vaas,bcce309e,A Symonds,bd77eb62,SL Malinga,a12e1d51,0,0,0,0,1,WPUJC Vaas,bcce309e,B Lee,dd09ff8e,caught,0,0,0
+287874,2007/08,Sri Lanka,18,SL Malinga,a12e1d51,A Symonds,bd77eb62,CRD Fernando,342d8ade,0,0,0,0,0,,,,,,1,0,1
+287874,2007/08,Sri Lanka,19,SL Malinga,a12e1d51,NW Bracken,4c61a0f9,CRD Fernando,342d8ade,0,0,0,0,0,,,,,,1,0,1
+287874,2007/08,Sri Lanka,19,CRD Fernando,342d8ade,NW Bracken,4c61a0f9,SL Malinga,a12e1d51,0,0,0,0,0,,,,,,0,0,0
+287874,2007/08,Sri Lanka,19,CRD Fernando,342d8ade,NW Bracken,4c61a0f9,SL Malinga,a12e1d51,0,0,0,0,1,CRD Fernando,342d8ade,,,caught and bowled,0,0,0
+287874,2007/08,Australia,0,AC Gilchrist,2b6e6dec,WPUJC Vaas,bcce309e,ML Hayden,d8699ab7,0,0,0,0,0,,,,,,0,0,0
+287874,2007/08,Australia,0,AC Gilchrist,2b6e6dec,WPUJC Vaas,bcce309e,ML Hayden,d8699ab7,0,0,0,0,0,,,,,,1,0,1
+287874,2007/08,Australia,0,ML Hayden,d8699ab7,WPUJC Vaas,bcce309e,AC Gilchrist,2b6e6dec,0,1,0,0,0,,,,,,4,1,5
+287874,2007/08,Australia,0,ML Hayden,d8699ab7,WPUJC Vaas,bcce309e,AC Gilchrist,2b6e6dec,0,0,0,0,0,,,,,,1,0,1
+287874,2007/08,Australia,0,AC Gilchrist,2b6e6dec,WPUJC Vaas,bcce309e,ML Hayden,d8699ab7,0,0,0,0,0,,,,,,1,0,1
+287874,2007/08,Australia,0,ML Hayden,d8699ab7,WPUJC Vaas,bcce309e,AC Gilchrist,2b6e6dec,0,0,0,0,0,,,,,,0,0,0
+287874,2007/08,Australia,0,ML Hayden,d8699ab7,WPUJC Vaas,bcce309e,AC Gilchrist,2b6e6dec,0,0,0,0,0,,,,,,1,0,1
+287874,2007/08,Australia,1,ML Hayden,d8699ab7,CRD Fernando,342d8ade,AC Gilchrist,2b6e6dec,0,0,0,0,0,,,,,,0,0,0
+287874,2007/08,Australia,1,ML Hayden,d8699ab7,CRD Fernando,342d8ade,AC Gilchrist,2b6e6dec,0,0,0,0,0,,,,,,0,0,0
+287874,2007/08,Australia,1,ML Hayden,d8699ab7,CRD Fernando,342d8ade,AC Gilchrist,2b6e6dec,0,0,0,0,0,,,,,,0,0,0
+287874,2007/08,Australia,1,ML Hayden,d8699ab7,CRD Fernando,342d8ade,AC Gilchrist,2b6e6dec,0,0,0,0,0,,,,,,0,0,0
+287874,2007/08,Australia,1,ML Hayden,d8699ab7,CRD Fernando,342d8ade,AC Gilchrist,2b6e6dec,0,0,1,0,0,,,,,,0,1,1
+287874,2007/08,Australia,1,AC Gilchrist,2b6e6dec,CRD Fernando,342d8ade,ML Hayden,d8699ab7,0,0,1,0,0,,,,,,0,1,1
+287874,2007/08,Australia,2,AC Gilchrist,2b6e6dec,WPUJC Vaas,bcce309e,ML Hayden,d8699ab7,0,0,0,0,0,,,,,,1,0,1
+287874,2007/08,Australia,2,ML Hayden,d8699ab7,WPUJC Vaas,bcce309e,AC Gilchrist,2b6e6dec,0,0,0,0,0,,,,,,4,0,4
+287874,2007/08,Australia,2,ML Hayden,d8699ab7,WPUJC Vaas,bcce309e,AC Gilchrist,2b6e6dec,0,0,0,0,0,,,,,,2,0,2
+287874,2007/08,Australia,2,ML Hayden,d8699ab7,WPUJC Vaas,bcce309e,AC Gilchrist,2b6e6dec,0,0,0,0,0,,,,,,1,0,1
+287874,2007/08,Australia,2,AC Gilchrist,2b6e6dec,WPUJC Vaas,bcce309e,ML Hayden,d8699ab7,0,0,0,0,0,,,,,,4,0,4
+287874,2007/08,Australia,2,AC Gilchrist,2b6e6dec,WPUJC Vaas,bcce309e,ML Hayden,d8699ab7,0,0,0,0,0,,,,,,0,0,0
+287874,2007/08,Australia,3,ML Hayden,d8699ab7,CRD Fernando,342d8ade,AC Gilchrist,2b6e6dec,0,0,0,0,0,,,,,,0,0,0
+287874,2007/08,Australia,3,ML Hayden,d8699ab7,CRD Fernando,342d8ade,AC Gilchrist,2b6e6dec,0,0,0,0,0,,,,,,1,0,1
+287874,2007/08,Australia,3,AC Gilchrist,2b6e6dec,CRD Fernando,342d8ade,ML Hayden,d8699ab7,0,0,0,0,0,,,,,,1,0,1
+287874,2007/08,Australia,3,ML Hayden,d8699ab7,CRD Fernando,342d8ade,AC Gilchrist,2b6e6dec,0,0,0,0,0,,,,,,0,0,0
+287874,2007/08,Australia,3,ML Hayden,d8699ab7,CRD Fernando,342d8ade,AC Gilchrist,2b6e6dec,0,0,0,0,0,,,,,,0,0,0
+287874,2007/08,Australia,3,ML Hayden,d8699ab7,CRD Fernando,342d8ade,AC Gilchrist,2b6e6dec,0,0,0,4,0,,,,,,0,4,4
+287874,2007/08,Australia,4,AC Gilchrist,2b6e6dec,MF Maharoof,ab89348d,ML Hayden,d8699ab7,0,0,0,0,0,,,,,,2,0,2
+287874,2007/08,Australia,4,AC Gilchrist,2b6e6dec,MF Maharoof,ab89348d,ML Hayden,d8699ab7,0,0,0,0,0,,,,,,4,0,4
+287874,2007/08,Australia,4,AC Gilchrist,2b6e6dec,MF Maharoof,ab89348d,ML Hayden,d8699ab7,0,0,0,0,0,,,,,,1,0,1
+287874,2007/08,Australia,4,ML Hayden,d8699ab7,MF Maharoof,ab89348d,AC Gilchrist,2b6e6dec,0,0,0,0,0,,,,,,4,0,4
+287874,2007/08,Australia,4,ML Hayden,d8699ab7,MF Maharoof,ab89348d,AC Gilchrist,2b6e6dec,0,0,0,0,0,,,,,,0,0,0
+287874,2007/08,Australia,4,ML Hayden,d8699ab7,MF Maharoof,ab89348d,AC Gilchrist,2b6e6dec,0,0,0,0,0,,,,,,4,0,4
+287874,2007/08,Australia,5,AC Gilchrist,2b6e6dec,CRD Fernando,342d8ade,ML Hayden,d8699ab7,0,0,0,0,0,,,,,,0,0,0
+287874,2007/08,Australia,5,AC Gilchrist,2b6e6dec,CRD Fernando,342d8ade,ML Hayden,d8699ab7,0,0,0,0,0,,,,,,1,0,1
+287874,2007/08,Australia,5,ML Hayden,d8699ab7,CRD Fernando,342d8ade,AC Gilchrist,2b6e6dec,0,0,0,0,0,,,,,,1,0,1
+287874,2007/08,Australia,5,AC Gilchrist,2b6e6dec,CRD Fernando,342d8ade,ML Hayden,d8699ab7,0,0,0,0,0,,,,,,4,0,4
+287874,2007/08,Australia,5,AC Gilchrist,2b6e6dec,CRD Fernando,342d8ade,ML Hayden,d8699ab7,0,0,0,0,0,,,,,,4,0,4
+287874,2007/08,Australia,5,AC Gilchrist,2b6e6dec,CRD Fernando,342d8ade,ML Hayden,d8699ab7,0,0,0,0,0,,,,,,0,0,0
+287874,2007/08,Australia,6,ML Hayden,d8699ab7,MF Maharoof,ab89348d,AC Gilchrist,2b6e6dec,0,0,0,0,0,,,,,,1,0,1
+287874,2007/08,Australia,6,AC Gilchrist,2b6e6dec,MF Maharoof,ab89348d,ML Hayden,d8699ab7,0,0,0,0,0,,,,,,1,0,1
+287874,2007/08,Australia,6,ML Hayden,d8699ab7,MF Maharoof,ab89348d,AC Gilchrist,2b6e6dec,0,0,0,0,0,,,,,,6,0,6
+287874,2007/08,Australia,6,ML Hayden,d8699ab7,MF Maharoof,ab89348d,AC Gilchrist,2b6e6dec,5,0,0,0,0,,,,,,0,5,5
+287874,2007/08,Australia,6,ML Hayden,d8699ab7,MF Maharoof,ab89348d,AC Gilchrist,2b6e6dec,0,0,0,0,0,,,,,,1,0,1
+287874,2007/08,Australia,6,AC Gilchrist,2b6e6dec,MF Maharoof,ab89348d,ML Hayden,d8699ab7,0,0,0,0,0,,,,,,1,0,1
+287874,2007/08,Australia,6,ML Hayden,d8699ab7,MF Maharoof,ab89348d,AC Gilchrist,2b6e6dec,0,0,0,0,0,,,,,,4,0,4
+287874,2007/08,Australia,7,AC Gilchrist,2b6e6dec,TM Dilshan,5bdcdb72,ML Hayden,d8699ab7,0,0,0,0,0,,,,,,1,0,1
+287874,2007/08,Australia,7,ML Hayden,d8699ab7,TM Dilshan,5bdcdb72,AC Gilchrist,2b6e6dec,0,0,0,0,0,,,,,,1,0,1
+287874,2007/08,Australia,7,AC Gilchrist,2b6e6dec,TM Dilshan,5bdcdb72,ML Hayden,d8699ab7,1,0,0,0,0,,,,,,0,1,1
+287874,2007/08,Australia,7,AC Gilchrist,2b6e6dec,TM Dilshan,5bdcdb72,ML Hayden,d8699ab7,0,0,0,0,0,,,,,,0,0,0
+287874,2007/08,Australia,7,AC Gilchrist,2b6e6dec,TM Dilshan,5bdcdb72,ML Hayden,d8699ab7,0,0,0,0,0,,,,,,0,0,0
+287874,2007/08,Australia,7,AC Gilchrist,2b6e6dec,TM Dilshan,5bdcdb72,ML Hayden,d8699ab7,0,0,0,0,0,,,,,,1,0,1
+287874,2007/08,Australia,7,ML Hayden,d8699ab7,TM Dilshan,5bdcdb72,AC Gilchrist,2b6e6dec,0,0,0,0,0,,,,,,1,0,1
+287874,2007/08,Australia,8,ML Hayden,d8699ab7,SL Malinga,a12e1d51,AC Gilchrist,2b6e6dec,0,0,0,0,0,,,,,,1,0,1
+287874,2007/08,Australia,8,AC Gilchrist,2b6e6dec,SL Malinga,a12e1d51,ML Hayden,d8699ab7,0,0,0,0,0,,,,,,1,0,1
+287874,2007/08,Australia,8,ML Hayden,d8699ab7,SL Malinga,a12e1d51,AC Gilchrist,2b6e6dec,0,0,0,0,0,,,,,,0,0,0
+287874,2007/08,Australia,8,ML Hayden,d8699ab7,SL Malinga,a12e1d51,AC Gilchrist,2b6e6dec,0,0,0,0,0,,,,,,4,0,4
+287874,2007/08,Australia,8,ML Hayden,d8699ab7,SL Malinga,a12e1d51,AC Gilchrist,2b6e6dec,0,0,0,0,0,,,,,,1,0,1
+287874,2007/08,Australia,8,AC Gilchrist,2b6e6dec,SL Malinga,a12e1d51,ML Hayden,d8699ab7,0,0,0,0,0,,,,,,1,0,1
+287874,2007/08,Australia,9,AC Gilchrist,2b6e6dec,TM Dilshan,5bdcdb72,ML Hayden,d8699ab7,0,0,0,0,0,,,,,,1,0,1
+287874,2007/08,Australia,9,ML Hayden,d8699ab7,TM Dilshan,5bdcdb72,AC Gilchrist,2b6e6dec,0,0,0,0,0,,,,,,2,0,2
+287874,2007/08,Australia,9,ML Hayden,d8699ab7,TM Dilshan,5bdcdb72,AC Gilchrist,2b6e6dec,0,0,0,0,0,,,,,,0,0,0
+287874,2007/08,Australia,9,ML Hayden,d8699ab7,TM Dilshan,5bdcdb72,AC Gilchrist,2b6e6dec,0,0,0,0,0,,,,,,0,0,0
+287874,2007/08,Australia,9,ML Hayden,d8699ab7,TM Dilshan,5bdcdb72,AC Gilchrist,2b6e6dec,0,0,0,0,0,,,,,,4,0,4
+287874,2007/08,Australia,9,ML Hayden,d8699ab7,TM Dilshan,5bdcdb72,AC Gilchrist,2b6e6dec,0,0,0,0,0,,,,,,1,0,1
+287874,2007/08,Australia,10,ML Hayden,d8699ab7,J Mubarak,a9520ac2,AC Gilchrist,2b6e6dec,0,0,0,0,0,,,,,,2,0,2
+287874,2007/08,Australia,10,ML Hayden,d8699ab7,J Mubarak,a9520ac2,AC Gilchrist,2b6e6dec,0,0,0,0,0,,,,,,6,0,6

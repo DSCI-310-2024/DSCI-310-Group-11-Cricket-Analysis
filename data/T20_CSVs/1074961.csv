@@ -1,0 +1,180 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1074961,2016/17,Hong Kong,0,Nizakat Khan,e3eb9e46,Bilal Khan,dcdb87f2,Aizaz Khan,f6c2659d,0,0,0,0,0,,,,,,1,0,1
+1074961,2016/17,Hong Kong,0,Aizaz Khan,f6c2659d,Bilal Khan,dcdb87f2,Nizakat Khan,e3eb9e46,0,0,0,0,0,,,,,,0,0,0
+1074961,2016/17,Hong Kong,0,Aizaz Khan,f6c2659d,Bilal Khan,dcdb87f2,Nizakat Khan,e3eb9e46,1,0,0,0,0,,,,,,0,1,1
+1074961,2016/17,Hong Kong,0,Aizaz Khan,f6c2659d,Bilal Khan,dcdb87f2,Nizakat Khan,e3eb9e46,0,0,0,0,0,,,,,,1,0,1
+1074961,2016/17,Hong Kong,0,Nizakat Khan,e3eb9e46,Bilal Khan,dcdb87f2,Aizaz Khan,f6c2659d,0,0,0,0,1,Nizakat Khan,e3eb9e46,,,bowled,0,0,0
+1074961,2016/17,Hong Kong,0,Babar Hayat,fbb657bb,Bilal Khan,dcdb87f2,Aizaz Khan,f6c2659d,0,0,0,0,0,,,,,,0,0,0
+1074961,2016/17,Hong Kong,0,Babar Hayat,fbb657bb,Bilal Khan,dcdb87f2,Aizaz Khan,f6c2659d,0,0,0,0,0,,,,,,0,0,0
+1074961,2016/17,Hong Kong,1,Aizaz Khan,f6c2659d,Kaleemullah,72253b87,Babar Hayat,fbb657bb,0,0,0,0,0,,,,,,0,0,0
+1074961,2016/17,Hong Kong,1,Aizaz Khan,f6c2659d,Kaleemullah,72253b87,Babar Hayat,fbb657bb,0,0,0,0,0,,,,,,4,0,4
+1074961,2016/17,Hong Kong,1,Aizaz Khan,f6c2659d,Kaleemullah,72253b87,Babar Hayat,fbb657bb,0,0,0,0,0,,,,,,0,0,0
+1074961,2016/17,Hong Kong,1,Aizaz Khan,f6c2659d,Kaleemullah,72253b87,Babar Hayat,fbb657bb,0,0,0,0,0,,,,,,4,0,4
+1074961,2016/17,Hong Kong,1,Aizaz Khan,f6c2659d,Kaleemullah,72253b87,Babar Hayat,fbb657bb,0,0,0,0,0,,,,,,4,0,4
+1074961,2016/17,Hong Kong,1,Aizaz Khan,f6c2659d,Kaleemullah,72253b87,Babar Hayat,fbb657bb,0,0,0,0,0,,,,,,0,0,0
+1074961,2016/17,Hong Kong,2,Babar Hayat,fbb657bb,Bilal Khan,dcdb87f2,Aizaz Khan,f6c2659d,0,0,0,0,0,,,,,,0,0,0
+1074961,2016/17,Hong Kong,2,Babar Hayat,fbb657bb,Bilal Khan,dcdb87f2,Aizaz Khan,f6c2659d,0,0,0,0,0,,,,,,1,0,1
+1074961,2016/17,Hong Kong,2,Aizaz Khan,f6c2659d,Bilal Khan,dcdb87f2,Babar Hayat,fbb657bb,0,0,0,0,0,,,,,,1,0,1
+1074961,2016/17,Hong Kong,2,Babar Hayat,fbb657bb,Bilal Khan,dcdb87f2,Aizaz Khan,f6c2659d,0,0,0,0,0,,,,,,4,0,4
+1074961,2016/17,Hong Kong,2,Babar Hayat,fbb657bb,Bilal Khan,dcdb87f2,Aizaz Khan,f6c2659d,0,0,0,0,1,Babar Hayat,fbb657bb,,,lbw,0,0,0
+1074961,2016/17,Hong Kong,2,Anshuman Rath,552b228c,Bilal Khan,dcdb87f2,Aizaz Khan,f6c2659d,0,0,0,0,0,,,,,,3,0,3
+1074961,2016/17,Hong Kong,3,Anshuman Rath,552b228c,Kaleemullah,72253b87,Aizaz Khan,f6c2659d,0,0,0,0,0,,,,,,0,0,0
+1074961,2016/17,Hong Kong,3,Anshuman Rath,552b228c,Kaleemullah,72253b87,Aizaz Khan,f6c2659d,0,0,0,0,0,,,,,,0,0,0
+1074961,2016/17,Hong Kong,3,Anshuman Rath,552b228c,Kaleemullah,72253b87,Aizaz Khan,f6c2659d,0,0,0,0,0,,,,,,0,0,0
+1074961,2016/17,Hong Kong,3,Anshuman Rath,552b228c,Kaleemullah,72253b87,Aizaz Khan,f6c2659d,0,0,0,0,0,,,,,,4,0,4
+1074961,2016/17,Hong Kong,3,Anshuman Rath,552b228c,Kaleemullah,72253b87,Aizaz Khan,f6c2659d,0,0,0,0,0,,,,,,0,0,0
+1074961,2016/17,Hong Kong,3,Anshuman Rath,552b228c,Kaleemullah,72253b87,Aizaz Khan,f6c2659d,0,0,0,0,0,,,,,,1,0,1
+1074961,2016/17,Hong Kong,4,Anshuman Rath,552b228c,Bilal Khan,dcdb87f2,Aizaz Khan,f6c2659d,0,0,0,0,1,Anshuman Rath,552b228c,Sultan Ahmed,3bf7c034,caught,0,0,0
+1074961,2016/17,Hong Kong,4,Waqas Khan,35971419,Bilal Khan,dcdb87f2,Aizaz Khan,f6c2659d,0,0,0,0,0,,,,,,1,0,1
+1074961,2016/17,Hong Kong,4,Aizaz Khan,f6c2659d,Bilal Khan,dcdb87f2,Waqas Khan,35971419,0,0,0,0,0,,,,,,0,0,0
+1074961,2016/17,Hong Kong,4,Aizaz Khan,f6c2659d,Bilal Khan,dcdb87f2,Waqas Khan,35971419,0,0,0,0,0,,,,,,1,0,1
+1074961,2016/17,Hong Kong,4,Waqas Khan,35971419,Bilal Khan,dcdb87f2,Aizaz Khan,f6c2659d,0,0,0,0,0,,,,,,1,0,1
+1074961,2016/17,Hong Kong,4,Aizaz Khan,f6c2659d,Bilal Khan,dcdb87f2,Waqas Khan,35971419,0,0,0,0,0,,,,,,0,0,0
+1074961,2016/17,Hong Kong,5,Waqas Khan,35971419,Mohammad Nadeem,c5d7b244,Aizaz Khan,f6c2659d,0,0,0,0,0,,,,,,0,0,0
+1074961,2016/17,Hong Kong,5,Waqas Khan,35971419,Mohammad Nadeem,c5d7b244,Aizaz Khan,f6c2659d,0,0,0,0,0,,,,,,1,0,1
+1074961,2016/17,Hong Kong,5,Aizaz Khan,f6c2659d,Mohammad Nadeem,c5d7b244,Waqas Khan,35971419,0,0,0,0,0,,,,,,4,0,4
+1074961,2016/17,Hong Kong,5,Aizaz Khan,f6c2659d,Mohammad Nadeem,c5d7b244,Waqas Khan,35971419,0,0,0,0,1,Aizaz Khan,f6c2659d,Aqib Ilyas,b3b39bed,caught,0,0,0
+1074961,2016/17,Hong Kong,5,Shahid Wasif,2cc08c3c,Mohammad Nadeem,c5d7b244,Waqas Khan,35971419,0,0,0,0,0,,,,,,1,0,1
+1074961,2016/17,Hong Kong,5,Waqas Khan,35971419,Mohammad Nadeem,c5d7b244,Shahid Wasif,2cc08c3c,0,0,0,0,0,,,,,,0,0,0
+1074961,2016/17,Hong Kong,6,Shahid Wasif,2cc08c3c,Zeeshan Maqsood,34464143,Waqas Khan,35971419,0,0,0,0,1,Shahid Wasif,2cc08c3c,Kaleemullah,72253b87,run out,2,0,2
+1074961,2016/17,Hong Kong,6,Waqas Khan,35971419,Zeeshan Maqsood,34464143,Ehsan Khan,d3851cd8,0,0,0,0,0,,,,,,0,0,0
+1074961,2016/17,Hong Kong,6,Waqas Khan,35971419,Zeeshan Maqsood,34464143,Ehsan Khan,d3851cd8,0,0,0,0,0,,,,,,1,0,1
+1074961,2016/17,Hong Kong,6,Ehsan Khan,d3851cd8,Zeeshan Maqsood,34464143,Waqas Khan,35971419,0,0,0,0,0,,,,,,0,0,0
+1074961,2016/17,Hong Kong,6,Ehsan Khan,d3851cd8,Zeeshan Maqsood,34464143,Waqas Khan,35971419,0,0,0,0,0,,,,,,0,0,0
+1074961,2016/17,Hong Kong,6,Ehsan Khan,d3851cd8,Zeeshan Maqsood,34464143,Waqas Khan,35971419,0,0,0,0,0,,,,,,0,0,0
+1074961,2016/17,Hong Kong,7,Waqas Khan,35971419,Khawar Ali,934b36a6,Ehsan Khan,d3851cd8,0,0,0,0,0,,,,,,1,0,1
+1074961,2016/17,Hong Kong,7,Ehsan Khan,d3851cd8,Khawar Ali,934b36a6,Waqas Khan,35971419,0,0,0,0,0,,,,,,1,0,1
+1074961,2016/17,Hong Kong,7,Waqas Khan,35971419,Khawar Ali,934b36a6,Ehsan Khan,d3851cd8,0,0,0,0,0,,,,,,1,0,1
+1074961,2016/17,Hong Kong,7,Ehsan Khan,d3851cd8,Khawar Ali,934b36a6,Waqas Khan,35971419,0,0,0,0,0,,,,,,0,0,0
+1074961,2016/17,Hong Kong,7,Ehsan Khan,d3851cd8,Khawar Ali,934b36a6,Waqas Khan,35971419,0,0,0,0,0,,,,,,1,0,1
+1074961,2016/17,Hong Kong,7,Waqas Khan,35971419,Khawar Ali,934b36a6,Ehsan Khan,d3851cd8,0,0,0,0,0,,,,,,1,0,1
+1074961,2016/17,Hong Kong,8,Waqas Khan,35971419,Zeeshan Maqsood,34464143,Ehsan Khan,d3851cd8,0,0,0,0,0,,,,,,0,0,0
+1074961,2016/17,Hong Kong,8,Waqas Khan,35971419,Zeeshan Maqsood,34464143,Ehsan Khan,d3851cd8,0,0,0,0,0,,,,,,0,0,0
+1074961,2016/17,Hong Kong,8,Waqas Khan,35971419,Zeeshan Maqsood,34464143,Ehsan Khan,d3851cd8,0,0,0,0,1,Waqas Khan,35971419,,,lbw,0,0,0
+1074961,2016/17,Hong Kong,8,C Carter,1e25b5bf,Zeeshan Maqsood,34464143,Ehsan Khan,d3851cd8,0,0,0,0,0,,,,,,0,0,0
+1074961,2016/17,Hong Kong,8,C Carter,1e25b5bf,Zeeshan Maqsood,34464143,Ehsan Khan,d3851cd8,0,0,0,0,0,,,,,,0,0,0
+1074961,2016/17,Hong Kong,8,C Carter,1e25b5bf,Zeeshan Maqsood,34464143,Ehsan Khan,d3851cd8,0,0,0,0,0,,,,,,1,0,1
+1074961,2016/17,Hong Kong,9,C Carter,1e25b5bf,Khawar Ali,934b36a6,Ehsan Khan,d3851cd8,0,0,0,0,0,,,,,,1,0,1
+1074961,2016/17,Hong Kong,9,Ehsan Khan,d3851cd8,Khawar Ali,934b36a6,C Carter,1e25b5bf,0,0,0,0,0,,,,,,0,0,0
+1074961,2016/17,Hong Kong,9,Ehsan Khan,d3851cd8,Khawar Ali,934b36a6,C Carter,1e25b5bf,0,0,0,0,0,,,,,,0,0,0
+1074961,2016/17,Hong Kong,9,Ehsan Khan,d3851cd8,Khawar Ali,934b36a6,C Carter,1e25b5bf,0,0,0,0,0,,,,,,0,0,0
+1074961,2016/17,Hong Kong,9,Ehsan Khan,d3851cd8,Khawar Ali,934b36a6,C Carter,1e25b5bf,0,0,0,0,0,,,,,,1,0,1
+1074961,2016/17,Hong Kong,9,C Carter,1e25b5bf,Khawar Ali,934b36a6,Ehsan Khan,d3851cd8,0,0,0,0,0,,,,,,0,0,0
+1074961,2016/17,Hong Kong,10,Ehsan Khan,d3851cd8,Zeeshan Maqsood,34464143,C Carter,1e25b5bf,0,0,0,0,0,,,,,,0,0,0
+1074961,2016/17,Hong Kong,10,Ehsan Khan,d3851cd8,Zeeshan Maqsood,34464143,C Carter,1e25b5bf,0,0,0,0,0,,,,,,0,0,0
+1074961,2016/17,Hong Kong,10,Ehsan Khan,d3851cd8,Zeeshan Maqsood,34464143,C Carter,1e25b5bf,0,0,0,0,0,,,,,,0,0,0
+1074961,2016/17,Hong Kong,10,Ehsan Khan,d3851cd8,Zeeshan Maqsood,34464143,C Carter,1e25b5bf,0,0,0,0,0,,,,,,4,0,4
+1074961,2016/17,Hong Kong,10,Ehsan Khan,d3851cd8,Zeeshan Maqsood,34464143,C Carter,1e25b5bf,0,0,0,0,0,,,,,,2,0,2
+1074961,2016/17,Hong Kong,10,Ehsan Khan,d3851cd8,Zeeshan Maqsood,34464143,C Carter,1e25b5bf,0,0,0,0,0,,,,,,1,0,1
+1074961,2016/17,Hong Kong,11,Ehsan Khan,d3851cd8,Kaleemullah,72253b87,C Carter,1e25b5bf,0,0,0,0,0,,,,,,0,0,0
+1074961,2016/17,Hong Kong,11,Ehsan Khan,d3851cd8,Kaleemullah,72253b87,C Carter,1e25b5bf,0,0,0,0,1,Ehsan Khan,d3851cd8,,,lbw,0,0,0
+1074961,2016/17,Hong Kong,11,Ehsan Nawaz,70456281,Kaleemullah,72253b87,C Carter,1e25b5bf,0,0,0,0,0,,,,,,0,0,0
+1074961,2016/17,Hong Kong,11,Ehsan Nawaz,70456281,Kaleemullah,72253b87,C Carter,1e25b5bf,0,0,0,0,1,Ehsan Nawaz,70456281,Sultan Ahmed,3bf7c034,caught,0,0,0
+1074961,2016/17,Hong Kong,11,Nadeem Ahmed,023f6b02,Kaleemullah,72253b87,C Carter,1e25b5bf,0,0,0,0,0,,,,,,0,0,0
+1074961,2016/17,Hong Kong,11,Nadeem Ahmed,023f6b02,Kaleemullah,72253b87,C Carter,1e25b5bf,0,0,0,0,0,,,,,,0,0,0
+1074961,2016/17,Hong Kong,12,C Carter,1e25b5bf,Zeeshan Maqsood,34464143,Nadeem Ahmed,023f6b02,0,0,0,0,0,,,,,,1,0,1
+1074961,2016/17,Hong Kong,12,Nadeem Ahmed,023f6b02,Zeeshan Maqsood,34464143,C Carter,1e25b5bf,0,0,0,0,0,,,,,,0,0,0
+1074961,2016/17,Hong Kong,12,Nadeem Ahmed,023f6b02,Zeeshan Maqsood,34464143,C Carter,1e25b5bf,0,0,0,0,0,,,,,,0,0,0
+1074961,2016/17,Hong Kong,12,Nadeem Ahmed,023f6b02,Zeeshan Maqsood,34464143,C Carter,1e25b5bf,0,0,0,0,0,,,,,,0,0,0
+1074961,2016/17,Hong Kong,12,Nadeem Ahmed,023f6b02,Zeeshan Maqsood,34464143,C Carter,1e25b5bf,0,0,0,0,0,,,,,,2,0,2
+1074961,2016/17,Hong Kong,12,Nadeem Ahmed,023f6b02,Zeeshan Maqsood,34464143,C Carter,1e25b5bf,0,0,0,0,0,,,,,,0,0,0
+1074961,2016/17,Hong Kong,13,C Carter,1e25b5bf,Kaleemullah,72253b87,Nadeem Ahmed,023f6b02,0,0,0,0,0,,,,,,1,0,1
+1074961,2016/17,Hong Kong,13,Nadeem Ahmed,023f6b02,Kaleemullah,72253b87,C Carter,1e25b5bf,0,0,0,0,0,,,,,,1,0,1
+1074961,2016/17,Hong Kong,13,C Carter,1e25b5bf,Kaleemullah,72253b87,Nadeem Ahmed,023f6b02,0,0,0,0,0,,,,,,1,0,1
+1074961,2016/17,Hong Kong,13,Nadeem Ahmed,023f6b02,Kaleemullah,72253b87,C Carter,1e25b5bf,0,0,0,0,0,,,,,,1,0,1
+1074961,2016/17,Hong Kong,13,C Carter,1e25b5bf,Kaleemullah,72253b87,Nadeem Ahmed,023f6b02,0,0,0,0,0,,,,,,0,0,0
+1074961,2016/17,Hong Kong,13,C Carter,1e25b5bf,Kaleemullah,72253b87,Nadeem Ahmed,023f6b02,0,0,0,0,0,,,,,,2,0,2
+1074961,2016/17,Hong Kong,14,Nadeem Ahmed,023f6b02,Mohammad Nadeem,c5d7b244,C Carter,1e25b5bf,0,0,0,0,0,,,,,,0,0,0
+1074961,2016/17,Hong Kong,14,Nadeem Ahmed,023f6b02,Mohammad Nadeem,c5d7b244,C Carter,1e25b5bf,0,0,0,0,0,,,,,,1,0,1
+1074961,2016/17,Hong Kong,14,C Carter,1e25b5bf,Mohammad Nadeem,c5d7b244,Nadeem Ahmed,023f6b02,0,0,0,0,0,,,,,,1,0,1
+1074961,2016/17,Hong Kong,14,Nadeem Ahmed,023f6b02,Mohammad Nadeem,c5d7b244,C Carter,1e25b5bf,0,0,0,0,0,,,,,,0,0,0
+1074961,2016/17,Hong Kong,14,Nadeem Ahmed,023f6b02,Mohammad Nadeem,c5d7b244,C Carter,1e25b5bf,0,0,0,0,0,,,,,,1,0,1
+1074961,2016/17,Hong Kong,14,C Carter,1e25b5bf,Mohammad Nadeem,c5d7b244,Nadeem Ahmed,023f6b02,0,0,0,0,0,,,,,,1,0,1
+1074961,2016/17,Hong Kong,15,C Carter,1e25b5bf,Khawar Ali,934b36a6,Nadeem Ahmed,023f6b02,0,0,0,0,0,,,,,,1,0,1
+1074961,2016/17,Hong Kong,15,Nadeem Ahmed,023f6b02,Khawar Ali,934b36a6,C Carter,1e25b5bf,0,0,0,0,0,,,,,,0,0,0
+1074961,2016/17,Hong Kong,15,Nadeem Ahmed,023f6b02,Khawar Ali,934b36a6,C Carter,1e25b5bf,0,0,0,0,0,,,,,,1,0,1
+1074961,2016/17,Hong Kong,15,C Carter,1e25b5bf,Khawar Ali,934b36a6,Nadeem Ahmed,023f6b02,0,0,0,0,0,,,,,,1,0,1
+1074961,2016/17,Hong Kong,15,Nadeem Ahmed,023f6b02,Khawar Ali,934b36a6,C Carter,1e25b5bf,0,0,0,0,1,Nadeem Ahmed,023f6b02,,,bowled,0,0,0
+1074961,2016/17,Hong Kong,15,Tanveer Ahmed,571f11e4,Khawar Ali,934b36a6,C Carter,1e25b5bf,0,0,0,0,0,,,,,,0,0,0
+1074961,2016/17,Hong Kong,16,C Carter,1e25b5bf,Bilal Khan,dcdb87f2,Tanveer Ahmed,571f11e4,0,0,0,0,0,,,,,,1,0,1
+1074961,2016/17,Hong Kong,16,Tanveer Ahmed,571f11e4,Bilal Khan,dcdb87f2,C Carter,1e25b5bf,0,0,0,0,0,,,,,,0,0,0
+1074961,2016/17,Hong Kong,16,Tanveer Ahmed,571f11e4,Bilal Khan,dcdb87f2,C Carter,1e25b5bf,0,0,0,0,0,,,,,,0,0,0
+1074961,2016/17,Hong Kong,16,Tanveer Ahmed,571f11e4,Bilal Khan,dcdb87f2,C Carter,1e25b5bf,0,0,0,0,0,,,,,,0,0,0
+1074961,2016/17,Hong Kong,16,Tanveer Ahmed,571f11e4,Bilal Khan,dcdb87f2,C Carter,1e25b5bf,1,0,0,0,0,,,,,,0,1,1
+1074961,2016/17,Hong Kong,16,Tanveer Ahmed,571f11e4,Bilal Khan,dcdb87f2,C Carter,1e25b5bf,0,0,1,0,0,,,,,,0,1,1
+1074961,2016/17,Hong Kong,16,C Carter,1e25b5bf,Bilal Khan,dcdb87f2,Tanveer Ahmed,571f11e4,0,0,0,0,0,,,,,,1,0,1
+1074961,2016/17,Hong Kong,17,C Carter,1e25b5bf,Mohammad Nadeem,c5d7b244,Tanveer Ahmed,571f11e4,0,0,0,0,0,,,,,,1,0,1
+1074961,2016/17,Hong Kong,17,Tanveer Ahmed,571f11e4,Mohammad Nadeem,c5d7b244,C Carter,1e25b5bf,0,0,0,0,0,,,,,,2,0,2
+1074961,2016/17,Hong Kong,17,Tanveer Ahmed,571f11e4,Mohammad Nadeem,c5d7b244,C Carter,1e25b5bf,0,0,0,0,0,,,,,,1,0,1
+1074961,2016/17,Hong Kong,17,C Carter,1e25b5bf,Mohammad Nadeem,c5d7b244,Tanveer Ahmed,571f11e4,0,0,0,0,0,,,,,,1,0,1
+1074961,2016/17,Hong Kong,17,Tanveer Ahmed,571f11e4,Mohammad Nadeem,c5d7b244,C Carter,1e25b5bf,0,0,0,0,0,,,,,,4,0,4
+1074961,2016/17,Hong Kong,17,Tanveer Ahmed,571f11e4,Mohammad Nadeem,c5d7b244,C Carter,1e25b5bf,0,0,0,0,0,,,,,,0,0,0
+1074961,2016/17,Hong Kong,18,C Carter,1e25b5bf,Khawar Ali,934b36a6,Tanveer Ahmed,571f11e4,0,0,0,0,0,,,,,,0,0,0
+1074961,2016/17,Hong Kong,18,C Carter,1e25b5bf,Khawar Ali,934b36a6,Tanveer Ahmed,571f11e4,0,0,0,0,0,,,,,,2,0,2
+1074961,2016/17,Hong Kong,18,C Carter,1e25b5bf,Khawar Ali,934b36a6,Tanveer Ahmed,571f11e4,0,0,0,0,1,C Carter,1e25b5bf,A Poulose,b481216d,caught,0,0,0
+1074961,2016/17,Oman,0,Zeeshan Maqsood,34464143,Nadeem Ahmed,023f6b02,A Poulose,b481216d,0,0,0,0,0,,,,,,1,0,1
+1074961,2016/17,Oman,0,A Poulose,b481216d,Nadeem Ahmed,023f6b02,Zeeshan Maqsood,34464143,0,0,0,0,0,,,,,,0,0,0
+1074961,2016/17,Oman,0,A Poulose,b481216d,Nadeem Ahmed,023f6b02,Zeeshan Maqsood,34464143,0,0,0,0,1,A Poulose,b481216d,,,bowled,0,0,0
+1074961,2016/17,Oman,0,Aqib Ilyas,b3b39bed,Nadeem Ahmed,023f6b02,Zeeshan Maqsood,34464143,0,0,0,0,0,,,,,,0,0,0
+1074961,2016/17,Oman,0,Aqib Ilyas,b3b39bed,Nadeem Ahmed,023f6b02,Zeeshan Maqsood,34464143,0,0,0,0,0,,,,,,0,0,0
+1074961,2016/17,Oman,0,Aqib Ilyas,b3b39bed,Nadeem Ahmed,023f6b02,Zeeshan Maqsood,34464143,0,0,0,0,0,,,,,,0,0,0
+1074961,2016/17,Oman,1,Zeeshan Maqsood,34464143,Aizaz Khan,f6c2659d,Aqib Ilyas,b3b39bed,0,0,0,0,0,,,,,,1,0,1
+1074961,2016/17,Oman,1,Aqib Ilyas,b3b39bed,Aizaz Khan,f6c2659d,Zeeshan Maqsood,34464143,0,0,0,0,0,,,,,,1,0,1
+1074961,2016/17,Oman,1,Zeeshan Maqsood,34464143,Aizaz Khan,f6c2659d,Aqib Ilyas,b3b39bed,0,0,0,0,0,,,,,,0,0,0
+1074961,2016/17,Oman,1,Zeeshan Maqsood,34464143,Aizaz Khan,f6c2659d,Aqib Ilyas,b3b39bed,0,0,0,0,0,,,,,,0,0,0
+1074961,2016/17,Oman,1,Zeeshan Maqsood,34464143,Aizaz Khan,f6c2659d,Aqib Ilyas,b3b39bed,0,0,0,0,0,,,,,,0,0,0
+1074961,2016/17,Oman,1,Zeeshan Maqsood,34464143,Aizaz Khan,f6c2659d,Aqib Ilyas,b3b39bed,0,0,0,0,0,,,,,,1,0,1
+1074961,2016/17,Oman,2,Zeeshan Maqsood,34464143,Nadeem Ahmed,023f6b02,Aqib Ilyas,b3b39bed,0,0,0,0,0,,,,,,4,0,4
+1074961,2016/17,Oman,2,Zeeshan Maqsood,34464143,Nadeem Ahmed,023f6b02,Aqib Ilyas,b3b39bed,0,0,0,0,0,,,,,,0,0,0
+1074961,2016/17,Oman,2,Zeeshan Maqsood,34464143,Nadeem Ahmed,023f6b02,Aqib Ilyas,b3b39bed,0,0,0,0,0,,,,,,0,0,0
+1074961,2016/17,Oman,2,Zeeshan Maqsood,34464143,Nadeem Ahmed,023f6b02,Aqib Ilyas,b3b39bed,0,0,0,0,0,,,,,,4,0,4
+1074961,2016/17,Oman,2,Zeeshan Maqsood,34464143,Nadeem Ahmed,023f6b02,Aqib Ilyas,b3b39bed,0,0,0,0,0,,,,,,0,0,0
+1074961,2016/17,Oman,2,Zeeshan Maqsood,34464143,Nadeem Ahmed,023f6b02,Aqib Ilyas,b3b39bed,0,0,0,0,0,,,,,,0,0,0
+1074961,2016/17,Oman,3,Aqib Ilyas,b3b39bed,Aizaz Khan,f6c2659d,Zeeshan Maqsood,34464143,0,0,0,0,0,,,,,,1,0,1
+1074961,2016/17,Oman,3,Zeeshan Maqsood,34464143,Aizaz Khan,f6c2659d,Aqib Ilyas,b3b39bed,0,0,0,0,0,,,,,,0,0,0
+1074961,2016/17,Oman,3,Zeeshan Maqsood,34464143,Aizaz Khan,f6c2659d,Aqib Ilyas,b3b39bed,0,0,0,0,0,,,,,,0,0,0
+1074961,2016/17,Oman,3,Zeeshan Maqsood,34464143,Aizaz Khan,f6c2659d,Aqib Ilyas,b3b39bed,0,0,0,0,0,,,,,,0,0,0
+1074961,2016/17,Oman,3,Zeeshan Maqsood,34464143,Aizaz Khan,f6c2659d,Aqib Ilyas,b3b39bed,0,0,0,0,0,,,,,,4,0,4
+1074961,2016/17,Oman,3,Zeeshan Maqsood,34464143,Aizaz Khan,f6c2659d,Aqib Ilyas,b3b39bed,0,0,0,0,0,,,,,,0,0,0
+1074961,2016/17,Oman,4,Aqib Ilyas,b3b39bed,Nadeem Ahmed,023f6b02,Zeeshan Maqsood,34464143,0,0,0,0,0,,,,,,4,0,4
+1074961,2016/17,Oman,4,Aqib Ilyas,b3b39bed,Nadeem Ahmed,023f6b02,Zeeshan Maqsood,34464143,0,0,0,0,0,,,,,,0,0,0
+1074961,2016/17,Oman,4,Aqib Ilyas,b3b39bed,Nadeem Ahmed,023f6b02,Zeeshan Maqsood,34464143,0,0,0,0,0,,,,,,6,0,6
+1074961,2016/17,Oman,4,Aqib Ilyas,b3b39bed,Nadeem Ahmed,023f6b02,Zeeshan Maqsood,34464143,0,0,0,0,0,,,,,,0,0,0
+1074961,2016/17,Oman,4,Aqib Ilyas,b3b39bed,Nadeem Ahmed,023f6b02,Zeeshan Maqsood,34464143,0,0,0,0,0,,,,,,4,0,4
+1074961,2016/17,Oman,4,Aqib Ilyas,b3b39bed,Nadeem Ahmed,023f6b02,Zeeshan Maqsood,34464143,0,0,0,0,0,,,,,,0,0,0
+1074961,2016/17,Oman,5,Zeeshan Maqsood,34464143,Aizaz Khan,f6c2659d,Aqib Ilyas,b3b39bed,0,0,0,0,1,Zeeshan Maqsood,34464143,C Carter,1e25b5bf,caught,0,0,0
+1074961,2016/17,Oman,5,Khawar Ali,934b36a6,Aizaz Khan,f6c2659d,Aqib Ilyas,b3b39bed,0,0,0,0,0,,,,,,0,0,0
+1074961,2016/17,Oman,5,Khawar Ali,934b36a6,Aizaz Khan,f6c2659d,Aqib Ilyas,b3b39bed,0,0,0,0,0,,,,,,1,0,1
+1074961,2016/17,Oman,5,Aqib Ilyas,b3b39bed,Aizaz Khan,f6c2659d,Khawar Ali,934b36a6,0,0,0,0,0,,,,,,4,0,4
+1074961,2016/17,Oman,5,Aqib Ilyas,b3b39bed,Aizaz Khan,f6c2659d,Khawar Ali,934b36a6,0,0,0,0,0,,,,,,4,0,4
+1074961,2016/17,Oman,5,Aqib Ilyas,b3b39bed,Aizaz Khan,f6c2659d,Khawar Ali,934b36a6,0,0,0,0,0,,,,,,1,0,1
+1074961,2016/17,Oman,6,Aqib Ilyas,b3b39bed,Nadeem Ahmed,023f6b02,Khawar Ali,934b36a6,0,0,0,0,0,,,,,,0,0,0
+1074961,2016/17,Oman,6,Aqib Ilyas,b3b39bed,Nadeem Ahmed,023f6b02,Khawar Ali,934b36a6,0,0,0,0,0,,,,,,0,0,0
+1074961,2016/17,Oman,6,Aqib Ilyas,b3b39bed,Nadeem Ahmed,023f6b02,Khawar Ali,934b36a6,0,0,0,0,0,,,,,,0,0,0
+1074961,2016/17,Oman,6,Aqib Ilyas,b3b39bed,Nadeem Ahmed,023f6b02,Khawar Ali,934b36a6,0,0,0,0,0,,,,,,1,0,1
+1074961,2016/17,Oman,6,Khawar Ali,934b36a6,Nadeem Ahmed,023f6b02,Aqib Ilyas,b3b39bed,0,0,0,0,0,,,,,,4,0,4
+1074961,2016/17,Oman,6,Khawar Ali,934b36a6,Nadeem Ahmed,023f6b02,Aqib Ilyas,b3b39bed,0,0,0,0,0,,,,,,1,0,1
+1074961,2016/17,Oman,7,Khawar Ali,934b36a6,Ehsan Nawaz,70456281,Aqib Ilyas,b3b39bed,0,0,0,0,0,,,,,,0,0,0
+1074961,2016/17,Oman,7,Khawar Ali,934b36a6,Ehsan Nawaz,70456281,Aqib Ilyas,b3b39bed,0,0,0,0,0,,,,,,4,0,4
+1074961,2016/17,Oman,7,Khawar Ali,934b36a6,Ehsan Nawaz,70456281,Aqib Ilyas,b3b39bed,0,0,0,0,0,,,,,,1,0,1
+1074961,2016/17,Oman,7,Aqib Ilyas,b3b39bed,Ehsan Nawaz,70456281,Khawar Ali,934b36a6,0,0,0,0,0,,,,,,4,0,4
+1074961,2016/17,Oman,7,Aqib Ilyas,b3b39bed,Ehsan Nawaz,70456281,Khawar Ali,934b36a6,0,0,0,0,0,,,,,,0,0,0
+1074961,2016/17,Oman,7,Aqib Ilyas,b3b39bed,Ehsan Nawaz,70456281,Khawar Ali,934b36a6,0,0,0,0,0,,,,,,2,0,2
+1074961,2016/17,Oman,8,Khawar Ali,934b36a6,Ehsan Khan,d3851cd8,Aqib Ilyas,b3b39bed,0,0,0,0,0,,,,,,2,0,2
+1074961,2016/17,Oman,8,Khawar Ali,934b36a6,Ehsan Khan,d3851cd8,Aqib Ilyas,b3b39bed,0,0,0,0,1,Khawar Ali,934b36a6,Anshuman Rath,552b228c,caught,0,0,0
+1074961,2016/17,Oman,8,Khurram Nawaz,07ff32f5,Ehsan Khan,d3851cd8,Aqib Ilyas,b3b39bed,0,0,0,0,0,,,,,,0,0,0
+1074961,2016/17,Oman,8,Khurram Nawaz,07ff32f5,Ehsan Khan,d3851cd8,Aqib Ilyas,b3b39bed,0,0,0,0,0,,,,,,0,0,0
+1074961,2016/17,Oman,8,Khurram Nawaz,07ff32f5,Ehsan Khan,d3851cd8,Aqib Ilyas,b3b39bed,0,0,0,0,0,,,,,,0,0,0
+1074961,2016/17,Oman,8,Khurram Nawaz,07ff32f5,Ehsan Khan,d3851cd8,Aqib Ilyas,b3b39bed,0,0,0,0,0,,,,,,0,0,0
+1074961,2016/17,Oman,9,Aqib Ilyas,b3b39bed,Tanveer Ahmed,571f11e4,Khurram Nawaz,07ff32f5,0,0,0,0,0,,,,,,4,0,4
+1074961,2016/17,Oman,9,Aqib Ilyas,b3b39bed,Tanveer Ahmed,571f11e4,Khurram Nawaz,07ff32f5,0,0,0,0,0,,,,,,2,0,2
+1074961,2016/17,Oman,9,Aqib Ilyas,b3b39bed,Tanveer Ahmed,571f11e4,Khurram Nawaz,07ff32f5,0,0,0,0,0,,,,,,0,0,0
+1074961,2016/17,Oman,9,Aqib Ilyas,b3b39bed,Tanveer Ahmed,571f11e4,Khurram Nawaz,07ff32f5,0,0,0,0,0,,,,,,1,0,1
+1074961,2016/17,Oman,9,Khurram Nawaz,07ff32f5,Tanveer Ahmed,571f11e4,Aqib Ilyas,b3b39bed,0,0,0,0,0,,,,,,4,0,4
+1074961,2016/17,Oman,9,Khurram Nawaz,07ff32f5,Tanveer Ahmed,571f11e4,Aqib Ilyas,b3b39bed,0,0,0,0,0,,,,,,0,0,0
+1074961,2016/17,Oman,10,Aqib Ilyas,b3b39bed,Ehsan Khan,d3851cd8,Khurram Nawaz,07ff32f5,0,0,0,0,0,,,,,,4,0,4
+1074961,2016/17,Oman,10,Aqib Ilyas,b3b39bed,Ehsan Khan,d3851cd8,Khurram Nawaz,07ff32f5,0,0,0,0,0,,,,,,4,0,4
+1074961,2016/17,Oman,10,Aqib Ilyas,b3b39bed,Ehsan Khan,d3851cd8,Khurram Nawaz,07ff32f5,0,0,0,0,0,,,,,,4,0,4
+1074961,2016/17,Oman,10,Aqib Ilyas,b3b39bed,Ehsan Khan,d3851cd8,Khurram Nawaz,07ff32f5,0,0,0,0,0,,,,,,1,0,1
+1074961,2016/17,Oman,10,Khurram Nawaz,07ff32f5,Ehsan Khan,d3851cd8,Aqib Ilyas,b3b39bed,0,0,0,0,0,,,,,,1,0,1
+1074961,2016/17,Oman,10,Aqib Ilyas,b3b39bed,Ehsan Khan,d3851cd8,Khurram Nawaz,07ff32f5,0,0,0,0,0,,,,,,4,0,4

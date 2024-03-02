@@ -1,0 +1,225 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1249207,2021,Sri Lanka,0,MD Gunathilaka,509a7ca1,DJ Willey,7f048519,WIA Fernando,9550470d,0,0,2,0,0,,,,,,0,2,2
+1249207,2021,Sri Lanka,0,MD Gunathilaka,509a7ca1,DJ Willey,7f048519,WIA Fernando,9550470d,0,0,0,0,0,,,,,,1,0,1
+1249207,2021,Sri Lanka,0,WIA Fernando,9550470d,DJ Willey,7f048519,MD Gunathilaka,509a7ca1,0,0,0,0,0,,,,,,0,0,0
+1249207,2021,Sri Lanka,0,WIA Fernando,9550470d,DJ Willey,7f048519,MD Gunathilaka,509a7ca1,0,0,0,0,0,,,,,,0,0,0
+1249207,2021,Sri Lanka,0,WIA Fernando,9550470d,DJ Willey,7f048519,MD Gunathilaka,509a7ca1,0,0,0,0,0,,,,,,1,0,1
+1249207,2021,Sri Lanka,0,MD Gunathilaka,509a7ca1,DJ Willey,7f048519,WIA Fernando,9550470d,0,0,0,0,0,,,,,,1,0,1
+1249207,2021,Sri Lanka,1,MD Gunathilaka,509a7ca1,SM Curran,e94915e6,WIA Fernando,9550470d,0,0,0,0,0,,,,,,1,0,1
+1249207,2021,Sri Lanka,1,WIA Fernando,9550470d,SM Curran,e94915e6,MD Gunathilaka,509a7ca1,0,0,0,0,0,,,,,,0,0,0
+1249207,2021,Sri Lanka,1,WIA Fernando,9550470d,SM Curran,e94915e6,MD Gunathilaka,509a7ca1,0,0,0,0,1,MD Gunathilaka,509a7ca1,SM Curran,e94915e6,run out,0,0,0
+1249207,2021,Sri Lanka,1,MDKJ Perera,f21043a5,SM Curran,e94915e6,WIA Fernando,9550470d,0,0,0,0,0,,,,,,0,0,0
+1249207,2021,Sri Lanka,1,MDKJ Perera,f21043a5,SM Curran,e94915e6,WIA Fernando,9550470d,0,0,0,0,0,,,,,,2,0,2
+1249207,2021,Sri Lanka,1,MDKJ Perera,f21043a5,SM Curran,e94915e6,WIA Fernando,9550470d,0,0,0,0,0,,,,,,1,0,1
+1249207,2021,Sri Lanka,2,MDKJ Perera,f21043a5,DJ Willey,7f048519,WIA Fernando,9550470d,0,0,0,0,0,,,,,,1,0,1
+1249207,2021,Sri Lanka,2,WIA Fernando,9550470d,DJ Willey,7f048519,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,0,0,0
+1249207,2021,Sri Lanka,2,WIA Fernando,9550470d,DJ Willey,7f048519,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,2,0,2
+1249207,2021,Sri Lanka,2,WIA Fernando,9550470d,DJ Willey,7f048519,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,1,0,1
+1249207,2021,Sri Lanka,2,MDKJ Perera,f21043a5,DJ Willey,7f048519,WIA Fernando,9550470d,0,0,0,0,0,,,,,,0,0,0
+1249207,2021,Sri Lanka,2,MDKJ Perera,f21043a5,DJ Willey,7f048519,WIA Fernando,9550470d,1,0,0,0,0,,,,,,0,1,1
+1249207,2021,Sri Lanka,2,MDKJ Perera,f21043a5,DJ Willey,7f048519,WIA Fernando,9550470d,0,0,1,0,0,,,,,,0,1,1
+1249207,2021,Sri Lanka,3,MDKJ Perera,f21043a5,SM Curran,e94915e6,WIA Fernando,9550470d,0,0,0,0,0,,,,,,1,0,1
+1249207,2021,Sri Lanka,3,WIA Fernando,9550470d,SM Curran,e94915e6,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,2,0,2
+1249207,2021,Sri Lanka,3,WIA Fernando,9550470d,SM Curran,e94915e6,MDKJ Perera,f21043a5,0,0,0,0,1,WIA Fernando,9550470d,LS Livingstone,50c6bc2b,caught,0,0,0
+1249207,2021,Sri Lanka,3,BKG Mendis,5d1e7582,SM Curran,e94915e6,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,1,0,1
+1249207,2021,Sri Lanka,3,MDKJ Perera,f21043a5,SM Curran,e94915e6,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,0,0,0
+1249207,2021,Sri Lanka,3,MDKJ Perera,f21043a5,SM Curran,e94915e6,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,0,0,0
+1249207,2021,Sri Lanka,4,BKG Mendis,5d1e7582,DJ Willey,7f048519,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,0,0,0
+1249207,2021,Sri Lanka,4,BKG Mendis,5d1e7582,DJ Willey,7f048519,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,0,0,0
+1249207,2021,Sri Lanka,4,BKG Mendis,5d1e7582,DJ Willey,7f048519,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,2,0,2
+1249207,2021,Sri Lanka,4,BKG Mendis,5d1e7582,DJ Willey,7f048519,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,0,0,0
+1249207,2021,Sri Lanka,4,BKG Mendis,5d1e7582,DJ Willey,7f048519,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,0,0,0
+1249207,2021,Sri Lanka,4,BKG Mendis,5d1e7582,DJ Willey,7f048519,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,0,0,0
+1249207,2021,Sri Lanka,5,MDKJ Perera,f21043a5,CJ Jordan,ffe699c0,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,0,0,0
+1249207,2021,Sri Lanka,5,MDKJ Perera,f21043a5,CJ Jordan,ffe699c0,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,1,0,1
+1249207,2021,Sri Lanka,5,BKG Mendis,5d1e7582,CJ Jordan,ffe699c0,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,1,0,1
+1249207,2021,Sri Lanka,5,MDKJ Perera,f21043a5,CJ Jordan,ffe699c0,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,2,0,2
+1249207,2021,Sri Lanka,5,MDKJ Perera,f21043a5,CJ Jordan,ffe699c0,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,1,0,1
+1249207,2021,Sri Lanka,5,BKG Mendis,5d1e7582,CJ Jordan,ffe699c0,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,0,0,0
+1249207,2021,Sri Lanka,6,MDKJ Perera,f21043a5,LS Livingstone,50c6bc2b,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,1,0,1
+1249207,2021,Sri Lanka,6,BKG Mendis,5d1e7582,LS Livingstone,50c6bc2b,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,0,0,0
+1249207,2021,Sri Lanka,6,BKG Mendis,5d1e7582,LS Livingstone,50c6bc2b,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,1,0,1
+1249207,2021,Sri Lanka,6,MDKJ Perera,f21043a5,LS Livingstone,50c6bc2b,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,1,0,1
+1249207,2021,Sri Lanka,6,BKG Mendis,5d1e7582,LS Livingstone,50c6bc2b,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,0,0,0
+1249207,2021,Sri Lanka,6,BKG Mendis,5d1e7582,LS Livingstone,50c6bc2b,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,0,0,0
+1249207,2021,Sri Lanka,7,MDKJ Perera,f21043a5,MA Wood,8d92a2c3,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,1,0,1
+1249207,2021,Sri Lanka,7,BKG Mendis,5d1e7582,MA Wood,8d92a2c3,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,1,0,1
+1249207,2021,Sri Lanka,7,MDKJ Perera,f21043a5,MA Wood,8d92a2c3,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,1,0,1
+1249207,2021,Sri Lanka,7,BKG Mendis,5d1e7582,MA Wood,8d92a2c3,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,4,0,4
+1249207,2021,Sri Lanka,7,BKG Mendis,5d1e7582,MA Wood,8d92a2c3,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,0,0,0
+1249207,2021,Sri Lanka,7,BKG Mendis,5d1e7582,MA Wood,8d92a2c3,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,1,0,1
+1249207,2021,Sri Lanka,8,BKG Mendis,5d1e7582,LS Livingstone,50c6bc2b,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,0,0,0
+1249207,2021,Sri Lanka,8,BKG Mendis,5d1e7582,LS Livingstone,50c6bc2b,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,4,0,4
+1249207,2021,Sri Lanka,8,BKG Mendis,5d1e7582,LS Livingstone,50c6bc2b,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,0,0,0
+1249207,2021,Sri Lanka,8,BKG Mendis,5d1e7582,LS Livingstone,50c6bc2b,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,2,0,2
+1249207,2021,Sri Lanka,8,BKG Mendis,5d1e7582,LS Livingstone,50c6bc2b,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,1,0,1
+1249207,2021,Sri Lanka,8,MDKJ Perera,f21043a5,LS Livingstone,50c6bc2b,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,0,0,0
+1249207,2021,Sri Lanka,9,BKG Mendis,5d1e7582,MA Wood,8d92a2c3,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,0,0,0
+1249207,2021,Sri Lanka,9,BKG Mendis,5d1e7582,MA Wood,8d92a2c3,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,0,0,0
+1249207,2021,Sri Lanka,9,BKG Mendis,5d1e7582,MA Wood,8d92a2c3,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,0,0,0
+1249207,2021,Sri Lanka,9,BKG Mendis,5d1e7582,MA Wood,8d92a2c3,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,1,0,1
+1249207,2021,Sri Lanka,9,MDKJ Perera,f21043a5,MA Wood,8d92a2c3,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,1,0,1
+1249207,2021,Sri Lanka,9,BKG Mendis,5d1e7582,MA Wood,8d92a2c3,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,1,0,1
+1249207,2021,Sri Lanka,10,BKG Mendis,5d1e7582,AU Rashid,249d60c9,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,1,0,1
+1249207,2021,Sri Lanka,10,MDKJ Perera,f21043a5,AU Rashid,249d60c9,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,1,0,1
+1249207,2021,Sri Lanka,10,BKG Mendis,5d1e7582,AU Rashid,249d60c9,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,1,0,1
+1249207,2021,Sri Lanka,10,MDKJ Perera,f21043a5,AU Rashid,249d60c9,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,2,0,2
+1249207,2021,Sri Lanka,10,MDKJ Perera,f21043a5,AU Rashid,249d60c9,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,1,0,1
+1249207,2021,Sri Lanka,10,BKG Mendis,5d1e7582,AU Rashid,249d60c9,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,2,0,2
+1249207,2021,Sri Lanka,11,MDKJ Perera,f21043a5,CJ Jordan,ffe699c0,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,1,0,1
+1249207,2021,Sri Lanka,11,BKG Mendis,5d1e7582,CJ Jordan,ffe699c0,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,0,0,0
+1249207,2021,Sri Lanka,11,BKG Mendis,5d1e7582,CJ Jordan,ffe699c0,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,6,0,6
+1249207,2021,Sri Lanka,11,BKG Mendis,5d1e7582,CJ Jordan,ffe699c0,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,0,0,0
+1249207,2021,Sri Lanka,11,BKG Mendis,5d1e7582,CJ Jordan,ffe699c0,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,1,0,1
+1249207,2021,Sri Lanka,11,MDKJ Perera,f21043a5,CJ Jordan,ffe699c0,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,2,0,2
+1249207,2021,Sri Lanka,12,BKG Mendis,5d1e7582,AU Rashid,249d60c9,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,2,0,2
+1249207,2021,Sri Lanka,12,BKG Mendis,5d1e7582,AU Rashid,249d60c9,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,1,0,1
+1249207,2021,Sri Lanka,12,MDKJ Perera,f21043a5,AU Rashid,249d60c9,BKG Mendis,5d1e7582,0,0,0,0,1,MDKJ Perera,f21043a5,EJG Morgan,d2a6c0e6,caught,0,0,0
+1249207,2021,Sri Lanka,12,N Dickwella,45963d9e,AU Rashid,249d60c9,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,2,0,2
+1249207,2021,Sri Lanka,12,N Dickwella,45963d9e,AU Rashid,249d60c9,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,1,0,1
+1249207,2021,Sri Lanka,12,BKG Mendis,5d1e7582,AU Rashid,249d60c9,N Dickwella,45963d9e,0,0,0,0,0,,,,,,1,0,1
+1249207,2021,Sri Lanka,13,BKG Mendis,5d1e7582,MA Wood,8d92a2c3,N Dickwella,45963d9e,0,0,0,0,0,,,,,,4,0,4
+1249207,2021,Sri Lanka,13,BKG Mendis,5d1e7582,MA Wood,8d92a2c3,N Dickwella,45963d9e,0,0,0,0,1,BKG Mendis,5d1e7582,JM Bairstow,abb83e27,caught,0,0,0
+1249207,2021,Sri Lanka,13,N Dickwella,45963d9e,MA Wood,8d92a2c3,MD Shanaka,3ff033bb,0,0,0,0,1,N Dickwella,45963d9e,EJG Morgan,d2a6c0e6,caught,0,0,0
+1249207,2021,Sri Lanka,13,PWH de Silva,a97c8ec2,MA Wood,8d92a2c3,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,0,0,0
+1249207,2021,Sri Lanka,13,PWH de Silva,a97c8ec2,MA Wood,8d92a2c3,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,0,0,0
+1249207,2021,Sri Lanka,13,PWH de Silva,a97c8ec2,MA Wood,8d92a2c3,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,0,0,0
+1249207,2021,Sri Lanka,14,MD Shanaka,3ff033bb,AU Rashid,249d60c9,PWH de Silva,a97c8ec2,0,0,0,0,0,,,,,,0,0,0
+1249207,2021,Sri Lanka,14,MD Shanaka,3ff033bb,AU Rashid,249d60c9,PWH de Silva,a97c8ec2,0,0,0,0,0,,,,,,1,0,1
+1249207,2021,Sri Lanka,14,PWH de Silva,a97c8ec2,AU Rashid,249d60c9,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,1,0,1
+1249207,2021,Sri Lanka,14,MD Shanaka,3ff033bb,AU Rashid,249d60c9,PWH de Silva,a97c8ec2,0,0,0,0,0,,,,,,0,0,0
+1249207,2021,Sri Lanka,14,MD Shanaka,3ff033bb,AU Rashid,249d60c9,PWH de Silva,a97c8ec2,0,0,0,0,0,,,,,,2,0,2
+1249207,2021,Sri Lanka,14,MD Shanaka,3ff033bb,AU Rashid,249d60c9,PWH de Silva,a97c8ec2,0,0,0,0,0,,,,,,1,0,1
+1249207,2021,Sri Lanka,15,MD Shanaka,3ff033bb,MA Wood,8d92a2c3,PWH de Silva,a97c8ec2,0,0,0,0,0,,,,,,0,0,0
+1249207,2021,Sri Lanka,15,MD Shanaka,3ff033bb,MA Wood,8d92a2c3,PWH de Silva,a97c8ec2,0,0,0,0,0,,,,,,0,0,0
+1249207,2021,Sri Lanka,15,MD Shanaka,3ff033bb,MA Wood,8d92a2c3,PWH de Silva,a97c8ec2,0,0,0,0,0,,,,,,1,0,1
+1249207,2021,Sri Lanka,15,PWH de Silva,a97c8ec2,MA Wood,8d92a2c3,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,1,0,1
+1249207,2021,Sri Lanka,15,MD Shanaka,3ff033bb,MA Wood,8d92a2c3,PWH de Silva,a97c8ec2,0,0,0,0,0,,,,,,0,0,0
+1249207,2021,Sri Lanka,15,MD Shanaka,3ff033bb,MA Wood,8d92a2c3,PWH de Silva,a97c8ec2,0,0,0,0,0,,,,,,1,0,1
+1249207,2021,Sri Lanka,16,MD Shanaka,3ff033bb,AU Rashid,249d60c9,PWH de Silva,a97c8ec2,0,0,0,0,0,,,,,,1,0,1
+1249207,2021,Sri Lanka,16,PWH de Silva,a97c8ec2,AU Rashid,249d60c9,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,1,0,1
+1249207,2021,Sri Lanka,16,MD Shanaka,3ff033bb,AU Rashid,249d60c9,PWH de Silva,a97c8ec2,0,0,0,0,0,,,,,,1,0,1
+1249207,2021,Sri Lanka,16,PWH de Silva,a97c8ec2,AU Rashid,249d60c9,MD Shanaka,3ff033bb,0,0,0,0,1,PWH de Silva,a97c8ec2,JM Bairstow,abb83e27,stumped,0,0,0
+1249207,2021,Sri Lanka,16,I Udana,ac5ae4af,AU Rashid,249d60c9,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,0,0,0
+1249207,2021,Sri Lanka,16,I Udana,ac5ae4af,AU Rashid,249d60c9,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,1,0,1
+1249207,2021,Sri Lanka,17,I Udana,ac5ae4af,CJ Jordan,ffe699c0,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,0,0,0
+1249207,2021,Sri Lanka,17,I Udana,ac5ae4af,CJ Jordan,ffe699c0,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,1,0,1
+1249207,2021,Sri Lanka,17,MD Shanaka,3ff033bb,CJ Jordan,ffe699c0,I Udana,ac5ae4af,1,0,0,0,0,,,,,,0,1,1
+1249207,2021,Sri Lanka,17,MD Shanaka,3ff033bb,CJ Jordan,ffe699c0,I Udana,ac5ae4af,0,0,0,0,0,,,,,,0,0,0
+1249207,2021,Sri Lanka,17,MD Shanaka,3ff033bb,CJ Jordan,ffe699c0,I Udana,ac5ae4af,0,0,0,0,1,MD Shanaka,3ff033bb,DJ Willey,7f048519,caught,0,0,0
+1249207,2021,Sri Lanka,17,A Dananjaya,5b16a806,CJ Jordan,ffe699c0,I Udana,ac5ae4af,0,0,0,0,0,,,,,,0,0,0
+1249207,2021,Sri Lanka,17,A Dananjaya,5b16a806,CJ Jordan,ffe699c0,I Udana,ac5ae4af,0,0,0,0,0,,,,,,0,0,0
+1249207,2021,Sri Lanka,18,I Udana,ac5ae4af,DJ Willey,7f048519,A Dananjaya,5b16a806,0,0,0,0,0,,,,,,1,0,1
+1249207,2021,Sri Lanka,18,A Dananjaya,5b16a806,DJ Willey,7f048519,I Udana,ac5ae4af,1,0,0,0,0,,,,,,0,1,1
+1249207,2021,Sri Lanka,18,A Dananjaya,5b16a806,DJ Willey,7f048519,I Udana,ac5ae4af,1,0,0,0,0,,,,,,0,1,1
+1249207,2021,Sri Lanka,18,A Dananjaya,5b16a806,DJ Willey,7f048519,I Udana,ac5ae4af,0,0,0,0,0,,,,,,1,0,1
+1249207,2021,Sri Lanka,18,I Udana,ac5ae4af,DJ Willey,7f048519,A Dananjaya,5b16a806,0,0,0,0,0,,,,,,0,0,0
+1249207,2021,Sri Lanka,18,I Udana,ac5ae4af,DJ Willey,7f048519,A Dananjaya,5b16a806,0,0,0,0,0,,,,,,1,0,1
+1249207,2021,Sri Lanka,18,A Dananjaya,5b16a806,DJ Willey,7f048519,I Udana,ac5ae4af,0,0,0,0,0,,,,,,1,0,1
+1249207,2021,Sri Lanka,18,I Udana,ac5ae4af,DJ Willey,7f048519,A Dananjaya,5b16a806,0,0,0,0,0,,,,,,1,0,1
+1249207,2021,Sri Lanka,19,I Udana,ac5ae4af,CJ Jordan,ffe699c0,A Dananjaya,5b16a806,0,0,0,0,0,,,,,,4,0,4
+1249207,2021,Sri Lanka,19,I Udana,ac5ae4af,CJ Jordan,ffe699c0,A Dananjaya,5b16a806,0,0,0,0,0,,,,,,0,0,0
+1249207,2021,Sri Lanka,19,I Udana,ac5ae4af,CJ Jordan,ffe699c0,A Dananjaya,5b16a806,0,0,0,0,0,,,,,,2,0,2
+1249207,2021,Sri Lanka,19,I Udana,ac5ae4af,CJ Jordan,ffe699c0,A Dananjaya,5b16a806,0,0,0,0,0,,,,,,6,0,6
+1249207,2021,Sri Lanka,19,I Udana,ac5ae4af,CJ Jordan,ffe699c0,A Dananjaya,5b16a806,0,0,0,0,0,,,,,,0,0,0
+1249207,2021,Sri Lanka,19,I Udana,ac5ae4af,CJ Jordan,ffe699c0,A Dananjaya,5b16a806,0,0,0,0,0,,,,,,2,0,2
+1249207,2021,England,0,JJ Roy,d1c36f5c,PVD Chameera,327b58d3,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,0,0,0
+1249207,2021,England,0,JJ Roy,d1c36f5c,PVD Chameera,327b58d3,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,0,0,0
+1249207,2021,England,0,JJ Roy,d1c36f5c,PVD Chameera,327b58d3,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,0,0,0
+1249207,2021,England,0,JJ Roy,d1c36f5c,PVD Chameera,327b58d3,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,1,0,1
+1249207,2021,England,0,JM Bairstow,abb83e27,PVD Chameera,327b58d3,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,0,0,0
+1249207,2021,England,0,JM Bairstow,abb83e27,PVD Chameera,327b58d3,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,0,0,0
+1249207,2021,England,1,JJ Roy,d1c36f5c,B Fernando,dabbd0ae,JM Bairstow,abb83e27,0,0,0,0,0,,,,,,1,0,1
+1249207,2021,England,1,JM Bairstow,abb83e27,B Fernando,dabbd0ae,JJ Roy,d1c36f5c,0,0,0,0,1,JM Bairstow,abb83e27,,,bowled,0,0,0
+1249207,2021,England,1,DJ Malan,ad9c32a2,B Fernando,dabbd0ae,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,0,0,0
+1249207,2021,England,1,DJ Malan,ad9c32a2,B Fernando,dabbd0ae,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,0,0,0
+1249207,2021,England,1,DJ Malan,ad9c32a2,B Fernando,dabbd0ae,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,4,0,4
+1249207,2021,England,1,DJ Malan,ad9c32a2,B Fernando,dabbd0ae,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,0,0,0
+1249207,2021,England,2,JJ Roy,d1c36f5c,PVD Chameera,327b58d3,DJ Malan,ad9c32a2,0,0,0,0,0,,,,,,0,0,0
+1249207,2021,England,2,JJ Roy,d1c36f5c,PVD Chameera,327b58d3,DJ Malan,ad9c32a2,0,0,0,0,0,,,,,,1,0,1
+1249207,2021,England,2,DJ Malan,ad9c32a2,PVD Chameera,327b58d3,JJ Roy,d1c36f5c,1,0,0,0,0,,,,,,0,1,1
+1249207,2021,England,2,DJ Malan,ad9c32a2,PVD Chameera,327b58d3,JJ Roy,d1c36f5c,0,0,0,0,1,DJ Malan,ad9c32a2,,,lbw,0,0,0
+1249207,2021,England,2,EJG Morgan,d2a6c0e6,PVD Chameera,327b58d3,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,1,0,1
+1249207,2021,England,2,JJ Roy,d1c36f5c,PVD Chameera,327b58d3,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,1,0,1
+1249207,2021,England,2,EJG Morgan,d2a6c0e6,PVD Chameera,327b58d3,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,0,0,0
+1249207,2021,England,3,JJ Roy,d1c36f5c,B Fernando,dabbd0ae,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,0,0,0
+1249207,2021,England,3,JJ Roy,d1c36f5c,B Fernando,dabbd0ae,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,0,0,0
+1249207,2021,England,3,JJ Roy,d1c36f5c,B Fernando,dabbd0ae,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,1,0,1
+1249207,2021,England,3,EJG Morgan,d2a6c0e6,B Fernando,dabbd0ae,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,0,0,0
+1249207,2021,England,3,EJG Morgan,d2a6c0e6,B Fernando,dabbd0ae,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,2,0,2
+1249207,2021,England,3,EJG Morgan,d2a6c0e6,B Fernando,dabbd0ae,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,4,0,4
+1249207,2021,England,4,JJ Roy,d1c36f5c,PVD Chameera,327b58d3,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,4,0,4
+1249207,2021,England,4,JJ Roy,d1c36f5c,PVD Chameera,327b58d3,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,2,0,2
+1249207,2021,England,4,JJ Roy,d1c36f5c,PVD Chameera,327b58d3,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,1,0,1
+1249207,2021,England,4,EJG Morgan,d2a6c0e6,PVD Chameera,327b58d3,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,0,0,0
+1249207,2021,England,4,EJG Morgan,d2a6c0e6,PVD Chameera,327b58d3,JJ Roy,d1c36f5c,1,0,0,0,0,,,,,,0,1,1
+1249207,2021,England,4,EJG Morgan,d2a6c0e6,PVD Chameera,327b58d3,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,4,0,4
+1249207,2021,England,4,EJG Morgan,d2a6c0e6,PVD Chameera,327b58d3,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,0,0,0
+1249207,2021,England,5,JJ Roy,d1c36f5c,I Udana,ac5ae4af,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,1,0,1
+1249207,2021,England,5,EJG Morgan,d2a6c0e6,I Udana,ac5ae4af,JJ Roy,d1c36f5c,0,0,0,0,1,EJG Morgan,d2a6c0e6,PWH de Silva,a97c8ec2,caught,0,0,0
+1249207,2021,England,5,SW Billings,c16d4035,I Udana,ac5ae4af,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,0,0,0
+1249207,2021,England,5,SW Billings,c16d4035,I Udana,ac5ae4af,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,0,0,0
+1249207,2021,England,5,SW Billings,c16d4035,I Udana,ac5ae4af,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,0,0,0
+1249207,2021,England,5,SW Billings,c16d4035,I Udana,ac5ae4af,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,1,0,1
+1249207,2021,England,6,SW Billings,c16d4035,PWH de Silva,a97c8ec2,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,1,0,1
+1249207,2021,England,6,JJ Roy,d1c36f5c,PWH de Silva,a97c8ec2,SW Billings,c16d4035,0,0,0,0,0,,,,,,4,0,4
+1249207,2021,England,6,JJ Roy,d1c36f5c,PWH de Silva,a97c8ec2,SW Billings,c16d4035,0,0,0,0,1,JJ Roy,d1c36f5c,MD Shanaka,3ff033bb,caught,0,0,0
+1249207,2021,England,6,LS Livingstone,50c6bc2b,PWH de Silva,a97c8ec2,SW Billings,c16d4035,0,0,0,0,0,,,,,,0,0,0
+1249207,2021,England,6,LS Livingstone,50c6bc2b,PWH de Silva,a97c8ec2,SW Billings,c16d4035,0,0,0,0,0,,,,,,1,0,1
+1249207,2021,England,6,SW Billings,c16d4035,PWH de Silva,a97c8ec2,LS Livingstone,50c6bc2b,0,0,0,0,0,,,,,,0,0,0
+1249207,2021,England,7,LS Livingstone,50c6bc2b,I Udana,ac5ae4af,SW Billings,c16d4035,0,0,0,0,0,,,,,,0,0,0
+1249207,2021,England,7,LS Livingstone,50c6bc2b,I Udana,ac5ae4af,SW Billings,c16d4035,0,0,0,0,0,,,,,,1,0,1
+1249207,2021,England,7,SW Billings,c16d4035,I Udana,ac5ae4af,LS Livingstone,50c6bc2b,0,0,0,0,0,,,,,,4,0,4
+1249207,2021,England,7,SW Billings,c16d4035,I Udana,ac5ae4af,LS Livingstone,50c6bc2b,0,0,0,0,0,,,,,,0,0,0
+1249207,2021,England,7,SW Billings,c16d4035,I Udana,ac5ae4af,LS Livingstone,50c6bc2b,0,0,0,0,0,,,,,,1,0,1
+1249207,2021,England,7,LS Livingstone,50c6bc2b,I Udana,ac5ae4af,SW Billings,c16d4035,0,0,0,0,0,,,,,,1,0,1
+1249207,2021,England,8,LS Livingstone,50c6bc2b,PWH de Silva,a97c8ec2,SW Billings,c16d4035,0,0,0,0,0,,,,,,1,0,1
+1249207,2021,England,8,SW Billings,c16d4035,PWH de Silva,a97c8ec2,LS Livingstone,50c6bc2b,0,0,0,0,0,,,,,,1,0,1
+1249207,2021,England,8,LS Livingstone,50c6bc2b,PWH de Silva,a97c8ec2,SW Billings,c16d4035,0,0,0,0,0,,,,,,0,0,0
+1249207,2021,England,8,LS Livingstone,50c6bc2b,PWH de Silva,a97c8ec2,SW Billings,c16d4035,0,0,0,0,0,,,,,,0,0,0
+1249207,2021,England,8,LS Livingstone,50c6bc2b,PWH de Silva,a97c8ec2,SW Billings,c16d4035,0,0,0,0,0,,,,,,3,0,3
+1249207,2021,England,8,SW Billings,c16d4035,PWH de Silva,a97c8ec2,LS Livingstone,50c6bc2b,0,0,0,0,0,,,,,,1,0,1
+1249207,2021,England,9,SW Billings,c16d4035,B Fernando,dabbd0ae,LS Livingstone,50c6bc2b,0,0,0,0,0,,,,,,0,0,0
+1249207,2021,England,9,SW Billings,c16d4035,B Fernando,dabbd0ae,LS Livingstone,50c6bc2b,0,0,0,0,0,,,,,,0,0,0
+1249207,2021,England,9,SW Billings,c16d4035,B Fernando,dabbd0ae,LS Livingstone,50c6bc2b,0,0,0,0,0,,,,,,1,0,1
+1249207,2021,England,9,LS Livingstone,50c6bc2b,B Fernando,dabbd0ae,SW Billings,c16d4035,1,0,0,0,0,,,,,,0,1,1
+1249207,2021,England,9,LS Livingstone,50c6bc2b,B Fernando,dabbd0ae,SW Billings,c16d4035,0,0,0,0,0,,,,,,1,0,1
+1249207,2021,England,9,SW Billings,c16d4035,B Fernando,dabbd0ae,LS Livingstone,50c6bc2b,0,0,0,0,0,,,,,,1,0,1
+1249207,2021,England,9,LS Livingstone,50c6bc2b,B Fernando,dabbd0ae,SW Billings,c16d4035,0,0,0,0,0,,,,,,1,0,1
+1249207,2021,England,10,LS Livingstone,50c6bc2b,A Dananjaya,5b16a806,SW Billings,c16d4035,0,0,0,0,0,,,,,,1,0,1
+1249207,2021,England,10,SW Billings,c16d4035,A Dananjaya,5b16a806,LS Livingstone,50c6bc2b,0,0,0,0,0,,,,,,2,0,2
+1249207,2021,England,10,SW Billings,c16d4035,A Dananjaya,5b16a806,LS Livingstone,50c6bc2b,0,0,0,0,0,,,,,,1,0,1
+1249207,2021,England,10,LS Livingstone,50c6bc2b,A Dananjaya,5b16a806,SW Billings,c16d4035,0,0,0,0,0,,,,,,1,0,1
+1249207,2021,England,10,SW Billings,c16d4035,A Dananjaya,5b16a806,LS Livingstone,50c6bc2b,0,0,0,0,0,,,,,,1,0,1
+1249207,2021,England,10,LS Livingstone,50c6bc2b,A Dananjaya,5b16a806,SW Billings,c16d4035,0,0,0,0,0,,,,,,1,0,1
+1249207,2021,England,11,LS Livingstone,50c6bc2b,I Udana,ac5ae4af,SW Billings,c16d4035,0,0,0,0,0,,,,,,0,0,0
+1249207,2021,England,11,LS Livingstone,50c6bc2b,I Udana,ac5ae4af,SW Billings,c16d4035,0,0,0,0,0,,,,,,2,0,2
+1249207,2021,England,11,LS Livingstone,50c6bc2b,I Udana,ac5ae4af,SW Billings,c16d4035,0,0,0,0,0,,,,,,2,0,2
+1249207,2021,England,11,LS Livingstone,50c6bc2b,I Udana,ac5ae4af,SW Billings,c16d4035,0,0,0,0,0,,,,,,1,0,1
+1249207,2021,England,11,SW Billings,c16d4035,I Udana,ac5ae4af,LS Livingstone,50c6bc2b,0,0,0,0,0,,,,,,1,0,1
+1249207,2021,England,11,LS Livingstone,50c6bc2b,I Udana,ac5ae4af,SW Billings,c16d4035,0,0,0,0,0,,,,,,1,0,1
+1249207,2021,England,12,LS Livingstone,50c6bc2b,PWH de Silva,a97c8ec2,SW Billings,c16d4035,0,0,0,0,0,,,,,,1,0,1
+1249207,2021,England,12,SW Billings,c16d4035,PWH de Silva,a97c8ec2,LS Livingstone,50c6bc2b,0,0,0,0,0,,,,,,0,0,0
+1249207,2021,England,12,SW Billings,c16d4035,PWH de Silva,a97c8ec2,LS Livingstone,50c6bc2b,0,0,0,0,0,,,,,,1,0,1
+1249207,2021,England,12,LS Livingstone,50c6bc2b,PWH de Silva,a97c8ec2,SW Billings,c16d4035,0,0,0,0,0,,,,,,1,0,1
+1249207,2021,England,12,SW Billings,c16d4035,PWH de Silva,a97c8ec2,LS Livingstone,50c6bc2b,0,0,0,0,0,,,,,,2,0,2
+1249207,2021,England,12,SW Billings,c16d4035,PWH de Silva,a97c8ec2,LS Livingstone,50c6bc2b,0,0,0,0,0,,,,,,0,0,0
+1249207,2021,England,13,LS Livingstone,50c6bc2b,PVD Chameera,327b58d3,SW Billings,c16d4035,0,0,0,0,0,,,,,,1,0,1
+1249207,2021,England,13,SW Billings,c16d4035,PVD Chameera,327b58d3,LS Livingstone,50c6bc2b,0,0,0,0,0,,,,,,4,0,4
+1249207,2021,England,13,SW Billings,c16d4035,PVD Chameera,327b58d3,LS Livingstone,50c6bc2b,0,0,0,0,0,,,,,,0,0,0
+1249207,2021,England,13,SW Billings,c16d4035,PVD Chameera,327b58d3,LS Livingstone,50c6bc2b,0,0,0,0,0,,,,,,1,0,1
+1249207,2021,England,13,LS Livingstone,50c6bc2b,PVD Chameera,327b58d3,SW Billings,c16d4035,0,0,0,0,0,,,,,,6,0,6
+1249207,2021,England,13,LS Livingstone,50c6bc2b,PVD Chameera,327b58d3,SW Billings,c16d4035,0,0,0,0,0,,,,,,0,0,0
+1249207,2021,England,14,SW Billings,c16d4035,PWH de Silva,a97c8ec2,LS Livingstone,50c6bc2b,0,0,0,0,0,,,,,,0,0,0
+1249207,2021,England,14,SW Billings,c16d4035,PWH de Silva,a97c8ec2,LS Livingstone,50c6bc2b,0,0,4,0,0,,,,,,0,4,4
+1249207,2021,England,14,SW Billings,c16d4035,PWH de Silva,a97c8ec2,LS Livingstone,50c6bc2b,0,0,0,0,1,SW Billings,c16d4035,,,bowled,0,0,0
+1249207,2021,England,14,SM Curran,e94915e6,PWH de Silva,a97c8ec2,LS Livingstone,50c6bc2b,0,0,0,0,0,,,,,,0,0,0
+1249207,2021,England,14,SM Curran,e94915e6,PWH de Silva,a97c8ec2,LS Livingstone,50c6bc2b,0,0,0,0,0,,,,,,2,0,2
+1249207,2021,England,14,SM Curran,e94915e6,PWH de Silva,a97c8ec2,LS Livingstone,50c6bc2b,0,0,0,0,0,,,,,,1,0,1
+1249207,2021,England,15,SM Curran,e94915e6,I Udana,ac5ae4af,LS Livingstone,50c6bc2b,0,0,0,0,0,,,,,,4,0,4
+1249207,2021,England,15,SM Curran,e94915e6,I Udana,ac5ae4af,LS Livingstone,50c6bc2b,0,0,0,0,0,,,,,,1,0,1
+1249207,2021,England,15,LS Livingstone,50c6bc2b,I Udana,ac5ae4af,SM Curran,e94915e6,0,0,0,0,0,,,,,,1,0,1
+1249207,2021,England,15,SM Curran,e94915e6,I Udana,ac5ae4af,LS Livingstone,50c6bc2b,0,0,0,0,0,,,,,,1,0,1
+1249207,2021,England,15,LS Livingstone,50c6bc2b,I Udana,ac5ae4af,SM Curran,e94915e6,0,0,0,0,0,,,,,,1,0,1
+1249207,2021,England,15,SM Curran,e94915e6,I Udana,ac5ae4af,LS Livingstone,50c6bc2b,0,0,0,0,0,,,,,,1,0,1
+1249207,2021,England,16,SM Curran,e94915e6,A Dananjaya,5b16a806,LS Livingstone,50c6bc2b,0,0,0,0,0,,,,,,6,0,6

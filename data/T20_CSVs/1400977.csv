@@ -1,0 +1,259 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1400977,2023/24,Rwanda,0,D Ndikubwimana,3cbedf51,G Ngegba,69caf2be,E Dusingizimana,c15e7ba4,0,0,0,0,0,,,,,,0,0,0
+1400977,2023/24,Rwanda,0,D Ndikubwimana,3cbedf51,G Ngegba,69caf2be,E Dusingizimana,c15e7ba4,0,0,0,0,0,,,,,,1,0,1
+1400977,2023/24,Rwanda,0,E Dusingizimana,c15e7ba4,G Ngegba,69caf2be,D Ndikubwimana,3cbedf51,0,0,0,0,0,,,,,,4,0,4
+1400977,2023/24,Rwanda,0,E Dusingizimana,c15e7ba4,G Ngegba,69caf2be,D Ndikubwimana,3cbedf51,0,0,0,0,0,,,,,,0,0,0
+1400977,2023/24,Rwanda,0,E Dusingizimana,c15e7ba4,G Ngegba,69caf2be,D Ndikubwimana,3cbedf51,0,0,0,0,1,E Dusingizimana,c15e7ba4,G Ngegba,69caf2be,run out,1,0,1
+1400977,2023/24,Rwanda,0,D Ndikubwimana,3cbedf51,G Ngegba,69caf2be,Hamza Khan,44a5f2b2,0,0,0,0,0,,,,,,0,0,0
+1400977,2023/24,Rwanda,1,Hamza Khan,44a5f2b2,R Coker,3239c8a9,D Ndikubwimana,3cbedf51,0,0,0,0,0,,,,,,0,0,0
+1400977,2023/24,Rwanda,1,Hamza Khan,44a5f2b2,R Coker,3239c8a9,D Ndikubwimana,3cbedf51,0,0,0,0,0,,,,,,4,0,4
+1400977,2023/24,Rwanda,1,Hamza Khan,44a5f2b2,R Coker,3239c8a9,D Ndikubwimana,3cbedf51,0,0,0,0,0,,,,,,0,0,0
+1400977,2023/24,Rwanda,1,Hamza Khan,44a5f2b2,R Coker,3239c8a9,D Ndikubwimana,3cbedf51,0,0,0,0,0,,,,,,1,0,1
+1400977,2023/24,Rwanda,1,D Ndikubwimana,3cbedf51,R Coker,3239c8a9,Hamza Khan,44a5f2b2,0,0,0,0,0,,,,,,1,0,1
+1400977,2023/24,Rwanda,1,Hamza Khan,44a5f2b2,R Coker,3239c8a9,D Ndikubwimana,3cbedf51,0,0,0,0,0,,,,,,6,0,6
+1400977,2023/24,Rwanda,2,D Ndikubwimana,3cbedf51,G Ngegba,69caf2be,Hamza Khan,44a5f2b2,0,0,0,0,0,,,,,,0,0,0
+1400977,2023/24,Rwanda,2,D Ndikubwimana,3cbedf51,G Ngegba,69caf2be,Hamza Khan,44a5f2b2,0,0,0,0,0,,,,,,1,0,1
+1400977,2023/24,Rwanda,2,Hamza Khan,44a5f2b2,G Ngegba,69caf2be,D Ndikubwimana,3cbedf51,0,0,0,0,0,,,,,,1,0,1
+1400977,2023/24,Rwanda,2,D Ndikubwimana,3cbedf51,G Ngegba,69caf2be,Hamza Khan,44a5f2b2,0,0,0,0,0,,,,,,0,0,0
+1400977,2023/24,Rwanda,2,D Ndikubwimana,3cbedf51,G Ngegba,69caf2be,Hamza Khan,44a5f2b2,0,0,0,0,0,,,,,,0,0,0
+1400977,2023/24,Rwanda,2,D Ndikubwimana,3cbedf51,G Ngegba,69caf2be,Hamza Khan,44a5f2b2,0,0,0,0,0,,,,,,1,0,1
+1400977,2023/24,Rwanda,3,D Ndikubwimana,3cbedf51,R Coker,3239c8a9,Hamza Khan,44a5f2b2,0,0,0,0,0,,,,,,0,0,0
+1400977,2023/24,Rwanda,3,D Ndikubwimana,3cbedf51,R Coker,3239c8a9,Hamza Khan,44a5f2b2,0,0,0,0,0,,,,,,0,0,0
+1400977,2023/24,Rwanda,3,D Ndikubwimana,3cbedf51,R Coker,3239c8a9,Hamza Khan,44a5f2b2,0,0,0,0,0,,,,,,1,0,1
+1400977,2023/24,Rwanda,3,Hamza Khan,44a5f2b2,R Coker,3239c8a9,D Ndikubwimana,3cbedf51,0,0,0,0,0,,,,,,0,0,0
+1400977,2023/24,Rwanda,3,Hamza Khan,44a5f2b2,R Coker,3239c8a9,D Ndikubwimana,3cbedf51,0,0,0,0,0,,,,,,4,0,4
+1400977,2023/24,Rwanda,3,Hamza Khan,44a5f2b2,R Coker,3239c8a9,D Ndikubwimana,3cbedf51,0,0,0,0,0,,,,,,1,0,1
+1400977,2023/24,Rwanda,4,Hamza Khan,44a5f2b2,G Ngegba,69caf2be,D Ndikubwimana,3cbedf51,0,0,0,0,0,,,,,,1,0,1
+1400977,2023/24,Rwanda,4,D Ndikubwimana,3cbedf51,G Ngegba,69caf2be,Hamza Khan,44a5f2b2,0,0,0,0,0,,,,,,0,0,0
+1400977,2023/24,Rwanda,4,D Ndikubwimana,3cbedf51,G Ngegba,69caf2be,Hamza Khan,44a5f2b2,0,0,0,0,0,,,,,,1,0,1
+1400977,2023/24,Rwanda,4,Hamza Khan,44a5f2b2,G Ngegba,69caf2be,D Ndikubwimana,3cbedf51,0,0,0,0,0,,,,,,1,0,1
+1400977,2023/24,Rwanda,4,D Ndikubwimana,3cbedf51,G Ngegba,69caf2be,Hamza Khan,44a5f2b2,0,0,0,0,0,,,,,,1,0,1
+1400977,2023/24,Rwanda,4,Hamza Khan,44a5f2b2,G Ngegba,69caf2be,D Ndikubwimana,3cbedf51,0,0,0,0,0,,,,,,0,0,0
+1400977,2023/24,Rwanda,5,D Ndikubwimana,3cbedf51,R Coker,3239c8a9,Hamza Khan,44a5f2b2,0,0,0,0,0,,,,,,0,0,0
+1400977,2023/24,Rwanda,5,D Ndikubwimana,3cbedf51,R Coker,3239c8a9,Hamza Khan,44a5f2b2,0,0,0,0,0,,,,,,1,0,1
+1400977,2023/24,Rwanda,5,Hamza Khan,44a5f2b2,R Coker,3239c8a9,D Ndikubwimana,3cbedf51,0,0,0,0,0,,,,,,4,0,4
+1400977,2023/24,Rwanda,5,Hamza Khan,44a5f2b2,R Coker,3239c8a9,D Ndikubwimana,3cbedf51,0,0,0,0,0,,,,,,0,0,0
+1400977,2023/24,Rwanda,5,Hamza Khan,44a5f2b2,R Coker,3239c8a9,D Ndikubwimana,3cbedf51,0,0,0,0,0,,,,,,2,0,2
+1400977,2023/24,Rwanda,5,Hamza Khan,44a5f2b2,R Coker,3239c8a9,D Ndikubwimana,3cbedf51,0,0,0,0,0,,,,,,0,0,0
+1400977,2023/24,Rwanda,6,D Ndikubwimana,3cbedf51,G Ngegba,69caf2be,Hamza Khan,44a5f2b2,0,0,1,0,0,,,,,,0,1,1
+1400977,2023/24,Rwanda,6,Hamza Khan,44a5f2b2,G Ngegba,69caf2be,D Ndikubwimana,3cbedf51,0,0,0,0,0,,,,,,0,0,0
+1400977,2023/24,Rwanda,6,Hamza Khan,44a5f2b2,G Ngegba,69caf2be,D Ndikubwimana,3cbedf51,0,0,0,0,0,,,,,,0,0,0
+1400977,2023/24,Rwanda,6,Hamza Khan,44a5f2b2,G Ngegba,69caf2be,D Ndikubwimana,3cbedf51,0,0,0,0,0,,,,,,1,0,1
+1400977,2023/24,Rwanda,6,D Ndikubwimana,3cbedf51,G Ngegba,69caf2be,Hamza Khan,44a5f2b2,0,0,0,0,0,,,,,,1,0,1
+1400977,2023/24,Rwanda,6,Hamza Khan,44a5f2b2,G Ngegba,69caf2be,D Ndikubwimana,3cbedf51,0,0,0,0,0,,,,,,1,0,1
+1400977,2023/24,Rwanda,7,Hamza Khan,44a5f2b2,R Coker,3239c8a9,D Ndikubwimana,3cbedf51,0,0,0,0,0,,,,,,6,0,6
+1400977,2023/24,Rwanda,7,Hamza Khan,44a5f2b2,R Coker,3239c8a9,D Ndikubwimana,3cbedf51,0,0,0,0,0,,,,,,0,0,0
+1400977,2023/24,Rwanda,7,Hamza Khan,44a5f2b2,R Coker,3239c8a9,D Ndikubwimana,3cbedf51,0,0,0,0,0,,,,,,0,0,0
+1400977,2023/24,Rwanda,7,Hamza Khan,44a5f2b2,R Coker,3239c8a9,D Ndikubwimana,3cbedf51,0,0,0,0,0,,,,,,0,0,0
+1400977,2023/24,Rwanda,7,Hamza Khan,44a5f2b2,R Coker,3239c8a9,D Ndikubwimana,3cbedf51,0,0,0,0,0,,,,,,1,0,1
+1400977,2023/24,Rwanda,7,D Ndikubwimana,3cbedf51,R Coker,3239c8a9,Hamza Khan,44a5f2b2,0,0,0,0,0,,,,,,1,0,1
+1400977,2023/24,Rwanda,8,D Ndikubwimana,3cbedf51,G Sesay,c556b9d2,Hamza Khan,44a5f2b2,0,0,0,0,0,,,,,,2,0,2
+1400977,2023/24,Rwanda,8,D Ndikubwimana,3cbedf51,G Sesay,c556b9d2,Hamza Khan,44a5f2b2,0,0,0,0,0,,,,,,0,0,0
+1400977,2023/24,Rwanda,8,D Ndikubwimana,3cbedf51,G Sesay,c556b9d2,Hamza Khan,44a5f2b2,0,0,0,0,1,D Ndikubwimana,3cbedf51,J Bangura,d7acab5d,caught,0,0,0
+1400977,2023/24,Rwanda,8,O Tuyisenge,e6a6888f,G Sesay,c556b9d2,Hamza Khan,44a5f2b2,0,0,0,0,0,,,,,,0,0,0
+1400977,2023/24,Rwanda,8,O Tuyisenge,e6a6888f,G Sesay,c556b9d2,Hamza Khan,44a5f2b2,1,0,0,0,0,,,,,,0,1,1
+1400977,2023/24,Rwanda,8,O Tuyisenge,e6a6888f,G Sesay,c556b9d2,Hamza Khan,44a5f2b2,0,0,0,0,0,,,,,,0,0,0
+1400977,2023/24,Rwanda,8,O Tuyisenge,e6a6888f,G Sesay,c556b9d2,Hamza Khan,44a5f2b2,0,0,0,0,0,,,,,,1,0,1
+1400977,2023/24,Rwanda,9,O Tuyisenge,e6a6888f,S Conteh,8f70fff7,Hamza Khan,44a5f2b2,1,0,0,0,0,,,,,,0,1,1
+1400977,2023/24,Rwanda,9,O Tuyisenge,e6a6888f,S Conteh,8f70fff7,Hamza Khan,44a5f2b2,0,0,0,0,0,,,,,,0,0,0
+1400977,2023/24,Rwanda,9,O Tuyisenge,e6a6888f,S Conteh,8f70fff7,Hamza Khan,44a5f2b2,0,0,0,0,0,,,,,,1,0,1
+1400977,2023/24,Rwanda,9,Hamza Khan,44a5f2b2,S Conteh,8f70fff7,O Tuyisenge,e6a6888f,1,0,0,0,0,,,,,,0,1,1
+1400977,2023/24,Rwanda,9,Hamza Khan,44a5f2b2,S Conteh,8f70fff7,O Tuyisenge,e6a6888f,0,0,0,0,0,,,,,,0,0,0
+1400977,2023/24,Rwanda,9,Hamza Khan,44a5f2b2,S Conteh,8f70fff7,O Tuyisenge,e6a6888f,0,0,0,0,0,,,,,,1,0,1
+1400977,2023/24,Rwanda,9,O Tuyisenge,e6a6888f,S Conteh,8f70fff7,Hamza Khan,44a5f2b2,0,0,0,0,0,,,,,,2,0,2
+1400977,2023/24,Rwanda,9,O Tuyisenge,e6a6888f,S Conteh,8f70fff7,Hamza Khan,44a5f2b2,0,0,0,0,0,,,,,,0,0,0
+1400977,2023/24,Rwanda,10,Hamza Khan,44a5f2b2,G Sesay,c556b9d2,O Tuyisenge,e6a6888f,1,0,0,0,0,,,,,,0,1,1
+1400977,2023/24,Rwanda,10,Hamza Khan,44a5f2b2,G Sesay,c556b9d2,O Tuyisenge,e6a6888f,0,0,0,0,0,,,,,,0,0,0
+1400977,2023/24,Rwanda,10,Hamza Khan,44a5f2b2,G Sesay,c556b9d2,O Tuyisenge,e6a6888f,0,0,0,0,0,,,,,,4,0,4
+1400977,2023/24,Rwanda,10,Hamza Khan,44a5f2b2,G Sesay,c556b9d2,O Tuyisenge,e6a6888f,0,0,0,0,0,,,,,,1,0,1
+1400977,2023/24,Rwanda,10,O Tuyisenge,e6a6888f,G Sesay,c556b9d2,Hamza Khan,44a5f2b2,0,0,0,0,0,,,,,,0,0,0
+1400977,2023/24,Rwanda,10,O Tuyisenge,e6a6888f,G Sesay,c556b9d2,Hamza Khan,44a5f2b2,0,0,0,0,0,,,,,,0,0,0
+1400977,2023/24,Rwanda,10,O Tuyisenge,e6a6888f,G Sesay,c556b9d2,Hamza Khan,44a5f2b2,0,0,0,0,0,,,,,,0,0,0
+1400977,2023/24,Rwanda,11,Hamza Khan,44a5f2b2,S Conteh,8f70fff7,O Tuyisenge,e6a6888f,0,0,0,0,0,,,,,,1,0,1
+1400977,2023/24,Rwanda,11,O Tuyisenge,e6a6888f,S Conteh,8f70fff7,Hamza Khan,44a5f2b2,0,0,0,0,0,,,,,,1,0,1
+1400977,2023/24,Rwanda,11,Hamza Khan,44a5f2b2,S Conteh,8f70fff7,O Tuyisenge,e6a6888f,0,0,0,0,0,,,,,,6,0,6
+1400977,2023/24,Rwanda,11,Hamza Khan,44a5f2b2,S Conteh,8f70fff7,O Tuyisenge,e6a6888f,1,0,0,0,0,,,,,,0,1,1
+1400977,2023/24,Rwanda,11,Hamza Khan,44a5f2b2,S Conteh,8f70fff7,O Tuyisenge,e6a6888f,0,0,0,0,0,,,,,,1,0,1
+1400977,2023/24,Rwanda,11,O Tuyisenge,e6a6888f,S Conteh,8f70fff7,Hamza Khan,44a5f2b2,0,0,0,0,0,,,,,,2,0,2
+1400977,2023/24,Rwanda,11,O Tuyisenge,e6a6888f,S Conteh,8f70fff7,Hamza Khan,44a5f2b2,0,0,0,0,0,,,,,,1,0,1
+1400977,2023/24,Rwanda,12,O Tuyisenge,e6a6888f,A Turay,11a22126,Hamza Khan,44a5f2b2,1,0,0,0,0,,,,,,0,1,1
+1400977,2023/24,Rwanda,12,O Tuyisenge,e6a6888f,A Turay,11a22126,Hamza Khan,44a5f2b2,0,0,0,0,0,,,,,,1,0,1
+1400977,2023/24,Rwanda,12,Hamza Khan,44a5f2b2,A Turay,11a22126,O Tuyisenge,e6a6888f,0,0,0,0,0,,,,,,0,0,0
+1400977,2023/24,Rwanda,12,Hamza Khan,44a5f2b2,A Turay,11a22126,O Tuyisenge,e6a6888f,3,0,0,0,0,,,,,,0,3,3
+1400977,2023/24,Rwanda,12,Hamza Khan,44a5f2b2,A Turay,11a22126,O Tuyisenge,e6a6888f,0,0,0,0,0,,,,,,0,0,0
+1400977,2023/24,Rwanda,12,Hamza Khan,44a5f2b2,A Turay,11a22126,O Tuyisenge,e6a6888f,0,0,0,0,0,,,,,,0,0,0
+1400977,2023/24,Rwanda,12,Hamza Khan,44a5f2b2,A Turay,11a22126,O Tuyisenge,e6a6888f,0,0,0,0,0,,,,,,1,0,1
+1400977,2023/24,Rwanda,12,O Tuyisenge,e6a6888f,A Turay,11a22126,Hamza Khan,44a5f2b2,0,0,0,0,0,,,,,,0,0,0
+1400977,2023/24,Rwanda,13,Hamza Khan,44a5f2b2,M Kpaka,c381cec5,O Tuyisenge,e6a6888f,0,0,0,0,0,,,,,,1,0,1
+1400977,2023/24,Rwanda,13,O Tuyisenge,e6a6888f,M Kpaka,c381cec5,Hamza Khan,44a5f2b2,0,0,0,0,0,,,,,,1,0,1
+1400977,2023/24,Rwanda,13,Hamza Khan,44a5f2b2,M Kpaka,c381cec5,O Tuyisenge,e6a6888f,0,0,0,0,0,,,,,,0,0,0
+1400977,2023/24,Rwanda,13,Hamza Khan,44a5f2b2,M Kpaka,c381cec5,O Tuyisenge,e6a6888f,0,0,0,0,0,,,,,,4,0,4
+1400977,2023/24,Rwanda,13,Hamza Khan,44a5f2b2,M Kpaka,c381cec5,O Tuyisenge,e6a6888f,0,0,0,0,0,,,,,,0,0,0
+1400977,2023/24,Rwanda,13,Hamza Khan,44a5f2b2,M Kpaka,c381cec5,O Tuyisenge,e6a6888f,0,0,0,0,0,,,,,,1,0,1
+1400977,2023/24,Rwanda,14,Hamza Khan,44a5f2b2,A Turay,11a22126,O Tuyisenge,e6a6888f,0,0,0,0,0,,,,,,4,0,4
+1400977,2023/24,Rwanda,14,Hamza Khan,44a5f2b2,A Turay,11a22126,O Tuyisenge,e6a6888f,0,0,0,0,1,Hamza Khan,44a5f2b2,,,bowled,0,0,0
+1400977,2023/24,Rwanda,14,K Irakoze,9ccb6e52,A Turay,11a22126,O Tuyisenge,e6a6888f,0,0,0,0,1,K Irakoze,9ccb6e52,A Gbla,34ab1e6e,caught,0,0,0
+1400977,2023/24,Rwanda,14,O Manishimwe,fb31ca49,A Turay,11a22126,O Tuyisenge,e6a6888f,0,0,0,0,0,,,,,,1,0,1
+1400977,2023/24,Rwanda,14,O Tuyisenge,e6a6888f,A Turay,11a22126,O Manishimwe,fb31ca49,0,0,0,0,1,O Tuyisenge,e6a6888f,J Bangura,d7acab5d,stumped,0,0,0
+1400977,2023/24,Rwanda,14,M Akayezu,1f3b9f8d,A Turay,11a22126,O Manishimwe,fb31ca49,0,0,0,0,0,,,,,,0,0,0
+1400977,2023/24,Rwanda,15,O Manishimwe,fb31ca49,M Kpaka,c381cec5,M Akayezu,1f3b9f8d,0,0,0,0,0,,,,,,0,0,0
+1400977,2023/24,Rwanda,15,O Manishimwe,fb31ca49,M Kpaka,c381cec5,M Akayezu,1f3b9f8d,0,0,0,0,0,,,,,,0,0,0
+1400977,2023/24,Rwanda,15,O Manishimwe,fb31ca49,M Kpaka,c381cec5,M Akayezu,1f3b9f8d,0,0,0,0,0,,,,,,4,0,4
+1400977,2023/24,Rwanda,15,O Manishimwe,fb31ca49,M Kpaka,c381cec5,M Akayezu,1f3b9f8d,0,0,0,0,0,,,,,,6,0,6
+1400977,2023/24,Rwanda,15,O Manishimwe,fb31ca49,M Kpaka,c381cec5,M Akayezu,1f3b9f8d,0,0,0,0,0,,,,,,1,0,1
+1400977,2023/24,Rwanda,15,M Akayezu,1f3b9f8d,M Kpaka,c381cec5,O Manishimwe,fb31ca49,0,0,0,0,0,,,,,,1,0,1
+1400977,2023/24,Rwanda,16,M Akayezu,1f3b9f8d,A Turay,11a22126,O Manishimwe,fb31ca49,0,0,0,0,1,M Akayezu,1f3b9f8d,J Bangura,d7acab5d,stumped,0,0,0
+1400977,2023/24,Rwanda,16,E Sebareme,f99a219a,A Turay,11a22126,O Manishimwe,fb31ca49,0,0,0,0,0,,,,,,2,0,2
+1400977,2023/24,Rwanda,16,E Sebareme,f99a219a,A Turay,11a22126,O Manishimwe,fb31ca49,0,0,0,0,0,,,,,,1,0,1
+1400977,2023/24,Rwanda,16,E Sebareme,f99a219a,A Turay,11a22126,O Manishimwe,fb31ca49,0,0,0,0,0,,,,,,1,0,1
+1400977,2023/24,Rwanda,16,O Manishimwe,fb31ca49,A Turay,11a22126,E Sebareme,f99a219a,0,0,0,0,0,,,,,,1,0,1
+1400977,2023/24,Rwanda,16,E Sebareme,f99a219a,A Turay,11a22126,O Manishimwe,fb31ca49,0,0,0,0,0,,,,,,0,0,0
+1400977,2023/24,Rwanda,17,O Manishimwe,fb31ca49,A Gbla,34ab1e6e,E Sebareme,f99a219a,3,0,0,0,0,,,,,,0,3,3
+1400977,2023/24,Rwanda,17,O Manishimwe,fb31ca49,A Gbla,34ab1e6e,E Sebareme,f99a219a,0,0,0,0,0,,,,,,2,0,2
+1400977,2023/24,Rwanda,17,O Manishimwe,fb31ca49,A Gbla,34ab1e6e,E Sebareme,f99a219a,0,0,0,0,0,,,,,,2,0,2
+1400977,2023/24,Rwanda,17,O Manishimwe,fb31ca49,A Gbla,34ab1e6e,E Sebareme,f99a219a,0,0,0,0,0,,,,,,1,0,1
+1400977,2023/24,Rwanda,17,E Sebareme,f99a219a,A Gbla,34ab1e6e,O Manishimwe,fb31ca49,0,0,0,0,0,,,,,,1,0,1
+1400977,2023/24,Rwanda,17,O Manishimwe,fb31ca49,A Gbla,34ab1e6e,E Sebareme,f99a219a,0,0,0,0,0,,,,,,1,0,1
+1400977,2023/24,Rwanda,17,E Sebareme,f99a219a,A Gbla,34ab1e6e,O Manishimwe,fb31ca49,0,0,0,0,0,,,,,,2,0,2
+1400977,2023/24,Rwanda,18,O Manishimwe,fb31ca49,A Turay,11a22126,E Sebareme,f99a219a,0,0,0,0,0,,,,,,2,0,2
+1400977,2023/24,Rwanda,18,O Manishimwe,fb31ca49,A Turay,11a22126,E Sebareme,f99a219a,0,0,0,0,0,,,,,,0,0,0
+1400977,2023/24,Rwanda,18,O Manishimwe,fb31ca49,A Turay,11a22126,E Sebareme,f99a219a,0,0,0,0,0,,,,,,4,0,4
+1400977,2023/24,Rwanda,18,O Manishimwe,fb31ca49,A Turay,11a22126,E Sebareme,f99a219a,0,0,0,0,0,,,,,,4,0,4
+1400977,2023/24,Rwanda,18,O Manishimwe,fb31ca49,A Turay,11a22126,E Sebareme,f99a219a,0,0,0,0,0,,,,,,1,0,1
+1400977,2023/24,Rwanda,18,E Sebareme,f99a219a,A Turay,11a22126,O Manishimwe,fb31ca49,0,0,0,0,0,,,,,,2,0,2
+1400977,2023/24,Rwanda,19,O Manishimwe,fb31ca49,G Sesay,c556b9d2,E Sebareme,f99a219a,0,0,0,0,0,,,,,,1,0,1
+1400977,2023/24,Rwanda,19,E Sebareme,f99a219a,G Sesay,c556b9d2,O Manishimwe,fb31ca49,0,0,0,0,0,,,,,,0,0,0
+1400977,2023/24,Rwanda,19,E Sebareme,f99a219a,G Sesay,c556b9d2,O Manishimwe,fb31ca49,0,0,0,0,1,O Manishimwe,fb31ca49,J Bangura,d7acab5d,run out,2,0,2
+1400977,2023/24,Rwanda,19,Z Bimenyimana,ba57fb08,G Sesay,c556b9d2,E Sebareme,f99a219a,0,0,0,1,0,,,,,,0,1,1
+1400977,2023/24,Rwanda,19,E Sebareme,f99a219a,G Sesay,c556b9d2,Z Bimenyimana,ba57fb08,0,0,0,0,0,,,,,,6,0,6
+1400977,2023/24,Rwanda,19,E Sebareme,f99a219a,G Sesay,c556b9d2,Z Bimenyimana,ba57fb08,0,1,0,0,1,E Sebareme,f99a219a,J Bangura,d7acab5d,run out,2,1,3
+1400977,2023/24,Rwanda,19,Z Bimenyimana,ba57fb08,G Sesay,c556b9d2,E Rukiriza,3ac13a94,0,0,0,0,0,,,,,,2,0,2
+1400977,2023/24,Sierra Leone,0,G Ngegba,69caf2be,Z Bimenyimana,ba57fb08,A Turay,11a22126,0,0,0,0,0,,,,,,0,0,0
+1400977,2023/24,Sierra Leone,0,G Ngegba,69caf2be,Z Bimenyimana,ba57fb08,A Turay,11a22126,0,0,0,0,0,,,,,,4,0,4
+1400977,2023/24,Sierra Leone,0,G Ngegba,69caf2be,Z Bimenyimana,ba57fb08,A Turay,11a22126,0,0,0,0,0,,,,,,1,0,1
+1400977,2023/24,Sierra Leone,0,A Turay,11a22126,Z Bimenyimana,ba57fb08,G Ngegba,69caf2be,1,0,0,0,0,,,,,,0,1,1
+1400977,2023/24,Sierra Leone,0,A Turay,11a22126,Z Bimenyimana,ba57fb08,G Ngegba,69caf2be,0,0,0,0,0,,,,,,0,0,0
+1400977,2023/24,Sierra Leone,0,A Turay,11a22126,Z Bimenyimana,ba57fb08,G Ngegba,69caf2be,0,0,0,0,1,A Turay,11a22126,M Akayezu,1f3b9f8d,caught,0,0,0
+1400977,2023/24,Sierra Leone,0,I Kamara,38702fb5,Z Bimenyimana,ba57fb08,G Ngegba,69caf2be,0,0,0,0,0,,,,,,2,0,2
+1400977,2023/24,Sierra Leone,1,G Ngegba,69caf2be,Muhammad Nadir,090f96e4,I Kamara,38702fb5,0,0,0,0,0,,,,,,4,0,4
+1400977,2023/24,Sierra Leone,1,G Ngegba,69caf2be,Muhammad Nadir,090f96e4,I Kamara,38702fb5,0,0,0,0,0,,,,,,0,0,0
+1400977,2023/24,Sierra Leone,1,G Ngegba,69caf2be,Muhammad Nadir,090f96e4,I Kamara,38702fb5,0,0,0,0,0,,,,,,1,0,1
+1400977,2023/24,Sierra Leone,1,I Kamara,38702fb5,Muhammad Nadir,090f96e4,G Ngegba,69caf2be,0,0,0,0,0,,,,,,0,0,0
+1400977,2023/24,Sierra Leone,1,I Kamara,38702fb5,Muhammad Nadir,090f96e4,G Ngegba,69caf2be,0,0,0,0,0,,,,,,0,0,0
+1400977,2023/24,Sierra Leone,1,I Kamara,38702fb5,Muhammad Nadir,090f96e4,G Ngegba,69caf2be,0,0,0,0,0,,,,,,3,0,3
+1400977,2023/24,Sierra Leone,2,I Kamara,38702fb5,M Akayezu,1f3b9f8d,G Ngegba,69caf2be,0,0,0,0,0,,,,,,0,0,0
+1400977,2023/24,Sierra Leone,2,I Kamara,38702fb5,M Akayezu,1f3b9f8d,G Ngegba,69caf2be,1,0,0,0,0,,,,,,0,1,1
+1400977,2023/24,Sierra Leone,2,I Kamara,38702fb5,M Akayezu,1f3b9f8d,G Ngegba,69caf2be,0,0,0,0,0,,,,,,0,0,0
+1400977,2023/24,Sierra Leone,2,I Kamara,38702fb5,M Akayezu,1f3b9f8d,G Ngegba,69caf2be,0,0,0,0,0,,,,,,0,0,0
+1400977,2023/24,Sierra Leone,2,I Kamara,38702fb5,M Akayezu,1f3b9f8d,G Ngegba,69caf2be,0,1,0,0,0,,,,,,4,1,5
+1400977,2023/24,Sierra Leone,2,I Kamara,38702fb5,M Akayezu,1f3b9f8d,G Ngegba,69caf2be,0,0,0,0,0,,,,,,0,0,0
+1400977,2023/24,Sierra Leone,2,I Kamara,38702fb5,M Akayezu,1f3b9f8d,G Ngegba,69caf2be,0,0,0,0,0,,,,,,4,0,4
+1400977,2023/24,Sierra Leone,2,I Kamara,38702fb5,M Akayezu,1f3b9f8d,G Ngegba,69caf2be,0,0,0,0,0,,,,,,0,0,0
+1400977,2023/24,Sierra Leone,3,G Ngegba,69caf2be,Muhammad Nadir,090f96e4,I Kamara,38702fb5,0,0,0,0,0,,,,,,0,0,0
+1400977,2023/24,Sierra Leone,3,G Ngegba,69caf2be,Muhammad Nadir,090f96e4,I Kamara,38702fb5,0,0,0,0,0,,,,,,1,0,1
+1400977,2023/24,Sierra Leone,3,I Kamara,38702fb5,Muhammad Nadir,090f96e4,G Ngegba,69caf2be,0,0,0,0,0,,,,,,0,0,0
+1400977,2023/24,Sierra Leone,3,I Kamara,38702fb5,Muhammad Nadir,090f96e4,G Ngegba,69caf2be,0,0,0,0,0,,,,,,0,0,0
+1400977,2023/24,Sierra Leone,3,I Kamara,38702fb5,Muhammad Nadir,090f96e4,G Ngegba,69caf2be,0,0,0,0,0,,,,,,0,0,0
+1400977,2023/24,Sierra Leone,3,I Kamara,38702fb5,Muhammad Nadir,090f96e4,G Ngegba,69caf2be,0,0,0,0,0,,,,,,0,0,0
+1400977,2023/24,Sierra Leone,4,G Ngegba,69caf2be,E Rukiriza,3ac13a94,I Kamara,38702fb5,0,0,0,0,0,,,,,,0,0,0
+1400977,2023/24,Sierra Leone,4,G Ngegba,69caf2be,E Rukiriza,3ac13a94,I Kamara,38702fb5,0,0,0,0,0,,,,,,0,0,0
+1400977,2023/24,Sierra Leone,4,G Ngegba,69caf2be,E Rukiriza,3ac13a94,I Kamara,38702fb5,0,0,0,0,0,,,,,,1,0,1
+1400977,2023/24,Sierra Leone,4,I Kamara,38702fb5,E Rukiriza,3ac13a94,G Ngegba,69caf2be,0,0,0,0,0,,,,,,0,0,0
+1400977,2023/24,Sierra Leone,4,I Kamara,38702fb5,E Rukiriza,3ac13a94,G Ngegba,69caf2be,0,0,0,0,0,,,,,,0,0,0
+1400977,2023/24,Sierra Leone,4,I Kamara,38702fb5,E Rukiriza,3ac13a94,G Ngegba,69caf2be,0,0,0,0,0,,,,,,1,0,1
+1400977,2023/24,Sierra Leone,5,I Kamara,38702fb5,K Irakoze,9ccb6e52,G Ngegba,69caf2be,0,0,0,0,0,,,,,,1,0,1
+1400977,2023/24,Sierra Leone,5,G Ngegba,69caf2be,K Irakoze,9ccb6e52,I Kamara,38702fb5,0,0,0,0,0,,,,,,0,0,0
+1400977,2023/24,Sierra Leone,5,G Ngegba,69caf2be,K Irakoze,9ccb6e52,I Kamara,38702fb5,0,0,0,0,0,,,,,,0,0,0
+1400977,2023/24,Sierra Leone,5,G Ngegba,69caf2be,K Irakoze,9ccb6e52,I Kamara,38702fb5,0,0,0,0,0,,,,,,1,0,1
+1400977,2023/24,Sierra Leone,5,I Kamara,38702fb5,K Irakoze,9ccb6e52,G Ngegba,69caf2be,0,0,0,0,0,,,,,,0,0,0
+1400977,2023/24,Sierra Leone,5,I Kamara,38702fb5,K Irakoze,9ccb6e52,G Ngegba,69caf2be,0,0,0,0,0,,,,,,1,0,1
+1400977,2023/24,Sierra Leone,6,I Kamara,38702fb5,E Rukiriza,3ac13a94,G Ngegba,69caf2be,0,0,0,0,1,I Kamara,38702fb5,,,bowled,0,0,0
+1400977,2023/24,Sierra Leone,6,M Kpaka,c381cec5,E Rukiriza,3ac13a94,G Ngegba,69caf2be,0,0,0,0,0,,,,,,0,0,0
+1400977,2023/24,Sierra Leone,6,M Kpaka,c381cec5,E Rukiriza,3ac13a94,G Ngegba,69caf2be,0,0,0,0,0,,,,,,1,0,1
+1400977,2023/24,Sierra Leone,6,G Ngegba,69caf2be,E Rukiriza,3ac13a94,M Kpaka,c381cec5,0,0,0,0,0,,,,,,1,0,1
+1400977,2023/24,Sierra Leone,6,M Kpaka,c381cec5,E Rukiriza,3ac13a94,G Ngegba,69caf2be,0,0,0,0,0,,,,,,2,0,2
+1400977,2023/24,Sierra Leone,6,M Kpaka,c381cec5,E Rukiriza,3ac13a94,G Ngegba,69caf2be,0,0,0,0,0,,,,,,1,0,1
+1400977,2023/24,Sierra Leone,7,M Kpaka,c381cec5,K Irakoze,9ccb6e52,G Ngegba,69caf2be,0,0,0,0,0,,,,,,0,0,0
+1400977,2023/24,Sierra Leone,7,M Kpaka,c381cec5,K Irakoze,9ccb6e52,G Ngegba,69caf2be,1,0,0,0,0,,,,,,0,1,1
+1400977,2023/24,Sierra Leone,7,M Kpaka,c381cec5,K Irakoze,9ccb6e52,G Ngegba,69caf2be,1,0,0,0,0,,,,,,0,1,1
+1400977,2023/24,Sierra Leone,7,M Kpaka,c381cec5,K Irakoze,9ccb6e52,G Ngegba,69caf2be,1,0,0,0,0,,,,,,0,1,1
+1400977,2023/24,Sierra Leone,7,M Kpaka,c381cec5,K Irakoze,9ccb6e52,G Ngegba,69caf2be,0,0,0,0,1,M Kpaka,c381cec5,,,bowled,0,0,0
+1400977,2023/24,Sierra Leone,7,J Bangura,d7acab5d,K Irakoze,9ccb6e52,G Ngegba,69caf2be,0,0,0,0,0,,,,,,0,0,0
+1400977,2023/24,Sierra Leone,7,J Bangura,d7acab5d,K Irakoze,9ccb6e52,G Ngegba,69caf2be,0,0,0,0,0,,,,,,0,0,0
+1400977,2023/24,Sierra Leone,7,J Bangura,d7acab5d,K Irakoze,9ccb6e52,G Ngegba,69caf2be,0,0,0,0,0,,,,,,1,0,1
+1400977,2023/24,Sierra Leone,7,G Ngegba,69caf2be,K Irakoze,9ccb6e52,J Bangura,d7acab5d,0,0,0,0,0,,,,,,1,0,1
+1400977,2023/24,Sierra Leone,8,G Ngegba,69caf2be,E Sebareme,f99a219a,J Bangura,d7acab5d,0,0,0,0,0,,,,,,0,0,0
+1400977,2023/24,Sierra Leone,8,G Ngegba,69caf2be,E Sebareme,f99a219a,J Bangura,d7acab5d,0,0,0,0,0,,,,,,0,0,0
+1400977,2023/24,Sierra Leone,8,G Ngegba,69caf2be,E Sebareme,f99a219a,J Bangura,d7acab5d,0,0,0,0,0,,,,,,1,0,1
+1400977,2023/24,Sierra Leone,8,J Bangura,d7acab5d,E Sebareme,f99a219a,G Ngegba,69caf2be,0,0,0,0,0,,,,,,2,0,2
+1400977,2023/24,Sierra Leone,8,J Bangura,d7acab5d,E Sebareme,f99a219a,G Ngegba,69caf2be,0,0,0,0,0,,,,,,0,0,0
+1400977,2023/24,Sierra Leone,8,J Bangura,d7acab5d,E Sebareme,f99a219a,G Ngegba,69caf2be,0,0,0,0,0,,,,,,2,0,2
+1400977,2023/24,Sierra Leone,9,G Ngegba,69caf2be,Z Bimenyimana,ba57fb08,J Bangura,d7acab5d,0,0,0,0,0,,,,,,1,0,1
+1400977,2023/24,Sierra Leone,9,J Bangura,d7acab5d,Z Bimenyimana,ba57fb08,G Ngegba,69caf2be,0,0,0,0,0,,,,,,1,0,1
+1400977,2023/24,Sierra Leone,9,G Ngegba,69caf2be,Z Bimenyimana,ba57fb08,J Bangura,d7acab5d,0,0,0,0,0,,,,,,0,0,0
+1400977,2023/24,Sierra Leone,9,G Ngegba,69caf2be,Z Bimenyimana,ba57fb08,J Bangura,d7acab5d,0,0,0,0,0,,,,,,1,0,1
+1400977,2023/24,Sierra Leone,9,J Bangura,d7acab5d,Z Bimenyimana,ba57fb08,G Ngegba,69caf2be,0,0,0,0,0,,,,,,1,0,1
+1400977,2023/24,Sierra Leone,9,G Ngegba,69caf2be,Z Bimenyimana,ba57fb08,J Bangura,d7acab5d,0,0,0,0,0,,,,,,1,0,1
+1400977,2023/24,Sierra Leone,10,G Ngegba,69caf2be,E Sebareme,f99a219a,J Bangura,d7acab5d,0,0,0,0,0,,,,,,1,0,1
+1400977,2023/24,Sierra Leone,10,J Bangura,d7acab5d,E Sebareme,f99a219a,G Ngegba,69caf2be,0,0,0,0,0,,,,,,1,0,1
+1400977,2023/24,Sierra Leone,10,G Ngegba,69caf2be,E Sebareme,f99a219a,J Bangura,d7acab5d,0,0,0,0,0,,,,,,1,0,1
+1400977,2023/24,Sierra Leone,10,J Bangura,d7acab5d,E Sebareme,f99a219a,G Ngegba,69caf2be,0,0,0,0,0,,,,,,1,0,1
+1400977,2023/24,Sierra Leone,10,G Ngegba,69caf2be,E Sebareme,f99a219a,J Bangura,d7acab5d,0,0,0,0,0,,,,,,1,0,1
+1400977,2023/24,Sierra Leone,10,J Bangura,d7acab5d,E Sebareme,f99a219a,G Ngegba,69caf2be,0,0,0,0,0,,,,,,1,0,1
+1400977,2023/24,Sierra Leone,11,J Bangura,d7acab5d,Muhammad Nadir,090f96e4,G Ngegba,69caf2be,0,0,0,0,0,,,,,,0,0,0
+1400977,2023/24,Sierra Leone,11,J Bangura,d7acab5d,Muhammad Nadir,090f96e4,G Ngegba,69caf2be,0,0,0,0,0,,,,,,1,0,1
+1400977,2023/24,Sierra Leone,11,G Ngegba,69caf2be,Muhammad Nadir,090f96e4,J Bangura,d7acab5d,0,0,0,0,0,,,,,,1,0,1
+1400977,2023/24,Sierra Leone,11,J Bangura,d7acab5d,Muhammad Nadir,090f96e4,G Ngegba,69caf2be,0,0,0,0,0,,,,,,2,0,2
+1400977,2023/24,Sierra Leone,11,J Bangura,d7acab5d,Muhammad Nadir,090f96e4,G Ngegba,69caf2be,0,0,0,0,0,,,,,,0,0,0
+1400977,2023/24,Sierra Leone,11,J Bangura,d7acab5d,Muhammad Nadir,090f96e4,G Ngegba,69caf2be,0,0,0,0,0,,,,,,1,0,1
+1400977,2023/24,Sierra Leone,12,J Bangura,d7acab5d,E Rukiriza,3ac13a94,G Ngegba,69caf2be,0,0,0,0,0,,,,,,0,0,0
+1400977,2023/24,Sierra Leone,12,J Bangura,d7acab5d,E Rukiriza,3ac13a94,G Ngegba,69caf2be,0,0,0,0,0,,,,,,2,0,2
+1400977,2023/24,Sierra Leone,12,J Bangura,d7acab5d,E Rukiriza,3ac13a94,G Ngegba,69caf2be,0,0,0,0,0,,,,,,0,0,0
+1400977,2023/24,Sierra Leone,12,J Bangura,d7acab5d,E Rukiriza,3ac13a94,G Ngegba,69caf2be,0,0,0,0,0,,,,,,1,0,1
+1400977,2023/24,Sierra Leone,12,G Ngegba,69caf2be,E Rukiriza,3ac13a94,J Bangura,d7acab5d,0,0,0,0,0,,,,,,0,0,0
+1400977,2023/24,Sierra Leone,12,G Ngegba,69caf2be,E Rukiriza,3ac13a94,J Bangura,d7acab5d,0,0,0,0,0,,,,,,0,0,0
+1400977,2023/24,Sierra Leone,13,J Bangura,d7acab5d,K Irakoze,9ccb6e52,G Ngegba,69caf2be,0,0,0,0,0,,,,,,1,0,1
+1400977,2023/24,Sierra Leone,13,G Ngegba,69caf2be,K Irakoze,9ccb6e52,J Bangura,d7acab5d,1,0,0,0,0,,,,,,0,1,1
+1400977,2023/24,Sierra Leone,13,G Ngegba,69caf2be,K Irakoze,9ccb6e52,J Bangura,d7acab5d,0,0,0,0,0,,,,,,0,0,0
+1400977,2023/24,Sierra Leone,13,G Ngegba,69caf2be,K Irakoze,9ccb6e52,J Bangura,d7acab5d,0,0,0,0,0,,,,,,1,0,1
+1400977,2023/24,Sierra Leone,13,J Bangura,d7acab5d,K Irakoze,9ccb6e52,G Ngegba,69caf2be,0,0,0,0,0,,,,,,2,0,2
+1400977,2023/24,Sierra Leone,13,J Bangura,d7acab5d,K Irakoze,9ccb6e52,G Ngegba,69caf2be,0,0,0,0,0,,,,,,1,0,1
+1400977,2023/24,Sierra Leone,13,G Ngegba,69caf2be,K Irakoze,9ccb6e52,J Bangura,d7acab5d,0,0,0,0,0,,,,,,0,0,0
+1400977,2023/24,Sierra Leone,14,J Bangura,d7acab5d,M Akayezu,1f3b9f8d,G Ngegba,69caf2be,0,0,0,0,0,,,,,,0,0,0
+1400977,2023/24,Sierra Leone,14,J Bangura,d7acab5d,M Akayezu,1f3b9f8d,G Ngegba,69caf2be,0,0,0,0,0,,,,,,0,0,0
+1400977,2023/24,Sierra Leone,14,J Bangura,d7acab5d,M Akayezu,1f3b9f8d,G Ngegba,69caf2be,0,0,0,0,0,,,,,,0,0,0
+1400977,2023/24,Sierra Leone,14,J Bangura,d7acab5d,M Akayezu,1f3b9f8d,G Ngegba,69caf2be,0,0,0,0,0,,,,,,0,0,0
+1400977,2023/24,Sierra Leone,14,J Bangura,d7acab5d,M Akayezu,1f3b9f8d,G Ngegba,69caf2be,0,0,0,0,0,,,,,,1,0,1
+1400977,2023/24,Sierra Leone,14,G Ngegba,69caf2be,M Akayezu,1f3b9f8d,J Bangura,d7acab5d,0,0,0,0,0,,,,,,0,0,0
+1400977,2023/24,Sierra Leone,15,J Bangura,d7acab5d,K Irakoze,9ccb6e52,G Ngegba,69caf2be,0,0,0,0,0,,,,,,0,0,0
+1400977,2023/24,Sierra Leone,15,J Bangura,d7acab5d,K Irakoze,9ccb6e52,G Ngegba,69caf2be,0,0,0,0,1,J Bangura,d7acab5d,,,bowled,0,0,0
+1400977,2023/24,Sierra Leone,15,L Lamin,5a970aab,K Irakoze,9ccb6e52,G Ngegba,69caf2be,1,0,0,0,0,,,,,,0,1,1
+1400977,2023/24,Sierra Leone,15,L Lamin,5a970aab,K Irakoze,9ccb6e52,G Ngegba,69caf2be,0,0,0,0,0,,,,,,1,0,1
+1400977,2023/24,Sierra Leone,15,G Ngegba,69caf2be,K Irakoze,9ccb6e52,L Lamin,5a970aab,0,0,0,0,0,,,,,,4,0,4
+1400977,2023/24,Sierra Leone,15,G Ngegba,69caf2be,K Irakoze,9ccb6e52,L Lamin,5a970aab,0,0,0,0,0,,,,,,1,0,1
+1400977,2023/24,Sierra Leone,15,L Lamin,5a970aab,K Irakoze,9ccb6e52,G Ngegba,69caf2be,0,0,0,0,0,,,,,,6,0,6
+1400977,2023/24,Sierra Leone,16,G Ngegba,69caf2be,M Akayezu,1f3b9f8d,L Lamin,5a970aab,0,0,0,0,0,,,,,,0,0,0
+1400977,2023/24,Sierra Leone,16,G Ngegba,69caf2be,M Akayezu,1f3b9f8d,L Lamin,5a970aab,0,0,0,0,0,,,,,,0,0,0
+1400977,2023/24,Sierra Leone,16,G Ngegba,69caf2be,M Akayezu,1f3b9f8d,L Lamin,5a970aab,0,0,0,0,0,,,,,,1,0,1
+1400977,2023/24,Sierra Leone,16,L Lamin,5a970aab,M Akayezu,1f3b9f8d,G Ngegba,69caf2be,0,0,0,0,1,L Lamin,5a970aab,,,bowled,0,0,0
+1400977,2023/24,Sierra Leone,16,A Gbla,34ab1e6e,M Akayezu,1f3b9f8d,G Ngegba,69caf2be,0,0,0,0,0,,,,,,4,0,4
+1400977,2023/24,Sierra Leone,16,A Gbla,34ab1e6e,M Akayezu,1f3b9f8d,G Ngegba,69caf2be,0,0,0,0,0,,,,,,4,0,4
+1400977,2023/24,Sierra Leone,17,G Ngegba,69caf2be,Muhammad Nadir,090f96e4,A Gbla,34ab1e6e,0,0,0,0,0,,,,,,1,0,1
+1400977,2023/24,Sierra Leone,17,A Gbla,34ab1e6e,Muhammad Nadir,090f96e4,G Ngegba,69caf2be,0,0,0,0,0,,,,,,0,0,0
+1400977,2023/24,Sierra Leone,17,A Gbla,34ab1e6e,Muhammad Nadir,090f96e4,G Ngegba,69caf2be,0,0,0,0,0,,,,,,4,0,4
+1400977,2023/24,Sierra Leone,17,A Gbla,34ab1e6e,Muhammad Nadir,090f96e4,G Ngegba,69caf2be,0,0,0,0,0,,,,,,1,0,1
+1400977,2023/24,Sierra Leone,17,G Ngegba,69caf2be,Muhammad Nadir,090f96e4,A Gbla,34ab1e6e,0,0,0,0,0,,,,,,1,0,1
+1400977,2023/24,Sierra Leone,17,A Gbla,34ab1e6e,Muhammad Nadir,090f96e4,G Ngegba,69caf2be,0,0,0,0,0,,,,,,6,0,6
+1400977,2023/24,Sierra Leone,18,G Ngegba,69caf2be,E Sebareme,f99a219a,A Gbla,34ab1e6e,0,0,0,0,0,,,,,,2,0,2
+1400977,2023/24,Sierra Leone,18,G Ngegba,69caf2be,E Sebareme,f99a219a,A Gbla,34ab1e6e,0,0,0,0,0,,,,,,1,0,1
+1400977,2023/24,Sierra Leone,18,A Gbla,34ab1e6e,E Sebareme,f99a219a,G Ngegba,69caf2be,0,0,0,0,0,,,,,,0,0,0
+1400977,2023/24,Sierra Leone,18,A Gbla,34ab1e6e,E Sebareme,f99a219a,G Ngegba,69caf2be,0,0,0,0,0,,,,,,1,0,1
+1400977,2023/24,Sierra Leone,18,G Ngegba,69caf2be,E Sebareme,f99a219a,A Gbla,34ab1e6e,0,0,0,0,0,,,,,,1,0,1
+1400977,2023/24,Sierra Leone,18,A Gbla,34ab1e6e,E Sebareme,f99a219a,G Ngegba,69caf2be,1,0,0,0,0,,,,,,0,1,1
+1400977,2023/24,Sierra Leone,18,A Gbla,34ab1e6e,E Sebareme,f99a219a,G Ngegba,69caf2be,0,0,0,0,0,,,,,,0,0,0
+1400977,2023/24,Sierra Leone,19,G Ngegba,69caf2be,M Akayezu,1f3b9f8d,A Gbla,34ab1e6e,0,0,0,0,0,,,,,,1,0,1
+1400977,2023/24,Sierra Leone,19,A Gbla,34ab1e6e,M Akayezu,1f3b9f8d,G Ngegba,69caf2be,0,0,0,0,0,,,,,,0,0,0
+1400977,2023/24,Sierra Leone,19,A Gbla,34ab1e6e,M Akayezu,1f3b9f8d,G Ngegba,69caf2be,0,0,0,0,0,,,,,,2,0,2
+1400977,2023/24,Sierra Leone,19,A Gbla,34ab1e6e,M Akayezu,1f3b9f8d,G Ngegba,69caf2be,0,0,0,0,0,,,,,,1,0,1
+1400977,2023/24,Sierra Leone,19,G Ngegba,69caf2be,M Akayezu,1f3b9f8d,A Gbla,34ab1e6e,0,0,0,0,0,,,,,,1,0,1
+1400977,2023/24,Sierra Leone,19,A Gbla,34ab1e6e,M Akayezu,1f3b9f8d,G Ngegba,69caf2be,0,0,0,0,0,,,,,,2,0,2

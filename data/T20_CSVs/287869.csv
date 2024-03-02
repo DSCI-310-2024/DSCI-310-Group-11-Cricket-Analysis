@@ -1,0 +1,246 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+287869,2007/08,New Zealand,0,L Vincent,2764133a,JM Anderson,d12143bf,BB McCullum,b8a55852,1,0,0,0,0,,,,,,0,1,1
+287869,2007/08,New Zealand,0,L Vincent,2764133a,JM Anderson,d12143bf,BB McCullum,b8a55852,1,0,0,0,0,,,,,,0,1,1
+287869,2007/08,New Zealand,0,L Vincent,2764133a,JM Anderson,d12143bf,BB McCullum,b8a55852,0,0,1,0,0,,,,,,0,1,1
+287869,2007/08,New Zealand,0,BB McCullum,b8a55852,JM Anderson,d12143bf,L Vincent,2764133a,0,0,0,0,0,,,,,,4,0,4
+287869,2007/08,New Zealand,0,BB McCullum,b8a55852,JM Anderson,d12143bf,L Vincent,2764133a,0,0,0,0,0,,,,,,0,0,0
+287869,2007/08,New Zealand,0,BB McCullum,b8a55852,JM Anderson,d12143bf,L Vincent,2764133a,0,0,0,0,0,,,,,,0,0,0
+287869,2007/08,New Zealand,0,BB McCullum,b8a55852,JM Anderson,d12143bf,L Vincent,2764133a,0,0,0,0,0,,,,,,0,0,0
+287869,2007/08,New Zealand,0,BB McCullum,b8a55852,JM Anderson,d12143bf,L Vincent,2764133a,0,0,0,0,1,BB McCullum,b8a55852,VS Solanki,7ee2ce62,caught,0,0,0
+287869,2007/08,New Zealand,1,L Vincent,2764133a,SCJ Broad,eba6a852,PG Fulton,10a2a1ff,0,0,0,0,0,,,,,,0,0,0
+287869,2007/08,New Zealand,1,L Vincent,2764133a,SCJ Broad,eba6a852,PG Fulton,10a2a1ff,0,0,0,0,0,,,,,,0,0,0
+287869,2007/08,New Zealand,1,L Vincent,2764133a,SCJ Broad,eba6a852,PG Fulton,10a2a1ff,0,0,0,0,0,,,,,,2,0,2
+287869,2007/08,New Zealand,1,L Vincent,2764133a,SCJ Broad,eba6a852,PG Fulton,10a2a1ff,0,0,0,0,0,,,,,,2,0,2
+287869,2007/08,New Zealand,1,L Vincent,2764133a,SCJ Broad,eba6a852,PG Fulton,10a2a1ff,0,0,0,0,0,,,,,,4,0,4
+287869,2007/08,New Zealand,1,L Vincent,2764133a,SCJ Broad,eba6a852,PG Fulton,10a2a1ff,1,0,0,0,0,,,,,,0,1,1
+287869,2007/08,New Zealand,1,L Vincent,2764133a,SCJ Broad,eba6a852,PG Fulton,10a2a1ff,0,0,0,0,0,,,,,,0,0,0
+287869,2007/08,New Zealand,2,PG Fulton,10a2a1ff,A Flintoff,ddc0828d,L Vincent,2764133a,0,0,0,0,0,,,,,,0,0,0
+287869,2007/08,New Zealand,2,PG Fulton,10a2a1ff,A Flintoff,ddc0828d,L Vincent,2764133a,0,0,0,0,1,PG Fulton,10a2a1ff,,,lbw,0,0,0
+287869,2007/08,New Zealand,2,LRPL Taylor,b61a3e1a,A Flintoff,ddc0828d,L Vincent,2764133a,0,0,0,0,0,,,,,,0,0,0
+287869,2007/08,New Zealand,2,LRPL Taylor,b61a3e1a,A Flintoff,ddc0828d,L Vincent,2764133a,0,0,1,0,0,,,,,,0,1,1
+287869,2007/08,New Zealand,2,L Vincent,2764133a,A Flintoff,ddc0828d,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,New Zealand,2,LRPL Taylor,b61a3e1a,A Flintoff,ddc0828d,L Vincent,2764133a,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,New Zealand,3,LRPL Taylor,b61a3e1a,JM Anderson,d12143bf,L Vincent,2764133a,0,0,0,0,0,,,,,,0,0,0
+287869,2007/08,New Zealand,3,LRPL Taylor,b61a3e1a,JM Anderson,d12143bf,L Vincent,2764133a,0,0,0,0,0,,,,,,6,0,6
+287869,2007/08,New Zealand,3,LRPL Taylor,b61a3e1a,JM Anderson,d12143bf,L Vincent,2764133a,0,0,0,0,0,,,,,,0,0,0
+287869,2007/08,New Zealand,3,LRPL Taylor,b61a3e1a,JM Anderson,d12143bf,L Vincent,2764133a,0,0,0,0,0,,,,,,0,0,0
+287869,2007/08,New Zealand,3,LRPL Taylor,b61a3e1a,JM Anderson,d12143bf,L Vincent,2764133a,0,0,0,0,1,LRPL Taylor,b61a3e1a,A Flintoff,ddc0828d,caught,0,0,0
+287869,2007/08,New Zealand,3,L Vincent,2764133a,JM Anderson,d12143bf,SB Styris,57efa3be,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,New Zealand,4,L Vincent,2764133a,A Flintoff,ddc0828d,SB Styris,57efa3be,0,0,0,0,0,,,,,,0,0,0
+287869,2007/08,New Zealand,4,L Vincent,2764133a,A Flintoff,ddc0828d,SB Styris,57efa3be,0,0,0,0,0,,,,,,0,0,0
+287869,2007/08,New Zealand,4,L Vincent,2764133a,A Flintoff,ddc0828d,SB Styris,57efa3be,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,New Zealand,4,SB Styris,57efa3be,A Flintoff,ddc0828d,L Vincent,2764133a,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,New Zealand,4,L Vincent,2764133a,A Flintoff,ddc0828d,SB Styris,57efa3be,0,0,0,0,0,,,,,,0,0,0
+287869,2007/08,New Zealand,4,L Vincent,2764133a,A Flintoff,ddc0828d,SB Styris,57efa3be,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,New Zealand,5,L Vincent,2764133a,SCJ Broad,eba6a852,SB Styris,57efa3be,0,0,0,0,0,,,,,,0,0,0
+287869,2007/08,New Zealand,5,L Vincent,2764133a,SCJ Broad,eba6a852,SB Styris,57efa3be,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,New Zealand,5,SB Styris,57efa3be,SCJ Broad,eba6a852,L Vincent,2764133a,0,0,0,0,0,,,,,,0,0,0
+287869,2007/08,New Zealand,5,SB Styris,57efa3be,SCJ Broad,eba6a852,L Vincent,2764133a,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,New Zealand,5,L Vincent,2764133a,SCJ Broad,eba6a852,SB Styris,57efa3be,0,0,0,0,1,L Vincent,2764133a,VS Solanki,7ee2ce62,caught,0,0,0
+287869,2007/08,New Zealand,5,CD McMillan,f5390243,SCJ Broad,eba6a852,SB Styris,57efa3be,0,0,0,0,0,,,,,,0,0,0
+287869,2007/08,New Zealand,6,SB Styris,57efa3be,JM Anderson,d12143bf,CD McMillan,f5390243,0,0,0,0,0,,,,,,0,0,0
+287869,2007/08,New Zealand,6,SB Styris,57efa3be,JM Anderson,d12143bf,CD McMillan,f5390243,0,0,0,0,0,,,,,,2,0,2
+287869,2007/08,New Zealand,6,SB Styris,57efa3be,JM Anderson,d12143bf,CD McMillan,f5390243,0,0,0,0,0,,,,,,0,0,0
+287869,2007/08,New Zealand,6,SB Styris,57efa3be,JM Anderson,d12143bf,CD McMillan,f5390243,0,0,0,0,0,,,,,,0,0,0
+287869,2007/08,New Zealand,6,SB Styris,57efa3be,JM Anderson,d12143bf,CD McMillan,f5390243,0,0,0,0,0,,,,,,0,0,0
+287869,2007/08,New Zealand,6,SB Styris,57efa3be,JM Anderson,d12143bf,CD McMillan,f5390243,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,New Zealand,7,SB Styris,57efa3be,AD Mascarenhas,3edb58fc,CD McMillan,f5390243,0,0,0,0,0,,,,,,0,0,0
+287869,2007/08,New Zealand,7,SB Styris,57efa3be,AD Mascarenhas,3edb58fc,CD McMillan,f5390243,0,0,0,0,0,,,,,,0,0,0
+287869,2007/08,New Zealand,7,SB Styris,57efa3be,AD Mascarenhas,3edb58fc,CD McMillan,f5390243,0,0,0,0,0,,,,,,0,0,0
+287869,2007/08,New Zealand,7,SB Styris,57efa3be,AD Mascarenhas,3edb58fc,CD McMillan,f5390243,0,0,0,0,0,,,,,,0,0,0
+287869,2007/08,New Zealand,7,SB Styris,57efa3be,AD Mascarenhas,3edb58fc,CD McMillan,f5390243,0,0,0,0,0,,,,,,0,0,0
+287869,2007/08,New Zealand,7,SB Styris,57efa3be,AD Mascarenhas,3edb58fc,CD McMillan,f5390243,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,New Zealand,8,SB Styris,57efa3be,PD Collingwood,a386e91b,CD McMillan,f5390243,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,New Zealand,8,CD McMillan,f5390243,PD Collingwood,a386e91b,SB Styris,57efa3be,0,0,1,0,0,,,,,,0,1,1
+287869,2007/08,New Zealand,8,SB Styris,57efa3be,PD Collingwood,a386e91b,CD McMillan,f5390243,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,New Zealand,8,CD McMillan,f5390243,PD Collingwood,a386e91b,SB Styris,57efa3be,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,New Zealand,8,SB Styris,57efa3be,PD Collingwood,a386e91b,CD McMillan,f5390243,0,0,0,0,0,,,,,,0,0,0
+287869,2007/08,New Zealand,8,SB Styris,57efa3be,PD Collingwood,a386e91b,CD McMillan,f5390243,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,New Zealand,9,SB Styris,57efa3be,AD Mascarenhas,3edb58fc,CD McMillan,f5390243,0,0,0,0,0,,,,,,6,0,6
+287869,2007/08,New Zealand,9,SB Styris,57efa3be,AD Mascarenhas,3edb58fc,CD McMillan,f5390243,0,0,0,0,0,,,,,,6,0,6
+287869,2007/08,New Zealand,9,SB Styris,57efa3be,AD Mascarenhas,3edb58fc,CD McMillan,f5390243,0,0,0,0,0,,,,,,6,0,6
+287869,2007/08,New Zealand,9,SB Styris,57efa3be,AD Mascarenhas,3edb58fc,CD McMillan,f5390243,0,0,0,0,0,,,,,,0,0,0
+287869,2007/08,New Zealand,9,SB Styris,57efa3be,AD Mascarenhas,3edb58fc,CD McMillan,f5390243,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,New Zealand,9,CD McMillan,f5390243,AD Mascarenhas,3edb58fc,SB Styris,57efa3be,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,New Zealand,10,CD McMillan,f5390243,CP Schofield,4751827a,SB Styris,57efa3be,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,New Zealand,10,SB Styris,57efa3be,CP Schofield,4751827a,CD McMillan,f5390243,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,New Zealand,10,CD McMillan,f5390243,CP Schofield,4751827a,SB Styris,57efa3be,0,0,0,0,0,,,,,,2,0,2
+287869,2007/08,New Zealand,10,CD McMillan,f5390243,CP Schofield,4751827a,SB Styris,57efa3be,0,0,0,0,0,,,,,,6,0,6
+287869,2007/08,New Zealand,10,CD McMillan,f5390243,CP Schofield,4751827a,SB Styris,57efa3be,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,New Zealand,10,SB Styris,57efa3be,CP Schofield,4751827a,CD McMillan,f5390243,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,New Zealand,11,SB Styris,57efa3be,SCJ Broad,eba6a852,CD McMillan,f5390243,0,0,0,0,0,,,,,,6,0,6
+287869,2007/08,New Zealand,11,SB Styris,57efa3be,SCJ Broad,eba6a852,CD McMillan,f5390243,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,New Zealand,11,CD McMillan,f5390243,SCJ Broad,eba6a852,SB Styris,57efa3be,0,0,0,0,0,,,,,,0,0,0
+287869,2007/08,New Zealand,11,CD McMillan,f5390243,SCJ Broad,eba6a852,SB Styris,57efa3be,0,0,0,0,0,,,,,,4,0,4
+287869,2007/08,New Zealand,11,CD McMillan,f5390243,SCJ Broad,eba6a852,SB Styris,57efa3be,0,0,0,0,0,,,,,,0,0,0
+287869,2007/08,New Zealand,11,CD McMillan,f5390243,SCJ Broad,eba6a852,SB Styris,57efa3be,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,New Zealand,12,CD McMillan,f5390243,AD Mascarenhas,3edb58fc,SB Styris,57efa3be,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,New Zealand,12,SB Styris,57efa3be,AD Mascarenhas,3edb58fc,CD McMillan,f5390243,0,0,0,0,0,,,,,,0,0,0
+287869,2007/08,New Zealand,12,SB Styris,57efa3be,AD Mascarenhas,3edb58fc,CD McMillan,f5390243,0,0,0,0,0,,,,,,4,0,4
+287869,2007/08,New Zealand,12,SB Styris,57efa3be,AD Mascarenhas,3edb58fc,CD McMillan,f5390243,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,New Zealand,12,CD McMillan,f5390243,AD Mascarenhas,3edb58fc,SB Styris,57efa3be,0,0,0,0,1,SB Styris,57efa3be,DL Maddy,e770b214,run out,1,0,1
+287869,2007/08,New Zealand,12,CD McMillan,f5390243,AD Mascarenhas,3edb58fc,JDP Oram,3eac9d95,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,New Zealand,13,CD McMillan,f5390243,JM Anderson,d12143bf,JDP Oram,3eac9d95,0,0,0,0,0,,,,,,2,0,2
+287869,2007/08,New Zealand,13,CD McMillan,f5390243,JM Anderson,d12143bf,JDP Oram,3eac9d95,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,New Zealand,13,JDP Oram,3eac9d95,JM Anderson,d12143bf,CD McMillan,f5390243,1,0,0,0,0,,,,,,0,1,1
+287869,2007/08,New Zealand,13,JDP Oram,3eac9d95,JM Anderson,d12143bf,CD McMillan,f5390243,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,New Zealand,13,CD McMillan,f5390243,JM Anderson,d12143bf,JDP Oram,3eac9d95,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,New Zealand,13,JDP Oram,3eac9d95,JM Anderson,d12143bf,CD McMillan,f5390243,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,New Zealand,13,CD McMillan,f5390243,JM Anderson,d12143bf,JDP Oram,3eac9d95,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,New Zealand,14,CD McMillan,f5390243,AD Mascarenhas,3edb58fc,JDP Oram,3eac9d95,0,0,0,0,0,,,,,,6,0,6
+287869,2007/08,New Zealand,14,CD McMillan,f5390243,AD Mascarenhas,3edb58fc,JDP Oram,3eac9d95,0,0,0,0,0,,,,,,2,0,2
+287869,2007/08,New Zealand,14,CD McMillan,f5390243,AD Mascarenhas,3edb58fc,JDP Oram,3eac9d95,0,0,0,0,0,,,,,,4,0,4
+287869,2007/08,New Zealand,14,CD McMillan,f5390243,AD Mascarenhas,3edb58fc,JDP Oram,3eac9d95,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,New Zealand,14,JDP Oram,3eac9d95,AD Mascarenhas,3edb58fc,CD McMillan,f5390243,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,New Zealand,14,CD McMillan,f5390243,AD Mascarenhas,3edb58fc,JDP Oram,3eac9d95,0,0,0,0,0,,,,,,0,0,0
+287869,2007/08,New Zealand,15,JDP Oram,3eac9d95,PD Collingwood,a386e91b,CD McMillan,f5390243,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,New Zealand,15,CD McMillan,f5390243,PD Collingwood,a386e91b,JDP Oram,3eac9d95,0,0,0,0,0,,,,,,2,0,2
+287869,2007/08,New Zealand,15,CD McMillan,f5390243,PD Collingwood,a386e91b,JDP Oram,3eac9d95,0,0,0,0,0,,,,,,4,0,4
+287869,2007/08,New Zealand,15,CD McMillan,f5390243,PD Collingwood,a386e91b,JDP Oram,3eac9d95,0,0,0,0,0,,,,,,6,0,6
+287869,2007/08,New Zealand,15,CD McMillan,f5390243,PD Collingwood,a386e91b,JDP Oram,3eac9d95,0,0,0,0,0,,,,,,6,0,6
+287869,2007/08,New Zealand,15,CD McMillan,f5390243,PD Collingwood,a386e91b,JDP Oram,3eac9d95,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,New Zealand,16,CD McMillan,f5390243,DL Maddy,e770b214,JDP Oram,3eac9d95,0,0,0,0,0,,,,,,0,0,0
+287869,2007/08,New Zealand,16,CD McMillan,f5390243,DL Maddy,e770b214,JDP Oram,3eac9d95,0,0,0,0,1,CD McMillan,f5390243,AD Mascarenhas,3edb58fc,caught,0,0,0
+287869,2007/08,New Zealand,16,JDP Oram,3eac9d95,DL Maddy,e770b214,DL Vettori,d7c6af50,0,0,0,0,0,,,,,,4,0,4
+287869,2007/08,New Zealand,16,JDP Oram,3eac9d95,DL Maddy,e770b214,DL Vettori,d7c6af50,0,0,0,0,1,JDP Oram,3eac9d95,,,bowled,0,0,0
+287869,2007/08,New Zealand,16,SE Bond,4f629497,DL Maddy,e770b214,DL Vettori,d7c6af50,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,New Zealand,16,DL Vettori,d7c6af50,DL Maddy,e770b214,SE Bond,4f629497,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,New Zealand,17,DL Vettori,d7c6af50,PD Collingwood,a386e91b,SE Bond,4f629497,0,0,0,0,0,,,,,,3,0,3
+287869,2007/08,New Zealand,17,SE Bond,4f629497,PD Collingwood,a386e91b,DL Vettori,d7c6af50,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,New Zealand,17,DL Vettori,d7c6af50,PD Collingwood,a386e91b,SE Bond,4f629497,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,New Zealand,17,SE Bond,4f629497,PD Collingwood,a386e91b,DL Vettori,d7c6af50,0,0,0,0,1,SE Bond,4f629497,,,bowled,0,0,0
+287869,2007/08,New Zealand,17,MR Gillespie,7d7ab238,PD Collingwood,a386e91b,DL Vettori,d7c6af50,0,0,0,0,0,,,,,,0,0,0
+287869,2007/08,New Zealand,17,MR Gillespie,7d7ab238,PD Collingwood,a386e91b,DL Vettori,d7c6af50,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,New Zealand,18,MR Gillespie,7d7ab238,A Flintoff,ddc0828d,DL Vettori,d7c6af50,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,New Zealand,18,DL Vettori,d7c6af50,A Flintoff,ddc0828d,MR Gillespie,7d7ab238,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,New Zealand,18,MR Gillespie,7d7ab238,A Flintoff,ddc0828d,DL Vettori,d7c6af50,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,New Zealand,18,DL Vettori,d7c6af50,A Flintoff,ddc0828d,MR Gillespie,7d7ab238,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,New Zealand,18,MR Gillespie,7d7ab238,A Flintoff,ddc0828d,DL Vettori,d7c6af50,0,0,0,0,0,,,,,,2,0,2
+287869,2007/08,New Zealand,18,MR Gillespie,7d7ab238,A Flintoff,ddc0828d,DL Vettori,d7c6af50,0,0,0,0,0,,,,,,0,0,0
+287869,2007/08,New Zealand,19,DL Vettori,d7c6af50,SCJ Broad,eba6a852,MR Gillespie,7d7ab238,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,New Zealand,19,MR Gillespie,7d7ab238,SCJ Broad,eba6a852,DL Vettori,d7c6af50,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,New Zealand,19,DL Vettori,d7c6af50,SCJ Broad,eba6a852,MR Gillespie,7d7ab238,0,0,0,0,0,,,,,,4,0,4
+287869,2007/08,New Zealand,19,DL Vettori,d7c6af50,SCJ Broad,eba6a852,MR Gillespie,7d7ab238,0,0,0,0,0,,,,,,4,0,4
+287869,2007/08,New Zealand,19,DL Vettori,d7c6af50,SCJ Broad,eba6a852,MR Gillespie,7d7ab238,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,New Zealand,19,MR Gillespie,7d7ab238,SCJ Broad,eba6a852,DL Vettori,d7c6af50,0,0,0,0,1,MR Gillespie,7d7ab238,JM Anderson,d12143bf,run out,1,0,1
+287869,2007/08,England,0,DL Maddy,e770b214,SE Bond,4f629497,VS Solanki,7ee2ce62,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,England,0,VS Solanki,7ee2ce62,SE Bond,4f629497,DL Maddy,e770b214,0,0,0,0,0,,,,,,4,0,4
+287869,2007/08,England,0,VS Solanki,7ee2ce62,SE Bond,4f629497,DL Maddy,e770b214,0,0,0,0,0,,,,,,0,0,0
+287869,2007/08,England,0,VS Solanki,7ee2ce62,SE Bond,4f629497,DL Maddy,e770b214,0,0,0,0,0,,,,,,0,0,0
+287869,2007/08,England,0,VS Solanki,7ee2ce62,SE Bond,4f629497,DL Maddy,e770b214,0,0,0,0,0,,,,,,0,0,0
+287869,2007/08,England,0,VS Solanki,7ee2ce62,SE Bond,4f629497,DL Maddy,e770b214,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,England,1,VS Solanki,7ee2ce62,MR Gillespie,7d7ab238,DL Maddy,e770b214,0,0,0,0,0,,,,,,0,0,0
+287869,2007/08,England,1,VS Solanki,7ee2ce62,MR Gillespie,7d7ab238,DL Maddy,e770b214,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,England,1,DL Maddy,e770b214,MR Gillespie,7d7ab238,VS Solanki,7ee2ce62,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,England,1,VS Solanki,7ee2ce62,MR Gillespie,7d7ab238,DL Maddy,e770b214,0,0,0,0,0,,,,,,2,0,2
+287869,2007/08,England,1,VS Solanki,7ee2ce62,MR Gillespie,7d7ab238,DL Maddy,e770b214,0,0,0,0,0,,,,,,0,0,0
+287869,2007/08,England,1,VS Solanki,7ee2ce62,MR Gillespie,7d7ab238,DL Maddy,e770b214,0,0,0,0,0,,,,,,4,0,4
+287869,2007/08,England,2,DL Maddy,e770b214,SE Bond,4f629497,VS Solanki,7ee2ce62,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,England,2,VS Solanki,7ee2ce62,SE Bond,4f629497,DL Maddy,e770b214,0,0,0,0,0,,,,,,0,0,0
+287869,2007/08,England,2,VS Solanki,7ee2ce62,SE Bond,4f629497,DL Maddy,e770b214,0,0,0,0,0,,,,,,0,0,0
+287869,2007/08,England,2,VS Solanki,7ee2ce62,SE Bond,4f629497,DL Maddy,e770b214,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,England,2,DL Maddy,e770b214,SE Bond,4f629497,VS Solanki,7ee2ce62,0,0,0,0,0,,,,,,0,0,0
+287869,2007/08,England,2,DL Maddy,e770b214,SE Bond,4f629497,VS Solanki,7ee2ce62,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,England,3,DL Maddy,e770b214,MR Gillespie,7d7ab238,VS Solanki,7ee2ce62,0,0,0,0,0,,,,,,2,0,2
+287869,2007/08,England,3,DL Maddy,e770b214,MR Gillespie,7d7ab238,VS Solanki,7ee2ce62,0,0,0,0,0,,,,,,0,0,0
+287869,2007/08,England,3,DL Maddy,e770b214,MR Gillespie,7d7ab238,VS Solanki,7ee2ce62,0,0,0,0,0,,,,,,4,0,4
+287869,2007/08,England,3,DL Maddy,e770b214,MR Gillespie,7d7ab238,VS Solanki,7ee2ce62,0,0,0,0,0,,,,,,0,0,0
+287869,2007/08,England,3,DL Maddy,e770b214,MR Gillespie,7d7ab238,VS Solanki,7ee2ce62,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,England,3,VS Solanki,7ee2ce62,MR Gillespie,7d7ab238,DL Maddy,e770b214,0,0,0,0,0,,,,,,4,0,4
+287869,2007/08,England,4,DL Maddy,e770b214,SE Bond,4f629497,VS Solanki,7ee2ce62,0,0,0,0,0,,,,,,6,0,6
+287869,2007/08,England,4,DL Maddy,e770b214,SE Bond,4f629497,VS Solanki,7ee2ce62,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,England,4,VS Solanki,7ee2ce62,SE Bond,4f629497,DL Maddy,e770b214,0,0,0,0,0,,,,,,0,0,0
+287869,2007/08,England,4,VS Solanki,7ee2ce62,SE Bond,4f629497,DL Maddy,e770b214,0,0,0,0,0,,,,,,0,0,0
+287869,2007/08,England,4,VS Solanki,7ee2ce62,SE Bond,4f629497,DL Maddy,e770b214,0,0,0,0,0,,,,,,0,0,0
+287869,2007/08,England,4,VS Solanki,7ee2ce62,SE Bond,4f629497,DL Maddy,e770b214,0,0,0,0,0,,,,,,0,0,0
+287869,2007/08,England,5,DL Maddy,e770b214,JDP Oram,3eac9d95,VS Solanki,7ee2ce62,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,England,5,VS Solanki,7ee2ce62,JDP Oram,3eac9d95,DL Maddy,e770b214,0,0,0,0,0,,,,,,4,0,4
+287869,2007/08,England,5,VS Solanki,7ee2ce62,JDP Oram,3eac9d95,DL Maddy,e770b214,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,England,5,DL Maddy,e770b214,JDP Oram,3eac9d95,VS Solanki,7ee2ce62,0,0,0,0,0,,,,,,4,0,4
+287869,2007/08,England,5,DL Maddy,e770b214,JDP Oram,3eac9d95,VS Solanki,7ee2ce62,0,0,0,0,0,,,,,,4,0,4
+287869,2007/08,England,5,DL Maddy,e770b214,JDP Oram,3eac9d95,VS Solanki,7ee2ce62,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,England,6,DL Maddy,e770b214,CS Martin,05e0fab5,VS Solanki,7ee2ce62,0,0,0,0,0,,,,,,4,0,4
+287869,2007/08,England,6,DL Maddy,e770b214,CS Martin,05e0fab5,VS Solanki,7ee2ce62,0,0,0,0,0,,,,,,2,0,2
+287869,2007/08,England,6,DL Maddy,e770b214,CS Martin,05e0fab5,VS Solanki,7ee2ce62,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,England,6,VS Solanki,7ee2ce62,CS Martin,05e0fab5,DL Maddy,e770b214,0,0,0,0,0,,,,,,0,0,0
+287869,2007/08,England,6,VS Solanki,7ee2ce62,CS Martin,05e0fab5,DL Maddy,e770b214,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,England,6,DL Maddy,e770b214,CS Martin,05e0fab5,VS Solanki,7ee2ce62,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,England,7,DL Maddy,e770b214,DL Vettori,d7c6af50,VS Solanki,7ee2ce62,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,England,7,VS Solanki,7ee2ce62,DL Vettori,d7c6af50,DL Maddy,e770b214,0,0,0,0,0,,,,,,0,0,0
+287869,2007/08,England,7,VS Solanki,7ee2ce62,DL Vettori,d7c6af50,DL Maddy,e770b214,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,England,7,DL Maddy,e770b214,DL Vettori,d7c6af50,VS Solanki,7ee2ce62,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,England,7,VS Solanki,7ee2ce62,DL Vettori,d7c6af50,DL Maddy,e770b214,0,0,0,0,1,VS Solanki,7ee2ce62,L Vincent,2764133a,caught,0,0,0
+287869,2007/08,England,7,DL Maddy,e770b214,DL Vettori,d7c6af50,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,0,0,0
+287869,2007/08,England,8,KP Pietersen,39f01cdb,CS Martin,05e0fab5,DL Maddy,e770b214,0,0,0,0,0,,,,,,0,0,0
+287869,2007/08,England,8,KP Pietersen,39f01cdb,CS Martin,05e0fab5,DL Maddy,e770b214,0,0,0,0,0,,,,,,0,0,0
+287869,2007/08,England,8,KP Pietersen,39f01cdb,CS Martin,05e0fab5,DL Maddy,e770b214,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,England,8,DL Maddy,e770b214,CS Martin,05e0fab5,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,0,0,0
+287869,2007/08,England,8,DL Maddy,e770b214,CS Martin,05e0fab5,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,2,0,2
+287869,2007/08,England,8,DL Maddy,e770b214,CS Martin,05e0fab5,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,England,9,DL Maddy,e770b214,DL Vettori,d7c6af50,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,0,0,0
+287869,2007/08,England,9,DL Maddy,e770b214,DL Vettori,d7c6af50,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,England,9,KP Pietersen,39f01cdb,DL Vettori,d7c6af50,DL Maddy,e770b214,0,0,0,0,0,,,,,,2,0,2
+287869,2007/08,England,9,KP Pietersen,39f01cdb,DL Vettori,d7c6af50,DL Maddy,e770b214,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,England,9,DL Maddy,e770b214,DL Vettori,d7c6af50,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,England,9,KP Pietersen,39f01cdb,DL Vettori,d7c6af50,DL Maddy,e770b214,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,England,10,KP Pietersen,39f01cdb,CS Martin,05e0fab5,DL Maddy,e770b214,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,England,10,DL Maddy,e770b214,CS Martin,05e0fab5,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,6,0,6
+287869,2007/08,England,10,DL Maddy,e770b214,CS Martin,05e0fab5,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,England,10,KP Pietersen,39f01cdb,CS Martin,05e0fab5,DL Maddy,e770b214,0,0,0,0,1,DL Maddy,e770b214,CD McMillan,f5390243,run out,0,0,0
+287869,2007/08,England,10,KP Pietersen,39f01cdb,CS Martin,05e0fab5,PD Collingwood,a386e91b,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,England,10,PD Collingwood,a386e91b,CS Martin,05e0fab5,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,0,0,0
+287869,2007/08,England,11,KP Pietersen,39f01cdb,SB Styris,57efa3be,PD Collingwood,a386e91b,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,England,11,PD Collingwood,a386e91b,SB Styris,57efa3be,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,England,11,KP Pietersen,39f01cdb,SB Styris,57efa3be,PD Collingwood,a386e91b,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,England,11,PD Collingwood,a386e91b,SB Styris,57efa3be,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,England,11,KP Pietersen,39f01cdb,SB Styris,57efa3be,PD Collingwood,a386e91b,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,England,11,PD Collingwood,a386e91b,SB Styris,57efa3be,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,England,12,PD Collingwood,a386e91b,CS Martin,05e0fab5,KP Pietersen,39f01cdb,0,0,0,0,1,PD Collingwood,a386e91b,CD McMillan,f5390243,caught,0,0,0
+287869,2007/08,England,12,OA Shah,7bf96684,CS Martin,05e0fab5,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,0,0,0
+287869,2007/08,England,12,OA Shah,7bf96684,CS Martin,05e0fab5,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,England,12,KP Pietersen,39f01cdb,CS Martin,05e0fab5,OA Shah,7bf96684,0,0,0,0,0,,,,,,4,0,4
+287869,2007/08,England,12,KP Pietersen,39f01cdb,CS Martin,05e0fab5,OA Shah,7bf96684,0,0,0,0,0,,,,,,4,0,4
+287869,2007/08,England,12,KP Pietersen,39f01cdb,CS Martin,05e0fab5,OA Shah,7bf96684,0,0,0,0,0,,,,,,6,0,6
+287869,2007/08,England,13,OA Shah,7bf96684,DL Vettori,d7c6af50,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,England,13,KP Pietersen,39f01cdb,DL Vettori,d7c6af50,OA Shah,7bf96684,0,0,0,0,1,KP Pietersen,39f01cdb,,,bowled,0,0,0
+287869,2007/08,England,13,A Flintoff,ddc0828d,DL Vettori,d7c6af50,OA Shah,7bf96684,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,England,13,OA Shah,7bf96684,DL Vettori,d7c6af50,A Flintoff,ddc0828d,0,0,0,0,1,A Flintoff,ddc0828d,L Vincent,2764133a,run out,0,0,0
+287869,2007/08,England,13,OA Shah,7bf96684,DL Vettori,d7c6af50,LJ Wright,cca50cd6,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,England,13,LJ Wright,cca50cd6,DL Vettori,d7c6af50,OA Shah,7bf96684,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,England,14,LJ Wright,cca50cd6,SB Styris,57efa3be,OA Shah,7bf96684,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,England,14,OA Shah,7bf96684,SB Styris,57efa3be,LJ Wright,cca50cd6,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,England,14,LJ Wright,cca50cd6,SB Styris,57efa3be,OA Shah,7bf96684,0,0,0,0,0,,,,,,4,0,4
+287869,2007/08,England,14,LJ Wright,cca50cd6,SB Styris,57efa3be,OA Shah,7bf96684,0,0,0,0,0,,,,,,0,0,0
+287869,2007/08,England,14,LJ Wright,cca50cd6,SB Styris,57efa3be,OA Shah,7bf96684,0,0,0,0,0,,,,,,6,0,6
+287869,2007/08,England,14,LJ Wright,cca50cd6,SB Styris,57efa3be,OA Shah,7bf96684,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,England,15,LJ Wright,cca50cd6,DL Vettori,d7c6af50,OA Shah,7bf96684,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,England,15,OA Shah,7bf96684,DL Vettori,d7c6af50,LJ Wright,cca50cd6,0,0,0,0,0,,,,,,2,0,2
+287869,2007/08,England,15,OA Shah,7bf96684,DL Vettori,d7c6af50,LJ Wright,cca50cd6,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,England,15,LJ Wright,cca50cd6,DL Vettori,d7c6af50,OA Shah,7bf96684,0,0,0,0,0,,,,,,0,0,0
+287869,2007/08,England,15,LJ Wright,cca50cd6,DL Vettori,d7c6af50,OA Shah,7bf96684,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,England,15,OA Shah,7bf96684,DL Vettori,d7c6af50,LJ Wright,cca50cd6,0,0,0,0,0,,,,,,2,0,2
+287869,2007/08,England,16,LJ Wright,cca50cd6,JDP Oram,3eac9d95,OA Shah,7bf96684,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,England,16,OA Shah,7bf96684,JDP Oram,3eac9d95,LJ Wright,cca50cd6,0,0,0,0,0,,,,,,6,0,6
+287869,2007/08,England,16,OA Shah,7bf96684,JDP Oram,3eac9d95,LJ Wright,cca50cd6,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,England,16,LJ Wright,cca50cd6,JDP Oram,3eac9d95,OA Shah,7bf96684,0,0,0,0,0,,,,,,2,0,2
+287869,2007/08,England,16,LJ Wright,cca50cd6,JDP Oram,3eac9d95,OA Shah,7bf96684,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,England,16,OA Shah,7bf96684,JDP Oram,3eac9d95,LJ Wright,cca50cd6,0,0,0,0,0,,,,,,0,0,0
+287869,2007/08,England,17,LJ Wright,cca50cd6,MR Gillespie,7d7ab238,OA Shah,7bf96684,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,England,17,OA Shah,7bf96684,MR Gillespie,7d7ab238,LJ Wright,cca50cd6,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,England,17,LJ Wright,cca50cd6,MR Gillespie,7d7ab238,OA Shah,7bf96684,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,England,17,OA Shah,7bf96684,MR Gillespie,7d7ab238,LJ Wright,cca50cd6,0,0,0,0,0,,,,,,2,0,2
+287869,2007/08,England,17,OA Shah,7bf96684,MR Gillespie,7d7ab238,LJ Wright,cca50cd6,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,England,17,LJ Wright,cca50cd6,MR Gillespie,7d7ab238,OA Shah,7bf96684,0,0,0,0,0,,,,,,2,0,2
+287869,2007/08,England,18,OA Shah,7bf96684,SE Bond,4f629497,LJ Wright,cca50cd6,0,0,0,0,1,OA Shah,7bf96684,DL Vettori,d7c6af50,run out,1,0,1
+287869,2007/08,England,18,AD Mascarenhas,3edb58fc,SE Bond,4f629497,LJ Wright,cca50cd6,0,0,0,0,1,AD Mascarenhas,3edb58fc,JS Patel,f5821615,caught,0,0,0
+287869,2007/08,England,18,LJ Wright,cca50cd6,SE Bond,4f629497,CP Schofield,4751827a,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,England,18,CP Schofield,4751827a,SE Bond,4f629497,LJ Wright,cca50cd6,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,England,18,LJ Wright,cca50cd6,SE Bond,4f629497,CP Schofield,4751827a,0,0,0,0,1,LJ Wright,cca50cd6,JS Patel,f5821615,caught,0,0,0
+287869,2007/08,England,18,CP Schofield,4751827a,SE Bond,4f629497,SCJ Broad,eba6a852,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,England,19,CP Schofield,4751827a,MR Gillespie,7d7ab238,SCJ Broad,eba6a852,1,0,0,0,0,,,,,,0,1,1
+287869,2007/08,England,19,CP Schofield,4751827a,MR Gillespie,7d7ab238,SCJ Broad,eba6a852,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,England,19,SCJ Broad,eba6a852,MR Gillespie,7d7ab238,CP Schofield,4751827a,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,England,19,CP Schofield,4751827a,MR Gillespie,7d7ab238,SCJ Broad,eba6a852,0,0,0,0,0,,,,,,2,0,2
+287869,2007/08,England,19,CP Schofield,4751827a,MR Gillespie,7d7ab238,SCJ Broad,eba6a852,0,0,0,0,0,,,,,,2,0,2
+287869,2007/08,England,19,CP Schofield,4751827a,MR Gillespie,7d7ab238,SCJ Broad,eba6a852,0,0,0,0,0,,,,,,1,0,1
+287869,2007/08,England,19,SCJ Broad,eba6a852,MR Gillespie,7d7ab238,CP Schofield,4751827a,0,0,0,0,0,,,,,,2,0,2

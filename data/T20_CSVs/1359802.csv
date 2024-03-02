@@ -1,0 +1,251 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1359802,2022/23,Argentina,0,P Baron,c6d1b1e4,C Wright,d465c6d7,T Rossi,5470418a,0,0,0,0,0,,,,,,2,0,2
+1359802,2022/23,Argentina,0,P Baron,c6d1b1e4,C Wright,d465c6d7,T Rossi,5470418a,0,0,0,0,0,,,,,,0,0,0
+1359802,2022/23,Argentina,0,P Baron,c6d1b1e4,C Wright,d465c6d7,T Rossi,5470418a,0,0,0,0,0,,,,,,1,0,1
+1359802,2022/23,Argentina,0,T Rossi,5470418a,C Wright,d465c6d7,P Baron,c6d1b1e4,0,0,0,0,0,,,,,,1,0,1
+1359802,2022/23,Argentina,0,P Baron,c6d1b1e4,C Wright,d465c6d7,T Rossi,5470418a,0,0,0,0,0,,,,,,0,0,0
+1359802,2022/23,Argentina,0,P Baron,c6d1b1e4,C Wright,d465c6d7,T Rossi,5470418a,0,0,0,0,0,,,,,,0,0,0
+1359802,2022/23,Argentina,1,T Rossi,5470418a,T Taylor,1d6e8f52,P Baron,c6d1b1e4,0,0,0,0,1,T Rossi,5470418a,,,bowled,0,0,0
+1359802,2022/23,Argentina,1,A Ferguson,4a8d1b14,T Taylor,1d6e8f52,P Baron,c6d1b1e4,0,0,0,0,0,,,,,,0,0,0
+1359802,2022/23,Argentina,1,A Ferguson,4a8d1b14,T Taylor,1d6e8f52,P Baron,c6d1b1e4,0,0,0,0,0,,,,,,1,0,1
+1359802,2022/23,Argentina,1,P Baron,c6d1b1e4,T Taylor,1d6e8f52,A Ferguson,4a8d1b14,0,0,0,0,0,,,,,,1,0,1
+1359802,2022/23,Argentina,1,A Ferguson,4a8d1b14,T Taylor,1d6e8f52,P Baron,c6d1b1e4,0,0,0,0,0,,,,,,0,0,0
+1359802,2022/23,Argentina,1,A Ferguson,4a8d1b14,T Taylor,1d6e8f52,P Baron,c6d1b1e4,0,0,0,0,0,,,,,,1,0,1
+1359802,2022/23,Argentina,2,A Ferguson,4a8d1b14,C Wright,d465c6d7,P Baron,c6d1b1e4,0,0,0,0,0,,,,,,0,0,0
+1359802,2022/23,Argentina,2,A Ferguson,4a8d1b14,C Wright,d465c6d7,P Baron,c6d1b1e4,0,0,0,0,0,,,,,,0,0,0
+1359802,2022/23,Argentina,2,A Ferguson,4a8d1b14,C Wright,d465c6d7,P Baron,c6d1b1e4,0,0,0,0,0,,,,,,0,0,0
+1359802,2022/23,Argentina,2,A Ferguson,4a8d1b14,C Wright,d465c6d7,P Baron,c6d1b1e4,0,0,0,0,0,,,,,,0,0,0
+1359802,2022/23,Argentina,2,A Ferguson,4a8d1b14,C Wright,d465c6d7,P Baron,c6d1b1e4,0,0,0,0,0,,,,,,1,0,1
+1359802,2022/23,Argentina,2,P Baron,c6d1b1e4,C Wright,d465c6d7,A Ferguson,4a8d1b14,0,0,0,0,0,,,,,,4,0,4
+1359802,2022/23,Argentina,3,A Ferguson,4a8d1b14,D Johnson,d406e303,P Baron,c6d1b1e4,0,0,0,0,0,,,,,,0,0,0
+1359802,2022/23,Argentina,3,A Ferguson,4a8d1b14,D Johnson,d406e303,P Baron,c6d1b1e4,0,0,0,0,0,,,,,,0,0,0
+1359802,2022/23,Argentina,3,A Ferguson,4a8d1b14,D Johnson,d406e303,P Baron,c6d1b1e4,0,0,0,0,0,,,,,,0,0,0
+1359802,2022/23,Argentina,3,A Ferguson,4a8d1b14,D Johnson,d406e303,P Baron,c6d1b1e4,0,0,0,0,0,,,,,,4,0,4
+1359802,2022/23,Argentina,3,A Ferguson,4a8d1b14,D Johnson,d406e303,P Baron,c6d1b1e4,0,0,0,1,0,,,,,,0,1,1
+1359802,2022/23,Argentina,3,P Baron,c6d1b1e4,D Johnson,d406e303,A Ferguson,4a8d1b14,0,0,0,0,0,,,,,,0,0,0
+1359802,2022/23,Argentina,4,A Ferguson,4a8d1b14,A Wright,4bb7f51e,P Baron,c6d1b1e4,0,0,0,0,0,,,,,,0,0,0
+1359802,2022/23,Argentina,4,A Ferguson,4a8d1b14,A Wright,4bb7f51e,P Baron,c6d1b1e4,0,0,0,0,0,,,,,,0,0,0
+1359802,2022/23,Argentina,4,A Ferguson,4a8d1b14,A Wright,4bb7f51e,P Baron,c6d1b1e4,0,0,0,0,0,,,,,,0,0,0
+1359802,2022/23,Argentina,4,A Ferguson,4a8d1b14,A Wright,4bb7f51e,P Baron,c6d1b1e4,0,0,0,0,0,,,,,,0,0,0
+1359802,2022/23,Argentina,4,A Ferguson,4a8d1b14,A Wright,4bb7f51e,P Baron,c6d1b1e4,0,0,0,0,0,,,,,,1,0,1
+1359802,2022/23,Argentina,4,P Baron,c6d1b1e4,A Wright,4bb7f51e,A Ferguson,4a8d1b14,0,0,0,0,0,,,,,,0,0,0
+1359802,2022/23,Argentina,5,A Ferguson,4a8d1b14,D Johnson,d406e303,P Baron,c6d1b1e4,0,0,0,0,0,,,,,,0,0,0
+1359802,2022/23,Argentina,5,A Ferguson,4a8d1b14,D Johnson,d406e303,P Baron,c6d1b1e4,0,0,0,0,0,,,,,,4,0,4
+1359802,2022/23,Argentina,5,A Ferguson,4a8d1b14,D Johnson,d406e303,P Baron,c6d1b1e4,0,0,0,0,0,,,,,,1,0,1
+1359802,2022/23,Argentina,5,P Baron,c6d1b1e4,D Johnson,d406e303,A Ferguson,4a8d1b14,0,0,0,0,0,,,,,,4,0,4
+1359802,2022/23,Argentina,5,P Baron,c6d1b1e4,D Johnson,d406e303,A Ferguson,4a8d1b14,0,0,0,0,0,,,,,,4,0,4
+1359802,2022/23,Argentina,5,P Baron,c6d1b1e4,D Johnson,d406e303,A Ferguson,4a8d1b14,0,0,0,0,0,,,,,,0,0,0
+1359802,2022/23,Argentina,6,A Ferguson,4a8d1b14,A Wright,4bb7f51e,P Baron,c6d1b1e4,0,0,0,0,0,,,,,,1,0,1
+1359802,2022/23,Argentina,6,P Baron,c6d1b1e4,A Wright,4bb7f51e,A Ferguson,4a8d1b14,0,0,0,0,0,,,,,,1,0,1
+1359802,2022/23,Argentina,6,A Ferguson,4a8d1b14,A Wright,4bb7f51e,P Baron,c6d1b1e4,0,0,0,0,0,,,,,,0,0,0
+1359802,2022/23,Argentina,6,A Ferguson,4a8d1b14,A Wright,4bb7f51e,P Baron,c6d1b1e4,0,0,0,0,0,,,,,,1,0,1
+1359802,2022/23,Argentina,6,P Baron,c6d1b1e4,A Wright,4bb7f51e,A Ferguson,4a8d1b14,0,0,0,0,0,,,,,,1,0,1
+1359802,2022/23,Argentina,6,A Ferguson,4a8d1b14,A Wright,4bb7f51e,P Baron,c6d1b1e4,0,0,0,0,0,,,,,,4,0,4
+1359802,2022/23,Argentina,7,P Baron,c6d1b1e4,T Taylor,1d6e8f52,A Ferguson,4a8d1b14,0,0,0,0,0,,,,,,0,0,0
+1359802,2022/23,Argentina,7,P Baron,c6d1b1e4,T Taylor,1d6e8f52,A Ferguson,4a8d1b14,0,0,0,0,1,P Baron,c6d1b1e4,,,lbw,0,0,0
+1359802,2022/23,Argentina,7,A Kirschbaum,d953bf92,T Taylor,1d6e8f52,A Ferguson,4a8d1b14,0,0,0,0,0,,,,,,0,0,0
+1359802,2022/23,Argentina,7,A Kirschbaum,d953bf92,T Taylor,1d6e8f52,A Ferguson,4a8d1b14,0,0,0,0,0,,,,,,0,0,0
+1359802,2022/23,Argentina,7,A Kirschbaum,d953bf92,T Taylor,1d6e8f52,A Ferguson,4a8d1b14,0,0,0,0,0,,,,,,4,0,4
+1359802,2022/23,Argentina,7,A Kirschbaum,d953bf92,T Taylor,1d6e8f52,A Ferguson,4a8d1b14,0,0,0,0,0,,,,,,1,0,1
+1359802,2022/23,Argentina,8,A Kirschbaum,d953bf92,J Buchanan,01127aa9,A Ferguson,4a8d1b14,0,0,0,0,0,,,,,,0,0,0
+1359802,2022/23,Argentina,8,A Kirschbaum,d953bf92,J Buchanan,01127aa9,A Ferguson,4a8d1b14,0,0,0,0,0,,,,,,0,0,0
+1359802,2022/23,Argentina,8,A Kirschbaum,d953bf92,J Buchanan,01127aa9,A Ferguson,4a8d1b14,0,0,0,0,0,,,,,,0,0,0
+1359802,2022/23,Argentina,8,A Kirschbaum,d953bf92,J Buchanan,01127aa9,A Ferguson,4a8d1b14,0,0,0,0,0,,,,,,1,0,1
+1359802,2022/23,Argentina,8,A Ferguson,4a8d1b14,J Buchanan,01127aa9,A Kirschbaum,d953bf92,0,0,0,0,0,,,,,,1,0,1
+1359802,2022/23,Argentina,8,A Kirschbaum,d953bf92,J Buchanan,01127aa9,A Ferguson,4a8d1b14,0,0,0,0,0,,,,,,6,0,6
+1359802,2022/23,Argentina,9,A Ferguson,4a8d1b14,AF Ifill,0e6c2f00,A Kirschbaum,d953bf92,0,0,0,0,0,,,,,,0,0,0
+1359802,2022/23,Argentina,9,A Ferguson,4a8d1b14,AF Ifill,0e6c2f00,A Kirschbaum,d953bf92,0,0,0,0,0,,,,,,1,0,1
+1359802,2022/23,Argentina,9,A Kirschbaum,d953bf92,AF Ifill,0e6c2f00,A Ferguson,4a8d1b14,0,0,0,0,0,,,,,,1,0,1
+1359802,2022/23,Argentina,9,A Ferguson,4a8d1b14,AF Ifill,0e6c2f00,A Kirschbaum,d953bf92,0,0,0,0,0,,,,,,0,0,0
+1359802,2022/23,Argentina,9,A Ferguson,4a8d1b14,AF Ifill,0e6c2f00,A Kirschbaum,d953bf92,0,0,0,0,0,,,,,,0,0,0
+1359802,2022/23,Argentina,9,A Ferguson,4a8d1b14,AF Ifill,0e6c2f00,A Kirschbaum,d953bf92,0,0,0,0,0,,,,,,4,0,4
+1359802,2022/23,Argentina,10,A Kirschbaum,d953bf92,J Buchanan,01127aa9,A Ferguson,4a8d1b14,0,0,0,0,0,,,,,,0,0,0
+1359802,2022/23,Argentina,10,A Kirschbaum,d953bf92,J Buchanan,01127aa9,A Ferguson,4a8d1b14,0,0,0,0,0,,,,,,0,0,0
+1359802,2022/23,Argentina,10,A Kirschbaum,d953bf92,J Buchanan,01127aa9,A Ferguson,4a8d1b14,0,0,0,0,0,,,,,,4,0,4
+1359802,2022/23,Argentina,10,A Kirschbaum,d953bf92,J Buchanan,01127aa9,A Ferguson,4a8d1b14,0,0,0,0,0,,,,,,0,0,0
+1359802,2022/23,Argentina,10,A Kirschbaum,d953bf92,J Buchanan,01127aa9,A Ferguson,4a8d1b14,0,0,0,0,0,,,,,,1,0,1
+1359802,2022/23,Argentina,10,A Ferguson,4a8d1b14,J Buchanan,01127aa9,A Kirschbaum,d953bf92,0,0,0,0,0,,,,,,0,0,0
+1359802,2022/23,Argentina,11,A Kirschbaum,d953bf92,AF Ifill,0e6c2f00,A Ferguson,4a8d1b14,0,0,0,0,0,,,,,,1,0,1
+1359802,2022/23,Argentina,11,A Ferguson,4a8d1b14,AF Ifill,0e6c2f00,A Kirschbaum,d953bf92,0,0,0,0,0,,,,,,1,0,1
+1359802,2022/23,Argentina,11,A Kirschbaum,d953bf92,AF Ifill,0e6c2f00,A Ferguson,4a8d1b14,0,0,0,0,0,,,,,,2,0,2
+1359802,2022/23,Argentina,11,A Kirschbaum,d953bf92,AF Ifill,0e6c2f00,A Ferguson,4a8d1b14,0,0,0,0,0,,,,,,0,0,0
+1359802,2022/23,Argentina,11,A Kirschbaum,d953bf92,AF Ifill,0e6c2f00,A Ferguson,4a8d1b14,0,0,0,0,0,,,,,,1,0,1
+1359802,2022/23,Argentina,11,A Ferguson,4a8d1b14,AF Ifill,0e6c2f00,A Kirschbaum,d953bf92,0,0,0,0,0,,,,,,0,0,0
+1359802,2022/23,Argentina,12,A Kirschbaum,d953bf92,A Wright,4bb7f51e,A Ferguson,4a8d1b14,0,0,0,0,1,A Kirschbaum,d953bf92,,,bowled,0,0,0
+1359802,2022/23,Argentina,12,LA Musiani,efbd35a9,A Wright,4bb7f51e,A Ferguson,4a8d1b14,0,0,0,0,0,,,,,,1,0,1
+1359802,2022/23,Argentina,12,A Ferguson,4a8d1b14,A Wright,4bb7f51e,LA Musiani,efbd35a9,0,0,0,0,0,,,,,,1,0,1
+1359802,2022/23,Argentina,12,LA Musiani,efbd35a9,A Wright,4bb7f51e,A Ferguson,4a8d1b14,0,0,0,0,0,,,,,,0,0,0
+1359802,2022/23,Argentina,12,LA Musiani,efbd35a9,A Wright,4bb7f51e,A Ferguson,4a8d1b14,0,0,0,0,0,,,,,,1,0,1
+1359802,2022/23,Argentina,12,A Ferguson,4a8d1b14,A Wright,4bb7f51e,LA Musiani,efbd35a9,1,0,0,0,0,,,,,,0,1,1
+1359802,2022/23,Argentina,12,A Ferguson,4a8d1b14,A Wright,4bb7f51e,LA Musiani,efbd35a9,0,0,0,0,0,,,,,,0,0,0
+1359802,2022/23,Argentina,13,LA Musiani,efbd35a9,AF Ifill,0e6c2f00,A Ferguson,4a8d1b14,0,0,0,0,0,,,,,,1,0,1
+1359802,2022/23,Argentina,13,A Ferguson,4a8d1b14,AF Ifill,0e6c2f00,LA Musiani,efbd35a9,0,0,0,0,0,,,,,,1,0,1
+1359802,2022/23,Argentina,13,LA Musiani,efbd35a9,AF Ifill,0e6c2f00,A Ferguson,4a8d1b14,0,0,1,0,0,,,,,,0,1,1
+1359802,2022/23,Argentina,13,A Ferguson,4a8d1b14,AF Ifill,0e6c2f00,LA Musiani,efbd35a9,0,0,0,0,0,,,,,,1,0,1
+1359802,2022/23,Argentina,13,LA Musiani,efbd35a9,AF Ifill,0e6c2f00,A Ferguson,4a8d1b14,0,0,0,0,0,,,,,,1,0,1
+1359802,2022/23,Argentina,13,A Ferguson,4a8d1b14,AF Ifill,0e6c2f00,LA Musiani,efbd35a9,0,0,0,0,0,,,,,,1,0,1
+1359802,2022/23,Argentina,14,A Ferguson,4a8d1b14,A Wright,4bb7f51e,LA Musiani,efbd35a9,0,0,0,0,0,,,,,,4,0,4
+1359802,2022/23,Argentina,14,A Ferguson,4a8d1b14,A Wright,4bb7f51e,LA Musiani,efbd35a9,0,0,0,0,0,,,,,,1,0,1
+1359802,2022/23,Argentina,14,LA Musiani,efbd35a9,A Wright,4bb7f51e,A Ferguson,4a8d1b14,0,0,0,0,0,,,,,,3,0,3
+1359802,2022/23,Argentina,14,A Ferguson,4a8d1b14,A Wright,4bb7f51e,LA Musiani,efbd35a9,1,0,0,0,0,,,,,,0,1,1
+1359802,2022/23,Argentina,14,A Ferguson,4a8d1b14,A Wright,4bb7f51e,LA Musiani,efbd35a9,0,0,0,0,0,,,,,,2,0,2
+1359802,2022/23,Argentina,14,A Ferguson,4a8d1b14,A Wright,4bb7f51e,LA Musiani,efbd35a9,0,0,0,0,0,,,,,,0,0,0
+1359802,2022/23,Argentina,14,A Ferguson,4a8d1b14,A Wright,4bb7f51e,LA Musiani,efbd35a9,0,0,0,0,0,,,,,,1,0,1
+1359802,2022/23,Argentina,15,A Ferguson,4a8d1b14,AF Ifill,0e6c2f00,LA Musiani,efbd35a9,0,0,0,0,0,,,,,,1,0,1
+1359802,2022/23,Argentina,15,LA Musiani,efbd35a9,AF Ifill,0e6c2f00,A Ferguson,4a8d1b14,0,0,0,0,1,LA Musiani,efbd35a9,T Taylor,1d6e8f52,caught,0,0,0
+1359802,2022/23,Argentina,15,S Rossi,56544f81,AF Ifill,0e6c2f00,A Ferguson,4a8d1b14,0,0,0,0,1,S Rossi,56544f81,,,bowled,0,0,0
+1359802,2022/23,Argentina,15,R Escobar,9fa5496f,AF Ifill,0e6c2f00,A Ferguson,4a8d1b14,0,0,0,0,0,,,,,,1,0,1
+1359802,2022/23,Argentina,15,A Ferguson,4a8d1b14,AF Ifill,0e6c2f00,R Escobar,9fa5496f,0,0,0,0,0,,,,,,0,0,0
+1359802,2022/23,Argentina,15,A Ferguson,4a8d1b14,AF Ifill,0e6c2f00,R Escobar,9fa5496f,0,0,0,0,0,,,,,,4,0,4
+1359802,2022/23,Argentina,16,R Escobar,9fa5496f,C Wright,d465c6d7,A Ferguson,4a8d1b14,0,0,0,0,0,,,,,,1,0,1
+1359802,2022/23,Argentina,16,A Ferguson,4a8d1b14,C Wright,d465c6d7,R Escobar,9fa5496f,0,0,0,0,0,,,,,,1,0,1
+1359802,2022/23,Argentina,16,R Escobar,9fa5496f,C Wright,d465c6d7,A Ferguson,4a8d1b14,0,0,0,0,0,,,,,,1,0,1
+1359802,2022/23,Argentina,16,A Ferguson,4a8d1b14,C Wright,d465c6d7,R Escobar,9fa5496f,0,0,0,0,0,,,,,,0,0,0
+1359802,2022/23,Argentina,16,A Ferguson,4a8d1b14,C Wright,d465c6d7,R Escobar,9fa5496f,0,0,0,0,0,,,,,,2,0,2
+1359802,2022/23,Argentina,16,A Ferguson,4a8d1b14,C Wright,d465c6d7,R Escobar,9fa5496f,0,0,0,0,0,,,,,,1,0,1
+1359802,2022/23,Argentina,17,A Ferguson,4a8d1b14,T Taylor,1d6e8f52,R Escobar,9fa5496f,0,0,0,0,0,,,,,,1,0,1
+1359802,2022/23,Argentina,17,R Escobar,9fa5496f,T Taylor,1d6e8f52,A Ferguson,4a8d1b14,0,0,0,0,0,,,,,,1,0,1
+1359802,2022/23,Argentina,17,A Ferguson,4a8d1b14,T Taylor,1d6e8f52,R Escobar,9fa5496f,0,0,0,0,0,,,,,,1,0,1
+1359802,2022/23,Argentina,17,R Escobar,9fa5496f,T Taylor,1d6e8f52,A Ferguson,4a8d1b14,0,0,0,0,0,,,,,,2,0,2
+1359802,2022/23,Argentina,17,R Escobar,9fa5496f,T Taylor,1d6e8f52,A Ferguson,4a8d1b14,0,0,0,0,0,,,,,,0,0,0
+1359802,2022/23,Argentina,17,R Escobar,9fa5496f,T Taylor,1d6e8f52,A Ferguson,4a8d1b14,0,0,1,0,0,,,,,,0,1,1
+1359802,2022/23,Argentina,18,R Escobar,9fa5496f,C Wright,d465c6d7,A Ferguson,4a8d1b14,0,0,0,0,0,,,,,,1,0,1
+1359802,2022/23,Argentina,18,A Ferguson,4a8d1b14,C Wright,d465c6d7,R Escobar,9fa5496f,0,0,0,0,0,,,,,,1,0,1
+1359802,2022/23,Argentina,18,R Escobar,9fa5496f,C Wright,d465c6d7,A Ferguson,4a8d1b14,0,0,0,0,0,,,,,,1,0,1
+1359802,2022/23,Argentina,18,A Ferguson,4a8d1b14,C Wright,d465c6d7,R Escobar,9fa5496f,0,0,0,0,1,A Ferguson,4a8d1b14,AF Ifill,0e6c2f00,caught,0,0,0
+1359802,2022/23,Argentina,18,AAP Rivero,1911dcbc,C Wright,d465c6d7,R Escobar,9fa5496f,0,0,0,0,0,,,,,,2,0,2
+1359802,2022/23,Argentina,18,AAP Rivero,1911dcbc,C Wright,d465c6d7,R Escobar,9fa5496f,0,0,0,0,0,,,,,,2,0,2
+1359802,2022/23,Argentina,19,R Escobar,9fa5496f,T Taylor,1d6e8f52,AAP Rivero,1911dcbc,0,0,0,0,0,,,,,,1,0,1
+1359802,2022/23,Argentina,19,AAP Rivero,1911dcbc,T Taylor,1d6e8f52,R Escobar,9fa5496f,0,0,0,0,0,,,,,,1,0,1
+1359802,2022/23,Argentina,19,R Escobar,9fa5496f,T Taylor,1d6e8f52,AAP Rivero,1911dcbc,0,0,0,0,0,,,,,,3,0,3
+1359802,2022/23,Argentina,19,AAP Rivero,1911dcbc,T Taylor,1d6e8f52,R Escobar,9fa5496f,0,0,0,0,1,AAP Rivero,1911dcbc,,,bowled,0,0,0
+1359802,2022/23,Argentina,19,H Fennell,0d38ab25,T Taylor,1d6e8f52,R Escobar,9fa5496f,0,0,0,0,0,,,,,,4,0,4
+1359802,2022/23,Argentina,19,H Fennell,0d38ab25,T Taylor,1d6e8f52,R Escobar,9fa5496f,0,0,0,1,0,,,,,,0,1,1
+1359802,2022/23,Cayman Islands,0,YSD Seneveratne,0f71478c,A Kirschbaum,d953bf92,BKB Corbin,036b8660,0,0,0,0,0,,,,,,0,0,0
+1359802,2022/23,Cayman Islands,0,YSD Seneveratne,0f71478c,A Kirschbaum,d953bf92,BKB Corbin,036b8660,0,0,0,0,0,,,,,,0,0,0
+1359802,2022/23,Cayman Islands,0,YSD Seneveratne,0f71478c,A Kirschbaum,d953bf92,BKB Corbin,036b8660,0,0,0,0,0,,,,,,0,0,0
+1359802,2022/23,Cayman Islands,0,YSD Seneveratne,0f71478c,A Kirschbaum,d953bf92,BKB Corbin,036b8660,0,0,0,0,0,,,,,,0,0,0
+1359802,2022/23,Cayman Islands,0,YSD Seneveratne,0f71478c,A Kirschbaum,d953bf92,BKB Corbin,036b8660,0,0,0,0,0,,,,,,0,0,0
+1359802,2022/23,Cayman Islands,0,YSD Seneveratne,0f71478c,A Kirschbaum,d953bf92,BKB Corbin,036b8660,0,0,0,0,0,,,,,,0,0,0
+1359802,2022/23,Cayman Islands,1,BKB Corbin,036b8660,H Fennell,0d38ab25,YSD Seneveratne,0f71478c,0,0,0,0,0,,,,,,0,0,0
+1359802,2022/23,Cayman Islands,1,BKB Corbin,036b8660,H Fennell,0d38ab25,YSD Seneveratne,0f71478c,0,0,0,0,0,,,,,,0,0,0
+1359802,2022/23,Cayman Islands,1,BKB Corbin,036b8660,H Fennell,0d38ab25,YSD Seneveratne,0f71478c,0,0,0,0,0,,,,,,0,0,0
+1359802,2022/23,Cayman Islands,1,BKB Corbin,036b8660,H Fennell,0d38ab25,YSD Seneveratne,0f71478c,0,1,0,0,0,,,,,,4,1,5
+1359802,2022/23,Cayman Islands,1,BKB Corbin,036b8660,H Fennell,0d38ab25,YSD Seneveratne,0f71478c,0,0,0,0,0,,,,,,6,0,6
+1359802,2022/23,Cayman Islands,1,BKB Corbin,036b8660,H Fennell,0d38ab25,YSD Seneveratne,0f71478c,0,0,0,0,0,,,,,,1,0,1
+1359802,2022/23,Cayman Islands,1,YSD Seneveratne,0f71478c,H Fennell,0d38ab25,BKB Corbin,036b8660,1,0,0,0,0,,,,,,0,1,1
+1359802,2022/23,Cayman Islands,1,YSD Seneveratne,0f71478c,H Fennell,0d38ab25,BKB Corbin,036b8660,0,0,0,0,0,,,,,,2,0,2
+1359802,2022/23,Cayman Islands,2,BKB Corbin,036b8660,T Rossi,5470418a,YSD Seneveratne,0f71478c,1,0,0,0,0,,,,,,0,1,1
+1359802,2022/23,Cayman Islands,2,BKB Corbin,036b8660,T Rossi,5470418a,YSD Seneveratne,0f71478c,0,0,0,0,1,BKB Corbin,036b8660,,,bowled,0,0,0
+1359802,2022/23,Cayman Islands,2,P Manning,f06b5585,T Rossi,5470418a,YSD Seneveratne,0f71478c,0,0,0,0,0,,,,,,0,0,0
+1359802,2022/23,Cayman Islands,2,P Manning,f06b5585,T Rossi,5470418a,YSD Seneveratne,0f71478c,0,0,0,0,0,,,,,,0,0,0
+1359802,2022/23,Cayman Islands,2,P Manning,f06b5585,T Rossi,5470418a,YSD Seneveratne,0f71478c,0,0,0,0,0,,,,,,0,0,0
+1359802,2022/23,Cayman Islands,2,P Manning,f06b5585,T Rossi,5470418a,YSD Seneveratne,0f71478c,1,0,0,0,0,,,,,,0,1,1
+1359802,2022/23,Cayman Islands,2,P Manning,f06b5585,T Rossi,5470418a,YSD Seneveratne,0f71478c,0,0,0,0,0,,,,,,4,0,4
+1359802,2022/23,Cayman Islands,2,P Manning,f06b5585,T Rossi,5470418a,YSD Seneveratne,0f71478c,0,0,0,0,0,,,,,,0,0,0
+1359802,2022/23,Cayman Islands,3,YSD Seneveratne,0f71478c,H Fennell,0d38ab25,P Manning,f06b5585,0,0,0,0,0,,,,,,4,0,4
+1359802,2022/23,Cayman Islands,3,YSD Seneveratne,0f71478c,H Fennell,0d38ab25,P Manning,f06b5585,0,0,0,0,0,,,,,,0,0,0
+1359802,2022/23,Cayman Islands,3,YSD Seneveratne,0f71478c,H Fennell,0d38ab25,P Manning,f06b5585,0,0,0,0,0,,,,,,1,0,1
+1359802,2022/23,Cayman Islands,3,P Manning,f06b5585,H Fennell,0d38ab25,YSD Seneveratne,0f71478c,0,0,0,0,0,,,,,,0,0,0
+1359802,2022/23,Cayman Islands,3,P Manning,f06b5585,H Fennell,0d38ab25,YSD Seneveratne,0f71478c,0,0,0,0,0,,,,,,0,0,0
+1359802,2022/23,Cayman Islands,3,P Manning,f06b5585,H Fennell,0d38ab25,YSD Seneveratne,0f71478c,0,0,0,0,0,,,,,,0,0,0
+1359802,2022/23,Cayman Islands,4,YSD Seneveratne,0f71478c,T Rossi,5470418a,P Manning,f06b5585,0,0,0,0,0,,,,,,0,0,0
+1359802,2022/23,Cayman Islands,4,YSD Seneveratne,0f71478c,T Rossi,5470418a,P Manning,f06b5585,0,0,0,0,0,,,,,,4,0,4
+1359802,2022/23,Cayman Islands,4,YSD Seneveratne,0f71478c,T Rossi,5470418a,P Manning,f06b5585,0,0,0,0,0,,,,,,1,0,1
+1359802,2022/23,Cayman Islands,4,P Manning,f06b5585,T Rossi,5470418a,YSD Seneveratne,0f71478c,0,0,0,0,0,,,,,,1,0,1
+1359802,2022/23,Cayman Islands,4,YSD Seneveratne,0f71478c,T Rossi,5470418a,P Manning,f06b5585,0,0,0,0,0,,,,,,1,0,1
+1359802,2022/23,Cayman Islands,4,P Manning,f06b5585,T Rossi,5470418a,YSD Seneveratne,0f71478c,0,0,0,0,0,,,,,,4,0,4
+1359802,2022/23,Cayman Islands,5,YSD Seneveratne,0f71478c,S Rossi,56544f81,P Manning,f06b5585,0,0,0,0,0,,,,,,6,0,6
+1359802,2022/23,Cayman Islands,5,YSD Seneveratne,0f71478c,S Rossi,56544f81,P Manning,f06b5585,0,0,0,0,0,,,,,,0,0,0
+1359802,2022/23,Cayman Islands,5,YSD Seneveratne,0f71478c,S Rossi,56544f81,P Manning,f06b5585,0,0,0,0,0,,,,,,0,0,0
+1359802,2022/23,Cayman Islands,5,YSD Seneveratne,0f71478c,S Rossi,56544f81,P Manning,f06b5585,0,0,0,0,0,,,,,,1,0,1
+1359802,2022/23,Cayman Islands,5,P Manning,f06b5585,S Rossi,56544f81,YSD Seneveratne,0f71478c,0,0,0,0,0,,,,,,1,0,1
+1359802,2022/23,Cayman Islands,5,YSD Seneveratne,0f71478c,S Rossi,56544f81,P Manning,f06b5585,0,0,0,0,0,,,,,,4,0,4
+1359802,2022/23,Cayman Islands,6,P Manning,f06b5585,A Kirschbaum,d953bf92,YSD Seneveratne,0f71478c,0,0,0,0,0,,,,,,0,0,0
+1359802,2022/23,Cayman Islands,6,P Manning,f06b5585,A Kirschbaum,d953bf92,YSD Seneveratne,0f71478c,0,0,0,0,0,,,,,,0,0,0
+1359802,2022/23,Cayman Islands,6,P Manning,f06b5585,A Kirschbaum,d953bf92,YSD Seneveratne,0f71478c,1,0,0,0,0,,,,,,0,1,1
+1359802,2022/23,Cayman Islands,6,P Manning,f06b5585,A Kirschbaum,d953bf92,YSD Seneveratne,0f71478c,0,0,0,0,0,,,,,,6,0,6
+1359802,2022/23,Cayman Islands,6,P Manning,f06b5585,A Kirschbaum,d953bf92,YSD Seneveratne,0f71478c,0,0,0,0,0,,,,,,0,0,0
+1359802,2022/23,Cayman Islands,6,P Manning,f06b5585,A Kirschbaum,d953bf92,YSD Seneveratne,0f71478c,0,0,0,0,0,,,,,,2,0,2
+1359802,2022/23,Cayman Islands,6,P Manning,f06b5585,A Kirschbaum,d953bf92,YSD Seneveratne,0f71478c,0,0,0,0,0,,,,,,0,0,0
+1359802,2022/23,Cayman Islands,7,YSD Seneveratne,0f71478c,S Rossi,56544f81,P Manning,f06b5585,0,0,0,0,0,,,,,,4,0,4
+1359802,2022/23,Cayman Islands,7,YSD Seneveratne,0f71478c,S Rossi,56544f81,P Manning,f06b5585,0,0,0,0,0,,,,,,0,0,0
+1359802,2022/23,Cayman Islands,7,YSD Seneveratne,0f71478c,S Rossi,56544f81,P Manning,f06b5585,0,0,0,0,0,,,,,,1,0,1
+1359802,2022/23,Cayman Islands,7,P Manning,f06b5585,S Rossi,56544f81,YSD Seneveratne,0f71478c,0,0,0,0,0,,,,,,1,0,1
+1359802,2022/23,Cayman Islands,7,YSD Seneveratne,0f71478c,S Rossi,56544f81,P Manning,f06b5585,0,0,0,0,0,,,,,,0,0,0
+1359802,2022/23,Cayman Islands,7,YSD Seneveratne,0f71478c,S Rossi,56544f81,P Manning,f06b5585,0,0,0,0,0,,,,,,0,0,0
+1359802,2022/23,Cayman Islands,8,P Manning,f06b5585,A Husain,034d3c52,YSD Seneveratne,0f71478c,1,0,0,0,0,,,,,,0,1,1
+1359802,2022/23,Cayman Islands,8,P Manning,f06b5585,A Husain,034d3c52,YSD Seneveratne,0f71478c,0,0,0,0,0,,,,,,0,0,0
+1359802,2022/23,Cayman Islands,8,P Manning,f06b5585,A Husain,034d3c52,YSD Seneveratne,0f71478c,0,0,0,0,0,,,,,,1,0,1
+1359802,2022/23,Cayman Islands,8,YSD Seneveratne,0f71478c,A Husain,034d3c52,P Manning,f06b5585,0,0,0,0,0,,,,,,4,0,4
+1359802,2022/23,Cayman Islands,8,YSD Seneveratne,0f71478c,A Husain,034d3c52,P Manning,f06b5585,0,0,0,0,0,,,,,,1,0,1
+1359802,2022/23,Cayman Islands,8,P Manning,f06b5585,A Husain,034d3c52,YSD Seneveratne,0f71478c,0,0,0,0,0,,,,,,0,0,0
+1359802,2022/23,Cayman Islands,8,P Manning,f06b5585,A Husain,034d3c52,YSD Seneveratne,0f71478c,0,0,0,0,0,,,,,,1,0,1
+1359802,2022/23,Cayman Islands,9,P Manning,f06b5585,A Kirschbaum,d953bf92,YSD Seneveratne,0f71478c,0,0,0,0,0,,,,,,0,0,0
+1359802,2022/23,Cayman Islands,9,P Manning,f06b5585,A Kirschbaum,d953bf92,YSD Seneveratne,0f71478c,0,0,0,0,0,,,,,,0,0,0
+1359802,2022/23,Cayman Islands,9,P Manning,f06b5585,A Kirschbaum,d953bf92,YSD Seneveratne,0f71478c,0,0,0,0,0,,,,,,0,0,0
+1359802,2022/23,Cayman Islands,9,P Manning,f06b5585,A Kirschbaum,d953bf92,YSD Seneveratne,0f71478c,0,0,0,0,0,,,,,,1,0,1
+1359802,2022/23,Cayman Islands,9,YSD Seneveratne,0f71478c,A Kirschbaum,d953bf92,P Manning,f06b5585,0,0,0,0,0,,,,,,0,0,0
+1359802,2022/23,Cayman Islands,9,YSD Seneveratne,0f71478c,A Kirschbaum,d953bf92,P Manning,f06b5585,0,0,0,0,0,,,,,,1,0,1
+1359802,2022/23,Cayman Islands,10,YSD Seneveratne,0f71478c,H Fennell,0d38ab25,P Manning,f06b5585,1,0,0,0,0,,,,,,0,1,1
+1359802,2022/23,Cayman Islands,10,YSD Seneveratne,0f71478c,H Fennell,0d38ab25,P Manning,f06b5585,0,0,0,0,0,,,,,,0,0,0
+1359802,2022/23,Cayman Islands,10,YSD Seneveratne,0f71478c,H Fennell,0d38ab25,P Manning,f06b5585,0,0,0,0,0,,,,,,0,0,0
+1359802,2022/23,Cayman Islands,10,YSD Seneveratne,0f71478c,H Fennell,0d38ab25,P Manning,f06b5585,0,0,0,0,0,,,,,,0,0,0
+1359802,2022/23,Cayman Islands,10,YSD Seneveratne,0f71478c,H Fennell,0d38ab25,P Manning,f06b5585,0,0,0,0,0,,,,,,0,0,0
+1359802,2022/23,Cayman Islands,10,YSD Seneveratne,0f71478c,H Fennell,0d38ab25,P Manning,f06b5585,0,0,0,0,0,,,,,,1,0,1
+1359802,2022/23,Cayman Islands,10,P Manning,f06b5585,H Fennell,0d38ab25,YSD Seneveratne,0f71478c,0,0,1,0,0,,,,,,0,1,1
+1359802,2022/23,Cayman Islands,11,P Manning,f06b5585,A Kirschbaum,d953bf92,YSD Seneveratne,0f71478c,0,0,0,0,0,,,,,,0,0,0
+1359802,2022/23,Cayman Islands,11,P Manning,f06b5585,A Kirschbaum,d953bf92,YSD Seneveratne,0f71478c,0,0,0,0,0,,,,,,1,0,1
+1359802,2022/23,Cayman Islands,11,YSD Seneveratne,0f71478c,A Kirschbaum,d953bf92,P Manning,f06b5585,0,0,0,0,0,,,,,,1,0,1
+1359802,2022/23,Cayman Islands,11,P Manning,f06b5585,A Kirschbaum,d953bf92,YSD Seneveratne,0f71478c,0,0,0,0,0,,,,,,1,0,1
+1359802,2022/23,Cayman Islands,11,YSD Seneveratne,0f71478c,A Kirschbaum,d953bf92,P Manning,f06b5585,0,0,0,0,0,,,,,,1,0,1
+1359802,2022/23,Cayman Islands,11,P Manning,f06b5585,A Kirschbaum,d953bf92,YSD Seneveratne,0f71478c,0,0,0,0,0,,,,,,0,0,0
+1359802,2022/23,Cayman Islands,12,YSD Seneveratne,0f71478c,A Husain,034d3c52,P Manning,f06b5585,0,0,0,0,0,,,,,,1,0,1
+1359802,2022/23,Cayman Islands,12,P Manning,f06b5585,A Husain,034d3c52,YSD Seneveratne,0f71478c,0,0,0,0,0,,,,,,2,0,2
+1359802,2022/23,Cayman Islands,12,P Manning,f06b5585,A Husain,034d3c52,YSD Seneveratne,0f71478c,0,0,0,0,0,,,,,,1,0,1
+1359802,2022/23,Cayman Islands,12,YSD Seneveratne,0f71478c,A Husain,034d3c52,P Manning,f06b5585,0,0,0,0,0,,,,,,1,0,1
+1359802,2022/23,Cayman Islands,12,P Manning,f06b5585,A Husain,034d3c52,YSD Seneveratne,0f71478c,0,0,0,0,0,,,,,,0,0,0
+1359802,2022/23,Cayman Islands,12,P Manning,f06b5585,A Husain,034d3c52,YSD Seneveratne,0f71478c,0,0,0,0,0,,,,,,4,0,4
+1359802,2022/23,Cayman Islands,13,YSD Seneveratne,0f71478c,AAP Rivero,1911dcbc,P Manning,f06b5585,0,0,0,0,0,,,,,,1,0,1
+1359802,2022/23,Cayman Islands,13,P Manning,f06b5585,AAP Rivero,1911dcbc,YSD Seneveratne,0f71478c,0,0,0,0,0,,,,,,0,0,0
+1359802,2022/23,Cayman Islands,13,P Manning,f06b5585,AAP Rivero,1911dcbc,YSD Seneveratne,0f71478c,0,0,0,0,1,P Manning,f06b5585,A Ferguson,4a8d1b14,run out,0,0,0
+1359802,2022/23,Cayman Islands,13,YSD Seneveratne,0f71478c,AAP Rivero,1911dcbc,RA Sealy,1e98804a,0,0,0,0,0,,,,,,1,0,1
+1359802,2022/23,Cayman Islands,13,RA Sealy,1e98804a,AAP Rivero,1911dcbc,YSD Seneveratne,0f71478c,0,0,0,0,0,,,,,,1,0,1
+1359802,2022/23,Cayman Islands,13,YSD Seneveratne,0f71478c,AAP Rivero,1911dcbc,RA Sealy,1e98804a,1,0,0,0,0,,,,,,0,1,1
+1359802,2022/23,Cayman Islands,13,YSD Seneveratne,0f71478c,AAP Rivero,1911dcbc,RA Sealy,1e98804a,0,0,0,0,0,,,,,,1,0,1
+1359802,2022/23,Cayman Islands,14,YSD Seneveratne,0f71478c,S Rossi,56544f81,RA Sealy,1e98804a,0,0,0,0,1,YSD Seneveratne,0f71478c,R Escobar,9fa5496f,run out,1,0,1
+1359802,2022/23,Cayman Islands,14,AF Ifill,0e6c2f00,S Rossi,56544f81,RA Sealy,1e98804a,0,0,0,0,0,,,,,,0,0,0
+1359802,2022/23,Cayman Islands,14,AF Ifill,0e6c2f00,S Rossi,56544f81,RA Sealy,1e98804a,0,0,0,0,0,,,,,,1,0,1
+1359802,2022/23,Cayman Islands,14,RA Sealy,1e98804a,S Rossi,56544f81,AF Ifill,0e6c2f00,0,0,0,0,1,RA Sealy,1e98804a,D Mauro,5f0f398d,caught,0,0,0
+1359802,2022/23,Cayman Islands,14,P Chin,21267b60,S Rossi,56544f81,AF Ifill,0e6c2f00,0,0,2,0,0,,,,,,0,2,2
+1359802,2022/23,Cayman Islands,14,P Chin,21267b60,S Rossi,56544f81,AF Ifill,0e6c2f00,0,0,0,0,0,,,,,,0,0,0
+1359802,2022/23,Cayman Islands,15,AF Ifill,0e6c2f00,AAP Rivero,1911dcbc,P Chin,21267b60,0,0,0,0,0,,,,,,0,0,0
+1359802,2022/23,Cayman Islands,15,AF Ifill,0e6c2f00,AAP Rivero,1911dcbc,P Chin,21267b60,0,0,0,0,0,,,,,,1,0,1
+1359802,2022/23,Cayman Islands,15,P Chin,21267b60,AAP Rivero,1911dcbc,AF Ifill,0e6c2f00,0,0,0,0,0,,,,,,1,0,1
+1359802,2022/23,Cayman Islands,15,AF Ifill,0e6c2f00,AAP Rivero,1911dcbc,P Chin,21267b60,0,0,0,0,0,,,,,,1,0,1
+1359802,2022/23,Cayman Islands,15,P Chin,21267b60,AAP Rivero,1911dcbc,AF Ifill,0e6c2f00,0,0,0,0,0,,,,,,0,0,0
+1359802,2022/23,Cayman Islands,15,P Chin,21267b60,AAP Rivero,1911dcbc,AF Ifill,0e6c2f00,0,0,0,0,0,,,,,,0,0,0
+1359802,2022/23,Cayman Islands,16,AF Ifill,0e6c2f00,S Rossi,56544f81,P Chin,21267b60,0,0,0,0,0,,,,,,4,0,4
+1359802,2022/23,Cayman Islands,16,AF Ifill,0e6c2f00,S Rossi,56544f81,P Chin,21267b60,0,0,0,0,0,,,,,,1,0,1
+1359802,2022/23,Cayman Islands,16,P Chin,21267b60,S Rossi,56544f81,AF Ifill,0e6c2f00,0,0,0,0,0,,,,,,1,0,1
+1359802,2022/23,Cayman Islands,16,AF Ifill,0e6c2f00,S Rossi,56544f81,P Chin,21267b60,0,0,0,0,1,AF Ifill,0e6c2f00,,,bowled,0,0,0
+1359802,2022/23,Cayman Islands,16,D Johnson,d406e303,S Rossi,56544f81,P Chin,21267b60,0,0,0,0,0,,,,,,1,0,1
+1359802,2022/23,Cayman Islands,16,P Chin,21267b60,S Rossi,56544f81,D Johnson,d406e303,0,0,0,0,0,,,,,,0,0,0
+1359802,2022/23,Cayman Islands,17,D Johnson,d406e303,AAP Rivero,1911dcbc,P Chin,21267b60,0,0,0,0,0,,,,,,1,0,1
+1359802,2022/23,Cayman Islands,17,P Chin,21267b60,AAP Rivero,1911dcbc,D Johnson,d406e303,0,0,0,0,0,,,,,,2,0,2
+1359802,2022/23,Cayman Islands,17,P Chin,21267b60,AAP Rivero,1911dcbc,D Johnson,d406e303,0,0,1,0,0,,,,,,0,1,1
+1359802,2022/23,Cayman Islands,17,D Johnson,d406e303,AAP Rivero,1911dcbc,P Chin,21267b60,0,0,0,0,0,,,,,,2,0,2
+1359802,2022/23,Cayman Islands,17,D Johnson,d406e303,AAP Rivero,1911dcbc,P Chin,21267b60,0,0,0,0,0,,,,,,0,0,0
+1359802,2022/23,Cayman Islands,17,D Johnson,d406e303,AAP Rivero,1911dcbc,P Chin,21267b60,0,0,0,0,0,,,,,,0,0,0
+1359802,2022/23,Cayman Islands,18,P Chin,21267b60,H Fennell,0d38ab25,D Johnson,d406e303,0,0,0,0,0,,,,,,0,0,0
+1359802,2022/23,Cayman Islands,18,P Chin,21267b60,H Fennell,0d38ab25,D Johnson,d406e303,0,0,0,0,0,,,,,,2,0,2
+1359802,2022/23,Cayman Islands,18,P Chin,21267b60,H Fennell,0d38ab25,D Johnson,d406e303,0,0,0,0,0,,,,,,0,0,0
+1359802,2022/23,Cayman Islands,18,P Chin,21267b60,H Fennell,0d38ab25,D Johnson,d406e303,0,0,0,0,1,P Chin,21267b60,A Kirschbaum,d953bf92,caught,0,0,0
+1359802,2022/23,Cayman Islands,18,T Taylor,1d6e8f52,H Fennell,0d38ab25,D Johnson,d406e303,0,0,1,0,0,,,,,,0,1,1
+1359802,2022/23,Cayman Islands,18,D Johnson,d406e303,H Fennell,0d38ab25,T Taylor,1d6e8f52,0,0,0,0,1,D Johnson,d406e303,R Escobar,9fa5496f,run out,1,0,1
+1359802,2022/23,Cayman Islands,19,T Taylor,1d6e8f52,AAP Rivero,1911dcbc,C Wright,d465c6d7,0,0,0,0,0,,,,,,1,0,1
+1359802,2022/23,Cayman Islands,19,C Wright,d465c6d7,AAP Rivero,1911dcbc,T Taylor,1d6e8f52,0,0,0,0,0,,,,,,1,0,1
+1359802,2022/23,Cayman Islands,19,T Taylor,1d6e8f52,AAP Rivero,1911dcbc,C Wright,d465c6d7,0,0,0,0,0,,,,,,1,0,1
+1359802,2022/23,Cayman Islands,19,C Wright,d465c6d7,AAP Rivero,1911dcbc,T Taylor,1d6e8f52,0,0,0,0,0,,,,,,0,0,0
+1359802,2022/23,Cayman Islands,19,C Wright,d465c6d7,AAP Rivero,1911dcbc,T Taylor,1d6e8f52,0,0,0,0,0,,,,,,2,0,2
+1359802,2022/23,Cayman Islands,19,C Wright,d465c6d7,AAP Rivero,1911dcbc,T Taylor,1d6e8f52,0,1,0,0,0,,,,,,1,1,2

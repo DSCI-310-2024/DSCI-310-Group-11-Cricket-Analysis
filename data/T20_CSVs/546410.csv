@@ -1,0 +1,229 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+546410,2011/12,Netherlands,0,SJ Myburgh,18261c22,H Osinde,2b8b75a0,MR Swart,a75a78eb,1,0,0,0,0,,,,,,0,1,1
+546410,2011/12,Netherlands,0,SJ Myburgh,18261c22,H Osinde,2b8b75a0,MR Swart,a75a78eb,0,0,1,0,0,,,,,,0,1,1
+546410,2011/12,Netherlands,0,MR Swart,a75a78eb,H Osinde,2b8b75a0,SJ Myburgh,18261c22,0,0,0,0,0,,,,,,1,0,1
+546410,2011/12,Netherlands,0,SJ Myburgh,18261c22,H Osinde,2b8b75a0,MR Swart,a75a78eb,0,0,0,0,0,,,,,,0,0,0
+546410,2011/12,Netherlands,0,SJ Myburgh,18261c22,H Osinde,2b8b75a0,MR Swart,a75a78eb,0,0,0,0,0,,,,,,0,0,0
+546410,2011/12,Netherlands,0,SJ Myburgh,18261c22,H Osinde,2b8b75a0,MR Swart,a75a78eb,0,0,0,0,0,,,,,,0,0,0
+546410,2011/12,Netherlands,0,SJ Myburgh,18261c22,H Osinde,2b8b75a0,MR Swart,a75a78eb,0,0,0,0,0,,,,,,0,0,0
+546410,2011/12,Netherlands,1,MR Swart,a75a78eb,Junaid Siddiqui,9025e58f,SJ Myburgh,18261c22,0,0,0,0,0,,,,,,1,0,1
+546410,2011/12,Netherlands,1,SJ Myburgh,18261c22,Junaid Siddiqui,9025e58f,MR Swart,a75a78eb,0,0,0,0,0,,,,,,0,0,0
+546410,2011/12,Netherlands,1,SJ Myburgh,18261c22,Junaid Siddiqui,9025e58f,MR Swart,a75a78eb,0,0,0,0,0,,,,,,1,0,1
+546410,2011/12,Netherlands,1,MR Swart,a75a78eb,Junaid Siddiqui,9025e58f,SJ Myburgh,18261c22,0,0,0,0,0,,,,,,1,0,1
+546410,2011/12,Netherlands,1,SJ Myburgh,18261c22,Junaid Siddiqui,9025e58f,MR Swart,a75a78eb,0,0,0,0,0,,,,,,1,0,1
+546410,2011/12,Netherlands,1,MR Swart,a75a78eb,Junaid Siddiqui,9025e58f,SJ Myburgh,18261c22,0,0,0,0,1,MR Swart,a75a78eb,,,bowled,0,0,0
+546410,2011/12,Netherlands,2,SJ Myburgh,18261c22,H Osinde,2b8b75a0,TLW Cooper,2318ba22,1,0,0,0,0,,,,,,0,1,1
+546410,2011/12,Netherlands,2,SJ Myburgh,18261c22,H Osinde,2b8b75a0,TLW Cooper,2318ba22,0,0,0,0,0,,,,,,0,0,0
+546410,2011/12,Netherlands,2,SJ Myburgh,18261c22,H Osinde,2b8b75a0,TLW Cooper,2318ba22,0,0,0,0,0,,,,,,0,0,0
+546410,2011/12,Netherlands,2,SJ Myburgh,18261c22,H Osinde,2b8b75a0,TLW Cooper,2318ba22,0,0,0,0,0,,,,,,4,0,4
+546410,2011/12,Netherlands,2,SJ Myburgh,18261c22,H Osinde,2b8b75a0,TLW Cooper,2318ba22,0,0,0,0,0,,,,,,0,0,0
+546410,2011/12,Netherlands,2,SJ Myburgh,18261c22,H Osinde,2b8b75a0,TLW Cooper,2318ba22,0,0,0,0,0,,,,,,0,0,0
+546410,2011/12,Netherlands,2,SJ Myburgh,18261c22,H Osinde,2b8b75a0,TLW Cooper,2318ba22,0,0,0,0,0,,,,,,4,0,4
+546410,2011/12,Netherlands,3,TLW Cooper,2318ba22,Junaid Siddiqui,9025e58f,SJ Myburgh,18261c22,0,0,0,0,0,,,,,,0,0,0
+546410,2011/12,Netherlands,3,TLW Cooper,2318ba22,Junaid Siddiqui,9025e58f,SJ Myburgh,18261c22,0,0,0,0,0,,,,,,1,0,1
+546410,2011/12,Netherlands,3,SJ Myburgh,18261c22,Junaid Siddiqui,9025e58f,TLW Cooper,2318ba22,0,0,0,0,0,,,,,,4,0,4
+546410,2011/12,Netherlands,3,SJ Myburgh,18261c22,Junaid Siddiqui,9025e58f,TLW Cooper,2318ba22,0,0,0,0,0,,,,,,0,0,0
+546410,2011/12,Netherlands,3,SJ Myburgh,18261c22,Junaid Siddiqui,9025e58f,TLW Cooper,2318ba22,0,0,0,0,0,,,,,,0,0,0
+546410,2011/12,Netherlands,3,SJ Myburgh,18261c22,Junaid Siddiqui,9025e58f,TLW Cooper,2318ba22,0,0,0,0,0,,,,,,1,0,1
+546410,2011/12,Netherlands,4,SJ Myburgh,18261c22,AS Hansra,795df06c,TLW Cooper,2318ba22,0,0,0,0,0,,,,,,1,0,1
+546410,2011/12,Netherlands,4,TLW Cooper,2318ba22,AS Hansra,795df06c,SJ Myburgh,18261c22,0,0,0,0,0,,,,,,2,0,2
+546410,2011/12,Netherlands,4,TLW Cooper,2318ba22,AS Hansra,795df06c,SJ Myburgh,18261c22,0,0,0,0,0,,,,,,0,0,0
+546410,2011/12,Netherlands,4,TLW Cooper,2318ba22,AS Hansra,795df06c,SJ Myburgh,18261c22,0,0,0,0,0,,,,,,0,0,0
+546410,2011/12,Netherlands,4,TLW Cooper,2318ba22,AS Hansra,795df06c,SJ Myburgh,18261c22,0,0,0,0,0,,,,,,4,0,4
+546410,2011/12,Netherlands,4,TLW Cooper,2318ba22,AS Hansra,795df06c,SJ Myburgh,18261c22,0,0,0,0,0,,,,,,4,0,4
+546410,2011/12,Netherlands,5,SJ Myburgh,18261c22,Rizwan Cheema,3a026eb4,TLW Cooper,2318ba22,0,0,0,0,1,SJ Myburgh,18261c22,HS Baidwan,7839bf3a,caught,0,0,0
+546410,2011/12,Netherlands,5,TLW Cooper,2318ba22,Rizwan Cheema,3a026eb4,AN Kervezee,dc36a6a5,0,0,0,0,0,,,,,,0,0,0
+546410,2011/12,Netherlands,5,TLW Cooper,2318ba22,Rizwan Cheema,3a026eb4,AN Kervezee,dc36a6a5,0,0,0,0,0,,,,,,0,0,0
+546410,2011/12,Netherlands,5,TLW Cooper,2318ba22,Rizwan Cheema,3a026eb4,AN Kervezee,dc36a6a5,0,0,0,0,0,,,,,,2,0,2
+546410,2011/12,Netherlands,5,TLW Cooper,2318ba22,Rizwan Cheema,3a026eb4,AN Kervezee,dc36a6a5,1,0,0,0,0,,,,,,0,1,1
+546410,2011/12,Netherlands,5,TLW Cooper,2318ba22,Rizwan Cheema,3a026eb4,AN Kervezee,dc36a6a5,0,0,0,0,0,,,,,,0,0,0
+546410,2011/12,Netherlands,5,TLW Cooper,2318ba22,Rizwan Cheema,3a026eb4,AN Kervezee,dc36a6a5,0,0,0,0,0,,,,,,1,0,1
+546410,2011/12,Netherlands,6,TLW Cooper,2318ba22,H Osinde,2b8b75a0,AN Kervezee,dc36a6a5,1,0,0,0,0,,,,,,0,1,1
+546410,2011/12,Netherlands,6,TLW Cooper,2318ba22,H Osinde,2b8b75a0,AN Kervezee,dc36a6a5,0,0,0,0,0,,,,,,3,0,3
+546410,2011/12,Netherlands,6,AN Kervezee,dc36a6a5,H Osinde,2b8b75a0,TLW Cooper,2318ba22,0,0,0,0,0,,,,,,2,0,2
+546410,2011/12,Netherlands,6,AN Kervezee,dc36a6a5,H Osinde,2b8b75a0,TLW Cooper,2318ba22,0,0,0,0,0,,,,,,0,0,0
+546410,2011/12,Netherlands,6,AN Kervezee,dc36a6a5,H Osinde,2b8b75a0,TLW Cooper,2318ba22,0,0,0,0,0,,,,,,1,0,1
+546410,2011/12,Netherlands,6,TLW Cooper,2318ba22,H Osinde,2b8b75a0,AN Kervezee,dc36a6a5,0,0,0,0,0,,,,,,1,0,1
+546410,2011/12,Netherlands,6,AN Kervezee,dc36a6a5,H Osinde,2b8b75a0,TLW Cooper,2318ba22,0,0,1,0,0,,,,,,0,1,1
+546410,2011/12,Netherlands,7,AN Kervezee,dc36a6a5,Zahid Hussain,1e5708ac,TLW Cooper,2318ba22,0,0,0,0,0,,,,,,0,0,0
+546410,2011/12,Netherlands,7,AN Kervezee,dc36a6a5,Zahid Hussain,1e5708ac,TLW Cooper,2318ba22,0,0,0,0,0,,,,,,1,0,1
+546410,2011/12,Netherlands,7,TLW Cooper,2318ba22,Zahid Hussain,1e5708ac,AN Kervezee,dc36a6a5,0,0,0,0,0,,,,,,0,0,0
+546410,2011/12,Netherlands,7,TLW Cooper,2318ba22,Zahid Hussain,1e5708ac,AN Kervezee,dc36a6a5,0,0,0,0,0,,,,,,0,0,0
+546410,2011/12,Netherlands,7,TLW Cooper,2318ba22,Zahid Hussain,1e5708ac,AN Kervezee,dc36a6a5,0,0,0,0,0,,,,,,1,0,1
+546410,2011/12,Netherlands,7,AN Kervezee,dc36a6a5,Zahid Hussain,1e5708ac,TLW Cooper,2318ba22,0,0,0,0,0,,,,,,1,0,1
+546410,2011/12,Netherlands,8,AN Kervezee,dc36a6a5,Rizwan Cheema,3a026eb4,TLW Cooper,2318ba22,0,0,0,0,0,,,,,,0,0,0
+546410,2011/12,Netherlands,8,AN Kervezee,dc36a6a5,Rizwan Cheema,3a026eb4,TLW Cooper,2318ba22,0,0,0,0,0,,,,,,1,0,1
+546410,2011/12,Netherlands,8,TLW Cooper,2318ba22,Rizwan Cheema,3a026eb4,AN Kervezee,dc36a6a5,0,0,0,0,0,,,,,,1,0,1
+546410,2011/12,Netherlands,8,AN Kervezee,dc36a6a5,Rizwan Cheema,3a026eb4,TLW Cooper,2318ba22,0,0,0,0,0,,,,,,1,0,1
+546410,2011/12,Netherlands,8,TLW Cooper,2318ba22,Rizwan Cheema,3a026eb4,AN Kervezee,dc36a6a5,0,0,0,0,0,,,,,,1,0,1
+546410,2011/12,Netherlands,8,AN Kervezee,dc36a6a5,Rizwan Cheema,3a026eb4,TLW Cooper,2318ba22,0,0,0,0,0,,,,,,1,0,1
+546410,2011/12,Netherlands,9,AN Kervezee,dc36a6a5,Zahid Hussain,1e5708ac,TLW Cooper,2318ba22,0,0,0,0,0,,,,,,2,0,2
+546410,2011/12,Netherlands,9,AN Kervezee,dc36a6a5,Zahid Hussain,1e5708ac,TLW Cooper,2318ba22,0,0,0,0,0,,,,,,1,0,1
+546410,2011/12,Netherlands,9,TLW Cooper,2318ba22,Zahid Hussain,1e5708ac,AN Kervezee,dc36a6a5,0,0,0,0,0,,,,,,2,0,2
+546410,2011/12,Netherlands,9,TLW Cooper,2318ba22,Zahid Hussain,1e5708ac,AN Kervezee,dc36a6a5,0,0,0,0,0,,,,,,1,0,1
+546410,2011/12,Netherlands,9,AN Kervezee,dc36a6a5,Zahid Hussain,1e5708ac,TLW Cooper,2318ba22,0,0,0,0,0,,,,,,0,0,0
+546410,2011/12,Netherlands,9,AN Kervezee,dc36a6a5,Zahid Hussain,1e5708ac,TLW Cooper,2318ba22,0,0,0,0,0,,,,,,0,0,0
+546410,2011/12,Netherlands,10,TLW Cooper,2318ba22,HS Baidwan,7839bf3a,AN Kervezee,dc36a6a5,0,0,0,0,0,,,,,,4,0,4
+546410,2011/12,Netherlands,10,TLW Cooper,2318ba22,HS Baidwan,7839bf3a,AN Kervezee,dc36a6a5,0,0,0,0,0,,,,,,0,0,0
+546410,2011/12,Netherlands,10,TLW Cooper,2318ba22,HS Baidwan,7839bf3a,AN Kervezee,dc36a6a5,0,0,0,0,0,,,,,,1,0,1
+546410,2011/12,Netherlands,10,AN Kervezee,dc36a6a5,HS Baidwan,7839bf3a,TLW Cooper,2318ba22,0,0,0,0,0,,,,,,1,0,1
+546410,2011/12,Netherlands,10,TLW Cooper,2318ba22,HS Baidwan,7839bf3a,AN Kervezee,dc36a6a5,0,0,0,0,1,TLW Cooper,2318ba22,,,bowled,0,0,0
+546410,2011/12,Netherlands,10,W Barresi,0d677597,HS Baidwan,7839bf3a,AN Kervezee,dc36a6a5,0,0,0,0,0,,,,,,0,0,0
+546410,2011/12,Netherlands,11,AN Kervezee,dc36a6a5,Zahid Hussain,1e5708ac,W Barresi,0d677597,0,0,0,0,0,,,,,,1,0,1
+546410,2011/12,Netherlands,11,W Barresi,0d677597,Zahid Hussain,1e5708ac,AN Kervezee,dc36a6a5,0,0,0,0,0,,,,,,1,0,1
+546410,2011/12,Netherlands,11,AN Kervezee,dc36a6a5,Zahid Hussain,1e5708ac,W Barresi,0d677597,1,0,0,0,0,,,,,,0,1,1
+546410,2011/12,Netherlands,11,AN Kervezee,dc36a6a5,Zahid Hussain,1e5708ac,W Barresi,0d677597,0,0,0,0,0,,,,,,1,0,1
+546410,2011/12,Netherlands,11,W Barresi,0d677597,Zahid Hussain,1e5708ac,AN Kervezee,dc36a6a5,0,0,0,0,0,,,,,,0,0,0
+546410,2011/12,Netherlands,11,W Barresi,0d677597,Zahid Hussain,1e5708ac,AN Kervezee,dc36a6a5,0,0,0,0,0,,,,,,1,0,1
+546410,2011/12,Netherlands,11,AN Kervezee,dc36a6a5,Zahid Hussain,1e5708ac,W Barresi,0d677597,0,0,0,0,0,,,,,,1,0,1
+546410,2011/12,Netherlands,12,AN Kervezee,dc36a6a5,HS Baidwan,7839bf3a,W Barresi,0d677597,0,0,0,0,0,,,,,,2,0,2
+546410,2011/12,Netherlands,12,AN Kervezee,dc36a6a5,HS Baidwan,7839bf3a,W Barresi,0d677597,0,0,0,0,0,,,,,,1,0,1
+546410,2011/12,Netherlands,12,W Barresi,0d677597,HS Baidwan,7839bf3a,AN Kervezee,dc36a6a5,0,0,0,0,0,,,,,,1,0,1
+546410,2011/12,Netherlands,12,AN Kervezee,dc36a6a5,HS Baidwan,7839bf3a,W Barresi,0d677597,0,0,0,0,0,,,,,,1,0,1
+546410,2011/12,Netherlands,12,W Barresi,0d677597,HS Baidwan,7839bf3a,AN Kervezee,dc36a6a5,0,0,0,0,0,,,,,,0,0,0
+546410,2011/12,Netherlands,12,W Barresi,0d677597,HS Baidwan,7839bf3a,AN Kervezee,dc36a6a5,0,0,0,0,1,W Barresi,0d677597,Zahid Hussain,1e5708ac,caught,0,0,0
+546410,2011/12,Netherlands,13,AN Kervezee,dc36a6a5,Zahid Hussain,1e5708ac,PW Borren,91052c96,0,0,0,0,0,,,,,,1,0,1
+546410,2011/12,Netherlands,13,PW Borren,91052c96,Zahid Hussain,1e5708ac,AN Kervezee,dc36a6a5,0,0,0,0,0,,,,,,0,0,0
+546410,2011/12,Netherlands,13,PW Borren,91052c96,Zahid Hussain,1e5708ac,AN Kervezee,dc36a6a5,0,0,0,0,0,,,,,,0,0,0
+546410,2011/12,Netherlands,13,PW Borren,91052c96,Zahid Hussain,1e5708ac,AN Kervezee,dc36a6a5,0,0,0,0,0,,,,,,1,0,1
+546410,2011/12,Netherlands,13,AN Kervezee,dc36a6a5,Zahid Hussain,1e5708ac,PW Borren,91052c96,0,0,0,0,0,,,,,,1,0,1
+546410,2011/12,Netherlands,13,PW Borren,91052c96,Zahid Hussain,1e5708ac,AN Kervezee,dc36a6a5,0,0,0,0,0,,,,,,2,0,2
+546410,2011/12,Netherlands,14,AN Kervezee,dc36a6a5,Rizwan Cheema,3a026eb4,PW Borren,91052c96,0,0,0,0,0,,,,,,1,0,1
+546410,2011/12,Netherlands,14,PW Borren,91052c96,Rizwan Cheema,3a026eb4,AN Kervezee,dc36a6a5,0,0,0,0,0,,,,,,0,0,0
+546410,2011/12,Netherlands,14,PW Borren,91052c96,Rizwan Cheema,3a026eb4,AN Kervezee,dc36a6a5,0,0,0,0,0,,,,,,1,0,1
+546410,2011/12,Netherlands,14,AN Kervezee,dc36a6a5,Rizwan Cheema,3a026eb4,PW Borren,91052c96,0,0,0,0,0,,,,,,1,0,1
+546410,2011/12,Netherlands,14,PW Borren,91052c96,Rizwan Cheema,3a026eb4,AN Kervezee,dc36a6a5,0,0,0,0,0,,,,,,4,0,4
+546410,2011/12,Netherlands,14,PW Borren,91052c96,Rizwan Cheema,3a026eb4,AN Kervezee,dc36a6a5,0,0,0,0,0,,,,,,2,0,2
+546410,2011/12,Netherlands,15,AN Kervezee,dc36a6a5,Junaid Siddiqui,9025e58f,PW Borren,91052c96,0,0,0,0,0,,,,,,1,0,1
+546410,2011/12,Netherlands,15,PW Borren,91052c96,Junaid Siddiqui,9025e58f,AN Kervezee,dc36a6a5,0,0,0,0,0,,,,,,1,0,1
+546410,2011/12,Netherlands,15,AN Kervezee,dc36a6a5,Junaid Siddiqui,9025e58f,PW Borren,91052c96,0,0,0,0,1,PW Borren,91052c96,NR Kumar,b3bad3f2,run out,1,0,1
+546410,2011/12,Netherlands,15,AN Kervezee,dc36a6a5,Junaid Siddiqui,9025e58f,Mudassar Bukhari,37312a74,0,0,0,0,0,,,,,,0,0,0
+546410,2011/12,Netherlands,15,AN Kervezee,dc36a6a5,Junaid Siddiqui,9025e58f,Mudassar Bukhari,37312a74,0,0,0,0,0,,,,,,2,0,2
+546410,2011/12,Netherlands,15,AN Kervezee,dc36a6a5,Junaid Siddiqui,9025e58f,Mudassar Bukhari,37312a74,0,0,0,0,0,,,,,,2,0,2
+546410,2011/12,Netherlands,16,Mudassar Bukhari,37312a74,HS Baidwan,7839bf3a,AN Kervezee,dc36a6a5,0,0,0,0,0,,,,,,2,0,2
+546410,2011/12,Netherlands,16,Mudassar Bukhari,37312a74,HS Baidwan,7839bf3a,AN Kervezee,dc36a6a5,0,0,0,0,0,,,,,,2,0,2
+546410,2011/12,Netherlands,16,Mudassar Bukhari,37312a74,HS Baidwan,7839bf3a,AN Kervezee,dc36a6a5,0,0,0,0,0,,,,,,1,0,1
+546410,2011/12,Netherlands,16,AN Kervezee,dc36a6a5,HS Baidwan,7839bf3a,Mudassar Bukhari,37312a74,0,0,0,0,1,AN Kervezee,dc36a6a5,,,bowled,0,0,0
+546410,2011/12,Netherlands,16,TN de Grooth,52980a48,HS Baidwan,7839bf3a,Mudassar Bukhari,37312a74,0,0,0,0,0,,,,,,0,0,0
+546410,2011/12,Netherlands,16,TN de Grooth,52980a48,HS Baidwan,7839bf3a,Mudassar Bukhari,37312a74,0,0,0,0,0,,,,,,1,0,1
+546410,2011/12,Netherlands,17,TN de Grooth,52980a48,Junaid Siddiqui,9025e58f,Mudassar Bukhari,37312a74,0,0,0,0,0,,,,,,0,0,0
+546410,2011/12,Netherlands,17,TN de Grooth,52980a48,Junaid Siddiqui,9025e58f,Mudassar Bukhari,37312a74,0,0,0,0,0,,,,,,1,0,1
+546410,2011/12,Netherlands,17,Mudassar Bukhari,37312a74,Junaid Siddiqui,9025e58f,TN de Grooth,52980a48,0,0,0,0,0,,,,,,2,0,2
+546410,2011/12,Netherlands,17,Mudassar Bukhari,37312a74,Junaid Siddiqui,9025e58f,TN de Grooth,52980a48,0,0,0,0,0,,,,,,0,0,0
+546410,2011/12,Netherlands,17,Mudassar Bukhari,37312a74,Junaid Siddiqui,9025e58f,TN de Grooth,52980a48,0,0,0,0,0,,,,,,1,0,1
+546410,2011/12,Netherlands,17,TN de Grooth,52980a48,Junaid Siddiqui,9025e58f,Mudassar Bukhari,37312a74,1,0,0,0,0,,,,,,0,1,1
+546410,2011/12,Netherlands,17,TN de Grooth,52980a48,Junaid Siddiqui,9025e58f,Mudassar Bukhari,37312a74,0,0,0,0,0,,,,,,2,0,2
+546410,2011/12,Netherlands,18,Mudassar Bukhari,37312a74,HS Baidwan,7839bf3a,TN de Grooth,52980a48,0,0,0,0,0,,,,,,4,0,4
+546410,2011/12,Netherlands,18,Mudassar Bukhari,37312a74,HS Baidwan,7839bf3a,TN de Grooth,52980a48,0,0,0,0,0,,,,,,2,0,2
+546410,2011/12,Netherlands,18,Mudassar Bukhari,37312a74,HS Baidwan,7839bf3a,TN de Grooth,52980a48,0,0,0,0,0,,,,,,1,0,1
+546410,2011/12,Netherlands,18,TN de Grooth,52980a48,HS Baidwan,7839bf3a,Mudassar Bukhari,37312a74,0,0,0,0,0,,,,,,2,0,2
+546410,2011/12,Netherlands,18,Mudassar Bukhari,37312a74,HS Baidwan,7839bf3a,TN de Grooth,52980a48,0,0,0,0,0,,,,,,2,0,2
+546410,2011/12,Netherlands,18,Mudassar Bukhari,37312a74,HS Baidwan,7839bf3a,TN de Grooth,52980a48,0,0,0,0,0,,,,,,1,0,1
+546410,2011/12,Netherlands,19,Mudassar Bukhari,37312a74,Rizwan Cheema,3a026eb4,TN de Grooth,52980a48,0,0,0,0,0,,,,,,1,0,1
+546410,2011/12,Netherlands,19,TN de Grooth,52980a48,Rizwan Cheema,3a026eb4,Mudassar Bukhari,37312a74,0,0,0,0,0,,,,,,1,0,1
+546410,2011/12,Netherlands,19,Mudassar Bukhari,37312a74,Rizwan Cheema,3a026eb4,TN de Grooth,52980a48,0,0,0,0,0,,,,,,6,0,6
+546410,2011/12,Netherlands,19,Mudassar Bukhari,37312a74,Rizwan Cheema,3a026eb4,TN de Grooth,52980a48,0,0,0,0,0,,,,,,2,0,2
+546410,2011/12,Netherlands,19,Mudassar Bukhari,37312a74,Rizwan Cheema,3a026eb4,TN de Grooth,52980a48,0,0,0,0,0,,,,,,1,0,1
+546410,2011/12,Netherlands,19,TN de Grooth,52980a48,Rizwan Cheema,3a026eb4,Mudassar Bukhari,37312a74,0,0,0,0,0,,,,,,1,0,1
+546410,2011/12,Canada,0,H Patel,c4ff0618,MR Swart,a75a78eb,R Gunasekera,9b6ad88a,0,0,0,0,0,,,,,,1,0,1
+546410,2011/12,Canada,0,R Gunasekera,9b6ad88a,MR Swart,a75a78eb,H Patel,c4ff0618,0,0,0,0,0,,,,,,0,0,0
+546410,2011/12,Canada,0,R Gunasekera,9b6ad88a,MR Swart,a75a78eb,H Patel,c4ff0618,0,0,0,0,0,,,,,,0,0,0
+546410,2011/12,Canada,0,R Gunasekera,9b6ad88a,MR Swart,a75a78eb,H Patel,c4ff0618,0,0,0,0,0,,,,,,1,0,1
+546410,2011/12,Canada,0,H Patel,c4ff0618,MR Swart,a75a78eb,R Gunasekera,9b6ad88a,0,0,0,0,0,,,,,,1,0,1
+546410,2011/12,Canada,0,R Gunasekera,9b6ad88a,MR Swart,a75a78eb,H Patel,c4ff0618,0,0,0,0,0,,,,,,0,0,0
+546410,2011/12,Canada,1,H Patel,c4ff0618,T van der Gugten,d99cc23a,R Gunasekera,9b6ad88a,0,0,1,0,0,,,,,,0,1,1
+546410,2011/12,Canada,1,R Gunasekera,9b6ad88a,T van der Gugten,d99cc23a,H Patel,c4ff0618,0,0,0,0,0,,,,,,0,0,0
+546410,2011/12,Canada,1,R Gunasekera,9b6ad88a,T van der Gugten,d99cc23a,H Patel,c4ff0618,0,0,0,0,0,,,,,,0,0,0
+546410,2011/12,Canada,1,R Gunasekera,9b6ad88a,T van der Gugten,d99cc23a,H Patel,c4ff0618,0,0,1,0,0,,,,,,0,1,1
+546410,2011/12,Canada,1,H Patel,c4ff0618,T van der Gugten,d99cc23a,R Gunasekera,9b6ad88a,0,0,0,0,0,,,,,,1,0,1
+546410,2011/12,Canada,1,H Patel,c4ff0618,T van der Gugten,d99cc23a,R Gunasekera,9b6ad88a,0,0,0,0,0,,,,,,0,0,0
+546410,2011/12,Canada,2,R Gunasekera,9b6ad88a,MR Swart,a75a78eb,H Patel,c4ff0618,0,0,0,0,0,,,,,,2,0,2
+546410,2011/12,Canada,2,R Gunasekera,9b6ad88a,MR Swart,a75a78eb,H Patel,c4ff0618,0,0,0,0,0,,,,,,0,0,0
+546410,2011/12,Canada,2,R Gunasekera,9b6ad88a,MR Swart,a75a78eb,H Patel,c4ff0618,0,0,0,0,0,,,,,,1,0,1
+546410,2011/12,Canada,2,H Patel,c4ff0618,MR Swart,a75a78eb,R Gunasekera,9b6ad88a,0,0,0,0,0,,,,,,0,0,0
+546410,2011/12,Canada,2,H Patel,c4ff0618,MR Swart,a75a78eb,R Gunasekera,9b6ad88a,0,0,0,0,0,,,,,,0,0,0
+546410,2011/12,Canada,2,H Patel,c4ff0618,MR Swart,a75a78eb,R Gunasekera,9b6ad88a,0,0,0,0,0,,,,,,1,0,1
+546410,2011/12,Canada,3,H Patel,c4ff0618,T van der Gugten,d99cc23a,R Gunasekera,9b6ad88a,0,0,0,0,0,,,,,,0,0,0
+546410,2011/12,Canada,3,H Patel,c4ff0618,T van der Gugten,d99cc23a,R Gunasekera,9b6ad88a,0,0,0,0,0,,,,,,2,0,2
+546410,2011/12,Canada,3,R Gunasekera,9b6ad88a,T van der Gugten,d99cc23a,H Patel,c4ff0618,0,0,0,0,0,,,,,,4,0,4
+546410,2011/12,Canada,3,R Gunasekera,9b6ad88a,T van der Gugten,d99cc23a,H Patel,c4ff0618,0,0,0,0,0,,,,,,1,0,1
+546410,2011/12,Canada,3,H Patel,c4ff0618,T van der Gugten,d99cc23a,R Gunasekera,9b6ad88a,0,0,0,1,0,,,,,,0,1,1
+546410,2011/12,Canada,3,R Gunasekera,9b6ad88a,T van der Gugten,d99cc23a,H Patel,c4ff0618,0,0,0,0,1,R Gunasekera,9b6ad88a,,,bowled,0,0,0
+546410,2011/12,Canada,4,H Patel,c4ff0618,MR Swart,a75a78eb,Raza-ur-Rehman,d146924b,0,0,0,0,0,,,,,,2,0,2
+546410,2011/12,Canada,4,H Patel,c4ff0618,MR Swart,a75a78eb,Raza-ur-Rehman,d146924b,0,0,0,0,0,,,,,,1,0,1
+546410,2011/12,Canada,4,Raza-ur-Rehman,d146924b,MR Swart,a75a78eb,H Patel,c4ff0618,0,0,0,0,0,,,,,,0,0,0
+546410,2011/12,Canada,4,Raza-ur-Rehman,d146924b,MR Swart,a75a78eb,H Patel,c4ff0618,0,0,0,0,0,,,,,,0,0,0
+546410,2011/12,Canada,4,Raza-ur-Rehman,d146924b,MR Swart,a75a78eb,H Patel,c4ff0618,0,0,0,0,0,,,,,,1,0,1
+546410,2011/12,Canada,4,H Patel,c4ff0618,MR Swart,a75a78eb,Raza-ur-Rehman,d146924b,0,0,0,0,0,,,,,,0,0,0
+546410,2011/12,Canada,5,Raza-ur-Rehman,d146924b,Mudassar Bukhari,37312a74,H Patel,c4ff0618,0,0,0,0,1,Raza-ur-Rehman,d146924b,,,bowled,0,0,0
+546410,2011/12,Canada,5,Rizwan Cheema,3a026eb4,Mudassar Bukhari,37312a74,H Patel,c4ff0618,0,0,0,0,0,,,,,,0,0,0
+546410,2011/12,Canada,5,Rizwan Cheema,3a026eb4,Mudassar Bukhari,37312a74,H Patel,c4ff0618,0,0,0,0,1,Rizwan Cheema,3a026eb4,,,lbw,0,0,0
+546410,2011/12,Canada,5,NR Kumar,b3bad3f2,Mudassar Bukhari,37312a74,H Patel,c4ff0618,0,0,0,0,0,,,,,,1,0,1
+546410,2011/12,Canada,5,H Patel,c4ff0618,Mudassar Bukhari,37312a74,NR Kumar,b3bad3f2,0,0,0,0,0,,,,,,1,0,1
+546410,2011/12,Canada,5,NR Kumar,b3bad3f2,Mudassar Bukhari,37312a74,H Patel,c4ff0618,0,0,0,0,0,,,,,,0,0,0
+546410,2011/12,Canada,6,H Patel,c4ff0618,PW Borren,91052c96,NR Kumar,b3bad3f2,0,0,0,0,0,,,,,,1,0,1
+546410,2011/12,Canada,6,NR Kumar,b3bad3f2,PW Borren,91052c96,H Patel,c4ff0618,0,0,0,0,0,,,,,,0,0,0
+546410,2011/12,Canada,6,NR Kumar,b3bad3f2,PW Borren,91052c96,H Patel,c4ff0618,0,0,0,0,1,NR Kumar,b3bad3f2,SJ Myburgh,18261c22,run out,0,0,0
+546410,2011/12,Canada,6,AS Hansra,795df06c,PW Borren,91052c96,H Patel,c4ff0618,0,0,0,0,0,,,,,,0,0,0
+546410,2011/12,Canada,6,AS Hansra,795df06c,PW Borren,91052c96,H Patel,c4ff0618,0,0,0,0,0,,,,,,1,0,1
+546410,2011/12,Canada,6,H Patel,c4ff0618,PW Borren,91052c96,AS Hansra,795df06c,0,0,0,0,1,H Patel,c4ff0618,,,bowled,0,0,0
+546410,2011/12,Canada,7,AS Hansra,795df06c,Mudassar Bukhari,37312a74,HS Baidwan,7839bf3a,0,0,0,0,0,,,,,,0,0,0
+546410,2011/12,Canada,7,AS Hansra,795df06c,Mudassar Bukhari,37312a74,HS Baidwan,7839bf3a,0,0,0,0,0,,,,,,0,0,0
+546410,2011/12,Canada,7,AS Hansra,795df06c,Mudassar Bukhari,37312a74,HS Baidwan,7839bf3a,1,0,0,0,0,,,,,,0,1,1
+546410,2011/12,Canada,7,AS Hansra,795df06c,Mudassar Bukhari,37312a74,HS Baidwan,7839bf3a,0,0,0,0,0,,,,,,0,0,0
+546410,2011/12,Canada,7,AS Hansra,795df06c,Mudassar Bukhari,37312a74,HS Baidwan,7839bf3a,0,0,0,0,0,,,,,,0,0,0
+546410,2011/12,Canada,7,AS Hansra,795df06c,Mudassar Bukhari,37312a74,HS Baidwan,7839bf3a,0,0,0,0,0,,,,,,0,0,0
+546410,2011/12,Canada,7,AS Hansra,795df06c,Mudassar Bukhari,37312a74,HS Baidwan,7839bf3a,0,0,0,0,0,,,,,,4,0,4
+546410,2011/12,Canada,8,HS Baidwan,7839bf3a,PW Borren,91052c96,AS Hansra,795df06c,0,0,0,0,0,,,,,,1,0,1
+546410,2011/12,Canada,8,AS Hansra,795df06c,PW Borren,91052c96,HS Baidwan,7839bf3a,0,0,0,0,0,,,,,,0,0,0
+546410,2011/12,Canada,8,AS Hansra,795df06c,PW Borren,91052c96,HS Baidwan,7839bf3a,0,0,0,0,0,,,,,,0,0,0
+546410,2011/12,Canada,8,AS Hansra,795df06c,PW Borren,91052c96,HS Baidwan,7839bf3a,0,0,0,0,0,,,,,,1,0,1
+546410,2011/12,Canada,8,HS Baidwan,7839bf3a,PW Borren,91052c96,AS Hansra,795df06c,0,0,0,0,0,,,,,,1,0,1
+546410,2011/12,Canada,8,AS Hansra,795df06c,PW Borren,91052c96,HS Baidwan,7839bf3a,0,0,0,0,0,,,,,,0,0,0
+546410,2011/12,Canada,9,HS Baidwan,7839bf3a,Mudassar Bukhari,37312a74,AS Hansra,795df06c,0,0,0,0,0,,,,,,1,0,1
+546410,2011/12,Canada,9,AS Hansra,795df06c,Mudassar Bukhari,37312a74,HS Baidwan,7839bf3a,0,0,0,0,0,,,,,,2,0,2
+546410,2011/12,Canada,9,AS Hansra,795df06c,Mudassar Bukhari,37312a74,HS Baidwan,7839bf3a,0,0,0,0,0,,,,,,6,0,6
+546410,2011/12,Canada,9,AS Hansra,795df06c,Mudassar Bukhari,37312a74,HS Baidwan,7839bf3a,0,0,0,0,0,,,,,,0,0,0
+546410,2011/12,Canada,9,AS Hansra,795df06c,Mudassar Bukhari,37312a74,HS Baidwan,7839bf3a,0,0,0,0,0,,,,,,0,0,0
+546410,2011/12,Canada,9,AS Hansra,795df06c,Mudassar Bukhari,37312a74,HS Baidwan,7839bf3a,0,0,0,0,0,,,,,,6,0,6
+546410,2011/12,Canada,10,HS Baidwan,7839bf3a,PW Borren,91052c96,AS Hansra,795df06c,0,0,0,0,0,,,,,,3,0,3
+546410,2011/12,Canada,10,AS Hansra,795df06c,PW Borren,91052c96,HS Baidwan,7839bf3a,0,0,0,0,0,,,,,,1,0,1
+546410,2011/12,Canada,10,HS Baidwan,7839bf3a,PW Borren,91052c96,AS Hansra,795df06c,0,0,0,0,0,,,,,,1,0,1
+546410,2011/12,Canada,10,AS Hansra,795df06c,PW Borren,91052c96,HS Baidwan,7839bf3a,0,0,0,0,0,,,,,,1,0,1
+546410,2011/12,Canada,10,HS Baidwan,7839bf3a,PW Borren,91052c96,AS Hansra,795df06c,0,0,0,0,0,,,,,,1,0,1
+546410,2011/12,Canada,10,AS Hansra,795df06c,PW Borren,91052c96,HS Baidwan,7839bf3a,0,0,0,0,0,,,,,,2,0,2
+546410,2011/12,Canada,11,HS Baidwan,7839bf3a,PM Seelaar,abbdca1a,AS Hansra,795df06c,0,0,0,0,0,,,,,,1,0,1
+546410,2011/12,Canada,11,AS Hansra,795df06c,PM Seelaar,abbdca1a,HS Baidwan,7839bf3a,0,0,0,0,0,,,,,,1,0,1
+546410,2011/12,Canada,11,HS Baidwan,7839bf3a,PM Seelaar,abbdca1a,AS Hansra,795df06c,0,0,0,0,0,,,,,,1,0,1
+546410,2011/12,Canada,11,AS Hansra,795df06c,PM Seelaar,abbdca1a,HS Baidwan,7839bf3a,0,0,0,0,0,,,,,,0,0,0
+546410,2011/12,Canada,11,AS Hansra,795df06c,PM Seelaar,abbdca1a,HS Baidwan,7839bf3a,0,0,0,0,0,,,,,,1,0,1
+546410,2011/12,Canada,11,HS Baidwan,7839bf3a,PM Seelaar,abbdca1a,AS Hansra,795df06c,0,0,0,0,0,,,,,,4,0,4
+546410,2011/12,Canada,12,AS Hansra,795df06c,Ahsan Malik,96503059,HS Baidwan,7839bf3a,0,0,0,0,0,,,,,,1,0,1
+546410,2011/12,Canada,12,HS Baidwan,7839bf3a,Ahsan Malik,96503059,AS Hansra,795df06c,0,0,0,0,0,,,,,,4,0,4
+546410,2011/12,Canada,12,HS Baidwan,7839bf3a,Ahsan Malik,96503059,AS Hansra,795df06c,0,0,0,0,0,,,,,,0,0,0
+546410,2011/12,Canada,12,HS Baidwan,7839bf3a,Ahsan Malik,96503059,AS Hansra,795df06c,0,0,0,0,0,,,,,,2,0,2
+546410,2011/12,Canada,12,HS Baidwan,7839bf3a,Ahsan Malik,96503059,AS Hansra,795df06c,0,0,0,0,0,,,,,,1,0,1
+546410,2011/12,Canada,12,AS Hansra,795df06c,Ahsan Malik,96503059,HS Baidwan,7839bf3a,0,0,0,0,0,,,,,,0,0,0
+546410,2011/12,Canada,13,HS Baidwan,7839bf3a,PM Seelaar,abbdca1a,AS Hansra,795df06c,0,0,0,0,1,HS Baidwan,7839bf3a,,,bowled,0,0,0
+546410,2011/12,Canada,13,RA Bhatti,113880da,PM Seelaar,abbdca1a,AS Hansra,795df06c,0,0,0,0,0,,,,,,1,0,1
+546410,2011/12,Canada,13,AS Hansra,795df06c,PM Seelaar,abbdca1a,RA Bhatti,113880da,0,0,0,0,0,,,,,,2,0,2
+546410,2011/12,Canada,13,AS Hansra,795df06c,PM Seelaar,abbdca1a,RA Bhatti,113880da,0,0,0,0,0,,,,,,0,0,0
+546410,2011/12,Canada,13,AS Hansra,795df06c,PM Seelaar,abbdca1a,RA Bhatti,113880da,0,0,0,0,0,,,,,,1,0,1
+546410,2011/12,Canada,13,RA Bhatti,113880da,PM Seelaar,abbdca1a,AS Hansra,795df06c,0,0,0,0,0,,,,,,1,0,1
+546410,2011/12,Canada,14,RA Bhatti,113880da,Ahsan Malik,96503059,AS Hansra,795df06c,0,0,0,0,0,,,,,,1,0,1
+546410,2011/12,Canada,14,AS Hansra,795df06c,Ahsan Malik,96503059,RA Bhatti,113880da,0,0,0,0,0,,,,,,0,0,0
+546410,2011/12,Canada,14,AS Hansra,795df06c,Ahsan Malik,96503059,RA Bhatti,113880da,0,0,1,0,0,,,,,,0,1,1
+546410,2011/12,Canada,14,RA Bhatti,113880da,Ahsan Malik,96503059,AS Hansra,795df06c,0,0,0,0,0,,,,,,1,0,1
+546410,2011/12,Canada,14,AS Hansra,795df06c,Ahsan Malik,96503059,RA Bhatti,113880da,0,0,0,0,1,AS Hansra,795df06c,PW Borren,91052c96,caught,0,0,0
+546410,2011/12,Canada,14,RA Bhatti,113880da,Ahsan Malik,96503059,Junaid Siddiqui,9025e58f,0,0,0,0,0,,,,,,1,0,1
+546410,2011/12,Canada,15,RA Bhatti,113880da,PM Seelaar,abbdca1a,Junaid Siddiqui,9025e58f,0,0,0,0,0,,,,,,1,0,1
+546410,2011/12,Canada,15,Junaid Siddiqui,9025e58f,PM Seelaar,abbdca1a,RA Bhatti,113880da,0,0,0,0,0,,,,,,0,0,0
+546410,2011/12,Canada,15,Junaid Siddiqui,9025e58f,PM Seelaar,abbdca1a,RA Bhatti,113880da,0,0,0,0,0,,,,,,1,0,1
+546410,2011/12,Canada,15,RA Bhatti,113880da,PM Seelaar,abbdca1a,Junaid Siddiqui,9025e58f,0,0,0,0,1,RA Bhatti,113880da,,,caught and bowled,0,0,0
+546410,2011/12,Canada,15,H Osinde,2b8b75a0,PM Seelaar,abbdca1a,Junaid Siddiqui,9025e58f,0,0,0,0,0,,,,,,1,0,1
+546410,2011/12,Canada,15,Junaid Siddiqui,9025e58f,PM Seelaar,abbdca1a,H Osinde,2b8b75a0,0,0,0,0,1,Junaid Siddiqui,9025e58f,,,lbw,0,0,0
+546410,2011/12,Canada,16,H Osinde,2b8b75a0,Ahsan Malik,96503059,Zahid Hussain,1e5708ac,5,0,0,0,0,,,,,,0,5,5
+546410,2011/12,Canada,16,H Osinde,2b8b75a0,Ahsan Malik,96503059,Zahid Hussain,1e5708ac,0,0,0,0,0,,,,,,1,0,1
+546410,2011/12,Canada,16,Zahid Hussain,1e5708ac,Ahsan Malik,96503059,H Osinde,2b8b75a0,0,0,0,0,0,,,,,,1,0,1
+546410,2011/12,Canada,16,H Osinde,2b8b75a0,Ahsan Malik,96503059,Zahid Hussain,1e5708ac,0,0,0,0,0,,,,,,0,0,0
+546410,2011/12,Canada,16,H Osinde,2b8b75a0,Ahsan Malik,96503059,Zahid Hussain,1e5708ac,0,0,0,0,1,H Osinde,2b8b75a0,TLW Cooper,2318ba22,caught,0,0,0

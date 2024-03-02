@@ -1,0 +1,245 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+518955,2011/12,Australia,0,DA Warner,dcce6f09,P Kumar,e938e1bc,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,0,0,0
+518955,2011/12,Australia,0,DA Warner,dcce6f09,P Kumar,e938e1bc,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,0,0,0
+518955,2011/12,Australia,0,DA Warner,dcce6f09,P Kumar,e938e1bc,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,2,0,2
+518955,2011/12,Australia,0,DA Warner,dcce6f09,P Kumar,e938e1bc,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,Australia,0,AJ Finch,b8d490fd,P Kumar,e938e1bc,DA Warner,dcce6f09,0,0,0,0,0,,,,,,0,0,0
+518955,2011/12,Australia,0,AJ Finch,b8d490fd,P Kumar,e938e1bc,DA Warner,dcce6f09,0,0,0,0,0,,,,,,4,0,4
+518955,2011/12,Australia,1,DA Warner,dcce6f09,R Vinay Kumar,41eb4a4f,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,Australia,1,AJ Finch,b8d490fd,R Vinay Kumar,41eb4a4f,DA Warner,dcce6f09,0,0,0,0,0,,,,,,4,0,4
+518955,2011/12,Australia,1,AJ Finch,b8d490fd,R Vinay Kumar,41eb4a4f,DA Warner,dcce6f09,0,0,0,0,0,,,,,,0,0,0
+518955,2011/12,Australia,1,AJ Finch,b8d490fd,R Vinay Kumar,41eb4a4f,DA Warner,dcce6f09,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,Australia,1,DA Warner,dcce6f09,R Vinay Kumar,41eb4a4f,AJ Finch,b8d490fd,1,0,0,0,0,,,,,,0,1,1
+518955,2011/12,Australia,1,DA Warner,dcce6f09,R Vinay Kumar,41eb4a4f,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,0,0,0
+518955,2011/12,Australia,1,DA Warner,dcce6f09,R Vinay Kumar,41eb4a4f,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,4,0,4
+518955,2011/12,Australia,2,AJ Finch,b8d490fd,P Kumar,e938e1bc,DA Warner,dcce6f09,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,Australia,2,DA Warner,dcce6f09,P Kumar,e938e1bc,AJ Finch,b8d490fd,0,0,0,0,1,DA Warner,dcce6f09,G Gambhir,bb345e0b,caught,0,0,0
+518955,2011/12,Australia,2,AJ Finch,b8d490fd,P Kumar,e938e1bc,SE Marsh,508a1ea7,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,Australia,2,SE Marsh,508a1ea7,P Kumar,e938e1bc,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,0,0,0
+518955,2011/12,Australia,2,SE Marsh,508a1ea7,P Kumar,e938e1bc,AJ Finch,b8d490fd,0,0,0,0,1,SE Marsh,508a1ea7,MS Dhoni,4a8a2e3b,caught,0,0,0
+518955,2011/12,Australia,2,DJ Hussey,fd835ab3,P Kumar,e938e1bc,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,0,0,0
+518955,2011/12,Australia,3,AJ Finch,b8d490fd,R Vinay Kumar,41eb4a4f,DJ Hussey,fd835ab3,0,0,0,0,0,,,,,,0,0,0
+518955,2011/12,Australia,3,AJ Finch,b8d490fd,R Vinay Kumar,41eb4a4f,DJ Hussey,fd835ab3,0,0,0,0,0,,,,,,0,0,0
+518955,2011/12,Australia,3,AJ Finch,b8d490fd,R Vinay Kumar,41eb4a4f,DJ Hussey,fd835ab3,0,0,0,0,0,,,,,,4,0,4
+518955,2011/12,Australia,3,AJ Finch,b8d490fd,R Vinay Kumar,41eb4a4f,DJ Hussey,fd835ab3,0,0,0,0,0,,,,,,2,0,2
+518955,2011/12,Australia,3,AJ Finch,b8d490fd,R Vinay Kumar,41eb4a4f,DJ Hussey,fd835ab3,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,Australia,3,DJ Hussey,fd835ab3,R Vinay Kumar,41eb4a4f,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,0,0,0
+518955,2011/12,Australia,4,AJ Finch,b8d490fd,P Kumar,e938e1bc,DJ Hussey,fd835ab3,1,0,0,0,0,,,,,,0,1,1
+518955,2011/12,Australia,4,AJ Finch,b8d490fd,P Kumar,e938e1bc,DJ Hussey,fd835ab3,0,0,0,0,0,,,,,,0,0,0
+518955,2011/12,Australia,4,AJ Finch,b8d490fd,P Kumar,e938e1bc,DJ Hussey,fd835ab3,0,0,0,0,0,,,,,,2,0,2
+518955,2011/12,Australia,4,AJ Finch,b8d490fd,P Kumar,e938e1bc,DJ Hussey,fd835ab3,0,0,0,0,0,,,,,,0,0,0
+518955,2011/12,Australia,4,AJ Finch,b8d490fd,P Kumar,e938e1bc,DJ Hussey,fd835ab3,0,0,0,0,0,,,,,,4,0,4
+518955,2011/12,Australia,4,AJ Finch,b8d490fd,P Kumar,e938e1bc,DJ Hussey,fd835ab3,0,0,0,0,0,,,,,,4,0,4
+518955,2011/12,Australia,4,AJ Finch,b8d490fd,P Kumar,e938e1bc,DJ Hussey,fd835ab3,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,Australia,5,AJ Finch,b8d490fd,R Vinay Kumar,41eb4a4f,DJ Hussey,fd835ab3,0,0,0,0,0,,,,,,0,0,0
+518955,2011/12,Australia,5,AJ Finch,b8d490fd,R Vinay Kumar,41eb4a4f,DJ Hussey,fd835ab3,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,Australia,5,DJ Hussey,fd835ab3,R Vinay Kumar,41eb4a4f,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,0,0,0
+518955,2011/12,Australia,5,DJ Hussey,fd835ab3,R Vinay Kumar,41eb4a4f,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,0,0,0
+518955,2011/12,Australia,5,DJ Hussey,fd835ab3,R Vinay Kumar,41eb4a4f,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,0,0,0
+518955,2011/12,Australia,5,DJ Hussey,fd835ab3,R Vinay Kumar,41eb4a4f,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,2,0,2
+518955,2011/12,Australia,6,AJ Finch,b8d490fd,V Kohli,ba607b88,DJ Hussey,fd835ab3,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,Australia,6,DJ Hussey,fd835ab3,V Kohli,ba607b88,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,0,0,0
+518955,2011/12,Australia,6,DJ Hussey,fd835ab3,V Kohli,ba607b88,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,Australia,6,AJ Finch,b8d490fd,V Kohli,ba607b88,DJ Hussey,fd835ab3,0,0,0,0,0,,,,,,4,0,4
+518955,2011/12,Australia,6,AJ Finch,b8d490fd,V Kohli,ba607b88,DJ Hussey,fd835ab3,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,Australia,6,DJ Hussey,fd835ab3,V Kohli,ba607b88,AJ Finch,b8d490fd,0,0,0,0,1,AJ Finch,b8d490fd,RA Jadeja,fe93fd9d,run out,0,0,0
+518955,2011/12,Australia,7,DJ Hussey,fd835ab3,RA Jadeja,fe93fd9d,GJ Bailey,5056011d,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,Australia,7,GJ Bailey,5056011d,RA Jadeja,fe93fd9d,DJ Hussey,fd835ab3,0,0,0,0,0,,,,,,2,0,2
+518955,2011/12,Australia,7,GJ Bailey,5056011d,RA Jadeja,fe93fd9d,DJ Hussey,fd835ab3,0,0,0,0,0,,,,,,0,0,0
+518955,2011/12,Australia,7,GJ Bailey,5056011d,RA Jadeja,fe93fd9d,DJ Hussey,fd835ab3,0,0,0,0,0,,,,,,0,0,0
+518955,2011/12,Australia,7,GJ Bailey,5056011d,RA Jadeja,fe93fd9d,DJ Hussey,fd835ab3,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,Australia,7,DJ Hussey,fd835ab3,RA Jadeja,fe93fd9d,GJ Bailey,5056011d,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,Australia,8,DJ Hussey,fd835ab3,R Sharma,5d9a1a73,GJ Bailey,5056011d,0,0,0,0,0,,,,,,0,0,0
+518955,2011/12,Australia,8,DJ Hussey,fd835ab3,R Sharma,5d9a1a73,GJ Bailey,5056011d,0,0,0,0,0,,,,,,0,0,0
+518955,2011/12,Australia,8,DJ Hussey,fd835ab3,R Sharma,5d9a1a73,GJ Bailey,5056011d,0,0,0,0,1,GJ Bailey,5056011d,R Sharma,5d9a1a73,run out,0,0,0
+518955,2011/12,Australia,8,DJ Hussey,fd835ab3,R Sharma,5d9a1a73,MS Wade,afa7e784,0,0,0,0,0,,,,,,4,0,4
+518955,2011/12,Australia,8,DJ Hussey,fd835ab3,R Sharma,5d9a1a73,MS Wade,afa7e784,0,0,0,0,0,,,,,,0,0,0
+518955,2011/12,Australia,8,DJ Hussey,fd835ab3,R Sharma,5d9a1a73,MS Wade,afa7e784,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,Australia,9,DJ Hussey,fd835ab3,SK Raina,1dc12ab9,MS Wade,afa7e784,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,Australia,9,MS Wade,afa7e784,SK Raina,1dc12ab9,DJ Hussey,fd835ab3,0,0,0,0,0,,,,,,0,0,0
+518955,2011/12,Australia,9,MS Wade,afa7e784,SK Raina,1dc12ab9,DJ Hussey,fd835ab3,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,Australia,9,DJ Hussey,fd835ab3,SK Raina,1dc12ab9,MS Wade,afa7e784,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,Australia,9,MS Wade,afa7e784,SK Raina,1dc12ab9,DJ Hussey,fd835ab3,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,Australia,9,DJ Hussey,fd835ab3,SK Raina,1dc12ab9,MS Wade,afa7e784,0,0,0,0,0,,,,,,6,0,6
+518955,2011/12,Australia,10,MS Wade,afa7e784,R Ashwin,495d42a5,DJ Hussey,fd835ab3,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,Australia,10,DJ Hussey,fd835ab3,R Ashwin,495d42a5,MS Wade,afa7e784,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,Australia,10,MS Wade,afa7e784,R Ashwin,495d42a5,DJ Hussey,fd835ab3,0,0,0,0,0,,,,,,0,0,0
+518955,2011/12,Australia,10,MS Wade,afa7e784,R Ashwin,495d42a5,DJ Hussey,fd835ab3,1,0,0,0,0,,,,,,0,1,1
+518955,2011/12,Australia,10,MS Wade,afa7e784,R Ashwin,495d42a5,DJ Hussey,fd835ab3,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,Australia,10,DJ Hussey,fd835ab3,R Ashwin,495d42a5,MS Wade,afa7e784,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,Australia,10,MS Wade,afa7e784,R Ashwin,495d42a5,DJ Hussey,fd835ab3,0,0,0,0,0,,,,,,2,0,2
+518955,2011/12,Australia,11,DJ Hussey,fd835ab3,R Sharma,5d9a1a73,MS Wade,afa7e784,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,Australia,11,MS Wade,afa7e784,R Sharma,5d9a1a73,DJ Hussey,fd835ab3,0,0,0,0,0,,,,,,0,0,0
+518955,2011/12,Australia,11,MS Wade,afa7e784,R Sharma,5d9a1a73,DJ Hussey,fd835ab3,0,0,0,0,0,,,,,,6,0,6
+518955,2011/12,Australia,11,MS Wade,afa7e784,R Sharma,5d9a1a73,DJ Hussey,fd835ab3,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,Australia,11,DJ Hussey,fd835ab3,R Sharma,5d9a1a73,MS Wade,afa7e784,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,Australia,11,MS Wade,afa7e784,R Sharma,5d9a1a73,DJ Hussey,fd835ab3,0,0,0,0,0,,,,,,2,0,2
+518955,2011/12,Australia,12,DJ Hussey,fd835ab3,R Ashwin,495d42a5,MS Wade,afa7e784,0,0,0,0,0,,,,,,0,0,0
+518955,2011/12,Australia,12,DJ Hussey,fd835ab3,R Ashwin,495d42a5,MS Wade,afa7e784,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,Australia,12,MS Wade,afa7e784,R Ashwin,495d42a5,DJ Hussey,fd835ab3,0,0,0,0,0,,,,,,0,0,0
+518955,2011/12,Australia,12,MS Wade,afa7e784,R Ashwin,495d42a5,DJ Hussey,fd835ab3,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,Australia,12,DJ Hussey,fd835ab3,R Ashwin,495d42a5,MS Wade,afa7e784,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,Australia,12,MS Wade,afa7e784,R Ashwin,495d42a5,DJ Hussey,fd835ab3,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,Australia,13,MS Wade,afa7e784,RA Jadeja,fe93fd9d,DJ Hussey,fd835ab3,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,Australia,13,DJ Hussey,fd835ab3,RA Jadeja,fe93fd9d,MS Wade,afa7e784,1,0,0,0,0,,,,,,0,1,1
+518955,2011/12,Australia,13,DJ Hussey,fd835ab3,RA Jadeja,fe93fd9d,MS Wade,afa7e784,0,0,0,0,0,,,,,,0,0,0
+518955,2011/12,Australia,13,DJ Hussey,fd835ab3,RA Jadeja,fe93fd9d,MS Wade,afa7e784,0,0,0,0,1,DJ Hussey,fd835ab3,,,caught and bowled,0,0,0
+518955,2011/12,Australia,13,MR Marsh,3d8feaf8,RA Jadeja,fe93fd9d,MS Wade,afa7e784,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,Australia,13,MS Wade,afa7e784,RA Jadeja,fe93fd9d,MR Marsh,3d8feaf8,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,Australia,13,MR Marsh,3d8feaf8,RA Jadeja,fe93fd9d,MS Wade,afa7e784,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,Australia,14,MR Marsh,3d8feaf8,R Ashwin,495d42a5,MS Wade,afa7e784,0,0,0,0,0,,,,,,0,0,0
+518955,2011/12,Australia,14,MR Marsh,3d8feaf8,R Ashwin,495d42a5,MS Wade,afa7e784,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,Australia,14,MS Wade,afa7e784,R Ashwin,495d42a5,MR Marsh,3d8feaf8,0,0,0,0,0,,,,,,2,0,2
+518955,2011/12,Australia,14,MS Wade,afa7e784,R Ashwin,495d42a5,MR Marsh,3d8feaf8,0,0,0,0,0,,,,,,0,0,0
+518955,2011/12,Australia,14,MS Wade,afa7e784,R Ashwin,495d42a5,MR Marsh,3d8feaf8,0,0,0,0,0,,,,,,0,0,0
+518955,2011/12,Australia,14,MS Wade,afa7e784,R Ashwin,495d42a5,MR Marsh,3d8feaf8,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,Australia,15,MS Wade,afa7e784,RA Jadeja,fe93fd9d,MR Marsh,3d8feaf8,0,0,0,0,0,,,,,,4,0,4
+518955,2011/12,Australia,15,MS Wade,afa7e784,RA Jadeja,fe93fd9d,MR Marsh,3d8feaf8,0,0,0,0,0,,,,,,0,0,0
+518955,2011/12,Australia,15,MS Wade,afa7e784,RA Jadeja,fe93fd9d,MR Marsh,3d8feaf8,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,Australia,15,MR Marsh,3d8feaf8,RA Jadeja,fe93fd9d,MS Wade,afa7e784,0,0,0,0,0,,,,,,0,0,0
+518955,2011/12,Australia,15,MR Marsh,3d8feaf8,RA Jadeja,fe93fd9d,MS Wade,afa7e784,0,0,0,0,0,,,,,,0,0,0
+518955,2011/12,Australia,15,MR Marsh,3d8feaf8,RA Jadeja,fe93fd9d,MS Wade,afa7e784,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,Australia,16,MR Marsh,3d8feaf8,R Ashwin,495d42a5,MS Wade,afa7e784,0,0,0,0,0,,,,,,4,0,4
+518955,2011/12,Australia,16,MR Marsh,3d8feaf8,R Ashwin,495d42a5,MS Wade,afa7e784,0,0,0,0,0,,,,,,0,0,0
+518955,2011/12,Australia,16,MR Marsh,3d8feaf8,R Ashwin,495d42a5,MS Wade,afa7e784,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,Australia,16,MS Wade,afa7e784,R Ashwin,495d42a5,MR Marsh,3d8feaf8,0,0,0,0,0,,,,,,2,0,2
+518955,2011/12,Australia,16,MS Wade,afa7e784,R Ashwin,495d42a5,MR Marsh,3d8feaf8,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,Australia,16,MR Marsh,3d8feaf8,R Ashwin,495d42a5,MS Wade,afa7e784,0,0,0,0,0,,,,,,0,0,0
+518955,2011/12,Australia,17,MS Wade,afa7e784,R Sharma,5d9a1a73,MR Marsh,3d8feaf8,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,Australia,17,MR Marsh,3d8feaf8,R Sharma,5d9a1a73,MS Wade,afa7e784,0,0,0,0,0,,,,,,4,0,4
+518955,2011/12,Australia,17,MR Marsh,3d8feaf8,R Sharma,5d9a1a73,MS Wade,afa7e784,0,0,0,0,1,MR Marsh,3d8feaf8,MS Dhoni,4a8a2e3b,stumped,0,0,0
+518955,2011/12,Australia,17,B Lee,dd09ff8e,R Sharma,5d9a1a73,MS Wade,afa7e784,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,Australia,17,MS Wade,afa7e784,R Sharma,5d9a1a73,B Lee,dd09ff8e,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,Australia,17,B Lee,dd09ff8e,R Sharma,5d9a1a73,MS Wade,afa7e784,0,0,0,0,0,,,,,,0,0,0
+518955,2011/12,Australia,18,MS Wade,afa7e784,R Vinay Kumar,41eb4a4f,B Lee,dd09ff8e,0,0,0,0,0,,,,,,0,0,0
+518955,2011/12,Australia,18,MS Wade,afa7e784,R Vinay Kumar,41eb4a4f,B Lee,dd09ff8e,0,0,0,0,1,MS Wade,afa7e784,RG Sharma,740742ef,run out,0,0,0
+518955,2011/12,Australia,18,CJ McKay,94eac556,R Vinay Kumar,41eb4a4f,B Lee,dd09ff8e,0,0,0,0,1,CJ McKay,94eac556,MS Dhoni,4a8a2e3b,caught,0,0,0
+518955,2011/12,Australia,18,GB Hogg,f708a0bc,R Vinay Kumar,41eb4a4f,B Lee,dd09ff8e,0,0,0,0,0,,,,,,0,0,0
+518955,2011/12,Australia,18,GB Hogg,f708a0bc,R Vinay Kumar,41eb4a4f,B Lee,dd09ff8e,0,0,0,0,0,,,,,,0,0,0
+518955,2011/12,Australia,18,GB Hogg,f708a0bc,R Vinay Kumar,41eb4a4f,B Lee,dd09ff8e,0,0,0,0,0,,,,,,4,0,4
+518955,2011/12,Australia,19,B Lee,dd09ff8e,R Sharma,5d9a1a73,GB Hogg,f708a0bc,0,0,0,0,0,,,,,,4,0,4
+518955,2011/12,Australia,19,B Lee,dd09ff8e,R Sharma,5d9a1a73,GB Hogg,f708a0bc,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,Australia,19,GB Hogg,f708a0bc,R Sharma,5d9a1a73,B Lee,dd09ff8e,0,0,0,0,1,GB Hogg,f708a0bc,,,lbw,0,0,0
+518955,2011/12,Australia,19,XJ Doherty,502b2c81,R Sharma,5d9a1a73,B Lee,dd09ff8e,0,0,0,0,1,XJ Doherty,502b2c81,SK Raina,1dc12ab9,run out,1,0,1
+518955,2011/12,India,0,G Gambhir,bb345e0b,B Lee,dd09ff8e,V Sehwag,8ba8195d,0,0,0,0,0,,,,,,0,0,0
+518955,2011/12,India,0,G Gambhir,bb345e0b,B Lee,dd09ff8e,V Sehwag,8ba8195d,0,0,0,0,0,,,,,,4,0,4
+518955,2011/12,India,0,G Gambhir,bb345e0b,B Lee,dd09ff8e,V Sehwag,8ba8195d,1,0,0,0,0,,,,,,0,1,1
+518955,2011/12,India,0,G Gambhir,bb345e0b,B Lee,dd09ff8e,V Sehwag,8ba8195d,0,0,0,0,0,,,,,,0,0,0
+518955,2011/12,India,0,G Gambhir,bb345e0b,B Lee,dd09ff8e,V Sehwag,8ba8195d,0,0,0,0,0,,,,,,0,0,0
+518955,2011/12,India,0,G Gambhir,bb345e0b,B Lee,dd09ff8e,V Sehwag,8ba8195d,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,India,0,V Sehwag,8ba8195d,B Lee,dd09ff8e,G Gambhir,bb345e0b,0,0,0,0,0,,,,,,0,0,0
+518955,2011/12,India,1,G Gambhir,bb345e0b,CJ McKay,94eac556,V Sehwag,8ba8195d,0,0,0,0,0,,,,,,0,0,0
+518955,2011/12,India,1,G Gambhir,bb345e0b,CJ McKay,94eac556,V Sehwag,8ba8195d,0,0,0,0,0,,,,,,0,0,0
+518955,2011/12,India,1,G Gambhir,bb345e0b,CJ McKay,94eac556,V Sehwag,8ba8195d,0,0,0,0,0,,,,,,0,0,0
+518955,2011/12,India,1,G Gambhir,bb345e0b,CJ McKay,94eac556,V Sehwag,8ba8195d,0,0,0,0,0,,,,,,0,0,0
+518955,2011/12,India,1,G Gambhir,bb345e0b,CJ McKay,94eac556,V Sehwag,8ba8195d,1,0,0,0,0,,,,,,0,1,1
+518955,2011/12,India,1,G Gambhir,bb345e0b,CJ McKay,94eac556,V Sehwag,8ba8195d,0,0,0,0,0,,,,,,4,0,4
+518955,2011/12,India,1,G Gambhir,bb345e0b,CJ McKay,94eac556,V Sehwag,8ba8195d,0,0,0,0,0,,,,,,0,0,0
+518955,2011/12,India,2,V Sehwag,8ba8195d,B Lee,dd09ff8e,G Gambhir,bb345e0b,0,0,0,0,0,,,,,,4,0,4
+518955,2011/12,India,2,V Sehwag,8ba8195d,B Lee,dd09ff8e,G Gambhir,bb345e0b,0,0,0,0,0,,,,,,0,0,0
+518955,2011/12,India,2,V Sehwag,8ba8195d,B Lee,dd09ff8e,G Gambhir,bb345e0b,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,India,2,G Gambhir,bb345e0b,B Lee,dd09ff8e,V Sehwag,8ba8195d,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,India,2,V Sehwag,8ba8195d,B Lee,dd09ff8e,G Gambhir,bb345e0b,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,India,2,G Gambhir,bb345e0b,B Lee,dd09ff8e,V Sehwag,8ba8195d,0,0,0,0,0,,,,,,0,0,0
+518955,2011/12,India,3,V Sehwag,8ba8195d,CJ McKay,94eac556,G Gambhir,bb345e0b,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,India,3,G Gambhir,bb345e0b,CJ McKay,94eac556,V Sehwag,8ba8195d,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,India,3,V Sehwag,8ba8195d,CJ McKay,94eac556,G Gambhir,bb345e0b,0,0,0,0,0,,,,,,4,0,4
+518955,2011/12,India,3,V Sehwag,8ba8195d,CJ McKay,94eac556,G Gambhir,bb345e0b,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,India,3,G Gambhir,bb345e0b,CJ McKay,94eac556,V Sehwag,8ba8195d,0,0,0,0,0,,,,,,0,0,0
+518955,2011/12,India,3,G Gambhir,bb345e0b,CJ McKay,94eac556,V Sehwag,8ba8195d,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,India,4,G Gambhir,bb345e0b,B Lee,dd09ff8e,V Sehwag,8ba8195d,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,India,4,V Sehwag,8ba8195d,B Lee,dd09ff8e,G Gambhir,bb345e0b,0,0,0,0,0,,,,,,0,0,0
+518955,2011/12,India,4,V Sehwag,8ba8195d,B Lee,dd09ff8e,G Gambhir,bb345e0b,0,0,0,0,0,,,,,,0,0,0
+518955,2011/12,India,4,V Sehwag,8ba8195d,B Lee,dd09ff8e,G Gambhir,bb345e0b,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,India,4,G Gambhir,bb345e0b,B Lee,dd09ff8e,V Sehwag,8ba8195d,0,0,0,0,0,,,,,,0,0,0
+518955,2011/12,India,4,G Gambhir,bb345e0b,B Lee,dd09ff8e,V Sehwag,8ba8195d,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,India,5,G Gambhir,bb345e0b,XJ Doherty,502b2c81,V Sehwag,8ba8195d,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,India,5,V Sehwag,8ba8195d,XJ Doherty,502b2c81,G Gambhir,bb345e0b,0,0,0,0,0,,,,,,6,0,6
+518955,2011/12,India,5,V Sehwag,8ba8195d,XJ Doherty,502b2c81,G Gambhir,bb345e0b,0,0,0,0,0,,,,,,3,0,3
+518955,2011/12,India,5,G Gambhir,bb345e0b,XJ Doherty,502b2c81,V Sehwag,8ba8195d,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,India,5,V Sehwag,8ba8195d,XJ Doherty,502b2c81,G Gambhir,bb345e0b,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,India,5,G Gambhir,bb345e0b,XJ Doherty,502b2c81,V Sehwag,8ba8195d,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,India,6,G Gambhir,bb345e0b,GB Hogg,f708a0bc,V Sehwag,8ba8195d,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,India,6,V Sehwag,8ba8195d,GB Hogg,f708a0bc,G Gambhir,bb345e0b,0,0,0,0,0,,,,,,0,0,0
+518955,2011/12,India,6,V Sehwag,8ba8195d,GB Hogg,f708a0bc,G Gambhir,bb345e0b,0,0,0,0,1,V Sehwag,8ba8195d,SE Marsh,508a1ea7,caught,0,0,0
+518955,2011/12,India,6,V Kohli,ba607b88,GB Hogg,f708a0bc,G Gambhir,bb345e0b,0,0,0,0,0,,,,,,0,0,0
+518955,2011/12,India,6,V Kohli,ba607b88,GB Hogg,f708a0bc,G Gambhir,bb345e0b,0,0,0,0,0,,,,,,2,0,2
+518955,2011/12,India,6,V Kohli,ba607b88,GB Hogg,f708a0bc,G Gambhir,bb345e0b,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,India,7,V Kohli,ba607b88,XJ Doherty,502b2c81,G Gambhir,bb345e0b,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,India,7,G Gambhir,bb345e0b,XJ Doherty,502b2c81,V Kohli,ba607b88,0,0,0,0,0,,,,,,0,0,0
+518955,2011/12,India,7,G Gambhir,bb345e0b,XJ Doherty,502b2c81,V Kohli,ba607b88,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,India,7,V Kohli,ba607b88,XJ Doherty,502b2c81,G Gambhir,bb345e0b,1,0,0,0,0,,,,,,0,1,1
+518955,2011/12,India,7,V Kohli,ba607b88,XJ Doherty,502b2c81,G Gambhir,bb345e0b,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,India,7,G Gambhir,bb345e0b,XJ Doherty,502b2c81,V Kohli,ba607b88,0,0,0,0,0,,,,,,3,0,3
+518955,2011/12,India,7,V Kohli,ba607b88,XJ Doherty,502b2c81,G Gambhir,bb345e0b,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,India,8,V Kohli,ba607b88,GB Hogg,f708a0bc,G Gambhir,bb345e0b,0,0,0,0,0,,,,,,4,0,4
+518955,2011/12,India,8,V Kohli,ba607b88,GB Hogg,f708a0bc,G Gambhir,bb345e0b,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,India,8,G Gambhir,bb345e0b,GB Hogg,f708a0bc,V Kohli,ba607b88,0,0,0,0,0,,,,,,4,0,4
+518955,2011/12,India,8,G Gambhir,bb345e0b,GB Hogg,f708a0bc,V Kohli,ba607b88,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,India,8,V Kohli,ba607b88,GB Hogg,f708a0bc,G Gambhir,bb345e0b,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,India,8,G Gambhir,bb345e0b,GB Hogg,f708a0bc,V Kohli,ba607b88,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,India,9,G Gambhir,bb345e0b,MR Marsh,3d8feaf8,V Kohli,ba607b88,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,India,9,V Kohli,ba607b88,MR Marsh,3d8feaf8,G Gambhir,bb345e0b,0,0,0,0,0,,,,,,0,0,0
+518955,2011/12,India,9,V Kohli,ba607b88,MR Marsh,3d8feaf8,G Gambhir,bb345e0b,0,0,0,0,0,,,,,,2,0,2
+518955,2011/12,India,9,V Kohli,ba607b88,MR Marsh,3d8feaf8,G Gambhir,bb345e0b,0,0,0,0,0,,,,,,0,0,0
+518955,2011/12,India,9,V Kohli,ba607b88,MR Marsh,3d8feaf8,G Gambhir,bb345e0b,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,India,9,G Gambhir,bb345e0b,MR Marsh,3d8feaf8,V Kohli,ba607b88,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,India,10,G Gambhir,bb345e0b,DJ Hussey,fd835ab3,V Kohli,ba607b88,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,India,10,V Kohli,ba607b88,DJ Hussey,fd835ab3,G Gambhir,bb345e0b,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,India,10,G Gambhir,bb345e0b,DJ Hussey,fd835ab3,V Kohli,ba607b88,0,0,0,0,0,,,,,,0,0,0
+518955,2011/12,India,10,G Gambhir,bb345e0b,DJ Hussey,fd835ab3,V Kohli,ba607b88,0,0,0,0,0,,,,,,2,0,2
+518955,2011/12,India,10,G Gambhir,bb345e0b,DJ Hussey,fd835ab3,V Kohli,ba607b88,0,0,0,0,0,,,,,,0,0,0
+518955,2011/12,India,10,G Gambhir,bb345e0b,DJ Hussey,fd835ab3,V Kohli,ba607b88,0,0,0,0,0,,,,,,2,0,2
+518955,2011/12,India,11,V Kohli,ba607b88,XJ Doherty,502b2c81,G Gambhir,bb345e0b,0,0,0,0,0,,,,,,0,0,0
+518955,2011/12,India,11,V Kohli,ba607b88,XJ Doherty,502b2c81,G Gambhir,bb345e0b,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,India,11,G Gambhir,bb345e0b,XJ Doherty,502b2c81,V Kohli,ba607b88,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,India,11,V Kohli,ba607b88,XJ Doherty,502b2c81,G Gambhir,bb345e0b,0,0,0,0,0,,,,,,4,0,4
+518955,2011/12,India,11,V Kohli,ba607b88,XJ Doherty,502b2c81,G Gambhir,bb345e0b,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,India,11,G Gambhir,bb345e0b,XJ Doherty,502b2c81,V Kohli,ba607b88,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,India,12,G Gambhir,bb345e0b,CJ McKay,94eac556,V Kohli,ba607b88,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,India,12,V Kohli,ba607b88,CJ McKay,94eac556,G Gambhir,bb345e0b,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,India,12,G Gambhir,bb345e0b,CJ McKay,94eac556,V Kohli,ba607b88,0,0,0,0,0,,,,,,0,0,0
+518955,2011/12,India,12,G Gambhir,bb345e0b,CJ McKay,94eac556,V Kohli,ba607b88,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,India,12,V Kohli,ba607b88,CJ McKay,94eac556,G Gambhir,bb345e0b,0,0,0,0,0,,,,,,4,0,4
+518955,2011/12,India,12,V Kohli,ba607b88,CJ McKay,94eac556,G Gambhir,bb345e0b,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,India,13,V Kohli,ba607b88,MR Marsh,3d8feaf8,G Gambhir,bb345e0b,0,0,0,0,0,,,,,,2,0,2
+518955,2011/12,India,13,V Kohli,ba607b88,MR Marsh,3d8feaf8,G Gambhir,bb345e0b,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,India,13,G Gambhir,bb345e0b,MR Marsh,3d8feaf8,V Kohli,ba607b88,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,India,13,V Kohli,ba607b88,MR Marsh,3d8feaf8,G Gambhir,bb345e0b,0,0,0,0,1,V Kohli,ba607b88,MS Wade,afa7e784,caught,0,0,0
+518955,2011/12,India,13,MS Dhoni,4a8a2e3b,MR Marsh,3d8feaf8,G Gambhir,bb345e0b,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,India,13,G Gambhir,bb345e0b,MR Marsh,3d8feaf8,MS Dhoni,4a8a2e3b,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,India,14,G Gambhir,bb345e0b,GB Hogg,f708a0bc,MS Dhoni,4a8a2e3b,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,India,14,MS Dhoni,4a8a2e3b,GB Hogg,f708a0bc,G Gambhir,bb345e0b,0,0,0,0,0,,,,,,0,0,0
+518955,2011/12,India,14,MS Dhoni,4a8a2e3b,GB Hogg,f708a0bc,G Gambhir,bb345e0b,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,India,14,G Gambhir,bb345e0b,GB Hogg,f708a0bc,MS Dhoni,4a8a2e3b,0,0,0,0,0,,,,,,0,0,0
+518955,2011/12,India,14,G Gambhir,bb345e0b,GB Hogg,f708a0bc,MS Dhoni,4a8a2e3b,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,India,14,MS Dhoni,4a8a2e3b,GB Hogg,f708a0bc,G Gambhir,bb345e0b,0,0,0,0,0,,,,,,0,0,0
+518955,2011/12,India,15,G Gambhir,bb345e0b,MR Marsh,3d8feaf8,MS Dhoni,4a8a2e3b,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,India,15,MS Dhoni,4a8a2e3b,MR Marsh,3d8feaf8,G Gambhir,bb345e0b,1,0,0,0,0,,,,,,0,1,1
+518955,2011/12,India,15,MS Dhoni,4a8a2e3b,MR Marsh,3d8feaf8,G Gambhir,bb345e0b,0,0,0,0,0,,,,,,2,0,2
+518955,2011/12,India,15,MS Dhoni,4a8a2e3b,MR Marsh,3d8feaf8,G Gambhir,bb345e0b,0,0,0,0,0,,,,,,4,0,4
+518955,2011/12,India,15,MS Dhoni,4a8a2e3b,MR Marsh,3d8feaf8,G Gambhir,bb345e0b,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,India,15,G Gambhir,bb345e0b,MR Marsh,3d8feaf8,MS Dhoni,4a8a2e3b,0,0,0,0,0,,,,,,0,0,0
+518955,2011/12,India,15,G Gambhir,bb345e0b,MR Marsh,3d8feaf8,MS Dhoni,4a8a2e3b,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,India,16,G Gambhir,bb345e0b,B Lee,dd09ff8e,MS Dhoni,4a8a2e3b,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,India,16,MS Dhoni,4a8a2e3b,B Lee,dd09ff8e,G Gambhir,bb345e0b,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,India,16,G Gambhir,bb345e0b,B Lee,dd09ff8e,MS Dhoni,4a8a2e3b,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,India,16,MS Dhoni,4a8a2e3b,B Lee,dd09ff8e,G Gambhir,bb345e0b,0,0,0,0,0,,,,,,4,0,4
+518955,2011/12,India,16,MS Dhoni,4a8a2e3b,B Lee,dd09ff8e,G Gambhir,bb345e0b,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,India,16,G Gambhir,bb345e0b,B Lee,dd09ff8e,MS Dhoni,4a8a2e3b,0,0,0,0,0,,,,,,0,0,0
+518955,2011/12,India,17,MS Dhoni,4a8a2e3b,MR Marsh,3d8feaf8,G Gambhir,bb345e0b,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,India,17,G Gambhir,bb345e0b,MR Marsh,3d8feaf8,MS Dhoni,4a8a2e3b,0,0,0,0,0,,,,,,0,0,0
+518955,2011/12,India,17,G Gambhir,bb345e0b,MR Marsh,3d8feaf8,MS Dhoni,4a8a2e3b,0,0,0,0,0,,,,,,3,0,3
+518955,2011/12,India,17,MS Dhoni,4a8a2e3b,MR Marsh,3d8feaf8,G Gambhir,bb345e0b,0,0,0,0,0,,,,,,3,0,3
+518955,2011/12,India,17,G Gambhir,bb345e0b,MR Marsh,3d8feaf8,MS Dhoni,4a8a2e3b,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,India,17,MS Dhoni,4a8a2e3b,MR Marsh,3d8feaf8,G Gambhir,bb345e0b,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,India,18,MS Dhoni,4a8a2e3b,DJ Hussey,fd835ab3,G Gambhir,bb345e0b,0,0,0,0,0,,,,,,0,0,0
+518955,2011/12,India,18,MS Dhoni,4a8a2e3b,DJ Hussey,fd835ab3,G Gambhir,bb345e0b,0,0,0,0,0,,,,,,0,0,0
+518955,2011/12,India,18,MS Dhoni,4a8a2e3b,DJ Hussey,fd835ab3,G Gambhir,bb345e0b,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,India,18,G Gambhir,bb345e0b,DJ Hussey,fd835ab3,MS Dhoni,4a8a2e3b,0,0,0,0,0,,,,,,1,0,1
+518955,2011/12,India,18,MS Dhoni,4a8a2e3b,DJ Hussey,fd835ab3,G Gambhir,bb345e0b,0,0,0,0,0,,,,,,0,0,0
+518955,2011/12,India,18,MS Dhoni,4a8a2e3b,DJ Hussey,fd835ab3,G Gambhir,bb345e0b,0,0,0,0,0,,,,,,0,0,0
+518955,2011/12,India,19,G Gambhir,bb345e0b,CJ McKay,94eac556,MS Dhoni,4a8a2e3b,0,0,0,0,0,,,,,,0,0,0
+518955,2011/12,India,19,G Gambhir,bb345e0b,CJ McKay,94eac556,MS Dhoni,4a8a2e3b,0,0,0,0,0,,,,,,0,0,0
+518955,2011/12,India,19,G Gambhir,bb345e0b,CJ McKay,94eac556,MS Dhoni,4a8a2e3b,0,0,0,0,0,,,,,,0,0,0
+518955,2011/12,India,19,G Gambhir,bb345e0b,CJ McKay,94eac556,MS Dhoni,4a8a2e3b,0,0,0,0,0,,,,,,4,0,4

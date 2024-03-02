@@ -1,0 +1,236 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+287864,2007/08,Bangladesh,0,Tamim Iqbal,3b041a12,SM Pollock,88fccd6c,Nazimuddin,4aef496b,0,0,0,0,0,,,,,,4,0,4
+287864,2007/08,Bangladesh,0,Tamim Iqbal,3b041a12,SM Pollock,88fccd6c,Nazimuddin,4aef496b,0,0,0,0,0,,,,,,0,0,0
+287864,2007/08,Bangladesh,0,Tamim Iqbal,3b041a12,SM Pollock,88fccd6c,Nazimuddin,4aef496b,0,0,0,0,0,,,,,,0,0,0
+287864,2007/08,Bangladesh,0,Tamim Iqbal,3b041a12,SM Pollock,88fccd6c,Nazimuddin,4aef496b,0,0,0,0,0,,,,,,4,0,4
+287864,2007/08,Bangladesh,0,Tamim Iqbal,3b041a12,SM Pollock,88fccd6c,Nazimuddin,4aef496b,0,0,0,0,0,,,,,,0,0,0
+287864,2007/08,Bangladesh,0,Tamim Iqbal,3b041a12,SM Pollock,88fccd6c,Nazimuddin,4aef496b,0,0,0,0,0,,,,,,0,0,0
+287864,2007/08,Bangladesh,1,Nazimuddin,4aef496b,M Ntini,20a941bb,Tamim Iqbal,3b041a12,0,0,0,0,1,Nazimuddin,4aef496b,,,lbw,0,0,0
+287864,2007/08,Bangladesh,1,Aftab Ahmed,53bc7b84,M Ntini,20a941bb,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,0,0,0
+287864,2007/08,Bangladesh,1,Aftab Ahmed,53bc7b84,M Ntini,20a941bb,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,0,0,0
+287864,2007/08,Bangladesh,1,Aftab Ahmed,53bc7b84,M Ntini,20a941bb,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,6,0,6
+287864,2007/08,Bangladesh,1,Aftab Ahmed,53bc7b84,M Ntini,20a941bb,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,6,0,6
+287864,2007/08,Bangladesh,1,Aftab Ahmed,53bc7b84,M Ntini,20a941bb,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,4,0,4
+287864,2007/08,Bangladesh,2,Tamim Iqbal,3b041a12,SM Pollock,88fccd6c,Aftab Ahmed,53bc7b84,0,0,0,0,1,Tamim Iqbal,3b041a12,GC Smith,72861603,caught,0,0,0
+287864,2007/08,Bangladesh,2,Mohammad Ashraful,2bb09eb2,SM Pollock,88fccd6c,Aftab Ahmed,53bc7b84,0,0,0,0,0,,,,,,6,0,6
+287864,2007/08,Bangladesh,2,Mohammad Ashraful,2bb09eb2,SM Pollock,88fccd6c,Aftab Ahmed,53bc7b84,0,0,0,0,0,,,,,,4,0,4
+287864,2007/08,Bangladesh,2,Mohammad Ashraful,2bb09eb2,SM Pollock,88fccd6c,Aftab Ahmed,53bc7b84,0,0,0,0,1,Mohammad Ashraful,2bb09eb2,GC Smith,72861603,caught,0,0,0
+287864,2007/08,Bangladesh,2,Aftab Ahmed,53bc7b84,SM Pollock,88fccd6c,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,4,0,4
+287864,2007/08,Bangladesh,2,Aftab Ahmed,53bc7b84,SM Pollock,88fccd6c,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+287864,2007/08,Bangladesh,3,Aftab Ahmed,53bc7b84,M Ntini,20a941bb,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,4,0,4
+287864,2007/08,Bangladesh,3,Aftab Ahmed,53bc7b84,M Ntini,20a941bb,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,2,0,2
+287864,2007/08,Bangladesh,3,Aftab Ahmed,53bc7b84,M Ntini,20a941bb,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+287864,2007/08,Bangladesh,3,Aftab Ahmed,53bc7b84,M Ntini,20a941bb,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,4,0,4
+287864,2007/08,Bangladesh,3,Aftab Ahmed,53bc7b84,M Ntini,20a941bb,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+287864,2007/08,Bangladesh,3,Shakib Al Hasan,7dc35884,M Ntini,20a941bb,Aftab Ahmed,53bc7b84,0,0,0,0,0,,,,,,4,0,4
+287864,2007/08,Bangladesh,4,Aftab Ahmed,53bc7b84,M Morkel,5bb5a915,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,4,0,4
+287864,2007/08,Bangladesh,4,Aftab Ahmed,53bc7b84,M Morkel,5bb5a915,Shakib Al Hasan,7dc35884,0,0,0,0,1,Aftab Ahmed,53bc7b84,,,bowled,0,0,0
+287864,2007/08,Bangladesh,4,Alok Kapali,54279e23,M Morkel,5bb5a915,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+287864,2007/08,Bangladesh,4,Shakib Al Hasan,7dc35884,M Morkel,5bb5a915,Alok Kapali,54279e23,0,0,0,0,0,,,,,,0,0,0
+287864,2007/08,Bangladesh,4,Shakib Al Hasan,7dc35884,M Morkel,5bb5a915,Alok Kapali,54279e23,0,0,0,0,0,,,,,,1,0,1
+287864,2007/08,Bangladesh,4,Alok Kapali,54279e23,M Morkel,5bb5a915,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+287864,2007/08,Bangladesh,5,Shakib Al Hasan,7dc35884,JJ van der Wath,6821ac10,Alok Kapali,54279e23,0,0,0,0,0,,,,,,2,0,2
+287864,2007/08,Bangladesh,5,Shakib Al Hasan,7dc35884,JJ van der Wath,6821ac10,Alok Kapali,54279e23,0,0,0,0,0,,,,,,0,0,0
+287864,2007/08,Bangladesh,5,Shakib Al Hasan,7dc35884,JJ van der Wath,6821ac10,Alok Kapali,54279e23,0,0,0,0,0,,,,,,1,0,1
+287864,2007/08,Bangladesh,5,Alok Kapali,54279e23,JJ van der Wath,6821ac10,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+287864,2007/08,Bangladesh,5,Alok Kapali,54279e23,JJ van der Wath,6821ac10,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+287864,2007/08,Bangladesh,5,Shakib Al Hasan,7dc35884,JJ van der Wath,6821ac10,Alok Kapali,54279e23,0,0,0,0,0,,,,,,1,0,1
+287864,2007/08,Bangladesh,6,Shakib Al Hasan,7dc35884,M Morkel,5bb5a915,Alok Kapali,54279e23,0,0,0,0,0,,,,,,0,0,0
+287864,2007/08,Bangladesh,6,Shakib Al Hasan,7dc35884,M Morkel,5bb5a915,Alok Kapali,54279e23,0,0,0,0,0,,,,,,4,0,4
+287864,2007/08,Bangladesh,6,Shakib Al Hasan,7dc35884,M Morkel,5bb5a915,Alok Kapali,54279e23,0,0,0,0,0,,,,,,4,0,4
+287864,2007/08,Bangladesh,6,Shakib Al Hasan,7dc35884,M Morkel,5bb5a915,Alok Kapali,54279e23,0,0,0,0,0,,,,,,1,0,1
+287864,2007/08,Bangladesh,6,Alok Kapali,54279e23,M Morkel,5bb5a915,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+287864,2007/08,Bangladesh,6,Shakib Al Hasan,7dc35884,M Morkel,5bb5a915,Alok Kapali,54279e23,0,0,0,0,0,,,,,,1,0,1
+287864,2007/08,Bangladesh,7,Shakib Al Hasan,7dc35884,JJ van der Wath,6821ac10,Alok Kapali,54279e23,1,0,0,0,0,,,,,,0,1,1
+287864,2007/08,Bangladesh,7,Shakib Al Hasan,7dc35884,JJ van der Wath,6821ac10,Alok Kapali,54279e23,0,0,0,0,0,,,,,,0,0,0
+287864,2007/08,Bangladesh,7,Shakib Al Hasan,7dc35884,JJ van der Wath,6821ac10,Alok Kapali,54279e23,0,0,0,0,1,Shakib Al Hasan,7dc35884,JP Duminy,2e8994e7,run out,0,0,0
+287864,2007/08,Bangladesh,7,Alok Kapali,54279e23,JJ van der Wath,6821ac10,Mashrafe Mortaza,e186f49c,0,0,0,0,0,,,,,,1,0,1
+287864,2007/08,Bangladesh,7,Mashrafe Mortaza,e186f49c,JJ van der Wath,6821ac10,Alok Kapali,54279e23,0,0,0,0,0,,,,,,0,0,0
+287864,2007/08,Bangladesh,7,Mashrafe Mortaza,e186f49c,JJ van der Wath,6821ac10,Alok Kapali,54279e23,0,0,0,0,0,,,,,,0,0,0
+287864,2007/08,Bangladesh,7,Mashrafe Mortaza,e186f49c,JJ van der Wath,6821ac10,Alok Kapali,54279e23,0,0,0,0,0,,,,,,0,0,0
+287864,2007/08,Bangladesh,8,Alok Kapali,54279e23,VD Philander,cfe70281,Mashrafe Mortaza,e186f49c,0,0,0,0,0,,,,,,0,0,0
+287864,2007/08,Bangladesh,8,Alok Kapali,54279e23,VD Philander,cfe70281,Mashrafe Mortaza,e186f49c,0,0,0,0,0,,,,,,0,0,0
+287864,2007/08,Bangladesh,8,Alok Kapali,54279e23,VD Philander,cfe70281,Mashrafe Mortaza,e186f49c,0,0,0,0,0,,,,,,1,0,1
+287864,2007/08,Bangladesh,8,Mashrafe Mortaza,e186f49c,VD Philander,cfe70281,Alok Kapali,54279e23,0,0,0,0,0,,,,,,0,0,0
+287864,2007/08,Bangladesh,8,Mashrafe Mortaza,e186f49c,VD Philander,cfe70281,Alok Kapali,54279e23,0,0,0,0,0,,,,,,6,0,6
+287864,2007/08,Bangladesh,8,Mashrafe Mortaza,e186f49c,VD Philander,cfe70281,Alok Kapali,54279e23,0,0,0,0,0,,,,,,6,0,6
+287864,2007/08,Bangladesh,9,Alok Kapali,54279e23,M Morkel,5bb5a915,Mashrafe Mortaza,e186f49c,0,0,0,0,0,,,,,,0,0,0
+287864,2007/08,Bangladesh,9,Alok Kapali,54279e23,M Morkel,5bb5a915,Mashrafe Mortaza,e186f49c,0,0,0,0,0,,,,,,0,0,0
+287864,2007/08,Bangladesh,9,Alok Kapali,54279e23,M Morkel,5bb5a915,Mashrafe Mortaza,e186f49c,0,0,0,0,0,,,,,,0,0,0
+287864,2007/08,Bangladesh,9,Alok Kapali,54279e23,M Morkel,5bb5a915,Mashrafe Mortaza,e186f49c,0,1,0,0,0,,,,,,0,1,1
+287864,2007/08,Bangladesh,9,Alok Kapali,54279e23,M Morkel,5bb5a915,Mashrafe Mortaza,e186f49c,0,0,2,0,0,,,,,,0,2,2
+287864,2007/08,Bangladesh,9,Alok Kapali,54279e23,M Morkel,5bb5a915,Mashrafe Mortaza,e186f49c,1,0,0,0,0,,,,,,0,1,1
+287864,2007/08,Bangladesh,9,Alok Kapali,54279e23,M Morkel,5bb5a915,Mashrafe Mortaza,e186f49c,0,0,0,0,0,,,,,,1,0,1
+287864,2007/08,Bangladesh,9,Mashrafe Mortaza,e186f49c,M Morkel,5bb5a915,Alok Kapali,54279e23,0,0,0,0,0,,,,,,0,0,0
+287864,2007/08,Bangladesh,10,Alok Kapali,54279e23,VD Philander,cfe70281,Mashrafe Mortaza,e186f49c,0,0,0,0,0,,,,,,0,0,0
+287864,2007/08,Bangladesh,10,Alok Kapali,54279e23,VD Philander,cfe70281,Mashrafe Mortaza,e186f49c,0,0,4,0,0,,,,,,0,4,4
+287864,2007/08,Bangladesh,10,Alok Kapali,54279e23,VD Philander,cfe70281,Mashrafe Mortaza,e186f49c,0,0,0,0,0,,,,,,1,0,1
+287864,2007/08,Bangladesh,10,Mashrafe Mortaza,e186f49c,VD Philander,cfe70281,Alok Kapali,54279e23,0,0,0,0,1,Mashrafe Mortaza,e186f49c,JP Duminy,2e8994e7,caught,0,0,0
+287864,2007/08,Bangladesh,10,Alok Kapali,54279e23,VD Philander,cfe70281,Farhad Reza,4948a447,0,0,0,0,0,,,,,,0,0,0
+287864,2007/08,Bangladesh,10,Alok Kapali,54279e23,VD Philander,cfe70281,Farhad Reza,4948a447,0,0,0,0,0,,,,,,0,0,0
+287864,2007/08,Bangladesh,11,Farhad Reza,4948a447,JA Morkel,c3d35165,Alok Kapali,54279e23,0,0,0,0,0,,,,,,1,0,1
+287864,2007/08,Bangladesh,11,Alok Kapali,54279e23,JA Morkel,c3d35165,Farhad Reza,4948a447,0,0,0,0,0,,,,,,0,0,0
+287864,2007/08,Bangladesh,11,Alok Kapali,54279e23,JA Morkel,c3d35165,Farhad Reza,4948a447,0,0,0,0,0,,,,,,0,0,0
+287864,2007/08,Bangladesh,11,Alok Kapali,54279e23,JA Morkel,c3d35165,Farhad Reza,4948a447,0,0,0,0,0,,,,,,0,0,0
+287864,2007/08,Bangladesh,11,Alok Kapali,54279e23,JA Morkel,c3d35165,Farhad Reza,4948a447,0,0,0,0,0,,,,,,0,0,0
+287864,2007/08,Bangladesh,11,Alok Kapali,54279e23,JA Morkel,c3d35165,Farhad Reza,4948a447,0,0,0,0,0,,,,,,1,0,1
+287864,2007/08,Bangladesh,12,Alok Kapali,54279e23,VD Philander,cfe70281,Farhad Reza,4948a447,0,0,0,0,0,,,,,,0,0,0
+287864,2007/08,Bangladesh,12,Alok Kapali,54279e23,VD Philander,cfe70281,Farhad Reza,4948a447,0,0,0,0,0,,,,,,1,0,1
+287864,2007/08,Bangladesh,12,Farhad Reza,4948a447,VD Philander,cfe70281,Alok Kapali,54279e23,0,0,0,0,0,,,,,,0,0,0
+287864,2007/08,Bangladesh,12,Farhad Reza,4948a447,VD Philander,cfe70281,Alok Kapali,54279e23,0,0,0,0,0,,,,,,0,0,0
+287864,2007/08,Bangladesh,12,Farhad Reza,4948a447,VD Philander,cfe70281,Alok Kapali,54279e23,0,0,0,0,0,,,,,,0,0,0
+287864,2007/08,Bangladesh,12,Farhad Reza,4948a447,VD Philander,cfe70281,Alok Kapali,54279e23,0,0,0,0,0,,,,,,0,0,0
+287864,2007/08,Bangladesh,13,Alok Kapali,54279e23,JA Morkel,c3d35165,Farhad Reza,4948a447,0,0,0,0,0,,,,,,1,0,1
+287864,2007/08,Bangladesh,13,Farhad Reza,4948a447,JA Morkel,c3d35165,Alok Kapali,54279e23,0,0,0,0,0,,,,,,0,0,0
+287864,2007/08,Bangladesh,13,Farhad Reza,4948a447,JA Morkel,c3d35165,Alok Kapali,54279e23,0,0,0,0,0,,,,,,0,0,0
+287864,2007/08,Bangladesh,13,Farhad Reza,4948a447,JA Morkel,c3d35165,Alok Kapali,54279e23,0,0,0,0,0,,,,,,1,0,1
+287864,2007/08,Bangladesh,13,Alok Kapali,54279e23,JA Morkel,c3d35165,Farhad Reza,4948a447,1,0,0,0,0,,,,,,0,1,1
+287864,2007/08,Bangladesh,13,Alok Kapali,54279e23,JA Morkel,c3d35165,Farhad Reza,4948a447,0,0,0,0,0,,,,,,1,0,1
+287864,2007/08,Bangladesh,13,Farhad Reza,4948a447,JA Morkel,c3d35165,Alok Kapali,54279e23,0,0,0,0,0,,,,,,0,0,0
+287864,2007/08,Bangladesh,14,Alok Kapali,54279e23,SM Pollock,88fccd6c,Farhad Reza,4948a447,0,0,0,0,0,,,,,,1,0,1
+287864,2007/08,Bangladesh,14,Farhad Reza,4948a447,SM Pollock,88fccd6c,Alok Kapali,54279e23,0,0,0,0,0,,,,,,1,0,1
+287864,2007/08,Bangladesh,14,Alok Kapali,54279e23,SM Pollock,88fccd6c,Farhad Reza,4948a447,0,0,0,0,0,,,,,,1,0,1
+287864,2007/08,Bangladesh,14,Farhad Reza,4948a447,SM Pollock,88fccd6c,Alok Kapali,54279e23,0,0,0,0,0,,,,,,6,0,6
+287864,2007/08,Bangladesh,14,Farhad Reza,4948a447,SM Pollock,88fccd6c,Alok Kapali,54279e23,0,0,0,0,0,,,,,,1,0,1
+287864,2007/08,Bangladesh,14,Alok Kapali,54279e23,SM Pollock,88fccd6c,Farhad Reza,4948a447,0,0,0,0,0,,,,,,1,0,1
+287864,2007/08,Bangladesh,15,Alok Kapali,54279e23,M Morkel,5bb5a915,Farhad Reza,4948a447,0,0,0,0,0,,,,,,0,0,0
+287864,2007/08,Bangladesh,15,Alok Kapali,54279e23,M Morkel,5bb5a915,Farhad Reza,4948a447,0,0,0,0,0,,,,,,0,0,0
+287864,2007/08,Bangladesh,15,Alok Kapali,54279e23,M Morkel,5bb5a915,Farhad Reza,4948a447,0,0,0,0,1,Alok Kapali,54279e23,AB de Villiers,c4487b84,caught,0,0,0
+287864,2007/08,Bangladesh,15,Farhad Reza,4948a447,M Morkel,5bb5a915,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,0,0,0
+287864,2007/08,Bangladesh,15,Farhad Reza,4948a447,M Morkel,5bb5a915,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,0,0,0
+287864,2007/08,Bangladesh,15,Farhad Reza,4948a447,M Morkel,5bb5a915,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,1,0,1
+287864,2007/08,Bangladesh,16,Farhad Reza,4948a447,JJ van der Wath,6821ac10,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,1,0,1
+287864,2007/08,Bangladesh,16,Mushfiqur Rahim,a94e08ea,JJ van der Wath,6821ac10,Farhad Reza,4948a447,0,0,0,0,0,,,,,,1,0,1
+287864,2007/08,Bangladesh,16,Farhad Reza,4948a447,JJ van der Wath,6821ac10,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,0,0,0
+287864,2007/08,Bangladesh,16,Farhad Reza,4948a447,JJ van der Wath,6821ac10,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,0,0,0
+287864,2007/08,Bangladesh,16,Farhad Reza,4948a447,JJ van der Wath,6821ac10,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,1,0,1
+287864,2007/08,Bangladesh,16,Mushfiqur Rahim,a94e08ea,JJ van der Wath,6821ac10,Farhad Reza,4948a447,0,0,0,0,0,,,,,,2,0,2
+287864,2007/08,Bangladesh,17,Farhad Reza,4948a447,VD Philander,cfe70281,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,6,0,6
+287864,2007/08,Bangladesh,17,Farhad Reza,4948a447,VD Philander,cfe70281,Mushfiqur Rahim,a94e08ea,0,0,0,0,1,Farhad Reza,4948a447,JM Kemp,6581d753,caught,0,0,0
+287864,2007/08,Bangladesh,17,Mushfiqur Rahim,a94e08ea,VD Philander,cfe70281,Abdur Razzak,888e32bf,0,0,0,0,0,,,,,,0,0,0
+287864,2007/08,Bangladesh,17,Mushfiqur Rahim,a94e08ea,VD Philander,cfe70281,Abdur Razzak,888e32bf,0,0,0,0,0,,,,,,0,0,0
+287864,2007/08,Bangladesh,17,Mushfiqur Rahim,a94e08ea,VD Philander,cfe70281,Abdur Razzak,888e32bf,0,0,0,0,0,,,,,,1,0,1
+287864,2007/08,Bangladesh,17,Abdur Razzak,888e32bf,VD Philander,cfe70281,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,1,0,1
+287864,2007/08,Bangladesh,18,Abdur Razzak,888e32bf,JJ van der Wath,6821ac10,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,0,0,0
+287864,2007/08,Bangladesh,18,Abdur Razzak,888e32bf,JJ van der Wath,6821ac10,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,1,0,1
+287864,2007/08,Bangladesh,18,Mushfiqur Rahim,a94e08ea,JJ van der Wath,6821ac10,Abdur Razzak,888e32bf,0,0,0,0,1,Mushfiqur Rahim,a94e08ea,SM Pollock,88fccd6c,caught,0,0,0
+287864,2007/08,Bangladesh,18,Abdur Razzak,888e32bf,JJ van der Wath,6821ac10,Syed Rasel,b743f01b,0,0,0,0,0,,,,,,0,0,0
+287864,2007/08,Bangladesh,18,Abdur Razzak,888e32bf,JJ van der Wath,6821ac10,Syed Rasel,b743f01b,0,0,0,0,0,,,,,,0,0,0
+287864,2007/08,Bangladesh,18,Abdur Razzak,888e32bf,JJ van der Wath,6821ac10,Syed Rasel,b743f01b,0,0,4,0,0,,,,,,0,4,4
+287864,2007/08,Bangladesh,19,Syed Rasel,b743f01b,SM Pollock,88fccd6c,Abdur Razzak,888e32bf,0,0,0,0,0,,,,,,2,0,2
+287864,2007/08,Bangladesh,19,Syed Rasel,b743f01b,SM Pollock,88fccd6c,Abdur Razzak,888e32bf,0,0,0,0,0,,,,,,4,0,4
+287864,2007/08,Bangladesh,19,Syed Rasel,b743f01b,SM Pollock,88fccd6c,Abdur Razzak,888e32bf,0,0,0,0,1,Syed Rasel,b743f01b,,,bowled,0,0,0
+287864,2007/08,South Africa,0,GC Smith,72861603,Mashrafe Mortaza,e186f49c,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,0,0,0
+287864,2007/08,South Africa,0,GC Smith,72861603,Mashrafe Mortaza,e186f49c,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,1,0,1
+287864,2007/08,South Africa,0,JP Duminy,2e8994e7,Mashrafe Mortaza,e186f49c,GC Smith,72861603,0,0,0,0,0,,,,,,0,0,0
+287864,2007/08,South Africa,0,JP Duminy,2e8994e7,Mashrafe Mortaza,e186f49c,GC Smith,72861603,0,0,0,0,0,,,,,,0,0,0
+287864,2007/08,South Africa,0,JP Duminy,2e8994e7,Mashrafe Mortaza,e186f49c,GC Smith,72861603,0,0,0,0,0,,,,,,4,0,4
+287864,2007/08,South Africa,0,JP Duminy,2e8994e7,Mashrafe Mortaza,e186f49c,GC Smith,72861603,0,0,0,0,0,,,,,,0,0,0
+287864,2007/08,South Africa,1,GC Smith,72861603,Syed Rasel,b743f01b,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,0,0,0
+287864,2007/08,South Africa,1,GC Smith,72861603,Syed Rasel,b743f01b,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,0,0,0
+287864,2007/08,South Africa,1,GC Smith,72861603,Syed Rasel,b743f01b,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,0,0,0
+287864,2007/08,South Africa,1,GC Smith,72861603,Syed Rasel,b743f01b,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,4,0,4
+287864,2007/08,South Africa,1,GC Smith,72861603,Syed Rasel,b743f01b,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,0,0,0
+287864,2007/08,South Africa,1,GC Smith,72861603,Syed Rasel,b743f01b,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,0,0,0
+287864,2007/08,South Africa,2,JP Duminy,2e8994e7,Mashrafe Mortaza,e186f49c,GC Smith,72861603,0,0,0,0,0,,,,,,0,0,0
+287864,2007/08,South Africa,2,JP Duminy,2e8994e7,Mashrafe Mortaza,e186f49c,GC Smith,72861603,0,0,0,0,0,,,,,,0,0,0
+287864,2007/08,South Africa,2,JP Duminy,2e8994e7,Mashrafe Mortaza,e186f49c,GC Smith,72861603,0,0,0,0,0,,,,,,1,0,1
+287864,2007/08,South Africa,2,GC Smith,72861603,Mashrafe Mortaza,e186f49c,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,4,0,4
+287864,2007/08,South Africa,2,GC Smith,72861603,Mashrafe Mortaza,e186f49c,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,0,0,0
+287864,2007/08,South Africa,2,GC Smith,72861603,Mashrafe Mortaza,e186f49c,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,4,0,4
+287864,2007/08,South Africa,3,JP Duminy,2e8994e7,Syed Rasel,b743f01b,GC Smith,72861603,0,0,0,0,0,,,,,,1,0,1
+287864,2007/08,South Africa,3,GC Smith,72861603,Syed Rasel,b743f01b,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,0,0,0
+287864,2007/08,South Africa,3,GC Smith,72861603,Syed Rasel,b743f01b,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,0,0,0
+287864,2007/08,South Africa,3,GC Smith,72861603,Syed Rasel,b743f01b,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,4,0,4
+287864,2007/08,South Africa,3,GC Smith,72861603,Syed Rasel,b743f01b,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,1,0,1
+287864,2007/08,South Africa,3,JP Duminy,2e8994e7,Syed Rasel,b743f01b,GC Smith,72861603,0,0,0,0,0,,,,,,4,0,4
+287864,2007/08,South Africa,4,GC Smith,72861603,Mashrafe Mortaza,e186f49c,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,1,0,1
+287864,2007/08,South Africa,4,JP Duminy,2e8994e7,Mashrafe Mortaza,e186f49c,GC Smith,72861603,0,0,0,0,0,,,,,,0,0,0
+287864,2007/08,South Africa,4,JP Duminy,2e8994e7,Mashrafe Mortaza,e186f49c,GC Smith,72861603,0,0,0,0,0,,,,,,2,0,2
+287864,2007/08,South Africa,4,JP Duminy,2e8994e7,Mashrafe Mortaza,e186f49c,GC Smith,72861603,0,0,0,0,0,,,,,,0,0,0
+287864,2007/08,South Africa,4,JP Duminy,2e8994e7,Mashrafe Mortaza,e186f49c,GC Smith,72861603,0,0,0,0,0,,,,,,4,0,4
+287864,2007/08,South Africa,4,JP Duminy,2e8994e7,Mashrafe Mortaza,e186f49c,GC Smith,72861603,0,0,0,0,0,,,,,,1,0,1
+287864,2007/08,South Africa,5,JP Duminy,2e8994e7,Syed Rasel,b743f01b,GC Smith,72861603,0,0,0,0,0,,,,,,0,0,0
+287864,2007/08,South Africa,5,JP Duminy,2e8994e7,Syed Rasel,b743f01b,GC Smith,72861603,0,0,0,0,0,,,,,,1,0,1
+287864,2007/08,South Africa,5,GC Smith,72861603,Syed Rasel,b743f01b,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,1,0,1
+287864,2007/08,South Africa,5,JP Duminy,2e8994e7,Syed Rasel,b743f01b,GC Smith,72861603,0,0,0,0,0,,,,,,4,0,4
+287864,2007/08,South Africa,5,JP Duminy,2e8994e7,Syed Rasel,b743f01b,GC Smith,72861603,0,0,0,0,0,,,,,,0,0,0
+287864,2007/08,South Africa,5,JP Duminy,2e8994e7,Syed Rasel,b743f01b,GC Smith,72861603,0,0,0,0,0,,,,,,0,0,0
+287864,2007/08,South Africa,6,GC Smith,72861603,Abdur Razzak,888e32bf,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,0,0,0
+287864,2007/08,South Africa,6,GC Smith,72861603,Abdur Razzak,888e32bf,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,1,0,1
+287864,2007/08,South Africa,6,JP Duminy,2e8994e7,Abdur Razzak,888e32bf,GC Smith,72861603,0,0,0,0,0,,,,,,1,0,1
+287864,2007/08,South Africa,6,GC Smith,72861603,Abdur Razzak,888e32bf,JP Duminy,2e8994e7,0,0,1,0,0,,,,,,0,1,1
+287864,2007/08,South Africa,6,JP Duminy,2e8994e7,Abdur Razzak,888e32bf,GC Smith,72861603,0,0,0,0,0,,,,,,2,0,2
+287864,2007/08,South Africa,6,JP Duminy,2e8994e7,Abdur Razzak,888e32bf,GC Smith,72861603,0,0,0,0,0,,,,,,1,0,1
+287864,2007/08,South Africa,7,JP Duminy,2e8994e7,Mohammad Ashraful,2bb09eb2,GC Smith,72861603,0,0,0,0,0,,,,,,1,0,1
+287864,2007/08,South Africa,7,GC Smith,72861603,Mohammad Ashraful,2bb09eb2,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,1,0,1
+287864,2007/08,South Africa,7,JP Duminy,2e8994e7,Mohammad Ashraful,2bb09eb2,GC Smith,72861603,0,0,0,0,0,,,,,,0,0,0
+287864,2007/08,South Africa,7,JP Duminy,2e8994e7,Mohammad Ashraful,2bb09eb2,GC Smith,72861603,0,0,0,0,0,,,,,,1,0,1
+287864,2007/08,South Africa,7,GC Smith,72861603,Mohammad Ashraful,2bb09eb2,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,4,0,4
+287864,2007/08,South Africa,7,GC Smith,72861603,Mohammad Ashraful,2bb09eb2,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,1,0,1
+287864,2007/08,South Africa,8,GC Smith,72861603,Abdur Razzak,888e32bf,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,1,0,1
+287864,2007/08,South Africa,8,JP Duminy,2e8994e7,Abdur Razzak,888e32bf,GC Smith,72861603,0,0,0,0,0,,,,,,2,0,2
+287864,2007/08,South Africa,8,JP Duminy,2e8994e7,Abdur Razzak,888e32bf,GC Smith,72861603,0,0,0,0,0,,,,,,6,0,6
+287864,2007/08,South Africa,8,JP Duminy,2e8994e7,Abdur Razzak,888e32bf,GC Smith,72861603,0,0,0,0,1,JP Duminy,2e8994e7,,,lbw,0,0,0
+287864,2007/08,South Africa,8,JA Morkel,c3d35165,Abdur Razzak,888e32bf,GC Smith,72861603,0,0,0,0,0,,,,,,0,0,0
+287864,2007/08,South Africa,8,JA Morkel,c3d35165,Abdur Razzak,888e32bf,GC Smith,72861603,0,0,0,0,0,,,,,,1,0,1
+287864,2007/08,South Africa,9,JA Morkel,c3d35165,Mohammad Ashraful,2bb09eb2,GC Smith,72861603,0,0,0,0,0,,,,,,4,0,4
+287864,2007/08,South Africa,9,JA Morkel,c3d35165,Mohammad Ashraful,2bb09eb2,GC Smith,72861603,0,0,0,0,0,,,,,,2,0,2
+287864,2007/08,South Africa,9,JA Morkel,c3d35165,Mohammad Ashraful,2bb09eb2,GC Smith,72861603,0,0,0,0,0,,,,,,0,0,0
+287864,2007/08,South Africa,9,JA Morkel,c3d35165,Mohammad Ashraful,2bb09eb2,GC Smith,72861603,1,0,0,0,0,,,,,,0,1,1
+287864,2007/08,South Africa,9,JA Morkel,c3d35165,Mohammad Ashraful,2bb09eb2,GC Smith,72861603,0,0,0,0,0,,,,,,0,0,0
+287864,2007/08,South Africa,9,JA Morkel,c3d35165,Mohammad Ashraful,2bb09eb2,GC Smith,72861603,0,0,0,0,0,,,,,,1,0,1
+287864,2007/08,South Africa,9,GC Smith,72861603,Mohammad Ashraful,2bb09eb2,JA Morkel,c3d35165,0,0,0,0,0,,,,,,1,0,1
+287864,2007/08,South Africa,10,GC Smith,72861603,Syed Rasel,b743f01b,JA Morkel,c3d35165,0,0,0,0,0,,,,,,1,0,1
+287864,2007/08,South Africa,10,JA Morkel,c3d35165,Syed Rasel,b743f01b,GC Smith,72861603,0,0,0,0,0,,,,,,0,0,0
+287864,2007/08,South Africa,10,JA Morkel,c3d35165,Syed Rasel,b743f01b,GC Smith,72861603,0,0,0,0,0,,,,,,4,0,4
+287864,2007/08,South Africa,10,JA Morkel,c3d35165,Syed Rasel,b743f01b,GC Smith,72861603,0,0,0,0,0,,,,,,1,0,1
+287864,2007/08,South Africa,10,GC Smith,72861603,Syed Rasel,b743f01b,JA Morkel,c3d35165,0,0,0,0,0,,,,,,1,0,1
+287864,2007/08,South Africa,10,JA Morkel,c3d35165,Syed Rasel,b743f01b,GC Smith,72861603,0,0,0,0,0,,,,,,1,0,1
+287864,2007/08,South Africa,11,JA Morkel,c3d35165,Shakib Al Hasan,7dc35884,GC Smith,72861603,0,0,0,0,0,,,,,,0,0,0
+287864,2007/08,South Africa,11,JA Morkel,c3d35165,Shakib Al Hasan,7dc35884,GC Smith,72861603,0,0,0,0,0,,,,,,0,0,0
+287864,2007/08,South Africa,11,JA Morkel,c3d35165,Shakib Al Hasan,7dc35884,GC Smith,72861603,0,0,0,0,0,,,,,,0,0,0
+287864,2007/08,South Africa,11,JA Morkel,c3d35165,Shakib Al Hasan,7dc35884,GC Smith,72861603,0,0,0,0,0,,,,,,1,0,1
+287864,2007/08,South Africa,11,GC Smith,72861603,Shakib Al Hasan,7dc35884,JA Morkel,c3d35165,0,0,0,0,0,,,,,,1,0,1
+287864,2007/08,South Africa,11,JA Morkel,c3d35165,Shakib Al Hasan,7dc35884,GC Smith,72861603,0,0,0,0,0,,,,,,6,0,6
+287864,2007/08,South Africa,12,GC Smith,72861603,Farhad Reza,4948a447,JA Morkel,c3d35165,0,0,0,0,0,,,,,,4,0,4
+287864,2007/08,South Africa,12,GC Smith,72861603,Farhad Reza,4948a447,JA Morkel,c3d35165,0,0,0,0,0,,,,,,1,0,1
+287864,2007/08,South Africa,12,JA Morkel,c3d35165,Farhad Reza,4948a447,GC Smith,72861603,0,0,0,0,0,,,,,,1,0,1
+287864,2007/08,South Africa,12,GC Smith,72861603,Farhad Reza,4948a447,JA Morkel,c3d35165,0,0,0,0,0,,,,,,1,0,1
+287864,2007/08,South Africa,12,JA Morkel,c3d35165,Farhad Reza,4948a447,GC Smith,72861603,0,0,0,0,0,,,,,,4,0,4
+287864,2007/08,South Africa,12,JA Morkel,c3d35165,Farhad Reza,4948a447,GC Smith,72861603,0,0,0,0,0,,,,,,2,0,2
+287864,2007/08,South Africa,13,GC Smith,72861603,Shakib Al Hasan,7dc35884,JA Morkel,c3d35165,0,0,0,0,0,,,,,,1,0,1
+287864,2007/08,South Africa,13,JA Morkel,c3d35165,Shakib Al Hasan,7dc35884,GC Smith,72861603,0,0,0,0,0,,,,,,1,0,1
+287864,2007/08,South Africa,13,GC Smith,72861603,Shakib Al Hasan,7dc35884,JA Morkel,c3d35165,0,0,0,0,0,,,,,,2,0,2
+287864,2007/08,South Africa,13,GC Smith,72861603,Shakib Al Hasan,7dc35884,JA Morkel,c3d35165,0,0,0,0,1,GC Smith,72861603,Mushfiqur Rahim,a94e08ea,caught,0,0,0
+287864,2007/08,South Africa,13,JA Morkel,c3d35165,Shakib Al Hasan,7dc35884,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,0,0,0
+287864,2007/08,South Africa,13,JA Morkel,c3d35165,Shakib Al Hasan,7dc35884,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,1,0,1
+287864,2007/08,South Africa,14,JA Morkel,c3d35165,Abdur Razzak,888e32bf,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,1,0,1
+287864,2007/08,South Africa,14,AB de Villiers,c4487b84,Abdur Razzak,888e32bf,JA Morkel,c3d35165,0,0,0,0,0,,,,,,0,0,0
+287864,2007/08,South Africa,14,AB de Villiers,c4487b84,Abdur Razzak,888e32bf,JA Morkel,c3d35165,0,0,0,0,0,,,,,,1,0,1
+287864,2007/08,South Africa,14,JA Morkel,c3d35165,Abdur Razzak,888e32bf,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,0,0,0
+287864,2007/08,South Africa,14,JA Morkel,c3d35165,Abdur Razzak,888e32bf,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,6,0,6
+287864,2007/08,South Africa,14,JA Morkel,c3d35165,Abdur Razzak,888e32bf,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,2,0,2
+287864,2007/08,South Africa,15,AB de Villiers,c4487b84,Shakib Al Hasan,7dc35884,JA Morkel,c3d35165,0,0,0,0,0,,,,,,1,0,1
+287864,2007/08,South Africa,15,JA Morkel,c3d35165,Shakib Al Hasan,7dc35884,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,1,0,1
+287864,2007/08,South Africa,15,AB de Villiers,c4487b84,Shakib Al Hasan,7dc35884,JA Morkel,c3d35165,0,0,0,0,0,,,,,,1,0,1
+287864,2007/08,South Africa,15,JA Morkel,c3d35165,Shakib Al Hasan,7dc35884,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,1,0,1
+287864,2007/08,South Africa,15,AB de Villiers,c4487b84,Shakib Al Hasan,7dc35884,JA Morkel,c3d35165,0,0,0,0,0,,,,,,0,0,0
+287864,2007/08,South Africa,15,AB de Villiers,c4487b84,Shakib Al Hasan,7dc35884,JA Morkel,c3d35165,0,0,0,0,0,,,,,,0,0,0
+287864,2007/08,South Africa,16,JA Morkel,c3d35165,Abdur Razzak,888e32bf,AB de Villiers,c4487b84,0,0,0,0,1,JA Morkel,c3d35165,Farhad Reza,4948a447,caught,0,0,0
+287864,2007/08,South Africa,16,AB de Villiers,c4487b84,Abdur Razzak,888e32bf,JM Kemp,6581d753,0,0,0,0,0,,,,,,0,0,0
+287864,2007/08,South Africa,16,AB de Villiers,c4487b84,Abdur Razzak,888e32bf,JM Kemp,6581d753,0,0,0,0,0,,,,,,0,0,0
+287864,2007/08,South Africa,16,AB de Villiers,c4487b84,Abdur Razzak,888e32bf,JM Kemp,6581d753,0,0,0,0,0,,,,,,1,0,1
+287864,2007/08,South Africa,16,JM Kemp,6581d753,Abdur Razzak,888e32bf,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,0,0,0
+287864,2007/08,South Africa,16,JM Kemp,6581d753,Abdur Razzak,888e32bf,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,0,0,0
+287864,2007/08,South Africa,17,AB de Villiers,c4487b84,Shakib Al Hasan,7dc35884,JM Kemp,6581d753,0,0,0,0,0,,,,,,1,0,1
+287864,2007/08,South Africa,17,JM Kemp,6581d753,Shakib Al Hasan,7dc35884,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,1,0,1
+287864,2007/08,South Africa,17,AB de Villiers,c4487b84,Shakib Al Hasan,7dc35884,JM Kemp,6581d753,0,0,0,0,0,,,,,,4,0,4
+287864,2007/08,South Africa,17,AB de Villiers,c4487b84,Shakib Al Hasan,7dc35884,JM Kemp,6581d753,0,0,0,0,0,,,,,,1,0,1
+287864,2007/08,South Africa,17,JM Kemp,6581d753,Shakib Al Hasan,7dc35884,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,4,0,4
+287864,2007/08,South Africa,17,JM Kemp,6581d753,Shakib Al Hasan,7dc35884,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,0,0,0
+287864,2007/08,South Africa,18,AB de Villiers,c4487b84,Mashrafe Mortaza,e186f49c,JM Kemp,6581d753,0,0,0,0,0,,,,,,1,0,1
+287864,2007/08,South Africa,18,JM Kemp,6581d753,Mashrafe Mortaza,e186f49c,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,1,0,1
+287864,2007/08,South Africa,18,AB de Villiers,c4487b84,Mashrafe Mortaza,e186f49c,JM Kemp,6581d753,0,0,0,0,0,,,,,,2,0,2
+287864,2007/08,South Africa,18,AB de Villiers,c4487b84,Mashrafe Mortaza,e186f49c,JM Kemp,6581d753,0,0,0,0,0,,,,,,1,0,1
+287864,2007/08,South Africa,18,JM Kemp,6581d753,Mashrafe Mortaza,e186f49c,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,6,0,6

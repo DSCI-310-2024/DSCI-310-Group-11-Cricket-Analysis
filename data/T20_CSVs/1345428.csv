@@ -1,0 +1,254 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1345428,2022/23,Australia,0,BL Mooney,52d1dbc8,Renuka Singh,7298db76,P Litchfield,4e6ef14f,1,0,0,0,0,,,,,,0,1,1
+1345428,2022/23,Australia,0,BL Mooney,52d1dbc8,Renuka Singh,7298db76,P Litchfield,4e6ef14f,0,0,0,0,0,,,,,,0,0,0
+1345428,2022/23,Australia,0,BL Mooney,52d1dbc8,Renuka Singh,7298db76,P Litchfield,4e6ef14f,0,0,0,0,0,,,,,,1,0,1
+1345428,2022/23,Australia,0,P Litchfield,4e6ef14f,Renuka Singh,7298db76,BL Mooney,52d1dbc8,0,0,0,0,0,,,,,,1,0,1
+1345428,2022/23,Australia,0,BL Mooney,52d1dbc8,Renuka Singh,7298db76,P Litchfield,4e6ef14f,0,0,0,0,0,,,,,,1,0,1
+1345428,2022/23,Australia,0,P Litchfield,4e6ef14f,Renuka Singh,7298db76,BL Mooney,52d1dbc8,0,0,0,0,0,,,,,,4,0,4
+1345428,2022/23,Australia,0,P Litchfield,4e6ef14f,Renuka Singh,7298db76,BL Mooney,52d1dbc8,0,0,0,0,0,,,,,,0,0,0
+1345428,2022/23,Australia,1,BL Mooney,52d1dbc8,K Anjali Sarvani,fa0bf9d9,P Litchfield,4e6ef14f,0,0,0,0,1,BL Mooney,52d1dbc8,,,bowled,0,0,0
+1345428,2022/23,Australia,1,TM McGrath,ca5acfa4,K Anjali Sarvani,fa0bf9d9,P Litchfield,4e6ef14f,0,0,0,0,0,,,,,,0,0,0
+1345428,2022/23,Australia,1,TM McGrath,ca5acfa4,K Anjali Sarvani,fa0bf9d9,P Litchfield,4e6ef14f,0,0,0,0,0,,,,,,1,0,1
+1345428,2022/23,Australia,1,P Litchfield,4e6ef14f,K Anjali Sarvani,fa0bf9d9,TM McGrath,ca5acfa4,0,0,0,0,0,,,,,,6,0,6
+1345428,2022/23,Australia,1,P Litchfield,4e6ef14f,K Anjali Sarvani,fa0bf9d9,TM McGrath,ca5acfa4,1,0,0,0,0,,,,,,0,1,1
+1345428,2022/23,Australia,1,P Litchfield,4e6ef14f,K Anjali Sarvani,fa0bf9d9,TM McGrath,ca5acfa4,1,0,0,0,0,,,,,,0,1,1
+1345428,2022/23,Australia,1,P Litchfield,4e6ef14f,K Anjali Sarvani,fa0bf9d9,TM McGrath,ca5acfa4,0,0,0,0,0,,,,,,0,0,0
+1345428,2022/23,Australia,1,P Litchfield,4e6ef14f,K Anjali Sarvani,fa0bf9d9,TM McGrath,ca5acfa4,0,0,0,0,0,,,,,,0,0,0
+1345428,2022/23,Australia,2,TM McGrath,ca5acfa4,Renuka Singh,7298db76,P Litchfield,4e6ef14f,0,0,0,0,0,,,,,,0,0,0
+1345428,2022/23,Australia,2,TM McGrath,ca5acfa4,Renuka Singh,7298db76,P Litchfield,4e6ef14f,0,0,0,0,0,,,,,,0,0,0
+1345428,2022/23,Australia,2,TM McGrath,ca5acfa4,Renuka Singh,7298db76,P Litchfield,4e6ef14f,0,0,0,0,0,,,,,,0,0,0
+1345428,2022/23,Australia,2,TM McGrath,ca5acfa4,Renuka Singh,7298db76,P Litchfield,4e6ef14f,0,0,0,0,0,,,,,,0,0,0
+1345428,2022/23,Australia,2,TM McGrath,ca5acfa4,Renuka Singh,7298db76,P Litchfield,4e6ef14f,0,0,0,0,0,,,,,,0,0,0
+1345428,2022/23,Australia,2,TM McGrath,ca5acfa4,Renuka Singh,7298db76,P Litchfield,4e6ef14f,0,0,0,0,0,,,,,,0,0,0
+1345428,2022/23,Australia,3,P Litchfield,4e6ef14f,DB Sharma,201fef33,TM McGrath,ca5acfa4,0,0,0,0,0,,,,,,0,0,0
+1345428,2022/23,Australia,3,P Litchfield,4e6ef14f,DB Sharma,201fef33,TM McGrath,ca5acfa4,0,0,0,0,0,,,,,,0,0,0
+1345428,2022/23,Australia,3,P Litchfield,4e6ef14f,DB Sharma,201fef33,TM McGrath,ca5acfa4,0,0,0,0,1,P Litchfield,4e6ef14f,RM Ghosh,721e0199,stumped,0,0,0
+1345428,2022/23,Australia,3,EA Perry,be150fc8,DB Sharma,201fef33,TM McGrath,ca5acfa4,0,0,0,0,0,,,,,,4,0,4
+1345428,2022/23,Australia,3,EA Perry,be150fc8,DB Sharma,201fef33,TM McGrath,ca5acfa4,0,0,0,0,0,,,,,,1,0,1
+1345428,2022/23,Australia,3,TM McGrath,ca5acfa4,DB Sharma,201fef33,EA Perry,be150fc8,0,0,0,0,0,,,,,,0,0,0
+1345428,2022/23,Australia,4,EA Perry,be150fc8,K Anjali Sarvani,fa0bf9d9,TM McGrath,ca5acfa4,0,0,0,0,0,,,,,,1,0,1
+1345428,2022/23,Australia,4,TM McGrath,ca5acfa4,K Anjali Sarvani,fa0bf9d9,EA Perry,be150fc8,0,0,0,0,0,,,,,,0,0,0
+1345428,2022/23,Australia,4,TM McGrath,ca5acfa4,K Anjali Sarvani,fa0bf9d9,EA Perry,be150fc8,0,0,0,0,0,,,,,,0,0,0
+1345428,2022/23,Australia,4,TM McGrath,ca5acfa4,K Anjali Sarvani,fa0bf9d9,EA Perry,be150fc8,0,0,0,0,0,,,,,,1,0,1
+1345428,2022/23,Australia,4,EA Perry,be150fc8,K Anjali Sarvani,fa0bf9d9,TM McGrath,ca5acfa4,0,0,0,0,0,,,,,,0,0,0
+1345428,2022/23,Australia,4,EA Perry,be150fc8,K Anjali Sarvani,fa0bf9d9,TM McGrath,ca5acfa4,0,0,0,0,0,,,,,,0,0,0
+1345428,2022/23,Australia,5,TM McGrath,ca5acfa4,DB Sharma,201fef33,EA Perry,be150fc8,0,0,0,0,0,,,,,,0,0,0
+1345428,2022/23,Australia,5,TM McGrath,ca5acfa4,DB Sharma,201fef33,EA Perry,be150fc8,0,0,0,0,0,,,,,,4,0,4
+1345428,2022/23,Australia,5,TM McGrath,ca5acfa4,DB Sharma,201fef33,EA Perry,be150fc8,0,0,0,0,0,,,,,,6,0,6
+1345428,2022/23,Australia,5,TM McGrath,ca5acfa4,DB Sharma,201fef33,EA Perry,be150fc8,0,0,0,0,0,,,,,,0,0,0
+1345428,2022/23,Australia,5,TM McGrath,ca5acfa4,DB Sharma,201fef33,EA Perry,be150fc8,1,0,0,0,0,,,,,,0,1,1
+1345428,2022/23,Australia,5,TM McGrath,ca5acfa4,DB Sharma,201fef33,EA Perry,be150fc8,0,0,0,0,0,,,,,,6,0,6
+1345428,2022/23,Australia,5,TM McGrath,ca5acfa4,DB Sharma,201fef33,EA Perry,be150fc8,0,0,0,0,0,,,,,,1,0,1
+1345428,2022/23,Australia,6,TM McGrath,ca5acfa4,RS Gayakwad,237ec05b,EA Perry,be150fc8,0,0,0,0,0,,,,,,0,0,0
+1345428,2022/23,Australia,6,TM McGrath,ca5acfa4,RS Gayakwad,237ec05b,EA Perry,be150fc8,0,0,0,0,0,,,,,,1,0,1
+1345428,2022/23,Australia,6,EA Perry,be150fc8,RS Gayakwad,237ec05b,TM McGrath,ca5acfa4,0,0,0,0,0,,,,,,0,0,0
+1345428,2022/23,Australia,6,EA Perry,be150fc8,RS Gayakwad,237ec05b,TM McGrath,ca5acfa4,0,0,0,0,0,,,,,,5,0,5
+1345428,2022/23,Australia,6,TM McGrath,ca5acfa4,RS Gayakwad,237ec05b,EA Perry,be150fc8,0,0,0,0,0,,,,,,0,0,0
+1345428,2022/23,Australia,6,TM McGrath,ca5acfa4,RS Gayakwad,237ec05b,EA Perry,be150fc8,0,0,0,0,0,,,,,,1,0,1
+1345428,2022/23,Australia,7,TM McGrath,ca5acfa4,Shafali Verma,d8f59089,EA Perry,be150fc8,0,0,0,0,0,,,,,,1,0,1
+1345428,2022/23,Australia,7,EA Perry,be150fc8,Shafali Verma,d8f59089,TM McGrath,ca5acfa4,0,0,0,0,0,,,,,,1,0,1
+1345428,2022/23,Australia,7,TM McGrath,ca5acfa4,Shafali Verma,d8f59089,EA Perry,be150fc8,0,0,0,0,0,,,,,,0,0,0
+1345428,2022/23,Australia,7,TM McGrath,ca5acfa4,Shafali Verma,d8f59089,EA Perry,be150fc8,0,0,0,0,0,,,,,,4,0,4
+1345428,2022/23,Australia,7,TM McGrath,ca5acfa4,Shafali Verma,d8f59089,EA Perry,be150fc8,0,0,0,0,1,TM McGrath,ca5acfa4,RM Ghosh,721e0199,stumped,0,0,0
+1345428,2022/23,Australia,7,A Gardner,bc969efb,Shafali Verma,d8f59089,EA Perry,be150fc8,0,0,0,0,0,,,,,,2,0,2
+1345428,2022/23,Australia,8,EA Perry,be150fc8,RS Gayakwad,237ec05b,A Gardner,bc969efb,0,0,0,0,0,,,,,,4,0,4
+1345428,2022/23,Australia,8,EA Perry,be150fc8,RS Gayakwad,237ec05b,A Gardner,bc969efb,0,0,0,0,0,,,,,,0,0,0
+1345428,2022/23,Australia,8,EA Perry,be150fc8,RS Gayakwad,237ec05b,A Gardner,bc969efb,0,0,0,0,0,,,,,,1,0,1
+1345428,2022/23,Australia,8,A Gardner,bc969efb,RS Gayakwad,237ec05b,EA Perry,be150fc8,0,0,0,0,0,,,,,,0,0,0
+1345428,2022/23,Australia,8,A Gardner,bc969efb,RS Gayakwad,237ec05b,EA Perry,be150fc8,1,0,0,0,0,,,,,,0,1,1
+1345428,2022/23,Australia,8,A Gardner,bc969efb,RS Gayakwad,237ec05b,EA Perry,be150fc8,0,0,0,0,0,,,,,,1,0,1
+1345428,2022/23,Australia,8,EA Perry,be150fc8,RS Gayakwad,237ec05b,A Gardner,bc969efb,0,0,0,0,0,,,,,,0,0,0
+1345428,2022/23,Australia,9,A Gardner,bc969efb,DP Vaidya,f9ded29b,EA Perry,be150fc8,0,0,0,0,0,,,,,,1,0,1
+1345428,2022/23,Australia,9,EA Perry,be150fc8,DP Vaidya,f9ded29b,A Gardner,bc969efb,0,0,0,0,0,,,,,,1,0,1
+1345428,2022/23,Australia,9,A Gardner,bc969efb,DP Vaidya,f9ded29b,EA Perry,be150fc8,0,0,0,0,0,,,,,,1,0,1
+1345428,2022/23,Australia,9,EA Perry,be150fc8,DP Vaidya,f9ded29b,A Gardner,bc969efb,0,0,0,0,1,EA Perry,be150fc8,H Deol,3664712e,caught,0,0,0
+1345428,2022/23,Australia,9,GM Harris,72166006,DP Vaidya,f9ded29b,A Gardner,bc969efb,0,0,0,0,0,,,,,,4,0,4
+1345428,2022/23,Australia,9,GM Harris,72166006,DP Vaidya,f9ded29b,A Gardner,bc969efb,0,0,0,0,0,,,,,,1,0,1
+1345428,2022/23,Australia,10,GM Harris,72166006,Shafali Verma,d8f59089,A Gardner,bc969efb,0,0,0,0,0,,,,,,4,0,4
+1345428,2022/23,Australia,10,GM Harris,72166006,Shafali Verma,d8f59089,A Gardner,bc969efb,0,0,0,0,0,,,,,,0,0,0
+1345428,2022/23,Australia,10,GM Harris,72166006,Shafali Verma,d8f59089,A Gardner,bc969efb,0,0,0,0,0,,,,,,0,0,0
+1345428,2022/23,Australia,10,GM Harris,72166006,Shafali Verma,d8f59089,A Gardner,bc969efb,0,0,0,0,0,,,,,,0,0,0
+1345428,2022/23,Australia,10,GM Harris,72166006,Shafali Verma,d8f59089,A Gardner,bc969efb,0,0,0,0,0,,,,,,1,0,1
+1345428,2022/23,Australia,10,A Gardner,bc969efb,Shafali Verma,d8f59089,GM Harris,72166006,0,0,0,0,0,,,,,,4,0,4
+1345428,2022/23,Australia,11,GM Harris,72166006,DP Vaidya,f9ded29b,A Gardner,bc969efb,0,0,0,0,0,,,,,,1,0,1
+1345428,2022/23,Australia,11,A Gardner,bc969efb,DP Vaidya,f9ded29b,GM Harris,72166006,0,0,0,0,0,,,,,,0,0,0
+1345428,2022/23,Australia,11,A Gardner,bc969efb,DP Vaidya,f9ded29b,GM Harris,72166006,0,0,0,0,0,,,,,,0,0,0
+1345428,2022/23,Australia,11,A Gardner,bc969efb,DP Vaidya,f9ded29b,GM Harris,72166006,0,0,0,0,0,,,,,,1,0,1
+1345428,2022/23,Australia,11,GM Harris,72166006,DP Vaidya,f9ded29b,A Gardner,bc969efb,0,0,0,0,0,,,,,,1,0,1
+1345428,2022/23,Australia,11,A Gardner,bc969efb,DP Vaidya,f9ded29b,GM Harris,72166006,0,0,0,0,0,,,,,,0,0,0
+1345428,2022/23,Australia,12,GM Harris,72166006,K Anjali Sarvani,fa0bf9d9,A Gardner,bc969efb,0,0,0,0,0,,,,,,1,0,1
+1345428,2022/23,Australia,12,A Gardner,bc969efb,K Anjali Sarvani,fa0bf9d9,GM Harris,72166006,0,0,0,0,0,,,,,,4,0,4
+1345428,2022/23,Australia,12,A Gardner,bc969efb,K Anjali Sarvani,fa0bf9d9,GM Harris,72166006,0,0,0,0,0,,,,,,4,0,4
+1345428,2022/23,Australia,12,A Gardner,bc969efb,K Anjali Sarvani,fa0bf9d9,GM Harris,72166006,0,0,0,0,0,,,,,,4,0,4
+1345428,2022/23,Australia,12,A Gardner,bc969efb,K Anjali Sarvani,fa0bf9d9,GM Harris,72166006,0,0,0,0,0,,,,,,4,0,4
+1345428,2022/23,Australia,12,A Gardner,bc969efb,K Anjali Sarvani,fa0bf9d9,GM Harris,72166006,0,0,0,0,0,,,,,,2,0,2
+1345428,2022/23,Australia,13,GM Harris,72166006,RS Gayakwad,237ec05b,A Gardner,bc969efb,0,0,0,0,0,,,,,,4,0,4
+1345428,2022/23,Australia,13,GM Harris,72166006,RS Gayakwad,237ec05b,A Gardner,bc969efb,0,0,0,0,0,,,,,,6,0,6
+1345428,2022/23,Australia,13,GM Harris,72166006,RS Gayakwad,237ec05b,A Gardner,bc969efb,0,0,0,0,0,,,,,,0,0,0
+1345428,2022/23,Australia,13,GM Harris,72166006,RS Gayakwad,237ec05b,A Gardner,bc969efb,0,0,0,0,0,,,,,,1,0,1
+1345428,2022/23,Australia,13,A Gardner,bc969efb,RS Gayakwad,237ec05b,GM Harris,72166006,0,0,0,0,0,,,,,,1,0,1
+1345428,2022/23,Australia,13,GM Harris,72166006,RS Gayakwad,237ec05b,A Gardner,bc969efb,0,0,0,0,0,,,,,,0,0,0
+1345428,2022/23,Australia,14,A Gardner,bc969efb,RP Yadav,6c3aef71,GM Harris,72166006,0,0,0,0,0,,,,,,1,0,1
+1345428,2022/23,Australia,14,GM Harris,72166006,RP Yadav,6c3aef71,A Gardner,bc969efb,0,0,0,0,0,,,,,,0,0,0
+1345428,2022/23,Australia,14,GM Harris,72166006,RP Yadav,6c3aef71,A Gardner,bc969efb,0,0,0,0,0,,,,,,6,0,6
+1345428,2022/23,Australia,14,GM Harris,72166006,RP Yadav,6c3aef71,A Gardner,bc969efb,0,0,0,0,0,,,,,,6,0,6
+1345428,2022/23,Australia,14,GM Harris,72166006,RP Yadav,6c3aef71,A Gardner,bc969efb,0,0,0,0,0,,,,,,0,0,0
+1345428,2022/23,Australia,14,GM Harris,72166006,RP Yadav,6c3aef71,A Gardner,bc969efb,0,0,0,0,0,,,,,,1,0,1
+1345428,2022/23,Australia,15,GM Harris,72166006,DP Vaidya,f9ded29b,A Gardner,bc969efb,0,0,0,0,0,,,,,,4,0,4
+1345428,2022/23,Australia,15,GM Harris,72166006,DP Vaidya,f9ded29b,A Gardner,bc969efb,0,0,0,0,0,,,,,,0,0,0
+1345428,2022/23,Australia,15,GM Harris,72166006,DP Vaidya,f9ded29b,A Gardner,bc969efb,0,0,0,0,0,,,,,,1,0,1
+1345428,2022/23,Australia,15,A Gardner,bc969efb,DP Vaidya,f9ded29b,GM Harris,72166006,0,0,0,0,0,,,,,,0,0,0
+1345428,2022/23,Australia,15,A Gardner,bc969efb,DP Vaidya,f9ded29b,GM Harris,72166006,0,0,0,0,0,,,,,,4,0,4
+1345428,2022/23,Australia,15,A Gardner,bc969efb,DP Vaidya,f9ded29b,GM Harris,72166006,0,0,0,0,0,,,,,,6,0,6
+1345428,2022/23,Australia,16,GM Harris,72166006,DB Sharma,201fef33,A Gardner,bc969efb,0,0,0,0,0,,,,,,4,0,4
+1345428,2022/23,Australia,16,GM Harris,72166006,DB Sharma,201fef33,A Gardner,bc969efb,0,0,0,0,0,,,,,,0,0,0
+1345428,2022/23,Australia,16,GM Harris,72166006,DB Sharma,201fef33,A Gardner,bc969efb,0,0,0,0,0,,,,,,1,0,1
+1345428,2022/23,Australia,16,A Gardner,bc969efb,DB Sharma,201fef33,GM Harris,72166006,0,0,0,0,0,,,,,,0,0,0
+1345428,2022/23,Australia,16,A Gardner,bc969efb,DB Sharma,201fef33,GM Harris,72166006,0,0,0,0,0,,,,,,4,0,4
+1345428,2022/23,Australia,16,A Gardner,bc969efb,DB Sharma,201fef33,GM Harris,72166006,0,0,0,0,0,,,,,,1,0,1
+1345428,2022/23,Australia,17,A Gardner,bc969efb,Renuka Singh,7298db76,GM Harris,72166006,0,0,0,0,0,,,,,,1,0,1
+1345428,2022/23,Australia,17,GM Harris,72166006,Renuka Singh,7298db76,A Gardner,bc969efb,0,0,0,4,0,,,,,,0,4,4
+1345428,2022/23,Australia,17,GM Harris,72166006,Renuka Singh,7298db76,A Gardner,bc969efb,0,0,0,0,0,,,,,,6,0,6
+1345428,2022/23,Australia,17,GM Harris,72166006,Renuka Singh,7298db76,A Gardner,bc969efb,0,0,0,0,0,,,,,,1,0,1
+1345428,2022/23,Australia,17,A Gardner,bc969efb,Renuka Singh,7298db76,GM Harris,72166006,0,0,0,0,0,,,,,,4,0,4
+1345428,2022/23,Australia,17,A Gardner,bc969efb,Renuka Singh,7298db76,GM Harris,72166006,0,0,0,0,0,,,,,,1,0,1
+1345428,2022/23,Australia,18,A Gardner,bc969efb,DB Sharma,201fef33,GM Harris,72166006,0,0,0,0,0,,,,,,4,0,4
+1345428,2022/23,Australia,18,A Gardner,bc969efb,DB Sharma,201fef33,GM Harris,72166006,0,0,0,0,0,,,,,,1,0,1
+1345428,2022/23,Australia,18,GM Harris,72166006,DB Sharma,201fef33,A Gardner,bc969efb,0,0,0,0,0,,,,,,0,0,0
+1345428,2022/23,Australia,18,GM Harris,72166006,DB Sharma,201fef33,A Gardner,bc969efb,0,0,0,0,0,,,,,,4,0,4
+1345428,2022/23,Australia,18,GM Harris,72166006,DB Sharma,201fef33,A Gardner,bc969efb,0,0,0,0,0,,,,,,4,0,4
+1345428,2022/23,Australia,18,GM Harris,72166006,DB Sharma,201fef33,A Gardner,bc969efb,0,0,0,0,0,,,,,,0,0,0
+1345428,2022/23,Australia,19,A Gardner,bc969efb,Renuka Singh,7298db76,GM Harris,72166006,0,0,0,0,0,,,,,,1,0,1
+1345428,2022/23,Australia,19,GM Harris,72166006,Renuka Singh,7298db76,A Gardner,bc969efb,0,0,0,0,0,,,,,,1,0,1
+1345428,2022/23,Australia,19,A Gardner,bc969efb,Renuka Singh,7298db76,GM Harris,72166006,0,0,0,0,0,,,,,,4,0,4
+1345428,2022/23,Australia,19,A Gardner,bc969efb,Renuka Singh,7298db76,GM Harris,72166006,0,0,0,0,0,,,,,,4,0,4
+1345428,2022/23,Australia,19,A Gardner,bc969efb,Renuka Singh,7298db76,GM Harris,72166006,0,0,0,0,0,,,,,,1,0,1
+1345428,2022/23,Australia,19,GM Harris,72166006,Renuka Singh,7298db76,A Gardner,bc969efb,0,0,0,0,0,,,,,,1,0,1
+1345428,2022/23,India,0,S Mandhana,5d2eda89,D Brown,2e81be88,Shafali Verma,d8f59089,0,0,0,0,0,,,,,,4,0,4
+1345428,2022/23,India,0,S Mandhana,5d2eda89,D Brown,2e81be88,Shafali Verma,d8f59089,0,0,0,0,0,,,,,,0,0,0
+1345428,2022/23,India,0,S Mandhana,5d2eda89,D Brown,2e81be88,Shafali Verma,d8f59089,0,0,0,0,0,,,,,,0,0,0
+1345428,2022/23,India,0,S Mandhana,5d2eda89,D Brown,2e81be88,Shafali Verma,d8f59089,0,0,0,0,1,S Mandhana,5d2eda89,GM Harris,72166006,caught,0,0,0
+1345428,2022/23,India,0,H Deol,3664712e,D Brown,2e81be88,Shafali Verma,d8f59089,0,0,0,0,0,,,,,,4,0,4
+1345428,2022/23,India,0,H Deol,3664712e,D Brown,2e81be88,Shafali Verma,d8f59089,0,0,0,0,0,,,,,,0,0,0
+1345428,2022/23,India,1,Shafali Verma,d8f59089,KJ Garth,0b69a844,H Deol,3664712e,0,0,0,0,0,,,,,,0,0,0
+1345428,2022/23,India,1,Shafali Verma,d8f59089,KJ Garth,0b69a844,H Deol,3664712e,1,0,0,0,0,,,,,,0,1,1
+1345428,2022/23,India,1,Shafali Verma,d8f59089,KJ Garth,0b69a844,H Deol,3664712e,0,0,0,0,0,,,,,,0,0,0
+1345428,2022/23,India,1,Shafali Verma,d8f59089,KJ Garth,0b69a844,H Deol,3664712e,0,0,0,0,0,,,,,,0,0,0
+1345428,2022/23,India,1,Shafali Verma,d8f59089,KJ Garth,0b69a844,H Deol,3664712e,0,0,0,0,0,,,,,,4,0,4
+1345428,2022/23,India,1,Shafali Verma,d8f59089,KJ Garth,0b69a844,H Deol,3664712e,0,0,0,0,0,,,,,,0,0,0
+1345428,2022/23,India,1,Shafali Verma,d8f59089,KJ Garth,0b69a844,H Deol,3664712e,0,0,0,0,0,,,,,,1,0,1
+1345428,2022/23,India,2,Shafali Verma,d8f59089,D Brown,2e81be88,H Deol,3664712e,0,0,0,0,0,,,,,,0,0,0
+1345428,2022/23,India,2,Shafali Verma,d8f59089,D Brown,2e81be88,H Deol,3664712e,0,0,0,0,0,,,,,,3,0,3
+1345428,2022/23,India,2,H Deol,3664712e,D Brown,2e81be88,Shafali Verma,d8f59089,0,0,0,0,0,,,,,,0,0,0
+1345428,2022/23,India,2,H Deol,3664712e,D Brown,2e81be88,Shafali Verma,d8f59089,0,0,0,0,0,,,,,,0,0,0
+1345428,2022/23,India,2,H Deol,3664712e,D Brown,2e81be88,Shafali Verma,d8f59089,0,0,0,0,0,,,,,,0,0,0
+1345428,2022/23,India,2,H Deol,3664712e,D Brown,2e81be88,Shafali Verma,d8f59089,0,0,0,0,0,,,,,,0,0,0
+1345428,2022/23,India,3,Shafali Verma,d8f59089,KJ Garth,0b69a844,H Deol,3664712e,0,0,0,0,0,,,,,,0,0,0
+1345428,2022/23,India,3,Shafali Verma,d8f59089,KJ Garth,0b69a844,H Deol,3664712e,0,0,0,0,0,,,,,,0,0,0
+1345428,2022/23,India,3,Shafali Verma,d8f59089,KJ Garth,0b69a844,H Deol,3664712e,0,0,0,0,0,,,,,,1,0,1
+1345428,2022/23,India,3,H Deol,3664712e,KJ Garth,0b69a844,Shafali Verma,d8f59089,0,0,0,0,0,,,,,,1,0,1
+1345428,2022/23,India,3,Shafali Verma,d8f59089,KJ Garth,0b69a844,H Deol,3664712e,0,0,0,0,0,,,,,,4,0,4
+1345428,2022/23,India,3,Shafali Verma,d8f59089,KJ Garth,0b69a844,H Deol,3664712e,0,0,0,0,0,,,,,,0,0,0
+1345428,2022/23,India,4,H Deol,3664712e,A Gardner,bc969efb,Shafali Verma,d8f59089,0,0,0,0,0,,,,,,1,0,1
+1345428,2022/23,India,4,Shafali Verma,d8f59089,A Gardner,bc969efb,H Deol,3664712e,0,0,0,0,1,Shafali Verma,d8f59089,A Sutherland,65d9b6b6,caught,0,0,0
+1345428,2022/23,India,4,H Kaur,53cd8da6,A Gardner,bc969efb,H Deol,3664712e,0,0,0,0,0,,,,,,1,0,1
+1345428,2022/23,India,4,H Deol,3664712e,A Gardner,bc969efb,H Kaur,53cd8da6,0,0,0,0,0,,,,,,0,0,0
+1345428,2022/23,India,4,H Deol,3664712e,A Gardner,bc969efb,H Kaur,53cd8da6,0,0,0,0,0,,,,,,4,0,4
+1345428,2022/23,India,4,H Deol,3664712e,A Gardner,bc969efb,H Kaur,53cd8da6,0,0,0,0,0,,,,,,6,0,6
+1345428,2022/23,India,5,H Kaur,53cd8da6,D Brown,2e81be88,H Deol,3664712e,1,0,0,0,0,,,,,,0,1,1
+1345428,2022/23,India,5,H Kaur,53cd8da6,D Brown,2e81be88,H Deol,3664712e,0,0,0,0,0,,,,,,0,0,0
+1345428,2022/23,India,5,H Kaur,53cd8da6,D Brown,2e81be88,H Deol,3664712e,0,0,0,0,0,,,,,,1,0,1
+1345428,2022/23,India,5,H Deol,3664712e,D Brown,2e81be88,H Kaur,53cd8da6,0,0,0,0,0,,,,,,4,0,4
+1345428,2022/23,India,5,H Deol,3664712e,D Brown,2e81be88,H Kaur,53cd8da6,1,0,0,0,0,,,,,,0,1,1
+1345428,2022/23,India,5,H Deol,3664712e,D Brown,2e81be88,H Kaur,53cd8da6,0,0,0,0,0,,,,,,0,0,0
+1345428,2022/23,India,5,H Deol,3664712e,D Brown,2e81be88,H Kaur,53cd8da6,0,0,0,0,0,,,,,,4,0,4
+1345428,2022/23,India,5,H Deol,3664712e,D Brown,2e81be88,H Kaur,53cd8da6,0,0,0,0,0,,,,,,0,0,0
+1345428,2022/23,India,6,H Kaur,53cd8da6,A King,83558266,H Deol,3664712e,0,0,0,0,0,,,,,,1,0,1
+1345428,2022/23,India,6,H Deol,3664712e,A King,83558266,H Kaur,53cd8da6,0,0,0,0,1,H Deol,3664712e,BL Mooney,52d1dbc8,run out,0,0,0
+1345428,2022/23,India,6,RM Ghosh,721e0199,A King,83558266,H Kaur,53cd8da6,0,0,0,0,0,,,,,,0,0,0
+1345428,2022/23,India,6,RM Ghosh,721e0199,A King,83558266,H Kaur,53cd8da6,0,0,0,0,0,,,,,,1,0,1
+1345428,2022/23,India,6,H Kaur,53cd8da6,A King,83558266,RM Ghosh,721e0199,0,0,0,0,0,,,,,,1,0,1
+1345428,2022/23,India,6,RM Ghosh,721e0199,A King,83558266,H Kaur,53cd8da6,0,0,0,0,0,,,,,,0,0,0
+1345428,2022/23,India,7,H Kaur,53cd8da6,TM McGrath,ca5acfa4,RM Ghosh,721e0199,0,0,0,0,0,,,,,,4,0,4
+1345428,2022/23,India,7,H Kaur,53cd8da6,TM McGrath,ca5acfa4,RM Ghosh,721e0199,0,0,0,0,0,,,,,,0,0,0
+1345428,2022/23,India,7,H Kaur,53cd8da6,TM McGrath,ca5acfa4,RM Ghosh,721e0199,0,0,0,0,0,,,,,,2,0,2
+1345428,2022/23,India,7,H Kaur,53cd8da6,TM McGrath,ca5acfa4,RM Ghosh,721e0199,0,0,0,0,0,,,,,,1,0,1
+1345428,2022/23,India,7,RM Ghosh,721e0199,TM McGrath,ca5acfa4,H Kaur,53cd8da6,0,0,0,0,0,,,,,,1,0,1
+1345428,2022/23,India,7,H Kaur,53cd8da6,TM McGrath,ca5acfa4,RM Ghosh,721e0199,0,0,0,0,0,,,,,,1,0,1
+1345428,2022/23,India,8,H Kaur,53cd8da6,A Sutherland,65d9b6b6,RM Ghosh,721e0199,0,0,0,0,1,H Kaur,53cd8da6,,,lbw,0,0,0
+1345428,2022/23,India,8,DB Sharma,201fef33,A Sutherland,65d9b6b6,RM Ghosh,721e0199,0,0,0,0,0,,,,,,0,0,0
+1345428,2022/23,India,8,DB Sharma,201fef33,A Sutherland,65d9b6b6,RM Ghosh,721e0199,0,0,0,0,0,,,,,,1,0,1
+1345428,2022/23,India,8,RM Ghosh,721e0199,A Sutherland,65d9b6b6,DB Sharma,201fef33,1,0,0,0,0,,,,,,0,1,1
+1345428,2022/23,India,8,RM Ghosh,721e0199,A Sutherland,65d9b6b6,DB Sharma,201fef33,0,1,0,0,0,,,,,,0,1,1
+1345428,2022/23,India,8,RM Ghosh,721e0199,A Sutherland,65d9b6b6,DB Sharma,201fef33,0,0,0,0,0,,,,,,4,0,4
+1345428,2022/23,India,8,RM Ghosh,721e0199,A Sutherland,65d9b6b6,DB Sharma,201fef33,0,0,0,0,0,,,,,,4,0,4
+1345428,2022/23,India,8,RM Ghosh,721e0199,A Sutherland,65d9b6b6,DB Sharma,201fef33,0,0,0,0,0,,,,,,0,0,0
+1345428,2022/23,India,9,DB Sharma,201fef33,A Gardner,bc969efb,RM Ghosh,721e0199,0,0,0,0,0,,,,,,1,0,1
+1345428,2022/23,India,9,RM Ghosh,721e0199,A Gardner,bc969efb,DB Sharma,201fef33,0,0,0,0,1,RM Ghosh,721e0199,H Graham,99812d10,caught,0,0,0
+1345428,2022/23,India,9,DP Vaidya,f9ded29b,A Gardner,bc969efb,DB Sharma,201fef33,0,0,0,0,0,,,,,,0,0,0
+1345428,2022/23,India,9,DP Vaidya,f9ded29b,A Gardner,bc969efb,DB Sharma,201fef33,0,0,0,0,0,,,,,,0,0,0
+1345428,2022/23,India,9,DP Vaidya,f9ded29b,A Gardner,bc969efb,DB Sharma,201fef33,0,0,0,0,0,,,,,,0,0,0
+1345428,2022/23,India,9,DP Vaidya,f9ded29b,A Gardner,bc969efb,DB Sharma,201fef33,0,0,0,0,0,,,,,,1,0,1
+1345428,2022/23,India,10,DP Vaidya,f9ded29b,A King,83558266,DB Sharma,201fef33,0,0,0,0,0,,,,,,1,0,1
+1345428,2022/23,India,10,DB Sharma,201fef33,A King,83558266,DP Vaidya,f9ded29b,0,0,0,0,0,,,,,,1,0,1
+1345428,2022/23,India,10,DP Vaidya,f9ded29b,A King,83558266,DB Sharma,201fef33,0,0,0,0,0,,,,,,1,0,1
+1345428,2022/23,India,10,DB Sharma,201fef33,A King,83558266,DP Vaidya,f9ded29b,0,0,0,0,0,,,,,,0,0,0
+1345428,2022/23,India,10,DB Sharma,201fef33,A King,83558266,DP Vaidya,f9ded29b,0,0,0,0,0,,,,,,1,0,1
+1345428,2022/23,India,10,DP Vaidya,f9ded29b,A King,83558266,DB Sharma,201fef33,0,0,0,0,0,,,,,,1,0,1
+1345428,2022/23,India,11,DP Vaidya,f9ded29b,KJ Garth,0b69a844,DB Sharma,201fef33,0,0,0,0,0,,,,,,1,0,1
+1345428,2022/23,India,11,DB Sharma,201fef33,KJ Garth,0b69a844,DP Vaidya,f9ded29b,1,0,0,0,0,,,,,,0,1,1
+1345428,2022/23,India,11,DB Sharma,201fef33,KJ Garth,0b69a844,DP Vaidya,f9ded29b,0,0,0,0,0,,,,,,1,0,1
+1345428,2022/23,India,11,DP Vaidya,f9ded29b,KJ Garth,0b69a844,DB Sharma,201fef33,0,0,0,0,0,,,,,,4,0,4
+1345428,2022/23,India,11,DP Vaidya,f9ded29b,KJ Garth,0b69a844,DB Sharma,201fef33,0,0,0,0,0,,,,,,1,0,1
+1345428,2022/23,India,11,DB Sharma,201fef33,KJ Garth,0b69a844,DP Vaidya,f9ded29b,0,0,0,0,0,,,,,,1,0,1
+1345428,2022/23,India,11,DP Vaidya,f9ded29b,KJ Garth,0b69a844,DB Sharma,201fef33,0,0,0,0,0,,,,,,0,0,0
+1345428,2022/23,India,12,DB Sharma,201fef33,H Graham,99812d10,DP Vaidya,f9ded29b,0,0,0,0,0,,,,,,1,0,1
+1345428,2022/23,India,12,DP Vaidya,f9ded29b,H Graham,99812d10,DB Sharma,201fef33,0,0,0,0,0,,,,,,0,0,0
+1345428,2022/23,India,12,DP Vaidya,f9ded29b,H Graham,99812d10,DB Sharma,201fef33,0,0,0,0,0,,,,,,1,0,1
+1345428,2022/23,India,12,DB Sharma,201fef33,H Graham,99812d10,DP Vaidya,f9ded29b,0,0,0,0,0,,,,,,1,0,1
+1345428,2022/23,India,12,DP Vaidya,f9ded29b,H Graham,99812d10,DB Sharma,201fef33,0,0,0,0,1,DP Vaidya,f9ded29b,BL Mooney,52d1dbc8,stumped,0,0,0
+1345428,2022/23,India,12,RP Yadav,6c3aef71,H Graham,99812d10,DB Sharma,201fef33,0,0,0,0,1,RP Yadav,6c3aef71,,,bowled,0,0,0
+1345428,2022/23,India,13,DB Sharma,201fef33,A Gardner,bc969efb,K Anjali Sarvani,fa0bf9d9,0,0,0,0,0,,,,,,0,0,0
+1345428,2022/23,India,13,DB Sharma,201fef33,A Gardner,bc969efb,K Anjali Sarvani,fa0bf9d9,0,0,0,0,0,,,,,,0,0,0
+1345428,2022/23,India,13,DB Sharma,201fef33,A Gardner,bc969efb,K Anjali Sarvani,fa0bf9d9,0,0,0,0,0,,,,,,0,0,0
+1345428,2022/23,India,13,DB Sharma,201fef33,A Gardner,bc969efb,K Anjali Sarvani,fa0bf9d9,0,0,0,0,0,,,,,,0,0,0
+1345428,2022/23,India,13,DB Sharma,201fef33,A Gardner,bc969efb,K Anjali Sarvani,fa0bf9d9,0,0,0,0,0,,,,,,4,0,4
+1345428,2022/23,India,13,DB Sharma,201fef33,A Gardner,bc969efb,K Anjali Sarvani,fa0bf9d9,0,0,0,0,0,,,,,,0,0,0
+1345428,2022/23,India,14,K Anjali Sarvani,fa0bf9d9,A King,83558266,DB Sharma,201fef33,0,0,0,0,0,,,,,,1,0,1
+1345428,2022/23,India,14,DB Sharma,201fef33,A King,83558266,K Anjali Sarvani,fa0bf9d9,0,0,0,0,0,,,,,,1,0,1
+1345428,2022/23,India,14,K Anjali Sarvani,fa0bf9d9,A King,83558266,DB Sharma,201fef33,0,0,0,0,0,,,,,,0,0,0
+1345428,2022/23,India,14,K Anjali Sarvani,fa0bf9d9,A King,83558266,DB Sharma,201fef33,0,0,0,0,0,,,,,,1,0,1
+1345428,2022/23,India,14,DB Sharma,201fef33,A King,83558266,K Anjali Sarvani,fa0bf9d9,0,0,0,0,0,,,,,,4,0,4
+1345428,2022/23,India,14,DB Sharma,201fef33,A King,83558266,K Anjali Sarvani,fa0bf9d9,0,0,0,0,0,,,,,,1,0,1
+1345428,2022/23,India,15,DB Sharma,201fef33,D Brown,2e81be88,K Anjali Sarvani,fa0bf9d9,0,0,0,0,0,,,,,,0,0,0
+1345428,2022/23,India,15,DB Sharma,201fef33,D Brown,2e81be88,K Anjali Sarvani,fa0bf9d9,0,0,0,0,0,,,,,,6,0,6
+1345428,2022/23,India,15,DB Sharma,201fef33,D Brown,2e81be88,K Anjali Sarvani,fa0bf9d9,1,0,0,0,0,,,,,,0,1,1
+1345428,2022/23,India,15,DB Sharma,201fef33,D Brown,2e81be88,K Anjali Sarvani,fa0bf9d9,1,0,0,0,0,,,,,,0,1,1
+1345428,2022/23,India,15,DB Sharma,201fef33,D Brown,2e81be88,K Anjali Sarvani,fa0bf9d9,0,0,0,0,0,,,,,,1,0,1
+1345428,2022/23,India,15,K Anjali Sarvani,fa0bf9d9,D Brown,2e81be88,DB Sharma,201fef33,0,0,0,0,0,,,,,,0,0,0
+1345428,2022/23,India,15,K Anjali Sarvani,fa0bf9d9,D Brown,2e81be88,DB Sharma,201fef33,0,0,0,0,0,,,,,,0,0,0
+1345428,2022/23,India,15,K Anjali Sarvani,fa0bf9d9,D Brown,2e81be88,DB Sharma,201fef33,0,0,0,0,0,,,,,,0,0,0
+1345428,2022/23,India,16,DB Sharma,201fef33,A King,83558266,K Anjali Sarvani,fa0bf9d9,0,0,0,0,0,,,,,,4,0,4
+1345428,2022/23,India,16,DB Sharma,201fef33,A King,83558266,K Anjali Sarvani,fa0bf9d9,0,0,0,0,0,,,,,,4,0,4
+1345428,2022/23,India,16,DB Sharma,201fef33,A King,83558266,K Anjali Sarvani,fa0bf9d9,0,0,0,0,0,,,,,,4,0,4
+1345428,2022/23,India,16,DB Sharma,201fef33,A King,83558266,K Anjali Sarvani,fa0bf9d9,0,0,0,0,0,,,,,,1,0,1
+1345428,2022/23,India,16,K Anjali Sarvani,fa0bf9d9,A King,83558266,DB Sharma,201fef33,0,0,0,0,0,,,,,,1,0,1
+1345428,2022/23,India,16,DB Sharma,201fef33,A King,83558266,K Anjali Sarvani,fa0bf9d9,0,0,0,0,0,,,,,,4,0,4
+1345428,2022/23,India,17,K Anjali Sarvani,fa0bf9d9,A Gardner,bc969efb,DB Sharma,201fef33,0,0,0,0,0,,,,,,0,0,0
+1345428,2022/23,India,17,K Anjali Sarvani,fa0bf9d9,A Gardner,bc969efb,DB Sharma,201fef33,0,0,0,0,0,,,,,,0,0,0
+1345428,2022/23,India,17,K Anjali Sarvani,fa0bf9d9,A Gardner,bc969efb,DB Sharma,201fef33,0,0,0,0,0,,,,,,0,0,0
+1345428,2022/23,India,17,K Anjali Sarvani,fa0bf9d9,A Gardner,bc969efb,DB Sharma,201fef33,0,0,0,0,0,,,,,,1,0,1
+1345428,2022/23,India,17,DB Sharma,201fef33,A Gardner,bc969efb,K Anjali Sarvani,fa0bf9d9,0,0,0,0,0,,,,,,0,0,0
+1345428,2022/23,India,17,DB Sharma,201fef33,A Gardner,bc969efb,K Anjali Sarvani,fa0bf9d9,0,0,0,0,0,,,,,,1,0,1
+1345428,2022/23,India,18,DB Sharma,201fef33,TM McGrath,ca5acfa4,K Anjali Sarvani,fa0bf9d9,0,0,0,0,0,,,,,,1,0,1
+1345428,2022/23,India,18,K Anjali Sarvani,fa0bf9d9,TM McGrath,ca5acfa4,DB Sharma,201fef33,0,0,0,0,1,K Anjali Sarvani,fa0bf9d9,A Gardner,bc969efb,caught,0,0,0
+1345428,2022/23,India,18,Renuka Singh,7298db76,TM McGrath,ca5acfa4,DB Sharma,201fef33,0,0,0,0,0,,,,,,1,0,1
+1345428,2022/23,India,18,DB Sharma,201fef33,TM McGrath,ca5acfa4,Renuka Singh,7298db76,0,0,0,0,0,,,,,,1,0,1
+1345428,2022/23,India,18,Renuka Singh,7298db76,TM McGrath,ca5acfa4,DB Sharma,201fef33,0,0,0,0,0,,,,,,1,0,1
+1345428,2022/23,India,18,DB Sharma,201fef33,TM McGrath,ca5acfa4,Renuka Singh,7298db76,0,0,0,0,0,,,,,,4,0,4
+1345428,2022/23,India,19,Renuka Singh,7298db76,H Graham,99812d10,DB Sharma,201fef33,0,0,0,0,1,Renuka Singh,7298db76,,,bowled,0,0,0
+1345428,2022/23,India,19,RS Gayakwad,237ec05b,H Graham,99812d10,DB Sharma,201fef33,0,0,0,0,0,,,,,,0,0,0
+1345428,2022/23,India,19,RS Gayakwad,237ec05b,H Graham,99812d10,DB Sharma,201fef33,0,0,0,0,0,,,,,,0,0,0
+1345428,2022/23,India,19,RS Gayakwad,237ec05b,H Graham,99812d10,DB Sharma,201fef33,0,0,0,0,0,,,,,,1,0,1
+1345428,2022/23,India,19,DB Sharma,201fef33,H Graham,99812d10,RS Gayakwad,237ec05b,0,0,0,0,0,,,,,,4,0,4
+1345428,2022/23,India,19,DB Sharma,201fef33,H Graham,99812d10,RS Gayakwad,237ec05b,0,0,0,0,1,DB Sharma,201fef33,A Gardner,bc969efb,caught,0,0,0

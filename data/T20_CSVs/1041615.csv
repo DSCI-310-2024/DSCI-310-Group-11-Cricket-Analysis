@@ -1,0 +1,251 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1041615,2016,West Indies,0,J Charles,09a9d073,Mohammed Shami,8cf9814c,E Lewis,0ebfb1ad,1,0,0,0,0,,,,,,0,1,1
+1041615,2016,West Indies,0,J Charles,09a9d073,Mohammed Shami,8cf9814c,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,0,0,0
+1041615,2016,West Indies,0,J Charles,09a9d073,Mohammed Shami,8cf9814c,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,6,0,6
+1041615,2016,West Indies,0,J Charles,09a9d073,Mohammed Shami,8cf9814c,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,4,0,4
+1041615,2016,West Indies,0,J Charles,09a9d073,Mohammed Shami,8cf9814c,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,1,0,1
+1041615,2016,West Indies,0,E Lewis,0ebfb1ad,Mohammed Shami,8cf9814c,J Charles,09a9d073,0,0,0,0,0,,,,,,1,0,1
+1041615,2016,West Indies,0,J Charles,09a9d073,Mohammed Shami,8cf9814c,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,4,0,4
+1041615,2016,West Indies,1,E Lewis,0ebfb1ad,B Kumar,2e81a32d,J Charles,09a9d073,0,0,0,0,0,,,,,,0,0,0
+1041615,2016,West Indies,1,E Lewis,0ebfb1ad,B Kumar,2e81a32d,J Charles,09a9d073,0,0,0,0,0,,,,,,1,0,1
+1041615,2016,West Indies,1,J Charles,09a9d073,B Kumar,2e81a32d,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,0,0,0
+1041615,2016,West Indies,1,J Charles,09a9d073,B Kumar,2e81a32d,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,4,0,4
+1041615,2016,West Indies,1,J Charles,09a9d073,B Kumar,2e81a32d,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,0,0,0
+1041615,2016,West Indies,1,J Charles,09a9d073,B Kumar,2e81a32d,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,2,0,2
+1041615,2016,West Indies,2,E Lewis,0ebfb1ad,JJ Bumrah,462411b3,J Charles,09a9d073,0,0,0,0,0,,,,,,0,0,0
+1041615,2016,West Indies,2,E Lewis,0ebfb1ad,JJ Bumrah,462411b3,J Charles,09a9d073,0,0,0,0,0,,,,,,2,0,2
+1041615,2016,West Indies,2,E Lewis,0ebfb1ad,JJ Bumrah,462411b3,J Charles,09a9d073,0,0,0,0,0,,,,,,4,0,4
+1041615,2016,West Indies,2,E Lewis,0ebfb1ad,JJ Bumrah,462411b3,J Charles,09a9d073,0,0,0,0,0,,,,,,2,0,2
+1041615,2016,West Indies,2,E Lewis,0ebfb1ad,JJ Bumrah,462411b3,J Charles,09a9d073,0,0,0,0,0,,,,,,1,0,1
+1041615,2016,West Indies,2,J Charles,09a9d073,JJ Bumrah,462411b3,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,0,0,0
+1041615,2016,West Indies,3,E Lewis,0ebfb1ad,B Kumar,2e81a32d,J Charles,09a9d073,0,0,0,0,0,,,,,,0,0,0
+1041615,2016,West Indies,3,E Lewis,0ebfb1ad,B Kumar,2e81a32d,J Charles,09a9d073,0,0,0,0,0,,,,,,2,0,2
+1041615,2016,West Indies,3,E Lewis,0ebfb1ad,B Kumar,2e81a32d,J Charles,09a9d073,0,0,0,0,0,,,,,,1,0,1
+1041615,2016,West Indies,3,J Charles,09a9d073,B Kumar,2e81a32d,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,4,0,4
+1041615,2016,West Indies,3,J Charles,09a9d073,B Kumar,2e81a32d,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,4,0,4
+1041615,2016,West Indies,3,J Charles,09a9d073,B Kumar,2e81a32d,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,2,0,2
+1041615,2016,West Indies,4,E Lewis,0ebfb1ad,JJ Bumrah,462411b3,J Charles,09a9d073,0,0,0,0,0,,,,,,6,0,6
+1041615,2016,West Indies,4,E Lewis,0ebfb1ad,JJ Bumrah,462411b3,J Charles,09a9d073,0,0,0,0,0,,,,,,4,0,4
+1041615,2016,West Indies,4,E Lewis,0ebfb1ad,JJ Bumrah,462411b3,J Charles,09a9d073,0,0,0,0,0,,,,,,1,0,1
+1041615,2016,West Indies,4,J Charles,09a9d073,JJ Bumrah,462411b3,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,0,0,0
+1041615,2016,West Indies,4,J Charles,09a9d073,JJ Bumrah,462411b3,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,6,0,6
+1041615,2016,West Indies,4,J Charles,09a9d073,JJ Bumrah,462411b3,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,1,0,1
+1041615,2016,West Indies,5,J Charles,09a9d073,R Ashwin,495d42a5,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,0,0,0
+1041615,2016,West Indies,5,J Charles,09a9d073,R Ashwin,495d42a5,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,1,0,1
+1041615,2016,West Indies,5,E Lewis,0ebfb1ad,R Ashwin,495d42a5,J Charles,09a9d073,0,0,0,0,0,,,,,,1,0,1
+1041615,2016,West Indies,5,J Charles,09a9d073,R Ashwin,495d42a5,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,6,0,6
+1041615,2016,West Indies,5,J Charles,09a9d073,R Ashwin,495d42a5,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,6,0,6
+1041615,2016,West Indies,5,J Charles,09a9d073,R Ashwin,495d42a5,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,0,0,0
+1041615,2016,West Indies,6,E Lewis,0ebfb1ad,RA Jadeja,fe93fd9d,J Charles,09a9d073,0,0,0,0,0,,,,,,6,0,6
+1041615,2016,West Indies,6,E Lewis,0ebfb1ad,RA Jadeja,fe93fd9d,J Charles,09a9d073,0,0,0,0,0,,,,,,6,0,6
+1041615,2016,West Indies,6,E Lewis,0ebfb1ad,RA Jadeja,fe93fd9d,J Charles,09a9d073,0,0,0,0,0,,,,,,0,0,0
+1041615,2016,West Indies,6,E Lewis,0ebfb1ad,RA Jadeja,fe93fd9d,J Charles,09a9d073,0,0,0,0,0,,,,,,0,0,0
+1041615,2016,West Indies,6,E Lewis,0ebfb1ad,RA Jadeja,fe93fd9d,J Charles,09a9d073,0,0,0,0,0,,,,,,1,0,1
+1041615,2016,West Indies,6,J Charles,09a9d073,RA Jadeja,fe93fd9d,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,0,0,0
+1041615,2016,West Indies,7,E Lewis,0ebfb1ad,R Ashwin,495d42a5,J Charles,09a9d073,0,0,0,0,0,,,,,,1,0,1
+1041615,2016,West Indies,7,J Charles,09a9d073,R Ashwin,495d42a5,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,6,0,6
+1041615,2016,West Indies,7,J Charles,09a9d073,R Ashwin,495d42a5,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,0,0,0
+1041615,2016,West Indies,7,J Charles,09a9d073,R Ashwin,495d42a5,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,2,0,2
+1041615,2016,West Indies,7,J Charles,09a9d073,R Ashwin,495d42a5,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,0,0,0
+1041615,2016,West Indies,7,J Charles,09a9d073,R Ashwin,495d42a5,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,1,0,1
+1041615,2016,West Indies,8,J Charles,09a9d073,RA Jadeja,fe93fd9d,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,4,0,4
+1041615,2016,West Indies,8,J Charles,09a9d073,RA Jadeja,fe93fd9d,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,6,0,6
+1041615,2016,West Indies,8,J Charles,09a9d073,RA Jadeja,fe93fd9d,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,2,0,2
+1041615,2016,West Indies,8,J Charles,09a9d073,RA Jadeja,fe93fd9d,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,1,0,1
+1041615,2016,West Indies,8,E Lewis,0ebfb1ad,RA Jadeja,fe93fd9d,J Charles,09a9d073,0,0,0,0,0,,,,,,1,0,1
+1041615,2016,West Indies,8,J Charles,09a9d073,RA Jadeja,fe93fd9d,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,6,0,6
+1041615,2016,West Indies,9,E Lewis,0ebfb1ad,Mohammed Shami,8cf9814c,J Charles,09a9d073,0,0,0,0,0,,,,,,4,0,4
+1041615,2016,West Indies,9,E Lewis,0ebfb1ad,Mohammed Shami,8cf9814c,J Charles,09a9d073,0,0,0,0,0,,,,,,1,0,1
+1041615,2016,West Indies,9,J Charles,09a9d073,Mohammed Shami,8cf9814c,E Lewis,0ebfb1ad,0,0,0,0,1,J Charles,09a9d073,,,bowled,0,0,0
+1041615,2016,West Indies,9,AD Russell,bbd41817,Mohammed Shami,8cf9814c,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,1,0,1
+1041615,2016,West Indies,9,E Lewis,0ebfb1ad,Mohammed Shami,8cf9814c,AD Russell,bbd41817,0,0,0,0,0,,,,,,4,0,4
+1041615,2016,West Indies,9,E Lewis,0ebfb1ad,Mohammed Shami,8cf9814c,AD Russell,bbd41817,0,0,0,0,0,,,,,,1,0,1
+1041615,2016,West Indies,10,E Lewis,0ebfb1ad,STR Binny,bd17b45f,AD Russell,bbd41817,0,0,0,0,0,,,,,,6,0,6
+1041615,2016,West Indies,10,E Lewis,0ebfb1ad,STR Binny,bd17b45f,AD Russell,bbd41817,0,0,0,0,0,,,,,,6,0,6
+1041615,2016,West Indies,10,E Lewis,0ebfb1ad,STR Binny,bd17b45f,AD Russell,bbd41817,1,0,0,0,0,,,,,,0,1,1
+1041615,2016,West Indies,10,E Lewis,0ebfb1ad,STR Binny,bd17b45f,AD Russell,bbd41817,0,0,0,0,0,,,,,,6,0,6
+1041615,2016,West Indies,10,E Lewis,0ebfb1ad,STR Binny,bd17b45f,AD Russell,bbd41817,0,0,0,0,0,,,,,,6,0,6
+1041615,2016,West Indies,10,E Lewis,0ebfb1ad,STR Binny,bd17b45f,AD Russell,bbd41817,0,0,0,0,0,,,,,,6,0,6
+1041615,2016,West Indies,10,E Lewis,0ebfb1ad,STR Binny,bd17b45f,AD Russell,bbd41817,0,0,0,0,0,,,,,,1,0,1
+1041615,2016,West Indies,11,E Lewis,0ebfb1ad,R Ashwin,495d42a5,AD Russell,bbd41817,0,0,0,0,0,,,,,,2,0,2
+1041615,2016,West Indies,11,E Lewis,0ebfb1ad,R Ashwin,495d42a5,AD Russell,bbd41817,0,0,0,0,0,,,,,,0,0,0
+1041615,2016,West Indies,11,E Lewis,0ebfb1ad,R Ashwin,495d42a5,AD Russell,bbd41817,0,0,0,0,0,,,,,,0,0,0
+1041615,2016,West Indies,11,E Lewis,0ebfb1ad,R Ashwin,495d42a5,AD Russell,bbd41817,0,0,0,0,0,,,,,,1,0,1
+1041615,2016,West Indies,11,AD Russell,bbd41817,R Ashwin,495d42a5,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,1,0,1
+1041615,2016,West Indies,11,E Lewis,0ebfb1ad,R Ashwin,495d42a5,AD Russell,bbd41817,0,0,0,0,0,,,,,,0,0,0
+1041615,2016,West Indies,12,AD Russell,bbd41817,B Kumar,2e81a32d,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,1,0,1
+1041615,2016,West Indies,12,E Lewis,0ebfb1ad,B Kumar,2e81a32d,AD Russell,bbd41817,0,0,0,0,0,,,,,,0,0,0
+1041615,2016,West Indies,12,E Lewis,0ebfb1ad,B Kumar,2e81a32d,AD Russell,bbd41817,0,0,0,0,0,,,,,,4,0,4
+1041615,2016,West Indies,12,E Lewis,0ebfb1ad,B Kumar,2e81a32d,AD Russell,bbd41817,0,0,0,0,0,,,,,,1,0,1
+1041615,2016,West Indies,12,AD Russell,bbd41817,B Kumar,2e81a32d,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,6,0,6
+1041615,2016,West Indies,12,AD Russell,bbd41817,B Kumar,2e81a32d,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,1,0,1
+1041615,2016,West Indies,13,AD Russell,bbd41817,R Ashwin,495d42a5,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,1,0,1
+1041615,2016,West Indies,13,E Lewis,0ebfb1ad,R Ashwin,495d42a5,AD Russell,bbd41817,0,0,0,0,0,,,,,,0,0,0
+1041615,2016,West Indies,13,E Lewis,0ebfb1ad,R Ashwin,495d42a5,AD Russell,bbd41817,0,0,0,0,0,,,,,,0,0,0
+1041615,2016,West Indies,13,E Lewis,0ebfb1ad,R Ashwin,495d42a5,AD Russell,bbd41817,0,0,0,0,0,,,,,,6,0,6
+1041615,2016,West Indies,13,E Lewis,0ebfb1ad,R Ashwin,495d42a5,AD Russell,bbd41817,0,0,0,0,0,,,,,,0,0,0
+1041615,2016,West Indies,13,E Lewis,0ebfb1ad,R Ashwin,495d42a5,AD Russell,bbd41817,0,0,0,0,0,,,,,,1,0,1
+1041615,2016,West Indies,14,E Lewis,0ebfb1ad,Mohammed Shami,8cf9814c,AD Russell,bbd41817,0,0,0,0,0,,,,,,1,0,1
+1041615,2016,West Indies,14,AD Russell,bbd41817,Mohammed Shami,8cf9814c,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,6,0,6
+1041615,2016,West Indies,14,AD Russell,bbd41817,Mohammed Shami,8cf9814c,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,1,0,1
+1041615,2016,West Indies,14,E Lewis,0ebfb1ad,Mohammed Shami,8cf9814c,AD Russell,bbd41817,0,0,0,0,0,,,,,,1,0,1
+1041615,2016,West Indies,14,AD Russell,bbd41817,Mohammed Shami,8cf9814c,E Lewis,0ebfb1ad,1,0,0,0,0,,,,,,0,1,1
+1041615,2016,West Indies,14,AD Russell,bbd41817,Mohammed Shami,8cf9814c,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,0,0,0
+1041615,2016,West Indies,14,AD Russell,bbd41817,Mohammed Shami,8cf9814c,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,0,0,0
+1041615,2016,West Indies,15,E Lewis,0ebfb1ad,RA Jadeja,fe93fd9d,AD Russell,bbd41817,0,0,0,0,0,,,,,,1,0,1
+1041615,2016,West Indies,15,AD Russell,bbd41817,RA Jadeja,fe93fd9d,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,4,0,4
+1041615,2016,West Indies,15,AD Russell,bbd41817,RA Jadeja,fe93fd9d,E Lewis,0ebfb1ad,0,0,0,0,1,AD Russell,bbd41817,,,lbw,0,0,0
+1041615,2016,West Indies,15,KA Pollard,a757b0d8,RA Jadeja,fe93fd9d,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,1,0,1
+1041615,2016,West Indies,15,E Lewis,0ebfb1ad,RA Jadeja,fe93fd9d,KA Pollard,a757b0d8,0,0,0,0,1,E Lewis,0ebfb1ad,R Ashwin,495d42a5,caught,0,0,0
+1041615,2016,West Indies,15,KA Pollard,a757b0d8,RA Jadeja,fe93fd9d,CR Brathwaite,e342e5fb,0,0,0,0,0,,,,,,0,0,0
+1041615,2016,West Indies,16,CR Brathwaite,e342e5fb,Mohammed Shami,8cf9814c,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,1,0,1
+1041615,2016,West Indies,16,KA Pollard,a757b0d8,Mohammed Shami,8cf9814c,CR Brathwaite,e342e5fb,0,0,0,0,0,,,,,,1,0,1
+1041615,2016,West Indies,16,CR Brathwaite,e342e5fb,Mohammed Shami,8cf9814c,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,6,0,6
+1041615,2016,West Indies,16,CR Brathwaite,e342e5fb,Mohammed Shami,8cf9814c,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,0,0,0
+1041615,2016,West Indies,16,CR Brathwaite,e342e5fb,Mohammed Shami,8cf9814c,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,1,0,1
+1041615,2016,West Indies,16,KA Pollard,a757b0d8,Mohammed Shami,8cf9814c,CR Brathwaite,e342e5fb,0,0,0,0,0,,,,,,1,0,1
+1041615,2016,West Indies,17,KA Pollard,a757b0d8,JJ Bumrah,462411b3,CR Brathwaite,e342e5fb,0,0,0,0,0,,,,,,2,0,2
+1041615,2016,West Indies,17,KA Pollard,a757b0d8,JJ Bumrah,462411b3,CR Brathwaite,e342e5fb,0,1,0,0,0,,,,,,1,1,2
+1041615,2016,West Indies,17,CR Brathwaite,e342e5fb,JJ Bumrah,462411b3,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,4,0,4
+1041615,2016,West Indies,17,CR Brathwaite,e342e5fb,JJ Bumrah,462411b3,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,1,0,1
+1041615,2016,West Indies,17,KA Pollard,a757b0d8,JJ Bumrah,462411b3,CR Brathwaite,e342e5fb,0,0,0,0,0,,,,,,0,0,0
+1041615,2016,West Indies,17,KA Pollard,a757b0d8,JJ Bumrah,462411b3,CR Brathwaite,e342e5fb,0,0,0,0,0,,,,,,1,0,1
+1041615,2016,West Indies,17,CR Brathwaite,e342e5fb,JJ Bumrah,462411b3,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,0,0,0
+1041615,2016,West Indies,18,KA Pollard,a757b0d8,B Kumar,2e81a32d,CR Brathwaite,e342e5fb,0,0,0,0,0,,,,,,1,0,1
+1041615,2016,West Indies,18,CR Brathwaite,e342e5fb,B Kumar,2e81a32d,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,0,0,0
+1041615,2016,West Indies,18,CR Brathwaite,e342e5fb,B Kumar,2e81a32d,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,1,0,1
+1041615,2016,West Indies,18,KA Pollard,a757b0d8,B Kumar,2e81a32d,CR Brathwaite,e342e5fb,1,0,0,0,0,,,,,,0,1,1
+1041615,2016,West Indies,18,KA Pollard,a757b0d8,B Kumar,2e81a32d,CR Brathwaite,e342e5fb,0,0,0,0,0,,,,,,6,0,6
+1041615,2016,West Indies,18,KA Pollard,a757b0d8,B Kumar,2e81a32d,CR Brathwaite,e342e5fb,0,0,0,0,0,,,,,,1,0,1
+1041615,2016,West Indies,18,CR Brathwaite,e342e5fb,B Kumar,2e81a32d,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,0,0,0
+1041615,2016,West Indies,19,KA Pollard,a757b0d8,JJ Bumrah,462411b3,CR Brathwaite,e342e5fb,0,1,0,0,1,CR Brathwaite,e342e5fb,JJ Bumrah,462411b3,run out,0,1,1
+1041615,2016,West Indies,19,KA Pollard,a757b0d8,JJ Bumrah,462411b3,DJ Bravo,87e562a9,0,0,0,0,0,,,,,,6,0,6
+1041615,2016,West Indies,19,KA Pollard,a757b0d8,JJ Bumrah,462411b3,DJ Bravo,87e562a9,0,0,0,0,0,,,,,,1,0,1
+1041615,2016,West Indies,19,DJ Bravo,87e562a9,JJ Bumrah,462411b3,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,1,0,1
+1041615,2016,West Indies,19,KA Pollard,a757b0d8,JJ Bumrah,462411b3,DJ Bravo,87e562a9,0,0,0,0,1,KA Pollard,a757b0d8,,,bowled,0,0,0
+1041615,2016,West Indies,19,LMP Simmons,89f64c19,JJ Bumrah,462411b3,DJ Bravo,87e562a9,0,0,0,0,1,LMP Simmons,89f64c19,,,bowled,0,0,0
+1041615,2016,West Indies,19,MN Samuels,f846de6a,JJ Bumrah,462411b3,DJ Bravo,87e562a9,0,0,0,0,0,,,,,,1,0,1
+1041615,2016,India,0,RG Sharma,740742ef,AD Russell,bbd41817,AM Rahane,29e95537,0,0,0,0,0,,,,,,2,0,2
+1041615,2016,India,0,RG Sharma,740742ef,AD Russell,bbd41817,AM Rahane,29e95537,0,0,0,0,0,,,,,,1,0,1
+1041615,2016,India,0,AM Rahane,29e95537,AD Russell,bbd41817,RG Sharma,740742ef,0,0,0,0,0,,,,,,1,0,1
+1041615,2016,India,0,RG Sharma,740742ef,AD Russell,bbd41817,AM Rahane,29e95537,0,0,0,0,0,,,,,,1,0,1
+1041615,2016,India,0,AM Rahane,29e95537,AD Russell,bbd41817,RG Sharma,740742ef,0,0,0,0,0,,,,,,0,0,0
+1041615,2016,India,0,AM Rahane,29e95537,AD Russell,bbd41817,RG Sharma,740742ef,0,0,0,0,0,,,,,,0,0,0
+1041615,2016,India,1,RG Sharma,740742ef,S Badree,76388dc8,AM Rahane,29e95537,0,0,0,0,0,,,,,,0,0,0
+1041615,2016,India,1,RG Sharma,740742ef,S Badree,76388dc8,AM Rahane,29e95537,0,0,0,0,0,,,,,,4,0,4
+1041615,2016,India,1,RG Sharma,740742ef,S Badree,76388dc8,AM Rahane,29e95537,0,0,0,0,0,,,,,,4,0,4
+1041615,2016,India,1,RG Sharma,740742ef,S Badree,76388dc8,AM Rahane,29e95537,0,0,0,0,0,,,,,,1,0,1
+1041615,2016,India,1,AM Rahane,29e95537,S Badree,76388dc8,RG Sharma,740742ef,0,0,0,0,0,,,,,,1,0,1
+1041615,2016,India,1,RG Sharma,740742ef,S Badree,76388dc8,AM Rahane,29e95537,0,0,0,0,0,,,,,,4,0,4
+1041615,2016,India,2,AM Rahane,29e95537,AD Russell,bbd41817,RG Sharma,740742ef,0,0,0,0,0,,,,,,4,0,4
+1041615,2016,India,2,AM Rahane,29e95537,AD Russell,bbd41817,RG Sharma,740742ef,0,0,0,0,0,,,,,,1,0,1
+1041615,2016,India,2,RG Sharma,740742ef,AD Russell,bbd41817,AM Rahane,29e95537,0,0,0,0,0,,,,,,2,0,2
+1041615,2016,India,2,RG Sharma,740742ef,AD Russell,bbd41817,AM Rahane,29e95537,0,0,0,0,0,,,,,,4,0,4
+1041615,2016,India,2,RG Sharma,740742ef,AD Russell,bbd41817,AM Rahane,29e95537,0,0,0,0,0,,,,,,1,0,1
+1041615,2016,India,2,AM Rahane,29e95537,AD Russell,bbd41817,RG Sharma,740742ef,0,0,0,0,1,AM Rahane,29e95537,DJ Bravo,87e562a9,caught,0,0,0
+1041615,2016,India,3,V Kohli,ba607b88,S Badree,76388dc8,RG Sharma,740742ef,0,0,0,0,0,,,,,,0,0,0
+1041615,2016,India,3,V Kohli,ba607b88,S Badree,76388dc8,RG Sharma,740742ef,0,0,0,0,0,,,,,,4,0,4
+1041615,2016,India,3,V Kohli,ba607b88,S Badree,76388dc8,RG Sharma,740742ef,0,0,0,0,0,,,,,,0,0,0
+1041615,2016,India,3,V Kohli,ba607b88,S Badree,76388dc8,RG Sharma,740742ef,0,0,0,0,0,,,,,,2,0,2
+1041615,2016,India,3,V Kohli,ba607b88,S Badree,76388dc8,RG Sharma,740742ef,0,0,0,0,0,,,,,,4,0,4
+1041615,2016,India,3,V Kohli,ba607b88,S Badree,76388dc8,RG Sharma,740742ef,0,0,0,0,0,,,,,,1,0,1
+1041615,2016,India,4,V Kohli,ba607b88,DJ Bravo,87e562a9,RG Sharma,740742ef,0,0,0,0,0,,,,,,4,0,4
+1041615,2016,India,4,V Kohli,ba607b88,DJ Bravo,87e562a9,RG Sharma,740742ef,0,0,0,0,0,,,,,,1,0,1
+1041615,2016,India,4,RG Sharma,740742ef,DJ Bravo,87e562a9,V Kohli,ba607b88,0,0,0,0,0,,,,,,1,0,1
+1041615,2016,India,4,V Kohli,ba607b88,DJ Bravo,87e562a9,RG Sharma,740742ef,0,0,0,0,1,V Kohli,ba607b88,ADS Fletcher,1bae756b,caught,0,0,0
+1041615,2016,India,4,KL Rahul,b17e2f24,DJ Bravo,87e562a9,RG Sharma,740742ef,0,0,0,0,0,,,,,,2,0,2
+1041615,2016,India,4,KL Rahul,b17e2f24,DJ Bravo,87e562a9,RG Sharma,740742ef,0,0,0,0,0,,,,,,1,0,1
+1041615,2016,India,5,KL Rahul,b17e2f24,SP Narine,9d430b40,RG Sharma,740742ef,0,0,0,0,0,,,,,,4,0,4
+1041615,2016,India,5,KL Rahul,b17e2f24,SP Narine,9d430b40,RG Sharma,740742ef,0,0,0,0,0,,,,,,6,0,6
+1041615,2016,India,5,KL Rahul,b17e2f24,SP Narine,9d430b40,RG Sharma,740742ef,0,0,0,0,0,,,,,,0,0,0
+1041615,2016,India,5,KL Rahul,b17e2f24,SP Narine,9d430b40,RG Sharma,740742ef,0,0,0,0,0,,,,,,2,0,2
+1041615,2016,India,5,KL Rahul,b17e2f24,SP Narine,9d430b40,RG Sharma,740742ef,0,0,0,0,0,,,,,,4,0,4
+1041615,2016,India,5,KL Rahul,b17e2f24,SP Narine,9d430b40,RG Sharma,740742ef,0,0,0,0,0,,,,,,0,0,0
+1041615,2016,India,6,RG Sharma,740742ef,CR Brathwaite,e342e5fb,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,1,0,1
+1041615,2016,India,6,KL Rahul,b17e2f24,CR Brathwaite,e342e5fb,RG Sharma,740742ef,0,0,0,0,0,,,,,,1,0,1
+1041615,2016,India,6,RG Sharma,740742ef,CR Brathwaite,e342e5fb,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,1,0,1
+1041615,2016,India,6,KL Rahul,b17e2f24,CR Brathwaite,e342e5fb,RG Sharma,740742ef,0,0,0,0,0,,,,,,2,0,2
+1041615,2016,India,6,KL Rahul,b17e2f24,CR Brathwaite,e342e5fb,RG Sharma,740742ef,0,0,0,0,0,,,,,,4,0,4
+1041615,2016,India,6,KL Rahul,b17e2f24,CR Brathwaite,e342e5fb,RG Sharma,740742ef,0,0,0,0,0,,,,,,4,0,4
+1041615,2016,India,7,RG Sharma,740742ef,SP Narine,9d430b40,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,2,0,2
+1041615,2016,India,7,RG Sharma,740742ef,SP Narine,9d430b40,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,0,0,0
+1041615,2016,India,7,RG Sharma,740742ef,SP Narine,9d430b40,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,6,0,6
+1041615,2016,India,7,RG Sharma,740742ef,SP Narine,9d430b40,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,6,0,6
+1041615,2016,India,7,RG Sharma,740742ef,SP Narine,9d430b40,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,1,0,1
+1041615,2016,India,7,KL Rahul,b17e2f24,SP Narine,9d430b40,RG Sharma,740742ef,0,0,0,0,0,,,,,,1,0,1
+1041615,2016,India,8,KL Rahul,b17e2f24,CR Brathwaite,e342e5fb,RG Sharma,740742ef,0,0,0,0,0,,,,,,1,0,1
+1041615,2016,India,8,RG Sharma,740742ef,CR Brathwaite,e342e5fb,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,1,0,1
+1041615,2016,India,8,KL Rahul,b17e2f24,CR Brathwaite,e342e5fb,RG Sharma,740742ef,0,0,0,0,0,,,,,,4,0,4
+1041615,2016,India,8,KL Rahul,b17e2f24,CR Brathwaite,e342e5fb,RG Sharma,740742ef,0,0,0,0,0,,,,,,0,0,0
+1041615,2016,India,8,KL Rahul,b17e2f24,CR Brathwaite,e342e5fb,RG Sharma,740742ef,0,0,0,0,0,,,,,,2,0,2
+1041615,2016,India,8,KL Rahul,b17e2f24,CR Brathwaite,e342e5fb,RG Sharma,740742ef,0,0,0,0,0,,,,,,0,0,0
+1041615,2016,India,9,RG Sharma,740742ef,KA Pollard,a757b0d8,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,3,0,3
+1041615,2016,India,9,KL Rahul,b17e2f24,KA Pollard,a757b0d8,RG Sharma,740742ef,0,0,0,0,0,,,,,,1,0,1
+1041615,2016,India,9,RG Sharma,740742ef,KA Pollard,a757b0d8,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,6,0,6
+1041615,2016,India,9,RG Sharma,740742ef,KA Pollard,a757b0d8,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,1,0,1
+1041615,2016,India,9,KL Rahul,b17e2f24,KA Pollard,a757b0d8,RG Sharma,740742ef,0,0,0,0,0,,,,,,0,0,0
+1041615,2016,India,9,KL Rahul,b17e2f24,KA Pollard,a757b0d8,RG Sharma,740742ef,0,0,0,0,0,,,,,,1,0,1
+1041615,2016,India,10,KL Rahul,b17e2f24,DJ Bravo,87e562a9,RG Sharma,740742ef,0,0,0,0,0,,,,,,4,0,4
+1041615,2016,India,10,KL Rahul,b17e2f24,DJ Bravo,87e562a9,RG Sharma,740742ef,0,0,0,0,0,,,,,,1,0,1
+1041615,2016,India,10,RG Sharma,740742ef,DJ Bravo,87e562a9,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,1,0,1
+1041615,2016,India,10,KL Rahul,b17e2f24,DJ Bravo,87e562a9,RG Sharma,740742ef,0,0,0,0,0,,,,,,1,0,1
+1041615,2016,India,10,RG Sharma,740742ef,DJ Bravo,87e562a9,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,2,0,2
+1041615,2016,India,10,RG Sharma,740742ef,DJ Bravo,87e562a9,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,6,0,6
+1041615,2016,India,11,KL Rahul,b17e2f24,KA Pollard,a757b0d8,RG Sharma,740742ef,0,0,0,0,0,,,,,,0,0,0
+1041615,2016,India,11,KL Rahul,b17e2f24,KA Pollard,a757b0d8,RG Sharma,740742ef,0,0,0,0,0,,,,,,4,0,4
+1041615,2016,India,11,KL Rahul,b17e2f24,KA Pollard,a757b0d8,RG Sharma,740742ef,0,0,0,0,0,,,,,,1,0,1
+1041615,2016,India,11,RG Sharma,740742ef,KA Pollard,a757b0d8,KL Rahul,b17e2f24,1,0,0,0,0,,,,,,0,1,1
+1041615,2016,India,11,RG Sharma,740742ef,KA Pollard,a757b0d8,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,0,0,0
+1041615,2016,India,11,RG Sharma,740742ef,KA Pollard,a757b0d8,KL Rahul,b17e2f24,0,0,0,0,1,RG Sharma,740742ef,J Charles,09a9d073,caught,0,0,0
+1041615,2016,India,11,MS Dhoni,4a8a2e3b,KA Pollard,a757b0d8,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,1,0,1
+1041615,2016,India,12,MS Dhoni,4a8a2e3b,CR Brathwaite,e342e5fb,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,4,0,4
+1041615,2016,India,12,MS Dhoni,4a8a2e3b,CR Brathwaite,e342e5fb,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,2,0,2
+1041615,2016,India,12,MS Dhoni,4a8a2e3b,CR Brathwaite,e342e5fb,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,1,0,1
+1041615,2016,India,12,KL Rahul,b17e2f24,CR Brathwaite,e342e5fb,MS Dhoni,4a8a2e3b,0,0,0,0,0,,,,,,1,0,1
+1041615,2016,India,12,MS Dhoni,4a8a2e3b,CR Brathwaite,e342e5fb,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,2,0,2
+1041615,2016,India,12,MS Dhoni,4a8a2e3b,CR Brathwaite,e342e5fb,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,2,0,2
+1041615,2016,India,13,KL Rahul,b17e2f24,SP Narine,9d430b40,MS Dhoni,4a8a2e3b,0,0,0,0,0,,,,,,6,0,6
+1041615,2016,India,13,KL Rahul,b17e2f24,SP Narine,9d430b40,MS Dhoni,4a8a2e3b,0,0,0,0,0,,,,,,0,0,0
+1041615,2016,India,13,KL Rahul,b17e2f24,SP Narine,9d430b40,MS Dhoni,4a8a2e3b,0,0,0,0,0,,,,,,4,0,4
+1041615,2016,India,13,KL Rahul,b17e2f24,SP Narine,9d430b40,MS Dhoni,4a8a2e3b,0,0,0,0,0,,,,,,2,0,2
+1041615,2016,India,13,KL Rahul,b17e2f24,SP Narine,9d430b40,MS Dhoni,4a8a2e3b,1,0,0,0,0,,,,,,0,1,1
+1041615,2016,India,13,KL Rahul,b17e2f24,SP Narine,9d430b40,MS Dhoni,4a8a2e3b,0,0,0,0,0,,,,,,4,0,4
+1041615,2016,India,13,KL Rahul,b17e2f24,SP Narine,9d430b40,MS Dhoni,4a8a2e3b,0,0,0,0,0,,,,,,1,0,1
+1041615,2016,India,14,KL Rahul,b17e2f24,CR Brathwaite,e342e5fb,MS Dhoni,4a8a2e3b,0,0,0,0,0,,,,,,6,0,6
+1041615,2016,India,14,KL Rahul,b17e2f24,CR Brathwaite,e342e5fb,MS Dhoni,4a8a2e3b,0,0,0,0,0,,,,,,1,0,1
+1041615,2016,India,14,MS Dhoni,4a8a2e3b,CR Brathwaite,e342e5fb,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,1,0,1
+1041615,2016,India,14,KL Rahul,b17e2f24,CR Brathwaite,e342e5fb,MS Dhoni,4a8a2e3b,0,0,0,0,0,,,,,,2,0,2
+1041615,2016,India,14,KL Rahul,b17e2f24,CR Brathwaite,e342e5fb,MS Dhoni,4a8a2e3b,0,0,0,0,0,,,,,,0,0,0
+1041615,2016,India,14,KL Rahul,b17e2f24,CR Brathwaite,e342e5fb,MS Dhoni,4a8a2e3b,0,0,0,0,0,,,,,,4,0,4
+1041615,2016,India,15,MS Dhoni,4a8a2e3b,KA Pollard,a757b0d8,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,3,0,3
+1041615,2016,India,15,KL Rahul,b17e2f24,KA Pollard,a757b0d8,MS Dhoni,4a8a2e3b,0,0,0,0,0,,,,,,1,0,1
+1041615,2016,India,15,MS Dhoni,4a8a2e3b,KA Pollard,a757b0d8,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,1,0,1
+1041615,2016,India,15,KL Rahul,b17e2f24,KA Pollard,a757b0d8,MS Dhoni,4a8a2e3b,0,0,0,0,0,,,,,,4,0,4
+1041615,2016,India,15,KL Rahul,b17e2f24,KA Pollard,a757b0d8,MS Dhoni,4a8a2e3b,0,0,0,0,0,,,,,,1,0,1
+1041615,2016,India,15,MS Dhoni,4a8a2e3b,KA Pollard,a757b0d8,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,1,0,1
+1041615,2016,India,16,MS Dhoni,4a8a2e3b,AD Russell,bbd41817,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,0,0,0
+1041615,2016,India,16,MS Dhoni,4a8a2e3b,AD Russell,bbd41817,KL Rahul,b17e2f24,1,0,0,0,0,,,,,,0,1,1
+1041615,2016,India,16,MS Dhoni,4a8a2e3b,AD Russell,bbd41817,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,6,0,6
+1041615,2016,India,16,MS Dhoni,4a8a2e3b,AD Russell,bbd41817,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,0,0,0
+1041615,2016,India,16,MS Dhoni,4a8a2e3b,AD Russell,bbd41817,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,6,0,6
+1041615,2016,India,16,MS Dhoni,4a8a2e3b,AD Russell,bbd41817,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,1,0,1
+1041615,2016,India,16,KL Rahul,b17e2f24,AD Russell,bbd41817,MS Dhoni,4a8a2e3b,0,0,0,0,0,,,,,,6,0,6
+1041615,2016,India,17,MS Dhoni,4a8a2e3b,DJ Bravo,87e562a9,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,4,0,4
+1041615,2016,India,17,MS Dhoni,4a8a2e3b,DJ Bravo,87e562a9,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,0,0,0
+1041615,2016,India,17,MS Dhoni,4a8a2e3b,DJ Bravo,87e562a9,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,2,0,2
+1041615,2016,India,17,MS Dhoni,4a8a2e3b,DJ Bravo,87e562a9,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,1,0,1
+1041615,2016,India,17,KL Rahul,b17e2f24,DJ Bravo,87e562a9,MS Dhoni,4a8a2e3b,0,0,1,0,0,,,,,,0,1,1
+1041615,2016,India,17,MS Dhoni,4a8a2e3b,DJ Bravo,87e562a9,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,1,0,1
+1041615,2016,India,18,MS Dhoni,4a8a2e3b,AD Russell,bbd41817,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,1,0,1
+1041615,2016,India,18,KL Rahul,b17e2f24,AD Russell,bbd41817,MS Dhoni,4a8a2e3b,0,0,0,0,0,,,,,,0,0,0
+1041615,2016,India,18,KL Rahul,b17e2f24,AD Russell,bbd41817,MS Dhoni,4a8a2e3b,0,0,0,0,0,,,,,,6,0,6
+1041615,2016,India,18,KL Rahul,b17e2f24,AD Russell,bbd41817,MS Dhoni,4a8a2e3b,0,0,0,0,0,,,,,,4,0,4
+1041615,2016,India,18,KL Rahul,b17e2f24,AD Russell,bbd41817,MS Dhoni,4a8a2e3b,1,0,0,0,0,,,,,,0,1,1
+1041615,2016,India,18,KL Rahul,b17e2f24,AD Russell,bbd41817,MS Dhoni,4a8a2e3b,0,0,0,0,0,,,,,,2,0,2
+1041615,2016,India,18,KL Rahul,b17e2f24,AD Russell,bbd41817,MS Dhoni,4a8a2e3b,0,0,0,0,0,,,,,,2,0,2
+1041615,2016,India,19,MS Dhoni,4a8a2e3b,DJ Bravo,87e562a9,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,1,0,1
+1041615,2016,India,19,KL Rahul,b17e2f24,DJ Bravo,87e562a9,MS Dhoni,4a8a2e3b,0,0,0,0,0,,,,,,1,0,1
+1041615,2016,India,19,MS Dhoni,4a8a2e3b,DJ Bravo,87e562a9,KL Rahul,b17e2f24,0,0,1,0,0,,,,,,0,1,1
+1041615,2016,India,19,KL Rahul,b17e2f24,DJ Bravo,87e562a9,MS Dhoni,4a8a2e3b,0,0,0,0,0,,,,,,1,0,1
+1041615,2016,India,19,MS Dhoni,4a8a2e3b,DJ Bravo,87e562a9,KL Rahul,b17e2f24,0,0,0,0,0,,,,,,2,0,2
+1041615,2016,India,19,MS Dhoni,4a8a2e3b,DJ Bravo,87e562a9,KL Rahul,b17e2f24,0,0,0,0,1,MS Dhoni,4a8a2e3b,MN Samuels,f846de6a,caught,0,0,0

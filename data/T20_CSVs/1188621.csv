@@ -1,0 +1,234 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1188621,2019,West Indies,0,JD Campbell,6fd0c8e1,Washington Sundar,f19ccfad,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,West Indies,0,JD Campbell,6fd0c8e1,Washington Sundar,f19ccfad,E Lewis,0ebfb1ad,0,0,0,0,1,JD Campbell,6fd0c8e1,KH Pandya,5b8c830e,caught,0,0,0
+1188621,2019,West Indies,0,N Pooran,3241e3fd,Washington Sundar,f19ccfad,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,West Indies,0,N Pooran,3241e3fd,Washington Sundar,f19ccfad,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,1,0,1
+1188621,2019,West Indies,0,E Lewis,0ebfb1ad,Washington Sundar,f19ccfad,N Pooran,3241e3fd,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,West Indies,0,E Lewis,0ebfb1ad,Washington Sundar,f19ccfad,N Pooran,3241e3fd,5,0,0,0,0,,,,,,0,5,5
+1188621,2019,West Indies,0,E Lewis,0ebfb1ad,Washington Sundar,f19ccfad,N Pooran,3241e3fd,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,West Indies,1,N Pooran,3241e3fd,B Kumar,2e81a32d,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,West Indies,1,N Pooran,3241e3fd,B Kumar,2e81a32d,E Lewis,0ebfb1ad,1,0,0,0,0,,,,,,0,1,1
+1188621,2019,West Indies,1,N Pooran,3241e3fd,B Kumar,2e81a32d,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,West Indies,1,N Pooran,3241e3fd,B Kumar,2e81a32d,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,West Indies,1,N Pooran,3241e3fd,B Kumar,2e81a32d,E Lewis,0ebfb1ad,0,0,0,0,0,,,,,,1,0,1
+1188621,2019,West Indies,1,E Lewis,0ebfb1ad,B Kumar,2e81a32d,N Pooran,3241e3fd,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,West Indies,1,E Lewis,0ebfb1ad,B Kumar,2e81a32d,N Pooran,3241e3fd,0,0,0,0,1,E Lewis,0ebfb1ad,,,bowled,0,0,0
+1188621,2019,West Indies,2,N Pooran,3241e3fd,Washington Sundar,f19ccfad,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,4,0,4
+1188621,2019,West Indies,2,N Pooran,3241e3fd,Washington Sundar,f19ccfad,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,6,0,6
+1188621,2019,West Indies,2,N Pooran,3241e3fd,Washington Sundar,f19ccfad,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,West Indies,2,N Pooran,3241e3fd,Washington Sundar,f19ccfad,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,West Indies,2,N Pooran,3241e3fd,Washington Sundar,f19ccfad,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,West Indies,2,N Pooran,3241e3fd,Washington Sundar,f19ccfad,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,2,0,2
+1188621,2019,West Indies,3,KA Pollard,a757b0d8,B Kumar,2e81a32d,N Pooran,3241e3fd,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,West Indies,3,KA Pollard,a757b0d8,B Kumar,2e81a32d,N Pooran,3241e3fd,0,0,0,0,0,,,,,,2,0,2
+1188621,2019,West Indies,3,KA Pollard,a757b0d8,B Kumar,2e81a32d,N Pooran,3241e3fd,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,West Indies,3,KA Pollard,a757b0d8,B Kumar,2e81a32d,N Pooran,3241e3fd,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,West Indies,3,KA Pollard,a757b0d8,B Kumar,2e81a32d,N Pooran,3241e3fd,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,West Indies,3,KA Pollard,a757b0d8,B Kumar,2e81a32d,N Pooran,3241e3fd,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,West Indies,4,N Pooran,3241e3fd,Navdeep Saini,21d4e29b,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,West Indies,4,N Pooran,3241e3fd,Navdeep Saini,21d4e29b,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,6,0,6
+1188621,2019,West Indies,4,N Pooran,3241e3fd,Navdeep Saini,21d4e29b,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,West Indies,4,N Pooran,3241e3fd,Navdeep Saini,21d4e29b,KA Pollard,a757b0d8,0,0,0,0,1,N Pooran,3241e3fd,RR Pant,919a3be2,caught,0,0,0
+1188621,2019,West Indies,4,SO Hetmyer,48a1d7b7,Navdeep Saini,21d4e29b,KA Pollard,a757b0d8,0,0,0,0,1,SO Hetmyer,48a1d7b7,,,bowled,0,0,0
+1188621,2019,West Indies,4,R Powell,650d5e49,Navdeep Saini,21d4e29b,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,West Indies,5,KA Pollard,a757b0d8,KK Ahmed,a2f46292,R Powell,650d5e49,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,West Indies,5,KA Pollard,a757b0d8,KK Ahmed,a2f46292,R Powell,650d5e49,0,0,0,0,0,,,,,,1,0,1
+1188621,2019,West Indies,5,R Powell,650d5e49,KK Ahmed,a2f46292,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,West Indies,5,R Powell,650d5e49,KK Ahmed,a2f46292,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,4,0,4
+1188621,2019,West Indies,5,R Powell,650d5e49,KK Ahmed,a2f46292,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,West Indies,5,R Powell,650d5e49,KK Ahmed,a2f46292,KA Pollard,a757b0d8,0,0,0,0,1,R Powell,650d5e49,RR Pant,919a3be2,caught,0,0,0
+1188621,2019,West Indies,6,KA Pollard,a757b0d8,Navdeep Saini,21d4e29b,CR Brathwaite,e342e5fb,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,West Indies,6,KA Pollard,a757b0d8,Navdeep Saini,21d4e29b,CR Brathwaite,e342e5fb,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,West Indies,6,KA Pollard,a757b0d8,Navdeep Saini,21d4e29b,CR Brathwaite,e342e5fb,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,West Indies,6,KA Pollard,a757b0d8,Navdeep Saini,21d4e29b,CR Brathwaite,e342e5fb,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,West Indies,6,KA Pollard,a757b0d8,Navdeep Saini,21d4e29b,CR Brathwaite,e342e5fb,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,West Indies,6,KA Pollard,a757b0d8,Navdeep Saini,21d4e29b,CR Brathwaite,e342e5fb,1,0,0,0,0,,,,,,0,1,1
+1188621,2019,West Indies,6,KA Pollard,a757b0d8,Navdeep Saini,21d4e29b,CR Brathwaite,e342e5fb,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,West Indies,7,CR Brathwaite,e342e5fb,KK Ahmed,a2f46292,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,West Indies,7,CR Brathwaite,e342e5fb,KK Ahmed,a2f46292,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,1,0,1
+1188621,2019,West Indies,7,KA Pollard,a757b0d8,KK Ahmed,a2f46292,CR Brathwaite,e342e5fb,0,0,0,0,0,,,,,,1,0,1
+1188621,2019,West Indies,7,CR Brathwaite,e342e5fb,KK Ahmed,a2f46292,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,1,0,1
+1188621,2019,West Indies,7,KA Pollard,a757b0d8,KK Ahmed,a2f46292,CR Brathwaite,e342e5fb,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,West Indies,7,KA Pollard,a757b0d8,KK Ahmed,a2f46292,CR Brathwaite,e342e5fb,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,West Indies,8,CR Brathwaite,e342e5fb,KH Pandya,5b8c830e,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,West Indies,8,CR Brathwaite,e342e5fb,KH Pandya,5b8c830e,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,West Indies,8,CR Brathwaite,e342e5fb,KH Pandya,5b8c830e,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,West Indies,8,CR Brathwaite,e342e5fb,KH Pandya,5b8c830e,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,1,0,1
+1188621,2019,West Indies,8,KA Pollard,a757b0d8,KH Pandya,5b8c830e,CR Brathwaite,e342e5fb,0,0,0,0,0,,,,,,4,0,4
+1188621,2019,West Indies,8,KA Pollard,a757b0d8,KH Pandya,5b8c830e,CR Brathwaite,e342e5fb,0,0,0,0,0,,,,,,1,0,1
+1188621,2019,West Indies,9,KA Pollard,a757b0d8,RA Jadeja,fe93fd9d,CR Brathwaite,e342e5fb,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,West Indies,9,KA Pollard,a757b0d8,RA Jadeja,fe93fd9d,CR Brathwaite,e342e5fb,0,0,0,0,0,,,,,,1,0,1
+1188621,2019,West Indies,9,CR Brathwaite,e342e5fb,RA Jadeja,fe93fd9d,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,West Indies,9,CR Brathwaite,e342e5fb,RA Jadeja,fe93fd9d,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,West Indies,9,CR Brathwaite,e342e5fb,RA Jadeja,fe93fd9d,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,West Indies,9,CR Brathwaite,e342e5fb,RA Jadeja,fe93fd9d,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,1,0,1
+1188621,2019,West Indies,10,CR Brathwaite,e342e5fb,KH Pandya,5b8c830e,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,West Indies,10,CR Brathwaite,e342e5fb,KH Pandya,5b8c830e,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,West Indies,10,CR Brathwaite,e342e5fb,KH Pandya,5b8c830e,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,West Indies,10,CR Brathwaite,e342e5fb,KH Pandya,5b8c830e,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,West Indies,10,CR Brathwaite,e342e5fb,KH Pandya,5b8c830e,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,West Indies,10,CR Brathwaite,e342e5fb,KH Pandya,5b8c830e,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,West Indies,11,KA Pollard,a757b0d8,RA Jadeja,fe93fd9d,CR Brathwaite,e342e5fb,0,0,0,0,0,,,,,,1,0,1
+1188621,2019,West Indies,11,CR Brathwaite,e342e5fb,RA Jadeja,fe93fd9d,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,1,0,1
+1188621,2019,West Indies,11,KA Pollard,a757b0d8,RA Jadeja,fe93fd9d,CR Brathwaite,e342e5fb,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,West Indies,11,KA Pollard,a757b0d8,RA Jadeja,fe93fd9d,CR Brathwaite,e342e5fb,0,0,0,0,0,,,,,,6,0,6
+1188621,2019,West Indies,11,KA Pollard,a757b0d8,RA Jadeja,fe93fd9d,CR Brathwaite,e342e5fb,0,0,0,0,0,,,,,,1,0,1
+1188621,2019,West Indies,11,CR Brathwaite,e342e5fb,RA Jadeja,fe93fd9d,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,West Indies,12,KA Pollard,a757b0d8,KH Pandya,5b8c830e,CR Brathwaite,e342e5fb,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,West Indies,12,KA Pollard,a757b0d8,KH Pandya,5b8c830e,CR Brathwaite,e342e5fb,0,0,0,0,0,,,,,,1,0,1
+1188621,2019,West Indies,12,CR Brathwaite,e342e5fb,KH Pandya,5b8c830e,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,1,0,1
+1188621,2019,West Indies,12,KA Pollard,a757b0d8,KH Pandya,5b8c830e,CR Brathwaite,e342e5fb,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,West Indies,12,KA Pollard,a757b0d8,KH Pandya,5b8c830e,CR Brathwaite,e342e5fb,0,0,0,0,0,,,,,,6,0,6
+1188621,2019,West Indies,12,KA Pollard,a757b0d8,KH Pandya,5b8c830e,CR Brathwaite,e342e5fb,0,0,0,0,0,,,,,,1,0,1
+1188621,2019,West Indies,13,KA Pollard,a757b0d8,RA Jadeja,fe93fd9d,CR Brathwaite,e342e5fb,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,West Indies,13,KA Pollard,a757b0d8,RA Jadeja,fe93fd9d,CR Brathwaite,e342e5fb,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,West Indies,13,KA Pollard,a757b0d8,RA Jadeja,fe93fd9d,CR Brathwaite,e342e5fb,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,West Indies,13,KA Pollard,a757b0d8,RA Jadeja,fe93fd9d,CR Brathwaite,e342e5fb,0,0,0,0,0,,,,,,1,0,1
+1188621,2019,West Indies,13,CR Brathwaite,e342e5fb,RA Jadeja,fe93fd9d,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,West Indies,13,CR Brathwaite,e342e5fb,RA Jadeja,fe93fd9d,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,1,0,1
+1188621,2019,West Indies,14,CR Brathwaite,e342e5fb,KH Pandya,5b8c830e,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,2,0,2
+1188621,2019,West Indies,14,CR Brathwaite,e342e5fb,KH Pandya,5b8c830e,KA Pollard,a757b0d8,0,0,0,0,1,CR Brathwaite,e342e5fb,,,caught and bowled,0,0,0
+1188621,2019,West Indies,14,SP Narine,9d430b40,KH Pandya,5b8c830e,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,West Indies,14,SP Narine,9d430b40,KH Pandya,5b8c830e,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,1,0,1
+1188621,2019,West Indies,14,KA Pollard,a757b0d8,KH Pandya,5b8c830e,SP Narine,9d430b40,0,0,0,0,0,,,,,,1,0,1
+1188621,2019,West Indies,14,SP Narine,9d430b40,KH Pandya,5b8c830e,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,1,0,1
+1188621,2019,West Indies,15,SP Narine,9d430b40,RA Jadeja,fe93fd9d,KA Pollard,a757b0d8,0,0,0,0,1,SP Narine,9d430b40,KK Ahmed,a2f46292,caught,0,0,0
+1188621,2019,West Indies,15,KMA Paul,75224f22,RA Jadeja,fe93fd9d,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,West Indies,15,KMA Paul,75224f22,RA Jadeja,fe93fd9d,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,West Indies,15,KMA Paul,75224f22,RA Jadeja,fe93fd9d,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,West Indies,15,KMA Paul,75224f22,RA Jadeja,fe93fd9d,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,West Indies,15,KMA Paul,75224f22,RA Jadeja,fe93fd9d,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,West Indies,16,KA Pollard,a757b0d8,B Kumar,2e81a32d,KMA Paul,75224f22,0,0,0,0,0,,,,,,1,0,1
+1188621,2019,West Indies,16,KMA Paul,75224f22,B Kumar,2e81a32d,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,1,0,1
+1188621,2019,West Indies,16,KA Pollard,a757b0d8,B Kumar,2e81a32d,KMA Paul,75224f22,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,West Indies,16,KA Pollard,a757b0d8,B Kumar,2e81a32d,KMA Paul,75224f22,0,0,0,0,0,,,,,,2,0,2
+1188621,2019,West Indies,16,KA Pollard,a757b0d8,B Kumar,2e81a32d,KMA Paul,75224f22,0,0,0,0,0,,,,,,4,0,4
+1188621,2019,West Indies,16,KA Pollard,a757b0d8,B Kumar,2e81a32d,KMA Paul,75224f22,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,West Indies,17,KMA Paul,75224f22,Navdeep Saini,21d4e29b,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,West Indies,17,KMA Paul,75224f22,Navdeep Saini,21d4e29b,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,West Indies,17,KMA Paul,75224f22,Navdeep Saini,21d4e29b,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,1,0,1
+1188621,2019,West Indies,17,KA Pollard,a757b0d8,Navdeep Saini,21d4e29b,KMA Paul,75224f22,0,0,0,0,0,,,,,,6,0,6
+1188621,2019,West Indies,17,KA Pollard,a757b0d8,Navdeep Saini,21d4e29b,KMA Paul,75224f22,0,0,0,0,0,,,,,,1,0,1
+1188621,2019,West Indies,17,KMA Paul,75224f22,Navdeep Saini,21d4e29b,KA Pollard,a757b0d8,1,0,0,0,0,,,,,,0,1,1
+1188621,2019,West Indies,17,KMA Paul,75224f22,Navdeep Saini,21d4e29b,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,1,0,1
+1188621,2019,West Indies,18,KMA Paul,75224f22,B Kumar,2e81a32d,KA Pollard,a757b0d8,0,0,0,0,1,KMA Paul,75224f22,V Kohli,ba607b88,caught,0,0,0
+1188621,2019,West Indies,18,KA Pollard,a757b0d8,B Kumar,2e81a32d,SS Cottrell,a1d053dd,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,West Indies,18,KA Pollard,a757b0d8,B Kumar,2e81a32d,SS Cottrell,a1d053dd,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,West Indies,18,KA Pollard,a757b0d8,B Kumar,2e81a32d,SS Cottrell,a1d053dd,0,0,0,0,0,,,,,,6,0,6
+1188621,2019,West Indies,18,KA Pollard,a757b0d8,B Kumar,2e81a32d,SS Cottrell,a1d053dd,0,0,0,0,0,,,,,,1,0,1
+1188621,2019,West Indies,18,SS Cottrell,a1d053dd,B Kumar,2e81a32d,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,West Indies,19,KA Pollard,a757b0d8,Navdeep Saini,21d4e29b,SS Cottrell,a1d053dd,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,West Indies,19,KA Pollard,a757b0d8,Navdeep Saini,21d4e29b,SS Cottrell,a1d053dd,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,West Indies,19,KA Pollard,a757b0d8,Navdeep Saini,21d4e29b,SS Cottrell,a1d053dd,0,0,0,0,1,KA Pollard,a757b0d8,,,lbw,0,0,0
+1188621,2019,West Indies,19,O Thomas,c6097d68,Navdeep Saini,21d4e29b,SS Cottrell,a1d053dd,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,West Indies,19,O Thomas,c6097d68,Navdeep Saini,21d4e29b,SS Cottrell,a1d053dd,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,West Indies,19,O Thomas,c6097d68,Navdeep Saini,21d4e29b,SS Cottrell,a1d053dd,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,India,0,RG Sharma,740742ef,O Thomas,c6097d68,S Dhawan,0a476045,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,India,0,RG Sharma,740742ef,O Thomas,c6097d68,S Dhawan,0a476045,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,India,0,RG Sharma,740742ef,O Thomas,c6097d68,S Dhawan,0a476045,0,0,0,0,0,,,,,,1,0,1
+1188621,2019,India,0,S Dhawan,0a476045,O Thomas,c6097d68,RG Sharma,740742ef,0,0,0,0,0,,,,,,1,0,1
+1188621,2019,India,0,RG Sharma,740742ef,O Thomas,c6097d68,S Dhawan,0a476045,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,India,0,RG Sharma,740742ef,O Thomas,c6097d68,S Dhawan,0a476045,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,India,1,S Dhawan,0a476045,SS Cottrell,a1d053dd,RG Sharma,740742ef,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,India,1,S Dhawan,0a476045,SS Cottrell,a1d053dd,RG Sharma,740742ef,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,India,1,S Dhawan,0a476045,SS Cottrell,a1d053dd,RG Sharma,740742ef,1,0,0,0,0,,,,,,0,1,1
+1188621,2019,India,1,S Dhawan,0a476045,SS Cottrell,a1d053dd,RG Sharma,740742ef,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,India,1,S Dhawan,0a476045,SS Cottrell,a1d053dd,RG Sharma,740742ef,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,India,1,S Dhawan,0a476045,SS Cottrell,a1d053dd,RG Sharma,740742ef,1,0,0,0,0,,,,,,0,1,1
+1188621,2019,India,1,S Dhawan,0a476045,SS Cottrell,a1d053dd,RG Sharma,740742ef,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,India,1,S Dhawan,0a476045,SS Cottrell,a1d053dd,RG Sharma,740742ef,0,0,0,0,1,S Dhawan,0a476045,,,lbw,0,0,0
+1188621,2019,India,2,RG Sharma,740742ef,O Thomas,c6097d68,V Kohli,ba607b88,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,India,2,RG Sharma,740742ef,O Thomas,c6097d68,V Kohli,ba607b88,0,0,0,0,0,,,,,,6,0,6
+1188621,2019,India,2,RG Sharma,740742ef,O Thomas,c6097d68,V Kohli,ba607b88,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,India,2,RG Sharma,740742ef,O Thomas,c6097d68,V Kohli,ba607b88,0,0,0,0,0,,,,,,1,0,1
+1188621,2019,India,2,V Kohli,ba607b88,O Thomas,c6097d68,RG Sharma,740742ef,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,India,2,V Kohli,ba607b88,O Thomas,c6097d68,RG Sharma,740742ef,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,India,3,RG Sharma,740742ef,SS Cottrell,a1d053dd,V Kohli,ba607b88,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,India,3,RG Sharma,740742ef,SS Cottrell,a1d053dd,V Kohli,ba607b88,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,India,3,RG Sharma,740742ef,SS Cottrell,a1d053dd,V Kohli,ba607b88,0,0,0,0,0,,,,,,1,0,1
+1188621,2019,India,3,V Kohli,ba607b88,SS Cottrell,a1d053dd,RG Sharma,740742ef,0,0,0,0,0,,,,,,1,0,1
+1188621,2019,India,3,RG Sharma,740742ef,SS Cottrell,a1d053dd,V Kohli,ba607b88,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,India,3,RG Sharma,740742ef,SS Cottrell,a1d053dd,V Kohli,ba607b88,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,India,4,V Kohli,ba607b88,SP Narine,9d430b40,RG Sharma,740742ef,0,0,0,0,0,,,,,,1,0,1
+1188621,2019,India,4,RG Sharma,740742ef,SP Narine,9d430b40,V Kohli,ba607b88,0,0,0,0,0,,,,,,4,0,4
+1188621,2019,India,4,RG Sharma,740742ef,SP Narine,9d430b40,V Kohli,ba607b88,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,India,4,RG Sharma,740742ef,SP Narine,9d430b40,V Kohli,ba607b88,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,India,4,RG Sharma,740742ef,SP Narine,9d430b40,V Kohli,ba607b88,0,0,0,0,0,,,,,,1,0,1
+1188621,2019,India,4,V Kohli,ba607b88,SP Narine,9d430b40,RG Sharma,740742ef,0,0,0,0,0,,,,,,1,0,1
+1188621,2019,India,5,V Kohli,ba607b88,SS Cottrell,a1d053dd,RG Sharma,740742ef,0,0,0,0,0,,,,,,1,0,1
+1188621,2019,India,5,RG Sharma,740742ef,SS Cottrell,a1d053dd,V Kohli,ba607b88,0,0,0,0,0,,,,,,4,0,4
+1188621,2019,India,5,RG Sharma,740742ef,SS Cottrell,a1d053dd,V Kohli,ba607b88,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,India,5,RG Sharma,740742ef,SS Cottrell,a1d053dd,V Kohli,ba607b88,0,0,0,0,0,,,,,,6,0,6
+1188621,2019,India,5,RG Sharma,740742ef,SS Cottrell,a1d053dd,V Kohli,ba607b88,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,India,5,RG Sharma,740742ef,SS Cottrell,a1d053dd,V Kohli,ba607b88,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,India,6,V Kohli,ba607b88,SP Narine,9d430b40,RG Sharma,740742ef,0,0,0,0,0,,,,,,1,0,1
+1188621,2019,India,6,RG Sharma,740742ef,SP Narine,9d430b40,V Kohli,ba607b88,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,India,6,RG Sharma,740742ef,SP Narine,9d430b40,V Kohli,ba607b88,0,0,0,0,1,RG Sharma,740742ef,KA Pollard,a757b0d8,caught,0,0,0
+1188621,2019,India,6,RR Pant,919a3be2,SP Narine,9d430b40,V Kohli,ba607b88,0,0,0,0,1,RR Pant,919a3be2,SS Cottrell,a1d053dd,caught,0,0,0
+1188621,2019,India,6,MK Pandey,93b4fc78,SP Narine,9d430b40,V Kohli,ba607b88,0,0,0,0,0,,,,,,1,0,1
+1188621,2019,India,6,V Kohli,ba607b88,SP Narine,9d430b40,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,India,7,MK Pandey,93b4fc78,KMA Paul,75224f22,V Kohli,ba607b88,0,0,0,0,0,,,,,,4,0,4
+1188621,2019,India,7,MK Pandey,93b4fc78,KMA Paul,75224f22,V Kohli,ba607b88,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,India,7,MK Pandey,93b4fc78,KMA Paul,75224f22,V Kohli,ba607b88,0,0,0,0,0,,,,,,1,0,1
+1188621,2019,India,7,V Kohli,ba607b88,KMA Paul,75224f22,MK Pandey,93b4fc78,1,0,0,0,0,,,,,,0,1,1
+1188621,2019,India,7,V Kohli,ba607b88,KMA Paul,75224f22,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,India,7,V Kohli,ba607b88,KMA Paul,75224f22,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,1,0,1
+1188621,2019,India,7,MK Pandey,93b4fc78,KMA Paul,75224f22,V Kohli,ba607b88,0,0,0,0,0,,,,,,1,0,1
+1188621,2019,India,8,MK Pandey,93b4fc78,SP Narine,9d430b40,V Kohli,ba607b88,0,0,0,0,0,,,,,,1,0,1
+1188621,2019,India,8,V Kohli,ba607b88,SP Narine,9d430b40,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,India,8,V Kohli,ba607b88,SP Narine,9d430b40,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,India,8,V Kohli,ba607b88,SP Narine,9d430b40,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,India,8,V Kohli,ba607b88,SP Narine,9d430b40,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,India,8,V Kohli,ba607b88,SP Narine,9d430b40,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,2,0,2
+1188621,2019,India,9,MK Pandey,93b4fc78,O Thomas,c6097d68,V Kohli,ba607b88,0,0,0,0,0,,,,,,4,0,4
+1188621,2019,India,9,MK Pandey,93b4fc78,O Thomas,c6097d68,V Kohli,ba607b88,0,0,0,0,0,,,,,,1,0,1
+1188621,2019,India,9,V Kohli,ba607b88,O Thomas,c6097d68,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,1,0,1
+1188621,2019,India,9,MK Pandey,93b4fc78,O Thomas,c6097d68,V Kohli,ba607b88,0,0,0,0,0,,,,,,1,0,1
+1188621,2019,India,9,V Kohli,ba607b88,O Thomas,c6097d68,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,India,9,V Kohli,ba607b88,O Thomas,c6097d68,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,1,0,1
+1188621,2019,India,10,V Kohli,ba607b88,CR Brathwaite,e342e5fb,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,4,0,4
+1188621,2019,India,10,V Kohli,ba607b88,CR Brathwaite,e342e5fb,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,1,0,1
+1188621,2019,India,10,MK Pandey,93b4fc78,CR Brathwaite,e342e5fb,V Kohli,ba607b88,0,0,0,0,0,,,,,,1,0,1
+1188621,2019,India,10,V Kohli,ba607b88,CR Brathwaite,e342e5fb,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,1,0,1
+1188621,2019,India,10,MK Pandey,93b4fc78,CR Brathwaite,e342e5fb,V Kohli,ba607b88,0,0,0,0,0,,,,,,1,0,1
+1188621,2019,India,10,V Kohli,ba607b88,CR Brathwaite,e342e5fb,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,India,11,MK Pandey,93b4fc78,KMA Paul,75224f22,V Kohli,ba607b88,0,0,0,0,0,,,,,,1,0,1
+1188621,2019,India,11,V Kohli,ba607b88,KMA Paul,75224f22,MK Pandey,93b4fc78,0,0,0,0,0,,,,,,1,0,1
+1188621,2019,India,11,MK Pandey,93b4fc78,KMA Paul,75224f22,V Kohli,ba607b88,0,0,0,0,0,,,,,,2,0,2
+1188621,2019,India,11,MK Pandey,93b4fc78,KMA Paul,75224f22,V Kohli,ba607b88,0,0,0,0,1,MK Pandey,93b4fc78,,,bowled,0,0,0
+1188621,2019,India,11,KH Pandya,5b8c830e,KMA Paul,75224f22,V Kohli,ba607b88,0,0,0,0,0,,,,,,1,0,1
+1188621,2019,India,11,V Kohli,ba607b88,KMA Paul,75224f22,KH Pandya,5b8c830e,0,0,0,0,0,,,,,,1,0,1
+1188621,2019,India,12,V Kohli,ba607b88,SP Narine,9d430b40,KH Pandya,5b8c830e,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,India,12,V Kohli,ba607b88,SP Narine,9d430b40,KH Pandya,5b8c830e,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,India,12,V Kohli,ba607b88,SP Narine,9d430b40,KH Pandya,5b8c830e,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,India,12,V Kohli,ba607b88,SP Narine,9d430b40,KH Pandya,5b8c830e,0,0,0,0,0,,,,,,1,0,1
+1188621,2019,India,12,KH Pandya,5b8c830e,SP Narine,9d430b40,V Kohli,ba607b88,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,India,12,KH Pandya,5b8c830e,SP Narine,9d430b40,V Kohli,ba607b88,0,0,0,0,0,,,,,,1,0,1
+1188621,2019,India,13,KH Pandya,5b8c830e,SS Cottrell,a1d053dd,V Kohli,ba607b88,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,India,13,KH Pandya,5b8c830e,SS Cottrell,a1d053dd,V Kohli,ba607b88,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,India,13,KH Pandya,5b8c830e,SS Cottrell,a1d053dd,V Kohli,ba607b88,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,India,13,KH Pandya,5b8c830e,SS Cottrell,a1d053dd,V Kohli,ba607b88,0,0,0,0,0,,,,,,1,0,1
+1188621,2019,India,13,V Kohli,ba607b88,SS Cottrell,a1d053dd,KH Pandya,5b8c830e,0,0,0,0,1,V Kohli,ba607b88,KA Pollard,a757b0d8,caught,0,0,0
+1188621,2019,India,13,RA Jadeja,fe93fd9d,SS Cottrell,a1d053dd,KH Pandya,5b8c830e,1,0,0,0,0,,,,,,0,1,1
+1188621,2019,India,13,RA Jadeja,fe93fd9d,SS Cottrell,a1d053dd,KH Pandya,5b8c830e,1,0,0,0,0,,,,,,0,1,1
+1188621,2019,India,13,RA Jadeja,fe93fd9d,SS Cottrell,a1d053dd,KH Pandya,5b8c830e,0,0,0,0,0,,,,,,2,0,2
+1188621,2019,India,14,KH Pandya,5b8c830e,O Thomas,c6097d68,RA Jadeja,fe93fd9d,0,0,0,0,0,,,,,,1,0,1
+1188621,2019,India,14,RA Jadeja,fe93fd9d,O Thomas,c6097d68,KH Pandya,5b8c830e,0,0,0,0,0,,,,,,3,0,3
+1188621,2019,India,14,KH Pandya,5b8c830e,O Thomas,c6097d68,RA Jadeja,fe93fd9d,0,0,0,0,0,,,,,,3,0,3
+1188621,2019,India,14,RA Jadeja,fe93fd9d,O Thomas,c6097d68,KH Pandya,5b8c830e,0,0,0,0,0,,,,,,1,0,1
+1188621,2019,India,14,KH Pandya,5b8c830e,O Thomas,c6097d68,RA Jadeja,fe93fd9d,0,0,0,0,0,,,,,,4,0,4
+1188621,2019,India,14,KH Pandya,5b8c830e,O Thomas,c6097d68,RA Jadeja,fe93fd9d,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,India,15,RA Jadeja,fe93fd9d,KMA Paul,75224f22,KH Pandya,5b8c830e,0,0,0,0,0,,,,,,1,0,1
+1188621,2019,India,15,KH Pandya,5b8c830e,KMA Paul,75224f22,RA Jadeja,fe93fd9d,0,0,0,0,0,,,,,,1,0,1
+1188621,2019,India,15,RA Jadeja,fe93fd9d,KMA Paul,75224f22,KH Pandya,5b8c830e,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,India,15,RA Jadeja,fe93fd9d,KMA Paul,75224f22,KH Pandya,5b8c830e,0,0,0,0,0,,,,,,1,0,1
+1188621,2019,India,15,KH Pandya,5b8c830e,KMA Paul,75224f22,RA Jadeja,fe93fd9d,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,India,15,KH Pandya,5b8c830e,KMA Paul,75224f22,RA Jadeja,fe93fd9d,0,0,0,0,1,KH Pandya,5b8c830e,,,bowled,0,0,0
+1188621,2019,India,16,RA Jadeja,fe93fd9d,CR Brathwaite,e342e5fb,Washington Sundar,f19ccfad,0,0,0,0,0,,,,,,1,0,1
+1188621,2019,India,16,Washington Sundar,f19ccfad,CR Brathwaite,e342e5fb,RA Jadeja,fe93fd9d,0,0,0,0,0,,,,,,1,0,1
+1188621,2019,India,16,RA Jadeja,fe93fd9d,CR Brathwaite,e342e5fb,Washington Sundar,f19ccfad,0,0,0,0,0,,,,,,1,0,1
+1188621,2019,India,16,Washington Sundar,f19ccfad,CR Brathwaite,e342e5fb,RA Jadeja,fe93fd9d,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,India,16,Washington Sundar,f19ccfad,CR Brathwaite,e342e5fb,RA Jadeja,fe93fd9d,0,0,0,0,0,,,,,,1,0,1
+1188621,2019,India,16,RA Jadeja,fe93fd9d,CR Brathwaite,e342e5fb,Washington Sundar,f19ccfad,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,India,17,Washington Sundar,f19ccfad,KMA Paul,75224f22,RA Jadeja,fe93fd9d,0,0,0,0,0,,,,,,0,0,0
+1188621,2019,India,17,Washington Sundar,f19ccfad,KMA Paul,75224f22,RA Jadeja,fe93fd9d,0,0,0,0,0,,,,,,6,0,6

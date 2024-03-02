@@ -1,0 +1,255 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1317482,2022/23,West Indies,0,KR Mayers,73c18486,MA Starc,3fb19989,J Charles,09a9d073,0,0,0,0,0,,,,,,0,0,0
+1317482,2022/23,West Indies,0,KR Mayers,73c18486,MA Starc,3fb19989,J Charles,09a9d073,0,0,0,0,0,,,,,,4,0,4
+1317482,2022/23,West Indies,0,KR Mayers,73c18486,MA Starc,3fb19989,J Charles,09a9d073,0,0,0,0,0,,,,,,1,0,1
+1317482,2022/23,West Indies,0,J Charles,09a9d073,MA Starc,3fb19989,KR Mayers,73c18486,1,0,0,0,0,,,,,,0,1,1
+1317482,2022/23,West Indies,0,J Charles,09a9d073,MA Starc,3fb19989,KR Mayers,73c18486,0,0,0,0,0,,,,,,3,0,3
+1317482,2022/23,West Indies,0,KR Mayers,73c18486,MA Starc,3fb19989,J Charles,09a9d073,1,0,0,0,0,,,,,,0,1,1
+1317482,2022/23,West Indies,0,KR Mayers,73c18486,MA Starc,3fb19989,J Charles,09a9d073,0,0,0,0,0,,,,,,4,0,4
+1317482,2022/23,West Indies,0,KR Mayers,73c18486,MA Starc,3fb19989,J Charles,09a9d073,0,0,0,0,0,,,,,,0,0,0
+1317482,2022/23,West Indies,1,J Charles,09a9d073,JR Hazlewood,03806cf8,KR Mayers,73c18486,0,0,0,0,1,J Charles,09a9d073,,,bowled,0,0,0
+1317482,2022/23,West Indies,1,BA King,7fca84b7,JR Hazlewood,03806cf8,KR Mayers,73c18486,0,0,0,0,0,,,,,,1,0,1
+1317482,2022/23,West Indies,1,KR Mayers,73c18486,JR Hazlewood,03806cf8,BA King,7fca84b7,0,0,0,0,0,,,,,,0,0,0
+1317482,2022/23,West Indies,1,KR Mayers,73c18486,JR Hazlewood,03806cf8,BA King,7fca84b7,0,0,0,0,0,,,,,,4,0,4
+1317482,2022/23,West Indies,1,KR Mayers,73c18486,JR Hazlewood,03806cf8,BA King,7fca84b7,0,0,0,0,0,,,,,,4,0,4
+1317482,2022/23,West Indies,1,KR Mayers,73c18486,JR Hazlewood,03806cf8,BA King,7fca84b7,0,0,0,0,0,,,,,,1,0,1
+1317482,2022/23,West Indies,2,KR Mayers,73c18486,PJ Cummins,ded9240e,BA King,7fca84b7,0,0,0,0,0,,,,,,0,0,0
+1317482,2022/23,West Indies,2,KR Mayers,73c18486,PJ Cummins,ded9240e,BA King,7fca84b7,0,0,0,0,0,,,,,,0,0,0
+1317482,2022/23,West Indies,2,KR Mayers,73c18486,PJ Cummins,ded9240e,BA King,7fca84b7,0,0,0,0,0,,,,,,1,0,1
+1317482,2022/23,West Indies,2,BA King,7fca84b7,PJ Cummins,ded9240e,KR Mayers,73c18486,0,0,0,0,0,,,,,,0,0,0
+1317482,2022/23,West Indies,2,BA King,7fca84b7,PJ Cummins,ded9240e,KR Mayers,73c18486,0,0,0,0,0,,,,,,0,0,0
+1317482,2022/23,West Indies,2,BA King,7fca84b7,PJ Cummins,ded9240e,KR Mayers,73c18486,0,0,0,0,0,,,,,,4,0,4
+1317482,2022/23,West Indies,3,KR Mayers,73c18486,C Green,eaa76d3c,BA King,7fca84b7,0,0,0,0,0,,,,,,0,0,0
+1317482,2022/23,West Indies,3,KR Mayers,73c18486,C Green,eaa76d3c,BA King,7fca84b7,1,0,0,0,0,,,,,,0,1,1
+1317482,2022/23,West Indies,3,KR Mayers,73c18486,C Green,eaa76d3c,BA King,7fca84b7,1,0,0,0,0,,,,,,0,1,1
+1317482,2022/23,West Indies,3,KR Mayers,73c18486,C Green,eaa76d3c,BA King,7fca84b7,0,0,0,0,0,,,,,,0,0,0
+1317482,2022/23,West Indies,3,KR Mayers,73c18486,C Green,eaa76d3c,BA King,7fca84b7,0,0,0,0,0,,,,,,6,0,6
+1317482,2022/23,West Indies,3,KR Mayers,73c18486,C Green,eaa76d3c,BA King,7fca84b7,0,0,0,0,0,,,,,,0,0,0
+1317482,2022/23,West Indies,3,KR Mayers,73c18486,C Green,eaa76d3c,BA King,7fca84b7,0,0,0,0,0,,,,,,1,0,1
+1317482,2022/23,West Indies,3,BA King,7fca84b7,C Green,eaa76d3c,KR Mayers,73c18486,0,0,0,0,0,,,,,,0,0,0
+1317482,2022/23,West Indies,4,KR Mayers,73c18486,A Zampa,14f96089,BA King,7fca84b7,0,0,0,0,0,,,,,,1,0,1
+1317482,2022/23,West Indies,4,BA King,7fca84b7,A Zampa,14f96089,KR Mayers,73c18486,0,0,0,0,0,,,,,,6,0,6
+1317482,2022/23,West Indies,4,BA King,7fca84b7,A Zampa,14f96089,KR Mayers,73c18486,0,0,0,0,0,,,,,,0,0,0
+1317482,2022/23,West Indies,4,BA King,7fca84b7,A Zampa,14f96089,KR Mayers,73c18486,0,0,0,0,0,,,,,,1,0,1
+1317482,2022/23,West Indies,4,KR Mayers,73c18486,A Zampa,14f96089,BA King,7fca84b7,0,0,0,0,0,,,,,,0,0,0
+1317482,2022/23,West Indies,4,KR Mayers,73c18486,A Zampa,14f96089,BA King,7fca84b7,0,0,0,0,0,,,,,,1,0,1
+1317482,2022/23,West Indies,5,KR Mayers,73c18486,JR Hazlewood,03806cf8,BA King,7fca84b7,0,0,0,0,0,,,,,,1,0,1
+1317482,2022/23,West Indies,5,BA King,7fca84b7,JR Hazlewood,03806cf8,KR Mayers,73c18486,0,0,0,0,1,BA King,7fca84b7,,,lbw,0,0,0
+1317482,2022/23,West Indies,5,RA Reifer,d7725664,JR Hazlewood,03806cf8,KR Mayers,73c18486,0,0,0,0,0,,,,,,1,0,1
+1317482,2022/23,West Indies,5,KR Mayers,73c18486,JR Hazlewood,03806cf8,RA Reifer,d7725664,0,0,0,0,0,,,,,,4,0,4
+1317482,2022/23,West Indies,5,KR Mayers,73c18486,JR Hazlewood,03806cf8,RA Reifer,d7725664,0,0,0,0,0,,,,,,0,0,0
+1317482,2022/23,West Indies,5,KR Mayers,73c18486,JR Hazlewood,03806cf8,RA Reifer,d7725664,0,0,0,0,0,,,,,,0,0,0
+1317482,2022/23,West Indies,6,RA Reifer,d7725664,GJ Maxwell,b681e71e,KR Mayers,73c18486,0,0,0,0,0,,,,,,1,0,1
+1317482,2022/23,West Indies,6,KR Mayers,73c18486,GJ Maxwell,b681e71e,RA Reifer,d7725664,0,0,0,0,0,,,,,,0,0,0
+1317482,2022/23,West Indies,6,KR Mayers,73c18486,GJ Maxwell,b681e71e,RA Reifer,d7725664,0,0,0,0,0,,,,,,1,0,1
+1317482,2022/23,West Indies,6,RA Reifer,d7725664,GJ Maxwell,b681e71e,KR Mayers,73c18486,0,0,0,0,0,,,,,,1,0,1
+1317482,2022/23,West Indies,6,KR Mayers,73c18486,GJ Maxwell,b681e71e,RA Reifer,d7725664,0,0,0,0,0,,,,,,0,0,0
+1317482,2022/23,West Indies,6,KR Mayers,73c18486,GJ Maxwell,b681e71e,RA Reifer,d7725664,0,0,0,0,0,,,,,,0,0,0
+1317482,2022/23,West Indies,7,RA Reifer,d7725664,A Zampa,14f96089,KR Mayers,73c18486,0,0,0,0,0,,,,,,1,0,1
+1317482,2022/23,West Indies,7,KR Mayers,73c18486,A Zampa,14f96089,RA Reifer,d7725664,0,0,0,0,0,,,,,,0,0,0
+1317482,2022/23,West Indies,7,KR Mayers,73c18486,A Zampa,14f96089,RA Reifer,d7725664,0,0,0,0,0,,,,,,1,0,1
+1317482,2022/23,West Indies,7,RA Reifer,d7725664,A Zampa,14f96089,KR Mayers,73c18486,0,0,0,0,0,,,,,,0,0,0
+1317482,2022/23,West Indies,7,RA Reifer,d7725664,A Zampa,14f96089,KR Mayers,73c18486,1,0,0,0,0,,,,,,0,1,1
+1317482,2022/23,West Indies,7,RA Reifer,d7725664,A Zampa,14f96089,KR Mayers,73c18486,0,0,0,0,0,,,,,,1,0,1
+1317482,2022/23,West Indies,7,KR Mayers,73c18486,A Zampa,14f96089,RA Reifer,d7725664,0,0,0,0,0,,,,,,1,0,1
+1317482,2022/23,West Indies,8,KR Mayers,73c18486,GJ Maxwell,b681e71e,RA Reifer,d7725664,0,0,0,0,0,,,,,,1,0,1
+1317482,2022/23,West Indies,8,RA Reifer,d7725664,GJ Maxwell,b681e71e,KR Mayers,73c18486,0,0,0,0,0,,,,,,1,0,1
+1317482,2022/23,West Indies,8,KR Mayers,73c18486,GJ Maxwell,b681e71e,RA Reifer,d7725664,0,0,0,0,0,,,,,,0,0,0
+1317482,2022/23,West Indies,8,KR Mayers,73c18486,GJ Maxwell,b681e71e,RA Reifer,d7725664,0,0,0,0,0,,,,,,1,0,1
+1317482,2022/23,West Indies,8,RA Reifer,d7725664,GJ Maxwell,b681e71e,KR Mayers,73c18486,0,0,0,0,0,,,,,,1,0,1
+1317482,2022/23,West Indies,8,KR Mayers,73c18486,GJ Maxwell,b681e71e,RA Reifer,d7725664,0,0,0,0,0,,,,,,1,0,1
+1317482,2022/23,West Indies,9,KR Mayers,73c18486,PJ Cummins,ded9240e,RA Reifer,d7725664,0,0,0,0,1,KR Mayers,73c18486,,,bowled,0,0,0
+1317482,2022/23,West Indies,9,N Pooran,3241e3fd,PJ Cummins,ded9240e,RA Reifer,d7725664,0,0,0,0,0,,,,,,0,0,0
+1317482,2022/23,West Indies,9,N Pooran,3241e3fd,PJ Cummins,ded9240e,RA Reifer,d7725664,0,0,0,0,0,,,,,,1,0,1
+1317482,2022/23,West Indies,9,RA Reifer,d7725664,PJ Cummins,ded9240e,N Pooran,3241e3fd,0,0,0,0,0,,,,,,0,0,0
+1317482,2022/23,West Indies,9,RA Reifer,d7725664,PJ Cummins,ded9240e,N Pooran,3241e3fd,0,0,0,0,0,,,,,,1,0,1
+1317482,2022/23,West Indies,9,N Pooran,3241e3fd,PJ Cummins,ded9240e,RA Reifer,d7725664,0,0,0,0,0,,,,,,0,0,0
+1317482,2022/23,West Indies,10,RA Reifer,d7725664,MA Starc,3fb19989,N Pooran,3241e3fd,0,0,0,0,0,,,,,,1,0,1
+1317482,2022/23,West Indies,10,N Pooran,3241e3fd,MA Starc,3fb19989,RA Reifer,d7725664,1,0,0,0,0,,,,,,0,1,1
+1317482,2022/23,West Indies,10,N Pooran,3241e3fd,MA Starc,3fb19989,RA Reifer,d7725664,0,0,0,0,0,,,,,,1,0,1
+1317482,2022/23,West Indies,10,RA Reifer,d7725664,MA Starc,3fb19989,N Pooran,3241e3fd,0,0,0,0,0,,,,,,2,0,2
+1317482,2022/23,West Indies,10,RA Reifer,d7725664,MA Starc,3fb19989,N Pooran,3241e3fd,1,0,0,0,0,,,,,,0,1,1
+1317482,2022/23,West Indies,10,RA Reifer,d7725664,MA Starc,3fb19989,N Pooran,3241e3fd,0,0,0,0,0,,,,,,1,0,1
+1317482,2022/23,West Indies,10,N Pooran,3241e3fd,MA Starc,3fb19989,RA Reifer,d7725664,0,0,0,0,1,N Pooran,3241e3fd,,,lbw,0,0,0
+1317482,2022/23,West Indies,10,R Powell,650d5e49,MA Starc,3fb19989,RA Reifer,d7725664,0,0,0,0,0,,,,,,0,0,0
+1317482,2022/23,West Indies,11,RA Reifer,d7725664,A Zampa,14f96089,R Powell,650d5e49,0,0,0,0,0,,,,,,0,0,0
+1317482,2022/23,West Indies,11,RA Reifer,d7725664,A Zampa,14f96089,R Powell,650d5e49,0,0,0,0,0,,,,,,2,0,2
+1317482,2022/23,West Indies,11,RA Reifer,d7725664,A Zampa,14f96089,R Powell,650d5e49,0,0,0,0,0,,,,,,1,0,1
+1317482,2022/23,West Indies,11,R Powell,650d5e49,A Zampa,14f96089,RA Reifer,d7725664,0,0,0,0,0,,,,,,0,0,0
+1317482,2022/23,West Indies,11,R Powell,650d5e49,A Zampa,14f96089,RA Reifer,d7725664,0,0,0,0,0,,,,,,1,0,1
+1317482,2022/23,West Indies,11,RA Reifer,d7725664,A Zampa,14f96089,R Powell,650d5e49,0,0,0,0,0,,,,,,1,0,1
+1317482,2022/23,West Indies,12,RA Reifer,d7725664,MA Starc,3fb19989,R Powell,650d5e49,0,0,0,0,0,,,,,,1,0,1
+1317482,2022/23,West Indies,12,R Powell,650d5e49,MA Starc,3fb19989,RA Reifer,d7725664,0,0,0,0,0,,,,,,1,0,1
+1317482,2022/23,West Indies,12,RA Reifer,d7725664,MA Starc,3fb19989,R Powell,650d5e49,0,0,0,0,0,,,,,,1,0,1
+1317482,2022/23,West Indies,12,R Powell,650d5e49,MA Starc,3fb19989,RA Reifer,d7725664,0,0,0,0,0,,,,,,2,0,2
+1317482,2022/23,West Indies,12,R Powell,650d5e49,MA Starc,3fb19989,RA Reifer,d7725664,0,0,0,0,0,,,,,,0,0,0
+1317482,2022/23,West Indies,12,R Powell,650d5e49,MA Starc,3fb19989,RA Reifer,d7725664,0,0,0,0,0,,,,,,1,0,1
+1317482,2022/23,West Indies,13,R Powell,650d5e49,A Zampa,14f96089,RA Reifer,d7725664,0,0,0,0,0,,,,,,1,0,1
+1317482,2022/23,West Indies,13,RA Reifer,d7725664,A Zampa,14f96089,R Powell,650d5e49,0,0,0,0,0,,,,,,0,0,0
+1317482,2022/23,West Indies,13,RA Reifer,d7725664,A Zampa,14f96089,R Powell,650d5e49,0,0,0,0,0,,,,,,0,0,0
+1317482,2022/23,West Indies,13,RA Reifer,d7725664,A Zampa,14f96089,R Powell,650d5e49,0,0,0,0,0,,,,,,1,0,1
+1317482,2022/23,West Indies,13,R Powell,650d5e49,A Zampa,14f96089,RA Reifer,d7725664,0,0,0,0,0,,,,,,0,0,0
+1317482,2022/23,West Indies,13,R Powell,650d5e49,A Zampa,14f96089,RA Reifer,d7725664,0,0,0,0,0,,,,,,0,0,0
+1317482,2022/23,West Indies,14,RA Reifer,d7725664,C Green,eaa76d3c,R Powell,650d5e49,0,0,0,0,1,RA Reifer,d7725664,MS Wade,afa7e784,caught,0,0,0
+1317482,2022/23,West Indies,14,JO Holder,0f721006,C Green,eaa76d3c,R Powell,650d5e49,0,0,0,0,0,,,,,,0,0,0
+1317482,2022/23,West Indies,14,JO Holder,0f721006,C Green,eaa76d3c,R Powell,650d5e49,0,0,0,0,0,,,,,,0,0,0
+1317482,2022/23,West Indies,14,JO Holder,0f721006,C Green,eaa76d3c,R Powell,650d5e49,0,0,0,0,0,,,,,,6,0,6
+1317482,2022/23,West Indies,14,JO Holder,0f721006,C Green,eaa76d3c,R Powell,650d5e49,0,0,0,0,0,,,,,,0,0,0
+1317482,2022/23,West Indies,14,JO Holder,0f721006,C Green,eaa76d3c,R Powell,650d5e49,0,0,0,0,0,,,,,,1,0,1
+1317482,2022/23,West Indies,15,JO Holder,0f721006,PJ Cummins,ded9240e,R Powell,650d5e49,0,0,0,0,0,,,,,,6,0,6
+1317482,2022/23,West Indies,15,JO Holder,0f721006,PJ Cummins,ded9240e,R Powell,650d5e49,0,0,0,0,1,JO Holder,0f721006,,,bowled,0,0,0
+1317482,2022/23,West Indies,15,OF Smith,23cca426,PJ Cummins,ded9240e,R Powell,650d5e49,0,0,0,0,0,,,,,,1,0,1
+1317482,2022/23,West Indies,15,R Powell,650d5e49,PJ Cummins,ded9240e,OF Smith,23cca426,0,0,0,0,0,,,,,,1,0,1
+1317482,2022/23,West Indies,15,OF Smith,23cca426,PJ Cummins,ded9240e,R Powell,650d5e49,1,0,0,0,0,,,,,,0,1,1
+1317482,2022/23,West Indies,15,OF Smith,23cca426,PJ Cummins,ded9240e,R Powell,650d5e49,0,0,0,0,0,,,,,,1,0,1
+1317482,2022/23,West Indies,15,R Powell,650d5e49,PJ Cummins,ded9240e,OF Smith,23cca426,0,0,0,0,0,,,,,,0,0,0
+1317482,2022/23,West Indies,16,OF Smith,23cca426,JR Hazlewood,03806cf8,R Powell,650d5e49,0,0,0,0,0,,,,,,1,0,1
+1317482,2022/23,West Indies,16,R Powell,650d5e49,JR Hazlewood,03806cf8,OF Smith,23cca426,0,0,0,0,1,R Powell,650d5e49,,,caught and bowled,0,0,0
+1317482,2022/23,West Indies,16,AS Joseph,b0946605,JR Hazlewood,03806cf8,OF Smith,23cca426,0,0,2,0,0,,,,,,0,2,2
+1317482,2022/23,West Indies,16,AS Joseph,b0946605,JR Hazlewood,03806cf8,OF Smith,23cca426,0,0,0,0,0,,,,,,0,0,0
+1317482,2022/23,West Indies,16,AS Joseph,b0946605,JR Hazlewood,03806cf8,OF Smith,23cca426,0,0,1,0,0,,,,,,0,1,1
+1317482,2022/23,West Indies,16,OF Smith,23cca426,JR Hazlewood,03806cf8,AS Joseph,b0946605,0,0,0,0,0,,,,,,0,0,0
+1317482,2022/23,West Indies,17,AS Joseph,b0946605,MA Starc,3fb19989,OF Smith,23cca426,0,0,0,0,0,,,,,,6,0,6
+1317482,2022/23,West Indies,17,AS Joseph,b0946605,MA Starc,3fb19989,OF Smith,23cca426,0,0,0,0,0,,,,,,1,0,1
+1317482,2022/23,West Indies,17,OF Smith,23cca426,MA Starc,3fb19989,AS Joseph,b0946605,0,0,0,0,0,,,,,,4,0,4
+1317482,2022/23,West Indies,17,OF Smith,23cca426,MA Starc,3fb19989,AS Joseph,b0946605,0,0,0,0,0,,,,,,1,0,1
+1317482,2022/23,West Indies,17,AS Joseph,b0946605,MA Starc,3fb19989,OF Smith,23cca426,1,0,0,0,0,,,,,,0,1,1
+1317482,2022/23,West Indies,17,AS Joseph,b0946605,MA Starc,3fb19989,OF Smith,23cca426,0,0,0,0,0,,,,,,0,0,0
+1317482,2022/23,West Indies,17,AS Joseph,b0946605,MA Starc,3fb19989,OF Smith,23cca426,0,0,0,0,1,AS Joseph,b0946605,TH David,f1f99156,caught,0,0,0
+1317482,2022/23,West Indies,18,OF Smith,23cca426,JR Hazlewood,03806cf8,Y Cariah,78bb68d4,0,0,0,0,0,,,,,,6,0,6
+1317482,2022/23,West Indies,18,OF Smith,23cca426,JR Hazlewood,03806cf8,Y Cariah,78bb68d4,0,0,0,0,0,,,,,,0,0,0
+1317482,2022/23,West Indies,18,OF Smith,23cca426,JR Hazlewood,03806cf8,Y Cariah,78bb68d4,0,0,0,0,0,,,,,,4,0,4
+1317482,2022/23,West Indies,18,OF Smith,23cca426,JR Hazlewood,03806cf8,Y Cariah,78bb68d4,0,1,0,0,0,,,,,,0,1,1
+1317482,2022/23,West Indies,18,OF Smith,23cca426,JR Hazlewood,03806cf8,Y Cariah,78bb68d4,0,0,0,0,0,,,,,,2,0,2
+1317482,2022/23,West Indies,18,OF Smith,23cca426,JR Hazlewood,03806cf8,Y Cariah,78bb68d4,0,0,0,0,0,,,,,,4,0,4
+1317482,2022/23,West Indies,18,OF Smith,23cca426,JR Hazlewood,03806cf8,Y Cariah,78bb68d4,0,0,0,0,0,,,,,,1,0,1
+1317482,2022/23,West Indies,19,OF Smith,23cca426,PJ Cummins,ded9240e,Y Cariah,78bb68d4,1,0,0,0,0,,,,,,0,1,1
+1317482,2022/23,West Indies,19,OF Smith,23cca426,PJ Cummins,ded9240e,Y Cariah,78bb68d4,1,0,0,0,0,,,,,,0,1,1
+1317482,2022/23,West Indies,19,OF Smith,23cca426,PJ Cummins,ded9240e,Y Cariah,78bb68d4,0,0,0,0,0,,,,,,1,0,1
+1317482,2022/23,West Indies,19,Y Cariah,78bb68d4,PJ Cummins,ded9240e,OF Smith,23cca426,0,0,0,0,0,,,,,,1,0,1
+1317482,2022/23,West Indies,19,OF Smith,23cca426,PJ Cummins,ded9240e,Y Cariah,78bb68d4,0,0,0,0,0,,,,,,0,0,0
+1317482,2022/23,West Indies,19,OF Smith,23cca426,PJ Cummins,ded9240e,Y Cariah,78bb68d4,0,0,0,0,0,,,,,,0,0,0
+1317482,2022/23,West Indies,19,OF Smith,23cca426,PJ Cummins,ded9240e,Y Cariah,78bb68d4,0,0,0,0,0,,,,,,1,0,1
+1317482,2022/23,West Indies,19,Y Cariah,78bb68d4,PJ Cummins,ded9240e,OF Smith,23cca426,0,0,0,0,1,OF Smith,23cca426,MS Wade,afa7e784,run out,0,0,0
+1317482,2022/23,Australia,0,DA Warner,dcce6f09,KR Mayers,73c18486,C Green,eaa76d3c,0,0,0,0,0,,,,,,1,0,1
+1317482,2022/23,Australia,0,C Green,eaa76d3c,KR Mayers,73c18486,DA Warner,dcce6f09,0,0,0,0,0,,,,,,0,0,0
+1317482,2022/23,Australia,0,C Green,eaa76d3c,KR Mayers,73c18486,DA Warner,dcce6f09,0,0,0,0,0,,,,,,1,0,1
+1317482,2022/23,Australia,0,DA Warner,dcce6f09,KR Mayers,73c18486,C Green,eaa76d3c,0,0,0,0,0,,,,,,4,0,4
+1317482,2022/23,Australia,0,DA Warner,dcce6f09,KR Mayers,73c18486,C Green,eaa76d3c,0,0,0,0,0,,,,,,4,0,4
+1317482,2022/23,Australia,0,DA Warner,dcce6f09,KR Mayers,73c18486,C Green,eaa76d3c,0,0,0,0,0,,,,,,1,0,1
+1317482,2022/23,Australia,1,DA Warner,dcce6f09,SS Cottrell,a1d053dd,C Green,eaa76d3c,0,0,0,0,0,,,,,,4,0,4
+1317482,2022/23,Australia,1,DA Warner,dcce6f09,SS Cottrell,a1d053dd,C Green,eaa76d3c,0,0,0,0,1,DA Warner,dcce6f09,BA King,7fca84b7,caught,0,0,0
+1317482,2022/23,Australia,1,MR Marsh,3d8feaf8,SS Cottrell,a1d053dd,C Green,eaa76d3c,1,0,0,0,0,,,,,,0,1,1
+1317482,2022/23,Australia,1,MR Marsh,3d8feaf8,SS Cottrell,a1d053dd,C Green,eaa76d3c,0,0,0,0,0,,,,,,2,0,2
+1317482,2022/23,Australia,1,MR Marsh,3d8feaf8,SS Cottrell,a1d053dd,C Green,eaa76d3c,1,0,0,0,0,,,,,,0,1,1
+1317482,2022/23,Australia,1,MR Marsh,3d8feaf8,SS Cottrell,a1d053dd,C Green,eaa76d3c,0,0,0,0,0,,,,,,1,0,1
+1317482,2022/23,Australia,1,C Green,eaa76d3c,SS Cottrell,a1d053dd,MR Marsh,3d8feaf8,0,0,0,0,0,,,,,,1,0,1
+1317482,2022/23,Australia,1,MR Marsh,3d8feaf8,SS Cottrell,a1d053dd,C Green,eaa76d3c,0,0,0,0,1,MR Marsh,3d8feaf8,J Charles,09a9d073,caught,0,0,0
+1317482,2022/23,Australia,2,C Green,eaa76d3c,AS Joseph,b0946605,AJ Finch,b8d490fd,0,0,1,0,0,,,,,,0,1,1
+1317482,2022/23,Australia,2,AJ Finch,b8d490fd,AS Joseph,b0946605,C Green,eaa76d3c,0,0,0,0,0,,,,,,0,0,0
+1317482,2022/23,Australia,2,AJ Finch,b8d490fd,AS Joseph,b0946605,C Green,eaa76d3c,0,0,0,0,0,,,,,,0,0,0
+1317482,2022/23,Australia,2,AJ Finch,b8d490fd,AS Joseph,b0946605,C Green,eaa76d3c,0,0,0,0,0,,,,,,0,0,0
+1317482,2022/23,Australia,2,AJ Finch,b8d490fd,AS Joseph,b0946605,C Green,eaa76d3c,0,0,0,0,0,,,,,,1,0,1
+1317482,2022/23,Australia,2,C Green,eaa76d3c,AS Joseph,b0946605,AJ Finch,b8d490fd,0,0,2,0,0,,,,,,0,2,2
+1317482,2022/23,Australia,3,AJ Finch,b8d490fd,SS Cottrell,a1d053dd,C Green,eaa76d3c,0,0,0,0,0,,,,,,0,0,0
+1317482,2022/23,Australia,3,AJ Finch,b8d490fd,SS Cottrell,a1d053dd,C Green,eaa76d3c,0,0,0,0,0,,,,,,4,0,4
+1317482,2022/23,Australia,3,AJ Finch,b8d490fd,SS Cottrell,a1d053dd,C Green,eaa76d3c,0,0,0,0,0,,,,,,2,0,2
+1317482,2022/23,Australia,3,AJ Finch,b8d490fd,SS Cottrell,a1d053dd,C Green,eaa76d3c,0,0,0,0,0,,,,,,2,0,2
+1317482,2022/23,Australia,3,AJ Finch,b8d490fd,SS Cottrell,a1d053dd,C Green,eaa76d3c,0,0,0,0,0,,,,,,1,0,1
+1317482,2022/23,Australia,3,C Green,eaa76d3c,SS Cottrell,a1d053dd,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,1,0,1
+1317482,2022/23,Australia,4,C Green,eaa76d3c,JO Holder,0f721006,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,6,0,6
+1317482,2022/23,Australia,4,C Green,eaa76d3c,JO Holder,0f721006,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,1,0,1
+1317482,2022/23,Australia,4,AJ Finch,b8d490fd,JO Holder,0f721006,C Green,eaa76d3c,0,0,0,0,0,,,,,,4,0,4
+1317482,2022/23,Australia,4,AJ Finch,b8d490fd,JO Holder,0f721006,C Green,eaa76d3c,0,0,0,0,0,,,,,,0,0,0
+1317482,2022/23,Australia,4,AJ Finch,b8d490fd,JO Holder,0f721006,C Green,eaa76d3c,0,0,0,0,0,,,,,,1,0,1
+1317482,2022/23,Australia,4,C Green,eaa76d3c,JO Holder,0f721006,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,4,0,4
+1317482,2022/23,Australia,5,AJ Finch,b8d490fd,AS Joseph,b0946605,C Green,eaa76d3c,0,0,0,0,0,,,,,,2,0,2
+1317482,2022/23,Australia,5,AJ Finch,b8d490fd,AS Joseph,b0946605,C Green,eaa76d3c,0,0,0,0,0,,,,,,0,0,0
+1317482,2022/23,Australia,5,AJ Finch,b8d490fd,AS Joseph,b0946605,C Green,eaa76d3c,0,0,0,0,0,,,,,,2,0,2
+1317482,2022/23,Australia,5,AJ Finch,b8d490fd,AS Joseph,b0946605,C Green,eaa76d3c,0,0,0,0,0,,,,,,1,0,1
+1317482,2022/23,Australia,5,C Green,eaa76d3c,AS Joseph,b0946605,AJ Finch,b8d490fd,0,0,0,0,1,C Green,eaa76d3c,,,bowled,0,0,0
+1317482,2022/23,Australia,5,GJ Maxwell,b681e71e,AS Joseph,b0946605,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,0,0,0
+1317482,2022/23,Australia,6,AJ Finch,b8d490fd,Y Cariah,78bb68d4,GJ Maxwell,b681e71e,0,0,0,0,0,,,,,,0,0,0
+1317482,2022/23,Australia,6,AJ Finch,b8d490fd,Y Cariah,78bb68d4,GJ Maxwell,b681e71e,0,0,0,0,0,,,,,,1,0,1
+1317482,2022/23,Australia,6,GJ Maxwell,b681e71e,Y Cariah,78bb68d4,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,0,0,0
+1317482,2022/23,Australia,6,GJ Maxwell,b681e71e,Y Cariah,78bb68d4,AJ Finch,b8d490fd,0,0,0,0,1,GJ Maxwell,b681e71e,N Pooran,3241e3fd,caught,0,0,0
+1317482,2022/23,Australia,6,TH David,f1f99156,Y Cariah,78bb68d4,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,0,0,0
+1317482,2022/23,Australia,6,TH David,f1f99156,Y Cariah,78bb68d4,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,0,0,0
+1317482,2022/23,Australia,7,AJ Finch,b8d490fd,JO Holder,0f721006,TH David,f1f99156,0,0,0,0,0,,,,,,0,0,0
+1317482,2022/23,Australia,7,AJ Finch,b8d490fd,JO Holder,0f721006,TH David,f1f99156,0,0,0,0,0,,,,,,0,0,0
+1317482,2022/23,Australia,7,AJ Finch,b8d490fd,JO Holder,0f721006,TH David,f1f99156,0,0,0,0,0,,,,,,1,0,1
+1317482,2022/23,Australia,7,TH David,f1f99156,JO Holder,0f721006,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,0,0,0
+1317482,2022/23,Australia,7,TH David,f1f99156,JO Holder,0f721006,AJ Finch,b8d490fd,0,0,0,0,1,TH David,f1f99156,OF Smith,23cca426,caught,0,0,0
+1317482,2022/23,Australia,7,MS Wade,afa7e784,JO Holder,0f721006,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,0,0,0
+1317482,2022/23,Australia,8,AJ Finch,b8d490fd,Y Cariah,78bb68d4,MS Wade,afa7e784,0,0,0,0,0,,,,,,1,0,1
+1317482,2022/23,Australia,8,MS Wade,afa7e784,Y Cariah,78bb68d4,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,1,0,1
+1317482,2022/23,Australia,8,AJ Finch,b8d490fd,Y Cariah,78bb68d4,MS Wade,afa7e784,0,0,0,0,0,,,,,,0,0,0
+1317482,2022/23,Australia,8,AJ Finch,b8d490fd,Y Cariah,78bb68d4,MS Wade,afa7e784,0,0,0,0,0,,,,,,1,0,1
+1317482,2022/23,Australia,8,MS Wade,afa7e784,Y Cariah,78bb68d4,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,1,0,1
+1317482,2022/23,Australia,8,AJ Finch,b8d490fd,Y Cariah,78bb68d4,MS Wade,afa7e784,0,0,0,0,0,,,,,,0,0,0
+1317482,2022/23,Australia,9,MS Wade,afa7e784,OF Smith,23cca426,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,0,0,0
+1317482,2022/23,Australia,9,MS Wade,afa7e784,OF Smith,23cca426,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,4,0,4
+1317482,2022/23,Australia,9,MS Wade,afa7e784,OF Smith,23cca426,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,0,0,0
+1317482,2022/23,Australia,9,MS Wade,afa7e784,OF Smith,23cca426,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,1,0,1
+1317482,2022/23,Australia,9,AJ Finch,b8d490fd,OF Smith,23cca426,MS Wade,afa7e784,0,0,0,0,0,,,,,,1,0,1
+1317482,2022/23,Australia,9,MS Wade,afa7e784,OF Smith,23cca426,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,0,0,0
+1317482,2022/23,Australia,10,AJ Finch,b8d490fd,Y Cariah,78bb68d4,MS Wade,afa7e784,0,0,0,0,0,,,,,,1,0,1
+1317482,2022/23,Australia,10,MS Wade,afa7e784,Y Cariah,78bb68d4,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,1,0,1
+1317482,2022/23,Australia,10,AJ Finch,b8d490fd,Y Cariah,78bb68d4,MS Wade,afa7e784,0,0,0,0,0,,,,,,4,0,4
+1317482,2022/23,Australia,10,AJ Finch,b8d490fd,Y Cariah,78bb68d4,MS Wade,afa7e784,0,0,0,0,0,,,,,,0,0,0
+1317482,2022/23,Australia,10,AJ Finch,b8d490fd,Y Cariah,78bb68d4,MS Wade,afa7e784,0,0,0,0,0,,,,,,1,0,1
+1317482,2022/23,Australia,10,MS Wade,afa7e784,Y Cariah,78bb68d4,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,0,0,0
+1317482,2022/23,Australia,11,AJ Finch,b8d490fd,SS Cottrell,a1d053dd,MS Wade,afa7e784,0,0,0,0,0,,,,,,4,0,4
+1317482,2022/23,Australia,11,AJ Finch,b8d490fd,SS Cottrell,a1d053dd,MS Wade,afa7e784,0,0,0,0,0,,,,,,1,0,1
+1317482,2022/23,Australia,11,MS Wade,afa7e784,SS Cottrell,a1d053dd,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,4,0,4
+1317482,2022/23,Australia,11,MS Wade,afa7e784,SS Cottrell,a1d053dd,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,4,0,4
+1317482,2022/23,Australia,11,MS Wade,afa7e784,SS Cottrell,a1d053dd,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,1,0,1
+1317482,2022/23,Australia,11,AJ Finch,b8d490fd,SS Cottrell,a1d053dd,MS Wade,afa7e784,0,0,0,0,0,,,,,,4,0,4
+1317482,2022/23,Australia,12,MS Wade,afa7e784,AS Joseph,b0946605,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,1,0,1
+1317482,2022/23,Australia,12,AJ Finch,b8d490fd,AS Joseph,b0946605,MS Wade,afa7e784,0,0,0,0,0,,,,,,1,0,1
+1317482,2022/23,Australia,12,MS Wade,afa7e784,AS Joseph,b0946605,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,1,0,1
+1317482,2022/23,Australia,12,AJ Finch,b8d490fd,AS Joseph,b0946605,MS Wade,afa7e784,0,0,0,0,0,,,,,,2,0,2
+1317482,2022/23,Australia,12,AJ Finch,b8d490fd,AS Joseph,b0946605,MS Wade,afa7e784,0,0,0,0,0,,,,,,1,0,1
+1317482,2022/23,Australia,12,MS Wade,afa7e784,AS Joseph,b0946605,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,1,0,1
+1317482,2022/23,Australia,13,MS Wade,afa7e784,JO Holder,0f721006,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,1,0,1
+1317482,2022/23,Australia,13,AJ Finch,b8d490fd,JO Holder,0f721006,MS Wade,afa7e784,0,0,0,0,0,,,,,,0,0,0
+1317482,2022/23,Australia,13,AJ Finch,b8d490fd,JO Holder,0f721006,MS Wade,afa7e784,0,0,0,0,0,,,,,,0,0,0
+1317482,2022/23,Australia,13,AJ Finch,b8d490fd,JO Holder,0f721006,MS Wade,afa7e784,0,0,0,0,0,,,,,,2,0,2
+1317482,2022/23,Australia,13,AJ Finch,b8d490fd,JO Holder,0f721006,MS Wade,afa7e784,0,0,0,0,0,,,,,,1,0,1
+1317482,2022/23,Australia,13,MS Wade,afa7e784,JO Holder,0f721006,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,2,0,2
+1317482,2022/23,Australia,14,AJ Finch,b8d490fd,Y Cariah,78bb68d4,MS Wade,afa7e784,0,0,0,0,0,,,,,,0,0,0
+1317482,2022/23,Australia,14,AJ Finch,b8d490fd,Y Cariah,78bb68d4,MS Wade,afa7e784,0,0,0,0,0,,,,,,0,0,0
+1317482,2022/23,Australia,14,AJ Finch,b8d490fd,Y Cariah,78bb68d4,MS Wade,afa7e784,0,0,0,0,0,,,,,,0,0,0
+1317482,2022/23,Australia,14,AJ Finch,b8d490fd,Y Cariah,78bb68d4,MS Wade,afa7e784,0,0,0,0,0,,,,,,1,0,1
+1317482,2022/23,Australia,14,MS Wade,afa7e784,Y Cariah,78bb68d4,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,2,0,2
+1317482,2022/23,Australia,14,MS Wade,afa7e784,Y Cariah,78bb68d4,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,0,0,0
+1317482,2022/23,Australia,15,AJ Finch,b8d490fd,OF Smith,23cca426,MS Wade,afa7e784,0,0,0,0,0,,,,,,2,0,2
+1317482,2022/23,Australia,15,AJ Finch,b8d490fd,OF Smith,23cca426,MS Wade,afa7e784,0,0,0,0,0,,,,,,0,0,0
+1317482,2022/23,Australia,15,AJ Finch,b8d490fd,OF Smith,23cca426,MS Wade,afa7e784,0,0,0,0,0,,,,,,1,0,1
+1317482,2022/23,Australia,15,MS Wade,afa7e784,OF Smith,23cca426,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,0,0,0
+1317482,2022/23,Australia,15,MS Wade,afa7e784,OF Smith,23cca426,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,2,0,2
+1317482,2022/23,Australia,15,MS Wade,afa7e784,OF Smith,23cca426,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,4,0,4
+1317482,2022/23,Australia,16,AJ Finch,b8d490fd,JO Holder,0f721006,MS Wade,afa7e784,0,0,1,0,0,,,,,,0,1,1
+1317482,2022/23,Australia,16,MS Wade,afa7e784,JO Holder,0f721006,AJ Finch,b8d490fd,0,0,1,0,0,,,,,,0,1,1
+1317482,2022/23,Australia,16,AJ Finch,b8d490fd,JO Holder,0f721006,MS Wade,afa7e784,0,0,0,0,0,,,,,,0,0,0
+1317482,2022/23,Australia,16,AJ Finch,b8d490fd,JO Holder,0f721006,MS Wade,afa7e784,0,0,0,0,0,,,,,,4,0,4
+1317482,2022/23,Australia,16,AJ Finch,b8d490fd,JO Holder,0f721006,MS Wade,afa7e784,0,0,0,0,0,,,,,,2,0,2
+1317482,2022/23,Australia,16,AJ Finch,b8d490fd,JO Holder,0f721006,MS Wade,afa7e784,0,0,0,0,0,,,,,,1,0,1
+1317482,2022/23,Australia,17,AJ Finch,b8d490fd,AS Joseph,b0946605,MS Wade,afa7e784,0,0,0,0,1,AJ Finch,b8d490fd,JO Holder,0f721006,caught,0,0,0
+1317482,2022/23,Australia,17,PJ Cummins,ded9240e,AS Joseph,b0946605,MS Wade,afa7e784,0,0,0,0,0,,,,,,0,0,0
+1317482,2022/23,Australia,17,PJ Cummins,ded9240e,AS Joseph,b0946605,MS Wade,afa7e784,0,0,0,0,0,,,,,,0,0,0
+1317482,2022/23,Australia,17,PJ Cummins,ded9240e,AS Joseph,b0946605,MS Wade,afa7e784,0,0,0,0,0,,,,,,2,0,2
+1317482,2022/23,Australia,17,PJ Cummins,ded9240e,AS Joseph,b0946605,MS Wade,afa7e784,0,0,0,0,0,,,,,,1,0,1
+1317482,2022/23,Australia,17,MS Wade,afa7e784,AS Joseph,b0946605,PJ Cummins,ded9240e,1,0,0,0,0,,,,,,0,1,1
+1317482,2022/23,Australia,17,MS Wade,afa7e784,AS Joseph,b0946605,PJ Cummins,ded9240e,0,0,0,0,0,,,,,,0,0,0
+1317482,2022/23,Australia,18,PJ Cummins,ded9240e,OF Smith,23cca426,MS Wade,afa7e784,0,0,0,0,0,,,,,,0,0,0
+1317482,2022/23,Australia,18,PJ Cummins,ded9240e,OF Smith,23cca426,MS Wade,afa7e784,0,0,0,0,0,,,,,,1,0,1
+1317482,2022/23,Australia,18,MS Wade,afa7e784,OF Smith,23cca426,PJ Cummins,ded9240e,0,0,0,0,0,,,,,,1,0,1
+1317482,2022/23,Australia,18,PJ Cummins,ded9240e,OF Smith,23cca426,MS Wade,afa7e784,0,0,0,0,1,PJ Cummins,ded9240e,,,bowled,0,0,0
+1317482,2022/23,Australia,18,MA Starc,3fb19989,OF Smith,23cca426,MS Wade,afa7e784,0,0,0,0,0,,,,,,0,0,0
+1317482,2022/23,Australia,18,MA Starc,3fb19989,OF Smith,23cca426,MS Wade,afa7e784,0,0,0,0,0,,,,,,2,0,2
+1317482,2022/23,Australia,19,MS Wade,afa7e784,SS Cottrell,a1d053dd,MA Starc,3fb19989,0,0,0,0,0,,,,,,4,0,4
+1317482,2022/23,Australia,19,MS Wade,afa7e784,SS Cottrell,a1d053dd,MA Starc,3fb19989,0,0,0,0,0,,,,,,2,0,2
+1317482,2022/23,Australia,19,MS Wade,afa7e784,SS Cottrell,a1d053dd,MA Starc,3fb19989,0,0,0,0,0,,,,,,1,0,1
+1317482,2022/23,Australia,19,MA Starc,3fb19989,SS Cottrell,a1d053dd,MS Wade,afa7e784,0,0,0,0,0,,,,,,2,0,2
+1317482,2022/23,Australia,19,MA Starc,3fb19989,SS Cottrell,a1d053dd,MS Wade,afa7e784,0,0,0,0,0,,,,,,2,0,2

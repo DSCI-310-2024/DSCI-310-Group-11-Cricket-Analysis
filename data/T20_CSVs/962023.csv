@@ -1,0 +1,123 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+962023,2016,Ireland,0,CMA Shillington,60e11a00,Jahanara Alam,752183c1,GH Lewis,1b9d1579,0,0,0,0,0,,,,,,2,0,2
+962023,2016,Ireland,0,CMA Shillington,60e11a00,Jahanara Alam,752183c1,GH Lewis,1b9d1579,0,0,0,0,0,,,,,,1,0,1
+962023,2016,Ireland,0,GH Lewis,1b9d1579,Jahanara Alam,752183c1,CMA Shillington,60e11a00,0,0,0,0,0,,,,,,0,0,0
+962023,2016,Ireland,0,GH Lewis,1b9d1579,Jahanara Alam,752183c1,CMA Shillington,60e11a00,0,0,0,0,0,,,,,,1,0,1
+962023,2016,Ireland,0,CMA Shillington,60e11a00,Jahanara Alam,752183c1,GH Lewis,1b9d1579,0,0,0,0,0,,,,,,0,0,0
+962023,2016,Ireland,0,CMA Shillington,60e11a00,Jahanara Alam,752183c1,GH Lewis,1b9d1579,0,0,0,0,0,,,,,,0,0,0
+962023,2016,Ireland,1,GH Lewis,1b9d1579,Panna Ghosh,005f0561,CMA Shillington,60e11a00,0,0,0,0,0,,,,,,0,0,0
+962023,2016,Ireland,1,GH Lewis,1b9d1579,Panna Ghosh,005f0561,CMA Shillington,60e11a00,0,0,0,0,0,,,,,,1,0,1
+962023,2016,Ireland,1,CMA Shillington,60e11a00,Panna Ghosh,005f0561,GH Lewis,1b9d1579,0,0,0,0,0,,,,,,0,0,0
+962023,2016,Ireland,1,CMA Shillington,60e11a00,Panna Ghosh,005f0561,GH Lewis,1b9d1579,0,0,0,0,0,,,,,,0,0,0
+962023,2016,Ireland,1,CMA Shillington,60e11a00,Panna Ghosh,005f0561,GH Lewis,1b9d1579,0,0,0,0,0,,,,,,2,0,2
+962023,2016,Ireland,1,CMA Shillington,60e11a00,Panna Ghosh,005f0561,GH Lewis,1b9d1579,0,0,0,0,0,,,,,,1,0,1
+962023,2016,Ireland,2,CMA Shillington,60e11a00,Ritu Moni,ad3940a5,GH Lewis,1b9d1579,0,0,0,0,0,,,,,,4,0,4
+962023,2016,Ireland,2,CMA Shillington,60e11a00,Ritu Moni,ad3940a5,GH Lewis,1b9d1579,0,0,0,0,0,,,,,,1,0,1
+962023,2016,Ireland,2,GH Lewis,1b9d1579,Ritu Moni,ad3940a5,CMA Shillington,60e11a00,0,0,0,0,0,,,,,,2,0,2
+962023,2016,Ireland,2,GH Lewis,1b9d1579,Ritu Moni,ad3940a5,CMA Shillington,60e11a00,0,0,0,0,1,GH Lewis,1b9d1579,Ayasha Rahman,2f899a44,caught,0,0,0
+962023,2016,Ireland,2,CMA Shillington,60e11a00,Ritu Moni,ad3940a5,SM Kavanagh,7e9b3b60,0,0,0,0,0,,,,,,4,0,4
+962023,2016,Ireland,2,CMA Shillington,60e11a00,Ritu Moni,ad3940a5,SM Kavanagh,7e9b3b60,0,0,0,0,0,,,,,,0,0,0
+962023,2016,Ireland,3,SM Kavanagh,7e9b3b60,Nahida Akter,66078174,CMA Shillington,60e11a00,0,0,0,0,0,,,,,,0,0,0
+962023,2016,Ireland,3,SM Kavanagh,7e9b3b60,Nahida Akter,66078174,CMA Shillington,60e11a00,0,0,0,0,0,,,,,,1,0,1
+962023,2016,Ireland,3,CMA Shillington,60e11a00,Nahida Akter,66078174,SM Kavanagh,7e9b3b60,0,0,0,0,0,,,,,,1,0,1
+962023,2016,Ireland,3,SM Kavanagh,7e9b3b60,Nahida Akter,66078174,CMA Shillington,60e11a00,0,0,0,0,0,,,,,,1,0,1
+962023,2016,Ireland,3,CMA Shillington,60e11a00,Nahida Akter,66078174,SM Kavanagh,7e9b3b60,0,0,0,0,0,,,,,,2,0,2
+962023,2016,Ireland,3,CMA Shillington,60e11a00,Nahida Akter,66078174,SM Kavanagh,7e9b3b60,0,0,0,0,0,,,,,,4,0,4
+962023,2016,Ireland,4,SM Kavanagh,7e9b3b60,Fahima Khatun,558cdd64,CMA Shillington,60e11a00,0,0,0,0,0,,,,,,1,0,1
+962023,2016,Ireland,4,CMA Shillington,60e11a00,Fahima Khatun,558cdd64,SM Kavanagh,7e9b3b60,0,0,0,0,0,,,,,,0,0,0
+962023,2016,Ireland,4,CMA Shillington,60e11a00,Fahima Khatun,558cdd64,SM Kavanagh,7e9b3b60,0,0,0,0,0,,,,,,4,0,4
+962023,2016,Ireland,4,CMA Shillington,60e11a00,Fahima Khatun,558cdd64,SM Kavanagh,7e9b3b60,0,0,0,0,1,CMA Shillington,60e11a00,,,bowled,0,0,0
+962023,2016,Ireland,4,J Gray,a336b0fe,Fahima Khatun,558cdd64,SM Kavanagh,7e9b3b60,0,0,0,0,0,,,,,,0,0,0
+962023,2016,Ireland,4,J Gray,a336b0fe,Fahima Khatun,558cdd64,SM Kavanagh,7e9b3b60,0,0,0,0,0,,,,,,0,0,0
+962023,2016,Ireland,5,SM Kavanagh,7e9b3b60,Panna Ghosh,005f0561,J Gray,a336b0fe,0,0,0,0,0,,,,,,1,0,1
+962023,2016,Ireland,5,J Gray,a336b0fe,Panna Ghosh,005f0561,SM Kavanagh,7e9b3b60,0,0,0,0,0,,,,,,0,0,0
+962023,2016,Ireland,5,J Gray,a336b0fe,Panna Ghosh,005f0561,SM Kavanagh,7e9b3b60,0,0,0,0,0,,,,,,1,0,1
+962023,2016,Ireland,5,SM Kavanagh,7e9b3b60,Panna Ghosh,005f0561,J Gray,a336b0fe,0,0,0,0,0,,,,,,1,0,1
+962023,2016,Ireland,5,J Gray,a336b0fe,Panna Ghosh,005f0561,SM Kavanagh,7e9b3b60,0,0,0,0,1,J Gray,a336b0fe,Lata Mondal,5bf87532,caught,0,0,0
+962023,2016,Ireland,5,SM Kavanagh,7e9b3b60,Panna Ghosh,005f0561,MV Waldron,2e4f11e9,0,0,0,0,0,,,,,,0,0,0
+962023,2016,Ireland,6,MV Waldron,2e4f11e9,Rumana Ahmed,a92763ea,SM Kavanagh,7e9b3b60,0,0,0,0,0,,,,,,0,0,0
+962023,2016,Ireland,6,MV Waldron,2e4f11e9,Rumana Ahmed,a92763ea,SM Kavanagh,7e9b3b60,0,0,0,0,0,,,,,,2,0,2
+962023,2016,Ireland,6,MV Waldron,2e4f11e9,Rumana Ahmed,a92763ea,SM Kavanagh,7e9b3b60,0,0,0,0,0,,,,,,1,0,1
+962023,2016,Ireland,6,SM Kavanagh,7e9b3b60,Rumana Ahmed,a92763ea,MV Waldron,2e4f11e9,0,0,0,0,0,,,,,,1,0,1
+962023,2016,Ireland,6,MV Waldron,2e4f11e9,Rumana Ahmed,a92763ea,SM Kavanagh,7e9b3b60,0,0,0,0,0,,,,,,2,0,2
+962023,2016,Ireland,6,MV Waldron,2e4f11e9,Rumana Ahmed,a92763ea,SM Kavanagh,7e9b3b60,0,0,0,0,0,,,,,,1,0,1
+962023,2016,Ireland,7,MV Waldron,2e4f11e9,Khadija Tul Kubra,bec997fc,SM Kavanagh,7e9b3b60,0,0,0,0,0,,,,,,0,0,0
+962023,2016,Ireland,7,MV Waldron,2e4f11e9,Khadija Tul Kubra,bec997fc,SM Kavanagh,7e9b3b60,0,0,0,0,0,,,,,,1,0,1
+962023,2016,Ireland,7,SM Kavanagh,7e9b3b60,Khadija Tul Kubra,bec997fc,MV Waldron,2e4f11e9,0,0,0,0,0,,,,,,1,0,1
+962023,2016,Ireland,7,MV Waldron,2e4f11e9,Khadija Tul Kubra,bec997fc,SM Kavanagh,7e9b3b60,0,0,0,0,0,,,,,,0,0,0
+962023,2016,Ireland,7,MV Waldron,2e4f11e9,Khadija Tul Kubra,bec997fc,SM Kavanagh,7e9b3b60,0,0,0,0,0,,,,,,0,0,0
+962023,2016,Ireland,7,MV Waldron,2e4f11e9,Khadija Tul Kubra,bec997fc,SM Kavanagh,7e9b3b60,0,0,0,0,1,MV Waldron,2e4f11e9,,,caught and bowled,0,0,0
+962023,2016,Ireland,8,SM Kavanagh,7e9b3b60,Rumana Ahmed,a92763ea,IMHC Joyce,d3b4b8ed,0,0,0,0,0,,,,,,0,0,0
+962023,2016,Ireland,8,SM Kavanagh,7e9b3b60,Rumana Ahmed,a92763ea,IMHC Joyce,d3b4b8ed,0,0,0,0,0,,,,,,0,0,0
+962023,2016,Ireland,8,SM Kavanagh,7e9b3b60,Rumana Ahmed,a92763ea,IMHC Joyce,d3b4b8ed,0,0,0,0,1,SM Kavanagh,7e9b3b60,Nigar Sultana,3827f6a2,stumped,0,0,0
+962023,2016,Ireland,8,KJ Garth,0b69a844,Rumana Ahmed,a92763ea,IMHC Joyce,d3b4b8ed,0,0,0,0,0,,,,,,1,0,1
+962023,2016,Ireland,8,IMHC Joyce,d3b4b8ed,Rumana Ahmed,a92763ea,KJ Garth,0b69a844,0,0,0,0,0,,,,,,1,0,1
+962023,2016,Ireland,8,KJ Garth,0b69a844,Rumana Ahmed,a92763ea,IMHC Joyce,d3b4b8ed,0,0,0,0,0,,,,,,4,0,4
+962023,2016,Ireland,9,IMHC Joyce,d3b4b8ed,Khadija Tul Kubra,bec997fc,KJ Garth,0b69a844,0,0,0,0,0,,,,,,0,0,0
+962023,2016,Ireland,9,IMHC Joyce,d3b4b8ed,Khadija Tul Kubra,bec997fc,KJ Garth,0b69a844,0,0,0,0,1,IMHC Joyce,d3b4b8ed,Jahanara Alam,752183c1,caught,0,0,0
+962023,2016,Ireland,9,L Delany,b4f73b44,Khadija Tul Kubra,bec997fc,KJ Garth,0b69a844,0,0,0,0,0,,,,,,1,0,1
+962023,2016,Ireland,9,KJ Garth,0b69a844,Khadija Tul Kubra,bec997fc,L Delany,b4f73b44,0,0,0,0,0,,,,,,1,0,1
+962023,2016,Ireland,9,L Delany,b4f73b44,Khadija Tul Kubra,bec997fc,KJ Garth,0b69a844,0,0,0,0,1,L Delany,b4f73b44,Nigar Sultana,3827f6a2,run out,1,0,1
+962023,2016,Ireland,9,AJ Kenealy,ca753f5d,Khadija Tul Kubra,bec997fc,KJ Garth,0b69a844,0,0,0,0,1,AJ Kenealy,ca753f5d,Nigar Sultana,3827f6a2,stumped,0,0,0
+962023,2016,Bangladesh,0,Ayasha Rahman,2f899a44,AJ Kenealy,ca753f5d,Lata Mondal,5bf87532,0,0,0,0,0,,,,,,4,0,4
+962023,2016,Bangladesh,0,Ayasha Rahman,2f899a44,AJ Kenealy,ca753f5d,Lata Mondal,5bf87532,0,0,0,0,0,,,,,,0,0,0
+962023,2016,Bangladesh,0,Ayasha Rahman,2f899a44,AJ Kenealy,ca753f5d,Lata Mondal,5bf87532,0,0,0,0,0,,,,,,0,0,0
+962023,2016,Bangladesh,0,Ayasha Rahman,2f899a44,AJ Kenealy,ca753f5d,Lata Mondal,5bf87532,0,0,0,0,0,,,,,,0,0,0
+962023,2016,Bangladesh,0,Ayasha Rahman,2f899a44,AJ Kenealy,ca753f5d,Lata Mondal,5bf87532,0,0,0,0,0,,,,,,0,0,0
+962023,2016,Bangladesh,0,Ayasha Rahman,2f899a44,AJ Kenealy,ca753f5d,Lata Mondal,5bf87532,0,0,0,0,0,,,,,,1,0,1
+962023,2016,Bangladesh,1,Ayasha Rahman,2f899a44,LK O'Reilly,69a9bb78,Lata Mondal,5bf87532,0,0,0,0,0,,,,,,0,0,0
+962023,2016,Bangladesh,1,Ayasha Rahman,2f899a44,LK O'Reilly,69a9bb78,Lata Mondal,5bf87532,0,0,0,0,0,,,,,,2,0,2
+962023,2016,Bangladesh,1,Ayasha Rahman,2f899a44,LK O'Reilly,69a9bb78,Lata Mondal,5bf87532,0,0,0,0,0,,,,,,0,0,0
+962023,2016,Bangladesh,1,Ayasha Rahman,2f899a44,LK O'Reilly,69a9bb78,Lata Mondal,5bf87532,0,0,0,0,0,,,,,,0,0,0
+962023,2016,Bangladesh,1,Ayasha Rahman,2f899a44,LK O'Reilly,69a9bb78,Lata Mondal,5bf87532,0,0,0,0,0,,,,,,0,0,0
+962023,2016,Bangladesh,1,Ayasha Rahman,2f899a44,LK O'Reilly,69a9bb78,Lata Mondal,5bf87532,0,0,0,0,0,,,,,,0,0,0
+962023,2016,Bangladesh,2,Lata Mondal,5bf87532,KJ Garth,0b69a844,Ayasha Rahman,2f899a44,0,0,0,0,0,,,,,,0,0,0
+962023,2016,Bangladesh,2,Lata Mondal,5bf87532,KJ Garth,0b69a844,Ayasha Rahman,2f899a44,0,0,0,0,1,Lata Mondal,5bf87532,,,caught and bowled,0,0,0
+962023,2016,Bangladesh,2,Fargana Hoque,6e96c956,KJ Garth,0b69a844,Ayasha Rahman,2f899a44,0,0,0,0,0,,,,,,2,0,2
+962023,2016,Bangladesh,2,Fargana Hoque,6e96c956,KJ Garth,0b69a844,Ayasha Rahman,2f899a44,0,0,0,0,0,,,,,,1,0,1
+962023,2016,Bangladesh,2,Ayasha Rahman,2f899a44,KJ Garth,0b69a844,Fargana Hoque,6e96c956,0,0,0,0,0,,,,,,0,0,0
+962023,2016,Bangladesh,2,Ayasha Rahman,2f899a44,KJ Garth,0b69a844,Fargana Hoque,6e96c956,0,0,0,0,0,,,,,,0,0,0
+962023,2016,Bangladesh,3,Fargana Hoque,6e96c956,IMHC Joyce,d3b4b8ed,Ayasha Rahman,2f899a44,0,0,0,0,0,,,,,,0,0,0
+962023,2016,Bangladesh,3,Fargana Hoque,6e96c956,IMHC Joyce,d3b4b8ed,Ayasha Rahman,2f899a44,0,0,0,0,0,,,,,,1,0,1
+962023,2016,Bangladesh,3,Ayasha Rahman,2f899a44,IMHC Joyce,d3b4b8ed,Fargana Hoque,6e96c956,0,0,0,0,0,,,,,,1,0,1
+962023,2016,Bangladesh,3,Fargana Hoque,6e96c956,IMHC Joyce,d3b4b8ed,Ayasha Rahman,2f899a44,0,0,0,0,0,,,,,,1,0,1
+962023,2016,Bangladesh,3,Ayasha Rahman,2f899a44,IMHC Joyce,d3b4b8ed,Fargana Hoque,6e96c956,0,0,0,0,1,Ayasha Rahman,2f899a44,MV Waldron,2e4f11e9,caught,0,0,0
+962023,2016,Bangladesh,3,Nigar Sultana,3827f6a2,IMHC Joyce,d3b4b8ed,Fargana Hoque,6e96c956,0,0,0,0,0,,,,,,1,0,1
+962023,2016,Bangladesh,4,Nigar Sultana,3827f6a2,CJ Metcalfe,d58fdb42,Fargana Hoque,6e96c956,0,0,0,0,0,,,,,,1,0,1
+962023,2016,Bangladesh,4,Fargana Hoque,6e96c956,CJ Metcalfe,d58fdb42,Nigar Sultana,3827f6a2,0,0,0,0,0,,,,,,1,0,1
+962023,2016,Bangladesh,4,Nigar Sultana,3827f6a2,CJ Metcalfe,d58fdb42,Fargana Hoque,6e96c956,0,0,0,0,0,,,,,,0,0,0
+962023,2016,Bangladesh,4,Nigar Sultana,3827f6a2,CJ Metcalfe,d58fdb42,Fargana Hoque,6e96c956,0,0,0,0,0,,,,,,0,0,0
+962023,2016,Bangladesh,4,Nigar Sultana,3827f6a2,CJ Metcalfe,d58fdb42,Fargana Hoque,6e96c956,0,0,0,0,0,,,,,,0,0,0
+962023,2016,Bangladesh,4,Nigar Sultana,3827f6a2,CJ Metcalfe,d58fdb42,Fargana Hoque,6e96c956,0,0,0,0,0,,,,,,2,0,2
+962023,2016,Bangladesh,5,Fargana Hoque,6e96c956,GH Lewis,1b9d1579,Nigar Sultana,3827f6a2,0,0,0,0,0,,,,,,1,0,1
+962023,2016,Bangladesh,5,Nigar Sultana,3827f6a2,GH Lewis,1b9d1579,Fargana Hoque,6e96c956,0,0,0,0,0,,,,,,1,0,1
+962023,2016,Bangladesh,5,Fargana Hoque,6e96c956,GH Lewis,1b9d1579,Nigar Sultana,3827f6a2,0,0,0,0,0,,,,,,0,0,0
+962023,2016,Bangladesh,5,Fargana Hoque,6e96c956,GH Lewis,1b9d1579,Nigar Sultana,3827f6a2,0,0,0,0,0,,,,,,2,0,2
+962023,2016,Bangladesh,5,Fargana Hoque,6e96c956,GH Lewis,1b9d1579,Nigar Sultana,3827f6a2,0,0,0,0,0,,,,,,1,0,1
+962023,2016,Bangladesh,5,Nigar Sultana,3827f6a2,GH Lewis,1b9d1579,Fargana Hoque,6e96c956,0,0,0,0,0,,,,,,0,0,0
+962023,2016,Bangladesh,6,Fargana Hoque,6e96c956,CJ Metcalfe,d58fdb42,Nigar Sultana,3827f6a2,0,0,0,0,0,,,,,,3,0,3
+962023,2016,Bangladesh,6,Nigar Sultana,3827f6a2,CJ Metcalfe,d58fdb42,Fargana Hoque,6e96c956,0,0,0,0,0,,,,,,1,0,1
+962023,2016,Bangladesh,6,Fargana Hoque,6e96c956,CJ Metcalfe,d58fdb42,Nigar Sultana,3827f6a2,0,0,0,0,0,,,,,,1,0,1
+962023,2016,Bangladesh,6,Nigar Sultana,3827f6a2,CJ Metcalfe,d58fdb42,Fargana Hoque,6e96c956,0,0,0,0,0,,,,,,1,0,1
+962023,2016,Bangladesh,6,Fargana Hoque,6e96c956,CJ Metcalfe,d58fdb42,Nigar Sultana,3827f6a2,0,0,0,0,1,Nigar Sultana,3827f6a2,CJ Metcalfe,d58fdb42,run out,0,0,0
+962023,2016,Bangladesh,6,Fargana Hoque,6e96c956,CJ Metcalfe,d58fdb42,Rumana Ahmed,a92763ea,0,0,0,0,0,,,,,,2,0,2
+962023,2016,Bangladesh,7,Rumana Ahmed,a92763ea,GH Lewis,1b9d1579,Fargana Hoque,6e96c956,0,0,0,0,0,,,,,,1,0,1
+962023,2016,Bangladesh,7,Fargana Hoque,6e96c956,GH Lewis,1b9d1579,Rumana Ahmed,a92763ea,0,0,0,0,0,,,,,,0,0,0
+962023,2016,Bangladesh,7,Fargana Hoque,6e96c956,GH Lewis,1b9d1579,Rumana Ahmed,a92763ea,0,0,0,0,0,,,,,,1,0,1
+962023,2016,Bangladesh,7,Rumana Ahmed,a92763ea,GH Lewis,1b9d1579,Fargana Hoque,6e96c956,0,0,0,0,0,,,,,,1,0,1
+962023,2016,Bangladesh,7,Fargana Hoque,6e96c956,GH Lewis,1b9d1579,Rumana Ahmed,a92763ea,1,0,0,0,0,,,,,,0,1,1
+962023,2016,Bangladesh,7,Fargana Hoque,6e96c956,GH Lewis,1b9d1579,Rumana Ahmed,a92763ea,0,0,0,0,0,,,,,,2,0,2
+962023,2016,Bangladesh,7,Fargana Hoque,6e96c956,GH Lewis,1b9d1579,Rumana Ahmed,a92763ea,0,0,0,0,0,,,,,,1,0,1
+962023,2016,Bangladesh,8,Fargana Hoque,6e96c956,KJ Garth,0b69a844,Rumana Ahmed,a92763ea,0,0,0,0,0,,,,,,1,0,1
+962023,2016,Bangladesh,8,Rumana Ahmed,a92763ea,KJ Garth,0b69a844,Fargana Hoque,6e96c956,0,0,0,0,0,,,,,,1,0,1
+962023,2016,Bangladesh,8,Fargana Hoque,6e96c956,KJ Garth,0b69a844,Rumana Ahmed,a92763ea,0,0,0,0,0,,,,,,0,0,0
+962023,2016,Bangladesh,8,Fargana Hoque,6e96c956,KJ Garth,0b69a844,Rumana Ahmed,a92763ea,0,0,0,0,0,,,,,,1,0,1
+962023,2016,Bangladesh,8,Fargana Hoque,6e96c956,KJ Garth,0b69a844,Rumana Ahmed,a92763ea,1,0,0,0,0,,,,,,0,1,1
+962023,2016,Bangladesh,8,Fargana Hoque,6e96c956,KJ Garth,0b69a844,Rumana Ahmed,a92763ea,0,0,0,0,0,,,,,,1,0,1
+962023,2016,Bangladesh,8,Rumana Ahmed,a92763ea,KJ Garth,0b69a844,Fargana Hoque,6e96c956,0,0,0,0,0,,,,,,2,0,2
+962023,2016,Bangladesh,9,Fargana Hoque,6e96c956,LK O'Reilly,69a9bb78,Rumana Ahmed,a92763ea,0,0,0,0,0,,,,,,1,0,1
+962023,2016,Bangladesh,9,Rumana Ahmed,a92763ea,LK O'Reilly,69a9bb78,Fargana Hoque,6e96c956,0,0,0,0,1,Rumana Ahmed,a92763ea,,,lbw,0,0,0
+962023,2016,Bangladesh,9,Ritu Moni,ad3940a5,LK O'Reilly,69a9bb78,Fargana Hoque,6e96c956,0,0,0,0,1,Ritu Moni,ad3940a5,LK O'Reilly,69a9bb78,run out,0,0,0
+962023,2016,Bangladesh,9,Fargana Hoque,6e96c956,LK O'Reilly,69a9bb78,Fahima Khatun,558cdd64,0,0,0,0,1,Fargana Hoque,6e96c956,MV Waldron,2e4f11e9,stumped,0,0,0
+962023,2016,Bangladesh,9,Jahanara Alam,752183c1,LK O'Reilly,69a9bb78,Fahima Khatun,558cdd64,0,0,0,0,0,,,,,,0,0,0
+962023,2016,Bangladesh,9,Jahanara Alam,752183c1,LK O'Reilly,69a9bb78,Fahima Khatun,558cdd64,0,0,0,0,0,,,,,,2,0,2

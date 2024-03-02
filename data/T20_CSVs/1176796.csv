@@ -1,0 +1,63 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1176796,2018/19,Philippines,0,DC Smith,a968d39b,N Nipiko,c498c510,Karweng NG,6af3f1e6,0,0,0,0,0,,,,,,1,0,1
+1176796,2018/19,Philippines,0,Karweng NG,6af3f1e6,N Nipiko,c498c510,DC Smith,a968d39b,0,0,0,0,0,,,,,,2,0,2
+1176796,2018/19,Philippines,0,Karweng NG,6af3f1e6,N Nipiko,c498c510,DC Smith,a968d39b,0,0,0,0,1,Karweng NG,6af3f1e6,A Mansale,a22b4f3f,caught,0,0,0
+1176796,2018/19,Philippines,0,J Hill,5481bd91,N Nipiko,c498c510,DC Smith,a968d39b,0,0,0,0,0,,,,,,4,0,4
+1176796,2018/19,Philippines,0,J Hill,5481bd91,N Nipiko,c498c510,DC Smith,a968d39b,0,0,0,0,1,J Hill,5481bd91,JW Chilia,479da8f9,caught,0,0,0
+1176796,2018/19,Philippines,0,DC Smith,a968d39b,N Nipiko,c498c510,R Goodwin,f8648b9b,1,0,0,0,0,,,,,,0,1,1
+1176796,2018/19,Philippines,0,DC Smith,a968d39b,N Nipiko,c498c510,R Goodwin,f8648b9b,0,0,0,0,0,,,,,,1,0,1
+1176796,2018/19,Philippines,1,DC Smith,a968d39b,CC Blake,e91933cb,R Goodwin,f8648b9b,0,0,0,0,0,,,,,,0,0,0
+1176796,2018/19,Philippines,1,DC Smith,a968d39b,CC Blake,e91933cb,R Goodwin,f8648b9b,0,0,0,0,0,,,,,,4,0,4
+1176796,2018/19,Philippines,1,DC Smith,a968d39b,CC Blake,e91933cb,R Goodwin,f8648b9b,0,0,0,0,0,,,,,,4,0,4
+1176796,2018/19,Philippines,1,DC Smith,a968d39b,CC Blake,e91933cb,R Goodwin,f8648b9b,0,0,0,0,0,,,,,,1,0,1
+1176796,2018/19,Philippines,1,R Goodwin,f8648b9b,CC Blake,e91933cb,DC Smith,a968d39b,0,0,0,0,0,,,,,,1,0,1
+1176796,2018/19,Philippines,1,DC Smith,a968d39b,CC Blake,e91933cb,R Goodwin,f8648b9b,0,0,0,0,0,,,,,,0,0,0
+1176796,2018/19,Philippines,2,R Goodwin,f8648b9b,JW Chilia,479da8f9,DC Smith,a968d39b,0,0,0,0,0,,,,,,2,0,2
+1176796,2018/19,Philippines,2,R Goodwin,f8648b9b,JW Chilia,479da8f9,DC Smith,a968d39b,0,0,0,0,0,,,,,,1,0,1
+1176796,2018/19,Philippines,2,DC Smith,a968d39b,JW Chilia,479da8f9,R Goodwin,f8648b9b,0,0,0,0,0,,,,,,4,0,4
+1176796,2018/19,Philippines,2,DC Smith,a968d39b,JW Chilia,479da8f9,R Goodwin,f8648b9b,0,0,0,0,0,,,,,,0,0,0
+1176796,2018/19,Philippines,2,DC Smith,a968d39b,JW Chilia,479da8f9,R Goodwin,f8648b9b,0,0,0,0,0,,,,,,2,0,2
+1176796,2018/19,Philippines,2,DC Smith,a968d39b,JW Chilia,479da8f9,R Goodwin,f8648b9b,0,0,0,0,0,,,,,,2,0,2
+1176796,2018/19,Philippines,3,R Goodwin,f8648b9b,CC Blake,e91933cb,DC Smith,a968d39b,0,0,0,0,0,,,,,,2,0,2
+1176796,2018/19,Philippines,3,R Goodwin,f8648b9b,CC Blake,e91933cb,DC Smith,a968d39b,0,0,0,0,0,,,,,,0,0,0
+1176796,2018/19,Philippines,3,R Goodwin,f8648b9b,CC Blake,e91933cb,DC Smith,a968d39b,0,0,0,0,0,,,,,,4,0,4
+1176796,2018/19,Philippines,3,R Goodwin,f8648b9b,CC Blake,e91933cb,DC Smith,a968d39b,0,0,0,0,0,,,,,,1,0,1
+1176796,2018/19,Philippines,3,DC Smith,a968d39b,CC Blake,e91933cb,R Goodwin,f8648b9b,0,0,0,0,0,,,,,,1,0,1
+1176796,2018/19,Philippines,3,R Goodwin,f8648b9b,CC Blake,e91933cb,DC Smith,a968d39b,0,0,0,0,0,,,,,,0,0,0
+1176796,2018/19,Philippines,4,DC Smith,a968d39b,N Nipiko,c498c510,R Goodwin,f8648b9b,0,0,0,0,0,,,,,,2,0,2
+1176796,2018/19,Philippines,4,DC Smith,a968d39b,N Nipiko,c498c510,R Goodwin,f8648b9b,0,0,0,1,0,,,,,,0,1,1
+1176796,2018/19,Philippines,4,R Goodwin,f8648b9b,N Nipiko,c498c510,DC Smith,a968d39b,0,0,0,0,0,,,,,,2,0,2
+1176796,2018/19,Philippines,4,R Goodwin,f8648b9b,N Nipiko,c498c510,DC Smith,a968d39b,0,0,0,0,0,,,,,,2,0,2
+1176796,2018/19,Philippines,4,R Goodwin,f8648b9b,N Nipiko,c498c510,DC Smith,a968d39b,0,0,0,0,0,,,,,,1,0,1
+1176796,2018/19,Philippines,4,DC Smith,a968d39b,N Nipiko,c498c510,R Goodwin,f8648b9b,0,0,0,0,1,DC Smith,a968d39b,,,bowled,0,0,0
+1176796,2018/19,Vanuatu,0,J Rasu,1021b6e5,Surinder Singh,2dcad6fa,A Mansale,a22b4f3f,0,0,0,0,0,,,,,,0,0,0
+1176796,2018/19,Vanuatu,0,J Rasu,1021b6e5,Surinder Singh,2dcad6fa,A Mansale,a22b4f3f,1,0,0,0,0,,,,,,0,1,1
+1176796,2018/19,Vanuatu,0,J Rasu,1021b6e5,Surinder Singh,2dcad6fa,A Mansale,a22b4f3f,0,0,0,0,0,,,,,,2,0,2
+1176796,2018/19,Vanuatu,0,J Rasu,1021b6e5,Surinder Singh,2dcad6fa,A Mansale,a22b4f3f,0,0,0,0,0,,,,,,2,0,2
+1176796,2018/19,Vanuatu,0,J Rasu,1021b6e5,Surinder Singh,2dcad6fa,A Mansale,a22b4f3f,0,0,0,0,0,,,,,,0,0,0
+1176796,2018/19,Vanuatu,0,J Rasu,1021b6e5,Surinder Singh,2dcad6fa,A Mansale,a22b4f3f,0,0,0,0,0,,,,,,2,0,2
+1176796,2018/19,Vanuatu,0,J Rasu,1021b6e5,Surinder Singh,2dcad6fa,A Mansale,a22b4f3f,0,0,0,0,0,,,,,,1,0,1
+1176796,2018/19,Vanuatu,1,J Rasu,1021b6e5,DC Smith,a968d39b,A Mansale,a22b4f3f,0,0,0,0,0,,,,,,2,0,2
+1176796,2018/19,Vanuatu,1,J Rasu,1021b6e5,DC Smith,a968d39b,A Mansale,a22b4f3f,0,0,0,0,0,,,,,,2,0,2
+1176796,2018/19,Vanuatu,1,J Rasu,1021b6e5,DC Smith,a968d39b,A Mansale,a22b4f3f,0,0,0,1,0,,,,,,0,1,1
+1176796,2018/19,Vanuatu,1,A Mansale,a22b4f3f,DC Smith,a968d39b,J Rasu,1021b6e5,0,0,0,0,1,A Mansale,a22b4f3f,Vimal Kumar,b6a85ead,caught,0,0,0
+1176796,2018/19,Vanuatu,1,J Rasu,1021b6e5,DC Smith,a968d39b,N Nipiko,c498c510,0,0,0,0,0,,,,,,1,0,1
+1176796,2018/19,Vanuatu,1,N Nipiko,c498c510,DC Smith,a968d39b,J Rasu,1021b6e5,0,0,0,0,0,,,,,,0,0,0
+1176796,2018/19,Vanuatu,2,J Rasu,1021b6e5,R Mahajan,ea0e8ea2,N Nipiko,c498c510,0,0,0,0,0,,,,,,0,0,0
+1176796,2018/19,Vanuatu,2,J Rasu,1021b6e5,R Mahajan,ea0e8ea2,N Nipiko,c498c510,0,0,0,0,0,,,,,,2,0,2
+1176796,2018/19,Vanuatu,2,J Rasu,1021b6e5,R Mahajan,ea0e8ea2,N Nipiko,c498c510,0,0,0,0,0,,,,,,2,0,2
+1176796,2018/19,Vanuatu,2,J Rasu,1021b6e5,R Mahajan,ea0e8ea2,N Nipiko,c498c510,0,0,0,0,0,,,,,,1,0,1
+1176796,2018/19,Vanuatu,2,N Nipiko,c498c510,R Mahajan,ea0e8ea2,J Rasu,1021b6e5,0,0,0,0,0,,,,,,1,0,1
+1176796,2018/19,Vanuatu,2,J Rasu,1021b6e5,R Mahajan,ea0e8ea2,N Nipiko,c498c510,0,0,0,0,0,,,,,,2,0,2
+1176796,2018/19,Vanuatu,3,N Nipiko,c498c510,DC Smith,a968d39b,J Rasu,1021b6e5,0,0,0,0,0,,,,,,0,0,0
+1176796,2018/19,Vanuatu,3,N Nipiko,c498c510,DC Smith,a968d39b,J Rasu,1021b6e5,0,0,0,0,0,,,,,,2,0,2
+1176796,2018/19,Vanuatu,3,N Nipiko,c498c510,DC Smith,a968d39b,J Rasu,1021b6e5,0,0,0,0,0,,,,,,0,0,0
+1176796,2018/19,Vanuatu,3,N Nipiko,c498c510,DC Smith,a968d39b,J Rasu,1021b6e5,0,0,1,0,0,,,,,,0,1,1
+1176796,2018/19,Vanuatu,3,J Rasu,1021b6e5,DC Smith,a968d39b,N Nipiko,c498c510,0,0,0,0,0,,,,,,0,0,0
+1176796,2018/19,Vanuatu,3,J Rasu,1021b6e5,DC Smith,a968d39b,N Nipiko,c498c510,0,0,0,0,0,,,,,,1,0,1
+1176796,2018/19,Vanuatu,4,J Rasu,1021b6e5,R Mahajan,ea0e8ea2,N Nipiko,c498c510,0,0,0,0,0,,,,,,4,0,4
+1176796,2018/19,Vanuatu,4,J Rasu,1021b6e5,R Mahajan,ea0e8ea2,N Nipiko,c498c510,0,0,0,0,1,J Rasu,1021b6e5,MP Biddappa,c45701b6,stumped,0,0,0
+1176796,2018/19,Vanuatu,4,R Tari,c4d19735,R Mahajan,ea0e8ea2,N Nipiko,c498c510,0,0,0,0,0,,,,,,2,0,2
+1176796,2018/19,Vanuatu,4,R Tari,c4d19735,R Mahajan,ea0e8ea2,N Nipiko,c498c510,0,0,0,0,0,,,,,,1,0,1
+1176796,2018/19,Vanuatu,4,N Nipiko,c498c510,R Mahajan,ea0e8ea2,R Tari,c4d19735,0,0,0,0,0,,,,,,2,0,2
+1176796,2018/19,Vanuatu,4,N Nipiko,c498c510,R Mahajan,ea0e8ea2,R Tari,c4d19735,0,0,0,0,0,,,,,,1,0,1

@@ -1,0 +1,174 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1406074,2023/24,India,0,Shafali Verma,d8f59089,CE Dean,c6625a26,S Mandhana,5d2eda89,0,0,0,0,0,,,,,,0,0,0
+1406074,2023/24,India,0,Shafali Verma,d8f59089,CE Dean,c6625a26,S Mandhana,5d2eda89,0,0,0,0,1,Shafali Verma,d8f59089,,,lbw,0,0,0
+1406074,2023/24,India,0,JI Rodrigues,cb08b611,CE Dean,c6625a26,S Mandhana,5d2eda89,0,0,0,0,0,,,,,,0,0,0
+1406074,2023/24,India,0,JI Rodrigues,cb08b611,CE Dean,c6625a26,S Mandhana,5d2eda89,0,0,0,0,0,,,,,,0,0,0
+1406074,2023/24,India,0,JI Rodrigues,cb08b611,CE Dean,c6625a26,S Mandhana,5d2eda89,0,0,0,0,0,,,,,,1,0,1
+1406074,2023/24,India,0,S Mandhana,5d2eda89,CE Dean,c6625a26,JI Rodrigues,cb08b611,1,0,0,0,0,,,,,,0,1,1
+1406074,2023/24,India,0,S Mandhana,5d2eda89,CE Dean,c6625a26,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,0,0,0
+1406074,2023/24,India,1,JI Rodrigues,cb08b611,LK Bell,38b4583c,S Mandhana,5d2eda89,0,0,0,0,0,,,,,,1,0,1
+1406074,2023/24,India,1,S Mandhana,5d2eda89,LK Bell,38b4583c,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,0,0,0
+1406074,2023/24,India,1,S Mandhana,5d2eda89,LK Bell,38b4583c,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,4,0,4
+1406074,2023/24,India,1,S Mandhana,5d2eda89,LK Bell,38b4583c,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,1,0,1
+1406074,2023/24,India,1,JI Rodrigues,cb08b611,LK Bell,38b4583c,S Mandhana,5d2eda89,0,0,0,0,0,,,,,,2,0,2
+1406074,2023/24,India,1,JI Rodrigues,cb08b611,LK Bell,38b4583c,S Mandhana,5d2eda89,0,0,0,0,0,,,,,,1,0,1
+1406074,2023/24,India,2,JI Rodrigues,cb08b611,NR Sciver-Brunt,f3a18a0c,S Mandhana,5d2eda89,0,0,0,0,0,,,,,,1,0,1
+1406074,2023/24,India,2,S Mandhana,5d2eda89,NR Sciver-Brunt,f3a18a0c,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,4,0,4
+1406074,2023/24,India,2,S Mandhana,5d2eda89,NR Sciver-Brunt,f3a18a0c,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,0,0,0
+1406074,2023/24,India,2,S Mandhana,5d2eda89,NR Sciver-Brunt,f3a18a0c,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,1,0,1
+1406074,2023/24,India,2,JI Rodrigues,cb08b611,NR Sciver-Brunt,f3a18a0c,S Mandhana,5d2eda89,0,0,0,0,0,,,,,,0,0,0
+1406074,2023/24,India,2,JI Rodrigues,cb08b611,NR Sciver-Brunt,f3a18a0c,S Mandhana,5d2eda89,0,0,0,0,0,,,,,,0,0,0
+1406074,2023/24,India,3,S Mandhana,5d2eda89,CE Dean,c6625a26,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,0,0,0
+1406074,2023/24,India,3,S Mandhana,5d2eda89,CE Dean,c6625a26,JI Rodrigues,cb08b611,0,0,0,0,1,S Mandhana,5d2eda89,,,lbw,0,0,0
+1406074,2023/24,India,3,H Kaur,53cd8da6,CE Dean,c6625a26,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,0,0,0
+1406074,2023/24,India,3,H Kaur,53cd8da6,CE Dean,c6625a26,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,1,0,1
+1406074,2023/24,India,3,JI Rodrigues,cb08b611,CE Dean,c6625a26,H Kaur,53cd8da6,0,0,0,0,0,,,,,,1,0,1
+1406074,2023/24,India,3,H Kaur,53cd8da6,CE Dean,c6625a26,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,0,0,0
+1406074,2023/24,India,4,JI Rodrigues,cb08b611,NR Sciver-Brunt,f3a18a0c,H Kaur,53cd8da6,0,0,0,0,0,,,,,,1,0,1
+1406074,2023/24,India,4,H Kaur,53cd8da6,NR Sciver-Brunt,f3a18a0c,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,4,0,4
+1406074,2023/24,India,4,H Kaur,53cd8da6,NR Sciver-Brunt,f3a18a0c,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,4,0,4
+1406074,2023/24,India,4,H Kaur,53cd8da6,NR Sciver-Brunt,f3a18a0c,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,0,0,0
+1406074,2023/24,India,4,H Kaur,53cd8da6,NR Sciver-Brunt,f3a18a0c,JI Rodrigues,cb08b611,0,0,0,0,1,H Kaur,53cd8da6,,,lbw,0,0,0
+1406074,2023/24,India,4,DB Sharma,201fef33,NR Sciver-Brunt,f3a18a0c,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,0,0,0
+1406074,2023/24,India,5,JI Rodrigues,cb08b611,LK Bell,38b4583c,DB Sharma,201fef33,0,0,0,0,0,,,,,,1,0,1
+1406074,2023/24,India,5,DB Sharma,201fef33,LK Bell,38b4583c,JI Rodrigues,cb08b611,0,0,0,0,1,DB Sharma,201fef33,AE Jones,b05e45e4,caught,0,0,0
+1406074,2023/24,India,5,RM Ghosh,721e0199,LK Bell,38b4583c,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,0,0,0
+1406074,2023/24,India,5,RM Ghosh,721e0199,LK Bell,38b4583c,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,4,0,4
+1406074,2023/24,India,5,RM Ghosh,721e0199,LK Bell,38b4583c,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,0,0,0
+1406074,2023/24,India,5,RM Ghosh,721e0199,LK Bell,38b4583c,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,0,0,0
+1406074,2023/24,India,6,JI Rodrigues,cb08b611,S Ecclestone,cdb82f1c,RM Ghosh,721e0199,0,0,0,0,0,,,,,,0,0,0
+1406074,2023/24,India,6,JI Rodrigues,cb08b611,S Ecclestone,cdb82f1c,RM Ghosh,721e0199,0,0,0,0,0,,,,,,0,0,0
+1406074,2023/24,India,6,JI Rodrigues,cb08b611,S Ecclestone,cdb82f1c,RM Ghosh,721e0199,0,0,0,0,0,,,,,,1,0,1
+1406074,2023/24,India,6,RM Ghosh,721e0199,S Ecclestone,cdb82f1c,JI Rodrigues,cb08b611,0,0,0,0,1,RM Ghosh,721e0199,,,caught and bowled,0,0,0
+1406074,2023/24,India,6,P Vastrakar,8026ea72,S Ecclestone,cdb82f1c,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,2,0,2
+1406074,2023/24,India,6,P Vastrakar,8026ea72,S Ecclestone,cdb82f1c,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,1,0,1
+1406074,2023/24,India,7,P Vastrakar,8026ea72,S Glenn,b34e0c77,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,0,0,0
+1406074,2023/24,India,7,P Vastrakar,8026ea72,S Glenn,b34e0c77,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,0,0,0
+1406074,2023/24,India,7,P Vastrakar,8026ea72,S Glenn,b34e0c77,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,0,0,0
+1406074,2023/24,India,7,P Vastrakar,8026ea72,S Glenn,b34e0c77,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,0,0,0
+1406074,2023/24,India,7,P Vastrakar,8026ea72,S Glenn,b34e0c77,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,0,0,0
+1406074,2023/24,India,7,P Vastrakar,8026ea72,S Glenn,b34e0c77,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,0,0,0
+1406074,2023/24,India,8,JI Rodrigues,cb08b611,CE Dean,c6625a26,P Vastrakar,8026ea72,0,0,0,0,0,,,,,,1,0,1
+1406074,2023/24,India,8,P Vastrakar,8026ea72,CE Dean,c6625a26,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,1,0,1
+1406074,2023/24,India,8,JI Rodrigues,cb08b611,CE Dean,c6625a26,P Vastrakar,8026ea72,0,0,0,0,0,,,,,,1,0,1
+1406074,2023/24,India,8,P Vastrakar,8026ea72,CE Dean,c6625a26,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,0,0,0
+1406074,2023/24,India,8,P Vastrakar,8026ea72,CE Dean,c6625a26,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,1,0,1
+1406074,2023/24,India,8,JI Rodrigues,cb08b611,CE Dean,c6625a26,P Vastrakar,8026ea72,0,0,0,0,0,,,,,,2,0,2
+1406074,2023/24,India,9,P Vastrakar,8026ea72,S Glenn,b34e0c77,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,1,0,1
+1406074,2023/24,India,9,JI Rodrigues,cb08b611,S Glenn,b34e0c77,P Vastrakar,8026ea72,0,0,0,0,0,,,,,,0,0,0
+1406074,2023/24,India,9,JI Rodrigues,cb08b611,S Glenn,b34e0c77,P Vastrakar,8026ea72,0,0,0,0,0,,,,,,1,0,1
+1406074,2023/24,India,9,P Vastrakar,8026ea72,S Glenn,b34e0c77,JI Rodrigues,cb08b611,0,0,0,0,1,P Vastrakar,8026ea72,,,bowled,0,0,0
+1406074,2023/24,India,9,SR Patil,33946d69,S Glenn,b34e0c77,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,0,0,0
+1406074,2023/24,India,9,SR Patil,33946d69,S Glenn,b34e0c77,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,2,0,2
+1406074,2023/24,India,10,JI Rodrigues,cb08b611,S Ecclestone,cdb82f1c,SR Patil,33946d69,0,0,0,0,0,,,,,,0,0,0
+1406074,2023/24,India,10,JI Rodrigues,cb08b611,S Ecclestone,cdb82f1c,SR Patil,33946d69,0,0,0,0,0,,,,,,2,0,2
+1406074,2023/24,India,10,JI Rodrigues,cb08b611,S Ecclestone,cdb82f1c,SR Patil,33946d69,0,0,0,0,0,,,,,,1,0,1
+1406074,2023/24,India,10,SR Patil,33946d69,S Ecclestone,cdb82f1c,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,1,0,1
+1406074,2023/24,India,10,JI Rodrigues,cb08b611,S Ecclestone,cdb82f1c,SR Patil,33946d69,0,0,0,0,0,,,,,,2,0,2
+1406074,2023/24,India,10,JI Rodrigues,cb08b611,S Ecclestone,cdb82f1c,SR Patil,33946d69,0,0,0,0,0,,,,,,1,0,1
+1406074,2023/24,India,11,JI Rodrigues,cb08b611,FG Kemp,abc9f8a4,SR Patil,33946d69,0,0,0,0,0,,,,,,1,0,1
+1406074,2023/24,India,11,SR Patil,33946d69,FG Kemp,abc9f8a4,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,0,0,0
+1406074,2023/24,India,11,SR Patil,33946d69,FG Kemp,abc9f8a4,JI Rodrigues,cb08b611,0,0,0,0,0,,,,,,1,0,1
+1406074,2023/24,India,11,JI Rodrigues,cb08b611,FG Kemp,abc9f8a4,SR Patil,33946d69,0,0,2,0,0,,,,,,0,2,2
+1406074,2023/24,India,11,JI Rodrigues,cb08b611,FG Kemp,abc9f8a4,SR Patil,33946d69,0,0,1,0,0,,,,,,0,1,1
+1406074,2023/24,India,11,SR Patil,33946d69,FG Kemp,abc9f8a4,JI Rodrigues,cb08b611,0,0,0,0,1,SR Patil,33946d69,AE Jones,b05e45e4,caught,0,0,0
+1406074,2023/24,India,12,JI Rodrigues,cb08b611,S Glenn,b34e0c77,TR Sadhu,25ca0573,0,0,0,0,0,,,,,,0,0,0
+1406074,2023/24,India,12,JI Rodrigues,cb08b611,S Glenn,b34e0c77,TR Sadhu,25ca0573,0,0,0,0,0,,,,,,0,0,0
+1406074,2023/24,India,12,JI Rodrigues,cb08b611,S Glenn,b34e0c77,TR Sadhu,25ca0573,0,0,0,0,0,,,,,,4,0,4
+1406074,2023/24,India,12,JI Rodrigues,cb08b611,S Glenn,b34e0c77,TR Sadhu,25ca0573,0,0,0,0,0,,,,,,4,0,4
+1406074,2023/24,India,12,JI Rodrigues,cb08b611,S Glenn,b34e0c77,TR Sadhu,25ca0573,0,0,0,0,1,JI Rodrigues,cb08b611,,,lbw,0,0,0
+1406074,2023/24,India,12,S Ishaque,f2c1f0e5,S Glenn,b34e0c77,TR Sadhu,25ca0573,0,0,0,0,0,,,,,,1,0,1
+1406074,2023/24,India,13,S Ishaque,f2c1f0e5,S Ecclestone,cdb82f1c,TR Sadhu,25ca0573,0,0,0,0,0,,,,,,0,0,0
+1406074,2023/24,India,13,S Ishaque,f2c1f0e5,S Ecclestone,cdb82f1c,TR Sadhu,25ca0573,0,0,0,0,0,,,,,,1,0,1
+1406074,2023/24,India,13,TR Sadhu,25ca0573,S Ecclestone,cdb82f1c,S Ishaque,f2c1f0e5,0,0,0,0,0,,,,,,0,0,0
+1406074,2023/24,India,13,TR Sadhu,25ca0573,S Ecclestone,cdb82f1c,S Ishaque,f2c1f0e5,0,0,0,0,0,,,,,,0,0,0
+1406074,2023/24,India,13,TR Sadhu,25ca0573,S Ecclestone,cdb82f1c,S Ishaque,f2c1f0e5,0,0,0,0,0,,,,,,0,0,0
+1406074,2023/24,India,13,TR Sadhu,25ca0573,S Ecclestone,cdb82f1c,S Ishaque,f2c1f0e5,0,0,0,0,0,,,,,,0,0,0
+1406074,2023/24,India,14,S Ishaque,f2c1f0e5,CE Dean,c6625a26,TR Sadhu,25ca0573,0,0,0,0,0,,,,,,1,0,1
+1406074,2023/24,India,14,TR Sadhu,25ca0573,CE Dean,c6625a26,S Ishaque,f2c1f0e5,0,0,0,0,0,,,,,,0,0,0
+1406074,2023/24,India,14,TR Sadhu,25ca0573,CE Dean,c6625a26,S Ishaque,f2c1f0e5,0,0,0,0,0,,,,,,1,0,1
+1406074,2023/24,India,14,S Ishaque,f2c1f0e5,CE Dean,c6625a26,TR Sadhu,25ca0573,0,0,0,0,0,,,,,,0,0,0
+1406074,2023/24,India,14,S Ishaque,f2c1f0e5,CE Dean,c6625a26,TR Sadhu,25ca0573,0,0,0,0,0,,,,,,0,0,0
+1406074,2023/24,India,14,S Ishaque,f2c1f0e5,CE Dean,c6625a26,TR Sadhu,25ca0573,0,0,0,0,0,,,,,,4,0,4
+1406074,2023/24,India,15,TR Sadhu,25ca0573,LK Bell,38b4583c,S Ishaque,f2c1f0e5,0,0,0,0,0,,,,,,1,0,1
+1406074,2023/24,India,15,S Ishaque,f2c1f0e5,LK Bell,38b4583c,TR Sadhu,25ca0573,0,0,0,0,0,,,,,,1,0,1
+1406074,2023/24,India,15,TR Sadhu,25ca0573,LK Bell,38b4583c,S Ishaque,f2c1f0e5,0,0,0,0,0,,,,,,0,0,0
+1406074,2023/24,India,15,TR Sadhu,25ca0573,LK Bell,38b4583c,S Ishaque,f2c1f0e5,0,0,0,0,0,,,,,,0,0,0
+1406074,2023/24,India,15,TR Sadhu,25ca0573,LK Bell,38b4583c,S Ishaque,f2c1f0e5,0,0,0,0,1,TR Sadhu,25ca0573,,,caught and bowled,0,0,0
+1406074,2023/24,India,15,Renuka Singh,7298db76,LK Bell,38b4583c,S Ishaque,f2c1f0e5,1,0,0,0,0,,,,,,0,1,1
+1406074,2023/24,India,15,Renuka Singh,7298db76,LK Bell,38b4583c,S Ishaque,f2c1f0e5,0,0,0,0,0,,,,,,1,0,1
+1406074,2023/24,India,16,Renuka Singh,7298db76,S Ecclestone,cdb82f1c,S Ishaque,f2c1f0e5,0,0,0,0,0,,,,,,1,0,1
+1406074,2023/24,India,16,S Ishaque,f2c1f0e5,S Ecclestone,cdb82f1c,Renuka Singh,7298db76,0,0,0,0,1,S Ishaque,f2c1f0e5,,,bowled,0,0,0
+1406074,2023/24,England,0,SIR Dunkley,3a9e9cb2,Renuka Singh,7298db76,DN Wyatt,a139c379,1,0,0,0,0,,,,,,0,1,1
+1406074,2023/24,England,0,SIR Dunkley,3a9e9cb2,Renuka Singh,7298db76,DN Wyatt,a139c379,5,0,0,0,0,,,,,,0,5,5
+1406074,2023/24,England,0,SIR Dunkley,3a9e9cb2,Renuka Singh,7298db76,DN Wyatt,a139c379,0,0,0,0,0,,,,,,0,0,0
+1406074,2023/24,England,0,SIR Dunkley,3a9e9cb2,Renuka Singh,7298db76,DN Wyatt,a139c379,0,0,0,0,0,,,,,,0,0,0
+1406074,2023/24,England,0,SIR Dunkley,3a9e9cb2,Renuka Singh,7298db76,DN Wyatt,a139c379,0,0,0,0,0,,,,,,0,0,0
+1406074,2023/24,England,0,SIR Dunkley,3a9e9cb2,Renuka Singh,7298db76,DN Wyatt,a139c379,0,0,0,0,0,,,,,,0,0,0
+1406074,2023/24,England,0,SIR Dunkley,3a9e9cb2,Renuka Singh,7298db76,DN Wyatt,a139c379,0,0,0,0,0,,,,,,1,0,1
+1406074,2023/24,England,0,DN Wyatt,a139c379,Renuka Singh,7298db76,SIR Dunkley,3a9e9cb2,1,0,0,0,0,,,,,,0,1,1
+1406074,2023/24,England,0,DN Wyatt,a139c379,Renuka Singh,7298db76,SIR Dunkley,3a9e9cb2,1,0,0,0,0,,,,,,0,1,1
+1406074,2023/24,England,0,DN Wyatt,a139c379,Renuka Singh,7298db76,SIR Dunkley,3a9e9cb2,0,0,0,0,0,,,,,,0,0,0
+1406074,2023/24,England,1,SIR Dunkley,3a9e9cb2,TR Sadhu,25ca0573,DN Wyatt,a139c379,0,0,0,0,0,,,,,,0,0,0
+1406074,2023/24,England,1,SIR Dunkley,3a9e9cb2,TR Sadhu,25ca0573,DN Wyatt,a139c379,0,0,0,0,0,,,,,,0,0,0
+1406074,2023/24,England,1,SIR Dunkley,3a9e9cb2,TR Sadhu,25ca0573,DN Wyatt,a139c379,0,0,0,0,0,,,,,,0,0,0
+1406074,2023/24,England,1,SIR Dunkley,3a9e9cb2,TR Sadhu,25ca0573,DN Wyatt,a139c379,0,0,0,0,0,,,,,,4,0,4
+1406074,2023/24,England,1,SIR Dunkley,3a9e9cb2,TR Sadhu,25ca0573,DN Wyatt,a139c379,0,0,0,0,0,,,,,,0,0,0
+1406074,2023/24,England,1,SIR Dunkley,3a9e9cb2,TR Sadhu,25ca0573,DN Wyatt,a139c379,0,0,0,0,0,,,,,,4,0,4
+1406074,2023/24,England,2,DN Wyatt,a139c379,Renuka Singh,7298db76,SIR Dunkley,3a9e9cb2,0,0,1,0,0,,,,,,0,1,1
+1406074,2023/24,England,2,SIR Dunkley,3a9e9cb2,Renuka Singh,7298db76,DN Wyatt,a139c379,0,0,0,0,0,,,,,,0,0,0
+1406074,2023/24,England,2,SIR Dunkley,3a9e9cb2,Renuka Singh,7298db76,DN Wyatt,a139c379,0,0,0,0,1,SIR Dunkley,3a9e9cb2,,,bowled,0,0,0
+1406074,2023/24,England,2,A Capsey,910dd54e,Renuka Singh,7298db76,DN Wyatt,a139c379,0,0,0,0,0,,,,,,0,0,0
+1406074,2023/24,England,2,A Capsey,910dd54e,Renuka Singh,7298db76,DN Wyatt,a139c379,0,0,0,0,0,,,,,,1,0,1
+1406074,2023/24,England,2,DN Wyatt,a139c379,Renuka Singh,7298db76,A Capsey,910dd54e,0,0,0,0,1,DN Wyatt,a139c379,,,bowled,0,0,0
+1406074,2023/24,England,3,A Capsey,910dd54e,TR Sadhu,25ca0573,NR Sciver-Brunt,f3a18a0c,0,0,0,0,0,,,,,,4,0,4
+1406074,2023/24,England,3,A Capsey,910dd54e,TR Sadhu,25ca0573,NR Sciver-Brunt,f3a18a0c,0,0,0,0,0,,,,,,1,0,1
+1406074,2023/24,England,3,NR Sciver-Brunt,f3a18a0c,TR Sadhu,25ca0573,A Capsey,910dd54e,0,0,0,0,0,,,,,,0,0,0
+1406074,2023/24,England,3,NR Sciver-Brunt,f3a18a0c,TR Sadhu,25ca0573,A Capsey,910dd54e,0,0,0,0,0,,,,,,4,0,4
+1406074,2023/24,England,3,NR Sciver-Brunt,f3a18a0c,TR Sadhu,25ca0573,A Capsey,910dd54e,0,0,0,0,0,,,,,,0,0,0
+1406074,2023/24,England,3,NR Sciver-Brunt,f3a18a0c,TR Sadhu,25ca0573,A Capsey,910dd54e,0,0,0,0,0,,,,,,0,0,0
+1406074,2023/24,England,4,A Capsey,910dd54e,Renuka Singh,7298db76,NR Sciver-Brunt,f3a18a0c,0,0,0,0,0,,,,,,0,0,0
+1406074,2023/24,England,4,A Capsey,910dd54e,Renuka Singh,7298db76,NR Sciver-Brunt,f3a18a0c,0,0,0,0,0,,,,,,2,0,2
+1406074,2023/24,England,4,A Capsey,910dd54e,Renuka Singh,7298db76,NR Sciver-Brunt,f3a18a0c,0,0,0,0,0,,,,,,0,0,0
+1406074,2023/24,England,4,A Capsey,910dd54e,Renuka Singh,7298db76,NR Sciver-Brunt,f3a18a0c,0,0,0,0,0,,,,,,2,0,2
+1406074,2023/24,England,4,A Capsey,910dd54e,Renuka Singh,7298db76,NR Sciver-Brunt,f3a18a0c,0,0,0,0,0,,,,,,2,0,2
+1406074,2023/24,England,4,A Capsey,910dd54e,Renuka Singh,7298db76,NR Sciver-Brunt,f3a18a0c,0,0,0,0,0,,,,,,4,0,4
+1406074,2023/24,England,5,NR Sciver-Brunt,f3a18a0c,S Ishaque,f2c1f0e5,A Capsey,910dd54e,0,0,0,0,0,,,,,,0,0,0
+1406074,2023/24,England,5,NR Sciver-Brunt,f3a18a0c,S Ishaque,f2c1f0e5,A Capsey,910dd54e,0,0,0,0,0,,,,,,0,0,0
+1406074,2023/24,England,5,NR Sciver-Brunt,f3a18a0c,S Ishaque,f2c1f0e5,A Capsey,910dd54e,0,0,0,0,0,,,,,,6,0,6
+1406074,2023/24,England,5,NR Sciver-Brunt,f3a18a0c,S Ishaque,f2c1f0e5,A Capsey,910dd54e,0,0,0,0,0,,,,,,1,0,1
+1406074,2023/24,England,5,A Capsey,910dd54e,S Ishaque,f2c1f0e5,NR Sciver-Brunt,f3a18a0c,0,0,0,0,0,,,,,,0,0,0
+1406074,2023/24,England,5,A Capsey,910dd54e,S Ishaque,f2c1f0e5,NR Sciver-Brunt,f3a18a0c,0,0,0,0,0,,,,,,4,0,4
+1406074,2023/24,England,6,NR Sciver-Brunt,f3a18a0c,Renuka Singh,7298db76,A Capsey,910dd54e,0,0,0,0,0,,,,,,0,0,0
+1406074,2023/24,England,6,NR Sciver-Brunt,f3a18a0c,Renuka Singh,7298db76,A Capsey,910dd54e,0,0,0,0,0,,,,,,1,0,1
+1406074,2023/24,England,6,A Capsey,910dd54e,Renuka Singh,7298db76,NR Sciver-Brunt,f3a18a0c,0,0,0,0,0,,,,,,4,0,4
+1406074,2023/24,England,6,A Capsey,910dd54e,Renuka Singh,7298db76,NR Sciver-Brunt,f3a18a0c,0,0,0,0,0,,,,,,0,0,0
+1406074,2023/24,England,6,A Capsey,910dd54e,Renuka Singh,7298db76,NR Sciver-Brunt,f3a18a0c,0,0,0,0,0,,,,,,0,0,0
+1406074,2023/24,England,6,A Capsey,910dd54e,Renuka Singh,7298db76,NR Sciver-Brunt,f3a18a0c,0,0,0,0,0,,,,,,1,0,1
+1406074,2023/24,England,7,A Capsey,910dd54e,P Vastrakar,8026ea72,NR Sciver-Brunt,f3a18a0c,0,0,0,0,0,,,,,,0,0,0
+1406074,2023/24,England,7,A Capsey,910dd54e,P Vastrakar,8026ea72,NR Sciver-Brunt,f3a18a0c,0,0,0,0,0,,,,,,0,0,0
+1406074,2023/24,England,7,A Capsey,910dd54e,P Vastrakar,8026ea72,NR Sciver-Brunt,f3a18a0c,2,0,0,0,0,,,,,,0,2,2
+1406074,2023/24,England,7,NR Sciver-Brunt,f3a18a0c,P Vastrakar,8026ea72,A Capsey,910dd54e,0,0,0,0,0,,,,,,0,0,0
+1406074,2023/24,England,7,NR Sciver-Brunt,f3a18a0c,P Vastrakar,8026ea72,A Capsey,910dd54e,0,0,0,0,0,,,,,,4,0,4
+1406074,2023/24,England,7,NR Sciver-Brunt,f3a18a0c,P Vastrakar,8026ea72,A Capsey,910dd54e,0,0,0,0,1,NR Sciver-Brunt,f3a18a0c,,,bowled,0,0,0
+1406074,2023/24,England,7,HC Knight,4ba0289e,P Vastrakar,8026ea72,A Capsey,910dd54e,0,0,0,0,0,,,,,,1,0,1
+1406074,2023/24,England,8,HC Knight,4ba0289e,DB Sharma,201fef33,A Capsey,910dd54e,0,0,0,0,0,,,,,,0,0,0
+1406074,2023/24,England,8,HC Knight,4ba0289e,DB Sharma,201fef33,A Capsey,910dd54e,0,0,0,0,0,,,,,,0,0,0
+1406074,2023/24,England,8,HC Knight,4ba0289e,DB Sharma,201fef33,A Capsey,910dd54e,0,0,0,0,0,,,,,,0,0,0
+1406074,2023/24,England,8,HC Knight,4ba0289e,DB Sharma,201fef33,A Capsey,910dd54e,0,0,0,0,0,,,,,,1,0,1
+1406074,2023/24,England,8,A Capsey,910dd54e,DB Sharma,201fef33,HC Knight,4ba0289e,0,0,0,0,0,,,,,,0,0,0
+1406074,2023/24,England,8,A Capsey,910dd54e,DB Sharma,201fef33,HC Knight,4ba0289e,0,0,0,0,0,,,,,,0,0,0
+1406074,2023/24,England,9,HC Knight,4ba0289e,S Ishaque,f2c1f0e5,A Capsey,910dd54e,0,0,0,0,0,,,,,,4,0,4
+1406074,2023/24,England,9,HC Knight,4ba0289e,S Ishaque,f2c1f0e5,A Capsey,910dd54e,0,0,0,0,0,,,,,,1,0,1
+1406074,2023/24,England,9,A Capsey,910dd54e,S Ishaque,f2c1f0e5,HC Knight,4ba0289e,0,0,0,0,1,A Capsey,910dd54e,AB Kaur,9565fda6,caught,0,0,0
+1406074,2023/24,England,9,AE Jones,b05e45e4,S Ishaque,f2c1f0e5,HC Knight,4ba0289e,0,0,0,0,0,,,,,,2,0,2
+1406074,2023/24,England,9,AE Jones,b05e45e4,S Ishaque,f2c1f0e5,HC Knight,4ba0289e,0,0,0,0,0,,,,,,2,0,2
+1406074,2023/24,England,9,AE Jones,b05e45e4,S Ishaque,f2c1f0e5,HC Knight,4ba0289e,0,0,0,0,0,,,,,,1,0,1
+1406074,2023/24,England,10,AE Jones,b05e45e4,DB Sharma,201fef33,HC Knight,4ba0289e,0,0,0,0,0,,,,,,0,0,0
+1406074,2023/24,England,10,AE Jones,b05e45e4,DB Sharma,201fef33,HC Knight,4ba0289e,0,0,0,0,1,AE Jones,b05e45e4,P Vastrakar,8026ea72,caught,0,0,0
+1406074,2023/24,England,10,FG Kemp,abc9f8a4,DB Sharma,201fef33,HC Knight,4ba0289e,0,0,0,0,1,FG Kemp,abc9f8a4,,,lbw,0,0,0
+1406074,2023/24,England,10,S Ecclestone,cdb82f1c,DB Sharma,201fef33,HC Knight,4ba0289e,0,0,0,0,0,,,,,,2,0,2
+1406074,2023/24,England,10,S Ecclestone,cdb82f1c,DB Sharma,201fef33,HC Knight,4ba0289e,0,0,0,0,0,,,,,,0,0,0
+1406074,2023/24,England,10,S Ecclestone,cdb82f1c,DB Sharma,201fef33,HC Knight,4ba0289e,0,0,0,0,0,,,,,,1,0,1
+1406074,2023/24,England,11,S Ecclestone,cdb82f1c,SR Patil,33946d69,HC Knight,4ba0289e,0,0,0,0,0,,,,,,2,0,2
+1406074,2023/24,England,11,S Ecclestone,cdb82f1c,SR Patil,33946d69,HC Knight,4ba0289e,0,0,0,0,0,,,,,,4,0,4

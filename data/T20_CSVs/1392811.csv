@@ -1,0 +1,249 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1392811,2023,Bahrain,0,Umer Imtiaz,7b729851,Bilal Khan,dcdb87f2,Imran Ali Butt,5d60560f,0,0,0,0,0,,,,,,0,0,0
+1392811,2023,Bahrain,0,Umer Imtiaz,7b729851,Bilal Khan,dcdb87f2,Imran Ali Butt,5d60560f,0,0,0,0,1,Umer Imtiaz,7b729851,,,bowled,0,0,0
+1392811,2023,Bahrain,0,Imran Anwar,a9a18e3e,Bilal Khan,dcdb87f2,Imran Ali Butt,5d60560f,0,0,0,0,0,,,,,,0,0,0
+1392811,2023,Bahrain,0,Imran Anwar,a9a18e3e,Bilal Khan,dcdb87f2,Imran Ali Butt,5d60560f,0,0,0,0,0,,,,,,0,0,0
+1392811,2023,Bahrain,0,Imran Anwar,a9a18e3e,Bilal Khan,dcdb87f2,Imran Ali Butt,5d60560f,0,0,0,0,0,,,,,,0,0,0
+1392811,2023,Bahrain,0,Imran Anwar,a9a18e3e,Bilal Khan,dcdb87f2,Imran Ali Butt,5d60560f,0,0,0,0,1,Imran Anwar,a9a18e3e,,,bowled,0,0,0
+1392811,2023,Bahrain,1,Imran Ali Butt,5d60560f,Fayyaz Butt,bd9fbd51,Haider Butt,14fd10b5,0,0,0,0,0,,,,,,2,0,2
+1392811,2023,Bahrain,1,Imran Ali Butt,5d60560f,Fayyaz Butt,bd9fbd51,Haider Butt,14fd10b5,0,0,0,0,0,,,,,,0,0,0
+1392811,2023,Bahrain,1,Imran Ali Butt,5d60560f,Fayyaz Butt,bd9fbd51,Haider Butt,14fd10b5,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Bahrain,1,Haider Butt,14fd10b5,Fayyaz Butt,bd9fbd51,Imran Ali Butt,5d60560f,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Bahrain,1,Imran Ali Butt,5d60560f,Fayyaz Butt,bd9fbd51,Haider Butt,14fd10b5,0,0,0,0,0,,,,,,4,0,4
+1392811,2023,Bahrain,1,Imran Ali Butt,5d60560f,Fayyaz Butt,bd9fbd51,Haider Butt,14fd10b5,0,0,0,0,0,,,,,,0,0,0
+1392811,2023,Bahrain,2,Haider Butt,14fd10b5,Bilal Khan,dcdb87f2,Imran Ali Butt,5d60560f,0,0,0,0,0,,,,,,4,0,4
+1392811,2023,Bahrain,2,Haider Butt,14fd10b5,Bilal Khan,dcdb87f2,Imran Ali Butt,5d60560f,0,0,0,0,0,,,,,,0,0,0
+1392811,2023,Bahrain,2,Haider Butt,14fd10b5,Bilal Khan,dcdb87f2,Imran Ali Butt,5d60560f,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Bahrain,2,Imran Ali Butt,5d60560f,Bilal Khan,dcdb87f2,Haider Butt,14fd10b5,0,0,0,0,0,,,,,,0,0,0
+1392811,2023,Bahrain,2,Imran Ali Butt,5d60560f,Bilal Khan,dcdb87f2,Haider Butt,14fd10b5,0,0,0,0,0,,,,,,0,0,0
+1392811,2023,Bahrain,2,Imran Ali Butt,5d60560f,Bilal Khan,dcdb87f2,Haider Butt,14fd10b5,0,0,0,0,0,,,,,,0,0,0
+1392811,2023,Bahrain,3,Haider Butt,14fd10b5,Fayyaz Butt,bd9fbd51,Imran Ali Butt,5d60560f,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Bahrain,3,Imran Ali Butt,5d60560f,Fayyaz Butt,bd9fbd51,Haider Butt,14fd10b5,0,0,0,0,0,,,,,,0,0,0
+1392811,2023,Bahrain,3,Imran Ali Butt,5d60560f,Fayyaz Butt,bd9fbd51,Haider Butt,14fd10b5,0,0,0,0,0,,,,,,0,0,0
+1392811,2023,Bahrain,3,Imran Ali Butt,5d60560f,Fayyaz Butt,bd9fbd51,Haider Butt,14fd10b5,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Bahrain,3,Haider Butt,14fd10b5,Fayyaz Butt,bd9fbd51,Imran Ali Butt,5d60560f,0,0,0,0,0,,,,,,4,0,4
+1392811,2023,Bahrain,3,Haider Butt,14fd10b5,Fayyaz Butt,bd9fbd51,Imran Ali Butt,5d60560f,0,0,0,0,0,,,,,,0,0,0
+1392811,2023,Bahrain,4,Imran Ali Butt,5d60560f,Mohammad Nadeem,c5d7b244,Haider Butt,14fd10b5,0,0,0,0,0,,,,,,2,0,2
+1392811,2023,Bahrain,4,Imran Ali Butt,5d60560f,Mohammad Nadeem,c5d7b244,Haider Butt,14fd10b5,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Bahrain,4,Haider Butt,14fd10b5,Mohammad Nadeem,c5d7b244,Imran Ali Butt,5d60560f,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Bahrain,4,Imran Ali Butt,5d60560f,Mohammad Nadeem,c5d7b244,Haider Butt,14fd10b5,0,0,0,0,0,,,,,,0,0,0
+1392811,2023,Bahrain,4,Imran Ali Butt,5d60560f,Mohammad Nadeem,c5d7b244,Haider Butt,14fd10b5,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Bahrain,4,Haider Butt,14fd10b5,Mohammad Nadeem,c5d7b244,Imran Ali Butt,5d60560f,1,0,0,0,0,,,,,,0,1,1
+1392811,2023,Bahrain,4,Haider Butt,14fd10b5,Mohammad Nadeem,c5d7b244,Imran Ali Butt,5d60560f,0,0,0,0,0,,,,,,0,0,0
+1392811,2023,Bahrain,5,Imran Ali Butt,5d60560f,Mehran Khan,d7bfcc0b,Haider Butt,14fd10b5,0,0,0,0,0,,,,,,0,0,0
+1392811,2023,Bahrain,5,Imran Ali Butt,5d60560f,Mehran Khan,d7bfcc0b,Haider Butt,14fd10b5,0,0,2,0,0,,,,,,0,2,2
+1392811,2023,Bahrain,5,Imran Ali Butt,5d60560f,Mehran Khan,d7bfcc0b,Haider Butt,14fd10b5,0,0,0,0,0,,,,,,0,0,0
+1392811,2023,Bahrain,5,Imran Ali Butt,5d60560f,Mehran Khan,d7bfcc0b,Haider Butt,14fd10b5,0,0,0,0,0,,,,,,4,0,4
+1392811,2023,Bahrain,5,Imran Ali Butt,5d60560f,Mehran Khan,d7bfcc0b,Haider Butt,14fd10b5,0,0,0,0,0,,,,,,2,0,2
+1392811,2023,Bahrain,5,Imran Ali Butt,5d60560f,Mehran Khan,d7bfcc0b,Haider Butt,14fd10b5,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Bahrain,6,Imran Ali Butt,5d60560f,Mohammad Nadeem,c5d7b244,Haider Butt,14fd10b5,0,0,0,0,0,,,,,,0,0,0
+1392811,2023,Bahrain,6,Imran Ali Butt,5d60560f,Mohammad Nadeem,c5d7b244,Haider Butt,14fd10b5,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Bahrain,6,Haider Butt,14fd10b5,Mohammad Nadeem,c5d7b244,Imran Ali Butt,5d60560f,1,0,0,0,0,,,,,,0,1,1
+1392811,2023,Bahrain,6,Haider Butt,14fd10b5,Mohammad Nadeem,c5d7b244,Imran Ali Butt,5d60560f,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Bahrain,6,Imran Ali Butt,5d60560f,Mohammad Nadeem,c5d7b244,Haider Butt,14fd10b5,0,0,0,0,0,,,,,,0,0,0
+1392811,2023,Bahrain,6,Imran Ali Butt,5d60560f,Mohammad Nadeem,c5d7b244,Haider Butt,14fd10b5,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Bahrain,6,Haider Butt,14fd10b5,Mohammad Nadeem,c5d7b244,Imran Ali Butt,5d60560f,0,0,0,0,0,,,,,,0,0,0
+1392811,2023,Bahrain,7,Imran Ali Butt,5d60560f,Mehran Khan,d7bfcc0b,Haider Butt,14fd10b5,0,0,0,0,0,,,,,,0,0,0
+1392811,2023,Bahrain,7,Imran Ali Butt,5d60560f,Mehran Khan,d7bfcc0b,Haider Butt,14fd10b5,1,0,0,0,0,,,,,,0,1,1
+1392811,2023,Bahrain,7,Imran Ali Butt,5d60560f,Mehran Khan,d7bfcc0b,Haider Butt,14fd10b5,0,0,0,0,0,,,,,,4,0,4
+1392811,2023,Bahrain,7,Imran Ali Butt,5d60560f,Mehran Khan,d7bfcc0b,Haider Butt,14fd10b5,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Bahrain,7,Haider Butt,14fd10b5,Mehran Khan,d7bfcc0b,Imran Ali Butt,5d60560f,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Bahrain,7,Imran Ali Butt,5d60560f,Mehran Khan,d7bfcc0b,Haider Butt,14fd10b5,1,0,0,0,0,,,,,,0,1,1
+1392811,2023,Bahrain,7,Imran Ali Butt,5d60560f,Mehran Khan,d7bfcc0b,Haider Butt,14fd10b5,0,0,0,0,0,,,,,,0,0,0
+1392811,2023,Bahrain,7,Imran Ali Butt,5d60560f,Mehran Khan,d7bfcc0b,Haider Butt,14fd10b5,0,0,0,0,0,,,,,,0,0,0
+1392811,2023,Bahrain,8,Haider Butt,14fd10b5,Aqib Ilyas,b3b39bed,Imran Ali Butt,5d60560f,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Bahrain,8,Imran Ali Butt,5d60560f,Aqib Ilyas,b3b39bed,Haider Butt,14fd10b5,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Bahrain,8,Haider Butt,14fd10b5,Aqib Ilyas,b3b39bed,Imran Ali Butt,5d60560f,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Bahrain,8,Imran Ali Butt,5d60560f,Aqib Ilyas,b3b39bed,Haider Butt,14fd10b5,0,0,0,0,0,,,,,,0,0,0
+1392811,2023,Bahrain,8,Imran Ali Butt,5d60560f,Aqib Ilyas,b3b39bed,Haider Butt,14fd10b5,0,0,0,0,0,,,,,,2,0,2
+1392811,2023,Bahrain,8,Imran Ali Butt,5d60560f,Aqib Ilyas,b3b39bed,Haider Butt,14fd10b5,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Bahrain,9,Imran Ali Butt,5d60560f,Ayan Khan,44d6a8b8,Haider Butt,14fd10b5,0,0,0,0,0,,,,,,0,0,0
+1392811,2023,Bahrain,9,Imran Ali Butt,5d60560f,Ayan Khan,44d6a8b8,Haider Butt,14fd10b5,0,0,0,0,0,,,,,,0,0,0
+1392811,2023,Bahrain,9,Imran Ali Butt,5d60560f,Ayan Khan,44d6a8b8,Haider Butt,14fd10b5,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Bahrain,9,Haider Butt,14fd10b5,Ayan Khan,44d6a8b8,Imran Ali Butt,5d60560f,0,0,0,0,0,,,,,,0,0,0
+1392811,2023,Bahrain,9,Haider Butt,14fd10b5,Ayan Khan,44d6a8b8,Imran Ali Butt,5d60560f,0,0,0,0,0,,,,,,0,0,0
+1392811,2023,Bahrain,9,Haider Butt,14fd10b5,Ayan Khan,44d6a8b8,Imran Ali Butt,5d60560f,0,0,0,0,0,,,,,,4,0,4
+1392811,2023,Bahrain,10,Imran Ali Butt,5d60560f,Aqib Ilyas,b3b39bed,Haider Butt,14fd10b5,0,0,0,0,0,,,,,,0,0,0
+1392811,2023,Bahrain,10,Imran Ali Butt,5d60560f,Aqib Ilyas,b3b39bed,Haider Butt,14fd10b5,0,0,0,0,0,,,,,,0,0,0
+1392811,2023,Bahrain,10,Imran Ali Butt,5d60560f,Aqib Ilyas,b3b39bed,Haider Butt,14fd10b5,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Bahrain,10,Haider Butt,14fd10b5,Aqib Ilyas,b3b39bed,Imran Ali Butt,5d60560f,0,0,0,0,1,Haider Butt,14fd10b5,KH Prajapati,c4e73ff1,caught,0,0,0
+1392811,2023,Bahrain,10,Junaid Aziz,c39ee9e0,Aqib Ilyas,b3b39bed,Imran Ali Butt,5d60560f,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Bahrain,10,Imran Ali Butt,5d60560f,Aqib Ilyas,b3b39bed,Junaid Aziz,c39ee9e0,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Bahrain,11,Imran Ali Butt,5d60560f,Ayan Khan,44d6a8b8,Junaid Aziz,c39ee9e0,0,0,0,0,0,,,,,,6,0,6
+1392811,2023,Bahrain,11,Imran Ali Butt,5d60560f,Ayan Khan,44d6a8b8,Junaid Aziz,c39ee9e0,3,0,0,0,0,,,,,,0,3,3
+1392811,2023,Bahrain,11,Imran Ali Butt,5d60560f,Ayan Khan,44d6a8b8,Junaid Aziz,c39ee9e0,0,0,0,0,0,,,,,,0,0,0
+1392811,2023,Bahrain,11,Imran Ali Butt,5d60560f,Ayan Khan,44d6a8b8,Junaid Aziz,c39ee9e0,0,0,0,0,0,,,,,,0,0,0
+1392811,2023,Bahrain,11,Imran Ali Butt,5d60560f,Ayan Khan,44d6a8b8,Junaid Aziz,c39ee9e0,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Bahrain,11,Junaid Aziz,c39ee9e0,Ayan Khan,44d6a8b8,Imran Ali Butt,5d60560f,0,0,0,0,0,,,,,,4,0,4
+1392811,2023,Bahrain,11,Junaid Aziz,c39ee9e0,Ayan Khan,44d6a8b8,Imran Ali Butt,5d60560f,0,0,0,0,0,,,,,,0,0,0
+1392811,2023,Bahrain,12,Imran Ali Butt,5d60560f,Aqib Ilyas,b3b39bed,Junaid Aziz,c39ee9e0,0,0,0,0,0,,,,,,0,0,0
+1392811,2023,Bahrain,12,Imran Ali Butt,5d60560f,Aqib Ilyas,b3b39bed,Junaid Aziz,c39ee9e0,0,0,0,0,0,,,,,,0,0,0
+1392811,2023,Bahrain,12,Imran Ali Butt,5d60560f,Aqib Ilyas,b3b39bed,Junaid Aziz,c39ee9e0,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Bahrain,12,Junaid Aziz,c39ee9e0,Aqib Ilyas,b3b39bed,Imran Ali Butt,5d60560f,0,0,0,0,0,,,,,,0,0,0
+1392811,2023,Bahrain,12,Junaid Aziz,c39ee9e0,Aqib Ilyas,b3b39bed,Imran Ali Butt,5d60560f,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Bahrain,12,Imran Ali Butt,5d60560f,Aqib Ilyas,b3b39bed,Junaid Aziz,c39ee9e0,0,0,0,0,0,,,,,,0,0,0
+1392811,2023,Bahrain,13,Junaid Aziz,c39ee9e0,Mohammad Nadeem,c5d7b244,Imran Ali Butt,5d60560f,0,0,0,0,0,,,,,,0,0,0
+1392811,2023,Bahrain,13,Junaid Aziz,c39ee9e0,Mohammad Nadeem,c5d7b244,Imran Ali Butt,5d60560f,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Bahrain,13,Imran Ali Butt,5d60560f,Mohammad Nadeem,c5d7b244,Junaid Aziz,c39ee9e0,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Bahrain,13,Junaid Aziz,c39ee9e0,Mohammad Nadeem,c5d7b244,Imran Ali Butt,5d60560f,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Bahrain,13,Imran Ali Butt,5d60560f,Mohammad Nadeem,c5d7b244,Junaid Aziz,c39ee9e0,0,0,1,0,0,,,,,,0,1,1
+1392811,2023,Bahrain,13,Junaid Aziz,c39ee9e0,Mohammad Nadeem,c5d7b244,Imran Ali Butt,5d60560f,0,0,0,0,0,,,,,,6,0,6
+1392811,2023,Bahrain,14,Imran Ali Butt,5d60560f,Aqib Ilyas,b3b39bed,Junaid Aziz,c39ee9e0,0,0,0,0,0,,,,,,0,0,0
+1392811,2023,Bahrain,14,Imran Ali Butt,5d60560f,Aqib Ilyas,b3b39bed,Junaid Aziz,c39ee9e0,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Bahrain,14,Junaid Aziz,c39ee9e0,Aqib Ilyas,b3b39bed,Imran Ali Butt,5d60560f,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Bahrain,14,Imran Ali Butt,5d60560f,Aqib Ilyas,b3b39bed,Junaid Aziz,c39ee9e0,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Bahrain,14,Junaid Aziz,c39ee9e0,Aqib Ilyas,b3b39bed,Imran Ali Butt,5d60560f,0,0,0,0,0,,,,,,0,0,0
+1392811,2023,Bahrain,14,Junaid Aziz,c39ee9e0,Aqib Ilyas,b3b39bed,Imran Ali Butt,5d60560f,0,0,0,0,0,,,,,,0,0,0
+1392811,2023,Bahrain,15,Imran Ali Butt,5d60560f,Fayyaz Butt,bd9fbd51,Junaid Aziz,c39ee9e0,0,0,0,0,1,Imran Ali Butt,5d60560f,Aqib Ilyas,b3b39bed,caught,0,0,0
+1392811,2023,Bahrain,15,Rizwan Butt,e741ed8f,Fayyaz Butt,bd9fbd51,Junaid Aziz,c39ee9e0,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Bahrain,15,Junaid Aziz,c39ee9e0,Fayyaz Butt,bd9fbd51,Rizwan Butt,e741ed8f,0,0,0,0,1,Junaid Aziz,c39ee9e0,Naseem Khushi,c63671e9,caught,0,0,0
+1392811,2023,Bahrain,15,Ahmer Bin Nisar,afbc53ba,Fayyaz Butt,bd9fbd51,Rizwan Butt,e741ed8f,0,0,0,0,0,,,,,,4,0,4
+1392811,2023,Bahrain,15,Ahmer Bin Nisar,afbc53ba,Fayyaz Butt,bd9fbd51,Rizwan Butt,e741ed8f,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Bahrain,15,Rizwan Butt,e741ed8f,Fayyaz Butt,bd9fbd51,Ahmer Bin Nisar,afbc53ba,0,0,0,0,1,Rizwan Butt,e741ed8f,Rafiullah,369cc49c,caught,0,0,0
+1392811,2023,Bahrain,16,Ahmer Bin Nisar,afbc53ba,Mohammad Nadeem,c5d7b244,S Veerapathiran,1e569fb0,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Bahrain,16,S Veerapathiran,1e569fb0,Mohammad Nadeem,c5d7b244,Ahmer Bin Nisar,afbc53ba,1,0,0,0,0,,,,,,0,1,1
+1392811,2023,Bahrain,16,S Veerapathiran,1e569fb0,Mohammad Nadeem,c5d7b244,Ahmer Bin Nisar,afbc53ba,0,0,0,0,0,,,,,,0,0,0
+1392811,2023,Bahrain,16,S Veerapathiran,1e569fb0,Mohammad Nadeem,c5d7b244,Ahmer Bin Nisar,afbc53ba,0,0,0,0,0,,,,,,0,0,0
+1392811,2023,Bahrain,16,S Veerapathiran,1e569fb0,Mohammad Nadeem,c5d7b244,Ahmer Bin Nisar,afbc53ba,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Bahrain,16,Ahmer Bin Nisar,afbc53ba,Mohammad Nadeem,c5d7b244,S Veerapathiran,1e569fb0,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Bahrain,16,S Veerapathiran,1e569fb0,Mohammad Nadeem,c5d7b244,Ahmer Bin Nisar,afbc53ba,0,0,0,0,0,,,,,,2,0,2
+1392811,2023,Bahrain,17,Ahmer Bin Nisar,afbc53ba,Bilal Khan,dcdb87f2,S Veerapathiran,1e569fb0,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Bahrain,17,S Veerapathiran,1e569fb0,Bilal Khan,dcdb87f2,Ahmer Bin Nisar,afbc53ba,0,0,0,0,0,,,,,,0,0,0
+1392811,2023,Bahrain,17,S Veerapathiran,1e569fb0,Bilal Khan,dcdb87f2,Ahmer Bin Nisar,afbc53ba,0,0,1,0,0,,,,,,0,1,1
+1392811,2023,Bahrain,17,Ahmer Bin Nisar,afbc53ba,Bilal Khan,dcdb87f2,S Veerapathiran,1e569fb0,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Bahrain,17,S Veerapathiran,1e569fb0,Bilal Khan,dcdb87f2,Ahmer Bin Nisar,afbc53ba,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Bahrain,17,Ahmer Bin Nisar,afbc53ba,Bilal Khan,dcdb87f2,S Veerapathiran,1e569fb0,0,0,0,0,0,,,,,,0,0,0
+1392811,2023,Bahrain,18,S Veerapathiran,1e569fb0,Fayyaz Butt,bd9fbd51,Ahmer Bin Nisar,afbc53ba,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Bahrain,18,Ahmer Bin Nisar,afbc53ba,Fayyaz Butt,bd9fbd51,S Veerapathiran,1e569fb0,0,0,0,0,0,,,,,,0,0,0
+1392811,2023,Bahrain,18,Ahmer Bin Nisar,afbc53ba,Fayyaz Butt,bd9fbd51,S Veerapathiran,1e569fb0,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Bahrain,18,S Veerapathiran,1e569fb0,Fayyaz Butt,bd9fbd51,Ahmer Bin Nisar,afbc53ba,0,0,0,0,0,,,,,,0,0,0
+1392811,2023,Bahrain,18,S Veerapathiran,1e569fb0,Fayyaz Butt,bd9fbd51,Ahmer Bin Nisar,afbc53ba,0,0,0,0,0,,,,,,6,0,6
+1392811,2023,Bahrain,18,S Veerapathiran,1e569fb0,Fayyaz Butt,bd9fbd51,Ahmer Bin Nisar,afbc53ba,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Bahrain,19,S Veerapathiran,1e569fb0,Bilal Khan,dcdb87f2,Ahmer Bin Nisar,afbc53ba,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Bahrain,19,Ahmer Bin Nisar,afbc53ba,Bilal Khan,dcdb87f2,S Veerapathiran,1e569fb0,0,0,0,0,0,,,,,,2,0,2
+1392811,2023,Bahrain,19,Ahmer Bin Nisar,afbc53ba,Bilal Khan,dcdb87f2,S Veerapathiran,1e569fb0,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Bahrain,19,S Veerapathiran,1e569fb0,Bilal Khan,dcdb87f2,Ahmer Bin Nisar,afbc53ba,0,0,0,0,0,,,,,,2,0,2
+1392811,2023,Bahrain,19,S Veerapathiran,1e569fb0,Bilal Khan,dcdb87f2,Ahmer Bin Nisar,afbc53ba,0,0,0,0,0,,,,,,2,0,2
+1392811,2023,Bahrain,19,S Veerapathiran,1e569fb0,Bilal Khan,dcdb87f2,Ahmer Bin Nisar,afbc53ba,0,0,0,0,1,Ahmer Bin Nisar,afbc53ba,Ayan Khan,44d6a8b8,run out,1,0,1
+1392811,2023,Oman,0,KH Prajapati,c4e73ff1,Ali Dawood,596982e6,Jatinder Singh,b80dd12c,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Oman,0,Jatinder Singh,b80dd12c,Ali Dawood,596982e6,KH Prajapati,c4e73ff1,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Oman,0,KH Prajapati,c4e73ff1,Ali Dawood,596982e6,Jatinder Singh,b80dd12c,0,0,0,0,0,,,,,,0,0,0
+1392811,2023,Oman,0,KH Prajapati,c4e73ff1,Ali Dawood,596982e6,Jatinder Singh,b80dd12c,0,0,0,0,0,,,,,,0,0,0
+1392811,2023,Oman,0,KH Prajapati,c4e73ff1,Ali Dawood,596982e6,Jatinder Singh,b80dd12c,0,0,0,0,0,,,,,,0,0,0
+1392811,2023,Oman,0,KH Prajapati,c4e73ff1,Ali Dawood,596982e6,Jatinder Singh,b80dd12c,0,0,0,0,0,,,,,,0,0,0
+1392811,2023,Oman,1,Jatinder Singh,b80dd12c,Rizwan Butt,e741ed8f,KH Prajapati,c4e73ff1,0,0,0,0,0,,,,,,2,0,2
+1392811,2023,Oman,1,Jatinder Singh,b80dd12c,Rizwan Butt,e741ed8f,KH Prajapati,c4e73ff1,0,0,0,0,0,,,,,,0,0,0
+1392811,2023,Oman,1,Jatinder Singh,b80dd12c,Rizwan Butt,e741ed8f,KH Prajapati,c4e73ff1,0,0,0,0,0,,,,,,0,0,0
+1392811,2023,Oman,1,Jatinder Singh,b80dd12c,Rizwan Butt,e741ed8f,KH Prajapati,c4e73ff1,0,0,0,0,1,Jatinder Singh,b80dd12c,,,bowled,0,0,0
+1392811,2023,Oman,1,Aqib Ilyas,b3b39bed,Rizwan Butt,e741ed8f,KH Prajapati,c4e73ff1,0,0,0,0,0,,,,,,0,0,0
+1392811,2023,Oman,1,Aqib Ilyas,b3b39bed,Rizwan Butt,e741ed8f,KH Prajapati,c4e73ff1,0,0,0,0,0,,,,,,0,0,0
+1392811,2023,Oman,2,KH Prajapati,c4e73ff1,Ali Dawood,596982e6,Aqib Ilyas,b3b39bed,0,0,0,0,0,,,,,,0,0,0
+1392811,2023,Oman,2,KH Prajapati,c4e73ff1,Ali Dawood,596982e6,Aqib Ilyas,b3b39bed,0,0,0,0,0,,,,,,0,0,0
+1392811,2023,Oman,2,KH Prajapati,c4e73ff1,Ali Dawood,596982e6,Aqib Ilyas,b3b39bed,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Oman,2,Aqib Ilyas,b3b39bed,Ali Dawood,596982e6,KH Prajapati,c4e73ff1,0,0,0,0,0,,,,,,0,0,0
+1392811,2023,Oman,2,Aqib Ilyas,b3b39bed,Ali Dawood,596982e6,KH Prajapati,c4e73ff1,0,0,0,0,0,,,,,,0,0,0
+1392811,2023,Oman,2,Aqib Ilyas,b3b39bed,Ali Dawood,596982e6,KH Prajapati,c4e73ff1,0,0,0,0,0,,,,,,0,0,0
+1392811,2023,Oman,3,KH Prajapati,c4e73ff1,Rizwan Butt,e741ed8f,Aqib Ilyas,b3b39bed,0,0,0,0,0,,,,,,0,0,0
+1392811,2023,Oman,3,KH Prajapati,c4e73ff1,Rizwan Butt,e741ed8f,Aqib Ilyas,b3b39bed,0,0,0,0,0,,,,,,4,0,4
+1392811,2023,Oman,3,KH Prajapati,c4e73ff1,Rizwan Butt,e741ed8f,Aqib Ilyas,b3b39bed,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Oman,3,Aqib Ilyas,b3b39bed,Rizwan Butt,e741ed8f,KH Prajapati,c4e73ff1,0,0,0,0,1,Aqib Ilyas,b3b39bed,Ali Dawood,596982e6,caught,0,0,0
+1392811,2023,Oman,3,Mohammad Nadeem,c5d7b244,Rizwan Butt,e741ed8f,KH Prajapati,c4e73ff1,1,0,0,0,0,,,,,,0,1,1
+1392811,2023,Oman,3,Mohammad Nadeem,c5d7b244,Rizwan Butt,e741ed8f,KH Prajapati,c4e73ff1,0,0,0,0,0,,,,,,0,0,0
+1392811,2023,Oman,3,Mohammad Nadeem,c5d7b244,Rizwan Butt,e741ed8f,KH Prajapati,c4e73ff1,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Oman,4,Mohammad Nadeem,c5d7b244,Ali Dawood,596982e6,KH Prajapati,c4e73ff1,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Oman,4,KH Prajapati,c4e73ff1,Ali Dawood,596982e6,Mohammad Nadeem,c5d7b244,0,0,0,0,0,,,,,,0,0,0
+1392811,2023,Oman,4,KH Prajapati,c4e73ff1,Ali Dawood,596982e6,Mohammad Nadeem,c5d7b244,0,0,0,0,0,,,,,,4,0,4
+1392811,2023,Oman,4,KH Prajapati,c4e73ff1,Ali Dawood,596982e6,Mohammad Nadeem,c5d7b244,0,0,0,0,0,,,,,,0,0,0
+1392811,2023,Oman,4,KH Prajapati,c4e73ff1,Ali Dawood,596982e6,Mohammad Nadeem,c5d7b244,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Oman,4,Mohammad Nadeem,c5d7b244,Ali Dawood,596982e6,KH Prajapati,c4e73ff1,0,0,0,0,0,,,,,,0,0,0
+1392811,2023,Oman,5,KH Prajapati,c4e73ff1,Abdul Majid Abbasi,0cfb42b5,Mohammad Nadeem,c5d7b244,0,0,0,0,0,,,,,,2,0,2
+1392811,2023,Oman,5,KH Prajapati,c4e73ff1,Abdul Majid Abbasi,0cfb42b5,Mohammad Nadeem,c5d7b244,0,0,0,0,0,,,,,,0,0,0
+1392811,2023,Oman,5,KH Prajapati,c4e73ff1,Abdul Majid Abbasi,0cfb42b5,Mohammad Nadeem,c5d7b244,0,0,0,0,0,,,,,,0,0,0
+1392811,2023,Oman,5,KH Prajapati,c4e73ff1,Abdul Majid Abbasi,0cfb42b5,Mohammad Nadeem,c5d7b244,0,0,0,0,0,,,,,,0,0,0
+1392811,2023,Oman,5,KH Prajapati,c4e73ff1,Abdul Majid Abbasi,0cfb42b5,Mohammad Nadeem,c5d7b244,0,0,0,0,0,,,,,,4,0,4
+1392811,2023,Oman,5,KH Prajapati,c4e73ff1,Abdul Majid Abbasi,0cfb42b5,Mohammad Nadeem,c5d7b244,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Oman,6,KH Prajapati,c4e73ff1,Imran Anwar,a9a18e3e,Mohammad Nadeem,c5d7b244,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Oman,6,Mohammad Nadeem,c5d7b244,Imran Anwar,a9a18e3e,KH Prajapati,c4e73ff1,0,0,0,0,0,,,,,,4,0,4
+1392811,2023,Oman,6,Mohammad Nadeem,c5d7b244,Imran Anwar,a9a18e3e,KH Prajapati,c4e73ff1,0,0,0,0,0,,,,,,0,0,0
+1392811,2023,Oman,6,Mohammad Nadeem,c5d7b244,Imran Anwar,a9a18e3e,KH Prajapati,c4e73ff1,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Oman,6,KH Prajapati,c4e73ff1,Imran Anwar,a9a18e3e,Mohammad Nadeem,c5d7b244,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Oman,6,Mohammad Nadeem,c5d7b244,Imran Anwar,a9a18e3e,KH Prajapati,c4e73ff1,0,0,0,0,1,Mohammad Nadeem,c5d7b244,Imran Ali Butt,5d60560f,caught,0,0,0
+1392811,2023,Oman,7,KH Prajapati,c4e73ff1,Abdul Majid Abbasi,0cfb42b5,Ayan Khan,44d6a8b8,0,0,0,0,0,,,,,,0,0,0
+1392811,2023,Oman,7,KH Prajapati,c4e73ff1,Abdul Majid Abbasi,0cfb42b5,Ayan Khan,44d6a8b8,0,0,0,0,0,,,,,,0,0,0
+1392811,2023,Oman,7,KH Prajapati,c4e73ff1,Abdul Majid Abbasi,0cfb42b5,Ayan Khan,44d6a8b8,0,0,0,0,0,,,,,,0,0,0
+1392811,2023,Oman,7,KH Prajapati,c4e73ff1,Abdul Majid Abbasi,0cfb42b5,Ayan Khan,44d6a8b8,0,0,0,0,0,,,,,,0,0,0
+1392811,2023,Oman,7,KH Prajapati,c4e73ff1,Abdul Majid Abbasi,0cfb42b5,Ayan Khan,44d6a8b8,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Oman,7,Ayan Khan,44d6a8b8,Abdul Majid Abbasi,0cfb42b5,KH Prajapati,c4e73ff1,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Oman,8,Ayan Khan,44d6a8b8,Imran Anwar,a9a18e3e,KH Prajapati,c4e73ff1,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Oman,8,KH Prajapati,c4e73ff1,Imran Anwar,a9a18e3e,Ayan Khan,44d6a8b8,0,0,1,0,0,,,,,,0,1,1
+1392811,2023,Oman,8,Ayan Khan,44d6a8b8,Imran Anwar,a9a18e3e,KH Prajapati,c4e73ff1,0,0,0,0,0,,,,,,0,0,0
+1392811,2023,Oman,8,Ayan Khan,44d6a8b8,Imran Anwar,a9a18e3e,KH Prajapati,c4e73ff1,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Oman,8,KH Prajapati,c4e73ff1,Imran Anwar,a9a18e3e,Ayan Khan,44d6a8b8,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Oman,8,Ayan Khan,44d6a8b8,Imran Anwar,a9a18e3e,KH Prajapati,c4e73ff1,0,0,1,0,0,,,,,,0,1,1
+1392811,2023,Oman,9,Ayan Khan,44d6a8b8,Abdul Majid Abbasi,0cfb42b5,KH Prajapati,c4e73ff1,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Oman,9,KH Prajapati,c4e73ff1,Abdul Majid Abbasi,0cfb42b5,Ayan Khan,44d6a8b8,0,0,0,0,0,,,,,,2,0,2
+1392811,2023,Oman,9,KH Prajapati,c4e73ff1,Abdul Majid Abbasi,0cfb42b5,Ayan Khan,44d6a8b8,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Oman,9,Ayan Khan,44d6a8b8,Abdul Majid Abbasi,0cfb42b5,KH Prajapati,c4e73ff1,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Oman,9,KH Prajapati,c4e73ff1,Abdul Majid Abbasi,0cfb42b5,Ayan Khan,44d6a8b8,0,0,0,0,0,,,,,,0,0,0
+1392811,2023,Oman,9,KH Prajapati,c4e73ff1,Abdul Majid Abbasi,0cfb42b5,Ayan Khan,44d6a8b8,0,0,0,0,0,,,,,,2,0,2
+1392811,2023,Oman,10,Ayan Khan,44d6a8b8,S Veerapathiran,1e569fb0,KH Prajapati,c4e73ff1,0,0,0,0,0,,,,,,4,0,4
+1392811,2023,Oman,10,Ayan Khan,44d6a8b8,S Veerapathiran,1e569fb0,KH Prajapati,c4e73ff1,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Oman,10,KH Prajapati,c4e73ff1,S Veerapathiran,1e569fb0,Ayan Khan,44d6a8b8,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Oman,10,Ayan Khan,44d6a8b8,S Veerapathiran,1e569fb0,KH Prajapati,c4e73ff1,0,0,0,0,0,,,,,,0,0,0
+1392811,2023,Oman,10,Ayan Khan,44d6a8b8,S Veerapathiran,1e569fb0,KH Prajapati,c4e73ff1,0,0,0,0,0,,,,,,2,0,2
+1392811,2023,Oman,10,Ayan Khan,44d6a8b8,S Veerapathiran,1e569fb0,KH Prajapati,c4e73ff1,0,0,0,0,0,,,,,,0,0,0
+1392811,2023,Oman,11,KH Prajapati,c4e73ff1,Mohsin Zaki,09c766ec,Ayan Khan,44d6a8b8,0,0,0,0,0,,,,,,2,0,2
+1392811,2023,Oman,11,KH Prajapati,c4e73ff1,Mohsin Zaki,09c766ec,Ayan Khan,44d6a8b8,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Oman,11,Ayan Khan,44d6a8b8,Mohsin Zaki,09c766ec,KH Prajapati,c4e73ff1,0,0,0,0,0,,,,,,4,0,4
+1392811,2023,Oman,11,Ayan Khan,44d6a8b8,Mohsin Zaki,09c766ec,KH Prajapati,c4e73ff1,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Oman,11,KH Prajapati,c4e73ff1,Mohsin Zaki,09c766ec,Ayan Khan,44d6a8b8,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Oman,11,Ayan Khan,44d6a8b8,Mohsin Zaki,09c766ec,KH Prajapati,c4e73ff1,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Oman,12,Ayan Khan,44d6a8b8,Abdul Majid Abbasi,0cfb42b5,KH Prajapati,c4e73ff1,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Oman,12,KH Prajapati,c4e73ff1,Abdul Majid Abbasi,0cfb42b5,Ayan Khan,44d6a8b8,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Oman,12,Ayan Khan,44d6a8b8,Abdul Majid Abbasi,0cfb42b5,KH Prajapati,c4e73ff1,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Oman,12,KH Prajapati,c4e73ff1,Abdul Majid Abbasi,0cfb42b5,Ayan Khan,44d6a8b8,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Oman,12,Ayan Khan,44d6a8b8,Abdul Majid Abbasi,0cfb42b5,KH Prajapati,c4e73ff1,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Oman,12,KH Prajapati,c4e73ff1,Abdul Majid Abbasi,0cfb42b5,Ayan Khan,44d6a8b8,0,0,0,0,0,,,,,,2,0,2
+1392811,2023,Oman,13,Ayan Khan,44d6a8b8,Haider Butt,14fd10b5,KH Prajapati,c4e73ff1,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Oman,13,KH Prajapati,c4e73ff1,Haider Butt,14fd10b5,Ayan Khan,44d6a8b8,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Oman,13,Ayan Khan,44d6a8b8,Haider Butt,14fd10b5,KH Prajapati,c4e73ff1,0,0,0,0,0,,,,,,2,0,2
+1392811,2023,Oman,13,Ayan Khan,44d6a8b8,Haider Butt,14fd10b5,KH Prajapati,c4e73ff1,0,0,0,0,1,Ayan Khan,44d6a8b8,Imran Ali Butt,5d60560f,stumped,0,0,0
+1392811,2023,Oman,13,Mehran Khan,d7bfcc0b,Haider Butt,14fd10b5,KH Prajapati,c4e73ff1,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Oman,13,KH Prajapati,c4e73ff1,Haider Butt,14fd10b5,Mehran Khan,d7bfcc0b,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Oman,14,KH Prajapati,c4e73ff1,Ali Dawood,596982e6,Mehran Khan,d7bfcc0b,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Oman,14,Mehran Khan,d7bfcc0b,Ali Dawood,596982e6,KH Prajapati,c4e73ff1,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Oman,14,KH Prajapati,c4e73ff1,Ali Dawood,596982e6,Mehran Khan,d7bfcc0b,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Oman,14,Mehran Khan,d7bfcc0b,Ali Dawood,596982e6,KH Prajapati,c4e73ff1,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Oman,14,KH Prajapati,c4e73ff1,Ali Dawood,596982e6,Mehran Khan,d7bfcc0b,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Oman,14,Mehran Khan,d7bfcc0b,Ali Dawood,596982e6,KH Prajapati,c4e73ff1,0,0,0,0,0,,,,,,0,0,0
+1392811,2023,Oman,15,KH Prajapati,c4e73ff1,Rizwan Butt,e741ed8f,Mehran Khan,d7bfcc0b,0,0,0,0,0,,,,,,2,0,2
+1392811,2023,Oman,15,KH Prajapati,c4e73ff1,Rizwan Butt,e741ed8f,Mehran Khan,d7bfcc0b,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Oman,15,Mehran Khan,d7bfcc0b,Rizwan Butt,e741ed8f,KH Prajapati,c4e73ff1,1,0,0,0,0,,,,,,0,1,1
+1392811,2023,Oman,15,Mehran Khan,d7bfcc0b,Rizwan Butt,e741ed8f,KH Prajapati,c4e73ff1,0,0,0,0,1,Mehran Khan,d7bfcc0b,Haider Butt,14fd10b5,caught,0,0,0
+1392811,2023,Oman,15,Rafiullah,369cc49c,Rizwan Butt,e741ed8f,KH Prajapati,c4e73ff1,0,0,0,0,0,,,,,,6,0,6
+1392811,2023,Oman,15,Rafiullah,369cc49c,Rizwan Butt,e741ed8f,KH Prajapati,c4e73ff1,0,0,0,0,0,,,,,,0,0,0
+1392811,2023,Oman,15,Rafiullah,369cc49c,Rizwan Butt,e741ed8f,KH Prajapati,c4e73ff1,0,0,0,0,0,,,,,,2,0,2
+1392811,2023,Oman,16,KH Prajapati,c4e73ff1,Imran Anwar,a9a18e3e,Rafiullah,369cc49c,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Oman,16,Rafiullah,369cc49c,Imran Anwar,a9a18e3e,KH Prajapati,c4e73ff1,0,0,0,0,0,,,,,,6,0,6
+1392811,2023,Oman,16,Rafiullah,369cc49c,Imran Anwar,a9a18e3e,KH Prajapati,c4e73ff1,0,0,0,0,1,Rafiullah,369cc49c,,,bowled,0,0,0
+1392811,2023,Oman,16,Naseem Khushi,c63671e9,Imran Anwar,a9a18e3e,KH Prajapati,c4e73ff1,0,0,0,0,0,,,,,,0,0,0
+1392811,2023,Oman,16,Naseem Khushi,c63671e9,Imran Anwar,a9a18e3e,KH Prajapati,c4e73ff1,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Oman,16,KH Prajapati,c4e73ff1,Imran Anwar,a9a18e3e,Naseem Khushi,c63671e9,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Oman,17,KH Prajapati,c4e73ff1,Rizwan Butt,e741ed8f,Naseem Khushi,c63671e9,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Oman,17,Naseem Khushi,c63671e9,Rizwan Butt,e741ed8f,KH Prajapati,c4e73ff1,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Oman,17,KH Prajapati,c4e73ff1,Rizwan Butt,e741ed8f,Naseem Khushi,c63671e9,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Oman,17,Naseem Khushi,c63671e9,Rizwan Butt,e741ed8f,KH Prajapati,c4e73ff1,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Oman,17,KH Prajapati,c4e73ff1,Rizwan Butt,e741ed8f,Naseem Khushi,c63671e9,0,0,0,0,1,KH Prajapati,c4e73ff1,,,lbw,0,0,0
+1392811,2023,Oman,17,Shakeel Ahmed,e29e9c12,Rizwan Butt,e741ed8f,Naseem Khushi,c63671e9,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Oman,18,Shakeel Ahmed,e29e9c12,Imran Anwar,a9a18e3e,Naseem Khushi,c63671e9,0,0,0,0,0,,,,,,0,0,0
+1392811,2023,Oman,18,Shakeel Ahmed,e29e9c12,Imran Anwar,a9a18e3e,Naseem Khushi,c63671e9,0,0,0,0,0,,,,,,0,0,0
+1392811,2023,Oman,18,Shakeel Ahmed,e29e9c12,Imran Anwar,a9a18e3e,Naseem Khushi,c63671e9,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Oman,18,Naseem Khushi,c63671e9,Imran Anwar,a9a18e3e,Shakeel Ahmed,e29e9c12,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Oman,18,Shakeel Ahmed,e29e9c12,Imran Anwar,a9a18e3e,Naseem Khushi,c63671e9,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Oman,18,Naseem Khushi,c63671e9,Imran Anwar,a9a18e3e,Shakeel Ahmed,e29e9c12,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Oman,19,Naseem Khushi,c63671e9,S Veerapathiran,1e569fb0,Shakeel Ahmed,e29e9c12,0,0,0,0,0,,,,,,6,0,6
+1392811,2023,Oman,19,Naseem Khushi,c63671e9,S Veerapathiran,1e569fb0,Shakeel Ahmed,e29e9c12,0,0,0,0,1,Naseem Khushi,c63671e9,Haider Butt,14fd10b5,caught,0,0,0
+1392811,2023,Oman,19,Fayyaz Butt,bd9fbd51,S Veerapathiran,1e569fb0,Shakeel Ahmed,e29e9c12,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Oman,19,Shakeel Ahmed,e29e9c12,S Veerapathiran,1e569fb0,Fayyaz Butt,bd9fbd51,0,0,0,0,0,,,,,,1,0,1
+1392811,2023,Oman,19,Fayyaz Butt,bd9fbd51,S Veerapathiran,1e569fb0,Shakeel Ahmed,e29e9c12,0,0,1,0,0,,,,,,0,1,1
+1392811,2023,Oman,19,Shakeel Ahmed,e29e9c12,S Veerapathiran,1e569fb0,Fayyaz Butt,bd9fbd51,0,0,0,0,1,Shakeel Ahmed,e29e9c12,Imran Ali Butt,5d60560f,run out,1,0,1

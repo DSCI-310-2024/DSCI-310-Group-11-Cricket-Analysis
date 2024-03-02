@@ -1,0 +1,245 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1398298,2023,Malaysia,0,Syed Aziz,6667067e,A Mehmood,7cefb2a2,Zubaidi Zulkifle,dca8273d,0,0,0,0,0,,,,,,4,0,4
+1398298,2023,Malaysia,0,Syed Aziz,6667067e,A Mehmood,7cefb2a2,Zubaidi Zulkifle,dca8273d,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Malaysia,0,Zubaidi Zulkifle,dca8273d,A Mehmood,7cefb2a2,Syed Aziz,6667067e,0,0,0,0,0,,,,,,0,0,0
+1398298,2023,Malaysia,0,Zubaidi Zulkifle,dca8273d,A Mehmood,7cefb2a2,Syed Aziz,6667067e,0,0,0,0,0,,,,,,0,0,0
+1398298,2023,Malaysia,0,Zubaidi Zulkifle,dca8273d,A Mehmood,7cefb2a2,Syed Aziz,6667067e,0,0,0,0,0,,,,,,6,0,6
+1398298,2023,Malaysia,0,Zubaidi Zulkifle,dca8273d,A Mehmood,7cefb2a2,Syed Aziz,6667067e,0,0,0,0,1,Zubaidi Zulkifle,dca8273d,Nizakat Khan,e3eb9e46,caught,0,0,0
+1398298,2023,Malaysia,1,Syed Aziz,6667067e,Ehsan Khan,d3851cd8,Muhammad Amir,60bec5c3,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Malaysia,1,Muhammad Amir,60bec5c3,Ehsan Khan,d3851cd8,Syed Aziz,6667067e,0,0,0,0,0,,,,,,0,0,0
+1398298,2023,Malaysia,1,Muhammad Amir,60bec5c3,Ehsan Khan,d3851cd8,Syed Aziz,6667067e,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Malaysia,1,Syed Aziz,6667067e,Ehsan Khan,d3851cd8,Muhammad Amir,60bec5c3,0,0,0,0,0,,,,,,0,0,0
+1398298,2023,Malaysia,1,Syed Aziz,6667067e,Ehsan Khan,d3851cd8,Muhammad Amir,60bec5c3,0,0,0,0,0,,,,,,0,0,0
+1398298,2023,Malaysia,1,Syed Aziz,6667067e,Ehsan Khan,d3851cd8,Muhammad Amir,60bec5c3,0,0,0,0,1,Syed Aziz,6667067e,,,lbw,0,0,0
+1398298,2023,Malaysia,2,Muhammad Amir,60bec5c3,A Shukla,a1e80d06,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,0,0,0
+1398298,2023,Malaysia,2,Muhammad Amir,60bec5c3,A Shukla,a1e80d06,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,0,0,0
+1398298,2023,Malaysia,2,Muhammad Amir,60bec5c3,A Shukla,a1e80d06,Ahmed Faiz,f6b4f746,0,0,0,0,1,Muhammad Amir,60bec5c3,,,bowled,0,0,0
+1398298,2023,Malaysia,2,Virandeep Singh,415d30b6,A Shukla,a1e80d06,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,0,0,0
+1398298,2023,Malaysia,2,Virandeep Singh,415d30b6,A Shukla,a1e80d06,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,4,0,4
+1398298,2023,Malaysia,2,Virandeep Singh,415d30b6,A Shukla,a1e80d06,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,0,0,0
+1398298,2023,Malaysia,3,Ahmed Faiz,f6b4f746,A Mehmood,7cefb2a2,Virandeep Singh,415d30b6,0,0,0,0,0,,,,,,0,0,0
+1398298,2023,Malaysia,3,Ahmed Faiz,f6b4f746,A Mehmood,7cefb2a2,Virandeep Singh,415d30b6,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Malaysia,3,Virandeep Singh,415d30b6,A Mehmood,7cefb2a2,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,0,0,0
+1398298,2023,Malaysia,3,Virandeep Singh,415d30b6,A Mehmood,7cefb2a2,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,0,0,0
+1398298,2023,Malaysia,3,Virandeep Singh,415d30b6,A Mehmood,7cefb2a2,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Malaysia,3,Ahmed Faiz,f6b4f746,A Mehmood,7cefb2a2,Virandeep Singh,415d30b6,0,0,0,0,0,,,,,,2,0,2
+1398298,2023,Malaysia,4,Virandeep Singh,415d30b6,Ehsan Khan,d3851cd8,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Malaysia,4,Ahmed Faiz,f6b4f746,Ehsan Khan,d3851cd8,Virandeep Singh,415d30b6,0,0,0,4,0,,,,,,0,4,4
+1398298,2023,Malaysia,4,Ahmed Faiz,f6b4f746,Ehsan Khan,d3851cd8,Virandeep Singh,415d30b6,0,0,0,0,0,,,,,,0,0,0
+1398298,2023,Malaysia,4,Ahmed Faiz,f6b4f746,Ehsan Khan,d3851cd8,Virandeep Singh,415d30b6,0,0,0,0,0,,,,,,0,0,0
+1398298,2023,Malaysia,4,Ahmed Faiz,f6b4f746,Ehsan Khan,d3851cd8,Virandeep Singh,415d30b6,0,0,0,0,0,,,,,,2,0,2
+1398298,2023,Malaysia,4,Ahmed Faiz,f6b4f746,Ehsan Khan,d3851cd8,Virandeep Singh,415d30b6,0,0,0,0,0,,,,,,0,0,0
+1398298,2023,Malaysia,5,Virandeep Singh,415d30b6,A Shukla,a1e80d06,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,0,0,0
+1398298,2023,Malaysia,5,Virandeep Singh,415d30b6,A Shukla,a1e80d06,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,0,0,0
+1398298,2023,Malaysia,5,Virandeep Singh,415d30b6,A Shukla,a1e80d06,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,0,0,0
+1398298,2023,Malaysia,5,Virandeep Singh,415d30b6,A Shukla,a1e80d06,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Malaysia,5,Ahmed Faiz,f6b4f746,A Shukla,a1e80d06,Virandeep Singh,415d30b6,0,0,0,0,0,,,,,,0,0,0
+1398298,2023,Malaysia,5,Ahmed Faiz,f6b4f746,A Shukla,a1e80d06,Virandeep Singh,415d30b6,0,0,0,0,0,,,,,,0,0,0
+1398298,2023,Malaysia,6,Virandeep Singh,415d30b6,Nizakat Khan,e3eb9e46,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Malaysia,6,Ahmed Faiz,f6b4f746,Nizakat Khan,e3eb9e46,Virandeep Singh,415d30b6,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Malaysia,6,Virandeep Singh,415d30b6,Nizakat Khan,e3eb9e46,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,2,0,2
+1398298,2023,Malaysia,6,Virandeep Singh,415d30b6,Nizakat Khan,e3eb9e46,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,2,0,2
+1398298,2023,Malaysia,6,Virandeep Singh,415d30b6,Nizakat Khan,e3eb9e46,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,0,0,0
+1398298,2023,Malaysia,6,Virandeep Singh,415d30b6,Nizakat Khan,e3eb9e46,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Malaysia,7,Virandeep Singh,415d30b6,Mohammad Ghazanfar,00321fff,Ahmed Faiz,f6b4f746,2,0,0,0,0,,,,,,0,2,2
+1398298,2023,Malaysia,7,Ahmed Faiz,f6b4f746,Mohammad Ghazanfar,00321fff,Virandeep Singh,415d30b6,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Malaysia,7,Virandeep Singh,415d30b6,Mohammad Ghazanfar,00321fff,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,2,0,2
+1398298,2023,Malaysia,7,Virandeep Singh,415d30b6,Mohammad Ghazanfar,00321fff,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,4,0,4
+1398298,2023,Malaysia,7,Virandeep Singh,415d30b6,Mohammad Ghazanfar,00321fff,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Malaysia,7,Ahmed Faiz,f6b4f746,Mohammad Ghazanfar,00321fff,Virandeep Singh,415d30b6,0,0,0,0,0,,,,,,0,0,0
+1398298,2023,Malaysia,7,Ahmed Faiz,f6b4f746,Mohammad Ghazanfar,00321fff,Virandeep Singh,415d30b6,0,0,0,0,0,,,,,,4,0,4
+1398298,2023,Malaysia,8,Virandeep Singh,415d30b6,Nizakat Khan,e3eb9e46,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Malaysia,8,Ahmed Faiz,f6b4f746,Nizakat Khan,e3eb9e46,Virandeep Singh,415d30b6,0,0,0,0,0,,,,,,0,0,0
+1398298,2023,Malaysia,8,Ahmed Faiz,f6b4f746,Nizakat Khan,e3eb9e46,Virandeep Singh,415d30b6,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Malaysia,8,Virandeep Singh,415d30b6,Nizakat Khan,e3eb9e46,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,0,0,0
+1398298,2023,Malaysia,8,Virandeep Singh,415d30b6,Nizakat Khan,e3eb9e46,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,0,0,0
+1398298,2023,Malaysia,8,Virandeep Singh,415d30b6,Nizakat Khan,e3eb9e46,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,2,0,2
+1398298,2023,Malaysia,9,Ahmed Faiz,f6b4f746,Anas Khan,66a7f213,Virandeep Singh,415d30b6,0,0,0,0,0,,,,,,2,0,2
+1398298,2023,Malaysia,9,Ahmed Faiz,f6b4f746,Anas Khan,66a7f213,Virandeep Singh,415d30b6,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Malaysia,9,Virandeep Singh,415d30b6,Anas Khan,66a7f213,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,2,0,2
+1398298,2023,Malaysia,9,Virandeep Singh,415d30b6,Anas Khan,66a7f213,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Malaysia,9,Ahmed Faiz,f6b4f746,Anas Khan,66a7f213,Virandeep Singh,415d30b6,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Malaysia,9,Virandeep Singh,415d30b6,Anas Khan,66a7f213,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Malaysia,10,Virandeep Singh,415d30b6,Nizakat Khan,e3eb9e46,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,6,0,6
+1398298,2023,Malaysia,10,Virandeep Singh,415d30b6,Nizakat Khan,e3eb9e46,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Malaysia,10,Ahmed Faiz,f6b4f746,Nizakat Khan,e3eb9e46,Virandeep Singh,415d30b6,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Malaysia,10,Virandeep Singh,415d30b6,Nizakat Khan,e3eb9e46,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,0,0,0
+1398298,2023,Malaysia,10,Virandeep Singh,415d30b6,Nizakat Khan,e3eb9e46,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Malaysia,10,Ahmed Faiz,f6b4f746,Nizakat Khan,e3eb9e46,Virandeep Singh,415d30b6,0,0,0,0,0,,,,,,0,0,0
+1398298,2023,Malaysia,11,Virandeep Singh,415d30b6,Anas Khan,66a7f213,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Malaysia,11,Ahmed Faiz,f6b4f746,Anas Khan,66a7f213,Virandeep Singh,415d30b6,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Malaysia,11,Virandeep Singh,415d30b6,Anas Khan,66a7f213,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Malaysia,11,Ahmed Faiz,f6b4f746,Anas Khan,66a7f213,Virandeep Singh,415d30b6,0,0,0,0,0,,,,,,2,0,2
+1398298,2023,Malaysia,11,Ahmed Faiz,f6b4f746,Anas Khan,66a7f213,Virandeep Singh,415d30b6,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Malaysia,11,Virandeep Singh,415d30b6,Anas Khan,66a7f213,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Malaysia,12,Virandeep Singh,415d30b6,Mohammad Ghazanfar,00321fff,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Malaysia,12,Ahmed Faiz,f6b4f746,Mohammad Ghazanfar,00321fff,Virandeep Singh,415d30b6,0,0,0,0,0,,,,,,0,0,0
+1398298,2023,Malaysia,12,Ahmed Faiz,f6b4f746,Mohammad Ghazanfar,00321fff,Virandeep Singh,415d30b6,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Malaysia,12,Virandeep Singh,415d30b6,Mohammad Ghazanfar,00321fff,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Malaysia,12,Ahmed Faiz,f6b4f746,Mohammad Ghazanfar,00321fff,Virandeep Singh,415d30b6,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Malaysia,12,Virandeep Singh,415d30b6,Mohammad Ghazanfar,00321fff,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Malaysia,13,Virandeep Singh,415d30b6,Anas Khan,66a7f213,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Malaysia,13,Ahmed Faiz,f6b4f746,Anas Khan,66a7f213,Virandeep Singh,415d30b6,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Malaysia,13,Virandeep Singh,415d30b6,Anas Khan,66a7f213,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Malaysia,13,Ahmed Faiz,f6b4f746,Anas Khan,66a7f213,Virandeep Singh,415d30b6,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Malaysia,13,Virandeep Singh,415d30b6,Anas Khan,66a7f213,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Malaysia,13,Ahmed Faiz,f6b4f746,Anas Khan,66a7f213,Virandeep Singh,415d30b6,0,0,0,0,1,Ahmed Faiz,f6b4f746,Ehsan Khan,d3851cd8,caught,0,0,0
+1398298,2023,Malaysia,14,Virandeep Singh,415d30b6,Mohammad Ghazanfar,00321fff,Aslam Khan,31080a88,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Malaysia,14,Aslam Khan,31080a88,Mohammad Ghazanfar,00321fff,Virandeep Singh,415d30b6,0,0,0,0,0,,,,,,0,0,0
+1398298,2023,Malaysia,14,Aslam Khan,31080a88,Mohammad Ghazanfar,00321fff,Virandeep Singh,415d30b6,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Malaysia,14,Virandeep Singh,415d30b6,Mohammad Ghazanfar,00321fff,Aslam Khan,31080a88,0,0,0,0,0,,,,,,0,0,0
+1398298,2023,Malaysia,14,Virandeep Singh,415d30b6,Mohammad Ghazanfar,00321fff,Aslam Khan,31080a88,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Malaysia,14,Aslam Khan,31080a88,Mohammad Ghazanfar,00321fff,Virandeep Singh,415d30b6,0,0,0,0,0,,,,,,0,0,0
+1398298,2023,Malaysia,15,Virandeep Singh,415d30b6,Anas Khan,66a7f213,Aslam Khan,31080a88,0,0,0,0,0,,,,,,4,0,4
+1398298,2023,Malaysia,15,Virandeep Singh,415d30b6,Anas Khan,66a7f213,Aslam Khan,31080a88,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Malaysia,15,Aslam Khan,31080a88,Anas Khan,66a7f213,Virandeep Singh,415d30b6,0,0,0,0,1,Aslam Khan,31080a88,Babar Hayat,fbb657bb,caught,0,0,0
+1398298,2023,Malaysia,15,Ainool Hafizs,1bada9da,Anas Khan,66a7f213,Virandeep Singh,415d30b6,0,0,0,0,0,,,,,,4,0,4
+1398298,2023,Malaysia,15,Ainool Hafizs,1bada9da,Anas Khan,66a7f213,Virandeep Singh,415d30b6,0,0,0,0,1,Ainool Hafizs,1bada9da,Nizakat Khan,e3eb9e46,caught,0,0,0
+1398298,2023,Malaysia,15,S Muniandy,57fcfd3b,Anas Khan,66a7f213,Virandeep Singh,415d30b6,0,0,0,0,0,,,,,,0,0,0
+1398298,2023,Malaysia,16,Virandeep Singh,415d30b6,Mohammad Ghazanfar,00321fff,S Muniandy,57fcfd3b,0,0,1,0,0,,,,,,0,1,1
+1398298,2023,Malaysia,16,S Muniandy,57fcfd3b,Mohammad Ghazanfar,00321fff,Virandeep Singh,415d30b6,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Malaysia,16,Virandeep Singh,415d30b6,Mohammad Ghazanfar,00321fff,S Muniandy,57fcfd3b,0,0,0,0,0,,,,,,2,0,2
+1398298,2023,Malaysia,16,Virandeep Singh,415d30b6,Mohammad Ghazanfar,00321fff,S Muniandy,57fcfd3b,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Malaysia,16,S Muniandy,57fcfd3b,Mohammad Ghazanfar,00321fff,Virandeep Singh,415d30b6,0,0,0,0,0,,,,,,2,0,2
+1398298,2023,Malaysia,16,S Muniandy,57fcfd3b,Mohammad Ghazanfar,00321fff,Virandeep Singh,415d30b6,0,0,0,0,0,,,,,,0,0,0
+1398298,2023,Malaysia,17,Virandeep Singh,415d30b6,Ehsan Khan,d3851cd8,S Muniandy,57fcfd3b,0,0,0,0,0,,,,,,0,0,0
+1398298,2023,Malaysia,17,Virandeep Singh,415d30b6,Ehsan Khan,d3851cd8,S Muniandy,57fcfd3b,0,0,0,0,0,,,,,,0,0,0
+1398298,2023,Malaysia,17,Virandeep Singh,415d30b6,Ehsan Khan,d3851cd8,S Muniandy,57fcfd3b,1,0,0,0,0,,,,,,0,1,1
+1398298,2023,Malaysia,17,Virandeep Singh,415d30b6,Ehsan Khan,d3851cd8,S Muniandy,57fcfd3b,0,0,0,0,0,,,,,,6,0,6
+1398298,2023,Malaysia,17,Virandeep Singh,415d30b6,Ehsan Khan,d3851cd8,S Muniandy,57fcfd3b,2,0,0,0,0,,,,,,0,2,2
+1398298,2023,Malaysia,17,S Muniandy,57fcfd3b,Ehsan Khan,d3851cd8,Virandeep Singh,415d30b6,0,0,0,0,0,,,,,,0,0,0
+1398298,2023,Malaysia,17,S Muniandy,57fcfd3b,Ehsan Khan,d3851cd8,Virandeep Singh,415d30b6,0,0,0,0,0,,,,,,0,0,0
+1398298,2023,Malaysia,17,S Muniandy,57fcfd3b,Ehsan Khan,d3851cd8,Virandeep Singh,415d30b6,0,0,0,0,0,,,,,,4,0,4
+1398298,2023,Malaysia,18,Virandeep Singh,415d30b6,A Shukla,a1e80d06,S Muniandy,57fcfd3b,0,0,0,0,0,,,,,,2,0,2
+1398298,2023,Malaysia,18,Virandeep Singh,415d30b6,A Shukla,a1e80d06,S Muniandy,57fcfd3b,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Malaysia,18,S Muniandy,57fcfd3b,A Shukla,a1e80d06,Virandeep Singh,415d30b6,0,0,0,0,0,,,,,,4,0,4
+1398298,2023,Malaysia,18,S Muniandy,57fcfd3b,A Shukla,a1e80d06,Virandeep Singh,415d30b6,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Malaysia,18,Virandeep Singh,415d30b6,A Shukla,a1e80d06,S Muniandy,57fcfd3b,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Malaysia,18,S Muniandy,57fcfd3b,A Shukla,a1e80d06,Virandeep Singh,415d30b6,0,0,0,0,0,,,,,,0,0,0
+1398298,2023,Malaysia,19,Virandeep Singh,415d30b6,A Mehmood,7cefb2a2,S Muniandy,57fcfd3b,0,0,0,0,0,,,,,,4,0,4
+1398298,2023,Malaysia,19,Virandeep Singh,415d30b6,A Mehmood,7cefb2a2,S Muniandy,57fcfd3b,0,0,0,0,0,,,,,,6,0,6
+1398298,2023,Malaysia,19,Virandeep Singh,415d30b6,A Mehmood,7cefb2a2,S Muniandy,57fcfd3b,0,0,0,0,0,,,,,,2,0,2
+1398298,2023,Malaysia,19,Virandeep Singh,415d30b6,A Mehmood,7cefb2a2,S Muniandy,57fcfd3b,0,0,0,0,0,,,,,,6,0,6
+1398298,2023,Malaysia,19,Virandeep Singh,415d30b6,A Mehmood,7cefb2a2,S Muniandy,57fcfd3b,0,0,0,0,0,,,,,,0,0,0
+1398298,2023,Malaysia,19,Virandeep Singh,415d30b6,A Mehmood,7cefb2a2,S Muniandy,57fcfd3b,0,0,0,0,0,,,,,,2,0,2
+1398298,2023,Hong Kong,0,Nizakat Khan,e3eb9e46,Rizwan Haider,dc60abdc,Muhammad Khan,f17ac7d0,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Hong Kong,0,Muhammad Khan,f17ac7d0,Rizwan Haider,dc60abdc,Nizakat Khan,e3eb9e46,0,0,0,0,0,,,,,,0,0,0
+1398298,2023,Hong Kong,0,Muhammad Khan,f17ac7d0,Rizwan Haider,dc60abdc,Nizakat Khan,e3eb9e46,0,0,0,0,0,,,,,,2,0,2
+1398298,2023,Hong Kong,0,Muhammad Khan,f17ac7d0,Rizwan Haider,dc60abdc,Nizakat Khan,e3eb9e46,0,0,0,0,0,,,,,,4,0,4
+1398298,2023,Hong Kong,0,Muhammad Khan,f17ac7d0,Rizwan Haider,dc60abdc,Nizakat Khan,e3eb9e46,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Hong Kong,0,Nizakat Khan,e3eb9e46,Rizwan Haider,dc60abdc,Muhammad Khan,f17ac7d0,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Hong Kong,1,Nizakat Khan,e3eb9e46,S Vijay Unni,f737ab44,Muhammad Khan,f17ac7d0,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Hong Kong,1,Muhammad Khan,f17ac7d0,S Vijay Unni,f737ab44,Nizakat Khan,e3eb9e46,0,0,0,0,0,,,,,,0,0,0
+1398298,2023,Hong Kong,1,Muhammad Khan,f17ac7d0,S Vijay Unni,f737ab44,Nizakat Khan,e3eb9e46,0,0,0,0,0,,,,,,6,0,6
+1398298,2023,Hong Kong,1,Muhammad Khan,f17ac7d0,S Vijay Unni,f737ab44,Nizakat Khan,e3eb9e46,0,0,0,0,0,,,,,,0,0,0
+1398298,2023,Hong Kong,1,Muhammad Khan,f17ac7d0,S Vijay Unni,f737ab44,Nizakat Khan,e3eb9e46,0,0,0,0,0,,,,,,0,0,0
+1398298,2023,Hong Kong,1,Muhammad Khan,f17ac7d0,S Vijay Unni,f737ab44,Nizakat Khan,e3eb9e46,0,0,0,0,0,,,,,,0,0,0
+1398298,2023,Hong Kong,2,Nizakat Khan,e3eb9e46,Rizwan Haider,dc60abdc,Muhammad Khan,f17ac7d0,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Hong Kong,2,Muhammad Khan,f17ac7d0,Rizwan Haider,dc60abdc,Nizakat Khan,e3eb9e46,0,0,0,0,1,Muhammad Khan,f17ac7d0,,,bowled,0,0,0
+1398298,2023,Hong Kong,2,Babar Hayat,fbb657bb,Rizwan Haider,dc60abdc,Nizakat Khan,e3eb9e46,0,0,0,0,0,,,,,,0,0,0
+1398298,2023,Hong Kong,2,Babar Hayat,fbb657bb,Rizwan Haider,dc60abdc,Nizakat Khan,e3eb9e46,0,0,0,0,0,,,,,,4,0,4
+1398298,2023,Hong Kong,2,Babar Hayat,fbb657bb,Rizwan Haider,dc60abdc,Nizakat Khan,e3eb9e46,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Hong Kong,2,Nizakat Khan,e3eb9e46,Rizwan Haider,dc60abdc,Babar Hayat,fbb657bb,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Hong Kong,3,Nizakat Khan,e3eb9e46,S Vijay Unni,f737ab44,Babar Hayat,fbb657bb,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Hong Kong,3,Babar Hayat,fbb657bb,S Vijay Unni,f737ab44,Nizakat Khan,e3eb9e46,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Hong Kong,3,Nizakat Khan,e3eb9e46,S Vijay Unni,f737ab44,Babar Hayat,fbb657bb,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Hong Kong,3,Babar Hayat,fbb657bb,S Vijay Unni,f737ab44,Nizakat Khan,e3eb9e46,0,0,0,0,0,,,,,,2,0,2
+1398298,2023,Hong Kong,3,Babar Hayat,fbb657bb,S Vijay Unni,f737ab44,Nizakat Khan,e3eb9e46,0,0,0,0,0,,,,,,0,0,0
+1398298,2023,Hong Kong,3,Babar Hayat,fbb657bb,S Vijay Unni,f737ab44,Nizakat Khan,e3eb9e46,0,0,0,0,0,,,,,,6,0,6
+1398298,2023,Hong Kong,4,Nizakat Khan,e3eb9e46,Rizwan Haider,dc60abdc,Babar Hayat,fbb657bb,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Hong Kong,4,Babar Hayat,fbb657bb,Rizwan Haider,dc60abdc,Nizakat Khan,e3eb9e46,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Hong Kong,4,Nizakat Khan,e3eb9e46,Rizwan Haider,dc60abdc,Babar Hayat,fbb657bb,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Hong Kong,4,Babar Hayat,fbb657bb,Rizwan Haider,dc60abdc,Nizakat Khan,e3eb9e46,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Hong Kong,4,Nizakat Khan,e3eb9e46,Rizwan Haider,dc60abdc,Babar Hayat,fbb657bb,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Hong Kong,4,Babar Hayat,fbb657bb,Rizwan Haider,dc60abdc,Nizakat Khan,e3eb9e46,0,0,0,0,0,,,,,,0,0,0
+1398298,2023,Hong Kong,5,Nizakat Khan,e3eb9e46,S Vijay Unni,f737ab44,Babar Hayat,fbb657bb,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Hong Kong,5,Babar Hayat,fbb657bb,S Vijay Unni,f737ab44,Nizakat Khan,e3eb9e46,0,0,0,0,0,,,,,,0,0,0
+1398298,2023,Hong Kong,5,Babar Hayat,fbb657bb,S Vijay Unni,f737ab44,Nizakat Khan,e3eb9e46,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Hong Kong,5,Nizakat Khan,e3eb9e46,S Vijay Unni,f737ab44,Babar Hayat,fbb657bb,0,0,0,0,1,Nizakat Khan,e3eb9e46,Zubaidi Zulkifle,dca8273d,caught,0,0,0
+1398298,2023,Hong Kong,5,S Mathur,11378dda,S Vijay Unni,f737ab44,Babar Hayat,fbb657bb,0,0,0,0,0,,,,,,0,0,0
+1398298,2023,Hong Kong,5,S Mathur,11378dda,S Vijay Unni,f737ab44,Babar Hayat,fbb657bb,0,0,0,0,0,,,,,,0,0,0
+1398298,2023,Hong Kong,6,Babar Hayat,fbb657bb,Rizwan Haider,dc60abdc,S Mathur,11378dda,0,0,0,0,0,,,,,,0,0,0
+1398298,2023,Hong Kong,6,Babar Hayat,fbb657bb,Rizwan Haider,dc60abdc,S Mathur,11378dda,0,0,0,0,0,,,,,,6,0,6
+1398298,2023,Hong Kong,6,Babar Hayat,fbb657bb,Rizwan Haider,dc60abdc,S Mathur,11378dda,0,0,0,0,0,,,,,,4,0,4
+1398298,2023,Hong Kong,6,Babar Hayat,fbb657bb,Rizwan Haider,dc60abdc,S Mathur,11378dda,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Hong Kong,6,S Mathur,11378dda,Rizwan Haider,dc60abdc,Babar Hayat,fbb657bb,0,0,0,0,0,,,,,,0,0,0
+1398298,2023,Hong Kong,6,S Mathur,11378dda,Rizwan Haider,dc60abdc,Babar Hayat,fbb657bb,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Hong Kong,7,S Mathur,11378dda,Virandeep Singh,415d30b6,Babar Hayat,fbb657bb,0,0,0,0,0,,,,,,0,0,0
+1398298,2023,Hong Kong,7,S Mathur,11378dda,Virandeep Singh,415d30b6,Babar Hayat,fbb657bb,0,0,0,0,0,,,,,,0,0,0
+1398298,2023,Hong Kong,7,S Mathur,11378dda,Virandeep Singh,415d30b6,Babar Hayat,fbb657bb,0,0,0,0,0,,,,,,0,0,0
+1398298,2023,Hong Kong,7,S Mathur,11378dda,Virandeep Singh,415d30b6,Babar Hayat,fbb657bb,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Hong Kong,7,Babar Hayat,fbb657bb,Virandeep Singh,415d30b6,S Mathur,11378dda,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Hong Kong,7,S Mathur,11378dda,Virandeep Singh,415d30b6,Babar Hayat,fbb657bb,0,0,0,0,0,,,,,,0,0,0
+1398298,2023,Hong Kong,8,Babar Hayat,fbb657bb,Khizar Hayat,78bbeba1,S Mathur,11378dda,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Hong Kong,8,S Mathur,11378dda,Khizar Hayat,78bbeba1,Babar Hayat,fbb657bb,0,0,0,0,0,,,,,,2,0,2
+1398298,2023,Hong Kong,8,S Mathur,11378dda,Khizar Hayat,78bbeba1,Babar Hayat,fbb657bb,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Hong Kong,8,Babar Hayat,fbb657bb,Khizar Hayat,78bbeba1,S Mathur,11378dda,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Hong Kong,8,S Mathur,11378dda,Khizar Hayat,78bbeba1,Babar Hayat,fbb657bb,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Hong Kong,8,Babar Hayat,fbb657bb,Khizar Hayat,78bbeba1,S Mathur,11378dda,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Hong Kong,9,Babar Hayat,fbb657bb,Virandeep Singh,415d30b6,S Mathur,11378dda,0,0,0,0,0,,,,,,0,0,0
+1398298,2023,Hong Kong,9,Babar Hayat,fbb657bb,Virandeep Singh,415d30b6,S Mathur,11378dda,0,0,0,0,0,,,,,,6,0,6
+1398298,2023,Hong Kong,9,Babar Hayat,fbb657bb,Virandeep Singh,415d30b6,S Mathur,11378dda,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Hong Kong,9,S Mathur,11378dda,Virandeep Singh,415d30b6,Babar Hayat,fbb657bb,0,0,0,0,0,,,,,,0,0,0
+1398298,2023,Hong Kong,9,S Mathur,11378dda,Virandeep Singh,415d30b6,Babar Hayat,fbb657bb,0,0,0,0,0,,,,,,0,0,0
+1398298,2023,Hong Kong,9,S Mathur,11378dda,Virandeep Singh,415d30b6,Babar Hayat,fbb657bb,0,0,0,0,0,,,,,,3,0,3
+1398298,2023,Hong Kong,10,S Mathur,11378dda,Khizar Hayat,78bbeba1,Babar Hayat,fbb657bb,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Hong Kong,10,Babar Hayat,fbb657bb,Khizar Hayat,78bbeba1,S Mathur,11378dda,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Hong Kong,10,S Mathur,11378dda,Khizar Hayat,78bbeba1,Babar Hayat,fbb657bb,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Hong Kong,10,Babar Hayat,fbb657bb,Khizar Hayat,78bbeba1,S Mathur,11378dda,0,0,0,0,0,,,,,,0,0,0
+1398298,2023,Hong Kong,10,Babar Hayat,fbb657bb,Khizar Hayat,78bbeba1,S Mathur,11378dda,0,0,0,0,0,,,,,,0,0,0
+1398298,2023,Hong Kong,10,Babar Hayat,fbb657bb,Khizar Hayat,78bbeba1,S Mathur,11378dda,0,0,0,0,0,,,,,,0,0,0
+1398298,2023,Hong Kong,11,S Mathur,11378dda,S Muniandy,57fcfd3b,Babar Hayat,fbb657bb,0,0,0,0,0,,,,,,2,0,2
+1398298,2023,Hong Kong,11,S Mathur,11378dda,S Muniandy,57fcfd3b,Babar Hayat,fbb657bb,0,0,0,0,0,,,,,,2,0,2
+1398298,2023,Hong Kong,11,S Mathur,11378dda,S Muniandy,57fcfd3b,Babar Hayat,fbb657bb,0,0,0,0,0,,,,,,0,0,0
+1398298,2023,Hong Kong,11,S Mathur,11378dda,S Muniandy,57fcfd3b,Babar Hayat,fbb657bb,0,0,0,0,0,,,,,,0,0,0
+1398298,2023,Hong Kong,11,S Mathur,11378dda,S Muniandy,57fcfd3b,Babar Hayat,fbb657bb,0,0,0,0,0,,,,,,0,0,0
+1398298,2023,Hong Kong,11,S Mathur,11378dda,S Muniandy,57fcfd3b,Babar Hayat,fbb657bb,0,0,0,0,0,,,,,,6,0,6
+1398298,2023,Hong Kong,12,Babar Hayat,fbb657bb,Khizar Hayat,78bbeba1,S Mathur,11378dda,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Hong Kong,12,S Mathur,11378dda,Khizar Hayat,78bbeba1,Babar Hayat,fbb657bb,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Hong Kong,12,Babar Hayat,fbb657bb,Khizar Hayat,78bbeba1,S Mathur,11378dda,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Hong Kong,12,S Mathur,11378dda,Khizar Hayat,78bbeba1,Babar Hayat,fbb657bb,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Hong Kong,12,Babar Hayat,fbb657bb,Khizar Hayat,78bbeba1,S Mathur,11378dda,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Hong Kong,12,S Mathur,11378dda,Khizar Hayat,78bbeba1,Babar Hayat,fbb657bb,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Hong Kong,13,S Mathur,11378dda,S Muniandy,57fcfd3b,Babar Hayat,fbb657bb,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Hong Kong,13,Babar Hayat,fbb657bb,S Muniandy,57fcfd3b,S Mathur,11378dda,0,0,0,0,0,,,,,,4,0,4
+1398298,2023,Hong Kong,13,Babar Hayat,fbb657bb,S Muniandy,57fcfd3b,S Mathur,11378dda,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Hong Kong,13,S Mathur,11378dda,S Muniandy,57fcfd3b,Babar Hayat,fbb657bb,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Hong Kong,13,Babar Hayat,fbb657bb,S Muniandy,57fcfd3b,S Mathur,11378dda,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Hong Kong,13,S Mathur,11378dda,S Muniandy,57fcfd3b,Babar Hayat,fbb657bb,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Hong Kong,14,S Mathur,11378dda,S Vijay Unni,f737ab44,Babar Hayat,fbb657bb,0,0,0,0,0,,,,,,0,0,0
+1398298,2023,Hong Kong,14,S Mathur,11378dda,S Vijay Unni,f737ab44,Babar Hayat,fbb657bb,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Hong Kong,14,Babar Hayat,fbb657bb,S Vijay Unni,f737ab44,S Mathur,11378dda,0,0,0,0,0,,,,,,0,0,0
+1398298,2023,Hong Kong,14,Babar Hayat,fbb657bb,S Vijay Unni,f737ab44,S Mathur,11378dda,0,0,0,0,1,Babar Hayat,fbb657bb,Aslam Khan,31080a88,caught,0,0,0
+1398298,2023,Hong Kong,14,Akbar Khan,6113433c,S Vijay Unni,f737ab44,S Mathur,11378dda,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Hong Kong,14,S Mathur,11378dda,S Vijay Unni,f737ab44,Akbar Khan,6113433c,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Hong Kong,15,S Mathur,11378dda,Virandeep Singh,415d30b6,Akbar Khan,6113433c,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Hong Kong,15,Akbar Khan,6113433c,Virandeep Singh,415d30b6,S Mathur,11378dda,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Hong Kong,15,S Mathur,11378dda,Virandeep Singh,415d30b6,Akbar Khan,6113433c,1,0,0,0,0,,,,,,0,1,1
+1398298,2023,Hong Kong,15,S Mathur,11378dda,Virandeep Singh,415d30b6,Akbar Khan,6113433c,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Hong Kong,15,Akbar Khan,6113433c,Virandeep Singh,415d30b6,S Mathur,11378dda,0,0,0,0,0,,,,,,0,0,0
+1398298,2023,Hong Kong,15,Akbar Khan,6113433c,Virandeep Singh,415d30b6,S Mathur,11378dda,0,0,0,0,1,Akbar Khan,6113433c,,,bowled,0,0,0
+1398298,2023,Hong Kong,15,Ehsan Khan,d3851cd8,Virandeep Singh,415d30b6,S Mathur,11378dda,0,0,0,0,1,Ehsan Khan,d3851cd8,,,lbw,0,0,0
+1398298,2023,Hong Kong,16,S Mathur,11378dda,Muhammad Amir,60bec5c3,Hamed Khan,0e4843d2,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Hong Kong,16,Hamed Khan,0e4843d2,Muhammad Amir,60bec5c3,S Mathur,11378dda,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Hong Kong,16,S Mathur,11378dda,Muhammad Amir,60bec5c3,Hamed Khan,0e4843d2,0,0,0,0,0,,,,,,2,0,2
+1398298,2023,Hong Kong,16,S Mathur,11378dda,Muhammad Amir,60bec5c3,Hamed Khan,0e4843d2,0,0,0,0,0,,,,,,0,0,0
+1398298,2023,Hong Kong,16,S Mathur,11378dda,Muhammad Amir,60bec5c3,Hamed Khan,0e4843d2,0,0,0,0,0,,,,,,4,0,4
+1398298,2023,Hong Kong,16,S Mathur,11378dda,Muhammad Amir,60bec5c3,Hamed Khan,0e4843d2,0,0,0,0,0,,,,,,0,0,0
+1398298,2023,Hong Kong,17,Hamed Khan,0e4843d2,Virandeep Singh,415d30b6,S Mathur,11378dda,0,0,0,0,0,,,,,,0,0,0
+1398298,2023,Hong Kong,17,Hamed Khan,0e4843d2,Virandeep Singh,415d30b6,S Mathur,11378dda,0,0,0,0,0,,,,,,0,0,0
+1398298,2023,Hong Kong,17,Hamed Khan,0e4843d2,Virandeep Singh,415d30b6,S Mathur,11378dda,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Hong Kong,17,S Mathur,11378dda,Virandeep Singh,415d30b6,Hamed Khan,0e4843d2,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Hong Kong,17,Hamed Khan,0e4843d2,Virandeep Singh,415d30b6,S Mathur,11378dda,0,0,0,0,0,,,,,,0,0,0
+1398298,2023,Hong Kong,17,Hamed Khan,0e4843d2,Virandeep Singh,415d30b6,S Mathur,11378dda,0,0,0,0,0,,,,,,0,0,0
+1398298,2023,Hong Kong,18,S Mathur,11378dda,Khizar Hayat,78bbeba1,Hamed Khan,0e4843d2,0,0,0,0,1,S Mathur,11378dda,Muhammad Amir,60bec5c3,caught,0,0,0
+1398298,2023,Hong Kong,18,Anas Khan,66a7f213,Khizar Hayat,78bbeba1,Hamed Khan,0e4843d2,0,0,0,0,1,Anas Khan,66a7f213,,,bowled,0,0,0
+1398298,2023,Hong Kong,18,A Shukla,a1e80d06,Khizar Hayat,78bbeba1,Hamed Khan,0e4843d2,0,0,0,0,0,,,,,,0,0,0
+1398298,2023,Hong Kong,18,A Shukla,a1e80d06,Khizar Hayat,78bbeba1,Hamed Khan,0e4843d2,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Hong Kong,18,Hamed Khan,0e4843d2,Khizar Hayat,78bbeba1,A Shukla,a1e80d06,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Hong Kong,18,A Shukla,a1e80d06,Khizar Hayat,78bbeba1,Hamed Khan,0e4843d2,0,0,0,0,0,,,,,,0,0,0
+1398298,2023,Hong Kong,19,Hamed Khan,0e4843d2,Muhammad Amir,60bec5c3,A Shukla,a1e80d06,0,0,0,0,0,,,,,,0,0,0
+1398298,2023,Hong Kong,19,Hamed Khan,0e4843d2,Muhammad Amir,60bec5c3,A Shukla,a1e80d06,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Hong Kong,19,A Shukla,a1e80d06,Muhammad Amir,60bec5c3,Hamed Khan,0e4843d2,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Hong Kong,19,Hamed Khan,0e4843d2,Muhammad Amir,60bec5c3,A Shukla,a1e80d06,0,0,0,0,0,,,,,,1,0,1
+1398298,2023,Hong Kong,19,A Shukla,a1e80d06,Muhammad Amir,60bec5c3,Hamed Khan,0e4843d2,0,0,0,0,0,,,,,,2,0,2
+1398298,2023,Hong Kong,19,A Shukla,a1e80d06,Muhammad Amir,60bec5c3,Hamed Khan,0e4843d2,0,0,0,0,0,,,,,,2,0,2

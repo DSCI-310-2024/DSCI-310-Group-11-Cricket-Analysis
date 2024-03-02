@@ -1,0 +1,56 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1354803,2022/23,Isle of Man,0,A McAuley,39e599c8,Mohammad Kamran,1a628a92,G Burrows,8bee668b,0,0,0,0,1,A McAuley,39e599c8,Awais Ahmed,f9f857dc,caught,0,0,0
+1354803,2022/23,Isle of Man,0,L Ward,98f33eed,Mohammad Kamran,1a628a92,G Burrows,8bee668b,0,0,0,0,0,,,,,,0,0,0
+1354803,2022/23,Isle of Man,0,L Ward,98f33eed,Mohammad Kamran,1a628a92,G Burrows,8bee668b,0,0,0,0,0,,,,,,0,0,0
+1354803,2022/23,Isle of Man,0,L Ward,98f33eed,Mohammad Kamran,1a628a92,G Burrows,8bee668b,0,0,0,0,0,,,,,,0,0,0
+1354803,2022/23,Isle of Man,0,L Ward,98f33eed,Mohammad Kamran,1a628a92,G Burrows,8bee668b,0,0,0,0,0,,,,,,1,0,1
+1354803,2022/23,Isle of Man,0,G Burrows,8bee668b,Mohammad Kamran,1a628a92,L Ward,98f33eed,0,0,0,0,0,,,,,,1,0,1
+1354803,2022/23,Isle of Man,1,G Burrows,8bee668b,Atif Mehmood,7fcc57bf,L Ward,98f33eed,0,0,0,0,0,,,,,,1,0,1
+1354803,2022/23,Isle of Man,1,L Ward,98f33eed,Atif Mehmood,7fcc57bf,G Burrows,8bee668b,0,0,0,0,0,,,,,,0,0,0
+1354803,2022/23,Isle of Man,1,L Ward,98f33eed,Atif Mehmood,7fcc57bf,G Burrows,8bee668b,0,0,0,0,0,,,,,,1,0,1
+1354803,2022/23,Isle of Man,1,G Burrows,8bee668b,Atif Mehmood,7fcc57bf,L Ward,98f33eed,0,0,0,0,1,G Burrows,8bee668b,,,lbw,0,0,0
+1354803,2022/23,Isle of Man,1,C Hartmann,467c28f9,Atif Mehmood,7fcc57bf,L Ward,98f33eed,0,0,0,0,0,,,,,,0,0,0
+1354803,2022/23,Isle of Man,1,C Hartmann,467c28f9,Atif Mehmood,7fcc57bf,L Ward,98f33eed,0,0,0,0,0,,,,,,0,0,0
+1354803,2022/23,Isle of Man,2,L Ward,98f33eed,Mohammad Kamran,1a628a92,C Hartmann,467c28f9,0,0,0,0,1,L Ward,98f33eed,,,bowled,0,0,0
+1354803,2022/23,Isle of Man,2,EF Beard,68019a70,Mohammad Kamran,1a628a92,C Hartmann,467c28f9,0,0,0,0,1,EF Beard,68019a70,,,lbw,0,0,0
+1354803,2022/23,Isle of Man,2,C Webster,f7bf6004,Mohammad Kamran,1a628a92,C Hartmann,467c28f9,0,0,0,0,1,C Webster,f7bf6004,,,bowled,0,0,0
+1354803,2022/23,Isle of Man,2,JA Burrows,dba54d8e,Mohammad Kamran,1a628a92,C Hartmann,467c28f9,0,0,0,0,0,,,,,,0,0,0
+1354803,2022/23,Isle of Man,2,JA Burrows,dba54d8e,Mohammad Kamran,1a628a92,C Hartmann,467c28f9,0,0,0,0,0,,,,,,0,0,0
+1354803,2022/23,Isle of Man,2,JA Burrows,dba54d8e,Mohammad Kamran,1a628a92,C Hartmann,467c28f9,0,0,0,0,0,,,,,,1,0,1
+1354803,2022/23,Isle of Man,3,JA Burrows,dba54d8e,Atif Mehmood,7fcc57bf,C Hartmann,467c28f9,0,0,0,0,0,,,,,,0,0,0
+1354803,2022/23,Isle of Man,3,JA Burrows,dba54d8e,Atif Mehmood,7fcc57bf,C Hartmann,467c28f9,0,0,0,0,0,,,,,,1,0,1
+1354803,2022/23,Isle of Man,3,C Hartmann,467c28f9,Atif Mehmood,7fcc57bf,JA Burrows,dba54d8e,0,0,0,0,1,C Hartmann,467c28f9,C Munoz-Mills,17bc032c,caught,0,0,0
+1354803,2022/23,Isle of Man,3,J Butler,efcb778e,Atif Mehmood,7fcc57bf,JA Burrows,dba54d8e,0,0,0,0,0,,,,,,1,0,1
+1354803,2022/23,Isle of Man,3,JA Burrows,dba54d8e,Atif Mehmood,7fcc57bf,J Butler,efcb778e,0,0,0,0,0,,,,,,2,0,2
+1354803,2022/23,Isle of Man,3,JA Burrows,dba54d8e,Atif Mehmood,7fcc57bf,J Butler,efcb778e,0,0,0,0,1,JA Burrows,dba54d8e,D Doyle-Calle,74be2916,caught,0,0,0
+1354803,2022/23,Isle of Man,4,J Butler,efcb778e,Mohammad Kamran,1a628a92,F Clarke,0c95e20e,0,0,0,0,0,,,,,,1,0,1
+1354803,2022/23,Isle of Man,4,F Clarke,0c95e20e,Mohammad Kamran,1a628a92,J Butler,efcb778e,0,0,0,0,0,,,,,,0,0,0
+1354803,2022/23,Isle of Man,4,F Clarke,0c95e20e,Mohammad Kamran,1a628a92,J Butler,efcb778e,0,0,0,0,0,,,,,,0,0,0
+1354803,2022/23,Isle of Man,4,F Clarke,0c95e20e,Mohammad Kamran,1a628a92,J Butler,efcb778e,0,0,0,0,0,,,,,,0,0,0
+1354803,2022/23,Isle of Man,4,F Clarke,0c95e20e,Mohammad Kamran,1a628a92,J Butler,efcb778e,0,0,0,0,0,,,,,,0,0,0
+1354803,2022/23,Isle of Man,4,F Clarke,0c95e20e,Mohammad Kamran,1a628a92,J Butler,efcb778e,0,0,0,0,0,,,,,,0,0,0
+1354803,2022/23,Isle of Man,5,J Butler,efcb778e,Atif Mehmood,7fcc57bf,F Clarke,0c95e20e,0,0,0,0,0,,,,,,0,0,0
+1354803,2022/23,Isle of Man,5,J Butler,efcb778e,Atif Mehmood,7fcc57bf,F Clarke,0c95e20e,0,0,0,0,0,,,,,,0,0,0
+1354803,2022/23,Isle of Man,5,J Butler,efcb778e,Atif Mehmood,7fcc57bf,F Clarke,0c95e20e,0,0,0,0,1,J Butler,efcb778e,,,bowled,0,0,0
+1354803,2022/23,Isle of Man,5,E Walker,b312a9c1,Atif Mehmood,7fcc57bf,F Clarke,0c95e20e,0,0,0,0,0,,,,,,0,0,0
+1354803,2022/23,Isle of Man,5,E Walker,b312a9c1,Atif Mehmood,7fcc57bf,F Clarke,0c95e20e,0,0,0,0,0,,,,,,0,0,0
+1354803,2022/23,Isle of Man,5,E Walker,b312a9c1,Atif Mehmood,7fcc57bf,F Clarke,0c95e20e,0,0,0,0,0,,,,,,0,0,0
+1354803,2022/23,Isle of Man,6,F Clarke,0c95e20e,Mohammad Kamran,1a628a92,E Walker,b312a9c1,0,0,0,0,0,,,,,,0,0,0
+1354803,2022/23,Isle of Man,6,F Clarke,0c95e20e,Mohammad Kamran,1a628a92,E Walker,b312a9c1,0,0,0,0,0,,,,,,0,0,0
+1354803,2022/23,Isle of Man,6,F Clarke,0c95e20e,Mohammad Kamran,1a628a92,E Walker,b312a9c1,0,0,0,0,0,,,,,,0,0,0
+1354803,2022/23,Isle of Man,6,F Clarke,0c95e20e,Mohammad Kamran,1a628a92,E Walker,b312a9c1,0,0,0,0,0,,,,,,0,0,0
+1354803,2022/23,Isle of Man,6,F Clarke,0c95e20e,Mohammad Kamran,1a628a92,E Walker,b312a9c1,0,0,0,0,0,,,,,,0,0,0
+1354803,2022/23,Isle of Man,6,F Clarke,0c95e20e,Mohammad Kamran,1a628a92,E Walker,b312a9c1,0,0,0,0,0,,,,,,0,0,0
+1354803,2022/23,Isle of Man,7,E Walker,b312a9c1,Atif Mehmood,7fcc57bf,F Clarke,0c95e20e,0,0,0,0,0,,,,,,0,0,0
+1354803,2022/23,Isle of Man,7,E Walker,b312a9c1,Atif Mehmood,7fcc57bf,F Clarke,0c95e20e,0,0,0,0,0,,,,,,0,0,0
+1354803,2022/23,Isle of Man,7,E Walker,b312a9c1,Atif Mehmood,7fcc57bf,F Clarke,0c95e20e,0,0,0,0,0,,,,,,0,0,0
+1354803,2022/23,Isle of Man,7,E Walker,b312a9c1,Atif Mehmood,7fcc57bf,F Clarke,0c95e20e,0,0,0,0,0,,,,,,0,0,0
+1354803,2022/23,Isle of Man,7,E Walker,b312a9c1,Atif Mehmood,7fcc57bf,F Clarke,0c95e20e,0,0,0,0,0,,,,,,0,0,0
+1354803,2022/23,Isle of Man,7,E Walker,b312a9c1,Atif Mehmood,7fcc57bf,F Clarke,0c95e20e,0,0,0,0,0,,,,,,0,0,0
+1354803,2022/23,Isle of Man,8,F Clarke,0c95e20e,LA Burns,5b616bf0,E Walker,b312a9c1,0,0,0,0,1,F Clarke,0c95e20e,Awais Ahmed,f9f857dc,caught,0,0,0
+1354803,2022/23,Isle of Man,8,K Cawte,a2dd9236,LA Burns,5b616bf0,E Walker,b312a9c1,0,0,0,0,0,,,,,,0,0,0
+1354803,2022/23,Isle of Man,8,K Cawte,a2dd9236,LA Burns,5b616bf0,E Walker,b312a9c1,0,0,0,0,0,,,,,,0,0,0
+1354803,2022/23,Isle of Man,8,K Cawte,a2dd9236,LA Burns,5b616bf0,E Walker,b312a9c1,0,0,0,0,1,K Cawte,a2dd9236,Awais Ahmed,f9f857dc,stumped,0,0,0
+1354803,2022/23,Spain,0,Awais Ahmed,f9f857dc,JA Burrows,dba54d8e,Mohammad Ihsan,510e33d3,0,1,0,0,0,,,,,,0,1,1
+1354803,2022/23,Spain,0,Awais Ahmed,f9f857dc,JA Burrows,dba54d8e,Mohammad Ihsan,510e33d3,0,0,0,0,0,,,,,,6,0,6
+1354803,2022/23,Spain,0,Awais Ahmed,f9f857dc,JA Burrows,dba54d8e,Mohammad Ihsan,510e33d3,0,0,0,0,0,,,,,,6,0,6

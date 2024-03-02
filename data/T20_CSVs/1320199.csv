@@ -1,0 +1,155 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1320199,2022,Oman,0,V Jesrani,d1f6a8fa,Aysha,37ceee4e,Fiza,c7c60bc5,0,0,0,0,0,,,,,,0,0,0
+1320199,2022,Oman,0,V Jesrani,d1f6a8fa,Aysha,37ceee4e,Fiza,c7c60bc5,0,0,0,0,1,V Jesrani,d1f6a8fa,,,lbw,0,0,0
+1320199,2022,Oman,0,SV Shetty,db7a7301,Aysha,37ceee4e,Fiza,c7c60bc5,0,0,0,0,0,,,,,,4,0,4
+1320199,2022,Oman,0,SV Shetty,db7a7301,Aysha,37ceee4e,Fiza,c7c60bc5,0,0,0,0,0,,,,,,0,0,0
+1320199,2022,Oman,0,SV Shetty,db7a7301,Aysha,37ceee4e,Fiza,c7c60bc5,1,0,0,0,0,,,,,,0,1,1
+1320199,2022,Oman,0,SV Shetty,db7a7301,Aysha,37ceee4e,Fiza,c7c60bc5,0,0,0,0,0,,,,,,0,0,0
+1320199,2022,Oman,0,SV Shetty,db7a7301,Aysha,37ceee4e,Fiza,c7c60bc5,0,0,0,0,0,,,,,,0,0,0
+1320199,2022,Oman,1,Fiza,c7c60bc5,A Mare,57a25400,SV Shetty,db7a7301,1,0,0,0,0,,,,,,0,1,1
+1320199,2022,Oman,1,Fiza,c7c60bc5,A Mare,57a25400,SV Shetty,db7a7301,0,0,0,0,1,Fiza,c7c60bc5,T Kale,bc9bd4c6,caught,0,0,0
+1320199,2022,Oman,1,PE Mendonca,70bab30b,A Mare,57a25400,SV Shetty,db7a7301,0,0,0,0,0,,,,,,0,0,0
+1320199,2022,Oman,1,PE Mendonca,70bab30b,A Mare,57a25400,SV Shetty,db7a7301,0,0,0,0,1,PE Mendonca,70bab30b,Aleena Khan,97f2faf0,caught,0,0,0
+1320199,2022,Oman,1,NM Anil,cbd69f04,A Mare,57a25400,SV Shetty,db7a7301,0,0,0,0,0,,,,,,0,0,0
+1320199,2022,Oman,1,NM Anil,cbd69f04,A Mare,57a25400,SV Shetty,db7a7301,0,0,0,0,0,,,,,,1,0,1
+1320199,2022,Oman,1,SV Shetty,db7a7301,A Mare,57a25400,NM Anil,cbd69f04,0,0,0,0,0,,,,,,0,0,0
+1320199,2022,Oman,2,NM Anil,cbd69f04,Aysha,37ceee4e,SV Shetty,db7a7301,0,0,0,0,0,,,,,,0,0,0
+1320199,2022,Oman,2,NM Anil,cbd69f04,Aysha,37ceee4e,SV Shetty,db7a7301,0,0,0,0,0,,,,,,0,0,0
+1320199,2022,Oman,2,NM Anil,cbd69f04,Aysha,37ceee4e,SV Shetty,db7a7301,0,0,0,0,0,,,,,,2,0,2
+1320199,2022,Oman,2,NM Anil,cbd69f04,Aysha,37ceee4e,SV Shetty,db7a7301,1,0,0,0,0,,,,,,0,1,1
+1320199,2022,Oman,2,NM Anil,cbd69f04,Aysha,37ceee4e,SV Shetty,db7a7301,0,0,0,0,0,,,,,,0,0,0
+1320199,2022,Oman,2,NM Anil,cbd69f04,Aysha,37ceee4e,SV Shetty,db7a7301,0,0,0,0,1,NM Anil,cbd69f04,,,bowled,0,0,0
+1320199,2022,Oman,2,B Shetty,58c16165,Aysha,37ceee4e,SV Shetty,db7a7301,0,1,0,0,0,,,,,,0,1,1
+1320199,2022,Oman,2,B Shetty,58c16165,Aysha,37ceee4e,SV Shetty,db7a7301,0,0,0,0,0,,,,,,0,0,0
+1320199,2022,Oman,3,SV Shetty,db7a7301,A Mare,57a25400,B Shetty,58c16165,1,0,0,0,0,,,,,,0,1,1
+1320199,2022,Oman,3,SV Shetty,db7a7301,A Mare,57a25400,B Shetty,58c16165,0,0,0,0,0,,,,,,1,0,1
+1320199,2022,Oman,3,B Shetty,58c16165,A Mare,57a25400,SV Shetty,db7a7301,0,0,0,0,0,,,,,,0,0,0
+1320199,2022,Oman,3,B Shetty,58c16165,A Mare,57a25400,SV Shetty,db7a7301,0,0,0,0,0,,,,,,2,0,2
+1320199,2022,Oman,3,B Shetty,58c16165,A Mare,57a25400,SV Shetty,db7a7301,0,0,0,0,0,,,,,,0,0,0
+1320199,2022,Oman,3,B Shetty,58c16165,A Mare,57a25400,SV Shetty,db7a7301,0,0,0,0,0,,,,,,0,0,0
+1320199,2022,Oman,3,B Shetty,58c16165,A Mare,57a25400,SV Shetty,db7a7301,0,0,0,0,0,,,,,,0,0,0
+1320199,2022,Oman,4,SV Shetty,db7a7301,Aysha,37ceee4e,B Shetty,58c16165,0,0,0,0,0,,,,,,1,0,1
+1320199,2022,Oman,4,B Shetty,58c16165,Aysha,37ceee4e,SV Shetty,db7a7301,1,0,0,0,0,,,,,,0,1,1
+1320199,2022,Oman,4,B Shetty,58c16165,Aysha,37ceee4e,SV Shetty,db7a7301,0,0,0,0,0,,,,,,2,0,2
+1320199,2022,Oman,4,B Shetty,58c16165,Aysha,37ceee4e,SV Shetty,db7a7301,0,0,0,0,0,,,,,,2,0,2
+1320199,2022,Oman,4,B Shetty,58c16165,Aysha,37ceee4e,SV Shetty,db7a7301,0,1,0,0,0,,,,,,0,1,1
+1320199,2022,Oman,4,B Shetty,58c16165,Aysha,37ceee4e,SV Shetty,db7a7301,0,0,0,0,0,,,,,,4,0,4
+1320199,2022,Oman,4,B Shetty,58c16165,Aysha,37ceee4e,SV Shetty,db7a7301,0,0,0,0,0,,,,,,4,0,4
+1320199,2022,Oman,4,B Shetty,58c16165,Aysha,37ceee4e,SV Shetty,db7a7301,0,0,0,0,0,,,,,,2,0,2
+1320199,2022,Oman,5,SV Shetty,db7a7301,S Dhadwal,7e2c16a3,B Shetty,58c16165,0,0,0,0,1,SV Shetty,db7a7301,,,bowled,0,0,0
+1320199,2022,Oman,5,S Channa,c30d7608,S Dhadwal,7e2c16a3,B Shetty,58c16165,0,0,0,0,0,,,,,,0,0,0
+1320199,2022,Oman,5,S Channa,c30d7608,S Dhadwal,7e2c16a3,B Shetty,58c16165,0,0,0,0,0,,,,,,0,0,0
+1320199,2022,Oman,5,S Channa,c30d7608,S Dhadwal,7e2c16a3,B Shetty,58c16165,0,0,0,0,1,S Channa,c30d7608,,,bowled,0,0,0
+1320199,2022,Oman,5,A Dcosta,3a4d914f,S Dhadwal,7e2c16a3,B Shetty,58c16165,0,0,0,0,0,,,,,,0,0,0
+1320199,2022,Oman,5,A Dcosta,3a4d914f,S Dhadwal,7e2c16a3,B Shetty,58c16165,0,0,0,0,0,,,,,,0,0,0
+1320199,2022,Oman,6,B Shetty,58c16165,A Mare,57a25400,A Dcosta,3a4d914f,0,0,0,0,0,,,,,,0,0,0
+1320199,2022,Oman,6,B Shetty,58c16165,A Mare,57a25400,A Dcosta,3a4d914f,0,0,0,0,0,,,,,,0,0,0
+1320199,2022,Oman,6,B Shetty,58c16165,A Mare,57a25400,A Dcosta,3a4d914f,0,0,0,0,0,,,,,,0,0,0
+1320199,2022,Oman,6,B Shetty,58c16165,A Mare,57a25400,A Dcosta,3a4d914f,0,0,0,0,0,,,,,,0,0,0
+1320199,2022,Oman,6,B Shetty,58c16165,A Mare,57a25400,A Dcosta,3a4d914f,0,0,0,0,0,,,,,,1,0,1
+1320199,2022,Oman,6,A Dcosta,3a4d914f,A Mare,57a25400,B Shetty,58c16165,0,0,0,0,0,,,,,,0,0,0
+1320199,2022,Oman,7,B Shetty,58c16165,S Dhadwal,7e2c16a3,A Dcosta,3a4d914f,1,0,0,0,0,,,,,,0,1,1
+1320199,2022,Oman,7,B Shetty,58c16165,S Dhadwal,7e2c16a3,A Dcosta,3a4d914f,0,0,0,0,0,,,,,,0,0,0
+1320199,2022,Oman,7,B Shetty,58c16165,S Dhadwal,7e2c16a3,A Dcosta,3a4d914f,0,0,0,0,0,,,,,,0,0,0
+1320199,2022,Oman,7,B Shetty,58c16165,S Dhadwal,7e2c16a3,A Dcosta,3a4d914f,0,0,0,0,0,,,,,,0,0,0
+1320199,2022,Oman,7,B Shetty,58c16165,S Dhadwal,7e2c16a3,A Dcosta,3a4d914f,0,0,0,0,0,,,,,,2,0,2
+1320199,2022,Oman,7,B Shetty,58c16165,S Dhadwal,7e2c16a3,A Dcosta,3a4d914f,0,0,0,0,0,,,,,,0,0,0
+1320199,2022,Oman,7,B Shetty,58c16165,S Dhadwal,7e2c16a3,A Dcosta,3a4d914f,0,0,0,0,0,,,,,,1,0,1
+1320199,2022,Oman,8,B Shetty,58c16165,A Mare,57a25400,A Dcosta,3a4d914f,0,0,0,0,0,,,,,,0,0,0
+1320199,2022,Oman,8,B Shetty,58c16165,A Mare,57a25400,A Dcosta,3a4d914f,0,0,0,0,0,,,,,,0,0,0
+1320199,2022,Oman,8,B Shetty,58c16165,A Mare,57a25400,A Dcosta,3a4d914f,0,0,0,0,0,,,,,,0,0,0
+1320199,2022,Oman,8,B Shetty,58c16165,A Mare,57a25400,A Dcosta,3a4d914f,0,0,0,0,0,,,,,,1,0,1
+1320199,2022,Oman,8,A Dcosta,3a4d914f,A Mare,57a25400,B Shetty,58c16165,0,0,0,0,0,,,,,,2,0,2
+1320199,2022,Oman,8,A Dcosta,3a4d914f,A Mare,57a25400,B Shetty,58c16165,0,0,0,0,1,A Dcosta,3a4d914f,Aysha,37ceee4e,caught,0,0,0
+1320199,2022,Oman,9,N Jagadish,d6ec9f9f,S Dhadwal,7e2c16a3,B Shetty,58c16165,0,0,0,0,0,,,,,,0,0,0
+1320199,2022,Oman,9,N Jagadish,d6ec9f9f,S Dhadwal,7e2c16a3,B Shetty,58c16165,0,0,0,0,0,,,,,,1,0,1
+1320199,2022,Oman,9,B Shetty,58c16165,S Dhadwal,7e2c16a3,N Jagadish,d6ec9f9f,0,0,0,0,0,,,,,,0,0,0
+1320199,2022,Oman,9,B Shetty,58c16165,S Dhadwal,7e2c16a3,N Jagadish,d6ec9f9f,0,0,0,0,0,,,,,,0,0,0
+1320199,2022,Oman,9,B Shetty,58c16165,S Dhadwal,7e2c16a3,N Jagadish,d6ec9f9f,1,0,0,0,0,,,,,,0,1,1
+1320199,2022,Oman,9,B Shetty,58c16165,S Dhadwal,7e2c16a3,N Jagadish,d6ec9f9f,0,0,0,0,0,,,,,,0,0,0
+1320199,2022,Oman,9,B Shetty,58c16165,S Dhadwal,7e2c16a3,N Jagadish,d6ec9f9f,0,0,0,0,0,,,,,,1,0,1
+1320199,2022,Oman,10,B Shetty,58c16165,H Agarwal,3f886270,N Jagadish,d6ec9f9f,0,0,0,0,1,B Shetty,58c16165,A Mare,57a25400,caught,0,0,0
+1320199,2022,Oman,10,N Jagadish,d6ec9f9f,H Agarwal,3f886270,Sameera Khan,237baa2c,0,0,0,0,0,,,,,,0,0,0
+1320199,2022,Oman,10,N Jagadish,d6ec9f9f,H Agarwal,3f886270,Sameera Khan,237baa2c,0,0,0,0,0,,,,,,0,0,0
+1320199,2022,Oman,10,N Jagadish,d6ec9f9f,H Agarwal,3f886270,Sameera Khan,237baa2c,0,0,0,0,0,,,,,,0,0,0
+1320199,2022,Oman,10,N Jagadish,d6ec9f9f,H Agarwal,3f886270,Sameera Khan,237baa2c,0,0,0,0,0,,,,,,1,0,1
+1320199,2022,Oman,10,Sameera Khan,237baa2c,H Agarwal,3f886270,N Jagadish,d6ec9f9f,0,0,0,0,0,,,,,,0,0,0
+1320199,2022,Oman,11,N Jagadish,d6ec9f9f,S Dhadwal,7e2c16a3,Sameera Khan,237baa2c,0,0,0,0,0,,,,,,0,0,0
+1320199,2022,Oman,11,N Jagadish,d6ec9f9f,S Dhadwal,7e2c16a3,Sameera Khan,237baa2c,0,0,0,0,0,,,,,,0,0,0
+1320199,2022,Oman,11,N Jagadish,d6ec9f9f,S Dhadwal,7e2c16a3,Sameera Khan,237baa2c,0,0,0,0,0,,,,,,0,0,0
+1320199,2022,Oman,11,N Jagadish,d6ec9f9f,S Dhadwal,7e2c16a3,Sameera Khan,237baa2c,0,0,0,0,0,,,,,,0,0,0
+1320199,2022,Oman,11,N Jagadish,d6ec9f9f,S Dhadwal,7e2c16a3,Sameera Khan,237baa2c,0,0,0,0,0,,,,,,0,0,0
+1320199,2022,Oman,11,N Jagadish,d6ec9f9f,S Dhadwal,7e2c16a3,Sameera Khan,237baa2c,0,0,0,0,0,,,,,,4,0,4
+1320199,2022,Oman,12,Sameera Khan,237baa2c,H Agarwal,3f886270,N Jagadish,d6ec9f9f,0,0,0,0,0,,,,,,0,0,0
+1320199,2022,Oman,12,Sameera Khan,237baa2c,H Agarwal,3f886270,N Jagadish,d6ec9f9f,0,0,0,0,0,,,,,,0,0,0
+1320199,2022,Oman,12,Sameera Khan,237baa2c,H Agarwal,3f886270,N Jagadish,d6ec9f9f,0,0,0,0,1,Sameera Khan,237baa2c,,,bowled,0,0,0
+1320199,2022,Oman,12,Alifiya Sayed,81423620,H Agarwal,3f886270,N Jagadish,d6ec9f9f,0,0,0,0,0,,,,,,0,0,0
+1320199,2022,Oman,12,Alifiya Sayed,81423620,H Agarwal,3f886270,N Jagadish,d6ec9f9f,0,0,0,0,0,,,,,,0,0,0
+1320199,2022,Oman,12,Alifiya Sayed,81423620,H Agarwal,3f886270,N Jagadish,d6ec9f9f,0,0,0,0,1,Alifiya Sayed,81423620,Khadija Imtiaz,1438d928,caught,0,0,0
+1320199,2022,Qatar,0,Shahreeennawab,faa8843f,S Channa,c30d7608,SK Rana,47884f8e,1,0,0,0,0,,,,,,0,1,1
+1320199,2022,Qatar,0,Shahreeennawab,faa8843f,S Channa,c30d7608,SK Rana,47884f8e,0,0,0,0,0,,,,,,0,0,0
+1320199,2022,Qatar,0,Shahreeennawab,faa8843f,S Channa,c30d7608,SK Rana,47884f8e,0,0,0,0,0,,,,,,0,0,0
+1320199,2022,Qatar,0,Shahreeennawab,faa8843f,S Channa,c30d7608,SK Rana,47884f8e,0,0,0,0,0,,,,,,0,0,0
+1320199,2022,Qatar,0,Shahreeennawab,faa8843f,S Channa,c30d7608,SK Rana,47884f8e,0,0,0,0,0,,,,,,0,0,0
+1320199,2022,Qatar,0,Shahreeennawab,faa8843f,S Channa,c30d7608,SK Rana,47884f8e,0,0,0,0,0,,,,,,0,0,0
+1320199,2022,Qatar,0,Shahreeennawab,faa8843f,S Channa,c30d7608,SK Rana,47884f8e,1,0,0,0,0,,,,,,0,1,1
+1320199,2022,Qatar,0,Shahreeennawab,faa8843f,S Channa,c30d7608,SK Rana,47884f8e,0,0,0,0,0,,,,,,0,0,0
+1320199,2022,Qatar,1,SK Rana,47884f8e,N Jagadish,d6ec9f9f,Shahreeennawab,faa8843f,0,0,0,0,0,,,,,,1,0,1
+1320199,2022,Qatar,1,Shahreeennawab,faa8843f,N Jagadish,d6ec9f9f,SK Rana,47884f8e,1,0,0,0,0,,,,,,0,1,1
+1320199,2022,Qatar,1,Shahreeennawab,faa8843f,N Jagadish,d6ec9f9f,SK Rana,47884f8e,0,1,0,0,0,,,,,,0,1,1
+1320199,2022,Qatar,1,Shahreeennawab,faa8843f,N Jagadish,d6ec9f9f,SK Rana,47884f8e,0,0,0,0,0,,,,,,1,0,1
+1320199,2022,Qatar,1,SK Rana,47884f8e,N Jagadish,d6ec9f9f,Shahreeennawab,faa8843f,1,0,0,0,0,,,,,,0,1,1
+1320199,2022,Qatar,1,SK Rana,47884f8e,N Jagadish,d6ec9f9f,Shahreeennawab,faa8843f,0,0,0,0,0,,,,,,4,0,4
+1320199,2022,Qatar,1,SK Rana,47884f8e,N Jagadish,d6ec9f9f,Shahreeennawab,faa8843f,1,0,0,0,0,,,,,,0,1,1
+1320199,2022,Qatar,1,SK Rana,47884f8e,N Jagadish,d6ec9f9f,Shahreeennawab,faa8843f,0,0,0,0,0,,,,,,1,0,1
+1320199,2022,Qatar,1,Shahreeennawab,faa8843f,N Jagadish,d6ec9f9f,SK Rana,47884f8e,2,0,0,0,0,,,,,,0,2,2
+1320199,2022,Qatar,1,SK Rana,47884f8e,N Jagadish,d6ec9f9f,Shahreeennawab,faa8843f,1,0,0,0,0,,,,,,0,1,1
+1320199,2022,Qatar,1,SK Rana,47884f8e,N Jagadish,d6ec9f9f,Shahreeennawab,faa8843f,0,0,0,0,0,,,,,,0,0,0
+1320199,2022,Qatar,1,SK Rana,47884f8e,N Jagadish,d6ec9f9f,Shahreeennawab,faa8843f,0,0,0,0,0,,,,,,0,0,0
+1320199,2022,Qatar,2,Shahreeennawab,faa8843f,S Channa,c30d7608,SK Rana,47884f8e,1,0,0,0,0,,,,,,0,1,1
+1320199,2022,Qatar,2,Shahreeennawab,faa8843f,S Channa,c30d7608,SK Rana,47884f8e,0,0,0,0,0,,,,,,0,0,0
+1320199,2022,Qatar,2,Shahreeennawab,faa8843f,S Channa,c30d7608,SK Rana,47884f8e,0,0,0,0,0,,,,,,0,0,0
+1320199,2022,Qatar,2,Shahreeennawab,faa8843f,S Channa,c30d7608,SK Rana,47884f8e,0,0,0,0,0,,,,,,0,0,0
+1320199,2022,Qatar,2,Shahreeennawab,faa8843f,S Channa,c30d7608,SK Rana,47884f8e,0,0,0,0,0,,,,,,1,0,1
+1320199,2022,Qatar,2,SK Rana,47884f8e,S Channa,c30d7608,Shahreeennawab,faa8843f,0,0,0,0,0,,,,,,1,0,1
+1320199,2022,Qatar,2,Shahreeennawab,faa8843f,S Channa,c30d7608,SK Rana,47884f8e,0,0,0,4,0,,,,,,0,4,4
+1320199,2022,Qatar,3,SK Rana,47884f8e,PE Mendonca,70bab30b,Shahreeennawab,faa8843f,0,0,0,0,0,,,,,,2,0,2
+1320199,2022,Qatar,3,SK Rana,47884f8e,PE Mendonca,70bab30b,Shahreeennawab,faa8843f,0,0,0,0,0,,,,,,2,0,2
+1320199,2022,Qatar,3,SK Rana,47884f8e,PE Mendonca,70bab30b,Shahreeennawab,faa8843f,1,0,0,0,0,,,,,,0,1,1
+1320199,2022,Qatar,3,SK Rana,47884f8e,PE Mendonca,70bab30b,Shahreeennawab,faa8843f,0,0,0,0,0,,,,,,0,0,0
+1320199,2022,Qatar,3,SK Rana,47884f8e,PE Mendonca,70bab30b,Shahreeennawab,faa8843f,0,0,0,0,1,SK Rana,47884f8e,S Channa,c30d7608,caught,0,0,0
+1320199,2022,Qatar,3,Shahreeennawab,faa8843f,PE Mendonca,70bab30b,Aysha,37ceee4e,0,0,0,0,0,,,,,,1,0,1
+1320199,2022,Qatar,3,Aysha,37ceee4e,PE Mendonca,70bab30b,Shahreeennawab,faa8843f,0,0,0,0,0,,,,,,0,0,0
+1320199,2022,Qatar,4,Shahreeennawab,faa8843f,Sameera Khan,237baa2c,Aysha,37ceee4e,0,0,0,0,0,,,,,,0,0,0
+1320199,2022,Qatar,4,Shahreeennawab,faa8843f,Sameera Khan,237baa2c,Aysha,37ceee4e,0,1,0,0,0,,,,,,0,1,1
+1320199,2022,Qatar,4,Shahreeennawab,faa8843f,Sameera Khan,237baa2c,Aysha,37ceee4e,0,0,0,0,0,,,,,,0,0,0
+1320199,2022,Qatar,4,Shahreeennawab,faa8843f,Sameera Khan,237baa2c,Aysha,37ceee4e,0,0,0,0,0,,,,,,1,0,1
+1320199,2022,Qatar,4,Aysha,37ceee4e,Sameera Khan,237baa2c,Shahreeennawab,faa8843f,0,0,0,0,0,,,,,,1,0,1
+1320199,2022,Qatar,4,Shahreeennawab,faa8843f,Sameera Khan,237baa2c,Aysha,37ceee4e,1,0,0,0,0,,,,,,0,1,1
+1320199,2022,Qatar,4,Shahreeennawab,faa8843f,Sameera Khan,237baa2c,Aysha,37ceee4e,0,0,0,0,0,,,,,,0,0,0
+1320199,2022,Qatar,4,Shahreeennawab,faa8843f,Sameera Khan,237baa2c,Aysha,37ceee4e,0,0,0,0,1,Shahreeennawab,faa8843f,Sameera Khan,237baa2c,run out,0,0,0
+1320199,2022,Qatar,5,S Dhadwal,7e2c16a3,PE Mendonca,70bab30b,Aysha,37ceee4e,0,0,0,0,0,,,,,,0,0,0
+1320199,2022,Qatar,5,S Dhadwal,7e2c16a3,PE Mendonca,70bab30b,Aysha,37ceee4e,0,0,0,0,0,,,,,,0,0,0
+1320199,2022,Qatar,5,S Dhadwal,7e2c16a3,PE Mendonca,70bab30b,Aysha,37ceee4e,0,0,0,0,0,,,,,,0,0,0
+1320199,2022,Qatar,5,S Dhadwal,7e2c16a3,PE Mendonca,70bab30b,Aysha,37ceee4e,0,0,0,0,0,,,,,,0,0,0
+1320199,2022,Qatar,5,S Dhadwal,7e2c16a3,PE Mendonca,70bab30b,Aysha,37ceee4e,0,0,0,0,0,,,,,,0,0,0
+1320199,2022,Qatar,5,S Dhadwal,7e2c16a3,PE Mendonca,70bab30b,Aysha,37ceee4e,0,0,0,0,0,,,,,,0,0,0
+1320199,2022,Qatar,6,Aysha,37ceee4e,A Dcosta,3a4d914f,S Dhadwal,7e2c16a3,0,0,0,0,0,,,,,,0,0,0
+1320199,2022,Qatar,6,Aysha,37ceee4e,A Dcosta,3a4d914f,S Dhadwal,7e2c16a3,1,0,0,0,0,,,,,,0,1,1
+1320199,2022,Qatar,6,Aysha,37ceee4e,A Dcosta,3a4d914f,S Dhadwal,7e2c16a3,0,0,0,0,1,Aysha,37ceee4e,,,bowled,0,0,0
+1320199,2022,Qatar,6,A Mare,57a25400,A Dcosta,3a4d914f,S Dhadwal,7e2c16a3,1,0,0,0,0,,,,,,0,1,1
+1320199,2022,Qatar,6,A Mare,57a25400,A Dcosta,3a4d914f,S Dhadwal,7e2c16a3,0,0,0,0,0,,,,,,0,0,0
+1320199,2022,Qatar,6,A Mare,57a25400,A Dcosta,3a4d914f,S Dhadwal,7e2c16a3,0,0,0,0,0,,,,,,0,0,0
+1320199,2022,Qatar,6,A Mare,57a25400,A Dcosta,3a4d914f,S Dhadwal,7e2c16a3,0,0,0,0,0,,,,,,2,0,2
+1320199,2022,Qatar,6,A Mare,57a25400,A Dcosta,3a4d914f,S Dhadwal,7e2c16a3,0,0,0,0,0,,,,,,1,0,1
+1320199,2022,Qatar,7,A Mare,57a25400,PE Mendonca,70bab30b,S Dhadwal,7e2c16a3,0,0,0,0,0,,,,,,1,0,1
+1320199,2022,Qatar,7,S Dhadwal,7e2c16a3,PE Mendonca,70bab30b,A Mare,57a25400,0,0,0,0,0,,,,,,1,0,1
+1320199,2022,Qatar,7,A Mare,57a25400,PE Mendonca,70bab30b,S Dhadwal,7e2c16a3,0,0,0,0,0,,,,,,1,0,1
+1320199,2022,Qatar,7,S Dhadwal,7e2c16a3,PE Mendonca,70bab30b,A Mare,57a25400,0,0,0,0,0,,,,,,1,0,1
+1320199,2022,Qatar,7,A Mare,57a25400,PE Mendonca,70bab30b,S Dhadwal,7e2c16a3,0,0,0,0,0,,,,,,1,0,1
+1320199,2022,Qatar,7,S Dhadwal,7e2c16a3,PE Mendonca,70bab30b,A Mare,57a25400,0,0,0,0,0,,,,,,1,0,1
+1320199,2022,Qatar,8,S Dhadwal,7e2c16a3,A Dcosta,3a4d914f,A Mare,57a25400,0,0,0,0,0,,,,,,0,0,0
+1320199,2022,Qatar,8,S Dhadwal,7e2c16a3,A Dcosta,3a4d914f,A Mare,57a25400,0,0,0,0,0,,,,,,1,0,1
+1320199,2022,Qatar,8,A Mare,57a25400,A Dcosta,3a4d914f,S Dhadwal,7e2c16a3,0,0,0,0,0,,,,,,1,0,1
+1320199,2022,Qatar,8,S Dhadwal,7e2c16a3,A Dcosta,3a4d914f,A Mare,57a25400,0,0,0,0,0,,,,,,2,0,2
+1320199,2022,Qatar,8,S Dhadwal,7e2c16a3,A Dcosta,3a4d914f,A Mare,57a25400,0,0,0,0,0,,,,,,1,0,1

@@ -1,0 +1,255 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1305503,2021/22,Nepal,0,K Bhurtel,e3386c8a,Muhammad Wafiq,f104c434,Aasif Sheikh,dcbea954,0,0,0,0,0,,,,,,2,0,2
+1305503,2021/22,Nepal,0,K Bhurtel,e3386c8a,Muhammad Wafiq,f104c434,Aasif Sheikh,dcbea954,0,0,0,0,0,,,,,,4,0,4
+1305503,2021/22,Nepal,0,K Bhurtel,e3386c8a,Muhammad Wafiq,f104c434,Aasif Sheikh,dcbea954,0,0,0,0,0,,,,,,1,0,1
+1305503,2021/22,Nepal,0,Aasif Sheikh,dcbea954,Muhammad Wafiq,f104c434,K Bhurtel,e3386c8a,0,0,0,0,0,,,,,,1,0,1
+1305503,2021/22,Nepal,0,K Bhurtel,e3386c8a,Muhammad Wafiq,f104c434,Aasif Sheikh,dcbea954,0,0,0,0,0,,,,,,0,0,0
+1305503,2021/22,Nepal,0,K Bhurtel,e3386c8a,Muhammad Wafiq,f104c434,Aasif Sheikh,dcbea954,0,0,0,0,0,,,,,,4,0,4
+1305503,2021/22,Nepal,1,Aasif Sheikh,dcbea954,Pavandeep Singh,78fcc740,K Bhurtel,e3386c8a,0,0,0,0,0,,,,,,4,0,4
+1305503,2021/22,Nepal,1,Aasif Sheikh,dcbea954,Pavandeep Singh,78fcc740,K Bhurtel,e3386c8a,1,0,0,0,0,,,,,,0,1,1
+1305503,2021/22,Nepal,1,Aasif Sheikh,dcbea954,Pavandeep Singh,78fcc740,K Bhurtel,e3386c8a,0,0,0,0,0,,,,,,1,0,1
+1305503,2021/22,Nepal,1,K Bhurtel,e3386c8a,Pavandeep Singh,78fcc740,Aasif Sheikh,dcbea954,0,0,0,0,0,,,,,,0,0,0
+1305503,2021/22,Nepal,1,K Bhurtel,e3386c8a,Pavandeep Singh,78fcc740,Aasif Sheikh,dcbea954,0,0,0,0,0,,,,,,1,0,1
+1305503,2021/22,Nepal,1,Aasif Sheikh,dcbea954,Pavandeep Singh,78fcc740,K Bhurtel,e3386c8a,0,0,0,0,0,,,,,,2,0,2
+1305503,2021/22,Nepal,1,Aasif Sheikh,dcbea954,Pavandeep Singh,78fcc740,K Bhurtel,e3386c8a,0,0,0,0,0,,,,,,1,0,1
+1305503,2021/22,Nepal,2,Aasif Sheikh,dcbea954,Muhammad Wafiq,f104c434,K Bhurtel,e3386c8a,0,0,0,0,0,,,,,,4,0,4
+1305503,2021/22,Nepal,2,Aasif Sheikh,dcbea954,Muhammad Wafiq,f104c434,K Bhurtel,e3386c8a,0,0,0,0,0,,,,,,1,0,1
+1305503,2021/22,Nepal,2,K Bhurtel,e3386c8a,Muhammad Wafiq,f104c434,Aasif Sheikh,dcbea954,0,0,0,0,1,K Bhurtel,e3386c8a,,,lbw,0,0,0
+1305503,2021/22,Nepal,2,RK Paudel,1a3cc554,Muhammad Wafiq,f104c434,Aasif Sheikh,dcbea954,1,0,0,0,0,,,,,,0,1,1
+1305503,2021/22,Nepal,2,RK Paudel,1a3cc554,Muhammad Wafiq,f104c434,Aasif Sheikh,dcbea954,0,0,0,0,0,,,,,,0,0,0
+1305503,2021/22,Nepal,2,RK Paudel,1a3cc554,Muhammad Wafiq,f104c434,Aasif Sheikh,dcbea954,0,0,0,0,0,,,,,,4,0,4
+1305503,2021/22,Nepal,2,RK Paudel,1a3cc554,Muhammad Wafiq,f104c434,Aasif Sheikh,dcbea954,0,0,0,0,0,,,,,,0,0,0
+1305503,2021/22,Nepal,3,Aasif Sheikh,dcbea954,Pavandeep Singh,78fcc740,RK Paudel,1a3cc554,0,0,0,0,0,,,,,,4,0,4
+1305503,2021/22,Nepal,3,Aasif Sheikh,dcbea954,Pavandeep Singh,78fcc740,RK Paudel,1a3cc554,0,0,0,0,1,Aasif Sheikh,dcbea954,S Muniandy,57fcfd3b,caught,0,0,0
+1305503,2021/22,Nepal,3,DS Airee,1747ea18,Pavandeep Singh,78fcc740,RK Paudel,1a3cc554,0,0,0,0,0,,,,,,1,0,1
+1305503,2021/22,Nepal,3,RK Paudel,1a3cc554,Pavandeep Singh,78fcc740,DS Airee,1747ea18,0,0,0,0,0,,,,,,0,0,0
+1305503,2021/22,Nepal,3,RK Paudel,1a3cc554,Pavandeep Singh,78fcc740,DS Airee,1747ea18,0,0,0,0,0,,,,,,4,0,4
+1305503,2021/22,Nepal,3,RK Paudel,1a3cc554,Pavandeep Singh,78fcc740,DS Airee,1747ea18,0,0,0,0,0,,,,,,0,0,0
+1305503,2021/22,Nepal,4,DS Airee,1747ea18,Muhammad Wafiq,f104c434,RK Paudel,1a3cc554,0,0,0,0,0,,,,,,0,0,0
+1305503,2021/22,Nepal,4,DS Airee,1747ea18,Muhammad Wafiq,f104c434,RK Paudel,1a3cc554,0,0,0,0,0,,,,,,0,0,0
+1305503,2021/22,Nepal,4,DS Airee,1747ea18,Muhammad Wafiq,f104c434,RK Paudel,1a3cc554,0,0,0,0,0,,,,,,1,0,1
+1305503,2021/22,Nepal,4,RK Paudel,1a3cc554,Muhammad Wafiq,f104c434,DS Airee,1747ea18,0,0,0,0,0,,,,,,2,0,2
+1305503,2021/22,Nepal,4,RK Paudel,1a3cc554,Muhammad Wafiq,f104c434,DS Airee,1747ea18,0,0,0,0,0,,,,,,1,0,1
+1305503,2021/22,Nepal,4,DS Airee,1747ea18,Muhammad Wafiq,f104c434,RK Paudel,1a3cc554,0,0,0,0,0,,,,,,4,0,4
+1305503,2021/22,Nepal,5,RK Paudel,1a3cc554,Pavandeep Singh,78fcc740,DS Airee,1747ea18,0,0,0,0,0,,,,,,1,0,1
+1305503,2021/22,Nepal,5,DS Airee,1747ea18,Pavandeep Singh,78fcc740,RK Paudel,1a3cc554,2,0,0,0,0,,,,,,0,2,2
+1305503,2021/22,Nepal,5,RK Paudel,1a3cc554,Pavandeep Singh,78fcc740,DS Airee,1747ea18,0,0,0,0,0,,,,,,1,0,1
+1305503,2021/22,Nepal,5,DS Airee,1747ea18,Pavandeep Singh,78fcc740,RK Paudel,1a3cc554,0,0,0,0,0,,,,,,0,0,0
+1305503,2021/22,Nepal,5,DS Airee,1747ea18,Pavandeep Singh,78fcc740,RK Paudel,1a3cc554,0,0,0,0,0,,,,,,4,0,4
+1305503,2021/22,Nepal,5,DS Airee,1747ea18,Pavandeep Singh,78fcc740,RK Paudel,1a3cc554,0,0,1,0,0,,,,,,0,1,1
+1305503,2021/22,Nepal,5,RK Paudel,1a3cc554,Pavandeep Singh,78fcc740,DS Airee,1747ea18,1,0,0,0,0,,,,,,0,1,1
+1305503,2021/22,Nepal,5,RK Paudel,1a3cc554,Pavandeep Singh,78fcc740,DS Airee,1747ea18,0,0,0,0,0,,,,,,1,0,1
+1305503,2021/22,Nepal,6,RK Paudel,1a3cc554,Syazrul Idrus,6dba59e0,DS Airee,1747ea18,0,0,0,0,0,,,,,,4,0,4
+1305503,2021/22,Nepal,6,RK Paudel,1a3cc554,Syazrul Idrus,6dba59e0,DS Airee,1747ea18,0,0,0,0,0,,,,,,1,0,1
+1305503,2021/22,Nepal,6,DS Airee,1747ea18,Syazrul Idrus,6dba59e0,RK Paudel,1a3cc554,0,0,0,0,0,,,,,,4,0,4
+1305503,2021/22,Nepal,6,DS Airee,1747ea18,Syazrul Idrus,6dba59e0,RK Paudel,1a3cc554,0,0,0,0,0,,,,,,1,0,1
+1305503,2021/22,Nepal,6,RK Paudel,1a3cc554,Syazrul Idrus,6dba59e0,DS Airee,1747ea18,0,0,0,0,0,,,,,,4,0,4
+1305503,2021/22,Nepal,6,RK Paudel,1a3cc554,Syazrul Idrus,6dba59e0,DS Airee,1747ea18,0,0,0,0,0,,,,,,3,0,3
+1305503,2021/22,Nepal,7,RK Paudel,1a3cc554,Pavandeep Singh,78fcc740,DS Airee,1747ea18,0,0,0,0,0,,,,,,1,0,1
+1305503,2021/22,Nepal,7,DS Airee,1747ea18,Pavandeep Singh,78fcc740,RK Paudel,1a3cc554,0,0,0,0,0,,,,,,0,0,0
+1305503,2021/22,Nepal,7,DS Airee,1747ea18,Pavandeep Singh,78fcc740,RK Paudel,1a3cc554,0,0,0,0,0,,,,,,2,0,2
+1305503,2021/22,Nepal,7,DS Airee,1747ea18,Pavandeep Singh,78fcc740,RK Paudel,1a3cc554,0,0,0,0,0,,,,,,0,0,0
+1305503,2021/22,Nepal,7,DS Airee,1747ea18,Pavandeep Singh,78fcc740,RK Paudel,1a3cc554,0,0,0,0,0,,,,,,1,0,1
+1305503,2021/22,Nepal,7,RK Paudel,1a3cc554,Pavandeep Singh,78fcc740,DS Airee,1747ea18,0,0,0,0,0,,,,,,1,0,1
+1305503,2021/22,Nepal,8,RK Paudel,1a3cc554,Syed Aziz,6667067e,DS Airee,1747ea18,0,0,0,0,0,,,,,,0,0,0
+1305503,2021/22,Nepal,8,RK Paudel,1a3cc554,Syed Aziz,6667067e,DS Airee,1747ea18,0,0,0,0,0,,,,,,1,0,1
+1305503,2021/22,Nepal,8,DS Airee,1747ea18,Syed Aziz,6667067e,RK Paudel,1a3cc554,0,0,0,0,0,,,,,,0,0,0
+1305503,2021/22,Nepal,8,DS Airee,1747ea18,Syed Aziz,6667067e,RK Paudel,1a3cc554,0,0,0,0,0,,,,,,1,0,1
+1305503,2021/22,Nepal,8,RK Paudel,1a3cc554,Syed Aziz,6667067e,DS Airee,1747ea18,0,0,0,0,0,,,,,,1,0,1
+1305503,2021/22,Nepal,8,DS Airee,1747ea18,Syed Aziz,6667067e,RK Paudel,1a3cc554,1,0,0,0,0,,,,,,0,1,1
+1305503,2021/22,Nepal,8,DS Airee,1747ea18,Syed Aziz,6667067e,RK Paudel,1a3cc554,1,0,0,0,0,,,,,,0,1,1
+1305503,2021/22,Nepal,8,DS Airee,1747ea18,Syed Aziz,6667067e,RK Paudel,1a3cc554,0,0,0,0,0,,,,,,4,0,4
+1305503,2021/22,Nepal,9,RK Paudel,1a3cc554,Muhammad Amir,60bec5c3,DS Airee,1747ea18,0,0,0,0,0,,,,,,4,0,4
+1305503,2021/22,Nepal,9,RK Paudel,1a3cc554,Muhammad Amir,60bec5c3,DS Airee,1747ea18,0,0,0,0,0,,,,,,2,0,2
+1305503,2021/22,Nepal,9,RK Paudel,1a3cc554,Muhammad Amir,60bec5c3,DS Airee,1747ea18,0,0,0,0,0,,,,,,1,0,1
+1305503,2021/22,Nepal,9,DS Airee,1747ea18,Muhammad Amir,60bec5c3,RK Paudel,1a3cc554,0,0,0,0,0,,,,,,1,0,1
+1305503,2021/22,Nepal,9,RK Paudel,1a3cc554,Muhammad Amir,60bec5c3,DS Airee,1747ea18,0,0,0,0,0,,,,,,1,0,1
+1305503,2021/22,Nepal,9,DS Airee,1747ea18,Muhammad Amir,60bec5c3,RK Paudel,1a3cc554,0,0,0,0,0,,,,,,1,0,1
+1305503,2021/22,Nepal,10,DS Airee,1747ea18,Syed Aziz,6667067e,RK Paudel,1a3cc554,0,0,0,0,0,,,,,,0,0,0
+1305503,2021/22,Nepal,10,DS Airee,1747ea18,Syed Aziz,6667067e,RK Paudel,1a3cc554,0,0,0,0,0,,,,,,1,0,1
+1305503,2021/22,Nepal,10,RK Paudel,1a3cc554,Syed Aziz,6667067e,DS Airee,1747ea18,1,0,0,0,0,,,,,,0,1,1
+1305503,2021/22,Nepal,10,RK Paudel,1a3cc554,Syed Aziz,6667067e,DS Airee,1747ea18,0,0,0,0,0,,,,,,1,0,1
+1305503,2021/22,Nepal,10,DS Airee,1747ea18,Syed Aziz,6667067e,RK Paudel,1a3cc554,0,0,0,0,0,,,,,,2,0,2
+1305503,2021/22,Nepal,10,DS Airee,1747ea18,Syed Aziz,6667067e,RK Paudel,1a3cc554,0,0,0,0,0,,,,,,1,0,1
+1305503,2021/22,Nepal,10,RK Paudel,1a3cc554,Syed Aziz,6667067e,DS Airee,1747ea18,0,0,0,0,0,,,,,,0,0,0
+1305503,2021/22,Nepal,11,DS Airee,1747ea18,Muhammad Amir,60bec5c3,RK Paudel,1a3cc554,0,0,0,0,0,,,,,,4,0,4
+1305503,2021/22,Nepal,11,DS Airee,1747ea18,Muhammad Amir,60bec5c3,RK Paudel,1a3cc554,0,0,0,0,0,,,,,,1,0,1
+1305503,2021/22,Nepal,11,RK Paudel,1a3cc554,Muhammad Amir,60bec5c3,DS Airee,1747ea18,0,0,0,0,0,,,,,,2,0,2
+1305503,2021/22,Nepal,11,RK Paudel,1a3cc554,Muhammad Amir,60bec5c3,DS Airee,1747ea18,0,0,0,0,0,,,,,,1,0,1
+1305503,2021/22,Nepal,11,DS Airee,1747ea18,Muhammad Amir,60bec5c3,RK Paudel,1a3cc554,0,0,0,0,0,,,,,,2,0,2
+1305503,2021/22,Nepal,11,DS Airee,1747ea18,Muhammad Amir,60bec5c3,RK Paudel,1a3cc554,0,0,0,0,0,,,,,,0,0,0
+1305503,2021/22,Nepal,12,RK Paudel,1a3cc554,Syed Aziz,6667067e,DS Airee,1747ea18,0,0,0,0,0,,,,,,3,0,3
+1305503,2021/22,Nepal,12,DS Airee,1747ea18,Syed Aziz,6667067e,RK Paudel,1a3cc554,0,0,0,0,0,,,,,,1,0,1
+1305503,2021/22,Nepal,12,RK Paudel,1a3cc554,Syed Aziz,6667067e,DS Airee,1747ea18,1,0,0,0,0,,,,,,0,1,1
+1305503,2021/22,Nepal,12,RK Paudel,1a3cc554,Syed Aziz,6667067e,DS Airee,1747ea18,0,0,0,0,0,,,,,,2,0,2
+1305503,2021/22,Nepal,12,RK Paudel,1a3cc554,Syed Aziz,6667067e,DS Airee,1747ea18,0,0,0,0,0,,,,,,2,0,2
+1305503,2021/22,Nepal,12,RK Paudel,1a3cc554,Syed Aziz,6667067e,DS Airee,1747ea18,0,0,0,0,0,,,,,,1,0,1
+1305503,2021/22,Nepal,12,DS Airee,1747ea18,Syed Aziz,6667067e,RK Paudel,1a3cc554,0,0,0,0,0,,,,,,2,0,2
+1305503,2021/22,Nepal,13,RK Paudel,1a3cc554,Muhammad Amir,60bec5c3,DS Airee,1747ea18,1,0,0,0,0,,,,,,0,1,1
+1305503,2021/22,Nepal,13,RK Paudel,1a3cc554,Muhammad Amir,60bec5c3,DS Airee,1747ea18,0,0,0,0,0,,,,,,1,0,1
+1305503,2021/22,Nepal,13,DS Airee,1747ea18,Muhammad Amir,60bec5c3,RK Paudel,1a3cc554,0,0,0,0,0,,,,,,0,0,0
+1305503,2021/22,Nepal,13,DS Airee,1747ea18,Muhammad Amir,60bec5c3,RK Paudel,1a3cc554,0,0,0,0,0,,,,,,1,0,1
+1305503,2021/22,Nepal,13,RK Paudel,1a3cc554,Muhammad Amir,60bec5c3,DS Airee,1747ea18,0,0,0,0,1,RK Paudel,1a3cc554,M Syahadat Ramli,5efa8af3,caught,0,0,0
+1305503,2021/22,Nepal,13,DS Airee,1747ea18,Muhammad Amir,60bec5c3,Aarif Sheikh,cd4d7695,0,0,0,0,0,,,,,,4,0,4
+1305503,2021/22,Nepal,13,DS Airee,1747ea18,Muhammad Amir,60bec5c3,Aarif Sheikh,cd4d7695,0,0,0,0,0,,,,,,4,0,4
+1305503,2021/22,Nepal,14,Aarif Sheikh,cd4d7695,Syazrul Idrus,6dba59e0,DS Airee,1747ea18,0,0,0,0,0,,,,,,1,0,1
+1305503,2021/22,Nepal,14,DS Airee,1747ea18,Syazrul Idrus,6dba59e0,Aarif Sheikh,cd4d7695,0,0,0,0,0,,,,,,0,0,0
+1305503,2021/22,Nepal,14,DS Airee,1747ea18,Syazrul Idrus,6dba59e0,Aarif Sheikh,cd4d7695,0,0,0,0,0,,,,,,0,0,0
+1305503,2021/22,Nepal,14,DS Airee,1747ea18,Syazrul Idrus,6dba59e0,Aarif Sheikh,cd4d7695,0,0,0,0,0,,,,,,2,0,2
+1305503,2021/22,Nepal,14,DS Airee,1747ea18,Syazrul Idrus,6dba59e0,Aarif Sheikh,cd4d7695,0,0,0,0,0,,,,,,0,0,0
+1305503,2021/22,Nepal,14,DS Airee,1747ea18,Syazrul Idrus,6dba59e0,Aarif Sheikh,cd4d7695,0,0,0,0,0,,,,,,2,0,2
+1305503,2021/22,Nepal,15,Aarif Sheikh,cd4d7695,Muhammad Amir,60bec5c3,DS Airee,1747ea18,0,0,0,0,0,,,,,,1,0,1
+1305503,2021/22,Nepal,15,DS Airee,1747ea18,Muhammad Amir,60bec5c3,Aarif Sheikh,cd4d7695,0,0,0,4,0,,,,,,0,4,4
+1305503,2021/22,Nepal,15,DS Airee,1747ea18,Muhammad Amir,60bec5c3,Aarif Sheikh,cd4d7695,0,0,0,0,0,,,,,,2,0,2
+1305503,2021/22,Nepal,15,DS Airee,1747ea18,Muhammad Amir,60bec5c3,Aarif Sheikh,cd4d7695,0,0,0,0,0,,,,,,6,0,6
+1305503,2021/22,Nepal,15,DS Airee,1747ea18,Muhammad Amir,60bec5c3,Aarif Sheikh,cd4d7695,0,0,0,0,0,,,,,,2,0,2
+1305503,2021/22,Nepal,15,DS Airee,1747ea18,Muhammad Amir,60bec5c3,Aarif Sheikh,cd4d7695,0,0,0,0,0,,,,,,4,0,4
+1305503,2021/22,Nepal,16,Aarif Sheikh,cd4d7695,Syazrul Idrus,6dba59e0,DS Airee,1747ea18,0,0,0,0,1,Aarif Sheikh,cd4d7695,,,bowled,0,0,0
+1305503,2021/22,Nepal,16,Mohammad Aadil Alam,70ced7f2,Syazrul Idrus,6dba59e0,DS Airee,1747ea18,0,0,0,0,0,,,,,,2,0,2
+1305503,2021/22,Nepal,16,Mohammad Aadil Alam,70ced7f2,Syazrul Idrus,6dba59e0,DS Airee,1747ea18,0,0,0,0,0,,,,,,2,0,2
+1305503,2021/22,Nepal,16,Mohammad Aadil Alam,70ced7f2,Syazrul Idrus,6dba59e0,DS Airee,1747ea18,0,0,0,0,0,,,,,,0,0,0
+1305503,2021/22,Nepal,16,Mohammad Aadil Alam,70ced7f2,Syazrul Idrus,6dba59e0,DS Airee,1747ea18,0,0,0,0,0,,,,,,6,0,6
+1305503,2021/22,Nepal,16,Mohammad Aadil Alam,70ced7f2,Syazrul Idrus,6dba59e0,DS Airee,1747ea18,0,0,0,0,0,,,,,,1,0,1
+1305503,2021/22,Nepal,17,Mohammad Aadil Alam,70ced7f2,Muhammad Wafiq,f104c434,DS Airee,1747ea18,0,0,0,0,0,,,,,,0,0,0
+1305503,2021/22,Nepal,17,Mohammad Aadil Alam,70ced7f2,Muhammad Wafiq,f104c434,DS Airee,1747ea18,0,0,0,0,0,,,,,,1,0,1
+1305503,2021/22,Nepal,17,DS Airee,1747ea18,Muhammad Wafiq,f104c434,Mohammad Aadil Alam,70ced7f2,0,0,0,0,0,,,,,,4,0,4
+1305503,2021/22,Nepal,17,DS Airee,1747ea18,Muhammad Wafiq,f104c434,Mohammad Aadil Alam,70ced7f2,0,0,0,0,0,,,,,,0,0,0
+1305503,2021/22,Nepal,17,DS Airee,1747ea18,Muhammad Wafiq,f104c434,Mohammad Aadil Alam,70ced7f2,0,0,0,0,0,,,,,,4,0,4
+1305503,2021/22,Nepal,17,DS Airee,1747ea18,Muhammad Wafiq,f104c434,Mohammad Aadil Alam,70ced7f2,0,0,0,0,0,,,,,,6,0,6
+1305503,2021/22,Nepal,18,Mohammad Aadil Alam,70ced7f2,Syazrul Idrus,6dba59e0,DS Airee,1747ea18,0,0,0,0,0,,,,,,1,0,1
+1305503,2021/22,Nepal,18,DS Airee,1747ea18,Syazrul Idrus,6dba59e0,Mohammad Aadil Alam,70ced7f2,0,0,0,0,0,,,,,,0,0,0
+1305503,2021/22,Nepal,18,DS Airee,1747ea18,Syazrul Idrus,6dba59e0,Mohammad Aadil Alam,70ced7f2,0,0,0,0,0,,,,,,6,0,6
+1305503,2021/22,Nepal,18,DS Airee,1747ea18,Syazrul Idrus,6dba59e0,Mohammad Aadil Alam,70ced7f2,0,0,0,0,0,,,,,,1,0,1
+1305503,2021/22,Nepal,18,Mohammad Aadil Alam,70ced7f2,Syazrul Idrus,6dba59e0,DS Airee,1747ea18,0,0,0,0,0,,,,,,1,0,1
+1305503,2021/22,Nepal,18,DS Airee,1747ea18,Syazrul Idrus,6dba59e0,Mohammad Aadil Alam,70ced7f2,0,0,0,0,0,,,,,,1,0,1
+1305503,2021/22,Nepal,19,DS Airee,1747ea18,Syed Aziz,6667067e,Mohammad Aadil Alam,70ced7f2,1,0,0,0,0,,,,,,0,1,1
+1305503,2021/22,Nepal,19,DS Airee,1747ea18,Syed Aziz,6667067e,Mohammad Aadil Alam,70ced7f2,0,0,0,0,0,,,,,,2,0,2
+1305503,2021/22,Nepal,19,DS Airee,1747ea18,Syed Aziz,6667067e,Mohammad Aadil Alam,70ced7f2,0,0,0,0,0,,,,,,0,0,0
+1305503,2021/22,Nepal,19,DS Airee,1747ea18,Syed Aziz,6667067e,Mohammad Aadil Alam,70ced7f2,0,0,0,0,0,,,,,,6,0,6
+1305503,2021/22,Nepal,19,DS Airee,1747ea18,Syed Aziz,6667067e,Mohammad Aadil Alam,70ced7f2,0,0,0,0,0,,,,,,6,0,6
+1305503,2021/22,Nepal,19,DS Airee,1747ea18,Syed Aziz,6667067e,Mohammad Aadil Alam,70ced7f2,0,0,0,0,0,,,,,,6,0,6
+1305503,2021/22,Nepal,19,DS Airee,1747ea18,Syed Aziz,6667067e,Mohammad Aadil Alam,70ced7f2,0,0,0,0,1,Mohammad Aadil Alam,70ced7f2,Syed Aziz,6667067e,run out,2,0,2
+1305503,2021/22,Malaysia,0,Virandeep Singh,415d30b6,KS Airee,548d4188,Zubaidi Zulkifle,dca8273d,0,0,0,0,0,,,,,,4,0,4
+1305503,2021/22,Malaysia,0,Virandeep Singh,415d30b6,KS Airee,548d4188,Zubaidi Zulkifle,dca8273d,0,0,0,0,0,,,,,,4,0,4
+1305503,2021/22,Malaysia,0,Virandeep Singh,415d30b6,KS Airee,548d4188,Zubaidi Zulkifle,dca8273d,0,0,0,0,0,,,,,,0,0,0
+1305503,2021/22,Malaysia,0,Virandeep Singh,415d30b6,KS Airee,548d4188,Zubaidi Zulkifle,dca8273d,0,1,0,0,0,,,,,,4,1,5
+1305503,2021/22,Malaysia,0,Virandeep Singh,415d30b6,KS Airee,548d4188,Zubaidi Zulkifle,dca8273d,0,0,0,0,0,,,,,,4,0,4
+1305503,2021/22,Malaysia,0,Virandeep Singh,415d30b6,KS Airee,548d4188,Zubaidi Zulkifle,dca8273d,0,0,0,0,0,,,,,,1,0,1
+1305503,2021/22,Malaysia,0,Zubaidi Zulkifle,dca8273d,KS Airee,548d4188,Virandeep Singh,415d30b6,0,0,0,0,1,Zubaidi Zulkifle,dca8273d,K Bhurtel,e3386c8a,caught,0,0,0
+1305503,2021/22,Malaysia,1,Virandeep Singh,415d30b6,Karan KC,f53b3e1d,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,4,0,4
+1305503,2021/22,Malaysia,1,Virandeep Singh,415d30b6,Karan KC,f53b3e1d,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,4,0,4
+1305503,2021/22,Malaysia,1,Virandeep Singh,415d30b6,Karan KC,f53b3e1d,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,0,0,0
+1305503,2021/22,Malaysia,1,Virandeep Singh,415d30b6,Karan KC,f53b3e1d,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,0,0,0
+1305503,2021/22,Malaysia,1,Virandeep Singh,415d30b6,Karan KC,f53b3e1d,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,1,0,1
+1305503,2021/22,Malaysia,1,Ahmed Faiz,f6b4f746,Karan KC,f53b3e1d,Virandeep Singh,415d30b6,0,0,0,0,0,,,,,,1,0,1
+1305503,2021/22,Malaysia,2,Ahmed Faiz,f6b4f746,Mohammad Aadil Alam,70ced7f2,Virandeep Singh,415d30b6,0,0,0,0,0,,,,,,0,0,0
+1305503,2021/22,Malaysia,2,Ahmed Faiz,f6b4f746,Mohammad Aadil Alam,70ced7f2,Virandeep Singh,415d30b6,1,0,0,0,0,,,,,,0,1,1
+1305503,2021/22,Malaysia,2,Ahmed Faiz,f6b4f746,Mohammad Aadil Alam,70ced7f2,Virandeep Singh,415d30b6,0,0,0,0,0,,,,,,1,0,1
+1305503,2021/22,Malaysia,2,Virandeep Singh,415d30b6,Mohammad Aadil Alam,70ced7f2,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,1,0,1
+1305503,2021/22,Malaysia,2,Ahmed Faiz,f6b4f746,Mohammad Aadil Alam,70ced7f2,Virandeep Singh,415d30b6,0,0,0,0,0,,,,,,1,0,1
+1305503,2021/22,Malaysia,2,Virandeep Singh,415d30b6,Mohammad Aadil Alam,70ced7f2,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,4,0,4
+1305503,2021/22,Malaysia,2,Virandeep Singh,415d30b6,Mohammad Aadil Alam,70ced7f2,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,1,0,1
+1305503,2021/22,Malaysia,3,Virandeep Singh,415d30b6,A Bohara,64fb6b15,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,0,0,0
+1305503,2021/22,Malaysia,3,Virandeep Singh,415d30b6,A Bohara,64fb6b15,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,2,0,2
+1305503,2021/22,Malaysia,3,Virandeep Singh,415d30b6,A Bohara,64fb6b15,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,0,0,0
+1305503,2021/22,Malaysia,3,Virandeep Singh,415d30b6,A Bohara,64fb6b15,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,1,0,1
+1305503,2021/22,Malaysia,3,Ahmed Faiz,f6b4f746,A Bohara,64fb6b15,Virandeep Singh,415d30b6,0,0,0,0,0,,,,,,2,0,2
+1305503,2021/22,Malaysia,3,Ahmed Faiz,f6b4f746,A Bohara,64fb6b15,Virandeep Singh,415d30b6,0,0,0,0,0,,,,,,0,0,0
+1305503,2021/22,Malaysia,4,Virandeep Singh,415d30b6,Karan KC,f53b3e1d,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,4,0,4
+1305503,2021/22,Malaysia,4,Virandeep Singh,415d30b6,Karan KC,f53b3e1d,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,4,0,4
+1305503,2021/22,Malaysia,4,Virandeep Singh,415d30b6,Karan KC,f53b3e1d,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,2,0,2
+1305503,2021/22,Malaysia,4,Virandeep Singh,415d30b6,Karan KC,f53b3e1d,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,0,0,0
+1305503,2021/22,Malaysia,4,Virandeep Singh,415d30b6,Karan KC,f53b3e1d,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,1,0,1
+1305503,2021/22,Malaysia,4,Ahmed Faiz,f6b4f746,Karan KC,f53b3e1d,Virandeep Singh,415d30b6,0,0,0,0,0,,,,,,0,0,0
+1305503,2021/22,Malaysia,5,Virandeep Singh,415d30b6,KS Airee,548d4188,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,0,0,0
+1305503,2021/22,Malaysia,5,Virandeep Singh,415d30b6,KS Airee,548d4188,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,1,0,1
+1305503,2021/22,Malaysia,5,Ahmed Faiz,f6b4f746,KS Airee,548d4188,Virandeep Singh,415d30b6,0,0,0,0,0,,,,,,1,0,1
+1305503,2021/22,Malaysia,5,Virandeep Singh,415d30b6,KS Airee,548d4188,Ahmed Faiz,f6b4f746,0,0,0,0,1,Virandeep Singh,415d30b6,Aasif Sheikh,dcbea954,caught,0,0,0
+1305503,2021/22,Malaysia,5,Syed Aziz,6667067e,KS Airee,548d4188,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,0,0,0
+1305503,2021/22,Malaysia,5,Syed Aziz,6667067e,KS Airee,548d4188,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,0,0,0
+1305503,2021/22,Malaysia,6,Ahmed Faiz,f6b4f746,S Lamichhane,b410bd3d,Syed Aziz,6667067e,0,0,0,0,0,,,,,,2,0,2
+1305503,2021/22,Malaysia,6,Ahmed Faiz,f6b4f746,S Lamichhane,b410bd3d,Syed Aziz,6667067e,0,0,0,0,0,,,,,,1,0,1
+1305503,2021/22,Malaysia,6,Syed Aziz,6667067e,S Lamichhane,b410bd3d,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,0,0,0
+1305503,2021/22,Malaysia,6,Syed Aziz,6667067e,S Lamichhane,b410bd3d,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,2,0,2
+1305503,2021/22,Malaysia,6,Syed Aziz,6667067e,S Lamichhane,b410bd3d,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,1,0,1
+1305503,2021/22,Malaysia,6,Ahmed Faiz,f6b4f746,S Lamichhane,b410bd3d,Syed Aziz,6667067e,0,0,0,0,0,,,,,,0,0,0
+1305503,2021/22,Malaysia,7,Syed Aziz,6667067e,DS Airee,1747ea18,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,6,0,6
+1305503,2021/22,Malaysia,7,Syed Aziz,6667067e,DS Airee,1747ea18,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,1,0,1
+1305503,2021/22,Malaysia,7,Ahmed Faiz,f6b4f746,DS Airee,1747ea18,Syed Aziz,6667067e,0,0,0,0,0,,,,,,1,0,1
+1305503,2021/22,Malaysia,7,Syed Aziz,6667067e,DS Airee,1747ea18,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,0,0,0
+1305503,2021/22,Malaysia,7,Syed Aziz,6667067e,DS Airee,1747ea18,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,0,0,0
+1305503,2021/22,Malaysia,7,Syed Aziz,6667067e,DS Airee,1747ea18,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,1,0,1
+1305503,2021/22,Malaysia,8,Syed Aziz,6667067e,S Lamichhane,b410bd3d,Ahmed Faiz,f6b4f746,0,0,1,0,0,,,,,,0,1,1
+1305503,2021/22,Malaysia,8,Ahmed Faiz,f6b4f746,S Lamichhane,b410bd3d,Syed Aziz,6667067e,0,0,0,0,0,,,,,,1,0,1
+1305503,2021/22,Malaysia,8,Syed Aziz,6667067e,S Lamichhane,b410bd3d,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,6,0,6
+1305503,2021/22,Malaysia,8,Syed Aziz,6667067e,S Lamichhane,b410bd3d,Ahmed Faiz,f6b4f746,0,0,0,0,1,Syed Aziz,6667067e,K Bhurtel,e3386c8a,caught,0,0,0
+1305503,2021/22,Malaysia,8,Ahmed Faiz,f6b4f746,S Lamichhane,b410bd3d,S Muniandy,57fcfd3b,0,0,0,0,0,,,,,,0,0,0
+1305503,2021/22,Malaysia,8,Ahmed Faiz,f6b4f746,S Lamichhane,b410bd3d,S Muniandy,57fcfd3b,0,0,0,0,0,,,,,,1,0,1
+1305503,2021/22,Malaysia,9,Ahmed Faiz,f6b4f746,Mohammad Aadil Alam,70ced7f2,S Muniandy,57fcfd3b,0,0,0,0,0,,,,,,2,0,2
+1305503,2021/22,Malaysia,9,Ahmed Faiz,f6b4f746,Mohammad Aadil Alam,70ced7f2,S Muniandy,57fcfd3b,0,0,0,0,0,,,,,,0,0,0
+1305503,2021/22,Malaysia,9,Ahmed Faiz,f6b4f746,Mohammad Aadil Alam,70ced7f2,S Muniandy,57fcfd3b,0,0,0,0,0,,,,,,2,0,2
+1305503,2021/22,Malaysia,9,Ahmed Faiz,f6b4f746,Mohammad Aadil Alam,70ced7f2,S Muniandy,57fcfd3b,0,0,0,0,0,,,,,,1,0,1
+1305503,2021/22,Malaysia,9,S Muniandy,57fcfd3b,Mohammad Aadil Alam,70ced7f2,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,0,0,0
+1305503,2021/22,Malaysia,9,S Muniandy,57fcfd3b,Mohammad Aadil Alam,70ced7f2,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,0,0,0
+1305503,2021/22,Malaysia,10,Ahmed Faiz,f6b4f746,A Bohara,64fb6b15,S Muniandy,57fcfd3b,0,0,0,0,0,,,,,,0,0,0
+1305503,2021/22,Malaysia,10,Ahmed Faiz,f6b4f746,A Bohara,64fb6b15,S Muniandy,57fcfd3b,0,0,0,0,0,,,,,,1,0,1
+1305503,2021/22,Malaysia,10,S Muniandy,57fcfd3b,A Bohara,64fb6b15,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,1,0,1
+1305503,2021/22,Malaysia,10,Ahmed Faiz,f6b4f746,A Bohara,64fb6b15,S Muniandy,57fcfd3b,0,0,0,0,0,,,,,,0,0,0
+1305503,2021/22,Malaysia,10,Ahmed Faiz,f6b4f746,A Bohara,64fb6b15,S Muniandy,57fcfd3b,0,0,0,0,1,S Muniandy,57fcfd3b,RK Paudel,1a3cc554,run out,0,0,0
+1305503,2021/22,Malaysia,10,Muhammad Amir,60bec5c3,A Bohara,64fb6b15,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,0,0,0
+1305503,2021/22,Malaysia,11,Ahmed Faiz,f6b4f746,Karan KC,f53b3e1d,Muhammad Amir,60bec5c3,0,0,0,0,0,,,,,,4,0,4
+1305503,2021/22,Malaysia,11,Ahmed Faiz,f6b4f746,Karan KC,f53b3e1d,Muhammad Amir,60bec5c3,0,0,0,0,0,,,,,,4,0,4
+1305503,2021/22,Malaysia,11,Ahmed Faiz,f6b4f746,Karan KC,f53b3e1d,Muhammad Amir,60bec5c3,0,0,0,0,0,,,,,,0,0,0
+1305503,2021/22,Malaysia,11,Ahmed Faiz,f6b4f746,Karan KC,f53b3e1d,Muhammad Amir,60bec5c3,0,0,0,0,0,,,,,,4,0,4
+1305503,2021/22,Malaysia,11,Ahmed Faiz,f6b4f746,Karan KC,f53b3e1d,Muhammad Amir,60bec5c3,0,0,0,0,0,,,,,,0,0,0
+1305503,2021/22,Malaysia,11,Ahmed Faiz,f6b4f746,Karan KC,f53b3e1d,Muhammad Amir,60bec5c3,0,0,0,0,0,,,,,,1,0,1
+1305503,2021/22,Malaysia,12,Ahmed Faiz,f6b4f746,S Lamichhane,b410bd3d,Muhammad Amir,60bec5c3,0,0,0,0,0,,,,,,2,0,2
+1305503,2021/22,Malaysia,12,Ahmed Faiz,f6b4f746,S Lamichhane,b410bd3d,Muhammad Amir,60bec5c3,0,0,0,0,1,Ahmed Faiz,f6b4f746,K Bhurtel,e3386c8a,caught,0,0,0
+1305503,2021/22,Malaysia,12,M Syahadat Ramli,5efa8af3,S Lamichhane,b410bd3d,Muhammad Amir,60bec5c3,0,0,0,0,0,,,,,,1,0,1
+1305503,2021/22,Malaysia,12,Muhammad Amir,60bec5c3,S Lamichhane,b410bd3d,M Syahadat Ramli,5efa8af3,0,0,0,0,0,,,,,,0,0,0
+1305503,2021/22,Malaysia,12,Muhammad Amir,60bec5c3,S Lamichhane,b410bd3d,M Syahadat Ramli,5efa8af3,0,0,0,0,0,,,,,,0,0,0
+1305503,2021/22,Malaysia,12,Muhammad Amir,60bec5c3,S Lamichhane,b410bd3d,M Syahadat Ramli,5efa8af3,1,0,0,0,0,,,,,,0,1,1
+1305503,2021/22,Malaysia,12,Muhammad Amir,60bec5c3,S Lamichhane,b410bd3d,M Syahadat Ramli,5efa8af3,0,0,0,0,0,,,,,,0,0,0
+1305503,2021/22,Malaysia,13,M Syahadat Ramli,5efa8af3,Mohammad Aadil Alam,70ced7f2,Muhammad Amir,60bec5c3,0,0,0,0,0,,,,,,0,0,0
+1305503,2021/22,Malaysia,13,M Syahadat Ramli,5efa8af3,Mohammad Aadil Alam,70ced7f2,Muhammad Amir,60bec5c3,0,0,0,0,0,,,,,,4,0,4
+1305503,2021/22,Malaysia,13,M Syahadat Ramli,5efa8af3,Mohammad Aadil Alam,70ced7f2,Muhammad Amir,60bec5c3,0,0,0,0,0,,,,,,1,0,1
+1305503,2021/22,Malaysia,13,Muhammad Amir,60bec5c3,Mohammad Aadil Alam,70ced7f2,M Syahadat Ramli,5efa8af3,0,0,0,0,0,,,,,,0,0,0
+1305503,2021/22,Malaysia,13,Muhammad Amir,60bec5c3,Mohammad Aadil Alam,70ced7f2,M Syahadat Ramli,5efa8af3,0,0,0,0,0,,,,,,0,0,0
+1305503,2021/22,Malaysia,13,Muhammad Amir,60bec5c3,Mohammad Aadil Alam,70ced7f2,M Syahadat Ramli,5efa8af3,0,0,0,0,0,,,,,,0,0,0
+1305503,2021/22,Malaysia,14,M Syahadat Ramli,5efa8af3,DS Airee,1747ea18,Muhammad Amir,60bec5c3,0,0,0,0,0,,,,,,1,0,1
+1305503,2021/22,Malaysia,14,Muhammad Amir,60bec5c3,DS Airee,1747ea18,M Syahadat Ramli,5efa8af3,0,0,0,0,0,,,,,,1,0,1
+1305503,2021/22,Malaysia,14,M Syahadat Ramli,5efa8af3,DS Airee,1747ea18,Muhammad Amir,60bec5c3,0,0,0,0,0,,,,,,1,0,1
+1305503,2021/22,Malaysia,14,Muhammad Amir,60bec5c3,DS Airee,1747ea18,M Syahadat Ramli,5efa8af3,1,0,0,0,1,Muhammad Amir,60bec5c3,D Nath,d019608b,stumped,0,1,1
+1305503,2021/22,Malaysia,14,Ainool Hafizs,1bada9da,DS Airee,1747ea18,M Syahadat Ramli,5efa8af3,0,0,0,0,0,,,,,,1,0,1
+1305503,2021/22,Malaysia,14,M Syahadat Ramli,5efa8af3,DS Airee,1747ea18,Ainool Hafizs,1bada9da,0,0,0,0,1,M Syahadat Ramli,5efa8af3,S Lamichhane,b410bd3d,caught,0,0,0
+1305503,2021/22,Malaysia,14,Ainool Hafizs,1bada9da,DS Airee,1747ea18,Syazrul Idrus,6dba59e0,0,0,0,0,0,,,,,,1,0,1
+1305503,2021/22,Malaysia,15,Ainool Hafizs,1bada9da,S Lamichhane,b410bd3d,Syazrul Idrus,6dba59e0,0,0,0,0,0,,,,,,1,0,1
+1305503,2021/22,Malaysia,15,Syazrul Idrus,6dba59e0,S Lamichhane,b410bd3d,Ainool Hafizs,1bada9da,0,0,0,0,0,,,,,,0,0,0
+1305503,2021/22,Malaysia,15,Syazrul Idrus,6dba59e0,S Lamichhane,b410bd3d,Ainool Hafizs,1bada9da,0,0,0,0,0,,,,,,0,0,0
+1305503,2021/22,Malaysia,15,Syazrul Idrus,6dba59e0,S Lamichhane,b410bd3d,Ainool Hafizs,1bada9da,0,0,0,0,0,,,,,,0,0,0
+1305503,2021/22,Malaysia,15,Syazrul Idrus,6dba59e0,S Lamichhane,b410bd3d,Ainool Hafizs,1bada9da,0,0,0,0,0,,,,,,0,0,0
+1305503,2021/22,Malaysia,15,Syazrul Idrus,6dba59e0,S Lamichhane,b410bd3d,Ainool Hafizs,1bada9da,0,0,0,0,1,Syazrul Idrus,6dba59e0,,,caught and bowled,0,0,0
+1305503,2021/22,Malaysia,16,Ainool Hafizs,1bada9da,DS Airee,1747ea18,Pavandeep Singh,78fcc740,0,0,0,0,0,,,,,,1,0,1
+1305503,2021/22,Malaysia,16,Pavandeep Singh,78fcc740,DS Airee,1747ea18,Ainool Hafizs,1bada9da,0,0,0,0,0,,,,,,0,0,0
+1305503,2021/22,Malaysia,16,Pavandeep Singh,78fcc740,DS Airee,1747ea18,Ainool Hafizs,1bada9da,0,0,0,0,0,,,,,,1,0,1
+1305503,2021/22,Malaysia,16,Ainool Hafizs,1bada9da,DS Airee,1747ea18,Pavandeep Singh,78fcc740,0,0,0,0,0,,,,,,6,0,6
+1305503,2021/22,Malaysia,16,Ainool Hafizs,1bada9da,DS Airee,1747ea18,Pavandeep Singh,78fcc740,0,0,2,0,0,,,,,,0,2,2
+1305503,2021/22,Malaysia,16,Ainool Hafizs,1bada9da,DS Airee,1747ea18,Pavandeep Singh,78fcc740,0,0,0,0,0,,,,,,1,0,1
+1305503,2021/22,Malaysia,17,Ainool Hafizs,1bada9da,Mohammad Aadil Alam,70ced7f2,Pavandeep Singh,78fcc740,0,0,0,0,0,,,,,,2,0,2
+1305503,2021/22,Malaysia,17,Ainool Hafizs,1bada9da,Mohammad Aadil Alam,70ced7f2,Pavandeep Singh,78fcc740,0,0,0,0,0,,,,,,3,0,3
+1305503,2021/22,Malaysia,17,Pavandeep Singh,78fcc740,Mohammad Aadil Alam,70ced7f2,Ainool Hafizs,1bada9da,0,0,0,0,0,,,,,,1,0,1
+1305503,2021/22,Malaysia,17,Ainool Hafizs,1bada9da,Mohammad Aadil Alam,70ced7f2,Pavandeep Singh,78fcc740,0,0,0,0,0,,,,,,1,0,1
+1305503,2021/22,Malaysia,17,Pavandeep Singh,78fcc740,Mohammad Aadil Alam,70ced7f2,Ainool Hafizs,1bada9da,0,0,0,0,0,,,,,,1,0,1
+1305503,2021/22,Malaysia,17,Ainool Hafizs,1bada9da,Mohammad Aadil Alam,70ced7f2,Pavandeep Singh,78fcc740,0,0,0,0,0,,,,,,1,0,1
+1305503,2021/22,Malaysia,18,Ainool Hafizs,1bada9da,K Bhurtel,e3386c8a,Pavandeep Singh,78fcc740,0,0,0,0,1,Ainool Hafizs,1bada9da,DS Airee,1747ea18,caught,0,0,0
+1305503,2021/22,Malaysia,18,Pavandeep Singh,78fcc740,K Bhurtel,e3386c8a,Muhammad Wafiq,f104c434,0,0,0,0,0,,,,,,0,0,0
+1305503,2021/22,Malaysia,18,Pavandeep Singh,78fcc740,K Bhurtel,e3386c8a,Muhammad Wafiq,f104c434,0,0,0,0,0,,,,,,0,0,0
+1305503,2021/22,Malaysia,18,Pavandeep Singh,78fcc740,K Bhurtel,e3386c8a,Muhammad Wafiq,f104c434,1,0,0,0,0,,,,,,0,1,1
+1305503,2021/22,Malaysia,18,Pavandeep Singh,78fcc740,K Bhurtel,e3386c8a,Muhammad Wafiq,f104c434,0,0,0,0,0,,,,,,0,0,0
+1305503,2021/22,Malaysia,18,Pavandeep Singh,78fcc740,K Bhurtel,e3386c8a,Muhammad Wafiq,f104c434,0,0,0,0,0,,,,,,0,0,0
+1305503,2021/22,Malaysia,18,Pavandeep Singh,78fcc740,K Bhurtel,e3386c8a,Muhammad Wafiq,f104c434,0,0,0,0,0,,,,,,0,0,0
+1305503,2021/22,Malaysia,19,Muhammad Wafiq,f104c434,RK Paudel,1a3cc554,Pavandeep Singh,78fcc740,0,0,0,0,0,,,,,,1,0,1
+1305503,2021/22,Malaysia,19,Pavandeep Singh,78fcc740,RK Paudel,1a3cc554,Muhammad Wafiq,f104c434,0,0,0,0,0,,,,,,0,0,0
+1305503,2021/22,Malaysia,19,Pavandeep Singh,78fcc740,RK Paudel,1a3cc554,Muhammad Wafiq,f104c434,0,0,0,0,0,,,,,,1,0,1
+1305503,2021/22,Malaysia,19,Muhammad Wafiq,f104c434,RK Paudel,1a3cc554,Pavandeep Singh,78fcc740,0,0,0,0,0,,,,,,0,0,0
+1305503,2021/22,Malaysia,19,Muhammad Wafiq,f104c434,RK Paudel,1a3cc554,Pavandeep Singh,78fcc740,0,0,0,0,1,Muhammad Wafiq,f104c434,K Bhurtel,e3386c8a,caught,0,0,0

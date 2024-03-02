@@ -1,0 +1,247 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+516205,2011,Sri Lanka,0,DPMD Jayawardene,d18f9182,B Lee,dd09ff8e,TM Dilshan,5bdcdb72,0,0,0,0,0,,,,,,0,0,0
+516205,2011,Sri Lanka,0,DPMD Jayawardene,d18f9182,B Lee,dd09ff8e,TM Dilshan,5bdcdb72,0,0,0,0,0,,,,,,1,0,1
+516205,2011,Sri Lanka,0,TM Dilshan,5bdcdb72,B Lee,dd09ff8e,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,0,0,0
+516205,2011,Sri Lanka,0,TM Dilshan,5bdcdb72,B Lee,dd09ff8e,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,1,0,1
+516205,2011,Sri Lanka,0,DPMD Jayawardene,d18f9182,B Lee,dd09ff8e,TM Dilshan,5bdcdb72,0,0,0,0,0,,,,,,0,0,0
+516205,2011,Sri Lanka,0,DPMD Jayawardene,d18f9182,B Lee,dd09ff8e,TM Dilshan,5bdcdb72,0,0,0,0,0,,,,,,0,0,0
+516205,2011,Sri Lanka,1,TM Dilshan,5bdcdb72,SNJ O'Keefe,3540beff,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,1,0,1
+516205,2011,Sri Lanka,1,DPMD Jayawardene,d18f9182,SNJ O'Keefe,3540beff,TM Dilshan,5bdcdb72,0,0,0,0,0,,,,,,1,0,1
+516205,2011,Sri Lanka,1,TM Dilshan,5bdcdb72,SNJ O'Keefe,3540beff,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,1,0,1
+516205,2011,Sri Lanka,1,DPMD Jayawardene,d18f9182,SNJ O'Keefe,3540beff,TM Dilshan,5bdcdb72,0,0,0,0,0,,,,,,4,0,4
+516205,2011,Sri Lanka,1,DPMD Jayawardene,d18f9182,SNJ O'Keefe,3540beff,TM Dilshan,5bdcdb72,0,0,0,0,0,,,,,,4,0,4
+516205,2011,Sri Lanka,1,DPMD Jayawardene,d18f9182,SNJ O'Keefe,3540beff,TM Dilshan,5bdcdb72,0,0,0,0,0,,,,,,0,0,0
+516205,2011,Sri Lanka,2,TM Dilshan,5bdcdb72,B Lee,dd09ff8e,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,1,0,1
+516205,2011,Sri Lanka,2,DPMD Jayawardene,d18f9182,B Lee,dd09ff8e,TM Dilshan,5bdcdb72,0,0,0,0,0,,,,,,4,0,4
+516205,2011,Sri Lanka,2,DPMD Jayawardene,d18f9182,B Lee,dd09ff8e,TM Dilshan,5bdcdb72,0,0,0,0,0,,,,,,0,0,0
+516205,2011,Sri Lanka,2,DPMD Jayawardene,d18f9182,B Lee,dd09ff8e,TM Dilshan,5bdcdb72,0,0,0,0,0,,,,,,4,0,4
+516205,2011,Sri Lanka,2,DPMD Jayawardene,d18f9182,B Lee,dd09ff8e,TM Dilshan,5bdcdb72,0,0,0,0,0,,,,,,1,0,1
+516205,2011,Sri Lanka,2,TM Dilshan,5bdcdb72,B Lee,dd09ff8e,DPMD Jayawardene,d18f9182,0,0,0,0,1,TM Dilshan,5bdcdb72,,,lbw,0,0,0
+516205,2011,Sri Lanka,3,DPMD Jayawardene,d18f9182,MG Johnson,f5180fe6,LD Chandimal,8dd02a98,0,0,0,0,0,,,,,,1,0,1
+516205,2011,Sri Lanka,3,LD Chandimal,8dd02a98,MG Johnson,f5180fe6,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,0,0,0
+516205,2011,Sri Lanka,3,LD Chandimal,8dd02a98,MG Johnson,f5180fe6,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,0,0,0
+516205,2011,Sri Lanka,3,LD Chandimal,8dd02a98,MG Johnson,f5180fe6,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,1,0,1
+516205,2011,Sri Lanka,3,DPMD Jayawardene,d18f9182,MG Johnson,f5180fe6,LD Chandimal,8dd02a98,0,0,0,0,0,,,,,,0,0,0
+516205,2011,Sri Lanka,3,DPMD Jayawardene,d18f9182,MG Johnson,f5180fe6,LD Chandimal,8dd02a98,0,0,0,0,0,,,,,,1,0,1
+516205,2011,Sri Lanka,4,DPMD Jayawardene,d18f9182,B Lee,dd09ff8e,LD Chandimal,8dd02a98,0,0,0,0,0,,,,,,1,0,1
+516205,2011,Sri Lanka,4,LD Chandimal,8dd02a98,B Lee,dd09ff8e,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,1,0,1
+516205,2011,Sri Lanka,4,DPMD Jayawardene,d18f9182,B Lee,dd09ff8e,LD Chandimal,8dd02a98,0,0,0,0,0,,,,,,4,0,4
+516205,2011,Sri Lanka,4,DPMD Jayawardene,d18f9182,B Lee,dd09ff8e,LD Chandimal,8dd02a98,0,0,0,0,0,,,,,,4,0,4
+516205,2011,Sri Lanka,4,DPMD Jayawardene,d18f9182,B Lee,dd09ff8e,LD Chandimal,8dd02a98,0,0,0,0,0,,,,,,1,0,1
+516205,2011,Sri Lanka,4,LD Chandimal,8dd02a98,B Lee,dd09ff8e,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,4,0,4
+516205,2011,Sri Lanka,5,DPMD Jayawardene,d18f9182,MG Johnson,f5180fe6,LD Chandimal,8dd02a98,0,0,0,0,0,,,,,,4,0,4
+516205,2011,Sri Lanka,5,DPMD Jayawardene,d18f9182,MG Johnson,f5180fe6,LD Chandimal,8dd02a98,0,0,0,0,0,,,,,,4,0,4
+516205,2011,Sri Lanka,5,DPMD Jayawardene,d18f9182,MG Johnson,f5180fe6,LD Chandimal,8dd02a98,0,0,0,0,0,,,,,,4,0,4
+516205,2011,Sri Lanka,5,DPMD Jayawardene,d18f9182,MG Johnson,f5180fe6,LD Chandimal,8dd02a98,0,0,0,0,0,,,,,,0,0,0
+516205,2011,Sri Lanka,5,DPMD Jayawardene,d18f9182,MG Johnson,f5180fe6,LD Chandimal,8dd02a98,0,0,0,0,0,,,,,,1,0,1
+516205,2011,Sri Lanka,5,LD Chandimal,8dd02a98,MG Johnson,f5180fe6,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,0,0,0
+516205,2011,Sri Lanka,6,DPMD Jayawardene,d18f9182,SNJ O'Keefe,3540beff,LD Chandimal,8dd02a98,0,0,0,0,0,,,,,,2,0,2
+516205,2011,Sri Lanka,6,DPMD Jayawardene,d18f9182,SNJ O'Keefe,3540beff,LD Chandimal,8dd02a98,0,0,0,0,0,,,,,,0,0,0
+516205,2011,Sri Lanka,6,DPMD Jayawardene,d18f9182,SNJ O'Keefe,3540beff,LD Chandimal,8dd02a98,0,0,0,0,0,,,,,,0,0,0
+516205,2011,Sri Lanka,6,DPMD Jayawardene,d18f9182,SNJ O'Keefe,3540beff,LD Chandimal,8dd02a98,0,0,0,0,0,,,,,,1,0,1
+516205,2011,Sri Lanka,6,LD Chandimal,8dd02a98,SNJ O'Keefe,3540beff,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,1,0,1
+516205,2011,Sri Lanka,6,DPMD Jayawardene,d18f9182,SNJ O'Keefe,3540beff,LD Chandimal,8dd02a98,0,0,0,0,0,,,,,,1,0,1
+516205,2011,Sri Lanka,7,DPMD Jayawardene,d18f9182,SPD Smith,30a45b23,LD Chandimal,8dd02a98,0,0,0,0,0,,,,,,1,0,1
+516205,2011,Sri Lanka,7,LD Chandimal,8dd02a98,SPD Smith,30a45b23,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,0,0,0
+516205,2011,Sri Lanka,7,LD Chandimal,8dd02a98,SPD Smith,30a45b23,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,2,0,2
+516205,2011,Sri Lanka,7,LD Chandimal,8dd02a98,SPD Smith,30a45b23,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,4,0,4
+516205,2011,Sri Lanka,7,LD Chandimal,8dd02a98,SPD Smith,30a45b23,DPMD Jayawardene,d18f9182,0,0,0,0,1,LD Chandimal,8dd02a98,,,caught and bowled,0,0,0
+516205,2011,Sri Lanka,7,NLTC Perera,0f12f9df,SPD Smith,30a45b23,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,1,0,1
+516205,2011,Sri Lanka,8,NLTC Perera,0f12f9df,MG Johnson,f5180fe6,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,0,0,0
+516205,2011,Sri Lanka,8,NLTC Perera,0f12f9df,MG Johnson,f5180fe6,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,4,0,4
+516205,2011,Sri Lanka,8,NLTC Perera,0f12f9df,MG Johnson,f5180fe6,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,2,0,2
+516205,2011,Sri Lanka,8,NLTC Perera,0f12f9df,MG Johnson,f5180fe6,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,2,0,2
+516205,2011,Sri Lanka,8,NLTC Perera,0f12f9df,MG Johnson,f5180fe6,DPMD Jayawardene,d18f9182,0,0,0,0,1,NLTC Perera,0f12f9df,SR Watson,4329fbb5,caught,0,0,0
+516205,2011,Sri Lanka,8,DPMD Jayawardene,d18f9182,MG Johnson,f5180fe6,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,4,0,4
+516205,2011,Sri Lanka,9,KC Sangakkara,6b71e6cf,SPD Smith,30a45b23,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,1,0,1
+516205,2011,Sri Lanka,9,DPMD Jayawardene,d18f9182,SPD Smith,30a45b23,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,0,0,0
+516205,2011,Sri Lanka,9,DPMD Jayawardene,d18f9182,SPD Smith,30a45b23,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,6,0,6
+516205,2011,Sri Lanka,9,DPMD Jayawardene,d18f9182,SPD Smith,30a45b23,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,0,0,0
+516205,2011,Sri Lanka,9,DPMD Jayawardene,d18f9182,SPD Smith,30a45b23,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,1,0,1
+516205,2011,Sri Lanka,9,KC Sangakkara,6b71e6cf,SPD Smith,30a45b23,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,2,0,2
+516205,2011,Sri Lanka,10,DPMD Jayawardene,d18f9182,DJ Hussey,fd835ab3,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,1,0,1
+516205,2011,Sri Lanka,10,KC Sangakkara,6b71e6cf,DJ Hussey,fd835ab3,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,2,0,2
+516205,2011,Sri Lanka,10,KC Sangakkara,6b71e6cf,DJ Hussey,fd835ab3,DPMD Jayawardene,d18f9182,1,0,0,0,0,,,,,,0,1,1
+516205,2011,Sri Lanka,10,KC Sangakkara,6b71e6cf,DJ Hussey,fd835ab3,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,0,0,0
+516205,2011,Sri Lanka,10,KC Sangakkara,6b71e6cf,DJ Hussey,fd835ab3,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,1,0,1
+516205,2011,Sri Lanka,10,DPMD Jayawardene,d18f9182,DJ Hussey,fd835ab3,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,1,0,1
+516205,2011,Sri Lanka,10,KC Sangakkara,6b71e6cf,DJ Hussey,fd835ab3,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,1,0,1
+516205,2011,Sri Lanka,11,KC Sangakkara,6b71e6cf,SNJ O'Keefe,3540beff,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,0,0,0
+516205,2011,Sri Lanka,11,KC Sangakkara,6b71e6cf,SNJ O'Keefe,3540beff,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,1,0,1
+516205,2011,Sri Lanka,11,DPMD Jayawardene,d18f9182,SNJ O'Keefe,3540beff,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,4,0,4
+516205,2011,Sri Lanka,11,DPMD Jayawardene,d18f9182,SNJ O'Keefe,3540beff,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,1,0,1
+516205,2011,Sri Lanka,11,KC Sangakkara,6b71e6cf,SNJ O'Keefe,3540beff,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,2,0,2
+516205,2011,Sri Lanka,11,KC Sangakkara,6b71e6cf,SNJ O'Keefe,3540beff,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,4,0,4
+516205,2011,Sri Lanka,12,DPMD Jayawardene,d18f9182,JW Hastings,012829ff,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,0,0,0
+516205,2011,Sri Lanka,12,DPMD Jayawardene,d18f9182,JW Hastings,012829ff,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,1,0,1
+516205,2011,Sri Lanka,12,KC Sangakkara,6b71e6cf,JW Hastings,012829ff,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,1,0,1
+516205,2011,Sri Lanka,12,DPMD Jayawardene,d18f9182,JW Hastings,012829ff,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,0,0,0
+516205,2011,Sri Lanka,12,DPMD Jayawardene,d18f9182,JW Hastings,012829ff,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,1,0,1
+516205,2011,Sri Lanka,12,KC Sangakkara,6b71e6cf,JW Hastings,012829ff,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,1,0,1
+516205,2011,Sri Lanka,13,KC Sangakkara,6b71e6cf,SPD Smith,30a45b23,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,6,0,6
+516205,2011,Sri Lanka,13,KC Sangakkara,6b71e6cf,SPD Smith,30a45b23,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,1,0,1
+516205,2011,Sri Lanka,13,DPMD Jayawardene,d18f9182,SPD Smith,30a45b23,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,0,0,0
+516205,2011,Sri Lanka,13,DPMD Jayawardene,d18f9182,SPD Smith,30a45b23,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,0,0,0
+516205,2011,Sri Lanka,13,DPMD Jayawardene,d18f9182,SPD Smith,30a45b23,KC Sangakkara,6b71e6cf,0,0,0,0,0,,,,,,1,0,1
+516205,2011,Sri Lanka,13,KC Sangakkara,6b71e6cf,SPD Smith,30a45b23,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,1,0,1
+516205,2011,Sri Lanka,14,KC Sangakkara,6b71e6cf,JW Hastings,012829ff,DPMD Jayawardene,d18f9182,0,0,0,0,1,KC Sangakkara,6b71e6cf,CL White,d0513f63,caught,0,0,0
+516205,2011,Sri Lanka,14,BMAJ Mendis,9868bc75,JW Hastings,012829ff,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,0,0,0
+516205,2011,Sri Lanka,14,BMAJ Mendis,9868bc75,JW Hastings,012829ff,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,0,0,0
+516205,2011,Sri Lanka,14,BMAJ Mendis,9868bc75,JW Hastings,012829ff,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,1,0,1
+516205,2011,Sri Lanka,14,DPMD Jayawardene,d18f9182,JW Hastings,012829ff,BMAJ Mendis,9868bc75,0,0,1,0,0,,,,,,0,1,1
+516205,2011,Sri Lanka,14,BMAJ Mendis,9868bc75,JW Hastings,012829ff,DPMD Jayawardene,d18f9182,0,0,0,0,1,BMAJ Mendis,9868bc75,,,bowled,0,0,0
+516205,2011,Sri Lanka,15,DPMD Jayawardene,d18f9182,MG Johnson,f5180fe6,AD Mathews,896d78ad,0,0,0,0,0,,,,,,1,0,1
+516205,2011,Sri Lanka,15,AD Mathews,896d78ad,MG Johnson,f5180fe6,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,0,0,0
+516205,2011,Sri Lanka,15,AD Mathews,896d78ad,MG Johnson,f5180fe6,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,1,0,1
+516205,2011,Sri Lanka,15,DPMD Jayawardene,d18f9182,MG Johnson,f5180fe6,AD Mathews,896d78ad,0,0,0,0,0,,,,,,0,0,0
+516205,2011,Sri Lanka,15,DPMD Jayawardene,d18f9182,MG Johnson,f5180fe6,AD Mathews,896d78ad,0,0,0,0,0,,,,,,1,0,1
+516205,2011,Sri Lanka,15,AD Mathews,896d78ad,MG Johnson,f5180fe6,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,4,0,4
+516205,2011,Sri Lanka,16,DPMD Jayawardene,d18f9182,JW Hastings,012829ff,AD Mathews,896d78ad,0,0,0,0,0,,,,,,0,0,0
+516205,2011,Sri Lanka,16,DPMD Jayawardene,d18f9182,JW Hastings,012829ff,AD Mathews,896d78ad,0,0,0,0,0,,,,,,1,0,1
+516205,2011,Sri Lanka,16,AD Mathews,896d78ad,JW Hastings,012829ff,DPMD Jayawardene,d18f9182,0,0,0,0,1,AD Mathews,896d78ad,,,bowled,0,0,0
+516205,2011,Sri Lanka,16,MDK Perera,5531248e,JW Hastings,012829ff,DPMD Jayawardene,d18f9182,0,0,1,0,0,,,,,,0,1,1
+516205,2011,Sri Lanka,16,DPMD Jayawardene,d18f9182,JW Hastings,012829ff,MDK Perera,5531248e,0,0,0,0,0,,,,,,1,0,1
+516205,2011,Sri Lanka,16,MDK Perera,5531248e,JW Hastings,012829ff,DPMD Jayawardene,d18f9182,1,0,0,0,0,,,,,,0,1,1
+516205,2011,Sri Lanka,16,MDK Perera,5531248e,JW Hastings,012829ff,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,0,0,0
+516205,2011,Sri Lanka,17,DPMD Jayawardene,d18f9182,SNJ O'Keefe,3540beff,MDK Perera,5531248e,0,0,0,0,0,,,,,,2,0,2
+516205,2011,Sri Lanka,17,DPMD Jayawardene,d18f9182,SNJ O'Keefe,3540beff,MDK Perera,5531248e,0,0,0,0,0,,,,,,1,0,1
+516205,2011,Sri Lanka,17,MDK Perera,5531248e,SNJ O'Keefe,3540beff,DPMD Jayawardene,d18f9182,0,0,0,0,1,MDK Perera,5531248e,SPD Smith,30a45b23,caught,0,0,0
+516205,2011,Sri Lanka,17,DPMD Jayawardene,d18f9182,SNJ O'Keefe,3540beff,KMDN Kulasekara,469ea22b,0,0,0,0,0,,,,,,1,0,1
+516205,2011,Sri Lanka,17,KMDN Kulasekara,469ea22b,SNJ O'Keefe,3540beff,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,0,0,0
+516205,2011,Sri Lanka,17,KMDN Kulasekara,469ea22b,SNJ O'Keefe,3540beff,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,1,0,1
+516205,2011,Sri Lanka,18,KMDN Kulasekara,469ea22b,JW Hastings,012829ff,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,1,0,1
+516205,2011,Sri Lanka,18,DPMD Jayawardene,d18f9182,JW Hastings,012829ff,KMDN Kulasekara,469ea22b,0,0,0,0,0,,,,,,0,0,0
+516205,2011,Sri Lanka,18,DPMD Jayawardene,d18f9182,JW Hastings,012829ff,KMDN Kulasekara,469ea22b,0,0,0,0,0,,,,,,1,0,1
+516205,2011,Sri Lanka,18,KMDN Kulasekara,469ea22b,JW Hastings,012829ff,DPMD Jayawardene,d18f9182,0,0,0,0,0,,,,,,1,0,1
+516205,2011,Sri Lanka,18,DPMD Jayawardene,d18f9182,JW Hastings,012829ff,KMDN Kulasekara,469ea22b,0,0,0,0,0,,,,,,2,0,2
+516205,2011,Sri Lanka,18,DPMD Jayawardene,d18f9182,JW Hastings,012829ff,KMDN Kulasekara,469ea22b,0,0,0,0,0,,,,,,1,0,1
+516205,2011,Sri Lanka,19,DPMD Jayawardene,d18f9182,B Lee,dd09ff8e,KMDN Kulasekara,469ea22b,0,1,0,0,0,,,,,,0,1,1
+516205,2011,Sri Lanka,19,DPMD Jayawardene,d18f9182,B Lee,dd09ff8e,KMDN Kulasekara,469ea22b,0,0,0,0,0,,,,,,4,0,4
+516205,2011,Sri Lanka,19,DPMD Jayawardene,d18f9182,B Lee,dd09ff8e,KMDN Kulasekara,469ea22b,0,0,0,0,1,DPMD Jayawardene,d18f9182,DJ Hussey,fd835ab3,caught,0,0,0
+516205,2011,Sri Lanka,19,KMDN Kulasekara,469ea22b,B Lee,dd09ff8e,HMRKB Herath,d2fcce2f,0,0,0,0,0,,,,,,1,0,1
+516205,2011,Sri Lanka,19,HMRKB Herath,d2fcce2f,B Lee,dd09ff8e,KMDN Kulasekara,469ea22b,0,0,0,0,0,,,,,,1,0,1
+516205,2011,Sri Lanka,19,KMDN Kulasekara,469ea22b,B Lee,dd09ff8e,HMRKB Herath,d2fcce2f,0,0,0,0,1,KMDN Kulasekara,469ea22b,,,bowled,0,0,0
+516205,2011,Sri Lanka,19,BAW Mendis,ea0cdc12,B Lee,dd09ff8e,HMRKB Herath,d2fcce2f,5,0,0,0,0,,,,,,0,5,5
+516205,2011,Sri Lanka,19,BAW Mendis,ea0cdc12,B Lee,dd09ff8e,HMRKB Herath,d2fcce2f,0,0,0,0,0,,,,,,0,0,0
+516205,2011,Australia,0,SR Watson,4329fbb5,KMDN Kulasekara,469ea22b,DA Warner,dcce6f09,0,0,0,0,0,,,,,,0,0,0
+516205,2011,Australia,0,SR Watson,4329fbb5,KMDN Kulasekara,469ea22b,DA Warner,dcce6f09,0,0,0,0,0,,,,,,0,0,0
+516205,2011,Australia,0,SR Watson,4329fbb5,KMDN Kulasekara,469ea22b,DA Warner,dcce6f09,0,0,0,0,0,,,,,,1,0,1
+516205,2011,Australia,0,DA Warner,dcce6f09,KMDN Kulasekara,469ea22b,SR Watson,4329fbb5,0,0,0,0,0,,,,,,1,0,1
+516205,2011,Australia,0,SR Watson,4329fbb5,KMDN Kulasekara,469ea22b,DA Warner,dcce6f09,0,0,0,0,0,,,,,,0,0,0
+516205,2011,Australia,0,SR Watson,4329fbb5,KMDN Kulasekara,469ea22b,DA Warner,dcce6f09,0,0,0,0,0,,,,,,0,0,0
+516205,2011,Australia,1,DA Warner,dcce6f09,NLTC Perera,0f12f9df,SR Watson,4329fbb5,0,0,0,0,0,,,,,,0,0,0
+516205,2011,Australia,1,DA Warner,dcce6f09,NLTC Perera,0f12f9df,SR Watson,4329fbb5,0,0,0,0,0,,,,,,1,0,1
+516205,2011,Australia,1,SR Watson,4329fbb5,NLTC Perera,0f12f9df,DA Warner,dcce6f09,0,0,0,0,0,,,,,,4,0,4
+516205,2011,Australia,1,SR Watson,4329fbb5,NLTC Perera,0f12f9df,DA Warner,dcce6f09,0,0,0,0,0,,,,,,2,0,2
+516205,2011,Australia,1,SR Watson,4329fbb5,NLTC Perera,0f12f9df,DA Warner,dcce6f09,0,0,0,0,0,,,,,,4,0,4
+516205,2011,Australia,1,SR Watson,4329fbb5,NLTC Perera,0f12f9df,DA Warner,dcce6f09,0,0,0,0,0,,,,,,4,0,4
+516205,2011,Australia,2,DA Warner,dcce6f09,KMDN Kulasekara,469ea22b,SR Watson,4329fbb5,0,0,0,0,0,,,,,,0,0,0
+516205,2011,Australia,2,DA Warner,dcce6f09,KMDN Kulasekara,469ea22b,SR Watson,4329fbb5,0,0,0,0,0,,,,,,4,0,4
+516205,2011,Australia,2,DA Warner,dcce6f09,KMDN Kulasekara,469ea22b,SR Watson,4329fbb5,0,0,0,0,0,,,,,,1,0,1
+516205,2011,Australia,2,SR Watson,4329fbb5,KMDN Kulasekara,469ea22b,DA Warner,dcce6f09,0,0,0,0,0,,,,,,4,0,4
+516205,2011,Australia,2,SR Watson,4329fbb5,KMDN Kulasekara,469ea22b,DA Warner,dcce6f09,0,0,0,0,0,,,,,,0,0,0
+516205,2011,Australia,2,SR Watson,4329fbb5,KMDN Kulasekara,469ea22b,DA Warner,dcce6f09,0,0,0,0,0,,,,,,4,0,4
+516205,2011,Australia,3,DA Warner,dcce6f09,MDK Perera,5531248e,SR Watson,4329fbb5,0,0,0,0,0,,,,,,4,0,4
+516205,2011,Australia,3,DA Warner,dcce6f09,MDK Perera,5531248e,SR Watson,4329fbb5,0,0,0,0,0,,,,,,0,0,0
+516205,2011,Australia,3,DA Warner,dcce6f09,MDK Perera,5531248e,SR Watson,4329fbb5,0,0,0,0,0,,,,,,1,0,1
+516205,2011,Australia,3,SR Watson,4329fbb5,MDK Perera,5531248e,DA Warner,dcce6f09,0,0,0,0,0,,,,,,0,0,0
+516205,2011,Australia,3,SR Watson,4329fbb5,MDK Perera,5531248e,DA Warner,dcce6f09,0,0,0,0,0,,,,,,6,0,6
+516205,2011,Australia,3,SR Watson,4329fbb5,MDK Perera,5531248e,DA Warner,dcce6f09,0,0,0,0,0,,,,,,6,0,6
+516205,2011,Australia,4,DA Warner,dcce6f09,HMRKB Herath,d2fcce2f,SR Watson,4329fbb5,0,0,0,0,0,,,,,,1,0,1
+516205,2011,Australia,4,SR Watson,4329fbb5,HMRKB Herath,d2fcce2f,DA Warner,dcce6f09,0,0,0,0,0,,,,,,0,0,0
+516205,2011,Australia,4,SR Watson,4329fbb5,HMRKB Herath,d2fcce2f,DA Warner,dcce6f09,0,0,0,0,0,,,,,,6,0,6
+516205,2011,Australia,4,SR Watson,4329fbb5,HMRKB Herath,d2fcce2f,DA Warner,dcce6f09,0,0,0,0,0,,,,,,6,0,6
+516205,2011,Australia,4,SR Watson,4329fbb5,HMRKB Herath,d2fcce2f,DA Warner,dcce6f09,0,0,0,0,0,,,,,,0,0,0
+516205,2011,Australia,4,SR Watson,4329fbb5,HMRKB Herath,d2fcce2f,DA Warner,dcce6f09,0,0,0,0,0,,,,,,4,0,4
+516205,2011,Australia,5,DA Warner,dcce6f09,BAW Mendis,ea0cdc12,SR Watson,4329fbb5,0,0,0,0,0,,,,,,1,0,1
+516205,2011,Australia,5,SR Watson,4329fbb5,BAW Mendis,ea0cdc12,DA Warner,dcce6f09,0,0,0,0,0,,,,,,0,0,0
+516205,2011,Australia,5,SR Watson,4329fbb5,BAW Mendis,ea0cdc12,DA Warner,dcce6f09,0,0,0,0,0,,,,,,6,0,6
+516205,2011,Australia,5,SR Watson,4329fbb5,BAW Mendis,ea0cdc12,DA Warner,dcce6f09,0,0,0,0,0,,,,,,0,0,0
+516205,2011,Australia,5,SR Watson,4329fbb5,BAW Mendis,ea0cdc12,DA Warner,dcce6f09,0,0,0,0,1,SR Watson,4329fbb5,NLTC Perera,0f12f9df,caught,0,0,0
+516205,2011,Australia,5,DA Warner,dcce6f09,BAW Mendis,ea0cdc12,DJ Hussey,fd835ab3,0,0,0,0,0,,,,,,1,0,1
+516205,2011,Australia,6,DA Warner,dcce6f09,HMRKB Herath,d2fcce2f,DJ Hussey,fd835ab3,0,0,0,0,0,,,,,,0,0,0
+516205,2011,Australia,6,DA Warner,dcce6f09,HMRKB Herath,d2fcce2f,DJ Hussey,fd835ab3,0,0,0,0,0,,,,,,0,0,0
+516205,2011,Australia,6,DA Warner,dcce6f09,HMRKB Herath,d2fcce2f,DJ Hussey,fd835ab3,0,0,0,0,0,,,,,,0,0,0
+516205,2011,Australia,6,DA Warner,dcce6f09,HMRKB Herath,d2fcce2f,DJ Hussey,fd835ab3,0,0,0,0,0,,,,,,0,0,0
+516205,2011,Australia,6,DA Warner,dcce6f09,HMRKB Herath,d2fcce2f,DJ Hussey,fd835ab3,0,0,0,0,0,,,,,,1,0,1
+516205,2011,Australia,6,DJ Hussey,fd835ab3,HMRKB Herath,d2fcce2f,DA Warner,dcce6f09,0,0,0,0,0,,,,,,0,0,0
+516205,2011,Australia,7,DA Warner,dcce6f09,BAW Mendis,ea0cdc12,DJ Hussey,fd835ab3,0,0,0,0,1,DA Warner,dcce6f09,DPMD Jayawardene,d18f9182,caught,0,0,0
+516205,2011,Australia,7,SE Marsh,508a1ea7,BAW Mendis,ea0cdc12,DJ Hussey,fd835ab3,0,0,0,0,0,,,,,,0,0,0
+516205,2011,Australia,7,SE Marsh,508a1ea7,BAW Mendis,ea0cdc12,DJ Hussey,fd835ab3,0,0,0,0,0,,,,,,0,0,0
+516205,2011,Australia,7,SE Marsh,508a1ea7,BAW Mendis,ea0cdc12,DJ Hussey,fd835ab3,0,0,0,0,1,SE Marsh,508a1ea7,KC Sangakkara,6b71e6cf,stumped,0,0,0
+516205,2011,Australia,7,CL White,d0513f63,BAW Mendis,ea0cdc12,DJ Hussey,fd835ab3,0,0,0,0,0,,,,,,0,0,0
+516205,2011,Australia,7,CL White,d0513f63,BAW Mendis,ea0cdc12,DJ Hussey,fd835ab3,0,0,0,0,0,,,,,,0,0,0
+516205,2011,Australia,8,DJ Hussey,fd835ab3,HMRKB Herath,d2fcce2f,CL White,d0513f63,0,0,0,0,0,,,,,,2,0,2
+516205,2011,Australia,8,DJ Hussey,fd835ab3,HMRKB Herath,d2fcce2f,CL White,d0513f63,0,0,0,0,1,DJ Hussey,fd835ab3,,,bowled,0,0,0
+516205,2011,Australia,8,SPD Smith,30a45b23,HMRKB Herath,d2fcce2f,CL White,d0513f63,0,0,0,0,0,,,,,,0,0,0
+516205,2011,Australia,8,SPD Smith,30a45b23,HMRKB Herath,d2fcce2f,CL White,d0513f63,0,0,0,0,0,,,,,,0,0,0
+516205,2011,Australia,8,SPD Smith,30a45b23,HMRKB Herath,d2fcce2f,CL White,d0513f63,0,0,0,0,0,,,,,,0,0,0
+516205,2011,Australia,8,SPD Smith,30a45b23,HMRKB Herath,d2fcce2f,CL White,d0513f63,0,0,0,0,0,,,,,,0,0,0
+516205,2011,Australia,9,CL White,d0513f63,MDK Perera,5531248e,SPD Smith,30a45b23,0,0,0,0,0,,,,,,0,0,0
+516205,2011,Australia,9,CL White,d0513f63,MDK Perera,5531248e,SPD Smith,30a45b23,0,0,1,0,0,,,,,,0,1,1
+516205,2011,Australia,9,SPD Smith,30a45b23,MDK Perera,5531248e,CL White,d0513f63,0,0,0,0,0,,,,,,0,0,0
+516205,2011,Australia,9,SPD Smith,30a45b23,MDK Perera,5531248e,CL White,d0513f63,0,0,0,0,0,,,,,,1,0,1
+516205,2011,Australia,9,CL White,d0513f63,MDK Perera,5531248e,SPD Smith,30a45b23,0,0,0,0,0,,,,,,1,0,1
+516205,2011,Australia,9,SPD Smith,30a45b23,MDK Perera,5531248e,CL White,d0513f63,0,0,0,0,0,,,,,,0,0,0
+516205,2011,Australia,10,CL White,d0513f63,BMAJ Mendis,9868bc75,SPD Smith,30a45b23,0,0,0,0,0,,,,,,0,0,0
+516205,2011,Australia,10,CL White,d0513f63,BMAJ Mendis,9868bc75,SPD Smith,30a45b23,0,0,0,0,0,,,,,,2,0,2
+516205,2011,Australia,10,CL White,d0513f63,BMAJ Mendis,9868bc75,SPD Smith,30a45b23,0,0,0,0,0,,,,,,0,0,0
+516205,2011,Australia,10,CL White,d0513f63,BMAJ Mendis,9868bc75,SPD Smith,30a45b23,0,0,0,0,0,,,,,,0,0,0
+516205,2011,Australia,10,CL White,d0513f63,BMAJ Mendis,9868bc75,SPD Smith,30a45b23,0,0,0,0,0,,,,,,0,0,0
+516205,2011,Australia,10,CL White,d0513f63,BMAJ Mendis,9868bc75,SPD Smith,30a45b23,0,0,0,0,0,,,,,,1,0,1
+516205,2011,Australia,11,CL White,d0513f63,MDK Perera,5531248e,SPD Smith,30a45b23,0,0,0,0,0,,,,,,1,0,1
+516205,2011,Australia,11,SPD Smith,30a45b23,MDK Perera,5531248e,CL White,d0513f63,0,0,0,0,0,,,,,,1,0,1
+516205,2011,Australia,11,CL White,d0513f63,MDK Perera,5531248e,SPD Smith,30a45b23,0,0,1,0,0,,,,,,0,1,1
+516205,2011,Australia,11,SPD Smith,30a45b23,MDK Perera,5531248e,CL White,d0513f63,0,0,0,0,0,,,,,,0,0,0
+516205,2011,Australia,11,SPD Smith,30a45b23,MDK Perera,5531248e,CL White,d0513f63,0,0,0,0,0,,,,,,4,0,4
+516205,2011,Australia,11,SPD Smith,30a45b23,MDK Perera,5531248e,CL White,d0513f63,0,0,0,0,0,,,,,,1,0,1
+516205,2011,Australia,12,SPD Smith,30a45b23,BMAJ Mendis,9868bc75,CL White,d0513f63,0,0,0,0,0,,,,,,1,0,1
+516205,2011,Australia,12,CL White,d0513f63,BMAJ Mendis,9868bc75,SPD Smith,30a45b23,0,0,0,0,0,,,,,,0,0,0
+516205,2011,Australia,12,CL White,d0513f63,BMAJ Mendis,9868bc75,SPD Smith,30a45b23,0,0,0,0,0,,,,,,0,0,0
+516205,2011,Australia,12,CL White,d0513f63,BMAJ Mendis,9868bc75,SPD Smith,30a45b23,0,0,0,0,0,,,,,,6,0,6
+516205,2011,Australia,12,CL White,d0513f63,BMAJ Mendis,9868bc75,SPD Smith,30a45b23,0,0,0,0,0,,,,,,0,0,0
+516205,2011,Australia,12,CL White,d0513f63,BMAJ Mendis,9868bc75,SPD Smith,30a45b23,0,0,0,0,0,,,,,,0,0,0
+516205,2011,Australia,13,SPD Smith,30a45b23,HMRKB Herath,d2fcce2f,CL White,d0513f63,0,0,0,0,0,,,,,,0,0,0
+516205,2011,Australia,13,SPD Smith,30a45b23,HMRKB Herath,d2fcce2f,CL White,d0513f63,0,0,0,0,0,,,,,,1,0,1
+516205,2011,Australia,13,CL White,d0513f63,HMRKB Herath,d2fcce2f,SPD Smith,30a45b23,0,0,0,0,0,,,,,,6,0,6
+516205,2011,Australia,13,CL White,d0513f63,HMRKB Herath,d2fcce2f,SPD Smith,30a45b23,0,0,0,0,0,,,,,,2,0,2
+516205,2011,Australia,13,CL White,d0513f63,HMRKB Herath,d2fcce2f,SPD Smith,30a45b23,0,0,0,0,0,,,,,,1,0,1
+516205,2011,Australia,13,SPD Smith,30a45b23,HMRKB Herath,d2fcce2f,CL White,d0513f63,1,0,0,0,0,,,,,,0,1,1
+516205,2011,Australia,13,SPD Smith,30a45b23,HMRKB Herath,d2fcce2f,CL White,d0513f63,0,0,0,0,0,,,,,,0,0,0
+516205,2011,Australia,14,CL White,d0513f63,BMAJ Mendis,9868bc75,SPD Smith,30a45b23,0,0,0,0,0,,,,,,1,0,1
+516205,2011,Australia,14,SPD Smith,30a45b23,BMAJ Mendis,9868bc75,CL White,d0513f63,0,0,0,0,0,,,,,,1,0,1
+516205,2011,Australia,14,CL White,d0513f63,BMAJ Mendis,9868bc75,SPD Smith,30a45b23,0,0,0,0,0,,,,,,1,0,1
+516205,2011,Australia,14,SPD Smith,30a45b23,BMAJ Mendis,9868bc75,CL White,d0513f63,0,0,0,0,0,,,,,,1,0,1
+516205,2011,Australia,14,CL White,d0513f63,BMAJ Mendis,9868bc75,SPD Smith,30a45b23,0,0,0,0,0,,,,,,1,0,1
+516205,2011,Australia,14,SPD Smith,30a45b23,BMAJ Mendis,9868bc75,CL White,d0513f63,0,0,0,0,0,,,,,,1,0,1
+516205,2011,Australia,15,SPD Smith,30a45b23,BAW Mendis,ea0cdc12,CL White,d0513f63,0,0,0,0,1,SPD Smith,30a45b23,,,bowled,0,0,0
+516205,2011,Australia,15,BJ Haddin,b0c772ee,BAW Mendis,ea0cdc12,CL White,d0513f63,0,0,0,0,1,BJ Haddin,b0c772ee,,,bowled,0,0,0
+516205,2011,Australia,15,MG Johnson,f5180fe6,BAW Mendis,ea0cdc12,CL White,d0513f63,0,0,0,0,0,,,,,,2,0,2
+516205,2011,Australia,15,MG Johnson,f5180fe6,BAW Mendis,ea0cdc12,CL White,d0513f63,0,0,0,0,0,,,,,,0,0,0
+516205,2011,Australia,15,MG Johnson,f5180fe6,BAW Mendis,ea0cdc12,CL White,d0513f63,0,0,0,0,0,,,,,,0,0,0
+516205,2011,Australia,15,MG Johnson,f5180fe6,BAW Mendis,ea0cdc12,CL White,d0513f63,0,0,0,0,0,,,,,,1,0,1
+516205,2011,Australia,16,MG Johnson,f5180fe6,BMAJ Mendis,9868bc75,CL White,d0513f63,0,0,0,0,0,,,,,,0,0,0
+516205,2011,Australia,16,MG Johnson,f5180fe6,BMAJ Mendis,9868bc75,CL White,d0513f63,0,0,0,0,0,,,,,,1,0,1
+516205,2011,Australia,16,CL White,d0513f63,BMAJ Mendis,9868bc75,MG Johnson,f5180fe6,0,0,0,0,0,,,,,,1,0,1
+516205,2011,Australia,16,MG Johnson,f5180fe6,BMAJ Mendis,9868bc75,CL White,d0513f63,0,0,0,0,0,,,,,,0,0,0
+516205,2011,Australia,16,MG Johnson,f5180fe6,BMAJ Mendis,9868bc75,CL White,d0513f63,0,0,0,0,0,,,,,,1,0,1
+516205,2011,Australia,16,CL White,d0513f63,BMAJ Mendis,9868bc75,MG Johnson,f5180fe6,0,0,0,0,0,,,,,,4,0,4
+516205,2011,Australia,17,MG Johnson,f5180fe6,BAW Mendis,ea0cdc12,CL White,d0513f63,0,0,0,4,0,,,,,,0,4,4
+516205,2011,Australia,17,MG Johnson,f5180fe6,BAW Mendis,ea0cdc12,CL White,d0513f63,0,0,0,0,0,,,,,,2,0,2
+516205,2011,Australia,17,MG Johnson,f5180fe6,BAW Mendis,ea0cdc12,CL White,d0513f63,0,0,0,0,1,MG Johnson,f5180fe6,,,bowled,0,0,0
+516205,2011,Australia,17,SNJ O'Keefe,3540beff,BAW Mendis,ea0cdc12,CL White,d0513f63,0,0,0,0,0,,,,,,1,0,1
+516205,2011,Australia,17,CL White,d0513f63,BAW Mendis,ea0cdc12,SNJ O'Keefe,3540beff,0,0,0,0,1,SNJ O'Keefe,3540beff,DPMD Jayawardene,d18f9182,run out,1,0,1
+516205,2011,Australia,17,CL White,d0513f63,BAW Mendis,ea0cdc12,JW Hastings,012829ff,0,0,0,0,0,,,,,,1,0,1
+516205,2011,Australia,18,CL White,d0513f63,KMDN Kulasekara,469ea22b,JW Hastings,012829ff,0,1,0,0,0,,,,,,1,1,2
+516205,2011,Australia,18,JW Hastings,012829ff,KMDN Kulasekara,469ea22b,CL White,d0513f63,0,0,0,0,0,,,,,,0,0,0
+516205,2011,Australia,18,JW Hastings,012829ff,KMDN Kulasekara,469ea22b,CL White,d0513f63,0,0,0,0,0,,,,,,0,0,0
+516205,2011,Australia,18,JW Hastings,012829ff,KMDN Kulasekara,469ea22b,CL White,d0513f63,0,0,0,0,0,,,,,,0,0,0
+516205,2011,Australia,18,JW Hastings,012829ff,KMDN Kulasekara,469ea22b,CL White,d0513f63,0,0,0,0,0,,,,,,1,0,1
+516205,2011,Australia,18,CL White,d0513f63,KMDN Kulasekara,469ea22b,JW Hastings,012829ff,0,0,0,0,0,,,,,,2,0,2
+516205,2011,Australia,18,CL White,d0513f63,KMDN Kulasekara,469ea22b,JW Hastings,012829ff,0,0,0,0,0,,,,,,6,0,6
+516205,2011,Australia,19,JW Hastings,012829ff,NLTC Perera,0f12f9df,CL White,d0513f63,0,0,0,0,0,,,,,,1,0,1
+516205,2011,Australia,19,CL White,d0513f63,NLTC Perera,0f12f9df,JW Hastings,012829ff,0,0,0,0,1,CL White,d0513f63,,,bowled,0,0,0
+516205,2011,Australia,19,B Lee,dd09ff8e,NLTC Perera,0f12f9df,JW Hastings,012829ff,0,0,0,0,0,,,,,,2,0,2
+516205,2011,Australia,19,B Lee,dd09ff8e,NLTC Perera,0f12f9df,JW Hastings,012829ff,0,0,0,0,0,,,,,,1,0,1
+516205,2011,Australia,19,JW Hastings,012829ff,NLTC Perera,0f12f9df,B Lee,dd09ff8e,0,0,0,0,0,,,,,,1,0,1
+516205,2011,Australia,19,B Lee,dd09ff8e,NLTC Perera,0f12f9df,JW Hastings,012829ff,0,0,0,0,0,,,,,,1,0,1

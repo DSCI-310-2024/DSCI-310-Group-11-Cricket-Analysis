@@ -1,0 +1,58 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1115799,2017/18,New Zealand,0,MJ Guptill,2be41edb,SS Cottrell,a1d053dd,C Munro,af2c687b,0,0,0,0,0,,,,,,0,0,0
+1115799,2017/18,New Zealand,0,MJ Guptill,2be41edb,SS Cottrell,a1d053dd,C Munro,af2c687b,0,0,0,0,0,,,,,,2,0,2
+1115799,2017/18,New Zealand,0,MJ Guptill,2be41edb,SS Cottrell,a1d053dd,C Munro,af2c687b,0,0,0,0,0,,,,,,0,0,0
+1115799,2017/18,New Zealand,0,MJ Guptill,2be41edb,SS Cottrell,a1d053dd,C Munro,af2c687b,1,0,0,0,0,,,,,,0,1,1
+1115799,2017/18,New Zealand,0,MJ Guptill,2be41edb,SS Cottrell,a1d053dd,C Munro,af2c687b,0,0,0,0,1,MJ Guptill,2be41edb,CAK Walton,bbff906c,caught,0,0,0
+1115799,2017/18,New Zealand,0,KS Williamson,d027ba9f,SS Cottrell,a1d053dd,C Munro,af2c687b,0,0,0,0,0,,,,,,0,0,0
+1115799,2017/18,New Zealand,0,KS Williamson,d027ba9f,SS Cottrell,a1d053dd,C Munro,af2c687b,0,0,0,0,0,,,,,,1,0,1
+1115799,2017/18,New Zealand,1,KS Williamson,d027ba9f,S Badree,76388dc8,C Munro,af2c687b,0,0,0,0,0,,,,,,2,0,2
+1115799,2017/18,New Zealand,1,KS Williamson,d027ba9f,S Badree,76388dc8,C Munro,af2c687b,0,0,0,0,0,,,,,,1,0,1
+1115799,2017/18,New Zealand,1,C Munro,af2c687b,S Badree,76388dc8,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,0,0,0
+1115799,2017/18,New Zealand,1,C Munro,af2c687b,S Badree,76388dc8,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,4,0,4
+1115799,2017/18,New Zealand,1,C Munro,af2c687b,S Badree,76388dc8,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,0,0,0
+1115799,2017/18,New Zealand,1,C Munro,af2c687b,S Badree,76388dc8,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,4,0,4
+1115799,2017/18,New Zealand,2,KS Williamson,d027ba9f,SS Cottrell,a1d053dd,C Munro,af2c687b,0,0,0,0,0,,,,,,1,0,1
+1115799,2017/18,New Zealand,2,C Munro,af2c687b,SS Cottrell,a1d053dd,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,6,0,6
+1115799,2017/18,New Zealand,2,C Munro,af2c687b,SS Cottrell,a1d053dd,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,2,0,2
+1115799,2017/18,New Zealand,2,C Munro,af2c687b,SS Cottrell,a1d053dd,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,6,0,6
+1115799,2017/18,New Zealand,2,C Munro,af2c687b,SS Cottrell,a1d053dd,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,1,0,1
+1115799,2017/18,New Zealand,2,KS Williamson,d027ba9f,SS Cottrell,a1d053dd,C Munro,af2c687b,0,0,0,0,0,,,,,,1,0,1
+1115799,2017/18,New Zealand,3,KS Williamson,d027ba9f,S Badree,76388dc8,C Munro,af2c687b,0,0,0,0,0,,,,,,1,0,1
+1115799,2017/18,New Zealand,3,C Munro,af2c687b,S Badree,76388dc8,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,4,0,4
+1115799,2017/18,New Zealand,3,C Munro,af2c687b,S Badree,76388dc8,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,0,0,0
+1115799,2017/18,New Zealand,3,C Munro,af2c687b,S Badree,76388dc8,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,0,0,0
+1115799,2017/18,New Zealand,3,C Munro,af2c687b,S Badree,76388dc8,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,4,0,4
+1115799,2017/18,New Zealand,3,C Munro,af2c687b,S Badree,76388dc8,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,0,0,0
+1115799,2017/18,New Zealand,4,KS Williamson,d027ba9f,CR Brathwaite,e342e5fb,C Munro,af2c687b,0,0,0,0,0,,,,,,1,0,1
+1115799,2017/18,New Zealand,4,C Munro,af2c687b,CR Brathwaite,e342e5fb,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,6,0,6
+1115799,2017/18,New Zealand,4,C Munro,af2c687b,CR Brathwaite,e342e5fb,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,4,0,4
+1115799,2017/18,New Zealand,4,C Munro,af2c687b,CR Brathwaite,e342e5fb,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,4,0,4
+1115799,2017/18,New Zealand,4,C Munro,af2c687b,CR Brathwaite,e342e5fb,KS Williamson,d027ba9f,1,0,0,0,0,,,,,,0,1,1
+1115799,2017/18,New Zealand,4,C Munro,af2c687b,CR Brathwaite,e342e5fb,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,4,0,4
+1115799,2017/18,New Zealand,4,C Munro,af2c687b,CR Brathwaite,e342e5fb,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,1,0,1
+1115799,2017/18,New Zealand,5,C Munro,af2c687b,KOK Williams,78cb83f3,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,4,0,4
+1115799,2017/18,New Zealand,5,C Munro,af2c687b,KOK Williams,78cb83f3,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,4,0,4
+1115799,2017/18,New Zealand,5,C Munro,af2c687b,KOK Williams,78cb83f3,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,4,0,4
+1115799,2017/18,New Zealand,5,C Munro,af2c687b,KOK Williams,78cb83f3,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,4,0,4
+1115799,2017/18,New Zealand,5,C Munro,af2c687b,KOK Williams,78cb83f3,KS Williamson,d027ba9f,0,0,0,0,1,C Munro,af2c687b,R Powell,650d5e49,caught,0,0,0
+1115799,2017/18,New Zealand,5,KS Williamson,d027ba9f,KOK Williams,78cb83f3,GD Phillips,9a46c4e5,0,1,0,0,0,,,,,,1,1,2
+1115799,2017/18,New Zealand,5,GD Phillips,9a46c4e5,KOK Williams,78cb83f3,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,6,0,6
+1115799,2017/18,New Zealand,6,KS Williamson,d027ba9f,AR Nurse,4a745f65,GD Phillips,9a46c4e5,0,0,0,0,0,,,,,,1,0,1
+1115799,2017/18,New Zealand,6,GD Phillips,9a46c4e5,AR Nurse,4a745f65,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,1,0,1
+1115799,2017/18,New Zealand,6,KS Williamson,d027ba9f,AR Nurse,4a745f65,GD Phillips,9a46c4e5,0,0,0,0,0,,,,,,0,0,0
+1115799,2017/18,New Zealand,6,KS Williamson,d027ba9f,AR Nurse,4a745f65,GD Phillips,9a46c4e5,0,0,0,0,0,,,,,,1,0,1
+1115799,2017/18,New Zealand,6,GD Phillips,9a46c4e5,AR Nurse,4a745f65,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,2,0,2
+1115799,2017/18,New Zealand,6,GD Phillips,9a46c4e5,AR Nurse,4a745f65,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,1,0,1
+1115799,2017/18,New Zealand,7,GD Phillips,9a46c4e5,S Badree,76388dc8,KS Williamson,d027ba9f,0,0,0,0,1,GD Phillips,9a46c4e5,,,lbw,0,0,0
+1115799,2017/18,New Zealand,7,TC Bruce,f92c9151,S Badree,76388dc8,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,0,0,0
+1115799,2017/18,New Zealand,7,TC Bruce,f92c9151,S Badree,76388dc8,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,0,0,0
+1115799,2017/18,New Zealand,7,TC Bruce,f92c9151,S Badree,76388dc8,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,0,0,0
+1115799,2017/18,New Zealand,7,TC Bruce,f92c9151,S Badree,76388dc8,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,1,0,1
+1115799,2017/18,New Zealand,7,KS Williamson,d027ba9f,S Badree,76388dc8,TC Bruce,f92c9151,0,0,0,0,0,,,,,,2,0,2
+1115799,2017/18,New Zealand,8,TC Bruce,f92c9151,AR Nurse,4a745f65,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,0,0,0
+1115799,2017/18,New Zealand,8,TC Bruce,f92c9151,AR Nurse,4a745f65,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,2,0,2
+1115799,2017/18,New Zealand,8,TC Bruce,f92c9151,AR Nurse,4a745f65,KS Williamson,d027ba9f,0,0,0,0,1,TC Bruce,f92c9151,CR Brathwaite,e342e5fb,caught,0,0,0
+1115799,2017/18,New Zealand,8,AK Kitchen,63a1874a,AR Nurse,4a745f65,KS Williamson,d027ba9f,0,0,0,0,0,,,,,,1,0,1
+1115799,2017/18,New Zealand,8,KS Williamson,d027ba9f,AR Nurse,4a745f65,AK Kitchen,63a1874a,0,0,0,0,0,,,,,,0,0,0
+1115799,2017/18,New Zealand,8,KS Williamson,d027ba9f,AR Nurse,4a745f65,AK Kitchen,63a1874a,0,0,0,0,0,,,,,,4,0,4

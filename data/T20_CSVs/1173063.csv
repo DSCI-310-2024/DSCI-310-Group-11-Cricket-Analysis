@@ -1,0 +1,230 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1173063,2019/20,England,0,DN Wyatt,a139c379,SC Selman,c29ada99,TT Beaumont,b2664905,0,0,0,0,0,,,,,,0,0,0
+1173063,2019/20,England,0,DN Wyatt,a139c379,SC Selman,c29ada99,TT Beaumont,b2664905,0,0,0,0,0,,,,,,1,0,1
+1173063,2019/20,England,0,TT Beaumont,b2664905,SC Selman,c29ada99,DN Wyatt,a139c379,0,0,0,0,0,,,,,,0,0,0
+1173063,2019/20,England,0,TT Beaumont,b2664905,SC Selman,c29ada99,DN Wyatt,a139c379,0,0,0,0,1,TT Beaumont,b2664905,,,lbw,0,0,0
+1173063,2019/20,England,0,NR Sciver,f3a18a0c,SC Selman,c29ada99,DN Wyatt,a139c379,0,0,0,0,0,,,,,,0,0,0
+1173063,2019/20,England,0,NR Sciver,f3a18a0c,SC Selman,c29ada99,DN Wyatt,a139c379,0,0,0,0,0,,,,,,0,0,0
+1173063,2019/20,England,1,DN Wyatt,a139c379,AA Alleyne,4b0e3049,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,0,0,0
+1173063,2019/20,England,1,DN Wyatt,a139c379,AA Alleyne,4b0e3049,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,1,0,1
+1173063,2019/20,England,1,NR Sciver,f3a18a0c,AA Alleyne,4b0e3049,DN Wyatt,a139c379,0,0,0,0,0,,,,,,0,0,0
+1173063,2019/20,England,1,NR Sciver,f3a18a0c,AA Alleyne,4b0e3049,DN Wyatt,a139c379,0,0,0,0,0,,,,,,0,0,0
+1173063,2019/20,England,1,NR Sciver,f3a18a0c,AA Alleyne,4b0e3049,DN Wyatt,a139c379,0,0,0,0,0,,,,,,4,0,4
+1173063,2019/20,England,1,NR Sciver,f3a18a0c,AA Alleyne,4b0e3049,DN Wyatt,a139c379,0,0,0,0,0,,,,,,0,0,0
+1173063,2019/20,England,2,DN Wyatt,a139c379,SC Selman,c29ada99,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,1,0,1
+1173063,2019/20,England,2,NR Sciver,f3a18a0c,SC Selman,c29ada99,DN Wyatt,a139c379,0,0,0,0,0,,,,,,0,0,0
+1173063,2019/20,England,2,NR Sciver,f3a18a0c,SC Selman,c29ada99,DN Wyatt,a139c379,0,0,0,0,0,,,,,,1,0,1
+1173063,2019/20,England,2,DN Wyatt,a139c379,SC Selman,c29ada99,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,2,0,2
+1173063,2019/20,England,2,DN Wyatt,a139c379,SC Selman,c29ada99,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,0,0,0
+1173063,2019/20,England,2,DN Wyatt,a139c379,SC Selman,c29ada99,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,1,0,1
+1173063,2019/20,England,3,DN Wyatt,a139c379,AA Alleyne,4b0e3049,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,1,0,1
+1173063,2019/20,England,3,NR Sciver,f3a18a0c,AA Alleyne,4b0e3049,DN Wyatt,a139c379,0,0,0,0,0,,,,,,4,0,4
+1173063,2019/20,England,3,NR Sciver,f3a18a0c,AA Alleyne,4b0e3049,DN Wyatt,a139c379,0,0,0,0,0,,,,,,1,0,1
+1173063,2019/20,England,3,DN Wyatt,a139c379,AA Alleyne,4b0e3049,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,1,0,1
+1173063,2019/20,England,3,NR Sciver,f3a18a0c,AA Alleyne,4b0e3049,DN Wyatt,a139c379,0,0,0,0,0,,,,,,2,0,2
+1173063,2019/20,England,3,NR Sciver,f3a18a0c,AA Alleyne,4b0e3049,DN Wyatt,a139c379,0,0,0,0,0,,,,,,4,0,4
+1173063,2019/20,England,4,DN Wyatt,a139c379,HK Matthews,d32cf49a,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,2,0,2
+1173063,2019/20,England,4,DN Wyatt,a139c379,HK Matthews,d32cf49a,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,4,0,4
+1173063,2019/20,England,4,DN Wyatt,a139c379,HK Matthews,d32cf49a,NR Sciver,f3a18a0c,1,0,0,0,0,,,,,,0,1,1
+1173063,2019/20,England,4,DN Wyatt,a139c379,HK Matthews,d32cf49a,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,1,0,1
+1173063,2019/20,England,4,NR Sciver,f3a18a0c,HK Matthews,d32cf49a,DN Wyatt,a139c379,0,0,0,0,0,,,,,,1,0,1
+1173063,2019/20,England,4,DN Wyatt,a139c379,HK Matthews,d32cf49a,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,0,0,0
+1173063,2019/20,England,4,DN Wyatt,a139c379,HK Matthews,d32cf49a,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,1,0,1
+1173063,2019/20,England,5,DN Wyatt,a139c379,ASS Fletcher,42d9dd09,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,4,0,4
+1173063,2019/20,England,5,DN Wyatt,a139c379,ASS Fletcher,42d9dd09,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,1,0,1
+1173063,2019/20,England,5,NR Sciver,f3a18a0c,ASS Fletcher,42d9dd09,DN Wyatt,a139c379,0,0,0,0,0,,,,,,0,0,0
+1173063,2019/20,England,5,NR Sciver,f3a18a0c,ASS Fletcher,42d9dd09,DN Wyatt,a139c379,0,0,0,0,0,,,,,,0,0,0
+1173063,2019/20,England,5,NR Sciver,f3a18a0c,ASS Fletcher,42d9dd09,DN Wyatt,a139c379,0,0,0,0,0,,,,,,0,0,0
+1173063,2019/20,England,5,NR Sciver,f3a18a0c,ASS Fletcher,42d9dd09,DN Wyatt,a139c379,0,0,0,0,0,,,,,,0,0,0
+1173063,2019/20,England,6,DN Wyatt,a139c379,A Mohammed,a49985e6,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,0,0,0
+1173063,2019/20,England,6,DN Wyatt,a139c379,A Mohammed,a49985e6,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,1,0,1
+1173063,2019/20,England,6,NR Sciver,f3a18a0c,A Mohammed,a49985e6,DN Wyatt,a139c379,0,0,0,0,0,,,,,,0,0,0
+1173063,2019/20,England,6,NR Sciver,f3a18a0c,A Mohammed,a49985e6,DN Wyatt,a139c379,0,0,0,0,0,,,,,,0,0,0
+1173063,2019/20,England,6,NR Sciver,f3a18a0c,A Mohammed,a49985e6,DN Wyatt,a139c379,0,0,0,0,0,,,,,,1,0,1
+1173063,2019/20,England,6,DN Wyatt,a139c379,A Mohammed,a49985e6,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,1,0,1
+1173063,2019/20,England,7,DN Wyatt,a139c379,ASS Fletcher,42d9dd09,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,0,0,0
+1173063,2019/20,England,7,DN Wyatt,a139c379,ASS Fletcher,42d9dd09,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,2,0,2
+1173063,2019/20,England,7,DN Wyatt,a139c379,ASS Fletcher,42d9dd09,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,1,0,1
+1173063,2019/20,England,7,NR Sciver,f3a18a0c,ASS Fletcher,42d9dd09,DN Wyatt,a139c379,0,0,0,0,0,,,,,,1,0,1
+1173063,2019/20,England,7,DN Wyatt,a139c379,ASS Fletcher,42d9dd09,NR Sciver,f3a18a0c,0,0,0,2,0,,,,,,0,2,2
+1173063,2019/20,England,7,DN Wyatt,a139c379,ASS Fletcher,42d9dd09,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,1,0,1
+1173063,2019/20,England,8,DN Wyatt,a139c379,A Mohammed,a49985e6,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,2,0,2
+1173063,2019/20,England,8,DN Wyatt,a139c379,A Mohammed,a49985e6,NR Sciver,f3a18a0c,0,0,0,0,1,DN Wyatt,a139c379,SC Selman,c29ada99,caught,0,0,0
+1173063,2019/20,England,8,NR Sciver,f3a18a0c,A Mohammed,a49985e6,HC Knight,4ba0289e,0,0,0,0,0,,,,,,1,0,1
+1173063,2019/20,England,8,HC Knight,4ba0289e,A Mohammed,a49985e6,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,0,0,0
+1173063,2019/20,England,8,HC Knight,4ba0289e,A Mohammed,a49985e6,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,1,0,1
+1173063,2019/20,England,8,NR Sciver,f3a18a0c,A Mohammed,a49985e6,HC Knight,4ba0289e,0,0,0,0,0,,,,,,1,0,1
+1173063,2019/20,England,9,NR Sciver,f3a18a0c,SR Taylor,92cf79a8,HC Knight,4ba0289e,0,0,0,0,0,,,,,,1,0,1
+1173063,2019/20,England,9,HC Knight,4ba0289e,SR Taylor,92cf79a8,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,1,0,1
+1173063,2019/20,England,9,NR Sciver,f3a18a0c,SR Taylor,92cf79a8,HC Knight,4ba0289e,0,0,0,0,0,,,,,,1,0,1
+1173063,2019/20,England,9,HC Knight,4ba0289e,SR Taylor,92cf79a8,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,1,0,1
+1173063,2019/20,England,9,NR Sciver,f3a18a0c,SR Taylor,92cf79a8,HC Knight,4ba0289e,1,0,0,0,0,,,,,,0,1,1
+1173063,2019/20,England,9,NR Sciver,f3a18a0c,SR Taylor,92cf79a8,HC Knight,4ba0289e,0,0,0,0,0,,,,,,4,0,4
+1173063,2019/20,England,9,NR Sciver,f3a18a0c,SR Taylor,92cf79a8,HC Knight,4ba0289e,0,0,0,0,0,,,,,,0,0,0
+1173063,2019/20,England,10,HC Knight,4ba0289e,A Mohammed,a49985e6,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,0,0,0
+1173063,2019/20,England,10,HC Knight,4ba0289e,A Mohammed,a49985e6,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,1,0,1
+1173063,2019/20,England,10,NR Sciver,f3a18a0c,A Mohammed,a49985e6,HC Knight,4ba0289e,0,0,0,0,0,,,,,,0,0,0
+1173063,2019/20,England,10,NR Sciver,f3a18a0c,A Mohammed,a49985e6,HC Knight,4ba0289e,0,0,0,0,0,,,,,,0,0,0
+1173063,2019/20,England,10,NR Sciver,f3a18a0c,A Mohammed,a49985e6,HC Knight,4ba0289e,0,0,0,0,0,,,,,,1,0,1
+1173063,2019/20,England,10,HC Knight,4ba0289e,A Mohammed,a49985e6,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,2,0,2
+1173063,2019/20,England,11,NR Sciver,f3a18a0c,HK Matthews,d32cf49a,HC Knight,4ba0289e,0,0,0,0,0,,,,,,1,0,1
+1173063,2019/20,England,11,HC Knight,4ba0289e,HK Matthews,d32cf49a,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,1,0,1
+1173063,2019/20,England,11,NR Sciver,f3a18a0c,HK Matthews,d32cf49a,HC Knight,4ba0289e,0,0,0,0,0,,,,,,0,0,0
+1173063,2019/20,England,11,NR Sciver,f3a18a0c,HK Matthews,d32cf49a,HC Knight,4ba0289e,0,0,0,0,0,,,,,,1,0,1
+1173063,2019/20,England,11,HC Knight,4ba0289e,HK Matthews,d32cf49a,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,1,0,1
+1173063,2019/20,England,11,NR Sciver,f3a18a0c,HK Matthews,d32cf49a,HC Knight,4ba0289e,0,0,0,0,0,,,,,,1,0,1
+1173063,2019/20,England,12,NR Sciver,f3a18a0c,A Mohammed,a49985e6,HC Knight,4ba0289e,0,0,0,0,0,,,,,,1,0,1
+1173063,2019/20,England,12,HC Knight,4ba0289e,A Mohammed,a49985e6,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,2,0,2
+1173063,2019/20,England,12,HC Knight,4ba0289e,A Mohammed,a49985e6,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,2,0,2
+1173063,2019/20,England,12,HC Knight,4ba0289e,A Mohammed,a49985e6,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,1,0,1
+1173063,2019/20,England,12,NR Sciver,f3a18a0c,A Mohammed,a49985e6,HC Knight,4ba0289e,0,0,0,0,0,,,,,,1,0,1
+1173063,2019/20,England,12,HC Knight,4ba0289e,A Mohammed,a49985e6,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,4,0,4
+1173063,2019/20,England,13,NR Sciver,f3a18a0c,HK Matthews,d32cf49a,HC Knight,4ba0289e,0,0,0,0,0,,,,,,4,0,4
+1173063,2019/20,England,13,NR Sciver,f3a18a0c,HK Matthews,d32cf49a,HC Knight,4ba0289e,0,0,0,0,0,,,,,,2,0,2
+1173063,2019/20,England,13,NR Sciver,f3a18a0c,HK Matthews,d32cf49a,HC Knight,4ba0289e,0,0,0,0,0,,,,,,1,0,1
+1173063,2019/20,England,13,HC Knight,4ba0289e,HK Matthews,d32cf49a,NR Sciver,f3a18a0c,0,0,0,0,1,HC Knight,4ba0289e,,,run out,0,0,0
+1173063,2019/20,England,13,NR Sciver,f3a18a0c,HK Matthews,d32cf49a,FC Wilson,a28132bd,0,0,0,0,0,,,,,,0,0,0
+1173063,2019/20,England,13,NR Sciver,f3a18a0c,HK Matthews,d32cf49a,FC Wilson,a28132bd,0,0,0,0,0,,,,,,1,0,1
+1173063,2019/20,England,14,NR Sciver,f3a18a0c,SC Selman,c29ada99,FC Wilson,a28132bd,0,0,0,0,0,,,,,,0,0,0
+1173063,2019/20,England,14,NR Sciver,f3a18a0c,SC Selman,c29ada99,FC Wilson,a28132bd,0,0,0,0,0,,,,,,1,0,1
+1173063,2019/20,England,14,FC Wilson,a28132bd,SC Selman,c29ada99,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,1,0,1
+1173063,2019/20,England,14,NR Sciver,f3a18a0c,SC Selman,c29ada99,FC Wilson,a28132bd,0,0,0,0,0,,,,,,0,0,0
+1173063,2019/20,England,14,NR Sciver,f3a18a0c,SC Selman,c29ada99,FC Wilson,a28132bd,0,0,0,0,0,,,,,,1,0,1
+1173063,2019/20,England,14,FC Wilson,a28132bd,SC Selman,c29ada99,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,1,0,1
+1173063,2019/20,England,15,FC Wilson,a28132bd,ASS Fletcher,42d9dd09,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,1,0,1
+1173063,2019/20,England,15,NR Sciver,f3a18a0c,ASS Fletcher,42d9dd09,FC Wilson,a28132bd,0,0,0,0,0,,,,,,1,0,1
+1173063,2019/20,England,15,FC Wilson,a28132bd,ASS Fletcher,42d9dd09,NR Sciver,f3a18a0c,0,0,0,0,1,FC Wilson,a28132bd,B Cooper,ac0edb42,caught,0,0,0
+1173063,2019/20,England,15,NR Sciver,f3a18a0c,ASS Fletcher,42d9dd09,AE Jones,b05e45e4,0,0,0,0,0,,,,,,2,0,2
+1173063,2019/20,England,15,NR Sciver,f3a18a0c,ASS Fletcher,42d9dd09,AE Jones,b05e45e4,0,0,0,0,0,,,,,,1,0,1
+1173063,2019/20,England,15,AE Jones,b05e45e4,ASS Fletcher,42d9dd09,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,2,0,2
+1173063,2019/20,England,16,NR Sciver,f3a18a0c,SR Taylor,92cf79a8,AE Jones,b05e45e4,0,0,0,0,0,,,,,,2,0,2
+1173063,2019/20,England,16,NR Sciver,f3a18a0c,SR Taylor,92cf79a8,AE Jones,b05e45e4,0,0,0,0,0,,,,,,0,0,0
+1173063,2019/20,England,16,NR Sciver,f3a18a0c,SR Taylor,92cf79a8,AE Jones,b05e45e4,0,0,0,0,0,,,,,,1,0,1
+1173063,2019/20,England,16,AE Jones,b05e45e4,SR Taylor,92cf79a8,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,1,0,1
+1173063,2019/20,England,16,NR Sciver,f3a18a0c,SR Taylor,92cf79a8,AE Jones,b05e45e4,0,0,0,0,0,,,,,,1,0,1
+1173063,2019/20,England,16,AE Jones,b05e45e4,SR Taylor,92cf79a8,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,0,0,0
+1173063,2019/20,England,17,NR Sciver,f3a18a0c,ASS Fletcher,42d9dd09,AE Jones,b05e45e4,0,0,0,0,0,,,,,,4,0,4
+1173063,2019/20,England,17,NR Sciver,f3a18a0c,ASS Fletcher,42d9dd09,AE Jones,b05e45e4,0,0,0,0,0,,,,,,1,0,1
+1173063,2019/20,England,17,AE Jones,b05e45e4,ASS Fletcher,42d9dd09,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,4,0,4
+1173063,2019/20,England,17,AE Jones,b05e45e4,ASS Fletcher,42d9dd09,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,1,0,1
+1173063,2019/20,England,17,NR Sciver,f3a18a0c,ASS Fletcher,42d9dd09,AE Jones,b05e45e4,0,0,0,0,0,,,,,,1,0,1
+1173063,2019/20,England,17,AE Jones,b05e45e4,ASS Fletcher,42d9dd09,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,1,0,1
+1173063,2019/20,England,18,AE Jones,b05e45e4,SR Taylor,92cf79a8,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,0,0,0
+1173063,2019/20,England,18,AE Jones,b05e45e4,SR Taylor,92cf79a8,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,2,0,2
+1173063,2019/20,England,18,AE Jones,b05e45e4,SR Taylor,92cf79a8,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,4,0,4
+1173063,2019/20,England,18,AE Jones,b05e45e4,SR Taylor,92cf79a8,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,4,0,4
+1173063,2019/20,England,18,AE Jones,b05e45e4,SR Taylor,92cf79a8,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,1,0,1
+1173063,2019/20,England,18,NR Sciver,f3a18a0c,SR Taylor,92cf79a8,AE Jones,b05e45e4,0,0,0,0,1,NR Sciver,f3a18a0c,HK Matthews,d32cf49a,caught,0,0,0
+1173063,2019/20,England,19,AE Jones,b05e45e4,SC Selman,c29ada99,KH Brunt,6a434bd3,0,0,0,0,0,,,,,,2,0,2
+1173063,2019/20,England,19,AE Jones,b05e45e4,SC Selman,c29ada99,KH Brunt,6a434bd3,0,0,0,0,0,,,,,,1,0,1
+1173063,2019/20,England,19,KH Brunt,6a434bd3,SC Selman,c29ada99,AE Jones,b05e45e4,0,0,0,0,0,,,,,,0,0,0
+1173063,2019/20,England,19,KH Brunt,6a434bd3,SC Selman,c29ada99,AE Jones,b05e45e4,0,0,0,0,0,,,,,,2,0,2
+1173063,2019/20,England,19,KH Brunt,6a434bd3,SC Selman,c29ada99,AE Jones,b05e45e4,0,0,0,0,0,,,,,,4,0,4
+1173063,2019/20,England,19,KH Brunt,6a434bd3,SC Selman,c29ada99,AE Jones,b05e45e4,0,0,0,0,0,,,,,,4,0,4
+1173063,2019/20,West Indies,0,HK Matthews,d32cf49a,A Shrubsole,32497ecd,DJS Dottin,53bee17f,0,0,0,0,0,,,,,,0,0,0
+1173063,2019/20,West Indies,0,HK Matthews,d32cf49a,A Shrubsole,32497ecd,DJS Dottin,53bee17f,0,0,0,0,0,,,,,,0,0,0
+1173063,2019/20,West Indies,0,HK Matthews,d32cf49a,A Shrubsole,32497ecd,DJS Dottin,53bee17f,0,0,0,0,0,,,,,,0,0,0
+1173063,2019/20,West Indies,0,HK Matthews,d32cf49a,A Shrubsole,32497ecd,DJS Dottin,53bee17f,0,0,0,0,0,,,,,,1,0,1
+1173063,2019/20,West Indies,0,DJS Dottin,53bee17f,A Shrubsole,32497ecd,HK Matthews,d32cf49a,0,0,0,0,0,,,,,,1,0,1
+1173063,2019/20,West Indies,0,HK Matthews,d32cf49a,A Shrubsole,32497ecd,DJS Dottin,53bee17f,0,0,0,0,0,,,,,,0,0,0
+1173063,2019/20,West Indies,1,DJS Dottin,53bee17f,KH Brunt,6a434bd3,HK Matthews,d32cf49a,0,0,0,0,0,,,,,,0,0,0
+1173063,2019/20,West Indies,1,DJS Dottin,53bee17f,KH Brunt,6a434bd3,HK Matthews,d32cf49a,0,0,0,0,0,,,,,,0,0,0
+1173063,2019/20,West Indies,1,DJS Dottin,53bee17f,KH Brunt,6a434bd3,HK Matthews,d32cf49a,0,0,0,0,0,,,,,,0,0,0
+1173063,2019/20,West Indies,1,DJS Dottin,53bee17f,KH Brunt,6a434bd3,HK Matthews,d32cf49a,0,0,0,0,0,,,,,,4,0,4
+1173063,2019/20,West Indies,1,DJS Dottin,53bee17f,KH Brunt,6a434bd3,HK Matthews,d32cf49a,0,0,0,0,0,,,,,,2,0,2
+1173063,2019/20,West Indies,1,DJS Dottin,53bee17f,KH Brunt,6a434bd3,HK Matthews,d32cf49a,0,0,0,0,0,,,,,,1,0,1
+1173063,2019/20,West Indies,2,DJS Dottin,53bee17f,S Ecclestone,cdb82f1c,HK Matthews,d32cf49a,0,0,0,0,0,,,,,,1,0,1
+1173063,2019/20,West Indies,2,HK Matthews,d32cf49a,S Ecclestone,cdb82f1c,DJS Dottin,53bee17f,1,0,0,0,0,,,,,,0,1,1
+1173063,2019/20,West Indies,2,HK Matthews,d32cf49a,S Ecclestone,cdb82f1c,DJS Dottin,53bee17f,0,0,0,0,0,,,,,,0,0,0
+1173063,2019/20,West Indies,2,HK Matthews,d32cf49a,S Ecclestone,cdb82f1c,DJS Dottin,53bee17f,0,0,0,0,0,,,,,,0,0,0
+1173063,2019/20,West Indies,2,HK Matthews,d32cf49a,S Ecclestone,cdb82f1c,DJS Dottin,53bee17f,0,0,0,0,0,,,,,,0,0,0
+1173063,2019/20,West Indies,2,HK Matthews,d32cf49a,S Ecclestone,cdb82f1c,DJS Dottin,53bee17f,0,0,0,0,0,,,,,,1,0,1
+1173063,2019/20,West Indies,2,DJS Dottin,53bee17f,S Ecclestone,cdb82f1c,HK Matthews,d32cf49a,0,0,0,0,1,DJS Dottin,53bee17f,NR Sciver,f3a18a0c,caught,0,0,0
+1173063,2019/20,West Indies,3,HK Matthews,d32cf49a,NR Sciver,f3a18a0c,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,0,0,0
+1173063,2019/20,West Indies,3,HK Matthews,d32cf49a,NR Sciver,f3a18a0c,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,0,0,0
+1173063,2019/20,West Indies,3,HK Matthews,d32cf49a,NR Sciver,f3a18a0c,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,0,0,0
+1173063,2019/20,West Indies,3,HK Matthews,d32cf49a,NR Sciver,f3a18a0c,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,1,0,1
+1173063,2019/20,West Indies,3,SR Taylor,92cf79a8,NR Sciver,f3a18a0c,HK Matthews,d32cf49a,0,0,0,0,0,,,,,,0,0,0
+1173063,2019/20,West Indies,3,SR Taylor,92cf79a8,NR Sciver,f3a18a0c,HK Matthews,d32cf49a,0,0,0,0,0,,,,,,0,0,0
+1173063,2019/20,West Indies,4,HK Matthews,d32cf49a,S Ecclestone,cdb82f1c,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,0,0,0
+1173063,2019/20,West Indies,4,HK Matthews,d32cf49a,S Ecclestone,cdb82f1c,SR Taylor,92cf79a8,0,0,0,1,0,,,,,,0,1,1
+1173063,2019/20,West Indies,4,SR Taylor,92cf79a8,S Ecclestone,cdb82f1c,HK Matthews,d32cf49a,0,0,0,0,0,,,,,,0,0,0
+1173063,2019/20,West Indies,4,SR Taylor,92cf79a8,S Ecclestone,cdb82f1c,HK Matthews,d32cf49a,0,0,0,0,0,,,,,,0,0,0
+1173063,2019/20,West Indies,4,SR Taylor,92cf79a8,S Ecclestone,cdb82f1c,HK Matthews,d32cf49a,0,0,0,0,0,,,,,,0,0,0
+1173063,2019/20,West Indies,4,SR Taylor,92cf79a8,S Ecclestone,cdb82f1c,HK Matthews,d32cf49a,0,0,1,0,0,,,,,,0,1,1
+1173063,2019/20,West Indies,5,SR Taylor,92cf79a8,KH Brunt,6a434bd3,HK Matthews,d32cf49a,0,0,0,0,0,,,,,,2,0,2
+1173063,2019/20,West Indies,5,SR Taylor,92cf79a8,KH Brunt,6a434bd3,HK Matthews,d32cf49a,0,0,0,0,0,,,,,,0,0,0
+1173063,2019/20,West Indies,5,SR Taylor,92cf79a8,KH Brunt,6a434bd3,HK Matthews,d32cf49a,0,0,0,0,0,,,,,,2,0,2
+1173063,2019/20,West Indies,5,SR Taylor,92cf79a8,KH Brunt,6a434bd3,HK Matthews,d32cf49a,1,0,0,0,0,,,,,,0,1,1
+1173063,2019/20,West Indies,5,SR Taylor,92cf79a8,KH Brunt,6a434bd3,HK Matthews,d32cf49a,0,0,0,0,0,,,,,,0,0,0
+1173063,2019/20,West Indies,5,SR Taylor,92cf79a8,KH Brunt,6a434bd3,HK Matthews,d32cf49a,0,0,0,0,0,,,,,,4,0,4
+1173063,2019/20,West Indies,5,SR Taylor,92cf79a8,KH Brunt,6a434bd3,HK Matthews,d32cf49a,0,0,0,0,0,,,,,,4,0,4
+1173063,2019/20,West Indies,6,HK Matthews,d32cf49a,S Glenn,b34e0c77,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,0,0,0
+1173063,2019/20,West Indies,6,HK Matthews,d32cf49a,S Glenn,b34e0c77,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,1,0,1
+1173063,2019/20,West Indies,6,SR Taylor,92cf79a8,S Glenn,b34e0c77,HK Matthews,d32cf49a,0,0,1,0,0,,,,,,0,1,1
+1173063,2019/20,West Indies,6,HK Matthews,d32cf49a,S Glenn,b34e0c77,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,0,0,0
+1173063,2019/20,West Indies,6,HK Matthews,d32cf49a,S Glenn,b34e0c77,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,4,0,4
+1173063,2019/20,West Indies,6,HK Matthews,d32cf49a,S Glenn,b34e0c77,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,1,0,1
+1173063,2019/20,West Indies,7,HK Matthews,d32cf49a,NR Sciver,f3a18a0c,SR Taylor,92cf79a8,0,0,0,0,0,,,,,,1,0,1
+1173063,2019/20,West Indies,7,SR Taylor,92cf79a8,NR Sciver,f3a18a0c,HK Matthews,d32cf49a,0,0,0,0,0,,,,,,0,0,0
+1173063,2019/20,West Indies,7,SR Taylor,92cf79a8,NR Sciver,f3a18a0c,HK Matthews,d32cf49a,0,0,2,0,0,,,,,,0,2,2
+1173063,2019/20,West Indies,7,SR Taylor,92cf79a8,NR Sciver,f3a18a0c,HK Matthews,d32cf49a,0,0,0,0,0,,,,,,0,0,0
+1173063,2019/20,West Indies,7,SR Taylor,92cf79a8,NR Sciver,f3a18a0c,HK Matthews,d32cf49a,0,0,0,0,0,,,,,,2,0,2
+1173063,2019/20,West Indies,7,SR Taylor,92cf79a8,NR Sciver,f3a18a0c,HK Matthews,d32cf49a,0,0,0,0,1,SR Taylor,92cf79a8,,,retired hurt,1,0,1
+1173063,2019/20,West Indies,8,SA Campbelle,a7cd72b2,S Glenn,b34e0c77,HK Matthews,d32cf49a,0,0,0,0,0,,,,,,1,0,1
+1173063,2019/20,West Indies,8,HK Matthews,d32cf49a,S Glenn,b34e0c77,SA Campbelle,a7cd72b2,0,0,0,0,1,HK Matthews,d32cf49a,,,bowled,0,0,0
+1173063,2019/20,West Indies,8,CN Nation,639000b6,S Glenn,b34e0c77,SA Campbelle,a7cd72b2,0,0,0,0,0,,,,,,0,0,0
+1173063,2019/20,West Indies,8,CN Nation,639000b6,S Glenn,b34e0c77,SA Campbelle,a7cd72b2,0,0,0,0,0,,,,,,0,0,0
+1173063,2019/20,West Indies,8,CN Nation,639000b6,S Glenn,b34e0c77,SA Campbelle,a7cd72b2,0,0,0,0,0,,,,,,0,0,0
+1173063,2019/20,West Indies,8,CN Nation,639000b6,S Glenn,b34e0c77,SA Campbelle,a7cd72b2,0,0,0,0,0,,,,,,0,0,0
+1173063,2019/20,West Indies,9,SA Campbelle,a7cd72b2,MK Villiers,cd62f670,CN Nation,639000b6,0,0,0,0,0,,,,,,0,0,0
+1173063,2019/20,West Indies,9,SA Campbelle,a7cd72b2,MK Villiers,cd62f670,CN Nation,639000b6,0,0,0,0,0,,,,,,0,0,0
+1173063,2019/20,West Indies,9,SA Campbelle,a7cd72b2,MK Villiers,cd62f670,CN Nation,639000b6,0,0,0,0,0,,,,,,0,0,0
+1173063,2019/20,West Indies,9,SA Campbelle,a7cd72b2,MK Villiers,cd62f670,CN Nation,639000b6,0,0,0,0,1,SA Campbelle,a7cd72b2,,,caught and bowled,0,0,0
+1173063,2019/20,West Indies,9,B Cooper,ac0edb42,MK Villiers,cd62f670,CN Nation,639000b6,0,0,0,0,0,,,,,,0,0,0
+1173063,2019/20,West Indies,9,B Cooper,ac0edb42,MK Villiers,cd62f670,CN Nation,639000b6,0,0,0,0,0,,,,,,0,0,0
+1173063,2019/20,West Indies,10,CN Nation,639000b6,S Glenn,b34e0c77,B Cooper,ac0edb42,0,0,0,0,1,CN Nation,639000b6,AE Jones,b05e45e4,caught,0,0,0
+1173063,2019/20,West Indies,10,LAGL Kirby,fe6d2da9,S Glenn,b34e0c77,B Cooper,ac0edb42,0,0,0,0,0,,,,,,0,0,0
+1173063,2019/20,West Indies,10,LAGL Kirby,fe6d2da9,S Glenn,b34e0c77,B Cooper,ac0edb42,0,0,0,0,0,,,,,,0,0,0
+1173063,2019/20,West Indies,10,LAGL Kirby,fe6d2da9,S Glenn,b34e0c77,B Cooper,ac0edb42,0,0,0,0,0,,,,,,0,0,0
+1173063,2019/20,West Indies,10,LAGL Kirby,fe6d2da9,S Glenn,b34e0c77,B Cooper,ac0edb42,0,0,0,0,0,,,,,,0,0,0
+1173063,2019/20,West Indies,10,LAGL Kirby,fe6d2da9,S Glenn,b34e0c77,B Cooper,ac0edb42,0,0,0,0,0,,,,,,0,0,0
+1173063,2019/20,West Indies,11,B Cooper,ac0edb42,MK Villiers,cd62f670,LAGL Kirby,fe6d2da9,0,0,0,0,0,,,,,,1,0,1
+1173063,2019/20,West Indies,11,LAGL Kirby,fe6d2da9,MK Villiers,cd62f670,B Cooper,ac0edb42,0,0,0,0,0,,,,,,0,0,0
+1173063,2019/20,West Indies,11,LAGL Kirby,fe6d2da9,MK Villiers,cd62f670,B Cooper,ac0edb42,0,0,0,0,0,,,,,,4,0,4
+1173063,2019/20,West Indies,11,LAGL Kirby,fe6d2da9,MK Villiers,cd62f670,B Cooper,ac0edb42,0,0,0,0,0,,,,,,1,0,1
+1173063,2019/20,West Indies,11,B Cooper,ac0edb42,MK Villiers,cd62f670,LAGL Kirby,fe6d2da9,0,0,0,0,0,,,,,,0,0,0
+1173063,2019/20,West Indies,11,B Cooper,ac0edb42,MK Villiers,cd62f670,LAGL Kirby,fe6d2da9,0,0,0,0,0,,,,,,1,0,1
+1173063,2019/20,West Indies,12,B Cooper,ac0edb42,S Glenn,b34e0c77,LAGL Kirby,fe6d2da9,0,0,0,0,0,,,,,,0,0,0
+1173063,2019/20,West Indies,12,B Cooper,ac0edb42,S Glenn,b34e0c77,LAGL Kirby,fe6d2da9,0,0,0,0,0,,,,,,1,0,1
+1173063,2019/20,West Indies,12,LAGL Kirby,fe6d2da9,S Glenn,b34e0c77,B Cooper,ac0edb42,0,0,0,0,0,,,,,,0,0,0
+1173063,2019/20,West Indies,12,LAGL Kirby,fe6d2da9,S Glenn,b34e0c77,B Cooper,ac0edb42,0,0,0,0,0,,,,,,6,0,6
+1173063,2019/20,West Indies,12,LAGL Kirby,fe6d2da9,S Glenn,b34e0c77,B Cooper,ac0edb42,0,0,0,0,0,,,,,,1,0,1
+1173063,2019/20,West Indies,12,B Cooper,ac0edb42,S Glenn,b34e0c77,LAGL Kirby,fe6d2da9,0,0,0,0,0,,,,,,1,0,1
+1173063,2019/20,West Indies,13,B Cooper,ac0edb42,MK Villiers,cd62f670,LAGL Kirby,fe6d2da9,0,0,0,0,0,,,,,,0,0,0
+1173063,2019/20,West Indies,13,B Cooper,ac0edb42,MK Villiers,cd62f670,LAGL Kirby,fe6d2da9,0,0,0,0,0,,,,,,1,0,1
+1173063,2019/20,West Indies,13,LAGL Kirby,fe6d2da9,MK Villiers,cd62f670,B Cooper,ac0edb42,0,0,0,0,0,,,,,,1,0,1
+1173063,2019/20,West Indies,13,B Cooper,ac0edb42,MK Villiers,cd62f670,LAGL Kirby,fe6d2da9,0,0,0,0,0,,,,,,1,0,1
+1173063,2019/20,West Indies,13,LAGL Kirby,fe6d2da9,MK Villiers,cd62f670,B Cooper,ac0edb42,0,0,0,0,0,,,,,,6,0,6
+1173063,2019/20,West Indies,13,LAGL Kirby,fe6d2da9,MK Villiers,cd62f670,B Cooper,ac0edb42,0,0,0,0,0,,,,,,1,0,1
+1173063,2019/20,West Indies,14,LAGL Kirby,fe6d2da9,A Shrubsole,32497ecd,B Cooper,ac0edb42,0,0,0,0,1,LAGL Kirby,fe6d2da9,NR Sciver,f3a18a0c,caught,0,0,0
+1173063,2019/20,West Indies,14,B Cooper,ac0edb42,A Shrubsole,32497ecd,AA Alleyne,4b0e3049,0,0,0,0,0,,,,,,4,0,4
+1173063,2019/20,West Indies,14,B Cooper,ac0edb42,A Shrubsole,32497ecd,AA Alleyne,4b0e3049,1,0,0,0,0,,,,,,0,1,1
+1173063,2019/20,West Indies,14,B Cooper,ac0edb42,A Shrubsole,32497ecd,AA Alleyne,4b0e3049,0,0,0,0,0,,,,,,0,0,0
+1173063,2019/20,West Indies,14,B Cooper,ac0edb42,A Shrubsole,32497ecd,AA Alleyne,4b0e3049,0,0,0,0,0,,,,,,4,0,4
+1173063,2019/20,West Indies,14,B Cooper,ac0edb42,A Shrubsole,32497ecd,AA Alleyne,4b0e3049,0,0,0,0,0,,,,,,1,0,1
+1173063,2019/20,West Indies,14,AA Alleyne,4b0e3049,A Shrubsole,32497ecd,B Cooper,ac0edb42,0,0,0,0,0,,,,,,1,0,1
+1173063,2019/20,West Indies,15,AA Alleyne,4b0e3049,S Ecclestone,cdb82f1c,B Cooper,ac0edb42,0,0,0,0,0,,,,,,4,0,4
+1173063,2019/20,West Indies,15,AA Alleyne,4b0e3049,S Ecclestone,cdb82f1c,B Cooper,ac0edb42,0,0,0,0,0,,,,,,0,0,0
+1173063,2019/20,West Indies,15,AA Alleyne,4b0e3049,S Ecclestone,cdb82f1c,B Cooper,ac0edb42,0,0,1,0,0,,,,,,0,1,1
+1173063,2019/20,West Indies,15,B Cooper,ac0edb42,S Ecclestone,cdb82f1c,AA Alleyne,4b0e3049,0,0,0,0,1,B Cooper,ac0edb42,AE Jones,b05e45e4,stumped,0,0,0
+1173063,2019/20,West Indies,15,ASS Fletcher,42d9dd09,S Ecclestone,cdb82f1c,AA Alleyne,4b0e3049,0,0,0,0,0,,,,,,0,0,0
+1173063,2019/20,West Indies,15,ASS Fletcher,42d9dd09,S Ecclestone,cdb82f1c,AA Alleyne,4b0e3049,0,0,0,0,0,,,,,,0,0,0
+1173063,2019/20,West Indies,16,AA Alleyne,4b0e3049,MK Villiers,cd62f670,ASS Fletcher,42d9dd09,3,0,0,0,0,,,,,,0,3,3
+1173063,2019/20,West Indies,16,AA Alleyne,4b0e3049,MK Villiers,cd62f670,ASS Fletcher,42d9dd09,0,0,0,0,0,,,,,,4,0,4
+1173063,2019/20,West Indies,16,AA Alleyne,4b0e3049,MK Villiers,cd62f670,ASS Fletcher,42d9dd09,0,0,0,0,0,,,,,,1,0,1
+1173063,2019/20,West Indies,16,ASS Fletcher,42d9dd09,MK Villiers,cd62f670,AA Alleyne,4b0e3049,0,0,0,0,1,ASS Fletcher,42d9dd09,,,run out,0,0,0
+1173063,2019/20,West Indies,16,AA Alleyne,4b0e3049,MK Villiers,cd62f670,A Mohammed,a49985e6,0,0,0,0,1,AA Alleyne,4b0e3049,,,run out,0,0,0
+1173063,2019/20,West Indies,16,A Mohammed,a49985e6,MK Villiers,cd62f670,SC Selman,c29ada99,0,0,0,0,0,,,,,,4,0,4
+1173063,2019/20,West Indies,16,A Mohammed,a49985e6,MK Villiers,cd62f670,SC Selman,c29ada99,0,0,0,0,0,,,,,,1,0,1
+1173063,2019/20,West Indies,17,A Mohammed,a49985e6,S Ecclestone,cdb82f1c,SC Selman,c29ada99,0,0,0,0,1,A Mohammed,a49985e6,,,bowled,0,0,0

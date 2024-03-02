@@ -1,0 +1,250 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1133822,2017/18,Sri Lanka,0,MD Gunathilaka,509a7ca1,Shakib Al Hasan,7dc35884,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,0,0,0
+1133822,2017/18,Sri Lanka,0,MD Gunathilaka,509a7ca1,Shakib Al Hasan,7dc35884,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,0,0,0
+1133822,2017/18,Sri Lanka,0,MD Gunathilaka,509a7ca1,Shakib Al Hasan,7dc35884,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,0,0,0
+1133822,2017/18,Sri Lanka,0,MD Gunathilaka,509a7ca1,Shakib Al Hasan,7dc35884,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,1,0,1
+1133822,2017/18,Sri Lanka,0,BKG Mendis,5d1e7582,Shakib Al Hasan,7dc35884,MD Gunathilaka,509a7ca1,1,0,0,0,0,,,,,,0,1,1
+1133822,2017/18,Sri Lanka,0,BKG Mendis,5d1e7582,Shakib Al Hasan,7dc35884,MD Gunathilaka,509a7ca1,0,0,0,0,0,,,,,,0,0,0
+1133822,2017/18,Sri Lanka,0,BKG Mendis,5d1e7582,Shakib Al Hasan,7dc35884,MD Gunathilaka,509a7ca1,0,0,0,0,0,,,,,,1,0,1
+1133822,2017/18,Sri Lanka,1,BKG Mendis,5d1e7582,Rubel Hossain,f56cd097,MD Gunathilaka,509a7ca1,0,0,0,0,0,,,,,,1,0,1
+1133822,2017/18,Sri Lanka,1,MD Gunathilaka,509a7ca1,Rubel Hossain,f56cd097,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,2,0,2
+1133822,2017/18,Sri Lanka,1,MD Gunathilaka,509a7ca1,Rubel Hossain,f56cd097,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,1,0,1
+1133822,2017/18,Sri Lanka,1,BKG Mendis,5d1e7582,Rubel Hossain,f56cd097,MD Gunathilaka,509a7ca1,0,0,0,0,0,,,,,,0,0,0
+1133822,2017/18,Sri Lanka,1,BKG Mendis,5d1e7582,Rubel Hossain,f56cd097,MD Gunathilaka,509a7ca1,0,0,0,0,0,,,,,,4,0,4
+1133822,2017/18,Sri Lanka,1,BKG Mendis,5d1e7582,Rubel Hossain,f56cd097,MD Gunathilaka,509a7ca1,0,0,0,0,0,,,,,,4,0,4
+1133822,2017/18,Sri Lanka,2,MD Gunathilaka,509a7ca1,Shakib Al Hasan,7dc35884,BKG Mendis,5d1e7582,0,0,0,0,1,MD Gunathilaka,509a7ca1,Sabbir Rahman,7147f314,caught,0,0,0
+1133822,2017/18,Sri Lanka,2,BKG Mendis,5d1e7582,Shakib Al Hasan,7dc35884,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,1,0,1
+1133822,2017/18,Sri Lanka,2,MDKJ Perera,f21043a5,Shakib Al Hasan,7dc35884,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,4,0,4
+1133822,2017/18,Sri Lanka,2,MDKJ Perera,f21043a5,Shakib Al Hasan,7dc35884,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,1,0,1
+1133822,2017/18,Sri Lanka,2,BKG Mendis,5d1e7582,Shakib Al Hasan,7dc35884,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,0,0,0
+1133822,2017/18,Sri Lanka,2,BKG Mendis,5d1e7582,Shakib Al Hasan,7dc35884,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,0,0,0
+1133822,2017/18,Sri Lanka,3,MDKJ Perera,f21043a5,Mustafizur Rahman,0a8fce53,BKG Mendis,5d1e7582,0,0,1,0,0,,,,,,0,1,1
+1133822,2017/18,Sri Lanka,3,BKG Mendis,5d1e7582,Mustafizur Rahman,0a8fce53,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,0,0,0
+1133822,2017/18,Sri Lanka,3,BKG Mendis,5d1e7582,Mustafizur Rahman,0a8fce53,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,0,0,0
+1133822,2017/18,Sri Lanka,3,BKG Mendis,5d1e7582,Mustafizur Rahman,0a8fce53,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,0,0,0
+1133822,2017/18,Sri Lanka,3,BKG Mendis,5d1e7582,Mustafizur Rahman,0a8fce53,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,0,0,0
+1133822,2017/18,Sri Lanka,3,BKG Mendis,5d1e7582,Mustafizur Rahman,0a8fce53,MDKJ Perera,f21043a5,0,0,0,0,1,BKG Mendis,5d1e7582,Soumya Sarkar,4d9f9686,caught,0,0,0
+1133822,2017/18,Sri Lanka,4,MDKJ Perera,f21043a5,Mehedi Hasan Miraz,c58b0108,WU Tharanga,7ed9fd56,0,0,0,0,0,,,,,,1,0,1
+1133822,2017/18,Sri Lanka,4,WU Tharanga,7ed9fd56,Mehedi Hasan Miraz,c58b0108,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,1,0,1
+1133822,2017/18,Sri Lanka,4,MDKJ Perera,f21043a5,Mehedi Hasan Miraz,c58b0108,WU Tharanga,7ed9fd56,0,0,0,0,0,,,,,,1,0,1
+1133822,2017/18,Sri Lanka,4,WU Tharanga,7ed9fd56,Mehedi Hasan Miraz,c58b0108,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,0,0,0
+1133822,2017/18,Sri Lanka,4,WU Tharanga,7ed9fd56,Mehedi Hasan Miraz,c58b0108,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,0,0,0
+1133822,2017/18,Sri Lanka,4,WU Tharanga,7ed9fd56,Mehedi Hasan Miraz,c58b0108,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,4,0,4
+1133822,2017/18,Sri Lanka,5,MDKJ Perera,f21043a5,Mustafizur Rahman,0a8fce53,WU Tharanga,7ed9fd56,1,0,0,0,0,,,,,,0,1,1
+1133822,2017/18,Sri Lanka,5,MDKJ Perera,f21043a5,Mustafizur Rahman,0a8fce53,WU Tharanga,7ed9fd56,0,0,0,0,0,,,,,,1,0,1
+1133822,2017/18,Sri Lanka,5,WU Tharanga,7ed9fd56,Mustafizur Rahman,0a8fce53,MDKJ Perera,f21043a5,0,0,0,0,1,WU Tharanga,7ed9fd56,,,run out,0,0,0
+1133822,2017/18,Sri Lanka,5,MDKJ Perera,f21043a5,Mustafizur Rahman,0a8fce53,MD Shanaka,3ff033bb,0,0,0,0,0,,,,,,1,0,1
+1133822,2017/18,Sri Lanka,5,MD Shanaka,3ff033bb,Mustafizur Rahman,0a8fce53,MDKJ Perera,f21043a5,0,0,0,0,1,MD Shanaka,3ff033bb,Mushfiqur Rahim,a94e08ea,caught,0,0,0
+1133822,2017/18,Sri Lanka,5,BMAJ Mendis,9868bc75,Mustafizur Rahman,0a8fce53,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,0,0,0
+1133822,2017/18,Sri Lanka,5,BMAJ Mendis,9868bc75,Mustafizur Rahman,0a8fce53,MDKJ Perera,f21043a5,1,0,0,0,0,,,,,,0,1,1
+1133822,2017/18,Sri Lanka,5,BMAJ Mendis,9868bc75,Mustafizur Rahman,0a8fce53,MDKJ Perera,f21043a5,0,0,2,0,0,,,,,,0,2,2
+1133822,2017/18,Sri Lanka,6,MDKJ Perera,f21043a5,Mehedi Hasan Miraz,c58b0108,BMAJ Mendis,9868bc75,0,0,0,0,0,,,,,,0,0,0
+1133822,2017/18,Sri Lanka,6,MDKJ Perera,f21043a5,Mehedi Hasan Miraz,c58b0108,BMAJ Mendis,9868bc75,0,0,0,0,0,,,,,,0,0,0
+1133822,2017/18,Sri Lanka,6,MDKJ Perera,f21043a5,Mehedi Hasan Miraz,c58b0108,BMAJ Mendis,9868bc75,0,0,0,0,0,,,,,,1,0,1
+1133822,2017/18,Sri Lanka,6,BMAJ Mendis,9868bc75,Mehedi Hasan Miraz,c58b0108,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,0,0,0
+1133822,2017/18,Sri Lanka,6,BMAJ Mendis,9868bc75,Mehedi Hasan Miraz,c58b0108,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,0,0,0
+1133822,2017/18,Sri Lanka,6,BMAJ Mendis,9868bc75,Mehedi Hasan Miraz,c58b0108,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,1,0,1
+1133822,2017/18,Sri Lanka,7,BMAJ Mendis,9868bc75,Mahmudullah,bf1d7d3e,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,1,0,1
+1133822,2017/18,Sri Lanka,7,MDKJ Perera,f21043a5,Mahmudullah,bf1d7d3e,BMAJ Mendis,9868bc75,0,0,0,0,0,,,,,,1,0,1
+1133822,2017/18,Sri Lanka,7,BMAJ Mendis,9868bc75,Mahmudullah,bf1d7d3e,MDKJ Perera,f21043a5,1,0,0,0,0,,,,,,0,1,1
+1133822,2017/18,Sri Lanka,7,BMAJ Mendis,9868bc75,Mahmudullah,bf1d7d3e,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,0,0,0
+1133822,2017/18,Sri Lanka,7,BMAJ Mendis,9868bc75,Mahmudullah,bf1d7d3e,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,0,0,0
+1133822,2017/18,Sri Lanka,7,BMAJ Mendis,9868bc75,Mahmudullah,bf1d7d3e,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,0,0,0
+1133822,2017/18,Sri Lanka,7,BMAJ Mendis,9868bc75,Mahmudullah,bf1d7d3e,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,1,0,1
+1133822,2017/18,Sri Lanka,8,BMAJ Mendis,9868bc75,Mehedi Hasan Miraz,c58b0108,MDKJ Perera,f21043a5,0,0,0,0,1,BMAJ Mendis,9868bc75,Mustafizur Rahman,0a8fce53,caught,0,0,0
+1133822,2017/18,Sri Lanka,8,NLTC Perera,0f12f9df,Mehedi Hasan Miraz,c58b0108,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,1,0,1
+1133822,2017/18,Sri Lanka,8,MDKJ Perera,f21043a5,Mehedi Hasan Miraz,c58b0108,NLTC Perera,0f12f9df,0,0,0,0,0,,,,,,1,0,1
+1133822,2017/18,Sri Lanka,8,NLTC Perera,0f12f9df,Mehedi Hasan Miraz,c58b0108,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,0,0,0
+1133822,2017/18,Sri Lanka,8,NLTC Perera,0f12f9df,Mehedi Hasan Miraz,c58b0108,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,0,0,0
+1133822,2017/18,Sri Lanka,8,NLTC Perera,0f12f9df,Mehedi Hasan Miraz,c58b0108,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,0,0,0
+1133822,2017/18,Sri Lanka,9,MDKJ Perera,f21043a5,Mahmudullah,bf1d7d3e,NLTC Perera,0f12f9df,0,0,0,0,0,,,,,,4,0,4
+1133822,2017/18,Sri Lanka,9,MDKJ Perera,f21043a5,Mahmudullah,bf1d7d3e,NLTC Perera,0f12f9df,0,0,0,0,0,,,,,,1,0,1
+1133822,2017/18,Sri Lanka,9,NLTC Perera,0f12f9df,Mahmudullah,bf1d7d3e,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,1,0,1
+1133822,2017/18,Sri Lanka,9,MDKJ Perera,f21043a5,Mahmudullah,bf1d7d3e,NLTC Perera,0f12f9df,0,0,0,0,0,,,,,,1,0,1
+1133822,2017/18,Sri Lanka,9,NLTC Perera,0f12f9df,Mahmudullah,bf1d7d3e,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,2,0,2
+1133822,2017/18,Sri Lanka,9,NLTC Perera,0f12f9df,Mahmudullah,bf1d7d3e,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,1,0,1
+1133822,2017/18,Sri Lanka,10,NLTC Perera,0f12f9df,Rubel Hossain,f56cd097,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,0,0,0
+1133822,2017/18,Sri Lanka,10,NLTC Perera,0f12f9df,Rubel Hossain,f56cd097,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,0,0,0
+1133822,2017/18,Sri Lanka,10,NLTC Perera,0f12f9df,Rubel Hossain,f56cd097,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,1,0,1
+1133822,2017/18,Sri Lanka,10,MDKJ Perera,f21043a5,Rubel Hossain,f56cd097,NLTC Perera,0f12f9df,0,0,0,0,0,,,,,,4,0,4
+1133822,2017/18,Sri Lanka,10,MDKJ Perera,f21043a5,Rubel Hossain,f56cd097,NLTC Perera,0f12f9df,0,0,0,0,0,,,,,,4,0,4
+1133822,2017/18,Sri Lanka,10,MDKJ Perera,f21043a5,Rubel Hossain,f56cd097,NLTC Perera,0f12f9df,0,0,0,0,0,,,,,,1,0,1
+1133822,2017/18,Sri Lanka,11,MDKJ Perera,f21043a5,Mehedi Hasan Miraz,c58b0108,NLTC Perera,0f12f9df,0,0,0,0,0,,,,,,1,0,1
+1133822,2017/18,Sri Lanka,11,NLTC Perera,0f12f9df,Mehedi Hasan Miraz,c58b0108,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,0,0,0
+1133822,2017/18,Sri Lanka,11,NLTC Perera,0f12f9df,Mehedi Hasan Miraz,c58b0108,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,2,0,2
+1133822,2017/18,Sri Lanka,11,NLTC Perera,0f12f9df,Mehedi Hasan Miraz,c58b0108,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,1,0,1
+1133822,2017/18,Sri Lanka,11,MDKJ Perera,f21043a5,Mehedi Hasan Miraz,c58b0108,NLTC Perera,0f12f9df,0,0,0,0,0,,,,,,0,0,0
+1133822,2017/18,Sri Lanka,11,MDKJ Perera,f21043a5,Mehedi Hasan Miraz,c58b0108,NLTC Perera,0f12f9df,0,0,0,0,0,,,,,,1,0,1
+1133822,2017/18,Sri Lanka,12,MDKJ Perera,f21043a5,Mustafizur Rahman,0a8fce53,NLTC Perera,0f12f9df,0,0,0,0,0,,,,,,2,0,2
+1133822,2017/18,Sri Lanka,12,MDKJ Perera,f21043a5,Mustafizur Rahman,0a8fce53,NLTC Perera,0f12f9df,0,0,0,0,0,,,,,,6,0,6
+1133822,2017/18,Sri Lanka,12,MDKJ Perera,f21043a5,Mustafizur Rahman,0a8fce53,NLTC Perera,0f12f9df,0,0,0,0,0,,,,,,4,0,4
+1133822,2017/18,Sri Lanka,12,MDKJ Perera,f21043a5,Mustafizur Rahman,0a8fce53,NLTC Perera,0f12f9df,0,0,0,0,0,,,,,,1,0,1
+1133822,2017/18,Sri Lanka,12,NLTC Perera,0f12f9df,Mustafizur Rahman,0a8fce53,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,4,0,4
+1133822,2017/18,Sri Lanka,12,NLTC Perera,0f12f9df,Mustafizur Rahman,0a8fce53,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,1,0,1
+1133822,2017/18,Sri Lanka,13,NLTC Perera,0f12f9df,Mahmudullah,bf1d7d3e,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,1,0,1
+1133822,2017/18,Sri Lanka,13,MDKJ Perera,f21043a5,Mahmudullah,bf1d7d3e,NLTC Perera,0f12f9df,0,0,0,0,0,,,,,,0,0,0
+1133822,2017/18,Sri Lanka,13,MDKJ Perera,f21043a5,Mahmudullah,bf1d7d3e,NLTC Perera,0f12f9df,0,0,0,0,0,,,,,,2,0,2
+1133822,2017/18,Sri Lanka,13,MDKJ Perera,f21043a5,Mahmudullah,bf1d7d3e,NLTC Perera,0f12f9df,0,0,0,0,0,,,,,,0,0,0
+1133822,2017/18,Sri Lanka,13,MDKJ Perera,f21043a5,Mahmudullah,bf1d7d3e,NLTC Perera,0f12f9df,0,0,0,0,0,,,,,,0,0,0
+1133822,2017/18,Sri Lanka,13,MDKJ Perera,f21043a5,Mahmudullah,bf1d7d3e,NLTC Perera,0f12f9df,0,0,0,0,0,,,,,,1,0,1
+1133822,2017/18,Sri Lanka,14,MDKJ Perera,f21043a5,Soumya Sarkar,4d9f9686,NLTC Perera,0f12f9df,0,0,0,0,0,,,,,,4,0,4
+1133822,2017/18,Sri Lanka,14,MDKJ Perera,f21043a5,Soumya Sarkar,4d9f9686,NLTC Perera,0f12f9df,0,0,0,0,0,,,,,,1,0,1
+1133822,2017/18,Sri Lanka,14,NLTC Perera,0f12f9df,Soumya Sarkar,4d9f9686,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,0,0,0
+1133822,2017/18,Sri Lanka,14,NLTC Perera,0f12f9df,Soumya Sarkar,4d9f9686,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,2,0,2
+1133822,2017/18,Sri Lanka,14,NLTC Perera,0f12f9df,Soumya Sarkar,4d9f9686,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,1,0,1
+1133822,2017/18,Sri Lanka,14,MDKJ Perera,f21043a5,Soumya Sarkar,4d9f9686,NLTC Perera,0f12f9df,0,0,0,0,0,,,,,,1,0,1
+1133822,2017/18,Sri Lanka,15,MDKJ Perera,f21043a5,Mahmudullah,bf1d7d3e,NLTC Perera,0f12f9df,0,0,0,0,0,,,,,,2,0,2
+1133822,2017/18,Sri Lanka,15,MDKJ Perera,f21043a5,Mahmudullah,bf1d7d3e,NLTC Perera,0f12f9df,0,0,0,0,0,,,,,,4,0,4
+1133822,2017/18,Sri Lanka,15,MDKJ Perera,f21043a5,Mahmudullah,bf1d7d3e,NLTC Perera,0f12f9df,0,0,0,0,0,,,,,,1,0,1
+1133822,2017/18,Sri Lanka,15,NLTC Perera,0f12f9df,Mahmudullah,bf1d7d3e,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,2,0,2
+1133822,2017/18,Sri Lanka,15,NLTC Perera,0f12f9df,Mahmudullah,bf1d7d3e,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,1,0,1
+1133822,2017/18,Sri Lanka,15,MDKJ Perera,f21043a5,Mahmudullah,bf1d7d3e,NLTC Perera,0f12f9df,0,0,0,0,0,,,,,,1,0,1
+1133822,2017/18,Sri Lanka,16,MDKJ Perera,f21043a5,Mustafizur Rahman,0a8fce53,NLTC Perera,0f12f9df,0,0,0,0,0,,,,,,1,0,1
+1133822,2017/18,Sri Lanka,16,NLTC Perera,0f12f9df,Mustafizur Rahman,0a8fce53,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,2,0,2
+1133822,2017/18,Sri Lanka,16,NLTC Perera,0f12f9df,Mustafizur Rahman,0a8fce53,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,6,0,6
+1133822,2017/18,Sri Lanka,16,NLTC Perera,0f12f9df,Mustafizur Rahman,0a8fce53,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,6,0,6
+1133822,2017/18,Sri Lanka,16,NLTC Perera,0f12f9df,Mustafizur Rahman,0a8fce53,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,2,0,2
+1133822,2017/18,Sri Lanka,16,NLTC Perera,0f12f9df,Mustafizur Rahman,0a8fce53,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,0,0,0
+1133822,2017/18,Sri Lanka,17,MDKJ Perera,f21043a5,Rubel Hossain,f56cd097,NLTC Perera,0f12f9df,0,0,0,0,0,,,,,,1,0,1
+1133822,2017/18,Sri Lanka,17,NLTC Perera,0f12f9df,Rubel Hossain,f56cd097,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,4,0,4
+1133822,2017/18,Sri Lanka,17,NLTC Perera,0f12f9df,Rubel Hossain,f56cd097,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,2,0,2
+1133822,2017/18,Sri Lanka,17,NLTC Perera,0f12f9df,Rubel Hossain,f56cd097,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,2,0,2
+1133822,2017/18,Sri Lanka,17,NLTC Perera,0f12f9df,Rubel Hossain,f56cd097,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,0,0,0
+1133822,2017/18,Sri Lanka,17,NLTC Perera,0f12f9df,Rubel Hossain,f56cd097,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,1,0,1
+1133822,2017/18,Sri Lanka,18,NLTC Perera,0f12f9df,Soumya Sarkar,4d9f9686,MDKJ Perera,f21043a5,0,0,1,0,0,,,,,,0,1,1
+1133822,2017/18,Sri Lanka,18,MDKJ Perera,f21043a5,Soumya Sarkar,4d9f9686,NLTC Perera,0f12f9df,0,0,0,0,1,MDKJ Perera,f21043a5,Mehedi Hasan Miraz,c58b0108,caught,0,0,0
+1133822,2017/18,Sri Lanka,18,NLTC Perera,0f12f9df,Soumya Sarkar,4d9f9686,I Udana,ac5ae4af,0,0,0,0,0,,,,,,6,0,6
+1133822,2017/18,Sri Lanka,18,NLTC Perera,0f12f9df,Soumya Sarkar,4d9f9686,I Udana,ac5ae4af,0,0,0,0,0,,,,,,1,0,1
+1133822,2017/18,Sri Lanka,18,I Udana,ac5ae4af,Soumya Sarkar,4d9f9686,NLTC Perera,0f12f9df,0,0,0,0,0,,,,,,3,0,3
+1133822,2017/18,Sri Lanka,18,NLTC Perera,0f12f9df,Soumya Sarkar,4d9f9686,I Udana,ac5ae4af,1,0,0,0,0,,,,,,0,1,1
+1133822,2017/18,Sri Lanka,18,NLTC Perera,0f12f9df,Soumya Sarkar,4d9f9686,I Udana,ac5ae4af,0,0,0,0,0,,,,,,1,0,1
+1133822,2017/18,Sri Lanka,19,NLTC Perera,0f12f9df,Rubel Hossain,f56cd097,I Udana,ac5ae4af,0,0,0,0,0,,,,,,4,0,4
+1133822,2017/18,Sri Lanka,19,NLTC Perera,0f12f9df,Rubel Hossain,f56cd097,I Udana,ac5ae4af,0,0,0,0,1,NLTC Perera,0f12f9df,Tamim Iqbal,3b041a12,caught,0,0,0
+1133822,2017/18,Sri Lanka,19,I Udana,ac5ae4af,Rubel Hossain,f56cd097,A Dananjaya,5b16a806,0,0,0,0,0,,,,,,2,0,2
+1133822,2017/18,Sri Lanka,19,I Udana,ac5ae4af,Rubel Hossain,f56cd097,A Dananjaya,5b16a806,0,0,0,0,0,,,,,,1,0,1
+1133822,2017/18,Sri Lanka,19,A Dananjaya,5b16a806,Rubel Hossain,f56cd097,I Udana,ac5ae4af,0,0,0,0,0,,,,,,1,0,1
+1133822,2017/18,Sri Lanka,19,I Udana,ac5ae4af,Rubel Hossain,f56cd097,A Dananjaya,5b16a806,0,0,0,0,0,,,,,,1,0,1
+1133822,2017/18,Bangladesh,0,Tamim Iqbal,3b041a12,N Pradeep,2af838ee,Liton Das,0404d43c,0,0,0,0,0,,,,,,0,0,0
+1133822,2017/18,Bangladesh,0,Tamim Iqbal,3b041a12,N Pradeep,2af838ee,Liton Das,0404d43c,0,0,0,0,0,,,,,,4,0,4
+1133822,2017/18,Bangladesh,0,Tamim Iqbal,3b041a12,N Pradeep,2af838ee,Liton Das,0404d43c,0,0,0,0,0,,,,,,0,0,0
+1133822,2017/18,Bangladesh,0,Tamim Iqbal,3b041a12,N Pradeep,2af838ee,Liton Das,0404d43c,0,0,0,0,0,,,,,,4,0,4
+1133822,2017/18,Bangladesh,0,Tamim Iqbal,3b041a12,N Pradeep,2af838ee,Liton Das,0404d43c,0,0,0,0,0,,,,,,1,0,1
+1133822,2017/18,Bangladesh,0,Liton Das,0404d43c,N Pradeep,2af838ee,Tamim Iqbal,3b041a12,1,0,0,0,0,,,,,,0,1,1
+1133822,2017/18,Bangladesh,0,Liton Das,0404d43c,N Pradeep,2af838ee,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,0,0,0
+1133822,2017/18,Bangladesh,1,Tamim Iqbal,3b041a12,A Dananjaya,5b16a806,Liton Das,0404d43c,0,0,0,0,0,,,,,,0,0,0
+1133822,2017/18,Bangladesh,1,Tamim Iqbal,3b041a12,A Dananjaya,5b16a806,Liton Das,0404d43c,0,0,0,0,0,,,,,,1,0,1
+1133822,2017/18,Bangladesh,1,Liton Das,0404d43c,A Dananjaya,5b16a806,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,0,0,0
+1133822,2017/18,Bangladesh,1,Liton Das,0404d43c,A Dananjaya,5b16a806,Tamim Iqbal,3b041a12,0,0,0,0,1,Liton Das,0404d43c,NLTC Perera,0f12f9df,caught,0,0,0
+1133822,2017/18,Bangladesh,1,Sabbir Rahman,7147f314,A Dananjaya,5b16a806,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,4,0,4
+1133822,2017/18,Bangladesh,1,Sabbir Rahman,7147f314,A Dananjaya,5b16a806,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,4,0,4
+1133822,2017/18,Bangladesh,2,Tamim Iqbal,3b041a12,MA Aponso,e2ee90d9,Sabbir Rahman,7147f314,0,0,0,0,0,,,,,,1,0,1
+1133822,2017/18,Bangladesh,2,Sabbir Rahman,7147f314,MA Aponso,e2ee90d9,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,0,0,0
+1133822,2017/18,Bangladesh,2,Sabbir Rahman,7147f314,MA Aponso,e2ee90d9,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,1,0,1
+1133822,2017/18,Bangladesh,2,Tamim Iqbal,3b041a12,MA Aponso,e2ee90d9,Sabbir Rahman,7147f314,0,0,0,0,0,,,,,,4,0,4
+1133822,2017/18,Bangladesh,2,Tamim Iqbal,3b041a12,MA Aponso,e2ee90d9,Sabbir Rahman,7147f314,0,0,0,0,0,,,,,,1,0,1
+1133822,2017/18,Bangladesh,2,Sabbir Rahman,7147f314,MA Aponso,e2ee90d9,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,0,0,0
+1133822,2017/18,Bangladesh,3,Tamim Iqbal,3b041a12,A Dananjaya,5b16a806,Sabbir Rahman,7147f314,0,0,0,0,0,,,,,,2,0,2
+1133822,2017/18,Bangladesh,3,Tamim Iqbal,3b041a12,A Dananjaya,5b16a806,Sabbir Rahman,7147f314,0,0,0,0,0,,,,,,1,0,1
+1133822,2017/18,Bangladesh,3,Sabbir Rahman,7147f314,A Dananjaya,5b16a806,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,4,0,4
+1133822,2017/18,Bangladesh,3,Sabbir Rahman,7147f314,A Dananjaya,5b16a806,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,0,0,0
+1133822,2017/18,Bangladesh,3,Sabbir Rahman,7147f314,A Dananjaya,5b16a806,Tamim Iqbal,3b041a12,0,0,0,0,1,Sabbir Rahman,7147f314,MDKJ Perera,f21043a5,stumped,0,0,0
+1133822,2017/18,Bangladesh,3,Mushfiqur Rahim,a94e08ea,A Dananjaya,5b16a806,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,1,0,1
+1133822,2017/18,Bangladesh,4,Mushfiqur Rahim,a94e08ea,MA Aponso,e2ee90d9,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,0,0,0
+1133822,2017/18,Bangladesh,4,Mushfiqur Rahim,a94e08ea,MA Aponso,e2ee90d9,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,2,0,2
+1133822,2017/18,Bangladesh,4,Mushfiqur Rahim,a94e08ea,MA Aponso,e2ee90d9,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,4,0,4
+1133822,2017/18,Bangladesh,4,Mushfiqur Rahim,a94e08ea,MA Aponso,e2ee90d9,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,0,0,0
+1133822,2017/18,Bangladesh,4,Mushfiqur Rahim,a94e08ea,MA Aponso,e2ee90d9,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,0,0,0
+1133822,2017/18,Bangladesh,4,Mushfiqur Rahim,a94e08ea,MA Aponso,e2ee90d9,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,1,0,1
+1133822,2017/18,Bangladesh,5,Mushfiqur Rahim,a94e08ea,NLTC Perera,0f12f9df,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,1,0,1
+1133822,2017/18,Bangladesh,5,Tamim Iqbal,3b041a12,NLTC Perera,0f12f9df,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,0,0,0
+1133822,2017/18,Bangladesh,5,Tamim Iqbal,3b041a12,NLTC Perera,0f12f9df,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,1,0,1
+1133822,2017/18,Bangladesh,5,Mushfiqur Rahim,a94e08ea,NLTC Perera,0f12f9df,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,2,0,2
+1133822,2017/18,Bangladesh,5,Mushfiqur Rahim,a94e08ea,NLTC Perera,0f12f9df,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,1,0,1
+1133822,2017/18,Bangladesh,5,Tamim Iqbal,3b041a12,NLTC Perera,0f12f9df,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,4,0,4
+1133822,2017/18,Bangladesh,6,Mushfiqur Rahim,a94e08ea,MD Gunathilaka,509a7ca1,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,1,0,1
+1133822,2017/18,Bangladesh,6,Tamim Iqbal,3b041a12,MD Gunathilaka,509a7ca1,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,0,0,0
+1133822,2017/18,Bangladesh,6,Tamim Iqbal,3b041a12,MD Gunathilaka,509a7ca1,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,0,0,0
+1133822,2017/18,Bangladesh,6,Tamim Iqbal,3b041a12,MD Gunathilaka,509a7ca1,Mushfiqur Rahim,a94e08ea,1,0,0,0,0,,,,,,0,1,1
+1133822,2017/18,Bangladesh,6,Tamim Iqbal,3b041a12,MD Gunathilaka,509a7ca1,Mushfiqur Rahim,a94e08ea,5,0,0,0,0,,,,,,0,5,5
+1133822,2017/18,Bangladesh,6,Tamim Iqbal,3b041a12,MD Gunathilaka,509a7ca1,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,0,0,0
+1133822,2017/18,Bangladesh,6,Tamim Iqbal,3b041a12,MD Gunathilaka,509a7ca1,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,1,0,1
+1133822,2017/18,Bangladesh,6,Mushfiqur Rahim,a94e08ea,MD Gunathilaka,509a7ca1,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,1,0,1
+1133822,2017/18,Bangladesh,7,Mushfiqur Rahim,a94e08ea,A Dananjaya,5b16a806,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,1,0,1
+1133822,2017/18,Bangladesh,7,Tamim Iqbal,3b041a12,A Dananjaya,5b16a806,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,1,0,1
+1133822,2017/18,Bangladesh,7,Mushfiqur Rahim,a94e08ea,A Dananjaya,5b16a806,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,1,0,1
+1133822,2017/18,Bangladesh,7,Tamim Iqbal,3b041a12,A Dananjaya,5b16a806,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,6,0,6
+1133822,2017/18,Bangladesh,7,Tamim Iqbal,3b041a12,A Dananjaya,5b16a806,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,1,0,1
+1133822,2017/18,Bangladesh,7,Mushfiqur Rahim,a94e08ea,A Dananjaya,5b16a806,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,0,0,0
+1133822,2017/18,Bangladesh,8,Tamim Iqbal,3b041a12,BMAJ Mendis,9868bc75,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,0,0,0
+1133822,2017/18,Bangladesh,8,Tamim Iqbal,3b041a12,BMAJ Mendis,9868bc75,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,0,0,0
+1133822,2017/18,Bangladesh,8,Tamim Iqbal,3b041a12,BMAJ Mendis,9868bc75,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,0,0,0
+1133822,2017/18,Bangladesh,8,Tamim Iqbal,3b041a12,BMAJ Mendis,9868bc75,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,1,0,1
+1133822,2017/18,Bangladesh,8,Mushfiqur Rahim,a94e08ea,BMAJ Mendis,9868bc75,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,1,0,1
+1133822,2017/18,Bangladesh,8,Tamim Iqbal,3b041a12,BMAJ Mendis,9868bc75,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,1,0,1
+1133822,2017/18,Bangladesh,9,Tamim Iqbal,3b041a12,I Udana,ac5ae4af,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,1,0,1
+1133822,2017/18,Bangladesh,9,Mushfiqur Rahim,a94e08ea,I Udana,ac5ae4af,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,4,0,4
+1133822,2017/18,Bangladesh,9,Mushfiqur Rahim,a94e08ea,I Udana,ac5ae4af,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,1,0,1
+1133822,2017/18,Bangladesh,9,Tamim Iqbal,3b041a12,I Udana,ac5ae4af,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,0,0,0
+1133822,2017/18,Bangladesh,9,Tamim Iqbal,3b041a12,I Udana,ac5ae4af,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,1,0,1
+1133822,2017/18,Bangladesh,9,Mushfiqur Rahim,a94e08ea,I Udana,ac5ae4af,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,1,0,1
+1133822,2017/18,Bangladesh,10,Mushfiqur Rahim,a94e08ea,BMAJ Mendis,9868bc75,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,1,0,1
+1133822,2017/18,Bangladesh,10,Tamim Iqbal,3b041a12,BMAJ Mendis,9868bc75,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,1,0,1
+1133822,2017/18,Bangladesh,10,Mushfiqur Rahim,a94e08ea,BMAJ Mendis,9868bc75,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,1,0,1
+1133822,2017/18,Bangladesh,10,Tamim Iqbal,3b041a12,BMAJ Mendis,9868bc75,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,0,0,0
+1133822,2017/18,Bangladesh,10,Tamim Iqbal,3b041a12,BMAJ Mendis,9868bc75,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,1,0,1
+1133822,2017/18,Bangladesh,10,Mushfiqur Rahim,a94e08ea,BMAJ Mendis,9868bc75,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,1,0,1
+1133822,2017/18,Bangladesh,11,Mushfiqur Rahim,a94e08ea,A Dananjaya,5b16a806,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,1,0,1
+1133822,2017/18,Bangladesh,11,Tamim Iqbal,3b041a12,A Dananjaya,5b16a806,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,0,0,0
+1133822,2017/18,Bangladesh,11,Tamim Iqbal,3b041a12,A Dananjaya,5b16a806,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,0,0,0
+1133822,2017/18,Bangladesh,11,Tamim Iqbal,3b041a12,A Dananjaya,5b16a806,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,0,0,0
+1133822,2017/18,Bangladesh,11,Tamim Iqbal,3b041a12,A Dananjaya,5b16a806,Mushfiqur Rahim,a94e08ea,1,0,0,0,0,,,,,,0,1,1
+1133822,2017/18,Bangladesh,11,Tamim Iqbal,3b041a12,A Dananjaya,5b16a806,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,2,0,2
+1133822,2017/18,Bangladesh,11,Tamim Iqbal,3b041a12,A Dananjaya,5b16a806,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,6,0,6
+1133822,2017/18,Bangladesh,12,Mushfiqur Rahim,a94e08ea,MA Aponso,e2ee90d9,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,1,0,1
+1133822,2017/18,Bangladesh,12,Tamim Iqbal,3b041a12,MA Aponso,e2ee90d9,Mushfiqur Rahim,a94e08ea,0,0,0,0,0,,,,,,1,0,1
+1133822,2017/18,Bangladesh,12,Mushfiqur Rahim,a94e08ea,MA Aponso,e2ee90d9,Tamim Iqbal,3b041a12,0,0,0,0,1,Mushfiqur Rahim,a94e08ea,NLTC Perera,0f12f9df,caught,0,0,0
+1133822,2017/18,Bangladesh,12,Soumya Sarkar,4d9f9686,MA Aponso,e2ee90d9,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,1,0,1
+1133822,2017/18,Bangladesh,12,Tamim Iqbal,3b041a12,MA Aponso,e2ee90d9,Soumya Sarkar,4d9f9686,0,0,0,0,0,,,,,,1,0,1
+1133822,2017/18,Bangladesh,12,Soumya Sarkar,4d9f9686,MA Aponso,e2ee90d9,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,1,0,1
+1133822,2017/18,Bangladesh,13,Soumya Sarkar,4d9f9686,MD Gunathilaka,509a7ca1,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,0,0,0
+1133822,2017/18,Bangladesh,13,Soumya Sarkar,4d9f9686,MD Gunathilaka,509a7ca1,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,2,0,2
+1133822,2017/18,Bangladesh,13,Soumya Sarkar,4d9f9686,MD Gunathilaka,509a7ca1,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,1,0,1
+1133822,2017/18,Bangladesh,13,Tamim Iqbal,3b041a12,MD Gunathilaka,509a7ca1,Soumya Sarkar,4d9f9686,0,0,0,0,0,,,,,,1,0,1
+1133822,2017/18,Bangladesh,13,Soumya Sarkar,4d9f9686,MD Gunathilaka,509a7ca1,Tamim Iqbal,3b041a12,0,0,0,0,0,,,,,,1,0,1
+1133822,2017/18,Bangladesh,13,Tamim Iqbal,3b041a12,MD Gunathilaka,509a7ca1,Soumya Sarkar,4d9f9686,0,0,0,0,1,Tamim Iqbal,3b041a12,MDKJ Perera,f21043a5,caught,0,0,0
+1133822,2017/18,Bangladesh,14,Soumya Sarkar,4d9f9686,BMAJ Mendis,9868bc75,Mahmudullah,bf1d7d3e,0,0,0,0,0,,,,,,0,0,0
+1133822,2017/18,Bangladesh,14,Soumya Sarkar,4d9f9686,BMAJ Mendis,9868bc75,Mahmudullah,bf1d7d3e,0,0,0,0,0,,,,,,2,0,2
+1133822,2017/18,Bangladesh,14,Soumya Sarkar,4d9f9686,BMAJ Mendis,9868bc75,Mahmudullah,bf1d7d3e,0,0,0,0,0,,,,,,2,0,2
+1133822,2017/18,Bangladesh,14,Soumya Sarkar,4d9f9686,BMAJ Mendis,9868bc75,Mahmudullah,bf1d7d3e,0,0,0,0,0,,,,,,0,0,0
+1133822,2017/18,Bangladesh,14,Soumya Sarkar,4d9f9686,BMAJ Mendis,9868bc75,Mahmudullah,bf1d7d3e,0,0,0,0,1,Soumya Sarkar,4d9f9686,MDKJ Perera,f21043a5,caught,0,0,0
+1133822,2017/18,Bangladesh,14,Shakib Al Hasan,7dc35884,BMAJ Mendis,9868bc75,Mahmudullah,bf1d7d3e,0,0,0,0,0,,,,,,1,0,1
+1133822,2017/18,Bangladesh,15,Shakib Al Hasan,7dc35884,MD Gunathilaka,509a7ca1,Mahmudullah,bf1d7d3e,0,0,0,0,0,,,,,,0,0,0
+1133822,2017/18,Bangladesh,15,Shakib Al Hasan,7dc35884,MD Gunathilaka,509a7ca1,Mahmudullah,bf1d7d3e,1,0,0,0,0,,,,,,0,1,1
+1133822,2017/18,Bangladesh,15,Shakib Al Hasan,7dc35884,MD Gunathilaka,509a7ca1,Mahmudullah,bf1d7d3e,0,0,0,0,0,,,,,,1,0,1
+1133822,2017/18,Bangladesh,15,Mahmudullah,bf1d7d3e,MD Gunathilaka,509a7ca1,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,4,0,4
+1133822,2017/18,Bangladesh,15,Mahmudullah,bf1d7d3e,MD Gunathilaka,509a7ca1,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+1133822,2017/18,Bangladesh,15,Shakib Al Hasan,7dc35884,MD Gunathilaka,509a7ca1,Mahmudullah,bf1d7d3e,0,0,0,0,0,,,,,,1,0,1
+1133822,2017/18,Bangladesh,15,Mahmudullah,bf1d7d3e,MD Gunathilaka,509a7ca1,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,2,0,2
+1133822,2017/18,Bangladesh,16,Shakib Al Hasan,7dc35884,BMAJ Mendis,9868bc75,Mahmudullah,bf1d7d3e,0,0,0,0,0,,,,,,1,0,1
+1133822,2017/18,Bangladesh,16,Mahmudullah,bf1d7d3e,BMAJ Mendis,9868bc75,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,0,0,0
+1133822,2017/18,Bangladesh,16,Mahmudullah,bf1d7d3e,BMAJ Mendis,9868bc75,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,2,0,2
+1133822,2017/18,Bangladesh,16,Mahmudullah,bf1d7d3e,BMAJ Mendis,9868bc75,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,6,0,6
+1133822,2017/18,Bangladesh,16,Mahmudullah,bf1d7d3e,BMAJ Mendis,9868bc75,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+1133822,2017/18,Bangladesh,16,Shakib Al Hasan,7dc35884,BMAJ Mendis,9868bc75,Mahmudullah,bf1d7d3e,0,0,0,0,0,,,,,,1,0,1
+1133822,2017/18,Bangladesh,17,Shakib Al Hasan,7dc35884,I Udana,ac5ae4af,Mahmudullah,bf1d7d3e,0,0,0,0,0,,,,,,1,0,1
+1133822,2017/18,Bangladesh,17,Mahmudullah,bf1d7d3e,I Udana,ac5ae4af,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+1133822,2017/18,Bangladesh,17,Shakib Al Hasan,7dc35884,I Udana,ac5ae4af,Mahmudullah,bf1d7d3e,0,0,0,0,0,,,,,,1,0,1
+1133822,2017/18,Bangladesh,17,Mahmudullah,bf1d7d3e,I Udana,ac5ae4af,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,2,0,2
+1133822,2017/18,Bangladesh,17,Mahmudullah,bf1d7d3e,I Udana,ac5ae4af,Shakib Al Hasan,7dc35884,0,0,0,0,0,,,,,,1,0,1
+1133822,2017/18,Bangladesh,17,Shakib Al Hasan,7dc35884,I Udana,ac5ae4af,Mahmudullah,bf1d7d3e,0,0,0,0,1,Shakib Al Hasan,7dc35884,A Dananjaya,5b16a806,caught,0,0,0
+1133822,2017/18,Bangladesh,18,Mahmudullah,bf1d7d3e,NLTC Perera,0f12f9df,Mehedi Hasan Miraz,c58b0108,0,0,0,0,0,,,,,,2,0,2
+1133822,2017/18,Bangladesh,18,Mahmudullah,bf1d7d3e,NLTC Perera,0f12f9df,Mehedi Hasan Miraz,c58b0108,0,0,0,0,0,,,,,,0,0,0
+1133822,2017/18,Bangladesh,18,Mahmudullah,bf1d7d3e,NLTC Perera,0f12f9df,Mehedi Hasan Miraz,c58b0108,0,0,0,0,0,,,,,,2,0,2
+1133822,2017/18,Bangladesh,18,Mahmudullah,bf1d7d3e,NLTC Perera,0f12f9df,Mehedi Hasan Miraz,c58b0108,0,0,0,0,0,,,,,,4,0,4
+1133822,2017/18,Bangladesh,18,Mahmudullah,bf1d7d3e,NLTC Perera,0f12f9df,Mehedi Hasan Miraz,c58b0108,0,0,0,0,0,,,,,,3,0,3
+1133822,2017/18,Bangladesh,18,Mehedi Hasan Miraz,c58b0108,NLTC Perera,0f12f9df,Mahmudullah,bf1d7d3e,0,0,0,0,1,Mehedi Hasan Miraz,c58b0108,,,run out,0,0,0
+1133822,2017/18,Bangladesh,19,Mustafizur Rahman,0a8fce53,I Udana,ac5ae4af,Mahmudullah,bf1d7d3e,0,0,0,0,0,,,,,,0,0,0
+1133822,2017/18,Bangladesh,19,Mustafizur Rahman,0a8fce53,I Udana,ac5ae4af,Mahmudullah,bf1d7d3e,0,0,0,0,1,Mustafizur Rahman,0a8fce53,,,run out,0,0,0
+1133822,2017/18,Bangladesh,19,Mahmudullah,bf1d7d3e,I Udana,ac5ae4af,Rubel Hossain,f56cd097,0,0,0,0,0,,,,,,4,0,4
+1133822,2017/18,Bangladesh,19,Mahmudullah,bf1d7d3e,I Udana,ac5ae4af,Rubel Hossain,f56cd097,0,0,0,0,0,,,,,,2,0,2
+1133822,2017/18,Bangladesh,19,Mahmudullah,bf1d7d3e,I Udana,ac5ae4af,Rubel Hossain,f56cd097,0,0,0,0,0,,,,,,6,0,6

@@ -1,0 +1,170 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1395033,2023,France,0,IY Mckeon,59ff3c57,IJR Zwilling,47b32a5a,Ganesh Pooja,ab144207,0,0,0,0,0,,,,,,0,0,0
+1395033,2023,France,0,IY Mckeon,59ff3c57,IJR Zwilling,47b32a5a,Ganesh Pooja,ab144207,0,0,0,0,1,IY Mckeon,59ff3c57,,,caught and bowled,0,0,0
+1395033,2023,France,0,ME Violleau,69f47625,IJR Zwilling,47b32a5a,Ganesh Pooja,ab144207,0,0,0,0,0,,,,,,0,0,0
+1395033,2023,France,0,ME Violleau,69f47625,IJR Zwilling,47b32a5a,Ganesh Pooja,ab144207,1,0,0,0,0,,,,,,0,1,1
+1395033,2023,France,0,ME Violleau,69f47625,IJR Zwilling,47b32a5a,Ganesh Pooja,ab144207,0,0,0,0,0,,,,,,0,0,0
+1395033,2023,France,0,ME Violleau,69f47625,IJR Zwilling,47b32a5a,Ganesh Pooja,ab144207,0,0,0,0,0,,,,,,1,0,1
+1395033,2023,France,0,Ganesh Pooja,ab144207,IJR Zwilling,47b32a5a,ME Violleau,69f47625,0,0,0,0,0,,,,,,0,0,0
+1395033,2023,France,1,ME Violleau,69f47625,R Rijke,42e4b276,Ganesh Pooja,ab144207,0,0,0,0,0,,,,,,1,0,1
+1395033,2023,France,1,Ganesh Pooja,ab144207,R Rijke,42e4b276,ME Violleau,69f47625,0,0,0,0,0,,,,,,1,0,1
+1395033,2023,France,1,ME Violleau,69f47625,R Rijke,42e4b276,Ganesh Pooja,ab144207,0,0,0,0,0,,,,,,1,0,1
+1395033,2023,France,1,Ganesh Pooja,ab144207,R Rijke,42e4b276,ME Violleau,69f47625,0,0,0,0,0,,,,,,0,0,0
+1395033,2023,France,1,Ganesh Pooja,ab144207,R Rijke,42e4b276,ME Violleau,69f47625,0,0,0,0,1,Ganesh Pooja,ab144207,,,caught and bowled,0,0,0
+1395033,2023,France,1,L Wykes-Templeman,46c9b2bc,R Rijke,42e4b276,ME Violleau,69f47625,0,0,0,0,0,,,,,,0,0,0
+1395033,2023,France,2,ME Violleau,69f47625,IJR Zwilling,47b32a5a,L Wykes-Templeman,46c9b2bc,0,0,0,0,0,,,,,,0,0,0
+1395033,2023,France,2,ME Violleau,69f47625,IJR Zwilling,47b32a5a,L Wykes-Templeman,46c9b2bc,0,0,0,0,0,,,,,,4,0,4
+1395033,2023,France,2,ME Violleau,69f47625,IJR Zwilling,47b32a5a,L Wykes-Templeman,46c9b2bc,0,0,0,0,0,,,,,,4,0,4
+1395033,2023,France,2,ME Violleau,69f47625,IJR Zwilling,47b32a5a,L Wykes-Templeman,46c9b2bc,0,0,0,0,0,,,,,,0,0,0
+1395033,2023,France,2,ME Violleau,69f47625,IJR Zwilling,47b32a5a,L Wykes-Templeman,46c9b2bc,0,0,0,0,0,,,,,,1,0,1
+1395033,2023,France,2,L Wykes-Templeman,46c9b2bc,IJR Zwilling,47b32a5a,ME Violleau,69f47625,0,0,0,0,0,,,,,,0,0,0
+1395033,2023,France,3,ME Violleau,69f47625,R Rijke,42e4b276,L Wykes-Templeman,46c9b2bc,0,0,0,0,0,,,,,,0,0,0
+1395033,2023,France,3,ME Violleau,69f47625,R Rijke,42e4b276,L Wykes-Templeman,46c9b2bc,0,0,0,0,1,ME Violleau,69f47625,IJR Zwilling,47b32a5a,caught,0,0,0
+1395033,2023,France,3,PC McGeown,1aabd6fc,R Rijke,42e4b276,L Wykes-Templeman,46c9b2bc,0,0,0,0,0,,,,,,0,0,0
+1395033,2023,France,3,PC McGeown,1aabd6fc,R Rijke,42e4b276,L Wykes-Templeman,46c9b2bc,0,0,0,0,0,,,,,,0,0,0
+1395033,2023,France,3,PC McGeown,1aabd6fc,R Rijke,42e4b276,L Wykes-Templeman,46c9b2bc,0,0,0,0,0,,,,,,0,0,0
+1395033,2023,France,3,PC McGeown,1aabd6fc,R Rijke,42e4b276,L Wykes-Templeman,46c9b2bc,0,0,0,0,0,,,,,,1,0,1
+1395033,2023,France,4,PC McGeown,1aabd6fc,IJR Zwilling,47b32a5a,L Wykes-Templeman,46c9b2bc,0,0,0,0,0,,,,,,0,0,0
+1395033,2023,France,4,PC McGeown,1aabd6fc,IJR Zwilling,47b32a5a,L Wykes-Templeman,46c9b2bc,0,0,0,0,0,,,,,,2,0,2
+1395033,2023,France,4,PC McGeown,1aabd6fc,IJR Zwilling,47b32a5a,L Wykes-Templeman,46c9b2bc,0,0,0,0,0,,,,,,0,0,0
+1395033,2023,France,4,PC McGeown,1aabd6fc,IJR Zwilling,47b32a5a,L Wykes-Templeman,46c9b2bc,0,0,0,0,0,,,,,,0,0,0
+1395033,2023,France,4,PC McGeown,1aabd6fc,IJR Zwilling,47b32a5a,L Wykes-Templeman,46c9b2bc,0,0,0,0,0,,,,,,0,0,0
+1395033,2023,France,4,PC McGeown,1aabd6fc,IJR Zwilling,47b32a5a,L Wykes-Templeman,46c9b2bc,0,0,0,0,1,PC McGeown,1aabd6fc,,,bowled,0,0,0
+1395033,2023,France,5,L Wykes-Templeman,46c9b2bc,R Rijke,42e4b276,TE Britton,5eceeb7f,0,0,0,0,0,,,,,,0,0,0
+1395033,2023,France,5,L Wykes-Templeman,46c9b2bc,R Rijke,42e4b276,TE Britton,5eceeb7f,0,0,0,0,0,,,,,,0,0,0
+1395033,2023,France,5,L Wykes-Templeman,46c9b2bc,R Rijke,42e4b276,TE Britton,5eceeb7f,1,0,0,0,0,,,,,,0,1,1
+1395033,2023,France,5,L Wykes-Templeman,46c9b2bc,R Rijke,42e4b276,TE Britton,5eceeb7f,0,0,0,0,0,,,,,,0,0,0
+1395033,2023,France,5,L Wykes-Templeman,46c9b2bc,R Rijke,42e4b276,TE Britton,5eceeb7f,0,0,0,0,1,L Wykes-Templeman,46c9b2bc,,,bowled,0,0,0
+1395033,2023,France,5,AL Seddon,d12ec7b3,R Rijke,42e4b276,TE Britton,5eceeb7f,0,0,0,0,0,,,,,,0,0,0
+1395033,2023,France,5,AL Seddon,d12ec7b3,R Rijke,42e4b276,TE Britton,5eceeb7f,0,0,0,0,0,,,,,,0,0,0
+1395033,2023,France,6,TE Britton,5eceeb7f,EN Lynch,4d35d0b3,AL Seddon,d12ec7b3,0,0,0,0,0,,,,,,0,0,0
+1395033,2023,France,6,TE Britton,5eceeb7f,EN Lynch,4d35d0b3,AL Seddon,d12ec7b3,0,0,0,0,0,,,,,,0,0,0
+1395033,2023,France,6,TE Britton,5eceeb7f,EN Lynch,4d35d0b3,AL Seddon,d12ec7b3,0,0,0,0,0,,,,,,0,0,0
+1395033,2023,France,6,TE Britton,5eceeb7f,EN Lynch,4d35d0b3,AL Seddon,d12ec7b3,0,0,0,0,0,,,,,,1,0,1
+1395033,2023,France,6,AL Seddon,d12ec7b3,EN Lynch,4d35d0b3,TE Britton,5eceeb7f,0,0,0,0,0,,,,,,0,0,0
+1395033,2023,France,6,AL Seddon,d12ec7b3,EN Lynch,4d35d0b3,TE Britton,5eceeb7f,0,0,0,0,0,,,,,,0,0,0
+1395033,2023,France,7,TE Britton,5eceeb7f,HWA Landheer,a6ec88f4,AL Seddon,d12ec7b3,1,0,0,0,0,,,,,,0,1,1
+1395033,2023,France,7,TE Britton,5eceeb7f,HWA Landheer,a6ec88f4,AL Seddon,d12ec7b3,0,0,0,0,0,,,,,,0,0,0
+1395033,2023,France,7,TE Britton,5eceeb7f,HWA Landheer,a6ec88f4,AL Seddon,d12ec7b3,0,0,0,0,0,,,,,,2,0,2
+1395033,2023,France,7,TE Britton,5eceeb7f,HWA Landheer,a6ec88f4,AL Seddon,d12ec7b3,0,0,0,0,0,,,,,,0,0,0
+1395033,2023,France,7,TE Britton,5eceeb7f,HWA Landheer,a6ec88f4,AL Seddon,d12ec7b3,0,0,0,0,0,,,,,,1,0,1
+1395033,2023,France,7,AL Seddon,d12ec7b3,HWA Landheer,a6ec88f4,TE Britton,5eceeb7f,0,0,0,0,0,,,,,,1,0,1
+1395033,2023,France,7,TE Britton,5eceeb7f,HWA Landheer,a6ec88f4,AL Seddon,d12ec7b3,0,0,0,0,0,,,,,,1,0,1
+1395033,2023,France,8,TE Britton,5eceeb7f,EN Lynch,4d35d0b3,AL Seddon,d12ec7b3,0,0,0,0,0,,,,,,1,0,1
+1395033,2023,France,8,AL Seddon,d12ec7b3,EN Lynch,4d35d0b3,TE Britton,5eceeb7f,0,0,0,0,0,,,,,,1,0,1
+1395033,2023,France,8,TE Britton,5eceeb7f,EN Lynch,4d35d0b3,AL Seddon,d12ec7b3,0,0,0,0,0,,,,,,0,0,0
+1395033,2023,France,8,TE Britton,5eceeb7f,EN Lynch,4d35d0b3,AL Seddon,d12ec7b3,0,0,0,0,0,,,,,,0,0,0
+1395033,2023,France,8,TE Britton,5eceeb7f,EN Lynch,4d35d0b3,AL Seddon,d12ec7b3,0,0,0,0,0,,,,,,0,0,0
+1395033,2023,France,8,TE Britton,5eceeb7f,EN Lynch,4d35d0b3,AL Seddon,d12ec7b3,0,0,0,0,0,,,,,,0,0,0
+1395033,2023,France,9,AL Seddon,d12ec7b3,HWA Landheer,a6ec88f4,TE Britton,5eceeb7f,0,0,0,0,0,,,,,,0,0,0
+1395033,2023,France,9,AL Seddon,d12ec7b3,HWA Landheer,a6ec88f4,TE Britton,5eceeb7f,0,0,0,0,0,,,,,,1,0,1
+1395033,2023,France,9,TE Britton,5eceeb7f,HWA Landheer,a6ec88f4,AL Seddon,d12ec7b3,1,0,0,0,0,,,,,,0,1,1
+1395033,2023,France,9,TE Britton,5eceeb7f,HWA Landheer,a6ec88f4,AL Seddon,d12ec7b3,0,0,0,0,0,,,,,,0,0,0
+1395033,2023,France,9,TE Britton,5eceeb7f,HWA Landheer,a6ec88f4,AL Seddon,d12ec7b3,0,0,0,0,0,,,,,,0,0,0
+1395033,2023,France,9,TE Britton,5eceeb7f,HWA Landheer,a6ec88f4,AL Seddon,d12ec7b3,1,0,0,0,0,,,,,,0,1,1
+1395033,2023,France,9,TE Britton,5eceeb7f,HWA Landheer,a6ec88f4,AL Seddon,d12ec7b3,0,0,0,0,0,,,,,,1,0,1
+1395033,2023,France,9,AL Seddon,d12ec7b3,HWA Landheer,a6ec88f4,TE Britton,5eceeb7f,0,0,0,0,0,,,,,,1,0,1
+1395033,2023,France,10,AL Seddon,d12ec7b3,C de Lange,c6a019f5,TE Britton,5eceeb7f,0,0,0,0,0,,,,,,2,0,2
+1395033,2023,France,10,AL Seddon,d12ec7b3,C de Lange,c6a019f5,TE Britton,5eceeb7f,0,0,0,2,0,,,,,,0,2,2
+1395033,2023,France,10,AL Seddon,d12ec7b3,C de Lange,c6a019f5,TE Britton,5eceeb7f,0,0,0,0,0,,,,,,1,0,1
+1395033,2023,France,10,TE Britton,5eceeb7f,C de Lange,c6a019f5,AL Seddon,d12ec7b3,0,0,0,0,0,,,,,,0,0,0
+1395033,2023,France,10,TE Britton,5eceeb7f,C de Lange,c6a019f5,AL Seddon,d12ec7b3,0,0,0,0,0,,,,,,0,0,0
+1395033,2023,France,10,TE Britton,5eceeb7f,C de Lange,c6a019f5,AL Seddon,d12ec7b3,0,0,0,0,0,,,,,,0,0,0
+1395033,2023,France,11,AL Seddon,d12ec7b3,P Molkenboer,fa9db243,TE Britton,5eceeb7f,0,0,0,0,0,,,,,,0,0,0
+1395033,2023,France,11,AL Seddon,d12ec7b3,P Molkenboer,fa9db243,TE Britton,5eceeb7f,0,0,0,0,0,,,,,,1,0,1
+1395033,2023,France,11,TE Britton,5eceeb7f,P Molkenboer,fa9db243,AL Seddon,d12ec7b3,0,0,0,0,0,,,,,,2,0,2
+1395033,2023,France,11,TE Britton,5eceeb7f,P Molkenboer,fa9db243,AL Seddon,d12ec7b3,0,0,0,0,0,,,,,,1,0,1
+1395033,2023,France,11,AL Seddon,d12ec7b3,P Molkenboer,fa9db243,TE Britton,5eceeb7f,0,0,0,0,0,,,,,,4,0,4
+1395033,2023,France,11,AL Seddon,d12ec7b3,P Molkenboer,fa9db243,TE Britton,5eceeb7f,1,0,0,0,0,,,,,,0,1,1
+1395033,2023,France,11,AL Seddon,d12ec7b3,P Molkenboer,fa9db243,TE Britton,5eceeb7f,0,0,0,0,0,,,,,,2,0,2
+1395033,2023,France,12,TE Britton,5eceeb7f,C de Lange,c6a019f5,AL Seddon,d12ec7b3,0,0,0,0,0,,,,,,0,0,0
+1395033,2023,France,12,TE Britton,5eceeb7f,C de Lange,c6a019f5,AL Seddon,d12ec7b3,0,0,0,0,1,TE Britton,5eceeb7f,MM Dekeling,983a0c34,caught,0,0,0
+1395033,2023,France,12,A Bester,047d293e,C de Lange,c6a019f5,AL Seddon,d12ec7b3,0,0,0,0,0,,,,,,0,0,0
+1395033,2023,France,12,A Bester,047d293e,C de Lange,c6a019f5,AL Seddon,d12ec7b3,0,0,0,0,0,,,,,,0,0,0
+1395033,2023,France,12,A Bester,047d293e,C de Lange,c6a019f5,AL Seddon,d12ec7b3,0,0,0,0,0,,,,,,1,0,1
+1395033,2023,France,12,AL Seddon,d12ec7b3,C de Lange,c6a019f5,A Bester,047d293e,0,0,0,0,0,,,,,,1,0,1
+1395033,2023,France,13,AL Seddon,d12ec7b3,R Rijke,42e4b276,A Bester,047d293e,0,0,0,0,0,,,,,,0,0,0
+1395033,2023,France,13,AL Seddon,d12ec7b3,R Rijke,42e4b276,A Bester,047d293e,0,0,0,0,0,,,,,,2,0,2
+1395033,2023,France,13,AL Seddon,d12ec7b3,R Rijke,42e4b276,A Bester,047d293e,0,0,0,0,0,,,,,,0,0,0
+1395033,2023,France,13,AL Seddon,d12ec7b3,R Rijke,42e4b276,A Bester,047d293e,0,0,1,0,0,,,,,,0,1,1
+1395033,2023,France,13,A Bester,047d293e,R Rijke,42e4b276,AL Seddon,d12ec7b3,0,0,0,0,1,A Bester,047d293e,B de Leede,b3020075,caught,0,0,0
+1395033,2023,France,13,Emma Patel,030a38e0,R Rijke,42e4b276,AL Seddon,d12ec7b3,0,0,0,0,0,,,,,,0,0,0
+1395033,2023,France,14,AL Seddon,d12ec7b3,C de Lange,c6a019f5,Emma Patel,030a38e0,0,0,0,0,0,,,,,,1,0,1
+1395033,2023,France,14,Emma Patel,030a38e0,C de Lange,c6a019f5,AL Seddon,d12ec7b3,0,0,0,0,0,,,,,,1,0,1
+1395033,2023,France,14,AL Seddon,d12ec7b3,C de Lange,c6a019f5,Emma Patel,030a38e0,0,0,0,0,0,,,,,,1,0,1
+1395033,2023,France,14,Emma Patel,030a38e0,C de Lange,c6a019f5,AL Seddon,d12ec7b3,0,0,0,0,0,,,,,,0,0,0
+1395033,2023,France,14,Emma Patel,030a38e0,C de Lange,c6a019f5,AL Seddon,d12ec7b3,0,0,0,0,0,,,,,,0,0,0
+1395033,2023,France,14,Emma Patel,030a38e0,C de Lange,c6a019f5,AL Seddon,d12ec7b3,0,0,0,0,0,,,,,,0,0,0
+1395033,2023,France,15,AL Seddon,d12ec7b3,CH van Koolwijk,27d5901c,Emma Patel,030a38e0,0,0,0,0,0,,,,,,0,0,0
+1395033,2023,France,15,AL Seddon,d12ec7b3,CH van Koolwijk,27d5901c,Emma Patel,030a38e0,0,0,0,0,0,,,,,,4,0,4
+1395033,2023,France,15,AL Seddon,d12ec7b3,CH van Koolwijk,27d5901c,Emma Patel,030a38e0,0,0,0,0,0,,,,,,0,0,0
+1395033,2023,France,15,AL Seddon,d12ec7b3,CH van Koolwijk,27d5901c,Emma Patel,030a38e0,0,0,0,0,0,,,,,,0,0,0
+1395033,2023,France,15,AL Seddon,d12ec7b3,CH van Koolwijk,27d5901c,Emma Patel,030a38e0,0,0,0,0,0,,,,,,1,0,1
+1395033,2023,France,15,Emma Patel,030a38e0,CH van Koolwijk,27d5901c,AL Seddon,d12ec7b3,0,0,0,0,0,,,,,,0,0,0
+1395033,2023,France,16,AL Seddon,d12ec7b3,C de Lange,c6a019f5,Emma Patel,030a38e0,0,0,0,0,0,,,,,,1,0,1
+1395033,2023,France,16,Emma Patel,030a38e0,C de Lange,c6a019f5,AL Seddon,d12ec7b3,0,0,0,0,0,,,,,,1,0,1
+1395033,2023,France,16,AL Seddon,d12ec7b3,C de Lange,c6a019f5,Emma Patel,030a38e0,0,0,0,0,0,,,,,,0,0,0
+1395033,2023,France,16,AL Seddon,d12ec7b3,C de Lange,c6a019f5,Emma Patel,030a38e0,0,0,0,0,0,,,,,,1,0,1
+1395033,2023,France,16,Emma Patel,030a38e0,C de Lange,c6a019f5,AL Seddon,d12ec7b3,0,0,0,0,0,,,,,,0,0,0
+1395033,2023,France,16,Emma Patel,030a38e0,C de Lange,c6a019f5,AL Seddon,d12ec7b3,0,0,0,0,0,,,,,,1,0,1
+1395033,2023,France,17,Emma Patel,030a38e0,CH van Koolwijk,27d5901c,AL Seddon,d12ec7b3,0,0,0,0,0,,,,,,0,0,0
+1395033,2023,France,17,Emma Patel,030a38e0,CH van Koolwijk,27d5901c,AL Seddon,d12ec7b3,1,0,0,0,0,,,,,,0,1,1
+1395033,2023,France,17,Emma Patel,030a38e0,CH van Koolwijk,27d5901c,AL Seddon,d12ec7b3,0,0,0,0,0,,,,,,1,0,1
+1395033,2023,France,17,AL Seddon,d12ec7b3,CH van Koolwijk,27d5901c,Emma Patel,030a38e0,0,0,0,0,1,AL Seddon,d12ec7b3,R Rijke,42e4b276,caught,0,0,0
+1395033,2023,France,17,DL Graham,907e30d9,CH van Koolwijk,27d5901c,Emma Patel,030a38e0,0,0,0,0,0,,,,,,0,0,0
+1395033,2023,France,17,DL Graham,907e30d9,CH van Koolwijk,27d5901c,Emma Patel,030a38e0,0,0,0,0,0,,,,,,1,0,1
+1395033,2023,France,17,Emma Patel,030a38e0,CH van Koolwijk,27d5901c,DL Graham,907e30d9,0,0,0,0,0,,,,,,0,0,0
+1395033,2023,France,18,DL Graham,907e30d9,EN Lynch,4d35d0b3,Emma Patel,030a38e0,0,0,0,0,0,,,,,,1,0,1
+1395033,2023,France,18,Emma Patel,030a38e0,EN Lynch,4d35d0b3,DL Graham,907e30d9,0,0,0,0,0,,,,,,0,0,0
+1395033,2023,France,18,Emma Patel,030a38e0,EN Lynch,4d35d0b3,DL Graham,907e30d9,0,0,0,0,0,,,,,,1,0,1
+1395033,2023,France,18,DL Graham,907e30d9,EN Lynch,4d35d0b3,Emma Patel,030a38e0,0,0,0,0,0,,,,,,0,0,0
+1395033,2023,France,18,DL Graham,907e30d9,EN Lynch,4d35d0b3,Emma Patel,030a38e0,0,0,0,0,0,,,,,,0,0,0
+1395033,2023,France,18,DL Graham,907e30d9,EN Lynch,4d35d0b3,Emma Patel,030a38e0,0,0,0,0,1,Emma Patel,030a38e0,B de Leede,b3020075,run out,0,0,0
+1395033,2023,France,19,DL Graham,907e30d9,IJR Zwilling,47b32a5a,PKM Mahawattage,a413b433,0,0,0,0,0,,,,,,1,0,1
+1395033,2023,France,19,PKM Mahawattage,a413b433,IJR Zwilling,47b32a5a,DL Graham,907e30d9,0,0,1,0,0,,,,,,0,1,1
+1395033,2023,France,19,DL Graham,907e30d9,IJR Zwilling,47b32a5a,PKM Mahawattage,a413b433,0,0,0,0,0,,,,,,0,0,0
+1395033,2023,France,19,DL Graham,907e30d9,IJR Zwilling,47b32a5a,PKM Mahawattage,a413b433,0,0,0,0,0,,,,,,1,0,1
+1395033,2023,France,19,PKM Mahawattage,a413b433,IJR Zwilling,47b32a5a,DL Graham,907e30d9,0,0,0,0,1,PKM Mahawattage,a413b433,,,bowled,0,0,0
+1395033,2023,Netherlands,0,IJR Zwilling,47b32a5a,AL Seddon,d12ec7b3,HDJ Siegers,6d48df01,0,0,0,0,0,,,,,,0,0,0
+1395033,2023,Netherlands,0,IJR Zwilling,47b32a5a,AL Seddon,d12ec7b3,HDJ Siegers,6d48df01,0,0,0,0,0,,,,,,0,0,0
+1395033,2023,Netherlands,0,IJR Zwilling,47b32a5a,AL Seddon,d12ec7b3,HDJ Siegers,6d48df01,0,0,0,0,0,,,,,,1,0,1
+1395033,2023,Netherlands,0,HDJ Siegers,6d48df01,AL Seddon,d12ec7b3,IJR Zwilling,47b32a5a,0,0,0,0,0,,,,,,1,0,1
+1395033,2023,Netherlands,0,IJR Zwilling,47b32a5a,AL Seddon,d12ec7b3,HDJ Siegers,6d48df01,1,0,0,0,0,,,,,,0,1,1
+1395033,2023,Netherlands,0,IJR Zwilling,47b32a5a,AL Seddon,d12ec7b3,HDJ Siegers,6d48df01,0,0,0,0,0,,,,,,2,0,2
+1395033,2023,Netherlands,0,IJR Zwilling,47b32a5a,AL Seddon,d12ec7b3,HDJ Siegers,6d48df01,1,0,0,0,0,,,,,,0,1,1
+1395033,2023,Netherlands,0,IJR Zwilling,47b32a5a,AL Seddon,d12ec7b3,HDJ Siegers,6d48df01,1,0,0,0,0,,,,,,0,1,1
+1395033,2023,Netherlands,0,IJR Zwilling,47b32a5a,AL Seddon,d12ec7b3,HDJ Siegers,6d48df01,0,0,0,0,0,,,,,,0,0,0
+1395033,2023,Netherlands,1,HDJ Siegers,6d48df01,DL Graham,907e30d9,IJR Zwilling,47b32a5a,0,0,0,0,0,,,,,,0,0,0
+1395033,2023,Netherlands,1,HDJ Siegers,6d48df01,DL Graham,907e30d9,IJR Zwilling,47b32a5a,0,0,0,0,0,,,,,,4,0,4
+1395033,2023,Netherlands,1,HDJ Siegers,6d48df01,DL Graham,907e30d9,IJR Zwilling,47b32a5a,0,0,0,0,0,,,,,,0,0,0
+1395033,2023,Netherlands,1,HDJ Siegers,6d48df01,DL Graham,907e30d9,IJR Zwilling,47b32a5a,0,0,0,0,0,,,,,,2,0,2
+1395033,2023,Netherlands,1,HDJ Siegers,6d48df01,DL Graham,907e30d9,IJR Zwilling,47b32a5a,0,0,0,0,0,,,,,,4,0,4
+1395033,2023,Netherlands,1,HDJ Siegers,6d48df01,DL Graham,907e30d9,IJR Zwilling,47b32a5a,5,0,0,0,0,,,,,,0,5,5
+1395033,2023,Netherlands,1,HDJ Siegers,6d48df01,DL Graham,907e30d9,IJR Zwilling,47b32a5a,0,0,0,0,0,,,,,,0,0,0
+1395033,2023,Netherlands,2,IJR Zwilling,47b32a5a,AL Seddon,d12ec7b3,HDJ Siegers,6d48df01,0,0,0,0,0,,,,,,0,0,0
+1395033,2023,Netherlands,2,IJR Zwilling,47b32a5a,AL Seddon,d12ec7b3,HDJ Siegers,6d48df01,0,0,0,0,0,,,,,,1,0,1
+1395033,2023,Netherlands,2,HDJ Siegers,6d48df01,AL Seddon,d12ec7b3,IJR Zwilling,47b32a5a,0,0,0,0,0,,,,,,4,0,4
+1395033,2023,Netherlands,2,HDJ Siegers,6d48df01,AL Seddon,d12ec7b3,IJR Zwilling,47b32a5a,0,0,0,0,0,,,,,,1,0,1
+1395033,2023,Netherlands,2,IJR Zwilling,47b32a5a,AL Seddon,d12ec7b3,HDJ Siegers,6d48df01,0,0,0,0,0,,,,,,2,0,2
+1395033,2023,Netherlands,2,IJR Zwilling,47b32a5a,AL Seddon,d12ec7b3,HDJ Siegers,6d48df01,0,0,0,0,0,,,,,,0,0,0
+1395033,2023,Netherlands,3,HDJ Siegers,6d48df01,DL Graham,907e30d9,IJR Zwilling,47b32a5a,0,0,0,0,0,,,,,,3,0,3
+1395033,2023,Netherlands,3,IJR Zwilling,47b32a5a,DL Graham,907e30d9,HDJ Siegers,6d48df01,0,0,0,0,0,,,,,,0,0,0
+1395033,2023,Netherlands,3,IJR Zwilling,47b32a5a,DL Graham,907e30d9,HDJ Siegers,6d48df01,0,0,0,0,0,,,,,,0,0,0
+1395033,2023,Netherlands,3,IJR Zwilling,47b32a5a,DL Graham,907e30d9,HDJ Siegers,6d48df01,0,0,0,0,0,,,,,,1,0,1
+1395033,2023,Netherlands,3,HDJ Siegers,6d48df01,DL Graham,907e30d9,IJR Zwilling,47b32a5a,0,0,0,0,0,,,,,,4,0,4
+1395033,2023,Netherlands,3,HDJ Siegers,6d48df01,DL Graham,907e30d9,IJR Zwilling,47b32a5a,0,0,0,0,0,,,,,,6,0,6
+1395033,2023,Netherlands,4,IJR Zwilling,47b32a5a,PKM Mahawattage,a413b433,HDJ Siegers,6d48df01,0,0,0,0,0,,,,,,0,0,0
+1395033,2023,Netherlands,4,IJR Zwilling,47b32a5a,PKM Mahawattage,a413b433,HDJ Siegers,6d48df01,0,0,0,0,0,,,,,,1,0,1
+1395033,2023,Netherlands,4,HDJ Siegers,6d48df01,PKM Mahawattage,a413b433,IJR Zwilling,47b32a5a,0,0,0,0,0,,,,,,2,0,2
+1395033,2023,Netherlands,4,HDJ Siegers,6d48df01,PKM Mahawattage,a413b433,IJR Zwilling,47b32a5a,0,0,0,0,0,,,,,,6,0,6
+1395033,2023,Netherlands,4,HDJ Siegers,6d48df01,PKM Mahawattage,a413b433,IJR Zwilling,47b32a5a,0,0,0,0,0,,,,,,0,0,0
+1395033,2023,Netherlands,4,HDJ Siegers,6d48df01,PKM Mahawattage,a413b433,IJR Zwilling,47b32a5a,0,0,0,0,0,,,,,,6,0,6
+1395033,2023,Netherlands,5,IJR Zwilling,47b32a5a,Emma Patel,030a38e0,HDJ Siegers,6d48df01,0,0,0,0,0,,,,,,0,0,0
+1395033,2023,Netherlands,5,IJR Zwilling,47b32a5a,Emma Patel,030a38e0,HDJ Siegers,6d48df01,1,0,0,0,0,,,,,,0,1,1
+1395033,2023,Netherlands,5,IJR Zwilling,47b32a5a,Emma Patel,030a38e0,HDJ Siegers,6d48df01,0,0,0,0,0,,,,,,1,0,1
+1395033,2023,Netherlands,5,HDJ Siegers,6d48df01,Emma Patel,030a38e0,IJR Zwilling,47b32a5a,0,0,0,0,0,,,,,,4,0,4
+1395033,2023,Netherlands,5,HDJ Siegers,6d48df01,Emma Patel,030a38e0,IJR Zwilling,47b32a5a,0,0,0,0,1,HDJ Siegers,6d48df01,TE Britton,5eceeb7f,caught,0,0,0
+1395033,2023,Netherlands,5,B de Leede,b3020075,Emma Patel,030a38e0,IJR Zwilling,47b32a5a,0,0,0,0,0,,,,,,4,0,4
+1395033,2023,Netherlands,5,B de Leede,b3020075,Emma Patel,030a38e0,IJR Zwilling,47b32a5a,0,0,0,0,0,,,,,,2,0,2
+1395033,2023,Netherlands,6,IJR Zwilling,47b32a5a,AL Seddon,d12ec7b3,B de Leede,b3020075,0,0,0,0,0,,,,,,0,0,0
+1395033,2023,Netherlands,6,IJR Zwilling,47b32a5a,AL Seddon,d12ec7b3,B de Leede,b3020075,0,0,0,0,0,,,,,,4,0,4

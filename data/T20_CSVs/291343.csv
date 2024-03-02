@@ -1,0 +1,241 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+291343,2007/08,Australia,0,AC Gilchrist,2b6e6dec,KD Mills,7fb32e5b,MJ Clarke,f842c2cf,0,0,0,0,0,,,,,,0,0,0
+291343,2007/08,Australia,0,AC Gilchrist,2b6e6dec,KD Mills,7fb32e5b,MJ Clarke,f842c2cf,0,0,0,0,0,,,,,,0,0,0
+291343,2007/08,Australia,0,AC Gilchrist,2b6e6dec,KD Mills,7fb32e5b,MJ Clarke,f842c2cf,0,0,0,0,0,,,,,,1,0,1
+291343,2007/08,Australia,0,MJ Clarke,f842c2cf,KD Mills,7fb32e5b,AC Gilchrist,2b6e6dec,0,0,0,0,0,,,,,,4,0,4
+291343,2007/08,Australia,0,MJ Clarke,f842c2cf,KD Mills,7fb32e5b,AC Gilchrist,2b6e6dec,0,0,0,0,0,,,,,,0,0,0
+291343,2007/08,Australia,0,MJ Clarke,f842c2cf,KD Mills,7fb32e5b,AC Gilchrist,2b6e6dec,0,0,0,0,0,,,,,,0,0,0
+291343,2007/08,Australia,1,AC Gilchrist,2b6e6dec,MR Gillespie,7d7ab238,MJ Clarke,f842c2cf,0,0,0,0,0,,,,,,0,0,0
+291343,2007/08,Australia,1,AC Gilchrist,2b6e6dec,MR Gillespie,7d7ab238,MJ Clarke,f842c2cf,0,0,0,0,1,AC Gilchrist,2b6e6dec,JS Patel,f5821615,caught,0,0,0
+291343,2007/08,Australia,1,MEK Hussey,48fd7349,MR Gillespie,7d7ab238,MJ Clarke,f842c2cf,0,0,0,0,0,,,,,,0,0,0
+291343,2007/08,Australia,1,MEK Hussey,48fd7349,MR Gillespie,7d7ab238,MJ Clarke,f842c2cf,0,0,0,0,0,,,,,,0,0,0
+291343,2007/08,Australia,1,MEK Hussey,48fd7349,MR Gillespie,7d7ab238,MJ Clarke,f842c2cf,0,0,0,0,0,,,,,,0,0,0
+291343,2007/08,Australia,1,MEK Hussey,48fd7349,MR Gillespie,7d7ab238,MJ Clarke,f842c2cf,0,0,0,0,0,,,,,,0,0,0
+291343,2007/08,Australia,2,MJ Clarke,f842c2cf,KD Mills,7fb32e5b,MEK Hussey,48fd7349,0,0,0,0,0,,,,,,1,0,1
+291343,2007/08,Australia,2,MEK Hussey,48fd7349,KD Mills,7fb32e5b,MJ Clarke,f842c2cf,0,0,0,0,0,,,,,,1,0,1
+291343,2007/08,Australia,2,MJ Clarke,f842c2cf,KD Mills,7fb32e5b,MEK Hussey,48fd7349,0,0,0,0,0,,,,,,1,0,1
+291343,2007/08,Australia,2,MEK Hussey,48fd7349,KD Mills,7fb32e5b,MJ Clarke,f842c2cf,0,0,0,0,0,,,,,,2,0,2
+291343,2007/08,Australia,2,MEK Hussey,48fd7349,KD Mills,7fb32e5b,MJ Clarke,f842c2cf,0,0,0,0,0,,,,,,0,0,0
+291343,2007/08,Australia,2,MEK Hussey,48fd7349,KD Mills,7fb32e5b,MJ Clarke,f842c2cf,0,0,0,0,0,,,,,,0,0,0
+291343,2007/08,Australia,3,MJ Clarke,f842c2cf,MR Gillespie,7d7ab238,MEK Hussey,48fd7349,0,0,0,0,0,,,,,,0,0,0
+291343,2007/08,Australia,3,MJ Clarke,f842c2cf,MR Gillespie,7d7ab238,MEK Hussey,48fd7349,0,0,0,0,0,,,,,,0,0,0
+291343,2007/08,Australia,3,MJ Clarke,f842c2cf,MR Gillespie,7d7ab238,MEK Hussey,48fd7349,0,0,0,0,0,,,,,,6,0,6
+291343,2007/08,Australia,3,MJ Clarke,f842c2cf,MR Gillespie,7d7ab238,MEK Hussey,48fd7349,0,0,0,0,0,,,,,,4,0,4
+291343,2007/08,Australia,3,MJ Clarke,f842c2cf,MR Gillespie,7d7ab238,MEK Hussey,48fd7349,0,0,0,0,0,,,,,,1,0,1
+291343,2007/08,Australia,3,MEK Hussey,48fd7349,MR Gillespie,7d7ab238,MJ Clarke,f842c2cf,0,0,0,0,0,,,,,,4,0,4
+291343,2007/08,Australia,4,MJ Clarke,f842c2cf,KD Mills,7fb32e5b,MEK Hussey,48fd7349,0,0,0,0,0,,,,,,0,0,0
+291343,2007/08,Australia,4,MJ Clarke,f842c2cf,KD Mills,7fb32e5b,MEK Hussey,48fd7349,1,0,0,0,0,,,,,,0,1,1
+291343,2007/08,Australia,4,MJ Clarke,f842c2cf,KD Mills,7fb32e5b,MEK Hussey,48fd7349,0,0,0,0,0,,,,,,4,0,4
+291343,2007/08,Australia,4,MJ Clarke,f842c2cf,KD Mills,7fb32e5b,MEK Hussey,48fd7349,0,0,0,0,0,,,,,,1,0,1
+291343,2007/08,Australia,4,MEK Hussey,48fd7349,KD Mills,7fb32e5b,MJ Clarke,f842c2cf,0,0,0,0,0,,,,,,4,0,4
+291343,2007/08,Australia,4,MEK Hussey,48fd7349,KD Mills,7fb32e5b,MJ Clarke,f842c2cf,0,0,0,0,0,,,,,,4,0,4
+291343,2007/08,Australia,4,MEK Hussey,48fd7349,KD Mills,7fb32e5b,MJ Clarke,f842c2cf,0,0,0,0,0,,,,,,2,0,2
+291343,2007/08,Australia,5,MJ Clarke,f842c2cf,JDP Oram,3eac9d95,MEK Hussey,48fd7349,0,0,0,0,0,,,,,,0,0,0
+291343,2007/08,Australia,5,MJ Clarke,f842c2cf,JDP Oram,3eac9d95,MEK Hussey,48fd7349,0,0,0,0,0,,,,,,1,0,1
+291343,2007/08,Australia,5,MEK Hussey,48fd7349,JDP Oram,3eac9d95,MJ Clarke,f842c2cf,0,0,0,0,0,,,,,,0,0,0
+291343,2007/08,Australia,5,MEK Hussey,48fd7349,JDP Oram,3eac9d95,MJ Clarke,f842c2cf,0,0,0,0,0,,,,,,4,0,4
+291343,2007/08,Australia,5,MEK Hussey,48fd7349,JDP Oram,3eac9d95,MJ Clarke,f842c2cf,0,0,0,0,0,,,,,,1,0,1
+291343,2007/08,Australia,5,MJ Clarke,f842c2cf,JDP Oram,3eac9d95,MEK Hussey,48fd7349,0,0,0,0,0,,,,,,1,0,1
+291343,2007/08,Australia,6,MJ Clarke,f842c2cf,JS Patel,f5821615,MEK Hussey,48fd7349,0,0,0,0,0,,,,,,2,0,2
+291343,2007/08,Australia,6,MJ Clarke,f842c2cf,JS Patel,f5821615,MEK Hussey,48fd7349,0,0,0,0,0,,,,,,0,0,0
+291343,2007/08,Australia,6,MJ Clarke,f842c2cf,JS Patel,f5821615,MEK Hussey,48fd7349,0,0,0,0,0,,,,,,1,0,1
+291343,2007/08,Australia,6,MEK Hussey,48fd7349,JS Patel,f5821615,MJ Clarke,f842c2cf,0,0,0,0,1,MEK Hussey,48fd7349,BB McCullum,b8a55852,stumped,0,0,0
+291343,2007/08,Australia,6,A Symonds,bd77eb62,JS Patel,f5821615,MJ Clarke,f842c2cf,0,0,0,0,0,,,,,,3,0,3
+291343,2007/08,Australia,6,MJ Clarke,f842c2cf,JS Patel,f5821615,A Symonds,bd77eb62,0,0,0,0,0,,,,,,1,0,1
+291343,2007/08,Australia,7,MJ Clarke,f842c2cf,DL Vettori,d7c6af50,A Symonds,bd77eb62,0,0,0,0,0,,,,,,0,0,0
+291343,2007/08,Australia,7,MJ Clarke,f842c2cf,DL Vettori,d7c6af50,A Symonds,bd77eb62,0,0,0,0,0,,,,,,1,0,1
+291343,2007/08,Australia,7,A Symonds,bd77eb62,DL Vettori,d7c6af50,MJ Clarke,f842c2cf,0,0,0,0,0,,,,,,0,0,0
+291343,2007/08,Australia,7,A Symonds,bd77eb62,DL Vettori,d7c6af50,MJ Clarke,f842c2cf,0,0,0,0,0,,,,,,2,0,2
+291343,2007/08,Australia,7,A Symonds,bd77eb62,DL Vettori,d7c6af50,MJ Clarke,f842c2cf,0,0,1,0,0,,,,,,0,1,1
+291343,2007/08,Australia,7,MJ Clarke,f842c2cf,DL Vettori,d7c6af50,A Symonds,bd77eb62,0,0,0,0,0,,,,,,1,0,1
+291343,2007/08,Australia,8,MJ Clarke,f842c2cf,JS Patel,f5821615,A Symonds,bd77eb62,0,0,0,0,0,,,,,,1,0,1
+291343,2007/08,Australia,8,A Symonds,bd77eb62,JS Patel,f5821615,MJ Clarke,f842c2cf,0,0,0,0,0,,,,,,4,0,4
+291343,2007/08,Australia,8,A Symonds,bd77eb62,JS Patel,f5821615,MJ Clarke,f842c2cf,0,0,0,0,0,,,,,,0,0,0
+291343,2007/08,Australia,8,A Symonds,bd77eb62,JS Patel,f5821615,MJ Clarke,f842c2cf,0,0,0,0,0,,,,,,0,0,0
+291343,2007/08,Australia,8,A Symonds,bd77eb62,JS Patel,f5821615,MJ Clarke,f842c2cf,0,0,0,0,0,,,,,,2,0,2
+291343,2007/08,Australia,8,A Symonds,bd77eb62,JS Patel,f5821615,MJ Clarke,f842c2cf,0,0,0,0,0,,,,,,1,0,1
+291343,2007/08,Australia,9,A Symonds,bd77eb62,DL Vettori,d7c6af50,MJ Clarke,f842c2cf,0,0,0,0,0,,,,,,0,0,0
+291343,2007/08,Australia,9,A Symonds,bd77eb62,DL Vettori,d7c6af50,MJ Clarke,f842c2cf,0,0,0,0,0,,,,,,1,0,1
+291343,2007/08,Australia,9,MJ Clarke,f842c2cf,DL Vettori,d7c6af50,A Symonds,bd77eb62,0,0,0,0,0,,,,,,2,0,2
+291343,2007/08,Australia,9,MJ Clarke,f842c2cf,DL Vettori,d7c6af50,A Symonds,bd77eb62,0,0,0,0,1,MJ Clarke,f842c2cf,LRPL Taylor,b61a3e1a,caught,0,0,0
+291343,2007/08,Australia,9,A Symonds,bd77eb62,DL Vettori,d7c6af50,AC Voges,864c199e,0,0,0,0,0,,,,,,1,0,1
+291343,2007/08,Australia,9,AC Voges,864c199e,DL Vettori,d7c6af50,A Symonds,bd77eb62,0,0,0,0,0,,,,,,1,0,1
+291343,2007/08,Australia,10,AC Voges,864c199e,JDP Oram,3eac9d95,A Symonds,bd77eb62,0,0,0,0,0,,,,,,0,0,0
+291343,2007/08,Australia,10,AC Voges,864c199e,JDP Oram,3eac9d95,A Symonds,bd77eb62,0,0,0,0,0,,,,,,0,0,0
+291343,2007/08,Australia,10,AC Voges,864c199e,JDP Oram,3eac9d95,A Symonds,bd77eb62,0,0,0,0,0,,,,,,0,0,0
+291343,2007/08,Australia,10,AC Voges,864c199e,JDP Oram,3eac9d95,A Symonds,bd77eb62,0,0,0,0,0,,,,,,4,0,4
+291343,2007/08,Australia,10,AC Voges,864c199e,JDP Oram,3eac9d95,A Symonds,bd77eb62,0,0,0,0,0,,,,,,2,0,2
+291343,2007/08,Australia,10,AC Voges,864c199e,JDP Oram,3eac9d95,A Symonds,bd77eb62,0,0,0,0,0,,,,,,4,0,4
+291343,2007/08,Australia,11,A Symonds,bd77eb62,DL Vettori,d7c6af50,AC Voges,864c199e,0,0,1,0,0,,,,,,0,1,1
+291343,2007/08,Australia,11,AC Voges,864c199e,DL Vettori,d7c6af50,A Symonds,bd77eb62,0,0,0,0,0,,,,,,2,0,2
+291343,2007/08,Australia,11,AC Voges,864c199e,DL Vettori,d7c6af50,A Symonds,bd77eb62,0,0,0,0,0,,,,,,0,0,0
+291343,2007/08,Australia,11,AC Voges,864c199e,DL Vettori,d7c6af50,A Symonds,bd77eb62,0,0,0,0,0,,,,,,1,0,1
+291343,2007/08,Australia,11,A Symonds,bd77eb62,DL Vettori,d7c6af50,AC Voges,864c199e,0,0,0,0,0,,,,,,1,0,1
+291343,2007/08,Australia,11,AC Voges,864c199e,DL Vettori,d7c6af50,A Symonds,bd77eb62,0,0,0,0,0,,,,,,2,0,2
+291343,2007/08,Australia,12,A Symonds,bd77eb62,JDP Oram,3eac9d95,AC Voges,864c199e,0,0,0,0,0,,,,,,4,0,4
+291343,2007/08,Australia,12,A Symonds,bd77eb62,JDP Oram,3eac9d95,AC Voges,864c199e,0,0,0,0,0,,,,,,4,0,4
+291343,2007/08,Australia,12,A Symonds,bd77eb62,JDP Oram,3eac9d95,AC Voges,864c199e,0,0,0,0,0,,,,,,1,0,1
+291343,2007/08,Australia,12,AC Voges,864c199e,JDP Oram,3eac9d95,A Symonds,bd77eb62,0,0,0,0,0,,,,,,1,0,1
+291343,2007/08,Australia,12,A Symonds,bd77eb62,JDP Oram,3eac9d95,AC Voges,864c199e,0,0,0,0,0,,,,,,4,0,4
+291343,2007/08,Australia,12,A Symonds,bd77eb62,JDP Oram,3eac9d95,AC Voges,864c199e,0,0,0,0,0,,,,,,1,0,1
+291343,2007/08,Australia,13,A Symonds,bd77eb62,SB Styris,57efa3be,AC Voges,864c199e,0,0,0,0,0,,,,,,6,0,6
+291343,2007/08,Australia,13,A Symonds,bd77eb62,SB Styris,57efa3be,AC Voges,864c199e,0,0,0,0,0,,,,,,1,0,1
+291343,2007/08,Australia,13,AC Voges,864c199e,SB Styris,57efa3be,A Symonds,bd77eb62,0,0,0,0,0,,,,,,1,0,1
+291343,2007/08,Australia,13,A Symonds,bd77eb62,SB Styris,57efa3be,AC Voges,864c199e,0,0,0,0,0,,,,,,0,0,0
+291343,2007/08,Australia,13,A Symonds,bd77eb62,SB Styris,57efa3be,AC Voges,864c199e,0,0,0,0,0,,,,,,2,0,2
+291343,2007/08,Australia,13,A Symonds,bd77eb62,SB Styris,57efa3be,AC Voges,864c199e,0,0,0,0,0,,,,,,4,0,4
+291343,2007/08,Australia,14,AC Voges,864c199e,JS Patel,f5821615,A Symonds,bd77eb62,0,0,0,0,0,,,,,,0,0,0
+291343,2007/08,Australia,14,AC Voges,864c199e,JS Patel,f5821615,A Symonds,bd77eb62,0,0,0,0,0,,,,,,0,0,0
+291343,2007/08,Australia,14,AC Voges,864c199e,JS Patel,f5821615,A Symonds,bd77eb62,0,0,0,0,0,,,,,,1,0,1
+291343,2007/08,Australia,14,A Symonds,bd77eb62,JS Patel,f5821615,AC Voges,864c199e,0,0,0,0,0,,,,,,4,0,4
+291343,2007/08,Australia,14,A Symonds,bd77eb62,JS Patel,f5821615,AC Voges,864c199e,0,0,0,0,0,,,,,,6,0,6
+291343,2007/08,Australia,14,A Symonds,bd77eb62,JS Patel,f5821615,AC Voges,864c199e,0,0,0,0,0,,,,,,1,0,1
+291343,2007/08,Australia,15,A Symonds,bd77eb62,DL Vettori,d7c6af50,AC Voges,864c199e,0,0,0,0,0,,,,,,2,0,2
+291343,2007/08,Australia,15,A Symonds,bd77eb62,DL Vettori,d7c6af50,AC Voges,864c199e,0,0,0,0,0,,,,,,2,0,2
+291343,2007/08,Australia,15,A Symonds,bd77eb62,DL Vettori,d7c6af50,AC Voges,864c199e,0,0,0,0,0,,,,,,1,0,1
+291343,2007/08,Australia,15,AC Voges,864c199e,DL Vettori,d7c6af50,A Symonds,bd77eb62,0,0,0,0,0,,,,,,2,0,2
+291343,2007/08,Australia,15,AC Voges,864c199e,DL Vettori,d7c6af50,A Symonds,bd77eb62,0,0,0,0,0,,,,,,1,0,1
+291343,2007/08,Australia,15,A Symonds,bd77eb62,DL Vettori,d7c6af50,AC Voges,864c199e,0,0,0,0,0,,,,,,1,0,1
+291343,2007/08,Australia,16,A Symonds,bd77eb62,JS Patel,f5821615,AC Voges,864c199e,0,0,0,0,0,,,,,,6,0,6
+291343,2007/08,Australia,16,A Symonds,bd77eb62,JS Patel,f5821615,AC Voges,864c199e,0,0,0,0,0,,,,,,1,0,1
+291343,2007/08,Australia,16,AC Voges,864c199e,JS Patel,f5821615,A Symonds,bd77eb62,0,0,0,0,0,,,,,,4,0,4
+291343,2007/08,Australia,16,AC Voges,864c199e,JS Patel,f5821615,A Symonds,bd77eb62,0,0,0,0,1,AC Voges,864c199e,LRPL Taylor,b61a3e1a,caught,0,0,0
+291343,2007/08,Australia,16,A Symonds,bd77eb62,JS Patel,f5821615,LA Pomersbach,b63ab531,0,0,0,0,0,,,,,,1,0,1
+291343,2007/08,Australia,16,LA Pomersbach,b63ab531,JS Patel,f5821615,A Symonds,bd77eb62,0,0,0,0,0,,,,,,1,0,1
+291343,2007/08,Australia,17,LA Pomersbach,b63ab531,MR Gillespie,7d7ab238,A Symonds,bd77eb62,0,0,0,0,0,,,,,,1,0,1
+291343,2007/08,Australia,17,A Symonds,bd77eb62,MR Gillespie,7d7ab238,LA Pomersbach,b63ab531,0,0,0,0,0,,,,,,2,0,2
+291343,2007/08,Australia,17,A Symonds,bd77eb62,MR Gillespie,7d7ab238,LA Pomersbach,b63ab531,0,0,0,0,0,,,,,,4,0,4
+291343,2007/08,Australia,17,A Symonds,bd77eb62,MR Gillespie,7d7ab238,LA Pomersbach,b63ab531,0,0,0,0,0,,,,,,2,0,2
+291343,2007/08,Australia,17,A Symonds,bd77eb62,MR Gillespie,7d7ab238,LA Pomersbach,b63ab531,0,0,0,0,0,,,,,,1,0,1
+291343,2007/08,Australia,17,LA Pomersbach,b63ab531,MR Gillespie,7d7ab238,A Symonds,bd77eb62,0,0,0,0,0,,,,,,6,0,6
+291343,2007/08,Australia,18,A Symonds,bd77eb62,KD Mills,7fb32e5b,LA Pomersbach,b63ab531,0,0,0,0,0,,,,,,2,0,2
+291343,2007/08,Australia,18,A Symonds,bd77eb62,KD Mills,7fb32e5b,LA Pomersbach,b63ab531,0,0,0,0,0,,,,,,0,0,0
+291343,2007/08,Australia,18,A Symonds,bd77eb62,KD Mills,7fb32e5b,LA Pomersbach,b63ab531,0,0,0,0,0,,,,,,1,0,1
+291343,2007/08,Australia,18,LA Pomersbach,b63ab531,KD Mills,7fb32e5b,A Symonds,bd77eb62,0,0,0,0,0,,,,,,1,0,1
+291343,2007/08,Australia,18,A Symonds,bd77eb62,KD Mills,7fb32e5b,LA Pomersbach,b63ab531,0,0,0,0,0,,,,,,1,0,1
+291343,2007/08,Australia,18,LA Pomersbach,b63ab531,KD Mills,7fb32e5b,A Symonds,bd77eb62,0,0,0,0,0,,,,,,4,0,4
+291343,2007/08,Australia,19,A Symonds,bd77eb62,MR Gillespie,7d7ab238,LA Pomersbach,b63ab531,0,0,0,0,0,,,,,,2,0,2
+291343,2007/08,Australia,19,A Symonds,bd77eb62,MR Gillespie,7d7ab238,LA Pomersbach,b63ab531,0,0,0,0,0,,,,,,1,0,1
+291343,2007/08,Australia,19,LA Pomersbach,b63ab531,MR Gillespie,7d7ab238,A Symonds,bd77eb62,0,0,0,0,0,,,,,,2,0,2
+291343,2007/08,Australia,19,LA Pomersbach,b63ab531,MR Gillespie,7d7ab238,A Symonds,bd77eb62,0,0,0,0,1,LA Pomersbach,b63ab531,LRPL Taylor,b61a3e1a,caught,0,0,0
+291343,2007/08,Australia,19,A Symonds,bd77eb62,MR Gillespie,7d7ab238,AA Noffke,b69e69ed,0,0,0,0,1,AA Noffke,b69e69ed,JS Patel,f5821615,run out,1,0,1
+291343,2007/08,Australia,19,A Symonds,bd77eb62,MR Gillespie,7d7ab238,B Lee,dd09ff8e,0,1,0,0,0,,,,,,1,1,2
+291343,2007/08,Australia,19,B Lee,dd09ff8e,MR Gillespie,7d7ab238,A Symonds,bd77eb62,0,0,0,0,0,,,,,,0,0,0
+291343,2007/08,New Zealand,0,L Vincent,2764133a,B Lee,dd09ff8e,BB McCullum,b8a55852,0,0,0,0,1,L Vincent,2764133a,AC Gilchrist,2b6e6dec,caught,0,0,0
+291343,2007/08,New Zealand,0,BB McCullum,b8a55852,B Lee,dd09ff8e,JM How,fd8f11e9,0,0,0,0,0,,,,,,1,0,1
+291343,2007/08,New Zealand,0,JM How,fd8f11e9,B Lee,dd09ff8e,BB McCullum,b8a55852,0,0,0,0,0,,,,,,0,0,0
+291343,2007/08,New Zealand,0,JM How,fd8f11e9,B Lee,dd09ff8e,BB McCullum,b8a55852,0,0,0,0,0,,,,,,0,0,0
+291343,2007/08,New Zealand,0,JM How,fd8f11e9,B Lee,dd09ff8e,BB McCullum,b8a55852,0,0,0,0,0,,,,,,0,0,0
+291343,2007/08,New Zealand,0,JM How,fd8f11e9,B Lee,dd09ff8e,BB McCullum,b8a55852,0,0,0,0,0,,,,,,0,0,0
+291343,2007/08,New Zealand,1,BB McCullum,b8a55852,NW Bracken,4c61a0f9,JM How,fd8f11e9,0,0,0,0,0,,,,,,0,0,0
+291343,2007/08,New Zealand,1,BB McCullum,b8a55852,NW Bracken,4c61a0f9,JM How,fd8f11e9,1,0,0,0,0,,,,,,0,1,1
+291343,2007/08,New Zealand,1,BB McCullum,b8a55852,NW Bracken,4c61a0f9,JM How,fd8f11e9,0,0,0,0,0,,,,,,0,0,0
+291343,2007/08,New Zealand,1,BB McCullum,b8a55852,NW Bracken,4c61a0f9,JM How,fd8f11e9,1,0,0,0,0,,,,,,0,1,1
+291343,2007/08,New Zealand,1,BB McCullum,b8a55852,NW Bracken,4c61a0f9,JM How,fd8f11e9,0,0,0,0,0,,,,,,0,0,0
+291343,2007/08,New Zealand,1,BB McCullum,b8a55852,NW Bracken,4c61a0f9,JM How,fd8f11e9,0,0,0,0,0,,,,,,2,0,2
+291343,2007/08,New Zealand,1,BB McCullum,b8a55852,NW Bracken,4c61a0f9,JM How,fd8f11e9,0,0,0,0,0,,,,,,1,0,1
+291343,2007/08,New Zealand,1,JM How,fd8f11e9,NW Bracken,4c61a0f9,BB McCullum,b8a55852,0,0,0,0,0,,,,,,0,0,0
+291343,2007/08,New Zealand,2,BB McCullum,b8a55852,B Lee,dd09ff8e,JM How,fd8f11e9,0,0,0,0,0,,,,,,1,0,1
+291343,2007/08,New Zealand,2,JM How,fd8f11e9,B Lee,dd09ff8e,BB McCullum,b8a55852,0,0,0,0,0,,,,,,0,0,0
+291343,2007/08,New Zealand,2,JM How,fd8f11e9,B Lee,dd09ff8e,BB McCullum,b8a55852,0,0,0,0,0,,,,,,1,0,1
+291343,2007/08,New Zealand,2,BB McCullum,b8a55852,B Lee,dd09ff8e,JM How,fd8f11e9,0,0,0,0,0,,,,,,0,0,0
+291343,2007/08,New Zealand,2,BB McCullum,b8a55852,B Lee,dd09ff8e,JM How,fd8f11e9,0,0,0,4,0,,,,,,0,4,4
+291343,2007/08,New Zealand,2,BB McCullum,b8a55852,B Lee,dd09ff8e,JM How,fd8f11e9,0,0,0,0,0,,,,,,6,0,6
+291343,2007/08,New Zealand,3,JM How,fd8f11e9,NW Bracken,4c61a0f9,BB McCullum,b8a55852,0,0,0,0,0,,,,,,0,0,0
+291343,2007/08,New Zealand,3,JM How,fd8f11e9,NW Bracken,4c61a0f9,BB McCullum,b8a55852,0,0,0,0,0,,,,,,0,0,0
+291343,2007/08,New Zealand,3,JM How,fd8f11e9,NW Bracken,4c61a0f9,BB McCullum,b8a55852,0,0,0,0,0,,,,,,1,0,1
+291343,2007/08,New Zealand,3,BB McCullum,b8a55852,NW Bracken,4c61a0f9,JM How,fd8f11e9,0,0,0,0,0,,,,,,0,0,0
+291343,2007/08,New Zealand,3,BB McCullum,b8a55852,NW Bracken,4c61a0f9,JM How,fd8f11e9,0,0,0,0,0,,,,,,2,0,2
+291343,2007/08,New Zealand,3,JM How,fd8f11e9,NW Bracken,4c61a0f9,BB McCullum,b8a55852,0,0,0,0,0,,,,,,0,0,0
+291343,2007/08,New Zealand,4,BB McCullum,b8a55852,B Lee,dd09ff8e,JM How,fd8f11e9,0,0,0,0,0,,,,,,0,0,0
+291343,2007/08,New Zealand,4,BB McCullum,b8a55852,B Lee,dd09ff8e,JM How,fd8f11e9,0,0,0,0,0,,,,,,0,0,0
+291343,2007/08,New Zealand,4,BB McCullum,b8a55852,B Lee,dd09ff8e,JM How,fd8f11e9,0,0,0,0,1,BB McCullum,b8a55852,AC Gilchrist,2b6e6dec,caught,0,0,0
+291343,2007/08,New Zealand,4,JM How,fd8f11e9,B Lee,dd09ff8e,SB Styris,57efa3be,0,1,0,0,0,,,,,,0,1,1
+291343,2007/08,New Zealand,4,JM How,fd8f11e9,B Lee,dd09ff8e,SB Styris,57efa3be,1,0,0,0,0,,,,,,0,1,1
+291343,2007/08,New Zealand,4,JM How,fd8f11e9,B Lee,dd09ff8e,SB Styris,57efa3be,0,0,0,0,0,,,,,,0,0,0
+291343,2007/08,New Zealand,4,JM How,fd8f11e9,B Lee,dd09ff8e,SB Styris,57efa3be,0,0,0,0,0,,,,,,1,0,1
+291343,2007/08,New Zealand,4,SB Styris,57efa3be,B Lee,dd09ff8e,JM How,fd8f11e9,0,0,0,0,0,,,,,,0,0,0
+291343,2007/08,New Zealand,5,JM How,fd8f11e9,MG Johnson,f5180fe6,SB Styris,57efa3be,0,0,0,0,0,,,,,,0,0,0
+291343,2007/08,New Zealand,5,JM How,fd8f11e9,MG Johnson,f5180fe6,SB Styris,57efa3be,0,0,0,0,0,,,,,,0,0,0
+291343,2007/08,New Zealand,5,JM How,fd8f11e9,MG Johnson,f5180fe6,SB Styris,57efa3be,0,0,0,0,0,,,,,,1,0,1
+291343,2007/08,New Zealand,5,SB Styris,57efa3be,MG Johnson,f5180fe6,JM How,fd8f11e9,0,0,0,0,0,,,,,,4,0,4
+291343,2007/08,New Zealand,5,SB Styris,57efa3be,MG Johnson,f5180fe6,JM How,fd8f11e9,0,0,0,0,0,,,,,,0,0,0
+291343,2007/08,New Zealand,5,SB Styris,57efa3be,MG Johnson,f5180fe6,JM How,fd8f11e9,0,0,0,0,0,,,,,,0,0,0
+291343,2007/08,New Zealand,6,JM How,fd8f11e9,SW Tait,addfb70e,SB Styris,57efa3be,0,0,0,0,1,JM How,fd8f11e9,AC Gilchrist,2b6e6dec,caught,0,0,0
+291343,2007/08,New Zealand,6,LRPL Taylor,b61a3e1a,SW Tait,addfb70e,SB Styris,57efa3be,0,0,0,0,0,,,,,,0,0,0
+291343,2007/08,New Zealand,6,LRPL Taylor,b61a3e1a,SW Tait,addfb70e,SB Styris,57efa3be,1,0,0,0,0,,,,,,0,1,1
+291343,2007/08,New Zealand,6,LRPL Taylor,b61a3e1a,SW Tait,addfb70e,SB Styris,57efa3be,0,0,0,0,1,LRPL Taylor,b61a3e1a,,,bowled,0,0,0
+291343,2007/08,New Zealand,6,MS Sinclair,1b668884,SW Tait,addfb70e,SB Styris,57efa3be,0,0,0,0,0,,,,,,0,0,0
+291343,2007/08,New Zealand,6,MS Sinclair,1b668884,SW Tait,addfb70e,SB Styris,57efa3be,0,0,0,0,0,,,,,,0,0,0
+291343,2007/08,New Zealand,6,MS Sinclair,1b668884,SW Tait,addfb70e,SB Styris,57efa3be,0,0,0,0,0,,,,,,0,0,0
+291343,2007/08,New Zealand,7,SB Styris,57efa3be,MG Johnson,f5180fe6,MS Sinclair,1b668884,0,0,0,0,0,,,,,,0,0,0
+291343,2007/08,New Zealand,7,SB Styris,57efa3be,MG Johnson,f5180fe6,MS Sinclair,1b668884,0,0,0,0,0,,,,,,0,0,0
+291343,2007/08,New Zealand,7,SB Styris,57efa3be,MG Johnson,f5180fe6,MS Sinclair,1b668884,0,0,0,0,0,,,,,,0,0,0
+291343,2007/08,New Zealand,7,SB Styris,57efa3be,MG Johnson,f5180fe6,MS Sinclair,1b668884,0,0,0,0,0,,,,,,1,0,1
+291343,2007/08,New Zealand,7,MS Sinclair,1b668884,MG Johnson,f5180fe6,SB Styris,57efa3be,0,0,0,0,1,MS Sinclair,1b668884,AC Gilchrist,2b6e6dec,caught,0,0,0
+291343,2007/08,New Zealand,7,JDP Oram,3eac9d95,MG Johnson,f5180fe6,SB Styris,57efa3be,0,0,0,0,0,,,,,,0,0,0
+291343,2007/08,New Zealand,8,SB Styris,57efa3be,SW Tait,addfb70e,JDP Oram,3eac9d95,0,0,0,0,0,,,,,,1,0,1
+291343,2007/08,New Zealand,8,JDP Oram,3eac9d95,SW Tait,addfb70e,SB Styris,57efa3be,0,0,0,0,0,,,,,,0,0,0
+291343,2007/08,New Zealand,8,JDP Oram,3eac9d95,SW Tait,addfb70e,SB Styris,57efa3be,0,0,0,0,0,,,,,,4,0,4
+291343,2007/08,New Zealand,8,JDP Oram,3eac9d95,SW Tait,addfb70e,SB Styris,57efa3be,0,0,0,0,0,,,,,,0,0,0
+291343,2007/08,New Zealand,8,JDP Oram,3eac9d95,SW Tait,addfb70e,SB Styris,57efa3be,0,0,0,0,0,,,,,,0,0,0
+291343,2007/08,New Zealand,8,JDP Oram,3eac9d95,SW Tait,addfb70e,SB Styris,57efa3be,0,0,0,0,0,,,,,,0,0,0
+291343,2007/08,New Zealand,9,SB Styris,57efa3be,MG Johnson,f5180fe6,JDP Oram,3eac9d95,0,0,0,0,0,,,,,,0,0,0
+291343,2007/08,New Zealand,9,SB Styris,57efa3be,MG Johnson,f5180fe6,JDP Oram,3eac9d95,0,0,0,0,0,,,,,,4,0,4
+291343,2007/08,New Zealand,9,SB Styris,57efa3be,MG Johnson,f5180fe6,JDP Oram,3eac9d95,0,0,0,0,0,,,,,,4,0,4
+291343,2007/08,New Zealand,9,SB Styris,57efa3be,MG Johnson,f5180fe6,JDP Oram,3eac9d95,1,0,0,0,0,,,,,,0,1,1
+291343,2007/08,New Zealand,9,SB Styris,57efa3be,MG Johnson,f5180fe6,JDP Oram,3eac9d95,0,0,0,0,0,,,,,,0,0,0
+291343,2007/08,New Zealand,9,SB Styris,57efa3be,MG Johnson,f5180fe6,JDP Oram,3eac9d95,0,0,0,0,0,,,,,,4,0,4
+291343,2007/08,New Zealand,9,SB Styris,57efa3be,MG Johnson,f5180fe6,JDP Oram,3eac9d95,0,0,0,0,1,SB Styris,57efa3be,NW Bracken,4c61a0f9,caught,0,0,0
+291343,2007/08,New Zealand,10,JDP Oram,3eac9d95,SW Tait,addfb70e,DL Vettori,d7c6af50,0,0,0,0,0,,,,,,4,0,4
+291343,2007/08,New Zealand,10,JDP Oram,3eac9d95,SW Tait,addfb70e,DL Vettori,d7c6af50,0,0,0,0,0,,,,,,1,0,1
+291343,2007/08,New Zealand,10,DL Vettori,d7c6af50,SW Tait,addfb70e,JDP Oram,3eac9d95,0,0,0,0,0,,,,,,1,0,1
+291343,2007/08,New Zealand,10,JDP Oram,3eac9d95,SW Tait,addfb70e,DL Vettori,d7c6af50,0,0,0,0,0,,,,,,0,0,0
+291343,2007/08,New Zealand,10,JDP Oram,3eac9d95,SW Tait,addfb70e,DL Vettori,d7c6af50,0,0,0,0,0,,,,,,1,0,1
+291343,2007/08,New Zealand,10,DL Vettori,d7c6af50,SW Tait,addfb70e,JDP Oram,3eac9d95,0,0,0,0,0,,,,,,0,0,0
+291343,2007/08,New Zealand,11,JDP Oram,3eac9d95,AA Noffke,b69e69ed,DL Vettori,d7c6af50,0,0,0,0,0,,,,,,0,0,0
+291343,2007/08,New Zealand,11,JDP Oram,3eac9d95,AA Noffke,b69e69ed,DL Vettori,d7c6af50,0,0,0,0,0,,,,,,1,0,1
+291343,2007/08,New Zealand,11,DL Vettori,d7c6af50,AA Noffke,b69e69ed,JDP Oram,3eac9d95,0,0,0,0,0,,,,,,2,0,2
+291343,2007/08,New Zealand,11,DL Vettori,d7c6af50,AA Noffke,b69e69ed,JDP Oram,3eac9d95,0,0,0,0,1,DL Vettori,d7c6af50,,,bowled,0,0,0
+291343,2007/08,New Zealand,11,KD Mills,7fb32e5b,AA Noffke,b69e69ed,JDP Oram,3eac9d95,0,0,0,0,0,,,,,,0,0,0
+291343,2007/08,New Zealand,11,KD Mills,7fb32e5b,AA Noffke,b69e69ed,JDP Oram,3eac9d95,0,0,0,0,0,,,,,,0,0,0
+291343,2007/08,New Zealand,12,JDP Oram,3eac9d95,B Lee,dd09ff8e,KD Mills,7fb32e5b,0,0,0,0,0,,,,,,4,0,4
+291343,2007/08,New Zealand,12,JDP Oram,3eac9d95,B Lee,dd09ff8e,KD Mills,7fb32e5b,0,0,0,0,0,,,,,,1,0,1
+291343,2007/08,New Zealand,12,KD Mills,7fb32e5b,B Lee,dd09ff8e,JDP Oram,3eac9d95,0,0,0,0,0,,,,,,0,0,0
+291343,2007/08,New Zealand,12,KD Mills,7fb32e5b,B Lee,dd09ff8e,JDP Oram,3eac9d95,0,0,0,0,0,,,,,,0,0,0
+291343,2007/08,New Zealand,12,KD Mills,7fb32e5b,B Lee,dd09ff8e,JDP Oram,3eac9d95,0,0,0,0,0,,,,,,0,0,0
+291343,2007/08,New Zealand,12,KD Mills,7fb32e5b,B Lee,dd09ff8e,JDP Oram,3eac9d95,0,0,1,0,0,,,,,,0,1,1
+291343,2007/08,New Zealand,13,KD Mills,7fb32e5b,AA Noffke,b69e69ed,JDP Oram,3eac9d95,0,0,0,0,0,,,,,,4,0,4
+291343,2007/08,New Zealand,13,KD Mills,7fb32e5b,AA Noffke,b69e69ed,JDP Oram,3eac9d95,0,0,0,0,1,KD Mills,7fb32e5b,MG Johnson,f5180fe6,caught,0,0,0
+291343,2007/08,New Zealand,13,JDP Oram,3eac9d95,AA Noffke,b69e69ed,MR Gillespie,7d7ab238,0,0,0,0,0,,,,,,0,0,0
+291343,2007/08,New Zealand,13,JDP Oram,3eac9d95,AA Noffke,b69e69ed,MR Gillespie,7d7ab238,0,0,0,0,0,,,,,,1,0,1
+291343,2007/08,New Zealand,13,MR Gillespie,7d7ab238,AA Noffke,b69e69ed,JDP Oram,3eac9d95,1,0,0,0,0,,,,,,0,1,1
+291343,2007/08,New Zealand,13,MR Gillespie,7d7ab238,AA Noffke,b69e69ed,JDP Oram,3eac9d95,0,0,0,0,0,,,,,,1,0,1
+291343,2007/08,New Zealand,13,JDP Oram,3eac9d95,AA Noffke,b69e69ed,MR Gillespie,7d7ab238,0,0,0,0,0,,,,,,4,0,4
+291343,2007/08,New Zealand,14,MR Gillespie,7d7ab238,SW Tait,addfb70e,JDP Oram,3eac9d95,0,0,0,0,0,,,,,,0,0,0
+291343,2007/08,New Zealand,14,MR Gillespie,7d7ab238,SW Tait,addfb70e,JDP Oram,3eac9d95,0,0,0,0,0,,,,,,1,0,1
+291343,2007/08,New Zealand,14,JDP Oram,3eac9d95,SW Tait,addfb70e,MR Gillespie,7d7ab238,0,0,0,0,0,,,,,,2,0,2
+291343,2007/08,New Zealand,14,JDP Oram,3eac9d95,SW Tait,addfb70e,MR Gillespie,7d7ab238,0,0,0,0,0,,,,,,0,0,0
+291343,2007/08,New Zealand,14,JDP Oram,3eac9d95,SW Tait,addfb70e,MR Gillespie,7d7ab238,0,0,0,0,0,,,,,,0,0,0
+291343,2007/08,New Zealand,14,JDP Oram,3eac9d95,SW Tait,addfb70e,MR Gillespie,7d7ab238,0,0,0,0,0,,,,,,6,0,6
+291343,2007/08,New Zealand,15,MR Gillespie,7d7ab238,A Symonds,bd77eb62,JDP Oram,3eac9d95,0,0,0,0,0,,,,,,1,0,1
+291343,2007/08,New Zealand,15,JDP Oram,3eac9d95,A Symonds,bd77eb62,MR Gillespie,7d7ab238,0,0,0,0,0,,,,,,1,0,1
+291343,2007/08,New Zealand,15,MR Gillespie,7d7ab238,A Symonds,bd77eb62,JDP Oram,3eac9d95,0,0,0,0,0,,,,,,1,0,1
+291343,2007/08,New Zealand,15,JDP Oram,3eac9d95,A Symonds,bd77eb62,MR Gillespie,7d7ab238,0,0,0,0,0,,,,,,4,0,4
+291343,2007/08,New Zealand,15,JDP Oram,3eac9d95,A Symonds,bd77eb62,MR Gillespie,7d7ab238,0,0,0,0,0,,,,,,6,0,6
+291343,2007/08,New Zealand,15,JDP Oram,3eac9d95,A Symonds,bd77eb62,MR Gillespie,7d7ab238,0,0,0,0,0,,,,,,6,0,6
+291343,2007/08,New Zealand,16,MR Gillespie,7d7ab238,AA Noffke,b69e69ed,JDP Oram,3eac9d95,0,0,0,0,1,MR Gillespie,7d7ab238,A Symonds,bd77eb62,run out,0,0,0
+291343,2007/08,New Zealand,16,JS Patel,f5821615,AA Noffke,b69e69ed,JDP Oram,3eac9d95,0,0,0,0,0,,,,,,0,0,0
+291343,2007/08,New Zealand,16,JS Patel,f5821615,AA Noffke,b69e69ed,JDP Oram,3eac9d95,0,0,0,0,0,,,,,,0,0,0
+291343,2007/08,New Zealand,16,JS Patel,f5821615,AA Noffke,b69e69ed,JDP Oram,3eac9d95,0,0,0,0,0,,,,,,0,0,0
+291343,2007/08,New Zealand,16,JS Patel,f5821615,AA Noffke,b69e69ed,JDP Oram,3eac9d95,0,0,0,0,0,,,,,,0,0,0
+291343,2007/08,New Zealand,16,JS Patel,f5821615,AA Noffke,b69e69ed,JDP Oram,3eac9d95,0,0,0,0,0,,,,,,0,0,0
+291343,2007/08,New Zealand,17,JDP Oram,3eac9d95,A Symonds,bd77eb62,JS Patel,f5821615,0,0,0,0,0,,,,,,6,0,6
+291343,2007/08,New Zealand,17,JDP Oram,3eac9d95,A Symonds,bd77eb62,JS Patel,f5821615,0,0,0,0,0,,,,,,2,0,2
+291343,2007/08,New Zealand,17,JDP Oram,3eac9d95,A Symonds,bd77eb62,JS Patel,f5821615,0,0,0,0,0,,,,,,6,0,6
+291343,2007/08,New Zealand,17,JDP Oram,3eac9d95,A Symonds,bd77eb62,JS Patel,f5821615,0,0,4,0,0,,,,,,0,4,4
+291343,2007/08,New Zealand,17,JDP Oram,3eac9d95,A Symonds,bd77eb62,JS Patel,f5821615,0,0,0,0,0,,,,,,0,0,0
+291343,2007/08,New Zealand,17,JDP Oram,3eac9d95,A Symonds,bd77eb62,JS Patel,f5821615,0,0,0,0,0,,,,,,6,0,6
+291343,2007/08,New Zealand,18,JS Patel,f5821615,AA Noffke,b69e69ed,JDP Oram,3eac9d95,0,0,0,0,0,,,,,,4,0,4
+291343,2007/08,New Zealand,18,JS Patel,f5821615,AA Noffke,b69e69ed,JDP Oram,3eac9d95,0,0,0,0,0,,,,,,0,0,0
+291343,2007/08,New Zealand,18,JS Patel,f5821615,AA Noffke,b69e69ed,JDP Oram,3eac9d95,0,0,0,0,1,JS Patel,f5821615,,,bowled,0,0,0

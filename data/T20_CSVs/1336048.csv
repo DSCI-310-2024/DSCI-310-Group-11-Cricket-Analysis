@@ -1,0 +1,215 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1336048,2023,New Zealand,0,FH Allen,bf74b130,L Wood,65b6943c,DP Conway,df5a6881,0,0,0,0,0,,,,,,0,0,0
+1336048,2023,New Zealand,0,FH Allen,bf74b130,L Wood,65b6943c,DP Conway,df5a6881,0,0,0,0,0,,,,,,0,0,0
+1336048,2023,New Zealand,0,FH Allen,bf74b130,L Wood,65b6943c,DP Conway,df5a6881,0,0,0,0,0,,,,,,6,0,6
+1336048,2023,New Zealand,0,FH Allen,bf74b130,L Wood,65b6943c,DP Conway,df5a6881,0,0,0,0,0,,,,,,6,0,6
+1336048,2023,New Zealand,0,FH Allen,bf74b130,L Wood,65b6943c,DP Conway,df5a6881,0,0,0,0,0,,,,,,6,0,6
+1336048,2023,New Zealand,0,FH Allen,bf74b130,L Wood,65b6943c,DP Conway,df5a6881,0,0,0,0,0,,,,,,0,0,0
+1336048,2023,New Zealand,1,DP Conway,df5a6881,SM Curran,e94915e6,FH Allen,bf74b130,0,0,0,0,0,,,,,,2,0,2
+1336048,2023,New Zealand,1,DP Conway,df5a6881,SM Curran,e94915e6,FH Allen,bf74b130,1,0,0,0,0,,,,,,0,1,1
+1336048,2023,New Zealand,1,DP Conway,df5a6881,SM Curran,e94915e6,FH Allen,bf74b130,0,0,0,0,0,,,,,,0,0,0
+1336048,2023,New Zealand,1,DP Conway,df5a6881,SM Curran,e94915e6,FH Allen,bf74b130,0,0,0,0,0,,,,,,1,0,1
+1336048,2023,New Zealand,1,FH Allen,bf74b130,SM Curran,e94915e6,DP Conway,df5a6881,0,0,0,0,0,,,,,,0,0,0
+1336048,2023,New Zealand,1,FH Allen,bf74b130,SM Curran,e94915e6,DP Conway,df5a6881,0,0,0,0,0,,,,,,1,0,1
+1336048,2023,New Zealand,1,DP Conway,df5a6881,SM Curran,e94915e6,FH Allen,bf74b130,0,0,0,0,0,,,,,,0,0,0
+1336048,2023,New Zealand,2,FH Allen,bf74b130,BA Carse,cad40f5e,DP Conway,df5a6881,0,0,0,0,0,,,,,,0,0,0
+1336048,2023,New Zealand,2,FH Allen,bf74b130,BA Carse,cad40f5e,DP Conway,df5a6881,0,0,0,0,0,,,,,,0,0,0
+1336048,2023,New Zealand,2,FH Allen,bf74b130,BA Carse,cad40f5e,DP Conway,df5a6881,0,0,0,0,0,,,,,,0,0,0
+1336048,2023,New Zealand,2,FH Allen,bf74b130,BA Carse,cad40f5e,DP Conway,df5a6881,0,0,0,0,0,,,,,,1,0,1
+1336048,2023,New Zealand,2,DP Conway,df5a6881,BA Carse,cad40f5e,FH Allen,bf74b130,0,0,1,0,0,,,,,,0,1,1
+1336048,2023,New Zealand,2,FH Allen,bf74b130,BA Carse,cad40f5e,DP Conway,df5a6881,0,0,0,0,0,,,,,,0,0,0
+1336048,2023,New Zealand,3,DP Conway,df5a6881,L Wood,65b6943c,FH Allen,bf74b130,0,0,0,0,0,,,,,,0,0,0
+1336048,2023,New Zealand,3,DP Conway,df5a6881,L Wood,65b6943c,FH Allen,bf74b130,0,0,0,0,0,,,,,,0,0,0
+1336048,2023,New Zealand,3,DP Conway,df5a6881,L Wood,65b6943c,FH Allen,bf74b130,0,0,0,0,1,DP Conway,df5a6881,JC Buttler,99b75528,caught,0,0,0
+1336048,2023,New Zealand,3,TL Seifert,4663bd23,L Wood,65b6943c,FH Allen,bf74b130,0,0,0,0,0,,,,,,0,0,0
+1336048,2023,New Zealand,3,TL Seifert,4663bd23,L Wood,65b6943c,FH Allen,bf74b130,0,0,0,0,0,,,,,,0,0,0
+1336048,2023,New Zealand,3,TL Seifert,4663bd23,L Wood,65b6943c,FH Allen,bf74b130,0,0,0,0,0,,,,,,4,0,4
+1336048,2023,New Zealand,4,FH Allen,bf74b130,BA Carse,cad40f5e,TL Seifert,4663bd23,0,0,0,0,0,,,,,,1,0,1
+1336048,2023,New Zealand,4,TL Seifert,4663bd23,BA Carse,cad40f5e,FH Allen,bf74b130,0,0,0,0,0,,,,,,1,0,1
+1336048,2023,New Zealand,4,FH Allen,bf74b130,BA Carse,cad40f5e,TL Seifert,4663bd23,0,0,0,0,1,FH Allen,bf74b130,,,bowled,0,0,0
+1336048,2023,New Zealand,4,GD Phillips,9a46c4e5,BA Carse,cad40f5e,TL Seifert,4663bd23,0,0,0,0,0,,,,,,0,0,0
+1336048,2023,New Zealand,4,GD Phillips,9a46c4e5,BA Carse,cad40f5e,TL Seifert,4663bd23,0,0,0,0,0,,,,,,0,0,0
+1336048,2023,New Zealand,4,GD Phillips,9a46c4e5,BA Carse,cad40f5e,TL Seifert,4663bd23,0,0,0,0,0,,,,,,0,0,0
+1336048,2023,New Zealand,5,TL Seifert,4663bd23,L Wood,65b6943c,GD Phillips,9a46c4e5,0,0,0,0,0,,,,,,4,0,4
+1336048,2023,New Zealand,5,TL Seifert,4663bd23,L Wood,65b6943c,GD Phillips,9a46c4e5,0,0,0,0,1,TL Seifert,4663bd23,,,bowled,0,0,0
+1336048,2023,New Zealand,5,MS Chapman,7fa12533,L Wood,65b6943c,GD Phillips,9a46c4e5,0,0,0,0,0,,,,,,0,0,0
+1336048,2023,New Zealand,5,MS Chapman,7fa12533,L Wood,65b6943c,GD Phillips,9a46c4e5,0,0,0,0,0,,,,,,0,0,0
+1336048,2023,New Zealand,5,MS Chapman,7fa12533,L Wood,65b6943c,GD Phillips,9a46c4e5,0,0,0,0,0,,,,,,3,0,3
+1336048,2023,New Zealand,5,GD Phillips,9a46c4e5,L Wood,65b6943c,MS Chapman,7fa12533,0,0,0,0,0,,,,,,0,0,0
+1336048,2023,New Zealand,6,MS Chapman,7fa12533,AU Rashid,249d60c9,GD Phillips,9a46c4e5,0,0,0,0,0,,,,,,6,0,6
+1336048,2023,New Zealand,6,MS Chapman,7fa12533,AU Rashid,249d60c9,GD Phillips,9a46c4e5,0,0,0,0,0,,,,,,0,0,0
+1336048,2023,New Zealand,6,MS Chapman,7fa12533,AU Rashid,249d60c9,GD Phillips,9a46c4e5,0,0,0,0,0,,,,,,0,0,0
+1336048,2023,New Zealand,6,MS Chapman,7fa12533,AU Rashid,249d60c9,GD Phillips,9a46c4e5,0,0,0,0,0,,,,,,1,0,1
+1336048,2023,New Zealand,6,GD Phillips,9a46c4e5,AU Rashid,249d60c9,MS Chapman,7fa12533,0,0,0,0,0,,,,,,0,0,0
+1336048,2023,New Zealand,6,GD Phillips,9a46c4e5,AU Rashid,249d60c9,MS Chapman,7fa12533,0,0,0,0,0,,,,,,1,0,1
+1336048,2023,New Zealand,7,GD Phillips,9a46c4e5,MM Ali,bb351c23,MS Chapman,7fa12533,0,0,0,0,0,,,,,,1,0,1
+1336048,2023,New Zealand,7,MS Chapman,7fa12533,MM Ali,bb351c23,GD Phillips,9a46c4e5,0,0,0,0,0,,,,,,1,0,1
+1336048,2023,New Zealand,7,GD Phillips,9a46c4e5,MM Ali,bb351c23,MS Chapman,7fa12533,0,0,0,0,0,,,,,,1,0,1
+1336048,2023,New Zealand,7,MS Chapman,7fa12533,MM Ali,bb351c23,GD Phillips,9a46c4e5,0,0,0,0,1,MS Chapman,7fa12533,,,bowled,0,0,0
+1336048,2023,New Zealand,7,DJ Mitchell,eade4650,MM Ali,bb351c23,GD Phillips,9a46c4e5,0,0,0,0,0,,,,,,0,0,0
+1336048,2023,New Zealand,7,DJ Mitchell,eade4650,MM Ali,bb351c23,GD Phillips,9a46c4e5,0,0,0,0,0,,,,,,1,0,1
+1336048,2023,New Zealand,8,DJ Mitchell,eade4650,AU Rashid,249d60c9,GD Phillips,9a46c4e5,0,0,0,0,0,,,,,,0,0,0
+1336048,2023,New Zealand,8,DJ Mitchell,eade4650,AU Rashid,249d60c9,GD Phillips,9a46c4e5,0,0,0,0,0,,,,,,1,0,1
+1336048,2023,New Zealand,8,GD Phillips,9a46c4e5,AU Rashid,249d60c9,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,4,0,4
+1336048,2023,New Zealand,8,GD Phillips,9a46c4e5,AU Rashid,249d60c9,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,1,0,1
+1336048,2023,New Zealand,8,DJ Mitchell,eade4650,AU Rashid,249d60c9,GD Phillips,9a46c4e5,0,0,0,0,0,,,,,,1,0,1
+1336048,2023,New Zealand,8,GD Phillips,9a46c4e5,AU Rashid,249d60c9,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,0,0,0
+1336048,2023,New Zealand,9,DJ Mitchell,eade4650,MM Ali,bb351c23,GD Phillips,9a46c4e5,0,0,0,0,0,,,,,,1,0,1
+1336048,2023,New Zealand,9,GD Phillips,9a46c4e5,MM Ali,bb351c23,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,1,0,1
+1336048,2023,New Zealand,9,DJ Mitchell,eade4650,MM Ali,bb351c23,GD Phillips,9a46c4e5,0,0,0,0,0,,,,,,0,0,0
+1336048,2023,New Zealand,9,DJ Mitchell,eade4650,MM Ali,bb351c23,GD Phillips,9a46c4e5,0,0,0,0,0,,,,,,1,0,1
+1336048,2023,New Zealand,9,GD Phillips,9a46c4e5,MM Ali,bb351c23,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,2,0,2
+1336048,2023,New Zealand,9,GD Phillips,9a46c4e5,MM Ali,bb351c23,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,2,0,2
+1336048,2023,New Zealand,10,DJ Mitchell,eade4650,BA Carse,cad40f5e,GD Phillips,9a46c4e5,0,0,0,0,0,,,,,,1,0,1
+1336048,2023,New Zealand,10,GD Phillips,9a46c4e5,BA Carse,cad40f5e,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,2,0,2
+1336048,2023,New Zealand,10,GD Phillips,9a46c4e5,BA Carse,cad40f5e,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,1,0,1
+1336048,2023,New Zealand,10,DJ Mitchell,eade4650,BA Carse,cad40f5e,GD Phillips,9a46c4e5,0,0,0,0,0,,,,,,1,0,1
+1336048,2023,New Zealand,10,GD Phillips,9a46c4e5,BA Carse,cad40f5e,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,4,0,4
+1336048,2023,New Zealand,10,GD Phillips,9a46c4e5,BA Carse,cad40f5e,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,1,0,1
+1336048,2023,New Zealand,11,GD Phillips,9a46c4e5,LS Livingstone,50c6bc2b,DJ Mitchell,eade4650,0,0,0,0,0,,,,,,1,0,1
+1336048,2023,New Zealand,11,DJ Mitchell,eade4650,LS Livingstone,50c6bc2b,GD Phillips,9a46c4e5,0,0,0,0,0,,,,,,0,0,0
+1336048,2023,New Zealand,11,DJ Mitchell,eade4650,LS Livingstone,50c6bc2b,GD Phillips,9a46c4e5,0,0,0,0,1,DJ Mitchell,eade4650,HC Brook,4ae1755b,caught,0,0,0
+1336048,2023,New Zealand,11,MJ Santner,e4a0deae,LS Livingstone,50c6bc2b,GD Phillips,9a46c4e5,0,0,0,0,0,,,,,,4,0,4
+1336048,2023,New Zealand,11,MJ Santner,e4a0deae,LS Livingstone,50c6bc2b,GD Phillips,9a46c4e5,0,0,0,0,0,,,,,,1,0,1
+1336048,2023,New Zealand,11,GD Phillips,9a46c4e5,LS Livingstone,50c6bc2b,MJ Santner,e4a0deae,0,0,0,0,0,,,,,,0,0,0
+1336048,2023,New Zealand,12,MJ Santner,e4a0deae,SM Curran,e94915e6,GD Phillips,9a46c4e5,0,0,0,0,0,,,,,,1,0,1
+1336048,2023,New Zealand,12,GD Phillips,9a46c4e5,SM Curran,e94915e6,MJ Santner,e4a0deae,0,0,0,0,0,,,,,,4,0,4
+1336048,2023,New Zealand,12,GD Phillips,9a46c4e5,SM Curran,e94915e6,MJ Santner,e4a0deae,0,0,0,0,0,,,,,,1,0,1
+1336048,2023,New Zealand,12,MJ Santner,e4a0deae,SM Curran,e94915e6,GD Phillips,9a46c4e5,0,0,0,0,0,,,,,,1,0,1
+1336048,2023,New Zealand,12,GD Phillips,9a46c4e5,SM Curran,e94915e6,MJ Santner,e4a0deae,0,0,0,0,0,,,,,,2,0,2
+1336048,2023,New Zealand,12,GD Phillips,9a46c4e5,SM Curran,e94915e6,MJ Santner,e4a0deae,0,0,0,0,0,,,,,,0,0,0
+1336048,2023,New Zealand,13,MJ Santner,e4a0deae,LS Livingstone,50c6bc2b,GD Phillips,9a46c4e5,0,0,0,0,0,,,,,,0,0,0
+1336048,2023,New Zealand,13,MJ Santner,e4a0deae,LS Livingstone,50c6bc2b,GD Phillips,9a46c4e5,0,0,0,0,0,,,,,,1,0,1
+1336048,2023,New Zealand,13,GD Phillips,9a46c4e5,LS Livingstone,50c6bc2b,MJ Santner,e4a0deae,0,0,0,0,0,,,,,,2,0,2
+1336048,2023,New Zealand,13,GD Phillips,9a46c4e5,LS Livingstone,50c6bc2b,MJ Santner,e4a0deae,0,0,0,0,0,,,,,,0,0,0
+1336048,2023,New Zealand,13,GD Phillips,9a46c4e5,LS Livingstone,50c6bc2b,MJ Santner,e4a0deae,0,0,0,0,0,,,,,,0,0,0
+1336048,2023,New Zealand,13,GD Phillips,9a46c4e5,LS Livingstone,50c6bc2b,MJ Santner,e4a0deae,0,0,0,0,0,,,,,,1,0,1
+1336048,2023,New Zealand,14,GD Phillips,9a46c4e5,AU Rashid,249d60c9,MJ Santner,e4a0deae,0,0,0,0,0,,,,,,0,0,0
+1336048,2023,New Zealand,14,GD Phillips,9a46c4e5,AU Rashid,249d60c9,MJ Santner,e4a0deae,0,0,0,0,0,,,,,,2,0,2
+1336048,2023,New Zealand,14,GD Phillips,9a46c4e5,AU Rashid,249d60c9,MJ Santner,e4a0deae,0,0,0,0,0,,,,,,1,0,1
+1336048,2023,New Zealand,14,MJ Santner,e4a0deae,AU Rashid,249d60c9,GD Phillips,9a46c4e5,0,0,0,0,1,MJ Santner,e4a0deae,L Wood,65b6943c,caught,0,0,0
+1336048,2023,New Zealand,14,AF Milne,350bb1b1,AU Rashid,249d60c9,GD Phillips,9a46c4e5,0,0,0,0,0,,,,,,0,0,0
+1336048,2023,New Zealand,14,AF Milne,350bb1b1,AU Rashid,249d60c9,GD Phillips,9a46c4e5,0,0,0,0,0,,,,,,0,0,0
+1336048,2023,New Zealand,15,GD Phillips,9a46c4e5,LS Livingstone,50c6bc2b,AF Milne,350bb1b1,0,0,0,0,0,,,,,,1,0,1
+1336048,2023,New Zealand,15,AF Milne,350bb1b1,LS Livingstone,50c6bc2b,GD Phillips,9a46c4e5,0,0,0,0,0,,,,,,1,0,1
+1336048,2023,New Zealand,15,GD Phillips,9a46c4e5,LS Livingstone,50c6bc2b,AF Milne,350bb1b1,0,0,0,0,0,,,,,,0,0,0
+1336048,2023,New Zealand,15,GD Phillips,9a46c4e5,LS Livingstone,50c6bc2b,AF Milne,350bb1b1,0,0,0,0,0,,,,,,0,0,0
+1336048,2023,New Zealand,15,GD Phillips,9a46c4e5,LS Livingstone,50c6bc2b,AF Milne,350bb1b1,0,0,0,0,0,,,,,,1,0,1
+1336048,2023,New Zealand,15,AF Milne,350bb1b1,LS Livingstone,50c6bc2b,GD Phillips,9a46c4e5,0,0,0,0,0,,,,,,0,0,0
+1336048,2023,New Zealand,16,GD Phillips,9a46c4e5,L Wood,65b6943c,AF Milne,350bb1b1,0,0,0,0,0,,,,,,0,0,0
+1336048,2023,New Zealand,16,GD Phillips,9a46c4e5,L Wood,65b6943c,AF Milne,350bb1b1,0,0,0,0,0,,,,,,4,0,4
+1336048,2023,New Zealand,16,GD Phillips,9a46c4e5,L Wood,65b6943c,AF Milne,350bb1b1,0,0,0,0,1,GD Phillips,9a46c4e5,SM Curran,e94915e6,caught,0,0,0
+1336048,2023,New Zealand,16,IS Sodhi,641ac5ff,L Wood,65b6943c,AF Milne,350bb1b1,0,0,0,0,0,,,,,,0,0,0
+1336048,2023,New Zealand,16,IS Sodhi,641ac5ff,L Wood,65b6943c,AF Milne,350bb1b1,0,0,0,0,0,,,,,,4,0,4
+1336048,2023,New Zealand,16,IS Sodhi,641ac5ff,L Wood,65b6943c,AF Milne,350bb1b1,0,0,0,0,0,,,,,,0,0,0
+1336048,2023,New Zealand,17,AF Milne,350bb1b1,LS Livingstone,50c6bc2b,IS Sodhi,641ac5ff,0,0,0,0,0,,,,,,1,0,1
+1336048,2023,New Zealand,17,IS Sodhi,641ac5ff,LS Livingstone,50c6bc2b,AF Milne,350bb1b1,0,0,0,0,0,,,,,,1,0,1
+1336048,2023,New Zealand,17,AF Milne,350bb1b1,LS Livingstone,50c6bc2b,IS Sodhi,641ac5ff,0,0,0,0,0,,,,,,1,0,1
+1336048,2023,New Zealand,17,IS Sodhi,641ac5ff,LS Livingstone,50c6bc2b,AF Milne,350bb1b1,0,0,0,0,0,,,,,,2,0,2
+1336048,2023,New Zealand,17,IS Sodhi,641ac5ff,LS Livingstone,50c6bc2b,AF Milne,350bb1b1,0,0,0,0,0,,,,,,1,0,1
+1336048,2023,New Zealand,17,AF Milne,350bb1b1,LS Livingstone,50c6bc2b,IS Sodhi,641ac5ff,0,0,0,0,0,,,,,,6,0,6
+1336048,2023,New Zealand,18,IS Sodhi,641ac5ff,SM Curran,e94915e6,AF Milne,350bb1b1,0,0,0,0,0,,,,,,6,0,6
+1336048,2023,New Zealand,18,IS Sodhi,641ac5ff,SM Curran,e94915e6,AF Milne,350bb1b1,0,0,1,0,0,,,,,,0,1,1
+1336048,2023,New Zealand,18,AF Milne,350bb1b1,SM Curran,e94915e6,IS Sodhi,641ac5ff,0,0,0,0,0,,,,,,1,0,1
+1336048,2023,New Zealand,18,IS Sodhi,641ac5ff,SM Curran,e94915e6,AF Milne,350bb1b1,0,0,0,0,0,,,,,,0,0,0
+1336048,2023,New Zealand,18,IS Sodhi,641ac5ff,SM Curran,e94915e6,AF Milne,350bb1b1,0,0,0,0,0,,,,,,0,0,0
+1336048,2023,New Zealand,18,IS Sodhi,641ac5ff,SM Curran,e94915e6,AF Milne,350bb1b1,0,0,0,0,0,,,,,,2,0,2
+1336048,2023,New Zealand,19,AF Milne,350bb1b1,BA Carse,cad40f5e,IS Sodhi,641ac5ff,0,0,0,0,1,AF Milne,350bb1b1,,,bowled,0,0,0
+1336048,2023,New Zealand,19,TG Southee,13c35c9e,BA Carse,cad40f5e,IS Sodhi,641ac5ff,1,0,0,0,0,,,,,,0,1,1
+1336048,2023,New Zealand,19,TG Southee,13c35c9e,BA Carse,cad40f5e,IS Sodhi,641ac5ff,0,0,0,0,0,,,,,,4,0,4
+1336048,2023,New Zealand,19,TG Southee,13c35c9e,BA Carse,cad40f5e,IS Sodhi,641ac5ff,0,0,0,0,0,,,,,,2,0,2
+1336048,2023,New Zealand,19,TG Southee,13c35c9e,BA Carse,cad40f5e,IS Sodhi,641ac5ff,0,0,0,0,0,,,,,,1,0,1
+1336048,2023,New Zealand,19,IS Sodhi,641ac5ff,BA Carse,cad40f5e,TG Southee,13c35c9e,0,0,0,0,1,IS Sodhi,641ac5ff,SM Curran,e94915e6,caught,0,0,0
+1336048,2023,New Zealand,19,LH Ferguson,2f9d0389,BA Carse,cad40f5e,TG Southee,13c35c9e,0,0,0,0,0,,,,,,2,0,2
+1336048,2023,England,0,JM Bairstow,abb83e27,TG Southee,13c35c9e,WG Jacks,9caf69a1,0,0,0,0,0,,,,,,4,0,4
+1336048,2023,England,0,JM Bairstow,abb83e27,TG Southee,13c35c9e,WG Jacks,9caf69a1,1,0,0,0,0,,,,,,0,1,1
+1336048,2023,England,0,JM Bairstow,abb83e27,TG Southee,13c35c9e,WG Jacks,9caf69a1,0,0,0,0,1,JM Bairstow,abb83e27,DJ Mitchell,eade4650,caught,0,0,0
+1336048,2023,England,0,DJ Malan,ad9c32a2,TG Southee,13c35c9e,WG Jacks,9caf69a1,0,0,0,0,0,,,,,,0,0,0
+1336048,2023,England,0,DJ Malan,ad9c32a2,TG Southee,13c35c9e,WG Jacks,9caf69a1,0,0,0,0,0,,,,,,0,0,0
+1336048,2023,England,0,DJ Malan,ad9c32a2,TG Southee,13c35c9e,WG Jacks,9caf69a1,1,0,0,0,0,,,,,,0,1,1
+1336048,2023,England,0,DJ Malan,ad9c32a2,TG Southee,13c35c9e,WG Jacks,9caf69a1,0,0,0,0,0,,,,,,1,0,1
+1336048,2023,England,0,WG Jacks,9caf69a1,TG Southee,13c35c9e,DJ Malan,ad9c32a2,0,0,0,0,0,,,,,,1,0,1
+1336048,2023,England,1,WG Jacks,9caf69a1,AF Milne,350bb1b1,DJ Malan,ad9c32a2,0,0,0,0,0,,,,,,1,0,1
+1336048,2023,England,1,DJ Malan,ad9c32a2,AF Milne,350bb1b1,WG Jacks,9caf69a1,0,0,0,0,0,,,,,,0,0,0
+1336048,2023,England,1,DJ Malan,ad9c32a2,AF Milne,350bb1b1,WG Jacks,9caf69a1,0,0,0,0,0,,,,,,0,0,0
+1336048,2023,England,1,DJ Malan,ad9c32a2,AF Milne,350bb1b1,WG Jacks,9caf69a1,0,0,0,0,0,,,,,,0,0,0
+1336048,2023,England,1,DJ Malan,ad9c32a2,AF Milne,350bb1b1,WG Jacks,9caf69a1,1,0,0,0,0,,,,,,0,1,1
+1336048,2023,England,1,DJ Malan,ad9c32a2,AF Milne,350bb1b1,WG Jacks,9caf69a1,0,0,0,0,0,,,,,,2,0,2
+1336048,2023,England,1,DJ Malan,ad9c32a2,AF Milne,350bb1b1,WG Jacks,9caf69a1,0,1,0,0,0,,,,,,0,1,1
+1336048,2023,England,1,DJ Malan,ad9c32a2,AF Milne,350bb1b1,WG Jacks,9caf69a1,0,0,0,0,0,,,,,,0,0,0
+1336048,2023,England,2,WG Jacks,9caf69a1,TG Southee,13c35c9e,DJ Malan,ad9c32a2,0,0,0,0,0,,,,,,1,0,1
+1336048,2023,England,2,DJ Malan,ad9c32a2,TG Southee,13c35c9e,WG Jacks,9caf69a1,0,0,0,0,0,,,,,,1,0,1
+1336048,2023,England,2,WG Jacks,9caf69a1,TG Southee,13c35c9e,DJ Malan,ad9c32a2,0,0,0,0,0,,,,,,1,0,1
+1336048,2023,England,2,DJ Malan,ad9c32a2,TG Southee,13c35c9e,WG Jacks,9caf69a1,0,0,0,0,0,,,,,,4,0,4
+1336048,2023,England,2,DJ Malan,ad9c32a2,TG Southee,13c35c9e,WG Jacks,9caf69a1,0,0,0,0,0,,,,,,0,0,0
+1336048,2023,England,2,DJ Malan,ad9c32a2,TG Southee,13c35c9e,WG Jacks,9caf69a1,0,0,0,0,0,,,,,,0,0,0
+1336048,2023,England,3,WG Jacks,9caf69a1,LH Ferguson,2f9d0389,DJ Malan,ad9c32a2,0,0,0,0,0,,,,,,4,0,4
+1336048,2023,England,3,WG Jacks,9caf69a1,LH Ferguson,2f9d0389,DJ Malan,ad9c32a2,0,0,0,0,0,,,,,,4,0,4
+1336048,2023,England,3,WG Jacks,9caf69a1,LH Ferguson,2f9d0389,DJ Malan,ad9c32a2,0,0,0,0,0,,,,,,6,0,6
+1336048,2023,England,3,WG Jacks,9caf69a1,LH Ferguson,2f9d0389,DJ Malan,ad9c32a2,0,0,0,0,0,,,,,,2,0,2
+1336048,2023,England,3,WG Jacks,9caf69a1,LH Ferguson,2f9d0389,DJ Malan,ad9c32a2,0,0,0,0,0,,,,,,0,0,0
+1336048,2023,England,3,WG Jacks,9caf69a1,LH Ferguson,2f9d0389,DJ Malan,ad9c32a2,0,0,0,0,0,,,,,,0,0,0
+1336048,2023,England,4,DJ Malan,ad9c32a2,MJ Santner,e4a0deae,WG Jacks,9caf69a1,0,0,0,0,0,,,,,,0,0,0
+1336048,2023,England,4,DJ Malan,ad9c32a2,MJ Santner,e4a0deae,WG Jacks,9caf69a1,0,0,0,0,0,,,,,,4,0,4
+1336048,2023,England,4,DJ Malan,ad9c32a2,MJ Santner,e4a0deae,WG Jacks,9caf69a1,0,0,0,0,0,,,,,,4,0,4
+1336048,2023,England,4,DJ Malan,ad9c32a2,MJ Santner,e4a0deae,WG Jacks,9caf69a1,0,0,0,0,0,,,,,,4,0,4
+1336048,2023,England,4,DJ Malan,ad9c32a2,MJ Santner,e4a0deae,WG Jacks,9caf69a1,0,0,0,0,0,,,,,,1,0,1
+1336048,2023,England,4,WG Jacks,9caf69a1,MJ Santner,e4a0deae,DJ Malan,ad9c32a2,0,0,0,0,0,,,,,,2,0,2
+1336048,2023,England,5,DJ Malan,ad9c32a2,AF Milne,350bb1b1,WG Jacks,9caf69a1,0,0,0,0,0,,,,,,0,0,0
+1336048,2023,England,5,DJ Malan,ad9c32a2,AF Milne,350bb1b1,WG Jacks,9caf69a1,0,0,0,0,0,,,,,,1,0,1
+1336048,2023,England,5,WG Jacks,9caf69a1,AF Milne,350bb1b1,DJ Malan,ad9c32a2,2,0,0,0,0,,,,,,0,2,2
+1336048,2023,England,5,DJ Malan,ad9c32a2,AF Milne,350bb1b1,WG Jacks,9caf69a1,0,0,0,0,0,,,,,,0,0,0
+1336048,2023,England,5,DJ Malan,ad9c32a2,AF Milne,350bb1b1,WG Jacks,9caf69a1,0,0,0,0,0,,,,,,4,0,4
+1336048,2023,England,5,DJ Malan,ad9c32a2,AF Milne,350bb1b1,WG Jacks,9caf69a1,0,0,0,0,0,,,,,,2,0,2
+1336048,2023,England,5,DJ Malan,ad9c32a2,AF Milne,350bb1b1,WG Jacks,9caf69a1,0,0,0,0,0,,,,,,1,0,1
+1336048,2023,England,6,DJ Malan,ad9c32a2,IS Sodhi,641ac5ff,WG Jacks,9caf69a1,0,0,0,0,0,,,,,,0,0,0
+1336048,2023,England,6,DJ Malan,ad9c32a2,IS Sodhi,641ac5ff,WG Jacks,9caf69a1,0,0,0,0,0,,,,,,1,0,1
+1336048,2023,England,6,WG Jacks,9caf69a1,IS Sodhi,641ac5ff,DJ Malan,ad9c32a2,0,0,0,0,1,WG Jacks,9caf69a1,FH Allen,bf74b130,caught,0,0,0
+1336048,2023,England,6,HC Brook,4ae1755b,IS Sodhi,641ac5ff,DJ Malan,ad9c32a2,0,0,0,0,0,,,,,,1,0,1
+1336048,2023,England,6,DJ Malan,ad9c32a2,IS Sodhi,641ac5ff,HC Brook,4ae1755b,0,0,0,0,0,,,,,,0,0,0
+1336048,2023,England,6,DJ Malan,ad9c32a2,IS Sodhi,641ac5ff,HC Brook,4ae1755b,0,0,0,0,0,,,,,,6,0,6
+1336048,2023,England,7,HC Brook,4ae1755b,MJ Santner,e4a0deae,DJ Malan,ad9c32a2,0,0,0,0,0,,,,,,1,0,1
+1336048,2023,England,7,DJ Malan,ad9c32a2,MJ Santner,e4a0deae,HC Brook,4ae1755b,0,0,0,0,0,,,,,,1,0,1
+1336048,2023,England,7,HC Brook,4ae1755b,MJ Santner,e4a0deae,DJ Malan,ad9c32a2,0,0,0,0,0,,,,,,0,0,0
+1336048,2023,England,7,HC Brook,4ae1755b,MJ Santner,e4a0deae,DJ Malan,ad9c32a2,0,0,0,1,0,,,,,,0,1,1
+1336048,2023,England,7,DJ Malan,ad9c32a2,MJ Santner,e4a0deae,HC Brook,4ae1755b,0,0,0,0,0,,,,,,1,0,1
+1336048,2023,England,7,HC Brook,4ae1755b,MJ Santner,e4a0deae,DJ Malan,ad9c32a2,0,0,0,0,0,,,,,,0,0,0
+1336048,2023,England,8,DJ Malan,ad9c32a2,IS Sodhi,641ac5ff,HC Brook,4ae1755b,0,0,0,0,0,,,,,,1,0,1
+1336048,2023,England,8,HC Brook,4ae1755b,IS Sodhi,641ac5ff,DJ Malan,ad9c32a2,0,0,0,0,0,,,,,,0,0,0
+1336048,2023,England,8,HC Brook,4ae1755b,IS Sodhi,641ac5ff,DJ Malan,ad9c32a2,0,0,0,0,0,,,,,,6,0,6
+1336048,2023,England,8,HC Brook,4ae1755b,IS Sodhi,641ac5ff,DJ Malan,ad9c32a2,0,0,0,0,0,,,,,,6,0,6
+1336048,2023,England,8,HC Brook,4ae1755b,IS Sodhi,641ac5ff,DJ Malan,ad9c32a2,0,0,0,0,0,,,,,,2,0,2
+1336048,2023,England,8,HC Brook,4ae1755b,IS Sodhi,641ac5ff,DJ Malan,ad9c32a2,0,0,0,0,0,,,,,,0,0,0
+1336048,2023,England,9,DJ Malan,ad9c32a2,LH Ferguson,2f9d0389,HC Brook,4ae1755b,0,0,0,0,0,,,,,,0,0,0
+1336048,2023,England,9,DJ Malan,ad9c32a2,LH Ferguson,2f9d0389,HC Brook,4ae1755b,0,0,0,0,0,,,,,,0,0,0
+1336048,2023,England,9,DJ Malan,ad9c32a2,LH Ferguson,2f9d0389,HC Brook,4ae1755b,0,0,0,0,0,,,,,,2,0,2
+1336048,2023,England,9,DJ Malan,ad9c32a2,LH Ferguson,2f9d0389,HC Brook,4ae1755b,0,0,0,0,0,,,,,,2,0,2
+1336048,2023,England,9,DJ Malan,ad9c32a2,LH Ferguson,2f9d0389,HC Brook,4ae1755b,0,0,0,0,0,,,,,,1,0,1
+1336048,2023,England,9,HC Brook,4ae1755b,LH Ferguson,2f9d0389,DJ Malan,ad9c32a2,0,0,0,0,0,,,,,,1,0,1
+1336048,2023,England,10,HC Brook,4ae1755b,MJ Santner,e4a0deae,DJ Malan,ad9c32a2,0,0,0,0,0,,,,,,1,0,1
+1336048,2023,England,10,DJ Malan,ad9c32a2,MJ Santner,e4a0deae,HC Brook,4ae1755b,0,0,0,0,0,,,,,,0,0,0
+1336048,2023,England,10,DJ Malan,ad9c32a2,MJ Santner,e4a0deae,HC Brook,4ae1755b,1,0,0,0,0,,,,,,0,1,1
+1336048,2023,England,10,DJ Malan,ad9c32a2,MJ Santner,e4a0deae,HC Brook,4ae1755b,0,0,0,0,0,,,,,,2,0,2
+1336048,2023,England,10,DJ Malan,ad9c32a2,MJ Santner,e4a0deae,HC Brook,4ae1755b,0,0,0,0,0,,,,,,1,0,1
+1336048,2023,England,10,HC Brook,4ae1755b,MJ Santner,e4a0deae,DJ Malan,ad9c32a2,0,0,0,0,0,,,,,,1,0,1
+1336048,2023,England,10,DJ Malan,ad9c32a2,MJ Santner,e4a0deae,HC Brook,4ae1755b,0,0,0,0,0,,,,,,6,0,6
+1336048,2023,England,11,HC Brook,4ae1755b,TG Southee,13c35c9e,DJ Malan,ad9c32a2,0,0,0,0,0,,,,,,0,0,0
+1336048,2023,England,11,HC Brook,4ae1755b,TG Southee,13c35c9e,DJ Malan,ad9c32a2,0,0,0,0,0,,,,,,6,0,6
+1336048,2023,England,11,HC Brook,4ae1755b,TG Southee,13c35c9e,DJ Malan,ad9c32a2,0,0,0,0,0,,,,,,0,0,0
+1336048,2023,England,11,HC Brook,4ae1755b,TG Southee,13c35c9e,DJ Malan,ad9c32a2,0,0,0,0,0,,,,,,2,0,2
+1336048,2023,England,11,HC Brook,4ae1755b,TG Southee,13c35c9e,DJ Malan,ad9c32a2,0,0,0,0,0,,,,,,1,0,1
+1336048,2023,England,11,DJ Malan,ad9c32a2,TG Southee,13c35c9e,HC Brook,4ae1755b,0,0,0,0,0,,,,,,1,0,1
+1336048,2023,England,12,DJ Malan,ad9c32a2,LH Ferguson,2f9d0389,HC Brook,4ae1755b,0,0,0,0,1,DJ Malan,ad9c32a2,DJ Mitchell,eade4650,caught,0,0,0
+1336048,2023,England,12,LS Livingstone,50c6bc2b,LH Ferguson,2f9d0389,HC Brook,4ae1755b,0,0,0,0,0,,,,,,2,0,2
+1336048,2023,England,12,LS Livingstone,50c6bc2b,LH Ferguson,2f9d0389,HC Brook,4ae1755b,0,1,0,0,0,,,,,,1,1,2
+1336048,2023,England,12,HC Brook,4ae1755b,LH Ferguson,2f9d0389,LS Livingstone,50c6bc2b,0,1,0,0,0,,,,,,2,1,3
+1336048,2023,England,12,HC Brook,4ae1755b,LH Ferguson,2f9d0389,LS Livingstone,50c6bc2b,0,0,0,0,0,,,,,,1,0,1
+1336048,2023,England,12,LS Livingstone,50c6bc2b,LH Ferguson,2f9d0389,HC Brook,4ae1755b,0,0,0,0,0,,,,,,1,0,1
+1336048,2023,England,12,HC Brook,4ae1755b,LH Ferguson,2f9d0389,LS Livingstone,50c6bc2b,0,0,0,0,0,,,,,,2,0,2
+1336048,2023,England,12,HC Brook,4ae1755b,LH Ferguson,2f9d0389,LS Livingstone,50c6bc2b,0,0,0,0,0,,,,,,1,0,1
+1336048,2023,England,13,HC Brook,4ae1755b,AF Milne,350bb1b1,LS Livingstone,50c6bc2b,0,0,0,0,0,,,,,,0,0,0
+1336048,2023,England,13,HC Brook,4ae1755b,AF Milne,350bb1b1,LS Livingstone,50c6bc2b,0,0,0,0,0,,,,,,0,0,0
+1336048,2023,England,13,HC Brook,4ae1755b,AF Milne,350bb1b1,LS Livingstone,50c6bc2b,0,0,0,0,0,,,,,,4,0,4
+1336048,2023,England,13,HC Brook,4ae1755b,AF Milne,350bb1b1,LS Livingstone,50c6bc2b,0,0,0,0,0,,,,,,4,0,4
+1336048,2023,England,13,HC Brook,4ae1755b,AF Milne,350bb1b1,LS Livingstone,50c6bc2b,0,0,0,0,0,,,,,,1,0,1
+1336048,2023,England,13,LS Livingstone,50c6bc2b,AF Milne,350bb1b1,HC Brook,4ae1755b,0,0,0,0,0,,,,,,6,0,6

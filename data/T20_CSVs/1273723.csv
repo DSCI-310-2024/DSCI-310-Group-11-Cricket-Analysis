@@ -1,0 +1,108 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1273723,2021/22,Netherlands,0,SJ Myburgh,18261c22,C Karunaratne,fb3e0d39,MP O'Dowd,b699df47,0,0,0,1,0,,,,,,0,1,1
+1273723,2021/22,Netherlands,0,MP O'Dowd,b699df47,C Karunaratne,fb3e0d39,SJ Myburgh,18261c22,0,0,0,0,0,,,,,,2,0,2
+1273723,2021/22,Netherlands,0,MP O'Dowd,b699df47,C Karunaratne,fb3e0d39,SJ Myburgh,18261c22,0,0,0,0,0,,,,,,0,0,0
+1273723,2021/22,Netherlands,0,MP O'Dowd,b699df47,C Karunaratne,fb3e0d39,SJ Myburgh,18261c22,0,0,0,0,1,MP O'Dowd,b699df47,MD Shanaka,3ff033bb,run out,0,0,0
+1273723,2021/22,Netherlands,0,BN Cooper,634a7b21,C Karunaratne,fb3e0d39,SJ Myburgh,18261c22,1,0,0,0,0,,,,,,0,1,1
+1273723,2021/22,Netherlands,0,SJ Myburgh,18261c22,C Karunaratne,fb3e0d39,BN Cooper,634a7b21,0,0,0,0,0,,,,,,4,0,4
+1273723,2021/22,Netherlands,0,SJ Myburgh,18261c22,C Karunaratne,fb3e0d39,BN Cooper,634a7b21,0,0,0,0,0,,,,,,0,0,0
+1273723,2021/22,Netherlands,1,BN Cooper,634a7b21,PVD Chameera,327b58d3,SJ Myburgh,18261c22,0,0,0,0,0,,,,,,0,0,0
+1273723,2021/22,Netherlands,1,BN Cooper,634a7b21,PVD Chameera,327b58d3,SJ Myburgh,18261c22,0,0,0,0,0,,,,,,0,0,0
+1273723,2021/22,Netherlands,1,BN Cooper,634a7b21,PVD Chameera,327b58d3,SJ Myburgh,18261c22,0,0,0,0,0,,,,,,0,0,0
+1273723,2021/22,Netherlands,1,BN Cooper,634a7b21,PVD Chameera,327b58d3,SJ Myburgh,18261c22,0,0,0,0,0,,,,,,4,0,4
+1273723,2021/22,Netherlands,1,BN Cooper,634a7b21,PVD Chameera,327b58d3,SJ Myburgh,18261c22,0,0,0,0,0,,,,,,4,0,4
+1273723,2021/22,Netherlands,1,BN Cooper,634a7b21,PVD Chameera,327b58d3,SJ Myburgh,18261c22,0,0,1,0,0,,,,,,0,1,1
+1273723,2021/22,Netherlands,2,BN Cooper,634a7b21,M Theekshana,f24c6701,SJ Myburgh,18261c22,0,0,0,0,0,,,,,,1,0,1
+1273723,2021/22,Netherlands,2,SJ Myburgh,18261c22,M Theekshana,f24c6701,BN Cooper,634a7b21,0,0,0,0,0,,,,,,1,0,1
+1273723,2021/22,Netherlands,2,BN Cooper,634a7b21,M Theekshana,f24c6701,SJ Myburgh,18261c22,0,0,0,0,1,BN Cooper,634a7b21,,,bowled,0,0,0
+1273723,2021/22,Netherlands,2,CN Ackermann,e734d090,M Theekshana,f24c6701,SJ Myburgh,18261c22,0,0,0,0,0,,,,,,1,0,1
+1273723,2021/22,Netherlands,2,SJ Myburgh,18261c22,M Theekshana,f24c6701,CN Ackermann,e734d090,0,0,0,0,1,SJ Myburgh,18261c22,,,bowled,0,0,0
+1273723,2021/22,Netherlands,2,BFW de Leede,fc4375ef,M Theekshana,f24c6701,CN Ackermann,e734d090,0,0,0,0,0,,,,,,0,0,0
+1273723,2021/22,Netherlands,3,CN Ackermann,e734d090,CBRLS Kumara,4751caa3,BFW de Leede,fc4375ef,0,0,0,0,0,,,,,,0,0,0
+1273723,2021/22,Netherlands,3,CN Ackermann,e734d090,CBRLS Kumara,4751caa3,BFW de Leede,fc4375ef,0,0,0,0,0,,,,,,0,0,0
+1273723,2021/22,Netherlands,3,CN Ackermann,e734d090,CBRLS Kumara,4751caa3,BFW de Leede,fc4375ef,0,0,0,0,0,,,,,,0,0,0
+1273723,2021/22,Netherlands,3,CN Ackermann,e734d090,CBRLS Kumara,4751caa3,BFW de Leede,fc4375ef,0,0,0,0,0,,,,,,0,0,0
+1273723,2021/22,Netherlands,3,CN Ackermann,e734d090,CBRLS Kumara,4751caa3,BFW de Leede,fc4375ef,0,0,0,0,0,,,,,,6,0,6
+1273723,2021/22,Netherlands,3,CN Ackermann,e734d090,CBRLS Kumara,4751caa3,BFW de Leede,fc4375ef,0,0,0,0,0,,,,,,0,0,0
+1273723,2021/22,Netherlands,4,BFW de Leede,fc4375ef,PWH de Silva,a97c8ec2,CN Ackermann,e734d090,0,0,1,0,0,,,,,,0,1,1
+1273723,2021/22,Netherlands,4,CN Ackermann,e734d090,PWH de Silva,a97c8ec2,BFW de Leede,fc4375ef,0,0,0,0,0,,,,,,4,0,4
+1273723,2021/22,Netherlands,4,CN Ackermann,e734d090,PWH de Silva,a97c8ec2,BFW de Leede,fc4375ef,0,0,0,0,1,CN Ackermann,e734d090,,,lbw,0,0,0
+1273723,2021/22,Netherlands,4,SA Edwards,b59db04f,PWH de Silva,a97c8ec2,BFW de Leede,fc4375ef,0,0,0,0,0,,,,,,0,0,0
+1273723,2021/22,Netherlands,4,SA Edwards,b59db04f,PWH de Silva,a97c8ec2,BFW de Leede,fc4375ef,0,0,0,0,0,,,,,,1,0,1
+1273723,2021/22,Netherlands,4,BFW de Leede,fc4375ef,PWH de Silva,a97c8ec2,SA Edwards,b59db04f,0,0,0,0,1,BFW de Leede,fc4375ef,,,lbw,0,0,0
+1273723,2021/22,Netherlands,5,SA Edwards,b59db04f,PVD Chameera,327b58d3,RE van der Merwe,05c2ca46,0,0,0,0,0,,,,,,4,0,4
+1273723,2021/22,Netherlands,5,SA Edwards,b59db04f,PVD Chameera,327b58d3,RE van der Merwe,05c2ca46,0,0,0,0,0,,,,,,1,0,1
+1273723,2021/22,Netherlands,5,RE van der Merwe,05c2ca46,PVD Chameera,327b58d3,SA Edwards,b59db04f,0,0,0,0,0,,,,,,0,0,0
+1273723,2021/22,Netherlands,5,RE van der Merwe,05c2ca46,PVD Chameera,327b58d3,SA Edwards,b59db04f,0,0,0,0,0,,,,,,0,0,0
+1273723,2021/22,Netherlands,5,RE van der Merwe,05c2ca46,PVD Chameera,327b58d3,SA Edwards,b59db04f,0,0,0,0,1,RE van der Merwe,05c2ca46,MDKJ Perera,f21043a5,caught,0,0,0
+1273723,2021/22,Netherlands,5,PM Seelaar,abbdca1a,PVD Chameera,327b58d3,SA Edwards,b59db04f,0,0,0,0,0,,,,,,0,0,0
+1273723,2021/22,Netherlands,6,SA Edwards,b59db04f,PWH de Silva,a97c8ec2,PM Seelaar,abbdca1a,0,0,0,0,0,,,,,,0,0,0
+1273723,2021/22,Netherlands,6,SA Edwards,b59db04f,PWH de Silva,a97c8ec2,PM Seelaar,abbdca1a,0,0,0,0,0,,,,,,1,0,1
+1273723,2021/22,Netherlands,6,PM Seelaar,abbdca1a,PWH de Silva,a97c8ec2,SA Edwards,b59db04f,0,0,0,0,0,,,,,,2,0,2
+1273723,2021/22,Netherlands,6,PM Seelaar,abbdca1a,PWH de Silva,a97c8ec2,SA Edwards,b59db04f,0,0,0,0,0,,,,,,0,0,0
+1273723,2021/22,Netherlands,6,PM Seelaar,abbdca1a,PWH de Silva,a97c8ec2,SA Edwards,b59db04f,0,0,0,0,0,,,,,,0,0,0
+1273723,2021/22,Netherlands,6,PM Seelaar,abbdca1a,PWH de Silva,a97c8ec2,SA Edwards,b59db04f,0,0,0,0,1,PM Seelaar,abbdca1a,,,lbw,0,0,0
+1273723,2021/22,Netherlands,7,SA Edwards,b59db04f,CBRLS Kumara,4751caa3,FJ Klaassen,c042b412,0,0,0,0,0,,,,,,0,0,0
+1273723,2021/22,Netherlands,7,SA Edwards,b59db04f,CBRLS Kumara,4751caa3,FJ Klaassen,c042b412,0,0,1,0,0,,,,,,0,1,1
+1273723,2021/22,Netherlands,7,FJ Klaassen,c042b412,CBRLS Kumara,4751caa3,SA Edwards,b59db04f,0,0,0,0,0,,,,,,0,0,0
+1273723,2021/22,Netherlands,7,FJ Klaassen,c042b412,CBRLS Kumara,4751caa3,SA Edwards,b59db04f,0,0,0,0,0,,,,,,0,0,0
+1273723,2021/22,Netherlands,7,FJ Klaassen,c042b412,CBRLS Kumara,4751caa3,SA Edwards,b59db04f,0,0,0,0,0,,,,,,1,0,1
+1273723,2021/22,Netherlands,7,SA Edwards,b59db04f,CBRLS Kumara,4751caa3,FJ Klaassen,c042b412,0,0,1,0,0,,,,,,0,1,1
+1273723,2021/22,Netherlands,8,SA Edwards,b59db04f,PWH de Silva,a97c8ec2,FJ Klaassen,c042b412,0,0,0,0,0,,,,,,0,0,0
+1273723,2021/22,Netherlands,8,SA Edwards,b59db04f,PWH de Silva,a97c8ec2,FJ Klaassen,c042b412,0,0,0,0,0,,,,,,0,0,0
+1273723,2021/22,Netherlands,8,SA Edwards,b59db04f,PWH de Silva,a97c8ec2,FJ Klaassen,c042b412,0,0,0,0,0,,,,,,1,0,1
+1273723,2021/22,Netherlands,8,FJ Klaassen,c042b412,PWH de Silva,a97c8ec2,SA Edwards,b59db04f,0,0,0,0,0,,,,,,0,0,0
+1273723,2021/22,Netherlands,8,FJ Klaassen,c042b412,PWH de Silva,a97c8ec2,SA Edwards,b59db04f,0,0,0,0,0,,,,,,0,0,0
+1273723,2021/22,Netherlands,8,FJ Klaassen,c042b412,PWH de Silva,a97c8ec2,SA Edwards,b59db04f,0,0,0,0,0,,,,,,0,0,0
+1273723,2021/22,Netherlands,9,SA Edwards,b59db04f,CBRLS Kumara,4751caa3,FJ Klaassen,c042b412,0,0,0,0,1,SA Edwards,b59db04f,,,lbw,0,0,0
+1273723,2021/22,Netherlands,9,BD Glover,0dbe27b8,CBRLS Kumara,4751caa3,FJ Klaassen,c042b412,0,0,0,0,0,,,,,,0,0,0
+1273723,2021/22,Netherlands,9,BD Glover,0dbe27b8,CBRLS Kumara,4751caa3,FJ Klaassen,c042b412,0,0,0,0,1,BD Glover,0dbe27b8,MDKJ Perera,f21043a5,caught,0,0,0
+1273723,2021/22,Netherlands,9,PA van Meekeren,4557dc54,CBRLS Kumara,4751caa3,FJ Klaassen,c042b412,0,0,0,0,0,,,,,,0,0,0
+1273723,2021/22,Netherlands,9,PA van Meekeren,4557dc54,CBRLS Kumara,4751caa3,FJ Klaassen,c042b412,0,0,0,0,0,,,,,,0,0,0
+1273723,2021/22,Netherlands,9,PA van Meekeren,4557dc54,CBRLS Kumara,4751caa3,FJ Klaassen,c042b412,0,0,0,0,1,PA van Meekeren,4557dc54,,,lbw,0,0,0
+1273723,2021/22,Sri Lanka,0,P Nissanka,8ee36b18,FJ Klaassen,c042b412,MDKJ Perera,f21043a5,0,0,1,0,0,,,,,,0,1,1
+1273723,2021/22,Sri Lanka,0,MDKJ Perera,f21043a5,FJ Klaassen,c042b412,P Nissanka,8ee36b18,0,0,0,0,0,,,,,,4,0,4
+1273723,2021/22,Sri Lanka,0,MDKJ Perera,f21043a5,FJ Klaassen,c042b412,P Nissanka,8ee36b18,0,0,0,0,0,,,,,,1,0,1
+1273723,2021/22,Sri Lanka,0,P Nissanka,8ee36b18,FJ Klaassen,c042b412,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,0,0,0
+1273723,2021/22,Sri Lanka,0,P Nissanka,8ee36b18,FJ Klaassen,c042b412,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,0,0,0
+1273723,2021/22,Sri Lanka,0,P Nissanka,8ee36b18,FJ Klaassen,c042b412,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,0,0,0
+1273723,2021/22,Sri Lanka,1,MDKJ Perera,f21043a5,BD Glover,0dbe27b8,P Nissanka,8ee36b18,0,0,0,0,0,,,,,,0,0,0
+1273723,2021/22,Sri Lanka,1,MDKJ Perera,f21043a5,BD Glover,0dbe27b8,P Nissanka,8ee36b18,0,0,0,0,0,,,,,,1,0,1
+1273723,2021/22,Sri Lanka,1,P Nissanka,8ee36b18,BD Glover,0dbe27b8,MDKJ Perera,f21043a5,0,0,0,0,1,P Nissanka,8ee36b18,PA van Meekeren,4557dc54,caught,0,0,0
+1273723,2021/22,Sri Lanka,1,MDKJ Perera,f21043a5,BD Glover,0dbe27b8,KIC Asalanka,732c038e,0,0,0,0,0,,,,,,0,0,0
+1273723,2021/22,Sri Lanka,1,MDKJ Perera,f21043a5,BD Glover,0dbe27b8,KIC Asalanka,732c038e,0,0,0,0,0,,,,,,1,0,1
+1273723,2021/22,Sri Lanka,1,KIC Asalanka,732c038e,BD Glover,0dbe27b8,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,0,0,0
+1273723,2021/22,Sri Lanka,2,MDKJ Perera,f21043a5,PA van Meekeren,4557dc54,KIC Asalanka,732c038e,0,0,0,0,0,,,,,,1,0,1
+1273723,2021/22,Sri Lanka,2,KIC Asalanka,732c038e,PA van Meekeren,4557dc54,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,1,0,1
+1273723,2021/22,Sri Lanka,2,MDKJ Perera,f21043a5,PA van Meekeren,4557dc54,KIC Asalanka,732c038e,0,0,0,0,0,,,,,,0,0,0
+1273723,2021/22,Sri Lanka,2,MDKJ Perera,f21043a5,PA van Meekeren,4557dc54,KIC Asalanka,732c038e,0,0,0,0,0,,,,,,4,0,4
+1273723,2021/22,Sri Lanka,2,MDKJ Perera,f21043a5,PA van Meekeren,4557dc54,KIC Asalanka,732c038e,0,0,0,0,0,,,,,,0,0,0
+1273723,2021/22,Sri Lanka,2,MDKJ Perera,f21043a5,PA van Meekeren,4557dc54,KIC Asalanka,732c038e,1,0,0,0,0,,,,,,0,1,1
+1273723,2021/22,Sri Lanka,2,MDKJ Perera,f21043a5,PA van Meekeren,4557dc54,KIC Asalanka,732c038e,0,0,0,0,0,,,,,,0,0,0
+1273723,2021/22,Sri Lanka,3,KIC Asalanka,732c038e,FJ Klaassen,c042b412,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,4,0,4
+1273723,2021/22,Sri Lanka,3,KIC Asalanka,732c038e,FJ Klaassen,c042b412,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,0,0,0
+1273723,2021/22,Sri Lanka,3,KIC Asalanka,732c038e,FJ Klaassen,c042b412,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,0,0,0
+1273723,2021/22,Sri Lanka,3,KIC Asalanka,732c038e,FJ Klaassen,c042b412,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,1,0,1
+1273723,2021/22,Sri Lanka,3,MDKJ Perera,f21043a5,FJ Klaassen,c042b412,KIC Asalanka,732c038e,0,0,0,0,0,,,,,,1,0,1
+1273723,2021/22,Sri Lanka,3,KIC Asalanka,732c038e,FJ Klaassen,c042b412,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,0,0,0
+1273723,2021/22,Sri Lanka,4,MDKJ Perera,f21043a5,BD Glover,0dbe27b8,KIC Asalanka,732c038e,0,0,0,0,0,,,,,,0,0,0
+1273723,2021/22,Sri Lanka,4,MDKJ Perera,f21043a5,BD Glover,0dbe27b8,KIC Asalanka,732c038e,0,0,0,0,0,,,,,,4,0,4
+1273723,2021/22,Sri Lanka,4,MDKJ Perera,f21043a5,BD Glover,0dbe27b8,KIC Asalanka,732c038e,0,0,0,0,0,,,,,,0,0,0
+1273723,2021/22,Sri Lanka,4,MDKJ Perera,f21043a5,BD Glover,0dbe27b8,KIC Asalanka,732c038e,0,0,0,0,0,,,,,,1,0,1
+1273723,2021/22,Sri Lanka,4,KIC Asalanka,732c038e,BD Glover,0dbe27b8,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,0,0,0
+1273723,2021/22,Sri Lanka,4,KIC Asalanka,732c038e,BD Glover,0dbe27b8,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,0,0,0
+1273723,2021/22,Sri Lanka,5,MDKJ Perera,f21043a5,PA van Meekeren,4557dc54,KIC Asalanka,732c038e,0,0,0,0,0,,,,,,0,0,0
+1273723,2021/22,Sri Lanka,5,MDKJ Perera,f21043a5,PA van Meekeren,4557dc54,KIC Asalanka,732c038e,0,0,0,0,0,,,,,,4,0,4
+1273723,2021/22,Sri Lanka,5,MDKJ Perera,f21043a5,PA van Meekeren,4557dc54,KIC Asalanka,732c038e,0,0,0,0,0,,,,,,1,0,1
+1273723,2021/22,Sri Lanka,5,KIC Asalanka,732c038e,PA van Meekeren,4557dc54,MDKJ Perera,f21043a5,0,0,0,0,1,KIC Asalanka,732c038e,FJ Klaassen,c042b412,caught,0,0,0
+1273723,2021/22,Sri Lanka,5,MDKJ Perera,f21043a5,PA van Meekeren,4557dc54,WIA Fernando,9550470d,0,0,0,0,0,,,,,,4,0,4
+1273723,2021/22,Sri Lanka,5,MDKJ Perera,f21043a5,PA van Meekeren,4557dc54,WIA Fernando,9550470d,0,0,0,0,0,,,,,,4,0,4
+1273723,2021/22,Sri Lanka,6,WIA Fernando,9550470d,BD Glover,0dbe27b8,MDKJ Perera,f21043a5,1,0,0,0,0,,,,,,0,1,1
+1273723,2021/22,Sri Lanka,6,WIA Fernando,9550470d,BD Glover,0dbe27b8,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,0,0,0
+1273723,2021/22,Sri Lanka,6,WIA Fernando,9550470d,BD Glover,0dbe27b8,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,0,0,0
+1273723,2021/22,Sri Lanka,6,WIA Fernando,9550470d,BD Glover,0dbe27b8,MDKJ Perera,f21043a5,1,0,0,0,0,,,,,,0,1,1
+1273723,2021/22,Sri Lanka,6,WIA Fernando,9550470d,BD Glover,0dbe27b8,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,1,0,1
+1273723,2021/22,Sri Lanka,6,MDKJ Perera,f21043a5,BD Glover,0dbe27b8,WIA Fernando,9550470d,0,0,0,0,0,,,,,,0,0,0
+1273723,2021/22,Sri Lanka,6,MDKJ Perera,f21043a5,BD Glover,0dbe27b8,WIA Fernando,9550470d,0,0,0,0,0,,,,,,0,0,0
+1273723,2021/22,Sri Lanka,6,MDKJ Perera,f21043a5,BD Glover,0dbe27b8,WIA Fernando,9550470d,0,0,0,0,0,,,,,,2,0,2
+1273723,2021/22,Sri Lanka,7,WIA Fernando,9550470d,FJ Klaassen,c042b412,MDKJ Perera,f21043a5,0,0,0,0,0,,,,,,1,0,1

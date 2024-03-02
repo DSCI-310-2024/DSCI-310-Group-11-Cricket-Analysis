@@ -1,0 +1,206 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+533275,2012/13,Zimbabwe,0,H Masakadza,31fbf891,DW Steyn,8fd1a8f5,V Sibanda,0fdabe05,0,0,0,0,0,,,,,,0,0,0
+533275,2012/13,Zimbabwe,0,H Masakadza,31fbf891,DW Steyn,8fd1a8f5,V Sibanda,0fdabe05,0,0,0,0,0,,,,,,0,0,0
+533275,2012/13,Zimbabwe,0,H Masakadza,31fbf891,DW Steyn,8fd1a8f5,V Sibanda,0fdabe05,0,0,0,0,0,,,,,,0,0,0
+533275,2012/13,Zimbabwe,0,H Masakadza,31fbf891,DW Steyn,8fd1a8f5,V Sibanda,0fdabe05,0,0,0,0,0,,,,,,0,0,0
+533275,2012/13,Zimbabwe,0,H Masakadza,31fbf891,DW Steyn,8fd1a8f5,V Sibanda,0fdabe05,0,0,0,0,0,,,,,,1,0,1
+533275,2012/13,Zimbabwe,0,V Sibanda,0fdabe05,DW Steyn,8fd1a8f5,H Masakadza,31fbf891,0,0,0,0,0,,,,,,0,0,0
+533275,2012/13,Zimbabwe,1,H Masakadza,31fbf891,M Morkel,5bb5a915,V Sibanda,0fdabe05,0,0,0,0,0,,,,,,0,0,0
+533275,2012/13,Zimbabwe,1,H Masakadza,31fbf891,M Morkel,5bb5a915,V Sibanda,0fdabe05,0,0,0,0,0,,,,,,1,0,1
+533275,2012/13,Zimbabwe,1,V Sibanda,0fdabe05,M Morkel,5bb5a915,H Masakadza,31fbf891,0,0,0,0,0,,,,,,0,0,0
+533275,2012/13,Zimbabwe,1,V Sibanda,0fdabe05,M Morkel,5bb5a915,H Masakadza,31fbf891,0,0,0,0,1,V Sibanda,0fdabe05,,,bowled,0,0,0
+533275,2012/13,Zimbabwe,1,BRM Taylor,53597be1,M Morkel,5bb5a915,H Masakadza,31fbf891,0,0,0,0,0,,,,,,1,0,1
+533275,2012/13,Zimbabwe,1,H Masakadza,31fbf891,M Morkel,5bb5a915,BRM Taylor,53597be1,0,0,0,0,0,,,,,,0,0,0
+533275,2012/13,Zimbabwe,2,BRM Taylor,53597be1,DW Steyn,8fd1a8f5,H Masakadza,31fbf891,0,0,0,0,0,,,,,,1,0,1
+533275,2012/13,Zimbabwe,2,H Masakadza,31fbf891,DW Steyn,8fd1a8f5,BRM Taylor,53597be1,0,0,0,0,0,,,,,,0,0,0
+533275,2012/13,Zimbabwe,2,H Masakadza,31fbf891,DW Steyn,8fd1a8f5,BRM Taylor,53597be1,0,0,0,0,0,,,,,,0,0,0
+533275,2012/13,Zimbabwe,2,H Masakadza,31fbf891,DW Steyn,8fd1a8f5,BRM Taylor,53597be1,0,0,0,0,0,,,,,,0,0,0
+533275,2012/13,Zimbabwe,2,H Masakadza,31fbf891,DW Steyn,8fd1a8f5,BRM Taylor,53597be1,0,0,0,0,0,,,,,,0,0,0
+533275,2012/13,Zimbabwe,2,H Masakadza,31fbf891,DW Steyn,8fd1a8f5,BRM Taylor,53597be1,0,0,0,0,0,,,,,,0,0,0
+533275,2012/13,Zimbabwe,3,BRM Taylor,53597be1,M Morkel,5bb5a915,H Masakadza,31fbf891,0,0,0,0,0,,,,,,2,0,2
+533275,2012/13,Zimbabwe,3,BRM Taylor,53597be1,M Morkel,5bb5a915,H Masakadza,31fbf891,0,0,0,0,1,BRM Taylor,53597be1,AB de Villiers,c4487b84,caught,0,0,0
+533275,2012/13,Zimbabwe,3,CR Ervine,c96311d4,M Morkel,5bb5a915,H Masakadza,31fbf891,0,0,0,0,0,,,,,,0,0,0
+533275,2012/13,Zimbabwe,3,CR Ervine,c96311d4,M Morkel,5bb5a915,H Masakadza,31fbf891,0,0,0,0,0,,,,,,1,0,1
+533275,2012/13,Zimbabwe,3,H Masakadza,31fbf891,M Morkel,5bb5a915,CR Ervine,c96311d4,0,0,0,0,0,,,,,,4,0,4
+533275,2012/13,Zimbabwe,3,H Masakadza,31fbf891,M Morkel,5bb5a915,CR Ervine,c96311d4,0,0,0,0,0,,,,,,0,0,0
+533275,2012/13,Zimbabwe,4,CR Ervine,c96311d4,JA Morkel,c3d35165,H Masakadza,31fbf891,0,0,0,0,0,,,,,,4,0,4
+533275,2012/13,Zimbabwe,4,CR Ervine,c96311d4,JA Morkel,c3d35165,H Masakadza,31fbf891,0,0,0,0,0,,,,,,1,0,1
+533275,2012/13,Zimbabwe,4,H Masakadza,31fbf891,JA Morkel,c3d35165,CR Ervine,c96311d4,0,0,0,0,0,,,,,,0,0,0
+533275,2012/13,Zimbabwe,4,H Masakadza,31fbf891,JA Morkel,c3d35165,CR Ervine,c96311d4,0,0,0,0,1,H Masakadza,31fbf891,RE Levi,18c78b11,caught,0,0,0
+533275,2012/13,Zimbabwe,4,CR Ervine,c96311d4,JA Morkel,c3d35165,S Matsikenyeri,e7ba1233,0,0,0,0,0,,,,,,1,0,1
+533275,2012/13,Zimbabwe,4,S Matsikenyeri,e7ba1233,JA Morkel,c3d35165,CR Ervine,c96311d4,0,0,0,0,0,,,,,,0,0,0
+533275,2012/13,Zimbabwe,5,CR Ervine,c96311d4,M Morkel,5bb5a915,S Matsikenyeri,e7ba1233,0,0,0,0,0,,,,,,0,0,0
+533275,2012/13,Zimbabwe,5,CR Ervine,c96311d4,M Morkel,5bb5a915,S Matsikenyeri,e7ba1233,0,0,1,0,0,,,,,,0,1,1
+533275,2012/13,Zimbabwe,5,S Matsikenyeri,e7ba1233,M Morkel,5bb5a915,CR Ervine,c96311d4,0,0,0,0,0,,,,,,0,0,0
+533275,2012/13,Zimbabwe,5,S Matsikenyeri,e7ba1233,M Morkel,5bb5a915,CR Ervine,c96311d4,0,0,0,0,0,,,,,,1,0,1
+533275,2012/13,Zimbabwe,5,CR Ervine,c96311d4,M Morkel,5bb5a915,S Matsikenyeri,e7ba1233,0,0,0,0,0,,,,,,1,0,1
+533275,2012/13,Zimbabwe,5,S Matsikenyeri,e7ba1233,M Morkel,5bb5a915,CR Ervine,c96311d4,0,0,0,0,0,,,,,,1,0,1
+533275,2012/13,Zimbabwe,6,S Matsikenyeri,e7ba1233,J Botha,7c503806,CR Ervine,c96311d4,0,0,0,0,0,,,,,,0,0,0
+533275,2012/13,Zimbabwe,6,S Matsikenyeri,e7ba1233,J Botha,7c503806,CR Ervine,c96311d4,0,0,0,0,0,,,,,,1,0,1
+533275,2012/13,Zimbabwe,6,CR Ervine,c96311d4,J Botha,7c503806,S Matsikenyeri,e7ba1233,0,0,0,0,0,,,,,,0,0,0
+533275,2012/13,Zimbabwe,6,CR Ervine,c96311d4,J Botha,7c503806,S Matsikenyeri,e7ba1233,0,0,0,0,0,,,,,,2,0,2
+533275,2012/13,Zimbabwe,6,CR Ervine,c96311d4,J Botha,7c503806,S Matsikenyeri,e7ba1233,0,0,0,0,0,,,,,,1,0,1
+533275,2012/13,Zimbabwe,6,S Matsikenyeri,e7ba1233,J Botha,7c503806,CR Ervine,c96311d4,0,0,0,0,0,,,,,,1,0,1
+533275,2012/13,Zimbabwe,7,S Matsikenyeri,e7ba1233,RJ Peterson,26ff4c29,CR Ervine,c96311d4,0,0,0,0,0,,,,,,1,0,1
+533275,2012/13,Zimbabwe,7,CR Ervine,c96311d4,RJ Peterson,26ff4c29,S Matsikenyeri,e7ba1233,0,0,0,0,0,,,,,,0,0,0
+533275,2012/13,Zimbabwe,7,CR Ervine,c96311d4,RJ Peterson,26ff4c29,S Matsikenyeri,e7ba1233,0,0,0,0,0,,,,,,4,0,4
+533275,2012/13,Zimbabwe,7,CR Ervine,c96311d4,RJ Peterson,26ff4c29,S Matsikenyeri,e7ba1233,0,0,0,0,0,,,,,,1,0,1
+533275,2012/13,Zimbabwe,7,S Matsikenyeri,e7ba1233,RJ Peterson,26ff4c29,CR Ervine,c96311d4,0,0,0,0,0,,,,,,2,0,2
+533275,2012/13,Zimbabwe,7,S Matsikenyeri,e7ba1233,RJ Peterson,26ff4c29,CR Ervine,c96311d4,0,0,0,0,0,,,,,,0,0,0
+533275,2012/13,Zimbabwe,8,CR Ervine,c96311d4,J Botha,7c503806,S Matsikenyeri,e7ba1233,0,0,0,0,0,,,,,,4,0,4
+533275,2012/13,Zimbabwe,8,CR Ervine,c96311d4,J Botha,7c503806,S Matsikenyeri,e7ba1233,0,0,0,0,0,,,,,,1,0,1
+533275,2012/13,Zimbabwe,8,S Matsikenyeri,e7ba1233,J Botha,7c503806,CR Ervine,c96311d4,0,0,1,0,0,,,,,,0,1,1
+533275,2012/13,Zimbabwe,8,CR Ervine,c96311d4,J Botha,7c503806,S Matsikenyeri,e7ba1233,0,0,0,0,0,,,,,,0,0,0
+533275,2012/13,Zimbabwe,8,CR Ervine,c96311d4,J Botha,7c503806,S Matsikenyeri,e7ba1233,0,0,1,0,0,,,,,,0,1,1
+533275,2012/13,Zimbabwe,8,S Matsikenyeri,e7ba1233,J Botha,7c503806,CR Ervine,c96311d4,0,0,0,0,0,,,,,,2,0,2
+533275,2012/13,Zimbabwe,9,CR Ervine,c96311d4,JA Morkel,c3d35165,S Matsikenyeri,e7ba1233,0,0,0,0,0,,,,,,0,0,0
+533275,2012/13,Zimbabwe,9,CR Ervine,c96311d4,JA Morkel,c3d35165,S Matsikenyeri,e7ba1233,0,0,0,0,0,,,,,,1,0,1
+533275,2012/13,Zimbabwe,9,S Matsikenyeri,e7ba1233,JA Morkel,c3d35165,CR Ervine,c96311d4,0,0,0,0,0,,,,,,1,0,1
+533275,2012/13,Zimbabwe,9,CR Ervine,c96311d4,JA Morkel,c3d35165,S Matsikenyeri,e7ba1233,1,0,0,0,0,,,,,,0,1,1
+533275,2012/13,Zimbabwe,9,CR Ervine,c96311d4,JA Morkel,c3d35165,S Matsikenyeri,e7ba1233,1,0,0,0,0,,,,,,0,1,1
+533275,2012/13,Zimbabwe,9,CR Ervine,c96311d4,JA Morkel,c3d35165,S Matsikenyeri,e7ba1233,0,0,0,0,0,,,,,,2,0,2
+533275,2012/13,Zimbabwe,9,CR Ervine,c96311d4,JA Morkel,c3d35165,S Matsikenyeri,e7ba1233,0,0,0,0,0,,,,,,1,0,1
+533275,2012/13,Zimbabwe,9,S Matsikenyeri,e7ba1233,JA Morkel,c3d35165,CR Ervine,c96311d4,0,0,0,0,0,,,,,,1,0,1
+533275,2012/13,Zimbabwe,10,S Matsikenyeri,e7ba1233,JH Kallis,86dc8f2e,CR Ervine,c96311d4,0,0,0,0,0,,,,,,0,0,0
+533275,2012/13,Zimbabwe,10,S Matsikenyeri,e7ba1233,JH Kallis,86dc8f2e,CR Ervine,c96311d4,0,0,0,0,0,,,,,,0,0,0
+533275,2012/13,Zimbabwe,10,S Matsikenyeri,e7ba1233,JH Kallis,86dc8f2e,CR Ervine,c96311d4,0,0,0,0,0,,,,,,0,0,0
+533275,2012/13,Zimbabwe,10,S Matsikenyeri,e7ba1233,JH Kallis,86dc8f2e,CR Ervine,c96311d4,0,0,0,0,1,S Matsikenyeri,e7ba1233,RJ Peterson,26ff4c29,caught,0,0,0
+533275,2012/13,Zimbabwe,10,E Chigumbura,d2babdd5,JH Kallis,86dc8f2e,CR Ervine,c96311d4,0,0,0,0,1,E Chigumbura,d2babdd5,,,lbw,0,0,0
+533275,2012/13,Zimbabwe,10,AG Cremer,9f0270e0,JH Kallis,86dc8f2e,CR Ervine,c96311d4,0,0,0,0,0,,,,,,0,0,0
+533275,2012/13,Zimbabwe,11,CR Ervine,c96311d4,JA Morkel,c3d35165,AG Cremer,9f0270e0,0,0,0,0,0,,,,,,1,0,1
+533275,2012/13,Zimbabwe,11,AG Cremer,9f0270e0,JA Morkel,c3d35165,CR Ervine,c96311d4,0,0,0,0,0,,,,,,2,0,2
+533275,2012/13,Zimbabwe,11,AG Cremer,9f0270e0,JA Morkel,c3d35165,CR Ervine,c96311d4,0,0,0,0,0,,,,,,0,0,0
+533275,2012/13,Zimbabwe,11,AG Cremer,9f0270e0,JA Morkel,c3d35165,CR Ervine,c96311d4,0,0,0,0,0,,,,,,1,0,1
+533275,2012/13,Zimbabwe,11,CR Ervine,c96311d4,JA Morkel,c3d35165,AG Cremer,9f0270e0,0,0,0,0,0,,,,,,0,0,0
+533275,2012/13,Zimbabwe,11,CR Ervine,c96311d4,JA Morkel,c3d35165,AG Cremer,9f0270e0,0,0,0,0,0,,,,,,2,0,2
+533275,2012/13,Zimbabwe,12,AG Cremer,9f0270e0,DW Steyn,8fd1a8f5,CR Ervine,c96311d4,0,0,0,0,0,,,,,,0,0,0
+533275,2012/13,Zimbabwe,12,AG Cremer,9f0270e0,DW Steyn,8fd1a8f5,CR Ervine,c96311d4,0,0,0,0,0,,,,,,0,0,0
+533275,2012/13,Zimbabwe,12,AG Cremer,9f0270e0,DW Steyn,8fd1a8f5,CR Ervine,c96311d4,0,0,0,0,0,,,,,,1,0,1
+533275,2012/13,Zimbabwe,12,CR Ervine,c96311d4,DW Steyn,8fd1a8f5,AG Cremer,9f0270e0,0,0,0,0,0,,,,,,0,0,0
+533275,2012/13,Zimbabwe,12,CR Ervine,c96311d4,DW Steyn,8fd1a8f5,AG Cremer,9f0270e0,0,0,0,0,0,,,,,,0,0,0
+533275,2012/13,Zimbabwe,12,CR Ervine,c96311d4,DW Steyn,8fd1a8f5,AG Cremer,9f0270e0,0,0,0,0,0,,,,,,0,0,0
+533275,2012/13,Zimbabwe,13,AG Cremer,9f0270e0,JH Kallis,86dc8f2e,CR Ervine,c96311d4,0,0,0,0,0,,,,,,0,0,0
+533275,2012/13,Zimbabwe,13,AG Cremer,9f0270e0,JH Kallis,86dc8f2e,CR Ervine,c96311d4,0,0,0,0,0,,,,,,2,0,2
+533275,2012/13,Zimbabwe,13,AG Cremer,9f0270e0,JH Kallis,86dc8f2e,CR Ervine,c96311d4,0,0,0,0,0,,,,,,0,0,0
+533275,2012/13,Zimbabwe,13,AG Cremer,9f0270e0,JH Kallis,86dc8f2e,CR Ervine,c96311d4,0,0,0,0,1,AG Cremer,9f0270e0,AB de Villiers,c4487b84,caught,0,0,0
+533275,2012/13,Zimbabwe,13,P Utseya,9de271ef,JH Kallis,86dc8f2e,CR Ervine,c96311d4,0,0,0,0,0,,,,,,1,0,1
+533275,2012/13,Zimbabwe,13,CR Ervine,c96311d4,JH Kallis,86dc8f2e,P Utseya,9de271ef,0,0,0,0,0,,,,,,0,0,0
+533275,2012/13,Zimbabwe,14,P Utseya,9de271ef,M Morkel,5bb5a915,CR Ervine,c96311d4,1,0,0,0,0,,,,,,0,1,1
+533275,2012/13,Zimbabwe,14,P Utseya,9de271ef,M Morkel,5bb5a915,CR Ervine,c96311d4,0,0,0,0,0,,,,,,0,0,0
+533275,2012/13,Zimbabwe,14,P Utseya,9de271ef,M Morkel,5bb5a915,CR Ervine,c96311d4,0,0,0,0,0,,,,,,1,0,1
+533275,2012/13,Zimbabwe,14,CR Ervine,c96311d4,M Morkel,5bb5a915,P Utseya,9de271ef,0,0,0,0,0,,,,,,0,0,0
+533275,2012/13,Zimbabwe,14,CR Ervine,c96311d4,M Morkel,5bb5a915,P Utseya,9de271ef,0,0,0,0,0,,,,,,0,0,0
+533275,2012/13,Zimbabwe,14,CR Ervine,c96311d4,M Morkel,5bb5a915,P Utseya,9de271ef,1,0,0,0,0,,,,,,0,1,1
+533275,2012/13,Zimbabwe,14,CR Ervine,c96311d4,M Morkel,5bb5a915,P Utseya,9de271ef,0,0,0,0,0,,,,,,0,0,0
+533275,2012/13,Zimbabwe,14,CR Ervine,c96311d4,M Morkel,5bb5a915,P Utseya,9de271ef,0,0,0,0,0,,,,,,1,0,1
+533275,2012/13,Zimbabwe,15,CR Ervine,c96311d4,J Botha,7c503806,P Utseya,9de271ef,0,0,0,0,0,,,,,,1,0,1
+533275,2012/13,Zimbabwe,15,P Utseya,9de271ef,J Botha,7c503806,CR Ervine,c96311d4,0,0,0,0,0,,,,,,0,0,0
+533275,2012/13,Zimbabwe,15,P Utseya,9de271ef,J Botha,7c503806,CR Ervine,c96311d4,0,0,0,0,0,,,,,,1,0,1
+533275,2012/13,Zimbabwe,15,CR Ervine,c96311d4,J Botha,7c503806,P Utseya,9de271ef,0,0,0,0,0,,,,,,1,0,1
+533275,2012/13,Zimbabwe,15,P Utseya,9de271ef,J Botha,7c503806,CR Ervine,c96311d4,0,0,0,0,0,,,,,,0,0,0
+533275,2012/13,Zimbabwe,15,P Utseya,9de271ef,J Botha,7c503806,CR Ervine,c96311d4,0,0,0,0,0,,,,,,1,0,1
+533275,2012/13,Zimbabwe,16,P Utseya,9de271ef,DW Steyn,8fd1a8f5,CR Ervine,c96311d4,0,0,0,0,0,,,,,,1,0,1
+533275,2012/13,Zimbabwe,16,CR Ervine,c96311d4,DW Steyn,8fd1a8f5,P Utseya,9de271ef,0,0,0,0,0,,,,,,0,0,0
+533275,2012/13,Zimbabwe,16,CR Ervine,c96311d4,DW Steyn,8fd1a8f5,P Utseya,9de271ef,0,0,0,0,0,,,,,,4,0,4
+533275,2012/13,Zimbabwe,16,CR Ervine,c96311d4,DW Steyn,8fd1a8f5,P Utseya,9de271ef,0,0,0,0,0,,,,,,1,0,1
+533275,2012/13,Zimbabwe,16,P Utseya,9de271ef,DW Steyn,8fd1a8f5,CR Ervine,c96311d4,0,0,0,0,1,P Utseya,9de271ef,AB de Villiers,c4487b84,caught,0,0,0
+533275,2012/13,Zimbabwe,16,RW Price,67af6f81,DW Steyn,8fd1a8f5,CR Ervine,c96311d4,0,0,0,0,0,,,,,,0,0,0
+533275,2012/13,Zimbabwe,17,CR Ervine,c96311d4,JH Kallis,86dc8f2e,RW Price,67af6f81,0,0,0,0,0,,,,,,1,0,1
+533275,2012/13,Zimbabwe,17,RW Price,67af6f81,JH Kallis,86dc8f2e,CR Ervine,c96311d4,0,0,0,0,0,,,,,,0,0,0
+533275,2012/13,Zimbabwe,17,RW Price,67af6f81,JH Kallis,86dc8f2e,CR Ervine,c96311d4,0,0,0,0,0,,,,,,1,0,1
+533275,2012/13,Zimbabwe,17,CR Ervine,c96311d4,JH Kallis,86dc8f2e,RW Price,67af6f81,0,0,0,0,1,CR Ervine,c96311d4,AB de Villiers,c4487b84,caught,0,0,0
+533275,2012/13,Zimbabwe,17,KM Jarvis,59792462,JH Kallis,86dc8f2e,RW Price,67af6f81,0,0,0,0,0,,,,,,2,0,2
+533275,2012/13,Zimbabwe,17,KM Jarvis,59792462,JH Kallis,86dc8f2e,RW Price,67af6f81,0,0,0,0,0,,,,,,1,0,1
+533275,2012/13,Zimbabwe,18,KM Jarvis,59792462,JA Morkel,c3d35165,RW Price,67af6f81,0,0,0,0,0,,,,,,0,0,0
+533275,2012/13,Zimbabwe,18,KM Jarvis,59792462,JA Morkel,c3d35165,RW Price,67af6f81,1,0,0,0,0,,,,,,0,1,1
+533275,2012/13,Zimbabwe,18,KM Jarvis,59792462,JA Morkel,c3d35165,RW Price,67af6f81,0,0,0,0,0,,,,,,0,0,0
+533275,2012/13,Zimbabwe,18,KM Jarvis,59792462,JA Morkel,c3d35165,RW Price,67af6f81,0,0,0,0,0,,,,,,2,0,2
+533275,2012/13,Zimbabwe,18,KM Jarvis,59792462,JA Morkel,c3d35165,RW Price,67af6f81,0,0,0,0,0,,,,,,1,0,1
+533275,2012/13,Zimbabwe,18,RW Price,67af6f81,JA Morkel,c3d35165,KM Jarvis,59792462,0,0,0,0,0,,,,,,2,0,2
+533275,2012/13,Zimbabwe,18,RW Price,67af6f81,JA Morkel,c3d35165,KM Jarvis,59792462,0,0,0,0,0,,,,,,0,0,0
+533275,2012/13,Zimbabwe,19,KM Jarvis,59792462,JH Kallis,86dc8f2e,RW Price,67af6f81,0,0,0,0,0,,,,,,0,0,0
+533275,2012/13,Zimbabwe,19,KM Jarvis,59792462,JH Kallis,86dc8f2e,RW Price,67af6f81,0,0,0,0,0,,,,,,2,0,2
+533275,2012/13,Zimbabwe,19,KM Jarvis,59792462,JH Kallis,86dc8f2e,RW Price,67af6f81,0,0,0,0,0,,,,,,0,0,0
+533275,2012/13,Zimbabwe,19,KM Jarvis,59792462,JH Kallis,86dc8f2e,RW Price,67af6f81,0,0,0,0,0,,,,,,0,0,0
+533275,2012/13,Zimbabwe,19,KM Jarvis,59792462,JH Kallis,86dc8f2e,RW Price,67af6f81,0,0,0,0,0,,,,,,1,0,1
+533275,2012/13,Zimbabwe,19,RW Price,67af6f81,JH Kallis,86dc8f2e,KM Jarvis,59792462,0,0,0,0,0,,,,,,4,0,4
+533275,2012/13,South Africa,0,RE Levi,18c78b11,KM Jarvis,59792462,HM Amla,e798611a,0,0,0,0,0,,,,,,0,0,0
+533275,2012/13,South Africa,0,RE Levi,18c78b11,KM Jarvis,59792462,HM Amla,e798611a,0,0,4,0,0,,,,,,0,4,4
+533275,2012/13,South Africa,0,RE Levi,18c78b11,KM Jarvis,59792462,HM Amla,e798611a,0,0,0,0,0,,,,,,1,0,1
+533275,2012/13,South Africa,0,HM Amla,e798611a,KM Jarvis,59792462,RE Levi,18c78b11,0,0,0,0,0,,,,,,0,0,0
+533275,2012/13,South Africa,0,HM Amla,e798611a,KM Jarvis,59792462,RE Levi,18c78b11,1,0,0,0,0,,,,,,0,1,1
+533275,2012/13,South Africa,0,HM Amla,e798611a,KM Jarvis,59792462,RE Levi,18c78b11,0,0,0,0,0,,,,,,4,0,4
+533275,2012/13,South Africa,0,HM Amla,e798611a,KM Jarvis,59792462,RE Levi,18c78b11,1,0,0,0,0,,,,,,0,1,1
+533275,2012/13,South Africa,0,HM Amla,e798611a,KM Jarvis,59792462,RE Levi,18c78b11,0,0,0,0,0,,,,,,4,0,4
+533275,2012/13,South Africa,1,RE Levi,18c78b11,BV Vitori,37137c8b,HM Amla,e798611a,0,0,0,0,0,,,,,,0,0,0
+533275,2012/13,South Africa,1,RE Levi,18c78b11,BV Vitori,37137c8b,HM Amla,e798611a,0,0,0,0,0,,,,,,2,0,2
+533275,2012/13,South Africa,1,RE Levi,18c78b11,BV Vitori,37137c8b,HM Amla,e798611a,0,0,0,0,0,,,,,,1,0,1
+533275,2012/13,South Africa,1,HM Amla,e798611a,BV Vitori,37137c8b,RE Levi,18c78b11,0,0,0,0,0,,,,,,1,0,1
+533275,2012/13,South Africa,1,RE Levi,18c78b11,BV Vitori,37137c8b,HM Amla,e798611a,0,0,0,0,0,,,,,,4,0,4
+533275,2012/13,South Africa,1,RE Levi,18c78b11,BV Vitori,37137c8b,HM Amla,e798611a,0,1,0,0,0,,,,,,0,1,1
+533275,2012/13,South Africa,1,RE Levi,18c78b11,BV Vitori,37137c8b,HM Amla,e798611a,0,0,0,0,0,,,,,,0,0,0
+533275,2012/13,South Africa,2,HM Amla,e798611a,RW Price,67af6f81,RE Levi,18c78b11,0,0,0,0,0,,,,,,1,0,1
+533275,2012/13,South Africa,2,RE Levi,18c78b11,RW Price,67af6f81,HM Amla,e798611a,0,0,0,0,0,,,,,,0,0,0
+533275,2012/13,South Africa,2,RE Levi,18c78b11,RW Price,67af6f81,HM Amla,e798611a,0,0,0,0,0,,,,,,1,0,1
+533275,2012/13,South Africa,2,HM Amla,e798611a,RW Price,67af6f81,RE Levi,18c78b11,0,0,0,0,0,,,,,,1,0,1
+533275,2012/13,South Africa,2,RE Levi,18c78b11,RW Price,67af6f81,HM Amla,e798611a,0,0,0,0,0,,,,,,1,0,1
+533275,2012/13,South Africa,2,HM Amla,e798611a,RW Price,67af6f81,RE Levi,18c78b11,0,0,0,3,0,,,,,,0,3,3
+533275,2012/13,South Africa,3,HM Amla,e798611a,KM Jarvis,59792462,RE Levi,18c78b11,0,0,0,0,0,,,,,,1,0,1
+533275,2012/13,South Africa,3,RE Levi,18c78b11,KM Jarvis,59792462,HM Amla,e798611a,0,0,0,0,0,,,,,,1,0,1
+533275,2012/13,South Africa,3,HM Amla,e798611a,KM Jarvis,59792462,RE Levi,18c78b11,0,0,0,0,0,,,,,,0,0,0
+533275,2012/13,South Africa,3,HM Amla,e798611a,KM Jarvis,59792462,RE Levi,18c78b11,0,0,0,0,0,,,,,,0,0,0
+533275,2012/13,South Africa,3,HM Amla,e798611a,KM Jarvis,59792462,RE Levi,18c78b11,0,0,1,0,0,,,,,,0,1,1
+533275,2012/13,South Africa,3,RE Levi,18c78b11,KM Jarvis,59792462,HM Amla,e798611a,0,0,0,0,0,,,,,,4,0,4
+533275,2012/13,South Africa,4,HM Amla,e798611a,RW Price,67af6f81,RE Levi,18c78b11,0,0,0,0,0,,,,,,0,0,0
+533275,2012/13,South Africa,4,HM Amla,e798611a,RW Price,67af6f81,RE Levi,18c78b11,0,0,0,0,0,,,,,,1,0,1
+533275,2012/13,South Africa,4,RE Levi,18c78b11,RW Price,67af6f81,HM Amla,e798611a,0,0,0,0,0,,,,,,0,0,0
+533275,2012/13,South Africa,4,RE Levi,18c78b11,RW Price,67af6f81,HM Amla,e798611a,0,0,0,0,0,,,,,,1,0,1
+533275,2012/13,South Africa,4,HM Amla,e798611a,RW Price,67af6f81,RE Levi,18c78b11,0,0,0,0,0,,,,,,0,0,0
+533275,2012/13,South Africa,4,HM Amla,e798611a,RW Price,67af6f81,RE Levi,18c78b11,0,0,0,0,0,,,,,,4,0,4
+533275,2012/13,South Africa,5,RE Levi,18c78b11,BV Vitori,37137c8b,HM Amla,e798611a,0,0,0,0,0,,,,,,1,0,1
+533275,2012/13,South Africa,5,HM Amla,e798611a,BV Vitori,37137c8b,RE Levi,18c78b11,0,0,0,0,0,,,,,,1,0,1
+533275,2012/13,South Africa,5,RE Levi,18c78b11,BV Vitori,37137c8b,HM Amla,e798611a,0,0,0,0,0,,,,,,4,0,4
+533275,2012/13,South Africa,5,RE Levi,18c78b11,BV Vitori,37137c8b,HM Amla,e798611a,0,0,0,0,0,,,,,,0,0,0
+533275,2012/13,South Africa,5,RE Levi,18c78b11,BV Vitori,37137c8b,HM Amla,e798611a,0,0,0,0,0,,,,,,2,0,2
+533275,2012/13,South Africa,5,RE Levi,18c78b11,BV Vitori,37137c8b,HM Amla,e798611a,0,0,0,0,0,,,,,,4,0,4
+533275,2012/13,South Africa,6,HM Amla,e798611a,P Utseya,9de271ef,RE Levi,18c78b11,0,0,0,0,0,,,,,,1,0,1
+533275,2012/13,South Africa,6,RE Levi,18c78b11,P Utseya,9de271ef,HM Amla,e798611a,0,0,0,0,0,,,,,,1,0,1
+533275,2012/13,South Africa,6,HM Amla,e798611a,P Utseya,9de271ef,RE Levi,18c78b11,0,0,0,0,0,,,,,,0,0,0
+533275,2012/13,South Africa,6,HM Amla,e798611a,P Utseya,9de271ef,RE Levi,18c78b11,0,0,0,0,0,,,,,,1,0,1
+533275,2012/13,South Africa,6,RE Levi,18c78b11,P Utseya,9de271ef,HM Amla,e798611a,0,0,0,0,0,,,,,,1,0,1
+533275,2012/13,South Africa,6,HM Amla,e798611a,P Utseya,9de271ef,RE Levi,18c78b11,0,0,0,0,0,,,,,,0,0,0
+533275,2012/13,South Africa,7,RE Levi,18c78b11,AG Cremer,9f0270e0,HM Amla,e798611a,0,0,0,0,0,,,,,,1,0,1
+533275,2012/13,South Africa,7,HM Amla,e798611a,AG Cremer,9f0270e0,RE Levi,18c78b11,0,0,0,0,0,,,,,,1,0,1
+533275,2012/13,South Africa,7,RE Levi,18c78b11,AG Cremer,9f0270e0,HM Amla,e798611a,0,0,0,0,0,,,,,,0,0,0
+533275,2012/13,South Africa,7,RE Levi,18c78b11,AG Cremer,9f0270e0,HM Amla,e798611a,0,0,0,0,0,,,,,,0,0,0
+533275,2012/13,South Africa,7,RE Levi,18c78b11,AG Cremer,9f0270e0,HM Amla,e798611a,0,0,0,0,0,,,,,,1,0,1
+533275,2012/13,South Africa,7,HM Amla,e798611a,AG Cremer,9f0270e0,RE Levi,18c78b11,0,0,0,0,0,,,,,,1,0,1
+533275,2012/13,South Africa,8,HM Amla,e798611a,P Utseya,9de271ef,RE Levi,18c78b11,0,0,0,0,0,,,,,,1,0,1
+533275,2012/13,South Africa,8,RE Levi,18c78b11,P Utseya,9de271ef,HM Amla,e798611a,0,0,0,0,0,,,,,,4,0,4
+533275,2012/13,South Africa,8,RE Levi,18c78b11,P Utseya,9de271ef,HM Amla,e798611a,0,0,0,0,0,,,,,,1,0,1
+533275,2012/13,South Africa,8,HM Amla,e798611a,P Utseya,9de271ef,RE Levi,18c78b11,0,0,0,0,0,,,,,,0,0,0
+533275,2012/13,South Africa,8,HM Amla,e798611a,P Utseya,9de271ef,RE Levi,18c78b11,0,0,0,0,0,,,,,,1,0,1
+533275,2012/13,South Africa,8,RE Levi,18c78b11,P Utseya,9de271ef,HM Amla,e798611a,0,0,0,0,0,,,,,,2,0,2
+533275,2012/13,South Africa,9,HM Amla,e798611a,AG Cremer,9f0270e0,RE Levi,18c78b11,0,0,0,0,0,,,,,,1,0,1
+533275,2012/13,South Africa,9,RE Levi,18c78b11,AG Cremer,9f0270e0,HM Amla,e798611a,0,0,0,0,0,,,,,,0,0,0
+533275,2012/13,South Africa,9,RE Levi,18c78b11,AG Cremer,9f0270e0,HM Amla,e798611a,0,0,0,0,0,,,,,,1,0,1
+533275,2012/13,South Africa,9,HM Amla,e798611a,AG Cremer,9f0270e0,RE Levi,18c78b11,0,0,0,0,0,,,,,,1,0,1
+533275,2012/13,South Africa,9,RE Levi,18c78b11,AG Cremer,9f0270e0,HM Amla,e798611a,0,0,0,0,0,,,,,,2,0,2
+533275,2012/13,South Africa,9,RE Levi,18c78b11,AG Cremer,9f0270e0,HM Amla,e798611a,0,0,0,0,0,,,,,,1,0,1
+533275,2012/13,South Africa,10,RE Levi,18c78b11,RW Price,67af6f81,HM Amla,e798611a,0,0,0,0,0,,,,,,0,0,0
+533275,2012/13,South Africa,10,RE Levi,18c78b11,RW Price,67af6f81,HM Amla,e798611a,0,0,0,0,0,,,,,,0,0,0
+533275,2012/13,South Africa,10,RE Levi,18c78b11,RW Price,67af6f81,HM Amla,e798611a,0,0,0,0,0,,,,,,4,0,4
+533275,2012/13,South Africa,10,RE Levi,18c78b11,RW Price,67af6f81,HM Amla,e798611a,1,0,0,0,0,,,,,,0,1,1
+533275,2012/13,South Africa,10,RE Levi,18c78b11,RW Price,67af6f81,HM Amla,e798611a,0,0,0,0,0,,,,,,1,0,1
+533275,2012/13,South Africa,10,HM Amla,e798611a,RW Price,67af6f81,RE Levi,18c78b11,0,0,0,0,0,,,,,,2,0,2
+533275,2012/13,South Africa,10,HM Amla,e798611a,RW Price,67af6f81,RE Levi,18c78b11,0,0,0,0,0,,,,,,1,0,1
+533275,2012/13,South Africa,11,HM Amla,e798611a,KM Jarvis,59792462,RE Levi,18c78b11,0,0,0,0,0,,,,,,1,0,1
+533275,2012/13,South Africa,11,RE Levi,18c78b11,KM Jarvis,59792462,HM Amla,e798611a,0,0,0,0,0,,,,,,0,0,0
+533275,2012/13,South Africa,11,RE Levi,18c78b11,KM Jarvis,59792462,HM Amla,e798611a,0,0,0,0,0,,,,,,2,0,2
+533275,2012/13,South Africa,11,RE Levi,18c78b11,KM Jarvis,59792462,HM Amla,e798611a,0,0,0,0,0,,,,,,0,0,0
+533275,2012/13,South Africa,11,RE Levi,18c78b11,KM Jarvis,59792462,HM Amla,e798611a,0,0,0,0,0,,,,,,0,0,0
+533275,2012/13,South Africa,11,RE Levi,18c78b11,KM Jarvis,59792462,HM Amla,e798611a,0,0,0,0,0,,,,,,0,0,0
+533275,2012/13,South Africa,12,HM Amla,e798611a,S Matsikenyeri,e7ba1233,RE Levi,18c78b11,0,0,0,0,0,,,,,,1,0,1
+533275,2012/13,South Africa,12,RE Levi,18c78b11,S Matsikenyeri,e7ba1233,HM Amla,e798611a,0,0,0,0,0,,,,,,1,0,1
+533275,2012/13,South Africa,12,HM Amla,e798611a,S Matsikenyeri,e7ba1233,RE Levi,18c78b11,0,0,0,0,0,,,,,,0,0,0
+533275,2012/13,South Africa,12,HM Amla,e798611a,S Matsikenyeri,e7ba1233,RE Levi,18c78b11,0,0,0,0,0,,,,,,1,0,1

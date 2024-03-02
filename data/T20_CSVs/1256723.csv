@@ -1,0 +1,254 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1256723,2021/22,England,0,JJ Roy,d1c36f5c,SS Cottrell,a1d053dd,T Banton,25f7b7d6,0,0,0,0,0,,,,,,0,0,0
+1256723,2021/22,England,0,JJ Roy,d1c36f5c,SS Cottrell,a1d053dd,T Banton,25f7b7d6,0,0,0,0,0,,,,,,0,0,0
+1256723,2021/22,England,0,JJ Roy,d1c36f5c,SS Cottrell,a1d053dd,T Banton,25f7b7d6,0,0,0,0,0,,,,,,0,0,0
+1256723,2021/22,England,0,JJ Roy,d1c36f5c,SS Cottrell,a1d053dd,T Banton,25f7b7d6,0,0,0,0,0,,,,,,3,0,3
+1256723,2021/22,England,0,T Banton,25f7b7d6,SS Cottrell,a1d053dd,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,0,0,0
+1256723,2021/22,England,0,T Banton,25f7b7d6,SS Cottrell,a1d053dd,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,4,0,4
+1256723,2021/22,England,1,JJ Roy,d1c36f5c,JO Holder,0f721006,T Banton,25f7b7d6,0,0,0,0,0,,,,,,0,0,0
+1256723,2021/22,England,1,JJ Roy,d1c36f5c,JO Holder,0f721006,T Banton,25f7b7d6,0,0,0,0,0,,,,,,0,0,0
+1256723,2021/22,England,1,JJ Roy,d1c36f5c,JO Holder,0f721006,T Banton,25f7b7d6,0,0,0,0,0,,,,,,0,0,0
+1256723,2021/22,England,1,JJ Roy,d1c36f5c,JO Holder,0f721006,T Banton,25f7b7d6,0,0,0,0,0,,,,,,1,0,1
+1256723,2021/22,England,1,T Banton,25f7b7d6,JO Holder,0f721006,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,0,0,0
+1256723,2021/22,England,1,T Banton,25f7b7d6,JO Holder,0f721006,JJ Roy,d1c36f5c,0,0,0,0,1,T Banton,25f7b7d6,KR Mayers,73c18486,caught,0,0,0
+1256723,2021/22,England,2,JJ Roy,d1c36f5c,SS Cottrell,a1d053dd,JM Vince,a15618fe,0,0,0,0,0,,,,,,4,0,4
+1256723,2021/22,England,2,JJ Roy,d1c36f5c,SS Cottrell,a1d053dd,JM Vince,a15618fe,0,0,0,0,0,,,,,,0,0,0
+1256723,2021/22,England,2,JJ Roy,d1c36f5c,SS Cottrell,a1d053dd,JM Vince,a15618fe,0,0,0,0,0,,,,,,0,0,0
+1256723,2021/22,England,2,JJ Roy,d1c36f5c,SS Cottrell,a1d053dd,JM Vince,a15618fe,0,0,0,0,0,,,,,,1,0,1
+1256723,2021/22,England,2,JM Vince,a15618fe,SS Cottrell,a1d053dd,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,0,0,0
+1256723,2021/22,England,2,JM Vince,a15618fe,SS Cottrell,a1d053dd,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,0,0,0
+1256723,2021/22,England,3,JJ Roy,d1c36f5c,JO Holder,0f721006,JM Vince,a15618fe,0,0,0,0,0,,,,,,0,0,0
+1256723,2021/22,England,3,JJ Roy,d1c36f5c,JO Holder,0f721006,JM Vince,a15618fe,0,0,0,0,0,,,,,,2,0,2
+1256723,2021/22,England,3,JJ Roy,d1c36f5c,JO Holder,0f721006,JM Vince,a15618fe,0,0,0,0,0,,,,,,0,0,0
+1256723,2021/22,England,3,JJ Roy,d1c36f5c,JO Holder,0f721006,JM Vince,a15618fe,0,0,0,0,0,,,,,,0,0,0
+1256723,2021/22,England,3,JJ Roy,d1c36f5c,JO Holder,0f721006,JM Vince,a15618fe,0,0,0,0,0,,,,,,0,0,0
+1256723,2021/22,England,3,JJ Roy,d1c36f5c,JO Holder,0f721006,JM Vince,a15618fe,0,0,0,0,0,,,,,,0,0,0
+1256723,2021/22,England,4,JM Vince,a15618fe,SS Cottrell,a1d053dd,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,4,0,4
+1256723,2021/22,England,4,JM Vince,a15618fe,SS Cottrell,a1d053dd,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,1,0,1
+1256723,2021/22,England,4,JJ Roy,d1c36f5c,SS Cottrell,a1d053dd,JM Vince,a15618fe,0,0,0,0,0,,,,,,0,0,0
+1256723,2021/22,England,4,JJ Roy,d1c36f5c,SS Cottrell,a1d053dd,JM Vince,a15618fe,0,0,0,0,0,,,,,,4,0,4
+1256723,2021/22,England,4,JJ Roy,d1c36f5c,SS Cottrell,a1d053dd,JM Vince,a15618fe,0,0,0,0,0,,,,,,2,0,2
+1256723,2021/22,England,4,JJ Roy,d1c36f5c,SS Cottrell,a1d053dd,JM Vince,a15618fe,0,0,0,0,0,,,,,,6,0,6
+1256723,2021/22,England,5,JM Vince,a15618fe,R Shepherd,c5aef772,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,1,0,1
+1256723,2021/22,England,5,JJ Roy,d1c36f5c,R Shepherd,c5aef772,JM Vince,a15618fe,0,0,0,0,0,,,,,,4,0,4
+1256723,2021/22,England,5,JJ Roy,d1c36f5c,R Shepherd,c5aef772,JM Vince,a15618fe,0,0,0,0,0,,,,,,0,0,0
+1256723,2021/22,England,5,JJ Roy,d1c36f5c,R Shepherd,c5aef772,JM Vince,a15618fe,0,0,0,0,0,,,,,,1,0,1
+1256723,2021/22,England,5,JM Vince,a15618fe,R Shepherd,c5aef772,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,1,0,1
+1256723,2021/22,England,5,JJ Roy,d1c36f5c,R Shepherd,c5aef772,JM Vince,a15618fe,0,0,0,0,0,,,,,,6,0,6
+1256723,2021/22,England,6,JM Vince,a15618fe,DC Drakes,34b332d3,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,1,0,1
+1256723,2021/22,England,6,JJ Roy,d1c36f5c,DC Drakes,34b332d3,JM Vince,a15618fe,0,0,0,0,0,,,,,,4,0,4
+1256723,2021/22,England,6,JJ Roy,d1c36f5c,DC Drakes,34b332d3,JM Vince,a15618fe,0,0,0,0,0,,,,,,1,0,1
+1256723,2021/22,England,6,JM Vince,a15618fe,DC Drakes,34b332d3,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,0,0,0
+1256723,2021/22,England,6,JM Vince,a15618fe,DC Drakes,34b332d3,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,6,0,6
+1256723,2021/22,England,6,JM Vince,a15618fe,DC Drakes,34b332d3,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,0,0,0
+1256723,2021/22,England,7,JJ Roy,d1c36f5c,AJ Hosein,4d7f517e,JM Vince,a15618fe,0,0,0,0,0,,,,,,0,0,0
+1256723,2021/22,England,7,JJ Roy,d1c36f5c,AJ Hosein,4d7f517e,JM Vince,a15618fe,0,0,0,0,0,,,,,,1,0,1
+1256723,2021/22,England,7,JM Vince,a15618fe,AJ Hosein,4d7f517e,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,2,0,2
+1256723,2021/22,England,7,JM Vince,a15618fe,AJ Hosein,4d7f517e,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,1,0,1
+1256723,2021/22,England,7,JJ Roy,d1c36f5c,AJ Hosein,4d7f517e,JM Vince,a15618fe,0,0,0,0,0,,,,,,0,0,0
+1256723,2021/22,England,7,JJ Roy,d1c36f5c,AJ Hosein,4d7f517e,JM Vince,a15618fe,0,0,0,0,0,,,,,,4,0,4
+1256723,2021/22,England,8,JM Vince,a15618fe,DC Drakes,34b332d3,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,6,0,6
+1256723,2021/22,England,8,JM Vince,a15618fe,DC Drakes,34b332d3,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,0,0,0
+1256723,2021/22,England,8,JM Vince,a15618fe,DC Drakes,34b332d3,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,1,0,1
+1256723,2021/22,England,8,JJ Roy,d1c36f5c,DC Drakes,34b332d3,JM Vince,a15618fe,0,0,1,0,0,,,,,,0,1,1
+1256723,2021/22,England,8,JM Vince,a15618fe,DC Drakes,34b332d3,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,1,0,1
+1256723,2021/22,England,8,JJ Roy,d1c36f5c,DC Drakes,34b332d3,JM Vince,a15618fe,0,0,0,0,0,,,,,,6,0,6
+1256723,2021/22,England,9,JM Vince,a15618fe,KA Pollard,a757b0d8,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,1,0,1
+1256723,2021/22,England,9,JJ Roy,d1c36f5c,KA Pollard,a757b0d8,JM Vince,a15618fe,0,0,0,0,0,,,,,,0,0,0
+1256723,2021/22,England,9,JJ Roy,d1c36f5c,KA Pollard,a757b0d8,JM Vince,a15618fe,0,0,0,0,0,,,,,,0,0,0
+1256723,2021/22,England,9,JJ Roy,d1c36f5c,KA Pollard,a757b0d8,JM Vince,a15618fe,0,0,1,0,0,,,,,,0,1,1
+1256723,2021/22,England,9,JM Vince,a15618fe,KA Pollard,a757b0d8,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,1,0,1
+1256723,2021/22,England,9,JJ Roy,d1c36f5c,KA Pollard,a757b0d8,JM Vince,a15618fe,0,0,0,0,0,,,,,,1,0,1
+1256723,2021/22,England,10,JJ Roy,d1c36f5c,R Shepherd,c5aef772,JM Vince,a15618fe,1,0,0,0,0,,,,,,0,1,1
+1256723,2021/22,England,10,JJ Roy,d1c36f5c,R Shepherd,c5aef772,JM Vince,a15618fe,1,0,0,0,0,,,,,,0,1,1
+1256723,2021/22,England,10,JJ Roy,d1c36f5c,R Shepherd,c5aef772,JM Vince,a15618fe,0,0,0,0,0,,,,,,1,0,1
+1256723,2021/22,England,10,JM Vince,a15618fe,R Shepherd,c5aef772,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,4,0,4
+1256723,2021/22,England,10,JM Vince,a15618fe,R Shepherd,c5aef772,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,0,0,0
+1256723,2021/22,England,10,JM Vince,a15618fe,R Shepherd,c5aef772,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,0,0,0
+1256723,2021/22,England,10,JM Vince,a15618fe,R Shepherd,c5aef772,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,0,0,0
+1256723,2021/22,England,10,JM Vince,a15618fe,R Shepherd,c5aef772,JJ Roy,d1c36f5c,0,0,0,0,0,,,,,,2,0,2
+1256723,2021/22,England,11,JJ Roy,d1c36f5c,KA Pollard,a757b0d8,JM Vince,a15618fe,0,0,0,0,0,,,,,,0,0,0
+1256723,2021/22,England,11,JJ Roy,d1c36f5c,KA Pollard,a757b0d8,JM Vince,a15618fe,0,0,0,0,0,,,,,,0,0,0
+1256723,2021/22,England,11,JJ Roy,d1c36f5c,KA Pollard,a757b0d8,JM Vince,a15618fe,0,0,0,0,1,JJ Roy,d1c36f5c,N Pooran,3241e3fd,caught,0,0,0
+1256723,2021/22,England,11,MM Ali,bb351c23,KA Pollard,a757b0d8,JM Vince,a15618fe,0,0,0,0,0,,,,,,1,0,1
+1256723,2021/22,England,11,JM Vince,a15618fe,KA Pollard,a757b0d8,MM Ali,bb351c23,0,0,0,0,0,,,,,,1,0,1
+1256723,2021/22,England,11,MM Ali,bb351c23,KA Pollard,a757b0d8,JM Vince,a15618fe,0,0,0,0,0,,,,,,1,0,1
+1256723,2021/22,England,12,MM Ali,bb351c23,AJ Hosein,4d7f517e,JM Vince,a15618fe,0,0,0,0,0,,,,,,1,0,1
+1256723,2021/22,England,12,JM Vince,a15618fe,AJ Hosein,4d7f517e,MM Ali,bb351c23,0,0,0,0,0,,,,,,0,0,0
+1256723,2021/22,England,12,JM Vince,a15618fe,AJ Hosein,4d7f517e,MM Ali,bb351c23,0,0,0,0,1,JM Vince,a15618fe,KR Mayers,73c18486,caught,0,0,0
+1256723,2021/22,England,12,LS Livingstone,50c6bc2b,AJ Hosein,4d7f517e,MM Ali,bb351c23,0,0,0,0,0,,,,,,1,0,1
+1256723,2021/22,England,12,MM Ali,bb351c23,AJ Hosein,4d7f517e,LS Livingstone,50c6bc2b,1,0,0,0,0,,,,,,0,1,1
+1256723,2021/22,England,12,MM Ali,bb351c23,AJ Hosein,4d7f517e,LS Livingstone,50c6bc2b,0,0,0,0,0,,,,,,4,0,4
+1256723,2021/22,England,12,MM Ali,bb351c23,AJ Hosein,4d7f517e,LS Livingstone,50c6bc2b,0,0,0,0,0,,,,,,0,0,0
+1256723,2021/22,England,13,LS Livingstone,50c6bc2b,KA Pollard,a757b0d8,MM Ali,bb351c23,0,0,0,0,0,,,,,,1,0,1
+1256723,2021/22,England,13,MM Ali,bb351c23,KA Pollard,a757b0d8,LS Livingstone,50c6bc2b,0,0,0,0,0,,,,,,1,0,1
+1256723,2021/22,England,13,LS Livingstone,50c6bc2b,KA Pollard,a757b0d8,MM Ali,bb351c23,0,0,0,0,0,,,,,,1,0,1
+1256723,2021/22,England,13,MM Ali,bb351c23,KA Pollard,a757b0d8,LS Livingstone,50c6bc2b,1,0,0,0,0,,,,,,0,1,1
+1256723,2021/22,England,13,MM Ali,bb351c23,KA Pollard,a757b0d8,LS Livingstone,50c6bc2b,0,0,0,0,0,,,,,,0,0,0
+1256723,2021/22,England,13,MM Ali,bb351c23,KA Pollard,a757b0d8,LS Livingstone,50c6bc2b,0,0,0,0,0,,,,,,1,0,1
+1256723,2021/22,England,13,LS Livingstone,50c6bc2b,KA Pollard,a757b0d8,MM Ali,bb351c23,0,0,0,0,0,,,,,,1,0,1
+1256723,2021/22,England,14,LS Livingstone,50c6bc2b,AJ Hosein,4d7f517e,MM Ali,bb351c23,0,0,0,0,0,,,,,,0,0,0
+1256723,2021/22,England,14,LS Livingstone,50c6bc2b,AJ Hosein,4d7f517e,MM Ali,bb351c23,0,0,0,0,0,,,,,,0,0,0
+1256723,2021/22,England,14,LS Livingstone,50c6bc2b,AJ Hosein,4d7f517e,MM Ali,bb351c23,0,0,0,0,0,,,,,,1,0,1
+1256723,2021/22,England,14,MM Ali,bb351c23,AJ Hosein,4d7f517e,LS Livingstone,50c6bc2b,0,0,0,0,0,,,,,,1,0,1
+1256723,2021/22,England,14,LS Livingstone,50c6bc2b,AJ Hosein,4d7f517e,MM Ali,bb351c23,0,0,0,1,0,,,,,,0,1,1
+1256723,2021/22,England,14,MM Ali,bb351c23,AJ Hosein,4d7f517e,LS Livingstone,50c6bc2b,0,0,0,0,0,,,,,,6,0,6
+1256723,2021/22,England,15,LS Livingstone,50c6bc2b,KA Pollard,a757b0d8,MM Ali,bb351c23,0,0,0,0,0,,,,,,0,0,0
+1256723,2021/22,England,15,LS Livingstone,50c6bc2b,KA Pollard,a757b0d8,MM Ali,bb351c23,0,0,0,0,0,,,,,,6,0,6
+1256723,2021/22,England,15,LS Livingstone,50c6bc2b,KA Pollard,a757b0d8,MM Ali,bb351c23,0,0,0,0,0,,,,,,2,0,2
+1256723,2021/22,England,15,LS Livingstone,50c6bc2b,KA Pollard,a757b0d8,MM Ali,bb351c23,0,0,0,0,0,,,,,,1,0,1
+1256723,2021/22,England,15,MM Ali,bb351c23,KA Pollard,a757b0d8,LS Livingstone,50c6bc2b,0,0,0,0,0,,,,,,2,0,2
+1256723,2021/22,England,15,MM Ali,bb351c23,KA Pollard,a757b0d8,LS Livingstone,50c6bc2b,0,0,0,0,0,,,,,,0,0,0
+1256723,2021/22,England,16,LS Livingstone,50c6bc2b,SS Cottrell,a1d053dd,MM Ali,bb351c23,0,0,0,0,0,,,,,,1,0,1
+1256723,2021/22,England,16,MM Ali,bb351c23,SS Cottrell,a1d053dd,LS Livingstone,50c6bc2b,0,0,0,0,0,,,,,,0,0,0
+1256723,2021/22,England,16,MM Ali,bb351c23,SS Cottrell,a1d053dd,LS Livingstone,50c6bc2b,0,0,0,0,0,,,,,,1,0,1
+1256723,2021/22,England,16,LS Livingstone,50c6bc2b,SS Cottrell,a1d053dd,MM Ali,bb351c23,1,0,0,0,0,,,,,,0,1,1
+1256723,2021/22,England,16,LS Livingstone,50c6bc2b,SS Cottrell,a1d053dd,MM Ali,bb351c23,0,0,0,0,0,,,,,,1,0,1
+1256723,2021/22,England,16,MM Ali,bb351c23,SS Cottrell,a1d053dd,LS Livingstone,50c6bc2b,0,0,0,0,0,,,,,,0,0,0
+1256723,2021/22,England,16,MM Ali,bb351c23,SS Cottrell,a1d053dd,LS Livingstone,50c6bc2b,0,0,0,0,0,,,,,,1,0,1
+1256723,2021/22,England,17,MM Ali,bb351c23,JO Holder,0f721006,LS Livingstone,50c6bc2b,0,0,0,0,0,,,,,,2,0,2
+1256723,2021/22,England,17,MM Ali,bb351c23,JO Holder,0f721006,LS Livingstone,50c6bc2b,0,0,0,0,0,,,,,,6,0,6
+1256723,2021/22,England,17,MM Ali,bb351c23,JO Holder,0f721006,LS Livingstone,50c6bc2b,0,0,0,0,0,,,,,,6,0,6
+1256723,2021/22,England,17,MM Ali,bb351c23,JO Holder,0f721006,LS Livingstone,50c6bc2b,0,0,0,0,0,,,,,,6,0,6
+1256723,2021/22,England,17,MM Ali,bb351c23,JO Holder,0f721006,LS Livingstone,50c6bc2b,0,0,0,0,0,,,,,,6,0,6
+1256723,2021/22,England,17,MM Ali,bb351c23,JO Holder,0f721006,LS Livingstone,50c6bc2b,0,0,0,0,0,,,,,,2,0,2
+1256723,2021/22,England,18,LS Livingstone,50c6bc2b,R Shepherd,c5aef772,MM Ali,bb351c23,0,0,0,0,1,LS Livingstone,50c6bc2b,BA King,7fca84b7,caught,0,0,0
+1256723,2021/22,England,18,MM Ali,bb351c23,R Shepherd,c5aef772,SW Billings,c16d4035,1,0,0,0,0,,,,,,0,1,1
+1256723,2021/22,England,18,MM Ali,bb351c23,R Shepherd,c5aef772,SW Billings,c16d4035,0,0,0,0,0,,,,,,2,0,2
+1256723,2021/22,England,18,MM Ali,bb351c23,R Shepherd,c5aef772,SW Billings,c16d4035,0,0,0,0,0,,,,,,6,0,6
+1256723,2021/22,England,18,MM Ali,bb351c23,R Shepherd,c5aef772,SW Billings,c16d4035,1,0,0,0,0,,,,,,0,1,1
+1256723,2021/22,England,18,MM Ali,bb351c23,R Shepherd,c5aef772,SW Billings,c16d4035,0,0,0,0,0,,,,,,0,0,0
+1256723,2021/22,England,18,MM Ali,bb351c23,R Shepherd,c5aef772,SW Billings,c16d4035,1,0,0,0,0,,,,,,0,1,1
+1256723,2021/22,England,18,MM Ali,bb351c23,R Shepherd,c5aef772,SW Billings,c16d4035,0,0,0,0,0,,,,,,6,0,6
+1256723,2021/22,England,18,MM Ali,bb351c23,R Shepherd,c5aef772,SW Billings,c16d4035,0,0,0,0,0,,,,,,1,0,1
+1256723,2021/22,England,19,MM Ali,bb351c23,JO Holder,0f721006,SW Billings,c16d4035,0,0,0,0,1,MM Ali,bb351c23,R Shepherd,c5aef772,caught,0,0,0
+1256723,2021/22,England,19,SW Billings,c16d4035,JO Holder,0f721006,PD Salt,3d284ca3,0,0,0,0,0,,,,,,1,0,1
+1256723,2021/22,England,19,PD Salt,3d284ca3,JO Holder,0f721006,SW Billings,c16d4035,0,0,0,0,1,PD Salt,3d284ca3,BA King,7fca84b7,caught,0,0,0
+1256723,2021/22,England,19,SW Billings,c16d4035,JO Holder,0f721006,CJ Jordan,ffe699c0,0,0,0,0,0,,,,,,0,0,0
+1256723,2021/22,England,19,SW Billings,c16d4035,JO Holder,0f721006,CJ Jordan,ffe699c0,0,0,0,0,0,,,,,,6,0,6
+1256723,2021/22,England,19,SW Billings,c16d4035,JO Holder,0f721006,CJ Jordan,ffe699c0,0,0,0,0,0,,,,,,6,0,6
+1256723,2021/22,West Indies,0,BA King,7fca84b7,RJW Topley,8db7f47f,KR Mayers,73c18486,0,0,0,0,0,,,,,,0,0,0
+1256723,2021/22,West Indies,0,BA King,7fca84b7,RJW Topley,8db7f47f,KR Mayers,73c18486,0,0,0,0,0,,,,,,4,0,4
+1256723,2021/22,West Indies,0,BA King,7fca84b7,RJW Topley,8db7f47f,KR Mayers,73c18486,0,0,0,0,0,,,,,,1,0,1
+1256723,2021/22,West Indies,0,KR Mayers,73c18486,RJW Topley,8db7f47f,BA King,7fca84b7,0,0,0,0,0,,,,,,1,0,1
+1256723,2021/22,West Indies,0,BA King,7fca84b7,RJW Topley,8db7f47f,KR Mayers,73c18486,0,0,0,0,0,,,,,,0,0,0
+1256723,2021/22,West Indies,0,BA King,7fca84b7,RJW Topley,8db7f47f,KR Mayers,73c18486,0,0,0,0,0,,,,,,0,0,0
+1256723,2021/22,West Indies,1,KR Mayers,73c18486,MM Ali,bb351c23,BA King,7fca84b7,0,0,0,0,0,,,,,,0,0,0
+1256723,2021/22,West Indies,1,KR Mayers,73c18486,MM Ali,bb351c23,BA King,7fca84b7,0,0,0,0,0,,,,,,6,0,6
+1256723,2021/22,West Indies,1,KR Mayers,73c18486,MM Ali,bb351c23,BA King,7fca84b7,0,0,0,0,0,,,,,,1,0,1
+1256723,2021/22,West Indies,1,BA King,7fca84b7,MM Ali,bb351c23,KR Mayers,73c18486,0,0,0,0,0,,,,,,0,0,0
+1256723,2021/22,West Indies,1,BA King,7fca84b7,MM Ali,bb351c23,KR Mayers,73c18486,0,0,0,0,0,,,,,,1,0,1
+1256723,2021/22,West Indies,1,KR Mayers,73c18486,MM Ali,bb351c23,BA King,7fca84b7,0,0,0,0,0,,,,,,0,0,0
+1256723,2021/22,West Indies,2,BA King,7fca84b7,RJW Topley,8db7f47f,KR Mayers,73c18486,0,0,0,0,0,,,,,,0,0,0
+1256723,2021/22,West Indies,2,BA King,7fca84b7,RJW Topley,8db7f47f,KR Mayers,73c18486,0,0,0,0,0,,,,,,1,0,1
+1256723,2021/22,West Indies,2,KR Mayers,73c18486,RJW Topley,8db7f47f,BA King,7fca84b7,0,0,0,0,0,,,,,,1,0,1
+1256723,2021/22,West Indies,2,BA King,7fca84b7,RJW Topley,8db7f47f,KR Mayers,73c18486,0,0,0,0,0,,,,,,1,0,1
+1256723,2021/22,West Indies,2,KR Mayers,73c18486,RJW Topley,8db7f47f,BA King,7fca84b7,0,0,0,0,0,,,,,,4,0,4
+1256723,2021/22,West Indies,2,KR Mayers,73c18486,RJW Topley,8db7f47f,BA King,7fca84b7,0,0,0,0,0,,,,,,0,0,0
+1256723,2021/22,West Indies,3,BA King,7fca84b7,MM Ali,bb351c23,KR Mayers,73c18486,0,0,0,0,0,,,,,,1,0,1
+1256723,2021/22,West Indies,3,KR Mayers,73c18486,MM Ali,bb351c23,BA King,7fca84b7,0,0,0,0,0,,,,,,0,0,0
+1256723,2021/22,West Indies,3,KR Mayers,73c18486,MM Ali,bb351c23,BA King,7fca84b7,0,0,0,0,0,,,,,,0,0,0
+1256723,2021/22,West Indies,3,KR Mayers,73c18486,MM Ali,bb351c23,BA King,7fca84b7,0,0,0,0,0,,,,,,0,0,0
+1256723,2021/22,West Indies,3,KR Mayers,73c18486,MM Ali,bb351c23,BA King,7fca84b7,0,0,0,0,0,,,,,,6,0,6
+1256723,2021/22,West Indies,3,KR Mayers,73c18486,MM Ali,bb351c23,BA King,7fca84b7,0,0,0,0,0,,,,,,3,0,3
+1256723,2021/22,West Indies,4,KR Mayers,73c18486,TS Mills,245c97cb,BA King,7fca84b7,0,0,0,0,0,,,,,,4,0,4
+1256723,2021/22,West Indies,4,KR Mayers,73c18486,TS Mills,245c97cb,BA King,7fca84b7,0,0,0,0,0,,,,,,6,0,6
+1256723,2021/22,West Indies,4,KR Mayers,73c18486,TS Mills,245c97cb,BA King,7fca84b7,0,0,0,0,0,,,,,,6,0,6
+1256723,2021/22,West Indies,4,KR Mayers,73c18486,TS Mills,245c97cb,BA King,7fca84b7,0,0,0,0,0,,,,,,0,0,0
+1256723,2021/22,West Indies,4,KR Mayers,73c18486,TS Mills,245c97cb,BA King,7fca84b7,0,0,0,0,0,,,,,,0,0,0
+1256723,2021/22,West Indies,4,KR Mayers,73c18486,TS Mills,245c97cb,BA King,7fca84b7,0,0,0,0,0,,,,,,0,0,0
+1256723,2021/22,West Indies,5,BA King,7fca84b7,CJ Jordan,ffe699c0,KR Mayers,73c18486,0,0,0,0,0,,,,,,4,0,4
+1256723,2021/22,West Indies,5,BA King,7fca84b7,CJ Jordan,ffe699c0,KR Mayers,73c18486,0,0,0,0,0,,,,,,4,0,4
+1256723,2021/22,West Indies,5,BA King,7fca84b7,CJ Jordan,ffe699c0,KR Mayers,73c18486,0,0,0,0,0,,,,,,0,0,0
+1256723,2021/22,West Indies,5,BA King,7fca84b7,CJ Jordan,ffe699c0,KR Mayers,73c18486,0,0,0,0,0,,,,,,0,0,0
+1256723,2021/22,West Indies,5,BA King,7fca84b7,CJ Jordan,ffe699c0,KR Mayers,73c18486,0,0,0,0,0,,,,,,1,0,1
+1256723,2021/22,West Indies,5,KR Mayers,73c18486,CJ Jordan,ffe699c0,BA King,7fca84b7,0,0,0,0,0,,,,,,0,0,0
+1256723,2021/22,West Indies,6,BA King,7fca84b7,AU Rashid,249d60c9,KR Mayers,73c18486,0,0,0,0,0,,,,,,4,0,4
+1256723,2021/22,West Indies,6,BA King,7fca84b7,AU Rashid,249d60c9,KR Mayers,73c18486,0,0,0,0,0,,,,,,0,0,0
+1256723,2021/22,West Indies,6,BA King,7fca84b7,AU Rashid,249d60c9,KR Mayers,73c18486,0,0,0,0,0,,,,,,0,0,0
+1256723,2021/22,West Indies,6,BA King,7fca84b7,AU Rashid,249d60c9,KR Mayers,73c18486,0,0,0,0,0,,,,,,1,0,1
+1256723,2021/22,West Indies,6,KR Mayers,73c18486,AU Rashid,249d60c9,BA King,7fca84b7,0,0,0,0,0,,,,,,2,0,2
+1256723,2021/22,West Indies,6,KR Mayers,73c18486,AU Rashid,249d60c9,BA King,7fca84b7,0,0,0,0,0,,,,,,0,0,0
+1256723,2021/22,West Indies,7,BA King,7fca84b7,MM Ali,bb351c23,KR Mayers,73c18486,0,0,0,0,0,,,,,,1,0,1
+1256723,2021/22,West Indies,7,KR Mayers,73c18486,MM Ali,bb351c23,BA King,7fca84b7,0,0,0,0,1,KR Mayers,73c18486,CJ Jordan,ffe699c0,caught,0,0,0
+1256723,2021/22,West Indies,7,N Pooran,3241e3fd,MM Ali,bb351c23,BA King,7fca84b7,0,0,0,0,0,,,,,,2,0,2
+1256723,2021/22,West Indies,7,N Pooran,3241e3fd,MM Ali,bb351c23,BA King,7fca84b7,0,0,0,0,0,,,,,,0,0,0
+1256723,2021/22,West Indies,7,N Pooran,3241e3fd,MM Ali,bb351c23,BA King,7fca84b7,0,0,0,0,0,,,,,,0,0,0
+1256723,2021/22,West Indies,7,N Pooran,3241e3fd,MM Ali,bb351c23,BA King,7fca84b7,0,0,0,0,0,,,,,,0,0,0
+1256723,2021/22,West Indies,8,BA King,7fca84b7,AU Rashid,249d60c9,N Pooran,3241e3fd,0,0,0,0,0,,,,,,1,0,1
+1256723,2021/22,West Indies,8,N Pooran,3241e3fd,AU Rashid,249d60c9,BA King,7fca84b7,0,0,0,0,0,,,,,,1,0,1
+1256723,2021/22,West Indies,8,BA King,7fca84b7,AU Rashid,249d60c9,N Pooran,3241e3fd,0,0,0,0,0,,,,,,0,0,0
+1256723,2021/22,West Indies,8,BA King,7fca84b7,AU Rashid,249d60c9,N Pooran,3241e3fd,0,0,0,0,0,,,,,,0,0,0
+1256723,2021/22,West Indies,8,BA King,7fca84b7,AU Rashid,249d60c9,N Pooran,3241e3fd,0,0,0,0,0,,,,,,0,0,0
+1256723,2021/22,West Indies,8,BA King,7fca84b7,AU Rashid,249d60c9,N Pooran,3241e3fd,0,0,0,0,0,,,,,,1,0,1
+1256723,2021/22,West Indies,9,BA King,7fca84b7,MM Ali,bb351c23,N Pooran,3241e3fd,0,0,0,0,1,BA King,7fca84b7,PD Salt,3d284ca3,caught,0,0,0
+1256723,2021/22,West Indies,9,N Pooran,3241e3fd,MM Ali,bb351c23,R Powell,650d5e49,0,0,0,0,0,,,,,,1,0,1
+1256723,2021/22,West Indies,9,R Powell,650d5e49,MM Ali,bb351c23,N Pooran,3241e3fd,0,0,0,0,0,,,,,,3,0,3
+1256723,2021/22,West Indies,9,N Pooran,3241e3fd,MM Ali,bb351c23,R Powell,650d5e49,0,0,0,0,0,,,,,,1,0,1
+1256723,2021/22,West Indies,9,R Powell,650d5e49,MM Ali,bb351c23,N Pooran,3241e3fd,1,0,0,0,0,,,,,,0,1,1
+1256723,2021/22,West Indies,9,R Powell,650d5e49,MM Ali,bb351c23,N Pooran,3241e3fd,0,0,0,0,0,,,,,,0,0,0
+1256723,2021/22,West Indies,9,R Powell,650d5e49,MM Ali,bb351c23,N Pooran,3241e3fd,0,0,0,0,0,,,,,,1,0,1
+1256723,2021/22,West Indies,10,R Powell,650d5e49,AU Rashid,249d60c9,N Pooran,3241e3fd,0,0,0,0,0,,,,,,1,0,1
+1256723,2021/22,West Indies,10,N Pooran,3241e3fd,AU Rashid,249d60c9,R Powell,650d5e49,0,0,0,0,0,,,,,,1,0,1
+1256723,2021/22,West Indies,10,R Powell,650d5e49,AU Rashid,249d60c9,N Pooran,3241e3fd,0,0,0,0,0,,,,,,0,0,0
+1256723,2021/22,West Indies,10,R Powell,650d5e49,AU Rashid,249d60c9,N Pooran,3241e3fd,0,0,0,0,1,R Powell,650d5e49,,,bowled,0,0,0
+1256723,2021/22,West Indies,10,JO Holder,0f721006,AU Rashid,249d60c9,N Pooran,3241e3fd,0,0,0,0,0,,,,,,0,0,0
+1256723,2021/22,West Indies,10,JO Holder,0f721006,AU Rashid,249d60c9,N Pooran,3241e3fd,0,0,0,0,0,,,,,,0,0,0
+1256723,2021/22,West Indies,11,N Pooran,3241e3fd,LS Livingstone,50c6bc2b,JO Holder,0f721006,0,0,0,0,0,,,,,,1,0,1
+1256723,2021/22,West Indies,11,JO Holder,0f721006,LS Livingstone,50c6bc2b,N Pooran,3241e3fd,0,0,0,0,0,,,,,,0,0,0
+1256723,2021/22,West Indies,11,JO Holder,0f721006,LS Livingstone,50c6bc2b,N Pooran,3241e3fd,0,0,0,0,0,,,,,,0,0,0
+1256723,2021/22,West Indies,11,JO Holder,0f721006,LS Livingstone,50c6bc2b,N Pooran,3241e3fd,0,0,0,0,0,,,,,,0,0,0
+1256723,2021/22,West Indies,11,JO Holder,0f721006,LS Livingstone,50c6bc2b,N Pooran,3241e3fd,0,0,0,0,0,,,,,,1,0,1
+1256723,2021/22,West Indies,11,N Pooran,3241e3fd,LS Livingstone,50c6bc2b,JO Holder,0f721006,0,0,0,0,0,,,,,,1,0,1
+1256723,2021/22,West Indies,12,N Pooran,3241e3fd,CJ Jordan,ffe699c0,JO Holder,0f721006,0,0,0,0,0,,,,,,0,0,0
+1256723,2021/22,West Indies,12,N Pooran,3241e3fd,CJ Jordan,ffe699c0,JO Holder,0f721006,0,0,0,0,0,,,,,,1,0,1
+1256723,2021/22,West Indies,12,JO Holder,0f721006,CJ Jordan,ffe699c0,N Pooran,3241e3fd,0,0,0,0,0,,,,,,1,0,1
+1256723,2021/22,West Indies,12,N Pooran,3241e3fd,CJ Jordan,ffe699c0,JO Holder,0f721006,0,0,0,0,0,,,,,,1,0,1
+1256723,2021/22,West Indies,12,JO Holder,0f721006,CJ Jordan,ffe699c0,N Pooran,3241e3fd,0,0,0,0,0,,,,,,0,0,0
+1256723,2021/22,West Indies,12,JO Holder,0f721006,CJ Jordan,ffe699c0,N Pooran,3241e3fd,0,0,0,0,0,,,,,,0,0,0
+1256723,2021/22,West Indies,13,N Pooran,3241e3fd,LS Livingstone,50c6bc2b,JO Holder,0f721006,0,0,0,0,0,,,,,,6,0,6
+1256723,2021/22,West Indies,13,N Pooran,3241e3fd,LS Livingstone,50c6bc2b,JO Holder,0f721006,1,0,0,0,0,,,,,,0,1,1
+1256723,2021/22,West Indies,13,N Pooran,3241e3fd,LS Livingstone,50c6bc2b,JO Holder,0f721006,0,0,0,0,0,,,,,,6,0,6
+1256723,2021/22,West Indies,13,N Pooran,3241e3fd,LS Livingstone,50c6bc2b,JO Holder,0f721006,0,0,0,0,1,N Pooran,3241e3fd,JJ Roy,d1c36f5c,caught,0,0,0
+1256723,2021/22,West Indies,13,KA Pollard,a757b0d8,LS Livingstone,50c6bc2b,JO Holder,0f721006,0,0,0,0,0,,,,,,1,0,1
+1256723,2021/22,West Indies,13,JO Holder,0f721006,LS Livingstone,50c6bc2b,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,1,0,1
+1256723,2021/22,West Indies,13,KA Pollard,a757b0d8,LS Livingstone,50c6bc2b,JO Holder,0f721006,0,0,0,4,0,,,,,,0,4,4
+1256723,2021/22,West Indies,14,JO Holder,0f721006,AU Rashid,249d60c9,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,6,0,6
+1256723,2021/22,West Indies,14,JO Holder,0f721006,AU Rashid,249d60c9,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,0,0,0
+1256723,2021/22,West Indies,14,JO Holder,0f721006,AU Rashid,249d60c9,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,6,0,6
+1256723,2021/22,West Indies,14,JO Holder,0f721006,AU Rashid,249d60c9,KA Pollard,a757b0d8,1,0,0,0,0,,,,,,0,1,1
+1256723,2021/22,West Indies,14,JO Holder,0f721006,AU Rashid,249d60c9,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,1,0,1
+1256723,2021/22,West Indies,14,KA Pollard,a757b0d8,AU Rashid,249d60c9,JO Holder,0f721006,0,0,0,0,0,,,,,,1,0,1
+1256723,2021/22,West Indies,14,JO Holder,0f721006,AU Rashid,249d60c9,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,1,0,1
+1256723,2021/22,West Indies,15,JO Holder,0f721006,TS Mills,245c97cb,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,1,0,1
+1256723,2021/22,West Indies,15,KA Pollard,a757b0d8,TS Mills,245c97cb,JO Holder,0f721006,0,0,0,0,0,,,,,,1,0,1
+1256723,2021/22,West Indies,15,JO Holder,0f721006,TS Mills,245c97cb,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,4,0,4
+1256723,2021/22,West Indies,15,JO Holder,0f721006,TS Mills,245c97cb,KA Pollard,a757b0d8,1,0,0,0,0,,,,,,0,1,1
+1256723,2021/22,West Indies,15,JO Holder,0f721006,TS Mills,245c97cb,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,6,0,6
+1256723,2021/22,West Indies,15,JO Holder,0f721006,TS Mills,245c97cb,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,1,0,1
+1256723,2021/22,West Indies,15,KA Pollard,a757b0d8,TS Mills,245c97cb,JO Holder,0f721006,0,0,0,0,0,,,,,,0,0,0
+1256723,2021/22,West Indies,16,JO Holder,0f721006,CJ Jordan,ffe699c0,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,1,0,1
+1256723,2021/22,West Indies,16,KA Pollard,a757b0d8,CJ Jordan,ffe699c0,JO Holder,0f721006,0,0,0,0,0,,,,,,2,0,2
+1256723,2021/22,West Indies,16,KA Pollard,a757b0d8,CJ Jordan,ffe699c0,JO Holder,0f721006,0,0,0,0,0,,,,,,1,0,1
+1256723,2021/22,West Indies,16,JO Holder,0f721006,CJ Jordan,ffe699c0,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,1,0,1
+1256723,2021/22,West Indies,16,KA Pollard,a757b0d8,CJ Jordan,ffe699c0,JO Holder,0f721006,0,0,0,0,0,,,,,,1,0,1
+1256723,2021/22,West Indies,16,JO Holder,0f721006,CJ Jordan,ffe699c0,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,1,0,1
+1256723,2021/22,West Indies,17,JO Holder,0f721006,RJW Topley,8db7f47f,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,4,0,4
+1256723,2021/22,West Indies,17,JO Holder,0f721006,RJW Topley,8db7f47f,KA Pollard,a757b0d8,0,0,0,0,1,JO Holder,0f721006,CJ Jordan,ffe699c0,caught,0,0,0
+1256723,2021/22,West Indies,17,KA Pollard,a757b0d8,RJW Topley,8db7f47f,DM Bravo,14b14cd8,0,0,0,0,0,,,,,,1,0,1
+1256723,2021/22,West Indies,17,DM Bravo,14b14cd8,RJW Topley,8db7f47f,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,0,0,0
+1256723,2021/22,West Indies,17,DM Bravo,14b14cd8,RJW Topley,8db7f47f,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,0,0,0
+1256723,2021/22,West Indies,17,DM Bravo,14b14cd8,RJW Topley,8db7f47f,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,0,0,0
+1256723,2021/22,West Indies,18,KA Pollard,a757b0d8,CJ Jordan,ffe699c0,DM Bravo,14b14cd8,0,0,0,0,0,,,,,,0,0,0
+1256723,2021/22,West Indies,18,KA Pollard,a757b0d8,CJ Jordan,ffe699c0,DM Bravo,14b14cd8,0,0,0,0,0,,,,,,1,0,1
+1256723,2021/22,West Indies,18,DM Bravo,14b14cd8,CJ Jordan,ffe699c0,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,1,0,1
+1256723,2021/22,West Indies,18,KA Pollard,a757b0d8,CJ Jordan,ffe699c0,DM Bravo,14b14cd8,0,0,0,0,0,,,,,,4,0,4
+1256723,2021/22,West Indies,18,KA Pollard,a757b0d8,CJ Jordan,ffe699c0,DM Bravo,14b14cd8,1,0,0,0,0,,,,,,0,1,1
+1256723,2021/22,West Indies,18,KA Pollard,a757b0d8,CJ Jordan,ffe699c0,DM Bravo,14b14cd8,0,0,0,0,0,,,,,,4,0,4
+1256723,2021/22,West Indies,18,KA Pollard,a757b0d8,CJ Jordan,ffe699c0,DM Bravo,14b14cd8,0,0,0,0,0,,,,,,0,0,0
+1256723,2021/22,West Indies,19,DM Bravo,14b14cd8,RJW Topley,8db7f47f,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,0,0,0
+1256723,2021/22,West Indies,19,DM Bravo,14b14cd8,RJW Topley,8db7f47f,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,1,0,1
+1256723,2021/22,West Indies,19,KA Pollard,a757b0d8,RJW Topley,8db7f47f,DM Bravo,14b14cd8,0,0,0,0,0,,,,,,1,0,1
+1256723,2021/22,West Indies,19,DM Bravo,14b14cd8,RJW Topley,8db7f47f,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,0,0,0
+1256723,2021/22,West Indies,19,DM Bravo,14b14cd8,RJW Topley,8db7f47f,KA Pollard,a757b0d8,0,0,0,0,0,,,,,,1,0,1
+1256723,2021/22,West Indies,19,KA Pollard,a757b0d8,RJW Topley,8db7f47f,DM Bravo,14b14cd8,0,0,0,0,0,,,,,,0,0,0

@@ -1,0 +1,250 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+951383,2015/16,New Zealand,0,SW Bates,89bbc67a,KJ Garth,0b69a844,RH Priest,e6f0408a,0,0,0,0,0,,,,,,1,0,1
+951383,2015/16,New Zealand,0,RH Priest,e6f0408a,KJ Garth,0b69a844,SW Bates,89bbc67a,0,0,0,0,0,,,,,,0,0,0
+951383,2015/16,New Zealand,0,RH Priest,e6f0408a,KJ Garth,0b69a844,SW Bates,89bbc67a,0,0,0,0,0,,,,,,4,0,4
+951383,2015/16,New Zealand,0,RH Priest,e6f0408a,KJ Garth,0b69a844,SW Bates,89bbc67a,0,0,0,0,0,,,,,,0,0,0
+951383,2015/16,New Zealand,0,RH Priest,e6f0408a,KJ Garth,0b69a844,SW Bates,89bbc67a,0,0,0,0,0,,,,,,4,0,4
+951383,2015/16,New Zealand,0,RH Priest,e6f0408a,KJ Garth,0b69a844,SW Bates,89bbc67a,1,0,0,0,0,,,,,,0,1,1
+951383,2015/16,New Zealand,0,RH Priest,e6f0408a,KJ Garth,0b69a844,SW Bates,89bbc67a,0,0,0,0,0,,,,,,4,0,4
+951383,2015/16,New Zealand,1,SW Bates,89bbc67a,AJ Kenealy,ca753f5d,RH Priest,e6f0408a,0,0,0,0,0,,,,,,4,0,4
+951383,2015/16,New Zealand,1,SW Bates,89bbc67a,AJ Kenealy,ca753f5d,RH Priest,e6f0408a,0,0,0,0,0,,,,,,0,0,0
+951383,2015/16,New Zealand,1,SW Bates,89bbc67a,AJ Kenealy,ca753f5d,RH Priest,e6f0408a,0,0,0,0,0,,,,,,0,0,0
+951383,2015/16,New Zealand,1,SW Bates,89bbc67a,AJ Kenealy,ca753f5d,RH Priest,e6f0408a,0,0,0,0,0,,,,,,1,0,1
+951383,2015/16,New Zealand,1,RH Priest,e6f0408a,AJ Kenealy,ca753f5d,SW Bates,89bbc67a,0,0,0,0,1,RH Priest,e6f0408a,CMA Shillington,60e11a00,caught,0,0,0
+951383,2015/16,New Zealand,1,SFM Devine,de69af96,AJ Kenealy,ca753f5d,SW Bates,89bbc67a,0,0,0,0,0,,,,,,0,0,0
+951383,2015/16,New Zealand,2,SW Bates,89bbc67a,KJ Garth,0b69a844,SFM Devine,de69af96,0,0,0,0,0,,,,,,0,0,0
+951383,2015/16,New Zealand,2,SW Bates,89bbc67a,KJ Garth,0b69a844,SFM Devine,de69af96,0,0,0,0,0,,,,,,2,0,2
+951383,2015/16,New Zealand,2,SW Bates,89bbc67a,KJ Garth,0b69a844,SFM Devine,de69af96,0,0,0,0,0,,,,,,0,0,0
+951383,2015/16,New Zealand,2,SW Bates,89bbc67a,KJ Garth,0b69a844,SFM Devine,de69af96,0,0,0,0,0,,,,,,1,0,1
+951383,2015/16,New Zealand,2,SFM Devine,de69af96,KJ Garth,0b69a844,SW Bates,89bbc67a,0,0,0,0,0,,,,,,0,0,0
+951383,2015/16,New Zealand,2,SFM Devine,de69af96,KJ Garth,0b69a844,SW Bates,89bbc67a,0,0,0,0,0,,,,,,0,0,0
+951383,2015/16,New Zealand,3,SW Bates,89bbc67a,AJ Kenealy,ca753f5d,SFM Devine,de69af96,0,0,0,0,0,,,,,,1,0,1
+951383,2015/16,New Zealand,3,SFM Devine,de69af96,AJ Kenealy,ca753f5d,SW Bates,89bbc67a,1,0,0,0,0,,,,,,0,1,1
+951383,2015/16,New Zealand,3,SFM Devine,de69af96,AJ Kenealy,ca753f5d,SW Bates,89bbc67a,0,0,0,0,0,,,,,,4,0,4
+951383,2015/16,New Zealand,3,SFM Devine,de69af96,AJ Kenealy,ca753f5d,SW Bates,89bbc67a,0,0,0,0,0,,,,,,1,0,1
+951383,2015/16,New Zealand,3,SW Bates,89bbc67a,AJ Kenealy,ca753f5d,SFM Devine,de69af96,0,0,0,0,0,,,,,,0,0,0
+951383,2015/16,New Zealand,3,SW Bates,89bbc67a,AJ Kenealy,ca753f5d,SFM Devine,de69af96,0,0,0,0,0,,,,,,1,0,1
+951383,2015/16,New Zealand,3,SFM Devine,de69af96,AJ Kenealy,ca753f5d,SW Bates,89bbc67a,0,0,0,0,0,,,,,,0,0,0
+951383,2015/16,New Zealand,4,SW Bates,89bbc67a,CJ Metcalfe,d58fdb42,SFM Devine,de69af96,0,0,0,0,0,,,,,,0,0,0
+951383,2015/16,New Zealand,4,SW Bates,89bbc67a,CJ Metcalfe,d58fdb42,SFM Devine,de69af96,0,0,0,0,0,,,,,,4,0,4
+951383,2015/16,New Zealand,4,SW Bates,89bbc67a,CJ Metcalfe,d58fdb42,SFM Devine,de69af96,0,0,0,0,0,,,,,,0,0,0
+951383,2015/16,New Zealand,4,SW Bates,89bbc67a,CJ Metcalfe,d58fdb42,SFM Devine,de69af96,0,0,0,0,0,,,,,,1,0,1
+951383,2015/16,New Zealand,4,SFM Devine,de69af96,CJ Metcalfe,d58fdb42,SW Bates,89bbc67a,0,0,0,0,0,,,,,,6,0,6
+951383,2015/16,New Zealand,4,SFM Devine,de69af96,CJ Metcalfe,d58fdb42,SW Bates,89bbc67a,0,0,0,0,0,,,,,,0,0,0
+951383,2015/16,New Zealand,5,SW Bates,89bbc67a,AJ Kenealy,ca753f5d,SFM Devine,de69af96,0,0,0,0,0,,,,,,1,0,1
+951383,2015/16,New Zealand,5,SFM Devine,de69af96,AJ Kenealy,ca753f5d,SW Bates,89bbc67a,0,0,0,0,0,,,,,,0,0,0
+951383,2015/16,New Zealand,5,SFM Devine,de69af96,AJ Kenealy,ca753f5d,SW Bates,89bbc67a,0,0,0,0,0,,,,,,1,0,1
+951383,2015/16,New Zealand,5,SW Bates,89bbc67a,AJ Kenealy,ca753f5d,SFM Devine,de69af96,0,0,0,0,0,,,,,,0,0,0
+951383,2015/16,New Zealand,5,SW Bates,89bbc67a,AJ Kenealy,ca753f5d,SFM Devine,de69af96,0,0,0,0,0,,,,,,4,0,4
+951383,2015/16,New Zealand,5,SW Bates,89bbc67a,AJ Kenealy,ca753f5d,SFM Devine,de69af96,0,0,0,0,0,,,,,,1,0,1
+951383,2015/16,New Zealand,6,SW Bates,89bbc67a,CJ Metcalfe,d58fdb42,SFM Devine,de69af96,0,0,0,0,0,,,,,,1,0,1
+951383,2015/16,New Zealand,6,SFM Devine,de69af96,CJ Metcalfe,d58fdb42,SW Bates,89bbc67a,1,0,0,0,0,,,,,,0,1,1
+951383,2015/16,New Zealand,6,SFM Devine,de69af96,CJ Metcalfe,d58fdb42,SW Bates,89bbc67a,0,0,0,0,0,,,,,,1,0,1
+951383,2015/16,New Zealand,6,SW Bates,89bbc67a,CJ Metcalfe,d58fdb42,SFM Devine,de69af96,0,0,0,0,0,,,,,,4,0,4
+951383,2015/16,New Zealand,6,SW Bates,89bbc67a,CJ Metcalfe,d58fdb42,SFM Devine,de69af96,0,0,0,0,0,,,,,,4,0,4
+951383,2015/16,New Zealand,6,SW Bates,89bbc67a,CJ Metcalfe,d58fdb42,SFM Devine,de69af96,0,0,0,0,0,,,,,,1,0,1
+951383,2015/16,New Zealand,6,SFM Devine,de69af96,CJ Metcalfe,d58fdb42,SW Bates,89bbc67a,0,0,0,0,0,,,,,,1,0,1
+951383,2015/16,New Zealand,7,SFM Devine,de69af96,LK O'Reilly,69a9bb78,SW Bates,89bbc67a,0,0,0,0,0,,,,,,2,0,2
+951383,2015/16,New Zealand,7,SFM Devine,de69af96,LK O'Reilly,69a9bb78,SW Bates,89bbc67a,0,0,0,0,0,,,,,,1,0,1
+951383,2015/16,New Zealand,7,SW Bates,89bbc67a,LK O'Reilly,69a9bb78,SFM Devine,de69af96,0,0,0,0,0,,,,,,0,0,0
+951383,2015/16,New Zealand,7,SW Bates,89bbc67a,LK O'Reilly,69a9bb78,SFM Devine,de69af96,0,0,0,0,0,,,,,,0,0,0
+951383,2015/16,New Zealand,7,SW Bates,89bbc67a,LK O'Reilly,69a9bb78,SFM Devine,de69af96,0,0,0,0,0,,,,,,0,0,0
+951383,2015/16,New Zealand,7,SW Bates,89bbc67a,LK O'Reilly,69a9bb78,SFM Devine,de69af96,0,0,0,0,0,,,,,,0,0,0
+951383,2015/16,New Zealand,8,SFM Devine,de69af96,IMHC Joyce,d3b4b8ed,SW Bates,89bbc67a,0,0,0,0,0,,,,,,4,0,4
+951383,2015/16,New Zealand,8,SFM Devine,de69af96,IMHC Joyce,d3b4b8ed,SW Bates,89bbc67a,1,0,0,0,0,,,,,,0,1,1
+951383,2015/16,New Zealand,8,SFM Devine,de69af96,IMHC Joyce,d3b4b8ed,SW Bates,89bbc67a,0,0,0,0,0,,,,,,1,0,1
+951383,2015/16,New Zealand,8,SW Bates,89bbc67a,IMHC Joyce,d3b4b8ed,SFM Devine,de69af96,0,0,0,0,0,,,,,,2,0,2
+951383,2015/16,New Zealand,8,SW Bates,89bbc67a,IMHC Joyce,d3b4b8ed,SFM Devine,de69af96,5,0,0,0,0,,,,,,0,5,5
+951383,2015/16,New Zealand,8,SW Bates,89bbc67a,IMHC Joyce,d3b4b8ed,SFM Devine,de69af96,0,0,0,0,0,,,,,,1,0,1
+951383,2015/16,New Zealand,8,SFM Devine,de69af96,IMHC Joyce,d3b4b8ed,SW Bates,89bbc67a,0,0,0,0,0,,,,,,0,0,0
+951383,2015/16,New Zealand,8,SFM Devine,de69af96,IMHC Joyce,d3b4b8ed,SW Bates,89bbc67a,0,0,0,0,0,,,,,,1,0,1
+951383,2015/16,New Zealand,9,SFM Devine,de69af96,LK O'Reilly,69a9bb78,SW Bates,89bbc67a,0,0,0,0,0,,,,,,1,0,1
+951383,2015/16,New Zealand,9,SW Bates,89bbc67a,LK O'Reilly,69a9bb78,SFM Devine,de69af96,0,0,0,0,0,,,,,,0,0,0
+951383,2015/16,New Zealand,9,SW Bates,89bbc67a,LK O'Reilly,69a9bb78,SFM Devine,de69af96,0,0,0,0,0,,,,,,2,0,2
+951383,2015/16,New Zealand,9,SW Bates,89bbc67a,LK O'Reilly,69a9bb78,SFM Devine,de69af96,0,0,0,0,0,,,,,,1,0,1
+951383,2015/16,New Zealand,9,SFM Devine,de69af96,LK O'Reilly,69a9bb78,SW Bates,89bbc67a,0,0,0,0,0,,,,,,1,0,1
+951383,2015/16,New Zealand,9,SW Bates,89bbc67a,LK O'Reilly,69a9bb78,SFM Devine,de69af96,0,0,0,0,0,,,,,,1,0,1
+951383,2015/16,New Zealand,10,SW Bates,89bbc67a,IMHC Joyce,d3b4b8ed,SFM Devine,de69af96,0,0,0,0,0,,,,,,0,0,0
+951383,2015/16,New Zealand,10,SW Bates,89bbc67a,IMHC Joyce,d3b4b8ed,SFM Devine,de69af96,0,0,0,0,0,,,,,,1,0,1
+951383,2015/16,New Zealand,10,SFM Devine,de69af96,IMHC Joyce,d3b4b8ed,SW Bates,89bbc67a,0,0,0,0,0,,,,,,0,0,0
+951383,2015/16,New Zealand,10,SFM Devine,de69af96,IMHC Joyce,d3b4b8ed,SW Bates,89bbc67a,0,0,0,0,0,,,,,,1,0,1
+951383,2015/16,New Zealand,10,SW Bates,89bbc67a,IMHC Joyce,d3b4b8ed,SFM Devine,de69af96,0,0,0,0,0,,,,,,1,0,1
+951383,2015/16,New Zealand,10,SFM Devine,de69af96,IMHC Joyce,d3b4b8ed,SW Bates,89bbc67a,0,0,0,0,0,,,,,,0,0,0
+951383,2015/16,New Zealand,11,SW Bates,89bbc67a,LK O'Reilly,69a9bb78,SFM Devine,de69af96,0,0,0,0,0,,,,,,1,0,1
+951383,2015/16,New Zealand,11,SFM Devine,de69af96,LK O'Reilly,69a9bb78,SW Bates,89bbc67a,0,0,0,0,0,,,,,,1,0,1
+951383,2015/16,New Zealand,11,SW Bates,89bbc67a,LK O'Reilly,69a9bb78,SFM Devine,de69af96,0,0,0,0,0,,,,,,1,0,1
+951383,2015/16,New Zealand,11,SFM Devine,de69af96,LK O'Reilly,69a9bb78,SW Bates,89bbc67a,0,0,0,0,0,,,,,,4,0,4
+951383,2015/16,New Zealand,11,SFM Devine,de69af96,LK O'Reilly,69a9bb78,SW Bates,89bbc67a,0,0,0,0,0,,,,,,1,0,1
+951383,2015/16,New Zealand,11,SW Bates,89bbc67a,LK O'Reilly,69a9bb78,SFM Devine,de69af96,0,0,0,0,0,,,,,,2,0,2
+951383,2015/16,New Zealand,12,SFM Devine,de69af96,IMHC Joyce,d3b4b8ed,SW Bates,89bbc67a,0,0,0,0,0,,,,,,6,0,6
+951383,2015/16,New Zealand,12,SFM Devine,de69af96,IMHC Joyce,d3b4b8ed,SW Bates,89bbc67a,0,0,0,0,0,,,,,,1,0,1
+951383,2015/16,New Zealand,12,SW Bates,89bbc67a,IMHC Joyce,d3b4b8ed,SFM Devine,de69af96,0,0,0,0,0,,,,,,1,0,1
+951383,2015/16,New Zealand,12,SFM Devine,de69af96,IMHC Joyce,d3b4b8ed,SW Bates,89bbc67a,1,0,0,0,0,,,,,,0,1,1
+951383,2015/16,New Zealand,12,SFM Devine,de69af96,IMHC Joyce,d3b4b8ed,SW Bates,89bbc67a,0,0,0,0,0,,,,,,1,0,1
+951383,2015/16,New Zealand,12,SW Bates,89bbc67a,IMHC Joyce,d3b4b8ed,SFM Devine,de69af96,0,0,0,0,0,,,,,,1,0,1
+951383,2015/16,New Zealand,12,SFM Devine,de69af96,IMHC Joyce,d3b4b8ed,SW Bates,89bbc67a,0,0,0,0,0,,,,,,2,0,2
+951383,2015/16,New Zealand,13,SW Bates,89bbc67a,L Delany,b4f73b44,SFM Devine,de69af96,0,0,0,0,0,,,,,,1,0,1
+951383,2015/16,New Zealand,13,SFM Devine,de69af96,L Delany,b4f73b44,SW Bates,89bbc67a,0,0,0,0,0,,,,,,2,0,2
+951383,2015/16,New Zealand,13,SFM Devine,de69af96,L Delany,b4f73b44,SW Bates,89bbc67a,0,0,0,0,0,,,,,,1,0,1
+951383,2015/16,New Zealand,13,SW Bates,89bbc67a,L Delany,b4f73b44,SFM Devine,de69af96,0,0,0,0,0,,,,,,4,0,4
+951383,2015/16,New Zealand,13,SW Bates,89bbc67a,L Delany,b4f73b44,SFM Devine,de69af96,0,0,0,0,0,,,,,,1,0,1
+951383,2015/16,New Zealand,13,SFM Devine,de69af96,L Delany,b4f73b44,SW Bates,89bbc67a,0,0,0,0,0,,,,,,2,0,2
+951383,2015/16,New Zealand,14,SW Bates,89bbc67a,IMHC Joyce,d3b4b8ed,SFM Devine,de69af96,0,0,0,0,0,,,,,,1,0,1
+951383,2015/16,New Zealand,14,SFM Devine,de69af96,IMHC Joyce,d3b4b8ed,SW Bates,89bbc67a,0,0,0,0,1,SFM Devine,de69af96,MV Waldron,2e4f11e9,stumped,0,0,0
+951383,2015/16,New Zealand,14,SJ McGlashan,af71535d,IMHC Joyce,d3b4b8ed,SW Bates,89bbc67a,0,0,0,0,0,,,,,,2,0,2
+951383,2015/16,New Zealand,14,SJ McGlashan,af71535d,IMHC Joyce,d3b4b8ed,SW Bates,89bbc67a,0,0,0,0,0,,,,,,0,0,0
+951383,2015/16,New Zealand,14,SJ McGlashan,af71535d,IMHC Joyce,d3b4b8ed,SW Bates,89bbc67a,1,0,0,0,0,,,,,,0,1,1
+951383,2015/16,New Zealand,14,SJ McGlashan,af71535d,IMHC Joyce,d3b4b8ed,SW Bates,89bbc67a,0,0,0,0,0,,,,,,1,0,1
+951383,2015/16,New Zealand,14,SW Bates,89bbc67a,IMHC Joyce,d3b4b8ed,SJ McGlashan,af71535d,0,0,0,0,0,,,,,,1,0,1
+951383,2015/16,New Zealand,15,SW Bates,89bbc67a,CJ Metcalfe,d58fdb42,SJ McGlashan,af71535d,0,0,0,0,0,,,,,,1,0,1
+951383,2015/16,New Zealand,15,SJ McGlashan,af71535d,CJ Metcalfe,d58fdb42,SW Bates,89bbc67a,0,0,0,0,0,,,,,,0,0,0
+951383,2015/16,New Zealand,15,SJ McGlashan,af71535d,CJ Metcalfe,d58fdb42,SW Bates,89bbc67a,0,0,0,0,0,,,,,,4,0,4
+951383,2015/16,New Zealand,15,SJ McGlashan,af71535d,CJ Metcalfe,d58fdb42,SW Bates,89bbc67a,0,0,0,0,0,,,,,,1,0,1
+951383,2015/16,New Zealand,15,SW Bates,89bbc67a,CJ Metcalfe,d58fdb42,SJ McGlashan,af71535d,0,0,0,0,0,,,,,,1,0,1
+951383,2015/16,New Zealand,15,SJ McGlashan,af71535d,CJ Metcalfe,d58fdb42,SW Bates,89bbc67a,0,0,0,0,0,,,,,,0,0,0
+951383,2015/16,New Zealand,16,SW Bates,89bbc67a,KJ Garth,0b69a844,SJ McGlashan,af71535d,0,0,0,0,0,,,,,,4,0,4
+951383,2015/16,New Zealand,16,SW Bates,89bbc67a,KJ Garth,0b69a844,SJ McGlashan,af71535d,0,0,0,0,0,,,,,,2,0,2
+951383,2015/16,New Zealand,16,SW Bates,89bbc67a,KJ Garth,0b69a844,SJ McGlashan,af71535d,0,0,0,0,0,,,,,,0,0,0
+951383,2015/16,New Zealand,16,SW Bates,89bbc67a,KJ Garth,0b69a844,SJ McGlashan,af71535d,0,0,0,0,0,,,,,,1,0,1
+951383,2015/16,New Zealand,16,SJ McGlashan,af71535d,KJ Garth,0b69a844,SW Bates,89bbc67a,0,0,0,0,0,,,,,,0,0,0
+951383,2015/16,New Zealand,16,SJ McGlashan,af71535d,KJ Garth,0b69a844,SW Bates,89bbc67a,0,0,0,0,0,,,,,,2,0,2
+951383,2015/16,New Zealand,17,SW Bates,89bbc67a,CJ Metcalfe,d58fdb42,SJ McGlashan,af71535d,0,0,0,0,0,,,,,,2,0,2
+951383,2015/16,New Zealand,17,SW Bates,89bbc67a,CJ Metcalfe,d58fdb42,SJ McGlashan,af71535d,0,0,0,0,0,,,,,,1,0,1
+951383,2015/16,New Zealand,17,SJ McGlashan,af71535d,CJ Metcalfe,d58fdb42,SW Bates,89bbc67a,0,0,0,0,0,,,,,,0,0,0
+951383,2015/16,New Zealand,17,SJ McGlashan,af71535d,CJ Metcalfe,d58fdb42,SW Bates,89bbc67a,0,0,1,0,0,,,,,,0,1,1
+951383,2015/16,New Zealand,17,SW Bates,89bbc67a,CJ Metcalfe,d58fdb42,SJ McGlashan,af71535d,0,0,0,0,0,,,,,,1,0,1
+951383,2015/16,New Zealand,17,SJ McGlashan,af71535d,CJ Metcalfe,d58fdb42,SW Bates,89bbc67a,0,0,0,0,0,,,,,,1,0,1
+951383,2015/16,New Zealand,18,SJ McGlashan,af71535d,KJ Garth,0b69a844,SW Bates,89bbc67a,0,0,0,0,0,,,,,,2,0,2
+951383,2015/16,New Zealand,18,SJ McGlashan,af71535d,KJ Garth,0b69a844,SW Bates,89bbc67a,0,0,0,0,0,,,,,,1,0,1
+951383,2015/16,New Zealand,18,SW Bates,89bbc67a,KJ Garth,0b69a844,SJ McGlashan,af71535d,0,0,0,0,0,,,,,,6,0,6
+951383,2015/16,New Zealand,18,SW Bates,89bbc67a,KJ Garth,0b69a844,SJ McGlashan,af71535d,0,0,0,0,0,,,,,,6,0,6
+951383,2015/16,New Zealand,18,SW Bates,89bbc67a,KJ Garth,0b69a844,SJ McGlashan,af71535d,0,0,0,0,0,,,,,,2,0,2
+951383,2015/16,New Zealand,18,SW Bates,89bbc67a,KJ Garth,0b69a844,SJ McGlashan,af71535d,0,0,0,0,1,SW Bates,89bbc67a,MV Waldron,2e4f11e9,caught,0,0,0
+951383,2015/16,New Zealand,19,AE Satterthwaite,72b7ed1e,LK O'Reilly,69a9bb78,SJ McGlashan,af71535d,0,0,0,0,0,,,,,,1,0,1
+951383,2015/16,New Zealand,19,SJ McGlashan,af71535d,LK O'Reilly,69a9bb78,AE Satterthwaite,72b7ed1e,0,0,0,1,0,,,,,,0,1,1
+951383,2015/16,New Zealand,19,AE Satterthwaite,72b7ed1e,LK O'Reilly,69a9bb78,SJ McGlashan,af71535d,0,0,2,0,0,,,,,,0,2,2
+951383,2015/16,New Zealand,19,AE Satterthwaite,72b7ed1e,LK O'Reilly,69a9bb78,SJ McGlashan,af71535d,0,0,0,0,0,,,,,,0,0,0
+951383,2015/16,New Zealand,19,AE Satterthwaite,72b7ed1e,LK O'Reilly,69a9bb78,SJ McGlashan,af71535d,0,0,0,0,0,,,,,,4,0,4
+951383,2015/16,New Zealand,19,AE Satterthwaite,72b7ed1e,LK O'Reilly,69a9bb78,SJ McGlashan,af71535d,0,0,0,0,0,,,,,,2,0,2
+951383,2015/16,Ireland,0,CMA Shillington,60e11a00,MJG Nielsen,e2410b5e,CNIM Joyce,56418eae,0,0,0,0,0,,,,,,0,0,0
+951383,2015/16,Ireland,0,CMA Shillington,60e11a00,MJG Nielsen,e2410b5e,CNIM Joyce,56418eae,0,0,0,0,0,,,,,,1,0,1
+951383,2015/16,Ireland,0,CNIM Joyce,56418eae,MJG Nielsen,e2410b5e,CMA Shillington,60e11a00,0,0,0,0,0,,,,,,1,0,1
+951383,2015/16,Ireland,0,CMA Shillington,60e11a00,MJG Nielsen,e2410b5e,CNIM Joyce,56418eae,0,0,0,0,0,,,,,,2,0,2
+951383,2015/16,Ireland,0,CMA Shillington,60e11a00,MJG Nielsen,e2410b5e,CNIM Joyce,56418eae,0,0,0,0,0,,,,,,0,0,0
+951383,2015/16,Ireland,0,CMA Shillington,60e11a00,MJG Nielsen,e2410b5e,CNIM Joyce,56418eae,0,0,0,0,0,,,,,,0,0,0
+951383,2015/16,Ireland,1,CNIM Joyce,56418eae,LMM Tahuhu,60471339,CMA Shillington,60e11a00,0,0,0,0,0,,,,,,4,0,4
+951383,2015/16,Ireland,1,CNIM Joyce,56418eae,LMM Tahuhu,60471339,CMA Shillington,60e11a00,0,0,0,0,0,,,,,,1,0,1
+951383,2015/16,Ireland,1,CMA Shillington,60e11a00,LMM Tahuhu,60471339,CNIM Joyce,56418eae,0,0,0,0,0,,,,,,0,0,0
+951383,2015/16,Ireland,1,CMA Shillington,60e11a00,LMM Tahuhu,60471339,CNIM Joyce,56418eae,0,0,0,0,0,,,,,,0,0,0
+951383,2015/16,Ireland,1,CMA Shillington,60e11a00,LMM Tahuhu,60471339,CNIM Joyce,56418eae,0,0,0,0,0,,,,,,4,0,4
+951383,2015/16,Ireland,1,CMA Shillington,60e11a00,LMM Tahuhu,60471339,CNIM Joyce,56418eae,0,0,0,0,0,,,,,,0,0,0
+951383,2015/16,Ireland,2,CNIM Joyce,56418eae,MJG Nielsen,e2410b5e,CMA Shillington,60e11a00,0,0,0,0,0,,,,,,0,0,0
+951383,2015/16,Ireland,2,CNIM Joyce,56418eae,MJG Nielsen,e2410b5e,CMA Shillington,60e11a00,0,0,0,0,1,CNIM Joyce,56418eae,RH Priest,e6f0408a,stumped,0,0,0
+951383,2015/16,Ireland,2,CC Dalton,4412ede5,MJG Nielsen,e2410b5e,CMA Shillington,60e11a00,0,0,0,0,0,,,,,,0,0,0
+951383,2015/16,Ireland,2,CC Dalton,4412ede5,MJG Nielsen,e2410b5e,CMA Shillington,60e11a00,0,0,0,0,0,,,,,,0,0,0
+951383,2015/16,Ireland,2,CC Dalton,4412ede5,MJG Nielsen,e2410b5e,CMA Shillington,60e11a00,0,0,0,0,0,,,,,,1,0,1
+951383,2015/16,Ireland,2,CMA Shillington,60e11a00,MJG Nielsen,e2410b5e,CC Dalton,4412ede5,0,0,0,0,0,,,,,,1,0,1
+951383,2015/16,Ireland,3,CMA Shillington,60e11a00,LM Kasperek,9b73d523,CC Dalton,4412ede5,0,0,0,0,0,,,,,,0,0,0
+951383,2015/16,Ireland,3,CMA Shillington,60e11a00,LM Kasperek,9b73d523,CC Dalton,4412ede5,0,0,0,0,0,,,,,,1,0,1
+951383,2015/16,Ireland,3,CC Dalton,4412ede5,LM Kasperek,9b73d523,CMA Shillington,60e11a00,0,0,0,0,0,,,,,,0,0,0
+951383,2015/16,Ireland,3,CC Dalton,4412ede5,LM Kasperek,9b73d523,CMA Shillington,60e11a00,0,0,0,0,0,,,,,,0,0,0
+951383,2015/16,Ireland,3,CC Dalton,4412ede5,LM Kasperek,9b73d523,CMA Shillington,60e11a00,0,0,0,0,1,CC Dalton,4412ede5,SW Bates,89bbc67a,caught,0,0,0
+951383,2015/16,Ireland,3,CMA Shillington,60e11a00,LM Kasperek,9b73d523,IMHC Joyce,d3b4b8ed,0,0,0,0,0,,,,,,0,0,0
+951383,2015/16,Ireland,4,IMHC Joyce,d3b4b8ed,MJG Nielsen,e2410b5e,CMA Shillington,60e11a00,0,0,0,0,0,,,,,,0,0,0
+951383,2015/16,Ireland,4,IMHC Joyce,d3b4b8ed,MJG Nielsen,e2410b5e,CMA Shillington,60e11a00,0,0,0,0,0,,,,,,2,0,2
+951383,2015/16,Ireland,4,IMHC Joyce,d3b4b8ed,MJG Nielsen,e2410b5e,CMA Shillington,60e11a00,0,0,0,0,0,,,,,,1,0,1
+951383,2015/16,Ireland,4,CMA Shillington,60e11a00,MJG Nielsen,e2410b5e,IMHC Joyce,d3b4b8ed,0,0,0,0,0,,,,,,0,0,0
+951383,2015/16,Ireland,4,CMA Shillington,60e11a00,MJG Nielsen,e2410b5e,IMHC Joyce,d3b4b8ed,0,0,0,0,0,,,,,,0,0,0
+951383,2015/16,Ireland,4,CMA Shillington,60e11a00,MJG Nielsen,e2410b5e,IMHC Joyce,d3b4b8ed,0,0,0,0,0,,,,,,0,0,0
+951383,2015/16,Ireland,5,IMHC Joyce,d3b4b8ed,LM Kasperek,9b73d523,CMA Shillington,60e11a00,0,0,0,0,0,,,,,,0,0,0
+951383,2015/16,Ireland,5,IMHC Joyce,d3b4b8ed,LM Kasperek,9b73d523,CMA Shillington,60e11a00,0,0,0,0,0,,,,,,0,0,0
+951383,2015/16,Ireland,5,IMHC Joyce,d3b4b8ed,LM Kasperek,9b73d523,CMA Shillington,60e11a00,0,0,0,0,0,,,,,,0,0,0
+951383,2015/16,Ireland,5,IMHC Joyce,d3b4b8ed,LM Kasperek,9b73d523,CMA Shillington,60e11a00,0,0,0,0,0,,,,,,1,0,1
+951383,2015/16,Ireland,5,CMA Shillington,60e11a00,LM Kasperek,9b73d523,IMHC Joyce,d3b4b8ed,0,0,0,0,0,,,,,,2,0,2
+951383,2015/16,Ireland,5,CMA Shillington,60e11a00,LM Kasperek,9b73d523,IMHC Joyce,d3b4b8ed,0,0,0,0,0,,,,,,1,0,1
+951383,2015/16,Ireland,6,CMA Shillington,60e11a00,MJG Nielsen,e2410b5e,IMHC Joyce,d3b4b8ed,0,0,0,0,0,,,,,,0,0,0
+951383,2015/16,Ireland,6,CMA Shillington,60e11a00,MJG Nielsen,e2410b5e,IMHC Joyce,d3b4b8ed,0,0,0,0,0,,,,,,0,0,0
+951383,2015/16,Ireland,6,CMA Shillington,60e11a00,MJG Nielsen,e2410b5e,IMHC Joyce,d3b4b8ed,0,0,0,0,0,,,,,,1,0,1
+951383,2015/16,Ireland,6,IMHC Joyce,d3b4b8ed,MJG Nielsen,e2410b5e,CMA Shillington,60e11a00,0,0,0,0,0,,,,,,1,0,1
+951383,2015/16,Ireland,6,CMA Shillington,60e11a00,MJG Nielsen,e2410b5e,IMHC Joyce,d3b4b8ed,0,0,0,0,0,,,,,,1,0,1
+951383,2015/16,Ireland,6,IMHC Joyce,d3b4b8ed,MJG Nielsen,e2410b5e,CMA Shillington,60e11a00,0,0,0,0,0,,,,,,1,0,1
+951383,2015/16,Ireland,7,IMHC Joyce,d3b4b8ed,LM Kasperek,9b73d523,CMA Shillington,60e11a00,0,0,0,0,0,,,,,,0,0,0
+951383,2015/16,Ireland,7,IMHC Joyce,d3b4b8ed,LM Kasperek,9b73d523,CMA Shillington,60e11a00,0,0,0,0,0,,,,,,0,0,0
+951383,2015/16,Ireland,7,IMHC Joyce,d3b4b8ed,LM Kasperek,9b73d523,CMA Shillington,60e11a00,0,0,0,0,0,,,,,,0,0,0
+951383,2015/16,Ireland,7,IMHC Joyce,d3b4b8ed,LM Kasperek,9b73d523,CMA Shillington,60e11a00,0,0,0,0,0,,,,,,0,0,0
+951383,2015/16,Ireland,7,IMHC Joyce,d3b4b8ed,LM Kasperek,9b73d523,CMA Shillington,60e11a00,0,0,0,0,0,,,,,,1,0,1
+951383,2015/16,Ireland,7,CMA Shillington,60e11a00,LM Kasperek,9b73d523,IMHC Joyce,d3b4b8ed,0,0,0,0,0,,,,,,1,0,1
+951383,2015/16,Ireland,8,CMA Shillington,60e11a00,EM Bermingham,180240d4,IMHC Joyce,d3b4b8ed,0,0,0,0,1,CMA Shillington,60e11a00,,,bowled,0,0,0
+951383,2015/16,Ireland,8,L Delany,b4f73b44,EM Bermingham,180240d4,IMHC Joyce,d3b4b8ed,0,0,0,0,0,,,,,,0,0,0
+951383,2015/16,Ireland,8,L Delany,b4f73b44,EM Bermingham,180240d4,IMHC Joyce,d3b4b8ed,0,0,0,0,0,,,,,,0,0,0
+951383,2015/16,Ireland,8,L Delany,b4f73b44,EM Bermingham,180240d4,IMHC Joyce,d3b4b8ed,0,0,0,0,0,,,,,,1,0,1
+951383,2015/16,Ireland,8,IMHC Joyce,d3b4b8ed,EM Bermingham,180240d4,L Delany,b4f73b44,0,0,0,0,0,,,,,,1,0,1
+951383,2015/16,Ireland,8,L Delany,b4f73b44,EM Bermingham,180240d4,IMHC Joyce,d3b4b8ed,0,0,0,0,0,,,,,,0,0,0
+951383,2015/16,Ireland,9,IMHC Joyce,d3b4b8ed,LMM Tahuhu,60471339,L Delany,b4f73b44,0,0,0,0,0,,,,,,1,0,1
+951383,2015/16,Ireland,9,L Delany,b4f73b44,LMM Tahuhu,60471339,IMHC Joyce,d3b4b8ed,0,0,0,0,0,,,,,,1,0,1
+951383,2015/16,Ireland,9,IMHC Joyce,d3b4b8ed,LMM Tahuhu,60471339,L Delany,b4f73b44,0,0,1,0,0,,,,,,0,1,1
+951383,2015/16,Ireland,9,L Delany,b4f73b44,LMM Tahuhu,60471339,IMHC Joyce,d3b4b8ed,0,0,0,0,0,,,,,,0,0,0
+951383,2015/16,Ireland,9,L Delany,b4f73b44,LMM Tahuhu,60471339,IMHC Joyce,d3b4b8ed,0,0,0,0,0,,,,,,0,0,0
+951383,2015/16,Ireland,9,L Delany,b4f73b44,LMM Tahuhu,60471339,IMHC Joyce,d3b4b8ed,0,0,0,0,0,,,,,,0,0,0
+951383,2015/16,Ireland,10,IMHC Joyce,d3b4b8ed,EM Bermingham,180240d4,L Delany,b4f73b44,0,0,0,0,0,,,,,,4,0,4
+951383,2015/16,Ireland,10,IMHC Joyce,d3b4b8ed,EM Bermingham,180240d4,L Delany,b4f73b44,0,0,0,0,0,,,,,,2,0,2
+951383,2015/16,Ireland,10,IMHC Joyce,d3b4b8ed,EM Bermingham,180240d4,L Delany,b4f73b44,0,0,0,0,0,,,,,,1,0,1
+951383,2015/16,Ireland,10,L Delany,b4f73b44,EM Bermingham,180240d4,IMHC Joyce,d3b4b8ed,0,0,0,0,0,,,,,,0,0,0
+951383,2015/16,Ireland,10,L Delany,b4f73b44,EM Bermingham,180240d4,IMHC Joyce,d3b4b8ed,0,0,0,0,0,,,,,,1,0,1
+951383,2015/16,Ireland,10,IMHC Joyce,d3b4b8ed,EM Bermingham,180240d4,L Delany,b4f73b44,0,0,0,0,0,,,,,,1,0,1
+951383,2015/16,Ireland,11,IMHC Joyce,d3b4b8ed,LMM Tahuhu,60471339,L Delany,b4f73b44,0,0,0,0,0,,,,,,4,0,4
+951383,2015/16,Ireland,11,IMHC Joyce,d3b4b8ed,LMM Tahuhu,60471339,L Delany,b4f73b44,0,0,0,0,0,,,,,,1,0,1
+951383,2015/16,Ireland,11,L Delany,b4f73b44,LMM Tahuhu,60471339,IMHC Joyce,d3b4b8ed,0,0,0,0,0,,,,,,0,0,0
+951383,2015/16,Ireland,11,L Delany,b4f73b44,LMM Tahuhu,60471339,IMHC Joyce,d3b4b8ed,0,0,0,0,0,,,,,,0,0,0
+951383,2015/16,Ireland,11,L Delany,b4f73b44,LMM Tahuhu,60471339,IMHC Joyce,d3b4b8ed,0,0,0,0,0,,,,,,4,0,4
+951383,2015/16,Ireland,11,L Delany,b4f73b44,LMM Tahuhu,60471339,IMHC Joyce,d3b4b8ed,0,0,0,0,0,,,,,,0,0,0
+951383,2015/16,Ireland,12,IMHC Joyce,d3b4b8ed,SFM Devine,de69af96,L Delany,b4f73b44,0,0,0,0,0,,,,,,0,0,0
+951383,2015/16,Ireland,12,IMHC Joyce,d3b4b8ed,SFM Devine,de69af96,L Delany,b4f73b44,0,0,0,0,0,,,,,,0,0,0
+951383,2015/16,Ireland,12,IMHC Joyce,d3b4b8ed,SFM Devine,de69af96,L Delany,b4f73b44,0,0,0,0,0,,,,,,0,0,0
+951383,2015/16,Ireland,12,IMHC Joyce,d3b4b8ed,SFM Devine,de69af96,L Delany,b4f73b44,0,0,0,0,0,,,,,,1,0,1
+951383,2015/16,Ireland,12,L Delany,b4f73b44,SFM Devine,de69af96,IMHC Joyce,d3b4b8ed,0,0,0,0,0,,,,,,0,0,0
+951383,2015/16,Ireland,12,L Delany,b4f73b44,SFM Devine,de69af96,IMHC Joyce,d3b4b8ed,0,0,0,0,0,,,,,,1,0,1
+951383,2015/16,Ireland,13,L Delany,b4f73b44,EM Bermingham,180240d4,IMHC Joyce,d3b4b8ed,0,0,0,0,0,,,,,,0,0,0
+951383,2015/16,Ireland,13,L Delany,b4f73b44,EM Bermingham,180240d4,IMHC Joyce,d3b4b8ed,0,0,0,0,0,,,,,,1,0,1
+951383,2015/16,Ireland,13,IMHC Joyce,d3b4b8ed,EM Bermingham,180240d4,L Delany,b4f73b44,0,0,0,0,0,,,,,,1,0,1
+951383,2015/16,Ireland,13,L Delany,b4f73b44,EM Bermingham,180240d4,IMHC Joyce,d3b4b8ed,0,0,0,0,0,,,,,,0,0,0
+951383,2015/16,Ireland,13,L Delany,b4f73b44,EM Bermingham,180240d4,IMHC Joyce,d3b4b8ed,1,0,0,0,0,,,,,,0,1,1
+951383,2015/16,Ireland,13,L Delany,b4f73b44,EM Bermingham,180240d4,IMHC Joyce,d3b4b8ed,0,0,0,0,1,L Delany,b4f73b44,RH Priest,e6f0408a,stumped,0,0,0
+951383,2015/16,Ireland,13,GH Lewis,1b9d1579,EM Bermingham,180240d4,IMHC Joyce,d3b4b8ed,0,0,0,0,0,,,,,,1,0,1
+951383,2015/16,Ireland,14,GH Lewis,1b9d1579,SFM Devine,de69af96,IMHC Joyce,d3b4b8ed,0,0,0,0,0,,,,,,4,0,4
+951383,2015/16,Ireland,14,GH Lewis,1b9d1579,SFM Devine,de69af96,IMHC Joyce,d3b4b8ed,0,0,0,0,0,,,,,,1,0,1
+951383,2015/16,Ireland,14,IMHC Joyce,d3b4b8ed,SFM Devine,de69af96,GH Lewis,1b9d1579,0,0,0,0,0,,,,,,2,0,2
+951383,2015/16,Ireland,14,IMHC Joyce,d3b4b8ed,SFM Devine,de69af96,GH Lewis,1b9d1579,0,0,0,0,0,,,,,,1,0,1
+951383,2015/16,Ireland,14,GH Lewis,1b9d1579,SFM Devine,de69af96,IMHC Joyce,d3b4b8ed,0,0,0,0,0,,,,,,0,0,0
+951383,2015/16,Ireland,14,GH Lewis,1b9d1579,SFM Devine,de69af96,IMHC Joyce,d3b4b8ed,0,0,0,0,0,,,,,,0,0,0
+951383,2015/16,Ireland,15,IMHC Joyce,d3b4b8ed,EM Bermingham,180240d4,GH Lewis,1b9d1579,0,0,0,0,0,,,,,,1,0,1
+951383,2015/16,Ireland,15,GH Lewis,1b9d1579,EM Bermingham,180240d4,IMHC Joyce,d3b4b8ed,0,0,0,0,0,,,,,,0,0,0
+951383,2015/16,Ireland,15,GH Lewis,1b9d1579,EM Bermingham,180240d4,IMHC Joyce,d3b4b8ed,0,0,0,0,0,,,,,,0,0,0
+951383,2015/16,Ireland,15,GH Lewis,1b9d1579,EM Bermingham,180240d4,IMHC Joyce,d3b4b8ed,0,0,0,0,0,,,,,,0,0,0
+951383,2015/16,Ireland,15,GH Lewis,1b9d1579,EM Bermingham,180240d4,IMHC Joyce,d3b4b8ed,0,0,0,0,0,,,,,,1,0,1
+951383,2015/16,Ireland,15,IMHC Joyce,d3b4b8ed,EM Bermingham,180240d4,GH Lewis,1b9d1579,0,0,0,0,0,,,,,,0,0,0
+951383,2015/16,Ireland,16,GH Lewis,1b9d1579,SFM Devine,de69af96,IMHC Joyce,d3b4b8ed,0,0,0,0,0,,,,,,0,0,0
+951383,2015/16,Ireland,16,GH Lewis,1b9d1579,SFM Devine,de69af96,IMHC Joyce,d3b4b8ed,0,0,0,0,0,,,,,,0,0,0
+951383,2015/16,Ireland,16,GH Lewis,1b9d1579,SFM Devine,de69af96,IMHC Joyce,d3b4b8ed,1,0,0,0,0,,,,,,0,1,1
+951383,2015/16,Ireland,16,GH Lewis,1b9d1579,SFM Devine,de69af96,IMHC Joyce,d3b4b8ed,0,0,0,0,0,,,,,,1,0,1
+951383,2015/16,Ireland,16,IMHC Joyce,d3b4b8ed,SFM Devine,de69af96,GH Lewis,1b9d1579,0,0,0,0,1,IMHC Joyce,d3b4b8ed,,,bowled,0,0,0
+951383,2015/16,Ireland,16,KJ Garth,0b69a844,SFM Devine,de69af96,GH Lewis,1b9d1579,0,0,0,0,0,,,,,,0,0,0
+951383,2015/16,Ireland,16,KJ Garth,0b69a844,SFM Devine,de69af96,GH Lewis,1b9d1579,0,0,0,0,0,,,,,,1,0,1
+951383,2015/16,Ireland,17,KJ Garth,0b69a844,LMM Tahuhu,60471339,GH Lewis,1b9d1579,0,0,0,0,0,,,,,,0,0,0
+951383,2015/16,Ireland,17,KJ Garth,0b69a844,LMM Tahuhu,60471339,GH Lewis,1b9d1579,0,0,0,0,0,,,,,,1,0,1
+951383,2015/16,Ireland,17,GH Lewis,1b9d1579,LMM Tahuhu,60471339,KJ Garth,0b69a844,0,0,0,0,0,,,,,,1,0,1
+951383,2015/16,Ireland,17,KJ Garth,0b69a844,LMM Tahuhu,60471339,GH Lewis,1b9d1579,0,0,0,0,0,,,,,,1,0,1
+951383,2015/16,Ireland,17,GH Lewis,1b9d1579,LMM Tahuhu,60471339,KJ Garth,0b69a844,0,0,0,0,0,,,,,,1,0,1
+951383,2015/16,Ireland,17,KJ Garth,0b69a844,LMM Tahuhu,60471339,GH Lewis,1b9d1579,0,0,0,0,0,,,,,,0,0,0
+951383,2015/16,Ireland,18,GH Lewis,1b9d1579,LM Kasperek,9b73d523,KJ Garth,0b69a844,0,0,0,0,0,,,,,,0,0,0
+951383,2015/16,Ireland,18,GH Lewis,1b9d1579,LM Kasperek,9b73d523,KJ Garth,0b69a844,0,0,0,0,0,,,,,,0,0,0
+951383,2015/16,Ireland,18,GH Lewis,1b9d1579,LM Kasperek,9b73d523,KJ Garth,0b69a844,0,0,0,0,0,,,,,,1,0,1
+951383,2015/16,Ireland,18,KJ Garth,0b69a844,LM Kasperek,9b73d523,GH Lewis,1b9d1579,0,0,0,0,0,,,,,,0,0,0
+951383,2015/16,Ireland,18,KJ Garth,0b69a844,LM Kasperek,9b73d523,GH Lewis,1b9d1579,0,0,0,0,0,,,,,,1,0,1
+951383,2015/16,Ireland,18,GH Lewis,1b9d1579,LM Kasperek,9b73d523,KJ Garth,0b69a844,0,0,0,0,0,,,,,,1,0,1
+951383,2015/16,Ireland,19,GH Lewis,1b9d1579,SFM Devine,de69af96,KJ Garth,0b69a844,0,0,0,0,0,,,,,,1,0,1
+951383,2015/16,Ireland,19,KJ Garth,0b69a844,SFM Devine,de69af96,GH Lewis,1b9d1579,0,0,0,0,0,,,,,,1,0,1
+951383,2015/16,Ireland,19,GH Lewis,1b9d1579,SFM Devine,de69af96,KJ Garth,0b69a844,0,0,0,0,0,,,,,,0,0,0
+951383,2015/16,Ireland,19,GH Lewis,1b9d1579,SFM Devine,de69af96,KJ Garth,0b69a844,0,0,0,0,0,,,,,,1,0,1
+951383,2015/16,Ireland,19,KJ Garth,0b69a844,SFM Devine,de69af96,GH Lewis,1b9d1579,0,0,0,0,0,,,,,,1,0,1
+951383,2015/16,Ireland,19,GH Lewis,1b9d1579,SFM Devine,de69af96,KJ Garth,0b69a844,0,0,0,0,0,,,,,,2,0,2

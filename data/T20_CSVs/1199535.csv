@@ -1,0 +1,233 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1199535,2019/20,Namibia,0,SJ Baard,e8511411,Janak Prakash,f092b4c7,N Davin,72e361fe,0,0,0,0,0,,,,,,0,0,0
+1199535,2019/20,Namibia,0,SJ Baard,e8511411,Janak Prakash,f092b4c7,N Davin,72e361fe,0,0,0,0,0,,,,,,0,0,0
+1199535,2019/20,Namibia,0,SJ Baard,e8511411,Janak Prakash,f092b4c7,N Davin,72e361fe,0,0,0,0,0,,,,,,3,0,3
+1199535,2019/20,Namibia,0,N Davin,72e361fe,Janak Prakash,f092b4c7,SJ Baard,e8511411,1,0,0,0,0,,,,,,0,1,1
+1199535,2019/20,Namibia,0,N Davin,72e361fe,Janak Prakash,f092b4c7,SJ Baard,e8511411,0,0,0,0,0,,,,,,1,0,1
+1199535,2019/20,Namibia,0,SJ Baard,e8511411,Janak Prakash,f092b4c7,N Davin,72e361fe,0,0,0,0,0,,,,,,1,0,1
+1199535,2019/20,Namibia,0,N Davin,72e361fe,Janak Prakash,f092b4c7,SJ Baard,e8511411,0,0,0,0,0,,,,,,2,0,2
+1199535,2019/20,Namibia,1,SJ Baard,e8511411,V Baskaran,dd5a9067,N Davin,72e361fe,0,0,0,0,0,,,,,,1,0,1
+1199535,2019/20,Namibia,1,N Davin,72e361fe,V Baskaran,dd5a9067,SJ Baard,e8511411,0,0,0,0,0,,,,,,0,0,0
+1199535,2019/20,Namibia,1,N Davin,72e361fe,V Baskaran,dd5a9067,SJ Baard,e8511411,0,0,0,0,0,,,,,,4,0,4
+1199535,2019/20,Namibia,1,N Davin,72e361fe,V Baskaran,dd5a9067,SJ Baard,e8511411,1,0,0,0,0,,,,,,0,1,1
+1199535,2019/20,Namibia,1,N Davin,72e361fe,V Baskaran,dd5a9067,SJ Baard,e8511411,0,0,0,0,0,,,,,,2,0,2
+1199535,2019/20,Namibia,1,N Davin,72e361fe,V Baskaran,dd5a9067,SJ Baard,e8511411,0,0,0,0,0,,,,,,0,0,0
+1199535,2019/20,Namibia,1,N Davin,72e361fe,V Baskaran,dd5a9067,SJ Baard,e8511411,0,0,0,0,0,,,,,,0,0,0
+1199535,2019/20,Namibia,2,SJ Baard,e8511411,Amjad Mahboob,48f25627,N Davin,72e361fe,0,0,0,0,0,,,,,,4,0,4
+1199535,2019/20,Namibia,2,SJ Baard,e8511411,Amjad Mahboob,48f25627,N Davin,72e361fe,0,0,0,0,0,,,,,,1,0,1
+1199535,2019/20,Namibia,2,N Davin,72e361fe,Amjad Mahboob,48f25627,SJ Baard,e8511411,0,0,0,0,0,,,,,,0,0,0
+1199535,2019/20,Namibia,2,N Davin,72e361fe,Amjad Mahboob,48f25627,SJ Baard,e8511411,0,0,0,0,0,,,,,,1,0,1
+1199535,2019/20,Namibia,2,SJ Baard,e8511411,Amjad Mahboob,48f25627,N Davin,72e361fe,0,0,0,0,0,,,,,,0,0,0
+1199535,2019/20,Namibia,2,SJ Baard,e8511411,Amjad Mahboob,48f25627,N Davin,72e361fe,0,0,0,0,0,,,,,,6,0,6
+1199535,2019/20,Namibia,3,N Davin,72e361fe,NMS Param,270b4de6,SJ Baard,e8511411,0,0,0,0,0,,,,,,4,0,4
+1199535,2019/20,Namibia,3,N Davin,72e361fe,NMS Param,270b4de6,SJ Baard,e8511411,0,0,0,0,0,,,,,,1,0,1
+1199535,2019/20,Namibia,3,SJ Baard,e8511411,NMS Param,270b4de6,N Davin,72e361fe,0,0,1,0,0,,,,,,0,1,1
+1199535,2019/20,Namibia,3,N Davin,72e361fe,NMS Param,270b4de6,SJ Baard,e8511411,0,0,0,0,0,,,,,,1,0,1
+1199535,2019/20,Namibia,3,SJ Baard,e8511411,NMS Param,270b4de6,N Davin,72e361fe,0,0,0,0,0,,,,,,1,0,1
+1199535,2019/20,Namibia,3,N Davin,72e361fe,NMS Param,270b4de6,SJ Baard,e8511411,0,0,0,0,0,,,,,,4,0,4
+1199535,2019/20,Namibia,4,SJ Baard,e8511411,Sidhant Singh,8f1e023f,N Davin,72e361fe,0,0,0,0,0,,,,,,0,0,0
+1199535,2019/20,Namibia,4,SJ Baard,e8511411,Sidhant Singh,8f1e023f,N Davin,72e361fe,0,0,0,0,1,SJ Baard,e8511411,,,caught and bowled,0,0,0
+1199535,2019/20,Namibia,4,N Davin,72e361fe,Sidhant Singh,8f1e023f,JP Kotze,9f308dfc,0,0,0,0,0,,,,,,1,0,1
+1199535,2019/20,Namibia,4,JP Kotze,9f308dfc,Sidhant Singh,8f1e023f,N Davin,72e361fe,0,0,0,0,0,,,,,,0,0,0
+1199535,2019/20,Namibia,4,JP Kotze,9f308dfc,Sidhant Singh,8f1e023f,N Davin,72e361fe,0,0,0,0,0,,,,,,4,0,4
+1199535,2019/20,Namibia,4,JP Kotze,9f308dfc,Sidhant Singh,8f1e023f,N Davin,72e361fe,0,0,0,0,0,,,,,,1,0,1
+1199535,2019/20,Namibia,5,JP Kotze,9f308dfc,Janak Prakash,f092b4c7,N Davin,72e361fe,0,0,0,0,0,,,,,,0,0,0
+1199535,2019/20,Namibia,5,JP Kotze,9f308dfc,Janak Prakash,f092b4c7,N Davin,72e361fe,0,0,0,0,0,,,,,,1,0,1
+1199535,2019/20,Namibia,5,N Davin,72e361fe,Janak Prakash,f092b4c7,JP Kotze,9f308dfc,0,0,0,0,1,N Davin,72e361fe,TH David,f1f99156,caught,0,0,0
+1199535,2019/20,Namibia,5,JP Kotze,9f308dfc,Janak Prakash,f092b4c7,CG Williams,e16e7347,0,0,0,0,0,,,,,,1,0,1
+1199535,2019/20,Namibia,5,CG Williams,e16e7347,Janak Prakash,f092b4c7,JP Kotze,9f308dfc,0,0,0,0,0,,,,,,0,0,0
+1199535,2019/20,Namibia,5,CG Williams,e16e7347,Janak Prakash,f092b4c7,JP Kotze,9f308dfc,0,0,0,0,0,,,,,,4,0,4
+1199535,2019/20,Namibia,6,JP Kotze,9f308dfc,Sidhant Singh,8f1e023f,CG Williams,e16e7347,0,0,0,0,0,,,,,,1,0,1
+1199535,2019/20,Namibia,6,CG Williams,e16e7347,Sidhant Singh,8f1e023f,JP Kotze,9f308dfc,0,0,0,0,0,,,,,,1,0,1
+1199535,2019/20,Namibia,6,JP Kotze,9f308dfc,Sidhant Singh,8f1e023f,CG Williams,e16e7347,0,0,0,0,0,,,,,,1,0,1
+1199535,2019/20,Namibia,6,CG Williams,e16e7347,Sidhant Singh,8f1e023f,JP Kotze,9f308dfc,0,0,0,0,1,CG Williams,e16e7347,V Baskaran,dd5a9067,caught,0,0,0
+1199535,2019/20,Namibia,6,MG Erasmus,95a5e066,Sidhant Singh,8f1e023f,JP Kotze,9f308dfc,0,0,0,0,0,,,,,,0,0,0
+1199535,2019/20,Namibia,6,MG Erasmus,95a5e066,Sidhant Singh,8f1e023f,JP Kotze,9f308dfc,0,0,0,0,0,,,,,,1,0,1
+1199535,2019/20,Namibia,7,MG Erasmus,95a5e066,V Baskaran,dd5a9067,JP Kotze,9f308dfc,0,0,0,0,0,,,,,,1,0,1
+1199535,2019/20,Namibia,7,JP Kotze,9f308dfc,V Baskaran,dd5a9067,MG Erasmus,95a5e066,0,0,0,0,0,,,,,,6,0,6
+1199535,2019/20,Namibia,7,JP Kotze,9f308dfc,V Baskaran,dd5a9067,MG Erasmus,95a5e066,0,0,0,1,0,,,,,,0,1,1
+1199535,2019/20,Namibia,7,MG Erasmus,95a5e066,V Baskaran,dd5a9067,JP Kotze,9f308dfc,0,0,0,0,0,,,,,,1,0,1
+1199535,2019/20,Namibia,7,JP Kotze,9f308dfc,V Baskaran,dd5a9067,MG Erasmus,95a5e066,0,0,0,0,0,,,,,,1,0,1
+1199535,2019/20,Namibia,7,MG Erasmus,95a5e066,V Baskaran,dd5a9067,JP Kotze,9f308dfc,0,0,0,0,0,,,,,,0,0,0
+1199535,2019/20,Namibia,8,JP Kotze,9f308dfc,Sidhant Singh,8f1e023f,MG Erasmus,95a5e066,0,0,0,0,0,,,,,,1,0,1
+1199535,2019/20,Namibia,8,MG Erasmus,95a5e066,Sidhant Singh,8f1e023f,JP Kotze,9f308dfc,0,0,0,0,0,,,,,,1,0,1
+1199535,2019/20,Namibia,8,JP Kotze,9f308dfc,Sidhant Singh,8f1e023f,MG Erasmus,95a5e066,0,0,0,0,0,,,,,,1,0,1
+1199535,2019/20,Namibia,8,MG Erasmus,95a5e066,Sidhant Singh,8f1e023f,JP Kotze,9f308dfc,0,0,0,0,0,,,,,,1,0,1
+1199535,2019/20,Namibia,8,JP Kotze,9f308dfc,Sidhant Singh,8f1e023f,MG Erasmus,95a5e066,0,0,0,0,0,,,,,,1,0,1
+1199535,2019/20,Namibia,8,MG Erasmus,95a5e066,Sidhant Singh,8f1e023f,JP Kotze,9f308dfc,0,0,0,0,0,,,,,,2,0,2
+1199535,2019/20,Namibia,9,JP Kotze,9f308dfc,NMS Param,270b4de6,MG Erasmus,95a5e066,0,0,0,0,0,,,,,,4,0,4
+1199535,2019/20,Namibia,9,JP Kotze,9f308dfc,NMS Param,270b4de6,MG Erasmus,95a5e066,0,0,0,0,0,,,,,,0,0,0
+1199535,2019/20,Namibia,9,JP Kotze,9f308dfc,NMS Param,270b4de6,MG Erasmus,95a5e066,0,0,0,0,0,,,,,,1,0,1
+1199535,2019/20,Namibia,9,MG Erasmus,95a5e066,NMS Param,270b4de6,JP Kotze,9f308dfc,0,0,1,0,0,,,,,,0,1,1
+1199535,2019/20,Namibia,9,JP Kotze,9f308dfc,NMS Param,270b4de6,MG Erasmus,95a5e066,0,0,0,0,0,,,,,,1,0,1
+1199535,2019/20,Namibia,9,MG Erasmus,95a5e066,NMS Param,270b4de6,JP Kotze,9f308dfc,0,0,0,0,0,,,,,,1,0,1
+1199535,2019/20,Namibia,10,MG Erasmus,95a5e066,Amjad Mahboob,48f25627,JP Kotze,9f308dfc,0,0,0,0,0,,,,,,0,0,0
+1199535,2019/20,Namibia,10,MG Erasmus,95a5e066,Amjad Mahboob,48f25627,JP Kotze,9f308dfc,0,0,0,0,0,,,,,,1,0,1
+1199535,2019/20,Namibia,10,JP Kotze,9f308dfc,Amjad Mahboob,48f25627,MG Erasmus,95a5e066,0,0,0,0,0,,,,,,1,0,1
+1199535,2019/20,Namibia,10,MG Erasmus,95a5e066,Amjad Mahboob,48f25627,JP Kotze,9f308dfc,0,0,0,0,0,,,,,,1,0,1
+1199535,2019/20,Namibia,10,JP Kotze,9f308dfc,Amjad Mahboob,48f25627,MG Erasmus,95a5e066,0,0,0,0,0,,,,,,6,0,6
+1199535,2019/20,Namibia,10,JP Kotze,9f308dfc,Amjad Mahboob,48f25627,MG Erasmus,95a5e066,0,0,0,0,0,,,,,,2,0,2
+1199535,2019/20,Namibia,11,MG Erasmus,95a5e066,TH David,f1f99156,JP Kotze,9f308dfc,0,0,0,0,0,,,,,,0,0,0
+1199535,2019/20,Namibia,11,MG Erasmus,95a5e066,TH David,f1f99156,JP Kotze,9f308dfc,0,0,0,0,0,,,,,,0,0,0
+1199535,2019/20,Namibia,11,MG Erasmus,95a5e066,TH David,f1f99156,JP Kotze,9f308dfc,0,0,0,0,0,,,,,,1,0,1
+1199535,2019/20,Namibia,11,JP Kotze,9f308dfc,TH David,f1f99156,MG Erasmus,95a5e066,0,0,0,0,0,,,,,,0,0,0
+1199535,2019/20,Namibia,11,JP Kotze,9f308dfc,TH David,f1f99156,MG Erasmus,95a5e066,0,0,0,0,0,,,,,,2,0,2
+1199535,2019/20,Namibia,11,JP Kotze,9f308dfc,TH David,f1f99156,MG Erasmus,95a5e066,0,0,0,0,0,,,,,,0,0,0
+1199535,2019/20,Namibia,12,MG Erasmus,95a5e066,Sidhant Singh,8f1e023f,JP Kotze,9f308dfc,0,0,0,0,0,,,,,,6,0,6
+1199535,2019/20,Namibia,12,MG Erasmus,95a5e066,Sidhant Singh,8f1e023f,JP Kotze,9f308dfc,0,0,0,0,0,,,,,,6,0,6
+1199535,2019/20,Namibia,12,MG Erasmus,95a5e066,Sidhant Singh,8f1e023f,JP Kotze,9f308dfc,0,0,0,0,0,,,,,,6,0,6
+1199535,2019/20,Namibia,12,MG Erasmus,95a5e066,Sidhant Singh,8f1e023f,JP Kotze,9f308dfc,0,0,0,0,0,,,,,,6,0,6
+1199535,2019/20,Namibia,12,MG Erasmus,95a5e066,Sidhant Singh,8f1e023f,JP Kotze,9f308dfc,0,0,0,0,0,,,,,,4,0,4
+1199535,2019/20,Namibia,12,MG Erasmus,95a5e066,Sidhant Singh,8f1e023f,JP Kotze,9f308dfc,0,0,0,0,0,,,,,,1,0,1
+1199535,2019/20,Namibia,13,MG Erasmus,95a5e066,TH David,f1f99156,JP Kotze,9f308dfc,0,0,0,0,0,,,,,,1,0,1
+1199535,2019/20,Namibia,13,JP Kotze,9f308dfc,TH David,f1f99156,MG Erasmus,95a5e066,0,0,0,0,1,JP Kotze,9f308dfc,S Chandramohan,2a6ccc1c,caught,0,0,0
+1199535,2019/20,Namibia,13,MG Erasmus,95a5e066,TH David,f1f99156,JJ Smit,bb134e5c,0,0,0,0,0,,,,,,1,0,1
+1199535,2019/20,Namibia,13,JJ Smit,bb134e5c,TH David,f1f99156,MG Erasmus,95a5e066,0,0,0,0,0,,,,,,1,0,1
+1199535,2019/20,Namibia,13,MG Erasmus,95a5e066,TH David,f1f99156,JJ Smit,bb134e5c,0,0,0,0,0,,,,,,1,0,1
+1199535,2019/20,Namibia,13,JJ Smit,bb134e5c,TH David,f1f99156,MG Erasmus,95a5e066,0,0,0,0,0,,,,,,1,0,1
+1199535,2019/20,Namibia,14,JJ Smit,bb134e5c,V Baskaran,dd5a9067,MG Erasmus,95a5e066,0,0,0,0,0,,,,,,1,0,1
+1199535,2019/20,Namibia,14,MG Erasmus,95a5e066,V Baskaran,dd5a9067,JJ Smit,bb134e5c,0,0,0,0,0,,,,,,0,0,0
+1199535,2019/20,Namibia,14,MG Erasmus,95a5e066,V Baskaran,dd5a9067,JJ Smit,bb134e5c,0,0,0,0,0,,,,,,4,0,4
+1199535,2019/20,Namibia,14,MG Erasmus,95a5e066,V Baskaran,dd5a9067,JJ Smit,bb134e5c,0,0,0,0,0,,,,,,1,0,1
+1199535,2019/20,Namibia,14,JJ Smit,bb134e5c,V Baskaran,dd5a9067,MG Erasmus,95a5e066,0,0,0,0,0,,,,,,4,0,4
+1199535,2019/20,Namibia,14,JJ Smit,bb134e5c,V Baskaran,dd5a9067,MG Erasmus,95a5e066,0,0,0,0,0,,,,,,0,0,0
+1199535,2019/20,Namibia,15,MG Erasmus,95a5e066,TH David,f1f99156,JJ Smit,bb134e5c,0,0,0,0,0,,,,,,4,0,4
+1199535,2019/20,Namibia,15,MG Erasmus,95a5e066,TH David,f1f99156,JJ Smit,bb134e5c,0,0,0,0,0,,,,,,0,0,0
+1199535,2019/20,Namibia,15,MG Erasmus,95a5e066,TH David,f1f99156,JJ Smit,bb134e5c,0,0,0,0,0,,,,,,2,0,2
+1199535,2019/20,Namibia,15,MG Erasmus,95a5e066,TH David,f1f99156,JJ Smit,bb134e5c,0,0,0,0,0,,,,,,0,0,0
+1199535,2019/20,Namibia,15,MG Erasmus,95a5e066,TH David,f1f99156,JJ Smit,bb134e5c,0,0,0,0,0,,,,,,1,0,1
+1199535,2019/20,Namibia,15,JJ Smit,bb134e5c,TH David,f1f99156,MG Erasmus,95a5e066,0,0,0,0,0,,,,,,3,0,3
+1199535,2019/20,Namibia,16,JJ Smit,bb134e5c,Janak Prakash,f092b4c7,MG Erasmus,95a5e066,0,0,0,0,0,,,,,,1,0,1
+1199535,2019/20,Namibia,16,MG Erasmus,95a5e066,Janak Prakash,f092b4c7,JJ Smit,bb134e5c,0,0,0,0,0,,,,,,1,0,1
+1199535,2019/20,Namibia,16,JJ Smit,bb134e5c,Janak Prakash,f092b4c7,MG Erasmus,95a5e066,0,0,0,0,0,,,,,,4,0,4
+1199535,2019/20,Namibia,16,JJ Smit,bb134e5c,Janak Prakash,f092b4c7,MG Erasmus,95a5e066,0,1,0,0,0,,,,,,2,1,3
+1199535,2019/20,Namibia,16,JJ Smit,bb134e5c,Janak Prakash,f092b4c7,MG Erasmus,95a5e066,0,0,0,0,0,,,,,,2,0,2
+1199535,2019/20,Namibia,16,JJ Smit,bb134e5c,Janak Prakash,f092b4c7,MG Erasmus,95a5e066,0,0,0,0,0,,,,,,1,0,1
+1199535,2019/20,Namibia,16,MG Erasmus,95a5e066,Janak Prakash,f092b4c7,JJ Smit,bb134e5c,0,0,0,0,0,,,,,,1,0,1
+1199535,2019/20,Namibia,17,MG Erasmus,95a5e066,U Aryaman Sunil,13bc54a8,JJ Smit,bb134e5c,0,0,0,0,0,,,,,,2,0,2
+1199535,2019/20,Namibia,17,MG Erasmus,95a5e066,U Aryaman Sunil,13bc54a8,JJ Smit,bb134e5c,0,0,0,0,0,,,,,,0,0,0
+1199535,2019/20,Namibia,17,MG Erasmus,95a5e066,U Aryaman Sunil,13bc54a8,JJ Smit,bb134e5c,0,0,0,0,0,,,,,,2,0,2
+1199535,2019/20,Namibia,17,MG Erasmus,95a5e066,U Aryaman Sunil,13bc54a8,JJ Smit,bb134e5c,0,0,0,0,0,,,,,,0,0,0
+1199535,2019/20,Namibia,17,MG Erasmus,95a5e066,U Aryaman Sunil,13bc54a8,JJ Smit,bb134e5c,0,0,0,0,0,,,,,,4,0,4
+1199535,2019/20,Namibia,17,MG Erasmus,95a5e066,U Aryaman Sunil,13bc54a8,JJ Smit,bb134e5c,0,0,0,0,0,,,,,,4,0,4
+1199535,2019/20,Namibia,18,JJ Smit,bb134e5c,Janak Prakash,f092b4c7,MG Erasmus,95a5e066,0,0,0,0,0,,,,,,4,0,4
+1199535,2019/20,Namibia,18,JJ Smit,bb134e5c,Janak Prakash,f092b4c7,MG Erasmus,95a5e066,0,0,0,0,1,JJ Smit,bb134e5c,,,caught and bowled,0,0,0
+1199535,2019/20,Namibia,18,MG Erasmus,95a5e066,Janak Prakash,f092b4c7,JN Frylinck,3c87f0c3,0,0,0,0,0,,,,,,2,0,2
+1199535,2019/20,Namibia,18,MG Erasmus,95a5e066,Janak Prakash,f092b4c7,JN Frylinck,3c87f0c3,0,0,0,0,0,,,,,,1,0,1
+1199535,2019/20,Namibia,18,JN Frylinck,3c87f0c3,Janak Prakash,f092b4c7,MG Erasmus,95a5e066,0,0,0,0,0,,,,,,0,0,0
+1199535,2019/20,Namibia,18,JN Frylinck,3c87f0c3,Janak Prakash,f092b4c7,MG Erasmus,95a5e066,1,0,0,0,0,,,,,,0,1,1
+1199535,2019/20,Namibia,18,JN Frylinck,3c87f0c3,Janak Prakash,f092b4c7,MG Erasmus,95a5e066,0,0,0,0,0,,,,,,2,0,2
+1199535,2019/20,Namibia,19,MG Erasmus,95a5e066,Amjad Mahboob,48f25627,JN Frylinck,3c87f0c3,0,0,0,0,0,,,,,,0,0,0
+1199535,2019/20,Namibia,19,MG Erasmus,95a5e066,Amjad Mahboob,48f25627,JN Frylinck,3c87f0c3,0,0,0,1,0,,,,,,0,1,1
+1199535,2019/20,Namibia,19,JN Frylinck,3c87f0c3,Amjad Mahboob,48f25627,MG Erasmus,95a5e066,0,0,0,0,1,JN Frylinck,3c87f0c3,U Aryaman Sunil,13bc54a8,caught,0,0,0
+1199535,2019/20,Namibia,19,MG Erasmus,95a5e066,Amjad Mahboob,48f25627,ZE Green,8716233e,0,0,0,0,1,MG Erasmus,95a5e066,TH David,f1f99156,caught,0,0,0
+1199535,2019/20,Namibia,19,ZE Green,8716233e,Amjad Mahboob,48f25627,C Viljoen,f7b2cbe8,0,0,0,0,0,,,,,,6,0,6
+1199535,2019/20,Namibia,19,ZE Green,8716233e,Amjad Mahboob,48f25627,C Viljoen,f7b2cbe8,0,0,0,0,1,ZE Green,8716233e,,,lbw,0,0,0
+1199535,2019/20,Singapore,0,TH David,f1f99156,JN Frylinck,3c87f0c3,S Chandramohan,2a6ccc1c,0,0,0,0,0,,,,,,1,0,1
+1199535,2019/20,Singapore,0,S Chandramohan,2a6ccc1c,JN Frylinck,3c87f0c3,TH David,f1f99156,0,0,0,0,1,S Chandramohan,2a6ccc1c,,,bowled,0,0,0
+1199535,2019/20,Singapore,0,U Aryaman Sunil,13bc54a8,JN Frylinck,3c87f0c3,TH David,f1f99156,0,0,0,0,0,,,,,,0,0,0
+1199535,2019/20,Singapore,0,U Aryaman Sunil,13bc54a8,JN Frylinck,3c87f0c3,TH David,f1f99156,0,0,0,0,0,,,,,,0,0,0
+1199535,2019/20,Singapore,0,U Aryaman Sunil,13bc54a8,JN Frylinck,3c87f0c3,TH David,f1f99156,0,0,0,0,0,,,,,,6,0,6
+1199535,2019/20,Singapore,0,U Aryaman Sunil,13bc54a8,JN Frylinck,3c87f0c3,TH David,f1f99156,0,0,0,0,1,U Aryaman Sunil,13bc54a8,JP Kotze,9f308dfc,caught,0,0,0
+1199535,2019/20,Singapore,1,Aritra Dutta,f3a5c378,C Viljoen,f7b2cbe8,TH David,f1f99156,0,0,0,0,0,,,,,,1,0,1
+1199535,2019/20,Singapore,1,TH David,f1f99156,C Viljoen,f7b2cbe8,Aritra Dutta,f3a5c378,0,0,0,0,0,,,,,,3,0,3
+1199535,2019/20,Singapore,1,Aritra Dutta,f3a5c378,C Viljoen,f7b2cbe8,TH David,f1f99156,0,0,0,0,0,,,,,,0,0,0
+1199535,2019/20,Singapore,1,Aritra Dutta,f3a5c378,C Viljoen,f7b2cbe8,TH David,f1f99156,0,0,0,0,1,Aritra Dutta,f3a5c378,JJ Smit,bb134e5c,caught,0,0,0
+1199535,2019/20,Singapore,1,R Rohan,baf0fc26,C Viljoen,f7b2cbe8,TH David,f1f99156,0,0,0,0,0,,,,,,1,0,1
+1199535,2019/20,Singapore,1,TH David,f1f99156,C Viljoen,f7b2cbe8,R Rohan,baf0fc26,0,0,0,0,0,,,,,,1,0,1
+1199535,2019/20,Singapore,2,TH David,f1f99156,JJ Smit,bb134e5c,R Rohan,baf0fc26,0,0,0,0,0,,,,,,1,0,1
+1199535,2019/20,Singapore,2,R Rohan,baf0fc26,JJ Smit,bb134e5c,TH David,f1f99156,0,0,0,0,0,,,,,,0,0,0
+1199535,2019/20,Singapore,2,R Rohan,baf0fc26,JJ Smit,bb134e5c,TH David,f1f99156,0,0,0,0,0,,,,,,0,0,0
+1199535,2019/20,Singapore,2,R Rohan,baf0fc26,JJ Smit,bb134e5c,TH David,f1f99156,1,0,0,0,0,,,,,,0,1,1
+1199535,2019/20,Singapore,2,R Rohan,baf0fc26,JJ Smit,bb134e5c,TH David,f1f99156,0,0,0,0,0,,,,,,1,0,1
+1199535,2019/20,Singapore,2,TH David,f1f99156,JJ Smit,bb134e5c,R Rohan,baf0fc26,0,0,0,0,0,,,,,,1,0,1
+1199535,2019/20,Singapore,2,R Rohan,baf0fc26,JJ Smit,bb134e5c,TH David,f1f99156,0,0,0,0,0,,,,,,0,0,0
+1199535,2019/20,Singapore,3,TH David,f1f99156,C Viljoen,f7b2cbe8,R Rohan,baf0fc26,0,0,0,0,0,,,,,,1,0,1
+1199535,2019/20,Singapore,3,R Rohan,baf0fc26,C Viljoen,f7b2cbe8,TH David,f1f99156,0,0,0,0,0,,,,,,0,0,0
+1199535,2019/20,Singapore,3,R Rohan,baf0fc26,C Viljoen,f7b2cbe8,TH David,f1f99156,0,0,0,0,0,,,,,,1,0,1
+1199535,2019/20,Singapore,3,TH David,f1f99156,C Viljoen,f7b2cbe8,R Rohan,baf0fc26,0,0,0,0,0,,,,,,1,0,1
+1199535,2019/20,Singapore,3,R Rohan,baf0fc26,C Viljoen,f7b2cbe8,TH David,f1f99156,0,0,0,0,0,,,,,,0,0,0
+1199535,2019/20,Singapore,3,R Rohan,baf0fc26,C Viljoen,f7b2cbe8,TH David,f1f99156,0,0,0,0,0,,,,,,1,0,1
+1199535,2019/20,Singapore,4,R Rohan,baf0fc26,JJ Smit,bb134e5c,TH David,f1f99156,0,0,0,0,0,,,,,,2,0,2
+1199535,2019/20,Singapore,4,R Rohan,baf0fc26,JJ Smit,bb134e5c,TH David,f1f99156,0,0,0,0,0,,,,,,2,0,2
+1199535,2019/20,Singapore,4,R Rohan,baf0fc26,JJ Smit,bb134e5c,TH David,f1f99156,1,0,0,0,0,,,,,,0,1,1
+1199535,2019/20,Singapore,4,R Rohan,baf0fc26,JJ Smit,bb134e5c,TH David,f1f99156,0,0,0,0,0,,,,,,0,0,0
+1199535,2019/20,Singapore,4,R Rohan,baf0fc26,JJ Smit,bb134e5c,TH David,f1f99156,0,0,0,0,0,,,,,,4,0,4
+1199535,2019/20,Singapore,4,R Rohan,baf0fc26,JJ Smit,bb134e5c,TH David,f1f99156,0,0,0,0,0,,,,,,4,0,4
+1199535,2019/20,Singapore,4,R Rohan,baf0fc26,JJ Smit,bb134e5c,TH David,f1f99156,0,0,0,0,1,R Rohan,baf0fc26,SJ Baard,e8511411,caught,0,0,0
+1199535,2019/20,Singapore,5,TH David,f1f99156,B Shikongo,c26cd57a,Manpreet Singh,e9d6a2ce,0,0,0,0,0,,,,,,2,0,2
+1199535,2019/20,Singapore,5,TH David,f1f99156,B Shikongo,c26cd57a,Manpreet Singh,e9d6a2ce,0,0,0,0,0,,,,,,1,0,1
+1199535,2019/20,Singapore,5,Manpreet Singh,e9d6a2ce,B Shikongo,c26cd57a,TH David,f1f99156,0,0,0,0,0,,,,,,1,0,1
+1199535,2019/20,Singapore,5,TH David,f1f99156,B Shikongo,c26cd57a,Manpreet Singh,e9d6a2ce,0,0,0,0,0,,,,,,4,0,4
+1199535,2019/20,Singapore,5,TH David,f1f99156,B Shikongo,c26cd57a,Manpreet Singh,e9d6a2ce,0,1,0,0,0,,,,,,0,1,1
+1199535,2019/20,Singapore,5,TH David,f1f99156,B Shikongo,c26cd57a,Manpreet Singh,e9d6a2ce,0,0,0,0,0,,,,,,1,0,1
+1199535,2019/20,Singapore,5,Manpreet Singh,e9d6a2ce,B Shikongo,c26cd57a,TH David,f1f99156,0,0,0,0,0,,,,,,1,0,1
+1199535,2019/20,Singapore,6,Manpreet Singh,e9d6a2ce,CG Williams,e16e7347,TH David,f1f99156,0,0,0,0,0,,,,,,1,0,1
+1199535,2019/20,Singapore,6,TH David,f1f99156,CG Williams,e16e7347,Manpreet Singh,e9d6a2ce,0,0,0,0,0,,,,,,0,0,0
+1199535,2019/20,Singapore,6,TH David,f1f99156,CG Williams,e16e7347,Manpreet Singh,e9d6a2ce,0,0,0,0,0,,,,,,1,0,1
+1199535,2019/20,Singapore,6,Manpreet Singh,e9d6a2ce,CG Williams,e16e7347,TH David,f1f99156,0,0,0,0,0,,,,,,0,0,0
+1199535,2019/20,Singapore,6,Manpreet Singh,e9d6a2ce,CG Williams,e16e7347,TH David,f1f99156,0,0,0,0,0,,,,,,0,0,0
+1199535,2019/20,Singapore,6,Manpreet Singh,e9d6a2ce,CG Williams,e16e7347,TH David,f1f99156,0,0,0,0,0,,,,,,0,0,0
+1199535,2019/20,Singapore,7,TH David,f1f99156,BM Scholtz,e85d03d6,Manpreet Singh,e9d6a2ce,0,0,0,0,0,,,,,,1,0,1
+1199535,2019/20,Singapore,7,Manpreet Singh,e9d6a2ce,BM Scholtz,e85d03d6,TH David,f1f99156,0,0,0,0,0,,,,,,1,0,1
+1199535,2019/20,Singapore,7,TH David,f1f99156,BM Scholtz,e85d03d6,Manpreet Singh,e9d6a2ce,0,0,0,0,1,TH David,f1f99156,ZE Green,8716233e,stumped,0,0,0
+1199535,2019/20,Singapore,7,NMS Param,270b4de6,BM Scholtz,e85d03d6,Manpreet Singh,e9d6a2ce,0,0,0,0,0,,,,,,1,0,1
+1199535,2019/20,Singapore,7,Manpreet Singh,e9d6a2ce,BM Scholtz,e85d03d6,NMS Param,270b4de6,0,0,0,0,0,,,,,,2,0,2
+1199535,2019/20,Singapore,7,Manpreet Singh,e9d6a2ce,BM Scholtz,e85d03d6,NMS Param,270b4de6,0,0,0,0,0,,,,,,0,0,0
+1199535,2019/20,Singapore,8,NMS Param,270b4de6,CG Williams,e16e7347,Manpreet Singh,e9d6a2ce,0,0,0,0,0,,,,,,0,0,0
+1199535,2019/20,Singapore,8,NMS Param,270b4de6,CG Williams,e16e7347,Manpreet Singh,e9d6a2ce,0,0,0,0,0,,,,,,1,0,1
+1199535,2019/20,Singapore,8,Manpreet Singh,e9d6a2ce,CG Williams,e16e7347,NMS Param,270b4de6,0,0,0,0,1,Manpreet Singh,e9d6a2ce,B Shikongo,c26cd57a,caught,0,0,0
+1199535,2019/20,Singapore,8,NMS Param,270b4de6,CG Williams,e16e7347,Janak Prakash,f092b4c7,0,0,0,0,0,,,,,,1,0,1
+1199535,2019/20,Singapore,8,Janak Prakash,f092b4c7,CG Williams,e16e7347,NMS Param,270b4de6,0,0,0,0,0,,,,,,0,0,0
+1199535,2019/20,Singapore,8,Janak Prakash,f092b4c7,CG Williams,e16e7347,NMS Param,270b4de6,0,0,0,0,0,,,,,,0,0,0
+1199535,2019/20,Singapore,9,NMS Param,270b4de6,BM Scholtz,e85d03d6,Janak Prakash,f092b4c7,0,0,0,0,0,,,,,,0,0,0
+1199535,2019/20,Singapore,9,NMS Param,270b4de6,BM Scholtz,e85d03d6,Janak Prakash,f092b4c7,0,0,0,0,0,,,,,,1,0,1
+1199535,2019/20,Singapore,9,Janak Prakash,f092b4c7,BM Scholtz,e85d03d6,NMS Param,270b4de6,0,0,0,0,0,,,,,,1,0,1
+1199535,2019/20,Singapore,9,NMS Param,270b4de6,BM Scholtz,e85d03d6,Janak Prakash,f092b4c7,0,0,0,0,0,,,,,,0,0,0
+1199535,2019/20,Singapore,9,NMS Param,270b4de6,BM Scholtz,e85d03d6,Janak Prakash,f092b4c7,0,0,0,0,0,,,,,,1,0,1
+1199535,2019/20,Singapore,9,Janak Prakash,f092b4c7,BM Scholtz,e85d03d6,NMS Param,270b4de6,0,0,0,0,0,,,,,,1,0,1
+1199535,2019/20,Singapore,10,Janak Prakash,f092b4c7,CG Williams,e16e7347,NMS Param,270b4de6,0,0,0,0,0,,,,,,2,0,2
+1199535,2019/20,Singapore,10,Janak Prakash,f092b4c7,CG Williams,e16e7347,NMS Param,270b4de6,0,0,0,0,0,,,,,,1,0,1
+1199535,2019/20,Singapore,10,NMS Param,270b4de6,CG Williams,e16e7347,Janak Prakash,f092b4c7,0,0,0,0,0,,,,,,0,0,0
+1199535,2019/20,Singapore,10,NMS Param,270b4de6,CG Williams,e16e7347,Janak Prakash,f092b4c7,0,0,0,0,0,,,,,,1,0,1
+1199535,2019/20,Singapore,10,Janak Prakash,f092b4c7,CG Williams,e16e7347,NMS Param,270b4de6,0,0,0,0,0,,,,,,2,0,2
+1199535,2019/20,Singapore,10,Janak Prakash,f092b4c7,CG Williams,e16e7347,NMS Param,270b4de6,0,0,0,0,0,,,,,,1,0,1
+1199535,2019/20,Singapore,11,Janak Prakash,f092b4c7,BM Scholtz,e85d03d6,NMS Param,270b4de6,0,0,0,0,0,,,,,,1,0,1
+1199535,2019/20,Singapore,11,NMS Param,270b4de6,BM Scholtz,e85d03d6,Janak Prakash,f092b4c7,0,0,0,0,0,,,,,,2,0,2
+1199535,2019/20,Singapore,11,NMS Param,270b4de6,BM Scholtz,e85d03d6,Janak Prakash,f092b4c7,0,0,0,0,0,,,,,,1,0,1
+1199535,2019/20,Singapore,11,Janak Prakash,f092b4c7,BM Scholtz,e85d03d6,NMS Param,270b4de6,0,0,0,0,0,,,,,,0,0,0
+1199535,2019/20,Singapore,11,Janak Prakash,f092b4c7,BM Scholtz,e85d03d6,NMS Param,270b4de6,0,0,0,0,0,,,,,,1,0,1
+1199535,2019/20,Singapore,11,NMS Param,270b4de6,BM Scholtz,e85d03d6,Janak Prakash,f092b4c7,0,0,0,0,0,,,,,,1,0,1
+1199535,2019/20,Singapore,12,NMS Param,270b4de6,JN Frylinck,3c87f0c3,Janak Prakash,f092b4c7,0,0,0,0,0,,,,,,1,0,1
+1199535,2019/20,Singapore,12,Janak Prakash,f092b4c7,JN Frylinck,3c87f0c3,NMS Param,270b4de6,0,0,0,0,1,Janak Prakash,f092b4c7,JP Kotze,9f308dfc,caught,0,0,0
+1199535,2019/20,Singapore,12,Sidhant Singh,8f1e023f,JN Frylinck,3c87f0c3,NMS Param,270b4de6,0,0,0,0,0,,,,,,2,0,2
+1199535,2019/20,Singapore,12,Sidhant Singh,8f1e023f,JN Frylinck,3c87f0c3,NMS Param,270b4de6,0,0,0,0,0,,,,,,1,0,1
+1199535,2019/20,Singapore,12,NMS Param,270b4de6,JN Frylinck,3c87f0c3,Sidhant Singh,8f1e023f,0,0,0,0,0,,,,,,1,0,1
+1199535,2019/20,Singapore,12,Sidhant Singh,8f1e023f,JN Frylinck,3c87f0c3,NMS Param,270b4de6,0,0,0,0,0,,,,,,0,0,0
+1199535,2019/20,Singapore,13,NMS Param,270b4de6,BM Scholtz,e85d03d6,Sidhant Singh,8f1e023f,0,0,0,0,0,,,,,,4,0,4
+1199535,2019/20,Singapore,13,NMS Param,270b4de6,BM Scholtz,e85d03d6,Sidhant Singh,8f1e023f,0,0,0,0,0,,,,,,1,0,1
+1199535,2019/20,Singapore,13,Sidhant Singh,8f1e023f,BM Scholtz,e85d03d6,NMS Param,270b4de6,0,0,0,0,0,,,,,,1,0,1
+1199535,2019/20,Singapore,13,NMS Param,270b4de6,BM Scholtz,e85d03d6,Sidhant Singh,8f1e023f,0,0,0,0,0,,,,,,1,0,1
+1199535,2019/20,Singapore,13,Sidhant Singh,8f1e023f,BM Scholtz,e85d03d6,NMS Param,270b4de6,0,0,0,0,0,,,,,,1,0,1
+1199535,2019/20,Singapore,13,NMS Param,270b4de6,BM Scholtz,e85d03d6,Sidhant Singh,8f1e023f,0,0,0,0,0,,,,,,2,0,2
+1199535,2019/20,Singapore,14,Sidhant Singh,8f1e023f,JN Frylinck,3c87f0c3,NMS Param,270b4de6,1,0,0,0,0,,,,,,0,1,1
+1199535,2019/20,Singapore,14,Sidhant Singh,8f1e023f,JN Frylinck,3c87f0c3,NMS Param,270b4de6,0,0,0,0,0,,,,,,0,0,0
+1199535,2019/20,Singapore,14,Sidhant Singh,8f1e023f,JN Frylinck,3c87f0c3,NMS Param,270b4de6,0,0,0,0,0,,,,,,1,0,1
+1199535,2019/20,Singapore,14,NMS Param,270b4de6,JN Frylinck,3c87f0c3,Sidhant Singh,8f1e023f,0,0,0,0,0,,,,,,1,0,1
+1199535,2019/20,Singapore,14,Sidhant Singh,8f1e023f,JN Frylinck,3c87f0c3,NMS Param,270b4de6,0,0,0,0,0,,,,,,0,0,0
+1199535,2019/20,Singapore,14,Sidhant Singh,8f1e023f,JN Frylinck,3c87f0c3,NMS Param,270b4de6,0,0,0,0,0,,,,,,6,0,6
+1199535,2019/20,Singapore,14,Sidhant Singh,8f1e023f,JN Frylinck,3c87f0c3,NMS Param,270b4de6,0,0,0,0,1,Sidhant Singh,8f1e023f,ZE Green,8716233e,caught,0,0,0
+1199535,2019/20,Singapore,15,NMS Param,270b4de6,C Viljoen,f7b2cbe8,V Baskaran,dd5a9067,0,0,0,0,0,,,,,,1,0,1
+1199535,2019/20,Singapore,15,V Baskaran,dd5a9067,C Viljoen,f7b2cbe8,NMS Param,270b4de6,0,0,0,0,1,V Baskaran,dd5a9067,ZE Green,8716233e,caught,0,0,0
+1199535,2019/20,Singapore,15,Amjad Mahboob,48f25627,C Viljoen,f7b2cbe8,NMS Param,270b4de6,0,0,0,0,0,,,,,,1,0,1
+1199535,2019/20,Singapore,15,NMS Param,270b4de6,C Viljoen,f7b2cbe8,Amjad Mahboob,48f25627,1,0,0,0,0,,,,,,0,1,1
+1199535,2019/20,Singapore,15,NMS Param,270b4de6,C Viljoen,f7b2cbe8,Amjad Mahboob,48f25627,0,0,0,0,0,,,,,,1,0,1
+1199535,2019/20,Singapore,15,Amjad Mahboob,48f25627,C Viljoen,f7b2cbe8,NMS Param,270b4de6,0,0,0,0,0,,,,,,0,0,0
+1199535,2019/20,Singapore,15,Amjad Mahboob,48f25627,C Viljoen,f7b2cbe8,NMS Param,270b4de6,0,0,0,0,0,,,,,,0,0,0
+1199535,2019/20,Singapore,16,NMS Param,270b4de6,JJ Smit,bb134e5c,Amjad Mahboob,48f25627,0,0,0,0,0,,,,,,0,0,0
+1199535,2019/20,Singapore,16,NMS Param,270b4de6,JJ Smit,bb134e5c,Amjad Mahboob,48f25627,0,0,0,0,0,,,,,,0,0,0
+1199535,2019/20,Singapore,16,NMS Param,270b4de6,JJ Smit,bb134e5c,Amjad Mahboob,48f25627,0,0,0,0,0,,,,,,4,0,4
+1199535,2019/20,Singapore,16,NMS Param,270b4de6,JJ Smit,bb134e5c,Amjad Mahboob,48f25627,0,0,0,0,0,,,,,,1,0,1
+1199535,2019/20,Singapore,16,Amjad Mahboob,48f25627,JJ Smit,bb134e5c,NMS Param,270b4de6,0,0,0,0,0,,,,,,0,0,0
+1199535,2019/20,Singapore,16,Amjad Mahboob,48f25627,JJ Smit,bb134e5c,NMS Param,270b4de6,0,0,0,0,0,,,,,,0,0,0
+1199535,2019/20,Singapore,17,NMS Param,270b4de6,C Viljoen,f7b2cbe8,Amjad Mahboob,48f25627,0,0,0,0,1,NMS Param,270b4de6,,,bowled,0,0,0

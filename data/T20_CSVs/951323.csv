@@ -1,0 +1,171 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+951323,2015/16,Hong Kong,0,JJ Atkinson,bf2d865c,MRJ Watt,1252f71a,RJ Campbell,f6993a56,0,0,0,0,0,,,,,,0,0,0
+951323,2015/16,Hong Kong,0,JJ Atkinson,bf2d865c,MRJ Watt,1252f71a,RJ Campbell,f6993a56,0,0,0,0,0,,,,,,0,0,0
+951323,2015/16,Hong Kong,0,JJ Atkinson,bf2d865c,MRJ Watt,1252f71a,RJ Campbell,f6993a56,0,0,0,0,0,,,,,,1,0,1
+951323,2015/16,Hong Kong,0,RJ Campbell,f6993a56,MRJ Watt,1252f71a,JJ Atkinson,bf2d865c,0,0,0,0,0,,,,,,0,0,0
+951323,2015/16,Hong Kong,0,RJ Campbell,f6993a56,MRJ Watt,1252f71a,JJ Atkinson,bf2d865c,0,0,0,0,0,,,,,,0,0,0
+951323,2015/16,Hong Kong,0,RJ Campbell,f6993a56,MRJ Watt,1252f71a,JJ Atkinson,bf2d865c,0,0,0,0,0,,,,,,0,0,0
+951323,2015/16,Hong Kong,1,JJ Atkinson,bf2d865c,JH Davey,d3868bd0,RJ Campbell,f6993a56,0,0,0,0,0,,,,,,0,0,0
+951323,2015/16,Hong Kong,1,JJ Atkinson,bf2d865c,JH Davey,d3868bd0,RJ Campbell,f6993a56,0,0,0,0,0,,,,,,0,0,0
+951323,2015/16,Hong Kong,1,JJ Atkinson,bf2d865c,JH Davey,d3868bd0,RJ Campbell,f6993a56,0,0,0,0,0,,,,,,0,0,0
+951323,2015/16,Hong Kong,1,JJ Atkinson,bf2d865c,JH Davey,d3868bd0,RJ Campbell,f6993a56,0,0,0,0,0,,,,,,4,0,4
+951323,2015/16,Hong Kong,1,JJ Atkinson,bf2d865c,JH Davey,d3868bd0,RJ Campbell,f6993a56,0,0,0,0,0,,,,,,4,0,4
+951323,2015/16,Hong Kong,1,JJ Atkinson,bf2d865c,JH Davey,d3868bd0,RJ Campbell,f6993a56,0,0,0,0,0,,,,,,0,0,0
+951323,2015/16,Hong Kong,2,RJ Campbell,f6993a56,GT Main,4ebc70ca,JJ Atkinson,bf2d865c,0,0,0,0,1,RJ Campbell,f6993a56,JH Davey,d3868bd0,caught,0,0,0
+951323,2015/16,Hong Kong,2,Babar Hayat,fbb657bb,GT Main,4ebc70ca,JJ Atkinson,bf2d865c,0,0,0,0,0,,,,,,4,0,4
+951323,2015/16,Hong Kong,2,Babar Hayat,fbb657bb,GT Main,4ebc70ca,JJ Atkinson,bf2d865c,1,0,0,0,0,,,,,,0,1,1
+951323,2015/16,Hong Kong,2,Babar Hayat,fbb657bb,GT Main,4ebc70ca,JJ Atkinson,bf2d865c,0,0,0,0,0,,,,,,0,0,0
+951323,2015/16,Hong Kong,2,Babar Hayat,fbb657bb,GT Main,4ebc70ca,JJ Atkinson,bf2d865c,0,0,0,0,0,,,,,,4,0,4
+951323,2015/16,Hong Kong,2,Babar Hayat,fbb657bb,GT Main,4ebc70ca,JJ Atkinson,bf2d865c,0,0,0,0,0,,,,,,4,0,4
+951323,2015/16,Hong Kong,2,Babar Hayat,fbb657bb,GT Main,4ebc70ca,JJ Atkinson,bf2d865c,0,0,0,0,0,,,,,,0,0,0
+951323,2015/16,Hong Kong,3,JJ Atkinson,bf2d865c,RML Taylor,7fa2ab1f,Babar Hayat,fbb657bb,0,0,0,0,0,,,,,,1,0,1
+951323,2015/16,Hong Kong,3,Babar Hayat,fbb657bb,RML Taylor,7fa2ab1f,JJ Atkinson,bf2d865c,0,0,0,0,0,,,,,,0,0,0
+951323,2015/16,Hong Kong,3,Babar Hayat,fbb657bb,RML Taylor,7fa2ab1f,JJ Atkinson,bf2d865c,0,0,0,0,0,,,,,,1,0,1
+951323,2015/16,Hong Kong,3,JJ Atkinson,bf2d865c,RML Taylor,7fa2ab1f,Babar Hayat,fbb657bb,0,0,0,0,0,,,,,,0,0,0
+951323,2015/16,Hong Kong,3,JJ Atkinson,bf2d865c,RML Taylor,7fa2ab1f,Babar Hayat,fbb657bb,0,0,0,0,0,,,,,,0,0,0
+951323,2015/16,Hong Kong,3,JJ Atkinson,bf2d865c,RML Taylor,7fa2ab1f,Babar Hayat,fbb657bb,0,0,0,0,0,,,,,,1,0,1
+951323,2015/16,Hong Kong,4,JJ Atkinson,bf2d865c,MRJ Watt,1252f71a,Babar Hayat,fbb657bb,0,0,0,0,0,,,,,,0,0,0
+951323,2015/16,Hong Kong,4,JJ Atkinson,bf2d865c,MRJ Watt,1252f71a,Babar Hayat,fbb657bb,0,0,0,0,0,,,,,,1,0,1
+951323,2015/16,Hong Kong,4,Babar Hayat,fbb657bb,MRJ Watt,1252f71a,JJ Atkinson,bf2d865c,0,0,0,0,0,,,,,,1,0,1
+951323,2015/16,Hong Kong,4,JJ Atkinson,bf2d865c,MRJ Watt,1252f71a,Babar Hayat,fbb657bb,0,0,1,0,0,,,,,,0,1,1
+951323,2015/16,Hong Kong,4,Babar Hayat,fbb657bb,MRJ Watt,1252f71a,JJ Atkinson,bf2d865c,0,0,0,0,0,,,,,,1,0,1
+951323,2015/16,Hong Kong,4,JJ Atkinson,bf2d865c,MRJ Watt,1252f71a,Babar Hayat,fbb657bb,0,0,0,0,0,,,,,,1,0,1
+951323,2015/16,Hong Kong,5,JJ Atkinson,bf2d865c,JH Davey,d3868bd0,Babar Hayat,fbb657bb,0,0,0,0,0,,,,,,0,0,0
+951323,2015/16,Hong Kong,5,JJ Atkinson,bf2d865c,JH Davey,d3868bd0,Babar Hayat,fbb657bb,1,0,0,0,0,,,,,,0,1,1
+951323,2015/16,Hong Kong,5,JJ Atkinson,bf2d865c,JH Davey,d3868bd0,Babar Hayat,fbb657bb,0,0,0,0,1,JJ Atkinson,bf2d865c,,,caught and bowled,0,0,0
+951323,2015/16,Hong Kong,5,MS Chapman,7fa12533,JH Davey,d3868bd0,Babar Hayat,fbb657bb,0,0,0,0,0,,,,,,0,0,0
+951323,2015/16,Hong Kong,5,MS Chapman,7fa12533,JH Davey,d3868bd0,Babar Hayat,fbb657bb,0,0,0,0,0,,,,,,0,0,0
+951323,2015/16,Hong Kong,5,MS Chapman,7fa12533,JH Davey,d3868bd0,Babar Hayat,fbb657bb,0,0,0,0,0,,,,,,0,0,0
+951323,2015/16,Hong Kong,5,MS Chapman,7fa12533,JH Davey,d3868bd0,Babar Hayat,fbb657bb,0,0,0,0,0,,,,,,1,0,1
+951323,2015/16,Hong Kong,6,MS Chapman,7fa12533,CD de Lange,e6d298e8,Babar Hayat,fbb657bb,0,0,0,0,0,,,,,,1,0,1
+951323,2015/16,Hong Kong,6,Babar Hayat,fbb657bb,CD de Lange,e6d298e8,MS Chapman,7fa12533,0,0,0,0,1,Babar Hayat,fbb657bb,CS MacLeod,9c376401,caught,0,0,0
+951323,2015/16,Hong Kong,6,MS Chapman,7fa12533,CD de Lange,e6d298e8,Anshuman Rath,552b228c,0,0,0,0,0,,,,,,0,0,0
+951323,2015/16,Hong Kong,6,MS Chapman,7fa12533,CD de Lange,e6d298e8,Anshuman Rath,552b228c,0,0,0,0,0,,,,,,0,0,0
+951323,2015/16,Hong Kong,6,MS Chapman,7fa12533,CD de Lange,e6d298e8,Anshuman Rath,552b228c,0,0,0,0,0,,,,,,0,0,0
+951323,2015/16,Hong Kong,6,MS Chapman,7fa12533,CD de Lange,e6d298e8,Anshuman Rath,552b228c,0,0,0,0,0,,,,,,0,0,0
+951323,2015/16,Hong Kong,7,Anshuman Rath,552b228c,RD Berrington,e21bc7f3,MS Chapman,7fa12533,0,0,0,0,0,,,,,,1,0,1
+951323,2015/16,Hong Kong,7,MS Chapman,7fa12533,RD Berrington,e21bc7f3,Anshuman Rath,552b228c,0,0,0,0,0,,,,,,0,0,0
+951323,2015/16,Hong Kong,7,MS Chapman,7fa12533,RD Berrington,e21bc7f3,Anshuman Rath,552b228c,0,0,0,0,0,,,,,,0,0,0
+951323,2015/16,Hong Kong,7,MS Chapman,7fa12533,RD Berrington,e21bc7f3,Anshuman Rath,552b228c,0,0,0,0,0,,,,,,2,0,2
+951323,2015/16,Hong Kong,7,MS Chapman,7fa12533,RD Berrington,e21bc7f3,Anshuman Rath,552b228c,0,0,0,0,0,,,,,,1,0,1
+951323,2015/16,Hong Kong,7,Anshuman Rath,552b228c,RD Berrington,e21bc7f3,MS Chapman,7fa12533,0,0,0,0,0,,,,,,1,0,1
+951323,2015/16,Hong Kong,8,Anshuman Rath,552b228c,CD de Lange,e6d298e8,MS Chapman,7fa12533,0,0,0,0,0,,,,,,1,0,1
+951323,2015/16,Hong Kong,8,MS Chapman,7fa12533,CD de Lange,e6d298e8,Anshuman Rath,552b228c,0,0,0,0,0,,,,,,1,0,1
+951323,2015/16,Hong Kong,8,Anshuman Rath,552b228c,CD de Lange,e6d298e8,MS Chapman,7fa12533,0,0,0,0,0,,,,,,0,0,0
+951323,2015/16,Hong Kong,8,Anshuman Rath,552b228c,CD de Lange,e6d298e8,MS Chapman,7fa12533,0,0,0,0,0,,,,,,3,0,3
+951323,2015/16,Hong Kong,8,MS Chapman,7fa12533,CD de Lange,e6d298e8,Anshuman Rath,552b228c,0,0,0,0,0,,,,,,1,0,1
+951323,2015/16,Hong Kong,8,Anshuman Rath,552b228c,CD de Lange,e6d298e8,MS Chapman,7fa12533,0,0,0,0,0,,,,,,1,0,1
+951323,2015/16,Hong Kong,9,Anshuman Rath,552b228c,MW Machan,8c7d6cbe,MS Chapman,7fa12533,0,0,0,0,0,,,,,,1,0,1
+951323,2015/16,Hong Kong,9,MS Chapman,7fa12533,MW Machan,8c7d6cbe,Anshuman Rath,552b228c,0,0,0,0,0,,,,,,2,0,2
+951323,2015/16,Hong Kong,9,MS Chapman,7fa12533,MW Machan,8c7d6cbe,Anshuman Rath,552b228c,0,0,0,0,0,,,,,,1,0,1
+951323,2015/16,Hong Kong,9,Anshuman Rath,552b228c,MW Machan,8c7d6cbe,MS Chapman,7fa12533,0,0,0,0,0,,,,,,1,0,1
+951323,2015/16,Hong Kong,9,MS Chapman,7fa12533,MW Machan,8c7d6cbe,Anshuman Rath,552b228c,0,0,0,0,0,,,,,,1,0,1
+951323,2015/16,Hong Kong,9,Anshuman Rath,552b228c,MW Machan,8c7d6cbe,MS Chapman,7fa12533,0,0,0,0,0,,,,,,0,0,0
+951323,2015/16,Hong Kong,10,MS Chapman,7fa12533,MRJ Watt,1252f71a,Anshuman Rath,552b228c,0,0,1,0,0,,,,,,0,1,1
+951323,2015/16,Hong Kong,10,Anshuman Rath,552b228c,MRJ Watt,1252f71a,MS Chapman,7fa12533,0,0,0,0,0,,,,,,1,0,1
+951323,2015/16,Hong Kong,10,MS Chapman,7fa12533,MRJ Watt,1252f71a,Anshuman Rath,552b228c,0,0,0,0,0,,,,,,0,0,0
+951323,2015/16,Hong Kong,10,MS Chapman,7fa12533,MRJ Watt,1252f71a,Anshuman Rath,552b228c,0,0,0,0,0,,,,,,6,0,6
+951323,2015/16,Hong Kong,10,MS Chapman,7fa12533,MRJ Watt,1252f71a,Anshuman Rath,552b228c,0,0,0,0,0,,,,,,1,0,1
+951323,2015/16,Hong Kong,10,Anshuman Rath,552b228c,MRJ Watt,1252f71a,MS Chapman,7fa12533,0,0,0,0,0,,,,,,1,0,1
+951323,2015/16,Hong Kong,11,Anshuman Rath,552b228c,RD Berrington,e21bc7f3,MS Chapman,7fa12533,0,0,0,0,0,,,,,,1,0,1
+951323,2015/16,Hong Kong,11,MS Chapman,7fa12533,RD Berrington,e21bc7f3,Anshuman Rath,552b228c,0,0,0,0,0,,,,,,0,0,0
+951323,2015/16,Hong Kong,11,MS Chapman,7fa12533,RD Berrington,e21bc7f3,Anshuman Rath,552b228c,0,0,0,0,0,,,,,,1,0,1
+951323,2015/16,Hong Kong,11,Anshuman Rath,552b228c,RD Berrington,e21bc7f3,MS Chapman,7fa12533,0,0,0,0,0,,,,,,1,0,1
+951323,2015/16,Hong Kong,11,MS Chapman,7fa12533,RD Berrington,e21bc7f3,Anshuman Rath,552b228c,0,0,0,0,0,,,,,,1,0,1
+951323,2015/16,Hong Kong,11,Anshuman Rath,552b228c,RD Berrington,e21bc7f3,MS Chapman,7fa12533,0,0,1,0,0,,,,,,0,1,1
+951323,2015/16,Hong Kong,12,Anshuman Rath,552b228c,RML Taylor,7fa2ab1f,MS Chapman,7fa12533,0,0,0,0,0,,,,,,2,0,2
+951323,2015/16,Hong Kong,12,Anshuman Rath,552b228c,RML Taylor,7fa2ab1f,MS Chapman,7fa12533,0,0,0,0,0,,,,,,1,0,1
+951323,2015/16,Hong Kong,12,MS Chapman,7fa12533,RML Taylor,7fa2ab1f,Anshuman Rath,552b228c,0,0,0,0,0,,,,,,4,0,4
+951323,2015/16,Hong Kong,12,MS Chapman,7fa12533,RML Taylor,7fa2ab1f,Anshuman Rath,552b228c,0,0,0,0,0,,,,,,0,0,0
+951323,2015/16,Hong Kong,12,MS Chapman,7fa12533,RML Taylor,7fa2ab1f,Anshuman Rath,552b228c,0,0,0,0,0,,,,,,1,0,1
+951323,2015/16,Hong Kong,12,Anshuman Rath,552b228c,RML Taylor,7fa2ab1f,MS Chapman,7fa12533,0,0,0,0,0,,,,,,1,0,1
+951323,2015/16,Hong Kong,13,Anshuman Rath,552b228c,CD de Lange,e6d298e8,MS Chapman,7fa12533,0,0,0,0,0,,,,,,1,0,1
+951323,2015/16,Hong Kong,13,MS Chapman,7fa12533,CD de Lange,e6d298e8,Anshuman Rath,552b228c,0,0,0,0,0,,,,,,1,0,1
+951323,2015/16,Hong Kong,13,Anshuman Rath,552b228c,CD de Lange,e6d298e8,MS Chapman,7fa12533,0,0,0,0,0,,,,,,1,0,1
+951323,2015/16,Hong Kong,13,MS Chapman,7fa12533,CD de Lange,e6d298e8,Anshuman Rath,552b228c,0,0,0,0,0,,,,,,1,0,1
+951323,2015/16,Hong Kong,13,Anshuman Rath,552b228c,CD de Lange,e6d298e8,MS Chapman,7fa12533,0,0,0,0,0,,,,,,0,0,0
+951323,2015/16,Hong Kong,13,Anshuman Rath,552b228c,CD de Lange,e6d298e8,MS Chapman,7fa12533,0,0,0,0,0,,,,,,1,0,1
+951323,2015/16,Hong Kong,14,Anshuman Rath,552b228c,MW Machan,8c7d6cbe,MS Chapman,7fa12533,0,0,0,0,0,,,,,,1,0,1
+951323,2015/16,Hong Kong,14,MS Chapman,7fa12533,MW Machan,8c7d6cbe,Anshuman Rath,552b228c,0,0,0,0,0,,,,,,1,0,1
+951323,2015/16,Hong Kong,14,Anshuman Rath,552b228c,MW Machan,8c7d6cbe,MS Chapman,7fa12533,0,0,0,0,1,Anshuman Rath,552b228c,MH Cross,8b261d84,stumped,0,0,0
+951323,2015/16,Hong Kong,14,Tanwir Afzal,5f5ca1a7,MW Machan,8c7d6cbe,MS Chapman,7fa12533,0,0,0,0,0,,,,,,0,0,0
+951323,2015/16,Hong Kong,14,Tanwir Afzal,5f5ca1a7,MW Machan,8c7d6cbe,MS Chapman,7fa12533,0,0,0,0,0,,,,,,0,0,0
+951323,2015/16,Hong Kong,14,Tanwir Afzal,5f5ca1a7,MW Machan,8c7d6cbe,MS Chapman,7fa12533,0,0,0,0,0,,,,,,0,0,0
+951323,2015/16,Hong Kong,15,MS Chapman,7fa12533,CD de Lange,e6d298e8,Tanwir Afzal,5f5ca1a7,0,0,0,0,0,,,,,,1,0,1
+951323,2015/16,Hong Kong,15,Tanwir Afzal,5f5ca1a7,CD de Lange,e6d298e8,MS Chapman,7fa12533,0,0,0,0,1,Tanwir Afzal,5f5ca1a7,GT Main,4ebc70ca,run out,0,0,0
+951323,2015/16,Hong Kong,15,Nizakat Khan,e3eb9e46,CD de Lange,e6d298e8,MS Chapman,7fa12533,0,0,0,0,0,,,,,,1,0,1
+951323,2015/16,Hong Kong,15,MS Chapman,7fa12533,CD de Lange,e6d298e8,Nizakat Khan,e3eb9e46,0,0,0,0,0,,,,,,2,0,2
+951323,2015/16,Hong Kong,15,MS Chapman,7fa12533,CD de Lange,e6d298e8,Nizakat Khan,e3eb9e46,0,0,0,0,0,,,,,,2,0,2
+951323,2015/16,Hong Kong,15,MS Chapman,7fa12533,CD de Lange,e6d298e8,Nizakat Khan,e3eb9e46,0,0,0,0,0,,,,,,0,0,0
+951323,2015/16,Hong Kong,16,Nizakat Khan,e3eb9e46,MW Machan,8c7d6cbe,MS Chapman,7fa12533,0,0,0,0,0,,,,,,0,0,0
+951323,2015/16,Hong Kong,16,Nizakat Khan,e3eb9e46,MW Machan,8c7d6cbe,MS Chapman,7fa12533,0,0,0,0,0,,,,,,0,0,0
+951323,2015/16,Hong Kong,16,Nizakat Khan,e3eb9e46,MW Machan,8c7d6cbe,MS Chapman,7fa12533,0,0,0,0,0,,,,,,1,0,1
+951323,2015/16,Hong Kong,16,MS Chapman,7fa12533,MW Machan,8c7d6cbe,Nizakat Khan,e3eb9e46,0,0,0,0,0,,,,,,1,0,1
+951323,2015/16,Hong Kong,16,Nizakat Khan,e3eb9e46,MW Machan,8c7d6cbe,MS Chapman,7fa12533,0,0,0,0,0,,,,,,1,0,1
+951323,2015/16,Hong Kong,16,MS Chapman,7fa12533,MW Machan,8c7d6cbe,Nizakat Khan,e3eb9e46,0,0,0,0,0,,,,,,1,0,1
+951323,2015/16,Hong Kong,17,MS Chapman,7fa12533,MRJ Watt,1252f71a,Nizakat Khan,e3eb9e46,0,0,0,0,0,,,,,,2,0,2
+951323,2015/16,Hong Kong,17,MS Chapman,7fa12533,MRJ Watt,1252f71a,Nizakat Khan,e3eb9e46,0,0,0,0,0,,,,,,2,0,2
+951323,2015/16,Hong Kong,17,MS Chapman,7fa12533,MRJ Watt,1252f71a,Nizakat Khan,e3eb9e46,0,0,0,0,0,,,,,,1,0,1
+951323,2015/16,Hong Kong,17,Nizakat Khan,e3eb9e46,MRJ Watt,1252f71a,MS Chapman,7fa12533,0,0,0,0,0,,,,,,1,0,1
+951323,2015/16,Hong Kong,17,MS Chapman,7fa12533,MRJ Watt,1252f71a,Nizakat Khan,e3eb9e46,0,0,0,0,1,MS Chapman,7fa12533,KJ Coetzer,85d8110a,caught,0,0,0
+951323,2015/16,Hong Kong,17,Nizakat Khan,e3eb9e46,MRJ Watt,1252f71a,KD Shah,d5ae21a2,0,0,0,0,0,,,,,,1,0,1
+951323,2015/16,Hong Kong,18,Nizakat Khan,e3eb9e46,MW Machan,8c7d6cbe,KD Shah,d5ae21a2,0,0,0,0,0,,,,,,6,0,6
+951323,2015/16,Hong Kong,18,Nizakat Khan,e3eb9e46,MW Machan,8c7d6cbe,KD Shah,d5ae21a2,0,0,0,0,0,,,,,,6,0,6
+951323,2015/16,Hong Kong,18,Nizakat Khan,e3eb9e46,MW Machan,8c7d6cbe,KD Shah,d5ae21a2,0,0,0,0,1,Nizakat Khan,e3eb9e46,GT Main,4ebc70ca,caught,0,0,0
+951323,2015/16,Hong Kong,18,Aizaz Khan,f6c2659d,MW Machan,8c7d6cbe,KD Shah,d5ae21a2,0,0,0,0,0,,,,,,1,0,1
+951323,2015/16,Hong Kong,18,KD Shah,d5ae21a2,MW Machan,8c7d6cbe,Aizaz Khan,f6c2659d,0,0,0,0,0,,,,,,0,0,0
+951323,2015/16,Hong Kong,18,KD Shah,d5ae21a2,MW Machan,8c7d6cbe,Aizaz Khan,f6c2659d,0,0,0,0,0,,,,,,1,0,1
+951323,2015/16,Hong Kong,19,KD Shah,d5ae21a2,JH Davey,d3868bd0,Aizaz Khan,f6c2659d,0,0,1,0,0,,,,,,0,1,1
+951323,2015/16,Hong Kong,19,Aizaz Khan,f6c2659d,JH Davey,d3868bd0,KD Shah,d5ae21a2,0,0,0,0,0,,,,,,2,0,2
+951323,2015/16,Hong Kong,19,Aizaz Khan,f6c2659d,JH Davey,d3868bd0,KD Shah,d5ae21a2,0,0,0,0,0,,,,,,4,0,4
+951323,2015/16,Hong Kong,19,Aizaz Khan,f6c2659d,JH Davey,d3868bd0,KD Shah,d5ae21a2,0,0,0,1,0,,,,,,0,1,1
+951323,2015/16,Hong Kong,19,KD Shah,d5ae21a2,JH Davey,d3868bd0,Aizaz Khan,f6c2659d,0,0,0,0,0,,,,,,4,0,4
+951323,2015/16,Hong Kong,19,KD Shah,d5ae21a2,JH Davey,d3868bd0,Aizaz Khan,f6c2659d,0,0,0,0,0,,,,,,2,0,2
+951323,2015/16,Scotland,0,HG Munsey,ff014c34,RJ Campbell,f6993a56,KJ Coetzer,85d8110a,0,0,0,0,0,,,,,,0,0,0
+951323,2015/16,Scotland,0,HG Munsey,ff014c34,RJ Campbell,f6993a56,KJ Coetzer,85d8110a,0,0,0,0,0,,,,,,0,0,0
+951323,2015/16,Scotland,0,HG Munsey,ff014c34,RJ Campbell,f6993a56,KJ Coetzer,85d8110a,0,0,0,0,0,,,,,,0,0,0
+951323,2015/16,Scotland,0,HG Munsey,ff014c34,RJ Campbell,f6993a56,KJ Coetzer,85d8110a,0,0,0,0,0,,,,,,4,0,4
+951323,2015/16,Scotland,0,HG Munsey,ff014c34,RJ Campbell,f6993a56,KJ Coetzer,85d8110a,0,0,0,0,0,,,,,,0,0,0
+951323,2015/16,Scotland,0,HG Munsey,ff014c34,RJ Campbell,f6993a56,KJ Coetzer,85d8110a,0,0,0,0,0,,,,,,4,0,4
+951323,2015/16,Scotland,1,KJ Coetzer,85d8110a,Tanwir Afzal,5f5ca1a7,HG Munsey,ff014c34,0,0,0,0,0,,,,,,0,0,0
+951323,2015/16,Scotland,1,KJ Coetzer,85d8110a,Tanwir Afzal,5f5ca1a7,HG Munsey,ff014c34,0,0,0,0,0,,,,,,1,0,1
+951323,2015/16,Scotland,1,HG Munsey,ff014c34,Tanwir Afzal,5f5ca1a7,KJ Coetzer,85d8110a,0,0,0,0,0,,,,,,4,0,4
+951323,2015/16,Scotland,1,HG Munsey,ff014c34,Tanwir Afzal,5f5ca1a7,KJ Coetzer,85d8110a,0,0,0,0,0,,,,,,0,0,0
+951323,2015/16,Scotland,1,HG Munsey,ff014c34,Tanwir Afzal,5f5ca1a7,KJ Coetzer,85d8110a,0,0,0,0,0,,,,,,4,0,4
+951323,2015/16,Scotland,1,HG Munsey,ff014c34,Tanwir Afzal,5f5ca1a7,KJ Coetzer,85d8110a,0,0,0,0,0,,,,,,3,0,3
+951323,2015/16,Scotland,2,HG Munsey,ff014c34,Nadeem Ahmed,023f6b02,KJ Coetzer,85d8110a,0,0,0,0,1,HG Munsey,ff014c34,RJ Campbell,f6993a56,caught,0,0,0
+951323,2015/16,Scotland,2,MH Cross,8b261d84,Nadeem Ahmed,023f6b02,KJ Coetzer,85d8110a,0,0,0,0,0,,,,,,0,0,0
+951323,2015/16,Scotland,2,MH Cross,8b261d84,Nadeem Ahmed,023f6b02,KJ Coetzer,85d8110a,0,0,0,0,0,,,,,,1,0,1
+951323,2015/16,Scotland,2,KJ Coetzer,85d8110a,Nadeem Ahmed,023f6b02,MH Cross,8b261d84,0,0,0,0,0,,,,,,4,0,4
+951323,2015/16,Scotland,2,KJ Coetzer,85d8110a,Nadeem Ahmed,023f6b02,MH Cross,8b261d84,0,0,0,0,0,,,,,,4,0,4
+951323,2015/16,Scotland,2,KJ Coetzer,85d8110a,Nadeem Ahmed,023f6b02,MH Cross,8b261d84,0,0,0,0,0,,,,,,0,0,0
+951323,2015/16,Scotland,3,MH Cross,8b261d84,MS Chapman,7fa12533,KJ Coetzer,85d8110a,0,0,0,0,0,,,,,,0,0,0
+951323,2015/16,Scotland,3,MH Cross,8b261d84,MS Chapman,7fa12533,KJ Coetzer,85d8110a,0,0,0,0,0,,,,,,2,0,2
+951323,2015/16,Scotland,3,MH Cross,8b261d84,MS Chapman,7fa12533,KJ Coetzer,85d8110a,0,0,0,0,0,,,,,,1,0,1
+951323,2015/16,Scotland,3,KJ Coetzer,85d8110a,MS Chapman,7fa12533,MH Cross,8b261d84,0,0,0,0,0,,,,,,1,0,1
+951323,2015/16,Scotland,3,MH Cross,8b261d84,MS Chapman,7fa12533,KJ Coetzer,85d8110a,0,0,0,0,0,,,,,,1,0,1
+951323,2015/16,Scotland,3,KJ Coetzer,85d8110a,MS Chapman,7fa12533,MH Cross,8b261d84,0,0,0,0,0,,,,,,0,0,0
+951323,2015/16,Scotland,4,MH Cross,8b261d84,RJ Campbell,f6993a56,KJ Coetzer,85d8110a,0,0,1,0,0,,,,,,0,1,1
+951323,2015/16,Scotland,4,KJ Coetzer,85d8110a,RJ Campbell,f6993a56,MH Cross,8b261d84,0,0,0,0,0,,,,,,0,0,0
+951323,2015/16,Scotland,4,KJ Coetzer,85d8110a,RJ Campbell,f6993a56,MH Cross,8b261d84,0,0,0,1,0,,,,,,0,1,1
+951323,2015/16,Scotland,4,MH Cross,8b261d84,RJ Campbell,f6993a56,KJ Coetzer,85d8110a,0,0,0,0,0,,,,,,0,0,0
+951323,2015/16,Scotland,4,MH Cross,8b261d84,RJ Campbell,f6993a56,KJ Coetzer,85d8110a,0,0,0,0,0,,,,,,0,0,0
+951323,2015/16,Scotland,4,MH Cross,8b261d84,RJ Campbell,f6993a56,KJ Coetzer,85d8110a,0,0,0,0,0,,,,,,6,0,6
+951323,2015/16,Scotland,5,KJ Coetzer,85d8110a,MS Chapman,7fa12533,MH Cross,8b261d84,0,0,0,0,0,,,,,,2,0,2
+951323,2015/16,Scotland,5,KJ Coetzer,85d8110a,MS Chapman,7fa12533,MH Cross,8b261d84,0,0,0,0,0,,,,,,0,0,0
+951323,2015/16,Scotland,5,KJ Coetzer,85d8110a,MS Chapman,7fa12533,MH Cross,8b261d84,0,0,0,0,0,,,,,,1,0,1
+951323,2015/16,Scotland,5,MH Cross,8b261d84,MS Chapman,7fa12533,KJ Coetzer,85d8110a,0,0,0,0,0,,,,,,4,0,4
+951323,2015/16,Scotland,5,MH Cross,8b261d84,MS Chapman,7fa12533,KJ Coetzer,85d8110a,0,0,0,0,0,,,,,,6,0,6
+951323,2015/16,Scotland,5,MH Cross,8b261d84,MS Chapman,7fa12533,KJ Coetzer,85d8110a,0,0,0,0,0,,,,,,1,0,1
+951323,2015/16,Scotland,6,MH Cross,8b261d84,Aizaz Khan,f6c2659d,KJ Coetzer,85d8110a,0,0,0,0,1,MH Cross,8b261d84,Nizakat Khan,e3eb9e46,caught,0,0,0
+951323,2015/16,Scotland,6,KJ Coetzer,85d8110a,Aizaz Khan,f6c2659d,MW Machan,8c7d6cbe,0,0,0,0,0,,,,,,1,0,1
+951323,2015/16,Scotland,6,MW Machan,8c7d6cbe,Aizaz Khan,f6c2659d,KJ Coetzer,85d8110a,0,0,0,0,0,,,,,,4,0,4
+951323,2015/16,Scotland,6,MW Machan,8c7d6cbe,Aizaz Khan,f6c2659d,KJ Coetzer,85d8110a,0,0,0,0,0,,,,,,4,0,4
+951323,2015/16,Scotland,6,MW Machan,8c7d6cbe,Aizaz Khan,f6c2659d,KJ Coetzer,85d8110a,0,0,0,0,0,,,,,,1,0,1
+951323,2015/16,Scotland,6,KJ Coetzer,85d8110a,Aizaz Khan,f6c2659d,MW Machan,8c7d6cbe,0,0,0,0,0,,,,,,1,0,1
+951323,2015/16,Scotland,7,KJ Coetzer,85d8110a,Nadeem Ahmed,023f6b02,MW Machan,8c7d6cbe,0,0,0,0,0,,,,,,2,0,2
+951323,2015/16,Scotland,7,KJ Coetzer,85d8110a,Nadeem Ahmed,023f6b02,MW Machan,8c7d6cbe,0,0,0,0,0,,,,,,0,0,0
+951323,2015/16,Scotland,7,KJ Coetzer,85d8110a,Nadeem Ahmed,023f6b02,MW Machan,8c7d6cbe,0,0,0,0,0,,,,,,0,0,0
+951323,2015/16,Scotland,7,KJ Coetzer,85d8110a,Nadeem Ahmed,023f6b02,MW Machan,8c7d6cbe,0,0,0,0,0,,,,,,2,0,2
+951323,2015/16,Scotland,7,KJ Coetzer,85d8110a,Nadeem Ahmed,023f6b02,MW Machan,8c7d6cbe,0,0,0,0,0,,,,,,1,0,1
+951323,2015/16,Scotland,7,MW Machan,8c7d6cbe,Nadeem Ahmed,023f6b02,KJ Coetzer,85d8110a,0,0,0,0,0,,,,,,6,0,6

@@ -1,0 +1,242 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1243021,2020/21,South Africa,0,JN Malan,f76d7466,Shaheen Shah Afridi,45a7e761,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,2,0,2
+1243021,2020/21,South Africa,0,JN Malan,f76d7466,Shaheen Shah Afridi,45a7e761,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,0,0,0
+1243021,2020/21,South Africa,0,JN Malan,f76d7466,Shaheen Shah Afridi,45a7e761,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,4,0,4
+1243021,2020/21,South Africa,0,JN Malan,f76d7466,Shaheen Shah Afridi,45a7e761,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,1,0,1
+1243021,2020/21,South Africa,0,RR Hendricks,b8cc58c9,Shaheen Shah Afridi,45a7e761,JN Malan,f76d7466,0,0,0,0,0,,,,,,0,0,0
+1243021,2020/21,South Africa,0,RR Hendricks,b8cc58c9,Shaheen Shah Afridi,45a7e761,JN Malan,f76d7466,0,0,0,0,0,,,,,,1,0,1
+1243021,2020/21,South Africa,1,RR Hendricks,b8cc58c9,Mohammad Nawaz (3),3086f7a4,JN Malan,f76d7466,0,0,0,0,0,,,,,,0,0,0
+1243021,2020/21,South Africa,1,RR Hendricks,b8cc58c9,Mohammad Nawaz (3),3086f7a4,JN Malan,f76d7466,0,0,0,0,0,,,,,,1,0,1
+1243021,2020/21,South Africa,1,JN Malan,f76d7466,Mohammad Nawaz (3),3086f7a4,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,0,0,0
+1243021,2020/21,South Africa,1,JN Malan,f76d7466,Mohammad Nawaz (3),3086f7a4,RR Hendricks,b8cc58c9,0,0,0,0,0,,,,,,1,0,1
+1243021,2020/21,South Africa,1,RR Hendricks,b8cc58c9,Mohammad Nawaz (3),3086f7a4,JN Malan,f76d7466,0,0,0,0,1,RR Hendricks,b8cc58c9,,,bowled,0,0,0
+1243021,2020/21,South Africa,1,JT Smuts,42172c3c,Mohammad Nawaz (3),3086f7a4,JN Malan,f76d7466,0,0,0,0,0,,,,,,0,0,0
+1243021,2020/21,South Africa,2,JN Malan,f76d7466,Shaheen Shah Afridi,45a7e761,JT Smuts,42172c3c,0,0,0,0,0,,,,,,1,0,1
+1243021,2020/21,South Africa,2,JT Smuts,42172c3c,Shaheen Shah Afridi,45a7e761,JN Malan,f76d7466,0,0,0,0,0,,,,,,0,0,0
+1243021,2020/21,South Africa,2,JT Smuts,42172c3c,Shaheen Shah Afridi,45a7e761,JN Malan,f76d7466,0,0,0,0,0,,,,,,0,0,0
+1243021,2020/21,South Africa,2,JT Smuts,42172c3c,Shaheen Shah Afridi,45a7e761,JN Malan,f76d7466,0,0,0,0,0,,,,,,1,0,1
+1243021,2020/21,South Africa,2,JN Malan,f76d7466,Shaheen Shah Afridi,45a7e761,JT Smuts,42172c3c,0,0,0,0,0,,,,,,0,0,0
+1243021,2020/21,South Africa,2,JN Malan,f76d7466,Shaheen Shah Afridi,45a7e761,JT Smuts,42172c3c,0,0,0,0,0,,,,,,1,0,1
+1243021,2020/21,South Africa,3,JN Malan,f76d7466,Mohammad Nawaz (3),3086f7a4,JT Smuts,42172c3c,0,0,0,0,0,,,,,,4,0,4
+1243021,2020/21,South Africa,3,JN Malan,f76d7466,Mohammad Nawaz (3),3086f7a4,JT Smuts,42172c3c,0,0,0,0,0,,,,,,0,0,0
+1243021,2020/21,South Africa,3,JN Malan,f76d7466,Mohammad Nawaz (3),3086f7a4,JT Smuts,42172c3c,0,0,0,0,0,,,,,,6,0,6
+1243021,2020/21,South Africa,3,JN Malan,f76d7466,Mohammad Nawaz (3),3086f7a4,JT Smuts,42172c3c,0,0,0,0,0,,,,,,1,0,1
+1243021,2020/21,South Africa,3,JT Smuts,42172c3c,Mohammad Nawaz (3),3086f7a4,JN Malan,f76d7466,0,0,0,0,0,,,,,,0,0,0
+1243021,2020/21,South Africa,3,JT Smuts,42172c3c,Mohammad Nawaz (3),3086f7a4,JN Malan,f76d7466,0,0,0,0,1,JT Smuts,42172c3c,Babar Azam,8a75e999,caught,0,0,0
+1243021,2020/21,South Africa,4,PJ van Biljon,4025c262,Faheem Ashraf,bd4ea627,JN Malan,f76d7466,0,0,0,0,0,,,,,,0,0,0
+1243021,2020/21,South Africa,4,PJ van Biljon,4025c262,Faheem Ashraf,bd4ea627,JN Malan,f76d7466,0,0,0,0,0,,,,,,0,0,0
+1243021,2020/21,South Africa,4,PJ van Biljon,4025c262,Faheem Ashraf,bd4ea627,JN Malan,f76d7466,0,0,0,0,0,,,,,,0,0,0
+1243021,2020/21,South Africa,4,PJ van Biljon,4025c262,Faheem Ashraf,bd4ea627,JN Malan,f76d7466,0,0,0,0,0,,,,,,0,0,0
+1243021,2020/21,South Africa,4,PJ van Biljon,4025c262,Faheem Ashraf,bd4ea627,JN Malan,f76d7466,0,0,0,0,0,,,,,,4,0,4
+1243021,2020/21,South Africa,4,PJ van Biljon,4025c262,Faheem Ashraf,bd4ea627,JN Malan,f76d7466,0,0,0,0,0,,,,,,0,0,0
+1243021,2020/21,South Africa,5,JN Malan,f76d7466,Hasan Ali,2911de16,PJ van Biljon,4025c262,0,0,0,0,0,,,,,,1,0,1
+1243021,2020/21,South Africa,5,PJ van Biljon,4025c262,Hasan Ali,2911de16,JN Malan,f76d7466,0,0,0,0,0,,,,,,0,0,0
+1243021,2020/21,South Africa,5,PJ van Biljon,4025c262,Hasan Ali,2911de16,JN Malan,f76d7466,0,0,0,0,0,,,,,,4,0,4
+1243021,2020/21,South Africa,5,PJ van Biljon,4025c262,Hasan Ali,2911de16,JN Malan,f76d7466,0,0,0,0,0,,,,,,4,0,4
+1243021,2020/21,South Africa,5,PJ van Biljon,4025c262,Hasan Ali,2911de16,JN Malan,f76d7466,0,0,0,0,0,,,,,,4,0,4
+1243021,2020/21,South Africa,5,PJ van Biljon,4025c262,Hasan Ali,2911de16,JN Malan,f76d7466,0,0,0,0,1,PJ van Biljon,4025c262,,,bowled,0,0,0
+1243021,2020/21,South Africa,6,JN Malan,f76d7466,Zahid Mahmood,ba158afd,H Klaasen,235c2bb6,0,0,0,0,0,,,,,,4,0,4
+1243021,2020/21,South Africa,6,JN Malan,f76d7466,Zahid Mahmood,ba158afd,H Klaasen,235c2bb6,0,0,0,0,0,,,,,,1,0,1
+1243021,2020/21,South Africa,6,H Klaasen,235c2bb6,Zahid Mahmood,ba158afd,JN Malan,f76d7466,0,0,0,0,1,H Klaasen,235c2bb6,Usman Qadir,33742f04,caught,0,0,0
+1243021,2020/21,South Africa,6,JN Malan,f76d7466,Zahid Mahmood,ba158afd,DA Miller,d67d5f00,0,0,0,0,1,JN Malan,f76d7466,,,lbw,0,0,0
+1243021,2020/21,South Africa,6,AL Phehlukwayo,ab6b1c45,Zahid Mahmood,ba158afd,DA Miller,d67d5f00,1,0,0,0,0,,,,,,0,1,1
+1243021,2020/21,South Africa,6,AL Phehlukwayo,ab6b1c45,Zahid Mahmood,ba158afd,DA Miller,d67d5f00,0,0,0,0,0,,,,,,0,0,0
+1243021,2020/21,South Africa,6,AL Phehlukwayo,ab6b1c45,Zahid Mahmood,ba158afd,DA Miller,d67d5f00,0,0,0,0,0,,,,,,0,0,0
+1243021,2020/21,South Africa,7,DA Miller,d67d5f00,Usman Qadir,33742f04,AL Phehlukwayo,ab6b1c45,0,0,0,0,0,,,,,,1,0,1
+1243021,2020/21,South Africa,7,AL Phehlukwayo,ab6b1c45,Usman Qadir,33742f04,DA Miller,d67d5f00,0,0,0,0,1,AL Phehlukwayo,ab6b1c45,Asif Ali,0a4736eb,caught,0,0,0
+1243021,2020/21,South Africa,7,D Pretorius,11614d87,Usman Qadir,33742f04,DA Miller,d67d5f00,0,0,0,0,0,,,,,,0,0,0
+1243021,2020/21,South Africa,7,D Pretorius,11614d87,Usman Qadir,33742f04,DA Miller,d67d5f00,0,0,0,0,0,,,,,,0,0,0
+1243021,2020/21,South Africa,7,D Pretorius,11614d87,Usman Qadir,33742f04,DA Miller,d67d5f00,0,0,0,0,0,,,,,,0,0,0
+1243021,2020/21,South Africa,7,D Pretorius,11614d87,Usman Qadir,33742f04,DA Miller,d67d5f00,0,0,0,0,0,,,,,,1,0,1
+1243021,2020/21,South Africa,8,D Pretorius,11614d87,Zahid Mahmood,ba158afd,DA Miller,d67d5f00,0,0,0,0,0,,,,,,1,0,1
+1243021,2020/21,South Africa,8,DA Miller,d67d5f00,Zahid Mahmood,ba158afd,D Pretorius,11614d87,0,0,0,0,0,,,,,,0,0,0
+1243021,2020/21,South Africa,8,DA Miller,d67d5f00,Zahid Mahmood,ba158afd,D Pretorius,11614d87,0,0,0,0,0,,,,,,1,0,1
+1243021,2020/21,South Africa,8,D Pretorius,11614d87,Zahid Mahmood,ba158afd,DA Miller,d67d5f00,0,0,0,0,0,,,,,,0,0,0
+1243021,2020/21,South Africa,8,D Pretorius,11614d87,Zahid Mahmood,ba158afd,DA Miller,d67d5f00,0,0,0,0,0,,,,,,0,0,0
+1243021,2020/21,South Africa,8,D Pretorius,11614d87,Zahid Mahmood,ba158afd,DA Miller,d67d5f00,0,0,0,0,0,,,,,,6,0,6
+1243021,2020/21,South Africa,9,DA Miller,d67d5f00,Usman Qadir,33742f04,D Pretorius,11614d87,0,0,0,0,0,,,,,,4,0,4
+1243021,2020/21,South Africa,9,DA Miller,d67d5f00,Usman Qadir,33742f04,D Pretorius,11614d87,0,0,0,0,0,,,,,,0,0,0
+1243021,2020/21,South Africa,9,DA Miller,d67d5f00,Usman Qadir,33742f04,D Pretorius,11614d87,0,0,0,0,0,,,,,,0,0,0
+1243021,2020/21,South Africa,9,DA Miller,d67d5f00,Usman Qadir,33742f04,D Pretorius,11614d87,0,0,0,0,0,,,,,,0,0,0
+1243021,2020/21,South Africa,9,DA Miller,d67d5f00,Usman Qadir,33742f04,D Pretorius,11614d87,0,0,0,0,0,,,,,,0,0,0
+1243021,2020/21,South Africa,9,DA Miller,d67d5f00,Usman Qadir,33742f04,D Pretorius,11614d87,0,0,0,0,0,,,,,,0,0,0
+1243021,2020/21,South Africa,10,D Pretorius,11614d87,Zahid Mahmood,ba158afd,DA Miller,d67d5f00,0,0,0,0,0,,,,,,1,0,1
+1243021,2020/21,South Africa,10,DA Miller,d67d5f00,Zahid Mahmood,ba158afd,D Pretorius,11614d87,0,0,0,0,0,,,,,,2,0,2
+1243021,2020/21,South Africa,10,DA Miller,d67d5f00,Zahid Mahmood,ba158afd,D Pretorius,11614d87,0,0,0,0,0,,,,,,1,0,1
+1243021,2020/21,South Africa,10,D Pretorius,11614d87,Zahid Mahmood,ba158afd,DA Miller,d67d5f00,0,0,0,0,1,D Pretorius,11614d87,,,bowled,0,0,0
+1243021,2020/21,South Africa,10,BC Fortuin,9a2fc964,Zahid Mahmood,ba158afd,DA Miller,d67d5f00,0,0,0,0,0,,,,,,4,0,4
+1243021,2020/21,South Africa,10,BC Fortuin,9a2fc964,Zahid Mahmood,ba158afd,DA Miller,d67d5f00,0,0,0,0,0,,,,,,1,0,1
+1243021,2020/21,South Africa,11,BC Fortuin,9a2fc964,Usman Qadir,33742f04,DA Miller,d67d5f00,0,0,0,0,0,,,,,,0,0,0
+1243021,2020/21,South Africa,11,BC Fortuin,9a2fc964,Usman Qadir,33742f04,DA Miller,d67d5f00,0,0,0,0,0,,,,,,1,0,1
+1243021,2020/21,South Africa,11,DA Miller,d67d5f00,Usman Qadir,33742f04,BC Fortuin,9a2fc964,0,0,0,0,0,,,,,,4,0,4
+1243021,2020/21,South Africa,11,DA Miller,d67d5f00,Usman Qadir,33742f04,BC Fortuin,9a2fc964,0,0,0,0,0,,,,,,0,0,0
+1243021,2020/21,South Africa,11,DA Miller,d67d5f00,Usman Qadir,33742f04,BC Fortuin,9a2fc964,0,0,0,0,0,,,,,,0,0,0
+1243021,2020/21,South Africa,11,DA Miller,d67d5f00,Usman Qadir,33742f04,BC Fortuin,9a2fc964,0,0,0,0,0,,,,,,1,0,1
+1243021,2020/21,South Africa,12,DA Miller,d67d5f00,Zahid Mahmood,ba158afd,BC Fortuin,9a2fc964,0,0,0,0,0,,,,,,6,0,6
+1243021,2020/21,South Africa,12,DA Miller,d67d5f00,Zahid Mahmood,ba158afd,BC Fortuin,9a2fc964,0,0,0,0,0,,,,,,1,0,1
+1243021,2020/21,South Africa,12,BC Fortuin,9a2fc964,Zahid Mahmood,ba158afd,DA Miller,d67d5f00,0,0,0,0,0,,,,,,1,0,1
+1243021,2020/21,South Africa,12,DA Miller,d67d5f00,Zahid Mahmood,ba158afd,BC Fortuin,9a2fc964,0,0,0,0,0,,,,,,2,0,2
+1243021,2020/21,South Africa,12,DA Miller,d67d5f00,Zahid Mahmood,ba158afd,BC Fortuin,9a2fc964,0,0,0,0,0,,,,,,6,0,6
+1243021,2020/21,South Africa,12,DA Miller,d67d5f00,Zahid Mahmood,ba158afd,BC Fortuin,9a2fc964,0,0,0,0,0,,,,,,1,0,1
+1243021,2020/21,South Africa,13,DA Miller,d67d5f00,Hasan Ali,2911de16,BC Fortuin,9a2fc964,0,0,0,0,0,,,,,,2,0,2
+1243021,2020/21,South Africa,13,DA Miller,d67d5f00,Hasan Ali,2911de16,BC Fortuin,9a2fc964,0,0,1,0,0,,,,,,0,1,1
+1243021,2020/21,South Africa,13,BC Fortuin,9a2fc964,Hasan Ali,2911de16,DA Miller,d67d5f00,0,0,0,0,0,,,,,,0,0,0
+1243021,2020/21,South Africa,13,BC Fortuin,9a2fc964,Hasan Ali,2911de16,DA Miller,d67d5f00,0,0,0,0,0,,,,,,0,0,0
+1243021,2020/21,South Africa,13,BC Fortuin,9a2fc964,Hasan Ali,2911de16,DA Miller,d67d5f00,0,0,1,0,0,,,,,,0,1,1
+1243021,2020/21,South Africa,13,DA Miller,d67d5f00,Hasan Ali,2911de16,BC Fortuin,9a2fc964,0,0,0,0,0,,,,,,0,0,0
+1243021,2020/21,South Africa,14,BC Fortuin,9a2fc964,Faheem Ashraf,bd4ea627,DA Miller,d67d5f00,0,0,0,0,0,,,,,,1,0,1
+1243021,2020/21,South Africa,14,DA Miller,d67d5f00,Faheem Ashraf,bd4ea627,BC Fortuin,9a2fc964,0,0,0,0,0,,,,,,4,0,4
+1243021,2020/21,South Africa,14,DA Miller,d67d5f00,Faheem Ashraf,bd4ea627,BC Fortuin,9a2fc964,0,0,0,0,0,,,,,,1,0,1
+1243021,2020/21,South Africa,14,BC Fortuin,9a2fc964,Faheem Ashraf,bd4ea627,DA Miller,d67d5f00,0,0,0,0,0,,,,,,1,0,1
+1243021,2020/21,South Africa,14,DA Miller,d67d5f00,Faheem Ashraf,bd4ea627,BC Fortuin,9a2fc964,0,0,0,0,0,,,,,,1,0,1
+1243021,2020/21,South Africa,14,BC Fortuin,9a2fc964,Faheem Ashraf,bd4ea627,DA Miller,d67d5f00,0,0,0,0,0,,,,,,1,0,1
+1243021,2020/21,South Africa,15,BC Fortuin,9a2fc964,Hasan Ali,2911de16,DA Miller,d67d5f00,0,0,0,0,1,BC Fortuin,9a2fc964,,,bowled,0,0,0
+1243021,2020/21,South Africa,15,L Sipamla,f892fcf9,Hasan Ali,2911de16,DA Miller,d67d5f00,0,0,0,0,0,,,,,,1,0,1
+1243021,2020/21,South Africa,15,DA Miller,d67d5f00,Hasan Ali,2911de16,L Sipamla,f892fcf9,0,0,0,0,0,,,,,,1,0,1
+1243021,2020/21,South Africa,15,L Sipamla,f892fcf9,Hasan Ali,2911de16,DA Miller,d67d5f00,0,0,0,0,0,,,,,,1,0,1
+1243021,2020/21,South Africa,15,DA Miller,d67d5f00,Hasan Ali,2911de16,L Sipamla,f892fcf9,0,0,0,0,0,,,,,,1,0,1
+1243021,2020/21,South Africa,15,L Sipamla,f892fcf9,Hasan Ali,2911de16,DA Miller,d67d5f00,0,0,0,0,0,,,,,,0,0,0
+1243021,2020/21,South Africa,16,DA Miller,d67d5f00,Shaheen Shah Afridi,45a7e761,L Sipamla,f892fcf9,0,0,0,0,0,,,,,,4,0,4
+1243021,2020/21,South Africa,16,DA Miller,d67d5f00,Shaheen Shah Afridi,45a7e761,L Sipamla,f892fcf9,0,0,0,0,0,,,,,,4,0,4
+1243021,2020/21,South Africa,16,DA Miller,d67d5f00,Shaheen Shah Afridi,45a7e761,L Sipamla,f892fcf9,0,0,0,0,0,,,,,,2,0,2
+1243021,2020/21,South Africa,16,DA Miller,d67d5f00,Shaheen Shah Afridi,45a7e761,L Sipamla,f892fcf9,0,0,0,0,0,,,,,,1,0,1
+1243021,2020/21,South Africa,16,L Sipamla,f892fcf9,Shaheen Shah Afridi,45a7e761,DA Miller,d67d5f00,0,0,0,0,0,,,,,,1,0,1
+1243021,2020/21,South Africa,16,DA Miller,d67d5f00,Shaheen Shah Afridi,45a7e761,L Sipamla,f892fcf9,0,0,0,0,0,,,,,,1,0,1
+1243021,2020/21,South Africa,17,DA Miller,d67d5f00,Hasan Ali,2911de16,L Sipamla,f892fcf9,0,0,0,0,0,,,,,,1,0,1
+1243021,2020/21,South Africa,17,L Sipamla,f892fcf9,Hasan Ali,2911de16,DA Miller,d67d5f00,0,0,0,0,0,,,,,,0,0,0
+1243021,2020/21,South Africa,17,L Sipamla,f892fcf9,Hasan Ali,2911de16,DA Miller,d67d5f00,0,0,0,0,0,,,,,,1,0,1
+1243021,2020/21,South Africa,17,DA Miller,d67d5f00,Hasan Ali,2911de16,L Sipamla,f892fcf9,0,0,0,0,0,,,,,,6,0,6
+1243021,2020/21,South Africa,17,DA Miller,d67d5f00,Hasan Ali,2911de16,L Sipamla,f892fcf9,0,0,0,0,0,,,,,,2,0,2
+1243021,2020/21,South Africa,17,DA Miller,d67d5f00,Hasan Ali,2911de16,L Sipamla,f892fcf9,0,0,0,0,0,,,,,,0,0,0
+1243021,2020/21,South Africa,18,L Sipamla,f892fcf9,Shaheen Shah Afridi,45a7e761,DA Miller,d67d5f00,0,0,0,0,0,,,,,,0,0,0
+1243021,2020/21,South Africa,18,L Sipamla,f892fcf9,Shaheen Shah Afridi,45a7e761,DA Miller,d67d5f00,0,0,0,0,0,,,,,,0,0,0
+1243021,2020/21,South Africa,18,L Sipamla,f892fcf9,Shaheen Shah Afridi,45a7e761,DA Miller,d67d5f00,0,0,0,0,0,,,,,,4,0,4
+1243021,2020/21,South Africa,18,L Sipamla,f892fcf9,Shaheen Shah Afridi,45a7e761,DA Miller,d67d5f00,0,0,1,0,0,,,,,,0,1,1
+1243021,2020/21,South Africa,18,DA Miller,d67d5f00,Shaheen Shah Afridi,45a7e761,L Sipamla,f892fcf9,0,0,0,0,0,,,,,,0,0,0
+1243021,2020/21,South Africa,18,DA Miller,d67d5f00,Shaheen Shah Afridi,45a7e761,L Sipamla,f892fcf9,0,0,1,0,0,,,,,,0,1,1
+1243021,2020/21,South Africa,19,DA Miller,d67d5f00,Faheem Ashraf,bd4ea627,L Sipamla,f892fcf9,0,0,0,0,0,,,,,,6,0,6
+1243021,2020/21,South Africa,19,DA Miller,d67d5f00,Faheem Ashraf,bd4ea627,L Sipamla,f892fcf9,1,0,0,0,0,,,,,,0,1,1
+1243021,2020/21,South Africa,19,DA Miller,d67d5f00,Faheem Ashraf,bd4ea627,L Sipamla,f892fcf9,0,0,0,0,0,,,,,,6,0,6
+1243021,2020/21,South Africa,19,DA Miller,d67d5f00,Faheem Ashraf,bd4ea627,L Sipamla,f892fcf9,0,0,0,0,0,,,,,,0,0,0
+1243021,2020/21,South Africa,19,DA Miller,d67d5f00,Faheem Ashraf,bd4ea627,L Sipamla,f892fcf9,0,0,0,0,0,,,,,,6,0,6
+1243021,2020/21,South Africa,19,DA Miller,d67d5f00,Faheem Ashraf,bd4ea627,L Sipamla,f892fcf9,0,0,0,0,0,,,,,,0,0,0
+1243021,2020/21,South Africa,19,DA Miller,d67d5f00,Faheem Ashraf,bd4ea627,L Sipamla,f892fcf9,0,0,0,0,0,,,,,,6,0,6
+1243021,2020/21,Pakistan,0,Mohammad Rizwan,2f26ac1a,BC Fortuin,9a2fc964,Haider Ali,c13e34f4,0,0,0,0,0,,,,,,0,0,0
+1243021,2020/21,Pakistan,0,Mohammad Rizwan,2f26ac1a,BC Fortuin,9a2fc964,Haider Ali,c13e34f4,0,0,0,0,0,,,,,,0,0,0
+1243021,2020/21,Pakistan,0,Mohammad Rizwan,2f26ac1a,BC Fortuin,9a2fc964,Haider Ali,c13e34f4,0,0,0,0,0,,,,,,0,0,0
+1243021,2020/21,Pakistan,0,Mohammad Rizwan,2f26ac1a,BC Fortuin,9a2fc964,Haider Ali,c13e34f4,0,0,0,0,0,,,,,,4,0,4
+1243021,2020/21,Pakistan,0,Mohammad Rizwan,2f26ac1a,BC Fortuin,9a2fc964,Haider Ali,c13e34f4,0,0,0,0,0,,,,,,0,0,0
+1243021,2020/21,Pakistan,0,Mohammad Rizwan,2f26ac1a,BC Fortuin,9a2fc964,Haider Ali,c13e34f4,0,0,0,0,0,,,,,,1,0,1
+1243021,2020/21,Pakistan,1,Mohammad Rizwan,2f26ac1a,D Pretorius,11614d87,Haider Ali,c13e34f4,0,0,0,0,0,,,,,,4,0,4
+1243021,2020/21,Pakistan,1,Mohammad Rizwan,2f26ac1a,D Pretorius,11614d87,Haider Ali,c13e34f4,0,0,0,0,0,,,,,,4,0,4
+1243021,2020/21,Pakistan,1,Mohammad Rizwan,2f26ac1a,D Pretorius,11614d87,Haider Ali,c13e34f4,0,0,0,0,0,,,,,,1,0,1
+1243021,2020/21,Pakistan,1,Haider Ali,c13e34f4,D Pretorius,11614d87,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,0,0,0
+1243021,2020/21,Pakistan,1,Haider Ali,c13e34f4,D Pretorius,11614d87,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,0,0,0
+1243021,2020/21,Pakistan,1,Haider Ali,c13e34f4,D Pretorius,11614d87,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,0,0,0
+1243021,2020/21,Pakistan,2,Mohammad Rizwan,2f26ac1a,JT Smuts,42172c3c,Haider Ali,c13e34f4,0,0,0,0,0,,,,,,0,0,0
+1243021,2020/21,Pakistan,2,Mohammad Rizwan,2f26ac1a,JT Smuts,42172c3c,Haider Ali,c13e34f4,0,0,0,0,0,,,,,,0,0,0
+1243021,2020/21,Pakistan,2,Mohammad Rizwan,2f26ac1a,JT Smuts,42172c3c,Haider Ali,c13e34f4,0,0,0,0,0,,,,,,0,0,0
+1243021,2020/21,Pakistan,2,Mohammad Rizwan,2f26ac1a,JT Smuts,42172c3c,Haider Ali,c13e34f4,0,0,0,0,0,,,,,,6,0,6
+1243021,2020/21,Pakistan,2,Mohammad Rizwan,2f26ac1a,JT Smuts,42172c3c,Haider Ali,c13e34f4,0,0,0,0,0,,,,,,1,0,1
+1243021,2020/21,Pakistan,2,Haider Ali,c13e34f4,JT Smuts,42172c3c,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,1,0,1
+1243021,2020/21,Pakistan,3,Haider Ali,c13e34f4,AL Phehlukwayo,ab6b1c45,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,1,0,1
+1243021,2020/21,Pakistan,3,Mohammad Rizwan,2f26ac1a,AL Phehlukwayo,ab6b1c45,Haider Ali,c13e34f4,0,0,0,0,0,,,,,,0,0,0
+1243021,2020/21,Pakistan,3,Mohammad Rizwan,2f26ac1a,AL Phehlukwayo,ab6b1c45,Haider Ali,c13e34f4,0,0,0,0,0,,,,,,0,0,0
+1243021,2020/21,Pakistan,3,Mohammad Rizwan,2f26ac1a,AL Phehlukwayo,ab6b1c45,Haider Ali,c13e34f4,0,0,0,0,0,,,,,,1,0,1
+1243021,2020/21,Pakistan,3,Haider Ali,c13e34f4,AL Phehlukwayo,ab6b1c45,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,0,0,0
+1243021,2020/21,Pakistan,3,Haider Ali,c13e34f4,AL Phehlukwayo,ab6b1c45,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,6,0,6
+1243021,2020/21,Pakistan,4,Mohammad Rizwan,2f26ac1a,L Sipamla,f892fcf9,Haider Ali,c13e34f4,0,0,0,0,0,,,,,,1,0,1
+1243021,2020/21,Pakistan,4,Haider Ali,c13e34f4,L Sipamla,f892fcf9,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,4,0,4
+1243021,2020/21,Pakistan,4,Haider Ali,c13e34f4,L Sipamla,f892fcf9,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,0,0,0
+1243021,2020/21,Pakistan,4,Haider Ali,c13e34f4,L Sipamla,f892fcf9,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,1,0,1
+1243021,2020/21,Pakistan,4,Mohammad Rizwan,2f26ac1a,L Sipamla,f892fcf9,Haider Ali,c13e34f4,0,0,0,0,0,,,,,,6,0,6
+1243021,2020/21,Pakistan,4,Mohammad Rizwan,2f26ac1a,L Sipamla,f892fcf9,Haider Ali,c13e34f4,0,0,0,0,0,,,,,,0,0,0
+1243021,2020/21,Pakistan,5,Haider Ali,c13e34f4,BC Fortuin,9a2fc964,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,1,0,1
+1243021,2020/21,Pakistan,5,Mohammad Rizwan,2f26ac1a,BC Fortuin,9a2fc964,Haider Ali,c13e34f4,0,0,0,0,0,,,,,,1,0,1
+1243021,2020/21,Pakistan,5,Haider Ali,c13e34f4,BC Fortuin,9a2fc964,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,1,0,1
+1243021,2020/21,Pakistan,5,Mohammad Rizwan,2f26ac1a,BC Fortuin,9a2fc964,Haider Ali,c13e34f4,0,0,0,0,0,,,,,,0,0,0
+1243021,2020/21,Pakistan,5,Mohammad Rizwan,2f26ac1a,BC Fortuin,9a2fc964,Haider Ali,c13e34f4,0,0,0,0,0,,,,,,4,0,4
+1243021,2020/21,Pakistan,5,Mohammad Rizwan,2f26ac1a,BC Fortuin,9a2fc964,Haider Ali,c13e34f4,0,0,0,0,0,,,,,,2,0,2
+1243021,2020/21,Pakistan,6,Haider Ali,c13e34f4,T Shamsi,a03bba42,Mohammad Rizwan,2f26ac1a,0,0,0,0,1,Haider Ali,c13e34f4,,,bowled,0,0,0
+1243021,2020/21,Pakistan,6,Babar Azam,8a75e999,T Shamsi,a03bba42,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,0,0,0
+1243021,2020/21,Pakistan,6,Babar Azam,8a75e999,T Shamsi,a03bba42,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,0,0,0
+1243021,2020/21,Pakistan,6,Babar Azam,8a75e999,T Shamsi,a03bba42,Mohammad Rizwan,2f26ac1a,1,0,0,0,0,,,,,,0,1,1
+1243021,2020/21,Pakistan,6,Babar Azam,8a75e999,T Shamsi,a03bba42,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,4,0,4
+1243021,2020/21,Pakistan,6,Babar Azam,8a75e999,T Shamsi,a03bba42,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,1,0,1
+1243021,2020/21,Pakistan,6,Mohammad Rizwan,2f26ac1a,T Shamsi,a03bba42,Babar Azam,8a75e999,0,0,0,0,0,,,,,,0,0,0
+1243021,2020/21,Pakistan,7,Babar Azam,8a75e999,JT Smuts,42172c3c,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,0,0,0
+1243021,2020/21,Pakistan,7,Babar Azam,8a75e999,JT Smuts,42172c3c,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,1,0,1
+1243021,2020/21,Pakistan,7,Mohammad Rizwan,2f26ac1a,JT Smuts,42172c3c,Babar Azam,8a75e999,0,0,0,0,0,,,,,,4,0,4
+1243021,2020/21,Pakistan,7,Mohammad Rizwan,2f26ac1a,JT Smuts,42172c3c,Babar Azam,8a75e999,0,0,0,0,0,,,,,,1,0,1
+1243021,2020/21,Pakistan,7,Babar Azam,8a75e999,JT Smuts,42172c3c,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,1,0,1
+1243021,2020/21,Pakistan,7,Mohammad Rizwan,2f26ac1a,JT Smuts,42172c3c,Babar Azam,8a75e999,0,0,0,0,0,,,,,,0,0,0
+1243021,2020/21,Pakistan,8,Babar Azam,8a75e999,T Shamsi,a03bba42,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,1,0,1
+1243021,2020/21,Pakistan,8,Mohammad Rizwan,2f26ac1a,T Shamsi,a03bba42,Babar Azam,8a75e999,0,0,0,0,0,,,,,,1,0,1
+1243021,2020/21,Pakistan,8,Babar Azam,8a75e999,T Shamsi,a03bba42,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,0,0,0
+1243021,2020/21,Pakistan,8,Babar Azam,8a75e999,T Shamsi,a03bba42,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,6,0,6
+1243021,2020/21,Pakistan,8,Babar Azam,8a75e999,T Shamsi,a03bba42,Mohammad Rizwan,2f26ac1a,0,0,0,0,0,,,,,,1,0,1
+1243021,2020/21,Pakistan,8,Mohammad Rizwan,2f26ac1a,T Shamsi,a03bba42,Babar Azam,8a75e999,0,0,0,0,1,Mohammad Rizwan,2f26ac1a,,,lbw,0,0,0
+1243021,2020/21,Pakistan,9,Babar Azam,8a75e999,BC Fortuin,9a2fc964,Hussain Talat,bb4b445b,0,0,0,0,0,,,,,,0,0,0
+1243021,2020/21,Pakistan,9,Babar Azam,8a75e999,BC Fortuin,9a2fc964,Hussain Talat,bb4b445b,0,0,0,0,0,,,,,,1,0,1
+1243021,2020/21,Pakistan,9,Hussain Talat,bb4b445b,BC Fortuin,9a2fc964,Babar Azam,8a75e999,1,0,0,0,0,,,,,,0,1,1
+1243021,2020/21,Pakistan,9,Hussain Talat,bb4b445b,BC Fortuin,9a2fc964,Babar Azam,8a75e999,0,0,0,0,0,,,,,,1,0,1
+1243021,2020/21,Pakistan,9,Babar Azam,8a75e999,BC Fortuin,9a2fc964,Hussain Talat,bb4b445b,0,0,0,0,0,,,,,,2,0,2
+1243021,2020/21,Pakistan,9,Babar Azam,8a75e999,BC Fortuin,9a2fc964,Hussain Talat,bb4b445b,0,0,0,0,0,,,,,,1,0,1
+1243021,2020/21,Pakistan,9,Hussain Talat,bb4b445b,BC Fortuin,9a2fc964,Babar Azam,8a75e999,0,0,0,0,0,,,,,,1,0,1
+1243021,2020/21,Pakistan,10,Hussain Talat,bb4b445b,T Shamsi,a03bba42,Babar Azam,8a75e999,0,0,0,0,0,,,,,,1,0,1
+1243021,2020/21,Pakistan,10,Babar Azam,8a75e999,T Shamsi,a03bba42,Hussain Talat,bb4b445b,0,0,0,0,0,,,,,,1,0,1
+1243021,2020/21,Pakistan,10,Hussain Talat,bb4b445b,T Shamsi,a03bba42,Babar Azam,8a75e999,0,0,0,0,0,,,,,,0,0,0
+1243021,2020/21,Pakistan,10,Hussain Talat,bb4b445b,T Shamsi,a03bba42,Babar Azam,8a75e999,0,0,0,0,0,,,,,,2,0,2
+1243021,2020/21,Pakistan,10,Hussain Talat,bb4b445b,T Shamsi,a03bba42,Babar Azam,8a75e999,0,0,0,0,1,Hussain Talat,bb4b445b,,,bowled,0,0,0
+1243021,2020/21,Pakistan,10,Asif Ali,0a4736eb,T Shamsi,a03bba42,Babar Azam,8a75e999,0,0,0,0,0,,,,,,0,0,0
+1243021,2020/21,Pakistan,11,Babar Azam,8a75e999,L Sipamla,f892fcf9,Asif Ali,0a4736eb,0,0,0,0,0,,,,,,1,0,1
+1243021,2020/21,Pakistan,11,Asif Ali,0a4736eb,L Sipamla,f892fcf9,Babar Azam,8a75e999,0,0,0,0,0,,,,,,1,0,1
+1243021,2020/21,Pakistan,11,Babar Azam,8a75e999,L Sipamla,f892fcf9,Asif Ali,0a4736eb,0,0,0,0,0,,,,,,4,0,4
+1243021,2020/21,Pakistan,11,Babar Azam,8a75e999,L Sipamla,f892fcf9,Asif Ali,0a4736eb,0,0,0,0,0,,,,,,4,0,4
+1243021,2020/21,Pakistan,11,Babar Azam,8a75e999,L Sipamla,f892fcf9,Asif Ali,0a4736eb,0,0,0,0,0,,,,,,0,0,0
+1243021,2020/21,Pakistan,11,Babar Azam,8a75e999,L Sipamla,f892fcf9,Asif Ali,0a4736eb,0,0,0,0,0,,,,,,1,0,1
+1243021,2020/21,Pakistan,12,Babar Azam,8a75e999,JT Smuts,42172c3c,Asif Ali,0a4736eb,0,0,0,0,0,,,,,,1,0,1
+1243021,2020/21,Pakistan,12,Asif Ali,0a4736eb,JT Smuts,42172c3c,Babar Azam,8a75e999,0,0,0,0,0,,,,,,1,0,1
+1243021,2020/21,Pakistan,12,Babar Azam,8a75e999,JT Smuts,42172c3c,Asif Ali,0a4736eb,0,0,0,0,0,,,,,,0,0,0
+1243021,2020/21,Pakistan,12,Babar Azam,8a75e999,JT Smuts,42172c3c,Asif Ali,0a4736eb,0,0,0,0,0,,,,,,1,0,1
+1243021,2020/21,Pakistan,12,Asif Ali,0a4736eb,JT Smuts,42172c3c,Babar Azam,8a75e999,0,0,0,0,0,,,,,,1,0,1
+1243021,2020/21,Pakistan,12,Babar Azam,8a75e999,JT Smuts,42172c3c,Asif Ali,0a4736eb,0,0,0,0,0,,,,,,1,0,1
+1243021,2020/21,Pakistan,13,Babar Azam,8a75e999,D Pretorius,11614d87,Asif Ali,0a4736eb,0,0,0,0,0,,,,,,4,0,4
+1243021,2020/21,Pakistan,13,Babar Azam,8a75e999,D Pretorius,11614d87,Asif Ali,0a4736eb,0,0,0,0,0,,,,,,4,0,4
+1243021,2020/21,Pakistan,13,Babar Azam,8a75e999,D Pretorius,11614d87,Asif Ali,0a4736eb,0,0,0,0,0,,,,,,1,0,1
+1243021,2020/21,Pakistan,13,Asif Ali,0a4736eb,D Pretorius,11614d87,Babar Azam,8a75e999,0,0,0,0,0,,,,,,1,0,1
+1243021,2020/21,Pakistan,13,Babar Azam,8a75e999,D Pretorius,11614d87,Asif Ali,0a4736eb,0,0,0,0,0,,,,,,2,0,2
+1243021,2020/21,Pakistan,13,Babar Azam,8a75e999,D Pretorius,11614d87,Asif Ali,0a4736eb,0,0,0,0,1,Babar Azam,8a75e999,,,bowled,0,0,0
+1243021,2020/21,Pakistan,14,Asif Ali,0a4736eb,T Shamsi,a03bba42,Faheem Ashraf,bd4ea627,1,0,0,0,0,,,,,,0,1,1
+1243021,2020/21,Pakistan,14,Asif Ali,0a4736eb,T Shamsi,a03bba42,Faheem Ashraf,bd4ea627,0,0,0,0,0,,,,,,1,0,1
+1243021,2020/21,Pakistan,14,Faheem Ashraf,bd4ea627,T Shamsi,a03bba42,Asif Ali,0a4736eb,0,0,0,0,0,,,,,,1,0,1
+1243021,2020/21,Pakistan,14,Asif Ali,0a4736eb,T Shamsi,a03bba42,Faheem Ashraf,bd4ea627,0,0,0,0,0,,,,,,2,0,2
+1243021,2020/21,Pakistan,14,Asif Ali,0a4736eb,T Shamsi,a03bba42,Faheem Ashraf,bd4ea627,0,0,0,0,1,Asif Ali,0a4736eb,DA Miller,d67d5f00,caught,0,0,0
+1243021,2020/21,Pakistan,14,Mohammad Nawaz (3),3086f7a4,T Shamsi,a03bba42,Faheem Ashraf,bd4ea627,0,0,0,0,0,,,,,,1,0,1
+1243021,2020/21,Pakistan,14,Faheem Ashraf,bd4ea627,T Shamsi,a03bba42,Mohammad Nawaz (3),3086f7a4,0,0,0,0,0,,,,,,0,0,0
+1243021,2020/21,Pakistan,15,Mohammad Nawaz (3),3086f7a4,AL Phehlukwayo,ab6b1c45,Faheem Ashraf,bd4ea627,0,0,0,0,0,,,,,,0,0,0
+1243021,2020/21,Pakistan,15,Mohammad Nawaz (3),3086f7a4,AL Phehlukwayo,ab6b1c45,Faheem Ashraf,bd4ea627,0,0,0,1,0,,,,,,0,1,1
+1243021,2020/21,Pakistan,15,Faheem Ashraf,bd4ea627,AL Phehlukwayo,ab6b1c45,Mohammad Nawaz (3),3086f7a4,0,0,0,0,0,,,,,,6,0,6
+1243021,2020/21,Pakistan,15,Faheem Ashraf,bd4ea627,AL Phehlukwayo,ab6b1c45,Mohammad Nawaz (3),3086f7a4,0,0,0,0,0,,,,,,0,0,0
+1243021,2020/21,Pakistan,15,Faheem Ashraf,bd4ea627,AL Phehlukwayo,ab6b1c45,Mohammad Nawaz (3),3086f7a4,0,0,0,0,0,,,,,,2,0,2
+1243021,2020/21,Pakistan,15,Faheem Ashraf,bd4ea627,AL Phehlukwayo,ab6b1c45,Mohammad Nawaz (3),3086f7a4,1,0,0,0,0,,,,,,0,1,1
+1243021,2020/21,Pakistan,15,Faheem Ashraf,bd4ea627,AL Phehlukwayo,ab6b1c45,Mohammad Nawaz (3),3086f7a4,0,0,0,0,0,,,,,,0,0,0
+1243021,2020/21,Pakistan,16,Mohammad Nawaz (3),3086f7a4,BC Fortuin,9a2fc964,Faheem Ashraf,bd4ea627,0,0,0,0,0,,,,,,1,0,1
+1243021,2020/21,Pakistan,16,Faheem Ashraf,bd4ea627,BC Fortuin,9a2fc964,Mohammad Nawaz (3),3086f7a4,0,0,0,0,0,,,,,,1,0,1
+1243021,2020/21,Pakistan,16,Mohammad Nawaz (3),3086f7a4,BC Fortuin,9a2fc964,Faheem Ashraf,bd4ea627,0,0,0,0,0,,,,,,0,0,0
+1243021,2020/21,Pakistan,16,Mohammad Nawaz (3),3086f7a4,BC Fortuin,9a2fc964,Faheem Ashraf,bd4ea627,0,0,0,0,0,,,,,,6,0,6
+1243021,2020/21,Pakistan,16,Mohammad Nawaz (3),3086f7a4,BC Fortuin,9a2fc964,Faheem Ashraf,bd4ea627,0,0,0,0,0,,,,,,1,0,1
+1243021,2020/21,Pakistan,16,Faheem Ashraf,bd4ea627,BC Fortuin,9a2fc964,Mohammad Nawaz (3),3086f7a4,0,0,0,0,1,Faheem Ashraf,bd4ea627,DA Miller,d67d5f00,caught,0,0,0
+1243021,2020/21,Pakistan,17,Hasan Ali,2911de16,D Pretorius,11614d87,Mohammad Nawaz (3),3086f7a4,0,0,0,0,0,,,,,,0,0,0
+1243021,2020/21,Pakistan,17,Hasan Ali,2911de16,D Pretorius,11614d87,Mohammad Nawaz (3),3086f7a4,1,0,0,0,0,,,,,,0,1,1
+1243021,2020/21,Pakistan,17,Hasan Ali,2911de16,D Pretorius,11614d87,Mohammad Nawaz (3),3086f7a4,0,0,0,0,0,,,,,,2,0,2
+1243021,2020/21,Pakistan,17,Hasan Ali,2911de16,D Pretorius,11614d87,Mohammad Nawaz (3),3086f7a4,0,0,0,0,0,,,,,,1,0,1
+1243021,2020/21,Pakistan,17,Mohammad Nawaz (3),3086f7a4,D Pretorius,11614d87,Hasan Ali,2911de16,0,0,0,0,0,,,,,,4,0,4
+1243021,2020/21,Pakistan,17,Mohammad Nawaz (3),3086f7a4,D Pretorius,11614d87,Hasan Ali,2911de16,0,0,0,0,0,,,,,,0,0,0
+1243021,2020/21,Pakistan,17,Mohammad Nawaz (3),3086f7a4,D Pretorius,11614d87,Hasan Ali,2911de16,0,0,0,0,0,,,,,,4,0,4
+1243021,2020/21,Pakistan,18,Hasan Ali,2911de16,AL Phehlukwayo,ab6b1c45,Mohammad Nawaz (3),3086f7a4,0,1,0,0,0,,,,,,6,1,7
+1243021,2020/21,Pakistan,18,Hasan Ali,2911de16,AL Phehlukwayo,ab6b1c45,Mohammad Nawaz (3),3086f7a4,0,0,0,0,0,,,,,,1,0,1
+1243021,2020/21,Pakistan,18,Mohammad Nawaz (3),3086f7a4,AL Phehlukwayo,ab6b1c45,Hasan Ali,2911de16,1,0,0,0,0,,,,,,0,1,1
+1243021,2020/21,Pakistan,18,Mohammad Nawaz (3),3086f7a4,AL Phehlukwayo,ab6b1c45,Hasan Ali,2911de16,0,0,0,0,0,,,,,,1,0,1
+1243021,2020/21,Pakistan,18,Hasan Ali,2911de16,AL Phehlukwayo,ab6b1c45,Mohammad Nawaz (3),3086f7a4,0,0,0,0,0,,,,,,4,0,4
+1243021,2020/21,Pakistan,18,Hasan Ali,2911de16,AL Phehlukwayo,ab6b1c45,Mohammad Nawaz (3),3086f7a4,0,0,0,0,0,,,,,,6,0,6

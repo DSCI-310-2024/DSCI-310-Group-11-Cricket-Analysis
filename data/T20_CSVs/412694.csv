@@ -1,0 +1,247 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+412694,2010,England,0,MJ Lumb,11df3dc8,J Botha,7c503806,C Kieswetter,1e960f2a,0,0,0,0,0,,,,,,1,0,1
+412694,2010,England,0,C Kieswetter,1e960f2a,J Botha,7c503806,MJ Lumb,11df3dc8,0,0,0,0,0,,,,,,1,0,1
+412694,2010,England,0,MJ Lumb,11df3dc8,J Botha,7c503806,C Kieswetter,1e960f2a,0,0,0,0,0,,,,,,0,0,0
+412694,2010,England,0,MJ Lumb,11df3dc8,J Botha,7c503806,C Kieswetter,1e960f2a,0,0,0,0,0,,,,,,2,0,2
+412694,2010,England,0,MJ Lumb,11df3dc8,J Botha,7c503806,C Kieswetter,1e960f2a,0,0,0,0,1,MJ Lumb,11df3dc8,,,lbw,0,0,0
+412694,2010,England,0,KP Pietersen,39f01cdb,J Botha,7c503806,C Kieswetter,1e960f2a,0,0,0,0,0,,,,,,0,0,0
+412694,2010,England,1,C Kieswetter,1e960f2a,DW Steyn,8fd1a8f5,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,0,0,0
+412694,2010,England,1,C Kieswetter,1e960f2a,DW Steyn,8fd1a8f5,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,4,0,4
+412694,2010,England,1,C Kieswetter,1e960f2a,DW Steyn,8fd1a8f5,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,1,0,1
+412694,2010,England,1,KP Pietersen,39f01cdb,DW Steyn,8fd1a8f5,C Kieswetter,1e960f2a,0,0,0,0,0,,,,,,4,0,4
+412694,2010,England,1,KP Pietersen,39f01cdb,DW Steyn,8fd1a8f5,C Kieswetter,1e960f2a,0,0,0,0,0,,,,,,0,0,0
+412694,2010,England,1,KP Pietersen,39f01cdb,DW Steyn,8fd1a8f5,C Kieswetter,1e960f2a,0,0,0,0,0,,,,,,4,0,4
+412694,2010,England,2,C Kieswetter,1e960f2a,M Morkel,5bb5a915,KP Pietersen,39f01cdb,0,1,0,0,0,,,,,,0,1,1
+412694,2010,England,2,C Kieswetter,1e960f2a,M Morkel,5bb5a915,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,1,0,1
+412694,2010,England,2,KP Pietersen,39f01cdb,M Morkel,5bb5a915,C Kieswetter,1e960f2a,0,0,0,0,0,,,,,,4,0,4
+412694,2010,England,2,KP Pietersen,39f01cdb,M Morkel,5bb5a915,C Kieswetter,1e960f2a,0,0,0,0,0,,,,,,0,0,0
+412694,2010,England,2,KP Pietersen,39f01cdb,M Morkel,5bb5a915,C Kieswetter,1e960f2a,0,0,1,0,0,,,,,,0,1,1
+412694,2010,England,2,C Kieswetter,1e960f2a,M Morkel,5bb5a915,KP Pietersen,39f01cdb,0,1,0,0,0,,,,,,1,1,2
+412694,2010,England,2,KP Pietersen,39f01cdb,M Morkel,5bb5a915,C Kieswetter,1e960f2a,0,0,0,0,0,,,,,,0,0,0
+412694,2010,England,2,KP Pietersen,39f01cdb,M Morkel,5bb5a915,C Kieswetter,1e960f2a,0,0,0,0,0,,,,,,4,0,4
+412694,2010,England,3,C Kieswetter,1e960f2a,CK Langeveldt,d1c94b25,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,0,0,0
+412694,2010,England,3,C Kieswetter,1e960f2a,CK Langeveldt,d1c94b25,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,0,0,0
+412694,2010,England,3,C Kieswetter,1e960f2a,CK Langeveldt,d1c94b25,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,1,0,1
+412694,2010,England,3,KP Pietersen,39f01cdb,CK Langeveldt,d1c94b25,C Kieswetter,1e960f2a,0,0,0,0,0,,,,,,1,0,1
+412694,2010,England,3,C Kieswetter,1e960f2a,CK Langeveldt,d1c94b25,KP Pietersen,39f01cdb,5,0,0,0,0,,,,,,0,5,5
+412694,2010,England,3,C Kieswetter,1e960f2a,CK Langeveldt,d1c94b25,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,0,0,0
+412694,2010,England,3,C Kieswetter,1e960f2a,CK Langeveldt,d1c94b25,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,0,0,0
+412694,2010,England,4,KP Pietersen,39f01cdb,M Morkel,5bb5a915,C Kieswetter,1e960f2a,0,0,0,0,0,,,,,,0,0,0
+412694,2010,England,4,KP Pietersen,39f01cdb,M Morkel,5bb5a915,C Kieswetter,1e960f2a,0,0,0,0,0,,,,,,4,0,4
+412694,2010,England,4,KP Pietersen,39f01cdb,M Morkel,5bb5a915,C Kieswetter,1e960f2a,0,0,0,0,0,,,,,,2,0,2
+412694,2010,England,4,KP Pietersen,39f01cdb,M Morkel,5bb5a915,C Kieswetter,1e960f2a,0,0,0,0,0,,,,,,4,0,4
+412694,2010,England,4,KP Pietersen,39f01cdb,M Morkel,5bb5a915,C Kieswetter,1e960f2a,0,0,0,0,0,,,,,,1,0,1
+412694,2010,England,4,C Kieswetter,1e960f2a,M Morkel,5bb5a915,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,1,0,1
+412694,2010,England,5,C Kieswetter,1e960f2a,CK Langeveldt,d1c94b25,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,6,0,6
+412694,2010,England,5,C Kieswetter,1e960f2a,CK Langeveldt,d1c94b25,KP Pietersen,39f01cdb,0,0,1,0,0,,,,,,0,1,1
+412694,2010,England,5,KP Pietersen,39f01cdb,CK Langeveldt,d1c94b25,C Kieswetter,1e960f2a,0,0,0,0,0,,,,,,1,0,1
+412694,2010,England,5,C Kieswetter,1e960f2a,CK Langeveldt,d1c94b25,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,4,0,4
+412694,2010,England,5,C Kieswetter,1e960f2a,CK Langeveldt,d1c94b25,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,0,0,0
+412694,2010,England,5,C Kieswetter,1e960f2a,CK Langeveldt,d1c94b25,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,4,0,4
+412694,2010,England,6,KP Pietersen,39f01cdb,JH Kallis,86dc8f2e,C Kieswetter,1e960f2a,0,0,0,0,0,,,,,,1,0,1
+412694,2010,England,6,C Kieswetter,1e960f2a,JH Kallis,86dc8f2e,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,0,0,0
+412694,2010,England,6,C Kieswetter,1e960f2a,JH Kallis,86dc8f2e,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,0,0,0
+412694,2010,England,6,C Kieswetter,1e960f2a,JH Kallis,86dc8f2e,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,2,0,2
+412694,2010,England,6,C Kieswetter,1e960f2a,JH Kallis,86dc8f2e,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,0,0,0
+412694,2010,England,6,C Kieswetter,1e960f2a,JH Kallis,86dc8f2e,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,1,0,1
+412694,2010,England,7,C Kieswetter,1e960f2a,J Botha,7c503806,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,0,0,0
+412694,2010,England,7,C Kieswetter,1e960f2a,J Botha,7c503806,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,0,0,0
+412694,2010,England,7,C Kieswetter,1e960f2a,J Botha,7c503806,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,1,0,1
+412694,2010,England,7,KP Pietersen,39f01cdb,J Botha,7c503806,C Kieswetter,1e960f2a,0,0,0,0,0,,,,,,2,0,2
+412694,2010,England,7,KP Pietersen,39f01cdb,J Botha,7c503806,C Kieswetter,1e960f2a,0,0,0,0,0,,,,,,0,0,0
+412694,2010,England,7,KP Pietersen,39f01cdb,J Botha,7c503806,C Kieswetter,1e960f2a,0,0,0,0,0,,,,,,1,0,1
+412694,2010,England,8,KP Pietersen,39f01cdb,JH Kallis,86dc8f2e,C Kieswetter,1e960f2a,0,0,0,0,0,,,,,,1,0,1
+412694,2010,England,8,C Kieswetter,1e960f2a,JH Kallis,86dc8f2e,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,0,0,0
+412694,2010,England,8,C Kieswetter,1e960f2a,JH Kallis,86dc8f2e,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,1,0,1
+412694,2010,England,8,KP Pietersen,39f01cdb,JH Kallis,86dc8f2e,C Kieswetter,1e960f2a,0,0,0,0,0,,,,,,0,0,0
+412694,2010,England,8,KP Pietersen,39f01cdb,JH Kallis,86dc8f2e,C Kieswetter,1e960f2a,0,0,0,0,0,,,,,,0,0,0
+412694,2010,England,8,KP Pietersen,39f01cdb,JH Kallis,86dc8f2e,C Kieswetter,1e960f2a,0,0,0,0,0,,,,,,2,0,2
+412694,2010,England,9,C Kieswetter,1e960f2a,J Botha,7c503806,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,1,0,1
+412694,2010,England,9,KP Pietersen,39f01cdb,J Botha,7c503806,C Kieswetter,1e960f2a,0,0,0,0,0,,,,,,1,0,1
+412694,2010,England,9,C Kieswetter,1e960f2a,J Botha,7c503806,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,1,0,1
+412694,2010,England,9,KP Pietersen,39f01cdb,J Botha,7c503806,C Kieswetter,1e960f2a,0,0,0,0,0,,,,,,1,0,1
+412694,2010,England,9,C Kieswetter,1e960f2a,J Botha,7c503806,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,0,0,0
+412694,2010,England,9,C Kieswetter,1e960f2a,J Botha,7c503806,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,1,0,1
+412694,2010,England,10,C Kieswetter,1e960f2a,DW Steyn,8fd1a8f5,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,1,0,1
+412694,2010,England,10,KP Pietersen,39f01cdb,DW Steyn,8fd1a8f5,C Kieswetter,1e960f2a,0,0,0,0,0,,,,,,4,0,4
+412694,2010,England,10,KP Pietersen,39f01cdb,DW Steyn,8fd1a8f5,C Kieswetter,1e960f2a,0,0,0,0,0,,,,,,6,0,6
+412694,2010,England,10,KP Pietersen,39f01cdb,DW Steyn,8fd1a8f5,C Kieswetter,1e960f2a,0,0,0,0,0,,,,,,0,0,0
+412694,2010,England,10,KP Pietersen,39f01cdb,DW Steyn,8fd1a8f5,C Kieswetter,1e960f2a,0,0,0,0,0,,,,,,4,0,4
+412694,2010,England,10,KP Pietersen,39f01cdb,DW Steyn,8fd1a8f5,C Kieswetter,1e960f2a,0,0,0,0,0,,,,,,1,0,1
+412694,2010,England,11,KP Pietersen,39f01cdb,J Botha,7c503806,C Kieswetter,1e960f2a,0,0,0,0,0,,,,,,0,0,0
+412694,2010,England,11,KP Pietersen,39f01cdb,J Botha,7c503806,C Kieswetter,1e960f2a,0,0,0,0,1,KP Pietersen,39f01cdb,GC Smith,72861603,caught,0,0,0
+412694,2010,England,11,PD Collingwood,a386e91b,J Botha,7c503806,C Kieswetter,1e960f2a,0,0,0,0,0,,,,,,1,0,1
+412694,2010,England,11,C Kieswetter,1e960f2a,J Botha,7c503806,PD Collingwood,a386e91b,0,0,0,0,0,,,,,,1,0,1
+412694,2010,England,11,PD Collingwood,a386e91b,J Botha,7c503806,C Kieswetter,1e960f2a,0,0,0,0,0,,,,,,0,0,0
+412694,2010,England,11,PD Collingwood,a386e91b,J Botha,7c503806,C Kieswetter,1e960f2a,0,0,0,0,0,,,,,,0,0,0
+412694,2010,England,12,C Kieswetter,1e960f2a,JH Kallis,86dc8f2e,PD Collingwood,a386e91b,0,0,0,0,0,,,,,,0,0,0
+412694,2010,England,12,C Kieswetter,1e960f2a,JH Kallis,86dc8f2e,PD Collingwood,a386e91b,0,0,0,0,0,,,,,,0,0,0
+412694,2010,England,12,C Kieswetter,1e960f2a,JH Kallis,86dc8f2e,PD Collingwood,a386e91b,0,0,0,0,0,,,,,,0,0,0
+412694,2010,England,12,C Kieswetter,1e960f2a,JH Kallis,86dc8f2e,PD Collingwood,a386e91b,0,0,0,0,0,,,,,,0,0,0
+412694,2010,England,12,C Kieswetter,1e960f2a,JH Kallis,86dc8f2e,PD Collingwood,a386e91b,0,0,0,0,0,,,,,,1,0,1
+412694,2010,England,12,PD Collingwood,a386e91b,JH Kallis,86dc8f2e,C Kieswetter,1e960f2a,0,0,0,0,0,,,,,,6,0,6
+412694,2010,England,13,C Kieswetter,1e960f2a,JP Duminy,2e8994e7,PD Collingwood,a386e91b,0,0,0,0,0,,,,,,6,0,6
+412694,2010,England,13,C Kieswetter,1e960f2a,JP Duminy,2e8994e7,PD Collingwood,a386e91b,0,0,0,0,0,,,,,,0,0,0
+412694,2010,England,13,C Kieswetter,1e960f2a,JP Duminy,2e8994e7,PD Collingwood,a386e91b,0,0,0,0,1,C Kieswetter,1e960f2a,DW Steyn,8fd1a8f5,caught,0,0,0
+412694,2010,England,13,PD Collingwood,a386e91b,JP Duminy,2e8994e7,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,1,0,1
+412694,2010,England,13,EJG Morgan,d2a6c0e6,JP Duminy,2e8994e7,PD Collingwood,a386e91b,0,0,0,0,0,,,,,,0,0,0
+412694,2010,England,13,EJG Morgan,d2a6c0e6,JP Duminy,2e8994e7,PD Collingwood,a386e91b,0,0,0,0,0,,,,,,4,0,4
+412694,2010,England,14,PD Collingwood,a386e91b,M Morkel,5bb5a915,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,0,0,0
+412694,2010,England,14,PD Collingwood,a386e91b,M Morkel,5bb5a915,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,6,0,6
+412694,2010,England,14,PD Collingwood,a386e91b,M Morkel,5bb5a915,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,0,0,0
+412694,2010,England,14,PD Collingwood,a386e91b,M Morkel,5bb5a915,EJG Morgan,d2a6c0e6,0,0,0,0,1,PD Collingwood,a386e91b,MV Boucher,f3cb53a1,caught,0,0,0
+412694,2010,England,14,EJG Morgan,d2a6c0e6,M Morkel,5bb5a915,LJ Wright,cca50cd6,0,0,1,0,0,,,,,,0,1,1
+412694,2010,England,14,LJ Wright,cca50cd6,M Morkel,5bb5a915,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,0,0,0
+412694,2010,England,15,EJG Morgan,d2a6c0e6,DW Steyn,8fd1a8f5,LJ Wright,cca50cd6,0,0,0,0,0,,,,,,0,0,0
+412694,2010,England,15,EJG Morgan,d2a6c0e6,DW Steyn,8fd1a8f5,LJ Wright,cca50cd6,0,0,0,0,0,,,,,,2,0,2
+412694,2010,England,15,EJG Morgan,d2a6c0e6,DW Steyn,8fd1a8f5,LJ Wright,cca50cd6,0,0,0,0,0,,,,,,2,0,2
+412694,2010,England,15,EJG Morgan,d2a6c0e6,DW Steyn,8fd1a8f5,LJ Wright,cca50cd6,1,0,0,0,0,,,,,,0,1,1
+412694,2010,England,15,EJG Morgan,d2a6c0e6,DW Steyn,8fd1a8f5,LJ Wright,cca50cd6,1,0,0,0,0,,,,,,0,1,1
+412694,2010,England,15,EJG Morgan,d2a6c0e6,DW Steyn,8fd1a8f5,LJ Wright,cca50cd6,0,0,0,0,0,,,,,,0,0,0
+412694,2010,England,15,EJG Morgan,d2a6c0e6,DW Steyn,8fd1a8f5,LJ Wright,cca50cd6,0,0,0,0,0,,,,,,2,0,2
+412694,2010,England,15,EJG Morgan,d2a6c0e6,DW Steyn,8fd1a8f5,LJ Wright,cca50cd6,0,0,0,0,0,,,,,,4,0,4
+412694,2010,England,16,LJ Wright,cca50cd6,CK Langeveldt,d1c94b25,EJG Morgan,d2a6c0e6,0,0,0,0,1,LJ Wright,cca50cd6,,,bowled,0,0,0
+412694,2010,England,16,TT Bresnan,58043739,CK Langeveldt,d1c94b25,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,0,0,0
+412694,2010,England,16,TT Bresnan,58043739,CK Langeveldt,d1c94b25,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,1,0,1
+412694,2010,England,16,EJG Morgan,d2a6c0e6,CK Langeveldt,d1c94b25,TT Bresnan,58043739,0,0,0,0,0,,,,,,1,0,1
+412694,2010,England,16,TT Bresnan,58043739,CK Langeveldt,d1c94b25,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,0,0,0
+412694,2010,England,16,TT Bresnan,58043739,CK Langeveldt,d1c94b25,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,0,0,0
+412694,2010,England,17,EJG Morgan,d2a6c0e6,DW Steyn,8fd1a8f5,TT Bresnan,58043739,0,0,0,0,0,,,,,,4,0,4
+412694,2010,England,17,EJG Morgan,d2a6c0e6,DW Steyn,8fd1a8f5,TT Bresnan,58043739,0,0,0,0,0,,,,,,1,0,1
+412694,2010,England,17,TT Bresnan,58043739,DW Steyn,8fd1a8f5,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,0,0,0
+412694,2010,England,17,TT Bresnan,58043739,DW Steyn,8fd1a8f5,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,2,0,2
+412694,2010,England,17,TT Bresnan,58043739,DW Steyn,8fd1a8f5,EJG Morgan,d2a6c0e6,0,0,0,0,0,,,,,,1,0,1
+412694,2010,England,17,EJG Morgan,d2a6c0e6,DW Steyn,8fd1a8f5,TT Bresnan,58043739,0,0,0,0,0,,,,,,1,0,1
+412694,2010,England,18,EJG Morgan,d2a6c0e6,CK Langeveldt,d1c94b25,TT Bresnan,58043739,0,0,0,0,1,EJG Morgan,d2a6c0e6,AB de Villiers,c4487b84,caught,0,0,0
+412694,2010,England,18,TT Bresnan,58043739,CK Langeveldt,d1c94b25,MH Yardy,3812d56b,0,0,0,0,0,,,,,,1,0,1
+412694,2010,England,18,MH Yardy,3812d56b,CK Langeveldt,d1c94b25,TT Bresnan,58043739,0,0,0,0,0,,,,,,1,0,1
+412694,2010,England,18,TT Bresnan,58043739,CK Langeveldt,d1c94b25,MH Yardy,3812d56b,0,0,0,0,0,,,,,,2,0,2
+412694,2010,England,18,TT Bresnan,58043739,CK Langeveldt,d1c94b25,MH Yardy,3812d56b,0,0,0,0,0,,,,,,2,0,2
+412694,2010,England,18,TT Bresnan,58043739,CK Langeveldt,d1c94b25,MH Yardy,3812d56b,0,0,0,0,0,,,,,,4,0,4
+412694,2010,England,19,MH Yardy,3812d56b,M Morkel,5bb5a915,TT Bresnan,58043739,0,0,0,0,0,,,,,,1,0,1
+412694,2010,England,19,TT Bresnan,58043739,M Morkel,5bb5a915,MH Yardy,3812d56b,0,2,0,0,0,,,,,,0,2,2
+412694,2010,England,19,MH Yardy,3812d56b,M Morkel,5bb5a915,TT Bresnan,58043739,0,0,0,0,0,,,,,,1,0,1
+412694,2010,England,19,TT Bresnan,58043739,M Morkel,5bb5a915,MH Yardy,3812d56b,0,0,0,0,1,TT Bresnan,58043739,,,bowled,0,0,0
+412694,2010,England,19,GP Swann,221ad9d9,M Morkel,5bb5a915,MH Yardy,3812d56b,0,0,0,0,0,,,,,,1,0,1
+412694,2010,England,19,MH Yardy,3812d56b,M Morkel,5bb5a915,GP Swann,221ad9d9,0,0,0,0,0,,,,,,4,0,4
+412694,2010,England,19,MH Yardy,3812d56b,M Morkel,5bb5a915,GP Swann,221ad9d9,0,0,0,0,0,,,,,,1,0,1
+412694,2010,South Africa,0,GC Smith,72861603,RJ Sidebottom,9dca07d7,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,2,0,2
+412694,2010,South Africa,0,GC Smith,72861603,RJ Sidebottom,9dca07d7,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,2,0,2
+412694,2010,South Africa,0,GC Smith,72861603,RJ Sidebottom,9dca07d7,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,1,0,1
+412694,2010,South Africa,0,JH Kallis,86dc8f2e,RJ Sidebottom,9dca07d7,GC Smith,72861603,0,0,0,0,0,,,,,,0,0,0
+412694,2010,South Africa,0,JH Kallis,86dc8f2e,RJ Sidebottom,9dca07d7,GC Smith,72861603,0,0,0,0,0,,,,,,0,0,0
+412694,2010,South Africa,0,JH Kallis,86dc8f2e,RJ Sidebottom,9dca07d7,GC Smith,72861603,0,0,0,0,0,,,,,,0,0,0
+412694,2010,South Africa,1,GC Smith,72861603,TT Bresnan,58043739,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,0,0,0
+412694,2010,South Africa,1,GC Smith,72861603,TT Bresnan,58043739,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,0,0,0
+412694,2010,South Africa,1,GC Smith,72861603,TT Bresnan,58043739,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,0,0,0
+412694,2010,South Africa,1,GC Smith,72861603,TT Bresnan,58043739,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,0,0,0
+412694,2010,South Africa,1,GC Smith,72861603,TT Bresnan,58043739,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,1,0,1
+412694,2010,South Africa,1,JH Kallis,86dc8f2e,TT Bresnan,58043739,GC Smith,72861603,0,0,0,0,0,,,,,,1,0,1
+412694,2010,South Africa,2,JH Kallis,86dc8f2e,SCJ Broad,eba6a852,GC Smith,72861603,0,0,0,0,0,,,,,,6,0,6
+412694,2010,South Africa,2,JH Kallis,86dc8f2e,SCJ Broad,eba6a852,GC Smith,72861603,0,0,0,0,0,,,,,,1,0,1
+412694,2010,South Africa,2,GC Smith,72861603,SCJ Broad,eba6a852,JH Kallis,86dc8f2e,0,0,0,1,0,,,,,,0,1,1
+412694,2010,South Africa,2,JH Kallis,86dc8f2e,SCJ Broad,eba6a852,GC Smith,72861603,0,0,0,0,0,,,,,,1,0,1
+412694,2010,South Africa,2,GC Smith,72861603,SCJ Broad,eba6a852,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,0,0,0
+412694,2010,South Africa,2,GC Smith,72861603,SCJ Broad,eba6a852,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,0,0,0
+412694,2010,South Africa,3,JH Kallis,86dc8f2e,TT Bresnan,58043739,GC Smith,72861603,0,0,0,0,0,,,,,,0,0,0
+412694,2010,South Africa,3,JH Kallis,86dc8f2e,TT Bresnan,58043739,GC Smith,72861603,0,0,0,0,0,,,,,,1,0,1
+412694,2010,South Africa,3,GC Smith,72861603,TT Bresnan,58043739,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,1,0,1
+412694,2010,South Africa,3,JH Kallis,86dc8f2e,TT Bresnan,58043739,GC Smith,72861603,0,0,0,0,0,,,,,,0,0,0
+412694,2010,South Africa,3,JH Kallis,86dc8f2e,TT Bresnan,58043739,GC Smith,72861603,0,0,0,0,0,,,,,,0,0,0
+412694,2010,South Africa,3,JH Kallis,86dc8f2e,TT Bresnan,58043739,GC Smith,72861603,0,0,0,0,0,,,,,,1,0,1
+412694,2010,South Africa,4,JH Kallis,86dc8f2e,SCJ Broad,eba6a852,GC Smith,72861603,0,0,0,0,1,JH Kallis,86dc8f2e,KP Pietersen,39f01cdb,caught,0,0,0
+412694,2010,South Africa,4,HH Gibbs,e1d1b294,SCJ Broad,eba6a852,GC Smith,72861603,0,0,0,0,0,,,,,,0,0,0
+412694,2010,South Africa,4,HH Gibbs,e1d1b294,SCJ Broad,eba6a852,GC Smith,72861603,0,0,0,0,0,,,,,,0,0,0
+412694,2010,South Africa,4,HH Gibbs,e1d1b294,SCJ Broad,eba6a852,GC Smith,72861603,0,0,0,0,0,,,,,,1,0,1
+412694,2010,South Africa,4,GC Smith,72861603,SCJ Broad,eba6a852,HH Gibbs,e1d1b294,0,1,0,0,0,,,,,,0,1,1
+412694,2010,South Africa,4,GC Smith,72861603,SCJ Broad,eba6a852,HH Gibbs,e1d1b294,0,0,0,0,0,,,,,,4,0,4
+412694,2010,South Africa,4,GC Smith,72861603,SCJ Broad,eba6a852,HH Gibbs,e1d1b294,0,0,0,0,0,,,,,,0,0,0
+412694,2010,South Africa,5,HH Gibbs,e1d1b294,TT Bresnan,58043739,GC Smith,72861603,0,0,0,0,0,,,,,,4,0,4
+412694,2010,South Africa,5,HH Gibbs,e1d1b294,TT Bresnan,58043739,GC Smith,72861603,0,0,0,0,0,,,,,,1,0,1
+412694,2010,South Africa,5,GC Smith,72861603,TT Bresnan,58043739,HH Gibbs,e1d1b294,0,0,0,0,0,,,,,,1,0,1
+412694,2010,South Africa,5,HH Gibbs,e1d1b294,TT Bresnan,58043739,GC Smith,72861603,0,0,0,0,0,,,,,,1,0,1
+412694,2010,South Africa,5,GC Smith,72861603,TT Bresnan,58043739,HH Gibbs,e1d1b294,0,0,0,0,0,,,,,,1,0,1
+412694,2010,South Africa,5,HH Gibbs,e1d1b294,TT Bresnan,58043739,GC Smith,72861603,0,0,0,0,0,,,,,,1,0,1
+412694,2010,South Africa,6,HH Gibbs,e1d1b294,MH Yardy,3812d56b,GC Smith,72861603,0,0,0,0,1,HH Gibbs,e1d1b294,RJ Sidebottom,9dca07d7,caught,0,0,0
+412694,2010,South Africa,6,GC Smith,72861603,MH Yardy,3812d56b,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,1,0,1
+412694,2010,South Africa,6,AB de Villiers,c4487b84,MH Yardy,3812d56b,GC Smith,72861603,0,0,0,0,0,,,,,,0,0,0
+412694,2010,South Africa,6,AB de Villiers,c4487b84,MH Yardy,3812d56b,GC Smith,72861603,0,0,0,0,0,,,,,,1,0,1
+412694,2010,South Africa,6,GC Smith,72861603,MH Yardy,3812d56b,AB de Villiers,c4487b84,1,0,0,0,0,,,,,,0,1,1
+412694,2010,South Africa,6,GC Smith,72861603,MH Yardy,3812d56b,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,0,0,0
+412694,2010,South Africa,6,GC Smith,72861603,MH Yardy,3812d56b,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,1,0,1
+412694,2010,South Africa,7,GC Smith,72861603,GP Swann,221ad9d9,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,4,0,4
+412694,2010,South Africa,7,GC Smith,72861603,GP Swann,221ad9d9,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,0,0,0
+412694,2010,South Africa,7,GC Smith,72861603,GP Swann,221ad9d9,AB de Villiers,c4487b84,0,0,2,0,0,,,,,,0,2,2
+412694,2010,South Africa,7,GC Smith,72861603,GP Swann,221ad9d9,AB de Villiers,c4487b84,0,0,0,0,1,GC Smith,72861603,MJ Lumb,11df3dc8,caught,0,0,0
+412694,2010,South Africa,7,AB de Villiers,c4487b84,GP Swann,221ad9d9,JA Morkel,c3d35165,0,0,1,0,0,,,,,,0,1,1
+412694,2010,South Africa,7,JA Morkel,c3d35165,GP Swann,221ad9d9,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,0,0,0
+412694,2010,South Africa,8,AB de Villiers,c4487b84,MH Yardy,3812d56b,JA Morkel,c3d35165,0,0,0,0,0,,,,,,1,0,1
+412694,2010,South Africa,8,JA Morkel,c3d35165,MH Yardy,3812d56b,AB de Villiers,c4487b84,0,0,0,0,1,JA Morkel,c3d35165,,,bowled,0,0,0
+412694,2010,South Africa,8,JP Duminy,2e8994e7,MH Yardy,3812d56b,AB de Villiers,c4487b84,1,0,0,0,0,,,,,,0,1,1
+412694,2010,South Africa,8,JP Duminy,2e8994e7,MH Yardy,3812d56b,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,1,0,1
+412694,2010,South Africa,8,AB de Villiers,c4487b84,MH Yardy,3812d56b,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,1,0,1
+412694,2010,South Africa,8,JP Duminy,2e8994e7,MH Yardy,3812d56b,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,0,0,0
+412694,2010,South Africa,8,JP Duminy,2e8994e7,MH Yardy,3812d56b,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,1,0,1
+412694,2010,South Africa,9,JP Duminy,2e8994e7,GP Swann,221ad9d9,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,1,0,1
+412694,2010,South Africa,9,AB de Villiers,c4487b84,GP Swann,221ad9d9,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,0,0,0
+412694,2010,South Africa,9,AB de Villiers,c4487b84,GP Swann,221ad9d9,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,0,0,0
+412694,2010,South Africa,9,AB de Villiers,c4487b84,GP Swann,221ad9d9,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,2,0,2
+412694,2010,South Africa,9,AB de Villiers,c4487b84,GP Swann,221ad9d9,JP Duminy,2e8994e7,0,0,0,0,1,AB de Villiers,c4487b84,PD Collingwood,a386e91b,caught,0,0,0
+412694,2010,South Africa,9,JP Duminy,2e8994e7,GP Swann,221ad9d9,MV Boucher,f3cb53a1,0,0,0,0,0,,,,,,2,0,2
+412694,2010,South Africa,10,MV Boucher,f3cb53a1,MH Yardy,3812d56b,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,1,0,1
+412694,2010,South Africa,10,JP Duminy,2e8994e7,MH Yardy,3812d56b,MV Boucher,f3cb53a1,0,0,0,0,0,,,,,,6,0,6
+412694,2010,South Africa,10,JP Duminy,2e8994e7,MH Yardy,3812d56b,MV Boucher,f3cb53a1,0,0,0,0,0,,,,,,1,0,1
+412694,2010,South Africa,10,MV Boucher,f3cb53a1,MH Yardy,3812d56b,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,2,0,2
+412694,2010,South Africa,10,MV Boucher,f3cb53a1,MH Yardy,3812d56b,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,1,0,1
+412694,2010,South Africa,10,JP Duminy,2e8994e7,MH Yardy,3812d56b,MV Boucher,f3cb53a1,0,0,0,0,0,,,,,,1,0,1
+412694,2010,South Africa,11,JP Duminy,2e8994e7,GP Swann,221ad9d9,MV Boucher,f3cb53a1,0,0,0,0,0,,,,,,1,0,1
+412694,2010,South Africa,11,MV Boucher,f3cb53a1,GP Swann,221ad9d9,JP Duminy,2e8994e7,1,0,0,0,0,,,,,,0,1,1
+412694,2010,South Africa,11,MV Boucher,f3cb53a1,GP Swann,221ad9d9,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,1,0,1
+412694,2010,South Africa,11,JP Duminy,2e8994e7,GP Swann,221ad9d9,MV Boucher,f3cb53a1,0,0,0,0,0,,,,,,1,0,1
+412694,2010,South Africa,11,MV Boucher,f3cb53a1,GP Swann,221ad9d9,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,0,0,0
+412694,2010,South Africa,11,MV Boucher,f3cb53a1,GP Swann,221ad9d9,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,1,0,1
+412694,2010,South Africa,11,JP Duminy,2e8994e7,GP Swann,221ad9d9,MV Boucher,f3cb53a1,0,0,0,0,0,,,,,,1,0,1
+412694,2010,South Africa,12,JP Duminy,2e8994e7,MH Yardy,3812d56b,MV Boucher,f3cb53a1,2,0,0,0,0,,,,,,0,2,2
+412694,2010,South Africa,12,MV Boucher,f3cb53a1,MH Yardy,3812d56b,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,1,0,1
+412694,2010,South Africa,12,JP Duminy,2e8994e7,MH Yardy,3812d56b,MV Boucher,f3cb53a1,0,0,0,0,0,,,,,,4,0,4
+412694,2010,South Africa,12,JP Duminy,2e8994e7,MH Yardy,3812d56b,MV Boucher,f3cb53a1,0,0,0,0,0,,,,,,1,0,1
+412694,2010,South Africa,12,MV Boucher,f3cb53a1,MH Yardy,3812d56b,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,0,0,0
+412694,2010,South Africa,12,MV Boucher,f3cb53a1,MH Yardy,3812d56b,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,0,0,0
+412694,2010,South Africa,12,MV Boucher,f3cb53a1,MH Yardy,3812d56b,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,2,0,2
+412694,2010,South Africa,13,JP Duminy,2e8994e7,GP Swann,221ad9d9,MV Boucher,f3cb53a1,0,0,0,0,0,,,,,,6,0,6
+412694,2010,South Africa,13,JP Duminy,2e8994e7,GP Swann,221ad9d9,MV Boucher,f3cb53a1,0,0,0,0,0,,,,,,1,0,1
+412694,2010,South Africa,13,MV Boucher,f3cb53a1,GP Swann,221ad9d9,JP Duminy,2e8994e7,0,0,0,0,1,MV Boucher,f3cb53a1,EJG Morgan,d2a6c0e6,caught,0,0,0
+412694,2010,South Africa,13,JP Duminy,2e8994e7,GP Swann,221ad9d9,J Botha,7c503806,0,0,0,0,0,,,,,,1,0,1
+412694,2010,South Africa,13,J Botha,7c503806,GP Swann,221ad9d9,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,0,0,0
+412694,2010,South Africa,13,J Botha,7c503806,GP Swann,221ad9d9,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,1,0,1
+412694,2010,South Africa,14,J Botha,7c503806,RJ Sidebottom,9dca07d7,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,0,0,0
+412694,2010,South Africa,14,J Botha,7c503806,RJ Sidebottom,9dca07d7,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,1,0,1
+412694,2010,South Africa,14,JP Duminy,2e8994e7,RJ Sidebottom,9dca07d7,J Botha,7c503806,0,0,1,0,0,,,,,,0,1,1
+412694,2010,South Africa,14,J Botha,7c503806,RJ Sidebottom,9dca07d7,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,1,0,1
+412694,2010,South Africa,14,JP Duminy,2e8994e7,RJ Sidebottom,9dca07d7,J Botha,7c503806,0,0,0,0,0,,,,,,2,0,2
+412694,2010,South Africa,14,JP Duminy,2e8994e7,RJ Sidebottom,9dca07d7,J Botha,7c503806,0,0,0,1,0,,,,,,0,1,1
+412694,2010,South Africa,15,JP Duminy,2e8994e7,SCJ Broad,eba6a852,J Botha,7c503806,0,0,0,0,0,,,,,,4,0,4
+412694,2010,South Africa,15,JP Duminy,2e8994e7,SCJ Broad,eba6a852,J Botha,7c503806,0,0,4,0,0,,,,,,0,4,4
+412694,2010,South Africa,15,JP Duminy,2e8994e7,SCJ Broad,eba6a852,J Botha,7c503806,0,0,0,0,0,,,,,,2,0,2
+412694,2010,South Africa,15,JP Duminy,2e8994e7,SCJ Broad,eba6a852,J Botha,7c503806,0,0,0,0,0,,,,,,1,0,1
+412694,2010,South Africa,15,J Botha,7c503806,SCJ Broad,eba6a852,JP Duminy,2e8994e7,0,0,1,0,0,,,,,,0,1,1
+412694,2010,South Africa,15,JP Duminy,2e8994e7,SCJ Broad,eba6a852,J Botha,7c503806,0,0,0,0,0,,,,,,1,0,1
+412694,2010,South Africa,16,JP Duminy,2e8994e7,RJ Sidebottom,9dca07d7,J Botha,7c503806,0,0,0,0,1,JP Duminy,2e8994e7,MH Yardy,3812d56b,caught,0,0,0
+412694,2010,South Africa,16,DW Steyn,8fd1a8f5,RJ Sidebottom,9dca07d7,J Botha,7c503806,0,0,0,0,0,,,,,,1,0,1
+412694,2010,South Africa,16,J Botha,7c503806,RJ Sidebottom,9dca07d7,DW Steyn,8fd1a8f5,0,0,0,0,0,,,,,,6,0,6
+412694,2010,South Africa,16,J Botha,7c503806,RJ Sidebottom,9dca07d7,DW Steyn,8fd1a8f5,0,0,0,0,0,,,,,,0,0,0
+412694,2010,South Africa,16,J Botha,7c503806,RJ Sidebottom,9dca07d7,DW Steyn,8fd1a8f5,0,0,0,0,0,,,,,,1,0,1
+412694,2010,South Africa,16,DW Steyn,8fd1a8f5,RJ Sidebottom,9dca07d7,J Botha,7c503806,0,0,0,0,0,,,,,,3,0,3
+412694,2010,South Africa,17,DW Steyn,8fd1a8f5,SCJ Broad,eba6a852,J Botha,7c503806,0,0,0,0,0,,,,,,1,0,1
+412694,2010,South Africa,17,J Botha,7c503806,SCJ Broad,eba6a852,DW Steyn,8fd1a8f5,0,0,0,0,0,,,,,,1,0,1
+412694,2010,South Africa,17,DW Steyn,8fd1a8f5,SCJ Broad,eba6a852,J Botha,7c503806,1,0,0,0,0,,,,,,0,1,1
+412694,2010,South Africa,17,DW Steyn,8fd1a8f5,SCJ Broad,eba6a852,J Botha,7c503806,0,0,0,0,0,,,,,,0,0,0
+412694,2010,South Africa,17,DW Steyn,8fd1a8f5,SCJ Broad,eba6a852,J Botha,7c503806,0,0,0,0,0,,,,,,0,0,0
+412694,2010,South Africa,17,DW Steyn,8fd1a8f5,SCJ Broad,eba6a852,J Botha,7c503806,0,0,0,0,1,DW Steyn,8fd1a8f5,EJG Morgan,d2a6c0e6,caught,0,0,0
+412694,2010,South Africa,17,J Botha,7c503806,SCJ Broad,eba6a852,M Morkel,5bb5a915,0,0,0,0,0,,,,,,1,0,1
+412694,2010,South Africa,18,J Botha,7c503806,RJ Sidebottom,9dca07d7,M Morkel,5bb5a915,0,0,0,0,1,J Botha,7c503806,,,caught and bowled,0,0,0
+412694,2010,South Africa,18,CK Langeveldt,d1c94b25,RJ Sidebottom,9dca07d7,M Morkel,5bb5a915,0,0,0,0,0,,,,,,1,0,1
+412694,2010,South Africa,18,M Morkel,5bb5a915,RJ Sidebottom,9dca07d7,CK Langeveldt,d1c94b25,0,0,0,0,0,,,,,,1,0,1
+412694,2010,South Africa,18,CK Langeveldt,d1c94b25,RJ Sidebottom,9dca07d7,M Morkel,5bb5a915,0,0,0,0,0,,,,,,0,0,0
+412694,2010,South Africa,18,CK Langeveldt,d1c94b25,RJ Sidebottom,9dca07d7,M Morkel,5bb5a915,0,0,0,0,0,,,,,,1,0,1
+412694,2010,South Africa,18,M Morkel,5bb5a915,RJ Sidebottom,9dca07d7,CK Langeveldt,d1c94b25,0,0,0,0,1,M Morkel,5bb5a915,,,bowled,0,0,0

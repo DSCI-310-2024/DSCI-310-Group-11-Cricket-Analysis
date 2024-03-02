@@ -1,0 +1,195 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1398296,2023,Malaysia,0,Syed Aziz,6667067e,SI Kamea,0730a707,Zubaidi Zulkifle,dca8273d,1,0,0,0,0,,,,,,0,1,1
+1398296,2023,Malaysia,0,Syed Aziz,6667067e,SI Kamea,0730a707,Zubaidi Zulkifle,dca8273d,0,1,0,0,0,,,,,,0,1,1
+1398296,2023,Malaysia,0,Syed Aziz,6667067e,SI Kamea,0730a707,Zubaidi Zulkifle,dca8273d,0,0,0,0,0,,,,,,1,0,1
+1398296,2023,Malaysia,0,Zubaidi Zulkifle,dca8273d,SI Kamea,0730a707,Syed Aziz,6667067e,0,0,0,0,0,,,,,,1,0,1
+1398296,2023,Malaysia,0,Syed Aziz,6667067e,SI Kamea,0730a707,Zubaidi Zulkifle,dca8273d,0,0,0,0,0,,,,,,0,0,0
+1398296,2023,Malaysia,0,Syed Aziz,6667067e,SI Kamea,0730a707,Zubaidi Zulkifle,dca8273d,0,0,0,0,0,,,,,,6,0,6
+1398296,2023,Malaysia,0,Syed Aziz,6667067e,SI Kamea,0730a707,Zubaidi Zulkifle,dca8273d,0,0,0,0,1,Syed Aziz,6667067e,,,bowled,0,0,0
+1398296,2023,Malaysia,0,Muhammad Amir,60bec5c3,SI Kamea,0730a707,Zubaidi Zulkifle,dca8273d,0,0,0,0,0,,,,,,1,0,1
+1398296,2023,Malaysia,1,Muhammad Amir,60bec5c3,A Nao,4d1ec7eb,Zubaidi Zulkifle,dca8273d,0,0,0,0,0,,,,,,1,0,1
+1398296,2023,Malaysia,1,Zubaidi Zulkifle,dca8273d,A Nao,4d1ec7eb,Muhammad Amir,60bec5c3,0,0,0,0,0,,,,,,0,0,0
+1398296,2023,Malaysia,1,Zubaidi Zulkifle,dca8273d,A Nao,4d1ec7eb,Muhammad Amir,60bec5c3,0,0,0,0,0,,,,,,1,0,1
+1398296,2023,Malaysia,1,Muhammad Amir,60bec5c3,A Nao,4d1ec7eb,Zubaidi Zulkifle,dca8273d,1,0,0,0,0,,,,,,0,1,1
+1398296,2023,Malaysia,1,Muhammad Amir,60bec5c3,A Nao,4d1ec7eb,Zubaidi Zulkifle,dca8273d,0,0,0,0,0,,,,,,4,0,4
+1398296,2023,Malaysia,1,Muhammad Amir,60bec5c3,A Nao,4d1ec7eb,Zubaidi Zulkifle,dca8273d,0,0,0,0,0,,,,,,6,0,6
+1398296,2023,Malaysia,1,Muhammad Amir,60bec5c3,A Nao,4d1ec7eb,Zubaidi Zulkifle,dca8273d,0,0,0,0,0,,,,,,0,0,0
+1398296,2023,Malaysia,2,Zubaidi Zulkifle,dca8273d,N Vanua,a36915ce,Muhammad Amir,60bec5c3,1,0,0,0,0,,,,,,0,1,1
+1398296,2023,Malaysia,2,Zubaidi Zulkifle,dca8273d,N Vanua,a36915ce,Muhammad Amir,60bec5c3,0,0,0,0,1,Zubaidi Zulkifle,dca8273d,TP Ura,a82eb3fb,caught,0,0,0
+1398296,2023,Malaysia,2,Ahmed Faiz,f6b4f746,N Vanua,a36915ce,Muhammad Amir,60bec5c3,0,0,0,0,0,,,,,,2,0,2
+1398296,2023,Malaysia,2,Ahmed Faiz,f6b4f746,N Vanua,a36915ce,Muhammad Amir,60bec5c3,0,0,0,0,0,,,,,,0,0,0
+1398296,2023,Malaysia,2,Ahmed Faiz,f6b4f746,N Vanua,a36915ce,Muhammad Amir,60bec5c3,0,0,0,0,0,,,,,,0,0,0
+1398296,2023,Malaysia,2,Ahmed Faiz,f6b4f746,N Vanua,a36915ce,Muhammad Amir,60bec5c3,0,0,0,0,0,,,,,,6,0,6
+1398296,2023,Malaysia,2,Ahmed Faiz,f6b4f746,N Vanua,a36915ce,Muhammad Amir,60bec5c3,0,0,0,0,0,,,,,,1,0,1
+1398296,2023,Malaysia,3,Ahmed Faiz,f6b4f746,J Kariko,cde067e1,Muhammad Amir,60bec5c3,0,0,0,0,0,,,,,,0,0,0
+1398296,2023,Malaysia,3,Ahmed Faiz,f6b4f746,J Kariko,cde067e1,Muhammad Amir,60bec5c3,0,0,0,0,0,,,,,,1,0,1
+1398296,2023,Malaysia,3,Muhammad Amir,60bec5c3,J Kariko,cde067e1,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,0,0,0
+1398296,2023,Malaysia,3,Muhammad Amir,60bec5c3,J Kariko,cde067e1,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,0,0,0
+1398296,2023,Malaysia,3,Muhammad Amir,60bec5c3,J Kariko,cde067e1,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,0,0,0
+1398296,2023,Malaysia,3,Muhammad Amir,60bec5c3,J Kariko,cde067e1,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,1,0,1
+1398296,2023,Malaysia,4,Muhammad Amir,60bec5c3,N Vanua,a36915ce,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,0,0,0
+1398296,2023,Malaysia,4,Muhammad Amir,60bec5c3,N Vanua,a36915ce,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,4,0,4
+1398296,2023,Malaysia,4,Muhammad Amir,60bec5c3,N Vanua,a36915ce,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,1,0,1
+1398296,2023,Malaysia,4,Ahmed Faiz,f6b4f746,N Vanua,a36915ce,Muhammad Amir,60bec5c3,0,0,0,0,0,,,,,,4,0,4
+1398296,2023,Malaysia,4,Ahmed Faiz,f6b4f746,N Vanua,a36915ce,Muhammad Amir,60bec5c3,0,0,0,0,0,,,,,,0,0,0
+1398296,2023,Malaysia,4,Ahmed Faiz,f6b4f746,N Vanua,a36915ce,Muhammad Amir,60bec5c3,0,0,0,0,0,,,,,,0,0,0
+1398296,2023,Malaysia,5,Muhammad Amir,60bec5c3,A Vala,72e60730,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,0,0,0
+1398296,2023,Malaysia,5,Muhammad Amir,60bec5c3,A Vala,72e60730,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,0,0,0
+1398296,2023,Malaysia,5,Muhammad Amir,60bec5c3,A Vala,72e60730,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,0,0,0
+1398296,2023,Malaysia,5,Muhammad Amir,60bec5c3,A Vala,72e60730,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,6,0,6
+1398296,2023,Malaysia,5,Muhammad Amir,60bec5c3,A Vala,72e60730,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,0,0,0
+1398296,2023,Malaysia,5,Muhammad Amir,60bec5c3,A Vala,72e60730,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,1,0,1
+1398296,2023,Malaysia,6,Muhammad Amir,60bec5c3,R Hekure,c70448aa,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,4,0,4
+1398296,2023,Malaysia,6,Muhammad Amir,60bec5c3,R Hekure,c70448aa,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,0,0,0
+1398296,2023,Malaysia,6,Muhammad Amir,60bec5c3,R Hekure,c70448aa,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,0,0,0
+1398296,2023,Malaysia,6,Muhammad Amir,60bec5c3,R Hekure,c70448aa,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,1,0,1
+1398296,2023,Malaysia,6,Ahmed Faiz,f6b4f746,R Hekure,c70448aa,Muhammad Amir,60bec5c3,0,0,0,0,0,,,,,,1,0,1
+1398296,2023,Malaysia,6,Muhammad Amir,60bec5c3,R Hekure,c70448aa,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,0,0,0
+1398296,2023,Malaysia,7,Ahmed Faiz,f6b4f746,H Hiri,9dc3ea7e,Muhammad Amir,60bec5c3,0,0,0,0,0,,,,,,1,0,1
+1398296,2023,Malaysia,7,Muhammad Amir,60bec5c3,H Hiri,9dc3ea7e,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,1,0,1
+1398296,2023,Malaysia,7,Ahmed Faiz,f6b4f746,H Hiri,9dc3ea7e,Muhammad Amir,60bec5c3,0,0,0,0,0,,,,,,0,0,0
+1398296,2023,Malaysia,7,Ahmed Faiz,f6b4f746,H Hiri,9dc3ea7e,Muhammad Amir,60bec5c3,0,0,0,0,0,,,,,,0,0,0
+1398296,2023,Malaysia,7,Ahmed Faiz,f6b4f746,H Hiri,9dc3ea7e,Muhammad Amir,60bec5c3,0,0,0,0,0,,,,,,1,0,1
+1398296,2023,Malaysia,7,Muhammad Amir,60bec5c3,H Hiri,9dc3ea7e,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,1,0,1
+1398296,2023,Malaysia,8,Muhammad Amir,60bec5c3,SI Kamea,0730a707,Ahmed Faiz,f6b4f746,0,1,0,0,0,,,,,,0,1,1
+1398296,2023,Malaysia,8,Muhammad Amir,60bec5c3,SI Kamea,0730a707,Ahmed Faiz,f6b4f746,0,1,0,0,0,,,,,,0,1,1
+1398296,2023,Malaysia,8,Muhammad Amir,60bec5c3,SI Kamea,0730a707,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,0,0,0
+1398296,2023,Malaysia,8,Muhammad Amir,60bec5c3,SI Kamea,0730a707,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,0,0,0
+1398296,2023,Malaysia,8,Muhammad Amir,60bec5c3,SI Kamea,0730a707,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,4,0,4
+1398296,2023,Malaysia,8,Muhammad Amir,60bec5c3,SI Kamea,0730a707,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,0,0,0
+1398296,2023,Malaysia,8,Muhammad Amir,60bec5c3,SI Kamea,0730a707,Ahmed Faiz,f6b4f746,0,1,0,0,0,,,,,,0,1,1
+1398296,2023,Malaysia,8,Muhammad Amir,60bec5c3,SI Kamea,0730a707,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,0,0,0
+1398296,2023,Malaysia,8,Muhammad Amir,60bec5c3,SI Kamea,0730a707,Ahmed Faiz,f6b4f746,1,0,0,0,0,,,,,,0,1,1
+1398296,2023,Malaysia,8,Muhammad Amir,60bec5c3,SI Kamea,0730a707,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,1,0,1
+1398296,2023,Malaysia,9,Muhammad Amir,60bec5c3,CJA Amini,4d84ad05,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,1,0,1
+1398296,2023,Malaysia,9,Ahmed Faiz,f6b4f746,CJA Amini,4d84ad05,Muhammad Amir,60bec5c3,0,0,0,0,0,,,,,,0,0,0
+1398296,2023,Malaysia,9,Ahmed Faiz,f6b4f746,CJA Amini,4d84ad05,Muhammad Amir,60bec5c3,0,0,0,0,0,,,,,,4,0,4
+1398296,2023,Malaysia,9,Ahmed Faiz,f6b4f746,CJA Amini,4d84ad05,Muhammad Amir,60bec5c3,0,0,0,0,0,,,,,,6,0,6
+1398296,2023,Malaysia,9,Ahmed Faiz,f6b4f746,CJA Amini,4d84ad05,Muhammad Amir,60bec5c3,0,0,0,0,0,,,,,,1,0,1
+1398296,2023,Malaysia,9,Muhammad Amir,60bec5c3,CJA Amini,4d84ad05,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,1,0,1
+1398296,2023,Malaysia,10,Muhammad Amir,60bec5c3,A Nao,4d1ec7eb,Ahmed Faiz,f6b4f746,0,0,0,0,1,Muhammad Amir,60bec5c3,CJA Amini,4d84ad05,caught,0,0,0
+1398296,2023,Malaysia,10,Virandeep Singh,415d30b6,A Nao,4d1ec7eb,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,0,0,0
+1398296,2023,Malaysia,10,Virandeep Singh,415d30b6,A Nao,4d1ec7eb,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,1,0,1
+1398296,2023,Malaysia,10,Ahmed Faiz,f6b4f746,A Nao,4d1ec7eb,Virandeep Singh,415d30b6,0,0,0,0,0,,,,,,1,0,1
+1398296,2023,Malaysia,10,Virandeep Singh,415d30b6,A Nao,4d1ec7eb,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,0,0,0
+1398296,2023,Malaysia,10,Virandeep Singh,415d30b6,A Nao,4d1ec7eb,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,1,0,1
+1398296,2023,Malaysia,11,Virandeep Singh,415d30b6,J Kariko,cde067e1,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,0,0,0
+1398296,2023,Malaysia,11,Virandeep Singh,415d30b6,J Kariko,cde067e1,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,4,0,4
+1398296,2023,Malaysia,11,Virandeep Singh,415d30b6,J Kariko,cde067e1,Ahmed Faiz,f6b4f746,0,0,0,0,1,Virandeep Singh,415d30b6,CJA Amini,4d84ad05,caught,0,0,0
+1398296,2023,Malaysia,11,C Smith,c160db98,J Kariko,cde067e1,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,1,0,1
+1398296,2023,Malaysia,11,Ahmed Faiz,f6b4f746,J Kariko,cde067e1,C Smith,c160db98,0,0,0,0,0,,,,,,1,0,1
+1398296,2023,Malaysia,11,C Smith,c160db98,J Kariko,cde067e1,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,1,0,1
+1398296,2023,Malaysia,12,C Smith,c160db98,R Hekure,c70448aa,Ahmed Faiz,f6b4f746,2,0,0,0,0,,,,,,0,2,2
+1398296,2023,Malaysia,12,Ahmed Faiz,f6b4f746,R Hekure,c70448aa,C Smith,c160db98,0,0,0,0,0,,,,,,4,0,4
+1398296,2023,Malaysia,12,Ahmed Faiz,f6b4f746,R Hekure,c70448aa,C Smith,c160db98,0,0,0,0,0,,,,,,1,0,1
+1398296,2023,Malaysia,12,C Smith,c160db98,R Hekure,c70448aa,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,1,0,1
+1398296,2023,Malaysia,12,Ahmed Faiz,f6b4f746,R Hekure,c70448aa,C Smith,c160db98,0,0,0,0,0,,,,,,0,0,0
+1398296,2023,Malaysia,12,Ahmed Faiz,f6b4f746,R Hekure,c70448aa,C Smith,c160db98,0,0,0,0,0,,,,,,1,0,1
+1398296,2023,Malaysia,12,C Smith,c160db98,R Hekure,c70448aa,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,0,0,0
+1398296,2023,Malaysia,13,Ahmed Faiz,f6b4f746,J Kariko,cde067e1,C Smith,c160db98,0,0,0,0,0,,,,,,6,0,6
+1398296,2023,Malaysia,13,Ahmed Faiz,f6b4f746,J Kariko,cde067e1,C Smith,c160db98,0,0,0,0,0,,,,,,1,0,1
+1398296,2023,Malaysia,13,C Smith,c160db98,J Kariko,cde067e1,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,2,0,2
+1398296,2023,Malaysia,13,C Smith,c160db98,J Kariko,cde067e1,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,0,0,0
+1398296,2023,Malaysia,13,C Smith,c160db98,J Kariko,cde067e1,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,4,0,4
+1398296,2023,Malaysia,13,C Smith,c160db98,J Kariko,cde067e1,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,0,0,0
+1398296,2023,Malaysia,14,Ahmed Faiz,f6b4f746,A Nao,4d1ec7eb,C Smith,c160db98,0,0,0,0,0,,,,,,1,0,1
+1398296,2023,Malaysia,14,C Smith,c160db98,A Nao,4d1ec7eb,Ahmed Faiz,f6b4f746,0,0,0,0,1,C Smith,c160db98,,,bowled,0,0,0
+1398296,2023,Malaysia,14,Ainool Hafizs,1bada9da,A Nao,4d1ec7eb,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,1,0,1
+1398296,2023,Malaysia,14,Ahmed Faiz,f6b4f746,A Nao,4d1ec7eb,Ainool Hafizs,1bada9da,0,0,1,0,0,,,,,,0,1,1
+1398296,2023,Malaysia,14,Ainool Hafizs,1bada9da,A Nao,4d1ec7eb,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,0,0,0
+1398296,2023,Malaysia,14,Ainool Hafizs,1bada9da,A Nao,4d1ec7eb,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,1,0,1
+1398296,2023,Malaysia,15,Ainool Hafizs,1bada9da,SI Kamea,0730a707,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,4,0,4
+1398296,2023,Malaysia,15,Ainool Hafizs,1bada9da,SI Kamea,0730a707,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,1,0,1
+1398296,2023,Malaysia,15,Ahmed Faiz,f6b4f746,SI Kamea,0730a707,Ainool Hafizs,1bada9da,0,0,0,0,0,,,,,,2,0,2
+1398296,2023,Malaysia,15,Ahmed Faiz,f6b4f746,SI Kamea,0730a707,Ainool Hafizs,1bada9da,0,0,0,0,0,,,,,,1,0,1
+1398296,2023,Malaysia,15,Ainool Hafizs,1bada9da,SI Kamea,0730a707,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,1,0,1
+1398296,2023,Malaysia,15,Ahmed Faiz,f6b4f746,SI Kamea,0730a707,Ainool Hafizs,1bada9da,0,0,0,0,0,,,,,,0,0,0
+1398296,2023,Malaysia,16,Ainool Hafizs,1bada9da,N Vanua,a36915ce,Ahmed Faiz,f6b4f746,0,0,0,0,1,Ainool Hafizs,1bada9da,N Vanua,a36915ce,run out,0,0,0
+1398296,2023,Malaysia,16,Khizar Hayat,78bbeba1,N Vanua,a36915ce,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,1,0,1
+1398296,2023,Malaysia,16,Ahmed Faiz,f6b4f746,N Vanua,a36915ce,Khizar Hayat,78bbeba1,0,0,0,0,0,,,,,,0,0,0
+1398296,2023,Malaysia,16,Ahmed Faiz,f6b4f746,N Vanua,a36915ce,Khizar Hayat,78bbeba1,0,0,0,0,0,,,,,,1,0,1
+1398296,2023,Malaysia,16,Khizar Hayat,78bbeba1,N Vanua,a36915ce,Ahmed Faiz,f6b4f746,0,0,0,0,0,,,,,,1,0,1
+1398296,2023,Malaysia,16,Ahmed Faiz,f6b4f746,N Vanua,a36915ce,Khizar Hayat,78bbeba1,0,0,0,0,0,,,,,,1,0,1
+1398296,2023,Malaysia,17,Ahmed Faiz,f6b4f746,SI Kamea,0730a707,Khizar Hayat,78bbeba1,0,0,0,0,1,Ahmed Faiz,f6b4f746,,,bowled,0,0,0
+1398296,2023,Malaysia,17,S Vijay Unni,f737ab44,SI Kamea,0730a707,Khizar Hayat,78bbeba1,0,0,0,0,0,,,,,,0,0,0
+1398296,2023,Malaysia,17,S Vijay Unni,f737ab44,SI Kamea,0730a707,Khizar Hayat,78bbeba1,0,0,0,0,0,,,,,,1,0,1
+1398296,2023,Malaysia,17,Khizar Hayat,78bbeba1,SI Kamea,0730a707,S Vijay Unni,f737ab44,0,0,0,0,0,,,,,,1,0,1
+1398296,2023,Malaysia,17,S Vijay Unni,f737ab44,SI Kamea,0730a707,Khizar Hayat,78bbeba1,0,0,0,0,0,,,,,,0,0,0
+1398296,2023,Malaysia,17,S Vijay Unni,f737ab44,SI Kamea,0730a707,Khizar Hayat,78bbeba1,0,0,0,0,0,,,,,,4,0,4
+1398296,2023,Malaysia,18,Khizar Hayat,78bbeba1,N Vanua,a36915ce,S Vijay Unni,f737ab44,0,0,0,0,1,Khizar Hayat,78bbeba1,H Hiri,9dc3ea7e,caught,0,0,0
+1398296,2023,Malaysia,18,Syazrul Idrus,6dba59e0,N Vanua,a36915ce,S Vijay Unni,f737ab44,0,0,0,0,0,,,,,,2,0,2
+1398296,2023,Malaysia,18,Syazrul Idrus,6dba59e0,N Vanua,a36915ce,S Vijay Unni,f737ab44,0,0,0,0,0,,,,,,2,0,2
+1398296,2023,Malaysia,18,Syazrul Idrus,6dba59e0,N Vanua,a36915ce,S Vijay Unni,f737ab44,0,0,0,0,0,,,,,,1,0,1
+1398296,2023,Malaysia,18,S Vijay Unni,f737ab44,N Vanua,a36915ce,Syazrul Idrus,6dba59e0,0,0,0,0,0,,,,,,0,0,0
+1398296,2023,Malaysia,18,S Vijay Unni,f737ab44,N Vanua,a36915ce,Syazrul Idrus,6dba59e0,0,0,0,0,0,,,,,,1,0,1
+1398296,2023,Malaysia,19,S Vijay Unni,f737ab44,A Nao,4d1ec7eb,Syazrul Idrus,6dba59e0,0,0,0,0,0,,,,,,1,0,1
+1398296,2023,Malaysia,19,Syazrul Idrus,6dba59e0,A Nao,4d1ec7eb,S Vijay Unni,f737ab44,0,0,0,0,0,,,,,,1,0,1
+1398296,2023,Malaysia,19,S Vijay Unni,f737ab44,A Nao,4d1ec7eb,Syazrul Idrus,6dba59e0,0,0,0,0,0,,,,,,0,0,0
+1398296,2023,Malaysia,19,S Vijay Unni,f737ab44,A Nao,4d1ec7eb,Syazrul Idrus,6dba59e0,0,0,0,0,0,,,,,,1,0,1
+1398296,2023,Malaysia,19,Syazrul Idrus,6dba59e0,A Nao,4d1ec7eb,S Vijay Unni,f737ab44,0,0,0,0,0,,,,,,4,0,4
+1398296,2023,Malaysia,19,Syazrul Idrus,6dba59e0,A Nao,4d1ec7eb,S Vijay Unni,f737ab44,0,0,0,0,1,Syazrul Idrus,6dba59e0,,,caught and bowled,0,0,0
+1398296,2023,Papua New Guinea,0,TP Ura,a82eb3fb,Syazrul Idrus,6dba59e0,A Vala,72e60730,1,0,0,0,0,,,,,,0,1,1
+1398296,2023,Papua New Guinea,0,TP Ura,a82eb3fb,Syazrul Idrus,6dba59e0,A Vala,72e60730,1,0,0,0,0,,,,,,0,1,1
+1398296,2023,Papua New Guinea,0,TP Ura,a82eb3fb,Syazrul Idrus,6dba59e0,A Vala,72e60730,1,0,0,0,0,,,,,,0,1,1
+1398296,2023,Papua New Guinea,0,TP Ura,a82eb3fb,Syazrul Idrus,6dba59e0,A Vala,72e60730,1,0,0,0,0,,,,,,0,1,1
+1398296,2023,Papua New Guinea,0,TP Ura,a82eb3fb,Syazrul Idrus,6dba59e0,A Vala,72e60730,1,0,0,0,0,,,,,,0,1,1
+1398296,2023,Papua New Guinea,0,TP Ura,a82eb3fb,Syazrul Idrus,6dba59e0,A Vala,72e60730,0,0,0,0,0,,,,,,1,0,1
+1398296,2023,Papua New Guinea,0,A Vala,72e60730,Syazrul Idrus,6dba59e0,TP Ura,a82eb3fb,2,0,0,0,0,,,,,,0,2,2
+1398296,2023,Papua New Guinea,0,TP Ura,a82eb3fb,Syazrul Idrus,6dba59e0,A Vala,72e60730,0,0,0,0,0,,,,,,1,0,1
+1398296,2023,Papua New Guinea,0,A Vala,72e60730,Syazrul Idrus,6dba59e0,TP Ura,a82eb3fb,0,0,0,0,0,,,,,,4,0,4
+1398296,2023,Papua New Guinea,0,A Vala,72e60730,Syazrul Idrus,6dba59e0,TP Ura,a82eb3fb,0,0,0,0,0,,,,,,4,0,4
+1398296,2023,Papua New Guinea,0,A Vala,72e60730,Syazrul Idrus,6dba59e0,TP Ura,a82eb3fb,0,0,0,0,0,,,,,,1,0,1
+1398296,2023,Papua New Guinea,0,TP Ura,a82eb3fb,Syazrul Idrus,6dba59e0,A Vala,72e60730,0,0,0,0,0,,,,,,6,0,6
+1398296,2023,Papua New Guinea,1,A Vala,72e60730,S Vijay Unni,f737ab44,TP Ura,a82eb3fb,0,0,0,0,0,,,,,,1,0,1
+1398296,2023,Papua New Guinea,1,TP Ura,a82eb3fb,S Vijay Unni,f737ab44,A Vala,72e60730,0,0,0,0,0,,,,,,6,0,6
+1398296,2023,Papua New Guinea,1,TP Ura,a82eb3fb,S Vijay Unni,f737ab44,A Vala,72e60730,0,0,0,0,0,,,,,,0,0,0
+1398296,2023,Papua New Guinea,1,TP Ura,a82eb3fb,S Vijay Unni,f737ab44,A Vala,72e60730,0,0,0,0,0,,,,,,0,0,0
+1398296,2023,Papua New Guinea,1,TP Ura,a82eb3fb,S Vijay Unni,f737ab44,A Vala,72e60730,0,0,0,0,0,,,,,,6,0,6
+1398296,2023,Papua New Guinea,1,TP Ura,a82eb3fb,S Vijay Unni,f737ab44,A Vala,72e60730,0,0,0,0,0,,,,,,1,0,1
+1398296,2023,Papua New Guinea,2,TP Ura,a82eb3fb,Rizwan Haider,dc60abdc,A Vala,72e60730,0,0,0,0,0,,,,,,1,0,1
+1398296,2023,Papua New Guinea,2,A Vala,72e60730,Rizwan Haider,dc60abdc,TP Ura,a82eb3fb,0,0,0,0,0,,,,,,4,0,4
+1398296,2023,Papua New Guinea,2,A Vala,72e60730,Rizwan Haider,dc60abdc,TP Ura,a82eb3fb,0,0,0,0,0,,,,,,1,0,1
+1398296,2023,Papua New Guinea,2,TP Ura,a82eb3fb,Rizwan Haider,dc60abdc,A Vala,72e60730,0,0,0,0,0,,,,,,1,0,1
+1398296,2023,Papua New Guinea,2,A Vala,72e60730,Rizwan Haider,dc60abdc,TP Ura,a82eb3fb,0,0,0,0,0,,,,,,0,0,0
+1398296,2023,Papua New Guinea,2,A Vala,72e60730,Rizwan Haider,dc60abdc,TP Ura,a82eb3fb,0,0,0,0,0,,,,,,0,0,0
+1398296,2023,Papua New Guinea,3,TP Ura,a82eb3fb,Khizar Hayat,78bbeba1,A Vala,72e60730,0,0,0,0,0,,,,,,1,0,1
+1398296,2023,Papua New Guinea,3,A Vala,72e60730,Khizar Hayat,78bbeba1,TP Ura,a82eb3fb,0,0,0,0,0,,,,,,4,0,4
+1398296,2023,Papua New Guinea,3,A Vala,72e60730,Khizar Hayat,78bbeba1,TP Ura,a82eb3fb,0,0,0,0,0,,,,,,4,0,4
+1398296,2023,Papua New Guinea,3,A Vala,72e60730,Khizar Hayat,78bbeba1,TP Ura,a82eb3fb,0,0,0,0,0,,,,,,1,0,1
+1398296,2023,Papua New Guinea,3,TP Ura,a82eb3fb,Khizar Hayat,78bbeba1,A Vala,72e60730,0,0,0,0,0,,,,,,0,0,0
+1398296,2023,Papua New Guinea,3,TP Ura,a82eb3fb,Khizar Hayat,78bbeba1,A Vala,72e60730,0,0,0,0,0,,,,,,0,0,0
+1398296,2023,Papua New Guinea,4,A Vala,72e60730,Rizwan Haider,dc60abdc,TP Ura,a82eb3fb,1,0,0,0,0,,,,,,0,1,1
+1398296,2023,Papua New Guinea,4,A Vala,72e60730,Rizwan Haider,dc60abdc,TP Ura,a82eb3fb,0,0,0,0,0,,,,,,0,0,0
+1398296,2023,Papua New Guinea,4,A Vala,72e60730,Rizwan Haider,dc60abdc,TP Ura,a82eb3fb,0,0,0,0,0,,,,,,1,0,1
+1398296,2023,Papua New Guinea,4,TP Ura,a82eb3fb,Rizwan Haider,dc60abdc,A Vala,72e60730,0,0,0,0,0,,,,,,0,0,0
+1398296,2023,Papua New Guinea,4,TP Ura,a82eb3fb,Rizwan Haider,dc60abdc,A Vala,72e60730,0,0,0,0,0,,,,,,4,0,4
+1398296,2023,Papua New Guinea,4,TP Ura,a82eb3fb,Rizwan Haider,dc60abdc,A Vala,72e60730,0,0,0,0,0,,,,,,4,0,4
+1398296,2023,Papua New Guinea,4,TP Ura,a82eb3fb,Rizwan Haider,dc60abdc,A Vala,72e60730,0,0,0,0,0,,,,,,4,0,4
+1398296,2023,Papua New Guinea,5,A Vala,72e60730,Khizar Hayat,78bbeba1,TP Ura,a82eb3fb,0,0,0,0,0,,,,,,1,0,1
+1398296,2023,Papua New Guinea,5,TP Ura,a82eb3fb,Khizar Hayat,78bbeba1,A Vala,72e60730,0,0,0,0,0,,,,,,0,0,0
+1398296,2023,Papua New Guinea,5,TP Ura,a82eb3fb,Khizar Hayat,78bbeba1,A Vala,72e60730,0,0,0,0,0,,,,,,4,0,4
+1398296,2023,Papua New Guinea,5,TP Ura,a82eb3fb,Khizar Hayat,78bbeba1,A Vala,72e60730,0,0,0,0,0,,,,,,4,0,4
+1398296,2023,Papua New Guinea,5,TP Ura,a82eb3fb,Khizar Hayat,78bbeba1,A Vala,72e60730,0,0,0,0,0,,,,,,1,0,1
+1398296,2023,Papua New Guinea,5,A Vala,72e60730,Khizar Hayat,78bbeba1,TP Ura,a82eb3fb,0,0,0,0,0,,,,,,1,0,1
+1398296,2023,Papua New Guinea,6,A Vala,72e60730,Virandeep Singh,415d30b6,TP Ura,a82eb3fb,0,0,0,0,0,,,,,,4,0,4
+1398296,2023,Papua New Guinea,6,A Vala,72e60730,Virandeep Singh,415d30b6,TP Ura,a82eb3fb,0,0,0,0,0,,,,,,0,0,0
+1398296,2023,Papua New Guinea,6,A Vala,72e60730,Virandeep Singh,415d30b6,TP Ura,a82eb3fb,0,0,0,0,0,,,,,,1,0,1
+1398296,2023,Papua New Guinea,6,TP Ura,a82eb3fb,Virandeep Singh,415d30b6,A Vala,72e60730,0,0,0,0,0,,,,,,1,0,1
+1398296,2023,Papua New Guinea,6,A Vala,72e60730,Virandeep Singh,415d30b6,TP Ura,a82eb3fb,0,0,0,0,0,,,,,,1,0,1
+1398296,2023,Papua New Guinea,6,TP Ura,a82eb3fb,Virandeep Singh,415d30b6,A Vala,72e60730,0,0,0,0,0,,,,,,1,0,1
+1398296,2023,Papua New Guinea,7,TP Ura,a82eb3fb,C Smith,c160db98,A Vala,72e60730,0,0,0,0,0,,,,,,0,0,0
+1398296,2023,Papua New Guinea,7,TP Ura,a82eb3fb,C Smith,c160db98,A Vala,72e60730,0,0,0,0,0,,,,,,1,0,1
+1398296,2023,Papua New Guinea,7,A Vala,72e60730,C Smith,c160db98,TP Ura,a82eb3fb,0,0,0,0,0,,,,,,1,0,1
+1398296,2023,Papua New Guinea,7,TP Ura,a82eb3fb,C Smith,c160db98,A Vala,72e60730,0,0,0,0,0,,,,,,1,0,1
+1398296,2023,Papua New Guinea,7,A Vala,72e60730,C Smith,c160db98,TP Ura,a82eb3fb,0,0,0,0,0,,,,,,1,0,1
+1398296,2023,Papua New Guinea,7,TP Ura,a82eb3fb,C Smith,c160db98,A Vala,72e60730,0,0,0,0,0,,,,,,1,0,1
+1398296,2023,Papua New Guinea,8,TP Ura,a82eb3fb,Virandeep Singh,415d30b6,A Vala,72e60730,0,0,0,0,0,,,,,,1,0,1
+1398296,2023,Papua New Guinea,8,A Vala,72e60730,Virandeep Singh,415d30b6,TP Ura,a82eb3fb,0,0,0,0,0,,,,,,2,0,2
+1398296,2023,Papua New Guinea,8,A Vala,72e60730,Virandeep Singh,415d30b6,TP Ura,a82eb3fb,0,0,0,0,0,,,,,,0,0,0
+1398296,2023,Papua New Guinea,8,A Vala,72e60730,Virandeep Singh,415d30b6,TP Ura,a82eb3fb,0,0,0,0,0,,,,,,1,0,1
+1398296,2023,Papua New Guinea,8,TP Ura,a82eb3fb,Virandeep Singh,415d30b6,A Vala,72e60730,0,0,0,0,0,,,,,,0,0,0
+1398296,2023,Papua New Guinea,8,TP Ura,a82eb3fb,Virandeep Singh,415d30b6,A Vala,72e60730,0,0,0,0,0,,,,,,1,0,1
+1398296,2023,Papua New Guinea,9,TP Ura,a82eb3fb,C Smith,c160db98,A Vala,72e60730,0,0,0,0,0,,,,,,6,0,6
+1398296,2023,Papua New Guinea,9,TP Ura,a82eb3fb,C Smith,c160db98,A Vala,72e60730,0,0,0,0,0,,,,,,4,0,4
+1398296,2023,Papua New Guinea,9,TP Ura,a82eb3fb,C Smith,c160db98,A Vala,72e60730,0,0,0,0,1,TP Ura,a82eb3fb,Zubaidi Zulkifle,dca8273d,caught,0,0,0
+1398296,2023,Papua New Guinea,9,K Doriga,365229a8,C Smith,c160db98,A Vala,72e60730,0,0,0,0,0,,,,,,0,0,0

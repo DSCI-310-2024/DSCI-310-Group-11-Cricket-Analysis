@@ -1,0 +1,237 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+352674,2008/09,England,0,RS Bopara,7ca5e05d,FH Edwards,a7c226e1,SM Davies,8fc65c2b,0,0,0,0,0,,,,,,4,0,4
+352674,2008/09,England,0,RS Bopara,7ca5e05d,FH Edwards,a7c226e1,SM Davies,8fc65c2b,0,0,0,0,0,,,,,,0,0,0
+352674,2008/09,England,0,RS Bopara,7ca5e05d,FH Edwards,a7c226e1,SM Davies,8fc65c2b,0,0,0,0,0,,,,,,1,0,1
+352674,2008/09,England,0,SM Davies,8fc65c2b,FH Edwards,a7c226e1,RS Bopara,7ca5e05d,0,0,0,0,0,,,,,,0,0,0
+352674,2008/09,England,0,SM Davies,8fc65c2b,FH Edwards,a7c226e1,RS Bopara,7ca5e05d,0,0,0,0,0,,,,,,4,0,4
+352674,2008/09,England,0,SM Davies,8fc65c2b,FH Edwards,a7c226e1,RS Bopara,7ca5e05d,0,0,0,0,0,,,,,,0,0,0
+352674,2008/09,England,1,RS Bopara,7ca5e05d,LS Baker,441b1b20,SM Davies,8fc65c2b,0,0,0,0,0,,,,,,1,0,1
+352674,2008/09,England,1,SM Davies,8fc65c2b,LS Baker,441b1b20,RS Bopara,7ca5e05d,0,0,0,0,0,,,,,,2,0,2
+352674,2008/09,England,1,SM Davies,8fc65c2b,LS Baker,441b1b20,RS Bopara,7ca5e05d,0,0,0,0,0,,,,,,4,0,4
+352674,2008/09,England,1,SM Davies,8fc65c2b,LS Baker,441b1b20,RS Bopara,7ca5e05d,0,0,0,0,0,,,,,,1,0,1
+352674,2008/09,England,1,RS Bopara,7ca5e05d,LS Baker,441b1b20,SM Davies,8fc65c2b,0,0,0,0,0,,,,,,0,0,0
+352674,2008/09,England,1,RS Bopara,7ca5e05d,LS Baker,441b1b20,SM Davies,8fc65c2b,0,0,0,0,0,,,,,,1,0,1
+352674,2008/09,England,2,RS Bopara,7ca5e05d,FH Edwards,a7c226e1,SM Davies,8fc65c2b,0,0,0,0,0,,,,,,4,0,4
+352674,2008/09,England,2,RS Bopara,7ca5e05d,FH Edwards,a7c226e1,SM Davies,8fc65c2b,0,0,0,0,0,,,,,,0,0,0
+352674,2008/09,England,2,RS Bopara,7ca5e05d,FH Edwards,a7c226e1,SM Davies,8fc65c2b,0,0,0,0,0,,,,,,1,0,1
+352674,2008/09,England,2,SM Davies,8fc65c2b,FH Edwards,a7c226e1,RS Bopara,7ca5e05d,0,0,0,0,0,,,,,,0,0,0
+352674,2008/09,England,2,SM Davies,8fc65c2b,FH Edwards,a7c226e1,RS Bopara,7ca5e05d,0,0,0,0,0,,,,,,1,0,1
+352674,2008/09,England,2,RS Bopara,7ca5e05d,FH Edwards,a7c226e1,SM Davies,8fc65c2b,0,0,0,0,0,,,,,,1,0,1
+352674,2008/09,England,3,RS Bopara,7ca5e05d,LS Baker,441b1b20,SM Davies,8fc65c2b,0,0,0,0,1,RS Bopara,7ca5e05d,,,bowled,0,0,0
+352674,2008/09,England,3,KP Pietersen,39f01cdb,LS Baker,441b1b20,SM Davies,8fc65c2b,0,0,0,0,0,,,,,,0,0,0
+352674,2008/09,England,3,KP Pietersen,39f01cdb,LS Baker,441b1b20,SM Davies,8fc65c2b,0,0,0,0,0,,,,,,1,0,1
+352674,2008/09,England,3,SM Davies,8fc65c2b,LS Baker,441b1b20,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,0,0,0
+352674,2008/09,England,3,SM Davies,8fc65c2b,LS Baker,441b1b20,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,1,0,1
+352674,2008/09,England,3,KP Pietersen,39f01cdb,LS Baker,441b1b20,SM Davies,8fc65c2b,0,0,0,0,0,,,,,,1,0,1
+352674,2008/09,England,4,KP Pietersen,39f01cdb,DJG Sammy,c03c6200,SM Davies,8fc65c2b,0,0,0,0,0,,,,,,0,0,0
+352674,2008/09,England,4,KP Pietersen,39f01cdb,DJG Sammy,c03c6200,SM Davies,8fc65c2b,0,0,0,0,0,,,,,,0,0,0
+352674,2008/09,England,4,KP Pietersen,39f01cdb,DJG Sammy,c03c6200,SM Davies,8fc65c2b,0,0,4,0,0,,,,,,0,4,4
+352674,2008/09,England,4,KP Pietersen,39f01cdb,DJG Sammy,c03c6200,SM Davies,8fc65c2b,0,0,0,0,0,,,,,,2,0,2
+352674,2008/09,England,4,KP Pietersen,39f01cdb,DJG Sammy,c03c6200,SM Davies,8fc65c2b,0,0,0,0,0,,,,,,1,0,1
+352674,2008/09,England,4,SM Davies,8fc65c2b,DJG Sammy,c03c6200,KP Pietersen,39f01cdb,0,0,1,0,0,,,,,,0,1,1
+352674,2008/09,England,5,SM Davies,8fc65c2b,DJ Bravo,87e562a9,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,0,0,0
+352674,2008/09,England,5,SM Davies,8fc65c2b,DJ Bravo,87e562a9,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,4,0,4
+352674,2008/09,England,5,SM Davies,8fc65c2b,DJ Bravo,87e562a9,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,1,0,1
+352674,2008/09,England,5,KP Pietersen,39f01cdb,DJ Bravo,87e562a9,SM Davies,8fc65c2b,1,0,0,0,0,,,,,,0,1,1
+352674,2008/09,England,5,KP Pietersen,39f01cdb,DJ Bravo,87e562a9,SM Davies,8fc65c2b,0,0,0,0,0,,,,,,1,0,1
+352674,2008/09,England,5,SM Davies,8fc65c2b,DJ Bravo,87e562a9,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,0,0,0
+352674,2008/09,England,5,SM Davies,8fc65c2b,DJ Bravo,87e562a9,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,4,0,4
+352674,2008/09,England,6,KP Pietersen,39f01cdb,SJ Benn,364ee2cf,SM Davies,8fc65c2b,0,0,0,0,0,,,,,,2,0,2
+352674,2008/09,England,6,KP Pietersen,39f01cdb,SJ Benn,364ee2cf,SM Davies,8fc65c2b,0,0,0,0,0,,,,,,1,0,1
+352674,2008/09,England,6,SM Davies,8fc65c2b,SJ Benn,364ee2cf,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,0,0,0
+352674,2008/09,England,6,SM Davies,8fc65c2b,SJ Benn,364ee2cf,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,4,0,4
+352674,2008/09,England,6,SM Davies,8fc65c2b,SJ Benn,364ee2cf,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,0,0,0
+352674,2008/09,England,6,SM Davies,8fc65c2b,SJ Benn,364ee2cf,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,1,0,1
+352674,2008/09,England,7,SM Davies,8fc65c2b,DJ Bravo,87e562a9,KP Pietersen,39f01cdb,0,0,0,0,1,SM Davies,8fc65c2b,,,bowled,0,0,0
+352674,2008/09,England,7,OA Shah,7bf96684,DJ Bravo,87e562a9,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,0,0,0
+352674,2008/09,England,7,OA Shah,7bf96684,DJ Bravo,87e562a9,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,0,0,0
+352674,2008/09,England,7,OA Shah,7bf96684,DJ Bravo,87e562a9,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,0,0,0
+352674,2008/09,England,7,OA Shah,7bf96684,DJ Bravo,87e562a9,KP Pietersen,39f01cdb,5,0,0,0,0,,,,,,0,5,5
+352674,2008/09,England,7,OA Shah,7bf96684,DJ Bravo,87e562a9,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,1,0,1
+352674,2008/09,England,7,KP Pietersen,39f01cdb,DJ Bravo,87e562a9,OA Shah,7bf96684,0,0,0,0,0,,,,,,1,0,1
+352674,2008/09,England,8,KP Pietersen,39f01cdb,SJ Benn,364ee2cf,OA Shah,7bf96684,0,0,0,0,0,,,,,,0,0,0
+352674,2008/09,England,8,KP Pietersen,39f01cdb,SJ Benn,364ee2cf,OA Shah,7bf96684,0,0,0,0,0,,,,,,1,0,1
+352674,2008/09,England,8,OA Shah,7bf96684,SJ Benn,364ee2cf,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,1,0,1
+352674,2008/09,England,8,KP Pietersen,39f01cdb,SJ Benn,364ee2cf,OA Shah,7bf96684,0,0,0,0,0,,,,,,1,0,1
+352674,2008/09,England,8,OA Shah,7bf96684,SJ Benn,364ee2cf,KP Pietersen,39f01cdb,0,0,0,0,0,,,,,,1,0,1
+352674,2008/09,England,8,KP Pietersen,39f01cdb,SJ Benn,364ee2cf,OA Shah,7bf96684,0,0,0,0,1,KP Pietersen,39f01cdb,,,lbw,0,0,0
+352674,2008/09,England,9,OA Shah,7bf96684,DJ Bravo,87e562a9,PD Collingwood,a386e91b,0,0,0,0,0,,,,,,1,0,1
+352674,2008/09,England,9,PD Collingwood,a386e91b,DJ Bravo,87e562a9,OA Shah,7bf96684,0,0,0,0,0,,,,,,0,0,0
+352674,2008/09,England,9,PD Collingwood,a386e91b,DJ Bravo,87e562a9,OA Shah,7bf96684,0,0,0,0,0,,,,,,1,0,1
+352674,2008/09,England,9,OA Shah,7bf96684,DJ Bravo,87e562a9,PD Collingwood,a386e91b,0,0,0,0,0,,,,,,0,0,0
+352674,2008/09,England,9,OA Shah,7bf96684,DJ Bravo,87e562a9,PD Collingwood,a386e91b,0,0,1,0,0,,,,,,0,1,1
+352674,2008/09,England,9,PD Collingwood,a386e91b,DJ Bravo,87e562a9,OA Shah,7bf96684,0,0,0,0,0,,,,,,4,0,4
+352674,2008/09,England,10,OA Shah,7bf96684,SJ Benn,364ee2cf,PD Collingwood,a386e91b,0,0,0,0,0,,,,,,1,0,1
+352674,2008/09,England,10,PD Collingwood,a386e91b,SJ Benn,364ee2cf,OA Shah,7bf96684,0,0,0,0,0,,,,,,1,0,1
+352674,2008/09,England,10,OA Shah,7bf96684,SJ Benn,364ee2cf,PD Collingwood,a386e91b,5,0,0,0,0,,,,,,0,5,5
+352674,2008/09,England,10,OA Shah,7bf96684,SJ Benn,364ee2cf,PD Collingwood,a386e91b,0,0,0,0,0,,,,,,1,0,1
+352674,2008/09,England,10,PD Collingwood,a386e91b,SJ Benn,364ee2cf,OA Shah,7bf96684,0,0,0,0,0,,,,,,1,0,1
+352674,2008/09,England,10,OA Shah,7bf96684,SJ Benn,364ee2cf,PD Collingwood,a386e91b,0,0,0,0,1,OA Shah,7bf96684,KA Pollard,a757b0d8,caught,0,0,0
+352674,2008/09,England,10,PD Collingwood,a386e91b,SJ Benn,364ee2cf,AJ Strauss,b68d14a9,0,0,0,0,0,,,,,,0,0,0
+352674,2008/09,England,11,AJ Strauss,b68d14a9,DJ Bravo,87e562a9,PD Collingwood,a386e91b,0,0,0,0,0,,,,,,1,0,1
+352674,2008/09,England,11,PD Collingwood,a386e91b,DJ Bravo,87e562a9,AJ Strauss,b68d14a9,0,0,0,0,0,,,,,,1,0,1
+352674,2008/09,England,11,AJ Strauss,b68d14a9,DJ Bravo,87e562a9,PD Collingwood,a386e91b,1,0,0,0,0,,,,,,0,1,1
+352674,2008/09,England,11,AJ Strauss,b68d14a9,DJ Bravo,87e562a9,PD Collingwood,a386e91b,0,0,0,0,0,,,,,,1,0,1
+352674,2008/09,England,11,PD Collingwood,a386e91b,DJ Bravo,87e562a9,AJ Strauss,b68d14a9,0,0,0,0,0,,,,,,1,0,1
+352674,2008/09,England,11,AJ Strauss,b68d14a9,DJ Bravo,87e562a9,PD Collingwood,a386e91b,0,0,0,0,0,,,,,,1,0,1
+352674,2008/09,England,11,PD Collingwood,a386e91b,DJ Bravo,87e562a9,AJ Strauss,b68d14a9,0,0,0,0,0,,,,,,4,0,4
+352674,2008/09,England,12,AJ Strauss,b68d14a9,DJG Sammy,c03c6200,PD Collingwood,a386e91b,0,0,0,0,0,,,,,,0,0,0
+352674,2008/09,England,12,AJ Strauss,b68d14a9,DJG Sammy,c03c6200,PD Collingwood,a386e91b,0,0,0,0,0,,,,,,1,0,1
+352674,2008/09,England,12,PD Collingwood,a386e91b,DJG Sammy,c03c6200,AJ Strauss,b68d14a9,0,0,0,0,0,,,,,,1,0,1
+352674,2008/09,England,12,AJ Strauss,b68d14a9,DJG Sammy,c03c6200,PD Collingwood,a386e91b,0,0,0,0,0,,,,,,1,0,1
+352674,2008/09,England,12,PD Collingwood,a386e91b,DJG Sammy,c03c6200,AJ Strauss,b68d14a9,0,0,0,0,1,PD Collingwood,a386e91b,LMP Simmons,89f64c19,caught,0,0,0
+352674,2008/09,England,12,AJ Strauss,b68d14a9,DJG Sammy,c03c6200,AD Mascarenhas,3edb58fc,0,0,0,0,0,,,,,,1,0,1
+352674,2008/09,England,13,AJ Strauss,b68d14a9,KA Pollard,a757b0d8,AD Mascarenhas,3edb58fc,0,0,0,0,0,,,,,,0,0,0
+352674,2008/09,England,13,AJ Strauss,b68d14a9,KA Pollard,a757b0d8,AD Mascarenhas,3edb58fc,0,0,0,0,0,,,,,,0,0,0
+352674,2008/09,England,13,AJ Strauss,b68d14a9,KA Pollard,a757b0d8,AD Mascarenhas,3edb58fc,0,0,0,0,0,,,,,,0,0,0
+352674,2008/09,England,13,AJ Strauss,b68d14a9,KA Pollard,a757b0d8,AD Mascarenhas,3edb58fc,0,0,0,0,0,,,,,,1,0,1
+352674,2008/09,England,13,AD Mascarenhas,3edb58fc,KA Pollard,a757b0d8,AJ Strauss,b68d14a9,0,0,0,0,0,,,,,,0,0,0
+352674,2008/09,England,13,AD Mascarenhas,3edb58fc,KA Pollard,a757b0d8,AJ Strauss,b68d14a9,0,0,0,0,0,,,,,,0,0,0
+352674,2008/09,England,14,AJ Strauss,b68d14a9,DJG Sammy,c03c6200,AD Mascarenhas,3edb58fc,0,0,0,0,0,,,,,,0,0,0
+352674,2008/09,England,14,AJ Strauss,b68d14a9,DJG Sammy,c03c6200,AD Mascarenhas,3edb58fc,0,0,0,0,0,,,,,,1,0,1
+352674,2008/09,England,14,AD Mascarenhas,3edb58fc,DJG Sammy,c03c6200,AJ Strauss,b68d14a9,0,0,0,0,1,AD Mascarenhas,3edb58fc,RR Sarwan,36d33dd0,run out,0,0,0
+352674,2008/09,England,14,AJ Strauss,b68d14a9,DJG Sammy,c03c6200,GJ Batty,5ac8f17b,0,0,0,0,0,,,,,,1,0,1
+352674,2008/09,England,14,GJ Batty,5ac8f17b,DJG Sammy,c03c6200,AJ Strauss,b68d14a9,0,0,0,0,0,,,,,,1,0,1
+352674,2008/09,England,14,AJ Strauss,b68d14a9,DJG Sammy,c03c6200,GJ Batty,5ac8f17b,0,0,0,0,0,,,,,,1,0,1
+352674,2008/09,England,15,AJ Strauss,b68d14a9,KA Pollard,a757b0d8,GJ Batty,5ac8f17b,0,0,0,0,0,,,,,,2,0,2
+352674,2008/09,England,15,AJ Strauss,b68d14a9,KA Pollard,a757b0d8,GJ Batty,5ac8f17b,0,0,0,0,0,,,,,,4,0,4
+352674,2008/09,England,15,AJ Strauss,b68d14a9,KA Pollard,a757b0d8,GJ Batty,5ac8f17b,0,0,0,0,0,,,,,,0,0,0
+352674,2008/09,England,15,AJ Strauss,b68d14a9,KA Pollard,a757b0d8,GJ Batty,5ac8f17b,0,0,0,0,0,,,,,,4,0,4
+352674,2008/09,England,15,AJ Strauss,b68d14a9,KA Pollard,a757b0d8,GJ Batty,5ac8f17b,0,0,0,0,0,,,,,,0,0,0
+352674,2008/09,England,15,AJ Strauss,b68d14a9,KA Pollard,a757b0d8,GJ Batty,5ac8f17b,0,0,0,0,0,,,,,,1,0,1
+352674,2008/09,England,16,AJ Strauss,b68d14a9,DJG Sammy,c03c6200,GJ Batty,5ac8f17b,0,0,0,0,0,,,,,,0,0,0
+352674,2008/09,England,16,AJ Strauss,b68d14a9,DJG Sammy,c03c6200,GJ Batty,5ac8f17b,0,0,0,0,0,,,,,,1,0,1
+352674,2008/09,England,16,GJ Batty,5ac8f17b,DJG Sammy,c03c6200,AJ Strauss,b68d14a9,0,0,0,0,0,,,,,,1,0,1
+352674,2008/09,England,16,AJ Strauss,b68d14a9,DJG Sammy,c03c6200,GJ Batty,5ac8f17b,0,0,0,0,0,,,,,,0,0,0
+352674,2008/09,England,16,AJ Strauss,b68d14a9,DJG Sammy,c03c6200,GJ Batty,5ac8f17b,0,0,0,0,1,AJ Strauss,b68d14a9,S Chanderpaul,881a9bdd,run out,0,0,0
+352674,2008/09,England,16,GJ Batty,5ac8f17b,DJG Sammy,c03c6200,SCJ Broad,eba6a852,0,0,0,0,0,,,,,,1,0,1
+352674,2008/09,England,17,GJ Batty,5ac8f17b,FH Edwards,a7c226e1,SCJ Broad,eba6a852,0,0,0,0,0,,,,,,1,0,1
+352674,2008/09,England,17,SCJ Broad,eba6a852,FH Edwards,a7c226e1,GJ Batty,5ac8f17b,0,0,0,0,0,,,,,,1,0,1
+352674,2008/09,England,17,GJ Batty,5ac8f17b,FH Edwards,a7c226e1,SCJ Broad,eba6a852,0,0,0,0,0,,,,,,0,0,0
+352674,2008/09,England,17,GJ Batty,5ac8f17b,FH Edwards,a7c226e1,SCJ Broad,eba6a852,0,0,0,0,0,,,,,,0,0,0
+352674,2008/09,England,17,GJ Batty,5ac8f17b,FH Edwards,a7c226e1,SCJ Broad,eba6a852,0,0,0,0,1,GJ Batty,5ac8f17b,RR Sarwan,36d33dd0,run out,0,0,0
+352674,2008/09,England,17,SCJ Broad,eba6a852,FH Edwards,a7c226e1,A Khan,e27cff77,0,0,0,0,0,,,,,,0,0,0
+352674,2008/09,England,18,A Khan,e27cff77,SJ Benn,364ee2cf,SCJ Broad,eba6a852,0,0,0,0,0,,,,,,1,0,1
+352674,2008/09,England,18,SCJ Broad,eba6a852,SJ Benn,364ee2cf,A Khan,e27cff77,0,0,1,0,0,,,,,,0,1,1
+352674,2008/09,England,18,A Khan,e27cff77,SJ Benn,364ee2cf,SCJ Broad,eba6a852,0,0,0,0,0,,,,,,0,0,0
+352674,2008/09,England,18,A Khan,e27cff77,SJ Benn,364ee2cf,SCJ Broad,eba6a852,0,0,0,0,0,,,,,,1,0,1
+352674,2008/09,England,18,SCJ Broad,eba6a852,SJ Benn,364ee2cf,A Khan,e27cff77,0,0,0,0,0,,,,,,1,0,1
+352674,2008/09,England,18,A Khan,e27cff77,SJ Benn,364ee2cf,SCJ Broad,eba6a852,0,0,0,0,1,A Khan,e27cff77,,,bowled,0,0,0
+352674,2008/09,England,19,SCJ Broad,eba6a852,FH Edwards,a7c226e1,JM Anderson,d12143bf,0,0,0,0,1,SCJ Broad,eba6a852,SJ Benn,364ee2cf,caught,0,0,0
+352674,2008/09,West Indies,0,RR Sarwan,36d33dd0,JM Anderson,d12143bf,ADS Fletcher,1bae756b,1,0,0,0,0,,,,,,0,1,1
+352674,2008/09,West Indies,0,RR Sarwan,36d33dd0,JM Anderson,d12143bf,ADS Fletcher,1bae756b,0,0,0,0,0,,,,,,0,0,0
+352674,2008/09,West Indies,0,RR Sarwan,36d33dd0,JM Anderson,d12143bf,ADS Fletcher,1bae756b,0,0,0,0,0,,,,,,1,0,1
+352674,2008/09,West Indies,0,ADS Fletcher,1bae756b,JM Anderson,d12143bf,RR Sarwan,36d33dd0,0,0,0,0,0,,,,,,0,0,0
+352674,2008/09,West Indies,0,ADS Fletcher,1bae756b,JM Anderson,d12143bf,RR Sarwan,36d33dd0,1,0,0,0,0,,,,,,0,1,1
+352674,2008/09,West Indies,0,ADS Fletcher,1bae756b,JM Anderson,d12143bf,RR Sarwan,36d33dd0,0,0,0,0,0,,,,,,0,0,0
+352674,2008/09,West Indies,0,ADS Fletcher,1bae756b,JM Anderson,d12143bf,RR Sarwan,36d33dd0,0,0,0,0,0,,,,,,2,0,2
+352674,2008/09,West Indies,0,ADS Fletcher,1bae756b,JM Anderson,d12143bf,RR Sarwan,36d33dd0,1,0,0,0,0,,,,,,0,1,1
+352674,2008/09,West Indies,0,ADS Fletcher,1bae756b,JM Anderson,d12143bf,RR Sarwan,36d33dd0,0,0,0,0,0,,,,,,4,0,4
+352674,2008/09,West Indies,1,RR Sarwan,36d33dd0,SCJ Broad,eba6a852,ADS Fletcher,1bae756b,0,0,0,0,0,,,,,,1,0,1
+352674,2008/09,West Indies,1,ADS Fletcher,1bae756b,SCJ Broad,eba6a852,RR Sarwan,36d33dd0,0,0,0,0,1,ADS Fletcher,1bae756b,AD Mascarenhas,3edb58fc,caught,0,0,0
+352674,2008/09,West Indies,1,RR Sarwan,36d33dd0,SCJ Broad,eba6a852,S Chanderpaul,881a9bdd,0,0,0,0,0,,,,,,0,0,0
+352674,2008/09,West Indies,1,RR Sarwan,36d33dd0,SCJ Broad,eba6a852,S Chanderpaul,881a9bdd,0,0,0,0,0,,,,,,1,0,1
+352674,2008/09,West Indies,1,S Chanderpaul,881a9bdd,SCJ Broad,eba6a852,RR Sarwan,36d33dd0,0,0,0,0,0,,,,,,4,0,4
+352674,2008/09,West Indies,1,S Chanderpaul,881a9bdd,SCJ Broad,eba6a852,RR Sarwan,36d33dd0,0,0,0,0,0,,,,,,0,0,0
+352674,2008/09,West Indies,2,RR Sarwan,36d33dd0,A Khan,e27cff77,S Chanderpaul,881a9bdd,0,0,0,0,0,,,,,,4,0,4
+352674,2008/09,West Indies,2,RR Sarwan,36d33dd0,A Khan,e27cff77,S Chanderpaul,881a9bdd,0,0,0,0,0,,,,,,4,0,4
+352674,2008/09,West Indies,2,RR Sarwan,36d33dd0,A Khan,e27cff77,S Chanderpaul,881a9bdd,0,0,0,0,0,,,,,,1,0,1
+352674,2008/09,West Indies,2,S Chanderpaul,881a9bdd,A Khan,e27cff77,RR Sarwan,36d33dd0,0,0,0,0,0,,,,,,0,0,0
+352674,2008/09,West Indies,2,S Chanderpaul,881a9bdd,A Khan,e27cff77,RR Sarwan,36d33dd0,0,0,0,0,0,,,,,,4,0,4
+352674,2008/09,West Indies,2,S Chanderpaul,881a9bdd,A Khan,e27cff77,RR Sarwan,36d33dd0,0,0,0,0,0,,,,,,0,0,0
+352674,2008/09,West Indies,3,RR Sarwan,36d33dd0,SCJ Broad,eba6a852,S Chanderpaul,881a9bdd,1,0,0,0,0,,,,,,0,1,1
+352674,2008/09,West Indies,3,RR Sarwan,36d33dd0,SCJ Broad,eba6a852,S Chanderpaul,881a9bdd,0,0,0,0,0,,,,,,1,0,1
+352674,2008/09,West Indies,3,S Chanderpaul,881a9bdd,SCJ Broad,eba6a852,RR Sarwan,36d33dd0,0,0,0,0,0,,,,,,4,0,4
+352674,2008/09,West Indies,3,S Chanderpaul,881a9bdd,SCJ Broad,eba6a852,RR Sarwan,36d33dd0,0,0,0,1,0,,,,,,0,1,1
+352674,2008/09,West Indies,3,RR Sarwan,36d33dd0,SCJ Broad,eba6a852,S Chanderpaul,881a9bdd,0,0,0,0,0,,,,,,1,0,1
+352674,2008/09,West Indies,3,S Chanderpaul,881a9bdd,SCJ Broad,eba6a852,RR Sarwan,36d33dd0,0,0,0,0,0,,,,,,0,0,0
+352674,2008/09,West Indies,3,S Chanderpaul,881a9bdd,SCJ Broad,eba6a852,RR Sarwan,36d33dd0,1,0,0,0,0,,,,,,0,1,1
+352674,2008/09,West Indies,3,S Chanderpaul,881a9bdd,SCJ Broad,eba6a852,RR Sarwan,36d33dd0,0,0,0,0,0,,,,,,0,0,0
+352674,2008/09,West Indies,4,RR Sarwan,36d33dd0,JM Anderson,d12143bf,S Chanderpaul,881a9bdd,0,0,0,0,0,,,,,,6,0,6
+352674,2008/09,West Indies,4,RR Sarwan,36d33dd0,JM Anderson,d12143bf,S Chanderpaul,881a9bdd,0,0,0,0,0,,,,,,1,0,1
+352674,2008/09,West Indies,4,S Chanderpaul,881a9bdd,JM Anderson,d12143bf,RR Sarwan,36d33dd0,0,0,0,0,0,,,,,,0,0,0
+352674,2008/09,West Indies,4,S Chanderpaul,881a9bdd,JM Anderson,d12143bf,RR Sarwan,36d33dd0,0,0,0,0,0,,,,,,0,0,0
+352674,2008/09,West Indies,4,S Chanderpaul,881a9bdd,JM Anderson,d12143bf,RR Sarwan,36d33dd0,0,0,0,0,0,,,,,,0,0,0
+352674,2008/09,West Indies,4,S Chanderpaul,881a9bdd,JM Anderson,d12143bf,RR Sarwan,36d33dd0,0,0,0,0,1,S Chanderpaul,881a9bdd,PD Collingwood,a386e91b,caught,0,0,0
+352674,2008/09,West Indies,5,RR Sarwan,36d33dd0,A Khan,e27cff77,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,1,0,1
+352674,2008/09,West Indies,5,LMP Simmons,89f64c19,A Khan,e27cff77,RR Sarwan,36d33dd0,0,0,0,0,0,,,,,,0,0,0
+352674,2008/09,West Indies,5,LMP Simmons,89f64c19,A Khan,e27cff77,RR Sarwan,36d33dd0,0,0,0,0,0,,,,,,1,0,1
+352674,2008/09,West Indies,5,RR Sarwan,36d33dd0,A Khan,e27cff77,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,2,0,2
+352674,2008/09,West Indies,5,RR Sarwan,36d33dd0,A Khan,e27cff77,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,1,0,1
+352674,2008/09,West Indies,5,LMP Simmons,89f64c19,A Khan,e27cff77,RR Sarwan,36d33dd0,0,0,0,0,0,,,,,,1,0,1
+352674,2008/09,West Indies,6,LMP Simmons,89f64c19,GJ Batty,5ac8f17b,RR Sarwan,36d33dd0,0,0,0,0,0,,,,,,1,0,1
+352674,2008/09,West Indies,6,RR Sarwan,36d33dd0,GJ Batty,5ac8f17b,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,0,0,0
+352674,2008/09,West Indies,6,RR Sarwan,36d33dd0,GJ Batty,5ac8f17b,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,1,0,1
+352674,2008/09,West Indies,6,LMP Simmons,89f64c19,GJ Batty,5ac8f17b,RR Sarwan,36d33dd0,0,0,0,0,0,,,,,,0,0,0
+352674,2008/09,West Indies,6,LMP Simmons,89f64c19,GJ Batty,5ac8f17b,RR Sarwan,36d33dd0,1,0,0,0,0,,,,,,0,1,1
+352674,2008/09,West Indies,6,LMP Simmons,89f64c19,GJ Batty,5ac8f17b,RR Sarwan,36d33dd0,0,0,0,0,0,,,,,,0,0,0
+352674,2008/09,West Indies,6,LMP Simmons,89f64c19,GJ Batty,5ac8f17b,RR Sarwan,36d33dd0,0,0,0,0,0,,,,,,1,0,1
+352674,2008/09,West Indies,7,LMP Simmons,89f64c19,AD Mascarenhas,3edb58fc,RR Sarwan,36d33dd0,0,0,0,0,0,,,,,,0,0,0
+352674,2008/09,West Indies,7,LMP Simmons,89f64c19,AD Mascarenhas,3edb58fc,RR Sarwan,36d33dd0,0,0,0,0,0,,,,,,0,0,0
+352674,2008/09,West Indies,7,LMP Simmons,89f64c19,AD Mascarenhas,3edb58fc,RR Sarwan,36d33dd0,0,0,0,0,0,,,,,,0,0,0
+352674,2008/09,West Indies,7,LMP Simmons,89f64c19,AD Mascarenhas,3edb58fc,RR Sarwan,36d33dd0,0,0,0,0,0,,,,,,0,0,0
+352674,2008/09,West Indies,7,LMP Simmons,89f64c19,AD Mascarenhas,3edb58fc,RR Sarwan,36d33dd0,0,0,0,0,0,,,,,,0,0,0
+352674,2008/09,West Indies,7,LMP Simmons,89f64c19,AD Mascarenhas,3edb58fc,RR Sarwan,36d33dd0,0,0,0,0,0,,,,,,2,0,2
+352674,2008/09,West Indies,8,RR Sarwan,36d33dd0,GJ Batty,5ac8f17b,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,0,0,0
+352674,2008/09,West Indies,8,RR Sarwan,36d33dd0,GJ Batty,5ac8f17b,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,6,0,6
+352674,2008/09,West Indies,8,RR Sarwan,36d33dd0,GJ Batty,5ac8f17b,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,0,0,0
+352674,2008/09,West Indies,8,RR Sarwan,36d33dd0,GJ Batty,5ac8f17b,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,1,0,1
+352674,2008/09,West Indies,8,LMP Simmons,89f64c19,GJ Batty,5ac8f17b,RR Sarwan,36d33dd0,0,0,0,0,0,,,,,,0,0,0
+352674,2008/09,West Indies,8,LMP Simmons,89f64c19,GJ Batty,5ac8f17b,RR Sarwan,36d33dd0,0,0,0,0,0,,,,,,0,0,0
+352674,2008/09,West Indies,9,RR Sarwan,36d33dd0,AD Mascarenhas,3edb58fc,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,1,0,1
+352674,2008/09,West Indies,9,LMP Simmons,89f64c19,AD Mascarenhas,3edb58fc,RR Sarwan,36d33dd0,0,0,0,0,0,,,,,,1,0,1
+352674,2008/09,West Indies,9,RR Sarwan,36d33dd0,AD Mascarenhas,3edb58fc,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,0,0,0
+352674,2008/09,West Indies,9,RR Sarwan,36d33dd0,AD Mascarenhas,3edb58fc,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,1,0,1
+352674,2008/09,West Indies,9,LMP Simmons,89f64c19,AD Mascarenhas,3edb58fc,RR Sarwan,36d33dd0,0,0,0,0,0,,,,,,2,0,2
+352674,2008/09,West Indies,9,LMP Simmons,89f64c19,AD Mascarenhas,3edb58fc,RR Sarwan,36d33dd0,0,0,0,0,0,,,,,,1,0,1
+352674,2008/09,West Indies,10,LMP Simmons,89f64c19,PD Collingwood,a386e91b,RR Sarwan,36d33dd0,0,0,0,0,0,,,,,,0,0,0
+352674,2008/09,West Indies,10,LMP Simmons,89f64c19,PD Collingwood,a386e91b,RR Sarwan,36d33dd0,0,0,0,0,0,,,,,,1,0,1
+352674,2008/09,West Indies,10,RR Sarwan,36d33dd0,PD Collingwood,a386e91b,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,1,0,1
+352674,2008/09,West Indies,10,LMP Simmons,89f64c19,PD Collingwood,a386e91b,RR Sarwan,36d33dd0,0,0,0,0,0,,,,,,2,0,2
+352674,2008/09,West Indies,10,LMP Simmons,89f64c19,PD Collingwood,a386e91b,RR Sarwan,36d33dd0,0,0,0,0,0,,,,,,4,0,4
+352674,2008/09,West Indies,10,LMP Simmons,89f64c19,PD Collingwood,a386e91b,RR Sarwan,36d33dd0,0,0,0,0,0,,,,,,0,0,0
+352674,2008/09,West Indies,11,RR Sarwan,36d33dd0,AD Mascarenhas,3edb58fc,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,0,0,0
+352674,2008/09,West Indies,11,RR Sarwan,36d33dd0,AD Mascarenhas,3edb58fc,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,2,0,2
+352674,2008/09,West Indies,11,RR Sarwan,36d33dd0,AD Mascarenhas,3edb58fc,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,2,0,2
+352674,2008/09,West Indies,11,RR Sarwan,36d33dd0,AD Mascarenhas,3edb58fc,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,0,0,0
+352674,2008/09,West Indies,11,RR Sarwan,36d33dd0,AD Mascarenhas,3edb58fc,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,0,0,0
+352674,2008/09,West Indies,11,RR Sarwan,36d33dd0,AD Mascarenhas,3edb58fc,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,1,0,1
+352674,2008/09,West Indies,12,RR Sarwan,36d33dd0,GJ Batty,5ac8f17b,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,2,0,2
+352674,2008/09,West Indies,12,RR Sarwan,36d33dd0,GJ Batty,5ac8f17b,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,2,0,2
+352674,2008/09,West Indies,12,RR Sarwan,36d33dd0,GJ Batty,5ac8f17b,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,0,0,0
+352674,2008/09,West Indies,12,RR Sarwan,36d33dd0,GJ Batty,5ac8f17b,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,1,0,1
+352674,2008/09,West Indies,12,LMP Simmons,89f64c19,GJ Batty,5ac8f17b,RR Sarwan,36d33dd0,0,0,0,0,0,,,,,,0,0,0
+352674,2008/09,West Indies,12,LMP Simmons,89f64c19,GJ Batty,5ac8f17b,RR Sarwan,36d33dd0,0,0,0,0,0,,,,,,1,0,1
+352674,2008/09,West Indies,13,LMP Simmons,89f64c19,AD Mascarenhas,3edb58fc,RR Sarwan,36d33dd0,0,0,0,0,0,,,,,,1,0,1
+352674,2008/09,West Indies,13,RR Sarwan,36d33dd0,AD Mascarenhas,3edb58fc,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,0,0,0
+352674,2008/09,West Indies,13,RR Sarwan,36d33dd0,AD Mascarenhas,3edb58fc,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,1,0,1
+352674,2008/09,West Indies,13,LMP Simmons,89f64c19,AD Mascarenhas,3edb58fc,RR Sarwan,36d33dd0,0,0,0,0,0,,,,,,1,0,1
+352674,2008/09,West Indies,13,RR Sarwan,36d33dd0,AD Mascarenhas,3edb58fc,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,0,0,0
+352674,2008/09,West Indies,13,RR Sarwan,36d33dd0,AD Mascarenhas,3edb58fc,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,1,0,1
+352674,2008/09,West Indies,14,RR Sarwan,36d33dd0,SCJ Broad,eba6a852,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,2,0,2
+352674,2008/09,West Indies,14,RR Sarwan,36d33dd0,SCJ Broad,eba6a852,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,0,0,0
+352674,2008/09,West Indies,14,RR Sarwan,36d33dd0,SCJ Broad,eba6a852,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,4,0,4
+352674,2008/09,West Indies,14,RR Sarwan,36d33dd0,SCJ Broad,eba6a852,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,4,0,4
+352674,2008/09,West Indies,14,RR Sarwan,36d33dd0,SCJ Broad,eba6a852,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,0,0,0
+352674,2008/09,West Indies,14,RR Sarwan,36d33dd0,SCJ Broad,eba6a852,LMP Simmons,89f64c19,1,0,0,0,0,,,,,,0,1,1
+352674,2008/09,West Indies,14,RR Sarwan,36d33dd0,SCJ Broad,eba6a852,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,1,0,1
+352674,2008/09,West Indies,15,RR Sarwan,36d33dd0,A Khan,e27cff77,LMP Simmons,89f64c19,0,0,0,0,1,RR Sarwan,36d33dd0,,,bowled,0,0,0
+352674,2008/09,West Indies,15,DJ Bravo,87e562a9,A Khan,e27cff77,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,0,0,0
+352674,2008/09,West Indies,15,DJ Bravo,87e562a9,A Khan,e27cff77,LMP Simmons,89f64c19,1,0,0,0,0,,,,,,0,1,1
+352674,2008/09,West Indies,15,DJ Bravo,87e562a9,A Khan,e27cff77,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,0,0,0
+352674,2008/09,West Indies,15,DJ Bravo,87e562a9,A Khan,e27cff77,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,0,0,0
+352674,2008/09,West Indies,15,DJ Bravo,87e562a9,A Khan,e27cff77,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,0,0,0
+352674,2008/09,West Indies,15,DJ Bravo,87e562a9,A Khan,e27cff77,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,4,0,4
+352674,2008/09,West Indies,16,LMP Simmons,89f64c19,JM Anderson,d12143bf,DJ Bravo,87e562a9,0,0,0,0,0,,,,,,1,0,1
+352674,2008/09,West Indies,16,DJ Bravo,87e562a9,JM Anderson,d12143bf,LMP Simmons,89f64c19,0,0,1,0,0,,,,,,0,1,1
+352674,2008/09,West Indies,16,LMP Simmons,89f64c19,JM Anderson,d12143bf,DJ Bravo,87e562a9,0,0,0,0,0,,,,,,0,0,0
+352674,2008/09,West Indies,16,LMP Simmons,89f64c19,JM Anderson,d12143bf,DJ Bravo,87e562a9,0,0,0,0,0,,,,,,0,0,0
+352674,2008/09,West Indies,16,LMP Simmons,89f64c19,JM Anderson,d12143bf,DJ Bravo,87e562a9,0,0,0,0,0,,,,,,1,0,1
+352674,2008/09,West Indies,16,DJ Bravo,87e562a9,JM Anderson,d12143bf,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,0,0,0
+352674,2008/09,West Indies,17,LMP Simmons,89f64c19,A Khan,e27cff77,DJ Bravo,87e562a9,1,0,0,0,0,,,,,,0,1,1
+352674,2008/09,West Indies,17,LMP Simmons,89f64c19,A Khan,e27cff77,DJ Bravo,87e562a9,0,0,0,0,0,,,,,,1,0,1
+352674,2008/09,West Indies,17,DJ Bravo,87e562a9,A Khan,e27cff77,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,2,0,2
+352674,2008/09,West Indies,17,DJ Bravo,87e562a9,A Khan,e27cff77,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,0,0,0
+352674,2008/09,West Indies,17,DJ Bravo,87e562a9,A Khan,e27cff77,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,2,0,2
+352674,2008/09,West Indies,17,DJ Bravo,87e562a9,A Khan,e27cff77,LMP Simmons,89f64c19,0,0,0,0,1,DJ Bravo,87e562a9,KP Pietersen,39f01cdb,caught,0,0,0
+352674,2008/09,West Indies,17,KA Pollard,a757b0d8,A Khan,e27cff77,LMP Simmons,89f64c19,0,0,0,0,0,,,,,,4,0,4

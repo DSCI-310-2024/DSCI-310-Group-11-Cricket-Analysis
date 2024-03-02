@@ -1,0 +1,223 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1233975,2020/21,Australia,0,JR Philippe,39086549,TG Southee,13c35c9e,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,0,0,0
+1233975,2020/21,Australia,0,JR Philippe,39086549,TG Southee,13c35c9e,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,1,0,1
+1233975,2020/21,Australia,0,AJ Finch,b8d490fd,TG Southee,13c35c9e,JR Philippe,39086549,0,0,0,0,0,,,,,,0,0,0
+1233975,2020/21,Australia,0,AJ Finch,b8d490fd,TG Southee,13c35c9e,JR Philippe,39086549,0,0,0,0,0,,,,,,4,0,4
+1233975,2020/21,Australia,0,AJ Finch,b8d490fd,TG Southee,13c35c9e,JR Philippe,39086549,0,0,0,0,0,,,,,,1,0,1
+1233975,2020/21,Australia,0,JR Philippe,39086549,TG Southee,13c35c9e,AJ Finch,b8d490fd,0,0,1,0,0,,,,,,0,1,1
+1233975,2020/21,Australia,1,JR Philippe,39086549,MJ Santner,e4a0deae,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,0,0,0
+1233975,2020/21,Australia,1,JR Philippe,39086549,MJ Santner,e4a0deae,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,0,0,0
+1233975,2020/21,Australia,1,JR Philippe,39086549,MJ Santner,e4a0deae,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,1,0,1
+1233975,2020/21,Australia,1,AJ Finch,b8d490fd,MJ Santner,e4a0deae,JR Philippe,39086549,0,0,0,0,0,,,,,,0,0,0
+1233975,2020/21,Australia,1,AJ Finch,b8d490fd,MJ Santner,e4a0deae,JR Philippe,39086549,0,0,0,0,0,,,,,,0,0,0
+1233975,2020/21,Australia,1,AJ Finch,b8d490fd,MJ Santner,e4a0deae,JR Philippe,39086549,0,0,0,0,0,,,,,,0,0,0
+1233975,2020/21,Australia,2,JR Philippe,39086549,TA Boult,a818c1be,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,0,0,0
+1233975,2020/21,Australia,2,JR Philippe,39086549,TA Boult,a818c1be,AJ Finch,b8d490fd,0,0,0,0,1,JR Philippe,39086549,,,lbw,0,0,0
+1233975,2020/21,Australia,2,MS Wade,afa7e784,TA Boult,a818c1be,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,0,0,0
+1233975,2020/21,Australia,2,MS Wade,afa7e784,TA Boult,a818c1be,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,4,0,4
+1233975,2020/21,Australia,2,MS Wade,afa7e784,TA Boult,a818c1be,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,1,0,1
+1233975,2020/21,Australia,2,AJ Finch,b8d490fd,TA Boult,a818c1be,MS Wade,afa7e784,0,0,0,0,0,,,,,,1,0,1
+1233975,2020/21,Australia,3,AJ Finch,b8d490fd,MJ Santner,e4a0deae,MS Wade,afa7e784,0,0,0,0,0,,,,,,0,0,0
+1233975,2020/21,Australia,3,AJ Finch,b8d490fd,MJ Santner,e4a0deae,MS Wade,afa7e784,0,0,0,0,0,,,,,,0,0,0
+1233975,2020/21,Australia,3,AJ Finch,b8d490fd,MJ Santner,e4a0deae,MS Wade,afa7e784,0,0,0,0,0,,,,,,4,0,4
+1233975,2020/21,Australia,3,AJ Finch,b8d490fd,MJ Santner,e4a0deae,MS Wade,afa7e784,0,0,0,0,0,,,,,,1,0,1
+1233975,2020/21,Australia,3,MS Wade,afa7e784,MJ Santner,e4a0deae,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,2,0,2
+1233975,2020/21,Australia,3,MS Wade,afa7e784,MJ Santner,e4a0deae,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,4,0,4
+1233975,2020/21,Australia,4,AJ Finch,b8d490fd,TA Boult,a818c1be,MS Wade,afa7e784,0,0,0,0,0,,,,,,0,0,0
+1233975,2020/21,Australia,4,AJ Finch,b8d490fd,TA Boult,a818c1be,MS Wade,afa7e784,0,0,1,0,0,,,,,,0,1,1
+1233975,2020/21,Australia,4,MS Wade,afa7e784,TA Boult,a818c1be,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,0,0,0
+1233975,2020/21,Australia,4,MS Wade,afa7e784,TA Boult,a818c1be,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,0,0,0
+1233975,2020/21,Australia,4,MS Wade,afa7e784,TA Boult,a818c1be,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,4,0,4
+1233975,2020/21,Australia,4,MS Wade,afa7e784,TA Boult,a818c1be,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,2,0,2
+1233975,2020/21,Australia,5,AJ Finch,b8d490fd,TG Southee,13c35c9e,MS Wade,afa7e784,0,0,0,0,0,,,,,,1,0,1
+1233975,2020/21,Australia,5,MS Wade,afa7e784,TG Southee,13c35c9e,AJ Finch,b8d490fd,1,0,0,0,0,,,,,,0,1,1
+1233975,2020/21,Australia,5,MS Wade,afa7e784,TG Southee,13c35c9e,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,1,0,1
+1233975,2020/21,Australia,5,AJ Finch,b8d490fd,TG Southee,13c35c9e,MS Wade,afa7e784,0,0,0,0,0,,,,,,0,0,0
+1233975,2020/21,Australia,5,AJ Finch,b8d490fd,TG Southee,13c35c9e,MS Wade,afa7e784,0,0,0,0,0,,,,,,4,0,4
+1233975,2020/21,Australia,5,AJ Finch,b8d490fd,TG Southee,13c35c9e,MS Wade,afa7e784,1,0,0,0,0,,,,,,0,1,1
+1233975,2020/21,Australia,5,AJ Finch,b8d490fd,TG Southee,13c35c9e,MS Wade,afa7e784,0,0,0,0,0,,,,,,1,0,1
+1233975,2020/21,Australia,5,MS Wade,afa7e784,TG Southee,13c35c9e,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,6,0,6
+1233975,2020/21,Australia,6,AJ Finch,b8d490fd,MS Chapman,7fa12533,MS Wade,afa7e784,0,0,0,0,0,,,,,,1,0,1
+1233975,2020/21,Australia,6,MS Wade,afa7e784,MS Chapman,7fa12533,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,1,0,1
+1233975,2020/21,Australia,6,AJ Finch,b8d490fd,MS Chapman,7fa12533,MS Wade,afa7e784,0,0,0,0,0,,,,,,1,0,1
+1233975,2020/21,Australia,6,MS Wade,afa7e784,MS Chapman,7fa12533,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,2,0,2
+1233975,2020/21,Australia,6,MS Wade,afa7e784,MS Chapman,7fa12533,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,1,0,1
+1233975,2020/21,Australia,6,AJ Finch,b8d490fd,MS Chapman,7fa12533,MS Wade,afa7e784,0,0,0,0,0,,,,,,0,0,0
+1233975,2020/21,Australia,7,MS Wade,afa7e784,IS Sodhi,641ac5ff,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,1,0,1
+1233975,2020/21,Australia,7,AJ Finch,b8d490fd,IS Sodhi,641ac5ff,MS Wade,afa7e784,0,0,0,0,0,,,,,,1,0,1
+1233975,2020/21,Australia,7,MS Wade,afa7e784,IS Sodhi,641ac5ff,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,1,0,1
+1233975,2020/21,Australia,7,AJ Finch,b8d490fd,IS Sodhi,641ac5ff,MS Wade,afa7e784,0,0,0,0,0,,,,,,1,0,1
+1233975,2020/21,Australia,7,MS Wade,afa7e784,IS Sodhi,641ac5ff,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,1,0,1
+1233975,2020/21,Australia,7,AJ Finch,b8d490fd,IS Sodhi,641ac5ff,MS Wade,afa7e784,0,0,0,0,0,,,,,,0,0,0
+1233975,2020/21,Australia,8,MS Wade,afa7e784,GD Phillips,9a46c4e5,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,0,0,0
+1233975,2020/21,Australia,8,MS Wade,afa7e784,GD Phillips,9a46c4e5,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,1,0,1
+1233975,2020/21,Australia,8,AJ Finch,b8d490fd,GD Phillips,9a46c4e5,MS Wade,afa7e784,0,0,0,0,0,,,,,,6,0,6
+1233975,2020/21,Australia,8,AJ Finch,b8d490fd,GD Phillips,9a46c4e5,MS Wade,afa7e784,0,0,0,0,0,,,,,,0,0,0
+1233975,2020/21,Australia,8,AJ Finch,b8d490fd,GD Phillips,9a46c4e5,MS Wade,afa7e784,0,0,0,0,0,,,,,,1,0,1
+1233975,2020/21,Australia,8,MS Wade,afa7e784,GD Phillips,9a46c4e5,AJ Finch,b8d490fd,0,0,0,0,0,,,,,,0,0,0
+1233975,2020/21,Australia,9,AJ Finch,b8d490fd,IS Sodhi,641ac5ff,MS Wade,afa7e784,0,0,0,0,0,,,,,,0,0,0
+1233975,2020/21,Australia,9,AJ Finch,b8d490fd,IS Sodhi,641ac5ff,MS Wade,afa7e784,0,0,0,0,0,,,,,,4,0,4
+1233975,2020/21,Australia,9,AJ Finch,b8d490fd,IS Sodhi,641ac5ff,MS Wade,afa7e784,0,0,0,0,0,,,,,,0,0,0
+1233975,2020/21,Australia,9,AJ Finch,b8d490fd,IS Sodhi,641ac5ff,MS Wade,afa7e784,0,0,0,0,0,,,,,,4,0,4
+1233975,2020/21,Australia,9,AJ Finch,b8d490fd,IS Sodhi,641ac5ff,MS Wade,afa7e784,0,0,0,0,0,,,,,,0,0,0
+1233975,2020/21,Australia,9,AJ Finch,b8d490fd,IS Sodhi,641ac5ff,MS Wade,afa7e784,0,0,0,0,1,AJ Finch,b8d490fd,MJ Santner,e4a0deae,caught,0,0,0
+1233975,2020/21,Australia,10,MS Wade,afa7e784,MS Chapman,7fa12533,GJ Maxwell,b681e71e,0,0,0,0,0,,,,,,0,0,0
+1233975,2020/21,Australia,10,MS Wade,afa7e784,MS Chapman,7fa12533,GJ Maxwell,b681e71e,0,0,0,0,0,,,,,,1,0,1
+1233975,2020/21,Australia,10,GJ Maxwell,b681e71e,MS Chapman,7fa12533,MS Wade,afa7e784,0,0,0,0,0,,,,,,1,0,1
+1233975,2020/21,Australia,10,MS Wade,afa7e784,MS Chapman,7fa12533,GJ Maxwell,b681e71e,0,0,0,0,0,,,,,,1,0,1
+1233975,2020/21,Australia,10,GJ Maxwell,b681e71e,MS Chapman,7fa12533,MS Wade,afa7e784,0,0,0,0,1,GJ Maxwell,b681e71e,TA Boult,a818c1be,caught,0,0,0
+1233975,2020/21,Australia,10,MP Stoinis,d9273ee7,MS Chapman,7fa12533,MS Wade,afa7e784,0,0,0,0,0,,,,,,0,0,0
+1233975,2020/21,Australia,11,MS Wade,afa7e784,IS Sodhi,641ac5ff,MP Stoinis,d9273ee7,0,0,0,0,0,,,,,,6,0,6
+1233975,2020/21,Australia,11,MS Wade,afa7e784,IS Sodhi,641ac5ff,MP Stoinis,d9273ee7,0,0,0,0,0,,,,,,1,0,1
+1233975,2020/21,Australia,11,MP Stoinis,d9273ee7,IS Sodhi,641ac5ff,MS Wade,afa7e784,0,0,0,0,0,,,,,,0,0,0
+1233975,2020/21,Australia,11,MP Stoinis,d9273ee7,IS Sodhi,641ac5ff,MS Wade,afa7e784,0,0,0,0,0,,,,,,0,0,0
+1233975,2020/21,Australia,11,MP Stoinis,d9273ee7,IS Sodhi,641ac5ff,MS Wade,afa7e784,0,0,0,0,0,,,,,,1,0,1
+1233975,2020/21,Australia,11,MS Wade,afa7e784,IS Sodhi,641ac5ff,MP Stoinis,d9273ee7,0,0,0,0,0,,,,,,1,0,1
+1233975,2020/21,Australia,12,MS Wade,afa7e784,GD Phillips,9a46c4e5,MP Stoinis,d9273ee7,0,0,0,0,0,,,,,,1,0,1
+1233975,2020/21,Australia,12,MP Stoinis,d9273ee7,GD Phillips,9a46c4e5,MS Wade,afa7e784,0,0,0,0,0,,,,,,4,0,4
+1233975,2020/21,Australia,12,MP Stoinis,d9273ee7,GD Phillips,9a46c4e5,MS Wade,afa7e784,1,0,0,0,0,,,,,,0,1,1
+1233975,2020/21,Australia,12,MP Stoinis,d9273ee7,GD Phillips,9a46c4e5,MS Wade,afa7e784,0,0,0,0,0,,,,,,4,0,4
+1233975,2020/21,Australia,12,MP Stoinis,d9273ee7,GD Phillips,9a46c4e5,MS Wade,afa7e784,0,0,0,0,0,,,,,,0,0,0
+1233975,2020/21,Australia,12,MP Stoinis,d9273ee7,GD Phillips,9a46c4e5,MS Wade,afa7e784,1,0,0,0,0,,,,,,0,1,1
+1233975,2020/21,Australia,12,MP Stoinis,d9273ee7,GD Phillips,9a46c4e5,MS Wade,afa7e784,0,0,0,0,0,,,,,,0,0,0
+1233975,2020/21,Australia,12,MP Stoinis,d9273ee7,GD Phillips,9a46c4e5,MS Wade,afa7e784,1,0,0,0,0,,,,,,0,1,1
+1233975,2020/21,Australia,12,MP Stoinis,d9273ee7,GD Phillips,9a46c4e5,MS Wade,afa7e784,0,0,0,0,0,,,,,,1,0,1
+1233975,2020/21,Australia,13,MP Stoinis,d9273ee7,MJ Santner,e4a0deae,MS Wade,afa7e784,0,0,0,0,0,,,,,,0,0,0
+1233975,2020/21,Australia,13,MP Stoinis,d9273ee7,MJ Santner,e4a0deae,MS Wade,afa7e784,0,0,0,0,0,,,,,,0,0,0
+1233975,2020/21,Australia,13,MP Stoinis,d9273ee7,MJ Santner,e4a0deae,MS Wade,afa7e784,0,0,0,0,0,,,,,,1,0,1
+1233975,2020/21,Australia,13,MS Wade,afa7e784,MJ Santner,e4a0deae,MP Stoinis,d9273ee7,0,0,0,0,0,,,,,,1,0,1
+1233975,2020/21,Australia,13,MP Stoinis,d9273ee7,MJ Santner,e4a0deae,MS Wade,afa7e784,0,0,0,0,0,,,,,,0,0,0
+1233975,2020/21,Australia,13,MP Stoinis,d9273ee7,MJ Santner,e4a0deae,MS Wade,afa7e784,0,0,0,0,0,,,,,,1,0,1
+1233975,2020/21,Australia,14,MP Stoinis,d9273ee7,TA Boult,a818c1be,MS Wade,afa7e784,0,0,0,0,0,,,,,,1,0,1
+1233975,2020/21,Australia,14,MS Wade,afa7e784,TA Boult,a818c1be,MP Stoinis,d9273ee7,0,0,0,0,1,MS Wade,afa7e784,MJ Guptill,2be41edb,caught,0,0,0
+1233975,2020/21,Australia,14,MP Stoinis,d9273ee7,TA Boult,a818c1be,AC Agar,a2421394,0,0,0,0,0,,,,,,1,0,1
+1233975,2020/21,Australia,14,AC Agar,a2421394,TA Boult,a818c1be,MP Stoinis,d9273ee7,0,0,0,0,0,,,,,,1,0,1
+1233975,2020/21,Australia,14,MP Stoinis,d9273ee7,TA Boult,a818c1be,AC Agar,a2421394,0,0,0,0,0,,,,,,0,0,0
+1233975,2020/21,Australia,14,MP Stoinis,d9273ee7,TA Boult,a818c1be,AC Agar,a2421394,0,0,0,0,0,,,,,,1,0,1
+1233975,2020/21,Australia,15,MP Stoinis,d9273ee7,MJ Santner,e4a0deae,AC Agar,a2421394,0,0,0,0,0,,,,,,1,0,1
+1233975,2020/21,Australia,15,AC Agar,a2421394,MJ Santner,e4a0deae,MP Stoinis,d9273ee7,0,0,0,0,0,,,,,,1,0,1
+1233975,2020/21,Australia,15,MP Stoinis,d9273ee7,MJ Santner,e4a0deae,AC Agar,a2421394,0,0,0,0,0,,,,,,1,0,1
+1233975,2020/21,Australia,15,AC Agar,a2421394,MJ Santner,e4a0deae,MP Stoinis,d9273ee7,0,0,0,0,0,,,,,,1,0,1
+1233975,2020/21,Australia,15,MP Stoinis,d9273ee7,MJ Santner,e4a0deae,AC Agar,a2421394,0,0,0,0,0,,,,,,1,0,1
+1233975,2020/21,Australia,15,AC Agar,a2421394,MJ Santner,e4a0deae,MP Stoinis,d9273ee7,0,0,0,0,0,,,,,,1,0,1
+1233975,2020/21,Australia,16,AC Agar,a2421394,TG Southee,13c35c9e,MP Stoinis,d9273ee7,0,0,0,0,0,,,,,,1,0,1
+1233975,2020/21,Australia,16,MP Stoinis,d9273ee7,TG Southee,13c35c9e,AC Agar,a2421394,0,0,0,0,0,,,,,,0,0,0
+1233975,2020/21,Australia,16,MP Stoinis,d9273ee7,TG Southee,13c35c9e,AC Agar,a2421394,0,0,0,0,0,,,,,,1,0,1
+1233975,2020/21,Australia,16,AC Agar,a2421394,TG Southee,13c35c9e,MP Stoinis,d9273ee7,0,0,0,0,0,,,,,,1,0,1
+1233975,2020/21,Australia,16,MP Stoinis,d9273ee7,TG Southee,13c35c9e,AC Agar,a2421394,0,0,0,0,0,,,,,,6,0,6
+1233975,2020/21,Australia,16,MP Stoinis,d9273ee7,TG Southee,13c35c9e,AC Agar,a2421394,0,0,0,0,0,,,,,,1,0,1
+1233975,2020/21,Australia,17,MP Stoinis,d9273ee7,IS Sodhi,641ac5ff,AC Agar,a2421394,0,0,0,0,1,MP Stoinis,d9273ee7,MJ Guptill,2be41edb,caught,0,0,0
+1233975,2020/21,Australia,17,AC Agar,a2421394,IS Sodhi,641ac5ff,MR Marsh,3d8feaf8,0,0,0,0,1,AC Agar,a2421394,MJ Guptill,2be41edb,caught,0,0,0
+1233975,2020/21,Australia,17,MR Marsh,3d8feaf8,IS Sodhi,641ac5ff,JA Richardson,1ee08e9a,0,0,0,0,0,,,,,,0,0,0
+1233975,2020/21,Australia,17,MR Marsh,3d8feaf8,IS Sodhi,641ac5ff,JA Richardson,1ee08e9a,0,0,0,0,0,,,,,,0,0,0
+1233975,2020/21,Australia,17,MR Marsh,3d8feaf8,IS Sodhi,641ac5ff,JA Richardson,1ee08e9a,0,0,0,0,0,,,,,,1,0,1
+1233975,2020/21,Australia,17,JA Richardson,1ee08e9a,IS Sodhi,641ac5ff,MR Marsh,3d8feaf8,0,0,0,0,0,,,,,,1,0,1
+1233975,2020/21,Australia,18,JA Richardson,1ee08e9a,TA Boult,a818c1be,MR Marsh,3d8feaf8,0,0,0,0,0,,,,,,1,0,1
+1233975,2020/21,Australia,18,MR Marsh,3d8feaf8,TA Boult,a818c1be,JA Richardson,1ee08e9a,0,0,0,0,0,,,,,,1,0,1
+1233975,2020/21,Australia,18,JA Richardson,1ee08e9a,TA Boult,a818c1be,MR Marsh,3d8feaf8,0,0,0,0,0,,,,,,1,0,1
+1233975,2020/21,Australia,18,MR Marsh,3d8feaf8,TA Boult,a818c1be,JA Richardson,1ee08e9a,0,0,0,0,0,,,,,,0,0,0
+1233975,2020/21,Australia,18,MR Marsh,3d8feaf8,TA Boult,a818c1be,JA Richardson,1ee08e9a,0,0,0,0,0,,,,,,6,0,6
+1233975,2020/21,Australia,18,MR Marsh,3d8feaf8,TA Boult,a818c1be,JA Richardson,1ee08e9a,0,0,0,0,0,,,,,,1,0,1
+1233975,2020/21,Australia,19,MR Marsh,3d8feaf8,TG Southee,13c35c9e,JA Richardson,1ee08e9a,1,0,0,0,0,,,,,,0,1,1
+1233975,2020/21,Australia,19,MR Marsh,3d8feaf8,TG Southee,13c35c9e,JA Richardson,1ee08e9a,0,1,0,0,0,,,,,,1,1,2
+1233975,2020/21,Australia,19,JA Richardson,1ee08e9a,TG Southee,13c35c9e,MR Marsh,3d8feaf8,0,0,1,0,0,,,,,,0,1,1
+1233975,2020/21,Australia,19,MR Marsh,3d8feaf8,TG Southee,13c35c9e,JA Richardson,1ee08e9a,1,0,0,0,0,,,,,,0,1,1
+1233975,2020/21,Australia,19,MR Marsh,3d8feaf8,TG Southee,13c35c9e,JA Richardson,1ee08e9a,0,0,0,0,1,MR Marsh,3d8feaf8,,,bowled,0,0,0
+1233975,2020/21,Australia,19,KW Richardson,dfc4d8b5,TG Southee,13c35c9e,JA Richardson,1ee08e9a,0,0,0,0,0,,,,,,1,0,1
+1233975,2020/21,Australia,19,JA Richardson,1ee08e9a,TG Southee,13c35c9e,KW Richardson,dfc4d8b5,0,0,0,0,0,,,,,,1,0,1
+1233975,2020/21,Australia,19,KW Richardson,dfc4d8b5,TG Southee,13c35c9e,JA Richardson,1ee08e9a,0,0,0,0,0,,,,,,1,0,1
+1233975,2020/21,Australia,19,JA Richardson,1ee08e9a,TG Southee,13c35c9e,KW Richardson,dfc4d8b5,0,0,0,0,1,JA Richardson,1ee08e9a,GD Phillips,9a46c4e5,caught,0,0,0
+1233975,2020/21,New Zealand,0,DP Conway,df5a6881,AC Agar,a2421394,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,1,0,1
+1233975,2020/21,New Zealand,0,MJ Guptill,2be41edb,AC Agar,a2421394,DP Conway,df5a6881,0,0,0,0,0,,,,,,1,0,1
+1233975,2020/21,New Zealand,0,DP Conway,df5a6881,AC Agar,a2421394,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,1,0,1
+1233975,2020/21,New Zealand,0,MJ Guptill,2be41edb,AC Agar,a2421394,DP Conway,df5a6881,0,0,0,0,0,,,,,,1,0,1
+1233975,2020/21,New Zealand,0,DP Conway,df5a6881,AC Agar,a2421394,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,1,0,1
+1233975,2020/21,New Zealand,0,MJ Guptill,2be41edb,AC Agar,a2421394,DP Conway,df5a6881,0,0,0,0,0,,,,,,0,0,0
+1233975,2020/21,New Zealand,1,DP Conway,df5a6881,RP Meredith,64775749,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,1,0,1
+1233975,2020/21,New Zealand,1,MJ Guptill,2be41edb,RP Meredith,64775749,DP Conway,df5a6881,0,0,0,0,0,,,,,,4,0,4
+1233975,2020/21,New Zealand,1,MJ Guptill,2be41edb,RP Meredith,64775749,DP Conway,df5a6881,0,0,0,0,0,,,,,,0,0,0
+1233975,2020/21,New Zealand,1,MJ Guptill,2be41edb,RP Meredith,64775749,DP Conway,df5a6881,0,0,0,0,0,,,,,,0,0,0
+1233975,2020/21,New Zealand,1,MJ Guptill,2be41edb,RP Meredith,64775749,DP Conway,df5a6881,0,0,0,0,0,,,,,,2,0,2
+1233975,2020/21,New Zealand,1,MJ Guptill,2be41edb,RP Meredith,64775749,DP Conway,df5a6881,0,0,0,0,0,,,,,,0,0,0
+1233975,2020/21,New Zealand,2,DP Conway,df5a6881,AC Agar,a2421394,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,1,0,1
+1233975,2020/21,New Zealand,2,MJ Guptill,2be41edb,AC Agar,a2421394,DP Conway,df5a6881,0,0,0,0,0,,,,,,1,0,1
+1233975,2020/21,New Zealand,2,DP Conway,df5a6881,AC Agar,a2421394,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,4,0,4
+1233975,2020/21,New Zealand,2,DP Conway,df5a6881,AC Agar,a2421394,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,0,0,0
+1233975,2020/21,New Zealand,2,DP Conway,df5a6881,AC Agar,a2421394,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,1,0,1
+1233975,2020/21,New Zealand,2,MJ Guptill,2be41edb,AC Agar,a2421394,DP Conway,df5a6881,0,0,0,0,0,,,,,,6,0,6
+1233975,2020/21,New Zealand,3,DP Conway,df5a6881,JA Richardson,1ee08e9a,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,1,0,1
+1233975,2020/21,New Zealand,3,MJ Guptill,2be41edb,JA Richardson,1ee08e9a,DP Conway,df5a6881,0,0,0,0,0,,,,,,0,0,0
+1233975,2020/21,New Zealand,3,MJ Guptill,2be41edb,JA Richardson,1ee08e9a,DP Conway,df5a6881,0,0,0,0,0,,,,,,0,0,0
+1233975,2020/21,New Zealand,3,MJ Guptill,2be41edb,JA Richardson,1ee08e9a,DP Conway,df5a6881,0,0,0,0,0,,,,,,1,0,1
+1233975,2020/21,New Zealand,3,DP Conway,df5a6881,JA Richardson,1ee08e9a,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,0,0,0
+1233975,2020/21,New Zealand,3,DP Conway,df5a6881,JA Richardson,1ee08e9a,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,1,0,1
+1233975,2020/21,New Zealand,4,DP Conway,df5a6881,KW Richardson,dfc4d8b5,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,1,0,1
+1233975,2020/21,New Zealand,4,MJ Guptill,2be41edb,KW Richardson,dfc4d8b5,DP Conway,df5a6881,0,0,0,0,0,,,,,,1,0,1
+1233975,2020/21,New Zealand,4,DP Conway,df5a6881,KW Richardson,dfc4d8b5,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,4,0,4
+1233975,2020/21,New Zealand,4,DP Conway,df5a6881,KW Richardson,dfc4d8b5,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,1,0,1
+1233975,2020/21,New Zealand,4,MJ Guptill,2be41edb,KW Richardson,dfc4d8b5,DP Conway,df5a6881,0,0,0,0,0,,,,,,4,0,4
+1233975,2020/21,New Zealand,4,MJ Guptill,2be41edb,KW Richardson,dfc4d8b5,DP Conway,df5a6881,0,0,0,0,0,,,,,,0,0,0
+1233975,2020/21,New Zealand,5,DP Conway,df5a6881,RP Meredith,64775749,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,4,0,4
+1233975,2020/21,New Zealand,5,DP Conway,df5a6881,RP Meredith,64775749,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,6,0,6
+1233975,2020/21,New Zealand,5,DP Conway,df5a6881,RP Meredith,64775749,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,1,0,1
+1233975,2020/21,New Zealand,5,MJ Guptill,2be41edb,RP Meredith,64775749,DP Conway,df5a6881,0,0,0,0,0,,,,,,0,0,0
+1233975,2020/21,New Zealand,5,MJ Guptill,2be41edb,RP Meredith,64775749,DP Conway,df5a6881,0,0,0,0,0,,,,,,0,0,0
+1233975,2020/21,New Zealand,5,MJ Guptill,2be41edb,RP Meredith,64775749,DP Conway,df5a6881,0,0,0,0,0,,,,,,1,0,1
+1233975,2020/21,New Zealand,6,MJ Guptill,2be41edb,A Zampa,14f96089,DP Conway,df5a6881,0,0,0,0,0,,,,,,0,0,0
+1233975,2020/21,New Zealand,6,MJ Guptill,2be41edb,A Zampa,14f96089,DP Conway,df5a6881,0,0,0,0,0,,,,,,4,0,4
+1233975,2020/21,New Zealand,6,MJ Guptill,2be41edb,A Zampa,14f96089,DP Conway,df5a6881,0,0,0,0,0,,,,,,0,0,0
+1233975,2020/21,New Zealand,6,MJ Guptill,2be41edb,A Zampa,14f96089,DP Conway,df5a6881,0,0,0,0,0,,,,,,0,0,0
+1233975,2020/21,New Zealand,6,MJ Guptill,2be41edb,A Zampa,14f96089,DP Conway,df5a6881,0,0,0,0,0,,,,,,4,0,4
+1233975,2020/21,New Zealand,6,MJ Guptill,2be41edb,A Zampa,14f96089,DP Conway,df5a6881,0,0,0,0,0,,,,,,0,0,0
+1233975,2020/21,New Zealand,7,DP Conway,df5a6881,KW Richardson,dfc4d8b5,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,1,0,1
+1233975,2020/21,New Zealand,7,MJ Guptill,2be41edb,KW Richardson,dfc4d8b5,DP Conway,df5a6881,0,0,0,0,0,,,,,,0,0,0
+1233975,2020/21,New Zealand,7,MJ Guptill,2be41edb,KW Richardson,dfc4d8b5,DP Conway,df5a6881,0,0,0,0,0,,,,,,1,0,1
+1233975,2020/21,New Zealand,7,DP Conway,df5a6881,KW Richardson,dfc4d8b5,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,1,0,1
+1233975,2020/21,New Zealand,7,MJ Guptill,2be41edb,KW Richardson,dfc4d8b5,DP Conway,df5a6881,0,0,0,0,0,,,,,,1,0,1
+1233975,2020/21,New Zealand,7,DP Conway,df5a6881,KW Richardson,dfc4d8b5,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,1,0,1
+1233975,2020/21,New Zealand,8,DP Conway,df5a6881,A Zampa,14f96089,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,1,0,1
+1233975,2020/21,New Zealand,8,MJ Guptill,2be41edb,A Zampa,14f96089,DP Conway,df5a6881,0,0,0,0,0,,,,,,6,0,6
+1233975,2020/21,New Zealand,8,MJ Guptill,2be41edb,A Zampa,14f96089,DP Conway,df5a6881,0,0,0,0,0,,,,,,4,0,4
+1233975,2020/21,New Zealand,8,MJ Guptill,2be41edb,A Zampa,14f96089,DP Conway,df5a6881,0,0,0,0,0,,,,,,0,0,0
+1233975,2020/21,New Zealand,8,MJ Guptill,2be41edb,A Zampa,14f96089,DP Conway,df5a6881,0,0,0,0,0,,,,,,6,0,6
+1233975,2020/21,New Zealand,8,MJ Guptill,2be41edb,A Zampa,14f96089,DP Conway,df5a6881,0,0,0,0,0,,,,,,6,0,6
+1233975,2020/21,New Zealand,9,DP Conway,df5a6881,JA Richardson,1ee08e9a,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,1,0,1
+1233975,2020/21,New Zealand,9,MJ Guptill,2be41edb,JA Richardson,1ee08e9a,DP Conway,df5a6881,0,0,0,0,0,,,,,,1,0,1
+1233975,2020/21,New Zealand,9,DP Conway,df5a6881,JA Richardson,1ee08e9a,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,1,0,1
+1233975,2020/21,New Zealand,9,MJ Guptill,2be41edb,JA Richardson,1ee08e9a,DP Conway,df5a6881,1,0,0,0,0,,,,,,0,1,1
+1233975,2020/21,New Zealand,9,MJ Guptill,2be41edb,JA Richardson,1ee08e9a,DP Conway,df5a6881,0,0,0,0,0,,,,,,4,0,4
+1233975,2020/21,New Zealand,9,MJ Guptill,2be41edb,JA Richardson,1ee08e9a,DP Conway,df5a6881,0,0,0,0,0,,,,,,1,0,1
+1233975,2020/21,New Zealand,9,DP Conway,df5a6881,JA Richardson,1ee08e9a,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,0,0,0
+1233975,2020/21,New Zealand,10,MJ Guptill,2be41edb,AC Agar,a2421394,DP Conway,df5a6881,0,0,0,0,0,,,,,,0,0,0
+1233975,2020/21,New Zealand,10,MJ Guptill,2be41edb,AC Agar,a2421394,DP Conway,df5a6881,0,0,0,0,0,,,,,,1,0,1
+1233975,2020/21,New Zealand,10,DP Conway,df5a6881,AC Agar,a2421394,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,0,0,0
+1233975,2020/21,New Zealand,10,DP Conway,df5a6881,AC Agar,a2421394,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,0,0,0
+1233975,2020/21,New Zealand,10,DP Conway,df5a6881,AC Agar,a2421394,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,1,0,1
+1233975,2020/21,New Zealand,10,MJ Guptill,2be41edb,AC Agar,a2421394,DP Conway,df5a6881,0,0,0,0,0,,,,,,1,0,1
+1233975,2020/21,New Zealand,11,MJ Guptill,2be41edb,RP Meredith,64775749,DP Conway,df5a6881,0,0,0,0,0,,,,,,0,0,0
+1233975,2020/21,New Zealand,11,MJ Guptill,2be41edb,RP Meredith,64775749,DP Conway,df5a6881,0,0,0,0,0,,,,,,2,0,2
+1233975,2020/21,New Zealand,11,MJ Guptill,2be41edb,RP Meredith,64775749,DP Conway,df5a6881,0,0,0,0,0,,,,,,4,0,4
+1233975,2020/21,New Zealand,11,MJ Guptill,2be41edb,RP Meredith,64775749,DP Conway,df5a6881,0,0,0,0,0,,,,,,1,0,1
+1233975,2020/21,New Zealand,11,DP Conway,df5a6881,RP Meredith,64775749,MJ Guptill,2be41edb,0,0,0,0,1,DP Conway,df5a6881,AC Agar,a2421394,caught,0,0,0
+1233975,2020/21,New Zealand,11,KS Williamson,d027ba9f,RP Meredith,64775749,MJ Guptill,2be41edb,0,0,0,0,1,KS Williamson,d027ba9f,,,lbw,0,0,0
+1233975,2020/21,New Zealand,12,MJ Guptill,2be41edb,AC Agar,a2421394,GD Phillips,9a46c4e5,0,0,0,0,0,,,,,,1,0,1
+1233975,2020/21,New Zealand,12,GD Phillips,9a46c4e5,AC Agar,a2421394,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,0,0,0
+1233975,2020/21,New Zealand,12,GD Phillips,9a46c4e5,AC Agar,a2421394,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,0,0,0
+1233975,2020/21,New Zealand,12,GD Phillips,9a46c4e5,AC Agar,a2421394,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,0,0,0
+1233975,2020/21,New Zealand,12,GD Phillips,9a46c4e5,AC Agar,a2421394,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,0,0,0
+1233975,2020/21,New Zealand,12,GD Phillips,9a46c4e5,AC Agar,a2421394,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,4,0,4
+1233975,2020/21,New Zealand,13,MJ Guptill,2be41edb,RP Meredith,64775749,GD Phillips,9a46c4e5,0,0,0,0,0,,,,,,1,0,1
+1233975,2020/21,New Zealand,13,GD Phillips,9a46c4e5,RP Meredith,64775749,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,0,0,0
+1233975,2020/21,New Zealand,13,GD Phillips,9a46c4e5,RP Meredith,64775749,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,4,0,4
+1233975,2020/21,New Zealand,13,GD Phillips,9a46c4e5,RP Meredith,64775749,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,0,0,0
+1233975,2020/21,New Zealand,13,GD Phillips,9a46c4e5,RP Meredith,64775749,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,4,0,4
+1233975,2020/21,New Zealand,13,GD Phillips,9a46c4e5,RP Meredith,64775749,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,4,0,4
+1233975,2020/21,New Zealand,14,MJ Guptill,2be41edb,JA Richardson,1ee08e9a,GD Phillips,9a46c4e5,0,0,0,0,1,MJ Guptill,2be41edb,MR Marsh,3d8feaf8,caught,0,0,0
+1233975,2020/21,New Zealand,14,GD Phillips,9a46c4e5,JA Richardson,1ee08e9a,MS Chapman,7fa12533,0,0,0,0,0,,,,,,4,0,4
+1233975,2020/21,New Zealand,14,GD Phillips,9a46c4e5,JA Richardson,1ee08e9a,MS Chapman,7fa12533,0,0,0,0,0,,,,,,1,0,1
+1233975,2020/21,New Zealand,14,MS Chapman,7fa12533,JA Richardson,1ee08e9a,GD Phillips,9a46c4e5,0,0,0,0,0,,,,,,1,0,1
+1233975,2020/21,New Zealand,14,GD Phillips,9a46c4e5,JA Richardson,1ee08e9a,MS Chapman,7fa12533,0,0,0,0,0,,,,,,1,0,1
+1233975,2020/21,New Zealand,14,MS Chapman,7fa12533,JA Richardson,1ee08e9a,GD Phillips,9a46c4e5,0,0,0,0,0,,,,,,0,0,0
+1233975,2020/21,New Zealand,15,GD Phillips,9a46c4e5,A Zampa,14f96089,MS Chapman,7fa12533,0,0,0,0,0,,,,,,6,0,6
+1233975,2020/21,New Zealand,15,GD Phillips,9a46c4e5,A Zampa,14f96089,MS Chapman,7fa12533,0,0,0,0,0,,,,,,0,0,0
+1233975,2020/21,New Zealand,15,GD Phillips,9a46c4e5,A Zampa,14f96089,MS Chapman,7fa12533,0,0,0,0,0,,,,,,6,0,6

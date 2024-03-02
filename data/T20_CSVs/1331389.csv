@@ -1,0 +1,200 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1331389,2022,Scotland,0,A Lister,090c0213,Salma Khatun,037f2b86,S Horley,8cd72e0b,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Scotland,0,A Lister,090c0213,Salma Khatun,037f2b86,S Horley,8cd72e0b,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Scotland,0,A Lister,090c0213,Salma Khatun,037f2b86,S Horley,8cd72e0b,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Scotland,0,A Lister,090c0213,Salma Khatun,037f2b86,S Horley,8cd72e0b,0,0,0,0,0,,,,,,4,0,4
+1331389,2022,Scotland,0,A Lister,090c0213,Salma Khatun,037f2b86,S Horley,8cd72e0b,0,0,0,0,0,,,,,,1,0,1
+1331389,2022,Scotland,0,S Horley,8cd72e0b,Salma Khatun,037f2b86,A Lister,090c0213,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Scotland,1,A Lister,090c0213,Sanjida Akter Meghla,a6412417,S Horley,8cd72e0b,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Scotland,1,A Lister,090c0213,Sanjida Akter Meghla,a6412417,S Horley,8cd72e0b,0,0,0,0,0,,,,,,4,0,4
+1331389,2022,Scotland,1,A Lister,090c0213,Sanjida Akter Meghla,a6412417,S Horley,8cd72e0b,0,0,0,0,0,,,,,,3,0,3
+1331389,2022,Scotland,1,S Horley,8cd72e0b,Sanjida Akter Meghla,a6412417,A Lister,090c0213,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Scotland,1,S Horley,8cd72e0b,Sanjida Akter Meghla,a6412417,A Lister,090c0213,0,0,0,0,0,,,,,,1,0,1
+1331389,2022,Scotland,1,A Lister,090c0213,Sanjida Akter Meghla,a6412417,S Horley,8cd72e0b,0,0,0,0,1,A Lister,090c0213,,,bowled,0,0,0
+1331389,2022,Scotland,2,S Horley,8cd72e0b,Salma Khatun,037f2b86,KE Bryce,f13d3eba,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Scotland,2,S Horley,8cd72e0b,Salma Khatun,037f2b86,KE Bryce,f13d3eba,0,0,0,0,0,,,,,,2,0,2
+1331389,2022,Scotland,2,S Horley,8cd72e0b,Salma Khatun,037f2b86,KE Bryce,f13d3eba,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Scotland,2,S Horley,8cd72e0b,Salma Khatun,037f2b86,KE Bryce,f13d3eba,0,0,0,0,0,,,,,,1,0,1
+1331389,2022,Scotland,2,KE Bryce,f13d3eba,Salma Khatun,037f2b86,S Horley,8cd72e0b,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Scotland,2,KE Bryce,f13d3eba,Salma Khatun,037f2b86,S Horley,8cd72e0b,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Scotland,3,S Horley,8cd72e0b,Sanjida Akter Meghla,a6412417,KE Bryce,f13d3eba,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Scotland,3,S Horley,8cd72e0b,Sanjida Akter Meghla,a6412417,KE Bryce,f13d3eba,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Scotland,3,S Horley,8cd72e0b,Sanjida Akter Meghla,a6412417,KE Bryce,f13d3eba,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Scotland,3,S Horley,8cd72e0b,Sanjida Akter Meghla,a6412417,KE Bryce,f13d3eba,0,0,0,0,1,S Horley,8cd72e0b,Nigar Sultana,3827f6a2,run out,0,0,0
+1331389,2022,Scotland,3,KE Bryce,f13d3eba,Sanjida Akter Meghla,a6412417,SJ Bryce,2ca65aee,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Scotland,3,KE Bryce,f13d3eba,Sanjida Akter Meghla,a6412417,SJ Bryce,2ca65aee,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Scotland,4,SJ Bryce,2ca65aee,Nahida Akter,66078174,KE Bryce,f13d3eba,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Scotland,4,SJ Bryce,2ca65aee,Nahida Akter,66078174,KE Bryce,f13d3eba,0,0,0,0,0,,,,,,1,0,1
+1331389,2022,Scotland,4,KE Bryce,f13d3eba,Nahida Akter,66078174,SJ Bryce,2ca65aee,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Scotland,4,KE Bryce,f13d3eba,Nahida Akter,66078174,SJ Bryce,2ca65aee,0,0,0,0,0,,,,,,4,0,4
+1331389,2022,Scotland,4,KE Bryce,f13d3eba,Nahida Akter,66078174,SJ Bryce,2ca65aee,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Scotland,4,KE Bryce,f13d3eba,Nahida Akter,66078174,SJ Bryce,2ca65aee,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Scotland,5,SJ Bryce,2ca65aee,Sanjida Akter Meghla,a6412417,KE Bryce,f13d3eba,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Scotland,5,SJ Bryce,2ca65aee,Sanjida Akter Meghla,a6412417,KE Bryce,f13d3eba,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Scotland,5,SJ Bryce,2ca65aee,Sanjida Akter Meghla,a6412417,KE Bryce,f13d3eba,0,0,0,0,0,,,,,,4,0,4
+1331389,2022,Scotland,5,SJ Bryce,2ca65aee,Sanjida Akter Meghla,a6412417,KE Bryce,f13d3eba,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Scotland,5,SJ Bryce,2ca65aee,Sanjida Akter Meghla,a6412417,KE Bryce,f13d3eba,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Scotland,5,SJ Bryce,2ca65aee,Sanjida Akter Meghla,a6412417,KE Bryce,f13d3eba,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Scotland,6,KE Bryce,f13d3eba,Shohely Akhter,00eefafc,SJ Bryce,2ca65aee,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Scotland,6,KE Bryce,f13d3eba,Shohely Akhter,00eefafc,SJ Bryce,2ca65aee,0,0,0,0,1,KE Bryce,f13d3eba,Shamima Sultana,724645f5,caught,0,0,0
+1331389,2022,Scotland,6,PA Chatterji,8e7be59c,Shohely Akhter,00eefafc,SJ Bryce,2ca65aee,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Scotland,6,PA Chatterji,8e7be59c,Shohely Akhter,00eefafc,SJ Bryce,2ca65aee,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Scotland,6,PA Chatterji,8e7be59c,Shohely Akhter,00eefafc,SJ Bryce,2ca65aee,0,0,0,0,0,,,,,,1,0,1
+1331389,2022,Scotland,6,SJ Bryce,2ca65aee,Shohely Akhter,00eefafc,PA Chatterji,8e7be59c,0,0,0,0,0,,,,,,1,0,1
+1331389,2022,Scotland,7,SJ Bryce,2ca65aee,Ritu Moni,ad3940a5,PA Chatterji,8e7be59c,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Scotland,7,SJ Bryce,2ca65aee,Ritu Moni,ad3940a5,PA Chatterji,8e7be59c,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Scotland,7,SJ Bryce,2ca65aee,Ritu Moni,ad3940a5,PA Chatterji,8e7be59c,0,0,0,0,0,,,,,,4,0,4
+1331389,2022,Scotland,7,SJ Bryce,2ca65aee,Ritu Moni,ad3940a5,PA Chatterji,8e7be59c,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Scotland,7,SJ Bryce,2ca65aee,Ritu Moni,ad3940a5,PA Chatterji,8e7be59c,0,0,0,0,0,,,,,,1,0,1
+1331389,2022,Scotland,7,PA Chatterji,8e7be59c,Ritu Moni,ad3940a5,SJ Bryce,2ca65aee,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Scotland,8,SJ Bryce,2ca65aee,Shohely Akhter,00eefafc,PA Chatterji,8e7be59c,0,0,0,0,0,,,,,,1,0,1
+1331389,2022,Scotland,8,PA Chatterji,8e7be59c,Shohely Akhter,00eefafc,SJ Bryce,2ca65aee,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Scotland,8,PA Chatterji,8e7be59c,Shohely Akhter,00eefafc,SJ Bryce,2ca65aee,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Scotland,8,PA Chatterji,8e7be59c,Shohely Akhter,00eefafc,SJ Bryce,2ca65aee,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Scotland,8,PA Chatterji,8e7be59c,Shohely Akhter,00eefafc,SJ Bryce,2ca65aee,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Scotland,8,PA Chatterji,8e7be59c,Shohely Akhter,00eefafc,SJ Bryce,2ca65aee,0,0,0,0,0,,,,,,1,0,1
+1331389,2022,Scotland,9,PA Chatterji,8e7be59c,Ritu Moni,ad3940a5,SJ Bryce,2ca65aee,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Scotland,9,PA Chatterji,8e7be59c,Ritu Moni,ad3940a5,SJ Bryce,2ca65aee,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Scotland,9,PA Chatterji,8e7be59c,Ritu Moni,ad3940a5,SJ Bryce,2ca65aee,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Scotland,9,PA Chatterji,8e7be59c,Ritu Moni,ad3940a5,SJ Bryce,2ca65aee,0,0,0,0,0,,,,,,1,0,1
+1331389,2022,Scotland,9,SJ Bryce,2ca65aee,Ritu Moni,ad3940a5,PA Chatterji,8e7be59c,0,0,0,0,0,,,,,,1,0,1
+1331389,2022,Scotland,9,PA Chatterji,8e7be59c,Ritu Moni,ad3940a5,SJ Bryce,2ca65aee,0,0,0,0,0,,,,,,1,0,1
+1331389,2022,Scotland,10,PA Chatterji,8e7be59c,Shohely Akhter,00eefafc,SJ Bryce,2ca65aee,0,0,0,0,1,PA Chatterji,8e7be59c,,,bowled,0,0,0
+1331389,2022,Scotland,10,L Jack,e565ceb7,Shohely Akhter,00eefafc,SJ Bryce,2ca65aee,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Scotland,10,L Jack,e565ceb7,Shohely Akhter,00eefafc,SJ Bryce,2ca65aee,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Scotland,10,L Jack,e565ceb7,Shohely Akhter,00eefafc,SJ Bryce,2ca65aee,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Scotland,10,L Jack,e565ceb7,Shohely Akhter,00eefafc,SJ Bryce,2ca65aee,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Scotland,10,L Jack,e565ceb7,Shohely Akhter,00eefafc,SJ Bryce,2ca65aee,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Scotland,11,SJ Bryce,2ca65aee,Lata Mondal,5bf87532,L Jack,e565ceb7,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Scotland,11,SJ Bryce,2ca65aee,Lata Mondal,5bf87532,L Jack,e565ceb7,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Scotland,11,SJ Bryce,2ca65aee,Lata Mondal,5bf87532,L Jack,e565ceb7,0,0,0,0,0,,,,,,1,0,1
+1331389,2022,Scotland,11,L Jack,e565ceb7,Lata Mondal,5bf87532,SJ Bryce,2ca65aee,0,0,0,0,0,,,,,,1,0,1
+1331389,2022,Scotland,11,SJ Bryce,2ca65aee,Lata Mondal,5bf87532,L Jack,e565ceb7,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Scotland,11,SJ Bryce,2ca65aee,Lata Mondal,5bf87532,L Jack,e565ceb7,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Scotland,12,L Jack,e565ceb7,Shohely Akhter,00eefafc,SJ Bryce,2ca65aee,0,0,0,0,0,,,,,,1,0,1
+1331389,2022,Scotland,12,SJ Bryce,2ca65aee,Shohely Akhter,00eefafc,L Jack,e565ceb7,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Scotland,12,SJ Bryce,2ca65aee,Shohely Akhter,00eefafc,L Jack,e565ceb7,0,0,0,0,1,SJ Bryce,2ca65aee,,,bowled,0,0,0
+1331389,2022,Scotland,12,EL Watson,45dd7433,Shohely Akhter,00eefafc,L Jack,e565ceb7,0,0,0,0,1,EL Watson,45dd7433,,,bowled,0,0,0
+1331389,2022,Scotland,12,K Fraser,a0a65375,Shohely Akhter,00eefafc,L Jack,e565ceb7,0,0,0,0,0,,,,,,2,0,2
+1331389,2022,Scotland,12,K Fraser,a0a65375,Shohely Akhter,00eefafc,L Jack,e565ceb7,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Scotland,13,L Jack,e565ceb7,Lata Mondal,5bf87532,K Fraser,a0a65375,0,0,0,0,1,K Fraser,a0a65375,Shamima Sultana,724645f5,run out,0,0,0
+1331389,2022,Scotland,13,R Slater,8a452195,Lata Mondal,5bf87532,L Jack,e565ceb7,0,0,0,0,0,,,,,,1,0,1
+1331389,2022,Scotland,13,L Jack,e565ceb7,Lata Mondal,5bf87532,R Slater,8a452195,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Scotland,13,L Jack,e565ceb7,Lata Mondal,5bf87532,R Slater,8a452195,1,0,0,0,0,,,,,,0,1,1
+1331389,2022,Scotland,13,L Jack,e565ceb7,Lata Mondal,5bf87532,R Slater,8a452195,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Scotland,13,L Jack,e565ceb7,Lata Mondal,5bf87532,R Slater,8a452195,0,0,0,0,0,,,,,,1,0,1
+1331389,2022,Scotland,13,R Slater,8a452195,Lata Mondal,5bf87532,L Jack,e565ceb7,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Scotland,14,L Jack,e565ceb7,Salma Khatun,037f2b86,R Slater,8a452195,0,0,0,0,0,,,,,,1,0,1
+1331389,2022,Scotland,14,R Slater,8a452195,Salma Khatun,037f2b86,L Jack,e565ceb7,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Scotland,14,R Slater,8a452195,Salma Khatun,037f2b86,L Jack,e565ceb7,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Scotland,14,R Slater,8a452195,Salma Khatun,037f2b86,L Jack,e565ceb7,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Scotland,14,R Slater,8a452195,Salma Khatun,037f2b86,L Jack,e565ceb7,1,0,0,0,0,,,,,,0,1,1
+1331389,2022,Scotland,14,R Slater,8a452195,Salma Khatun,037f2b86,L Jack,e565ceb7,0,0,0,0,0,,,,,,1,0,1
+1331389,2022,Scotland,14,L Jack,e565ceb7,Salma Khatun,037f2b86,R Slater,8a452195,0,0,0,0,0,,,,,,4,0,4
+1331389,2022,Scotland,15,R Slater,8a452195,Lata Mondal,5bf87532,L Jack,e565ceb7,0,0,0,0,0,,,,,,1,0,1
+1331389,2022,Scotland,15,L Jack,e565ceb7,Lata Mondal,5bf87532,R Slater,8a452195,0,0,0,0,0,,,,,,4,0,4
+1331389,2022,Scotland,15,L Jack,e565ceb7,Lata Mondal,5bf87532,R Slater,8a452195,0,0,0,0,0,,,,,,2,0,2
+1331389,2022,Scotland,15,L Jack,e565ceb7,Lata Mondal,5bf87532,R Slater,8a452195,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Scotland,15,L Jack,e565ceb7,Lata Mondal,5bf87532,R Slater,8a452195,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Scotland,15,L Jack,e565ceb7,Lata Mondal,5bf87532,R Slater,8a452195,0,0,0,0,0,,,,,,4,0,4
+1331389,2022,Scotland,16,R Slater,8a452195,Sanjida Akter Meghla,a6412417,L Jack,e565ceb7,0,0,0,0,0,,,,,,1,0,1
+1331389,2022,Scotland,16,L Jack,e565ceb7,Sanjida Akter Meghla,a6412417,R Slater,8a452195,0,0,0,0,0,,,,,,1,0,1
+1331389,2022,Scotland,16,R Slater,8a452195,Sanjida Akter Meghla,a6412417,L Jack,e565ceb7,0,0,0,0,0,,,,,,1,0,1
+1331389,2022,Scotland,16,L Jack,e565ceb7,Sanjida Akter Meghla,a6412417,R Slater,8a452195,0,0,0,0,0,,,,,,1,0,1
+1331389,2022,Scotland,16,R Slater,8a452195,Sanjida Akter Meghla,a6412417,L Jack,e565ceb7,0,0,0,0,0,,,,,,1,0,1
+1331389,2022,Scotland,16,L Jack,e565ceb7,Sanjida Akter Meghla,a6412417,R Slater,8a452195,0,0,0,0,0,,,,,,1,0,1
+1331389,2022,Scotland,17,L Jack,e565ceb7,Nahida Akter,66078174,R Slater,8a452195,0,0,0,0,0,,,,,,1,0,1
+1331389,2022,Scotland,17,R Slater,8a452195,Nahida Akter,66078174,L Jack,e565ceb7,0,0,0,0,0,,,,,,1,0,1
+1331389,2022,Scotland,17,L Jack,e565ceb7,Nahida Akter,66078174,R Slater,8a452195,0,0,0,0,1,L Jack,e565ceb7,,,bowled,0,0,0
+1331389,2022,Scotland,17,AH Maqsood,f61e2829,Nahida Akter,66078174,R Slater,8a452195,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Scotland,17,AH Maqsood,f61e2829,Nahida Akter,66078174,R Slater,8a452195,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Scotland,17,AH Maqsood,f61e2829,Nahida Akter,66078174,R Slater,8a452195,0,0,0,0,0,,,,,,2,0,2
+1331389,2022,Scotland,18,R Slater,8a452195,Salma Khatun,037f2b86,AH Maqsood,f61e2829,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Scotland,18,R Slater,8a452195,Salma Khatun,037f2b86,AH Maqsood,f61e2829,0,0,0,0,1,R Slater,8a452195,,,bowled,0,0,0
+1331389,2022,Scotland,18,HRA Rainey,7027d12f,Salma Khatun,037f2b86,AH Maqsood,f61e2829,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Scotland,18,HRA Rainey,7027d12f,Salma Khatun,037f2b86,AH Maqsood,f61e2829,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Scotland,18,HRA Rainey,7027d12f,Salma Khatun,037f2b86,AH Maqsood,f61e2829,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Scotland,18,HRA Rainey,7027d12f,Salma Khatun,037f2b86,AH Maqsood,f61e2829,0,0,0,0,0,,,,,,1,0,1
+1331389,2022,Scotland,19,HRA Rainey,7027d12f,Nahida Akter,66078174,AH Maqsood,f61e2829,0,0,0,0,0,,,,,,1,0,1
+1331389,2022,Scotland,19,AH Maqsood,f61e2829,Nahida Akter,66078174,HRA Rainey,7027d12f,0,0,0,0,0,,,,,,2,0,2
+1331389,2022,Scotland,19,AH Maqsood,f61e2829,Nahida Akter,66078174,HRA Rainey,7027d12f,0,0,0,0,1,AH Maqsood,f61e2829,,,bowled,0,0,0
+1331389,2022,Bangladesh,0,Shamima Sultana,724645f5,KE Bryce,f13d3eba,Murshida Khatun,712bbd92,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Bangladesh,0,Shamima Sultana,724645f5,KE Bryce,f13d3eba,Murshida Khatun,712bbd92,0,0,0,0,0,,,,,,2,0,2
+1331389,2022,Bangladesh,0,Shamima Sultana,724645f5,KE Bryce,f13d3eba,Murshida Khatun,712bbd92,0,0,0,0,0,,,,,,1,0,1
+1331389,2022,Bangladesh,0,Murshida Khatun,712bbd92,KE Bryce,f13d3eba,Shamima Sultana,724645f5,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Bangladesh,0,Murshida Khatun,712bbd92,KE Bryce,f13d3eba,Shamima Sultana,724645f5,0,0,0,0,0,,,,,,1,0,1
+1331389,2022,Bangladesh,0,Shamima Sultana,724645f5,KE Bryce,f13d3eba,Murshida Khatun,712bbd92,0,0,0,0,0,,,,,,4,0,4
+1331389,2022,Bangladesh,1,Murshida Khatun,712bbd92,R Slater,8a452195,Shamima Sultana,724645f5,1,0,0,0,0,,,,,,0,1,1
+1331389,2022,Bangladesh,1,Murshida Khatun,712bbd92,R Slater,8a452195,Shamima Sultana,724645f5,0,0,1,0,0,,,,,,0,1,1
+1331389,2022,Bangladesh,1,Shamima Sultana,724645f5,R Slater,8a452195,Murshida Khatun,712bbd92,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Bangladesh,1,Shamima Sultana,724645f5,R Slater,8a452195,Murshida Khatun,712bbd92,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Bangladesh,1,Shamima Sultana,724645f5,R Slater,8a452195,Murshida Khatun,712bbd92,0,0,0,0,1,Shamima Sultana,724645f5,,,lbw,0,0,0
+1331389,2022,Bangladesh,1,Nigar Sultana,3827f6a2,R Slater,8a452195,Murshida Khatun,712bbd92,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Bangladesh,1,Nigar Sultana,3827f6a2,R Slater,8a452195,Murshida Khatun,712bbd92,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Bangladesh,2,Murshida Khatun,712bbd92,KE Bryce,f13d3eba,Nigar Sultana,3827f6a2,0,0,0,0,0,,,,,,1,0,1
+1331389,2022,Bangladesh,2,Nigar Sultana,3827f6a2,KE Bryce,f13d3eba,Murshida Khatun,712bbd92,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Bangladesh,2,Nigar Sultana,3827f6a2,KE Bryce,f13d3eba,Murshida Khatun,712bbd92,0,0,0,0,0,,,,,,4,0,4
+1331389,2022,Bangladesh,2,Nigar Sultana,3827f6a2,KE Bryce,f13d3eba,Murshida Khatun,712bbd92,0,0,0,0,0,,,,,,4,0,4
+1331389,2022,Bangladesh,2,Nigar Sultana,3827f6a2,KE Bryce,f13d3eba,Murshida Khatun,712bbd92,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Bangladesh,2,Nigar Sultana,3827f6a2,KE Bryce,f13d3eba,Murshida Khatun,712bbd92,0,0,0,0,0,,,,,,2,0,2
+1331389,2022,Bangladesh,3,Murshida Khatun,712bbd92,R Slater,8a452195,Nigar Sultana,3827f6a2,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Bangladesh,3,Murshida Khatun,712bbd92,R Slater,8a452195,Nigar Sultana,3827f6a2,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Bangladesh,3,Murshida Khatun,712bbd92,R Slater,8a452195,Nigar Sultana,3827f6a2,0,0,0,0,0,,,,,,2,0,2
+1331389,2022,Bangladesh,3,Murshida Khatun,712bbd92,R Slater,8a452195,Nigar Sultana,3827f6a2,0,0,0,0,0,,,,,,4,0,4
+1331389,2022,Bangladesh,3,Murshida Khatun,712bbd92,R Slater,8a452195,Nigar Sultana,3827f6a2,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Bangladesh,3,Murshida Khatun,712bbd92,R Slater,8a452195,Nigar Sultana,3827f6a2,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Bangladesh,4,Nigar Sultana,3827f6a2,K Fraser,a0a65375,Murshida Khatun,712bbd92,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Bangladesh,4,Nigar Sultana,3827f6a2,K Fraser,a0a65375,Murshida Khatun,712bbd92,0,0,0,0,0,,,,,,2,0,2
+1331389,2022,Bangladesh,4,Nigar Sultana,3827f6a2,K Fraser,a0a65375,Murshida Khatun,712bbd92,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Bangladesh,4,Nigar Sultana,3827f6a2,K Fraser,a0a65375,Murshida Khatun,712bbd92,0,0,0,0,0,,,,,,1,0,1
+1331389,2022,Bangladesh,4,Murshida Khatun,712bbd92,K Fraser,a0a65375,Nigar Sultana,3827f6a2,0,0,0,0,0,,,,,,1,0,1
+1331389,2022,Bangladesh,4,Nigar Sultana,3827f6a2,K Fraser,a0a65375,Murshida Khatun,712bbd92,0,0,0,0,0,,,,,,1,0,1
+1331389,2022,Bangladesh,5,Nigar Sultana,3827f6a2,HRA Rainey,7027d12f,Murshida Khatun,712bbd92,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Bangladesh,5,Nigar Sultana,3827f6a2,HRA Rainey,7027d12f,Murshida Khatun,712bbd92,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Bangladesh,5,Nigar Sultana,3827f6a2,HRA Rainey,7027d12f,Murshida Khatun,712bbd92,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Bangladesh,5,Nigar Sultana,3827f6a2,HRA Rainey,7027d12f,Murshida Khatun,712bbd92,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Bangladesh,5,Nigar Sultana,3827f6a2,HRA Rainey,7027d12f,Murshida Khatun,712bbd92,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Bangladesh,5,Nigar Sultana,3827f6a2,HRA Rainey,7027d12f,Murshida Khatun,712bbd92,0,0,0,0,0,,,,,,1,0,1
+1331389,2022,Bangladesh,6,Nigar Sultana,3827f6a2,AH Maqsood,f61e2829,Murshida Khatun,712bbd92,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Bangladesh,6,Nigar Sultana,3827f6a2,AH Maqsood,f61e2829,Murshida Khatun,712bbd92,0,0,0,0,0,,,,,,2,0,2
+1331389,2022,Bangladesh,6,Nigar Sultana,3827f6a2,AH Maqsood,f61e2829,Murshida Khatun,712bbd92,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Bangladesh,6,Nigar Sultana,3827f6a2,AH Maqsood,f61e2829,Murshida Khatun,712bbd92,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Bangladesh,6,Nigar Sultana,3827f6a2,AH Maqsood,f61e2829,Murshida Khatun,712bbd92,0,0,0,0,0,,,,,,4,0,4
+1331389,2022,Bangladesh,6,Nigar Sultana,3827f6a2,AH Maqsood,f61e2829,Murshida Khatun,712bbd92,0,0,0,0,0,,,,,,1,0,1
+1331389,2022,Bangladesh,7,Nigar Sultana,3827f6a2,HRA Rainey,7027d12f,Murshida Khatun,712bbd92,0,0,0,0,0,,,,,,1,0,1
+1331389,2022,Bangladesh,7,Murshida Khatun,712bbd92,HRA Rainey,7027d12f,Nigar Sultana,3827f6a2,0,0,0,0,0,,,,,,4,0,4
+1331389,2022,Bangladesh,7,Murshida Khatun,712bbd92,HRA Rainey,7027d12f,Nigar Sultana,3827f6a2,0,0,0,0,0,,,,,,2,0,2
+1331389,2022,Bangladesh,7,Murshida Khatun,712bbd92,HRA Rainey,7027d12f,Nigar Sultana,3827f6a2,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Bangladesh,7,Murshida Khatun,712bbd92,HRA Rainey,7027d12f,Nigar Sultana,3827f6a2,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Bangladesh,7,Murshida Khatun,712bbd92,HRA Rainey,7027d12f,Nigar Sultana,3827f6a2,1,0,0,0,0,,,,,,0,1,1
+1331389,2022,Bangladesh,7,Murshida Khatun,712bbd92,HRA Rainey,7027d12f,Nigar Sultana,3827f6a2,0,0,0,0,1,Murshida Khatun,712bbd92,KE Bryce,f13d3eba,caught,0,0,0
+1331389,2022,Bangladesh,8,Nigar Sultana,3827f6a2,S Horley,8cd72e0b,Rumana Ahmed,a92763ea,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Bangladesh,8,Nigar Sultana,3827f6a2,S Horley,8cd72e0b,Rumana Ahmed,a92763ea,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Bangladesh,8,Nigar Sultana,3827f6a2,S Horley,8cd72e0b,Rumana Ahmed,a92763ea,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Bangladesh,8,Nigar Sultana,3827f6a2,S Horley,8cd72e0b,Rumana Ahmed,a92763ea,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Bangladesh,8,Nigar Sultana,3827f6a2,S Horley,8cd72e0b,Rumana Ahmed,a92763ea,0,0,0,0,0,,,,,,4,0,4
+1331389,2022,Bangladesh,8,Nigar Sultana,3827f6a2,S Horley,8cd72e0b,Rumana Ahmed,a92763ea,0,0,0,0,0,,,,,,1,0,1
+1331389,2022,Bangladesh,9,Nigar Sultana,3827f6a2,K Fraser,a0a65375,Rumana Ahmed,a92763ea,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Bangladesh,9,Nigar Sultana,3827f6a2,K Fraser,a0a65375,Rumana Ahmed,a92763ea,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Bangladesh,9,Nigar Sultana,3827f6a2,K Fraser,a0a65375,Rumana Ahmed,a92763ea,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Bangladesh,9,Nigar Sultana,3827f6a2,K Fraser,a0a65375,Rumana Ahmed,a92763ea,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Bangladesh,9,Nigar Sultana,3827f6a2,K Fraser,a0a65375,Rumana Ahmed,a92763ea,0,0,0,0,0,,,,,,4,0,4
+1331389,2022,Bangladesh,9,Nigar Sultana,3827f6a2,K Fraser,a0a65375,Rumana Ahmed,a92763ea,0,0,0,0,0,,,,,,1,0,1
+1331389,2022,Bangladesh,10,Nigar Sultana,3827f6a2,S Horley,8cd72e0b,Rumana Ahmed,a92763ea,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Bangladesh,10,Nigar Sultana,3827f6a2,S Horley,8cd72e0b,Rumana Ahmed,a92763ea,0,0,0,0,0,,,,,,1,0,1
+1331389,2022,Bangladesh,10,Rumana Ahmed,a92763ea,S Horley,8cd72e0b,Nigar Sultana,3827f6a2,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Bangladesh,10,Rumana Ahmed,a92763ea,S Horley,8cd72e0b,Nigar Sultana,3827f6a2,0,0,0,0,0,,,,,,4,0,4
+1331389,2022,Bangladesh,10,Rumana Ahmed,a92763ea,S Horley,8cd72e0b,Nigar Sultana,3827f6a2,0,0,0,0,0,,,,,,1,0,1
+1331389,2022,Bangladesh,10,Nigar Sultana,3827f6a2,S Horley,8cd72e0b,Rumana Ahmed,a92763ea,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Bangladesh,11,Rumana Ahmed,a92763ea,R Slater,8a452195,Nigar Sultana,3827f6a2,0,0,0,0,0,,,,,,2,0,2
+1331389,2022,Bangladesh,11,Rumana Ahmed,a92763ea,R Slater,8a452195,Nigar Sultana,3827f6a2,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Bangladesh,11,Rumana Ahmed,a92763ea,R Slater,8a452195,Nigar Sultana,3827f6a2,0,0,0,0,0,,,,,,4,0,4
+1331389,2022,Bangladesh,11,Rumana Ahmed,a92763ea,R Slater,8a452195,Nigar Sultana,3827f6a2,0,0,0,0,1,Rumana Ahmed,a92763ea,,,bowled,0,0,0
+1331389,2022,Bangladesh,11,S Mostary,94de63bf,R Slater,8a452195,Nigar Sultana,3827f6a2,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Bangladesh,11,S Mostary,94de63bf,R Slater,8a452195,Nigar Sultana,3827f6a2,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Bangladesh,12,Nigar Sultana,3827f6a2,K Fraser,a0a65375,S Mostary,94de63bf,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Bangladesh,12,Nigar Sultana,3827f6a2,K Fraser,a0a65375,S Mostary,94de63bf,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Bangladesh,12,Nigar Sultana,3827f6a2,K Fraser,a0a65375,S Mostary,94de63bf,0,0,0,0,1,Nigar Sultana,3827f6a2,A Lister,090c0213,caught,0,0,0
+1331389,2022,Bangladesh,12,S Mostary,94de63bf,K Fraser,a0a65375,Shohely Akhter,00eefafc,0,0,0,0,0,,,,,,0,0,0
+1331389,2022,Bangladesh,12,S Mostary,94de63bf,K Fraser,a0a65375,Shohely Akhter,00eefafc,0,0,0,0,0,,,,,,6,0,6
+1331389,2022,Bangladesh,12,S Mostary,94de63bf,K Fraser,a0a65375,Shohely Akhter,00eefafc,0,0,0,0,0,,,,,,2,0,2

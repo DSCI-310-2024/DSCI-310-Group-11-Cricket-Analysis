@@ -1,0 +1,127 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+936153,2016/17,South Africa,0,JT Smuts,42172c3c,AD Mathews,896d78ad,HG Kuhn,ede05b97,0,0,0,0,0,,,,,,1,0,1
+936153,2016/17,South Africa,0,HG Kuhn,ede05b97,AD Mathews,896d78ad,JT Smuts,42172c3c,0,0,0,0,0,,,,,,4,0,4
+936153,2016/17,South Africa,0,HG Kuhn,ede05b97,AD Mathews,896d78ad,JT Smuts,42172c3c,0,0,0,0,0,,,,,,1,0,1
+936153,2016/17,South Africa,0,JT Smuts,42172c3c,AD Mathews,896d78ad,HG Kuhn,ede05b97,0,0,0,0,0,,,,,,1,0,1
+936153,2016/17,South Africa,0,HG Kuhn,ede05b97,AD Mathews,896d78ad,JT Smuts,42172c3c,0,0,0,0,0,,,,,,1,0,1
+936153,2016/17,South Africa,0,JT Smuts,42172c3c,AD Mathews,896d78ad,HG Kuhn,ede05b97,1,0,0,0,0,,,,,,0,1,1
+936153,2016/17,South Africa,0,JT Smuts,42172c3c,AD Mathews,896d78ad,HG Kuhn,ede05b97,0,0,0,0,0,,,,,,1,0,1
+936153,2016/17,South Africa,1,JT Smuts,42172c3c,KMDN Kulasekara,469ea22b,HG Kuhn,ede05b97,0,0,1,0,0,,,,,,0,1,1
+936153,2016/17,South Africa,1,HG Kuhn,ede05b97,KMDN Kulasekara,469ea22b,JT Smuts,42172c3c,0,0,0,0,0,,,,,,0,0,0
+936153,2016/17,South Africa,1,HG Kuhn,ede05b97,KMDN Kulasekara,469ea22b,JT Smuts,42172c3c,0,0,0,0,0,,,,,,4,0,4
+936153,2016/17,South Africa,1,HG Kuhn,ede05b97,KMDN Kulasekara,469ea22b,JT Smuts,42172c3c,0,0,0,0,1,HG Kuhn,ede05b97,,,lbw,0,0,0
+936153,2016/17,South Africa,1,TB de Bruyn,90d6cdea,KMDN Kulasekara,469ea22b,JT Smuts,42172c3c,0,0,0,0,0,,,,,,4,0,4
+936153,2016/17,South Africa,1,TB de Bruyn,90d6cdea,KMDN Kulasekara,469ea22b,JT Smuts,42172c3c,0,0,0,0,0,,,,,,0,0,0
+936153,2016/17,South Africa,2,JT Smuts,42172c3c,RAS Lakmal,2f28dc94,TB de Bruyn,90d6cdea,0,0,0,0,0,,,,,,4,0,4
+936153,2016/17,South Africa,2,JT Smuts,42172c3c,RAS Lakmal,2f28dc94,TB de Bruyn,90d6cdea,1,0,0,0,0,,,,,,0,1,1
+936153,2016/17,South Africa,2,JT Smuts,42172c3c,RAS Lakmal,2f28dc94,TB de Bruyn,90d6cdea,0,0,0,0,0,,,,,,0,0,0
+936153,2016/17,South Africa,2,JT Smuts,42172c3c,RAS Lakmal,2f28dc94,TB de Bruyn,90d6cdea,0,0,0,0,0,,,,,,6,0,6
+936153,2016/17,South Africa,2,JT Smuts,42172c3c,RAS Lakmal,2f28dc94,TB de Bruyn,90d6cdea,0,0,0,0,1,JT Smuts,42172c3c,DAS Gunaratne,770494eb,caught,0,0,0
+936153,2016/17,South Africa,2,TB de Bruyn,90d6cdea,RAS Lakmal,2f28dc94,DA Miller,d67d5f00,0,0,0,0,0,,,,,,6,0,6
+936153,2016/17,South Africa,2,TB de Bruyn,90d6cdea,RAS Lakmal,2f28dc94,DA Miller,d67d5f00,0,0,0,0,0,,,,,,1,0,1
+936153,2016/17,South Africa,3,TB de Bruyn,90d6cdea,DAS Gunaratne,770494eb,DA Miller,d67d5f00,0,0,0,0,0,,,,,,1,0,1
+936153,2016/17,South Africa,3,DA Miller,d67d5f00,DAS Gunaratne,770494eb,TB de Bruyn,90d6cdea,0,0,0,0,0,,,,,,1,0,1
+936153,2016/17,South Africa,3,TB de Bruyn,90d6cdea,DAS Gunaratne,770494eb,DA Miller,d67d5f00,0,0,0,0,0,,,,,,1,0,1
+936153,2016/17,South Africa,3,DA Miller,d67d5f00,DAS Gunaratne,770494eb,TB de Bruyn,90d6cdea,0,0,0,0,0,,,,,,1,0,1
+936153,2016/17,South Africa,3,TB de Bruyn,90d6cdea,DAS Gunaratne,770494eb,DA Miller,d67d5f00,0,0,0,0,0,,,,,,1,0,1
+936153,2016/17,South Africa,3,DA Miller,d67d5f00,DAS Gunaratne,770494eb,TB de Bruyn,90d6cdea,0,0,0,0,0,,,,,,0,0,0
+936153,2016/17,South Africa,4,TB de Bruyn,90d6cdea,S Prasanna,f78e7113,DA Miller,d67d5f00,0,0,0,0,0,,,,,,4,0,4
+936153,2016/17,South Africa,4,TB de Bruyn,90d6cdea,S Prasanna,f78e7113,DA Miller,d67d5f00,0,0,0,0,0,,,,,,1,0,1
+936153,2016/17,South Africa,4,DA Miller,d67d5f00,S Prasanna,f78e7113,TB de Bruyn,90d6cdea,0,0,0,0,0,,,,,,6,0,6
+936153,2016/17,South Africa,4,DA Miller,d67d5f00,S Prasanna,f78e7113,TB de Bruyn,90d6cdea,0,0,0,0,0,,,,,,1,0,1
+936153,2016/17,South Africa,4,TB de Bruyn,90d6cdea,S Prasanna,f78e7113,DA Miller,d67d5f00,0,0,0,0,1,TB de Bruyn,90d6cdea,DAS Gunaratne,770494eb,caught,0,0,0
+936153,2016/17,South Africa,4,F Behardien,dce2019b,S Prasanna,f78e7113,DA Miller,d67d5f00,1,0,0,0,0,,,,,,0,1,1
+936153,2016/17,South Africa,4,F Behardien,dce2019b,S Prasanna,f78e7113,DA Miller,d67d5f00,0,0,0,0,0,,,,,,1,0,1
+936153,2016/17,South Africa,5,F Behardien,dce2019b,DAS Gunaratne,770494eb,DA Miller,d67d5f00,0,0,0,0,0,,,,,,1,0,1
+936153,2016/17,South Africa,5,DA Miller,d67d5f00,DAS Gunaratne,770494eb,F Behardien,dce2019b,1,0,0,0,0,,,,,,0,1,1
+936153,2016/17,South Africa,5,DA Miller,d67d5f00,DAS Gunaratne,770494eb,F Behardien,dce2019b,0,0,0,0,0,,,,,,1,0,1
+936153,2016/17,South Africa,5,F Behardien,dce2019b,DAS Gunaratne,770494eb,DA Miller,d67d5f00,0,0,0,0,0,,,,,,2,0,2
+936153,2016/17,South Africa,5,F Behardien,dce2019b,DAS Gunaratne,770494eb,DA Miller,d67d5f00,0,0,0,0,0,,,,,,0,0,0
+936153,2016/17,South Africa,5,F Behardien,dce2019b,DAS Gunaratne,770494eb,DA Miller,d67d5f00,0,0,0,0,0,,,,,,1,0,1
+936153,2016/17,South Africa,5,DA Miller,d67d5f00,DAS Gunaratne,770494eb,F Behardien,dce2019b,0,0,0,0,0,,,,,,1,0,1
+936153,2016/17,South Africa,6,DA Miller,d67d5f00,N Pradeep,2af838ee,F Behardien,dce2019b,0,0,0,0,0,,,,,,1,0,1
+936153,2016/17,South Africa,6,F Behardien,dce2019b,N Pradeep,2af838ee,DA Miller,d67d5f00,0,0,0,0,0,,,,,,4,0,4
+936153,2016/17,South Africa,6,F Behardien,dce2019b,N Pradeep,2af838ee,DA Miller,d67d5f00,0,0,0,0,0,,,,,,0,0,0
+936153,2016/17,South Africa,6,F Behardien,dce2019b,N Pradeep,2af838ee,DA Miller,d67d5f00,0,0,0,0,0,,,,,,1,0,1
+936153,2016/17,South Africa,6,DA Miller,d67d5f00,N Pradeep,2af838ee,F Behardien,dce2019b,0,0,0,0,0,,,,,,1,0,1
+936153,2016/17,South Africa,6,F Behardien,dce2019b,N Pradeep,2af838ee,DA Miller,d67d5f00,0,0,0,0,0,,,,,,4,0,4
+936153,2016/17,South Africa,7,DA Miller,d67d5f00,AD Mathews,896d78ad,F Behardien,dce2019b,0,0,0,0,0,,,,,,1,0,1
+936153,2016/17,South Africa,7,F Behardien,dce2019b,AD Mathews,896d78ad,DA Miller,d67d5f00,0,0,0,0,0,,,,,,1,0,1
+936153,2016/17,South Africa,7,DA Miller,d67d5f00,AD Mathews,896d78ad,F Behardien,dce2019b,0,0,0,0,0,,,,,,6,0,6
+936153,2016/17,South Africa,7,DA Miller,d67d5f00,AD Mathews,896d78ad,F Behardien,dce2019b,1,0,0,0,0,,,,,,0,1,1
+936153,2016/17,South Africa,7,DA Miller,d67d5f00,AD Mathews,896d78ad,F Behardien,dce2019b,0,0,0,0,0,,,,,,2,0,2
+936153,2016/17,South Africa,7,DA Miller,d67d5f00,AD Mathews,896d78ad,F Behardien,dce2019b,0,0,0,0,0,,,,,,4,0,4
+936153,2016/17,South Africa,7,DA Miller,d67d5f00,AD Mathews,896d78ad,F Behardien,dce2019b,0,0,0,0,0,,,,,,4,0,4
+936153,2016/17,South Africa,8,F Behardien,dce2019b,KMDN Kulasekara,469ea22b,DA Miller,d67d5f00,0,0,0,0,0,,,,,,1,0,1
+936153,2016/17,South Africa,8,DA Miller,d67d5f00,KMDN Kulasekara,469ea22b,F Behardien,dce2019b,0,1,0,0,0,,,,,,0,1,1
+936153,2016/17,South Africa,8,DA Miller,d67d5f00,KMDN Kulasekara,469ea22b,F Behardien,dce2019b,0,0,0,0,0,,,,,,4,0,4
+936153,2016/17,South Africa,8,DA Miller,d67d5f00,KMDN Kulasekara,469ea22b,F Behardien,dce2019b,0,0,0,0,0,,,,,,6,0,6
+936153,2016/17,South Africa,8,DA Miller,d67d5f00,KMDN Kulasekara,469ea22b,F Behardien,dce2019b,0,0,0,0,1,DA Miller,d67d5f00,RAS Lakmal,2f28dc94,caught,0,0,0
+936153,2016/17,South Africa,8,F Behardien,dce2019b,KMDN Kulasekara,469ea22b,M Mosehle,8836fcac,0,0,0,0,0,,,,,,1,0,1
+936153,2016/17,South Africa,8,M Mosehle,8836fcac,KMDN Kulasekara,469ea22b,F Behardien,dce2019b,0,0,0,0,0,,,,,,6,0,6
+936153,2016/17,South Africa,9,F Behardien,dce2019b,N Pradeep,2af838ee,M Mosehle,8836fcac,0,0,0,0,0,,,,,,0,0,0
+936153,2016/17,South Africa,9,F Behardien,dce2019b,N Pradeep,2af838ee,M Mosehle,8836fcac,0,0,0,0,0,,,,,,4,0,4
+936153,2016/17,South Africa,9,F Behardien,dce2019b,N Pradeep,2af838ee,M Mosehle,8836fcac,0,0,0,0,0,,,,,,6,0,6
+936153,2016/17,South Africa,9,F Behardien,dce2019b,N Pradeep,2af838ee,M Mosehle,8836fcac,0,0,0,0,0,,,,,,2,0,2
+936153,2016/17,South Africa,9,F Behardien,dce2019b,N Pradeep,2af838ee,M Mosehle,8836fcac,0,0,0,0,1,M Mosehle,8836fcac,DAS Gunaratne,770494eb,run out,1,0,1
+936153,2016/17,South Africa,9,F Behardien,dce2019b,N Pradeep,2af838ee,WD Parnell,3a60e0b5,0,0,0,0,0,,,,,,1,0,1
+936153,2016/17,Sri Lanka,0,N Dickwella,45963d9e,L Ngidi,f834dcfc,DM de Silva,7d608e12,0,0,1,0,0,,,,,,0,1,1
+936153,2016/17,Sri Lanka,0,DM de Silva,7d608e12,L Ngidi,f834dcfc,N Dickwella,45963d9e,0,0,0,0,0,,,,,,0,0,0
+936153,2016/17,Sri Lanka,0,DM de Silva,7d608e12,L Ngidi,f834dcfc,N Dickwella,45963d9e,0,0,0,0,0,,,,,,4,0,4
+936153,2016/17,Sri Lanka,0,DM de Silva,7d608e12,L Ngidi,f834dcfc,N Dickwella,45963d9e,0,0,0,0,0,,,,,,0,0,0
+936153,2016/17,Sri Lanka,0,DM de Silva,7d608e12,L Ngidi,f834dcfc,N Dickwella,45963d9e,0,0,0,0,0,,,,,,4,0,4
+936153,2016/17,Sri Lanka,0,DM de Silva,7d608e12,L Ngidi,f834dcfc,N Dickwella,45963d9e,0,0,0,0,0,,,,,,0,0,0
+936153,2016/17,Sri Lanka,1,N Dickwella,45963d9e,WD Parnell,3a60e0b5,DM de Silva,7d608e12,0,0,0,0,0,,,,,,0,0,0
+936153,2016/17,Sri Lanka,1,N Dickwella,45963d9e,WD Parnell,3a60e0b5,DM de Silva,7d608e12,0,0,0,0,0,,,,,,4,0,4
+936153,2016/17,Sri Lanka,1,N Dickwella,45963d9e,WD Parnell,3a60e0b5,DM de Silva,7d608e12,0,0,0,0,0,,,,,,4,0,4
+936153,2016/17,Sri Lanka,1,N Dickwella,45963d9e,WD Parnell,3a60e0b5,DM de Silva,7d608e12,0,0,0,0,0,,,,,,4,0,4
+936153,2016/17,Sri Lanka,1,N Dickwella,45963d9e,WD Parnell,3a60e0b5,DM de Silva,7d608e12,0,0,1,0,0,,,,,,0,1,1
+936153,2016/17,Sri Lanka,1,DM de Silva,7d608e12,WD Parnell,3a60e0b5,N Dickwella,45963d9e,0,0,0,0,0,,,,,,2,0,2
+936153,2016/17,Sri Lanka,2,N Dickwella,45963d9e,AL Phehlukwayo,ab6b1c45,DM de Silva,7d608e12,0,0,0,0,0,,,,,,6,0,6
+936153,2016/17,Sri Lanka,2,N Dickwella,45963d9e,AL Phehlukwayo,ab6b1c45,DM de Silva,7d608e12,0,0,0,0,0,,,,,,2,0,2
+936153,2016/17,Sri Lanka,2,N Dickwella,45963d9e,AL Phehlukwayo,ab6b1c45,DM de Silva,7d608e12,0,0,0,0,0,,,,,,4,0,4
+936153,2016/17,Sri Lanka,2,N Dickwella,45963d9e,AL Phehlukwayo,ab6b1c45,DM de Silva,7d608e12,0,0,0,0,0,,,,,,2,0,2
+936153,2016/17,Sri Lanka,2,N Dickwella,45963d9e,AL Phehlukwayo,ab6b1c45,DM de Silva,7d608e12,0,0,0,0,0,,,,,,1,0,1
+936153,2016/17,Sri Lanka,2,DM de Silva,7d608e12,AL Phehlukwayo,ab6b1c45,N Dickwella,45963d9e,0,0,0,0,0,,,,,,1,0,1
+936153,2016/17,Sri Lanka,3,DM de Silva,7d608e12,Imran Tahir,acee4cc4,N Dickwella,45963d9e,0,0,0,0,0,,,,,,1,0,1
+936153,2016/17,Sri Lanka,3,N Dickwella,45963d9e,Imran Tahir,acee4cc4,DM de Silva,7d608e12,0,0,0,0,0,,,,,,1,0,1
+936153,2016/17,Sri Lanka,3,DM de Silva,7d608e12,Imran Tahir,acee4cc4,N Dickwella,45963d9e,0,0,0,0,0,,,,,,0,0,0
+936153,2016/17,Sri Lanka,3,DM de Silva,7d608e12,Imran Tahir,acee4cc4,N Dickwella,45963d9e,0,0,0,0,0,,,,,,1,0,1
+936153,2016/17,Sri Lanka,3,N Dickwella,45963d9e,Imran Tahir,acee4cc4,DM de Silva,7d608e12,0,0,0,0,0,,,,,,0,0,0
+936153,2016/17,Sri Lanka,3,N Dickwella,45963d9e,Imran Tahir,acee4cc4,DM de Silva,7d608e12,0,0,0,0,0,,,,,,6,0,6
+936153,2016/17,Sri Lanka,4,DM de Silva,7d608e12,AM Phangiso,7f8ecc51,N Dickwella,45963d9e,0,0,0,0,0,,,,,,0,0,0
+936153,2016/17,Sri Lanka,4,DM de Silva,7d608e12,AM Phangiso,7f8ecc51,N Dickwella,45963d9e,0,0,0,0,0,,,,,,1,0,1
+936153,2016/17,Sri Lanka,4,N Dickwella,45963d9e,AM Phangiso,7f8ecc51,DM de Silva,7d608e12,0,0,0,0,0,,,,,,0,0,0
+936153,2016/17,Sri Lanka,4,N Dickwella,45963d9e,AM Phangiso,7f8ecc51,DM de Silva,7d608e12,0,0,0,0,0,,,,,,4,0,4
+936153,2016/17,Sri Lanka,4,N Dickwella,45963d9e,AM Phangiso,7f8ecc51,DM de Silva,7d608e12,0,0,0,0,0,,,,,,4,0,4
+936153,2016/17,Sri Lanka,4,N Dickwella,45963d9e,AM Phangiso,7f8ecc51,DM de Silva,7d608e12,0,0,0,0,0,,,,,,1,0,1
+936153,2016/17,Sri Lanka,5,N Dickwella,45963d9e,Imran Tahir,acee4cc4,DM de Silva,7d608e12,0,0,0,0,1,N Dickwella,45963d9e,TB de Bruyn,90d6cdea,caught,0,0,0
+936153,2016/17,Sri Lanka,5,DM de Silva,7d608e12,Imran Tahir,acee4cc4,AD Mathews,896d78ad,0,0,0,0,0,,,,,,6,0,6
+936153,2016/17,Sri Lanka,5,DM de Silva,7d608e12,Imran Tahir,acee4cc4,AD Mathews,896d78ad,0,0,0,0,0,,,,,,6,0,6
+936153,2016/17,Sri Lanka,5,DM de Silva,7d608e12,Imran Tahir,acee4cc4,AD Mathews,896d78ad,0,0,0,0,0,,,,,,1,0,1
+936153,2016/17,Sri Lanka,5,AD Mathews,896d78ad,Imran Tahir,acee4cc4,DM de Silva,7d608e12,0,0,0,0,0,,,,,,1,0,1
+936153,2016/17,Sri Lanka,5,DM de Silva,7d608e12,Imran Tahir,acee4cc4,AD Mathews,896d78ad,0,0,0,0,1,DM de Silva,7d608e12,,,bowled,0,0,0
+936153,2016/17,Sri Lanka,6,AD Mathews,896d78ad,AM Phangiso,7f8ecc51,ST de Silva,54ef649e,0,0,0,0,0,,,,,,1,0,1
+936153,2016/17,Sri Lanka,6,ST de Silva,54ef649e,AM Phangiso,7f8ecc51,AD Mathews,896d78ad,0,0,0,0,1,ST de Silva,54ef649e,HG Kuhn,ede05b97,caught,0,0,0
+936153,2016/17,Sri Lanka,6,AD Mathews,896d78ad,AM Phangiso,7f8ecc51,S Prasanna,f78e7113,0,0,0,0,0,,,,,,0,0,0
+936153,2016/17,Sri Lanka,6,AD Mathews,896d78ad,AM Phangiso,7f8ecc51,S Prasanna,f78e7113,0,0,0,0,0,,,,,,1,0,1
+936153,2016/17,Sri Lanka,6,S Prasanna,f78e7113,AM Phangiso,7f8ecc51,AD Mathews,896d78ad,0,0,0,0,0,,,,,,6,0,6
+936153,2016/17,Sri Lanka,6,S Prasanna,f78e7113,AM Phangiso,7f8ecc51,AD Mathews,896d78ad,0,0,0,0,0,,,,,,6,0,6
+936153,2016/17,Sri Lanka,7,AD Mathews,896d78ad,L Ngidi,f834dcfc,S Prasanna,f78e7113,0,0,0,0,0,,,,,,1,0,1
+936153,2016/17,Sri Lanka,7,S Prasanna,f78e7113,L Ngidi,f834dcfc,AD Mathews,896d78ad,0,0,0,0,1,S Prasanna,f78e7113,M Mosehle,8836fcac,caught,0,0,0
+936153,2016/17,Sri Lanka,7,BKG Mendis,5d1e7582,L Ngidi,f834dcfc,AD Mathews,896d78ad,0,0,0,0,0,,,,,,1,0,1
+936153,2016/17,Sri Lanka,7,AD Mathews,896d78ad,L Ngidi,f834dcfc,BKG Mendis,5d1e7582,0,0,0,0,0,,,,,,1,0,1
+936153,2016/17,Sri Lanka,7,BKG Mendis,5d1e7582,L Ngidi,f834dcfc,AD Mathews,896d78ad,0,0,0,0,1,BKG Mendis,5d1e7582,Imran Tahir,acee4cc4,caught,0,0,0
+936153,2016/17,Sri Lanka,7,AD Mathews,896d78ad,L Ngidi,f834dcfc,LD Chandimal,8dd02a98,0,0,0,0,0,,,,,,1,0,1
+936153,2016/17,Sri Lanka,8,AD Mathews,896d78ad,WD Parnell,3a60e0b5,LD Chandimal,8dd02a98,0,0,0,0,1,AD Mathews,896d78ad,TB de Bruyn,90d6cdea,caught,0,0,0
+936153,2016/17,Sri Lanka,8,DAS Gunaratne,770494eb,WD Parnell,3a60e0b5,LD Chandimal,8dd02a98,0,0,0,0,0,,,,,,1,0,1
+936153,2016/17,Sri Lanka,8,LD Chandimal,8dd02a98,WD Parnell,3a60e0b5,DAS Gunaratne,770494eb,0,0,0,0,0,,,,,,0,0,0
+936153,2016/17,Sri Lanka,8,LD Chandimal,8dd02a98,WD Parnell,3a60e0b5,DAS Gunaratne,770494eb,0,0,0,0,0,,,,,,1,0,1
+936153,2016/17,Sri Lanka,8,DAS Gunaratne,770494eb,WD Parnell,3a60e0b5,LD Chandimal,8dd02a98,0,0,0,0,0,,,,,,6,0,6
+936153,2016/17,Sri Lanka,8,DAS Gunaratne,770494eb,WD Parnell,3a60e0b5,LD Chandimal,8dd02a98,0,0,0,0,0,,,,,,1,0,1
+936153,2016/17,Sri Lanka,9,DAS Gunaratne,770494eb,AL Phehlukwayo,ab6b1c45,LD Chandimal,8dd02a98,0,0,0,0,0,,,,,,1,0,1
+936153,2016/17,Sri Lanka,9,LD Chandimal,8dd02a98,AL Phehlukwayo,ab6b1c45,DAS Gunaratne,770494eb,0,0,0,0,0,,,,,,0,0,0
+936153,2016/17,Sri Lanka,9,LD Chandimal,8dd02a98,AL Phehlukwayo,ab6b1c45,DAS Gunaratne,770494eb,0,0,0,0,0,,,,,,4,0,4
+936153,2016/17,Sri Lanka,9,LD Chandimal,8dd02a98,AL Phehlukwayo,ab6b1c45,DAS Gunaratne,770494eb,0,0,0,0,0,,,,,,1,0,1
+936153,2016/17,Sri Lanka,9,DAS Gunaratne,770494eb,AL Phehlukwayo,ab6b1c45,LD Chandimal,8dd02a98,0,0,0,0,0,,,,,,0,0,0
+936153,2016/17,Sri Lanka,9,DAS Gunaratne,770494eb,AL Phehlukwayo,ab6b1c45,LD Chandimal,8dd02a98,0,0,0,0,0,,,,,,1,0,1

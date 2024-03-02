@@ -1,0 +1,258 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1190744,2019,Ireland,0,GH Lewis,1b9d1579,IJR Zwilling,47b32a5a,O Prendergast,d8f20ba5,2,0,0,0,0,,,,,,0,2,2
+1190744,2019,Ireland,0,O Prendergast,d8f20ba5,IJR Zwilling,47b32a5a,GH Lewis,1b9d1579,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Ireland,0,O Prendergast,d8f20ba5,IJR Zwilling,47b32a5a,GH Lewis,1b9d1579,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Ireland,0,O Prendergast,d8f20ba5,IJR Zwilling,47b32a5a,GH Lewis,1b9d1579,0,0,0,0,0,,,,,,4,0,4
+1190744,2019,Ireland,0,O Prendergast,d8f20ba5,IJR Zwilling,47b32a5a,GH Lewis,1b9d1579,0,0,0,0,0,,,,,,4,0,4
+1190744,2019,Ireland,0,O Prendergast,d8f20ba5,IJR Zwilling,47b32a5a,GH Lewis,1b9d1579,0,0,0,0,0,,,,,,1,0,1
+1190744,2019,Ireland,0,GH Lewis,1b9d1579,IJR Zwilling,47b32a5a,O Prendergast,d8f20ba5,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Ireland,1,O Prendergast,d8f20ba5,C de Lange,c6a019f5,GH Lewis,1b9d1579,1,0,0,0,0,,,,,,0,1,1
+1190744,2019,Ireland,1,O Prendergast,d8f20ba5,C de Lange,c6a019f5,GH Lewis,1b9d1579,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Ireland,1,O Prendergast,d8f20ba5,C de Lange,c6a019f5,GH Lewis,1b9d1579,0,0,0,0,1,O Prendergast,d8f20ba5,B de Leede,b3020075,stumped,0,0,0
+1190744,2019,Ireland,1,L Paul,07248d8e,C de Lange,c6a019f5,GH Lewis,1b9d1579,0,0,0,4,0,,,,,,0,4,4
+1190744,2019,Ireland,1,L Paul,07248d8e,C de Lange,c6a019f5,GH Lewis,1b9d1579,0,0,0,0,0,,,,,,4,0,4
+1190744,2019,Ireland,1,L Paul,07248d8e,C de Lange,c6a019f5,GH Lewis,1b9d1579,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Ireland,1,L Paul,07248d8e,C de Lange,c6a019f5,GH Lewis,1b9d1579,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Ireland,2,GH Lewis,1b9d1579,IJR Zwilling,47b32a5a,L Paul,07248d8e,0,0,0,0,0,,,,,,4,0,4
+1190744,2019,Ireland,2,GH Lewis,1b9d1579,IJR Zwilling,47b32a5a,L Paul,07248d8e,0,0,0,0,0,,,,,,2,0,2
+1190744,2019,Ireland,2,GH Lewis,1b9d1579,IJR Zwilling,47b32a5a,L Paul,07248d8e,0,0,0,0,0,,,,,,2,0,2
+1190744,2019,Ireland,2,GH Lewis,1b9d1579,IJR Zwilling,47b32a5a,L Paul,07248d8e,0,0,0,0,0,,,,,,4,0,4
+1190744,2019,Ireland,2,GH Lewis,1b9d1579,IJR Zwilling,47b32a5a,L Paul,07248d8e,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Ireland,2,GH Lewis,1b9d1579,IJR Zwilling,47b32a5a,L Paul,07248d8e,0,0,0,0,0,,,,,,3,0,3
+1190744,2019,Ireland,3,GH Lewis,1b9d1579,C de Lange,c6a019f5,L Paul,07248d8e,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Ireland,3,GH Lewis,1b9d1579,C de Lange,c6a019f5,L Paul,07248d8e,1,0,0,0,0,,,,,,0,1,1
+1190744,2019,Ireland,3,GH Lewis,1b9d1579,C de Lange,c6a019f5,L Paul,07248d8e,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Ireland,3,GH Lewis,1b9d1579,C de Lange,c6a019f5,L Paul,07248d8e,0,0,0,0,0,,,,,,4,0,4
+1190744,2019,Ireland,3,GH Lewis,1b9d1579,C de Lange,c6a019f5,L Paul,07248d8e,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Ireland,3,GH Lewis,1b9d1579,C de Lange,c6a019f5,L Paul,07248d8e,0,0,0,0,0,,,,,,1,0,1
+1190744,2019,Ireland,3,L Paul,07248d8e,C de Lange,c6a019f5,GH Lewis,1b9d1579,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Ireland,4,GH Lewis,1b9d1579,AS van Beuge,623c8835,L Paul,07248d8e,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Ireland,4,GH Lewis,1b9d1579,AS van Beuge,623c8835,L Paul,07248d8e,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Ireland,4,GH Lewis,1b9d1579,AS van Beuge,623c8835,L Paul,07248d8e,0,0,0,0,0,,,,,,6,0,6
+1190744,2019,Ireland,4,GH Lewis,1b9d1579,AS van Beuge,623c8835,L Paul,07248d8e,0,0,0,0,1,GH Lewis,1b9d1579,EN Lynch,4d35d0b3,caught,0,0,0
+1190744,2019,Ireland,4,L Paul,07248d8e,AS van Beuge,623c8835,SM Kavanagh,7e9b3b60,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Ireland,4,L Paul,07248d8e,AS van Beuge,623c8835,SM Kavanagh,7e9b3b60,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Ireland,5,SM Kavanagh,7e9b3b60,EN Lynch,4d35d0b3,L Paul,07248d8e,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Ireland,5,SM Kavanagh,7e9b3b60,EN Lynch,4d35d0b3,L Paul,07248d8e,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Ireland,5,SM Kavanagh,7e9b3b60,EN Lynch,4d35d0b3,L Paul,07248d8e,0,0,0,1,0,,,,,,0,1,1
+1190744,2019,Ireland,5,L Paul,07248d8e,EN Lynch,4d35d0b3,SM Kavanagh,7e9b3b60,3,0,0,0,0,,,,,,0,3,3
+1190744,2019,Ireland,5,L Paul,07248d8e,EN Lynch,4d35d0b3,SM Kavanagh,7e9b3b60,3,0,0,0,0,,,,,,0,3,3
+1190744,2019,Ireland,5,L Paul,07248d8e,EN Lynch,4d35d0b3,SM Kavanagh,7e9b3b60,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Ireland,5,L Paul,07248d8e,EN Lynch,4d35d0b3,SM Kavanagh,7e9b3b60,0,0,0,0,0,,,,,,1,0,1
+1190744,2019,Ireland,5,SM Kavanagh,7e9b3b60,EN Lynch,4d35d0b3,L Paul,07248d8e,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Ireland,6,L Paul,07248d8e,AS van Beuge,623c8835,SM Kavanagh,7e9b3b60,0,0,1,0,0,,,,,,0,1,1
+1190744,2019,Ireland,6,SM Kavanagh,7e9b3b60,AS van Beuge,623c8835,L Paul,07248d8e,0,0,0,0,0,,,,,,1,0,1
+1190744,2019,Ireland,6,L Paul,07248d8e,AS van Beuge,623c8835,SM Kavanagh,7e9b3b60,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Ireland,6,L Paul,07248d8e,AS van Beuge,623c8835,SM Kavanagh,7e9b3b60,0,0,0,0,0,,,,,,1,0,1
+1190744,2019,Ireland,6,SM Kavanagh,7e9b3b60,AS van Beuge,623c8835,L Paul,07248d8e,0,0,0,0,0,,,,,,1,0,1
+1190744,2019,Ireland,6,L Paul,07248d8e,AS van Beuge,623c8835,SM Kavanagh,7e9b3b60,0,0,0,0,0,,,,,,1,0,1
+1190744,2019,Ireland,7,L Paul,07248d8e,EN Lynch,4d35d0b3,SM Kavanagh,7e9b3b60,0,0,0,0,0,,,,,,1,0,1
+1190744,2019,Ireland,7,SM Kavanagh,7e9b3b60,EN Lynch,4d35d0b3,L Paul,07248d8e,0,0,0,0,1,SM Kavanagh,7e9b3b60,,,run out,0,0,0
+1190744,2019,Ireland,7,L Paul,07248d8e,EN Lynch,4d35d0b3,L Delany,b4f73b44,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Ireland,7,L Paul,07248d8e,EN Lynch,4d35d0b3,L Delany,b4f73b44,0,0,0,0,0,,,,,,1,0,1
+1190744,2019,Ireland,7,L Delany,b4f73b44,EN Lynch,4d35d0b3,L Paul,07248d8e,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Ireland,7,L Delany,b4f73b44,EN Lynch,4d35d0b3,L Paul,07248d8e,0,0,0,0,0,,,,,,1,0,1
+1190744,2019,Ireland,8,L Delany,b4f73b44,AS van Beuge,623c8835,L Paul,07248d8e,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Ireland,8,L Delany,b4f73b44,AS van Beuge,623c8835,L Paul,07248d8e,0,0,0,0,1,L Delany,b4f73b44,J Post,b58b1ae5,caught,0,0,0
+1190744,2019,Ireland,8,EAJ Richardson,50ee0500,AS van Beuge,623c8835,L Paul,07248d8e,0,0,0,0,0,,,,,,1,0,1
+1190744,2019,Ireland,8,L Paul,07248d8e,AS van Beuge,623c8835,EAJ Richardson,50ee0500,0,0,0,0,0,,,,,,1,0,1
+1190744,2019,Ireland,8,EAJ Richardson,50ee0500,AS van Beuge,623c8835,L Paul,07248d8e,0,0,0,0,0,,,,,,4,0,4
+1190744,2019,Ireland,8,EAJ Richardson,50ee0500,AS van Beuge,623c8835,L Paul,07248d8e,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Ireland,9,L Paul,07248d8e,EN Lynch,4d35d0b3,EAJ Richardson,50ee0500,0,0,0,1,0,,,,,,0,1,1
+1190744,2019,Ireland,9,EAJ Richardson,50ee0500,EN Lynch,4d35d0b3,L Paul,07248d8e,1,0,0,0,0,,,,,,0,1,1
+1190744,2019,Ireland,9,EAJ Richardson,50ee0500,EN Lynch,4d35d0b3,L Paul,07248d8e,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Ireland,9,EAJ Richardson,50ee0500,EN Lynch,4d35d0b3,L Paul,07248d8e,0,0,0,0,0,,,,,,1,0,1
+1190744,2019,Ireland,9,L Paul,07248d8e,EN Lynch,4d35d0b3,EAJ Richardson,50ee0500,0,0,0,0,0,,,,,,1,0,1
+1190744,2019,Ireland,9,EAJ Richardson,50ee0500,EN Lynch,4d35d0b3,L Paul,07248d8e,0,0,0,0,0,,,,,,4,0,4
+1190744,2019,Ireland,9,EAJ Richardson,50ee0500,EN Lynch,4d35d0b3,L Paul,07248d8e,0,0,0,0,0,,,,,,1,0,1
+1190744,2019,Ireland,10,EAJ Richardson,50ee0500,AS van Beuge,623c8835,L Paul,07248d8e,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Ireland,10,EAJ Richardson,50ee0500,AS van Beuge,623c8835,L Paul,07248d8e,0,0,0,0,0,,,,,,1,0,1
+1190744,2019,Ireland,10,L Paul,07248d8e,AS van Beuge,623c8835,EAJ Richardson,50ee0500,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Ireland,10,L Paul,07248d8e,AS van Beuge,623c8835,EAJ Richardson,50ee0500,0,0,0,0,0,,,,,,1,0,1
+1190744,2019,Ireland,10,EAJ Richardson,50ee0500,AS van Beuge,623c8835,L Paul,07248d8e,0,0,0,0,0,,,,,,1,0,1
+1190744,2019,Ireland,10,L Paul,07248d8e,AS van Beuge,623c8835,EAJ Richardson,50ee0500,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Ireland,11,EAJ Richardson,50ee0500,S Siegers,9a58f2c8,L Paul,07248d8e,0,0,0,0,0,,,,,,4,0,4
+1190744,2019,Ireland,11,EAJ Richardson,50ee0500,S Siegers,9a58f2c8,L Paul,07248d8e,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Ireland,11,EAJ Richardson,50ee0500,S Siegers,9a58f2c8,L Paul,07248d8e,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Ireland,11,EAJ Richardson,50ee0500,S Siegers,9a58f2c8,L Paul,07248d8e,0,0,0,0,0,,,,,,1,0,1
+1190744,2019,Ireland,11,L Paul,07248d8e,S Siegers,9a58f2c8,EAJ Richardson,50ee0500,0,0,0,0,0,,,,,,2,0,2
+1190744,2019,Ireland,11,L Paul,07248d8e,S Siegers,9a58f2c8,EAJ Richardson,50ee0500,1,0,0,0,0,,,,,,0,1,1
+1190744,2019,Ireland,11,L Paul,07248d8e,S Siegers,9a58f2c8,EAJ Richardson,50ee0500,0,0,0,0,0,,,,,,1,0,1
+1190744,2019,Ireland,12,L Paul,07248d8e,F Overdijk,022745d5,EAJ Richardson,50ee0500,0,0,0,0,0,,,,,,1,0,1
+1190744,2019,Ireland,12,EAJ Richardson,50ee0500,F Overdijk,022745d5,L Paul,07248d8e,0,0,0,0,0,,,,,,4,0,4
+1190744,2019,Ireland,12,EAJ Richardson,50ee0500,F Overdijk,022745d5,L Paul,07248d8e,0,0,0,0,0,,,,,,1,0,1
+1190744,2019,Ireland,12,L Paul,07248d8e,F Overdijk,022745d5,EAJ Richardson,50ee0500,0,0,0,0,0,,,,,,4,0,4
+1190744,2019,Ireland,12,L Paul,07248d8e,F Overdijk,022745d5,EAJ Richardson,50ee0500,0,0,0,0,0,,,,,,1,0,1
+1190744,2019,Ireland,12,EAJ Richardson,50ee0500,F Overdijk,022745d5,L Paul,07248d8e,3,0,0,0,0,,,,,,0,3,3
+1190744,2019,Ireland,12,EAJ Richardson,50ee0500,F Overdijk,022745d5,L Paul,07248d8e,0,0,0,0,0,,,,,,4,0,4
+1190744,2019,Ireland,13,L Paul,07248d8e,S Siegers,9a58f2c8,EAJ Richardson,50ee0500,0,0,0,0,0,,,,,,2,0,2
+1190744,2019,Ireland,13,L Paul,07248d8e,S Siegers,9a58f2c8,EAJ Richardson,50ee0500,0,0,0,0,0,,,,,,1,0,1
+1190744,2019,Ireland,13,EAJ Richardson,50ee0500,S Siegers,9a58f2c8,L Paul,07248d8e,0,1,0,0,0,,,,,,4,1,5
+1190744,2019,Ireland,13,EAJ Richardson,50ee0500,S Siegers,9a58f2c8,L Paul,07248d8e,0,1,1,0,0,,,,,,0,2,2
+1190744,2019,Ireland,13,L Paul,07248d8e,S Siegers,9a58f2c8,EAJ Richardson,50ee0500,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Ireland,13,L Paul,07248d8e,S Siegers,9a58f2c8,EAJ Richardson,50ee0500,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Ireland,13,L Paul,07248d8e,S Siegers,9a58f2c8,EAJ Richardson,50ee0500,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Ireland,13,L Paul,07248d8e,S Siegers,9a58f2c8,EAJ Richardson,50ee0500,0,0,0,0,0,,,,,,1,0,1
+1190744,2019,Ireland,14,L Paul,07248d8e,F Overdijk,022745d5,EAJ Richardson,50ee0500,0,0,0,0,0,,,,,,1,0,1
+1190744,2019,Ireland,14,EAJ Richardson,50ee0500,F Overdijk,022745d5,L Paul,07248d8e,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Ireland,14,EAJ Richardson,50ee0500,F Overdijk,022745d5,L Paul,07248d8e,0,0,0,0,0,,,,,,2,0,2
+1190744,2019,Ireland,14,EAJ Richardson,50ee0500,F Overdijk,022745d5,L Paul,07248d8e,0,0,0,0,0,,,,,,4,0,4
+1190744,2019,Ireland,14,EAJ Richardson,50ee0500,F Overdijk,022745d5,L Paul,07248d8e,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Ireland,14,EAJ Richardson,50ee0500,F Overdijk,022745d5,L Paul,07248d8e,0,0,0,0,0,,,,,,2,0,2
+1190744,2019,Ireland,15,L Paul,07248d8e,S Siegers,9a58f2c8,EAJ Richardson,50ee0500,0,0,0,1,0,,,,,,0,1,1
+1190744,2019,Ireland,15,EAJ Richardson,50ee0500,S Siegers,9a58f2c8,L Paul,07248d8e,0,0,0,0,0,,,,,,2,0,2
+1190744,2019,Ireland,15,EAJ Richardson,50ee0500,S Siegers,9a58f2c8,L Paul,07248d8e,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Ireland,15,EAJ Richardson,50ee0500,S Siegers,9a58f2c8,L Paul,07248d8e,0,0,0,0,0,,,,,,4,0,4
+1190744,2019,Ireland,15,EAJ Richardson,50ee0500,S Siegers,9a58f2c8,L Paul,07248d8e,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Ireland,15,EAJ Richardson,50ee0500,S Siegers,9a58f2c8,L Paul,07248d8e,0,0,0,0,0,,,,,,1,0,1
+1190744,2019,Ireland,16,EAJ Richardson,50ee0500,IJR Zwilling,47b32a5a,L Paul,07248d8e,1,0,0,0,0,,,,,,0,1,1
+1190744,2019,Ireland,16,EAJ Richardson,50ee0500,IJR Zwilling,47b32a5a,L Paul,07248d8e,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Ireland,16,EAJ Richardson,50ee0500,IJR Zwilling,47b32a5a,L Paul,07248d8e,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Ireland,16,EAJ Richardson,50ee0500,IJR Zwilling,47b32a5a,L Paul,07248d8e,0,0,0,0,0,,,,,,1,0,1
+1190744,2019,Ireland,16,L Paul,07248d8e,IJR Zwilling,47b32a5a,EAJ Richardson,50ee0500,1,0,0,0,1,L Paul,07248d8e,B de Leede,b3020075,stumped,0,1,1
+1190744,2019,Ireland,16,MV Waldron,2e4f11e9,IJR Zwilling,47b32a5a,EAJ Richardson,50ee0500,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Ireland,16,MV Waldron,2e4f11e9,IJR Zwilling,47b32a5a,EAJ Richardson,50ee0500,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Ireland,16,MV Waldron,2e4f11e9,IJR Zwilling,47b32a5a,EAJ Richardson,50ee0500,0,0,0,0,0,,,,,,1,0,1
+1190744,2019,Ireland,17,MV Waldron,2e4f11e9,C de Lange,c6a019f5,EAJ Richardson,50ee0500,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Ireland,17,MV Waldron,2e4f11e9,C de Lange,c6a019f5,EAJ Richardson,50ee0500,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Ireland,17,MV Waldron,2e4f11e9,C de Lange,c6a019f5,EAJ Richardson,50ee0500,0,0,0,0,0,,,,,,1,0,1
+1190744,2019,Ireland,17,EAJ Richardson,50ee0500,C de Lange,c6a019f5,MV Waldron,2e4f11e9,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Ireland,17,EAJ Richardson,50ee0500,C de Lange,c6a019f5,MV Waldron,2e4f11e9,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Ireland,17,EAJ Richardson,50ee0500,C de Lange,c6a019f5,MV Waldron,2e4f11e9,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Ireland,18,MV Waldron,2e4f11e9,IJR Zwilling,47b32a5a,EAJ Richardson,50ee0500,0,0,0,0,0,,,,,,4,0,4
+1190744,2019,Ireland,18,MV Waldron,2e4f11e9,IJR Zwilling,47b32a5a,EAJ Richardson,50ee0500,0,0,0,0,0,,,,,,4,0,4
+1190744,2019,Ireland,18,MV Waldron,2e4f11e9,IJR Zwilling,47b32a5a,EAJ Richardson,50ee0500,0,0,0,0,0,,,,,,1,0,1
+1190744,2019,Ireland,18,EAJ Richardson,50ee0500,IJR Zwilling,47b32a5a,MV Waldron,2e4f11e9,0,0,0,0,0,,,,,,4,0,4
+1190744,2019,Ireland,18,EAJ Richardson,50ee0500,IJR Zwilling,47b32a5a,MV Waldron,2e4f11e9,0,0,0,0,0,,,,,,1,0,1
+1190744,2019,Ireland,18,MV Waldron,2e4f11e9,IJR Zwilling,47b32a5a,EAJ Richardson,50ee0500,0,0,0,0,0,,,,,,2,0,2
+1190744,2019,Ireland,19,EAJ Richardson,50ee0500,C de Lange,c6a019f5,MV Waldron,2e4f11e9,0,0,0,0,0,,,,,,4,0,4
+1190744,2019,Ireland,19,EAJ Richardson,50ee0500,C de Lange,c6a019f5,MV Waldron,2e4f11e9,0,0,0,0,0,,,,,,4,0,4
+1190744,2019,Ireland,19,EAJ Richardson,50ee0500,C de Lange,c6a019f5,MV Waldron,2e4f11e9,0,0,0,0,0,,,,,,1,0,1
+1190744,2019,Ireland,19,MV Waldron,2e4f11e9,C de Lange,c6a019f5,EAJ Richardson,50ee0500,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Ireland,19,MV Waldron,2e4f11e9,C de Lange,c6a019f5,EAJ Richardson,50ee0500,0,0,0,0,0,,,,,,1,0,1
+1190744,2019,Ireland,19,EAJ Richardson,50ee0500,C de Lange,c6a019f5,MV Waldron,2e4f11e9,0,0,0,0,0,,,,,,2,0,2
+1190744,2019,Netherlands,0,B de Leede,b3020075,O Prendergast,d8f20ba5,R Rijke,42e4b276,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Netherlands,0,B de Leede,b3020075,O Prendergast,d8f20ba5,R Rijke,42e4b276,0,0,1,0,0,,,,,,0,1,1
+1190744,2019,Netherlands,0,R Rijke,42e4b276,O Prendergast,d8f20ba5,B de Leede,b3020075,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Netherlands,0,R Rijke,42e4b276,O Prendergast,d8f20ba5,B de Leede,b3020075,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Netherlands,0,R Rijke,42e4b276,O Prendergast,d8f20ba5,B de Leede,b3020075,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Netherlands,0,R Rijke,42e4b276,O Prendergast,d8f20ba5,B de Leede,b3020075,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Netherlands,1,B de Leede,b3020075,H Little,ad75e88d,R Rijke,42e4b276,0,0,0,0,0,,,,,,1,0,1
+1190744,2019,Netherlands,1,R Rijke,42e4b276,H Little,ad75e88d,B de Leede,b3020075,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Netherlands,1,R Rijke,42e4b276,H Little,ad75e88d,B de Leede,b3020075,0,0,0,0,0,,,,,,1,0,1
+1190744,2019,Netherlands,1,B de Leede,b3020075,H Little,ad75e88d,R Rijke,42e4b276,1,0,0,0,0,,,,,,0,1,1
+1190744,2019,Netherlands,1,B de Leede,b3020075,H Little,ad75e88d,R Rijke,42e4b276,0,0,0,0,0,,,,,,1,0,1
+1190744,2019,Netherlands,1,R Rijke,42e4b276,H Little,ad75e88d,B de Leede,b3020075,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Netherlands,1,R Rijke,42e4b276,H Little,ad75e88d,B de Leede,b3020075,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Netherlands,1,R Rijke,42e4b276,H Little,ad75e88d,B de Leede,b3020075,0,0,0,0,0,,,,,,1,0,1
+1190744,2019,Netherlands,2,R Rijke,42e4b276,O Prendergast,d8f20ba5,B de Leede,b3020075,1,0,0,0,0,,,,,,0,1,1
+1190744,2019,Netherlands,2,R Rijke,42e4b276,O Prendergast,d8f20ba5,B de Leede,b3020075,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Netherlands,2,R Rijke,42e4b276,O Prendergast,d8f20ba5,B de Leede,b3020075,0,0,0,0,0,,,,,,1,0,1
+1190744,2019,Netherlands,2,B de Leede,b3020075,O Prendergast,d8f20ba5,R Rijke,42e4b276,0,0,0,0,0,,,,,,4,0,4
+1190744,2019,Netherlands,2,B de Leede,b3020075,O Prendergast,d8f20ba5,R Rijke,42e4b276,0,0,0,0,0,,,,,,4,0,4
+1190744,2019,Netherlands,2,B de Leede,b3020075,O Prendergast,d8f20ba5,R Rijke,42e4b276,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Netherlands,2,B de Leede,b3020075,O Prendergast,d8f20ba5,R Rijke,42e4b276,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Netherlands,3,R Rijke,42e4b276,EAJ Richardson,50ee0500,B de Leede,b3020075,0,0,0,0,1,R Rijke,42e4b276,MV Waldron,2e4f11e9,caught,0,0,0
+1190744,2019,Netherlands,3,FEM Van Arkel,58fa6387,EAJ Richardson,50ee0500,B de Leede,b3020075,0,0,0,0,0,,,,,,1,0,1
+1190744,2019,Netherlands,3,B de Leede,b3020075,EAJ Richardson,50ee0500,FEM Van Arkel,58fa6387,0,0,0,0,0,,,,,,1,0,1
+1190744,2019,Netherlands,3,FEM Van Arkel,58fa6387,EAJ Richardson,50ee0500,B de Leede,b3020075,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Netherlands,3,FEM Van Arkel,58fa6387,EAJ Richardson,50ee0500,B de Leede,b3020075,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Netherlands,3,FEM Van Arkel,58fa6387,EAJ Richardson,50ee0500,B de Leede,b3020075,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Netherlands,4,B de Leede,b3020075,L Little,4f86926b,FEM Van Arkel,58fa6387,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Netherlands,4,B de Leede,b3020075,L Little,4f86926b,FEM Van Arkel,58fa6387,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Netherlands,4,B de Leede,b3020075,L Little,4f86926b,FEM Van Arkel,58fa6387,0,0,0,0,0,,,,,,1,0,1
+1190744,2019,Netherlands,4,FEM Van Arkel,58fa6387,L Little,4f86926b,B de Leede,b3020075,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Netherlands,4,FEM Van Arkel,58fa6387,L Little,4f86926b,B de Leede,b3020075,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Netherlands,4,FEM Van Arkel,58fa6387,L Little,4f86926b,B de Leede,b3020075,0,0,0,0,0,,,,,,1,0,1
+1190744,2019,Netherlands,5,FEM Van Arkel,58fa6387,EAJ Richardson,50ee0500,B de Leede,b3020075,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Netherlands,5,FEM Van Arkel,58fa6387,EAJ Richardson,50ee0500,B de Leede,b3020075,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Netherlands,5,FEM Van Arkel,58fa6387,EAJ Richardson,50ee0500,B de Leede,b3020075,0,0,0,0,0,,,,,,1,0,1
+1190744,2019,Netherlands,5,B de Leede,b3020075,EAJ Richardson,50ee0500,FEM Van Arkel,58fa6387,0,0,0,0,0,,,,,,1,0,1
+1190744,2019,Netherlands,5,FEM Van Arkel,58fa6387,EAJ Richardson,50ee0500,B de Leede,b3020075,0,0,0,1,0,,,,,,0,1,1
+1190744,2019,Netherlands,5,B de Leede,b3020075,EAJ Richardson,50ee0500,FEM Van Arkel,58fa6387,0,0,0,0,0,,,,,,1,0,1
+1190744,2019,Netherlands,6,B de Leede,b3020075,L Little,4f86926b,FEM Van Arkel,58fa6387,0,0,0,0,0,,,,,,1,0,1
+1190744,2019,Netherlands,6,FEM Van Arkel,58fa6387,L Little,4f86926b,B de Leede,b3020075,0,0,1,0,0,,,,,,0,1,1
+1190744,2019,Netherlands,6,B de Leede,b3020075,L Little,4f86926b,FEM Van Arkel,58fa6387,1,0,0,0,0,,,,,,0,1,1
+1190744,2019,Netherlands,6,B de Leede,b3020075,L Little,4f86926b,FEM Van Arkel,58fa6387,0,0,0,0,0,,,,,,2,0,2
+1190744,2019,Netherlands,6,B de Leede,b3020075,L Little,4f86926b,FEM Van Arkel,58fa6387,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Netherlands,6,B de Leede,b3020075,L Little,4f86926b,FEM Van Arkel,58fa6387,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Netherlands,6,B de Leede,b3020075,L Little,4f86926b,FEM Van Arkel,58fa6387,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Netherlands,7,FEM Van Arkel,58fa6387,C Raack,28aba384,B de Leede,b3020075,0,0,0,0,1,FEM Van Arkel,58fa6387,,,lbw,0,0,0
+1190744,2019,Netherlands,7,J Post,b58b1ae5,C Raack,28aba384,B de Leede,b3020075,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Netherlands,7,J Post,b58b1ae5,C Raack,28aba384,B de Leede,b3020075,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Netherlands,7,J Post,b58b1ae5,C Raack,28aba384,B de Leede,b3020075,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Netherlands,7,J Post,b58b1ae5,C Raack,28aba384,B de Leede,b3020075,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Netherlands,7,J Post,b58b1ae5,C Raack,28aba384,B de Leede,b3020075,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Netherlands,8,B de Leede,b3020075,L Delany,b4f73b44,J Post,b58b1ae5,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Netherlands,8,B de Leede,b3020075,L Delany,b4f73b44,J Post,b58b1ae5,0,0,0,0,0,,,,,,2,0,2
+1190744,2019,Netherlands,8,B de Leede,b3020075,L Delany,b4f73b44,J Post,b58b1ae5,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Netherlands,8,B de Leede,b3020075,L Delany,b4f73b44,J Post,b58b1ae5,0,0,0,0,0,,,,,,4,0,4
+1190744,2019,Netherlands,8,B de Leede,b3020075,L Delany,b4f73b44,J Post,b58b1ae5,0,0,0,0,0,,,,,,1,0,1
+1190744,2019,Netherlands,8,J Post,b58b1ae5,L Delany,b4f73b44,B de Leede,b3020075,0,0,0,0,0,,,,,,1,0,1
+1190744,2019,Netherlands,9,J Post,b58b1ae5,C Raack,28aba384,B de Leede,b3020075,0,0,0,0,0,,,,,,1,0,1
+1190744,2019,Netherlands,9,B de Leede,b3020075,C Raack,28aba384,J Post,b58b1ae5,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Netherlands,9,B de Leede,b3020075,C Raack,28aba384,J Post,b58b1ae5,0,0,0,0,0,,,,,,1,0,1
+1190744,2019,Netherlands,9,J Post,b58b1ae5,C Raack,28aba384,B de Leede,b3020075,0,0,0,0,0,,,,,,1,0,1
+1190744,2019,Netherlands,9,B de Leede,b3020075,C Raack,28aba384,J Post,b58b1ae5,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Netherlands,9,B de Leede,b3020075,C Raack,28aba384,J Post,b58b1ae5,0,0,0,0,0,,,,,,1,0,1
+1190744,2019,Netherlands,10,B de Leede,b3020075,L Delany,b4f73b44,J Post,b58b1ae5,0,0,0,0,0,,,,,,4,0,4
+1190744,2019,Netherlands,10,B de Leede,b3020075,L Delany,b4f73b44,J Post,b58b1ae5,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Netherlands,10,B de Leede,b3020075,L Delany,b4f73b44,J Post,b58b1ae5,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Netherlands,10,B de Leede,b3020075,L Delany,b4f73b44,J Post,b58b1ae5,0,0,0,0,0,,,,,,2,0,2
+1190744,2019,Netherlands,10,B de Leede,b3020075,L Delany,b4f73b44,J Post,b58b1ae5,0,0,0,0,0,,,,,,1,0,1
+1190744,2019,Netherlands,10,J Post,b58b1ae5,L Delany,b4f73b44,B de Leede,b3020075,0,0,0,0,0,,,,,,1,0,1
+1190744,2019,Netherlands,11,J Post,b58b1ae5,C Raack,28aba384,B de Leede,b3020075,0,0,0,0,0,,,,,,1,0,1
+1190744,2019,Netherlands,11,B de Leede,b3020075,C Raack,28aba384,J Post,b58b1ae5,0,0,0,0,0,,,,,,1,0,1
+1190744,2019,Netherlands,11,J Post,b58b1ae5,C Raack,28aba384,B de Leede,b3020075,0,0,0,0,0,,,,,,1,0,1
+1190744,2019,Netherlands,11,B de Leede,b3020075,C Raack,28aba384,J Post,b58b1ae5,0,0,0,0,0,,,,,,1,0,1
+1190744,2019,Netherlands,11,J Post,b58b1ae5,C Raack,28aba384,B de Leede,b3020075,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Netherlands,11,J Post,b58b1ae5,C Raack,28aba384,B de Leede,b3020075,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Netherlands,12,B de Leede,b3020075,S MacMahon,ef2bcebf,J Post,b58b1ae5,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Netherlands,12,B de Leede,b3020075,S MacMahon,ef2bcebf,J Post,b58b1ae5,0,0,0,0,0,,,,,,1,0,1
+1190744,2019,Netherlands,12,J Post,b58b1ae5,S MacMahon,ef2bcebf,B de Leede,b3020075,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Netherlands,12,J Post,b58b1ae5,S MacMahon,ef2bcebf,B de Leede,b3020075,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Netherlands,12,J Post,b58b1ae5,S MacMahon,ef2bcebf,B de Leede,b3020075,0,0,0,0,0,,,,,,1,0,1
+1190744,2019,Netherlands,12,B de Leede,b3020075,S MacMahon,ef2bcebf,J Post,b58b1ae5,0,0,0,0,0,,,,,,2,0,2
+1190744,2019,Netherlands,13,J Post,b58b1ae5,EAJ Richardson,50ee0500,B de Leede,b3020075,0,0,0,0,0,,,,,,1,0,1
+1190744,2019,Netherlands,13,B de Leede,b3020075,EAJ Richardson,50ee0500,J Post,b58b1ae5,0,0,0,0,0,,,,,,1,0,1
+1190744,2019,Netherlands,13,J Post,b58b1ae5,EAJ Richardson,50ee0500,B de Leede,b3020075,0,0,0,0,0,,,,,,1,0,1
+1190744,2019,Netherlands,13,B de Leede,b3020075,EAJ Richardson,50ee0500,J Post,b58b1ae5,0,0,0,0,0,,,,,,1,0,1
+1190744,2019,Netherlands,13,J Post,b58b1ae5,EAJ Richardson,50ee0500,B de Leede,b3020075,0,0,0,0,0,,,,,,1,0,1
+1190744,2019,Netherlands,13,B de Leede,b3020075,EAJ Richardson,50ee0500,J Post,b58b1ae5,0,0,0,0,0,,,,,,1,0,1
+1190744,2019,Netherlands,14,B de Leede,b3020075,S MacMahon,ef2bcebf,J Post,b58b1ae5,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Netherlands,14,B de Leede,b3020075,S MacMahon,ef2bcebf,J Post,b58b1ae5,0,0,0,0,0,,,,,,1,0,1
+1190744,2019,Netherlands,14,J Post,b58b1ae5,S MacMahon,ef2bcebf,B de Leede,b3020075,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Netherlands,14,J Post,b58b1ae5,S MacMahon,ef2bcebf,B de Leede,b3020075,0,0,0,0,0,,,,,,4,0,4
+1190744,2019,Netherlands,14,J Post,b58b1ae5,S MacMahon,ef2bcebf,B de Leede,b3020075,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Netherlands,14,J Post,b58b1ae5,S MacMahon,ef2bcebf,B de Leede,b3020075,0,0,0,0,0,,,,,,4,0,4
+1190744,2019,Netherlands,15,B de Leede,b3020075,O Prendergast,d8f20ba5,J Post,b58b1ae5,0,0,0,0,0,,,,,,1,0,1
+1190744,2019,Netherlands,15,J Post,b58b1ae5,O Prendergast,d8f20ba5,B de Leede,b3020075,0,0,0,0,1,J Post,b58b1ae5,,,bowled,0,0,0
+1190744,2019,Netherlands,15,AH Thomson,5d2031f0,O Prendergast,d8f20ba5,B de Leede,b3020075,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Netherlands,15,AH Thomson,5d2031f0,O Prendergast,d8f20ba5,B de Leede,b3020075,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Netherlands,15,AH Thomson,5d2031f0,O Prendergast,d8f20ba5,B de Leede,b3020075,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Netherlands,15,AH Thomson,5d2031f0,O Prendergast,d8f20ba5,B de Leede,b3020075,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Netherlands,16,B de Leede,b3020075,H Little,ad75e88d,AH Thomson,5d2031f0,1,0,0,0,0,,,,,,0,1,1
+1190744,2019,Netherlands,16,B de Leede,b3020075,H Little,ad75e88d,AH Thomson,5d2031f0,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Netherlands,16,B de Leede,b3020075,H Little,ad75e88d,AH Thomson,5d2031f0,0,0,0,0,0,,,,,,4,0,4
+1190744,2019,Netherlands,16,B de Leede,b3020075,H Little,ad75e88d,AH Thomson,5d2031f0,0,0,0,0,0,,,,,,1,0,1
+1190744,2019,Netherlands,16,AH Thomson,5d2031f0,H Little,ad75e88d,B de Leede,b3020075,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Netherlands,16,AH Thomson,5d2031f0,H Little,ad75e88d,B de Leede,b3020075,0,0,0,0,0,,,,,,1,0,1
+1190744,2019,Netherlands,16,B de Leede,b3020075,H Little,ad75e88d,AH Thomson,5d2031f0,0,0,0,0,0,,,,,,1,0,1
+1190744,2019,Netherlands,17,B de Leede,b3020075,O Prendergast,d8f20ba5,AH Thomson,5d2031f0,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Netherlands,17,B de Leede,b3020075,O Prendergast,d8f20ba5,AH Thomson,5d2031f0,0,0,0,0,0,,,,,,1,0,1
+1190744,2019,Netherlands,17,AH Thomson,5d2031f0,O Prendergast,d8f20ba5,B de Leede,b3020075,0,0,0,0,0,,,,,,2,0,2
+1190744,2019,Netherlands,17,AH Thomson,5d2031f0,O Prendergast,d8f20ba5,B de Leede,b3020075,0,0,0,0,0,,,,,,1,0,1
+1190744,2019,Netherlands,17,B de Leede,b3020075,O Prendergast,d8f20ba5,AH Thomson,5d2031f0,0,0,0,0,1,B de Leede,b3020075,,,lbw,0,0,0
+1190744,2019,Netherlands,17,AS van Beuge,623c8835,O Prendergast,d8f20ba5,AH Thomson,5d2031f0,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Netherlands,18,AH Thomson,5d2031f0,C Raack,28aba384,AS van Beuge,623c8835,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Netherlands,18,AH Thomson,5d2031f0,C Raack,28aba384,AS van Beuge,623c8835,0,0,0,0,0,,,,,,1,0,1
+1190744,2019,Netherlands,18,AS van Beuge,623c8835,C Raack,28aba384,AH Thomson,5d2031f0,0,0,0,0,0,,,,,,1,0,1
+1190744,2019,Netherlands,18,AH Thomson,5d2031f0,C Raack,28aba384,AS van Beuge,623c8835,0,0,0,0,1,AH Thomson,5d2031f0,MV Waldron,2e4f11e9,caught,0,0,0
+1190744,2019,Netherlands,18,EN Lynch,4d35d0b3,C Raack,28aba384,AS van Beuge,623c8835,0,0,0,0,0,,,,,,1,0,1
+1190744,2019,Netherlands,18,AS van Beuge,623c8835,C Raack,28aba384,EN Lynch,4d35d0b3,0,0,0,0,1,EN Lynch,4d35d0b3,H Little,ad75e88d,run out,0,0,0
+1190744,2019,Netherlands,19,AS van Beuge,623c8835,EAJ Richardson,50ee0500,IJR Zwilling,47b32a5a,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Netherlands,19,AS van Beuge,623c8835,EAJ Richardson,50ee0500,IJR Zwilling,47b32a5a,0,0,0,0,0,,,,,,1,0,1
+1190744,2019,Netherlands,19,IJR Zwilling,47b32a5a,EAJ Richardson,50ee0500,AS van Beuge,623c8835,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Netherlands,19,IJR Zwilling,47b32a5a,EAJ Richardson,50ee0500,AS van Beuge,623c8835,0,0,0,0,1,IJR Zwilling,47b32a5a,C Raack,28aba384,caught,0,0,0
+1190744,2019,Netherlands,19,AS van Beuge,623c8835,EAJ Richardson,50ee0500,C de Lange,c6a019f5,0,0,0,0,0,,,,,,0,0,0
+1190744,2019,Netherlands,19,AS van Beuge,623c8835,EAJ Richardson,50ee0500,C de Lange,c6a019f5,0,0,0,0,0,,,,,,1,0,1

@@ -1,0 +1,83 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+534234,2012,South Africa,0,RE Levi,18c78b11,ST Finn,ccdd8308,HM Amla,e798611a,0,0,0,0,1,RE Levi,18c78b11,C Kieswetter,1e960f2a,caught,0,0,0
+534234,2012,South Africa,0,AB de Villiers,c4487b84,ST Finn,ccdd8308,HM Amla,e798611a,0,0,0,0,0,,,,,,1,0,1
+534234,2012,South Africa,0,HM Amla,e798611a,ST Finn,ccdd8308,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,4,0,4
+534234,2012,South Africa,0,HM Amla,e798611a,ST Finn,ccdd8308,AB de Villiers,c4487b84,0,0,4,0,0,,,,,,0,4,4
+534234,2012,South Africa,0,HM Amla,e798611a,ST Finn,ccdd8308,AB de Villiers,c4487b84,0,0,1,0,0,,,,,,0,1,1
+534234,2012,South Africa,0,AB de Villiers,c4487b84,ST Finn,ccdd8308,HM Amla,e798611a,0,0,0,0,0,,,,,,0,0,0
+534234,2012,South Africa,1,HM Amla,e798611a,SCJ Broad,eba6a852,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,0,0,0
+534234,2012,South Africa,1,HM Amla,e798611a,SCJ Broad,eba6a852,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,4,0,4
+534234,2012,South Africa,1,HM Amla,e798611a,SCJ Broad,eba6a852,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,0,0,0
+534234,2012,South Africa,1,HM Amla,e798611a,SCJ Broad,eba6a852,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,3,0,3
+534234,2012,South Africa,1,AB de Villiers,c4487b84,SCJ Broad,eba6a852,HM Amla,e798611a,0,0,1,0,0,,,,,,0,1,1
+534234,2012,South Africa,1,HM Amla,e798611a,SCJ Broad,eba6a852,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,2,0,2
+534234,2012,South Africa,2,AB de Villiers,c4487b84,ST Finn,ccdd8308,HM Amla,e798611a,0,0,0,0,1,AB de Villiers,c4487b84,JW Dernbach,7be8a0ed,caught,0,0,0
+534234,2012,South Africa,2,HM Amla,e798611a,ST Finn,ccdd8308,JA Morkel,c3d35165,0,0,0,0,0,,,,,,4,0,4
+534234,2012,South Africa,2,HM Amla,e798611a,ST Finn,ccdd8308,JA Morkel,c3d35165,0,0,0,0,0,,,,,,0,0,0
+534234,2012,South Africa,2,HM Amla,e798611a,ST Finn,ccdd8308,JA Morkel,c3d35165,0,0,0,0,0,,,,,,4,0,4
+534234,2012,South Africa,2,HM Amla,e798611a,ST Finn,ccdd8308,JA Morkel,c3d35165,0,0,0,0,0,,,,,,0,0,0
+534234,2012,South Africa,2,HM Amla,e798611a,ST Finn,ccdd8308,JA Morkel,c3d35165,0,0,0,0,0,,,,,,4,0,4
+534234,2012,South Africa,3,JA Morkel,c3d35165,GP Swann,221ad9d9,HM Amla,e798611a,0,0,0,0,0,,,,,,1,0,1
+534234,2012,South Africa,3,HM Amla,e798611a,GP Swann,221ad9d9,JA Morkel,c3d35165,0,0,0,0,0,,,,,,1,0,1
+534234,2012,South Africa,3,JA Morkel,c3d35165,GP Swann,221ad9d9,HM Amla,e798611a,0,0,0,0,0,,,,,,1,0,1
+534234,2012,South Africa,3,HM Amla,e798611a,GP Swann,221ad9d9,JA Morkel,c3d35165,0,0,0,0,0,,,,,,1,0,1
+534234,2012,South Africa,3,JA Morkel,c3d35165,GP Swann,221ad9d9,HM Amla,e798611a,0,0,0,0,0,,,,,,1,0,1
+534234,2012,South Africa,3,HM Amla,e798611a,GP Swann,221ad9d9,JA Morkel,c3d35165,0,0,0,0,0,,,,,,0,0,0
+534234,2012,South Africa,4,JA Morkel,c3d35165,LJ Wright,cca50cd6,HM Amla,e798611a,0,0,0,0,0,,,,,,0,0,0
+534234,2012,South Africa,4,JA Morkel,c3d35165,LJ Wright,cca50cd6,HM Amla,e798611a,0,0,0,0,1,JA Morkel,c3d35165,JM Bairstow,abb83e27,caught,0,0,0
+534234,2012,South Africa,4,HM Amla,e798611a,LJ Wright,cca50cd6,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,1,0,1
+534234,2012,South Africa,4,JP Duminy,2e8994e7,LJ Wright,cca50cd6,HM Amla,e798611a,0,0,0,0,0,,,,,,0,0,0
+534234,2012,South Africa,4,JP Duminy,2e8994e7,LJ Wright,cca50cd6,HM Amla,e798611a,0,0,0,0,0,,,,,,2,0,2
+534234,2012,South Africa,4,JP Duminy,2e8994e7,LJ Wright,cca50cd6,HM Amla,e798611a,0,0,0,0,0,,,,,,1,0,1
+534234,2012,South Africa,5,JP Duminy,2e8994e7,GP Swann,221ad9d9,HM Amla,e798611a,0,0,0,0,0,,,,,,1,0,1
+534234,2012,South Africa,5,HM Amla,e798611a,GP Swann,221ad9d9,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,3,0,3
+534234,2012,South Africa,5,JP Duminy,2e8994e7,GP Swann,221ad9d9,HM Amla,e798611a,0,0,0,0,0,,,,,,1,0,1
+534234,2012,South Africa,5,HM Amla,e798611a,GP Swann,221ad9d9,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,1,0,1
+534234,2012,South Africa,5,JP Duminy,2e8994e7,GP Swann,221ad9d9,HM Amla,e798611a,0,0,0,0,1,JP Duminy,2e8994e7,,,caught and bowled,0,0,0
+534234,2012,South Africa,5,HM Amla,e798611a,GP Swann,221ad9d9,JL Ontong,55f33b32,0,0,0,0,0,,,,,,0,0,0
+534234,2012,South Africa,6,JL Ontong,55f33b32,JW Dernbach,7be8a0ed,HM Amla,e798611a,0,0,0,0,0,,,,,,1,0,1
+534234,2012,South Africa,6,HM Amla,e798611a,JW Dernbach,7be8a0ed,JL Ontong,55f33b32,0,0,0,0,0,,,,,,1,0,1
+534234,2012,South Africa,6,JL Ontong,55f33b32,JW Dernbach,7be8a0ed,HM Amla,e798611a,0,0,0,0,1,JL Ontong,55f33b32,C Kieswetter,1e960f2a,caught,0,0,0
+534234,2012,South Africa,6,HM Amla,e798611a,JW Dernbach,7be8a0ed,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,0,0,0
+534234,2012,South Africa,6,HM Amla,e798611a,JW Dernbach,7be8a0ed,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,1,0,1
+534234,2012,South Africa,6,JH Kallis,86dc8f2e,JW Dernbach,7be8a0ed,HM Amla,e798611a,0,0,0,0,0,,,,,,0,0,0
+534234,2012,South Africa,7,HM Amla,e798611a,SCJ Broad,eba6a852,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,4,0,4
+534234,2012,South Africa,7,HM Amla,e798611a,SCJ Broad,eba6a852,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,0,0,0
+534234,2012,South Africa,7,HM Amla,e798611a,SCJ Broad,eba6a852,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,4,0,4
+534234,2012,South Africa,7,HM Amla,e798611a,SCJ Broad,eba6a852,JH Kallis,86dc8f2e,0,1,0,0,0,,,,,,1,1,2
+534234,2012,South Africa,7,JH Kallis,86dc8f2e,SCJ Broad,eba6a852,HM Amla,e798611a,0,0,0,0,0,,,,,,2,0,2
+534234,2012,South Africa,7,JH Kallis,86dc8f2e,SCJ Broad,eba6a852,HM Amla,e798611a,0,0,0,0,0,,,,,,4,0,4
+534234,2012,South Africa,7,JH Kallis,86dc8f2e,SCJ Broad,eba6a852,HM Amla,e798611a,0,0,0,0,0,,,,,,2,0,2
+534234,2012,South Africa,8,HM Amla,e798611a,JW Dernbach,7be8a0ed,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,1,0,1
+534234,2012,South Africa,8,JH Kallis,86dc8f2e,JW Dernbach,7be8a0ed,HM Amla,e798611a,0,0,0,0,0,,,,,,0,0,0
+534234,2012,South Africa,8,JH Kallis,86dc8f2e,JW Dernbach,7be8a0ed,HM Amla,e798611a,0,0,0,0,0,,,,,,4,0,4
+534234,2012,South Africa,8,JH Kallis,86dc8f2e,JW Dernbach,7be8a0ed,HM Amla,e798611a,0,0,0,0,0,,,,,,1,0,1
+534234,2012,South Africa,8,HM Amla,e798611a,JW Dernbach,7be8a0ed,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,2,0,2
+534234,2012,South Africa,8,HM Amla,e798611a,JW Dernbach,7be8a0ed,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,1,0,1
+534234,2012,England,0,C Kieswetter,1e960f2a,M Morkel,5bb5a915,AD Hales,92aeac25,0,0,0,0,0,,,,,,0,0,0
+534234,2012,England,0,C Kieswetter,1e960f2a,M Morkel,5bb5a915,AD Hales,92aeac25,0,0,0,0,0,,,,,,0,0,0
+534234,2012,England,0,C Kieswetter,1e960f2a,M Morkel,5bb5a915,AD Hales,92aeac25,0,0,0,0,0,,,,,,0,0,0
+534234,2012,England,0,C Kieswetter,1e960f2a,M Morkel,5bb5a915,AD Hales,92aeac25,0,0,0,0,0,,,,,,0,0,0
+534234,2012,England,0,C Kieswetter,1e960f2a,M Morkel,5bb5a915,AD Hales,92aeac25,0,0,0,0,0,,,,,,1,0,1
+534234,2012,England,0,AD Hales,92aeac25,M Morkel,5bb5a915,C Kieswetter,1e960f2a,0,0,0,0,0,,,,,,1,0,1
+534234,2012,England,1,AD Hales,92aeac25,DW Steyn,8fd1a8f5,C Kieswetter,1e960f2a,0,0,0,0,0,,,,,,1,0,1
+534234,2012,England,1,C Kieswetter,1e960f2a,DW Steyn,8fd1a8f5,AD Hales,92aeac25,0,0,0,0,1,C Kieswetter,1e960f2a,RJ Peterson,26ff4c29,caught,0,0,0
+534234,2012,England,1,AD Hales,92aeac25,DW Steyn,8fd1a8f5,LJ Wright,cca50cd6,1,0,0,0,0,,,,,,0,1,1
+534234,2012,England,1,AD Hales,92aeac25,DW Steyn,8fd1a8f5,LJ Wright,cca50cd6,0,0,0,0,0,,,,,,1,0,1
+534234,2012,England,1,LJ Wright,cca50cd6,DW Steyn,8fd1a8f5,AD Hales,92aeac25,0,0,0,0,0,,,,,,0,0,0
+534234,2012,England,1,LJ Wright,cca50cd6,DW Steyn,8fd1a8f5,AD Hales,92aeac25,0,0,0,0,0,,,,,,1,0,1
+534234,2012,England,1,AD Hales,92aeac25,DW Steyn,8fd1a8f5,LJ Wright,cca50cd6,0,0,0,0,0,,,,,,6,0,6
+534234,2012,England,2,LJ Wright,cca50cd6,M Morkel,5bb5a915,AD Hales,92aeac25,0,0,0,0,0,,,,,,2,0,2
+534234,2012,England,2,LJ Wright,cca50cd6,M Morkel,5bb5a915,AD Hales,92aeac25,0,0,0,0,0,,,,,,0,0,0
+534234,2012,England,2,LJ Wright,cca50cd6,M Morkel,5bb5a915,AD Hales,92aeac25,0,0,0,0,0,,,,,,3,0,3
+534234,2012,England,2,AD Hales,92aeac25,M Morkel,5bb5a915,LJ Wright,cca50cd6,0,0,0,0,0,,,,,,0,0,0
+534234,2012,England,2,AD Hales,92aeac25,M Morkel,5bb5a915,LJ Wright,cca50cd6,0,0,1,0,0,,,,,,0,1,1
+534234,2012,England,2,LJ Wright,cca50cd6,M Morkel,5bb5a915,AD Hales,92aeac25,1,0,0,0,0,,,,,,0,1,1
+534234,2012,England,2,LJ Wright,cca50cd6,M Morkel,5bb5a915,AD Hales,92aeac25,0,0,0,0,0,,,,,,0,0,0
+534234,2012,England,3,AD Hales,92aeac25,J Botha,7c503806,LJ Wright,cca50cd6,0,0,0,0,0,,,,,,1,0,1
+534234,2012,England,3,LJ Wright,cca50cd6,J Botha,7c503806,AD Hales,92aeac25,0,0,0,0,0,,,,,,2,0,2
+534234,2012,England,3,LJ Wright,cca50cd6,J Botha,7c503806,AD Hales,92aeac25,0,0,0,0,0,,,,,,4,0,4
+534234,2012,England,3,LJ Wright,cca50cd6,J Botha,7c503806,AD Hales,92aeac25,0,0,0,0,0,,,,,,1,0,1
+534234,2012,England,3,AD Hales,92aeac25,J Botha,7c503806,LJ Wright,cca50cd6,0,0,0,0,0,,,,,,1,0,1
+534234,2012,England,3,LJ Wright,cca50cd6,J Botha,7c503806,AD Hales,92aeac25,0,0,0,0,0,,,,,,1,0,1
+534234,2012,England,4,LJ Wright,cca50cd6,JA Morkel,c3d35165,AD Hales,92aeac25,0,0,0,0,1,LJ Wright,cca50cd6,M Morkel,5bb5a915,caught,0,0,0

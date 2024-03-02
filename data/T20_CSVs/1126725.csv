@@ -1,0 +1,209 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1126725,2018,New Zealand,0,SFM Devine,de69af96,A Shrubsole,32497ecd,SW Bates,89bbc67a,0,0,0,0,0,,,,,,0,0,0
+1126725,2018,New Zealand,0,SFM Devine,de69af96,A Shrubsole,32497ecd,SW Bates,89bbc67a,0,0,0,0,0,,,,,,1,0,1
+1126725,2018,New Zealand,0,SW Bates,89bbc67a,A Shrubsole,32497ecd,SFM Devine,de69af96,0,0,0,0,0,,,,,,0,0,0
+1126725,2018,New Zealand,0,SW Bates,89bbc67a,A Shrubsole,32497ecd,SFM Devine,de69af96,0,0,0,0,0,,,,,,0,0,0
+1126725,2018,New Zealand,0,SW Bates,89bbc67a,A Shrubsole,32497ecd,SFM Devine,de69af96,0,0,0,0,1,SW Bates,89bbc67a,AE Jones,b05e45e4,caught,0,0,0
+1126725,2018,New Zealand,0,SFM Devine,de69af96,A Shrubsole,32497ecd,KJ Martin,cf75a839,0,0,0,0,0,,,,,,1,0,1
+1126725,2018,New Zealand,1,SFM Devine,de69af96,KL George,e69dbbef,KJ Martin,cf75a839,0,0,0,0,0,,,,,,0,0,0
+1126725,2018,New Zealand,1,SFM Devine,de69af96,KL George,e69dbbef,KJ Martin,cf75a839,0,0,0,0,0,,,,,,0,0,0
+1126725,2018,New Zealand,1,SFM Devine,de69af96,KL George,e69dbbef,KJ Martin,cf75a839,0,0,0,0,0,,,,,,1,0,1
+1126725,2018,New Zealand,1,KJ Martin,cf75a839,KL George,e69dbbef,SFM Devine,de69af96,0,0,0,0,0,,,,,,0,0,0
+1126725,2018,New Zealand,1,KJ Martin,cf75a839,KL George,e69dbbef,SFM Devine,de69af96,0,0,0,0,0,,,,,,1,0,1
+1126725,2018,New Zealand,1,SFM Devine,de69af96,KL George,e69dbbef,KJ Martin,cf75a839,0,0,0,0,0,,,,,,0,0,0
+1126725,2018,New Zealand,2,KJ Martin,cf75a839,KH Brunt,6a434bd3,SFM Devine,de69af96,0,0,0,0,0,,,,,,2,0,2
+1126725,2018,New Zealand,2,KJ Martin,cf75a839,KH Brunt,6a434bd3,SFM Devine,de69af96,0,0,0,0,0,,,,,,0,0,0
+1126725,2018,New Zealand,2,KJ Martin,cf75a839,KH Brunt,6a434bd3,SFM Devine,de69af96,0,0,0,0,0,,,,,,1,0,1
+1126725,2018,New Zealand,2,SFM Devine,de69af96,KH Brunt,6a434bd3,KJ Martin,cf75a839,0,0,0,0,0,,,,,,4,0,4
+1126725,2018,New Zealand,2,SFM Devine,de69af96,KH Brunt,6a434bd3,KJ Martin,cf75a839,0,0,0,0,0,,,,,,0,0,0
+1126725,2018,New Zealand,2,SFM Devine,de69af96,KH Brunt,6a434bd3,KJ Martin,cf75a839,0,0,0,0,0,,,,,,1,0,1
+1126725,2018,New Zealand,3,SFM Devine,de69af96,KL George,e69dbbef,KJ Martin,cf75a839,0,0,0,0,0,,,,,,0,0,0
+1126725,2018,New Zealand,3,SFM Devine,de69af96,KL George,e69dbbef,KJ Martin,cf75a839,0,0,0,0,0,,,,,,0,0,0
+1126725,2018,New Zealand,3,SFM Devine,de69af96,KL George,e69dbbef,KJ Martin,cf75a839,0,0,0,0,0,,,,,,1,0,1
+1126725,2018,New Zealand,3,KJ Martin,cf75a839,KL George,e69dbbef,SFM Devine,de69af96,0,0,0,0,0,,,,,,0,0,0
+1126725,2018,New Zealand,3,KJ Martin,cf75a839,KL George,e69dbbef,SFM Devine,de69af96,0,0,0,0,0,,,,,,4,0,4
+1126725,2018,New Zealand,3,KJ Martin,cf75a839,KL George,e69dbbef,SFM Devine,de69af96,0,0,0,0,0,,,,,,0,0,0
+1126725,2018,New Zealand,4,SFM Devine,de69af96,A Shrubsole,32497ecd,KJ Martin,cf75a839,0,0,0,0,0,,,,,,4,0,4
+1126725,2018,New Zealand,4,SFM Devine,de69af96,A Shrubsole,32497ecd,KJ Martin,cf75a839,0,0,0,0,0,,,,,,0,0,0
+1126725,2018,New Zealand,4,SFM Devine,de69af96,A Shrubsole,32497ecd,KJ Martin,cf75a839,0,0,0,0,0,,,,,,4,0,4
+1126725,2018,New Zealand,4,SFM Devine,de69af96,A Shrubsole,32497ecd,KJ Martin,cf75a839,0,0,0,0,0,,,,,,0,0,0
+1126725,2018,New Zealand,4,SFM Devine,de69af96,A Shrubsole,32497ecd,KJ Martin,cf75a839,0,0,0,0,0,,,,,,1,0,1
+1126725,2018,New Zealand,4,KJ Martin,cf75a839,A Shrubsole,32497ecd,SFM Devine,de69af96,0,0,0,0,0,,,,,,0,0,0
+1126725,2018,New Zealand,5,SFM Devine,de69af96,S Ecclestone,cdb82f1c,KJ Martin,cf75a839,0,0,0,0,0,,,,,,1,0,1
+1126725,2018,New Zealand,5,KJ Martin,cf75a839,S Ecclestone,cdb82f1c,SFM Devine,de69af96,0,0,0,0,1,KJ Martin,cf75a839,,,lbw,0,0,0
+1126725,2018,New Zealand,5,AE Satterthwaite,72b7ed1e,S Ecclestone,cdb82f1c,SFM Devine,de69af96,0,0,0,0,0,,,,,,0,0,0
+1126725,2018,New Zealand,5,AE Satterthwaite,72b7ed1e,S Ecclestone,cdb82f1c,SFM Devine,de69af96,0,0,0,0,0,,,,,,4,0,4
+1126725,2018,New Zealand,5,AE Satterthwaite,72b7ed1e,S Ecclestone,cdb82f1c,SFM Devine,de69af96,0,0,0,0,0,,,,,,0,0,0
+1126725,2018,New Zealand,5,AE Satterthwaite,72b7ed1e,S Ecclestone,cdb82f1c,SFM Devine,de69af96,0,0,0,0,0,,,,,,1,0,1
+1126725,2018,New Zealand,6,AE Satterthwaite,72b7ed1e,D Hazell,ea8b65ab,SFM Devine,de69af96,0,0,0,0,0,,,,,,1,0,1
+1126725,2018,New Zealand,6,SFM Devine,de69af96,D Hazell,ea8b65ab,AE Satterthwaite,72b7ed1e,0,0,0,0,0,,,,,,0,0,0
+1126725,2018,New Zealand,6,SFM Devine,de69af96,D Hazell,ea8b65ab,AE Satterthwaite,72b7ed1e,0,0,0,0,0,,,,,,1,0,1
+1126725,2018,New Zealand,6,AE Satterthwaite,72b7ed1e,D Hazell,ea8b65ab,SFM Devine,de69af96,0,0,0,0,0,,,,,,0,0,0
+1126725,2018,New Zealand,6,AE Satterthwaite,72b7ed1e,D Hazell,ea8b65ab,SFM Devine,de69af96,0,0,0,0,0,,,,,,1,0,1
+1126725,2018,New Zealand,6,SFM Devine,de69af96,D Hazell,ea8b65ab,AE Satterthwaite,72b7ed1e,0,0,0,0,0,,,,,,1,0,1
+1126725,2018,New Zealand,7,SFM Devine,de69af96,HC Knight,4ba0289e,AE Satterthwaite,72b7ed1e,0,0,0,0,0,,,,,,0,0,0
+1126725,2018,New Zealand,7,SFM Devine,de69af96,HC Knight,4ba0289e,AE Satterthwaite,72b7ed1e,0,0,0,0,0,,,,,,1,0,1
+1126725,2018,New Zealand,7,AE Satterthwaite,72b7ed1e,HC Knight,4ba0289e,SFM Devine,de69af96,0,0,0,0,0,,,,,,0,0,0
+1126725,2018,New Zealand,7,AE Satterthwaite,72b7ed1e,HC Knight,4ba0289e,SFM Devine,de69af96,0,0,0,0,0,,,,,,2,0,2
+1126725,2018,New Zealand,7,AE Satterthwaite,72b7ed1e,HC Knight,4ba0289e,SFM Devine,de69af96,0,0,0,0,0,,,,,,4,0,4
+1126725,2018,New Zealand,7,AE Satterthwaite,72b7ed1e,HC Knight,4ba0289e,SFM Devine,de69af96,0,0,0,0,0,,,,,,4,0,4
+1126725,2018,New Zealand,8,SFM Devine,de69af96,D Hazell,ea8b65ab,AE Satterthwaite,72b7ed1e,0,0,0,0,0,,,,,,1,0,1
+1126725,2018,New Zealand,8,AE Satterthwaite,72b7ed1e,D Hazell,ea8b65ab,SFM Devine,de69af96,0,0,0,0,0,,,,,,2,0,2
+1126725,2018,New Zealand,8,AE Satterthwaite,72b7ed1e,D Hazell,ea8b65ab,SFM Devine,de69af96,0,0,0,0,0,,,,,,0,0,0
+1126725,2018,New Zealand,8,AE Satterthwaite,72b7ed1e,D Hazell,ea8b65ab,SFM Devine,de69af96,0,0,0,0,0,,,,,,0,0,0
+1126725,2018,New Zealand,8,AE Satterthwaite,72b7ed1e,D Hazell,ea8b65ab,SFM Devine,de69af96,0,0,0,0,0,,,,,,1,0,1
+1126725,2018,New Zealand,8,SFM Devine,de69af96,D Hazell,ea8b65ab,AE Satterthwaite,72b7ed1e,0,0,0,0,0,,,,,,2,0,2
+1126725,2018,New Zealand,9,AE Satterthwaite,72b7ed1e,KH Brunt,6a434bd3,SFM Devine,de69af96,0,0,0,0,0,,,,,,2,0,2
+1126725,2018,New Zealand,9,AE Satterthwaite,72b7ed1e,KH Brunt,6a434bd3,SFM Devine,de69af96,0,0,0,0,0,,,,,,4,0,4
+1126725,2018,New Zealand,9,AE Satterthwaite,72b7ed1e,KH Brunt,6a434bd3,SFM Devine,de69af96,0,0,0,0,0,,,,,,2,0,2
+1126725,2018,New Zealand,9,AE Satterthwaite,72b7ed1e,KH Brunt,6a434bd3,SFM Devine,de69af96,0,0,0,0,0,,,,,,1,0,1
+1126725,2018,New Zealand,9,SFM Devine,de69af96,KH Brunt,6a434bd3,AE Satterthwaite,72b7ed1e,0,0,1,0,0,,,,,,0,1,1
+1126725,2018,New Zealand,9,AE Satterthwaite,72b7ed1e,KH Brunt,6a434bd3,SFM Devine,de69af96,0,0,0,0,0,,,,,,1,0,1
+1126725,2018,New Zealand,10,AE Satterthwaite,72b7ed1e,D Hazell,ea8b65ab,SFM Devine,de69af96,0,0,0,0,0,,,,,,1,0,1
+1126725,2018,New Zealand,10,SFM Devine,de69af96,D Hazell,ea8b65ab,AE Satterthwaite,72b7ed1e,0,0,0,0,0,,,,,,4,0,4
+1126725,2018,New Zealand,10,SFM Devine,de69af96,D Hazell,ea8b65ab,AE Satterthwaite,72b7ed1e,0,0,0,0,0,,,,,,1,0,1
+1126725,2018,New Zealand,10,AE Satterthwaite,72b7ed1e,D Hazell,ea8b65ab,SFM Devine,de69af96,0,0,0,0,0,,,,,,0,0,0
+1126725,2018,New Zealand,10,AE Satterthwaite,72b7ed1e,D Hazell,ea8b65ab,SFM Devine,de69af96,0,0,0,0,0,,,,,,1,0,1
+1126725,2018,New Zealand,10,SFM Devine,de69af96,D Hazell,ea8b65ab,AE Satterthwaite,72b7ed1e,0,0,0,0,0,,,,,,0,0,0
+1126725,2018,New Zealand,11,AE Satterthwaite,72b7ed1e,KL George,e69dbbef,SFM Devine,de69af96,1,0,0,0,0,,,,,,0,1,1
+1126725,2018,New Zealand,11,AE Satterthwaite,72b7ed1e,KL George,e69dbbef,SFM Devine,de69af96,0,0,0,0,0,,,,,,4,0,4
+1126725,2018,New Zealand,11,AE Satterthwaite,72b7ed1e,KL George,e69dbbef,SFM Devine,de69af96,0,0,0,0,0,,,,,,1,0,1
+1126725,2018,New Zealand,11,SFM Devine,de69af96,KL George,e69dbbef,AE Satterthwaite,72b7ed1e,0,0,0,0,0,,,,,,4,0,4
+1126725,2018,New Zealand,11,SFM Devine,de69af96,KL George,e69dbbef,AE Satterthwaite,72b7ed1e,0,0,0,0,0,,,,,,4,0,4
+1126725,2018,New Zealand,11,SFM Devine,de69af96,KL George,e69dbbef,AE Satterthwaite,72b7ed1e,0,0,0,0,0,,,,,,1,0,1
+1126725,2018,New Zealand,11,AE Satterthwaite,72b7ed1e,KL George,e69dbbef,SFM Devine,de69af96,0,0,0,0,1,AE Satterthwaite,72b7ed1e,,,lbw,0,0,0
+1126725,2018,New Zealand,12,SFM Devine,de69af96,A Shrubsole,32497ecd,ML Green,865eae1f,0,0,0,0,0,,,,,,1,0,1
+1126725,2018,New Zealand,12,ML Green,865eae1f,A Shrubsole,32497ecd,SFM Devine,de69af96,0,0,0,0,0,,,,,,1,0,1
+1126725,2018,New Zealand,12,SFM Devine,de69af96,A Shrubsole,32497ecd,ML Green,865eae1f,0,0,0,0,0,,,,,,1,0,1
+1126725,2018,New Zealand,12,ML Green,865eae1f,A Shrubsole,32497ecd,SFM Devine,de69af96,0,0,0,0,0,,,,,,1,0,1
+1126725,2018,New Zealand,12,SFM Devine,de69af96,A Shrubsole,32497ecd,ML Green,865eae1f,0,0,0,0,0,,,,,,1,0,1
+1126725,2018,New Zealand,12,ML Green,865eae1f,A Shrubsole,32497ecd,SFM Devine,de69af96,0,0,0,0,1,ML Green,865eae1f,AE Jones,b05e45e4,caught,0,0,0
+1126725,2018,New Zealand,13,JM Watkin,7239a365,S Ecclestone,cdb82f1c,SFM Devine,de69af96,0,0,0,0,0,,,,,,0,0,0
+1126725,2018,New Zealand,13,JM Watkin,7239a365,S Ecclestone,cdb82f1c,SFM Devine,de69af96,0,0,0,0,0,,,,,,0,0,0
+1126725,2018,New Zealand,13,JM Watkin,7239a365,S Ecclestone,cdb82f1c,SFM Devine,de69af96,0,0,0,0,0,,,,,,4,0,4
+1126725,2018,New Zealand,13,JM Watkin,7239a365,S Ecclestone,cdb82f1c,SFM Devine,de69af96,0,0,0,0,0,,,,,,4,0,4
+1126725,2018,New Zealand,13,JM Watkin,7239a365,S Ecclestone,cdb82f1c,SFM Devine,de69af96,0,0,0,0,0,,,,,,4,0,4
+1126725,2018,New Zealand,13,JM Watkin,7239a365,S Ecclestone,cdb82f1c,SFM Devine,de69af96,0,0,0,0,0,,,,,,0,0,0
+1126725,2018,New Zealand,14,SFM Devine,de69af96,NR Sciver,f3a18a0c,JM Watkin,7239a365,0,0,0,0,0,,,,,,1,0,1
+1126725,2018,New Zealand,14,JM Watkin,7239a365,NR Sciver,f3a18a0c,SFM Devine,de69af96,0,0,0,0,0,,,,,,2,0,2
+1126725,2018,New Zealand,14,JM Watkin,7239a365,NR Sciver,f3a18a0c,SFM Devine,de69af96,0,0,0,0,0,,,,,,2,0,2
+1126725,2018,New Zealand,14,JM Watkin,7239a365,NR Sciver,f3a18a0c,SFM Devine,de69af96,1,0,0,0,1,JM Watkin,7239a365,SJ Taylor,e6f36f83,stumped,0,1,1
+1126725,2018,New Zealand,14,AC Kerr,7673c908,NR Sciver,f3a18a0c,SFM Devine,de69af96,0,0,0,0,0,,,,,,0,0,0
+1126725,2018,New Zealand,14,AC Kerr,7673c908,NR Sciver,f3a18a0c,SFM Devine,de69af96,0,0,0,0,0,,,,,,1,0,1
+1126725,2018,New Zealand,14,SFM Devine,de69af96,NR Sciver,f3a18a0c,AC Kerr,7673c908,0,0,0,0,0,,,,,,4,0,4
+1126725,2018,New Zealand,15,AC Kerr,7673c908,D Hazell,ea8b65ab,SFM Devine,de69af96,0,0,0,0,0,,,,,,4,0,4
+1126725,2018,New Zealand,15,AC Kerr,7673c908,D Hazell,ea8b65ab,SFM Devine,de69af96,0,0,0,0,0,,,,,,0,0,0
+1126725,2018,New Zealand,15,AC Kerr,7673c908,D Hazell,ea8b65ab,SFM Devine,de69af96,0,0,0,0,1,AC Kerr,7673c908,,,lbw,0,0,0
+1126725,2018,New Zealand,15,HM Rowe,8ca1f93a,D Hazell,ea8b65ab,SFM Devine,de69af96,0,0,0,0,0,,,,,,0,0,0
+1126725,2018,New Zealand,15,HM Rowe,8ca1f93a,D Hazell,ea8b65ab,SFM Devine,de69af96,0,0,0,0,0,,,,,,0,0,0
+1126725,2018,New Zealand,15,HM Rowe,8ca1f93a,D Hazell,ea8b65ab,SFM Devine,de69af96,0,0,0,0,1,HM Rowe,8ca1f93a,,,lbw,0,0,0
+1126725,2018,New Zealand,16,SFM Devine,de69af96,S Ecclestone,cdb82f1c,B Bezuidenhout,564afdcf,0,0,0,0,0,,,,,,1,0,1
+1126725,2018,New Zealand,16,B Bezuidenhout,564afdcf,S Ecclestone,cdb82f1c,SFM Devine,de69af96,0,0,0,0,0,,,,,,1,0,1
+1126725,2018,New Zealand,16,SFM Devine,de69af96,S Ecclestone,cdb82f1c,B Bezuidenhout,564afdcf,0,0,0,0,0,,,,,,1,0,1
+1126725,2018,New Zealand,16,B Bezuidenhout,564afdcf,S Ecclestone,cdb82f1c,SFM Devine,de69af96,0,0,0,0,0,,,,,,4,0,4
+1126725,2018,New Zealand,16,B Bezuidenhout,564afdcf,S Ecclestone,cdb82f1c,SFM Devine,de69af96,0,0,0,0,0,,,,,,1,0,1
+1126725,2018,New Zealand,16,SFM Devine,de69af96,S Ecclestone,cdb82f1c,B Bezuidenhout,564afdcf,0,0,0,0,0,,,,,,1,0,1
+1126725,2018,New Zealand,17,SFM Devine,de69af96,KH Brunt,6a434bd3,B Bezuidenhout,564afdcf,0,0,0,0,1,B Bezuidenhout,564afdcf,,,run out,1,0,1
+1126725,2018,New Zealand,17,SFM Devine,de69af96,KH Brunt,6a434bd3,KE Ebrahim,7c0055c1,0,0,0,0,0,,,,,,0,0,0
+1126725,2018,New Zealand,17,SFM Devine,de69af96,KH Brunt,6a434bd3,KE Ebrahim,7c0055c1,0,0,0,0,0,,,,,,1,0,1
+1126725,2018,New Zealand,17,KE Ebrahim,7c0055c1,KH Brunt,6a434bd3,SFM Devine,de69af96,0,0,0,0,0,,,,,,0,0,0
+1126725,2018,New Zealand,17,KE Ebrahim,7c0055c1,KH Brunt,6a434bd3,SFM Devine,de69af96,0,0,0,0,1,KE Ebrahim,7c0055c1,,,bowled,0,0,0
+1126725,2018,New Zealand,17,HNK Jensen,b8cce99f,KH Brunt,6a434bd3,SFM Devine,de69af96,0,0,0,0,0,,,,,,0,0,0
+1126725,2018,New Zealand,18,SFM Devine,de69af96,A Shrubsole,32497ecd,HNK Jensen,b8cce99f,0,0,0,0,1,SFM Devine,de69af96,NR Sciver,f3a18a0c,caught,0,0,0
+1126725,2018,England,0,DN Wyatt,a139c379,HM Rowe,8ca1f93a,TT Beaumont,b2664905,0,0,0,0,0,,,,,,1,0,1
+1126725,2018,England,0,TT Beaumont,b2664905,HM Rowe,8ca1f93a,DN Wyatt,a139c379,0,0,0,0,0,,,,,,0,0,0
+1126725,2018,England,0,TT Beaumont,b2664905,HM Rowe,8ca1f93a,DN Wyatt,a139c379,0,0,0,0,0,,,,,,0,0,0
+1126725,2018,England,0,TT Beaumont,b2664905,HM Rowe,8ca1f93a,DN Wyatt,a139c379,0,0,0,0,0,,,,,,1,0,1
+1126725,2018,England,0,DN Wyatt,a139c379,HM Rowe,8ca1f93a,TT Beaumont,b2664905,0,0,0,0,0,,,,,,1,0,1
+1126725,2018,England,0,TT Beaumont,b2664905,HM Rowe,8ca1f93a,DN Wyatt,a139c379,1,0,0,0,0,,,,,,0,1,1
+1126725,2018,England,0,TT Beaumont,b2664905,HM Rowe,8ca1f93a,DN Wyatt,a139c379,1,0,0,0,0,,,,,,0,1,1
+1126725,2018,England,0,TT Beaumont,b2664905,HM Rowe,8ca1f93a,DN Wyatt,a139c379,0,0,0,0,0,,,,,,0,0,0
+1126725,2018,England,1,DN Wyatt,a139c379,JM Watkin,7239a365,TT Beaumont,b2664905,0,0,0,0,1,DN Wyatt,a139c379,SW Bates,89bbc67a,caught,0,0,0
+1126725,2018,England,1,SJ Taylor,e6f36f83,JM Watkin,7239a365,TT Beaumont,b2664905,0,0,0,0,0,,,,,,1,0,1
+1126725,2018,England,1,TT Beaumont,b2664905,JM Watkin,7239a365,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,1,0,1
+1126725,2018,England,1,SJ Taylor,e6f36f83,JM Watkin,7239a365,TT Beaumont,b2664905,0,0,0,0,0,,,,,,1,0,1
+1126725,2018,England,1,TT Beaumont,b2664905,JM Watkin,7239a365,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,4,0,4
+1126725,2018,England,1,TT Beaumont,b2664905,JM Watkin,7239a365,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,0,0,0
+1126725,2018,England,2,SJ Taylor,e6f36f83,HNK Jensen,b8cce99f,TT Beaumont,b2664905,0,0,0,0,0,,,,,,4,0,4
+1126725,2018,England,2,SJ Taylor,e6f36f83,HNK Jensen,b8cce99f,TT Beaumont,b2664905,0,0,0,0,0,,,,,,0,0,0
+1126725,2018,England,2,SJ Taylor,e6f36f83,HNK Jensen,b8cce99f,TT Beaumont,b2664905,0,0,0,0,0,,,,,,1,0,1
+1126725,2018,England,2,TT Beaumont,b2664905,HNK Jensen,b8cce99f,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,0,0,0
+1126725,2018,England,2,TT Beaumont,b2664905,HNK Jensen,b8cce99f,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,4,0,4
+1126725,2018,England,2,TT Beaumont,b2664905,HNK Jensen,b8cce99f,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,1,0,1
+1126725,2018,England,3,TT Beaumont,b2664905,JM Watkin,7239a365,SJ Taylor,e6f36f83,0,0,0,0,1,TT Beaumont,b2664905,SW Bates,89bbc67a,caught,0,0,0
+1126725,2018,England,3,SJ Taylor,e6f36f83,JM Watkin,7239a365,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,2,0,2
+1126725,2018,England,3,SJ Taylor,e6f36f83,JM Watkin,7239a365,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,1,0,1
+1126725,2018,England,3,NR Sciver,f3a18a0c,JM Watkin,7239a365,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,1,0,1
+1126725,2018,England,3,SJ Taylor,e6f36f83,JM Watkin,7239a365,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,0,0,0
+1126725,2018,England,3,SJ Taylor,e6f36f83,JM Watkin,7239a365,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,1,0,1
+1126725,2018,England,4,SJ Taylor,e6f36f83,SW Bates,89bbc67a,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,1,0,1
+1126725,2018,England,4,NR Sciver,f3a18a0c,SW Bates,89bbc67a,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,1,0,1
+1126725,2018,England,4,SJ Taylor,e6f36f83,SW Bates,89bbc67a,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,0,0,0
+1126725,2018,England,4,SJ Taylor,e6f36f83,SW Bates,89bbc67a,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,2,0,2
+1126725,2018,England,4,SJ Taylor,e6f36f83,SW Bates,89bbc67a,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,4,0,4
+1126725,2018,England,4,SJ Taylor,e6f36f83,SW Bates,89bbc67a,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,0,0,0
+1126725,2018,England,5,NR Sciver,f3a18a0c,JM Watkin,7239a365,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,0,0,0
+1126725,2018,England,5,NR Sciver,f3a18a0c,JM Watkin,7239a365,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,1,0,1
+1126725,2018,England,5,SJ Taylor,e6f36f83,JM Watkin,7239a365,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,1,0,1
+1126725,2018,England,5,NR Sciver,f3a18a0c,JM Watkin,7239a365,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,4,0,4
+1126725,2018,England,5,NR Sciver,f3a18a0c,JM Watkin,7239a365,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,1,0,1
+1126725,2018,England,5,SJ Taylor,e6f36f83,JM Watkin,7239a365,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,1,0,1
+1126725,2018,England,6,SJ Taylor,e6f36f83,HNK Jensen,b8cce99f,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,1,0,1
+1126725,2018,England,6,NR Sciver,f3a18a0c,HNK Jensen,b8cce99f,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,1,0,1
+1126725,2018,England,6,SJ Taylor,e6f36f83,HNK Jensen,b8cce99f,NR Sciver,f3a18a0c,0,0,0,1,0,,,,,,0,1,1
+1126725,2018,England,6,NR Sciver,f3a18a0c,HNK Jensen,b8cce99f,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,4,0,4
+1126725,2018,England,6,NR Sciver,f3a18a0c,HNK Jensen,b8cce99f,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,4,0,4
+1126725,2018,England,6,NR Sciver,f3a18a0c,HNK Jensen,b8cce99f,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,0,0,0
+1126725,2018,England,7,SJ Taylor,e6f36f83,AC Kerr,7673c908,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,1,0,1
+1126725,2018,England,7,NR Sciver,f3a18a0c,AC Kerr,7673c908,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,1,0,1
+1126725,2018,England,7,SJ Taylor,e6f36f83,AC Kerr,7673c908,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,1,0,1
+1126725,2018,England,7,NR Sciver,f3a18a0c,AC Kerr,7673c908,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,2,0,2
+1126725,2018,England,7,NR Sciver,f3a18a0c,AC Kerr,7673c908,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,2,0,2
+1126725,2018,England,7,NR Sciver,f3a18a0c,AC Kerr,7673c908,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,1,0,1
+1126725,2018,England,8,NR Sciver,f3a18a0c,HM Rowe,8ca1f93a,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,1,0,1
+1126725,2018,England,8,SJ Taylor,e6f36f83,HM Rowe,8ca1f93a,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,2,0,2
+1126725,2018,England,8,SJ Taylor,e6f36f83,HM Rowe,8ca1f93a,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,4,0,4
+1126725,2018,England,8,SJ Taylor,e6f36f83,HM Rowe,8ca1f93a,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,1,0,1
+1126725,2018,England,8,NR Sciver,f3a18a0c,HM Rowe,8ca1f93a,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,0,0,0
+1126725,2018,England,8,NR Sciver,f3a18a0c,HM Rowe,8ca1f93a,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,4,0,4
+1126725,2018,England,9,SJ Taylor,e6f36f83,JM Watkin,7239a365,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,0,0,0
+1126725,2018,England,9,SJ Taylor,e6f36f83,JM Watkin,7239a365,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,1,0,1
+1126725,2018,England,9,NR Sciver,f3a18a0c,JM Watkin,7239a365,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,0,0,0
+1126725,2018,England,9,NR Sciver,f3a18a0c,JM Watkin,7239a365,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,1,0,1
+1126725,2018,England,9,SJ Taylor,e6f36f83,JM Watkin,7239a365,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,4,0,4
+1126725,2018,England,9,SJ Taylor,e6f36f83,JM Watkin,7239a365,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,1,0,1
+1126725,2018,England,10,SJ Taylor,e6f36f83,AC Kerr,7673c908,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,4,0,4
+1126725,2018,England,10,SJ Taylor,e6f36f83,AC Kerr,7673c908,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,0,0,0
+1126725,2018,England,10,SJ Taylor,e6f36f83,AC Kerr,7673c908,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,1,0,1
+1126725,2018,England,10,NR Sciver,f3a18a0c,AC Kerr,7673c908,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,0,0,0
+1126725,2018,England,10,NR Sciver,f3a18a0c,AC Kerr,7673c908,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,0,0,0
+1126725,2018,England,10,NR Sciver,f3a18a0c,AC Kerr,7673c908,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,4,0,4
+1126725,2018,England,11,SJ Taylor,e6f36f83,KE Ebrahim,7c0055c1,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,4,0,4
+1126725,2018,England,11,SJ Taylor,e6f36f83,KE Ebrahim,7c0055c1,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,0,0,0
+1126725,2018,England,11,SJ Taylor,e6f36f83,KE Ebrahim,7c0055c1,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,4,0,4
+1126725,2018,England,11,SJ Taylor,e6f36f83,KE Ebrahim,7c0055c1,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,0,0,0
+1126725,2018,England,11,SJ Taylor,e6f36f83,KE Ebrahim,7c0055c1,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,1,0,1
+1126725,2018,England,11,NR Sciver,f3a18a0c,KE Ebrahim,7c0055c1,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,1,0,1
+1126725,2018,England,12,NR Sciver,f3a18a0c,AC Kerr,7673c908,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,1,0,1
+1126725,2018,England,12,SJ Taylor,e6f36f83,AC Kerr,7673c908,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,1,0,1
+1126725,2018,England,12,NR Sciver,f3a18a0c,AC Kerr,7673c908,SJ Taylor,e6f36f83,0,0,0,0,0,,,,,,1,0,1
+1126725,2018,England,12,SJ Taylor,e6f36f83,AC Kerr,7673c908,NR Sciver,f3a18a0c,0,0,0,0,1,SJ Taylor,e6f36f83,KJ Martin,cf75a839,stumped,0,0,0
+1126725,2018,England,12,HC Knight,4ba0289e,AC Kerr,7673c908,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,1,0,1
+1126725,2018,England,12,NR Sciver,f3a18a0c,AC Kerr,7673c908,HC Knight,4ba0289e,0,0,0,0,0,,,,,,0,0,0
+1126725,2018,England,13,HC Knight,4ba0289e,SW Bates,89bbc67a,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,0,0,0
+1126725,2018,England,13,HC Knight,4ba0289e,SW Bates,89bbc67a,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,0,0,0
+1126725,2018,England,13,HC Knight,4ba0289e,SW Bates,89bbc67a,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,4,0,4
+1126725,2018,England,13,HC Knight,4ba0289e,SW Bates,89bbc67a,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,4,0,4
+1126725,2018,England,13,HC Knight,4ba0289e,SW Bates,89bbc67a,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,0,0,0
+1126725,2018,England,13,HC Knight,4ba0289e,SW Bates,89bbc67a,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,0,0,0
+1126725,2018,England,14,NR Sciver,f3a18a0c,AC Kerr,7673c908,HC Knight,4ba0289e,0,0,0,0,0,,,,,,1,0,1
+1126725,2018,England,14,HC Knight,4ba0289e,AC Kerr,7673c908,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,1,0,1
+1126725,2018,England,14,NR Sciver,f3a18a0c,AC Kerr,7673c908,HC Knight,4ba0289e,0,0,0,0,0,,,,,,0,0,0
+1126725,2018,England,14,NR Sciver,f3a18a0c,AC Kerr,7673c908,HC Knight,4ba0289e,0,0,0,0,0,,,,,,1,0,1
+1126725,2018,England,14,HC Knight,4ba0289e,AC Kerr,7673c908,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,1,0,1
+1126725,2018,England,14,NR Sciver,f3a18a0c,AC Kerr,7673c908,HC Knight,4ba0289e,0,0,0,0,0,,,,,,0,0,0
+1126725,2018,England,15,HC Knight,4ba0289e,HNK Jensen,b8cce99f,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,4,0,4
+1126725,2018,England,15,HC Knight,4ba0289e,HNK Jensen,b8cce99f,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,4,0,4
+1126725,2018,England,15,HC Knight,4ba0289e,HNK Jensen,b8cce99f,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,4,0,4
+1126725,2018,England,15,HC Knight,4ba0289e,HNK Jensen,b8cce99f,NR Sciver,f3a18a0c,0,0,0,0,0,,,,,,1,0,1
+1126725,2018,England,15,NR Sciver,f3a18a0c,HNK Jensen,b8cce99f,HC Knight,4ba0289e,0,0,0,0,0,,,,,,1,0,1

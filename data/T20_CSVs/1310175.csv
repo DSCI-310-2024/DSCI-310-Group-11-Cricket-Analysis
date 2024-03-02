@@ -1,0 +1,272 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1310175,2022,Hungary,0,Khaibar Deldar,032c7eab,H Lakov,87a6f411,Abhijeet Ahuja,b91083bd,1,0,0,0,0,,,,,,0,1,1
+1310175,2022,Hungary,0,Khaibar Deldar,032c7eab,H Lakov,87a6f411,Abhijeet Ahuja,b91083bd,0,0,0,0,0,,,,,,0,0,0
+1310175,2022,Hungary,0,Khaibar Deldar,032c7eab,H Lakov,87a6f411,Abhijeet Ahuja,b91083bd,0,0,0,0,0,,,,,,0,0,0
+1310175,2022,Hungary,0,Khaibar Deldar,032c7eab,H Lakov,87a6f411,Abhijeet Ahuja,b91083bd,0,0,1,0,0,,,,,,0,1,1
+1310175,2022,Hungary,0,Abhijeet Ahuja,b91083bd,H Lakov,87a6f411,Khaibar Deldar,032c7eab,0,0,0,0,0,,,,,,1,0,1
+1310175,2022,Hungary,0,Khaibar Deldar,032c7eab,H Lakov,87a6f411,Abhijeet Ahuja,b91083bd,0,0,0,0,0,,,,,,1,0,1
+1310175,2022,Hungary,0,Abhijeet Ahuja,b91083bd,H Lakov,87a6f411,Khaibar Deldar,032c7eab,1,0,0,0,0,,,,,,0,1,1
+1310175,2022,Hungary,0,Abhijeet Ahuja,b91083bd,H Lakov,87a6f411,Khaibar Deldar,032c7eab,0,0,0,0,0,,,,,,2,0,2
+1310175,2022,Hungary,1,Khaibar Deldar,032c7eab,Asad Ali Rehemtulla,c122fe73,Abhijeet Ahuja,b91083bd,0,0,0,0,0,,,,,,0,0,0
+1310175,2022,Hungary,1,Khaibar Deldar,032c7eab,Asad Ali Rehemtulla,c122fe73,Abhijeet Ahuja,b91083bd,0,0,0,0,0,,,,,,4,0,4
+1310175,2022,Hungary,1,Khaibar Deldar,032c7eab,Asad Ali Rehemtulla,c122fe73,Abhijeet Ahuja,b91083bd,0,0,0,0,0,,,,,,4,0,4
+1310175,2022,Hungary,1,Khaibar Deldar,032c7eab,Asad Ali Rehemtulla,c122fe73,Abhijeet Ahuja,b91083bd,0,0,0,0,0,,,,,,1,0,1
+1310175,2022,Hungary,1,Abhijeet Ahuja,b91083bd,Asad Ali Rehemtulla,c122fe73,Khaibar Deldar,032c7eab,0,0,0,0,0,,,,,,1,0,1
+1310175,2022,Hungary,1,Khaibar Deldar,032c7eab,Asad Ali Rehemtulla,c122fe73,Abhijeet Ahuja,b91083bd,0,0,0,0,0,,,,,,6,0,6
+1310175,2022,Hungary,2,Abhijeet Ahuja,b91083bd,H Lakov,87a6f411,Khaibar Deldar,032c7eab,0,0,0,0,0,,,,,,0,0,0
+1310175,2022,Hungary,2,Abhijeet Ahuja,b91083bd,H Lakov,87a6f411,Khaibar Deldar,032c7eab,0,0,0,0,0,,,,,,1,0,1
+1310175,2022,Hungary,2,Khaibar Deldar,032c7eab,H Lakov,87a6f411,Abhijeet Ahuja,b91083bd,0,0,0,0,0,,,,,,1,0,1
+1310175,2022,Hungary,2,Abhijeet Ahuja,b91083bd,H Lakov,87a6f411,Khaibar Deldar,032c7eab,0,0,0,0,0,,,,,,1,0,1
+1310175,2022,Hungary,2,Khaibar Deldar,032c7eab,H Lakov,87a6f411,Abhijeet Ahuja,b91083bd,1,0,0,0,0,,,,,,0,1,1
+1310175,2022,Hungary,2,Khaibar Deldar,032c7eab,H Lakov,87a6f411,Abhijeet Ahuja,b91083bd,0,0,0,0,1,Khaibar Deldar,032c7eab,,,bowled,0,0,0
+1310175,2022,Hungary,2,Zahir Mohammed,7c38942a,H Lakov,87a6f411,Abhijeet Ahuja,b91083bd,0,0,0,0,0,,,,,,0,0,0
+1310175,2022,Hungary,3,Abhijeet Ahuja,b91083bd,Ahsan Khan,4c72b407,Zahir Mohammed,7c38942a,0,0,0,0,0,,,,,,0,0,0
+1310175,2022,Hungary,3,Abhijeet Ahuja,b91083bd,Ahsan Khan,4c72b407,Zahir Mohammed,7c38942a,0,0,0,0,0,,,,,,2,0,2
+1310175,2022,Hungary,3,Abhijeet Ahuja,b91083bd,Ahsan Khan,4c72b407,Zahir Mohammed,7c38942a,0,0,0,0,1,Abhijeet Ahuja,b91083bd,J Albin,a4a53adf,run out,0,0,0
+1310175,2022,Hungary,3,Zahir Mohammed,7c38942a,Ahsan Khan,4c72b407,Abhishek Ahuja,65cf74b4,0,0,0,0,0,,,,,,0,0,0
+1310175,2022,Hungary,3,Zahir Mohammed,7c38942a,Ahsan Khan,4c72b407,Abhishek Ahuja,65cf74b4,0,0,0,0,0,,,,,,0,0,0
+1310175,2022,Hungary,3,Zahir Mohammed,7c38942a,Ahsan Khan,4c72b407,Abhishek Ahuja,65cf74b4,0,0,0,0,0,,,,,,0,0,0
+1310175,2022,Hungary,4,Abhishek Ahuja,65cf74b4,H Lakov,87a6f411,Zahir Mohammed,7c38942a,0,0,0,0,0,,,,,,0,0,0
+1310175,2022,Hungary,4,Abhishek Ahuja,65cf74b4,H Lakov,87a6f411,Zahir Mohammed,7c38942a,0,0,0,0,0,,,,,,0,0,0
+1310175,2022,Hungary,4,Abhishek Ahuja,65cf74b4,H Lakov,87a6f411,Zahir Mohammed,7c38942a,0,0,0,0,0,,,,,,0,0,0
+1310175,2022,Hungary,4,Abhishek Ahuja,65cf74b4,H Lakov,87a6f411,Zahir Mohammed,7c38942a,0,0,0,0,0,,,,,,0,0,0
+1310175,2022,Hungary,4,Abhishek Ahuja,65cf74b4,H Lakov,87a6f411,Zahir Mohammed,7c38942a,0,0,0,0,1,Abhishek Ahuja,65cf74b4,,,lbw,0,0,0
+1310175,2022,Hungary,4,HV Mandhyan,11f56b14,H Lakov,87a6f411,Zahir Mohammed,7c38942a,0,0,0,0,0,,,,,,0,0,0
+1310175,2022,Hungary,5,Zahir Mohammed,7c38942a,Ahsan Khan,4c72b407,HV Mandhyan,11f56b14,0,0,0,0,0,,,,,,4,0,4
+1310175,2022,Hungary,5,Zahir Mohammed,7c38942a,Ahsan Khan,4c72b407,HV Mandhyan,11f56b14,0,0,0,0,0,,,,,,0,0,0
+1310175,2022,Hungary,5,Zahir Mohammed,7c38942a,Ahsan Khan,4c72b407,HV Mandhyan,11f56b14,0,0,0,0,1,Zahir Mohammed,7c38942a,Omar Rassol,6caae2dc,caught,0,0,0
+1310175,2022,Hungary,5,A Kheterpal,2deb4082,Ahsan Khan,4c72b407,HV Mandhyan,11f56b14,0,0,0,0,0,,,,,,0,0,0
+1310175,2022,Hungary,5,A Kheterpal,2deb4082,Ahsan Khan,4c72b407,HV Mandhyan,11f56b14,0,0,0,0,0,,,,,,0,0,0
+1310175,2022,Hungary,5,A Kheterpal,2deb4082,Ahsan Khan,4c72b407,HV Mandhyan,11f56b14,1,0,0,0,0,,,,,,0,1,1
+1310175,2022,Hungary,5,A Kheterpal,2deb4082,Ahsan Khan,4c72b407,HV Mandhyan,11f56b14,2,0,0,0,0,,,,,,0,2,2
+1310175,2022,Hungary,5,HV Mandhyan,11f56b14,Ahsan Khan,4c72b407,A Kheterpal,2deb4082,0,0,0,0,0,,,,,,1,0,1
+1310175,2022,Hungary,6,HV Mandhyan,11f56b14,H Lakov,87a6f411,A Kheterpal,2deb4082,0,0,0,0,0,,,,,,0,0,0
+1310175,2022,Hungary,6,HV Mandhyan,11f56b14,H Lakov,87a6f411,A Kheterpal,2deb4082,0,0,0,0,0,,,,,,1,0,1
+1310175,2022,Hungary,6,A Kheterpal,2deb4082,H Lakov,87a6f411,HV Mandhyan,11f56b14,0,0,0,0,0,,,,,,0,0,0
+1310175,2022,Hungary,6,A Kheterpal,2deb4082,H Lakov,87a6f411,HV Mandhyan,11f56b14,0,0,0,0,0,,,,,,0,0,0
+1310175,2022,Hungary,6,A Kheterpal,2deb4082,H Lakov,87a6f411,HV Mandhyan,11f56b14,0,0,0,0,0,,,,,,0,0,0
+1310175,2022,Hungary,6,A Kheterpal,2deb4082,H Lakov,87a6f411,HV Mandhyan,11f56b14,0,0,0,0,0,,,,,,4,0,4
+1310175,2022,Hungary,7,HV Mandhyan,11f56b14,DV Varghese,26f98ea3,A Kheterpal,2deb4082,0,0,0,0,0,,,,,,1,0,1
+1310175,2022,Hungary,7,A Kheterpal,2deb4082,DV Varghese,26f98ea3,HV Mandhyan,11f56b14,0,0,0,0,0,,,,,,0,0,0
+1310175,2022,Hungary,7,A Kheterpal,2deb4082,DV Varghese,26f98ea3,HV Mandhyan,11f56b14,0,0,0,0,0,,,,,,1,0,1
+1310175,2022,Hungary,7,HV Mandhyan,11f56b14,DV Varghese,26f98ea3,A Kheterpal,2deb4082,0,0,0,0,0,,,,,,1,0,1
+1310175,2022,Hungary,7,A Kheterpal,2deb4082,DV Varghese,26f98ea3,HV Mandhyan,11f56b14,0,0,0,0,0,,,,,,0,0,0
+1310175,2022,Hungary,7,A Kheterpal,2deb4082,DV Varghese,26f98ea3,HV Mandhyan,11f56b14,0,0,0,0,0,,,,,,1,0,1
+1310175,2022,Hungary,8,A Kheterpal,2deb4082,P Mishra,3fa5672e,HV Mandhyan,11f56b14,0,0,0,0,0,,,,,,0,0,0
+1310175,2022,Hungary,8,A Kheterpal,2deb4082,P Mishra,3fa5672e,HV Mandhyan,11f56b14,0,0,0,0,0,,,,,,4,0,4
+1310175,2022,Hungary,8,A Kheterpal,2deb4082,P Mishra,3fa5672e,HV Mandhyan,11f56b14,0,0,0,0,0,,,,,,0,0,0
+1310175,2022,Hungary,8,A Kheterpal,2deb4082,P Mishra,3fa5672e,HV Mandhyan,11f56b14,0,0,0,0,0,,,,,,4,0,4
+1310175,2022,Hungary,8,A Kheterpal,2deb4082,P Mishra,3fa5672e,HV Mandhyan,11f56b14,1,0,0,0,0,,,,,,0,1,1
+1310175,2022,Hungary,8,A Kheterpal,2deb4082,P Mishra,3fa5672e,HV Mandhyan,11f56b14,0,0,0,0,0,,,,,,0,0,0
+1310175,2022,Hungary,8,A Kheterpal,2deb4082,P Mishra,3fa5672e,HV Mandhyan,11f56b14,0,0,0,0,0,,,,,,1,0,1
+1310175,2022,Hungary,9,A Kheterpal,2deb4082,DV Varghese,26f98ea3,HV Mandhyan,11f56b14,0,0,0,0,0,,,,,,4,0,4
+1310175,2022,Hungary,9,A Kheterpal,2deb4082,DV Varghese,26f98ea3,HV Mandhyan,11f56b14,0,0,0,0,0,,,,,,0,0,0
+1310175,2022,Hungary,9,A Kheterpal,2deb4082,DV Varghese,26f98ea3,HV Mandhyan,11f56b14,0,0,0,0,0,,,,,,0,0,0
+1310175,2022,Hungary,9,A Kheterpal,2deb4082,DV Varghese,26f98ea3,HV Mandhyan,11f56b14,1,0,0,0,0,,,,,,0,1,1
+1310175,2022,Hungary,9,A Kheterpal,2deb4082,DV Varghese,26f98ea3,HV Mandhyan,11f56b14,0,0,0,0,0,,,,,,1,0,1
+1310175,2022,Hungary,9,HV Mandhyan,11f56b14,DV Varghese,26f98ea3,A Kheterpal,2deb4082,0,0,0,0,0,,,,,,1,0,1
+1310175,2022,Hungary,9,A Kheterpal,2deb4082,DV Varghese,26f98ea3,HV Mandhyan,11f56b14,0,1,0,0,0,,,,,,1,1,2
+1310175,2022,Hungary,9,HV Mandhyan,11f56b14,DV Varghese,26f98ea3,A Kheterpal,2deb4082,1,0,0,0,0,,,,,,0,1,1
+1310175,2022,Hungary,9,HV Mandhyan,11f56b14,DV Varghese,26f98ea3,A Kheterpal,2deb4082,0,0,0,0,0,,,,,,2,0,2
+1310175,2022,Hungary,10,A Kheterpal,2deb4082,P Mishra,3fa5672e,HV Mandhyan,11f56b14,0,0,0,0,0,,,,,,1,0,1
+1310175,2022,Hungary,10,HV Mandhyan,11f56b14,P Mishra,3fa5672e,A Kheterpal,2deb4082,0,0,0,0,0,,,,,,1,0,1
+1310175,2022,Hungary,10,A Kheterpal,2deb4082,P Mishra,3fa5672e,HV Mandhyan,11f56b14,0,0,0,0,0,,,,,,1,0,1
+1310175,2022,Hungary,10,HV Mandhyan,11f56b14,P Mishra,3fa5672e,A Kheterpal,2deb4082,0,0,0,0,0,,,,,,1,0,1
+1310175,2022,Hungary,10,A Kheterpal,2deb4082,P Mishra,3fa5672e,HV Mandhyan,11f56b14,0,0,0,0,0,,,,,,0,0,0
+1310175,2022,Hungary,10,A Kheterpal,2deb4082,P Mishra,3fa5672e,HV Mandhyan,11f56b14,0,0,0,0,0,,,,,,1,0,1
+1310175,2022,Hungary,11,A Kheterpal,2deb4082,Asad Ali Rehemtulla,c122fe73,HV Mandhyan,11f56b14,0,0,0,0,0,,,,,,1,0,1
+1310175,2022,Hungary,11,HV Mandhyan,11f56b14,Asad Ali Rehemtulla,c122fe73,A Kheterpal,2deb4082,0,0,0,0,0,,,,,,0,0,0
+1310175,2022,Hungary,11,HV Mandhyan,11f56b14,Asad Ali Rehemtulla,c122fe73,A Kheterpal,2deb4082,1,0,0,0,0,,,,,,0,1,1
+1310175,2022,Hungary,11,HV Mandhyan,11f56b14,Asad Ali Rehemtulla,c122fe73,A Kheterpal,2deb4082,0,0,0,0,0,,,,,,1,0,1
+1310175,2022,Hungary,11,A Kheterpal,2deb4082,Asad Ali Rehemtulla,c122fe73,HV Mandhyan,11f56b14,1,0,0,0,0,,,,,,0,1,1
+1310175,2022,Hungary,11,A Kheterpal,2deb4082,Asad Ali Rehemtulla,c122fe73,HV Mandhyan,11f56b14,0,0,0,0,0,,,,,,4,0,4
+1310175,2022,Hungary,11,A Kheterpal,2deb4082,Asad Ali Rehemtulla,c122fe73,HV Mandhyan,11f56b14,0,0,0,0,0,,,,,,6,0,6
+1310175,2022,Hungary,11,A Kheterpal,2deb4082,Asad Ali Rehemtulla,c122fe73,HV Mandhyan,11f56b14,0,0,0,0,0,,,,,,1,0,1
+1310175,2022,Hungary,12,A Kheterpal,2deb4082,Omar Rassol,6caae2dc,HV Mandhyan,11f56b14,0,0,0,0,0,,,,,,0,0,0
+1310175,2022,Hungary,12,A Kheterpal,2deb4082,Omar Rassol,6caae2dc,HV Mandhyan,11f56b14,0,0,0,0,0,,,,,,4,0,4
+1310175,2022,Hungary,12,A Kheterpal,2deb4082,Omar Rassol,6caae2dc,HV Mandhyan,11f56b14,0,0,0,0,0,,,,,,1,0,1
+1310175,2022,Hungary,12,HV Mandhyan,11f56b14,Omar Rassol,6caae2dc,A Kheterpal,2deb4082,0,0,0,0,0,,,,,,1,0,1
+1310175,2022,Hungary,12,A Kheterpal,2deb4082,Omar Rassol,6caae2dc,HV Mandhyan,11f56b14,0,0,0,0,0,,,,,,0,0,0
+1310175,2022,Hungary,12,A Kheterpal,2deb4082,Omar Rassol,6caae2dc,HV Mandhyan,11f56b14,1,0,0,0,0,,,,,,0,1,1
+1310175,2022,Hungary,12,A Kheterpal,2deb4082,Omar Rassol,6caae2dc,HV Mandhyan,11f56b14,0,0,0,0,0,,,,,,1,0,1
+1310175,2022,Hungary,13,A Kheterpal,2deb4082,J Albin,a4a53adf,HV Mandhyan,11f56b14,1,0,0,0,0,,,,,,0,1,1
+1310175,2022,Hungary,13,A Kheterpal,2deb4082,J Albin,a4a53adf,HV Mandhyan,11f56b14,1,0,0,0,0,,,,,,0,1,1
+1310175,2022,Hungary,13,A Kheterpal,2deb4082,J Albin,a4a53adf,HV Mandhyan,11f56b14,0,0,0,0,1,A Kheterpal,2deb4082,H Lakov,87a6f411,caught,0,0,0
+1310175,2022,Hungary,13,Ali Farasat,5845b99b,J Albin,a4a53adf,HV Mandhyan,11f56b14,0,0,0,0,0,,,,,,0,0,0
+1310175,2022,Hungary,13,Ali Farasat,5845b99b,J Albin,a4a53adf,HV Mandhyan,11f56b14,0,0,0,0,0,,,,,,0,0,0
+1310175,2022,Hungary,13,Ali Farasat,5845b99b,J Albin,a4a53adf,HV Mandhyan,11f56b14,1,0,0,0,0,,,,,,0,1,1
+1310175,2022,Hungary,13,Ali Farasat,5845b99b,J Albin,a4a53adf,HV Mandhyan,11f56b14,0,0,0,0,0,,,,,,0,0,0
+1310175,2022,Hungary,13,Ali Farasat,5845b99b,J Albin,a4a53adf,HV Mandhyan,11f56b14,0,0,0,0,0,,,,,,0,0,0
+1310175,2022,Hungary,13,Ali Farasat,5845b99b,J Albin,a4a53adf,HV Mandhyan,11f56b14,1,0,0,0,0,,,,,,0,1,1
+1310175,2022,Hungary,13,Ali Farasat,5845b99b,J Albin,a4a53adf,HV Mandhyan,11f56b14,0,0,0,0,0,,,,,,0,0,0
+1310175,2022,Hungary,14,HV Mandhyan,11f56b14,Omar Rassol,6caae2dc,Ali Farasat,5845b99b,0,1,0,0,0,,,,,,1,1,2
+1310175,2022,Hungary,14,Ali Farasat,5845b99b,Omar Rassol,6caae2dc,HV Mandhyan,11f56b14,0,0,0,0,0,,,,,,0,0,0
+1310175,2022,Hungary,14,Ali Farasat,5845b99b,Omar Rassol,6caae2dc,HV Mandhyan,11f56b14,1,0,0,0,0,,,,,,0,1,1
+1310175,2022,Hungary,14,Ali Farasat,5845b99b,Omar Rassol,6caae2dc,HV Mandhyan,11f56b14,0,0,0,0,0,,,,,,0,0,0
+1310175,2022,Hungary,14,Ali Farasat,5845b99b,Omar Rassol,6caae2dc,HV Mandhyan,11f56b14,0,0,0,0,0,,,,,,1,0,1
+1310175,2022,Hungary,14,HV Mandhyan,11f56b14,Omar Rassol,6caae2dc,Ali Farasat,5845b99b,0,0,0,0,0,,,,,,1,0,1
+1310175,2022,Hungary,14,Ali Farasat,5845b99b,Omar Rassol,6caae2dc,HV Mandhyan,11f56b14,0,0,0,0,0,,,,,,1,0,1
+1310175,2022,Hungary,14,HV Mandhyan,11f56b14,Omar Rassol,6caae2dc,Ali Farasat,5845b99b,0,0,0,0,0,,,,,,4,0,4
+1310175,2022,Hungary,15,Ali Farasat,5845b99b,J Albin,a4a53adf,HV Mandhyan,11f56b14,0,0,0,0,0,,,,,,2,0,2
+1310175,2022,Hungary,15,Ali Farasat,5845b99b,J Albin,a4a53adf,HV Mandhyan,11f56b14,0,0,0,0,0,,,,,,4,0,4
+1310175,2022,Hungary,15,Ali Farasat,5845b99b,J Albin,a4a53adf,HV Mandhyan,11f56b14,0,0,0,0,0,,,,,,6,0,6
+1310175,2022,Hungary,15,Ali Farasat,5845b99b,J Albin,a4a53adf,HV Mandhyan,11f56b14,0,0,0,0,0,,,,,,1,0,1
+1310175,2022,Hungary,15,HV Mandhyan,11f56b14,J Albin,a4a53adf,Ali Farasat,5845b99b,1,0,0,0,0,,,,,,0,1,1
+1310175,2022,Hungary,15,HV Mandhyan,11f56b14,J Albin,a4a53adf,Ali Farasat,5845b99b,0,0,0,0,0,,,,,,1,0,1
+1310175,2022,Hungary,15,Ali Farasat,5845b99b,J Albin,a4a53adf,HV Mandhyan,11f56b14,0,0,0,0,0,,,,,,1,0,1
+1310175,2022,Hungary,16,Ali Farasat,5845b99b,Omar Rassol,6caae2dc,HV Mandhyan,11f56b14,0,0,0,0,0,,,,,,1,0,1
+1310175,2022,Hungary,16,HV Mandhyan,11f56b14,Omar Rassol,6caae2dc,Ali Farasat,5845b99b,0,0,0,0,0,,,,,,0,0,0
+1310175,2022,Hungary,16,HV Mandhyan,11f56b14,Omar Rassol,6caae2dc,Ali Farasat,5845b99b,0,0,0,1,0,,,,,,0,1,1
+1310175,2022,Hungary,16,Ali Farasat,5845b99b,Omar Rassol,6caae2dc,HV Mandhyan,11f56b14,0,0,0,0,0,,,,,,4,0,4
+1310175,2022,Hungary,16,Ali Farasat,5845b99b,Omar Rassol,6caae2dc,HV Mandhyan,11f56b14,0,0,0,0,1,Ali Farasat,5845b99b,Saim Hussain,d300d274,stumped,0,0,0
+1310175,2022,Hungary,16,AG Weligamage,747209e0,Omar Rassol,6caae2dc,HV Mandhyan,11f56b14,0,0,0,0,0,,,,,,1,0,1
+1310175,2022,Hungary,17,AG Weligamage,747209e0,P Mishra,3fa5672e,HV Mandhyan,11f56b14,0,0,0,0,0,,,,,,1,0,1
+1310175,2022,Hungary,17,HV Mandhyan,11f56b14,P Mishra,3fa5672e,AG Weligamage,747209e0,0,0,0,0,0,,,,,,1,0,1
+1310175,2022,Hungary,17,AG Weligamage,747209e0,P Mishra,3fa5672e,HV Mandhyan,11f56b14,0,0,0,0,0,,,,,,0,0,0
+1310175,2022,Hungary,17,AG Weligamage,747209e0,P Mishra,3fa5672e,HV Mandhyan,11f56b14,0,0,0,0,0,,,,,,0,0,0
+1310175,2022,Hungary,17,AG Weligamage,747209e0,P Mishra,3fa5672e,HV Mandhyan,11f56b14,0,0,0,0,0,,,,,,1,0,1
+1310175,2022,Hungary,17,HV Mandhyan,11f56b14,P Mishra,3fa5672e,AG Weligamage,747209e0,0,0,0,0,0,,,,,,2,0,2
+1310175,2022,Hungary,18,AG Weligamage,747209e0,Omar Rassol,6caae2dc,HV Mandhyan,11f56b14,1,0,0,0,0,,,,,,0,1,1
+1310175,2022,Hungary,18,AG Weligamage,747209e0,Omar Rassol,6caae2dc,HV Mandhyan,11f56b14,0,0,0,0,0,,,,,,0,0,0
+1310175,2022,Hungary,18,AG Weligamage,747209e0,Omar Rassol,6caae2dc,HV Mandhyan,11f56b14,0,0,0,0,0,,,,,,6,0,6
+1310175,2022,Hungary,18,AG Weligamage,747209e0,Omar Rassol,6caae2dc,HV Mandhyan,11f56b14,0,0,0,0,0,,,,,,1,0,1
+1310175,2022,Hungary,18,HV Mandhyan,11f56b14,Omar Rassol,6caae2dc,AG Weligamage,747209e0,0,0,0,0,0,,,,,,2,0,2
+1310175,2022,Hungary,18,HV Mandhyan,11f56b14,Omar Rassol,6caae2dc,AG Weligamage,747209e0,0,0,0,0,1,HV Mandhyan,11f56b14,,,bowled,0,0,0
+1310175,2022,Hungary,18,SA Mohandas,8b0b3bba,Omar Rassol,6caae2dc,AG Weligamage,747209e0,0,0,0,0,0,,,,,,2,0,2
+1310175,2022,Hungary,19,AG Weligamage,747209e0,P Mishra,3fa5672e,SA Mohandas,8b0b3bba,0,0,0,0,0,,,,,,1,0,1
+1310175,2022,Hungary,19,SA Mohandas,8b0b3bba,P Mishra,3fa5672e,AG Weligamage,747209e0,0,0,0,0,0,,,,,,1,0,1
+1310175,2022,Hungary,19,AG Weligamage,747209e0,P Mishra,3fa5672e,SA Mohandas,8b0b3bba,0,0,0,0,1,AG Weligamage,747209e0,Asad Ali Rehemtulla,c122fe73,caught,0,0,0
+1310175,2022,Hungary,19,SA Mohandas,8b0b3bba,P Mishra,3fa5672e,Gabor Torok,b601c362,0,0,0,0,0,,,,,,2,0,2
+1310175,2022,Hungary,19,SA Mohandas,8b0b3bba,P Mishra,3fa5672e,Gabor Torok,b601c362,0,0,0,0,0,,,,,,2,0,2
+1310175,2022,Hungary,19,SA Mohandas,8b0b3bba,P Mishra,3fa5672e,Gabor Torok,b601c362,0,0,0,0,0,,,,,,2,0,2
+1310175,2022,Bulgaria,0,H Lakov,87a6f411,AG Weligamage,747209e0,P Mishra,3fa5672e,0,0,0,0,0,,,,,,0,0,0
+1310175,2022,Bulgaria,0,H Lakov,87a6f411,AG Weligamage,747209e0,P Mishra,3fa5672e,1,0,0,0,0,,,,,,0,1,1
+1310175,2022,Bulgaria,0,H Lakov,87a6f411,AG Weligamage,747209e0,P Mishra,3fa5672e,0,0,0,0,0,,,,,,4,0,4
+1310175,2022,Bulgaria,0,H Lakov,87a6f411,AG Weligamage,747209e0,P Mishra,3fa5672e,0,0,0,0,0,,,,,,0,0,0
+1310175,2022,Bulgaria,0,H Lakov,87a6f411,AG Weligamage,747209e0,P Mishra,3fa5672e,0,0,0,0,0,,,,,,4,0,4
+1310175,2022,Bulgaria,0,H Lakov,87a6f411,AG Weligamage,747209e0,P Mishra,3fa5672e,0,0,0,0,0,,,,,,0,0,0
+1310175,2022,Bulgaria,0,H Lakov,87a6f411,AG Weligamage,747209e0,P Mishra,3fa5672e,0,0,0,0,0,,,,,,0,0,0
+1310175,2022,Bulgaria,1,P Mishra,3fa5672e,SA Mohandas,8b0b3bba,H Lakov,87a6f411,0,0,1,0,0,,,,,,0,1,1
+1310175,2022,Bulgaria,1,H Lakov,87a6f411,SA Mohandas,8b0b3bba,P Mishra,3fa5672e,0,0,0,0,0,,,,,,1,0,1
+1310175,2022,Bulgaria,1,P Mishra,3fa5672e,SA Mohandas,8b0b3bba,H Lakov,87a6f411,1,0,0,0,0,,,,,,0,1,1
+1310175,2022,Bulgaria,1,P Mishra,3fa5672e,SA Mohandas,8b0b3bba,H Lakov,87a6f411,0,0,0,0,0,,,,,,0,0,0
+1310175,2022,Bulgaria,1,P Mishra,3fa5672e,SA Mohandas,8b0b3bba,H Lakov,87a6f411,0,0,0,0,0,,,,,,4,0,4
+1310175,2022,Bulgaria,1,P Mishra,3fa5672e,SA Mohandas,8b0b3bba,H Lakov,87a6f411,0,0,0,0,0,,,,,,1,0,1
+1310175,2022,Bulgaria,1,H Lakov,87a6f411,SA Mohandas,8b0b3bba,P Mishra,3fa5672e,0,0,0,0,0,,,,,,2,0,2
+1310175,2022,Bulgaria,2,P Mishra,3fa5672e,AG Weligamage,747209e0,H Lakov,87a6f411,0,0,0,0,0,,,,,,0,0,0
+1310175,2022,Bulgaria,2,P Mishra,3fa5672e,AG Weligamage,747209e0,H Lakov,87a6f411,0,0,0,0,0,,,,,,0,0,0
+1310175,2022,Bulgaria,2,P Mishra,3fa5672e,AG Weligamage,747209e0,H Lakov,87a6f411,0,0,0,0,0,,,,,,4,0,4
+1310175,2022,Bulgaria,2,P Mishra,3fa5672e,AG Weligamage,747209e0,H Lakov,87a6f411,0,0,0,0,0,,,,,,4,0,4
+1310175,2022,Bulgaria,2,P Mishra,3fa5672e,AG Weligamage,747209e0,H Lakov,87a6f411,1,0,0,0,0,,,,,,0,1,1
+1310175,2022,Bulgaria,2,P Mishra,3fa5672e,AG Weligamage,747209e0,H Lakov,87a6f411,0,0,0,0,0,,,,,,0,0,0
+1310175,2022,Bulgaria,2,P Mishra,3fa5672e,AG Weligamage,747209e0,H Lakov,87a6f411,0,0,0,0,0,,,,,,0,0,0
+1310175,2022,Bulgaria,3,H Lakov,87a6f411,SA Mohandas,8b0b3bba,P Mishra,3fa5672e,0,0,0,0,0,,,,,,0,0,0
+1310175,2022,Bulgaria,3,H Lakov,87a6f411,SA Mohandas,8b0b3bba,P Mishra,3fa5672e,0,0,0,0,0,,,,,,4,0,4
+1310175,2022,Bulgaria,3,H Lakov,87a6f411,SA Mohandas,8b0b3bba,P Mishra,3fa5672e,0,0,0,0,0,,,,,,0,0,0
+1310175,2022,Bulgaria,3,H Lakov,87a6f411,SA Mohandas,8b0b3bba,P Mishra,3fa5672e,0,0,0,0,0,,,,,,1,0,1
+1310175,2022,Bulgaria,3,P Mishra,3fa5672e,SA Mohandas,8b0b3bba,H Lakov,87a6f411,0,0,0,0,1,P Mishra,3fa5672e,Zahir Mohammed,7c38942a,caught,0,0,0
+1310175,2022,Bulgaria,3,H Lakov,87a6f411,SA Mohandas,8b0b3bba,Saim Hussain,d300d274,0,0,0,0,0,,,,,,0,0,0
+1310175,2022,Bulgaria,4,Saim Hussain,d300d274,A Kheterpal,2deb4082,H Lakov,87a6f411,0,0,0,0,0,,,,,,4,0,4
+1310175,2022,Bulgaria,4,Saim Hussain,d300d274,A Kheterpal,2deb4082,H Lakov,87a6f411,0,0,0,0,0,,,,,,1,0,1
+1310175,2022,Bulgaria,4,H Lakov,87a6f411,A Kheterpal,2deb4082,Saim Hussain,d300d274,0,0,0,0,0,,,,,,2,0,2
+1310175,2022,Bulgaria,4,H Lakov,87a6f411,A Kheterpal,2deb4082,Saim Hussain,d300d274,0,0,0,0,1,H Lakov,87a6f411,Abhishek Ahuja,65cf74b4,caught,0,0,0
+1310175,2022,Bulgaria,4,IA De Silva,58973aaf,A Kheterpal,2deb4082,Saim Hussain,d300d274,0,0,0,0,0,,,,,,1,0,1
+1310175,2022,Bulgaria,4,Saim Hussain,d300d274,A Kheterpal,2deb4082,IA De Silva,58973aaf,0,0,0,0,0,,,,,,0,0,0
+1310175,2022,Bulgaria,5,IA De Silva,58973aaf,HV Mandhyan,11f56b14,Saim Hussain,d300d274,0,0,0,0,0,,,,,,0,0,0
+1310175,2022,Bulgaria,5,IA De Silva,58973aaf,HV Mandhyan,11f56b14,Saim Hussain,d300d274,4,0,0,0,0,,,,,,0,4,4
+1310175,2022,Bulgaria,5,Saim Hussain,d300d274,HV Mandhyan,11f56b14,IA De Silva,58973aaf,0,0,0,0,0,,,,,,1,0,1
+1310175,2022,Bulgaria,5,IA De Silva,58973aaf,HV Mandhyan,11f56b14,Saim Hussain,d300d274,1,0,0,0,0,,,,,,0,1,1
+1310175,2022,Bulgaria,5,IA De Silva,58973aaf,HV Mandhyan,11f56b14,Saim Hussain,d300d274,0,0,0,0,0,,,,,,4,0,4
+1310175,2022,Bulgaria,5,IA De Silva,58973aaf,HV Mandhyan,11f56b14,Saim Hussain,d300d274,0,0,0,0,0,,,,,,4,0,4
+1310175,2022,Bulgaria,5,IA De Silva,58973aaf,HV Mandhyan,11f56b14,Saim Hussain,d300d274,0,0,0,0,0,,,,,,0,0,0
+1310175,2022,Bulgaria,5,IA De Silva,58973aaf,HV Mandhyan,11f56b14,Saim Hussain,d300d274,0,0,0,0,0,,,,,,4,0,4
+1310175,2022,Bulgaria,6,Saim Hussain,d300d274,A Kheterpal,2deb4082,IA De Silva,58973aaf,0,0,0,0,0,,,,,,1,0,1
+1310175,2022,Bulgaria,6,IA De Silva,58973aaf,A Kheterpal,2deb4082,Saim Hussain,d300d274,0,0,0,0,0,,,,,,1,0,1
+1310175,2022,Bulgaria,6,Saim Hussain,d300d274,A Kheterpal,2deb4082,IA De Silva,58973aaf,0,0,0,0,0,,,,,,1,0,1
+1310175,2022,Bulgaria,6,IA De Silva,58973aaf,A Kheterpal,2deb4082,Saim Hussain,d300d274,0,0,0,0,0,,,,,,0,0,0
+1310175,2022,Bulgaria,6,IA De Silva,58973aaf,A Kheterpal,2deb4082,Saim Hussain,d300d274,1,0,0,0,0,,,,,,0,1,1
+1310175,2022,Bulgaria,6,IA De Silva,58973aaf,A Kheterpal,2deb4082,Saim Hussain,d300d274,0,0,0,0,0,,,,,,2,0,2
+1310175,2022,Bulgaria,6,IA De Silva,58973aaf,A Kheterpal,2deb4082,Saim Hussain,d300d274,0,0,0,0,0,,,,,,0,0,0
+1310175,2022,Bulgaria,7,Saim Hussain,d300d274,HV Mandhyan,11f56b14,IA De Silva,58973aaf,0,0,0,0,0,,,,,,1,0,1
+1310175,2022,Bulgaria,7,IA De Silva,58973aaf,HV Mandhyan,11f56b14,Saim Hussain,d300d274,0,0,0,0,0,,,,,,1,0,1
+1310175,2022,Bulgaria,7,Saim Hussain,d300d274,HV Mandhyan,11f56b14,IA De Silva,58973aaf,0,0,0,0,0,,,,,,0,0,0
+1310175,2022,Bulgaria,7,Saim Hussain,d300d274,HV Mandhyan,11f56b14,IA De Silva,58973aaf,1,0,0,0,0,,,,,,0,1,1
+1310175,2022,Bulgaria,7,Saim Hussain,d300d274,HV Mandhyan,11f56b14,IA De Silva,58973aaf,0,0,0,0,0,,,,,,0,0,0
+1310175,2022,Bulgaria,7,Saim Hussain,d300d274,HV Mandhyan,11f56b14,IA De Silva,58973aaf,0,0,0,0,0,,,,,,2,0,2
+1310175,2022,Bulgaria,7,Saim Hussain,d300d274,HV Mandhyan,11f56b14,IA De Silva,58973aaf,0,0,0,0,0,,,,,,1,0,1
+1310175,2022,Bulgaria,8,Saim Hussain,d300d274,A Kheterpal,2deb4082,IA De Silva,58973aaf,0,0,0,0,0,,,,,,2,0,2
+1310175,2022,Bulgaria,8,Saim Hussain,d300d274,A Kheterpal,2deb4082,IA De Silva,58973aaf,0,0,0,0,0,,,,,,0,0,0
+1310175,2022,Bulgaria,8,Saim Hussain,d300d274,A Kheterpal,2deb4082,IA De Silva,58973aaf,0,0,0,0,0,,,,,,2,0,2
+1310175,2022,Bulgaria,8,Saim Hussain,d300d274,A Kheterpal,2deb4082,IA De Silva,58973aaf,0,0,0,0,0,,,,,,1,0,1
+1310175,2022,Bulgaria,8,IA De Silva,58973aaf,A Kheterpal,2deb4082,Saim Hussain,d300d274,1,0,0,0,0,,,,,,0,1,1
+1310175,2022,Bulgaria,8,IA De Silva,58973aaf,A Kheterpal,2deb4082,Saim Hussain,d300d274,0,0,0,0,0,,,,,,4,0,4
+1310175,2022,Bulgaria,8,IA De Silva,58973aaf,A Kheterpal,2deb4082,Saim Hussain,d300d274,0,0,0,0,0,,,,,,1,0,1
+1310175,2022,Bulgaria,9,IA De Silva,58973aaf,HV Mandhyan,11f56b14,Saim Hussain,d300d274,0,0,0,0,0,,,,,,1,0,1
+1310175,2022,Bulgaria,9,Saim Hussain,d300d274,HV Mandhyan,11f56b14,IA De Silva,58973aaf,1,0,0,0,0,,,,,,0,1,1
+1310175,2022,Bulgaria,9,Saim Hussain,d300d274,HV Mandhyan,11f56b14,IA De Silva,58973aaf,0,0,0,0,0,,,,,,1,0,1
+1310175,2022,Bulgaria,9,IA De Silva,58973aaf,HV Mandhyan,11f56b14,Saim Hussain,d300d274,0,0,0,0,0,,,,,,2,0,2
+1310175,2022,Bulgaria,9,IA De Silva,58973aaf,HV Mandhyan,11f56b14,Saim Hussain,d300d274,0,0,0,0,0,,,,,,2,0,2
+1310175,2022,Bulgaria,9,IA De Silva,58973aaf,HV Mandhyan,11f56b14,Saim Hussain,d300d274,0,0,0,4,0,,,,,,0,4,4
+1310175,2022,Bulgaria,9,IA De Silva,58973aaf,HV Mandhyan,11f56b14,Saim Hussain,d300d274,0,0,0,0,0,,,,,,0,0,0
+1310175,2022,Bulgaria,10,Saim Hussain,d300d274,BP Adapaka,e6082b10,IA De Silva,58973aaf,0,0,0,0,0,,,,,,2,0,2
+1310175,2022,Bulgaria,10,Saim Hussain,d300d274,BP Adapaka,e6082b10,IA De Silva,58973aaf,0,0,0,0,0,,,,,,0,0,0
+1310175,2022,Bulgaria,10,Saim Hussain,d300d274,BP Adapaka,e6082b10,IA De Silva,58973aaf,0,0,0,0,0,,,,,,1,0,1
+1310175,2022,Bulgaria,10,IA De Silva,58973aaf,BP Adapaka,e6082b10,Saim Hussain,d300d274,0,0,0,0,0,,,,,,4,0,4
+1310175,2022,Bulgaria,10,IA De Silva,58973aaf,BP Adapaka,e6082b10,Saim Hussain,d300d274,0,0,0,0,0,,,,,,0,0,0
+1310175,2022,Bulgaria,10,IA De Silva,58973aaf,BP Adapaka,e6082b10,Saim Hussain,d300d274,0,0,0,0,0,,,,,,0,0,0
+1310175,2022,Bulgaria,11,Saim Hussain,d300d274,AG Weligamage,747209e0,IA De Silva,58973aaf,0,0,0,0,0,,,,,,0,0,0
+1310175,2022,Bulgaria,11,Saim Hussain,d300d274,AG Weligamage,747209e0,IA De Silva,58973aaf,0,0,0,0,1,IA De Silva,58973aaf,Gabor Torok,b601c362,run out,0,0,0
+1310175,2022,Bulgaria,11,Omar Rassol,6caae2dc,AG Weligamage,747209e0,Saim Hussain,d300d274,0,0,0,0,0,,,,,,0,0,0
+1310175,2022,Bulgaria,11,Omar Rassol,6caae2dc,AG Weligamage,747209e0,Saim Hussain,d300d274,0,0,0,0,0,,,,,,0,0,0
+1310175,2022,Bulgaria,11,Omar Rassol,6caae2dc,AG Weligamage,747209e0,Saim Hussain,d300d274,0,0,0,0,0,,,,,,0,0,0
+1310175,2022,Bulgaria,11,Omar Rassol,6caae2dc,AG Weligamage,747209e0,Saim Hussain,d300d274,0,0,0,0,0,,,,,,4,0,4
+1310175,2022,Bulgaria,12,Saim Hussain,d300d274,BP Adapaka,e6082b10,Omar Rassol,6caae2dc,0,0,0,0,0,,,,,,0,0,0
+1310175,2022,Bulgaria,12,Saim Hussain,d300d274,BP Adapaka,e6082b10,Omar Rassol,6caae2dc,0,0,0,0,0,,,,,,0,0,0
+1310175,2022,Bulgaria,12,Saim Hussain,d300d274,BP Adapaka,e6082b10,Omar Rassol,6caae2dc,0,0,0,0,0,,,,,,0,0,0
+1310175,2022,Bulgaria,12,Saim Hussain,d300d274,BP Adapaka,e6082b10,Omar Rassol,6caae2dc,0,0,0,0,0,,,,,,2,0,2
+1310175,2022,Bulgaria,12,Saim Hussain,d300d274,BP Adapaka,e6082b10,Omar Rassol,6caae2dc,0,0,0,0,0,,,,,,1,0,1
+1310175,2022,Bulgaria,12,Omar Rassol,6caae2dc,BP Adapaka,e6082b10,Saim Hussain,d300d274,0,0,0,0,0,,,,,,2,0,2
+1310175,2022,Bulgaria,13,Saim Hussain,d300d274,AG Weligamage,747209e0,Omar Rassol,6caae2dc,0,0,0,0,0,,,,,,1,0,1
+1310175,2022,Bulgaria,13,Omar Rassol,6caae2dc,AG Weligamage,747209e0,Saim Hussain,d300d274,0,0,0,0,0,,,,,,1,0,1
+1310175,2022,Bulgaria,13,Saim Hussain,d300d274,AG Weligamage,747209e0,Omar Rassol,6caae2dc,0,0,0,0,0,,,,,,2,0,2
+1310175,2022,Bulgaria,13,Saim Hussain,d300d274,AG Weligamage,747209e0,Omar Rassol,6caae2dc,0,0,0,0,0,,,,,,4,0,4
+1310175,2022,Bulgaria,13,Saim Hussain,d300d274,AG Weligamage,747209e0,Omar Rassol,6caae2dc,0,0,0,0,0,,,,,,2,0,2
+1310175,2022,Bulgaria,13,Saim Hussain,d300d274,AG Weligamage,747209e0,Omar Rassol,6caae2dc,0,0,0,0,0,,,,,,4,0,4
+1310175,2022,Bulgaria,14,Omar Rassol,6caae2dc,BP Adapaka,e6082b10,Saim Hussain,d300d274,0,0,0,0,0,,,,,,0,0,0
+1310175,2022,Bulgaria,14,Omar Rassol,6caae2dc,BP Adapaka,e6082b10,Saim Hussain,d300d274,0,0,0,0,0,,,,,,1,0,1
+1310175,2022,Bulgaria,14,Saim Hussain,d300d274,BP Adapaka,e6082b10,Omar Rassol,6caae2dc,0,0,0,0,0,,,,,,1,0,1
+1310175,2022,Bulgaria,14,Omar Rassol,6caae2dc,BP Adapaka,e6082b10,Saim Hussain,d300d274,0,0,0,0,0,,,,,,2,0,2
+1310175,2022,Bulgaria,14,Omar Rassol,6caae2dc,BP Adapaka,e6082b10,Saim Hussain,d300d274,0,0,0,0,1,Omar Rassol,6caae2dc,Abhishek Ahuja,65cf74b4,stumped,0,0,0
+1310175,2022,Bulgaria,14,Asad Ali Rehemtulla,c122fe73,BP Adapaka,e6082b10,Saim Hussain,d300d274,0,0,0,0,0,,,,,,0,0,0
+1310175,2022,Bulgaria,15,Saim Hussain,d300d274,SA Mohandas,8b0b3bba,Asad Ali Rehemtulla,c122fe73,0,0,0,0,0,,,,,,2,0,2
+1310175,2022,Bulgaria,15,Saim Hussain,d300d274,SA Mohandas,8b0b3bba,Asad Ali Rehemtulla,c122fe73,0,0,0,0,0,,,,,,2,0,2
+1310175,2022,Bulgaria,15,Saim Hussain,d300d274,SA Mohandas,8b0b3bba,Asad Ali Rehemtulla,c122fe73,0,0,0,0,0,,,,,,0,0,0
+1310175,2022,Bulgaria,15,Saim Hussain,d300d274,SA Mohandas,8b0b3bba,Asad Ali Rehemtulla,c122fe73,0,0,0,0,0,,,,,,2,0,2
+1310175,2022,Bulgaria,15,Saim Hussain,d300d274,SA Mohandas,8b0b3bba,Asad Ali Rehemtulla,c122fe73,0,0,0,0,0,,,,,,1,0,1
+1310175,2022,Bulgaria,15,Asad Ali Rehemtulla,c122fe73,SA Mohandas,8b0b3bba,Saim Hussain,d300d274,0,0,0,0,0,,,,,,0,0,0
+1310175,2022,Bulgaria,16,Saim Hussain,d300d274,BP Adapaka,e6082b10,Asad Ali Rehemtulla,c122fe73,0,1,0,0,0,,,,,,6,1,7
+1310175,2022,Bulgaria,16,Saim Hussain,d300d274,BP Adapaka,e6082b10,Asad Ali Rehemtulla,c122fe73,0,0,0,0,0,,,,,,2,0,2
+1310175,2022,Bulgaria,16,Saim Hussain,d300d274,BP Adapaka,e6082b10,Asad Ali Rehemtulla,c122fe73,0,0,0,0,0,,,,,,1,0,1
+1310175,2022,Bulgaria,16,Asad Ali Rehemtulla,c122fe73,BP Adapaka,e6082b10,Saim Hussain,d300d274,0,0,0,0,1,Asad Ali Rehemtulla,c122fe73,,,bowled,0,0,0
+1310175,2022,Bulgaria,16,DV Varghese,26f98ea3,BP Adapaka,e6082b10,Saim Hussain,d300d274,0,0,0,0,0,,,,,,0,0,0
+1310175,2022,Bulgaria,16,DV Varghese,26f98ea3,BP Adapaka,e6082b10,Saim Hussain,d300d274,0,0,0,0,0,,,,,,2,0,2
+1310175,2022,Bulgaria,16,DV Varghese,26f98ea3,BP Adapaka,e6082b10,Saim Hussain,d300d274,1,0,0,0,0,,,,,,0,1,1
+1310175,2022,Bulgaria,16,DV Varghese,26f98ea3,BP Adapaka,e6082b10,Saim Hussain,d300d274,0,0,0,0,1,DV Varghese,26f98ea3,,,bowled,0,0,0
+1310175,2022,Bulgaria,17,Saim Hussain,d300d274,SA Mohandas,8b0b3bba,Ahsan Khan,4c72b407,0,0,0,0,0,,,,,,0,0,0
+1310175,2022,Bulgaria,17,Saim Hussain,d300d274,SA Mohandas,8b0b3bba,Ahsan Khan,4c72b407,0,0,0,0,0,,,,,,0,0,0
+1310175,2022,Bulgaria,17,Saim Hussain,d300d274,SA Mohandas,8b0b3bba,Ahsan Khan,4c72b407,0,0,0,0,1,Saim Hussain,d300d274,,,bowled,0,0,0
+1310175,2022,Bulgaria,17,J Albin,a4a53adf,SA Mohandas,8b0b3bba,Ahsan Khan,4c72b407,0,0,0,0,0,,,,,,2,0,2
+1310175,2022,Bulgaria,17,J Albin,a4a53adf,SA Mohandas,8b0b3bba,Ahsan Khan,4c72b407,0,0,0,0,0,,,,,,0,0,0
+1310175,2022,Bulgaria,17,J Albin,a4a53adf,SA Mohandas,8b0b3bba,Ahsan Khan,4c72b407,0,0,0,0,0,,,,,,1,0,1
+1310175,2022,Bulgaria,18,J Albin,a4a53adf,HV Mandhyan,11f56b14,Ahsan Khan,4c72b407,0,0,0,0,0,,,,,,1,0,1
+1310175,2022,Bulgaria,18,Ahsan Khan,4c72b407,HV Mandhyan,11f56b14,J Albin,a4a53adf,0,0,0,0,0,,,,,,1,0,1
+1310175,2022,Bulgaria,18,J Albin,a4a53adf,HV Mandhyan,11f56b14,Ahsan Khan,4c72b407,0,0,0,0,0,,,,,,0,0,0
+1310175,2022,Bulgaria,18,J Albin,a4a53adf,HV Mandhyan,11f56b14,Ahsan Khan,4c72b407,0,0,0,0,0,,,,,,0,0,0
+1310175,2022,Bulgaria,18,J Albin,a4a53adf,HV Mandhyan,11f56b14,Ahsan Khan,4c72b407,0,0,0,0,0,,,,,,0,0,0
+1310175,2022,Bulgaria,18,J Albin,a4a53adf,HV Mandhyan,11f56b14,Ahsan Khan,4c72b407,0,0,0,0,1,J Albin,a4a53adf,,,bowled,0,0,0
+1310175,2022,Bulgaria,19,Ahsan Khan,4c72b407,A Kheterpal,2deb4082,I Katzarski,514628bd,0,0,0,0,0,,,,,,0,0,0
+1310175,2022,Bulgaria,19,Ahsan Khan,4c72b407,A Kheterpal,2deb4082,I Katzarski,514628bd,0,0,0,0,0,,,,,,1,0,1
+1310175,2022,Bulgaria,19,I Katzarski,514628bd,A Kheterpal,2deb4082,Ahsan Khan,4c72b407,0,0,0,0,0,,,,,,0,0,0
+1310175,2022,Bulgaria,19,I Katzarski,514628bd,A Kheterpal,2deb4082,Ahsan Khan,4c72b407,0,0,0,0,0,,,,,,0,0,0
+1310175,2022,Bulgaria,19,I Katzarski,514628bd,A Kheterpal,2deb4082,Ahsan Khan,4c72b407,0,0,0,0,0,,,,,,0,0,0
+1310175,2022,Bulgaria,19,I Katzarski,514628bd,A Kheterpal,2deb4082,Ahsan Khan,4c72b407,0,0,0,0,1,I Katzarski,514628bd,Abhishek Ahuja,65cf74b4,run out,0,0,0

@@ -1,0 +1,248 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+356000,2009,South Africa,0,JH Kallis,86dc8f2e,KD Mills,7fb32e5b,GC Smith,72861603,0,0,0,0,0,,,,,,0,0,0
+356000,2009,South Africa,0,JH Kallis,86dc8f2e,KD Mills,7fb32e5b,GC Smith,72861603,0,0,0,0,0,,,,,,0,0,0
+356000,2009,South Africa,0,JH Kallis,86dc8f2e,KD Mills,7fb32e5b,GC Smith,72861603,0,0,0,0,0,,,,,,2,0,2
+356000,2009,South Africa,0,JH Kallis,86dc8f2e,KD Mills,7fb32e5b,GC Smith,72861603,0,0,0,0,0,,,,,,1,0,1
+356000,2009,South Africa,0,GC Smith,72861603,KD Mills,7fb32e5b,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,0,0,0
+356000,2009,South Africa,0,GC Smith,72861603,KD Mills,7fb32e5b,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,1,0,1
+356000,2009,South Africa,1,GC Smith,72861603,JDP Oram,3eac9d95,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,0,0,0
+356000,2009,South Africa,1,GC Smith,72861603,JDP Oram,3eac9d95,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,1,0,1
+356000,2009,South Africa,1,JH Kallis,86dc8f2e,JDP Oram,3eac9d95,GC Smith,72861603,0,0,0,0,0,,,,,,4,0,4
+356000,2009,South Africa,1,JH Kallis,86dc8f2e,JDP Oram,3eac9d95,GC Smith,72861603,0,0,0,0,0,,,,,,0,0,0
+356000,2009,South Africa,1,JH Kallis,86dc8f2e,JDP Oram,3eac9d95,GC Smith,72861603,0,0,0,0,0,,,,,,1,0,1
+356000,2009,South Africa,1,GC Smith,72861603,JDP Oram,3eac9d95,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,0,0,0
+356000,2009,South Africa,2,JH Kallis,86dc8f2e,KD Mills,7fb32e5b,GC Smith,72861603,0,0,0,0,0,,,,,,0,0,0
+356000,2009,South Africa,2,JH Kallis,86dc8f2e,KD Mills,7fb32e5b,GC Smith,72861603,0,0,0,0,0,,,,,,0,0,0
+356000,2009,South Africa,2,JH Kallis,86dc8f2e,KD Mills,7fb32e5b,GC Smith,72861603,0,0,0,0,0,,,,,,4,0,4
+356000,2009,South Africa,2,JH Kallis,86dc8f2e,KD Mills,7fb32e5b,GC Smith,72861603,0,0,0,0,0,,,,,,1,0,1
+356000,2009,South Africa,2,GC Smith,72861603,KD Mills,7fb32e5b,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,1,0,1
+356000,2009,South Africa,2,JH Kallis,86dc8f2e,KD Mills,7fb32e5b,GC Smith,72861603,0,0,0,0,0,,,,,,6,0,6
+356000,2009,South Africa,3,GC Smith,72861603,JDP Oram,3eac9d95,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,1,0,1
+356000,2009,South Africa,3,JH Kallis,86dc8f2e,JDP Oram,3eac9d95,GC Smith,72861603,0,0,0,0,0,,,,,,1,0,1
+356000,2009,South Africa,3,GC Smith,72861603,JDP Oram,3eac9d95,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,0,0,0
+356000,2009,South Africa,3,GC Smith,72861603,JDP Oram,3eac9d95,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,1,0,1
+356000,2009,South Africa,3,JH Kallis,86dc8f2e,JDP Oram,3eac9d95,GC Smith,72861603,0,0,0,0,0,,,,,,1,0,1
+356000,2009,South Africa,3,GC Smith,72861603,JDP Oram,3eac9d95,JH Kallis,86dc8f2e,1,0,0,0,0,,,,,,0,1,1
+356000,2009,South Africa,3,GC Smith,72861603,JDP Oram,3eac9d95,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,1,0,1
+356000,2009,South Africa,4,GC Smith,72861603,IG Butler,b68a30f0,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,4,0,4
+356000,2009,South Africa,4,GC Smith,72861603,IG Butler,b68a30f0,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,0,0,0
+356000,2009,South Africa,4,GC Smith,72861603,IG Butler,b68a30f0,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,1,0,1
+356000,2009,South Africa,4,JH Kallis,86dc8f2e,IG Butler,b68a30f0,GC Smith,72861603,0,0,0,0,0,,,,,,0,0,0
+356000,2009,South Africa,4,JH Kallis,86dc8f2e,IG Butler,b68a30f0,GC Smith,72861603,0,0,1,0,0,,,,,,0,1,1
+356000,2009,South Africa,4,GC Smith,72861603,IG Butler,b68a30f0,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,1,0,1
+356000,2009,South Africa,5,GC Smith,72861603,BJ Diamanti,549aefcd,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,1,0,1
+356000,2009,South Africa,5,JH Kallis,86dc8f2e,BJ Diamanti,549aefcd,GC Smith,72861603,0,0,0,0,0,,,,,,1,0,1
+356000,2009,South Africa,5,GC Smith,72861603,BJ Diamanti,549aefcd,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,4,0,4
+356000,2009,South Africa,5,GC Smith,72861603,BJ Diamanti,549aefcd,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,1,0,1
+356000,2009,South Africa,5,JH Kallis,86dc8f2e,BJ Diamanti,549aefcd,GC Smith,72861603,0,0,0,0,0,,,,,,1,0,1
+356000,2009,South Africa,5,GC Smith,72861603,BJ Diamanti,549aefcd,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,4,0,4
+356000,2009,South Africa,6,JH Kallis,86dc8f2e,NL McCullum,5673a3fc,GC Smith,72861603,0,0,0,0,0,,,,,,0,0,0
+356000,2009,South Africa,6,JH Kallis,86dc8f2e,NL McCullum,5673a3fc,GC Smith,72861603,0,0,0,0,0,,,,,,0,0,0
+356000,2009,South Africa,6,JH Kallis,86dc8f2e,NL McCullum,5673a3fc,GC Smith,72861603,0,0,0,0,0,,,,,,0,0,0
+356000,2009,South Africa,6,JH Kallis,86dc8f2e,NL McCullum,5673a3fc,GC Smith,72861603,0,0,0,0,0,,,,,,1,0,1
+356000,2009,South Africa,6,GC Smith,72861603,NL McCullum,5673a3fc,JH Kallis,86dc8f2e,0,0,0,0,0,,,,,,1,0,1
+356000,2009,South Africa,6,JH Kallis,86dc8f2e,NL McCullum,5673a3fc,GC Smith,72861603,0,0,0,0,0,,,,,,0,0,0
+356000,2009,South Africa,7,GC Smith,72861603,IG Butler,b68a30f0,JH Kallis,86dc8f2e,0,0,0,0,1,JH Kallis,86dc8f2e,BB McCullum,b8a55852,run out,0,0,0
+356000,2009,South Africa,7,GC Smith,72861603,IG Butler,b68a30f0,HH Gibbs,e1d1b294,0,0,0,0,0,,,,,,0,0,0
+356000,2009,South Africa,7,GC Smith,72861603,IG Butler,b68a30f0,HH Gibbs,e1d1b294,0,0,0,0,0,,,,,,1,0,1
+356000,2009,South Africa,7,HH Gibbs,e1d1b294,IG Butler,b68a30f0,GC Smith,72861603,0,0,0,0,0,,,,,,0,0,0
+356000,2009,South Africa,7,HH Gibbs,e1d1b294,IG Butler,b68a30f0,GC Smith,72861603,0,0,0,0,0,,,,,,0,0,0
+356000,2009,South Africa,7,HH Gibbs,e1d1b294,IG Butler,b68a30f0,GC Smith,72861603,0,0,0,0,0,,,,,,0,0,0
+356000,2009,South Africa,8,GC Smith,72861603,NL McCullum,5673a3fc,HH Gibbs,e1d1b294,0,0,0,0,0,,,,,,0,0,0
+356000,2009,South Africa,8,GC Smith,72861603,NL McCullum,5673a3fc,HH Gibbs,e1d1b294,0,0,0,0,0,,,,,,0,0,0
+356000,2009,South Africa,8,GC Smith,72861603,NL McCullum,5673a3fc,HH Gibbs,e1d1b294,0,0,0,0,0,,,,,,0,0,0
+356000,2009,South Africa,8,GC Smith,72861603,NL McCullum,5673a3fc,HH Gibbs,e1d1b294,0,0,0,0,0,,,,,,1,0,1
+356000,2009,South Africa,8,HH Gibbs,e1d1b294,NL McCullum,5673a3fc,GC Smith,72861603,0,0,0,0,0,,,,,,1,0,1
+356000,2009,South Africa,8,GC Smith,72861603,NL McCullum,5673a3fc,HH Gibbs,e1d1b294,0,0,0,0,0,,,,,,1,0,1
+356000,2009,South Africa,9,GC Smith,72861603,BJ Diamanti,549aefcd,HH Gibbs,e1d1b294,0,0,0,0,0,,,,,,2,0,2
+356000,2009,South Africa,9,GC Smith,72861603,BJ Diamanti,549aefcd,HH Gibbs,e1d1b294,0,0,0,0,0,,,,,,0,0,0
+356000,2009,South Africa,9,GC Smith,72861603,BJ Diamanti,549aefcd,HH Gibbs,e1d1b294,0,0,0,0,0,,,,,,0,0,0
+356000,2009,South Africa,9,GC Smith,72861603,BJ Diamanti,549aefcd,HH Gibbs,e1d1b294,0,0,1,0,0,,,,,,0,1,1
+356000,2009,South Africa,9,HH Gibbs,e1d1b294,BJ Diamanti,549aefcd,GC Smith,72861603,0,0,0,0,0,,,,,,1,0,1
+356000,2009,South Africa,9,GC Smith,72861603,BJ Diamanti,549aefcd,HH Gibbs,e1d1b294,0,0,0,0,0,,,,,,4,0,4
+356000,2009,South Africa,10,HH Gibbs,e1d1b294,SB Styris,57efa3be,GC Smith,72861603,0,0,0,0,0,,,,,,1,0,1
+356000,2009,South Africa,10,GC Smith,72861603,SB Styris,57efa3be,HH Gibbs,e1d1b294,0,0,0,0,0,,,,,,1,0,1
+356000,2009,South Africa,10,HH Gibbs,e1d1b294,SB Styris,57efa3be,GC Smith,72861603,0,0,0,0,1,HH Gibbs,e1d1b294,,,caught and bowled,0,0,0
+356000,2009,South Africa,10,RE van der Merwe,05c2ca46,SB Styris,57efa3be,GC Smith,72861603,0,0,0,0,0,,,,,,0,0,0
+356000,2009,South Africa,10,RE van der Merwe,05c2ca46,SB Styris,57efa3be,GC Smith,72861603,0,0,0,0,0,,,,,,0,0,0
+356000,2009,South Africa,10,RE van der Merwe,05c2ca46,SB Styris,57efa3be,GC Smith,72861603,0,0,0,0,0,,,,,,0,0,0
+356000,2009,South Africa,11,GC Smith,72861603,IG Butler,b68a30f0,RE van der Merwe,05c2ca46,0,0,0,0,0,,,,,,0,0,0
+356000,2009,South Africa,11,GC Smith,72861603,IG Butler,b68a30f0,RE van der Merwe,05c2ca46,0,0,0,0,1,GC Smith,72861603,,,bowled,0,0,0
+356000,2009,South Africa,11,JP Duminy,2e8994e7,IG Butler,b68a30f0,RE van der Merwe,05c2ca46,0,0,0,0,0,,,,,,0,0,0
+356000,2009,South Africa,11,JP Duminy,2e8994e7,IG Butler,b68a30f0,RE van der Merwe,05c2ca46,0,0,0,0,0,,,,,,0,0,0
+356000,2009,South Africa,11,JP Duminy,2e8994e7,IG Butler,b68a30f0,RE van der Merwe,05c2ca46,0,0,0,0,0,,,,,,1,0,1
+356000,2009,South Africa,11,RE van der Merwe,05c2ca46,IG Butler,b68a30f0,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,0,0,0
+356000,2009,South Africa,12,JP Duminy,2e8994e7,NL McCullum,5673a3fc,RE van der Merwe,05c2ca46,0,0,0,0,0,,,,,,0,0,0
+356000,2009,South Africa,12,JP Duminy,2e8994e7,NL McCullum,5673a3fc,RE van der Merwe,05c2ca46,0,0,0,0,0,,,,,,1,0,1
+356000,2009,South Africa,12,RE van der Merwe,05c2ca46,NL McCullum,5673a3fc,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,0,0,0
+356000,2009,South Africa,12,RE van der Merwe,05c2ca46,NL McCullum,5673a3fc,JP Duminy,2e8994e7,0,0,0,0,1,RE van der Merwe,05c2ca46,,,bowled,0,0,0
+356000,2009,South Africa,12,AB de Villiers,c4487b84,NL McCullum,5673a3fc,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,1,0,1
+356000,2009,South Africa,12,JP Duminy,2e8994e7,NL McCullum,5673a3fc,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,2,0,2
+356000,2009,South Africa,13,AB de Villiers,c4487b84,KD Mills,7fb32e5b,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,4,0,4
+356000,2009,South Africa,13,AB de Villiers,c4487b84,KD Mills,7fb32e5b,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,1,0,1
+356000,2009,South Africa,13,JP Duminy,2e8994e7,KD Mills,7fb32e5b,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,1,0,1
+356000,2009,South Africa,13,AB de Villiers,c4487b84,KD Mills,7fb32e5b,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,2,0,2
+356000,2009,South Africa,13,AB de Villiers,c4487b84,KD Mills,7fb32e5b,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,1,0,1
+356000,2009,South Africa,13,JP Duminy,2e8994e7,KD Mills,7fb32e5b,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,0,0,0
+356000,2009,South Africa,14,AB de Villiers,c4487b84,NL McCullum,5673a3fc,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,4,0,4
+356000,2009,South Africa,14,AB de Villiers,c4487b84,NL McCullum,5673a3fc,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,1,0,1
+356000,2009,South Africa,14,JP Duminy,2e8994e7,NL McCullum,5673a3fc,AB de Villiers,c4487b84,0,0,0,0,0,,,,,,1,0,1
+356000,2009,South Africa,14,AB de Villiers,c4487b84,NL McCullum,5673a3fc,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,1,0,1
+356000,2009,South Africa,14,JP Duminy,2e8994e7,NL McCullum,5673a3fc,AB de Villiers,c4487b84,0,0,0,0,1,AB de Villiers,c4487b84,MJ Guptill,2be41edb,run out,1,0,1
+356000,2009,South Africa,14,JP Duminy,2e8994e7,NL McCullum,5673a3fc,MV Boucher,f3cb53a1,0,0,0,0,0,,,,,,1,0,1
+356000,2009,South Africa,15,JP Duminy,2e8994e7,SB Styris,57efa3be,MV Boucher,f3cb53a1,0,0,0,0,0,,,,,,1,0,1
+356000,2009,South Africa,15,MV Boucher,f3cb53a1,SB Styris,57efa3be,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,1,0,1
+356000,2009,South Africa,15,JP Duminy,2e8994e7,SB Styris,57efa3be,MV Boucher,f3cb53a1,0,0,0,0,0,,,,,,4,0,4
+356000,2009,South Africa,15,JP Duminy,2e8994e7,SB Styris,57efa3be,MV Boucher,f3cb53a1,0,0,0,0,0,,,,,,1,0,1
+356000,2009,South Africa,15,MV Boucher,f3cb53a1,SB Styris,57efa3be,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,1,0,1
+356000,2009,South Africa,15,JP Duminy,2e8994e7,SB Styris,57efa3be,MV Boucher,f3cb53a1,0,0,0,0,0,,,,,,0,0,0
+356000,2009,South Africa,16,MV Boucher,f3cb53a1,JDP Oram,3eac9d95,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,2,0,2
+356000,2009,South Africa,16,MV Boucher,f3cb53a1,JDP Oram,3eac9d95,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,1,0,1
+356000,2009,South Africa,16,JP Duminy,2e8994e7,JDP Oram,3eac9d95,MV Boucher,f3cb53a1,0,0,0,0,0,,,,,,1,0,1
+356000,2009,South Africa,16,MV Boucher,f3cb53a1,JDP Oram,3eac9d95,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,1,0,1
+356000,2009,South Africa,16,JP Duminy,2e8994e7,JDP Oram,3eac9d95,MV Boucher,f3cb53a1,0,0,0,0,0,,,,,,6,0,6
+356000,2009,South Africa,16,JP Duminy,2e8994e7,JDP Oram,3eac9d95,MV Boucher,f3cb53a1,0,0,0,0,0,,,,,,1,0,1
+356000,2009,South Africa,17,JP Duminy,2e8994e7,IG Butler,b68a30f0,MV Boucher,f3cb53a1,0,0,1,0,0,,,,,,0,1,1
+356000,2009,South Africa,17,MV Boucher,f3cb53a1,IG Butler,b68a30f0,JP Duminy,2e8994e7,0,0,0,0,1,MV Boucher,f3cb53a1,BB McCullum,b8a55852,caught,0,0,0
+356000,2009,South Africa,17,JP Duminy,2e8994e7,IG Butler,b68a30f0,JA Morkel,c3d35165,1,0,0,0,0,,,,,,0,1,1
+356000,2009,South Africa,17,JP Duminy,2e8994e7,IG Butler,b68a30f0,JA Morkel,c3d35165,0,0,0,0,0,,,,,,1,0,1
+356000,2009,South Africa,17,JA Morkel,c3d35165,IG Butler,b68a30f0,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,2,0,2
+356000,2009,South Africa,17,JA Morkel,c3d35165,IG Butler,b68a30f0,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,0,0,0
+356000,2009,South Africa,17,JA Morkel,c3d35165,IG Butler,b68a30f0,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,1,0,1
+356000,2009,South Africa,18,JA Morkel,c3d35165,KD Mills,7fb32e5b,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,1,0,1
+356000,2009,South Africa,18,JP Duminy,2e8994e7,KD Mills,7fb32e5b,JA Morkel,c3d35165,0,0,1,0,0,,,,,,0,1,1
+356000,2009,South Africa,18,JA Morkel,c3d35165,KD Mills,7fb32e5b,JP Duminy,2e8994e7,0,0,0,0,0,,,,,,1,0,1
+356000,2009,South Africa,18,JP Duminy,2e8994e7,KD Mills,7fb32e5b,JA Morkel,c3d35165,0,0,0,0,0,,,,,,6,0,6
+356000,2009,South Africa,18,JP Duminy,2e8994e7,KD Mills,7fb32e5b,JA Morkel,c3d35165,0,0,0,0,1,JP Duminy,2e8994e7,NT Broom,a354c917,caught,0,0,0
+356000,2009,South Africa,18,JA Morkel,c3d35165,KD Mills,7fb32e5b,J Botha,7c503806,0,0,0,0,0,,,,,,1,0,1
+356000,2009,South Africa,19,JA Morkel,c3d35165,JDP Oram,3eac9d95,J Botha,7c503806,0,0,0,0,0,,,,,,1,0,1
+356000,2009,South Africa,19,J Botha,7c503806,JDP Oram,3eac9d95,JA Morkel,c3d35165,0,0,0,0,0,,,,,,1,0,1
+356000,2009,South Africa,19,JA Morkel,c3d35165,JDP Oram,3eac9d95,J Botha,7c503806,0,0,0,0,0,,,,,,2,0,2
+356000,2009,South Africa,19,JA Morkel,c3d35165,JDP Oram,3eac9d95,J Botha,7c503806,0,0,0,0,0,,,,,,1,0,1
+356000,2009,South Africa,19,J Botha,7c503806,JDP Oram,3eac9d95,JA Morkel,c3d35165,0,0,0,0,0,,,,,,1,0,1
+356000,2009,South Africa,19,JA Morkel,c3d35165,JDP Oram,3eac9d95,J Botha,7c503806,0,0,0,0,0,,,,,,0,0,0
+356000,2009,New Zealand,0,BB McCullum,b8a55852,DW Steyn,8fd1a8f5,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,0,0,0
+356000,2009,New Zealand,0,BB McCullum,b8a55852,DW Steyn,8fd1a8f5,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,0,0,0
+356000,2009,New Zealand,0,BB McCullum,b8a55852,DW Steyn,8fd1a8f5,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,4,0,4
+356000,2009,New Zealand,0,BB McCullum,b8a55852,DW Steyn,8fd1a8f5,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,1,0,1
+356000,2009,New Zealand,0,MJ Guptill,2be41edb,DW Steyn,8fd1a8f5,BB McCullum,b8a55852,0,0,0,0,0,,,,,,0,0,0
+356000,2009,New Zealand,0,MJ Guptill,2be41edb,DW Steyn,8fd1a8f5,BB McCullum,b8a55852,0,0,0,0,0,,,,,,1,0,1
+356000,2009,New Zealand,1,MJ Guptill,2be41edb,WD Parnell,3a60e0b5,BB McCullum,b8a55852,0,0,0,0,0,,,,,,4,0,4
+356000,2009,New Zealand,1,MJ Guptill,2be41edb,WD Parnell,3a60e0b5,BB McCullum,b8a55852,0,0,0,0,0,,,,,,1,0,1
+356000,2009,New Zealand,1,BB McCullum,b8a55852,WD Parnell,3a60e0b5,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,4,0,4
+356000,2009,New Zealand,1,BB McCullum,b8a55852,WD Parnell,3a60e0b5,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,0,0,0
+356000,2009,New Zealand,1,BB McCullum,b8a55852,WD Parnell,3a60e0b5,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,4,0,4
+356000,2009,New Zealand,1,BB McCullum,b8a55852,WD Parnell,3a60e0b5,MJ Guptill,2be41edb,0,0,0,0,0,,,,,,0,0,0
+356000,2009,New Zealand,2,MJ Guptill,2be41edb,DW Steyn,8fd1a8f5,BB McCullum,b8a55852,0,0,0,0,1,MJ Guptill,2be41edb,RE van der Merwe,05c2ca46,caught,0,0,0
+356000,2009,New Zealand,2,NT Broom,a354c917,DW Steyn,8fd1a8f5,BB McCullum,b8a55852,0,0,0,0,0,,,,,,1,0,1
+356000,2009,New Zealand,2,BB McCullum,b8a55852,DW Steyn,8fd1a8f5,NT Broom,a354c917,0,0,0,0,0,,,,,,1,0,1
+356000,2009,New Zealand,2,NT Broom,a354c917,DW Steyn,8fd1a8f5,BB McCullum,b8a55852,0,0,0,0,0,,,,,,0,0,0
+356000,2009,New Zealand,2,NT Broom,a354c917,DW Steyn,8fd1a8f5,BB McCullum,b8a55852,0,0,0,0,0,,,,,,0,0,0
+356000,2009,New Zealand,2,NT Broom,a354c917,DW Steyn,8fd1a8f5,BB McCullum,b8a55852,0,0,0,0,0,,,,,,0,0,0
+356000,2009,New Zealand,3,BB McCullum,b8a55852,JH Kallis,86dc8f2e,NT Broom,a354c917,0,0,0,0,0,,,,,,4,0,4
+356000,2009,New Zealand,3,BB McCullum,b8a55852,JH Kallis,86dc8f2e,NT Broom,a354c917,0,0,0,0,0,,,,,,1,0,1
+356000,2009,New Zealand,3,NT Broom,a354c917,JH Kallis,86dc8f2e,BB McCullum,b8a55852,0,0,0,0,1,NT Broom,a354c917,,,caught and bowled,0,0,0
+356000,2009,New Zealand,3,LRPL Taylor,b61a3e1a,JH Kallis,86dc8f2e,BB McCullum,b8a55852,1,0,0,0,0,,,,,,0,1,1
+356000,2009,New Zealand,3,LRPL Taylor,b61a3e1a,JH Kallis,86dc8f2e,BB McCullum,b8a55852,0,0,0,0,0,,,,,,0,0,0
+356000,2009,New Zealand,3,LRPL Taylor,b61a3e1a,JH Kallis,86dc8f2e,BB McCullum,b8a55852,0,0,0,0,0,,,,,,0,0,0
+356000,2009,New Zealand,3,LRPL Taylor,b61a3e1a,JH Kallis,86dc8f2e,BB McCullum,b8a55852,1,0,0,0,0,,,,,,0,1,1
+356000,2009,New Zealand,3,LRPL Taylor,b61a3e1a,JH Kallis,86dc8f2e,BB McCullum,b8a55852,0,0,0,0,0,,,,,,0,0,0
+356000,2009,New Zealand,4,BB McCullum,b8a55852,WD Parnell,3a60e0b5,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,1,0,1
+356000,2009,New Zealand,4,LRPL Taylor,b61a3e1a,WD Parnell,3a60e0b5,BB McCullum,b8a55852,0,0,0,0,0,,,,,,1,0,1
+356000,2009,New Zealand,4,BB McCullum,b8a55852,WD Parnell,3a60e0b5,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,1,0,1
+356000,2009,New Zealand,4,LRPL Taylor,b61a3e1a,WD Parnell,3a60e0b5,BB McCullum,b8a55852,0,0,0,0,0,,,,,,0,0,0
+356000,2009,New Zealand,4,LRPL Taylor,b61a3e1a,WD Parnell,3a60e0b5,BB McCullum,b8a55852,0,0,0,0,0,,,,,,0,0,0
+356000,2009,New Zealand,4,LRPL Taylor,b61a3e1a,WD Parnell,3a60e0b5,BB McCullum,b8a55852,0,0,0,0,0,,,,,,0,0,0
+356000,2009,New Zealand,5,BB McCullum,b8a55852,JH Kallis,86dc8f2e,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,0,0,0
+356000,2009,New Zealand,5,BB McCullum,b8a55852,JH Kallis,86dc8f2e,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,1,0,1
+356000,2009,New Zealand,5,LRPL Taylor,b61a3e1a,JH Kallis,86dc8f2e,BB McCullum,b8a55852,0,0,0,0,0,,,,,,1,0,1
+356000,2009,New Zealand,5,BB McCullum,b8a55852,JH Kallis,86dc8f2e,LRPL Taylor,b61a3e1a,1,0,0,0,0,,,,,,0,1,1
+356000,2009,New Zealand,5,BB McCullum,b8a55852,JH Kallis,86dc8f2e,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,0,0,0
+356000,2009,New Zealand,5,BB McCullum,b8a55852,JH Kallis,86dc8f2e,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,0,0,0
+356000,2009,New Zealand,5,BB McCullum,b8a55852,JH Kallis,86dc8f2e,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,1,0,1
+356000,2009,New Zealand,6,BB McCullum,b8a55852,J Botha,7c503806,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,0,0,0
+356000,2009,New Zealand,6,BB McCullum,b8a55852,J Botha,7c503806,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,1,0,1
+356000,2009,New Zealand,6,LRPL Taylor,b61a3e1a,J Botha,7c503806,BB McCullum,b8a55852,0,0,0,0,0,,,,,,0,0,0
+356000,2009,New Zealand,6,LRPL Taylor,b61a3e1a,J Botha,7c503806,BB McCullum,b8a55852,0,0,0,0,0,,,,,,0,0,0
+356000,2009,New Zealand,6,LRPL Taylor,b61a3e1a,J Botha,7c503806,BB McCullum,b8a55852,0,0,0,0,0,,,,,,1,0,1
+356000,2009,New Zealand,6,BB McCullum,b8a55852,J Botha,7c503806,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,1,0,1
+356000,2009,New Zealand,7,BB McCullum,b8a55852,JH Kallis,86dc8f2e,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,0,0,0
+356000,2009,New Zealand,7,BB McCullum,b8a55852,JH Kallis,86dc8f2e,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,1,0,1
+356000,2009,New Zealand,7,LRPL Taylor,b61a3e1a,JH Kallis,86dc8f2e,BB McCullum,b8a55852,0,0,0,0,0,,,,,,0,0,0
+356000,2009,New Zealand,7,LRPL Taylor,b61a3e1a,JH Kallis,86dc8f2e,BB McCullum,b8a55852,0,0,0,0,0,,,,,,4,0,4
+356000,2009,New Zealand,7,LRPL Taylor,b61a3e1a,JH Kallis,86dc8f2e,BB McCullum,b8a55852,0,0,0,0,0,,,,,,0,0,0
+356000,2009,New Zealand,7,LRPL Taylor,b61a3e1a,JH Kallis,86dc8f2e,BB McCullum,b8a55852,0,0,0,0,0,,,,,,1,0,1
+356000,2009,New Zealand,8,LRPL Taylor,b61a3e1a,J Botha,7c503806,BB McCullum,b8a55852,0,0,0,0,0,,,,,,0,0,0
+356000,2009,New Zealand,8,LRPL Taylor,b61a3e1a,J Botha,7c503806,BB McCullum,b8a55852,0,0,0,0,0,,,,,,1,0,1
+356000,2009,New Zealand,8,BB McCullum,b8a55852,J Botha,7c503806,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,1,0,1
+356000,2009,New Zealand,8,LRPL Taylor,b61a3e1a,J Botha,7c503806,BB McCullum,b8a55852,0,0,0,0,0,,,,,,1,0,1
+356000,2009,New Zealand,8,BB McCullum,b8a55852,J Botha,7c503806,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,1,0,1
+356000,2009,New Zealand,8,LRPL Taylor,b61a3e1a,J Botha,7c503806,BB McCullum,b8a55852,0,0,0,0,0,,,,,,4,0,4
+356000,2009,New Zealand,9,BB McCullum,b8a55852,JA Morkel,c3d35165,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,0,0,0
+356000,2009,New Zealand,9,BB McCullum,b8a55852,JA Morkel,c3d35165,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,0,0,0
+356000,2009,New Zealand,9,BB McCullum,b8a55852,JA Morkel,c3d35165,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,3,0,3
+356000,2009,New Zealand,9,LRPL Taylor,b61a3e1a,JA Morkel,c3d35165,BB McCullum,b8a55852,0,0,0,0,0,,,,,,0,0,0
+356000,2009,New Zealand,9,LRPL Taylor,b61a3e1a,JA Morkel,c3d35165,BB McCullum,b8a55852,0,0,0,0,0,,,,,,1,0,1
+356000,2009,New Zealand,9,BB McCullum,b8a55852,JA Morkel,c3d35165,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,1,0,1
+356000,2009,New Zealand,10,BB McCullum,b8a55852,RE van der Merwe,05c2ca46,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,1,0,1
+356000,2009,New Zealand,10,LRPL Taylor,b61a3e1a,RE van der Merwe,05c2ca46,BB McCullum,b8a55852,0,0,0,0,0,,,,,,1,0,1
+356000,2009,New Zealand,10,BB McCullum,b8a55852,RE van der Merwe,05c2ca46,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,0,0,0
+356000,2009,New Zealand,10,BB McCullum,b8a55852,RE van der Merwe,05c2ca46,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,1,0,1
+356000,2009,New Zealand,10,LRPL Taylor,b61a3e1a,RE van der Merwe,05c2ca46,BB McCullum,b8a55852,0,0,0,0,0,,,,,,0,0,0
+356000,2009,New Zealand,10,LRPL Taylor,b61a3e1a,RE van der Merwe,05c2ca46,BB McCullum,b8a55852,0,0,0,0,0,,,,,,2,0,2
+356000,2009,New Zealand,11,BB McCullum,b8a55852,JA Morkel,c3d35165,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,1,0,1
+356000,2009,New Zealand,11,LRPL Taylor,b61a3e1a,JA Morkel,c3d35165,BB McCullum,b8a55852,0,0,0,0,0,,,,,,1,0,1
+356000,2009,New Zealand,11,BB McCullum,b8a55852,JA Morkel,c3d35165,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,0,0,0
+356000,2009,New Zealand,11,BB McCullum,b8a55852,JA Morkel,c3d35165,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,4,0,4
+356000,2009,New Zealand,11,BB McCullum,b8a55852,JA Morkel,c3d35165,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,2,0,2
+356000,2009,New Zealand,11,BB McCullum,b8a55852,JA Morkel,c3d35165,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,1,0,1
+356000,2009,New Zealand,12,BB McCullum,b8a55852,RE van der Merwe,05c2ca46,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,2,0,2
+356000,2009,New Zealand,12,BB McCullum,b8a55852,RE van der Merwe,05c2ca46,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,0,0,0
+356000,2009,New Zealand,12,BB McCullum,b8a55852,RE van der Merwe,05c2ca46,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,0,0,0
+356000,2009,New Zealand,12,BB McCullum,b8a55852,RE van der Merwe,05c2ca46,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,1,0,1
+356000,2009,New Zealand,12,LRPL Taylor,b61a3e1a,RE van der Merwe,05c2ca46,BB McCullum,b8a55852,0,0,0,0,0,,,,,,1,0,1
+356000,2009,New Zealand,12,BB McCullum,b8a55852,RE van der Merwe,05c2ca46,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,0,0,0
+356000,2009,New Zealand,13,LRPL Taylor,b61a3e1a,DW Steyn,8fd1a8f5,BB McCullum,b8a55852,0,0,0,0,0,,,,,,0,0,0
+356000,2009,New Zealand,13,LRPL Taylor,b61a3e1a,DW Steyn,8fd1a8f5,BB McCullum,b8a55852,0,0,0,0,0,,,,,,1,0,1
+356000,2009,New Zealand,13,BB McCullum,b8a55852,DW Steyn,8fd1a8f5,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,1,0,1
+356000,2009,New Zealand,13,LRPL Taylor,b61a3e1a,DW Steyn,8fd1a8f5,BB McCullum,b8a55852,0,0,0,0,0,,,,,,1,0,1
+356000,2009,New Zealand,13,BB McCullum,b8a55852,DW Steyn,8fd1a8f5,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,2,0,2
+356000,2009,New Zealand,13,BB McCullum,b8a55852,DW Steyn,8fd1a8f5,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,1,0,1
+356000,2009,New Zealand,14,BB McCullum,b8a55852,RE van der Merwe,05c2ca46,LRPL Taylor,b61a3e1a,0,0,0,0,0,,,,,,1,0,1
+356000,2009,New Zealand,14,LRPL Taylor,b61a3e1a,RE van der Merwe,05c2ca46,BB McCullum,b8a55852,0,0,0,0,0,,,,,,0,0,0
+356000,2009,New Zealand,14,LRPL Taylor,b61a3e1a,RE van der Merwe,05c2ca46,BB McCullum,b8a55852,0,0,0,0,1,LRPL Taylor,b61a3e1a,,,bowled,0,0,0
+356000,2009,New Zealand,14,JDP Oram,3eac9d95,RE van der Merwe,05c2ca46,BB McCullum,b8a55852,0,0,0,0,0,,,,,,1,0,1
+356000,2009,New Zealand,14,BB McCullum,b8a55852,RE van der Merwe,05c2ca46,JDP Oram,3eac9d95,0,0,0,0,0,,,,,,0,0,0
+356000,2009,New Zealand,14,BB McCullum,b8a55852,RE van der Merwe,05c2ca46,JDP Oram,3eac9d95,0,0,0,0,0,,,,,,0,0,0
+356000,2009,New Zealand,15,JDP Oram,3eac9d95,J Botha,7c503806,BB McCullum,b8a55852,0,0,0,0,0,,,,,,1,0,1
+356000,2009,New Zealand,15,BB McCullum,b8a55852,J Botha,7c503806,JDP Oram,3eac9d95,0,0,0,0,0,,,,,,4,0,4
+356000,2009,New Zealand,15,BB McCullum,b8a55852,J Botha,7c503806,JDP Oram,3eac9d95,0,0,0,0,0,,,,,,1,0,1
+356000,2009,New Zealand,15,JDP Oram,3eac9d95,J Botha,7c503806,BB McCullum,b8a55852,0,0,0,0,0,,,,,,0,0,0
+356000,2009,New Zealand,15,JDP Oram,3eac9d95,J Botha,7c503806,BB McCullum,b8a55852,0,0,0,0,0,,,,,,0,0,0
+356000,2009,New Zealand,15,JDP Oram,3eac9d95,J Botha,7c503806,BB McCullum,b8a55852,0,0,0,0,0,,,,,,0,0,0
+356000,2009,New Zealand,16,BB McCullum,b8a55852,RE van der Merwe,05c2ca46,JDP Oram,3eac9d95,0,0,0,0,0,,,,,,0,0,0
+356000,2009,New Zealand,16,BB McCullum,b8a55852,RE van der Merwe,05c2ca46,JDP Oram,3eac9d95,0,0,0,0,0,,,,,,1,0,1
+356000,2009,New Zealand,16,JDP Oram,3eac9d95,RE van der Merwe,05c2ca46,BB McCullum,b8a55852,0,0,0,0,0,,,,,,1,0,1
+356000,2009,New Zealand,16,BB McCullum,b8a55852,RE van der Merwe,05c2ca46,JDP Oram,3eac9d95,0,0,0,0,0,,,,,,1,0,1
+356000,2009,New Zealand,16,JDP Oram,3eac9d95,RE van der Merwe,05c2ca46,BB McCullum,b8a55852,0,0,1,0,0,,,,,,0,1,1
+356000,2009,New Zealand,16,BB McCullum,b8a55852,RE van der Merwe,05c2ca46,JDP Oram,3eac9d95,0,0,0,0,1,BB McCullum,b8a55852,MV Boucher,f3cb53a1,stumped,0,0,0
+356000,2009,New Zealand,17,JDP Oram,3eac9d95,WD Parnell,3a60e0b5,SB Styris,57efa3be,0,0,0,0,0,,,,,,4,0,4
+356000,2009,New Zealand,17,JDP Oram,3eac9d95,WD Parnell,3a60e0b5,SB Styris,57efa3be,0,0,0,0,0,,,,,,1,0,1
+356000,2009,New Zealand,17,SB Styris,57efa3be,WD Parnell,3a60e0b5,JDP Oram,3eac9d95,0,0,0,0,0,,,,,,0,0,0
+356000,2009,New Zealand,17,SB Styris,57efa3be,WD Parnell,3a60e0b5,JDP Oram,3eac9d95,0,0,0,0,0,,,,,,2,0,2
+356000,2009,New Zealand,17,SB Styris,57efa3be,WD Parnell,3a60e0b5,JDP Oram,3eac9d95,0,0,0,0,0,,,,,,1,0,1
+356000,2009,New Zealand,17,JDP Oram,3eac9d95,WD Parnell,3a60e0b5,SB Styris,57efa3be,0,0,0,0,0,,,,,,1,0,1
+356000,2009,New Zealand,18,JDP Oram,3eac9d95,DW Steyn,8fd1a8f5,SB Styris,57efa3be,0,0,0,0,0,,,,,,2,0,2
+356000,2009,New Zealand,18,JDP Oram,3eac9d95,DW Steyn,8fd1a8f5,SB Styris,57efa3be,1,0,0,0,0,,,,,,0,1,1
+356000,2009,New Zealand,18,JDP Oram,3eac9d95,DW Steyn,8fd1a8f5,SB Styris,57efa3be,0,0,0,4,0,,,,,,0,4,4
+356000,2009,New Zealand,18,JDP Oram,3eac9d95,DW Steyn,8fd1a8f5,SB Styris,57efa3be,0,0,0,0,0,,,,,,1,0,1
+356000,2009,New Zealand,18,SB Styris,57efa3be,DW Steyn,8fd1a8f5,JDP Oram,3eac9d95,1,0,0,0,0,,,,,,0,1,1
+356000,2009,New Zealand,18,SB Styris,57efa3be,DW Steyn,8fd1a8f5,JDP Oram,3eac9d95,0,0,0,0,0,,,,,,0,0,0
+356000,2009,New Zealand,18,SB Styris,57efa3be,DW Steyn,8fd1a8f5,JDP Oram,3eac9d95,0,0,0,0,0,,,,,,2,0,2
+356000,2009,New Zealand,18,SB Styris,57efa3be,DW Steyn,8fd1a8f5,JDP Oram,3eac9d95,0,0,0,0,0,,,,,,1,0,1
+356000,2009,New Zealand,19,SB Styris,57efa3be,WD Parnell,3a60e0b5,JDP Oram,3eac9d95,0,0,0,0,0,,,,,,1,0,1
+356000,2009,New Zealand,19,JDP Oram,3eac9d95,WD Parnell,3a60e0b5,SB Styris,57efa3be,0,0,0,0,0,,,,,,2,0,2
+356000,2009,New Zealand,19,JDP Oram,3eac9d95,WD Parnell,3a60e0b5,SB Styris,57efa3be,0,0,0,0,0,,,,,,2,0,2
+356000,2009,New Zealand,19,JDP Oram,3eac9d95,WD Parnell,3a60e0b5,SB Styris,57efa3be,0,0,0,0,0,,,,,,2,0,2
+356000,2009,New Zealand,19,JDP Oram,3eac9d95,WD Parnell,3a60e0b5,SB Styris,57efa3be,0,0,0,0,0,,,,,,4,0,4
+356000,2009,New Zealand,19,JDP Oram,3eac9d95,WD Parnell,3a60e0b5,SB Styris,57efa3be,0,0,0,0,1,JDP Oram,3eac9d95,GC Smith,72861603,run out,2,0,2

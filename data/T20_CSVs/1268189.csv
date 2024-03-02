@@ -1,0 +1,115 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,wicket,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total
+1268189,2021,Malta,0,Zeeshan Khan,3f9b1a96,NSK Mehta,d516a95f,HS Gericke,c28a293e,0,0,0,0,0,,,,,,1,0,1
+1268189,2021,Malta,0,HS Gericke,c28a293e,NSK Mehta,d516a95f,Zeeshan Khan,3f9b1a96,0,0,0,0,0,,,,,,1,0,1
+1268189,2021,Malta,0,Zeeshan Khan,3f9b1a96,NSK Mehta,d516a95f,HS Gericke,c28a293e,0,0,0,0,0,,,,,,1,0,1
+1268189,2021,Malta,0,HS Gericke,c28a293e,NSK Mehta,d516a95f,Zeeshan Khan,3f9b1a96,0,0,0,0,0,,,,,,1,0,1
+1268189,2021,Malta,0,Zeeshan Khan,3f9b1a96,NSK Mehta,d516a95f,HS Gericke,c28a293e,0,0,0,0,1,Zeeshan Khan,3f9b1a96,Sheraz Sheikh,4aad6842,caught,0,0,0
+1268189,2021,Malta,0,SSM Stanislaus,34dd3fd9,NSK Mehta,d516a95f,HS Gericke,c28a293e,1,0,0,0,0,,,,,,0,1,1
+1268189,2021,Malta,0,HS Gericke,c28a293e,NSK Mehta,d516a95f,SSM Stanislaus,34dd3fd9,0,0,0,0,0,,,,,,1,0,1
+1268189,2021,Malta,1,HS Gericke,c28a293e,Khalid Ahmadi,cf0b9a0d,SSM Stanislaus,34dd3fd9,0,0,0,0,0,,,,,,1,0,1
+1268189,2021,Malta,1,SSM Stanislaus,34dd3fd9,Khalid Ahmadi,cf0b9a0d,HS Gericke,c28a293e,0,0,0,0,0,,,,,,0,0,0
+1268189,2021,Malta,1,SSM Stanislaus,34dd3fd9,Khalid Ahmadi,cf0b9a0d,HS Gericke,c28a293e,0,0,0,0,0,,,,,,1,0,1
+1268189,2021,Malta,1,HS Gericke,c28a293e,Khalid Ahmadi,cf0b9a0d,SSM Stanislaus,34dd3fd9,0,0,0,0,0,,,,,,2,0,2
+1268189,2021,Malta,1,HS Gericke,c28a293e,Khalid Ahmadi,cf0b9a0d,SSM Stanislaus,34dd3fd9,0,0,0,0,0,,,,,,0,0,0
+1268189,2021,Malta,1,HS Gericke,c28a293e,Khalid Ahmadi,cf0b9a0d,SSM Stanislaus,34dd3fd9,0,0,0,0,0,,,,,,0,0,0
+1268189,2021,Malta,2,SSM Stanislaus,34dd3fd9,Ashiqullah Said,407d13cc,HS Gericke,c28a293e,0,0,0,0,0,,,,,,0,0,0
+1268189,2021,Malta,2,SSM Stanislaus,34dd3fd9,Ashiqullah Said,407d13cc,HS Gericke,c28a293e,0,0,0,0,0,,,,,,0,0,0
+1268189,2021,Malta,2,SSM Stanislaus,34dd3fd9,Ashiqullah Said,407d13cc,HS Gericke,c28a293e,0,0,0,0,1,SSM Stanislaus,34dd3fd9,,,bowled,0,0,0
+1268189,2021,Malta,2,VP Thamotharam,eb40ed89,Ashiqullah Said,407d13cc,HS Gericke,c28a293e,0,0,0,0,0,,,,,,0,0,0
+1268189,2021,Malta,2,VP Thamotharam,eb40ed89,Ashiqullah Said,407d13cc,HS Gericke,c28a293e,0,0,0,0,0,,,,,,0,0,0
+1268189,2021,Malta,2,VP Thamotharam,eb40ed89,Ashiqullah Said,407d13cc,HS Gericke,c28a293e,1,0,0,0,0,,,,,,0,1,1
+1268189,2021,Malta,2,VP Thamotharam,eb40ed89,Ashiqullah Said,407d13cc,HS Gericke,c28a293e,0,0,0,0,0,,,,,,1,0,1
+1268189,2021,Malta,3,VP Thamotharam,eb40ed89,Khalid Ahmadi,cf0b9a0d,HS Gericke,c28a293e,0,0,0,0,0,,,,,,0,0,0
+1268189,2021,Malta,3,VP Thamotharam,eb40ed89,Khalid Ahmadi,cf0b9a0d,HS Gericke,c28a293e,0,0,0,0,0,,,,,,4,0,4
+1268189,2021,Malta,3,VP Thamotharam,eb40ed89,Khalid Ahmadi,cf0b9a0d,HS Gericke,c28a293e,0,0,0,0,0,,,,,,0,0,0
+1268189,2021,Malta,3,VP Thamotharam,eb40ed89,Khalid Ahmadi,cf0b9a0d,HS Gericke,c28a293e,0,0,0,0,0,,,,,,0,0,0
+1268189,2021,Malta,3,VP Thamotharam,eb40ed89,Khalid Ahmadi,cf0b9a0d,HS Gericke,c28a293e,0,0,0,0,0,,,,,,1,0,1
+1268189,2021,Malta,3,HS Gericke,c28a293e,Khalid Ahmadi,cf0b9a0d,VP Thamotharam,eb40ed89,1,0,0,0,0,,,,,,0,1,1
+1268189,2021,Malta,3,HS Gericke,c28a293e,Khalid Ahmadi,cf0b9a0d,VP Thamotharam,eb40ed89,0,0,0,0,1,HS Gericke,c28a293e,,,lbw,0,0,0
+1268189,2021,Malta,4,VP Thamotharam,eb40ed89,Ashiqullah Said,407d13cc,Amar Sharma,14e1fdab,0,0,0,0,0,,,,,,0,0,0
+1268189,2021,Malta,4,VP Thamotharam,eb40ed89,Ashiqullah Said,407d13cc,Amar Sharma,14e1fdab,0,0,0,0,0,,,,,,1,0,1
+1268189,2021,Malta,4,Amar Sharma,14e1fdab,Ashiqullah Said,407d13cc,VP Thamotharam,eb40ed89,0,0,1,0,0,,,,,,0,1,1
+1268189,2021,Malta,4,VP Thamotharam,eb40ed89,Ashiqullah Said,407d13cc,Amar Sharma,14e1fdab,0,0,0,0,0,,,,,,4,0,4
+1268189,2021,Malta,4,VP Thamotharam,eb40ed89,Ashiqullah Said,407d13cc,Amar Sharma,14e1fdab,0,0,0,0,0,,,,,,0,0,0
+1268189,2021,Malta,4,VP Thamotharam,eb40ed89,Ashiqullah Said,407d13cc,Amar Sharma,14e1fdab,0,0,0,0,0,,,,,,4,0,4
+1268189,2021,Malta,5,Amar Sharma,14e1fdab,B Niaz,b7824537,VP Thamotharam,eb40ed89,0,0,0,0,0,,,,,,1,0,1
+1268189,2021,Malta,5,VP Thamotharam,eb40ed89,B Niaz,b7824537,Amar Sharma,14e1fdab,0,0,0,0,1,VP Thamotharam,eb40ed89,NSK Mehta,d516a95f,caught,0,0,0
+1268189,2021,Malta,5,Amar Sharma,14e1fdab,B Niaz,b7824537,B Arora,39e9f0c9,0,0,0,0,0,,,,,,0,0,0
+1268189,2021,Malta,5,Amar Sharma,14e1fdab,B Niaz,b7824537,B Arora,39e9f0c9,0,0,0,0,1,Amar Sharma,14e1fdab,Said Hakim,4cc59a40,caught,0,0,0
+1268189,2021,Malta,5,N Khanna,0ec6a7c3,B Niaz,b7824537,B Arora,39e9f0c9,0,0,0,0,0,,,,,,1,0,1
+1268189,2021,Malta,5,B Arora,39e9f0c9,B Niaz,b7824537,N Khanna,0ec6a7c3,0,0,0,0,0,,,,,,0,0,0
+1268189,2021,Malta,6,N Khanna,0ec6a7c3,NSK Mehta,d516a95f,B Arora,39e9f0c9,0,0,0,0,0,,,,,,0,0,0
+1268189,2021,Malta,6,N Khanna,0ec6a7c3,NSK Mehta,d516a95f,B Arora,39e9f0c9,0,0,0,0,0,,,,,,2,0,2
+1268189,2021,Malta,6,N Khanna,0ec6a7c3,NSK Mehta,d516a95f,B Arora,39e9f0c9,0,0,0,0,0,,,,,,0,0,0
+1268189,2021,Malta,6,N Khanna,0ec6a7c3,NSK Mehta,d516a95f,B Arora,39e9f0c9,0,0,0,0,0,,,,,,1,0,1
+1268189,2021,Malta,6,B Arora,39e9f0c9,NSK Mehta,d516a95f,N Khanna,0ec6a7c3,0,0,0,0,0,,,,,,0,0,0
+1268189,2021,Malta,6,B Arora,39e9f0c9,NSK Mehta,d516a95f,N Khanna,0ec6a7c3,0,0,0,0,0,,,,,,0,0,0
+1268189,2021,Malta,7,N Khanna,0ec6a7c3,B Niaz,b7824537,B Arora,39e9f0c9,0,0,0,0,1,N Khanna,0ec6a7c3,Ashiqullah Said,407d13cc,caught,0,0,0
+1268189,2021,Malta,7,Ravinder Singh,710e1a5c,B Niaz,b7824537,B Arora,39e9f0c9,0,0,0,0,0,,,,,,0,0,0
+1268189,2021,Malta,7,Ravinder Singh,710e1a5c,B Niaz,b7824537,B Arora,39e9f0c9,0,0,0,0,0,,,,,,0,0,0
+1268189,2021,Malta,7,Ravinder Singh,710e1a5c,B Niaz,b7824537,B Arora,39e9f0c9,0,0,0,0,0,,,,,,0,0,0
+1268189,2021,Malta,7,Ravinder Singh,710e1a5c,B Niaz,b7824537,B Arora,39e9f0c9,0,0,0,0,0,,,,,,0,0,0
+1268189,2021,Malta,7,Ravinder Singh,710e1a5c,B Niaz,b7824537,B Arora,39e9f0c9,0,0,0,0,0,,,,,,0,0,0
+1268189,2021,Malta,8,B Arora,39e9f0c9,NSK Mehta,d516a95f,Ravinder Singh,710e1a5c,0,0,0,0,0,,,,,,0,0,0
+1268189,2021,Malta,8,B Arora,39e9f0c9,NSK Mehta,d516a95f,Ravinder Singh,710e1a5c,0,0,0,0,0,,,,,,0,0,0
+1268189,2021,Malta,8,B Arora,39e9f0c9,NSK Mehta,d516a95f,Ravinder Singh,710e1a5c,0,0,0,0,0,,,,,,0,0,0
+1268189,2021,Malta,8,B Arora,39e9f0c9,NSK Mehta,d516a95f,Ravinder Singh,710e1a5c,0,0,0,0,0,,,,,,0,0,0
+1268189,2021,Malta,8,B Arora,39e9f0c9,NSK Mehta,d516a95f,Ravinder Singh,710e1a5c,0,0,0,0,0,,,,,,1,0,1
+1268189,2021,Malta,8,Ravinder Singh,710e1a5c,NSK Mehta,d516a95f,B Arora,39e9f0c9,0,0,0,0,0,,,,,,1,0,1
+1268189,2021,Malta,9,Ravinder Singh,710e1a5c,B Niaz,b7824537,B Arora,39e9f0c9,0,0,0,0,0,,,,,,0,0,0
+1268189,2021,Malta,9,Ravinder Singh,710e1a5c,B Niaz,b7824537,B Arora,39e9f0c9,0,0,0,0,0,,,,,,0,0,0
+1268189,2021,Malta,9,Ravinder Singh,710e1a5c,B Niaz,b7824537,B Arora,39e9f0c9,0,0,0,0,0,,,,,,0,0,0
+1268189,2021,Malta,9,Ravinder Singh,710e1a5c,B Niaz,b7824537,B Arora,39e9f0c9,0,0,0,0,0,,,,,,0,0,0
+1268189,2021,Malta,9,Ravinder Singh,710e1a5c,B Niaz,b7824537,B Arora,39e9f0c9,0,0,0,0,0,,,,,,0,0,0
+1268189,2021,Malta,9,Ravinder Singh,710e1a5c,B Niaz,b7824537,B Arora,39e9f0c9,0,0,0,0,0,,,,,,2,0,2
+1268189,2021,Malta,10,B Arora,39e9f0c9,NSK Mehta,d516a95f,Ravinder Singh,710e1a5c,0,0,0,0,0,,,,,,0,0,0
+1268189,2021,Malta,10,B Arora,39e9f0c9,NSK Mehta,d516a95f,Ravinder Singh,710e1a5c,0,0,0,0,0,,,,,,1,0,1
+1268189,2021,Malta,10,Ravinder Singh,710e1a5c,NSK Mehta,d516a95f,B Arora,39e9f0c9,0,0,0,0,0,,,,,,1,0,1
+1268189,2021,Malta,10,B Arora,39e9f0c9,NSK Mehta,d516a95f,Ravinder Singh,710e1a5c,0,0,0,0,0,,,,,,1,0,1
+1268189,2021,Malta,10,Ravinder Singh,710e1a5c,NSK Mehta,d516a95f,B Arora,39e9f0c9,0,0,0,0,0,,,,,,1,0,1
+1268189,2021,Malta,10,B Arora,39e9f0c9,NSK Mehta,d516a95f,Ravinder Singh,710e1a5c,0,0,0,0,0,,,,,,0,0,0
+1268189,2021,Malta,11,Ravinder Singh,710e1a5c,B Niaz,b7824537,B Arora,39e9f0c9,0,0,0,0,0,,,,,,1,0,1
+1268189,2021,Malta,11,B Arora,39e9f0c9,B Niaz,b7824537,Ravinder Singh,710e1a5c,0,0,0,0,1,B Arora,39e9f0c9,,,bowled,0,0,0
+1268189,2021,Malta,11,A Bishnoi,376557f7,B Niaz,b7824537,Ravinder Singh,710e1a5c,0,0,0,0,1,A Bishnoi,376557f7,Khalid Ahmadi,cf0b9a0d,run out,0,0,0
+1268189,2021,Malta,11,Ravinder Singh,710e1a5c,B Niaz,b7824537,Bilal Muhammad,eb5aa5b9,0,0,0,0,0,,,,,,1,0,1
+1268189,2021,Malta,11,Bilal Muhammad,eb5aa5b9,B Niaz,b7824537,Ravinder Singh,710e1a5c,0,0,0,0,0,,,,,,0,0,0
+1268189,2021,Malta,11,Bilal Muhammad,eb5aa5b9,B Niaz,b7824537,Ravinder Singh,710e1a5c,0,0,0,0,0,,,,,,2,0,2
+1268189,2021,Malta,12,Ravinder Singh,710e1a5c,Sheraz Sheikh,4aad6842,Bilal Muhammad,eb5aa5b9,0,0,0,0,0,,,,,,1,0,1
+1268189,2021,Malta,12,Bilal Muhammad,eb5aa5b9,Sheraz Sheikh,4aad6842,Ravinder Singh,710e1a5c,0,0,0,0,0,,,,,,1,0,1
+1268189,2021,Malta,12,Ravinder Singh,710e1a5c,Sheraz Sheikh,4aad6842,Bilal Muhammad,eb5aa5b9,0,0,0,0,0,,,,,,1,0,1
+1268189,2021,Malta,12,Bilal Muhammad,eb5aa5b9,Sheraz Sheikh,4aad6842,Ravinder Singh,710e1a5c,0,0,0,0,1,Bilal Muhammad,eb5aa5b9,Khalid Ahmadi,cf0b9a0d,run out,1,0,1
+1268189,2021,Malta,12,Washeem Abbas,6de4e430,Sheraz Sheikh,4aad6842,Ravinder Singh,710e1a5c,0,0,0,0,0,,,,,,1,0,1
+1268189,2021,Malta,12,Ravinder Singh,710e1a5c,Sheraz Sheikh,4aad6842,Washeem Abbas,6de4e430,0,0,0,0,1,Ravinder Singh,710e1a5c,,,bowled,0,0,0
+1268189,2021,Belgium,0,Said Hakim,4cc59a40,Bilal Muhammad,eb5aa5b9,Hadisullah Tarakhel,77bedcce,0,0,0,0,0,,,,,,0,0,0
+1268189,2021,Belgium,0,Said Hakim,4cc59a40,Bilal Muhammad,eb5aa5b9,Hadisullah Tarakhel,77bedcce,0,0,0,0,0,,,,,,1,0,1
+1268189,2021,Belgium,0,Hadisullah Tarakhel,77bedcce,Bilal Muhammad,eb5aa5b9,Said Hakim,4cc59a40,0,0,0,0,0,,,,,,1,0,1
+1268189,2021,Belgium,0,Said Hakim,4cc59a40,Bilal Muhammad,eb5aa5b9,Hadisullah Tarakhel,77bedcce,0,0,0,0,0,,,,,,0,0,0
+1268189,2021,Belgium,0,Said Hakim,4cc59a40,Bilal Muhammad,eb5aa5b9,Hadisullah Tarakhel,77bedcce,0,0,0,0,0,,,,,,0,0,0
+1268189,2021,Belgium,0,Said Hakim,4cc59a40,Bilal Muhammad,eb5aa5b9,Hadisullah Tarakhel,77bedcce,0,0,0,0,0,,,,,,2,0,2
+1268189,2021,Belgium,1,Hadisullah Tarakhel,77bedcce,A Bishnoi,376557f7,Said Hakim,4cc59a40,0,0,0,0,0,,,,,,6,0,6
+1268189,2021,Belgium,1,Hadisullah Tarakhel,77bedcce,A Bishnoi,376557f7,Said Hakim,4cc59a40,0,0,0,0,0,,,,,,0,0,0
+1268189,2021,Belgium,1,Hadisullah Tarakhel,77bedcce,A Bishnoi,376557f7,Said Hakim,4cc59a40,0,0,0,0,0,,,,,,4,0,4
+1268189,2021,Belgium,1,Hadisullah Tarakhel,77bedcce,A Bishnoi,376557f7,Said Hakim,4cc59a40,0,0,0,0,0,,,,,,0,0,0
+1268189,2021,Belgium,1,Hadisullah Tarakhel,77bedcce,A Bishnoi,376557f7,Said Hakim,4cc59a40,0,0,0,0,0,,,,,,6,0,6
+1268189,2021,Belgium,1,Hadisullah Tarakhel,77bedcce,A Bishnoi,376557f7,Said Hakim,4cc59a40,0,0,0,0,0,,,,,,4,0,4
+1268189,2021,Belgium,2,Said Hakim,4cc59a40,Bilal Muhammad,eb5aa5b9,Hadisullah Tarakhel,77bedcce,0,0,0,0,0,,,,,,0,0,0
+1268189,2021,Belgium,2,Said Hakim,4cc59a40,Bilal Muhammad,eb5aa5b9,Hadisullah Tarakhel,77bedcce,0,0,0,0,0,,,,,,0,0,0
+1268189,2021,Belgium,2,Said Hakim,4cc59a40,Bilal Muhammad,eb5aa5b9,Hadisullah Tarakhel,77bedcce,0,0,0,0,0,,,,,,0,0,0
+1268189,2021,Belgium,2,Said Hakim,4cc59a40,Bilal Muhammad,eb5aa5b9,Hadisullah Tarakhel,77bedcce,0,0,0,0,0,,,,,,0,0,0
+1268189,2021,Belgium,2,Said Hakim,4cc59a40,Bilal Muhammad,eb5aa5b9,Hadisullah Tarakhel,77bedcce,0,0,0,0,0,,,,,,1,0,1
+1268189,2021,Belgium,2,Hadisullah Tarakhel,77bedcce,Bilal Muhammad,eb5aa5b9,Said Hakim,4cc59a40,0,0,0,0,0,,,,,,1,0,1
+1268189,2021,Belgium,3,Hadisullah Tarakhel,77bedcce,Washeem Abbas,6de4e430,Said Hakim,4cc59a40,0,0,0,0,0,,,,,,0,0,0
+1268189,2021,Belgium,3,Hadisullah Tarakhel,77bedcce,Washeem Abbas,6de4e430,Said Hakim,4cc59a40,0,0,0,0,0,,,,,,0,0,0
+1268189,2021,Belgium,3,Hadisullah Tarakhel,77bedcce,Washeem Abbas,6de4e430,Said Hakim,4cc59a40,0,0,0,0,0,,,,,,0,0,0
+1268189,2021,Belgium,3,Hadisullah Tarakhel,77bedcce,Washeem Abbas,6de4e430,Said Hakim,4cc59a40,0,0,0,0,0,,,,,,1,0,1
+1268189,2021,Belgium,3,Said Hakim,4cc59a40,Washeem Abbas,6de4e430,Hadisullah Tarakhel,77bedcce,0,0,0,0,0,,,,,,2,0,2
+1268189,2021,Belgium,3,Said Hakim,4cc59a40,Washeem Abbas,6de4e430,Hadisullah Tarakhel,77bedcce,0,0,0,0,0,,,,,,0,0,0
+1268189,2021,Belgium,4,Hadisullah Tarakhel,77bedcce,Amar Sharma,14e1fdab,Said Hakim,4cc59a40,0,0,0,0,0,,,,,,4,0,4
+1268189,2021,Belgium,4,Hadisullah Tarakhel,77bedcce,Amar Sharma,14e1fdab,Said Hakim,4cc59a40,0,0,0,0,0,,,,,,0,0,0
+1268189,2021,Belgium,4,Hadisullah Tarakhel,77bedcce,Amar Sharma,14e1fdab,Said Hakim,4cc59a40,0,0,0,0,0,,,,,,0,0,0
+1268189,2021,Belgium,4,Hadisullah Tarakhel,77bedcce,Amar Sharma,14e1fdab,Said Hakim,4cc59a40,0,0,0,0,0,,,,,,0,0,0
+1268189,2021,Belgium,4,Hadisullah Tarakhel,77bedcce,Amar Sharma,14e1fdab,Said Hakim,4cc59a40,0,0,0,0,0,,,,,,4,0,4
+1268189,2021,Belgium,4,Hadisullah Tarakhel,77bedcce,Amar Sharma,14e1fdab,Said Hakim,4cc59a40,0,0,0,1,0,,,,,,0,1,1
+1268189,2021,Belgium,5,Hadisullah Tarakhel,77bedcce,Washeem Abbas,6de4e430,Said Hakim,4cc59a40,0,0,0,0,0,,,,,,4,0,4
+1268189,2021,Belgium,5,Hadisullah Tarakhel,77bedcce,Washeem Abbas,6de4e430,Said Hakim,4cc59a40,0,0,0,0,0,,,,,,4,0,4
+1268189,2021,Belgium,5,Hadisullah Tarakhel,77bedcce,Washeem Abbas,6de4e430,Said Hakim,4cc59a40,0,0,0,0,0,,,,,,6,0,6
