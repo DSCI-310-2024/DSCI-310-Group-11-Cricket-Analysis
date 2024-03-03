@@ -33,13 +33,13 @@ Our project works on predicting the probability of getting a wicket on a deliver
 **Dependencies needed**:
 - JupyterLab
 - Python and Python Packages:
+    - `numpy`
     - `pandas`
     - `altair`
     - `scikit-learn`
     - `matplotlib`
     - `vegafusion`
     - `vl-convert-python`
-    - `scikit-learn`
 
 ## Licenses
 The License was derived from the MIT License.
