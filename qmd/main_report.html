@@ -6,8 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Alex Lin &amp; Jackson Siemens &amp; Shruti Vijaykumar Seetharam &amp; Hanlin Zhao">
 
-<title>main_report</title>
+<title>DSCI 310 Group 11 Project: Predicting Probability of Wicket on a Delivery in Cricket</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -37,19 +38,49 @@ ul.task-list li input[type="checkbox"] {
 
 </head>
 
-<body class="fullcontent">
+<body>
 
 <div id="quarto-content" class="page-columns page-rows-contents page-layout-article">
-
+<div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+  <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul>
+  <li><a href="#abstract" id="toc-abstract" class="nav-link active" data-scroll-target="#abstract">Abstract</a>
+  <ul>
+  <li><a href="#introduction" id="toc-introduction" class="nav-link" data-scroll-target="#introduction">Introduction</a></li>
+  <li><a href="#methods" id="toc-methods" class="nav-link" data-scroll-target="#methods">Methods</a></li>
+  </ul></li>
+  </ul>
+<div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="../main_report.pdf"><i class="bi bi-file-pdf"></i>PDF</a></li></ul></div></nav>
+</div>
 <main class="content" id="quarto-document-content">
 
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">DSCI 310 Group 11 Project: Predicting Probability of Wicket on a Delivery in Cricket</h1>
+</div>
 
 
 
-<section id="dsci-310-group-11-project-predicting-probability-of-wicket-on-a-delivery-in-cricket" class="level1">
-<h1>DSCI 310 Group 11 Project: Predicting Probability of Wicket on a Delivery in Cricket</h1>
-<hr>
-</section>
+<div class="quarto-title-meta">
+
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Alex Lin &amp; Jackson Siemens &amp; Shruti Vijaykumar Seetharam &amp; Hanlin Zhao </p>
+          </div>
+  </div>
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
 <section id="abstract" class="level1">
 <h1>Abstract</h1>
 <p>Our project aims to predict the probability of a wicket on a delivery in Cricket. We will look at ball-by-ball factors that could potentially affect this probability and see how the wicket probability changes with game conditions. Forecasting methods for cricket use complex regression models as discussed by Asif &amp; McHale (2016), which is why we decided against predicting win probability, a common prediction model used for sports.</p>
@@ -66,6 +97,10 @@ ul.task-list li input[type="checkbox"] {
 <li>Powerplay: A powerplay is when there are fielding restrictions placed on the bowling team, making it harder for them to get a wicket.&nbsp;</li>
 </ol>
 <p>We will be looking at the above factors along with some others to judge what factors may be best for our model in the Exploratory Data Analysis section. We will be reading our data in json files from the <a href="https://cricsheet.org/downloads/">Cricsheet</a> website, and converting it to our desired <code>csv</code> format using the scripts in the <code>cricsheet_json_parsing.ipynb</code> file which can be found in the <code>src</code> folder.</p>
+</section>
+<section id="methods" class="level2">
+<h2 class="anchored" data-anchor-id="methods">Methods</h2>
+<p>Firstly, we will perform some exploratory data analysis on the training data to get a better understanding of the dataset and what relationships there are with our target variable.</p>
 </section>
 </section>
 

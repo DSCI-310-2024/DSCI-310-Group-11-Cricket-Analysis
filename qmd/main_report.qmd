@@ -1,6 +1,36 @@
-# DSCI 310 Group 11 Project: Predicting Probability of Wicket on a Delivery in Cricket
-
 ---
+title: "DSCI 310 Group 11 Project: Predicting Probability of Wicket on a Delivery in Cricket"
+author: "Alex Lin & Jackson Siemens & Shruti Vijaykumar Seetharam & Hanlin Zhao"
+format: 
+    html: 
+    # Additional configuration for table of contents
+        toc: true
+        toc-depth: 4
+    pdf: 
+        toc: true
+        toc-depth: 4
+bibliography: references.bib
+execute: 
+  echo: false
+  warning: false
+editor: source
+---
+
+```{python}  
+import altair as alt
+alt.data_transformers.enable("vegafusion",message = False)
+alt.renderers.enable('mimetype',message = False)
+alt.renderers.enable('jupyterlab',message = False)
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+import sklearn.metrics as metrics
+from sklearn.model_selection import train_test_split, cross_validate
+from sklearn.linear_model import LogisticRegression
+from sklearn.preprocessing import StandardScaler, OneHotEncoder
+from sklearn.pipeline import make_pipeline
+from sklearn.compose import make_column_transformer
+```
 
 # Abstract
 
@@ -23,4 +53,5 @@ We will be looking at the above factors along with some others to judge what fac
 ## Methods
 
 Firstly, we will perform some exploratory data analysis on the training data to get a better understanding of the dataset and what relationships there are with our target variable.
+
 
