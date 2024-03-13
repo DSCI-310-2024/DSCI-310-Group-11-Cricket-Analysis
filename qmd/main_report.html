@@ -24,7 +24,7 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="main_report_files/libs/clipboard/clipboard.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==" crossorigin="anonymous"></script><script src="main_report_files/libs/clipboard/clipboard.min.js"></script>
 <script src="main_report_files/libs/quarto-html/quarto.js"></script>
 <script src="main_report_files/libs/quarto-html/popper.min.js"></script>
 <script src="main_report_files/libs/quarto-html/tippy.umd.min.js"></script>
@@ -34,6 +34,9 @@ ul.task-list li input[type="checkbox"] {
 <script src="main_report_files/libs/bootstrap/bootstrap.min.js"></script>
 <link href="main_report_files/libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="main_report_files/libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.6/require.min.js" integrity="sha512-c3Nl8+7g4LMSTdrm621y7kf9v3SDPnhxLNhcjFJbKECVnmZHTdo+IRO05sNLTH/D3vA6u1X32ehoLC7WFVdheg==" crossorigin="anonymous"></script>
+
+<script type="application/javascript">define('jquery', [],function() {return window.jQuery;})</script>
 
 
 </head>
@@ -127,6 +130,89 @@ Figure&nbsp;2: Distribution of Variables
 <p><strong>Caption:</strong> <a href="#fig-var_dist" class="quarto-xref">Figure&nbsp;1</a> and <a href="#fig-var_dist_2" class="quarto-xref">Figure&nbsp;2</a> bar chart illustrates the distribution of all the variables. Note that the analysis excludes all columns related to “ID” as they are primarily for identification purposes and are unlikely to show significant patterns. It is observed that none of the quantitative attributes follow a normal distribution; most are right-skewed distributions. An interesting finding is noted in the attributes “over” in <a href="#fig-var_dist" class="quarto-xref">Figure&nbsp;1</a>, where the frequency <strong>steadily</strong> decreases with increasing values, suggesting further analysis. Concerning ordinal attributes, we have a significantly higher amount of data from seasons that happened in recent years than in the past.</p>
 <p>In terms of “team” in <a href="#fig-var_dist_2" class="quarto-xref">Figure&nbsp;2</a>, there appear to be more teams from “New Zealand,” “South Africa,” “India,” “West India,” “Pakistan,” “Bangladesh,” “Sri Lanka” “Australia,” and “England” than teams from other countries/regions.</p>
 <p>The attribute”inning” in <a href="#fig-var_dist_2" class="quarto-xref">Figure&nbsp;2</a> doesn’t seem to have a significant difference across the two conditions, however, for “powerplay,” the number of occurrences in condition “0” is approximately twice as high as in condition “1.”</p>
+<div class="cell" data-execution_count="2">
+<div id="tbl-horses_sc" class="cell quarto-float anchored" data-execution_count="2">
+<figure class="quarto-float quarto-float-tbl figure">
+<figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-horses_sc-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Table&nbsp;1: Standard deviation of historical (1906-1972) horse populations for each Canadian province.
+</figcaption>
+<div aria-describedby="tbl-horses_sc-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<div class="cell-output cell-output-display" data-execution_count="8">
+<div>
+<div>
+
+
+<table class="dataframe do-not-create-environment cell table table-sm table-striped small" data-quarto-postprocess="true" data-border="1">
+<thead>
+<tr class="header">
+<th data-quarto-table-cell-role="th"></th>
+<th data-quarto-table-cell-role="th">batter</th>
+<th data-quarto-table-cell-role="th">count</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">0</td>
+<td>ME Trescothick</td>
+<td>123</td>
+</tr>
+<tr class="even">
+<td data-quarto-table-cell-role="th">1</td>
+<td>GC Smith</td>
+<td>73</td>
+</tr>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">2</td>
+<td>RT Ponting</td>
+<td>57</td>
+</tr>
+<tr class="even">
+<td data-quarto-table-cell-role="th">3</td>
+<td>DR Martyn</td>
+<td>53</td>
+</tr>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">4</td>
+<td>PD Collingwood</td>
+<td>50</td>
+</tr>
+<tr class="even">
+<td data-quarto-table-cell-role="th">92</td>
+<td>DR Tuffey</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">93</td>
+<td>T Henderson</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td data-quarto-table-cell-role="th">94</td>
+<td>MS Sinclair</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">95</td>
+<td>SI Mahmood</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td data-quarto-table-cell-role="th">96</td>
+<td>KD Mills</td>
+<td>1</td>
+</tr>
+</tbody>
+</table>
+
+</div>
+</div>
+</div>
+</div>
+</figure>
+</div>
+</div>
+<p>Lastly, regarding nominal attributes, we are seeing an uneven distribution appearance of players(batter, bowler, and non-striker) in this dataset, by using non-striker as an example, some players such as V Kohli appear around 2100 times in this dataset, where other players such as F Bangur only appeared once. Due to such a large number of batters and bowlers in the dataset, we will not be using it in our analysis. To use these attributes, we will also need to create summary statistics for each batters and bowlers, as explained by Dinsdale (2023) which is out of the scope of our project.</p>
+<p>In general, <strong>none of the attributes in our dataset form a normal distribution</strong>, with samples unevenly distributed across categorical attributes. It is important to remember this when training, testing, and interpreting the model, and to appropriately acknowledge this as a potential limitation.</p>
 </section>
 </section>
 

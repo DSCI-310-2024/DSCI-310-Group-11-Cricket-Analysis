@@ -75,19 +75,20 @@ The attribute"inning" in @fig-var_dist_2 doesn't seem to have a significant diff
 #| label: tbl-horses_sc
 #| tbl-cap: Standard deviation of historical (1906-1972) horse populations for each Canadian province.
 
-horses_sd_table = pd.read_csv("../results/horses_sd.csv")
-largest_sd = horses_sd_table['Province'].values[0]
-Markdown(horses_sd_table.to_markdown(index = False))
+train_data = pd.read_csv("../data/train_data.csv")
+
+#Markdown(horses_sd_table.to_markdown(index = False))
 
 
 
 pd.concat([train_data["batter"].value_counts().reset_index().head(5), 
-           train_data["batter"].value_counts().reset_index().tail(5)]).style.set_caption(
-    "Table 3.1: Batter Summary Count").set_table_styles([{
-     'selector': 'caption',
-     'props': 'caption-side: bottom; font-size:1.25em;'
- }], overwrite=False)
- 
+           train_data["batter"].value_counts().reset_index().tail(5)])
+#            .style.set_caption(
+#     "Table 3.1: Batter Summary Count").set_table_styles([{
+#      'selector': 'caption',
+#      'props': 'caption-side: bottom; font-size:1.25em;'
+#  }], overwrite=False)
+
 ```
 
 
@@ -95,4 +96,4 @@ Lastly, regarding nominal attributes, we are seeing an uneven distribution appea
 
 
 
-In general, **none of the attributes in our dataset form a normal distribution**, with samples unevenly distributed across categorical attributes. It is important to remember this when training, testing, and interpreting the model, and to appropriately acknowledge this as a potential limitation. 
+In general, **none of the attributes in our dataset form a normal distribution**, with samples unevenly distributed across categorical attributes. It is important to remember this when training, testing, and interpreting the model, and to appropriately acknowledge this as a potential limitation.  
