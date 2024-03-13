@@ -55,3 +55,8 @@ We will be looking at the above factors along with some others to judge what fac
 Firstly, we will perform some exploratory data analysis on the training data to get a better understanding of the dataset and what relationships there are with our target variable.
 
 
+**Figure 1: Distribution of Sales Data**
+
+![Imagen of A bar chart depicting the distribution of sales data](../images/chart1.png){ #fig-1}
+
+**Caption:** This In @fig-1 bar chart illustrates the distribution of sales data across various product categories. As evident, Category A has the highest sales volume, followed by Category B and Category C.
