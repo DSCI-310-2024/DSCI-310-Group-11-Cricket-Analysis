@@ -21,7 +21,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==" crossorigin="anonymous"></script><script src="main_report_files/libs/clipboard/clipboard.min.js"></script>
@@ -131,13 +151,13 @@ Figure&nbsp;2: Distribution of Variables
 <p>In terms of “team” in <a href="#fig-var_dist_2" class="quarto-xref">Figure&nbsp;2</a>, there appear to be more teams from “New Zealand,” “South Africa,” “India,” “West India,” “Pakistan,” “Bangladesh,” “Sri Lanka” “Australia,” and “England” than teams from other countries/regions.</p>
 <p>The attribute”inning” in <a href="#fig-var_dist_2" class="quarto-xref">Figure&nbsp;2</a> doesn’t seem to have a significant difference across the two conditions, however, for “powerplay,” the number of occurrences in condition “0” is approximately twice as high as in condition “1.”</p>
 <div class="cell" data-execution_count="2">
-<div id="tbl-horses_sc" class="cell quarto-float anchored" data-execution_count="2">
+<div id="tbl-batter" class="cell quarto-float anchored" data-execution_count="2">
 <figure class="quarto-float quarto-float-tbl figure">
-<figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-horses_sc-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-Table&nbsp;1: Standard deviation of historical (1906-1972) horse populations for each Canadian province.
+<figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-batter-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Table&nbsp;1: Batter Summary Count
 </figcaption>
-<div aria-describedby="tbl-horses_sc-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-<div class="cell-output cell-output-display" data-execution_count="8">
+<div aria-describedby="tbl-batter-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<div class="cell-output cell-output-display" data-execution_count="5">
 <div>
 <div>
 
@@ -211,12 +231,98 @@ Table&nbsp;1: Standard deviation of historical (1906-1972) horse populations for
 </figure>
 </div>
 </div>
-<p>Lastly, regarding nominal attributes, we are seeing an uneven distribution appearance of players(batter, bowler, and non-striker) in this dataset, by using non-striker as an example, some players such as V Kohli appear around 2100 times in this dataset, where other players such as F Bangur only appeared once. Due to such a large number of batters and bowlers in the dataset, we will not be using it in our analysis. To use these attributes, we will also need to create summary statistics for each batters and bowlers, as explained by Dinsdale (2023) which is out of the scope of our project.</p>
+<div class="cell" data-execution_count="3">
+<div id="tbl-bowler" class="cell quarto-float anchored" data-execution_count="3">
+<figure class="quarto-float quarto-float-tbl figure">
+<figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-bowler-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Table&nbsp;2: Bowler Summary Count
+</figcaption>
+<div aria-describedby="tbl-bowler-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<div class="cell-output cell-output-display" data-execution_count="6">
+<div>
+<div>
+
+
+<table class="dataframe do-not-create-environment cell table table-sm table-striped small" data-quarto-postprocess="true" data-border="1">
+<thead>
+<tr class="header">
+<th data-quarto-table-cell-role="th"></th>
+<th data-quarto-table-cell-role="th">bowler</th>
+<th data-quarto-table-cell-role="th">count</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">0</td>
+<td>B Lee</td>
+<td>62</td>
+</tr>
+<tr class="even">
+<td data-quarto-table-cell-role="th">1</td>
+<td>GD McGrath</td>
+<td>58</td>
+</tr>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">2</td>
+<td>A Symonds</td>
+<td>56</td>
+</tr>
+<tr class="even">
+<td data-quarto-table-cell-role="th">3</td>
+<td>MS Kasprowicz</td>
+<td>45</td>
+</tr>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">4</td>
+<td>D Gough</td>
+<td>44</td>
+</tr>
+<tr class="even">
+<td data-quarto-table-cell-role="th">68</td>
+<td>GC Smith</td>
+<td>8</td>
+</tr>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">69</td>
+<td>TM Dilshan</td>
+<td>8</td>
+</tr>
+<tr class="even">
+<td data-quarto-table-cell-role="th">70</td>
+<td>LPC Silva</td>
+<td>6</td>
+</tr>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">71</td>
+<td>JH Kallis</td>
+<td>5</td>
+</tr>
+<tr class="even">
+<td data-quarto-table-cell-role="th">72</td>
+<td>DPMD Jayawardene</td>
+<td>4</td>
+</tr>
+</tbody>
+</table>
+
+</div>
+</div>
+</div>
+</div>
+</figure>
+</div>
+</div>
+<p>Lastly, regarding nominal attributes, we are seeing an uneven distribution appearance of players(batter, bowler, and non-striker) in this dataset, by using non-striker as an example, some players such as V Kohli appear around 2100 times in this dataset according to <a href="#tbl-batter" class="quarto-xref">Table&nbsp;1</a>, where other players such as F Bangur only appeared once. Due to such a large number of batters(<a href="#tbl-batter" class="quarto-xref">Table&nbsp;1</a>) and bowlers(<a href="#tbl-bowler" class="quarto-xref">Table&nbsp;2</a>) in the dataset, we will not be using it in our analysis. To use these attributes, we will also need to create summary statistics for each batters and bowlers, as explained by <span class="citation" data-cites="dinsdale2023explaining">Dinsdale (<a href="#ref-dinsdale2023explaining" role="doc-biblioref">2023</a>)</span> which is out of the scope of our project.</p>
 <p>In general, <strong>none of the attributes in our dataset form a normal distribution</strong>, with samples unevenly distributed across categorical attributes. It is important to remember this when training, testing, and interpreting the model, and to appropriately acknowledge this as a potential limitation.</p>
+
 </section>
 </section>
 
-</main>
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-dinsdale2023explaining" class="csl-entry" role="listitem">
+Dinsdale, David. 2023. <span>“Explaining Next Ball Probability in Cricket.”</span> 2023. <a href="https://theanalyst.com/na/2022/10/opta-next-ball-predictor/">https://theanalyst.com/na/2022/10/opta-next-ball-predictor/</a>.
+</div>
+</div></section></div></main>
 <!-- /main column -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {

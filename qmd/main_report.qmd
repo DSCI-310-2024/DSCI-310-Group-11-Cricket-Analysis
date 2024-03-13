@@ -72,27 +72,23 @@ The attribute"inning" in @fig-var_dist_2 doesn't seem to have a significant diff
 
 
 ```{python}
-#| label: tbl-horses_sc
-#| tbl-cap: Standard deviation of historical (1906-1972) horse populations for each Canadian province.
-
+#| label: tbl-batter
+#| tbl-cap: Batter Summary Count
 train_data = pd.read_csv("../data/train_data.csv")
-
-#Markdown(horses_sd_table.to_markdown(index = False))
-
-
-
 pd.concat([train_data["batter"].value_counts().reset_index().head(5), 
            train_data["batter"].value_counts().reset_index().tail(5)])
-#            .style.set_caption(
-#     "Table 3.1: Batter Summary Count").set_table_styles([{
-#      'selector': 'caption',
-#      'props': 'caption-side: bottom; font-size:1.25em;'
-#  }], overwrite=False)
+```
 
+```{python}
+#| label: tbl-bowler
+#| tbl-cap: Bowler Summary Count
+pd.concat([train_data["bowler"].value_counts().reset_index().head(5), 
+           train_data["bowler"].value_counts().reset_index().tail(5)])
 ```
 
 
-Lastly, regarding nominal attributes, we are seeing an uneven distribution appearance of players(batter, bowler, and non-striker) in this dataset, by using non-striker as an example, some players such as V Kohli appear around 2100 times in this dataset, where other players such as F Bangur only appeared once.  Due to such a large number of batters and bowlers in the dataset, we will not be using it in our analysis. To use these attributes, we will also need to create summary statistics for each batters and bowlers, as explained by Dinsdale (2023) which is out of the scope of our project.
+
+Lastly, regarding nominal attributes, we are seeing an uneven distribution appearance of players(batter, bowler, and non-striker) in this dataset, by using non-striker as an example, some players such as V Kohli appear around 2100 times in this dataset according to @tbl-batter, where other players such as F Bangur only appeared once.  Due to such a large number of batters(@tbl-batter) and bowlers(@tbl-bowler) in the dataset, we will not be using it in our analysis. To use these attributes, we will also need to create summary statistics for each batters and bowlers, as explained by @dinsdale2023explaining which is out of the scope of our project.
 
 
 
