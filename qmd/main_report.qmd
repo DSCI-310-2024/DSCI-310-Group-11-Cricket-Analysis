@@ -1,0 +1,26 @@
+# DSCI 310 Group 11 Project: Predicting Probability of Wicket on a Delivery in Cricket
+
+---
+
+# Abstract
+
+Our project aims to predict the probability of a wicket on a delivery in Cricket. We will look at ball-by-ball factors that could potentially affect this probability and see how the wicket probability changes with game conditions. Forecasting methods for cricket use complex regression models as discussed by Asif & McHale (2016), which is why we decided against predicting win probability, a common prediction model used for sports.
+
+## Introduction
+
+Cricket is a bat and ball sport involving two teams of eleven players each. Originating in the 16th century, Cricket today is commonly played in three formats: Tests, One Day Internationals and T20 Internationals. Our analysis will be specifically focusing on T20 International games and looking at the conditions of those games to analyze our prediction probability. In a T20 game, one team will bat first and set a target number of runs in 20 overs or until 10 wickets are lost. The other team will bat second, and to win the game, they must exceed the target set by the second team in 20 overs or less. Each of the 11 players in the team will need to bat as more wickets are lost, but some bat more often than others, given all wickets are not always lost. Only some players are bowlers. There are multiple different ways of getting a wicket, and these can be affected by the following factors:
+
+1. Bowler: The skill of a bowler can affect the probability
+2. Batter: Similarly, the skill of a batter can affect the probability
+3. Inning: Determines which team is batting and bowling
+4. Over: An over consists of 6 deliveries thrown by the bowler from one end of the pitch to the batter on the other end. The over can determine how much risk a batter is willing to take with his next ball.
+5. Ball in the over: The specific delivery in the over. Batters are more likely to take risks towards the end of an over compared to the beginning.
+6. Runs scored till now: Looks at the amount of runs scored in the inning up until the current ball. Fewer runs scored may mean the batter is more likely to take risks in order to get more.
+7. Powerplay: A powerplay is when there are fielding restrictions placed on the bowling team, making it harder for them to get a wicket. 
+
+We will be looking at the above factors along with some others to judge what factors may be best for our model in the Exploratory Data Analysis section. We will be reading our data in json files from the [Cricsheet](https://cricsheet.org/downloads/) website, and converting it to our desired `csv` format using the scripts in the `cricsheet_json_parsing.ipynb` file which can be found in the `src` folder.
+
+## Methods
+
+Firstly, we will perform some exploratory data analysis on the training data to get a better understanding of the dataset and what relationships there are with our target variable.
+
