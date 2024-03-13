@@ -54,9 +54,45 @@ We will be looking at the above factors along with some others to judge what fac
 
 Firstly, we will perform some exploratory data analysis on the training data to get a better understanding of the dataset and what relationships there are with our target variable.
 
+The dataset contains 28 columns and 510652 observations related to cricket. The ratio of quantitative to categorical (ordinal and nominal) data is approximately 50:50. Note that the columns **player_out, player_out_id, fielder_name, fielders_id, and wicket_type** show a significant amount of missing values. Player_out and player_out_id may be missing due to inapplicability (e.g., no one is out), which results in fielder_name, fielder_id, and wicket_type being invalid in these observations. Thus, these missing data are likely classified as **missing at random(MAR)**. Given the complexity of imputing these values, they are unlikely to be included in our further analysis.
 
-**Figure 1: Distribution of Sales Data**
+Note that, among the 28 columns, there were few attributes generated based on existing columns, and they are "over_ball", "inning", "runs_cumulative", and "powerplay". Although they are all integers, it is important to note that, only "overball" and "runs_cumulative" are quantitative, whereas "inning" and "powerplay" are categorical. Detailed calculations of these attributes are in the `cricsheet-json-parsing.ipynb` file. 
 
-![Imagen of A bar chart depicting the distribution of sales data](../images/chart1.png){ #fig-1}
+** Distribution of Variables**
 
-**Caption:** This In @fig-1 bar chart illustrates the distribution of sales data across various product categories. As evident, Category A has the highest sales volume, followed by Category B and Category C.
+![Distribution of Variables](../images/chart1.png){#fig-var_dist}
+
+![Distribution of Variables](../images/chart2.png){#fig-var_dist_2}
+
+**Caption:**  @fig-var_dist and @fig-var_dist_2 bar chart illustrates the distribution of all the variables. Note that the analysis excludes all columns related to "ID" as they are primarily for identification purposes and are unlikely to show significant patterns. It is observed that none of the quantitative attributes follow a normal distribution; most are right-skewed distributions. An interesting finding is noted in the attributes "over" in @fig-var_dist, where the frequency **steadily** decreases with increasing values, suggesting further analysis. Concerning ordinal attributes, we have a significantly higher amount of data from seasons that happened in recent years than in the past. 
+
+In terms of "team" in @fig-var_dist_2, there appear to be more teams from "New Zealand," "South Africa," "India," "West India," "Pakistan," "Bangladesh," "Sri Lanka"  "Australia," and "England" than teams from other countries/regions. 
+
+The attribute"inning" in @fig-var_dist_2 doesn't seem to have a significant difference across the two conditions, however, for "powerplay," the number of occurrences in condition "0" is approximately twice as high as in condition "1."
+
+
+```{python}
+#| label: tbl-horses_sc
+#| tbl-cap: Standard deviation of historical (1906-1972) horse populations for each Canadian province.
+
+horses_sd_table = pd.read_csv("../results/horses_sd.csv")
+largest_sd = horses_sd_table['Province'].values[0]
+Markdown(horses_sd_table.to_markdown(index = False))
+
+
+
+pd.concat([train_data["batter"].value_counts().reset_index().head(5), 
+           train_data["batter"].value_counts().reset_index().tail(5)]).style.set_caption(
+    "Table 3.1: Batter Summary Count").set_table_styles([{
+     'selector': 'caption',
+     'props': 'caption-side: bottom; font-size:1.25em;'
+ }], overwrite=False)
+ 
+```
+
+
+Lastly, regarding nominal attributes, we are seeing an uneven distribution appearance of players(batter, bowler, and non-striker) in this dataset, by using non-striker as an example, some players such as V Kohli appear around 2100 times in this dataset, where other players such as F Bangur only appeared once.  Due to such a large number of batters and bowlers in the dataset, we will not be using it in our analysis. To use these attributes, we will also need to create summary statistics for each batters and bowlers, as explained by Dinsdale (2023) which is out of the scope of our project.
+
+
+
+In general, **none of the attributes in our dataset form a normal distribution**, with samples unevenly distributed across categorical attributes. It is important to remember this when training, testing, and interpreting the model, and to appropriately acknowledge this as a potential limitation. 
