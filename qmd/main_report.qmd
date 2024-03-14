@@ -140,9 +140,9 @@ We can see that there is a much higher proportion of wickets during the powerpla
 
 Similarly, the distribution from @fig-over_count_wicket above shows us that towards the end of the game, there are significantly less wickets than in the first few overs, which suggests that the variable `Over` could be used for our model as well.
 
-```{python}
-#![Wicket count across innings](../images/chart5.png){#fig-inning_count_wicket}
-```
+
+![Wicket count across innings](../images/chart5.png){#fig-inning_count_wicket}
+
 
 
 
@@ -150,9 +150,7 @@ Similarly, the distribution from @fig-over_count_wicket above shows us that towa
 The above plot @fig-inning_count_wicket indicates that there are significantly more wickets in the first innings than the second. This could be attributed to the fact that in the second innings, batters are more likely to come in with a plan as they have a target in mind to chase and they are less likely to take risks. It is also possible that the number of wickets in the second innings is lower since the teams may not play the full second innings if they reach the target before that. So, this is a variable we will take into consideration when building our model.
 
 
-```{python}
-#![Wicket Probability Density by Cumulative runs scored in current innings](../images/chart6.png){#fig-runs_cumulative}
-```
+![Wicket Probability Density by Cumulative runs scored in current innings](../images/chart6.png){#fig-runs_cumulative}
 
 From the @fig-runs_cumulative, there does not seem to be too much of a relationship between the runs scored so far and whether there is a wicket or not, except when the runs are greater than 100. At this point, it is more likely to be a wicket.
 
@@ -174,8 +172,10 @@ The hyperparameter we are looking at in Logistic Regression is $C$. We will be t
 #Hyperparameter_table = pd.read_csv("../images/Hyperparameter.csv")
 #Hyperparameter_table
 ```
+
 We are choosing a $C$ of $\sqrt{10}$ as it overfits the least according to @tbl-Hyperparameter.
 
+![Distribution of Variables](../images/chart7.png){#fig-Confusion_Matrix}
 
 # Discussion
 

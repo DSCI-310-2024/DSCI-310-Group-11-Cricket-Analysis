@@ -203,7 +203,7 @@ Figure&nbsp;2: Distribution of Variables
 Table&nbsp;1: Batter Summary Count
 </figcaption>
 <div aria-describedby="tbl-non_striker-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-<div class="cell-output cell-output-display" data-execution_count="2">
+<div class="cell-output cell-output-display" data-execution_count="9">
 <div>
 <div>
 
@@ -284,7 +284,7 @@ Table&nbsp;1: Batter Summary Count
 Table&nbsp;2: Batter Summary Count
 </figcaption>
 <div aria-describedby="tbl-batter-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-<div class="cell-output cell-output-display" data-execution_count="3">
+<div class="cell-output cell-output-display" data-execution_count="10">
 <div>
 <div>
 
@@ -365,7 +365,7 @@ Table&nbsp;2: Batter Summary Count
 Table&nbsp;3: Bowler Summary Count
 </figcaption>
 <div aria-describedby="tbl-bowler-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-<div class="cell-output cell-output-display" data-execution_count="4">
+<div class="cell-output cell-output-display" data-execution_count="11">
 <div>
 <div>
 
@@ -475,8 +475,28 @@ Figure&nbsp;4: Wicket count across overs
 </figure>
 </div>
 <p>Similarly, the distribution from <a href="#fig-over_count_wicket" class="quarto-xref">Figure&nbsp;4</a> above shows us that towards the end of the game, there are significantly less wickets than in the first few overs, which suggests that the variable <code>Over</code> could be used for our model as well.</p>
-<p>The above plot <strong>?@fig-inning_count_wicket</strong> indicates that there are significantly more wickets in the first innings than the second. This could be attributed to the fact that in the second innings, batters are more likely to come in with a plan as they have a target in mind to chase and they are less likely to take risks. It is also possible that the number of wickets in the second innings is lower since the teams may not play the full second innings if they reach the target before that. So, this is a variable we will take into consideration when building our model.</p>
-<p>From the <strong>?@fig-runs_cumulative</strong>, there does not seem to be too much of a relationship between the runs scored so far and whether there is a wicket or not, except when the runs are greater than 100. At this point, it is more likely to be a wicket.</p>
+<div id="fig-inning_count_wicket" class="quarto-figure quarto-figure-center quarto-float anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-inning_count_wicket-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="../images/chart5.png" class="img-fluid figure-img">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-inning_count_wicket-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;5: Wicket count across innings
+</figcaption>
+</figure>
+</div>
+<p>The above plot <a href="#fig-inning_count_wicket" class="quarto-xref">Figure&nbsp;5</a> indicates that there are significantly more wickets in the first innings than the second. This could be attributed to the fact that in the second innings, batters are more likely to come in with a plan as they have a target in mind to chase and they are less likely to take risks. It is also possible that the number of wickets in the second innings is lower since the teams may not play the full second innings if they reach the target before that. So, this is a variable we will take into consideration when building our model.</p>
+<div id="fig-runs_cumulative" class="quarto-figure quarto-figure-center quarto-float anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-runs_cumulative-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="../images/chart6.png" class="img-fluid figure-img">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-runs_cumulative-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;6: Wicket Probability Density by Cumulative runs scored in current innings
+</figcaption>
+</figure>
+</div>
+<p>From the <a href="#fig-runs_cumulative" class="quarto-xref">Figure&nbsp;6</a>, there does not seem to be too much of a relationship between the runs scored so far and whether there is a wicket or not, except when the runs are greater than 100. At this point, it is more likely to be a wicket.</p>
 </section>
 </section>
 <section id="model-building" class="level2">
@@ -487,6 +507,16 @@ Figure&nbsp;4: Wicket count across overs
 <h3 class="anchored" data-anchor-id="hyperparameter-optimization">Hyperparameter Optimization</h3>
 <p>The hyperparameter we are looking at in Logistic Regression is <span class="math inline">\(C\)</span>. We will be testing for 5 different values of <span class="math inline">\(C\)</span> and looking at which gives us ideal cross-validation and training scores.</p>
 <p>We are choosing a <span class="math inline">\(C\)</span> of <span class="math inline">\(\sqrt{10}\)</span> as it overfits the least according to <strong>?@tbl-Hyperparameter</strong>.</p>
+<div id="fig-Confusion_Matrix" class="quarto-figure quarto-figure-center quarto-float anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-Confusion_Matrix-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="../images/chart7.png" class="img-fluid figure-img">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-Confusion_Matrix-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;7: Distribution of Variables
+</figcaption>
+</figure>
+</div>
 </section>
 </section>
 </section>
