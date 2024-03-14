@@ -54,6 +54,8 @@ We will be looking at the above factors along with some others to judge what fac
 
 Firstly, we will perform some exploratory data analysis on the training data to get a better understanding of the dataset and what relationships there are with our target variable.
 
+### Exploratory Data Analysis
+
 The dataset contains 28 columns and 510652 observations related to cricket. The ratio of quantitative to categorical (ordinal and nominal) data is approximately 50:50. Note that the columns **player_out, player_out_id, fielder_name, fielders_id, and wicket_type** show a significant amount of missing values. Player_out and player_out_id may be missing due to inapplicability (e.g., no one is out), which results in fielder_name, fielder_id, and wicket_type being invalid in these observations. Thus, these missing data are likely classified as **missing at random(MAR)**. Given the complexity of imputing these values, they are unlikely to be included in our further analysis.
 
 Note that, among the 28 columns, there were few attributes generated based on existing columns, and they are "over_ball", "inning", "runs_cumulative", and "powerplay". Although they are all integers, it is important to note that, only "overball" and "runs_cumulative" are quantitative, whereas "inning" and "powerplay" are categorical. Detailed calculations of these attributes are in the `cricsheet-json-parsing.ipynb` file. 
@@ -64,17 +66,25 @@ Note that, among the 28 columns, there were few attributes generated based on ex
 
 ![Distribution of Variables](../images/chart2.png){#fig-var_dist_2}
 
-**Caption:**  @fig-var_dist and @fig-var_dist_2 bar chart illustrates the distribution of all the variables. Note that the analysis excludes all columns related to "ID" as they are primarily for identification purposes and are unlikely to show significant patterns. It is observed that none of the quantitative attributes follow a normal distribution; most are right-skewed distributions. An interesting finding is noted in the attributes "over" in @fig-var_dist, where the frequency **steadily** decreases with increasing values, suggesting further analysis. Concerning ordinal attributes, we have a significantly higher amount of data from seasons that happened in recent years than in the past. 
+**Caption:**  @fig-var_dist and @fig-var_dist_2 bar chart illustrates the distribution of all the variables. Note that the analysis excludes all columns related to `ID` as they are primarily for identification purposes and are unlikely to show significant patterns. It is observed that none of the quantitative attributes follow a normal distribution; most are right-skewed distributions. An interesting finding is noted in the attributes `over` in @fig-var_dist, where the frequency **steadily** decreases with increasing values, suggesting further analysis. Concerning ordinal attributes, we have a significantly higher amount of data from seasons that happened in recent years than in the past. 
 
-In terms of "team" in @fig-var_dist_2, there appear to be more teams from "New Zealand," "South Africa," "India," "West India," "Pakistan," "Bangladesh," "Sri Lanka"  "Australia," and "England" than teams from other countries/regions. 
+In terms of `team` in @fig-var_dist_2, there appear to be more teams from "New Zealand," "South Africa," "India," "West India," "Pakistan," "Bangladesh," "Sri Lanka"  "Australia," and "England" than teams from other countries/regions. 
 
-The attribute"inning" in @fig-var_dist_2 doesn't seem to have a significant difference across the two conditions, however, for "powerplay," the number of occurrences in condition "0" is approximately twice as high as in condition "1."
+The attribute `inning` in @fig-var_dist_2 doesn't seem to have a significant difference across the two conditions, however, for `powerplay`, the number of occurrences in condition "0" is approximately twice as high as in condition "1."
+
+
+```{python}
+#| label: tbl-non_striker
+#| tbl-cap: Batter Summary Count
+train_data = pd.read_csv("../data/train_data.csv")
+pd.concat([train_data["non_striker"].value_counts().reset_index().head(5), 
+           train_data["non_striker"].value_counts().reset_index().tail(5)])
+```
 
 
 ```{python}
 #| label: tbl-batter
 #| tbl-cap: Batter Summary Count
-train_data = pd.read_csv("../data/train_data.csv")
 pd.concat([train_data["batter"].value_counts().reset_index().head(5), 
            train_data["batter"].value_counts().reset_index().tail(5)])
 ```
@@ -88,8 +98,67 @@ pd.concat([train_data["bowler"].value_counts().reset_index().head(5),
 
 
 
-Lastly, regarding nominal attributes, we are seeing an uneven distribution appearance of players(batter, bowler, and non-striker) in this dataset, by using non-striker as an example, some players such as V Kohli appear around 2100 times in this dataset according to @tbl-batter, where other players such as F Bangur only appeared once.  Due to such a large number of batters(@tbl-batter) and bowlers(@tbl-bowler) in the dataset, we will not be using it in our analysis. To use these attributes, we will also need to create summary statistics for each batters and bowlers, as explained by @dinsdale2023explaining which is out of the scope of our project.
+Lastly, regarding nominal attributes, we are seeing an uneven distribution appearance of players(`batter`, `bowler`, and `non-striker`) in this dataset, by using non-striker as an example, some players such as V Kohli appear around 2100 times in this dataset according to @tbl-non_striker, where other players such as F Bangur only appeared once.  Due to such a large number of batters(@tbl-batter) and bowlers(@tbl-bowler) in the dataset, we will not be using it in our analysis. To use these attributes, we will also need to create summary statistics for each batters and bowlers, as explained by @dinsdale2023explaining which is out of the scope of our project.
 
 
 
 In general, **none of the attributes in our dataset form a normal distribution**, with samples unevenly distributed across categorical attributes. It is important to remember this when training, testing, and interpreting the model, and to appropriately acknowledge this as a potential limitation.  
+
+### Multivariate Analysis - Correlation Analysis
+
+
+
+
+
+
+![Correlation Matrix](../images/chart3.png){#fig-Correlation_Matrix}
+
+Among the quantitative attributes in @fig-Correlation_Matrix, 5 pairs of relationship are above the threshold of weak correlation(**|r| > 0.3**), and they are: 
+
+1. **batter_total & run_total(r = 0.97)**
+2. **over & runs_cumulative(r = 0.87)**
+3. **wides & runs_extras(r = 0.76)**
+5. **legbyes & runs_extras(r = 0.46)**
+8. **byes & runs_extra(r = 0.38)**
+
+Note that, using Pearson's r might not be able to capture non-linear relationships that potentially exist among these relationships.
+
+
+```{python}
+#| label: tbl-wicket_count_powerplay
+#| tbl-cap:  Wicket Count based off of Powerplay
+#pd.DataFrame(train_data.groupby('powerplay')['wicket'].value_counts())
+```
+
+
+
+We can see that there is a much higher proportion of wickets during the powerplay (approximately 31% are wickets compared to only around 6% in non-powerplay conditions) in @tbl-wicket_count_powerplay. This could be attributed to players taking more risks since there are more fielding restrictions in the powerplay [@bhattacharjee2016impact]. While most of the game is in the powerplay, and there is a class imbalance, this suggests that the powerplay does affect the chances of a wicket.
+
+![Wicket count across overs](../images/chart4.png){#fig-over_count_wicket}
+
+
+
+Similarly, the distribution from @fig-over_count_wicket above shows us that towards the end of the game, there are significantly less wickets than in the first few overs, which suggests that the variable `Over` could be used for our model as well.
+
+```{python}
+#![Wicket count across innings](../images/chart5.png){#fig-inning_count_wicket}
+```
+
+
+
+
+The above plot @fig-inning_count_wicket indicates that there are significantly more wickets in the first innings than the second. This could be attributed to the fact that in the second innings, batters are more likely to come in with a plan as they have a target in mind to chase and they are less likely to take risks. It is also possible that the number of wickets in the second innings is lower since the teams may not play the full second innings if they reach the target before that. So, this is a variable we will take into consideration when building our model.
+
+
+```{python}
+#![Wicket Probability Density by Cumulative runs scored in current innings](../images/chart6.png){#fig-runs_cumulative}
+```
+
+From the @fig-runs_cumulative, there does not seem to be too much of a relationship between the runs scored so far and whether there is a wicket or not, except when the runs are greater than 100. At this point, it is more likely to be a wicket.
+
+
+## Model Building
+
+Next, we will use the relationships we found above to build our model. The variables we will be looking at are `inning`, `over`, `powerplay`, `over_ball` and `runs_cumulative`. We will perform preprocessing on our datasets using one-hot encoding on our categorical variables. While there is only one numerical variable, we will still create a scaler in case we look to add other variables later in our analysis. 
+
+We are going to create a Logistic Regression Model for this analysis. We decided against K-NN classification as there is class imbalance and even if we balance our classes by oversampling, our accuracy will decrease using a nearest neighbours methodology. We will be using a pipeline to fit our data.
