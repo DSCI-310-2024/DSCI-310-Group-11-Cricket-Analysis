@@ -58,6 +58,35 @@ div.csl-indent {
 
 <script type="application/javascript">define('jquery', [],function() {return window.jQuery;})</script>
 
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -77,6 +106,17 @@ div.csl-indent {
   <li><a href="#exploratory-data-analysis" id="toc-exploratory-data-analysis" class="nav-link" data-scroll-target="#exploratory-data-analysis">Exploratory Data Analysis</a></li>
   <li><a href="#multivariate-analysis---correlation-analysis" id="toc-multivariate-analysis---correlation-analysis" class="nav-link" data-scroll-target="#multivariate-analysis---correlation-analysis">Multivariate Analysis - Correlation Analysis</a></li>
   </ul></li>
+  <li><a href="#model-building" id="toc-model-building" class="nav-link" data-scroll-target="#model-building">Model Building</a>
+  <ul class="collapse">
+  <li><a href="#hyperparameter-optimization" id="toc-hyperparameter-optimization" class="nav-link" data-scroll-target="#hyperparameter-optimization">Hyperparameter Optimization</a></li>
+  </ul></li>
+  </ul></li>
+  <li><a href="#discussion" id="toc-discussion" class="nav-link" data-scroll-target="#discussion">Discussion</a>
+  <ul>
+  <li><a href="#summary-of-results" id="toc-summary-of-results" class="nav-link" data-scroll-target="#summary-of-results">Summary of Results</a></li>
+  <li><a href="#unexpected-findings" id="toc-unexpected-findings" class="nav-link" data-scroll-target="#unexpected-findings">Unexpected Findings</a></li>
+  <li><a href="#impact-of-findings" id="toc-impact-of-findings" class="nav-link" data-scroll-target="#impact-of-findings">Impact of Findings</a></li>
+  <li><a href="#future-questions-and-work" id="toc-future-questions-and-work" class="nav-link" data-scroll-target="#future-questions-and-work">Future Questions and Work</a></li>
   </ul></li>
   </ul>
 <div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="../main_report.pdf"><i class="bi bi-file-pdf"></i>PDF</a></li></ul></div></nav>
@@ -435,10 +475,58 @@ Figure&nbsp;4: Wicket count across overs
 </figure>
 </div>
 <p>Similarly, the distribution from <a href="#fig-over_count_wicket" class="quarto-xref">Figure&nbsp;4</a> above shows us that towards the end of the game, there are significantly less wickets than in the first few overs, which suggests that the variable <code>Over</code> could be used for our model as well.</p>
-<p>The above plot indicates that there are significantly more wickets in the first innings than the second. This could be attributed to the fact that in the second innings, batters are more likely to come in with a plan as they have a target in mind to chase and they are less likely to take risks. It is also possible that the number of wickets in the second innings is lower since the teams may not play the full second innings if they reach the target before that. So, this is a variable we will take into consideration when building our model.</p>
-<p>There does not seem to be too much of a relationship between the runs scored so far and whether there is a wicket or not, except when the runs are greater than 100. At this point, it is more likely to be a wicket.</p>
-
+<p>The above plot <strong>?@fig-inning_count_wicket</strong> indicates that there are significantly more wickets in the first innings than the second. This could be attributed to the fact that in the second innings, batters are more likely to come in with a plan as they have a target in mind to chase and they are less likely to take risks. It is also possible that the number of wickets in the second innings is lower since the teams may not play the full second innings if they reach the target before that. So, this is a variable we will take into consideration when building our model.</p>
+<p>From the <strong>?@fig-runs_cumulative</strong>, there does not seem to be too much of a relationship between the runs scored so far and whether there is a wicket or not, except when the runs are greater than 100. At this point, it is more likely to be a wicket.</p>
 </section>
+</section>
+<section id="model-building" class="level2">
+<h2 class="anchored" data-anchor-id="model-building">Model Building</h2>
+<p>Next, we will use the relationships we found above to build our model. The variables we will be looking at are <code>inning</code>, <code>over</code>, <code>powerplay</code>, <code>over_ball</code> and <code>runs_cumulative</code>. We will perform preprocessing on our datasets using one-hot encoding on our categorical variables. While there is only one numerical variable, we will still create a scaler in case we look to add other variables later in our analysis.</p>
+<p>We are going to create a Logistic Regression Model for this analysis. We decided against K-NN classification as there is class imbalance and even if we balance our classes by oversampling, our accuracy will decrease using a nearest neighbours methodology. We will be using a pipeline to fit our data.</p>
+<section id="hyperparameter-optimization" class="level3">
+<h3 class="anchored" data-anchor-id="hyperparameter-optimization">Hyperparameter Optimization</h3>
+<p>The hyperparameter we are looking at in Logistic Regression is <span class="math inline">\(C\)</span>. We will be testing for 5 different values of <span class="math inline">\(C\)</span> and looking at which gives us ideal cross-validation and training scores.</p>
+<p>We are choosing a <span class="math inline">\(C\)</span> of <span class="math inline">\(\sqrt{10}\)</span> as it overfits the least according to <strong>?@tbl-Hyperparameter</strong>.</p>
+</section>
+</section>
+</section>
+<section id="discussion" class="level1">
+<h1>Discussion</h1>
+<section id="summary-of-results" class="level2">
+<h2 class="anchored" data-anchor-id="summary-of-results">Summary of Results</h2>
+<ol type="1">
+<li>Explorational Data Analysis: The exploration revealed several key insights that influence model building and interpretation. For example, the analysis shows the vast difference in player occurrences.</li>
+<li>Model Building and Selection: Based on the EDA findings, five features: Inning, over, powerplay, over_ball, and runs_cumulative were chosen based on the statistical relationships.One-hot encoding was applied for categorical variables to avoid introducing bias during model training.Finally, <strong>Logistic Regression</strong> was made due to the binary nature of the target variable (wicket or no wicket).Considering the potential drawbacks of class imbalance, the K-Nearest Neighbors (KNN) is not recommended.</li>
+<li>Hyperparameter Optimization: Tuning the regularization parameter (C) of the Logistic Regression model to find the optimal balance between underfitting and overfitting. Testing various C values through cross-validation ensures the model generalizes well to unseen data.</li>
+</ol>
+</section>
+<section id="unexpected-findings" class="level2">
+<h2 class="anchored" data-anchor-id="unexpected-findings">Unexpected Findings</h2>
+<ul>
+<li><strong>Non-normality:</strong> The extent of non-normality data across various features is unexpected. This highlights the importance of data exploration before model building.</li>
+<li><strong>Seasonal effect:</strong> The temporal bias towards recent seasons might not be anticipated, requiring adjustments to ensure generalizability.</li>
+</ul>
+</section>
+<section id="impact-of-findings" class="level2">
+<h2 class="anchored" data-anchor-id="impact-of-findings">Impact of Findings</h2>
+<p>These findings have several potential impacts:</p>
+<ul>
+<li><strong>Model development:</strong> Understanding the distribution patterns and biases is crucial for choosing appropriate modeling techniques, interpreting outcomes, and guiding future data collection efforts.</li>
+<li><strong>Generalizability:</strong> Addressing non-normality and temporal bias is essential for creating models that perform well on data beyond the training set.</li>
+<li><strong>Player analysis:</strong> Exploring model results can unlock valuable insights into individual player performance and interaction with other factors influencing wicket probability.</li>
+<li><strong>Cricket analytics:</strong> The model’s insights can inform cricket analysts and fans about factors that influence wicket probabilities, leading to better predictions and understanding of the game.</li>
+</ul>
+</section>
+<section id="future-questions-and-work" class="level2">
+<h2 class="anchored" data-anchor-id="future-questions-and-work">Future Questions and Work</h2>
+<p>These findings lead to several compelling questions for future research:</p>
+<ul>
+<li><strong>Addressing non-normality:</strong> How can we effectively transform the data (e.g., log transformation)or utilize specific algorithms to improve model performance in the presence of <em>non-normal distributions</em>?</li>
+<li><strong>Mitigating temporal bias:</strong> What data augmentation techniques or alternative approaches can be used to ensure the model generalizes well across different time periods? Mitigating this bias are necessary for broader applicability.</li>
+</ul>
+<p>And the future work includes: - <strong>Feature engineering:</strong> Explore creating additional features or transformations of existing ones to capture more aspects of the game and potentially improve model performance. - <strong>Extra information:</strong> Marshall et al.&nbsp;(2024) also discuss how pitch conditions could affect the possibility of a wicket. Having this data would help improve our model significantly. - <strong>Model performance evaluation:</strong> Evaluate model perform on test data using appropriate classification performance metrics (e.g., F1-score, ROC AUC) and compare it with other potential models to identify the best approach for the task.</p>
+<p>By addressing these questions, future research can build upon the current findings and develop even more robust and insightful models for predicting wicket probabilities in T20 cricket.</p>
+
 </section>
 </section>
 

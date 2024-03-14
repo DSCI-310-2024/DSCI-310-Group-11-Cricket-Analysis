@@ -127,7 +127,7 @@ Note that, using Pearson's r might not be able to capture non-linear relationshi
 ```{python}
 #| label: tbl-wicket_count_powerplay
 #| tbl-cap:  Wicket Count based off of Powerplay
-#pd.DataFrame(train_data.groupby('powerplay')['wicket'].value_counts())
+# pd.DataFrame(train_data.groupby('powerplay')['wicket'].value_counts())
 ```
 
 
@@ -162,3 +162,58 @@ From the @fig-runs_cumulative, there does not seem to be too much of a relations
 Next, we will use the relationships we found above to build our model. The variables we will be looking at are `inning`, `over`, `powerplay`, `over_ball` and `runs_cumulative`. We will perform preprocessing on our datasets using one-hot encoding on our categorical variables. While there is only one numerical variable, we will still create a scaler in case we look to add other variables later in our analysis. 
 
 We are going to create a Logistic Regression Model for this analysis. We decided against K-NN classification as there is class imbalance and even if we balance our classes by oversampling, our accuracy will decrease using a nearest neighbours methodology. We will be using a pipeline to fit our data.
+
+### Hyperparameter Optimization
+
+The hyperparameter we are looking at in Logistic Regression is $C$. We will be testing for 5 different values of $C$ and looking at which gives us ideal cross-validation and training scores.
+
+
+```{python}
+#| label: tbl-Hyperparameter
+#| tbl-cap: Cross Validation and Training Accuracy after Hyperparameter Optimization
+#Hyperparameter_table = pd.read_csv("../images/Hyperparameter.csv")
+#Hyperparameter_table
+```
+We are choosing a $C$ of $\sqrt{10}$ as it overfits the least according to @tbl-Hyperparameter.
+
+
+# Discussion
+
+
+## Summary of Results
+
+1. Explorational Data Analysis: The exploration revealed several key insights that influence model building and interpretation. For example, the analysis shows the vast difference in player occurrences.
+2. Model Building  and Selection: Based on the EDA findings, five features: Inning, over, powerplay, over_ball, and runs_cumulative were chosen based on the statistical relationships.One-hot encoding was applied for categorical variables to avoid introducing bias during model training.Finally, **Logistic Regression** was made due to the binary nature of the target variable (wicket or no wicket).Considering the potential drawbacks of class imbalance, the K-Nearest Neighbors (KNN) is not recommended.
+3. Hyperparameter Optimization: Tuning the regularization parameter (C) of the Logistic Regression model to find the optimal balance between underfitting and overfitting. Testing various C values through cross-validation ensures the model generalizes well to unseen data.
+
+## Unexpected Findings
+
+
+- **Non-normality:** The extent of non-normality data across various features is unexpected. This highlights the importance of data exploration before model building.
+- **Seasonal effect:** The temporal bias towards recent seasons might not be anticipated, requiring adjustments to ensure generalizability.
+
+
+## Impact of Findings
+
+These findings have several potential impacts:
+
+- **Model development:** Understanding the distribution patterns and biases is crucial for choosing appropriate modeling techniques, interpreting outcomes, and guiding future data collection efforts.
+- **Generalizability:** Addressing non-normality and temporal bias is essential for creating models that perform well on data beyond the training set.
+- **Player analysis:** Exploring model results can unlock valuable insights into individual player performance and interaction with other factors influencing wicket probability.
+- **Cricket analytics:** The model's insights can inform cricket analysts and fans about factors that influence wicket probabilities, leading to better predictions and understanding of the game.
+
+## Future Questions and Work
+
+These findings lead to several compelling questions for future research:
+
+- **Addressing non-normality:** How can we effectively transform the data (e.g., log transformation)or utilize specific algorithms to improve model performance in the presence of *non-normal distributions*? 
+- **Mitigating temporal bias:** What data augmentation techniques or alternative approaches can be used to ensure the model generalizes well across different time periods? Mitigating this bias are necessary for broader applicability.
+
+
+And the future work includes:
+- **Feature engineering:** Explore creating additional features or transformations of existing ones to capture more aspects of the game and potentially improve model performance.
+- **Extra information:** Marshall et al. (2024) also discuss how pitch conditions could affect the possibility of a wicket. Having this data would help improve our model significantly.
+- **Model performance evaluation:** Evaluate model perform on test data using appropriate classification performance metrics (e.g., F1-score, ROC AUC) and compare it with other potential models to identify the best approach for the task.
+
+
+By addressing these questions, future research can build upon the current findings and develop even more robust and insightful models for predicting wicket probabilities in T20 cricket.
