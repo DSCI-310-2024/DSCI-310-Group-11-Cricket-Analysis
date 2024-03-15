@@ -76,7 +76,7 @@ The attribute `inning` in @fig-var_dist_2 doesn't seem to have a significant dif
 ```{python}
 #| label: tbl-non_striker
 #| tbl-cap: Batter Summary Count
-train_data = pd.read_csv("../data/train_data.csv")
+train_data = pd.read_csv("../data/data_for_quarto/train_data.csv")
 pd.concat([train_data["non_striker"].value_counts().reset_index().head(5), 
            train_data["non_striker"].value_counts().reset_index().tail(5)])
 ```
@@ -127,7 +127,7 @@ Note that, using Pearson's r might not be able to capture non-linear relationshi
 ```{python}
 #| label: tbl-wicket_count_powerplay
 #| tbl-cap:  Wicket Count based off of Powerplay
-# pd.DataFrame(train_data.groupby('powerplay')['wicket'].value_counts())
+pd.DataFrame(train_data.groupby('powerplay')['wicket'].value_counts())
 ```
 
 
@@ -167,13 +167,13 @@ The hyperparameter we are looking at in Logistic Regression is $C$. We will be t
 
 
 ```{python}
-#| label: tbl-Hyperparameter
+#| label: tbl-hyperparameter
 #| tbl-cap: Cross Validation and Training Accuracy after Hyperparameter Optimization
-#Hyperparameter_table = pd.read_csv("../images/Hyperparameter.csv")
-#Hyperparameter_table
+Hyperparameter_table = pd.read_csv("../data/data_for_quarto/Hyperparameter.csv")
+Hyperparameter_table
 ```
 
-We are choosing a $C$ of $\sqrt{10}$ as it overfits the least according to @tbl-Hyperparameter.
+We are choosing a $C$ of $\sqrt{10}$ as it overfits the least according to @tbl-hyperparameter .
 
 ![Distribution of Variables](../images/chart7.png){#fig-Confusion_Matrix}
 
