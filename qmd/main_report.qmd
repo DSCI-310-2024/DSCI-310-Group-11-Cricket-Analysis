@@ -34,7 +34,7 @@ from sklearn.compose import make_column_transformer
 
 # Abstract
 
-Our project aims to predict the probability of a wicket on a delivery in Cricket. We will look at ball-by-ball factors that could potentially affect this probability and see how the wicket probability changes with game conditions. Forecasting methods for cricket use complex regression models as discussed by Asif & McHale (2016), which is why we decided against predicting win probability, a common prediction model used for sports.
+Our project aims to predict the probability of a wicket on a delivery in Cricket. We will look at ball-by-ball factors that could potentially affect this probability and see how the wicket probability changes with game conditions. Forecasting methods for cricket use complex regression models as discussed by @asif2016play, which is why we decided against predicting win probability, a common prediction model used for sports.
 
 ## Introduction
 
@@ -207,12 +207,16 @@ These findings have several potential impacts:
 These findings lead to several compelling questions for future research:
 
 - **Addressing non-normality:** How can we effectively transform the data (e.g., log transformation)or utilize specific algorithms to improve model performance in the presence of *non-normal distributions*? 
+
 - **Mitigating temporal bias:** What data augmentation techniques or alternative approaches can be used to ensure the model generalizes well across different time periods? Mitigating this bias are necessary for broader applicability.
 
 
 And the future work includes:
+
 - **Feature engineering:** Explore creating additional features or transformations of existing ones to capture more aspects of the game and potentially improve model performance.
-- **Extra information:** Marshall et al. (2024) also discuss how pitch conditions could affect the possibility of a wicket. Having this data would help improve our model significantly.
+
+- **Extra information:** @marshall2024talk also discuss how pitch conditions could affect the possibility of a wicket. Having this data would help improve our model significantly.
+
 - **Model performance evaluation:** Evaluate model perform on test data using appropriate classification performance metrics (e.g., F1-score, ROC AUC) and compare it with other potential models to identify the best approach for the task.
 
 
