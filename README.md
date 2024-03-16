@@ -20,19 +20,20 @@ This project will be managed using the virtual containerization tool [Docker](ht
 
 ### Setup
 
-1. Install and setup [Docker Desktop](https://www.docker.com/) on your computer. Keep Docker Desktop open when running the analysis.
-  
+1. Install and setup [Docker](https://www.docker.com/) on your computer. Keep Docker Desktop open when running the analysis.
 2. Clone this GitHub repository as specified below:
 
  `git clone https://github.com/DSCI-310-2024/DSCI-310-Group-11.git` 
 
-**Note**: Our data is fairly large, and cloning it may give us an issue with having the data on your local. The scripts will run and still produce the correct data files needed.
+**Note**: Our data is fairly large, and cloning it may result in an issue with having the `.csv` data on your local. The scripts will run and still produce the correct data files needed. 
 
 ### Analysis 
 
 ** Add docker run steps**
 
-## Notes
+**Note**: Since the data was downloaded off of the website in `json` format, we do not have a script that reads the data off the web. The data was downloaded as the website structure does not allow for reading it off the web. 
+
+## Additional Notes
 
 ### Working on JupyterLab
 
@@ -40,14 +41,13 @@ If you are working with the project on JupyterLab, follow the steps below.
 
 1. After doing the steps in Setup section, navigate to the root of this project on your computer as follows:
 
-`cd DSCI-310-Group-11`
+`cd DSCI-310-Group-11-Cricket-Analysis`
 
 2. Enter the following command to setup the virtual container:
 
 `docker-compose up`
 
 3. Once the command has run, you will receive options to launch JupyterLab through different URLs. Copy and paste the one starting with ` http://127.0.0.1:8888/lab?token`. You will now be able to work in the JupyterLab IDE with all the files used in the analysis visible in the file browser pane.
-
 4. Shut down the container after using it by typing `Ctrl + C` in the terminal.  Clean the container up by typing `docker-compose rm` in the terminal.
 
 ### Adding Dependencies
@@ -55,7 +55,6 @@ If you are working with the project on JupyterLab, follow the steps below.
 To add any other dependencies to the analysis: 
 
 1. Create a new branch and add the dependency to the Dockerfile file.
-
 2. Re-build the new image locally to make sure everything runs properly.
 3. Push the changes to GitHub. Since we have built our GitHub actions workflow, the new image will be pushed to DockerHub automatically.
 4. Update the image tag on the `docker-compose.yml` file so that it uses the new container image.
@@ -63,7 +62,7 @@ To add any other dependencies to the analysis:
 
 
 ## Licenses
-The License was derived from the MIT License.
+The License was derived from the MIT License. 
 
 ## Dataset
 The data was all sourced from [Cricsheet](https://cricsheet.org/).
