@@ -13,6 +13,4 @@ RUN conda install -y \
     vegafusion=1.6.5 \
     vl-convert-python=1.2.3 
 
-RUN pip install json
-
 
