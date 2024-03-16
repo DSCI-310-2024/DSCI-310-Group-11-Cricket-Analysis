@@ -26,11 +26,15 @@ This project will be managed using the virtual containerization tool [Docker](ht
 
  `git clone https://github.com/DSCI-310-2024/DSCI-310-Group-11.git` 
 
+**Note**: Our data is fairly large, and cloning it may give us an issue with having the data on your local. The scripts will run and still produce the correct data files needed.
+
 ### Analysis 
 
 ** Add docker run steps**
 
 ## Notes
+
+### Working on JupyterLab
 
 If you are working with the project on JupyterLab, follow the steps below. 
 
@@ -42,29 +46,21 @@ If you are working with the project on JupyterLab, follow the steps below.
 
 `docker-compose up`
 
-3. Once the command has run, you will receive options to launch JupyterLab through different URLs. Copy and paste the one starting with ` http://127.0.0.1:8888/lab?token`. An example is shown below:
+3. Once the command has run, you will receive options to launch JupyterLab through different URLs. Copy and paste the one starting with ` http://127.0.0.1:8888/lab?token`. You will now be able to work in the JupyterLab IDE with all the files used in the analysis visible in the file browser pane.
 
-**ADD IMAGE HERE**
+4. Shut down the container after using it by typing `Ctrl + C` in the terminal.  Clean the container up by typing `docker-compose rm` in the terminal.
 
-You will now be able to work in the JupyterLab IDE with all the files used in the analysis visible in the file browser pane. 
+### Adding Dependencies
 
-**OLD STEPS (TO BE REMOVED):**
+To add any other dependencies to the analysis: 
 
-1. Clone the repository using on the command line.
+1. Create a new branch and add the dependency to the Dockerfile file.
 
+2. Re-build the new image locally to make sure everything runs properly.
+3. Push the changes to GitHub. Since we have built our GitHub actions workflow, the new image will be pushed to DockerHub automatically.
+4. Update the image tag on the `docker-compose.yml` file so that it uses the new container image.
+5. Open a pull request and merge the new branch with the main branch.
 
-
-2. Create the environment (if it is the first time setting it up). If the environment is set up, move on to the next step.
-
-`conda env create -f environment.yaml` 
-
-3. Activate the environment
-
-`conda activate dsci310_group11`
-
-4. Open JupyterLab and run the notebook `cricket_wicket_probability_prediction.ipynb`.
-
-   **Note**: Some cells may take upto 4 minutes to run as our dataset is large, and we are performing hyperparameter optimization.
 
 ## Licenses
 The License was derived from the MIT License.
