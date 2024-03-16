@@ -10,7 +10,7 @@ all:data/data_for_quarto/train_data.csv \
 
 
 run_docker: 
-	docker run --rm -v $(PWD):/home/jovyan cricket_analysis:latest bash
+	docker run --rm -v $(PWD):/home/jovyan dsci310_group11:latest bash
 
 data/data_for_quarto/train_data.csv: 
 	$(MAKE) run_docker
