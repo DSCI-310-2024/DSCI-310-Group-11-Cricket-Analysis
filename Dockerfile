@@ -11,6 +11,8 @@ RUN conda install -y \
     scikit-learn=1.2.0 \
     altair=5.2.0 \
     vegafusion=1.6.5 \
-    vl-convert-python=1.2.3 
+    vl-convert-python=1.2.3 \
+    make=4.3\
+    quarto=1.4.550\
 
 

@@ -29,7 +29,15 @@ This project will be managed using the virtual containerization tool [Docker](ht
 
 ### Analysis 
 
-** Add docker run steps**
+1. Clear any previous analysis done by entering the following statement on the command line.
+
+` docker-compose run --rm analysis-env make clean` 
+
+2. Run the analysis by entering this:
+
+` docker-compose run --rm analysis-env make all` 
+
+The final report can be found as `main_report.html` in the `qmd` folder, the images in the `images` folder and the data in the `data` folder.
 
 **Note**: Since the data was downloaded off of the website in `json` format, we do not have a script that reads the data off the web. The data was downloaded as the website structure does not allow for reading it off the web. 
 
@@ -55,14 +63,14 @@ If you are working with the project on JupyterLab, follow the steps below.
 To add any other dependencies to the analysis: 
 
 1. Create a new branch and add the dependency to the Dockerfile file.
-2. Re-build the new image locally to make sure everything runs properly.
+2. Re-build the new image locally to make sure everything runs properly. We recommend using the tag `dsci310_group11:latest` when building.
 3. Push the changes to GitHub. Since we have built our GitHub actions workflow, the new image will be pushed to DockerHub automatically.
 4. Update the image tag on the `docker-compose.yml` file so that it uses the new container image.
 5. Open a pull request and merge the new branch with the main branch.
 
 
 ## Licenses
-The License was derived from the MIT License. 
+The License was derived from the MIT License. The License and code for building the GitHub Actions Workflow for containerization was derived from the [Dockerfile Practice Repository](https://github.com/ttimbers/dsci310-dockerfile-practice/tree/main)
 
 ## Dataset
 The data was all sourced from [Cricsheet](https://cricsheet.org/).

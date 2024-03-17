@@ -1,9 +1,9 @@
 services:
   analysis-env:
-    image: dsci310_group11
+    image: dsci310_group11:latest
     ports:
       - "8888:8888"
     volumes:
-      - .:/home/jovyan/work
+      - .:/home/jovyan
     environment:
       PASSWORD: password
