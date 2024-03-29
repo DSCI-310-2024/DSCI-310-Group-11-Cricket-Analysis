@@ -6,24 +6,29 @@ import pytest
 import sys
 import matplotlib.pyplot as plt
 
-
 sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
 from src.eda_functions import vis_bar
 
 
 # example inputs
-data = pd.DataFrame({
-    'A': [1, 2, 3],
-    'B': [4, 5, 6],
-    'C': [7, 8, 9]
+data1 = pd.DataFrame({
+    'A': [1, 0, 1],
+    'B': [0, 1, 1],
+    'C': [1, 1, 1]
 })
+
+data2 = pd.Series({})
+data3 = pd.DataFrame({
+    'A': ["hello", "goodbye"],
+    'B': ["b", "a"]
+})
+
 x_input1 = 'A'
 x_input2 = 'a'
 width1 = 10
 height1 = 20
+width2 = "a"
+height2 = 20.5
 
-result1 = vis_bar(data, x_input1, width1, height1)
-result2 = vis_bar(data, x_input2, width1, height1)
-
-
-
+result1 = vis_bar(data1, x_input1, width1, height1)
+result2 = alt.Chart()

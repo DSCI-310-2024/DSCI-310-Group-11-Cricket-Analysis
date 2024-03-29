@@ -7,17 +7,18 @@ import matplotlib.pyplot as plt
 
 
 def vis_bar(data, x_input, width, height):
-    chart = alt.Chart(data).mark_bar().encode(
-        x = x_input,
-        y = "count()"
-    ).properties(
-        width = width, 
-        height = height
-    )
+    if type(width) != int or type(height) != int:
+        raise TypeError("Width and Height must be integers")
+    elif data.empty == True:
+        raise ValueError("DataFrame shouldn't be empty")
+    elif x_input not in data.columns:
+        raise KeyError("Column must be in DataFrame")
+    else:
+        chart = alt.Chart(data).mark_bar().encode(
+            x = x_input,
+            y = "count()"
+        ).properties(
+            width = width, 
+            height = height
+        )
     return chart
-
-def write_caption(tbl_name, caption):
-    tbl_name.style.set_caption(caption).set_table_styles([{
-        'selector': 'caption',
-        'props': 'caption-side: bottom; font-size:1.25em;'
-    }], overwrite=False)
