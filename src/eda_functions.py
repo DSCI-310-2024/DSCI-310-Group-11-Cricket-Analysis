@@ -6,17 +6,15 @@ import click
 import matplotlib.pyplot as plt
 
 
-def vis_bar(x_input, width, height):
-    return alt.Chart(data).mark_bar().encode(
+def vis_bar(data, x_input, width, height):
+    chart = alt.Chart(data).mark_bar().encode(
         x = x_input,
         y = "count()"
     ).properties(
         width = width, 
         height = height
     )
-
-def save_file(file, file_path, ):
-    file.save(file_path)
+    return chart
 
 def write_caption(tbl_name, caption):
     tbl_name.style.set_caption(caption).set_table_styles([{
