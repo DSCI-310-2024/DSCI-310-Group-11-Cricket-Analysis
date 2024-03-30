@@ -9,27 +9,18 @@ from src.data_clean_functions import *
 import helpers_data_clean as hp_dc
 
 
-# Read the CSV file
+# Fixture to provide test DataFrame
 @pytest.fixture
 def dataframe():
-    # Create or load your DataFrame here
-    # For example:
     data = hp_dc.df_fake_test
     return data
-
+# Fixture to provide a caption for the DataFrame
 @pytest.fixture
 def caption():
     return "Table 0: test dataset"
 
 
-# Drop the "Unnamed: 0" column
-#data = data.drop(columns=["Unnamed: 0"])
-
-# Verify that the "Unnamed: 0" column has been dropped
-#assert "Unnamed: 0" not in data.columns, "Error: 'Unnamed: 0' column was not dropped."
-
-
-
+# Test function for style_dataframe
 def test_style_dataframe(dataframe, caption):
     styled_data = style_dataframe(dataframe, caption)
 
@@ -53,15 +44,16 @@ def test_separate_columns_function(dataframe):
 
 
 
-
+# Test function for train_test_split_and_concat
 def test_train_test_split_and_concat():
-
+    
+    # Perform train test split and concatenate
     X_train, X_test, y_train, y_test = train_test_split(hp_dc.X_fake, hp_dc.y_fake, train_size=0.7, shuffle=False)
 
     # Concatenate X_train and y_train to create the train_data DataFrame
     train_data = pd.concat([X_train, y_train], axis=1)
 
-    # Step 3: Assertions
+    # Assertions
     # Assert that the shapes of X_train, X_test, y_train, and y_test are correct
     assert X_train.shape[0] == int(0.7 * hp_dc.X_fake.shape[0]), "Incorrect number of samples in X_train"
     assert X_test.shape[0] == hp_dc.X_fake.shape[0] - X_train.shape[0], "Incorrect number of samples in X_test"
