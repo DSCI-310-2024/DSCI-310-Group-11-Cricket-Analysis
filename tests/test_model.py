@@ -1,7 +1,7 @@
 import pandas as pd
 from sklearn.preprocessing import StandardScaler, OneHotEncoder
 import sklearn.metrics as metrics
-from scripts.model_workflows import *
+from src.model_functions import *
 
 def test_split_train():
     data = pd.read_parquet('data/cricket_main.parquet')
