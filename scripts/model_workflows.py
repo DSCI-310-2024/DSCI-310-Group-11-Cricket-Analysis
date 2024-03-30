@@ -4,7 +4,7 @@ import os
 import click
 import matplotlib.pyplot as plt
 import sklearn.metrics as metrics
-from sklearn.model_selection import train_test_split, cross_validate
+from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LogisticRegression
 from sklearn.preprocessing import StandardScaler, OneHotEncoder
 from sklearn.pipeline import make_pipeline
@@ -13,20 +13,12 @@ from sklearn.compose import make_column_transformer
 @click.command()
 @click.option('--parquet_path', type=str, help = 'File path of all data files', default='../data/cricket_main.parquet')
 @click.option('--save_image_path', type=str, help = 'File path to save all images', default='../images')
-@click.option('--save_table_path', type=str, help = 'File path to save all tables',default='../data/data_for_quarto')
 
-
-def main(parquet_path, save_image_path, save_table_path):
+def main(parquet_path, save_image_path):
     X_train, X_test, y_train, y_test = split_train_test(parquet_path)
-
     ohe, scaler = preprocessing()
-
     ct = transformer(ohe, scaler)
-
-    results = cross_validation_output(ct, X_train, y_train, save_table_path)
-
-    final_pipe = build_final_model(results, ct, X_train, y_train)
-    
+    final_pipe = build_final_model(ct, X_train, y_train)
     evaluate_model(final_pipe, X_test, y_test, save_image_path)
 
 def split_train_test(parquet_path):
@@ -58,27 +50,8 @@ def transformer(ohe, scaler):
 
     return ct
 
-def cross_validation_output(ct, X_train, y_train, save_table_path):
-    C = [10 ** x for x in [0.5, 1, 2, 3, 4]]
-    train_score = []
-    cv_score = []
-    for c in C:
-        model_new = LogisticRegression(C = c,  class_weight="balanced", n_jobs=-1)
-        pipe_new = make_pipeline(ct, model_new)
-        train_score.append(cross_validate(pipe_new, X_train, y_train, n_jobs =-1, return_train_score=True)['train_score'].mean())
-        cv_score.append(cross_validate(pipe_new, X_train, y_train, n_jobs =-1, return_train_score=True)['test_score'].mean())
-    results = pd.DataFrame({"C": C, "Training Accuracy": train_score, "Cross Validation Accuracy": cv_score})
-    results.to_csv(os.path.join(save_table_path, "Hyperparameter.csv"))
-
-    return results
-
-def build_final_model(results, ct, X_train, y_train):
-    results['Difference'] = results['Training Accuracy'] - results['Cross Validation Accuracy']
-
-    least_overfit = results.loc[results['Difference'] > 0, 'Difference'].min()
-    index_best_C = results.index[results['Difference'] == least_overfit].tolist()[0]
-    best_C = results.at[index_best_C, 'C']
-    final_model = LogisticRegression(C = best_C, class_weight="balanced", n_jobs=-1)
+def build_final_model(ct, X_train, y_train):
+    final_model = LogisticRegression(class_weight="balanced", n_jobs=-1)
 
     final_pipe = make_pipeline(
         ct,
@@ -96,6 +69,8 @@ def evaluate_model(final_pipe, X_test, y_test, save_image_path):
     plt.savefig(os.path.join(save_image_path, "chart7.png"))
     print(f"Model Score: {score}")
     print(f"Chart saved to: {save_image_path}")
+
+    return score, conf_mat, plot_cm
 
 
 if __name__ == '__main__':
