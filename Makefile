@@ -6,7 +6,6 @@ all: data/cricket_main.parquet \
 		images/chart4.png \
 		images/chart5.png \
 		images/chart6.png \
-		data/data_for_quarto/Hyperparameter.csv \
 		images/chart7.png \
 		qmd/main_report.html
 
@@ -22,7 +21,7 @@ data/data_for_quarto/train_data.csv images/chart1.png images/chart2.png images/c
 		--save_path=images\
 		--save_table_path=data/data_for_quarto
 
-data/data_for_quarto/Hyperparameter.csv	images/chart7.png:
+images/chart7.png:
 	python scripts/model_workflows.py \
 		--parquet_path=data/cricket_main.parquet \
 		--save_image_path=images\
