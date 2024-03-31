@@ -24,8 +24,7 @@ data/data_for_quarto/train_data.csv images/chart1.png images/chart2.png images/c
 images/chart7.png:
 	python scripts/model_workflows.py \
 		--parquet_path=data/cricket_main.parquet \
-		--save_image_path=images\
-		--save_table_path=data/data_for_quarto
+		--save_image_path=images
 
 qmd/main_report.html:
 	quarto render qmd/main_report.qmd --to html
