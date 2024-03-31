@@ -163,19 +163,8 @@ We are going to create a Logistic Regression Model for this analysis. We decided
 
 ### Hyperparameter Optimization
 
-The hyperparameter we are looking at in Logistic Regression is $C$. We will be testing for 5 different values of $C$ and looking at which gives us ideal cross-validation and training scores.
+The hyperparameter we are looking at in Logistic Regression is $C$. 
 
-
-```{python}
-#| label: tbl-hyperparameter
-#| tbl-cap: Cross Validation and Training Accuracy after Hyperparameter Optimization
-Hyperparameter_table = pd.read_csv("../data/data_for_quarto/Hyperparameter.csv")
-Hyperparameter_table
-```
-
-We are choosing a $C$ of $\sqrt{10}$ as it overfits the least according to @tbl-hyperparameter .
-
-![Distribution of Variables](../images/chart7.png){#fig-Confusion_Matrix}
 
 # Discussion
 
@@ -184,7 +173,7 @@ We are choosing a $C$ of $\sqrt{10}$ as it overfits the least according to @tbl-
 
 1. Explorational Data Analysis: The exploration revealed several key insights that influence model building and interpretation. For example, the analysis shows the vast difference in player occurrences.
 2. Model Building  and Selection: Based on the EDA findings, five features: Inning, over, powerplay, over_ball, and runs_cumulative were chosen based on the statistical relationships.One-hot encoding was applied for categorical variables to avoid introducing bias during model training.Finally, **Logistic Regression** was made due to the binary nature of the target variable (wicket or no wicket).Considering the potential drawbacks of class imbalance, the K-Nearest Neighbors (KNN) is not recommended.
-3. Hyperparameter Optimization: Tuning the regularization parameter (C) of the Logistic Regression model to find the optimal balance between underfitting and overfitting. Testing various C values through cross-validation ensures the model generalizes well to unseen data.
+3. Hyperparameter Optimization: Tuning the regularization parameter (C) of the Logistic Regression model to find the optimal balance between underfitting and overfitting. 
 
 ## Unexpected Findings
 
