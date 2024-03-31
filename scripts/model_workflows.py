@@ -18,9 +18,8 @@ from src.model_functions import *
 
 def main(parquet_path, save_image_path):
     """
-    the pipeline of building the model, where we split the data into train and test sets, 
-    specify the preprocessors, add the preprocessors and the model into the pipe, evalute 
-    the model. 
+    The pipeline of building the model, involves splitting data, defining preprocessors, 
+    feeding the model, and evaluating its performance.
     """
     X_train, X_test, y_train, y_test = split_train_test(parquet_path)
     ohe, scaler = preprocessing()
