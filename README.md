@@ -37,7 +37,7 @@ This project will be managed using the virtual containerization tool [Docker](ht
 
 ` docker-compose run --rm analysis-env make all` 
 
-The final report can be found as `main_report.html` in the `qmd` folder, the images in the `images` folder and the data in the `data` folder.
+The final report can be found as `main_report.html` in the `reports` folder, the images in the `images` folder and the data in the `data` folder.
 
 **Note**: Since the data was downloaded off of the website in `json` format, we do not have a script that reads the data off the web. The data was downloaded as the website structure does not allow for reading it off the web. 
 
