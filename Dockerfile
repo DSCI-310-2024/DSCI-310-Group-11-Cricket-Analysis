@@ -12,6 +12,7 @@ RUN conda install -y \
     altair=5.2.0 \
     vegafusion=1.6.5 \
     vl-convert-python=1.2.3 \
+    pytest=8.1.1\
     make=4.3\
     quarto=1.4.550\
 
