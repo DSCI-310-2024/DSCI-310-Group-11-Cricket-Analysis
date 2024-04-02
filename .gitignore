@@ -1,0 +1,10 @@
+# Ignore compiled Python files
+__pycache__
+
+# Ignore environment-related files
+environment.yaml
+
+
+# Ignore cache folder
+.cache/
+.pytest_cache/

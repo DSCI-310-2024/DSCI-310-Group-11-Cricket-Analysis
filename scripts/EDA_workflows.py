@@ -8,6 +8,7 @@ import matplotlib.pyplot as plt
 from sklearn.model_selection import train_test_split
 sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
 from src.eda_functions import * 
+from src.data_clean_functions import * 
 
 alt.data_transformers.enable("vegafusion")
 alt.renderers.enable('jupyterlab')
@@ -19,13 +20,11 @@ alt.renderers.enable('mimetype')
 @click.option('--save_table_path', type=str, help = 'File path to save table outputs', default='../data/data_for_quarto')
 
 def main(parquet_path, save_path, save_table_path):
+    
     data = pd.read_parquet(parquet_path)
-    X = data.drop(columns = ['wicket'])
-    y = data['wicket']
-    X_train, X_test, y_train, y_test = train_test_split(X, y, train_size=0.7, random_state=123)
+    X, y = separate_columns(data)
+    X_train, X_test, y_train, y_test, train_data = split_and_save_data(X, y, train_size=0.7, save_table_path="../data/data_for_quarto")
 
-    train_data = pd.concat([X_train, y_train], axis = 1)
-    train_data.to_csv(os.path.join(save_table_path, "train_data.csv"), index=False)
 
     over = vis_bar(data, "over", 150, 150)
     wides = vis_bar(data, "wides", 150, 150)
