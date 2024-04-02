@@ -8,5 +8,3 @@ environment.yaml
 # Ignore cache folder
 .cache/
 .pytest_cache/
-
-train_data.csv

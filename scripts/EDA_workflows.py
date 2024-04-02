@@ -20,9 +20,10 @@ alt.renderers.enable('mimetype')
 @click.option('--save_table_path', type=str, help = 'File path to save table outputs', default='../data/data_for_quarto')
 
 def main(parquet_path, save_path, save_table_path):
+    
     data = pd.read_parquet(parquet_path)
     X, y = separate_columns(data)
-    X_train, X_test, y_train, y_test, train_data = split_and_save_data(X, y, train_size=0.7, save_table_path=".")
+    X_train, X_test, y_train, y_test, train_data = split_and_save_data(X, y, train_size=0.7, save_table_path="../data/data_for_quarto")
 
 
     over = vis_bar(data, "over", 150, 150)
