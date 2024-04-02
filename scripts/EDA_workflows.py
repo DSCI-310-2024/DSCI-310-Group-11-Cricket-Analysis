@@ -92,15 +92,6 @@ def main(parquet_path, save_path, save_table_path):
     hist_chart(data, 'over', 'chart4.png', save_path)
     hist_chart(data, 'inning', 'chart5.png', save_path)
                 
-    # over_count_wicket = data.groupby('over')['wicket'].count()
-    # chart4 = over_count_wicket.plot(kind = 'bar', xlabel="Over", ylabel="Wicket Count")
-    # fig4 = chart4.get_figure()
-    # fig4.savefig(os.path.join(save_path, "chart4.png"))
-
-    # inning_count_wicket =  data.groupby('inning')['wicket'].count()
-    # chart5 = inning_count_wicket.plot(kind = 'bar', xlabel ='inning', ylabel = 'Wicket Count')
-    # fig5 = chart5.get_figure()
-    # fig5.savefig(os.path.join(save_path, "chart5.png"))
 
     data_0 = data[data['wicket'] == 0]
     data_1 = data[data['wicket'] == 1]
