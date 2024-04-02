@@ -62,6 +62,33 @@ def parse_cricket_json(file_content, game_id):
                 }
                 deliveries_data.append(delivery_info)
 
+    return deliveries_data
+
+def add_columns(df):
+
+    # add the over for each team specifically
+    df['team_over'] = df['team'] + "_" + df['over'].astype('str')
+
+    # indicate which ball it is in the over
+    df['over_ball'] = df.groupby('team_over').cumcount() + 1
+
+    # list the teams in specific game
+    teams = df['team'].unique() 
+
+    # create inning column
+    df['inning'] = [1 if x == teams[0] else 2 for x in df['team']]
+
+    # calculate runs so far in innings
+    df['runs_cumulative'] = df.groupby('inning')['runs_total'].cumsum()
+
+    # check if it is powerplay 
+    df['powerplay'] = [1 if x <= 5 else 0 for x in df['over']]
+    
+    df['powerplay'] = df['powerplay'].astype('object')
+    df['inning'] = df['inning'].astype('object')
+    
+    return df
+
 def process_cricket_jsons(zip_file_path, output_folder):
     """
     Reads JSON files from a zipped archive, converts each to a DataFrame using parse_cricket_json,
@@ -104,30 +131,6 @@ def process_cricket_jsons(zip_file_path, output_folder):
             progress_percentage = (processed_files / total_files) * 100
             print(f"Progress: {progress_percentage:.2f}%")
 
-def add_columns(df):
-
-    # add the over for each team specifically
-    df['team_over'] = df['team'] + "_" + df['over'].astype('str')
-
-    # indicate which ball it is in the over
-    df['over_ball'] = df.groupby('team_over').cumcount() + 1
-
-    # list the teams in specific game
-    teams = df['team'].unique() 
-
-    # create inning column
-    df['inning'] = [1 if x == teams[0] else 2 for x in df['team']]
-
-    # calculate runs so far in innings
-    df['runs_cumulative'] = df.groupby('inning')['runs_total'].cumsum()
-
-    # check if it is powerplay 
-    df['powerplay'] = [1 if x <= 5 else 0 for x in df['over']]
-    
-    df['powerplay'] = df['powerplay'].astype('object')
-    df['inning'] = df['inning'].astype('object')
-    
-    return df
 
 def determine_majority_dtypes(parquet_files, input_folder):
     """

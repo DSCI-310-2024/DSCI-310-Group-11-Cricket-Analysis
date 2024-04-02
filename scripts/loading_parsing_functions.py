@@ -25,7 +25,7 @@ def main(input_folder, output_file):
     """
 
     #convert json files into Parquest file 
-    process_cricket_jsons("../data/t20s_json.zip", input_folder)
+    process_cricket_jsons("data/t20s_json.zip", input_folder)
 
     # Ensure the input folder exists
     if not os.path.exists(input_folder):
