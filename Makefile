@@ -26,11 +26,11 @@ images/chart7.png:
 		--parquet_path=data/cricket_main.parquet \
 		--save_image_path=images
 
-qmd/main_report.html:
-	quarto render qmd/main_report.qmd --to html
+reports/main_report.html:
+	quarto render reports/main_report.qmd --to html
 
 clean:
 	rm -rf data/cricket_main.parquet
 	rm -rf data/data_for_quarto/*
 	rm -rf images/*
-	rm -rf qmd/main_report.html
+	rm -rf reports/main_report.html
