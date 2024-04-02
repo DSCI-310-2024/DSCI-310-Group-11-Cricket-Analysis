@@ -7,7 +7,7 @@ all: data/cricket_main.parquet \
 		images/chart5.png \
 		images/chart6.png \
 		images/chart7.png \
-		qmd/main_report.html
+		reports/main_report.html
 
 
 data/cricket_main.parquet: scripts/loading_parsing_functions.py data/t20_parquet
