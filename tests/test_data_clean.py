@@ -14,18 +14,7 @@ import helpers_data_clean as hp_dc
 def dataframe():
     data = hp_dc.df_fake_test
     return data
-# Fixture to provide a caption for the DataFrame
-@pytest.fixture
-def caption():
-    return "Table 0: test dataset"
 
-
-# Test function for style_dataframe
-def test_style_dataframe(dataframe, caption):
-    styled_data = style_dataframe(dataframe, caption)
-
-    # Verify that the DataFrame has been styled correctly
-    assert styled_data is not None, "Error: DataFrame styling failed."
 
 #   Test the functionality of the test_separate_columns function.
 def test_separate_columns_function(dataframe):

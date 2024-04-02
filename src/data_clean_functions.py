@@ -2,42 +2,6 @@ import pandas as pd
 import os
 from sklearn.model_selection import train_test_split
 
-def style_dataframe(dataframe, caption):
-    """
-    Apply styling to a DataFrame.
-
-    Parameters:
-        dataframe (pd.DataFrame): The DataFrame to style.
-        caption (str): The caption to add to the DataFrame.
-
-    Returns:
-        pd.io.formats.style.Styler: The styled DataFrame.
-        
-    Raises:
-        TypeError: If dataframe is not a pandas DataFrame or if caption is not a string.
-        ValueError: If the dataframe is empty.
-    """
-    # Check if dataframe is a pandas DataFrame
-    if not isinstance(dataframe, pd.DataFrame):
-        raise TypeError("dataframe must be a pandas DataFrame")
-    
-    # Check if caption is a string
-    if not isinstance(caption, str):
-        raise TypeError("caption must be a string")
-    
-    # Check if dataframe is empty
-    if dataframe.empty:
-        raise ValueError("dataframe should not be empty")
-    
-    # Apply styling
-    styled_data = dataframe.head().style.set_caption(caption).set_table_styles([{
-        'selector': 'caption',
-        'props': 'caption-side: bottom; font-size:1.25em;'
-    }], overwrite=False)
-    
-    return styled_data
-
-
 
 def separate_columns(dataframe):
     """
