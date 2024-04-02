@@ -42,16 +42,13 @@ def test_separate_columns_function(dataframe):
     assert len(X) == len(y), "Error: Length of X and y should match."
 
 
-
-
 # Test function for train_test_split_and_concat
 def test_train_test_split_and_concat():
     
     # Perform train test split and concatenate
-    X_train, X_test, y_train, y_test = train_test_split(hp_dc.X_fake, hp_dc.y_fake, train_size=0.7, shuffle=False)
+    X_train, X_test, y_train, y_test,train_data = split_and_save_data(
+        hp_dc.X_fake, hp_dc.y_fake, train_size=0.7, save_table_path=".")
 
-    # Concatenate X_train and y_train to create the train_data DataFrame
-    train_data = pd.concat([X_train, y_train], axis=1)
 
     # Assertions
     # Assert that the shapes of X_train, X_test, y_train, and y_test are correct
