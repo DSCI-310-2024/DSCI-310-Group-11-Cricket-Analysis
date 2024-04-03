@@ -1,0 +1,981 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.4.550">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="Alex Lin &amp; Jackson Siemens &amp; Shruti Vijaykumar Seetharam &amp; Hanlin Zhao">
+
+<title>DSCI 310 Group 11 Project: Predicting Probability of Wicket on a Delivery in Cricket</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==" crossorigin="anonymous"></script><script src="main_report_files/libs/clipboard/clipboard.min.js"></script>
+<script src="main_report_files/libs/quarto-html/quarto.js"></script>
+<script src="main_report_files/libs/quarto-html/popper.min.js"></script>
+<script src="main_report_files/libs/quarto-html/tippy.umd.min.js"></script>
+<script src="main_report_files/libs/quarto-html/anchor.min.js"></script>
+<link href="main_report_files/libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="main_report_files/libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="main_report_files/libs/bootstrap/bootstrap.min.js"></script>
+<link href="main_report_files/libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="main_report_files/libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.6/require.min.js" integrity="sha512-c3Nl8+7g4LMSTdrm621y7kf9v3SDPnhxLNhcjFJbKECVnmZHTdo+IRO05sNLTH/D3vA6u1X32ehoLC7WFVdheg==" crossorigin="anonymous"></script>
+
+<script type="application/javascript">define('jquery', [],function() {return window.jQuery;})</script>
+
+
+</head>
+
+<body>
+
+<div id="quarto-content" class="page-columns page-rows-contents page-layout-article">
+<div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+  <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul>
+  <li><a href="#abstract" id="toc-abstract" class="nav-link active" data-scroll-target="#abstract">Abstract</a>
+  <ul>
+  <li><a href="#introduction" id="toc-introduction" class="nav-link" data-scroll-target="#introduction">Introduction</a></li>
+  <li><a href="#methods" id="toc-methods" class="nav-link" data-scroll-target="#methods">Methods</a>
+  <ul class="collapse">
+  <li><a href="#exploratory-data-analysis" id="toc-exploratory-data-analysis" class="nav-link" data-scroll-target="#exploratory-data-analysis">Exploratory Data Analysis</a></li>
+  <li><a href="#multivariate-analysis---correlation-analysis" id="toc-multivariate-analysis---correlation-analysis" class="nav-link" data-scroll-target="#multivariate-analysis---correlation-analysis">Multivariate Analysis - Correlation Analysis</a></li>
+  </ul></li>
+  <li><a href="#model-building" id="toc-model-building" class="nav-link" data-scroll-target="#model-building">Model Building</a></li>
+  </ul></li>
+  <li><a href="#discussion" id="toc-discussion" class="nav-link" data-scroll-target="#discussion">Discussion</a>
+  <ul>
+  <li><a href="#summary-of-results" id="toc-summary-of-results" class="nav-link" data-scroll-target="#summary-of-results">Summary of Results</a></li>
+  <li><a href="#unexpected-findings" id="toc-unexpected-findings" class="nav-link" data-scroll-target="#unexpected-findings">Unexpected Findings</a></li>
+  <li><a href="#impact-of-findings" id="toc-impact-of-findings" class="nav-link" data-scroll-target="#impact-of-findings">Impact of Findings</a></li>
+  <li><a href="#future-questions-and-work" id="toc-future-questions-and-work" class="nav-link" data-scroll-target="#future-questions-and-work">Future Questions and Work</a></li>
+  </ul></li>
+  </ul>
+<div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="../main_report.pdf"><i class="bi bi-file-pdf"></i>PDF</a></li></ul></div></nav>
+</div>
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">DSCI 310 Group 11 Project: Predicting Probability of Wicket on a Delivery in Cricket</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Alex Lin &amp; Jackson Siemens &amp; Shruti Vijaykumar Seetharam &amp; Hanlin Zhao </p>
+          </div>
+  </div>
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<section id="abstract" class="level1">
+<h1>Abstract</h1>
+<p>Our project aims to predict the probability of a wicket on a delivery in Cricket. We will look at ball-by-ball factors that could potentially affect this probability and see how the wicket probability changes with game conditions. Forecasting methods for cricket use complex regression models as discussed by <span class="citation" data-cites="asif2016play">Asif and McHale (<a href="#ref-asif2016play" role="doc-biblioref">2016</a>)</span>, which is why we decided against predicting win probability, a common prediction model used for sports.</p>
+<section id="introduction" class="level2">
+<h2 class="anchored" data-anchor-id="introduction">Introduction</h2>
+<p>Cricket is a bat and ball sport involving two teams of eleven players each. Originating in the 16th century, Cricket today is commonly played in three formats: Tests, One Day Internationals and T20 Internationals. Our analysis will be specifically focusing on T20 International games and looking at the conditions of those games to analyze our prediction probability. In a T20 game, one team will bat first and set a target number of runs in 20 overs or until 10 wickets are lost. The other team will bat second, and to win the game, they must exceed the target set by the second team in 20 overs or less. Each of the 11 players in the team will need to bat as more wickets are lost, but some bat more often than others, given all wickets are not always lost. Only some players are bowlers. There are multiple different ways of getting a wicket, and these can be affected by the following factors:</p>
+<ol type="1">
+<li>Bowler: The skill of a bowler can affect the probability</li>
+<li>Batter: Similarly, the skill of a batter can affect the probability</li>
+<li>Inning: Determines which team is batting and bowling</li>
+<li>Over: An over consists of 6 deliveries thrown by the bowler from one end of the pitch to the batter on the other end. The over can determine how much risk a batter is willing to take with his next ball.</li>
+<li>Ball in the over: The specific delivery in the over. Batters are more likely to take risks towards the end of an over compared to the beginning.</li>
+<li>Runs scored till now: Looks at the amount of runs scored in the inning up until the current ball. Fewer runs scored may mean the batter is more likely to take risks in order to get more.</li>
+<li>Powerplay: A powerplay is when there are fielding restrictions placed on the bowling team, making it harder for them to get a wicket.&nbsp;</li>
+</ol>
+<p>We will be looking at the above factors along with some others to judge what factors may be best for our model in the Exploratory Data Analysis section. We will be reading our data in json files from the <a href="https://cricsheet.org/downloads/">Cricsheet</a> website, and converting it to our desired <code>.parquet</code> format using the scripts in the <code>loading_parsing_functions.py</code> file which can be found in the <code>src</code> folder.</p>
+</section>
+<section id="methods" class="level2">
+<h2 class="anchored" data-anchor-id="methods">Methods</h2>
+<p>Firstly, we will perform some exploratory data analysis on the training data to get a better understanding of the dataset and what relationships there are with our target variable.</p>
+<section id="exploratory-data-analysis" class="level3">
+<h3 class="anchored" data-anchor-id="exploratory-data-analysis">Exploratory Data Analysis</h3>
+<p>The dataset contains 28 columns and 510652 observations related to cricket. The ratio of quantitative to categorical (ordinal and nominal) data is approximately 50:50. Note that the columns <strong>player_out, player_out_id, fielder_name, fielders_id, and wicket_type</strong> show a significant amount of missing values. Player_out and player_out_id may be missing due to inapplicability (e.g., no one is out), which results in fielder_name, fielder_id, and wicket_type being invalid in these observations. Thus, these missing data are likely classified as <strong>missing at random(MAR)</strong>. Given the complexity of imputing these values, they are unlikely to be included in our further analysis.</p>
+<p>Note that, among the 28 columns, there were few attributes generated based on existing columns, and they are “over_ball”, “inning”, “runs_cumulative”, and “powerplay”. Although they are all integers, it is important to note that, only “overball” and “runs_cumulative” are quantitative, whereas “inning” and “powerplay” are categorical. Detailed calculations of these attributes are in the <code>loading_parsing_functions.py</code> file in the <code>src</code> folder.</p>
+<p>** Distribution of Variables**</p>
+<div id="fig-var_dist" class="quarto-figure quarto-figure-center quarto-float anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-var_dist-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="../images/chart1.png" class="img-fluid figure-img">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-var_dist-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;1: Distribution of Variables
+</figcaption>
+</figure>
+</div>
+<div id="fig-var_dist_2" class="quarto-figure quarto-figure-center quarto-float anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-var_dist_2-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="../images/chart2.png" class="img-fluid figure-img">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-var_dist_2-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;2: Distribution of Variables
+</figcaption>
+</figure>
+</div>
+<p><strong>Caption:</strong> <a href="#fig-var_dist" class="quarto-xref">Figure&nbsp;1</a> and <a href="#fig-var_dist_2" class="quarto-xref">Figure&nbsp;2</a> bar chart illustrates the distribution of all the variables. Note that the analysis excludes all columns related to <code>ID</code> as they are primarily for identification purposes and are unlikely to show significant patterns. It is observed that none of the quantitative attributes follow a normal distribution; most are right-skewed distributions. An interesting finding is noted in the attributes <code>over</code> in <a href="#fig-var_dist" class="quarto-xref">Figure&nbsp;1</a>, where the frequency <strong>steadily</strong> decreases with increasing values, suggesting further analysis. Concerning ordinal attributes, we have a significantly higher amount of data from seasons that happened in recent years than in the past.</p>
+<p>In terms of <code>team</code> in <a href="#fig-var_dist_2" class="quarto-xref">Figure&nbsp;2</a>, there appear to be more teams from “New Zealand,” “South Africa,” “India,” “West India,” “Pakistan,” “Bangladesh,” “Sri Lanka” “Australia,” and “England” than teams from other countries/regions.</p>
+<p>The attribute <code>inning</code> in <a href="#fig-var_dist_2" class="quarto-xref">Figure&nbsp;2</a> doesn’t seem to have a significant difference across the two conditions, however, for <code>powerplay</code>, the number of occurrences in condition “0” is approximately twice as high as in condition “1.”</p>
+<div class="cell" data-execution_count="2">
+<div id="tbl-non_striker" class="cell quarto-float anchored" data-execution_count="2">
+<figure class="quarto-float quarto-float-tbl figure">
+<figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-non_striker-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Table&nbsp;1: Batter Summary Count
+</figcaption>
+<div aria-describedby="tbl-non_striker-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<div class="cell-output cell-output-display" data-execution_count="2">
+<div>
+<div>
+
+
+<table class="dataframe do-not-create-environment cell table table-sm table-striped small" data-quarto-postprocess="true" data-border="1">
+<thead>
+<tr class="header">
+<th data-quarto-table-cell-role="th"></th>
+<th data-quarto-table-cell-role="th">non_striker</th>
+<th data-quarto-table-cell-role="th">count</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">0</td>
+<td>Babar Azam</td>
+<td>3074</td>
+</tr>
+<tr class="even">
+<td data-quarto-table-cell-role="th">1</td>
+<td>BL Mooney</td>
+<td>2483</td>
+</tr>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">2</td>
+<td>Mohammad Rizwan</td>
+<td>2389</td>
+</tr>
+<tr class="even">
+<td data-quarto-table-cell-role="th">3</td>
+<td>S Mandhana</td>
+<td>2088</td>
+</tr>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">4</td>
+<td>SW Bates</td>
+<td>1928</td>
+</tr>
+<tr class="even">
+<td data-quarto-table-cell-role="th">3799</td>
+<td>A Dutt</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">3800</td>
+<td>N Nankov</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td data-quarto-table-cell-role="th">3801</td>
+<td>N Ndouteng</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">3802</td>
+<td>Maaha Naseer</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td data-quarto-table-cell-role="th">3803</td>
+<td>GDR Eranga</td>
+<td>1</td>
+</tr>
+</tbody>
+</table>
+
+</div>
+</div>
+</div>
+</div>
+</figure>
+</div>
+</div>
+<div class="cell" data-execution_count="3">
+<div id="tbl-batter" class="cell quarto-float anchored" data-execution_count="3">
+<figure class="quarto-float quarto-float-tbl figure">
+<figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-batter-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Table&nbsp;2: Batter Summary Count
+</figcaption>
+<div aria-describedby="tbl-batter-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<div class="cell-output cell-output-display" data-execution_count="3">
+<div>
+<div>
+
+
+<table class="dataframe do-not-create-environment cell table table-sm table-striped small" data-quarto-postprocess="true" data-border="1">
+<thead>
+<tr class="header">
+<th data-quarto-table-cell-role="th"></th>
+<th data-quarto-table-cell-role="th">batter</th>
+<th data-quarto-table-cell-role="th">count</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">0</td>
+<td>Babar Azam</td>
+<td>2932</td>
+</tr>
+<tr class="even">
+<td data-quarto-table-cell-role="th">1</td>
+<td>Mohammad Rizwan</td>
+<td>2295</td>
+</tr>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">2</td>
+<td>BL Mooney</td>
+<td>2094</td>
+</tr>
+<tr class="even">
+<td data-quarto-table-cell-role="th">3</td>
+<td>PR Stirling</td>
+<td>1974</td>
+</tr>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">4</td>
+<td>S Mandhana</td>
+<td>1958</td>
+</tr>
+<tr class="even">
+<td data-quarto-table-cell-role="th">3898</td>
+<td>K Loday</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">3899</td>
+<td>S Sandeepani</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td data-quarto-table-cell-role="th">3900</td>
+<td>R Mahajan</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">3901</td>
+<td>Noorullah Sidiqi</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td data-quarto-table-cell-role="th">3902</td>
+<td>Ahmadi Ravat</td>
+<td>1</td>
+</tr>
+</tbody>
+</table>
+
+</div>
+</div>
+</div>
+</div>
+</figure>
+</div>
+</div>
+<div class="cell" data-execution_count="4">
+<div id="tbl-bowler" class="cell quarto-float anchored" data-execution_count="4">
+<figure class="quarto-float quarto-float-tbl figure">
+<figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-bowler-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Table&nbsp;3: Bowler Summary Count
+</figcaption>
+<div aria-describedby="tbl-bowler-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<div class="cell-output cell-output-display" data-execution_count="4">
+<div>
+<div>
+
+
+<table class="dataframe do-not-create-environment cell table table-sm table-striped small" data-quarto-postprocess="true" data-border="1">
+<thead>
+<tr class="header">
+<th data-quarto-table-cell-role="th"></th>
+<th data-quarto-table-cell-role="th">bowler</th>
+<th data-quarto-table-cell-role="th">count</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">0</td>
+<td>IS Sodhi</td>
+<td>2139</td>
+</tr>
+<tr class="even">
+<td data-quarto-table-cell-role="th">1</td>
+<td>Shadab Khan</td>
+<td>1982</td>
+</tr>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">2</td>
+<td>TG Southee</td>
+<td>1956</td>
+</tr>
+<tr class="even">
+<td data-quarto-table-cell-role="th">3</td>
+<td>MJ Santner</td>
+<td>1930</td>
+</tr>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">4</td>
+<td>DB Sharma</td>
+<td>1923</td>
+</tr>
+<tr class="even">
+<td data-quarto-table-cell-role="th">2820</td>
+<td>KH Prajapati</td>
+<td>2</td>
+</tr>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">2821</td>
+<td>Talha Khan</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td data-quarto-table-cell-role="th">2822</td>
+<td>Saif Hassan</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">2823</td>
+<td>E Ul Haq</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td data-quarto-table-cell-role="th">2824</td>
+<td>J Grzinic</td>
+<td>1</td>
+</tr>
+</tbody>
+</table>
+
+</div>
+</div>
+</div>
+</div>
+</figure>
+</div>
+</div>
+<p>Lastly, regarding nominal attributes, we are seeing an uneven distribution appearance of players(<code>batter</code>, <code>bowler</code>, and <code>non-striker</code>) in this dataset, by using non-striker as an example, some players such as V Kohli appear around 2100 times in this dataset according to <a href="#tbl-non_striker" class="quarto-xref">Table&nbsp;1</a>, where other players such as F Bangur only appeared once. Due to such a large number of batters(<a href="#tbl-batter" class="quarto-xref">Table&nbsp;2</a>) and bowlers(<a href="#tbl-bowler" class="quarto-xref">Table&nbsp;3</a>) in the dataset, we will not be using it in our analysis. To use these attributes, we will also need to create summary statistics for each batters and bowlers, as explained by <span class="citation" data-cites="dinsdale2023explaining">Dinsdale (<a href="#ref-dinsdale2023explaining" role="doc-biblioref">2023</a>)</span> which is out of the scope of our project.</p>
+<p>In general, <strong>none of the attributes in our dataset form a normal distribution</strong>, with samples unevenly distributed across categorical attributes. It is important to remember this when training, testing, and interpreting the model, and to appropriately acknowledge this as a potential limitation.</p>
+</section>
+<section id="multivariate-analysis---correlation-analysis" class="level3">
+<h3 class="anchored" data-anchor-id="multivariate-analysis---correlation-analysis">Multivariate Analysis - Correlation Analysis</h3>
+<div id="fig-Correlation_Matrix" class="quarto-figure quarto-figure-center quarto-float anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-Correlation_Matrix-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="../images/chart3.png" class="img-fluid figure-img">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-Correlation_Matrix-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;3: Correlation Matrix
+</figcaption>
+</figure>
+</div>
+<p>Among the quantitative attributes in <a href="#fig-Correlation_Matrix" class="quarto-xref">Figure&nbsp;3</a>, 5 pairs of relationship are above the threshold of weak correlation(<strong>|r| &gt; 0.3</strong>), and they are:</p>
+<ol type="1">
+<li><strong>batter_total &amp; run_total(r = 0.97)</strong></li>
+<li><strong>over &amp; runs_cumulative(r = 0.87)</strong></li>
+<li><strong>wides &amp; runs_extras(r = 0.76)</strong></li>
+<li><strong>legbyes &amp; runs_extras(r = 0.46)</strong></li>
+<li><strong>byes &amp; runs_extra(r = 0.38)</strong></li>
+</ol>
+<p>Note that, using Pearson’s r might not be able to capture non-linear relationships that potentially exist among these relationships.</p>
+<div class="cell" data-execution_count="5">
+<div id="tbl-wicket_count_powerplay" class="cell quarto-float anchored" data-execution_count="5">
+<figure class="quarto-float quarto-float-tbl figure">
+<figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-wicket_count_powerplay-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Table&nbsp;4: Wicket Count based off of Powerplay
+</figcaption>
+<div aria-describedby="tbl-wicket_count_powerplay-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<div class="cell-output cell-output-display" data-execution_count="5">
+<div>
+<div>
+
+
+<table class="dataframe do-not-create-environment cell table table-sm table-striped small" data-quarto-postprocess="true" data-border="1">
+<thead>
+<tr class="header">
+<th data-quarto-table-cell-role="th"></th>
+<th data-quarto-table-cell-role="th"></th>
+<th data-quarto-table-cell-role="th">count</th>
+</tr>
+<tr class="odd">
+<th data-quarto-table-cell-role="th">powerplay</th>
+<th data-quarto-table-cell-role="th">wicket</th>
+<th data-quarto-table-cell-role="th"></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td rowspan="2" data-quarto-table-cell-role="th" data-valign="top">0</td>
+<td data-quarto-table-cell-role="th">0</td>
+<td>323986</td>
+</tr>
+<tr class="even">
+<td data-quarto-table-cell-role="th">1</td>
+<td>20878</td>
+</tr>
+<tr class="odd">
+<td rowspan="2" data-quarto-table-cell-role="th" data-valign="top">1</td>
+<td data-quarto-table-cell-role="th">0</td>
+<td>165011</td>
+</tr>
+<tr class="even">
+<td data-quarto-table-cell-role="th">1</td>
+<td>7580</td>
+</tr>
+</tbody>
+</table>
+
+</div>
+</div>
+</div>
+</div>
+</figure>
+</div>
+</div>
+<p>We can see that there is a much higher proportion of wickets during the powerplay (approximately 31% are wickets compared to only around 6% in non-powerplay conditions) in <a href="#tbl-wicket_count_powerplay" class="quarto-xref">Table&nbsp;4</a>. This could be attributed to players taking more risks since there are more fielding restrictions in the powerplay <span class="citation" data-cites="bhattacharjee2016impact">(<a href="#ref-bhattacharjee2016impact" role="doc-biblioref">Bhattacharjee et al. 2016</a>)</span>. While most of the game is in the powerplay, and there is a class imbalance, this suggests that the powerplay does affect the chances of a wicket.</p>
+<div id="fig-over_count_wicket" class="quarto-figure quarto-figure-center quarto-float anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-over_count_wicket-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="../images/chart4.png" class="img-fluid figure-img">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-over_count_wicket-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;4: Wicket count across overs
+</figcaption>
+</figure>
+</div>
+<p>Similarly, the distribution from <a href="#fig-over_count_wicket" class="quarto-xref">Figure&nbsp;4</a> above shows us that towards the end of the game, there are significantly less wickets than in the first few overs, which suggests that the variable <code>Over</code> could be used for our model as well.</p>
+<div id="fig-inning_count_wicket" class="quarto-figure quarto-figure-center quarto-float anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-inning_count_wicket-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="../images/chart5.png" class="img-fluid figure-img">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-inning_count_wicket-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;5: Wicket count across innings
+</figcaption>
+</figure>
+</div>
+<p>The above plot <a href="#fig-inning_count_wicket" class="quarto-xref">Figure&nbsp;5</a> indicates that there are significantly more wickets in the first innings than the second. This could be attributed to the fact that in the second innings, batters are more likely to come in with a plan as they have a target in mind to chase and they are less likely to take risks. It is also possible that the number of wickets in the second innings is lower since the teams may not play the full second innings if they reach the target before that. So, this is a variable we will take into consideration when building our model.</p>
+<div id="fig-runs_cumulative" class="quarto-figure quarto-figure-center quarto-float anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-runs_cumulative-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="../images/chart6.png" class="img-fluid figure-img">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-runs_cumulative-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;6: Wicket Probability Density by Cumulative runs scored in current innings
+</figcaption>
+</figure>
+</div>
+<p>From the <a href="#fig-runs_cumulative" class="quarto-xref">Figure&nbsp;6</a>, there does not seem to be too much of a relationship between the runs scored so far and whether there is a wicket or not, except when the runs are greater than 100. At this point, it is more likely to be a wicket.</p>
+</section>
+</section>
+<section id="model-building" class="level2">
+<h2 class="anchored" data-anchor-id="model-building">Model Building</h2>
+<p>Next, we will use the relationships we found above to build our model. The variables we will be looking at are <code>inning</code>, <code>over</code>, <code>powerplay</code>, <code>over_ball</code> and <code>runs_cumulative</code>. We will perform preprocessing on our datasets using one-hot encoding on our categorical variables. While there is only one numerical variable, we will still create a scaler in case we look to add other variables later in our analysis.</p>
+<p>We are going to create a Logistic Regression Model for this analysis. We decided against K-NN classification as there is class imbalance and even if we balance our classes by oversampling, our accuracy will decrease using a nearest neighbours methodology. Our data is also extremely large (700000 observations) and fitting and training the K-NN model would be complex and time-consuming for this use-case. We will be using a pipeline to fit our data.</p>
+</section>
+</section>
+<section id="discussion" class="level1">
+<h1>Discussion</h1>
+<section id="summary-of-results" class="level2">
+<h2 class="anchored" data-anchor-id="summary-of-results">Summary of Results</h2>
+<ol type="1">
+<li>Explorational Data Analysis: The exploration revealed several key insights that influence model building and interpretation. For example, the analysis shows the vast difference in player occurrences.</li>
+<li>Model Building and Selection: Based on the EDA findings, five features: Inning, over, powerplay, over_ball, and runs_cumulative were chosen based on the statistical relationships.One-hot encoding was applied for categorical variables to avoid introducing bias during model training.Finally, <strong>Logistic Regression</strong> was made due to the binary nature of the target variable (wicket or no wicket).Considering the potential drawbacks of class imbalance, the K-Nearest Neighbors (KNN) is not recommended.</li>
+</ol>
+</section>
+<section id="unexpected-findings" class="level2">
+<h2 class="anchored" data-anchor-id="unexpected-findings">Unexpected Findings</h2>
+<ul>
+<li><strong>Non-normality:</strong> The extent of non-normality data across various features is unexpected. This highlights the importance of data exploration before model building.</li>
+<li><strong>Seasonal effect:</strong> The temporal bias towards recent seasons might not be anticipated, requiring adjustments to ensure generalizability.</li>
+</ul>
+</section>
+<section id="impact-of-findings" class="level2">
+<h2 class="anchored" data-anchor-id="impact-of-findings">Impact of Findings</h2>
+<p>These findings have several potential impacts:</p>
+<ul>
+<li><strong>Model development:</strong> Understanding the distribution patterns and biases is crucial for choosing appropriate modeling techniques, interpreting outcomes, and guiding future data collection efforts.</li>
+<li><strong>Generalizability:</strong> Addressing non-normality and temporal bias is essential for creating models that perform well on data beyond the training set.</li>
+<li><strong>Player analysis:</strong> Exploring model results can unlock valuable insights into individual player performance and interaction with other factors influencing wicket probability.</li>
+<li><strong>Cricket analytics:</strong> The model’s insights can inform cricket analysts and fans about factors that influence wicket probabilities, leading to better predictions and understanding of the game.</li>
+</ul>
+</section>
+<section id="future-questions-and-work" class="level2">
+<h2 class="anchored" data-anchor-id="future-questions-and-work">Future Questions and Work</h2>
+<p>These findings lead to several compelling questions for future research:</p>
+<ul>
+<li><p><strong>Addressing non-normality:</strong> How can we effectively transform the data (e.g., log transformation)or utilize specific algorithms to improve model performance in the presence of <em>non-normal distributions</em>?</p></li>
+<li><p><strong>Mitigating temporal bias:</strong> What data augmentation techniques or alternative approaches can be used to ensure the model generalizes well across different time periods? Mitigating this bias are necessary for broader applicability.</p></li>
+</ul>
+<p>And the future work includes:</p>
+<ul>
+<li><p><strong>Feature engineering:</strong> Explore creating additional features or transformations of existing ones to capture more aspects of the game and potentially improve model performance.</p></li>
+<li><p><strong>Extra information:</strong> <span class="citation" data-cites="marshall2024talk">Marshall, Runswick, and Broadbent (<a href="#ref-marshall2024talk" role="doc-biblioref">2024</a>)</span> also discuss how pitch conditions could affect the possibility of a wicket. Having this data would help improve our model significantly.</p></li>
+<li><p><strong>Model performance evaluation:</strong> Evaluate model perform on test data using appropriate classification performance metrics (e.g., F1-score, ROC AUC) and compare it with other potential models to identify the best approach for the task.</p></li>
+</ul>
+<p>By addressing these questions, future research can build upon the current findings and develop even more robust and insightful models for predicting wicket probabilities in T20 cricket.</p>
+
+</section>
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-asif2016play" class="csl-entry" role="listitem">
+Asif, Muhammad, and Ian G McHale. 2016. <span>“In-Play Forecasting of Win Probability in One-Day International Cricket: A Dynamic Logistic Regression Model.”</span> <em>International Journal of Forecasting</em> 32 (1): 34–43. <a href="https://doi.org/10.1016/j.ijforecast.2015.02.005">https://doi.org/10.1016/j.ijforecast.2015.02.005</a>.
+</div>
+<div id="ref-bhattacharjee2016impact" class="csl-entry" role="listitem">
+Bhattacharjee, Debabrata, Monami Pandey, Himangshu Saikia, and Uday Kumar Radhakrishnan. 2016. <span>“Impact of Power Play Overs on the Outcome of Twenty20 Cricket Match.”</span> <em>Annals of Applied Sports Science</em> 4 (1): 39–47. <a href="https://doi.org/10.7508/aass.2016.01.007">https://doi.org/10.7508/aass.2016.01.007</a>.
+</div>
+<div id="ref-dinsdale2023explaining" class="csl-entry" role="listitem">
+Dinsdale, David. 2023. <span>“Explaining Next Ball Probability in Cricket.”</span> 2023. <a href="https://theanalyst.com/na/2022/10/opta-next-ball-predictor/">https://theanalyst.com/na/2022/10/opta-next-ball-predictor/</a>.
+</div>
+<div id="ref-marshall2024talk" class="csl-entry" role="listitem">
+Marshall, Thomas, Oliver R Runswick, and David P Broadbent. 2024. <span>“<span>‘What We Talk about Is Creating a Probability’</span>: Exploring the Interaction Between the Anticipation and Decision-Making Processes of Professional Bowlers and Batters in Twenty20 Cricket.”</span> <em>Psychology of Sport and Exercise</em> 70: 102543. <a href="https://doi.org/10.1016/j.psychsport.2023.102543">https://doi.org/10.1016/j.psychsport.2023.102543</a>.
+</div>
+</div></section></div></main>
+<!-- /main column -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+    const config = {
+      allowHTML: true,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start',
+    };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            div.style.left = 0;
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+
+
+
+
+</body></html>
