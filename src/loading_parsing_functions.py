@@ -8,11 +8,9 @@ from collections import defaultdict
 
 def parse_cricket_json(file_content, game_id):
     data = json.load(file_content)
-
     innings = data['innings']
     player_registry = data['info']['registry']['people']
     season = data['info']['season']
-
     deliveries_data = []
 
     for inning in innings:
@@ -35,32 +33,64 @@ def parse_cricket_json(file_content, game_id):
                 fielders_id = [player_registry.get(fielders[0], "Unknown") if fielders[0] else ""]
                 kind = [wicket_info[0]['kind'] if wicket_info else ""]
 
-                delivery_info = {
-                    "game_id": game_id,
-                    "season": season,
-                    "team": team_name,
-                    "over": over_number,
-                    "batter": delivery['batter'],
-                    "batter_id": batter_id,
-                    "bowler": delivery['bowler'],
-                    "bowler_id": bowler_id,
-                    "non_striker": delivery['non_striker'],
-                    "non_striker_id": non_striker_id,
-                    "wides": wides,
-                    "noballs": noballs,
-                    "legbyes": legbyes,
-                    "byes": byes,
-                    "wicket": wicket,
-                    "player_out": player_out,
-                    "player_out_id": player_out_id,
-                    "fielders_name": fielders[0],
-                    "fielders_id": fielders_id[0],
-                    "wicket_type": kind[0],
-                    "runs_batter": delivery['runs']['batter'],
-                    "runs_extras": delivery['runs']['extras'],
-                    "runs_total": delivery['runs']['total']
-                }
-                deliveries_data.append(delivery_info)
+    delivery_info = {
+        "game_id": game_id,
+        "season": season,
+        "team": team_name,
+        "over": over_number,
+        "batter": delivery['batter'],
+        "batter_id": batter_id,
+        "bowler": delivery['bowler'],
+        "bowler_id": bowler_id,
+        "non_striker": delivery['non_striker'],
+        "non_striker_id": non_striker_id,
+        "wides": wides,
+        "noballs": noballs,
+        "legbyes": legbyes,
+        "byes": byes,
+        "wicket": wicket,
+        "player_out": player_out,
+        "player_out_id": player_out_id,
+        "fielders_name": fielders[0],
+        "fielders_id": fielders_id[0],
+        "wicket_type": kind[0],
+        "runs_batter": delivery['runs']['batter'],
+        "runs_extras": delivery['runs']['extras'],
+        "runs_total": delivery['runs']['total']
+    }
+    deliveries_data.append(delivery_info)
+    return pd.DataFrame(deliveries_data)
+
+
+
+
+def add_columns(df):
+    if 'team' not in df.columns or 'over' not in df.columns or 'runs_total' not in df.columns:
+        raise KeyError("Columns are missing")
+    else:
+
+        # add the over for each team specifically
+        df['team_over'] = df['team'] + "_" + df['over'].astype('str')
+
+        # indicate which ball it is in the over
+        df['over_ball'] = df.groupby('team_over').cumcount() + 1
+
+        # list the teams in specific game
+        teams = df['team'].unique() 
+
+        # create inning column
+        df['inning'] = [1 if x == teams[0] else 2 for x in df['team']]
+
+        # calculate runs so far in innings
+        df['runs_cumulative'] = df.groupby('inning')['runs_total'].cumsum()
+
+        # check if it is powerplay 
+        df['powerplay'] = [1 if x <= 5 else 0 for x in df['over']]
+        
+        df['powerplay'] = df['powerplay'].astype('object')
+        df['inning'] = df['inning'].astype('object')
+    
+    return df
 
 def process_cricket_jsons(zip_file_path, output_folder):
     """
@@ -104,30 +134,6 @@ def process_cricket_jsons(zip_file_path, output_folder):
             progress_percentage = (processed_files / total_files) * 100
             print(f"Progress: {progress_percentage:.2f}%")
 
-def add_columns(df):
-
-    # add the over for each team specifically
-    df['team_over'] = df['team'] + "_" + df['over'].astype('str')
-
-    # indicate which ball it is in the over
-    df['over_ball'] = df.groupby('team_over').cumcount() + 1
-
-    # list the teams in specific game
-    teams = df['team'].unique() 
-
-    # create inning column
-    df['inning'] = [1 if x == teams[0] else 2 for x in df['team']]
-
-    # calculate runs so far in innings
-    df['runs_cumulative'] = df.groupby('inning')['runs_total'].cumsum()
-
-    # check if it is powerplay 
-    df['powerplay'] = [1 if x <= 5 else 0 for x in df['over']]
-    
-    df['powerplay'] = df['powerplay'].astype('object')
-    df['inning'] = df['inning'].astype('object')
-    
-    return df
 
 def determine_majority_dtypes(parquet_files, input_folder):
     """
