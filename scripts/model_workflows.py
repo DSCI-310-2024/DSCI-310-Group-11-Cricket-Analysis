@@ -2,6 +2,7 @@ import numpy as np
 import pandas as pd
 import os
 import click
+import sys
 import matplotlib.pyplot as plt
 import sklearn.metrics as metrics
 from sklearn.model_selection import train_test_split
@@ -9,7 +10,7 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.preprocessing import StandardScaler, OneHotEncoder
 from sklearn.pipeline import make_pipeline
 from sklearn.compose import make_column_transformer
-
+sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
 from src.model_functions import *
 
 @click.command()
