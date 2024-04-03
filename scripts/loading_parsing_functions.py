@@ -24,6 +24,9 @@ def main(input_folder, output_file):
     - output_file: Full path and name of the output Parquet file.
     """
 
+    #convert json files into Parquest file 
+    process_cricket_jsons("data/t20s_json.zip", input_folder)
+
     # Ensure the input folder exists
     if not os.path.exists(input_folder):
         os.makedirs(input_folder)  # This creates the input_folder if it does not exist
