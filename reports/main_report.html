@@ -131,7 +131,7 @@ div.csl-indent {
 <li>Runs scored till now: Looks at the amount of runs scored in the inning up until the current ball. Fewer runs scored may mean the batter is more likely to take risks in order to get more.</li>
 <li>Powerplay: A powerplay is when there are fielding restrictions placed on the bowling team, making it harder for them to get a wicket.&nbsp;</li>
 </ol>
-<p>We will be looking at the above factors along with some others to judge what factors may be best for our model in the Exploratory Data Analysis section. We will be reading our data in json files from the <a href="https://cricsheet.org/downloads/">Cricsheet</a> website, and converting it to our desired <code>csv</code> format using the scripts in the <code>cricsheet_json_parsing.ipynb</code> file which can be found in the <code>src</code> folder.</p>
+<p>We will be looking at the above factors along with some others to judge what factors may be best for our model in the Exploratory Data Analysis section. We will be reading our data in json files from the <a href="https://cricsheet.org/downloads/">Cricsheet</a> website, and converting it to our desired <code>.parquet</code> format using the scripts in the <code>loading_parsing_functions.py</code> file which can be found in the <code>src</code> folder.</p>
 </section>
 <section id="methods" class="level2">
 <h2 class="anchored" data-anchor-id="methods">Methods</h2>
@@ -139,7 +139,7 @@ div.csl-indent {
 <section id="exploratory-data-analysis" class="level3">
 <h3 class="anchored" data-anchor-id="exploratory-data-analysis">Exploratory Data Analysis</h3>
 <p>The dataset contains 28 columns and 510652 observations related to cricket. The ratio of quantitative to categorical (ordinal and nominal) data is approximately 50:50. Note that the columns <strong>player_out, player_out_id, fielder_name, fielders_id, and wicket_type</strong> show a significant amount of missing values. Player_out and player_out_id may be missing due to inapplicability (e.g., no one is out), which results in fielder_name, fielder_id, and wicket_type being invalid in these observations. Thus, these missing data are likely classified as <strong>missing at random(MAR)</strong>. Given the complexity of imputing these values, they are unlikely to be included in our further analysis.</p>
-<p>Note that, among the 28 columns, there were few attributes generated based on existing columns, and they are “over_ball”, “inning”, “runs_cumulative”, and “powerplay”. Although they are all integers, it is important to note that, only “overball” and “runs_cumulative” are quantitative, whereas “inning” and “powerplay” are categorical. Detailed calculations of these attributes are in the <code>cricsheet-json-parsing.ipynb</code> file.</p>
+<p>Note that, among the 28 columns, there were few attributes generated based on existing columns, and they are “over_ball”, “inning”, “runs_cumulative”, and “powerplay”. Although they are all integers, it is important to note that, only “overball” and “runs_cumulative” are quantitative, whereas “inning” and “powerplay” are categorical. Detailed calculations of these attributes are in the <code>loading_parsing_functions.py</code> file in the <code>src</code> folder.</p>
 <p>** Distribution of Variables**</p>
 <div id="fig-var_dist" class="quarto-figure quarto-figure-center quarto-float anchored">
 <figure class="quarto-float quarto-float-fig figure">
