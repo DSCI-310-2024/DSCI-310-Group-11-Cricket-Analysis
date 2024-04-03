@@ -10,7 +10,7 @@ Contributors:
 
 ## Project Summary
 
-Our project works on predicting the probability of getting a wicket on a delivery in Cricket based off of game plays. Being avid sports fans, and wanting to explore a new sport, we looked towards Cricket and specifically T20 International matches to do our analysis. Our analysis uses ball-by-ball data from [Cricsheet](https://cricsheet.org/), downloaded in `json` format and then converted to `csv` format. 
+Our project works on predicting the probability of getting a wicket on a delivery in Cricket based off of game plays. Being avid sports fans, and wanting to explore a new sport, we looked towards Cricket and specifically T20 International matches to do our analysis. Our analysis uses ball-by-ball data from [Cricsheet](https://cricsheet.org/), downloaded in `json` format and then converted to `.parquet` format. 
 
 ## Dependencies
 
@@ -25,7 +25,7 @@ This project will be managed using the virtual containerization tool [Docker](ht
 
  `git clone https://github.com/DSCI-310-2024/DSCI-310-Group-11.git` 
 
-**Note**: Our data is fairly large, and cloning it may result in an issue with having the `.csv` data on your local. The scripts will run and still produce the correct data files needed. 
+**Note**: Our data is fairly large, and cloning it may result in an issue with having the `.parquet` data on your local. The scripts will run and still produce the correct data files needed. 
 
 ### Analysis 
 
