@@ -1,0 +1,14 @@
+# Ignore compiled Python files
+__pycache__
+
+# Ignore environment-related files
+environment.yaml
+
+
+# Ignore cache folder
+.cache/
+.pytest_cache/
+src/__pycache__/data_clean_functions.cpython-39.pyc
+src/__pycache__/model_functions.cpython-39.pyc
+tests/__pycache__/test_data_clean.cpython-39-pytest-8.1.1.pyc
+tests/__pycache__/test_model.cpython-39-pytest-8.1.1.pyc
