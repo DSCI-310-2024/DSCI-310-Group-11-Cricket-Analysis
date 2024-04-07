@@ -15,5 +15,6 @@ RUN conda install -y \
     pytest=8.1.1\
     make=4.3\
     quarto=1.4.550\
+    pytest-cov=5.0.0\
 
 
