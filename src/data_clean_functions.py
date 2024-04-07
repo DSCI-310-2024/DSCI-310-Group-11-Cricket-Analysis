@@ -35,7 +35,7 @@ def separate_columns(dataframe):
 
 
 
-def split_and_save_data(X, y, train_size=0.7, save_table_path="."):
+def split_and_save_data(X, y, train_size=0.7, save_table_path="../data/data_for_quarto"):
     """
     Split the data into training and testing sets, and save the training data to a CSV file.
 
