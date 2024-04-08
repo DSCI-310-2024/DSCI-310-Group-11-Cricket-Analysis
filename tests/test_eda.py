@@ -21,7 +21,7 @@ def test_vis_bar_output():
 
 # test for correct histogram outputs
 def test_hist_output():
-    assert os.path.isfile("images/Chart1.png"), "Image is not saved"
+    assert os.path.isfile("images/test_Chart1.png"), "Image is not saved"
 
 # test key error
 def test_column_error():

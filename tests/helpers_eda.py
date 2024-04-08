@@ -35,7 +35,7 @@ width2 = "a"
 height2 = 20.5
 
 ## testing for file path validity
-chart1 = "Chart1.png"
+chart1 = "test_Chart1.png"
 chart2 = 1
 
 filepath1 = "images/"
