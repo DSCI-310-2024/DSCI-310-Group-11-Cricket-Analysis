@@ -26,7 +26,12 @@ def main(parquet_path, save_path, save_table_path):
     X_train, X_test, y_train, y_test, train_data = split_and_save_data(X, y, train_size=0.7, save_table_path="../data/data_for_quarto")
 
     train_data = pd.concat([X_train, y_train], axis = 1)
-    train_data.to_csv(os.path.join(save_table_path, "train_data.csv"), index=False)
+    
+    if os.path.exists(save_table_path):
+        train_data.to_csv(os.path.join(save_table_path, "train_data.csv"), index=False)
+    else:
+        os.makedirs(save_table_path)
+
 
     over = vis_bar(data, "over", 150, 150)
     wides = vis_bar(data, "wides", 150, 150)
