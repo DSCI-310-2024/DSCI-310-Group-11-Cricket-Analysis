@@ -166,6 +166,10 @@ We are going to create a Logistic Regression Model for this analysis. We decided
 
 ## Summary of Results
 
+The model accuracy we get is 70% and the confusion matrix can be seen as below:
+
+![Confusion Matrix](../images/chart7.png){#fig-confusion_matrix}
+
 1. Explorational Data Analysis: The exploration revealed several key insights that influence model building and interpretation. For example, the analysis shows the vast difference in player occurrences.
 2. Model Building  and Selection: Based on the EDA findings, five features: Inning, over, powerplay, over_ball, and runs_cumulative were chosen based on the statistical relationships.One-hot encoding was applied for categorical variables to avoid introducing bias during model training.Finally, **Logistic Regression** was made due to the binary nature of the target variable (wicket or no wicket).Considering the potential drawbacks of class imbalance, the K-Nearest Neighbors (KNN) is not recommended.
 
