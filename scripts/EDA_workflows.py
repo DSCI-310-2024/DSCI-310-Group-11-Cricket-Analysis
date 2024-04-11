@@ -6,9 +6,8 @@ import click
 import sys
 import matplotlib.pyplot as plt
 from sklearn.model_selection import train_test_split
-sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
-from src.eda_functions import * 
-from src.data_clean_functions import * 
+from pycricketpred.eda import * 
+from pycricketpred.data_cleaning import * 
 
 alt.data_transformers.enable("vegafusion")
 alt.renderers.enable('jupyterlab')

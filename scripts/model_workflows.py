@@ -10,8 +10,7 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.preprocessing import StandardScaler, OneHotEncoder
 from sklearn.pipeline import make_pipeline
 from sklearn.compose import make_column_transformer
-sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
-from src.model_functions import *
+from pycricketpred.modelling import *
 
 @click.command()
 @click.option('--parquet_path', type=str, help = 'File path of all data files', default='../data/cricket_main.parquet')
