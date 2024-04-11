@@ -60,11 +60,15 @@ The dataset contains 28 columns and 510652 observations related to cricket. The 
 
 Note that, among the 28 columns, there were few attributes generated based on existing columns, and they are "over_ball", "inning", "runs_cumulative", and "powerplay". Although they are all integers, it is important to note that, only "overball" and "runs_cumulative" are quantitative, whereas "inning" and "powerplay" are categorical. Detailed calculations of these attributes are in the `loading_parsing_functions.py` file in the `src` folder. 
 
-** Distribution of Variables**
+**Distribution of Variables**
 
 ![Distribution of Variables](../images/chart1.png){#fig-var_dist width=90% height=90%}
 
 ![Distribution of Variables](../images/chart2.png){#fig-var_dist_2 width=90% height=90%}
+
+![Distribution of Variables](../images/chart2_team_above.png){#fig-var_dist_2_team1 width=90% height=90%}
+
+![Distribution of Variables](../images/chart2_team_below.png){#fig-var_dist_2_team2 width=90% height=90%}
 
 **Caption:**  @fig-var_dist and @fig-var_dist_2 bar chart illustrates the distribution of all the variables. Note that the analysis excludes all columns related to `ID` as they are primarily for identification purposes and are unlikely to show significant patterns. It is observed that none of the quantitative attributes follow a normal distribution; most are right-skewed distributions. An interesting finding is noted in the attributes `over` in @fig-var_dist, where the frequency **steadily** decreases with increasing values, suggesting further analysis. Concerning ordinal attributes, we have a significantly higher amount of data from seasons that happened in recent years than in the past. 
 

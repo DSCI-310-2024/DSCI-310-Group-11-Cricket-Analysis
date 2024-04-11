@@ -15,9 +15,9 @@ alt.renderers.enable('jupyterlab')
 alt.renderers.enable('mimetype')
 
 @click.command()
-@click.option('--parquet_path', type=str, help = 'File path of train data', default='../data/cricket_main.parquet')
-@click.option('--save_path', type=str, help = 'File path to save image outputs', default='../images')
-@click.option('--save_table_path', type=str, help = 'File path to save table outputs', default='../data/data_for_quarto')
+@click.option('--parquet_path', type=str, help = 'File path of train data', default='data/cricket_main.parquet')
+@click.option('--save_path', type=str, help = 'File path to save image outputs', default='images')
+@click.option('--save_table_path', type=str, help = 'File path to save table outputs', default='data/data_for_quarto')
 
 def main(parquet_path, save_path, save_table_path):
     
@@ -58,9 +58,10 @@ def main(parquet_path, save_path, save_table_path):
     chart1.save(os.path.join(save_path, "chart1.png"))
 
     season = vis_bar(data, "season", 500, 150)
-    team = vis_bar(data, "team", 900, 150)
+    team_above_10k, team_leq_10k = vis_bar_team(data, "team", 900, 150)
     inning = vis_bar(data, "inning:N", 150, 150)
     powerplay = vis_bar(data, "powerplay:N", 150, 150)
+
 
     title_1_b = alt.Chart(
         {"values": [{"text": "Figure 1.2: Distribution of Variables"}]}
@@ -69,8 +70,12 @@ def main(parquet_path, save_path, save_table_path):
     )
 
     h_1 = alt.hconcat(inning, powerplay)
-    chart2 = alt.vconcat(season, team, h_1)
+    chart2 = alt.vconcat(season, h_1)
     chart2.save(os.path.join(save_path, "chart2.png"))
+
+    team_above_10k.save(os.path.join(save_path, "chart2_team_above.png"))
+    team_leq_10k.save(os.path.join(save_path, "chart2_team_below.png"))
+
 
     corr_data = data[["over", "wides", "noballs", "legbyes", "byes", "runs_batter", "runs_extras", "runs_total", "over_ball", "runs_cumulative", "wicket"]]
     corr_df = corr_data.corr()

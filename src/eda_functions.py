@@ -50,7 +50,87 @@ def vis_bar(data, x_input, width, height):
         )
     return chart
 
+
+def vis_bar_team(data, x_input, width, height):
+    """
+    Function to create two bar charts:
+        - One showing the count of records greater than 10,000 in the x_input column.
+        - Another showing the count of records less than or equal to 10,000 in the x_input column.
+
+    Args:
+        data: DataFrame containing the data.
+        x_input: String, the column name for the x-axis.
+        width: Integer, the width of the charts.
+        height: Integer, the height of the charts.
+
+    Returns:
+        A tuple containing two Altair charts.
+    """
+
+    #make sure width and height are correct input types
+    if type(width) != int or type(height) != int:
+        raise TypeError("Width and Height must be integers")
     
+    # make sure column name is correct input type
+    elif type(x_input) != str:
+        raise TypeError("X input must be a string")
+    
+    # ensure dataframe is not empty
+    elif data.empty == True:
+        raise ValueError("DataFrame shouldn't be empty")
+    
+    # if column is nominal, we include :N at the end. ensure that the actual column name is in the dataframe
+    elif x_input[-2:] == ':N' and x_input[:-2] not in data.columns:
+        raise KeyError("Column must be in DataFrame")
+
+    elif x_input[-2:] != ':N' and x_input not in data.columns:
+        raise KeyError("Column must be in DataFrame")
+    # create chart
+    else:
+                # transform nominal columns
+        if x_input[-2:] == ':N':
+            x_input = x_input[:-2]
+
+        df_counts = data[x_input].value_counts().rename_axis(x_input).reset_index(name='counts')
+
+        # Filter data for records above 10,000
+        data_above_10k = df_counts[df_counts['counts'] > 10000]
+
+        # Filter data for records below or equal to 10,000
+        data_below_or_equal_10k = df_counts[df_counts['counts'] <= 10000]
+
+        # Create chart for records above 10,000
+        chart_above_10k = (
+            alt.Chart(data_above_10k)
+            .mark_bar()
+            .encode(
+                x=x_input,
+                y='counts',
+            )
+            .properties(
+                width=width,
+                height=height,
+                title="Count (Above 10,000)"
+            )
+        )
+
+        # Create chart for records below or equal to 10,000
+        chart_below_or_equal_10k = (
+            alt.Chart(data_below_or_equal_10k)
+            .mark_bar()
+            .encode(
+                x=x_input,
+                y="counts",
+            )
+            .properties(
+                width=width,
+                height=height,
+                title="Count (Below or Equal to 10,000)"
+            )
+        )
+
+    return chart_above_10k, chart_below_or_equal_10k
+
 def hist_chart(data, col, chart_name, save_path):
     """
     function to create and save distribution of wickets across different categories
