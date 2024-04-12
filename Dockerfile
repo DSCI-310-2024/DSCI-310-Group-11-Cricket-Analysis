@@ -12,8 +12,15 @@ RUN conda install -y \
     altair=5.2.0 \
     vegafusion=1.6.5 \
     vl-convert-python=1.2.3 \
-    pytest=8.1.1\
+    vegafusion-python-embed=1.6.6 \
+    pytest=8.1.1 \
     make=4.3\
-    quarto=1.4.550\
+    quarto=1.4.550
+
+# final version to be updated
+RUN pip install \
+    pycricketpred==0.1.1 
+
+
 
 

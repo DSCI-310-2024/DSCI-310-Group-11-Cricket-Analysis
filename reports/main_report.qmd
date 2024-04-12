@@ -48,7 +48,8 @@ Cricket is a bat and ball sport involving two teams of eleven players each. Orig
 6. Runs scored till now: Looks at the amount of runs scored in the inning up until the current ball. Fewer runs scored may mean the batter is more likely to take risks in order to get more.
 7. Powerplay: A powerplay is when there are fielding restrictions placed on the bowling team, making it harder for them to get a wicket. 
 
-We will be looking at the above factors along with some others to judge what factors may be best for our model in the Exploratory Data Analysis section. We will be reading our data in json files from the [Cricsheet](https://cricsheet.org/downloads/) website, and converting it to our desired `.parquet` format using the scripts in the `loading_parsing_functions.py` file which can be found in the `src` folder.
+We will be looking at the above factors along with some others to judge what factors may be best for our model in the Exploratory Data Analysis section. We used the `pycricketpred` package to run our analysis.
+We will be reading our data in json files from the [Cricsheet](https://cricsheet.org/downloads/) website, and converting it to our desired `.parquet` format using functions from `pycricketpred.data_wrangling`
 
 ## Methods
 
@@ -56,17 +57,17 @@ Firstly, we will perform some exploratory data analysis on the training data to 
 
 ### Exploratory Data Analysis
 
-The dataset contains 28 columns and 510652 observations related to cricket. The ratio of quantitative to categorical (ordinal and nominal) data is approximately 50:50. Note that the columns **player_out, player_out_id, fielder_name, fielders_id, and wicket_type** show a significant amount of missing values. Player_out and player_out_id may be missing due to inapplicability (e.g., no one is out), which results in fielder_name, fielder_id, and wicket_type being invalid in these observations. Thus, these missing data are likely classified as **missing at random(MAR)**. Given the complexity of imputing these values, they are unlikely to be included in our further analysis.
+The dataset contains 28 columns and 510652 observations related to cricket. The ratio of quantitative to categorical (ordinal and nominal) data is approximately 50:50. Note that the columns **`player_out`, `player_out_id`, `fielder_name`, `fielders_id`, and `wicket_type`** show a significant amount of missing values. Player_out and player_out_id may be missing due to inapplicability (e.g., no one is out), which results in fielder_name, fielder_id, and wicket_type being invalid in these observations. Thus, these missing data are likely classified as **missing at random (MAR)**. Given the complexity of imputing these values, they are unlikely to be included in our further analysis.
 
-Note that, among the 28 columns, there were few attributes generated based on existing columns, and they are "over_ball", "inning", "runs_cumulative", and "powerplay". Although they are all integers, it is important to note that, only "overball" and "runs_cumulative" are quantitative, whereas "inning" and "powerplay" are categorical. Detailed calculations of these attributes are in the `loading_parsing_functions.py` file in the `src` folder. 
+Note that, among the 28 columns, there were few attributes generated based on existing columns, and they are `over_ball`, `inning`, `runs_cumulative`, and `powerplay`. Although they are all integers, it is important to note that, only `runs_cumulative` is quantitative, whereas `inning`, `over_ball` and `powerplay` are categorical. These were generated using the `add_columns` function from `pycricketpred.data_wrangling`.
 
-** Distribution of Variables**
+**Distribution of Variables**
 
 ![Distribution of Variables](../images/chart1.png){#fig-var_dist}
 
 ![Distribution of Variables](../images/chart2.png){#fig-var_dist_2}
 
-**Caption:**  @fig-var_dist and @fig-var_dist_2 bar chart illustrates the distribution of all the variables. Note that the analysis excludes all columns related to `ID` as they are primarily for identification purposes and are unlikely to show significant patterns. It is observed that none of the quantitative attributes follow a normal distribution; most are right-skewed distributions. An interesting finding is noted in the attributes `over` in @fig-var_dist, where the frequency **steadily** decreases with increasing values, suggesting further analysis. Concerning ordinal attributes, we have a significantly higher amount of data from seasons that happened in recent years than in the past. 
+ @fig-var_dist and @fig-var_dist_2 bar chart illustrates the distribution of all the variables. Note that the analysis excludes all columns related to `ID` as they are primarily for identification purposes and are unlikely to show significant patterns. It is observed that none of the quantitative attributes follow a normal distribution; most are right-skewed distributions. An interesting finding is noted in the attributes `over` in @fig-var_dist, where the frequency **steadily** decreases with increasing values, suggesting further analysis. Concerning ordinal attributes, we have a significantly higher amount of data from seasons that happened in recent years than in the past. 
 
 In terms of `team` in @fig-var_dist_2, there appear to be more teams from "New Zealand," "South Africa," "India," "West India," "Pakistan," "Bangladesh," "Sri Lanka"  "Australia," and "England" than teams from other countries/regions. 
 
@@ -98,28 +99,26 @@ pd.concat([train_data["bowler"].value_counts().reset_index().head(5),
 
 
 
-Lastly, regarding nominal attributes, we are seeing an uneven distribution appearance of players(`batter`, `bowler`, and `non-striker`) in this dataset, by using non-striker as an example, some players such as V Kohli appear around 2100 times in this dataset according to @tbl-non_striker, where other players such as F Bangur only appeared once.  Due to such a large number of batters(@tbl-batter) and bowlers(@tbl-bowler) in the dataset, we will not be using it in our analysis. To use these attributes, we will also need to create summary statistics for each batters and bowlers, as explained by @dinsdale2023explaining which is out of the scope of our project.
+Lastly, regarding nominal attributes, we are seeing an uneven distribution appearance of players(`batter`, `bowler`, and `non-striker`) in this dataset, by using non-striker as an example, some players such as V Kohli appear around 2100 times in this dataset according to @tbl-non_striker, where other players such as F Bangur only appeared once.  Due to such a large number of batter (@tbl-batter) and bowlers (@tbl-bowler) in the dataset, we will not be using it in our analysis. To use these attributes, we will also need to create summary statistics for each batters and bowlers, as explained by @dinsdale2023explaining which is out of the scope of our project.
 
 
 
 In general, **none of the attributes in our dataset form a normal distribution**, with samples unevenly distributed across categorical attributes. It is important to remember this when training, testing, and interpreting the model, and to appropriately acknowledge this as a potential limitation.  
 
-### Multivariate Analysis - Correlation Analysis
+**Multivariate Analysis - Correlation Analysis**
 
 
 
 
+![Correlation Matrix](../images/chart3.png){#fig-correlation_matrix}
 
+Among the quantitative attributes in @fig-correlation_matrix, 5 pairs of relationship are above the threshold of weak correlation(**|r| > 0.3**), and they are: 
 
-![Correlation Matrix](../images/chart3.png){#fig-Correlation_Matrix}
-
-Among the quantitative attributes in @fig-Correlation_Matrix, 5 pairs of relationship are above the threshold of weak correlation(**|r| > 0.3**), and they are: 
-
-1. **batter_total & run_total(r = 0.97)**
-2. **over & runs_cumulative(r = 0.87)**
-3. **wides & runs_extras(r = 0.76)**
-5. **legbyes & runs_extras(r = 0.46)**
-8. **byes & runs_extra(r = 0.38)**
+1. **batter_total & run_total (r = 0.97)**
+2. **over & runs_cumulative (r = 0.87)**
+3. **wides & runs_extras (r = 0.76)**
+5. **legbyes & runs_extras (r = 0.46)**
+8. **byes & runs_extra (r = 0.38)**
 
 Note that, using Pearson's r might not be able to capture non-linear relationships that potentially exist among these relationships.
 
@@ -132,13 +131,13 @@ pd.DataFrame(train_data.groupby('powerplay')['wicket'].value_counts())
 
 
 
-We can see that there is a much higher proportion of wickets during the powerplay (approximately 31% are wickets compared to only around 6% in non-powerplay conditions) in @tbl-wicket_count_powerplay. This could be attributed to players taking more risks since there are more fielding restrictions in the powerplay [@bhattacharjee2016impact]. While most of the game is in the powerplay, and there is a class imbalance, this suggests that the powerplay does affect the chances of a wicket.
+We can see that the proportion of wickets taken in the powerplay is fairly similar to that taken outside. @tbl-wicket_count_powerplay. Studies show that powerplays generate more wickets, which could be attributed to players taking more risks since there are more fielding restrictions in the powerplay [@bhattacharjee2016impact]. While most of the game is in the powerplay, and there is a class imbalance, this suggests that the powerplay does affect the chances of a wicket. Our data does not show too much disparity, but we will still include this variable in our analysis to enrich the model.
 
 ![Wicket count across overs](../images/chart4.png){#fig-over_count_wicket}
 
 
 
-Similarly, the distribution from @fig-over_count_wicket above shows us that towards the end of the game, there are significantly less wickets than in the first few overs, which suggests that the variable `Over` could be used for our model as well.
+Similarly, the distribution from @fig-over_count_wicket above shows us that towards the end of the game, there are significantly more wickets than in the first few overs, which suggests that the variable `Over` could be used for our model as well. 
 
 
 ![Wicket count across innings](../images/chart5.png){#fig-inning_count_wicket}
@@ -163,11 +162,15 @@ We are going to create a Logistic Regression Model for this analysis. We decided
 
 # Discussion
 
-
 ## Summary of Results
 
-1. Explorational Data Analysis: The exploration revealed several key insights that influence model building and interpretation. For example, the analysis shows the vast difference in player occurrences.
-2. Model Building  and Selection: Based on the EDA findings, five features: Inning, over, powerplay, over_ball, and runs_cumulative were chosen based on the statistical relationships.One-hot encoding was applied for categorical variables to avoid introducing bias during model training.Finally, **Logistic Regression** was made due to the binary nature of the target variable (wicket or no wicket).Considering the potential drawbacks of class imbalance, the K-Nearest Neighbors (KNN) is not recommended.
+The model accuracy we get is 70.588% and the confusion matrix can be seen as below:
+
+![Confusion Matrix](../images/chart7.png){#fig-confusion_matrix}
+
+1. Exploratory Data Analysis: The exploration revealed several key insights that influence model building and interpretation. For example, the analysis shows the vast difference in player occurrences.
+
+2. Model Building  and Selection: Based on the EDA findings, five features: Inning, over, powerplay, over_ball, and runs_cumulative were chosen based on the statistical relationships.One-hot encoding was applied for categorical variables to avoid introducing bias during model training.Finally, **Logistic Regression** was made due to the binary nature of the target variable (wicket or no wicket). Considering the potential drawbacks of class imbalance, the K-Nearest Neighbors (KNN) is not recommended.
 
 ## Unexpected Findings
 

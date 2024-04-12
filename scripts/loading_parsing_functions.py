@@ -7,8 +7,7 @@ import zipfile
 import click
 from collections import defaultdict
 import sys
-sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
-from src.loading_parsing_functions import * 
+from pycricketpred.data_wrangling import * 
 
 @click.command()
 @click.option('--input_folder', type=str,default='../data/t20_parquet', help='Path to the parquet folder')

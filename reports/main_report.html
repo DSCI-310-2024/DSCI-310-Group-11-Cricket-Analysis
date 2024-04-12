@@ -75,7 +75,6 @@ div.csl-indent {
   <li><a href="#methods" id="toc-methods" class="nav-link" data-scroll-target="#methods">Methods</a>
   <ul class="collapse">
   <li><a href="#exploratory-data-analysis" id="toc-exploratory-data-analysis" class="nav-link" data-scroll-target="#exploratory-data-analysis">Exploratory Data Analysis</a></li>
-  <li><a href="#multivariate-analysis---correlation-analysis" id="toc-multivariate-analysis---correlation-analysis" class="nav-link" data-scroll-target="#multivariate-analysis---correlation-analysis">Multivariate Analysis - Correlation Analysis</a></li>
   </ul></li>
   <li><a href="#model-building" id="toc-model-building" class="nav-link" data-scroll-target="#model-building">Model Building</a></li>
   </ul></li>
@@ -131,16 +130,16 @@ div.csl-indent {
 <li>Runs scored till now: Looks at the amount of runs scored in the inning up until the current ball. Fewer runs scored may mean the batter is more likely to take risks in order to get more.</li>
 <li>Powerplay: A powerplay is when there are fielding restrictions placed on the bowling team, making it harder for them to get a wicket.&nbsp;</li>
 </ol>
-<p>We will be looking at the above factors along with some others to judge what factors may be best for our model in the Exploratory Data Analysis section. We will be reading our data in json files from the <a href="https://cricsheet.org/downloads/">Cricsheet</a> website, and converting it to our desired <code>.parquet</code> format using the scripts in the <code>loading_parsing_functions.py</code> file which can be found in the <code>src</code> folder.</p>
+<p>We will be looking at the above factors along with some others to judge what factors may be best for our model in the Exploratory Data Analysis section. We used the <code>pycricketpred</code> package to run our analysis. We will be reading our data in json files from the <a href="https://cricsheet.org/downloads/">Cricsheet</a> website, and converting it to our desired <code>.parquet</code> format using functions from <code>pycricketpred.data_wrangling</code></p>
 </section>
 <section id="methods" class="level2">
 <h2 class="anchored" data-anchor-id="methods">Methods</h2>
 <p>Firstly, we will perform some exploratory data analysis on the training data to get a better understanding of the dataset and what relationships there are with our target variable.</p>
 <section id="exploratory-data-analysis" class="level3">
 <h3 class="anchored" data-anchor-id="exploratory-data-analysis">Exploratory Data Analysis</h3>
-<p>The dataset contains 28 columns and 510652 observations related to cricket. The ratio of quantitative to categorical (ordinal and nominal) data is approximately 50:50. Note that the columns <strong>player_out, player_out_id, fielder_name, fielders_id, and wicket_type</strong> show a significant amount of missing values. Player_out and player_out_id may be missing due to inapplicability (e.g., no one is out), which results in fielder_name, fielder_id, and wicket_type being invalid in these observations. Thus, these missing data are likely classified as <strong>missing at random(MAR)</strong>. Given the complexity of imputing these values, they are unlikely to be included in our further analysis.</p>
-<p>Note that, among the 28 columns, there were few attributes generated based on existing columns, and they are “over_ball”, “inning”, “runs_cumulative”, and “powerplay”. Although they are all integers, it is important to note that, only “overball” and “runs_cumulative” are quantitative, whereas “inning” and “powerplay” are categorical. Detailed calculations of these attributes are in the <code>loading_parsing_functions.py</code> file in the <code>src</code> folder.</p>
-<p>** Distribution of Variables**</p>
+<p>The dataset contains 28 columns and 510652 observations related to cricket. The ratio of quantitative to categorical (ordinal and nominal) data is approximately 50:50. Note that the columns <strong><code>player_out</code>, <code>player_out_id</code>, <code>fielder_name</code>, <code>fielders_id</code>, and <code>wicket_type</code></strong> show a significant amount of missing values. Player_out and player_out_id may be missing due to inapplicability (e.g., no one is out), which results in fielder_name, fielder_id, and wicket_type being invalid in these observations. Thus, these missing data are likely classified as <strong>missing at random (MAR)</strong>. Given the complexity of imputing these values, they are unlikely to be included in our further analysis.</p>
+<p>Note that, among the 28 columns, there were few attributes generated based on existing columns, and they are <code>over_ball</code>, <code>inning</code>, <code>runs_cumulative</code>, and <code>powerplay</code>. Although they are all integers, it is important to note that, only <code>runs_cumulative</code> is quantitative, whereas <code>inning</code>, <code>over_ball</code> and <code>powerplay</code> are categorical. These were generated using the <code>add_columns</code> function from <code>pycricketpred.data_wrangling</code>.</p>
+<p><strong>Distribution of Variables</strong></p>
 <div id="fig-var_dist" class="quarto-figure quarto-figure-center quarto-float anchored">
 <figure class="quarto-float quarto-float-fig figure">
 <div aria-describedby="fig-var_dist-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
@@ -161,7 +160,7 @@ Figure&nbsp;2: Distribution of Variables
 </figcaption>
 </figure>
 </div>
-<p><strong>Caption:</strong> <a href="#fig-var_dist" class="quarto-xref">Figure&nbsp;1</a> and <a href="#fig-var_dist_2" class="quarto-xref">Figure&nbsp;2</a> bar chart illustrates the distribution of all the variables. Note that the analysis excludes all columns related to <code>ID</code> as they are primarily for identification purposes and are unlikely to show significant patterns. It is observed that none of the quantitative attributes follow a normal distribution; most are right-skewed distributions. An interesting finding is noted in the attributes <code>over</code> in <a href="#fig-var_dist" class="quarto-xref">Figure&nbsp;1</a>, where the frequency <strong>steadily</strong> decreases with increasing values, suggesting further analysis. Concerning ordinal attributes, we have a significantly higher amount of data from seasons that happened in recent years than in the past.</p>
+<p><a href="#fig-var_dist" class="quarto-xref">Figure&nbsp;1</a> and <a href="#fig-var_dist_2" class="quarto-xref">Figure&nbsp;2</a> bar chart illustrates the distribution of all the variables. Note that the analysis excludes all columns related to <code>ID</code> as they are primarily for identification purposes and are unlikely to show significant patterns. It is observed that none of the quantitative attributes follow a normal distribution; most are right-skewed distributions. An interesting finding is noted in the attributes <code>over</code> in <a href="#fig-var_dist" class="quarto-xref">Figure&nbsp;1</a>, where the frequency <strong>steadily</strong> decreases with increasing values, suggesting further analysis. Concerning ordinal attributes, we have a significantly higher amount of data from seasons that happened in recent years than in the past.</p>
 <p>In terms of <code>team</code> in <a href="#fig-var_dist_2" class="quarto-xref">Figure&nbsp;2</a>, there appear to be more teams from “New Zealand,” “South Africa,” “India,” “West India,” “Pakistan,” “Bangladesh,” “Sri Lanka” “Australia,” and “England” than teams from other countries/regions.</p>
 <p>The attribute <code>inning</code> in <a href="#fig-var_dist_2" class="quarto-xref">Figure&nbsp;2</a> doesn’t seem to have a significant difference across the two conditions, however, for <code>powerplay</code>, the number of occurrences in condition “0” is approximately twice as high as in condition “1.”</p>
 <div class="cell" data-execution_count="2">
@@ -188,51 +187,51 @@ Table&nbsp;1: Batter Summary Count
 <tr class="odd">
 <td data-quarto-table-cell-role="th">0</td>
 <td>Babar Azam</td>
-<td>3074</td>
+<td>2201</td>
 </tr>
 <tr class="even">
 <td data-quarto-table-cell-role="th">1</td>
-<td>BL Mooney</td>
-<td>2483</td>
+<td>RG Sharma</td>
+<td>2016</td>
 </tr>
 <tr class="odd">
 <td data-quarto-table-cell-role="th">2</td>
-<td>Mohammad Rizwan</td>
-<td>2389</td>
+<td>V Kohli</td>
+<td>1975</td>
 </tr>
 <tr class="even">
 <td data-quarto-table-cell-role="th">3</td>
-<td>S Mandhana</td>
-<td>2088</td>
+<td>BL Mooney</td>
+<td>1882</td>
 </tr>
 <tr class="odd">
 <td data-quarto-table-cell-role="th">4</td>
-<td>SW Bates</td>
-<td>1928</td>
+<td>Bismah Maroof</td>
+<td>1792</td>
 </tr>
 <tr class="even">
-<td data-quarto-table-cell-role="th">3799</td>
-<td>A Dutt</td>
+<td data-quarto-table-cell-role="th">4588</td>
+<td>H Eulenkamp</td>
 <td>1</td>
 </tr>
 <tr class="odd">
-<td data-quarto-table-cell-role="th">3800</td>
-<td>N Nankov</td>
+<td data-quarto-table-cell-role="th">4589</td>
+<td>MM Penfold</td>
 <td>1</td>
 </tr>
 <tr class="even">
-<td data-quarto-table-cell-role="th">3801</td>
-<td>N Ndouteng</td>
+<td data-quarto-table-cell-role="th">4590</td>
+<td>NM Carter</td>
 <td>1</td>
 </tr>
 <tr class="odd">
-<td data-quarto-table-cell-role="th">3802</td>
-<td>Maaha Naseer</td>
+<td data-quarto-table-cell-role="th">4591</td>
+<td>SD Hussein</td>
 <td>1</td>
 </tr>
 <tr class="even">
-<td data-quarto-table-cell-role="th">3803</td>
-<td>GDR Eranga</td>
+<td data-quarto-table-cell-role="th">4592</td>
+<td>Taful Elkhair</td>
 <td>1</td>
 </tr>
 </tbody>
@@ -268,52 +267,52 @@ Table&nbsp;2: Batter Summary Count
 <tbody>
 <tr class="odd">
 <td data-quarto-table-cell-role="th">0</td>
-<td>Babar Azam</td>
-<td>2932</td>
+<td>V Kohli</td>
+<td>2081</td>
 </tr>
 <tr class="even">
 <td data-quarto-table-cell-role="th">1</td>
-<td>Mohammad Rizwan</td>
-<td>2295</td>
+<td>Babar Azam</td>
+<td>2047</td>
 </tr>
 <tr class="odd">
 <td data-quarto-table-cell-role="th">2</td>
-<td>BL Mooney</td>
-<td>2094</td>
+<td>RG Sharma</td>
+<td>2017</td>
 </tr>
 <tr class="even">
 <td data-quarto-table-cell-role="th">3</td>
-<td>PR Stirling</td>
-<td>1974</td>
+<td>MJ Guptill</td>
+<td>1873</td>
 </tr>
 <tr class="odd">
 <td data-quarto-table-cell-role="th">4</td>
-<td>S Mandhana</td>
-<td>1958</td>
+<td>PR Stirling</td>
+<td>1730</td>
 </tr>
 <tr class="even">
-<td data-quarto-table-cell-role="th">3898</td>
+<td data-quarto-table-cell-role="th">4708</td>
+<td>Ahmed Baladraf</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">4709</td>
+<td>M Biu</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td data-quarto-table-cell-role="th">4710</td>
+<td>Ellen Asante</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">4711</td>
+<td>MM Patel</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td data-quarto-table-cell-role="th">4712</td>
 <td>K Loday</td>
-<td>1</td>
-</tr>
-<tr class="odd">
-<td data-quarto-table-cell-role="th">3899</td>
-<td>S Sandeepani</td>
-<td>1</td>
-</tr>
-<tr class="even">
-<td data-quarto-table-cell-role="th">3900</td>
-<td>R Mahajan</td>
-<td>1</td>
-</tr>
-<tr class="odd">
-<td data-quarto-table-cell-role="th">3901</td>
-<td>Noorullah Sidiqi</td>
-<td>1</td>
-</tr>
-<tr class="even">
-<td data-quarto-table-cell-role="th">3902</td>
-<td>Ahmadi Ravat</td>
 <td>1</td>
 </tr>
 </tbody>
@@ -349,52 +348,52 @@ Table&nbsp;3: Bowler Summary Count
 <tbody>
 <tr class="odd">
 <td data-quarto-table-cell-role="th">0</td>
-<td>IS Sodhi</td>
-<td>2139</td>
+<td>TG Southee</td>
+<td>1975</td>
 </tr>
 <tr class="even">
 <td data-quarto-table-cell-role="th">1</td>
-<td>Shadab Khan</td>
-<td>1982</td>
+<td>Shakib Al Hasan</td>
+<td>1721</td>
 </tr>
 <tr class="odd">
 <td data-quarto-table-cell-role="th">2</td>
-<td>TG Southee</td>
-<td>1956</td>
+<td>IS Sodhi</td>
+<td>1642</td>
 </tr>
 <tr class="even">
 <td data-quarto-table-cell-role="th">3</td>
-<td>MJ Santner</td>
-<td>1930</td>
+<td>AU Rashid</td>
+<td>1571</td>
 </tr>
 <tr class="odd">
 <td data-quarto-table-cell-role="th">4</td>
-<td>DB Sharma</td>
-<td>1923</td>
+<td>MJ Santner</td>
+<td>1545</td>
 </tr>
 <tr class="even">
-<td data-quarto-table-cell-role="th">2820</td>
-<td>KH Prajapati</td>
-<td>2</td>
+<td data-quarto-table-cell-role="th">3496</td>
+<td>Shenjian Zheng</td>
+<td>1</td>
 </tr>
 <tr class="odd">
-<td data-quarto-table-cell-role="th">2821</td>
+<td data-quarto-table-cell-role="th">3497</td>
+<td>Seif Athumani</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td data-quarto-table-cell-role="th">3498</td>
+<td>J Grzinic</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">3499</td>
 <td>Talha Khan</td>
 <td>1</td>
 </tr>
 <tr class="even">
-<td data-quarto-table-cell-role="th">2822</td>
-<td>Saif Hassan</td>
-<td>1</td>
-</tr>
-<tr class="odd">
-<td data-quarto-table-cell-role="th">2823</td>
-<td>E Ul Haq</td>
-<td>1</td>
-</tr>
-<tr class="even">
-<td data-quarto-table-cell-role="th">2824</td>
-<td>J Grzinic</td>
+<td data-quarto-table-cell-role="th">3500</td>
+<td>Riyaz Kajalwala</td>
 <td>1</td>
 </tr>
 </tbody>
@@ -407,28 +406,26 @@ Table&nbsp;3: Bowler Summary Count
 </figure>
 </div>
 </div>
-<p>Lastly, regarding nominal attributes, we are seeing an uneven distribution appearance of players(<code>batter</code>, <code>bowler</code>, and <code>non-striker</code>) in this dataset, by using non-striker as an example, some players such as V Kohli appear around 2100 times in this dataset according to <a href="#tbl-non_striker" class="quarto-xref">Table&nbsp;1</a>, where other players such as F Bangur only appeared once. Due to such a large number of batters(<a href="#tbl-batter" class="quarto-xref">Table&nbsp;2</a>) and bowlers(<a href="#tbl-bowler" class="quarto-xref">Table&nbsp;3</a>) in the dataset, we will not be using it in our analysis. To use these attributes, we will also need to create summary statistics for each batters and bowlers, as explained by <span class="citation" data-cites="dinsdale2023explaining">Dinsdale (<a href="#ref-dinsdale2023explaining" role="doc-biblioref">2023</a>)</span> which is out of the scope of our project.</p>
+<p>Lastly, regarding nominal attributes, we are seeing an uneven distribution appearance of players(<code>batter</code>, <code>bowler</code>, and <code>non-striker</code>) in this dataset, by using non-striker as an example, some players such as V Kohli appear around 2100 times in this dataset according to <a href="#tbl-non_striker" class="quarto-xref">Table&nbsp;1</a>, where other players such as F Bangur only appeared once. Due to such a large number of batter (<a href="#tbl-batter" class="quarto-xref">Table&nbsp;2</a>) and bowlers (<a href="#tbl-bowler" class="quarto-xref">Table&nbsp;3</a>) in the dataset, we will not be using it in our analysis. To use these attributes, we will also need to create summary statistics for each batters and bowlers, as explained by <span class="citation" data-cites="dinsdale2023explaining">Dinsdale (<a href="#ref-dinsdale2023explaining" role="doc-biblioref">2023</a>)</span> which is out of the scope of our project.</p>
 <p>In general, <strong>none of the attributes in our dataset form a normal distribution</strong>, with samples unevenly distributed across categorical attributes. It is important to remember this when training, testing, and interpreting the model, and to appropriately acknowledge this as a potential limitation.</p>
-</section>
-<section id="multivariate-analysis---correlation-analysis" class="level3">
-<h3 class="anchored" data-anchor-id="multivariate-analysis---correlation-analysis">Multivariate Analysis - Correlation Analysis</h3>
-<div id="fig-Correlation_Matrix" class="quarto-figure quarto-figure-center quarto-float anchored">
+<p><strong>Multivariate Analysis - Correlation Analysis</strong></p>
+<div id="fig-correlation_matrix" class="quarto-figure quarto-figure-center quarto-float anchored">
 <figure class="quarto-float quarto-float-fig figure">
-<div aria-describedby="fig-Correlation_Matrix-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<div aria-describedby="fig-correlation_matrix-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 <img src="../images/chart3.png" class="img-fluid figure-img">
 </div>
-<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-Correlation_Matrix-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-correlation_matrix-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 Figure&nbsp;3: Correlation Matrix
 </figcaption>
 </figure>
 </div>
-<p>Among the quantitative attributes in <a href="#fig-Correlation_Matrix" class="quarto-xref">Figure&nbsp;3</a>, 5 pairs of relationship are above the threshold of weak correlation(<strong>|r| &gt; 0.3</strong>), and they are:</p>
+<p>Among the quantitative attributes in <a href="#fig-correlation_matrix" class="quarto-xref">Figure&nbsp;3</a>, 5 pairs of relationship are above the threshold of weak correlation(<strong>|r| &gt; 0.3</strong>), and they are:</p>
 <ol type="1">
-<li><strong>batter_total &amp; run_total(r = 0.97)</strong></li>
-<li><strong>over &amp; runs_cumulative(r = 0.87)</strong></li>
-<li><strong>wides &amp; runs_extras(r = 0.76)</strong></li>
-<li><strong>legbyes &amp; runs_extras(r = 0.46)</strong></li>
-<li><strong>byes &amp; runs_extra(r = 0.38)</strong></li>
+<li><strong>batter_total &amp; run_total (r = 0.97)</strong></li>
+<li><strong>over &amp; runs_cumulative (r = 0.87)</strong></li>
+<li><strong>wides &amp; runs_extras (r = 0.76)</strong></li>
+<li><strong>legbyes &amp; runs_extras (r = 0.46)</strong></li>
+<li><strong>byes &amp; runs_extra (r = 0.38)</strong></li>
 </ol>
 <p>Note that, using Pearson’s r might not be able to capture non-linear relationships that potentially exist among these relationships.</p>
 <div class="cell" data-execution_count="5">
@@ -460,20 +457,20 @@ Table&nbsp;4: Wicket Count based off of Powerplay
 <tr class="odd">
 <td rowspan="2" data-quarto-table-cell-role="th" data-valign="top">0</td>
 <td data-quarto-table-cell-role="th">0</td>
-<td>323986</td>
+<td>324894</td>
 </tr>
 <tr class="even">
 <td data-quarto-table-cell-role="th">1</td>
-<td>20878</td>
+<td>21003</td>
 </tr>
 <tr class="odd">
 <td rowspan="2" data-quarto-table-cell-role="th" data-valign="top">1</td>
 <td data-quarto-table-cell-role="th">0</td>
-<td>165011</td>
+<td>163930</td>
 </tr>
 <tr class="even">
 <td data-quarto-table-cell-role="th">1</td>
-<td>7580</td>
+<td>7628</td>
 </tr>
 </tbody>
 </table>
@@ -485,7 +482,7 @@ Table&nbsp;4: Wicket Count based off of Powerplay
 </figure>
 </div>
 </div>
-<p>We can see that there is a much higher proportion of wickets during the powerplay (approximately 31% are wickets compared to only around 6% in non-powerplay conditions) in <a href="#tbl-wicket_count_powerplay" class="quarto-xref">Table&nbsp;4</a>. This could be attributed to players taking more risks since there are more fielding restrictions in the powerplay <span class="citation" data-cites="bhattacharjee2016impact">(<a href="#ref-bhattacharjee2016impact" role="doc-biblioref">Bhattacharjee et al. 2016</a>)</span>. While most of the game is in the powerplay, and there is a class imbalance, this suggests that the powerplay does affect the chances of a wicket.</p>
+<p>We can see that the proportion of wickets taken in the powerplay is fairly similar to that taken outside. <a href="#tbl-wicket_count_powerplay" class="quarto-xref">Table&nbsp;4</a>. Studies show that powerplays generate more wickets, which could be attributed to players taking more risks since there are more fielding restrictions in the powerplay <span class="citation" data-cites="bhattacharjee2016impact">(<a href="#ref-bhattacharjee2016impact" role="doc-biblioref">Bhattacharjee et al. 2016</a>)</span>. While most of the game is in the powerplay, and there is a class imbalance, this suggests that the powerplay does affect the chances of a wicket. Our data does not show too much disparity, but we will still include this variable in our analysis to enrich the model.</p>
 <div id="fig-over_count_wicket" class="quarto-figure quarto-figure-center quarto-float anchored">
 <figure class="quarto-float quarto-float-fig figure">
 <div aria-describedby="fig-over_count_wicket-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
@@ -496,7 +493,7 @@ Figure&nbsp;4: Wicket count across overs
 </figcaption>
 </figure>
 </div>
-<p>Similarly, the distribution from <a href="#fig-over_count_wicket" class="quarto-xref">Figure&nbsp;4</a> above shows us that towards the end of the game, there are significantly less wickets than in the first few overs, which suggests that the variable <code>Over</code> could be used for our model as well.</p>
+<p>Similarly, the distribution from <a href="#fig-over_count_wicket" class="quarto-xref">Figure&nbsp;4</a> above shows us that towards the end of the game, there are significantly more wickets than in the first few overs, which suggests that the variable <code>Over</code> could be used for our model as well.</p>
 <div id="fig-inning_count_wicket" class="quarto-figure quarto-figure-center quarto-float anchored">
 <figure class="quarto-float quarto-float-fig figure">
 <div aria-describedby="fig-inning_count_wicket-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
@@ -531,9 +528,20 @@ Figure&nbsp;6: Wicket Probability Density by Cumulative runs scored in current i
 <h1>Discussion</h1>
 <section id="summary-of-results" class="level2">
 <h2 class="anchored" data-anchor-id="summary-of-results">Summary of Results</h2>
+<p>The model accuracy we get is 70.588% and the confusion matrix can be seen as below:</p>
+<div id="fig-confusion_matrix" class="quarto-figure quarto-figure-center quarto-float anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-confusion_matrix-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="../images/chart7.png" class="img-fluid figure-img">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-confusion_matrix-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;7: Confusion Matrix
+</figcaption>
+</figure>
+</div>
 <ol type="1">
-<li>Explorational Data Analysis: The exploration revealed several key insights that influence model building and interpretation. For example, the analysis shows the vast difference in player occurrences.</li>
-<li>Model Building and Selection: Based on the EDA findings, five features: Inning, over, powerplay, over_ball, and runs_cumulative were chosen based on the statistical relationships.One-hot encoding was applied for categorical variables to avoid introducing bias during model training.Finally, <strong>Logistic Regression</strong> was made due to the binary nature of the target variable (wicket or no wicket).Considering the potential drawbacks of class imbalance, the K-Nearest Neighbors (KNN) is not recommended.</li>
+<li><p>Exploratory Data Analysis: The exploration revealed several key insights that influence model building and interpretation. For example, the analysis shows the vast difference in player occurrences.</p></li>
+<li><p>Model Building and Selection: Based on the EDA findings, five features: Inning, over, powerplay, over_ball, and runs_cumulative were chosen based on the statistical relationships.One-hot encoding was applied for categorical variables to avoid introducing bias during model training.Finally, <strong>Logistic Regression</strong> was made due to the binary nature of the target variable (wicket or no wicket). Considering the potential drawbacks of class imbalance, the K-Nearest Neighbors (KNN) is not recommended.</p></li>
 </ol>
 </section>
 <section id="unexpected-findings" class="level2">
