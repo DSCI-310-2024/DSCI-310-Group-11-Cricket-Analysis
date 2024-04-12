@@ -87,6 +87,9 @@ def main(parquet_path, save_path, save_table_path):
     )
     chart3.save(os.path.join(save_path, "chart3.png"))
 
+    X_train['inning']=X_train['inning'].astype(int)
+
+
     hist_chart(data, 'over', 'chart4.png', save_path)
     hist_chart(data, 'inning', 'chart5.png', save_path)
                 
