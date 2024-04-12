@@ -15,11 +15,11 @@ RUN conda install -y \
     vegafusion-python-embed=1.6.6 \
     pytest=8.1.1 \
     make=4.3\
-    quarto=1.4.550\
+    quarto=1.4.550
 
 # final version to be updated
 RUN pip install \
-    pycricketpred=0.1.1 
+    pycricketpred==0.1.1 
 
 
 

@@ -8,6 +8,7 @@ import matplotlib.pyplot as plt
 from sklearn.model_selection import train_test_split
 from pycricketpred.eda import * 
 from pycricketpred.data_cleaning import * 
+from pycricketpred.modelling import *
 
 alt.data_transformers.enable("vegafusion")
 alt.renderers.enable('jupyterlab')
@@ -21,8 +22,15 @@ alt.renderers.enable('mimetype')
 def main(parquet_path, save_path, save_table_path):
     
     data = pd.read_parquet(parquet_path)
-    X, y = separate_columns(data)
-    X_train, X_test, y_train, y_test, train_data = split_and_save_data(X, y, train_size=0.7, save_table_path="../data/data_for_quarto")
+    # X, y = separate_columns(data)
+    # X_train, X_test, y_train, y_test, train_data = split_and_save_data(X, y, train_size=0.7, save_table_path="../data/data_for_quarto")
+    X_train, X_test, y_train, y_test = split_train_test(parquet_path)
+    train_df = pd.concat([X_train, y_train], axis = 1)
+    
+    if not os.path.exists(save_table_path):
+        os.makedirs(save_table_path)
+
+    train_df.to_csv(os.path.join(save_table_path, "train_data.csv"), index=False)
 
 
     over = vis_bar(data, "over", 150, 150)
